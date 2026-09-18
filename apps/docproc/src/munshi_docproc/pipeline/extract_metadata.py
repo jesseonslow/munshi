@@ -1,0 +1,358 @@
+"""Pipeline step: extract document metadata from PDF metadata and cover page text."""
+
+from __future__ import annotations
+
+import logging
+import re
+
+from munshi_docproc.schema import DocumentRecord, MetadataSource, TextBlockRecord
+
+logger = logging.getLogger(__name__)
+
+# Regex for DOI
+DOI_RE = re.compile(r"10\.\d{4,}/[^\s]+")
+
+# Regex for stable URL
+URL_RE = re.compile(r"https?://[^\s]+")
+
+# Markdown link suffix: Qwen3 VL sometimes renders hyperlinks as [text](url)
+_MD_LINK_TAIL_RE = re.compile(r"\]\(https?://[^\s)]+\)$")
+
+
+def _strip_markdown_link(value: str) -> str:
+    """Strip markdown-style link tail from extracted URLs/DOIs.
+
+    Qwen3 VL renders hyperlinks as markdown, so a DOI can appear as:
+      10.1353/ras.2016.0025](https://doi.org/10.1353/ras.2016.0025)
+    This strips the "](url)" suffix.
+    """
+    return _MD_LINK_TAIL_RE.sub("", value)
+
+# Regex for JSTOR/academic source line, e.g.:
+# "Source: Journal of ..., Vol. 84, No. 1 (June 2011), pp. 1-22"
+SOURCE_RE = re.compile(
+    r"Source:\s*(.+?)(?:,\s*Vol\.?\s*(\d+))?"
+    r"(?:,\s*No\.?\s*(\d+))?"
+    r"(?:\s*\(([^)]+)\))?"
+    r"(?:,\s*pp?\.?\s*([\d]+\s*-\s*[\d]+))?"
+    r"\s*$",
+    re.IGNORECASE | re.MULTILINE,
+)
+
+# Regex for MUSE citation format on cover pages. Handles both orderings of No./date:
+#   "..., Volume 84, Part 1, June 2010, No. 300, pp. 1-22"
+#   "..., Volume 93, Part 1, No. 318, June 2020, pp. 119-131"
+MUSE_CITATION_RE = re.compile(
+    r"(Journal of the Malaysian Branch of the Royal Asiatic Society)"
+    r",\s*Volume\s*(\d+)"
+    r"(?:,\s*Part\s*(\d+))?"
+    r".*?,\s*pp?\.?\s*([\d]+\s*-\s*[\d]+)",
+    re.IGNORECASE,
+)
+
+# Known-bad PDF metadata titles set by hosting platforms
+BAD_TITLES = {"PROJECT MUSE", "JSTOR", "Untitled", "Layout 1"}
+
+# Known platform headings to skip in title heuristic
+PLATFORM_HEADINGS = {"PROJECT MUSE", "JSTOR"}
+
+# Year extraction from various contexts
+YEAR_RE = re.compile(r"\b(1[5-9]\d{2}|20[0-2]\d)\b")
+
+# Filename pattern: "Author (YEAR) ..."
+_FILENAME_META_RE = re.compile(r"^(.+?)\s*\((\d{4})\)")
+
+
+def _clean_title(t: str) -> str:
+    """Strip markdown formatting artifacts and trailing author lines from title text."""
+    t = re.sub(r"\*{1,2}(.+?)\*{1,2}", r"\1", t)  # **bold** / *italic*
+    t = re.sub(r"^```(?:markdown)?\s*", "", t)  # code fence opener
+    t = re.sub(r"```\s*$", "", t)  # code fence closer
+    # If the block contains a newline, the first line is the title and subsequent
+    # lines are typically the author name (e.g. "Title\nPeter Borschberg").
+    # Take only the first non-empty line.
+    lines = [ln.strip() for ln in t.strip().splitlines() if ln.strip()]
+    t = lines[0] if lines else t.strip()
+    return t.strip()
+
+
+# Running header pattern: "Title NNN" at end of line where NNN is a page number
+_RUNNING_HEADER_RE = re.compile(r"\b(\d{1,4})\s*$", re.MULTILINE)
+
+
+def _detect_page_offset_from_running_headers(
+    document: DocumentRecord,
+    blocks_by_page: dict[int, list[TextBlockRecord]],
+    pdf_metadata: dict[str, str],
+) -> None:
+    """Detect page_offset by comparing running header page numbers with PDF page numbers.
+
+    Scanned journals often have running headers/footers containing the original page
+    number (e.g., "Swettenham's Perak Journals 1874-1876 109"). By comparing these
+    numbers with the actual PDF page, we can compute the offset.
+
+    Only samples from the last half of the document to avoid early pages that may have
+    different numbering (roman numerals, unnumbered plates, etc.).
+    """
+    from collections import Counter
+
+    total_pages = int(pdf_metadata.get("page_count", 0))
+    if total_pages == 0:
+        return
+
+    all_pages = sorted(blocks_by_page.keys())
+    # Sample from the second half of the document for stable offset
+    sample_start = all_pages[len(all_pages) // 2]
+
+    offset_samples: list[int] = []
+    for page_num in all_pages:
+        if page_num < sample_start:
+            continue
+        for block in blocks_by_page[page_num]:
+            text = block.text_clean or block.text_raw
+            for m in _RUNNING_HEADER_RE.finditer(text):
+                candidate = int(m.group(1))
+                # Plausible journal page: positive, less than 2x total pages,
+                # and different from the PDF page number
+                if not (1 <= candidate <= total_pages * 2):
+                    continue
+                if candidate == page_num:
+                    continue
+                offset = candidate - page_num
+                # Accept small negative offsets (journal page < PDF page, due to
+                # cover pages/plates) — typically -1 to -10
+                if -20 < offset < 0:
+                    offset_samples.append(offset)
+
+    if not offset_samples:
+        return
+
+    offset_counts = Counter(offset_samples)
+    best_offset, count = offset_counts.most_common(1)[0]
+    # Require at least 3 consistent samples to avoid false positives
+    if count >= 3:
+        document.page_offset = best_offset
+        logger.info("page_offset fallback: detected offset=%d from %d running header samples", best_offset, count)
+
+
+def extract_metadata(
+    document: DocumentRecord,
+    blocks_by_page: dict[int, list[TextBlockRecord]],
+    pdf_metadata: dict[str, str],
+) -> DocumentRecord:
+    """Extract metadata from PDF properties and cover page text.
+
+    Reads PyMuPDF doc.metadata and parses first 2 pages for JSTOR/MUSE
+    cover page patterns (Author(s):, Source:, Published by:, Stable URL:, DOI).
+
+    Mutates and returns the DocumentRecord with populated fields.
+    """
+    def _track(field: str, source: str, value: str, confidence: float = 0.9) -> None:
+        document.metadata_sources.append(
+            MetadataSource(field=field, source=source, confidence=confidence, raw_value=str(value)[:200])
+        )
+
+    # 1. Apply PDF-level metadata as defaults (skip known-bad platform titles)
+    if pdf_metadata.get("title") and not document.title:
+        candidate = pdf_metadata["title"].strip()
+        candidate_normalized = re.sub(r"[^\w\s]", "", candidate).strip().upper()
+        if candidate_normalized not in {re.sub(r"[^\w\s]", "", t).strip().upper() for t in BAD_TITLES}:
+            document.title = candidate
+            _track("title", "pdf_metadata", candidate, 0.6)
+    if pdf_metadata.get("author") and not document.author:
+        document.author = pdf_metadata["author"].strip()
+        _track("author", "pdf_metadata", document.author, 0.6)
+
+    # 2. Parse cover page text (first 2 pages)
+    cover_lines: list[str] = []
+    for page_num in sorted(blocks_by_page.keys())[:2]:
+        for block in blocks_by_page[page_num]:
+            text = block.text_clean or block.text_raw
+            cover_lines.extend(text.splitlines())
+
+    cover_text = "\n".join(cover_lines)
+
+    # Author(s): line
+    author_match = re.search(r"Author\(?s?\)?:\s*(.+)", cover_text, re.IGNORECASE)
+    if author_match and not document.author:
+        document.author = author_match.group(1).strip()
+        _track("author", "cover_page_regex", document.author)
+
+    # Author fallback: parse from filename pattern "Author (YEAR) ..."
+    if not document.author and document.source_filename:
+        fn_m = _FILENAME_META_RE.match(document.source_filename)
+        if fn_m:
+            document.author = fn_m.group(1).strip()
+            _track("author", "filename_pattern", document.author, 0.5)
+
+    # Source: line - parse journal, volume, issue, year, pages
+    source_match = SOURCE_RE.search(cover_text)
+    if source_match:
+        journal = source_match.group(1)
+        if journal and not document.publication:
+            document.publication = journal.strip().rstrip(",")
+            _track("publication", "cover_page_regex", document.publication)
+        if source_match.group(2) and not document.volume:
+            document.volume = source_match.group(2)
+            _track("volume", "cover_page_regex", document.volume)
+        if source_match.group(3) and not document.issue:
+            document.issue = source_match.group(3)
+            _track("issue", "cover_page_regex", document.issue)
+        date_part = source_match.group(4)
+        if date_part and not document.year:
+            year_m = YEAR_RE.search(date_part)
+            if year_m:
+                document.year = int(year_m.group(1))
+                _track("year", "cover_page_regex", str(document.year))
+        # Fallback: search full Source: line for year (handles "(226) (1974)" patterns)
+        if not document.year:
+            year_m = YEAR_RE.search(source_match.group(0))
+            if year_m:
+                document.year = int(year_m.group(1))
+                _track("year", "cover_page_regex", str(document.year))
+        if source_match.group(5) and not document.page_range_label:
+            document.page_range_label = source_match.group(5)
+            _track("page_range_label", "cover_page_regex", document.page_range_label)
+        # Build journal_ref from parsed fields
+        if not document.journal_ref and document.publication:
+            parts = [document.publication]
+            if document.volume:
+                parts.append(f"Vol. {document.volume}")
+            if document.issue:
+                parts.append(f"No. {document.issue}")
+            if document.page_range_label:
+                parts.append(f"pp. {document.page_range_label}")
+            document.journal_ref = ", ".join(parts)
+
+    # MUSE citation format (if JSTOR Source: didn't match)
+    if not source_match:
+        muse_match = MUSE_CITATION_RE.search(cover_text)
+        if muse_match:
+            if muse_match.group(1) and not document.publication:
+                document.publication = muse_match.group(1).strip()
+            if muse_match.group(2) and not document.volume:
+                document.volume = muse_match.group(2)
+            if muse_match.group(3) and not document.issue:
+                document.issue = muse_match.group(3)
+            if muse_match.group(4) and not document.page_range_label:
+                document.page_range_label = muse_match.group(4).replace(" ", "")
+            # Extract year from the full MUSE citation line (e.g. "June 2012, No. 300")
+            if not document.year:
+                year_m = YEAR_RE.search(muse_match.group(0))
+                if year_m:
+                    document.year = int(year_m.group(1))
+            # Build journal_ref
+            if not document.journal_ref and document.publication:
+                parts = [document.publication]
+                if document.volume:
+                    parts.append(f"Vol. {document.volume}")
+                if document.issue:
+                    parts.append(f"Part {document.issue}")
+                if document.page_range_label:
+                    parts.append(f"pp. {document.page_range_label}")
+                document.journal_ref = ", ".join(parts)
+
+    # Compute page_offset from page_range_label + page_count
+    if document.page_range_label:
+        try:
+            end_page = int(document.page_range_label.split("-")[-1].strip())
+            total_pages = int(pdf_metadata.get("page_count", 0))
+            if total_pages > 0:
+                document.page_offset = end_page - total_pages
+        except (ValueError, IndexError):
+            pass
+
+    # page_offset fallback: detect running page numbers from text blocks.
+    # Scanned journals often have running headers like "Title NNN" where NNN is the
+    # journal page number. Compare these with PDF page numbers to compute offset.
+    if document.page_offset == 0 and len(blocks_by_page) > 10:
+        _detect_page_offset_from_running_headers(document, blocks_by_page, pdf_metadata)
+
+    # Published by: line
+    publisher_match = re.search(r"Published by:\s*(.+)", cover_text, re.IGNORECASE)
+    if publisher_match and not document.publication:
+        document.publication = publisher_match.group(1).strip()
+
+    # Stable URL:
+    url_line_match = re.search(r"Stable URL:\s*(.+)", cover_text, re.IGNORECASE)
+    if url_line_match and not document.url:
+        url_m = URL_RE.search(url_line_match.group(1))
+        if url_m:
+            document.url = _strip_markdown_link(url_m.group(0).rstrip("."))
+            _track("url", "cover_page_regex", document.url)
+    # Fallback: any URL on cover pages
+    if not document.url:
+        url_m = URL_RE.search(cover_text)
+        if url_m:
+            document.url = _strip_markdown_link(url_m.group(0).rstrip("."))
+            _track("url", "cover_page_regex", document.url, 0.5)
+
+    # DOI
+    doi_match = DOI_RE.search(cover_text)
+    if doi_match and not document.doi:
+        document.doi = _strip_markdown_link(doi_match.group(0).rstrip("."))
+        _track("doi", "cover_page_regex", document.doi)
+
+    # Title heuristic: largest heading on page 1, or first substantial line
+    if not document.title:
+        page1_blocks = blocks_by_page.get(1, []) or blocks_by_page.get(min(blocks_by_page.keys(), default=1), [])
+        # Prefer heading blocks (skip platform headings like "PROJECT MUSE")
+        headings = [b for b in page1_blocks if b.block_type == "heading"]
+        first_is_platform = False
+        if headings:
+            for h in headings:
+                text = (h.text_clean or h.text_raw).strip()
+                text_normalized = re.sub(r"[^\w\s]", "", text).strip().upper()
+                if text_normalized in {p.upper() for p in PLATFORM_HEADINGS}:
+                    first_is_platform = True
+                    continue
+                if len(text) > 10:
+                    document.title = _clean_title(text)
+                    break
+        # If the first heading was a platform name (e.g. "PROJECT MUSE"),
+        # take the first paragraph after it as the title (not citation/boilerplate)
+        if not document.title and first_is_platform:
+            for b in page1_blocks:
+                if b.block_type in ("header", "footer", "page_number", "heading"):
+                    continue
+                text = (b.text_clean or b.text_raw).strip()
+                # Skip citation/boilerplate lines
+                if MUSE_CITATION_RE.search(text) or SOURCE_RE.search(text):
+                    continue
+                if text.lower().startswith(("published by", "author", "source:", "stable url")):
+                    continue
+                if len(text) > 10:
+                    document.title = _clean_title(text[:200])
+                    break
+        # Fallback: first substantial non-boilerplate paragraph
+        if not document.title:
+            for b in page1_blocks:
+                if b.block_type in ("header", "footer", "page_number"):
+                    continue
+                text = (b.text_clean or b.text_raw).strip()
+                if len(text) > 20:
+                    document.title = _clean_title(text[:200])
+                    break
+
+    # Year: prefer filename year (curated by user) over cover page dates
+    # which can differ from the actual publication year (e.g. JSTOR "June 2010" vs published 2011)
+    if document.source_filename:
+        fn_year_m = re.search(r"\((\d{4})\)", document.source_filename)
+        if fn_year_m:
+            document.year = int(fn_year_m.group(1))
+
+    # Year fallback: search cover text (risky — may find historical dates)
+    if not document.year:
+        year_m = YEAR_RE.search(cover_text)
+        if year_m:
+            document.year = int(year_m.group(1))
+
+    # Final cleanup: strip markdown artifacts from title (Qwen3 VL output)
+    if document.title:
+        document.title = _clean_title(document.title)
+
+    fields_found = sum(
+        1 for f in [document.title, document.author, document.year, document.doi, document.url] if f is not None
+    )
+    logger.info("Metadata extraction: populated %d/5 key fields", fields_found)
+    return document

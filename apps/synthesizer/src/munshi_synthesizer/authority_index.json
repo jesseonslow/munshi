@@ -1,0 +1,40 @@
+[
+  {
+    "id": "authority:swettenham-frank",
+    "canonical_name": "Swettenham, Sir Frank Athelstane (F.A.), 1850–1946",
+    "category": "person",
+    "is_collector_hub": false,
+    "aliases": [
+      "Frank Swettenham",
+      "Swettenham",
+      "F.A. Swettenham",
+      "Sir Frank Swettenham"
+    ],
+    "facets": [
+      "Perak Administration",
+      "Resident-General",
+      "Maxwell-Swettenham Rivalry"
+    ],
+    "cross_references": [
+      "Perak: History",
+      "Selangor: History",
+      "Railways"
+    ],
+    "citations": [
+      {
+        "author": "Barlow, H.S.",
+        "title": "Swettenham",
+        "journal_code": "MB",
+        "volume": "69(1)",
+        "raw_entry": "Barlow, H.S. Swettenham. MB 69(1) {R}"
+      },
+      {
+        "author": "Mohamad Rashidi Pakri",
+        "title": "The Maxwell-Swettenham rivalry",
+        "journal_code": "MB",
+        "volume": "84(2)",
+        "raw_entry": "Mohamad Rashidi Pakri. The Maxwell-Swettenham rivalry. MB 84(2)"
+      }
+    ]
+  }
+]

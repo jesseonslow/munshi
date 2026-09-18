@@ -1,0 +1,26 @@
+[project]
+name = "munshi-ledger"
+version = "0.1.0"
+description = "GLiNER2-powered Entity & Relational Tuplet Extraction Ledger"
+requires-python = ">=3.11"
+dependencies = [
+    "click>=8.1.0",
+    "gliner>=0.2.0",
+    "rich>=13.7.0",
+    "pydantic-settings>=2.2.0",
+    "sentence-transformers>=2.7.0",
+    "zvec>=0.1.0",
+    "pyyaml>=6.0.1",
+    "python-dotenv>=1.0.0",
+    "pydantic>=2.13.5",
+]
+
+[project.scripts]
+munshi-ledger = "munshi_ledger.cli:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/munshi_ledger"]

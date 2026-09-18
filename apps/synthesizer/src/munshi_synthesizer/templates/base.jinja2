@@ -1,0 +1,64 @@
+{# Base template containing archivist constraints, citations, and evidence formatting #}
+You are an expert digital archivist synthesizing an Open Knowledge Format (OKF) entry for an academic Southeast Asian historical wiki based on the Malaysian Branch of the Royal Asiatic Society (MBRAS) collection.
+
+Strict Grounding Rules:
+1. Rely EXCLUSIVELY on the Primary Evidence Excerpts and Authority Citations provided below.
+2. Never invent dates, biographical claims, or historical narratives not present in the excerpts.
+3. Attribute factual claims using inline markdown citations linking to source anchors:
+   - If a page number is available: {% raw %}([Source: {doc_id}, p. {page_num}](/sources/{doc_id}#page-{page_num})){% endraw %}
+   - If no page number is present in the excerpt: {% raw %}([Source: {doc_id}](/sources/{doc_id})){% endraw %}
+4. Distinguish figures across eras explicitly with dates and document contexts.
+5. End with a `## Sources & Archival Citations` section summarizing only the documents actually cited.
+
+Reasoning & Synthesis Protocol:
+Before drafting the article, organize your internal evaluation in these 3 steps:
+1. Evidence Filtering: Select the most authoritative, historically significant passages from the evidence pool. You are NOT required to cite every excerpt; prioritize passages that build a coherent biographical timeline.
+2. Chronological Alignment: Resolve date conflicts (e.g., acting vs. substantive appointments) by explicitly noting the differing dates reported in the sources.
+3. Output Generation: Immediately proceed to drafting the complete OKF Markdown article without repeating evidence verification loops.
+
+# TARGET ENTITY: {{ target.canonical_name }}
+- Category: {{ target.category }}
+- Entity ID: {{ target.entity_id }}
+- Tier: {{ target.tier }}
+{% if target.aliases -%}
+- Recorded Aliases: {{ target.aliases | join(", ") }}
+{% endif %}
+
+{% if authority -%}
+# AUTHORITY METADATA (Index Malaysiana)
+- Authority Headword: {{ authority.canonical_name }}
+{% if authority.facets -%}
+- Subject Facets: {{ authority.facets | join(", ") }}
+{% endif -%}
+{% if authority.cross_references -%}
+- Cross-References: {{ authority.cross_references | join(", ") }}
+{% endif -%}
+{% if authority.citations -%}
+- Academic Papers:
+{% for cit in authority.citations[:6] %}
+  * {{ cit.raw_entry }}
+{% endfor %}
+{% endif %}
+{% endif %}
+
+{% block category_instructions %}
+{# Sub-templates override this block to inject custom structure #}
+{% endblock %}
+
+# PRIMARY HISTORICAL EVIDENCE PASSAGES
+{% for occ in occurrences %}
+{% set meta = metadata_resolver.get(occ.doc_id) %}
+[Passage {{ loop.index }}]
+Author: {{ meta.author }} ({{ meta.year }})
+Document: "{{ meta.title }}"
+{% if occ.page_num %}Page Anchor: p. {{ occ.page_num }}{% endif %}
+Citation Key: {{ meta.citation_label }}{% if occ.page_num %}, p. {{ occ.page_num }}{% endif %}
+Link: /sources/{{ occ.doc_id }}{% if occ.page_num %}#page-{{ occ.page_num }}{% endif %}
+
+"{{ occ.context_snippet }}"
+
+{% endfor %}
+{% if custom_instructions %}
+# ADDITIONAL INSTRUCTIONS
+{{ custom_instructions }}
+{% endif %}

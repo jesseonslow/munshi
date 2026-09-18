@@ -1,0 +1,11 @@
+[project]
+name = "munshi-stitcher"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = [
+    "munshi-docproc",
+    "pydantic>=2.0",
+]
+
+[tool.uv.sources]
+munshi-docproc = { path = "../docproc" }

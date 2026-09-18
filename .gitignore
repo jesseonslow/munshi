@@ -1,0 +1,4 @@
+*/.venv
+.env
+sources/
+db/entity_ledger.db
