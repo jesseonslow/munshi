@@ -1,123 +1,138 @@
-# Mat Munshi: Architecture Overview & Migration Plan
+# Mat Munshi: Architecture Overview & System Reference
 
-## 1. Project Vision & Core Objectives
-* **Human-Centric Digital Archive**: Provide researchers with a browsable, interlinked, static historical encyclopedia (Wiki) based on the Malaysian Branch of the Royal Asiatic Society (MBRAS) corpus[cite: 4].
-* **Granular Primary Source Grounding**: Every claim, biographical detail, and historical summary must link back to exact pages and passages in the original digitized documents[cite: 4].
-* **Deterministic & Searchable Navigation**: Replace opaque "retrieval lottery" vector searches with structured concept navigation (PageIndex / Pagefind) and canonical entity cross-links[cite: 4, 6].
-* **Cost-Effective & Scalable Processing**: Leverage local processing for deterministic assembly and use API aggregators (OpenRouter) for external inference, eliminating dedicated cloud database and vector hosting expenses[cite: 4, 10].
-
----
-
-## 2. Multi-Tier Architecture Overview
-
-Raw Archive PDFs
-│
-▼
-[1. docproc App (Local MuPDF + OpenRouter VLM)]
-│
-▼ Outputs: text_blocks.jsonl, documents.jsonl, footnote_refs.jsonl, figures.jsonl
-[2. Source Markdown Stitcher (Deterministic Python)]
-│
-├──▶ /content/sources/{doc_id}.md (Full-text archival source with YAML frontmatter,
-│                                   page anchors , [^N] footnotes)
-▼
-[3. Windowed Entity Aggregator (OpenRouter - Qwen 2.5 7B/14B / Claude Haiku)]
-│
-├──▶ entity_ledger.db (SQLite/DuckDB: Canonical entity IDs, aliases, doc_id, page_num, snippets)
-│
-▼
-[4. OKF Synthesis Engine (Batch LLM Pass via OpenRouter - Gemini 1.5 Flash / Claude)]
-│
-├──▶ /content/wiki/concepts/*.md (Open Knowledge Format v0.2 Markdown)
-│
-▼
-[5. Static Presentation & Query Layer]
-├──▶ Astro Starlight + Pagefind (Human-browsable Static Wiki with 1-click citation jumps)
-└──▶ PageIndex Tree Index (Hierarchical Natural Language Discovery & Reasoning)
+## 1. Vision & Core Philosophy
+* **Human-Centric Archival Encyclopedia**: Deliver an interlinked, static digital research portal (Wiki) covering Malayan history, synthesized from the *Journal of the Straits / Malayan / Malaysian Branch of the Royal Asiatic Society* (JSBRAS/JMBRAS), monographs, and reprints.
+* **Top-Down Authority Spine**: Use *Index Malaysiana* as the primary ground truth to extract known authors, articles, publications, and subject taxonomies, avoiding naive, unconstrained NER extraction across arbitrary text blocks.
+* **Deterministic Attribution**: Ground every historical claim, concept, and biographical profile directly in archival sources using immutable page anchors (`<span id="page-N"></span>`) and issue metadata.
+* **Hybrid Two-Tier Resolution**: Combine fast exact-match authority lookup caches with semantic embedding fallback (`zvec-grep` / `ZvecResolver`) to resolve historical name variants and OCR fluctuations without cloud database lock-in.
 
 ---
 
-## 3. Detailed Pipeline Stages
+## 2. System Architecture & Component Flow
 
-### Tier 1: Document Processing (`docproc`)
-* **Role**: Primary document ingestion, layout analysis, and text extraction[cite: 4].
-* **Inputs**: Historical scanned PDFs (monographs, journals, indices)[cite: 3].
-* **Execution & Inference**: 
-  * Local compute executes fast layout analysis, bounding box extraction, and text sorting via PyMuPDF[cite: 4, 10].
-  * Local hardware constraints are mitigated by routing difficult OCR, visual reconstructions, and figure captioning to **OpenRouter** (e.g., `qwen/qwen-2.5-vl-72b-instruct` or Google Flash vision models)[cite: 4, 10].
-* **Outputs**: Structured JSONL bundles[cite: 4, 10]:
-  * `documents.jsonl` (metadata: title, author, year, volume, issue, page_range_label)[cite: 10]
-  * `text_blocks.jsonl` (reading order, cleaned text, bounding boxes, `page_num_1`)[cite: 4, 10]
-  * `footnotes.jsonl` & `footnote_refs.jsonl` (footnote text and block references)[cite: 4, 10]
-  * `figures.jsonl` & `plates.jsonl` (images, captions, page coordinates)[cite: 4, 10]
+                      │
+                      ▼
+      ┌─────────────────────────────────┐
+      │ 1. apps/docproc (PyMuPDF + VLM) │
+      └─────────────────────────────────┘
+                      │
+  Outputs: JSONL Layout & Text Bundles
+                      │
+                      ▼
+      ┌─────────────────────────────────┐
+      │ 2. apps/stitcher (stitcher.py)  │
+      └─────────────────────────────────┘
+                      │
+      Output: Clean Source Markdown
+    (/content/sources/{doc_id}.md with
+      YAML frontmatter, <span id="page-N">, [^N])
+                      │
+┌─────────────────────┴─────────────────────┐
+│                                           │
+▼                                           ▼
+┌─────────────────────────────────┐       ┌───────────────────────────────┐
+│ db/seed_dictionary.py           │       │ Articles & Book Chapters      │
+│ (Entities, Aliases, Redirects,  │       └──────────────┬────────────────┘
+│  Clusters, Faceted Subtopics)   │                      │
+└────────────────┬────────────────┘                      │
+                 │                                       ▼
+                 ▼                        ┌───────────────────────────────┐
+┌─────────────────────────────────┐       │ 4. Article-Level Synthesizer  │
+│ 3. apps/ledger (munshi_ledger)  │◀─────┤ (Direct Single-Pass & Map-    │
+│ - Authority Builder             │       │  Reduce Chapter Summaries)    │
+│ - In-Memory Cache + ZvecResolver│       └──────────────┬────────────────┘
+│ - entity_ledger.db (SQLite)     │                      │
+└────────────────┬────────────────┘                      │
+                 │                                       ▼
+                 └──────────────────────────────▶ ┌───────────────────────────────┐
+                                                   │ 5. apps/synthesizer           │
+                                                   │ (munshi_synthesizer)          │
+                                                   │ - Aggregator & Reranker       │
+                                                   │ - Jinja2 Template Generators  │
+                                                   └──────────────┬────────────────┘
+                                                   │
+                                                   ▼
+                                                   Generated OKF Markdown Pages
+                                                   (/content/wiki/{category}/*.md)
+                                                   │
+                                                   ▼
+                                                   Static Presentation (Astro UI)
+                                                   & Pagefind / Search Layer
+
+---
+ 
+## 3. Detailed Application Stack
+
+### App 1: Document Processing (`apps/docproc`)
+* **Role**: Layout segmentation, reading-order reconstruction, and metadata detection from digitized PDFs.
+* **Pipeline Implementation** (`munshi_docproc/pipeline/`):
+  * `extract_mupdf.py` / `extract_qwen3vl.py`: Dual-path extraction utilizing PyMuPDF for native text and bounding boxes, routing complex OCR pages to vision-language models (Qwen-VL / Flash models via OpenRouter).
+  * `detect_content_area.py`, `detect_rotation.py`, `detect_language.py`: Page pre-processing and coordinate normalisation.
+  * `classify_doctype.py`: Distinguishes between journal articles, monograph chapters, indexes, front matter, and book reviews.
+  * `detect_footnotes.py` & `link_footnote_refs.py`: Footnote isolation and dynamic bracket linking (`[^N]`).
+  * `detect_captions.py` & `detect_figures.py`: Plate/figure extraction and association with caption blocks.
+  * `extract_metadata.py`, `enrich_metadata_llm.py`, `enrich_metadata_web.py`: JSTOR / journal front-block parsing.
+* **Outputs**: Structured JSONL packages (`documents.jsonl`, `text_blocks.jsonl`, `footnote_refs.jsonl`, `figures.jsonl`).
+
+### App 2: Source Stitcher (`apps/stitcher`)
+* **Role**: Deterministic, zero-inference compilation of document processing artifacts into unbroken primary-source Markdown files.
+* **Core Script**: `stitcher.py`
+* **Key Formatting Guarantees**:
+  * **Page Anchoring**: Injects deterministic HTML span tags (`<span id="page-N"></span>`) immediately preceding each page's body text for browser jump targets.
+  * **Footnote Consolidation**: Formats linked footnotes into sequential references at the document bottom.
+  * **Metadata Hoisting**: Translates JSTOR citation headers and document metadata into clean YAML frontmatter (`doc_id`, `title`, `author`, `journal`, `volume`, `year`, `stable_url`).
+
+### App 3: Authority Index & Occurrence Ledger (`apps/ledger`)
+* **Role**: Resolves mentions of historical persons, toponyms, events, and subjects against a curated authority index, tracking occurrences across the corpus.
+* **Core Modules** (`munshi_ledger/`):
+  * `authority_builder.py`: Compiles `db/seed_dictionary.py` into a standardized `authority_index.json` schema. Handles inflection generation, name permutations, cluster expansion, and faceted relationship linking (`Parent: Subtopic`).
+  * `db.py`: Initializes SQLite schema (`entity_ledger.db`) storing canonical entities, aliases, redirects, clusters, and occurrence snippets (`doc_id`, `page_num_1`, `context_snippet`).
+  * `parser.py` & `extractor.py`: Tokenizes and extracts candidate entities from source texts (via lookup sweeps and GLiNER).
+  * `resolver.py`: Two-tier resolution architecture:
+    1. *Exact Cache Match*: Fast $O(1)$ lookup for canonical names and explicit aliases.
+    2. *Vector Resolver (`zvec-grep`)*: Embedding fallback using sentence transformers to disambiguate fuzzy matches, OCR noise, and morphologically shifted variants.
+
+### App 4: Article Summaries (Intermediate Knowledge Layer)
+* **Role**: Prevents context-window saturation during high-level synthesis by producing pre-computed, atomic summaries for every paper and chapter before synthesizing overarching topics.
+* **Workflow**:
+  * **Standard Articles (5–35 pages)**: Single-pass direct ingestion into long-context LLMs. Produces structured summaries detailing core thesis, primary sources cited (e.g., VOC records, *Sejarah Melayu*, colonial correspondence), key actors, and subject tags.
+  * **Monographs (100–400+ pages)**: Docproc 2.0 folder schema (`chapter-01.md`, `chapter-02.md`, etc.). Individual chapter summaries are mapped independently and concatenated into a master monograph entry via map-reduce.
+
+### App 5: Encyclopedia Synthesizer (`apps/synthesizer`)
+* **Role**: Assembles multi-source Open Knowledge Format (OKF v0.2) markdown encyclopedia entries.
+* **Core Modules** (`munshi_synthesizer/pipeline/`):
+  * `authority.py`: Loads the compiled `authority_index.json` to identify target entities and their cluster/facet dependencies.
+  * `aggregator.py`: Queries `entity_ledger.db` and intermediate article summaries to aggregate all primary snippets and citations for a requested entity.
+  * `rerank.py` & `zvec.py`: Context window optimization—filters out low-signal mentions and prioritizes substantive discussions.
+  * `generator.py`: Executes Jinja2 template rendering using domain-specific prompt wrappers:
+    * `person.jinja2`: Biographical trajectory, offices held, contemporary relationships, and bibliography.
+    * `place.jinja2`: Geographical scope, historical role, administrative transitions, and key archaeological/historical events.
+    * `event.jinja2`: Dates, background, timeline, participants, and historiographical debates.
+    * `concept.jinja2`: Cultural, legal (*adat*), religious, or scientific definitions and development across the literature.
+    * `group.jinja2`: Ethnic communities, administrative bodies, or institutions.
 
 ---
 
-### Tier 2: Source Markdown Stitcher (Deterministic Python)
-* **Role**: Replaces the vector-based `chunker_indexer`[cite: 4, 10]. Reconstructs continuous, human-readable primary sources from JSONL with zero LLM inference cost ($0.00, local CPU execution in milliseconds)[cite: 4, 10].
-* **Output Destination**: `/content/sources/{doc_id}.md`[cite: 10]
-* **Key Features**:
-  * **Explicit Page Anchoring (`<span id="page-N"></span>`)**: Injects deterministic HTML span tags immediately preceding the text of each page[cite: 10]. These anchors provide permanent, browser-navigable jump targets for citations generated by the wiki synthesis engine (e.g., `/sources/middlebrook-1951#page-24`)[cite: 10].
-  * **Footnote Normalization**: Converts `[ref:N]` placeholders into sequential Markdown footnotes (`[^N]`), dynamically resolved and consolidated in a `## References & Footnotes` section at the document bottom[cite: 4, 10].
-  * **Plate & Figure Embedding**: Re-inserts figures and photographic plates at page breaks using Markdown image tags and blockquote captions (`> *caption*`)[cite: 4, 10].
-  * **Comprehensive Frontmatter**: Directly exports `doc_id`, `title`, `author`, `editor`, `journal_ref`, `volume`, `issue`, `page_range_label`, `year`, `abstract`, and `keywords` into standard YAML[cite: 4, 10].
+## 4. Controlled Authority Dictionary Architecture (`db/seed_dictionary.py`)
+
+The knowledge graph is guided by a multi-dictionary taxonomy:
+
+1. **`entities`**: Singular, clean canonical strings for unambiguous entities (e.g., `"Sultan Mansur Shah (Malacca)"`, `"Ban Hin Lee Bank"`, `"Orang Asli"`).
+2. **`aliases`**: Historical variants, regnal titles, honorific additions, and OCR variations resolving to the canonical entity.
+3. **`redirects`**: Lexical normalizations mapping legacy terminology or singular roles to standard headwords (e.g., `"Aborigines" -> "Orang Asli"`, `"Acting" -> "Theatre"`).
+4. **`subtopics`**: Faceted topical indices defining regional or conceptual subdivisions (e.g., `"Singapore": ["architecture", "banking", "history"]`).
+5. **`clusters`**: Thematic and taxonomic aggregators for synthesis (e.g., `"Aculeata": ["Ants", "Bees", "Wasps"]`, `"Archaeological finds"`). Group related items without requiring artificial standalone entity nodes.
+6. **`related`**: Faceted graph edges using qualified notation (`"Babas": ["Peranakan: Dialects", "Chinese: Language and literature"]`) enabling targeted bibliographic retrieval.
 
 ---
 
-### Tier 3: Windowed Entity Aggregator & Ledger
-* **Role**: Extracts structured mentions of proper nouns across the corpus without overloading context windows or incurring token waste[cite: 4, 10].
-* **Handling Massive / 600+ Page Volumes**:
-  * Large monographs are **not** summarized in one giant prompt (avoiding context window degradation and the "needle in the haystack" attention drop)[cite: 3, 10].
-  * Text is batched in deterministic **sliding/windowed reading passes** of 10–15 pages (~4,000–6,000 tokens) using `text_blocks.jsonl` or stitched source Markdown[cite: 4, 10].
-* **Execution**: High-throughput, cost-effective LLM via OpenRouter (e.g., `qwen/qwen-2.5-7b-instruct` or `claude-3.5-haiku` with prompt caching enabled)[cite: 4, 10].
-* **Storage**: Local SQLite or DuckDB (`entity_ledger.db`)[cite: 4, 10].
-* **Schema**:
-  * `entity_id` / `canonical_name`[cite: 10]
-  * `aliases` (e.g., "F. A. Swettenham", "Sir Frank Swettenham")[cite: 4, 10]
-  * `category` (`person`, `location`, `event`, `concept`, `publication`)[cite: 4, 10]
-  * `occurrences`: Array of `{ doc_id, page_num_1, block_id, context_snippet }`[cite: 10]
-* **Deduplication & Curation**: Merges alias variations and filters low-frequency mentions to isolate significant historical nodes[cite: 4, 10].
+## 5. Summary of Architectural Decisions
 
----
-
-### Tier 4: OKF Synthesis Pass (Wiki Generator)
-* **Role**: Generates atomic, encyclopedic concept pages complying with Google's Open Knowledge Format (OKF)[cite: 10].
-* **Concept vs. Source Distinction**:
-  * **Primary Sources (`/sources/`)**: Unbroken, multi-page archival journal texts[cite: 10].
-  * **OKF Concept Pages (`/wiki/`)**: Atomic, topic-specific synthesis pages (e.g., `concepts/frank-swettenham.md`, `events/klang-war.md`)[cite: 4, 10].
-* **Execution**: Large-context models via OpenRouter (e.g., `google/gemini-1.5-flash` or `gemini-1.5-pro`) queried per entity (feeding all collected excerpts from `entity_ledger.db` in a single 4k–8k token prompt)[cite: 4, 10].
-* **Format Specification**:
-  * **YAML Frontmatter**: Standardized metadata (`type`, `title`, `description`, `sources`, `tags`)[cite: 4, 10].
-  * **Structured Prose**: Synthesized narrative of the entity's footprint across the MBRAS corpus[cite: 4, 10].
-  * **Cross-Linking**: Standard relative Markdown links to other concept pages (e.g., `[Yap Ah Loy](../people/yap-ah-loy.md)`)[cite: 4, 10].
-  * **Mechanical Citation Injection (Zero-Hallucination Attribution)**:
-    1. Input context provides snippets labeled with citation keys: `[REF-1] (Doc: jmbras-155, Page: 24)`[cite: 10].
-    2. The model inserts `[REF-N]` tags directly behind assertions[cite: 10].
-    3. Deterministic regex replaces `[REF-N]` with relative source anchor links:
-       `[Middlebrook (1951), p. 24](/sources/jmbras-155#page-24)`[cite: 10].
-
----
-
-### Tier 5: Discovery, Navigation & User Interface
-* **Static Wiki UI**: Built with **Astro Starlight**, deployed to Cloudflare Pages[cite: 4, 10].
-  * Zero-cost static hosting with instant load times[cite: 4, 10].
-  * Built-in client-side full-text search via **Pagefind**[cite: 4, 10].
-  * Side-by-side or hyperlinked views connecting synthesized concept summaries directly to full primary sources via `<span id="page-N"></span>` anchors[cite: 4, 10].
-* **PageIndex Query Layer**:
-  * Constructs a hierarchical reasoning tree over the synthesized concept summaries[cite: 4, 10].
-  * Handles natural language researcher queries, providing reasoned narrative answers with direct links to the relevant Wiki concept pages and primary sources[cite: 4, 6, 10].
-
----
-
-## 4. Key Architectural Trade-offs & Decisions
-
-| Area | Prior Architecture (Vector RAG) | Target Architecture (OKF Wiki + PageIndex) |
-| :--- | :--- | :--- |
-| **Compute & Inference** | Heavy local VRAM constraints or direct cloud lock-in[cite: 10] | Local processing for deterministic file assembly + OpenRouter API for inference[cite: 4, 10] |
-| **Storage Layer** | PostgreSQL + `pgvector`[cite: 10] | Flat Markdown files in Git / SQLite entity ledger[cite: 4, 10] |
-| **Intermediate Representation**| Raw PDF $\rightarrow$ Chunks directly into DB[cite: 10] | PDF $\rightarrow$ JSONL $\rightarrow$ Deterministic Full-Text Markdown with Page Spans $\rightarrow$ OKF Concepts[cite: 4, 10] |
-| **Search Mechanism** | Vector cosine similarity + FTS RRF[cite: 6, 10] | Pre-synthesized concept graph + Pagefind / PageIndex tree[cite: 4, 10] |
-| **Source Attribution** | Stochastic; prone to multi-turn attribution decay[cite: 5, 10, 11] | Deterministic link injection directly to `<span id="page-N"></span>` source page anchors[cite: 10] |
-| **Handling Large Books** | Large arbitrary chunks or context overflowing[cite: 3, 10] | Windowed 10–15 page discovery pass + targeted entity synthesis[cite: 4, 10] |
-| **Hosting & Run Cost** | Continuous cloud compute & database hosting[cite: 4, 10] | Static edge hosting (Cloudflare Pages) with one-time compilation[cite: 4, 10] |
-| **Researcher UX** | Chatbot dialog box only[cite: 4, 10] | Human-browsable Wikipedia-style portal with verifiable primary documents[cite: 4, 10] |
+| Domain | Initial Prototype | Current Working Architecture | Rationale |
+| :--- | :--- | :--- | :--- |
+| **Indexing Strategy** | Bottom-up NER sweep across all raw OCR chunks | Top-down taxonomy grounded in *Index Malaysiana* | Prevents unstructured "bag of words" noise; aligns with established bibliographic scholarship. |
+| **Document Processing** | Monolithic PDF chunking | Dual-pass layout analysis (MuPDF + VLM) $\rightarrow$ Stitched Markdown | Produces human-readable primary sources with preserved reading order and `<span id="page-N"></span>` anchors. |
+| **Monograph Handling** | Chunked window vectors | Chapter-partitioned folders with two-tier map-reduce summarization | Preserves chapter boundaries and narrative coherence while staying well within LLM context windows. |
+| **Entity Resolution** | Direct vector similarity matching | Exact-match alias cache + `zvec-grep` vector fallback | Delivers instant $O(1)$ deterministic lookups while retaining vector resilience for OCR errors. |
+| **Attribution** | Stochastic citation via prompt instructions | Deterministic replacement of `[REF-N]` tags with relative anchor links | Eliminates hallucinated citations by anchoring directly to confirmed source page spans. |
+| **Synthesis Ingestion** | Raw corpus snippets fed directly to synthesis prompt | Pre-computed Article OKF summaries + Ledger occurrences | Solves context-window bottlenecks and ensures high-signal conceptual synthesis. |
