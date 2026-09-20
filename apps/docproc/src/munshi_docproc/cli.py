@@ -5,6 +5,8 @@ from __future__ import annotations
 import logging
 import sys
 from pathlib import Path
+from pydantic import Field, field_validator
+from pydantic_settings import BaseSettings
 
 import click
 from rich.console import Console
