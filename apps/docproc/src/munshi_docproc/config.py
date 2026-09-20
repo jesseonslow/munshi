@@ -3,7 +3,7 @@
 from __future__ import annotations
 
 from pathlib import Path
-from pydantic import AliasChoices, Field
+from pydantic import AliasChoices, Field, field_validator
 from pydantic_settings import BaseSettings, SettingsConfigDict
 
 # Dynamically resolve workspace root:
@@ -76,7 +76,14 @@ class PipelineConfig(BaseSettings):
         description="Text model ID for metadata extraction and classification",
     )
 
-    @field_validator("ledger_db_path", "authority_index_path", "wiki_out_dir", "zvec_data_dir", mode="before")
+    @field_validator(
+        "out_dir",
+        "wiki_dir",
+        "ledger_db",
+        "authority_index",
+        mode="before",
+        check_fields=False,
+    )
     @classmethod
     def _anchor_to_root(cls, v: str | Path | None) -> Path | None:
         if v is None:
