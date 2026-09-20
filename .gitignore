@@ -4,7 +4,14 @@ sources/
 db/entity_ledger.db
 __pycache__/*
 */*/__pycache__/*
-# Byte-compiled / optimized / DLL files
+
+# Python bytecode & cache
 __pycache__/
 *.py[cod]
 *$py.class
+
+# Virtual environments (to stop find/git scanning .venv)
+.venv/
+*/.venv/
+venv/
+ENV/
