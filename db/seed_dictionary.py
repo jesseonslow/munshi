@@ -574,7 +574,6 @@ entities = [
     "Tan Cheng Lock",
     "Tan Chin Tuan",
     "Tan Kah Kee",
-    "Tan Kah Kee",
     "Tapioca",
     "Tapir",
     "Technology",
@@ -593,7 +592,10 @@ entities = [
     "Too Chee Chew",
     "Towns and town planning",
     "Trade unions",
-    "Trees"
+    "Trees",
+    "Kennedy Gordon Tregonning",
+    "Francis Edward Treloar",
+    "Terengganu"
 ]
 
 # 2. Key-value mapping for fast alias lookups
@@ -729,7 +731,10 @@ aliases = {
     "Sultan Ibrahim ibni Sultan Abu Bakar": ["Sultan Ibrahim of Johor", "Sultan Ibrahim ibn Sultan Abu Bakar", "Sir Ibrahim ibni Sultan Abu Bakar", "Ibrahim of Johor"],
     "Teluk Anson": ["Teluk Intan", "Telok Ansen", "Telok Anson"],
     "Julian Edmond Tenison-Woods": ["J.E. Tenison-Woods", "J. E. Tenison-Woods", "Father Woods"],
-    "Chee Chew Too": ["C.C. Too", "C. C. Too"]
+    "Chee Chew Too": ["C.C. Too", "C. C. Too"],
+    "Kennedy Gordon Tregonning": ["K.G. Tregonning", "K. G. Tregonning", "Dr. Tregonning"],
+    "Francis Edward Treloar": ["F.E. Treloar", "F. E. Treloar"],
+    "Terengganu": ["Trengganu"]
 }
 
 # 3. Facets/subsections for your synthesis agent
@@ -752,7 +757,8 @@ subtopics = {
     "Kedah": ["Antiquities", "Description and travel", "History"],
     "Selangor": ["Description and travel", "History"]
     "Sabah": ["Description and travel"; "History", "Antiquities"],
-    "Sarawak": ["Antiquities", "Description and travel", "History"]
+    "Sarawak": ["Antiquities", "Description and travel", "History"],
+    "Terengganu": ["Description and travel", "History"]
     "Brunei": ["History", "Description and travel", "Kings and rulers"],
     "Burma": ["History"],
     "Thailand": ["History", "Description and travel", "Antiquities", "Culture and society"],
@@ -933,7 +939,8 @@ related = {
     "Theatre": ["Java", "Shadow plays"],
     "Temples": ["Buddhism", "Chinese"],
     "Tin": ["Coins", "Metalwork", "Mines and mineral resources"],
-    "Trees": ["Dipterocarpaceae", "Forests", "Fruit", "Hedges", "Lightning", "Plants", "Shrubs"]
+    "Trees": ["Dipterocarpaceae", "Forests", "Fruit", "Hedges", "Lightning", "Plants", "Shrubs"],
+    "Terengganu": ["Boats", "Dancing", "Fisheries", "Inscriptions", "Keris", "Languags: Peninsular Dialects", "Metal-work", "Shadow plays", "Weavers"]
 }
 
 # 5. Words that should be redirected
