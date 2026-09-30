@@ -7,7 +7,6 @@ aliases:
 broader:
 - Southeast Asia
 narrower: []
-["Archaeology", "Botany", "Bronzes", "Buddhism", "Coins", "Inscriptions", "Kedah", "Megalithic monuments", "Patani"]
 related:
 - title: Archaeology
   slug: archaeology
