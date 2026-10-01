@@ -1,0 +1,30 @@
+---
+id: two-religious-ceremonies-in-vogue-among-the-milanos-of-saraw
+work_id: jsbras-57-1-p171
+title: Two religious ceremonies in vogue among the Milanos of Sarawak
+canonical_name: Two religious ceremonies in vogue among the Milanos of Sarawak
+type: article
+article_type: article
+authors:
+- B. Mulder
+- J.Hewitt
+year: 1911
+journal_code: JSBRAS
+volume: 57
+issue: null
+pages: 171–181
+has_bibliography: false
+has_footnotes: false
+PublishedByMBRAS: true
+amendments: []
+status: stub
+published: false
+---
+
+# Two religious ceremonies in vogue among the Milanos of Sarawak
+
+## Overview
+<!-- Synthesis engine: Insert article overview here -->
+
+## References
+<!-- Grounded occurrences and citations -->

@@ -1,24 +1,30 @@
 ---
 id: hermanus-neubronner-van-der-tuuk
-title: Hermanus Neubronner van der Tuuk
-canonical_name: Hermanus Neubronner van der Tuuk
-aliases: []
-broader: []
-narrower: []
-related: []
-is_cluster: false
-is_contributor: false
+work_id: jsbras-57-1-p190
+title: Hermanus Neubronner Van Der Tuuk
+canonical_name: Hermanus Neubronner Van Der Tuuk
+type: article
+article_type: article
+authors:
+- C.O. Blagden
+- F.F. Laidlaw
+year: 1911
+journal_code: JSBRAS
+volume: 57
+issue: null
+pages: '190'
+has_bibliography: false
+has_footnotes: false
+PublishedByMBRAS: true
+amendments: []
 status: stub
 published: false
 ---
 
-# Hermanus Neubronner van der Tuuk
+# Hermanus Neubronner Van Der Tuuk
 
-<!-- Synthesis engine: Insert introductory synthesis for Hermanus Neubronner van der Tuuk here -->
-
-## MBRAS Sources
-
-- Blagden, C.O. Obituary. SB 57
+## Overview
+<!-- Synthesis engine: Insert article overview here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

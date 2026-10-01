@@ -1,0 +1,29 @@
+---
+id: malay-transliteration
+work_id: jsbras-10-1-p282
+title: Malay transliteration
+canonical_name: Malay transliteration
+type: article
+article_type: article
+authors:
+- W.E. Maxwell
+year: 1882
+journal_code: JSBRAS
+volume: 10
+issue: null
+pages: 282–284
+has_bibliography: false
+has_footnotes: false
+PublishedByMBRAS: true
+amendments: []
+status: stub
+published: false
+---
+
+# Malay transliteration
+
+## Overview
+<!-- Synthesis engine: Insert article overview here -->
+
+## References
+<!-- Grounded occurrences and citations -->

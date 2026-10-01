@@ -1,0 +1,29 @@
+---
+id: aspects-of-abdullah-munshi
+work_id: jmbras-54-3-p35
+title: Aspects of Abdullah “Munshi”
+canonical_name: Aspects of Abdullah “Munshi”
+type: article
+article_type: article
+authors:
+- H.F. O'B. Traill
+year: 1981
+journal_code: JMBRAS
+volume: 54
+issue: '3'
+pages: 35–56
+has_bibliography: true
+has_footnotes: false
+PublishedByMBRAS: true
+amendments: []
+status: stub
+published: false
+---
+
+# Aspects of Abdullah “Munshi”
+
+## Overview
+<!-- Synthesis engine: Insert article overview here -->
+
+## References
+<!-- Grounded occurrences and citations -->

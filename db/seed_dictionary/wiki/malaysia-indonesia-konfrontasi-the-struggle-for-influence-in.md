@@ -1,0 +1,32 @@
+---
+id: malaysia-indonesia-konfrontasi-the-struggle-for-influence-in
+work_id: jmbras-93-1-p67
+title: 'Malaysia-Indonesia Konfrontasi : the struggle for influence in the Middle
+  East. I. Karuppannan and Shakila Yacob'
+canonical_name: 'Malaysia-Indonesia _Konfrontasi_ : the struggle for influence in
+  the Middle East. I. Karuppannan and Shakila Yacob'
+type: article
+article_type: article
+authors:
+- I. Karuppannan
+- Shakila Yacob
+year: 2020
+journal_code: JMBRAS
+volume: 93
+issue: '1'
+pages: 67–90
+has_bibliography: true
+has_footnotes: true
+PublishedByMBRAS: true
+amendments: []
+status: stub
+published: false
+---
+
+# Malaysia-Indonesia Konfrontasi : the struggle for influence in the Middle East. I. Karuppannan and Shakila Yacob
+
+## Overview
+<!-- Synthesis engine: Insert article overview here -->
+
+## References
+<!-- Grounded occurrences and citations -->

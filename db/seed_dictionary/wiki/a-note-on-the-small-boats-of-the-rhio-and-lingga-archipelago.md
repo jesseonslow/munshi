@@ -1,0 +1,29 @@
+---
+id: a-note-on-the-small-boats-of-the-rhio-and-lingga-archipelago
+work_id: jmbras-24-1-p121
+title: A note on the small boats of the Rhio and Lingga Archipelago
+canonical_name: A note on the small boats of the Rhio and Lingga Archipelago
+type: article
+article_type: article
+authors:
+- C.A. Gibson-Hill
+year: 1951
+journal_code: JMBRAS
+volume: 24
+issue: '1'
+pages: 121–133
+has_bibliography: true
+has_footnotes: false
+PublishedByMBRAS: true
+amendments: []
+status: stub
+published: false
+---
+
+# A note on the small boats of the Rhio and Lingga Archipelago
+
+## Overview
+<!-- Synthesis engine: Insert article overview here -->
+
+## References
+<!-- Grounded occurrences and citations -->

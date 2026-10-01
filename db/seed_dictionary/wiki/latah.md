@@ -1,32 +1,29 @@
 ---
 id: latah
+work_id: jsbras-12-1-p283
 title: Latah
-canonical_name: Latah
-aliases: []
-broader: []
-narrower: []
-related:
-- title: Amok
-  slug: amok
-- title: Amok
-  slug: amok
-  inferred: true
-is_cluster: false
-is_contributor: false
+canonical_name: _Latah._
+type: article
+article_type: article
+authors:
+- H.A. O'Brien
+year: 1883
+journal_code: JSBRAS
+volume: 12
+issue: null
+pages: 283–285
+has_bibliography: false
+has_footnotes: false
+PublishedByMBRAS: true
+amendments: []
 status: stub
 published: false
 ---
 
 # Latah
 
-<!-- Synthesis engine: Insert introductory synthesis for Latah here -->
-
-## MBRAS Sources
-
-- Forbes, H.O. Passage on latah reprinted from A Naturalist’s Wanderings etc. SB 14
-- Galloway, D.J. Psychology of “latah”. SB 85
-- O’Brien, H.A. Latah. SB 11 and 12 and Reprint 4
-- O’May, J. Arctic Latah. MB 1(2)
+## Overview
+<!-- Synthesis engine: Insert article overview here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

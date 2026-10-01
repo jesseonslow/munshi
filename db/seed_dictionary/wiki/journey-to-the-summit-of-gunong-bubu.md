@@ -1,0 +1,29 @@
+---
+id: journey-to-the-summit-of-gunong-bubu
+work_id: jsbras-14-1-p275
+title: Journey to the summit of Gunong Bubu
+canonical_name: Journey to the summit of Gunong Bubu
+type: article
+article_type: article
+authors:
+- J.E. Tenison Woods
+year: 1884
+journal_code: JSBRAS
+volume: 14
+issue: null
+pages: 275–285
+has_bibliography: false
+has_footnotes: false
+PublishedByMBRAS: true
+amendments: []
+status: stub
+published: false
+---
+
+# Journey to the summit of Gunong Bubu
+
+## Overview
+<!-- Synthesis engine: Insert article overview here -->
+
+## References
+<!-- Grounded occurrences and citations -->

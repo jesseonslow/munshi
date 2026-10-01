@@ -1,0 +1,29 @@
+---
+id: obituary-jm-echols
+work_id: jmbras-56-1-p66
+title: 'Obituary: J.M. Echols'
+canonical_name: 'Obituary: J.M. Echols'
+type: article
+article_type: obituary
+authors:
+- Wolff. J
+year: 1983
+journal_code: JMBRAS
+volume: 56
+issue: '1'
+pages: 66–68
+has_bibliography: false
+has_footnotes: false
+PublishedByMBRAS: true
+amendments: []
+status: stub
+published: false
+---
+
+# Obituary: J.M. Echols
+
+## Overview
+<!-- Synthesis engine: Insert article overview here -->
+
+## References
+<!-- Grounded occurrences and citations -->

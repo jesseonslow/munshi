@@ -1,0 +1,31 @@
+---
+id: my-dear-treasurer-rajah-charles-brookes-correspondence-with-
+work_id: jmbras-81-2-p19
+title: '‘My dear treasurer’: Rajah Charles Brooke’s correspondence with F.H. Dallas,
+  1902-1917'
+canonical_name: '‘My dear treasurer’: Rajah Charles Brooke’s correspondence with F.H.
+  Dallas, 1902-1917'
+type: article
+article_type: article
+authors:
+- R.H.W. Reece
+year: 2008
+journal_code: JMBRAS
+volume: 81
+issue: '2'
+pages: 19–44
+has_bibliography: true
+has_footnotes: true
+PublishedByMBRAS: true
+amendments: []
+status: stub
+published: false
+---
+
+# ‘My dear treasurer’: Rajah Charles Brooke’s correspondence with F.H. Dallas, 1902-1917
+
+## Overview
+<!-- Synthesis engine: Insert article overview here -->
+
+## References
+<!-- Grounded occurrences and citations -->

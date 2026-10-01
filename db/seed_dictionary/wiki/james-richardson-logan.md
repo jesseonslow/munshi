@@ -5,6 +5,7 @@ canonical_name: James Richardson Logan
 aliases:
 - J. R. Logan
 - J.R. Logan
+- Logan, J.R
 broader: []
 narrower: []
 related:
@@ -15,10 +16,11 @@ related:
 - title: Police
   slug: police
 is_cluster: false
-is_contributor: false
+is_contributor: true
 status: stub
 published: false
 ---
+
 
 # James Richardson Logan
 
@@ -27,6 +29,9 @@ published: false
 ## MBRAS Sources
 
 - Thomson, J.T. J.R.Logan ― career. SB 7
+
+## Bibliography
+- (1885) [Plan for a volunteer force in the Muda districts, Province Wellesley, submitted to government by the late J.R. Logan in 1867](./plan-for-a-volunteer-force-in-the-muda-districts-province-we.md). *JSBRAS* 16: 173–200
 
 ## References
 <!-- Grounded occurrences and citations -->

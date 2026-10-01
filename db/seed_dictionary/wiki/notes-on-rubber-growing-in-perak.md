@@ -1,0 +1,29 @@
+---
+id: notes-on-rubber-growing-in-perak
+work_id: jmbras-87-2-p91
+title: Notes on rubber growing in Perak
+canonical_name: Notes on rubber growing in Perak
+type: article
+article_type: article
+authors:
+- L. Wray
+year: 2014
+journal_code: JMBRAS
+volume: 87
+issue: '2'
+pages: 91–95
+has_bibliography: false
+has_footnotes: false
+PublishedByMBRAS: true
+amendments: []
+status: stub
+published: false
+---
+
+# Notes on rubber growing in Perak
+
+## Overview
+<!-- Synthesis engine: Insert article overview here -->
+
+## References
+<!-- Grounded occurrences and citations -->

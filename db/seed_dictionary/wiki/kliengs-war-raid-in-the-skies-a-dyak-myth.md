@@ -1,0 +1,29 @@
+---
+id: kliengs-war-raid-in-the-skies-a-dyak-myth
+work_id: jsbras-16-1-p265
+title: 'Klieng’s war-raid in the skies: a Dyak myth'
+canonical_name: 'Klieng’s war-raid in the skies: a Dyak myth'
+type: article
+article_type: article
+authors:
+- J. Perham
+year: 1885
+journal_code: JSBRAS
+volume: 16
+issue: null
+pages: 265–288
+has_bibliography: false
+has_footnotes: false
+PublishedByMBRAS: true
+amendments: []
+status: stub
+published: false
+---
+
+# Klieng’s war-raid in the skies: a Dyak myth
+
+## Overview
+<!-- Synthesis engine: Insert article overview here -->
+
+## References
+<!-- Grounded occurrences and citations -->

@@ -1,0 +1,29 @@
+---
+id: bird-notes-records-of-the-raffles-museum-no-5
+work_id: jmbras-2-1-p68
+title: Bird notes. Records of the Raffles Museum, No. 5
+canonical_name: Bird notes. Records of the Raffles Museum, No. 5
+type: article
+article_type: article
+authors:
+- F.N. Chasen
+year: 1924
+journal_code: JMBRAS
+volume: 2
+issue: '1'
+pages: 68–70
+has_bibliography: false
+has_footnotes: false
+PublishedByMBRAS: true
+amendments: []
+status: stub
+published: false
+---
+
+# Bird notes. Records of the Raffles Museum, No. 5
+
+## Overview
+<!-- Synthesis engine: Insert article overview here -->
+
+## References
+<!-- Grounded occurrences and citations -->

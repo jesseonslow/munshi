@@ -4,8 +4,9 @@ title: Munshi Abdullah
 canonical_name: Munshi Abdullah
 aliases:
 - Abdullah bin Abdul Kadir
-- Munshi Abdullah bin Abdul Kadir
+- Abdullah bin Abdul Kadir, Munshi
 - Abdullah bin Abdulkadir
+- Munshi Abdullah bin Abdul Kadir
 broader: []
 narrower: []
 related:
@@ -16,10 +17,11 @@ related:
   slug: stamford-raffles
   inferred: true
 is_cluster: false
-is_contributor: false
+is_contributor: true
 status: stub
 published: false
 ---
+
 
 # Munshi Abdullah
 
@@ -61,6 +63,13 @@ published: false
 - Abdullah bin Abdul Kadir. _Shaer Kampung Gelam Terbakar._ MB 45(1)
 - Abdullah bin Abdul Kadir. Abdullah and Siami. MB 81(1)
 - Bastin, J.S. Missing 2nd edn of Thomsen/Abdullah Munshi English–Malay dictionary. MB 56(1)
+
+## Bibliography
+- (1950) [Munshi Abdullah’s account of the Malacca Fort. A.H. Hill](./munshi-abdullahs-account-of-the-malacca-fort-ah-hill.md). *JMBRAS* 23(1): 84–99
+- (1955) [The Hikayat Abdullah; an annotated translation. A.H. Hill](./the-hikayat-abdullah-an-annotated-translation-ah-hill.md). *JMBRAS* 28(3): 1–354
+- (1969) [The Hikayat Abdullah. .H. Hill. Chapter II: the founding of Singapore](./the-hikayat-abdullah-h-hill-chapter-ii-the-founding-of-singa.md). *JMBRAS* 42(1): 85–106
+- (1972) [Shaer Kampong Gelam Terbakar. . Skinner](./shaer-kampong-gelam-terbakar-skinner.md). *JMBRAS* 45(1): 21–56
+- (2009) [Hikayat Abdullah](./hikayat-abdullah.md). *Reprint* 29: 364
 
 ## References
 <!-- Grounded occurrences and citations -->
