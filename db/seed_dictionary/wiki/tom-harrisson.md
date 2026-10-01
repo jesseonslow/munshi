@@ -2,12 +2,13 @@
 id: tom-harrisson
 title: Tom Harrisson
 canonical_name: Tom Harrisson
-aliases: []
+aliases:
+- T. Harrisson
 broader: []
 narrower: []
 related: []
 is_cluster: false
-is_contributor: false
+is_contributor: true
 status: stub
 published: false
 ---
