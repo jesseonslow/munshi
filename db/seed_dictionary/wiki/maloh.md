@@ -22,7 +22,8 @@ published: false
 
 ## MBRAS Sources
 
-- King, V.T. Stones and the Maloh of Indonesian W Borneo. MB 48(1)
+- [V.T. King](./vt-king.md) (1975). [Stones and the Maloh of Indonesian West Borneo](./stones-and-the-maloh-of-indonesian-west-borneo.md). *JMBRAS* 48: 104–119
 - The Maloh of West Kalimantan. MB 59(2) {R}
+
 ## References
 <!-- Grounded occurrences and citations -->

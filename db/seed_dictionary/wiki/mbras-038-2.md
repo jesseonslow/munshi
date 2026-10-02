@@ -187,7 +187,7 @@ articles:
 **Date:** December 1965
 
 ## Table of Contents
-* [Carl Gibson-Hill](./carl-gibson-hill.md) — [M. Clark](./m-clark.md) (pp. 17–21)
+* [Carl Gibson-Hill](./carl-gibson-hill.md) — [M. Clark](./mc-clark.md) (pp. 17–21)
 * [Tullbergia (Stenaphorura) gibsoni n. sp. (Collembola, Onychiuridae) from grass land soils in Singapore](./tullbergia-stenaphorura-gibsoni-n-sp-collembola-onychiuridae.md) — [D.H. Murphy](./dh-murphy.md) (pp. 22–25)
 * [Numbers of mammals on the Malaysian islands](./numbers-of-mammals-on-the-malaysian-islands.md) — [Harrison J.L](./harrison-jl.md) (pp. 26–42)
 * [Three “secret” communication systems among Borneo nomads (and their dogs](./three-secret-communication-systems-among-borneo-nomads-and-t.md) — [Tom Harrisson](./tom-harrisson.md) (pp. 37–86)
@@ -202,8 +202,8 @@ articles:
 * [Francis Light and the ladies of Thalang](./francis-light-and-the-ladies-of-thalang.md) — [E.H.S. Simmonds](./ehs-simmonds.md) (pp. 213–228)
 * [New harbour, Singapore and the cruise of H.M.S. Maeander, 1848–49](./new-harbour-singapore-and-the-cruise-of-hms-maeander-184849.md) — [C.D. Cowan](./cd-cowan.md) (pp. 229–240)
 * [American trade with Singapore, 1819–65](./american-trade-with-singapore-181965.md) — [Sharom Ahmat](./sharom-ahmat.md) (pp. 241–257)
-* [Consul Farren and the Philippines](./consul-farren-and-the-philippines.md) — [N. Tarling](./n-tarling.md) (pp. 258–273)
-* [The origin of the Straits Steamship Company in 1890](./the-origin-of-the-straits-steamship-company-in-1890.md) — [K.G. Tregonning](./kg-tregonning.md) (pp. 274–289)
+* [Consul Farren and the Philippines](./consul-farren-and-the-philippines.md) — [N. Tarling](./nicholas-tarling.md) (pp. 258–273)
+* [The origin of the Straits Steamship Company in 1890](./the-origin-of-the-straits-steamship-company-in-1890.md) — [K.G. Tregonning](./kennedy-gordon-tregonning.md) (pp. 274–289)
 * [British foreign policy and the extraterritorial question in Siam 1891–1900](./british-foreign-policy-and-the-extraterritorial-question-in-.md) — [C. (Chandran Jeshurun) Jeshurun](./c-chandran-jeshurun-jeshurun.md) (pp. 290–313)
 
 ## Contributors
@@ -217,9 +217,9 @@ articles:
 * [D.S. Johnson](./ds-johnson.md)
 * [E.H.S. Simmonds](./ehs-simmonds.md)
 * [Harrison J.L](./harrison-jl.md)
-* [K.G. Tregonning](./kg-tregonning.md)
-* [M. Clark](./m-clark.md)
-* [N. Tarling](./n-tarling.md)
+* [K.G. Tregonning](./kennedy-gordon-tregonning.md)
+* [M. Clark](./mc-clark.md)
+* [N. Tarling](./nicholas-tarling.md)
 * [P.E. de Josselin de Jong](./pe-de-josselin-de-jong.md)
 * [R. Roolvink](./r-roolvink.md)
 * [Sharom Ahmat](./sharom-ahmat.md)

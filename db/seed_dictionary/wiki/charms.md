@@ -33,15 +33,16 @@ published: false
 ## MBRAS Sources
 
 - Anon. Protective charm. SB 30
-- Gimlette, J.D. Kelantan charm. SB 82
+- [J.D. Gimlette](./jd-gimlette.md) (1920). [A curious Kelantan charm](./a-curious-kelantan-charm.md). *JSBRAS* 82: 116–118
 - Gimlette, J.D. Malay poisons and charm cures. MB 1(1) and 7(2) {R}
-- Hamilton, A.W. Malay love charms. MB 4(1)
-- Keith, H.G. Murut charms. MB 14(3)
-- MacBryan, G.T. Two Brunei charms. MB 20(2)
+- [Hamilton A.W](./hamilton-aw.md) (1926). [Malay love charms. Recorded and .W. Hamilton](./malay-love-charms-recorded-and-w-hamilton.md). *JMBRAS* 4: 136–138
+- [H.G. Keith](./hg-keith.md) (1936). [Some ulun-no-bokan (Murut) charms](./some-ulun-no-bokan-murut-charms.md). *JMBRAS* 14(3): 330
+- [G.T. MacBryan](./gt-macbryan.md) and [Muhammad Yusof Shibli](./muhammad-yusof-shibli.md) (1947). [Two Brunei charms. Tr G.T. MacBryan and Mohd. Yusof Shibli](./two-brunei-charms-tr-gt-macbryan-and-mohd-yusof-shibli.md). *JMBRAS* 20(2): 48–59
 - Maxwell, W.G. _Mantra gajah_. SB 45 and 49
-- Rentse, A. Kelantan Malay charms. MB 9(1)
+- [A. Rentse](./a-rentse.md) (1931). [Malay charms, Kelantan](./malay-charms-kelantan.md). *JMBRAS* 9: 146–157
 - Topley, M. Paper charms and prayer sheets in Chinese worship. MB 26(1)
-- Williams-Hunt, P.D.R. Aboriginal charms and weapon measurements. MB 25(1)
-- Winstedt, R.O. A Malay pantheistic charm. SB 86
+- [P.D.R. Williams-Hunt](./pdr-williams-hunt.md) (1952). [Some Malay and aboriginal charms and methods of measuring weapons](./some-malay-and-aboriginal-charms-and-methods-of-measuring-we.md). *JMBRAS* 25: 56–61
+- [R.O. Winstedt](./richard-olaf-winstedt.md) (1922). [A Malay pantheist charm](./a-malay-pantheist-charm.md). *JSBRAS* 86: 261–267
+
 ## References
 <!-- Grounded occurrences and citations -->

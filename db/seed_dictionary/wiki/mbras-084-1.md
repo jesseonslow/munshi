@@ -84,13 +84,13 @@ articles:
 * [Sultan Abu Bakar’s foreign guests and travels abroad, 1860s-1895: fact and fiction in early Malay historical accounts](./sultan-abu-bakars-foreign-guests-and-travels-abroad-1860s-18.md) — [A. Rahman Tang Abdullah](./a-rahman-tang-abdullah.md) (pp. 1–22)
 * [English country traders and their relations with Malay rulers in the late eighteenth century](./english-country-traders-and-their-relations-with-malay-ruler.md) — [W.G. Miller](./wg-miller.md) (pp. 23–45)
 * [Amin Sweeney. Obituary](./amin-sweeney-obituary.md) — [J. Van Der Putten](./j-van-der-putten.md) (pp. 103–105)
-* *Natural history drawings: the complete William Farquhar collection, Malay Peninsula 1803‒1818 with essays by John Bastin and Kwa Chong Guan* — [H.S. Barlow](./hs-barlow.md) (pp. 107–109) [Review]
+* *Natural history drawings: the complete William Farquhar collection, Malay Peninsula 1803‒1818 with essays by John Bastin and Kwa Chong Guan* — [H.S. Barlow](./henry-sackville-barlow.md) (pp. 107–109) [Review]
 * *Linking an Asian transnational commerce in tea: overseas Chinese merchants in Fujian‒ Singapore trade, 1920‒1960. J. Tan* — [Wu Xiao An](./wu-xiao-an.md) (pp. 112–113) [Review]
 * *Sino-Malay trade and diplomacy from the tenth through the fourteenth century. D. Heng Thiam Soon* — [Loh Wei Leng](./loh-wei-leng.md) (pp. 114–116) [Review]
 
 ## Contributors
 * [A. Rahman Tang Abdullah](./a-rahman-tang-abdullah.md)
-* [H.S. Barlow](./hs-barlow.md)
+* [H.S. Barlow](./henry-sackville-barlow.md)
 * [J. Van Der Putten](./j-van-der-putten.md)
 * [Loh Wei Leng](./loh-wei-leng.md)
 * [W.G. Miller](./wg-miller.md)

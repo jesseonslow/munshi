@@ -21,6 +21,7 @@ published: false
 
 ## MBRAS Sources
 
-- Bland, Mrs R.N. Malacca lace. SB 45
+- [R.N. Bland](./rn-bland.md) (1906). [Malacca lace](./malacca-lace.md). *JSBRAS* 45: 273–277
+
 ## References
 <!-- Grounded occurrences and citations -->

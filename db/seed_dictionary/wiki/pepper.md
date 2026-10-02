@@ -18,7 +18,8 @@ published: false
 
 ## MBRAS Sources
 
-- Jackson, J.C. Chinese agricultural pioneering in Singapore and Johore, 1800–1917. MB 38(1)
-- Trocki, C.A. Origin of the kangchu system, 1740–1860. MB 49(2)
+- [J.C. Jackson](./jc-jackson.md) (1965). [Chinese agricultural pioneering in Singapore and Johore, 1800–1917](./chinese-agricultural-pioneering-in-singapore-and-johore-1800.md). *JMBRAS* 38: 77–105
+- [C.A. Trocki](./ca-trocki.md) (1976). [The origin of the kangchu system, 1740–1860](./the-origin-of-the-kangchu-system-17401860.md). *JMBRAS* 49(2): 132–155
+
 ## References
 <!-- Grounded occurrences and citations -->

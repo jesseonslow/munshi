@@ -21,7 +21,8 @@ published: false
 
 ## MBRAS Sources
 
-- Barnard, T.P. Shifting interpretations on the death of Mahmud Syah II. MB 89(2)
-- Wilkinson, R.J. Mahmud II and Abdul Jalil III, 1685–1720. MB 9(1)
+- [T.P. Barnard](./tp-barnard.md) (2016). [Historiography and shifting interpretations of the death of Sultan Mahmud Syah](./historiography-and-shifting-interpretations-of-the-death-of-.md). *JMBRAS* 89(2): 1–23
+- [R.J. Wilkinson](./richard-james-wilkinson.md) (1931). [Mahmud II and Abdul Jalil III, 1685–1720 A.D](./mahmud-ii-and-abdul-jalil-iii-16851720-ad.md). *JMBRAS* 9: 28–34
+
 ## References
 <!-- Grounded occurrences and citations -->

@@ -18,6 +18,7 @@ published: false
 
 ## MBRAS Sources
 
-- Huang Jianli. Three portraits of a Singapore entrepreneur. MB 82(1)
+- [Huang Jianli](./huang-jianli.md) (2009). [Shifting culture and identity: three portraits of Singapore entrepreneur Lee Kong Chian (1893–1967). Il](./shifting-culture-and-identity-three-portraits-of-singapore-e.md). *JMBRAS* 82: 71–100
+
 ## References
 <!-- Grounded occurrences and citations -->

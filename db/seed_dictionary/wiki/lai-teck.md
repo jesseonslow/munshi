@@ -18,6 +18,7 @@ published: false
 
 ## MBRAS Sources
 
-- Comber, L. Lai Teck, secret agent extraordinaire. MB 83(2)
+- [L. Comber](./l-comber.md) (2010). [‘Traitor of all traitors’― secret agent extraordinaire : Lai Teck, secretary-general, Communist Party of Malaya](./traitor-of-all-traitors-secret-agent-extraordinaire-lai-teck.md). *JMBRAS* 83(2): 1–25
+
 ## References
 <!-- Grounded occurrences and citations -->

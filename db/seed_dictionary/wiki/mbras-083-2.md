@@ -93,17 +93,17 @@ articles:
 * [‘Traitor of all traitors’― secret agent extraordinaire : Lai Teck, secretary-general, Communist Party of Malaya](./traitor-of-all-traitors-secret-agent-extraordinaire-lai-teck.md) — [L. Comber](./l-comber.md) (pp. 1–25)
 * [The economy of Perak in the mid-1870s](./the-economy-of-perak-in-the-mid-1870s.md) — [J.M. Gullick](./john-michael-gullick.md) (pp. 27–46)
 * [Tan Sri Dato’ Dr Mubin Sheppard: pioneer in the conservation of historical buildings in Malaysia, 1959-1994](./tan-sri-dato-dr-mubin-sheppard-pioneer-in-the-conservation-o.md) — [Zuraini Md Ali](./zuraini-md-ali.md) (pp. 47–91)
-* [Ethnicity, language and culture in Melaka after the transition from Portuguese to Dutch rule (seventeenth century](./ethnicity-language-and-culture-in-melaka-after-the-transitio.md) — [P. Borschberg](./p-borschberg.md) (pp. 93–117)
+* [Ethnicity, language and culture in Melaka after the transition from Portuguese to Dutch rule (seventeenth century](./ethnicity-language-and-culture-in-melaka-after-the-transitio.md) — [P. Borschberg](./peter-borschberg.md) (pp. 93–117)
 * *The Singapore and Melaka straits: violence, security and diplomacy in the 17th century. P. Borschberg* — [W. Cheah](./w-cheah.md) (pp. 119–122) [Review]
 * *Bornean diaries, 1938‒1942. I.H.N. Evans (.V.M. Horton* — [Danny Wong Tze-ken](./danny-wong-tze-ken.md) (pp. 122–124) [Review]
-* *100 years of tropical forest research: the story of the Tropical Forest Research Institute of Malaysia. Francis S.P. Ng* — [H.S. Barlow](./hs-barlow.md) (pp. 124–127) [Review]
+* *100 years of tropical forest research: the story of the Tropical Forest Research Institute of Malaysia. Francis S.P. Ng* — [H.S. Barlow](./henry-sackville-barlow.md) (pp. 124–127) [Review]
 
 ## Contributors
 * [Danny Wong Tze-ken](./danny-wong-tze-ken.md)
-* [H.S. Barlow](./hs-barlow.md)
+* [H.S. Barlow](./henry-sackville-barlow.md)
 * [J.M. Gullick](./john-michael-gullick.md)
 * [L. Comber](./l-comber.md)
-* [P. Borschberg](./p-borschberg.md)
+* [P. Borschberg](./peter-borschberg.md)
 * [W. Cheah](./w-cheah.md)
 * [Zuraini Md Ali](./zuraini-md-ali.md)
 

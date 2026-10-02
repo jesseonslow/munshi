@@ -21,6 +21,7 @@ published: false
 <!-- Synthesis engine: Insert introductory synthesis for Nathaniel Wallich here -->
 
 ## MBRAS Sources
+
 <!-- Seed entries or targeted retrieval for Nathaniel Wallich -->
 
 ## References

@@ -18,6 +18,7 @@ published: false
 
 ## MBRAS Sources
 
-- Wurtzburg, C.E. Olivia Raffles and Thomas Moore. MB 24(1)
+- [C.E. Wurtzburg](./ce-wurtzburg.md) (1951). [Olivia Raffles and Thomas Moore](./olivia-raffles-and-thomas-moore.md). *JMBRAS* 24: 173–175
+
 ## References
 <!-- Grounded occurrences and citations -->

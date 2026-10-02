@@ -19,6 +19,7 @@ published: false
 
 ## MBRAS Sources
 
-- Dennys, N.B. Are cockatoos carnivorous? NQ Reprint 15
+- Anon. [Dennys, N.B. Are cockatoos carnivorous?](./mbras-reprint-15.md). *Reprint* 15
+
 ## References
 <!-- Grounded occurrences and citations -->

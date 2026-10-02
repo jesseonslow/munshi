@@ -21,6 +21,7 @@ published: false
 
 ## MBRAS Sources
 
-- Dennys, N.B. Index to Journal of the Indian Archipelago. SB 18
+- [N.B. Dennys](./nicholas-belfield-dennys.md) (1886). [The journal of the Indian Archipelago](./the-journal-of-the-indian-archipelago.md). *JSBRAS* 18: 335–344
+
 ## References
 <!-- Grounded occurrences and citations -->

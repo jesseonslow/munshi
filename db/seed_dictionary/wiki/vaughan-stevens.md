@@ -19,5 +19,6 @@ published: false
 ## MBRAS Sources
 
 - Ridley, H.N. Obituary. SB 30
+
 ## References
 <!-- Grounded occurrences and citations -->

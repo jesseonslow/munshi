@@ -101,11 +101,11 @@ articles:
 * [Three Malay historical writings in the first half of the seventeenth century](./three-malay-historical-writings-in-the-first-half-of-the-sev.md) — [T. Iskandar](./t-iskandar.md) (pp. 38–53)
 * [Social reform and reformist pressure groups among Indians of Malaya and Singapore 1930–1955](./social-reform-and-reformist-pressure-groups-among-indians-of.md) — [S. Arasaratnam](./s-arasaratnam.md) (pp. 54–67)
 * [Raja Bot bin Raja Jumaat](./raja-bot-bin-raja-jumaat.md) — [Mohamed Amin Hassan](./mohamed-amin-hassan.md) (pp. 68–93)
-* [The connection between the Hikayat Raja2 Pasai and the Sejarah Melayu](./the-connection-between-the-hikayat-raja2-pasai-and-the-sejar.md) — [A. Sweeney](./a-sweeney.md) (pp. 94–105)
+* [The connection between the Hikayat Raja2 Pasai and the Sejarah Melayu](./the-connection-between-the-hikayat-raja2-pasai-and-the-sejar.md) — [A. Sweeney](./amin-sweeney.md) (pp. 94–105)
 * [Malay conventional sib-names](./malay-conventional-sib-names.md) — [G. Hodgson](./g-hodgson.md) (pp. 106–121)
 
 ## Contributors
-* [A. Sweeney](./a-sweeney.md)
+* [A. Sweeney](./amin-sweeney.md)
 * [D.K. Wyatt](./dk-wyatt.md)
 * [E. Thio](./e-thio.md)
 * [G. Hodgson](./g-hodgson.md)

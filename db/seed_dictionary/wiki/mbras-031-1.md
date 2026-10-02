@@ -166,9 +166,9 @@ articles:
 * [English trade in Celebes, 1613–1667](./english-trade-in-celebes-16131667.md) — [D.K. Bassett](./dk-bassett.md) (pp. 1–39)
 * [Nomadic Penan of the Upper Rejang (Plieran), Sarawak](./nomadic-penan-of-the-upper-rejang-plieran-sarawak.md) — [G Arnold](./g-arnold.md) (pp. 40–82)
 * [A note on the stability of the Chinese population in Singapore, 1947–1950](./a-note-on-the-stability-of-the-chinese-population-in-singapo.md) — [M. Freedman](./m-freedman.md) (pp. 83–93)
-* [Communal disturbances in the Straits Settlements in 1857](./communal-disturbances-in-the-straits-settlements-in-1857.md) — [C.M. Turnbull](./cm-turnbull.md) (pp. 94–144)
+* [Communal disturbances in the Straits Settlements in 1857](./communal-disturbances-in-the-straits-settlements-in-1857.md) — [C.M. Turnbull](./constance-mary-turnbull.md) (pp. 94–144)
 * [Notes on the administration of the Singapore Post Office, 1819–67](./notes-on-the-administration-of-the-singapore-post-office-181.md) — [C.A. Gibson-Hill](./carl-alexander-gibson-hill.md) (pp. 145–162)
-* [Five early watercolour sketches of Penang & Malacca. J. Bastin and C.A. Gibson-Hill](./five-early-watercolour-sketches-of-penang-malacca-j-bastin-a.md) — [J.S. Bastin](./js-bastin.md), [C.A. Gibson-Hill](./carl-alexander-gibson-hill.md) (pp. 163–171)
+* [Five early watercolour sketches of Penang & Malacca. J. Bastin and C.A. Gibson-Hill](./five-early-watercolour-sketches-of-penang-malacca-j-bastin-a.md) — [J.S. Bastin](./john-bastin.md), [C.A. Gibson-Hill](./carl-alexander-gibson-hill.md) (pp. 163–171)
 * [Notes on Baram Malay](./notes-on-baram-malay.md) — [R. Needham](./r-needham.md) (pp. 171–175)
 * [The relics & offerings from a bronze bust of Taong-Kha-Pa, founder of the Lamaist sect of the Yellow Hats](./the-relics-offerings-from-a-bronze-bust-of-taong-kha-pa-foun.md) — [I.H. Burkill](./ih-burkill.md) (pp. 175–176)
 * [Gomanton caves](./gomanton-caves.md) — [E. Banks](./e-banks.md) (pp. 177–178)
@@ -178,18 +178,18 @@ articles:
 * [The University of Malaya Archaeological Society’s survey of Central Kedah in May 1958](./the-university-of-malaya-archaeological-societys-survey-of-c.md) — [Wang Gungwu](./wang-gungwu.md) (pp. 220–223)
 * *Dated {Buddha} images of northern Siam. A.B. Griswold* — [M. Sullivan](./m-sullivan.md) (pp. 224–226) [Review]
 * *Nine Dayak nights. W.R. Geddes* — [E.R. Leach](./er-leach.md) (pp. 226–228) [Review]
-* *The other India: a biography of Sir Stamford Raffles. H.F. Pearson* — [J.S. Bastin](./js-bastin.md) (pp. 228–232) [Review]
+* *The other India: a biography of Sir Stamford Raffles. H.F. Pearson* — [J.S. Bastin](./john-bastin.md) (pp. 228–232) [Review]
 
 ## Contributors
 * [B.A.V. Peacock](./bav-peacock.md)
 * [C.A. Gibson-Hill](./carl-alexander-gibson-hill.md)
-* [C.M. Turnbull](./cm-turnbull.md)
+* [C.M. Turnbull](./constance-mary-turnbull.md)
 * [D.K. Bassett](./dk-bassett.md)
 * [E. Banks](./e-banks.md)
 * [E.R. Leach](./er-leach.md)
 * [G Arnold](./g-arnold.md)
 * [I.H. Burkill](./ih-burkill.md)
-* [J.S. Bastin](./js-bastin.md)
+* [J.S. Bastin](./john-bastin.md)
 * [M. Freedman](./m-freedman.md)
 * [M. Sullivan](./m-sullivan.md)
 * [R. Needham](./r-needham.md)

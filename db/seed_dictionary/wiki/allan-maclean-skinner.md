@@ -22,7 +22,8 @@ published: false
 
 ## MBRAS Sources
 
-- Kynnersley, C.W.S. Obituary. SB 36
+- [C.W.S. Kynnersley](./cws-kynnersley.md) (1901). [Allen Maclean Skinner: In memoriam](./allen-maclean-skinner-in-memoriam.md). *JSBRAS* 36: 139–140
+
 ## Bibliography
 - (1878) [Geography of the Malay Peninsula](./geography-of-the-malay-peninsula.md). *JSBRAS* 1: 52–62
 - (1878) [Geographical notes – recent journeys in the peninsula](./geographical-notes-recent-journeys-in-the-peninsula.md). *JSBRAS* 2: 222–225

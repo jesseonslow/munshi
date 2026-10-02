@@ -22,7 +22,8 @@ published: false
 
 ## MBRAS Sources
 
-- Kloss, C.B. Obituary. MB 4(2)
+- [C.B. Kloss](./cb-kloss.md) (1926). [John Coney Moulton. Obituary](./john-coney-moulton-obituary.md). *JMBRAS* 4(2): 264–265
+
 ## Bibliography
 - (1910) [An insectivorous hornbill](./an-insectivorous-hornbill.md). *JSBRAS* 54: 157–158
 - (1911) [A list of the butterflies of Borneo with descriptions of new species](./a-list-of-the-butterflies-of-borneo-with-descriptions-of-new.md). *JSBRAS* 60: 73–177

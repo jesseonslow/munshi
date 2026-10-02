@@ -59,21 +59,22 @@ See (Journal of the Malaysian Branch of the Royal Asiatic Society)[./journal-of-
 ### History
 
 - Gullick, J.M. A short history of the Society. MB 68(2)
-- MBRAS delegation to Java to present bust of Raffles. MB 8(2)
+- [Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md) (1930). [Delegation to Java: presentation of Sir Stamford Raffles’ bust to the Royal Batavian Society of Arts and Sciences](./delegation-to-java-presentation-of-sir-stamford-raffles-bust.md). *JMBRAS* 8(2): 289–306
 - Khor, N. MBRAS visit to Sg Batu archaeological site, Kuala Muda, Kedah. MB 85(1)
-- MBRAS visit to Bandar Seri Begawan, Brunei. MB 86(2)
+- [N. Khor Jin Keong](./neil-khor-jin-keong.md) (2013). [MBRAS visit to Bandar Seri Begawan](./mbras-visit-to-bandar-seri-begawan.md). *JMBRAS* 86(2): 89–92
 - Sheppard, M. MBRAS Council meets in Sabah. MB 57(2)
-- Sheppard, M. Welcome to our new Patron the Raja Muda of Selangor. MB 64(2)
-- Sheppard, M. Reflections on JMBRAS. MB 95(1)
+- [Mubin Sheppard](./mubin-sheppard.md) (1991). [Welcome to our new patron {HH Idris Shah Raja Muda of Selangor](./welcome-to-our-new-patron-hh-idris-shah-raja-muda-of-selango.md). *JMBRAS* 64(2): 1–6
+- [P.H. Kratoska](./paul-h-kratoska.md) and [Mubin Sheppard](./mubin-sheppard.md) (2022). [Dato Haji Mubin Sheppard. With a note P. Kratoska](./dato-haji-mubin-sheppard-with-a-note-p-kratoska.md). *JMBRAS* 95: 95–103
 
 ### Indices
 
-- Anon. Indexes JSBRAS 1–31. SB 31
+- [Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md) (1898). [Index to the Journal of the Straits Branch of the Royal Asiatic Society, Vols I to XXXI](./index-to-the-journal-of-the-straits-branch-of-the-royal-asia.md). *JSBRAS* 31: 153–190
 - Indexes JSBRAS SB 70, 74, 77, 86
-- Barnes, W.D. Index to JSBRAS 1–50 and NQ 1–4. SB 51
-- Choy Chee Meh. SB/MBRAS History MB 68(2) and 69(1)
-- Gibson-Hill, C.A. JMBRAS index vols 1–20. MB 21(3)
-- Wurtzburg, C.E. Index to SB 1–86 and NQ 1–4. MB 5(4)
+- [W.D. Barnes](./wd-barnes.md) (1909). [An index to Journals Nos 1–50 and to Notes and Queries I―IV](./an-index-to-journals-nos-150-and-to-notes-and-queries-iiv.md). *JSBRAS* 51
+- [Choy Chee Meh](./choy-chee-meh.md) (1995). [History of the Malaysian Branch of the Royal Asiatic Society](./history-of-the-malaysian-branch-of-the-royal-asiatic-society.md). *JMBRAS* 68(2): 81–148
+- [C.A. Gibson-Hill](./carl-alexander-gibson-hill.md) (1948). [Index {to} volumes 1–20 (1923–47) of the Society’s journals](./index-to-volumes-120-192347-of-the-societys-journals.md). *JMBRAS* 21(3): 1–66
+- [C.E. Wurtzburg](./ce-wurtzburg.md) (1927). [An index to all the journals (Nos. 1–86) of the Straits Branch of the Royal Asiatic Society from its foundation until its change of title to Malayan Branch of the Royal Asiatic Society. And to Notes and queries I to IV](./an-index-to-all-the-journals-nos-186-of-the-straits-branch-o.md). *JMBRAS* 5(4): 1–101
+
 ## Bibliography
 - (1898) [Index to the Journal of the Straits Branch of the Royal Asiatic Society, Vols I to XXXI](./index-to-the-journal-of-the-straits-branch-of-the-royal-asia.md). *JSBRAS* 31: 153–190
 - (1909) [An index to Journals nos. 1 to 50 of the Straits Branch of the Royal Asiatic Society and to Notes and Queries I to IV](./an-index-to-journals-nos-1-to-50-of-the-straits-branch-of-th.md). *JSBRAS* 51: 1–93

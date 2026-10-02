@@ -60,13 +60,13 @@ articles:
 
 ## Table of Contents
 * [The structure of the economy of Kedah, 1879–1905](./the-structure-of-the-economy-of-kedah-18791905.md) — [Sharom Ahmat](./sharom-ahmat.md) (pp. 1–24)
-* [Britain and Sarawak in the twentieth century: Raja Charles, Raja Vyner and the Colonial Office](./britain-and-sarawak-in-the-twentieth-century-raja-charles-ra.md) — [N. Tarling](./n-tarling.md) (pp. 25–52)
+* [Britain and Sarawak in the twentieth century: Raja Charles, Raja Vyner and the Colonial Office](./britain-and-sarawak-in-the-twentieth-century-raja-charles-ra.md) — [N. Tarling](./nicholas-tarling.md) (pp. 25–52)
 * [The period and the nature of “traditional” settlement in the Malay Peninsula](./the-period-and-the-nature-of-traditional-settlement-in-the-m.md) — [Zaharah binti Hj. Mahmud](./zaharah-binti-hj-mahmud.md) (pp. 81–112)
-* [The growth of the country trade to the Straits of Malacca, 1760–1777](./the-growth-of-the-country-trade-to-the-straits-of-malacca-17.md) — [D. Lewis](./d-lewis.md) (pp. 114–130)
+* [The growth of the country trade to the Straits of Malacca, 1760–1777](./the-growth-of-the-country-trade-to-the-straits-of-malacca-17.md) — [D. Lewis](./diane-lewis.md) (pp. 114–130)
 
 ## Contributors
-* [D. Lewis](./d-lewis.md)
-* [N. Tarling](./n-tarling.md)
+* [D. Lewis](./diane-lewis.md)
+* [N. Tarling](./nicholas-tarling.md)
 * [Sharom Ahmat](./sharom-ahmat.md)
 * [Zaharah binti Hj. Mahmud](./zaharah-binti-hj-mahmud.md)
 

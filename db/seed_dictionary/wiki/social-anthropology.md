@@ -17,6 +17,7 @@ published: false
 <!-- Synthesis engine: Insert introductory synthesis for Social anthropology here -->
 
 ## MBRAS Sources
+
 <!-- Seed entries or targeted retrieval for Social anthropology -->
 
 ## References

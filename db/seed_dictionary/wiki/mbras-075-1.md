@@ -105,19 +105,19 @@ articles:
 ## Table of Contents
 * [Special Thai-Malaysian relations](./special-thai-malaysian-relations.md) — [Kobkua Suwannathat-Pian](./kobkua-suwannathat-pian.md) (pp. 1–22)
 * [‘Telling people the simple truth’: the role of strategic propaganda in the Malayan Emergency](./telling-people-the-simple-truth-the-role-of-strategic-propag.md) — [K. Ramakrishna](./k-ramakrishna.md) (pp. 49–68)
-* [Reconstructing Banzu, a fourteenth century port settlement](./reconstructing-banzu-a-fourteenth-century-port-settlement.md) — [D. Heng Thiam Soon](./d-heng-thiam-soon.md) (pp. 69–90)
+* [Reconstructing Banzu, a fourteenth century port settlement](./reconstructing-banzu-a-fourteenth-century-port-settlement.md) — [D. Heng Thiam Soon](./derek-heng-thiam-soon.md) (pp. 69–90)
 * [Bongai in Tanjung Ipoh, Negeri Sembilan](./bongai-in-tanjung-ipoh-negeri-sembilan.md) — [M. Collins](./m-collins.md) (pp. 91–114)
-* [John Leyden and the publication of the Malay Annals (1821](./john-leyden-and-the-publication-of-the-malay-annals-1821.md) — [J.S. Bastin](./js-bastin.md) (pp. 99–115)
+* [John Leyden and the publication of the Malay Annals (1821](./john-leyden-and-the-publication-of-the-malay-annals-1821.md) — [J.S. Bastin](./john-bastin.md) (pp. 99–115)
 * *La memoire engloutie de Brunei (An adventure in underwater archaeology). M. L’Hour* — [Harrisson B](./harrisson-b.md) (pp. 115–118) [Review]
 * *John Leyden’s Malay Annals. With an introductory essay by V. Matheson Hooker and M.B. Hooker. Reprint 20* — [Hadijah bte Rahmat](./hadijah-bte-rahmat.md) (pp. 118–120) [Review]
 * *Comet in our sky: Lim Chin Siong in history* — [C.J.W.–L Wee](./cjwl-wee.md), [Tan Jing Quee](./tan-jing-quee.md), [Jomo K.S](./jomo-ks.md) (pp. 121–123) [Review]
 
 ## Contributors
 * [C.J.W.–L Wee](./cjwl-wee.md)
-* [D. Heng Thiam Soon](./d-heng-thiam-soon.md)
+* [D. Heng Thiam Soon](./derek-heng-thiam-soon.md)
 * [Hadijah bte Rahmat](./hadijah-bte-rahmat.md)
 * [Harrisson B](./harrisson-b.md)
-* [J.S. Bastin](./js-bastin.md)
+* [J.S. Bastin](./john-bastin.md)
 * [Jomo K.S](./jomo-ks.md)
 * [K. Ramakrishna](./k-ramakrishna.md)
 * [Kobkua Suwannathat-Pian](./kobkua-suwannathat-pian.md)

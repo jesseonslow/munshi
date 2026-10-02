@@ -18,6 +18,7 @@ published: false
 
 ## MBRAS Sources
 
-- Coolhaas, W.Ph. Malacca under Jan van Riebeeck. MB 38(2)
+- [W.Ph. Coolhaas](./wph-coolhaas.md) (1965). [Malacca under Jan van Riebeeck](./malacca-under-jan-van-riebeeck.md). *JMBRAS* 38(2): 173–182
+
 ## References
 <!-- Grounded occurrences and citations -->

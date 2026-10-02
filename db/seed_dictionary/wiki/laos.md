@@ -29,10 +29,11 @@ published: false
 
 ### Description and travel
 
-- Dabin, G. A missionary’s journey through Laos, Bangkok to Ubon. SB 15
+- [G. Dabin](./g-dabin.md) and [W.E. Maxwell](./sir-william-edward-maxwell.md) (1885). [A missionary’s journey through Laos from Bangkok to Ubon (.E. Maxwell](./a-missionarys-journey-through-laos-from-bangkok-to-ubon-e-ma.md). *JSBRAS* 15: 103–117
 
 ### History
 
 - Tarling, N. Britain and the neutralisation of Laos. MB 85(2) {R}
+
 ## References
 <!-- Grounded occurrences and citations -->

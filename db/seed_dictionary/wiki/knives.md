@@ -23,6 +23,7 @@ published: false
 
 ## MBRAS Sources
 
-- Woolley, G.C. Two knives in the Pitt-Rivers Museum. MB 20(2)
+- [G.C. Woolley](./gc-woolley.md) (1947). [Notes on two knives in the Pitt-Rivers Museum](./notes-on-two-knives-in-the-pitt-rivers-museum.md). *JMBRAS* 20(2): 39–40
+
 ## References
 <!-- Grounded occurrences and citations -->

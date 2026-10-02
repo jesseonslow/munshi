@@ -180,14 +180,14 @@ articles:
 **Date:** June 1947
 
 ## Table of Contents
-* [Further work on Indian sites in Malaya](./further-work-on-indian-sites-in-malaya.md) — [D.C. Wales](./dc-wales.md), [H.G.Q. Wales](./hgq-wales.md) (pp. 1–11)
+* [Further work on Indian sites in Malaya](./further-work-on-indian-sites-in-malaya.md) — [D.C. Wales](./dc-wales.md), [H.G.Q. Wales](./horace-geoffrey-quaritch-wales.md) (pp. 1–11)
 * [The origin of the wayang theatre (shadow play](./the-origin-of-the-wayang-theatre-shadow-play.md) — [A. Rentse](./a-rentse.md) (pp. 12–15)
 * [Some further notes on coins from the northeastern Malay states](./some-further-notes-on-coins-from-the-northeastern-malay-stat.md) — [A. Rentse](./a-rentse.md) (pp. 16–22)
 * [A historical note on the northeastern Malay states](./a-historical-note-on-the-northeastern-malay-states.md) — [A. Rentse](./a-rentse.md) (pp. 23–40)
 * [Some notes on keris measurements](./some-notes-on-keris-measurements.md) — [G.M. Laidlaw](./gm-laidlaw.md) (pp. 45–46)
 * [Notes on Tan Tan](./notes-on-tan-tan.md) — [Hsu Yun-ts'iao](./hsu-yun-tsiao.md) (pp. 47–63)
 * [Historical sketch of Chinese labour in Malaya](./historical-sketch-of-chinese-labour-in-malaya.md) — [W.L. Blythe](./wl-blythe.md) (pp. 64–114)
-* [Chinese settlement in Malacca](./chinese-settlement-in-malacca.md) — [V. Purcell](./v-purcell.md) (pp. 115–125)
+* [Chinese settlement in Malacca](./chinese-settlement-in-malacca.md) — [V. Purcell](./victor-purcell.md) (pp. 115–125)
 * [The floating cannons of Butterworth](./the-floating-cannons-of-butterworth.md) — [A.E. Coope](./ae-coope.md) (pp. 126–128)
 * [Keramat see Karamat Kingship and enthronement in Malaya](./keramat-see-karamat-kingship-and-enthronement-in-malaya.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 129–139)
 * [Notes on Malay subjects](./notes-on-malay-subjects.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 140–142)
@@ -208,12 +208,12 @@ articles:
 * [G.C. Woolley](./gc-woolley.md)
 * [G.M. Laidlaw](./gm-laidlaw.md)
 * [H.G. Keith](./hg-keith.md)
-* [H.G.Q. Wales](./hgq-wales.md)
+* [H.G.Q. Wales](./horace-geoffrey-quaritch-wales.md)
 * [Hsu Yun-ts'iao](./hsu-yun-tsiao.md)
 * [R. Braddell](./r-braddell.md)
 * [R. Cardon](./r-cardon.md)
 * [R.O. Winstedt](./richard-olaf-winstedt.md)
-* [V. Purcell](./v-purcell.md)
+* [V. Purcell](./victor-purcell.md)
 * [W.L. Blythe](./wl-blythe.md)
 
 ## References

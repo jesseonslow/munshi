@@ -200,12 +200,12 @@ articles:
 **Date:** March 1955
 
 ## Table of Contents
-* [The Malay Peninsula as known to the Chinese of the third century A.D](./the-malay-peninsula-as-known-to-the-chinese-of-the-third-cen.md) — [P. Wheatley](./p-wheatley.md) (pp. 1–23)
+* [The Malay Peninsula as known to the Chinese of the third century A.D](./the-malay-peninsula-as-known-to-the-chinese-of-the-third-cen.md) — [P. Wheatley](./paul-wheatley.md) (pp. 1–23)
 * [Punan Ba](./punan-ba.md) — [R. Needham](./r-needham.md) (pp. 24–36)
 * [The settlement of Penang. J. Scott. .J. Fielding](./the-settlement-of-penang-j-scott-j-fielding.md) — [K.J. Fielding](./kj-fielding.md), [J. Scott](./j-scott.md) (pp. 37–51)
 * [Persian influences in Malay life](./persian-influences-in-malay-life.md) — [G.E. Marrison](./ge-marrison.md) (pp. 52–69)
 * [Aspects of Sufi thought in India and Indonesia in the first half of the 17th century](./aspects-of-sufi-thought-in-india-and-indonesia-in-the-first-.md) — [A.H. Johns](./ah-johns.md) (pp. 70–77)
-* [Belated comments on Sir Roland Braddell’s Studies of ancient times in the Malay Peninsula](./belated-comments-on-sir-roland-braddells-studies-of-ancient-.md) — [P. Wheatley](./p-wheatley.md) (pp. 78–98)
+* [Belated comments on Sir Roland Braddell’s Studies of ancient times in the Malay Peninsula](./belated-comments-on-sir-roland-braddells-studies-of-ancient-.md) — [P. Wheatley](./paul-wheatley.md) (pp. 78–98)
 * [The effect of the opening of the Suez Canal on the trade and development of Singapore](./the-effect-of-the-opening-of-the-suez-canal-on-the-trade-and.md) — [G. Bogaars](./g-bogaars.md) (pp. 99–143)
 * [Raja Manggeng](./raja-manggeng.md) — [P. Howes](./p-howes.md) (pp. 144–147)
 * [Manggeng and Datu Merpati](./manggeng-and-datu-merpati.md) — [A.H. Hill](./anthony-haydock-hill.md) (pp. 148–158)
@@ -234,7 +234,7 @@ articles:
 * [J. Scott](./j-scott.md)
 * [K.J. Fielding](./kj-fielding.md)
 * [P. Howes](./p-howes.md)
-* [P. Wheatley](./p-wheatley.md)
+* [P. Wheatley](./paul-wheatley.md)
 * [P.E. de Josselin de Jong](./pe-de-josselin-de-jong.md)
 * [R. Needham](./r-needham.md)
 * [T. Wittermans](./t-wittermans.md)

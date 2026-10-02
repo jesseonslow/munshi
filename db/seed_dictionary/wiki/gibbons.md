@@ -20,6 +20,7 @@ published: false
 
 ## MBRAS Sources
 
-- Kloss, C.B. White-handed gibbon. SB 50
+- [C.B. Kloss](./cb-kloss.md) (1908). [The white-handed gibbon](./the-white-handed-gibbon.md). *JSBRAS* 50: 79–80
+
 ## References
 <!-- Grounded occurrences and citations -->

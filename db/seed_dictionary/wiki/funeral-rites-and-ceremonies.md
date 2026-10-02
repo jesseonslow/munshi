@@ -37,15 +37,16 @@ published: false
 
 ## MBRAS Sources
 
-- Bryson, H.P. Funeral of Yam Tuan Muhammad. MB 14(3)
-- Chen, R.Y. Minority voices during Lee Kuan Yew funeral. MB 89(1)
-- Cherian, A.E. Singaporean reaction to mourning of Lee Kuan Yew in Tamil Nadu. MB 89(1)
-- O’Connor, S.J. Gold-foil burial amulets in Bali, Philippines and Borneo. MB 44(1)
-- Hong Cheng Yee, R. Individual and state narratives in Lee Kuan Yew mourning. MB 89(1)
-- Kaplan, M. Introduction to Lee Kuan Yew funeral issue. MB 89(1)
-- Kelly, J. Monuments, death and sacrifice in Singapore. MB 89(1)
+- [I.W. Blelloch](./iw-blelloch.md) and [H.P. Bryson](./hp-bryson.md) (1936). [Record of the ceremonial followed at the death and funeral of Yang Di-Pertuan Besar, Tuanku Muhammad, G.C.M.G., K.C.V.O., ibni al-Marhum Yam Tuan Antah, and at the proclamation of his son Tunku Abdu’l Rahman as his successor](./record-of-the-ceremonial-followed-at-the-death-and-funeral-o.md). *JMBRAS* 14(3): 272–279
+- [R. Y. Chen](./r-y-chen.md) (2016). [Minority voices and dominant structures: the case of Amos Yee](./minority-voices-and-dominant-structures-the-case-of-amos-yee.md). *JMBRAS* 89: 123–135
+- [A.E. Cherian](./ae-cherian.md) (2016). [Singaporean reactions to the commemoration of Lee Kuan Yew in Tamil Nadu](./singaporean-reactions-to-the-commemoration-of-lee-kuan-yew-i.md). *JMBRAS* 89: 137–153
+- [Tom Harrisson](./tom-harrisson.md) and [S.J. O'Connor](./sj-oconnor.md) (1971). [Gold-foil burial amulets in Bali, Philippines and Borneo. S.J. O’Connor and T. Harrisson](./gold-foil-burial-amulets-in-bali-philippines-and-borneo-sj-o.md). *JMBRAS* 44: 70–77
+- [R. Hong Cheng Yee](./r-hong-cheng-yee.md) (2016). [Individual and state narratives of Lee Kuan Yew as ancestor and founding father](./individual-and-state-narratives-of-lee-kuan-yew-as-ancestor-.md). *JMBRAS* 89: 115–121
+- [M. Kaplan](./m-kaplan.md) and [J. Kelly](./j-kelly.md) (2016). [Ethnographic notes on the state funeral of Lee Kuan Yew: introduction](./ethnographic-notes-on-the-state-funeral-of-lee-kuan-yew-intr.md). *JMBRAS* 89: 81–83
+- [J. Kelly](./j-kelly.md) (2016). [Nation and consecration: conversions of death into sacrifice in Singapore](./nation-and-consecration-conversions-of-death-into-sacrifice-.md). *JMBRAS* 89: 84–105
 - Li Nanlan. National mourning rites for Lee Kuan Yew. MB 89(1)
 - Scott, J.G. Annamese funeral rites (extract from France and Tongking 1885). SB 15
-- Topley, M. Singapore Cantonese rites for repose of the soul. MB 25(1)
+- [M. Topley](./m-topley.md) (1952). [Chinese rites for the repose of the soul; with special reference to Cantonese custom](./chinese-rites-for-the-repose-of-the-soul-with-special-refere.md). *JMBRAS* 25: 149–160
+
 ## References
 <!-- Grounded occurrences and citations -->

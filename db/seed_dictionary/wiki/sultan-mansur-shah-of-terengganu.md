@@ -18,6 +18,7 @@ published: false
 
 ## MBRAS Sources
 
-- Andaya, B. Tuhfat-al-Nafis and Sultan Mansur Shah. MB 49(2)
+- [B.W. Andaya](./barbara-watson-andaya.md) (1976). [An examination of the sources concerning the reign of Sultan Mansur Syah of Trengganu (1741–1795) with special reference to the Tuhfat-al-Nafis](./an-examination-of-the-sources-concerning-the-reign-of-sultan.md). *JMBRAS* 49(2): 80–106
+
 ## References
 <!-- Grounded occurrences and citations -->

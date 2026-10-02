@@ -21,10 +21,11 @@ published: false
 
 ## MBRAS Sources
 
-- Evans, I.H.N. Bajau and other coastal tribes. MB 25(1)
-- Harrisson, T. Ngajau-Bajau — usage in early SEA. MB 49(1)
-- Headly, D. Illanun and Bajau marriage customs. MB 24(3)
+- [I.H.N. Evans](./ivor-hugh-norman-evans.md) (1952). [Notes on the Bajaus and other coastal tribes of North Borneo](./notes-on-the-bajaus-and-other-coastal-tribes-of-north-borneo.md). *JMBRAS* 25: 48–55
+- [Tom Harrisson](./tom-harrisson.md) (1976). [Ngaju-Bajau: significant early term usages in Southeast Asia (especially Malaysia](./ngaju-bajau-significant-early-term-usages-in-southeast-asia-.md). *JMBRAS* 49: 1–14
+- [D. Headly](./d-headly.md) (1951). [Some Illanun and Bajau marriage customs in the Kota Belud district, North Borneo](./some-illanun-and-bajau-marriage-customs-in-the-kota-belud-di.md). *JMBRAS* 24(3): 159–160
 - Schneeburger, W.F. Bangi/Bajau vocabulary. MB 15(3)
 - Singh, S. On the Sulu sea. MB 58(2) {R}
+
 ## References
 <!-- Grounded occurrences and citations -->

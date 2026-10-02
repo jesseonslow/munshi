@@ -118,20 +118,20 @@ articles:
 * [Succession to the Perak Sultanate](./succession-to-the-perak-sultanate.md) — [Khoo Kay Kim](./khoo-kay-kim.md) (pp. 7–29)
 * [Kedah 1821–1855: years of exile and return](./kedah-18211855-years-of-exile-and-return.md) — [J.M. Gullick](./john-michael-gullick.md) (pp. 31–86)
 * [Dutch records from Malacca in the India Office Records](./dutch-records-from-malacca-in-the-india-office-records.md) — [I. Baxter](./i-baxter.md) (pp. 105–134)
-* [A Malay mission to Bangkok during the reign of Rama II](./a-malay-mission-to-bangkok-during-the-reign-of-rama-ii.md) — [C. Skinner](./c-skinner.md) (pp. 135–140)
+* [A Malay mission to Bangkok during the reign of Rama II](./a-malay-mission-to-bangkok-during-the-reign-of-rama-ii.md) — [C. Skinner](./cyril-skinner.md) (pp. 135–140)
 * [Dictionary of Malaysian biography project](./dictionary-of-malaysian-biography-project.md) — [Khoo Kay Kim](./khoo-kay-kim.md) (pp. 141)
 * *The politics of decentralization: colonial controversy in Malaya 1920–1929. Yeo Kim Wah* — [W. Cheah](./w-cheah.md) (pp. 142–143) [Review]
 * *The burthen, the risk and the glory: a biography of Sir James Brooke. N. Tarling* — [J. Kathirithamby– Wells](./j-kathirithamby-wells.md) (pp. 144–145) [Review]
 * *Babad Dipanagara: An account of the outbreak of the Java War (1825–30): the Surakarta court version of the Babad Dipanagara with translation into English and Indonesian Malay. P.B.R. Carey* — [H. Sutherland](./h-sutherland.md) (pp. 145–147) [Review]
-* *Portraits in the India Office Library and Records. P. Rohatgi* — [J.S. Bastin](./js-bastin.md) (pp. 147–148) [Review]
+* *Portraits in the India Office Library and Records. P. Rohatgi* — [J.S. Bastin](./john-bastin.md) (pp. 147–148) [Review]
 
 ## Contributors
-* [C. Skinner](./c-skinner.md)
+* [C. Skinner](./cyril-skinner.md)
 * [H. Sutherland](./h-sutherland.md)
 * [I. Baxter](./i-baxter.md)
 * [J. Kathirithamby– Wells](./j-kathirithamby-wells.md)
 * [J.M. Gullick](./john-michael-gullick.md)
-* [J.S. Bastin](./js-bastin.md)
+* [J.S. Bastin](./john-bastin.md)
 * [Khoo Kay Kim](./khoo-kay-kim.md)
 * [Mohamed Suffian](./mohamed-suffian.md)
 * [W. Cheah](./w-cheah.md)

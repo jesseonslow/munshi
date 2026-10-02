@@ -18,7 +18,8 @@ published: false
 
 ## MBRAS Sources
 
-- Chan King Nui. Biography. Monograph 27
-- Chan King Nui. Short biography of Chan Wing. MB 69(1)
+- [Chan King Nui](./chan-king-nui.md) (1997). [From Poor Migrant to Millionaire: Chan Wing 1873 - 1947](./from-poor-migrant-to-millionaire-chan-wing-1873-1947.md). ** : 96
+- [Chan King Nui](./chan-king-nui.md) (1996). [A short biographical record of Chan Wing, an early pioneer of Malaya](./a-short-biographical-record-of-chan-wing-an-early-pioneer-of.md). *JMBRAS* 69: 112–117
+
 ## References
 <!-- Grounded occurrences and citations -->

@@ -21,9 +21,10 @@ published: false
 
 ## MBRAS Sources
 
-- Bland, Mrs R.N. _Anyam gila_ basket making at Tanjong Kling. SB 46
-- Maxwell, W.E. Baskets for carrying loads. NQ Reprint 15
-- Swayne, J.C. Rejang basket from Sarawak. MB 11(2)
-- Woolley, G.C. Murut basketwork patterns. MB 7(2)
+- [R.N. Bland](./rn-bland.md) (1906). [A few notes on the “anyam gila” basket making at Tanjong Kling, Malacca](./a-few-notes-on-the-anyam-gila-basket-making-at-tanjong-kling.md). *JSBRAS* 46: 1–7
+- Anon. [Maxwell, W.E. Baskets for carrying loads](./mbras-reprint-15.md). *Reprint* 15
+- [J.C. Swayne](./jc-swayne.md) (1933). [Rejang baskets from Sarawak](./rejang-baskets-from-sarawak.md). *JMBRAS* 11(2): 185–189
+- [G.C. Woolley](./gc-woolley.md) (1929). [Some notes on Murut basket work and patterns](./some-notes-on-murut-basket-work-and-patterns.md). *JMBRAS* 7(2): 291–315
+
 ## References
 <!-- Grounded occurrences and citations -->

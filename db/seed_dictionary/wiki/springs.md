@@ -21,7 +21,8 @@ published: false
 
 ## MBRAS Sources
 
-- Bott, W. The thermal springs of Selangor and Malacca. SB 24
-- Machado, A.D. The hot springs of Ulu Jelai. SB 33
+- [W. Bott](./w-bott.md) (1891). [The thermal springs of Selangor and Malacca](./the-thermal-springs-of-selangor-and-malacca.md). *JSBRAS* 24: 43–62
+- [A.D. Machado](./ad-machado.md) (1900). [The hot springs of Ulu Jelai](./the-hot-springs-of-ulu-jelai.md). *JSBRAS* 33: 263–264
+
 ## References
 <!-- Grounded occurrences and citations -->

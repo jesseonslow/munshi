@@ -21,7 +21,9 @@ published: false
 
 ## MBRAS Sources
 
-- Muhammad Ghazzali, Dato’. Court language and etiquette among the Malays. MB 11(2) and Reprint 4
-- Zainal Abidin bin Ahmad. Malay manners and etiquette. MB 23(3)
+- [Muhammad Ghazali](./muhammad-ghazali.md) (1933). [Court language and etiquette of the Malays](./court-language-and-etiquette-of-the-malays.md). *JMBRAS* 11(2): 273–287
+- Anon (1977). [A Centenary Volume: 30 Articles selected from JSBRAS and JMBRAS 1878 - 1976](./a-centenary-volume-30-articles-selected-from-jsbras-and-jmbras-1878-1976.md). ** : 358
+- [Zainal Abidin bin Ahmad](./zainal-abidin-bin-ahmad.md) (1950). [Malay manners and etiquette](./malay-manners-and-etiquette.md). *JMBRAS* 23(3): 43–74
+
 ## References
 <!-- Grounded occurrences and citations -->

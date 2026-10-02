@@ -146,34 +146,34 @@ articles:
 **Date:** June 1987
 
 ## Table of Contents
-* [A rare book for the Tunku, with a contemporary portrait of Sultan Ahmad Taju’din Halim Shah of Kedah](./a-rare-book-for-the-tunku-with-a-contemporary-portrait-of-su.md) — [J.S. Bastin](./js-bastin.md) (pp. 1–6)
-* [The post-war decade in Malaya](./the-post-war-decade-in-malaya.md) — [C.M. Turnbull](./cm-turnbull.md) (pp. 7–26)
+* [A rare book for the Tunku, with a contemporary portrait of Sultan Ahmad Taju’din Halim Shah of Kedah](./a-rare-book-for-the-tunku-with-a-contemporary-portrait-of-su.md) — [J.S. Bastin](./john-bastin.md) (pp. 1–6)
+* [The post-war decade in Malaya](./the-post-war-decade-in-malaya.md) — [C.M. Turnbull](./constance-mary-turnbull.md) (pp. 7–26)
 * [English language fiction relating to Malaysia, Singapore and Brunei: a supplementary check-list and comments](./english-language-fiction-relating-to-malaysia-singapore-and-.md) — [L. Hill](./l-hill.md) (pp. 45–74)
 * [Some old Penang tombstones: a sequel](./some-old-penang-tombstones-a-sequel.md) — [D. Ch'ng](./d-chng.md), [M.W. Mintz](./mw-mintz.md) (pp. 75–80)
 * [John Mills. Obituary](./john-mills-obituary.md) — [Mubin Sheppard](./mubin-sheppard.md) (pp. 97–98)
-* *Cyril Skinner (1924–1986). Obituary* — [V. Matheson](./v-matheson.md) (pp. 99–102) [Review]
+* *Cyril Skinner (1924–1986). Obituary* — [V. Matheson](./virginia-matheson.md) (pp. 99–102) [Review]
 * *Coleman’s Singapore. T.H.H. Hancock* — [Lee Kip Lin](./lee-kip-lin.md) (pp. 103–104) [Review]
 * *Malaysian world-view ed Mohd Taib Osman* — [V. Lowe](./v-lowe.md) (pp. 104–105) [Review]
 * *The tiger and the Trojan horse. D. Bloodworth* — [W. Cheah](./w-cheah.md) (pp. 106–108) [Review]
 * *Islam and society in Southeast Asia* — [C.S. Kessler](./cs-kessler.md) (pp. 109–111) [Review]
-* *Malay politics in Sarawak 1946–1966: search for unity and political ascendancy. Sanib Said* — [M. Clark](./m-clark.md) (pp. 111–112) [Review]
+* *Malay politics in Sarawak 1946–1966: search for unity and political ascendancy. Sanib Said* — [M. Clark](./mc-clark.md) (pp. 111–112) [Review]
 * *Travellers’ tales of old Singapore. (Comp.) M. Wise* — [P.C. Wicks](./pc-wicks.md) (pp. 113–114) [Review]
 * [A survey of the literature on Chinese Peranakans and the case for a regional resource centre](./a-survey-of-the-literature-on-chinese-peranakans-and-the-cas.md) — [Ch'ng Kim See](./chng-kim-see.md) (pp. 179–191)
 
 ## Contributors
-* [C.M. Turnbull](./cm-turnbull.md)
+* [C.M. Turnbull](./constance-mary-turnbull.md)
 * [C.S. Kessler](./cs-kessler.md)
 * [Ch'ng Kim See](./chng-kim-see.md)
 * [D. Ch'ng](./d-chng.md)
-* [J.S. Bastin](./js-bastin.md)
+* [J.S. Bastin](./john-bastin.md)
 * [L. Hill](./l-hill.md)
 * [Lee Kip Lin](./lee-kip-lin.md)
-* [M. Clark](./m-clark.md)
+* [M. Clark](./mc-clark.md)
 * [M.W. Mintz](./mw-mintz.md)
 * [Mubin Sheppard](./mubin-sheppard.md)
 * [P.C. Wicks](./pc-wicks.md)
 * [V. Lowe](./v-lowe.md)
-* [V. Matheson](./v-matheson.md)
+* [V. Matheson](./virginia-matheson.md)
 * [W. Cheah](./w-cheah.md)
 
 ## References

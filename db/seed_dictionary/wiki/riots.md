@@ -31,6 +31,7 @@ published: false
 ### Straits Settlements
 
 - Tarling, N. The Singapore mutiny of 1915. MB 55(2)
-- Turnbull, C.M. Communal disturbances in the SS in 1857. MB 31(1)
+- [C.M. Turnbull](./constance-mary-turnbull.md) (1958). [Communal disturbances in the Straits Settlements in 1857](./communal-disturbances-in-the-straits-settlements-in-1857.md). *JMBRAS* 31: 94–144
+
 ## References
 <!-- Grounded occurrences and citations -->

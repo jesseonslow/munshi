@@ -23,7 +23,8 @@ published: false
 
 ## MBRAS Sources
 
-- Keyser, A. Flooding of the Triang Valley, 1896. MB 89(1)
-- Winstedt, R.O. Great flood, 1926. MB 5(2)
+- [A. Keyser](./a-keyser.md) (2016). [A flood in the Triang valley in December 1896](./a-flood-in-the-triang-valley-in-december-1896.md). *JMBRAS* 89: 155–158
+- [R.O. Winstedt](./richard-olaf-winstedt.md) (1927). [The great flood 1926](./the-great-flood-1926.md). *JMBRAS* 5(2): 295–309
+
 ## References
 <!-- Grounded occurrences and citations -->

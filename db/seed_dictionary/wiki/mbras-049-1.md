@@ -122,7 +122,7 @@ articles:
 
 ## Table of Contents
 * [Ngaju-Bajau: significant early term usages in Southeast Asia (especially Malaysia](./ngaju-bajau-significant-early-term-usages-in-southeast-asia-.md) — [Tom Harrisson](./tom-harrisson.md) (pp. 1–14)
-* [The Pak Pandir cycle of tales](./the-pak-pandir-cycle-of-tales.md) — [A. Sweeney](./a-sweeney.md) (pp. 15–88)
+* [The Pak Pandir cycle of tales](./the-pak-pandir-cycle-of-tales.md) — [A. Sweeney](./amin-sweeney.md) (pp. 15–88)
 * [Sir Hugh Clifford’s early career (1866–1903) as told from his private papers](./sir-hugh-cliffords-early-career-18661903-as-told-from-his-pr.md) — [A.J. Stockwell](./aj-stockwell.md) (pp. 89–112)
 * [Singapore’s pauper and Tan Tock Seng hospitals. Part II](./singapores-pauper-and-tan-tock-seng-hospitals-part-ii.md) — [Y.K. Lee](./yk-lee.md) (pp. 113–133)
 * [Notes relating to Admiral Cheng Ho’s expeditions. Il](./notes-relating-to-admiral-cheng-hos-expeditions-il.md) — [Hsu Yun-ts'iao](./hsu-yun-tsiao.md) (pp. 134–140)
@@ -135,7 +135,7 @@ articles:
 
 ## Contributors
 * [A. Seljuq](./a-seljuq.md)
-* [A. Sweeney](./a-sweeney.md)
+* [A. Sweeney](./amin-sweeney.md)
 * [A.J. Stockwell](./aj-stockwell.md)
 * [B. Sandin](./b-sandin.md)
 * [Gathorne Gathorne-Hardy, Lord (Earl of Cranbrook) Medway](./gathorne-gathorne-hardy-lord-earl-of-cranbrook-medway.md)

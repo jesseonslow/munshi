@@ -19,7 +19,8 @@ published: false
 
 ## MBRAS Sources
 
-- Gibson-Hill, C.A. Malay hats and dish-covers. MB 24(1)
-- Gibson-Hill, C.A. Chinese labourers’ hats in Malaya. MB 25(1)
+- [C.A. Gibson-Hill](./carl-alexander-gibson-hill.md) (1951). [Malay hats and dish covers](./malay-hats-and-dish-covers.md). *JMBRAS* 24: 133–158
+- [C.A. Gibson-Hill](./carl-alexander-gibson-hill.md) (1952). [Chinese labourers’ hats used in Malaya](./chinese-labourers-hats-used-in-malaya.md). *JMBRAS* 25: 35–47
+
 ## References
 <!-- Grounded occurrences and citations -->

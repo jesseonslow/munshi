@@ -18,7 +18,8 @@ published: false
 
 ## MBRAS Sources
 
-- Thatcher, D. Refugee from the Japanese. Monograph 24
-- Nakamura, R. Cham refugee food and ethnic identity. MB 93(2)
+- [Dorothy Thatcher](./dorothy-thatcher.md) and [Robert Cross](./robert-cross.md) (1993). [Refugee from the Japanese](./refugee-from-the-japanese.md). ** : 184
+- [R. Nakamura](./r-nakamura.md) (2020). [Food and ethnic identity in the Cham refugee community in Malaysia](./food-and-ethnic-identity-in-the-cham-refugee-community-in-ma.md). *JMBRAS* 93(2): 153–64
+
 ## References
 <!-- Grounded occurrences and citations -->

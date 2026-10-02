@@ -25,6 +25,7 @@ published: false
 
 ## MBRAS Sources
 
-- Gullick, J.M. Heathen philosopher? MB 26(1)
+- [J.M. Gullick](./john-michael-gullick.md) (1953). [A careless, heathen philosopher?](./a-careless-heathen-philosopher.md). *JMBRAS* 26: 86–103
+
 ## References
 <!-- Grounded occurrences and citations -->

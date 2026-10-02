@@ -94,22 +94,22 @@ articles:
 
 ## Table of Contents
 * [A visit to Siraf: an ancient port in the Persian Gulf](./a-visit-to-siraf-an-ancient-port-in-the-persian-gulf.md) — [A. Lamb](./a-lamb.md) (pp. 1–19)
-* [The prince of merchants and the Lion city](./the-prince-of-merchants-and-the-lion-city.md) — [N. Tarling](./n-tarling.md) (pp. 20–40)
+* [The prince of merchants and the Lion city](./the-prince-of-merchants-and-the-lion-city.md) — [N. Tarling](./nicholas-tarling.md) (pp. 20–40)
 * [Two imperialists: a study of Sir Frank Swettenham and Sir Hugh Clifford](./two-imperialists-a-study-of-sir-frank-swettenham-and-sir-hug.md) — [J. de V. Allen](./j-de-v-allen.md) (pp. 41–73)
 * [Notes on Satingphra](./notes-on-satingphra.md) — [A. Lamb](./a-lamb.md) (pp. 74–87)
 * [Notes on beads from Johor Lama and Kota Tinggi](./notes-on-beads-from-johor-lama-and-kota-tinggi.md) — [A. Lamb](./a-lamb.md) (pp. 88–98)
-* [The relinquishment by the United States of extraterritoriality in Siam](./the-relinquishment-by-the-united-states-of-extraterritoriali.md) — [V. Purcell](./v-purcell.md) (pp. 99–120)
+* [The relinquishment by the United States of extraterritoriality in Siam](./the-relinquishment-by-the-united-states-of-extraterritoriali.md) — [V. Purcell](./victor-purcell.md) (pp. 99–120)
 * [Temer names](./temer-names.md) — [R. Needham](./r-needham.md) (pp. 121–125)
-* [Some old Penang tombstones. C. Bastin and J. Bastin](./some-old-penang-tombstones-c-bastin-and-j-bastin.md) — [C. Bastin](./c-bastin.md), [J.S. Bastin](./js-bastin.md) (pp. 126–165)
+* [Some old Penang tombstones. C. Bastin and J. Bastin](./some-old-penang-tombstones-c-bastin-and-j-bastin.md) — [C. Bastin](./c-bastin.md), [J.S. Bastin](./john-bastin.md) (pp. 126–165)
 
 ## Contributors
 * [A. Lamb](./a-lamb.md)
 * [C. Bastin](./c-bastin.md)
 * [J. de V. Allen](./j-de-v-allen.md)
-* [J.S. Bastin](./js-bastin.md)
-* [N. Tarling](./n-tarling.md)
+* [J.S. Bastin](./john-bastin.md)
+* [N. Tarling](./nicholas-tarling.md)
 * [R. Needham](./r-needham.md)
-* [V. Purcell](./v-purcell.md)
+* [V. Purcell](./victor-purcell.md)
 
 ## References
 <!-- Grounded occurrences and citations -->

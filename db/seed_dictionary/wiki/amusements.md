@@ -33,6 +33,7 @@ published: false
 - [Theatre](./theatre.md)
 
 ## MBRAS Sources
+
 <!-- Seed entries or targeted retrieval for Amusements -->
 
 ## References

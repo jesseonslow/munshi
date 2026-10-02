@@ -23,7 +23,8 @@ published: false
 
 ## MBRAS Sources
 
-- Ridley, H.N. Grasses and sedges of the Malay Peninsula. SB 23
-- Ridley, H.N. Grasses and sedges of Borneo. SB 46
+- [H.N. Ridley](./henry-nicholas-ridley.md) (1891). [The grasses and sedges of the Malay Peninsula](./the-grasses-and-sedges-of-the-malay-peninsula.md). *JSBRAS* 23: 1–33
+- [H.N. Ridley](./henry-nicholas-ridley.md) (1906). [Grasses and sedges of Borneo](./grasses-and-sedges-of-borneo.md). *JSBRAS* 46: 215–228
+
 ## References
 <!-- Grounded occurrences and citations -->

@@ -18,6 +18,7 @@ published: false
 <!-- Synthesis engine: Insert introductory synthesis for Pierre Pécot here -->
 
 ## MBRAS Sources
+
 <!-- Seed entries or targeted retrieval for Pierre Pécot -->
 
 ## References

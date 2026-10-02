@@ -22,7 +22,8 @@ published: false
 
 ## MBRAS Sources
 
-- Lemire, C. New penitential establishment at Singapore. SB 17
-- Turnbull, C.M. Convicts in the SS. MB 43(1)
+- [C.} {Lemire](./c-lemire.md) (1886). [{Le nouvel établissement penitentiaire de Singapore](./le-nouvel-établissement-penitentiaire-de-singapore.md). *JSBRAS* 17: 158
+- [C.M. Turnbull](./constance-mary-turnbull.md) (1970). [Convicts in the Straits Settlements, 1826–1867](./convicts-in-the-straits-settlements-18261867.md). *JMBRAS* 43: 87–103
+
 ## References
 <!-- Grounded occurrences and citations -->

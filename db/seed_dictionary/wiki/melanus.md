@@ -22,7 +22,8 @@ published: false
 
 ## MBRAS Sources
 
-- Hewitt, J. Two Milano religious ceremonies. SB 57
+- [B. Mulder](./b-mulder.md) and [J.Hewitt](./jhewitt.md) (1911). [Two religious ceremonies in vogue among the Milanos of Sarawak](./two-religious-ceremonies-in-vogue-among-the-milanos-of-saraw.md). *JSBRAS* 57: 171–181
 - Mulder, B. Head pressing among the Milanos of Sarawak. SB 60
+
 ## References
 <!-- Grounded occurrences and citations -->

@@ -206,7 +206,7 @@ articles:
 * [The mountain system of the Malayan Peninsula (1884](./the-mountain-system-of-the-malayan-peninsula-1884.md) — [J.E. Tenison Woods](./je-tenison-woods.md) (pp. 135–136)
 * [Physical geography of the Malayan Peninsula (1884](./physical-geography-of-the-malayan-peninsula-1884.md) — [J.E. Tenison Woods](./je-tenison-woods.md) (pp. 137–142)
 * [Seven months in the tin country, Perak (Malacca Peninsula), 1881. . Dyer](./seven-months-in-the-tin-country-perak-malacca-peninsula-1881.md) — [J.E. De La Croix](./je-de-la-croix.md) (pp. 143–168)
-* *The building of the North Borneo railway and the founding of Jesselton* — [H.S. Barlow](./hs-barlow.md) (pp. 172–173) [Review]
+* *The building of the North Borneo railway and the founding of Jesselton* — [H.S. Barlow](./henry-sackville-barlow.md) (pp. 172–173) [Review]
 * *Schooling diaspora: women, education, and the overseas Chinese in British Malaya and Singapore. K.M. Teoh* — [Ngu Ik Tien](./ngu-ik-tien.md) (pp. 174–175) [Review]
 * *Charting the economy: early 20th century Malaya and contemporary Malaysian contrasts. Sultan Nazrin Shah* — [Ong Wooi Leng](./ong-wooi-leng.md) (pp. 176–181) [Review]
 * *China’s left-behind wives: families of migrants from Fujian to Southeast Asia, 1930s–1950s. Huifen Shen* — [A. Khoo](./a-khoo.md) (pp. 182–184) [Review]
@@ -223,7 +223,7 @@ articles:
 * [C. de Matos](./c-de-matos.md)
 * [C. Velu](./c-velu.md)
 * [Chor Swang Ngin](./chor-swang-ngin.md)
-* [H.S. Barlow](./hs-barlow.md)
+* [H.S. Barlow](./henry-sackville-barlow.md)
 * [Hack K](./hack-k.md)
 * [Hew Wai Weng](./hew-wai-weng.md)
 * [I. Karuppannan](./i-karuppannan.md)

@@ -123,7 +123,7 @@ articles:
 
 ## Table of Contents
 * [Notes on ancient times in Malaya. {Part 7](./notes-on-ancient-times-in-malaya-part-7.md) — [R. Braddell](./r-braddell.md) (pp. 1–35)
-* [The Savaeans and possible Egyptian influences in Indonesia](./the-savaeans-and-possible-egyptian-influences-in-indonesia.md) — [H.G.Q. Wales](./hgq-wales.md) (pp. 36–42)
+* [The Savaeans and possible Egyptian influences in Indonesia](./the-savaeans-and-possible-egyptian-influences-in-indonesia.md) — [H.G.Q. Wales](./horace-geoffrey-quaritch-wales.md) (pp. 36–42)
 * [Malay manners and etiquette](./malay-manners-and-etiquette.md) — [Zainal Abidin bin Ahmad](./zainal-abidin-bin-ahmad.md) (pp. 43–74)
 * [The Malayan purse seine (pukat jerut) fishery](./the-malayan-purse-seine-pukat-jerut-fishery.md) — [K. Gopinath](./k-gopinath.md) (pp. 75–96)
 * [Notes on kampong officials in the Alor Gajah district of Malacca 1932–1935](./notes-on-kampong-officials-in-the-alor-gajah-district-of-mal.md) — [A.B. Ramsay](./ab-ramsay.md) (pp. 97–101)
@@ -139,7 +139,7 @@ articles:
 * [C.A. Gibson-Hill](./carl-alexander-gibson-hill.md)
 * [C.E. Wurtzburg](./ce-wurtzburg.md)
 * [E. Wodak](./e-wodak.md)
-* [H.G.Q. Wales](./hgq-wales.md)
+* [H.G.Q. Wales](./horace-geoffrey-quaritch-wales.md)
 * [Hulbert Gerard, baron Nahuijs van Burgst](./hulbert-gerard-baron-nahuijs-van-burgst.md)
 * [K. Gopinath](./k-gopinath.md)
 * [R. Braddell](./r-braddell.md)

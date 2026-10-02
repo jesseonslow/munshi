@@ -126,12 +126,12 @@ articles:
 * *Malaysia: the making of a nation. Cheah Boon Kheng* — [A.J. Stockwell](./aj-stockwell.md) (pp. 101–103) [Review]
 * *Guns of February: ordinary Japanese soldiers’ views of the Malayan campaign and the fall of Singapore. H. Frei* — [P. Lim Pui Huen](./p-lim-pui-huen.md) (pp. 103–105) [Review]
 * *Malaysia, Islam, society and politics* — [S. Siddique](./s-siddique.md), [Noraini Othman](./noraini-othman.md) (pp. 105–108) [Review]
-* *British business in post-colonial Malaysia, 1957–70. N.J. White* — [H.S. Barlow](./hs-barlow.md) (pp. 108–110) [Review]
+* *British business in post-colonial Malaysia, 1957–70. N.J. White* — [H.S. Barlow](./henry-sackville-barlow.md) (pp. 108–110) [Review]
 
 ## Contributors
 * [A.J. Stockwell](./aj-stockwell.md)
 * [C.H. Gallop](./ch-gallop.md)
-* [H.S. Barlow](./hs-barlow.md)
+* [H.S. Barlow](./henry-sackville-barlow.md)
 * [Leong Foke Meng](./leong-foke-meng.md)
 * [Mahani Musa](./mahani-musa.md)
 * [Mat Zin bin Mat Kib](./mat-zin-bin-mat-kib.md)

@@ -18,6 +18,7 @@ published: false
 
 ## MBRAS Sources
 
-- Ong, N. Dr Thio Chan Bee (1904–78). MB 70(1)
+- [N. Ong](./n-ong.md) (1997). [A bridge-builder. Dr Thio Chan Bee (1904–1978)](./a-bridge-builder-dr-thio-chan-bee-19041978.md). *JMBRAS* 70: 71–100
+
 ## References
 <!-- Grounded occurrences and citations -->

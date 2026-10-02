@@ -137,11 +137,11 @@ articles:
 
 ## Table of Contents
 * [The master attendants (harbour masters) at Singapore, 1819–67](./the-master-attendants-harbour-masters-at-singapore-181967.md) — [C.A. Gibson-Hill](./carl-alexander-gibson-hill.md) (pp. 1–63)
-* [Inas: a study of local history](./inas-a-study-of-local-history.md) — [D. Lewis](./d-lewis.md) (pp. 65–94)
+* [Inas: a study of local history](./inas-a-study-of-local-history.md) — [D. Lewis](./diane-lewis.md) (pp. 65–94)
 * [A Tambunan Dusun origin myth](./a-tambunan-dusun-origin-myth.md) — [T.R. Williams](./tr-williams.md) (pp. 95–103)
 * [Henry Nicholas Ridley. Obituary](./henry-nicholas-ridley-obituary.md) — [R.E. Holttum](./re-holttum.md) (pp. 104–109)
 * [Ivor Hugh Norman Evans. Obituary](./ivor-hugh-norman-evans-obituary.md) — [M.W.F. Tweedie](./michael-wilmer-forbes-tweedie.md) (pp. 109)
-* [Ian Alister Macgregor](./ian-alister-macgregor.md) — [K.G. Tregonning](./kg-tregonning.md) (pp. 110–111)
+* [Ian Alister Macgregor](./ian-alister-macgregor.md) — [K.G. Tregonning](./kennedy-gordon-tregonning.md) (pp. 110–111)
 * *The native policies of Sir Stamford Raffles in Java and Sumatra: an economic interpretation* — [C.N. Parkinson](./cn-parkinson.md) (pp. 112–113) [Review]
 * *Archaeological studies in Szechwan. Cheng Te-Kun* — [M. Sullivan](./m-sullivan.md) (pp. 113–115) [Review]
 * *A dictionary of Sea Dayak. N.C. Scott* — [E. Banks](./e-banks.md) (pp. 115–117) [Review]
@@ -153,11 +153,11 @@ articles:
 * [A.H. Johns](./ah-johns.md)
 * [C.A. Gibson-Hill](./carl-alexander-gibson-hill.md)
 * [C.N. Parkinson](./cn-parkinson.md)
-* [D. Lewis](./d-lewis.md)
+* [D. Lewis](./diane-lewis.md)
 * [Drewes G.W.J](./drewes-gwj.md)
 * [E. Banks](./e-banks.md)
 * [J. Keuning](./j-keuning.md)
-* [K.G. Tregonning](./kg-tregonning.md)
+* [K.G. Tregonning](./kennedy-gordon-tregonning.md)
 * [M. Sullivan](./m-sullivan.md)
 * [M.W.F. Tweedie](./michael-wilmer-forbes-tweedie.md)
 * [P.E. de Josselin de Jong](./pe-de-josselin-de-jong.md)

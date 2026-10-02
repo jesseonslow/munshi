@@ -18,9 +18,10 @@ published: false
 
 ## MBRAS Sources
 
-- Dixon, H.N. Spolia Mentawiensia: Musci. MB 6(1)
+- [H.N. Dixon](./hn-dixon.md) (1928). [Spolia mentwiensia: Musci](./spolia-mentwiensia-musci.md). *JMBRAS* 6: 23–24
 - Moths Kelsall, H. J. Sphingidae of Singapore. SB 22
-- Ridley, H.N. The crackling moth. SB 50
-- Wray, L. Report on the pomeloe moth. SB 19
+- [H.N. Ridley](./henry-nicholas-ridley.md) (1908). [The crackling moth](./the-crackling-moth.md). *JSBRAS* 50: 109–110
+- [L. Wray](./l-wray.md) (1887). [Summary of the report on the pomeloe moth](./summary-of-the-report-on-the-pomeloe-moth.md). *JSBRAS* 19: 83–86
+
 ## References
 <!-- Grounded occurrences and citations -->

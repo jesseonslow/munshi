@@ -134,13 +134,13 @@ articles:
 ## Table of Contents
 * [The Malayan communist struggle for survival](./the-malayan-communist-struggle-for-survival.md) — [C.F. Yong](./cf-yong.md) (pp. 1–22)
 * [Labour laws and the development of trade unionism in peninsular Malaysia, 1945–1960](./labour-laws-and-the-development-of-trade-unionism-in-peninsu.md) — [Leong Yee Fong](./leong-yee-fong.md) (pp. 23–38)
-* [The trishaw industry as a “Bang”–based trade](./the-trishaw-industry-as-a-bangbased-trade.md) — [J. Lim](./j-lim.md) (pp. 39–59)
+* [The trishaw industry as a “Bang”–based trade](./the-trishaw-industry-as-a-bangbased-trade.md) — [J. Lim](./jhs-lim.md) (pp. 39–59)
 * [Comments on John Crawfurd’s observations on some geological aspects of the Malaysian region in his Journal of an Embassy to the Courts of Siam and Cochin (1828](./comments-on-john-crawfurds-observations-on-some-geological-a.md) — [T.T. Khoo](./tt-khoo.md) (pp. 61–70)
 * [Notes on early mosques of the Malaysian Peninsula](./notes-on-early-mosques-of-the-malaysian-peninsula.md) — [A. Bruce](./a-bruce.md) (pp. 71–82)
-* [Swettenham. Schemer and historian](./swettenham-schemer-and-historian.md) — [H.S. Barlow](./hs-barlow.md) (pp. 83–100)
+* [Swettenham. Schemer and historian](./swettenham-schemer-and-historian.md) — [H.S. Barlow](./henry-sackville-barlow.md) (pp. 83–100)
 * [The Kuala Langat piracy trial](./the-kuala-langat-piracy-trial.md) — [J.M. Gullick](./john-michael-gullick.md) (pp. 101–114)
 * *Dateline Singapore: 150 years of the Straits Times. C.M. Turnbull* — [W. Cheah](./w-cheah.md) (pp. 116–119) [Review]
-* *Educating the Malay elite: the Malay College, Kuala Kangsar, 1905–1941. Khasnor Johan* — [H.S. Barlow](./hs-barlow.md) (pp. 119–120) [Review]
+* *Educating the Malay elite: the Malay College, Kuala Kangsar, 1905–1941. Khasnor Johan* — [H.S. Barlow](./henry-sackville-barlow.md) (pp. 119–120) [Review]
 * *The Diana adventure. D. Ball* — [B. Lim](./b-lim.md) (pp. 121–122) [Review]
 * *Malaya and Singapore during the Japanese occupation. P.H. Kratoska* — [S. Leong](./s-leong.md) (pp. 122–124) [Review]
 * *Jan Compagnie in the Straits of Malacca. D. Lewis* — [Lee Kam Hing](./lee-kam-hing.md) (pp. 125–127) [Review]
@@ -149,8 +149,8 @@ articles:
 * [A. Bruce](./a-bruce.md)
 * [B. Lim](./b-lim.md)
 * [C.F. Yong](./cf-yong.md)
-* [H.S. Barlow](./hs-barlow.md)
-* [J. Lim](./j-lim.md)
+* [H.S. Barlow](./henry-sackville-barlow.md)
+* [J. Lim](./jhs-lim.md)
 * [J.M. Gullick](./john-michael-gullick.md)
 * [Lee Kam Hing](./lee-kam-hing.md)
 * [Leong Yee Fong](./leong-yee-fong.md)

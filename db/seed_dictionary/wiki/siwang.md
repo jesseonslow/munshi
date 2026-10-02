@@ -24,9 +24,10 @@ published: false
 
 ## MBRAS Sources
 
-- Howell, S. Chewong: myths and legends. Monograph 11
-- Howell, S. Che Wong revisited. MB 54(3)
-- Needham, R. Siwang of central Malaya. MB 29(1)
-- Needham, R. Chewong (Siwang) in perspective. MB 57(2)
+- [Signe Howell](./signe-howell.md) (1982). [Chewong Myths and Legends](./chewong-myths-and-legends.md). ** : 136
+- [S. Howell](./signe-howell.md) (1981). [The “Che Wong” revisited. maps](./the-che-wong-revisited-maps.md). *JMBRAS* 54(3): 57–69
+- [R. Needham](./r-needham.md) (1956). [Ethnographic notes on the Siwang of central Malaya](./ethnographic-notes-on-the-siwang-of-central-malaya.md). *JMBRAS* 29: 49–69
+- [R. Needham](./r-needham.md) (1984). [Chewong (Siwang) in perspective](./chewong-siwang-in-perspective.md). *JMBRAS* 57(2): 105–112
+
 ## References
 <!-- Grounded occurrences and citations -->

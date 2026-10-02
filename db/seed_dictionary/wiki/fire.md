@@ -25,7 +25,8 @@ published: false
 
 ## MBRAS Sources
 
-- Freeman, D. Firewalking at Ampang, Selangor. MB 2(1)
-- Kennedy, A. Sacred fire from volcanic eruption. NQ Reprint 15
+- [D. Freeman](./d-freeman.md) (1924). [Fire-walking at Ampang, Selangor](./fire-walking-at-ampang-selangor.md). *JMBRAS* 2: 74–76
+- Anon. [Kennedy, A. Sacred fire from volcanic eruption](./mbras-reprint-15.md). *Reprint* 15
+
 ## References
 <!-- Grounded occurrences and citations -->

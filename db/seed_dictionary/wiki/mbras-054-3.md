@@ -72,7 +72,7 @@ articles:
 * [The rural Chinese of the Kelantan plain](./the-rural-chinese-of-the-kelantan-plain.md) — [R.L. Winzeler](./rl-winzeler.md) (pp. 1–23)
 * [Two Malay letters written by Sultan Muhammad Jiwa Muazzam Shah of Kedah to Captain Francis Light: with appendix](./two-malay-letters-written-by-sultan-muhammad-jiwa-muazzam-sh.md) — [R. Jones](./r-jones.md) (pp. 24–34)
 * [Aspects of Abdullah “Munshi”](./aspects-of-abdullah-munshi.md) — [H.F. O'B. Traill](./hf-ob-traill.md) (pp. 35–56)
-* [The “Che Wong” revisited. maps](./the-che-wong-revisited-maps.md) — [S. Howell](./s-howell.md) (pp. 57–69)
+* [The “Che Wong” revisited. maps](./the-che-wong-revisited-maps.md) — [S. Howell](./signe-howell.md) (pp. 57–69)
 * [Social history and evolution in the interrelations of adat and Islam in Rembau, Negeri Sembilan. M.G. Peletz. {Reviwed Khoo Kay Kim](./social-history-and-evolution-in-the-interrelations-of-adat-a.md) — [Khoo Kay Kim](./khoo-kay-kim.md) (pp. 73–74)
 
 ## Contributors
@@ -80,7 +80,7 @@ articles:
 * [Khoo Kay Kim](./khoo-kay-kim.md)
 * [R. Jones](./r-jones.md)
 * [R.L. Winzeler](./rl-winzeler.md)
-* [S. Howell](./s-howell.md)
+* [S. Howell](./signe-howell.md)
 
 ## References
 <!-- Grounded occurrences and citations -->

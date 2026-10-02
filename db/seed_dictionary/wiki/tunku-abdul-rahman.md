@@ -22,8 +22,9 @@ published: false
 
 ## MBRAS Sources
 
-- Jeshurun, C. Links with the Universities of Cambridge and Malaya. MB 82(1)
-- Tarling, N. Britain, the Tunku and West New Guinea 1957–1963. MB 83(1)
+- [C. (Chandran Jeshurun) Jeshurun](./c-chandran-jeshurun-jeshurun.md) (2009). [Tunku Abdul Rahman Putra and his links with the universities of Cambridge and Malaya, 1960‒1962](./tunku-abdul-rahman-putra-and-his-links-with-the-universities.md). *JMBRAS* 82: 1–16
+- [N. Tarling](./nicholas-tarling.md) (2010). [Britain, the Tunku and West New Guinea 1957–1963](./britain-the-tunku-and-west-new-guinea-19571963.md). *JMBRAS* 83: 77–90
+
 ## Other sources
 
 - Abdullah Ahmad. Conversations with Tunku Abdul Rahman. MB 89(2) {R}

@@ -24,6 +24,7 @@ published: false
 
 ## MBRAS Sources
 
-- Hughes-Hallett. H.R. A berhantu ceremony of the Orang Belait of Brunei. MB 16(1)
+- [T.D. Hughes](./td-hughes.md) (1938). [An account of a berhantu ceremony called “perakong” by the Orang Belait of Brunei](./an-account-of-a-berhantu-ceremony-called-perakong-by-the-ora.md). *JMBRAS* 16: 102–108
+
 ## References
 <!-- Grounded occurrences and citations -->

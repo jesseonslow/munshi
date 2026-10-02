@@ -106,12 +106,12 @@ articles:
 * [The music of Negara-Ku. J](./the-music-of-negara-ku-j.md) — [J. Harding](./harding-j.md), [J.M. Gullick](./john-michael-gullick.md) (pp. 68–74)
 * [The ‘Waterfall’ Botanic Garden on Pulau Pinang and the foundation of the Penang Botanical Gardens 1884–1910](./the-waterfall-botanic-garden-on-pulau-pinang-and-the-foundat.md) — [D.S. Jones](./ds-jones.md) (pp. 75–96)
 * *Early views of Indonesia: drawings in the British Library. A.T. Gallop* — [Lim Chong Keat](./lim-chong-keat.md) (pp. 115–116) [Review]
-* *Kamus–Jawi–Melayu–Inggeris: a classic Jawi–Malay–English dictionary* — [H.S. Barlow](./hs-barlow.md) (pp. 116–117) [Review]
+* *Kamus–Jawi–Melayu–Inggeris: a classic Jawi–Malay–English dictionary* — [H.S. Barlow](./henry-sackville-barlow.md) (pp. 116–117) [Review]
 * *The Bugis. C. Pelras* — [Zawawi Ibrahim](./zawawi-ibrahim.md) (pp. 117–119) [Review]
 
 ## Contributors
 * [D.S. Jones](./ds-jones.md)
-* [H.S. Barlow](./hs-barlow.md)
+* [H.S. Barlow](./henry-sackville-barlow.md)
 * [J. Harding](./harding-j.md)
 * [J.M. Gullick](./john-michael-gullick.md)
 * [L. Bressan](./l-bressan.md)

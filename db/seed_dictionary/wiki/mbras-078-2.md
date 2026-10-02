@@ -95,14 +95,14 @@ articles:
 * *The Penang Po Leung Kuk: Chinese women, prostitution & a welfare organisation. N. Khor Jin Keong and Khoo Keat Siew* — [A. Wee](./a-wee.md) (pp. 118–119) [Review]
 * *The UP Saga. S.M. Martin* — [Drabble J.H](./drabble-jh.md) (pp. 119–121) [Review]
 * *The Peranakan Chinese of Kelantan: a study of the culture, language and communications of an assimilated group in Malaysia. Teo Kok Seong* — [R. Kershaw](./r-kershaw.md) (pp. 122–124) [Review]
-* *Kinta Valley: pioneering Malaysia’s modern development. Khoo Salma Nasution and Abdur-Razzaq Lubis* — [H.S. Barlow](./hs-barlow.md) (pp. 124–126) [Review]
+* *Kinta Valley: pioneering Malaysia’s modern development. Khoo Salma Nasution and Abdur-Razzaq Lubis* — [H.S. Barlow](./henry-sackville-barlow.md) (pp. 124–126) [Review]
 * *Raffles and religion: a study of Sir Thomas Stamford Raffles’ discourse on religion amongst Malays. Syed Muhd Khairudin Aljunied* — [Liew Kai Khiun](./liew-kai-khiun.md) (pp. 126–127) [Review]
 
 ## Contributors
 * [A. Wee](./a-wee.md)
 * [Drabble J.H](./drabble-jh.md)
 * [Ermita Soenarto](./ermita-soenarto.md)
-* [H.S. Barlow](./hs-barlow.md)
+* [H.S. Barlow](./henry-sackville-barlow.md)
 * [Liew Kai Khiun](./liew-kai-khiun.md)
 * [R. Kershaw](./r-kershaw.md)
 * [Raimy Ché-Ross](./raimy-ché-ross.md)

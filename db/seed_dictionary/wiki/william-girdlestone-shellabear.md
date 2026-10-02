@@ -23,7 +23,8 @@ published: false
 
 ## MBRAS Sources
 
-- Hunt, R. The life of William Shellabear. MB 66(2)
+- [R. Hunt](./r-hunt.md) (1993). [The life of William Shellabear](./the-life-of-william-shellabear.md). *JMBRAS* 66(2): 37–72
+
 ## Bibliography
 - (1898) [An account of some of the oldest Malay Mss. now extant](./an-account-of-some-of-the-oldest-malay-mss-now-extant.md). *JSBRAS* 31: 107–151
 - (1901) [The evolution of Malay spelling](./the-evolution-of-malay-spelling.md). *JSBRAS* 36: 75–135

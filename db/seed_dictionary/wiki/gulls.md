@@ -19,6 +19,7 @@ published: false
 
 ## MBRAS Sources
 
-- Kloss, C.B. Laughing gull (Larus ridibundus, Linn.) in Singapore Straits. MB 4(1)
+- [C.B. Kloss](./cb-kloss.md) (1926). [The laughing gull (Larus ridibundus, Linn.) in the Straits of Singapore. Records of the Raffles Museum, No. 15](./the-laughing-gull-larus-ridibundus-linn-in-the-straits-of-si.md). *JMBRAS* 4: 157
+
 ## References
 <!-- Grounded occurrences and citations -->

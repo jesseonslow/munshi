@@ -18,6 +18,7 @@ published: false
 
 ## MBRAS Sources
 
-- Annandale, N. Barnacles from deep-sea cables. SB 74
+- [N. Annandale](./n-annandale.md) (1916). [Barnacles from deep-sea cables in the Malay Archipelago](./barnacles-from-deep-sea-cables-in-the-malay-archipelago.md). *JSBRAS* 74: 281–302
+
 ## References
 <!-- Grounded occurrences and citations -->

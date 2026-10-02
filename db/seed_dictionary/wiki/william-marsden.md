@@ -18,6 +18,7 @@ published: false
 
 ## MBRAS Sources
 
-- Wilkinson, R.J. More on Bencoolen. MB 19(1)
+- [R.J. Wilkinson](./richard-james-wilkinson.md) (1941). [More on Bencoolen](./more-on-bencoolen.md). *JMBRAS* 19: 101–119
+
 ## References
 <!-- Grounded occurrences and citations -->

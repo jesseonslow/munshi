@@ -81,7 +81,7 @@ articles:
 ## Table of Contents
 * [Johore 1901–1914: the railway concession; the Johore Advisory Board: Swettenham’s resignation and the first General Adviser](./johore-19011914-the-railway-concession-the-johore-advisory-b.md) — [J. de V. Allen](./j-de-v-allen.md) (pp. 1–28)
 * [Malay precedence and the federal formula in the Federated Malay States, 1909 to 1939](./malay-precedence-and-the-federal-formula-in-the-federated-ma.md) — [P. Loh Fook Seng](./p-loh-fook-seng.md) (pp. 29–50)
-* [Raja Kechil and the Minangkabau conquest of Johor in 1718](./raja-kechil-and-the-minangkabau-conquest-of-johor-in-1718.md) — [L.Y. Andaya](./ly-andaya.md) (pp. 51–75)
+* [Raja Kechil and the Minangkabau conquest of Johor in 1718](./raja-kechil-and-the-minangkabau-conquest-of-johor-in-1718.md) — [L.Y. Andaya](./leonard-andaya.md) (pp. 51–75)
 * [Rice cultivation in West Malaysia: relationship between culture history, customary practices and recent developments](./rice-cultivation-in-west-malaysia-relationship-between-cultu.md) — [J.C. Jackson](./jc-jackson.md) (pp. 76–96)
 * [An abortive plan for an Anglo-Chinese College in Singapore](./an-abortive-plan-for-an-anglo-chinese-college-in-singapore.md) — [H.E. Wilson](./he-wilson.md) (pp. 97–109)
 * [Murut depopulation and the Sapitang Lun Dayeh](./murut-depopulation-and-the-sapitang-lun-dayeh.md) — [J.B. Crain](./jb-crain.md) (pp. 109–121)
@@ -91,7 +91,7 @@ articles:
 * [J. de V. Allen](./j-de-v-allen.md)
 * [J.B. Crain](./jb-crain.md)
 * [J.C. Jackson](./jc-jackson.md)
-* [L.Y. Andaya](./ly-andaya.md)
+* [L.Y. Andaya](./leonard-andaya.md)
 * [P. Loh Fook Seng](./p-loh-fook-seng.md)
 
 ## References

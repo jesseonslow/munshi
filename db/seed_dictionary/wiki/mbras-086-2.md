@@ -170,9 +170,9 @@ articles:
 * [The Tageh sing ritual of the Kensiw, Kedah, Malaysia](./the-tageh-sing-ritual-of-the-kensiw-kedah-malaysia.md) — [S. Nagata](./s-nagata.md) (pp. 77–82)
 * [William R. Roff (1929–2013). Obituary](./william-r-roff-19292013-obituary.md) — [M. Laffan](./m-laffan.md) (pp. 83–88)
 * [A personal recollection by Malaysian historian Dr Badriyah Haji Salleh who studied under Professor William R. Roff](./a-personal-recollection-by-malaysian-historian-dr-badriyah-h.md) — [Badriyah Haji Salleh](./badriyah-haji-salleh.md) (pp. 86)
-* [MBRAS visit to Bandar Seri Begawan](./mbras-visit-to-bandar-seri-begawan.md) — [N. Khor Jin Keong](./n-khor-jin-keong.md) (pp. 89–92)
+* [MBRAS visit to Bandar Seri Begawan](./mbras-visit-to-bandar-seri-begawan.md) — [N. Khor Jin Keong](./neil-khor-jin-keong.md) (pp. 89–92)
 * [Melayu Islam Beraja](./melayu-islam-beraja.md) — [Abdul Aziz Umar](./abdul-aziz-umar.md) (pp. 93–97)
-* *British policy and the Chinese in Singapore, 1939–1955: the public service career of Tan Chin Tuan. Lee Su Yin* — [N. Tarling](./n-tarling.md) (pp. 99–100) [Review]
+* *British policy and the Chinese in Singapore, 1939–1955: the public service career of Tan Chin Tuan. Lee Su Yin* — [N. Tarling](./nicholas-tarling.md) (pp. 99–100) [Review]
 * *The Portuguese and the Straits of Melaka, 1575–1619: power, trade and diplomacy. P.J. de Sousa Pinto . Roy* — [Anthony Reid](./anthony-reid.md) (pp. 100–102) [Review]
 * *Studying Singapore’s past: C.M. Turnbull and the history of modern Singapore. . Tarling* — [M. Montesano](./m-montesano.md) (pp. 103–104) [Review]
 * *The contours of mass violence in Indonesia, 1965–1998* — [A.O. Zakharov](./ao-zakharov.md), [d-kammen](./d-kammen.md), [K. McGregor](./k-mcgregor.md) (pp. 105–108) [Review]
@@ -193,8 +193,8 @@ articles:
 * [M. Laffan](./m-laffan.md)
 * [M. Montesano](./m-montesano.md)
 * [Mahani Musa](./mahani-musa.md)
-* [N. Khor Jin Keong](./n-khor-jin-keong.md)
-* [N. Tarling](./n-tarling.md)
+* [N. Khor Jin Keong](./neil-khor-jin-keong.md)
+* [N. Tarling](./nicholas-tarling.md)
 * [S. Nagata](./s-nagata.md)
 
 ## References

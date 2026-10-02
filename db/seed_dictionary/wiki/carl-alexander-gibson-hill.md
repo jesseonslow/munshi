@@ -27,10 +27,11 @@ published: false
 
 - Clark, K. Obituary. MB 38(2)
 - Hodgson, C. Memoir. MB 38(2)
-- Luyt, B. Malaya: photographic works. MB 92(1)
-- Luyt, B. An Excerpt from Carl Gibson-Hill. MB 95(1)
+- [B. Luyt](./brendan-luyt.md) (2019). [Producing Malaya : the photography of Carl A. Gibson-Hill](./producing-malaya-the-photography-of-carl-a-gibson-hill.md). *JMBRAS* 92: 1–20
+- [B. Luyt](./brendan-luyt.md) (2022). [An Excerpt from Carl Gibson-Hill: Boats, Birds, Photography, and History in LateColonial Malaya. With a note P. Kratoska](./an-excerpt-from-carl-gibson-hill-boats-birds-photography-and.md). *JMBRAS* 95: 89–94
 - Luyt, B. Carl A. Gibson-Hill. MB 96(1) {R}
-- Luyt, B. Carl A. Gibson-Hill. Monograph 53.
+- [B. Luyt](./brendan-luyt.md). [Carl A. Gibson-Hill: Photography, History, Boats, and Birds in Late-Colonial Malaya and Singapore](./carl-a-gibson-hill-photography-history-boats-and-birds-in-la.md). *Monograph* 53
+
 ## Bibliography
 - (1935) [The Singapore Chronicle, 1824–37](./the-singapore-chronicle-182437.md). *JMBRAS* 26(1): 175–199
 - (1941) [A note on the Christmas Island canoe (kolek](./a-note-on-the-christmas-island-canoe-kolek.md). *JMBRAS* 19(1): 125–130

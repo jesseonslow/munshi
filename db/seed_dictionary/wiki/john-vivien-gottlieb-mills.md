@@ -20,6 +20,7 @@ published: false
 
 ## MBRAS Sources
 
-- Sheppard, M. Obituary. MB 60(1)
+- [Mubin Sheppard](./mubin-sheppard.md) (1987). [John Mills. Obituary](./john-mills-obituary.md). *JMBRAS* 60: 97–98
+
 ## References
 <!-- Grounded occurrences and citations -->

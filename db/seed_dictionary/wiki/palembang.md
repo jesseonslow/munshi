@@ -21,9 +21,10 @@ published: false
 
 ## MBRAS Sources
 
-- Blagden, C.O. Empire of the King of the Mountains etc. SB 81
+- [C.O. Blagden](./co-blagden.md) (1920). [The empire of the Maharaja, King of the Mountains and Lord of the Isles](./the-empire-of-the-maharaja-king-of-the-mountains-and-lord-of.md). *JSBRAS* 81: 23–28
 - Manguin, P. Palembang and Sri Vijaya. MB 66(1)
-- McRoberts, R.W. Palembang, 1389–1511. MB 59(1)
-- Wurtzburg, C.E. Raffles and the massacre at Palembang. MB 22(1) and 25(1)
+- [R.W. McRoberts](./rw-mcroberts.md) (1986). [Notes on events in Palembang 1389–1511: the everlasting colony](./notes-on-events-in-palembang-13891511-the-everlasting-colony.md). *JMBRAS* 59: 73–83
+- [C.E. Wurtzburg](./ce-wurtzburg.md) (1949). [Raffles and the massacre at Palembang](./raffles-and-the-massacre-at-palembang.md). *JMBRAS* 22: 38–52
+
 ## References
 <!-- Grounded occurrences and citations -->

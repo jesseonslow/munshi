@@ -27,6 +27,7 @@ published: false
 
 ## MBRAS Sources
 
-- Lewis, D. Inas: a study in local history. MB 33(1)
+- [D. Lewis](./diane-lewis.md) (1960). [Inas: a study of local history](./inas-a-study-of-local-history.md). *JMBRAS* 33: 65–94
+
 ## References
 <!-- Grounded occurrences and citations -->

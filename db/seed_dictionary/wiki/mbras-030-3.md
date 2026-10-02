@@ -31,10 +31,10 @@ articles:
 **Date:** October 1957
 
 ## Table of Contents
-* [British policy in the Malay Peninsula and Archipelago, 1824–1871](./british-policy-in-the-malay-peninsula-and-archipelago-182418.md) — [N. Tarling](./n-tarling.md) (pp. 1–228)
+* [British policy in the Malay Peninsula and Archipelago, 1824–1871](./british-policy-in-the-malay-peninsula-and-archipelago-182418.md) — [N. Tarling](./nicholas-tarling.md) (pp. 1–228)
 
 ## Contributors
-* [N. Tarling](./n-tarling.md)
+* [N. Tarling](./nicholas-tarling.md)
 
 ## References
 <!-- Grounded occurrences and citations -->

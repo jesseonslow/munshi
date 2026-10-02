@@ -95,13 +95,13 @@ articles:
 * [Chinese furniture](./chinese-furniture.md) — [W. Cheah](./w-cheah.md) (pp. 69–93)
 * [‘Raffles reviewed – Sir Stamford Raffles 175 years later’. An exhibition organized by the National Museum of Singapore commemorating Raffles’ landing at Singapore on the evening of the 28th January 1819](./raffles-reviewed-sir-stamford-raffles-175-years-later-an-exh.md) — [E. Solomon](./e-solomon.md) (pp. 81–94)
 * [Malay woodcarving and the new pulpit in the National Mosque](./malay-woodcarving-and-the-new-pulpit-in-the-national-mosque.md) — [Mubin Sheppard](./mubin-sheppard.md) (pp. 95–97)
-* *Sir Thomas Stamford Raffles: book of days* — [H.S. Barlow](./hs-barlow.md) (pp. 99) [Review]
+* *Sir Thomas Stamford Raffles: book of days* — [H.S. Barlow](./henry-sackville-barlow.md) (pp. 99) [Review]
 * *Kendi: pouring vessels in the University of Malaya collection. Khoo Joo Ee. .F. Rooney* — [I. Polunin](./i-polunin.md) (pp. 100–101) [Review]
 
 ## Contributors
 * [E. Solomon](./e-solomon.md)
 * [E.E. McKinnon](./ee-mckinnon.md)
-* [H.S. Barlow](./hs-barlow.md)
+* [H.S. Barlow](./henry-sackville-barlow.md)
 * [I. Polunin](./i-polunin.md)
 * [Mubin Sheppard](./mubin-sheppard.md)
 * [W. Cheah](./w-cheah.md)

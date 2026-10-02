@@ -24,8 +24,9 @@ published: false
 
 ## MBRAS Sources
 
-- MacGregor, I.A. Sea-fight near Singapore in 1570’s. MB 29(3)
-- Mills, J.V. Two Dutch-Portuguese sea fights. MB 16(1)
-- Tregonning. K.G. Anglo-Dutch naval battle off Celebes in 1806. MB 32(1)
+- I.A. MacGregor (1956). [A sea fight near Singapore in the 1570’s](./a-sea-fight-near-singapore-in-the-1570s.md). *JMBRAS* 29(3): 5–21
+- [J.V. Mills](./jv-mills.md) (1938). [Two Dutch-Portuguese sea-fights](./two-dutch-portuguese-sea-fights.md). *JMBRAS* 16: 139–149
+- [K.G. Tregonning](./kennedy-gordon-tregonning.md) (1959). [A forgotten naval battle](./a-forgotten-naval-battle.md). *JMBRAS* 32: 202–204
+
 ## References
 <!-- Grounded occurrences and citations -->

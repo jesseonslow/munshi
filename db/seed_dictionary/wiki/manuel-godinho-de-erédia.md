@@ -24,6 +24,7 @@ published: false
 
 ## MBRAS Sources
 
-- Borschberg, P. Three early 17th century maps of de Erédia. MB 92(2)
+- [P. Borschberg](./peter-borschberg.md) (2019). [Three early 17th-century maps by Godinho de Erédia](./three-early-17th-century-maps-by-godinho-de-erédia.md). *JMBRAS* 92(2): 1–28
+
 ## References
 <!-- Grounded occurrences and citations -->

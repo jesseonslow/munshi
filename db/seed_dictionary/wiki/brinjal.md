@@ -18,6 +18,7 @@ published: false
 
 ## MBRAS Sources
 
-- Anon. The brinjal. NQ Reprint 15
+- Anon. [Anon. The brinjal](./mbras-reprint-15.md). *Reprint* 15
+
 ## References
 <!-- Grounded occurrences and citations -->

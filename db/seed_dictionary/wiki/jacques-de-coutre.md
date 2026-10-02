@@ -18,6 +18,7 @@ published: false
 
 ## MBRAS Sources
 
-- Borschberg, P. De Coutre as historical source on Singapore, Johor River and the straits. MB 81(2)
+- [P. Borschberg](./peter-borschberg.md) (2008). [Jacques de Coutre as a source for the early seventeenth-century history of Singapore, the Johore river and the straits](./jacques-de-coutre-as-a-source-for-the-early-seventeenth-cent.md). *JMBRAS* 81(2): 71–98
+
 ## References
 <!-- Grounded occurrences and citations -->

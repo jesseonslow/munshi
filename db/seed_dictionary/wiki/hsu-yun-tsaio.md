@@ -18,6 +18,7 @@ published: false
 
 ## MBRAS Sources
 
-- Sheppard, M. Obituary. MB 55(1)
+- [Mubin Sheppard](./mubin-sheppard.md) (1982). [Hsu-Yun-Tsiao, 1905–1981. Obituary](./hsu-yun-tsiao-19051981-obituary.md). *JMBRAS* 55: 95
+
 ## References
 <!-- Grounded occurrences and citations -->

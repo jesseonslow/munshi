@@ -294,7 +294,7 @@ articles:
 * [A Malay garden. With botanical determinations. R.E. Holttum](./a-malay-garden-with-botanical-determinations-re-holttum.md) — [Hamilton A.W](./hamilton-aw.md) (pp. 139–143)
 * [Source of the Malacca, Johore and Pahang genealogies in the Bustan-al-Salatin](./source-of-the-malacca-johore-and-pahang-genealogies-in-the-b.md) — [W. Linehan](./w-linehan.md) (pp. 144)
 * *A Malay–English dictionary. R.J. Wilkinson* — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 145) [Review]
-* [An ancient cornelian bead from Pahang](./an-ancient-cornelian-bead-from-pahang.md) — [I.H.N. Evans](./ihn-evans.md) (pp. 146–147)
+* [An ancient cornelian bead from Pahang](./an-ancient-cornelian-bead-from-pahang.md) — [I.H.N. Evans](./ivor-hugh-norman-evans.md) (pp. 146–147)
 * [The Sri Lanang pedigree](./the-sri-lanang-pedigree.md) — [R.J. Wilkinson](./richard-james-wilkinson.md) (pp. 148–150)
 * [Pulai: an early Chinese settlement in Kelantan](./pulai-an-early-chinese-settlement-in-kelantan.md) — [S.M. Middlebrook](./sm-middlebrook.md) (pp. 151–156)
 * [Outline of a Malay history of Riau](./outline-of-a-malay-history-of-riau.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 157–160)
@@ -328,7 +328,7 @@ articles:
 * [H.P. Bryson](./hp-bryson.md)
 * [Hamilton A.W](./hamilton-aw.md)
 * [Harrower G](./harrower-g.md)
-* [I.H.N. Evans](./ihn-evans.md)
+* [I.H.N. Evans](./ivor-hugh-norman-evans.md)
 * [J.C. Swayne](./jc-swayne.md)
 * [Muhammad Ghazali](./muhammad-ghazali.md)
 * [P. Orolfo](./p-orolfo.md)

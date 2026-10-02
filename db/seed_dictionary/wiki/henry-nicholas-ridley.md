@@ -27,7 +27,8 @@ published: false
 
 ## MBRAS Sources
 
-- Holttum, R.E. Obituary. MB 33(1)
+- [R.E. Holttum](./re-holttum.md) (1960). [Henry Nicholas Ridley. Obituary](./henry-nicholas-ridley-obituary.md). *JMBRAS* 33: 104–109
+
 ## Bibliography
 - (1889) [Report on the destruction of coco-nut palms by beetles](./report-on-the-destruction-of-coco-nut-palms-by-beetles.md). *JSBRAS* 20: 1–11
 - (1890) [The Burmanniaceae of the Malay Peninsula](./the-burmanniaceae-of-the-malay-peninsula.md). *JSBRAS* 22: 331–339

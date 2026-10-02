@@ -175,12 +175,12 @@ articles:
 * [Japanese soldiers who joined communist guerillas in Malaya](./japanese-soldiers-who-joined-communist-guerillas-in-malaya.md) — [Hara F](./hara-f.md) (pp. 67–99)
 * [Malayan women during the Japanese occupation](./malayan-women-during-the-japanese-occupation.md) — [Mahani Musa](./mahani-musa.md) (pp. 101–124)
 * [Nation and conservation: postcolonial water narratives in Singapore rituals](./nation-and-conservation-postcolonial-water-narratives-in-sin.md) — [M. Kaplan](./m-kaplan.md) (pp. 125–138)
-* [The word Bugis](./the-word-bugis.md) — [R. Jones](./r-jones.md), [P.H. Kratoska](./ph-kratoska.md) (pp. 139)
+* [The word Bugis](./the-word-bugis.md) — [R. Jones](./r-jones.md), [P.H. Kratoska](./paul-h-kratoska.md) (pp. 139)
 * [The establishment of Singapore](./the-establishment-of-singapore.md) — [W. Farquhar](./w-farquhar.md) (pp. 141–143)
-* [The Singapore water supply](./the-singapore-water-supply.md) — [P.H. Kratoska](./ph-kratoska.md) (pp. 144–147)
+* [The Singapore water supply](./the-singapore-water-supply.md) — [P.H. Kratoska](./paul-h-kratoska.md) (pp. 144–147)
 * *Conversations with Tunku Abdul Rahman. Abdullah Ahmad* — [Kobkua Suwannathat-Pian](./kobkua-suwannathat-pian.md) (pp. 149–150) [Review]
 * [Amarjit Kaur](./amarjit-kaur.md) — [Amarjit Kaur](./amarjit-kaur.md) (pp. 151–152)
-* *Malaysia’s original people: past, present and future of the Orang Asli. . Endicott* — [B.W. Andaya](./bw-andaya.md) (pp. 152–155) [Review]
+* *Malaysia’s original people: past, present and future of the Orang Asli. . Endicott* — [B.W. Andaya](./barbara-watson-andaya.md) (pp. 152–155) [Review]
 * *Globalized Muslim youth in the Asia Pacific: popular culture in Singapore and Sydney. Kamaludeen Mohamed Nasir* — [T.P. Daniels](./tp-daniels.md) (pp. 156–157) [Review]
 * *The incubus of intervention: conflicting Indonesia strategies of John F* — [Onanong Thippimol](./onanong-thippimol.md) (pp. 158–159) [Review]
 * *Ethnic relations in Malaysia: harmony & conflict. Syed Husin Ali* — [Ooi Keat Gin](./ooi-keat-gin.md) (pp. 160–164) [Review]
@@ -189,7 +189,7 @@ articles:
 
 ## Contributors
 * [Amarjit Kaur](./amarjit-kaur.md)
-* [B.W. Andaya](./bw-andaya.md)
+* [B.W. Andaya](./barbara-watson-andaya.md)
 * [Hara F](./hara-f.md)
 * [Kobkua Suwannathat-Pian](./kobkua-suwannathat-pian.md)
 * [M. Kaplan](./m-kaplan.md)
@@ -198,7 +198,7 @@ articles:
 * [N.H. Wright](./nh-wright.md)
 * [Onanong Thippimol](./onanong-thippimol.md)
 * [Ooi Keat Gin](./ooi-keat-gin.md)
-* [P.H. Kratoska](./ph-kratoska.md)
+* [P.H. Kratoska](./paul-h-kratoska.md)
 * [R. Jones](./r-jones.md)
 * [T.P. Barnard](./tp-barnard.md)
 * [T.P. Daniels](./tp-daniels.md)

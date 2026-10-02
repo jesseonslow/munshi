@@ -18,6 +18,7 @@ published: false
 
 ## MBRAS Sources
 
-- Ridley, H.N. Gymnosperms of the Malay Peninsula. SB 60
+- [H.N. Ridley](./henry-nicholas-ridley.md) (1911). [The Gymnosperms of the Malay Peninsula](./the-gymnosperms-of-the-malay-peninsula.md). *JSBRAS* 60: 53–68
+
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,11 +25,12 @@ published: false
 
 ## MBRAS Sources
 
-- Jaafar Aznan, Syed. The Jamalullails of Perak. MB 93(1)
-- Low, H. _Selesilah Raja-raja Brunei_. SB 5 and 15 and Reprint 18
-- Maxwell, W.E. History of Perak from native sources. SB 9 and 14 and Reprint 3
-- Noorduyn, J. Bugis genealogy of the Raja Muda family of Riau-Johor. MB 61(2)
-- Winstedt, R.O. Some Perak pedigrees. SB 79
-- Winstedt, R.O. Genealogy of Malacca’s kings from the _Bustanu’s-Salatin_. SB 81
+- [Jaafar Aznan](./jaafar-aznan.md) (2020). [The Jamalullails of Perak](./the-jamalullails-of-perak.md). *JMBRAS* 93: 119–132
+- [Hugh Low](./sir-hugh-low.md) et al. (1998). [Papers Relating to Brunei](./papers-relating-to-brunei.md). ** : 192
+- [R.O. Winstedt](./richard-olaf-winstedt.md) and [R.J. Wilkinson](./richard-james-wilkinson.md) (1974). [A History of Perak](./a-history-of-perak.md). ** : 226
+- [Noorduyn. J](./noorduyn-j.md) (1988). [The Bugis genealogy of the Raja Muda family of Riau-Johor](./the-bugis-genealogy-of-the-raja-muda-family-of-riau-johor.md). *JMBRAS* 61(2): 63–92
+- [R.O. Winstedt](./richard-olaf-winstedt.md) (1918). [Some Perak pedigrees](./some-perak-pedigrees.md). *JSBRAS* 79: 55–62
+- [R.O. Winstedt](./richard-olaf-winstedt.md) (1920). [The genealogy of Malacca’s kings from a copy of the Bustanu‘s-Salatin](./the-genealogy-of-malaccas-kings-from-a-copy-of-the-bustanus-.md). *JSBRAS* 81: 39–47
+
 ## References
 <!-- Grounded occurrences and citations -->

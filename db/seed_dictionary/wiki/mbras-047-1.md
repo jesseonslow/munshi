@@ -106,22 +106,22 @@ articles:
 **Date:** July 1974
 
 ## Table of Contents
-* [Langkasuka and Tambralinga: some archaeological notes](./langkasuka-and-tambralinga-some-archaeological-notes.md) — [H.G.Q. Wales](./hgq-wales.md) (pp. 13–40)
-* [The installation of the first Sultan of Selangor in 1766. ,](./the-installation-of-the-first-sultan-of-selangor-in-1766-.md) — [B.W. Andaya](./bw-andaya.md) (pp. 41–57)
+* [Langkasuka and Tambralinga: some archaeological notes](./langkasuka-and-tambralinga-some-archaeological-notes.md) — [H.G.Q. Wales](./horace-geoffrey-quaritch-wales.md) (pp. 13–40)
+* [The installation of the first Sultan of Selangor in 1766. ,](./the-installation-of-the-first-sultan-of-selangor-in-1766-.md) — [B.W. Andaya](./barbara-watson-andaya.md) (pp. 41–57)
 * [Ringgit](./ringgit.md) — [Sim Ewe Eong](./sim-ewe-eong.md) (pp. 58–65)
 * [Pillar base architecture in ancient Kedah](./pillar-base-architecture-in-ancient-kedah.md) — [B.A.V. Peacock](./bav-peacock.md) (pp. 66–86)
 * [Batu Tarsilah: the genealogical tablet of the Sultans of Brunei. Pengiran M. Shariffuddin and Abdul Latif bin Haji Ibrahim](./batu-tarsilah-the-genealogical-tablet-of-the-sultans-of-brun.md) — [Abdul Latif bin Haji Ibrahim](./abdul-latif-bin-haji-ibrahim.md), [P.M. Shariffuddin](./pm-shariffuddin.md) (pp. 87–95)
 * [A note on the Makara balustrade at Malacca](./a-note-on-the-makara-balustrade-at-malacca.md) — [Piriya Krairiksh](./piriya-krairiksh.md) (pp. 96–103)
 * [The megaliths in East Malaysia II: stone urns from the Kelabit Highlands, Sarawak](./the-megaliths-in-east-malaysia-ii-stone-urns-from-the-kelabi.md) — [Tom Harrisson](./tom-harrisson.md) (pp. 105–109)
-* [The origin of the “tulang mawas”](./the-origin-of-the-tulang-mawas.md) — [H.G.Q. Wales](./hgq-wales.md) (pp. 110–111)
+* [The origin of the “tulang mawas”](./the-origin-of-the-tulang-mawas.md) — [H.G.Q. Wales](./horace-geoffrey-quaritch-wales.md) (pp. 110–111)
 * [The antiquity of domesticated pigs in Sarawak (Corrigenda](./the-antiquity-of-domesticated-pigs-in-sarawak-corrigenda.md) — [Gathorne Gathorne-Hardy, Lord (Earl of Cranbrook) Medway](./gathorne-gathorne-hardy-lord-earl-of-cranbrook-medway.md) (pp. 112)
 
 ## Contributors
 * [Abdul Latif bin Haji Ibrahim](./abdul-latif-bin-haji-ibrahim.md)
 * [B.A.V. Peacock](./bav-peacock.md)
-* [B.W. Andaya](./bw-andaya.md)
+* [B.W. Andaya](./barbara-watson-andaya.md)
 * [Gathorne Gathorne-Hardy, Lord (Earl of Cranbrook) Medway](./gathorne-gathorne-hardy-lord-earl-of-cranbrook-medway.md)
-* [H.G.Q. Wales](./hgq-wales.md)
+* [H.G.Q. Wales](./horace-geoffrey-quaritch-wales.md)
 * [P.M. Shariffuddin](./pm-shariffuddin.md)
 * [Piriya Krairiksh](./piriya-krairiksh.md)
 * [Sim Ewe Eong](./sim-ewe-eong.md)

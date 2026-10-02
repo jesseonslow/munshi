@@ -206,12 +206,12 @@ articles:
 * [Singaporean reactions to the commemoration of Lee Kuan Yew in Tamil Nadu](./singaporean-reactions-to-the-commemoration-of-lee-kuan-yew-i.md) — [A.E. Cherian](./ae-cherian.md) (pp. 137–153)
 * [A flood in the Triang valley in December 1896](./a-flood-in-the-triang-valley-in-december-1896.md) — [A. Keyser](./a-keyser.md) (pp. 155–158)
 * *Radicals: resistance and protest in colonial Malaya. Syed Muhd Khairudin Aljunied* — [G. Lopez](./g-lopez.md) (pp. 159–162) [Review]
-* *Journals, memorials and letters of Cornelis Matelieff de Jonge: security, diplomacy and commerce in 17th century Southeast Asia. . Borschberg* — [N. Tarling](./n-tarling.md) (pp. 163–165) [Review]
+* *Journals, memorials and letters of Cornelis Matelieff de Jonge: security, diplomacy and commerce in 17th century Southeast Asia. . Borschberg* — [N. Tarling](./nicholas-tarling.md) (pp. 163–165) [Review]
 * *Rubber manufacturing in Malaysia: resource-based industrialization in practice. G.C. Goldthorpe* — [C. Barlow](./c-barlow.md) (pp. 165–167) [Review]
 * *Luk thung : the culture and politics of Thailand’s most popular music. J.L. Mitchell* — [B. Chan](./b-chan.md) (pp. 171–172) [Review]
 * *Energy, governance and security in Thailand and Myanmar (Burma): a critical approach to environmental politics in the south. A. Simpson* — [Lee Sang Kook](./lee-sang-kook.md) (pp. 173–174) [Review]
 * *The open door: early modern Wajorese statecraft and diaspora. K.A. Wellen* — [H.E. Niemeijer](./he-niemeijer.md) (pp. 175–177) [Review]
-* *The diaries of G.C. Woolley, ed D. Wong Tze Ken and S. Moo-Tan. Volume 1: 1901–1907* — [H.S. Barlow](./hs-barlow.md) (pp. 178–180) [Review]
+* *The diaries of G.C. Woolley, ed D. Wong Tze Ken and S. Moo-Tan. Volume 1: 1901–1907* — [H.S. Barlow](./henry-sackville-barlow.md) (pp. 178–180) [Review]
 * *The ASEAN charter: a commentary. W. Woon* — [Harding A](./harding-a.md) (pp. 180–182) [Review]
 
 ## Contributors
@@ -222,7 +222,7 @@ articles:
 * [Cai Yunci](./cai-yunci.md)
 * [G. Lopez](./g-lopez.md)
 * [H.E. Niemeijer](./he-niemeijer.md)
-* [H.S. Barlow](./hs-barlow.md)
+* [H.S. Barlow](./henry-sackville-barlow.md)
 * [Harding A](./harding-a.md)
 * [J. Kelly](./j-kelly.md)
 * [J.J. Baptist](./jj-baptist.md)
@@ -231,7 +231,7 @@ articles:
 * [Low Choo Chin](./low-choo-chin.md)
 * [M. Kaplan](./m-kaplan.md)
 * [Maznah Mohamed](./maznah-mohamed.md)
-* [N. Tarling](./n-tarling.md)
+* [N. Tarling](./nicholas-tarling.md)
 * [R. Hong Cheng Yee](./r-hong-cheng-yee.md)
 * [R. Y. Chen](./r-y-chen.md)
 

@@ -59,7 +59,7 @@ published: false
 
 - Davison, J. Black and white house. MB 80(1) {R}
 - Gretchen, M. Singapore’s architectural heritage. MB 59(1) {R}
-- Hancock, T.H.H. Coleman’s Singapore. Monograph 15
+- [T.H.H. Hancock](./thh-hancock.md) (1986). [Coleman's Singapore](./colemans-singapore.md). ** : 94
 - Coleman’s Singapore. MB 60(1) {R}
 - Lee Kip Lin. Emerald Hill. MB 59(1) {R}
 
@@ -70,20 +70,21 @@ published: false
 
 ### Malaya
 
-- A Ghafar Ahmad. A.C.A.Norman. MB 70(1)
-- Barlow, H.S. Selangor Residency. MB 65(2)
-- Gullick, J.M. Bangunan Sultan Abdul Samad. MB 65(1)
-- Gullick, J.M. Kuala Lumpur builders. MB 85(2)
-- Hervey, D.F.A. Stone for Malacca from Batu Pahat. SB 9
+- [A. Ghafar Ahmad](./a-ghafar-ahmad.md) (1997). [Chronological biography of Arthur Charles Norman](./chronological-biography-of-arthur-charles-norman.md). *JMBRAS* 70: 21–29
+- [H.S. Barlow](./henry-sackville-barlow.md) (1992). [The early history of the Residency Kuala Lumpur](./the-early-history-of-the-residency-kuala-lumpur.md). *JMBRAS* 65(2): 25–34
+- [J.M. Gullick](./john-michael-gullick.md) (1992). [The Bangunan Sultan Abdul Samad](./the-bangunan-sultan-abdul-samad.md). *JMBRAS* 65: 27–38
+- [J.M. Gullick](./john-michael-gullick.md) (2012). [The builders](./the-builders.md). *JMBRAS* 85(2): 79–98
+- [D.F.A. Hervey](./dudley-francis-amelius-hervey.md) (1882). [Stone from Batu Pahat](./stone-from-batu-pahat.md). *JSBRAS* 9: 168–170
 - Khoo, T.T. Coral as building material. MB 70(2)
-- Macdonald, M. Malacca buildings MB 12(2)
+- [M. MacDonald](./m-macdonald.md) (1934). [Malacca buildings](./malacca-buildings.md). *JMBRAS* 12(2): 27–37
 - Mohamed Abdul Mohit. Effect on Penang of repeal of Rent Act. MB 79(1)
-- Peacock, B.A.V. Pillar base architecture in ancient Kedah. MB 47(1)
-- Piriya Krairiksh. Makara balustrade at Malacca. MB 47(1)
-- Sherwin, M.D. Reconstruction of the palace of Sultan Mansur Shah. MB 54(1)
+- [B.A.V. Peacock](./bav-peacock.md) (1974). [Pillar base architecture in ancient Kedah](./pillar-base-architecture-in-ancient-kedah.md). *JMBRAS* 47: 66–86
+- [Piriya Krairiksh](./piriya-krairiksh.md) (1974). [A note on the Makara balustrade at Malacca](./a-note-on-the-makara-balustrade-at-malacca.md). *JMBRAS* 47: 96–103
+- [M.D. Sherwin](./md-sherwin.md) (1981). [A new reconstruction of the palace of Sultan Mansur Shah of Malacca](./a-new-reconstruction-of-the-palace-of-sultan-mansur-shah-of-.md). *JMBRAS* 54: 1–6
 - Waterson, R. Living house. Anthropology of architecture in Malaya. MB 65(2)
-- Winstedt, R.O. A Perak palace. MB 7(3)
+- [R.O. Winstedt](./richard-olaf-winstedt.md) (1929). [A Perak palace](./a-perak-palace.md). *JMBRAS* 7(3): 457–458
 - Zuraini Md Ali. Mubin Sheppard, conservation pioneer in Malaysia. MB
 - Zuraini Md Ali. Mubin Sheppard: Pioneering Works in Architectural Conservation in Malaysia. MB 95(1) {R}
+
 ## References
 <!-- Grounded occurrences and citations -->

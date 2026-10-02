@@ -120,7 +120,7 @@ articles:
 * [Raja Haji](./raja-haji.md) — [W.E. Maxwell](./sir-william-edward-maxwell.md) (pp. 173–224)
 * [Valentyn’s account of Malacca](./valentyns-account-of-malacca.md) — [D.F.A. Hervey](./dudley-francis-amelius-hervey.md), [F. Valentijn](./f-valentijn.md) (pp. 225–246)
 * [The law relating to slavery among the Malays (with extracts from the Perak Code of Laws relating to slavery: the original text with transliteration and translation](./the-law-relating-to-slavery-among-the-malays-with-extracts-f.md) — [W.E. Maxwell](./sir-william-edward-maxwell.md) (pp. 247–297)
-* [Malay law in Negri Sembilan](./malay-law-in-negri-sembilan.md) — [M. Lister](./m-lister.md) (pp. 299–319)
+* [Malay law in Negri Sembilan](./malay-law-in-negri-sembilan.md) — [M. Lister](./martin-lister.md) (pp. 299–319)
 * [The ruling family of Selangor](./the-ruling-family-of-selangor.md) — [W.E. Maxwell](./sir-william-edward-maxwell.md) (pp. 321–324)
 * [The Sphingidae of Singapore](./the-sphingidae-of-singapore.md) — [H.J. Kelsall](./hj-kelsall.md) (pp. 325–329)
 * [The Burmanniaceae of the Malay Peninsula](./the-burmanniaceae-of-the-malay-peninsula.md) — [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 331–339)
@@ -136,7 +136,7 @@ articles:
 * [H.J. Kelsall](./hj-kelsall.md)
 * [H.N. Ridley](./henry-nicholas-ridley.md)
 * [Hale A](./hale-a.md)
-* [M. Lister](./m-lister.md)
+* [M. Lister](./martin-lister.md)
 * [W.E. Maxwell](./sir-william-edward-maxwell.md)
 
 ## References

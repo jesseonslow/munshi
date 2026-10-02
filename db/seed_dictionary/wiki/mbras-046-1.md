@@ -86,20 +86,20 @@ articles:
 **Date:** September 1973
 
 ## Table of Contents
-* [The Java journal of Dr Joseph Arnold. .S. Bastin](./the-java-journal-of-dr-joseph-arnold-s-bastin.md) — [J. Arnold](./j-arnold.md), [J.S. Bastin](./js-bastin.md) (pp. 1–92)
+* [The Java journal of Dr Joseph Arnold. .S. Bastin](./the-java-journal-of-dr-joseph-arnold-s-bastin.md) — [J. Arnold](./j-arnold.md), [J.S. Bastin](./john-bastin.md) (pp. 1–92)
 * [The cultural significance of the Pengkalan Kempas megaliths](./the-cultural-significance-of-the-pengkalan-kempas-megaliths.md) — [C. (Chandran Jeshurun) Jeshurun](./c-chandran-jeshurun-jeshurun.md) (pp. 93–100)
 * [Medical education in the Straits, 1786–1871](./medical-education-in-the-straits-17861871.md) — [Y.K. Lee](./yk-lee.md) (pp. 101–122)
 * [Megalithic evidences in East Malaysia, an introductory summary](./megalithic-evidences-in-east-malaysia-an-introductory-summar.md) — [Tom Harrisson](./tom-harrisson.md) (pp. 123–140)
 * [Newly discovered prehistoric rock carvings in the Ulu Tomani, Sabah](./newly-discovered-prehistoric-rock-carvings-in-the-ulu-tomani.md) — [Tom Harrisson](./tom-harrisson.md) (pp. 141–144)
 * [French visitors to Trengganu in the 18th century, . Dunmore](./french-visitors-to-trengganu-in-the-18th-century-dunmore.md) — [J. Dunmore](./j-dunmore.md) (pp. 145–160)
-* *Hindu gods of peninsular Siam. S.J. O’Connor* — [H.G.Q. Wales](./hgq-wales.md) (pp. 171–173) [Review]
+* *Hindu gods of peninsular Siam. S.J. O’Connor* — [H.G.Q. Wales](./horace-geoffrey-quaritch-wales.md) (pp. 171–173) [Review]
 
 ## Contributors
 * [C. (Chandran Jeshurun) Jeshurun](./c-chandran-jeshurun-jeshurun.md)
-* [H.G.Q. Wales](./hgq-wales.md)
+* [H.G.Q. Wales](./horace-geoffrey-quaritch-wales.md)
 * [J. Arnold](./j-arnold.md)
 * [J. Dunmore](./j-dunmore.md)
-* [J.S. Bastin](./js-bastin.md)
+* [J.S. Bastin](./john-bastin.md)
 * [Tom Harrisson](./tom-harrisson.md)
 * [Y.K. Lee](./yk-lee.md)
 

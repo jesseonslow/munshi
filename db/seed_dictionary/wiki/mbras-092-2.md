@@ -147,31 +147,31 @@ articles:
 **Date:** December 2019
 
 ## Table of Contents
-* [Three early 17th-century maps by Godinho de Erédia](./three-early-17th-century-maps-by-godinho-de-erédia.md) — [P. Borschberg](./p-borschberg.md) (pp. 1–28)
+* [Three early 17th-century maps by Godinho de Erédia](./three-early-17th-century-maps-by-godinho-de-erédia.md) — [P. Borschberg](./peter-borschberg.md) (pp. 1–28)
 * [Founding an ethnic Chinese business empire in colonial Asia: the strategic alliances of Major Oei Tiong Ham, 1895–1905](./founding-an-ethnic-chinese-business-empire-in-colonial-asia-.md) — [P. Post](./p-post.md) (pp. 29–56)
 * [Celebrating Singapore’s 150th anniversary on its 4th national day (9 August 1969](./celebrating-singapores-150th-anniversary-on-its-4th-national.md) — [Ng Paul Seen](./ng-paul-seen.md) (pp. 57–78)
 * [Ethnic belonging among Bugis Malays in Johor, Malaysia: grounding the present in the past](./ethnic-belonging-among-bugis-malays-in-johor-malaysia-ground.md) — [Nur Aisyah Kotarumalos](./nur-aisyah-kotarumalos.md) (pp. 79–98)
 * [The journals of William Scott, 1794–1805. Transcribed and annotated M. Langdon](./the-journals-of-william-scott-17941805-transcribed-and-annot.md) — [M. Langdon](./m-langdon.md) (pp. 99–136)
 * *A people’s history of Malaysia. Syed Husin Ali* — [K.S. Jomo](./ks-jomo.md), [F.N. Rodriguez](./fn-rodriguez.md) (pp. 137–140) [Review]
 * *Singapore: a modern history. M.D. Barr* — [Seng Guo-Quan](./seng-guo-quan.md) (pp. 140–142) [Review]
-* *The diaries of G.C. Woolley, ed D. Wong Tze Ken. Volume 3: 1913–1919* — [H.S. Barlow](./hs-barlow.md) (pp. 149–151) [Review]
+* *The diaries of G.C. Woolley, ed D. Wong Tze Ken. Volume 3: 1913–1919* — [H.S. Barlow](./henry-sackville-barlow.md) (pp. 149–151) [Review]
 * *The Special Operations Executive in Malaya: World War II and the path to independence. R. Kenneison* — [M. Opper](./m-opper.md) (pp. 151–156) [Review]
-* *Jesselton uprising. D. Wong Tze Ken* — [B.W. Andaya](./bw-andaya.md) (pp. 157–160) [Review]
+* *Jesselton uprising. D. Wong Tze Ken* — [B.W. Andaya](./barbara-watson-andaya.md) (pp. 157–160) [Review]
 * *Singapore’s permanent territorial revolution: fifty years in fifty maps. R. de Koninck with Pham Thanh Hai and M. Girard* — [V.L. Forbes](./vl-forbes.md) (pp. 161–163) [Review]
 * *Home is not here. Wang Gungwu* — [Wu Xiao An](./wu-xiao-an.md) (pp. 163–176) [Review]
 * *The survivors. T. Aw* — [C. Leon](./c-leon.md) (pp. 176–178) [Review]
 
 ## Contributors
-* [B.W. Andaya](./bw-andaya.md)
+* [B.W. Andaya](./barbara-watson-andaya.md)
 * [C. Leon](./c-leon.md)
 * [F.N. Rodriguez](./fn-rodriguez.md)
-* [H.S. Barlow](./hs-barlow.md)
+* [H.S. Barlow](./henry-sackville-barlow.md)
 * [K.S. Jomo](./ks-jomo.md)
 * [M. Langdon](./m-langdon.md)
 * [M. Opper](./m-opper.md)
 * [Ng Paul Seen](./ng-paul-seen.md)
 * [Nur Aisyah Kotarumalos](./nur-aisyah-kotarumalos.md)
-* [P. Borschberg](./p-borschberg.md)
+* [P. Borschberg](./peter-borschberg.md)
 * [P. Post](./p-post.md)
 * [Seng Guo-Quan](./seng-guo-quan.md)
 * [V.L. Forbes](./vl-forbes.md)

@@ -21,15 +21,16 @@ published: false
 
 ## MBRAS Sources
 
-- Fitter, R.S.R. Tom and the Survival Service Commission. MB 50(1)
-- Haile, N. Tom Harrisson: personal glimpses. MB 49(1)
-- Harrisson, B. Tom Harrisson’s unpublished legacy on Niah. MB 50(1)
+- [R.S.R. Fitter](./rsr-fitter.md) (1977). [Tom {Harrisson} and the Survival Service Commission](./tom-harrisson-and-the-survival-service-commission.md). *JMBRAS* 50: 71–72
+- [Haile N.S](./haile-ns.md) (1976). [Tom Harrisson: personal glimpses](./tom-harrisson-personal-glimpses.md). *JMBRAS* 49: 145–146
+- [Harrisson B](./harrisson-b.md) (1977). [Tom Harrisson’s unpublished legacy on Niah](./tom-harrissons-unpublished-legacy-on-niah.md). *JMBRAS* 50: 41–51
 - Heimann, J.M. Biography of T.H. MB 73(1) {R}
-- Lamb, A. Tom Harrisson and Indian influences in early SEA. MB 50(1)
-- Medway, Gathorne Gathorne-Hardy, Lord. Tom Harrisson ornithologist. MB 49(1)
-- O’Connor, S.J. Tom Harrisson and ancient iron industry of Sarawak River delta. MB 50(1)
-- Sandin, B. Tom as I knew him. MB 49(1)
-- Tweedie, M.W.F. Tom Harrisson, archaeologist. MB 49(1)
+- [A. Lamb](./a-lamb.md) (1977). [Tom Harrisson and Indian influences in early Southeast Asia](./tom-harrisson-and-indian-influences-in-early-southeast-asia.md). *JMBRAS* 50: 8–13
+- [Gathorne Gathorne-Hardy, Lord (Earl of Cranbrook) Medway](./gathorne-gathorne-hardy-lord-earl-of-cranbrook-medway.md) (1976). [Tom Harrisson, ornithologist](./tom-harrisson-ornithologist.md). *JMBRAS* 49: 143–144
+- [S.J. O'Connor](./sj-oconnor.md) (1977). [Tom Harrisson and the ancient iron industry of the Sarawak River delta](./tom-harrisson-and-the-ancient-iron-industry-of-the-sarawak-r.md). *JMBRAS* 50: 4–7
+- [B. Sandin](./b-sandin.md) (1976). [Tom as I knew him](./tom-as-i-knew-him.md). *JMBRAS* 49: 147–148
+- [M.W.F. Tweedie](./michael-wilmer-forbes-tweedie.md) (1976). [Tom Harrisson, archaeologist](./tom-harrisson-archaeologist.md). *JMBRAS* 49: 149–150
+
 ## Bibliography
 - (1949) [A note on Sambas and Borneo. {With notes T. Harrisson](./a-note-on-sambas-and-borneo-with-notes-t-harrisson.md). *JMBRAS* 22(4): 1–15
 - (1949) [Gold and Indian influences in west Borneo](./gold-and-indian-influences-in-west-borneo.md). *JMBRAS* 22(4): 33–110

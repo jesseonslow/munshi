@@ -18,6 +18,7 @@ published: false
 
 ## MBRAS Sources
 
-- Shariffuddin, P.M. Dato’. Obituary. MB 59(2)
+- [P.M. Shariffuddin](./pm-shariffuddin.md) (1986). [In memoriam: Al-Marhum Sultan Sir Muda Omar ‘Ali Saifuddien Khairi Wadddien. Obituary](./in-memoriam-al-marhum-sultan-sir-muda-omar-ali-saifuddien-kh.md). *JMBRAS* 59(2): 1–4
+
 ## References
 <!-- Grounded occurrences and citations -->

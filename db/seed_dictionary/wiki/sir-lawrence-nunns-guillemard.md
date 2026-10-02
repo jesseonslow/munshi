@@ -18,6 +18,7 @@ published: false
 
 ## MBRAS Sources
 
-- Yeo Kim-Wah. Guillemard-Maxwell power struggle, 1921–25. MB 54(1)
+- [Yeo Kim Wah](./yeo-kim-wah.md) (1981). [The Guillemard-Maxwell power struggle, 1921–1925](./the-guillemard-maxwell-power-struggle-19211925.md). *JMBRAS* 54: 48–64
+
 ## References
 <!-- Grounded occurrences and citations -->

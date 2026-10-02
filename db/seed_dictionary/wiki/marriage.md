@@ -48,16 +48,17 @@ published: false
 ### Law and customs
 
 - Abu Talib Ahmad. Marriage and divorce among Johor Malays during Japanese
-- Bland, R.N. Currency: Negri Sembilan. SB 18
-- Braddell, R. SS judicial view of Chinese marriages. SB 83
+- [R.N. Bland](./rn-bland.md) and [Hale A](./hale-a.md) (1886). [Currency, Negri Sembilan](./currency-negri-sembilan.md). *JSBRAS* 18: 356–357
+- [R. Braddell](./r-braddell.md) (1921). [Chinese marriages, as regarded by the Supreme Court of the Straits Settlements](./chinese-marriages-as-regarded-by-the-supreme-court-of-the-st.md). *JSBRAS* 83: 153–165
 - Dunselman, P.D. Kara sera. MB 33(1) {R}
-- Headly, D. Illanun and Bajau marriage customs in Kota Belud district. MB 24(3)
-- Humphreys, J.L. A Naning wedding speech. SB 72
+- [D. Headly](./d-headly.md) (1951). [Some Illanun and Bajau marriage customs in the Kota Belud district, North Borneo](./some-illanun-and-bajau-marriage-customs-in-the-kota-belud-di.md). *JMBRAS* 24(3): 159–160
+- [J.L. Humphreys](./jl-humphreys.md) (1916). [A Naning wedding-speech](./a-naning-wedding-speech.md). *JSBRAS* 72: 25–33
 - Humphreys, J.L. A Naning recital. SB 83
-- Maxwell, W.E. Panjat. NQ Reprint 15
-- Stirling, W.G. A Chinese wedding in the reform style. MB 3(3)
-- Skeat, W.W. The Malay boat-shaped puan. MB 22(1)
+- Anon. [Maxwell, W.E. Panjat](./mbras-reprint-15.md). *Reprint* 15
+- [W.G. Stirling](./william-george-stirling.md) (1925). [A Chinese wedding in the reform style](./a-chinese-wedding-in-the-reform-style.md). *JMBRAS* 3(3): 1–5
+- [W.W. Skeat](./walter-william-skeat.md) (1949). [The Malay boat-shaped puan](./the-malay-boat-shaped-puan.md). *JMBRAS* 22: 180–181
 - Winstedt, R.O. Hindu element in Malay wedding ceremony. SB 79
-- Winstedt, R.O. A Perak betrothal ceremony. MB 7(3)
+- [R.O. Winstedt](./richard-olaf-winstedt.md) (1929). [An old Perak account of betrothal ceremonies](./an-old-perak-account-of-betrothal-ceremonies.md). *JMBRAS* 7(3): 448–450
+
 ## References
 <!-- Grounded occurrences and citations -->

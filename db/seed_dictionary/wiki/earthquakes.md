@@ -21,6 +21,7 @@ published: false
 ## MBRAS Sources
 
 - Anon. Earthquakes. SB 30
-- Ridley, H.N. Earthquakes in Malaya. SB 25
+- [H.N. Ridley](./henry-nicholas-ridley.md) (1894). [Earthquake in the Malay Peninsula](./earthquake-in-the-malay-peninsula.md). *JSBRAS* 25: 160–171
+
 ## References
 <!-- Grounded occurrences and citations -->

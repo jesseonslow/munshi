@@ -31,10 +31,10 @@ articles:
 **Date:** June 1959
 
 ## Table of Contents
-* *Geographical notes on some commodities involved in Sung maritime trade* — [P. Wheatley](./p-wheatley.md) (pp. 1–139) [Review]
+* *Geographical notes on some commodities involved in Sung maritime trade* — [P. Wheatley](./paul-wheatley.md) (pp. 1–139) [Review]
 
 ## Contributors
-* [P. Wheatley](./p-wheatley.md)
+* [P. Wheatley](./paul-wheatley.md)
 
 ## References
 <!-- Grounded occurrences and citations -->

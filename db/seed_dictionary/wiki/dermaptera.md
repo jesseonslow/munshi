@@ -18,6 +18,7 @@ published: false
 
 ## MBRAS Sources
 
-- Borelli, A. _Dermaptera_ from Mentawai Islands. MB 4(3)
+- [A. Borelli](./a-borelli.md) (1926). [Spolia mentawiensia: Dermaptera. Introd. C.B. Kloss](./spolia-mentawiensia-dermaptera-introd-cb-kloss.md). *JMBRAS* 4(3): 384–391
+
 ## References
 <!-- Grounded occurrences and citations -->

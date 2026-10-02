@@ -24,14 +24,15 @@ published: false
 
 ## MBRAS Sources
 
-- Foong See-ton. UM Archaeological Society survey of Kuala Muda area (Kedah) 1956. MB 32(1)
-- Graf, A. German works on Malay literature since 19th century. MB 80(2)
+- [Foong See-ton](./foong-see-ton.md) (1959). [The University of Malaya Archaeological Society’s survey of the Kuala Muda area (South Kedah), in July 1956](./the-university-of-malaya-archaeological-societys-survey-of-t.md). *JMBRAS* 32: 209–213
+- [A. Graf](./a-graf.md) (2007). [German works on Malay culture and literature since the nineteenth century](./german-works-on-malay-culture-and-literature-since-the-ninet.md). *JMBRAS* 80(2): 51–65
 - Khoo Joo Ee. Kendi collection at University of Malaya. MB 67(1) {R}
-- Kua, P. The Anglo-Chinese College at Melaka, 1818–43. MB 91(1)
+- [P. Kua](./p-kua.md) (2018). [The Anglo-Chinese College in Malacca, 1818–1843: its location and facilities](./the-anglo-chinese-college-in-malacca-18181843-its-location-a.md). *JMBRAS* 91: 69–88
 - O’Sullivan, L. The Anglo-Chinese College and the early Singapore Institution. MB 61(2)
-- Tregonning, K.G. Tertiary education in Malaya (1905–62). MB 63(1)
-- Wang Gungwu. UM Archaeological Society survey of Central Kedah, 1958. MB 31(1).
-- Wilson, H.E. An abortive plan for an Anglo-Chinese college in Singapore. MB 45(2)
+- [K.G. Tregonning](./kennedy-gordon-tregonning.md) (1990). [Tertiary education in Malaya: policy and practice, 1905–1962](./tertiary-education-in-malaya-policy-and-practice-19051962.md). *JMBRAS* 63: 1–14
+- [Wang Gungwu](./wang-gungwu.md) (1958). [The University of Malaya Archaeological Society’s survey of Central Kedah in May 1958](./the-university-of-malaya-archaeological-societys-survey-of-c.md). *JMBRAS* 31: 220–223
+- [H.E. Wilson](./he-wilson.md) (1972). [An abortive plan for an Anglo-Chinese College in Singapore](./an-abortive-plan-for-an-anglo-chinese-college-in-singapore.md). *JMBRAS* 45(2): 97–109
 - Wing Choo Ming. Indonesian Peranakan literature: UKM collection. MB 51(1)
+
 ## References
 <!-- Grounded occurrences and citations -->

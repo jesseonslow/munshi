@@ -22,8 +22,9 @@ published: false
 
 ## MBRAS Sources
 
-- Coope, A.E. The black art (ilmu jahat). MB 11(2) and 13(2)
-- Marriott, H. Malay witchcraft. SB 39
-- Wise, H. The ‘Malingkoto’ in Borneo in June 1891. SB 26
+- [A.E. Coope](./ae-coope.md) (1933). [The black art (ilmu jahat](./the-black-art-ilmu-jahat.md). *JMBRAS* 11(2): 264–272
+- [H. Marriott](./h-marriott.md) (1903). [Malay witchcraft](./malay-witchcraft.md). *JSBRAS* 39: 209–210
+- [H. Wise](./h-wise.md) (1894). [The “Malingkote” in Borneo in June, 1891](./the-malingkote-in-borneo-in-june-1891.md). *JSBRAS* 26: 203
+
 ## References
 <!-- Grounded occurrences and citations -->

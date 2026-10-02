@@ -101,7 +101,7 @@ articles:
 * [A reputed Acehnese sarakata of the Jamal al-Lail dynasty](./a-reputed-acehnese-sarakata-of-the-jamal-al-lail-dynasty.md) — [E.A. Beardow](./ea-beardow.md), [D. Crecelius](./d-crecelius.md) (pp. 141–144)
 
 ## Contributors
-* [A. Sweeney](./a-sweeney.md)
+* [A. Sweeney](./amin-sweeney.md)
 * [D. Crecelius](./d-crecelius.md)
 * [E.A. Beardow](./ea-beardow.md)
 * [E.E. McKinnon](./ee-mckinnon.md)

@@ -133,7 +133,7 @@ articles:
 ## Table of Contents
 * [Robert W. Duff: a British seigneur in Kelantan, 1892–1932](./robert-w-duff-a-british-seigneur-in-kelantan-18921932.md) — [E. Levos](./e-levos.md) (pp. 1–19)
 * [Chronological biography of Arthur Charles Norman](./chronological-biography-of-arthur-charles-norman.md) — [A. Ghafar Ahmad](./a-ghafar-ahmad.md) (pp. 21–29)
-* [Melaka in Ming dynasty texts](./melaka-in-ming-dynasty-texts.md) — [G. Wade](./g-wade.md) (pp. 31–69)
+* [Melaka in Ming dynasty texts](./melaka-in-ming-dynasty-texts.md) — [G. Wade](./geoff-wade.md) (pp. 31–69)
 * [A bridge-builder. Dr Thio Chan Bee (1904–1978](./a-bridge-builder-dr-thio-chan-bee-19041978.md) — [N. Ong](./n-ong.md) (pp. 71–100)
 * [Coral as building material in late Portuguese and early Dutch Malacca](./coral-as-building-material-in-late-portuguese-and-early-dutc.md) — [T.T. Khoo](./tt-khoo.md) (pp. 97–114)
 * [The making of traditional clay roof tiles or genting](./the-making-of-traditional-clay-roof-tiles-or-genting.md) — [Rudin Salinger](./rudin-salinger.md) (pp. 101–110)
@@ -142,15 +142,15 @@ articles:
 * *The Guthrie flagship: United Sua Betong. C.N. Parkinson. .M. Gullick* — [Drabble J.H](./drabble-jh.md) (pp. 128–129) [Review]
 * *The Malay handloom weavers: a study of the rise and decline of a traditional manufacture. Maznah Mohamed* — [Suriani Suratman](./suriani-suratman.md) (pp. 129–131) [Review]
 * *The chief secretary to the government, Malaysia. Ahmad Sarji* — [Oo Yu Hock](./oo-yu-hock.md) (pp. 131–133) [Review]
-* *The admiral’s baby. L. van der Post* — [H.S. Barlow](./hs-barlow.md) (pp. 133–134) [Review]
+* *The admiral’s baby. L. van der Post* — [H.S. Barlow](./henry-sackville-barlow.md) (pp. 133–134) [Review]
 
 ## Contributors
 * [A. Ghafar Ahmad](./a-ghafar-ahmad.md)
 * [C.F. Symington](./cf-symington.md)
 * [Drabble J.H](./drabble-jh.md)
 * [E. Levos](./e-levos.md)
-* [G. Wade](./g-wade.md)
-* [H.S. Barlow](./hs-barlow.md)
+* [G. Wade](./geoff-wade.md)
+* [H.S. Barlow](./henry-sackville-barlow.md)
 * [N. Ong](./n-ong.md)
 * [Oo Yu Hock](./oo-yu-hock.md)
 * [Rudin Salinger](./rudin-salinger.md)

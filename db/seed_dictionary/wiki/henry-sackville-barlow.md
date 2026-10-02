@@ -24,6 +24,7 @@ published: false
 <!-- Synthesis engine: Insert introductory synthesis for Henry Sackville Barlow here -->
 
 ## MBRAS Sources
+
 <!-- Seed entries or targeted retrieval for Henry Sackville Barlow -->
 
 ## Bibliography

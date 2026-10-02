@@ -19,7 +19,8 @@ published: false
 
 ## MBRAS Sources
 
-- Hamilton, A.W. Malay names of molluscs. MB 11(2)
-- Laidlaw, F.F. Land and fresh-water molluscs of the Malay Peninsula. MB 6(1) and 11(2)
+- [Hamilton A.W](./hamilton-aw.md) (1933). [Malay names of molluscs](./malay-names-of-molluscs.md). *JMBRAS* 11(2): 135–136
+- [F.F. Laidlaw](./ff-laidlaw.md) (1933). [A list of land and fresh-water Mollusca of the Malay Peninsula](./a-list-of-land-and-fresh-water-mollusca-of-the-malay-peninsu.md). *JMBRAS* 11(2): 211–234
+
 ## References
 <!-- Grounded occurrences and citations -->

@@ -41,42 +41,45 @@ published: false
 
 ### History
 
-- Abu Talib Ahmad. Japanese Occupation in Pahang. MB 97(1)
+- [Abu Talib Ahmad](./abu-talib-ahmad.md) (2024). [The Japanese Occupation in Pahang, January 1942–September 1945](./the-japanese-occupation-in-pahang-january-1942september-1945.md). *JMBRAS* 97: 30–52
 - De Silva, J. British relations with Pahang, 1884–95. MB 35(1)
-- Gopinath, A. Pahang 1880–1933. Monograph 18 and MB 65(1) {R}
-- Husin Ali, Syed. Rural leadership in Malaya: Kerdau. MB 41(1)
+- Gopinath, A. Pahang 1880–1933. Monograph 18
+- and MB 65(1) {R}
+- [Husin Ali](./husin-ali.md) (1968). [Patterns of rural leadership in Malaya](./patterns-of-rural-leadership-in-malaya.md). *JMBRAS* 41: 95–145
 - Linehan, W. A chap pekak. MB 4(2)
-- Linehan, W. The Bendaharas of Pahang. MB 4(3)
-- Linehan, W. Chronology of Pahang’s bendaharas. MB 12(2)
-- Linehan, W. A history of Pahang. MB 14(2) and Reprint 2
-- Linehan, W. The prince of Chini. MB 20(2)
-- Shahriman bin T. Sulaiman, Tunku. Pahang state capital. MB 76(2)
-- Thio, E. Extension of British control to Pahang. MB 30(1)
-- Wilkinson, R.J. The early sultans of Pahang. MB 10(1)
-- Winstedt, R.O. The early rulers of Perak, Pahang and Acheh. MB 10(1)
+- [W. Linehan](./w-linehan.md) (1926). [The bendaharas of Pahang](./the-bendaharas-of-pahang.md). *JMBRAS* 4(3): 334–338
+- [W. Linehan](./w-linehan.md) (1934). [The chronology of Pahang’s bendaharas](./the-chronology-of-pahangs-bendaharas.md). *JMBRAS* 12(2): 70
+- [W. Linehan](./w-linehan.md) (1974). [A History of Pahang](./a-history-of-pahang.md). ** : 256
+- [W. Linehan](./w-linehan.md) (1974). [A History of Pahang](./a-history-of-pahang.md). ** : 256
+- [W. Linehan](./w-linehan.md) (1947). [The prince of Chini](./the-prince-of-chini.md). *JMBRAS* 20(2): 127–136
+- [Shahriman bin Tunku Sulaiman Tunku Tan Sri Dato'](./shahriman-bin-tunku-sulaiman-tunku-tan-sri-dato.md) (2003). [The Pahang capital](./the-pahang-capital.md). *JMBRAS* 76(2): 87–92
+- [E. Thio](./e-thio.md) (1957). [The extension of British control to Pahang](./the-extension-of-british-control-to-pahang.md). *JMBRAS* 30: 46–74
+- [R.J. Wilkinson](./richard-james-wilkinson.md) (1932). [The early Sultans of Pahang](./the-early-sultans-of-pahang.md). *JMBRAS* 10: 45–54
+- [R.O. Winstedt](./richard-olaf-winstedt.md) (1932). [The early rulers of Perak, Pahang and Acheh](./the-early-rulers-of-perak-pahang-and-acheh.md). *JMBRAS* 10: 32–44
 
 ### Antiquities
 
 - Dunn, F.L. Excavations at Gua Kechil, Pahang. MB 37(2)
-- Linehan, W. Some discoveries on the Tembeling. MB 6(4)
-- Linehan, W. Remains of some brick structures in Pekan district. MB 6(4)
-- Linehan, W. Some archaeological discoveries in Pahang. MB 8(2)
-- Tweedie, M.W.F. Prehistoric objects from the Tui gold mine. MB 20(1) and 26(1)
+- [W. Linehan](./w-linehan.md) (1928). [Some discoveries on the Tembeling](./some-discoveries-on-the-tembeling.md). *JMBRAS* 6(4): 66–77
+- [W. Linehan](./w-linehan.md) (1928). [Notes on the remains of some ancient brick structures in Pekan district](./notes-on-the-remains-of-some-ancient-brick-structures-in-pek.md). *JMBRAS* 6(4): 78–81
+- [W. Linehan](./w-linehan.md) (1930). [Notes on some further archaeological discoveries in Pahang](./notes-on-some-further-archaeological-discoveries-in-pahang.md). *JMBRAS* 8(2): 314–317
+- [Hamilton A.W](./hamilton-aw.md) (1947). [The first Dutch–Malay vocabulary](./the-first-dutchmalay-vocabulary.md). *JMBRAS* 20(2): 20–25
 
 ### Description and travel
 
-- Cameron, W. Exploration of Pahang. SB 15
-- Cant, R.G. Historical geography of Pahang. Monograph 4
-- Dalton, H.G. Visit to some islands off the coast of Johore and Pahang. MB 6(3)
-- Davison, W. Trip to Pahang in 1889. SB 20
-- Douglas, B. The “Sungai Tata route” from Selangor to Pahang. SB 3
-- Douglas, F.W. With H. Clifford in Pahang in 1897. SB 85
-- Hervey, D.F.A. The Endau and its tributaries. SB 8
-- Nathan, J.E. Across the main range from Perak to Pahang. SB 68
-- Noone, H.D. Penarikan and Bernam land-routes. MB 17(1)
-- Peet, G.L. A journal in the federal capital. Reprint 34
-- Ridley, H.N. A trip up river to reach Gunong Tahan. SB 25
-- Roberts, W.B. An unexplored corner of Pahang. SB 32
-- Willbourn, E.S. Journey in the Ulu Rompin district. MB 4(2)
+- [W. Cameron](./w-cameron.md) and [C.C. Smith](./cc-smith.md) (1885). [Exploration of Pahang: extract from a letter from Mr. W. Cameron to H.E. the Acting Governor (the Hon’ble Cecil C. Smith, C.M.G.) dated 4th September, 1885](./exploration-of-pahang-extract-from-a-letter-from-mr-w-camero.md). *JSBRAS* 15: 155–157
+- [Dr. R.G. Cant](./rg-cant.md) (1973). [An Historical Geography of Pahang](./an-historical-geography-of-pahang.md). ** : 185
+- [H.G. Dalton](./hg-dalton.md) (1928). [A visit to some islands off the east coast of Johore and Pahang](./a-visit-to-some-islands-off-the-east-coast-of-johore-and-pah.md). *JMBRAS* 6(3): 78–96
+- [W. Davison](./w-davison.md) (1889). [Journal of a trip to Pahang etc. with H.E. the Governor, August 17th to 27th, 1889](./journal-of-a-trip-to-pahang-etc-with-he-the-governor-august-.md). *JSBRAS* 20: 83–90
+- [B. Douglas](./b-douglas.md) (1879). [“Sungai Tata” route](./sungai-tata-route.md). *JSBRAS* 3: 133–135
+- H.C. Clifford and [F.W. Douglas](./fw-douglas.md) (1922). [Through an unknown corner of Pahang with H. Clifford in 1897. F.W. Douglas](./through-an-unknown-corner-of-pahang-with-h-clifford-in-1897-.md). *JSBRAS* 85: 135–139
+- [D.F.A. Hervey](./dudley-francis-amelius-hervey.md) (1881). [The Endau and its tributaries](./the-endau-and-its-tributaries.md). *JSBRAS* 8: 93–132
+- [J.E. Nathan](./je-nathan.md) (1915). [A journey over the main range from Perak to Pahang](./a-journey-over-the-main-range-from-perak-to-pahang.md). *JSBRAS* 68: 1–5
+- [H.D. Noone](./hd-noone.md) (1939). [The Penarikan and Bernam land-routes](./the-penarikan-and-bernam-land-routes.md). *JMBRAS* 17: 144–145
+- [George L. Peet](./george-l-peet.md) (2017). [A Journal in the Federal Capital](./a-journal-in-the-federal-capital.md). ** : 180
+- [H.J. Kelsall](./hj-kelsall.md) and [H.N. Ridley](./henry-nicholas-ridley.md) (1894). [Account of a trip up the Pahang, Tembeling, and Tahan rivers, and an attempt to reach Gunong Tahan](./account-of-a-trip-up-the-pahang-tembeling-and-tahan-rivers-a.md). *JSBRAS* 25: 33–65
+- [W.B. Roberts](./wb-roberts.md) (1899). [An unexplored corner of Pahang](./an-unexplored-corner-of-pahang.md). *JSBRAS* 32: 1–8
+- [E.S. Willbourn](./es-willbourn.md) (1926). [A journey in the Ulu Rompin district, south-east Pahang](./a-journey-in-the-ulu-rompin-district-south-east-pahang.md). *JMBRAS* 4(2): 201–212
+
 ## References
 <!-- Grounded occurrences and citations -->

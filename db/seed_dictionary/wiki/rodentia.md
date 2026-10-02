@@ -23,8 +23,9 @@ published: false
 
 ## MBRAS Sources
 
-- Butler, A.L. Mus surifer in Perak. SB 36
-- Chasen, F.N. Carnivora, Rodentia and Insectivora of E Borneo. MB 6(1)
-- Kloss, A.B. Rats and plague. SB 57
+- [A.L. Butler](./al-butler.md) (1901). [On the occurrence of Mus surifer, G.S. Miller, in Perak](./on-the-occurrence-of-mus-surifer-gs-miller-in-perak.md). *JSBRAS* 36: 137
+- [F.N. Chasen](./fn-chasen.md) and [C.B. Kloss](./cb-kloss.md) (1928). [On some Carnivora, Rodentia and Insectivora principally from Eastern Borneo](./on-some-carnivora-rodentia-and-insectivora-principally-from-.md). *JMBRAS* 6: 38–49
+- [C.B. Kloss](./cb-kloss.md) (1911). [Rats and plague](./rats-and-plague.md). *JSBRAS* 57: 157–166
+
 ## References
 <!-- Grounded occurrences and citations -->

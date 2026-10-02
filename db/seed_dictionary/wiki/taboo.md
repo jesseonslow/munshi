@@ -19,8 +19,9 @@ published: false
 ## MBRAS Sources
 
 - Hewitt, J. Tabu customs of the warpath of Sea Dayaks. SB 52
-- Keith, H.G. A few ulun-no-bokan (Murut) taboos. MB 14(3)
+- [H.G. Keith](./hg-keith.md) (1936). [A few ulun-no-bokan (Murut) taboos](./a-few-ulun-no-bokan-murut-taboos.md). *JMBRAS* 14(3): 327–329
 - Lister, M. Pantang larang in Negri Sembilan. SB 23
-- Winstedt, R.O. Royal tabus in Negri Sembilan. MB 7(3)
+- [R.O. Winstedt](./richard-olaf-winstedt.md) (1929). [Royal tabus in Negri Sembilan](./royal-tabus-in-negri-sembilan.md). *JMBRAS* 7(3): 454–455
+
 ## References
 <!-- Grounded occurrences and citations -->

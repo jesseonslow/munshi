@@ -19,6 +19,7 @@ published: false
 
 ## MBRAS Sources
 
-- Johnson, D.S. Land crabs. MB 38(2)
+- [D.S. Johnson](./ds-johnson.md) (1965). [Land crabs](./land-crabs.md). *JMBRAS* 38(2): 43–66
+
 ## References
 <!-- Grounded occurrences and citations -->

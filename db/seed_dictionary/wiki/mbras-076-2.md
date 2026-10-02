@@ -136,14 +136,14 @@ articles:
 * *Early modern history {1800–1940}, the Encyclopedia of Malaysia, Vol 7* — [A. Lau](./a-lau.md) (pp. 121–123) [Review]
 * *Pastimes: a social history of Singapore* — [S. Dobbs](./s-dobbs.md), [M. Osborne](./m-osborne.md) (pp. 124–126) [Review]
 * *Chinese business in the making of a Malay state, 1882–1941, Kedah and Penang. Wu Xiao An* — [S. Visscher](./s-visscher.md) (pp. 126–127) [Review]
-* *Borneo diaries. I.H.N. Evans, ed A.V.M. Horton, foreword V.T. King* — [H.S. Barlow](./hs-barlow.md) (pp. 128–129) [Review]
+* *Borneo diaries. I.H.N. Evans, ed A.V.M. Horton, foreword V.T. King* — [H.S. Barlow](./henry-sackville-barlow.md) (pp. 128–129) [Review]
 * *Asia’s maritime bead trade, 300 B.C. to the present. P. Francis Jr* — [W.G.H. Solheim](./wgh-solheim.md) (pp. 129–132) [Review]
 
 ## Contributors
 * [A. Lau](./a-lau.md)
 * [Drabble J.H](./drabble-jh.md)
 * [H. Munan](./h-munan.md)
-* [H.S. Barlow](./hs-barlow.md)
+* [H.S. Barlow](./henry-sackville-barlow.md)
 * [L.A. Mills](./la-mills.md)
 * [M. Osborne](./m-osborne.md)
 * [P.J. Rivers](./pj-rivers.md)

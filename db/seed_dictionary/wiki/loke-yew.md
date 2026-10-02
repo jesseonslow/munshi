@@ -18,6 +18,7 @@ published: false
 
 ## MBRAS Sources
 
-- Peet, G.L. A journal in the federal capital. Reprint 34
+- [George L. Peet](./george-l-peet.md) (2017). [A Journal in the Federal Capital](./a-journal-in-the-federal-capital.md). ** : 180
+
 ## References
 <!-- Grounded occurrences and citations -->

@@ -23,15 +23,17 @@ published: false
 
 ## MBRAS Sources
 
-- Bartley, W. Population of Singapore in 1819. MB 11(2) and 42(1)
-- Crain, J.B. Murut depopulation and Sipitang Lun Dayeh. MB 45(2)
-- Freedman, M. Chinese population of Singapore, 1947–50. MB 31(1) and Reprint 4
-- Lee Yong Leng. Population changes in Sabah, 1960–70. MB 51(1)
+- [W. Bartley](./w-bartley.md) (1933). [Population of Singapore in 1819](./population-of-singapore-in-1819.md). *JMBRAS* 11(2): 177
+- [J.B. Crain](./jb-crain.md) (1972). [Murut depopulation and the Sapitang Lun Dayeh](./murut-depopulation-and-the-sapitang-lun-dayeh.md). *JMBRAS* 45(2): 109–121
+- [M. Freedman](./m-freedman.md) (1958). [A note on the stability of the Chinese population in Singapore, 1947–1950](./a-note-on-the-stability-of-the-chinese-population-in-singapo.md). *JMBRAS* 31: 83–93
+- Anon (1977). [A Centenary Volume: 30 Articles selected from JSBRAS and JMBRAS 1878 - 1976](./a-centenary-volume-30-articles-selected-from-jsbras-and-jmbras-1878-1976.md). ** : 358
+- [Lee Yong Leng](./lee-yong-leng.md) (1978). [Population changes in Sabah, 1960–70](./population-changes-in-sabah-196070.md). *JMBRAS* 51: 63–76
 - Marriott, H. Population of SS and Malaya in 19th century. SB 62
-- Purcell, V. Chinese settlement in Malacca. MB 20(1)
+- [V. Purcell](./victor-purcell.md) (1947). [Chinese settlement in Malacca](./chinese-settlement-in-malacca.md). *JMBRAS* 20: 115–125
 - Sabah. Census of British North Borneo, 1921. MB 1(2) {R}
 - Smith, T.E. Population growth in Malaya. MB 25(1) {R}
-- Usman Haji Yaakob. The Malaysian census 2000. MB 79(1)
-- Zaharah bt Hj Mahmud. Traditional settlement in the Malay Peninsula. MB 43(2)
+- [Usman Haji Yaakob](./usman-haji-yaakob.md) (2006). [The Malaysian census 2000: characteristics and critical issues](./the-malaysian-census-2000-characteristics-and-critical-issue.md). *JMBRAS* 79: 27–42
+- [Zaharah binti Hj. Mahmud](./zaharah-binti-hj-mahmud.md) (1970). [The period and the nature of “traditional” settlement in the Malay Peninsula](./the-period-and-the-nature-of-traditional-settlement-in-the-m.md). *JMBRAS* 43(2): 81–112
+
 ## References
 <!-- Grounded occurrences and citations -->

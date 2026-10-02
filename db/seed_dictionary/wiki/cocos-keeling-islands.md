@@ -21,10 +21,11 @@ published: false
 
 ## MBRAS Sources
 
-- Clunies Ross, C. Keeling Cocos [sic] Islands and the German Raider Emden. MB 98(1)
-- Gibson-Hill, C.A. Notes on Cocos-Keeling islands. MB 20(2) and 21(2)
-- Gibson-Hill, C.A. North Keeling Island. MB 21(1)
-- Gibson-Hill, C.A. Establishment of settlement: J.C. Ross and A. Hare. MB 25(4/5)
-- Gibson-Hill, C.A. The early history of the Cocos-Keeling Islands. Reprint 31
+- [C. Clunies Ross](./c-clunies-ross.md) (2025). [Keeling Cocos Islands and the Destruction of the German Raider Emden in 1914. Facsimile reprint. With a note P. Kratoska](./keeling-cocos-islands-and-the-destruction-of-the-german-raid.md). *JMBRAS* 98: 91–98
+- [C.A. Gibson-Hill](./carl-alexander-gibson-hill.md) (1947). [Notes on the Cocos-Keeling Islands](./notes-on-the-cocos-keeling-islands.md). *JMBRAS* 20(2): 140–202
+- [C.A. Gibson-Hill](./carl-alexander-gibson-hill.md) (1948). [The island of North Keeling](./the-island-of-north-keeling.md). *JMBRAS* 21: 68–103
+- [C.A. Gibson-Hill](./carl-alexander-gibson-hill.md) (1952). [Documents relating to John Clunies Ross, Alexander Hare, and the establishment of the colony on the Cocos-Keeling Islands](./documents-relating-to-john-clunies-ross-alexander-hare-and-t.md). *JMBRAS* 25(4/5): 1–306
+- Anon (2011). [The Colourful Early History of the Cocos-Keeling Islands](./the-colourful-early-history-of-the-cocos-keeling-islands.md). ** : 306
+
 ## References
 <!-- Grounded occurrences and citations -->

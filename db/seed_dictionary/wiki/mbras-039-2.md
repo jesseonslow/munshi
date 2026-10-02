@@ -95,20 +95,20 @@ articles:
 
 ## Table of Contents
 * [The study of traditional Malay literature](./the-study-of-traditional-malay-literature.md) — [Ismail Hussein](./ismail-hussein.md) (pp. 1–22)
-* [Abdullah’s voyage to the east coast, seen through contemporary eyes](./abdullahs-voyage-to-the-east-coast-seen-through-contemporary.md) — [C. Skinner](./c-skinner.md) (pp. 23–33)
+* [Abdullah’s voyage to the east coast, seen through contemporary eyes](./abdullahs-voyage-to-the-east-coast-seen-through-contemporary.md) — [C. Skinner](./cyril-skinner.md) (pp. 23–33)
 * [French enterprise in Malaya](./french-enterprise-in-malaya.md) — [J.S.D. Rawlins](./jsd-rawlins.md) (pp. 50–94)
 * [Government in Sarawak under Charles Brooke](./government-in-sarawak-under-charles-brooke.md) — [O.C. Doering](./oc-doering.md) (pp. 95–107)
 * [Joseph B. Balestier: the first American consul in Singapore 1833–1852](./joseph-b-balestier-the-first-american-consul-in-singapore-18.md) — [Sharom Ahmat](./sharom-ahmat.md) (pp. 108–122)
 * [Chinese associations in Singapore](./chinese-associations-in-singapore.md) — [C. Gamba](./c-gamba.md) (pp. 123–168)
 * [A fine trapezoidal gouge and associated items from North Borneo](./a-fine-trapezoidal-gouge-and-associated-items-from-north-bor.md) — [M. Chong](./m-chong.md) (pp. 172–173)
-* [The early land administration and agricultural development of Penang](./the-early-land-administration-and-agricultural-development-o.md) — [K.G. Tregonning](./kg-tregonning.md) (pp. 274–289)
+* [The early land administration and agricultural development of Penang](./the-early-land-administration-and-agricultural-development-o.md) — [K.G. Tregonning](./kennedy-gordon-tregonning.md) (pp. 274–289)
 
 ## Contributors
 * [C. Gamba](./c-gamba.md)
-* [C. Skinner](./c-skinner.md)
+* [C. Skinner](./cyril-skinner.md)
 * [Ismail Hussein](./ismail-hussein.md)
 * [J.S.D. Rawlins](./jsd-rawlins.md)
-* [K.G. Tregonning](./kg-tregonning.md)
+* [K.G. Tregonning](./kennedy-gordon-tregonning.md)
 * [M. Chong](./m-chong.md)
 * [O.C. Doering](./oc-doering.md)
 * [Sharom Ahmat](./sharom-ahmat.md)

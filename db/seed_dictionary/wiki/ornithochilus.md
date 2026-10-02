@@ -19,6 +19,7 @@ published: false
 
 ## MBRAS Sources
 
-- Stone, B.C. Ornithochilus (Orchidaceae) added to Malayan flora. MB 51(2)
+- [B.C. Stone](./bc-stone.md) (1978). [Additions to the Malayan flora No. 6. The genus Ornithochilus (Orthidaceae) new to Malaysia](./additions-to-the-malayan-flora-no-6-the-genus-ornithochilus-.md). *JMBRAS* 51(2): 139–142
+
 ## References
 <!-- Grounded occurrences and citations -->

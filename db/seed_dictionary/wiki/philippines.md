@@ -38,11 +38,12 @@ published: false
 
 ## MBRAS Sources
 
-- Gibson-Hill, C.A. Magindanao. MB 29(1)
+- [C.A. Gibson-Hill](./carl-alexander-gibson-hill.md) (1956). [Magindano](./magindano.md). *JMBRAS* 29: 184
 - Montano, J. Report on a mission to the Philippine Islands and Malaya, 1879–81. SB 15 {R}
 - Müller, Prof. Alphabet of the Philippine group. SB 17 {R}
-- Rennell, J. Borneo-Philippine journey, 1762–3. Ed. T. Harrisson. MB 39(1)
-- Tarling, N. Consul Farren and the Philippines. MB 38(2)
-- Tregonning, K.G. The Philippine claim to Sabah. MB 43(1)
+- [Tom Harrisson](./tom-harrisson.md) and [J. Rennell](./j-rennell.md) (1966). [The unpublished Rennell Ms: a Borneo-Philippine journey, 1762–1763. J. Rennell. . Harrisson](./the-unpublished-rennell-ms-a-borneo-philippine-journey-17621.md). *JMBRAS* 39: 92–136
+- [N. Tarling](./nicholas-tarling.md) (1965). [Consul Farren and the Philippines](./consul-farren-and-the-philippines.md). *JMBRAS* 38(2): 258–273
+- [K.G. Tregonning](./kennedy-gordon-tregonning.md) (1970). [The Philippine claim to Sabah](./the-philippine-claim-to-sabah.md). *JMBRAS* 43: 161–170
+
 ## References
 <!-- Grounded occurrences and citations -->

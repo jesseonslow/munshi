@@ -124,12 +124,12 @@ articles:
 **Date:** December 2023
 
 ## Table of Contents
-* [Raja Bongsu and the Sejarah Melayu: The Tragic Fate of an Ill-starred Prince of Johor (b. 1571–d. 1623). B.K. Cheah, Faris Joraimi and P. Borschberg](./raja-bongsu-and-the-sejarah-melayu-the-tragic-fate-of-an-ill.md) — [P. Borschberg](./p-borschberg.md), [W. Cheah](./w-cheah.md) (pp. 1–28)
+* [Raja Bongsu and the Sejarah Melayu: The Tragic Fate of an Ill-starred Prince of Johor (b. 1571–d. 1623). B.K. Cheah, Faris Joraimi and P. Borschberg](./raja-bongsu-and-the-sejarah-melayu-the-tragic-fate-of-an-ill.md) — [P. Borschberg](./peter-borschberg.md), [W. Cheah](./w-cheah.md) (pp. 1–28)
 * [The Collapse of the Riau Entrepôt in 1784 and the Rise of Singapore](./the-collapse-of-the-riau-entrepôt-in-1784-and-the-rise-of-si.md) — [Khoo Chun Yok](./khoo-chun-yok.md) (pp. 29–48)
 * [Mercantile Life in Early 19th Century Southeast Asia: The Ross Brothers](./mercantile-life-in-early-19th-century-southeast-asia-the-ros.md) — [F. Andrew Smith](./f-andrew-smith.md) (pp. 49–72)
-* [Printing in Early 20th Century Singapore: The Contrasting Fates of C](./printing-in-early-20th-century-singapore-the-contrasting-fat.md) — [B. Luyt](./b-luyt.md) (pp. 73–88)
+* [Printing in Early 20th Century Singapore: The Contrasting Fates of C](./printing-in-early-20th-century-singapore-the-contrasting-fat.md) — [B. Luyt](./brendan-luyt.md) (pp. 73–88)
 * [Centring the Periphery: New Forays in Malaysian Economic History. biblio](./centring-the-periphery-new-forays-in-malaysian-economic-hist.md) — [Loh Wei Leng](./loh-wei-leng.md) (pp. 89–102)
-* [Country Traders, the East India Company, and the Rise of Singapore: ‘On Further Interference with the East-India Company’s Privileges of Exclusive Trade’. Facsimile reprint. With a note P. Kratoska](./country-traders-the-east-india-company-and-the-rise-of-singa.md) — [Anon](./anon-and-unidentifiable-initials.md), [P.H. Kratoska](./ph-kratoska.md) (pp. 103–121)
+* [Country Traders, the East India Company, and the Rise of Singapore: ‘On Further Interference with the East-India Company’s Privileges of Exclusive Trade’. Facsimile reprint. With a note P. Kratoska](./country-traders-the-east-india-company-and-the-rise-of-singa.md) — [Anon](./anon-and-unidentifiable-initials.md), [P.H. Kratoska](./paul-h-kratoska.md) (pp. 103–121)
 * *Acts of Resistance: Dol Said and the Naning War. Shaun Adam* — [Ahmad Kamal Arrifin bin Mohd Rus](./ahmad-kamal-arrifin-bin-mohd-rus.md) (pp. 122–124) [Review]
 * *What It Means to be a Muslimah: The Religious Orientations of Female Muslim Activists in Malaysia. I. Alatas* — [Por Heong Hong](./por-heong-hong.md) (pp. 124–125) [Review]
 * *Fleeting Agencies: A Social History of Indian Coolie Women in British Malaya. A. Datta* — [Shanti Thambiah](./shanti-thambiah.md) (pp. 126–128) [Review]
@@ -138,13 +138,13 @@ articles:
 ## Contributors
 * [Ahmad Kamal Arrifin bin Mohd Rus](./ahmad-kamal-arrifin-bin-mohd-rus.md)
 * [Anon](./anon-and-unidentifiable-initials.md)
-* [B. Luyt](./b-luyt.md)
+* [B. Luyt](./brendan-luyt.md)
 * [Danny Wong Tze-ken](./danny-wong-tze-ken.md)
 * [F. Andrew Smith](./f-andrew-smith.md)
 * [Khoo Chun Yok](./khoo-chun-yok.md)
 * [Loh Wei Leng](./loh-wei-leng.md)
-* [P. Borschberg](./p-borschberg.md)
-* [P.H. Kratoska](./ph-kratoska.md)
+* [P. Borschberg](./peter-borschberg.md)
+* [P.H. Kratoska](./paul-h-kratoska.md)
 * [Por Heong Hong](./por-heong-hong.md)
 * [Shanti Thambiah](./shanti-thambiah.md)
 * [W. Cheah](./w-cheah.md)

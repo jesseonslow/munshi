@@ -18,7 +18,8 @@ published: false
 
 ## MBRAS Sources
 
-- Winstedt, R.O. New Mss. of Malay romance. MB 16(2)
-- Winstedt, R.O. Mount Meru and Chula legends. MB 18(2)
+- [R.O. Winstedt](./richard-olaf-winstedt.md) (1938). [The date, authorship, contents and some new Mss. of the Malay romance of Alexander the Great](./the-date-authorship-contents-and-some-new-mss-of-the-malay-r.md). *JMBRAS* 16(2): 1–23
+- [R.O. Winstedt](./richard-olaf-winstedt.md) (1940). [Alexander the Great and the Mount Meru and Chula legends](./alexander-the-great-and-the-mount-meru-and-chula-legends.md). *JMBRAS* 18(2): 153
+
 ## References
 <!-- Grounded occurrences and citations -->

@@ -21,6 +21,7 @@ published: false
 
 ## MBRAS Sources
 
-- Harrisson, T. Radio-carbon dates from Kota Baru, Brunei. MB 45(1)
+- [Tom Harrisson](./tom-harrisson.md) (1972). [Radio carbon (C–14) dates from Kota Batu, Brunei – back to 12,500 B.C](./radio-carbon-c14-dates-from-kota-batu-brunei-back-to-12500-b.md). *JMBRAS* 45: 111–115
+
 ## References
 <!-- Grounded occurrences and citations -->

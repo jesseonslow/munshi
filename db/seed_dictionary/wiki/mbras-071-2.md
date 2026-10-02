@@ -100,7 +100,7 @@ articles:
 
 ## Table of Contents
 * [“Di dalam nama dan kerananya kita”: A pair of Malay and Javanese letters by Sir Thomas Stamford Raffles](./di-dalam-nama-dan-kerananya-kita-a-pair-of-malay-and-javanes.md) — [Raimy Ché-Ross](./raimy-ché-ross.md) (pp. 1–27)
-* [The sinicization of Malay keramats in Malaysia](./the-sinicization-of-malay-keramats-in-malaysia.md) — [Chen Hock Tong](./chen-hock-tong.md) (pp. 49–64)
+* [The sinicization of Malay keramats in Malaysia](./the-sinicization-of-malay-keramats-in-malaysia.md) — [Cheu Hock Tong](./cheu-hock-tong.md) (pp. 49–64)
 * [Marriage and divorce in Johore among Malay-Muslims during the Japanese occupation, 1942–1945](./marriage-and-divorce-in-johore-among-malay-muslims-during-th.md) — [Abu Talib Ahmad](./abu-talib-ahmad.md) (pp. 63–90)
 * [A history of Malayan history](./a-history-of-malayan-history.md) — [J.M. Gullick](./john-michael-gullick.md) (pp. 91–103)
 * [The rise and fall of the great Melakan empire: moral judgement in Tun Bambang’s Sejarah Melayu](./the-rise-and-fall-of-the-great-melakan-empire-moral-judgemen.md) — [W. Cheah](./w-cheah.md) (pp. 104–121)
@@ -110,7 +110,7 @@ articles:
 
 ## Contributors
 * [Abu Talib Ahmad](./abu-talib-ahmad.md)
-* [Chen Hock Tong](./chen-hock-tong.md)
+* [Cheu Hock Tong](./cheu-hock-tong.md)
 * [J.M. Gullick](./john-michael-gullick.md)
 * [J.N. Miksic](./jn-miksic.md)
 * [Mai Lin Tjoa-Bonatz](./mai-lin-tjoa-bonatz.md)

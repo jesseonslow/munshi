@@ -23,6 +23,7 @@ published: false
 
 ## MBRAS Sources
 
-- Gullick, J.M. Selangor 1876–82: Douglas diary. MB 48(2)
+- [J.M. Gullick](./john-michael-gullick.md) (1975). [Selangor, 1876–82: the Bloomfield Douglas diary](./selangor-187682-the-bloomfield-douglas-diary.md). *JMBRAS* 48(2): 1–51
+
 ## References
 <!-- Grounded occurrences and citations -->

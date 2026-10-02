@@ -43,13 +43,13 @@ articles:
 **Date:** June 1988
 
 ## Table of Contents
-* [Jawi literature in Patani: the maintenance of an Islamic tradition](./jawi-literature-in-patani-the-maintenance-of-an-islamic-trad.md) — [M.B. Hooker](./mb-hooker.md), [V. Matheson](./v-matheson.md) (pp. 1–86)
+* [Jawi literature in Patani: the maintenance of an Islamic tradition](./jawi-literature-in-patani-the-maintenance-of-an-islamic-trad.md) — [M.B. Hooker](./mb-hooker.md), [V. Matheson](./virginia-matheson.md) (pp. 1–86)
 * [Patani during the turn of the 20th century: a Malayan perception](./patani-during-the-turn-of-the-20th-century-a-malayan-percept.md) — [Khoo Kay Kim](./khoo-kay-kim.md) (pp. 86–116)
 
 ## Contributors
 * [Khoo Kay Kim](./khoo-kay-kim.md)
 * [M.B. Hooker](./mb-hooker.md)
-* [V. Matheson](./v-matheson.md)
+* [V. Matheson](./virginia-matheson.md)
 
 ## References
 <!-- Grounded occurrences and citations -->

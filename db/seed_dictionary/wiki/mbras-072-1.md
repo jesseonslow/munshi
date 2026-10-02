@@ -118,26 +118,26 @@ articles:
 
 ## Table of Contents
 * [Annexation in the Malay states: the Jervois papers](./annexation-in-the-malay-states-the-jervois-papers.md) — [P.L. Burns](./pl-burns.md) (pp. 1–94)
-* [Changes in the trading ties between China and Malaya, prewar to postwar,](./changes-in-the-trading-ties-between-china-and-malaya-prewar-.md) — [N. Dening](./n-dening.md) (pp. 95–112)
-* [Temasik as an international and regional trading post in the thirteenth and fourteenth centuries: a reconstruction based on recent archaeological data](./temasik-as-an-international-and-regional-trading-post-in-the.md) — [D. Heng Thiam Soon](./d-heng-thiam-soon.md) (pp. 113–124)
+* [Changes in the trading ties between China and Malaya, prewar to postwar,](./changes-in-the-trading-ties-between-china-and-malaya-prewar-.md) — [N. Dening](./nie-dening.md) (pp. 95–112)
+* [Temasik as an international and regional trading post in the thirteenth and fourteenth centuries: a reconstruction based on recent archaeological data](./temasik-as-an-international-and-regional-trading-post-in-the.md) — [D. Heng Thiam Soon](./derek-heng-thiam-soon.md) (pp. 113–124)
 * [Malay words in Baba Hokkien](./malay-words-in-baba-hokkien.md) — [Lim Beng Soon](./lim-beng-soon.md), [Boon Seong Teoh](./boon-seong-teoh.md) (pp. 125–137)
 * *Biographical dictionary of the Chinese in Malaya* — [P. Lim Pui Huen](./p-lim-pui-huen.md), [Lee Kam Hing](./lee-kam-hing.md), [Chow Moon Seong](./chow-moon-seong.md) (pp. 138–139) [Review]
 * *Glimpses of Selangor 1860–1898. J.M. Gullick* — [Khasnor Johan](./khasnor-johan.md) (pp. 140–141) [Review]
 * *Roaming through seductive gardens: readings in Malay narrative. G.L. Koster* — [Hadijah bte Rahmat](./hadijah-bte-rahmat.md) (pp. 142–144) [Review]
 * *Food supplies and the Japanese occupation in South-East Asia. P.H. Kratoska* — [R.D. Hill](./rd-hill.md) (pp. 144–146) [Review]
-* *Malaysia and the original people: a case study of the impact of development on indigenous peoples. R.K. Dentan, K. Endicott, A.L* — [H.S. Barlow](./hs-barlow.md), [M.B. Hooker](./mb-hooker.md) (pp. 146–147) [Review]
+* *Malaysia and the original people: a case study of the impact of development on indigenous peoples. R.K. Dentan, K. Endicott, A.L* — [H.S. Barlow](./henry-sackville-barlow.md), [M.B. Hooker](./mb-hooker.md) (pp. 146–147) [Review]
 
 ## Contributors
 * [Boon Seong Teoh](./boon-seong-teoh.md)
 * [Chow Moon Seong](./chow-moon-seong.md)
-* [D. Heng Thiam Soon](./d-heng-thiam-soon.md)
-* [H.S. Barlow](./hs-barlow.md)
+* [D. Heng Thiam Soon](./derek-heng-thiam-soon.md)
+* [H.S. Barlow](./henry-sackville-barlow.md)
 * [Hadijah bte Rahmat](./hadijah-bte-rahmat.md)
 * [Khasnor Johan](./khasnor-johan.md)
 * [Lee Kam Hing](./lee-kam-hing.md)
 * [Lim Beng Soon](./lim-beng-soon.md)
 * [M.B. Hooker](./mb-hooker.md)
-* [N. Dening](./n-dening.md)
+* [N. Dening](./nie-dening.md)
 * [P. Lim Pui Huen](./p-lim-pui-huen.md)
 * [P.L. Burns](./pl-burns.md)
 * [R.D. Hill](./rd-hill.md)

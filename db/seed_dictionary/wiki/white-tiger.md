@@ -23,6 +23,7 @@ published: false
 <!-- Synthesis engine: Insert introductory synthesis for White tiger here -->
 
 ## MBRAS Sources
+
 <!-- Seed entries or targeted retrieval for White tiger -->
 
 ## References

@@ -21,7 +21,8 @@ published: false
 
 ## MBRAS Sources
 
-- Tarling, N. The prince of merchants and the Lion City. MB 37(1)
-- Wurtzburg, C.E. Private letterbooks of John Palmer. MB 22(1)
+- [N. Tarling](./nicholas-tarling.md) (1964). [The prince of merchants and the Lion city](./the-prince-of-merchants-and-the-lion-city.md). *JMBRAS* 37: 20–40
+- [C.E. Wurtzburg](./ce-wurtzburg.md) (1949). [The private letter books of John Palmer](./the-private-letter-books-of-john-palmer.md). *JMBRAS* 22: 182–183
+
 ## References
 <!-- Grounded occurrences and citations -->

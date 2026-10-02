@@ -68,16 +68,16 @@ articles:
 **Date:** December 1971
 
 ## Table of Contents
-* [Sir Cecil Clementi and the Federation of British Borneo](./sir-cecil-clementi-and-the-federation-of-british-borneo.md) — [N. Tarling](./n-tarling.md) (pp. 1–34)
+* [Sir Cecil Clementi and the Federation of British Borneo](./sir-cecil-clementi-and-the-federation-of-british-borneo.md) — [N. Tarling](./nicholas-tarling.md) (pp. 1–34)
 * [Prehistoric double-spouted vessels excavated from Niah Caves, Borneo](./prehistoric-double-spouted-vessels-excavated-from-niah-caves.md) — [Tom Harrisson](./tom-harrisson.md) (pp. 35–78)
-* [Peran Hutan, a Malay wayang drama](./peran-hutan-a-malay-wayang-drama.md) — [A. Sweeney](./a-sweeney.md) (pp. 79–107)
+* [Peran Hutan, a Malay wayang drama](./peran-hutan-a-malay-wayang-drama.md) — [A. Sweeney](./amin-sweeney.md) (pp. 79–107)
 * [Geographic notes on the first two centuries of Djakarta](./geographic-notes-on-the-first-two-centuries-of-djakarta.md) — [C. Clunies Ross](./c-clunies-ross.md) (pp. 108–150)
 * [Materials for historical geography and economic history of Southeast Asia in nineteenth century Malayan newspapers](./materials-for-historical-geography-and-economic-history-of-s.md) — [R.D. Hill](./rd-hill.md) (pp. 151–198)
 
 ## Contributors
-* [A. Sweeney](./a-sweeney.md)
+* [A. Sweeney](./amin-sweeney.md)
 * [C. Clunies Ross](./c-clunies-ross.md)
-* [N. Tarling](./n-tarling.md)
+* [N. Tarling](./nicholas-tarling.md)
 * [R.D. Hill](./rd-hill.md)
 * [Tom Harrisson](./tom-harrisson.md)
 

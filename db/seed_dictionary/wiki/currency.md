@@ -25,6 +25,7 @@ published: false
 <!-- Synthesis engine: Insert introductory synthesis for Currency here -->
 
 ## MBRAS Sources
+
 <!-- Seed entries or targeted retrieval for Currency -->
 
 ## References

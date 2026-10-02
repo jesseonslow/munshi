@@ -28,15 +28,16 @@ published: false
 
 ## MBRAS Sources
 
-- Banks, E. Gomanton caves. MB 31(1)
+- [E. Banks](./e-banks.md) (1958). [Gomanton caves](./gomanton-caves.md). *JMBRAS* 31: 177–178
 - Cameron, W.D. Kota Glanggi, Pahang. SB 9
-- Daly, D. Batu caves, Selangor. SB 3
-- Everett, A.H. Exploration of caves in Borneo. SB 6
-- Gebauer, D. Gua Tempurong. MB 68(1)
-- Goh, H.-M. Cave burials at Gua Kajang, Perak. MB 91(2)
-- Harrisson, T. Cave burials at Magala, Sekaloh, Niah, Sarawak. MB 41(2)
-- Orolfo, P. Old coffins in Sabah caves. MB 11(2)
-- Ridley, H.N. The white snake of the Selangor caves. SB 31
-- Wallon, M.L.H. Klouwang and its caves, Aceh. SB 8
+- [D.D. Daly](./dd-daly.md) (1879). [Caves at Sungei Batu in Selangor](./caves-at-sungei-batu-in-selangor.md). *JSBRAS* 3: 116–119
+- [A.H. Everett](./alfred-hart-everett.md) (1880). [Report on the exploration of the caves of Borneo. A.H. Everett, Introductory remarks J. Evans, and notes on bones collected G. Busk](./report-on-the-exploration-of-the-caves-of-borneo-ah-everett-.md). *JSBRAS* 6: 273–287
+- [D. Gebauer](./d-gebauer.md) and [L. Price](./l-price.md) (1995). [Gua Tempurong](./gua-tempurong.md). *JMBRAS* 68: 29–52
+- [Ahmad Fauzi Abdul Hamid](./ahmad-fauzi-abdul-hamid.md) et al. (2019). [Shariaization of Malay-Muslim identity in contemporary Malaysia](./shariaization-of-malay-muslim-identity-in-contemporary-malay.md). *JMBRAS* 91(2): 1–18
+- [Harrisson B](./harrisson-b.md) and [Tom Harrisson](./tom-harrisson.md) (1968). [Magala – a series of Neolithic and Metal Age burial grottos at Sekaloh, Niah, Sarawak](./magala-a-series-of-neolithic-and-metal-age-burial-grottos-at.md). *JMBRAS* 41(2): 148–175
+- [P. Orolfo](./p-orolfo.md) (1933). [Old coffins in British North Borneo caves](./old-coffins-in-british-north-borneo-caves.md). *JMBRAS* 11(2): 133–134
+- [H.N. Ridley](./henry-nicholas-ridley.md) (1898). [The white snake of the Selangor caves](./the-white-snake-of-the-selangor-caves.md). *JSBRAS* 31: 99–101
+- [D.F.A. Hervey](./dudley-francis-amelius-hervey.md) and [M.L.H. Wallon](./mlh-wallon.md) (1881). [Klouwang and its caves, west coast of Atchin; travelling notes of M.L.H. Wallon, civil engineer of mines. .F.A. Hervey](./klouwang-and-its-caves-west-coast-of-atchin-travelling-notes.md). *JSBRAS* 8: 153–158
+
 ## References
 <!-- Grounded occurrences and citations -->

@@ -120,21 +120,20 @@ articles:
 * [The Malayan Emergency: General Templer and the Kinta Valley home guard](./the-malayan-emergency-general-templer-and-the-kinta-valley-h.md) — [L. Comber](./l-comber.md) (pp. 45–62)
 * [New lamps for old: modern nautical terms for ancient marine practices and the navigation of the Zheng He voyages](./new-lamps-for-old-modern-nautical-terms-for-ancient-marine-p.md) — [P.J. Rivers](./pj-rivers.md) (pp. 85–98)
 * [Public art, nationalism and national unification in Malaya/Malaysia](./public-art-nationalism-and-national-unification-in-malayamal.md) — [W.R. Roff](./wr-roff.md) (pp. 99–100)
-* *A servant of Sarawak: reminiscences of a Crown Counsel in 1950s Borneo. P. Mooney* — [H.S. Barlow](./hs-barlow.md) (pp. 105–106) [Review]
+* *A servant of Sarawak: reminiscences of a Crown Counsel in 1950s Borneo. P. Mooney* — [H.S. Barlow](./henry-sackville-barlow.md) (pp. 105–106) [Review]
 * *Palace, political party and power: a story of the socio-political development of Malay kingship. Kobkua Suwannathat-Pian* — [N. Lee](./n-lee.md) (pp. 106–108) [Review]
 * *Modern Muslim identities: negotiating religion and ethnicity in Malaysia. G. Hoffstaedter* — [Mahani Musa](./mahani-musa.md) (pp. 111–114) [Review]
-* *Chinese business in the making of a Malay state, 1882‒1942: Kedah and Penang. Wu Xiao Aun* — [N. Khor Jin Keong](./n-khor-jin-keong.md) (pp. 115–117) [Review]
+* *Chinese business in the making of a Malay state, 1882‒1942: Kedah and Penang. Wu Xiao Aun* — [N. Khor Jin Keong](./neil-khor-jin-keong.md) (pp. 115–117) [Review]
 * *Bangsa and umma: development of people-grouping concepts in Islamized Southeast Asia. . Hirozuki et al* — [Abu Talib Ahmad](./abu-talib-ahmad.md) (pp. 118–122) [Review]
-* [Dato’ John M. Gullick JSM (1916–2012). Obituary](./dato-john-m-gullick-jsm-19162012-obituary.md) — [H.S. Barlow](./hs-barlow.md) (pp. 123–125)
+* [Dato’ John M. Gullick JSM (1916–2012). Obituary](./dato-john-m-gullick-jsm-19162012-obituary.md) — [H.S. Barlow](./henry-sackville-barlow.md) (pp. 123–125)
 
 ## Contributors
 * [Abu Talib Ahmad](./abu-talib-ahmad.md)
-* [H.S. Barlow](./hs-barlow.md)
+* [H.S. Barlow](./henry-sackville-barlow.md)
 * [Izrin Muaz Md Adnan](./izrin-muaz-md-adnan.md)
 * [L. Comber](./l-comber.md)
 * [Mahani Musa](./mahani-musa.md)
-* [N. Khor Jin Keong](./n-khor-jin-keong.md)
-* [N. Lee](./n-lee.md)
+* [N. Khor Jin Keong](./neil-khor-jin-keong.md)
 * [P.J. Rivers](./pj-rivers.md)
 * [W.R. Roff](./wr-roff.md)
 

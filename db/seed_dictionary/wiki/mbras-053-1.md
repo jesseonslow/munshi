@@ -32,10 +32,10 @@ articles:
 **Date:** None 
 
 ## Table of Contents
-* [Carl A. Gibson-Hill: Photography, History, Boats, and Birds in Late-Colonial Malaya and Singapore](./carl-a-gibson-hill-photography-history-boats-and-birds-in-la.md) — [B. Luyt](./b-luyt.md)
+* [Carl A. Gibson-Hill: Photography, History, Boats, and Birds in Late-Colonial Malaya and Singapore](./carl-a-gibson-hill-photography-history-boats-and-birds-in-la.md) — [B. Luyt](./brendan-luyt.md)
 
 ## Contributors
-* [B. Luyt](./b-luyt.md)
+* [B. Luyt](./brendan-luyt.md)
 
 ## References
 <!-- Grounded occurrences and citations -->

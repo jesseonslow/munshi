@@ -138,7 +138,7 @@ articles:
 
 ## Table of Contents
 * [Sir Arthur Young and political control of the Chinese in Malaya and the Straits Settlements](./sir-arthur-young-and-political-control-of-the-chinese-in-mal.md) — [R.B. McKenna](./rb-mckenna.md), [C.F. Yong](./cf-yong.md) (pp. 1–30)
-* [Penghulus in Perak and Selangor: rationalisation and decline of a traditional Malay office](./penghulus-in-perak-and-selangor-rationalisation-and-decline-.md) — [P.H. Kratoska](./ph-kratoska.md) (pp. 31–60)
+* [Penghulus in Perak and Selangor: rationalisation and decline of a traditional Malay office](./penghulus-in-perak-and-selangor-rationalisation-and-decline-.md) — [P.H. Kratoska](./paul-h-kratoska.md) (pp. 31–60)
 * [The London Missionary Society: a written record of missionaries and printing presses in the Straits Settlements 1815–1847](./the-london-missionary-society-a-written-record-of-missionari.md) — [L. O'Sullivan](./l-osullivan.md) (pp. 61–104)
 * [Chewong (Siwang) in perspective](./chewong-siwang-in-perspective.md) — [R. Needham](./r-needham.md) (pp. 105–112)
 * [The sources of Abd’ Al-Rauf ‘s Tarjumān Al-Mustafid](./the-sources-of-abd-al-rauf-s-tarjumān-al-mustafid.md) — [P. Riddell](./p-riddell.md), [Mubin Sheppard](./mubin-sheppard.md) (pp. 113–118)
@@ -147,10 +147,10 @@ articles:
 * *History, culture and religion in Southeast Asian perspectives. O.W. Wolters* — [K.W. Taylor](./kw-taylor.md) (pp. 129–130) [Review]
 * *Kerajaan: Malay political culture on the eve of colonial rule. A.C. Milner* — [J. Saravanamuttu](./j-saravanamuttu.md) (pp. 131–133) [Review]
 * *A journal in the federal capital* — [P.C. Wicks](./pc-wicks.md) (pp. 134–135) [Review]
-* *The precious gift (Tuhfat-al-nafis* — [Siti Hawa bt Haji Saleh](./siti-hawa-bt-haji-saleh.md), [Matheson](./matheson.md), [B.W. Andaya](./bw-andaya.md) (pp. 136–139) [Review]
+* *The precious gift (Tuhfat-al-nafis* — [Siti Hawa bt Haji Saleh](./siti-hawa-bt-haji-saleh.md), [Matheson](./matheson.md), [B.W. Andaya](./barbara-watson-andaya.md) (pp. 136–139) [Review]
 
 ## Contributors
-* [B.W. Andaya](./bw-andaya.md)
+* [B.W. Andaya](./barbara-watson-andaya.md)
 * [C.F. Yong](./cf-yong.md)
 * [J. Saravanamuttu](./j-saravanamuttu.md)
 * [K.W. Taylor](./kw-taylor.md)
@@ -160,7 +160,7 @@ articles:
 * [Mubin Sheppard](./mubin-sheppard.md)
 * [P. Riddell](./p-riddell.md)
 * [P.C. Wicks](./pc-wicks.md)
-* [P.H. Kratoska](./ph-kratoska.md)
+* [P.H. Kratoska](./paul-h-kratoska.md)
 * [R. Needham](./r-needham.md)
 * [R.B. McKenna](./rb-mckenna.md)
 * [Sanib Said](./sanib-said.md)

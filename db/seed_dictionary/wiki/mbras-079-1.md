@@ -129,14 +129,14 @@ articles:
 * [A variant epilogue to an epic tale: the ‘latest’ recension of Hikayat Hang Tuah](./a-variant-epilogue-to-an-epic-tale-the-latest-recension-of-h.md) — [Raimy Ché-Ross](./raimy-ché-ross.md) (pp. 67–106)
 * [Repeal of the Rent Control Act and its impact on the pre-war shop-houses in Georgetown, Malaysia](./repeal-of-the-rent-control-act-and-its-impact-on-the-pre-war.md) — [Mohammad Abdul Mohit](./mohammad-abdul-mohit.md), [Mohd Bashir Sulaiman](./mohd-bashir-sulaiman.md) (pp. 107–121)
 * *Bidasari: jewel of Malay Muslim culture by J. Millie* — [L. Sinha](./l-sinha.md) (pp. 123–125) [Review]
-* *Malay College Kuala Kangsar, 1905–2005: what’s next? Khasnor Johan* — [H.S. Barlow](./hs-barlow.md) (pp. 125–126) [Review]
+* *Malay College Kuala Kangsar, 1905–2005: what’s next? Khasnor Johan* — [H.S. Barlow](./henry-sackville-barlow.md) (pp. 125–126) [Review]
 * *The Singapore River: a social history, 1819–2002. S. Dobbs* — [Kwa Chong Guan](./kwa-chong-guan.md) (pp. 127–128) [Review]
 * *Did Singapore have to fall? Churchill and the impregnable fortress, by K* — [Fook Weng Loo](./fook-weng-loo.md), [K. Blackburn](./k-blackburn.md) (pp. 128–130) [Review]
 
 ## Contributors
 * [B.A. Hussainmiya](./ba-hussainmiya.md)
 * [Fook Weng Loo](./fook-weng-loo.md)
-* [H.S. Barlow](./hs-barlow.md)
+* [H.S. Barlow](./henry-sackville-barlow.md)
 * [J.M. Gullick](./john-michael-gullick.md)
 * [K. Blackburn](./k-blackburn.md)
 * [K. Shinozaki](./k-shinozaki.md)

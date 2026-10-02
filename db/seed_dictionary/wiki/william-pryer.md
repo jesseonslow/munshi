@@ -18,6 +18,7 @@ published: false
 
 ## MBRAS Sources
 
-- Tregonning, K.G. William Pryer, founder of Sandakan. MB 27(1)
+- [K.G. Tregonning](./kennedy-gordon-tregonning.md) (1954). [William Pryer, the founder of Sandakan](./william-pryer-the-founder-of-sandakan.md). *JMBRAS* 27: 35–50
+
 ## References
 <!-- Grounded occurrences and citations -->

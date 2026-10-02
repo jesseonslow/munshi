@@ -89,7 +89,7 @@ articles:
 **Date:** December 1990
 
 ## Table of Contents
-* [Sir Stamford Raffles and the study of natural history in Penang, Singapore and Indonesia](./sir-stamford-raffles-and-the-study-of-natural-history-in-pen.md) — [J.S. Bastin](./js-bastin.md) (pp. 1–25)
+* [Sir Stamford Raffles and the study of natural history in Penang, Singapore and Indonesia](./sir-stamford-raffles-and-the-study-of-natural-history-in-pen.md) — [J.S. Bastin](./john-bastin.md) (pp. 1–25)
 * [Munshi Abdullah’s Arab teachers](./munshi-abdullahs-arab-teachers.md) — [A. Talib Yusof](./a-talib-yusof.md) (pp. 27–34)
 * [Education in Sarawak during the period of colonial administration 1846–1961](./education-in-sarawak-during-the-period-of-colonial-administr.md) — [Ooi Keat Gin](./ooi-keat-gin.md) (pp. 35–68)
 * [Tall tales from Trengganu. II](./tall-tales-from-trengganu-ii.md) — [N. Rees](./n-rees.md) (pp. 69–76)
@@ -101,7 +101,7 @@ articles:
 * [A. Talib Yusof](./a-talib-yusof.md)
 * [Ahmat Adam](./ahmat-adam.md)
 * [H.E. Wilson](./he-wilson.md)
-* [J.S. Bastin](./js-bastin.md)
+* [J.S. Bastin](./john-bastin.md)
 * [Lee Kam Hing](./lee-kam-hing.md)
 * [N. Rees](./n-rees.md)
 * [Ooi Keat Gin](./ooi-keat-gin.md)

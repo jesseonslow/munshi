@@ -23,9 +23,10 @@ published: false
 
 ## MBRAS Sources
 
-- A. Rahman Tang Abdullah. Sultan Abu Bakar’s foreign guests and travels abroad, 1860s–1895. MB 84(1)
+- [A. Rahman Tang Abdullah](./a-rahman-tang-abdullah.md) (2011). [Sultan Abu Bakar’s foreign guests and travels abroad, 1860s-1895: fact and fiction in early Malay historical accounts](./sultan-abu-bakars-foreign-guests-and-travels-abroad-1860s-18.md). *JMBRAS* 84: 1–22
 - A. Rahman Tang Abdullah. _Hikayat Johor dan Tawarikh Almarhum Sultan Abu Bakar_. MB 87(2) {R}
-- Candilio, A. Sultan Abu Bakar’s visit to the Pope in 1885. MB 73(1)
-- Weld, F.A. Visits of the Governor to the Maharajah of Johor. MB 95(1)
+- [L. Bressan](./l-bressan.md) and [A. Candilio](./a-candilio.md) (2000). [Sultan Abu Bakar’s visit to the Italian king and to the Pope](./sultan-abu-bakars-visit-to-the-italian-king-and-to-the-pope.md). *JMBRAS* 73: 43–54
+- [F.A Weld](./fa-weld.md) (2022). [Visits of the Governor of the Straits Settlements to the Maharajah of Johor in 1874, 1880, and 1882. Facsimile reprint](./visits-of-the-governor-of-the-straits-settlements-to-the-mah.md). *JMBRAS* 95: 105–119
+
 ## References
 <!-- Grounded occurrences and citations -->

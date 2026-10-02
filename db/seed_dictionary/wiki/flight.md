@@ -19,6 +19,7 @@ published: false
 
 ## MBRAS Sources
 
-- Banks, E. Ratio of weight to wing area in animal flight. MB 8(2)
+- [E. Banks](./e-banks.md) (1930). [The relation of weight to wing area in the flight of animals](./the-relation-of-weight-to-wing-area-in-the-flight-of-animals.md). *JMBRAS* 8(2): 334–360
+
 ## References
 <!-- Grounded occurrences and citations -->

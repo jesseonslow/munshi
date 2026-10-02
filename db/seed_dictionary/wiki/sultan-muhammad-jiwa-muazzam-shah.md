@@ -19,6 +19,7 @@ published: false
 
 ## MBRAS Sources
 
-- Jones, R. Two letters from Sultan Muhammad to Francis Light. MB 54(3)
+- [R. Jones](./r-jones.md) (1981). [Two Malay letters written by Sultan Muhammad Jiwa Muazzam Shah of Kedah to Captain Francis Light: with appendix](./two-malay-letters-written-by-sultan-muhammad-jiwa-muazzam-sh.md). *JMBRAS* 54(3): 24–34
+
 ## References
 <!-- Grounded occurrences and citations -->

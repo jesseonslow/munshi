@@ -24,8 +24,9 @@ published: false
 
 ## MBRAS Sources
 
-- Cardon, R. Portuguese church of St Paul, Malacca. MB 12(2)
+- [R. Cardon](./r-cardon.md) (1934). [The Portuguese Church of St. Paul](./the-portuguese-church-of-st-paul.md). *JMBRAS* 12(2): 38–39
 - Hardy, T.J. Catalogue of church records at Malacca, 1642–1898. MB 15(1)
-- Schurhammer, Rev. Church of St Paul, Malacca. MB 12(2)
+- [Schurhammer](./schurhammer.md) (1934). [The Church of St. Paul, Malacca](./the-church-of-st-paul-malacca.md). *JMBRAS* 12(2): 40–43
+
 ## References
 <!-- Grounded occurrences and citations -->

@@ -20,6 +20,7 @@ published: false
 
 ## MBRAS Sources
 
-- Braddell, R. An Essex sailor. MB 32(1)
+- [R. Braddell](./r-braddell.md) (1959). [An Essex sailor](./an-essex-sailor.md). *JMBRAS* 32: 33–66
+
 ## References
 <!-- Grounded occurrences and citations -->

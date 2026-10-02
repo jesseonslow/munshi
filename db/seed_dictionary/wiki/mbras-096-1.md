@@ -175,11 +175,11 @@ articles:
 * [Kung Tian Cheng: From Confucian Scholar in Singapore to Reformer in the Chinese Republic](./kung-tian-cheng-from-confucian-scholar-in-singapore-to-refor.md) — [B. Tan](./b-tan.md) (pp. 81–97)
 * [Constructing Colonial Benevolence: Portraits of Persons with Leprosy in British Malaya](./constructing-colonial-benevolence-portraits-of-persons-with-.md) — [Por Heong Hong](./por-heong-hong.md) (pp. 99–120)
 * [Recording the Emergency: On the Historical Fiction of Jin Zhimang, Anthony Burgess, and Han Suyin](./recording-the-emergency-on-the-historical-fiction-of-jin-zhi.md) — [J. Chan](./j-chan.md) (pp. 121–148)
-* [The Trading Environment in the Melaka Straits, c. 1800–1830. Comp. P.H. Kratoska](./the-trading-environment-in-the-melaka-straits-c-18001830-com.md) — [P.H. Kratoska](./ph-kratoska.md), [Various](./various.md) (pp. 149–154)
+* [The Trading Environment in the Melaka Straits, c. 1800–1830. Comp. P.H. Kratoska](./the-trading-environment-in-the-melaka-straits-c-18001830-com.md) — [P.H. Kratoska](./paul-h-kratoska.md), [Various](./various.md) (pp. 149–154)
 * *Carl A. Gibson-Hill: Photography, History, Boats, and Birds in Late-Colonial Malaya and Singapore. B. Luyt* — [Kwa Chong Guan](./kwa-chong-guan.md) (pp. 155–159) [Review]
 * *The Malay Nobat: A History of Power, Acculturation, and Sovereignty. L.N. Ross* — [Iskandar bin Raja Halid Raja](./iskandar-bin-raja-halid-raja.md) (pp. 159–161) [Review]
 * *Belitung, the afterlives of a shipwreck. N. Pearson* — [Y. Crowe](./y-crowe.md) (pp. 161–163) [Review]
-* *An Illustrious Heritage: The History of Tan Tock Seng and Family. . Tan* — [J. Lim](./j-lim.md) (pp. 163–164) [Review]
+* *An Illustrious Heritage: The History of Tan Tock Seng and Family. . Tan* — [J. Lim](./jhs-lim.md) (pp. 163–164) [Review]
 * *Life After: Oral Histories of the May 13 Incident. . Leong, Tung Wan Qing, and Por Heong Hong* — [H. Ting Mu Hung](./h-ting-mu-hung.md) (pp. 164–166) [Review]
 * *The Pioneer Merchants of Singapore: Johnston, Boustead, Guthrie and Others. R.E. Hale* — [Seng Guo-Quan](./seng-guo-quan.md) (pp. 166–167) [Review]
 * *The Straits Philosophical Society and Colonial Elites in Malaya: Selected Paper on Race, Identity, and Social Order. . Brophy* — [Azly Rahman](./azly-rahman.md) (pp. 168–169) [Review]
@@ -193,11 +193,11 @@ articles:
 * [H. Ting Mu Hung](./h-ting-mu-hung.md)
 * [Iskandar bin Raja Halid Raja](./iskandar-bin-raja-halid-raja.md)
 * [J. Chan](./j-chan.md)
-* [J. Lim](./j-lim.md)
+* [J. Lim](./jhs-lim.md)
 * [K.E.Y. Low](./key-low.md)
 * [Kwa Chong Guan](./kwa-chong-guan.md)
 * [L.A. Mills](./la-mills.md)
-* [P.H. Kratoska](./ph-kratoska.md)
+* [P.H. Kratoska](./paul-h-kratoska.md)
 * [Por Heong Hong](./por-heong-hong.md)
 * [Seng Guo-Quan](./seng-guo-quan.md)
 * [Various](./various.md)

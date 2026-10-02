@@ -124,13 +124,13 @@ articles:
 * [Governors’ houses](./governors-houses.md) — [J.M. Gullick](./john-michael-gullick.md) (pp. 123–137)
 * *Operation Matador: Britain’s war plans against the Japanese 1918–1941. Ong Chit Chung* — [E.B. Reynolds](./eb-reynolds.md) (pp. 138–139) [Review]
 * *Creating space: power relations and the urban built environment in Singapore. B.S.A. Yeoh* — [J.F. Warren](./jf-warren.md) (pp. 140–142) [Review]
-* *Tinggal kenangan: the memoirs of Dato Sir Mahmud bin Mat* — [H.S. Barlow](./hs-barlow.md) (pp. 142–143) [Review]
+* *Tinggal kenangan: the memoirs of Dato Sir Mahmud bin Mat* — [H.S. Barlow](./henry-sackville-barlow.md) (pp. 142–143) [Review]
 
 ## Contributors
 * [D.S. Ranjit Singh](./ds-ranjit-singh.md)
 * [E.B. Reynolds](./eb-reynolds.md)
 * [Goh Chor Boon](./goh-chor-boon.md)
-* [H.S. Barlow](./hs-barlow.md)
+* [H.S. Barlow](./henry-sackville-barlow.md)
 * [J.F. Warren](./jf-warren.md)
 * [J.M. Gullick](./john-michael-gullick.md)
 * [Khoo Kay Kim](./khoo-kay-kim.md)

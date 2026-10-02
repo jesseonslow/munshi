@@ -19,6 +19,7 @@ published: false
 
 ## MBRAS Sources
 
-- Kloss, C.B. The pied cuckoo-shrike. MB 4(1) and 5(2)
+- [C.B. Kloss](./cb-kloss.md) (1926). [The pied cuckoo-shrike. Records of the Raffles Museum, No. 16](./the-pied-cuckoo-shrike-records-of-the-raffles-museum-no-16.md). *JMBRAS* 4: 158–161
+
 ## References
 <!-- Grounded occurrences and citations -->

@@ -20,6 +20,7 @@ published: false
 
 ## MBRAS Sources
 
-- Gibson-Hill, C.A. His alleged death in Acheh in 1613. MB 29(1)
+- [C.A. Gibson-Hill](./carl-alexander-gibson-hill.md) (1956). [On the alleged death of Sultan Al’a’ud-din of Johore at Acheh, in 1613](./on-the-alleged-death-of-sultan-alaud-din-of-johore-at-acheh-.md). *JMBRAS* 29: 125–145
+
 ## References
 <!-- Grounded occurrences and citations -->

@@ -18,6 +18,7 @@ published: false
 
 ## MBRAS Sources
 
-- Tweedie, M.W.F. Obituary. MB 24(1)
+- [M.W.F. Tweedie](./michael-wilmer-forbes-tweedie.md) (1951). [Anker Rentse. Obituary](./anker-rentse-obituary.md). *JMBRAS* 24: 192–193
+
 ## References
 <!-- Grounded occurrences and citations -->

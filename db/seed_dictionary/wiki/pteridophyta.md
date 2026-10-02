@@ -18,6 +18,7 @@ published: false
 
 ## MBRAS Sources
 
-- Holttum, R.E. Pteridophyta from Mentawi Island. MB 6(1)
+- [R.E. Holttum](./re-holttum.md) (1928). [Spolia mentawiensia: Pteridophyta](./spolia-mentawiensia-pteridophyta.md). *JMBRAS* 6: 14–23
+
 ## References
 <!-- Grounded occurrences and citations -->

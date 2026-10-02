@@ -175,12 +175,12 @@ articles:
 * [The Japanese Occupation in Pahang, January 1942–September 1945](./the-japanese-occupation-in-pahang-january-1942september-1945.md) — [Abu Talib Ahmad](./abu-talib-ahmad.md) (pp. 30–52)
 * [The Tribulations of a Man Who Would Be King: Anthoni Brooke of Sarawak (1912–2011](./the-tribulations-of-a-man-who-would-be-king-anthoni-brooke-o.md) — [Ooi Keat Gin](./ooi-keat-gin.md) (pp. 53–85)
 * [Revisiting the Legal Status of Sabah and Sarawak in Malaysia](./revisiting-the-legal-status-of-sabah-and-sarawak-in-malaysia.md) — [A. Rahman Tang Abdullah](./a-rahman-tang-abdullah.md) (pp. 86–101)
-* [Some First-Hand Accounts of the Japanese Occupation](./some-first-hand-accounts-of-the-japanese-occupation.md) — [P.H. Kratoska](./ph-kratoska.md) (pp. 102–123)
+* [Some First-Hand Accounts of the Japanese Occupation](./some-first-hand-accounts-of-the-japanese-occupation.md) — [P.H. Kratoska](./paul-h-kratoska.md) (pp. 102–123)
 * [Feudalisme Melayu: Ciri-Ciri dan Pensejarahannya](./feudalisme-melayu-ciri-ciri-dan-pensejarahannya.md) — [W. Cheah](./w-cheah.md) (pp. 124–152)
-* [Escape from the Thailand-Burma Railway: The Wartime Journey of Teh bin Said. P.H. Kratoska and Yuszah Akmal binti Yusoff](./escape-from-the-thailand-burma-railway-the-wartime-journey-o.md) — [P.H. Kratoska](./ph-kratoska.md), [Yuszah Akmal binti Yusoff](./yuszah-akmal-binti-yusoff.md) (pp. 153–165)
+* [Escape from the Thailand-Burma Railway: The Wartime Journey of Teh bin Said. P.H. Kratoska and Yuszah Akmal binti Yusoff](./escape-from-the-thailand-burma-railway-the-wartime-journey-o.md) — [P.H. Kratoska](./paul-h-kratoska.md), [Yuszah Akmal binti Yusoff](./yuszah-akmal-binti-yusoff.md) (pp. 153–165)
 * *Malaysiakini and the Power of Independent Media in Malaysia. J. Steele* — [Yeoh Seng-Guan](./yeoh-seng-guan.md) (pp. 166–168) [Review]
 * *The Middle East and the Malay World: Contemporary Issues and Future Challenges* — [Muhamad Hasrul Zakariah](./muhamad-hasrul-zakariah.md), [a-alami](./a-alami.md), [M.H. Bilgrami](./mh-bilgrami.md) (pp. 168–170) [Review]
-* *Tun Ismail Ali: Paragon of Trust and Integrity. P. Gunasegaran* — [H.S. Barlow](./hs-barlow.md) (pp. 170–172) [Review]
+* *Tun Ismail Ali: Paragon of Trust and Integrity. P. Gunasegaran* — [H.S. Barlow](./henry-sackville-barlow.md) (pp. 170–172) [Review]
 * *Singapore's Grand Strategy. Ang Cheng Guan* — [Kwa Chong Guan](./kwa-chong-guan.md) (pp. 172–174) [Review]
 * *Reconstructing God: Style, Hydraulics, Political Power and Angkor's West Mebon Viṣnu. M. Feneley* — [A.O. Zakharov](./ao-zakharov.md) (pp. 174–177) [Review]
 * *Electoral Reform and Democracy in Malaysia* — [M.B. Puthucheary](./mb-puthucheary.md), [Ting Mu Hung](./ting-mu-hung.md), [D.L. Horowitz](./dl-horowitz.md) (pp. 177–180) [Review]
@@ -193,14 +193,14 @@ articles:
 * [A.O. Zakharov](./ao-zakharov.md)
 * [Abu Talib Ahmad](./abu-talib-ahmad.md)
 * [D.L. Horowitz](./dl-horowitz.md)
-* [H.S. Barlow](./hs-barlow.md)
+* [H.S. Barlow](./henry-sackville-barlow.md)
 * [Kwa Chong Guan](./kwa-chong-guan.md)
 * [Lee Kam Hing](./lee-kam-hing.md)
 * [M.B. Puthucheary](./mb-puthucheary.md)
 * [M.H. Bilgrami](./mh-bilgrami.md)
 * [Muhamad Hasrul Zakariah](./muhamad-hasrul-zakariah.md)
 * [Ooi Keat Gin](./ooi-keat-gin.md)
-* [P.H. Kratoska](./ph-kratoska.md)
+* [P.H. Kratoska](./paul-h-kratoska.md)
 * [S. Ortmann](./s-ortmann.md)
 * [Ting Mu Hung](./ting-mu-hung.md)
 * [W. Cheah](./w-cheah.md)

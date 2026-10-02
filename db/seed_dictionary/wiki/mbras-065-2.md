@@ -126,14 +126,14 @@ articles:
 
 ## Table of Contents
 * [The ‘Indian Association Movement’ in peninsular Malaysia: the early years](./the-indian-association-movement-in-peninsular-malaysia-the-e.md) — [Khoo Kay Kim](./khoo-kay-kim.md) (pp. 3–24)
-* [The early history of the Residency Kuala Lumpur](./the-early-history-of-the-residency-kuala-lumpur.md) — [H.S. Barlow](./hs-barlow.md) (pp. 25–34)
+* [The early history of the Residency Kuala Lumpur](./the-early-history-of-the-residency-kuala-lumpur.md) — [H.S. Barlow](./henry-sackville-barlow.md) (pp. 25–34)
 * [A brief account of the Siam Society](./a-brief-account-of-the-siam-society.md) — [Piriya Krairiksh](./piriya-krairiksh.md) (pp. 35–38)
 * [The Australasian career of George Windsor Earl](./the-australasian-career-of-george-windsor-earl.md) — [R.H.W. Reece](./rhw-reece.md) (pp. 39–67)
 * [The black and white amahs of Malaya](./the-black-and-white-amahs-of-malaya.md) — [Ooi Keat Gin](./ooi-keat-gin.md) (pp. 69–84)
 * [The social organization of the mining community in Malaya during the depression 1929–1933](./the-social-organization-of-the-mining-community-in-malaya-du.md) — [A. Azmi Khalid](./a-azmi-khalid.md) (pp. 85–99)
 * *Sriwijaya: history, religion and language of an early Malay polity. G. Coedès and L-C. Damais. . Manguin and M. Sheppard* — [E.W. Hutchinson](./ew-hutchinson.md), [J.N. Miksic](./jn-miksic.md) (pp. 99–102) [Review]
 * *A history of classical Malay literature. R.O. Winstedt. Rev. and .A. Talib* — [E.U. Kratz](./eu-kratz.md) (pp. 103–106) [Review]
-* *Index to British Colonial Office files pertaining to British Malaya 1838–1946. P.H. Kratoska* — [H.S. Barlow](./hs-barlow.md), [G. Forth](./g-forth.md) (pp. 105–107) [Review]
+* *Index to British Colonial Office files pertaining to British Malaya 1838–1946. P.H. Kratoska* — [H.S. Barlow](./henry-sackville-barlow.md), [G. Forth](./g-forth.md) (pp. 105–107) [Review]
 * *Soul of the tiger: searching for Nature’s answers in Southeast Asia* — [I. Polunin](./i-polunin.md), [J.A. McNeely](./ja-mcneely.md), [P.S. Wachtel](./ps-wachtel.md) (pp. 107–109) [Review]
 
 ## Contributors
@@ -141,7 +141,7 @@ articles:
 * [E.U. Kratz](./eu-kratz.md)
 * [E.W. Hutchinson](./ew-hutchinson.md)
 * [G. Forth](./g-forth.md)
-* [H.S. Barlow](./hs-barlow.md)
+* [H.S. Barlow](./henry-sackville-barlow.md)
 * [I. Polunin](./i-polunin.md)
 * [J.A. McNeely](./ja-mcneely.md)
 * [J.N. Miksic](./jn-miksic.md)

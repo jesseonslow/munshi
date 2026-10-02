@@ -19,6 +19,7 @@ published: false
 ## MBRAS Sources
 
 - Irwin, G. 19th century Borneo. MB 29(1) {R}
-- Tarling, N. Consul Farren and the Philippines. MB 38(2)
+- [N. Tarling](./nicholas-tarling.md) (1965). [Consul Farren and the Philippines](./consul-farren-and-the-philippines.md). *JMBRAS* 38(2): 258–273
+
 ## References
 <!-- Grounded occurrences and citations -->

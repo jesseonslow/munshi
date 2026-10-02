@@ -71,11 +71,11 @@ articles:
 * [A note on Sambas and Borneo. {With notes T. Harrisson](./a-note-on-sambas-and-borneo-with-notes-t-harrisson.md) — [R. Braddell](./r-braddell.md), [Tom Harrisson](./tom-harrisson.md) (pp. 1–15)
 * [A note on the Sambas finds](./a-note-on-the-sambas-finds.md) — [K.A. Nilakanta Sastri](./ka-nilakanta-sastri.md) (pp. 16–19)
 * [The incense burner from the Sambas treasures](./the-incense-burner-from-the-sambas-treasures.md) — [Tan Yeok-Seong](./tan-yeok-seong.md) (pp. 19–22)
-* [The Sambas finds in relation to the problems of Indo-Malaysian art development](./the-sambas-finds-in-relation-to-the-problems-of-indo-malaysi.md) — [H.G.Q. Wales](./hgq-wales.md) (pp. 23–32)
+* [The Sambas finds in relation to the problems of Indo-Malaysian art development](./the-sambas-finds-in-relation-to-the-problems-of-indo-malaysi.md) — [H.G.Q. Wales](./horace-geoffrey-quaritch-wales.md) (pp. 23–32)
 * [Gold and Indian influences in west Borneo](./gold-and-indian-influences-in-west-borneo.md) — [Tom Harrisson](./tom-harrisson.md) (pp. 33–110)
 
 ## Contributors
-* [H.G.Q. Wales](./hgq-wales.md)
+* [H.G.Q. Wales](./horace-geoffrey-quaritch-wales.md)
 * [K.A. Nilakanta Sastri](./ka-nilakanta-sastri.md)
 * [R. Braddell](./r-braddell.md)
 * [Tan Yeok-Seong](./tan-yeok-seong.md)

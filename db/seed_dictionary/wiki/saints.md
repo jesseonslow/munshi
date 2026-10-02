@@ -30,8 +30,10 @@ published: false
 
 ## MBRAS Sources
 
-- Abdullah, Dato Sedia Raja. Leading saints in Rembau. MB 3(3)
-- Maxwell, W.E. The invocation of Muslim saints. NQ Reprint 15
-- Wilkinson, R.J. The Pengkalan Kempas “saint”. MB 9(1) and Reprint 4
+- [Dato' Sedia Raja Abdullah](./dato-sedia-raja-abdullah.md) (1925). [The leading saints in Rembau](./the-leading-saints-in-rembau.md). *JMBRAS* 3(3): 101–104
+- Anon. [Maxwell, W.E. The invocation of Muslim saints](./mbras-reprint-15.md). *Reprint* 15
+- [R.J. Wilkinson](./richard-james-wilkinson.md) (1931). [The Pengkalan Kempas “saint”](./the-pengkalan-kempas-saint.md). *JMBRAS* 9: 134–135
+- Anon (1977). [A Centenary Volume: 30 Articles selected from JSBRAS and JMBRAS 1878 - 1976](./a-centenary-volume-30-articles-selected-from-jsbras-and-jmbras-1878-1976.md). ** : 358
+
 ## References
 <!-- Grounded occurrences and citations -->

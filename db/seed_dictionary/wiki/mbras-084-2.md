@@ -123,7 +123,7 @@ articles:
 * *Eighty years on: a further memoir. N. Tarling* — [Anthony Reid](./anthony-reid.md) (pp. 117–119) [Review]
 * *Penang and its region: the story of an Asian entrepot. . Khor* — [Badriyah Haji Salleh](./badriyah-haji-salleh.md) (pp. 119–121) [Review]
 * *Borneo transformed: agricultural expansion on the Southeast Asian frontier. Ed R. de Koninck, S* — [Ooi Keat Gin](./ooi-keat-gin.md), [J.-F. Bissonnette](./j-f-bissonnette.md) (pp. 126–128) [Review]
-* *Grotius, the Portuguese and free trade in the East Indies. P. Borschberg* — [N. Tarling](./n-tarling.md) (pp. 128–130) [Review]
+* *Grotius, the Portuguese and free trade in the East Indies. P. Borschberg* — [N. Tarling](./nicholas-tarling.md) (pp. 128–130) [Review]
 * *Slaughter and deception at Batang Kali* — [P.J. Rivers](./pj-rivers.md), [I. Ward](./i-ward.md), [N. Miraflor](./n-miraflor.md) (pp. 130–133) [Review]
 
 ## Contributors
@@ -135,7 +135,7 @@ articles:
 * [J.-F. Bissonnette](./j-f-bissonnette.md)
 * [N. Miraflor](./n-miraflor.md)
 * [N. Porath](./n-porath.md)
-* [N. Tarling](./n-tarling.md)
+* [N. Tarling](./nicholas-tarling.md)
 * [Ooi Keat Gin](./ooi-keat-gin.md)
 * [P.J. Rivers](./pj-rivers.md)
 * [W. Cheah](./w-cheah.md)

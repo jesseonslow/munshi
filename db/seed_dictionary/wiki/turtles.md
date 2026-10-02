@@ -19,7 +19,8 @@ published: false
 
 ## MBRAS Sources
 
-- Dennys, N.B. Turtles. NQ Reprint 15
-- Kloss, C.B. Capture of a rare leathery turtle (Demochlys coriacea) off Johor. SB 49
+- Anon. [Dennys, N.B. Turtles](./mbras-reprint-15.md). *Reprint* 15
+- [C.B. Kloss](./cb-kloss.md) (1907). [Notes on the capture of a rare leathery turtle (Dermochelys coriacea) in Johore waters](./notes-on-the-capture-of-a-rare-leathery-turtle-dermochelys-c.md). *JSBRAS* 49: 63–65
+
 ## References
 <!-- Grounded occurrences and citations -->

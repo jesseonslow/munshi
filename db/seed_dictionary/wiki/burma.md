@@ -29,10 +29,11 @@ published: false
 
 ### History
 
-- Braddell, R. Kulanggi or Gulanggi. MB 19(1)
-- Cheng Siok Hwa. Land tenure problems in Burma 1852–1940. MB 42(2)
+- [R. Braddell](./r-braddell.md) (1941). [An introduction to the study of ancient times in the Malay Peninsula and the Straits of Malacca](./an-introduction-to-the-study-of-ancient-times-in-the-malay-p.md). *JMBRAS* 19: 21–74
+- [Cheng Siok-hwa](./cheng-siok-hwa.md) (1969). [The rice industry of Malaya: a historical survey](./the-rice-industry-of-malaya-a-historical-survey.md). *JMBRAS* 42(2): 130–144
 - Goh Geok Yian (ed) Bagan and its global connections. MB 91(1) {R}
-- Ramachandra, G.P. Outbreak of first Anglo-Burmese war. MB 51(2)
-- Winstedt, R.O. Kulanggi or Gulanggi. MB 18(2)
+- [G.P. Ramachandra](./gp-ramachandra.md) (1978). [The outbreak of the first Anglo-Burman War](./the-outbreak-of-the-first-anglo-burman-war.md). *JMBRAS* 51(2): 69–99
+- [R.O. Winstedt](./richard-olaf-winstedt.md) (1940). [Kulanggi or Gulanggi](./kulanggi-or-gulanggi.md). *JMBRAS* 18(2): 152
+
 ## References
 <!-- Grounded occurrences and citations -->

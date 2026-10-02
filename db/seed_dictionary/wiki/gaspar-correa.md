@@ -20,6 +20,7 @@ published: false
 <!-- Synthesis engine: Insert introductory synthesis for Gaspar Correa here -->
 
 ## MBRAS Sources
+
 <!-- Seed entries or targeted retrieval for Gaspar Correa -->
 
 ## References

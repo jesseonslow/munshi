@@ -18,7 +18,8 @@ published: false
 
 ## MBRAS Sources
 
-- Burkill, I.H. Begonia haniffi from Langkawi. SB 79
-- Ridley, H.N. Begonias of Borneo. SB 46
+- [I.H. Burkill](./ih-burkill.md) (1918). [Begonia haniffii, a small tuberous species of the islands of Lankawi](./begonia-haniffii-a-small-tuberous-species-of-the-islands-of-.md). *JSBRAS* 79: 103–104
+- [H.N. Ridley](./henry-nicholas-ridley.md) (1906). [Begonias of Borneo](./begonias-of-borneo.md). *JSBRAS* 46: 247–261
+
 ## References
 <!-- Grounded occurrences and citations -->

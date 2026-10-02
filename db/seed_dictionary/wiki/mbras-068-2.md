@@ -137,26 +137,26 @@ articles:
 * [A note on the fishing industry in Kelantan, 1933](./a-note-on-the-fishing-industry-in-kelantan-1933.md) — [Mubin Sheppard](./mubin-sheppard.md) (pp. 7–8)
 * [Hunting down the rebels in Kelantan, 1915: the Sultan’s ‘double game’](./hunting-down-the-rebels-in-kelantan-1915-the-sultans-double-.md) — [W. Cheah](./w-cheah.md) (pp. 9–32)
 * [Teluk Anson, 1882–1941: port, agriculture and erosion](./teluk-anson-18821941-port-agriculture-and-erosion.md) — [Khoo Kay Kim](./khoo-kay-kim.md) (pp. 33–52)
-* [Some perspectives on Southeast Asian historiography](./some-perspectives-on-southeast-asian-historiography.md) — [N. Tarling](./n-tarling.md) (pp. 53–57)
-* [Bibliography of Tan Sri Dato Dr Haji Mubin Sheppard](./bibliography-of-tan-sri-dato-dr-haji-mubin-sheppard.md) — [H.S. Barlow](./hs-barlow.md) (pp. 59–66)
+* [Some perspectives on Southeast Asian historiography](./some-perspectives-on-southeast-asian-historiography.md) — [N. Tarling](./nicholas-tarling.md) (pp. 53–57)
+* [Bibliography of Tan Sri Dato Dr Haji Mubin Sheppard](./bibliography-of-tan-sri-dato-dr-haji-mubin-sheppard.md) — [H.S. Barlow](./henry-sackville-barlow.md) (pp. 59–66)
 * [Selections from the Selangor Journal (1892–1897). .M. Gullick. Reprint 26. A short history of the Society](./selections-from-the-selangor-journal-18921897-m-gullick-repr.md) — [J.M. Gullick](./john-michael-gullick.md) (pp. 67–79)
 * [History of the Malaysian Branch of the Royal Asiatic Society](./history-of-the-malaysian-branch-of-the-royal-asiatic-society.md) — [Choy Chee Meh](./choy-chee-meh.md) (pp. 81–148)
 * *British colonial rule and the resistance of the Malay peasantry, 1900–1957. D.M. Nonini* — [A.B. Shamsul](./ab-shamsul.md) (pp. 149–151) [Review]
 * *Nomads of the Borneo rain forest: the economics, politics, and ideology of settling down. B. Sellato* — [C. Sather](./c-sather.md) (pp. 154–156) [Review]
 * *Indonesian music and dance: traditional music and its interaction with the West. J. Kunst* — [J. Peters](./j-peters.md) (pp. 156–158) [Review]
-* *A dictionary of the economic products of the Malay Peninsula. I.H. Burkill* — [H.S. Barlow](./hs-barlow.md), [I.H. Burkill](./ih-burkill.md) (pp. 159) [Review]
+* *A dictionary of the economic products of the Malay Peninsula. I.H. Burkill* — [H.S. Barlow](./henry-sackville-barlow.md), [I.H. Burkill](./ih-burkill.md) (pp. 159) [Review]
 
 ## Contributors
 * [A.B. Shamsul](./ab-shamsul.md)
 * [C. Sather](./c-sather.md)
 * [Choy Chee Meh](./choy-chee-meh.md)
-* [H.S. Barlow](./hs-barlow.md)
+* [H.S. Barlow](./henry-sackville-barlow.md)
 * [I.H. Burkill](./ih-burkill.md)
 * [J. Peters](./j-peters.md)
 * [J.M. Gullick](./john-michael-gullick.md)
 * [Khoo Kay Kim](./khoo-kay-kim.md)
 * [Mubin Sheppard](./mubin-sheppard.md)
-* [N. Tarling](./n-tarling.md)
+* [N. Tarling](./nicholas-tarling.md)
 * [W. Cheah](./w-cheah.md)
 
 ## References

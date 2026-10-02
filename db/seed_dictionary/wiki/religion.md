@@ -87,6 +87,7 @@ published: false
 - [Vishnu](./vishnu.md)
 
 ## MBRAS Sources
+
 <!-- Seed entries or targeted retrieval for Religion -->
 
 ## References

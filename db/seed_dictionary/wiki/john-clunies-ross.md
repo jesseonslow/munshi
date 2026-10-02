@@ -20,6 +20,8 @@ published: false
 
 ## MBRAS Sources
 
-- Gibson-Hill, C.A. Documents relating to J.C. Ross, A. Hare and the establishment of a colony on the Cocos-Keeling Islands. MB 25(4/5) and Reprint 31
+- [C.A. Gibson-Hill](./carl-alexander-gibson-hill.md) (1952). [Documents relating to John Clunies Ross, Alexander Hare, and the establishment of the colony on the Cocos-Keeling Islands](./documents-relating-to-john-clunies-ross-alexander-hare-and-t.md). *JMBRAS* 25(4/5): 1–306
+- Anon (2011). [The Colourful Early History of the Cocos-Keeling Islands](./the-colourful-early-history-of-the-cocos-keeling-islands.md). ** : 306
+
 ## References
 <!-- Grounded occurrences and citations -->

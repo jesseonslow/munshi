@@ -31,10 +31,10 @@ articles:
 **Date:** None 
 
 ## Table of Contents
-* [Swettenham](./swettenham.md) — [H.S. Barlow](./hs-barlow.md)
+* [Swettenham](./swettenham.md) — [H.S. Barlow](./henry-sackville-barlow.md)
 
 ## Contributors
-* [H.S. Barlow](./hs-barlow.md)
+* [H.S. Barlow](./henry-sackville-barlow.md)
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -158,7 +158,7 @@ articles:
 * [Neolithic implements from North Borneo](./neolithic-implements-from-north-borneo.md) — [H.G. Keith](./hg-keith.md) (pp. 148–150)
 * [The Mandulika of Sungai Ujong](./the-mandulika-of-sungai-ujong.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 150–151)
 * [Indra and Saktimuna](./indra-and-saktimuna.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 151–152)
-* [A note on Takola, Langkasuka and Kataha](./a-note-on-takola-langkasuka-and-kataha.md) — [H.G.Q. Wales](./hgq-wales.md) (pp. 153–155)
+* [A note on Takola, Langkasuka and Kataha](./a-note-on-takola-langkasuka-and-kataha.md) — [H.G.Q. Wales](./horace-geoffrey-quaritch-wales.md) (pp. 153–155)
 * [C.O. Blagden. Obituary](./co-blagden-obituary.md) — [W. Linehan](./w-linehan.md) (pp. 156)
 
 ## Contributors
@@ -168,7 +168,7 @@ articles:
 * [C.D. Cowan](./cd-cowan.md)
 * [H.A.L. Luckham](./hal-luckham.md)
 * [H.G. Keith](./hg-keith.md)
-* [H.G.Q. Wales](./hgq-wales.md)
+* [H.G.Q. Wales](./horace-geoffrey-quaritch-wales.md)
 * [K. Sim](./k-sim.md)
 * [R. Braddell](./r-braddell.md)
 * [R.O. Winstedt](./richard-olaf-winstedt.md)

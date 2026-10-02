@@ -21,6 +21,7 @@ published: false
 
 ## MBRAS Sources
 
-- Cheah, W. Chinese furniture. MB 67(1)
+- [W. Cheah](./w-cheah.md) (1994). [Chinese furniture](./chinese-furniture.md). *JMBRAS* 67: 69–93
+
 ## References
 <!-- Grounded occurrences and citations -->

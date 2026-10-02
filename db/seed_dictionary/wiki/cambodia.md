@@ -23,7 +23,8 @@ published: false
 ## MBRAS Sources
 
 - Anon. Exploration in Camboja. SB 10
-- Mohamed Zain bin Musa. Relations with Cambodia, 1863–2000. MB 74(2)
+- [Mohamed Zain bin Musa](./mohamed-zain-bin-musa.md) (2001). [Malay and Cham relations with the kingdom of Cambodia during and after the French protectorate (1863–2000](./malay-and-cham-relations-with-the-kingdom-of-cambodia-during.md). *JMBRAS* 74(2): 1–21
 - Thun, T. Texts, History, and Intellectuals of Cambodia. MB 98(1) {R}
+
 ## References
 <!-- Grounded occurrences and citations -->

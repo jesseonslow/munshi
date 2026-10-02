@@ -22,6 +22,7 @@ published: false
 
 ## MBRAS Sources
 
-- Allen, J. de.V. Johore 1901–14. MB 45(2)
+- [J. de V. Allen](./j-de-v-allen.md) (1972). [Johore 1901–1914: the railway concession; the Johore Advisory Board: Swettenham’s resignation and the first General Adviser](./johore-19011914-the-railway-concession-the-johore-advisory-b.md). *JMBRAS* 45(2): 1–28
+
 ## References
 <!-- Grounded occurrences and citations -->

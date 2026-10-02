@@ -129,13 +129,13 @@ articles:
 **Date:** June 2019
 
 ## Table of Contents
-* [Producing Malaya : the photography of Carl A. Gibson-Hill](./producing-malaya-the-photography-of-carl-a-gibson-hill.md) — [B. Luyt](./b-luyt.md) (pp. 1–20)
+* [Producing Malaya : the photography of Carl A. Gibson-Hill](./producing-malaya-the-photography-of-carl-a-gibson-hill.md) — [B. Luyt](./brendan-luyt.md) (pp. 1–20)
 * [Revisiting Christian missionaries in colonial Malaya and Singapore: blurring the boundaries between empire, mission and development](./revisiting-christian-missionaries-in-colonial-malaya-and-sin.md) — [S. Hudd](./s-hudd.md) (pp. 21–40)
 * [Boo Chih Fu and the first Malaysian Communist Party split](./boo-chih-fu-and-the-first-malaysian-communist-party-split.md) — [M. Opper](./m-opper.md) (pp. 41–66)
 * [(Trans)national service: reconfiguring citizenship through conscription in Singapore](./transnational-service-reconfiguring-citizenship-through-cons.md) — [Theophilus Kwek](./theophilus-kwek.md) (pp. 67–90)
 * [The “highly interesting” settlement of “Sincapore”, 1819–1825. Comp. P.H. Kratoska](./the-highly-interesting-settlement-of-sincapore-18191825-comp.md) — [Various](./various.md) (pp. 91–110)
 * *Through turbulent terrain: trade of the Straits port of Penang. Loh Wei Leng with J. Seow* — [D. Brunero](./d-brunero.md) (pp. 111–112) [Review]
-* *Diaries of F.W. Foxworthy: Malaysia’s first forest research officer, ed F.S.P. Ng* — [H.S. Barlow](./hs-barlow.md) (pp. 112–114) [Review]
+* *Diaries of F.W. Foxworthy: Malaysia’s first forest research officer, ed F.S.P. Ng* — [H.S. Barlow](./henry-sackville-barlow.md) (pp. 112–114) [Review]
 * *Islam in Southeast Asia: negotiating modernity* — [N. Lee](./n-lee.md) (pp. 114–117) [Review]
 * *Celluloid Singapore: cinema, performance and the national. E. Lim* — [Liew Kai Khiun](./liew-kai-khiun.md) (pp. 118–119) [Review]
 * *Framing Asian studies: geopolitics and institutions. . Tzeng, W.L* — [Ooi Keat Gin](./ooi-keat-gin.md), [E. Koldunova](./e-koldunova.md) (pp. 125–129) [Review]
@@ -143,10 +143,10 @@ articles:
 
 ## Contributors
 * [A. Wain](./a-wain.md)
-* [B. Luyt](./b-luyt.md)
+* [B. Luyt](./brendan-luyt.md)
 * [D. Brunero](./d-brunero.md)
 * [E. Koldunova](./e-koldunova.md)
-* [H.S. Barlow](./hs-barlow.md)
+* [H.S. Barlow](./henry-sackville-barlow.md)
 * [Liew Kai Khiun](./liew-kai-khiun.md)
 * [M. Opper](./m-opper.md)
 * [N. Lee](./n-lee.md)

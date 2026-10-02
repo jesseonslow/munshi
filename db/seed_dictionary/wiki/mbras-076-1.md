@@ -108,7 +108,7 @@ articles:
 * [The ecologies of kuala and muara settlements in the pre-modern Malay cultural world](./the-ecologies-of-kuala-and-muara-settlements-in-the-pre-mode.md) — [C. Airriess](./c-airriess.md) (pp. 81–98)
 * [The ceramic trade across the South China Sea](./the-ceramic-trade-across-the-south-china-sea.md) — [Harrisson B](./harrisson-b.md) (pp. 99–114)
 * *Seeds of play, words of power: an ethnographic study of Iban shamanic chants. C. Sather* — [R. Waterson](./r-waterson.md) (pp. 115–117) [Review]
-* *A botanist in Borneo: Hugh Low’s Sarawak journals, .H.W. Reece* — [H.S. Barlow](./hs-barlow.md) (pp. 117–118) [Review]
+* *A botanist in Borneo: Hugh Low’s Sarawak journals, .H.W. Reece* — [H.S. Barlow](./henry-sackville-barlow.md) (pp. 117–118) [Review]
 * *Syair Jerjezang: cerita Niah zaman yang bahari: a tale of Niah in the age of splendour, transliterated and* — [H. Munan](./h-munan.md) (pp. 118–120) [Review]
 * *The Chinese in Malaysia* — [Lee Guan Kin](./lee-guan-kin.md), [Lee Kam Hing](./lee-kam-hing.md), [Tan Chee Beng](./tan-chee-beng.md) (pp. 121–124) [Review]
 
@@ -116,7 +116,7 @@ articles:
 * [Abdur-Razzaq Lubis](./abdur-razzaq-lubis.md)
 * [C. Airriess](./c-airriess.md)
 * [H. Munan](./h-munan.md)
-* [H.S. Barlow](./hs-barlow.md)
+* [H.S. Barlow](./henry-sackville-barlow.md)
 * [Harrisson B](./harrisson-b.md)
 * [I. Proudfoot](./i-proudfoot.md)
 * [Lee Guan Kin](./lee-guan-kin.md)

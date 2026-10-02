@@ -23,6 +23,7 @@ published: false
 ## MBRAS Sources
 
 - Quah Seng Sun. Ban Hin Lee Bank. MB 95(1) {R}
-- Tan Ee-leong. Chinese banks. MB 26(1) and 42(1)
+- [Tan Ee-Leong](./tan-ee-leong.md) (1953). [The Chinese banks incorporated in Singapore and the Federation of Malaya](./the-chinese-banks-incorporated-in-singapore-and-the-federati.md). *JMBRAS* 26: 113–139
+
 ## References
 <!-- Grounded occurrences and citations -->

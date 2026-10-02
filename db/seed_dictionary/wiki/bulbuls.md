@@ -18,6 +18,7 @@ published: false
 
 ## MBRAS Sources
 
-- Kloss, C.B. _Criniger gularis_ and _gutturalis_. MB 2(1)
+- [C.B. Kloss](./cb-kloss.md) (1924). [The forms of Criniger gularis and C. gutturalis. Records of the Raffles Museum, No. 6](./the-forms-of-criniger-gularis-and-c-gutturalis-records-of-th.md). *JMBRAS* 2: 71
+
 ## References
 <!-- Grounded occurrences and citations -->

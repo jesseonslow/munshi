@@ -132,13 +132,13 @@ articles:
 * [A tiger hunt in Java](./a-tiger-hunt-in-java.md) — [R.A. Kerkhoven](./ra-kerkhoven.md) (pp. 269–281)
 * [Landing of Raffles in Singapore](./landing-of-raffles-in-singapore.md) — [W.H. Read](./wh-read.md) (pp. 282–283)
 * [Latah](./latah.md) — [H.A. O'Brien](./ha-obrien.md) (pp. 283–285)
-* [New mountain seen in Perak (with a note W.E. Maxwell](./new-mountain-seen-in-perak-with-a-note-we-maxwell.md) — [F.A. Swettenham](./sir-frank-swettenham.md) (pp. 286–288)
+* [New mountain seen in Perak (with a note W.E. Maxwell](./new-mountain-seen-in-perak-with-a-note-we-maxwell.md) — [Swettenham, F.A.](./sir-frank-swettenham.md) (pp. 286–288)
 
 ## Contributors
 * [A.M. Ferguson](./am-ferguson.md)
 * [A.M. Skinner](./allan-maclean-skinner.md)
 * [D.F.A. Hervey](./dudley-francis-amelius-hervey.md)
-* [F.A. Swettenham](./sir-frank-swettenham.md)
+* [Swettenham, F.A.](./sir-frank-swettenham.md)
 * [H.A. O'Brien](./ha-obrien.md)
 * [H.R. Kelham](./hr-kelham.md)
 * [L. Wray](./l-wray.md)

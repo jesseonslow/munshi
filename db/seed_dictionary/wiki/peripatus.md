@@ -18,6 +18,7 @@ published: false
 
 ## MBRAS Sources
 
-- Kloss, C.B. Peripatus in the Malay Peninsula. MB 4(1)
+- [C.B. Kloss](./cb-kloss.md) and [H.N. Ridley](./henry-nicholas-ridley.md) (1926). [Peripatus in the Malay Peninsula. Records of the Raffles Museum, No. 21](./peripatus-in-the-malay-peninsula-records-of-the-raffles-muse.md). *JMBRAS* 4: 167
+
 ## References
 <!-- Grounded occurrences and citations -->

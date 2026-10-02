@@ -36,9 +36,10 @@ published: false
 
 ## MBRAS Sources
 
-- Dennys. N.B. Flowering bananas. SB 9
-- Maxwell, W.E. Ketiar. NQ Reprint 15
-- Ridley, H.N. Fruit of Burbidgea. SB 53
-- Wray, L. Report on the Pomeloe moth. SB 19
+- [N.B. Dennys](./nicholas-belfield-dennys.md) (1882). [Flowering banana](./flowering-banana.md). *JSBRAS* 9: 163
+- Anon. [Maxwell, W.E. Ketiar](./mbras-reprint-15.md). *Reprint* 15
+- [H.N. Ridley](./henry-nicholas-ridley.md) (1909). [Fruit of Burbidgea](./fruit-of-burbidgea.md). *JSBRAS* 53: 175–176
+- [L. Wray](./l-wray.md) (1887). [Summary of the report on the pomeloe moth](./summary-of-the-report-on-the-pomeloe-moth.md). *JSBRAS* 19: 83–86
+
 ## References
 <!-- Grounded occurrences and citations -->

@@ -19,6 +19,7 @@ published: false
 <!-- Synthesis engine: Insert introductory synthesis for Brass-founding here -->
 
 ## MBRAS Sources
+
 <!-- Seed entries or targeted retrieval for Brass-founding -->
 
 ## References

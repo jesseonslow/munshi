@@ -19,8 +19,9 @@ published: false
 ## MBRAS Sources
 
 - Burkill, I.H. An abnormality in coconut palms. SB 68
-- Hale, A. Coconut beetles. SB 22
-- Ridley, H.N. Coconut beetles. SB 20
-- Ridley, H.N. Precocious coconuts. SB 31
+- [Hale A](./hale-a.md) (1890). [Coconut beetles](./coconut-beetles.md). *JSBRAS* 22: 429
+- [H.N. Ridley](./henry-nicholas-ridley.md) (1889). [Report on the destruction of coco-nut palms by beetles](./report-on-the-destruction-of-coco-nut-palms-by-beetles.md). *JSBRAS* 20: 1–11
+- [H.N. Ridley](./henry-nicholas-ridley.md) (1898). [Precocious coconuts](./precocious-coconuts.md). *JSBRAS* 31: 103–104
+
 ## References
 <!-- Grounded occurrences and citations -->

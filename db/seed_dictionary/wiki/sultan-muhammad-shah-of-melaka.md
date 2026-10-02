@@ -19,6 +19,7 @@ published: false
 
 ## MBRAS Sources
 
-- Wang Gungwu. First three rulers of Malacca. MB 41(1)
+- [Wang Gungwu](./wang-gungwu.md) (1968). [The first three rulers of Malacca](./the-first-three-rulers-of-malacca.md). *JMBRAS* 41: 11–22
+
 ## References
 <!-- Grounded occurrences and citations -->

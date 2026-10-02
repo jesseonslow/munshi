@@ -131,7 +131,7 @@ articles:
 * [Recent archaeological discoveries in Sungai Mas, Kedah. Nik Hassan Suhaimi bin Nik Abd. Rahman and Kamaruddin bin Zakaria](./recent-archaeological-discoveries-in-sungai-mas-kedah-nik-ha.md) — [Hassan Shuhaimi Nik, bin Nik Abdul Rahman](./hassan-shuhaimi-nik-bin-nik-abdul-rahman.md), [Kamarudin bin Zakaria](./kamarudin-bin-zakaria.md) (pp. 73–80)
 * [Malay manuscripts: materials and problems of conservation](./malay-manuscripts-materials-and-problems-of-conservation.md) — [Ding Choo Ming](./ding-choo-ming.md) (pp. 81–102)
 * [The Bugis inscription in the Udo-Udok cemetery in Brunei](./the-bugis-inscription-in-the-udo-udok-cemetery-in-brunei.md) — [Noorduyn. J](./noorduyn-j.md), [H.E. Wilson](./he-wilson.md) (pp. 103–112)
-* *Glimpses of Selangor 1860–1898. J. Gullick* — [H.S. Barlow](./hs-barlow.md) (pp. 115–116) [Review]
+* *Glimpses of Selangor 1860–1898. J. Gullick* — [H.S. Barlow](./henry-sackville-barlow.md) (pp. 115–116) [Review]
 * *Singapore and the Indonesian revolution. Suryono Darusma* — [S. Dobbs](./s-dobbs.md) (pp. 118–120) [Review]
 * *Family and state: the formation of a Sino-Thai tin-mining dynasty 1797–1932. J. Cushman. .J. Reynolds* — [Heng Pek Koon](./heng-pek-koon.md), [C.J. Reynolds](./cj-reynolds.md) (pp. 121–122) [Review]
 * *Female and male in Borneo: contributions and challenges to gender studies. .H. Sutlive* — [R. Waterson](./r-waterson.md) (pp. 123–126) [Review]
@@ -140,7 +140,7 @@ articles:
 * [C.J. Reynolds](./cj-reynolds.md)
 * [Ding Choo Ming](./ding-choo-ming.md)
 * [H.E. Wilson](./he-wilson.md)
-* [H.S. Barlow](./hs-barlow.md)
+* [H.S. Barlow](./henry-sackville-barlow.md)
 * [Hassan Shuhaimi Nik, bin Nik Abdul Rahman](./hassan-shuhaimi-nik-bin-nik-abdul-rahman.md)
 * [Heng Pek Koon](./heng-pek-koon.md)
 * [Kamarudin bin Zakaria](./kamarudin-bin-zakaria.md)

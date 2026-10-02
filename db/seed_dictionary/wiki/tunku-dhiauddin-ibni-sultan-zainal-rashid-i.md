@@ -21,6 +21,7 @@ published: false
 
 ## MBRAS Sources
 
-- Gullick, J.M. Tunku Kudin. MB 58(2), 59(2) and 60(2), and Monograph 25
+- [J.M. Gullick](./john-michael-gullick.md) (1993). [Glimpses of Selangor 1860 - 1898](./glimpses-of-selangor-1860-1898.md). ** : 247
+
 ## References
 <!-- Grounded occurrences and citations -->

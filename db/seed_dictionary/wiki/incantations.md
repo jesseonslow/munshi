@@ -31,9 +31,10 @@ published: false
 
 ## MBRAS Sources
 
-- Clarke, W.B. Incantation and sacrifice of _Pawang Ma’yang_. MB 3(3)
-- Laidlaw, F.F. Invocation of _Akuan_. MB 1(2)
-- Maxwell, W.E. _Mantra_. NQ Reprint 15
+- [W.B. Clarke](./wb-clarke.md) (1925). [The incantation and sacrifice of the Pawang Ma’yang](./the-incantation-and-sacrifice-of-the-pawang-mayang.md). *JMBRAS* 3(3): 106
+- [F.F. Laidlaw](./ff-laidlaw.md) (1923). [Notes on the invocation of Akuan](./notes-on-the-invocation-of-akuan.md). *JMBRAS* 1(2): 376–377
+- Anon. [Maxwell, W.E. _Mantra_](./mbras-reprint-15.md). *Reprint* 15
 - Winstedt, R.O. A Perak invocation of the _Langsuyar_. MB 3(1)
+
 ## References
 <!-- Grounded occurrences and citations -->

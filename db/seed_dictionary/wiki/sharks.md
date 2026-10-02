@@ -18,6 +18,7 @@ published: false
 
 ## MBRAS Sources
 
-- Smedley, N. Development of the tiger-shark Stegostoma tigrinum (Gmel). MB 4(1)
+- [N. Smedley](./n-smedley.md) (1926). [On a stage in the development of the tiger-shark Stegostoma tigrinum (Gmel.). Records of the Raffles Museum, No. 20](./on-a-stage-in-the-development-of-the-tiger-shark-stegostoma-.md). *JMBRAS* 4: 166
+
 ## References
 <!-- Grounded occurrences and citations -->

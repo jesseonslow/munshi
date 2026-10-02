@@ -19,6 +19,7 @@ published: false
 <!-- Synthesis engine: Insert introductory synthesis for Jean Chretian Baud here -->
 
 ## MBRAS Sources
+
 <!-- Seed entries or targeted retrieval for Jean Chretian Baud -->
 
 ## References

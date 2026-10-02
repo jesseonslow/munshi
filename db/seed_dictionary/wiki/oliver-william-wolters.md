@@ -22,7 +22,8 @@ published: false
 
 ## MBRAS Sources
 
-- Hooker, V.M. Obituary. MB 74(1)
+- [V.M. Hooker](./vm-hooker.md) (2001). [O.W. Wolters (8 June 1915–5 December 2000): an obituary and appreciation,](./ow-wolters-8-june-19155-december-2000-an-obituary-and-apprec.md). *JMBRAS* 74: 1–18
+
 ## Bibliography
 - (1979) [Studying Srivijaya](./studying-srivijaya.md). *JMBRAS* 52(2): 1–32
 

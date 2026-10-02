@@ -22,6 +22,7 @@ published: false
 
 ## MBRAS Sources
 
-- Gullick, J.M. The making of Raja Muda Sulaiman 1865–98. MB 81(2)
+- [J.M. Gullick](./john-michael-gullick.md) (2008). [The making of a monarch: Raja Muda Sulaiman of Selangor 1865-98](./the-making-of-a-monarch-raja-muda-sulaiman-of-selangor-1865-.md). *JMBRAS* 81(2): 1–18
+
 ## References
 <!-- Grounded occurrences and citations -->

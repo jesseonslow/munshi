@@ -116,21 +116,21 @@ articles:
 * [Malay manuscripts in New Zealand: the ‘lost’ manuscript of the Hikayat Abdullah and other Malay manuscripts of the Thomson collection](./malay-manuscripts-in-new-zealand-the-lost-manuscript-of-the-.md) — [Raimy Ché-Ross](./raimy-ché-ross.md) (pp. 1–50)
 * [The Cavenagh papers](./the-cavenagh-papers.md) — [J.M. Gullick](./john-michael-gullick.md) (pp. 51–64)
 * [A tale of two colonial ports in the Straits of Melaka: Dutch Melaka and English Penang](./a-tale-of-two-colonial-ports-in-the-straits-of-melaka-dutch-.md) — [Nordin Hussin](./nordin-hussin.md) (pp. 65–98)
-* *Singapore 1942: Britain’s greatest defeat. A. Warren* — [N. Tarling](./n-tarling.md) (pp. 117–118) [Review]
+* *Singapore 1942: Britain’s greatest defeat. A. Warren* — [N. Tarling](./nicholas-tarling.md) (pp. 117–118) [Review]
 * *Apai Alui becomes and shaman and other Iban comic tales. Comp. C. Sather* — [H. Munan](./h-munan.md), [Jitab](./jitab.md), [J. Noel](./j-noel.md) (pp. 118–120) [Review]
-* *Sorotan terpilih dalam sejarah Malaysia (esei sumbangansih kepada Dr Cheah Boon Kheng* — [B.W. Andaya](./bw-andaya.md) (pp. 121–123) [Review]
-* *Tuan Djek: a biography. S. Dobbs* — [H.S. Barlow](./hs-barlow.md) (pp. 124–125) [Review]
+* *Sorotan terpilih dalam sejarah Malaysia (esei sumbangansih kepada Dr Cheah Boon Kheng* — [B.W. Andaya](./barbara-watson-andaya.md) (pp. 121–123) [Review]
+* *Tuan Djek: a biography. S. Dobbs* — [H.S. Barlow](./henry-sackville-barlow.md) (pp. 124–125) [Review]
 * *Masa Jepun: Sarawak under the Japanese, 1941–1946. R.H.W. Reece* — [R. Mason](./r-mason.md) (pp. 125–129) [Review]
 * *The politics of multiculturalism, pluralism and citizenship in Malaysia, Singapore and Indonesia. R. Hefner* — [Ong Kian Ming](./ong-kian-ming.md) (pp. 129–131) [Review]
 
 ## Contributors
-* [B.W. Andaya](./bw-andaya.md)
+* [B.W. Andaya](./barbara-watson-andaya.md)
 * [H. Munan](./h-munan.md)
-* [H.S. Barlow](./hs-barlow.md)
+* [H.S. Barlow](./henry-sackville-barlow.md)
 * [J. Noel](./j-noel.md)
 * [J.M. Gullick](./john-michael-gullick.md)
 * [Jitab](./jitab.md)
-* [N. Tarling](./n-tarling.md)
+* [N. Tarling](./nicholas-tarling.md)
 * [Nordin Hussin](./nordin-hussin.md)
 * [Ong Kian Ming](./ong-kian-ming.md)
 * [R. Mason](./r-mason.md)

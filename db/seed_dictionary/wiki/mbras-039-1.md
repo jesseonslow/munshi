@@ -152,12 +152,12 @@ articles:
 
 ## Table of Contents
 * [The origin of the Malaysian currency system (1867–1906](./the-origin-of-the-malaysian-currency-system-18671906.md) — [Chiang Hai-ding](./chiang-hai-ding.md) (pp. 1–18)
-* [British relations with Vietnam, 1822–1858](./british-relations-with-vietnam-18221858.md) — [N. Tarling](./n-tarling.md) (pp. 19–51)
+* [British relations with Vietnam, 1822–1858](./british-relations-with-vietnam-18221858.md) — [N. Tarling](./nicholas-tarling.md) (pp. 19–51)
 * [The origin of British administration in Malaya](./the-origin-of-british-administration-in-malaya.md) — [Khoo Kay Kim](./khoo-kay-kim.md) (pp. 52–91)
 * [The unpublished Rennell Ms: a Borneo-Philippine journey, 1762–1763. J. Rennell. . Harrisson](./the-unpublished-rennell-ms-a-borneo-philippine-journey-17621.md) — [Tom Harrisson](./tom-harrisson.md), [J. Rennell](./j-rennell.md) (pp. 92–136)
 * [Satingphra: an expanded chronology](./satingphra-an-expanded-chronology.md) — [S.J. O'Connor](./sj-oconnor.md) (pp. 137–144)
 * [An annotated bibliography of Malayan fresh-water fisheries](./an-annotated-bibliography-of-malayan-fresh-water-fisheries.md) — [E.R. Alfred](./er-alfred.md) (pp. 145–165)
-* [Short history of the Borneo Basel Self-established Church, usually called the Basel Mission, in North Borneo. In Tregonning, K.G. Two notes on Church history in Sabah](./short-history-of-the-borneo-basel-self-established-church-us.md) — [H. Bienz](./h-bienz.md), [K.G. Tregonning](./kg-tregonning.md) (pp. 166–168)
+* [Short history of the Borneo Basel Self-established Church, usually called the Basel Mission, in North Borneo. In Tregonning, K.G. Two notes on Church history in Sabah](./short-history-of-the-borneo-basel-self-established-church-us.md) — [H. Bienz](./h-bienz.md), [K.G. Tregonning](./kennedy-gordon-tregonning.md) (pp. 166–168)
 * [Carlos Cuarteron. In Tregonning, K.G. Two notes on Church history in Sabah](./carlos-cuarteron-in-tregonning-kg-two-notes-on-church-histor.md) — [A. Antonissen](./a-antonissen.md) (pp. 168–171)
 * [The “palang” II: Three further notes](./the-palang-ii-three-further-notes.md) — [Tom Harrisson](./tom-harrisson.md) (pp. 172–174)
 * [A golden kris handle from Balingian, Sarawak](./a-golden-kris-handle-from-balingian-sarawak.md) — [Tom Harrisson](./tom-harrisson.md) (pp. 175–181)
@@ -175,9 +175,9 @@ articles:
 * [H. Bienz](./h-bienz.md)
 * [J. Minattur](./j-minattur.md)
 * [J. Rennell](./j-rennell.md)
-* [K.G. Tregonning](./kg-tregonning.md)
+* [K.G. Tregonning](./kennedy-gordon-tregonning.md)
 * [Khoo Kay Kim](./khoo-kay-kim.md)
-* [N. Tarling](./n-tarling.md)
+* [N. Tarling](./nicholas-tarling.md)
 * [S.J. O'Connor](./sj-oconnor.md)
 * [Tom Harrisson](./tom-harrisson.md)
 

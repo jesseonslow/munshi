@@ -23,11 +23,12 @@ published: false
 
 ## MBRAS Sources
 
-- Barlow, H.S. Bibliography of Tan Sri Dato Dr Haji Mubin Sheppard. MB 68(2)
-- Gullick, J.M. Mubin Sheppard. Obituary. MB 68(2)
-- MBRAS. Sheppard Memorial Prize essays 1998. Monograph 30
-- Zuraini Md Ali. Pioneer of building conservation in Malaysia. MB 83(3)
+- [H.S. Barlow](./henry-sackville-barlow.md) (1995). [Bibliography of Tan Sri Dato Dr Haji Mubin Sheppard](./bibliography-of-tan-sri-dato-dr-haji-mubin-sheppard.md). *JMBRAS* 68(2): 59–66
+- [J.M. Gullick](./john-michael-gullick.md) (1995). [Mubin Sheppard. Obituary](./mubin-sheppard-obituary.md). *JMBRAS* 68(2): 1–6
+- [Beatrice Chong](./beatrice-chong.md) and [Wong Siew Kuon](./wong-siew-kuon.md) (1999). [The Prize Winning Sheppard Memorial Prize Historical Essays 1998](./the-prize-winning-sheppard-memorial-prize-historical-essays-1998.md). ** : 109
+- [Zuraini Md Ali](./zuraini-md-ali.md) (2010). [Tan Sri Dato’ Dr Mubin Sheppard: pioneer in the conservation of historical buildings in Malaysia, 1959-1994](./tan-sri-dato-dr-mubin-sheppard-pioneer-in-the-conservation-o.md). *JMBRAS* 83(2): 47–91
 - Zuraini Md Ali. Mubin Sheppard. MB 95(1) {R}
+
 ## Bibliography
 - (1938) [The Trengganu ‘rodat’](./the-trengganu-rodat.md). *JMBRAS* 16(1): 109–114
 - (1949) [A short history of Trengganu](./a-short-history-of-trengganu.md). *JMBRAS* 22(3): 1–74

@@ -30,7 +30,8 @@ published: false
 
 ## MBRAS Sources
 
-- Taylor, E.N. Inheritance in Negri Sembilan. MB 21(2)
-- Taylor, E.N. Divorce and inheritance. MB 22(1)
+- [E.N. Taylor](./en-taylor.md) (1948). [Inheritance in Negri Sembilan](./inheritance-in-negri-sembilan.md). *JMBRAS* 21(2): 41–130
+- [E.N. Taylor](./en-taylor.md) (1949). [Divorce and inheritance: Corrigenda](./divorce-and-inheritance-corrigenda.md). *JMBRAS* 22: 194
+
 ## References
 <!-- Grounded occurrences and citations -->

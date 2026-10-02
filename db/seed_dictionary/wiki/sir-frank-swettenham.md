@@ -31,13 +31,14 @@ published: false
 
 ## MBRAS Sources
 
-- Allen, J. de V. Swettenham and Clifford. MB 37(1)
+- [J. de V. Allen](./j-de-v-allen.md) (1964). [Two imperialists: a study of Sir Frank Swettenham and Sir Hugh Clifford](./two-imperialists-a-study-of-sir-frank-swettenham-and-sir-hug.md). *JMBRAS* 37: 41–73
 - Barlow, H.S. Swettenham. MB 69(1) {R}
-- Barlow, H.S. Swettenham – schemer and historian. MB 69(2)
-- Barlow, H.S. Swettenham. Monograph 54.
-- Chew, E. Frank Swettenham and Yap Ah Loy 1871–85. MB 57(1)
+- [H.S. Barlow](./henry-sackville-barlow.md) (1996). [Swettenham. Schemer and historian](./swettenham-schemer-and-historian.md). *JMBRAS* 69(2): 83–100
+- [H.S. Barlow](./henry-sackville-barlow.md) (2025). [Swettenham](./swettenham.md). **
+- [E. Chew](./e-chew.md) (1984). [Frank Swettenham and Yap Ah Loy: the increase of British political influence in Kuala Lumpur](./frank-swettenham-and-yap-ah-loy-the-increase-of-british-poli.md). *JMBRAS* 57: 70–88
 - Mohamad Rashidi Pakri. The Maxwell-Swettenham rivalry. MB 84(2)
-- Swettenham, F.A. Sir Frank Swettenham’s Perak journals, 1874–6. MB 24(4) and 25(1)
+- [C.D. Cowan](./cd-cowan.md) and [Swettenham, F.A.](./sir-frank-swettenham.md) (1951). [Sir Frank Swettenham’s Perak journals, 1874–1876](./sir-frank-swettenhams-perak-journals-18741876.md). *JMBRAS* 24(4): 1–148
+
 ## Bibliography
 - (1878) [A Malay nautch](./a-malay-nautch.md). *JSBRAS* 2: 163–167
 - (1880) [Comparative vocabulary of the dialects of some of the wild tribes inhabiting the Malayan peninsula, Borneo, etc., collected and compiled for the Straits Branch of the Royal Asiatic Society](./comparative-vocabulary-of-the-dialects-of-some-of-the-wild-t.md). *JSBRAS* 5: 125–156

@@ -135,21 +135,21 @@ articles:
 * [The entrepreneur in late nineteenth century Malay society](./the-entrepreneur-in-late-nineteenth-century-malay-society.md) — [J.M. Gullick](./john-michael-gullick.md), [Wang Gungwu](./wang-gungwu.md) (pp. 43–57)
 * [Parallels between the upright stones of Western Sumatra and those in Malacca and Negri Sembilan](./parallels-between-the-upright-stones-of-western-sumatra-and-.md) — [J.N. Miksic](./jn-miksic.md) (pp. 59–90)
 * [A ceramic legacy of Asia’s maritime trade on Tioman Island](./a-ceramic-legacy-of-asias-maritime-trade-on-tioman-island.md) — [J.A. Martin](./ja-martin.md) (pp. 81–90)
-* [Stockdale’s sketches, civil and military, of the island of Java: a bibliographical note](./stockdales-sketches-civil-and-military-of-the-island-of-java.md) — [J.S. Bastin](./js-bastin.md) (pp. 91–94)
+* [Stockdale’s sketches, civil and military, of the island of Java: a bibliographical note](./stockdales-sketches-civil-and-military-of-the-island-of-java.md) — [J.S. Bastin](./john-bastin.md) (pp. 91–94)
 * *The sociology of production in rural Malay society. C. Bailey* — [Zawawi Ibrahim](./zawawi-ibrahim.md) (pp. 95–97) [Review]
 * *Nagara and commandery: origins of the Southeast Asian urban traditions. P. Wheatley* — [R.A. O'Connor](./ra-oconnor.md) (pp. 98–100) [Review]
-* *Western impressions of nature and landscape in Southeast Asia. V.R. Savage* — [H.S. Barlow](./hs-barlow.md) (pp. 101–102) [Review]
+* *Western impressions of nature and landscape in Southeast Asia. V.R. Savage* — [H.S. Barlow](./henry-sackville-barlow.md) (pp. 101–102) [Review]
 * *Pioneers of Singapore: a catalogue of oral history interviews. Singapore archives and oral history department* — [J.F. Warren](./jf-warren.md) (pp. 103–104) [Review]
 * *Sabah Museum Annals, Nos. 1 and 2* — [C. Sather](./c-sather.md), [K.W. Taylor](./kw-taylor.md) (pp. 105) [Review]
 
 ## Contributors
 * [C. Sather](./c-sather.md)
-* [H.S. Barlow](./hs-barlow.md)
+* [H.S. Barlow](./henry-sackville-barlow.md)
 * [J.A. Martin](./ja-martin.md)
 * [J.F. Warren](./jf-warren.md)
 * [J.M. Gullick](./john-michael-gullick.md)
 * [J.N. Miksic](./jn-miksic.md)
-* [J.S. Bastin](./js-bastin.md)
+* [J.S. Bastin](./john-bastin.md)
 * [K.W. Taylor](./kw-taylor.md)
 * [P.-Y. Manguin](./p-y-manguin.md)
 * [R.A. O'Connor](./ra-oconnor.md)

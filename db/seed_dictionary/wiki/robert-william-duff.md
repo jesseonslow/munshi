@@ -21,7 +21,8 @@ published: false
 
 ## MBRAS Sources
 
-- Levos, E.A. British seigneur in Kelantan, 1892–1932. MB 70(1)
-- Shaharil Talib. Duff syndicate in Kelantan 1900–2. MB 45(1)
+- [E. Levos](./e-levos.md) (1997). [Robert W. Duff: a British seigneur in Kelantan, 1892–1932](./robert-w-duff-a-british-seigneur-in-kelantan-18921932.md). *JMBRAS* 70: 1–19
+- [Shaharil Talib (L.R. Robert)](./shaharil-talib-lr-robert.md) (1972). [The Duff syndicate in Kelantan, 1900–1902](./the-duff-syndicate-in-kelantan-19001902.md). *JMBRAS* 45: 81–110
+
 ## References
 <!-- Grounded occurrences and citations -->

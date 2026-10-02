@@ -18,6 +18,7 @@ published: false
 
 ## MBRAS Sources
 
-- Karny, H.H. Katydids (Gryllacridae and Tettigoniidae) in Raffles Museum. MB 1(1)
+- [H.H. Karny](./hh-karny.md) (1923). [On Malaysian katydids (Gryllacidae and Tettigoniidiae) from the Raffles Museum, Singapore](./on-malaysian-katydids-gryllacidae-and-tettigoniidiae-from-th.md). *JMBRAS* 1: 116–193
+
 ## References
 <!-- Grounded occurrences and citations -->

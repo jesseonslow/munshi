@@ -25,10 +25,11 @@ published: false
 
 ## MBRAS Sources
 
-- Overbeck, H. Ants of Singapore. MB 2(1)
-- Ridley, H.N. _Keringga_. SB 23
-- Ridley, H.N. Habits of the _caringa_, SB 22
+- [H. Overbeck](./h-overbeck.md) (1924). [Some ants from Singapore and neighbouring places](./some-ants-from-singapore-and-neighbouring-places.md). *JMBRAS* 2: 25–40
+- [H.N. Ridley](./henry-nicholas-ridley.md) (1891). [The keringga](./the-keringga.md). *JSBRAS* 23: 147
+- [H.N. Ridley](./henry-nicholas-ridley.md) (1890). [On the habits of the caringa (Formica gracilipes, Gray](./on-the-habits-of-the-caringa-formica-gracilipes-gray.md). *JSBRAS* 22: 345–347
 - Ridley, H.N. A termite’s nest with eight queens. SB 54
-- Shelford, R. Nests of silk weaving ants. SB 45
+- [R.S. Shelford](./rs-shelford.md) (1906). [Nesting of silk-weaving ants](./nesting-of-silk-weaving-ants.md). *JSBRAS* 45: 284–285
+
 ## References
 <!-- Grounded occurrences and citations -->

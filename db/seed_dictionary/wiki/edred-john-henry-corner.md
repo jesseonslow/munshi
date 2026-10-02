@@ -26,7 +26,8 @@ published: false
 
 ## MBRAS Sources
 
-- Barlow, H.S. Obituary. MB 69(2)
+- [H.S. Barlow](./henry-sackville-barlow.md) (1996). [Swettenham. Schemer and historian](./swettenham-schemer-and-historian.md). *JMBRAS* 69(2): 83–100
+
 ## Bibliography
 *No indexed articles recorded.*
 

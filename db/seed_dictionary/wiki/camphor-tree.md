@@ -18,7 +18,8 @@ published: false
 
 ## MBRAS Sources
 
-- Hervey, D.F.A. The camphor language (in A trip to Gunong Blumut). SB 3
-- Lake, H. Camphor tree and language in Johor. SB 26
+- [D.F.A. Hervey](./dudley-francis-amelius-hervey.md) (1879). [Atrip to Gunong Blumut](./atrip-to-gunong-blumut.md). *JSBRAS* 3: 85–115
+- [H.J. Kelsall](./hj-kelsall.md) et al. (1894). [The camphor tree and the camphor language of Johore](./the-camphor-tree-and-the-camphor-language-of-johore.md). *JSBRAS* 26: 35–37
+
 ## References
 <!-- Grounded occurrences and citations -->

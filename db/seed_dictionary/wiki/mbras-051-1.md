@@ -119,7 +119,7 @@ articles:
 
 ## Table of Contents
 * [In grateful memory of Tan Sri Dato Haji Nik Ahmad Kamil bin Nik Mahmood, President M.B.R.A.S., 1964–1977. Obituary](./in-grateful-memory-of-tan-sri-dato-haji-nik-ahmad-kamil-bin-.md) — [Mubin Sheppard](./mubin-sheppard.md) (pp. 1–3)
-* [The extent of Srivijaya’s influence abroad](./the-extent-of-srivijayas-influence-abroad.md) — [H.G.Q. Wales](./hgq-wales.md) (pp. 5–11)
+* [The extent of Srivijaya’s influence abroad](./the-extent-of-srivijayas-influence-abroad.md) — [H.G.Q. Wales](./horace-geoffrey-quaritch-wales.md) (pp. 5–11)
 * [Territorial patterns among Chinese secret societies in Singapore and peninsular Malaysia: some tentative findings](./territorial-patterns-among-chinese-secret-societies-in-singa.md) — [Mak Lau-fong](./mak-lau-fong.md), [A. Wong](./a-wong.md) (pp. 37–45)
 * [Astronomical determination of Islamic times](./astronomical-determination-of-islamic-times.md) — [Mohamed Ilyas](./mohamed-ilyas.md) (pp. 46–83)
 * [An introduction to the Indonesian Peranakan literature in the library of the Universiti Kebangsaan Malaysia](./an-introduction-to-the-indonesian-peranakan-literature-in-th.md) — [Ding Choo Ming](./ding-choo-ming.md) (pp. 54–61)
@@ -127,15 +127,15 @@ articles:
 * [Traditional Indian medicine in Malaysia](./traditional-indian-medicine-in-malaysia.md) — [F.C. Colley](./fc-colley.md) (pp. 77–109)
 * [Towards a legal history of Southeast Asia](./towards-a-legal-history-of-southeast-asia.md) — [M.B. Hooker](./mb-hooker.md) (pp. 110–121)
 * *Description of Malayan plants I–III. W. Jack* — [B.C. Stone](./bc-stone.md) (pp. 122–124) [Review]
-* *The contest for Siam 1889–1902: a study in diplomatic rivalry. C. Jeshurun* — [C.M. Turnbull](./cm-turnbull.md) (pp. 125–126) [Review]
+* *The contest for Siam 1889–1902: a study in diplomatic rivalry. C. Jeshurun* — [C.M. Turnbull](./constance-mary-turnbull.md) (pp. 125–126) [Review]
 
 ## Contributors
 * [A. Wong](./a-wong.md)
 * [B.C. Stone](./bc-stone.md)
-* [C.M. Turnbull](./cm-turnbull.md)
+* [C.M. Turnbull](./constance-mary-turnbull.md)
 * [Ding Choo Ming](./ding-choo-ming.md)
 * [F.C. Colley](./fc-colley.md)
-* [H.G.Q. Wales](./hgq-wales.md)
+* [H.G.Q. Wales](./horace-geoffrey-quaritch-wales.md)
 * [Lee Yong Leng](./lee-yong-leng.md)
 * [M.B. Hooker](./mb-hooker.md)
 * [Mak Lau-fong](./mak-lau-fong.md)

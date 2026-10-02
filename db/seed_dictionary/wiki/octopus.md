@@ -19,6 +19,7 @@ published: false
 
 ## MBRAS Sources
 
-- Dennys, N.B. The octopus. NQ Reprint 15
+- Anon. [Dennys, N.B. The octopus](./mbras-reprint-15.md). *Reprint* 15
+
 ## References
 <!-- Grounded occurrences and citations -->

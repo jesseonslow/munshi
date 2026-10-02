@@ -118,14 +118,14 @@ articles:
 * [Ethnological notes on the Muruts of the Sapulut River, Sabah](./ethnological-notes-on-the-muruts-of-the-sapulut-river-sabah.md) — [Tom Harrisson](./tom-harrisson.md) (pp. 111–129)
 * [Grasping the nettle: first successes in the struggle to govern the Chinese in Malaya](./grasping-the-nettle-first-successes-in-the-struggle-to-gover.md) — [R.N. Jackson](./rn-jackson.md) (pp. 130–139)
 * [Recent archaeological discoveries in East Malaysia and Brunei](./recent-archaeological-discoveries-in-east-malaysia-and-brune.md) — [Tom Harrisson](./tom-harrisson.md) (pp. 140–148)
-* [A note on the Takuapa Visnu](./a-note-on-the-takuapa-visnu.md) — [H.G.Q. Wales](./hgq-wales.md) (pp. 153–154)
-* [Sir Richard Winstedt’s summary of the “Tuhfat ul-Nafis”](./sir-richard-winstedts-summary-of-the-tuhfat-ul-nafis.md) — [A. Sweeney](./a-sweeney.md) (pp. 155–156)
+* [A note on the Takuapa Visnu](./a-note-on-the-takuapa-visnu.md) — [H.G.Q. Wales](./horace-geoffrey-quaritch-wales.md) (pp. 153–154)
+* [Sir Richard Winstedt’s summary of the “Tuhfat ul-Nafis”](./sir-richard-winstedts-summary-of-the-tuhfat-ul-nafis.md) — [A. Sweeney](./amin-sweeney.md) (pp. 155–156)
 * *A lexical study of Tamil dialects in lower Perak. R. Subbiah* — [T.W. Gething](./tw-gething.md) (pp. 157–159) [Review]
 
 ## Contributors
-* [A. Sweeney](./a-sweeney.md)
+* [A. Sweeney](./amin-sweeney.md)
 * [Drabble J.H](./drabble-jh.md)
-* [H.G.Q. Wales](./hgq-wales.md)
+* [H.G.Q. Wales](./horace-geoffrey-quaritch-wales.md)
 * [K. Sinclair](./k-sinclair.md)
 * [Naguib, Syed Al-Attas](./naguib-syed-al-attas.md)
 * [R.N. Jackson](./rn-jackson.md)

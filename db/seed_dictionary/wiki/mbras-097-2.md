@@ -139,14 +139,14 @@ articles:
 **Date:** December 2024
 
 ## Table of Contents
-* [Trade and Disruption in the Western Malay Archipelago in the 17th century](./trade-and-disruption-in-the-western-malay-archipelago-in-the.md) — [P. Borschberg](./p-borschberg.md) (pp. 17–42)
+* [Trade and Disruption in the Western Malay Archipelago in the 17th century](./trade-and-disruption-in-the-western-malay-archipelago-in-the.md) — [P. Borschberg](./peter-borschberg.md) (pp. 17–42)
 * [Royal Malay Edicts from Kedah: A Diplomatic Study of Istimi](./royal-malay-edicts-from-kedah-a-diplomatic-study-of-istimi.md) — [A.T. Gallop](./at-gallop.md) (pp. 43–86)
 * [Bengali Migration to the Malay Peninsula](./bengali-migration-to-the-malay-peninsula.md) — [G.M. Rahman](./gm-rahman.md) (pp. 87–109)
-* [A Further Note on Francis Light’s ‘Silver Bason’](./a-further-note-on-francis-lights-silver-bason.md) — [H.S. Barlow](./hs-barlow.md), [A.T. Gallop](./at-gallop.md) (pp. 111–117)
+* [A Further Note on Francis Light’s ‘Silver Bason’](./a-further-note-on-francis-lights-silver-bason.md) — [H.S. Barlow](./henry-sackville-barlow.md), [A.T. Gallop](./at-gallop.md) (pp. 111–117)
 * [Coal in Borneo: The voyage of Julian Tenison Woods 1884](./coal-in-borneo-the-voyage-of-julian-tenison-woods-1884.md) — [R. O'Brien](./r-obrien.md) (pp. 119–126)
 * [The Geology of Malaysia, Southern China’, &c. Facsimile reprint](./the-geology-of-malaysia-southern-china-c-facsimile-reprint.md) — [J.E. Tenison Woods](./je-tenison-woods.md) (pp. 127–130)
 * *The Politics of the Malayan Communist Party from 1930 to 1948. D. Lockwood* — [M. Opper](./m-opper.md) (pp. 131–134) [Review]
-* *Globalization: Perak’s Rise, Relative Decline and Regeneration. Sultan Nazrin Shah* — [B.W. Andaya](./bw-andaya.md) (pp. 134–138) [Review]
+* *Globalization: Perak’s Rise, Relative Decline and Regeneration. Sultan Nazrin Shah* — [B.W. Andaya](./barbara-watson-andaya.md) (pp. 134–138) [Review]
 * *Unequal Partners: Race, Religion, Domination and Inequality in East Malaysia. Johan Ariffin Samad (Joe* — [Ngu Ik Tien](./ngu-ik-tien.md) (pp. 138–140) [Review]
 * *The Life in the Writing: Syed Hussein Alatas. Sharifah Masturah Alatas* — [S.P. Gabriel](./sp-gabriel.md) (pp. 140–143) [Review]
 * *Voyage to the Great Indies (1644–1651). J.G. de Chambelle* — [V.L. Forbes](./vl-forbes.md) (pp. 143–145) [Review]
@@ -154,15 +154,15 @@ articles:
 
 ## Contributors
 * [A.T. Gallop](./at-gallop.md)
-* [B.W. Andaya](./bw-andaya.md)
+* [B.W. Andaya](./barbara-watson-andaya.md)
 * [G.M. Rahman](./gm-rahman.md)
-* [H.S. Barlow](./hs-barlow.md)
+* [H.S. Barlow](./henry-sackville-barlow.md)
 * [J.E. Tenison Woods](./je-tenison-woods.md)
 * [M. Douglass](./m-douglass.md)
 * [M. Opper](./m-opper.md)
 * [M.D. Barr](./md-barr.md)
 * [Ngu Ik Tien](./ngu-ik-tien.md)
-* [P. Borschberg](./p-borschberg.md)
+* [P. Borschberg](./peter-borschberg.md)
 * [R. O'Brien](./r-obrien.md)
 * [S.P. Gabriel](./sp-gabriel.md)
 * [Shu-Yeng Cheung](./shu-yeng-cheung.md)

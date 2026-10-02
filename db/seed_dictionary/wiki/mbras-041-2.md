@@ -106,7 +106,7 @@ articles:
 **Date:** December 1968
 
 ## Table of Contents
-* [Silsilah Raja-Raja Berunai. . Sweeney](./silsilah-raja-raja-berunai-sweeney.md) — [A. Sweeney](./a-sweeney.md) (pp. 1–82)
+* [Silsilah Raja-Raja Berunai. . Sweeney](./silsilah-raja-raja-berunai-sweeney.md) — [A. Sweeney](./amin-sweeney.md) (pp. 1–82)
 * [Two Colonial Office memoranda on the history of Brunei. R.E. Stubbs. .E. Brown](./two-colonial-office-memoranda-on-the-history-of-brunei-re-st.md) — [D.E. Brown](./de-brown.md), [R.E. Stubbs](./re-stubbs.md) (pp. 83–116)
 * [Observations on the Brunei political system, 1883–1885. With notes by R.M. Pringle](./observations-on-the-brunei-political-system-18831885-with-no.md) — [P. Leys](./p-leys.md), [R.M. Pringle](./rm-pringle.md) (pp. 117–130)
 * [Ethnographic profiles of the Dusun-speaking peoples of Sabah, Malaysia. With the collaboration of R. Harrison](./ethnographic-profiles-of-the-dusun-speaking-peoples-of-sabah.md) — [G.N. Appell](./gn-appell.md), [Harrison R](./harrison-r.md) (pp. 131–147)
@@ -116,7 +116,7 @@ articles:
 * [The penis pin at Peabody Museum, Harvard University](./the-penis-pin-at-peabody-museum-harvard-university.md) — [G.N. Appell](./gn-appell.md) (pp. 203–205)
 
 ## Contributors
-* [A. Sweeney](./a-sweeney.md)
+* [A. Sweeney](./amin-sweeney.md)
 * [D.E. Brown](./de-brown.md)
 * [G.N. Appell](./gn-appell.md)
 * [Harrison R](./harrison-r.md)

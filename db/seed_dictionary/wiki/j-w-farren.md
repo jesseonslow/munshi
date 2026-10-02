@@ -19,6 +19,7 @@ published: false
 <!-- Synthesis engine: Insert introductory synthesis for J. W. Farren here -->
 
 ## MBRAS Sources
+
 <!-- Seed entries or targeted retrieval for J. W. Farren -->
 
 ## References

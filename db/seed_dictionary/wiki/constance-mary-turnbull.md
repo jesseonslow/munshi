@@ -22,8 +22,9 @@ published: false
 
 ## MBRAS Sources
 
-- Gullick, J.M. Obituary. MB 81(2)
+- [J.M. Gullick](./john-michael-gullick.md) (2008). [Professor Mary Turnbull. Obituary](./professor-mary-turnbull-obituary.md). *JMBRAS* 81(2): 99–101
 - Tarling, N. (ed) C.M. Turnbull and the study of modern Singapore. MB 86(2) {R}
+
 ## Bibliography
 - (1957) [Governor Blundell and Sir Benson Maxwell: a conflict of personalities](./governor-blundell-and-sir-benson-maxwell-a-conflict-of-perso.md). *JMBRAS* 30(1): 134–163
 - (1958) [Communal disturbances in the Straits Settlements in 1857](./communal-disturbances-in-the-straits-settlements-in-1857.md). *JMBRAS* 31(1): 94–144

@@ -18,6 +18,7 @@ published: false
 
 ## MBRAS Sources
 
-- Gullick, J.M. Emily Innes. MB 55(2)
+- [J.M. Gullick](./john-michael-gullick.md) (1982). [Emily Innes, 1843–1927](./emily-innes-18431927.md). *JMBRAS* 55(2): 87–114
+
 ## References
 <!-- Grounded occurrences and citations -->

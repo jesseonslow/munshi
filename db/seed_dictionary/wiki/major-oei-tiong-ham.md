@@ -19,6 +19,7 @@ published: false
 
 ## MBRAS Sources
 
-- Post, P. The strategic alliances of Oei Tiong Ham, 1895–1905. MB 92(2)
+- [P. Post](./p-post.md) (2019). [Founding an ethnic Chinese business empire in colonial Asia: the strategic alliances of Major Oei Tiong Ham, 1895–1905](./founding-an-ethnic-chinese-business-empire-in-colonial-asia-.md). *JMBRAS* 92(2): 29–56
+
 ## References
 <!-- Grounded occurrences and citations -->

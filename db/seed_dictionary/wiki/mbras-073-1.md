@@ -148,17 +148,17 @@ articles:
 * [The making of a Malayan propagandist: the communists, the British and C.C. Too](./the-making-of-a-malayan-propagandist-the-communists-the-brit.md) — [K. Ramakrishna](./k-ramakrishna.md) (pp. 67–90)
 * [A mathematical explanation of the magic measurements found in the Taj-ul-Mulk and the Pawang’s book](./a-mathematical-explanation-of-the-magic-measurements-found-i.md) — [Iskander](./iskander.md) (pp. 91–103)
 * [The trouble with technology: comments on the experience of Singapore under entrepot colonialism](./the-trouble-with-technology-comments-on-the-experience-of-si.md) — [I. Inkster](./i-inkster.md) (pp. 107–115)
-* [Francis Light’s “Silver Bason”?](./francis-lights-silver-bason.md) — [H.S. Barlow](./hs-barlow.md) (pp. 117–120)
-* *Between two oceans: a military history of Singapore from the first settlement to final British withdrawal. M.H. Murfett, J.N. Miksic, B.P. Farrell, Chiang Ming Shun* — [C.M. Turnbull](./cm-turnbull.md) (pp. 121–123) [Review]
+* [Francis Light’s “Silver Bason”?](./francis-lights-silver-bason.md) — [H.S. Barlow](./henry-sackville-barlow.md) (pp. 117–120)
+* *Between two oceans: a military history of Singapore from the first settlement to final British withdrawal. M.H. Murfett, J.N. Miksic, B.P. Farrell, Chiang Ming Shun* — [C.M. Turnbull](./constance-mary-turnbull.md) (pp. 121–123) [Review]
 * *The Singapore dilemma: the political and educational marginality of the Malay community. Lily Zubaidah Rahim* — [T. Li](./t-li.md) (pp. 123–125) [Review]
 * *Footprints in Sarawak: memoirs of Datuk (Dr.) Ong Kee Hui, 1914–1963* — [O. Steinmayer](./o-steinmayer.md) (pp. 126–129) [Review]
 
 ## Contributors
 * [A. Candilio](./a-candilio.md)
 * [Amarjit Kaur](./amarjit-kaur.md)
-* [C.M. Turnbull](./cm-turnbull.md)
+* [C.M. Turnbull](./constance-mary-turnbull.md)
 * [Danny Wong Tze-ken](./danny-wong-tze-ken.md)
-* [H.S. Barlow](./hs-barlow.md)
+* [H.S. Barlow](./henry-sackville-barlow.md)
 * [I. Inkster](./i-inkster.md)
 * [Iskander](./iskander.md)
 * [K. Ramakrishna](./k-ramakrishna.md)

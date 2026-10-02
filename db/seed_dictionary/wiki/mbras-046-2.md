@@ -76,7 +76,7 @@ articles:
 **Date:** December 1973
 
 ## Table of Contents
-* [Professional Malay story-telling. Part 1: some questions of style and presentation](./professional-malay-story-telling-part-1-some-questions-of-st.md) — [A. Sweeney](./a-sweeney.md) (pp. 1–53)
+* [Professional Malay story-telling. Part 1: some questions of style and presentation](./professional-malay-story-telling-part-1-some-questions-of-st.md) — [A. Sweeney](./amin-sweeney.md) (pp. 1–53)
 * [The grand jury in early Singapore](./the-grand-jury-in-early-singapore.md) — [Y.K. Lee](./yk-lee.md) (pp. 55–150)
 * [The impact of the cooperative movement in colonial Malaya](./the-impact-of-the-cooperative-movement-in-colonial-malaya.md) — [L.J. Fredericks](./lj-fredericks.md) (pp. 151–168)
 * [The antiquity of domesticated pigs in Sarawak](./the-antiquity-of-domesticated-pigs-in-sarawak.md) — [Gathorne Gathorne-Hardy, Lord (Earl of Cranbrook) Medway](./gathorne-gathorne-hardy-lord-earl-of-cranbrook-medway.md) (pp. 169–178)
@@ -84,7 +84,7 @@ articles:
 * [A brief account of the Mah Meri](./a-brief-account-of-the-mah-meri.md) — [I. Carey](./i-carey.md) (pp. 185–194)
 
 ## Contributors
-* [A. Sweeney](./a-sweeney.md)
+* [A. Sweeney](./amin-sweeney.md)
 * [Gathorne Gathorne-Hardy, Lord (Earl of Cranbrook) Medway](./gathorne-gathorne-hardy-lord-earl-of-cranbrook-medway.md)
 * [I. Carey](./i-carey.md)
 * [L.J. Fredericks](./lj-fredericks.md)

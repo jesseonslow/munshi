@@ -178,14 +178,14 @@ articles:
 * *A history of Christianity in Malaysia. J. Roxborogh* — [C.M. Joll](./cm-joll.md) (pp. 176–178) [Review]
 * *Heroes and revolution in Vietnam 1948‒1964. B. de Tréglodé* — [Ruhanas Harun](./ruhanas-harun.md) (pp. 179–182) [Review]
 * *The annotated Malay archipelago. A.R. Wallace, ed J. van Wyhe* — [T.P. Barnard](./tp-barnard.md) (pp. 183–184) [Review]
-* *Tamils and the haunting of justice: history and recognition in Malaysia’s plantations. A.C. Willford with S. Nagarajan* — [H.S. Barlow](./hs-barlow.md) (pp. 184–186) [Review]
+* *Tamils and the haunting of justice: history and recognition in Malaysia’s plantations. A.C. Willford with S. Nagarajan* — [H.S. Barlow](./henry-sackville-barlow.md) (pp. 184–186) [Review]
 
 ## Contributors
 * [A. Datta](./a-datta.md)
 * [Anon](./anon-and-unidentifiable-initials.md)
 * [C. Eaton](./c-eaton.md)
 * [C.M. Joll](./cm-joll.md)
-* [H.S. Barlow](./hs-barlow.md)
+* [H.S. Barlow](./henry-sackville-barlow.md)
 * [K. Blackburn](./k-blackburn.md)
 * [Kobkua Suwannathat-Pian](./kobkua-suwannathat-pian.md)
 * [N. Lee](./n-lee.md)

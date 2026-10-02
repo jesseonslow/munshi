@@ -192,7 +192,7 @@ articles:
 
 ## Table of Contents
 * [Raffles, Acheh and the Order of the Golden Sword](./raffles-acheh-and-the-order-of-the-golden-sword.md) — [C.A. Gibson-Hill](./carl-alexander-gibson-hill.md) (pp. 1–19)
-* [The Mat Salleh revolt (1894–1905](./the-mat-salleh-revolt-18941905.md) — [K.G. Tregonning](./kg-tregonning.md) (pp. 20–36)
+* [The Mat Salleh revolt (1894–1905](./the-mat-salleh-revolt-18941905.md) — [K.G. Tregonning](./kennedy-gordon-tregonning.md) (pp. 20–36)
 * [Comment on the Malay word count, 1952](./comment-on-the-malay-word-count-1952.md) — [M.J. Manning](./mj-manning.md) (pp. 37–48)
 * [Ethnographic notes on the Siwang of central Malaya](./ethnographic-notes-on-the-siwang-of-central-malaya.md) — [R. Needham](./r-needham.md) (pp. 49–69)
 * [Chinese religion and religious institutions in Singapore](./chinese-religion-and-religious-institutions-in-singapore.md) — [M. Topley](./m-topley.md) (pp. 70–118)
@@ -207,7 +207,7 @@ articles:
 * [The Malay Annals: the history brought from Goa](./the-malay-annals-the-history-brought-from-goa.md) — [C.A. Gibson-Hill](./carl-alexander-gibson-hill.md) (pp. 185–188)
 * [Pottery cones from Kodiang, Kedah](./pottery-cones-from-kodiang-kedah.md) — [G. de G. Sieveking](./g-de-g-sieveking.md) (pp. 189–194)
 * [The stamped wares from Johore Lama](./the-stamped-wares-from-johore-lama.md) — [G. de G. Sieveking](./g-de-g-sieveking.md) (pp. 194–195)
-* [Crawfurd and Baud on free and forced labour in Java](./crawfurd-and-baud-on-free-and-forced-labour-in-java.md) — [J.S. Bastin](./js-bastin.md) (pp. 195–199)
+* [Crawfurd and Baud on free and forced labour in Java](./crawfurd-and-baud-on-free-and-forced-labour-in-java.md) — [J.S. Bastin](./john-bastin.md) (pp. 195–199)
 * [Recent archaeological discoveries in Malaya (1955](./recent-archaeological-discoveries-in-malaya-1955.md) — [G. de G. Sieveking](./g-de-g-sieveking.md) (pp. 200–211)
 * *Nineteenth-century Borneo: a study in diplomatic rivalry. G. Irwin* — [H.R.C. Wright](./hrc-wright.md) (pp. 212–214) [Review]
 * *Studies in Indonesian archaeology. W.F. Stutterheim* — [M. Sullivan](./m-sullivan.md) (pp. 222–223) [Review]
@@ -218,8 +218,8 @@ articles:
 * [G. de G. Sieveking](./g-de-g-sieveking.md)
 * [H.P. Bryson](./hp-bryson.md)
 * [H.R.C. Wright](./hrc-wright.md)
-* [J.S. Bastin](./js-bastin.md)
-* [K.G. Tregonning](./kg-tregonning.md)
+* [J.S. Bastin](./john-bastin.md)
+* [K.G. Tregonning](./kennedy-gordon-tregonning.md)
 * [L. Comber](./l-comber.md)
 * [M. Sullivan](./m-sullivan.md)
 * [M. Topley](./m-topley.md)

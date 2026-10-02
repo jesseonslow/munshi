@@ -18,6 +18,7 @@ published: false
 
 ## MBRAS Sources
 
-- Mills, J.V. Three of Eredia’s illustrations. MB 10(1)
+- [J.V. Mills](./jv-mills.md) (1932). [Three of Eredia’s illustrations](./three-of-eredias-illustrations.md). *JMBRAS* 10: 14–15
+
 ## References
 <!-- Grounded occurrences and citations -->

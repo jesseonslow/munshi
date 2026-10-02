@@ -28,14 +28,15 @@ published: false
 
 ## MBRAS Sources
 
-- Costa, H. de la. Muhammad Alimuddin I, Sultan of Sulu (1735–73). MB 38(1)
-- Harrisson, T. Rennell’s voyage to Sulu in 1762. MB 39(1)
-- Haynes, T.H. English, Sulu and Malay vocabulary. SB 16 and 18
-- Majul, C.A. The old Sulu Sultanate. MB 38(1)
-- Nicholl, R. Raja Bongsu of Sulu. Monograph 19
+- [H. de la Costa](./h-de-la-costa.md) (1965). [Muhammad Alimuddin I, Sultan of Sulu, 1735–1773](./muhammad-alimuddin-i-sultan-of-sulu-17351773.md). *JMBRAS* 38: 43–76
+- [Tom Harrisson](./tom-harrisson.md) and [J. Rennell](./j-rennell.md) (1966). [The unpublished Rennell Ms: a Borneo-Philippine journey, 1762–1763. J. Rennell. . Harrisson](./the-unpublished-rennell-ms-a-borneo-philippine-journey-17621.md). *JMBRAS* 39: 92–136
+- [Haynes T.H](./haynes-th.md) (1886). [English, Sulu and Malay vocabulary](./english-sulu-and-malay-vocabulary.md). *JSBRAS* 18: 191–239
+- [C.A. Majul](./ca-majul.md) (1965). [Political and historical notes on the old Sulu Sultanate](./political-and-historical-notes-on-the-old-sulu-sultanate.md). *JMBRAS* 38: 23–42
+- [Robert Nicholl](./robert-nicholl.md) (1991). [Raja Bongsu of Sulu](./raja-bongsu-of-sulu.md). ** : 82
 - Singh, S. On the Sulu Sea. MB 58(2) {R}
-- Tarling, N. Consul Farren and the Philippines. MB 38(2)
-- Warren, J.F. Balambangan and the rise of the Sulu Sultanate. MB 50(1)
-- Warren, J.F. Looking back on the “The Sulu Zone”. MB 69(1)
+- [N. Tarling](./nicholas-tarling.md) (1965). [Consul Farren and the Philippines](./consul-farren-and-the-philippines.md). *JMBRAS* 38(2): 258–273
+- [J.F. Warren](./jf-warren.md) (1977). [Balambangan and the rise of the Sulu Sultanate, 1772–1775](./balambangan-and-the-rise-of-the-sulu-sultanate-17721775.md). *JMBRAS* 50: 73–93
+- [J.F. Warren](./jf-warren.md) (1996). [Looking back on the “Sulu Zone”: state formation, slave raiding and ethnic diversity in Southeast Asia](./looking-back-on-the-sulu-zone-state-formation-slave-raiding-.md). *JMBRAS* 69: 21–33
+
 ## References
 <!-- Grounded occurrences and citations -->

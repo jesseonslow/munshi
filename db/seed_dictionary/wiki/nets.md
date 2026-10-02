@@ -23,6 +23,7 @@ published: false
 - [Hunting and trapping](./hunting-and-trapping.md)
 
 ## MBRAS Sources
+
 <!-- Seed entries or targeted retrieval for Nets -->
 
 ## References

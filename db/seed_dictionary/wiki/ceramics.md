@@ -23,13 +23,15 @@ published: false
 
 ## MBRAS Sources
 
-- Harrisson, B. Ceramic trade in the South China Sea c1350–1650. MB 76(1)
-- Gibson-Hill, C.A. Animal studies on Chinese export wares. MB 28(1)
+- [Harrisson B](./harrisson-b.md) (2003). [The ceramic trade across the South China Sea](./the-ceramic-trade-across-the-south-china-sea.md). *JMBRAS* 76: 99–114
+- [C.A. Gibson-Hill](./carl-alexander-gibson-hill.md) (1955). [Animal studies on Chinese export wares](./animal-studies-on-chinese-export-wares.md). *JMBRAS* 28: 179–183
 - Guy, J. SEA ceramic traditions. MB 64(1) {R}
 - Ho Wing Meng. Straits Chinese porcelain: a collector’s guide. MB 58(2) {R}
-- Martin, J.A. Tioman Island – ceramic legacy. MB 58(1)
+- [J.A. Martin](./ja-martin.md) (1985). [A ceramic legacy of Asia’s maritime trade on Tioman Island](./a-ceramic-legacy-of-asias-maritime-trade-on-tioman-island.md). *JMBRAS* 58: 81–90
 - Miksic, J.N. Earthenware in SEA. MB 79(2) {R}
-- Sjostrand, S. 14th century shipwreck and SEA ceramic history. MB 74(1) and Reprint 25
+- [C. Barnes](./claire-barnes.md) and [Sten Sjostrand](./sten-sjostrand.md) (2001). [The Turiang: a fourteenth century Chinese shipwreck upsetting Southeast Asian ceramic history](./the-turiang-a-fourteenth-century-chinese-shipwreck-upsetting.md). *JMBRAS* 74: 71–109
+- [Paul Wheatley](./paul-wheatley.md) et al. (2007). [Southeast Asia - China Interactions: Reprint of articles from the Journal of the Malaysian Branch, Royal Asiatic Society](./southeast-asia-china-interactions-reprint-of-articles-from-the-journal-of-the-malaysian-branch-royal-asiatic-society.md). ** : 620
 - SEA Ceramics Society. Song dynasty maritime trade. MB 59(2) {R}
+
 ## References
 <!-- Grounded occurrences and citations -->

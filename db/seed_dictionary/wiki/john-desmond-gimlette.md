@@ -20,6 +20,7 @@ published: false
 ## MBRAS Sources
 
 - Gimlette, J.D. Malay poisons. MB 1(1) and 7(2) {R}
-- Winstedt, R.O. Obituary. MB 12(2)
+- [R.O. Winstedt](./richard-olaf-winstedt.md) (1934). [John Desmond Gimlette. Obituary](./john-desmond-gimlette-obituary.md). *JMBRAS* 12(2): 184
+
 ## References
 <!-- Grounded occurrences and citations -->

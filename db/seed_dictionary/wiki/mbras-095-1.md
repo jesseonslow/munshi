@@ -166,11 +166,11 @@ articles:
 **Date:** June 2022
 
 ## Table of Contents
-* [Compendia Entries on Singapore and the Straits Region from the 16th to the Early 19th Century](./compendia-entries-on-singapore-and-the-straits-region-from-t.md) — [P. Borschberg](./p-borschberg.md), [B.J.Q. Khoo](./bjq-khoo.md) (pp. 1–33)
+* [Compendia Entries on Singapore and the Straits Region from the 16th to the Early 19th Century](./compendia-entries-on-singapore-and-the-straits-region-from-t.md) — [P. Borschberg](./peter-borschberg.md), [B.J.Q. Khoo](./benjamin-j-q-khoo.md) (pp. 1–33)
 * [Three Skulls from Sabah in the Pitt Rivers Museum](./three-skulls-from-sabah-in-the-pitt-rivers-museum.md) — [Danny Wong Tze-ken](./danny-wong-tze-ken.md) (pp. 35–50)
 * [Curating Shadows: Malayan Shadow Puppets in Singapore's Asian Civilisations Museum](./curating-shadows-malayan-shadow-puppets-in-singapores-asian-.md) — [I.C. Johnson](./ic-johnson.md), [D. Lim](./d-lim.md) (pp. 51–58)
-* [An Excerpt from Carl Gibson-Hill: Boats, Birds, Photography, and History in LateColonial Malaya. With a note P. Kratoska](./an-excerpt-from-carl-gibson-hill-boats-birds-photography-and.md) — [B. Luyt](./b-luyt.md) (pp. 89–94)
-* [Dato Haji Mubin Sheppard. With a note P. Kratoska](./dato-haji-mubin-sheppard-with-a-note-p-kratoska.md) — [P.H. Kratoska](./ph-kratoska.md), [Mubin Sheppard](./mubin-sheppard.md) (pp. 95–103)
+* [An Excerpt from Carl Gibson-Hill: Boats, Birds, Photography, and History in LateColonial Malaya. With a note P. Kratoska](./an-excerpt-from-carl-gibson-hill-boats-birds-photography-and.md) — [B. Luyt](./brendan-luyt.md) (pp. 89–94)
+* [Dato Haji Mubin Sheppard. With a note P. Kratoska](./dato-haji-mubin-sheppard-with-a-note-p-kratoska.md) — [P.H. Kratoska](./paul-h-kratoska.md), [Mubin Sheppard](./mubin-sheppard.md) (pp. 95–103)
 * [Visits of the Governor of the Straits Settlements to the Maharajah of Johor in 1874, 1880, and 1882. Facsimile reprint](./visits-of-the-governor-of-the-straits-settlements-to-the-mah.md) — [F.A Weld](./fa-weld.md) (pp. 105–119)
 * *Mubin Sheppard: Pioneering Works in Architectural Conservation in Malaysia. Zuraini Md Ali* — [Mohd Tajuddin Mohd Rasdi](./mohd-tajuddin-mohd-rasdi.md) (pp. 121–123) [Review]
 * *Celluloid Colony: Locating History and Ethnography in Early Dutch Colonial Films of Indonesia. S. Ray* — [T. Barker](./t-barker.md) (pp. 123–124) [Review]
@@ -183,8 +183,8 @@ articles:
 
 ## Contributors
 * [A.E. Sánchez Revilla](./ae-sánchez-revilla.md)
-* [B. Luyt](./b-luyt.md)
-* [B.J.Q. Khoo](./bjq-khoo.md)
+* [B. Luyt](./brendan-luyt.md)
+* [B.J.Q. Khoo](./benjamin-j-q-khoo.md)
 * [D. Devadas](./d-devadas.md)
 * [D. Lim](./d-lim.md)
 * [Danny Wong Tze-ken](./danny-wong-tze-ken.md)
@@ -193,8 +193,8 @@ articles:
 * [M.D. Barr](./md-barr.md)
 * [Mohd Tajuddin Mohd Rasdi](./mohd-tajuddin-mohd-rasdi.md)
 * [Mubin Sheppard](./mubin-sheppard.md)
-* [P. Borschberg](./p-borschberg.md)
-* [P.H. Kratoska](./ph-kratoska.md)
+* [P. Borschberg](./peter-borschberg.md)
+* [P.H. Kratoska](./paul-h-kratoska.md)
 * [Rosilawati Zainol](./rosilawati-zainol.md)
 * [S. Pillai](./s-pillai.md)
 * [T. Barker](./t-barker.md)

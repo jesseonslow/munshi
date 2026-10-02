@@ -23,7 +23,8 @@ published: false
 
 ## MBRAS Sources
 
-- Bryson, H.C. Lieutenant H.R. Kelham. MB 29(1)
+- [H.P. Bryson](./hp-bryson.md) (1956). [Lieut. H.R. Kelham](./lieut-hr-kelham.md). *JMBRAS* 29: 182–183
+
 ## Bibliography
 - (1882) [Ornithological notes made in the Straits Settlements and the western states of the Malay Peninsula](./ornithological-notes-made-in-the-straits-settlements-and-the.md). *JSBRAS* 9: 109–140
 - (1883) [Ornithological notes made in the Straits Settlements and the western states of the Malay Peninsula](./ornithological-notes-made-in-the-straits-settlements-and-the.md). *JSBRAS* 11: 1–29

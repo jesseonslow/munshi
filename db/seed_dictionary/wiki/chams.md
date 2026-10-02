@@ -18,8 +18,9 @@ published: false
 
 ## MBRAS Sources
 
-- Marrison, G.E. Chams of Malacca. MB 24(1)
-- Marrison, G.E. Cham language in relation to Malay. MB 48(2)
-- Marrison, G.E. Chams and their literature. MB 58(2)
+- [G.E. Marrison](./ge-marrison.md) (1951). [The Chams of Malacca](./the-chams-of-malacca.md). *JMBRAS* 24: 90–98
+- [G.E. Marrison](./ge-marrison.md) (1975). [The early Cham language, and its relationship to Malay](./the-early-cham-language-and-its-relationship-to-malay.md). *JMBRAS* 48(2): 52–59
+- [G.E. Marrison](./ge-marrison.md) (1985). [The Chams and their literature](./the-chams-and-their-literature.md). *JMBRAS* 58(2): 45–70
+
 ## References
 <!-- Grounded occurrences and citations -->

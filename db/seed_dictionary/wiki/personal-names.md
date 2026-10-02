@@ -18,9 +18,10 @@ published: false
 
 ## MBRAS Sources
 
-- Blagden, C.O. Haji ka-Ta-Na-Ka-La. SB 54
-- Hodgson, G. Malay conventional sib names. MB 40(2)
-- Jones, R. Chinese surnames and personal names. MB 32(3)
-- Needham, R. Temer names. MB 37(1)
+- [C.O. Blagden](./co-blagden.md) (1910). [Haji Ka-Ta-Na-Ka-La](./haji-ka-ta-na-ka-la.md). *JSBRAS* 54: 156–157
+- [G. Hodgson](./g-hodgson.md) (1967). [Malay conventional sib-names](./malay-conventional-sib-names.md). *JMBRAS* 40(2): 106–121
+- [R. Jones](./r-jones.md) (1959). [Chinese names: notes on the use of surnames and personal names by the Chinese in Malaya](./chinese-names-notes-on-the-use-of-surnames-and-personal-name.md). *JMBRAS* 32(3): 1–84
+- [R. Needham](./r-needham.md) (1964). [Temer names](./temer-names.md). *JMBRAS* 37: 121–125
+
 ## References
 <!-- Grounded occurrences and citations -->

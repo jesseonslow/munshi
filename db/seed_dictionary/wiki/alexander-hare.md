@@ -22,8 +22,9 @@ published: false
 
 ## MBRAS Sources
 
-- Gibson-Hill, C.A. Establishment of settlement on Cocos-Keeling islands. MB 25(4/5) and Reprint 31
-- Gibson-Hill, C.A. Raffles, Alexander Hare and Joanna Hare. MB 27(1)
+- [C.A. Gibson-Hill](./carl-alexander-gibson-hill.md) (1952). [Documents relating to John Clunies Ross, Alexander Hare, and the establishment of the colony on the Cocos-Keeling Islands](./documents-relating-to-john-clunies-ross-alexander-hare-and-t.md). *JMBRAS* 25(4/5): 1–306
+- Anon (2011). [The Colourful Early History of the Cocos-Keeling Islands](./the-colourful-early-history-of-the-cocos-keeling-islands.md). ** : 306
+- [C.A. Gibson-Hill](./carl-alexander-gibson-hill.md) (1954). [Raffles, Alexander Hare & Johanna van Hare](./raffles-alexander-hare-johanna-van-hare.md). *JMBRAS* 27: 224–233
 
 ## References
 <!-- Grounded occurrences and citations -->

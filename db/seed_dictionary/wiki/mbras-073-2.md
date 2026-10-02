@@ -121,13 +121,13 @@ articles:
 * *Papers relating to Brunei. Cheah Boon Kheng (ed* — [Mohamed Yusop](./mohamed-yusop.md) (pp. 103–104) [Review]
 * *The real cry of Syed Shaykh Al-Hady: with selections of his writings by his son Syed Alwi Al-Hady. . Gordon* — [Farish A. Noor](./farish-a-noor.md) (pp. 104–109) [Review]
 * *War and memory in Malaysia and Singapore* — [Y. Akashi](./y-akashi.md), [Lim Pui Huen](./lim-pui-huen.md), [D. Wong](./d-wong.md) (pp. 109–115) [Review]
-* *The William Farquhar Collection of Natural History Drawings. . Bastin, I. Polunin and Kwa Chong Guan* — [H.S. Barlow](./hs-barlow.md) (pp. 115–116) [Review]
+* *The William Farquhar Collection of Natural History Drawings. . Bastin, I. Polunin and Kwa Chong Guan* — [H.S. Barlow](./henry-sackville-barlow.md) (pp. 115–116) [Review]
 
 ## Contributors
 * [D. Wong](./d-wong.md)
 * [Farish A. Noor](./farish-a-noor.md)
 * [G.L. Koster](./gl-koster.md)
-* [H.S. Barlow](./hs-barlow.md)
+* [H.S. Barlow](./henry-sackville-barlow.md)
 * [J.M. Gullick](./john-michael-gullick.md)
 * [K. Blackburn](./k-blackburn.md)
 * [Lim Pui Huen](./lim-pui-huen.md)

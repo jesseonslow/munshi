@@ -25,12 +25,14 @@ published: false
 
 ## MBRAS Sources
 
-- Fisk, E.K. Economics of the handloom industry of E coast of Malaya. MB 32(4)
-- Gullick, J.M. Survey of Malay weavers and silversmiths of Kelantan. MB 25(1)
+- [E.K. Fisk](./ek-fisk.md) (1959). [The economics of the handloom industry of the east coast of Malaya](./the-economics-of-the-handloom-industry-of-the-east-coast-of-.md). *JMBRAS* 32(4): 1–72
+- [J.M. Gullick](./john-michael-gullick.md) (1952). [A survey of Malay weavers and silversmiths in Kelantan in 1951](./a-survey-of-malay-weavers-and-silversmiths-in-kelantan-in-19.md). *JMBRAS* 25: 134–148
 - Heppell, M. An evolutionary history of Ibanic weaving. MB 88(2) {R}
-- Hill, A.H. Weaving industry of Trengganu. MB 22(3) and Reprints 4 and 10
-- Maznah Mohamed. The origin of weaving centres in the Malay Peninsula. MB 68(1)
+- [A.H. Hill](./anthony-haydock-hill.md) (1949). [The weaving industry in Trengganu](./the-weaving-industry-in-trengganu.md). *JMBRAS* 22(3): 75–84
+- and Reprints 4 and 10
+- [Maznah Mohamed](./maznah-mohamed.md) (1995). [The origin of weaving centres in the Malay Peninsula](./the-origin-of-weaving-centres-in-the-malay-peninsula.md). *JMBRAS* 68: 91–118
 - Maznah Mohamed. The Malay handloom weavers: rise and decline. MB 70(1) {R}
-- Skeat, W.W. Silk and cotton dyeing by the Malays. SB 38
+- [W.W. Skeat](./walter-william-skeat.md) (1902). [Silk and cotton dyeing by the Malays](./silk-and-cotton-dyeing-by-the-malays.md). *JSBRAS* 38: 123–127
+
 ## References
 <!-- Grounded occurrences and citations -->

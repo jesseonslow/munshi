@@ -77,16 +77,16 @@ articles:
 * [Early Muslim traders in South-East Asia](./early-muslim-traders-in-south-east-asia.md) — [G.R. Tibbetts](./gr-tibbetts.md) (pp. 1–45)
 * [The extension of British control to Pahang](./the-extension-of-british-control-to-pahang.md) — [E. Thio](./e-thio.md) (pp. 46–74)
 * [Managerial influences in a Johore village](./managerial-influences-in-a-johore-village.md) — [K.O.L. Burridge](./kol-burridge.md) (pp. 93–114)
-* [Possible references to the Malay Peninsula in the Annals of the Former Han](./possible-references-to-the-malay-peninsula-in-the-annals-of-.md) — [P. Wheatley](./p-wheatley.md) (pp. 115–121)
-* [Ch’ih-t’u](./chih-tu.md) — [P. Wheatley](./p-wheatley.md) (pp. 122–133)
-* [Governor Blundell and Sir Benson Maxwell: a conflict of personalities](./governor-blundell-and-sir-benson-maxwell-a-conflict-of-perso.md) — [C.M. Turnbull](./cm-turnbull.md) (pp. 134–163)
+* [Possible references to the Malay Peninsula in the Annals of the Former Han](./possible-references-to-the-malay-peninsula-in-the-annals-of-.md) — [P. Wheatley](./paul-wheatley.md) (pp. 115–121)
+* [Ch’ih-t’u](./chih-tu.md) — [P. Wheatley](./paul-wheatley.md) (pp. 122–133)
+* [Governor Blundell and Sir Benson Maxwell: a conflict of personalities](./governor-blundell-and-sir-benson-maxwell-a-conflict-of-perso.md) — [C.M. Turnbull](./constance-mary-turnbull.md) (pp. 134–163)
 
 ## Contributors
-* [C.M. Turnbull](./cm-turnbull.md)
+* [C.M. Turnbull](./constance-mary-turnbull.md)
 * [E. Thio](./e-thio.md)
 * [G.R. Tibbetts](./gr-tibbetts.md)
 * [K.O.L. Burridge](./kol-burridge.md)
-* [P. Wheatley](./p-wheatley.md)
+* [P. Wheatley](./paul-wheatley.md)
 
 ## References
 <!-- Grounded occurrences and citations -->

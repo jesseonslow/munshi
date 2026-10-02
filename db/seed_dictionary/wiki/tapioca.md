@@ -21,6 +21,7 @@ published: false
 
 ## MBRAS Sources
 
-- Jackson, J.C. Chinese agriculture in Singapore and Johore. MB 38(1)
+- [J.C. Jackson](./jc-jackson.md) (1965). [Chinese agricultural pioneering in Singapore and Johore, 1800–1917](./chinese-agricultural-pioneering-in-singapore-and-johore-1800.md). *JMBRAS* 38: 77–105
+
 ## References
 <!-- Grounded occurrences and citations -->

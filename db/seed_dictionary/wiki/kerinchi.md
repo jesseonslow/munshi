@@ -18,7 +18,8 @@ published: false
 
 ## MBRAS Sources
 
-- Van Reijn, E.O. Kerintji dialects and Mon-Khmer languages. MB 47(2)
-- Watson, C.W. Rawa and Rinci. MB 55(1)
+- [E.O. Van Reijn](./eo-van-reijn.md) (1974). [Some remarks on the dialects of north Kerintji: a link with the Mon-Khmer languages](./some-remarks-on-the-dialects-of-north-kerintji-a-link-with-t.md). *JMBRAS* 47(2): 130–138
+- [C.W. Watson](./cw-watson.md) (1982). [Rawa and Rinchi: a further note](./rawa-and-rinchi-a-further-note.md). *JMBRAS* 55: 82–86
+
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,6 +25,7 @@ published: false
 - [Singapore: Social](./singapore-social.md)
 
 ## MBRAS Sources
+
 <!-- Seed entries or targeted retrieval for Social life and custom -->
 
 ## References

@@ -23,6 +23,7 @@ published: false
 
 ## MBRAS Sources
 
-- Hill, A.H. Games and entertainments in Kelantan. MB 25(1)
+- [A.H. Hill](./anthony-haydock-hill.md) (1952). [Some Kelantan games and entertainments](./some-kelantan-games-and-entertainments.md). *JMBRAS* 25: 20–34
+
 ## References
 <!-- Grounded occurrences and citations -->

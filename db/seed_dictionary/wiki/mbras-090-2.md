@@ -171,7 +171,7 @@ articles:
 * [Singapore ca. 1859, as seen by Colonel Henri de Ponchalon. . Dyer; with an introd. and notes](./singapore-ca-1859-as-seen-by-colonel-henri-de-ponchalon-dyer.md) — [C. Dyer](./c-dyer.md) (pp. 109–112)
 * [William George Maxwell: a biographical note](./william-george-maxwell-a-biographical-note.md) — [J.M. Gullick](./john-michael-gullick.md) (pp. 117–126)
 * [Visit to independent states in the vicinity of Malacca](./visit-to-independent-states-in-the-vicinity-of-malacca.md) — [F.A Weld](./fa-weld.md) (pp. 127–130)
-* *Ancient Southeast Asia* — [G. Wade](./g-wade.md), [J.N. Miksic](./jn-miksic.md), [Goh Geok Yian](./goh-geok-yian.md) (pp. 131–134) [Review]
+* *Ancient Southeast Asia* — [G. Wade](./geoff-wade.md), [J.N. Miksic](./jn-miksic.md), [Goh Geok Yian](./goh-geok-yian.md) (pp. 131–134) [Review]
 * *Boundaries and beyond: China’s maritime southeast in late imperial times. Ng Chin Keong* — [Mohamed Effendy Abdul Hamid](./mohamed-effendy-abdul-hamid.md) (pp. 134–136) [Review]
 * *Brunei: from the age of commerce to the 21st century. M.-S. de Vienne* — [J.L. Kurz](./jl-kurz.md) (pp. 137–140) [Review]
 * *Charismatic monks of Lanna Buddhism. .T. Cohen* — [Malee Sitthikriengkrai](./malee-sitthikriengkrai.md), [N. Porath](./n-porath.md) (pp. 140–143) [Review]
@@ -182,7 +182,7 @@ articles:
 ## Contributors
 * [C. Dyer](./c-dyer.md)
 * [F.A Weld](./fa-weld.md)
-* [G. Wade](./g-wade.md)
+* [G. Wade](./geoff-wade.md)
 * [Goh Geok Yian](./goh-geok-yian.md)
 * [J.L. Kurz](./jl-kurz.md)
 * [J.M. Gullick](./john-michael-gullick.md)

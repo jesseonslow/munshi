@@ -27,10 +27,11 @@ published: false
 
 ## MBRAS Sources
 
-- Cameron, P. Hymenoptera in Borneo. SB 37, 39, 41, 44, 46, 48
-- Cameron, P. Hymenoptera in Malaya and Singapore. SB 41
-- Cameron, P. _Iphiaulax_ and _Chaolta_ (Bracoaidae). SB 42 and 44
-- Cameron, P. New species of _Chalcis_ from Borneo. SB 42
-- Fullaway, D.T. New genera and species of Braconidae. SB 80
+- [P. Cameron](./p-cameron.md) (1907). [Description of new species of Hymenoptera from Borneo](./description-of-new-species-of-hymenoptera-from-borneo.md). *JSBRAS* 48: 1–26
+- [P. Cameron](./p-cameron.md) (1904). [On some Hymenoptera from the Raffles Museum, Singapore](./on-some-hymenoptera-from-the-raffles-museum-singapore.md). *JSBRAS* 41: 119–122
+- [P. Cameron](./p-cameron.md) (1905). [Description of new species of Iphiaulax and Chaolta (Braconidae) from Sarawak, Borneo](./description-of-new-species-of-iphiaulax-and-chaolta-braconid.md). *JSBRAS* 42: 23–51
+- [P. Cameron](./p-cameron.md) (1905). [A new species of Chalcis from Borneo](./a-new-species-of-chalcis-from-borneo.md). *JSBRAS* 42: 52
+- [D.T. Fullaway](./dt-fullaway.md) (1919). [New genera and species of Braconidae, mostly Malayan](./new-genera-and-species-of-braconidae-mostly-malayan.md). *JSBRAS* 80: 39–59
+
 ## References
 <!-- Grounded occurrences and citations -->

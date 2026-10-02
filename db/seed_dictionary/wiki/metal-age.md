@@ -21,7 +21,8 @@ published: false
 
 ## MBRAS Sources
 
-- Harrisson, B. Neolithic and metal age burials at Sekaloh, Niah, Sarawak. MB 41(2)
+- [Harrisson B](./harrisson-b.md) and [Tom Harrisson](./tom-harrisson.md) (1968). [Magala – a series of Neolithic and Metal Age burial grottos at Sekaloh, Niah, Sarawak](./magala-a-series-of-neolithic-and-metal-age-burial-grottos-at.md). *JMBRAS* 41(2): 148–175
 - O’Connor, S.J. A metal mould for making clay Buddhist votive stupas. MB 48(2)
+
 ## References
 <!-- Grounded occurrences and citations -->

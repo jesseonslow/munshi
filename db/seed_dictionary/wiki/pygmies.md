@@ -18,6 +18,7 @@ published: false
 
 ## MBRAS Sources
 
-- Quatrefages, A. de. Asiatic pygmies etc. Tr. J.E. de la Croix. SB 11 and 13
+- [J.E. De La Croix](./je-de-la-croix.md) and [A. de Quatrefages](./a-de-quatrefages.md) (1884). [The pigmies of Homer, Herodotus, Aristotle, Pliny etc.: the Asiatic pigmies, or Negritos; the Negrillos or African pigmies. A. de Quatrefages. . Errington De La Croix](./the-pigmies-of-homer-herodotus-aristotle-pliny-etc-the-asiat.md). *JSBRAS* 13: 1–48
+
 ## References
 <!-- Grounded occurrences and citations -->

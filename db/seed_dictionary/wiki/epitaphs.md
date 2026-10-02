@@ -23,6 +23,7 @@ published: false
 - [Tombs and tombstones](./tombs-and-tombstones.md)
 
 ## MBRAS Sources
+
 <!-- Seed entries or targeted retrieval for Epitaphs -->
 
 ## References

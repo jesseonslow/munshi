@@ -163,7 +163,7 @@ articles:
 **Date:** June 2018
 
 ## Table of Contents
-* [Singapore as a port city, c.1290–1819: evidence, frameworks and challenges](./singapore-as-a-port-city-c12901819-evidence-frameworks-and-c.md) — [P. Borschberg](./p-borschberg.md), [B.J.Q. Khoo](./bjq-khoo.md) (pp. 1–27)
+* [Singapore as a port city, c.1290–1819: evidence, frameworks and challenges](./singapore-as-a-port-city-c12901819-evidence-frameworks-and-c.md) — [P. Borschberg](./peter-borschberg.md), [B.J.Q. Khoo](./benjamin-j-q-khoo.md) (pp. 1–27)
 * [Anti-feudal elements in classical Malay political theory: the Taj al-Salatin](./anti-feudal-elements-in-classical-malay-political-theory-the.md) — [Farid, Syed Alatas](./farid-syed-alatas.md) (pp. 29–39)
 * [Wallace’s help: the many people who aided A. R. Wallace in the Malay archipelago](./wallaces-help-the-many-people-who-aided-a-r-wallace-in-the-m.md) — [John van Wyhe](./john-van-wyhe.md) (pp. 41–68)
 * [The Anglo-Chinese College in Malacca, 1818–1843: its location and facilities](./the-anglo-chinese-college-in-malacca-18181843-its-location-a.md) — [P. Kua](./p-kua.md) (pp. 69–88)
@@ -181,7 +181,7 @@ articles:
 * [A. Lim](./a-lim.md)
 * [Abu Talib Ahmad](./abu-talib-ahmad.md)
 * [Ahmad Murad Merican](./ahmad-murad-merican.md)
-* [B.J.Q. Khoo](./bjq-khoo.md)
+* [B.J.Q. Khoo](./benjamin-j-q-khoo.md)
 * [C.F. Bozzolo](./cf-bozzolo.md)
 * [Chong Ja Ian](./chong-ja-ian.md)
 * [F.R. Bradley](./fr-bradley.md)
@@ -191,7 +191,7 @@ articles:
 * [John van Wyhe](./john-van-wyhe.md)
 * [Khoo Salma Nasution](./khoo-salma-nasution.md)
 * [M. Aung-Thwin](./m-aung-thwin.md)
-* [P. Borschberg](./p-borschberg.md)
+* [P. Borschberg](./peter-borschberg.md)
 * [P. Kua](./p-kua.md)
 * [P.B.R. Carey](./pbr-carey.md)
 * [R. Jordaan](./r-jordaan.md)

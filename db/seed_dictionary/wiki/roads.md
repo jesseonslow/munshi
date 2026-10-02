@@ -19,7 +19,8 @@ published: false
 
 ## MBRAS Sources
 
-- Amarjit Kaur. Road and rail competition in Malaya, 1909–40. MB 53(2) and 54(1)
-- Scrivenor, J.B. Geology of Malacca with special reference to laterite. MB 5(2)
+- [Amarjit Kaur](./amarjit-kaur.md) (1980). [Road or rail? Competition in colonial Malaya, 1909–1940](./road-or-rail-competition-in-colonial-malaya-19091940.md). *JMBRAS* 53(2): 45–66
+- [J.B. Scrivenor](./jb-scrivenor.md) (1927). [The geology of Malacca, with a geological map and special reference to laterite](./the-geology-of-malacca-with-a-geological-map-and-special-ref.md). *JMBRAS* 5(2): 278–287
+
 ## References
 <!-- Grounded occurrences and citations -->

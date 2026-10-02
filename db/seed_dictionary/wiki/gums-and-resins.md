@@ -18,6 +18,7 @@ published: false
 
 ## MBRAS Sources
 
-- Ridley, H.N. Dammar and wood-oil. SB 34
+- [H.N. Ridley](./henry-nicholas-ridley.md) (1900). [Dammar and wood oil](./dammar-and-wood-oil.md). *JSBRAS* 34: 89–94
+
 ## References
 <!-- Grounded occurrences and citations -->

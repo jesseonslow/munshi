@@ -19,6 +19,7 @@ published: false
 <!-- Synthesis engine: Insert introductory synthesis for Physical anthropology here -->
 
 ## MBRAS Sources
+
 <!-- Seed entries or targeted retrieval for Physical anthropology -->
 
 ## References

@@ -79,17 +79,17 @@ articles:
 
 ## Table of Contents
 * [An historical enigma: a note on the anti-gambling petition of 1905](./an-historical-enigma-a-note-on-the-anti-gambling-petition-of.md) — [J.G. Butcher](./jg-butcher.md) (pp. 1–9)
-* [The missing second edition of C.H. Thomsen and Abdullah bin Abdul Kadir’s English and Malay vocabulary](./the-missing-second-edition-of-ch-thomsen-and-abdullah-bin-ab.md) — [J.S. Bastin](./js-bastin.md), [C.H. Thomsen](./ch-thomsen.md) (pp. 10–11)
+* [The missing second edition of C.H. Thomsen and Abdullah bin Abdul Kadir’s English and Malay vocabulary](./the-missing-second-edition-of-ch-thomsen-and-abdullah-bin-ab.md) — [J.S. Bastin](./john-bastin.md), [C.H. Thomsen](./ch-thomsen.md) (pp. 10–11)
 * [United States consuls in Singapore, 1859–1880](./united-states-consuls-in-singapore-18591880.md) — [P. Sodhy](./p-sodhy.md) (pp. 12–32)
-* [The “literary” study of Malay-Indonesian literature: some observations](./the-literary-study-of-malay-indonesian-literature-some-obser.md) — [A. Sweeney](./a-sweeney.md) (pp. 33–46)
+* [The “literary” study of Malay-Indonesian literature: some observations](./the-literary-study-of-malay-indonesian-literature-some-obser.md) — [A. Sweeney](./amin-sweeney.md) (pp. 33–46)
 * [Obituary: J.M. Echols](./obituary-jm-echols.md) — [Wolff. J](./wolff-j.md) (pp. 66–68)
-* *Two Achehnese poems: Hikajat Ranto and Hikajat Teungku di Meuke. G.W. Drewes* — [A. Sweeney](./a-sweeney.md) (pp. 69–72) [Review]
+* *Two Achehnese poems: Hikajat Ranto and Hikajat Teungku di Meuke. G.W. Drewes* — [A. Sweeney](./amin-sweeney.md) (pp. 69–72) [Review]
 
 ## Contributors
-* [A. Sweeney](./a-sweeney.md)
+* [A. Sweeney](./amin-sweeney.md)
 * [C.H. Thomsen](./ch-thomsen.md)
 * [J.G. Butcher](./jg-butcher.md)
-* [J.S. Bastin](./js-bastin.md)
+* [J.S. Bastin](./john-bastin.md)
 * [P. Sodhy](./p-sodhy.md)
 * [Wolff. J](./wolff-j.md)
 

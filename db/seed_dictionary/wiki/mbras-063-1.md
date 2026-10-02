@@ -116,7 +116,7 @@ articles:
 **Date:** June 1990
 
 ## Table of Contents
-* [Tertiary education in Malaya: policy and practice, 1905–1962](./tertiary-education-in-malaya-policy-and-practice-19051962.md) — [K.G. Tregonning](./kg-tregonning.md) (pp. 1–14)
+* [Tertiary education in Malaya: policy and practice, 1905–1962](./tertiary-education-in-malaya-policy-and-practice-19051962.md) — [K.G. Tregonning](./kennedy-gordon-tregonning.md) (pp. 1–14)
 * [The growth of Kuala Lumpur and of the Malay community of Selangor before 1880](./the-growth-of-kuala-lumpur-and-of-the-malay-community-of-sel.md) — [J.M. Gullick](./john-michael-gullick.md) (pp. 15–38)
 * [Post-war constitutional changes in Brunei 1944―1948](./post-war-constitutional-changes-in-brunei-19441948.md) — [A.V.M. Horton](./avm-horton.md) (pp. 35–54)
 * [Tunku Kudin: a scribe’s defence](./tunku-kudin-a-scribes-defence.md) — [Khoo Khay Jin](./khoo-khay-jin.md) (pp. 55–75)
@@ -133,7 +133,7 @@ articles:
 * [J. Peters](./j-peters.md)
 * [J. Stargardt](./j-stargardt.md)
 * [J.M. Gullick](./john-michael-gullick.md)
-* [K.G. Tregonning](./kg-tregonning.md)
+* [K.G. Tregonning](./kennedy-gordon-tregonning.md)
 * [Khoo Khay Jin](./khoo-khay-jin.md)
 * [Lim Teck Ghee](./lim-teck-ghee.md)
 * [N. Rees](./n-rees.md)

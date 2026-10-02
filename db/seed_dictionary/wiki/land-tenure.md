@@ -50,24 +50,26 @@ published: false
 
 ## MBRAS Sources
 
-- Bashiran Begum. Labuan legal history and land tenure system. MB 82(1)
+- [Bashiran Begum](./bashiran-begum.md) and [Nor Asiah Mohamad](./nor-asiah-mohamad.md) (2009). [Labuan: its legal history and land tenure system](./labuan-its-legal-history-and-land-tenure-system.md). *JMBRAS* 82: 17–54
 - Bastin, J.S. Raffles’ ideas on land rent system in Java. MB 28(1)
-- _British North Borneo Herald_. Land tenure in N Borneo. NQ Reprint 15
-- Cant, R.G. Historical geography of Pahang. Monograph 4
-- Cave, J.E.M. Naning in Malacca. Monograph 15
-- Cheng Siok-Hwa. Land tenure problems in Burma, 1852–1940. MB 38(1)
-- _China Review_. Land revenue system in China. NQ Reprint 15
-- Coope, A.E. Kangchu system in Johor. MB 14(3)
-- Leong Yee Fong. Early land transactions in Singapore. MB 77(1)
-- Maxwell, W.E. Traditional Malay land tenure. SB 13
+- Anon. [_British North Borneo Herald_. Land tenure in N Borneo](./mbras-reprint-15.md). *Reprint* 15
+- [Dr. R.G. Cant](./rg-cant.md) (1973). [An Historical Geography of Pahang](./an-historical-geography-of-pahang.md). ** : 185
+- [T.H.H. Hancock](./thh-hancock.md) (1986). [Coleman's Singapore](./colemans-singapore.md). ** : 94
+- [Cheng Siok-hwa](./cheng-siok-hwa.md) (1965). [Land tenure problems in Burma, 1852 to 1940](./land-tenure-problems-in-burma-1852-to-1940.md). *JMBRAS* 38: 106–134
+- Anon. [_China Review_. Land revenue system in China](./mbras-reprint-15.md). *Reprint* 15
+- [A.E. Coope](./ae-coope.md) (1936). [The kangchu system in Johore](./the-kangchu-system-in-johore.md). *JMBRAS* 14(3): 247–263
+- [Leong Foke Meng](./leong-foke-meng.md) (2004). [Early land transactions in Singapore: the real estates of William Farquhar (1774―1839) and John Crawfurd and their families](./early-land-transactions-in-singapore-the-real-estates-of-wil.md). *JMBRAS* 77: 23–42
+- [W.E. Maxwell](./sir-william-edward-maxwell.md) (1884). [The law and customs of the Malays with reference to the tenure of land](./the-law-and-customs-of-the-malays-with-reference-to-the-tenu.md). *JSBRAS* 13: 73–220
 - Maxwell, W.E. French land decree in Cambodia. SB 15
 - Maxwell, W.E. Feudal tenure in NEI in 17th century. SB 16
-- Maxwell, W.E. The survey question. SB 18
+- [W.E. Maxwell](./sir-william-edward-maxwell.md) (1886). [The survey question](./the-survey-question.md). *JSBRAS* 18: 271–272
 - _North Borneo Govt Gazette_. Land regulations N Borneo. SB 15
-- Tregonning, K.G. Land administration and development in early Penang. MB 39(2) and Reprint 33
-- Wilson, H.E. Evolution of land administration in the Malay states. MB 48(1)
+- [K.G. Tregonning](./kennedy-gordon-tregonning.md) (1966). [The early land administration and agricultural development of Penang](./the-early-land-administration-and-agricultural-development-o.md). *JMBRAS* 39(2): 274–289
+- Anon (2015). [Glimpses of Penang's Past](./glimpses-of-penangs-past.md). ** : 325
+- [H.E. Wilson](./he-wilson.md) (1975). [The evolution of land administration in the Malay states: a survey of British inspired changes](./the-evolution-of-land-administration-in-the-malay-states-a-s.md). *JMBRAS* 48: 120–133
 - Wright, H.R.C. Raffles and the Mackenzie Land Tenure Commission in Java. MB 28(1)
-- Yogeswaran Subramaniam. Orang Asli land and resource rights. MB 93(2)
-- Zaharah binti Hj Mahmud. Traditional land settlement in the Malay Peninsula. MB 43(2)
+- [K. Endicott](./k-endicott.md) and [Yogeswaran Subramaniam](./yogeswaran-subramaniam.md) (2020). [Orang Asli land and resource rights in the Malay States, 1874–1939](./orang-asli-land-and-resource-rights-in-the-malay-states-1874.md). *JMBRAS* 93(2): 87–114
+- [Zaharah binti Hj. Mahmud](./zaharah-binti-hj-mahmud.md) (1970). [The period and the nature of “traditional” settlement in the Malay Peninsula](./the-period-and-the-nature-of-traditional-settlement-in-the-m.md). *JMBRAS* 43(2): 81–112
+
 ## References
 <!-- Grounded occurrences and citations -->

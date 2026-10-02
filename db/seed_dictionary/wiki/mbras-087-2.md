@@ -140,7 +140,7 @@ articles:
 * *The memoirs and memorials of Jacques de Coutre: security, trade and society in 16th - and 17th -century Southeast Asia. . Borschberg. . Roy* — [Dhiravat na Pombejra](./dhiravat-na-pombejra.md) (pp. 109–111) [Review]
 * *Women in Southeast Asian nationalist movements* — [Badriyah Haji Salleh](./badriyah-haji-salleh.md), [Blackburn](./blackburn.md), [H. Ting](./h-ting.md) (pp. 111–114) [Review]
 * *Being Malay in Indonesia: histories, hopes and citizenship in the Riau archipelago. N.J. Long* — [Ahmat Adam](./ahmat-adam.md) (pp. 114–116) [Review]
-* *The history of logging in North Borneo. R. Ibbotson* — [H.S. Barlow](./hs-barlow.md) (pp. 116–118) [Review]
+* *The history of logging in North Borneo. R. Ibbotson* — [H.S. Barlow](./henry-sackville-barlow.md) (pp. 116–118) [Review]
 * *Singapore and the silk road of the sea, 1300‒1800. J.N. Miksic* — [Loh Wei Leng](./loh-wei-leng.md) (pp. 118–120) [Review]
 
 ## Contributors
@@ -152,7 +152,7 @@ articles:
 * [Chuleeporn Virunha](./chuleeporn-virunha.md)
 * [Dhiravat na Pombejra](./dhiravat-na-pombejra.md)
 * [H. Ting](./h-ting.md)
-* [H.S. Barlow](./hs-barlow.md)
+* [H.S. Barlow](./henry-sackville-barlow.md)
 * [J.M. Gullick](./john-michael-gullick.md)
 * [L. Wray](./l-wray.md)
 * [Loh Wei Leng](./loh-wei-leng.md)

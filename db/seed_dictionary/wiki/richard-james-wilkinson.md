@@ -22,8 +22,8 @@ published: false
 
 ## MBRAS Sources
 
-- Gullick, J.M. Wilkinson’s career and writing. MB 74(1)
-- Winstedt, R.O. Obituary. MB 20(1)
+- [J.M. Gullick](./john-michael-gullick.md) (2001). [Richard James Wilkinson: a man of parts](./richard-james-wilkinson-a-man-of-parts.md). *JMBRAS* 74: 19–42
+- [R.O. Winstedt](./richard-olaf-winstedt.md) (1947). [Richard James Wilkinson: Obituary](./richard-james-wilkinson-obituary.md). *JMBRAS* 20: 143–144
 
 ## Bibliography
 - (1895) [The Indonesian numerals](./the-indonesian-numerals.md). *JSBRAS* 28: 99–103

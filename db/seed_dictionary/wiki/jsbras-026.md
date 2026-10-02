@@ -85,7 +85,7 @@ articles:
 
 ## Table of Contents
 * [A journey on the Sembrong river, from Kuala Indau to Batu Pahat](./a-journey-on-the-sembrong-river-from-kuala-indau-to-batu-pah.md) — [H.J. Kelsall](./hj-kelsall.md), [H.W Lake](./hw-lake.md) (pp. 1–33)
-* [The camphor tree and the camphor language of Johore](./the-camphor-tree-and-the-camphor-language-of-johore.md) — [H.J. Kelsall](./hj-kelsall.md), [H. Lake](./h-lake.md), [H.W Lake](./hw-lake.md) (pp. 35–37)
+* [The camphor tree and the camphor language of Johore](./the-camphor-tree-and-the-camphor-language-of-johore.md) — [H.J. Kelsall](./hj-kelsall.md), [H. Lake](./hw-lake.md), [H.W Lake](./hw-lake.md) (pp. 35–37)
 * [Journal of a voyage from India to Siam and Malacca in 1779](./journal-of-a-voyage-from-india-to-siam-and-malacca-in-1779.md) — [J.G. Koenig](./jg-koenig.md) (pp. 58–201)
 * [The “Malingkote” in Borneo in June, 1891](./the-malingkote-in-borneo-in-june-1891.md) — [H. Wise](./h-wise.md) (pp. 203)
 * [Notes on an infant maias](./notes-on-an-infant-maias.md) — [Haviland G.F](./haviland-gf.md), [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 204–206)
@@ -93,7 +93,7 @@ articles:
 
 ## Contributors
 * [C.D. Sherborn](./cd-sherborn.md)
-* [H. Lake](./h-lake.md)
+* [H. Lake](./hw-lake.md)
 * [H. Wise](./h-wise.md)
 * [H.J. Kelsall](./hj-kelsall.md)
 * [H.N. Ridley](./henry-nicholas-ridley.md)

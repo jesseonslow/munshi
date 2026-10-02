@@ -17,6 +17,7 @@ published: false
 <!-- Synthesis engine: Insert introductory synthesis for Festivals here -->
 
 ## MBRAS Sources
+
 <!-- Seed entries or targeted retrieval for Festivals -->
 
 ## References

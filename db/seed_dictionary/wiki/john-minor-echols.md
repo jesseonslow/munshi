@@ -18,6 +18,7 @@ published: false
 
 ## MBRAS Sources
 
-- Wolff, J. Obituary. MB 56(1)
+- [Wolff. J](./wolff-j.md) (1983). [Obituary: J.M. Echols](./obituary-jm-echols.md). *JMBRAS* 56: 66–68
+
 ## References
 <!-- Grounded occurrences and citations -->

@@ -79,15 +79,15 @@ articles:
 **Date:** February 1972
 
 ## Table of Contents
-* [An eye-witness account of the invasion of Java in 1811 — the diary of Lt. W.G.A. Fielding. C. Skinner](./an-eye-witness-account-of-the-invasion-of-java-in-1811-the-d.md) — [W.G.A. Fielding](./wga-fielding.md), [C. Skinner](./c-skinner.md) (pp. 1–51)
-* *Some observations on the Malay Sha’ir* — [A. Sweeney](./a-sweeney.md) (pp. 52–70) [Review]
+* [An eye-witness account of the invasion of Java in 1811 — the diary of Lt. W.G.A. Fielding. C. Skinner](./an-eye-witness-account-of-the-invasion-of-java-in-1811-the-d.md) — [W.G.A. Fielding](./wga-fielding.md), [C. Skinner](./cyril-skinner.md) (pp. 1–51)
+* *Some observations on the Malay Sha’ir* — [A. Sweeney](./amin-sweeney.md) (pp. 52–70) [Review]
 * [Gold-foil burial amulets in Bali, Philippines and Borneo. S.J. O’Connor and T. Harrisson](./gold-foil-burial-amulets-in-bali-philippines-and-borneo-sj-o.md) — [Tom Harrisson](./tom-harrisson.md), [S.J. O'Connor](./sj-oconnor.md) (pp. 70–77)
 * [The origins of an irrigation policy in Malaya: a review of developments prior to the establishment of the Drainage and Irrigation Department](./the-origins-of-an-irrigation-policy-in-malaya-a-review-of-de.md) — [J.C. Jackson](./jc-jackson.md), [D.E. Short](./de-short.md) (pp. 78–103)
 * [The early adat constitution of Negeri Sembilan (1773–1824](./the-early-adat-constitution-of-negeri-sembilan-17731824.md) — [M.B. Hooker](./mb-hooker.md) (pp. 104–116)
 
 ## Contributors
-* [A. Sweeney](./a-sweeney.md)
-* [C. Skinner](./c-skinner.md)
+* [A. Sweeney](./amin-sweeney.md)
+* [C. Skinner](./cyril-skinner.md)
 * [D.E. Short](./de-short.md)
 * [J.C. Jackson](./jc-jackson.md)
 * [M.B. Hooker](./mb-hooker.md)

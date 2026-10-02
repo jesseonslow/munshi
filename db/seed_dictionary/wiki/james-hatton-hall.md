@@ -17,6 +17,7 @@ published: false
 <!-- Synthesis engine: Insert introductory synthesis for James Hatton Hall here -->
 
 ## MBRAS Sources
+
 <!-- Seed entries or targeted retrieval for James Hatton Hall -->
 
 ## References

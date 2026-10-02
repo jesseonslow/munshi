@@ -23,7 +23,8 @@ published: false
 
 ## MBRAS Sources
 
-- Ahmad Kamil, Tan Sri Nik. Foreword to volume (MB 40(2)) dedicated to ROW.
+- [Nik, Tan Sri Ahmad Kamil](./nik-tan-sri-ahmad-kamil.md) (1967). [Foreword {to the volume of the journal dedicated to Sir Richard Winstedt](./foreword-to-the-volume-of-the-journal-dedicated-to-sir-richa.md). *JMBRAS* 40(2): 1–2
+
 ## Bibliography
 - (1906) [Some mouse-deer tales](./some-mouse-deer-tales.md). *JSBRAS* 45: 61–69
 - (1906) [Some notes on Malay card games](./some-notes-on-malay-card-games.md). *JSBRAS* 45: 85–88

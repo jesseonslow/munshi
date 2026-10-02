@@ -24,6 +24,7 @@ published: false
 <!-- Synthesis engine: Insert introductory synthesis for Communism here -->
 
 ## MBRAS Sources
+
 <!-- Seed entries or targeted retrieval for Communism -->
 
 ## References

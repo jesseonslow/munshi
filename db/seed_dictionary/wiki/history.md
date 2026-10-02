@@ -31,6 +31,7 @@ published: false
 - [Politics and government](./politics-and-government.md)
 
 ## MBRAS Sources
+
 <!-- Seed entries or targeted retrieval for History -->
 
 ## References

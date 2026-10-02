@@ -19,9 +19,10 @@ published: false
 
 ## MBRAS Sources
 
-- al-Attas, Naguib, Syed. Life of Hamzah Fansuri. MB 40(1)
-- al-Attas, Naguib, Syed. Raniri and _wujudiyyah_ of 17th century Acheh. Monograph 3.
-- Brakel, L.F. Birth of Hamzah Pansuri. MB 42(2)
-- Brakel, L.F. Hamza Pansuri: Yoga practices etc. MB 52(1)
+- [Naguib, Syed Al-Attas](./naguib-syed-al-attas.md) (1967). [New light on the life of Hamzah Fansuri](./new-light-on-the-life-of-hamzah-fansuri.md). *JMBRAS* 40: 42–51
+- [Syed Muhammad Naguib al-Attas](./muhammad-naguib-al-attas.md) (1966). [Raniri and the Wujudiyyah of 17th Century Acheh](./raniri-and-the-wujudiyyah-of-17th-century-acheh.md). ** : 153
+- [L.F. Brakel](./lf-brakel.md) (1969). [The birth of Hamza Pansuri](./the-birth-of-hamza-pansuri.md). *JMBRAS* 42(2): 206–212
+- [L.F. Brakel](./lf-brakel.md) (1979). [Hamza Pansuri: notes on yoga practices, lahir dan zahir, the ‘Taxallos’, punning, a difficult passage in the Kitab al-Muntahi, Hamza’s likely place of birth, and Hamza’s imagery: with appendix](./hamza-pansuri-notes-on-yoga-practices-lahir-dan-zahir-the-ta.md). *JMBRAS* 52: 73–98
+
 ## References
 <!-- Grounded occurrences and citations -->

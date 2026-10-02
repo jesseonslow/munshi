@@ -22,6 +22,7 @@ published: false
 <!-- Synthesis engine: Insert introductory synthesis for Basel Mission in North Borneo here -->
 
 ## MBRAS Sources
+
 <!-- Seed entries or targeted retrieval for Basel Mission in North Borneo -->
 
 ## References

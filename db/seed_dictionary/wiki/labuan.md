@@ -18,6 +18,7 @@ published: false
 
 ## MBRAS Sources
 
-- Bashiran Begum. Labuan legal history and land tenure system. MB 82(1)
+- [Bashiran Begum](./bashiran-begum.md) and [Nor Asiah Mohamad](./nor-asiah-mohamad.md) (2009). [Labuan: its legal history and land tenure system](./labuan-its-legal-history-and-land-tenure-system.md). *JMBRAS* 82: 17–54
+
 ## References
 <!-- Grounded occurrences and citations -->

@@ -55,35 +55,39 @@ published: false
 ## MBRAS Sources
 
 - Tombs and tombstones Anon. Graveyards of the late Sultans of Perak. SB 48
-- Barnes, W.D. Royal cemetery at Pekan, Pahang. SB 60
-- Barnes, W.D. An old tombstone in Pahang. SB 60
-- Bastin, C. Some old Penang tombstones. MB 37(1)
-- Bougas, W.A. Some early Islamic tombstones in Patani. MB 59(1)
-- Brooks, C.J. English tombs and monuments at Bencoolen. SB 78
-- Carey, T.F. Two early Muslim tombs in Brunei. MB 11(2)
-- Casparis, J.G. de. Ahmat Majani’s tombstone at Pengkalan Kempas. MB 53(1)
-- Ch’ng D. Some old Penang tombstones: a sequel. MB 60(1)
-- Hale, A. Sang Kalembai. NQ Reprint 15
-- Hough, G.C. A pre-Islamic element in Malay graves. MB 18(2)
-- Linehan, W. Marhum Muda Pahang. MB 12(2)
-- Linehan, W. Tombstones of Muhammad Shah I of Pahang. MB 4(2)
-- Linehan, W. 18th century tomb at Pekan Lama. MB 4(3)
-- Linehan, W. Keramat Sri Benian. MB 24(3) and 25(1)
-- Maxwell, W.E. A Malay kerama at Larut. SB 2
-- Mills, J.V. Armenian tombstones at Malacca. MB 14(3)
-- Mohamed Suffian. Tomb of the “King of Brunei” in Nanking. MB 56(2) and Reprint 18
-- Moquette, J.P. Gravestone of Sultan Mansur Shah of Malacca (1458–77). SB 85
-- Noorduyn, J. Bugis inscription in the Udok-Udok cemetery in Brunei. MB 66(2)
-- Orolfo, P. Old coffins in Sabah caves. MB 11(2)
+- [W.D. Barnes](./wd-barnes.md) (1911). [An old royal cemetery at Pekan in Pahang](./an-old-royal-cemetery-at-pekan-in-pahang.md). *JSBRAS* 60: 35–36
+- [W.D. Barnes](./wd-barnes.md) (1911). [An old royal tombstone in Pahang](./an-old-royal-tombstone-in-pahang.md). *JSBRAS* 60: 37–39
+- [C. Bastin](./c-bastin.md) and [J.S. Bastin](./john-bastin.md) (1964). [Some old Penang tombstones. C. Bastin and J. Bastin](./some-old-penang-tombstones-c-bastin-and-j-bastin.md). *JMBRAS* 37: 126–165
+- [W.A. Bougas](./wa-bougas.md) (1986). [Some early Islamic tombstones in Patani](./some-early-islamic-tombstones-in-patani.md). *JMBRAS* 59: 85–112
+- [C.J. Brooks](./cj-brooks.md) (1918). [English tombs and monuments in Bencoolen](./english-tombs-and-monuments-in-bencoolen.md). *JSBRAS* 78: 51–58
+- [T.F. Carey](./tf-carey.md) (1933). [Two early Muslim tombs at Brunei](./two-early-muslim-tombs-at-brunei.md). *JMBRAS* 11(2): 183
+- [J.G. de Casparis](./jg-de-casparis.md) (1980). [Ahmat Majanu’s tombstone at Pengkalan Kempas and its Kawi inscription,](./ahmat-majanus-tombstone-at-pengkalan-kempas-and-its-kawi-ins.md). *JMBRAS* 53: 1–22
+- [D. Ch'ng](./d-chng.md) and [M.W. Mintz](./mw-mintz.md) (1987). [Some old Penang tombstones: a sequel](./some-old-penang-tombstones-a-sequel.md). *JMBRAS* 60: 75–80
+- Anon. [Hale, A. Sang Kalembai](./mbras-reprint-15.md). *Reprint* 15
+- [G.G. Hough](./gg-hough.md) (1940). [A Pre-Islamic element in the Malay grave](./a-pre-islamic-element-in-the-malay-grave.md). *JMBRAS* 18(2): 46–48
+- [W. Linehan](./w-linehan.md) (1934). [Marhum Muda Pahang](./marhum-muda-pahang.md). *JMBRAS* 12(2): 171–172
+- [W. Linehan](./w-linehan.md) (1926). [Tomb-stones of Mahmud Shah I of Pahang](./tomb-stones-of-mahmud-shah-i-of-pahang.md). *JMBRAS* 4(2): 188–192
+- [W. Linehan](./w-linehan.md) (1926). [A XVIIIth century tomb at Pekan Lama](./a-xviiith-century-tomb-at-pekan-lama.md). *JMBRAS* 4(3): 333
+- [W. Linehan](./w-linehan.md) (1951). [Keramat Seri Benian](./keramat-seri-benian.md). *JMBRAS* 24(3): 151–153
+- [W.E. Maxwell](./sir-william-edward-maxwell.md) (1878). [A Malay kramat](./a-malay-kramat.md). *JSBRAS* 2: 236–238
+- [J.V. Mills](./jv-mills.md) (1936). [Notes on the Armenian tombstones at Malacca](./notes-on-the-armenian-tombstones-at-malacca.md). *JMBRAS* 14(3): 264–271
+- [Mohamed Suffian](./mohamed-suffian.md) (1983). [Tomb of “The King of Brunei” in Nanking](./tomb-of-the-king-of-brunei-in-nanking.md). *JMBRAS* 56(2): 1–6
+- [Hugh Low](./sir-hugh-low.md) et al. (1998). [Papers Relating to Brunei](./papers-relating-to-brunei.md). ** : 192
+- [J.P. Moquette](./jp-moquette.md) (1922). [The grave-stone of Sultan Mansur Shah of Malacca (1458–1477 A.D.](./the-grave-stone-of-sultan-mansur-shah-of-malacca-14581477-ad.md). *JSBRAS* 85: 1–3
+- [Noorduyn. J](./noorduyn-j.md) and [H.E. Wilson](./he-wilson.md) (1993). [The Bugis inscription in the Udo-Udok cemetery in Brunei](./the-bugis-inscription-in-the-udo-udok-cemetery-in-brunei.md). *JMBRAS* 66(2): 103–112
+- [P. Orolfo](./p-orolfo.md) (1933). [Old coffins in British North Borneo caves](./old-coffins-in-british-north-borneo-caves.md). *JMBRAS* 11(2): 133–134
 - Perret, D. Batu Aceh: tombstones in Johor. MB 74(1) {R}
 - Perret, D. (ed) A survey of epigraphy in Southeast Asia. MB 92(2) {R}
-- Shariffuddin, P.M. Genealogical tablet of Sultans of Brunei. MB 47(1) and Reprints 4 and 18
-- Stallwood, H.J. The Fort Canning cemetery, Singapore. SB 61 and MB 42(1) and Reprint 1
-- Wilkinson, R.J. The Bernam slab-graves. MB 17(1)
-- Winstedt, R.O. Tomb of Mansur Shah of Malacca (r1459–75). SB 78
-- Winstedt, R.O. Muslim tombstones in the Raffles Museum. MB 10(1)
-- Winstedt, R.O. Slab-graves and iron implements. MB 19(1)
-- Zainal Abidin bin Ahmad. Gravestone of Sultan Mansur Shah of Malacca. SB 86
-- Zakaria Ali. Note on a pair of batu aceh in Rembau. MB 68(1)
+- [Abdul Latif bin Haji Ibrahim](./abdul-latif-bin-haji-ibrahim.md) and [P.M. Shariffuddin](./pm-shariffuddin.md) (1974). [Batu Tarsilah: the genealogical tablet of the Sultans of Brunei. Pengiran M. Shariffuddin and Abdul Latif bin Haji Ibrahim](./batu-tarsilah-the-genealogical-tablet-of-the-sultans-of-brun.md). *JMBRAS* 47: 87–95
+- and Reprints 4 and 18
+- [H.A. Stallwood](./ha-stallwood.md) (1912). [The old cemetery on Fort Canning, Singapore](./the-old-cemetery-on-fort-canning-singapore.md). *JSBRAS* 61: 77–126
+- Anon (1973). [150th Anniversary of the Founding of Singapore Commemorative Reprint](./150th-anniversary-of-the-founding-of-singapore-commemorative-reprint.md). ** : 317
+- [R.J. Wilkinson](./richard-james-wilkinson.md) (1939). [The Bernam slab-graves](./the-bernam-slab-graves.md). *JMBRAS* 17: 134–143
+- [R.O. Winstedt](./richard-olaf-winstedt.md) (1918). [The tomb of Mansur Shah, Sultan of Malacca, 1459?–1475 A.D](./the-tomb-of-mansur-shah-sultan-of-malacca-14591475-ad.md). *JSBRAS* 78: 47–48
+- [R.O. Winstedt](./richard-olaf-winstedt.md) (1932). [Muslim tombstones in Raffles Museum](./muslim-tombstones-in-raffles-museum.md). *JMBRAS* 10: 6–8
+- [R.O. Winstedt](./richard-olaf-winstedt.md) (1941). [Slab-graves and iron implements](./slab-graves-and-iron-implements.md). *JMBRAS* 19: 93–98
+- [Zainal Abidin bin Ahmad](./zainal-abidin-bin-ahmad.md) (1922). [The grave-stone of Sultan Shah of Malacca](./the-grave-stone-of-sultan-shah-of-malacca.md). *JSBRAS* 86: 368–388
+- [Zakaria Ali](./zakaria-ali.md) (1995). [Note on a pair of batu aceh in Rembau](./note-on-a-pair-of-batu-aceh-in-rembau.md). *JMBRAS* 68: 81–89
+
 ## References
 <!-- Grounded occurrences and citations -->

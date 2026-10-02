@@ -19,9 +19,10 @@ published: false
 
 ## MBRAS Sources
 
-- Amarjit Kaur. Road and rail competition in Malaya, 1909–40. MB 53(2) and 54(1)
+- [Amarjit Kaur](./amarjit-kaur.md) (1980). [Road or rail? Competition in colonial Malaya, 1909–1940](./road-or-rail-competition-in-colonial-malaya-19091940.md). *JMBRAS* 53(2): 45–66
 - Ibbotson, R. North Borneo Railway and the founding of Jesselton. MB 93(1) {R}
-- Jeshurun, C. Malay Railway and Works Construction Company, 1893–5. MB 37(2)
-- Sidhu, J.S. Railways in Selangor. MB 38(1)
+- [C. (Chandran Jeshurun) Jeshurun](./c-chandran-jeshurun-jeshurun.md) (1964). [Private enterprise and British policy in the Malay Peninsula: the case of the Malay Railway and Works Construction Company 1893–1895](./private-enterprise-and-british-policy-in-the-malay-peninsula.md). *JMBRAS* 37(2): 28–46
+- [J.S. Sidhu](./js-sidhu.md) (1965). [Railways in Selangor](./railways-in-selangor.md). *JMBRAS* 38: 6–22
+
 ## References
 <!-- Grounded occurrences and citations -->

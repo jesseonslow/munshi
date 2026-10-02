@@ -28,9 +28,10 @@ published: false
 
 ## MBRAS Sources
 
-- Gibson-Hill, C.A. Introduction to Skeat’s expedition journal. MB 26(4)
-- Gullick, J.M. W.W. Skeat as ethnographer. MB 61(1)
+- [C.A. Gibson-Hill](./carl-alexander-gibson-hill.md) et al. (1953). [The Cambridge University Expedition to parts of the Malay Peninsula, 1899–1900: personal accounts. W.W. Skeat and F.F. Laidlaw. {Introd. C.A. Gibson-Hill](./the-cambridge-university-expedition-to-parts-of-the-malay-pe.md). *JMBRAS* 26(4): 1–174
+- [Noorduyn. J](./noorduyn-j.md) (1988). [The Bugis genealogy of the Raja Muda family of Riau-Johor](./the-bugis-genealogy-of-the-raja-muda-family-of-riau-johor.md). *JMBRAS* 61(2): 63–92
 - Laidlaw, F.F. Obituary. MB 26(1)
+
 ## Bibliography
 - (1896) [A vocabulary of the Besisi dialect](./a-vocabulary-of-the-besisi-dialect.md). *JSBRAS* 29: 13–31
 - (1898) [Some records of Malay magic by an eye-witness](./some-records-of-malay-magic-by-an-eye-witness.md). *JSBRAS* 31: 1–41

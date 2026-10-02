@@ -19,6 +19,7 @@ published: false
 
 ## MBRAS Sources
 
-- Hanitsch, R. Flying frog _Rhacopheros nigropalmatus_. SB 34
+- [Hanitsch R](./hanitsch-r.md) (1900). [Notes on the flying frog Rhacophorus nigropalmatus](./notes-on-the-flying-frog-rhacophorus-nigropalmatus.md). *JSBRAS* 34: 96–97
+
 ## References
 <!-- Grounded occurrences and citations -->

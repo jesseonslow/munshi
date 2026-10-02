@@ -20,6 +20,7 @@ published: false
 
 ## MBRAS Sources
 
-- Wright, N.H. Nepotism and patronage in Francis Bernard’s career. MB 89(2)
+- [N.H. Wright](./nh-wright.md) (2016). [The career of Francis James Bernard: nepotism and patronage in early Singapore](./the-career-of-francis-james-bernard-nepotism-and-patronage-i.md). *JMBRAS* 89(2): 25–44
+
 ## References
 <!-- Grounded occurrences and citations -->

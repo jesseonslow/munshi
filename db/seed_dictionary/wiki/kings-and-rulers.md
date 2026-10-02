@@ -18,6 +18,7 @@ published: false
 <!-- Synthesis engine: Insert introductory synthesis for Kings and rulers here -->
 
 ## MBRAS Sources
+
 <!-- Seed entries or targeted retrieval for Kings and rulers -->
 
 ## References

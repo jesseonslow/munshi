@@ -23,9 +23,8 @@ published: false
 
 ## MBRAS Sources
 
-- Evans, I.H.N. Borneo diaries. MB 76(2) {R}
-- Evans, I.H.N. Bornean diaries 1938–42. MB 83(2) {R}
-- Tweedie, M.W.F. Obituary. MB 33(1)
+- [M.W.F. Tweedie](./michael-wilmer-forbes-tweedie.md) (1960). [Ivor Hugh Norman Evans. Obituary](./ivor-hugh-norman-evans-obituary.md). *JMBRAS* 33: 109
+
 ## Bibliography
 - (1923) [Two Malay methods of divination](./two-malay-methods-of-divination.md). *JMBRAS* 1(1): 247
 - (1923) [On the persistence of an old type of water-vessel](./on-the-persistence-of-an-old-type-of-water-vessel.md). *JMBRAS* 1(1): 248–250

@@ -20,6 +20,7 @@ published: false
 
 ## MBRAS Sources
 
-- Grimes, A. Journey of Fa-Hsien from Ceylon to Canton. MB 19(1) and
+- [A. Grimes](./a-grimes.md) (1941). [The journey of Fa-Hsien from Ceylon to Canton](./the-journey-of-fa-hsien-from-ceylon-to-canton.md). *JMBRAS* 19: 76–92
+
 ## References
 <!-- Grounded occurrences and citations -->

@@ -21,6 +21,7 @@ published: false
 
 ## MBRAS Sources
 
-- Appell, G.N. Social groupings among the Rungus of N Borneo. MB 41(2)
+- [G.N. Appell](./gn-appell.md) (1968). [Social groupings among the Rungus, a cognatic society of northern Borneo](./social-groupings-among-the-rungus-a-cognatic-society-of-nort.md). *JMBRAS* 41(2): 193–202
+
 ## References
 <!-- Grounded occurrences and citations -->

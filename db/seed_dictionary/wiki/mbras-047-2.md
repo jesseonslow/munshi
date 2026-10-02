@@ -102,14 +102,14 @@ articles:
 * [Some ethnographic notes on Semelai in northern Pahang](./some-ethnographic-notes-on-semelai-in-northern-pahang.md) — [R. Needham](./r-needham.md) (pp. 123–129)
 * [Some remarks on the dialects of north Kerintji: a link with the Mon-Khmer languages](./some-remarks-on-the-dialects-of-north-kerintji-a-link-with-t.md) — [E.O. Van Reijn](./eo-van-reijn.md) (pp. 130–138)
 * [Double-spouted vessels, II: in West Malaysia & Singapore (from prehistory to the present day](./double-spouted-vessels-ii-in-west-malaysia-singapore-from-pr.md) — [Tom Harrisson](./tom-harrisson.md) (pp. 139–147)
-* [Stone brackets from Tha Rua, Nakhon Si Thammarat](./stone-brackets-from-tha-rua-nakhon-si-thammarat.md) — [H.G.Q. Wales](./hgq-wales.md) (pp. 148–149)
-* [Batu Tarsilah: a short comment](./batu-tarsilah-a-short-comment.md) — [A. Sweeney](./a-sweeney.md) (pp. 151–152)
+* [Stone brackets from Tha Rua, Nakhon Si Thammarat](./stone-brackets-from-tha-rua-nakhon-si-thammarat.md) — [H.G.Q. Wales](./horace-geoffrey-quaritch-wales.md) (pp. 148–149)
+* [Batu Tarsilah: a short comment](./batu-tarsilah-a-short-comment.md) — [A. Sweeney](./amin-sweeney.md) (pp. 151–152)
 
 ## Contributors
-* [A. Sweeney](./a-sweeney.md)
+* [A. Sweeney](./amin-sweeney.md)
 * [Drewes G.W.J](./drewes-gwj.md)
 * [E.O. Van Reijn](./eo-van-reijn.md)
-* [H.G.Q. Wales](./hgq-wales.md)
+* [H.G.Q. Wales](./horace-geoffrey-quaritch-wales.md)
 * [J.V. Mills](./jv-mills.md)
 * [Lim Teck Ghee](./lim-teck-ghee.md)
 * [R. Needham](./r-needham.md)

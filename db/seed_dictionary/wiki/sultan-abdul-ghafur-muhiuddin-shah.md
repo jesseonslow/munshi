@@ -18,7 +18,8 @@ published: false
 
 ## MBRAS Sources
 
-- Jakeman, R.W. _Pahang Kanun._ MB 24(3)
-- Kempe, J.E. Malay legal digest compiled for ‘Abd al-Ghafur Muhaiyu’ddin Shah, Sultan of Pahang (1592–1614). MB 21(1)
+- [R.W. Jakeman](./rw-jakeman.md) (1951). [The “Pahang Kanun” of Sultan ‘Abdul Ghafur: another text](./the-pahang-kanun-of-sultan-abdul-ghafur-another-text.md). *JMBRAS* 24(3): 150–151
+- [J.E. Kempe](./je-kempe.md) and [R.O. Winstedt](./richard-olaf-winstedt.md) (1948). [A Malay legal digest compiled for ‘Abd al-Ghafur Muhaiyuddin Shah, Sultan of Pahang, 1592–1614 A.D., with undated additions. .E](./a-malay-legal-digest-compiled-for-abd-al-ghafur-muhaiyuddin-.md). *JMBRAS* 21: 1–67
+
 ## References
 <!-- Grounded occurrences and citations -->

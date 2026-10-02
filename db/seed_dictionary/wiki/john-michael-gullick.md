@@ -23,13 +23,13 @@ published: false
 
 ## MBRAS Sources
 
-- Barlow, H.S. Foreword to Festschrift. MB 72(2)
+- [H.S. Barlow](./henry-sackville-barlow.md) (1999). [Foreword (J.M. Gullick Festschrift](./foreword-jm-gullick-festschrift.md). *JMBRAS* 72(2): 1
 - Obituary. MB 85(1)
-- Gullick, J.M. John M. Gullick. MB 72(2)
-- Gullick, J.M. List of publications. MB 72(2)
-- Gullick, J.M. Recollections of my time in Malaya, 1946–51. MB 86(2)
-- Gullick, J.M. Recollections of my time in Malaya, 1945–56. MB 87(1)
-- Gullick, J.M. Recollections of my time in Malaya, 1945–56. MB 87(2)
+- [J.M. Gullick](./john-michael-gullick.md) (1999). [List of publications. {J.M. Gullick](./list-of-publications-jm-gullick.md). *JMBRAS* 72(2): 183–16
+- [J.M. Gullick](./john-michael-gullick.md) (1999). [List of publications. {J.M. Gullick](./list-of-publications-jm-gullick.md). *JMBRAS* 72(2): 183–16
+- [J.M. Gullick](./john-michael-gullick.md) (2013). [Recollections of my time in Malaya (1945–1948) Part 1](./recollections-of-my-time-in-malaya-19451948-part-1.md). *JMBRAS* 86(2): 59–76
+- [J.M. Gullick](./john-michael-gullick.md) (2014). [Recollections of my time in Malaya (1945–1956) Part 2](./recollections-of-my-time-in-malaya-19451956-part-2.md). *JMBRAS* 87: 53–81
+- [J.M. Gullick](./john-michael-gullick.md) (2014). [Recollections of my time in Malaya (1945–1956) Part 3](./recollections-of-my-time-in-malaya-19451956-part-3.md). *JMBRAS* 87(2): 47–89
 
 ## Bibliography
 - (1949) [Sungei Ujong](./sungei-ujong.md). *JMBRAS* 22(2): 1–69

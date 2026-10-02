@@ -21,6 +21,7 @@ published: false
 
 ## MBRAS Sources
 
-- Smedley, N. An abnormal or unnamed sea-snake. MB 4(1)
+- [C.B. Kloss](./cb-kloss.md) and [N. Smedley](./n-smedley.md) (1926). [An abnormal, or unnamed, sea-snake. N. Smedley and C.B. Kloss. Records of the Raffles Museum, No. 18](./an-abnormal-or-unnamed-sea-snake-n-smedley-and-cb-kloss-reco.md). *JMBRAS* 4: 163–164
+
 ## References
 <!-- Grounded occurrences and citations -->

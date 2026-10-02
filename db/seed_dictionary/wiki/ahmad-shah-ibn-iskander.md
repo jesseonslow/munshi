@@ -19,6 +19,7 @@ published: false
 
 ## MBRAS Sources
 
-- Kathirithamby-Wells, J. Late 17th century ‘holy war’ in Indonesia. MB 43(1)
+- [J. Kathirithamby– Wells](./j-kathirithamby-wells.md) (1970). [Ahmad Shah Ibn Iskander and the late 17th century ‘holy war’ in Indonesia](./ahmad-shah-ibn-iskander-and-the-late-17th-century-holy-war-i.md). *JMBRAS* 43: 48–63
+
 ## References
 <!-- Grounded occurrences and citations -->

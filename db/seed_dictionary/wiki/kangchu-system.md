@@ -23,8 +23,10 @@ published: false
 
 ## MBRAS Sources
 
-- Coope, A.E. _Kangchu_ system of Johor. MB 14(3) and Reprint 6
+- [A.E. Coope](./ae-coope.md) (1936). [The kangchu system in Johore](./the-kangchu-system-in-johore.md). *JMBRAS* 14(3): 247–263
+- [R.O. Winstedt](./richard-olaf-winstedt.md) (1979). [A History of Johore](./a-history-of-johore.md). ** : 240
 - Trocki, C.A. Johor archives on _kangchu_ system. MB 48(1)
 - Origin of _kangchu_ system, 1740–1860. MB 49(2)
+
 ## References
 <!-- Grounded occurrences and citations -->

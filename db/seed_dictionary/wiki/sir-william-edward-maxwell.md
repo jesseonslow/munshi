@@ -23,7 +23,7 @@ published: false
 
 ## MBRAS Sources
 
-- Gullick, J.M. William Maxwell and Malay society. MB 64(2)
+- [J.M. Gullick](./john-michael-gullick.md) (1991). [William Maxwell and the study of Malay society (with an introduction by Khoo Kay Kim](./william-maxwell-and-the-study-of-malay-society-with-an-intro.md). *JMBRAS* 64(2): 5–46
 - Mohamad Rashidi Pakri. The Maxwell-Swettenham rivalry. MB 84(2)
 - Kynnersley, C.W.S. Obituary. SB 32
 

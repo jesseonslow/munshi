@@ -22,8 +22,9 @@ published: false
 
 ## MBRAS Sources
 
-- Bland, R.N. Hunting invocations. SB 42
-- Gibson-Hill, C.A. Jerat tempurong. MB 28(1)
-- Woolley, G.C. Murut hunting customs. MB 14(3)
+- [R.N. Bland](./rn-bland.md) (1905). [Hunting invocations](./hunting-invocations.md). *JSBRAS* 42: 19–22
+- [C.A. Gibson-Hill](./carl-alexander-gibson-hill.md) (1955). [Jerat tempurong](./jerat-tempurong.md). *JMBRAS* 28: 172–173
+- [G.C. Woolley](./gc-woolley.md) (1936). [Some Murut hunting customs](./some-murut-hunting-customs.md). *JMBRAS* 14(3): 307–313
+
 ## References
 <!-- Grounded occurrences and citations -->

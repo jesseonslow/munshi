@@ -95,24 +95,26 @@ published: false
 
 ### Borneo
 
-- Evans, I.H.N. Dusun customary law. MB 22(1)
-- Winstedt, R.O. A Brunei code. MB 1(1) and Reprint 18
+- [I.H.N. Evans](./ivor-hugh-norman-evans.md) (1949). [Dusun customary law](./dusun-customary-law.md). *JMBRAS* 22: 31–37
+- [R.O. Winstedt](./richard-olaf-winstedt.md) (1923). [A Brunei code](./a-brunei-code.md). *JMBRAS* 1: 251
+- [Hugh Low](./sir-hugh-low.md) et al. (1998). [Papers Relating to Brunei](./papers-relating-to-brunei.md). ** : 192
 
 ### Malaya
 
 - Drewes, G.W.J. _Undang-undang_ Melaka ed. Liaw Yock Fang. MB 53(1) {R}
-- Hooker, M.B. Malayan legal digests. MB 41(1)
+- [M.B. Hooker](./mb-hooker.md) (1968). [A note on the Malayan legal digests](./a-note-on-the-malayan-legal-digests.md). *JMBRAS* 41: 157–170
 - Hooker, M.B. Readings in Malay _adat_ laws. MB 45(1) {R}
-- Jakeman, R.W. The _Pahang Kanun_. MB 24(3)
-- Kempe, J.E. A Pahang legal digest. MB 21(1) and 22(1)
-- Kempe, J.E. A Malay legal miscellany. MB 25(1)
-- Khasnor Johan. The _Undang-Undang Melaka_ and Malay society in 15th century Malacca. MB 72(2)
+- [R.W. Jakeman](./rw-jakeman.md) (1951). [The “Pahang Kanun” of Sultan ‘Abdul Ghafur: another text](./the-pahang-kanun-of-sultan-abdul-ghafur-another-text.md). *JMBRAS* 24(3): 150–151
+- [J.E. Kempe](./je-kempe.md) and [R.O. Winstedt](./richard-olaf-winstedt.md) (1948). [A Malay legal digest compiled for ‘Abd al-Ghafur Muhaiyuddin Shah, Sultan of Pahang, 1592–1614 A.D., with undated additions. .E](./a-malay-legal-digest-compiled-for-abd-al-ghafur-muhaiyuddin-.md). *JMBRAS* 21: 1–67
+- [J.E. Kempe](./je-kempe.md) and [R.O. Winstedt](./richard-olaf-winstedt.md) (1952). [A Malay legal miscellany](./a-malay-legal-miscellany.md). *JMBRAS* 25: 1–19
+- [Khasnor Johan](./khasnor-johan.md) (1999). [The Undang-Undang Melaka: reflections on Malay society in the fifteenth century Malacca](./the-undang-undang-melaka-reflections-on-malay-society-in-the.md). *JMBRAS* 72(2): 131–150
 - Kloss, C.B. Adatrechtbundels: Adat law bundle. {Notice} MB 4(1)
-- Maxwell, W.E. Malay land tenure. SB 13
-- Maxwell, W.E. _Ganju_. NQ Reprint 15
-- Raffles, T.S. Malay maritime code. Trans. SB 3
+- [W.E. Maxwell](./sir-william-edward-maxwell.md) (1884). [The law and customs of the Malays with reference to the tenure of land](./the-law-and-customs-of-the-malays-with-reference-to-the-tenu.md). *JSBRAS* 13: 73–220
+- Anon. [Maxwell, W.E. _Ganju_](./mbras-reprint-15.md). *Reprint* 15
+- [T.S. Raffles](./ts-raffles.md) (1879). [The maritime code of the Malays](./the-maritime-code-of-the-malays.md). *JSBRAS* 4: 1–20
 - Taylor, E.N. Malay family law on property. MB 15(1)
 - Anon. _Undang-Undang Laut_. SB 3 and 4 and MB 29(3)
-- Winstedt, R.O. Kedah laws. MB 6(2)
+- [R.O. Winstedt](./richard-olaf-winstedt.md) (1928). [Kedah laws](./kedah-laws.md). *JMBRAS* 6(2): 1–44
+
 ## References
 <!-- Grounded occurrences and citations -->

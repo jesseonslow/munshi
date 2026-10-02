@@ -134,7 +134,7 @@ articles:
 * [O.W. Wolters (8 June 1915–5 December 2000): an obituary and appreciation,](./ow-wolters-8-june-19155-december-2000-an-obituary-and-apprec.md) — [V.M. Hooker](./vm-hooker.md) (pp. 1–18)
 * [Richard James Wilkinson: a man of parts](./richard-james-wilkinson-a-man-of-parts.md) — [J.M. Gullick](./john-michael-gullick.md) (pp. 19–42)
 * [Savagism and civilization: the Iranun, globalization and the literature of Joseph Conrad](./savagism-and-civilization-the-iranun-globalization-and-the-l.md) — [J.F. Warren](./jf-warren.md) (pp. 43–69)
-* [The Turiang: a fourteenth century Chinese shipwreck upsetting Southeast Asian ceramic history](./the-turiang-a-fourteenth-century-chinese-shipwreck-upsetting.md) — [C. Barnes](./c-barnes.md), [Sten Sjostrand](./sten-sjostrand.md) (pp. 71–109)
+* [The Turiang: a fourteenth century Chinese shipwreck upsetting Southeast Asian ceramic history](./the-turiang-a-fourteenth-century-chinese-shipwreck-upsetting.md) — [C. Barnes](./claire-barnes.md), [Sten Sjostrand](./sten-sjostrand.md) (pp. 71–109)
 * *An economic history of Malaysia, c1800–1990: the transition to modern economic growth. J.H. Drabble* — [Badriyah Haji Salleh](./badriyah-haji-salleh.md) (pp. 111–114) [Review]
 * *Lord of Kinta: the biography of Dato Panglima Kinta Eusoff. Ragayah Eusoff* — [P. Lim Pui Huen](./p-lim-pui-huen.md) (pp. 114–117) [Review]
 * [Iban rites of passage and some related ritual acts. {Reviewed A. Jawan](./iban-rites-of-passage-and-some-related-ritual-acts-reviewed-.md) — [A. Jawan](./a-jawan.md) (pp. 117–119)
@@ -146,7 +146,7 @@ articles:
 ## Contributors
 * [A. Jawan](./a-jawan.md)
 * [Badriyah Haji Salleh](./badriyah-haji-salleh.md)
-* [C. Barnes](./c-barnes.md)
+* [C. Barnes](./claire-barnes.md)
 * [E.M. Diakonova](./em-diakonova.md)
 * [H. Chambert-Loir](./h-chambert-loir.md)
 * [J.F. Warren](./jf-warren.md)

@@ -170,7 +170,7 @@ articles:
 * [Donald Stephens and Sabah’s Response to the Singapore Separation](./donald-stephens-and-sabahs-response-to-the-singapore-separat.md) — [Danny Wong Tze-ken](./danny-wong-tze-ken.md) (pp. 71–90)
 * [Keeling Cocos Islands and the Destruction of the German Raider Emden in 1914. Facsimile reprint. With a note P. Kratoska](./keeling-cocos-islands-and-the-destruction-of-the-german-raid.md) — [C. Clunies Ross](./c-clunies-ross.md) (pp. 91–98)
 * [Surveys and Explorations in the Native States of the Malayan Peninsula, 1875–82. Facsimile reprint. With a note P. Kratoska](./surveys-and-explorations-in-the-native-states-of-the-malayan.md) — [D.D. Daly](./dd-daly.md) (pp. 99–126)
-* [Publications by Prof. Dato Abu Talib Ahmad (comp](./publications-by-prof-dato-abu-talib-ahmad-comp.md) — [P.H. Kratoska](./ph-kratoska.md) (pp. 127–132)
+* [Publications by Prof. Dato Abu Talib Ahmad (comp](./publications-by-prof-dato-abu-talib-ahmad-comp.md) — [P.H. Kratoska](./paul-h-kratoska.md) (pp. 127–132)
 * *Kedah Tua: Sejarah, Arkeologi & Naratif Baharu [Ancient Kedah: History, Archaeology & New Narratives]. Nasha Rodziadi Khaw, Nazarudin Zainun, and Suresh Narayanen; and Bujang Valley; Heritage, Archaeology, and National Identity. B. Liao* — [Kwa Chong Guan](./kwa-chong-guan.md), [Lim Miao Ling](./lim-miao-ling.md) (pp. 133–136) [Review]
 * *Asia in the Old and New Cold Wars: Ideologies, Narratives, and Lived Experience. .P. Tan* — [Ang Cheng Guan](./ang-cheng-guan.md) (pp. 137–138) [Review]
 * *Epistemology of the Past: Texts, History, and Intellectuals of Cambodia, 1855–1970. T. Thun* — [A.O. Zakharov](./ao-zakharov.md) (pp. 138–141) [Review]
@@ -191,7 +191,7 @@ articles:
 * [J. Ng Sze Chieh](./j-ng-sze-chieh.md)
 * [Kwa Chong Guan](./kwa-chong-guan.md)
 * [Lim Miao Ling](./lim-miao-ling.md)
-* [P.H. Kratoska](./ph-kratoska.md)
+* [P.H. Kratoska](./paul-h-kratoska.md)
 * [S. Jardin](./s-jardin.md)
 * [Tan Chee Yong](./tan-chee-yong.md)
 * [Tham Junean](./tham-junean.md)

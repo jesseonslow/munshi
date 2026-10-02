@@ -28,12 +28,13 @@ published: false
 
 ## MBRAS Sources
 
-- Baker, J.A. A Kedah harvesting knife. MB 18(2)
-- Clark, J.G.D. Two bone tools in the Raffles Museum. MB 32(1)
-- Keith, H.G. A native oil-press (chandasan) from N Borneo. MB 6(3)
+- [J.A. Baker](./ja-baker.md) (1940). [A Kedah harvesting knife](./a-kedah-harvesting-knife.md). *JMBRAS* 18(2): 43–45
+- [J.G.D. Clark](./jgd-clark.md) (1959). [Two bone tools in the Raffles Museum](./two-bone-tools-in-the-raffles-museum.md). *JMBRAS* 32: 197
+- [H.G. Keith](./hg-keith.md) (1928). [Description of a native oil press (chandasan) from North Borneo](./description-of-a-native-oil-press-chandasan-from-north-borne.md). *JMBRAS* 6(3): 96–97
 - Neolithic implements from North Borneo. MB 23(1)
-- Loewenstein, J. “Tulang mawas” re-examined. MB 26(1)
-- Sieveking, G. de G The distribution of stone bark-cloth beaters in prehistoric times. MB 29(3)
-- Wales, H.G.Q. Origin of the “tulang mawas”. MB 47(1)
+- [J. Loewenstein](./j-loewenstein.md) (1953). [“Tulang mawas” re-examined](./tulang-mawas-re-examined.md). *JMBRAS* 26: 37–42
+- [G. de G. Sieveking](./g-de-g-sieveking.md) (1956). [The distribution of stone bark-cloth beaters in prehistoric times](./the-distribution-of-stone-bark-cloth-beaters-in-prehistoric-.md). *JMBRAS* 29(3): 78–85
+- [H.G.Q. Wales](./horace-geoffrey-quaritch-wales.md) (1974). [The origin of the “tulang mawas”](./the-origin-of-the-tulang-mawas.md). *JMBRAS* 47: 110–111
+
 ## References
 <!-- Grounded occurrences and citations -->

@@ -20,12 +20,13 @@ published: false
 
 ## MBRAS Sources
 
-- Dennys, N.B. Tigers. NQ Reprint 15
+- Anon. [Dennys, N.B. Tigers](./mbras-reprint-15.md). *Reprint* 15
 - DO Langat (C.H.A. Turney?). Ceremony following killing of a tiger. SB 3
-- Everett, A.H. The tiger in Borneo. SB 5
-- Kerkhoven, R.A. A tiger hunt in Java. SB 12
-- Locke, A. Tigers of Trengganu. Monograph 23
+- [A.H. Everett](./alfred-hart-everett.md) (1880). [The tiger in Borneo](./the-tiger-in-borneo.md). *JSBRAS* 5: 157–160
+- [R.A. Kerkhoven](./ra-kerkhoven.md) (1883). [A tiger hunt in Java](./a-tiger-hunt-in-java.md). *JSBRAS* 12: 269–281
+- [A. Locke](./a-locke.md) (1993). [The Tigers of Trengganu](./the-tigers-of-trengganu.md). ** : 207
 - McNeely, J.A. Soul of the tiger MB 65(2) {R}
-- Moulton, J.C. A tiger at sea. SB 85
+- [J.C. Moulton](./john-coney-moulton.md) (1922). [A tiger at sea](./a-tiger-at-sea.md). *JSBRAS* 85: 214
+
 ## References
 <!-- Grounded occurrences and citations -->

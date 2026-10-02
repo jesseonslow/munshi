@@ -28,7 +28,8 @@ published: false
 
 ## MBRAS Sources
 
-- Sadka, E. Journal of Sir Hugh Low, 1877. MB 27(4)
+- H. Low and [E. Sadka](./e-sadka.md) (1954). [The journal of Sir Hugh Low, 1877. . Sadka](./the-journal-of-sir-hugh-low-1877-sadka.md). *JMBRAS* 27(4): 1–108
+
 ## Bibliography
 - (1880) [Selesilah: book of the descent of the Rajas of Bruni](./selesilah-book-of-the-descent-of-the-rajas-of-bruni.md). *JSBRAS* 5: 1–35
 - (1954) [The journal of Sir Hugh Low, 1877. . Sadka](./the-journal-of-sir-hugh-low-1877-sadka.md). *JMBRAS* 27(4): 1–108

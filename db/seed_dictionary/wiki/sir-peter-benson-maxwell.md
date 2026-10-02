@@ -22,6 +22,7 @@ published: false
 
 ## MBRAS Sources
 
-- Turnbull, C.M. Conflict between Governor Blundell and Sir Benson Maxwell. MB 30(1)
+- [C.M. Turnbull](./constance-mary-turnbull.md) (1957). [Governor Blundell and Sir Benson Maxwell: a conflict of personalities](./governor-blundell-and-sir-benson-maxwell-a-conflict-of-perso.md). *JMBRAS* 30: 134–163
+
 ## References
 <!-- Grounded occurrences and citations -->

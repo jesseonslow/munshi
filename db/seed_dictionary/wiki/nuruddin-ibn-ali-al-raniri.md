@@ -22,11 +22,12 @@ published: false
 
 ## MBRAS Sources
 
-- Al Atas, Naguib, Syed. Raniri and the wujudiyyah in 17th century Acheh. Monograph 3
-- Drewes, G.W.J. Hujjat al-Siddiq li-daf ‘al-Zindiq re-examined. MB 47(2)
-- Iskandar, T. Three Malay historical writings of the 17th century. MB 40(2)
-- Linehan, W. Malacca, Johore and Pahang genealogies in Bustan al-Salatin. MB 11(2)
-- Winstedt, R.O. Genealogy of Malacca’s kings in Bustan al-Salatin. SB 81
+- [Syed Muhammad Naguib al-Attas](./muhammad-naguib-al-attas.md) (1966). [Raniri and the Wujudiyyah of 17th Century Acheh](./raniri-and-the-wujudiyyah-of-17th-century-acheh.md). ** : 153
+- [Drewes G.W.J](./drewes-gwj.md) (1974). [Nur al-Din al-Raniri’s Hujjat al-Siddiq li-daf al-Zindiq re-examined](./nur-al-din-al-raniris-hujjat-al-siddiq-li-daf-al-zindiq-re-e.md). *JMBRAS* 47(2): 83–104
+- [T. Iskandar](./t-iskandar.md) (1967). [Three Malay historical writings in the first half of the seventeenth century](./three-malay-historical-writings-in-the-first-half-of-the-sev.md). *JMBRAS* 40(2): 38–53
+- [W. Linehan](./w-linehan.md) (1933). [Source of the Malacca, Johore and Pahang genealogies in the Bustan-al-Salatin](./source-of-the-malacca-johore-and-pahang-genealogies-in-the-b.md). *JMBRAS* 11(2): 144
+- [R.O. Winstedt](./richard-olaf-winstedt.md) (1920). [The genealogy of Malacca’s kings from a copy of the Bustanu‘s-Salatin](./the-genealogy-of-malaccas-kings-from-a-copy-of-the-bustanus-.md). *JSBRAS* 81: 39–47
 - Winstedt, R.O. Date and author of Bustan al-Salatin. SB 82
+
 ## References
 <!-- Grounded occurrences and citations -->

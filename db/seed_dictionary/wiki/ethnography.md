@@ -104,36 +104,38 @@ For ethnographic study of Orang Asli, see [Orang Asli](./orang-asli)
 ### Borneo
 
 - Andrieni, E.V. A Milano _muas_. MB 9(1)
-- Banks, E. Natives of Sarawak. MB 18(2)
-- Banks, E. Rice planting customs of Baram district, Sarawak. MB 18(2)
-- Beresford-Peirse, R.H.W. A tribal dispute (Rumanan/Mangkahak) in N Borneo. MB 27(1)
-- Cai Yunci. Lotud cleansing ritual of Mount Kinabalu. MB 89(1)
+- [E. Banks](./e-banks.md) (1940). [The natives of Sarawak](./the-natives-of-sarawak.md). *JMBRAS* 18(2): 49–54
+- [E. Banks](./e-banks.md) (1940). [Rice planting customs in the Baram District, Sarawak](./rice-planting-customs-in-the-baram-district-sarawak.md). *JMBRAS* 18(2): 83–104
+- [R.H.W. Beresford-Peirse](./rhw-beresford-peirse.md) (1954). [Settlement of a tribal dispute (North Borneo](./settlement-of-a-tribal-dispute-north-borneo.md). *JMBRAS* 27: 221–223
+- [J.J. Baptist](./jj-baptist.md) and [Cai Yunci](./cai-yunci.md) (2016). [Mount Kinabalu earthquake](./mount-kinabalu-earthquake.md). *JMBRAS* 89: 61–78
 - Cleary, M. Borneo: change and development. MB 67(2) {R}
 - Couderc, P. (ed) Ancestors in Borneo societies. MB 86(1) {R}
 - Harrisson, B. _Pusaka_ heirloom jars. MB 62(1) {R}
-- Harrisson, T. Singing pre-history. MB 22(1) and Reprint 4
-- Harrisson, T. ‘Secret’ communication systems among Borneo nomads. MB 38(2)
-- Hill, A.H. _Manggeng_ and Dato Merpati. MB 28(1)
-- Hose, C. Tally sticks and strings in Borneo. SB 47
-- King, V.T. Stones and the Maloh of Indonesian W Borneo. MB 48(1)
+- [Tom Harrisson](./tom-harrisson.md) (1949). [Singing pre-history](./singing-pre-history.md). *JMBRAS* 22: 123–142
+- Anon (1977). [A Centenary Volume: 30 Articles selected from JSBRAS and JMBRAS 1878 - 1976](./a-centenary-volume-30-articles-selected-from-jsbras-and-jmbras-1878-1976.md). ** : 358
+- [Tom Harrisson](./tom-harrisson.md) (1965). [Three “secret” communication systems among Borneo nomads (and their dogs](./three-secret-communication-systems-among-borneo-nomads-and-t.md). *JMBRAS* 38(2): 37–86
+- [A.H. Hill](./anthony-haydock-hill.md) (1955). [Manggeng and Datu Merpati](./manggeng-and-datu-merpati.md). *JMBRAS* 28: 148–158
+- [C. Hose](./c-hose.md) (1907). [On tally sticks and strings in Borneo](./on-tally-sticks-and-strings-in-borneo.md). *JSBRAS* 47: 7–10
+- [V.T. King](./vt-king.md) (1975). [Stones and the Maloh of Indonesian West Borneo](./stones-and-the-maloh-of-indonesian-west-borneo.md). *JMBRAS* 48: 104–119
 - Medway, Lord. _Sya’ir Jerjezang_. MB 76(1) {R}
-- Metcalf, P. Supernatural causes of illness in central north Borneo. MB 55(2)
-- Needham, R. N Borneo kinship terminologies. MB 26(1)
-- Needham, R. Batu Belah and Long Terawan. Names and terms. MB 27(1)
-- Needham, R. Murut kinship terms. MB 28(1)
-- Needham, R. Ethnic classification: Kajang and Bahau considered. MB 28(1) Rutter, O. British North Borneo. MB 1(1) {R}
+- [P. Metcalf](./p-metcalf.md) (1982). [Supernatural etiologies of illness in Central Northern Borneo](./supernatural-etiologies-of-illness-in-central-northern-borne.md). *JMBRAS* 55(2): 115–125
+- [R. Needham](./r-needham.md) (1953). [A note on some North Borneo kinship terminologies](./a-note-on-some-north-borneo-kinship-terminologies.md). *JMBRAS* 26: 221–223
+- [R. Needham](./r-needham.md) (1954). [Batu Belah & Long Terawan: kinship terms & death names](./batu-belah-long-terawan-kinship-terms-death-names.md). *JMBRAS* 27: 215–217
+- [R. Needham](./r-needham.md) (1955). [A note on some Murut kinship terms](./a-note-on-some-murut-kinship-terms.md). *JMBRAS* 28: 159–161
+- Needham, R. Ethnic classification: Kajang and Bahau considered. MB 28(1)
+- Rutter, O. British North Borneo. MB 1(1) {R}
 - Anon. Sabah Museum Annals. MB 58(1) {R}
 - Sellato, B. Nomads of the Borneo rain forest. MB 68(2) {R}
-- Shelford, R. Ethnographic collection at Sarawak Museum. SB 40 and 43
+- [R.S. Shelford](./rs-shelford.md) (1905). [An illustrated catalogue of the ethnographical collection of the Sarawak Museum](./an-illustrated-catalogue-of-the-ethnographical-collection-of.md). *JSBRAS* 43: 1–67
 - Sutlive, V.H. Gender studies in Borneo. MB 66(2) {R}
-- Wong Tze-ken, D. Three Skulls from Sabah. MB 95(1)
+- Danny Wong Tze-ken (2022). [Three Skulls from Sabah in the Pitt Rivers Museum](./three-skulls-from-sabah-in-the-pitt-rivers-museum.md). *JMBRAS* 95: 35–50
 
 ### Fiji, Formosa, and Indo-China
 
-- Dodd, J. Origin of the hill tribes of Formosa. SB 9, 10, 15
+- [J. Dodd](./j-dodd.md) (1885). [A glimpse at the manners and customs of the Hill tribes of North Formosa](./a-glimpse-at-the-manners-and-customs-of-the-hill-tribes-of-n.md). *JSBRAS* 15: 69–78
 - Anon. Nationalities of the Indo-China region (_Burma Quarterly_). SB 16
 - Taylor, P. The Khmer lands of Vietnam. MB 88(1) {R}
-- Thurston. Fijians. SB 8
+- [Thurston](./thurston.md) (1881). [Note {Fijians](./note-fijians.md). *JSBRAS* 8: 168–169
 
 ### Malaya
 
@@ -141,25 +143,27 @@ For ethnographic study of Orang Asli, see [Orang Asli](./orang-asli)
 
 ### Singapore and Riau
 
-- Abbott, W.L. Human images among the Orang Mantong. SB 41
+- [W.L. Abbott](./wl-abbott.md) (1904). [Human images among the Orang Mantong](./human-images-among-the-orang-mantong.md). *JSBRAS* 41: 128–129
 - Abbott, W.L. Orang Laut and their decline in history. MB 80(2)
-- Gibson-Hill, C.A. Orang Laut of the Singapore River and the _sampan panjang_. MB 25(1) and 42(1) and Reprint 1
-- Porath, N. Maya in indigenous Riau world-view. MB 88(2)
-- Ridley, H.N. Orang Laut of Singapore. SB 41
-- Skeat, W.W. Orang Laut of Singapore. SB 33 and MB 42(1) and Reprint 1
-- Wee, V. Crossing the straits of Melaka, Singapore and Riau. MB 91(2)
+- Anon (1973). [150th Anniversary of the Founding of Singapore Commemorative Reprint](./150th-anniversary-of-the-founding-of-singapore-commemorative-reprint.md). ** : 317
+- [N. Porath](./n-porath.md) (2015). [Maya (image) in indigenous Riau world-view: a forgotten concept of Malayan animist thought and practice](./maya-image-in-indigenous-riau-world-view-a-forgotten-concept.md). *JMBRAS* 88(2): 3–24
+- [H.N. Ridley](./henry-nicholas-ridley.md) and [W.W. Skeat](./walter-william-skeat.md) (1900). [The Orang Laut of Singapore](./the-orang-laut-of-singapore.md). *JSBRAS* 33: 247–250
+- [H.N. Ridley](./henry-nicholas-ridley.md) and [W.W. Skeat](./walter-william-skeat.md) (1900). [The Orang Laut of Singapore](./the-orang-laut-of-singapore.md). *JSBRAS* 33: 247–250
+- Anon (1973). [150th Anniversary of the Founding of Singapore Commemorative Reprint](./150th-anniversary-of-the-founding-of-singapore-commemorative-reprint.md). ** : 317
+- [V. Wee](./v-wee.md) (2018). [Jemberang and Alam Melayu: crossing the Straits of Melaka, Singapore and Riau](./jemberang-and-alam-melayu-crossing-the-straits-of-melaka-sin.md). *JMBRAS* 91(2): 124–133
 
 ### Sumatra
 
 - Abdurrazzaq Lubis. Mandailing leadership and culture. MB 76(1)
 - Milner, A.C. Note on “the Rawa”. MB 51(2)
 - Viner, A.C. The changing Batak. MB 52(2)
-- Viner, A.C. The Pakpak Batak. MB 54(1)
-- Watson, C.W. Rawa and Rinchi. MB 55(1)
+- [E.L. Kaplan](./el-kaplan.md) and [A.C. Viner](./ac-viner.md) (1981). [The changing Pakpak Batak](./the-changing-pakpak-batak.md). *JMBRAS* 54: 93–105
+- [C.W. Watson](./cw-watson.md) (1982). [Rawa and Rinchi: a further note](./rawa-and-rinchi-a-further-note.md). *JMBRAS* 55: 82–86
 
 ### Thailand
 
 - Archaimbault, C. Sam Sam of Kedah and Perlis. MB 30(1)
 - Boesch, E.E. 2nd Thai-European research seminar. MB 58(2) {R}
+
 ## References
 <!-- Grounded occurrences and citations -->

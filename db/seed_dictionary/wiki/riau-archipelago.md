@@ -30,17 +30,19 @@ published: false
 
 ## MBRAS Sources
 
-- Ali bin Engku Ahmad al-Haji, Raja, al-Haji. Silsilah Melayu dan Bugis etc. Tr. H. Overbeck. MB 4(3)
-- Ali bin Engku Ahmad al-Haji, Raja, al-Haji. Tuhfat al-Nafis. Ed. R.O.Winstedt. MB 10(2)
-- Barnard, T.P. Entertainment and the Riau elite in the late 19th century. MB 67(2)
-- Barnard, T.P. Shifting interpretations on Sultan Mahmud Syah’s death. MB 89(2)
-- Ismail Hussein, Hikayat Negeri Johore: a 19th century Bugis history. Reprint 6
-- Khoo Chun Yok. The Collapse of Riau and the Rise of Singapore. MB 96(2)
+- [‘Ali bin Raja Haji Ahmad Raja Haji](./ali-bin-raja-haji-ahmad-raja-haji.md) and [W. Linehan](./w-linehan.md) (1926). [Silsilah Melayu dan Bugis dan Sakalian Raja-raja-nya. . Overbeck](./silsilah-melayu-dan-bugis-dan-sakalian-raja-raja-nya-overbec.md). *JMBRAS* 4(3): 339–381
+- [‘Ali bin Raja Haji Ahmad Raja Haji](./ali-bin-raja-haji-ahmad-raja-haji.md) and [R.O. Winstedt](./richard-olaf-winstedt.md) (1932). [A Malay history of Riau and Johore {Tuhfat-al-Nafis}. .O. Winstedt {Jawi](./a-malay-history-of-riau-and-johore-tuhfat-al-nafis-o-winsted.md). *JMBRAS* 10(2): 1–320
+- [T.P. Barnard](./tp-barnard.md) (1994). [Taman penghiburan: entertainment and the Riau elite in the late 19th century](./taman-penghiburan-entertainment-and-the-riau-elite-in-the-la.md). *JMBRAS* 67(2): 17–46
+- [T.P. Barnard](./tp-barnard.md) (2016). [Historiography and shifting interpretations of the death of Sultan Mahmud Syah](./historiography-and-shifting-interpretations-of-the-death-of-.md). *JMBRAS* 89(2): 1–23
+- [R.O. Winstedt](./richard-olaf-winstedt.md) (1979). [A History of Johore](./a-history-of-johore.md). ** : 240
+- [Khoo Chun Yok](./khoo-chun-yok.md) (2023). [The Collapse of the Riau Entrepôt in 1784 and the Rise of Singapore](./the-collapse-of-the-riau-entrepôt-in-1784-and-the-rise-of-si.md). *JMBRAS* 96(2): 29–48
 - Long, N.J. Malay identity in the Riau Archipelago. MB 87(2) {R}
-- Mulaika Hijjas. The disguised heroine in 19th century Malay syair. Monograph 44 and MB
+- [Mulaika Hijjas](./mulaika-hijjas.md) (2011). [Victorious Wives: The Disguised Heroine in 19th-Century Malay Syair](./victorious-wives-the-disguised-heroine-in-19th-century-malay-syair.md). ** : 332
+- and MB
 - 85(2) {R}
 - Noorduyn, N. Bugis genealogy of the Raja Muda family of Riau-Johor. MB 61(2)
-- Wee, V. Crossing the straits of Melaka, Singapore and Riau. MB 91(2)
-- Winstedt, R.O. Outline of a Malay history of Riau. MB 11(2)
+- [V. Wee](./v-wee.md) (2018). [Jemberang and Alam Melayu: crossing the Straits of Melaka, Singapore and Riau](./jemberang-and-alam-melayu-crossing-the-straits-of-melaka-sin.md). *JMBRAS* 91(2): 124–133
+- [R.O. Winstedt](./richard-olaf-winstedt.md) (1933). [Outline of a Malay history of Riau](./outline-of-a-malay-history-of-riau.md). *JMBRAS* 11(2): 157–160
+
 ## References
 <!-- Grounded occurrences and citations -->

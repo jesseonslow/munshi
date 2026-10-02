@@ -18,6 +18,7 @@ published: false
 
 ## MBRAS Sources
 
-- Sweeney, A. Obituary. MB 54(2)
+- [A. Sweeney](./amin-sweeney.md) (1981). [Obituary. Christian Hooykaas, 1902–1979](./obituary-christian-hooykaas-19021979.md). *JMBRAS* 54(2): 151–152
+
 ## References
 <!-- Grounded occurrences and citations -->

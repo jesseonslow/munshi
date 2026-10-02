@@ -37,10 +37,12 @@ published: false
 
 ## MBRAS Sources
 
-- Gibson-Hill, C.A. Six wooden images in the Cheng Hong Ten, Malacca. MB 28(1)
-- Liow Woon Khin. Penang Buddhist temples and associations. MB 62(1) and Reprint 33
-- Middlebrook, S.M. New Chinese temple at Kandang, Malacca. MB 17(1)
-- Sim, K. The “white tiger” in Penang. MB 23(1)
-- Subhadradis Diskul, M.C. Chedi at Wat Keo, Chaiya, Suratthani. MB 53(2)
+- [C.A. Gibson-Hill](./carl-alexander-gibson-hill.md) (1955). [Six wooden images in the Cheng Hong Teng, Malacca](./six-wooden-images-in-the-cheng-hong-teng-malacca.md). *JMBRAS* 28: 173–179
+- [B. Liow Woon Khin](./b-liow-woon-khin.md) (1989). [Buddhist temples and associations in Penang](./buddhist-temples-and-associations-in-penang.md). *JMBRAS* 62: 57–88
+- Anon (2015). [Glimpses of Penang's Past](./glimpses-of-penangs-past.md). ** : 325
+- [S.M. Middlebrook](./sm-middlebrook.md) (1939). [Ceremonial opening of a new Chinese temple at Kandang, Malacca, in December, 1938](./ceremonial-opening-of-a-new-chinese-temple-at-kandang-malacc.md). *JMBRAS* 17: 98–106
+- [K. Sim](./k-sim.md) (1950). [The “white tiger” in Penang](./the-white-tiger-in-penang.md). *JMBRAS* 23: 142–144
+- [M.C. Subhadradis Diskul](./mc-subhadradis-diskul.md) (1980). [Chedi at Wat Keo, Chaiya, Suratthani](./chedi-at-wat-keo-chaiya-suratthani.md). *JMBRAS* 53(2): 1–4
+
 ## References
 <!-- Grounded occurrences and citations -->

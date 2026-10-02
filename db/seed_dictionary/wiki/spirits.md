@@ -24,10 +24,11 @@ published: false
 
 - Couderc, P. (ed) Ancestors in Borneo societies. MB 86(1) {R}
 - Elliott, A.J.A. Chinese spirit-medium cults in Singapore. MB 29(1) {R}
-- Hashim, N.M. Malayan spiritual sidelights. MB 2(1)
+- [Hashim N.M](./hashim-nm.md) and [G.T. MacBryan](./gt-macbryan.md) (1924). [Malayan spiritual sidelights](./malayan-spiritual-sidelights.md). *JMBRAS* 2: 84
 - Maxwell, W.E. Abdullah Munshi’s beliefs in Spirits etc. NQ 15
-- Winstedt, R.O. A Kelantan invocation to the earth spirit. MB 3(1)
+- [R.O. Winstedt](./richard-olaf-winstedt.md) (1925). [A Kelantan invocation to the Earth Spirit](./a-kelantan-invocation-to-the-earth-spirit.md). *JMBRAS* 3: 83
 - Winstedt, R.O. A Perak innovation to the langsuyar. MB 3(1)
-- Zainal Abidin bin Ahmad. The akuan or spirit friends. SB 86
+- [Zainal Abidin bin Ahmad](./zainal-abidin-bin-ahmad.md) (1922). [The akuan or spirit-friends](./the-akuan-or-spirit-friends.md). *JSBRAS* 86: 378–384
+
 ## References
 <!-- Grounded occurrences and citations -->

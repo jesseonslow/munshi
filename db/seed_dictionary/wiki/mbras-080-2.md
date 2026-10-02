@@ -145,7 +145,7 @@ articles:
 * *The reluctant politician: Tun Dr. Ismail and his time. Ooi Kee Beng* — [J. Funston](./j-funston.md) (pp. 89–91) [Review]
 * *Land and agricultural policy in Malaysia: a mismatch. Basir Ismail* — [S. Nair](./s-nair.md) (pp. 92–94) [Review]
 * *The flaming womb: repositioning women in early modern Southeast Asia. B.W. Andaya* — [Kobkua Suwannathat-Pian](./kobkua-suwannathat-pian.md) (pp. 94–96) [Review]
-* *Nature & nation: forests and development in Peninsular Malaysia. J. KathirithambyWells* — [H.S. Barlow](./hs-barlow.md) (pp. 96–98) [Review]
+* *Nature & nation: forests and development in Peninsular Malaysia. J. KathirithambyWells* — [H.S. Barlow](./henry-sackville-barlow.md) (pp. 96–98) [Review]
 * *Reflections on Southeast Asian history since 1945* — [Loh Wei Leng](./loh-wei-leng.md), [Mason](./mason.md), [Abu Talib Ahmad](./abu-talib-ahmad.md) (pp. 98–101) [Review]
 * [Comments on Nik Hassan Nik Abdul Rahman’s article in MB 80(1](./comments-on-nik-hassan-nik-abdul-rahmans-article-in-mb-801.md) — [W.G.H. Solheim](./wgh-solheim.md) (pp. 102–104)
 * [Rejoinder to W.G. Solheim’s comments on his article in MB 80(1](./rejoinder-to-wg-solheims-comments-on-his-article-in-mb-801.md) — [Hassan Shuhaimi Nik, bin Nik Abdul Rahman](./hassan-shuhaimi-nik-bin-nik-abdul-rahman.md) (pp. 104)
@@ -154,7 +154,7 @@ articles:
 * [A. Graf](./a-graf.md)
 * [Abu Talib Ahmad](./abu-talib-ahmad.md)
 * [Danny Wong Tze-ken](./danny-wong-tze-ken.md)
-* [H.S. Barlow](./hs-barlow.md)
+* [H.S. Barlow](./henry-sackville-barlow.md)
 * [Hassan Shuhaimi Nik, bin Nik Abdul Rahman](./hassan-shuhaimi-nik-bin-nik-abdul-rahman.md)
 * [I. Sugimoto](./i-sugimoto.md)
 * [J. Funston](./j-funston.md)

@@ -18,6 +18,7 @@ published: false
 
 ## MBRAS Sources
 
-- Scrivenor, J.B. Cameron’s Highland and Fraser’s Hill. MB 9(1)
+- [J.B. Scrivenor](./jb-scrivenor.md) (1931). [Recollections of Cameron’s Highlands and Fraser’s Hill](./recollections-of-camerons-highlands-and-frasers-hill.md). *JMBRAS* 9: 2–14
+
 ## References
 <!-- Grounded occurrences and citations -->

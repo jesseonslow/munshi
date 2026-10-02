@@ -18,6 +18,7 @@ published: false
 
 ## MBRAS Sources
 
-- Winstedt, R.O. Obituary. SB 81
+- [R.O. Winstedt](./richard-olaf-winstedt.md) (1920). [Obituary. Abraham Hale](./obituary-abraham-hale.md). *JSBRAS* 81: 13-14
+
 ## References
 <!-- Grounded occurrences and citations -->

@@ -18,6 +18,7 @@ published: false
 
 ## MBRAS Sources
 
-- Rentse, A. Gantang of Kelantan. MB 11(2)
+- [A. Rentse](./a-rentse.md) (1933). [Gantong of Kelantan](./gantong-of-kelantan.md). *JMBRAS* 11(2): 242–244
+
 ## References
 <!-- Grounded occurrences and citations -->

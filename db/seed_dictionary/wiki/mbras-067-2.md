@@ -104,15 +104,15 @@ articles:
 * [The progress of Malaysian law. Annual lecture delivered on 6 December, 1994](./the-progress-of-malaysian-law-annual-lecture-delivered-on-6-.md) — [R.H. Hickling](./rh-hickling.md) (pp. 1–15)
 * [Taman penghiburan: entertainment and the Riau elite in the late 19th century](./taman-penghiburan-entertainment-and-the-riau-elite-in-the-la.md) — [T.P. Barnard](./tp-barnard.md) (pp. 17–46)
 * [‘I have taken steps to ensure that the utmost economy is exercised’: government finance in Brunei, 1906–1932](./i-have-taken-steps-to-ensure-that-the-utmost-economy-is-exer.md) — [A.V.M. Horton](./avm-horton.md) (pp. 47–92)
-* [Two communist pamphlets from Kedah and Penang, 1949](./two-communist-pamphlets-from-kedah-and-penang-1949.md) — [H.S. Barlow](./hs-barlow.md) (pp. 61–68)
+* [Two communist pamphlets from Kedah and Penang, 1949](./two-communist-pamphlets-from-kedah-and-penang-1949.md) — [H.S. Barlow](./henry-sackville-barlow.md) (pp. 61–68)
 * [Transmissions through practical example: women and Islam in 1920s Malay fiction](./transmissions-through-practical-example-women-and-islam-in-1.md) — [V.M. Hooker](./vm-hooker.md) (pp. 93–118)
 * *Women and culture: between Malay adat and Islam. Wazir Jahan Karim* — [M. Abaza](./m-abaza.md) (pp. 122–125) [Review]
 * *Borneo: change and development* — [P.M. Kedit](./pm-kedit.md), [m-cleary](./m-cleary.md), [P. Eaton](./p-eaton.md) (pp. 125–126) [Review]
-* *Free Mariner: John Adolphus Pope in the East Indies 1786–1821. A. Bulley* — [H.S. Barlow](./hs-barlow.md), [P.M. Kedit](./pm-kedit.md) (pp. 127–128) [Review]
+* *Free Mariner: John Adolphus Pope in the East Indies 1786–1821. A. Bulley* — [H.S. Barlow](./henry-sackville-barlow.md), [P.M. Kedit](./pm-kedit.md) (pp. 127–128) [Review]
 
 ## Contributors
 * [A.V.M. Horton](./avm-horton.md)
-* [H.S. Barlow](./hs-barlow.md)
+* [H.S. Barlow](./henry-sackville-barlow.md)
 * [m-cleary](./m-cleary.md)
 * [M. Abaza](./m-abaza.md)
 * [P. Eaton](./p-eaton.md)

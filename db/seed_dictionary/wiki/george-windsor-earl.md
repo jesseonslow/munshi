@@ -19,7 +19,8 @@ published: false
 
 ## MBRAS Sources
 
-- Gibson-Hill, C.A. George Samuel Windsor Earl. MB 32(1)
-- Reece, R.H.W. Australian career of George Windsor Earl. MB 65(2)
+- [C.A. Gibson-Hill](./carl-alexander-gibson-hill.md) (1959). [George Samuel Windsor Earl](./george-samuel-windsor-earl.md). *JMBRAS* 32: 105–153
+- [R.H.W. Reece](./rhw-reece.md) (1992). [The Australasian career of George Windsor Earl](./the-australasian-career-of-george-windsor-earl.md). *JMBRAS* 65(2): 39–67
+
 ## References
 <!-- Grounded occurrences and citations -->

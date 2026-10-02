@@ -32,10 +32,10 @@ articles:
 **Date:** None 1961
 
 ## Table of Contents
-* [The Moluccan spice monopoly, 1770–1824. H.R.C. Wright. Passages concerning Bencoolen written in collaboration with J. Bastin](./the-moluccan-spice-monopoly-17701824-hrc-wright-passages-con.md) — [J.S. Bastin](./js-bastin.md) (pp. 1–127)
+* [The Moluccan spice monopoly, 1770–1824. H.R.C. Wright. Passages concerning Bencoolen written in collaboration with J. Bastin](./the-moluccan-spice-monopoly-17701824-hrc-wright-passages-con.md) — [J.S. Bastin](./john-bastin.md) (pp. 1–127)
 
 ## Contributors
-* [J.S. Bastin](./js-bastin.md)
+* [J.S. Bastin](./john-bastin.md)
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -22,9 +22,11 @@ published: false
 
 ## MBRAS Sources
 
-- Hose, C. Computing the time for planting in Borneo. SB 42
+- [C. Hose](./c-hose.md) (1905). [Various methods of computing the time for planting among the races of Borneo](./various-methods-of-computing-the-time-for-planting-among-the.md). *JSBRAS* 42: 1–5
 - Mohammed Ilyas. Astronomical determination of Islamic times. MB 51(1)
 - Mohammed Ilyas. Visibility of the new moon: predictability. MB 51(2)
-- Muhamed Sayid, Haji. Muhammadan calendar. MB 1(2) Names of months. SB 30
+- Muhamed Sayid, Haji. Muhammadan calendar. MB 1(2)
+- Names of months. SB 30
+
 ## References
 <!-- Grounded occurrences and citations -->

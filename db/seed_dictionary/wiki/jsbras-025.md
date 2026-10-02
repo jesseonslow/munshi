@@ -114,14 +114,14 @@ articles:
 * [On the occurrence of the rare bat-hawk in Johor](./on-the-occurrence-of-the-rare-bat-hawk-in-johor.md) — [H.J. Kelsall](./hj-kelsall.md) (pp. 171–172)
 * [The bird-dropping spider (Ornithos catoides) in Johor](./the-bird-dropping-spider-ornithos-catoides-in-johor.md) — [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 172–173)
 * [Notes on Gallus violaceus](./notes-on-gallus-violaceus.md) — [H.J. Kelsall](./hj-kelsall.md) (pp. 173)
-* [A Malay lullaby](./a-malay-lullaby.md) — [M. Lister](./m-lister.md) (pp. 174)
+* [A Malay lullaby](./a-malay-lullaby.md) — [M. Lister](./martin-lister.md) (pp. 174)
 
 ## Contributors
 * [C. Curtis](./c-curtis.md)
 * [H.J. Kelsall](./hj-kelsall.md)
 * [H.N. Ridley](./henry-nicholas-ridley.md)
 * [H.W Lake](./hw-lake.md)
-* [M. Lister](./m-lister.md)
+* [M. Lister](./martin-lister.md)
 
 ## References
 <!-- Grounded occurrences and citations -->

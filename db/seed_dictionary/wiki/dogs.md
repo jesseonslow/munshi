@@ -23,8 +23,9 @@ published: false
 
 ## MBRAS Sources
 
-- Harrisson, T. ‘Secret’ communication systems among Borneo nomads. MB 38(2)
-- Maxwell, W.G. Legend of the creation of the dog. SB 46
-- Medway, Gathorne Gathorne-Hardy, Lord. Ancient domestic dogs of Malaysia. MB 50(1)
+- [Tom Harrisson](./tom-harrisson.md) (1965). [Three “secret” communication systems among Borneo nomads (and their dogs](./three-secret-communication-systems-among-borneo-nomads-and-t.md). *JMBRAS* 38(2): 37–86
+- [W.G. Maxwell](./sir-william-george-maxwell.md) (1906). [Kun and payah kun](./kun-and-payah-kun.md). *JSBRAS* 46: 25–26
+- [Gathorne Gathorne-Hardy, Lord (Earl of Cranbrook) Medway](./gathorne-gathorne-hardy-lord-earl-of-cranbrook-medway.md) (1977). [The ancient domestic dogs of Malaysia](./the-ancient-domestic-dogs-of-malaysia.md). *JMBRAS* 50: 14–27
+
 ## References
 <!-- Grounded occurrences and citations -->

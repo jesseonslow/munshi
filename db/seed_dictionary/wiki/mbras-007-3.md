@@ -127,12 +127,12 @@ articles:
 * [The Malay house](./the-malay-house.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 459)
 * [The Perak genies](./the-perak-genies.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 460–466)
 * [On some coins found near Seremban](./on-some-coins-found-near-seremban.md) — [J.B. Neilson](./jb-neilson.md) (pp. 467–469)
-* *Among the forest dwarfs of Malaya. P. Schebesta* — [I.H.N. Evans](./ihn-evans.md) (pp. 470–472) [Review]
+* *Among the forest dwarfs of Malaya. P. Schebesta* — [I.H.N. Evans](./ivor-hugh-norman-evans.md) (pp. 470–472) [Review]
 
 ## Contributors
 * [C.O. Blagden](./co-blagden.md)
 * [F.G. Stevens](./fg-stevens.md)
-* [I.H.N. Evans](./ihn-evans.md)
+* [I.H.N. Evans](./ivor-hugh-norman-evans.md)
 * [J.B. Neilson](./jb-neilson.md)
 * [R.O. Winstedt](./richard-olaf-winstedt.md)
 

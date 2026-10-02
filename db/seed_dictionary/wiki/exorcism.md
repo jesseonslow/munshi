@@ -19,6 +19,7 @@ published: false
 
 ## MBRAS Sources
 
-- Stirling, W.G. Chinese exorcists. MB 2(1)
+- [W.G. Stirling](./william-george-stirling.md) (1924). [Chinese exorcists](./chinese-exorcists.md). *JMBRAS* 2: 41–47
+
 ## References
 <!-- Grounded occurrences and citations -->

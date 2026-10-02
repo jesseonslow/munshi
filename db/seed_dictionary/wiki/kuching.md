@@ -18,6 +18,7 @@ published: false
 
 ## MBRAS Sources
 
-- Lockard, C.A. Early development of Kuching, 1820–57. MB 49(2)
+- [C.A. Lockard](./ca-lockard.md) (1976). [The early development of Kuching, 1820–1857](./the-early-development-of-kuching-18201857.md). *JMBRAS* 49(2): 107–126
+
 ## References
 <!-- Grounded occurrences and citations -->

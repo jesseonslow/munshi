@@ -27,6 +27,7 @@ published: false
 - [Secret societies](./secret-societies.md)
 
 ## MBRAS Sources
+
 <!-- Seed entries or targeted retrieval for Sociology -->
 
 ## References

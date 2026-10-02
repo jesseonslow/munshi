@@ -22,6 +22,7 @@ published: false
 
 ## MBRAS Sources
 
-- Needham, R. Batu Belah and Long Terawan: kinship terms and death names. MB 27(1)
+- [R. Needham](./r-needham.md) (1954). [Batu Belah & Long Terawan: kinship terms & death names](./batu-belah-long-terawan-kinship-terms-death-names.md). *JMBRAS* 27: 215–217
+
 ## References
 <!-- Grounded occurrences and citations -->

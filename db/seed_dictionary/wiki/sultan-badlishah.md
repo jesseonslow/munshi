@@ -20,6 +20,7 @@ published: false
 
 ## MBRAS Sources
 
-- Suwannathat-Pian, K. Tunku [Sultan] Badlishah. MB 93(2)
+- [Kobkua Suwannathat-Pian](./kobkua-suwannathat-pian.md) (2020). [Tunku Badlishah Sultan Abdul Hamid Halim Shah, a postscript to the BangkokKedah personalised relations](./tunku-badlishah-sultan-abdul-hamid-halim-shah-a-postscript-t.md). *JMBRAS* 93(2): 119–35
+
 ## References
 <!-- Grounded occurrences and citations -->

@@ -104,7 +104,7 @@ articles:
 * [The origins of cocoa cultivation in Malaysia](./the-origins-of-cocoa-cultivation-in-malaysia.md) — [Amarjit Kaur](./amarjit-kaur.md) (pp. 67–80)
 * [Note on a pair of batu aceh in Rembau](./note-on-a-pair-of-batu-aceh-in-rembau.md) — [Zakaria Ali](./zakaria-ali.md) (pp. 81–89)
 * [The origin of weaving centres in the Malay Peninsula](./the-origin-of-weaving-centres-in-the-malay-peninsula.md) — [Maznah Mohamed](./maznah-mohamed.md) (pp. 91–118)
-* [The Bugis-Makassar diaspora](./the-bugis-makassar-diaspora.md) — [L.Y. Andaya](./ly-andaya.md) (pp. 119–138)
+* [The Bugis-Makassar diaspora](./the-bugis-makassar-diaspora.md) — [L.Y. Andaya](./leonard-andaya.md) (pp. 119–138)
 * [James Hatton Hall (1866–1945](./james-hatton-hall-18661945.md) — [A.V.M. Horton](./avm-horton.md) (pp. 139–147)
 
 ## Contributors
@@ -113,7 +113,7 @@ articles:
 * [Amarjit Kaur](./amarjit-kaur.md)
 * [D. Gebauer](./d-gebauer.md)
 * [L. Price](./l-price.md)
-* [L.Y. Andaya](./ly-andaya.md)
+* [L.Y. Andaya](./leonard-andaya.md)
 * [Maznah Mohamed](./maznah-mohamed.md)
 * [Tan Liok Ee](./tan-liok-ee.md)
 * [Zakaria Ali](./zakaria-ali.md)

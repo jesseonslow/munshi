@@ -120,16 +120,16 @@ articles:
 * [Images of Malaya in the stories of Sir Hugh Clifford](./images-of-malaya-in-the-stories-of-sir-hugh-clifford.md) — [P.C. Wicks](./pc-wicks.md) (pp. 57–72)
 * [Hamza Pansuri: notes on yoga practices, lahir dan zahir, the ‘Taxallos’, punning, a difficult passage in the Kitab al-Muntahi, Hamza’s likely place of birth, and Hamza’s imagery: with appendix](./hamza-pansuri-notes-on-yoga-practices-lahir-dan-zahir-the-ta.md) — [L.F. Brakel](./lf-brakel.md) (pp. 73–98)
 * [The interpretation of a Sanskrit inscription in the ancient Brunei script](./the-interpretation-of-a-sanskrit-inscription-in-the-ancient-.md) — [A. Sharma](./a-sharma.md) (pp. 99–101)
-* [The word kongsi: a note](./the-word-kongsi-a-note.md) — [Wang Tai-peng](./wang-tai-peng.md), [Wong Tai Peng](./wong-tai-peng.md) (pp. 102–105)
-* *The British West Sumatran Presidency (1760–85). J. Kathirithamby-Wells* — [C.M. Turnbull](./cm-turnbull.md) (pp. 106–108) [Review]
-* *The Balinese poem Basur: an introduction to magic. C. Hooykaas* — [A. Sweeney](./a-sweeney.md) (pp. 109–110) [Review]
+* [The word kongsi: a note](./the-word-kongsi-a-note.md) — [Wang Tai-peng](./wang-tai-peng.md) (pp. 102–105)
+* *The British West Sumatran Presidency (1760–85). J. Kathirithamby-Wells* — [C.M. Turnbull](./constance-mary-turnbull.md) (pp. 106–108) [Review]
+* *The Balinese poem Basur: an introduction to magic. C. Hooykaas* — [A. Sweeney](./amin-sweeney.md) (pp. 109–110) [Review]
 * *Prince of pirates: the Temenggongs and the development of Johor and Singapore, 1784–1885. C.A. Trocki* — [J. Kathirithamby– Wells](./j-kathirithamby-wells.md) (pp. 111–113) [Review]
 
 ## Contributors
 * [A. Sharma](./a-sharma.md)
-* [A. Sweeney](./a-sweeney.md)
+* [A. Sweeney](./amin-sweeney.md)
 * [A.C. Milner](./ac-milner.md)
-* [C.M. Turnbull](./cm-turnbull.md)
+* [C.M. Turnbull](./constance-mary-turnbull.md)
 * [Hassan Shuhaimi Nik, bin Nik Abdul Rahman](./hassan-shuhaimi-nik-bin-nik-abdul-rahman.md)
 * [J. Kathirithamby– Wells](./j-kathirithamby-wells.md)
 * [J.W. Cushman](./jw-cushman.md)
@@ -137,7 +137,6 @@ articles:
 * [L.F. Brakel](./lf-brakel.md)
 * [P.C. Wicks](./pc-wicks.md)
 * [Wang Tai-peng](./wang-tai-peng.md)
-* [Wong Tai Peng](./wong-tai-peng.md)
 
 ## References
 <!-- Grounded occurrences and citations -->

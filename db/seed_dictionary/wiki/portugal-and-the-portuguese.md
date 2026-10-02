@@ -29,23 +29,24 @@ published: false
 
 - Albuquerque, A de. Journal: extracts re Johor, tr. T.D. Hughes. MB 13(2) and 14(3)
 - Borschberg, P. Grotius, the Portuguese and free trade in the East Indies. MB 84(2) {R}
-- Borschberg, P. Jacques de Coutre as historical source on Singapore, Johor River and the straits. MB 81(2)
+- [P. Borschberg](./peter-borschberg.md) (2008). [Jacques de Coutre as a source for the early seventeenth-century history of Singapore, the Johore river and the straits](./jacques-de-coutre-as-a-source-for-the-early-seventeenth-cent.md). *JMBRAS* 81(2): 71–98
 - Boxer, C.R. The Portuguese sea-borne empire. MB 42(2) {R}
-- Cardon, R. Portuguese Malacca. MB 12(2)
+- [R. Cardon](./r-cardon.md) (1934). [Portuguese Malacca](./portuguese-malacca.md). *JMBRAS* 12(2): 1–23
 - De Sousa Pinto, P.J. The Portuguese and the straits of Melaka, 1575–1619. MB 86(2) {R}
-- Jack-Hinton, C. 16th century Spanish incursion into Pacific area. MB 37(2)
-- Koek, E. Portuguese history of Malacca. SB 17
-- MacGregor, I.A. Johore Lama and the Portuguese in Malaya. MB 28(2)
-- MacGregor, I.A. Sea-fight near Singapore in 1570’s. MB 29(3)
-- Marre, M.A. Malay words of Portuguese origin. NQ Reprint 15
-- Maxwell, W.E. Malay words of Portuguese origin. NQ Reprint 15
-- Maxwell, W.G. De Siqueira’s voyage to Malacca. SB 57
+- [C. Jack-Hinton](./c-jack-hinton.md) (1964). [The political and cosmographical background to the Spanish incursion into the Pacific in the sixteenth century](./the-political-and-cosmographical-background-to-the-spanish-i.md). *JMBRAS* 37(2): 125–161
+- [E. Koek](./e-koek.md) (1886). [Portuguese history of Malacca](./portuguese-history-of-malacca.md). *JSBRAS* 17: 117–149
+- I.A. MacGregor (1955). [Johore Lama in the sixteenth century. {In Papers on Johore Lama and the Portuguese in Malaya (1511–1641](./johore-lama-in-the-sixteenth-century-in-papers-on-johore-lam.md). *JMBRAS* 28(2): 48–125
+- I.A. MacGregor (1956). [A sea fight near Singapore in the 1570’s](./a-sea-fight-near-singapore-in-the-1570s.md). *JMBRAS* 29(3): 5–21
+- Anon. [Marre, M.A. Malay words of Portuguese origin](./mbras-reprint-15.md). *Reprint* 15
+- Anon. [Maxwell, W.E. Malay words of Portuguese origin](./mbras-reprint-15.md). *Reprint* 15
+- [W.G. Maxwell](./sir-william-george-maxwell.md) (1911). [An account of De Siqueira’s voyage to Malacca](./an-account-of-de-siqueiras-voyage-to-malacca.md). *JSBRAS* 57: 193–195
 - Barretto de Resende’s account of Malacca. SB 60
-- Mills, J.V. Two Dutch-Portuguese sea fights. MB 16(1)
-- Tavares de Valles Guerreiro, J. A Portuguese account of Johore. MB 13(2)
+- [J.V. Mills](./jv-mills.md) (1938). [Two Dutch-Portuguese sea-fights](./two-dutch-portuguese-sea-fights.md). *JMBRAS* 16: 139–149
+- [T.D. Hughes](./td-hughes.md) and [J. Tavares de Vallez Guerreiro](./j-tavares-de-vallez-guerreiro.md) (1935). [A Portuguese account of Johore. Joao Tavares de Vallez Guerreiro. {Extracts from Jornado de Antonio de Albuquerque Coelho](./a-portuguese-account-of-johore-joao-tavares-de-vallez-guerre.md). *JMBRAS* 13(2): 111–156
 - Texeira, M. Portuguese influence on Malay language. MB 35(1)
-- Valentijn, F. Account of Malacca. Tr. D.F.A. Hervey. SB 13, 15, 16, 22
-- Wilkinson, R.J. The capture of Malacca in 1511. SB 61
-- Wilkinson, R.J. The fall of Malacca. MB 13(2)
+- [D.F.A. Hervey](./dudley-francis-amelius-hervey.md) and [F. Valentijn](./f-valentijn.md) (1890). [Valentyn’s account of Malacca](./valentyns-account-of-malacca.md). *JSBRAS* 22: 225–246
+- [R.J. Wilkinson](./richard-james-wilkinson.md) (1912). [The capture of Malacca, A.D. 1511](./the-capture-of-malacca-ad-1511.md). *JSBRAS* 61: 71–76
+- [R.J. Wilkinson](./richard-james-wilkinson.md) (1935). [The fall of Malacca](./the-fall-of-malacca.md). *JMBRAS* 13(2): 68–69
+
 ## References
 <!-- Grounded occurrences and citations -->

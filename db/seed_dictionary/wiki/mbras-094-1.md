@@ -256,7 +256,7 @@ articles:
 * [Thamboosamy Pillai and the Colonial Elite of British Malaya](./thamboosamy-pillai-and-the-colonial-elite-of-british-malaya.md) — [Sivachandralingam Sundara Raja](./sivachandralingam-sundara-raja.md) (pp. 101–117)
 * [PETRONAS, Oil Money, and Malaysia's National Sovereignty](./petronas-oil-money-and-malaysias-national-sovereignty.md) — [Shakila Yacob](./shakila-yacob.md) (pp. 119–144)
 * [A Penang Portfolio](./a-penang-portfolio.md) — [B. Barnard](./b-barnard.md) (pp. 145–158)
-* [On the River Pluss: Interior of the Malay Peninsula, X. Brau de Saint-Pol Lias. . Dyer](./on-the-river-pluss-interior-of-the-malay-peninsula-x-brau-de.md) — [X.B. De Saint-Pol Lias](./xb-de-saint-pol-lias.md), [C. Dyer](./c-dyer.md) (pp. 159–188)
+* [On the River Pluss: Interior of the Malay Peninsula, X. Brau de Saint-Pol Lias. . Dyer](./on-the-river-pluss-interior-of-the-malay-peninsula-x-brau-de.md) — [X.B. De Saint-Pol Lias](./x-brau-de-saint-pol-lias.md), [C. Dyer](./c-dyer.md) (pp. 159–188)
 * [The everyday life of the people of the Malay Peninsula [c. 1943]. . Kozic](./the-everyday-life-of-the-people-of-the-malay-peninsula-c-194.md) — [J. Kozic](./j-kozic.md), [A. Kozo](./a-kozo.md) (pp. 189–195)
 * [An Account of Affairs in Larut Leading to British Intervention. Facsimile reprint](./an-account-of-affairs-in-larut-leading-to-british-interventi.md) — [L. Wray](./l-wray.md) (pp. 197–202)
 * [Power, Care and Species Difference in Orangutan Rehabilitation in Sarawak: A Roundtable. J.S. Parreñas, Alicia Izharuddin, M.B. Haines, Faizah Zakaria, and R. Cribb](./power-care-and-species-difference-in-orangutan-rehabilitatio.md) — [Alicia Izharuddin](./alicia-izharuddin.md), [Faizah Zakaria](./faizah-zakaria.md), [Haines M.B](./haines-mb.md), [J.S. Parreñas](./js-parreñas.md) (pp. 203–215)
@@ -265,7 +265,7 @@ articles:
 * *The Crown & The Capitalists, The Ethnic Chinese and the Founding of the Thai Nation. W. Wongsurawat* — [Rajo Sathian](./rajo-sathian.md) (pp. 223–225) [Review]
 * *Alternative Voices in Muslim Southeast Asia: Discourse and Struggles* — [Ahmad Fauzi Abdul Hamid](./ahmad-fauzi-abdul-hamid.md) (pp. 225–228) [Review]
 * *From Free Port to Modern Economy: Economic Development and Social Change in Penang, 1969 to 1990* — [G. Lim](./g-lim.md) (pp. 228–229) [Review]
-* *My Story: Justice in the Wilderness. T. Thomas* — [H.S. Barlow](./hs-barlow.md) (pp. 229–231) [Review]
+* *My Story: Justice in the Wilderness. T. Thomas* — [H.S. Barlow](./henry-sackville-barlow.md) (pp. 229–231) [Review]
 * *Decolonizing the History Curriculum in Malaysia and Singapore* — [Chia Yeow-Tong](./chia-yeow-tong.md), [K. Blackburn](./k-blackburn.md), [Wu Zonglun](./wu-zonglun.md) (pp. 232–234) [Review]
 * *Staging Indigenous Heritage: Instrumentalisation, Brokerage, and Representation in Malaysia. Cai Yunci* — [J. Pillai](./j-pillai.md) (pp. 234–235) [Review]
 * *Striving for Inclusive Development: From Pangkor to a Modern Malaysian State. Sultan Nazrin Shah* — [Yeong Pey Jung](./yeong-pey-jung.md) (pp. 235–238) [Review]
@@ -282,7 +282,7 @@ articles:
 * [Faizah Zakaria](./faizah-zakaria.md)
 * [Farid, Syed Alatas](./farid-syed-alatas.md)
 * [G. Lim](./g-lim.md)
-* [H.S. Barlow](./hs-barlow.md)
+* [H.S. Barlow](./henry-sackville-barlow.md)
 * [Haines M.B](./haines-mb.md)
 * [J. Kozic](./j-kozic.md)
 * [J. Pillai](./j-pillai.md)
@@ -300,7 +300,7 @@ articles:
 * [Suraini binti Sahari](./suraini-binti-sahari.md)
 * [T. McLaughlin](./t-mclaughlin.md)
 * [Wu Zonglun](./wu-zonglun.md)
-* [X.B. De Saint-Pol Lias](./xb-de-saint-pol-lias.md)
+* [X.B. De Saint-Pol Lias](./x-brau-de-saint-pol-lias.md)
 * [Yeong Pey Jung](./yeong-pey-jung.md)
 
 ## References

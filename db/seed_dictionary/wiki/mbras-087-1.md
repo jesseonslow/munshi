@@ -129,7 +129,7 @@ articles:
 * [Recollections of my time in Malaya (1945–1956) Part 2](./recollections-of-my-time-in-malaya-19451956-part-2.md) — [J.M. Gullick](./john-michael-gullick.md) (pp. 53–81)
 * *Exploring Melayu and other people-grouping concepts* — [E.C. Thompson](./ec-thompson.md) (pp. 91–95) [Review]
 * *A matter of risk: insurance in Malaysia, 1826–1990. Lee Kam Hing* — [Drake P.J](./drake-pj.md) (pp. 97–101) [Review]
-* *Penang: the fourth presidency of India 1805–1830, Vol. 1: ships, men and mansions. M. Langdon* — [J.S. Bastin](./js-bastin.md) (pp. 100–101) [Review]
+* *Penang: the fourth presidency of India 1805–1830, Vol. 1: ships, men and mansions. M. Langdon* — [J.S. Bastin](./john-bastin.md) (pp. 100–101) [Review]
 * *The genesis of Konfrontasi: Malaysia, Brunei and Indonesia, 1945–1965. G. Poulgrain* — [Kobkua Suwannathat-Pian](./kobkua-suwannathat-pian.md) (pp. 101–104) [Review]
 * *Limbang: seven days in December 1962. E. Chanin* — [B.A. Hussainmiya](./ba-hussainmiya.md) (pp. 104–106) [Review]
 * *Maps of Malaya and Borneo: discovery, statehood and progress* — [Mohd Nizam bin Basiron](./mohd-nizam-bin-basiron.md), [F. Durant](./f-durant.md), [R. Curtis](./r-curtis.md) (pp. 106–108) [Review]
@@ -141,7 +141,7 @@ articles:
 * [F. Durant](./f-durant.md)
 * [Hardwick P.A](./hardwick-pa.md)
 * [J.M. Gullick](./john-michael-gullick.md)
-* [J.S. Bastin](./js-bastin.md)
+* [J.S. Bastin](./john-bastin.md)
 * [Kobkua Suwannathat-Pian](./kobkua-suwannathat-pian.md)
 * [Mohd Nizam bin Basiron](./mohd-nizam-bin-basiron.md)
 * [P. Sloane-White](./p-sloane-white.md)

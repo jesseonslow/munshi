@@ -19,6 +19,7 @@ published: false
 
 ## MBRAS Sources
 
-- Willimott, S.G. Malayan sponges. MB 17(1)
+- [S.G. Willimott](./sg-willimott.md) (1939). [Malayan sponges](./malayan-sponges.md). *JMBRAS* 17: 121–130
+
 ## References
 <!-- Grounded occurrences and citations -->

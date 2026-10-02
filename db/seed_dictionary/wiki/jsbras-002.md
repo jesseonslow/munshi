@@ -144,7 +144,7 @@ articles:
 ## Table of Contents
 * [Mengap, the song of the Dyak head feast](./mengap-the-song-of-the-dyak-head-feast.md) — [J. Perham](./j-perham.md) (pp. 123–135)
 * [Malay proverbs](./malay-proverbs.md) — [W.E. Maxwell](./sir-william-edward-maxwell.md) (pp. 136–162)
-* [A Malay nautch](./a-malay-nautch.md) — [F.A. Swettenham](./sir-frank-swettenham.md) (pp. 163–167)
+* [A Malay nautch](./a-malay-nautch.md) — [Swettenham, F.A.](./sir-frank-swettenham.md) (pp. 163–167)
 * [“Pidgin” English](./pidgin-english.md) — [N.B. Dennys](./nicholas-belfield-dennys.md) (pp. 168–174)
 * [The founding of Singapore](./the-founding-of-singapore.md) — [T.S. Raffles](./ts-raffles.md) (pp. 175–182)
 * [Notes on two Perak manuscripts](./notes-on-two-perak-manuscripts.md) — [W.E. Maxwell](./sir-william-edward-maxwell.md) (pp. 183–193)
@@ -162,7 +162,7 @@ articles:
 * [A.M. Skinner](./allan-maclean-skinner.md)
 * [C.J. Irving](./cj-irving.md)
 * [D.D. Daly](./dd-daly.md)
-* [F.A. Swettenham](./sir-frank-swettenham.md)
+* [Swettenham, F.A.](./sir-frank-swettenham.md)
 * [J. Perham](./j-perham.md)
 * [L.C. Biggs](./lc-biggs.md)
 * [N. von Mikluho-MacLay](./n-von-mikluho-maclay.md)

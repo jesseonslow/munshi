@@ -18,6 +18,7 @@ published: false
 
 ## MBRAS Sources
 
-- Tan Miau Ing. Biographical portrait of a Chinese labour broker and his firm. MB 90(2)
+- [Tan Miau Ing](./tan-miau-ing.md) (2017). [A Chinese labour broker in Malaya: Lee Kwai Lim and his Kam Lun Tai company](./a-chinese-labour-broker-in-malaya-lee-kwai-lim-and-his-kam-l.md). *JMBRAS* 90(2): 55–69
+
 ## References
 <!-- Grounded occurrences and citations -->

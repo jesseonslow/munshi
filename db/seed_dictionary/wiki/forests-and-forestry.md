@@ -20,21 +20,22 @@ published: false
 
 ## MBRAS Sources
 
-- Foxworthy, F.W. Size of trees in Malay Peninsula. MB 4(3)
+- [F.W. Foxworthy](./fw-foxworthy.md) (1926). [The size of trees in the Malay Peninsula](./the-size-of-trees-in-the-malay-peninsula.md). *JMBRAS* 4(3): 382–384
 - Foxworthy, F.W. Diaries of Malaya’s first forest reseach officer. MB 92(1) {R}
-- Guérin, M. Protecting the Forest. MB 95(2)
+- [M. Guérin](./m-guérin.md) (2022). [Protecting the Forest and Its Fauna against Local Residents in British Malaya](./protecting-the-forest-and-its-fauna-against-local-residents-.md). *JMBRAS* 95(2): 57–82
 - Ibbotson, R. History of logging in North Borneo. MB 87(2) {R}
 - Kathirithamby-Wells, J. Forests and development in Malaya. MB 80(2) {R}
 - Ng, F.S.P. Tropical Forest Institute of Malaysia centenary history. MB 83(2) {R}
-- Symington, C.F. Flora of Gunong Tapis, Pahang and altitudinal zoning of Malay forests. MB 14(3)
+- [C.F. Symington](./cf-symington.md) (1936). [The flora of Gunong Tapis in Pahang: with notes on the altitudinal zonation of the forests of the Malay Peninsula](./the-flora-of-gunong-tapis-in-pahang-with-notes-on-the-altitu.md). *JMBRAS* 14(3): 333–365
 ### Forest products
 
 - Anon. Benzoin. SB 30
 - Anroij, H.A.H. Notes on the Sultanate of Siak: royal revenues. SB 17 {R}
-- Bland, R.N. Kayu gharu. SB 18
+- [R.N. Bland](./rn-bland.md) (1886). [Notes on kayu gharu](./notes-on-kayu-gharu.md). *JSBRAS* 18: 359–361
 - Burkill, I.H. Economic producers of the Malay Peninsula. MB 68(2) {R}
-- Cantley, N. Notes on economic plants, incl fibres, oils, fruit, beverages, spices, rubber, drugs, dyes, root vegetables. SB 18
-- Dunn, F.L. Rain-forest collectors and traders. Monograph 5.
+- [Nathaniel Cantley](./nathaniel-cantley.md) (1886). [Notes on economic plants, Straits Settlements](./notes-on-economic-plants-straits-settlements.md). *JSBRAS* 18: 295-334
+- [F.L. Dunn](./fl-dunn.md) (1975). [Rainforest Collections and Traders: A Study of Resource Utilization in Modern and Ancient Malaya](./rainforest-collections-and-traders-a-study-of-resource-utilization-in-modern-and-ancient-malaya.md). ** : 159
 - Hervey, D.F.A. Varieties of getah and rotan. SB 8
+
 ## References
 <!-- Grounded occurrences and citations -->

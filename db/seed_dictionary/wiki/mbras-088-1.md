@@ -116,7 +116,7 @@ articles:
 * [Historical documents relating to the Japanese occupation of Malaya. Comp. P.H. Kratoska](./historical-documents-relating-to-the-japanese-occupation-of-.md) — [Various](./various.md) (pp. 87–117)
 
 ## Contributors
-* [B.W. Andaya](./bw-andaya.md)
+* [B.W. Andaya](./barbara-watson-andaya.md)
 * [C. Chou](./c-chou.md)
 * [Mahani Musa](./mahani-musa.md)
 * [Ngu Ik Tien](./ngu-ik-tien.md)

@@ -23,7 +23,8 @@ published: false
 
 ## MBRAS Sources
 
-- Gullick, J.M. Biographical note. MB 90(2)
+- [J.M. Gullick](./john-michael-gullick.md) (2017). [William George Maxwell: a biographical note](./william-george-maxwell-a-biographical-note.md). *JMBRAS* 90(2): 117–126
+
 ## Bibliography
 - (1906) [Kun and payah kun](./kun-and-payah-kun.md). *JSBRAS* 46: 25–26
 - (1907) [Mantra gajah](./mantra-gajah.md). *JSBRAS* 49: 71–86

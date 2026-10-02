@@ -185,22 +185,22 @@ articles:
 
 ## Table of Contents
 * [Words of majesty: a brief history of royal correspondence between England and Asia, 1600–1858](./words-of-majesty-a-brief-history-of-royal-correspondence-bet.md) — [R.S. Morel](./rs-morel.md) (pp. 1–27)
-* [Singapore in the cycles of the longue durée](./singapore-in-the-cycles-of-the-longue-durée.md) — [P. Borschberg](./p-borschberg.md) (pp. 29–60)
+* [Singapore in the cycles of the longue durée](./singapore-in-the-cycles-of-the-longue-durée.md) — [P. Borschberg](./peter-borschberg.md) (pp. 29–60)
 * [The brickmaking industry in Kuala Lumpur in the late nineteenth century](./the-brickmaking-industry-in-kuala-lumpur-in-the-late-ninetee.md) — [Arba'iyah bt Mohd Noor](./arbaiyah-bt-mohd-noor.md), [Shapiza bt Sharif](./shapiza-bt-sharif.md) (pp. 61–72)
 * [Managing agency capitalism and Malayan rubber: Harrisons & Crosfield, Ltd. (1900–1940](./managing-agency-capitalism-and-malayan-rubber-harrisons-cros.md) — [K. Koike](./k-koike.md) (pp. 73–100)
 * [Tanah Rata and the development of the Cameron Highlands, 1925–2030](./tanah-rata-and-the-development-of-the-cameron-highlands-1925.md) — [R. Weebers](./r-weebers.md) (pp. 101–111)
 * [Muted speech, Apa Khabar Orang Kampung , and To Singapore, with Love](./muted-speech-apa-khabar-orang-kampung-and-to-singapore-with-.md) — [F.-T. Hsu](./f-t-hsu.md) (pp. 113–126)
 * [Cameron’s Highlands](./camerons-highlands.md) — [Anon](./anon-and-unidentifiable-initials.md) (pp. 127–130)
 * [Malacca in 1824: an eye-witness account. . Dyer; with an introd. and notes](./malacca-in-1824-an-eye-witness-account-dyer-with-an-introd-a.md) — [H. de Bougainville](./h-de-bougainville.md) (pp. 131–137)
-* *A history of Malaysia, 3rd edn* — [Abu Talib Ahmad](./abu-talib-ahmad.md), [L.Y. Andaya](./ly-andaya.md) (pp. 139–144) [Review]
+* *A history of Malaysia, 3rd edn* — [Abu Talib Ahmad](./abu-talib-ahmad.md), [L.Y. Andaya](./leonard-andaya.md) (pp. 139–144) [Review]
 * *Admiral Matelieff’s Singapore and Johor (1606–1616). . Borschberg* — [Dhiravat na Pombejra](./dhiravat-na-pombejra.md) (pp. 144–146) [Review]
 * *The Malaysian Islamic Party PAS 1951–2013: Islamism in a mottled nation. Farish Noor* — [N. Lee](./n-lee.md) (pp. 147–149) [Review]
-* *The diaries of G.C. Woolley, ed S. Moo-Tan. Volume 4: 1919–1926* — [H.S. Barlow](./hs-barlow.md) (pp. 149–151) [Review]
+* *The diaries of G.C. Woolley, ed S. Moo-Tan. Volume 4: 1919–1926* — [H.S. Barlow](./henry-sackville-barlow.md) (pp. 149–151) [Review]
 * *Shaṭṭārīyah silsilah in Aceh, Java, and the Lanao area of Mindanao. Oman Fathurahman* — [H.E. Niemeijer](./he-niemeijer.md) (pp. 150–152) [Review]
 * *The authority of influence: women and power in Burmese history. J. Harriden* — [H. Ting Mu Hung](./h-ting-mu-hung.md) (pp. 152–155) [Review]
 * *Witch hunt and conspiracy: the ‘Ninja’ case in East Java. N. Herriman* — [Mohamed Effendy Abdul Hamid](./mohamed-effendy-abdul-hamid.md) (pp. 156–157) [Review]
 * *Unequal Thailand: aspects of income, wealth and power. . Baker* — [Thanet Aphornsuvan](./thanet-aphornsuvan.md) (pp. 161–166) [Review]
-* *The diaries of G.C. Woolley, ed D. Wong Tze Ken and S. Moo-Tan. Volume 2: 1907–1913* — [H.S. Barlow](./hs-barlow.md) (pp. 167–168) [Review]
+* *The diaries of G.C. Woolley, ed D. Wong Tze Ken and S. Moo-Tan. Volume 2: 1907–1913* — [H.S. Barlow](./henry-sackville-barlow.md) (pp. 167–168) [Review]
 
 ## Contributors
 * [Abu Talib Ahmad](./abu-talib-ahmad.md)
@@ -211,12 +211,12 @@ articles:
 * [H. de Bougainville](./h-de-bougainville.md)
 * [H. Ting Mu Hung](./h-ting-mu-hung.md)
 * [H.E. Niemeijer](./he-niemeijer.md)
-* [H.S. Barlow](./hs-barlow.md)
+* [H.S. Barlow](./henry-sackville-barlow.md)
 * [K. Koike](./k-koike.md)
-* [L.Y. Andaya](./ly-andaya.md)
+* [L.Y. Andaya](./leonard-andaya.md)
 * [Mohamed Effendy Abdul Hamid](./mohamed-effendy-abdul-hamid.md)
 * [N. Lee](./n-lee.md)
-* [P. Borschberg](./p-borschberg.md)
+* [P. Borschberg](./peter-borschberg.md)
 * [R. Weebers](./r-weebers.md)
 * [R.S. Morel](./rs-morel.md)
 * [Shapiza bt Sharif](./shapiza-bt-sharif.md)

@@ -147,7 +147,7 @@ articles:
 * [A note on rengas poisoning](./a-note-on-rengas-poisoning.md) — [W.C. Brown](./wc-brown.md) (pp. 83–85)
 * [A new collection of Malay proverbs](./a-new-collection-of-malay-proverbs.md) — [H.C. Clifford](./hc-clifford.md) (pp. 87–120)
 * [A bibliography of Malaya, from July, 1890 to June, 1891](./a-bibliography-of-malaya-from-july-1890-to-june-1891.md) — [C.D. Sherborn](./cd-sherborn.md) (pp. 121–164)
-* [The Putri of Mount Ophir](./the-putri-of-mount-ophir.md) — [M. Lister](./m-lister.md) (pp. 165–166)
+* [The Putri of Mount Ophir](./the-putri-of-mount-ophir.md) — [M. Lister](./martin-lister.md) (pp. 165–166)
 * [Diamonds in the Malay Peninsula](./diamonds-in-the-malay-peninsula.md) — [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 166–167)
 * [Description of a new species of jungle fowl said to come from Borneo](./description-of-a-new-species-of-jungle-fowl-said-to-come-fro.md) — [H.J. Kelsall](./hj-kelsall.md) (pp. 167–168)
 * [A large mias in Singapore](./a-large-mias-in-singapore.md) — [H.J. Kelsall](./hj-kelsall.md) (pp. 168–169)
@@ -161,7 +161,7 @@ articles:
 * [H.C. Clifford](./hc-clifford.md)
 * [H.J. Kelsall](./hj-kelsall.md)
 * [H.N. Ridley](./henry-nicholas-ridley.md)
-* [M. Lister](./m-lister.md)
+* [M. Lister](./martin-lister.md)
 * [W. Bott](./w-bott.md)
 * [W.C. Brown](./wc-brown.md)
 

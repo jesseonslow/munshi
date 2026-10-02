@@ -18,6 +18,7 @@ published: false
 
 ## MBRAS Sources
 
-- Ridley, H.N. Diamonds of the Malay Peninsula. SB 24
+- [H.N. Ridley](./henry-nicholas-ridley.md) (1891). [Diamonds in the Malay Peninsula](./diamonds-in-the-malay-peninsula.md). *JSBRAS* 24: 166–167
+
 ## References
 <!-- Grounded occurrences and citations -->

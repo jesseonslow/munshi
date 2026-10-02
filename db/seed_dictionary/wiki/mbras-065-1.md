@@ -101,24 +101,24 @@ articles:
 **Date:** June 1992
 
 ## Table of Contents
-* [Raffles’ aides-de-camp in Java](./raffles-aides-de-camp-in-java.md) — [J.S. Bastin](./js-bastin.md) (pp. 1–14)
+* [Raffles’ aides-de-camp in Java](./raffles-aides-de-camp-in-java.md) — [J.S. Bastin](./john-bastin.md) (pp. 1–14)
 * [The Bangunan Sultan Abdul Samad](./the-bangunan-sultan-abdul-samad.md) — [J.M. Gullick](./john-michael-gullick.md) (pp. 27–38)
 * [Defining the Malay house](./defining-the-malay-house.md) — [R.N. Hilton](./rn-hilton.md) (pp. 39–70)
 * [Diversity among Indian Christians in Peninsular Malaysia](./diversity-among-indian-christians-in-peninsular-malaysia.md) — [J.R. Daniel](./jr-daniel.md) (pp. 71–85)
 * *Syair Perang Siak: a court poem presenting state policy of a Minangkabau royal family in exile. D.J. Goudie* — [Drakard J](./drakard-j.md) (pp. 99–100) [Review]
-* *A history of Singapore* — [C.M. Turnbull](./cm-turnbull.md), [E.C.T. Chew](./ect-chew.md), [E. Lee](./e-lee.md) (pp. 101–103) [Review]
-* *Pahang 1880–1933: a political history. A. Gopinath* — [B.W. Andaya](./bw-andaya.md) (pp. 104–106) [Review]
+* *A history of Singapore* — [C.M. Turnbull](./constance-mary-turnbull.md), [E.C.T. Chew](./ect-chew.md), [E. Lee](./e-lee.md) (pp. 101–103) [Review]
+* *Pahang 1880–1933: a political history. A. Gopinath* — [B.W. Andaya](./barbara-watson-andaya.md) (pp. 104–106) [Review]
 * *Sinhalese immigrants in Malaysia and Singapore 1860–1900. S.N. Arsecularatne* — [Khoo Kay Kim](./khoo-kay-kim.md) (pp. 107–109) [Review]
 
 ## Contributors
-* [B.W. Andaya](./bw-andaya.md)
-* [C.M. Turnbull](./cm-turnbull.md)
+* [B.W. Andaya](./barbara-watson-andaya.md)
+* [C.M. Turnbull](./constance-mary-turnbull.md)
 * [Drakard J](./drakard-j.md)
 * [E. Lee](./e-lee.md)
 * [E.C.T. Chew](./ect-chew.md)
 * [J.M. Gullick](./john-michael-gullick.md)
 * [J.R. Daniel](./jr-daniel.md)
-* [J.S. Bastin](./js-bastin.md)
+* [J.S. Bastin](./john-bastin.md)
 * [Khoo Kay Kim](./khoo-kay-kim.md)
 * [R.N. Hilton](./rn-hilton.md)
 

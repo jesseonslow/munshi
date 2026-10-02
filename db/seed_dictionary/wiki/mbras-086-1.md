@@ -134,10 +134,10 @@ articles:
 ## Table of Contents
 * [The ‘discovery’ of Penang Island at Tanjong Tokong before 1785: Bapu Alaidin Meera Hussein Lebai and Captain Francis Light](./the-discovery-of-penang-island-at-tanjong-tokong-before-1785.md) — [Wazir Jahan Karim](./wazir-jahan-karim.md) (pp. 1–29)
 * [The Stamp Office records, 1920s–1930s: a neglected database on Kedah’s propertied class](./the-stamp-office-records-1920s1930s-a-neglected-database-on-.md) — [Khoo Khay Jin](./khoo-khay-jin.md) (pp. 31–60)
-* [Chettiar moneylenders and rural credit in British Malaya](./chettiar-moneylenders-and-rural-credit-in-british-malaya.md) — [P.H. Kratoska](./ph-kratoska.md) (pp. 61–78)
+* [Chettiar moneylenders and rural credit in British Malaya](./chettiar-moneylenders-and-rural-credit-in-british-malaya.md) — [P.H. Kratoska](./paul-h-kratoska.md) (pp. 61–78)
 * [The ‘Everett Collection from Borneo Caves’ in the Natural History Museum, London: its origin, composition and potential for research](./the-everett-collection-from-borneo-caves-in-the-natural-hist.md) — [Gathorne Gathorne-Hardy, Lord (Earl of Cranbrook) Medway](./gathorne-gathorne-hardy-lord-earl-of-cranbrook-medway.md) (pp. 79–112)
 * [Three men and a bird – Motley, Dillwyn, Strickland, and Copsychus stricklandii – and an introduction to Bornean nature for Alfred Russel Wallace](./three-men-and-a-bird-motley-dillwyn-strickland-and-copsychus.md) — [M. Laverty](./m-laverty.md) (pp. 113–119)
-* *The Battle of Penang: 28th October 1914. J.R. Robertson* — [H.S. Barlow](./hs-barlow.md) (pp. 121–122) [Review]
+* *The Battle of Penang: 28th October 1914. J.R. Robertson* — [H.S. Barlow](./henry-sackville-barlow.md) (pp. 121–122) [Review]
 * *Anthony Reid and the study of the Southeast East Asian past. ed G* — [W. Cheah](./w-cheah.md), [Li Tana](./li-tana.md) (pp. 122–124) [Review]
 * *To cage the red dragon: SEATO and the defence of Southeast Asia 1955–1965. D. Fenton* — [Ahmad Mokhtar Selat](./ahmad-mokhtar-selat.md) (pp. 124–127) [Review]
 * *Red star over Malaya: resistance and social conflict during and after the Japanese occupation of Malaya, 1941–1946. Cheah Boon Kheng* — [Rajo Sathian](./rajo-sathian.md) (pp. 130–132) [Review]
@@ -147,12 +147,12 @@ articles:
 ## Contributors
 * [Ahmad Mokhtar Selat](./ahmad-mokhtar-selat.md)
 * [Gathorne Gathorne-Hardy, Lord (Earl of Cranbrook) Medway](./gathorne-gathorne-hardy-lord-earl-of-cranbrook-medway.md)
-* [H.S. Barlow](./hs-barlow.md)
+* [H.S. Barlow](./henry-sackville-barlow.md)
 * [Khoo Khay Jin](./khoo-khay-jin.md)
 * [Li Tana](./li-tana.md)
 * [Loh Wei Leng](./loh-wei-leng.md)
 * [M. Laverty](./m-laverty.md)
-* [P.H. Kratoska](./ph-kratoska.md)
+* [P.H. Kratoska](./paul-h-kratoska.md)
 * [Rajo Sathian](./rajo-sathian.md)
 * [Ruhanas Harun](./ruhanas-harun.md)
 * [W. Cheah](./w-cheah.md)

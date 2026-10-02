@@ -22,6 +22,7 @@ published: false
 ## MBRAS Sources
 
 - Basir Ismail. Land and agricultural policy in Malaysia: a mismatch. MB 80(2) {R}
-- Keith, H.G. A native oil-press (chandasan) from N Borneo. MB 6(3)
+- [H.G. Keith](./hg-keith.md) (1928). [Description of a native oil press (chandasan) from North Borneo](./description-of-a-native-oil-press-chandasan-from-north-borne.md). *JMBRAS* 6(3): 96–97
+
 ## References
 <!-- Grounded occurrences and citations -->

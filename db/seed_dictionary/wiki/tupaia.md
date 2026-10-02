@@ -18,6 +18,7 @@ published: false
 
 ## MBRAS Sources
 
-- Ridley, H.N. Tupaia – habits. SB 23 and 45
+- [H.N. Ridley](./henry-nicholas-ridley.md) (1891). [Frugivorous habits of the Tupaia](./frugivorous-habits-of-the-tupaia.md). *JSBRAS* 23: 148
+
 ## References
 <!-- Grounded occurrences and citations -->

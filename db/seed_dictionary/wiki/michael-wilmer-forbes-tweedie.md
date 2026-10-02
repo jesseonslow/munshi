@@ -23,6 +23,7 @@ published: false
 ## MBRAS Sources
 
 - Anon. Obituary. MB 66(2)
+
 ## Bibliography
 - (1940) [Report on excavation in Kelantan](./report-on-excavation-in-kelantan.md). *JMBRAS* 18(2): 1–22
 - (1951) [Anker Rentse. Obituary](./anker-rentse-obituary.md). *JMBRAS* 24(1): 192–193

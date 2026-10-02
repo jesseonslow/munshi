@@ -81,87 +81,95 @@ published: false
 
 ### History
 
-- Abdul Karim bin Bagoo. Malay States Guides. MB 35(1)
-- Abdurrazzaq Lubis. Raja Bilah and the Mandailings. Monograph 35 and MB 77(2) {R}
-- Birch, E.W. Takeover of part of Reman from Siam. SB 54
+- [Abdul Karim bin Bagoo](./abdul-karim-bin-bagoo.md) (1962). [The origin and development of the Malay States Guides](./the-origin-and-development-of-the-malay-states-guides.md). *JMBRAS* 35: 51–94
+- Abdurrazzaq Lubis. Raja Bilah and the Mandailings. Monograph 35
+- and MB 77(2) {R}
+- [E.W. Birch](./ew-birch.md) (1910). [The taking over from Siam of part of Reman or Rahman](./the-taking-over-from-siam-of-part-of-reman-or-rahman.md). *JSBRAS* 54: 147–155
 - Butcher, J.G. The anti-gambling petition in Perak, 1905. MB 56(1)
-- Ceridwen, A. Silsilah Raja-Raja Perak: a court genealogy. MB 74(2)
-- Cheah Boon Kheng. Sultan Abdullah’s letters from the Seychelles. MB 64(1)
+- [A. Ceridwen](./a-ceridwen.md) (2001). [The Silsilah Raja-Raja Perak, a historical and literary investigation into the political significance of a Malay court genealogy](./the-silsilah-raja-raja-perak-a-historical-and-literary-inves.md). *JMBRAS* 74(2): 23–129
+- [W. Cheah](./w-cheah.md) (1991). [Letters from exile: correspondence of Sultan Abdullah from Seychelles and Mauritius](./letters-from-exile-correspondence-of-sultan-abdullah-from-se.md). *JMBRAS* 64: 33–74
 - Murder of J.W.W. Birch. MB 71(1)
-- Comber, L. General Templer and the Kinta valley home guard, 1952–54. MB 85(1)
+- [L. Comber](./l-comber.md) (2012). [The Malayan Emergency: General Templer and the Kinta Valley home guard](./the-malayan-emergency-general-templer-and-the-kinta-valley-h.md). *JMBRAS* 85: 45–62
 - De la Croix. The Kingdom of Perak. MB 94(2)
-- Denison, N. Kurau district. SB 18
-- Falconer, J. The Bandar Bahru group photograph of 1875. MB 62(1)
-- Gullick, J.M. Captain Speedy of Larut. MB 26(3)
-- Gullick, J.M. The economy of Perak in the mid-1870s. MB 83(2)
-- Jaafar Aznan, Syed. The Jamalullails of Perak. MB 93(1)
+- [N. Denison](./n-denison.md) (1886). [The Kurau district, Perak](./the-kurau-district-perak.md). *JSBRAS* 18: 349–352
+- [J. Falconer](./john-falconer.md) and [J.M. Gullick](./john-michael-gullick.md) (1989). [The Bandar Bahru group photograph](./the-bandar-bahru-group-photograph.md). *JMBRAS* 62: 21–34
+- [J.M. Gullick](./john-michael-gullick.md) (1953). [Captain Speedy of Larut](./captain-speedy-of-larut.md). *JMBRAS* 26(3): 1–103
+- [J.M. Gullick](./john-michael-gullick.md) (2010). [The economy of Perak in the mid-1870s](./the-economy-of-perak-in-the-mid-1870s.md). *JMBRAS* 83(2): 27–46
+- [Jaafar Aznan](./jaafar-aznan.md) (2020). [The Jamalullails of Perak](./the-jamalullails-of-perak.md). *JMBRAS* 93: 119–132
 - Khoo Kay Kim. Pangkor Engagement of 1874. MB 47(1)
-- Khoo Kay Kim. Succession to the Perak Sultanate. MB 56(2)
-- Khoo Kay Kim. Perak Sultanate: ancient and modern. MB 59(1)
-- Khoo Kay Kim. History of Larut and Taiping. MB 64(1)
-- Khoo Kay Kim. Teluk Anson, 1882–1941. MB 68(2)
+- [Khoo Kay Kim](./khoo-kay-kim.md) (1983). [Succession to the Perak Sultanate](./succession-to-the-perak-sultanate.md). *JMBRAS* 56(2): 7–29
+- [Khoo Kay Kim](./khoo-kay-kim.md) (1986). [The Perak Sultanate: ancient and modern](./the-perak-sultanate-ancient-and-modern.md). *JMBRAS* 59: 1–26
+- [Khoo Kay Kim](./khoo-kay-kim.md) (1991). [Taiping (Larut): the early history of a mining settlement](./taiping-larut-the-early-history-of-a-mining-settlement.md). *JMBRAS* 64: 1–32
+- [Khoo Kay Kim](./khoo-kay-kim.md) (1995). [Teluk Anson, 1882–1941: port, agriculture and erosion](./teluk-anson-18821941-port-agriculture-and-erosion.md). *JMBRAS* 68(2): 33–52
 - Khoo Salma Nasution. Development of the Kinta valley. MB 78(2) {R}
 - Kratoska, P.H. Selangor and Perak in 1942. MB 88(1)
-- Low, H. Journal 1877 (ed. E. Sadka). MB 27(4)
-- Luckham, H.A.L. Origin of “Batu Gajah”. MB 23(1)
-- Maxwell, W.E. Dutch in Perak. NQ Reprint 15 and SB 10
-- Maxwell, W.E. Perak and Penang in 1829. NQ Reprint 15 and SB 15
-- Maxwell, W.E. English in Perak in mid 19th century. NQ Reprint 15
-- Maxwell, W.E. Notes on two Perak MSS. SB 2 and Reprint 3
-- Maxwell, W.E. Trip to Patani frontier in 1876. SB 9
-- Maxwell, W.E. History of Perak from native sources. SB 9 and 14 and Reprint 3
-- Maxwell, W.E. Perak and Penang in 1829. NQ Reprint 15 and SB 15
-- Maxwell, W.E. Dutch occupation of the Dindings. SB 11
-- Merewether, E.M. Outline history of the Dindings from 17th to 19th centuries. SB 23
+- H. Low and [E. Sadka](./e-sadka.md) (1954). [The journal of Sir Hugh Low, 1877. . Sadka](./the-journal-of-sir-hugh-low-1877-sadka.md). *JMBRAS* 27(4): 1–108
+- [C.A. Gibson-Hill](./carl-alexander-gibson-hill.md) and [H.A.L. Luckham](./hal-luckham.md) (1950). [The cannon at Pulau Aur](./the-cannon-at-pulau-aur.md). *JMBRAS* 23: 139–142
+- Anon. [Maxwell, W.E. Dutch in Perak](./mbras-reprint-15.md). *Reprint* 15
+- and SB 10
+- Anon. [Maxwell, W.E. Perak and Penang in 1829](./mbras-reprint-15.md). *Reprint* 15
+- and SB 15
+- Anon. [Maxwell, W.E. English in Perak in mid 19th century](./mbras-reprint-15.md). *Reprint* 15
+- [W.E. Maxwell](./sir-william-edward-maxwell.md) (1878). [Notes on two Perak manuscripts](./notes-on-two-perak-manuscripts.md). *JSBRAS* 2: 183–193
+- [R.O. Winstedt](./richard-olaf-winstedt.md) and [R.J. Wilkinson](./richard-james-wilkinson.md) (1974). [A History of Perak](./a-history-of-perak.md). ** : 226
+- [W.E. Maxwell](./sir-william-edward-maxwell.md) (1882). [A journey on foot to the Patani frontier in 1876; being a journal kept an expedition undertaken to capture Datoh Maharaja Lela of Perak](./a-journey-on-foot-to-the-patani-frontier-in-1876-being-a-jou.md). *JSBRAS* 9: 1–67
+- [R.O. Winstedt](./richard-olaf-winstedt.md) and [R.J. Wilkinson](./richard-james-wilkinson.md) (1974). [A History of Perak](./a-history-of-perak.md). ** : 226
+- Anon. [Maxwell, W.E. Perak and Penang in 1829](./mbras-reprint-15.md). *Reprint* 15
+- and SB 15
+- [W.E. Maxwell](./sir-william-edward-maxwell.md) (1883). [Dutch occupation of the Dindings, etc](./dutch-occupation-of-the-dindings-etc.md). *JSBRAS* 11: 169–170
+- [E.M. Merewether](./em-merewether.md) (1891). [Outline of the history of the Dindings from the 17th century to the present time](./outline-of-the-history-of-the-dindings-from-the-17th-century.md). *JSBRAS* 23: 35–47
 - Mohamed Hashim bin Sam Abdul Latiff. Identity of Ngah Jabor. MB 53(2)
 - Nazrin Shah, Sultan. From Pangkor to a Modern Malaysian State. MB 94(1) {R}
 - Nazrin Shah, Sultan. Perak’s Rise, Relative Decline and Regeneration. MB 97(2) {R}
-- Peet, G.L. A journal in the federal capital. Reprint 34
-- Pek Wee Chuen. The Kong-Moon System in Larut. MB 94(1)
-- Sullivan, P. Social relations of dependence in 19th century Perak. Monograph 10
-- Swettenham, F.A. Perak Journals, 1874–6 (ed. C.D. Cowan). MB 24(4) and 25(1)
-- Winstedt, R.O. The Hadramut Saiyids of Perak and Siak. SB 79
-- Winstedt, R.O. A history of Perak. MB 12(1) and Reprint 3
-- Wray, L. Jr. An Account of Affairs in Larut. MB 94(1)
+- [George L. Peet](./george-l-peet.md) (2017). [A Journal in the Federal Capital](./a-journal-in-the-federal-capital.md). ** : 180
+- [Pek Wee Chuen](./pek-wee-chuen.md) (2021). [The Kong-Moon System in Larut: Chinese Social Relationships in Nineteenth-Century Perak](./the-kong-moon-system-in-larut-chinese-social-relationships-i.md). *JMBRAS* 94: 25–50
+- [Patrick Sullivan](./patrick-sullivan.md) (1982). [Social Relations of Dependence in a Malay State: 19th Century Perak](./social-relations-of-dependence-in-a-malay-state-19th-century-perak.md). ** : 102
+- [C.D. Cowan](./cd-cowan.md) and [Swettenham, F.A.](./sir-frank-swettenham.md) (1951). [Sir Frank Swettenham’s Perak journals, 1874–1876](./sir-frank-swettenhams-perak-journals-18741876.md). *JMBRAS* 24(4): 1–148
+- [R.O. Winstedt](./richard-olaf-winstedt.md) (1918). [The Hadramaut Sayids of Perak and Siak](./the-hadramaut-sayids-of-perak-and-siak.md). *JSBRAS* 79: 49–54
+- [R.O. Winstedt](./richard-olaf-winstedt.md) and [R.J. Wilkinson](./richard-james-wilkinson.md) (1974). [A History of Perak](./a-history-of-perak.md). ** : 226
+- [R.O. Winstedt](./richard-olaf-winstedt.md) and [R.J. Wilkinson](./richard-james-wilkinson.md) (1974). [A History of Perak](./a-history-of-perak.md). ** : 226
+- [L. Wray](./l-wray.md) (2021). [An Account of Affairs in Larut Leading to British Intervention. Facsimile reprint](./an-account-of-affairs-in-larut-leading-to-british-interventi.md). *JMBRAS* 94: 197–202
 
 ### Antiquities
 
-- Hale, A. Evidence of Siamese work in Perak. SB 18
-- Hale, A. Stone age in Perak. NQ Reprint 15
+- [R.N. Bland](./rn-bland.md) and [Hale A](./hale-a.md) (1886). [Currency, Negri Sembilan](./currency-negri-sembilan.md). *JSBRAS* 18: 356–357
+- Anon. [Hale, A. Stone age in Perak](./mbras-reprint-15.md). *Reprint* 15
 - Hale, A. Harrower, G. Skeletal remains from the Kuala Selinsing excavations in Perak. MB 11(2)
-- Winstedt, R.O. The Perak site of the Sailendra empire. MB 19(2)
+- [R.O. Winstedt](./richard-olaf-winstedt.md) (1941). [The Perak site of the Sailendra empire](./the-perak-site-of-the-sailendra-empire.md). *JMBRAS* 19(2): 242
 
 ### Description and travel
 
-- Birch, E.W. Trip to Belum and Klian Intan. SB 54
+- [E.W. Birch](./ew-birch.md) (1910). [My trip to Belum](./my-trip-to-belum.md). *JSBRAS* 54: 117–135
 - De La Croix, J.E. Seven months in the tin country, 1881. MB 93(1)
-- Deane, H.S. Survey report on Ulu Perak. SB 3
-- Dew, A.T. Expedition from Selama to Patani. SB 19
-- Fee, R.M.M. Kg Padre, Tamil settlement near Bagan Serai. MB 36(1)
+- [H.S. Deane](./hs-deane.md) (1879). [Survey reports on Ulu Perak](./survey-reports-on-ulu-perak.md). *JSBRAS* 3: 135–139
+- [A.T. Dew](./at-dew.md) (1887). [Exploring expedition from Selama, Perak, over the mountains to Pong, Patani, in November](./exploring-expedition-from-selama-perak-over-the-mountains-to.md). *JSBRAS* 19: 105–120
+- [R.M.M. Fee](./rmm-fee.md) (1963). [Kampong Padre: a Tamil settlement near Bagan Serai, Perak. . Manikam, .K. Jain](./kampong-padre-a-tamil-settlement-near-bagan-serai-perak-mani.md). *JMBRAS* 36: 153–181
 - Jaunay, A. Jacques de Morgan's Explorations. MB 94(2) {R}
-- Koopmans, B.N. Geomorphological and historical data on the lower reaches of the Perak River. MB 37(2)
+- [B.N. Koopmans](./bn-koopmans.md) (1964). [Geomorphological and historical data of the lower course of the Perak River (Dindings](./geomorphological-and-historical-data-of-the-lower-course-of-.md). *JMBRAS* 37(2): 175–191
 - Leech, H.W.C. Ascent of Bujang Malacca. SB 2
-- Leech, H.W.C. About Kinta. SB 4
-- Leech, H.W.C. About Slim and Bernam. SB 4
+- [H.W.C. Leech](./hwc-leech.md) (1879). [About Kinta](./about-kinta.md). *JSBRAS* 4: 21–33
+- [H.W.C. Leech](./hwc-leech.md) (1879). [About Slim and Bernam](./about-slim-and-bernam.md). *JSBRAS* 4: 34–45
 - Lim Teck Ghee. Origins of a colonial economy. MB 50(2) {R}
-- Maxwell, W.E. Trip to Patani frontier in 1876. SB 9 and SB 19
-- Morgan, J. de. Explorations in the Perak interior. Monograph 51
-- Nathan, J.E. Journey over main range to Pahang. SB 68
-- Peet, G.L. A journal in the federal capital. Reprint 34
-- Ridley, H.N. A scientific expedition to Temengoh, Upper Perak. SB 57
-- Skinner, A.M. Geographical notes. SB 2 and 3
-- Swettenham, F.A. From Perak to Slim and down Bernam River. SB 5
-- Tenison Woods, J.E. Journey to the summit of Gunong Bubu. SB 14
-- Tenison Woods, J.E. Physical geography of the Malay Peninsula. MB 93(1)
+- [W.E. Maxwell](./sir-william-edward-maxwell.md) (1882). [A journey on foot to the Patani frontier in 1876; being a journal kept an expedition undertaken to capture Datoh Maharaja Lela of Perak](./a-journey-on-foot-to-the-patani-frontier-in-1876-being-a-jou.md). *JSBRAS* 9: 1–67
+- and SB 19
+- [Andrée Jaunay](./andrée-jaunay.md) et al. (2020). [Jacques de Morgan's Explorations in the Malay Peninsula, 1884](./jacques-de-morgans-explorations-in-the-malay-peninsula-1884.md). ** : 225
+- [J.E. Nathan](./je-nathan.md) (1915). [A journey over the main range from Perak to Pahang](./a-journey-over-the-main-range-from-perak-to-pahang.md). *JSBRAS* 68: 1–5
+- [George L. Peet](./george-l-peet.md) (2017). [A Journal in the Federal Capital](./a-journal-in-the-federal-capital.md). ** : 180
+- [H.N. Ridley](./henry-nicholas-ridley.md) (1911). [A scientific expedition to Temengoh, Upper Perak](./a-scientific-expedition-to-temengoh-upper-perak.md). *JSBRAS* 57: 5–122
+- [A.M. Skinner](./allan-maclean-skinner.md) (1878). [Geographical notes – recent journeys in the peninsula](./geographical-notes-recent-journeys-in-the-peninsula.md). *JSBRAS* 2: 222–225
+- [Swettenham, F.A.](./sir-frank-swettenham.md) (1880). [Comparative vocabulary of the dialects of some of the wild tribes inhabiting the Malayan peninsula, Borneo, etc., collected and compiled for the Straits Branch of the Royal Asiatic Society](./comparative-vocabulary-of-the-dialects-of-some-of-the-wild-t.md). *JSBRAS* 5: 125–156
+- [J.E. Tenison Woods](./je-tenison-woods.md) (1884). [Journey to the summit of Gunong Bubu](./journey-to-the-summit-of-gunong-bubu.md). *JSBRAS* 14: 275–285
+- [J.E. Tenison Woods](./je-tenison-woods.md) (2020). [Physical geography of the Malayan Peninsula (1884](./physical-geography-of-the-malayan-peninsula-1884.md). *JMBRAS* 93: 137–142
 
 ### Rulers and chiefs
 
-- Anon. Graveyards of the late Sultans of Perak. SB 48
-- Maxwell, W.E. Titles and offices in Perak. NQ Reprint 15
-- Maxwell, W.E. History of Perak from native sources. SB 9 and 14 and Reprint 3
-- To’ Muda Orang Kaya Besar. The Pancha Persada. MB 24(3)
-- Winstedt, R.O. Some Perak pedigrees. SB 79
-- Winstedt, R.O. Perak royal musical instruments. MB 7(3)
-- Winstedt, R.O. Early rulers of Perak, Pahang and Acheh. MB 10(1)
+- [Anon](./anon-and-unidentifiable-initials.md) (1907). [List of graveyards of the late Sultans of Perak](./list-of-graveyards-of-the-late-sultans-of-perak.md). *JSBRAS* 48: 97–106
+- Anon. [Maxwell, W.E. Titles and offices in Perak](./mbras-reprint-15.md). *Reprint* 15
+- [R.O. Winstedt](./richard-olaf-winstedt.md) and [R.J. Wilkinson](./richard-james-wilkinson.md) (1974). [A History of Perak](./a-history-of-perak.md). ** : 226
+- [Mat Som](./mat-som.md) and [To' Muda Orang Kaya Besar](./to-muda-orang-kaya-besar.md) (1951). [The Pancha Persada. To’ Muda Orang Kaya Besar and Mat Som](./the-pancha-persada-to-muda-orang-kaya-besar-and-mat-som.md). *JMBRAS* 24(3): 147–149
+- [R.O. Winstedt](./richard-olaf-winstedt.md) (1918). [Some Perak pedigrees](./some-perak-pedigrees.md). *JSBRAS* 79: 55–62
+- [R.O. Winstedt](./richard-olaf-winstedt.md) (1929). [The Perak royal musical instruments](./the-perak-royal-musical-instruments.md). *JMBRAS* 7(3): 451–453
+- [R.O. Winstedt](./richard-olaf-winstedt.md) (1932). [The early rulers of Perak, Pahang and Acheh](./the-early-rulers-of-perak-pahang-and-acheh.md). *JMBRAS* 10: 32–44
+
 ## References
 <!-- Grounded occurrences and citations -->

@@ -19,6 +19,7 @@ published: false
 ## MBRAS Sources
 
 - Johnson-Davies, D. Egyptian one-act plays. MB 55(1) {R}
-- Wales, H.G.Q. The Sabaeans and possible Egyptian influences on Indonesia. MB 23(3)
+- [H.G.Q. Wales](./horace-geoffrey-quaritch-wales.md) (1950). [The Savaeans and possible Egyptian influences in Indonesia](./the-savaeans-and-possible-egyptian-influences-in-indonesia.md). *JMBRAS* 23(3): 36–42
+
 ## References
 <!-- Grounded occurrences and citations -->

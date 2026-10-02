@@ -28,8 +28,9 @@ published: false
 
 ## MBRAS Sources
 
-- Bruce, A. Early mosques of the Malaysian Peninsula. MB 69(2)
-- Kern, R.A. The origin of the Malay surau. MB 29(1)
-- Sheppard, M. The new pulpit in the national mosque. MB 67(1)
+- [A. Bruce](./a-bruce.md) (1996). [Notes on early mosques of the Malaysian Peninsula](./notes-on-early-mosques-of-the-malaysian-peninsula.md). *JMBRAS* 69(2): 71–82
+- [R.A. Kern](./ra-kern.md) (1956). [The origin of the Malay surau](./the-origin-of-the-malay-surau.md). *JMBRAS* 29: 179–181
+- [Mubin Sheppard](./mubin-sheppard.md) (1994). [Malay woodcarving and the new pulpit in the National Mosque](./malay-woodcarving-and-the-new-pulpit-in-the-national-mosque.md). *JMBRAS* 67: 95–97
+
 ## References
 <!-- Grounded occurrences and citations -->

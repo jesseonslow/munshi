@@ -18,6 +18,7 @@ published: false
 
 ## MBRAS Sources
 
-- Patouillard, N. Some Singapore Boetinae. SB 78
+- [C.F. Baker](./cf-baker.md) and [N. Patouillard](./n-patouillard.md) (1918). [Some Singapore Boletinae](./some-singapore-boletinae.md). *JSBRAS* 78: 67–72
+
 ## References
 <!-- Grounded occurrences and citations -->

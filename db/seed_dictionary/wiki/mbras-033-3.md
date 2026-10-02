@@ -38,10 +38,10 @@ articles:
 **Date:** November 1960
 
 ## Table of Contents
-* [British Malaya, 1824–67. L.A. Mills. .M. Turnbull; and a new introductory chapter on European influence in the Malay Peninsula, 1511–1786, D.K. Bassett](./british-malaya-182467-la-mills-m-turnbull-and-a-new-introduc.md) — [D.K. Bassett](./dk-bassett.md), [L.A. Mills](./la-mills.md), [C.M. Turnbull](./cm-turnbull.md) (pp. 1–424)
+* [British Malaya, 1824–67. L.A. Mills. .M. Turnbull; and a new introductory chapter on European influence in the Malay Peninsula, 1511–1786, D.K. Bassett](./british-malaya-182467-la-mills-m-turnbull-and-a-new-introduc.md) — [D.K. Bassett](./dk-bassett.md), [L.A. Mills](./la-mills.md), [C.M. Turnbull](./constance-mary-turnbull.md) (pp. 1–424)
 
 ## Contributors
-* [C.M. Turnbull](./cm-turnbull.md)
+* [C.M. Turnbull](./constance-mary-turnbull.md)
 * [D.K. Bassett](./dk-bassett.md)
 * [L.A. Mills](./la-mills.md)
 

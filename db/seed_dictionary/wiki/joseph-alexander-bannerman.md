@@ -22,6 +22,7 @@ published: false
 <!-- Synthesis engine: Insert introductory synthesis for Joseph Alexander Bannerman here -->
 
 ## MBRAS Sources
+
 <!-- Seed entries or targeted retrieval for Joseph Alexander Bannerman -->
 
 ## References

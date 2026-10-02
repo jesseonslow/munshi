@@ -25,7 +25,8 @@ published: false
 
 ## MBRAS Sources
 
-- Winstedt, R.O. Lexicographical coincidences in Khasi and Malay. SB 77
-- Winstedt, R.O. Mother-right among Khasis and Malays. MB 10(1)
+- [R.O. Winstedt](./richard-olaf-winstedt.md) (1917). [Lexicographical coincidences in Khasi and Malay](./lexicographical-coincidences-in-khasi-and-malay.md). *JSBRAS* 77: 251–257
+- [R.O. Winstedt](./richard-olaf-winstedt.md) (1932). [Mother-right among Khasis and Malays](./mother-right-among-khasis-and-malays.md). *JMBRAS* 10: 9–13
+
 ## References
 <!-- Grounded occurrences and citations -->

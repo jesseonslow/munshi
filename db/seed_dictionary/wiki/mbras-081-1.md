@@ -103,9 +103,9 @@ articles:
 
 ## Table of Contents
 * [Agricultural history of Peninsular Malaysia: contributions from Indonesia](./agricultural-history-of-peninsular-malaysia-contributions-fr.md) — [K.T. Joseph](./kt-joseph.md)
-* [Abdullah and Siami](./abdullah-and-siami.md) — [J.S. Bastin](./js-bastin.md) (pp. 1–6)
+* [Abdullah and Siami](./abdullah-and-siami.md) — [J.S. Bastin](./john-bastin.md) (pp. 1–6)
 * [Boo’gok-boo’gok : the winged boat of the Sea Bajau in Sabah, Malaysia](./boogok-boogok-the-winged-boat-of-the-sea-bajau-in-sabah-mala.md) — [Ismail Ali](./ismail-ali.md), [J. Wong Kon Ling](./j-wong-kon-ling.md) (pp. 19–26)
-* [Imperial cosmopolitan Malaya: a study of Realist fiction in the Straits Chinese Magazine](./imperial-cosmopolitan-malaya-a-study-of-realist-fiction-in-t.md) — [N. Khor Jin Keong](./n-khor-jin-keong.md) (pp. 27–48)
+* [Imperial cosmopolitan Malaya: a study of Realist fiction in the Straits Chinese Magazine](./imperial-cosmopolitan-malaya-a-study-of-realist-fiction-in-t.md) — [N. Khor Jin Keong](./neil-khor-jin-keong.md) (pp. 27–48)
 * [‘A Malay poem on New Year’s Day (1848)’: Munshi Abdullah’s lyric carnival](./a-malay-poem-on-new-years-day-1848-munshi-abdullahs-lyric-ca.md) — [Raimy Ché-Ross](./raimy-ché-ross.md) (pp. 49–82)
 * [Economic recovery in the Selangor River valley in the late nineteenth century](./economic-recovery-in-the-selangor-river-valley-in-the-late-n.md) — [J.M. Gullick](./john-michael-gullick.md) (pp. 83–98)
 * *Other Malays: nationalism and cosmopolitanism in the modern Malay world. J.S. Kahn* — [Maznah Mohamed](./maznah-mohamed.md) (pp. 100–103) [Review]
@@ -115,10 +115,10 @@ articles:
 * [Ismail Ali](./ismail-ali.md)
 * [J. Wong Kon Ling](./j-wong-kon-ling.md)
 * [J.M. Gullick](./john-michael-gullick.md)
-* [J.S. Bastin](./js-bastin.md)
+* [J.S. Bastin](./john-bastin.md)
 * [K.T. Joseph](./kt-joseph.md)
 * [Maznah Mohamed](./maznah-mohamed.md)
-* [N. Khor Jin Keong](./n-khor-jin-keong.md)
+* [N. Khor Jin Keong](./neil-khor-jin-keong.md)
 * [Raimy Ché-Ross](./raimy-ché-ross.md)
 * [W. Jenkins](./w-jenkins.md)
 * [Zawiyah Baba](./zawiyah-baba.md)

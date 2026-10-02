@@ -18,11 +18,12 @@ published: false
 
 ## MBRAS Sources
 
-- Andreini, G.V. The gypsies of Sarawak. MB 2(1)
-- Arnold, G. Nomadic Penan of the upper Rejang (Pilerang). MB 31(1)
-- Harrisson, T. ‘Secret’ communication systems among Punan Busang of Sarawak. MB 38(2)
-- Needham, R. Penan and Punan. MB 27(1)
-- Needham, R. Punan Ba. MB 28(1)
+- [E.V. Andreini](./ev-andreini.md) (1924). [The gypsies of Sarawak (Punans](./the-gypsies-of-sarawak-punans.md). *JMBRAS* 2: 76–77
+- [G Arnold](./g-arnold.md) (1958). [Nomadic Penan of the Upper Rejang (Plieran), Sarawak](./nomadic-penan-of-the-upper-rejang-plieran-sarawak.md). *JMBRAS* 31: 40–82
+- [Tom Harrisson](./tom-harrisson.md) (1965). [Three “secret” communication systems among Borneo nomads (and their dogs](./three-secret-communication-systems-among-borneo-nomads-and-t.md). *JMBRAS* 38(2): 37–86
+- [R. Needham](./r-needham.md) (1954). [Batu Belah & Long Terawan: kinship terms & death names](./batu-belah-long-terawan-kinship-terms-death-names.md). *JMBRAS* 27: 215–217
+- [R. Needham](./r-needham.md) (1955). [Punan Ba](./punan-ba.md). *JMBRAS* 28: 24–36
 - Sellato, C. Nomads of the Borneo rain forest. MB 68(2) {R}
+
 ## References
 <!-- Grounded occurrences and citations -->

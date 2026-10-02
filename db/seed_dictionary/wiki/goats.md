@@ -20,7 +20,8 @@ published: false
 
 ## MBRAS Sources
 
-- Hanitsch, R. Serow from Annam. SB 78
-- Norman, H. Wild goat of Malay Peninsula. SB 45
+- [Hanitsch R](./hanitsch-r.md) (1918). [On a serow from Annam](./on-a-serow-from-annam.md). *JSBRAS* 78: 59–65
+- [H. Norman](./h-norman.md) and [H.N. Ridley](./henry-nicholas-ridley.md) (1906). [Note on the wild goat of the Malay Peninsula](./note-on-the-wild-goat-of-the-malay-peninsula.md). *JSBRAS* 45: 279
+
 ## References
 <!-- Grounded occurrences and citations -->

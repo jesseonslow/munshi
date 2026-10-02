@@ -165,7 +165,7 @@ articles:
 **Date:** December 1999
 
 ## Table of Contents
-* [Foreword (J.M. Gullick Festschrift](./foreword-jm-gullick-festschrift.md) — [H.S. Barlow](./hs-barlow.md) (pp. 1)
+* [Foreword (J.M. Gullick Festschrift](./foreword-jm-gullick-festschrift.md) — [H.S. Barlow](./henry-sackville-barlow.md) (pp. 1)
 * [History, literature and social change: Harun Aminurrashid’s independence novel Panglima Awang](./history-literature-and-social-change-harun-aminurrashids-ind.md) — [V.M. Hooker](./vm-hooker.md) (pp. 5–16)
 * [Developments relevant to Malayan agriculture in the post-rubber crisis era (1920–1921](./developments-relevant-to-malayan-agriculture-in-the-post-rub.md) — [Khoo Kay Kim](./khoo-kay-kim.md) (pp. 17–47)
 * [The romance of Tok Janggut: a Kelantan folk hero](./the-romance-of-tok-janggut-a-kelantan-folk-hero.md) — [W. Cheah](./w-cheah.md), [Cheu Hock Tong](./cheu-hock-tong.md) (pp. 49–64)
@@ -186,7 +186,7 @@ articles:
 * [Chia Oai Peng](./chia-oai-peng.md)
 * [D. Carroll](./d-carroll.md)
 * [E. Chew](./e-chew.md)
-* [H.S. Barlow](./hs-barlow.md)
+* [H.S. Barlow](./henry-sackville-barlow.md)
 * [J.M. Gullick](./john-michael-gullick.md)
 * [Khasnor Johan](./khasnor-johan.md)
 * [Khoo Boo Teik](./khoo-boo-teik.md)

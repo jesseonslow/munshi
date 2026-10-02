@@ -30,17 +30,19 @@ published: false
 
 ## MBRAS Sources
 
-- Gullick, J.M. Kuala Lumpur’s builders. MB 85(2)
+- [J.M. Gullick](./john-michael-gullick.md) (2012). [The builders](./the-builders.md). *JMBRAS* 85(2): 79–98
 - Ibbotson, R. The North Borneo railway and the founding of Jesselton. MB 93(1) {R}
 - Kamalruddin Shamsudin. Charles Reade: Town Planning. MB 95(1) {R}
-- Lee Boon Thong. Petaling Jaya: the first new town. MB 79(2)
+- [Lee Boon Thong](./lee-boon-thong.md) (2006). [Petaling Jaya: The early development and growth of Malaysia’s first New Town](./petaling-jaya-the-early-development-and-growth-of-malaysias-.md). *JMBRAS* 79(2): 1–22
 - Mohamed Abdul Mohit. Repeal of Rent Control Act — effect on Penang shophouses. MB
 - 79(1)
 - Noordin Hussin. Dutch Melaka and English Penang. MB 75(2)
-- Tjoa-Bonatz, Mai Lin. Shophouses in colonial Penang. MB 71(2) and Reprint 33
-- Tjoa-Bonatz, Mai Lin. Penang’s historic city centre and the repeal of the Rent Control Act. MB 73(2)
-- Weebers, R. Development of Tanah Rata and Cameron Highlands, 1925–2030. MB 90(1)
+- [Mai Lin Tjoa-Bonatz](./mai-lin-tjoa-bonatz.md) (1998). [Ordering of housing and the urbanization process: shophouses in colonial Penang](./ordering-of-housing-and-the-urbanization-process-shophouses-.md). *JMBRAS* 71(2): 123–136
+- Anon (2015). [Glimpses of Penang's Past](./glimpses-of-penangs-past.md). ** : 325
+- [Mai Lin Tjoa-Bonatz](./mai-lin-tjoa-bonatz.md) (2000). [Penang’s historic city centre before the repeal of the Rent (Control) Act](./penangs-historic-city-centre-before-the-repeal-of-the-rent-c.md). *JMBRAS* 73(2): 53–69
+- [R. Weebers](./r-weebers.md) (2017). [Tanah Rata and the development of the Cameron Highlands, 1925–2030](./tanah-rata-and-the-development-of-the-cameron-highlands-1925.md). *JMBRAS* 90: 101–111
 - Wheatley, P. Origins of East Asian urban traditions. MB 58(1) {R}
 - Yeoh, B.S.A. Allocation of space in colonial Singapore. MB 71(1) and 71(2) {R}
+
 ## References
 <!-- Grounded occurrences and citations -->

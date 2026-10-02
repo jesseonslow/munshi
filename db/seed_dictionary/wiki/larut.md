@@ -18,6 +18,7 @@ published: false
 
 ## MBRAS Sources
 
-- Shelford, R.H. Notes from the Sarawak Museum. SB 33
+- [R.S. Shelford](./rs-shelford.md) (1901). [Notes from the Sarawak Museum](./notes-from-the-sarawak-museum.md). *JSBRAS* 35: 69–71
+
 ## References
 <!-- Grounded occurrences and citations -->

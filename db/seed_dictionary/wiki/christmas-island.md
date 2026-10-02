@@ -21,8 +21,9 @@ published: false
 
 ## MBRAS Sources
 
-- Gibson-Hill, C.A. Early history of Christmas Island. MB 22(1)
-- Gibson-Hill, C.A. A landing at Christmas Island in 1864. MB 27(1)
-- Ridley, H.N. Visits to Christmas Island. SB 23, 45 and 48
+- [C.A. Gibson-Hill](./carl-alexander-gibson-hill.md) (1949). [The early history of Christmas Island (Indian Ocean](./the-early-history-of-christmas-island-indian-ocean.md). *JMBRAS* 22: 67–93
+- [C.A. Gibson-Hill](./carl-alexander-gibson-hill.md) (1954). [A landing on Christmas Island in 1864](./a-landing-on-christmas-island-in-1864.md). *JMBRAS* 27: 217–220
+- [H.N. Ridley](./henry-nicholas-ridley.md) (1906). [An expedition to Christmas Island](./an-expedition-to-christmas-island.md). *JSBRAS* 45: 137–155
+
 ## References
 <!-- Grounded occurrences and citations -->

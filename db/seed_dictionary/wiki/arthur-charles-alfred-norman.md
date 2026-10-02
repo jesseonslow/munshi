@@ -21,6 +21,7 @@ published: false
 <!-- Synthesis engine: Insert introductory synthesis for Arthur Charles Alfred Norman here -->
 
 ## MBRAS Sources
+
 <!-- Seed entries or targeted retrieval for Arthur Charles Alfred Norman -->
 
 ## References

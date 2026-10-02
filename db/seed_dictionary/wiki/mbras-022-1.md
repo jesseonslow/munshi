@@ -189,7 +189,7 @@ articles:
 ## Table of Contents
 * [Notes on ancient times in Malaya. {Parts 4 & 5](./notes-on-ancient-times-in-malaya-parts-4-5.md) — [R. Braddell](./r-braddell.md) (pp. 1–14)
 * [Takuapa and its Tamil inscription](./takuapa-and-its-tamil-inscription.md) — [K.A. Nilakanta Sastri](./ka-nilakanta-sastri.md) (pp. 25–30)
-* [Dusun customary law](./dusun-customary-law.md) — [I.H.N. Evans](./ihn-evans.md) (pp. 31–37)
+* [Dusun customary law](./dusun-customary-law.md) — [I.H.N. Evans](./ivor-hugh-norman-evans.md) (pp. 31–37)
 * [Raffles and the massacre at Palembang](./raffles-and-the-massacre-at-palembang.md) — [C.E. Wurtzburg](./ce-wurtzburg.md) (pp. 38–52)
 * [A Panji tale from Kelantan](./a-panji-tale-from-kelantan.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 53–60)
 * [The early history of Christmas Island (Indian Ocean](./the-early-history-of-christmas-island-indian-ocean.md) — [C.A. Gibson-Hill](./carl-alexander-gibson-hill.md) (pp. 67–93)
@@ -212,7 +212,7 @@ articles:
 * [C.E. Wurtzburg](./ce-wurtzburg.md)
 * [E.N. Taylor](./en-taylor.md)
 * [F.H. Fitch](./fh-fitch.md)
-* [I.H.N. Evans](./ihn-evans.md)
+* [I.H.N. Evans](./ivor-hugh-norman-evans.md)
 * [J.A.E. Morley](./jae-morley.md)
 * [J.B. Scrivenor](./jb-scrivenor.md)
 * [K.A. Nilakanta Sastri](./ka-nilakanta-sastri.md)

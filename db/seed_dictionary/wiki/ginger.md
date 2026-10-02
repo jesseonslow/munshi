@@ -18,8 +18,9 @@ published: false
 
 ## MBRAS Sources
 
-- Ridley, H.N. Scitamineae of Malaya. SB 32
-- Ridley, H.N. New eastern gingers. SB 34
-- Ridley, H.N. Scitamineae of Borneo. SB 46
+- [H.N. Ridley](./henry-nicholas-ridley.md) (1899). [The Scitamineae of the Malay Peninsula](./the-scitamineae-of-the-malay-peninsula.md). *JSBRAS* 32: 85–184
+- [H.N. Ridley](./henry-nicholas-ridley.md) (1900). [Some new eastern gingers](./some-new-eastern-gingers.md). *JSBRAS* 34: 97–99
+- [H.N. Ridley](./henry-nicholas-ridley.md) (1906). [Scitamineae of Borneo](./scitamineae-of-borneo.md). *JSBRAS* 46: 229–246
+
 ## References
 <!-- Grounded occurrences and citations -->
