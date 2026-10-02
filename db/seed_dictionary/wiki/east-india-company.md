@@ -34,6 +34,5 @@ published: false
 - Morel, R.S. Royal correspondence in Asia, 1600–1858. MB 90(1)
 - Smith, F.A. The Ross Brothers. MB 96(2)
 - Tan Soo-Chye. The Straits Settlements records. MB 22(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

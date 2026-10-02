@@ -98,16 +98,16 @@ articles:
 
 ## Table of Contents
 * [A sea fight near Singapore in the 1570’s](./a-sea-fight-near-singapore-in-the-1570s.md) — [I.A. MacGregor](./ia-macgregor.md) (pp. 5–21)
-* [The maritime laws of Malacca. ed R. Winstedt and P.E. de Josselin de Jong](./the-maritime-laws-of-malacca-ed-r-winstedt-and-pe-de-josseli.md) — [P.E. de Josselin de Jong](./pe-de-josselin-de-jong.md), [R.O. Winstedt](./ro-winstedt.md) (pp. 22–59)
+* [The maritime laws of Malacca. ed R. Winstedt and P.E. de Josselin de Jong](./the-maritime-laws-of-malacca-ed-r-winstedt-and-pe-de-josseli.md) — [P.E. de Josselin de Jong](./pe-de-josselin-de-jong.md), [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 22–59)
 * [The Malay composition of a village in Johore](./the-malay-composition-of-a-village-in-johore.md) — [K.O.L. Burridge](./kol-burridge.md) (pp. 60–77)
 * [The distribution of stone bark-cloth beaters in prehistoric times](./the-distribution-of-stone-bark-cloth-beaters-in-prehistoric-.md) — [G. de G. Sieveking](./g-de-g-sieveking.md) (pp. 78–85)
 * [Governor Couperus and the surrender of Malacca, 1795](./governor-couperus-and-the-surrender-of-malacca-1795.md) — [G. Irwin](./g-irwin.md) (pp. 86–133)
 * [The basic Malay house](./the-basic-malay-house.md) — [R.N. Hilton](./rn-hilton.md) (pp. 134–155)
-* [The fortification of Bukit China, Malacca](./the-fortification-of-bukit-china-malacca.md) — [C.A. Gibson-Hill](./ca-gibson-hill.md) (pp. 156–181)
+* [The fortification of Bukit China, Malacca](./the-fortification-of-bukit-china-malacca.md) — [C.A. Gibson-Hill](./carl-alexander-gibson-hill.md) (pp. 156–181)
 * [Pre-Islamic Arabia and South-East Asia](./pre-islamic-arabia-and-south-east-asia.md) — [G.R. Tibbetts](./gr-tibbetts.md) (pp. 182–208)
 
 ## Contributors
-* [C.A. Gibson-Hill](./ca-gibson-hill.md)
+* [C.A. Gibson-Hill](./carl-alexander-gibson-hill.md)
 * [G. de G. Sieveking](./g-de-g-sieveking.md)
 * [G. Irwin](./g-irwin.md)
 * [G.R. Tibbetts](./gr-tibbetts.md)
@@ -115,7 +115,7 @@ articles:
 * [K.O.L. Burridge](./kol-burridge.md)
 * [P.E. de Josselin de Jong](./pe-de-josselin-de-jong.md)
 * [R.N. Hilton](./rn-hilton.md)
-* [R.O. Winstedt](./ro-winstedt.md)
+* [R.O. Winstedt](./richard-olaf-winstedt.md)
 
 ## References
 <!-- Grounded occurrences and citations -->

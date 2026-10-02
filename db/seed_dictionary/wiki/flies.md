@@ -22,6 +22,5 @@ published: false
 ## MBRAS Sources
 
 - Girault, A.A. New Chalcid parasites in Malaya. MB 80
-
 ## References
 <!-- Grounded occurrences and citations -->

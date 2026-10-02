@@ -23,6 +23,5 @@ published: false
 - Maxwell, W.G. Cameron’s Highlands. MB 4(1)
 - Scrivenor, J.B. Cameron’s Highlands and Fraser’s Hill. MB 9(1)
 - Weebers, R. Rise of Tanah Rata and Cameron Highlands, 1925–2030. MB 90(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

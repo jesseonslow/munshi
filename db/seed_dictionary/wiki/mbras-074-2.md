@@ -76,13 +76,13 @@ articles:
 ## Table of Contents
 * [Malay and Cham relations with the kingdom of Cambodia during and after the French protectorate (1863–2000](./malay-and-cham-relations-with-the-kingdom-of-cambodia-during.md) — [Mohamed Zain bin Musa](./mohamed-zain-bin-musa.md) (pp. 1–21)
 * [The Silsilah Raja-Raja Perak, a historical and literary investigation into the political significance of a Malay court genealogy](./the-silsilah-raja-raja-perak-a-historical-and-literary-inves.md) — [A. Ceridwen](./a-ceridwen.md) (pp. 23–129)
-* *A history of Malaysia, 2nd edn* — [J.M. Gullick](./jm-gullick.md), [L.Y. Andaya](./ly-andaya.md) (pp. 131–134) [Review]
+* *A history of Malaysia, 2nd edn* — [J.M. Gullick](./john-michael-gullick.md), [L.Y. Andaya](./ly-andaya.md) (pp. 131–134) [Review]
 * *Absent history: the untold story of special branch operations in Singapore 1915–42. Ban Kah Choon* — [Yeo Kim Wah](./yeo-kim-wah.md) (pp. 135–139) [Review]
 * *Generation: a collection of contemporary Malaysia ideas. Amir Muhammad, Kam Raslan and S. Stothard* — [Raimy Ché-Ross](./raimy-ché-ross.md) (pp. 139–141) [Review]
 
 ## Contributors
 * [A. Ceridwen](./a-ceridwen.md)
-* [J.M. Gullick](./jm-gullick.md)
+* [J.M. Gullick](./john-michael-gullick.md)
 * [L.Y. Andaya](./ly-andaya.md)
 * [Mohamed Zain bin Musa](./mohamed-zain-bin-musa.md)
 * [Raimy Ché-Ross](./raimy-ché-ross.md)

@@ -19,6 +19,5 @@ published: false
 ## MBRAS Sources
 
 - Fredericks, L.J. The cooperative movement in colonial Malaya. MB 46(2)
-
 ## References
 <!-- Grounded occurrences and citations -->

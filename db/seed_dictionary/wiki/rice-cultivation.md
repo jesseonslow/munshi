@@ -36,6 +36,5 @@ published: false
 - Muhammad Ja’afar. Cultivation of rice at Malacca, trans. C.O. Blagden. SB 30
 - Short, D.E. Origins of irrigation. MB 44(1)
 - Wray, L. Report on the padi borer. SB 19
-
 ## References
 <!-- Grounded occurrences and citations -->

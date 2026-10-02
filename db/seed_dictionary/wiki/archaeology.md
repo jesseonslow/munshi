@@ -74,7 +74,7 @@ published: false
 <!-- Synthesis engine: Insert sumatra details here -->
 
 ## MBRAS Sources
-<!-- Seed entries or targeted retrieval for Archaeology -->
+
 ### Borneo
 
 - Braddell,R. Sambas and Borneo. MB 22(4)
@@ -121,7 +121,6 @@ published: false
 - Perret, D. Aceh _warisan daerah_ Johor. MB 74(1) {R}
 - Piriya Krairiksh. Makara balustrade at Malacca. MB 47(1)
 - Raimy Ché-Ross. Lost city of Kota Gelanggi: textual evidence and aerial photography. MB
-77(2)
 - Solheim, W.G. Comments on Nik Hassan’s article in MB 80(1). MB 80(2)
 - Sullivan, M. Excavations in Kedah and Province Wellesley (1958). MB 31(1)
 - Treloar, F.E. Priest’s bell and temple lamp from Kedah. MB 52(2)
@@ -161,6 +160,5 @@ published: false
 - Gold ‘tali’ from Kota Cina. MB 53(2)
 - Manning, A. Gold artefacts from Kota Cina site: analysis. MB 53(2)
 - Tjoa-Bonatz, M.L. Settlement history of West Sumatra. MB 93(1) {R}
-
 ## References
 <!-- Grounded occurrences and citations -->

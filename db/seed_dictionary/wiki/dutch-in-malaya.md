@@ -46,6 +46,5 @@ published: false
 - Merewether, E.M. History of the Dindings. SB 23
 - Schippers, J. Two Dutch governors’ reports on 18th century Malacca. Trans. B. Harrison. MB 27(1)
 - Valentijn, F. Valentyn’s account of Malacca. SB 13, 15, 16, 22
-
 ## References
 <!-- Grounded occurrences and citations -->

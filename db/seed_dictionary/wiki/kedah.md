@@ -84,7 +84,7 @@ published: false
 <!-- Synthesis engine: Insert history details here -->
 
 ## MBRAS Sources
-<!-- Seed entries or targeted retrieval for Kedah -->
+
 ### Antiquities
 
 - Foong See-ton. Survey of Kuala Muda area in 1956. MB 32(1)
@@ -134,6 +134,5 @@ published: false
 - Winstedt, R.O. Notes on Malay subjects: Kulanggi/Gulanggi. MB 20(1)
 - Wu Xiao An. Sino-Malay trade relations in Penang, Kedah and N Sumatra. MB 70(2) and Reprint 33
 - Wu Xiao An. Chinese business in Kedah 1882–1914. MB 76(2) {R} and 85(1) {R}
-
 ## References
 <!-- Grounded occurrences and citations -->

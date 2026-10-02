@@ -19,6 +19,5 @@ published: false
 ## MBRAS Sources
 
 - Huang Jianli. Three portraits of a Singapore entrepreneur. MB 82(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

@@ -171,7 +171,7 @@ articles:
 * [The first Sultan of Sarawak and his links to Brunei and the Sambas dynasty, 1599–1826](./the-first-sultan-of-sarawak-and-his-links-to-brunei-and-the-.md) — [I. Larsen](./i-larsen.md) (pp. 1–16)
 * [In Alfred Russel Wallace’s shadow: his forgotten assistant: Charles Allen (1839–1892](./in-alfred-russel-wallaces-shadow-his-forgotten-assistant-cha.md) — [L.C. Rookmaaker](./lc-rookmaaker.md), [John van Wyhe](./john-van-wyhe.md) (pp. 17–54)
 * [Ming China’s support for Sultan Mahmud of Melaka and its hostility towards the Portuguese after the fall of Melaka in 1511](./ming-chinas-support-for-sultan-mahmud-of-melaka-and-its-host.md) — [W. Cheah](./w-cheah.md) (pp. 55–77)
-* [The builders](./the-builders.md) — [J.M. Gullick](./jm-gullick.md) (pp. 79–98)
+* [The builders](./the-builders.md) — [J.M. Gullick](./john-michael-gullick.md) (pp. 79–98)
 * [On going into the field](./on-going-into-the-field.md) — [W.R. Roff](./wr-roff.md) (pp. 103–109)
 * *Brunei: traditions of monarchic culture and history: R.H. Hickling’s memorandum upon the Brunei constitutional history and practice. Brunei Historical Documents Series I, introduced and annotated by B.A. Hussainmiya and N. Tarling* — [Kobkua Suwannathat-Pian](./kobkua-suwannathat-pian.md) (pp. 109–111) [Review]
 * *The ambiguous allure of the West: traces of the colonial in Thailand. .V* — [Thanet Aphornsuvan](./thanet-aphornsuvan.md), [Brian Harrison](./brian-harrison.md), [P.A. Jackson](./pa-jackson.md) (pp. 111–114) [Review]
@@ -189,7 +189,7 @@ articles:
 * [C.A. Coppel](./ca-coppel.md)
 * [Chalong Soontravanich](./chalong-soontravanich.md)
 * [I. Larsen](./i-larsen.md)
-* [J.M. Gullick](./jm-gullick.md)
+* [J.M. Gullick](./john-michael-gullick.md)
 * [John van Wyhe](./john-van-wyhe.md)
 * [K. Blackburn](./k-blackburn.md)
 * [K. Hack](./k-hack.md)

@@ -39,6 +39,5 @@ published: false
 - Shelford, R. A list of the reptiles of Borneo. SB 35 and 38
 - Smedley, N. Reptiles and amphibian of the Anamba Islands. MB 6(3)
 - Smith, M.A. Reptiles and amphibian of the Mentawi island. MB 4(2)
-
 ## References
 <!-- Grounded occurrences and citations -->

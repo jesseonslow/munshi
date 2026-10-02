@@ -10,8 +10,8 @@ nominal_month: December
 nominal_year: 1969
 articles_count: 14
 contributors:
-- id: ajs-reid
-  name: A.J.S. Reid
+- id: anthony-reid
+  name: Anthony Reid
 - id: be-colless
   name: B.E. Colless
 - id: cheng-siok-hwa
@@ -71,7 +71,7 @@ articles:
   title: 'Indonesian diplomacy: a documentary study of Atjehnese foreign policy in
     the reign of Sultan Mahmud, 1870–1874'
   authors:
-  - A.J.S. Reid
+  - Anthony Reid
   pages: 74–114
   is_review: false
 - id: jmbras-42-2-p115
@@ -157,7 +157,7 @@ articles:
 * [Traditional Malay house forms in Trengganu and Kelantan](./traditional-malay-house-forms-in-trengganu-and-kelantan.md) — [Mubin Sheppard](./mubin-sheppard.md) (pp. 1–9)
 * [Persian merchants and missionaries in medieval Malaya](./persian-merchants-and-missionaries-in-medieval-malaya.md) — [B.E. Colless](./be-colless.md) (pp. 10–47)
 * [Early Singapore and the inception of a British administrative tradition in the Straits Settlements (1819–32](./early-singapore-and-the-inception-of-a-british-administrativ.md) — [J. Kathirithamby– Wells](./j-kathirithamby-wells.md) (pp. 48–73)
-* [Indonesian diplomacy: a documentary study of Atjehnese foreign policy in the reign of Sultan Mahmud, 1870–1874](./indonesian-diplomacy-a-documentary-study-of-atjehnese-foreig.md) — [A.J.S. Reid](./ajs-reid.md) (pp. 74–114)
+* [Indonesian diplomacy: a documentary study of Atjehnese foreign policy in the reign of Sultan Mahmud, 1870–1874](./indonesian-diplomacy-a-documentary-study-of-atjehnese-foreig.md) — [Anthony Reid](./anthony-reid.md) (pp. 74–114)
 * [John Waterstradt, 1869–1944](./john-waterstradt-18691944.md) — [H.S. Barlow](./hs-barlow.md) (pp. 115–129)
 * [The rice industry of Malaya: a historical survey](./the-rice-industry-of-malaya-a-historical-survey.md) — [Cheng Siok-hwa](./cheng-siok-hwa.md) (pp. 130–144)
 * [A re-analysis of Negeri Sembilan socio-political organization](./a-re-analysis-of-negeri-sembilan-socio-political-organizatio.md) — [M.L.C. Labi](./mlc-labi.md) (pp. 145–54)
@@ -170,7 +170,7 @@ articles:
 * [The voyages and adventures of Fernand Mendez Pinto. . Cogan. {Book announcement J. Bastin](./the-voyages-and-adventures-of-fernand-mendez-pinto-cogan-boo.md) — [J.S. Bastin](./js-bastin.md), [H. Cogan](./h-cogan.md) (pp. 234)
 
 ## Contributors
-* [A.J.S. Reid](./ajs-reid.md)
+* [Anthony Reid](./anthony-reid.md)
 * [B.E. Colless](./be-colless.md)
 * [Cheng Siok-hwa](./cheng-siok-hwa.md)
 * [G.N. Appell](./gn-appell.md)

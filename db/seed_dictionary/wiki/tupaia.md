@@ -19,6 +19,5 @@ published: false
 ## MBRAS Sources
 
 - Ridley, H.N. Tupaia – habits. SB 23 and 45
-
 ## References
 <!-- Grounded occurrences and citations -->

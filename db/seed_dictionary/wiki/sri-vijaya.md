@@ -33,6 +33,5 @@ published: false
 - Winstedt, R.O. The Ligor inscription. MB 22(1)
 - Wales, H.G.Q. Srivijaja’s influence abroad. MB 51(1)
 - Wolters, O.W. Studying Srivijaya. MB 52(2)
-
 ## References
 <!-- Grounded occurrences and citations -->

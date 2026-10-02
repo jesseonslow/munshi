@@ -235,25 +235,25 @@ articles:
 * [Early days in Penang](./early-days-in-penang.md) — [K. Garnier](./k-garnier.md) (pp. 5–12)
 * [A new spider of the genus Liphistius](./a-new-spider-of-the-genus-liphistius.md) — [H.C. Abraham](./hc-abraham.md) (pp. 13–21)
 * [New or noteworthy Bornean plants](./new-or-noteworthy-bornean-plants.md) — [E.D. Merrill](./ed-merrill.md) (pp. 22–45)
-* [A botanical excursion to Northern Sumatra](./a-botanical-excursion-to-northern-sumatra.md) — [H.N. Ridley](./hn-ridley.md) (pp. 46–113)
+* [A botanical excursion to Northern Sumatra](./a-botanical-excursion-to-northern-sumatra.md) — [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 46–113)
 * [A record of the occurrence of some ferns in northern Sumatra, being additions to Mr. Ridley’s list](./a-record-of-the-occurrence-of-some-ferns-in-northern-sumatra.md) — [I.H. Burkill](./ih-burkill.md) (pp. 114–115)
 * [On Malaysian katydids (Gryllacidae and Tettigoniidiae) from the Raffles Museum, Singapore](./on-malaysian-katydids-gryllacidae-and-tettigoniidiae-from-th.md) — [H.H. Karny](./hh-karny.md) (pp. 116–193)
 * [Observations upon some coins obtained in Malaya and particularly from Trengganu, Kelantan and southern Siam](./observations-upon-some-coins-obtained-in-malaya-and-particul.md) — [J.A.S. Bucknill](./jas-bucknill.md) (pp. 194–217)
 * [Notes on Dipterocarps. {No. 9} On the differences in the seedlings between Balanocarpus maximus, King, and B. heimii, King](./notes-on-dipterocarps-no-9-on-the-differences-in-the-seedlin.md) — [I.H. Burkill](./ih-burkill.md) (pp. 218–222)
 * [The teaching of Malay at the School of Oriental Studies, London](./the-teaching-of-malay-at-the-school-of-oriental-studies-lond.md) — [C.O. Blagden](./co-blagden.md) (pp. 223–230)
 * [On a new and interesting dragonfly (Odonata) from Gunong Tahan](./on-a-new-and-interesting-dragonfly-odonata-from-gunong-tahan.md) — [F.F. Laidlaw](./ff-laidlaw.md) (pp. 231–232)
-* [Some Pierine butterflies new to Malaysia](./some-pierine-butterflies-new-to-malaysia.md) — [J.C. Moulton](./jc-moulton.md) (pp. 233–236)
+* [Some Pierine butterflies new to Malaysia](./some-pierine-butterflies-new-to-malaysia.md) — [J.C. Moulton](./john-coney-moulton.md) (pp. 233–236)
 * [On the heel-pad in certain Malaysian birds](./on-the-heel-pad-in-certain-malaysian-birds.md) — [F.N. Chasen](./fn-chasen.md) (pp. 237–246)
 * [Two Malay methods of divination](./two-malay-methods-of-divination.md) — [I.H.N. Evans](./ihn-evans.md) (pp. 247)
 * [On the persistence of an old type of water-vessel](./on-the-persistence-of-an-old-type-of-water-vessel.md) — [I.H.N. Evans](./ihn-evans.md) (pp. 248–250)
 * [Chinese loan-words in Malay](./chinese-loan-words-in-malay.md) — [Hamilton A.W](./hamilton-aw.md) (pp. 250)
-* [A Brunei code](./a-brunei-code.md) — [R.O. Winstedt](./ro-winstedt.md) (pp. 251)
-* [Was Johore once named Langkasuka?](./was-johore-once-named-langkasuka.md) — [R.O. Winstedt](./ro-winstedt.md) (pp. 253)
+* [A Brunei code](./a-brunei-code.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 251)
+* [Was Johore once named Langkasuka?](./was-johore-once-named-langkasuka.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 253)
 * [Arctic amok](./arctic-amok.md) — [C.B. Kloss](./cb-kloss.md) (pp. 254)
 * [A rare petrel](./a-rare-petrel.md) — [F.N. Chasen](./fn-chasen.md) (pp. 255–256)
 * [A large orang-utan](./a-large-orang-utan.md) — [F.N. Chasen](./fn-chasen.md) (pp. 257–259)
 * [Early stages of a Danaine butterfly](./early-stages-of-a-danaine-butterfly.md) — [C.J. Brooks](./cj-brooks.md) (pp. 260–261)
-* *Malay poisons and charm cures. J.D. Gimlette. 2nd edn* — [R.O. Winstedt](./ro-winstedt.md) (pp. 264–265) [Review]
+* *Malay poisons and charm cures. J.D. Gimlette. 2nd edn* — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 264–265) [Review]
 * *British North Borneo: an account of its history, resources and native tribes. O. Rutter* — [C.F.C. McCausland](./cfc-mccausland.md) (pp. 265–266) [Review]
 
 ## Contributors
@@ -267,14 +267,14 @@ articles:
 * [F.N. Chasen](./fn-chasen.md)
 * [H.C. Abraham](./hc-abraham.md)
 * [H.H. Karny](./hh-karny.md)
-* [H.N. Ridley](./hn-ridley.md)
+* [H.N. Ridley](./henry-nicholas-ridley.md)
 * [Hamilton A.W](./hamilton-aw.md)
 * [I.H. Burkill](./ih-burkill.md)
 * [I.H.N. Evans](./ihn-evans.md)
 * [J.A.S. Bucknill](./jas-bucknill.md)
-* [J.C. Moulton](./jc-moulton.md)
+* [J.C. Moulton](./john-coney-moulton.md)
 * [K. Garnier](./k-garnier.md)
-* [R.O. Winstedt](./ro-winstedt.md)
+* [R.O. Winstedt](./richard-olaf-winstedt.md)
 
 ## References
 <!-- Grounded occurrences and citations -->

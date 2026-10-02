@@ -26,6 +26,5 @@ published: false
 ## MBRAS Sources
 
 - Gullick, J.M. Heathen philosopher? MB 26(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

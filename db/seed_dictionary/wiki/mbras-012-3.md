@@ -45,12 +45,12 @@ articles:
 **Date:** October 1934
 
 ## Table of Contents
-* [A history of Selangor](./a-history-of-selangor.md) — [R.O. Winstedt](./ro-winstedt.md) (pp. 1–34, 112–114)
-* [Negri Sembilan: the history, polity and beliefs of the nine states](./negri-sembilan-the-history-polity-and-beliefs-of-the-nine-st.md) — [R.O. Winstedt](./ro-winstedt.md) (pp. 35–111)
-* [To’ Engku Klang. {Appendix of his History of Selangor](./to-engku-klang-appendix-of-his-history-of-selangor.md) — [R.O. Winstedt](./ro-winstedt.md) (pp. 112–113)
+* [A history of Selangor](./a-history-of-selangor.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 1–34, 112–114)
+* [Negri Sembilan: the history, polity and beliefs of the nine states](./negri-sembilan-the-history-polity-and-beliefs-of-the-nine-st.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 35–111)
+* [To’ Engku Klang. {Appendix of his History of Selangor](./to-engku-klang-appendix-of-his-history-of-selangor.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 112–113)
 
 ## Contributors
-* [R.O. Winstedt](./ro-winstedt.md)
+* [R.O. Winstedt](./richard-olaf-winstedt.md)
 
 ## References
 <!-- Grounded occurrences and citations -->

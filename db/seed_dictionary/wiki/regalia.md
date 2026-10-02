@@ -31,6 +31,5 @@ published: false
 - Maxwell, W.G. Notes and queries (Perak regalia). SB 49
 - To Muda Orang Kaya Besar. The Pancha Persada. MB 24(3)
 - Winstedt, R.O. Tokin. MB 9(1) and 10(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

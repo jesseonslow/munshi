@@ -47,9 +47,6 @@ published: false
 - Tan Liok Ee. Politics of Chinese education (1945–61). MB 72(2) {R}
 - Teoh, K.M. Chinese female education in Malaya and Singapore, 1850s–1960s. MB 93(1) {R}
 - Tregonning, K.G. Tertiary education in Malaya (1905–62). MB 63(1)
-
 ### Colleges and universities
-<!-- Seed entries or targeted retrieval for Education: Colleges and universities -->
-
 ## References
 <!-- Grounded occurrences and citations -->

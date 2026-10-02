@@ -115,21 +115,21 @@ articles:
 
 ## Table of Contents
 * [Inscriptions in St. Paul’s Church, Malacca](./inscriptions-in-st-pauls-church-malacca.md) — [E.M. Merewether](./em-merewether.md) (pp. 1–21)
-* [A botanical excursion to Gunong Jerai (Kedah Peak](./a-botanical-excursion-to-gunong-jerai-kedah-peak.md) — [H.N. Ridley](./hn-ridley.md) (pp. 23–30)
-* [On the use of the slow loris in Malay medicine](./on-the-use-of-the-slow-loris-in-malay-medicine.md) — [H.N. Ridley](./hn-ridley.md) (pp. 31–34)
+* [A botanical excursion to Gunong Jerai (Kedah Peak](./a-botanical-excursion-to-gunong-jerai-kedah-peak.md) — [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 23–30)
+* [On the use of the slow loris in Malay medicine](./on-the-use-of-the-slow-loris-in-malay-medicine.md) — [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 31–34)
 * *Negritos. A.B. Meyer* — [R.N. Bland](./rn-bland.md) (pp. 35–38) [Review]
 * [A list of Brunei-Malay words](./a-list-of-brunei-malay-words.md) — [Haynes A.S](./haynes-as.md) (pp. 39–48)
 * [An expedition to Mount Kina Balu, British North Borneo](./an-expedition-to-mount-kina-balu-british-north-borneo.md) — [Hanitsch R](./hanitsch-r.md) (pp. 49–88)
-* [Dammar and wood oil](./dammar-and-wood-oil.md) — [H.N. Ridley](./hn-ridley.md) (pp. 89–94)
+* [Dammar and wood oil](./dammar-and-wood-oil.md) — [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 89–94)
 * [Notes on the flying frog Rhacophorus nigropalmatus](./notes-on-the-flying-frog-rhacophorus-nigropalmatus.md) — [Hanitsch R](./hanitsch-r.md) (pp. 96–97)
-* [Some new eastern gingers](./some-new-eastern-gingers.md) — [H.N. Ridley](./hn-ridley.md) (pp. 97–99)
-* [The birds of the Larut Hills](./the-birds-of-the-larut-hills.md) — [A.L. Butler](./al-butler.md), [H.N. Ridley](./hn-ridley.md) (pp. 99)
+* [Some new eastern gingers](./some-new-eastern-gingers.md) — [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 97–99)
+* [The birds of the Larut Hills](./the-birds-of-the-larut-hills.md) — [A.L. Butler](./al-butler.md), [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 99)
 * [A Pulau Tiuman superstition](./a-pulau-tiuman-superstition.md) — [W. Cameron](./w-cameron.md) (pp. 101)
 
 ## Contributors
 * [A.L. Butler](./al-butler.md)
 * [E.M. Merewether](./em-merewether.md)
-* [H.N. Ridley](./hn-ridley.md)
+* [H.N. Ridley](./henry-nicholas-ridley.md)
 * [Hanitsch R](./hanitsch-r.md)
 * [Haynes A.S](./haynes-as.md)
 * [R.N. Bland](./rn-bland.md)

@@ -23,6 +23,5 @@ published: false
 - Kloss, C.B. Bornean badgers (_Mydaus_). MB 5(2)
 - Moulton, J.C. Malayan badger (_teledu_) in Borneo. SB 83
 - Moulton, J.C. Malayan badger. SB 85
-
 ## References
 <!-- Grounded occurrences and citations -->

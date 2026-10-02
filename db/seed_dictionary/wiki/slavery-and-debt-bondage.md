@@ -23,6 +23,5 @@ published: false
 - Maxwell, W.E. Law relating to slavery among the Malays. SB 22
 - Sullivan, P. Debt bondage in Perak. Monograph 10
 - Tregonning. K.G. The elimination of slavery in North Borneo. MB 26(1) and Reprint 4
-
 ## References
 <!-- Grounded occurrences and citations -->

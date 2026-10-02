@@ -119,9 +119,9 @@ published: false
 <!-- Synthesis engine: Insert social details here -->
 
 ## MBRAS Sources
-<!-- Seed entries or targeted retrieval for Singapore -->
+
 ### Architecture
-<!-- Seed entries or targeted retrieval for Singapore: Architecture -->
+
 ### Commerce
 
 - Anon. Country Traders, the East India Company, and the Rise of Singapore. MB 96(2)
@@ -201,7 +201,7 @@ published: false
 - Wurtzburg, C.E. Early references to the suitability of Singapore. MB 3(3)
 
 ### Economy
-<!-- Seed entries or targeted retrieval for Singapore: Economy -->
+
 ### Politics and government
 
 - Ang Cheng Guan. Singapore's Grand Strategy. MB 97(1) {R}
@@ -309,6 +309,5 @@ published: false
 - Warren, J.F. Rickshaw coolie (1880–1940). MB 60(2) {R}
 - Warren, J.F. Karayuki-San of Singapore: 1877–1940. MB 60(2) {R}
 - Wright, N. Armenians in Singapore and Malaya. MB 77(2) {R}
-
 ## References
 <!-- Grounded occurrences and citations -->

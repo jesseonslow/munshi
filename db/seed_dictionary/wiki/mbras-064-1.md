@@ -117,12 +117,12 @@ articles:
 * [A patriot’s memorial in Kuching](./a-patriots-memorial-in-kuching.md) — [Mubin Sheppard](./mubin-sheppard.md) (pp. 119–126)
 * *Asia in western fiction. .W* — [V.R. Savage](./vr-savage.md), [Winks](./winks.md), [J.R. Rush](./jr-rush.md) (pp. 127–129) [Review]
 * *Sons of the yellow emperor: the story of the overseas Chinese. L. Pan* — [T. Chong Carino](./t-chong-carino.md) (pp. 130–134) [Review]
-* *A Malay frontier: unity and duality in a Sumatran kingdom. J. Drakard* — [J.M. Gullick](./jm-gullick.md) (pp. 134–136) [Review]
+* *A Malay frontier: unity and duality in a Sumatran kingdom. J. Drakard* — [J.M. Gullick](./john-michael-gullick.md) (pp. 134–136) [Review]
 * *Ceramic traditions of South-East Asia. J. Guy* — [Khoo Joo Ee](./khoo-joo-ee.md) (pp. 136–138) [Review]
 
 ## Contributors
 * [Adi Haji Taha](./adi-haji-taha.md)
-* [J.M. Gullick](./jm-gullick.md)
+* [J.M. Gullick](./john-michael-gullick.md)
 * [J.R. Rush](./jr-rush.md)
 * [Khoo Joo Ee](./khoo-joo-ee.md)
 * [Khoo Kay Kim](./khoo-kay-kim.md)

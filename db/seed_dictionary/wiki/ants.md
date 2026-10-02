@@ -30,6 +30,5 @@ published: false
 - Ridley, H.N. Habits of the _caringa_, SB 22
 - Ridley, H.N. A termite’s nest with eight queens. SB 54
 - Shelford, R. Nests of silk weaving ants. SB 45
-
 ## References
 <!-- Grounded occurrences and citations -->

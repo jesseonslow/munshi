@@ -1,20 +1,24 @@
 ---
-id: n-weber
-title: N. Weber
-canonical_name: N. Weber
+id: nicolas-weber
+title: nicolas-weber
+canonical_name: nicolas-weber
 aliases:
 - Weber, N
 type: person
 is_contributor: true
 status: stub
 published: false
+gender: male
+email: nicolasweb@yahoo.com
 ---
 
-# N. Weber
+# nicolas-weber
 
 <!-- Synthesis engine: Insert biographical synthesis and research focus here -->
 
 ## Biography
+
+Nicolas Weber is currently an independent researcher. He has held positions at the Sun Yat-Sen University (Guangzhou, China), the University of Malaya (Kuala Lumpur, Malaysia), and EFEO (Kuala Lumpur, Malaysia). His research interests include minorities and diasporas in Southeast Asia, Southeast Asian modern and contemporary history, and politics.
 
 ## Bibliography
 - (2021) [Malays in the Indochinese Peninsula: Adventurers, Warlords and Ministers](./malays-in-the-indochinese-peninsula-adventurers-warlords-and.md). *JMBRAS* 94(1): 1–23

@@ -35,6 +35,5 @@ published: false
 - Wazir Jahan Karim. A revisionist account of early Penang and Francis Light. MB 85(2)
 - Wurtzburg, C.E. Letter from Light to Cornwallis in 1788. MB 16(1)
 - Wurtzburg, C.E. Light at Trincomalee in 1783. MB 21(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

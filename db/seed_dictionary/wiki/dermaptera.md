@@ -19,6 +19,5 @@ published: false
 ## MBRAS Sources
 
 - Borelli, A. _Dermaptera_ from Mentawai Islands. MB 4(3)
-
 ## References
 <!-- Grounded occurrences and citations -->

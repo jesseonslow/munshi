@@ -40,6 +40,12 @@ articles:
   - R.O. Winstedt
   pages: 7–9
   is_review: false
+- id: jsbras-81-1-p13
+  slug: obituary-abraham-hale
+  title: Obituary. Abraham Hale
+  authors:
+  - R.O. Winstedt
+  is_review: false
 - id: jsbras-81-1-p23
   slug: the-empire-of-the-maharaja-king-of-the-mountains-and-lord-of
   title: The empire of the Maharaja, King of the Mountains and Lord of the Isles
@@ -93,12 +99,13 @@ articles:
 **Date:** March 1920
 
 ## Table of Contents
-* [The early Muhammadan missionaries](./the-early-muhammadan-missionaries.md) — [R.O. Winstedt](./ro-winstedt.md) (pp. 5–6)
-* [Sidi, Siamang, Adunada](./sidi-siamang-adunada.md) — [R.O. Winstedt](./ro-winstedt.md) (pp. 7–9)
+* [The early Muhammadan missionaries](./the-early-muhammadan-missionaries.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 5–6)
+* [Sidi, Siamang, Adunada](./sidi-siamang-adunada.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 7–9)
+* [Obituary. Abraham Hale](./obituary-abraham-hale.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (p. 13)
 * [The empire of the Maharaja, King of the Mountains and Lord of the Isles](./the-empire-of-the-maharaja-king-of-the-mountains-and-lord-of.md) — [C.O. Blagden](./co-blagden.md) (pp. 23–28)
-* [History of Kedah](./history-of-kedah.md) — [R.O. Winstedt](./ro-winstedt.md) (pp. 29–35)
-* [Taju’s-salatin. “The crown of kings”](./tajus-salatin-the-crown-of-kings.md) — [R.O. Winstedt](./ro-winstedt.md) (pp. 37–38)
-* [The genealogy of Malacca’s kings from a copy of the Bustanu‘s-Salatin](./the-genealogy-of-malaccas-kings-from-a-copy-of-the-bustanus-.md) — [R.O. Winstedt](./ro-winstedt.md) (pp. 39–47)
+* [History of Kedah](./history-of-kedah.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 29–35)
+* [Taju’s-salatin. “The crown of kings”](./tajus-salatin-the-crown-of-kings.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 37–38)
+* [The genealogy of Malacca’s kings from a copy of the Bustanu‘s-Salatin](./the-genealogy-of-malaccas-kings-from-a-copy-of-the-bustanus-.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 39–47)
 * [Notes on Dipterocarps. {No. 5} On the embryo, seedling and position of the flowers in various species](./notes-on-dipterocarps-no-5-on-the-embryo-seedling-and-positi.md) — [I.H. Burkill](./ih-burkill.md) (pp. 49–76)
 * [On a collection of birds from N.E](./on-a-collection-of-birds-from-ne.md) — [C.B. Kloss](./cb-kloss.md), [Sumatra. H.C. Robinson](./sumatra-hc-robinson.md), [H.C. Robinson](./hc-robinson.md) (pp. 79–115)
 
@@ -107,7 +114,7 @@ articles:
 * [C.O. Blagden](./co-blagden.md)
 * [H.C. Robinson](./hc-robinson.md)
 * [I.H. Burkill](./ih-burkill.md)
-* [R.O. Winstedt](./ro-winstedt.md)
+* [R.O. Winstedt](./richard-olaf-winstedt.md)
 * [Sumatra. H.C. Robinson](./sumatra-hc-robinson.md)
 
 ## References

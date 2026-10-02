@@ -1,7 +1,7 @@
 ---
-id: p-lim-teckwyn
-title: P Lim Teckwyn
-canonical_name: P Lim Teckwyn
+id: p-teckwyn-lim
+title: P Teckwyn Lim
+canonical_name: P Teckwyn Lim
 aliases: []
 type: person
 is_contributor: true
@@ -9,7 +9,7 @@ status: stub
 published: false
 ---
 
-# P Lim Teckwyn
+# P Teckwyn Lim
 
 <!-- Synthesis engine: Insert biographical synthesis and research focus here -->
 

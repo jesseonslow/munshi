@@ -23,6 +23,5 @@ published: false
 ## MBRAS Sources
 
 - Gullick, J.M. The making of Raja Muda Sulaiman 1865–98. MB 81(2)
-
 ## References
 <!-- Grounded occurrences and citations -->

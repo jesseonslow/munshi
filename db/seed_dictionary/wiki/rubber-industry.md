@@ -42,6 +42,5 @@ published: false
 - Tate, D.J. Planting in Sabah and Sarawak. MB 69(1)
 - Tate, D.J. History of plantations in Malaya. MB 70(1) {R}
 - Wray, L.R. Rubber growing in Perak. MB 87(2)
-
 ## References
 <!-- Grounded occurrences and citations -->

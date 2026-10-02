@@ -19,6 +19,5 @@ published: false
 ## MBRAS Sources
 
 - Gullick, J.M. Isabella Bird’s visit to Malaya. MB 52(2)
-
 ## References
 <!-- Grounded occurrences and citations -->

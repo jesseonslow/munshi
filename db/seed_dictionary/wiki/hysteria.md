@@ -24,6 +24,5 @@ published: false
 - Kloss, C.B. Arctic amok. MB 1(1)
 - O’May, J. Arctic latah. MB 1(2)
 - Spores, J.C. Running amuck. MB 62(2) {R}
-
 ## References
 <!-- Grounded occurrences and citations -->

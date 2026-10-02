@@ -36,6 +36,5 @@ published: false
 - Linehan, W. Keramat Seri Benian. MB 24(3) and 25(1)
 - Rivers, P.J. Keramat in Singapore in mid 20th century. MB 76(2)
 - Winstedt, R.O. Karamat: sacred places and persons. MB 2(3) and Reprint 4
-
 ## References
 <!-- Grounded occurrences and citations -->

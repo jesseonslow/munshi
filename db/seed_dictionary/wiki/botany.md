@@ -82,7 +82,6 @@ published: false
 - [Fertilisation](./fertilisation.md)
 
 ## MBRAS Sources
-<!-- Seed entries or targeted retrieval for Botany -->
 
 ### Malaya
 
@@ -121,6 +120,5 @@ published: false
 - Ridley, H.N. Plants collected during expedition to Batu Lawi. SB 63
 - Ridley, H.N. Botanical excursion to N Sumatra. MB 1(1)
 - Stone, B.C. Plants of Pulau Balambangan. MB 53(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

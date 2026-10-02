@@ -19,6 +19,5 @@ published: false
 ## MBRAS Sources
 
 - Tweedie, M.W.F. Obituary. MB 24(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

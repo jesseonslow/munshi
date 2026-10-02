@@ -22,6 +22,5 @@ published: false
 
 - Hanitsch, R. Serow from Annam. SB 78
 - Norman, H. Wild goat of Malay Peninsula. SB 45
-
 ## References
 <!-- Grounded occurrences and citations -->

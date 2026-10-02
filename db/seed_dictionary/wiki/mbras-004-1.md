@@ -157,8 +157,8 @@ articles:
 **Date:** July 1926
 
 ## Table of Contents
-* [The ferns of the Malay Peninsula](./the-ferns-of-the-malay-peninsula.md) — [H.N. Ridley](./hn-ridley.md) (pp. 1–121)
-* [Cameron’s Highlands](./camerons-highlands.md) — [W. Cameron](./w-cameron.md), [W.G. Maxwell](./wg-maxwell.md) (pp. 122–128)
+* [The ferns of the Malay Peninsula](./the-ferns-of-the-malay-peninsula.md) — [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 1–121)
+* [Cameron’s Highlands](./camerons-highlands.md) — [W. Cameron](./w-cameron.md), [W.G. Maxwell](./sir-william-george-maxwell.md) (pp. 122–128)
 * [The Coffin Breakers Society](./the-coffin-breakers-society.md) — [W.G. Stirling](./wg-stirling.md) (pp. 129–132)
 * [note on the north and south points of the compass in Kedah and Trengganu](./note-on-the-north-and-south-points-of-the-compass-in-kedah-a.md) — [J.L. Humphreys](./jl-humphreys.md) (pp. 133–135)
 * [Malay love charms. Recorded and .W. Hamilton](./malay-love-charms-recorded-and-w-hamilton.md) — [Hamilton A.W](./hamilton-aw.md) (pp. 136–138)
@@ -171,19 +171,19 @@ articles:
 * [Two neglected bird names: Eucichla guajana (P.L.S. Mull.) and Chloropsis cochinchinensis (GM.) Records of the Raffles Museum, No. 17](./two-neglected-bird-names-eucichla-guajana-pls-mull-and-chlor.md) — [C.B. Kloss](./cb-kloss.md) (pp. 161–163)
 * [An abnormal, or unnamed, sea-snake. N. Smedley and C.B. Kloss. Records of the Raffles Museum, No. 18](./an-abnormal-or-unnamed-sea-snake-n-smedley-and-cb-kloss-reco.md) — [C.B. Kloss](./cb-kloss.md), [N. Smedley](./n-smedley.md) (pp. 163–164)
 * [On a stage in the development of the tiger-shark Stegostoma tigrinum (Gmel.). Records of the Raffles Museum, No. 20](./on-a-stage-in-the-development-of-the-tiger-shark-stegostoma-.md) — [N. Smedley](./n-smedley.md) (pp. 166)
-* [Peripatus in the Malay Peninsula. Records of the Raffles Museum, No. 21](./peripatus-in-the-malay-peninsula-records-of-the-raffles-muse.md) — [C.B. Kloss](./cb-kloss.md), [H.N. Ridley](./hn-ridley.md) (pp. 167)
+* [Peripatus in the Malay Peninsula. Records of the Raffles Museum, No. 21](./peripatus-in-the-malay-peninsula-records-of-the-raffles-muse.md) — [C.B. Kloss](./cb-kloss.md), [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 167)
 
 ## Contributors
 * [C.B. Kloss](./cb-kloss.md)
 * [F.N. Chasen](./fn-chasen.md)
 * [H.E. Savage](./he-savage.md)
-* [H.N. Ridley](./hn-ridley.md)
+* [H.N. Ridley](./henry-nicholas-ridley.md)
 * [Hamilton A.W](./hamilton-aw.md)
 * [I.H.N. Evans](./ihn-evans.md)
 * [J.L. Humphreys](./jl-humphreys.md)
 * [N. Smedley](./n-smedley.md)
 * [W. Cameron](./w-cameron.md)
-* [W.G. Maxwell](./wg-maxwell.md)
+* [W.G. Maxwell](./sir-william-george-maxwell.md)
 * [W.G. Stirling](./wg-stirling.md)
 
 ## References

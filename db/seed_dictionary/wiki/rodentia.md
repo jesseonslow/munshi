@@ -26,6 +26,5 @@ published: false
 - Butler, A.L. Mus surifer in Perak. SB 36
 - Chasen, F.N. Carnivora, Rodentia and Insectivora of E Borneo. MB 6(1)
 - Kloss, A.B. Rats and plague. SB 57
-
 ## References
 <!-- Grounded occurrences and citations -->

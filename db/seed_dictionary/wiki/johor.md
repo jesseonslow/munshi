@@ -57,7 +57,7 @@ published: false
 <!-- Synthesis engine: Insert name details here -->
 
 ## MBRAS Sources
-<!-- Seed entries or targeted retrieval for Johor -->
+
 ### Description and travel
 
 - Albuquerque, A de. Journal: extracts re Johor, tr. T D Hughes. MB 13(2) and 14(3)
@@ -83,7 +83,6 @@ published: false
 - Abdul Aziz, Engku. Opening of Johore dewan, 1875. MB 12(2)
 - Abdullah bin Mohamed. Memoirs of Mohamed Salleh bin Perang. MB 54(3) {R}
 - Abu Talib Ahmad. Marriage and divorce among Johor Malays during Japanese
-occupation. MB 71(2)
 - Ali bin Haji Ahmad, Raja Haji. _Tuhfat al-Nafis_. MB 10(2)
 - Allen, J. de V. Johore 1901–14. MB 45(2)
 - Andaya, L.Y. Raja Kechil and Minangkabau conquest of Johore in 1718. MB 45(2)
@@ -123,6 +122,5 @@ occupation. MB 71(2)
 
 - Maxwell, W.E. Johore or Johor? NQ Reprint 15
 - Winstedt, R.O. Was Johore once named Langkasuka? MB 1(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

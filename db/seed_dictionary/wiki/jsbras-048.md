@@ -41,10 +41,10 @@ articles:
 
 ## Table of Contents
 * [Description of new species of Hymenoptera from Borneo](./description-of-new-species-of-hymenoptera-from-borneo.md) — [P. Cameron](./p-cameron.md) (pp. 1–26)
-* [List of graveyards of the late Sultans of Perak](./list-of-graveyards-of-the-late-sultans-of-perak.md) — [Anon (and unidentifiable initials)](./anon-and-unidentifiable-initials.md) (pp. 97–106)
+* [List of graveyards of the late Sultans of Perak](./list-of-graveyards-of-the-late-sultans-of-perak.md) — [Anon](./anon-and-unidentifiable-initials.md) (pp. 97–106)
 
 ## Contributors
-* [Anon (and unidentifiable initials)](./anon-and-unidentifiable-initials.md)
+* [Anon](./anon-and-unidentifiable-initials.md)
 * [P. Cameron](./p-cameron.md)
 
 ## References

@@ -21,6 +21,5 @@ published: false
 ## MBRAS Sources
 
 - Anon. Obituary. SB 30
-
 ## References
 <!-- Grounded occurrences and citations -->

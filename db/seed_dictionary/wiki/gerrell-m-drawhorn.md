@@ -1,23 +1,23 @@
 ---
-id: lh-lees
-title: L.H. Lees
-canonical_name: L.H. Lees
+id: gerrell-m-drawhorn
+title: Gerrell M. Drawhorn
+canonical_name: Gerrell M. Drawhorn
 aliases:
-- Lees, L.H
+- Drawhorn, G.M.
 type: person
 is_contributor: true
 status: stub
 published: false
 ---
 
-# L.H. Lees
+# Gerrell M. Drawhorn
 
 <!-- Synthesis engine: Insert biographical synthesis and research focus here -->
 
 ## Biography
 
 ## Bibliography
-- (2021) [Becoming Malay: The Case of the Batak Orphans in 1930s Perak](./becoming-malay-the-case-of-the-batak-orphans-in-1930s-perak.md). *JMBRAS* 94(2): 141–167
+- (2015) ['I am Ali Wallace': The Malay Assistant of Alfred Russel Wallace](./i-am-ali-wallace.md). *JMBRAS* 88(1): 3–31
 
 ## References
 <!-- Grounded occurrences and citations -->

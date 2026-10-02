@@ -19,6 +19,5 @@ published: false
 ## MBRAS Sources
 
 - Chasen, F.N. A rare petrel. MB 1(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

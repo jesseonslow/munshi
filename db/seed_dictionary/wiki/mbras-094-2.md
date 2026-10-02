@@ -20,28 +20,28 @@ contributors:
   name: B.W. Andaya
 - id: c-dyer
   name: C. Dyer
-- id: fa-smith
-  name: F.A. Smith
+- id: f-andrew-smith
+  name: F. Andrew Smith
 - id: farish-a-noor
   name: Farish A. Noor
-- id: j-j-wilson
-  name: J.-J. Wilson
+- id: john-james-wilson
+  name: John-James Wilson
 - id: je-de-la-croix
   name: J.E. De La Croix
 - id: k-endicott
   name: K. Endicott
 - id: kamal-solhaimi-fadzil
   name: Kamal Solhaimi Fadzil
-- id: lh-lees
-  name: L.H. Lees
+- id: lynn-hollen-lees
+  name: Lynn Hollen Lees
 - id: liaw-siau-chi
   name: Liaw Siau Chi
-- id: lim-teckwyn
-  name: Lim Teckwyn
+- id: teckwyn-lim
+  name: Teckwyn Lim
 - id: n-chan
   name: N. Chan
-- id: n-weber
-  name: N. Weber
+- id: nicolas-weber
+  name: nicolas-weber
 - id: nurhidayahti-mohammad-miharja
   name: Nurhidayahti Mohammad Miharja
 - id: p-borschberg
@@ -66,7 +66,7 @@ articles:
   slug: how-many-polities-called-tanjungpura-have-there-been-in-born
   title: How Many Polities Called Tanjungpura Have There Been in Borneo?
   authors:
-  - F.A. Smith
+  - F. Andrew Smith
   pages: 1–25
   is_review: false
 - id: jmbras-94-2-p27
@@ -74,7 +74,7 @@ articles:
   title: '''Sixteen Naked Indians'': First Contact between the British and the Orang
     Asli'
   authors:
-  - Lim Teckwyn
+  - Teckwyn Lim
   pages: 27–42
   is_review: false
 - id: jmbras-94-2-p43
@@ -82,7 +82,7 @@ articles:
   title: 'Malays in the Indochinese Peninsula: The Rise and Fall of a ''Tuan'' in
     Precolonial Mainland Southeast Asia'
   authors:
-  - N. Weber
+  - nicolas-weber
   pages: 43–65
   is_review: false
 - id: jmbras-94-2-p67
@@ -106,14 +106,14 @@ articles:
   title: 'Colonial birding in the Thai-Malay Peninsula: Birds from the Selangor Museum
     now in World Museum, Liverpool'
   authors:
-  - J.-J. Wilson
+  - John-James Wilson
   pages: 121–139
   is_review: false
 - id: jmbras-94-2-p141
   slug: becoming-malay-the-case-of-the-batak-orphans-in-1930s-perak
   title: 'Becoming Malay: The Case of the Batak Orphans in 1930s Perak'
   authors:
-  - L.H. Lees
+  - Lynn Hollen Lees
   pages: 141–167
   is_review: false
 - id: jmbras-94-2-p169
@@ -128,7 +128,7 @@ articles:
   slug: william-scott-in-penang-missing-material-maritime-matters-an
   title: 'William Scott in Penang: Missing Material, Maritime Matters, and More'
   authors:
-  - F.A. Smith
+  - F. Andrew Smith
   pages: 185–197
   is_review: false
 - id: jmbras-94-2-p197
@@ -166,7 +166,7 @@ articles:
   title: 'Cross-Cultural Exchange and the Colonial Imaginary: Global Encounters via
     Southeast Asia. . Hazel Hahn'
   authors:
-  - N. Weber
+  - nicolas-weber
   pages: 210–212
   is_review: true
 - id: jmbras-94-2-p212
@@ -253,20 +253,20 @@ articles:
 **Date:** December 2021
 
 ## Table of Contents
-* [How Many Polities Called Tanjungpura Have There Been in Borneo?](./how-many-polities-called-tanjungpura-have-there-been-in-born.md) — [F.A. Smith](./fa-smith.md) (pp. 1–25)
-* ['Sixteen Naked Indians': First Contact between the British and the Orang Asli](./sixteen-naked-indians-first-contact-between-the-british-and-.md) — [Lim Teckwyn](./lim-teckwyn.md) (pp. 27–42)
-* [Malays in the Indochinese Peninsula: The Rise and Fall of a 'Tuan' in Precolonial Mainland Southeast Asia](./malays-in-the-indochinese-peninsula-the-rise-and-fall-of-a-t.md) — [N. Weber](./n-weber.md) (pp. 43–65)
+* [How Many Polities Called Tanjungpura Have There Been in Borneo?](./how-many-polities-called-tanjungpura-have-there-been-in-born.md) — [F. Andrew Smith](./f-andrew-smith.md) (pp. 1–25)
+* ['Sixteen Naked Indians': First Contact between the British and the Orang Asli](./sixteen-naked-indians-first-contact-between-the-british-and-.md) — [Teckwyn Lim](./teckwyn-lim.md) (pp. 27–42)
+* [Malays in the Indochinese Peninsula: The Rise and Fall of a 'Tuan' in Precolonial Mainland Southeast Asia](./malays-in-the-indochinese-peninsula-the-rise-and-fall-of-a-t.md) — [nicolas-weber](./nicolas-weber.md) (pp. 43–65)
 * [References to Singapore and its Straits from the 16th to the Early 19th Century](./references-to-singapore-and-its-straits-from-the-16th-to-the.md) — [P. Borschberg](./p-borschberg.md), [B.J.Q. Khoo](./bjq-khoo.md) (pp. 67–95)
 * [The Uses of Magic: Local Knowledge and the 'Unscientific Native' in Colonial Malaya](./the-uses-of-magic-local-knowledge-and-the-unscientific-nativ.md) — [Farish A. Noor](./farish-a-noor.md) (pp. 97–119)
-* [Colonial birding in the Thai-Malay Peninsula: Birds from the Selangor Museum now in World Museum, Liverpool](./colonial-birding-in-the-thai-malay-peninsula-birds-from-the-.md) — [J.-J. Wilson](./j-j-wilson.md) (pp. 121–139)
-* [Becoming Malay: The Case of the Batak Orphans in 1930s Perak](./becoming-malay-the-case-of-the-batak-orphans-in-1930s-perak.md) — [L.H. Lees](./lh-lees.md) (pp. 141–167)
+* [Colonial birding in the Thai-Malay Peninsula: Birds from the Selangor Museum now in World Museum, Liverpool](./colonial-birding-in-the-thai-malay-peninsula-birds-from-the-.md) — [John-James Wilson](./john-james-wilson.md) (pp. 121–139)
+* [Becoming Malay: The Case of the Batak Orphans in 1930s Perak](./becoming-malay-the-case-of-the-batak-orphans-in-1930s-perak.md) — [Lynn Hollen Lees](./lynn-hollen-lees.md) (pp. 141–167)
 * [The Kingdom of Perak. . Dyer](./the-kingdom-of-perak-dyer.md) — [J.E. De La Croix](./je-de-la-croix.md), [C. Dyer](./c-dyer.md) (pp. 169–184)
-* [William Scott in Penang: Missing Material, Maritime Matters, and More](./william-scott-in-penang-missing-material-maritime-matters-an.md) — [F.A. Smith](./fa-smith.md) (pp. 185–197)
-* [Federated Malay States Museum, Kuala Lumpur, 21 September 1945, Office of Strategic Services, India Burma Theater. Facsimile reprint](./federated-malay-states-museum-kuala-lumpur-21-september-1945.md) — [Anon (and unidentifiable initials)](./anon-and-unidentifiable-initials.md) (pp. 197–200)
+* [William Scott in Penang: Missing Material, Maritime Matters, and More](./william-scott-in-penang-missing-material-maritime-matters-an.md) — [F. Andrew Smith](./f-andrew-smith.md) (pp. 185–197)
+* [Federated Malay States Museum, Kuala Lumpur, 21 September 1945, Office of Strategic Services, India Burma Theater. Facsimile reprint](./federated-malay-states-museum-kuala-lumpur-21-september-1945.md) — [Anon](./anon-and-unidentifiable-initials.md) (pp. 197–200)
 * *Jacques de Morgan's Explorations in the Malay Peninsula, 1884. . Jaunay* — [K. Endicott](./k-endicott.md) (pp. 201–203) [Review]
 * *Empires of Vice: The Rise of Opium Prohibition Across Asia. D.S. Kim* — [S. Soon Sien Yong](./s-soon-sien-yong.md) (pp. 203–206) [Review]
 * *Christian Circulations: Global Christianity and the Local Church in Penang and Singapore 1819–2000. J. DeBernardi* — [B.W. Andaya](./bw-andaya.md) (pp. 206–210) [Review]
-* *Cross-Cultural Exchange and the Colonial Imaginary: Global Encounters via Southeast Asia. . Hazel Hahn* — [N. Weber](./n-weber.md) (pp. 210–212) [Review]
+* *Cross-Cultural Exchange and the Colonial Imaginary: Global Encounters via Southeast Asia. . Hazel Hahn* — [nicolas-weber](./nicolas-weber.md) (pp. 210–212) [Review]
 * *Mosques and Imams: Everyday Islam in Eastern Indonesia. . Robinson* — [T. Gibson](./t-gibson.md) (pp. 212–217) [Review]
 * *Fluid Jurisdictions: Colonial law and Arabs in Southeast Asia. Nurfadzilah Yahaya* — [Sai Siew-Min](./sai-siew-min.md) (pp. 217–219) [Review]
 * *Sea Nomads of Southeast Asia: From the Past to the Present. . Bellina, R. Blench, and J.-C. Galipaud* — [A.O. Zakharov](./ao-zakharov.md) (pp. 220–223) [Review]
@@ -280,21 +280,21 @@ articles:
 
 ## Contributors
 * [A.O. Zakharov](./ao-zakharov.md)
-* [Anon (and unidentifiable initials)](./anon-and-unidentifiable-initials.md)
+* [Anon](./anon-and-unidentifiable-initials.md)
 * [B.J.Q. Khoo](./bjq-khoo.md)
 * [B.W. Andaya](./bw-andaya.md)
 * [C. Dyer](./c-dyer.md)
-* [F.A. Smith](./fa-smith.md)
+* [F. Andrew Smith](./f-andrew-smith.md)
 * [Farish A. Noor](./farish-a-noor.md)
-* [J.-J. Wilson](./j-j-wilson.md)
+* [John-James Wilson](./john-james-wilson.md)
 * [J.E. De La Croix](./je-de-la-croix.md)
 * [K. Endicott](./k-endicott.md)
 * [Kamal Solhaimi Fadzil](./kamal-solhaimi-fadzil.md)
-* [L.H. Lees](./lh-lees.md)
+* [Lynn Hollen Lees](./lynn-hollen-lees.md)
 * [Liaw Siau Chi](./liaw-siau-chi.md)
-* [Lim Teckwyn](./lim-teckwyn.md)
+* [Teckwyn Lim](./teckwyn-lim.md)
 * [N. Chan](./n-chan.md)
-* [N. Weber](./n-weber.md)
+* [nicolas-weber](./nicolas-weber.md)
 * [Nurhidayahti Mohammad Miharja](./nurhidayahti-mohammad-miharja.md)
 * [P. Borschberg](./p-borschberg.md)
 * [S. Abel](./s-abel.md)

@@ -132,7 +132,7 @@ articles:
 ## Table of Contents
 * [The introduction of Islam into Champa](./the-introduction-of-islam-into-champa.md) — [P.-Y. Manguin](./p-y-manguin.md) (pp. 1–28)
 * [Social history and the photograph: glimpses of the Singapore rickshaw coolie in the early nineteenth century](./social-history-and-the-photograph-glimpses-of-the-singapore-.md) — [J.F. Warren](./jf-warren.md) (pp. 29–42)
-* [The entrepreneur in late nineteenth century Malay society](./the-entrepreneur-in-late-nineteenth-century-malay-society.md) — [J.M. Gullick](./jm-gullick.md), [Wang Gungwu](./wang-gungwu.md) (pp. 43–57)
+* [The entrepreneur in late nineteenth century Malay society](./the-entrepreneur-in-late-nineteenth-century-malay-society.md) — [J.M. Gullick](./john-michael-gullick.md), [Wang Gungwu](./wang-gungwu.md) (pp. 43–57)
 * [Parallels between the upright stones of Western Sumatra and those in Malacca and Negri Sembilan](./parallels-between-the-upright-stones-of-western-sumatra-and-.md) — [J.N. Miksic](./jn-miksic.md) (pp. 59–90)
 * [A ceramic legacy of Asia’s maritime trade on Tioman Island](./a-ceramic-legacy-of-asias-maritime-trade-on-tioman-island.md) — [J.A. Martin](./ja-martin.md) (pp. 81–90)
 * [Stockdale’s sketches, civil and military, of the island of Java: a bibliographical note](./stockdales-sketches-civil-and-military-of-the-island-of-java.md) — [J.S. Bastin](./js-bastin.md) (pp. 91–94)
@@ -147,7 +147,7 @@ articles:
 * [H.S. Barlow](./hs-barlow.md)
 * [J.A. Martin](./ja-martin.md)
 * [J.F. Warren](./jf-warren.md)
-* [J.M. Gullick](./jm-gullick.md)
+* [J.M. Gullick](./john-michael-gullick.md)
 * [J.N. Miksic](./jn-miksic.md)
 * [J.S. Bastin](./js-bastin.md)
 * [K.W. Taylor](./kw-taylor.md)

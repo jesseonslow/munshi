@@ -20,6 +20,5 @@ published: false
 
 - Johnson-Davies, D. Egyptian one-act plays. MB 55(1) {R}
 - Wales, H.G.Q. The Sabaeans and possible Egyptian influences on Indonesia. MB 23(3)
-
 ## References
 <!-- Grounded occurrences and citations -->

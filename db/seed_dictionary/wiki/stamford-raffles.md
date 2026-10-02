@@ -52,7 +52,7 @@ published: false
 - Bastin, J. Raffles and the study of natural history. MB 63(2)
 - Bastin, J. Raffles’ aides-de-camp in Java. MB 65(1)
 - Coolhaas, P.H. Baud on Raffles. MB 24(1)
-- Gibson-Hill, C.A. Raffles, Alexander Hare and Johanna van Hare. MB 28(1)
+- Gibson-Hill, C.A. Raffles, Alexander Hare and Johanna van Hare. MB 27(1)
 - Gibson-Hill, C.A. Raffles, Acheh and the Order of the Golden Sword. MB 29(1)
 - Haughton, W.T. Eyewitness account of Raffles’ landing at Singapore. SB 10 and 42(1)
 - Hough, G.C. Raffles’ educational policy. MB 11(2) and 42(1)
@@ -80,6 +80,5 @@ published: false
 - Wright, N.H. Effects of nepotism and patronage on Francis Bernard’s career. MB 89(2)
 - Wurtzburg, C.E. The birthday of Sir Stamford Raffles. MB 20(1)
 - Wurtzburg, C.E. Raffles and the massacre at Palembang. MB 22(1) and 25(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

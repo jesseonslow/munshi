@@ -92,7 +92,7 @@ published: false
 <!-- Synthesis engine: Insert malaya details here -->
 
 ## MBRAS Sources
-<!-- Seed entries or targeted retrieval for Customary law -->
+
 ### Borneo
 
 - Evans, I.H.N. Dusun customary law. MB 22(1)
@@ -114,6 +114,5 @@ published: false
 - Taylor, E.N. Malay family law on property. MB 15(1)
 - Anon. _Undang-Undang Laut_. SB 3 and 4 and MB 29(3)
 - Winstedt, R.O. Kedah laws. MB 6(2)
-
 ## References
 <!-- Grounded occurrences and citations -->

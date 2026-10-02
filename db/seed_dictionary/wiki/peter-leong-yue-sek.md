@@ -1,7 +1,7 @@
 ---
-id: p-leong-yue-sek
-title: P. Leong Yue Sek
-canonical_name: P. Leong Yue Sek
+id: peter-leong-yue-sek
+title: Peter Leong Yue Sek
+canonical_name: Peter Leong Yue Sek
 aliases: []
 type: person
 is_contributor: true
@@ -9,7 +9,7 @@ status: stub
 published: false
 ---
 
-# P. Leong Yue Sek
+# Peter Leong Yue Sek
 
 <!-- Synthesis engine: Insert biographical synthesis and research focus here -->
 

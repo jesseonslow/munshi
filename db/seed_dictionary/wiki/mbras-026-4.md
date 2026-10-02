@@ -38,12 +38,12 @@ articles:
 **Date:** December 1953
 
 ## Table of Contents
-* [The Cambridge University Expedition to parts of the Malay Peninsula, 1899–1900: personal accounts. W.W. Skeat and F.F. Laidlaw. {Introd. C.A. Gibson-Hill](./the-cambridge-university-expedition-to-parts-of-the-malay-pe.md) — [C.A. Gibson-Hill](./ca-gibson-hill.md), [F.F. Laidlaw](./ff-laidlaw.md), [W.W. Skeat](./ww-skeat.md) (pp. 1–174)
+* [The Cambridge University Expedition to parts of the Malay Peninsula, 1899–1900: personal accounts. W.W. Skeat and F.F. Laidlaw. {Introd. C.A. Gibson-Hill](./the-cambridge-university-expedition-to-parts-of-the-malay-pe.md) — [C.A. Gibson-Hill](./carl-alexander-gibson-hill.md), [F.F. Laidlaw](./ff-laidlaw.md), [W.W. Skeat](./walter-william-skeat.md) (pp. 1–174)
 
 ## Contributors
-* [C.A. Gibson-Hill](./ca-gibson-hill.md)
+* [C.A. Gibson-Hill](./carl-alexander-gibson-hill.md)
 * [F.F. Laidlaw](./ff-laidlaw.md)
-* [W.W. Skeat](./ww-skeat.md)
+* [W.W. Skeat](./walter-william-skeat.md)
 
 ## References
 <!-- Grounded occurrences and citations -->

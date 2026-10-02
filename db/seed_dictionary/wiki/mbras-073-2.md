@@ -114,7 +114,7 @@ articles:
 
 ## Table of Contents
 * [Political heritage and nation building](./political-heritage-and-nation-building.md) — [Wang Gungwu](./wang-gungwu.md) (pp. 5–30)
-* [DO’s and Dato’s: dialogue on the adat perpateh](./dos-and-datos-dialogue-on-the-adat-perpateh.md) — [J.M. Gullick](./jm-gullick.md) (pp. 31–51)
+* [DO’s and Dato’s: dialogue on the adat perpateh](./dos-and-datos-dialogue-on-the-adat-perpateh.md) — [J.M. Gullick](./john-michael-gullick.md) (pp. 31–51)
 * [Penang’s historic city centre before the repeal of the Rent (Control) Act](./penangs-historic-city-centre-before-the-repeal-of-the-rent-c.md) — [Mai Lin Tjoa-Bonatz](./mai-lin-tjoa-bonatz.md) (pp. 53–69)
 * [The collective memory of the Sook Ching massacre and the creation of the civilian war memorial of Singapore](./the-collective-memory-of-the-sook-ching-massacre-and-the-cre.md) — [K. Blackburn](./k-blackburn.md) (pp. 71–90)
 * *The invention of politics in colonial Malaya: contesting nationalism and the expansion of the public sphere by A.C. Milner* — [G.L. Koster](./gl-koster.md) (pp. 91–102) [Review]
@@ -128,7 +128,7 @@ articles:
 * [Farish A. Noor](./farish-a-noor.md)
 * [G.L. Koster](./gl-koster.md)
 * [H.S. Barlow](./hs-barlow.md)
-* [J.M. Gullick](./jm-gullick.md)
+* [J.M. Gullick](./john-michael-gullick.md)
 * [K. Blackburn](./k-blackburn.md)
 * [Lim Pui Huen](./lim-pui-huen.md)
 * [Mai Lin Tjoa-Bonatz](./mai-lin-tjoa-bonatz.md)

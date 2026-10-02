@@ -52,7 +52,6 @@ published: false
 <!-- Synthesis engine: Insert history details here -->
 
 ## MBRAS Sources
-<!-- Seed entries or targeted retrieval for Thailand -->
 
 ### Antiquities
 
@@ -114,6 +113,5 @@ published: false
 - Pasuk Phongphaichit (ed) Income, wealth and power inequalities. MB 90(1) {R}
 - Sophorntavy Vorng. Status, power and hierarchy in Bangkok. MB 91(2) {R}
 - Thongchai Winichakul. Past success and present predicament of hyper-royalism. MB 90(2) {R}
-
 ## References
 <!-- Grounded occurrences and citations -->

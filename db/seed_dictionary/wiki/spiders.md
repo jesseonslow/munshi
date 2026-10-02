@@ -22,6 +22,5 @@ published: false
 - Burkill, I.H. The irregularity of a spider’s feeding. SB 86
 - Buxton, B.H. Internal anatomy of Liphistius batuensis Abr. MB 2(1)
 - Ridley, H.N. The bird-dropping spider (Ornithoscatoides) in Johore. SB 25
-
 ## References
 <!-- Grounded occurrences and citations -->

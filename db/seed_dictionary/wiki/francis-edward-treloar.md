@@ -23,7 +23,6 @@ published: false
 ## MBRAS Sources
 
 - McKinnon, E.E. Obituary. MB 53(2)
-
 ## Bibliography
 - (1968) [Chemical analysis of some metal objects from Chandi Bukit Batu Pahat, Kedah: suggested origin and date](./chemical-analysis-of-some-metal-objects-from-chandi-bukit-ba.md). *JMBRAS* 41(1): 193–198
 - (1975) [Evidence for the contemporary existence of two Kedah sites](./evidence-for-the-contemporary-existence-of-two-kedah-sites.md). *JMBRAS* 48(1): 74–77

@@ -31,10 +31,10 @@ articles:
 **Date:** November 1953
 
 ## Table of Contents
-* [Captain Speedy of Larut](./captain-speedy-of-larut.md) — [J.M. Gullick](./jm-gullick.md) (pp. 1–103)
+* [Captain Speedy of Larut](./captain-speedy-of-larut.md) — [J.M. Gullick](./john-michael-gullick.md) (pp. 1–103)
 
 ## Contributors
-* [J.M. Gullick](./jm-gullick.md)
+* [J.M. Gullick](./john-michael-gullick.md)
 
 ## References
 <!-- Grounded occurrences and citations -->

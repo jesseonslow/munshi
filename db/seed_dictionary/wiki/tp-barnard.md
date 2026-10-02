@@ -23,7 +23,7 @@ published: false
 
 ### Reviews
 - (2015) The annotated Malay archipelago. A.R. Wallace, ed J. van Wyhe. *JMBRAS* 88(2): 183–184
-- (2018) Planting empire, cultivating subjects: British Malaya, 1786–1941. L.H. Lees. *JMBRAS* 91(2): 167–168
+- (2018) Planting empire, cultivating subjects: British Malaya, 1786–1941. Lynn Hollen Lees. *JMBRAS* 91(2): 167–168
 
 ## References
 <!-- Grounded occurrences and citations -->

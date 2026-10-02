@@ -35,6 +35,5 @@ published: false
 - Laidlaw, F.F. Invocation of _Akuan_. MB 1(2)
 - Maxwell, W.E. _Mantra_. NQ Reprint 15
 - Winstedt, R.O. A Perak invocation of the _Langsuyar_. MB 3(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

@@ -22,6 +22,5 @@ published: false
 ## MBRAS Sources
 
 - Bland, Mrs R.N. Malacca lace. SB 45
-
 ## References
 <!-- Grounded occurrences and citations -->

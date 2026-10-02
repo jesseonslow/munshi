@@ -69,6 +69,5 @@ published: false
 - Wright, H.R.C. Raffles and the Mackenzie Land Tenure Commission in Java. MB 28(1)
 - Yogeswaran Subramaniam. Orang Asli land and resource rights. MB 93(2)
 - Zaharah binti Hj Mahmud. Traditional land settlement in the Malay Peninsula. MB 43(2)
-
 ## References
 <!-- Grounded occurrences and citations -->

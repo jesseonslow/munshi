@@ -20,6 +20,5 @@ published: false
 
 - Van Reijn, E.O. Kerintji dialects and Mon-Khmer languages. MB 47(2)
 - Watson, C.W. Rawa and Rinci. MB 55(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

@@ -138,15 +138,15 @@ articles:
 ## Table of Contents
 * [Essay towards a bibliography of Siam](./essay-towards-a-bibliography-of-siam.md) — [E.M. Satow](./em-satow.md) (pp. 161–189)
 * [English, Sulu and Malay vocabulary](./english-sulu-and-malay-vocabulary.md) — [Haynes T.H](./haynes-th.md) (pp. 191–239)
-* [The survey question](./the-survey-question.md) — [W.E. Maxwell](./we-maxwell.md) (pp. 271–272)
+* [The survey question](./the-survey-question.md) — [W.E. Maxwell](./sir-william-edward-maxwell.md) (pp. 271–272)
 * [The survey question in Cochin-China](./the-survey-question-in-cochin-china.md) — [M. Camouilly](./m-camouilly.md) (pp. 273–291)
-* [Notes on economic plants, Straits Settlements](./notes-on-economic-plants-straits-settlements.md) — [W.E. Maxwell](./we-maxwell.md) (pp. 293–294)
-* [The journal of the Indian Archipelago](./the-journal-of-the-indian-archipelago.md) — [N.B. Dennys](./nb-dennys.md) (pp. 335–344)
+* [Notes on economic plants, Straits Settlements](./notes-on-economic-plants-straits-settlements.md) — [W.E. Maxwell](./sir-william-edward-maxwell.md) (pp. 293–294)
+* [The journal of the Indian Archipelago](./the-journal-of-the-indian-archipelago.md) — [N.B. Dennys](./nicholas-belfield-dennys.md) (pp. 335–344)
 * [Sumatra in 1886](./sumatra-in-1886.md) — [H.F. Kehding](./hf-kehding.md) (pp. 345–349)
 * [The Kurau district, Perak](./the-kurau-district-perak.md) — [N. Denison](./n-denison.md) (pp. 349–352)
 * [Birds from Perak](./birds-from-perak.md) — [R. B. Sharpe](./r-b-sharpe.md) (pp. 352–355)
 * [Currency, Negri Sembilan](./currency-negri-sembilan.md) — [R.N. Bland](./rn-bland.md), [Hale A](./hale-a.md) (pp. 356–357)
-* [The Prince, or Princess of the bamboo](./the-prince-or-princess-of-the-bamboo.md) — [W.E. Maxwell](./we-maxwell.md) (pp. 357–358)
+* [The Prince, or Princess of the bamboo](./the-prince-or-princess-of-the-bamboo.md) — [W.E. Maxwell](./sir-william-edward-maxwell.md) (pp. 357–358)
 * [Notes on kayu gharu](./notes-on-kayu-gharu.md) — [R.N. Bland](./rn-bland.md) (pp. 359–361)
 * [Ceremonies at seedtime](./ceremonies-at-seedtime.md) — [A.W. O'Sullivan](./aw-osullivan.md) (pp. 362–365)
 
@@ -158,10 +158,10 @@ articles:
 * [Haynes T.H](./haynes-th.md)
 * [M. Camouilly](./m-camouilly.md)
 * [N. Denison](./n-denison.md)
-* [N.B. Dennys](./nb-dennys.md)
+* [N.B. Dennys](./nicholas-belfield-dennys.md)
 * [R. B. Sharpe](./r-b-sharpe.md)
 * [R.N. Bland](./rn-bland.md)
-* [W.E. Maxwell](./we-maxwell.md)
+* [W.E. Maxwell](./sir-william-edward-maxwell.md)
 
 ## References
 <!-- Grounded occurrences and citations -->

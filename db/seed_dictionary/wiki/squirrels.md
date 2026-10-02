@@ -29,6 +29,5 @@ published: false
 - Kloss, C.B. A new squirrel from North Sarawak. SB 83
 - Kloss, C.B. A new squirrel from Tenggol Island off the east coast. MB 4(2)
 - Ridley, H.N. An insectivorous squirrel. SB 32
-
 ## References
 <!-- Grounded occurrences and citations -->

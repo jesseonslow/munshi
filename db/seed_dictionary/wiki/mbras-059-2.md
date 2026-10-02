@@ -163,7 +163,7 @@ articles:
 
 ## Table of Contents
 * [In memoriam: Al-Marhum Sultan Sir Muda Omar ‘Ali Saifuddien Khairi Wadddien. Obituary](./in-memoriam-al-marhum-sultan-sir-muda-omar-ali-saifuddien-kh.md) — [P.M. Shariffuddin](./pm-shariffuddin.md) (pp. 1–4)
-* [Tunku Kudin in Selangor 1868–1878](./tunku-kudin-in-selangor-18681878.md) — [J.M. Gullick](./jm-gullick.md) (pp. 5–50)
+* [Tunku Kudin in Selangor 1868–1878](./tunku-kudin-in-selangor-18681878.md) — [J.M. Gullick](./john-michael-gullick.md) (pp. 5–50)
 * [Borneo history: time for a new look?](./borneo-history-time-for-a-new-look.md) — [D. Phillips](./d-phillips.md) (pp. 45–65)
 * [The fishing economy of Malaysia 1955–1975](./the-fishing-economy-of-malaysia-19551975.md) — [G. Sivalingam](./g-sivalingam.md) (pp. 51–80)
 * [The bearded pig in East Kalimantan and Sarawak](./the-bearded-pig-in-east-kalimantan-and-sarawak.md) — [J. Caldecott](./j-caldecott.md), [P. Pfeffer](./p-pfeffer.md) (pp. 81–100)
@@ -188,7 +188,7 @@ articles:
 * [I. Proudfoot](./i-proudfoot.md)
 * [J. Caldecott](./j-caldecott.md)
 * [J.B. Crain](./jb-crain.md)
-* [J.M. Gullick](./jm-gullick.md)
+* [J.M. Gullick](./john-michael-gullick.md)
 * [J.N. Parmer](./jn-parmer.md)
 * [Kadir Yusoff](./kadir-yusoff.md)
 * [P. Pfeffer](./p-pfeffer.md)

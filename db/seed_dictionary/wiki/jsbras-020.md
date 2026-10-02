@@ -68,7 +68,7 @@ articles:
 **Date:** None 1889
 
 ## Table of Contents
-* [Report on the destruction of coco-nut palms by beetles](./report-on-the-destruction-of-coco-nut-palms-by-beetles.md) — [H.N. Ridley](./hn-ridley.md) (pp. 1–11)
+* [Report on the destruction of coco-nut palms by beetles](./report-on-the-destruction-of-coco-nut-palms-by-beetles.md) — [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 1–11)
 * [British Borneo: sketches of Brunai, Sarawak, Labuan and North Borneo](./british-borneo-sketches-of-brunai-sarawak-labuan-and-north-b.md) — [W.H. Treacher](./wh-treacher.md) (pp. 13–74)
 * [Notes on names of places in the island of Singapore and its vicinity](./notes-on-names-of-places-in-the-island-of-singapore-and-its-.md) — [Haughton H.T](./haughton-ht.md) (pp. 75–82)
 * [Journal of a trip to Pahang etc. with H.E. the Governor, August 17th to 27th, 1889](./journal-of-a-trip-to-pahang-etc-with-he-the-governor-august-.md) — [W. Davison](./w-davison.md) (pp. 83–90)
@@ -76,7 +76,7 @@ articles:
 
 ## Contributors
 * [A.H. Everett](./ah-everett.md)
-* [H.N. Ridley](./hn-ridley.md)
+* [H.N. Ridley](./henry-nicholas-ridley.md)
 * [Haughton H.T](./haughton-ht.md)
 * [W. Davison](./w-davison.md)
 * [W.H. Treacher](./wh-treacher.md)

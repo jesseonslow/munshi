@@ -20,6 +20,5 @@ published: false
 ## MBRAS Sources
 
 - Jones, R. Two letters from Sultan Muhammad to Francis Light. MB 54(3)
-
 ## References
 <!-- Grounded occurrences and citations -->

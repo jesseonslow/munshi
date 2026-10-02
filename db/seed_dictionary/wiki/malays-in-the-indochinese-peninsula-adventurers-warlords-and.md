@@ -6,7 +6,7 @@ canonical_name: 'Malays in the Indochinese Peninsula: Adventurers, Warlords and 
 type: article
 article_type: article
 authors:
-- N. Weber
+- nicolas-weber
 year: 2021
 journal_code: JMBRAS
 volume: 94

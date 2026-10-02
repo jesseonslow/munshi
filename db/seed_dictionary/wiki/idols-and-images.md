@@ -27,6 +27,5 @@ published: false
 - Griswold, A.B. Buddhist images of N Thailand. MB 3(1) {R}
 - Harrisson, T. Stone sculptures from SW Borneo. MB 46(2)
 - Moulton, J.C. Hindu image from Sarawak. SB 85
-
 ## References
 <!-- Grounded occurrences and citations -->

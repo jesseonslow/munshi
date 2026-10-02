@@ -91,22 +91,22 @@ articles:
 **Date:** December 1911
 
 ## Table of Contents
-* [Barrretto de Resende’s account of Malacca](./barrretto-de-resendes-account-of-malacca.md) — [W.G. Maxwell](./wg-maxwell.md) (pp. 1–24)
+* [Barrretto de Resende’s account of Malacca](./barrretto-de-resendes-account-of-malacca.md) — [W.G. Maxwell](./sir-william-george-maxwell.md) (pp. 1–24)
 * [Singapore old Straits and new harbour](./singapore-old-straits-and-new-harbour.md) — [W.D. Barnes](./wd-barnes.md) (pp. 25–34)
 * [An old royal cemetery at Pekan in Pahang](./an-old-royal-cemetery-at-pekan-in-pahang.md) — [W.D. Barnes](./wd-barnes.md) (pp. 35–36)
 * [An old royal tombstone in Pahang](./an-old-royal-tombstone-in-pahang.md) — [W.D. Barnes](./wd-barnes.md) (pp. 37–39)
 * [A trip to a source of the Sarawak River and Bengkarum Mountains](./a-trip-to-a-source-of-the-sarawak-river-and-bengkarum-mounta.md) — [C.J. Brooks](./cj-brooks.md) (pp. 41–51)
-* [The Gymnosperms of the Malay Peninsula](./the-gymnosperms-of-the-malay-peninsula.md) — [H.N. Ridley](./hn-ridley.md) (pp. 53–68)
+* [The Gymnosperms of the Malay Peninsula](./the-gymnosperms-of-the-malay-peninsula.md) — [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 53–68)
 * [Head pressing amongst the Milanos of Sarawak](./head-pressing-amongst-the-milanos-of-sarawak.md) — [A.E. Lawrence](./ae-lawrence.md) (pp. 69–71)
-* [A list of the butterflies of Borneo with descriptions of new species](./a-list-of-the-butterflies-of-borneo-with-descriptions-of-new.md) — [J.C. Moulton](./jc-moulton.md) (pp. 73–177)
+* [A list of the butterflies of Borneo with descriptions of new species](./a-list-of-the-butterflies-of-borneo-with-descriptions-of-new.md) — [J.C. Moulton](./john-coney-moulton.md) (pp. 73–177)
 
 ## Contributors
 * [A.E. Lawrence](./ae-lawrence.md)
 * [C.J. Brooks](./cj-brooks.md)
-* [H.N. Ridley](./hn-ridley.md)
-* [J.C. Moulton](./jc-moulton.md)
+* [H.N. Ridley](./henry-nicholas-ridley.md)
+* [J.C. Moulton](./john-coney-moulton.md)
 * [W.D. Barnes](./wd-barnes.md)
-* [W.G. Maxwell](./wg-maxwell.md)
+* [W.G. Maxwell](./sir-william-george-maxwell.md)
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -58,6 +58,5 @@ published: false
 - Willbourn, E.S. Minerals found in British Malaya. MB 3(3)
 - Willbourn, E.S. Geology and mining industries of Kedah and Perlis. MB 4(3)
 - Willbourn, E.S. Geology and mining industries of Johore. MB 6(4)
-
 ## References
 <!-- Grounded occurrences and citations -->

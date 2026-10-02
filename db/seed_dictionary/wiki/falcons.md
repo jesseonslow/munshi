@@ -20,6 +20,5 @@ published: false
 ## MBRAS Sources
 
 - Laidlaw, F.F. Habits of the pygmy falcon. MB 1(2)
-
 ## References
 <!-- Grounded occurrences and citations -->

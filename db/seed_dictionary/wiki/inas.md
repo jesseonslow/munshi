@@ -28,6 +28,5 @@ published: false
 ## MBRAS Sources
 
 - Lewis, D. Inas: a study in local history. MB 33(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

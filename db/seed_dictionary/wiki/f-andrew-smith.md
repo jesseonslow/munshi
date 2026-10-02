@@ -1,18 +1,20 @@
 ---
-id: fa-smith
-title: F.A. Smith
-canonical_name: F.A. Smith
+id: f-andrew-smith
+title: F. Andrew Smith
+canonical_name: F. Andrew Smith
 aliases:
 - Smith, F.A
 type: person
 is_contributor: true
 status: stub
 published: false
+gender: male
+email: andrew.smith@adelaide.edu.au
 ---
 
-# F.A. Smith
+# F. Andrew Smith
 
-<!-- Synthesis engine: Insert biographical synthesis and research focus here -->
+F. Andrew Smith is an Emeritus Professor at the University of Adelaide, Australia. Originally a plant biologist, his research interests for more than 20 years have increasingly focused on the pre-colonial history of Borneo, particularly what is now West Kalimantan, and on early maritime trade in the region.
 
 ## Biography
 

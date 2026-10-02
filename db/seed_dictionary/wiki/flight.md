@@ -20,6 +20,5 @@ published: false
 ## MBRAS Sources
 
 - Banks, E. Ratio of weight to wing area in animal flight. MB 8(2)
-
 ## References
 <!-- Grounded occurrences and citations -->

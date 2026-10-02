@@ -30,7 +30,6 @@ published: false
 - O’Connor, S.J. Tom Harrisson and ancient iron industry of Sarawak River delta. MB 50(1)
 - Sandin, B. Tom as I knew him. MB 49(1)
 - Tweedie, M.W.F. Tom Harrisson, archaeologist. MB 49(1)
-
 ## Bibliography
 - (1949) [A note on Sambas and Borneo. {With notes T. Harrisson](./a-note-on-sambas-and-borneo-with-notes-t-harrisson.md). *JMBRAS* 22(4): 1–15
 - (1949) [Gold and Indian influences in west Borneo](./gold-and-indian-influences-in-west-borneo.md). *JMBRAS* 22(4): 33–110

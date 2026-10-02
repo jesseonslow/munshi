@@ -97,11 +97,11 @@ articles:
 
 ## Table of Contents
 * [Diet, nutrition and excretion of the Asiatic races in Singapore](./diet-nutrition-and-excretion-of-the-asiatic-races-in-singapo.md) — [J.A. Campbell](./ja-campbell.md) (pp. 57–65)
-* [Hindustani loan-words in Malay](./hindustani-loan-words-in-malay.md) — [R.O. Winstedt](./ro-winstedt.md) (pp. 67–68)
-* *Brandstetter’s Indonesian linguistics* — [R.O. Winstedt](./ro-winstedt.md) (pp. 69–72) [Review]
-* [Foliated pattern in Malay carving and woodwork](./foliated-pattern-in-malay-carving-and-woodwork.md) — [R.O. Winstedt](./ro-winstedt.md) (pp. 73)
+* [Hindustani loan-words in Malay](./hindustani-loan-words-in-malay.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 67–68)
+* *Brandstetter’s Indonesian linguistics* — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 69–72) [Review]
+* [Foliated pattern in Malay carving and woodwork](./foliated-pattern-in-malay-carving-and-woodwork.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 73)
 * [Contributions to our knowledge of the flora of Borneo](./contributions-to-our-knowledge-of-the-flora-of-borneo.md) — [E.D. Merrill](./ed-merrill.md) (pp. 75–117)
-* [The folk-tales of Indonesia and Indo-China](./the-folk-tales-of-indonesia-and-indo-china.md) — [R.O. Winstedt](./ro-winstedt.md) (pp. 119–126)
+* [The folk-tales of Indonesia and Indo-China](./the-folk-tales-of-indonesia-and-indo-china.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 119–126)
 * [Speech at the ceremonial haircutting of a young child. .T. Dussek](./speech-at-the-ceremonial-haircutting-of-a-young-child-t-duss.md) — [O.T. Dussek](./ot-dussek.md) (pp. 127–131)
 * [Gordonia](./gordonia.md) — [I.H. Burkill](./ih-burkill.md) (pp. 133–159)
 * [Notes on Dipterocarps. {No. 2} The seedling and the seed-production in some species of Shorea](./notes-on-dipterocarps-no-2-the-seedling-and-the-seed-product.md) — [I.H. Burkill](./ih-burkill.md) (pp. 161–167)
@@ -111,7 +111,7 @@ articles:
 * [I.H. Burkill](./ih-burkill.md)
 * [J.A. Campbell](./ja-campbell.md)
 * [O.T. Dussek](./ot-dussek.md)
-* [R.O. Winstedt](./ro-winstedt.md)
+* [R.O. Winstedt](./richard-olaf-winstedt.md)
 
 ## References
 <!-- Grounded occurrences and citations -->

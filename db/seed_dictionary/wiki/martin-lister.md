@@ -19,6 +19,5 @@ published: false
 ## MBRAS Sources
 
 - Haughton, H.T. Obituary. SB 30
-
 ## References
 <!-- Grounded occurrences and citations -->

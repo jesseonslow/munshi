@@ -27,6 +27,5 @@ published: false
 - Simpson, A. Environmental politics in Thailand and Myanmar. MB 89(1) {R}
 - Kaplan, M. Postcolonial water narratives in Singapore rituals. MB 89(2)
 - Williamson, F. Heat and Colonial Weather Science. MB 95(2)
-
 ## References
 <!-- Grounded occurrences and citations -->

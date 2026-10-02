@@ -130,7 +130,7 @@ articles:
 * [Tom Harrisson, ornithologist](./tom-harrisson-ornithologist.md) — [Gathorne Gathorne-Hardy, Lord (Earl of Cranbrook) Medway](./gathorne-gathorne-hardy-lord-earl-of-cranbrook-medway.md) (pp. 143–144)
 * [Tom Harrisson: personal glimpses](./tom-harrisson-personal-glimpses.md) — [Haile N.S](./haile-ns.md) (pp. 145–146)
 * [Tom as I knew him](./tom-as-i-knew-him.md) — [B. Sandin](./b-sandin.md) (pp. 147–148)
-* [Tom Harrisson, archaeologist](./tom-harrisson-archaeologist.md) — [M.W.F. Tweedie](./mwf-tweedie.md) (pp. 149–150)
+* [Tom Harrisson, archaeologist](./tom-harrisson-archaeologist.md) — [M.W.F. Tweedie](./michael-wilmer-forbes-tweedie.md) (pp. 149–150)
 * *European sources for the history of the Sultanate of Brunei in the 16th century. . Nicholl* — [Tom Harrisson](./tom-harrisson.md) (pp. 151–152) [Review]
 
 ## Contributors
@@ -141,7 +141,7 @@ articles:
 * [Gathorne Gathorne-Hardy, Lord (Earl of Cranbrook) Medway](./gathorne-gathorne-hardy-lord-earl-of-cranbrook-medway.md)
 * [Haile N.S](./haile-ns.md)
 * [Hsu Yun-ts'iao](./hsu-yun-tsiao.md)
-* [M.W.F. Tweedie](./mwf-tweedie.md)
+* [M.W.F. Tweedie](./michael-wilmer-forbes-tweedie.md)
 * [Tom Harrisson](./tom-harrisson.md)
 * [Y.K. Lee](./yk-lee.md)
 

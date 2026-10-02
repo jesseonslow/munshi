@@ -4,7 +4,7 @@ title: Nicholas Belfield Dennys
 canonical_name: Nicholas Belfield Dennys
 aliases:
 - Dennys, N. B.
-- Dennys, N.B
+- Dennys, N.B.
 - N. B. Dennys
 - N.B. Dennys
 broader: []
@@ -24,7 +24,6 @@ published: false
 ## MBRAS Sources
 
 - Ridley, H.N. Obituary. SB 35
-
 ## Bibliography
 - (1878) [Breeding pearls](./breeding-pearls.md). *JSBRAS* 1: 31–37
 - (1878) [On the occurrence of Ophiophagus elaps, the snake-eating Hamadryad in Singapore](./on-the-occurrence-of-ophiophagus-elaps-the-snake-eating-hama.md). *JSBRAS* 1: 99–105

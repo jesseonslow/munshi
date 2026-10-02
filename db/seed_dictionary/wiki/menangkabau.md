@@ -53,6 +53,5 @@ published: false
 - Tjoa-Bonatz, M.L. Archaeology and settlement history of West Sumatra. MB 93(1) {R}
 - Winstedt, R.O. History, polity and beliefs of Negri Sembilan. MB 12(3)
 - Winstedt, R.O. An old Menangkabau legal digest from Perak. MB 26(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

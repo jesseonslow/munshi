@@ -46,6 +46,5 @@ published: false
 - Scortecchini, B. (‘B.S.’) The Lagundi (lenggundi) Vitex trifoliate. NQ Reprint 15
 - Wray, L. Gutta-producing trees. SB 12
 - Wray, L. The ipoh tree. NQ Reprint 15
-
 ## References
 <!-- Grounded occurrences and citations -->

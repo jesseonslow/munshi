@@ -30,6 +30,5 @@ published: false
 - Tol, R. Pengembaraan La Galigo [The La Galigo manuscript]. MB 93(2)
 - Van der Putten, J. Malay World literary agents. MB 93(2)
 - Wurtzburg, C.E. Baptist mission press at Bencoolen. MB 23(3)
-
 ## References
 <!-- Grounded occurrences and citations -->

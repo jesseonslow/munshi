@@ -27,6 +27,5 @@ published: false
 - A. Rahman Tang Abdullah. _Hikayat Johor dan Tawarikh Almarhum Sultan Abu Bakar_. MB 87(2) {R}
 - Candilio, A. Sultan Abu Bakar’s visit to the Pope in 1885. MB 73(1)
 - Weld, F.A. Visits of the Governor to the Maharajah of Johor. MB 95(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

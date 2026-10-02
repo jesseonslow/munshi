@@ -32,6 +32,5 @@ published: false
 - Stirling, W.G. The coffin breakers society. MB 4(1)
 - Wang Tai Peng. The word kongsi. MB 52(1)
 - Wong, A. Territorial patterns among secret societies. MB 51(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

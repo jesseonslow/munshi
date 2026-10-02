@@ -49,13 +49,13 @@ articles:
 **Date:** June 1928
 
 ## Table of Contents
-* [Kedah laws](./kedah-laws.md) — [R.O. Winstedt](./ro-winstedt.md) (pp. 1–44)
+* [Kedah laws](./kedah-laws.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 1–44)
 * [Hikayat Ganja Mara](./hikayat-ganja-mara.md) — [H. Overbeck](./h-overbeck.md) (pp. 45–79)
 * [Jawi spelling](./jawi-spelling.md) — [Zainal Abidin bin Ahmad](./zainal-abidin-bin-ahmad.md) (pp. 81–104)
 
 ## Contributors
 * [H. Overbeck](./h-overbeck.md)
-* [R.O. Winstedt](./ro-winstedt.md)
+* [R.O. Winstedt](./richard-olaf-winstedt.md)
 * [Zainal Abidin bin Ahmad](./zainal-abidin-bin-ahmad.md)
 
 ## References

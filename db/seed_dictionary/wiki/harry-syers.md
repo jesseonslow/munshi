@@ -25,6 +25,5 @@ published: false
 ## MBRAS Sources
 
 - Gullick, J.M. Syers and the Selangor police force, 1875–97. MB 51(2), Reprint 5 and Monograph 25
-
 ## References
 <!-- Grounded occurrences and citations -->

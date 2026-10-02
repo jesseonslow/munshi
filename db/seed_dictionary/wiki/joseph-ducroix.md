@@ -19,6 +19,5 @@ published: false
 ## MBRAS Sources
 
 - Metzger, L. Jospeh Ducroux, communist agent. MB 69(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

@@ -23,6 +23,5 @@ published: false
 
 - Basir Ismail. Land and agricultural policy in Malaysia: a mismatch. MB 80(2) {R}
 - Keith, H.G. A native oil-press (chandasan) from N Borneo. MB 6(3)
-
 ## References
 <!-- Grounded occurrences and citations -->

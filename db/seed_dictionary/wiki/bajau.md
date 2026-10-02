@@ -26,6 +26,5 @@ published: false
 - Headly, D. Illanun and Bajau marriage customs. MB 24(3)
 - Schneeburger, W.F. Bangi/Bajau vocabulary. MB 15(3)
 - Singh, S. On the Sulu sea. MB 58(2) {R}
-
 ## References
 <!-- Grounded occurrences and citations -->

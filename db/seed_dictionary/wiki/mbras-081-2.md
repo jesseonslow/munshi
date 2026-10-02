@@ -76,16 +76,16 @@ articles:
 **Date:** December 2008
 
 ## Table of Contents
-* [The making of a monarch: Raja Muda Sulaiman of Selangor 1865-98](./the-making-of-a-monarch-raja-muda-sulaiman-of-selangor-1865-.md) — [J.M. Gullick](./jm-gullick.md) (pp. 1–18)
+* [The making of a monarch: Raja Muda Sulaiman of Selangor 1865-98](./the-making-of-a-monarch-raja-muda-sulaiman-of-selangor-1865-.md) — [J.M. Gullick](./john-michael-gullick.md) (pp. 1–18)
 * [‘My dear treasurer’: Rajah Charles Brooke’s correspondence with F.H. Dallas, 1902-1917](./my-dear-treasurer-rajah-charles-brookes-correspondence-with-.md) — [R.H.W. Reece](./rhw-reece.md) (pp. 19–44)
 * [State museums and their representation of the past in Malaysia](./state-museums-and-their-representation-of-the-past-in-malays.md) — [Abu Talib Ahmad](./abu-talib-ahmad.md) (pp. 45–70)
 * [Jacques de Coutre as a source for the early seventeenth-century history of Singapore, the Johore river and the straits](./jacques-de-coutre-as-a-source-for-the-early-seventeenth-cent.md) — [P. Borschberg](./p-borschberg.md) (pp. 71–98)
-* [Professor Mary Turnbull. Obituary](./professor-mary-turnbull-obituary.md) — [J.M. Gullick](./jm-gullick.md) (pp. 99–101)
+* [Professor Mary Turnbull. Obituary](./professor-mary-turnbull-obituary.md) — [J.M. Gullick](./john-michael-gullick.md) (pp. 99–101)
 * *Chronicle of Malaysia, 1957-2007: fifty years of headline news* — [P. Lim Pui Huen](./p-lim-pui-huen.md) (pp. 105–107) [Review]
 
 ## Contributors
 * [Abu Talib Ahmad](./abu-talib-ahmad.md)
-* [J.M. Gullick](./jm-gullick.md)
+* [J.M. Gullick](./john-michael-gullick.md)
 * [P. Borschberg](./p-borschberg.md)
 * [P. Lim Pui Huen](./p-lim-pui-huen.md)
 * [R.H.W. Reece](./rhw-reece.md)

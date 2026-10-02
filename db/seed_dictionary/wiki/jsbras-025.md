@@ -106,20 +106,20 @@ articles:
 
 ## Table of Contents
 * [A journey to the source of the Indau](./a-journey-to-the-source-of-the-indau.md) — [H.W Lake](./hw-lake.md) (pp. 1–9)
-* [On the dispersal of seeds by mammals](./on-the-dispersal-of-seeds-by-mammals.md) — [H.N. Ridley](./hn-ridley.md) (pp. 11–32)
-* [Account of a trip up the Pahang, Tembeling, and Tahan rivers, and an attempt to reach Gunong Tahan](./account-of-a-trip-up-the-pahang-tembeling-and-tahan-rivers-a.md) — [H.J. Kelsall](./hj-kelsall.md), [H.N. Ridley](./hn-ridley.md) (pp. 33–65)
+* [On the dispersal of seeds by mammals](./on-the-dispersal-of-seeds-by-mammals.md) — [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 11–32)
+* [Account of a trip up the Pahang, Tembeling, and Tahan rivers, and an attempt to reach Gunong Tahan](./account-of-a-trip-up-the-pahang-tembeling-and-tahan-rivers-a.md) — [H.J. Kelsall](./hj-kelsall.md), [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 33–65)
 * [A catalogue of the flowering plants and ferns found growing wild in the Island of Penang](./a-catalogue-of-the-flowering-plants-and-ferns-found-growing-.md) — [C. Curtis](./c-curtis.md) (pp. 67–163)
-* [Earthquake in the Malay Peninsula](./earthquake-in-the-malay-peninsula.md) — [H.N. Ridley](./hn-ridley.md) (pp. 160–171)
-* [The botanists of Penang](./the-botanists-of-penang.md) — [H.N. Ridley](./hn-ridley.md) (pp. 163–167)
+* [Earthquake in the Malay Peninsula](./earthquake-in-the-malay-peninsula.md) — [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 160–171)
+* [The botanists of Penang](./the-botanists-of-penang.md) — [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 163–167)
 * [On the occurrence of the rare bat-hawk in Johor](./on-the-occurrence-of-the-rare-bat-hawk-in-johor.md) — [H.J. Kelsall](./hj-kelsall.md) (pp. 171–172)
-* [The bird-dropping spider (Ornithos catoides) in Johor](./the-bird-dropping-spider-ornithos-catoides-in-johor.md) — [H.N. Ridley](./hn-ridley.md) (pp. 172–173)
+* [The bird-dropping spider (Ornithos catoides) in Johor](./the-bird-dropping-spider-ornithos-catoides-in-johor.md) — [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 172–173)
 * [Notes on Gallus violaceus](./notes-on-gallus-violaceus.md) — [H.J. Kelsall](./hj-kelsall.md) (pp. 173)
 * [A Malay lullaby](./a-malay-lullaby.md) — [M. Lister](./m-lister.md) (pp. 174)
 
 ## Contributors
 * [C. Curtis](./c-curtis.md)
 * [H.J. Kelsall](./hj-kelsall.md)
-* [H.N. Ridley](./hn-ridley.md)
+* [H.N. Ridley](./henry-nicholas-ridley.md)
 * [H.W Lake](./hw-lake.md)
 * [M. Lister](./m-lister.md)
 

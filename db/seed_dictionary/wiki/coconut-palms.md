@@ -22,6 +22,5 @@ published: false
 - Hale, A. Coconut beetles. SB 22
 - Ridley, H.N. Coconut beetles. SB 20
 - Ridley, H.N. Precocious coconuts. SB 31
-
 ## References
 <!-- Grounded occurrences and citations -->

@@ -41,6 +41,5 @@ published: false
 - Shelford, R. Swarm of butterflies in Sarawak. SB 39
 - Shelford, R. List of butterflies of Borneo incl new species. SB 41
 - Shelford, R. List of butterflies of Borneo, and Nymphalinae. SB 45 and 46
-
 ## References
 <!-- Grounded occurrences and citations -->

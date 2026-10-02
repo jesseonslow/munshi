@@ -22,6 +22,5 @@ published: false
 - Chew, E. Frank Swettenham and Yap Ah Loy. MB 57(1)
 - Middlebrook, S.M. Yap Ah Loy. MB 24(1) and Reprint 9
 - Peet, G.L. A journal in the federal capital. Reprint 34
-
 ## References
 <!-- Grounded occurrences and citations -->

@@ -22,6 +22,8 @@ contributors:
   name: Kobkua Suwannathat-Pian
 - id: tan-eng-seong
   name: Tan Eng Seong
+- id: anthony-reid
+  name: Anthony Reid
 parent_hub: journal-of-the-malaysian-branch-of-the-royal-asiatic-society
 status: stub
 published: false
@@ -32,6 +34,13 @@ articles:
   authors:
   - D.K. Bassett
   pages: 1–17
+  is_review: false
+- id: jmbras-62-2-p25
+  slug: elephants-and-water
+  title: Elephants and Water in the Feasting of Seventeenth Century Aceh
+  authors:
+  - Anthony Reid
+  pages: 25–42
   is_review: false
 - id: jmbras-62-2-p45
   slug: karayuki-san-of-singapore-18771941
@@ -79,6 +88,7 @@ articles:
 
 ## Table of Contents
 * [Anglo-Kedah relations 1685–1765](./anglo-kedah-relations-16851765.md) — [D.K. Bassett](./dk-bassett.md) (pp. 1–17)
+* [Elephants and Water in the Feasting of Seventeenth Century Aceh](./elephants-and-water.md) — [Anthony Reid](./anthony-reid.md) (pp. 25–42)
 * [Karayuki-San of Singapore, 1877–1941](./karayuki-san-of-singapore-18771941.md) — [J.F. Warren](./jf-warren.md) (pp. 45–80)
 * [The Kedah succession crisis 1879–1882 {with comments by J.M. Gullick](./the-kedah-succession-crisis-18791882-with-comments-by-jm-gul.md) — [Kobkua Suwannathat-Pian](./kobkua-suwannathat-pian.md) (pp. 81–108)
 * *Malay society in the late nineteenth century: the beginnings of change. J.M. Gullick* — [Khoo Kay Kim](./khoo-kay-kim.md) (pp. 110–111) [Review]
@@ -87,6 +97,7 @@ articles:
 
 ## Contributors
 * [D.K. Bassett](./dk-bassett.md)
+* [Anthony Reid](./anthony-reid.md)
 * [J. Ongkili](./j-ongkili.md)
 * [J.F. Warren](./jf-warren.md)
 * [Khoo Kay Kim](./khoo-kay-kim.md)

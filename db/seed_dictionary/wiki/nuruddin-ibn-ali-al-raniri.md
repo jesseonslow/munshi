@@ -28,6 +28,5 @@ published: false
 - Linehan, W. Malacca, Johore and Pahang genealogies in Bustan al-Salatin. MB 11(2)
 - Winstedt, R.O. Genealogy of Malacca’s kings in Bustan al-Salatin. SB 81
 - Winstedt, R.O. Date and author of Bustan al-Salatin. SB 82
-
 ## References
 <!-- Grounded occurrences and citations -->

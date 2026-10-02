@@ -44,11 +44,10 @@ published: false
 <!-- Synthesis engine: Insert law and customs details here -->
 
 ## MBRAS Sources
-<!-- Seed entries or targeted retrieval for Marriage -->
+
 ### Law and customs
 
 - Abu Talib Ahmad. Marriage and divorce among Johor Malays during Japanese
-occupation. MB 71(2)
 - Bland, R.N. Currency: Negri Sembilan. SB 18
 - Braddell, R. SS judicial view of Chinese marriages. SB 83
 - Dunselman, P.D. Kara sera. MB 33(1) {R}
@@ -60,6 +59,5 @@ occupation. MB 71(2)
 - Skeat, W.W. The Malay boat-shaped puan. MB 22(1)
 - Winstedt, R.O. Hindu element in Malay wedding ceremony. SB 79
 - Winstedt, R.O. A Perak betrothal ceremony. MB 7(3)
-
 ## References
 <!-- Grounded occurrences and citations -->

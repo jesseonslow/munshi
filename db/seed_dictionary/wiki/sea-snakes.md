@@ -22,6 +22,5 @@ published: false
 ## MBRAS Sources
 
 - Smedley, N. An abnormal or unnamed sea-snake. MB 4(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

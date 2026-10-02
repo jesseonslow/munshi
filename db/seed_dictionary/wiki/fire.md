@@ -27,6 +27,5 @@ published: false
 
 - Freeman, D. Firewalking at Ampang, Selangor. MB 2(1)
 - Kennedy, A. Sacred fire from volcanic eruption. NQ Reprint 15
-
 ## References
 <!-- Grounded occurrences and citations -->

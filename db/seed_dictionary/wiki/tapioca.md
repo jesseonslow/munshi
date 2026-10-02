@@ -22,6 +22,5 @@ published: false
 ## MBRAS Sources
 
 - Jackson, J.C. Chinese agriculture in Singapore and Johore. MB 38(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

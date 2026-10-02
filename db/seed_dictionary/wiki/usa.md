@@ -30,6 +30,5 @@ published: false
 - Sharom Amat. American trade with Singapore, 1819–45. MB 38(2)
 - Sharom Amat. Joseph B. Balestier, US consul in Singapore, 1833–52. MB 39(2)
 - Sodhy, P. US consuls in Singapore, 1859–80. MB 56(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

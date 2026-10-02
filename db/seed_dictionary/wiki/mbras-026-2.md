@@ -31,10 +31,10 @@ articles:
 **Date:** October 1953
 
 ## Table of Contents
-* [The stone age in Malaya. Monograph No. 1](./the-stone-age-in-malaya-monograph-no-1.md) — [M.W.F. Tweedie](./mwf-tweedie.md) (pp. 1–90)
+* [The stone age in Malaya. Monograph No. 1](./the-stone-age-in-malaya-monograph-no-1.md) — [M.W.F. Tweedie](./michael-wilmer-forbes-tweedie.md) (pp. 1–90)
 
 ## Contributors
-* [M.W.F. Tweedie](./mwf-tweedie.md)
+* [M.W.F. Tweedie](./michael-wilmer-forbes-tweedie.md)
 
 ## References
 <!-- Grounded occurrences and citations -->

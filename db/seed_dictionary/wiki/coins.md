@@ -73,6 +73,5 @@ published: false
 - Sim Ewe-Tong. Ringgit. MB 47(1)
 - Wodak, E. Malayan coins and tokens. MB 23(3)
 - Wodak, E. Medals connected with Siam. MB 24(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

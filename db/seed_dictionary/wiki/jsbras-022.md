@@ -117,27 +117,27 @@ articles:
 **Date:** December 1890
 
 ## Table of Contents
-* [Raja Haji](./raja-haji.md) — [W.E. Maxwell](./we-maxwell.md) (pp. 173–224)
-* [Valentyn’s account of Malacca](./valentyns-account-of-malacca.md) — [D.F.A. Hervey](./dfa-hervey.md), [F. Valentijn](./f-valentijn.md) (pp. 225–246)
-* [The law relating to slavery among the Malays (with extracts from the Perak Code of Laws relating to slavery: the original text with transliteration and translation](./the-law-relating-to-slavery-among-the-malays-with-extracts-f.md) — [W.E. Maxwell](./we-maxwell.md) (pp. 247–297)
+* [Raja Haji](./raja-haji.md) — [W.E. Maxwell](./sir-william-edward-maxwell.md) (pp. 173–224)
+* [Valentyn’s account of Malacca](./valentyns-account-of-malacca.md) — [D.F.A. Hervey](./dudley-francis-amelius-hervey.md), [F. Valentijn](./f-valentijn.md) (pp. 225–246)
+* [The law relating to slavery among the Malays (with extracts from the Perak Code of Laws relating to slavery: the original text with transliteration and translation](./the-law-relating-to-slavery-among-the-malays-with-extracts-f.md) — [W.E. Maxwell](./sir-william-edward-maxwell.md) (pp. 247–297)
 * [Malay law in Negri Sembilan](./malay-law-in-negri-sembilan.md) — [M. Lister](./m-lister.md) (pp. 299–319)
-* [The ruling family of Selangor](./the-ruling-family-of-selangor.md) — [W.E. Maxwell](./we-maxwell.md) (pp. 321–324)
+* [The ruling family of Selangor](./the-ruling-family-of-selangor.md) — [W.E. Maxwell](./sir-william-edward-maxwell.md) (pp. 321–324)
 * [The Sphingidae of Singapore](./the-sphingidae-of-singapore.md) — [H.J. Kelsall](./hj-kelsall.md) (pp. 325–329)
-* [The Burmanniaceae of the Malay Peninsula](./the-burmanniaceae-of-the-malay-peninsula.md) — [H.N. Ridley](./hn-ridley.md) (pp. 331–339)
-* [On the so-called tiger’s milk “susu rimau” of the Malays](./on-the-so-called-tigers-milk-susu-rimau-of-the-malays.md) — [H.N. Ridley](./hn-ridley.md) (pp. 341–344)
-* [On the habits of the caringa (Formica gracilipes, Gray](./on-the-habits-of-the-caringa-formica-gracilipes-gray.md) — [H.N. Ridley](./hn-ridley.md) (pp. 345–347)
+* [The Burmanniaceae of the Malay Peninsula](./the-burmanniaceae-of-the-malay-peninsula.md) — [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 331–339)
+* [On the so-called tiger’s milk “susu rimau” of the Malays](./on-the-so-called-tigers-milk-susu-rimau-of-the-malays.md) — [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 341–344)
+* [On the habits of the caringa (Formica gracilipes, Gray](./on-the-habits-of-the-caringa-formica-gracilipes-gray.md) — [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 345–347)
 * [A bibliography of Malaya, from January, 1888 to June, 1890](./a-bibliography-of-malaya-from-january-1888-to-june-1890.md) — [C.D. Sherborn](./cd-sherborn.md) (pp. 349–428)
 * [Coconut beetles](./coconut-beetles.md) — [Hale A](./hale-a.md) (pp. 429)
 
 ## Contributors
 * [C.D. Sherborn](./cd-sherborn.md)
-* [D.F.A. Hervey](./dfa-hervey.md)
+* [D.F.A. Hervey](./dudley-francis-amelius-hervey.md)
 * [F. Valentijn](./f-valentijn.md)
 * [H.J. Kelsall](./hj-kelsall.md)
-* [H.N. Ridley](./hn-ridley.md)
+* [H.N. Ridley](./henry-nicholas-ridley.md)
 * [Hale A](./hale-a.md)
 * [M. Lister](./m-lister.md)
-* [W.E. Maxwell](./we-maxwell.md)
+* [W.E. Maxwell](./sir-william-edward-maxwell.md)
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -27,6 +27,5 @@ published: false
 
 - Skeat, W.W. Silk and cotton dyeing by the Malays. SB 38
 - Williams-Hunt, P.D.R. Use of Impatiens balsamina, Linn., for dyeing the hands. MB 24(3)
-
 ## References
 <!-- Grounded occurrences and citations -->

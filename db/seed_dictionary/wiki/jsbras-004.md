@@ -86,7 +86,7 @@ articles:
 * [The maritime code of the Malays](./the-maritime-code-of-the-malays.md) — [T.S. Raffles](./ts-raffles.md) (pp. 1–20)
 * [About Kinta](./about-kinta.md) — [H.W.C. Leech](./hwc-leech.md) (pp. 21–33)
 * [About Slim and Bernam](./about-slim-and-bernam.md) — [H.W.C. Leech](./hwc-leech.md) (pp. 34–45)
-* [The aboriginal tribes of Perak](./the-aboriginal-tribes-of-perak.md) — [W.E. Maxwell](./we-maxwell.md) (pp. 46–50)
+* [The aboriginal tribes of Perak](./the-aboriginal-tribes-of-perak.md) — [W.E. Maxwell](./sir-william-edward-maxwell.md) (pp. 46–50)
 * [On the guliga of Borneo](./on-the-guliga-of-borneo.md) — [A.H. Everett](./ah-everett.md) (pp. 56–58)
 * [Rainfall registered at the undermentioned stations, in the Straits Settlements and the Native States, during the half-year ending 31st December 1879](./rainfall-registered-at-the-undermentioned-stations-in-the-st.md) — [T.I. Rowell](./ti-rowell.md) (pp. 62)
 * [Meteorological observations taken in Singapore (Lat. 1° 17’ N. Long. 103° 51’ E.), during the year 1879](./meteorological-observations-taken-in-singapore-lat-1-17-n-lo.md) — [T.I. Rowell](./ti-rowell.md) (pp. 63–64)
@@ -96,7 +96,7 @@ articles:
 * [H.W.C. Leech](./hwc-leech.md)
 * [T.I. Rowell](./ti-rowell.md)
 * [T.S. Raffles](./ts-raffles.md)
-* [W.E. Maxwell](./we-maxwell.md)
+* [W.E. Maxwell](./sir-william-edward-maxwell.md)
 
 ## References
 <!-- Grounded occurrences and citations -->

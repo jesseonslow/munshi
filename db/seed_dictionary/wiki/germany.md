@@ -26,6 +26,5 @@ published: false
 - Kratz, E.U. 17th and 18th century German travel books. MB 54(1)
 - Warnk, H. Translations in the development of modern Malay literature. MB 80(1)
 - Warnk, H. Malay language and literature studies in Germany 1800–1945. MB 84(2)
-
 ## References
 <!-- Grounded occurrences and citations -->

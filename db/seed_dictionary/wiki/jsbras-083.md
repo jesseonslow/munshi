@@ -114,13 +114,13 @@ articles:
 * [Report on Malay studies](./report-on-malay-studies.md) — [C.O. Blagden](./co-blagden.md) (pp. 30–34)
 * [A vocabulary of Brunei Malay](./a-vocabulary-of-brunei-malay.md) — [H.B. Marshall](./hb-marshall.md) (pp. 45–74)
 * [Some Hemiptera from N.W. Borneo](./some-hemiptera-from-nw-borneo.md) — [E. Bergroth](./e-bergroth.md) (pp. 76–87)
-* [Indian and Malay beliefs](./indian-and-malay-beliefs.md) — [R.O. Winstedt](./ro-winstedt.md) (pp. 88–93)
-* [Sungai Ujong](./sungai-ujong.md) — [R.J. Wilkinson](./rj-wilkinson.md) (pp. 123–141)
-* [Occurrence of the Malayan badger or teledu in Borneo](./occurrence-of-the-malayan-badger-or-teledu-in-borneo.md) — [J.C. Moulton](./jc-moulton.md) (pp. 142–146)
+* [Indian and Malay beliefs](./indian-and-malay-beliefs.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 88–93)
+* [Sungai Ujong](./sungai-ujong.md) — [R.J. Wilkinson](./richard-james-wilkinson.md) (pp. 123–141)
+* [Occurrence of the Malayan badger or teledu in Borneo](./occurrence-of-the-malayan-badger-or-teledu-in-borneo.md) — [J.C. Moulton](./john-coney-moulton.md) (pp. 142–146)
 * [Malaysian bearded pigs](./malaysian-bearded-pigs.md) — [C.B. Kloss](./cb-kloss.md) (pp. 147–150)
 * [A new squirrel from North Sarawak](./a-new-squirrel-from-north-sarawak.md) — [C.B. Kloss](./cb-kloss.md) (pp. 151–152)
 * [Chinese marriages, as regarded by the Supreme Court of the Straits Settlements](./chinese-marriages-as-regarded-by-the-supreme-court-of-the-st.md) — [R. Braddell](./r-braddell.md) (pp. 153–165)
-* [Odoardo Beccari](./odoardo-beccari.md) — [I.H. Burkill](./ih-burkill.md), [J.C. Moulton](./jc-moulton.md) (pp. 166–173)
+* [Odoardo Beccari](./odoardo-beccari.md) — [I.H. Burkill](./ih-burkill.md), [J.C. Moulton](./john-coney-moulton.md) (pp. 166–173)
 
 ## Contributors
 * [C.B. Kloss](./cb-kloss.md)
@@ -128,10 +128,10 @@ articles:
 * [E. Bergroth](./e-bergroth.md)
 * [H.B. Marshall](./hb-marshall.md)
 * [I.H. Burkill](./ih-burkill.md)
-* [J.C. Moulton](./jc-moulton.md)
+* [J.C. Moulton](./john-coney-moulton.md)
 * [R. Braddell](./r-braddell.md)
-* [R.J. Wilkinson](./rj-wilkinson.md)
-* [R.O. Winstedt](./ro-winstedt.md)
+* [R.J. Wilkinson](./richard-james-wilkinson.md)
+* [R.O. Winstedt](./richard-olaf-winstedt.md)
 
 ## References
 <!-- Grounded occurrences and citations -->

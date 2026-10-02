@@ -41,7 +41,7 @@ published: false
 - Khoo Kay Kim. Origin of British administration in Malaya. MB 39(1)
 - Kratoska, P.H. Talks given at the Colonial Institute 1874–1928. MB 57(1) {R}
 - Langdon, M. Penang: the fourth presidency of India 1805–30 Vol. 3. MB 95(2) {R}
-- Lim Teckwyn. First Contact between the British and Orang Asli. MB 94(2)
+- Teckwyn Lim. First Contact between the British and Orang Asli. MB 94(2)
 - Loh Fook-Seng. Malay precedence and the federal formula, 1909–39. MB 45(2)
 - Maxwell, W.E. English trade with Perak. NQ Reprint 15
 - Mills, L.A. British Malaya, 1824–67. MB 3(2) and 33(3)
@@ -67,6 +67,5 @@ published: false
 - Wong Yee Tuan. John Archibald Russell and his businesses in Malaya. MB 83(1)
 - Wray, L. An Account of Affairs in Larut. MB 94(1)
 - Yeo Kim-Wah. Guillemard-Maxwell power struggle, 1921–5. MB 54(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

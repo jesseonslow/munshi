@@ -30,6 +30,5 @@ published: false
 - Morgan, J. de. Explorations in the Perak interior. Monograph 51
 - Skeat, W.W. Cambridge expedition (1899–1900). MB 26(4)
 - Van Wyhe, J. Ida Pfeiffer. MB 94(1) {R}
-
 ## References
 <!-- Grounded occurrences and citations -->

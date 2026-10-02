@@ -78,9 +78,9 @@ articles:
 **Date:** December 1938
 
 ## Table of Contents
-* [The date, authorship, contents and some new Mss. of the Malay romance of Alexander the Great](./the-date-authorship-contents-and-some-new-mss-of-the-malay-r.md) — [R.O. Winstedt](./ro-winstedt.md) (pp. 1–23)
-* [The chronicles of Pasai](./the-chronicles-of-pasai.md) — [R.O. Winstedt](./ro-winstedt.md) (pp. 24–30)
-* [The Kedah Annals](./the-kedah-annals.md) — [R.O. Winstedt](./ro-winstedt.md) (pp. 31–35)
+* [The date, authorship, contents and some new Mss. of the Malay romance of Alexander the Great](./the-date-authorship-contents-and-some-new-mss-of-the-malay-r.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 1–23)
+* [The chronicles of Pasai](./the-chronicles-of-pasai.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 24–30)
+* [The Kedah Annals](./the-kedah-annals.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 31–35)
 * [Origin of the Malay keris](./origin-of-the-malay-keris.md) — [G.C. Woolley](./gc-woolley.md) (pp. 36–39)
 * [A new book on the keris](./a-new-book-on-the-keris.md) — [G.C. Woolley](./gc-woolley.md) (pp. 40–43)
 * [Keris measurements](./keris-measurements.md) — [G.C. Woolley](./gc-woolley.md) (pp. 44–46)
@@ -89,7 +89,7 @@ articles:
 ## Contributors
 * [G.C. Woolley](./gc-woolley.md)
 * [J.A. Baker](./ja-baker.md)
-* [R.O. Winstedt](./ro-winstedt.md)
+* [R.O. Winstedt](./richard-olaf-winstedt.md)
 
 ## References
 <!-- Grounded occurrences and citations -->

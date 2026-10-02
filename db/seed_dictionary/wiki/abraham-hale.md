@@ -19,6 +19,5 @@ published: false
 ## MBRAS Sources
 
 - Winstedt, R.O. Obituary. SB 81
-
 ## References
 <!-- Grounded occurrences and citations -->

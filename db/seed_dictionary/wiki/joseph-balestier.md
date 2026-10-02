@@ -21,6 +21,5 @@ published: false
 ## MBRAS Sources
 
 - Sharom Ahmat. Joseph B. Balestier US consul. MB 39(2)
-
 ## References
 <!-- Grounded occurrences and citations -->

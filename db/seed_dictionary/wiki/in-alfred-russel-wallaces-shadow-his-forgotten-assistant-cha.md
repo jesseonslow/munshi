@@ -23,7 +23,7 @@ status: stub
 published: false
 ---
 
-# In Alfred Russel Wallace’s shadow: his forgotten assistant: Charles Allen (1839–1892
+# In Alfred Russel Wallace’s shadow: his forgotten assistant: Charles Allen (1839–1892)
 
 ## Overview
 <!-- Synthesis engine: Insert article overview here -->

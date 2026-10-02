@@ -22,6 +22,5 @@ published: false
 - Chasen, F.N. Miniopterus medius in Malaya. MB 4(1)
 - Ridley, H.N. Bats in a bamboo. SB 50
 - Ridley, H.N. White-winged bat in Singapore. SB 31
-
 ## References
 <!-- Grounded occurrences and citations -->

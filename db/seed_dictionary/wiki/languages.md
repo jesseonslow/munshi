@@ -123,7 +123,7 @@ published: false
 <!-- Synthesis engine: Insert sanskrit details here -->
 
 ## MBRAS Sources
-<!-- Seed entries or targeted retrieval for Languages -->
+
 ### Malay
 
 - Maxwell, C.N. Light in the Malay language. MB 14(3)
@@ -278,15 +278,12 @@ published: false
 - Blagden, C.O. From central India to Polynesia. SB 53 and 54
 - Van Reijn, E.O. Kerintji dialects and Mon-Khmer languages. MB 47(2)
 - Wilkinson, R.J. Indonesian numerals. SB 28
-
 ### Chinese
-<!-- Seed entries or targeted retrieval for Languages: Chinese -->
+
 ### Tamil
 
 - Subbiah, R. A lexical study of Tamil dialects in lower Perak. MB 40(1) {R}
 
 ### Sanskrit
-<!-- Seed entries or targeted retrieval for Languages: Sanskrit -->
-
 ## References
 <!-- Grounded occurrences and citations -->

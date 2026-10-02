@@ -10,7 +10,7 @@ authors:
 - Nigel Brailey
 - David P. Chandler
 - Cheah Boon Kheng
-- John Gullick
+- John Michael Gullick
 - John D. Legge
 - Jamie Mackie
 - Ruth T. McVey

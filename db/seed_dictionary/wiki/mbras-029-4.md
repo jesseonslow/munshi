@@ -35,10 +35,10 @@ articles:
 **Date:** None 1956
 
 ## Table of Contents
-* [The keris and other Malay weapons, A.H. Hill; keris types and terms, Geoffrey Hodgson](./the-keris-and-other-malay-weapons-ah-hill-keris-types-and-te.md) — [A.H. Hill](./ah-hill.md), [G. Hodgson](./g-hodgson.md) (pp. 1–98)
+* [The keris and other Malay weapons, A.H. Hill; keris types and terms, Geoffrey Hodgson](./the-keris-and-other-malay-weapons-ah-hill-keris-types-and-te.md) — [A.H. Hill](./anthony-haydock-hill.md), [G. Hodgson](./g-hodgson.md) (pp. 1–98)
 
 ## Contributors
-* [A.H. Hill](./ah-hill.md)
+* [A.H. Hill](./anthony-haydock-hill.md)
 * [G. Hodgson](./g-hodgson.md)
 
 ## References

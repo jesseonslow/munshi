@@ -105,23 +105,23 @@ articles:
 **Date:** December 1912
 
 ## Table of Contents
-* [An expedition to Mount Batu Lawi](./an-expedition-to-mount-batu-lawi.md) — [J.C. Moulton](./jc-moulton.md) (pp. 1–58)
-* [Some plants collected on Mr. Moulton’s expedition to Batu Lawi](./some-plants-collected-on-mr-moultons-expedition-to-batu-lawi.md) — [H.N. Ridley](./hn-ridley.md) (pp. 59–60)
+* [An expedition to Mount Batu Lawi](./an-expedition-to-mount-batu-lawi.md) — [J.C. Moulton](./john-coney-moulton.md) (pp. 1–58)
+* [Some plants collected on Mr. Moulton’s expedition to Batu Lawi](./some-plants-collected-on-mr-moultons-expedition-to-batu-lawi.md) — [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 59–60)
 * [Orchids collected on Mr. Moulton’s expedition to Mt. Batu Lawi](./orchids-collected-on-mr-moultons-expedition-to-mt-batu-lawi.md) — [J.J. Smith](./jj-smith.md) (pp. 63–70)
 * [The ferns of the Batu Lawi expedition](./the-ferns-of-the-batu-lawi-expedition.md) — [E.B. Copeland](./eb-copeland.md) (pp. 71–72)
-* [Mammals taken on the Batu Lawi expedition](./mammals-taken-on-the-batu-lawi-expedition.md) — [J.C. Moulton](./jc-moulton.md) (pp. 72–73)
-* [Birds taken on the Batu Lawi expedition](./birds-taken-on-the-batu-lawi-expedition.md) — [J.C. Moulton](./jc-moulton.md) (pp. 74–77)
-* [Butterflies taken on the Batu Lawi expedition](./butterflies-taken-on-the-batu-lawi-expedition.md) — [J.C. Moulton](./jc-moulton.md) (pp. 77–88)
+* [Mammals taken on the Batu Lawi expedition](./mammals-taken-on-the-batu-lawi-expedition.md) — [J.C. Moulton](./john-coney-moulton.md) (pp. 72–73)
+* [Birds taken on the Batu Lawi expedition](./birds-taken-on-the-batu-lawi-expedition.md) — [J.C. Moulton](./john-coney-moulton.md) (pp. 74–77)
+* [Butterflies taken on the Batu Lawi expedition](./butterflies-taken-on-the-batu-lawi-expedition.md) — [J.C. Moulton](./john-coney-moulton.md) (pp. 77–88)
 * [A new Gryllacrid](./a-new-gryllacrid.md) — [A. Griffini](./a-griffini.md) (pp. 89–91)
 * [List of the Odonata taken on an expedition to Mt. Batu Lawi together with descriptions of supposed new species](./list-of-the-odonata-taken-on-an-expedition-to-mt-batu-lawi-t.md) — [F.F. Laidlaw](./ff-laidlaw.md) (pp. 92–99)
-* [Some words in use among the natives met on the journey to Batu Lawi](./some-words-in-use-among-the-natives-met-on-the-journey-to-ba.md) — [J.C. Moulton](./jc-moulton.md) (pp. 100–104)
+* [Some words in use among the natives met on the journey to Batu Lawi](./some-words-in-use-among-the-natives-met-on-the-journey-to-ba.md) — [J.C. Moulton](./john-coney-moulton.md) (pp. 100–104)
 
 ## Contributors
 * [A. Griffini](./a-griffini.md)
 * [E.B. Copeland](./eb-copeland.md)
 * [F.F. Laidlaw](./ff-laidlaw.md)
-* [H.N. Ridley](./hn-ridley.md)
-* [J.C. Moulton](./jc-moulton.md)
+* [H.N. Ridley](./henry-nicholas-ridley.md)
+* [J.C. Moulton](./john-coney-moulton.md)
 * [J.J. Smith](./jj-smith.md)
 
 ## References

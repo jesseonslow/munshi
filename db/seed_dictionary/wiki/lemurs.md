@@ -19,6 +19,5 @@ published: false
 ## MBRAS Sources
 
 - Ridley, H.N. Use of the slow loris in Malay medicine. SB 34
-
 ## References
 <!-- Grounded occurrences and citations -->

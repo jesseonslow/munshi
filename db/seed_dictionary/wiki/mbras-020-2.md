@@ -172,11 +172,11 @@ articles:
 * [The kings of 14th century Singapore](./the-kings-of-14th-century-singapore.md) — [W. Linehan](./w-linehan.md) (pp. 117–127)
 * [The prince of Chini](./the-prince-of-chini.md) — [W. Linehan](./w-linehan.md) (pp. 127–136)
 * [Notes on the Orang Laut of Ulu Kepasing, Pahang](./notes-on-the-orang-laut-of-ulu-kepasing-pahang.md) — [E. Windsor](./e-windsor.md) (pp. 137–139)
-* [Notes on the Cocos-Keeling Islands](./notes-on-the-cocos-keeling-islands.md) — [C.A. Gibson-Hill](./ca-gibson-hill.md) (pp. 140–202)
+* [Notes on the Cocos-Keeling Islands](./notes-on-the-cocos-keeling-islands.md) — [C.A. Gibson-Hill](./carl-alexander-gibson-hill.md) (pp. 140–202)
 
 ## Contributors
 * [Abu Bakar bin Pawanchee](./abu-bakar-bin-pawanchee.md)
-* [C.A. Gibson-Hill](./ca-gibson-hill.md)
+* [C.A. Gibson-Hill](./carl-alexander-gibson-hill.md)
 * [E. Banks](./e-banks.md)
 * [E. Windsor](./e-windsor.md)
 * [G.C. Woolley](./gc-woolley.md)

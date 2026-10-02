@@ -21,6 +21,5 @@ published: false
 ## MBRAS Sources
 
 - Wright, N.H. Nepotism and patronage in Francis Bernard’s career. MB 89(2)
-
 ## References
 <!-- Grounded occurrences and citations -->

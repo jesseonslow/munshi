@@ -31,6 +31,5 @@ published: false
 - Bruce, A. Early mosques of the Malaysian Peninsula. MB 69(2)
 - Kern, R.A. The origin of the Malay surau. MB 29(1)
 - Sheppard, M. The new pulpit in the national mosque. MB 67(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

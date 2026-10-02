@@ -41,11 +41,11 @@ articles:
 
 ## Table of Contents
 * [Notes on the folk-lore and popular religion of the Malays](./notes-on-the-folk-lore-and-popular-religion-of-the-malays.md) — [C.O. Blagden](./co-blagden.md) (pp. 1–12)
-* [A vocabulary of the Besisi dialect](./a-vocabulary-of-the-besisi-dialect.md) — [W.W. Skeat](./ww-skeat.md) (pp. 13–31)
+* [A vocabulary of the Besisi dialect](./a-vocabulary-of-the-besisi-dialect.md) — [W.W. Skeat](./walter-william-skeat.md) (pp. 13–31)
 
 ## Contributors
 * [C.O. Blagden](./co-blagden.md)
-* [W.W. Skeat](./ww-skeat.md)
+* [W.W. Skeat](./walter-william-skeat.md)
 
 ## References
 <!-- Grounded occurrences and citations -->

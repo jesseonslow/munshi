@@ -170,7 +170,7 @@ articles:
 * [Social memory and Indian women from Malaya and Singapore in the Rani of Jhansi regiment](./social-memory-and-indian-women-from-malaya-and-singapore-in-.md) — [A. Datta](./a-datta.md) (pp. 77–103)
 * [The formation of the Malayan Chinese Association (MCA) revisited](./the-formation-of-the-malayan-chinese-association-mca-revisit.md) — [Tan Miau Ing](./tan-miau-ing.md) (pp. 105–124)
 * [Memoir of R. Balan, vice-president of the Malayan Communist Party](./memoir-of-r-balan-vice-president-of-the-malayan-communist-pa.md) — [W. Cheah](./w-cheah.md) (pp. 129–138)
-* [In memoriam: K.G. Tregonning](./in-memoriam-kg-tregonning.md) — [Anon (and unidentifiable initials)](./anon-and-unidentifiable-initials.md) (pp. 157–159)
+* [In memoriam: K.G. Tregonning](./in-memoriam-kg-tregonning.md) — [Anon](./anon-and-unidentifiable-initials.md) (pp. 157–159)
 * *Temiar religion 1964‒2012: enchantment, disenchantment and re-enchantment in Malaysia’s uplands. G. Benjamin* — [S.K. Manickam](./sk-manickam.md) (pp. 161–165) [Review]
 * *Templer and the road to Malayan independence: the man and his time. L. Comber* — [Kobkua Suwannathat-Pian](./kobkua-suwannathat-pian.md) (pp. 166–167) [Review]
 * *The seductive warp thread: an evolutionary history of Ibanic weaving. M. Heppell* — [Ooi Keat Gin](./ooi-keat-gin.md) (pp. 168–171) [Review]
@@ -182,7 +182,7 @@ articles:
 
 ## Contributors
 * [A. Datta](./a-datta.md)
-* [Anon (and unidentifiable initials)](./anon-and-unidentifiable-initials.md)
+* [Anon](./anon-and-unidentifiable-initials.md)
 * [C. Eaton](./c-eaton.md)
 * [C.M. Joll](./cm-joll.md)
 * [H.S. Barlow](./hs-barlow.md)

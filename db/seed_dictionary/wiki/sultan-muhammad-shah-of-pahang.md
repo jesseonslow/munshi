@@ -21,6 +21,5 @@ published: false
 ## MBRAS Sources
 
 - Linehan, W. Tomb-stones of Muhammad Shah I of Pahang. MB 4(2)
-
 ## References
 <!-- Grounded occurrences and citations -->

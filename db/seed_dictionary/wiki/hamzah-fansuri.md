@@ -23,6 +23,5 @@ published: false
 - al-Attas, Naguib, Syed. Raniri and _wujudiyyah_ of 17th century Acheh. Monograph 3.
 - Brakel, L.F. Birth of Hamzah Pansuri. MB 42(2)
 - Brakel, L.F. Hamza Pansuri: Yoga practices etc. MB 52(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

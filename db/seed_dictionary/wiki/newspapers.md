@@ -38,6 +38,5 @@ published: false
 - Thum Ping Tjin. Chinese newspapers in Singapore, 1945–63. MB 83(1)
 - Turnbull, C.M. 150 years of the Straits Times. MB 69(2) {R}
 - Zainal Abidin bin Ahmad. Malay journalism. MB 19(2)
-
 ## References
 <!-- Grounded occurrences and citations -->

@@ -22,6 +22,5 @@ published: false
 
 - Bartlett, E. Crocodiles and lizards of Borneo in Sarawak Museum. SB 28
 - Clifford, H.C. The crocodile. NQ Reprint 15
-
 ## References
 <!-- Grounded occurrences and citations -->

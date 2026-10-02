@@ -108,11 +108,11 @@ articles:
 * [Chinese newspapers in Singapore, 1945–1963: mediators of elite and popular tastes in culture and politics](./chinese-newspapers-in-singapore-19451963-mediators-of-elite-.md) — [Thum Ping Tjin](./thum-ping-tjin.md) (pp. 53–76)
 * [Britain, the Tunku and West New Guinea 1957–1963](./britain-the-tunku-and-west-new-guinea-19571963.md) — [N. Tarling](./n-tarling.md) (pp. 77–90)
 * [Planters, estate health and malaria in British Malaya (1900‒1940](./planters-estate-health-and-malaria-in-british-malaya-1900194.md) — [Liew Kai Khiun](./liew-kai-khiun.md) (pp. 91–115)
-* [Oxford Dictionary of National Biography](./oxford-dictionary-of-national-biography.md) — [Anon (and unidentifiable initials)](./anon-and-unidentifiable-initials.md) (pp. 117–120)
+* [Oxford Dictionary of National Biography](./oxford-dictionary-of-national-biography.md) — [Anon](./anon-and-unidentifiable-initials.md) (pp. 117–120)
 * *Singapore literature in English: an annotated bibliography. Koh Tai Ann (comp.* — [Leong Liew Geok](./leong-liew-geok.md) (pp. 124–126) [Review]
 
 ## Contributors
-* [Anon (and unidentifiable initials)](./anon-and-unidentifiable-initials.md)
+* [Anon](./anon-and-unidentifiable-initials.md)
 * [D. Kraal](./d-kraal.md)
 * [Kwa Chong Guan](./kwa-chong-guan.md)
 * [Leong Liew Geok](./leong-liew-geok.md)

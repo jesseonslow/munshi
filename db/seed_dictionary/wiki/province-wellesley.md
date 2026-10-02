@@ -23,6 +23,5 @@ published: false
 - Maxwell, W.E. Trip to Patani frontier in 1876. SB 9 and SB 19
 - Sullivan, M. Excavations in Kedah and Province Wellesley. MB 31(1)
 - Vaillant, A. Penang and Province Wellesley in 1837. tr. C. Dyer. MB 90(2)
-
 ## References
 <!-- Grounded occurrences and citations -->

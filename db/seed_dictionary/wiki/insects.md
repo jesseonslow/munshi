@@ -53,6 +53,5 @@ published: false
 - Moulton, J.C. List of Bornean Cicadidae. SB 57
 - Murphy, D.H. _Tullbergia_ (_Stenaphorura_) _gibsoni_ n.sp. (Collembola, Onychiuridae) from grasslands in Singapore. MB 38(2)
 - Ridley, H.N. Stick-insects destroying orchids. SB 26
-
 ## References
 <!-- Grounded occurrences and citations -->

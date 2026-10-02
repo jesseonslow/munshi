@@ -25,6 +25,5 @@ published: false
 - Maxwell, W.E. Baskets for carrying loads. NQ Reprint 15
 - Swayne, J.C. Rejang basket from Sarawak. MB 11(2)
 - Woolley, G.C. Murut basketwork patterns. MB 7(2)
-
 ## References
 <!-- Grounded occurrences and citations -->

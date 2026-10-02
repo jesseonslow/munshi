@@ -20,7 +20,5 @@ published: false
 ## MBRAS Sources
 
 - Butler, A.L. Rhinoceros hornbill (Buceros rhinoceros). SB 32
-Moulton, J.C. An insectivorous hornbill. SB 54
-
 ## References
 <!-- Grounded occurrences and citations -->

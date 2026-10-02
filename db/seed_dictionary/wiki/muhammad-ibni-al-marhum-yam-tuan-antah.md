@@ -22,6 +22,5 @@ published: false
 
 - Birch, E.W. Election and installation of Yam Tuan Muhammad. SB 46
 - Bryson, H.P. Funeral of Yam Tuan Muhammad. MB 14(3)
-
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,6 +25,5 @@ published: false
 - Needham, R. Negritos of N Pahang. MB 49(2)
 - Quatrefages, A. de. Pygmies in classical literature and in SEA. SB 11 and 13
 - Schebesta, P. Forest dwarfs of Malaya. MB 7(3) {R}
-
 ## References
 <!-- Grounded occurrences and citations -->

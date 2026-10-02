@@ -31,7 +31,6 @@ published: false
 - Gibson-Hill, C.A. Introduction to Skeat’s expedition journal. MB 26(4)
 - Gullick, J.M. W.W. Skeat as ethnographer. MB 61(1)
 - Laidlaw, F.F. Obituary. MB 26(1)
-
 ## Bibliography
 - (1896) [A vocabulary of the Besisi dialect](./a-vocabulary-of-the-besisi-dialect.md). *JSBRAS* 29: 13–31
 - (1898) [Some records of Malay magic by an eye-witness](./some-records-of-malay-magic-by-an-eye-witness.md). *JSBRAS* 31: 1–41

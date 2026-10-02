@@ -22,6 +22,5 @@ published: false
 - Keith, H.G. A few ulun-no-bokan (Murut) taboos. MB 14(3)
 - Lister, M. Pantang larang in Negri Sembilan. SB 23
 - Winstedt, R.O. Royal tabus in Negri Sembilan. MB 7(3)
-
 ## References
 <!-- Grounded occurrences and citations -->

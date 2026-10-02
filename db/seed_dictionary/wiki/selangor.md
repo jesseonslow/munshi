@@ -68,7 +68,7 @@ published: false
 <!-- Synthesis engine: Insert description and travel details here -->
 
 ## MBRAS Sources
-<!-- Seed entries or targeted retrieval for Selangor -->
+
 ### Description and travel
 
 - Daly, D.D. Batu caves. SB 3
@@ -107,8 +107,5 @@ published: false
 - Winstedt, R.O. A history of Selangor. MB 12(3)
 
 ### Antiquities
-
-
-
 ## References
 <!-- Grounded occurrences and citations -->

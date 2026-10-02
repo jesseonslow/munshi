@@ -140,10 +140,10 @@ articles:
 * [Berunai in the Boxer Codex: with commentary](./berunai-in-the-boxer-codex-with-commentary.md) — [J.S. Carroll](./js-carroll.md) (pp. 1–25)
 * [Ancient sculptures from Tambon Na San, Nakhon Si Thammarat Province, Peninsular Thailand](./ancient-sculptures-from-tambon-na-san-nakhon-si-thammarat-pr.md) — [S.J. O'Connor](./sj-oconnor.md) (pp. 60–61)
 * [Kedah-Siamese correspondence, 1890–1898 {with translations of 10 letters on the Perlis affairs](./kedah-siamese-correspondence-18901898-with-translations-of-1.md) — [Kobkua Suwannathat-Pian](./kobkua-suwannathat-pian.md) (pp. 62–86)
-* [Emily Innes, 1843–1927](./emily-innes-18431927.md) — [J.M. Gullick](./jm-gullick.md) (pp. 87–114)
+* [Emily Innes, 1843–1927](./emily-innes-18431927.md) — [J.M. Gullick](./john-michael-gullick.md) (pp. 87–114)
 * [Supernatural etiologies of illness in Central Northern Borneo](./supernatural-etiologies-of-illness-in-central-northern-borne.md) — [P. Metcalf](./p-metcalf.md) (pp. 115–125)
 * [The lost manuscript of the Hikayat Abdullah “Munshi”](./the-lost-manuscript-of-the-hikayat-abdullah-munshi.md) — [H.F. O'B. Traill](./hf-ob-traill.md) (pp. 126–134)
-* *A collection of treaties and other documents affecting the states of Malaysia, 1761–1963. . de V. Allen, A.J* — [J.M. Gullick](./jm-gullick.md), [Stockwell](./stockwell.md), [L.R. Wright](./lr-wright.md) (pp. 135–137) [Review]
+* *A collection of treaties and other documents affecting the states of Malaysia, 1761–1963. . de V. Allen, A.J* — [J.M. Gullick](./john-michael-gullick.md), [Stockwell](./stockwell.md), [L.R. Wright](./lr-wright.md) (pp. 135–137) [Review]
 * *The road to power: Indonesian military politics, 1945–1967. U. Sundhaussen* — [W.J.V. Cook](./wjv-cook.md) (pp. 138–139) [Review]
 * *The Marquis: a tale of Syonan-To. E.J.H. Corner* — [H. Cortazzi](./h-cortazzi.md) (pp. 139–140) [Review]
 * *The Bengal Muslims, 1871–1906: a quest for identity. Rafiuddin Ahmed* — [Muhammad Kamlin](./muhammad-kamlin.md) (pp. 141–144) [Review]
@@ -154,7 +154,7 @@ articles:
 * [C. Sather](./c-sather.md)
 * [H. Cortazzi](./h-cortazzi.md)
 * [H.F. O'B. Traill](./hf-ob-traill.md)
-* [J.M. Gullick](./jm-gullick.md)
+* [J.M. Gullick](./john-michael-gullick.md)
 * [J.S. Carroll](./js-carroll.md)
 * [Kobkua Suwannathat-Pian](./kobkua-suwannathat-pian.md)
 * [L.R. Wright](./lr-wright.md)

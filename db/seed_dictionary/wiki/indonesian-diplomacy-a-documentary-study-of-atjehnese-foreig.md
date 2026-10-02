@@ -8,7 +8,7 @@ canonical_name: 'Indonesian diplomacy: a documentary study of Atjehnese foreign 
 type: article
 article_type: article
 authors:
-- A.J.S. Reid
+- Anthony Reid
 year: 1969
 journal_code: JMBRAS
 volume: 42

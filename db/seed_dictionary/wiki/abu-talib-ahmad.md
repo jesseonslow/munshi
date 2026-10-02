@@ -21,7 +21,6 @@ published: false
 ## MBRAS Sources
 
 - Kratoska, P.H. (comp) Publications by Prof. Dato Abu Talib Ahmad. MB 98(1)
-
 ## Bibliography
 - (1998) [Marriage and divorce in Johore among Malay-Muslims during the Japanese occupation, 1942–1945](./marriage-and-divorce-in-johore-among-malay-muslims-during-th.md). *JMBRAS* 71(2): 63–90
 - (2003) [The Malay Muslims, Islam and the Rising Sun](./the-malay-muslims-islam-and-the-rising-sun.md). *Monograph* 34: 288

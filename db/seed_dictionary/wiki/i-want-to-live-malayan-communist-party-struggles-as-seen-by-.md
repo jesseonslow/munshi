@@ -19,12 +19,21 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+keywords: ["Malaya", "Malaysia", "women in the MCP", "Malayan Communist Party", "war and revolution", "female defectors"]
 ---
 
 # 'I Want to Live': Malayan Communist Party Struggles as Seen by Female Defectors
 
+## Abstract
+
+The voices of women defectors from the Malayan Communist Party (MCP) rarely feature in the MCP’s grand narrative of its struggle for liberation in Malaya or in accounts prepared by party veterans, and only become visible through the prism of government propaganda. Using published memoirs, interview material from the Oral History Centre at Universiti Kebangsaan Malaysia (UKM), and personal interviews with two former women cadres of the MCP, this article focuses on the views of women who defected before the signing of the 1989 Haadyai Peace Accord. It provides the perspective of ordinary members on the MCP’s ideas regarding war and revolution, and the position of women.
+
 ## Overview
 <!-- Synthesis engine: Insert article overview here -->
+
+## Author's Acknowledgement
+
+This study was funded by Universiti Sains Malaysia’s 2021 Programme: History@ USM-Revival and Re-Narratives (311.PHUMANITI.411958). The author is grateful to the anonymous reviewers for their constructive comments and suggestions, which improved the paper significantly.
 
 ## References
 <!-- Grounded occurrences and citations -->

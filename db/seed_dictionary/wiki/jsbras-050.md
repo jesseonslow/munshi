@@ -116,25 +116,25 @@ articles:
 **Date:** September 1908
 
 ## Table of Contents
-* [A list of the ferns of the Malay Peninsula](./a-list-of-the-ferns-of-the-malay-peninsula.md) — [H.N. Ridley](./hn-ridley.md) (pp. 1–59)
+* [A list of the ferns of the Malay Peninsula](./a-list-of-the-ferns-of-the-malay-peninsula.md) — [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 1–59)
 * [Some visits to Batam Island](./some-visits-to-batam-island.md) — [C.B. Kloss](./cb-kloss.md) (pp. 61–71)
 * [Some ethnological notes](./some-ethnological-notes.md) — [C.B. Kloss](./cb-kloss.md) (pp. 73–77)
 * [The white-handed gibbon](./the-white-handed-gibbon.md) — [C.B. Kloss](./cb-kloss.md) (pp. 79–80)
-* [Father Civet](./father-civet.md) — [R.O. Winstedt](./ro-winstedt.md) (pp. 85–86)
-* [Sindbad’s old man of the sea](./sindbads-old-man-of-the-sea.md) — [W.G. Maxwell](./wg-maxwell.md) (pp. 91–95)
-* [Spada](./spada.md) — [W.G. Maxwell](./wg-maxwell.md) (pp. 97–98)
+* [Father Civet](./father-civet.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 85–86)
+* [Sindbad’s old man of the sea](./sindbads-old-man-of-the-sea.md) — [W.G. Maxwell](./sir-william-george-maxwell.md) (pp. 91–95)
+* [Spada](./spada.md) — [W.G. Maxwell](./sir-william-george-maxwell.md) (pp. 97–98)
 * [Two new species of Cicindela (Tiger beetles) from Borneo](./two-new-species-of-cicindela-tiger-beetles-from-borneo.md) — [W. Horn](./w-horn.md) (pp. 99–102)
-* [Bats in a bamboo](./bats-in-a-bamboo.md) — [H.N. Ridley](./hn-ridley.md) (pp. 103–104)
-* [The labiates of the Malay Peninsula](./the-labiates-of-the-malay-peninsula.md) — [H.N. Ridley](./hn-ridley.md) (pp. 105–107)
-* [The crackling moth](./the-crackling-moth.md) — [H.N. Ridley](./hn-ridley.md) (pp. 109–110)
-* [New or rare Malayan plants](./new-or-rare-malayan-plants.md) — [H.N. Ridley](./hn-ridley.md) (pp. 111–152)
+* [Bats in a bamboo](./bats-in-a-bamboo.md) — [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 103–104)
+* [The labiates of the Malay Peninsula](./the-labiates-of-the-malay-peninsula.md) — [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 105–107)
+* [The crackling moth](./the-crackling-moth.md) — [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 109–110)
+* [New or rare Malayan plants](./new-or-rare-malayan-plants.md) — [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 111–152)
 
 ## Contributors
 * [C.B. Kloss](./cb-kloss.md)
-* [H.N. Ridley](./hn-ridley.md)
-* [R.O. Winstedt](./ro-winstedt.md)
+* [H.N. Ridley](./henry-nicholas-ridley.md)
+* [R.O. Winstedt](./richard-olaf-winstedt.md)
 * [W. Horn](./w-horn.md)
-* [W.G. Maxwell](./wg-maxwell.md)
+* [W.G. Maxwell](./sir-william-george-maxwell.md)
 
 ## References
 <!-- Grounded occurrences and citations -->

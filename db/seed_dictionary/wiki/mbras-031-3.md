@@ -31,10 +31,10 @@ articles:
 **Date:** June 1958
 
 ## Table of Contents
-* [A history of classical Malay literature. Rev. ed](./a-history-of-classical-malay-literature-rev-ed.md) — [R.O. Winstedt](./ro-winstedt.md) (pp. 1–259)
+* [A history of classical Malay literature. Rev. ed](./a-history-of-classical-malay-literature-rev-ed.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 1–259)
 
 ## Contributors
-* [R.O. Winstedt](./ro-winstedt.md)
+* [R.O. Winstedt](./richard-olaf-winstedt.md)
 
 ## References
 <!-- Grounded occurrences and citations -->

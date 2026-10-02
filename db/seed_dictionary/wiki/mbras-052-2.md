@@ -76,13 +76,6 @@ articles:
   - J.M. Gullick
   pages: 113–119
   is_review: false
-- id: jmbras-52-2-p120
-  slug: null
-  title: 'Hikajat Potjut Muhamat: an Achehnese epic. G.W. Drewes'
-  authors:
-  - A. Sweeney
-  pages: 120–121
-  is_review: true
 - id: jmbras-52-2-p141
   slug: a-reputed-acehnese-sarakata-of-the-jamal-al-lail-dynasty
   title: A reputed Acehnese sarakata of the Jamal al-Lail dynasty
@@ -104,8 +97,7 @@ articles:
 * [A priest’s bell and a temple lamp: reinterpretation of the function of some Kedah artefacts](./a-priests-bell-and-a-temple-lamp-reinterpretation-of-the-fun.md) — [F.E. Treloar](./fe-treloar.md) (pp. 48–50)
 * [A reputed Acehnese sarakata of the Jamal al-Lail dynasty](./a-reputed-acehnese-sarakata-of-the-jamal-al-lail-dynasty.md) — [D. Crecelius](./d-crecelius.md), [E.A. Beardow](./ea-beardow.md) (pp. 51–66)
 * [An Indian protagonist of the Malay language: Abdullah “Munshi”, his race and his mother-tongue](./an-indian-protagonist-of-the-malay-language-abdullah-munshi-.md) — [H.F. O'B. Traill](./hf-ob-traill.md) (pp. 67–83)
-* [Isabella Bird’s visit to Malaya: a centenary tribute](./isabella-birds-visit-to-malaya-a-centenary-tribute.md) — [J.M. Gullick](./jm-gullick.md) (pp. 113–119)
-* *Hikajat Potjut Muhamat: an Achehnese epic. G.W. Drewes* — [A. Sweeney](./a-sweeney.md) (pp. 120–121) [Review]
+* [Isabella Bird’s visit to Malaya: a centenary tribute](./isabella-birds-visit-to-malaya-a-centenary-tribute.md) — [J.M. Gullick](./john-michael-gullick.md) (pp. 113–119)
 * [A reputed Acehnese sarakata of the Jamal al-Lail dynasty](./a-reputed-acehnese-sarakata-of-the-jamal-al-lail-dynasty.md) — [E.A. Beardow](./ea-beardow.md), [D. Crecelius](./d-crecelius.md) (pp. 141–144)
 
 ## Contributors
@@ -115,7 +107,7 @@ articles:
 * [E.E. McKinnon](./ee-mckinnon.md)
 * [F.E. Treloar](./fe-treloar.md)
 * [H.F. O'B. Traill](./hf-ob-traill.md)
-* [J.M. Gullick](./jm-gullick.md)
+* [J.M. Gullick](./john-michael-gullick.md)
 * [O.W. Wolters](./ow-wolters.md)
 
 ## References

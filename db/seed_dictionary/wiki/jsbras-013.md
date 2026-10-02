@@ -82,20 +82,20 @@ articles:
 
 ## Table of Contents
 * [The pigmies of Homer, Herodotus, Aristotle, Pliny etc.: the Asiatic pigmies, or Negritos; the Negrillos or African pigmies. A. de Quatrefages. . Errington De La Croix](./the-pigmies-of-homer-herodotus-aristotle-pliny-etc-the-asiat.md) — [J.E. De La Croix](./je-de-la-croix.md), [A. de Quatrefages](./a-de-quatrefages.md) (pp. 1–48)
-* [The law and customs of the Malays with reference to the tenure of land](./the-law-and-customs-of-the-malays-with-reference-to-the-tenu.md) — [W.E. Maxwell](./we-maxwell.md) (pp. 73–220)
+* [The law and customs of the Malays with reference to the tenure of land](./the-law-and-customs-of-the-malays-with-reference-to-the-tenu.md) — [W.E. Maxwell](./sir-william-edward-maxwell.md) (pp. 73–220)
 * [On the stream tin deposits of Perak](./on-the-stream-tin-deposits-of-perak.md) — [J.E. Tenison Woods](./je-tenison-woods.md) (pp. 221–240)
-* [Rembau](./rembau.md) — [D.F.A. Hervey](./dfa-hervey.md) (pp. 241–259)
+* [Rembau](./rembau.md) — [D.F.A. Hervey](./dudley-francis-amelius-hervey.md) (pp. 241–259)
 * [The Tawaran and Putatan rivers, North Borneo](./the-tawaran-and-putatan-rivers-north-borneo.md) — [S.E. Dalrymple](./se-dalrymple.md) (pp. 261–272)
 * [Proposed English–Malay dictionary](./proposed-englishmalay-dictionary.md) — [E.J. Brill](./ej-brill.md) (pp. 273–274)
 
 ## Contributors
 * [A. de Quatrefages](./a-de-quatrefages.md)
-* [D.F.A. Hervey](./dfa-hervey.md)
+* [D.F.A. Hervey](./dudley-francis-amelius-hervey.md)
 * [E.J. Brill](./ej-brill.md)
 * [J.E. De La Croix](./je-de-la-croix.md)
 * [J.E. Tenison Woods](./je-tenison-woods.md)
 * [S.E. Dalrymple](./se-dalrymple.md)
-* [W.E. Maxwell](./we-maxwell.md)
+* [W.E. Maxwell](./sir-william-edward-maxwell.md)
 
 ## References
 <!-- Grounded occurrences and citations -->

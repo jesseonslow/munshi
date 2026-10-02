@@ -23,6 +23,5 @@ published: false
 ## MBRAS Sources
 
 - Skinner, C. Prince Damrong’s introduction to the despatches of Luang Udom Sombat. MB 54(2)
-
 ## References
 <!-- Grounded occurrences and citations -->

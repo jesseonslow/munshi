@@ -22,6 +22,5 @@ published: false
 - Sherwin, M.D. Reconstruction of the palace of Sultan Mansur Shah. MB 54(1)
 - Winstedt, R.O. Tomb of Mansur Shah (r. 1459?–1475). SB 78
 - Zainal Abidin bin Ahmad. Grave-stone of Sultan Mansur Shah of Malacca. SB 86
-
 ## References
 <!-- Grounded occurrences and citations -->

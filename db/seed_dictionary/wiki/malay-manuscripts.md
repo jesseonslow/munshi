@@ -38,6 +38,5 @@ published: false
 - Traill, H.F.O’B. Lost Mss of Hikayat Abdullah. MB 55(2) and 57(2)
 - Winstedt, R.O. Malay romance of Alexander the Great. MB 16(2)
 - Winstedt, R.O. Malay Manuscripts in London, Brussels and the Hague. SB 82
-
 ## References
 <!-- Grounded occurrences and citations -->

@@ -24,6 +24,5 @@ published: false
 - Arnold, G. Nomadic Penan of the Upper Rejang (Plieran). MB 31(1)
 - Jayl Langub. Suket: Penan folk stories. MB 75(2) {R}
 - Needham, R. Penan and Punan. MB 27(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

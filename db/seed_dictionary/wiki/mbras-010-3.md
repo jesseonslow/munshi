@@ -31,10 +31,10 @@ articles:
 **Date:** December 1932
 
 ## Table of Contents
-* [A history of Johore (1365–1895 A.D.](./a-history-of-johore-13651895-ad.md) — [R.O. Winstedt](./ro-winstedt.md) (pp. 1–167)
+* [A history of Johore (1365–1895 A.D.](./a-history-of-johore-13651895-ad.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 1–167)
 
 ## Contributors
-* [R.O. Winstedt](./ro-winstedt.md)
+* [R.O. Winstedt](./richard-olaf-winstedt.md)
 
 ## References
 <!-- Grounded occurrences and citations -->

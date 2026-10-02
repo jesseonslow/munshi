@@ -26,7 +26,6 @@ published: false
 
 - Badriyah Haji Salleh. Short personal recollection of Roff. MB 86(2)
 - Laffan, M. Obituary. MB 86(2)
-
 ## Bibliography
 - (1969) [Malaysian State Council minutes in New York](./malaysian-state-council-minutes-in-new-york.md). *JMBRAS* 42(2): 213–219
 - (1982) [English-language fiction relating to Malaysia, Singapore and Brunei: a check-list](./english-language-fiction-relating-to-malaysia-singapore-and-.md). *JMBRAS* 55(1): 62–77

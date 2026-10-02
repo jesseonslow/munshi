@@ -27,7 +27,6 @@ published: false
 - Kathirithamby-Wells, J. Forests and development in Malaya. MB 80(2) {R}
 - Ng, F.S.P. Tropical Forest Institute of Malaysia centenary history. MB 83(2) {R}
 - Symington, C.F. Flora of Gunong Tapis, Pahang and altitudinal zoning of Malay forests. MB 14(3)
-
 ### Forest products
 
 - Anon. Benzoin. SB 30
@@ -37,6 +36,5 @@ published: false
 - Cantley, N. Notes on economic plants, incl fibres, oils, fruit, beverages, spices, rubber, drugs, dyes, root vegetables. SB 18
 - Dunn, F.L. Rain-forest collectors and traders. Monograph 5.
 - Hervey, D.F.A. Varieties of getah and rotan. SB 8
-
 ## References
 <!-- Grounded occurrences and citations -->

@@ -86,6 +86,5 @@ published: false
 - Winstedt, R.O. The Malay rice cycle. SB 75
 - Winstedt, R.O. A rice ceremony. SB 77
 - Winstedt, R.O. The ritual of the rice field. MB 7(3)
-
 ## References
 <!-- Grounded occurrences and citations -->

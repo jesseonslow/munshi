@@ -23,6 +23,5 @@ published: false
 
 - Ridley, H.N. _Hybleapuera_ Cram. SB 31
 - Ridley, H.N. _Calogramma festiva_ Walk. SB 35
-
 ## References
 <!-- Grounded occurrences and citations -->

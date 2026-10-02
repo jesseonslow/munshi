@@ -22,6 +22,5 @@ published: false
 
 - Anon. Earthquakes. SB 30
 - Ridley, H.N. Earthquakes in Malaya. SB 25
-
 ## References
 <!-- Grounded occurrences and citations -->

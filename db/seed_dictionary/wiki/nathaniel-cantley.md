@@ -1,23 +1,24 @@
 ---
-id: n-cantley
-title: N. Cantley
-canonical_name: N. Cantley
+id: nathaniel-cantley
+title: Nathaniel Cantley
+canonical_name: Nathaniel Cantley
 aliases:
-- Cantley, N
+- Cantley, N.
 type: person
 is_contributor: true
 status: stub
 published: false
 ---
 
-# N. Cantley
+# Nathaniel Cantley
 
 <!-- Synthesis engine: Insert biographical synthesis and research focus here -->
 
 ## Biography
 
 ## Bibliography
-*No indexed articles recorded.*
+
+- [Notes on Economic Plants, Straits Settlements](./notes-on-economic-plants-straits-settlements.md). *JSBRAS* 18: 295-334.
 
 ## References
 <!-- Grounded occurrences and citations -->

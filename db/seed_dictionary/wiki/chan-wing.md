@@ -20,6 +20,5 @@ published: false
 
 - Chan King Nui. Biography. Monograph 27
 - Chan King Nui. Short biography of Chan Wing. MB 69(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

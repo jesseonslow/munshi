@@ -23,6 +23,5 @@ published: false
 
 - Barnard, T.P. Shifting interpretations on the death of Mahmud Syah II. MB 89(2)
 - Wilkinson, R.J. Mahmud II and Abdul Jalil III, 1685–1720. MB 9(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

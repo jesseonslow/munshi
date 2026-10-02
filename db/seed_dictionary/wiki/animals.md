@@ -106,6 +106,5 @@ published: false
 - Overbeck, H.O. Animal and flower _shaer_. MB 12(2)
 - Parreñas, J.S. Orangutan Rehabilitation in Sarawak. MB 94(1)
 - Ridley, H.N. Menagerie at the Botanic Gardens. SB 46
-
 ## References
 <!-- Grounded occurrences and citations -->

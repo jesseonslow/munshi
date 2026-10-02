@@ -100,23 +100,23 @@ articles:
 
 ## Table of Contents
 * [Notes on the distribution of the useful minerals in Sarawak](./notes-on-the-distribution-of-the-useful-minerals-in-sarawak.md) — [A.H. Everett](./ah-everett.md) (pp. 13–30)
-* [Breeding pearls](./breeding-pearls.md) — [N.B. Dennys](./nb-dennys.md) (pp. 31–37)
+* [Breeding pearls](./breeding-pearls.md) — [N.B. Dennys](./nicholas-belfield-dennys.md) (pp. 31–37)
 * [Dialects of the Melanesian tribes in the Malay Peninsula](./dialects-of-the-melanesian-tribes-in-the-malay-peninsula.md) — [N. von Mikluho-MacLay](./n-von-mikluho-maclay.md) (pp. 38–44)
-* [Geography of the Malay Peninsula](./geography-of-the-malay-peninsula.md) — [A.M. Skinner](./am-skinner.md) (pp. 52–62)
+* [Geography of the Malay Peninsula](./geography-of-the-malay-peninsula.md) — [A.M. Skinner](./allan-maclean-skinner.md) (pp. 52–62)
 * [Chinese secret societies and their origin](./chinese-secret-societies-and-their-origin.md) — [W.A. Pickering](./wa-pickering.md) (pp. 63–84)
-* [Malay proverbs](./malay-proverbs.md) — [W.E. Maxwell](./we-maxwell.md) (pp. 85–98)
-* [On the occurrence of Ophiophagus elaps, the snake-eating Hamadryad in Singapore](./on-the-occurrence-of-ophiophagus-elaps-the-snake-eating-hama.md) — [N.B. Dennys](./nb-dennys.md) (pp. 99–105)
+* [Malay proverbs](./malay-proverbs.md) — [W.E. Maxwell](./sir-william-edward-maxwell.md) (pp. 85–98)
+* [On the occurrence of Ophiophagus elaps, the snake-eating Hamadryad in Singapore](./on-the-occurrence-of-ophiophagus-elaps-the-snake-eating-hama.md) — [N.B. Dennys](./nicholas-belfield-dennys.md) (pp. 99–105)
 * [Notes on gutta and caoutchouc in the Malay Peninsula](./notes-on-gutta-and-caoutchouc-in-the-malay-peninsula.md) — [H.J. Murton](./hj-murton.md) (pp. 106–107)
-* [Antiquities of Province Wellesley](./antiquities-of-province-wellesley.md) — [W.E. Maxwell](./we-maxwell.md) (pp. 114)
+* [Antiquities of Province Wellesley](./antiquities-of-province-wellesley.md) — [W.E. Maxwell](./sir-william-edward-maxwell.md) (pp. 114)
 
 ## Contributors
 * [A.H. Everett](./ah-everett.md)
-* [A.M. Skinner](./am-skinner.md)
+* [A.M. Skinner](./allan-maclean-skinner.md)
 * [H.J. Murton](./hj-murton.md)
 * [N. von Mikluho-MacLay](./n-von-mikluho-maclay.md)
-* [N.B. Dennys](./nb-dennys.md)
+* [N.B. Dennys](./nicholas-belfield-dennys.md)
 * [W.A. Pickering](./wa-pickering.md)
-* [W.E. Maxwell](./we-maxwell.md)
+* [W.E. Maxwell](./sir-william-edward-maxwell.md)
 
 ## References
 <!-- Grounded occurrences and citations -->

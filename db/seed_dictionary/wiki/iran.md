@@ -19,6 +19,5 @@ published: false
 ## MBRAS Sources
 
 - Marrison, G.E. Persian influences in Malay life. MB 28(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

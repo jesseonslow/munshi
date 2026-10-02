@@ -69,7 +69,7 @@ published: false
 <!-- Synthesis engine: Insert general commentaries details here -->
 
 ## MBRAS Sources
-<!-- Seed entries or targeted retrieval for Malay literature -->
+
 ### Poetry
 
 - Abdullah bin Abdul Kadir, Munshi. Shaer Kampung Gelam Terbakar. MB 45(1)
@@ -111,6 +111,7 @@ published: false
 ### Prose
 
 #### Texts and Translations
+
 - A.H. Hill (tr.). *Hikayat Abdullah Munshi*. MB 28(3)
 - C.O. Blagden (romanised). *Hikayat Maharaja Ali*. MB 7(3)
 - G.F. Hose (ed.). *Hikayat Malik Saif al-Jazan*. SB 58
@@ -130,6 +131,7 @@ published: false
 - W.E. Maxwell (tr.). *Raja Donan*. SB 18
 
 #### Commentaries
+
 - R.O. Winstedt. *Bustanu’s-Salatin: Its Date and Author*. SB 82
 - R.O. Winstedt. *Hikayat Abu Nawas*. SB 81 and 83
 - T. Iskandar. *Hikayat Aceh*. MB 40(2)
@@ -159,7 +161,6 @@ published: false
 - Russell Jones. *Hikayat Sultan Ibrahim (Short Version)* {Reviewed V. Matheson}. MB 59(1)
 - Russell Jones. *Hikayat Sultan Ibrahim (Long Version)* {Reviewed H. Chambert-Loir}. MB 60(2)
 - G.W.J. Drewes. *Hikayat Teungku di Meuke* {Reviewed A. Sweeney}. MB 56(1)
-
 ### Study and teaching
 
 - Ahmad Husni. Federal Education Policy. MB 95(2)
@@ -195,7 +196,6 @@ published: false
 - Braginsky, V.I. Historical survey of traditional Malay literature. MB 82(1) {R}
 - Ceridwen, A. Silsilah Raja-Raja Perak: a court genealogy. MB 74(2)
 - Ding Choo Ming. Indonesian Peranakan literature in UKM library. MB 51(1)
-Graf, A. German work on Malay language and literature since 19th century. MB 80(2)
 - Hooker, V.M. Women and Islam in 1920s Malay fiction. MB 67(2)
 - Hooker, V.M. Harun Aminurrashid’s novel: Panglima Awang. MB 72(2)
 - Hooker, V.M. Social changes in the Malay novel. MB 77(2)
@@ -217,7 +217,6 @@ Graf, A. German work on Malay language and literature since 19th century. MB 80(
 - Proudfoot, I. The politics of Malay philology. MB 76(1)
 - Singaravelu, S. The Rama story in Malay tradition. MB 54(2)
 - Sweeney, A. Winstedt’s summary of the Tuhfat al-Nafis. MB 40(1)
-Professional Malay story-telling. MB 46(2)
 - Sweeney, A. The “literary” study of Malay-Indonesian literature. MB 56(1)
 - Sweeney, A. A full hearing. Orality and literacy. MB 61(2) {R}
 - Warnk, H. Translations in the development of modern Malay literature, 1850–1950. MB 80(1)
@@ -228,6 +227,5 @@ Professional Malay story-telling. MB 46(2)
 - Winstedt, R.O. History of Malay classical literature. MB 31(3) and Reprint 12
 - Winstedt, R.O. History of Malay classical literature. MB 65(2) {R}
 - Zainal Abidin bin Ahmad. Recent Malay literature. MB 19(1) and Reprint 4
-
 ## References
 <!-- Grounded occurrences and citations -->

@@ -28,6 +28,5 @@ published: false
 - O’Sullivan, A.W. Relations between southern India and the SS. SB 36
 - Wales, H.G.Q. Note on the “four main waves”. MB 23(1)
 - Wales, H.G.Q. The making of greater India. MB 24(3) {R}
-
 ## References
 <!-- Grounded occurrences and citations -->

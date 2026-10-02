@@ -34,6 +34,5 @@ published: false
 - Moy, T.J. Sejarah Melayu and Tuhfat al-Nafis compared. MB 48(2)
 - Sweeney, A. Winstedt’s summary of the Tuhfat al-Nafis. MB 40(1)
 - Winstedt, R.O. Text in Jawi. MB 10(2)
-
 ## References
 <!-- Grounded occurrences and citations -->

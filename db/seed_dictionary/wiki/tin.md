@@ -43,6 +43,5 @@ published: false
 - Tenison Woods, J.E. Stream tin deposits of Perak. SB 13
 - Tenison Woods, J.E. Malayan physical geography. MB 93(1)
 - Tregonning, K.G. History of Straits Trading Company. MB 36(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

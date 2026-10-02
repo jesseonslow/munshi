@@ -23,7 +23,6 @@ published: false
 ## MBRAS Sources
 
 - Van der Putten, J. Obituary. MB 84(1)
-
 ## Bibliography
 - (1998) [Papers Relating to Brunei](./papers-relating-to-brunei.md). *Reprint* 18: 192
 

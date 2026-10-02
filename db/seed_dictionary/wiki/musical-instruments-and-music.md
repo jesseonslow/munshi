@@ -39,6 +39,5 @@ published: false
 - Kloss, C.B. Malayan musical instruments. SB 45 and 46
 - Kunst, J. Indonesian music and dance. MB 68(2) {R}
 - Linehan, W. Nobat and Orang Kalau of Perak. MB 24(3) and Reprint 4
-
 ## References
 <!-- Grounded occurrences and citations -->

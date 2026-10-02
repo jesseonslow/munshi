@@ -24,6 +24,5 @@ published: false
 - Medway, Gathorne Gathorne Hardy, Lord. Antiquity of domesticated pigs in Sarawak. MB 46(2) and 47(1)
 - Pfeffer, P. The bearded pig in East Kalimantan and Sarawak. MB 59(2)
 - Robinson, H.C. The bearded pig (Sus barbatus) in Malaya. SB 85
-
 ## References
 <!-- Grounded occurrences and citations -->

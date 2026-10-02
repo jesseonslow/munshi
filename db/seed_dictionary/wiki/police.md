@@ -34,6 +34,5 @@ published: false
 - Gullick, J.M. Syers and the Selangor police, 1875–97. MB 51(2), Reprint 5 and Monograph 25
 - Logan, J.R. Plan for a volunteer police in Muda district, Province Wellesley. SB 16 and Reprint 33
 - Morrah, P. History of the Malayan police. MB 36(2)
-
 ## References
 <!-- Grounded occurrences and citations -->

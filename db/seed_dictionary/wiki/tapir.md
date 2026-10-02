@@ -19,6 +19,5 @@ published: false
 ## MBRAS Sources
 
 - Maxwell, W.G. Malay accounts of the tapir. SB 52
-
 ## References
 <!-- Grounded occurrences and citations -->

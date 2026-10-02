@@ -63,16 +63,16 @@ articles:
 **Date:** June 1912
 
 ## Table of Contents
-* [New and rare Malayan plants](./new-and-rare-malayan-plants.md) — [H.N. Ridley](./hn-ridley.md) (pp. 1–43)
-* [A botanical excursion to Pulau Adang](./a-botanical-excursion-to-pulau-adang.md) — [H.N. Ridley](./hn-ridley.md) (pp. 45–65)
-* [The Malacca sultanate](./the-malacca-sultanate.md) — [R.J. Wilkinson](./rj-wilkinson.md) (pp. 67–71)
-* [The capture of Malacca, A.D. 1511](./the-capture-of-malacca-ad-1511.md) — [R.J. Wilkinson](./rj-wilkinson.md) (pp. 71–76)
+* [New and rare Malayan plants](./new-and-rare-malayan-plants.md) — [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 1–43)
+* [A botanical excursion to Pulau Adang](./a-botanical-excursion-to-pulau-adang.md) — [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 45–65)
+* [The Malacca sultanate](./the-malacca-sultanate.md) — [R.J. Wilkinson](./richard-james-wilkinson.md) (pp. 67–71)
+* [The capture of Malacca, A.D. 1511](./the-capture-of-malacca-ad-1511.md) — [R.J. Wilkinson](./richard-james-wilkinson.md) (pp. 71–76)
 * [The old cemetery on Fort Canning, Singapore](./the-old-cemetery-on-fort-canning-singapore.md) — [H.A. Stallwood](./ha-stallwood.md) (pp. 77–126)
 
 ## Contributors
 * [H.A. Stallwood](./ha-stallwood.md)
-* [H.N. Ridley](./hn-ridley.md)
-* [R.J. Wilkinson](./rj-wilkinson.md)
+* [H.N. Ridley](./henry-nicholas-ridley.md)
+* [R.J. Wilkinson](./richard-james-wilkinson.md)
 
 ## References
 <!-- Grounded occurrences and citations -->

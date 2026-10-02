@@ -52,6 +52,7 @@ articles:
 * [British relations with Pahang, 1884–1895](./british-relations-with-pahang-18841895.md) — [J. De Silva](./j-de-silva.md) (pp. 1–50)
 * [The origin and development of the Malay States Guides](./the-origin-and-development-of-the-malay-states-guides.md) — [Abdul Karim bin Bagoo](./abdul-karim-bin-bagoo.md) (pp. 51–94)
 * [The influence of Portuguese on the Malay language](./the-influence-of-portuguese-on-the-malay-language.md) — [M. Teixeira](./m-teixeira.md) (pp. 95–107)
+* [Obituary. Anthony Haydock Hill](./obituary-anthony-haydock-hill.md) (p. 113)
 
 ## Contributors
 * [Abdul Karim bin Bagoo](./abdul-karim-bin-bagoo.md)

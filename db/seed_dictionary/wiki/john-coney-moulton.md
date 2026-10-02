@@ -5,7 +5,7 @@ canonical_name: John Coney Moulton
 aliases:
 - J. C. Moulton
 - J.C. Moulton
-- Moulton, J.C
+- Moulton, J.C.
 broader: []
 narrower: []
 related: []
@@ -23,7 +23,6 @@ published: false
 ## MBRAS Sources
 
 - Kloss, C.B. Obituary. MB 4(2)
-
 ## Bibliography
 - (1910) [An insectivorous hornbill](./an-insectivorous-hornbill.md). *JSBRAS* 54: 157–158
 - (1911) [A list of the butterflies of Borneo with descriptions of new species](./a-list-of-the-butterflies-of-borneo-with-descriptions-of-new.md). *JSBRAS* 60: 73–177

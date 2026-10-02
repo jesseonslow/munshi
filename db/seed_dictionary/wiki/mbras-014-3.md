@@ -236,9 +236,9 @@ articles:
 ## Table of Contents
 * [A propos d’une nouvelle théorie sur le site de Srivijaya](./a-propos-dune-nouvelle-théorie-sur-le-site-de-srivijaya.md) — [G. Coedès](./g-coedès.md) (pp. 1–9)
 * [An introduction to the study of ancient times in the Malay Peninsula and the Straits of Malacca. Pt. II](./an-introduction-to-the-study-of-ancient-times-in-the-malay-p.md) — [R. Braddell](./r-braddell.md) (pp. 10–71)
-* [Onomatopoeia in Malay](./onomatopoeia-in-malay.md) — [R.J. Wilkinson](./rj-wilkinson.md) (pp. 72–88)
-* [Light in the Malay language: with a foreword by R.J. Wilkinson](./light-in-the-malay-language-with-a-foreword-by-rj-wilkinson.md) — [C.N. Maxwell](./cn-maxwell.md), [R.J. Wilkinson](./rj-wilkinson.md) (pp. 89–154)
-* [Notes on the history of Kedah](./notes-on-the-history-of-kedah.md) — [R.O. Winstedt](./ro-winstedt.md) (pp. 155–189)
+* [Onomatopoeia in Malay](./onomatopoeia-in-malay.md) — [R.J. Wilkinson](./richard-james-wilkinson.md) (pp. 72–88)
+* [Light in the Malay language: with a foreword by R.J. Wilkinson](./light-in-the-malay-language-with-a-foreword-by-rj-wilkinson.md) — [C.N. Maxwell](./cn-maxwell.md), [R.J. Wilkinson](./richard-james-wilkinson.md) (pp. 89–154)
+* [Notes on the history of Kedah](./notes-on-the-history-of-kedah.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 155–189)
 * [Adat Kuala Pilah. J. J. Sheehan and Abdul Aziz bin Khamis](./adat-kuala-pilah-j-j-sheehan-and-abdul-aziz-bin-khamis.md) — [Abdul Aziz bin Khamis](./abdul-aziz-bin-khamis.md), [J.J. Sheehan](./jj-sheehan.md) (pp. 190–225)
 * [A translation of the Hikayat Abdullah](./a-translation-of-the-hikayat-abdullah.md) — [J.J. Sheehan](./jj-sheehan.md) (pp. 226–229)
 * [The installation of Tuanku Abdul-Rahman ibini Al-Marhum Tuanku Muhammad Shah as Yang di-Pertuan, Negri Sembilan](./the-installation-of-tuanku-abdul-rahman-ibini-al-marhum-tuan.md) — [J.J. Sheehan](./jj-sheehan.md) (pp. 230–242)
@@ -276,8 +276,8 @@ articles:
 * [J.V. Mills](./jv-mills.md)
 * [K.A. Nilakanta Sastri](./ka-nilakanta-sastri.md)
 * [R. Braddell](./r-braddell.md)
-* [R.J. Wilkinson](./rj-wilkinson.md)
-* [R.O. Winstedt](./ro-winstedt.md)
+* [R.J. Wilkinson](./richard-james-wilkinson.md)
+* [R.O. Winstedt](./richard-olaf-winstedt.md)
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -59,6 +59,5 @@ published: false
 - Tate, D.J.M. Plantations in Sabah and Sarawak. MB 69(1)
 - Tate, D.J.M. Plantation history. MB 70(1) {R}
 - Tregonning, K.G. Early development in Penang. MB 39(2) and Reprint 33
-
 ## References
 <!-- Grounded occurrences and citations -->

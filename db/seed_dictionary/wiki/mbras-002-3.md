@@ -89,8 +89,8 @@ articles:
 * [Chinese place-names in Johore](./chinese-place-names-in-johore.md) — [J.V. Cowgill](./jv-cowgill.md) (pp. 221–251)
 * [An early Malay inscription in Trengganu](./an-early-malay-inscription-in-trengganu.md) — [H.S. Paterson](./hs-paterson.md) (pp. 252–258)
 * [A note on the Trengganu inscription](./a-note-on-the-trengganu-inscription.md) — [C.O. Blagden](./co-blagden.md) (pp. 258–263)
-* [Karamat: sacred places and persons in Malaya](./karamat-sacred-places-and-persons-in-malaya.md) — [R.O. Winstedt](./ro-winstedt.md) (pp. 264–279)
-* [Antiquities of Malaya. Part I](./antiquities-of-malaya-part-i.md) — [R.J. Wilkinson](./rj-wilkinson.md) (pp. 289–291)
+* [Karamat: sacred places and persons in Malaya](./karamat-sacred-places-and-persons-in-malaya.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 264–279)
+* [Antiquities of Malaya. Part I](./antiquities-of-malaya-part-i.md) — [R.J. Wilkinson](./richard-james-wilkinson.md) (pp. 289–291)
 * [The State of Lukut](./the-state-of-lukut.md) — [L.D. Gammans](./ld-gammans.md) (pp. 291–295)
 * [A survey of the dragonfly fauna of the Malay Peninsula, with notes on that of neighbouring countries. Part II](./a-survey-of-the-dragonfly-fauna-of-the-malay-peninsula-with-.md) — [F.F. Laidlaw](./ff-laidlaw.md) (pp. 296–308)
 
@@ -100,8 +100,8 @@ articles:
 * [H.S. Paterson](./hs-paterson.md)
 * [J.V. Cowgill](./jv-cowgill.md)
 * [L.D. Gammans](./ld-gammans.md)
-* [R.J. Wilkinson](./rj-wilkinson.md)
-* [R.O. Winstedt](./ro-winstedt.md)
+* [R.J. Wilkinson](./richard-james-wilkinson.md)
+* [R.O. Winstedt](./richard-olaf-winstedt.md)
 
 ## References
 <!-- Grounded occurrences and citations -->

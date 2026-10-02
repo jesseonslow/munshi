@@ -36,6 +36,5 @@ published: false
 - Linehan, W. A chap pekak. MB 4(2)
 - Maxwell, W.E. Seals of Johore and Pahang in 1819. NQ Reprint 15
 - Nilakanta Sastri, K.A. An inscribed seal from Perak. MB 14(3)
-
 ## References
 <!-- Grounded occurrences and citations -->

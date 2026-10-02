@@ -34,11 +34,11 @@ articles:
 **Date:** June 1934
 
 ## Table of Contents
-* [A history of Perak](./a-history-of-perak.md) — [R.J. Wilkinson](./rj-wilkinson.md), [R.O. Winstedt](./ro-winstedt.md) (pp. 1–180)
+* [A history of Perak](./a-history-of-perak.md) — [R.J. Wilkinson](./richard-james-wilkinson.md), [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 1–180)
 
 ## Contributors
-* [R.J. Wilkinson](./rj-wilkinson.md)
-* [R.O. Winstedt](./ro-winstedt.md)
+* [R.J. Wilkinson](./richard-james-wilkinson.md)
+* [R.O. Winstedt](./richard-olaf-winstedt.md)
 
 ## References
 <!-- Grounded occurrences and citations -->

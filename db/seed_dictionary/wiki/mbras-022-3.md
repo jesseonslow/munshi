@@ -50,12 +50,12 @@ articles:
 
 ## Table of Contents
 * [A short history of Trengganu](./a-short-history-of-trengganu.md) — [Mubin Sheppard](./mubin-sheppard.md) (pp. 1–74)
-* [The weaving industry in Trengganu](./the-weaving-industry-in-trengganu.md) — [A.H. Hill](./ah-hill.md) (pp. 75–84)
-* [Cargo boats of the east coast of Malaya](./cargo-boats-of-the-east-coast-of-malaya.md) — [C.A. Gibson-Hill](./ca-gibson-hill.md) (pp. 106–125)
+* [The weaving industry in Trengganu](./the-weaving-industry-in-trengganu.md) — [A.H. Hill](./anthony-haydock-hill.md) (pp. 75–84)
+* [Cargo boats of the east coast of Malaya](./cargo-boats-of-the-east-coast-of-malaya.md) — [C.A. Gibson-Hill](./carl-alexander-gibson-hill.md) (pp. 106–125)
 
 ## Contributors
-* [A.H. Hill](./ah-hill.md)
-* [C.A. Gibson-Hill](./ca-gibson-hill.md)
+* [A.H. Hill](./anthony-haydock-hill.md)
+* [C.A. Gibson-Hill](./carl-alexander-gibson-hill.md)
 * [Mubin Sheppard](./mubin-sheppard.md)
 
 ## References

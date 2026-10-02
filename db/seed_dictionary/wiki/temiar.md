@@ -26,6 +26,5 @@ published: false
 - Benjamin, G. Temiar religion 1964‒2012. MB 88(2) {R}
 - Davison, G.W.H. Temiar bamboo rafts. MB 62(1)
 - Needham, R. Temer names. MB 37(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

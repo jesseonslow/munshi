@@ -85,9 +85,9 @@ articles:
 
 ## Table of Contents
 * [A trip to Mt. Penrissen, Sarawak](./a-trip-to-mt-penrissen-sarawak.md) — [R.S. Shelford](./rs-shelford.md) (pp. 1–26)
-* [The flora of Singapore](./the-flora-of-singapore.md) — [H.N. Ridley](./hn-ridley.md) (pp. 27–196)
+* [The flora of Singapore](./the-flora-of-singapore.md) — [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 27–196)
 * [Chinese names of streets in Penang](./chinese-names-of-streets-in-penang.md) — [Lo Man-yuk](./lo-man-yuk.md) (pp. 197–246)
-* [The Orang Laut of Singapore](./the-orang-laut-of-singapore.md) — [H.N. Ridley](./hn-ridley.md), [W.W. Skeat](./ww-skeat.md) (pp. 247–250)
+* [The Orang Laut of Singapore](./the-orang-laut-of-singapore.md) — [H.N. Ridley](./henry-nicholas-ridley.md), [W.W. Skeat](./walter-william-skeat.md) (pp. 247–250)
 * [Cases of lightning discharge](./cases-of-lightning-discharge.md) — [G.E.V. Thomas](./gev-thomas.md) (pp. 251–255)
 * [Notes from the Sarawak Museum](./notes-from-the-sarawak-museum.md) — [R.S. Shelford](./rs-shelford.md) (pp. 256–261)
 * [The hot springs of Ulu Jelai](./the-hot-springs-of-ulu-jelai.md) — [A.D. Machado](./ad-machado.md) (pp. 263–264)
@@ -95,10 +95,10 @@ articles:
 ## Contributors
 * [A.D. Machado](./ad-machado.md)
 * [G.E.V. Thomas](./gev-thomas.md)
-* [H.N. Ridley](./hn-ridley.md)
+* [H.N. Ridley](./henry-nicholas-ridley.md)
 * [Lo Man-yuk](./lo-man-yuk.md)
 * [R.S. Shelford](./rs-shelford.md)
-* [W.W. Skeat](./ww-skeat.md)
+* [W.W. Skeat](./walter-william-skeat.md)
 
 ## References
 <!-- Grounded occurrences and citations -->

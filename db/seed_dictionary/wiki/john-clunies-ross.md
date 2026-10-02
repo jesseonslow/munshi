@@ -21,6 +21,5 @@ published: false
 ## MBRAS Sources
 
 - Gibson-Hill, C.A. Documents relating to J.C. Ross, A. Hare and the establishment of a colony on the Cocos-Keeling Islands. MB 25(4/5) and Reprint 31
-
 ## References
 <!-- Grounded occurrences and citations -->

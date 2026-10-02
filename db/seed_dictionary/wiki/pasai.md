@@ -32,6 +32,5 @@ published: false
 - Winstedt, R.O. The chronicles of Pasai. MB 16(2)
 - Winstedt, R.O. Did Pasai rule Kedah in the 14th century? MB 18(2)
 - Winstedt, R.O. A Pasai chief with a Persian memorial inscription. MB 18(2)
-
 ## References
 <!-- Grounded occurrences and citations -->

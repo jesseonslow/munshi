@@ -48,7 +48,6 @@ published: false
 - Dalton, H.G. Some Malay boats and their uses. MB 4(2)
 - Gibson-Hill, C.A. Boats of local origin used in the Malayan fishing industry. MB 27(2) and Reprint 4 (part)
 - Teo Teng-hong. Chinese ceremonies on the launching of a new boat. MB 24(1)
-
 ### Sailing boats
 
 - Abbott, W.I. Bark canoes among Jakuns and Dayaks. SB49
@@ -75,7 +74,5 @@ published: false
 - Ismail Ali. _Boo’gok-boo’gok_: winged boat of the Sabah Sea Bajau. MB 81(1)
 
 ### Fishing boats
-<!-- Seed entries or targeted retrieval for Boats: Fishing boats -->
-
 ## References
 <!-- Grounded occurrences and citations -->

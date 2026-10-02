@@ -46,6 +46,5 @@ published: false
 - Reid, A. Father Pécot’s voyage. MB 93(2)
 - Rouhan, M. A French Missionary During the Japanese Occupation. MB 95(1) {R}
 - Roxborogh, J. History of Christianity in Malaysia. MB 88(2) {R}
-
 ## References
 <!-- Grounded occurrences and citations -->

@@ -22,6 +22,5 @@ published: false
 - Moths Kelsall, H. J. Sphingidae of Singapore. SB 22
 - Ridley, H.N. The crackling moth. SB 50
 - Wray, L. Report on the pomeloe moth. SB 19
-
 ## References
 <!-- Grounded occurrences and citations -->

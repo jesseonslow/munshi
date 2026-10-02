@@ -27,6 +27,5 @@ published: false
 
 - Taylor, E.N. Malay family law. MB 15(1) and 16(1)
 - Taylor, E.N. Mohamedan divorce by khula. MB 21(2) and 22(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

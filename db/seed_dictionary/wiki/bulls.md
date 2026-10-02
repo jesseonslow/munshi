@@ -26,6 +26,5 @@ published: false
 - Hill, A.H. Games and entertainments in Kelantan. MB 25(1)
 - Muhammad Taib Osman. Rules of Kelantan bull-fights. MB 37(2)
 - Rentse, A. Kelantan names for bulls according to colour. MB 9(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

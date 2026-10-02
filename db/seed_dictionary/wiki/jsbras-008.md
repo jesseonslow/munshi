@@ -60,13 +60,13 @@ articles:
 **Date:** December 1881
 
 ## Table of Contents
-* [The Endau and its tributaries](./the-endau-and-its-tributaries.md) — [D.F.A. Hervey](./dfa-hervey.md) (pp. 93–132)
+* [The Endau and its tributaries](./the-endau-and-its-tributaries.md) — [D.F.A. Hervey](./dudley-francis-amelius-hervey.md) (pp. 93–132)
 * [Petara, or Sea Dyak gods](./petara-or-sea-dyak-gods.md) — [J. Perham](./j-perham.md) (pp. 133–152)
-* [Klouwang and its caves, west coast of Atchin; travelling notes of M.L.H. Wallon, civil engineer of mines. .F.A. Hervey](./klouwang-and-its-caves-west-coast-of-atchin-travelling-notes.md) — [D.F.A. Hervey](./dfa-hervey.md), [M.L.H. Wallon](./mlh-wallon.md) (pp. 153–158)
+* [Klouwang and its caves, west coast of Atchin; travelling notes of M.L.H. Wallon, civil engineer of mines. .F.A. Hervey](./klouwang-and-its-caves-west-coast-of-atchin-travelling-notes.md) — [D.F.A. Hervey](./dudley-francis-amelius-hervey.md), [M.L.H. Wallon](./mlh-wallon.md) (pp. 153–158)
 * [Note {Fijians](./note-fijians.md) — [Thurston](./thurston.md) (pp. 168–169)
 
 ## Contributors
-* [D.F.A. Hervey](./dfa-hervey.md)
+* [D.F.A. Hervey](./dudley-francis-amelius-hervey.md)
 * [J. Perham](./j-perham.md)
 * [M.L.H. Wallon](./mlh-wallon.md)
 * [Thurston](./thurston.md)

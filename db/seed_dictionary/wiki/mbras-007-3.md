@@ -118,14 +118,14 @@ articles:
 ## Table of Contents
 * [A contribution to the early history of Prince of Wales Island](./a-contribution-to-the-early-history-of-prince-of-wales-islan.md) — [F.G. Stevens](./fg-stevens.md) (pp. 377–414)
 * [Hikayat Maharaja Ali. Romanised C.O. Blagden](./hikayat-maharaja-ali-romanised-co-blagden.md) — [C.O. Blagden](./co-blagden.md) (pp. 415–436)
-* [The ritual of the rice-field](./the-ritual-of-the-rice-field.md) — [R.O. Winstedt](./ro-winstedt.md) (pp. 437–447)
-* [An old Perak account of betrothal ceremonies](./an-old-perak-account-of-betrothal-ceremonies.md) — [R.O. Winstedt](./ro-winstedt.md) (pp. 448–450)
-* [The Perak royal musical instruments](./the-perak-royal-musical-instruments.md) — [R.O. Winstedt](./ro-winstedt.md) (pp. 451–453)
-* [Royal tabus in Negri Sembilan](./royal-tabus-in-negri-sembilan.md) — [R.O. Winstedt](./ro-winstedt.md) (pp. 454–455)
-* [Indonesian bronze drum-head from Pahang](./indonesian-bronze-drum-head-from-pahang.md) — [R.O. Winstedt](./ro-winstedt.md) (pp. 456)
-* [A Perak palace](./a-perak-palace.md) — [R.O. Winstedt](./ro-winstedt.md) (pp. 457–458)
-* [The Malay house](./the-malay-house.md) — [R.O. Winstedt](./ro-winstedt.md) (pp. 459)
-* [The Perak genies](./the-perak-genies.md) — [R.O. Winstedt](./ro-winstedt.md) (pp. 460–466)
+* [The ritual of the rice-field](./the-ritual-of-the-rice-field.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 437–447)
+* [An old Perak account of betrothal ceremonies](./an-old-perak-account-of-betrothal-ceremonies.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 448–450)
+* [The Perak royal musical instruments](./the-perak-royal-musical-instruments.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 451–453)
+* [Royal tabus in Negri Sembilan](./royal-tabus-in-negri-sembilan.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 454–455)
+* [Indonesian bronze drum-head from Pahang](./indonesian-bronze-drum-head-from-pahang.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 456)
+* [A Perak palace](./a-perak-palace.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 457–458)
+* [The Malay house](./the-malay-house.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 459)
+* [The Perak genies](./the-perak-genies.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 460–466)
 * [On some coins found near Seremban](./on-some-coins-found-near-seremban.md) — [J.B. Neilson](./jb-neilson.md) (pp. 467–469)
 * *Among the forest dwarfs of Malaya. P. Schebesta* — [I.H.N. Evans](./ihn-evans.md) (pp. 470–472) [Review]
 
@@ -134,7 +134,7 @@ articles:
 * [F.G. Stevens](./fg-stevens.md)
 * [I.H.N. Evans](./ihn-evans.md)
 * [J.B. Neilson](./jb-neilson.md)
-* [R.O. Winstedt](./ro-winstedt.md)
+* [R.O. Winstedt](./richard-olaf-winstedt.md)
 
 ## References
 <!-- Grounded occurrences and citations -->

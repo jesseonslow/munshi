@@ -35,6 +35,5 @@ published: false
 - Cummings, W. Melaka Malay diaspora in Makassar, c1500–1669. MB 71(1)
 - Tregonning, K.G. Anglo-Dutch naval battle off Celebes in 1806. MB 32(1)
 - Wellen, K.A. Early modern Wajorese statecraft and diaspora. MB 89(1) {R}
-
 ## References
 <!-- Grounded occurrences and citations -->

@@ -41,6 +41,5 @@ published: false
 - Merewether, E.M. Outline history of the Dindings from 17th to 19th centuries. SB 23
 - Mills, J.V Polepon (Saya Island) MB 12(2)
 - Scrivenor, J.B. Geology and mining of Langkawi islands. MB 1(2)
-
 ## References
 <!-- Grounded occurrences and citations -->

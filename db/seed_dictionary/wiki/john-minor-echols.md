@@ -19,6 +19,5 @@ published: false
 ## MBRAS Sources
 
 - Wolff, J. Obituary. MB 56(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

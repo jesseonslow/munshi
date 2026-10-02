@@ -132,11 +132,11 @@ articles:
 * [The reminiscences of Colonel Nahuijs. C.E. Wurtzburg](./the-reminiscences-of-colonel-nahuijs-ce-wurtzburg.md) — [Hulbert Gerard, baron Nahuijs van Burgst](./hulbert-gerard-baron-nahuijs-van-burgst.md), [C.E. Wurtzburg](./ce-wurtzburg.md) (pp. 127–135)
 * [The Baptist mission press at Bencoolen](./the-baptist-mission-press-at-bencoolen.md) — [C.E. Wurtzburg](./ce-wurtzburg.md) (pp. 136–142)
 * [Some coins and tokens of Malaya](./some-coins-and-tokens-of-malaya.md) — [E. Wodak](./e-wodak.md) (pp. 143–147)
-* [The fishing boats operated from Singapore Island](./the-fishing-boats-operated-from-singapore-island.md) — [C.A. Gibson-Hill](./ca-gibson-hill.md) (pp. 148–170)
+* [The fishing boats operated from Singapore Island](./the-fishing-boats-operated-from-singapore-island.md) — [C.A. Gibson-Hill](./carl-alexander-gibson-hill.md) (pp. 148–170)
 
 ## Contributors
 * [A.B. Ramsay](./ab-ramsay.md)
-* [C.A. Gibson-Hill](./ca-gibson-hill.md)
+* [C.A. Gibson-Hill](./carl-alexander-gibson-hill.md)
 * [C.E. Wurtzburg](./ce-wurtzburg.md)
 * [E. Wodak](./e-wodak.md)
 * [H.G.Q. Wales](./hgq-wales.md)

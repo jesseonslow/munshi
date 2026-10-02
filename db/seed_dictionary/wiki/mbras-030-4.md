@@ -39,11 +39,11 @@ articles:
 **Date:** November 1957
 
 ## Table of Contents
-* [Malay beliefs. {In Papers on Malay customs and beliefs](./malay-beliefs-in-papers-on-malay-customs-and-beliefs.md) — [R.J. Wilkinson](./rj-wilkinson.md) (pp. 1–40)
-* [With three articles by W.E. Maxwell The incidents of Malay life. {In Papers on Malay customs and beliefs](./with-three-articles-by-we-maxwell-the-incidents-of-malay-lif.md) — [R.J. Wilkinson](./rj-wilkinson.md) (pp. 41–87)
+* [Malay beliefs. {In Papers on Malay customs and beliefs](./malay-beliefs-in-papers-on-malay-customs-and-beliefs.md) — [R.J. Wilkinson](./richard-james-wilkinson.md) (pp. 1–40)
+* [With three articles by W.E. Maxwell The incidents of Malay life. {In Papers on Malay customs and beliefs](./with-three-articles-by-we-maxwell-the-incidents-of-malay-lif.md) — [R.J. Wilkinson](./richard-james-wilkinson.md) (pp. 41–87)
 
 ## Contributors
-* [R.J. Wilkinson](./rj-wilkinson.md)
+* [R.J. Wilkinson](./richard-james-wilkinson.md)
 
 ## References
 <!-- Grounded occurrences and citations -->

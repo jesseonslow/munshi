@@ -6,7 +6,7 @@ aliases:
 - A. H. Hill
 - A.H. Hill
 - Anthony Hill
-- Hill, A.H
+- Hill, A.H.
 broader: []
 narrower: []
 related: []

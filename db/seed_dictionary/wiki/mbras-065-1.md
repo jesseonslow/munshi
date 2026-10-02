@@ -102,7 +102,7 @@ articles:
 
 ## Table of Contents
 * [Raffles’ aides-de-camp in Java](./raffles-aides-de-camp-in-java.md) — [J.S. Bastin](./js-bastin.md) (pp. 1–14)
-* [The Bangunan Sultan Abdul Samad](./the-bangunan-sultan-abdul-samad.md) — [J.M. Gullick](./jm-gullick.md) (pp. 27–38)
+* [The Bangunan Sultan Abdul Samad](./the-bangunan-sultan-abdul-samad.md) — [J.M. Gullick](./john-michael-gullick.md) (pp. 27–38)
 * [Defining the Malay house](./defining-the-malay-house.md) — [R.N. Hilton](./rn-hilton.md) (pp. 39–70)
 * [Diversity among Indian Christians in Peninsular Malaysia](./diversity-among-indian-christians-in-peninsular-malaysia.md) — [J.R. Daniel](./jr-daniel.md) (pp. 71–85)
 * *Syair Perang Siak: a court poem presenting state policy of a Minangkabau royal family in exile. D.J. Goudie* — [Drakard J](./drakard-j.md) (pp. 99–100) [Review]
@@ -116,7 +116,7 @@ articles:
 * [Drakard J](./drakard-j.md)
 * [E. Lee](./e-lee.md)
 * [E.C.T. Chew](./ect-chew.md)
-* [J.M. Gullick](./jm-gullick.md)
+* [J.M. Gullick](./john-michael-gullick.md)
 * [J.R. Daniel](./jr-daniel.md)
 * [J.S. Bastin](./js-bastin.md)
 * [Khoo Kay Kim](./khoo-kay-kim.md)

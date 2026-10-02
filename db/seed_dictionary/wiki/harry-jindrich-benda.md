@@ -20,6 +20,5 @@ published: false
 ## MBRAS Sources
 
 - Petrů, T. Centennial tribute. MB 93(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

@@ -7,6 +7,8 @@ type: person
 is_contributor: true
 status: stub
 published: false
+gender: female
+email: mahani@usm.my
 ---
 
 # Mahani Musa
@@ -14,6 +16,8 @@ published: false
 <!-- Synthesis engine: Insert biographical synthesis and research focus here -->
 
 ## Biography
+
+Mahani Musa is a professor of history at Universiti Sains Malaysia. The Malaysian Branch of the Royal Asiatic Society published her monograph *Malay Secret Societies in the Northern Malay States* (2006), and she has published widely on Malay women in Malaysian history.
 
 ## Bibliography
 - (1999) [Malays and the red and white flag societies in Penang, 1830–1920s](./malays-and-the-red-and-white-flag-societies-in-penang-183019.md). *JMBRAS* 72(2): 151–182
@@ -27,7 +31,8 @@ published: false
 - (2022) [Federal Education Policy and the Role of Muhammad Yusof bin Ahmad, 1951–1955](./federal-education-policy-and-the-role-of-muhammad-yusof-bin-.md). *JMBRAS* 95(2): 109–132
 
 ### Reviews
-- (2002) Sorotan terpilih dalam sejarah Malaysia (esei sumbangansih kepada Dr Cheah Boon Kheng. *JMBRAS* 75(2): 121–123
+
+- (2002) Sorotan terpilih dalam sejarah Malaysia (esei sumbangansih kepada Dr Cheah Boon Kheng). *JMBRAS* 75(2): 121–123
 - (2012) Modern Muslim identities: negotiating religion and ethnicity in Malaysia. G. Hoffstaedter. *JMBRAS* 85(1): 111–114
 - (2013) Living Islamically in the periphery: Muslim discourse, institution, and intellectual tradition in Southeast Asia. Iik Arifin Mansurnoor. *JMBRAS* 86(2): 111–114
 - (2015) The peasant robbers of Kedah 1900‒1929: historical and folk perceptions. Cheah Boon Kheng. *JMBRAS* 88(1): 124–125

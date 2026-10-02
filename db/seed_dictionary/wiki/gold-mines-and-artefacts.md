@@ -45,6 +45,5 @@ published: false
 - Rodgers, S. SEA jewellery at the Barbier Muller museum, Geneva. MB 59(1) {R}
 - Treloar, F.E. Metal objects from Chandi Bukit, Kedah – chemical analysis to determine date and origin. MB 41(1)
 - Tweedie, M.W.F. Prehistoric objects from the Tui gold mine. MB 20(1) and 26(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

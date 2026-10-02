@@ -20,6 +20,5 @@ published: false
 ## MBRAS Sources
 
 - Anon. Obituary. MB 79(2)
-
 ## References
 <!-- Grounded occurrences and citations -->

@@ -31,6 +31,5 @@ published: false
 - Bucknill, J.A.S. Currency notes, coins and tokens of 1914–8 war period in Malaya. SB 85
 - Chiang Hai-Ding. Origins of the Malaysian currency system, 1867–1906. MB 39(1)
 - Sim Ewe-Tong. Ringgit. MB 47(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

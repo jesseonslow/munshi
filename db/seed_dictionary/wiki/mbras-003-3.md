@@ -94,7 +94,7 @@ articles:
 
 ## Table of Contents
 * [A Chinese wedding in the reform style](./a-chinese-wedding-in-the-reform-style.md) — [W.G. Stirling](./wg-stirling.md) (pp. 1–5)
-* [Notes on Malay magic](./notes-on-malay-magic.md) — [R.O. Winstedt](./ro-winstedt.md) (pp. 6–21)
+* [Notes on Malay magic](./notes-on-malay-magic.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 6–21)
 * [Malay customs and beliefs as recorded in Malay literature and folklore, Part III](./malay-customs-and-beliefs-as-recorded-in-malay-literature-an.md) — [H. Overbeck](./h-overbeck.md) (pp. 22–30)
 * [Some Malayan birds and insects](./some-malayan-birds-and-insects.md) — [Hamilton A.W](./hamilton-aw.md) (pp. 31–32)
 * [Some Malay words](./some-malay-words.md) — [Hamilton A.W](./hamilton-aw.md) (pp. 32–55)
@@ -107,7 +107,7 @@ articles:
 * [Dato' Sedia Raja Abdullah](./dato-sedia-raja-abdullah.md)
 * [H. Overbeck](./h-overbeck.md)
 * [Hamilton A.W](./hamilton-aw.md)
-* [R.O. Winstedt](./ro-winstedt.md)
+* [R.O. Winstedt](./richard-olaf-winstedt.md)
 * [W.B. Clarke](./wb-clarke.md)
 * [W.G. Stirling](./wg-stirling.md)
 

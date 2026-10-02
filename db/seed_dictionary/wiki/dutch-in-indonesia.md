@@ -29,6 +29,5 @@ published: false
 - Kehding, F. Sumatra in 1886. SB 18
 - Skinner, C. Eye-witness account of the invasion of Java in 1811. MB 44(1)
 - Van der Post, L. The admiral’s baby: a memoir. MB 70(1) {R}
-
 ## References
 <!-- Grounded occurrences and citations -->

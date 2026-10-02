@@ -48,11 +48,11 @@ articles:
 
 ## Table of Contents
 * [A sketch of the geological structure of the Malay Peninsula](./a-sketch-of-the-geological-structure-of-the-malay-peninsula.md) — [J.B. Scrivenor](./jb-scrivenor.md) (pp. 1–13)
-* [The flora of Lower Siam](./the-flora-of-lower-siam.md) — [H.N. Ridley](./hn-ridley.md) (pp. 15–26)
-* [An account of a botanical expedition to Lower Siam](./an-account-of-a-botanical-expedition-to-lower-siam.md) — [H.N. Ridley](./hn-ridley.md) (pp. 27–234)
+* [The flora of Lower Siam](./the-flora-of-lower-siam.md) — [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 15–26)
+* [An account of a botanical expedition to Lower Siam](./an-account-of-a-botanical-expedition-to-lower-siam.md) — [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 27–234)
 
 ## Contributors
-* [H.N. Ridley](./hn-ridley.md)
+* [H.N. Ridley](./henry-nicholas-ridley.md)
 * [J.B. Scrivenor](./jb-scrivenor.md)
 
 ## References

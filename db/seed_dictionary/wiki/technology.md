@@ -22,6 +22,5 @@ published: false
 - Drabble, J.H. Technology transfer during the colonial period. MB 76(2)
 - Goh Chor Boon. Imported technology. MB 71(1)
 - Inkster, I. Technology transfer and Singapore trade. MB 73(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

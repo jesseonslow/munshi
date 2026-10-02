@@ -24,6 +24,5 @@ published: false
 ## MBRAS Sources
 
 - Bland, R.N. Obituary. SB 57
-
 ## References
 <!-- Grounded occurrences and citations -->

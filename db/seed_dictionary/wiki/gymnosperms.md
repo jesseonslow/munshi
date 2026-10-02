@@ -19,6 +19,5 @@ published: false
 ## MBRAS Sources
 
 - Ridley, H.N. Gymnosperms of the Malay Peninsula. SB 60
-
 ## References
 <!-- Grounded occurrences and citations -->

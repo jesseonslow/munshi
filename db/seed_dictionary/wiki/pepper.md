@@ -20,6 +20,5 @@ published: false
 
 - Jackson, J.C. Chinese agricultural pioneering in Singapore and Johore, 1800–1917. MB 38(1)
 - Trocki, C.A. Origin of the kangchu system, 1740–1860. MB 49(2)
-
 ## References
 <!-- Grounded occurrences and citations -->

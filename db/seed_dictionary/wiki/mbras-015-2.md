@@ -81,7 +81,7 @@ articles:
 * [Notes on the meanings of some Malay words](./notes-on-the-meanings-of-some-malay-words.md) — [J.A. Baker](./ja-baker.md) (pp. 150–152)
 * [Study of local Singapore tides](./study-of-local-singapore-tides.md) — [G.F. Leechman](./gf-leechman.md) (pp. 153–159)
 * [The founder of Malacca](./the-founder-of-malacca.md) — [callenfels](./callenfels.md) (pp. 160–166)
-* [Further notes upon a study of ancient times in the Malay Peninsula](./further-notes-upon-a-study-of-ancient-times-in-the-malay-pen.md) — [R.J. Wilkinson](./rj-wilkinson.md) (pp. 167–170)
+* [Further notes upon a study of ancient times in the Malay Peninsula](./further-notes-upon-a-study-of-ancient-times-in-the-malay-pen.md) — [R.J. Wilkinson](./richard-james-wilkinson.md) (pp. 167–170)
 
 ## Contributors
 * [C.H. Dakers](./ch-dakers.md)
@@ -89,7 +89,7 @@ articles:
 * [callenfels](./callenfels.md)
 * [G.F. Leechman](./gf-leechman.md)
 * [J.A. Baker](./ja-baker.md)
-* [R.J. Wilkinson](./rj-wilkinson.md)
+* [R.J. Wilkinson](./richard-james-wilkinson.md)
 
 ## References
 <!-- Grounded occurrences and citations -->

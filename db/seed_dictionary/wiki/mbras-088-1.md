@@ -30,6 +30,10 @@ contributors:
   name: Various
 - id: yh-kobayashi
   name: Y.H. Kobayashi
+- id: john-van-wyhe
+  name: John van Wyhe
+- id: gerrell-m-drawhorn
+  name: Gerrell M. Drawhorn
 parent_hub: journal-of-the-malaysian-branch-of-the-royal-asiatic-society
 status: stub
 published: false
@@ -107,14 +111,9 @@ articles:
 **Date:** June 2015
 
 ## Table of Contents
+* ['I am Ali Wallace': The Malay Assistant of Alfred Russel Wallace](./i-am-ali-wallace.md) — [John van Wyhe](./john-van-wyhe.md), [Gerrell M. Drawhorn](./gerrell-m-drawhorn.md) (pp. 3-31)
 * [A Peranakan family between Singapore and Shanghai: business-making, networks and identity, 1870s‒1910s](./a-peranakan-family-between-singapore-and-shanghai-business-m.md) — [S.J.C. Liu](./sjc-liu.md), [T.Y.H. Sim](./tyh-sim.md) (pp. 33–57)
 * [Historical documents relating to the Japanese occupation of Malaya. Comp. P.H. Kratoska](./historical-documents-relating-to-the-japanese-occupation-of-.md) — [Various](./various.md) (pp. 87–117)
-* *Museums, history and culture in Malaysia. Abu Talib Ahmad* — [C. Chou](./c-chou.md) (pp. 119–120) [Review]
-* *The peasant robbers of Kedah 1900‒1929: historical and folk perceptions. Cheah Boon Kheng* — [Mahani Musa](./mahani-musa.md) (pp. 124–125) [Review]
-* *Domination and contestation: Muslim bumiputera politics in Sarawak. Faisal S. Hazis* — [Ngu Ik Tien](./ngu-ik-tien.md), [Nurfadzilah Yahaya](./nurfadzilah-yahaya.md) (pp. 126–128) [Review]
-* *Tuked Rini, cosmic traveler: life and legend in the heart of Borneo. M. Janowski* — [Ooi Keat Gin](./ooi-keat-gin.md) (pp. 128–131) [Review]
-* *The Chulia in Penang: patronage and place-making around the Kapitan Kling mosque 1786‒1957. Khoo Salma Nasution* — [B.W. Andaya](./bw-andaya.md) (pp. 131–133) [Review]
-* *Squatters into citizens: the 1961 Bukit Ho Swee fire and the making of modern Singapore. Loh Kah Seng* — [Y.H. Kobayashi](./yh-kobayashi.md) (pp. 133–136) [Review]
 
 ## Contributors
 * [B.W. Andaya](./bw-andaya.md)
@@ -127,6 +126,8 @@ articles:
 * [T.Y.H. Sim](./tyh-sim.md)
 * [Various](./various.md)
 * [Y.H. Kobayashi](./yh-kobayashi.md)
+* [John van Wyhe](./john-van-wyhe.md)
+* [Gerrell M. Drawhorn](./gerrell-m-drawhorn.md)
 
 ## References
 <!-- Grounded occurrences and citations -->

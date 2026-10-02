@@ -22,6 +22,5 @@ published: false
 - Dennys, N.B. Breeding pearls and bacteria in rice. NQ Reprint 15
 - W.E. (Maxwell?) Breeding pearls. SB 3
 - Reid, A. Father Pécot’s voyage. MB 93(2)
-
 ## References
 <!-- Grounded occurrences and citations -->

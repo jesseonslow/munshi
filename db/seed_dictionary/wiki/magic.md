@@ -77,6 +77,5 @@ published: false
 - Skeat, W.W. Semah (menyemah). MB 22(1)
 - Skeat, W.W. Malay Magic. Reprint 24
 - Winstedt, R.O. Notes on Malay magic. MB 3(3) and 5(2)
-
 ## References
 <!-- Grounded occurrences and citations -->

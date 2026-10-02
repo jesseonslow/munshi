@@ -33,6 +33,5 @@ published: false
 - Sheppard, M. Manora in Kelantan. MB 46(1)
 - Tan Sooi Beng. The Chinese glove puppet theatre. MB 57(1)
 - Tan Sooi Beng. Peranakan performing, visual and material arts in Penang. MB 93(1) {R}
-
 ## References
 <!-- Grounded occurrences and citations -->

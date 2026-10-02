@@ -34,6 +34,5 @@ published: false
 - Cheah Boon Kheng. Rural crime in N Kedah (1909–29). MB 54(2)
 - Cheah Boon Kheng. Peasant robbers of Kedah: historical and folk perceptions. MB 88(1) {R}
 - Maxwell, W.E. _Ganju_. NQ Reprint 15
-
 ## References
 <!-- Grounded occurrences and citations -->

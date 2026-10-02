@@ -138,7 +138,7 @@ articles:
 * [Comments on John Crawfurd’s observations on some geological aspects of the Malaysian region in his Journal of an Embassy to the Courts of Siam and Cochin (1828](./comments-on-john-crawfurds-observations-on-some-geological-a.md) — [T.T. Khoo](./tt-khoo.md) (pp. 61–70)
 * [Notes on early mosques of the Malaysian Peninsula](./notes-on-early-mosques-of-the-malaysian-peninsula.md) — [A. Bruce](./a-bruce.md) (pp. 71–82)
 * [Swettenham. Schemer and historian](./swettenham-schemer-and-historian.md) — [H.S. Barlow](./hs-barlow.md) (pp. 83–100)
-* [The Kuala Langat piracy trial](./the-kuala-langat-piracy-trial.md) — [J.M. Gullick](./jm-gullick.md) (pp. 101–114)
+* [The Kuala Langat piracy trial](./the-kuala-langat-piracy-trial.md) — [J.M. Gullick](./john-michael-gullick.md) (pp. 101–114)
 * *Dateline Singapore: 150 years of the Straits Times. C.M. Turnbull* — [W. Cheah](./w-cheah.md) (pp. 116–119) [Review]
 * *Educating the Malay elite: the Malay College, Kuala Kangsar, 1905–1941. Khasnor Johan* — [H.S. Barlow](./hs-barlow.md) (pp. 119–120) [Review]
 * *The Diana adventure. D. Ball* — [B. Lim](./b-lim.md) (pp. 121–122) [Review]
@@ -151,7 +151,7 @@ articles:
 * [C.F. Yong](./cf-yong.md)
 * [H.S. Barlow](./hs-barlow.md)
 * [J. Lim](./j-lim.md)
-* [J.M. Gullick](./jm-gullick.md)
+* [J.M. Gullick](./john-michael-gullick.md)
 * [Lee Kam Hing](./lee-kam-hing.md)
 * [Leong Yee Fong](./leong-yee-fong.md)
 * [S. Leong](./s-leong.md)

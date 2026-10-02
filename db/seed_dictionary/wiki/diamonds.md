@@ -19,6 +19,5 @@ published: false
 ## MBRAS Sources
 
 - Ridley, H.N. Diamonds of the Malay Peninsula. SB 24
-
 ## References
 <!-- Grounded occurrences and citations -->

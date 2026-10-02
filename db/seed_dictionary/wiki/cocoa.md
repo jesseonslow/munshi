@@ -23,6 +23,5 @@ published: false
 ## MBRAS Sources
 
 - Amarjit Kaur. Origins of cocoa cultivation in Malaya. MB 68(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

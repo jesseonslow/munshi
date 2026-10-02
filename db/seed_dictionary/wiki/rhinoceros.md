@@ -22,6 +22,5 @@ published: false
 - Ridley, H.N. The Sumatran rhinoceros. SB 35
 - Rookmaaker, L.C. Rhinoceros of Borneo. MB 50(1)
 - Rookmaaker, L.C. Taxonomic history of the Sumatran rhinoceros. MB 57(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

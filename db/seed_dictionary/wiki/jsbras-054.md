@@ -92,21 +92,21 @@ articles:
 **Date:** January 1910
 
 ## Table of Contents
-* [New or rare Malayan plants](./new-or-rare-malayan-plants.md) — [H.N. Ridley](./hn-ridley.md) (pp. 1–61)
+* [New or rare Malayan plants](./new-or-rare-malayan-plants.md) — [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 1–61)
 * [Notes on the fertilisation of a few orchids in Sarawak](./notes-on-the-fertilisation-of-a-few-orchids-in-sarawak.md) — [C.J. Brooks](./cj-brooks.md) (pp. 99–106)
 * [Story of the Burong Geruda and the Raja Merong Mahawangsa](./story-of-the-burong-geruda-and-the-raja-merong-mahawangsa.md) — [R.N. Bland](./rn-bland.md) (pp. 107–115)
 * [My trip to Belum](./my-trip-to-belum.md) — [E.W. Birch](./ew-birch.md) (pp. 117–135)
 * [My visit to Klian Intan](./my-visit-to-klian-intan.md) — [E.W. Birch](./ew-birch.md) (pp. 136–146)
 * [The taking over from Siam of part of Reman or Rahman](./the-taking-over-from-siam-of-part-of-reman-or-rahman.md) — [E.W. Birch](./ew-birch.md) (pp. 147–155)
 * [Haji Ka-Ta-Na-Ka-La](./haji-ka-ta-na-ka-la.md) — [C.O. Blagden](./co-blagden.md) (pp. 156–157)
-* [An insectivorous hornbill](./an-insectivorous-hornbill.md) — [J.C. Moulton](./jc-moulton.md), [H.N. Ridley](./hn-ridley.md) (pp. 157–158)
+* [An insectivorous hornbill](./an-insectivorous-hornbill.md) — [J.C. Moulton](./john-coney-moulton.md), [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 157–158)
 
 ## Contributors
 * [C.J. Brooks](./cj-brooks.md)
 * [C.O. Blagden](./co-blagden.md)
 * [E.W. Birch](./ew-birch.md)
-* [H.N. Ridley](./hn-ridley.md)
-* [J.C. Moulton](./jc-moulton.md)
+* [H.N. Ridley](./henry-nicholas-ridley.md)
+* [J.C. Moulton](./john-coney-moulton.md)
 * [R.N. Bland](./rn-bland.md)
 
 ## References

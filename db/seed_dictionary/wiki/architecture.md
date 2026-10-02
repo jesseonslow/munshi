@@ -54,7 +54,7 @@ published: false
 - [Temples](./temples.md)
 
 ## MBRAS Sources
-<!-- Seed entries or targeted retrieval for Architecture -->
+
 ### Singapore
 
 - Davison, J. Black and white house. MB 80(1) {R}
@@ -84,8 +84,6 @@ published: false
 - Waterson, R. Living house. Anthropology of architecture in Malaya. MB 65(2)
 - Winstedt, R.O. A Perak palace. MB 7(3)
 - Zuraini Md Ali. Mubin Sheppard, conservation pioneer in Malaysia. MB
-83(2)
 - Zuraini Md Ali. Mubin Sheppard: Pioneering Works in Architectural Conservation in Malaysia. MB 95(1) {R}
-
 ## References
 <!-- Grounded occurrences and citations -->

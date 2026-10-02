@@ -42,6 +42,5 @@ published: false
 - Waterson, R. Anthropology of architecture in Malaya. MB 65(2)
 - Winstedt, R.O. The Malay house. MB 7(3)
 - Zuraini Md Ali. Mubin Sheppard, conservation pioneer in Malaysia. MB 83(2)
-
 ## References
 <!-- Grounded occurrences and citations -->

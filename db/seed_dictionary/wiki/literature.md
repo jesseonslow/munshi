@@ -45,7 +45,7 @@ published: false
 <!-- Synthesis engine: Insert fiction details here -->
 
 ## MBRAS Sources
-<!-- Seed entries or targeted retrieval for Literature -->
+
 ### (Auto)biography
 
 - Abdullah bin Mohamed. Memoirs of Mohamed Salleh bin Perang. MB 54(3) {R}
@@ -153,7 +153,5 @@ published: false
 - Tan Twan Eng. The House of Doors. MB 98(1) {R}
 
 ### Fiction
-<!-- Seed entries or targeted retrieval for Literature: Fiction -->
-
 ## References
 <!-- Grounded occurrences and citations -->

@@ -24,7 +24,6 @@ published: false
 ## MBRAS Sources
 
 - Ahmad Kamil, Tan Sri Nik. Foreword to volume (MB 40(2)) dedicated to ROW.
-
 ## Bibliography
 - (1906) [Some mouse-deer tales](./some-mouse-deer-tales.md). *JSBRAS* 45: 61–69
 - (1906) [Some notes on Malay card games](./some-notes-on-malay-card-games.md). *JSBRAS* 45: 85–88

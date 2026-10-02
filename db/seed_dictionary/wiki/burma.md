@@ -26,7 +26,7 @@ published: false
 <!-- Synthesis engine: Insert history details here -->
 
 ## MBRAS Sources
-<!-- Seed entries or targeted retrieval for Burma -->
+
 ### History
 
 - Braddell, R. Kulanggi or Gulanggi. MB 19(1)
@@ -34,6 +34,5 @@ published: false
 - Goh Geok Yian (ed) Bagan and its global connections. MB 91(1) {R}
 - Ramachandra, G.P. Outbreak of first Anglo-Burmese war. MB 51(2)
 - Winstedt, R.O. Kulanggi or Gulanggi. MB 18(2)
-
 ## References
 <!-- Grounded occurrences and citations -->

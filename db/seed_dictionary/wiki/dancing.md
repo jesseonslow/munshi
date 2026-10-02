@@ -33,6 +33,5 @@ published: false
 - Sheppard, M. _Joget Gamelan_ Trengganu. MB 40(1)
 - Sheppard, M. _Manora_ in Kelantan. MB 46(1)
 - Swettenham, F.A. A Malay _nautch_. SB 2 and Reprint 4
-
 ## References
 <!-- Grounded occurrences and citations -->

@@ -22,6 +22,5 @@ published: false
 ## MBRAS Sources
 
 - Church records, Malaka, 1642–1898. MB 15(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

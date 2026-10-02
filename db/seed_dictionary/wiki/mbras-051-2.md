@@ -95,7 +95,7 @@ articles:
 **Date:** December 1978
 
 ## Table of Contents
-* [Syers and the Selangor Police, 1875–1897](./syers-and-the-selangor-police-18751897.md) — [J.M. Gullick](./jm-gullick.md) (pp. 1–57)
+* [Syers and the Selangor Police, 1875–1897](./syers-and-the-selangor-police-18751897.md) — [J.M. Gullick](./john-michael-gullick.md) (pp. 1–57)
 * [The outbreak of the first Anglo-Burman War](./the-outbreak-of-the-first-anglo-burman-war.md) — [G.P. Ramachandra](./gp-ramachandra.md) (pp. 69–99)
 * [The development and direction of female education in peninsular Malaysia](./the-development-and-direction-of-female-education-in-peninsu.md) — [L. Manderson](./l-manderson.md) (pp. 100–122)
 * [Robert Farquhar in the Malay world](./robert-farquhar-in-the-malay-world.md) — [W.G. Miller](./wg-miller.md) (pp. 123–138)
@@ -107,7 +107,7 @@ articles:
 ## Contributors
 * [B.C. Stone](./bc-stone.md)
 * [G.P. Ramachandra](./gp-ramachandra.md)
-* [J.M. Gullick](./jm-gullick.md)
+* [J.M. Gullick](./john-michael-gullick.md)
 * [Khoo Kay Kim](./khoo-kay-kim.md)
 * [L. Manderson](./l-manderson.md)
 * [L.A. Mills](./la-mills.md)

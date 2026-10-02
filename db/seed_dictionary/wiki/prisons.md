@@ -24,6 +24,5 @@ published: false
 
 - Lemire, C. New penitential establishment at Singapore. SB 17
 - Turnbull, C.M. Convicts in the SS. MB 43(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

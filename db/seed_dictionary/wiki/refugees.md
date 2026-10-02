@@ -20,6 +20,5 @@ published: false
 
 - Thatcher, D. Refugee from the Japanese. Monograph 24
 - Nakamura, R. Cham refugee food and ethnic identity. MB 93(2)
-
 ## References
 <!-- Grounded occurrences and citations -->

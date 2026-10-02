@@ -27,6 +27,5 @@ published: false
 
 - Winstedt, R.O. Lexicographical coincidences in Khasi and Malay. SB 77
 - Winstedt, R.O. Mother-right among Khasis and Malays. MB 10(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

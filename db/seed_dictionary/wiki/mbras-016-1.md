@@ -120,7 +120,7 @@ articles:
 * [The Trengganu ‘rodat’](./the-trengganu-rodat.md) — [Mubin Sheppard](./mubin-sheppard.md) (pp. 109–114)
 * [A letter from Captain Light to Lord Cornwallis dated 20th June, 1788. Communicated C.E. Wurtzburg](./a-letter-from-captain-light-to-lord-cornwallis-dated-20th-ju.md) — [F. Light](./f-light.md), [C.E. Wurtzburg](./ce-wurtzburg.md) (pp. 115–122)
 * [A brief account of several countries surrounding Prince of Wales’s Island with their production. Recd. from Captain Leight {sic} Enclosed in Lord Cornwallis’s letter to Mr. Dundas, dated 7th January, 1789. Communicated C.E. Wurtzburg](./a-brief-account-of-several-countries-surrounding-prince-of-w.md) — [F. Light](./f-light.md), [C.E. Wurtzburg](./ce-wurtzburg.md) (pp. 123–126)
-* [Bencoolen](./bencoolen.md) — [R.J. Wilkinson](./rj-wilkinson.md) (pp. 127–133)
+* [Bencoolen](./bencoolen.md) — [R.J. Wilkinson](./richard-james-wilkinson.md) (pp. 127–133)
 * [The expression tho-tho](./the-expression-tho-tho.md) — [J.V. Mills](./jv-mills.md) (pp. 137–138)
 * [Two Dutch-Portuguese sea-fights](./two-dutch-portuguese-sea-fights.md) — [J.V. Mills](./jv-mills.md) (pp. 139–149)
 * [Malay place names of Hindu origin](./malay-place-names-of-hindu-origin.md) — [F.W. Douglas](./fw-douglas.md) (pp. 150–152)
@@ -132,7 +132,7 @@ articles:
 * [F.W. Douglas](./fw-douglas.md)
 * [J.V. Mills](./jv-mills.md)
 * [Mubin Sheppard](./mubin-sheppard.md)
-* [R.J. Wilkinson](./rj-wilkinson.md)
+* [R.J. Wilkinson](./richard-james-wilkinson.md)
 * [T.D. Hughes](./td-hughes.md)
 
 ## References

@@ -20,6 +20,5 @@ published: false
 
 - Burkill, I.H. Plethiandra sahebii: a new Melastomacea from Sarawak. SB 77
 - Ridley, H.N. Lasianthus barbellatus: a new species from Pulau Tioman, Pahang. SB 77
-
 ## References
 <!-- Grounded occurrences and citations -->

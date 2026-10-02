@@ -19,6 +19,5 @@ published: false
 ## MBRAS Sources
 
 - Smedley, N. Development of the tiger-shark Stegostoma tigrinum (Gmel). MB 4(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

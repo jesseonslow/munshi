@@ -38,7 +38,7 @@ published: false
 <!-- Synthesis engine: Insert history details here -->
 
 ## MBRAS Sources
-<!-- Seed entries or targeted retrieval for Straits Settlements -->
+
 ### History
 
 - Anderson, J. Political and commercial considerations regarding the Malayan peninsula and British settlements. MB 35(4) and Reprint 11
@@ -50,6 +50,5 @@ published: false
 - Tan Soo Chye. The Straits Settlements records. MB 22(1)
 - Turnbull, C.M. Governor Blundell and Sir Benson Maxwell. MB 30(1)
 - Yong, C.F. Governor Young and control of Chinese. MB 57(2)
-
 ## References
 <!-- Grounded occurrences and citations -->

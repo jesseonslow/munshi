@@ -20,6 +20,5 @@ published: false
 
 - Hervey, D.F.A. The camphor language (in A trip to Gunong Blumut). SB 3
 - Lake, H. Camphor tree and language in Johor. SB 26
-
 ## References
 <!-- Grounded occurrences and citations -->

@@ -19,6 +19,5 @@ published: false
 ## MBRAS Sources
 
 - Sather, C. Obituary. MB 55(2)
-
 ## References
 <!-- Grounded occurrences and citations -->

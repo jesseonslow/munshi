@@ -88,18 +88,18 @@ articles:
 * [Notes on the millipedes, centipedes, scorpions etc., of the Malay Peninsula and Siam](./notes-on-the-millipedes-centipedes-scorpions-etc-of-the-mala.md) — [S.S. Flower](./ss-flower.md) (pp. 1–48)
 * [Notes on a tour through the Siamese states on the west coast of the Malay Peninsula, 1900](./notes-on-a-tour-through-the-siamese-states-on-the-west-coast.md) — [C.W.S. Kynnersley](./cws-kynnersley.md) (pp. 49–66)
 * [The relations between Southern India and the Straits Settlements](./the-relations-between-southern-india-and-the-straits-settlem.md) — [A.W. O'Sullivan](./aw-osullivan.md) (pp. 67–74)
-* [The evolution of Malay spelling](./the-evolution-of-malay-spelling.md) — [W.G. Shellabear](./wg-shellabear.md) (pp. 75–135)
+* [The evolution of Malay spelling](./the-evolution-of-malay-spelling.md) — [W.G. Shellabear](./william-girdlestone-shellabear.md) (pp. 75–135)
 * [On the occurrence of Mus surifer, G.S. Miller, in Perak](./on-the-occurrence-of-mus-surifer-gs-miller-in-perak.md) — [A.L. Butler](./al-butler.md) (pp. 137)
-* [Rambong beetle](./rambong-beetle.md) — [H.N. Ridley](./hn-ridley.md) (pp. 138–139)
+* [Rambong beetle](./rambong-beetle.md) — [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 138–139)
 * [Allen Maclean Skinner: In memoriam](./allen-maclean-skinner-in-memoriam.md) — [C.W.S. Kynnersley](./cws-kynnersley.md) (pp. 139–140)
 
 ## Contributors
 * [A.L. Butler](./al-butler.md)
 * [A.W. O'Sullivan](./aw-osullivan.md)
 * [C.W.S. Kynnersley](./cws-kynnersley.md)
-* [H.N. Ridley](./hn-ridley.md)
+* [H.N. Ridley](./henry-nicholas-ridley.md)
 * [S.S. Flower](./ss-flower.md)
-* [W.G. Shellabear](./wg-shellabear.md)
+* [W.G. Shellabear](./william-girdlestone-shellabear.md)
 
 ## References
 <!-- Grounded occurrences and citations -->

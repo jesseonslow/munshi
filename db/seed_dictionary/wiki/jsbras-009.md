@@ -117,26 +117,26 @@ articles:
 **Date:** June 1882
 
 ## Table of Contents
-* [A journey on foot to the Patani frontier in 1876; being a journal kept an expedition undertaken to capture Datoh Maharaja Lela of Perak](./a-journey-on-foot-to-the-patani-frontier-in-1876-being-a-jou.md) — [W.E. Maxwell](./we-maxwell.md) (pp. 1–67)
+* [A journey on foot to the Patani frontier in 1876; being a journal kept an expedition undertaken to capture Datoh Maharaja Lela of Perak](./a-journey-on-foot-to-the-patani-frontier-in-1876-being-a-jou.md) — [W.E. Maxwell](./sir-william-edward-maxwell.md) (pp. 1–67)
 * [A few ideas on the probable origin of the hill tribes of Formosa](./a-few-ideas-on-the-probable-origin-of-the-hill-tribes-of-for.md) — [J. Dodd](./j-dodd.md) (pp. 69–84)
-* [The history of Perak from native sources](./the-history-of-perak-from-native-sources.md) — [W.E. Maxwell](./we-maxwell.md) (pp. 85–108)
+* [The history of Perak from native sources](./the-history-of-perak-from-native-sources.md) — [W.E. Maxwell](./sir-william-edward-maxwell.md) (pp. 85–108)
 * [Ornithological notes made in the Straits Settlements and the western states of the Malay Peninsula](./ornithological-notes-made-in-the-straits-settlements-and-the.md) — [H.R. Kelham](./hr-kelham.md) (pp. 109–140)
-* [On the transliteration of Malay in the roman character](./on-the-transliteration-of-malay-in-the-roman-character.md) — [W.E. Maxwell](./we-maxwell.md) (pp. 141–152)
-* [Python’s egg](./pythons-egg.md) — [N.B. Dennys](./nb-dennys.md) (pp. 161–162)
-* [Flying lizard](./flying-lizard.md) — [N.B. Dennys](./nb-dennys.md) (pp. 162–163)
-* [Flowering banana](./flowering-banana.md) — [N.B. Dennys](./nb-dennys.md) (pp. 163)
+* [On the transliteration of Malay in the roman character](./on-the-transliteration-of-malay-in-the-roman-character.md) — [W.E. Maxwell](./sir-william-edward-maxwell.md) (pp. 141–152)
+* [Python’s egg](./pythons-egg.md) — [N.B. Dennys](./nicholas-belfield-dennys.md) (pp. 161–162)
+* [Flying lizard](./flying-lizard.md) — [N.B. Dennys](./nicholas-belfield-dennys.md) (pp. 162–163)
+* [Flowering banana](./flowering-banana.md) — [N.B. Dennys](./nicholas-belfield-dennys.md) (pp. 163)
 * [Statement of Haji Mahomed Ali, a Mahomedan of Arabic extraction, born in the island of Hainan, China, regarding Mahomedans in China](./statement-of-haji-mahomed-ali-a-mahomedan-of-arabic-extracti.md) — [Muhammad Ali](./muhammad-ali.md) (pp. 165–166)
-* [Stone from Batu Pahat](./stone-from-batu-pahat.md) — [D.F.A. Hervey](./dfa-hervey.md) (pp. 168–170)
+* [Stone from Batu Pahat](./stone-from-batu-pahat.md) — [D.F.A. Hervey](./dudley-francis-amelius-hervey.md) (pp. 168–170)
 * [Padang Brahrang Estate, Lankat, Sumatra: rainfall for six months from 1st January to 30th June, 1882](./padang-brahrang-estate-lankat-sumatra-rainfall-for-six-month.md) — [A.B. Thompson](./ab-thompson.md) (pp. 171)
 
 ## Contributors
 * [A.B. Thompson](./ab-thompson.md)
-* [D.F.A. Hervey](./dfa-hervey.md)
+* [D.F.A. Hervey](./dudley-francis-amelius-hervey.md)
 * [H.R. Kelham](./hr-kelham.md)
 * [J. Dodd](./j-dodd.md)
 * [Muhammad Ali](./muhammad-ali.md)
-* [N.B. Dennys](./nb-dennys.md)
-* [W.E. Maxwell](./we-maxwell.md)
+* [N.B. Dennys](./nicholas-belfield-dennys.md)
+* [W.E. Maxwell](./sir-william-edward-maxwell.md)
 
 ## References
 <!-- Grounded occurrences and citations -->

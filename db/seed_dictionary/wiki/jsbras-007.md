@@ -62,7 +62,7 @@ articles:
 
 ## Table of Contents
 * [Some account of the mining districts of lower Perak](./some-account-of-the-mining-districts-of-lower-perak.md) — [J.E. De La Croix](./je-de-la-croix.md) (pp. 1–10)
-* [The folklore of the Malays](./the-folklore-of-the-malays.md) — [W.E. Maxwell](./we-maxwell.md) (pp. 11–29)
+* [The folklore of the Malays](./the-folklore-of-the-malays.md) — [W.E. Maxwell](./sir-william-edward-maxwell.md) (pp. 11–29)
 * [Notes on the rainfall of Singapore](./notes-on-the-rainfall-of-singapore.md) — [J.J.L. Wheatley](./jjl-wheatley.md) (pp. 31–50)
 * [Journal of a voyage through the Straits of Malacca on an expedition to the Molucca islands under the command of Admiral Rainier with some account of those islands at the time of their falling into our hands, and likewise suggestions relative to their future better management in case of being retained in our possession](./journal-of-a-voyage-through-the-straits-of-malacca-on-an-exp.md) — [W.C. Lennon](./wc-lennon.md) (pp. 51–74)
 
@@ -70,7 +70,7 @@ articles:
 * [J.E. De La Croix](./je-de-la-croix.md)
 * [J.J.L. Wheatley](./jjl-wheatley.md)
 * [W.C. Lennon](./wc-lennon.md)
-* [W.E. Maxwell](./we-maxwell.md)
+* [W.E. Maxwell](./sir-william-edward-maxwell.md)
 
 ## References
 <!-- Grounded occurrences and citations -->

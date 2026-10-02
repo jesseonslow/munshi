@@ -173,7 +173,7 @@ articles:
 * [The Hikayat Abdullah, discourse of dissent](./the-hikayat-abdullah-discourse-of-dissent.md) — [D. Carroll](./d-carroll.md) (pp. 91–129)
 * [The Undang-Undang Melaka: reflections on Malay society in the fifteenth century Malacca](./the-undang-undang-melaka-reflections-on-malay-society-in-the.md) — [Khasnor Johan](./khasnor-johan.md) (pp. 131–150)
 * [Malays and the red and white flag societies in Penang, 1830–1920s](./malays-and-the-red-and-white-flag-societies-in-penang-183019.md) — [Mahani Musa](./mahani-musa.md) (pp. 151–182)
-* [List of publications. {J.M. Gullick](./list-of-publications-jm-gullick.md) — [J.M. Gullick](./jm-gullick.md) (pp. 183–16)
+* [List of publications. {J.M. Gullick](./list-of-publications-jm-gullick.md) — [J.M. Gullick](./john-michael-gullick.md) (pp. 183–16)
 * *Indigenous peoples and the state: politics, land and ethnicity in the Malayan peninsula and Borneo. R.L. Winzeler* — [Zawawi Ibrahim](./zawawi-ibrahim.md) (pp. 190–191) [Review]
 * *The Japanese occupation of Malaya, 1941–1945: a social and economic history. P.H. Kratoska* — [M.R. Fernando](./mr-fernando.md) (pp. 191–193) [Review]
 * *Government and society in Malaysia. H. Crouch* — [Khoo Boo Teik](./khoo-boo-teik.md) (pp. 194–196) [Review]
@@ -187,7 +187,7 @@ articles:
 * [D. Carroll](./d-carroll.md)
 * [E. Chew](./e-chew.md)
 * [H.S. Barlow](./hs-barlow.md)
-* [J.M. Gullick](./jm-gullick.md)
+* [J.M. Gullick](./john-michael-gullick.md)
 * [Khasnor Johan](./khasnor-johan.md)
 * [Khoo Boo Teik](./khoo-boo-teik.md)
 * [Khoo Kay Kim](./khoo-kay-kim.md)

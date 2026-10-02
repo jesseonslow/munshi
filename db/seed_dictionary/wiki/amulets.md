@@ -38,6 +38,5 @@ published: false
 
 - O’Connor, S.J. Burial amulets in Bali, Philippines and Borneo. MB 44(1)
 - Rentse, A. Majapahit amulets in Kelantan. MB 14(3)
-
 ## References
 <!-- Grounded occurrences and citations -->

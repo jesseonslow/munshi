@@ -19,6 +19,5 @@ published: false
 ## MBRAS Sources
 
 - Tan Yeok-Seong. Incense burner from the Sambas treasures. MB 22(4)
-
 ## References
 <!-- Grounded occurrences and citations -->

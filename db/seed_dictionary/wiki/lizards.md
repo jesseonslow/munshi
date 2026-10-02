@@ -27,6 +27,5 @@ published: false
 - Robinson, H.C. Three vertebrates new to Malaya in Selangor. SB 44
 - Smith, M.A. Anew ground gecko (Gymnodactylus). MB 3(1)
 - Sworder, G.H. Aphaniotis fusca. MB 7(2)
-
 ## References
 <!-- Grounded occurrences and citations -->

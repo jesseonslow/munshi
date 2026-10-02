@@ -53,7 +53,7 @@ published: false
 <!-- Synthesis engine: Insert western medicine details here -->
 
 ## MBRAS Sources
-<!-- Seed entries or targeted retrieval for Medicine -->
+
 ### Traditional Medicine
 
 - Abdullah, Dato’ Sedia Raja. Mandi ayer gawar. MB 4(2)
@@ -91,6 +91,5 @@ published: false
 - Watson, M. The prevention of malaria in the FMS. Reprint 19
 - Wong Tze-ken, D. Wu Lien-Teh Revisited. MB 96(2) {R}
 - Wylie, L. Dr Braddon’s search for the cause of beriberi. MB 61(2)
-
 ## References
 <!-- Grounded occurrences and citations -->

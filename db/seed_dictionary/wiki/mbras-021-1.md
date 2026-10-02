@@ -121,8 +121,8 @@ articles:
 **Date:** April 1948
 
 ## Table of Contents
-* [A Malay legal digest compiled for ‘Abd al-Ghafur Muhaiyuddin Shah, Sultan of Pahang, 1592–1614 A.D., with undated additions. .E](./a-malay-legal-digest-compiled-for-abd-al-ghafur-muhaiyuddin-.md) — [J.E. Kempe](./je-kempe.md), [R.O. Winstedt](./ro-winstedt.md) (pp. 1–67)
-* [The island of North Keeling](./the-island-of-north-keeling.md) — [C.A. Gibson-Hill](./ca-gibson-hill.md) (pp. 68–103)
+* [A Malay legal digest compiled for ‘Abd al-Ghafur Muhaiyuddin Shah, Sultan of Pahang, 1592–1614 A.D., with undated additions. .E](./a-malay-legal-digest-compiled-for-abd-al-ghafur-muhaiyuddin-.md) — [J.E. Kempe](./je-kempe.md), [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 1–67)
+* [The island of North Keeling](./the-island-of-north-keeling.md) — [C.A. Gibson-Hill](./carl-alexander-gibson-hill.md) (pp. 68–103)
 * [Old Malacca: Tranqueira and Gajah Berang](./old-malacca-tranqueira-and-gajah-berang.md) — [R. Cardon](./r-cardon.md) (pp. 104–116)
 * [A note on Captain Light](./a-note-on-captain-light.md) — [C.E. Wurtzburg](./ce-wurtzburg.md) (pp. 116)
 * [The Penang cannon, Si Rambai](./the-penang-cannon-si-rambai.md) — [F.W. Douglas](./fw-douglas.md) (pp. 117–118)
@@ -133,7 +133,7 @@ articles:
 * [Notes on the educational policy of Sir Stamford Raffles](./notes-on-the-educational-policy-of-sir-stamford-raffles.md) — [G.G. Hough](./gg-hough.md) (pp. 166–170)
 
 ## Contributors
-* [C.A. Gibson-Hill](./ca-gibson-hill.md)
+* [C.A. Gibson-Hill](./carl-alexander-gibson-hill.md)
 * [C.E. Wurtzburg](./ce-wurtzburg.md)
 * [D. Headly](./d-headly.md)
 * [F.W. Douglas](./fw-douglas.md)
@@ -143,7 +143,7 @@ articles:
 * [P.D.R. Williams-Hunt](./pdr-williams-hunt.md)
 * [R. Cardon](./r-cardon.md)
 * [R.O. Noone](./ro-noone.md)
-* [R.O. Winstedt](./ro-winstedt.md)
+* [R.O. Winstedt](./richard-olaf-winstedt.md)
 * [W. Linehan](./w-linehan.md)
 
 ## References

@@ -63,7 +63,7 @@ published: false
 <!-- Synthesis engine: Insert kings and rulers details here -->
 
 ## MBRAS Sources
-<!-- Seed entries or targeted retrieval for Brunei -->
+
 ### History
 
 - Black. I.D. The end of Brunei rule in Sabah. MB 41(2) and Reprint 18
@@ -102,7 +102,6 @@ published: false
 - Evers, H.-D. Kampung Air. MB 88(1)
 - Khor, N. MBRAS visit to Bandar Seri Begawan. MB 86(2)
 - Nicholl, R. European sources for 16th century Brunei history. MB 49(1) {R}
--Roff, W.R. English-language fiction relating to Malaysia. MB 55(1)
 
 ### Kings and rulers
 
@@ -118,6 +117,5 @@ published: false
 - Sweeney, A. Silsilah Raja-Raja Brunei. MB 41(2) and Reprint 18 — Errata MB 42(2): 222–224 D 1969
 - Sweeney, A. Batu Tarsilah. MB 47(2) and Reprint 18
 - Treacher, W.H. Royal genealogy. SB 15 and Reprint 18
-
 ## References
 <!-- Grounded occurrences and citations -->

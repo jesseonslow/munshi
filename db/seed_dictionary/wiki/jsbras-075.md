@@ -73,18 +73,18 @@ articles:
 **Date:** April 1917
 
 ## Table of Contents
-* [New and rare Malayan plants](./new-and-rare-malayan-plants.md) — [H.N. Ridley](./hn-ridley.md) (pp. 5–38)
+* [New and rare Malayan plants](./new-and-rare-malayan-plants.md) — [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 5–38)
 * [A curious adaptation of habit to environment of a Malayan mosquito](./a-curious-adaptation-of-habit-to-environment-of-a-malayan-mo.md) — [C. Strickland](./c-strickland.md) (pp. 39)
 * [Elaeocarpus barnardii, a new species described from Perak](./elaeocarpus-barnardii-a-new-species-described-from-perak.md) — [I.H. Burkill](./ih-burkill.md) (pp. 41)
 * [Notes on Dipterocarps. {No. 1} The seedling of Anisoptera cosgata, Korth](./notes-on-dipterocarps-no-1-the-seedling-of-anisoptera-cosgat.md) — [I.H. Burkill](./ih-burkill.md) (pp. 43–48)
-* [Some rare words: kutaha, nakas, turap, teterapan, kop, biram, ganteh, Seri Menanti](./some-rare-words-kutaha-nakas-turap-teterapan-kop-biram-gante.md) — [R.O. Winstedt](./ro-winstedt.md) (pp. 49–50)
-* [The teaching of Malay in Europe](./the-teaching-of-malay-in-europe.md) — [R.O. Winstedt](./ro-winstedt.md) (pp. 52–54)
+* [Some rare words: kutaha, nakas, turap, teterapan, kop, biram, ganteh, Seri Menanti](./some-rare-words-kutaha-nakas-turap-teterapan-kop-biram-gante.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 49–50)
+* [The teaching of Malay in Europe](./the-teaching-of-malay-in-europe.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 52–54)
 
 ## Contributors
 * [C. Strickland](./c-strickland.md)
-* [H.N. Ridley](./hn-ridley.md)
+* [H.N. Ridley](./henry-nicholas-ridley.md)
 * [I.H. Burkill](./ih-burkill.md)
-* [R.O. Winstedt](./ro-winstedt.md)
+* [R.O. Winstedt](./richard-olaf-winstedt.md)
 
 ## References
 <!-- Grounded occurrences and citations -->

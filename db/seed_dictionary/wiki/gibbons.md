@@ -21,6 +21,5 @@ published: false
 ## MBRAS Sources
 
 - Kloss, C.B. White-handed gibbon. SB 50
-
 ## References
 <!-- Grounded occurrences and citations -->

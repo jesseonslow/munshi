@@ -96,7 +96,7 @@ published: false
 <!-- Synthesis engine: Insert politics and government details here -->
 
 ## MBRAS Sources
-<!-- Seed entries or targeted retrieval for Southeast Asia -->
+
 ### Description and travel
 
 - Bozzolo, C.F. An expedition to southern Siam and Kelantan in 1888. MB 91(1)
@@ -224,7 +224,6 @@ published: false
 ### Culture and society
 
 - Andaya, B.W. Position of women in early modern period in SEA. MB 80(2) {R}
-Blackburn, S. (ed) Women in Southeast Asian nationalist movements. MB 87(2) {R}
 - Evers, H.-D. The Nusantara concept. MB 89(1)
 - Harriden, J. Women and power in Burmese society. MB 90(1) {R}
 - Hazel Hahn, H. Global Encounters via Southeast Asia. MB 94(2) {R}
@@ -235,6 +234,7 @@ Blackburn, S. (ed) Women in Southeast Asian nationalist movements. MB 87(2) {R}
 - Lanzona, V.A. Women warriors in Southeast Asia. MB 93(2) {R}
 - Sim, G. Poetics of Southeast Asian Cinema. MB 94(2) {R}
 - Yamamoto, H. Bangsa and umma concepts in Islamized SEA. MB 85(1) {R}
+
 ### Politics and government
 
 - Chambers, P. (ed) The political economy of the military in Southeast Asia. MB 91(2) {R}
@@ -252,6 +252,5 @@ Blackburn, S. (ed) Women in Southeast Asian nationalist movements. MB 87(2) {R}
 - Weber, N. Malays in the Indochinese Peninsula (2) MB 94(2)
 - Wolters, O.W. History, culture and religion. MB 57(2) {R}
 - Woon, W. Commentary on the ASEAN charter. MB 89(1) {R}
-
 ## References
 <!-- Grounded occurrences and citations -->

@@ -26,9 +26,7 @@ published: false
 <!-- Synthesis engine: Insert in poetry details here -->
 
 ## MBRAS Sources
-<!-- Seed entries or targeted retrieval for Flowers -->
-### In poetry
-<!-- Seed entries or targeted retrieval for Flowers: In poetry -->
 
+### In poetry
 ## References
 <!-- Grounded occurrences and citations -->

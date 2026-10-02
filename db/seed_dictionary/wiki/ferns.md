@@ -34,6 +34,5 @@ published: false
 - Ridley, H.N. Matonia pectinata in the Karimon islands. SB 22
 - Ridley, H.N. Ferns of the Malay Peninsula. SB 50 and MB 4(1)
 - Ridley, H.N. Fern-allies and Characeae of the Malay Peninsula. SB 80
-
 ## References
 <!-- Grounded occurrences and citations -->

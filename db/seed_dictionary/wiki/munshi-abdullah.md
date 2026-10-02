@@ -58,12 +58,11 @@ published: false
 
 ### Works
 
-- Abdullah bin Abdul Kadir. _Hikayat Abdullah,_ tr. A.H. Hill. MB 28(3) and Reprint 29 
+- Abdullah bin Abdul Kadir. _Hikayat Abdullah,_ tr. A.H. Hill. MB 28(3) and Reprint 29
 - Abdullah bin Abdul Kadir. _Hikayat Abdullah._ Chaps 11 and 13. MB 42(1) and Reprint 1
 - Abdullah bin Abdul Kadir. _Shaer Kampung Gelam Terbakar._ MB 45(1)
 - Abdullah bin Abdul Kadir. Abdullah and Siami. MB 81(1)
 - Bastin, J.S. Missing 2nd edn of Thomsen/Abdullah Munshi English–Malay dictionary. MB 56(1)
-
 ## Bibliography
 - (1950) [Munshi Abdullah’s account of the Malacca Fort. A.H. Hill](./munshi-abdullahs-account-of-the-malacca-fort-ah-hill.md). *JMBRAS* 23(1): 84–99
 - (1955) [The Hikayat Abdullah; an annotated translation. A.H. Hill](./the-hikayat-abdullah-an-annotated-translation-ah-hill.md). *JMBRAS* 28(3): 1–354

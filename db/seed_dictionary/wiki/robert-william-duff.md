@@ -23,6 +23,5 @@ published: false
 
 - Levos, E.A. British seigneur in Kelantan, 1892–1932. MB 70(1)
 - Shaharil Talib. Duff syndicate in Kelantan 1900–2. MB 45(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

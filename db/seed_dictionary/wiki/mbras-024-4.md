@@ -34,11 +34,11 @@ articles:
 **Date:** December 1951
 
 ## Table of Contents
-* [Sir Frank Swettenham’s Perak journals, 1874–1876](./sir-frank-swettenhams-perak-journals-18741876.md) — [C.D. Cowan](./cd-cowan.md), [F.A. Swettenham](./fa-swettenham.md) (pp. 1–148)
+* [Sir Frank Swettenham’s Perak journals, 1874–1876](./sir-frank-swettenhams-perak-journals-18741876.md) — [C.D. Cowan](./cd-cowan.md), [F.A. Swettenham](./sir-frank-swettenham.md) (pp. 1–148)
 
 ## Contributors
 * [C.D. Cowan](./cd-cowan.md)
-* [F.A. Swettenham](./fa-swettenham.md)
+* [F.A. Swettenham](./sir-frank-swettenham.md)
 
 ## References
 <!-- Grounded occurrences and citations -->

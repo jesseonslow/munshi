@@ -69,12 +69,12 @@ articles:
 * [Some notes on the life history of the Aspidomorpha miliaris](./some-notes-on-the-life-history-of-the-aspidomorpha-miliaris.md) — [C.F. Bishop](./cf-bishop.md) (pp. 129–137)
 * [Notes on Malay history](./notes-on-malay-history.md) — [C.O. Blagden](./co-blagden.md) (pp. 139–162)
 * [From central India to Polynesia](./from-central-india-to-polynesia.md) — [C.O. Blagden](./co-blagden.md) (pp. 163–173)
-* [Fruit of Burbidgea](./fruit-of-burbidgea.md) — [H.N. Ridley](./hn-ridley.md) (pp. 175–176)
+* [Fruit of Burbidgea](./fruit-of-burbidgea.md) — [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 175–176)
 
 ## Contributors
 * [C.F. Bishop](./cf-bishop.md)
 * [C.O. Blagden](./co-blagden.md)
-* [H.N. Ridley](./hn-ridley.md)
+* [H.N. Ridley](./henry-nicholas-ridley.md)
 * [W. Hunter](./w-hunter.md)
 
 ## References

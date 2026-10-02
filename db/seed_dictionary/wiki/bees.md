@@ -31,6 +31,5 @@ published: false
 - Burkill, I.H. Bees in search of honey. SB 77
 - Dussek, O.T. Bersandui: Rembau verses. MB 6(4)
 - Gimlette, J.D. A bee _bomor_. MB 4(3)
-
 ## References
 <!-- Grounded occurrences and citations -->

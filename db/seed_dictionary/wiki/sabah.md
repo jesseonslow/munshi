@@ -68,7 +68,7 @@ published: false
 <!-- Synthesis engine: Insert description and travel details here -->
 
 ## MBRAS Sources
-<!-- Seed entries or targeted retrieval for Sabah -->
+
 ### Description and travel
 
 - Dalrymple, S.E. The Tawaran and Putatan rivers. SB 13
@@ -105,6 +105,5 @@ published: false
 - Evans, I.H.N. Ancient shell beads in North Borneo. MB 24(1)
 - Harrisson, T. Prehistory of Sabah. MB 45(1) {R}
 - Orolfo, P. Old coffins in Sabah caves. MB 11(2)
-
 ## References
 <!-- Grounded occurrences and citations -->

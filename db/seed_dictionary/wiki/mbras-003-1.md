@@ -184,8 +184,8 @@ articles:
 * [A preliminary account of the geology of Kelantan](./a-preliminary-account-of-the-geology-of-kelantan.md) — [H.E. Savage](./he-savage.md) (pp. 61–73)
 * [Dato’ Paroi, were-tiger](./dato-paroi-were-tiger.md) — [Zainal Abidin bin Ahmad](./zainal-abidin-bin-ahmad.md) (pp. 74–78)
 * [The origin of some Malay place-names](./the-origin-of-some-malay-place-names.md) — [Zainal Abidin bin Ahmad](./zainal-abidin-bin-ahmad.md) (pp. 79–82)
-* [A Kelantan invocation to the Earth Spirit](./a-kelantan-invocation-to-the-earth-spirit.md) — [R.O. Winstedt](./ro-winstedt.md) (pp. 83)
-* *Masa’lah sa-ribu. G.F. Pijper* — [R.O. Winstedt](./ro-winstedt.md) (pp. 84–85) [Review]
+* [A Kelantan invocation to the Earth Spirit](./a-kelantan-invocation-to-the-earth-spirit.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 83)
+* *Masa’lah sa-ribu. G.F. Pijper* — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 84–85) [Review]
 * [A peculiar custom in Kuala Kangsar](./a-peculiar-custom-in-kuala-kangsar.md) — [Abdul Majid bin Haji Zainuddin Haji](./abdul-majid-bin-haji-zainuddin-haji.md) (pp. 85–86)
 * [A new ground-gecko (Gymnodactylus) from the Malay Peninsula. Records of the Raffles Museum, No. 7](./a-new-ground-gecko-gymnodactylus-from-the-malay-peninsula-re.md) — [M.A. Smith](./ma-smith.md) (pp. 87)
 * [Banteng in the Malay Peninsula. Records of the Raffles Museum, No. 8](./banteng-in-the-malay-peninsula-records-of-the-raffles-museum.md) — [N. Trewheler](./n-trewheler.md) (pp. 88–89)
@@ -205,7 +205,7 @@ articles:
 * [J.A.S. Bucknill](./jas-bucknill.md)
 * [M.A. Smith](./ma-smith.md)
 * [N. Trewheler](./n-trewheler.md)
-* [R.O. Winstedt](./ro-winstedt.md)
+* [R.O. Winstedt](./richard-olaf-winstedt.md)
 * [Sejarah Melayu](./sejarah-melayu.md)
 * [W.G. Stirling](./wg-stirling.md)
 * [Zainal Abidin bin Ahmad](./zainal-abidin-bin-ahmad.md)

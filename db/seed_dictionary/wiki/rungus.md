@@ -22,6 +22,5 @@ published: false
 ## MBRAS Sources
 
 - Appell, G.N. Social groupings among the Rungus of N Borneo. MB 41(2)
-
 ## References
 <!-- Grounded occurrences and citations -->

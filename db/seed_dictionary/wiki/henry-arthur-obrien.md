@@ -23,7 +23,6 @@ published: false
 ## MBRAS Sources
 
 - Haughton, H.T. Obituary. SB 30
-
 ## Bibliography
 - (1883) [Latah](./latah.md). *JSBRAS* 11: 143–153
 - (1883) [Latah](./latah.md). *JSBRAS* 12: 283–285

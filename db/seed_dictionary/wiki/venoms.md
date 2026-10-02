@@ -19,6 +19,5 @@ published: false
 ## MBRAS Sources
 
 - Dennys, N.B. Snake poisons. SB 9
-
 ## References
 <!-- Grounded occurrences and citations -->

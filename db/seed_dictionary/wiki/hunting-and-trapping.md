@@ -25,6 +25,5 @@ published: false
 - Bland, R.N. Hunting invocations. SB 42
 - Gibson-Hill, C.A. Jerat tempurong. MB 28(1)
 - Woolley, G.C. Murut hunting customs. MB 14(3)
-
 ## References
 <!-- Grounded occurrences and citations -->

@@ -35,10 +35,10 @@ articles:
 **Date:** July 1951
 
 ## Table of Contents
-* [Yap Ah Loy, 1837–1885, with an introduction and three final chapters by J.M. Gullick (and notes on the text). S.M. Middlebrook](./yap-ah-loy-18371885-with-an-introduction-and-three-final-cha.md) — [J.M. Gullick](./jm-gullick.md), [S.M. Middlebrook](./sm-middlebrook.md) (pp. 1–127)
+* [Yap Ah Loy, 1837–1885, with an introduction and three final chapters by J.M. Gullick (and notes on the text). S.M. Middlebrook](./yap-ah-loy-18371885-with-an-introduction-and-three-final-cha.md) — [J.M. Gullick](./john-michael-gullick.md), [S.M. Middlebrook](./sm-middlebrook.md) (pp. 1–127)
 
 ## Contributors
-* [J.M. Gullick](./jm-gullick.md)
+* [J.M. Gullick](./john-michael-gullick.md)
 * [S.M. Middlebrook](./sm-middlebrook.md)
 
 ## References

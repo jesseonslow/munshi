@@ -26,6 +26,5 @@ published: false
 
 - Knight, A. Tan Tock Seng’s Hospital, Singapore. SB 64 and MB 42(1) and Reprint 1
 - Lee, Y.K. Singapore’s pauper and Tan Tock Seng hospitals. MB 48(2), 49(1) and (2), 50(2)
-
 ## References
 <!-- Grounded occurrences and citations -->

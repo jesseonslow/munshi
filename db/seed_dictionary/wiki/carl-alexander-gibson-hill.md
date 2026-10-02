@@ -31,7 +31,6 @@ published: false
 - Luyt, B. An Excerpt from Carl Gibson-Hill. MB 95(1)
 - Luyt, B. Carl A. Gibson-Hill. MB 96(1) {R}
 - Luyt, B. Carl A. Gibson-Hill. Monograph 53.
-
 ## Bibliography
 - (1935) [The Singapore Chronicle, 1824–37](./the-singapore-chronicle-182437.md). *JMBRAS* 26(1): 175–199
 - (1941) [A note on the Christmas Island canoe (kolek](./a-note-on-the-christmas-island-canoe-kolek.md). *JMBRAS* 19(1): 125–130
@@ -63,7 +62,7 @@ published: false
 - (1954) [Singapore: notes on the history of the old Strait, 1580–1850](./singapore-notes-on-the-history-of-the-old-strait-15801850.md). *JMBRAS* 27(1): 163–214
 - (1954) [Malay names of salt-water fish. T.W. Burdon and C.A. Gibson-Hill. { In Papers on Malayan fishing methods](./malay-names-of-salt-water-fish-tw-burdon-and-ca-gibson-hill-.md). *JMBRAS* 27(2): 175–176
 - (1954) [A landing on Christmas Island in 1864](./a-landing-on-christmas-island-in-1864.md). *JMBRAS* 27(1): 217–220
-- (1954) [Raffles, Alexander Hare & Johanna van Hare. MB 28(1): 184–191 My1955 Recent archaeological discoveries in Malaya (1952–1953): the investigations at Johore Lama. (G. de G. Sieveking, P. Wheatley and C.A. Gibson-Hill](./raffles-alexander-hare-johanna-van-hare-mb-281-184191-my1955.md). *JMBRAS* 27(1): 224–233
+- (1954) [Raffles, Alexander Hare & Johanna van Hare](./raffles-alexander-hare-johanna-van-hare.md). *JMBRAS* 27(1): 224–233
 - (1955) [Johore Lama and other ancient sites on the Johore River. {In Papers on Johore Lama and the Portuguese in Malaya (1511–1641](./johore-lama-and-other-ancient-sites-on-the-johore-river-in-p.md). *JMBRAS* 28(2): 126–197
 - (1955) [Jerat tempurong](./jerat-tempurong.md). *JMBRAS* 28(1): 172–173
 - (1955) [Six wooden images in the Cheng Hong Teng, Malacca](./six-wooden-images-in-the-cheng-hong-teng-malacca.md). *JMBRAS* 28(1): 173–179

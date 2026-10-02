@@ -167,8 +167,8 @@ articles:
 * [Nomadic Penan of the Upper Rejang (Plieran), Sarawak](./nomadic-penan-of-the-upper-rejang-plieran-sarawak.md) — [G Arnold](./g-arnold.md) (pp. 40–82)
 * [A note on the stability of the Chinese population in Singapore, 1947–1950](./a-note-on-the-stability-of-the-chinese-population-in-singapo.md) — [M. Freedman](./m-freedman.md) (pp. 83–93)
 * [Communal disturbances in the Straits Settlements in 1857](./communal-disturbances-in-the-straits-settlements-in-1857.md) — [C.M. Turnbull](./cm-turnbull.md) (pp. 94–144)
-* [Notes on the administration of the Singapore Post Office, 1819–67](./notes-on-the-administration-of-the-singapore-post-office-181.md) — [C.A. Gibson-Hill](./ca-gibson-hill.md) (pp. 145–162)
-* [Five early watercolour sketches of Penang & Malacca. J. Bastin and C.A. Gibson-Hill](./five-early-watercolour-sketches-of-penang-malacca-j-bastin-a.md) — [J.S. Bastin](./js-bastin.md), [C.A. Gibson-Hill](./ca-gibson-hill.md) (pp. 163–171)
+* [Notes on the administration of the Singapore Post Office, 1819–67](./notes-on-the-administration-of-the-singapore-post-office-181.md) — [C.A. Gibson-Hill](./carl-alexander-gibson-hill.md) (pp. 145–162)
+* [Five early watercolour sketches of Penang & Malacca. J. Bastin and C.A. Gibson-Hill](./five-early-watercolour-sketches-of-penang-malacca-j-bastin-a.md) — [J.S. Bastin](./js-bastin.md), [C.A. Gibson-Hill](./carl-alexander-gibson-hill.md) (pp. 163–171)
 * [Notes on Baram Malay](./notes-on-baram-malay.md) — [R. Needham](./r-needham.md) (pp. 171–175)
 * [The relics & offerings from a bronze bust of Taong-Kha-Pa, founder of the Lamaist sect of the Yellow Hats](./the-relics-offerings-from-a-bronze-bust-of-taong-kha-pa-foun.md) — [I.H. Burkill](./ih-burkill.md) (pp. 175–176)
 * [Gomanton caves](./gomanton-caves.md) — [E. Banks](./e-banks.md) (pp. 177–178)
@@ -182,7 +182,7 @@ articles:
 
 ## Contributors
 * [B.A.V. Peacock](./bav-peacock.md)
-* [C.A. Gibson-Hill](./ca-gibson-hill.md)
+* [C.A. Gibson-Hill](./carl-alexander-gibson-hill.md)
 * [C.M. Turnbull](./cm-turnbull.md)
 * [D.K. Bassett](./dk-bassett.md)
 * [E. Banks](./e-banks.md)

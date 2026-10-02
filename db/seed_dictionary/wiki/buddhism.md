@@ -52,6 +52,5 @@ published: false
 - Nasha Rodziadi Khaw. Bukit Choras Inscriptions. MB 98(2)
 - O’Connor, S.J. A metal mould for making clay Buddhist votive stupas. MB 48(2)
 - Sharma, A. Sanskrit inscription in ancient Brunei script. MB 52(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

@@ -96,24 +96,24 @@ articles:
 **Date:** August 1969
 
 ## Table of Contents
-* [Tumasik or old Singapore {extracts from A History of Malaya, published in the Journal as Part I of Volume 13, 1935](./tumasik-or-old-singapore-extracts-from-a-history-of-malaya-p.md) — [R.O. Winstedt](./ro-winstedt.md) (pp. 5–9)
+* [Tumasik or old Singapore {extracts from A History of Malaya, published in the Journal as Part I of Volume 13, 1935](./tumasik-or-old-singapore-extracts-from-a-history-of-malaya-p.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 5–9)
 * [Lung-yaumen and Tan-Mah-hsi](./lung-yaumen-and-tan-mah-hsi.md) — [R. Braddell](./r-braddell.md) (pp. 10–24)
 * [Malay Annals, chapter III. .C. Brown](./malay-annals-chapter-iii-c-brown.md) — [C.C. Brown](./cc-brown.md) (pp. 25–33)
-* [The founder of old Singapore. SB 82: {127} S 1920. Reprinted](./the-founder-of-old-singapore-sb-82-127-s-1920-reprinted.md) — [R.O. Winstedt](./ro-winstedt.md) (pp. 42)
+* [The founder of old Singapore. SB 82: {127} S 1920. Reprinted](./the-founder-of-old-singapore-sb-82-127-s-1920-reprinted.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 42)
 * [Date of the foundation of Singapore](./date-of-the-foundation-of-singapore.md) — [R.B. Raffles](./rb-raffles.md) (pp. 83–84)
-* [The Hikayat Abdullah. .H. Hill. Chapter II: the founding of Singapore](./the-hikayat-abdullah-h-hill-chapter-ii-the-founding-of-singa.md) — [Abdullah bin Abdul Kadir Munshi](./abdullah-bin-abdul-kadir-munshi.md), [A.H. Hill](./ah-hill.md) (pp. 85–106)
-* [Reprinted](./reprinted.md) — [C.A. Gibson-Hill](./ca-gibson-hill.md) (pp. 107–111)
+* [The Hikayat Abdullah. .H. Hill. Chapter II: the founding of Singapore](./the-hikayat-abdullah-h-hill-chapter-ii-the-founding-of-singa.md) — [Abdullah bin Abdul Kadir Munshi](./abdullah-bin-abdul-kadir-munshi.md), [A.H. Hill](./anthony-haydock-hill.md) (pp. 85–106)
+* [Reprinted](./reprinted.md) — [C.A. Gibson-Hill](./carl-alexander-gibson-hill.md) (pp. 107–111)
 * [The vernacular press in the Straits](./the-vernacular-press-in-the-straits.md) — [E.W. Birch](./ew-birch.md) (pp. 192–195)
 
 ## Contributors
-* [A.H. Hill](./ah-hill.md)
+* [A.H. Hill](./anthony-haydock-hill.md)
 * [Abdullah bin Abdul Kadir Munshi](./abdullah-bin-abdul-kadir-munshi.md)
-* [C.A. Gibson-Hill](./ca-gibson-hill.md)
+* [C.A. Gibson-Hill](./carl-alexander-gibson-hill.md)
 * [C.C. Brown](./cc-brown.md)
 * [E.W. Birch](./ew-birch.md)
 * [R. Braddell](./r-braddell.md)
 * [R.B. Raffles](./rb-raffles.md)
-* [R.O. Winstedt](./ro-winstedt.md)
+* [R.O. Winstedt](./richard-olaf-winstedt.md)
 
 ## References
 <!-- Grounded occurrences and citations -->

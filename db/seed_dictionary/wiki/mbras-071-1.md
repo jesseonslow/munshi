@@ -121,7 +121,7 @@ articles:
 * [The Malaysia plan and the first Brunei elections, 1962](./the-malaysia-plan-and-the-first-brunei-elections-1962.md) — [Mohamed Yusop](./mohamed-yusop.md) (pp. 52–73)
 * [Malay politics and the murder of J.W.W. Birch, British Resident in Perak in 1875. The humiliation and revenge of the Maharaja Lela](./malay-politics-and-the-murder-of-jww-birch-british-resident-.md) — [W. Cheah](./w-cheah.md) (pp. 74–105)
 * [The Melaka Malay Diaspora in Makassar, c 1500–1669](./the-melaka-malay-diaspora-in-makassar-c-15001669.md) — [W. Cummings](./w-cummings.md) (pp. 106–121)
-* [Governors’ houses](./governors-houses.md) — [J.M. Gullick](./jm-gullick.md) (pp. 123–137)
+* [Governors’ houses](./governors-houses.md) — [J.M. Gullick](./john-michael-gullick.md) (pp. 123–137)
 * *Operation Matador: Britain’s war plans against the Japanese 1918–1941. Ong Chit Chung* — [E.B. Reynolds](./eb-reynolds.md) (pp. 138–139) [Review]
 * *Creating space: power relations and the urban built environment in Singapore. B.S.A. Yeoh* — [J.F. Warren](./jf-warren.md) (pp. 140–142) [Review]
 * *Tinggal kenangan: the memoirs of Dato Sir Mahmud bin Mat* — [H.S. Barlow](./hs-barlow.md) (pp. 142–143) [Review]
@@ -132,7 +132,7 @@ articles:
 * [Goh Chor Boon](./goh-chor-boon.md)
 * [H.S. Barlow](./hs-barlow.md)
 * [J.F. Warren](./jf-warren.md)
-* [J.M. Gullick](./jm-gullick.md)
+* [J.M. Gullick](./john-michael-gullick.md)
 * [Khoo Kay Kim](./khoo-kay-kim.md)
 * [Mohamed Yusop](./mohamed-yusop.md)
 * [W. Cheah](./w-cheah.md)

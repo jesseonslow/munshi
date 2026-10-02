@@ -27,6 +27,5 @@ published: false
 - MacGregor, I.A. Sea-fight near Singapore in 1570’s. MB 29(3)
 - Mills, J.V. Two Dutch-Portuguese sea fights. MB 16(1)
 - Tregonning. K.G. Anglo-Dutch naval battle off Celebes in 1806. MB 32(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

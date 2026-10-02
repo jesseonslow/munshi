@@ -23,7 +23,6 @@ published: false
 ## MBRAS Sources
 
 - Singaravelu, S. Obituary. MB 55(1)
-
 ## Bibliography
 - (1936) [A note on an inscribed seal from Perak](./a-note-on-an-inscribed-seal-from-perak.md). *JMBRAS* 14(3): 282–283
 - (1949) [A note on the Sambas finds](./a-note-on-the-sambas-finds.md). *JMBRAS* 22(4): 16–19

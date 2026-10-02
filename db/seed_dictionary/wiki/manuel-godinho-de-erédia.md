@@ -25,6 +25,5 @@ published: false
 ## MBRAS Sources
 
 - Borschberg, P. Three early 17th century maps of de Erédia. MB 92(2)
-
 ## References
 <!-- Grounded occurrences and citations -->

@@ -26,6 +26,5 @@ published: false
 
 - Kloss, C.B. Arctic _amok_. MB 1(1)
 - Spores, J.C. Running amuck. MB 62(2) {R}
-
 ## References
 <!-- Grounded occurrences and citations -->

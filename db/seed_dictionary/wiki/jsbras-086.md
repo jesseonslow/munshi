@@ -176,11 +176,11 @@ articles:
 **Date:** November 1922
 
 ## Table of Contents
-* [New and rare Malayan plants](./new-and-rare-malayan-plants.md) — [H.N. Ridley](./hn-ridley.md) (pp. 202–311)
+* [New and rare Malayan plants](./new-and-rare-malayan-plants.md) — [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 202–311)
 * [A general account of the geology of the Malay Peninsula and the surrounding countries, including Burma, the Shan States, Yunnan, Indo-China, Siam, Sumatra, Java, Borneo and other islands of the Dutch East Indies](./a-general-account-of-the-geology-of-the-malay-peninsula-and-.md) — [E.S. Willbourn](./es-willbourn.md) (pp. 237–256)
-* [The early history of Singapore, Johore and Malacca: an outline of a paper by G.P. Rouffaer](./the-early-history-of-singapore-johore-and-malacca-an-outline.md) — [G.P. Rouffaer](./gp-rouffaer.md), [R.O. Winstedt](./ro-winstedt.md) (pp. 257–260)
+* [The early history of Singapore, Johore and Malacca: an outline of a paper by G.P. Rouffaer](./the-early-history-of-singapore-johore-and-malacca-an-outline.md) — [G.P. Rouffaer](./gp-rouffaer.md), [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 257–260)
 * [Burong olok-olok (jester bird) is the brown gannet](./burong-olok-olok-jester-bird-is-the-brown-gannet.md) — [Hamilton A.W](./hamilton-aw.md) (pp. 260)
-* [A Malay pantheist charm](./a-malay-pantheist-charm.md) — [R.O. Winstedt](./ro-winstedt.md) (pp. 261–267)
+* [A Malay pantheist charm](./a-malay-pantheist-charm.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 261–267)
 * [Notes on the enemies of butterflies](./notes-on-the-enemies-of-butterflies.md) — [L. Collenette](./l-collenette.md) (pp. 268–269)
 * [Notes on Dipterocarps. {No. 6} On the genus Pachynocarpus. I.H](./notes-on-dipterocarps-no-6-on-the-genus-pachynocarpus-ih.md) — [I.H. Burkill](./ih-burkill.md), [Burkill](./burkill.md), [F.W. Foxworthy](./fw-foxworthy.md) (pp. 271–280)
 * [Notes on Dipterocarps. {No. 7} On the fruit and germination of Isoptera borneensis](./notes-on-dipterocarps-no-7-on-the-fruit-and-germination-of-i.md) — [I.H. Burkill](./ih-burkill.md) (pp. 281–284)
@@ -201,13 +201,13 @@ articles:
 * [F.W. Foxworthy](./fw-foxworthy.md)
 * [G.P. Rouffaer](./gp-rouffaer.md)
 * [G.T. MacBryan](./gt-macbryan.md)
-* [H.N. Ridley](./hn-ridley.md)
+* [H.N. Ridley](./henry-nicholas-ridley.md)
 * [Hamilton A.W](./hamilton-aw.md)
 * [I.H. Burkill](./ih-burkill.md)
 * [L. Collenette](./l-collenette.md)
 * [Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)
 * [N.B. Baboneau](./nb-baboneau.md)
-* [R.O. Winstedt](./ro-winstedt.md)
+* [R.O. Winstedt](./richard-olaf-winstedt.md)
 * [Zainal Abidin bin Ahmad](./zainal-abidin-bin-ahmad.md)
 
 ## References

@@ -33,6 +33,5 @@ published: false
 - Wang Gungwu. UM Archaeological Society survey of Central Kedah, 1958. MB 31(1).
 - Wilson, H.E. An abortive plan for an Anglo-Chinese college in Singapore. MB 45(2)
 - Wing Choo Ming. Indonesian Peranakan literature: UKM collection. MB 51(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

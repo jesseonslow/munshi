@@ -14,8 +14,8 @@ contributors:
   name: A. Graf
 - id: abu-talib-ahmad
   name: Abu Talib Ahmad
-- id: d-wong-tze-ken
-  name: D. Wong Tze-ken
+- id: danny-wong-tze-ken
+  name: Danny Wong Tze-ken
 - id: hs-barlow
   name: H.S. Barlow
 - id: hassan-shuhaimi-nik-bin-nik-abdul-rahman
@@ -53,7 +53,7 @@ articles:
   slug: the-petagas-war-memorial-and-the-creation-of-a-heroic-past-i
   title: The Petagas war memorial and the creation of a heroic past in Sabah
   authors:
-  - D. Wong Tze-ken
+  - Danny Wong Tze-ken
   pages: 19–32
   is_review: false
 - id: jmbras-80-2-p33
@@ -137,8 +137,8 @@ articles:
 **Date:** December 2007
 
 ## Table of Contents
-* [A short history of Ulu Langat to 1900](./a-short-history-of-ulu-langat-to-1900.md) — [J.M. Gullick](./jm-gullick.md) (pp. 1–18)
-* [The Petagas war memorial and the creation of a heroic past in Sabah](./the-petagas-war-memorial-and-the-creation-of-a-heroic-past-i.md) — [D. Wong Tze-ken](./d-wong-tze-ken.md) (pp. 19–32)
+* [A short history of Ulu Langat to 1900](./a-short-history-of-ulu-langat-to-1900.md) — [J.M. Gullick](./john-michael-gullick.md) (pp. 1–18)
+* [The Petagas war memorial and the creation of a heroic past in Sabah](./the-petagas-war-memorial-and-the-creation-of-a-heroic-past-i.md) — [Danny Wong Tze-ken](./danny-wong-tze-ken.md) (pp. 19–32)
 * [Celates, Rayat-Laut, pirates: the Orang Laut and their decline in history](./celates-rayat-laut-pirates-the-orang-laut-and-their-decline-.md) — [T.P. Barnard](./tp-barnard.md) (pp. 33–49)
 * [German works on Malay culture and literature since the nineteenth century](./german-works-on-malay-culture-and-literature-since-the-ninet.md) — [A. Graf](./a-graf.md) (pp. 51–65)
 * [An analysis of Johore’s finances 1910–1940](./an-analysis-of-johores-finances-19101940.md) — [I. Sugimoto](./i-sugimoto.md) (pp. 67–87)
@@ -153,12 +153,12 @@ articles:
 ## Contributors
 * [A. Graf](./a-graf.md)
 * [Abu Talib Ahmad](./abu-talib-ahmad.md)
-* [D. Wong Tze-ken](./d-wong-tze-ken.md)
+* [Danny Wong Tze-ken](./danny-wong-tze-ken.md)
 * [H.S. Barlow](./hs-barlow.md)
 * [Hassan Shuhaimi Nik, bin Nik Abdul Rahman](./hassan-shuhaimi-nik-bin-nik-abdul-rahman.md)
 * [I. Sugimoto](./i-sugimoto.md)
 * [J. Funston](./j-funston.md)
-* [J.M. Gullick](./jm-gullick.md)
+* [J.M. Gullick](./john-michael-gullick.md)
 * [Kobkua Suwannathat-Pian](./kobkua-suwannathat-pian.md)
 * [Loh Wei Leng](./loh-wei-leng.md)
 * [Mason](./mason.md)

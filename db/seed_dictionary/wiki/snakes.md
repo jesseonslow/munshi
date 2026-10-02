@@ -38,6 +38,5 @@ published: false
 - Sworder, G.H. Calamaria gimletti Bouleng. MB 7(2)
 - Wray, L. Death from snake bites. NQ Reprint 15
 - Wray, L. The bite of the python. NQ Reprint 15
-
 ## References
 <!-- Grounded occurrences and citations -->

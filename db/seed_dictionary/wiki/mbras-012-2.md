@@ -185,7 +185,7 @@ articles:
 * [The Perak “Pallava seal”](./the-perak-pallava-seal.md) — [R. Braddell](./r-braddell.md) (pp. 173–174)
 * [Polepon](./polepon.md) — [J.V. Mills](./jv-mills.md) (pp. 175–181)
 * [Some Malay words and derivations](./some-malay-words-and-derivations.md) — [C.N. Maxwell](./cn-maxwell.md) (pp. 182–183)
-* [John Desmond Gimlette. Obituary](./john-desmond-gimlette-obituary.md) — [R.O. Winstedt](./ro-winstedt.md) (pp. 184)
+* [John Desmond Gimlette. Obituary](./john-desmond-gimlette-obituary.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 184)
 
 ## Contributors
 * [A. Rentse](./a-rentse.md)
@@ -197,7 +197,7 @@ articles:
 * [M. MacDonald](./m-macdonald.md)
 * [R. Braddell](./r-braddell.md)
 * [R. Cardon](./r-cardon.md)
-* [R.O. Winstedt](./ro-winstedt.md)
+* [R.O. Winstedt](./richard-olaf-winstedt.md)
 * [Schurhammer](./schurhammer.md)
 * [W. Linehan](./w-linehan.md)
 * [W.L.H. Duckworth](./wlh-duckworth.md)

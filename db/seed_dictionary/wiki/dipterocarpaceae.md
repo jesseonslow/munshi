@@ -24,6 +24,5 @@ published: false
 - Burkill, I.H. Notes on Dipterocarps. SB 75, 76, 79, 81, 82, 86, MB 1(1), 3(1)
 - Burkill, I.H. Notes on _Pachynocarpus_. SB 86
 - Symington, C.F. Notes on Malayan Dipterocarpaceae. MB 19(2)
-
 ## References
 <!-- Grounded occurrences and citations -->

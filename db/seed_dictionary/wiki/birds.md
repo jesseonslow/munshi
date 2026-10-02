@@ -78,7 +78,6 @@ published: false
 - Sharpe, R.B. Birds from Perak. SB 18, 19, 31
 - Wilson, J.-J. Colonial birding in the Thai-Malay Peninsula. MB 94(2)
 - Wray, L. Collecting expedition to Batang Padang, Perak. SB 21
-
 ### Description
 
 - Anon. Habits of the Drongo. SB 35
@@ -100,6 +99,5 @@ published: false
 - Medway, Gathorne Gathorne-Hardy, Lord. Tom Harrisson ornithologist. MB 49(1)
 - Moulton, J.C. A new rail. SB 85
 - Ridley, H.N. Nesting of the little grey woodpecker. SB 44
-
 ## References
 <!-- Grounded occurrences and citations -->

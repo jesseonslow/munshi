@@ -34,10 +34,10 @@ articles:
 **Date:** June 1955
 
 ## Table of Contents
-* [The Hikayat Abdullah; an annotated translation. A.H. Hill](./the-hikayat-abdullah-an-annotated-translation-ah-hill.md) — [Abdullah bin Abdul Kadir Munshi](./abdullah-bin-abdul-kadir-munshi.md), [A.H. Hill](./ah-hill.md) (pp. 1–354)
+* [The Hikayat Abdullah; an annotated translation. A.H. Hill](./the-hikayat-abdullah-an-annotated-translation-ah-hill.md) — [Abdullah bin Abdul Kadir Munshi](./abdullah-bin-abdul-kadir-munshi.md), [A.H. Hill](./anthony-haydock-hill.md) (pp. 1–354)
 
 ## Contributors
-* [A.H. Hill](./ah-hill.md)
+* [A.H. Hill](./anthony-haydock-hill.md)
 * [Abdullah bin Abdul Kadir Munshi](./abdullah-bin-abdul-kadir-munshi.md)
 
 ## References

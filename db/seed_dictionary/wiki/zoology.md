@@ -30,6 +30,5 @@ published: false
 - Hamilton, A.W. Malayan natural history notes. MB 5(2)
 - Hubback, T. Salt Licks. MB 95(2)
 - Moulton, J.C. A new method of writing trinomials. SB 85
-
 ## References
 <!-- Grounded occurrences and citations -->

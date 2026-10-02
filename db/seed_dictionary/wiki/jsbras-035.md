@@ -84,18 +84,18 @@ articles:
 **Date:** January 1901
 
 ## Table of Contents
-* [The flora of Mount Ophir](./the-flora-of-mount-ophir.md) — [H.N. Ridley](./hn-ridley.md) (pp. 1–28)
+* [The flora of Mount Ophir](./the-flora-of-mount-ophir.md) — [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 1–28)
 * [A list of the butterflies of Mt. Penrissen, Sarawak, with notes on the species](./a-list-of-the-butterflies-of-mt-penrissen-sarawak-with-notes.md) — [R.S. Shelford](./rs-shelford.md) (pp. 29–42)
 * [A list of the reptiles of Borneo](./a-list-of-the-reptiles-of-borneo.md) — [R.S. Shelford](./rs-shelford.md) (pp. 43–68)
 * [Notes from the Sarawak Museum](./notes-from-the-sarawak-museum.md) — [R.S. Shelford](./rs-shelford.md) (pp. 69–71)
-* [Garu and Chandan](./garu-and-chandan.md) — [H.N. Ridley](./hn-ridley.md) (pp. 73–82)
+* [Garu and Chandan](./garu-and-chandan.md) — [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 73–82)
 * [The Sakai dialect of the Ulu Kampar, Perak](./the-sakai-dialect-of-the-ulu-kampar-perak.md) — [H.L.E. Luering](./hle-luering.md) (pp. 91–104)
-* [The Sumatran rhinoceros](./the-sumatran-rhinoceros.md) — [H.N. Ridley](./hn-ridley.md) (pp. 105–106)
-* [Nicholas Belfield Dennys: In memoriam](./nicholas-belfield-dennys-in-memoriam.md) — [H.N. Ridley](./hn-ridley.md) (pp. 106–107)
+* [The Sumatran rhinoceros](./the-sumatran-rhinoceros.md) — [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 105–106)
+* [Nicholas Belfield Dennys: In memoriam](./nicholas-belfield-dennys-in-memoriam.md) — [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 106–107)
 
 ## Contributors
 * [H.L.E. Luering](./hle-luering.md)
-* [H.N. Ridley](./hn-ridley.md)
+* [H.N. Ridley](./henry-nicholas-ridley.md)
 * [R.S. Shelford](./rs-shelford.md)
 
 ## References

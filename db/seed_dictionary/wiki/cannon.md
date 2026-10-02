@@ -29,6 +29,5 @@ published: false
 - Gibson-Hill, C.A. Cannon on Pulau Aur. MB 23(1)
 - Gibson-Hill, C.A. Old cannon of Dutch origin in Malaya. MB 26(1)
 - Woolley, G.C. Malay cannon. MB 20(2)
-
 ## References
 <!-- Grounded occurrences and citations -->

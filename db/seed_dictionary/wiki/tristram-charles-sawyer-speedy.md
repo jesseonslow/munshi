@@ -22,6 +22,5 @@ published: false
 ## MBRAS Sources
 
 - Gullick, J.M. Captain Speedy of Larut. MB 26(3)
-
 ## References
 <!-- Grounded occurrences and citations -->

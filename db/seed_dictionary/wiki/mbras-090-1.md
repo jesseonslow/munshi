@@ -190,7 +190,7 @@ articles:
 * [Managing agency capitalism and Malayan rubber: Harrisons & Crosfield, Ltd. (1900–1940](./managing-agency-capitalism-and-malayan-rubber-harrisons-cros.md) — [K. Koike](./k-koike.md) (pp. 73–100)
 * [Tanah Rata and the development of the Cameron Highlands, 1925–2030](./tanah-rata-and-the-development-of-the-cameron-highlands-1925.md) — [R. Weebers](./r-weebers.md) (pp. 101–111)
 * [Muted speech, Apa Khabar Orang Kampung , and To Singapore, with Love](./muted-speech-apa-khabar-orang-kampung-and-to-singapore-with-.md) — [F.-T. Hsu](./f-t-hsu.md) (pp. 113–126)
-* [Cameron’s Highlands](./camerons-highlands.md) — [Anon (and unidentifiable initials)](./anon-and-unidentifiable-initials.md) (pp. 127–130)
+* [Cameron’s Highlands](./camerons-highlands.md) — [Anon](./anon-and-unidentifiable-initials.md) (pp. 127–130)
 * [Malacca in 1824: an eye-witness account. . Dyer; with an introd. and notes](./malacca-in-1824-an-eye-witness-account-dyer-with-an-introd-a.md) — [H. de Bougainville](./h-de-bougainville.md) (pp. 131–137)
 * *A history of Malaysia, 3rd edn* — [Abu Talib Ahmad](./abu-talib-ahmad.md), [L.Y. Andaya](./ly-andaya.md) (pp. 139–144) [Review]
 * *Admiral Matelieff’s Singapore and Johor (1606–1616). . Borschberg* — [Dhiravat na Pombejra](./dhiravat-na-pombejra.md) (pp. 144–146) [Review]
@@ -204,7 +204,7 @@ articles:
 
 ## Contributors
 * [Abu Talib Ahmad](./abu-talib-ahmad.md)
-* [Anon (and unidentifiable initials)](./anon-and-unidentifiable-initials.md)
+* [Anon](./anon-and-unidentifiable-initials.md)
 * [Arba'iyah bt Mohd Noor](./arbaiyah-bt-mohd-noor.md)
 * [Dhiravat na Pombejra](./dhiravat-na-pombejra.md)
 * [F.-T. Hsu](./f-t-hsu.md)

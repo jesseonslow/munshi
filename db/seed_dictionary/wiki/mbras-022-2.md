@@ -31,10 +31,10 @@ articles:
 **Date:** May 1949
 
 ## Table of Contents
-* [Sungei Ujong](./sungei-ujong.md) — [J.M. Gullick](./jm-gullick.md) (pp. 1–69)
+* [Sungei Ujong](./sungei-ujong.md) — [J.M. Gullick](./john-michael-gullick.md) (pp. 1–69)
 
 ## Contributors
-* [J.M. Gullick](./jm-gullick.md)
+* [J.M. Gullick](./john-michael-gullick.md)
 
 ## References
 <!-- Grounded occurrences and citations -->

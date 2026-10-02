@@ -131,7 +131,7 @@ articles:
 **Date:** December 2014
 
 ## Table of Contents
-* [Recollections of my time in Malaya (1945–1956) Part 3](./recollections-of-my-time-in-malaya-19451956-part-3.md) — [J.M. Gullick](./jm-gullick.md) (pp. 47–89)
+* [Recollections of my time in Malaya (1945–1956) Part 3](./recollections-of-my-time-in-malaya-19451956-part-3.md) — [J.M. Gullick](./john-michael-gullick.md) (pp. 47–89)
 * [Notes on rubber growing in Perak](./notes-on-rubber-growing-in-perak.md) — [L. Wray](./l-wray.md) (pp. 91–95)
 * *A slow ride into the past: the Chinese trishaw industry in Singapore, 1942‒1983 J. Lim* — [C. Cheng](./c-cheng.md) (pp. 97–98) [Review]
 * *Chinese capitalism in colonial Malaya, 1900‒1941. W.Y. Tai* — [Wu Xiao An](./wu-xiao-an.md) (pp. 101–103) [Review]
@@ -153,7 +153,7 @@ articles:
 * [Dhiravat na Pombejra](./dhiravat-na-pombejra.md)
 * [H. Ting](./h-ting.md)
 * [H.S. Barlow](./hs-barlow.md)
-* [J.M. Gullick](./jm-gullick.md)
+* [J.M. Gullick](./john-michael-gullick.md)
 * [L. Wray](./l-wray.md)
 * [Loh Wei Leng](./loh-wei-leng.md)
 * [Wu Xiao An](./wu-xiao-an.md)

@@ -102,7 +102,6 @@ published: false
 - Winzeler, R.L. Traditional Islamic schools in Kelantan. MB 54(3)
 - Yamamoto, H. Bangsa and umma concepts in Islamized SEA. MB 85(1) {R}
 - Yusuf Chang. Ming empire and Islam. MB 61(2)
-
 ### Coming to Southeast Asia
 
 - Harrisson, T. Coming of Islam to West and North Borneo. MB 45(1)
@@ -138,6 +137,5 @@ published: false
 - Oman Fathurahman. Shaṭṭārīyah silsilah in Aceh, Java and Lanao. MB 90(1) {R}
 - Winstedt, R.O. Some Malay mystics. MB 1(2)
 - Winstedt, R.O. Notes on Malay subjects. MB 20(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

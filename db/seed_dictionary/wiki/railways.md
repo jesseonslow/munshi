@@ -23,6 +23,5 @@ published: false
 - Ibbotson, R. North Borneo Railway and the founding of Jesselton. MB 93(1) {R}
 - Jeshurun, C. Malay Railway and Works Construction Company, 1893–5. MB 37(2)
 - Sidhu, J.S. Railways in Selangor. MB 38(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

@@ -42,6 +42,5 @@ published: false
 - Middlebrook, S.M. New Chinese temple at Kandang, Malacca. MB 17(1)
 - Sim, K. The “white tiger” in Penang. MB 23(1)
 - Subhadradis Diskul, M.C. Chedi at Wat Keo, Chaiya, Suratthani. MB 53(2)
-
 ## References
 <!-- Grounded occurrences and citations -->

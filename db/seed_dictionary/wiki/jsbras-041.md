@@ -114,22 +114,22 @@ articles:
 
 ## Table of Contents
 * [Two Sea-Dayak legends. {With a note H.N. Ridley](./two-sea-dayak-legends-with-a-note-hn-ridley.md) — [E.H. Gomes](./eh-gomes.md) (pp. 1–29)
-* [New Malayan plants](./new-malayan-plants.md) — [H.N. Ridley](./hn-ridley.md) (pp. 31–51)
+* [New Malayan plants](./new-malayan-plants.md) — [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 31–51)
 * [Notes on a cruise in the Southern China Sea](./notes-on-a-cruise-in-the-southern-china-sea.md) — [C.B. Kloss](./cb-kloss.md) (pp. 53–80)
 * [A list of the butterflies of Borneo with description of new species](./a-list-of-the-butterflies-of-borneo-with-description-of-new-.md) — [R.S. Shelford](./rs-shelford.md) (pp. 81–111)
 * [The Sakais of Batang Padang, Perak](./the-sakais-of-batang-padang-perak.md) — [G.B. Cerruti](./gb-cerruti.md) (pp. 113–117)
 * [On some Hymenoptera from the Raffles Museum, Singapore](./on-some-hymenoptera-from-the-raffles-museum-singapore.md) — [P. Cameron](./p-cameron.md) (pp. 119–122)
 * [Malay Hymenoptera: addenda and corrections](./malay-hymenoptera-addenda-and-corrections.md) — [P. Cameron](./p-cameron.md) (pp. 122–124)
-* [On the flowering of Barringtonia racemosa](./on-the-flowering-of-barringtonia-racemosa.md) — [H.N. Ridley](./hn-ridley.md) (pp. 125–126)
-* [Fertilization of Webera stellulata](./fertilization-of-webera-stellulata.md) — [H.N. Ridley](./hn-ridley.md) (pp. 126–127)
+* [On the flowering of Barringtonia racemosa](./on-the-flowering-of-barringtonia-racemosa.md) — [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 125–126)
+* [Fertilization of Webera stellulata](./fertilization-of-webera-stellulata.md) — [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 126–127)
 * [Human images among the Orang Mantong](./human-images-among-the-orang-mantong.md) — [W.L. Abbott](./wl-abbott.md) (pp. 128–129)
-* [The Orang Laut of Singapore](./the-orang-laut-of-singapore.md) — [H.N. Ridley](./hn-ridley.md) (pp. 129–130)
+* [The Orang Laut of Singapore](./the-orang-laut-of-singapore.md) — [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 129–130)
 
 ## Contributors
 * [C.B. Kloss](./cb-kloss.md)
 * [E.H. Gomes](./eh-gomes.md)
 * [G.B. Cerruti](./gb-cerruti.md)
-* [H.N. Ridley](./hn-ridley.md)
+* [H.N. Ridley](./henry-nicholas-ridley.md)
 * [P. Cameron](./p-cameron.md)
 * [R.S. Shelford](./rs-shelford.md)
 * [W.L. Abbott](./wl-abbott.md)

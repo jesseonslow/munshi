@@ -23,7 +23,6 @@ published: false
 ## MBRAS Sources
 
 - Kloss, C.B. Obituary. MB 8(2)
-
 ## Bibliography
 - (1905) [Note on the occurrence in Selangor of three vertebrates new to the Malay Peninsula](./note-on-the-occurrence-in-selangor-of-three-vertebrates-new-.md). *JSBRAS* 44: 223–225
 - (1916) [Preliminary diagnoses of some new species and subspecies of mammals and birds obtained in Korinchi, West Sumatra, Feb-June 1914](./preliminary-diagnoses-of-some-new-species-and-subspecies-of-.md). *JSBRAS* 73: 269–278

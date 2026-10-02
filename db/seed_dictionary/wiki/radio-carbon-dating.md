@@ -22,6 +22,5 @@ published: false
 ## MBRAS Sources
 
 - Harrisson, T. Radio-carbon dates from Kota Baru, Brunei. MB 45(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

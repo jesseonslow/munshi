@@ -24,6 +24,5 @@ published: false
 - Ahmad Sarji bin Abdul Hamid. The Chief Secretary. MB 70(1) {R}
 - Kathirithamby-Wells, J. Civil service 1819–32. MB 42(2)
 - Khasnor Johan. Modern Malay administrative elite. MB 59(2) {R}
-
 ## References
 <!-- Grounded occurrences and citations -->

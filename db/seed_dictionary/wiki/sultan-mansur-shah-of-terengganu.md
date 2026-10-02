@@ -19,6 +19,5 @@ published: false
 ## MBRAS Sources
 
 - Andaya, B. Tuhfat-al-Nafis and Sultan Mansur Shah. MB 49(2)
-
 ## References
 <!-- Grounded occurrences and citations -->

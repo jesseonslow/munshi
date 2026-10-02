@@ -6,7 +6,7 @@ canonical_name: The Petagas war memorial and the creation of a heroic past in Sa
 type: article
 article_type: article
 authors:
-- D. Wong Tze-ken
+- Danny Wong Tze-ken
 year: 2007
 journal_code: JMBRAS
 volume: 80

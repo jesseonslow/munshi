@@ -26,6 +26,5 @@ published: false
 - Laidlaw, F.F. New dragonfly from Gunong Tahan. MB 1(1)
 - Laidlaw, F.F. Dragonflies from Mentawai Island. MB 4(2)
 - Laidlaw, F.F. Survey of dragonfly fauna of Malay Peninsula. MB 1(2) and 2(3)
-
 ## References
 <!-- Grounded occurrences and citations -->

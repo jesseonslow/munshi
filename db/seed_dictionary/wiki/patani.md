@@ -30,6 +30,5 @@ published: false
 - Porath, N. Politics and power relations in the Hikayat Patani. MB 84(2)
 - Skeat, W.W. Cambridge University expedition 1899–1900. MB 26(4)
 - Wyatt, D.K. A Thai version of Newbold’s “Hikayat Patani”. MB 40(2)
-
 ## References
 <!-- Grounded occurrences and citations -->

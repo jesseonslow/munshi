@@ -103,7 +103,7 @@ articles:
 * [Odoric of Pordenone (1265–1331): his vision of China and South-East Asia and his contribution to relations between Asia and Europe](./odoric-of-pordenone-12651331-his-vision-of-china-and-south-e.md) — [L. Bressan](./l-bressan.md) (pp. 1–23)
 * [The discovery of Bukit Jawa, Gelok, a middle-late Palaeolithic site in Perak, Malaysia](./the-discovery-of-bukit-jawa-gelok-a-middle-late-palaeolithic.md) — [Zuraina Majid](./zuraina-majid.md) (pp. 49–52)
 * [The attitudes of the Brookes towards education in Sarawak](./the-attitudes-of-the-brookes-towards-education-in-sarawak.md) — [Ooi Keat Gin](./ooi-keat-gin.md) (pp. 53–67)
-* [The music of Negara-Ku. J](./the-music-of-negara-ku-j.md) — [J. Harding](./harding-j.md), [J.M. Gullick](./jm-gullick.md) (pp. 68–74)
+* [The music of Negara-Ku. J](./the-music-of-negara-ku-j.md) — [J. Harding](./harding-j.md), [J.M. Gullick](./john-michael-gullick.md) (pp. 68–74)
 * [The ‘Waterfall’ Botanic Garden on Pulau Pinang and the foundation of the Penang Botanical Gardens 1884–1910](./the-waterfall-botanic-garden-on-pulau-pinang-and-the-foundat.md) — [D.S. Jones](./ds-jones.md) (pp. 75–96)
 * *Early views of Indonesia: drawings in the British Library. A.T. Gallop* — [Lim Chong Keat](./lim-chong-keat.md) (pp. 115–116) [Review]
 * *Kamus–Jawi–Melayu–Inggeris: a classic Jawi–Malay–English dictionary* — [H.S. Barlow](./hs-barlow.md) (pp. 116–117) [Review]
@@ -113,7 +113,7 @@ articles:
 * [D.S. Jones](./ds-jones.md)
 * [H.S. Barlow](./hs-barlow.md)
 * [J. Harding](./harding-j.md)
-* [J.M. Gullick](./jm-gullick.md)
+* [J.M. Gullick](./john-michael-gullick.md)
 * [L. Bressan](./l-bressan.md)
 * [Lim Chong Keat](./lim-chong-keat.md)
 * [Ooi Keat Gin](./ooi-keat-gin.md)

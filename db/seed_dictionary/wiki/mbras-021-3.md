@@ -31,10 +31,10 @@ articles:
 **Date:** October 1948
 
 ## Table of Contents
-* [Index {to} volumes 1–20 (1923–47) of the Society’s journals](./index-to-volumes-120-192347-of-the-societys-journals.md) — [C.A. Gibson-Hill](./ca-gibson-hill.md) (pp. 1–66)
+* [Index {to} volumes 1–20 (1923–47) of the Society’s journals](./index-to-volumes-120-192347-of-the-societys-journals.md) — [C.A. Gibson-Hill](./carl-alexander-gibson-hill.md) (pp. 1–66)
 
 ## Contributors
-* [C.A. Gibson-Hill](./ca-gibson-hill.md)
+* [C.A. Gibson-Hill](./carl-alexander-gibson-hill.md)
 
 ## References
 <!-- Grounded occurrences and citations -->

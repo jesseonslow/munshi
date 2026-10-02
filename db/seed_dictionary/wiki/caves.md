@@ -38,6 +38,5 @@ published: false
 - Orolfo, P. Old coffins in Sabah caves. MB 11(2)
 - Ridley, H.N. The white snake of the Selangor caves. SB 31
 - Wallon, M.L.H. Klouwang and its caves, Aceh. SB 8
-
 ## References
 <!-- Grounded occurrences and citations -->

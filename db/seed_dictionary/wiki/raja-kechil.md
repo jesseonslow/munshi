@@ -19,6 +19,5 @@ published: false
 ## MBRAS Sources
 
 - Andaya, L.Y. Raja Kechil and the Minangkabau conquest of Johore, 1718. MB 45(2)
-
 ## References
 <!-- Grounded occurrences and citations -->

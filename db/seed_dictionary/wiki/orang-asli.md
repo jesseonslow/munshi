@@ -86,7 +86,6 @@ published: false
 - Winstedt, R.O. The bridge of the dead: Orang Asli entry to the after-world. MB 24(3)
 - Winzeler, R.L. Indigenous peoples and the state. MB 72(2) {R}
 - Yogeswaran Subramaniam. Orang Asli land and resource rights. MB 93(2)
-
 ### Dialects
 
 - Adams, T.S. A vocabulary of Pangan. SB 85
@@ -114,8 +113,8 @@ published: false
 - _The Field_ (23 April 1878). Semang and Sakai of the Province Wellesley border. SB 1
 - Hale, A. Sang, the title of an Orang Asli headman of Ulu Kinta. NQ Reprint 15
 - Hervey, D.F.A. The mantra (Johol NS) tradition. SB 10
-- Lim Teckwyn. First Contact between the British and Orang Asli. MB 94(2)
-- Lim Teckwyn. The Lost Sungai Lumpur. MB 98(2)
+- Teckwyn Lim. First Contact between the British and Orang Asli. MB 94(2)
+- Teckwyn Lim. The Lost Sungai Lumpur. MB 98(2)
 - Logan, J.R. Tribes of Penang and Province Wellesley. SB 7 and Reprint 33
 - Maxwell, W.E. Aboriginal tribes of Perak. SB 4
 - Mikluho-Maclay, N. Ethnological excursions in Johor 1874–75. SB 2
@@ -125,6 +124,5 @@ published: false
 - Needham, R. Negritos of N Pahang. MB 49(2)
 - Sellato, B. Nomads of the Borneo rain forest. MB 68(2) {R}
 - Windsor, E. Orang liar of Ulu Kepasing, Pahang. MB 20(2)
-
 ## References
 <!-- Grounded occurrences and citations -->

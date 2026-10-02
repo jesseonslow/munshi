@@ -18,7 +18,6 @@ published: false
 
 ## MBRAS Sources
 
-- Wilkinson, R.J. Mahmud and Abdul Jalil. MB 9(1) 
-
+- Wilkinson, R.J. Mahmud and Abdul Jalil. MB 9(1)
 ## References
 <!-- Grounded occurrences and citations -->

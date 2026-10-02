@@ -27,6 +27,5 @@ published: false
 - Locke, A. Tigers of Trengganu. Monograph 23
 - McNeely, J.A. Soul of the tiger MB 65(2) {R}
 - Moulton, J.C. A tiger at sea. SB 85
-
 ## References
 <!-- Grounded occurrences and citations -->

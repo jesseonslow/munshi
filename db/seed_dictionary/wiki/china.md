@@ -39,7 +39,6 @@ published: false
 ### Commerce with Southeast Asia
 
 - Dening, N. Pre-war and post-war trade with Malaya. MB 72(1) and Reprint 25
-Eredia, M.G. de. Description of Malaca, Meridional India and Cathay. MB 8(1) and Reprint 14
 - Hall, K.R. SEA trade at the beginning of the European age. MB 54(1)
 - Heng Thiam Soon, D. Sino-Malay trade and diplomacy. MB 84(1) {R}
 - Lim, J. Fujian-Singapore tea trade 1920–60. MB 84(1) {R}
@@ -64,6 +63,5 @@ Eredia, M.G. de. Description of Malaca, Meridional India and Cathay. MB 8(1) and
 - Wade, G. The Zheng He voyages: a reassessment. MB 78(1)
 - Winstedt, R.O. Raja Langit. MB 19(2)
 - Wong Tze-ken, D. Wu Lien-Teh Revisited. MB 96(2) {R}
-
 ## References
 <!-- Grounded occurrences and citations -->

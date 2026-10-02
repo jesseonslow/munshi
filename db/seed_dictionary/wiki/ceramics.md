@@ -31,6 +31,5 @@ published: false
 - Miksic, J.N. Earthenware in SEA. MB 79(2) {R}
 - Sjostrand, S. 14th century shipwreck and SEA ceramic history. MB 74(1) and Reprint 25
 - SEA Ceramics Society. Song dynasty maritime trade. MB 59(2) {R}
-
 ## References
 <!-- Grounded occurrences and citations -->

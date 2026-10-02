@@ -20,6 +20,5 @@ published: false
 ## MBRAS Sources
 
 - Dennys, N.B. The octopus. NQ Reprint 15
-
 ## References
 <!-- Grounded occurrences and citations -->

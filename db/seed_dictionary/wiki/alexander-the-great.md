@@ -20,6 +20,5 @@ published: false
 
 - Winstedt, R.O. New Mss. of Malay romance. MB 16(2)
 - Winstedt, R.O. Mount Meru and Chula legends. MB 18(2)
-
 ## References
 <!-- Grounded occurrences and citations -->

@@ -126,16 +126,16 @@ articles:
 **Date:** December 1917
 
 ## Table of Contents
-* [The advent of Muhammadanism in the Malay Peninsula and Archipelago](./the-advent-of-muhammadanism-in-the-malay-peninsula-and-archi.md) — [R.O. Winstedt](./ro-winstedt.md) (pp. 17–175)
+* [The advent of Muhammadanism in the Malay Peninsula and Archipelago](./the-advent-of-muhammadanism-in-the-malay-peninsula-and-archi.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 17–175)
 * [Memorandum on the aborigines of the Jasin district of Malacca, dated 1892](./memorandum-on-the-aborigines-of-the-jasin-district-of-malacc.md) — [C.O. Blagden](./co-blagden.md) (pp. 177–180)
-* [Place-names in the Hikayat Pasai](./place-names-in-the-hikayat-pasai.md) — [R.O. Winstedt](./ro-winstedt.md) (pp. 181)
-* [Malay nursery rhymes](./malay-nursery-rhymes.md) — [R.O. Winstedt](./ro-winstedt.md) (pp. 183–186)
-* [Lasianthus barbellatus, a new species from Pulau Tiuman, Pahang](./lasianthus-barbellatus-a-new-species-from-pulau-tiuman-pahan.md) — [H.N. Ridley](./hn-ridley.md) (pp. 187)
+* [Place-names in the Hikayat Pasai](./place-names-in-the-hikayat-pasai.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 181)
+* [Malay nursery rhymes](./malay-nursery-rhymes.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 183–186)
+* [Lasianthus barbellatus, a new species from Pulau Tiuman, Pahang](./lasianthus-barbellatus-a-new-species-from-pulau-tiuman-pahan.md) — [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 187)
 * [Alabastra borneensia](./alabastra-borneensia.md) — [E.D. Merrill](./ed-merrill.md) (pp. 189–247)
-* [A rice-ceremony](./a-rice-ceremony.md) — [R.O. Winstedt](./ro-winstedt.md) (pp. 249)
-* [Lexicographical coincidences in Khasi and Malay](./lexicographical-coincidences-in-khasi-and-malay.md) — [R.O. Winstedt](./ro-winstedt.md) (pp. 251–257)
-* [Changes in Malay reduplicated words](./changes-in-malay-reduplicated-words.md) — [R.O. Winstedt](./ro-winstedt.md) (pp. 259–260)
-* [Rules in Malay chess](./rules-in-malay-chess.md) — [R.O. Winstedt](./ro-winstedt.md) (pp. 261)
+* [A rice-ceremony](./a-rice-ceremony.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 249)
+* [Lexicographical coincidences in Khasi and Malay](./lexicographical-coincidences-in-khasi-and-malay.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 251–257)
+* [Changes in Malay reduplicated words](./changes-in-malay-reduplicated-words.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 259–260)
+* [Rules in Malay chess](./rules-in-malay-chess.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 261)
 * [A note upon the way in which bees settle on flowers of Derris thyrsi-flora and the injury resulting from their search for honey](./a-note-upon-the-way-in-which-bees-settle-on-flowers-of-derri.md) — [I.H. Burkill](./ih-burkill.md) (pp. 263–264)
 * [Plethiandra sahebii, a new Melastomacea from Sarawak, described](./plethiandra-sahebii-a-new-melastomacea-from-sarawak-describe.md) — [I.H. Burkill](./ih-burkill.md) (pp. 265–269)
 * [Index](./index.md) — [Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md) (pp. 271–276)
@@ -143,10 +143,10 @@ articles:
 ## Contributors
 * [C.O. Blagden](./co-blagden.md)
 * [E.D. Merrill](./ed-merrill.md)
-* [H.N. Ridley](./hn-ridley.md)
+* [H.N. Ridley](./henry-nicholas-ridley.md)
 * [I.H. Burkill](./ih-burkill.md)
 * [Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)
-* [R.O. Winstedt](./ro-winstedt.md)
+* [R.O. Winstedt](./richard-olaf-winstedt.md)
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -22,6 +22,5 @@ published: false
 ## MBRAS Sources
 
 - Barlow, H.S. Obituary. MB 73(2)
-
 ## References
 <!-- Grounded occurrences and citations -->

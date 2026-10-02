@@ -61,6 +61,5 @@ published: false
 - Pfeffer, P. The bearded pig in East Kalimantan and Sarawak. MB 59(2)
 - Ridley, H.N. On the dispersal of seeds by mammals. SB 25
 - Robinson, H.C. New species of mammals and birds from Korinchi, W. Sumatra. SB 73
-
 ## References
 <!-- Grounded occurrences and citations -->

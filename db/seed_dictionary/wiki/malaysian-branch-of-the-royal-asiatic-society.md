@@ -65,8 +65,6 @@ See (Journal of the Malaysian Branch of the Royal Asiatic Society)[./journal-of-
 - Sheppard, M. MBRAS Council meets in Sabah. MB 57(2)
 - Sheppard, M. Welcome to our new Patron the Raja Muda of Selangor. MB 64(2)
 - Sheppard, M. Reflections on JMBRAS. MB 95(1)
-Wong Tze Ken, D. The BNB Branch of the RAS (1893–97) its Museum. MB
-73(1)
 
 ### Indices
 
@@ -76,7 +74,6 @@ Wong Tze Ken, D. The BNB Branch of the RAS (1893–97) its Museum. MB
 - Choy Chee Meh. SB/MBRAS History MB 68(2) and 69(1)
 - Gibson-Hill, C.A. JMBRAS index vols 1–20. MB 21(3)
 - Wurtzburg, C.E. Index to SB 1–86 and NQ 1–4. MB 5(4)
-
 ## Bibliography
 - (1898) [Index to the Journal of the Straits Branch of the Royal Asiatic Society, Vols I to XXXI](./index-to-the-journal-of-the-straits-branch-of-the-royal-asia.md). *JSBRAS* 31: 153–190
 - (1909) [An index to Journals nos. 1 to 50 of the Straits Branch of the Royal Asiatic Society and to Notes and Queries I to IV](./an-index-to-journals-nos-1-to-50-of-the-straits-branch-of-th.md). *JSBRAS* 51: 1–93

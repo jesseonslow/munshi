@@ -26,6 +26,5 @@ published: false
 - Mohammed Ilyas. Astronomical determination of Islamic times. MB 51(1)
 - Mohammed Ilyas. Visibility of the new moon: predictability. MB 51(2)
 - Muhamed Sayid, Haji. Muhammadan calendar. MB 1(2) Names of months. SB 30
-
 ## References
 <!-- Grounded occurrences and citations -->

@@ -21,6 +21,5 @@ published: false
 - Kloss, C.B. The Royal Batavia Society of Arts and Letters. MB 6(4)
 - Royal Asiatic Society, Malayan Branch. Presentation of Raffles’ bust. MB 8(2)
 - Winstedt, R.O. Ouheidkundig verslag. MB 10(1) {R}
-
 ## References
 <!-- Grounded occurrences and citations -->

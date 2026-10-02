@@ -22,6 +22,5 @@ published: false
 ## MBRAS Sources
 
 - Cheah, W. Chinese furniture. MB 67(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

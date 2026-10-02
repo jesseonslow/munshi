@@ -124,7 +124,7 @@ articles:
 * [An introduction to the Chinese glove puppet theatre](./an-introduction-to-the-chinese-glove-puppet-theatre.md) — [Tan Sooi Beng](./tan-sooi-beng.md) (pp. 40–56)
 * [New data for studying the early coastline in the Jambi area](./new-data-for-studying-the-early-coastline-in-the-jambi-area.md) — [E.E. McKinnon](./ee-mckinnon.md) (pp. 56–66)
 * [Frank Swettenham and Yap Ah Loy: the increase of British political influence in Kuala Lumpur](./frank-swettenham-and-yap-ah-loy-the-increase-of-british-poli.md) — [E. Chew](./e-chew.md) (pp. 70–88)
-* *Honourable intentions: talks on the British empire in South-East Asia delivered at the Royal Colonial Institute 1874–1928. .H. Kratoska* — [J.M. Gullick](./jm-gullick.md) (pp. 89–91) [Review]
+* *Honourable intentions: talks on the British empire in South-East Asia delivered at the Royal Colonial Institute 1874–1928. .H. Kratoska* — [J.M. Gullick](./john-michael-gullick.md) (pp. 89–91) [Review]
 * *The decorated boats of Kelantan. P.J. Coatelen* — [E.R. Alfred](./er-alfred.md) (pp. 91–92) [Review]
 * *Barabudur: history and significance of a Buddhist monument* — [Khoo Joo Ee](./khoo-joo-ee.md), [H.W. Woodward](./hw-woodward.md) (pp. 93–94) [Review]
 * *Brunei 1839–1987: the problem of political survival. D.S. Ranjit Singh* — [Sanib Said](./sanib-said.md) (pp. 95–98) [Review]
@@ -134,7 +134,7 @@ articles:
 * [E.E. McKinnon](./ee-mckinnon.md)
 * [E.R. Alfred](./er-alfred.md)
 * [H.W. Woodward](./hw-woodward.md)
-* [J.M. Gullick](./jm-gullick.md)
+* [J.M. Gullick](./john-michael-gullick.md)
 * [Khoo Joo Ee](./khoo-joo-ee.md)
 * [L.C. Rookmaaker](./lc-rookmaaker.md)
 * [R.W. McRoberts](./rw-mcroberts.md)

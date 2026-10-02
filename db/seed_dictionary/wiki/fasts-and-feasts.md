@@ -35,6 +35,5 @@ published: false
 - Hamilton, A.W. The Boria. SB 82
 - Haughton, H.T. Boria. SB 30
 - Zainal Abidin bin Ahmad. Malay festivals and religious life. MB 22(1) and Reprint 4
-
 ## References
 <!-- Grounded occurrences and citations -->

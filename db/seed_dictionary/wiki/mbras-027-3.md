@@ -35,11 +35,11 @@ articles:
 **Date:** July 1954
 
 ## Table of Contents
-* [A digest of customary law from Sungai Ujong. R.O. Winstedt and P.E. de Josselin de Jong](./a-digest-of-customary-law-from-sungai-ujong-ro-winstedt-and-.md) — [P.E. de Josselin de Jong](./pe-de-josselin-de-jong.md), [R.O. Winstedt](./ro-winstedt.md) (pp. 1–71)
+* [A digest of customary law from Sungai Ujong. R.O. Winstedt and P.E. de Josselin de Jong](./a-digest-of-customary-law-from-sungai-ujong-ro-winstedt-and-.md) — [P.E. de Josselin de Jong](./pe-de-josselin-de-jong.md), [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 1–71)
 
 ## Contributors
 * [P.E. de Josselin de Jong](./pe-de-josselin-de-jong.md)
-* [R.O. Winstedt](./ro-winstedt.md)
+* [R.O. Winstedt](./richard-olaf-winstedt.md)
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -24,7 +24,6 @@ published: false
 
 - Jeshurun, C. Links with the Universities of Cambridge and Malaya. MB 82(1)
 - Tarling, N. Britain, the Tunku and West New Guinea 1957–1963. MB 83(1)
-
 ## Other sources
 
 - Abdullah Ahmad. Conversations with Tunku Abdul Rahman. MB 89(2) {R}

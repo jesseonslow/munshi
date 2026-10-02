@@ -21,6 +21,5 @@ published: false
 
 - Dennys, N.B. Turtles. NQ Reprint 15
 - Kloss, C.B. Capture of a rare leathery turtle (Demochlys coriacea) off Johor. SB 49
-
 ## References
 <!-- Grounded occurrences and citations -->

@@ -3,7 +3,7 @@ id: sir-william-george-maxwell
 title: Sir William George Maxwell
 canonical_name: Sir William George Maxwell
 aliases:
-- Maxwell, W.G
+- Maxwell, W.G.
 - W. G. Maxwell
 - W.G. Maxwell
 - William George Maxwell
@@ -24,7 +24,6 @@ published: false
 ## MBRAS Sources
 
 - Gullick, J.M. Biographical note. MB 90(2)
-
 ## Bibliography
 - (1906) [Kun and payah kun](./kun-and-payah-kun.md). *JSBRAS* 46: 25–26
 - (1907) [Mantra gajah](./mantra-gajah.md). *JSBRAS* 49: 71–86

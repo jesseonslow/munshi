@@ -44,6 +44,5 @@ published: false
 - Jack, W. Letters to Nathaniel Wallich. SB 73
 - Jones, D.S. Foundation of Penang botanical gardens. MB 70(2)
 - Ridley, H.N. Botanists of Penang. SB 25
-
 ## References
 <!-- Grounded occurrences and citations -->

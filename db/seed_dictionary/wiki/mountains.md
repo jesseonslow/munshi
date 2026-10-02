@@ -65,6 +65,5 @@ published: false
 - Waterstradt, J. Kelantan and my trip to Gunong Tahan. SB 37
 - Winstedt, R.O. Mount Meru and Chula legends. MB 18(2)
 - Wray, L. Journal of a collecting expedition to the mountain of Batang Padang, Perak. SB 21
-
 ## References
 <!-- Grounded occurrences and citations -->

@@ -19,6 +19,5 @@ published: false
 ## MBRAS Sources
 
 - Tan Miau Ing. Biographical portrait of a Chinese labour broker and his firm. MB 90(2)
-
 ## References
 <!-- Grounded occurrences and citations -->

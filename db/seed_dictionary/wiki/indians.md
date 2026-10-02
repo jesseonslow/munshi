@@ -42,6 +42,5 @@ published: false
 - Wales, D.C. and H.G.Q. Archaeological work on Indian sites in Malaya. MB 18(1) and 20(1)
 - Wilford, A.C. History and recognition of Tamils in Malaysia’s plantations. MB 88(2) {R}
 - Wilkinson, R.J. Early Indian influence in Malaysia. MB 13(2)
-
 ## References
 <!-- Grounded occurrences and citations -->

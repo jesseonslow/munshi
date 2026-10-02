@@ -20,8 +20,8 @@ contributors:
   name: D. Devadas
 - id: d-lim
   name: D. Lim
-- id: d-wong-tze-ken
-  name: D. Wong Tze-ken
+- id: danny-wong-tze-ken
+  name: Danny Wong Tze-ken
 - id: fa-weld
   name: F.A Weld
 - id: ic-johnson
@@ -61,7 +61,7 @@ articles:
   slug: three-skulls-from-sabah-in-the-pitt-rivers-museum
   title: Three Skulls from Sabah in the Pitt Rivers Museum
   authors:
-  - D. Wong Tze-ken
+  - Danny Wong Tze-ken
   pages: 35–50
   is_review: false
 - id: jmbras-95-1-p51
@@ -167,7 +167,7 @@ articles:
 
 ## Table of Contents
 * [Compendia Entries on Singapore and the Straits Region from the 16th to the Early 19th Century](./compendia-entries-on-singapore-and-the-straits-region-from-t.md) — [P. Borschberg](./p-borschberg.md), [B.J.Q. Khoo](./bjq-khoo.md) (pp. 1–33)
-* [Three Skulls from Sabah in the Pitt Rivers Museum](./three-skulls-from-sabah-in-the-pitt-rivers-museum.md) — [D. Wong Tze-ken](./d-wong-tze-ken.md) (pp. 35–50)
+* [Three Skulls from Sabah in the Pitt Rivers Museum](./three-skulls-from-sabah-in-the-pitt-rivers-museum.md) — [Danny Wong Tze-ken](./danny-wong-tze-ken.md) (pp. 35–50)
 * [Curating Shadows: Malayan Shadow Puppets in Singapore's Asian Civilisations Museum](./curating-shadows-malayan-shadow-puppets-in-singapores-asian-.md) — [I.C. Johnson](./ic-johnson.md), [D. Lim](./d-lim.md) (pp. 51–58)
 * [An Excerpt from Carl Gibson-Hill: Boats, Birds, Photography, and History in LateColonial Malaya. With a note P. Kratoska](./an-excerpt-from-carl-gibson-hill-boats-birds-photography-and.md) — [B. Luyt](./b-luyt.md) (pp. 89–94)
 * [Dato Haji Mubin Sheppard. With a note P. Kratoska](./dato-haji-mubin-sheppard-with-a-note-p-kratoska.md) — [P.H. Kratoska](./ph-kratoska.md), [Mubin Sheppard](./mubin-sheppard.md) (pp. 95–103)
@@ -187,7 +187,7 @@ articles:
 * [B.J.Q. Khoo](./bjq-khoo.md)
 * [D. Devadas](./d-devadas.md)
 * [D. Lim](./d-lim.md)
-* [D. Wong Tze-ken](./d-wong-tze-ken.md)
+* [Danny Wong Tze-ken](./danny-wong-tze-ken.md)
 * [F.A Weld](./fa-weld.md)
 * [I.C. Johnson](./ic-johnson.md)
 * [M.D. Barr](./md-barr.md)

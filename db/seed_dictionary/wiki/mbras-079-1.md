@@ -122,7 +122,7 @@ articles:
 **Date:** June 2006
 
 ## Table of Contents
-* [The fall and rise of Klang, 1867–1900](./the-fall-and-rise-of-klang-18671900.md) — [J.M. Gullick](./jm-gullick.md) (pp. 1–26)
+* [The fall and rise of Klang, 1867–1900](./the-fall-and-rise-of-klang-18671900.md) — [J.M. Gullick](./john-michael-gullick.md) (pp. 1–26)
 * [Constitutional practice in Brunei as highlighted in the 1955 memorandum of R.H. Hickling](./constitutional-practice-in-brunei-as-highlighted-in-the-1955.md) — [B.A. Hussainmiya](./ba-hussainmiya.md) (pp. 23–38)
 * [The Malaysian census 2000: characteristics and critical issues](./the-malaysian-census-2000-characteristics-and-critical-issue.md) — [Usman Haji Yaakob](./usman-haji-yaakob.md) (pp. 27–42)
 * [The foundation of the Penang Chinese Chamber of Commerce in 1903: Protecting Chinese business interests in the two states](./the-foundation-of-the-penang-chinese-chamber-of-commerce-in-.md) — [K. Shinozaki](./k-shinozaki.md) (pp. 43–65)
@@ -137,7 +137,7 @@ articles:
 * [B.A. Hussainmiya](./ba-hussainmiya.md)
 * [Fook Weng Loo](./fook-weng-loo.md)
 * [H.S. Barlow](./hs-barlow.md)
-* [J.M. Gullick](./jm-gullick.md)
+* [J.M. Gullick](./john-michael-gullick.md)
 * [K. Blackburn](./k-blackburn.md)
 * [K. Shinozaki](./k-shinozaki.md)
 * [Kwa Chong Guan](./kwa-chong-guan.md)

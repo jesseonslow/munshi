@@ -143,32 +143,32 @@ articles:
 
 ## Table of Contents
 * [Mengap, the song of the Dyak head feast](./mengap-the-song-of-the-dyak-head-feast.md) — [J. Perham](./j-perham.md) (pp. 123–135)
-* [Malay proverbs](./malay-proverbs.md) — [W.E. Maxwell](./we-maxwell.md) (pp. 136–162)
-* [A Malay nautch](./a-malay-nautch.md) — [F.A. Swettenham](./fa-swettenham.md) (pp. 163–167)
-* [“Pidgin” English](./pidgin-english.md) — [N.B. Dennys](./nb-dennys.md) (pp. 168–174)
+* [Malay proverbs](./malay-proverbs.md) — [W.E. Maxwell](./sir-william-edward-maxwell.md) (pp. 136–162)
+* [A Malay nautch](./a-malay-nautch.md) — [F.A. Swettenham](./sir-frank-swettenham.md) (pp. 163–167)
+* [“Pidgin” English](./pidgin-english.md) — [N.B. Dennys](./nicholas-belfield-dennys.md) (pp. 168–174)
 * [The founding of Singapore](./the-founding-of-singapore.md) — [T.S. Raffles](./ts-raffles.md) (pp. 175–182)
-* [Notes on two Perak manuscripts](./notes-on-two-perak-manuscripts.md) — [W.E. Maxwell](./we-maxwell.md) (pp. 183–193)
+* [Notes on two Perak manuscripts](./notes-on-two-perak-manuscripts.md) — [W.E. Maxwell](./sir-william-edward-maxwell.md) (pp. 183–193)
 * [The metalliferous formation of the peninsula](./the-metalliferous-formation-of-the-peninsula.md) — [D.D. Daly](./dd-daly.md) (pp. 194–198)
 * [Suggestions regarding a new Malay dictionary](./suggestions-regarding-a-new-malay-dictionary.md) — [C.J. Irving](./cj-irving.md) (pp. 199–204)
 * [Ethnological excursions in the Malay Peninsula: November 1874–October 1875](./ethnological-excursions-in-the-malay-peninsula-november-1874.md) — [N. von Mikluho-MacLay](./n-von-mikluho-maclay.md) (pp. 205–221)
-* [Geographical notes – recent journeys in the peninsula](./geographical-notes-recent-journeys-in-the-peninsula.md) — [A.M. Skinner](./am-skinner.md) (pp. 222–225)
+* [Geographical notes – recent journeys in the peninsula](./geographical-notes-recent-journeys-in-the-peninsula.md) — [A.M. Skinner](./allan-maclean-skinner.md) (pp. 222–225)
 * [The minerals of Sarawak](./the-minerals-of-sarawak.md) — [A.H. Everett](./ah-everett.md) (pp. 229–231)
-* [Capture of a specimen of Ophiophagus elaps](./capture-of-a-specimen-of-ophiophagus-elaps.md) — [N.B. Dennys](./nb-dennys.md) (pp. 233–235)
-* [A Malay kramat](./a-malay-kramat.md) — [W.E. Maxwell](./we-maxwell.md) (pp. 236–238)
+* [Capture of a specimen of Ophiophagus elaps](./capture-of-a-specimen-of-ophiophagus-elaps.md) — [N.B. Dennys](./nicholas-belfield-dennys.md) (pp. 233–235)
+* [A Malay kramat](./a-malay-kramat.md) — [W.E. Maxwell](./sir-william-edward-maxwell.md) (pp. 236–238)
 * [Malay–English dictionaries](./malayenglish-dictionaries.md) — [L.C. Biggs](./lc-biggs.md) (pp. 238–239)
 
 ## Contributors
 * [A.H. Everett](./ah-everett.md)
-* [A.M. Skinner](./am-skinner.md)
+* [A.M. Skinner](./allan-maclean-skinner.md)
 * [C.J. Irving](./cj-irving.md)
 * [D.D. Daly](./dd-daly.md)
-* [F.A. Swettenham](./fa-swettenham.md)
+* [F.A. Swettenham](./sir-frank-swettenham.md)
 * [J. Perham](./j-perham.md)
 * [L.C. Biggs](./lc-biggs.md)
 * [N. von Mikluho-MacLay](./n-von-mikluho-maclay.md)
-* [N.B. Dennys](./nb-dennys.md)
+* [N.B. Dennys](./nicholas-belfield-dennys.md)
 * [T.S. Raffles](./ts-raffles.md)
-* [W.E. Maxwell](./we-maxwell.md)
+* [W.E. Maxwell](./sir-william-edward-maxwell.md)
 
 ## References
 <!-- Grounded occurrences and citations -->

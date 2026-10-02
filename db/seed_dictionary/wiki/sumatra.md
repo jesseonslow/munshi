@@ -92,6 +92,5 @@ published: false
 - Wilkinson, R.J. More on Bencoolen. MB 19(1)
 - Wu Xiao An. Sino-Malay trade relations in Penang, Kedah and N Sumatra. MB 70(2) and Reprint 33
 - Wurtzburg, C.E. Baptist mission press at Bencoolen. MB 23(3)
-
 ## References
 <!-- Grounded occurrences and citations -->

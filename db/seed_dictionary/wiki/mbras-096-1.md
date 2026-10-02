@@ -14,10 +14,10 @@ contributors:
   name: Azly Rahman
 - id: b-tan
   name: B. Tan
-- id: d-wong-tze-ken
-  name: D. Wong Tze-ken
-- id: fa-smith
-  name: F.A. Smith
+- id: danny-wong-tze-ken
+  name: Danny Wong Tze-ken
+- id: f-andrew-smith
+  name: F. Andrew Smith
 - id: h-ting-mu-hung
   name: H. Ting Mu Hung
 - id: iskandar-bin-raja-halid-raja
@@ -50,7 +50,7 @@ articles:
   slug: history-in-the-malaysian-public-sphere
   title: History in the Malaysian Public Sphere
   authors:
-  - D. Wong Tze-ken
+  - Danny Wong Tze-ken
   pages: 1–19
   is_review: false
 - id: jmbras-96-1-p21
@@ -65,7 +65,7 @@ articles:
   slug: james-carnegy-and-the-country-trade-in-penang-c18021824
   title: James Carnegy and the ‘Country Trade’ in Penang, c.1802–1824
   authors:
-  - F.A. Smith
+  - F. Andrew Smith
   pages: 51–79
   is_review: false
 - id: jmbras-96-1-p81
@@ -169,9 +169,9 @@ articles:
 **Date:** June 2023
 
 ## Table of Contents
-* [History in the Malaysian Public Sphere](./history-in-the-malaysian-public-sphere.md) — [D. Wong Tze-ken](./d-wong-tze-ken.md) (pp. 1–19)
+* [History in the Malaysian Public Sphere](./history-in-the-malaysian-public-sphere.md) — [Danny Wong Tze-ken](./danny-wong-tze-ken.md) (pp. 1–19)
 * [The Timing of Islamization in Southeast Asia: Local Agency, and the Challenge of Analysing Religious Conversion](./the-timing-of-islamization-in-southeast-asia-local-agency-an.md) — [L.A. Mills](./la-mills.md) (pp. 21–49)
-* [James Carnegy and the ‘Country Trade’ in Penang, c.1802–1824](./james-carnegy-and-the-country-trade-in-penang-c18021824.md) — [F.A. Smith](./fa-smith.md) (pp. 51–79)
+* [James Carnegy and the ‘Country Trade’ in Penang, c.1802–1824](./james-carnegy-and-the-country-trade-in-penang-c18021824.md) — [F. Andrew Smith](./f-andrew-smith.md) (pp. 51–79)
 * [Kung Tian Cheng: From Confucian Scholar in Singapore to Reformer in the Chinese Republic](./kung-tian-cheng-from-confucian-scholar-in-singapore-to-refor.md) — [B. Tan](./b-tan.md) (pp. 81–97)
 * [Constructing Colonial Benevolence: Portraits of Persons with Leprosy in British Malaya](./constructing-colonial-benevolence-portraits-of-persons-with-.md) — [Por Heong Hong](./por-heong-hong.md) (pp. 99–120)
 * [Recording the Emergency: On the Historical Fiction of Jin Zhimang, Anthony Burgess, and Han Suyin](./recording-the-emergency-on-the-historical-fiction-of-jin-zhi.md) — [J. Chan](./j-chan.md) (pp. 121–148)
@@ -188,8 +188,8 @@ articles:
 ## Contributors
 * [Azly Rahman](./azly-rahman.md)
 * [B. Tan](./b-tan.md)
-* [D. Wong Tze-ken](./d-wong-tze-ken.md)
-* [F.A. Smith](./fa-smith.md)
+* [Danny Wong Tze-ken](./danny-wong-tze-ken.md)
+* [F. Andrew Smith](./f-andrew-smith.md)
 * [H. Ting Mu Hung](./h-ting-mu-hung.md)
 * [Iskandar bin Raja Halid Raja](./iskandar-bin-raja-halid-raja.md)
 * [J. Chan](./j-chan.md)

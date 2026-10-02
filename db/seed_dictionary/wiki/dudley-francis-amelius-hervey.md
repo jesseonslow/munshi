@@ -6,7 +6,7 @@ aliases:
 - D. F. A. Hervey
 - D.F.A. Hervey
 - Dudley Hervey
-- Hervey, D.F.A
+- Hervey, D.F.A.
 broader: []
 narrower: []
 related: []
@@ -24,7 +24,6 @@ published: false
 ## MBRAS Sources
 
 - Ellen, R.F. Hervey Malay collection at Wellcome Institute. MB 54(1)
-
 ## Bibliography
 - (1879) [Atrip to Gunong Blumut](./atrip-to-gunong-blumut.md). *JSBRAS* 3: 85–115
 - (1881) [The Endau and its tributaries](./the-endau-and-its-tributaries.md). *JSBRAS* 8: 93–132

@@ -21,6 +21,5 @@ published: false
 ## MBRAS Sources
 
 - Gibson-Hill, C.A. His alleged death in Acheh in 1613. MB 29(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

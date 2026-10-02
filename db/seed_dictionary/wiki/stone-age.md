@@ -39,6 +39,5 @@ published: false
 - Sieveking, G. de G. The distribution of stone bark-cloth beaters in prehistoric times. MB 29(3)
 - Tweedie, M.W.F. The stone age in Malaya. Monograph No 1. MB 26(2)
 - Wales, H.G.Q. Stone brackets from Tha Rua, Thailand. MB 47(2)
-
 ## References
 <!-- Grounded occurrences and citations -->

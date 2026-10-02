@@ -104,7 +104,7 @@ articles:
 **Date:** October 1975
 
 ## Table of Contents
-* [Selangor, 1876–82: the Bloomfield Douglas diary](./selangor-187682-the-bloomfield-douglas-diary.md) — [J.M. Gullick](./jm-gullick.md) (pp. 1–51)
+* [Selangor, 1876–82: the Bloomfield Douglas diary](./selangor-187682-the-bloomfield-douglas-diary.md) — [J.M. Gullick](./john-michael-gullick.md) (pp. 1–51)
 * [The early Cham language, and its relationship to Malay](./the-early-cham-language-and-its-relationship-to-malay.md) — [G.E. Marrison](./ge-marrison.md) (pp. 52–59)
 * [The “Sejarah Melayu” tradition of power and political structure: an assessment of relevant sections of the “Tuhfat-al-Nafis”](./the-sejarah-melayu-tradition-of-power-and-political-structur.md) — [T.J. Moy](./tj-moy.md) (pp. 64–78)
 * [Singapore’s pauper and Tan Tock Seng hospitals. Part I](./singapores-pauper-and-tan-tock-seng-hospitals-part-i.md) — [Y.K. Lee](./yk-lee.md) (pp. 79–111)
@@ -118,7 +118,7 @@ articles:
 * [B.E. Colless](./be-colless.md)
 * [C. Hooykaas](./c-hooykaas.md)
 * [G.E. Marrison](./ge-marrison.md)
-* [J.M. Gullick](./jm-gullick.md)
+* [J.M. Gullick](./john-michael-gullick.md)
 * [P.A. Burrough](./pa-burrough.md)
 * [T.J. Moy](./tj-moy.md)
 * [Tom Harrisson](./tom-harrisson.md)

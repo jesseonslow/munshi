@@ -153,14 +153,14 @@ articles:
 
 ## Table of Contents
 * [The new Sumatran pig](./the-new-sumatran-pig.md) — [C.B. Kloss](./cb-kloss.md) (pp. 55–60)
-* [Some mouse-deer tales](./some-mouse-deer-tales.md) — [R.O. Winstedt](./ro-winstedt.md) (pp. 61–69)
+* [Some mouse-deer tales](./some-mouse-deer-tales.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 61–69)
 * [Another Sea-Dayak legend](./another-sea-dayak-legend.md) — [E.H. Gomes](./eh-gomes.md) (pp. 71–83)
-* [Some notes on Malay card games](./some-notes-on-malay-card-games.md) — [R.O. Winstedt](./ro-winstedt.md) (pp. 85–88)
+* [Some notes on Malay card games](./some-notes-on-malay-card-games.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 85–88)
 * [A list of the butterflies of Borneo, and Nymphalinae](./a-list-of-the-butterflies-of-borneo-and-nymphalinae.md) — [R.S. Shelford](./rs-shelford.md) (pp. 89–136)
-* [An expedition to Christmas Island](./an-expedition-to-christmas-island.md) — [H.N. Ridley](./hn-ridley.md) (pp. 137–155)
-* [The botany of Christmas Island](./the-botany-of-christmas-island.md) — [H.N. Ridley](./hn-ridley.md) (pp. 156–271)
+* [An expedition to Christmas Island](./an-expedition-to-christmas-island.md) — [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 137–155)
+* [The botany of Christmas Island](./the-botany-of-christmas-island.md) — [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 156–271)
 * [Malacca lace](./malacca-lace.md) — [R.N. Bland](./rn-bland.md) (pp. 273–277)
-* [Note on the wild goat of the Malay Peninsula](./note-on-the-wild-goat-of-the-malay-peninsula.md) — [H. Norman](./h-norman.md), [H.N. Ridley](./hn-ridley.md) (pp. 279)
+* [Note on the wild goat of the Malay Peninsula](./note-on-the-wild-goat-of-the-malay-peninsula.md) — [H. Norman](./h-norman.md), [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 279)
 * [Some birds of Tiuman Island](./some-birds-of-tiuman-island.md) — [C.B. Kloss](./cb-kloss.md) (pp. 280–281)
 * [A Johore python](./a-johore-python.md) — [C.B. Kloss](./cb-kloss.md) (pp. 281–282)
 * [Account of three snakes](./account-of-three-snakes.md) — Anonymous (pp. 282–283)
@@ -174,9 +174,9 @@ articles:
 * [C.B. Kloss](./cb-kloss.md)
 * [E.H. Gomes](./eh-gomes.md)
 * [H. Norman](./h-norman.md)
-* [H.N. Ridley](./hn-ridley.md)
+* [H.N. Ridley](./henry-nicholas-ridley.md)
 * [R.N. Bland](./rn-bland.md)
-* [R.O. Winstedt](./ro-winstedt.md)
+* [R.O. Winstedt](./richard-olaf-winstedt.md)
 * [R.S. Shelford](./rs-shelford.md)
 
 ## References

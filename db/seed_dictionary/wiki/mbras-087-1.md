@@ -126,7 +126,7 @@ articles:
 * [Horsing around Melayu: Kuda kepang, Islamic piety, and identity politics at play in Singapore’s Malay community](./horsing-around-melayu-kuda-kepang-islamic-piety-and-identity.md) — [Hardwick P.A](./hardwick-pa.md) (pp. 1–19)
 * [Interrogating ‘Malayness’: Islamic transformations among the Malay College Kuala Kangsar (MCKK) cohort](./interrogating-malayness-islamic-transformations-among-the-ma.md) — [P. Sloane-White](./p-sloane-white.md) (pp. 21–36)
 * [The orientalist Hans Friedrich Overbeck 1882–1942: his entomological work, prisoner-ofwar experiences and known photographic images](./the-orientalist-hans-friedrich-overbeck-18821942-his-entomol.md) — [R.W. Taylor](./rw-taylor.md) (pp. 37–51)
-* [Recollections of my time in Malaya (1945–1956) Part 2](./recollections-of-my-time-in-malaya-19451956-part-2.md) — [J.M. Gullick](./jm-gullick.md) (pp. 53–81)
+* [Recollections of my time in Malaya (1945–1956) Part 2](./recollections-of-my-time-in-malaya-19451956-part-2.md) — [J.M. Gullick](./john-michael-gullick.md) (pp. 53–81)
 * *Exploring Melayu and other people-grouping concepts* — [E.C. Thompson](./ec-thompson.md) (pp. 91–95) [Review]
 * *A matter of risk: insurance in Malaysia, 1826–1990. Lee Kam Hing* — [Drake P.J](./drake-pj.md) (pp. 97–101) [Review]
 * *Penang: the fourth presidency of India 1805–1830, Vol. 1: ships, men and mansions. M. Langdon* — [J.S. Bastin](./js-bastin.md) (pp. 100–101) [Review]
@@ -140,7 +140,7 @@ articles:
 * [E.C. Thompson](./ec-thompson.md)
 * [F. Durant](./f-durant.md)
 * [Hardwick P.A](./hardwick-pa.md)
-* [J.M. Gullick](./jm-gullick.md)
+* [J.M. Gullick](./john-michael-gullick.md)
 * [J.S. Bastin](./js-bastin.md)
 * [Kobkua Suwannathat-Pian](./kobkua-suwannathat-pian.md)
 * [Mohd Nizam bin Basiron](./mohd-nizam-bin-basiron.md)

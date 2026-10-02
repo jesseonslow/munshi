@@ -20,6 +20,5 @@ published: false
 
 - Irwin, G. 19th century Borneo. MB 29(1) {R}
 - Tarling, N. Consul Farren and the Philippines. MB 38(2)
-
 ## References
 <!-- Grounded occurrences and citations -->

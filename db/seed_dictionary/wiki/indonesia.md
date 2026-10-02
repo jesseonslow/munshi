@@ -70,9 +70,9 @@ For Indonesian antiquities, see [Archeology: China, Indonesia, Thailand](./archa
 <!-- Synthesis engine: Insert history details here -->
 
 ## MBRAS Sources
-<!-- Seed entries or targeted retrieval for Indonesia -->
+
 ### Antiquities
-<!-- Seed entries or targeted retrieval for Indonesia: Antiquities -->
+
 ### Commerce
 
 - Gibson-Hill, C.A. Indonesian trading boats reaching Singapore. MB 23(1)
@@ -127,6 +127,5 @@ For Indonesian antiquities, see [Archeology: China, Indonesia, Thailand](./archa
 - Poulgrain, G. The genesis of Konfrontasi: Malaya, Brunei and Indonesia, 1945–65. MB 87(1) {R}
 - Sundhaussen, U. Indonesian military politics, 1945–67. MB 55(2) {R}
 - Van der Post, L. The admiral’s baby: memoirs. MB 70(1) {R}
-
 ## References
 <!-- Grounded occurrences and citations -->

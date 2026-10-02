@@ -47,6 +47,5 @@ published: false
 - Valentijn, F. Account of Malacca. Tr. D.F.A. Hervey. SB 13, 15, 16, 22
 - Wilkinson, R.J. The capture of Malacca in 1511. SB 61
 - Wilkinson, R.J. The fall of Malacca. MB 13(2)
-
 ## References
 <!-- Grounded occurrences and citations -->

@@ -7,7 +7,7 @@ canonical_name: 'William Scott in Penang: Missing Material, Maritime Matters, an
 type: article
 article_type: article
 authors:
-- F.A. Smith
+- F. Andrew Smith
 year: 2021
 journal_code: JMBRAS
 volume: 94

@@ -28,6 +28,5 @@ published: false
 - Howell, S. Che Wong revisited. MB 54(3)
 - Needham, R. Siwang of central Malaya. MB 29(1)
 - Needham, R. Chewong (Siwang) in perspective. MB 57(2)
-
 ## References
 <!-- Grounded occurrences and citations -->

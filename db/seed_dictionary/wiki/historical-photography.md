@@ -27,6 +27,5 @@ published: false
 - Luyt, B. Carl A. Gibson-Hill. MB 96(1) {R}
 - Por Heong Hong. Persons with Leprosy in British Malaya. MB 96(1)
 - Warren, J.F. Photographs of the Singapore rickshaw coolie in the early 19th century. MB
-
 ## References
 <!-- Grounded occurrences and citations -->

@@ -102,19 +102,19 @@ articles:
 * [Body temperature and comfort](./body-temperature-and-comfort.md) — [J.A. Campbell](./ja-campbell.md) (pp. 63–66)
 * [Notes on Malay indoor games](./notes-on-malay-indoor-games.md) — [O.T. Dussek](./ot-dussek.md) (pp. 69–71)
 * [On a collection of birds from N.E](./on-a-collection-of-birds-from-ne.md) — [C.B. Kloss](./cb-kloss.md), [Sumatra. H.C. Robinson](./sumatra-hc-robinson.md) (pp. 73–133)
-* [Some more Malay words](./some-more-malay-words.md) — [R.O. Winstedt](./ro-winstedt.md) (pp. 135–137)
-* [The fern-allies and Characeae of the Malay Peninsula](./the-fern-allies-and-characeae-of-the-malay-peninsula.md) — [H.N. Ridley](./hn-ridley.md) (pp. 139–164)
+* [Some more Malay words](./some-more-malay-words.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 135–137)
+* [The fern-allies and Characeae of the Malay Peninsula](./the-fern-allies-and-characeae-of-the-malay-peninsula.md) — [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 139–164)
 * [New Chalcid parasites from Malaya](./new-chalcid-parasites-from-malaya.md) — [A.A. Girault](./aa-girault.md) (pp. 165–168)
 
 ## Contributors
 * [A.A. Girault](./aa-girault.md)
 * [C.B. Kloss](./cb-kloss.md)
 * [D.T. Fullaway](./dt-fullaway.md)
-* [H.N. Ridley](./hn-ridley.md)
+* [H.N. Ridley](./henry-nicholas-ridley.md)
 * [Hamilton A.W](./hamilton-aw.md)
 * [J.A. Campbell](./ja-campbell.md)
 * [O.T. Dussek](./ot-dussek.md)
-* [R.O. Winstedt](./ro-winstedt.md)
+* [R.O. Winstedt](./richard-olaf-winstedt.md)
 * [Sumatra. H.C. Robinson](./sumatra-hc-robinson.md)
 
 ## References

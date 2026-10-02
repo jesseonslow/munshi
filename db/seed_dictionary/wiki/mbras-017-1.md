@@ -118,8 +118,8 @@ articles:
 * [Ceremonial opening of a new Chinese temple at Kandang, Malacca, in December, 1938](./ceremonial-opening-of-a-new-chinese-temple-at-kandang-malacc.md) — [S.M. Middlebrook](./sm-middlebrook.md) (pp. 98–106)
 * [Notes on the meanings of some Malay words. Part III (Kedah words](./notes-on-the-meanings-of-some-malay-words-part-iii-kedah-wor.md) — [J.A. Baker](./ja-baker.md) (pp. 107–120)
 * [Malayan sponges](./malayan-sponges.md) — [S.G. Willimott](./sg-willimott.md) (pp. 121–130)
-* [Some “Sakai” problems](./some-sakai-problems.md) — [R.J. Wilkinson](./rj-wilkinson.md) (pp. 131–133)
-* [The Bernam slab-graves](./the-bernam-slab-graves.md) — [R.J. Wilkinson](./rj-wilkinson.md) (pp. 134–143)
+* [Some “Sakai” problems](./some-sakai-problems.md) — [R.J. Wilkinson](./richard-james-wilkinson.md) (pp. 131–133)
+* [The Bernam slab-graves](./the-bernam-slab-graves.md) — [R.J. Wilkinson](./richard-james-wilkinson.md) (pp. 134–143)
 * [The Penarikan and Bernam land-routes](./the-penarikan-and-bernam-land-routes.md) — [H.D. Noone](./hd-noone.md) (pp. 144–145)
 * [An introduction to the study of ancient times in the Malay Peninsula and the Straits of Malacca](./an-introduction-to-the-study-of-ancient-times-in-the-malay-p.md) — [R. Braddell](./r-braddell.md) (pp. 146–212)
 
@@ -130,7 +130,7 @@ articles:
 * [J.A. Baker](./ja-baker.md)
 * [M.R. Henderson](./mr-henderson.md)
 * [R. Braddell](./r-braddell.md)
-* [R.J. Wilkinson](./rj-wilkinson.md)
+* [R.J. Wilkinson](./richard-james-wilkinson.md)
 * [S.G. Willimott](./sg-willimott.md)
 * [S.M. Middlebrook](./sm-middlebrook.md)
 

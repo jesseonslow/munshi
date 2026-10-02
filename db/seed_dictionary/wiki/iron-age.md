@@ -27,6 +27,5 @@ published: false
 - Loewenstein, J. _Tulang mawas_ re-examined. MB 26(1)
 - Loewenstein, J. Papers on the Malayan metal age. MB 29(2)
 - O’Connor, S.J. Tom Harrisson and ancient iron industry of Sarawak River delta. MB 50(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

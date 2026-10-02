@@ -19,6 +19,5 @@ published: false
 ## MBRAS Sources
 
 - Shelford, R.H. Notes from the Sarawak Museum. SB 33
-
 ## References
 <!-- Grounded occurrences and citations -->

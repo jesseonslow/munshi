@@ -19,6 +19,5 @@ published: false
 ## MBRAS Sources
 
 - Kloss, C.B. _Criniger gularis_ and _gutturalis_. MB 2(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

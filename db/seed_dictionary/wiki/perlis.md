@@ -24,6 +24,5 @@ published: false
 
 - Hussain Baba bin Mohamad. Sejarah negri dan raja-raja Perlis. MB 42(2)
 - Tang Su Chin, J. Sejarah kerajaan Perlis. Monograph 32
-
 ## References
 <!-- Grounded occurrences and citations -->

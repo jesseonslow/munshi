@@ -142,17 +142,17 @@ articles:
 **Date:** December 1907
 
 ## Table of Contents
-* *The pagan races of the Malay Peninsula* — [H.N. Ridley](./hn-ridley.md), [W.W. Skeat](./ww-skeat.md), [C.O. Blagden](./co-blagden.md) (pp. 1–5) [Review]
-* [New or rare Malayan plants](./new-or-rare-malayan-plants.md) — [H.N. Ridley](./hn-ridley.md) (pp. 11–52)
+* *The pagan races of the Malay Peninsula* — [H.N. Ridley](./henry-nicholas-ridley.md), [W.W. Skeat](./walter-william-skeat.md), [C.O. Blagden](./co-blagden.md) (pp. 1–5) [Review]
+* [New or rare Malayan plants](./new-or-rare-malayan-plants.md) — [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 11–52)
 * [A journey into the interior of Borneo to visit the Kalabit tribes](./a-journey-into-the-interior-of-borneo-to-visit-the-kalabit-t.md) — [R.S. Douglas](./rs-douglas.md) (pp. 53–62)
 * [Notes on the capture of a rare leathery turtle (Dermochelys coriacea) in Johore waters](./notes-on-the-capture-of-a-rare-leathery-turtle-dermochelys-c.md) — [C.B. Kloss](./cb-kloss.md) (pp. 63–65)
 * [Malayan pigs: a recent zoological paper. G.S. Miller’s notes on Malayan pigs](./malayan-pigs-a-recent-zoological-paper-gs-millers-notes-on-m.md) — [C.B. Kloss](./cb-kloss.md), [G.S. Miller](./gs-miller.md) (pp. 67–69)
-* [Mantra gajah](./mantra-gajah.md) — [W.G. Maxwell](./wg-maxwell.md) (pp. 71–86)
+* [Mantra gajah](./mantra-gajah.md) — [W.G. Maxwell](./sir-william-george-maxwell.md) (pp. 71–86)
 * [Malay chess](./malay-chess.md) — [T.B. Elcum](./tb-elcum.md) (pp. 87–92)
 * [Note on the Malay game ‘jongkak’](./note-on-the-malay-game-jongkak.md) — [M. Hellier](./m-hellier.md) (pp. 93–94)
 * [Concerning some old Sanskrit inscriptions in the Malay Peninsula](./concerning-some-old-sanskrit-inscriptions-in-the-malay-penin.md) — [H. Kern](./h-kern.md) (pp. 95–101)
-* [Miscellaneous notes](./miscellaneous-notes.md) — [W.G. Maxwell](./wg-maxwell.md) (pp. 103–107)
-* [Notes and queries](./notes-and-queries.md) — [W.G. Maxwell](./wg-maxwell.md) (pp. 108)
+* [Miscellaneous notes](./miscellaneous-notes.md) — [W.G. Maxwell](./sir-william-george-maxwell.md) (pp. 103–107)
+* [Notes and queries](./notes-and-queries.md) — [W.G. Maxwell](./sir-william-george-maxwell.md) (pp. 108)
 * [Bark canoes among the Jakuns and Dyaks](./bark-canoes-among-the-jakuns-and-dyaks.md) — [W.L. Abbott](./wl-abbott.md) (pp. 109–110)
 * [Tin and lead coins from Brunei](./tin-and-lead-coins-from-brunei.md) — [Hanitsch R](./hanitsch-r.md) (pp. 111–114)
 
@@ -161,14 +161,14 @@ articles:
 * [C.O. Blagden](./co-blagden.md)
 * [G.S. Miller](./gs-miller.md)
 * [H. Kern](./h-kern.md)
-* [H.N. Ridley](./hn-ridley.md)
+* [H.N. Ridley](./henry-nicholas-ridley.md)
 * [Hanitsch R](./hanitsch-r.md)
 * [M. Hellier](./m-hellier.md)
 * [R.S. Douglas](./rs-douglas.md)
 * [T.B. Elcum](./tb-elcum.md)
-* [W.G. Maxwell](./wg-maxwell.md)
+* [W.G. Maxwell](./sir-william-george-maxwell.md)
 * [W.L. Abbott](./wl-abbott.md)
-* [W.W. Skeat](./ww-skeat.md)
+* [W.W. Skeat](./walter-william-skeat.md)
 
 ## References
 <!-- Grounded occurrences and citations -->

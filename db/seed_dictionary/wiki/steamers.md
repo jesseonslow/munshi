@@ -26,6 +26,5 @@ published: false
 - Cowan, C.D. New Harbour, Singapore and voyage of the Maeander. MB 38(2)
 - Gibson-Hill, C.A. Steamers in Asian waters, 1819–39. MB 27(1)
 - Tregonning, K.G. The origin of the Straits Steamship Co in 1890. MB 38(2)
-
 ## References
 <!-- Grounded occurrences and citations -->

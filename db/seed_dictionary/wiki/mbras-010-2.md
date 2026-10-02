@@ -34,10 +34,10 @@ articles:
 **Date:** August 1932
 
 ## Table of Contents
-* [A Malay history of Riau and Johore {Tuhfat-al-Nafis}. .O. Winstedt {Jawi](./a-malay-history-of-riau-and-johore-tuhfat-al-nafis-o-winsted.md) — [‘Ali bin Raja Haji Ahmad Raja Haji](./ali-bin-raja-haji-ahmad-raja-haji.md), [R.O. Winstedt](./ro-winstedt.md) (pp. 1–320)
+* [A Malay history of Riau and Johore {Tuhfat-al-Nafis}. .O. Winstedt {Jawi](./a-malay-history-of-riau-and-johore-tuhfat-al-nafis-o-winsted.md) — [‘Ali bin Raja Haji Ahmad Raja Haji](./ali-bin-raja-haji-ahmad-raja-haji.md), [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 1–320)
 
 ## Contributors
-* [R.O. Winstedt](./ro-winstedt.md)
+* [R.O. Winstedt](./richard-olaf-winstedt.md)
 * [‘Ali bin Raja Haji Ahmad Raja Haji](./ali-bin-raja-haji-ahmad-raja-haji.md)
 
 ## References

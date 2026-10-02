@@ -44,6 +44,5 @@ published: false
 - Rennell, J. Borneo-Philippine journey, 1762–3. Ed. T. Harrisson. MB 39(1)
 - Tarling, N. Consul Farren and the Philippines. MB 38(2)
 - Tregonning, K.G. The Philippine claim to Sabah. MB 43(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

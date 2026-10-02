@@ -62,13 +62,13 @@ articles:
 **Date:** June 1954
 
 ## Table of Contents
-* [Papers on Malayan fishing methods. T.W. Burdon and M.L. Parry. Monographs on Malay subjects, No 2](./papers-on-malayan-fishing-methods-tw-burdon-and-ml-parry-mon.md) — [T.W. Burdon](./tw-burdon.md), [C.A. Gibson-Hill](./ca-gibson-hill.md), [M.L. Parry](./ml-parry.md) (pp. 1–180)
+* [Papers on Malayan fishing methods. T.W. Burdon and M.L. Parry. Monographs on Malay subjects, No 2](./papers-on-malayan-fishing-methods-tw-burdon-and-ml-parry-mon.md) — [T.W. Burdon](./tw-burdon.md), [C.A. Gibson-Hill](./carl-alexander-gibson-hill.md), [M.L. Parry](./ml-parry.md) (pp. 1–180)
 * [The fishing methods of Singapore. { In Papers on Malayan fishing methods](./the-fishing-methods-of-singapore-in-papers-on-malayan-fishin.md) — [T.W. Burdon](./tw-burdon.md) (pp. 5–76)
-* [The boats of local origin employed in the Malayan fishing industry. {In Papers on Malayan fishing methods](./the-boats-of-local-origin-employed-in-the-malayan-fishing-in.md) — [C.A. Gibson-Hill](./ca-gibson-hill.md) (pp. 145–174)
-* [Malay names of salt-water fish. T.W. Burdon and C.A. Gibson-Hill. { In Papers on Malayan fishing methods](./malay-names-of-salt-water-fish-tw-burdon-and-ca-gibson-hill-.md) — [T.W. Burdon](./tw-burdon.md), [C.A. Gibson-Hill](./ca-gibson-hill.md) (pp. 175–176)
+* [The boats of local origin employed in the Malayan fishing industry. {In Papers on Malayan fishing methods](./the-boats-of-local-origin-employed-in-the-malayan-fishing-in.md) — [C.A. Gibson-Hill](./carl-alexander-gibson-hill.md) (pp. 145–174)
+* [Malay names of salt-water fish. T.W. Burdon and C.A. Gibson-Hill. { In Papers on Malayan fishing methods](./malay-names-of-salt-water-fish-tw-burdon-and-ca-gibson-hill-.md) — [T.W. Burdon](./tw-burdon.md), [C.A. Gibson-Hill](./carl-alexander-gibson-hill.md) (pp. 175–176)
 
 ## Contributors
-* [C.A. Gibson-Hill](./ca-gibson-hill.md)
+* [C.A. Gibson-Hill](./carl-alexander-gibson-hill.md)
 * [M.L. Parry](./ml-parry.md)
 * [T.W. Burdon](./tw-burdon.md)
 

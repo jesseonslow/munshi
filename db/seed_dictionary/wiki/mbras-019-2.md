@@ -128,11 +128,11 @@ articles:
 * [A proposed classification of Malayan polished stone implements](./a-proposed-classification-of-malayan-polished-stone-implemen.md) — [H.D. Noone](./hd-noone.md) (pp. 210–216)
 * [A find of pottery sherds on a beach near Sepang, Selangor](./a-find-of-pottery-sherds-on-a-beach-near-sepang-selangor.md) — [H.D. Noone](./hd-noone.md) (pp. 217–218)
 * [Sea-Dayak carving](./sea-dayak-carving.md) — [E. Banks](./e-banks.md) (pp. 219–226)
-* [Jawi spelling](./jawi-spelling.md) — [R.O. Winstedt](./ro-winstedt.md) (pp. 227–233)
-* [The Panji tales](./the-panji-tales.md) — [R.O. Winstedt](./ro-winstedt.md) (pp. 234–237)
-* [The Sundang and other Malaysian art motifs](./the-sundang-and-other-malaysian-art-motifs.md) — [R.O. Winstedt](./ro-winstedt.md) (pp. 238–241)
-* [The Perak site of the Sailendra empire](./the-perak-site-of-the-sailendra-empire.md) — [R.O. Winstedt](./ro-winstedt.md) (pp. 242)
-* [Raja Langit, the celestial emperor](./raja-langit-the-celestial-emperor.md) — [R.O. Winstedt](./ro-winstedt.md) (pp. 243)
+* [Jawi spelling](./jawi-spelling.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 227–233)
+* [The Panji tales](./the-panji-tales.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 234–237)
+* [The Sundang and other Malaysian art motifs](./the-sundang-and-other-malaysian-art-motifs.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 238–241)
+* [The Perak site of the Sailendra empire](./the-perak-site-of-the-sailendra-empire.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 242)
+* [Raja Langit, the celestial emperor](./raja-langit-the-celestial-emperor.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 243)
 * [Malay journalism in Malaya](./malay-journalism-in-malaya.md) — [Zainal Abidin bin Ahmad](./zainal-abidin-bin-ahmad.md) (pp. 244–250)
 * [The history of the creation of the Malacca police](./the-history-of-the-creation-of-the-malacca-police.md) — [A.H. Dickinson](./ah-dickinson.md) (pp. 251–283)
 
@@ -143,7 +143,7 @@ articles:
 * [H.D. Noone](./hd-noone.md)
 * [H.E. Miller](./he-miller.md)
 * [Hulbert Gerard, baron Nahuijs van Burgst](./hulbert-gerard-baron-nahuijs-van-burgst.md)
-* [R.O. Winstedt](./ro-winstedt.md)
+* [R.O. Winstedt](./richard-olaf-winstedt.md)
 * [Zainal Abidin bin Ahmad](./zainal-abidin-bin-ahmad.md)
 
 ## References

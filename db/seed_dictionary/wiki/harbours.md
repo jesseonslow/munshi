@@ -25,6 +25,5 @@ published: false
 - Gibson-Hill, C.A. Singapore master attendants, 1819–67. MB 33(1)
 - Tarling, N. Construction of Horsburgh lighthouse. MB 67(1)
 - Wayte, M.E. Port Weld. MB 32(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

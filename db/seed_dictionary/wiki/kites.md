@@ -24,6 +24,5 @@ published: false
 ## MBRAS Sources
 
 - Hill, A.H. Games and entertainments in Kelantan. MB 25(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

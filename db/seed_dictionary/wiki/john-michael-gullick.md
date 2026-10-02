@@ -4,7 +4,7 @@ title: John Michael Gullick
 canonical_name: John Michael Gullick
 aliases:
 - Gullick
-- Gullick, J.M
+- Gullick, J.M.
 - J. M. Gullick
 - J.M. Gullick
 broader: []
@@ -80,6 +80,7 @@ published: false
 - (2006) [On the nature of military government: the case of the BMA in Negri Sembilan](./on-the-nature-of-military-government-the-case-of-the-bma-in-.md). *JMBRAS* 79(2): 85–101
 - (2007) [A short history of Ulu Langat to 1900](./a-short-history-of-ulu-langat-to-1900.md). *JMBRAS* 80(2): 1–18
 - (2007) [Selections from the Selangor Journal](./selections-from-the-selangor-journal.md). *Reprint* 26: 660
+- (2007) [Historians & Their Disciplines: The Call of Southeast Asian History](./historians-their-disciplines-the-call-of-southeast-asian-history.md). *Monograph* 40: 202
 - (2008) [The making of a monarch: Raja Muda Sulaiman of Selangor 1865-98](./the-making-of-a-monarch-raja-muda-sulaiman-of-selangor-1865-.md). *JMBRAS* 81(2): 1–18
 - (2008) [Economic recovery in the Selangor River valley in the late nineteenth century](./economic-recovery-in-the-selangor-river-valley-in-the-late-n.md). *JMBRAS* 81(1): 83–98
 - (2008) [Professor Mary Turnbull. Obituary](./professor-mary-turnbull-obituary.md). *JMBRAS* 81(2): 99–101

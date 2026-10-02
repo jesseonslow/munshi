@@ -30,6 +30,5 @@ published: false
 - Tarling, N. SEA and the onset of the cold war 1945–50. MB 72(2) {R}
 - Tarling, N. Britain, the Tunku and West New Guinea 1957–63. MB 83(1)
 - Tzeng, A. (ed) Framing Asian studies: geopolitics and institutions. MB 92(1) {R}
-
 ## References
 <!-- Grounded occurrences and citations -->

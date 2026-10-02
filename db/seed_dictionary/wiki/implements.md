@@ -35,6 +35,5 @@ published: false
 - Loewenstein, J. “Tulang mawas” re-examined. MB 26(1)
 - Sieveking, G. de G The distribution of stone bark-cloth beaters in prehistoric times. MB 29(3)
 - Wales, H.G.Q. Origin of the “tulang mawas”. MB 47(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

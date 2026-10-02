@@ -19,6 +19,5 @@ published: false
 ## MBRAS Sources
 
 - Kraal, D. The untimely death of Governor Timmerman-Thijssen. MB 83(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

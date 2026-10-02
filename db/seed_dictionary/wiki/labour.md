@@ -27,7 +27,7 @@ published: false
 <!-- Synthesis engine: Insert in java details here -->
 
 ## MBRAS Sources
-<!-- Seed entries or targeted retrieval for Labour -->
+
 ### In Malaya
 
 - Amarjit Kaur. Labour relations, 1970–90. MB 73(1)
@@ -42,6 +42,5 @@ published: false
 
 - Bastin, J. Crawfurd and Baud on free and forced labour in Java. MB 29(1)
 - Wright, H.R.C. Freedom of labour under Raffles’ administration, 1811–6. MB 26(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

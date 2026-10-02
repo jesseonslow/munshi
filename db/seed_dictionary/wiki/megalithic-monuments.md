@@ -37,6 +37,5 @@ published: false
 - Miksic, J.N. From Seri Vijaya to Melaka: Batu Tagak in context. MB 60(2)
 - Subhadradis, M.C. Chedi at Wat Keo, Chaiya, Suratthani. MB 53(2)
 - Winstedt, R.O. Slab-graves and iron implements. MB 19(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

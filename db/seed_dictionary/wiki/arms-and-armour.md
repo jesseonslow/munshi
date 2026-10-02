@@ -37,6 +37,5 @@ published: false
 - Maxwell, W.E. Fighting dress of the Malays. NQ Reprint 15
 - Simmonds, N.W. Archery in SEA and Pacific. MB 32(1)
 - Wales, H.G.Q. Origin of the _tulang mawas_. MB 47(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

@@ -32,7 +32,7 @@ published: false
 - (1971) Some observations on the Malay Sha’ir. *JMBRAS* 44(1): 52–70
 - (1979) The Balinese poem Basur: an introduction to magic. C. Hooykaas. *JMBRAS* 52(1): 109–110
 - (1979) Hikajat Potjut Muhamat: an Achehnese epic. G.W. Drewes. *JMBRAS* 52(2): 120–121
-- (1981) Reputations live on: an early Malay autobiography: the writings of Mohamed Salleh bin Perang. Muhammad Salleh bin Perang. (. Sweeney. *JMBRAS* 54(1): 106–108
+- (1981) Reputations live on: an early Malay autobiography: the writings of Mohamed Salleh bin Perang. Muhammad Salleh bin Perang. A. Sweeney. *JMBRAS* 54(1): 106–108
 - (1983) Two Achehnese poems: Hikajat Ranto and Hikajat Teungku di Meuke. G.W. Drewes. *JMBRAS* 56(1): 69–72
 
 ## References

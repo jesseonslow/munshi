@@ -34,11 +34,11 @@ articles:
 **Date:** November 1954
 
 ## Table of Contents
-* [The journal of Sir Hugh Low, 1877. . Sadka](./the-journal-of-sir-hugh-low-1877-sadka.md) — [H. Low](./h-low.md), [E. Sadka](./e-sadka.md) (pp. 1–108)
+* [The journal of Sir Hugh Low, 1877. . Sadka](./the-journal-of-sir-hugh-low-1877-sadka.md) — [H. Low](./sir-hugh-low.md), [E. Sadka](./e-sadka.md) (pp. 1–108)
 
 ## Contributors
 * [E. Sadka](./e-sadka.md)
-* [H. Low](./h-low.md)
+* [H. Low](./sir-hugh-low.md)
 
 ## References
 <!-- Grounded occurrences and citations -->

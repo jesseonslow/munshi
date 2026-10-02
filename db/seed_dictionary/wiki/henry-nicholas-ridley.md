@@ -1,7 +1,7 @@
 ---
-id: henry-nichols-ridley
-title: Henry Nichols Ridley
-canonical_name: Henry Nichols Ridley
+id: henry-nicholas-ridley
+title: Henry Nicholas Ridley
+canonical_name: Henry Nicholas Ridley
 aliases:
 - H. N. Ridley
 - H.N. Ridley
@@ -21,14 +21,13 @@ published: false
 ---
 
 
-# Henry Nichols Ridley
+# Henry Nicholas Ridley
 
-<!-- Synthesis engine: Insert introductory synthesis for Henry Nichols Ridley here -->
+<!-- Synthesis engine: Insert introductory synthesis for Henry Nicholas Ridley here -->
 
 ## MBRAS Sources
 
 - Holttum, R.E. Obituary. MB 33(1)
-
 ## Bibliography
 - (1889) [Report on the destruction of coco-nut palms by beetles](./report-on-the-destruction-of-coco-nut-palms-by-beetles.md). *JSBRAS* 20: 1–11
 - (1890) [The Burmanniaceae of the Malay Peninsula](./the-burmanniaceae-of-the-malay-peninsula.md). *JSBRAS* 22: 331–339

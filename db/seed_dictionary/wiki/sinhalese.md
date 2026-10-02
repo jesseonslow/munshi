@@ -22,6 +22,5 @@ published: false
 ## MBRAS Sources
 
 - Arsecularatne, S.N. Sinhalese immigrants in Malaysia and Singapore 1860–1900 MB 65(1) {R}
-
 ## References
 <!-- Grounded occurrences and citations -->

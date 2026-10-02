@@ -27,7 +27,7 @@ published: false
 ## External relations
 
 ## MBRAS Sources
-<!-- Seed entries or targeted retrieval for Malaya -->
+
 ### History
 
 - Abdullah Ahmad. Conversations with Tunku Abdul Rahman. MB 89(2) {R}
@@ -62,7 +62,6 @@ published: false
 - Thum Ping Tjin. Nationalism and Decolonisation in Singapore. MB 97(1) {R}
 - Turnbull, C.M. History of Malaysia, Singapore and Brunei. MB 55(1) {R}
 - Wong Tze-ken, D. History in the Malaysian Public Sphere. MB 96(1)
-
 ## Politics and government
 
 - A. Rahman Tang Abdullah. Legal Status of Sabah and Sarawak. MB 97(1)

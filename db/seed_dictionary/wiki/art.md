@@ -44,7 +44,7 @@ published: false
 <!-- Synthesis engine: Insert sculpture and artefacts details here -->
 
 ## MBRAS Sources
-<!-- Seed entries or targeted retrieval for Art -->
+
 ### Pictorial
 
 - Barnard, B. A Penang Portfolio. MB 94(1)
@@ -84,6 +84,5 @@ published: false
 - Winstedt, R.O. Foliated patterns in Malay carving and silver-work. SB 76
 - Woolley, G.C. Murut basket work. MB 10(1)
 - Woolley, G.C. Murut basket work patterns. MB 7(2)
-
 ## References
 <!-- Grounded occurrences and citations -->

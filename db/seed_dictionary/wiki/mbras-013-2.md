@@ -98,10 +98,10 @@ articles:
 **Date:** October 1935
 
 ## Table of Contents
-* [Early Indian influence in Malaysia](./early-indian-influence-in-malaysia.md) — [R.J. Wilkinson](./rj-wilkinson.md) (pp. 1–16)
-* [Old Singapore](./old-singapore.md) — [R.J. Wilkinson](./rj-wilkinson.md) (pp. 17–21)
-* [The Malacca sultanate](./the-malacca-sultanate.md) — [R.J. Wilkinson](./rj-wilkinson.md) (pp. 22–67)
-* [The fall of Malacca](./the-fall-of-malacca.md) — [R.J. Wilkinson](./rj-wilkinson.md) (pp. 68–69)
+* [Early Indian influence in Malaysia](./early-indian-influence-in-malaysia.md) — [R.J. Wilkinson](./richard-james-wilkinson.md) (pp. 1–16)
+* [Old Singapore](./old-singapore.md) — [R.J. Wilkinson](./richard-james-wilkinson.md) (pp. 17–21)
+* [The Malacca sultanate](./the-malacca-sultanate.md) — [R.J. Wilkinson](./richard-james-wilkinson.md) (pp. 22–67)
+* [The fall of Malacca](./the-fall-of-malacca.md) — [R.J. Wilkinson](./richard-james-wilkinson.md) (pp. 68–69)
 * [An introduction to the study of ancient times in the Malay Peninsula and the Straits of Malacca](./an-introduction-to-the-study-of-ancient-times-in-the-malay-p.md) — [R. Braddell](./r-braddell.md) (pp. 70–109)
 * [The Perak “Pallava seal”](./the-perak-pallava-seal.md) — [R. Braddell](./r-braddell.md) (pp. 110)
 * [A Portuguese account of Johore. Joao Tavares de Vallez Guerreiro. {Extracts from Jornado de Antonio de Albuquerque Coelho](./a-portuguese-account-of-johore-joao-tavares-de-vallez-guerre.md) — [T.D. Hughes](./td-hughes.md), [J. Tavares de Vallez Guerreiro](./j-tavares-de-vallez-guerreiro.md) (pp. 111–156)
@@ -112,7 +112,7 @@ articles:
 * [C.X. Furtado](./cx-furtado.md)
 * [J. Tavares de Vallez Guerreiro](./j-tavares-de-vallez-guerreiro.md)
 * [R. Braddell](./r-braddell.md)
-* [R.J. Wilkinson](./rj-wilkinson.md)
+* [R.J. Wilkinson](./richard-james-wilkinson.md)
 * [T.D. Hughes](./td-hughes.md)
 
 ## References

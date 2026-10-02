@@ -20,6 +20,5 @@ published: false
 ## MBRAS Sources
 
 - Kratz. E.U. “Malay” manuscripts of the “Overbeck Collection”. MB 53(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

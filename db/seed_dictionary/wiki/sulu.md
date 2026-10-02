@@ -37,6 +37,5 @@ published: false
 - Tarling, N. Consul Farren and the Philippines. MB 38(2)
 - Warren, J.F. Balambangan and the rise of the Sulu Sultanate. MB 50(1)
 - Warren, J.F. Looking back on the “The Sulu Zone”. MB 69(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

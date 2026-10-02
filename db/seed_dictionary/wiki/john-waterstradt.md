@@ -19,6 +19,5 @@ published: false
 ## MBRAS Sources
 
 - Barlow, H.S. John Waterstradt, 1869–1944. MB 42(2)
-
 ## References
 <!-- Grounded occurrences and citations -->

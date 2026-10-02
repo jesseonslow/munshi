@@ -20,6 +20,5 @@ published: false
 ## MBRAS Sources
 
 - Tregonning, K.G. The Mat Salleh revolt in Sabah, 1894–1905. MB 29(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

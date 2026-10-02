@@ -20,6 +20,5 @@ published: false
 
 - Dover, C. Fauna of the pitcher-plants of Singapore. MB 6(3)
 - Anon. A large beetle caught in a pitcher of Nepenthes. SB 25
-
 ## References
 <!-- Grounded occurrences and citations -->

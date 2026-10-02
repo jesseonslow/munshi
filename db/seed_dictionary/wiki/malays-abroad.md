@@ -24,6 +24,5 @@ published: false
 - Said, H.M. Ceylon Malays. MB 4(2)
 - Weber, N. Malays in the Indochinese Peninsula: Adventurers, Warlords and Ministers. MB 94(1)
 - Weber, N. Malays in the Indochinese Peninsula: The Rise and Fall of a Tuan. MB 94(2)
-
 ## References
 <!-- Grounded occurrences and citations -->

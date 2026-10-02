@@ -22,6 +22,5 @@ published: false
 - Linehan, W. Historical notes mainly about Klang. MB 24(3)
 - Linehan, W. Traces of Bronze and Iron age culture at Klang. MB 24(3) and 25(1)
 - Winstedt, R.O. To Engku Klang (Appx to History of Selangor). MB 12(3)
-
 ## References
 <!-- Grounded occurrences and citations -->

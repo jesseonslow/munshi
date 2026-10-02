@@ -100,7 +100,7 @@ For ethnographic study of Orang Asli, see [Orang Asli](./orang-asli)
 <!-- Synthesis engine: Insert thailand details here -->
 
 ## MBRAS Sources
-<!-- Seed entries or targeted retrieval for Ethnography -->
+
 ### Borneo
 
 - Andrieni, E.V. A Milano _muas_. MB 9(1)
@@ -136,9 +136,9 @@ For ethnographic study of Orang Asli, see [Orang Asli](./orang-asli)
 - Thurston. Fijians. SB 8
 
 ### Malaya
-<!-- Seed entries or targeted retrieval for Ethnography: Malaya -->
+
 ### Orang Asli
-<!-- Seed entries or targeted retrieval for Ethnography: Orang Asli -->
+
 ### Singapore and Riau
 
 - Abbott, W.L. Human images among the Orang Mantong. SB 41
@@ -161,6 +161,5 @@ For ethnographic study of Orang Asli, see [Orang Asli](./orang-asli)
 
 - Archaimbault, C. Sam Sam of Kedah and Perlis. MB 30(1)
 - Boesch, E.E. 2nd Thai-European research seminar. MB 58(2) {R}
-
 ## References
 <!-- Grounded occurrences and citations -->

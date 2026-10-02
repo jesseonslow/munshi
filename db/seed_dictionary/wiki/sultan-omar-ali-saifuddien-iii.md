@@ -19,6 +19,5 @@ published: false
 ## MBRAS Sources
 
 - Shariffuddin, P.M. Dato’. Obituary. MB 59(2)
-
 ## References
 <!-- Grounded occurrences and citations -->

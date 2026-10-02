@@ -4,7 +4,8 @@ title: L.C. Rookmaaker
 canonical_name: L.C. Rookmaaker
 aliases:
 - K. Rookmaaker
-- Rookmaaker, L.C
+- Rookmaaker, L.C.
+- Rookmaaker, K.
 type: person
 is_contributor: true
 status: stub

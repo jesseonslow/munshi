@@ -26,7 +26,7 @@ published: false
 <!-- Synthesis engine: Insert history details here -->
 
 ## MBRAS Sources
-<!-- Seed entries or targeted retrieval for Laos -->
+
 ### Description and travel
 
 - Dabin, G. A missionary’s journey through Laos, Bangkok to Ubon. SB 15
@@ -34,6 +34,5 @@ published: false
 ### History
 
 - Tarling, N. Britain and the neutralisation of Laos. MB 85(2) {R}
-
 ## References
 <!-- Grounded occurrences and citations -->

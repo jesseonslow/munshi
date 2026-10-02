@@ -134,12 +134,12 @@ articles:
 **Date:** November 1928
 
 ## Table of Contents
-* [Gold ornaments dug up at Fort Canning, Singapore](./gold-ornaments-dug-up-at-fort-canning-singapore.md) — [R.O. Winstedt](./ro-winstedt.md) (pp. 1–4)
+* [Gold ornaments dug up at Fort Canning, Singapore](./gold-ornaments-dug-up-at-fort-canning-singapore.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 1–4)
 * [Notes on some Malay words](./notes-on-some-malay-words.md) — [C.O. Blagden](./co-blagden.md) (pp. 36–40)
 * [Some Malay superstitions](./some-malay-superstitions.md) — [Abdul Majid bin Haji Zainuddin Haji](./abdul-majid-bin-haji-zainuddin-haji.md) (pp. 41–45)
 * [The rules for some common Malay games written by students at the Malay College, Kuala Kangsar and communicated by C. Bazell {Headmaster](./the-rules-for-some-common-malay-games-written-by-students-at.md) — [C. Bazell](./c-bazell.md) (pp. 46–48)
 * [A Naning terumba](./a-naning-terumba.md) — [A. Hyde](./a-hyde.md) (pp. 49–53)
-* [Some Rembau customary sayings](./some-rembau-customary-sayings.md) — [R.O. Winstedt](./ro-winstedt.md) (pp. 54–55)
+* [Some Rembau customary sayings](./some-rembau-customary-sayings.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 54–55)
 * [Bersandui: verses recited by collectors of honey in Rembau](./bersandui-verses-recited-by-collectors-of-honey-in-rembau.md) — [O.T. Dussek](./ot-dussek.md) (pp. 56–57)
 * [An incident in the history of Malacca under Portuguese rule](./an-incident-in-the-history-of-malacca-under-portuguese-rule.md) — [B.S. Mee](./bs-mee.md) (pp. 58–62)
 * [Mt. Kina Balu, a Dusun legend of its name](./mt-kina-balu-a-dusun-legend-of-its-name.md) — [C.F. Skinner](./cf-skinner.md) (pp. 63–65)
@@ -157,7 +157,7 @@ articles:
 * [C.F. Skinner](./cf-skinner.md)
 * [C.O. Blagden](./co-blagden.md)
 * [O.T. Dussek](./ot-dussek.md)
-* [R.O. Winstedt](./ro-winstedt.md)
+* [R.O. Winstedt](./richard-olaf-winstedt.md)
 * [W. Linehan](./w-linehan.md)
 
 ## References

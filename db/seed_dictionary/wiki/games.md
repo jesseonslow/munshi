@@ -64,6 +64,5 @@ published: false
 - Samusah, Raja. Malay game of _apit_. MB 10(1)
 - Winstedt, R.O. Notes on Malay card games. SB 45
 - Winstedt, R.O. Rules in Malay chess. SB 77
-
 ## References
 <!-- Grounded occurrences and citations -->

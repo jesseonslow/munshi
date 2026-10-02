@@ -29,6 +29,5 @@ published: false
 - Miller, J.I. Elephant terms in Perak. MB 5(2)
 - Reid, A.J.S. Elephants and water at feasts in 17th century Aceh. MB 62(2)
 - Shelford, R.S. Fossil tooth found at Bau, Sarawak. SB 32
-
 ## References
 <!-- Grounded occurrences and citations -->

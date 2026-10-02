@@ -46,6 +46,5 @@ published: false
 - Pelras, C. The Bugis. MB 70(2) {R}
 - Tol, R. Husin bin Ismail, Bugis scribe. MB 93(1)
 - Wellen, K.A. Early modern Wajorese statecraft and diaspora. MB 89(1) {R}
-
 ## References
 <!-- Grounded occurrences and citations -->

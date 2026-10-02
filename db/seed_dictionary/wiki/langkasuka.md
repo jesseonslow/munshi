@@ -24,6 +24,5 @@ published: false
 - Linehan, W. Langkasuka: island of Asoka. MB 21(1) and 22(1)
 - Wales, H.G.Q. Langkasuka and Tambralinga. MB 47(1)
 - Winstedt, R.O. Was Johore once named Langkasuka? MB 1(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

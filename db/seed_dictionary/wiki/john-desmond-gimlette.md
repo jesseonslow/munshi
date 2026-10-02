@@ -21,6 +21,5 @@ published: false
 
 - Gimlette, J.D. Malay poisons. MB 1(1) and 7(2) {R}
 - Winstedt, R.O. Obituary. MB 12(2)
-
 ## References
 <!-- Grounded occurrences and citations -->

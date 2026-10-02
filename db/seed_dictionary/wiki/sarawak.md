@@ -68,7 +68,7 @@ published: false
 <!-- Synthesis engine: Insert description and travel details here -->
 
 ## MBRAS Sources
-<!-- Seed entries or targeted retrieval for Sarawak -->
+
 ### Antiquities
 
 - Harrisson, T. Cave burials at Magala, Sekaloh, Niah, Sarawak. MB 41(2)
@@ -105,6 +105,5 @@ published: false
 - Tarling, N. Britain and Sarawak in the 20th century. MB 43(2)
 - Tarling, N. Biography of Sir James Brooke. MB 56(2) {R}
 - Tarling, N. Brooke rule in Sarawak and its principles. MB 65(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

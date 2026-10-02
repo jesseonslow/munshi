@@ -43,6 +43,5 @@ published: false
 - Tolmie, P. Malayan material at Rhodes House library. MB 62(1)
 - Trocki, C.A. Johore archives and the _kangchu_ system. MB 48(1)
 - Verhoeven, F.R.J. Lost archives of Dutch Malacca. MB 37(2)
-
 ## References
 <!-- Grounded occurrences and citations -->

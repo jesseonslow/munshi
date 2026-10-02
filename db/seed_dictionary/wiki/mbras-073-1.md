@@ -16,8 +16,8 @@ contributors:
   name: Amarjit Kaur
 - id: cm-turnbull
   name: C.M. Turnbull
-- id: d-wong-tze-ken
-  name: D. Wong Tze-ken
+- id: danny-wong-tze-ken
+  name: Danny Wong Tze-ken
 - id: hs-barlow
   name: H.S. Barlow
 - id: i-inkster
@@ -52,7 +52,7 @@ articles:
   title: The British North Borneo Branch of the Royal Asiatic Society (1893–1897)
     and its museum
   authors:
-  - D. Wong Tze-ken
+  - Danny Wong Tze-ken
   pages: 17–27
   is_review: false
 - id: jmbras-73-1-p29
@@ -141,7 +141,7 @@ articles:
 
 ## Table of Contents
 * [Changing labour relations in Malaysia 1970s–1990s](./changing-labour-relations-in-malaysia-1970s1990s.md) — [Amarjit Kaur](./amarjit-kaur.md) (pp. 1–16)
-* [The British North Borneo Branch of the Royal Asiatic Society (1893–1897) and its museum](./the-british-north-borneo-branch-of-the-royal-asiatic-society.md) — [D. Wong Tze-ken](./d-wong-tze-ken.md) (pp. 17–27)
+* [The British North Borneo Branch of the Royal Asiatic Society (1893–1897) and its museum](./the-british-north-borneo-branch-of-the-royal-asiatic-society.md) — [Danny Wong Tze-ken](./danny-wong-tze-ken.md) (pp. 17–27)
 * [Sekolah menengah di Singapura 1959–1987](./sekolah-menengah-di-singapura-19591987.md) — [Kamsiah Abdullah](./kamsiah-abdullah.md) (pp. 29–41)
 * [Sultan Abu Bakar’s visit to the Italian king and to the Pope](./sultan-abu-bakars-visit-to-the-italian-king-and-to-the-pope.md) — [L. Bressan](./l-bressan.md), [A. Candilio](./a-candilio.md) (pp. 43–54)
 * [The coming of Islam to Champa](./the-coming-of-islam-to-champa.md) — [R. Nakamura](./r-nakamura.md) (pp. 55–66)
@@ -157,7 +157,7 @@ articles:
 * [A. Candilio](./a-candilio.md)
 * [Amarjit Kaur](./amarjit-kaur.md)
 * [C.M. Turnbull](./cm-turnbull.md)
-* [D. Wong Tze-ken](./d-wong-tze-ken.md)
+* [Danny Wong Tze-ken](./danny-wong-tze-ken.md)
 * [H.S. Barlow](./hs-barlow.md)
 * [I. Inkster](./i-inkster.md)
 * [Iskander](./iskander.md)

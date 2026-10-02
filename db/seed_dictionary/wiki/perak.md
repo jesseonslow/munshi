@@ -78,13 +78,12 @@ published: false
 <!-- Synthesis engine: Insert rulers and chiefs details here -->
 
 ## MBRAS Sources
-<!-- Seed entries or targeted retrieval for Perak -->
+
 ### History
 
 - Abdul Karim bin Bagoo. Malay States Guides. MB 35(1)
 - Abdurrazzaq Lubis. Raja Bilah and the Mandailings. Monograph 35 and MB 77(2) {R}
 - Birch, E.W. Takeover of part of Reman from Siam. SB 54
-Burns, P.L. Jervois papers on annexation. MB 72(1)
 - Butcher, J.G. The anti-gambling petition in Perak, 1905. MB 56(1)
 - Ceridwen, A. Silsilah Raja-Raja Perak: a court genealogy. MB 74(2)
 - Cheah Boon Kheng. Sultan Abdullah’s letters from the Seychelles. MB 64(1)
@@ -164,6 +163,5 @@ Burns, P.L. Jervois papers on annexation. MB 72(1)
 - Winstedt, R.O. Some Perak pedigrees. SB 79
 - Winstedt, R.O. Perak royal musical instruments. MB 7(3)
 - Winstedt, R.O. Early rulers of Perak, Pahang and Acheh. MB 10(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

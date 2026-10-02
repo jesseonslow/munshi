@@ -8,7 +8,7 @@ canonical_name: The British North Borneo Branch of the Royal Asiatic Society (18
 type: article
 article_type: article
 authors:
-- D. Wong Tze-ken
+- Danny Wong Tze-ken
 year: 2000
 journal_code: JMBRAS
 volume: 73

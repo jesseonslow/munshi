@@ -27,6 +27,5 @@ published: false
 - Lamb, A. Beads from Johor Lama and Kota Tinggi. MB 37(1)
 - Lamb, A. Stone and glass beads in early SEA. MB 38(2)
 - Munan, H. Beads of Borneo. MB 79(2) {R}
-
 ## References
 <!-- Grounded occurrences and citations -->

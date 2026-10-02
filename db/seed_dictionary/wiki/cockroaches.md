@@ -19,6 +19,5 @@ published: false
 ## MBRAS Sources
 
 - Hanitsch, R. Malayan Blattidae. SB 69 and MB 1(3)
-
 ## References
 <!-- Grounded occurrences and citations -->

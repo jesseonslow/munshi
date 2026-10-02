@@ -32,6 +32,5 @@ published: false
 - Hanitsch, R. Parthenogenetic breeding of Eurycnema herculanea. SB 39
 - Ridley, H.N. Fertilization of Webera stellulata. SB 41
 - Ridley, H.N. Fertilization of Grammatophyllum. SB 44
-
 ## References
 <!-- Grounded occurrences and citations -->

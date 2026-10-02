@@ -24,6 +24,5 @@ published: false
 
 - Headly, D. Illanun and Bajau marriage customs in Kota Belud district. MB 24(3)
 - Warren, J.F. Irranun, globalisation and J. Conrad. MB 74(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

@@ -42,6 +42,5 @@ published: false
 - Weebers, R. Development of Tanah Rata and Cameron Highlands, 1925–2030. MB 90(1)
 - Wheatley, P. Origins of East Asian urban traditions. MB 58(1) {R}
 - Yeoh, B.S.A. Allocation of space in colonial Singapore. MB 71(1) and 71(2) {R}
-
 ## References
 <!-- Grounded occurrences and citations -->

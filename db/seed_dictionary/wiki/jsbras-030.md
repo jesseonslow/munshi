@@ -66,16 +66,16 @@ articles:
 
 ## Table of Contents
 * [A vocabulary of the Dusun language of Kimanis](./a-vocabulary-of-the-dusun-language-of-kimanis.md) — [H.L.E. Luering](./hle-luering.md) (pp. 1–29)
-* [Malay plant names](./malay-plant-names.md) — [H.N. Ridley](./hn-ridley.md) (pp. 31–283)
+* [Malay plant names](./malay-plant-names.md) — [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 31–283)
 * [An account of the cultivation of rice in Malacca {in Rumi, .O. Blagden](./an-account-of-the-cultivation-of-rice-in-malacca-in-rumi-o-b.md) — [Muhammad Ja'far](./muhammad-jafar.md) (pp. 285–304)
-* [Batara Guru](./batara-guru.md) — [R.J. Wilkinson](./rj-wilkinson.md) (pp. 307–311)
-* [Calanthe vestita Lindl. in Selangor](./calanthe-vestita-lindl-in-selangor.md) — [H.N. Ridley](./hn-ridley.md) (pp. 311–312)
+* [Batara Guru](./batara-guru.md) — [R.J. Wilkinson](./richard-james-wilkinson.md) (pp. 307–311)
+* [Calanthe vestita Lindl. in Selangor](./calanthe-vestita-lindl-in-selangor.md) — [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 311–312)
 
 ## Contributors
 * [H.L.E. Luering](./hle-luering.md)
-* [H.N. Ridley](./hn-ridley.md)
+* [H.N. Ridley](./henry-nicholas-ridley.md)
 * [Muhammad Ja'far](./muhammad-jafar.md)
-* [R.J. Wilkinson](./rj-wilkinson.md)
+* [R.J. Wilkinson](./richard-james-wilkinson.md)
 
 ## References
 <!-- Grounded occurrences and citations -->

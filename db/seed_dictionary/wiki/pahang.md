@@ -38,7 +38,7 @@ published: false
 <!-- Synthesis engine: Insert description and travel details here -->
 
 ## MBRAS Sources
-<!-- Seed entries or targeted retrieval for Pahang -->
+
 ### History
 
 - Abu Talib Ahmad. Japanese Occupation in Pahang. MB 97(1)
@@ -78,6 +78,5 @@ published: false
 - Ridley, H.N. A trip up river to reach Gunong Tahan. SB 25
 - Roberts, W.B. An unexplored corner of Pahang. SB 32
 - Willbourn, E.S. Journey in the Ulu Rompin district. MB 4(2)
-
 ## References
 <!-- Grounded occurrences and citations -->

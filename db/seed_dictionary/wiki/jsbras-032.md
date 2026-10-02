@@ -106,20 +106,20 @@ articles:
 ## Table of Contents
 * [An unexplored corner of Pahang](./an-unexplored-corner-of-pahang.md) — [W.B. Roberts](./wb-roberts.md) (pp. 1–8)
 * [Hose, G.F. A catalogue of the ferns of Borneo and some of the adjacent islands which have been recorded up to the present time](./hose-gf-a-catalogue-of-the-ferns-of-borneo-and-some-of-the-a.md) — [C. Hose](./c-hose.md) (pp. 31–84)
-* [The Scitamineae of the Malay Peninsula](./the-scitamineae-of-the-malay-peninsula.md) — [H.N. Ridley](./hn-ridley.md) (pp. 85–184)
-* [The habits of Malay reptiles](./the-habits-of-malay-reptiles.md) — [H.N. Ridley](./hn-ridley.md) (pp. 185–210)
+* [The Scitamineae of the Malay Peninsula](./the-scitamineae-of-the-malay-peninsula.md) — [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 85–184)
+* [The habits of Malay reptiles](./the-habits-of-malay-reptiles.md) — [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 185–210)
 * [The name “Malaya”](./the-name-malaya.md) — [C.O. Blagden](./co-blagden.md) (pp. 211–213)
-* [The Putri Gunong Ledang](./the-putri-gunong-ledang.md) — [R.J. Wilkinson](./rj-wilkinson.md) (pp. 213–214)
-* [Golden flowers](./golden-flowers.md) — [H.N. Ridley](./hn-ridley.md) (pp. 214–215)
-* [Remarks on the Rhinoceros hornbill (Buceros rhinoceros), and some other species mentioned in Mr. Ridley’s paper on the birds of the botanical gardens. {With a note H.N. Ridley](./remarks-on-the-rhinoceros-hornbill-buceros-rhinoceros-and-so.md) — [A.L. Butler](./al-butler.md), [H.N. Ridley](./hn-ridley.md) (pp. 215–217)
-* [Bekin](./bekin.md) — [W. Cameron](./w-cameron.md), [H.N. Ridley](./hn-ridley.md) (pp. 217)
+* [The Putri Gunong Ledang](./the-putri-gunong-ledang.md) — [R.J. Wilkinson](./richard-james-wilkinson.md) (pp. 213–214)
+* [Golden flowers](./golden-flowers.md) — [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 214–215)
+* [Remarks on the Rhinoceros hornbill (Buceros rhinoceros), and some other species mentioned in Mr. Ridley’s paper on the birds of the botanical gardens. {With a note H.N. Ridley](./remarks-on-the-rhinoceros-hornbill-buceros-rhinoceros-and-so.md) — [A.L. Butler](./al-butler.md), [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 215–217)
+* [Bekin](./bekin.md) — [W. Cameron](./w-cameron.md), [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 217)
 
 ## Contributors
 * [A.L. Butler](./al-butler.md)
 * [C. Hose](./c-hose.md)
 * [C.O. Blagden](./co-blagden.md)
-* [H.N. Ridley](./hn-ridley.md)
-* [R.J. Wilkinson](./rj-wilkinson.md)
+* [H.N. Ridley](./henry-nicholas-ridley.md)
+* [R.J. Wilkinson](./richard-james-wilkinson.md)
 * [W. Cameron](./w-cameron.md)
 * [W.B. Roberts](./wb-roberts.md)
 

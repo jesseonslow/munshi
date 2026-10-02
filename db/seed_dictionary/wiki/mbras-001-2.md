@@ -182,8 +182,8 @@ articles:
 * [Description de quelques nouveaux Cercopides de la faune Indo-Malaysie](./description-de-quelques-nouveaux-cercopides-de-la-faune-indo.md) — [G. Lallemand](./g-lallemand.md) (pp. 267–270)
 * [New Brenthidae from the Raffles Museum, with remarks on the Brenthid fauna of the Malay Peninsula](./new-brenthidae-from-the-raffles-museum-with-remarks-on-the-b.md) — [R. Kleine](./r-kleine.md) (pp. 271–281)
 * [Shaer Raksi. . Overbeck](./shaer-raksi-overbeck.md) — [Ahmad](./ahmad.md), [H. Overbeck](./h-overbeck.md) (pp. 282–307)
-* [A set of alphabet pantuns. Raja Haji Yahya bin Raja Muhammad ‘Ali](./a-set-of-alphabet-pantuns-raja-haji-yahya-bin-raja-muhammad-.md) — [R.O. Winstedt](./ro-winstedt.md), [Yahya bin Raja Muhammad Ali Raja Haji](./yahya-bin-raja-muhammad-ali-raja-haji.md) (pp. 308–311)
-* [Some Malay mystics, heretical and orthodox](./some-malay-mystics-heretical-and-orthodox.md) — [R.O. Winstedt](./ro-winstedt.md) (pp. 312–318)
+* [A set of alphabet pantuns. Raja Haji Yahya bin Raja Muhammad ‘Ali](./a-set-of-alphabet-pantuns-raja-haji-yahya-bin-raja-muhammad-.md) — [R.O. Winstedt](./richard-olaf-winstedt.md), [Yahya bin Raja Muhammad Ali Raja Haji](./yahya-bin-raja-muhammad-ali-raja-haji.md) (pp. 308–311)
+* [Some Malay mystics, heretical and orthodox](./some-malay-mystics-heretical-and-orthodox.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 312–318)
 * [A survey of the dragonfly fauna of the Malay Peninsula, with notes on that of neighbouring countries. Part I](./a-survey-of-the-dragonfly-fauna-of-the-malay-peninsula-with-.md) — [F.F. Laidlaw](./ff-laidlaw.md) (pp. 319–333)
 * [Mohamedan calendar](./mohamedan-calendar.md) — [Mohamed Sayid](./mohamed-sayid.md) (pp. 334–337)
 * [The geology of the Langkawi Islands: with a geological sketch map](./the-geology-of-the-langkawi-islands-with-a-geological-sketch.md) — [J.B. Scrivenor](./jb-scrivenor.md), [E.S. Willbourn](./es-willbourn.md) (pp. 338–347)
@@ -191,9 +191,9 @@ articles:
 * [Notes on the invocation of Akuan](./notes-on-the-invocation-of-akuan.md) — [F.F. Laidlaw](./ff-laidlaw.md) (pp. 376–377)
 * [A note of the habits of the pygmy falcon](./a-note-of-the-habits-of-the-pygmy-falcon.md) — [F.F. Laidlaw](./ff-laidlaw.md) (pp. 377)
 * [Arctic latah](./arctic-latah.md) — [J. O'May](./j-omay.md) (pp. 381–383)
-* [Three peninsular charms](./three-peninsular-charms.md) — [R.O. Winstedt](./ro-winstedt.md) (pp. 383–384)
+* [Three peninsular charms](./three-peninsular-charms.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 383–384)
 * *The census report of British North Borneo* — [J.E. Nathan](./je-nathan.md) (pp. 385–386) [Review]
-* *Sarawak. H.H. Ranee of Sarawak* — [J.C. Moulton](./jc-moulton.md) (pp. 386–388) [Review]
+* *Sarawak. H.H. Ranee of Sarawak* — [J.C. Moulton](./john-coney-moulton.md) (pp. 386–388) [Review]
 * *Malaya: the Straits Settlements and the Federated and Unfederated Malay States. .O. Winstedt* — [J. Johnston](./j-johnston.md) (pp. 388–389) [Review]
 * *The Singapore Naturalist, No. 2* — [C.B. Kloss](./cb-kloss.md) (pp. 390–391) [Review]
 
@@ -208,11 +208,11 @@ articles:
 * [J. Johnston](./j-johnston.md)
 * [J. O'May](./j-omay.md)
 * [J.B. Scrivenor](./jb-scrivenor.md)
-* [J.C. Moulton](./jc-moulton.md)
+* [J.C. Moulton](./john-coney-moulton.md)
 * [J.E. Nathan](./je-nathan.md)
 * [Mohamed Sayid](./mohamed-sayid.md)
 * [R. Kleine](./r-kleine.md)
-* [R.O. Winstedt](./ro-winstedt.md)
+* [R.O. Winstedt](./richard-olaf-winstedt.md)
 * [Yahya bin Raja Muhammad Ali Raja Haji](./yahya-bin-raja-muhammad-ali-raja-haji.md)
 
 ## References

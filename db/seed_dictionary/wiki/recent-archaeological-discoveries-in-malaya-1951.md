@@ -1,7 +1,7 @@
 ---
 id: recent-archaeological-discoveries-in-malaya-1951
 work_id: jmbras-25-1-p181
-title: Recent archaeological discoveries in Malaya (1951
+title: Recent archaeological discoveries in Malaya (1951)
 canonical_name: Recent archaeological discoveries in Malaya (1951)
 type: article
 article_type: article
@@ -20,7 +20,7 @@ status: stub
 published: false
 ---
 
-# Recent archaeological discoveries in Malaya (1951
+# Recent archaeological discoveries in Malaya (1951)
 
 ## Overview
 <!-- Synthesis engine: Insert article overview here -->

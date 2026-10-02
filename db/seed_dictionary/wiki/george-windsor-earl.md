@@ -21,6 +21,5 @@ published: false
 
 - Gibson-Hill, C.A. George Samuel Windsor Earl. MB 32(1)
 - Reece, R.H.W. Australian career of George Windsor Earl. MB 65(2)
-
 ## References
 <!-- Grounded occurrences and citations -->

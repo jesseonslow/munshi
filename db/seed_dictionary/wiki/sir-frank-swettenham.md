@@ -38,7 +38,6 @@ published: false
 - Chew, E. Frank Swettenham and Yap Ah Loy 1871–85. MB 57(1)
 - Mohamad Rashidi Pakri. The Maxwell-Swettenham rivalry. MB 84(2)
 - Swettenham, F.A. Sir Frank Swettenham’s Perak journals, 1874–6. MB 24(4) and 25(1)
-
 ## Bibliography
 - (1878) [A Malay nautch](./a-malay-nautch.md). *JSBRAS* 2: 163–167
 - (1880) [Comparative vocabulary of the dialects of some of the wild tribes inhabiting the Malayan peninsula, Borneo, etc., collected and compiled for the Straits Branch of the Royal Asiatic Society](./comparative-vocabulary-of-the-dialects-of-some-of-the-wild-t.md). *JSBRAS* 5: 125–156

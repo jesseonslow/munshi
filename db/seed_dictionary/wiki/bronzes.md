@@ -36,6 +36,5 @@ published: false
 - Treloar, F.E. Metal objects from Chandi Bukit, Kedah—chemical analysis to determine date and origin. MB 41(1)
 - Treloar, F.E. Kedah artefacts. MB 52(2)
 - Winstedt, R.O. Indonesian bronze drum-head from Pahang. MB 7(3)
-
 ## References
 <!-- Grounded occurrences and citations -->

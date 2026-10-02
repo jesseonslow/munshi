@@ -24,6 +24,5 @@ published: false
 - Maxwell, W.E. _Daun tiga ‘lei_. NQ Reprint 15
 - Schaalje, M. _Daun tiga ‘lei_. NQ Reprint 15
 - Winstedt, R.O. Notes on Malay card games. SB 45
-
 ## References
 <!-- Grounded occurrences and citations -->

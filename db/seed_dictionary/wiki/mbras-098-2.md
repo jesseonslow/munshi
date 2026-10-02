@@ -10,8 +10,8 @@ nominal_month: December
 nominal_year: 2025
 articles_count: 13
 contributors:
-- id: bt-urwin
-  name: B.T. Urwin
+- id: brian-t-unwin
+  name: Brian T. Unwin
 - id: d-lim-wei-jie
   name: D. Lim Wei Jie
 - id: ej-roe
@@ -32,18 +32,18 @@ contributors:
   name: Leong Yee Fong
 - id: liew-kai-khiun
   name: Liew Kai Khiun
-- id: lim-teckwyn
-  name: Lim Teckwyn
+- id: teckwyn-lim
+  name: Teckwyn Lim
 - id: nasha-rodziadi-khaw
   name: Nasha Rodziadi Khaw
 - id: ooi-eng-jin
   name: Ooi Eng Jin
-- id: p-lim-teckwyn
-  name: P Lim Teckwyn
-- id: p-leong-yue-sek
-  name: P. Leong Yue Sek
-- id: s-kent
-  name: S. Kent
+- id: p-teckwyn-lim
+  name: P Teckwyn Lim
+- id: peter-leong-yue-sek
+  name: Peter Leong Yue Sek
+- id: sally-kent
+  name: Sally Kent
 - id: siew-chang-yee
   name: Siew Chang Yee
 - id: siti-hajar-salleh
@@ -74,7 +74,7 @@ articles:
   title: 'Clementi and the Colonial Office: Tensions over Decentralisation Policy
     in the Malay States, 1930–34'
   authors:
-  - B.T. Urwin
+  - Brian T. Unwin
   pages: 35–56
   is_review: false
 - id: jmbras-98-2-p57
@@ -82,9 +82,9 @@ articles:
   title: 'Muddy Waters: The Lost Sungai Lumpur'
   authors:
   - Leong Yee Fong
-  - Lim Teckwyn
-  - P. Leong Yue Sek
-  - P Lim Teckwyn
+  - Teckwyn Lim
+  - Peter Leong Yue Sek
+  - P Teckwyn Lim
   pages: 57–91
   is_review: false
 - id: jmbras-98-2-p93
@@ -118,7 +118,7 @@ articles:
   title: Archives of the British Association of Malaysia and Singapore relating to
     the Second World War [research note
   authors:
-  - S. Kent
+  - Sally Kent
   pages: 131–137
   is_review: false
 - id: jmbras-98-2-p139
@@ -175,13 +175,13 @@ articles:
 **Date:** December 2025
 
 ## Table of Contents
-* [The Bukit Choras Inscriptions and the Significance of the Sāgaramatiparipṛcchā Verses to Ancient Kedah. Nasha Rodziadi Khaw et al](./the-bukit-choras-inscriptions-and-the-significance-of-the-sā.md) — [V. Bujeng](./v-bujeng.md), [Nasha Rodziadi Khaw](./nasha-rodziadi-khaw.md), [Ooi Eng Jin](./ooi-eng-jin.md), [Siti Hajar Salleh](./siti-hajar-salleh.md) (pp. 5–34)
-* [Clementi and the Colonial Office: Tensions over Decentralisation Policy in the Malay States, 1930–34](./clementi-and-the-colonial-office-tensions-over-decentralisat.md) — [B.T. Urwin](./bt-urwin.md) (pp. 35–56)
-* [Muddy Waters: The Lost Sungai Lumpur](./muddy-waters-the-lost-sungai-lumpur.md) — [Leong Yee Fong](./leong-yee-fong.md), [Lim Teckwyn](./lim-teckwyn.md), [P. Leong Yue Sek](./p-leong-yue-sek.md), [P Lim Teckwyn](./p-lim-teckwyn.md) (pp. 57–91)
+* [The Bukit Choras Inscriptions and the Significance of the Sāgaramatiparipṛcchā Verses to Ancient Kedah](./the-bukit-choras-inscriptions-and-the-significance-of-the-sā.md) — [V. Bujeng](./v-bujeng.md), [Nasha Rodziadi Khaw](./nasha-rodziadi-khaw.md), [Ooi Eng Jin](./ooi-eng-jin.md), [Siti Hajar Salleh](./siti-hajar-salleh.md) (pp. 5–34)
+* [Clementi and the Colonial Office: Tensions over Decentralisation Policy in the Malay States, 1930–34](./clementi-and-the-colonial-office-tensions-over-decentralisat.md) — [Brian T. Unwin](./brian-t-unwin.md) (pp. 35–56)
+* [Muddy Waters: The Lost Sungai Lumpur](./muddy-waters-the-lost-sungai-lumpur.md) — [Leong Yee Fong](./leong-yee-fong.md), [Teckwyn Lim](./teckwyn-lim.md), [Peter Leong Yue Sek](./peter-leong-yue-sek.md), [P Teckwyn Lim](./p-teckwyn-lim.md) (pp. 57–91)
 * [The Genesis of Malayan Chinese Civil Society's Struggle for Constitutional Equality, in Particular Jus Soli](./the-genesis-of-malayan-chinese-civil-societys-struggle-for-c.md) — [Siew Chang Yee](./siew-chang-yee.md), [H. Ting Mu Hung](./h-ting-mu-hung.md) (pp. 93–121)
 * [An Account of Several Inscriptions Found in Province Wellesley on the Peninsula of Malacca. Facsimile reprint. With a note H. Ting Mu Hung](./an-account-of-several-inscriptions-found-in-province-wellesl.md) — [J. Low](./j-low.md) (pp. 123–125)
 * [Kuala Lumpur District: Report Forwarded to Government by Mr E.J. Roe, Acting Assistant District Officer. Facsimile reprint. With a note S.K. Manickam](./kuala-lumpur-district-report-forwarded-to-government-by-mr-e.md) — [E.J. Roe](./ej-roe.md) (pp. 127–129)
-* [Archives of the British Association of Malaysia and Singapore relating to the Second World War [research note](./archives-of-the-british-association-of-malaysia-and-singapor.md) — [S. Kent](./s-kent.md) (pp. 131–137)
+* [Archives of the British Association of Malaysia and Singapore relating  to the Second World War](./archives-of-the-british-association-of-malaysia-and-singapor.md) — [Sally Kent](./sally-kent.md) (pp. 131–137)
 * *In the Malay World: A Spatial History of Bengali Transnational Community. G.M. Rahman* — [H.H. Khondker](./hh-khondker.md) (pp. 139–140) [Review]
 * *Salleh Ben Joned: Truth, Beauty, Amok and Belonging. Anna Salleh* — [Wong Soak Koon](./wong-soak-koon.md) (pp. 140–143) [Review]
 * *Counter-Cartographies: Reading Singapore Otherwise. Joanne Leow* — [Liew Kai Khiun](./liew-kai-khiun.md) (pp. 143–145) [Review]
@@ -190,7 +190,7 @@ articles:
 * *In the Mirror: New and Selected Poems of Wong Phui Nam* — [W. Tham Wai Liang](./w-tham-wai-liang.md), [Eds. B.K. Liew](./eds-bk-liew.md), [D. Lim Wei Jie](./d-lim-wei-jie.md) (pp. 151–154) [Review]
 
 ## Contributors
-* [B.T. Urwin](./bt-urwin.md)
+* [Brian T. Unwin](./brian-t-unwin.md)
 * [D. Lim Wei Jie](./d-lim-wei-jie.md)
 * [E.J. Roe](./ej-roe.md)
 * [Eds. B.K. Liew](./eds-bk-liew.md)
@@ -201,12 +201,12 @@ articles:
 * [K.M. Teoh](./km-teoh.md)
 * [Leong Yee Fong](./leong-yee-fong.md)
 * [Liew Kai Khiun](./liew-kai-khiun.md)
-* [Lim Teckwyn](./lim-teckwyn.md)
+* [Teckwyn Lim](./teckwyn-lim.md)
 * [Nasha Rodziadi Khaw](./nasha-rodziadi-khaw.md)
 * [Ooi Eng Jin](./ooi-eng-jin.md)
-* [P Lim Teckwyn](./p-lim-teckwyn.md)
-* [P. Leong Yue Sek](./p-leong-yue-sek.md)
-* [S. Kent](./s-kent.md)
+* [P Teckwyn Lim](./p-teckwyn-lim.md)
+* [Peter Leong Yue Sek](./peter-leong-yue-sek.md)
+* [Sally Kent](./sally-kent.md)
 * [Siew Chang Yee](./siew-chang-yee.md)
 * [Siti Hajar Salleh](./siti-hajar-salleh.md)
 * [V. Bujeng](./v-bujeng.md)

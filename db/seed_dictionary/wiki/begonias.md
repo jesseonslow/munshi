@@ -20,6 +20,5 @@ published: false
 
 - Burkill, I.H. Begonia haniffi from Langkawi. SB 79
 - Ridley, H.N. Begonias of Borneo. SB 46
-
 ## References
 <!-- Grounded occurrences and citations -->

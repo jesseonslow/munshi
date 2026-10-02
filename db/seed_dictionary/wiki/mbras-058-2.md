@@ -137,7 +137,7 @@ articles:
 * [The Chams and their literature](./the-chams-and-their-literature.md) — [G.E. Marrison](./ge-marrison.md) (pp. 45–70)
 * [The new-born Malay child: a multiple identity being](./the-new-born-malay-child-a-multiple-identity-being.md) — [J.L. Massard](./jl-massard.md) (pp. 71–85)
 * [The opening of the Malay world to European trade in the sixteenth century](./the-opening-of-the-malay-world-to-european-trade-in-the-sixt.md) — [Hall K.R](./hall-kr.md) (pp. 85–106)
-* [Kedah in the reign of Sultan Ahmad Tajuddin II](./kedah-in-the-reign-of-sultan-ahmad-tajuddin-ii.md) — [J.M. Gullick](./jm-gullick.md) (pp. 107–134)
+* [Kedah in the reign of Sultan Ahmad Tajuddin II](./kedah-in-the-reign-of-sultan-ahmad-tajuddin-ii.md) — [J.M. Gullick](./john-michael-gullick.md) (pp. 107–134)
 * [The Malayan Nature Society/Star Endau-Rompin Expedition](./the-malayan-nature-societystar-endau-rompin-expedition.md) — [H.S. Barlow](./hs-barlow.md) (pp. 135–142)
 * *The heritage of Arung Palakka: history of South Sulawesi (Celebes) in the seventeenth century. L.Y. Andaya* — [J. Kathirithamby– Wells](./j-kathirithamby-wells.md) (pp. 143–144) [Review]
 * *Trade and society: the Amoy network on the China coast. Ng Chin-Keong* — [Yen Ching-Hwang](./yen-ching-hwang.md) (pp. 144–145) [Review]
@@ -155,7 +155,7 @@ articles:
 * [Hall K.R](./hall-kr.md)
 * [J. Kathirithamby– Wells](./j-kathirithamby-wells.md)
 * [J.L. Massard](./jl-massard.md)
-* [J.M. Gullick](./jm-gullick.md)
+* [J.M. Gullick](./john-michael-gullick.md)
 * [Khoo Kay Kim](./khoo-kay-kim.md)
 * [L. Hong](./l-hong.md)
 * [Yen Ching-Hwang](./yen-ching-hwang.md)

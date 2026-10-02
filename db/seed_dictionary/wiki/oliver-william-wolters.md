@@ -23,7 +23,6 @@ published: false
 ## MBRAS Sources
 
 - Hooker, V.M. Obituary. MB 74(1)
-
 ## Bibliography
 - (1979) [Studying Srivijaya](./studying-srivijaya.md). *JMBRAS* 52(2): 1–32
 

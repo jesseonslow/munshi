@@ -32,6 +32,5 @@ published: false
 - Maznah Mohamed. The origin of weaving centres in the Malay Peninsula. MB 68(1)
 - Maznah Mohamed. The Malay handloom weavers: rise and decline. MB 70(1) {R}
 - Skeat, W.W. Silk and cotton dyeing by the Malays. SB 38
-
 ## References
 <!-- Grounded occurrences and citations -->

@@ -146,11 +146,11 @@ published: false
 <!-- Synthesis engine: Insert bibliography details here -->
 
 ## MBRAS Sources
-<!-- Seed entries or targeted retrieval for Malaya -->
+
 ### Architecture
-<!-- Seed entries or targeted retrieval for Malaya: Architecture -->
+
 ### Commerce
-<!-- Seed entries or targeted retrieval for Malaya: Commerce -->
+
 ### Economy
 
 - Anderson, J. Political and commercial considerations etc. re peninsula. MB 45(4)
@@ -173,7 +173,6 @@ published: false
 ### History
 
 - Cheah Boon Kheng (ed). New perspectives and research on Malaysian history.
-Monograph 41
 - Drabble, J.H. An economic history of Malaysia, c1800–1990. MB 74(1) {R}
 - Gullick, J.M. A history of Malayan history. MB 71(2)
 - Mahani Musa. Festschrift for Cheah Boon Kheng. MB 75(2) {R}
@@ -260,7 +259,6 @@ Monograph 41
 - Thatcher, D. Various documents relating to the Japanese occupation. MB 88(1)
 - Warren, A. Singapore 1942. MB 75(2) {R}
 - Wong Tze Ken, D. The Kinabalu guerillas and the 1943 Jesselton uprising. MB 92(2) {R}
-
 ### Politics and government
 
 - Barlow, H.S. Communist pamphlets from Kedah and Penang. MB 67(2)
@@ -337,7 +335,7 @@ Monograph 41
 - Douglas, F.W. Historical geography and the Sejarah Melayu. Printed privately and Reprint 7
 - Douglas, F.W. Sabara and Sabana. MB 26(1)
 - Haile, N.S. High sea levels in Malaya in Cenozoic period. MB 48(1)
-- Lim Teckwyn. The Lost Sungai Lumpur. MB 98(2)
+- Teckwyn Lim. The Lost Sungai Lumpur. MB 98(2)
 - Mills, J.V. Malaya in Wu-Pei-Chih charts. Reprints 4 and 25
 - Mills, J.V. Polepon (Saya Island). MB 12(2)
 - Moens, J.L. Srivijaya, Yava en Kataha (BKI). Tr. R.J. de Touche. MB 17(2)
@@ -361,7 +359,6 @@ Monograph 41
 - Koninck, R. de. Singapore’s territorial revolution in fifty maps. MB 92(2) {R}
 - Mills, J.V. Malaya in the Wu-pei-chih charts. MB 15(3) and 16(1) and Reprints 4 and 25
 - Mills, J.V. Collection of Malayan maps in Raffles Library. MB 15(3) and 16(1)
-
 ### Description and travel
 
 - Andaya, B.W. Gathering ‘knowledge’ in the Bay of Bengal. MB 87(2)
@@ -419,7 +416,7 @@ Monograph 41
 - Winstedt, R.O. The Bendaharas and the Temenggongs. MB 10(1)
 
 ### Geography
-<!-- Seed entries or targeted retrieval for Malaya: Geography -->
+
 ### Bibliographies
 
 - Brown, I. Malaysia bibliography. MB 61(2) {R}
@@ -430,6 +427,5 @@ Monograph 41
 - Lim, B. Recent books on Malaya. SB 85
 - Rost, R. Asiatic studies by Dutch societies in 1885. SB 16
 - Sherborn, C.D. Bibliography of Malaya, 1888–94. SB 22, 24, 26, 27, 29
-
 ## References
 <!-- Grounded occurrences and citations -->

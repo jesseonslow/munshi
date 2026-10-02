@@ -45,6 +45,5 @@ published: false
 - Sweeney, A. Peran Hutan, a Malay wayang drama. MB 44(2) and 45(1)
 - Sweeney, A. Malay shadow puppets of the wayang Siam in Kelantan. MB 53(2) {R}
 - Van Beuningen van Helsdingen, R. Javanese Wayang Purwa and Wayang Gedog. SB 65
-
 ## References
 <!-- Grounded occurrences and citations -->

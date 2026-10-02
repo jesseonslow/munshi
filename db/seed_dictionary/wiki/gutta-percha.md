@@ -22,6 +22,5 @@ published: false
 - Dennys, N.B. Gutta juices. NQ Reprint 15
 - Murton, J.H. Gutta and caoutchouc in the Malay Peninsula. SB 1
 - Wray, L. Gutta-producing trees. SB 12
-
 ## References
 <!-- Grounded occurrences and citations -->

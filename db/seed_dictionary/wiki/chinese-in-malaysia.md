@@ -85,6 +85,5 @@ published: false
 - Yen Ching-hwang. Social history of Chinese. MB 60(2) {R}
 - Yong, C.F. Governor Young and control of Chinese. MB 57(2)
 - Yong, C.F. Kuomintang in Malaya. MB 64(2) {R}
-
 ## References
 <!-- Grounded occurrences and citations -->

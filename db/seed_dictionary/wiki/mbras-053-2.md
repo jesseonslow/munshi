@@ -148,7 +148,7 @@ articles:
 * [Analysis of gold artefacts from the Kota Cina site, near Medan, Sumatra (with appendices). A. Manning, E](./analysis-of-gold-artefacts-from-the-kota-cina-site-near-meda.md) — [E. Edwards](./e-edwards.md), [F.E. Treloar](./fe-treloar.md), [A. Manning](./a-manning.md) (pp. 102–116)
 * [A note on a gold ‘tali’ from Kota Cina](./a-note-on-a-gold-tali-from-kota-cina.md) — [E.E. McKinnon](./ee-mckinnon.md) (pp. 117)
 * [Obituary: Francis E. Treloar](./obituary-francis-e-treloar.md) — [E.E. McKinnon](./ee-mckinnon.md) (pp. 118–119)
-* *The British in Malaya 1880-1941: the social history of a European community in colonial South-East Asia. J.G. Butcher* — [J.M. Gullick](./jm-gullick.md) (pp. 120–121) [Review]
+* *The British in Malaya 1880-1941: the social history of a European community in colonial South-East Asia. J.G. Butcher* — [J.M. Gullick](./john-michael-gullick.md) (pp. 120–121) [Review]
 * *Prints of Southeast Asia in the India Office Library: assembled with commentaries, with a select bibliography and index. J. Bastin and P. Rohatgi* — [H. Bamadhaj](./h-bamadhaj.md) (pp. 122–123) [Review]
 * *Dutch-Asiatic shipping in the seventeenth and eighteenth centuries. Vols. 2 and 3. ed J.R. Bruijn, F.S. Gaastra and I. Schoffer* — [Chin Yoon Fong](./chin-yoon-fong.md) (pp. 123–125) [Review]
 
@@ -162,7 +162,7 @@ articles:
 * [E.E. McKinnon](./ee-mckinnon.md)
 * [F.E. Treloar](./fe-treloar.md)
 * [H. Bamadhaj](./h-bamadhaj.md)
-* [J.M. Gullick](./jm-gullick.md)
+* [J.M. Gullick](./john-michael-gullick.md)
 * [M.C. Subhadradis Diskul](./mc-subhadradis-diskul.md)
 * [Mohd Hashim bin Sam Abdul Latiff](./mohd-hashim-bin-sam-abdul-latiff.md)
 * [R.J.F. Curtis](./rjf-curtis.md)

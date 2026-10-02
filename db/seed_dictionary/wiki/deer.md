@@ -21,6 +21,5 @@ published: false
 ## MBRAS Sources
 
 - Chasen, F.N. Colour of young Malayan _rusa_ (_Cervus unicolor equinus_). MB 3(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

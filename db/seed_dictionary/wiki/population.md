@@ -33,6 +33,5 @@ published: false
 - Smith, T.E. Population growth in Malaya. MB 25(1) {R}
 - Usman Haji Yaakob. The Malaysian census 2000. MB 79(1)
 - Zaharah bt Hj Mahmud. Traditional settlement in the Malay Peninsula. MB 43(2)
-
 ## References
 <!-- Grounded occurrences and citations -->

@@ -66,7 +66,7 @@ published: false
 <!-- Synthesis engine: Insert history details here -->
 
 ## MBRAS Sources
-<!-- Seed entries or targeted retrieval for Kelantan -->
+
 ### Antiquities
 
 - Braddell, R. Arikamedu and Oc-eo (Indian port in N Malaya). MB 24(3)
@@ -102,6 +102,5 @@ published: false
 - Shaharil Talib. History of Kelantan 1890–1940. Monograph 21
 - Skinner, C. Civil war in Kelantan in 1839. Monograph 2
 - Tan Chee-Beng. Peranakan Chinese in NE Kelantan: religion. MB 55(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

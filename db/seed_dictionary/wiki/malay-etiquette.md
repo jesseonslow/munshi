@@ -23,6 +23,5 @@ published: false
 
 - Muhammad Ghazzali, Dato’. Court language and etiquette among the Malays. MB 11(2) and Reprint 4
 - Zainal Abidin bin Ahmad. Malay manners and etiquette. MB 23(3)
-
 ## References
 <!-- Grounded occurrences and citations -->

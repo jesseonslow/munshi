@@ -27,6 +27,5 @@ published: false
 - Sieveking, G. de G. Recent archaeological discoveries in Malaya –Johore Lama (1952–53). MB 27(1) and Reprint 4
 - Sieveking, G. de G. Fortified city of Johore Lama. MB 28(2)
 - Sieveking, G. de G. Stamped wares from Johore Lama. MB 29(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

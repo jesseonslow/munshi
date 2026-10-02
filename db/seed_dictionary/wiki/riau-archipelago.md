@@ -42,6 +42,5 @@ published: false
 - Noorduyn, N. Bugis genealogy of the Raja Muda family of Riau-Johor. MB 61(2)
 - Wee, V. Crossing the straits of Melaka, Singapore and Riau. MB 91(2)
 - Winstedt, R.O. Outline of a Malay history of Riau. MB 11(2)
-
 ## References
 <!-- Grounded occurrences and citations -->

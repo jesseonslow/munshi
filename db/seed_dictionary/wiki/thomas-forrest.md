@@ -19,6 +19,5 @@ published: false
 ## MBRAS Sources
 
 - Bassett, D.K. Thomas Forrest, an 18th century mariner. MB 34(2)
-
 ## References
 <!-- Grounded occurrences and citations -->

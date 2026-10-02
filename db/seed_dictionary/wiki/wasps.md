@@ -23,6 +23,5 @@ published: false
 ## MBRAS Sources
 
 - Ridley, H.N. A wasp attacking a leaf-mining caterpillar. SB 44
-
 ## References
 <!-- Grounded occurrences and citations -->

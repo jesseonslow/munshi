@@ -19,6 +19,5 @@ published: false
 ## MBRAS Sources
 
 - Rentse, A. Gantang of Kelantan. MB 11(2)
-
 ## References
 <!-- Grounded occurrences and citations -->

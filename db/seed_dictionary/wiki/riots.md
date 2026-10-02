@@ -27,11 +27,10 @@ published: false
 <!-- Synthesis engine: Insert straits settlements details here -->
 
 ## MBRAS Sources
-<!-- Seed entries or targeted retrieval for Riots -->
+
 ### Straits Settlements
 
 - Tarling, N. The Singapore mutiny of 1915. MB 55(2)
 - Turnbull, C.M. Communal disturbances in the SS in 1857. MB 31(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

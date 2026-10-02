@@ -5,7 +5,7 @@ canonical_name: Allan Maclean Skinner
 aliases:
 - A. M. Skinner
 - A.M. Skinner
-- Skinner, A.M
+- Skinner, A.M.
 broader: []
 narrower: []
 related: []
@@ -23,7 +23,6 @@ published: false
 ## MBRAS Sources
 
 - Kynnersley, C.W.S. Obituary. SB 36
-
 ## Bibliography
 - (1878) [Geography of the Malay Peninsula](./geography-of-the-malay-peninsula.md). *JSBRAS* 1: 52–62
 - (1878) [Geographical notes – recent journeys in the peninsula](./geographical-notes-recent-journeys-in-the-peninsula.md). *JSBRAS* 2: 222–225

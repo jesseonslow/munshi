@@ -121,7 +121,7 @@ articles:
 **Date:** December 2004
 
 ## Table of Contents
-* [The Malay community of Kuala Langat in the late nineteenth century](./the-malay-community-of-kuala-langat-in-the-late-nineteenth-c.md) — [J.M. Gullick](./jm-gullick.md) (pp. 1–25)
+* [The Malay community of Kuala Langat in the late nineteenth century](./the-malay-community-of-kuala-langat-in-the-late-nineteenth-c.md) — [J.M. Gullick](./john-michael-gullick.md) (pp. 1–25)
 * [The ‘lost city’ of Kota Gelanggi: an exploratory essay based on textual evidence and an excursion into ‘aerial archaeology’](./the-lost-city-of-kota-gelanggi-an-exploratory-essay-based-on.md) — [Raimy Ché-Ross](./raimy-ché-ross.md) (pp. 27–58)
 * [An imperial or a personal legacy? The rivalry of W.E. Maxwell and F.A. Swettenham in British Malaya](./an-imperial-or-a-personal-legacy-the-rivalry-of-we-maxwell-a.md) — [Mohamed Rashidi Pakri](./mohamed-rashidi-pakri.md) (pp. 33–44)
 * [The Johore Military Forces: the oldest army of Malay regulars in the Peninsula](./the-johore-military-forces-the-oldest-army-of-malay-regulars.md) — [Shahriman bin Tunku Sulaiman Tunku Tan Sri Dato'](./shahriman-bin-tunku-sulaiman-tunku-tan-sri-dato.md) (pp. 95–105)
@@ -131,10 +131,10 @@ articles:
 * *Respected citizens: the history of Armenians in Singapore and Malaysia. N. Wright* — [S. Dobbs](./s-dobbs.md) (pp. 128–129) [Review]
 * *Wong Ah Fook: immigrant, builder and entrepreneur. P. Lim Pui Huen* — [Rahimah Abdul Aziz](./rahimah-abdul-aziz.md) (pp. 129–132) [Review]
 * *Tensions of empire: Japan and Southeast Asia in the colonial and post-colonial world. K. Goto* — [P. Ramasamy](./p-ramasamy.md) (pp. 132–134) [Review]
-* *Raja Bilah and the Mandailings of Perak 1875–1911. Abdurrazzaq Lubis and Khoo Salma Nasution* — [J.M. Gullick](./jm-gullick.md) (pp. 134–135) [Review]
+* *Raja Bilah and the Mandailings of Perak 1875–1911. Abdurrazzaq Lubis and Khoo Salma Nasution* — [J.M. Gullick](./john-michael-gullick.md) (pp. 134–135) [Review]
 
 ## Contributors
-* [J.M. Gullick](./jm-gullick.md)
+* [J.M. Gullick](./john-michael-gullick.md)
 * [Mohamed Rashidi Pakri](./mohamed-rashidi-pakri.md)
 * [P. Ramasamy](./p-ramasamy.md)
 * [Rahimah Abdul Aziz](./rahimah-abdul-aziz.md)

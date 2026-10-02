@@ -38,6 +38,5 @@ published: false
 - Knight, A. Chinese names of streets. SB 45
 - Lo Man Yuk. Chinese names of streets in Penang. SB 33
 - Tan Kee Soon. Index to Firmstone’s list of street and place names. SB 46
-
 ## References
 <!-- Grounded occurrences and citations -->

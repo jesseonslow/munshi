@@ -112,23 +112,23 @@ articles:
 **Date:** July 1905
 
 ## Table of Contents
-* [The Gesneraceae of the Malay Peninsula](./the-gesneraceae-of-the-malay-peninsula.md) — [H.N. Ridley](./hn-ridley.md) (pp. 1–92)
+* [The Gesneraceae of the Malay Peninsula](./the-gesneraceae-of-the-malay-peninsula.md) — [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 1–92)
 * [A third contribution to the knowledge of the Hymenoptera of Sarawak](./a-third-contribution-to-the-knowledge-of-the-hymenoptera-of-.md) — [P. Cameron](./p-cameron.md) (pp. 93–168)
-* [The aroids of Borneo](./the-aroids-of-borneo.md) — [H.N. Ridley](./hn-ridley.md) (pp. 169–188)
-* [New and little known Malayan plants](./new-and-little-known-malayan-plants.md) — [H.N. Ridley](./hn-ridley.md) (pp. 189–211)
+* [The aroids of Borneo](./the-aroids-of-borneo.md) — [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 169–188)
+* [New and little known Malayan plants](./new-and-little-known-malayan-plants.md) — [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 189–211)
 * [On a second collection of coins from Malacca](./on-a-second-collection-of-coins-from-malacca.md) — [Hanitsch R](./hanitsch-r.md) (pp. 213–216)
 * [Lightning conductors](./lightning-conductors.md) — [G.E.V. Thomas](./gev-thomas.md) (pp. 217–222)
 * [Note on the occurrence in Selangor of three vertebrates new to the Malay Peninsula](./note-on-the-occurrence-in-selangor-of-three-vertebrates-new-.md) — [H.C. Robinson](./hc-robinson.md) (pp. 223–225)
 * [Pranticola manra (Pall.](./pranticola-manra-pall.md) — [C.B. Kloss](./cb-kloss.md) (pp. 225–226)
-* [Nesting of the little grey woodpecker](./nesting-of-the-little-grey-woodpecker.md) — [H.N. Ridley](./hn-ridley.md) (pp. 226–227)
-* [Nesting of Draco fimbriatus](./nesting-of-draco-fimbriatus.md) — [H.N. Ridley](./hn-ridley.md) (pp. 227)
-* [On the fertilization of Grammatophyllum](./on-the-fertilization-of-grammatophyllum.md) — [H.N. Ridley](./hn-ridley.md) (pp. 228–229)
+* [Nesting of the little grey woodpecker](./nesting-of-the-little-grey-woodpecker.md) — [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 226–227)
+* [Nesting of Draco fimbriatus](./nesting-of-draco-fimbriatus.md) — [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 227)
+* [On the fertilization of Grammatophyllum](./on-the-fertilization-of-grammatophyllum.md) — [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 228–229)
 
 ## Contributors
 * [C.B. Kloss](./cb-kloss.md)
 * [G.E.V. Thomas](./gev-thomas.md)
 * [H.C. Robinson](./hc-robinson.md)
-* [H.N. Ridley](./hn-ridley.md)
+* [H.N. Ridley](./henry-nicholas-ridley.md)
 * [Hanitsch R](./hanitsch-r.md)
 * [P. Cameron](./p-cameron.md)
 

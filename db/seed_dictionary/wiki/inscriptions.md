@@ -76,6 +76,5 @@ published: false
 - Wilkinson, R.J. Pengkalan Kempas “saint”. MB 9(1) and Reprint 4
 - Winstedt, R.O. Naina Husani al-Din of Pasai: a Persian memorial inscription. MB 18(2)
 - Winstedt, R.O. The Ligor inscription. MB 22(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

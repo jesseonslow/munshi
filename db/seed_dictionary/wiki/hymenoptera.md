@@ -32,6 +32,5 @@ published: false
 - Cameron, P. _Iphiaulax_ and _Chaolta_ (Bracoaidae). SB 42 and 44
 - Cameron, P. New species of _Chalcis_ from Borneo. SB 42
 - Fullaway, D.T. New genera and species of Braconidae. SB 80
-
 ## References
 <!-- Grounded occurrences and citations -->

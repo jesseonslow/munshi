@@ -6,7 +6,7 @@ canonical_name: James Carnegy and the ‘Country Trade’ in Penang, c.1802–18
 type: article
 article_type: article
 authors:
-- F.A. Smith
+- F. Andrew Smith
 year: 2023
 journal_code: JMBRAS
 volume: 96

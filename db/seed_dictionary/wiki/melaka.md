@@ -107,7 +107,7 @@ published: false
 <!-- Synthesis engine: Insert fortifications details here -->
 
 ## MBRAS Sources
-<!-- Seed entries or targeted retrieval for Melaka -->
+
 ### Commerce
 
 - Bruijn, P.G. de. Trade in the Straits of Malacca in 1785. MB 26(1)
@@ -126,8 +126,6 @@ published: false
 - Marrison, G.E. Siamese wars with Malacca during the reign of Mudzaffar Shah. MB 22(1) and 24(1)
 - McRoberts, R.W. Economic history of Malacca, 1400–1511. MB 64(2)
 - R.O. Winstedt {ed}. _Sejarah Melayu_ - No 18 of Raffles collection at RAS. MB 16(3)
-C.O. Blagden {ed} _Sejarah Melayu_ - An unpublished variant version. MB 3(1)
-C.C. Brown {tr} _Sejarah Melayu_. MB 25(2/3)
 - Wang Gungwu. The first three rulers of Malacca. MB 41(1) and Reprint 25
 - Wilkinson, R.J. The Malacca Sultanate. SB 61 and MB 13(2)
 - Winstedt, R.O. Genealogy of Malacca’s kings from the Bustanu’s-Salatin. SB 81
@@ -193,7 +191,7 @@ C.C. Brown {tr} _Sejarah Melayu_. MB 25(2/3)
 - Jardin, S. Melaka Fort Gateway. MB 98(1)
 
 ### Buildings
-<!-- Seed entries or targeted retrieval for Melaka: Buildings -->
+
 ### Description and travel
 
 - Bastin, J.S. Five early watercolour sketches of Penang and Malacca. MB 31(1)
@@ -209,6 +207,5 @@ C.C. Brown {tr} _Sejarah Melayu_. MB 25(2/3)
 - Purcell, V. Chinese settlement in Malacca. MB 20(1)
 - Sheehan, J.J. 17th century visitors to the Malay Peninsula. MB 12(2)
 - Wade, G. Melaka in Ming dynasty texts. MB 70(1) and Reprint 25
-
 ## References
 <!-- Grounded occurrences and citations -->

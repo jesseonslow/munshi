@@ -20,6 +20,5 @@ published: false
 ## MBRAS Sources
 
 - Linehan, W. Obituary. MB 23(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

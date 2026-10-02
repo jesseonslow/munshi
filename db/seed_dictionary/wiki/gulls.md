@@ -20,6 +20,5 @@ published: false
 ## MBRAS Sources
 
 - Kloss, C.B. Laughing gull (Larus ridibundus, Linn.) in Singapore Straits. MB 4(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

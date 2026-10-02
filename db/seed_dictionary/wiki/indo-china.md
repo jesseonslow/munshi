@@ -51,6 +51,5 @@ published: false
 - Scott, J.G. Annamese funeral rites (extract from France and Tongking 1885). SB 15
 - Tarling, N. British relations with Vietnam, 1822–58. MB 39(1)
 - Tréglodé, B. de. Heroes and revolution in Vietnam 1948–64. MB 88(2) {R}
-
 ## References
 <!-- Grounded occurrences and citations -->

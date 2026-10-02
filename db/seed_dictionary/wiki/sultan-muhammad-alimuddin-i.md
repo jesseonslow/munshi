@@ -20,6 +20,5 @@ published: false
 ## MBRAS Sources
 
 - Costa, H. de la. Muhammad Alimuddin I, Sultan of Sulu, 1735–73. MB 38(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

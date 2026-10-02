@@ -19,6 +19,5 @@ published: false
 ## MBRAS Sources
 
 - Holttum, R.E. Pteridophyta from Mentawi Island. MB 6(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

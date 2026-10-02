@@ -117,28 +117,28 @@ articles:
 **Date:** January 1911
 
 ## Table of Contents
-* [Right Revd. George Frederick Hose, D.D. Bishop of Singapore and Sarawak, 1881–1908](./right-revd-george-frederick-hose-dd-bishop-of-singapore-and-.md) — [R.N. Bland](./rn-bland.md), [H.N. Ridley](./hn-ridley.md) (pp. 1–4)
-* [A scientific expedition to Temengoh, Upper Perak](./a-scientific-expedition-to-temengoh-upper-perak.md) — [H.N. Ridley](./hn-ridley.md) (pp. 5–122)
+* [Right Revd. George Frederick Hose, D.D. Bishop of Singapore and Sarawak, 1881–1908](./right-revd-george-frederick-hose-dd-bishop-of-singapore-and-.md) — [R.N. Bland](./rn-bland.md), [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 1–4)
+* [A scientific expedition to Temengoh, Upper Perak](./a-scientific-expedition-to-temengoh-upper-perak.md) — [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 5–122)
 * [Rats and plague](./rats-and-plague.md) — [C.B. Kloss](./cb-kloss.md) (pp. 157–166)
 * *Researches on Ptolemy’s Geography of Eastern Asia. G.E. Gerini* — [W. Makepeace](./w-makepeace.md) (pp. 167–169) [Review]
 * [Two religious ceremonies in vogue among the Milanos of Sarawak](./two-religious-ceremonies-in-vogue-among-the-milanos-of-saraw.md) — [B. Mulder](./b-mulder.md), [J.Hewitt](./jhewitt.md) (pp. 171–181)
-* [The history of the peninsula in folk-tales](./the-history-of-the-peninsula-in-folk-tales.md) — [R.O. Winstedt](./ro-winstedt.md) (pp. 183–188)
+* [The history of the peninsula in folk-tales](./the-history-of-the-peninsula-in-folk-tales.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 183–188)
 * [Antiquity of Malacca](./antiquity-of-malacca.md) — [C.O. Blagden](./co-blagden.md) (pp. 189–190)
 * [Hermanus Neubronner Van Der Tuuk](./hermanus-neubronner-van-der-tuuk.md) — [C.O. Blagden](./co-blagden.md), [F.F. Laidlaw](./ff-laidlaw.md) (pp. 190)
-* [An account of De Siqueira’s voyage to Malacca](./an-account-of-de-siqueiras-voyage-to-malacca.md) — [W.G. Maxwell](./wg-maxwell.md) (pp. 193–195)
-* [Miscellaneous notes](./miscellaneous-notes.md) — [W.G. Maxwell](./wg-maxwell.md) (pp. 195–196)
+* [An account of De Siqueira’s voyage to Malacca](./an-account-of-de-siqueiras-voyage-to-malacca.md) — [W.G. Maxwell](./sir-william-george-maxwell.md) (pp. 193–195)
+* [Miscellaneous notes](./miscellaneous-notes.md) — [W.G. Maxwell](./sir-william-george-maxwell.md) (pp. 195–196)
 
 ## Contributors
 * [B. Mulder](./b-mulder.md)
 * [C.B. Kloss](./cb-kloss.md)
 * [C.O. Blagden](./co-blagden.md)
 * [F.F. Laidlaw](./ff-laidlaw.md)
-* [H.N. Ridley](./hn-ridley.md)
+* [H.N. Ridley](./henry-nicholas-ridley.md)
 * [J.Hewitt](./jhewitt.md)
 * [R.N. Bland](./rn-bland.md)
-* [R.O. Winstedt](./ro-winstedt.md)
+* [R.O. Winstedt](./richard-olaf-winstedt.md)
 * [W. Makepeace](./w-makepeace.md)
-* [W.G. Maxwell](./wg-maxwell.md)
+* [W.G. Maxwell](./sir-william-george-maxwell.md)
 
 ## References
 <!-- Grounded occurrences and citations -->

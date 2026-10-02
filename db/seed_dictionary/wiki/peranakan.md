@@ -51,6 +51,5 @@ published: false
 - Teoh Boon Seong. Baba Hokkien dialect in Penang. MB 72(1) and Reprint 33
 - Teo Kok Seong. Peranakan Chinese of Kelantan. MB 78(2) {R}
 - Wazir Jahan Karim. Bapu Alaidin and the early settlement of Penang. MB 85(2)
-
 ## References
 <!-- Grounded occurrences and citations -->

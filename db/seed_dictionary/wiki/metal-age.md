@@ -23,6 +23,5 @@ published: false
 
 - Harrisson, B. Neolithic and metal age burials at Sekaloh, Niah, Sarawak. MB 41(2)
 - O’Connor, S.J. A metal mould for making clay Buddhist votive stupas. MB 48(2)
-
 ## References
 <!-- Grounded occurrences and citations -->

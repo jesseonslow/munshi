@@ -30,8 +30,8 @@ contributors:
   name: Ooi Keat Gin
 - id: s-hudd
   name: S. Hudd
-- id: t-kwek
-  name: T. Kwek
+- id: theophilus-kwek
+  name: Theophilus Kwek
 - id: various
   name: Various
 parent_hub: journal-of-the-malaysian-branch-of-the-royal-asiatic-society
@@ -65,7 +65,7 @@ articles:
   title: '(Trans)national service: reconfiguring citizenship through conscription
     in Singapore'
   authors:
-  - T. Kwek
+  - Theophilus Kwek
   pages: 67–90
   is_review: false
 - id: jmbras-92-1-p91
@@ -132,7 +132,7 @@ articles:
 * [Producing Malaya : the photography of Carl A. Gibson-Hill](./producing-malaya-the-photography-of-carl-a-gibson-hill.md) — [B. Luyt](./b-luyt.md) (pp. 1–20)
 * [Revisiting Christian missionaries in colonial Malaya and Singapore: blurring the boundaries between empire, mission and development](./revisiting-christian-missionaries-in-colonial-malaya-and-sin.md) — [S. Hudd](./s-hudd.md) (pp. 21–40)
 * [Boo Chih Fu and the first Malaysian Communist Party split](./boo-chih-fu-and-the-first-malaysian-communist-party-split.md) — [M. Opper](./m-opper.md) (pp. 41–66)
-* [(Trans)national service: reconfiguring citizenship through conscription in Singapore](./transnational-service-reconfiguring-citizenship-through-cons.md) — [T. Kwek](./t-kwek.md) (pp. 67–90)
+* [(Trans)national service: reconfiguring citizenship through conscription in Singapore](./transnational-service-reconfiguring-citizenship-through-cons.md) — [Theophilus Kwek](./theophilus-kwek.md) (pp. 67–90)
 * [The “highly interesting” settlement of “Sincapore”, 1819–1825. Comp. P.H. Kratoska](./the-highly-interesting-settlement-of-sincapore-18191825-comp.md) — [Various](./various.md) (pp. 91–110)
 * *Through turbulent terrain: trade of the Straits port of Penang. Loh Wei Leng with J. Seow* — [D. Brunero](./d-brunero.md) (pp. 111–112) [Review]
 * *Diaries of F.W. Foxworthy: Malaysia’s first forest research officer, ed F.S.P. Ng* — [H.S. Barlow](./hs-barlow.md) (pp. 112–114) [Review]
@@ -152,7 +152,7 @@ articles:
 * [N. Lee](./n-lee.md)
 * [Ooi Keat Gin](./ooi-keat-gin.md)
 * [S. Hudd](./s-hudd.md)
-* [T. Kwek](./t-kwek.md)
+* [Theophilus Kwek](./theophilus-kwek.md)
 * [Various](./various.md)
 
 ## References

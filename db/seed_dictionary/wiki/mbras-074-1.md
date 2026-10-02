@@ -132,7 +132,7 @@ articles:
 
 ## Table of Contents
 * [O.W. Wolters (8 June 1915–5 December 2000): an obituary and appreciation,](./ow-wolters-8-june-19155-december-2000-an-obituary-and-apprec.md) — [V.M. Hooker](./vm-hooker.md) (pp. 1–18)
-* [Richard James Wilkinson: a man of parts](./richard-james-wilkinson-a-man-of-parts.md) — [J.M. Gullick](./jm-gullick.md) (pp. 19–42)
+* [Richard James Wilkinson: a man of parts](./richard-james-wilkinson-a-man-of-parts.md) — [J.M. Gullick](./john-michael-gullick.md) (pp. 19–42)
 * [Savagism and civilization: the Iranun, globalization and the literature of Joseph Conrad](./savagism-and-civilization-the-iranun-globalization-and-the-l.md) — [J.F. Warren](./jf-warren.md) (pp. 43–69)
 * [The Turiang: a fourteenth century Chinese shipwreck upsetting Southeast Asian ceramic history](./the-turiang-a-fourteenth-century-chinese-shipwreck-upsetting.md) — [C. Barnes](./c-barnes.md), [Sten Sjostrand](./sten-sjostrand.md) (pp. 71–109)
 * *An economic history of Malaysia, c1800–1990: the transition to modern economic growth. J.H. Drabble* — [Badriyah Haji Salleh](./badriyah-haji-salleh.md) (pp. 111–114) [Review]
@@ -150,7 +150,7 @@ articles:
 * [E.M. Diakonova](./em-diakonova.md)
 * [H. Chambert-Loir](./h-chambert-loir.md)
 * [J.F. Warren](./jf-warren.md)
-* [J.M. Gullick](./jm-gullick.md)
+* [J.M. Gullick](./john-michael-gullick.md)
 * [M.B. Puthucheary](./mb-puthucheary.md)
 * [P. Lim Pui Huen](./p-lim-pui-huen.md)
 * [Sten Sjostrand](./sten-sjostrand.md)

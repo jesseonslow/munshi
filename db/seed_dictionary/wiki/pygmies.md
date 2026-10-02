@@ -19,6 +19,5 @@ published: false
 ## MBRAS Sources
 
 - Quatrefages, A. de. Asiatic pygmies etc. Tr. J.E. de la Croix. SB 11 and 13
-
 ## References
 <!-- Grounded occurrences and citations -->

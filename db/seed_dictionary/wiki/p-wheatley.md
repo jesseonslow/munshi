@@ -17,7 +17,7 @@ published: false
 ## Biography
 
 ## Bibliography
-- (1954) [Raffles, Alexander Hare & Johanna van Hare. MB 28(1): 184–191 My1955 Recent archaeological discoveries in Malaya (1952–1953): the investigations at Johore Lama. (G. de G. Sieveking, P. Wheatley and C.A. Gibson-Hill](./raffles-alexander-hare-johanna-van-hare-mb-281-184191-my1955.md). *JMBRAS* 27(1): 224–233
+
 - (1955) [The Malay Peninsula as known to the Chinese of the third century A.D](./the-malay-peninsula-as-known-to-the-chinese-of-the-third-cen.md). *JMBRAS* 28(1): 1–23
 - (1955) [Belated comments on Sir Roland Braddell’s Studies of ancient times in the Malay Peninsula](./belated-comments-on-sir-roland-braddells-studies-of-ancient-.md). *JMBRAS* 28(1): 78–98
 - (1957) [Possible references to the Malay Peninsula in the Annals of the Former Han](./possible-references-to-the-malay-peninsula-in-the-annals-of-.md). *JMBRAS* 30(1): 115–121

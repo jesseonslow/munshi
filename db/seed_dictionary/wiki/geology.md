@@ -46,7 +46,6 @@ published: false
 - De La Croix, J.E. Seven months in the tin country of Perak. MB 93(1)
 - Everett, A.H. Minerals of Sarawak. SB 1 and 2
 - Haile, N.S. Postulated late Cainozoic high sea levels in Malay
-Peninsula. MB 48(1) Isnard, L.C. Gemencheh (in French—geological). SB 21
 - Khoo, T.T. Crawfurd’s comments on SEA geology in his Journal of an Embassy. MB 69(2)
 - Koopmans, B.N. Geomorphological survey of lower course of Perak River. MB 37(2)
 - LeBar, F.M. Tradition and geomorphology in Kelabit highlands of North Borneo. MB 38(1)
@@ -62,6 +61,5 @@ Peninsula. MB 48(1) Isnard, L.C. Gemencheh (in French—geological). SB 21
 - Willbourn, E.S. Geology of SEA. SB 86
 - Willbourn, E.S. Geology and mining of Kedah and Perlis. MB 4(3)
 - Willbourn, E.S. Geology and mining of Johor. MB 6(4)
-
 ## References
 <!-- Grounded occurrences and citations -->

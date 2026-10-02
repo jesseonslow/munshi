@@ -20,6 +20,5 @@ published: false
 ## MBRAS Sources
 
 - Kathirithamby-Wells, J. Late 17th century ‘holy war’ in Indonesia. MB 43(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

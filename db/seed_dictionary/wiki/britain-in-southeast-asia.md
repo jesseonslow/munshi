@@ -50,6 +50,5 @@ published: false
 - Tarling, N. British policy in Malay Peninsula and archipelago, 1824–71. MB 30(3)
 - Tarling, N. Consul Farren and the Philippines. MB 38(2)
 - Tarling, N. British relations with Vietnam, 1822–58. MB 39(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

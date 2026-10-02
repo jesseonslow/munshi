@@ -41,6 +41,5 @@ published: false
 - Rouhan, M. A French Missionary During the Japanese Occupation. MB 95(1) {R}
 - Teoh, K.M. French nuns and their convent schools. MB 93(2) {R}
 - Vaillant, A. Penang in 1837 tr. C. Dyer. MB 90(2)
-
 ## References
 <!-- Grounded occurrences and citations -->

@@ -36,7 +36,6 @@ published: false
 ## Sea Dayaks (Iban)
 
 ## MBRAS Sources
-<!-- Seed entries or targeted retrieval for Dayaks -->
 
 ### Land Dayaks
 
@@ -67,6 +66,5 @@ published: false
 - Sather, C. Saribas Iban rite of healing. MB 94(2) {R}
 - Searle, P. Politics in Sarawak, 1970–6, Iban perspective. MB 57(2) {R}
 - Staal, J. Folklore of Sadong Dayaks. MB 18(2)
-
 ## References
 <!-- Grounded occurrences and citations -->

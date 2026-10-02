@@ -29,6 +29,5 @@ published: false
 - Winstedt, R.O. A Kelantan invocation to the earth spirit. MB 3(1)
 - Winstedt, R.O. A Perak innovation to the langsuyar. MB 3(1)
 - Zainal Abidin bin Ahmad. The akuan or spirit friends. SB 86
-
 ## References
 <!-- Grounded occurrences and citations -->

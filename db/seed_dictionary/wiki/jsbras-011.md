@@ -99,23 +99,23 @@ articles:
 
 ## Table of Contents
 * [Ornithological notes made in the Straits Settlements and the western states of the Malay Peninsula](./ornithological-notes-made-in-the-straits-settlements-and-the.md) — [H.R. Kelham](./hr-kelham.md) (pp. 1–29)
-* [Malay proverbs](./malay-proverbs.md) — [W.E. Maxwell](./we-maxwell.md) (pp. 31–82)
+* [Malay proverbs](./malay-proverbs.md) — [W.E. Maxwell](./sir-william-edward-maxwell.md) (pp. 31–82)
 * [The pigmies of Homer, Herodotus, Aristotle, Pliny etc.; the Asiatic pigmies, or Negritos; the Negrillos or African pigmies. A. de Quatrefages. . Errington De La Croix](./the-pigmies-of-homer-herodotus-aristotle-pliny-etc-the-asiat.md) — [J.E. De La Croix](./je-de-la-croix.md), [A. de Quatrefages](./a-de-quatrefages.md) (pp. 83–120)
 * [On the Patani](./on-the-patani.md) — [W. Cameron](./w-cameron.md) (pp. 123–142)
 * [Latah](./latah.md) — [H.A. O'Brien](./ha-obrien.md) (pp. 143–153)
-* [The Java system](./the-java-system.md) — [A.M. Skinner](./am-skinner.md) (pp. 155–166)
-* [Batu Kodok (The Frog Rock](./batu-kodok-the-frog-rock.md) — [D.F.A. Hervey](./dfa-hervey.md) (pp. 167)
-* [Dutch occupation of the Dindings, etc](./dutch-occupation-of-the-dindings-etc.md) — [W.E. Maxwell](./we-maxwell.md) (pp. 169–170)
+* [The Java system](./the-java-system.md) — [A.M. Skinner](./allan-maclean-skinner.md) (pp. 155–166)
+* [Batu Kodok (The Frog Rock](./batu-kodok-the-frog-rock.md) — [D.F.A. Hervey](./dudley-francis-amelius-hervey.md) (pp. 167)
+* [Dutch occupation of the Dindings, etc](./dutch-occupation-of-the-dindings-etc.md) — [W.E. Maxwell](./sir-william-edward-maxwell.md) (pp. 169–170)
 
 ## Contributors
 * [A. de Quatrefages](./a-de-quatrefages.md)
-* [A.M. Skinner](./am-skinner.md)
-* [D.F.A. Hervey](./dfa-hervey.md)
+* [A.M. Skinner](./allan-maclean-skinner.md)
+* [D.F.A. Hervey](./dudley-francis-amelius-hervey.md)
 * [H.A. O'Brien](./ha-obrien.md)
 * [H.R. Kelham](./hr-kelham.md)
 * [J.E. De La Croix](./je-de-la-croix.md)
 * [W. Cameron](./w-cameron.md)
-* [W.E. Maxwell](./we-maxwell.md)
+* [W.E. Maxwell](./sir-william-edward-maxwell.md)
 
 ## References
 <!-- Grounded occurrences and citations -->

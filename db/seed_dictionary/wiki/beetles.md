@@ -31,6 +31,5 @@ published: false
 - Ridley, H.N. Destruction of coconut palms by beetles in Singapore. SB 20
 - Shelford, R. Cicindelid beetle. SB 45
 - Kleine, R. Malayan _Brenthidae_ from the Raffles Museum. MB 1(2)
-
 ## References
 <!-- Grounded occurrences and citations -->

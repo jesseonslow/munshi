@@ -27,6 +27,5 @@ published: false
 - Skeat, W.W. Semah (menyemah). MB 22(1)
 - Wilkinson, R.J. Malay beliefs. MB 30(4)
 - Winstedt, R.O. Indian and Malay beliefs. SB 83
-
 ## References
 <!-- Grounded occurrences and citations -->

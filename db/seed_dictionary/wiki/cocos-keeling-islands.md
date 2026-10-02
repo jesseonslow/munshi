@@ -26,6 +26,5 @@ published: false
 - Gibson-Hill, C.A. North Keeling Island. MB 21(1)
 - Gibson-Hill, C.A. Establishment of settlement: J.C. Ross and A. Hare. MB 25(4/5)
 - Gibson-Hill, C.A. The early history of the Cocos-Keeling Islands. Reprint 31
-
 ## References
 <!-- Grounded occurrences and citations -->

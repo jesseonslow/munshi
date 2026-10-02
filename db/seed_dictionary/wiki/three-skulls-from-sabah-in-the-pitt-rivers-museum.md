@@ -6,7 +6,7 @@ canonical_name: Three Skulls from Sabah in the Pitt Rivers Museum
 type: article
 article_type: article
 authors:
-- D. Wong Tze-ken
+- Danny Wong Tze-ken
 year: 2022
 journal_code: JMBRAS
 volume: 95

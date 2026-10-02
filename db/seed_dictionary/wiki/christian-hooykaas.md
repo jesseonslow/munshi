@@ -19,6 +19,5 @@ published: false
 ## MBRAS Sources
 
 - Sweeney, A. Obituary. MB 54(2)
-
 ## References
 <!-- Grounded occurrences and citations -->

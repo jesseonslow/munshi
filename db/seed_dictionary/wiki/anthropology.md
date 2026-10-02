@@ -27,6 +27,5 @@ published: false
 - Anon. The Semang. SB 2
 - Duckworth, W.L.H. Human remains from rock shelters. MB 12(2)
 - Harrower, G. Skeletal remains. MB 11(2)
-
 ## References
 <!-- Grounded occurrences and citations -->

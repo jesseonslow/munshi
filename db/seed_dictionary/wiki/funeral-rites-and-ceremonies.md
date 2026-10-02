@@ -47,6 +47,5 @@ published: false
 - Li Nanlan. National mourning rites for Lee Kuan Yew. MB 89(1)
 - Scott, J.G. Annamese funeral rites (extract from France and Tongking 1885). SB 15
 - Topley, M. Singapore Cantonese rites for repose of the soul. MB 25(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

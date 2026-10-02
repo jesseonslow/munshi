@@ -24,6 +24,5 @@ published: false
 
 - Quah Seng Sun. Ban Hin Lee Bank. MB 95(1) {R}
 - Tan Ee-leong. Chinese banks. MB 26(1) and 42(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

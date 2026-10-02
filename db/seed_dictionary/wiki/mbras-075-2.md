@@ -114,7 +114,7 @@ articles:
 
 ## Table of Contents
 * [Malay manuscripts in New Zealand: the ‘lost’ manuscript of the Hikayat Abdullah and other Malay manuscripts of the Thomson collection](./malay-manuscripts-in-new-zealand-the-lost-manuscript-of-the-.md) — [Raimy Ché-Ross](./raimy-ché-ross.md) (pp. 1–50)
-* [The Cavenagh papers](./the-cavenagh-papers.md) — [J.M. Gullick](./jm-gullick.md) (pp. 51–64)
+* [The Cavenagh papers](./the-cavenagh-papers.md) — [J.M. Gullick](./john-michael-gullick.md) (pp. 51–64)
 * [A tale of two colonial ports in the Straits of Melaka: Dutch Melaka and English Penang](./a-tale-of-two-colonial-ports-in-the-straits-of-melaka-dutch-.md) — [Nordin Hussin](./nordin-hussin.md) (pp. 65–98)
 * *Singapore 1942: Britain’s greatest defeat. A. Warren* — [N. Tarling](./n-tarling.md) (pp. 117–118) [Review]
 * *Apai Alui becomes and shaman and other Iban comic tales. Comp. C. Sather* — [H. Munan](./h-munan.md), [Jitab](./jitab.md), [J. Noel](./j-noel.md) (pp. 118–120) [Review]
@@ -128,7 +128,7 @@ articles:
 * [H. Munan](./h-munan.md)
 * [H.S. Barlow](./hs-barlow.md)
 * [J. Noel](./j-noel.md)
-* [J.M. Gullick](./jm-gullick.md)
+* [J.M. Gullick](./john-michael-gullick.md)
 * [Jitab](./jitab.md)
 * [N. Tarling](./n-tarling.md)
 * [Nordin Hussin](./nordin-hussin.md)

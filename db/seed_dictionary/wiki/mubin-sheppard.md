@@ -28,7 +28,6 @@ published: false
 - MBRAS. Sheppard Memorial Prize essays 1998. Monograph 30
 - Zuraini Md Ali. Pioneer of building conservation in Malaysia. MB 83(3)
 - Zuraini Md Ali. Mubin Sheppard. MB 95(1) {R}
-
 ## Bibliography
 - (1938) [The Trengganu ‘rodat’](./the-trengganu-rodat.md). *JMBRAS* 16(1): 109–114
 - (1949) [A short history of Trengganu](./a-short-history-of-trengganu.md). *JMBRAS* 22(3): 1–74

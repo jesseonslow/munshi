@@ -21,6 +21,5 @@ published: false
 - Anon. Armenian inscriptions. NQ Reprint 15
 - Mills, J.V. Armenian tombstones at Melaka. MB 14(3)
 - Wright, N. Armenians in Singapore and Malaya. MB 77(2) {R}
-
 ## References
 <!-- Grounded occurrences and citations -->

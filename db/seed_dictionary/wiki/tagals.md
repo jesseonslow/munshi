@@ -23,6 +23,5 @@ published: false
 
 - Andreini, E.V. The Tagals of Sarawak. SB 85
 - Needham, R. Murut/Tagal kinship terminologies. MB 26(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

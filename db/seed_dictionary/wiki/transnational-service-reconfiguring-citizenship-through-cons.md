@@ -8,7 +8,7 @@ canonical_name: '(Trans)national service: reconfiguring citizenship through cons
 type: article
 article_type: article
 authors:
-- T. Kwek
+- Theophilus Kwek
 year: 2019
 journal_code: JMBRAS
 volume: 92

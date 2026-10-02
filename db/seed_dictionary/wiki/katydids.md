@@ -19,6 +19,5 @@ published: false
 ## MBRAS Sources
 
 - Karny, H.H. Katydids (Gryllacridae and Tettigoniidae) in Raffles Museum. MB 1(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

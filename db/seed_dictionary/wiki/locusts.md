@@ -20,6 +20,5 @@ published: false
 
 - Griffini, A. A new Gryllacrid. SB 63
 - Shelford, R. Notes from the Sarawak Museum. SB 35
-
 ## References
 <!-- Grounded occurrences and citations -->

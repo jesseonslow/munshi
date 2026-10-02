@@ -19,6 +19,5 @@ published: false
 ## MBRAS Sources
 
 - Topley, M. Chinese women’s vegetarian houses in Singapore. MB 27(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

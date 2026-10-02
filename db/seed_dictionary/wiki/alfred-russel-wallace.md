@@ -20,11 +20,10 @@ published: false
 
 ## MBRAS Sources
 
-- Laverty, M. Three men and a bird. MB 86(2)
+- Laverty, M. Three men and a bird. MB 86(1)
 - Rookmaaker, K. Wallace’s forgotten assistant Charles Allen. MB 85(2)
-- Van Wyhe, J. Wallace’s Malay assistant. MB 87(2)
+- Van Wyhe, J. Wallace’s Malay assistant. MB 88(1)
 - Van Wyhe, J. Wallace’s assorted helpers in the Malay archipelago. MB 91(1)
 - Wallace, A.R. The annotated Malay archipelago, ed. J. van Wyhe. MB 88(2) {R}
-
 ## References
 <!-- Grounded occurrences and citations -->

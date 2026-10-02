@@ -41,6 +41,5 @@ published: false
 - Winstedt, R.O. Three early _keris_. SB 62
 - Woolley, G.C. _Keris_ measurements. MB 16(2)
 - Woolley, G.C. Origin and development of Malay _keris_. MB 16(2) and 20(2)
-
 ## References
 <!-- Grounded occurrences and citations -->

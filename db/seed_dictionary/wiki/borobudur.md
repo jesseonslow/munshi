@@ -22,6 +22,5 @@ published: false
 
 - Gomez, L. History and significance of Barabudur. MB 57(1) {R}
 - Hose, G.F. Ruins of Boro Budur. SB 6
-
 ## References
 <!-- Grounded occurrences and citations -->

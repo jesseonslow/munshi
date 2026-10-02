@@ -37,7 +37,6 @@ published: false
 - Stockwell, A.J. Early career, 1866–1903. MB 49(1)
 - Stockwell, A.J. In Malaya 1927–9. MB 53(2)
 - Wicks, P.C. Images of Malaya in Clifford’s stories. MB 52(1)
-
 ## Bibliography
 - (1885) [Manuk. NQ 4: 101–102](./manuk-nq-4-101102.md). *JSBRAS* 17
 - (1886) [The crocodile. NQ 4: 123](./the-crocodile-nq-4-123.md). *JSBRAS* 17

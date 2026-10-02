@@ -51,6 +51,5 @@ published: false
 - Ridley, H.N. Fruit of Burbidgea. SB 53
 - Ridley, H.N. Plants collected during J.C. Moulton’s expedition to Batu Lawi. SB 63
 - Stone, B.C. Plants of Pulau Balambangan. MB 53(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

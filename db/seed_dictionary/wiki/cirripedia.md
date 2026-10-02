@@ -19,6 +19,5 @@ published: false
 ## MBRAS Sources
 
 - Annandale, N. Barnacles from deep-sea cables. SB 74
-
 ## References
 <!-- Grounded occurrences and citations -->

@@ -24,8 +24,6 @@ contributors:
   name: M. Topley
 - id: mc-clark
   name: M.C. Clark
-- id: p-wheatley
-  name: P. Wheatley
 - id: r-needham
   name: R. Needham
 - id: rhw-beresford-peirse
@@ -118,13 +116,10 @@ articles:
   pages: 221–223
   is_review: false
 - id: jmbras-27-1-p224
-  slug: raffles-alexander-hare-johanna-van-hare-mb-281-184191-my1955
-  title: 'Raffles, Alexander Hare & Johanna van Hare. MB 28(1): 184–191 My1955 Recent
-    archaeological discoveries in Malaya (1952–1953): the investigations at Johore
-    Lama. (G. de G. Sieveking, P. Wheatley and C.A. Gibson-Hill'
+  slug: raffles-alexander-hare-johanna-van-hare
+  title: 'Raffles, Alexander Hare & Johanna van Hare'
   authors:
   - C.A. Gibson-Hill
-  - P. Wheatley
   pages: 224–233
   is_review: false
 - id: jmbras-27-1-p235
@@ -142,29 +137,28 @@ articles:
 **Date:** May 1954
 
 ## Table of Contents
-* [The war with Yam Tuan Antah](./the-war-with-yam-tuan-antah.md) — [J.M. Gullick](./jm-gullick.md) (pp. 1–23)
+* [The war with Yam Tuan Antah](./the-war-with-yam-tuan-antah.md) — [J.M. Gullick](./john-michael-gullick.md) (pp. 1–23)
 * [Malacca in the eighteenth century: two Dutch governors’ reports; . Harrison](./malacca-in-the-eighteenth-century-two-dutch-governors-report.md) — [W.B. Albinus](./wb-albinus.md), [Harrison B](./harrison-b.md), [T. Schippers](./t-schippers.md) (pp. 24–34)
 * [William Pryer, the founder of Sandakan](./william-pryer-the-founder-of-sandakan.md) — [K.G. Tregonning](./kg-tregonning.md) (pp. 35–50)
 * [Chinese women’s vegetarian houses in Singapore](./chinese-womens-vegetarian-houses-in-singapore.md) — [M. Topley](./m-topley.md) (pp. 51–67)
 * [Kalatong: the Murut treatment of chronic disease](./kalatong-the-murut-treatment-of-chronic-disease.md) — [M.C. Clark](./mc-clark.md) (pp. 68–72)
 * [Raffles and British policy in the Indian Archipelago, 1811–1816](./raffles-and-british-policy-in-the-indian-archipelago-1811181.md) — [J.S. Bastin](./js-bastin.md) (pp. 84–119)
-* [The steamers employed in Asian waters, 1819–39](./the-steamers-employed-in-asian-waters-181939.md) — [C.A. Gibson-Hill](./ca-gibson-hill.md) (pp. 120–162)
-* [Singapore: notes on the history of the old Strait, 1580–1850](./singapore-notes-on-the-history-of-the-old-strait-15801850.md) — [C.A. Gibson-Hill](./ca-gibson-hill.md) (pp. 163–214)
+* [The steamers employed in Asian waters, 1819–39](./the-steamers-employed-in-asian-waters-181939.md) — [C.A. Gibson-Hill](./carl-alexander-gibson-hill.md) (pp. 120–162)
+* [Singapore: notes on the history of the old Strait, 1580–1850](./singapore-notes-on-the-history-of-the-old-strait-15801850.md) — [C.A. Gibson-Hill](./carl-alexander-gibson-hill.md) (pp. 163–214)
 * [Batu Belah & Long Terawan: kinship terms & death names](./batu-belah-long-terawan-kinship-terms-death-names.md) — [R. Needham](./r-needham.md) (pp. 215–217)
-* [A landing on Christmas Island in 1864](./a-landing-on-christmas-island-in-1864.md) — [C.A. Gibson-Hill](./ca-gibson-hill.md) (pp. 217–220)
+* [A landing on Christmas Island in 1864](./a-landing-on-christmas-island-in-1864.md) — [C.A. Gibson-Hill](./carl-alexander-gibson-hill.md) (pp. 217–220)
 * [Settlement of a tribal dispute (North Borneo](./settlement-of-a-tribal-dispute-north-borneo.md) — [R.H.W. Beresford-Peirse](./rhw-beresford-peirse.md) (pp. 221–223)
-* [Raffles, Alexander Hare & Johanna van Hare. MB 28(1): 184–191 My1955 Recent archaeological discoveries in Malaya (1952–1953): the investigations at Johore Lama. (G. de G. Sieveking, P. Wheatley and C.A. Gibson-Hill](./raffles-alexander-hare-johanna-van-hare-mb-281-184191-my1955.md) — [C.A. Gibson-Hill](./ca-gibson-hill.md), [P. Wheatley](./p-wheatley.md) (pp. 224–233)
-* *An anecdotal history of olden times in Singapore. C.B. Buckley* — [C.A. Gibson-Hill](./ca-gibson-hill.md) (pp. 235–243) [Review]
+* [Raffles, Alexander Hare & Johanna van Hare](./raffles-alexander-hare-johanna-van-hare.md) — [C.A. Gibson-Hill](./carl-alexander-gibson-hill.md) (pp. 224–233)
+* *An anecdotal history of olden times in Singapore. C.B. Buckley* — [C.A. Gibson-Hill](./carl-alexander-gibson-hill.md) (pp. 235–243) [Review]
 
 ## Contributors
-* [C.A. Gibson-Hill](./ca-gibson-hill.md)
+* [C.A. Gibson-Hill](./carl-alexander-gibson-hill.md)
 * [Harrison B](./harrison-b.md)
-* [J.M. Gullick](./jm-gullick.md)
+* [J.M. Gullick](./john-michael-gullick.md)
 * [J.S. Bastin](./js-bastin.md)
 * [K.G. Tregonning](./kg-tregonning.md)
 * [M. Topley](./m-topley.md)
 * [M.C. Clark](./mc-clark.md)
-* [P. Wheatley](./p-wheatley.md)
 * [R. Needham](./r-needham.md)
 * [R.H.W. Beresford-Peirse](./rhw-beresford-peirse.md)
 * [T. Schippers](./t-schippers.md)

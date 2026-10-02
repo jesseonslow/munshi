@@ -160,19 +160,19 @@ articles:
 * [Old Singapore](./old-singapore.md) — [F.N. Chasen](./fn-chasen.md) (pp. 1)
 * [Recollections of Cameron’s Highlands and Fraser’s Hill](./recollections-of-camerons-highlands-and-frasers-hill.md) — [J.B. Scrivenor](./jb-scrivenor.md) (pp. 2–14)
 * [An ascent of Gunong Benom from Raub](./an-ascent-of-gunong-benom-from-raub.md) — [E.J. Strugnell](./ej-strugnell.md), [E.S. Willbourn](./es-willbourn.md) (pp. 15–27)
-* [Mahmud II and Abdul Jalil III, 1685–1720 A.D](./mahmud-ii-and-abdul-jalil-iii-16851720-ad.md) — [R.J. Wilkinson](./rj-wilkinson.md) (pp. 28–34)
+* [Mahmud II and Abdul Jalil III, 1685–1720 A.D](./mahmud-ii-and-abdul-jalil-iii-16851720-ad.md) — [R.J. Wilkinson](./richard-james-wilkinson.md) (pp. 28–34)
 * [Hikayat Sultan Bustaman](./hikayat-sultan-bustaman.md) — [H. Overbeck](./h-overbeck.md) (pp. 35–122)
 * [A Trengganu vocabulary](./a-trengganu-vocabulary.md) — [P.A.B. Mackerron](./pab-mackerron.md) (pp. 123–128)
 * [A Milano muas](./a-milano-muas.md) — [E.V. Andreini](./ev-andreini.md) (pp. 129–130)
 * [Notes on tampang](./notes-on-tampang.md) — [W. Linehan](./w-linehan.md) (pp. 131–133)
-* [The Pengkalan Kempas “saint”](./the-pengkalan-kempas-saint.md) — [R.J. Wilkinson](./rj-wilkinson.md) (pp. 134–135)
-* [A Jelebu customary saying](./a-jelebu-customary-saying.md) — [R.O. Winstedt](./ro-winstedt.md) (pp. 136)
-* [Tokin](./tokin.md) — [R.O. Winstedt](./ro-winstedt.md) (pp. 137)
+* [The Pengkalan Kempas “saint”](./the-pengkalan-kempas-saint.md) — [R.J. Wilkinson](./richard-james-wilkinson.md) (pp. 134–135)
+* [A Jelebu customary saying](./a-jelebu-customary-saying.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 136)
+* [Tokin](./tokin.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 137)
 * [Note on the Kelantan rejang](./note-on-the-kelantan-rejang.md) — [A. Rentse](./a-rentse.md) (pp. 139–140)
 * [Two folktales of Kelantan](./two-folktales-of-kelantan.md) — [A. Rentse](./a-rentse.md) (pp. 141–142)
 * [Kelantan names for bullocks according to their colour](./kelantan-names-for-bullocks-according-to-their-colour.md) — [A. Rentse](./a-rentse.md) (pp. 143–145)
 * [Malay charms, Kelantan](./malay-charms-kelantan.md) — [A. Rentse](./a-rentse.md) (pp. 146–157)
-* *Matriarchy in the Malay Peninsula. G.A. de Chazal de Moubray* — [R.O. Winstedt](./ro-winstedt.md) (pp. 158–159) [Review]
+* *Matriarchy in the Malay Peninsula. G.A. de Chazal de Moubray* — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 158–159) [Review]
 
 ## Contributors
 * [A. Rentse](./a-rentse.md)
@@ -183,8 +183,8 @@ articles:
 * [H. Overbeck](./h-overbeck.md)
 * [J.B. Scrivenor](./jb-scrivenor.md)
 * [P.A.B. Mackerron](./pab-mackerron.md)
-* [R.J. Wilkinson](./rj-wilkinson.md)
-* [R.O. Winstedt](./ro-winstedt.md)
+* [R.J. Wilkinson](./richard-james-wilkinson.md)
+* [R.O. Winstedt](./richard-olaf-winstedt.md)
 * [W. Linehan](./w-linehan.md)
 
 ## References

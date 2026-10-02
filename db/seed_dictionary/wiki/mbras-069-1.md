@@ -112,7 +112,7 @@ articles:
 * [Mediaeval Tamil involvement in Northern Sumatra, C11–C14 (The gold and resin trade](./mediaeval-tamil-involvement-in-northern-sumatra-c11c14-the-g.md) — [E.E. McKinnon](./ee-mckinnon.md) (pp. 85–99)
 * [“A fine sphere for female usefulness”: missionary women in the Straits Settlements 1815–45](./a-fine-sphere-for-female-usefulness-missionary-women-in-the-.md) — [C. Doran](./c-doran.md) (pp. 100–111)
 * [A short biographical record of Chan Wing, an early pioneer of Malaya](./a-short-biographical-record-of-chan-wing-an-early-pioneer-of.md) — [Chan King Nui](./chan-king-nui.md) (pp. 112–117)
-* *The sultanate of Aceh: relations with the British 1760–1824. Lee Kam Hing* — [J.M. Gullick](./jm-gullick.md) (pp. 118–119) [Review]
+* *The sultanate of Aceh: relations with the British 1760–1824. Lee Kam Hing* — [J.M. Gullick](./john-michael-gullick.md) (pp. 118–119) [Review]
 * *Swettenham. H.S. Barlow* — [W. Cheah](./w-cheah.md) (pp. 120–122) [Review]
 * *Iban Bejalai. P.M. Kedit* — [Jayum Anak Jawan](./jayum-anak-jawan.md) (pp. 122–128) [Review]
 
@@ -122,7 +122,7 @@ articles:
 * [D.J.M. Tate](./djm-tate.md)
 * [E.E. McKinnon](./ee-mckinnon.md)
 * [J.F. Warren](./jf-warren.md)
-* [J.M. Gullick](./jm-gullick.md)
+* [J.M. Gullick](./john-michael-gullick.md)
 * [Jayum Anak Jawan](./jayum-anak-jawan.md)
 * [L. Metzger](./l-metzger.md)
 * [W. Cheah](./w-cheah.md)

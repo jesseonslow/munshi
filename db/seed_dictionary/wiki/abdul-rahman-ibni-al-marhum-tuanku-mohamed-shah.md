@@ -23,10 +23,10 @@ published: false
 <!-- Synthesis engine: Insert coronation details here -->
 
 ## MBRAS Sources
-<!-- Seed entries or targeted retrieval for Abdul Rahman ibni al-Marhum Tuanku Mohamed Shah -->
+
 ### Coronation
 
-- Bryson, H.P. Funeral (T. Mohamed) and Proclamation (T. Abdul Rahman). MB 14(3) Sheehan, J.J. Installation. MB 14(3) 
-
+- Bryson, H.P. Funeral (T. Mohamed) and Proclamation (T. Abdul Rahman). MB 14(3)
+- Sheehan, J.J. Installation  of Tengku Kursiah as Tengku Ampuan Negri Sembilan. MB 14(3)
 ## References
 <!-- Grounded occurrences and citations -->

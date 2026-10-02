@@ -64,7 +64,7 @@ For Orang Asli folklore, see [Orang Asli](./orang-asli).
 <!-- Synthesis engine: Insert malay commentaries details here -->
 
 ## MBRAS Sources
-<!-- Seed entries or targeted retrieval for Folklore -->
+
 ### Borneo
 
 - Hose, G.F. Contents of a Dyak medicine chest. SB 39
@@ -94,10 +94,8 @@ For Orang Asli folklore, see [Orang Asli](./orang-asli).
 - Winstedt, R.O. Panji tales. MB 19(2)
 
 ### Orang Asli
-<!-- Seed entries or targeted retrieval for Folklore: Orang Asli -->
 
 ### Malay
-<!-- Seed entries or targeted retrieval for Folklore: Malay -->
 
 #### Animals
 
@@ -176,6 +174,5 @@ For Orang Asli folklore, see [Orang Asli](./orang-asli).
 - Winstedt, R.O. History of the peninsula in folk-tales. SB 57
 - Winstedt, R.O. Indian origin of Malay folk-tales. SB 82
 - Winstedt, R.O. Malay works known to Werndly in 1736. SB 82
-
 ## References
 <!-- Grounded occurrences and citations -->

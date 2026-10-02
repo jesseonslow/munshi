@@ -157,23 +157,23 @@ articles:
 **Date:** January 1932
 
 ## Table of Contents
-* [The prehistory of Malaya](./the-prehistory-of-malaya.md) — [R.O. Winstedt](./ro-winstedt.md) (pp. 1–5)
-* [Muslim tombstones in Raffles Museum](./muslim-tombstones-in-raffles-museum.md) — [R.O. Winstedt](./ro-winstedt.md) (pp. 6–8)
-* [Mother-right among Khasis and Malays](./mother-right-among-khasis-and-malays.md) — [R.O. Winstedt](./ro-winstedt.md) (pp. 9–13)
+* [The prehistory of Malaya](./the-prehistory-of-malaya.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 1–5)
+* [Muslim tombstones in Raffles Museum](./muslim-tombstones-in-raffles-museum.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 6–8)
+* [Mother-right among Khasis and Malays](./mother-right-among-khasis-and-malays.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 9–13)
 * [Three of Eredia’s illustrations](./three-of-eredias-illustrations.md) — [J.V. Mills](./jv-mills.md) (pp. 14–15)
 * [Notes on some Malayan place-names](./notes-on-some-malayan-place-names.md) — [J.V. Mills](./jv-mills.md) (pp. 16–20)
 * [A letter from Dr. J. Brandes on the Kerimun inscription](./a-letter-from-dr-j-brandes-on-the-kerimun-inscription.md) — [J. Brandes](./j-brandes.md) (pp. 21–22)
 * [Murut basketwork](./murut-basketwork.md) — [G.C. Woolley](./gc-woolley.md) (pp. 23–29)
-* [The Temenggongs of Muar](./the-temenggongs-of-muar.md) — [R.O. Winstedt](./ro-winstedt.md) (pp. 30–31)
-* [The early rulers of Perak, Pahang and Acheh](./the-early-rulers-of-perak-pahang-and-acheh.md) — [R.O. Winstedt](./ro-winstedt.md) (pp. 32–44)
-* [The early Sultans of Pahang](./the-early-sultans-of-pahang.md) — [R.J. Wilkinson](./rj-wilkinson.md) (pp. 45–54)
-* [The Bendaharas and the Temenggongs](./the-bendaharas-and-the-temenggongs.md) — [R.O. Winstedt](./ro-winstedt.md) (pp. 53–66)
-* [Some Malay studies](./some-malay-studies.md) — [R.J. Wilkinson](./rj-wilkinson.md) (pp. 67–137)
+* [The Temenggongs of Muar](./the-temenggongs-of-muar.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 30–31)
+* [The early rulers of Perak, Pahang and Acheh](./the-early-rulers-of-perak-pahang-and-acheh.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 32–44)
+* [The early Sultans of Pahang](./the-early-sultans-of-pahang.md) — [R.J. Wilkinson](./richard-james-wilkinson.md) (pp. 45–54)
+* [The Bendaharas and the Temenggongs](./the-bendaharas-and-the-temenggongs.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 53–66)
+* [Some Malay studies](./some-malay-studies.md) — [R.J. Wilkinson](./richard-james-wilkinson.md) (pp. 67–137)
 * [The Malay game of apit](./the-malay-game-of-apit.md) — [Samusah](./samusah.md) (pp. 138–140)
 * [Shaer Dandan Setia](./shaer-dandan-setia.md) — [H. Overbeck](./h-overbeck.md) (pp. 141–158)
 * [Neoliths from Johore](./neoliths-from-johore.md) — [Abdul Aziz](./abdul-aziz.md) (pp. 159)
-* *Oudheidkundig verslag* — [R.O. Winstedt](./ro-winstedt.md) (pp. 160–161) [Review]
-* [A history of Johore (1673–ca.1800 A.D.) {Introd. in English: text in Jawi](./a-history-of-johore-1673ca1800-ad-introd-in-english-text-in-.md) — [R.O. Winstedt](./ro-winstedt.md) (pp. 164–170, 1–31)
+* *Oudheidkundig verslag* — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 160–161) [Review]
+* [A history of Johore (1673–ca.1800 A.D.) {Introd. in English: text in Jawi](./a-history-of-johore-1673ca1800-ad-introd-in-english-text-in-.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 164–170, 1–31)
 
 ## Contributors
 * [Abdul Aziz](./abdul-aziz.md)
@@ -181,8 +181,8 @@ articles:
 * [H. Overbeck](./h-overbeck.md)
 * [J. Brandes](./j-brandes.md)
 * [J.V. Mills](./jv-mills.md)
-* [R.J. Wilkinson](./rj-wilkinson.md)
-* [R.O. Winstedt](./ro-winstedt.md)
+* [R.J. Wilkinson](./richard-james-wilkinson.md)
+* [R.O. Winstedt](./richard-olaf-winstedt.md)
 * [Samusah](./samusah.md)
 
 ## References

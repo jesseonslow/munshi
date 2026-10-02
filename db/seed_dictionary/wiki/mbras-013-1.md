@@ -31,10 +31,10 @@ articles:
 **Date:** March 1935
 
 ## Table of Contents
-* [A history of Malaya](./a-history-of-malaya.md) — [R.O. Winstedt](./ro-winstedt.md) (pp. 1–270)
+* [A history of Malaya](./a-history-of-malaya.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 1–270)
 
 ## Contributors
-* [R.O. Winstedt](./ro-winstedt.md)
+* [R.O. Winstedt](./richard-olaf-winstedt.md)
 
 ## References
 <!-- Grounded occurrences and citations -->

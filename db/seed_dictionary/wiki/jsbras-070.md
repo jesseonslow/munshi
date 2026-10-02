@@ -41,12 +41,12 @@ articles:
 **Date:** April 1917
 
 ## Table of Contents
-* [Hikayat Sri Rama: introduction to the text of the Ms. in the Bodleian Library at Oxford](./hikayat-sri-rama-introduction-to-the-text-of-the-ms-in-the-b.md) — [W.G. Shellabear](./wg-shellabear.md) (pp. 81–207)
+* [Hikayat Sri Rama: introduction to the text of the Ms. in the Bodleian Library at Oxford](./hikayat-sri-rama-introduction-to-the-text-of-the-ms-in-the-b.md) — [W.G. Shellabear](./william-girdlestone-shellabear.md) (pp. 81–207)
 * [Index](./index.md) — [Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md) (pp. 209–212)
 
 ## Contributors
 * [Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)
-* [W.G. Shellabear](./wg-shellabear.md)
+* [W.G. Shellabear](./william-girdlestone-shellabear.md)
 
 ## References
 <!-- Grounded occurrences and citations -->

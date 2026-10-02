@@ -32,10 +32,10 @@ articles:
 **Date:** June 1960
 
 ## Table of Contents
-* [Hikayat Raja-Raja Pasai, a revised romanised version of Raffles MS 67, together with an English translation](./hikayat-raja-raja-pasai-a-revised-romanised-version-of-raffl.md) — [A.H. Hill](./ah-hill.md) (pp. 1–215)
+* [Hikayat Raja-Raja Pasai, a revised romanised version of Raffles MS 67, together with an English translation](./hikayat-raja-raja-pasai-a-revised-romanised-version-of-raffl.md) — [A.H. Hill](./anthony-haydock-hill.md) (pp. 1–215)
 
 ## Contributors
-* [A.H. Hill](./ah-hill.md)
+* [A.H. Hill](./anthony-haydock-hill.md)
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -20,6 +20,5 @@ published: false
 
 - Bastin, J.S. James Motley and natural history of Labuan. MB 60(2)
 - Burkill, I.H. Murder in 1859 of James Motley. SB 79
-
 ## References
 <!-- Grounded occurrences and citations -->

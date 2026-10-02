@@ -22,6 +22,7 @@ published: false
 <!-- Synthesis engine: Insert introductory synthesis for Chinese in Singapore here -->
 
 ## MBRAS Sources
+
 - Bhar, S. Sandakan 1879–1979. MB 53(1)
 - Buiskool, D. The Chinese commercial elite of Medan and Penang. MB 82(2)
 - Ch’ng Kim See. Literature on Chinese Peranakans. MB 82(2)
@@ -68,6 +69,5 @@ published: false
 - Turnbull, C.M. Communal disturbances in 1857. MB 31(1)
 - Wang Fo-Wen. Poems, essays and calligraphy. MB 92(2) {R}
 - Wang Gungwu. Memoirs up to early adulthood. 92(2) {R}
-
 ## References
 <!-- Grounded occurrences and citations -->

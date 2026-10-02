@@ -88,21 +88,21 @@ articles:
 
 ## Table of Contents
 * [Journal (from 29th April to 25th May, 1872) when on a trip from Sarawak to Meri, on the north-west coast of Borneo in the Brunei territory](./journal-from-29th-april-to-25th-may-1872-when-on-a-trip-from.md) — [N. Denison](./n-denison.md) (pp. 173–188)
-* [The Mentra traditions](./the-mentra-traditions.md) — [D.F.A. Hervey](./dfa-hervey.md) (pp. 189–194)
+* [The Mentra traditions](./the-mentra-traditions.md) — [D.F.A. Hervey](./dudley-francis-amelius-hervey.md) (pp. 189–194)
 * [Sea Dyak religion](./sea-dyak-religion.md) — [J. Perham](./j-perham.md) (pp. 213–243)
-* [Outline history of the British connection with Malaya](./outline-history-of-the-british-connection-with-malaya.md) — [A.M. Skinner](./am-skinner.md) (pp. 269–280)
-* [Malay transliteration](./malay-transliteration.md) — [W.E. Maxwell](./we-maxwell.md) (pp. 282–284)
-* [Memorandum on Malay transliteration](./memorandum-on-malay-transliteration.md) — [Anon (and unidentifiable initials)](./anon-and-unidentifiable-initials.md), [Haughton H.T](./haughton-ht.md) (pp. 285–286)
-* [The chiri](./the-chiri.md) — [W.E. Maxwell](./we-maxwell.md) (pp. 287–289)
+* [Outline history of the British connection with Malaya](./outline-history-of-the-british-connection-with-malaya.md) — [A.M. Skinner](./allan-maclean-skinner.md) (pp. 269–280)
+* [Malay transliteration](./malay-transliteration.md) — [W.E. Maxwell](./sir-william-edward-maxwell.md) (pp. 282–284)
+* [Memorandum on Malay transliteration](./memorandum-on-malay-transliteration.md) — [Anon](./anon-and-unidentifiable-initials.md), [Haughton H.T](./haughton-ht.md) (pp. 285–286)
+* [The chiri](./the-chiri.md) — [W.E. Maxwell](./sir-william-edward-maxwell.md) (pp. 287–289)
 
 ## Contributors
-* [A.M. Skinner](./am-skinner.md)
-* [Anon (and unidentifiable initials)](./anon-and-unidentifiable-initials.md)
-* [D.F.A. Hervey](./dfa-hervey.md)
+* [A.M. Skinner](./allan-maclean-skinner.md)
+* [Anon](./anon-and-unidentifiable-initials.md)
+* [D.F.A. Hervey](./dudley-francis-amelius-hervey.md)
 * [Haughton H.T](./haughton-ht.md)
 * [J. Perham](./j-perham.md)
 * [N. Denison](./n-denison.md)
-* [W.E. Maxwell](./we-maxwell.md)
+* [W.E. Maxwell](./sir-william-edward-maxwell.md)
 
 ## References
 <!-- Grounded occurrences and citations -->

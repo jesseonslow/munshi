@@ -20,6 +20,5 @@ published: false
 ## MBRAS Sources
 
 - Post, P. The strategic alliances of Oei Tiong Ham, 1895–1905. MB 92(2)
-
 ## References
 <!-- Grounded occurrences and citations -->

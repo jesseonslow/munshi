@@ -51,11 +51,11 @@ articles:
 ## Table of Contents
 * [A journey over the main range from Perak to Pahang](./a-journey-over-the-main-range-from-perak-to-pahang.md) — [J.E. Nathan](./je-nathan.md) (pp. 1–5)
 * [New notes on the game of “chongkak”](./new-notes-on-the-game-of-chongkak.md) — [H. Overbeck](./h-overbeck.md) (pp. 7–10)
-* [New or rare Malayan plants](./new-or-rare-malayan-plants.md) — [H.N. Ridley](./hn-ridley.md) (pp. 11–14)
+* [New or rare Malayan plants](./new-or-rare-malayan-plants.md) — [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 11–14)
 
 ## Contributors
 * [H. Overbeck](./h-overbeck.md)
-* [H.N. Ridley](./hn-ridley.md)
+* [H.N. Ridley](./henry-nicholas-ridley.md)
 * [J.E. Nathan](./je-nathan.md)
 
 ## References

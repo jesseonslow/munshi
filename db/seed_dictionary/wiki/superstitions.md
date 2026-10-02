@@ -47,6 +47,5 @@ published: false
 - Haughton, H.T. The berik-berik or baberik of Malacca. NQ Reprint 15
 - Hervey, D.F.A. Signs and omens. NQ Reprint 15
 - Ishak bin Ahmad. Malay fishermen’s superstitions. MB 19(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

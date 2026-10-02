@@ -14,8 +14,8 @@ contributors:
   name: A.H. Akhtar
 - id: ahmad-husni
   name: Ahmad Husni
-- id: f-williamson
-  name: F. Williamson
+- id: fiona-williamson
+  name: Fiona Williamson
 - id: faris-joraimi
   name: Faris Joraimi
 - id: j-dennerline
@@ -40,10 +40,12 @@ contributors:
   name: Pang Eng Fong
 - id: t-hubback
   name: T. Hubback
-- id: t-kwek
-  name: T. Kwek
+- id: theophilus-kwek
+  name: Theophilus Kwek
 - id: tham-junean
   name: Tham Junean
+- id: mohd-bin-samsudin
+  name: Mohd bin Samsudin
 parent_hub: journal-of-the-malaysian-branch-of-the-royal-asiatic-society
 status: stub
 published: false
@@ -66,7 +68,7 @@ articles:
   slug: heat-and-colonial-weather-science-in-the-straits-settlements
   title: Heat and Colonial Weather Science in the Straits Settlements, c. 1820–1900
   authors:
-  - F. Williamson
+  - Fiona Williamson
   pages: 39–55
   is_review: false
 - id: jmbras-95-2-p57
@@ -81,7 +83,7 @@ articles:
   title: '‘An Hour Before Dawn’: Social and Political Awareness among English-Educated
     Students in Post-War Singapore'
   authors:
-  - T. Kwek
+  - Theophilus Kwek
   pages: 83–107
   is_review: false
 - id: jmbras-95-2-p109
@@ -157,10 +159,10 @@ articles:
 
 ## Table of Contents
 * [Malay Perspectives on Ming China during the Age of Exploration](./malay-perspectives-on-ming-china-during-the-age-of-explorati.md) — [A.H. Akhtar](./ah-akhtar.md) (pp. 1–21)
-* [The Royal Navy and Disease in the Straits of Malacca, 1794–1815](./the-royal-navy-and-disease-in-the-straits-of-malacca-1794181.md) — [Tham Junean](./tham-junean.md) (pp. 22–38)
-* [Heat and Colonial Weather Science in the Straits Settlements, c. 1820–1900](./heat-and-colonial-weather-science-in-the-straits-settlements.md) — [F. Williamson](./f-williamson.md) (pp. 39–55)
+* [The Royal Navy and Disease in the Straits of Malacca, 1794–1815](./the-royal-navy-and-disease-in-the-straits-of-malacca-1794181.md) — [Tham Junean](./tham-junean.md) & [Mohd Bin Samsudin](./mohd-bin-samsudin.md) (pp. 22–38)
+* [Heat and Colonial Weather Science in the Straits Settlements, c. 1820–1900](./heat-and-colonial-weather-science-in-the-straits-settlements.md) — [Fiona Williamson](./fiona-williamson.md) (pp. 39–55)
 * [Protecting the Forest and Its Fauna against Local Residents in British Malaya](./protecting-the-forest-and-its-fauna-against-local-residents-.md) — [M. Guérin](./m-guérin.md) (pp. 57–82)
-* [‘An Hour Before Dawn’: Social and Political Awareness among English-Educated Students in Post-War Singapore](./an-hour-before-dawn-social-and-political-awareness-among-eng.md) — [T. Kwek](./t-kwek.md) (pp. 83–107)
+* [‘An Hour Before Dawn’: Social and Political Awareness among English-Educated Students in Post-War Singapore](./an-hour-before-dawn-social-and-political-awareness-among-eng.md) — [Theophilus Kwek](./theophilus-kwek.md) (pp. 83–107)
 * [Federal Education Policy and the Role of Muhammad Yusof bin Ahmad, 1951–1955](./federal-education-policy-and-the-role-of-muhammad-yusof-bin-.md) — [Ahmad Husni](./ahmad-husni.md), [Mahani Musa](./mahani-musa.md) (pp. 109–132)
 * [Salt Licks: Their Vital Importance to the Conservation of Wildlife in Malaya. Facsimile reprint](./salt-licks-their-vital-importance-to-the-conservation-of-wil.md) — [T. Hubback](./t-hubback.md) (pp. 133–140)
 * *The Singapore Mall Generation: History, Imagination, Community* — [L. Lim](./l-lim.md), [Pang Eng Fong](./pang-eng-fong.md) (pp. 141–142) [Review]
@@ -173,7 +175,7 @@ articles:
 ## Contributors
 * [A.H. Akhtar](./ah-akhtar.md)
 * [Ahmad Husni](./ahmad-husni.md)
-* [F. Williamson](./f-williamson.md)
+* [Fiona Williamson](./fiona-williamson.md)
 * [Faris Joraimi](./faris-joraimi.md)
 * [J. Dennerline](./j-dennerline.md)
 * [Kwa Chong Guan](./kwa-chong-guan.md)
@@ -183,10 +185,11 @@ articles:
 * [Lee Kam Hing](./lee-kam-hing.md)
 * [M. Guérin](./m-guérin.md)
 * [Mahani Musa](./mahani-musa.md)
+* [Mohd Bin Samsudin](./mohd-bin-samsudin.md)
 * [P. Ardiyansyah](./p-ardiyansyah.md)
 * [Pang Eng Fong](./pang-eng-fong.md)
 * [T. Hubback](./t-hubback.md)
-* [T. Kwek](./t-kwek.md)
+* [Theophilus Kwek](./theophilus-kwek.md)
 * [Tham Junean](./tham-junean.md)
 
 ## References

@@ -40,6 +40,5 @@ published: false
 - Luering, H.L.E. Vocabulary of Dusun language from Kimanis. SB 30
 - Skinner, A.M. Dusun legend of the name of Mt Kina Balu. MB 6(4)
 - Williams, T.R. A Tambunan Dusun origin myth. MB 33(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

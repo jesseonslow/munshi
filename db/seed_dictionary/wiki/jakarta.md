@@ -22,6 +22,5 @@ published: false
 
 - Cobham, J.J. Geographic notes on the first two centuries of Djakarta. MB 44(2)
 - Hoynck van Papendrecht, R.B. Letters 1778–1788. MB 2(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

@@ -68,17 +68,17 @@ articles:
 **Date:** August 1895
 
 ## Table of Contents
-* [Memoir of Captain Francis Light, who founded Penang](./memoir-of-captain-francis-light-who-founded-penang.md) — [A.M. Skinner](./am-skinner.md) (pp. 1–17)
+* [Memoir of Captain Francis Light, who founded Penang](./memoir-of-captain-francis-light-who-founded-penang.md) — [A.M. Skinner](./allan-maclean-skinner.md) (pp. 1–17)
 * [The Straits Settlements and the Malay Peninsula: address by Mr. J.A. Kruyt, delivered before the Indian Society](./the-straits-settlements-and-the-malay-peninsula-address-by-m.md) — [J.A. Kruyt](./ja-kruyt.md) (pp. 19–51)
 * [Aturan Sungei Ujong](./aturan-sungei-ujong.md) — [R.N. Bland](./rn-bland.md) (pp. 53–66)
 * [On a new species of “Philentoma”](./on-a-new-species-of-philentoma.md) — [E. Bartlett](./e-bartlett.md) (pp. 96–97)
-* [The Indonesian numerals](./the-indonesian-numerals.md) — [R.J. Wilkinson](./rj-wilkinson.md) (pp. 99–103)
+* [The Indonesian numerals](./the-indonesian-numerals.md) — [R.J. Wilkinson](./richard-james-wilkinson.md) (pp. 99–103)
 
 ## Contributors
-* [A.M. Skinner](./am-skinner.md)
+* [A.M. Skinner](./allan-maclean-skinner.md)
 * [E. Bartlett](./e-bartlett.md)
 * [J.A. Kruyt](./ja-kruyt.md)
-* [R.J. Wilkinson](./rj-wilkinson.md)
+* [R.J. Wilkinson](./richard-james-wilkinson.md)
 * [R.N. Bland](./rn-bland.md)
 
 ## References

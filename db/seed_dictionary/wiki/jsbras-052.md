@@ -58,13 +58,13 @@ articles:
 
 ## Table of Contents
 * [A history of Santubong, an island off the coast of Sarawak](./a-history-of-santubong-an-island-off-the-coast-of-sarawak.md) — [H.H. Everett](./hh-everett.md) (pp. 1–30)
-* [Some early accounts of the Malay tapir](./some-early-accounts-of-the-malay-tapir.md) — [W.G. Maxwell](./wg-maxwell.md) (pp. 97–104)
-* [Groeneveldt’s notes on the Malay archipelago and Malacca. W.G. Maxwell](./groeneveldts-notes-on-the-malay-archipelago-and-malacca-wg-m.md) — [W.P. Groeneveldt](./wp-groeneveldt.md), [W.G. Maxwell](./wg-maxwell.md) (pp. 105–110)
+* [Some early accounts of the Malay tapir](./some-early-accounts-of-the-malay-tapir.md) — [W.G. Maxwell](./sir-william-george-maxwell.md) (pp. 97–104)
+* [Groeneveldt’s notes on the Malay archipelago and Malacca. W.G. Maxwell](./groeneveldts-notes-on-the-malay-archipelago-and-malacca-wg-m.md) — [W.P. Groeneveldt](./wp-groeneveldt.md), [W.G. Maxwell](./sir-william-george-maxwell.md) (pp. 105–110)
 * [Tabu customs of the warpath amongst the Sea Dayaks of Sarawak](./tabu-customs-of-the-warpath-amongst-the-sea-dayaks-of-sarawa.md) — Anonymous (pp. 117–119)
 
 ## Contributors
 * [H.H. Everett](./hh-everett.md)
-* [W.G. Maxwell](./wg-maxwell.md)
+* [W.G. Maxwell](./sir-william-george-maxwell.md)
 * [W.P. Groeneveldt](./wp-groeneveldt.md)
 
 ## References

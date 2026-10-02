@@ -31,6 +31,5 @@ published: false
 - Ridley, H.N. Aroids of Borneo. SB 44
 - Ridley, H.N. Gesneraceae of the Malay Peninsula. SB 44
 - Ridley, H.N. Hoseanthus Merrill, n.gen. SB 79
-
 ## References
 <!-- Grounded occurrences and citations -->

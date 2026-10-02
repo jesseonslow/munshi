@@ -21,6 +21,5 @@ published: false
 ## MBRAS Sources
 
 - Sheppard, M. Obituary. MB 51(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

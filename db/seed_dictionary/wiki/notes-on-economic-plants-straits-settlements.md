@@ -6,12 +6,14 @@ canonical_name: Notes on economic plants, Straits Settlements
 type: article
 article_type: article
 authors:
+- Nathaniel Cantley
+editors:
 - W.E. Maxwell
 year: 1886
 journal_code: JSBRAS
 volume: 18
 issue: null
-pages: 293–294
+pages: 295-334
 has_bibliography: false
 has_footnotes: false
 PublishedByMBRAS: true

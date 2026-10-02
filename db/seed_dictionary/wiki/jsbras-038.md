@@ -81,17 +81,17 @@ articles:
 * [A Malayan element in some of the languages of southern Indo-China](./a-malayan-element-in-some-of-the-languages-of-southern-indo-.md) — [C.O. Blagden](./co-blagden.md) (pp. 1–17)
 * [A vocabulary of the Jakuns of Batu Pahat, Johore, together with some remarks on their customs and peculiarities](./a-vocabulary-of-the-jakuns-of-batu-pahat-johore-together-wit.md) — [A.D. Machado](./ad-machado.md) (pp. 29–33)
 * [On the parthogenetic breeding of Eurycnema herculanea, Charpentier](./on-the-parthogenetic-breeding-of-eurycnema-herculanea-charpe.md) — [Hanitsch R](./hanitsch-r.md) (pp. 35–38)
-* [Malay plant names](./malay-plant-names.md) — [C. Curtis](./c-curtis.md), [H.N. Ridley](./hn-ridley.md) (pp. 39–122)
-* [Silk and cotton dyeing by the Malays](./silk-and-cotton-dyeing-by-the-malays.md) — [W.W. Skeat](./ww-skeat.md) (pp. 123–127)
-* [Malay tiger-beetles](./malay-tiger-beetles.md) — [H.N. Ridley](./hn-ridley.md) (pp. 129–131)
+* [Malay plant names](./malay-plant-names.md) — [C. Curtis](./c-curtis.md), [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 39–122)
+* [Silk and cotton dyeing by the Malays](./silk-and-cotton-dyeing-by-the-malays.md) — [W.W. Skeat](./walter-william-skeat.md) (pp. 123–127)
+* [Malay tiger-beetles](./malay-tiger-beetles.md) — [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 129–131)
 
 ## Contributors
 * [A.D. Machado](./ad-machado.md)
 * [C. Curtis](./c-curtis.md)
 * [C.O. Blagden](./co-blagden.md)
-* [H.N. Ridley](./hn-ridley.md)
+* [H.N. Ridley](./henry-nicholas-ridley.md)
 * [Hanitsch R](./hanitsch-r.md)
-* [W.W. Skeat](./ww-skeat.md)
+* [W.W. Skeat](./walter-william-skeat.md)
 
 ## References
 <!-- Grounded occurrences and citations -->

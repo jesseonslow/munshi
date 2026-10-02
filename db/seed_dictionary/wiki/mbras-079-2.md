@@ -100,7 +100,7 @@ articles:
 * [Petaling Jaya: The early development and growth of Malaysia’s first New Town](./petaling-jaya-the-early-development-and-growth-of-malaysias-.md) — [Lee Boon Thong](./lee-boon-thong.md) (pp. 1–22)
 * [Transmission of Islamic knowledge in Kelantan](./transmission-of-islamic-knowledge-in-kelantan.md) — [Muhamad Ali](./muhamad-ali.md) (pp. 39–58)
 * [Economic change and the emergence of the Straits Chinese in nineteenth-century Penang](./economic-change-and-the-emergence-of-the-straits-chinese-in-.md) — [N. Khor Jin Keong](./n-khor-jin-keong.md) (pp. 59–83)
-* [On the nature of military government: the case of the BMA in Negri Sembilan](./on-the-nature-of-military-government-the-case-of-the-bma-in-.md) — [J.M. Gullick](./jm-gullick.md) (pp. 85–101)
+* [On the nature of military government: the case of the BMA in Negri Sembilan](./on-the-nature-of-military-government-the-case-of-the-bma-in-.md) — [J.M. Gullick](./john-michael-gullick.md) (pp. 85–101)
 * *Earthenware in Southeast Asia. . Miksic* — [Harrisson B](./harrisson-b.md) (pp. 103–107) [Review]
 * *Beads of Borneo. H. Munan* — [Jayum Anak Jawan](./jayum-anak-jawan.md) (pp. 107–110) [Review]
 * *Peranakan Indians in Singapore and Melaka. Indian Babas and Nonyas—Chitty Melaka. S.S. Dhoraisingam* — [A. Mani](./a-mani.md) (pp. 110–112) [Review]
@@ -110,7 +110,7 @@ articles:
 * [A. Mani](./a-mani.md)
 * [Hack K](./hack-k.md)
 * [Harrisson B](./harrisson-b.md)
-* [J.M. Gullick](./jm-gullick.md)
+* [J.M. Gullick](./john-michael-gullick.md)
 * [Jayum Anak Jawan](./jayum-anak-jawan.md)
 * [Lee Boon Thong](./lee-boon-thong.md)
 * [Muhamad Ali](./muhamad-ali.md)

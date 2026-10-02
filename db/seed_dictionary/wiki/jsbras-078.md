@@ -81,8 +81,8 @@ articles:
 **Date:** June 1918
 
 ## Table of Contents
-* [Jelebu customary songs and sayings; with a preface and notes, R.O. Winstedt](./jelebu-customary-songs-and-sayings-with-a-preface-and-notes-.md) — [A. Caldecott](./a-caldecott.md), [R.O. Winstedt](./ro-winstedt.md) (pp. 3–41)
-* [The tomb of Mansur Shah, Sultan of Malacca, 1459?–1475 A.D](./the-tomb-of-mansur-shah-sultan-of-malacca-14591475-ad.md) — [R.O. Winstedt](./ro-winstedt.md) (pp. 47–48)
+* [Jelebu customary songs and sayings; with a preface and notes, R.O. Winstedt](./jelebu-customary-songs-and-sayings-with-a-preface-and-notes-.md) — [A. Caldecott](./a-caldecott.md), [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 3–41)
+* [The tomb of Mansur Shah, Sultan of Malacca, 1459?–1475 A.D](./the-tomb-of-mansur-shah-sultan-of-malacca-14591475-ad.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 47–48)
 * [Gordonia concentricicatrix, Burkill (kelat samak, samak pulut, kelat merah – Malay](./gordonia-concentricicatrix-burkill-kelat-samak-samak-pulut-k.md) — [G.E.S. Cubitt](./ges-cubitt.md) (pp. 49–50)
 * [English tombs and monuments in Bencoolen](./english-tombs-and-monuments-in-bencoolen.md) — [C.J. Brooks](./cj-brooks.md) (pp. 51–58)
 * [On a serow from Annam](./on-a-serow-from-annam.md) — [Hanitsch R](./hanitsch-r.md) (pp. 59–65)
@@ -95,7 +95,7 @@ articles:
 * [G.E.S. Cubitt](./ges-cubitt.md)
 * [Hanitsch R](./hanitsch-r.md)
 * [N. Patouillard](./n-patouillard.md)
-* [R.O. Winstedt](./ro-winstedt.md)
+* [R.O. Winstedt](./richard-olaf-winstedt.md)
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -22,6 +22,5 @@ published: false
 - Hervey, D.F.A. Batu Kodok (The Frog Rock). SB 11
 - Ridley, H.N. Mosquito larvae in the pitchers of Nepenthes. SB 22
 - Strickland, C. Malayan mosquito – adaptation to habitat. SB 75
-
 ## References
 <!-- Grounded occurrences and citations -->

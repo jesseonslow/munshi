@@ -101,9 +101,9 @@ articles:
 
 ## Table of Contents
 * [Report on a journey from Tuaran to Kiau and ascent of Kinabalu Mountain](./report-on-a-journey-from-tuaran-to-kiau-and-ascent-of-kinaba.md) — [R.M. Little](./rm-little.md) (pp. 1–25)
-* [Pulau Langkawi](./pulau-langkawi.md) — [W.E. Maxwell](./we-maxwell.md) (pp. 27–33)
+* [Pulau Langkawi](./pulau-langkawi.md) — [W.E. Maxwell](./sir-william-edward-maxwell.md) (pp. 27–33)
 * [The Negri Sembilan, their origin and constitution](./the-negri-sembilan-their-origin-and-constitution.md) — [M. Lister](./m-lister.md) (pp. 35–53)
-* [Raja Ambong: a Malay fairy tale. {Text with summary in English](./raja-ambong-a-malay-fairy-tale-text-with-summary-in-english.md) — [W.E. Maxwell](./we-maxwell.md) (pp. 55–71)
+* [Raja Ambong: a Malay fairy tale. {Text with summary in English](./raja-ambong-a-malay-fairy-tale-text-with-summary-in-english.md) — [W.E. Maxwell](./sir-william-edward-maxwell.md) (pp. 55–71)
 * [Report on the padi-borer](./report-on-the-padi-borer.md) — [L. Wray](./l-wray.md) (pp. 73–82)
 * [Summary of the report on the pomeloe moth](./summary-of-the-report-on-the-pomeloe-moth.md) — [L. Wray](./l-wray.md) (pp. 83–86)
 * [Exploring expedition from Selama, Perak, over the mountains to Pong, Patani, in November](./exploring-expedition-from-selama-perak-over-the-mountains-to.md) — [A.T. Dew](./at-dew.md) (pp. 105–120)
@@ -117,7 +117,7 @@ articles:
 * [M. Lister](./m-lister.md)
 * [R. B. Sharpe](./r-b-sharpe.md)
 * [R.M. Little](./rm-little.md)
-* [W.E. Maxwell](./we-maxwell.md)
+* [W.E. Maxwell](./sir-william-edward-maxwell.md)
 
 ## References
 <!-- Grounded occurrences and citations -->

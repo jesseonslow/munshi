@@ -105,7 +105,7 @@ articles:
 ## Table of Contents
 * [From Seri Vijaya to Melaka: Batu Tagak in historical and cultural context](./from-seri-vijaya-to-melaka-batu-tagak-in-historical-and-cult.md) — [J.N. Miksic](./jn-miksic.md) (pp. 1–42)
 * [Main peteri: synopses of three shamanistic performances](./main-peteri-synopses-of-three-shamanistic-performances.md) — [C. Laderman](./c-laderman.md) (pp. 55–71)
-* [Tunku Kudin of Kedah](./tunku-kudin-of-kedah.md) — [J.M. Gullick](./jm-gullick.md) (pp. 73–98)
+* [Tunku Kudin of Kedah](./tunku-kudin-of-kedah.md) — [J.M. Gullick](./john-michael-gullick.md) (pp. 73–98)
 * [Boats of Singapore](./boats-of-singapore.md) — [E.R. Alfred](./er-alfred.md) (pp. 99–114)
 * *Hikayat Sultan Ibrahim ibn Adham. R. Jones* — [H. Chambert-Loir](./h-chambert-loir.md) (pp. 115–116) [Review]
 * *Patterns of kingship and authority in traditional Asia. I. Mabett* — [J. Kathirithamby– Wells](./j-kathirithamby-wells.md) (pp. 117–118) [Review]
@@ -119,7 +119,7 @@ articles:
 * [E.R. Alfred](./er-alfred.md)
 * [H. Chambert-Loir](./h-chambert-loir.md)
 * [J. Kathirithamby– Wells](./j-kathirithamby-wells.md)
-* [J.M. Gullick](./jm-gullick.md)
+* [J.M. Gullick](./john-michael-gullick.md)
 * [J.N. Miksic](./jn-miksic.md)
 * [Lee Poh Ping](./lee-poh-ping.md)
 * [Riaz Hassan](./riaz-hassan.md)

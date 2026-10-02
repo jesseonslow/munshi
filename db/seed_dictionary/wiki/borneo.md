@@ -78,7 +78,7 @@ published: false
 <!-- Synthesis engine: Insert customary law details here -->
 
 ## MBRAS Sources
-<!-- Seed entries or targeted retrieval for Borneo -->
+
 ### Antiquities
 
 - Banks, E. Ancient times in Borneo. MB 20(2)
@@ -118,7 +118,5 @@ published: false
 - Warren, J. Balambangan and Sulu Sultanate. MB 50(1)
 
 ### Customary law
-<!-- Seed entries or targeted retrieval for Borneo: Customary law -->
-
 ## References
 <!-- Grounded occurrences and citations -->

@@ -23,6 +23,5 @@ published: false
 ## MBRAS Sources
 
 - Turnbull, C.M. Conflict between Governor Blundell and Sir Benson Maxwell. MB 30(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

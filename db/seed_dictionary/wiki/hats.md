@@ -21,6 +21,5 @@ published: false
 
 - Gibson-Hill, C.A. Malay hats and dish-covers. MB 24(1)
 - Gibson-Hill, C.A. Chinese labourers’ hats in Malaya. MB 25(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

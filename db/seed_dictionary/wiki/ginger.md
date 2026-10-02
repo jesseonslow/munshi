@@ -21,6 +21,5 @@ published: false
 - Ridley, H.N. Scitamineae of Malaya. SB 32
 - Ridley, H.N. New eastern gingers. SB 34
 - Ridley, H.N. Scitamineae of Borneo. SB 46
-
 ## References
 <!-- Grounded occurrences and citations -->

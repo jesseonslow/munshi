@@ -79,14 +79,14 @@ articles:
 * [On a collection of Malayan maps in the Raffles Library](./on-a-collection-of-malayan-maps-in-the-raffles-library.md) — [J.V. Mills](./jv-mills.md) (pp. 49–63)
 * [An introduction to the study of ancient times in the Malay Peninsula](./an-introduction-to-the-study-of-ancient-times-in-the-malay-p.md) — [R. Braddell](./r-braddell.md) (pp. 64–126)
 * [Suggested origin of the Malay keris and of the superstitions attaching to it](./suggested-origin-of-the-malay-keris-and-of-the-superstitions.md) — [G.C.G. Williams](./gcg-williams.md) (pp. 127–141)
-* [Mr. R. Braddell’s ancient times](./mr-r-braddells-ancient-times.md) — [R.O. Winstedt](./ro-winstedt.md) (pp. 142–144)
+* [Mr. R. Braddell’s ancient times](./mr-r-braddells-ancient-times.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 142–144)
 * [A short vocabulary of the Banggi and Bajau language](./a-short-vocabulary-of-the-banggi-and-bajau-language.md) — [W.F. Schneeberger](./wf-schneeberger.md) (pp. 145–164)
 
 ## Contributors
 * [G.C.G. Williams](./gcg-williams.md)
 * [J.V. Mills](./jv-mills.md)
 * [R. Braddell](./r-braddell.md)
-* [R.O. Winstedt](./ro-winstedt.md)
+* [R.O. Winstedt](./richard-olaf-winstedt.md)
 * [W.F. Schneeberger](./wf-schneeberger.md)
 
 ## References

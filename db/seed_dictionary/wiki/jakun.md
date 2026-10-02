@@ -25,6 +25,5 @@ published: false
 - Blagden, C.O. 1892 memo on aborigines of Jasin district, Malacca. SB 77
 - Machado, A.D. Jakun vocabulary from Batu Pahat, Johor. SB 38
 - Williams-Hunt, P.D.R. Jakun numbering in Pahang. MB 24(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

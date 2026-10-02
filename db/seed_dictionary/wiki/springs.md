@@ -23,6 +23,5 @@ published: false
 
 - Bott, W. The thermal springs of Selangor and Malacca. SB 24
 - Machado, A.D. The hot springs of Ulu Jelai. SB 33
-
 ## References
 <!-- Grounded occurrences and citations -->

@@ -29,6 +29,5 @@ published: false
 - Humphreys, J.L. North and south in Kedah and Trengganu. MB 4(1)
 - Moulton, J.C. Points of the compass in Brunei Malay. SB 83
 - Rentse, A. Points of the compass in Kelantan. MB 11(2)
-
 ## References
 <!-- Grounded occurrences and citations -->

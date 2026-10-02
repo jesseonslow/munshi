@@ -18,8 +18,8 @@ contributors:
   name: B.Z. Keo
 - id: c-clunies-ross
   name: C. Clunies Ross
-- id: d-wong-tze-ken
-  name: D. Wong Tze-ken
+- id: danny-wong-tze-ken
+  name: Danny Wong Tze-ken
 - id: dd-daly
   name: D.D. Daly
 - id: et-gomez
@@ -71,7 +71,7 @@ articles:
   slug: donald-stephens-and-sabahs-response-to-the-singapore-separat
   title: Donald Stephens and Sabah’s Response to the Singapore Separation
   authors:
-  - D. Wong Tze-ken
+  - Danny Wong Tze-ken
   pages: 71–90
   is_review: false
 - id: jmbras-98-1-p91
@@ -167,7 +167,7 @@ articles:
 * [The Melaka Fort Gateway: Setting the Record Straight](./the-melaka-fort-gateway-setting-the-record-straight.md) — [S. Jardin](./s-jardin.md) (pp. 5–22)
 * [Supplying Coal and Eradicating Piracy: The Royal Navy in the Straits of Malacca, 1833–1880](./supplying-coal-and-eradicating-piracy-the-royal-navy-in-the-.md) — [Tham Junean](./tham-junean.md) (pp. 23–44)
 * [Kapitans and Unofficials: Ethnic Intermediaries in the Straits Settlements, 1786–1942](./kapitans-and-unofficials-ethnic-intermediaries-in-the-strait.md) — [B.Z. Keo](./bz-keo.md) (pp. 45–70)
-* [Donald Stephens and Sabah’s Response to the Singapore Separation](./donald-stephens-and-sabahs-response-to-the-singapore-separat.md) — [D. Wong Tze-ken](./d-wong-tze-ken.md) (pp. 71–90)
+* [Donald Stephens and Sabah’s Response to the Singapore Separation](./donald-stephens-and-sabahs-response-to-the-singapore-separat.md) — [Danny Wong Tze-ken](./danny-wong-tze-ken.md) (pp. 71–90)
 * [Keeling Cocos Islands and the Destruction of the German Raider Emden in 1914. Facsimile reprint. With a note P. Kratoska](./keeling-cocos-islands-and-the-destruction-of-the-german-raid.md) — [C. Clunies Ross](./c-clunies-ross.md) (pp. 91–98)
 * [Surveys and Explorations in the Native States of the Malayan Peninsula, 1875–82. Facsimile reprint. With a note P. Kratoska](./surveys-and-explorations-in-the-native-states-of-the-malayan.md) — [D.D. Daly](./dd-daly.md) (pp. 99–126)
 * [Publications by Prof. Dato Abu Talib Ahmad (comp](./publications-by-prof-dato-abu-talib-ahmad-comp.md) — [P.H. Kratoska](./ph-kratoska.md) (pp. 127–132)
@@ -184,7 +184,7 @@ articles:
 * [Ang Cheng Guan](./ang-cheng-guan.md)
 * [B.Z. Keo](./bz-keo.md)
 * [C. Clunies Ross](./c-clunies-ross.md)
-* [D. Wong Tze-ken](./d-wong-tze-ken.md)
+* [Danny Wong Tze-ken](./danny-wong-tze-ken.md)
 * [D.D. Daly](./dd-daly.md)
 * [E.T. Gomez](./et-gomez.md)
 * [Faisal S. Hazis](./faisal-s-hazis.md)

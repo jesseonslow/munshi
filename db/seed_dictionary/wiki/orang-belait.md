@@ -25,6 +25,5 @@ published: false
 ## MBRAS Sources
 
 - Hughes-Hallett. H.R. A berhantu ceremony of the Orang Belait of Brunei. MB 16(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

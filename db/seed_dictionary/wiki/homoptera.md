@@ -20,6 +20,5 @@ published: false
 
 - Funkhouser, W.D. Malayan Membracidae. SB 79, 82 and MB 6(1)
 - Muir, F. Fulgoroidea, Homoptera from Mentawi Island. MB 4(3)
-
 ## References
 <!-- Grounded occurrences and citations -->

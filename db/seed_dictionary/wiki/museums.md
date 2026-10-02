@@ -53,8 +53,5 @@ published: false
 - Tythacott, T. (ed) Objects, Museums, and Restitution. MB 95(2) {R}
 - Wilson, J.-J. Colonial birding in the Thai-Malay Peninsula. MB 94(2)
 - Winstedt, R.O. Muslim tombstones in the Raffles Museum. MB 10(1)
-Wong Tze-Ken, D. The BNB Branch of the RAS (1893–97): its museum. MB 73(1)
-Wong Tze-Ken, D. Three Skulls from Sabah. MB 95(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

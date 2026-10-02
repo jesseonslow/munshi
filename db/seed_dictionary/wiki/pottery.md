@@ -32,6 +32,5 @@ published: false
 - O’Connor, S.J. Metal moulds for making Buddhist clay stupas. MB 48(2)
 - Sieveking, G de G. Stamped wares from Johore Lama. MB 29(1)
 - Sieveking, G de G. Pottery cones from Kodiang, Kedah. MB 29(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

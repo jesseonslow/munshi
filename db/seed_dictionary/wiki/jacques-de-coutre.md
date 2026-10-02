@@ -19,6 +19,5 @@ published: false
 ## MBRAS Sources
 
 - Borschberg, P. De Coutre as historical source on Singapore, Johor River and the straits. MB 81(2)
-
 ## References
 <!-- Grounded occurrences and citations -->

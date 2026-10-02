@@ -19,6 +19,5 @@ published: false
 ## MBRAS Sources
 
 - Tregonning, K.G. William Pryer, founder of Sandakan. MB 27(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

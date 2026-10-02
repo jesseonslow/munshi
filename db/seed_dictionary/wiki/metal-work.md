@@ -31,6 +31,5 @@ published: false
 - Morgan, G.T.M. de M. Brass and white-metal work in Trengganu. MB 24(3)
 - Rodgers, S. SEA jewelry in the collection of the Barbier-Muller Museum Geneva. MB 59(1) {R}
 - Winstedt, R.O. Slab-graves and iron implements. MB 19(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

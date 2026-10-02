@@ -22,6 +22,5 @@ published: false
 ## MBRAS Sources
 
 - O’Brien, R. Coal in Borneo. MB 97(2)
-
 ## References
 <!-- Grounded occurrences and citations -->

@@ -27,6 +27,5 @@ published: false
 - Gullick, J.M. Survey of Kelantan silversmiths in 1951. MB 25(1)
 - Hill, A.H. Kelantan silverwork. MB 24(1)
 - Ho Wing Meng. Straits Chinese silver. MB 58(2) {R}
-
 ## References
 <!-- Grounded occurrences and citations -->

@@ -19,6 +19,5 @@ published: false
 ## MBRAS Sources
 
 - Wang Gungwu (ed). Poems, essays and calligraphy. MB 92(2) {R}
-
 ## References
 <!-- Grounded occurrences and citations -->

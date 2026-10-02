@@ -24,7 +24,6 @@ published: false
 ## MBRAS Sources
 
 - Anon. Obituary. il MB 88(2)
-
 ## Bibliography
 - (1954) [William Pryer, the founder of Sandakan](./william-pryer-the-founder-of-sandakan.md). *JMBRAS* 27(1): 35–50
 - (1956) [The Mat Salleh revolt (1894–1905](./the-mat-salleh-revolt-18941905.md). *JMBRAS* 29(1): 20–36

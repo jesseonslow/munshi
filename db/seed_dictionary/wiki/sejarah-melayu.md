@@ -48,7 +48,6 @@ published: false
 - Winstedt, R.O. Malay Annals. No. 18 of Raffles Collection at RAS. MB 16(3) and 18(2) and
 - Winstedt, R.O. Valentijn’s copy of the Malay Annals. MB 18(2)
 - Winstedt, R.O. Goa and the kings of Singapore. MB 22(1) and 23(1)
-
 ## Bibliography
 - (1925) [An unpublished variant version of the “Malay Annals”](./an-unpublished-variant-version-of-the-malay-annals.md). *JMBRAS* 3(1): 10–52
 - (1938) [The Malay annals; or, Sejarah Melayu. The earliest recension from MS. No. 18 of the Raffles Collection in the Library of the Royal Asiatic Society, London. .O. Winstedt](./the-malay-annals-or-sejarah-melayu-the-earliest-recension-fr.md). *JMBRAS* 16(3): 1–226

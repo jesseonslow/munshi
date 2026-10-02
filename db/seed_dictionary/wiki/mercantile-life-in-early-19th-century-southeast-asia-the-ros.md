@@ -6,7 +6,7 @@ canonical_name: 'Mercantile Life in Early 19th Century Southeast Asia: The Ross 
 type: article
 article_type: article
 authors:
-- F.A. Smith
+- F. Andrew Smith
 year: 2023
 journal_code: JMBRAS
 volume: 96

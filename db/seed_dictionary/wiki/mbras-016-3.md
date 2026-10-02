@@ -36,10 +36,10 @@ articles:
 **Date:** December 1938
 
 ## Table of Contents
-* [The Malay annals; or, Sejarah Melayu. The earliest recension from MS. No. 18 of the Raffles Collection in the Library of the Royal Asiatic Society, London. .O. Winstedt](./the-malay-annals-or-sejarah-melayu-the-earliest-recension-fr.md) — [Sejarah Melayu](./sejarah-melayu.md), [R.O. Winstedt](./ro-winstedt.md) (pp. 1–226)
+* [The Malay annals; or, Sejarah Melayu. The earliest recension from MS. No. 18 of the Raffles Collection in the Library of the Royal Asiatic Society, London. .O. Winstedt](./the-malay-annals-or-sejarah-melayu-the-earliest-recension-fr.md) — [Sejarah Melayu](./sejarah-melayu.md), [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 1–226)
 
 ## Contributors
-* [R.O. Winstedt](./ro-winstedt.md)
+* [R.O. Winstedt](./richard-olaf-winstedt.md)
 * [Sejarah Melayu](./sejarah-melayu.md)
 
 ## References

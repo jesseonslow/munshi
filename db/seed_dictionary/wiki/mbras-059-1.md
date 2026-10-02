@@ -126,7 +126,7 @@ articles:
 * [Raja Brooke’s coal mining concession in Brunei](./raja-brookes-coal-mining-concession-in-brunei.md) — [A.V.M. Horton](./avm-horton.md) (pp. 49–72)
 * [Notes on events in Palembang 1389–1511: the everlasting colony](./notes-on-events-in-palembang-13891511-the-everlasting-colony.md) — [R.W. McRoberts](./rw-mcroberts.md) (pp. 73–83)
 * [Some early Islamic tombstones in Patani](./some-early-islamic-tombstones-in-patani.md) — [W.A. Bougas](./wa-bougas.md) (pp. 85–112)
-* [The elephants of Syed Zin](./the-elephants-of-syed-zin.md) — [J.M. Gullick](./jm-gullick.md) (pp. 113–123)
+* [The elephants of Syed Zin](./the-elephants-of-syed-zin.md) — [J.M. Gullick](./john-michael-gullick.md) (pp. 113–123)
 * *After its own image. The Trengganu experience. Shaharil Talib* — [W.R. Roff](./wr-roff.md) (pp. 125–126) [Review]
 * *Power and gold: jewellery from Indonesia, Malaysia and the Philippines from the collection of the Barbier-Muller Museum Geneva. S. Rodgers* — [R. Waterson](./r-waterson.md) (pp. 127–129) [Review]
 * *Pastel portraits: Singapore’s architectural heritage. M. Gretchen* — [Chen Voon Fee](./chen-voon-fee.md) (pp. 130–133) [Review]
@@ -135,7 +135,7 @@ articles:
 ## Contributors
 * [A.V.M. Horton](./avm-horton.md)
 * [Chen Voon Fee](./chen-voon-fee.md)
-* [J.M. Gullick](./jm-gullick.md)
+* [J.M. Gullick](./john-michael-gullick.md)
 * [J.N. Miksic](./jn-miksic.md)
 * [Khoo Kay Kim](./khoo-kay-kim.md)
 * [Kobkua Suwannathat-Pian](./kobkua-suwannathat-pian.md)

@@ -105,24 +105,24 @@ articles:
 **Date:** July 1898
 
 ## Table of Contents
-* [Some records of Malay magic by an eye-witness](./some-records-of-malay-magic-by-an-eye-witness.md) — [W.W. Skeat](./ww-skeat.md) (pp. 1–41)
+* [Some records of Malay magic by an eye-witness](./some-records-of-malay-magic-by-an-eye-witness.md) — [W.W. Skeat](./walter-william-skeat.md) (pp. 1–41)
 * [Folk-lore and the Menangkabau code in the Negri Sembilan](./folk-lore-and-the-menangkabau-code-in-the-negri-sembilan.md) — [Hale A](./hale-a.md) (pp. 43–61)
 * [The game of chap-ji-ki](./the-game-of-chap-ji-ki.md) — [Hare G.T](./hare-gt.md) (pp. 63–71)
-* [Birds in the Botanic gardens, Singapore](./birds-in-the-botanic-gardens-singapore.md) — [H.N. Ridley](./hn-ridley.md) (pp. 73–89)
-* [The Peliosanthes of the Malay Peninsula](./the-peliosanthes-of-the-malay-peninsula.md) — [H.N. Ridley](./hn-ridley.md) (pp. 91–98)
-* [The white snake of the Selangor caves](./the-white-snake-of-the-selangor-caves.md) — [H.N. Ridley](./hn-ridley.md) (pp. 99–101)
-* [Precocious coconuts](./precocious-coconuts.md) — [H.N. Ridley](./hn-ridley.md) (pp. 103–104)
-* [Hoseanthus Merrill, n.gen. SB 79: {17} S 1918 Hybleapuera Cram](./hoseanthus-merrill-ngen-sb-79-17-s-1918-hybleapuera-cram.md) — [H.N. Ridley](./hn-ridley.md) (pp. 104–105)
-* [An account of some of the oldest Malay Mss. now extant](./an-account-of-some-of-the-oldest-malay-mss-now-extant.md) — [W.G. Shellabear](./wg-shellabear.md) (pp. 107–151)
+* [Birds in the Botanic gardens, Singapore](./birds-in-the-botanic-gardens-singapore.md) — [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 73–89)
+* [The Peliosanthes of the Malay Peninsula](./the-peliosanthes-of-the-malay-peninsula.md) — [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 91–98)
+* [The white snake of the Selangor caves](./the-white-snake-of-the-selangor-caves.md) — [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 99–101)
+* [Precocious coconuts](./precocious-coconuts.md) — [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 103–104)
+* [Hoseanthus Merrill, n.gen. SB 79: {17} S 1918 Hybleapuera Cram](./hoseanthus-merrill-ngen-sb-79-17-s-1918-hybleapuera-cram.md) — [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 104–105)
+* [An account of some of the oldest Malay Mss. now extant](./an-account-of-some-of-the-oldest-malay-mss-now-extant.md) — [W.G. Shellabear](./william-girdlestone-shellabear.md) (pp. 107–151)
 * [Index to the Journal of the Straits Branch of the Royal Asiatic Society, Vols I to XXXI](./index-to-the-journal-of-the-straits-branch-of-the-royal-asia.md) — [Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md) (pp. 153–190)
 
 ## Contributors
-* [H.N. Ridley](./hn-ridley.md)
+* [H.N. Ridley](./henry-nicholas-ridley.md)
 * [Hale A](./hale-a.md)
 * [Hare G.T](./hare-gt.md)
 * [Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)
-* [W.G. Shellabear](./wg-shellabear.md)
-* [W.W. Skeat](./ww-skeat.md)
+* [W.G. Shellabear](./william-girdlestone-shellabear.md)
+* [W.W. Skeat](./walter-william-skeat.md)
 
 ## References
 <!-- Grounded occurrences and citations -->

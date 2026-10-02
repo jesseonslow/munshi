@@ -45,6 +45,5 @@ published: false
 - Tweedie, M.W.F. Stone age in Malaya. Monograph No. 1 MB 26(2)
 - Winstedt, R.O. The prehistory of Malaya. MB 10(1)
 - Winstedt, R.O. Slab-graves and implements. MB 19(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

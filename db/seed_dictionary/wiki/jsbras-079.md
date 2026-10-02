@@ -131,9 +131,9 @@ articles:
 * [Notes on Dipterocarps. {No. 3} The seedling of Shorea robusta, Roxb., and the conditions under which it grows into pure forests](./notes-on-dipterocarps-no-3-the-seedling-of-shorea-robusta-ro.md) — [I.H. Burkill](./ih-burkill.md) (pp. 39–44)
 * [A new Dendrobium, D. gracilipes, from the Rhio Archipelago](./a-new-dendrobium-d-gracilipes-from-the-rhio-archipelago.md) — [I.H. Burkill](./ih-burkill.md) (pp. 45–46)
 * [The cannibal king in the “Kedah Annals”](./the-cannibal-king-in-the-kedah-annals.md) — [C.O. Blagden](./co-blagden.md) (pp. 47–48)
-* [The Hadramaut Sayids of Perak and Siak](./the-hadramaut-sayids-of-perak-and-siak.md) — [R.O. Winstedt](./ro-winstedt.md) (pp. 49–54)
-* [Some Perak pedigrees](./some-perak-pedigrees.md) — [R.O. Winstedt](./ro-winstedt.md) (pp. 55–62)
-* [New and rare Malayan plants](./new-and-rare-malayan-plants.md) — [H.N. Ridley](./hn-ridley.md) (pp. 63–100)
+* [The Hadramaut Sayids of Perak and Siak](./the-hadramaut-sayids-of-perak-and-siak.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 49–54)
+* [Some Perak pedigrees](./some-perak-pedigrees.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 55–62)
+* [New and rare Malayan plants](./new-and-rare-malayan-plants.md) — [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 63–100)
 * [Time of sunrise and sunset at Singapore and Penang during the year](./time-of-sunrise-and-sunset-at-singapore-and-penang-during-th.md) — [H. Marriott](./h-marriott.md) (pp. 101)
 * [Begonia haniffii, a small tuberous species of the islands of Lankawi](./begonia-haniffii-a-small-tuberous-species-of-the-islands-of-.md) — [I.H. Burkill](./ih-burkill.md) (pp. 103–104)
 
@@ -141,10 +141,10 @@ articles:
 * [C.O. Blagden](./co-blagden.md)
 * [E.D. Merrill](./ed-merrill.md)
 * [H. Marriott](./h-marriott.md)
-* [H.N. Ridley](./hn-ridley.md)
+* [H.N. Ridley](./henry-nicholas-ridley.md)
 * [I.H. Burkill](./ih-burkill.md)
 * [L.S. Gibbs](./ls-gibbs.md)
-* [R.O. Winstedt](./ro-winstedt.md)
+* [R.O. Winstedt](./richard-olaf-winstedt.md)
 * [W.D. Funkhouser](./wd-funkhouser.md)
 
 ## References

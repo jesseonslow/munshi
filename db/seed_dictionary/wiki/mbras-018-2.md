@@ -136,7 +136,7 @@ articles:
 **Date:** August 1940
 
 ## Table of Contents
-* [Report on excavation in Kelantan](./report-on-excavation-in-kelantan.md) — [M.W.F. Tweedie](./mwf-tweedie.md) (pp. 1–22)
+* [Report on excavation in Kelantan](./report-on-excavation-in-kelantan.md) — [M.W.F. Tweedie](./michael-wilmer-forbes-tweedie.md) (pp. 1–22)
 * [A sketch of the history of Brunei](./a-sketch-of-the-history-of-brunei.md) — [T.D. Hughes](./td-hughes.md) (pp. 23–42)
 * [A Kedah harvesting knife](./a-kedah-harvesting-knife.md) — [J.A. Baker](./ja-baker.md) (pp. 43–45)
 * [A Pre-Islamic element in the Malay grave](./a-pre-islamic-element-in-the-malay-grave.md) — [G.G. Hough](./gg-hough.md) (pp. 46–48)
@@ -145,20 +145,20 @@ articles:
 * [Rice planting customs in the Baram District, Sarawak](./rice-planting-customs-in-the-baram-district-sarawak.md) — [E. Banks](./e-banks.md) (pp. 83–104)
 * [The keris Solok or Sundang](./the-keris-solok-or-sundang.md) — [E. Banks](./e-banks.md) (pp. 105–107)
 * [A Malay tradition](./a-malay-tradition.md) — [R. Cardon](./r-cardon.md) (pp. 108–145)
-* [Malay titles](./malay-titles.md) — [R.O. Winstedt](./ro-winstedt.md) (pp. 146–148)
-* [A Pasai chief with a Persian memorial inscription](./a-pasai-chief-with-a-persian-memorial-inscription.md) — [R.O. Winstedt](./ro-winstedt.md) (pp. 149)
-* [Valentijn’s copy of the Sejarah Melayu](./valentijns-copy-of-the-sejarah-melayu.md) — [R.O. Winstedt](./ro-winstedt.md) (pp. 151)
-* [Kulanggi or Gulanggi](./kulanggi-or-gulanggi.md) — [R.O. Winstedt](./ro-winstedt.md) (pp. 152)
-* [Alexander the Great and the Mount Meru and Chula legends](./alexander-the-great-and-the-mount-meru-and-chula-legends.md) — [R.O. Winstedt](./ro-winstedt.md) (pp. 153)
+* [Malay titles](./malay-titles.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 146–148)
+* [A Pasai chief with a Persian memorial inscription](./a-pasai-chief-with-a-persian-memorial-inscription.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 149)
+* [Valentijn’s copy of the Sejarah Melayu](./valentijns-copy-of-the-sejarah-melayu.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 151)
+* [Kulanggi or Gulanggi](./kulanggi-or-gulanggi.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 152)
+* [Alexander the Great and the Mount Meru and Chula legends](./alexander-the-great-and-the-mount-meru-and-chula-legends.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 153)
 
 ## Contributors
 * [E. Banks](./e-banks.md)
 * [G.G. Hough](./gg-hough.md)
 * [J. Staal](./j-staal.md)
 * [J.A. Baker](./ja-baker.md)
-* [M.W.F. Tweedie](./mwf-tweedie.md)
+* [M.W.F. Tweedie](./michael-wilmer-forbes-tweedie.md)
 * [R. Cardon](./r-cardon.md)
-* [R.O. Winstedt](./ro-winstedt.md)
+* [R.O. Winstedt](./richard-olaf-winstedt.md)
 * [T.D. Hughes](./td-hughes.md)
 
 ## References

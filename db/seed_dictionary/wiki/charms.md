@@ -43,6 +43,5 @@ published: false
 - Topley, M. Paper charms and prayer sheets in Chinese worship. MB 26(1)
 - Williams-Hunt, P.D.R. Aboriginal charms and weapon measurements. MB 25(1)
 - Winstedt, R.O. A Malay pantheistic charm. SB 86
-
 ## References
 <!-- Grounded occurrences and citations -->

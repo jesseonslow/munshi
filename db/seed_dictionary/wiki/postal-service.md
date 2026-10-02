@@ -23,6 +23,5 @@ published: false
 ## MBRAS Sources
 
 - Gibson-Hill, C.A. Administration of the Singapore post office, 1819–67. MB 31(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

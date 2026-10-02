@@ -20,6 +20,5 @@ published: false
 ## MBRAS Sources
 
 - Adi bin Haji Taha. Megalithic alignment at Kg Ipoh, Tampin. MB 55(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

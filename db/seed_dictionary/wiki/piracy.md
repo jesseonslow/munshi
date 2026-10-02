@@ -27,11 +27,9 @@ published: false
 <!-- Synthesis engine: Insert sulu details here -->
 
 ## MBRAS Sources
-<!-- Seed entries or targeted retrieval for Piracy -->
-### Aceh
-<!-- Seed entries or targeted retrieval for Piracy: Aceh -->
-### Sulu
-<!-- Seed entries or targeted retrieval for Piracy: Sulu -->
 
+### Aceh
+
+### Sulu
 ## References
 <!-- Grounded occurrences and citations -->

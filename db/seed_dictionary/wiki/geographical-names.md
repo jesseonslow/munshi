@@ -61,6 +61,5 @@ published: false
 - Winstedt, R.O. Was Johore once named Langkasuka? MB 1(1)
 - Winstedt, R.O. Notes on Malay subjects: Kulanggi/Gulanggi. MB 20(1)
 - Zainal Abidin bin Ahmad. Origin of some Malayan place names. MB 3(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

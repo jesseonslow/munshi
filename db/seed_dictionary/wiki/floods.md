@@ -25,6 +25,5 @@ published: false
 
 - Keyser, A. Flooding of the Triang Valley, 1896. MB 89(1)
 - Winstedt, R.O. Great flood, 1926. MB 5(2)
-
 ## References
 <!-- Grounded occurrences and citations -->

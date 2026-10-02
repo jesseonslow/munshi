@@ -43,7 +43,7 @@ published: false
 <!-- Synthesis engine: Insert history details here -->
 
 ## MBRAS Sources
-<!-- Seed entries or targeted retrieval for Terengganu -->
+
 ### Description and travel
 
 - Clifford, H.C. Expedition to Kelantan and Trengganu in 1895. MB 34(1) and Reprints 4 (part) and 13
@@ -64,6 +64,5 @@ published: false
 - Shaharil Talib. Trengganu ruling class in late 19th century. MB 50(2)
 - Shaharil Talib. After its own image: the Trengganu experience. MB 59(1) {R}
 - Sheppard, M. History of Trengganu. MB 22(3) and Reprint 10
-
 ## References
 <!-- Grounded occurrences and citations -->

@@ -63,11 +63,11 @@ articles:
 ## Table of Contents
 * [Papers on Johore Lama and the Portuguese in Malaya (1511–1641). C.A. Gibson-Hill {and} G. de G. Sieveking](./papers-on-johore-lama-and-the-portuguese-in-malaya-15111641-.md) — [I.A. MacGregor](./ia-macgregor.md), [G. de G. Sieveking](./g-de-g-sieveking.md) (pp. 1–199)
 * [Johore Lama in the sixteenth century. {In Papers on Johore Lama and the Portuguese in Malaya (1511–1641](./johore-lama-in-the-sixteenth-century-in-papers-on-johore-lam.md) — [I.A. MacGregor](./ia-macgregor.md) (pp. 48–125)
-* [Johore Lama and other ancient sites on the Johore River. {In Papers on Johore Lama and the Portuguese in Malaya (1511–1641](./johore-lama-and-other-ancient-sites-on-the-johore-river-in-p.md) — [C.A. Gibson-Hill](./ca-gibson-hill.md) (pp. 126–197)
+* [Johore Lama and other ancient sites on the Johore River. {In Papers on Johore Lama and the Portuguese in Malaya (1511–1641](./johore-lama-and-other-ancient-sites-on-the-johore-river-in-p.md) — [C.A. Gibson-Hill](./carl-alexander-gibson-hill.md) (pp. 126–197)
 * [The fortified city of Johor Lama and the use of archaeological evidence. {In Papers on Johor Lama and the Portuguese in Malaya, 1511–1641](./the-fortified-city-of-johor-lama-and-the-use-of-archaeologic.md) — [G. de G. Sieveking](./g-de-g-sieveking.md) (pp. 198–199)
 
 ## Contributors
-* [C.A. Gibson-Hill](./ca-gibson-hill.md)
+* [C.A. Gibson-Hill](./carl-alexander-gibson-hill.md)
 * [G. de G. Sieveking](./g-de-g-sieveking.md)
 * [I.A. MacGregor](./ia-macgregor.md)
 

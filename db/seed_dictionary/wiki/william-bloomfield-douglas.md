@@ -24,6 +24,5 @@ published: false
 ## MBRAS Sources
 
 - Gullick, J.M. Selangor 1876–82: Douglas diary. MB 48(2)
-
 ## References
 <!-- Grounded occurrences and citations -->

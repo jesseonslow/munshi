@@ -23,7 +23,6 @@ published: false
 ## MBRAS Sources
 
 - Forrest, R. His life as civil servant and artist. MB 91(2)
-
 ## Bibliography
 - (1924) [Chinese exorcists](./chinese-exorcists.md). *JMBRAS* 2(1): 41–47
 - (1924) [Chinese divining blocks and the “pat kwa” or eight-sided diagram](./chinese-divining-blocks-and-the-pat-kwa-or-eight-sided-diagr.md). *JMBRAS* 2(1): 72–73

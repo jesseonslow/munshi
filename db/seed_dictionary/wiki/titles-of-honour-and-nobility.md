@@ -26,6 +26,5 @@ published: false
 - Linehan, W. Royal modes of address in Pahang. MB 4(3)
 - Maxwell, W.E. Malay titles in Perak. NQ Reprint 15
 - Winstedt, R.O. Malay titles. MB 18(2)
-
 ## References
 <!-- Grounded occurrences and citations -->

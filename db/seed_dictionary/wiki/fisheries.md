@@ -33,6 +33,5 @@ published: false
 - Parry, M.L. Fishing methods of Kelantan and Trengganu. MB 27(2)
 - Sheppard, M. Fishing industry in Kelantan. MB 68(2)
 - Sivalingam, G. Fishing economy of Malaya. MB 59(2)
-
 ## References
 <!-- Grounded occurrences and citations -->

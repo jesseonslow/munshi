@@ -133,30 +133,30 @@ articles:
 
 ## Table of Contents
 * [Chinese secret societies](./chinese-secret-societies.md) — [W.A. Pickering](./wa-pickering.md) (pp. 1–18)
-* [Malay proverbs](./malay-proverbs.md) — [W.E. Maxwell](./we-maxwell.md) (pp. 19–51)
+* [Malay proverbs](./malay-proverbs.md) — [W.E. Maxwell](./sir-william-edward-maxwell.md) (pp. 19–51)
 * [Notes on gutta-percha and caoutchouc-yielding trees. {With a post script H.J. Murton](./notes-on-gutta-percha-and-caoutchouc-yielding-trees-with-a-p.md) — [F.W. Burbidge](./fw-burbidge.md) (pp. 52–61)
 * [The maritime code of the Malays](./the-maritime-code-of-the-malays.md) — [T.S. Raffles](./ts-raffles.md) (pp. 62–84)
-* [Atrip to Gunong Blumut](./atrip-to-gunong-blumut.md) — [D.F.A. Hervey](./dfa-hervey.md) (pp. 85–115)
+* [Atrip to Gunong Blumut](./atrip-to-gunong-blumut.md) — [D.F.A. Hervey](./dudley-francis-amelius-hervey.md) (pp. 85–115)
 * [Caves at Sungei Batu in Selangor](./caves-at-sungei-batu-in-selangor.md) — [D.D. Daly](./dd-daly.md) (pp. 116–119)
 * [Geography of Achin. . Bieber](./geography-of-achin-bieber.md) — [Bieber](./bieber.md) (pp. 120–123)
 * [Account of a naturalist’s visit to the territory of Selangor](./account-of-a-naturalists-visit-to-the-territory-of-selangor.md) — [W.T. Hornaday](./wt-hornaday.md) (pp. 124–131)
-* [Geographical notes](./geographical-notes.md) — [A.M. Skinner](./am-skinner.md) (pp. 132–133)
+* [Geographical notes](./geographical-notes.md) — [A.M. Skinner](./allan-maclean-skinner.md) (pp. 132–133)
 * [“Sungai Tata” route](./sungai-tata-route.md) — [B. Douglas](./b-douglas.md) (pp. 133–135)
 * [Survey reports on Ulu Perak](./survey-reports-on-ulu-perak.md) — [H.S. Deane](./hs-deane.md) (pp. 135–139)
 * [Rainfall registered at the undermentioned stations, in the Straits Settlements and the Native States, during the half-year ending 30th June, 1879](./rainfall-registered-at-the-undermentioned-stations-in-the-st.md) — [T.I. Rowell](./ti-rowell.md) (pp. 145)
 
 ## Contributors
-* [A.M. Skinner](./am-skinner.md)
+* [A.M. Skinner](./allan-maclean-skinner.md)
 * [B. Douglas](./b-douglas.md)
 * [Bieber](./bieber.md)
 * [D.D. Daly](./dd-daly.md)
-* [D.F.A. Hervey](./dfa-hervey.md)
+* [D.F.A. Hervey](./dudley-francis-amelius-hervey.md)
 * [F.W. Burbidge](./fw-burbidge.md)
 * [H.S. Deane](./hs-deane.md)
 * [T.I. Rowell](./ti-rowell.md)
 * [T.S. Raffles](./ts-raffles.md)
 * [W.A. Pickering](./wa-pickering.md)
-* [W.E. Maxwell](./we-maxwell.md)
+* [W.E. Maxwell](./sir-william-edward-maxwell.md)
 * [W.T. Hornaday](./wt-hornaday.md)
 
 ## References

@@ -24,6 +24,5 @@ published: false
 - Douglas, R.S. Visit to Kalabit tribes. SB 49
 - Harrisson, T. Singing pre-history. MB 22(1) and Reprint 4
 - Harrisson, T. Stone urns from the Kelabit highlands of Sarawak. MB 47(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

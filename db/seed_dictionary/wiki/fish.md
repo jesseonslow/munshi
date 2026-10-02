@@ -28,6 +28,5 @@ published: false
 - Smedley, N. Chiloscyllium indicum (Gmel.). MB 4(1) and 5(2)
 - Smedley, N. Fishes of Mentawi island. MB 6(3)
 - Tweedie, M.W.F. Malay names of fresh-water fishes. MB 25(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

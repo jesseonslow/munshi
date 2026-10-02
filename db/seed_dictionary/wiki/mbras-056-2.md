@@ -116,7 +116,7 @@ articles:
 ## Table of Contents
 * [Tomb of “The King of Brunei” in Nanking](./tomb-of-the-king-of-brunei-in-nanking.md) — [Mohamed Suffian](./mohamed-suffian.md) (pp. 1–6)
 * [Succession to the Perak Sultanate](./succession-to-the-perak-sultanate.md) — [Khoo Kay Kim](./khoo-kay-kim.md) (pp. 7–29)
-* [Kedah 1821–1855: years of exile and return](./kedah-18211855-years-of-exile-and-return.md) — [J.M. Gullick](./jm-gullick.md) (pp. 31–86)
+* [Kedah 1821–1855: years of exile and return](./kedah-18211855-years-of-exile-and-return.md) — [J.M. Gullick](./john-michael-gullick.md) (pp. 31–86)
 * [Dutch records from Malacca in the India Office Records](./dutch-records-from-malacca-in-the-india-office-records.md) — [I. Baxter](./i-baxter.md) (pp. 105–134)
 * [A Malay mission to Bangkok during the reign of Rama II](./a-malay-mission-to-bangkok-during-the-reign-of-rama-ii.md) — [C. Skinner](./c-skinner.md) (pp. 135–140)
 * [Dictionary of Malaysian biography project](./dictionary-of-malaysian-biography-project.md) — [Khoo Kay Kim](./khoo-kay-kim.md) (pp. 141)
@@ -130,7 +130,7 @@ articles:
 * [H. Sutherland](./h-sutherland.md)
 * [I. Baxter](./i-baxter.md)
 * [J. Kathirithamby– Wells](./j-kathirithamby-wells.md)
-* [J.M. Gullick](./jm-gullick.md)
+* [J.M. Gullick](./john-michael-gullick.md)
 * [J.S. Bastin](./js-bastin.md)
 * [Khoo Kay Kim](./khoo-kay-kim.md)
 * [Mohamed Suffian](./mohamed-suffian.md)

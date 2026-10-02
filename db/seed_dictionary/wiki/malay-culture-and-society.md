@@ -118,6 +118,5 @@ published: false
 - Winstedt, R.O. Mother-right among Khasis and Malays. MB 10(1)
 - Zaharah bt Hj Mahmud. Traditional settlement in the Malay Peninsula. MB 43(2)
 - Zainal Abidin bin Ahmad. Malay manners and etiquette. MB 23(3)
-
 ## References
 <!-- Grounded occurrences and citations -->

@@ -93,7 +93,7 @@ published: false
 <!-- Synthesis engine: Insert commerce details here -->
 
 ## MBRAS Sources
-<!-- Seed entries or targeted retrieval for Penang -->
+
 ### History
 
 - Anon. The Light family. NQ Reprint 15
@@ -139,7 +139,5 @@ published: false
 - Yeoh Seng Guan Penang and its networks of knowledge. MB 91(1) {R}
 
 ### Commerce
-<!-- Seed entries or targeted retrieval for Penang: Commerce -->
-
 ## References
 <!-- Grounded occurrences and citations -->

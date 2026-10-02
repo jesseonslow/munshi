@@ -74,7 +74,7 @@ published: false
 <!-- Synthesis engine: Insert genealogies details here -->
 
 ## MBRAS Sources
-<!-- Seed entries or targeted retrieval for Negeri Sembilan -->
+
 ### Custom and constitution
 
 - Blagden, C.O. Minangkabau custom―Malacca. MB 8(2)
@@ -106,7 +106,7 @@ published: false
 - Winstedt, R.O. Digest of customary law from Sungei Ujong. MB 27(3)
 
 ### Genealogies
-<!-- Seed entries or targeted retrieval for Negeri Sembilan: Genealogies -->
+
 ### Description
 
 - Gullick, J.M. The NS economy of the 1890’s. MB 24(1)
@@ -119,7 +119,6 @@ published: false
 ### History
 
 - Casparis, J.G. de. Ahmat Majani’s tombstone at Pengkalan Kempas. MB 53(1)
-The Dato Muda Linggi. SB 26
 - Gammans, L.D. Lukut. MB 2(3)
 - Gallop, A.T. History of Negri Sembilan through its seals. MB 86(2)
 - Gullick, J.M. War with Yam Tuan Antah. MB 27(1)
@@ -132,6 +131,5 @@ The Dato Muda Linggi. SB 26
 - Peletz, M.G. Adat and Islam in Rembau. MB 54(3) {R}
 - Wilkinson, R.J. Sungai Ujong. SB 83
 - Winstedt, R.O. History of Negri Sembilan. MB 12(3)
-
 ## References
 <!-- Grounded occurrences and citations -->

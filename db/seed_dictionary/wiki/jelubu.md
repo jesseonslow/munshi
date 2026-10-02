@@ -28,6 +28,5 @@ published: false
 - Keyser, A. Triang valley flood, December 1896. MB 89(1)
 - O’Brien, H.A. Jelebu. SB 14
 - O’Brien, H.A. Sketch survey of Sungei Triang, Jalebu. SB 15
-
 ## References
 <!-- Grounded occurrences and citations -->

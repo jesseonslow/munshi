@@ -46,6 +46,5 @@ published: false
 - Thompson, A.B. Rain at Padang Brahrang estate, Lankat, Sumatra, Jan-June 1882. SB 9
 - Wheatley, J.J.L. Rainfall of Singapore. SB 7 and 15
 - Williamson, F. Heat and Colonial Weather Science. MB 95(2)
-
 ## References
 <!-- Grounded occurrences and citations -->

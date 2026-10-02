@@ -20,6 +20,5 @@ published: false
 
 - Blagden, C.O. Dr Brandstetter’s Malayo-Polynesian researches. SB 42
 - Brandstetter, R. _Der Natursinn in den alteren Litteraturwerken der Malaien_. SB 76 {R}
-
 ## References
 <!-- Grounded occurrences and citations -->

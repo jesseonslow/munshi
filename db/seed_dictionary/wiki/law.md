@@ -71,7 +71,7 @@ published: false
 <!-- Synthesis engine: Insert administration of justice details here -->
 
 ## MBRAS Sources
-<!-- Seed entries or targeted retrieval for Law -->
+
 ### Traditional
 
 - Beresford-Peirse, R.H.W. Settlement of a tribal dispute in N Borneo. MB 27(1)
@@ -104,7 +104,5 @@ published: false
 - Winstedt, R.O. Undang-undang laut. R.O.Winstedt. MB 29(3)
 
 ### Administration of justice
-<!-- Seed entries or targeted retrieval for Law: Administration of justice -->
-
 ## References
 <!-- Grounded occurrences and citations -->

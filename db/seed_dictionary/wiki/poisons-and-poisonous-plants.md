@@ -29,6 +29,5 @@ published: false
 - Campbell, J.A. Effects of tuba fish poisoning. SB 73
 - Gimlette, J.D. Malay poisons and charm cures. MB 1(1) and 7(2) {R}
 - Wray, L. Ipoh tree (Antiaris toxicaria). NQ reprint 15
-
 ## References
 <!-- Grounded occurrences and citations -->

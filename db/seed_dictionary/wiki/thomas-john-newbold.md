@@ -22,6 +22,5 @@ published: false
 
 - Bombay Times and Journal of Commerce. Obituary. SB 19
 - Maxwell, W.E. Obituary. NQ Reprint 15
-
 ## References
 <!-- Grounded occurrences and citations -->

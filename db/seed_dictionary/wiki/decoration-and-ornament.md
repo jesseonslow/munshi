@@ -23,6 +23,5 @@ published: false
 - Shelford, R. Sarawak museum catalogue (illustrated). SB 43
 - Winstedt, R.O. Gold ornaments dug up at Fort Canning. MB 6(4) and 42(1)
 - Winstedt, R.O. _Sundang_ and other Malayan art motifs. MB 19(2)
-
 ## References
 <!-- Grounded occurrences and citations -->

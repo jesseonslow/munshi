@@ -105,7 +105,7 @@ articles:
 **Date:** December 1976
 
 ## Table of Contents
-* [The Tampin succession](./the-tampin-succession.md) — [J.M. Gullick](./jm-gullick.md) (pp. 1–35)
+* [The Tampin succession](./the-tampin-succession.md) — [J.M. Gullick](./john-michael-gullick.md) (pp. 1–35)
 * [Communist involvement in Malayan labour strikes: 1936 (The communist challenge in the Malayan labour scene, Sept. 1936–Mar. 1937](./communist-involvement-in-malayan-labour-strikes-1936-the-com.md) — [Yeo Kim Wah](./yeo-kim-wah.md) (pp. 36–79)
 * [An examination of the sources concerning the reign of Sultan Mansur Syah of Trengganu (1741–1795) with special reference to the Tuhfat-al-Nafis](./an-examination-of-the-sources-concerning-the-reign-of-sultan.md) — [B.W. Andaya](./bw-andaya.md) (pp. 80–106)
 * [The early development of Kuching, 1820–1857](./the-early-development-of-kuching-18201857.md) — [C.A. Lockard](./ca-lockard.md) (pp. 107–126)
@@ -120,7 +120,7 @@ articles:
 * [C.A. Lockard](./ca-lockard.md)
 * [C.A. Trocki](./ca-trocki.md)
 * [E.M. Frame](./em-frame.md)
-* [J.M. Gullick](./jm-gullick.md)
+* [J.M. Gullick](./john-michael-gullick.md)
 * [M.B. Hooker](./mb-hooker.md)
 * [R. Needham](./r-needham.md)
 * [Y.K. Lee](./yk-lee.md)

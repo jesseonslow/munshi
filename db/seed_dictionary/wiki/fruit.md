@@ -40,6 +40,5 @@ published: false
 - Maxwell, W.E. Ketiar. NQ Reprint 15
 - Ridley, H.N. Fruit of Burbidgea. SB 53
 - Wray, L. Report on the Pomeloe moth. SB 19
-
 ## References
 <!-- Grounded occurrences and citations -->

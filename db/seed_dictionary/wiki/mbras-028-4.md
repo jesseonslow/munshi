@@ -31,10 +31,10 @@ articles:
 **Date:** August 1955
 
 ## Table of Contents
-* [Kuala Lumpur, 1880–1895](./kuala-lumpur-18801895.md) — [J.M. Gullick](./jm-gullick.md) (pp. 1–172)
+* [Kuala Lumpur, 1880–1895](./kuala-lumpur-18801895.md) — [J.M. Gullick](./john-michael-gullick.md) (pp. 1–172)
 
 ## Contributors
-* [J.M. Gullick](./jm-gullick.md)
+* [J.M. Gullick](./john-michael-gullick.md)
 
 ## References
 <!-- Grounded occurrences and citations -->

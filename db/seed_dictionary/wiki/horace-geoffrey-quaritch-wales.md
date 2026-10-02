@@ -24,7 +24,6 @@ published: false
 ## MBRAS Sources
 
 - Subhadradis Diskul, M.C. Obituary. MB 55(2)
-
 ## Bibliography
 - (1947) [Further work on Indian sites in Malaya](./further-work-on-indian-sites-in-malaya.md). *JMBRAS* 20(1): 1–11
 - (1949) [The Sambas finds in relation to the problems of Indo-Malaysian art development](./the-sambas-finds-in-relation-to-the-problems-of-indo-malaysi.md). *JMBRAS* 22(4): 23–32

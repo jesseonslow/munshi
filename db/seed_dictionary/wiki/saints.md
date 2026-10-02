@@ -33,6 +33,5 @@ published: false
 - Abdullah, Dato Sedia Raja. Leading saints in Rembau. MB 3(3)
 - Maxwell, W.E. The invocation of Muslim saints. NQ Reprint 15
 - Wilkinson, R.J. The Pengkalan Kempas “saint”. MB 9(1) and Reprint 4
-
 ## References
 <!-- Grounded occurrences and citations -->

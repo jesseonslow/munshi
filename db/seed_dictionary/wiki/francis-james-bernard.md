@@ -19,6 +19,5 @@ published: false
 ## MBRAS Sources
 
 - Wright, N.H. Effects of nepotism and patronage on Bernard’s professional career. MB 89(2)
-
 ## References
 <!-- Grounded occurrences and citations -->

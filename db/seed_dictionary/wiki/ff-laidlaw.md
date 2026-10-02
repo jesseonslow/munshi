@@ -29,7 +29,7 @@ published: false
 - (1928) [A list of land and fresh-water Mollusca of the Malay Peninsula](./a-list-of-land-and-fresh-water-mollusca-of-the-malay-peninsu.md). *JMBRAS* 6(1): 25–37
 - (1933) [A list of land and fresh-water Mollusca of the Malay Peninsula](./a-list-of-land-and-fresh-water-mollusca-of-the-malay-peninsu.md). *JMBRAS* 11(2): 211–234
 - (1953) [The Cambridge University Expedition to parts of the Malay Peninsula, 1899–1900: personal accounts. W.W. Skeat and F.F. Laidlaw. {Introd. C.A. Gibson-Hill](./the-cambridge-university-expedition-to-parts-of-the-malay-pe.md). *JMBRAS* 26(4): 1–174
-- (1953) [W.W. Skeat, 1866–1953. Obituary](./ww-skeat-18661953-obituary.md). *JMBRAS* 26(1): 224–228
+- (1953) [W.W. Skeat, 1866–1953. Obituary](./walter-william-skeat-18661953-obituary.md). *JMBRAS* 26(1): 224–228
 
 ## References
 <!-- Grounded occurrences and citations -->

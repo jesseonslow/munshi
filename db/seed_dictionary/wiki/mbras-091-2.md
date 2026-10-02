@@ -132,7 +132,7 @@ articles:
   is_review: true
 - id: jmbras-91-2-p167
   slug: null
-  title: 'Planting empire, cultivating subjects: British Malaya, 1786–1941. L.H. Lees'
+  title: 'Planting empire, cultivating subjects: British Malaya, 1786–1941. Lynn Hollen Lees'
   authors:
   - T.P. Barnard
   pages: 167–168
@@ -171,7 +171,7 @@ articles:
 * [An 1874 account of Johore](./an-1874-account-of-johore.md) — [W. Dean](./w-dean.md) (pp. 153–154)
 * *Khao Sam Kaeo: an early port-city between the Indian Ocean and the South China Sea. . Bellina* — [J.N. Miksic](./jn-miksic.md) (pp. 155–159) [Review]
 * *The Japanese occupation of Malaya and Singapore, 1941–1945: a social and economic history (2nd Edition). P.H. Kratoska* — [Ooi Keat Gin](./ooi-keat-gin.md) (pp. 164–166) [Review]
-* *Planting empire, cultivating subjects: British Malaya, 1786–1941. L.H. Lees* — [T.P. Barnard](./tp-barnard.md) (pp. 167–168) [Review]
+* *Planting empire, cultivating subjects: British Malaya, 1786–1941. Lynn Hollen Lees* — [T.P. Barnard](./tp-barnard.md) (pp. 167–168) [Review]
 * *Living with myths in Singapore. . M.-T. Chia* — [S. E. Tan](./s-e-tan.md) (pp. 169–172) [Review]
 * *The private healthcare sector in Johor: trends and prospects* — [Chan Chee Khoon](./chan-chee-khoon.md), [m-ormond](./m-ormond.md), [Lim Chee Han](./lim-chee-han.md) (pp. 173–176) [Review]
 

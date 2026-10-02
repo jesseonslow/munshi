@@ -22,6 +22,5 @@ published: false
 - Harrisson, T. History of the palang. MB 37(2)
 - Harrisson, T. Three further notes on the palang. MB 39(1)
 - Harrisson, T. Palang concept extended. Ma Huan, 1433 AD. MB 48(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

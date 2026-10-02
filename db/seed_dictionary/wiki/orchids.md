@@ -36,6 +36,5 @@ published: false
 - Ridley, H.N. Calanthe vestita Lindl. in Selangor. SB 30
 - Ridley, H.N. New Malay orchids. SB 39
 - Smith, J.J.. Orchids collected by J.C. Moulton at Batu Lawi. SB 63
-
 ## References
 <!-- Grounded occurrences and citations -->

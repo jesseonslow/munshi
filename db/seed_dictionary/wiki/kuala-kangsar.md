@@ -20,6 +20,5 @@ published: false
 ## MBRAS Sources
 
 - Abdul Majid bin Haji Zainuddin, Haji. A peculiar custom at Kuala Kangsar. MB 3(1)
-
 ## References
 <!-- Grounded occurrences and citations -->

@@ -70,7 +70,7 @@ articles:
 ## Table of Contents
 * [Some notes on the Kelantan dialect, and some comparisons with the dialects of Perak and central Pahang](./some-notes-on-the-kelantan-dialect-and-some-comparisons-with.md) — [A.J. Sturrock](./aj-sturrock.md) (pp. 1–7)
 * [Gunong Tahan and Gunong Riam](./gunong-tahan-and-gunong-riam.md) — [J.B. Scrivenor](./jb-scrivenor.md) (pp. 8–21)
-* [Three early keris](./three-early-keris.md) — [R.O. Winstedt](./ro-winstedt.md) (pp. 22–23)
+* [Three early keris](./three-early-keris.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 22–23)
 * [Mount Ophir legends](./mount-ophir-legends.md) — [M.E. Staley](./me-staley.md) (pp. 24–25)
 * [Mosquito larvae and freshwater fish](./mosquito-larvae-and-freshwater-fish.md) — [Hanitsch R](./hanitsch-r.md) (pp. 26–30)
 
@@ -79,7 +79,7 @@ articles:
 * [Hanitsch R](./hanitsch-r.md)
 * [J.B. Scrivenor](./jb-scrivenor.md)
 * [M.E. Staley](./me-staley.md)
-* [R.O. Winstedt](./ro-winstedt.md)
+* [R.O. Winstedt](./richard-olaf-winstedt.md)
 
 ## References
 <!-- Grounded occurrences and citations -->

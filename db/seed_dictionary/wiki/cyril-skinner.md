@@ -20,7 +20,6 @@ published: false
 ## MBRAS Sources
 
 - Matheson, V. Cyril Skinner. Obituary. MB 60(1)
-
 ## Bibliography
 - (1965) [The Civil War in Kelantan in 1839](./the-civil-war-in-kelantan-in-1839.md). *Monograph* 2: 176
 
