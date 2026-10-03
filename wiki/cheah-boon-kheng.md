@@ -24,11 +24,23 @@ published: false
 <!-- Seed entries or targeted retrieval for Cheah Boon Kheng -->
 
 ## Bibliography
+
+- (1981) [Social banditry and rural crime in North Kedah, 1909–1929](./social-banditry-and-rural-crime-in-north-kedah-19091929.md). *JMBRAS* 54(2): 98–130
+- (1991) [Letters from exile: correspondence of Sultan Abdullah from Seychelles and Mauritius](./letters-from-exile-correspondence-of-sultan-abdullah-from-se.md). *JMBRAS* 64(1): 33–74
+- (1993) [The power behind the throne: the role of queens and court ladies in Malay history](./the-power-behind-the-throne-the-role-of-queens-and-court-lad.md). *JMBRAS* 66(1): 1–21
+- (1995) [Hunting down the rebels in Kelantan, 1915: the Sultan’s ‘double game’](./hunting-down-the-rebels-in-kelantan-1915-the-sultans-double-.md). *JMBRAS* 68(2): 9–32
+- (1998) [Malay politics and the murder of J.W.W. Birch, British Resident in Perak in 1875. The humiliation and revenge of the Maharaja Lela](./malay-politics-and-the-murder-of-jww-birch-british-resident-.md). *JMBRAS* 71(1): 74–105
+- (1998) [The rise and fall of the great Melakan empire: moral judgement in Tun Bambang’s Sejarah Melayu](./the-rise-and-fall-of-the-great-melakan-empire-moral-judgemen.md). *JMBRAS* 71(2): 104–121
 - (1998) [Papers Relating to Brunei](./papers-relating-to-brunei.md). *Reprint* 18: 192
+- (1999) [The romance of Tok Janggut: a Kelantan folk hero](./the-romance-of-tok-janggut-a-kelantan-folk-hero.md). *JMBRAS* 72(2): 49–64
 - (2002) [Sejarah Kerajaan Perlis 1841 – 1957](./sejarah-kerajaan-perlis-1841-1957.md). *Monograph* 32: 370
 - (2007) [Historians & Their Disciplines: The Call of Southeast Asian History](./historians-their-disciplines-the-call-of-southeast-asian-history.md). *Monograph* 40: 202
 - (2007) [New Perspectives and Research on Malaysian History](./new-perspectives-and-research-on-malaysian-history.md). *Monograph* 41: 270
 - (2009) [Sejarah Melayu (MS Raffles No. 18](./sejarah-melayu-ms-raffles-no-18.md). *Reprint* 17: 327
+- (2012) [Ming China’s support for Sultan Mahmud of Melaka and its hostility towards the Portuguese after the fall of Melaka in 1511](./ming-chinas-support-for-sultan-mahmud-of-melaka-and-its-host.md). *JMBRAS* 85(2): 55–77
+- (2015) [Memoir of R. Balan, vice-president of the Malayan Communist Party](./memoir-of-r-balan-vice-president-of-the-malayan-communist-pa.md). *JMBRAS* 88(2): 129–138
+- (2023) [Raja Bongsu and the Sejarah Melayu: The Tragic Fate of an Ill-starred Prince of Johor (b. 1571–d. 1623). B.K. Cheah, Faris Joraimi and P. Borschberg](./raja-bongsu-and-the-sejarah-melayu-the-tragic-fate-of-an-ill.md). *JMBRAS* 96(2): 1–28
+- (2024) [Feudalisme Melayu: Ciri-Ciri dan Pensejarahannya](./feudalisme-melayu-ciri-ciri-dan-pensejarahannya.md). *JMBRAS* 97(1): 124–152
 
 ### Reviews
 - (1980) British policy and Malay politics during the Malayan Union experiment, 1942–1948. A.J. Stockwell. *JMBRAS* 53(1): 172–175

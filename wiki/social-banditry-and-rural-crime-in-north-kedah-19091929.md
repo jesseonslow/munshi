@@ -6,7 +6,7 @@ canonical_name: Social banditry and rural crime in North Kedah, 1909–1929
 type: article
 article_type: article
 authors:
-- W. Cheah
+- Cheah Boon Kheng
 year: 1981
 journal_code: JMBRAS
 volume: 54
