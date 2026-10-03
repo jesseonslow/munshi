@@ -98,7 +98,7 @@ articles:
   pages: 171–179
   is_review: false
 - id: jmbras-41-1-p180
-  slug: recent-archaeological-discoveries-in-malaysia-1967-east-mala
+  slug: recent-archaeological-discoveries-in-malaysia-1965-east-mala
   title: 'Recent archaeological discoveries in Malaysia, 1967: East Malaysia and Brunei'
   authors:
   - Tom Harrisson
@@ -136,6 +136,7 @@ articles:
   is_review: false
 ---
 
+
 # JMBRAS Vol. 41, Part 1 (July 1968)
 
 **Series:** Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society  
@@ -150,7 +151,7 @@ articles:
 * [The grading of occupational prestige amongst the Malays in Malaysia](./the-grading-of-occupational-prestige-amongst-the-malays-in-m.md) — [Hussein, Syed Alatas](./hussein-syed-alatas.md) (pp. 146–156)
 * [A note on the Malayan legal digests](./a-note-on-the-malayan-legal-digests.md) — [M.B. Hooker](./mb-hooker.md) (pp. 157–170)
 * [Recent archaeological discoveries in Malaysia. 1967: West Malaysia](./recent-archaeological-discoveries-in-malaysia-1967-west-mala.md) — [F.L. Dunn](./fl-dunn.md), [B.A.V. Peacock](./bav-peacock.md) (pp. 171–179)
-* [Recent archaeological discoveries in Malaysia, 1967: East Malaysia and Brunei](./recent-archaeological-discoveries-in-malaysia-1967-east-mala.md) — [Tom Harrisson](./tom-harrisson.md) (pp. 180–182)
+* [Recent archaeological discoveries in Malaysia, 1967: East Malaysia and Brunei](./recent-archaeological-discoveries-in-malaysia-1965-east-mala.md) — [Tom Harrisson](./tom-harrisson.md) (pp. 180–182)
 * [The Selangor Raja School](./the-selangor-raja-school.md) — [R. Stevenson](./r-stevenson.md) (pp. 183–192)
 * [Chemical analysis of some metal objects from Chandi Bukit Batu Pahat, Kedah: suggested origin and date](./chemical-analysis-of-some-metal-objects-from-chandi-bukit-ba.md) — [F.E. Treloar](./fe-treloar.md) (pp. 193–198)
 * [The Khmer shadow play and its links with ancient India, a possible source of the Malay shadow play of Kelantan and Trengganu](./the-khmer-shadow-play-and-its-links-with-ancient-india-a-pos.md) — [Mubin Sheppard](./mubin-sheppard.md) (pp. 199–204)

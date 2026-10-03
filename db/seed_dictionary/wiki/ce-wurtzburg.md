@@ -28,7 +28,7 @@ published: false
 - (1950) [The reminiscences of Colonel Nahuijs. C.E. Wurtzburg](./the-reminiscences-of-colonel-nahuijs-ce-wurtzburg.md). *JMBRAS* 23(3): 127–135
 - (1950) [The Baptist mission press at Bencoolen](./the-baptist-mission-press-at-bencoolen.md). *JMBRAS* 23(3): 136–142
 - (1951) [Olivia Raffles and Thomas Moore](./olivia-raffles-and-thomas-moore.md). *JMBRAS* 24(1): 173–175
-- (1952) [Raffles and the Palembang massacre](./raffles-and-the-palembang-massacre.md). *JMBRAS* 25(1): 178–180
+- (1952) [Raffles and the Palembang massacre](./raffles-and-the-massacre-at-palembang.md). *JMBRAS* 25(1): 178–180
 
 ### Reviews
 - (1949) Malaya’s first British pioneer – the life of Francis Light. H.P. Clodd. *JMBRAS* 22(1): 192–193

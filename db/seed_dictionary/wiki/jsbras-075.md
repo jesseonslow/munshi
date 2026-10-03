@@ -23,7 +23,7 @@ status: stub
 published: false
 articles:
 - id: jsbras-75-1-p5
-  slug: new-and-rare-malayan-plants
+  slug: new-or-rare-malayan-plants
   title: New and rare Malayan plants
   authors:
   - H.N. Ridley
@@ -67,13 +67,14 @@ articles:
   is_review: false
 ---
 
+
 # JSBRAS No. 75 (April 1917)
 
 **Series:** Journal of the Straits Branch of the Royal Asiatic Society  
 **Date:** April 1917
 
 ## Table of Contents
-* [New and rare Malayan plants](./new-and-rare-malayan-plants.md) — [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 5–38)
+* [New and rare Malayan plants](./new-or-rare-malayan-plants.md) — [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 5–38)
 * [A curious adaptation of habit to environment of a Malayan mosquito](./a-curious-adaptation-of-habit-to-environment-of-a-malayan-mo.md) — [C. Strickland](./c-strickland.md) (pp. 39)
 * [Elaeocarpus barnardii, a new species described from Perak](./elaeocarpus-barnardii-a-new-species-described-from-perak.md) — [I.H. Burkill](./ih-burkill.md) (pp. 41)
 * [Notes on Dipterocarps. {No. 1} The seedling of Anisoptera cosgata, Korth](./notes-on-dipterocarps-no-1-the-seedling-of-anisoptera-cosgat.md) — [I.H. Burkill](./ih-burkill.md) (pp. 43–48)

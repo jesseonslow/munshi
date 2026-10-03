@@ -20,7 +20,15 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+aliases:
+- The Study of Ancient Times in the Malay Peninsula and Straits of Malacca
+reprints:
+- series: null
+  volume: R07
+  year: 1989
+  absorbed_slug: the-study-of-ancient-times-in-the-malay-peninsula-and-straits-of-malacca
 ---
+
 
 # An introduction to the study of ancient times in the Malay Peninsula and the Straits of Malacca
 

@@ -26,7 +26,7 @@ published: false
 - (1924) [Some birds of Christmas Island (Indian Ocean). F.N. Chasen and C.B. Kloss. Records of the Raffles Museum, No. 4](./some-birds-of-christmas-island-indian-ocean-fn-chasen-and-cb.md). *JMBRAS* 2(1): 65–68
 - (1924) [Bird notes. Records of the Raffles Museum, No. 5](./bird-notes-records-of-the-raffles-museum-no-5.md). *JMBRAS* 2(1): 68–70
 - (1925) [On some colour patterns of the young Malay rusa (Cervus unicolor equinus). Records of the Raffles Museum, No. 9](./on-some-colour-patterns-of-the-young-malay-rusa-cervus-unico.md). *JMBRAS* 3(1): 89–91
-- (1925) [Notes on the fauna of Pulau Galang, Rhio Archipelago. Records of the Raffles Museum, No. 10](./notes-on-the-fauna-of-pulau-galang-rhio-archipelago-records-.md). *JMBRAS* 3(1): 92–97
+- (1925) [Notes on the fauna of Pulau Galang, Rhio Archipelago. Records of the Raffles Museum, No. 10](./notes-on-the-fauna-of-pulau-bulan-rhio-archipelago-records-o.md). *JMBRAS* 3(1): 92–97
 - (1925) [Remarks on the black and red squirrels allied to Sciurus prevosti. F.N. Chasen and C.B. Kloss. Records of the Raffles Museum, No. 11](./remarks-on-the-black-and-red-squirrels-allied-to-sciurus-pre.md). *JMBRAS* 3(1): 97–99
 - (1925) [On the introduction of the Australian skink into Singapore Island. Records of the Raffles Museum, No. 12](./on-the-introduction-of-the-australian-skink-into-singapore-i.md). *JMBRAS* 3(1): 99–101
 - (1925) [Bird notes. F.N. Chasen and C.B. Kloss. Records of the Raffles Museum, No. 13](./bird-notes-fn-chasen-and-cb-kloss-records-of-the-raffles-mus.md). *JMBRAS* 3(1): 101–103

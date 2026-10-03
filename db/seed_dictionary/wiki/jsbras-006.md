@@ -41,7 +41,7 @@ articles:
   pages: 203–223
   is_review: false
 - id: jsbras-6-1-p215
-  slug: a-contribution-to-malayan-bibliography-pt-ii
+  slug: a-contribution-to-malayan-bibliography
   title: A contribution to Malayan bibliography. Pt. II
   authors:
   - N.B. Dennys
@@ -64,6 +64,7 @@ articles:
   is_review: false
 ---
 
+
 # JSBRAS No. 6 (December 1880)
 
 **Series:** Journal of the Straits Branch of the Royal Asiatic Society  
@@ -72,7 +73,7 @@ articles:
 ## Table of Contents
 * [Some account of the independent native states of the Malay Peninsula, especially of the circumstances which led to the more intimate relations recently adopted towards some of them by the British Government](./some-account-of-the-independent-native-states-of-the-malay-p.md) — [Swettenham, F.A.](./sir-frank-swettenham.md) (pp. 161–202)
 * [The ruins of Boro Budur in Java](./the-ruins-of-boro-budur-in-java.md) — [C. Hose](./c-hose.md) (pp. 203–223)
-* [A contribution to Malayan bibliography. Pt. II](./a-contribution-to-malayan-bibliography-pt-ii.md) — [N.B. Dennys](./nicholas-belfield-dennys.md) (pp. 215–272)
+* [A contribution to Malayan bibliography. Pt. II](./a-contribution-to-malayan-bibliography.md) — [N.B. Dennys](./nicholas-belfield-dennys.md) (pp. 215–272)
 * [Report on the exploration of the caves of Borneo. A.H. Everett, Introductory remarks J. Evans, and notes on bones collected G. Busk](./report-on-the-exploration-of-the-caves-of-borneo-ah-everett-.md) — [A.H. Everett](./ah-everett.md) (pp. 273–287)
 * [A Sea Dyak tradition of the deluge and consequent events](./a-sea-dyak-tradition-of-the-deluge-and-consequent-events.md) — [J. Perham](./j-perham.md) (pp. 289–291)
 

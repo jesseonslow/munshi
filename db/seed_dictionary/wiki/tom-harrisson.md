@@ -45,9 +45,9 @@ published: false
 - (1966) [A golden kris handle from Balingian, Sarawak](./a-golden-kris-handle-from-balingian-sarawak.md). *JMBRAS* 39(1): 175–181
 - (1966) [Recent archaeological discoveries in Malaysia, 1965: East Malaysia and Brunei](./recent-archaeological-discoveries-in-malaysia-1965-east-mala.md). *JMBRAS* 39(1): 191–197
 - (1967) [Ethnological notes on the Muruts of the Sapulut River, Sabah](./ethnological-notes-on-the-muruts-of-the-sapulut-river-sabah.md). *JMBRAS* 40(1): 111–129
-- (1967) [Recent archaeological discoveries in East Malaysia and Brunei](./recent-archaeological-discoveries-in-east-malaysia-and-brune.md). *JMBRAS* 40(1): 140–148
+- (1967) [Recent archaeological discoveries in East Malaysia and Brunei](./recent-archaeological-discoveries-in-malaysia-1965-east-mala.md). *JMBRAS* 40(1): 140–148
 - (1968) [Magala – a series of Neolithic and Metal Age burial grottos at Sekaloh, Niah, Sarawak](./magala-a-series-of-neolithic-and-metal-age-burial-grottos-at.md). *JMBRAS* 41(2): 148–175
-- (1968) [Recent archaeological discoveries in Malaysia, 1967: East Malaysia and Brunei](./recent-archaeological-discoveries-in-malaysia-1967-east-mala.md). *JMBRAS* 41(1): 180–182
+- (1968) [Recent archaeological discoveries in Malaysia, 1967: East Malaysia and Brunei](./recent-archaeological-discoveries-in-malaysia-1965-east-mala.md). *JMBRAS* 41(1): 180–182
 - (1971) [Prehistoric double-spouted vessels excavated from Niah Caves, Borneo](./prehistoric-double-spouted-vessels-excavated-from-niah-caves.md). *JMBRAS* 44(2): 35–78
 - (1971) [Gold-foil burial amulets in Bali, Philippines and Borneo. S.J. O’Connor and T. Harrisson](./gold-foil-burial-amulets-in-bali-philippines-and-borneo-sj-o.md). *JMBRAS* 44(1): 70–77
 - (1972) [The advent of Islam to west and north Borneo: an attempted reconstruction of some possible sequences](./the-advent-of-islam-to-west-and-north-borneo-an-attempted-re.md). *JMBRAS* 45(1): 10–20

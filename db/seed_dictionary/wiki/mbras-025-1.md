@@ -128,7 +128,7 @@ articles:
   pages: 177–178
   is_review: false
 - id: jmbras-25-1-p178
-  slug: raffles-and-the-palembang-massacre
+  slug: raffles-and-the-massacre-at-palembang
   title: Raffles and the Palembang massacre
   authors:
   - C.E. Wurtzburg
@@ -164,6 +164,7 @@ articles:
   is_review: false
 ---
 
+
 # JMBRAS Vol. 25, Part 1 (August 1952)
 
 **Series:** Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society  
@@ -182,7 +183,7 @@ articles:
 * [Chinese rites for the repose of the soul; with special reference to Cantonese custom](./chinese-rites-for-the-repose-of-the-soul-with-special-refere.md) — [M. Topley](./m-topley.md) (pp. 149–160)
 * [The Orang Laut of the Singapore River and the sampan panjang](./the-orang-laut-of-the-singapore-river-and-the-sampan-panjang.md) — [C.A. Gibson-Hill](./carl-alexander-gibson-hill.md) (pp. 161–174)
 * [A possible origin of the Jong stories](./a-possible-origin-of-the-jong-stories.md) — [C.A. Gibson-Hill](./carl-alexander-gibson-hill.md) (pp. 177–178)
-* [Raffles and the Palembang massacre](./raffles-and-the-palembang-massacre.md) — [C.E. Wurtzburg](./ce-wurtzburg.md) (pp. 178–180)
+* [Raffles and the Palembang massacre](./raffles-and-the-massacre-at-palembang.md) — [C.E. Wurtzburg](./ce-wurtzburg.md) (pp. 178–180)
 * [A curious word from North Borneo](./a-curious-word-from-north-borneo.md) — [I.H.N. Evans](./ivor-hugh-norman-evans.md) (pp. 180–181)
 * [Recent archaeological discoveries in Malaya (1951](./recent-archaeological-discoveries-in-malaya-1951.md) — [P.D.R. Williams-Hunt](./pdr-williams-hunt.md) (pp. 181–190)
 * *Population growth in Malaya – a survey of recent trends. T.E. Smith* — [You Poh Seng](./you-poh-seng.md) (pp. 190–193) [Review]

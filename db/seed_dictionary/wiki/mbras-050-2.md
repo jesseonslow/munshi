@@ -68,7 +68,7 @@ articles:
   pages: 89–110
   is_review: false
 - id: jmbras-50-2-p111
-  slug: singapores-pauper-and-tan-tock-seng-hospitals-part-iv
+  slug: singapores-pauper-and-tan-tock-seng-hospitals-part-i
   title: Singapore’s pauper and Tan Tock Seng hospitals. Part IV
   authors:
   - Y.K. Lee
@@ -97,6 +97,7 @@ articles:
   is_review: true
 ---
 
+
 # JMBRAS Vol. 50, Part 2 (December 1977)
 
 **Series:** Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society  
@@ -108,7 +109,7 @@ articles:
 * [A comparative linguistic study of three Malayan aborigine tribes](./a-comparative-linguistic-study-of-three-malayan-aborigine-tr.md) — [P.B. Means](./pb-means.md) (pp. 46–68)
 * [Patani and the development of a Thai state](./patani-and-the-development-of-a-thai-state.md) — [M.L. Koch](./ml-koch.md) (pp. 69–88)
 * [Mineral production on the east coast of Malaya in the nineteenth century](./mineral-production-on-the-east-coast-of-malaya-in-the-ninete.md) — [N.N. Dodge](./nn-dodge.md) (pp. 89–110)
-* [Singapore’s pauper and Tan Tock Seng hospitals. Part IV](./singapores-pauper-and-tan-tock-seng-hospitals-part-iv.md) — [Y.K. Lee](./yk-lee.md) (pp. 111–135)
+* [Singapore’s pauper and Tan Tock Seng hospitals. Part IV](./singapores-pauper-and-tan-tock-seng-hospitals-part-i.md) — [Y.K. Lee](./yk-lee.md) (pp. 111–135)
 * [Social change in Rembau](./social-change-in-rembau.md) — [Norhalim bin Hj. Ibrahim](./norhalim-bin-hj-ibrahim.md) (pp. 136–149)
 * [Nanchang padi: symbolism of Saribas Iban first rites of harvest](./nanchang-padi-symbolism-of-saribas-iban-first-rites-of-harve.md) — [C. Sather](./c-sather.md) (pp. 150–170)
 * *Origins of a colonial economy. Lim Teck Ghee* — [K.S. Jomo](./ks-jomo.md) (pp. 175–178) [Review]

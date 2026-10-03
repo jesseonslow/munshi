@@ -31,7 +31,7 @@ published: false
 - (1878) [“Pidgin” English](./pidgin-english.md). *JSBRAS* 2: 168–174
 - (1878) [Capture of a specimen of Ophiophagus elaps](./capture-of-a-specimen-of-ophiophagus-elaps.md). *JSBRAS* 2: 233–235
 - (1880) [A contribution to Malayan bibliography](./a-contribution-to-malayan-bibliography.md). *JSBRAS* 5: 69–123
-- (1880) [A contribution to Malayan bibliography. Pt. II](./a-contribution-to-malayan-bibliography-pt-ii.md). *JSBRAS* 6: 215–272
+- (1880) [A contribution to Malayan bibliography. Pt. II](./a-contribution-to-malayan-bibliography.md). *JSBRAS* 6: 215–272
 - (1882) [Python’s egg](./pythons-egg.md). *JSBRAS* 9: 161–162
 - (1882) [Flying lizard](./flying-lizard.md). *JSBRAS* 9: 162–163
 - (1882) [Flowering banana](./flowering-banana.md). *JSBRAS* 9: 163

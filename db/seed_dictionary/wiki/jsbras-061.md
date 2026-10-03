@@ -21,7 +21,7 @@ status: stub
 published: false
 articles:
 - id: jsbras-61-1-p1
-  slug: new-and-rare-malayan-plants
+  slug: new-or-rare-malayan-plants
   title: New and rare Malayan plants
   authors:
   - H.N. Ridley
@@ -57,13 +57,14 @@ articles:
   is_review: false
 ---
 
+
 # JSBRAS No. 61 (June 1912)
 
 **Series:** Journal of the Straits Branch of the Royal Asiatic Society  
 **Date:** June 1912
 
 ## Table of Contents
-* [New and rare Malayan plants](./new-and-rare-malayan-plants.md) — [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 1–43)
+* [New and rare Malayan plants](./new-or-rare-malayan-plants.md) — [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 1–43)
 * [A botanical excursion to Pulau Adang](./a-botanical-excursion-to-pulau-adang.md) — [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 45–65)
 * [The Malacca sultanate](./the-malacca-sultanate.md) — [R.J. Wilkinson](./richard-james-wilkinson.md) (pp. 67–71)
 * [The capture of Malacca, A.D. 1511](./the-capture-of-malacca-ad-1511.md) — [R.J. Wilkinson](./richard-james-wilkinson.md) (pp. 71–76)

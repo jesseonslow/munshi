@@ -84,7 +84,7 @@ articles:
   pages: 156–163
   is_review: false
 - id: jmbras-49-2-p164
-  slug: singapores-pauper-and-tan-tock-seng-hospitals-part-iii
+  slug: singapores-pauper-and-tan-tock-seng-hospitals-part-i
   title: Singapore’s pauper and Tan Tock Seng hospitals. Part III
   authors:
   - Y.K. Lee
@@ -99,6 +99,7 @@ articles:
   is_review: false
 ---
 
+
 # JMBRAS Vol. 49, Part 2 (December 1976)
 
 **Series:** Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society  
@@ -112,7 +113,7 @@ articles:
 * [The Trengganu inscription in Malayan legal history](./the-trengganu-inscription-in-malayan-legal-history.md) — [M.B. Hooker](./mb-hooker.md) (pp. 127–131)
 * [The origin of the kangchu system, 1740–1860](./the-origin-of-the-kangchu-system-17401860.md) — [C.A. Trocki](./ca-trocki.md) (pp. 132–155)
 * [Several musical forms of Sabah, Malaysia](./several-musical-forms-of-sabah-malaysia.md) — [E.M. Frame](./em-frame.md) (pp. 156–163)
-* [Singapore’s pauper and Tan Tock Seng hospitals. Part III](./singapores-pauper-and-tan-tock-seng-hospitals-part-iii.md) — [Y.K. Lee](./yk-lee.md) (pp. 164–183)
+* [Singapore’s pauper and Tan Tock Seng hospitals. Part III](./singapores-pauper-and-tan-tock-seng-hospitals-part-i.md) — [Y.K. Lee](./yk-lee.md) (pp. 164–183)
 * [Minor reports concerning Negritos in Northern Pahang](./minor-reports-concerning-negritos-in-northern-pahang.md) — [R. Needham](./r-needham.md) (pp. 184–193)
 
 ## Contributors

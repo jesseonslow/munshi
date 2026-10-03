@@ -39,7 +39,7 @@ status: stub
 published: false
 articles:
 - id: jmbras-23-notes-on-ancient-times-in-mala
-  slug: notes-on-ancient-times-in-malaya-part-6
+  slug: notes-on-ancient-times-in-malaya-part-1
   title: Notes on ancient times in Malaya. {Part 6
   authors:
   - R. Braddell
@@ -140,13 +140,14 @@ articles:
   is_review: false
 ---
 
+
 # JMBRAS Vol. 23, Part 1 (February 1950)
 
 **Series:** Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society  
 **Date:** February 1950
 
 ## Table of Contents
-* [Notes on ancient times in Malaya. {Part 6](./notes-on-ancient-times-in-malaya-part-6.md) — [R. Braddell](./r-braddell.md)
+* [Notes on ancient times in Malaya. {Part 6](./notes-on-ancient-times-in-malaya-part-1.md) — [R. Braddell](./r-braddell.md)
 * [Lung-yaumen and Tan-Mah-hsi](./lung-yaumen-and-tan-mah-hsi.md) — [R. Braddell](./r-braddell.md) (pp. 37–51)
 * [Governor Bannerman and the Penang tin scheme, 1818–19](./governor-bannerman-and-the-penang-tin-scheme-181819.md) — [C.D. Cowan](./cd-cowan.md) (pp. 52–83)
 * [Munshi Abdullah’s account of the Malacca Fort. A.H. Hill](./munshi-abdullahs-account-of-the-malacca-fort-ah-hill.md) — [Abdullah bin Abdul Kadir Munshi](./abdullah-bin-abdul-kadir-munshi.md), [A.H. Hill](./anthony-haydock-hill.md) (pp. 84–99)

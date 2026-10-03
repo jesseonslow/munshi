@@ -18,7 +18,15 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+aliases:
+- Recollections of my time in Malaya (1945–1956) Part 3
+reprints:
+- series: JMBRAS
+  volume: 87
+  year: 2014
+  absorbed_slug: recollections-of-my-time-in-malaya-19451956-part-3
 ---
+
 
 # Recollections of my time in Malaya (1945–1956) Part 2
 

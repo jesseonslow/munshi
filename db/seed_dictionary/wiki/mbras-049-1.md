@@ -57,7 +57,7 @@ articles:
   pages: 89–112
   is_review: false
 - id: jmbras-49-1-p113
-  slug: singapores-pauper-and-tan-tock-seng-hospitals-part-ii
+  slug: singapores-pauper-and-tan-tock-seng-hospitals-part-i
   title: Singapore’s pauper and Tan Tock Seng hospitals. Part II
   authors:
   - Y.K. Lee
@@ -115,6 +115,7 @@ articles:
   is_review: true
 ---
 
+
 # JMBRAS Vol. 49, Part 1 (August 1976)
 
 **Series:** Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society  
@@ -124,7 +125,7 @@ articles:
 * [Ngaju-Bajau: significant early term usages in Southeast Asia (especially Malaysia](./ngaju-bajau-significant-early-term-usages-in-southeast-asia-.md) — [Tom Harrisson](./tom-harrisson.md) (pp. 1–14)
 * [The Pak Pandir cycle of tales](./the-pak-pandir-cycle-of-tales.md) — [A. Sweeney](./amin-sweeney.md) (pp. 15–88)
 * [Sir Hugh Clifford’s early career (1866–1903) as told from his private papers](./sir-hugh-cliffords-early-career-18661903-as-told-from-his-pr.md) — [A.J. Stockwell](./aj-stockwell.md) (pp. 89–112)
-* [Singapore’s pauper and Tan Tock Seng hospitals. Part II](./singapores-pauper-and-tan-tock-seng-hospitals-part-ii.md) — [Y.K. Lee](./yk-lee.md) (pp. 113–133)
+* [Singapore’s pauper and Tan Tock Seng hospitals. Part II](./singapores-pauper-and-tan-tock-seng-hospitals-part-i.md) — [Y.K. Lee](./yk-lee.md) (pp. 113–133)
 * [Notes relating to Admiral Cheng Ho’s expeditions. Il](./notes-relating-to-admiral-cheng-hos-expeditions-il.md) — [Hsu Yun-ts'iao](./hsu-yun-tsiao.md) (pp. 134–140)
 * [Some notes on the origin and development of naubat](./some-notes-on-the-origin-and-development-of-naubat.md) — [A. Seljuq](./a-seljuq.md) (pp. 141–142)
 * [Tom Harrisson, ornithologist](./tom-harrisson-ornithologist.md) — [Gathorne Gathorne-Hardy, Lord (Earl of Cranbrook) Medway](./gathorne-gathorne-hardy-lord-earl-of-cranbrook-medway.md) (pp. 143–144)

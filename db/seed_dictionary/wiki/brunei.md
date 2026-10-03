@@ -87,7 +87,7 @@ published: false
 
 ### Antiquities
 
-- [Tom Harrisson](./tom-harrisson.md) (1967). [Recent archaeological discoveries in East Malaysia and Brunei](./recent-archaeological-discoveries-in-east-malaysia-and-brune.md). *JMBRAS* 40: 140–148
+- [Tom Harrisson](./tom-harrisson.md) (1967). [Recent archaeological discoveries in East Malaysia and Brunei](./recent-archaeological-discoveries-in-malaysia-1965-east-mala.md). *JMBRAS* 40: 140–148
 - [Tom Harrisson](./tom-harrisson.md) (1972). [The Brunei museum](./the-brunei-museum.md). *JMBRAS* 45: 119–120
 - [Tom Harrisson](./tom-harrisson.md) (1972). [Radio carbon (C–14) dates from Kota Batu, Brunei – back to 12,500 B.C](./radio-carbon-c14-dates-from-kota-batu-brunei-back-to-12500-b.md). *JMBRAS* 45: 111–115
 - Hughes-Hallett, H.R. Mysterious find in Brunei. MB 16(1)

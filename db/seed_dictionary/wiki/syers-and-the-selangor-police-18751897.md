@@ -18,7 +18,15 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+aliases:
+- Syers and the Selangor Police 1875  - 1897
+reprints:
+- series: null
+  volume: R05
+  year: 1978
+  absorbed_slug: syers-and-the-selangor-police-1875-1897
 ---
+
 
 # Syers and the Selangor Police, 1875–1897
 

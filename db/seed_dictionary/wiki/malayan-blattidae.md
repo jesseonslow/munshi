@@ -18,7 +18,15 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+aliases:
+- Malayan Blattidae. Part II
+reprints:
+- series: JMBRAS
+  volume: 1
+  year: 1923
+  absorbed_slug: malayan-blattidae-part-ii
 ---
+
 
 # Malayan Blattidae
 

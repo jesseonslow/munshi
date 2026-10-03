@@ -31,16 +31,16 @@ published: false
 - (1947) [Notes on ancient times in Malaya. Part 1](./notes-on-ancient-times-in-malaya-part-1.md). *JMBRAS* 20(1): 161–186
 - (1949) [A note on Sambas and Borneo. {With notes T. Harrisson](./a-note-on-sambas-and-borneo-with-notes-t-harrisson.md). *JMBRAS* 22(4): 1–15
 - (1949) [Notes on ancient times in Malaya. {Parts 4 & 5](./notes-on-ancient-times-in-malaya-parts-4-5.md). *JMBRAS* 22(1): 1–14
-- (1950) [Notes on ancient times in Malaya. {Part 6](./notes-on-ancient-times-in-malaya-part-6.md). *JMBRAS* 23(1)
-- (1950) [Notes on ancient times in Malaya. {Part 7](./notes-on-ancient-times-in-malaya-part-7.md). *JMBRAS* 23(3): 1–35
+- (1950) [Notes on ancient times in Malaya. {Part 6](./notes-on-ancient-times-in-malaya-part-1.md). *JMBRAS* 23(1)
+- (1950) [Notes on ancient times in Malaya. {Part 7](./notes-on-ancient-times-in-malaya-part-1.md). *JMBRAS* 23(3): 1–35
 - (1950) [Lung-yaumen and Tan-Mah-hsi](./lung-yaumen-and-tan-mah-hsi.md). *JMBRAS* 23(1): 37–51
-- (1951) [Notes on ancient times in Malaya. {Part 8](./notes-on-ancient-times-in-malaya-part-8.md). *JMBRAS* 24(1): 1–27
+- (1951) [Notes on ancient times in Malaya. {Part 8](./notes-on-ancient-times-in-malaya-part-1.md). *JMBRAS* 24(1): 1–27
 - (1951) [Arikamedu and Oc-eo](./arikamedu-and-oc-eo.md). *JMBRAS* 24(3): 154–157
 - (1951) [Two notes: red gold and chiamassie](./two-notes-red-gold-and-chiamassie.md). *JMBRAS* 24(3): 157
 - (1959) [An Essex sailor](./an-essex-sailor.md). *JMBRAS* 32(1): 33–66
 - (1969) [Lung-yaumen and Tan-Mah-hsi](./lung-yaumen-and-tan-mah-hsi.md). *JMBRAS* 42(1): 10–24
 - (1980) [(‘Ancient times’ material in](./ancient-times-material-in.md). *MBRAS Reprint* 7
-- (1989) [The Study of Ancient Times in the Malay Peninsula and Straits of Malacca](./the-study-of-ancient-times-in-the-malay-peninsula-and-straits-of-malacca.md). *Reprint* 7: 522
+- (1989) [The Study of Ancient Times in the Malay Peninsula and Straits of Malacca](./an-introduction-to-the-study-of-ancient-times-in-the-malay-p.md). *Reprint* 7: 522
 
 ### Reviews
 - (1951) The making of greater India. H.G.C. Wales. *JMBRAS* 24(3): 168–177

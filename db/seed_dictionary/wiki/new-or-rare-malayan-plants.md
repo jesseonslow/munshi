@@ -18,7 +18,15 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+aliases:
+- New and rare Malayan plants
+reprints:
+- series: JSBRAS
+  volume: 86
+  year: 1922
+  absorbed_slug: new-and-rare-malayan-plants
 ---
+
 
 # New or rare Malayan plants
 

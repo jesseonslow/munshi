@@ -18,7 +18,15 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+aliases:
+- On a second collection of coins from Malacca
+reprints:
+- series: JSBRAS
+  volume: 44
+  year: 1905
+  absorbed_slug: on-a-second-collection-of-coins-from-malacca
 ---
+
 
 # On a collection of coins from Malacca
 

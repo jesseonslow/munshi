@@ -18,7 +18,20 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+aliases:
+- Notes on the meanings of some Malay words II
+- Notes on the meanings of some Malay words. Part III (Kedah words
+reprints:
+- series: JMBRAS
+  volume: 16
+  year: 1938
+  absorbed_slug: notes-on-the-meanings-of-some-malay-words-ii
+- series: JMBRAS
+  volume: 17
+  year: 1939
+  absorbed_slug: notes-on-the-meanings-of-some-malay-words-part-iii-kedah-wor
 ---
+
 
 # Notes on the meanings of some Malay words
 

@@ -43,7 +43,7 @@ status: stub
 published: false
 articles:
 - id: jsbras-86-1-p202
-  slug: new-and-rare-malayan-plants
+  slug: new-or-rare-malayan-plants
   title: New and rare Malayan plants
   authors:
   - H.N. Ridley
@@ -170,13 +170,14 @@ articles:
   is_review: false
 ---
 
+
 # JSBRAS No. 86 (November 1922)
 
 **Series:** Journal of the Straits Branch of the Royal Asiatic Society  
 **Date:** November 1922
 
 ## Table of Contents
-* [New and rare Malayan plants](./new-and-rare-malayan-plants.md) — [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 202–311)
+* [New and rare Malayan plants](./new-or-rare-malayan-plants.md) — [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 202–311)
 * [A general account of the geology of the Malay Peninsula and the surrounding countries, including Burma, the Shan States, Yunnan, Indo-China, Siam, Sumatra, Java, Borneo and other islands of the Dutch East Indies](./a-general-account-of-the-geology-of-the-malay-peninsula-and-.md) — [E.S. Willbourn](./es-willbourn.md) (pp. 237–256)
 * [The early history of Singapore, Johore and Malacca: an outline of a paper by G.P. Rouffaer](./the-early-history-of-singapore-johore-and-malacca-an-outline.md) — [G.P. Rouffaer](./gp-rouffaer.md), [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 257–260)
 * [Burong olok-olok (jester bird) is the brown gannet](./burong-olok-olok-jester-bird-is-the-brown-gannet.md) — [Hamilton A.W](./hamilton-aw.md) (pp. 260)

@@ -232,7 +232,7 @@ published: false
 - [J.M. Gullick](./john-michael-gullick.md) (2006). [On the nature of military government: the case of the BMA in Negri Sembilan](./on-the-nature-of-military-government-the-case-of-the-bma-in-.md). *JMBRAS* 79(2): 85–101
 - [J.M. Gullick](./john-michael-gullick.md) (2013). [Recollections of my time in Malaya (1945–1948) Part 1](./recollections-of-my-time-in-malaya-19451948-part-1.md). *JMBRAS* 86(2): 59–76
 - [J.M. Gullick](./john-michael-gullick.md) (2014). [Recollections of my time in Malaya (1945–1956) Part 2](./recollections-of-my-time-in-malaya-19451956-part-2.md). *JMBRAS* 87: 53–81
-- [J.M. Gullick](./john-michael-gullick.md) (2014). [Recollections of my time in Malaya (1945–1956) Part 3](./recollections-of-my-time-in-malaya-19451956-part-3.md). *JMBRAS* 87(2): 47–89
+- [J.M. Gullick](./john-michael-gullick.md) (2014). [Recollections of my time in Malaya (1945–1956) Part 3](./recollections-of-my-time-in-malaya-19451956-part-2.md). *JMBRAS* 87(2): 47–89
 - [Hara F](./hara-f.md) (2016). [Japanese soldiers who joined communist guerillas in Malaya](./japanese-soldiers-who-joined-communist-guerillas-in-malaya.md). *JMBRAS* 89(2): 67–99
 - [F.-T. Hsu](./f-t-hsu.md) (2017). [Muted speech, Apa Khabar Orang Kampung , and To Singapore, with Love](./muted-speech-apa-khabar-orang-kampung-and-to-singapore-with-.md). *JMBRAS* 90: 113–126
 - [P.H. Kratoska](./paul-h-kratoska.md) (1984). [Penghulus in Perak and Selangor: rationalisation and decline of a traditional Malay office](./penghulus-in-perak-and-selangor-rationalisation-and-decline-.md). *JMBRAS* 57(2): 31–60
@@ -274,8 +274,8 @@ published: false
 ### Historical geography
 
 - [C.O. Blagden](./co-blagden.md) (1899). [The name “Malaya”](./the-name-malaya.md). *JSBRAS* 32: 211–213
-- [R. Braddell](./r-braddell.md) (1950). [Notes on ancient times in Malaya. {Part 7](./notes-on-ancient-times-in-malaya-part-7.md). *JMBRAS* 23(3): 1–35
-- [Dato Sir Ronald Braddell](./r-braddell.md) (1989). [The Study of Ancient Times in the Malay Peninsula and Straits of Malacca](./the-study-of-ancient-times-in-the-malay-peninsula-and-straits-of-malacca.md). ** : 522
+- [R. Braddell](./r-braddell.md) (1950). [Notes on ancient times in Malaya. {Part 7](./notes-on-ancient-times-in-malaya-part-1.md). *JMBRAS* 23(3): 1–35
+- [Dato Sir Ronald Braddell](./r-braddell.md) (1989). [The Study of Ancient Times in the Malay Peninsula and Straits of Malacca](./an-introduction-to-the-study-of-ancient-times-in-the-malay-p.md). ** : 522
 - [F.W. Douglas](./fw-douglas.md) (1953). [Sabara and sabana](./sabara-and-sabana.md). *JMBRAS* 26: 212
 - [Haile N.S](./haile-ns.md) (1979). [Postulated late Cainozoic high sea levels in the Malay Peninsula](./postulated-late-cainozoic-high-sea-levels-in-the-malay-penin.md). *JMBRAS* 48: 78–88
 - [Teckwyn Lim](./teckwyn-lim.md) and [Peter Leong Yue Sek](./peter-leong-yue-sek.md) (2025). [Muddy Waters: The Lost Sungai Lumpur](./muddy-waters-the-lost-sungai-lumpur.md). *JMBRAS* 98(2): 57–91

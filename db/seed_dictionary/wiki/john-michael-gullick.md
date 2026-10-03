@@ -29,7 +29,7 @@ published: false
 - [J.M. Gullick](./john-michael-gullick.md) (1999). [List of publications. {J.M. Gullick](./list-of-publications-jm-gullick.md). *JMBRAS* 72(2): 183–16
 - [J.M. Gullick](./john-michael-gullick.md) (2013). [Recollections of my time in Malaya (1945–1948) Part 1](./recollections-of-my-time-in-malaya-19451948-part-1.md). *JMBRAS* 86(2): 59–76
 - [J.M. Gullick](./john-michael-gullick.md) (2014). [Recollections of my time in Malaya (1945–1956) Part 2](./recollections-of-my-time-in-malaya-19451956-part-2.md). *JMBRAS* 87: 53–81
-- [J.M. Gullick](./john-michael-gullick.md) (2014). [Recollections of my time in Malaya (1945–1956) Part 3](./recollections-of-my-time-in-malaya-19451956-part-3.md). *JMBRAS* 87(2): 47–89
+- [J.M. Gullick](./john-michael-gullick.md) (2014). [Recollections of my time in Malaya (1945–1956) Part 3](./recollections-of-my-time-in-malaya-19451956-part-2.md). *JMBRAS* 87(2): 47–89
 
 ## Bibliography
 - (1949) [Sungei Ujong](./sungei-ujong.md). *JMBRAS* 22(2): 1–69
@@ -45,7 +45,7 @@ published: false
 - (1975) [Selangor, 1876–82: the Bloomfield Douglas diary](./selangor-187682-the-bloomfield-douglas-diary.md). *JMBRAS* 48(2): 1–51
 - (1976) [The Tampin succession](./the-tampin-succession.md). *JMBRAS* 49(2): 1–35
 - (1978) [Syers and the Selangor Police, 1875–1897](./syers-and-the-selangor-police-18751897.md). *JMBRAS* 51(2): 1–57
-- (1978) [Syers and the Selangor Police 1875 – 1897](./syers-and-the-selangor-police-1875-1897.md). *Reprint* 5: 57
+- (1978) [Syers and the Selangor Police 1875 – 1897](./syers-and-the-selangor-police-18751897.md). *Reprint* 5: 57
 - (1979) [Isabella Bird’s visit to Malaya: a centenary tribute](./isabella-birds-visit-to-malaya-a-centenary-tribute.md). *JMBRAS* 52(2): 113–119
 - (1981) [Law and the adat perpateh: a problem from Jelebu](./law-and-the-adat-perpateh-a-problem-from-jelebu.md). *JMBRAS* 54(1): 7–20
 - (1982) [Emily Innes, 1843–1927](./emily-innes-18431927.md). *JMBRAS* 55(2): 87–114
@@ -87,7 +87,7 @@ published: false
 - (2010) [The economy of Perak in the mid-1870s](./the-economy-of-perak-in-the-mid-1870s.md). *JMBRAS* 83(2): 27–46
 - (2012) [The builders](./the-builders.md). *JMBRAS* 85(2): 79–98
 - (2013) [Recollections of my time in Malaya (1945–1948) Part 1](./recollections-of-my-time-in-malaya-19451948-part-1.md). *JMBRAS* 86(2): 59–76
-- (2014) [Recollections of my time in Malaya (1945–1956) Part 3](./recollections-of-my-time-in-malaya-19451956-part-3.md). *JMBRAS* 87(2): 47–89
+- (2014) [Recollections of my time in Malaya (1945–1956) Part 3](./recollections-of-my-time-in-malaya-19451956-part-2.md). *JMBRAS* 87(2): 47–89
 - (2014) [Recollections of my time in Malaya (1945–1956) Part 2](./recollections-of-my-time-in-malaya-19451956-part-2.md). *JMBRAS* 87(1): 53–81
 - (2017) [William George Maxwell: a biographical note](./william-george-maxwell-a-biographical-note.md). *JMBRAS* 90(2): 117–126
 - (2022) [Sejarah Selangor 1766 – 1939](./sejarah-selangor-1766-1939.md). *Monograph* 3: 344

@@ -20,7 +20,16 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+aliases:
+- Notes on the fauna of Pulau Galang, Rhio Archipelago. Records of the Raffles Museum,
+  No. 10
+reprints:
+- series: JMBRAS
+  volume: 3
+  year: 1925
+  absorbed_slug: notes-on-the-fauna-of-pulau-galang-rhio-archipelago-records-
 ---
+
 
 # Notes on the fauna of Pulau Bulan, Rhio Archipelago. Records of the Raffles Museum, No. 2
 

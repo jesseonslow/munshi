@@ -18,7 +18,25 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+aliases:
+- Singapore’s pauper and Tan Tock Seng hospitals. Part II
+- Singapore’s pauper and Tan Tock Seng hospitals. Part III
+- Singapore’s pauper and Tan Tock Seng hospitals. Part IV
+reprints:
+- series: JMBRAS
+  volume: 49
+  year: 1976
+  absorbed_slug: singapores-pauper-and-tan-tock-seng-hospitals-part-ii
+- series: JMBRAS
+  volume: 49
+  year: 1976
+  absorbed_slug: singapores-pauper-and-tan-tock-seng-hospitals-part-iii
+- series: JMBRAS
+  volume: 50
+  year: 1977
+  absorbed_slug: singapores-pauper-and-tan-tock-seng-hospitals-part-iv
 ---
+
 
 # Singapore’s pauper and Tan Tock Seng hospitals. Part I
 

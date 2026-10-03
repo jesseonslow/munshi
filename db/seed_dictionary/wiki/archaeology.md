@@ -80,7 +80,7 @@ published: false
 - [R. Braddell](./r-braddell.md) and [Tom Harrisson](./tom-harrisson.md) (1949). [A note on Sambas and Borneo. {With notes T. Harrisson](./a-note-on-sambas-and-borneo-with-notes-t-harrisson.md). *JMBRAS* 22(4): 1–15
 - [Harrisson B](./harrisson-b.md) (1977). [Tom Harrisson’s unpublished legacy on Niah](./tom-harrissons-unpublished-legacy-on-niah.md). *JMBRAS* 50: 41–51
 - [Tom Harrisson](./tom-harrisson.md) (1949). [Gold and Indian influences in west Borneo](./gold-and-indian-influences-in-west-borneo.md). *JMBRAS* 22(4): 33–110
-- [Tom Harrisson](./tom-harrisson.md) (1967). [Recent archaeological discoveries in East Malaysia and Brunei](./recent-archaeological-discoveries-in-east-malaysia-and-brune.md). *JMBRAS* 40: 140–148
+- [Tom Harrisson](./tom-harrisson.md) (1967). [Recent archaeological discoveries in East Malaysia and Brunei](./recent-archaeological-discoveries-in-malaysia-1965-east-mala.md). *JMBRAS* 40: 140–148
 - [Tom Harrisson](./tom-harrisson.md) (1971). [Prehistoric double-spouted vessels excavated from Niah Caves, Borneo](./prehistoric-double-spouted-vessels-excavated-from-niah-caves.md). *JMBRAS* 44(2): 35–78
 - [K.A. Nilakanta Sastri](./k-a-nilakanta-sastri.md) (1949). [A note on the Sambas finds](./a-note-on-the-sambas-finds.md). *JMBRAS* 22(4): 16–19
 - [W.G.H. Solheim](./wgh-solheim.md) (1977). [The Niah research program](./the-niah-research-program.md). *JMBRAS* 50: 28–40

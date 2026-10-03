@@ -17,7 +17,7 @@ status: stub
 published: false
 articles:
 - id: jmbras-1-3-p393
-  slug: malayan-blattidae-part-ii
+  slug: malayan-blattidae
   title: Malayan Blattidae. Part II
   authors:
   - Hanitsch R
@@ -25,13 +25,14 @@ articles:
   is_review: false
 ---
 
+
 # JMBRAS Vol. 1, Part 3 (December 1923)
 
 **Series:** Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society  
 **Date:** December 1923
 
 ## Table of Contents
-* [Malayan Blattidae. Part II](./malayan-blattidae-part-ii.md) — [Hanitsch R](./hanitsch-r.md) (pp. 393–474)
+* [Malayan Blattidae. Part II](./malayan-blattidae.md) — [Hanitsch R](./hanitsch-r.md) (pp. 393–474)
 
 ## Contributors
 * [Hanitsch R](./hanitsch-r.md)

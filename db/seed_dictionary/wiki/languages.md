@@ -136,7 +136,7 @@ published: false
 
 #### Notes on individual Malay Words
 
-- [J.A. Baker](./ja-baker.md) (1939). [Notes on the meanings of some Malay words. Part III (Kedah words](./notes-on-the-meanings-of-some-malay-words-part-iii-kedah-wor.md). *JMBRAS* 17: 107–120
+- [J.A. Baker](./ja-baker.md) (1939). [Notes on the meanings of some Malay words. Part III (Kedah words](./notes-on-the-meanings-of-some-malay-words.md). *JMBRAS* 17: 107–120
 - [C.O. Blagden](./co-blagden.md) (1928). [Notes on some Malay words](./notes-on-some-malay-words.md). *JMBRAS* 6(4): 36–40
 - [R.N. Bland](./rn-bland.md) and [Hale A](./hale-a.md) (1886). [Currency, Negri Sembilan](./currency-negri-sembilan.md). *JSBRAS* 18: 356–357
 - [W. Cameron](./w-cameron.md) and [H.N. Ridley](./henry-nicholas-ridley.md) (1899). [Bekin](./bekin.md). *JSBRAS* 32: 217

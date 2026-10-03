@@ -64,13 +64,14 @@ articles:
   pages: 44–46
   is_review: false
 - id: jmbras-16-2-p47
-  slug: notes-on-the-meanings-of-some-malay-words-ii
+  slug: notes-on-the-meanings-of-some-malay-words
   title: Notes on the meanings of some Malay words II
   authors:
   - J.A. Baker
   pages: 47–50
   is_review: false
 ---
+
 
 # JMBRAS Vol. 16, Part 2 (December 1938)
 
@@ -84,7 +85,7 @@ articles:
 * [Origin of the Malay keris](./origin-of-the-malay-keris.md) — [G.C. Woolley](./gc-woolley.md) (pp. 36–39)
 * [A new book on the keris](./a-new-book-on-the-keris.md) — [G.C. Woolley](./gc-woolley.md) (pp. 40–43)
 * [Keris measurements](./keris-measurements.md) — [G.C. Woolley](./gc-woolley.md) (pp. 44–46)
-* [Notes on the meanings of some Malay words II](./notes-on-the-meanings-of-some-malay-words-ii.md) — [J.A. Baker](./ja-baker.md) (pp. 47–50)
+* [Notes on the meanings of some Malay words II](./notes-on-the-meanings-of-some-malay-words.md) — [J.A. Baker](./ja-baker.md) (pp. 47–50)
 
 ## Contributors
 * [G.C. Woolley](./gc-woolley.md)

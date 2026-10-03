@@ -65,7 +65,7 @@ published: false
 - [J.M. Gullick](./john-michael-gullick.md) (2008). [The making of a monarch: Raja Muda Sulaiman of Selangor 1865-98](./the-making-of-a-monarch-raja-muda-sulaiman-of-selangor-1865-.md). *JMBRAS* 81(2): 1–18
 - [J.M. Gullick](./john-michael-gullick.md) (2013). [Recollections of my time in Malaya (1945–1948) Part 1](./recollections-of-my-time-in-malaya-19451948-part-1.md). *JMBRAS* 86(2): 59–76
 - [J.M. Gullick](./john-michael-gullick.md) (2014). [Recollections of my time in Malaya (1945–1956) Part 2](./recollections-of-my-time-in-malaya-19451956-part-2.md). *JMBRAS* 87: 53–81
-- [J.M. Gullick](./john-michael-gullick.md) (2014). [Recollections of my time in Malaya (1945–1956) Part 3](./recollections-of-my-time-in-malaya-19451956-part-3.md). *JMBRAS* 87(2): 47–89
+- [J.M. Gullick](./john-michael-gullick.md) (2014). [Recollections of my time in Malaya (1945–1956) Part 3](./recollections-of-my-time-in-malaya-19451956-part-2.md). *JMBRAS* 87(2): 47–89
 - [J.M. Gullick](./john-michael-gullick.md) (2017). [William George Maxwell: a biographical note](./william-george-maxwell-a-biographical-note.md). *JMBRAS* 90(2): 117–126
 - [Huang Jianli](./huang-jianli.md) (2009). [Shifting culture and identity: three portraits of Singapore entrepreneur Lee Kong Chian (1893–1967). Il](./shifting-culture-and-identity-three-portraits-of-singapore-e.md). *JMBRAS* 82: 71–100
 - Josselin de Jong, P.E. Who’s Who in the Malay Annals. MB 34(2)

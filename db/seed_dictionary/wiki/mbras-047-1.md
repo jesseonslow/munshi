@@ -92,13 +92,14 @@ articles:
   pages: 110–111
   is_review: false
 - id: jmbras-47-1-p112
-  slug: the-antiquity-of-domesticated-pigs-in-sarawak-corrigenda
+  slug: the-antiquity-of-domesticated-pigs-in-sarawak
   title: The antiquity of domesticated pigs in Sarawak (Corrigenda
   authors:
   - Gathorne Gathorne-Hardy, Lord (Earl of Cranbrook) Medway
   pages: '112'
   is_review: false
 ---
+
 
 # JMBRAS Vol. 47, Part 1 (July 1974)
 
@@ -114,7 +115,7 @@ articles:
 * [A note on the Makara balustrade at Malacca](./a-note-on-the-makara-balustrade-at-malacca.md) — [Piriya Krairiksh](./piriya-krairiksh.md) (pp. 96–103)
 * [The megaliths in East Malaysia II: stone urns from the Kelabit Highlands, Sarawak](./the-megaliths-in-east-malaysia-ii-stone-urns-from-the-kelabi.md) — [Tom Harrisson](./tom-harrisson.md) (pp. 105–109)
 * [The origin of the “tulang mawas”](./the-origin-of-the-tulang-mawas.md) — [H.G.Q. Wales](./horace-geoffrey-quaritch-wales.md) (pp. 110–111)
-* [The antiquity of domesticated pigs in Sarawak (Corrigenda](./the-antiquity-of-domesticated-pigs-in-sarawak-corrigenda.md) — [Gathorne Gathorne-Hardy, Lord (Earl of Cranbrook) Medway](./gathorne-gathorne-hardy-lord-earl-of-cranbrook-medway.md) (pp. 112)
+* [The antiquity of domesticated pigs in Sarawak (Corrigenda](./the-antiquity-of-domesticated-pigs-in-sarawak.md) — [Gathorne Gathorne-Hardy, Lord (Earl of Cranbrook) Medway](./gathorne-gathorne-hardy-lord-earl-of-cranbrook-medway.md) (pp. 112)
 
 ## Contributors
 * [Abdul Latif bin Haji Ibrahim](./abdul-latif-bin-haji-ibrahim.md)

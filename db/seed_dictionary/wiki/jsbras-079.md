@@ -96,7 +96,7 @@ articles:
   pages: 55–62
   is_review: false
 - id: jsbras-79-1-p63
-  slug: new-and-rare-malayan-plants
+  slug: new-or-rare-malayan-plants
   title: New and rare Malayan plants
   authors:
   - H.N. Ridley
@@ -118,6 +118,7 @@ articles:
   is_review: false
 ---
 
+
 # JSBRAS No. 79 (September 1918)
 
 **Series:** Journal of the Straits Branch of the Royal Asiatic Society  
@@ -133,7 +134,7 @@ articles:
 * [The cannibal king in the “Kedah Annals”](./the-cannibal-king-in-the-kedah-annals.md) — [C.O. Blagden](./co-blagden.md) (pp. 47–48)
 * [The Hadramaut Sayids of Perak and Siak](./the-hadramaut-sayids-of-perak-and-siak.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 49–54)
 * [Some Perak pedigrees](./some-perak-pedigrees.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 55–62)
-* [New and rare Malayan plants](./new-and-rare-malayan-plants.md) — [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 63–100)
+* [New and rare Malayan plants](./new-or-rare-malayan-plants.md) — [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 63–100)
 * [Time of sunrise and sunset at Singapore and Penang during the year](./time-of-sunrise-and-sunset-at-singapore-and-penang-during-th.md) — [H. Marriott](./h-marriott.md) (pp. 101)
 * [Begonia haniffii, a small tuberous species of the islands of Lankawi](./begonia-haniffii-a-small-tuberous-species-of-the-islands-of-.md) — [I.H. Burkill](./ih-burkill.md) (pp. 103–104)
 

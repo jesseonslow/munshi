@@ -18,7 +18,15 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+aliases:
+- A contribution to Malayan bibliography. Pt. II
+reprints:
+- series: JSBRAS
+  volume: 6
+  year: 1880
+  absorbed_slug: a-contribution-to-malayan-bibliography-pt-ii
 ---
+
 
 # A contribution to Malayan bibliography
 

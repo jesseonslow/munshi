@@ -136,7 +136,7 @@ articles:
   pages: 89–91
   is_review: false
 - id: jmbras-3-1-p92
-  slug: notes-on-the-fauna-of-pulau-galang-rhio-archipelago-records-
+  slug: notes-on-the-fauna-of-pulau-bulan-rhio-archipelago-records-o
   title: Notes on the fauna of Pulau Galang, Rhio Archipelago. Records of the Raffles
     Museum, No. 10
   authors:
@@ -171,6 +171,7 @@ articles:
   is_review: false
 ---
 
+
 # JMBRAS Vol. 3, Part 1 (April 1925)
 
 **Series:** Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society  
@@ -190,7 +191,7 @@ articles:
 * [A new ground-gecko (Gymnodactylus) from the Malay Peninsula. Records of the Raffles Museum, No. 7](./a-new-ground-gecko-gymnodactylus-from-the-malay-peninsula-re.md) — [M.A. Smith](./ma-smith.md) (pp. 87)
 * [Banteng in the Malay Peninsula. Records of the Raffles Museum, No. 8](./banteng-in-the-malay-peninsula-records-of-the-raffles-museum.md) — [N. Trewheler](./n-trewheler.md) (pp. 88–89)
 * [On some colour patterns of the young Malay rusa (Cervus unicolor equinus). Records of the Raffles Museum, No. 9](./on-some-colour-patterns-of-the-young-malay-rusa-cervus-unico.md) — [F.N. Chasen](./fn-chasen.md) (pp. 89–91)
-* [Notes on the fauna of Pulau Galang, Rhio Archipelago. Records of the Raffles Museum, No. 10](./notes-on-the-fauna-of-pulau-galang-rhio-archipelago-records-.md) — [F.N. Chasen](./fn-chasen.md) (pp. 92–97)
+* [Notes on the fauna of Pulau Galang, Rhio Archipelago. Records of the Raffles Museum, No. 10](./notes-on-the-fauna-of-pulau-bulan-rhio-archipelago-records-o.md) — [F.N. Chasen](./fn-chasen.md) (pp. 92–97)
 * [Remarks on the black and red squirrels allied to Sciurus prevosti. F.N. Chasen and C.B. Kloss. Records of the Raffles Museum, No. 11](./remarks-on-the-black-and-red-squirrels-allied-to-sciurus-pre.md) — [F.N. Chasen](./fn-chasen.md), [C.B. Kloss](./cb-kloss.md) (pp. 97–99)
 * [On the introduction of the Australian skink into Singapore Island. Records of the Raffles Museum, No. 12](./on-the-introduction-of-the-australian-skink-into-singapore-i.md) — [F.N. Chasen](./fn-chasen.md) (pp. 99–101)
 * [Bird notes. F.N. Chasen and C.B. Kloss. Records of the Raffles Museum, No. 13](./bird-notes-fn-chasen-and-cb-kloss-records-of-the-raffles-mus.md) — [F.N. Chasen](./fn-chasen.md), [C.B. Kloss](./cb-kloss.md) (pp. 101–103)

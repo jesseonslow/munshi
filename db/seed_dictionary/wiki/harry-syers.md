@@ -24,7 +24,7 @@ published: false
 
 ## MBRAS Sources
 
-- [J.M. Gullick](./john-michael-gullick.md) (1978). [Syers and the Selangor Police 1875  - 1897](./syers-and-the-selangor-police-1875-1897.md). ** : 57
+- [J.M. Gullick](./john-michael-gullick.md) (1978). [Syers and the Selangor Police 1875  - 1897](./syers-and-the-selangor-police-18751897.md). ** : 57
 - [J.M. Gullick](./john-michael-gullick.md) (1993). [Glimpses of Selangor 1860 - 1898](./glimpses-of-selangor-1860-1898.md). ** : 247
 
 ## References

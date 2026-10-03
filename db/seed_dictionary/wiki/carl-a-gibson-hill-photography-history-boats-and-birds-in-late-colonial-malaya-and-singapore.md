@@ -16,7 +16,14 @@ price: 0
 out_of_print: true
 status: stub
 published: false
+aliases: []
+reprints:
+- series: Monograph
+  volume: 53
+  year: null
+  absorbed_slug: carl-a-gibson-hill-photography-history-boats-and-birds-in-la
 ---
+
 
 # Carl A. Gibson-Hill: Photography, History, Boats, and Birds in Late-Colonial Malaya and Singapore
 

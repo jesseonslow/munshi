@@ -62,7 +62,7 @@ articles:
   pages: 98–106
   is_review: false
 - id: jmbras-17-1-p107
-  slug: notes-on-the-meanings-of-some-malay-words-part-iii-kedah-wor
+  slug: notes-on-the-meanings-of-some-malay-words
   title: Notes on the meanings of some Malay words. Part III (Kedah words
   authors:
   - J.A. Baker
@@ -106,6 +106,7 @@ articles:
   is_review: false
 ---
 
+
 # JMBRAS Vol. 17, Part 1 (October 1939)
 
 **Series:** Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society  
@@ -116,7 +117,7 @@ articles:
 * [The flora of the limestone hills of the Malay Peninsula](./the-flora-of-the-limestone-hills-of-the-malay-peninsula.md) — [M.R. Henderson](./mr-henderson.md) (pp. 13–87)
 * [Gold coins of the north-eastern Malay states](./gold-coins-of-the-north-eastern-malay-states.md) — [A. Rentse](./a-rentse.md) (pp. 88–97)
 * [Ceremonial opening of a new Chinese temple at Kandang, Malacca, in December, 1938](./ceremonial-opening-of-a-new-chinese-temple-at-kandang-malacc.md) — [S.M. Middlebrook](./sm-middlebrook.md) (pp. 98–106)
-* [Notes on the meanings of some Malay words. Part III (Kedah words](./notes-on-the-meanings-of-some-malay-words-part-iii-kedah-wor.md) — [J.A. Baker](./ja-baker.md) (pp. 107–120)
+* [Notes on the meanings of some Malay words. Part III (Kedah words](./notes-on-the-meanings-of-some-malay-words.md) — [J.A. Baker](./ja-baker.md) (pp. 107–120)
 * [Malayan sponges](./malayan-sponges.md) — [S.G. Willimott](./sg-willimott.md) (pp. 121–130)
 * [Some “Sakai” problems](./some-sakai-problems.md) — [R.J. Wilkinson](./richard-james-wilkinson.md) (pp. 131–133)
 * [The Bernam slab-graves](./the-bernam-slab-graves.md) — [R.J. Wilkinson](./richard-james-wilkinson.md) (pp. 134–143)

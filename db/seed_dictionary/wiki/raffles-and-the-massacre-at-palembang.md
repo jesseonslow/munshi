@@ -18,7 +18,15 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+aliases:
+- Raffles and the Palembang massacre
+reprints:
+- series: JMBRAS
+  volume: 25
+  year: 1952
+  absorbed_slug: raffles-and-the-palembang-massacre
 ---
+
 
 # Raffles and the massacre at Palembang
 

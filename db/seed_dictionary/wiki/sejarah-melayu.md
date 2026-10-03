@@ -29,7 +29,7 @@ published: false
 - [C.O. Blagden](./co-blagden.md) and [Sejarah Melayu](./sejarah-melayu.md) (1925). [An unpublished variant version of the “Malay Annals”](./an-unpublished-variant-version-of-the-malay-annals.md). *JMBRAS* 3: 10–52
 - [W. Cheah](./w-cheah.md) (1998). [The rise and fall of the great Melakan empire: moral judgement in Tun Bambang’s Sejarah Melayu](./the-rise-and-fall-of-the-great-melakan-empire-moral-judgemen.md). *JMBRAS* 71(2): 104–121
 - [P. Borschberg](./peter-borschberg.md) and [W. Cheah](./w-cheah.md) (2023). [Raja Bongsu and the Sejarah Melayu: The Tragic Fate of an Ill-starred Prince of Johor (b. 1571–d. 1623). B.K. Cheah, Faris Joraimi and P. Borschberg](./raja-bongsu-and-the-sejarah-melayu-the-tragic-fate-of-an-ill.md). *JMBRAS* 96(2): 1–28
-- [Dato Sir Ronald Braddell](./r-braddell.md) (1989). [The Study of Ancient Times in the Malay Peninsula and Straits of Malacca](./the-study-of-ancient-times-in-the-malay-peninsula-and-straits-of-malacca.md). ** : 522
+- [Dato Sir Ronald Braddell](./r-braddell.md) (1989). [The Study of Ancient Times in the Malay Peninsula and Straits of Malacca](./an-introduction-to-the-study-of-ancient-times-in-the-malay-p.md). ** : 522
 - [C.A. Gibson-Hill](./carl-alexander-gibson-hill.md) (1956). [The Malay Annals: the history brought from Goa](./the-malay-annals-the-history-brought-from-goa.md). *JMBRAS* 29: 185–188
 - [T. Iskandar](./t-iskandar.md) (1967). [Three Malay historical writings in the first half of the seventeenth century](./three-malay-historical-writings-in-the-first-half-of-the-sev.md). *JMBRAS* 40(2): 38–53
 - Josselin de Jong, P.E. de.Who’s who in the Malay Annals. MB 34(2)

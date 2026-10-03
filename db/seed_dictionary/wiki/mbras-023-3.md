@@ -37,7 +37,7 @@ status: stub
 published: false
 articles:
 - id: jmbras-23-3-p1
-  slug: notes-on-ancient-times-in-malaya-part-7
+  slug: notes-on-ancient-times-in-malaya-part-1
   title: Notes on ancient times in Malaya. {Part 7
   authors:
   - R. Braddell
@@ -116,13 +116,14 @@ articles:
   is_review: false
 ---
 
+
 # JMBRAS Vol. 23, Part 3 (August 1950)
 
 **Series:** Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society  
 **Date:** August 1950
 
 ## Table of Contents
-* [Notes on ancient times in Malaya. {Part 7](./notes-on-ancient-times-in-malaya-part-7.md) — [R. Braddell](./r-braddell.md) (pp. 1–35)
+* [Notes on ancient times in Malaya. {Part 7](./notes-on-ancient-times-in-malaya-part-1.md) — [R. Braddell](./r-braddell.md) (pp. 1–35)
 * [The Savaeans and possible Egyptian influences in Indonesia](./the-savaeans-and-possible-egyptian-influences-in-indonesia.md) — [H.G.Q. Wales](./horace-geoffrey-quaritch-wales.md) (pp. 36–42)
 * [Malay manners and etiquette](./malay-manners-and-etiquette.md) — [Zainal Abidin bin Ahmad](./zainal-abidin-bin-ahmad.md) (pp. 43–74)
 * [The Malayan purse seine (pukat jerut) fishery](./the-malayan-purse-seine-pukat-jerut-fishery.md) — [K. Gopinath](./k-gopinath.md) (pp. 75–96)

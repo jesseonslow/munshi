@@ -46,7 +46,7 @@ published: false
 - [H.N. Ridley](./henry-nicholas-ridley.md) (1899). [Golden flowers](./golden-flowers.md). *JSBRAS* 32: 214–215
 - [H.N. Ridley](./henry-nicholas-ridley.md) (1898). [The Peliosanthes of the Malay Peninsula](./the-peliosanthes-of-the-malay-peninsula.md). *JSBRAS* 31: 91–98
 - [H.N. Ridley](./henry-nicholas-ridley.md) (1903). [A new Balanophera from Tenimber Islands](./a-new-balanophera-from-tenimber-islands.md). *JSBRAS* 39: 207
-- [H.N. Ridley](./henry-nicholas-ridley.md) (1922). [New and rare Malayan plants](./new-and-rare-malayan-plants.md). *JSBRAS* 86: 202–311
+- [H.N. Ridley](./henry-nicholas-ridley.md) (1922). [New and rare Malayan plants](./new-or-rare-malayan-plants.md). *JSBRAS* 86: 202–311
 - [H.N. Ridley](./henry-nicholas-ridley.md) (1908). [The labiates of the Malay Peninsula](./the-labiates-of-the-malay-peninsula.md). *JSBRAS* 50: 105–107
 - [H.N. Ridley](./henry-nicholas-ridley.md) (1909). [Fruit of Burbidgea](./fruit-of-burbidgea.md). *JSBRAS* 53: 175–176
 - [H.N. Ridley](./henry-nicholas-ridley.md) (1912). [Some plants collected on Mr. Moulton’s expedition to Batu Lawi](./some-plants-collected-on-mr-moultons-expedition-to-batu-lawi.md). *JSBRAS* 63: 59–60

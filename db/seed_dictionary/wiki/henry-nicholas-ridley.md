@@ -108,16 +108,16 @@ published: false
 - (1911) [A scientific expedition to Temengoh, Upper Perak](./a-scientific-expedition-to-temengoh-upper-perak.md). *JSBRAS* 57: 5–122
 - (1911) [The flora of Lower Siam](./the-flora-of-lower-siam.md). *JSBRAS* 59: 15–26
 - (1911) [The Gymnosperms of the Malay Peninsula](./the-gymnosperms-of-the-malay-peninsula.md). *JSBRAS* 60: 53–68
-- (1912) [New and rare Malayan plants](./new-and-rare-malayan-plants.md). *JSBRAS* 61: 1–43
+- (1912) [New and rare Malayan plants](./new-or-rare-malayan-plants.md). *JSBRAS* 61: 1–43
 - (1912) [A botanical excursion to Pulau Adang](./a-botanical-excursion-to-pulau-adang.md). *JSBRAS* 61: 45–65
 - (1912) [Some plants collected on Mr. Moulton’s expedition to Batu Lawi](./some-plants-collected-on-mr-moultons-expedition-to-batu-lawi.md). *JSBRAS* 63: 59–60
 - (1914) [An account of a botanical expedition to Lower Siam](./an-account-of-a-botanical-expedition-to-lower-siam.md). *JSBRAS* 59: 27–234
 - (1915) [New or rare Malayan plants](./new-or-rare-malayan-plants.md). *JSBRAS* 68: 11–14
-- (1917) [New and rare Malayan plants](./new-and-rare-malayan-plants.md). *JSBRAS* 75: 5–38
+- (1917) [New and rare Malayan plants](./new-or-rare-malayan-plants.md). *JSBRAS* 75: 5–38
 - (1917) [Lasianthus barbellatus, a new species from Pulau Tiuman, Pahang](./lasianthus-barbellatus-a-new-species-from-pulau-tiuman-pahan.md). *JSBRAS* 77: 187
-- (1918) [New and rare Malayan plants](./new-and-rare-malayan-plants.md). *JSBRAS* 79: 63–100
+- (1918) [New and rare Malayan plants](./new-or-rare-malayan-plants.md). *JSBRAS* 79: 63–100
 - (1919) [The fern-allies and Characeae of the Malay Peninsula](./the-fern-allies-and-characeae-of-the-malay-peninsula.md). *JSBRAS* 80: 139–164
-- (1922) [New and rare Malayan plants](./new-and-rare-malayan-plants.md). *JSBRAS* 86: 202–311
+- (1922) [New and rare Malayan plants](./new-or-rare-malayan-plants.md). *JSBRAS* 86: 202–311
 - (1923) [A botanical excursion to Northern Sumatra](./a-botanical-excursion-to-northern-sumatra.md). *JMBRAS* 1(1): 46–113
 - (1926) [The ferns of the Malay Peninsula](./the-ferns-of-the-malay-peninsula.md). *JMBRAS* 4(1): 1–121
 - (1926) [Peripatus in the Malay Peninsula. Records of the Raffles Museum, No. 21](./peripatus-in-the-malay-peninsula-records-of-the-raffles-muse.md). *JMBRAS* 4(1): 167

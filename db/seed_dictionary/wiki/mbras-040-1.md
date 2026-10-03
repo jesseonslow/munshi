@@ -76,7 +76,7 @@ articles:
   pages: 130–139
   is_review: false
 - id: jmbras-40-1-p140
-  slug: recent-archaeological-discoveries-in-east-malaysia-and-brune
+  slug: recent-archaeological-discoveries-in-malaysia-1965-east-mala
   title: Recent archaeological discoveries in East Malaysia and Brunei
   authors:
   - Tom Harrisson
@@ -105,6 +105,7 @@ articles:
   is_review: true
 ---
 
+
 # JMBRAS Vol. 40, Part 1 (July 1967)
 
 **Series:** Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society  
@@ -117,7 +118,7 @@ articles:
 * [The British advance in Johore, 1885–1914](./the-british-advance-in-johore-18851914.md) — [K. Sinclair](./k-sinclair.md) (pp. 93–110)
 * [Ethnological notes on the Muruts of the Sapulut River, Sabah](./ethnological-notes-on-the-muruts-of-the-sapulut-river-sabah.md) — [Tom Harrisson](./tom-harrisson.md) (pp. 111–129)
 * [Grasping the nettle: first successes in the struggle to govern the Chinese in Malaya](./grasping-the-nettle-first-successes-in-the-struggle-to-gover.md) — [R.N. Jackson](./rn-jackson.md) (pp. 130–139)
-* [Recent archaeological discoveries in East Malaysia and Brunei](./recent-archaeological-discoveries-in-east-malaysia-and-brune.md) — [Tom Harrisson](./tom-harrisson.md) (pp. 140–148)
+* [Recent archaeological discoveries in East Malaysia and Brunei](./recent-archaeological-discoveries-in-malaysia-1965-east-mala.md) — [Tom Harrisson](./tom-harrisson.md) (pp. 140–148)
 * [A note on the Takuapa Visnu](./a-note-on-the-takuapa-visnu.md) — [H.G.Q. Wales](./horace-geoffrey-quaritch-wales.md) (pp. 153–154)
 * [Sir Richard Winstedt’s summary of the “Tuhfat ul-Nafis”](./sir-richard-winstedts-summary-of-the-tuhfat-ul-nafis.md) — [A. Sweeney](./amin-sweeney.md) (pp. 155–156)
 * *A lexical study of Tamil dialects in lower Perak. R. Subbiah* — [T.W. Gething](./tw-gething.md) (pp. 157–159) [Review]

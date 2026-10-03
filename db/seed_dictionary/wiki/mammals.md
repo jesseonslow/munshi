@@ -56,7 +56,7 @@ published: false
 - Kloss, C.B. Primates, carnivores and ungulates of peninsular region. SB 63
 - [Harrison J.L](./harrison-jl.md) (1965). [Numbers of mammals on the Malaysian islands](./numbers-of-mammals-on-the-malaysian-islands.md). *JMBRAS* 38(2): 26–42
 - [Lord Medway](./lord-medway.md) (1977). [Mammals of Borneo](./mammals-of-borneo.md). ** : 172
-- [Gathorne Gathorne-Hardy, Lord (Earl of Cranbrook) Medway](./gathorne-gathorne-hardy-lord-earl-of-cranbrook-medway.md) (1974). [The antiquity of domesticated pigs in Sarawak (Corrigenda](./the-antiquity-of-domesticated-pigs-in-sarawak-corrigenda.md). *JMBRAS* 47: 112
+- [Gathorne Gathorne-Hardy, Lord (Earl of Cranbrook) Medway](./gathorne-gathorne-hardy-lord-earl-of-cranbrook-medway.md) (1974). [The antiquity of domesticated pigs in Sarawak (Corrigenda](./the-antiquity-of-domesticated-pigs-in-sarawak.md). *JMBRAS* 47: 112
 - [J.C. Moulton](./john-coney-moulton.md) (1912). [Mammals taken on the Batu Lawi expedition](./mammals-taken-on-the-batu-lawi-expedition.md). *JSBRAS* 63: 72–73
 - [J. Caldecott](./j-caldecott.md) and [P. Pfeffer](./p-pfeffer.md) (1986). [The bearded pig in East Kalimantan and Sarawak](./the-bearded-pig-in-east-kalimantan-and-sarawak.md). *JMBRAS* 59(2): 81–100
 - [H.N. Ridley](./henry-nicholas-ridley.md) (1894). [On the dispersal of seeds by mammals](./on-the-dispersal-of-seeds-by-mammals.md). *JSBRAS* 25: 11–32

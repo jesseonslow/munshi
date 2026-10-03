@@ -41,7 +41,7 @@ status: stub
 published: false
 articles:
 - id: jmbras-87-2-p47
-  slug: recollections-of-my-time-in-malaya-19451956-part-3
+  slug: recollections-of-my-time-in-malaya-19451956-part-2
   title: Recollections of my time in Malaya (1945–1956) Part 3
   authors:
   - J.M. Gullick
@@ -125,13 +125,14 @@ articles:
   is_review: true
 ---
 
+
 # JMBRAS Vol. 87, Part 2 (December 2014)
 
 **Series:** Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society  
 **Date:** December 2014
 
 ## Table of Contents
-* [Recollections of my time in Malaya (1945–1956) Part 3](./recollections-of-my-time-in-malaya-19451956-part-3.md) — [J.M. Gullick](./john-michael-gullick.md) (pp. 47–89)
+* [Recollections of my time in Malaya (1945–1956) Part 3](./recollections-of-my-time-in-malaya-19451956-part-2.md) — [J.M. Gullick](./john-michael-gullick.md) (pp. 47–89)
 * [Notes on rubber growing in Perak](./notes-on-rubber-growing-in-perak.md) — [L. Wray](./l-wray.md) (pp. 91–95)
 * *A slow ride into the past: the Chinese trishaw industry in Singapore, 1942‒1983 J. Lim* — [C. Cheng](./c-cheng.md) (pp. 97–98) [Review]
 * *Chinese capitalism in colonial Malaya, 1900‒1941. W.Y. Tai* — [Wu Xiao An](./wu-xiao-an.md) (pp. 101–103) [Review]

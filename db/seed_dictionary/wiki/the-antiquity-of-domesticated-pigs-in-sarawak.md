@@ -18,7 +18,15 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+aliases:
+- The antiquity of domesticated pigs in Sarawak (Corrigenda
+reprints:
+- series: JMBRAS
+  volume: 47
+  year: 1974
+  absorbed_slug: the-antiquity-of-domesticated-pigs-in-sarawak-corrigenda
 ---
+
 
 # The antiquity of domesticated pigs in Sarawak
 

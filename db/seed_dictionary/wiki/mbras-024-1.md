@@ -45,7 +45,7 @@ status: stub
 published: false
 articles:
 - id: jmbras-24-1-p1
-  slug: notes-on-ancient-times-in-malaya-part-8
+  slug: notes-on-ancient-times-in-malaya-part-1
   title: Notes on ancient times in Malaya. {Part 8
   authors:
   - R. Braddell
@@ -188,13 +188,14 @@ articles:
   is_review: false
 ---
 
+
 # JMBRAS Vol. 24, Part 1 (February 1951)
 
 **Series:** Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society  
 **Date:** February 1951
 
 ## Table of Contents
-* [Notes on ancient times in Malaya. {Part 8](./notes-on-ancient-times-in-malaya-part-8.md) — [R. Braddell](./r-braddell.md) (pp. 1–27)
+* [Notes on ancient times in Malaya. {Part 8](./notes-on-ancient-times-in-malaya-part-1.md) — [R. Braddell](./r-braddell.md) (pp. 1–27)
 * [The coming of Islam to the East Indies](./the-coming-of-islam-to-the-east-indies.md) — [G.E. Marrison](./ge-marrison.md) (pp. 28–37)
 * [The Negri Sembilan economy of the 1890s](./the-negri-sembilan-economy-of-the-1890s.md) — [J.M. Gullick](./john-michael-gullick.md) (pp. 38–55)
 * [Kelantan padi planting](./kelantan-padi-planting.md) — [A.H. Hill](./anthony-haydock-hill.md) (pp. 56–76)
