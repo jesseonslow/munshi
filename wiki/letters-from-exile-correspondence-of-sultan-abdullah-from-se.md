@@ -21,7 +21,7 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-260-kheng-lettersexile-1991-b6b7b23b5bdd
-source_path: /../sources/jmbras-260-kheng-lettersexile-1991-b6b7b23b5bdd/appendix.md
+source_path: ../sources/jmbras-260-kheng-lettersexile-1991-b6b7b23b5bdd/appendix.md
 ---
 
 

@@ -19,7 +19,7 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-226-drewes-nraldnalrnrs-1974-716334dfdedd
-source_path: /../sources/jmbras-226-drewes-nraldnalrnrs-1974-716334dfdedd.md
+source_path: ../sources/jmbras-226-drewes-nraldnalrnrs-1974-716334dfdedd.md
 ---
 
 

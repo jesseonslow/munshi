@@ -21,7 +21,7 @@ amendments: []
 status: stub
 published: false
 source_doc: jsbras-023-kelsall-notestripbukit-1891-6c647dd38cdf
-source_path: /../sources/jsbras-023-kelsall-notestripbukit-1891-6c647dd38cdf.md
+source_path: ../sources/jsbras-023-kelsall-notestripbukit-1891-6c647dd38cdf.md
 ---
 
 

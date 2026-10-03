@@ -21,7 +21,7 @@ amendments: []
 status: stub
 published: false
 source_doc: jmalayanras-131-hugheshallett-accountberhantuceremony-1938-311ebbcec3fb
-source_path: /../sources/jmalayanras-131-hugheshallett-accountberhantuceremony-1938-311ebbcec3fb.md
+source_path: ../sources/jmalayanras-131-hugheshallett-accountberhantuceremony-1938-311ebbcec3fb.md
 ---
 
 

@@ -19,7 +19,7 @@ amendments: []
 status: stub
 published: false
 source_doc: jsbras-003-surveyreportuul-1879-9241004c09d5
-source_path: /../sources/jsbras-003-surveyreportuul-1879-9241004c09d5.md
+source_path: ../sources/jsbras-003-surveyreportuul-1879-9241004c09d5.md
 ---
 
 

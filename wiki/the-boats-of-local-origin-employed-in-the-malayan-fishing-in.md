@@ -21,7 +21,7 @@ amendments: []
 status: stub
 published: false
 source_doc: jmalayanras-166-burdon-papersmalayanfishing-1954-fb05d0340a63
-source_path: /../sources/jmalayanras-166-burdon-papersmalayanfishing-1954-fb05d0340a63/index.md
+source_path: ../sources/jmalayanras-166-burdon-papersmalayanfishing-1954-fb05d0340a63/index.md
 ---
 
 

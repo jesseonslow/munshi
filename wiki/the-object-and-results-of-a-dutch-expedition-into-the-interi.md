@@ -21,7 +21,7 @@ amendments: []
 status: stub
 published: false
 source_doc: jsbras-015-hasselt-objectresultsdutch-1885-0b5f92de7963
-source_path: /../sources/jsbras-015-hasselt-objectresultsdutch-1885-0b5f92de7963.md
+source_path: ../sources/jsbras-015-hasselt-objectresultsdutch-1885-0b5f92de7963.md
 ---
 
 

@@ -19,7 +19,7 @@ amendments: []
 status: stub
 published: false
 source_doc: jsbras-001-dennys-occurrenceophiophaguselaps-1878-84dbadb45c47
-source_path: /../sources/jsbras-001-dennys-occurrenceophiophaguselaps-1878-84dbadb45c47.md
+source_path: ../sources/jsbras-001-dennys-occurrenceophiophaguselaps-1878-84dbadb45c47.md
 ---
 
 

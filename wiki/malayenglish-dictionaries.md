@@ -19,7 +19,7 @@ amendments: []
 status: stub
 published: false
 source_doc: jsbras-002-b-malayenglishdictionaries-1878-2a65cc32589d
-source_path: /../sources/jsbras-002-b-malayenglishdictionaries-1878-2a65cc32589d.md
+source_path: ../sources/jsbras-002-b-malayenglishdictionaries-1878-2a65cc32589d.md
 ---
 
 

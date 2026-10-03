@@ -19,7 +19,7 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-269-kheng-huntingrebelskelantan-1995-f6df00c62e67
-source_path: /../sources/jmbras-269-kheng-huntingrebelskelantan-1995-f6df00c62e67.md
+source_path: ../sources/jmbras-269-kheng-huntingrebelskelantan-1995-f6df00c62e67.md
 ---
 
 

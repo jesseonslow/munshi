@@ -19,7 +19,7 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-223-chandran-culturalsignificancepengkalan-1973-934d2f9e3542
-source_path: /../sources/jmbras-223-chandran-culturalsignificancepengkalan-1973-934d2f9e3542.md
+source_path: ../sources/jmbras-223-chandran-culturalsignificancepengkalan-1973-934d2f9e3542.md
 ---
 
 

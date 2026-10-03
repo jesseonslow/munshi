@@ -20,7 +20,7 @@ amendments: []
 status: stub
 published: false
 source_doc: jmalayanras-126-sheehan-adatkualapilah-1936-65c9fdb1ebb7
-source_path: /../sources/jmalayanras-126-sheehan-adatkualapilah-1936-65c9fdb1ebb7/chapter-05.md
+source_path: ../sources/jmalayanras-126-sheehan-adatkualapilah-1936-65c9fdb1ebb7/chapter-05.md
 ---
 
 

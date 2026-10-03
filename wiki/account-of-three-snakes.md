@@ -18,7 +18,7 @@ amendments: []
 status: stub
 published: false
 source_doc: jsbras-045-hewitt-accountthreesnakes-1906-2f6e7a4c36ae
-source_path: /../sources/jsbras-045-hewitt-accountthreesnakes-1906-2f6e7a4c36ae.md
+source_path: ../sources/jsbras-045-hewitt-accountthreesnakes-1906-2f6e7a4c36ae.md
 ---
 
 

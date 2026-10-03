@@ -20,7 +20,7 @@ amendments: []
 status: stub
 published: false
 source_doc: jsbras-024-k-nesteggshenicurus-1891-ed4927dad9ef
-source_path: /../sources/jsbras-024-k-nesteggshenicurus-1891-ed4927dad9ef.md
+source_path: ../sources/jsbras-024-k-nesteggshenicurus-1891-ed4927dad9ef.md
 ---
 
 

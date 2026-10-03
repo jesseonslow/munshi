@@ -19,7 +19,7 @@ amendments: []
 status: stub
 published: false
 source_doc: jmalayanras-201-hassan-malaypress-1963-7295c2b66af6
-source_path: /../sources/jmalayanras-201-hassan-malaypress-1963-7295c2b66af6.md
+source_path: ../sources/jmalayanras-201-hassan-malaypress-1963-7295c2b66af6.md
 ---
 
 

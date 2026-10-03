@@ -19,7 +19,7 @@ amendments: []
 status: stub
 published: false
 source_doc: jmalayanras-093-w-kelantaninvocationearth-1925-be77ac02b213
-source_path: /../sources/jmalayanras-093-w-kelantaninvocationearth-1925-be77ac02b213.md
+source_path: ../sources/jmalayanras-093-w-kelantaninvocationearth-1925-be77ac02b213.md
 ---
 
 

@@ -19,7 +19,7 @@ amendments: []
 status: stub
 published: false
 source_doc: jsbras-023-r-discoverystoneimplement-1891-84dd504cabda
-source_path: /../sources/jsbras-023-r-discoverystoneimplement-1891-84dd504cabda.md
+source_path: ../sources/jsbras-023-r-discoverystoneimplement-1891-84dd504cabda.md
 ---
 
 

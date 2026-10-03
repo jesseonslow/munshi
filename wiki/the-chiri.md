@@ -19,7 +19,7 @@ amendments: []
 status: stub
 published: false
 source_doc: jsbras-010-m-chiri-1882-09394f701ff7
-source_path: /../sources/jsbras-010-m-chiri-1882-09394f701ff7.md
+source_path: ../sources/jsbras-010-m-chiri-1882-09394f701ff7.md
 ---
 
 

@@ -20,7 +20,7 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-215-gibsonhill-datemunshiabdullahs-1969-27a3a430dbd0
-source_path: /../sources/jmbras-215-gibsonhill-datemunshiabdullahs-1969-27a3a430dbd0.md
+source_path: ../sources/jmbras-215-gibsonhill-datemunshiabdullahs-1969-27a3a430dbd0.md
 ---
 
 

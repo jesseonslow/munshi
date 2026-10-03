@@ -19,7 +19,7 @@ amendments: []
 status: stub
 published: false
 source_doc: jsbras-016-dutchmidsumatraexpedition-1885-a3fb7544a21d
-source_path: /../sources/jsbras-016-dutchmidsumatraexpedition-1885-a3fb7544a21d.md
+source_path: ../sources/jsbras-016-dutchmidsumatraexpedition-1885-a3fb7544a21d.md
 ---
 
 

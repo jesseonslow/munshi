@@ -19,7 +19,7 @@ amendments: []
 status: stub
 published: false
 source_doc: jmalayanras-140-symington-notesmalayandipterocarpaceae-1941-46849f78fcaa
-source_path: /../sources/jmalayanras-140-symington-notesmalayandipterocarpaceae-1941-46849f78fcaa.md
+source_path: ../sources/jmalayanras-140-symington-notesmalayandipterocarpaceae-1941-46849f78fcaa.md
 ---
 
 

@@ -29,7 +29,7 @@ amendments:
 status: stub
 published: false
 source_doc: jsbras-005-comparativevocabularydialects-1880-0e67338c90a4
-source_path: /../sources/jsbras-005-comparativevocabularydialects-1880-0e67338c90a4.md
+source_path: ../sources/jsbras-005-comparativevocabularydialects-1880-0e67338c90a4.md
 ---
 
 

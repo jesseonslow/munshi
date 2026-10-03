@@ -19,7 +19,7 @@ amendments: []
 status: stub
 published: false
 source_doc: jmalayanras-131-hugheshallett-mysteriousfindbrunei-1938-b2b26871b81d
-source_path: /../sources/jmalayanras-131-hugheshallett-mysteriousfindbrunei-1938-b2b26871b81d.md
+source_path: ../sources/jmalayanras-131-hugheshallett-mysteriousfindbrunei-1938-b2b26871b81d.md
 ---
 
 

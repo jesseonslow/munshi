@@ -19,7 +19,7 @@ amendments: []
 status: stub
 published: false
 source_doc: jsbras-034-neweasterngingers-1900-d46278ace8d7
-source_path: /../sources/jsbras-034-neweasterngingers-1900-d46278ace8d7.md
+source_path: ../sources/jsbras-034-neweasterngingers-1900-d46278ace8d7.md
 ---
 
 

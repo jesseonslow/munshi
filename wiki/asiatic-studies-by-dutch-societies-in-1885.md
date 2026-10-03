@@ -19,7 +19,7 @@ amendments: []
 status: stub
 published: false
 source_doc: jsbras-016-r-asiaticstudiesdutch-1885-fbba563ece00
-source_path: /../sources/jsbras-016-r-asiaticstudiesdutch-1885-fbba563ece00.md
+source_path: ../sources/jsbras-016-r-asiaticstudiesdutch-1885-fbba563ece00.md
 ---
 
 

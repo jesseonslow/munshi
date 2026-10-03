@@ -19,7 +19,7 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-285-sulaiman-pahangcapital-2003-ec4e87364e5f
-source_path: /../sources/jmbras-285-sulaiman-pahangcapital-2003-ec4e87364e5f.md
+source_path: ../sources/jmbras-285-sulaiman-pahangcapital-2003-ec4e87364e5f.md
 ---
 
 

@@ -20,7 +20,7 @@ amendments: []
 status: stub
 published: false
 source_doc: jmalayanras-113-winstedt-historyjohore1673ca-1932-fb3a7515896f
-source_path: /../sources/jmalayanras-113-winstedt-historyjohore1673ca-1932-fb3a7515896f.md
+source_path: ../sources/jmalayanras-113-winstedt-historyjohore1673ca-1932-fb3a7515896f.md
 ---
 
 

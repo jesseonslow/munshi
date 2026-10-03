@@ -19,7 +19,7 @@ amendments: []
 status: stub
 published: false
 source_doc: jsbras-016-kynnersley-descriptionchineselottery-1885-d86e745e0b87
-source_path: /../sources/jsbras-016-kynnersley-descriptionchineselottery-1885-d86e745e0b87.md
+source_path: ../sources/jsbras-016-kynnersley-descriptionchineselottery-1885-d86e745e0b87.md
 ---
 
 

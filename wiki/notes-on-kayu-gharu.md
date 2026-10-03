@@ -19,7 +19,7 @@ amendments: []
 status: stub
 published: false
 source_doc: jsbras-018-b-noteskayugharu-1886-cf193102c71b
-source_path: /../sources/jsbras-018-b-noteskayugharu-1886-cf193102c71b.md
+source_path: ../sources/jsbras-018-b-noteskayugharu-1886-cf193102c71b.md
 ---
 
 

@@ -19,7 +19,7 @@ amendments: []
 status: stub
 published: false
 source_doc: jmalayanras-111-andrieni-milanomuas-1931-58a938343671
-source_path: /../sources/jmalayanras-111-andrieni-milanomuas-1931-58a938343671.md
+source_path: ../sources/jmalayanras-111-andrieni-milanomuas-1931-58a938343671.md
 ---
 
 

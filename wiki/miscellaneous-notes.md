@@ -19,7 +19,7 @@ amendments: []
 status: stub
 published: false
 source_doc: jsbras-049-maxwell-miscellaneousnotes-1907-c808e6f3eada
-source_path: /../sources/jsbras-049-maxwell-miscellaneousnotes-1907-c808e6f3eada.md
+source_path: ../sources/jsbras-049-maxwell-miscellaneousnotes-1907-c808e6f3eada.md
 ---
 
 

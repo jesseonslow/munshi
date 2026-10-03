@@ -20,7 +20,7 @@ amendments: []
 status: stub
 published: false
 source_doc: jsbras-010-m-malaytransliteration-1882-387686c25d9b
-source_path: /../sources/jsbras-010-m-malaytransliteration-1882-387686c25d9b.md
+source_path: ../sources/jsbras-010-m-malaytransliteration-1882-387686c25d9b.md
 ---
 
 
