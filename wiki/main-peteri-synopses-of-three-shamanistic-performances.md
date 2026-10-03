@@ -19,7 +19,7 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-253-laderman-mainpeterisynopses-1987-7225e09bb3f3
-source_path: ../sources/jmbras-253-laderman-mainpeterisynopses-1987-7225e09bb3f3/glossary.md
+source_path: ../sources/jmbras-253-laderman-mainpeterisynopses-1987-7225e09bb3f3/frontmatter.md
 ---
 
 

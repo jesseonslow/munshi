@@ -19,7 +19,7 @@ amendments: []
 status: stub
 published: false
 source_doc: jmalayanras-138-staal-folkloresadongdayaks-1940-8adfd80a74f0
-source_path: ../sources/jmalayanras-138-staal-folkloresadongdayaks-1940-8adfd80a74f0/glossary.md
+source_path: ../sources/jmalayanras-138-staal-folkloresadongdayaks-1940-8adfd80a74f0/frontmatter.md
 ---
 
 

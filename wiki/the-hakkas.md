@@ -19,7 +19,7 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-237-mong-hakkas-1980-c0aaf143d40a
-source_path: ../sources/jmbras-237-mong-hakkas-1980-c0aaf143d40a/glossary.md
+source_path: ../sources/jmbras-237-mong-hakkas-1980-c0aaf143d40a/frontmatter.md
 ---
 
 
