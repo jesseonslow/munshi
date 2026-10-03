@@ -21,9 +21,7 @@ published: false
 
 ## MBRAS Sources
 
-- Ahmad Sarji bin Abdul Hamid. The Chief Secretary. MB 70(1) {R}
 - [J. Kathirithamby– Wells](./j-kathirithamby-wells.md) (1969). [Early Singapore and the inception of a British administrative tradition in the Straits Settlements (1819–32](./early-singapore-and-the-inception-of-a-british-administrativ.md). *JMBRAS* 42(2): 48–73
-- Khasnor Johan. Modern Malay administrative elite. MB 59(2) {R}
 
 ## References
 <!-- Grounded occurrences and citations -->

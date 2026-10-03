@@ -22,7 +22,6 @@ published: false
 
 - [W. Cameron](./w-cameron.md) (1883). [On the Patani](./on-the-patani.md). *JSBRAS* 11: 123–142
 - [A.T. Dew](./at-dew.md) (1887). [Exploring expedition from Selama, Perak, over the mountains to Pong, Patani, in November](./exploring-expedition-from-selama-perak-over-the-mountains-to.md). *JSBRAS* 19: 105–120
-- Jory, P. (ed). Essays on Patani history and historiography. MB 87(2) {R}
 - [Khoo Kay Kim](./khoo-kay-kim.md) (1988). [Patani during the turn of the 20th century: a Malayan perception](./patani-during-the-turn-of-the-20th-century-a-malayan-percept.md). *JMBRAS* 61: 86–116
 - [M.L. Koch](./ml-koch.md) (1977). [Patani and the development of a Thai state](./patani-and-the-development-of-a-thai-state.md). *JMBRAS* 50(2): 69–88
 - [M.B. Hooker](./mb-hooker.md) and [V. Matheson](./virginia-matheson.md) (1988). [Jawi literature in Patani: the maintenance of an Islamic tradition](./jawi-literature-in-patani-the-maintenance-of-an-islamic-trad.md). *JMBRAS* 61: 1–86

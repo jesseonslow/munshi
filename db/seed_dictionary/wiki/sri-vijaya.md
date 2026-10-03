@@ -25,7 +25,6 @@ published: false
 
 - [G. Coedès](./g-coedès.md) (1936). [A propos d’une nouvelle théorie sur le site de Srivijaya](./a-propos-dune-nouvelle-théorie-sur-le-site-de-srivijaya.md). *JMBRAS* 14(3): 1–9
 - Coedès, G. Srivijaya. Monograph 20
-- and MB 65(2) {R}
 - [A. Diller](./a-diller.md) (1995). [Srivijaya and the first zeros](./srivijaya-and-the-first-zeros.md). *JMBRAS* 68: 53–66
 - [W.T. Kao](./wt-kao.md) (1956). [A primary Chinese record relating to Ho-lo-tan, and miscellaneous notes on Srivijaya and Fo-Che](./a-primary-chinese-record-relating-to-ho-lo-tan-and-miscellan.md). *JMBRAS* 29: 163–178
 - Manguin, P. Palembang and Sri Vijaya. MB 66(1)

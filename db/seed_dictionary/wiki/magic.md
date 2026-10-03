@@ -66,7 +66,6 @@ published: false
 
 - [A.E. Coope](./ae-coope.md) (1933). [The black art (ilmu jahat](./the-black-art-ilmu-jahat.md). *JMBRAS* 11(2): 264–272
 - [Farish A. Noor](./farish-a-noor.md) (2021). [The Uses of Magic: Local Knowledge and the 'Unscientific Native' in Colonial Malaya](./the-uses-of-magic-local-knowledge-and-the-unscientific-nativ.md). *JMBRAS* 94(2): 97–119
-- Hooykaas. C. The Balinese poem Basur: an introduction to magic. MB 52(1) {R}
 - [C. Laderman](./c-laderman.md) (1987). [Main peteri: synopses of three shamanistic performances](./main-peteri-synopses-of-three-shamanistic-performances.md). *JMBRAS* 60(2): 55–71
 - [F.F. Laidlaw](./ff-laidlaw.md) (1923). [Notes on the invocation of Akuan](./notes-on-the-invocation-of-akuan.md). *JMBRAS* 1(2): 376–377
 - [H. Marriott](./h-marriott.md) (1903). [Malay witchcraft](./malay-witchcraft.md). *JSBRAS* 39: 209–210

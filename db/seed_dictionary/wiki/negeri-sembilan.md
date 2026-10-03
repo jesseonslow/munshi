@@ -81,7 +81,6 @@ published: false
 - [R.N. Bland](./rn-bland.md) (1895). [Aturan Sungei Ujong](./aturan-sungei-ujong.md). *JSBRAS* 28: 53–66
 - [A. Caldecott](./a-caldecott.md) and [R.O. Winstedt](./richard-olaf-winstedt.md) (1918). [Jelebu customary songs and sayings; with a preface and notes, R.O. Winstedt](./jelebu-customary-songs-and-sayings-with-a-preface-and-notes-.md). *JSBRAS* 78: 3–41
 - [R.J.F. Curtis](./rjf-curtis.md) (1980). [The revival of the title of Dato Naning in 1921. With an introductory note by the editor](./the-revival-of-the-title-of-dato-naning-in-1921-with-an-intr.md). *JMBRAS* 53(2): 86–101
-- De Moubray, G.A. de C. Matriarchy in the Malay Peninsula. MB 9(1) {R}
 - [J.M. Gullick](./john-michael-gullick.md) (1981). [Law and the adat perpateh: a problem from Jelebu](./law-and-the-adat-perpateh-a-problem-from-jelebu.md). *JMBRAS* 54: 7–20
 - [J.M. Gullick](./john-michael-gullick.md) (2000). [DO’s and Dato’s: dialogue on the adat perpateh](./dos-and-datos-dialogue-on-the-adat-perpateh.md). *JMBRAS* 73(2): 31–51
 - [Hale A](./hale-a.md) (1898). [Folk-lore and the Menangkabau code in the Negri Sembilan](./folk-lore-and-the-menangkabau-code-in-the-negri-sembilan.md). *JSBRAS* 31: 43–61
@@ -105,7 +104,6 @@ published: false
 - [R.O. Winstedt](./richard-olaf-winstedt.md) (1953). [An old Minangkabau legal digest from Perak](./an-old-minangkabau-legal-digest-from-perak.md). *JMBRAS* 26: 1–13
 - [P.E. de Josselin de Jong](./pe-de-josselin-de-jong.md) and [R.O. Winstedt](./richard-olaf-winstedt.md) (1954). [A digest of customary law from Sungai Ujong. R.O. Winstedt and P.E. de Josselin de Jong](./a-digest-of-customary-law-from-sungai-ujong-ro-winstedt-and-.md). *JMBRAS* 27(3): 1–71
 
-### Genealogies
 
 ### Description
 
@@ -128,7 +126,6 @@ published: false
 - [M. Lister](./martin-lister.md) (1887). [The Negri Sembilan, their origin and constitution](./the-negri-sembilan-their-origin-and-constitution.md). *JSBRAS* 19: 35–53
 - [H.A. O'Brien](./henry-arthur-obrien.md) (1884). [Jelebu](./jelebu.md). *JSBRAS* 14: 337–343
 - [George L. Peet](./george-l-peet.md) (2017). [A Journal in the Federal Capital](./a-journal-in-the-federal-capital.md). ** : 180
-- Peletz, M.G. Adat and Islam in Rembau. MB 54(3) {R}
 - [R.J. Wilkinson](./richard-james-wilkinson.md) (1921). [Sungai Ujong](./sungai-ujong.md). *JSBRAS* 83: 123–141
 - [R.O. Winstedt](./richard-olaf-winstedt.md) (1934). [A history of Selangor](./a-history-of-selangor.md). *JMBRAS* 12(3): 1–34, 112–114
 

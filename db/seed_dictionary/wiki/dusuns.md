@@ -34,7 +34,6 @@ published: false
 - [I.H.N. Evans](./ivor-hugh-norman-evans.md) (1949). [Dusun customary law](./dusun-customary-law.md). *JMBRAS* 22: 31–37
 - [I.H.N. Evans](./ivor-hugh-norman-evans.md) and [G.E. Marrison](./ge-marrison.md) (1951). [Dusun and other “house horns”](./dusun-and-other-house-horns.md). *JMBRAS* 24: 162–168
 - [I.H.N. Evans](./ivor-hugh-norman-evans.md) (1952). [A curious word from North Borneo](./a-curious-word-from-north-borneo.md). *JMBRAS* 25: 180–181
-- Evans, I.H.N. Borneo diaries. MB 72(2) {R}
 - [F.H. Fitch](./fh-fitch.md) (1953). [Dusun boats on the Segama River, North Borneo](./dusun-boats-on-the-segama-river-north-borneo.md). *JMBRAS* 26: 211–212
 - [A.L. Gossens](./al-gossens.md) (1924). [A grammar and vocabulary of the Dusun language](./a-grammar-and-vocabulary-of-the-dusun-language.md). *JMBRAS* 2(2): 87–220
 - [H.L.E. Luering](./hle-luering.md) (1897). [A vocabulary of the Dusun language of Kimanis](./a-vocabulary-of-the-dusun-language-of-kimanis.md). *JSBRAS* 30: 1–29

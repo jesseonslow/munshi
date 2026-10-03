@@ -43,9 +43,7 @@ published: false
 - [Noorduyn. J](./noorduyn-j.md) (1988). [The Bugis genealogy of the Raja Muda family of Riau-Johor](./the-bugis-genealogy-of-the-raja-muda-family-of-riau-johor.md). *JMBRAS* 61(2): 63–92
 - [Noorduyn. J](./noorduyn-j.md) and [H.E. Wilson](./he-wilson.md) (1993). [The Bugis inscription in the Udo-Udok cemetery in Brunei](./the-bugis-inscription-in-the-udo-udok-cemetery-in-brunei.md). *JMBRAS* 66(2): 103–112
 - [Nur Aisyah Kotarumalos](./nur-aisyah-kotarumalos.md) (2019). [Ethnic belonging among Bugis Malays in Johor, Malaysia: grounding the present in the past](./ethnic-belonging-among-bugis-malays-in-johor-malaysia-ground.md). *JMBRAS* 92(2): 79–98
-- Pelras, C. The Bugis. MB 70(2) {R}
 - Tol, R. Husin bin Ismail, Bugis scribe. MB 93(1)
-- Wellen, K.A. Early modern Wajorese statecraft and diaspora. MB 89(1) {R}
 
 ## References
 <!-- Grounded occurrences and citations -->

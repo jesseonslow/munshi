@@ -43,8 +43,6 @@ published: false
 - [R.J. Farrer](./rj-farrer.md) (1933). [A Buddhist purification ceremony](./a-buddhist-purification-ceremony.md). *JMBRAS* 11(2): 261–263
 - [A. Grimes](./a-grimes.md) (1941). [The journey of Fa-Hsien from Ceylon to Canton](./the-journey-of-fa-hsien-from-ceylon-to-canton.md). *JMBRAS* 19: 76–92
 - [Paul Wheatley](./paul-wheatley.md) et al. (2007). [Southeast Asia - China Interactions: Reprint of articles from the Journal of the Malaysian Branch, Royal Asiatic Society](./southeast-asia-china-interactions-reprint-of-articles-from-the-journal-of-the-malaysian-branch-royal-asiatic-society.md). ** : 620
-- Cohen, P.T. (ed) Charismatic monks of Lanna Buddhism. MB 90(2) {R}
-- Griswold, A.B. Buddhist images of N. Thailand. MB 3(1) {R}
 - Hassan Suhaimi, Nik. Bukit Seguntang Buddha. MB 52(2)
 - Anon. [Keane, A.H. Malayan antiquities — Buddhist influences](./mbras-reprint-15.md). *Reprint* 15
 - [A. Lamb](./a-lamb.md) (1964). [Mahayana Buddhist votive tablets in Perlis](./mahayana-buddhist-votive-tablets-in-perlis.md). *JMBRAS* 37(2): 47–59

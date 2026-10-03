@@ -55,12 +55,10 @@ published: false
 
 ### Antiquities
 
-- Griswold, A.B. Buddhist images of N Thailand. MB 3(1) {R}
 - [A. Lamb](./a-lamb.md) (1964). [Notes on Satingphra](./notes-on-satingphra.md). *JMBRAS* 37: 74–87
 - Loofs, H.H.E. Mok Khalan alignment in S Thailand. MB 59(1)
 - [S.J. O'Connor](./sj-oconnor.md) (1966). [Satingphra: an expanded chronology](./satingphra-an-expanded-chronology.md). *JMBRAS* 39: 137–144
 - [S.J. O'Connor](./sj-oconnor.md) (1968). [The Takuapa Vishnu: a further note](./the-takuapa-vishnu-a-further-note.md). *JMBRAS* 41: 205–207
-- O’Connor, S.J. Hindu gods of peninsular Siam. MB 46(1) {R}
 - [S.J. O'Connor](./sj-oconnor.md) (1982). [Ancient sculptures from Tambon Na San, Nakhon Si Thammarat Province, Peninsular Thailand](./ancient-sculptures-from-tambon-na-san-nakhon-si-thammarat-pr.md). *JMBRAS* 55(2): 60–61
 - [M.C. Subhadradis Diskul](./mc-subhadradis-diskul.md) (1980). [Chedi at Wat Keo, Chaiya, Suratthani](./chedi-at-wat-keo-chaiya-suratthani.md). *JMBRAS* 53(2): 1–4
 - Wales, H.G.Q. The Takuapa Vishnu. MB 40(1)
@@ -70,7 +68,6 @@ published: false
 ### Description and travel
 
 - Archaimbault, C. Sam Sam of Kedah and Perlis. MB 30(1)
-- Boesch, E.E. Report of Thai-European research seminar. MB 58(2) {R}
 - [C.F. Bozzolo](./cf-bozzolo.md) (2018). [Visit to Kelantan and southern Siam in 1888](./visit-to-kelantan-and-southern-siam-in-1888.md). *JMBRAS* 91: 93–150
 - [G. Dabin](./g-dabin.md) and [W.E. Maxwell](./sir-william-edward-maxwell.md) (1885). [A missionary’s journey through Laos from Bangkok to Ubon (.E. Maxwell](./a-missionarys-journey-through-laos-from-bangkok-to-ubon-e-ma.md). *JSBRAS* 15: 103–117
 - Hickling, R.H. Visit by MBRAS members to Siam Society. MB 66(2) and 67(1)
@@ -87,32 +84,19 @@ published: false
 ### History
 
 - [D.K. Bassett](./dk-bassett.md) (1961). [English relations with Siam in the seventeenth century](./english-relations-with-siam-in-the-seventeenth-century.md). *JMBRAS* 34(2): 90–105
-- Cushman, J.W. Family and state. Penang mining dynasty. MB 66(2) {R}
 - [C. (Chandran Jeshurun) Jeshurun](./c-chandran-jeshurun-jeshurun.md) (1965). [British foreign policy and the extraterritorial question in Siam 1891–1900](./british-foreign-policy-and-the-extraterritorial-question-in-.md). *JMBRAS* 38(2): 290–313
-- Jeshurun, C. Anglo-French contest for Siam. MB 51(1) {R}
 - [Kobkua Suwannathat-Pian](./kobkua-suwannathat-pian.md) (1982). [Kedah-Siamese correspondence, 1890–1898 {with translations of 10 letters on the Perlis affairs](./kedah-siamese-correspondence-18901898-with-translations-of-1.md). *JMBRAS* 55(2): 62–86
 - [Kobkua Suwannathat-Pian](./kobkua-suwannathat-pian.md) (1986). [The 1839–1841 settlement of Kedah: the Siamese compromise](./the-18391841-settlement-of-kedah-the-siamese-compromise.md). *JMBRAS* 59: 33–48
 - [Kobkua Suwannathat-Pian](./kobkua-suwannathat-pian.md) (1989). [The Kedah succession crisis 1879–1882 {with comments by J.M. Gullick](./the-kedah-succession-crisis-18791882-with-comments-by-jm-gul.md). *JMBRAS* 62(2): 81–108
 - [Kobkua Suwannathat-Pian](./kobkua-suwannathat-pian.md) (1999). [A brief moment of time: Kedah-Siam relations revisited](./a-brief-moment-of-time-kedah-siam-relations-revisited.md). *JMBRAS* 72(2): 65–90
 - [Kobkua Suwannathat-Pian](./kobkua-suwannathat-pian.md) (2020). [Tunku Badlishah Sultan Abdul Hamid Halim Shah, a postscript to the BangkokKedah personalised relations](./tunku-badlishah-sultan-abdul-hamid-halim-shah-a-postscript-t.md). *JMBRAS* 93(2): 119–35
 - Marrison, G.E. Siamese wars with Malacca in reign of Mudzaffar Shah. MB 22(1) and 24(1)
-- Ong Chit Chung. Operation Matador, 1938–41. MB 71(1). {R}
 - [V. Purcell](./victor-purcell.md) (1964). [The relinquishment by the United States of extraterritoriality in Siam](./the-relinquishment-by-the-united-states-of-extraterritoriali.md). *JMBRAS* 37: 99–120
 - [E.H.S. Simmonds](./ehs-simmonds.md) (1965). [Francis Light and the ladies of Thalang](./francis-light-and-the-ladies-of-thalang.md). *JMBRAS* 38(2): 213–228
 - [C. Skinner](./cyril-skinner.md) (1981). [Prince Damrong’s introduction to the “Dispatches of Luang Udom Sombat”](./prince-damrongs-introduction-to-the-dispatches-of-luang-udom.md). *JMBRAS* 54(2): 75–97
 - [C. Skinner](./cyril-skinner.md) (1983). [A Malay mission to Bangkok during the reign of Rama II](./a-malay-mission-to-bangkok-during-the-reign-of-rama-ii.md). *JMBRAS* 56(2): 135–140
 - Turnbull, C.M. Anglo-French rivalry for control of Siam. MB 51(1)
 - [E. Wodak](./e-wodak.md) (1951). [Medals connected with Siam](./medals-connected-with-siam.md). *JMBRAS* 24: 176–180
-- Wongsurawat, W. Ethnic Chinese and the Thai Nation. MB 94(1) {R}
-
-### Culture and society
-
-- Harrison, R.V. (ed) Colonial traces. MB 85(2) {R}
-- King, R. Heritage and identity in contemporary Thailand. MB 91(1) {R}
-- Mitchell, J.L. Culture and politics of luk thung. MB 89(1) {R}
-- Pasuk Phongphaichit (ed) Income, wealth and power inequalities. MB 90(1) {R}
-- Sophorntavy Vorng. Status, power and hierarchy in Bangkok. MB 91(2) {R}
-- Thongchai Winichakul. Past success and present predicament of hyper-royalism. MB 90(2) {R}
 
 ## References
 <!-- Grounded occurrences and citations -->

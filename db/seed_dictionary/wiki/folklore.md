@@ -71,7 +71,6 @@ For Orang Asli folklore, see [Orang Asli](./orang-asli).
 - [H.G. Keith](./hg-keith.md) (1936). [Ulun-no-bokan (Murut) folklore](./ulun-no-bokan-murut-folklore.md). *JMBRAS* 14(3): 323–326
 - [J. Staal](./j-staal.md) (1940). [Folklore of Sadong Dyaks](./folklore-of-sadong-dyaks.md). *JMBRAS* 18(2): 55–82
 - [E.V. Andreini](./ev-andreini.md) (1931). [A Milano muas](./a-milano-muas.md). *JMBRAS* 9: 129–130
-- Dunselman, P.D. Kana sera. MB 33(1) {R}
 - [E.H. Gomes](./eh-gomes.md) (1904). [Two Sea-Dayak legends. {With a note H.N. Ridley](./two-sea-dayak-legends-with-a-note-hn-ridley.md). *JSBRAS* 41: 1–29
 - [E.H. Gomes](./eh-gomes.md) (1906). [Another Sea-Dayak legend](./another-sea-dayak-legend.md). *JSBRAS* 45: 71–83
 - [Tom Harrisson](./tom-harrisson.md) (1949). [Singing pre-history](./singing-pre-history.md). *JMBRAS* 22: 123–142
@@ -80,7 +79,6 @@ For Orang Asli folklore, see [Orang Asli](./orang-asli).
 - [D. Headly](./d-headly.md) and [J. Headly](./j-headly.md) (1948). [Timogan genesis. J. & D. Headly](./timogan-genesis-j-d-headly.md). *JMBRAS* 21: 148–149
 - [A.H. Hill](./anthony-haydock-hill.md) (1955). [Manggeng and Datu Merpati](./manggeng-and-datu-merpati.md). *JMBRAS* 28: 148–158
 - [P. Howes](./p-howes.md) (1955). [Raja Manggeng](./raja-manggeng.md). *JMBRAS* 28: 144–147
-- Janoswki, M. Life and legend of Tuked Rini. MB 88(1) {R}
 - LeBar, F.M. Legend and culture of Kelabit of central Borneo. MB 43(1)
 - [J. Perham](./j-perham.md) (1881). [A Sea Dyak tradition of the deluge and consequent events](./a-sea-dyak-tradition-of-the-deluge-and-consequent-events.md). *JSBRAS* 6: 289–291
 - Klieng’s war-raid to the skies: a Dayak myth. SB 16
@@ -94,9 +92,7 @@ For Orang Asli folklore, see [Orang Asli](./orang-asli).
 - [R.O. Winstedt](./richard-olaf-winstedt.md) (1917). [The folk-tales of Indonesia and Indo-China](./the-folk-tales-of-indonesia-and-indo-china.md). *JSBRAS* 76: 119–126
 - [R.O. Winstedt](./richard-olaf-winstedt.md) (1941). [The Panji tales](./the-panji-tales.md). *JMBRAS* 19(2): 234–237
 
-### Orang Asli
 
-### Malay
 
 #### Animals
 

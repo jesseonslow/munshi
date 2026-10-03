@@ -26,7 +26,6 @@ published: false
 - [P. Francis](./p-francis.md) (1991). [Glass beads in Malaya: a reassessment](./glass-beads-in-malaya-a-reassessment.md). *JMBRAS* 64: 97–118
 - [A. Lamb](./a-lamb.md) (1964). [Notes on beads from Johor Lama and Kota Tinggi](./notes-on-beads-from-johor-lama-and-kota-tinggi.md). *JMBRAS* 37: 88–98
 - [A. Lamb](./a-lamb.md) (1965). [Some observations on stone and glass beads in early South-East Asia](./some-observations-on-stone-and-glass-beads-in-early-south-ea.md). *JMBRAS* 38(2): 87–124
-- Munan, H. Beads of Borneo. MB 79(2) {R}
 
 ## References
 <!-- Grounded occurrences and citations -->

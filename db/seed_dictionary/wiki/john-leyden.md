@@ -21,7 +21,6 @@ published: false
 
 - Bastin, J.S. John Leyden and the Sejarah Melayu. MB 75(2)
 - Hooker, M.B and V.M. (Ed.) John Leyden’s Malay Annals. Reprint 20
-- and MB 75(1) {R}
 
 ## Bibliography
 - (2009) [John Leyden's Translation of the Malay Annals, 1821](./john-leydens-translation-of-the-malay-annals-1821.md). *Reprint* 20: 465

@@ -144,7 +144,6 @@ published: false
 - [J.M. Gullick](./john-michael-gullick.md) (1953). [Style and translation in the Malay press](./style-and-translation-in-the-malay-press.md). *JMBRAS* 26: 14–23
 - [Hamilton A.W](./hamilton-aw.md) (1933). [Some Malay words](./some-malay-words.md). *JMBRAS* 11(2): 137
 - Haughton, W.T. Boriah. SB 30
-- Le Prevost, J. Malay word count 1952. MB 27(1) {R}
 - Luering, H.L.E. Formation of words in Malay. SB39
 - [M.J. Manning](./mj-manning.md) (1956). [Comment on the Malay word count, 1952](./comment-on-the-malay-word-count-1952.md). *JMBRAS* 29: 37–48
 - [C.N. Maxwell](./cn-maxwell.md) (1934). [Some Malay words and derivations](./some-malay-words-and-derivations.md). *JMBRAS* 12(2): 182–183
@@ -195,11 +194,8 @@ published: false
 - [E.J. Brill](./ej-brill.md) (1884). [Proposed English–Malay dictionary](./proposed-englishmalay-dictionary.md). *JSBRAS* 13: 273–274
 - [C.J. Irving](./cj-irving.md) (1878). [Suggestions regarding a new Malay dictionary](./suggestions-regarding-a-new-malay-dictionary.md). *JSBRAS* 2: 199–204
 - [N.B. Dennys](./nicholas-belfield-dennys.md) (1878). [“Pidgin” English](./pidgin-english.md). *JSBRAS* 2: 168–174
-- Pino, E. Kamus Inggeris. MB 28(1) {R}
 - [W. Linehan](./w-linehan.md) (1949). [The earliest word-lists and dictionaries of the Malay language](./the-earliest-word-lists-and-dictionaries-of-the-malay-langua.md). *JMBRAS* 22: 183–187
 - [R. Mee](./r-mee.md) (1929). [An old Malay dictionary](./an-old-malay-dictionary.md). *JMBRAS* 7(2): 316–326
-- Wilkinson, R.J. Malay–English dictionary. MB 11(2) {R}
-- Wilkinson, R.J. _Kamus–Jawi–Melayu–Inggeris_. MB 70(2) {R}
 - [W.Ph. Coolhaas](./wph-coolhaas.md) (1951). [Baud on Raffles](./baud-on-raffles.md). *JMBRAS* 24: 109–120
 - [C.A. Gibson-Hill](./carl-alexander-gibson-hill.md) (1953). [The Dutch-Malay word-list of Peter Floris (1604](./the-dutch-malay-word-list-of-peter-floris-1604.md). *JMBRAS* 26: 204–206
 - [Hamilton A.W](./hamilton-aw.md) (1947). [The first Dutch–Malay vocabulary](./the-first-dutchmalay-vocabulary.md). *JMBRAS* 20(2): 20–25
@@ -240,7 +236,6 @@ published: false
 #### Borneo and Sumatra
 
 - [A.L. Gossens](./al-gossens.md) (1924). [A grammar and vocabulary of the Dusun language](./a-grammar-and-vocabulary-of-the-dusun-language.md). *JMBRAS* 2(2): 87–220
-- Scott, N.C. Dictionary of Sea Dayak. MB 33(1) {R}
 - [G.B. Stooke](./gb-stooke.md) (1924). [Some Land-Dayak words](./some-land-dayak-words.md). *JMBRAS* 2: 78–83
 - [E.O. Van Reijn](./eo-van-reijn.md) (1974). [Some remarks on the dialects of north Kerintji: a link with the Mon-Khmer languages](./some-remarks-on-the-dialects-of-north-kerintji-a-link-with-t.md). *JMBRAS* 47(2): 130–138
 
@@ -280,13 +275,6 @@ published: false
 - [C.O. Blagden](./co-blagden.md) (1909). [From central India to Polynesia](./from-central-india-to-polynesia.md). *JSBRAS* 53: 163–173
 - [E.O. Van Reijn](./eo-van-reijn.md) (1974). [Some remarks on the dialects of north Kerintji: a link with the Mon-Khmer languages](./some-remarks-on-the-dialects-of-north-kerintji-a-link-with-t.md). *JMBRAS* 47(2): 130–138
 - [R.J. Wilkinson](./richard-james-wilkinson.md) (1895). [The Indonesian numerals](./the-indonesian-numerals.md). *JSBRAS* 28: 99–103
-### Chinese
-
-### Tamil
-
-- Subbiah, R. A lexical study of Tamil dialects in lower Perak. MB 40(1) {R}
-
-### Sanskrit
 
 ## References
 <!-- Grounded occurrences and citations -->

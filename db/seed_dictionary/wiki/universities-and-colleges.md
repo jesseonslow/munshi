@@ -26,7 +26,6 @@ published: false
 
 - [Foong See-ton](./foong-see-ton.md) (1959). [The University of Malaya Archaeological Society’s survey of the Kuala Muda area (South Kedah), in July 1956](./the-university-of-malaya-archaeological-societys-survey-of-t.md). *JMBRAS* 32: 209–213
 - [A. Graf](./a-graf.md) (2007). [German works on Malay culture and literature since the nineteenth century](./german-works-on-malay-culture-and-literature-since-the-ninet.md). *JMBRAS* 80(2): 51–65
-- Khoo Joo Ee. Kendi collection at University of Malaya. MB 67(1) {R}
 - [P. Kua](./p-kua.md) (2018). [The Anglo-Chinese College in Malacca, 1818–1843: its location and facilities](./the-anglo-chinese-college-in-malacca-18181843-its-location-a.md). *JMBRAS* 91: 69–88
 - O’Sullivan, L. The Anglo-Chinese College and the early Singapore Institution. MB 61(2)
 - [K.G. Tregonning](./kennedy-gordon-tregonning.md) (1990). [Tertiary education in Malaya: policy and practice, 1905–1962](./tertiary-education-in-malaya-policy-and-practice-19051962.md). *JMBRAS* 63: 1–14

@@ -120,114 +120,64 @@ published: false
 
 ## MBRAS Sources
 
-### Architecture
-
 ### Commerce
 
 - [Anon](./anon-and-unidentifiable-initials.md) and [P.H. Kratoska](./paul-h-kratoska.md) (2023). [Country Traders, the East India Company, and the Rise of Singapore: ‘On Further Interference with the East-India Company’s Privileges of Exclusive Trade’. Facsimile reprint. With a note P. Kratoska](./country-traders-the-east-india-company-and-the-rise-of-singa.md). *JMBRAS* 96(2): 103–121
 - Anon (1973). [150th Anniversary of the Founding of Singapore Commemorative Reprint](./150th-anniversary-of-the-founding-of-singapore-commemorative-reprint.md). ** : 317
 - [C.A. Gibson-Hill](./carl-alexander-gibson-hill.md) (1950). [The Indonesian trading boats reaching Singapore](./the-indonesian-trading-boats-reaching-singapore.md). *JMBRAS* 23: 108–138
-- Hale, R.E. Pioneer Merchants of Singapore. MB 96(1) {R}
 - [J. Lim](./jhs-lim.md) (1996). [The trishaw industry as a “Bang”–based trade](./the-trishaw-industry-as-a-bangbased-trade.md). *JMBRAS* 69(2): 39–59
-- Lim, J. Fujian-Singapore tea trade 1920–60. MB 84(1) {R}
 - [B. Luyt](./brendan-luyt.md) (2023). [Printing in Early 20th Century Singapore: The Contrasting Fates of C](./printing-in-early-20th-century-singapore-the-contrasting-fat.md). *JMBRAS* 96(2): 73–88
 - [Sharom Ahmat](./sharom-ahmat.md) (1965). [American trade with Singapore, 1819–65](./american-trade-with-singapore-181965.md). *JMBRAS* 38(2): 241–257
 - Joseph Balestier, first American consul. MB 39(2)
 - [S.J.C. Liu](./sjc-liu.md) and [T.Y.H. Sim](./tyh-sim.md) (2015). [A Peranakan family between Singapore and Shanghai: business-making, networks and identity, 1870s‒1910s](./a-peranakan-family-between-singapore-and-shanghai-business-m.md). *JMBRAS* 88: 33–57
 - [P. Sodhy](./p-sodhy.md) (1983). [United States consuls in Singapore, 1859–1880](./united-states-consuls-in-singapore-18591880.md). *JMBRAS* 56: 12–32
-- Sullivan, M. Cottage industries in high-rise Singapore. MB 59(2) {R}
 - [K.G. Tregonning](./kennedy-gordon-tregonning.md) (1965). [The origin of the Straits Steamship Company in 1890](./the-origin-of-the-straits-steamship-company-in-1890.md). *JMBRAS* 38(2): 274–289
 - [Wong Lin Ken](./wong-lin-ken.md) (1960). [The trade of Singapore, 1819–69](./the-trade-of-singapore-181969.md). *JMBRAS* 33(4): 1–315
 - [Paul Wheatley](./paul-wheatley.md) et al. (2007). [Southeast Asia - China Interactions: Reprint of articles from the Journal of the Malaysian Branch, Royal Asiatic Society](./southeast-asia-china-interactions-reprint-of-articles-from-the-journal-of-the-malaysian-branch-royal-asiatic-society.md). ** : 620
 
 ### History
 
-- Barr, M.D. A modern history of Singapore. MB 92(2) {R}
 - [P. Borschberg](./peter-borschberg.md) (2017). [Singapore in the cycles of the longue durée](./singapore-in-the-cycles-of-the-longue-durée.md). *JMBRAS* 90: 29–60
 - [P. Borschberg](./peter-borschberg.md) and [B.J.Q. Khoo](./benjamin-j-q-khoo.md) (2018). [Singapore as a port city, c.1290–1819: evidence, frameworks and challenges](./singapore-as-a-port-city-c12901819-evidence-frameworks-and-c.md). *JMBRAS* 91: 1–27
-- Chew, E.C.T. A history of Singapore. MB 65(1) {R}
-- Huang Jianli. Singapore: the scripting of national history. MB 82(1) {R}
 - [M. Kaplan](./m-kaplan.md) and [J. Kelly](./j-kelly.md) (2016). [Ethnographic notes on the state funeral of Lee Kuan Yew: introduction](./ethnographic-notes-on-the-state-funeral-of-lee-kuan-yew-intr.md). *JMBRAS* 89: 81–83
-- Loh Kah Seng (ed) The makers and keepers of Singapore history. MB 84(1) {R}
-- Tarling, N. (ed) C.M. Turnbull and the history of modern Singapore. MB 86(2) {R}
 - Thio, E. Introduction to 1969 commemorative issue of Singapore. MB 42(1)
 - Anon (1973). [150th Anniversary of the Founding of Singapore Commemorative Reprint](./150th-anniversary-of-the-founding-of-singapore-commemorative-reprint.md). ** : 317
-- Turnbull, C.M. A short history of Malaysia, Singapore and Brunei. MB 55(1) {R}
-- Turnbull, C.M. A history of Singapore, 1819–1988. MB 63(2) {R}
-- Alatas, Hussein, Syed. Thomas Stamford Raffles. MB 94(2) {R}
-- Alfian Sa’at (ed) Raffles Renounced. MB 94(2) {R}
-- Barnard, T.P. (ed.) Environmental histories of Singapore. MB 89(2) {R}
 - [K. Blackburn](./k-blackburn.md) (2000). [The collective memory of the Sook Ching massacre and the creation of the civilian war memorial of Singapore](./the-collective-memory-of-the-sook-ching-massacre-and-the-cre.md). *JMBRAS* 73(2): 71–90
 - [K. Blackburn](./k-blackburn.md) (2007). [Heritage site, war memorial and tourist stop: the Japanese cemetery of Singapore, 1891– 2005](./heritage-site-war-memorial-and-tourist-stop-the-japanese-cem.md). *JMBRAS* 80: 17–39
-- Blackburn, K. (ed) War memory in modern Malaysia and Singapore. MB 85(2) {R}
-- Bloodworth, D. The tiger and the trojan horse. MB 60(1) {R}
 - [P. Borschberg](./peter-borschberg.md) (2008). [Jacques de Coutre as a source for the early seventeenth-century history of Singapore, the Johore river and the straits](./jacques-de-coutre-as-a-source-for-the-early-seventeenth-cent.md). *JMBRAS* 81(2): 71–98
-- Borschberg, P. (ed) Admiral Matelieff’s Singapore and Johor (1606–16). MB 90(1) {R}
-- Borschberg, P. The Singapore and Melaka straits in the 17th century. MB 83(2) {R}
-- Buckley, C.B. Anecdotal history. MB 27(1) {R}
-- Corner, E.J.H. The Marquis, a tale of Syonan-To. MB 55(2) {R}
 - [C.D. Cowan](./cd-cowan.md) (1950). [Early Penang and the rise of Singapore: a selection of the manuscript records of the East India Company over the period 1805–32, chosen & edited, with an introduction by C.D. Cowan](./early-penang-and-the-rise-of-singapore-a-selection-of-the-ma.md). *JMBRAS* 23(2): 1–210
-- Farrell, B. Defence and fall of Singapore, 1940–2. MB 79(2) {R}
 - [W. Farquhar](./w-farquhar.md) (2016). [The establishment of Singapore](./the-establishment-of-singapore.md). *JMBRAS* 89(2): 141–143
 - [C.A. Gibson-Hill](./carl-alexander-gibson-hill.md) (1954). [Singapore: notes on the history of the old Strait, 1580–1850](./singapore-notes-on-the-history-of-the-old-strait-15801850.md). *JMBRAS* 27: 163–214
-- Hack, K. Churchill and the impregnable fortress. MB 79(1) {R}
 - [Huang Jianli](./huang-jianli.md) (2009). [Shifting culture and identity: three portraits of Singapore entrepreneur Lee Kong Chian (1893–1967). Il](./shifting-culture-and-identity-three-portraits-of-singapore-e.md). *JMBRAS* 82: 71–100
 - [Huang Jianli](./huang-jianli.md) (2018). [Stamford Raffles and the ‘founding’ of Singapore: the politics of commemoration and dilemmas of history](./stamford-raffles-and-the-founding-of-singapore-the-politics-.md). *JMBRAS* 91(2): 103–122
 - Anon (1973). [150th Anniversary of the Founding of Singapore Commemorative Reprint](./150th-anniversary-of-the-founding-of-singapore-commemorative-reprint.md). ** : 317
 - [J. Kathirithamby– Wells](./j-kathirithamby-wells.md) (1969). [Early Singapore and the inception of a British administrative tradition in the Straits Settlements (1819–32](./early-singapore-and-the-inception-of-a-british-administrativ.md). *JMBRAS* 42(2): 48–73
 - [Khoo Chun Yok](./khoo-chun-yok.md) (2023). [The Collapse of the Riau Entrepôt in 1784 and the Rise of Singapore](./the-collapse-of-the-riau-entrepôt-in-1784-and-the-rise-of-si.md). *JMBRAS* 96(2): 29–48
-- Kratoska, P.H. Malaya and Singapore during the Japanese occupation. MB 69(2) {R}
-- Kratoska, P.H. The Japanese occupation of Malaya, 1941–5. MB 72(2) {R}
 - [P.H. Kratoska](./paul-h-kratoska.md) (2016). [The Singapore water supply](./the-singapore-water-supply.md). *JMBRAS* 89(2): 144–147
-- Kratoska, P.H. The Japanese occupation of Malaya and Singapore, 1941–5. MB 91(2) {R}
 - [Kwa Chong Guan](./kwa-chong-guan.md) and [M. Langdon](./m-langdon.md) (2010). [Notes on ‘Sketch of the Land round Singapore Harbour, 7 February 1819’. M. Langdon and Kwa Chong Guan](./notes-on-sketch-of-the-land-round-singapore-harbour-7-februa.md). *JMBRAS* 83: 1–7
-- Lee, E. Governing multiracial Singapore 1867–1914. MB 66(2) {R}
 - [Y.K. Lee](./yk-lee.md) (1973). [The grand jury in early Singapore](./the-grand-jury-in-early-singapore.md). *JMBRAS* 46(2): 55–150
 - [Leong Foke Meng](./leong-foke-meng.md) (2004). [Early land transactions in Singapore: the real estates of William Farquhar (1774―1839) and John Crawfurd and their families](./early-land-transactions-in-singapore-the-real-estates-of-wil.md). *JMBRAS* 77: 23–42
-- Loh Kah Seng (ed) Living with myths in Singapore. MB 91(2) {R}
 - Anon. [Maxwell, W.E. The founding of Singapore. Malay letters](./mbras-reprint-15.md). *Reprint* 15
 - Anon (1973). [150th Anniversary of the Founding of Singapore Commemorative Reprint](./150th-anniversary-of-the-founding-of-singapore-commemorative-reprint.md). ** : 317
-- Miksic, J.N. Singapore and the silk road of the sea, 1300–1800. MB 87(2) {R}
-- Murfett, M.H. A military history of Singapore 1819–1970. MB 73(1) {R}
 - Anon. [Raffles, R.B. Date of the foundation of Singapore](./mbras-reprint-15.md). *Reprint* 15
 - Anon (1973). [150th Anniversary of the Founding of Singapore Commemorative Reprint](./150th-anniversary-of-the-founding-of-singapore-commemorative-reprint.md). ** : 317
 - [T.S. Raffles](./ts-raffles.md) (1878). [The founding of Singapore](./the-founding-of-singapore.md). *JSBRAS* 2: 175–182
 - and Reprints 1 and 4
-- Singapore Archives Department (comp). A catalogue of oral history. Interviews MB 58(1) {R}
-- Suryono Darusman. Singapore and the Indonesian revolution. MB 66(2) {R}
 - Tarling, N. The Singapore mutiny of 1915. MB 55(2)
-- Thum Ping Tjin. Nationalism and Decolonisation in Singapore. MB 97(1) {R}
-- Trocki, C.A. Prince of pirates: the Temenggongs and Johor and Singapore. MB 52(1) {R}
 - [C.M. Turnbull](./constance-mary-turnbull.md) (1957). [Governor Blundell and Sir Benson Maxwell: a conflict of personalities](./governor-blundell-and-sir-benson-maxwell-a-conflict-of-perso.md). *JMBRAS* 30: 134–163
-- Warren, A. Singapore 1942: Britain’s greatest defeat. MB 75(2) {R}
 - [R.O. Winstedt](./richard-olaf-winstedt.md) (1933). [Abdu’l-Jalil, Sultan of Johore (1699–1719), ‘Abdu’l-Jamal, Temenggong (ca. 1750) and Raffles’ founding of Singapore](./abdul-jalil-sultan-of-johore-16991719-abdul-jamal-temenggong.md). *JMBRAS* 11(2): 161–165
 - Winstedt, R.O. G.P. Rouffaer: history of Singapore. SB 86
 - [N.H. Wright](./nh-wright.md) (2016). [The career of Francis James Bernard: nepotism and patronage in early Singapore](./the-career-of-francis-james-bernard-nepotism-and-patronage-i.md). *JMBRAS* 89(2): 25–44
 - [C.E. Wurtzburg](./ce-wurtzburg.md) (1925). [Early references to the suitability of Singapore](./early-references-to-the-suitability-of-singapore.md). *JMBRAS* 3(3): 105
 
-### Economy
 
 ### Politics and government
 
-- Ang Cheng Guan. Singapore's Grand Strategy. MB 97(1) {R}
-- Chai Heng Chee. Political biography of David Marshall. MB 58(2) {R}
-- Chan Ling Wei, S. Military elite in Singapore. MB 93(2) {R}
-- Cheung Shu-Yeng, S. (ed) Hard State, Soft City of Singapore. MB 97(2) {R}
-- Chua Beng Huat. Communitarianism and state capitalism in Singapore. MB 91(1) {R}
 - [F.-T. Hsu](./f-t-hsu.md) (2017). [Muted speech, Apa Khabar Orang Kampung , and To Singapore, with Love](./muted-speech-apa-khabar-orang-kampung-and-to-singapore-with-.md). *JMBRAS* 90: 113–126
 - [Theophilus Kwek](./theophilus-kwek.md) (2019). [(Trans)national service: reconfiguring citizenship through conscription in Singapore](./transnational-service-reconfiguring-citizenship-through-cons.md). *JMBRAS* 92: 67–90
 - [Theophilus Kwek](./theophilus-kwek.md) (2022). [‘An Hour Before Dawn’: Social and Political Awareness among English-Educated Students in Post-War Singapore](./an-hour-before-dawn-social-and-political-awareness-among-eng.md). *JMBRAS* 95(2): 83–107
-- Lee Su Yin. British policy and the Chinese in Singapore, 1939–55. MB 86(2) {R}
-- Lee Ting Hui. The open united front, 1954–66. MB 72(2) {R}
-- Lily Zubaidah Rahim. Position of Malay community in Singapore. MB 73(1) {R}
 - [L. Metzger](./l-metzger.md) (1996). [Joseph Ducroix, a French agent of the Comintern in Singapore (1931–1932](./joseph-ducroix-a-french-agent-of-the-comintern-in-singapore-.md). *JMBRAS* 69: 1–20
-- Muhammad Suhail bin Mohamed Yazid. He Who Is Made Lord. MB 98(1) {R}
 - Ng Paul Seen. Celebrating Singapore’s sesquicentenary in 1969. MB 92(2)
-- Shashi Jayakumar. History of the People's Action Party. MB 95(1) {R}
-- Tan, K.Y.L. Biography of David Marshall. MB 82(1) {R}
-- Tan Jing Quee. Lim Chin Siong. MB 75(1) {R}
-- Tan Tai Yong. Decolonization and merger politics of ‘Greater Malaysia’. MB 82(1) {R}
-- Weiss, M.L. Party Machines in Singapore and Malaysia. MB 94(1) {R}
 - [Yeo Kim Wah](./yeo-kim-wah.md) (1972). [A study of two early elections in Singapore](./a-study-of-two-early-elections-in-singapore.md). *JMBRAS* 45: 57–80
 - [Yeo Kim Wah](./yeo-kim-wah.md) (1994). [Joining the communist underground: the conversion of English-educated radicals to communism in Singapore](./joining-the-communist-underground-the-conversion-of-english-.md). *JMBRAS* 67: 29–59
 - [C.F. Yong](./cf-yong.md) (1996). [The Malayan communist struggle for survival](./the-malayan-communist-struggle-for-survival.md). *JMBRAS* 69(2): 1–22
@@ -248,7 +198,6 @@ published: false
 - Anon (1973). [150th Anniversary of the Founding of Singapore Commemorative Reprint](./150th-anniversary-of-the-founding-of-singapore-commemorative-reprint.md). ** : 317
 - Ponchalon, H. de. Singapore ca. 1859 tr. C. Dyer. MB 90(2)
 - [W.R. Roff](./william-r-roff.md) (1982). [English-language fiction relating to Malaysia, Singapore and Brunei: a check-list](./english-language-fiction-relating-to-malaysia-singapore-and-.md). *JMBRAS* 55: 62–77
-- Wise, M. (comp) Travellers’ tales of Old Singapore. MB 60(1) {R
 
 ### Temasek and Early History
 
@@ -264,8 +213,6 @@ published: false
 - [D. Heng Thiam Soon](./derek-heng-thiam-soon.md) (2002). [Reconstructing Banzu, a fourteenth century port settlement](./reconstructing-banzu-a-fourteenth-century-port-settlement.md). *JMBRAS* 75: 69–90
 - [Paul Wheatley](./paul-wheatley.md) et al. (2007). [Southeast Asia - China Interactions: Reprint of articles from the Journal of the Malaysian Branch, Royal Asiatic Society](./southeast-asia-china-interactions-reprint-of-articles-from-the-journal-of-the-malaysian-branch-royal-asiatic-society.md). ** : 620
 - Anon (1973). [150th Anniversary of the Founding of Singapore Commemorative Reprint](./150th-anniversary-of-the-founding-of-singapore-commemorative-reprint.md). ** : 317
-- Miksic, J.N. Early Singapore: evidence in maps, text and artefacts. MB 78(1) {R}
-- Miksic, J.N. Singapore and the silk road of the sea, 1300–1800. MB 87(2) {R}
 - [R.J. Wilkinson](./richard-james-wilkinson.md) (1935). [Old Singapore](./old-singapore.md). *JMBRAS* 13(2): 17–21
 - Winstedt, R.O. The founder of old Singapore. SB 82
 - Anon (1973). [150th Anniversary of the Founding of Singapore Commemorative Reprint](./150th-anniversary-of-the-founding-of-singapore-commemorative-reprint.md). ** : 317
@@ -276,14 +223,10 @@ published: false
 ### Social
 
 - [W. Bartley](./w-bartley.md) (1933). [Population of Singapore in 1819](./population-of-singapore-in-1819.md). *JMBRAS* 11(2): 177
-- Chan Kwok Bun. A social history of Singapore. MB 76(2) {R}
 - [R. Y. Chen](./r-y-chen.md) (2016). [Minority voices and dominant structures: the case of Amos Yee](./minority-voices-and-dominant-structures-the-case-of-amos-yee.md). *JMBRAS* 89: 123–135
 - [A.E. Cherian](./ae-cherian.md) (2016). [Singaporean reactions to the commemoration of Lee Kuan Yew in Tamil Nadu](./singaporean-reactions-to-the-commemoration-of-lee-kuan-yew-i.md). *JMBRAS* 89: 137–153
-- Dobbs, S. The Singapore River: a social history. MB 79(1) {R}
 - [C. Eaton](./c-eaton.md) (2015). [A cenotaph for Singapore: contestation and community at the Straits Settlements war memorial](./a-cenotaph-for-singapore-contestation-and-community-at-the-s.md). *JMBRAS* 88(2): 25–50
-- Elliot, A.J.A. Chinese spirit-medium cults in Singapore. MB 29(1) {R}
 - Emmanuel, M. The Malaysia Cup and Singapore, 1965–1996. MB 84(2)
-- Ferzacca, S. Rock Music and Urban Life in Singapore. MB 94(1) {R}
 - [H.W. Firmstone](./hw-firmstone.md) (1905). [Chinese names of streets and places in Singapore and the Malay Peninsula](./chinese-names-of-streets-and-places-in-singapore-and-the-mal.md). *JSBRAS* 42: 53–208
 - [C. Gamba](./c-gamba.md) (1966). [Chinese associations in Singapore](./chinese-associations-in-singapore.md). *JMBRAS* 39(2): 123–168
 - [T.H.H. Hancock](./thh-hancock.md) (1986). [Coleman's Singapore](./colemans-singapore.md). ** : 94
@@ -292,34 +235,19 @@ published: false
 - [R. Hong Cheng Yee](./r-hong-cheng-yee.md) (2016). [Individual and state narratives of Lee Kuan Yew as ancestor and founding father](./individual-and-state-narratives-of-lee-kuan-yew-as-ancestor-.md). *JMBRAS* 89: 115–121
 - Huang Jianli. Civil society activism and the Bukit Brown cemetery. MB 87(2)
 - [S. Hudd](./s-hudd.md) (2019). [Revisiting Christian missionaries in colonial Malaya and Singapore: blurring the boundaries between empire, mission and development](./revisiting-christian-missionaries-in-colonial-malaya-and-sin.md). *JMBRAS* 92: 21–40
-- Kamaludeen Mohamed Nasir. Globalized Muslim youth in the Asia Pacific. MB 89(2) {R}
 - [M. Kaplan](./m-kaplan.md) (2016). [Nation and conservation: postcolonial water narratives in Singapore rituals](./nation-and-conservation-postcolonial-water-narratives-in-sin.md). *JMBRAS* 89(2): 125–138
 - [J. Kelly](./j-kelly.md) (2016). [Nation and consecration: conversions of death into sacrifice in Singapore](./nation-and-consecration-conversions-of-death-into-sacrifice-.md). *JMBRAS* 89: 84–105
-- Koninck, R. de. Singapore’s territorial revolution in fifty maps. MB 92(2) {R}
 - Lee Poh Ping. Chinese society in 19th century Singapore. MB 51(2)
 - Li Nanlan. National mourning rites for Lee Kuan Yew. MB 89(1)
-- Liew Kai Khiun (ed) Singapore Mall Generation. MB 95(2) {R}
-- Lim, E. Singapore’s cinematic history. MB 92(1) {R}
-- Lim, J. Chinese trishaw industry in Singapore, 1942–1983. MB 87(2) {R}
-- Lim Teck Ghee (ed) Straits Philosophical Society. MB 96(1) {R}
 - [Lim Tin Seng](./lim-tin-seng.md) (2018). [The greening of Singapore: parks and roadside trees from colonial rule to the present](./the-greening-of-singapore-parks-and-roadside-trees-from-colo.md). *JMBRAS* 91(2): 79–102
-- Loh Kah Seng. The Bukit Ho Swee fire and squatter resettlement. MB 88(1) {R}
-- Loh Kah Seng. (ed). Industrial Heritage of Singapore. MB 95(1) {R}
-- Norshahril Saat. Singapore students at the Al-Azhar University. MB 93(1) {R}
 - O’Sullivan, L. The Anglo-Chinese College and the early Singapore Institution. MB 61(2)
 - [P.J. Rivers](./pj-rivers.md) (2003). [Keramat in Singapore in the mid-twentieth century](./keramat-in-singapore-in-the-mid-twentieth-century.md). *JMBRAS* 76(2): 93–119
-- Singapore archives and oral history. 1980 programme. MB 58(1) {R}
-- Sullivan, M. Cottage industries in high-rise Singapore. MB 59(2) {R}
 - [F.M. Baddeley](./fm-baddeley.md) et al. (1906). [An index in Romanised Hokkien and Cantonese, comp. Tan Kee Soon, and rev. A.W. Bailey and F.M. Baddeley, to “The Chinese names of streets and places in Singapore”, pub. H.W. Firmstone in Journal No. 42](./an-index-in-romanised-hokkien-and-cantonese-comp-tan-kee-soo.md). *JSBRAS* 46: 195–213
-- Teoh, K.M. Chinese female education in Malaya and Singapore, 1850s–1960s. MB 93(1) {R}
 - Thio, E. Introduction to Singapore 150th anniversary volume. MB 42(1)
 - Anon (1973). [150th Anniversary of the Founding of Singapore Commemorative Reprint](./150th-anniversary-of-the-founding-of-singapore-commemorative-reprint.md). ** : 317
 - [Thum Ping Tjin](./thum-ping-tjin.md) (2010). [Chinese newspapers in Singapore, 1945–1963: mediators of elite and popular tastes in culture and politics](./chinese-newspapers-in-singapore-19451963-mediators-of-elite-.md). *JMBRAS* 83: 53–76
 - [M. Topley](./m-topley.md) (1956). [Chinese religion and religious institutions in Singapore](./chinese-religion-and-religious-institutions-in-singapore.md). *JMBRAS* 29: 70–118
 - [J.F. Warren](./jf-warren.md) (1985). [Social history and the photograph: glimpses of the Singapore rickshaw coolie in the early nineteenth century](./social-history-and-the-photograph-glimpses-of-the-singapore-.md). *JMBRAS* 58: 29–42
-- Warren, J.F. Rickshaw coolie (1880–1940). MB 60(2) {R}
-- Warren, J.F. Karayuki-San of Singapore: 1877–1940. MB 60(2) {R}
-- Wright, N. Armenians in Singapore and Malaya. MB 77(2) {R}
 
 ## References
 <!-- Grounded occurrences and citations -->

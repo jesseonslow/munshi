@@ -29,7 +29,6 @@ published: false
 - Hodgson, C. Memoir. MB 38(2)
 - [B. Luyt](./brendan-luyt.md) (2019). [Producing Malaya : the photography of Carl A. Gibson-Hill](./producing-malaya-the-photography-of-carl-a-gibson-hill.md). *JMBRAS* 92: 1–20
 - [B. Luyt](./brendan-luyt.md) (2022). [An Excerpt from Carl Gibson-Hill: Boats, Birds, Photography, and History in LateColonial Malaya. With a note P. Kratoska](./an-excerpt-from-carl-gibson-hill-boats-birds-photography-and.md). *JMBRAS* 95: 89–94
-- Luyt, B. Carl A. Gibson-Hill. MB 96(1) {R}
 - [B. Luyt](./brendan-luyt.md). [Carl A. Gibson-Hill: Photography, History, Boats, and Birds in Late-Colonial Malaya and Singapore](./carl-a-gibson-hill-photography-history-boats-and-birds-in-la.md). *Monograph* 53
 
 ## Bibliography

@@ -147,36 +147,22 @@ published: false
 
 ## MBRAS Sources
 
-### Architecture
-
-### Commerce
-
 ### Economy
 
 - Anderson, J. Political and commercial considerations etc. re peninsula. MB 45(4)
-- Drabble, J.H. An economic history of Malaysia, c1800–1990. MB 74(1) {R}
 - [F.L. Dunn](./fl-dunn.md) (1975). [Rainforest Collections and Traders: A Study of Resource Utilization in Modern and Ancient Malaya](./rainforest-collections-and-traders-a-study-of-resource-utilization-in-modern-and-ancient-malaya.md). ** : 159
 - [R. Glew](./r-glew.md) and [C. Velu](./c-velu.md) (2020). [Malaysianisation and the Barlow Boustead Estates Agency](./malaysianisation-and-the-barlow-boustead-estates-agency.md). *JMBRAS* 93: 43–66
 - [P.H. Kratoska](./paul-h-kratoska.md) (2013). [Chettiar moneylenders and rural credit in British Malaya](./chettiar-moneylenders-and-rural-credit-in-british-malaya.md). *JMBRAS* 86: 61–78
 - [J.A. Kruyt](./ja-kruyt.md) (1895). [The Straits Settlements and the Malay Peninsula: address by Mr. J.A. Kruyt, delivered before the Indian Society](./the-straits-settlements-and-the-malay-peninsula-address-by-m.md). *JSBRAS* 28: 19–51
-- Lee Kam Hing. Insurance in Malaysia, 1826–1990. MB 87(1) {R}
-- Nazrin Shah, Sultan. Early 20th century Malaya and modern economic contrasts. MB 93(1) {R}
 - Parkinson, C.N. History of United Sua Betong. Monograph 26
-- and MB 70(1) {R}
 - [George L. Peet](./george-l-peet.md) (2017). [A Journal in the Federal Capital](./a-journal-in-the-federal-capital.md). ** : 180
 - [Shakila Yacob](./shakila-yacob.md) (2021). [PETRONAS, Oil Money, and Malaysia's National Sovereignty](./petronas-oil-money-and-malaysias-national-sovereignty.md). *JMBRAS* 94: 119–144
-- Suppiah, U. The Chettiar role in Malaysia’s economic history. MB 91(1) {R}
-- Tai, W.Y. Chinese capitalism in colonial Malaya, 1900‒41. MB 87(2) {R}
-- Toh Kan Woon. New Economic Policy, 1971–1980. MB 98(1) {R}
-- White, N.J. British business in post-colonial Malaysia, 1957–70. MB 77(1) {R}
 - [Wong Yee Tuan](./wong-yee-tuan.md) (2010). [More than a tea planter: John Archibald Russell and his businesses in Malaya, 1899‒1933](./more-than-a-tea-planter-john-archibald-russell-and-his-busin.md). *JMBRAS* 83: 29–51
 
 ### History
 
 - Cheah Boon Kheng (ed). New perspectives and research on Malaysian history.
-- Drabble, J.H. An economic history of Malaysia, c1800–1990. MB 74(1) {R}
 - [J.M. Gullick](./john-michael-gullick.md) (1998). [A history of Malayan history](./a-history-of-malayan-history.md). *JMBRAS* 71(2): 91–103
-- Mahani Musa. Festschrift for Cheah Boon Kheng. MB 75(2) {R}
 - [A.M. Skinner](./allan-maclean-skinner.md) (1882). [Outline history of the British connection with Malaya](./outline-history-of-the-british-connection-with-malaya.md). *JSBRAS* 10: 269–280
 - [R.O. Winstedt](./richard-olaf-winstedt.md) (1935). [A history of Malaya](./a-history-of-malaya.md). *JMBRAS* 13: 1–270
 - [‘Ali bin Raja Haji Ahmad Raja Haji](./ali-bin-raja-haji-ahmad-raja-haji.md) and [R.O. Winstedt](./richard-olaf-winstedt.md) (1932). [A Malay history of Riau and Johore {Tuhfat-al-Nafis}. .O. Winstedt {Jawi](./a-malay-history-of-riau-and-johore-tuhfat-al-nafis-o-winsted.md). *JMBRAS* 10(2): 1–320
@@ -188,20 +174,15 @@ published: false
 - [C.O. Blagden](./co-blagden.md) (1910). [Haji Ka-Ta-Na-Ka-La](./haji-ka-ta-na-ka-la.md). *JSBRAS* 54: 156–157
 - [P. Borschberg](./peter-borschberg.md) (2008). [Jacques de Coutre as a source for the early seventeenth-century history of Singapore, the Johore river and the straits](./jacques-de-coutre-as-a-source-for-the-early-seventeenth-cent.md). *JMBRAS* 81(2): 71–98
 - [P. Borschberg](./peter-borschberg.md) (2010). [Ethnicity, language and culture in Melaka after the transition from Portuguese to Dutch rule (seventeenth century](./ethnicity-language-and-culture-in-melaka-after-the-transitio.md). *JMBRAS* 83(2): 93–117
-- Borschberg, P. {ed} Admiral Matelieff’s Singapore and Johor (1606–16). MB 90(1) {R}
-- Borschberg, P. The Singapore and Melaka straits in the 17th century. MB 83(2) {R}
 - [P. Borschberg](./peter-borschberg.md) (2019). [Three early 17th-century maps by Godinho de Erédia](./three-early-17th-century-maps-by-godinho-de-erédia.md). *JMBRAS* 92(2): 1–28
 - Caldecott, A. Malay Peninsula in 17th and 18th centuries. SB 82
 - [W. Cheah](./w-cheah.md) (2012). [Ming China’s support for Sultan Mahmud of Melaka and its hostility towards the Portuguese after the fall of Melaka in 1511](./ming-chinas-support-for-sultan-mahmud-of-melaka-and-its-host.md). *JMBRAS* 85(2): 55–77
-- De Sousa Pinto, P.J. The Portuguese and the straits of Melaka, 1575–1619. MB 86(2) {R}
 - [C.A. Gibson-Hill](./carl-alexander-gibson-hill.md) (1956). [On the alleged death of Sultan Al’a’ud-din of Johore at Acheh, in 1613](./on-the-alleged-death-of-sultan-alaud-din-of-johore-at-acheh-.md). *JMBRAS* 29: 125–145
-- Heng Thiam Soon, D. Sino-Malay trade and diplomacy. MB 84(1) {R}
 - Jack, W. William Jack’s letters to Nathaniel Wallich, 1819–21. SB 7
 - Josselin de Jong, P.E. Who’s Who in the Malay Annals. MB 34(2)
 - [P.E. de Josselin de Jong](./pe-de-josselin-de-jong.md) (1965). [The rise and decline of a national hero](./the-rise-and-decline-of-a-national-hero.md). *JMBRAS* 38(2): 140–155
 - [D. Kraal](./d-kraal.md) (2010). [The circumstances surrounding the untimely death of Jan S. Timmerman-Thijssen, governor of Malacca 1818-1823](./the-circumstances-surrounding-the-untimely-death-of-jan-s-ti.md). *JMBRAS* 83: 9–28
 - [J.A. Kruyt](./ja-kruyt.md) (1895). [The Straits Settlements and the Malay Peninsula: address by Mr. J.A. Kruyt, delivered before the Indian Society](./the-straits-settlements-and-the-malay-peninsula-address-by-m.md). *JSBRAS* 28: 19–51
-- Langdon, M. Penang: the fourth presidency of India 1805–30 Vol. 1. MB 87(1) {R}
 - I.A. MacGregor (1955). [Johore Lama in the sixteenth century. {In Papers on Johore Lama and the Portuguese in Malaya (1511–1641](./johore-lama-in-the-sixteenth-century-in-papers-on-johore-lam.md). *JMBRAS* 28(2): 48–125
 - I.A. MacGregor (1955). [Johore Lama in the sixteenth century. {In Papers on Johore Lama and the Portuguese in Malaya (1511–1641](./johore-lama-in-the-sixteenth-century-in-papers-on-johore-lam.md). *JMBRAS* 28(2): 48–125
 - [W.P. Groeneveldt](./wp-groeneveldt.md) and [W.G. Maxwell](./sir-william-george-maxwell.md) (1909). [Groeneveldt’s notes on the Malay archipelago and Malacca. W.G. Maxwell](./groeneveldts-notes-on-the-malay-archipelago-and-malacca-wg-m.md). *JSBRAS* 52: 105–110
@@ -215,20 +196,13 @@ published: false
 - [R.O. Winstedt](./richard-olaf-winstedt.md) (1947). [Keramat see Karamat Kingship and enthronement in Malaya](./keramat-see-karamat-kingship-and-enthronement-in-malaya.md). *JMBRAS* 20: 129–139
 - [‘Ali bin Raja Haji Ahmad Raja Haji](./ali-bin-raja-haji-ahmad-raja-haji.md) and [R.O. Winstedt](./richard-olaf-winstedt.md) (1932). [A Malay history of Riau and Johore {Tuhfat-al-Nafis}. .O. Winstedt {Jawi](./a-malay-history-of-riau-and-johore-tuhfat-al-nafis-o-winsted.md). *JMBRAS* 10(2): 1–320
 - [J. de V. Allen](./j-de-v-allen.md) (1963). [The Colonial Office and the Malay States, 1867–73](./the-colonial-office-and-the-malay-states-186773.md). *JMBRAS* 36: 1–36
-- Drabble, J.H. An economic history of Malaysia, c1800–1990. MB 74(1) {R}
-- Driskell, J. (ed.) Malayan Emergency in Cultural Memory. MB 98(1) {R}
-- Harper, T.N. The end of empire and the making of Malaya. MB 74(1) {R}
 - [Khoo Kay Kim](./khoo-kay-kim.md) (1966). [The origin of British administration in Malaya](./the-origin-of-british-administration-in-malaya.md). *JMBRAS* 39: 52–91
-- Lees, L.H. Planting empire, cultivating subjects: British Malaya, 1786–1941. MB 91(2) {R}
 - [L.A. Mills](./la-mills.md) (2003). [British Malaya, 1824 - 67](./british-malaya-1824-67.md). ** : 432
 - Mohamad Rashidi Pakri. The W.E. Maxwell and F.A. Swettenham rivalry. MB 84(2)
-- Nazrin Shah, Sultan. Early 20th century Malaya and modern economic contrasts. MB 93(1) {R}
-- Nonini, D.M. Malay peasant resistance to colonial rule, 1900–57. MB 68(2) {R}
 - [K. Ramakrishna](./k-ramakrishna.md) (2002). [‘Telling people the simple truth’: the role of strategic propaganda in the Malayan Emergency](./telling-people-the-simple-truth-the-role-of-strategic-propag.md). *JMBRAS* 75: 49–68
 - [K. Ramakrishna](./k-ramakrishna.md) (2000). [The making of a Malayan propagandist: the communists, the British and C.C. Too](./the-making-of-a-malayan-propagandist-the-communists-the-brit.md). *JMBRAS* 73: 67–90
 - [Sivachandralingam Sundara Raja](./sivachandralingam-sundara-raja.md) (2021). [Thamboosamy Pillai and the Colonial Elite of British Malaya](./thamboosamy-pillai-and-the-colonial-elite-of-british-malaya.md). *JMBRAS* 94: 101–117
 - Stockwell, A.J. Malayan Union, 1942–8. Monograph 8
-- and MB 53(1) {R}
 - [A.J. Stockwell](./aj-stockwell.md) (1980). [Sir Hugh Clifford in Malaya, 1927–9. “ Pinang pulang ka-tampok ”, with appendix](./sir-hugh-clifford-in-malaya-19279-pinang-pulang-ka-tampok-wi.md). *JMBRAS* 53(2): 21–44
 - [Swettenham, F.A.](./sir-frank-swettenham.md) (1880). [Some account of the independent native states of the Malay Peninsula, especially of the circumstances which led to the more intimate relations recently adopted towards some of them by the British Government](./some-account-of-the-independent-native-states-of-the-malay-p.md). *JSBRAS* 6: 161–202
 - [N. Tarling](./nicholas-tarling.md) (1957). [British policy in the Malay Peninsula and Archipelago, 1824–1871](./british-policy-in-the-malay-peninsula-and-archipelago-182418.md). *JMBRAS* 30(3): 1–228
@@ -238,77 +212,42 @@ published: false
 #### Japanese invasion and occupation
 
 - Abu Talib Ahmad. The Malay Muslims, Islam and the rising sun. Monograph 34
-- and MB 78(1) {R}
 - [Abu Talib Ahmad](./abu-talib-ahmad.md) (2024). [The Japanese Occupation in Pahang, January 1942–September 1945](./the-japanese-occupation-in-pahang-january-1942september-1945.md). *JMBRAS* 97: 30–52
-- Blackburn, K. War memory in modern Malaysia and Singapore. MB 85(2) {R}
-- Blackburn, K. Comfort Women of Singapore. MB 96(1) {R}
-- Cheah Boon Kheng. Red star over Malaya, 1941–6. MB 86(1) {R}
 - [A. Datta](./a-datta.md) (2015). [Social memory and Indian women from Malaya and Singapore in the Rani of Jhansi regiment](./social-memory-and-indian-women-from-malaya-and-singapore-in-.md). *JMBRAS* 88(2): 77–103
 - Frei, H. Japanese soldiers’ views of 1941–2. MB 72(1)
-- Goto, K. Japan and Southeast Asia in the colonial and post-colonial world. MB 77(2) {R}
 - [Hara F](./hara-f.md) (2016). [Japanese soldiers who joined communist guerillas in Malaya](./japanese-soldiers-who-joined-communist-guerillas-in-malaya.md). *JMBRAS* 89(2): 67–99
-- Kenneison, R. The Special Operations Executive in Malaya. MB 92(2) {R}
 - [J. Kozic](./j-kozic.md) and [A. Kozo](./a-kozo.md) (2021). [The everyday life of the people of the Malay Peninsula [c. 1943]. . Kozic](./the-everyday-life-of-the-people-of-the-malay-peninsula-c-194.md). *JMBRAS* 94: 189–195
-- Kratoska, P.H. Malaya and Singapore during the Japanese occupation. MB 69(2) {R}
-- Kratoska, P.H. The Japanese occupation of Malaya, 1941–5. MB 72(2) {R}
 - Kratoska, P.H. Selangor and Perak in 1942. MB 88(1)
-- Kratoska, P.H. The Japanese occupation of Malaya, 1941–5. MB 91(2) {R}
 - [P.H. Kratoska](./paul-h-kratoska.md) (2024). [Some First-Hand Accounts of the Japanese Occupation](./some-first-hand-accounts-of-the-japanese-occupation.md). *JMBRAS* 97: 102–123
 - [P.H. Kratoska](./paul-h-kratoska.md) and [Yuszah Akmal binti Yusoff](./yuszah-akmal-binti-yusoff.md) (2024). [Escape from the Thailand-Burma Railway: The Wartime Journey of Teh bin Said. P.H. Kratoska and Yuszah Akmal binti Yusoff](./escape-from-the-thailand-burma-railway-the-wartime-journey-o.md). *JMBRAS* 97: 153–165
-- Lim Pui Huen, P. (ed). War and memory in Malaysia and Singapore. MB 73(2) {R}
 - [Mahani Musa](./mahani-musa.md) (2016). [Malayan women during the Japanese occupation](./malayan-women-during-the-japanese-occupation.md). *JMBRAS* 89(2): 101–124
-- Ong Chit Chung. Operation Matador. MB 71(1) {R}
-- Rouhan, M. A French Missionary During the Japanese Occupation. MB 95(1) {R}
 - [Dorothy Thatcher](./dorothy-thatcher.md) and [Robert Cross](./robert-cross.md) (1993). [Refugee from the Japanese](./refugee-from-the-japanese.md). ** : 184
 - Thatcher, D. Various documents relating to the Japanese occupation. MB 88(1)
-- Warren, A. Singapore 1942. MB 75(2) {R}
-- Wong Tze Ken, D. The Kinabalu guerillas and the 1943 Jesselton uprising. MB 92(2) {R}
 ### Politics and government
 
 - [H.S. Barlow](./henry-sackville-barlow.md) (1994). [Two communist pamphlets from Kedah and Penang, 1949](./two-communist-pamphlets-from-kedah-and-penang-1949.md). *JMBRAS* 67(2): 61–68
-- Cheah Boon Kheng. Red star over Malaya, 1941–6. MB 86(1) {R}
 - [W. Cheah](./w-cheah.md) (2015). [Memoir of R. Balan, vice-president of the Malayan Communist Party](./memoir-of-r-balan-vice-president-of-the-malayan-communist-pa.md). *JMBRAS* 88(2): 129–138
 - [L. Comber](./l-comber.md) (2010). [‘Traitor of all traitors’― secret agent extraordinaire : Lai Teck, secretary-general, Communist Party of Malaya](./traitor-of-all-traitors-secret-agent-extraordinaire-lai-teck.md). *JMBRAS* 83(2): 1–25
-- Comber, L. The role of the special branch in the Malayan Emergency. MB 82(2) {R}
 - [L. Comber](./l-comber.md) (2012). [The Malayan Emergency: General Templer and the Kinta Valley home guard](./the-malayan-emergency-general-templer-and-the-kinta-valley-h.md). *JMBRAS* 85: 45–62
-- Comber, L. Templer and Malayan independence. MB 88(2) {R}
-- Crouch, H. Government and society in Malaysia. MB 72(2) {R}
-- Dancz, V. Women and party politics in Malaya. MB 61(2) {R}
-- Gullick, J.M. Rulers and Residents. MB 66(1) {R}
 - [J.M. Gullick](./john-michael-gullick.md) (2006). [On the nature of military government: the case of the BMA in Negri Sembilan](./on-the-nature-of-military-government-the-case-of-the-bma-in-.md). *JMBRAS* 79(2): 85–101
 - [J.M. Gullick](./john-michael-gullick.md) (2013). [Recollections of my time in Malaya (1945–1948) Part 1](./recollections-of-my-time-in-malaya-19451948-part-1.md). *JMBRAS* 86(2): 59–76
 - [J.M. Gullick](./john-michael-gullick.md) (2014). [Recollections of my time in Malaya (1945–1956) Part 2](./recollections-of-my-time-in-malaya-19451956-part-2.md). *JMBRAS* 87: 53–81
 - [J.M. Gullick](./john-michael-gullick.md) (2014). [Recollections of my time in Malaya (1945–1956) Part 3](./recollections-of-my-time-in-malaya-19451956-part-3.md). *JMBRAS* 87(2): 47–89
 - [Hara F](./hara-f.md) (2016). [Japanese soldiers who joined communist guerillas in Malaya](./japanese-soldiers-who-joined-communist-guerillas-in-malaya.md). *JMBRAS* 89(2): 67–99
-- Hefner, R.W. Citizenship in Malaysia, Singapore and Indonesia. MB 75(2) {R}
 - [F.-T. Hsu](./f-t-hsu.md) (2017). [Muted speech, Apa Khabar Orang Kampung , and To Singapore, with Love](./muted-speech-apa-khabar-orang-kampung-and-to-singapore-with-.md). *JMBRAS* 90: 113–126
-- Kenneison, R. The Special Operations Executive in Malaya. MB 92(2) {R}
 - [P.H. Kratoska](./paul-h-kratoska.md) (1984). [Penghulus in Perak and Selangor: rationalisation and decline of a traditional Malay office](./penghulus-in-perak-and-selangor-rationalisation-and-decline-.md). *JMBRAS* 57(2): 31–60
-- Kratoska, P.H. Talks on the British Empire in South-East Asia. MB 57(1) {R}
-- Lockwood, D. Politics of the Malayan Communist Party. MB 97(2) {R}
 - [Low Choo Chin](./low-choo-chin.md) (2016). [Immigration control during the Emergency](./immigration-control-during-the-emergency.md). *JMBRAS* 89: 35–59
 - [Mahani Musa](./mahani-musa.md) (2021). ['I Want to Live': Malayan Communist Party Struggles as Seen by Female Defectors](./i-want-to-live-malayan-communist-party-struggles-as-seen-by-.md). *JMBRAS* 94: 75–100
-- Milner, A.C. Kerajaan. MB 57(2) {R}
-- Milner, A.C. The invention of politics in colonial Malaya. MB 73(2) {R}
 - Milner, A.C. Who created Malaysia’s plural society? MB 76(2)
 - [M. Opper](./m-opper.md) (2019). [Boo Chih Fu and the first Malaysian Communist Party split](./boo-chih-fu-and-the-first-malaysian-communist-party-split.md). *JMBRAS* 92: 41–66
 - [Razan Rosman](./razan-rosman.md) and [Sarena Abdullah](./sarena-abdullah.md) (2018). [Wak Ketok and the quest for Malay identity in 1930s Malaya. Razan Rosman and Sarena Abdullah](./wak-ketok-and-the-quest-for-malay-identity-in-1930s-malaya-r.md). *JMBRAS* 91(2): 19–48
-- Rogers, M.L. Local politics in Sungai Raya. MB 66(1) {R}
-- Shafruddin, B.H. The federal factor in government and politics. MB 62(2) {R}
-- Syed Muhd Khairudin Aljunied. Malay radicals in colonial Malaya. MB 89(1) {R}
 - [Tan Miau Ing](./tan-miau-ing.md) (2015). [The formation of the Malayan Chinese Association (MCA) revisited](./the-formation-of-the-malayan-chinese-association-mca-revisit.md). *JMBRAS* 88(2): 105–124
-- Tan Teng Phee. Chinese new villages during the Malayan Emergency. MB 93(1) {R}
-- Ward, I. Slaughter and deception at Batang Kali. MB 84(2) {R}
-- Yao, S. Essays on the Malayan Emergency. MB 89(2) {R}
 - [Yeo Kim Wah](./yeo-kim-wah.md) (1976). [Communist involvement in Malayan labour strikes: 1936 (The communist challenge in the Malayan labour scene, Sept. 1936–Mar. 1937](./communist-involvement-in-malayan-labour-strikes-1936-the-com.md). *JMBRAS* 49(2): 36–79
-- Yeo Kim Wah. Colonial controversy in Malaya 1920–9. MB 56(2) {R}
 - [R.B. McKenna](./rb-mckenna.md) and [C.F. Yong](./cf-yong.md) (1984). [Sir Arthur Young and political control of the Chinese in Malaya and the Straits Settlements](./sir-arthur-young-and-political-control-of-the-chinese-in-mal.md). *JMBRAS* 57(2): 1–30
 - [C.F. Yong](./cf-yong.md) (1996). [The Malayan communist struggle for survival](./the-malayan-communist-struggle-for-survival.md). *JMBRAS* 69(2): 1–22
-- Yong, C.F. Origins of Malayan communism. MB 72(2) {R}
 
 ### Constitution
 
-- Allen, J. de V. Collection of treaties affecting Malaysia. MB 55(2) {R}
 - [E. Chew](./e-chew.md) (1966). [The first State Council in the Protected Malay States](./the-first-state-council-in-the-protected-malay-states.md). *JMBRAS* 39: 182–184
 - [Joseph M. Fernando](./joseph-m-fernando.md) (2002). [The Making of the Malayan Constitution](./the-making-of-the-malayan-constitution.md). ** : 250
 - [P. Loh Fook Seng](./p-loh-fook-seng.md) (1972). [Malay precedence and the federal formula in the Federated Malay States, 1909 to 1939](./malay-precedence-and-the-federal-formula-in-the-federated-ma.md). *JMBRAS* 45(2): 29–50
@@ -359,9 +298,7 @@ published: false
 #### Maps
 
 - [P. Borschberg](./peter-borschberg.md) (2019). [Three early 17th-century maps by Godinho de Erédia](./three-early-17th-century-maps-by-godinho-de-erédia.md). *JMBRAS* 92(2): 1–28
-- Durant, F. Maps of Malaya and Borneo: discovery, statehood and progress. MB 87(1) {R}
 - [C. Jack-Hinton](./c-jack-hinton.md) (1964). [The political and cosmographical background to the Spanish incursion into the Pacific in the sixteenth century](./the-political-and-cosmographical-background-to-the-spanish-i.md). *JMBRAS* 37(2): 125–161
-- Koninck, R. de. Singapore’s territorial revolution in fifty maps. MB 92(2) {R}
 - [J.V. Mills](./jv-mills.md) (1937). [Malaya in the Wu-pei-chih charts](./malaya-in-the-wu-pei-chih-charts.md). *JMBRAS* 15(3): 1–48
 - [J.V. Mills](./jv-mills.md) (1937). [On a collection of Malayan maps in the Raffles Library](./on-a-collection-of-malayan-maps-in-the-raffles-library.md). *JMBRAS* 15(3): 49–63
 ### Description and travel
@@ -373,23 +310,19 @@ published: false
 - [D.D. Daly](./dd-daly.md) (2025). [Surveys and Explorations in the Native States of the Malayan Peninsula, 1875–82. Facsimile reprint. With a note P. Kratoska](./surveys-and-explorations-in-the-native-states-of-the-malayan.md). *JMBRAS* 98: 99–126
 - De Saint-Pol Lias, X.B.. Interior of the Malay Peninsula. MB 94(1)
 - [J.G. Koenig](./jg-koenig.md) (1894). [Journal of a voyage from India to Siam and Malacca in 1779](./journal-of-a-voyage-from-india-to-siam-and-malacca-in-1779.md). *JSBRAS* 27: 57–133
-- Lim Pui Huen, P. The travels of King Chulalongkorn to Malaya. MB 83(1) {R}
 - Maxwell, W.E. Journal of a journey from Province Wellesley to Selama in 1874. SB 19
 - Anon (1977). [A Centenary Volume: 30 Articles selected from JSBRAS and JMBRAS 1878 - 1976](./a-centenary-volume-30-articles-selected-from-jsbras-and-jmbras-1878-1976.md). ** : 358
-- Peet, G.L. A journal in the federal capital. MB 57(2) {R} and Reprint 34
 - [J.J. Sheehan](./jj-sheehan.md) (1934). [Seventeenth century visitors to the Malay Peninsula](./seventeenth-century-visitors-to-the-malay-peninsula.md). *JMBRAS* 12(2): 71–107
 - [C.A. Gibson-Hill](./carl-alexander-gibson-hill.md) et al. (1953). [The Cambridge University Expedition to parts of the Malay Peninsula, 1899–1900: personal accounts. W.W. Skeat and F.F. Laidlaw. {Introd. C.A. Gibson-Hill](./the-cambridge-university-expedition-to-parts-of-the-malay-pe.md). *JMBRAS* 26(4): 1–174
 - [A.M. Skinner](./allan-maclean-skinner.md) (1878). [Geography of the Malay Peninsula](./geography-of-the-malay-peninsula.md). *JSBRAS* 1: 52–62
 - [A.M. Skinner](./allan-maclean-skinner.md) (1878). [Geographical notes – recent journeys in the peninsula](./geographical-notes-recent-journeys-in-the-peninsula.md). *JSBRAS* 2: 222–225
 - [Swettenham, F.A.](./sir-frank-swettenham.md) (1885). [Journal kept during a journey across the Malay Peninsula](./journal-kept-during-a-journey-across-the-malay-peninsula.md). *JSBRAS* 15: 1–37
-- Winstedt, R.O. Malaya. SS, FMS and UMS. MB 1(2) {R}
 
 ### External relations
 
 - Basset, D.K. Anglo-Malay relations, 1786–95. MB 38(2)
 - [N. Dening](./nie-dening.md) (1999). [Changes in the trading ties between China and Malaya, prewar to postwar,](./changes-in-the-trading-ties-between-china-and-malaya-prewar-.md). *JMBRAS* 72: 95–112
 - [Paul Wheatley](./paul-wheatley.md) et al. (2007). [Southeast Asia - China Interactions: Reprint of articles from the Journal of the Malaysian Branch, Royal Asiatic Society](./southeast-asia-china-interactions-reprint-of-articles-from-the-journal-of-the-malaysian-branch-royal-asiatic-society.md). ** : 620
-- Heng Thiam Soon, D. Sino-Malay trade and diplomacy. MB 84(1) {R}
 - [J.V. Mills](./jv-mills.md) (1974). [Arab and Chinese navigators in Malaysian waters in about A.D. 1500](./arab-and-chinese-navigators-in-malaysian-waters-in-about-ad-.md). *JMBRAS* 47(2): 1–82
 - [W.G. Miller](./wg-miller.md) (2011). [English country traders and their relations with Malay rulers in the late eighteenth century](./english-country-traders-and-their-relations-with-malay-ruler.md). *JMBRAS* 84: 23–45
 - [P.C. Hoynck van Papendrecht](./pc-hoynck-van-papendrecht.md) and [H.P.N. Muller](./hpn-muller.md) (1914). [The Malay Peninsula and Europe in the past. H.P.N. Muller Abstracted from the Dutch](./the-malay-peninsula-and-europe-in-the-past-hpn-muller-abstra.md). *JSBRAS* 67: 58–84
@@ -407,10 +340,8 @@ published: false
 - [W. Cheah](./w-cheah.md) (2024). [Feudalisme Melayu: Ciri-Ciri dan Pensejarahannya](./feudalisme-melayu-ciri-ciri-dan-pensejarahannya.md). *JMBRAS* 97: 124–152
 - [A.T. Gallop](./at-gallop.md) (2020). [Sovereign signs: titles of kingship on Malay seals](./sovereign-signs-titles-of-kingship-on-malay-seals.md). *JMBRAS* 93: 1–22
 - [A.T. Gallop](./at-gallop.md) (2024). [Royal Malay Edicts from Kedah: A Diplomatic Study of Istimi](./royal-malay-edicts-from-kedah-a-diplomatic-study-of-istimi.md). *JMBRAS* 97(2): 43–86
-- Gullick, J.M. Rulers and residents. MB 66(1) {R}
 - [Jaafar Aznan](./jaafar-aznan.md) (2020). [The Jamalullails of Perak](./the-jamalullails-of-perak.md). *JMBRAS* 93: 119–132
 - [Kobkua Suwannathat-Pian](./kobkua-suwannathat-pian.md) (1993). [Thrones, claims, claimants, rulers and rules: problems of succession in the Malay Sultanates](./thrones-claims-claimants-rulers-and-rules-problems-of-succes.md). *JMBRAS* 66(2): 1–27
-- Kobkua Suwannathat Pian. The socio-political development of Malay kingship. MB 85(1) {R}
 - [W. Linehan](./w-linehan.md) (1933). [Source of the Malacca, Johore and Pahang genealogies in the Bustan-al-Salatin](./source-of-the-malacca-johore-and-pahang-genealogies-in-the-b.md). *JMBRAS* 11(2): 144
 - [G.E. Marrison](./ge-marrison.md) (1955). [Persian influences in Malay life](./persian-influences-in-malay-life.md). *JMBRAS* 28: 52–69
 - [W.E. Maxwell](./sir-william-edward-maxwell.md) (1882). [The chiri](./the-chiri.md). *JSBRAS* 10: 287–289
@@ -419,15 +350,12 @@ published: false
 - Anon (1977). [A Centenary Volume: 30 Articles selected from JSBRAS and JMBRAS 1878 - 1976](./a-centenary-volume-30-articles-selected-from-jsbras-and-jmbras-1878-1976.md). ** : 358
 - [N. Porath](./n-porath.md) (2011). [The Hikayat Patani : the kingdom of Patani in the Malay and Thai political world](./the-hikayat-patani-the-kingdom-of-patani-in-the-malay-and-th.md). *JMBRAS* 84(2): 45–65
 - [W.R. Roff](./william-r-roff.md) (2012). [On going into the field](./on-going-into-the-field.md). *JMBRAS* 85(2): 103–109
-- Ross, L.N. The Malay Nobat. MB 96(1) {R}
 - Winstedt, R.O. The founder of Malay royalty and his conquest of Saktimuna. MB 4(3)
 - [R.O. Winstedt](./richard-olaf-winstedt.md) (1932). [The Bendaharas and the Temenggongs](./the-bendaharas-and-the-temenggongs.md). *JMBRAS* 10: 53–66
 
-### Geography
 
 ### Bibliographies
 
-- Brown, I. Malaysia bibliography. MB 61(2) {R}
 - [P. Daniel](./p-daniel.md) (1941). [A descriptive catalogue of the books relating to Malaysia in the Raffles Museum & Library, Singapore](./a-descriptive-catalogue-of-the-books-relating-to-malaysia-in.md). *JMBRAS* 19(3): 1–125
 - [N.B. Dennys](./nicholas-belfield-dennys.md) (1880). [A contribution to Malayan bibliography](./a-contribution-to-malayan-bibliography.md). *JSBRAS* 5: 69–123
 - [N.B. Dennys](./nicholas-belfield-dennys.md) (1886). [The journal of the Indian Archipelago](./the-journal-of-the-indian-archipelago.md). *JSBRAS* 18: 335–344

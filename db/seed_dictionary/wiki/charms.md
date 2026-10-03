@@ -34,7 +34,6 @@ published: false
 
 - Anon. Protective charm. SB 30
 - [J.D. Gimlette](./jd-gimlette.md) (1920). [A curious Kelantan charm](./a-curious-kelantan-charm.md). *JSBRAS* 82: 116–118
-- Gimlette, J.D. Malay poisons and charm cures. MB 1(1) and 7(2) {R}
 - [Hamilton A.W](./hamilton-aw.md) (1926). [Malay love charms. Recorded and .W. Hamilton](./malay-love-charms-recorded-and-w-hamilton.md). *JMBRAS* 4: 136–138
 - [H.G. Keith](./hg-keith.md) (1936). [Some ulun-no-bokan (Murut) charms](./some-ulun-no-bokan-murut-charms.md). *JMBRAS* 14(3): 330
 - [G.T. MacBryan](./gt-macbryan.md) and [Muhammad Yusof Shibli](./muhammad-yusof-shibli.md) (1947). [Two Brunei charms. Tr G.T. MacBryan and Mohd. Yusof Shibli](./two-brunei-charms-tr-gt-macbryan-and-mohd-yusof-shibli.md). *JMBRAS* 20(2): 48–59

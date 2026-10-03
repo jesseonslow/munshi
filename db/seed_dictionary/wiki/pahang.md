@@ -44,7 +44,6 @@ published: false
 - [Abu Talib Ahmad](./abu-talib-ahmad.md) (2024). [The Japanese Occupation in Pahang, January 1942–September 1945](./the-japanese-occupation-in-pahang-january-1942september-1945.md). *JMBRAS* 97: 30–52
 - De Silva, J. British relations with Pahang, 1884–95. MB 35(1)
 - Gopinath, A. Pahang 1880–1933. Monograph 18
-- and MB 65(1) {R}
 - [Husin Ali](./husin-ali.md) (1968). [Patterns of rural leadership in Malaya](./patterns-of-rural-leadership-in-malaya.md). *JMBRAS* 41: 95–145
 - Linehan, W. A chap pekak. MB 4(2)
 - [W. Linehan](./w-linehan.md) (1926). [The bendaharas of Pahang](./the-bendaharas-of-pahang.md). *JMBRAS* 4(3): 334–338

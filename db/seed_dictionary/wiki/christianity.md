@@ -35,7 +35,6 @@ published: false
 - [L. Bressan](./l-bressan.md) and [A. Candilio](./a-candilio.md) (2000). [Sultan Abu Bakar’s visit to the Italian king and to the Pope](./sultan-abu-bakars-visit-to-the-italian-king-and-to-the-pope.md). *JMBRAS* 73: 43–54
 - [G. Dabin](./g-dabin.md) and [W.E. Maxwell](./sir-william-edward-maxwell.md) (1885). [A missionary’s journey through Laos from Bangkok to Ubon (.E. Maxwell](./a-missionarys-journey-through-laos-from-bangkok-to-ubon-e-ma.md). *JSBRAS* 15: 103–117
 - [J.R. Daniel](./jr-daniel.md) (1992). [Diversity among Indian Christians in Peninsular Malaysia](./diversity-among-indian-christians-in-peninsular-malaysia.md). *JMBRAS* 65: 71–85
-- DeBernardi, J. Global Christianity and the Local Church. MB 94(2) {R}
 - [C. Doran](./c-doran.md) (1996). [“A fine sphere for female usefulness”: missionary women in the Straits Settlements 1815–45](./a-fine-sphere-for-female-usefulness-missionary-women-in-the-.md). *JMBRAS* 69: 100–111
 - [R.M.M. Fee](./rmm-fee.md) (1963). [Kampong Padre: a Tamil settlement near Bagan Serai, Perak. . Manikam, .K. Jain](./kampong-padre-a-tamil-settlement-near-bagan-serai-perak-mani.md). *JMBRAS* 36: 153–181
 - [S. Hudd](./s-hudd.md) (2019). [Revisiting Christian missionaries in colonial Malaya and Singapore: blurring the boundaries between empire, mission and development](./revisiting-christian-missionaries-in-colonial-malaya-and-sin.md). *JMBRAS* 92: 21–40
@@ -44,8 +43,6 @@ published: false
 - [L. O'Sullivan](./l-osullivan.md) (1984). [The London Missionary Society: a written record of missionaries and printing presses in the Straits Settlements 1815–1847](./the-london-missionary-society-a-written-record-of-missionari.md). *JMBRAS* 57(2): 61–104
 - [Hassan Shuhaimi Nik, bin Nik Abdul Rahman](./hassan-shuhaimi-nik-bin-nik-abdul-rahman.md) and [Raimy Ché-Ross](./raimy-ché-ross.md) (2007). [Current issues on prehistory and protohistory in Malaysian archaeology,](./current-issues-on-prehistory-and-protohistory-in-malaysian-a.md). *JMBRAS* 80: 59–89
 - [P. Pécot](./p-pécot.md) et al. (2020). [The voyages of Father Pécot in the Peninsula, 1821–23](./the-voyages-of-father-pécot-in-the-peninsula-182123.md). *JMBRAS* 93(2): 167–92
-- Rouhan, M. A French Missionary During the Japanese Occupation. MB 95(1) {R}
-- Roxborogh, J. History of Christianity in Malaysia. MB 88(2) {R}
 
 ## References
 <!-- Grounded occurrences and citations -->

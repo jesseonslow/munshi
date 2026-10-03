@@ -25,7 +25,6 @@ published: false
 ## MBRAS Sources
 
 - [C.B. Kloss](./cb-kloss.md) (1923). [Arctic amok](./arctic-amok.md). *JMBRAS* 1: 254
-- Spores, J.C. Running amuck. MB 62(2) {R}
 
 ## References
 <!-- Grounded occurrences and citations -->

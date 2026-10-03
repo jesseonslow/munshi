@@ -21,9 +21,5 @@ published: false
 
 <!-- Synthesis engine: Insert introductory synthesis for Ismail Abdul Rahman here -->
 
-## MBRAS Sources
-
-- Ooi Kee Beng. Tun Dr Ismail: reluctant politician. MB 80(2) {R}
-
 ## References
 <!-- Grounded occurrences and citations -->

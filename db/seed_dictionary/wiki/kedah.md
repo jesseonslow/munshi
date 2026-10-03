@@ -111,8 +111,6 @@ published: false
 
 - Allen, J de V. Anglo-Kedah relations. MB 41(1)
 - [D.K. Bassett](./dk-bassett.md) (1989). [Anglo-Kedah relations 1685–1765](./anglo-kedah-relations-16851765.md). *JMBRAS* 62(2): 1–17
-- Cheah Boon Kheng. Peasant robbers of Kedah. MB 63(1) [R]
-- Cheah Boon Kheng. Peasant robbers of Kedah: historical and folk perceptions. MB 88(1) {R}
 - [C.A. Gibson-Hill](./carl-alexander-gibson-hill.md) (1951). [The affair at Bruas (1837](./the-affair-at-bruas-1837.md). *JMBRAS* 24(3): 163–167
 - [J.M. Gullick](./john-michael-gullick.md) (1983). [Kedah 1821–1855: years of exile and return](./kedah-18211855-years-of-exile-and-return.md). *JMBRAS* 56(2): 31–86
 - [J.M. Gullick](./john-michael-gullick.md) (1985). [Kedah in the reign of Sultan Ahmad Tajuddin II](./kedah-in-the-reign-of-sultan-ahmad-tajuddin-ii.md). *JMBRAS* 58(2): 107–134
@@ -136,7 +134,6 @@ published: false
 - [R.O. Winstedt](./richard-olaf-winstedt.md) (1947). [Notes on Malay subjects](./notes-on-malay-subjects.md). *JMBRAS* 20: 140–142
 - Wu Xiao An. Sino-Malay trade relations in Penang, Kedah and N Sumatra. MB 70(2)
 - Anon (2015). [Glimpses of Penang's Past](./glimpses-of-penangs-past.md). ** : 325
-- Wu Xiao An. Chinese business in Kedah 1882–1914. MB 76(2) {R} and 85(1) {R}
 
 ## References
 <!-- Grounded occurrences and citations -->

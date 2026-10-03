@@ -80,17 +80,14 @@ published: false
 - [R.H. Hickling](./rh-hickling.md) (1994). [The progress of Malaysian law. Annual lecture delivered on 6 December, 1994](./the-progress-of-malaysian-law-annual-lecture-delivered-on-6-.md). *JMBRAS* 67(2): 1–15
 - [M.B. Hooker](./mb-hooker.md) (1978). [Towards a legal history of Southeast Asia](./towards-a-legal-history-of-southeast-asia.md). *JMBRAS* 51: 110–121
 - [Lynn Hollen Lees](./lynn-hollen-lees.md) (2021). [Becoming Malay: The Case of the Batak Orphans in 1930s Perak](./becoming-malay-the-case-of-the-batak-orphans-in-1930s-perak.md). *JMBRAS* 94(2): 141–167
-- Mooney, P. Reminiscences of a crown counsel in 1950s Borneo. MB 85(1) {R}
 
 ### Western
 
-- Nurfadzilah Yahaya. Colonial law and Arabs. MB 94(2) {R}
 - [Tan Soo-Chye](./tan-soo-chye.md) (1950). [A note on early legislation in Penang](./a-note-on-early-legislation-in-penang.md). *JMBRAS* 23: 100–107
 - Anon (2015). [Glimpses of Penang's Past](./glimpses-of-penangs-past.md). ** : 325
 
 ### Malay texts
 
-- Drewes, G.W.J. Undang-undang Malacca. MB 53(1) {R}
 - [M.B. Hooker](./mb-hooker.md) (1968). [A note on the Malayan legal digests](./a-note-on-the-malayan-legal-digests.md). *JMBRAS* 41: 157–170
 - [M.B. Hooker](./mb-hooker.md) (1976). [The Trengganu inscription in Malayan legal history](./the-trengganu-inscription-in-malayan-legal-history.md). *JMBRAS* 49(2): 127–131
 - Anon (1977). [A Centenary Volume: 30 Articles selected from JSBRAS and JMBRAS 1878 - 1976](./a-centenary-volume-30-articles-selected-from-jsbras-and-jmbras-1878-1976.md). ** : 358
@@ -105,8 +102,6 @@ published: false
 - [R.O. Winstedt](./richard-olaf-winstedt.md) (1953). [An old Minangkabau legal digest from Perak](./an-old-minangkabau-legal-digest-from-perak.md). *JMBRAS* 26: 1–13
 - [P.E. de Josselin de Jong](./pe-de-josselin-de-jong.md) and [R.O. Winstedt](./richard-olaf-winstedt.md) (1954). [A digest of customary law from Sungai Ujong. R.O. Winstedt and P.E. de Josselin de Jong](./a-digest-of-customary-law-from-sungai-ujong-ro-winstedt-and-.md). *JMBRAS* 27(3): 1–71
 - [P.E. de Josselin de Jong](./pe-de-josselin-de-jong.md) and [R.O. Winstedt](./richard-olaf-winstedt.md) (1956). [The maritime laws of Malacca. ed R. Winstedt and P.E. de Josselin de Jong](./the-maritime-laws-of-malacca-ed-r-winstedt-and-pe-de-josseli.md). *JMBRAS* 29(3): 22–59
-
-### Administration of justice
 
 ## References
 <!-- Grounded occurrences and citations -->

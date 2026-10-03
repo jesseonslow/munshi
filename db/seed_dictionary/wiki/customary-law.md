@@ -101,9 +101,7 @@ published: false
 
 ### Malaya
 
-- Drewes, G.W.J. _Undang-undang_ Melaka ed. Liaw Yock Fang. MB 53(1) {R}
 - [M.B. Hooker](./mb-hooker.md) (1968). [A note on the Malayan legal digests](./a-note-on-the-malayan-legal-digests.md). *JMBRAS* 41: 157–170
-- Hooker, M.B. Readings in Malay _adat_ laws. MB 45(1) {R}
 - [R.W. Jakeman](./rw-jakeman.md) (1951). [The “Pahang Kanun” of Sultan ‘Abdul Ghafur: another text](./the-pahang-kanun-of-sultan-abdul-ghafur-another-text.md). *JMBRAS* 24(3): 150–151
 - [J.E. Kempe](./je-kempe.md) and [R.O. Winstedt](./richard-olaf-winstedt.md) (1948). [A Malay legal digest compiled for ‘Abd al-Ghafur Muhaiyuddin Shah, Sultan of Pahang, 1592–1614 A.D., with undated additions. .E](./a-malay-legal-digest-compiled-for-abd-al-ghafur-muhaiyuddin-.md). *JMBRAS* 21: 1–67
 - [J.E. Kempe](./je-kempe.md) and [R.O. Winstedt](./richard-olaf-winstedt.md) (1952). [A Malay legal miscellany](./a-malay-legal-miscellany.md). *JMBRAS* 25: 1–19

@@ -57,16 +57,11 @@ published: false
 
 ### Singapore
 
-- Davison, J. Black and white house. MB 80(1) {R}
-- Gretchen, M. Singapore’s architectural heritage. MB 59(1) {R}
 - [T.H.H. Hancock](./thh-hancock.md) (1986). [Coleman's Singapore](./colemans-singapore.md). ** : 94
-- Coleman’s Singapore. MB 60(1) {R}
-- Lee Kip Lin. Emerald Hill. MB 59(1) {R}
 
 ### Southeast Asia
 
 - Lim, J.H.S. Shophouse Rafflesia. MB 66(1)
-- Waterson, R. Anthropology of architecture. MB 63(2) {R}
 
 ### Malaya
 
@@ -84,7 +79,6 @@ published: false
 - Waterson, R. Living house. Anthropology of architecture in Malaya. MB 65(2)
 - [R.O. Winstedt](./richard-olaf-winstedt.md) (1929). [A Perak palace](./a-perak-palace.md). *JMBRAS* 7(3): 457–458
 - Zuraini Md Ali. Mubin Sheppard, conservation pioneer in Malaysia. MB
-- Zuraini Md Ali. Mubin Sheppard: Pioneering Works in Architectural Conservation in Malaysia. MB 95(1) {R}
 
 ## References
 <!-- Grounded occurrences and citations -->

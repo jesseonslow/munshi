@@ -82,7 +82,6 @@ published: false
 - [Tom Harrisson](./tom-harrisson.md) (1949). [Gold and Indian influences in west Borneo](./gold-and-indian-influences-in-west-borneo.md). *JMBRAS* 22(4): 33–110
 - [Tom Harrisson](./tom-harrisson.md) (1967). [Recent archaeological discoveries in East Malaysia and Brunei](./recent-archaeological-discoveries-in-east-malaysia-and-brune.md). *JMBRAS* 40: 140–148
 - [Tom Harrisson](./tom-harrisson.md) (1971). [Prehistoric double-spouted vessels excavated from Niah Caves, Borneo](./prehistoric-double-spouted-vessels-excavated-from-niah-caves.md). *JMBRAS* 44(2): 35–78
-- L’Hour, M. Underwater archaeology in Brunei. MB 75(1) {R}
 - [K.A. Nilakanta Sastri](./k-a-nilakanta-sastri.md) (1949). [A note on the Sambas finds](./a-note-on-the-sambas-finds.md). *JMBRAS* 22(4): 16–19
 - [W.G.H. Solheim](./wgh-solheim.md) (1977). [The Niah research program](./the-niah-research-program.md). *JMBRAS* 50: 28–40
 - [Tan Yeok-Seong](./tan-yeok-seong.md) (1949). [The incense burner from the Sambas treasures](./the-incense-burner-from-the-sambas-treasures.md). *JMBRAS* 22(4): 19–22
@@ -90,11 +89,8 @@ published: false
 
 ### China, Indonesia, Thailand
 
-- Cheng, Te K’un. Archaeological studies in Szechwan. MB 33(1) {R}
 - [A. Lamb](./a-lamb.md) (1977). [A note on two ritual depositories from Pimai, Thailand](./a-note-on-two-ritual-depositories-from-pimai-thailand.md). *JMBRAS* 50: 68–70
 - O’Connor, S.J. Satingphra sculpture: dating. MB 39(1)
-- _Oudheidkundig verslag_, 1930. MB 19(1) {R}
-- Stutterheim, W.F. Studies in Indonesian archaeology. MB 29(1) {R}
 - [M.C. Subhadradis Diskul](./mc-subhadradis-diskul.md) (1980). [Chedi at Wat Keo, Chaiya, Suratthani](./chedi-at-wat-keo-chaiya-suratthani.md). *JMBRAS* 53(2): 1–4
 
 ### Malaya
@@ -110,15 +106,12 @@ published: false
 - [Hassan Shuhaimi Nik, bin Nik Abdul Rahman](./hassan-shuhaimi-nik-bin-nik-abdul-rahman.md) (2007). [Rejoinder to W.G. Solheim’s comments on his article in MB 80(1](./rejoinder-to-wg-solheims-comments-on-his-article-in-mb-801.md). *JMBRAS* 80(2): 104
 - [A. Lamb](./a-lamb.md) (1959). [Recent archaeological work in Kedah (1958](./recent-archaeological-work-in-kedah-1958.md). *JMBRAS* 32: 214–232
 - Lamb, A. Miscellaneous archaeological discoveries. MB 37(1)
-- Liao, B. Bujang Valley. MB 98(1) {R}
 - [W. Linehan](./w-linehan.md) (1928). [Notes on the remains of some ancient brick structures in Pekan district](./notes-on-the-remains-of-some-ancient-brick-structures-in-pek.md). *JMBRAS* 6(4): 78–81
 - [W. Linehan](./w-linehan.md) (1928). [Some discoveries on the Tembeling](./some-discoveries-on-the-tembeling.md). *JMBRAS* 6(4): 66–77
 - [W. Linehan](./w-linehan.md) (1930). [Notes on some further archaeological discoveries in Pahang](./notes-on-some-further-archaeological-discoveries-in-pahang.md). *JMBRAS* 8(2): 314–317
 - [Gathorne Gathorne-Hardy, Lord (Earl of Cranbrook) Medway](./gathorne-gathorne-hardy-lord-earl-of-cranbrook-medway.md) (1969). [Excavations at Gua Kechil, Pahang](./excavations-at-gua-kechil-pahang.md). *JMBRAS* 42(2): 197–205
 - [V. Bujeng](./v-bujeng.md) et al. (2025). [The Bukit Choras Inscriptions and the Significance of the Sāgaramatiparipṛcchā Verses to Ancient Kedah.](./the-bukit-choras-inscriptions-and-the-significance-of-the-sā.md). *JMBRAS* 98(2): 5–34
-- Nasha Rodziadi Khaw. Kedah Tua. MB 98(1) {R}
 - [H.D. Noone](./hd-noone.md) (1941). [A find of pottery sherds on a beach near Sepang, Selangor](./a-find-of-pottery-sherds-on-a-beach-near-sepang-selangor.md). *JMBRAS* 19(2): 217–218
-- Perret, D. Aceh _warisan daerah_ Johor. MB 74(1) {R}
 - [Piriya Krairiksh](./piriya-krairiksh.md) (1974). [A note on the Makara balustrade at Malacca](./a-note-on-the-makara-balustrade-at-malacca.md). *JMBRAS* 47: 96–103
 - Raimy Ché-Ross. Lost city of Kota Gelanggi: textual evidence and aerial photography. MB
 - [W.G.H. Solheim](./wgh-solheim.md) (2007). [Comments on Nik Hassan Nik Abdul Rahman’s article in MB 80(1](./comments-on-nik-hassan-nik-abdul-rahmans-article-in-mb-801.md). *JMBRAS* 80(2): 102–104
@@ -130,7 +123,6 @@ published: false
 - Wales, H.G.Q. Ancient Indian colonisation in Malaya. MB 18(1)
 - [D.C. Wales](./dc-wales.md) and [H.G.Q. Wales](./horace-geoffrey-quaritch-wales.md) (1947). [Further work on Indian sites in Malaya](./further-work-on-indian-sites-in-malaya.md). *JMBRAS* 20: 1–11
 - Wales, H.G.Q. The “Hindu period” of Malayan archaeology. MB 43(1)
-- Wales, H.G.Q. The Malay world in Hindu times. MB 51(2) {R}
 - [Wang Gungwu](./wang-gungwu.md) (1958). [The University of Malaya Archaeological Society’s survey of Central Kedah in May 1958](./the-university-of-malaya-archaeological-societys-survey-of-c.md). *JMBRAS* 31: 220–223
 - [P.D.R. Williams-Hunt](./pdr-williams-hunt.md) (1948). [Notes on archaeology from the air in Malaya](./notes-on-archaeology-from-the-air-in-malaya.md). *JMBRAS* 21: 150–156
 - [R.O. Winstedt](./richard-olaf-winstedt.md) (1928). [Gold ornaments dug up at Fort Canning, Singapore](./gold-ornaments-dug-up-at-fort-canning-singapore.md). *JMBRAS* 6(4): 1–4
@@ -150,8 +142,6 @@ published: false
 - [F.L. Dunn](./fl-dunn.md) and [B.A.V. Peacock](./bav-peacock.md) (1968). [Recent archaeological discoveries in Malaysia. 1967: West Malaysia](./recent-archaeological-discoveries-in-malaysia-1967-west-mala.md). *JMBRAS* 41: 171–179
 - Anon (1977). [A Centenary Volume: 30 Articles selected from JSBRAS and JMBRAS 1878 - 1976](./a-centenary-volume-30-articles-selected-from-jsbras-and-jmbras-1878-1976.md). ** : 358
 - [P.D.R. Williams-Hunt](./pdr-williams-hunt.md) (1952). [Recent archaeological discoveries in Malaya (1951)](./recent-archaeological-discoveries-in-malaya-1951.md). *JMBRAS* 25: 181–190
-- Winstedt, R.O. Annual bibliography of Indian archaeology. MB 10(1) {R}
-- _Oudheidkundig verslag_. MB 10(1) {R}
 
 ### Sumatra
 
@@ -159,7 +149,6 @@ published: false
 - [E.E. McKinnon](./ee-mckinnon.md) (1979). [A note on the discovery of spur-marked yueh-type sherds at Bukit Seguntang Palembang](./a-note-on-the-discovery-of-spur-marked-yueh-type-sherds-at-b.md). *JMBRAS* 52(2): 41–47
 - Gold ‘tali’ from Kota Cina. MB 53(2)
 - [E. Edwards](./e-edwards.md) et al. (1980). [Analysis of gold artefacts from the Kota Cina site, near Medan, Sumatra (with appendices). A. Manning, E](./analysis-of-gold-artefacts-from-the-kota-cina-site-near-meda.md). *JMBRAS* 53(2): 102–116
-- Tjoa-Bonatz, M.L. Settlement history of West Sumatra. MB 93(1) {R}
 
 ## References
 <!-- Grounded occurrences and citations -->

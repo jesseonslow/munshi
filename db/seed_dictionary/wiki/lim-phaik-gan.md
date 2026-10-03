@@ -19,9 +19,5 @@ published: false
 
 <!-- Synthesis engine: Insert introductory synthesis for Lim Phaik Gan here -->
 
-## MBRAS Sources
-
-- Lim, P.G. Memoirs. MB 86(1) {R}
-
 ## References
 <!-- Grounded occurrences and citations -->

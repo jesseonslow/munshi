@@ -139,7 +139,6 @@ published: false
 - [R. Cardon](./r-cardon.md) (1948). [Old Malacca: Tranqueira and Gajah Berang](./old-malacca-tranqueira-and-gajah-berang.md). *JMBRAS* 21: 104–116
 - [W. Cheah](./w-cheah.md) (2012). [Ming China’s support for Sultan Mahmud of Melaka and its hostility towards the Portuguese after the fall of Melaka in 1511](./ming-chinas-support-for-sultan-mahmud-of-melaka-and-its-host.md). *JMBRAS* 85(2): 55–77
 - [W.Ph. Coolhaas](./wph-coolhaas.md) (1965). [Malacca under Jan van Riebeeck](./malacca-under-jan-van-riebeeck.md). *JMBRAS* 38(2): 173–182
-- De Sousa Pinto, P.J. The Portuguese and the straits of Melaka, 1575–1619. MB 86(2) {R}
 - [E. Koek](./e-koek.md) (1886). [Portuguese history of Malacca](./portuguese-history-of-malacca.md). *JSBRAS* 17: 117–149
 - [Hacobian Mac](./hacobian-mac.md) et al. (1936). [The siege and capture of Malacca from the Portuguese in 1640–1641: extracts from the archives of the Dutch East India Company; . 128–429](./the-siege-and-capture-of-malacca-from-the-portuguese-in-1640.md). *JMBRAS* 14: 1–178
 - I.A. MacGregor (1955). [Gaspar Correa and Malacca](./gaspar-correa-and-malacca.md). *JMBRAS* 28: 162–166
@@ -159,11 +158,9 @@ published: false
 - [I. Baxter](./i-baxter.md) (1984). [Dutch records from Malacca in the India Office Records](./dutch-records-from-malacca-in-the-india-office-records.md). *JMBRAS* 56(2): 105–134
 - [C.O. Blagden](./co-blagden.md) and [L.A. Mills](./la-mills.md) (1925). [British Malaya, 1824–1867. L.A. Mills. With an appendix C.O. Blagden](./british-malaya-18241867-la-mills-with-an-appendix-co-blagden.md). *JMBRAS* 3(2): 1–338
 - [P. Borschberg](./peter-borschberg.md) (2010). [Ethnicity, language and culture in Melaka after the transition from Portuguese to Dutch rule (seventeenth century](./ethnicity-language-and-culture-in-melaka-after-the-transitio.md). *JMBRAS* 83(2): 93–117
-- Borschberg, P. The Singapore and Melaka straits in the 17th century. MB 83(2) {R}
 - [C.O. Blagden](./co-blagden.md) et al. (1927). [Report of Governor Balthasar Bort on Malacca, 1678. .J. Bremner: with an introd. and notes C.O. Blagden](./report-of-governor-balthasar-bort-on-malacca-1678-j-bremner-.md). *JMBRAS* 5: 1–232
 - [P.G. de Bruijn](./pg-de-bruijn.md) and [Harrison B](./harrison-b.md) (1953). [Trade in the Straits of Malacca in 1785: a memorandum. . Harrison](./trade-in-the-straits-of-malacca-in-1785-a-memorandum-harriso.md). *JMBRAS* 26: 56–62
 - [T.H.H. Hancock](./thh-hancock.md) (1986). [Coleman's Singapore](./colemans-singapore.md). ** : 94
-- Cave, J.E.M. Naning in Malacca. MB 63(2) {R}
 - [W.Ph. Coolhaas](./wph-coolhaas.md) (1965). [Malacca under Jan van Riebeeck](./malacca-under-jan-van-riebeeck.md). *JMBRAS* 38(2): 173–182
 - [R.J.F. Curtis](./rjf-curtis.md) (1980). [The revival of the title of Dato Naning in 1921. With an introductory note by the editor](./the-revival-of-the-title-of-dato-naning-in-1921-with-an-intr.md). *JMBRAS* 53(2): 86–101
 - [Radin Fernando](./radin-fernando.md) (2006). [Murder Most Foul: A Panorama of Social Life in Melaka from the 1780s to the 1820s](./murder-most-foul-a-panorama-of-social-life-in-melaka-from-the-1780s-to-the-1820s.md). ** : 132
@@ -178,11 +175,9 @@ published: false
 - [D. Kraal](./d-kraal.md) (2010). [The circumstances surrounding the untimely death of Jan S. Timmerman-Thijssen, governor of Malacca 1818-1823](./the-circumstances-surrounding-the-untimely-death-of-jan-s-ti.md). *JMBRAS* 83: 9–28
 - [P. Kua](./p-kua.md) (2018). [The Anglo-Chinese College in Malacca, 1818–1843: its location and facilities](./the-anglo-chinese-college-in-malacca-18181843-its-location-a.md). *JMBRAS* 91: 69–88
 - [W.C. Lennon](./wc-lennon.md) (1881). [Journal of a voyage through the Straits of Malacca on an expedition to the Molucca islands under the command of Admiral Rainier with some account of those islands at the time of their falling into our hands, and likewise suggestions relative to their future better management in case of being retained in our possession](./journal-of-a-voyage-through-the-straits-of-malacca-on-an-exp.md). *JSBRAS* 7: 51–74
-- Lewis, D. Jan Compagnie in the Straits of Malacca, 1641–1795. MB 69(2) {R}
 - [M. MacDonald](./m-macdonald.md) (1934). [Notes on the translation of Bort’s report on Malacca in Journal M.B.R.A.S. 1927](./notes-on-the-translation-of-borts-report-on-malacca-in-journ.md). *JMBRAS* 12(2): 24–26
 - [W.E. Maxwell](./sir-william-edward-maxwell.md) (1890). [Raja Haji](./raja-haji.md). *JSBRAS* 22: 173–224
 - Noordin Hussin. Melaka and Penang 1780–1830 compared. MB 75(2)
-- Shaun Adam. Dol Said and the Naning War. MB 96(2) {R}
 - [D.F.A. Hervey](./dudley-francis-amelius-hervey.md) and [F. Valentijn](./f-valentijn.md) (1890). [Valentyn’s account of Malacca](./valentyns-account-of-malacca.md). *JSBRAS* 22: 225–246
 - [G.N. Appell](./gn-appell.md) and [Harrison R](./harrison-r.md) (1968). [Ethnographic profiles of the Dusun-speaking peoples of Sabah, Malaysia. With the collaboration of R. Harrison](./ethnographic-profiles-of-the-dusun-speaking-peoples-of-sabah.md). *JMBRAS* 41(2): 131–147
 
@@ -194,14 +189,12 @@ published: false
 - Abdullah bin Abdul Kadir Munshi and [A.H. Hill](./anthony-haydock-hill.md) (1950). [Munshi Abdullah’s account of the Malacca Fort. A.H. Hill](./munshi-abdullahs-account-of-the-malacca-fort-ah-hill.md). *JMBRAS* 23: 84–99
 - [S. Jardin](./s-jardin.md) (2025). [The Melaka Fort Gateway: Setting the Record Straight](./the-melaka-fort-gateway-setting-the-record-straight.md). *JMBRAS* 98: 5–22
 
-### Buildings
 
 ### Description and travel
 
 - [J.S. Bastin](./john-bastin.md) and [C.A. Gibson-Hill](./carl-alexander-gibson-hill.md) (1958). [Five early watercolour sketches of Penang & Malacca. J. Bastin and C.A. Gibson-Hill](./five-early-watercolour-sketches-of-penang-malacca-j-bastin-a.md). *JMBRAS* 31: 163–171
 - [C.O. Blagden](./co-blagden.md) et al. (1927). [Report of Governor Balthasar Bort on Malacca, 1678. .J. Bremner: with an introd. and notes C.O. Blagden](./report-of-governor-balthasar-bort-on-malacca-1678-j-bremner-.md). *JMBRAS* 5: 1–232
 - [H. de Bougainville](./h-de-bougainville.md) (2017). [Malacca in 1824: an eye-witness account. . Dyer; with an introd. and notes](./malacca-in-1824-an-eye-witness-account-dyer-with-an-introd-a.md). *JMBRAS* 90: 131–137
-- Eredia, E. de G. Malacca, Meridional India and Cathay. MB 8(1), Reprint 14, MB 71(2) {R}
 - Hoynck van Papendrecht, R.B. Private letters from Malacca etc. 1778–88. MB 21(1)
 - [J.G. Koenig](./jg-koenig.md) (1894). [Journal of a voyage from India to Siam and Malacca in 1779](./journal-of-a-voyage-from-india-to-siam-and-malacca-in-1779.md). *JSBRAS* 27: 57–133
 - [M. MacDonald](./m-macdonald.md) (1934). [Notes on the translation of Bort’s report on Malacca in Journal M.B.R.A.S. 1927](./notes-on-the-translation-of-borts-report-on-malacca-in-journ.md). *JMBRAS* 12(2): 24–26

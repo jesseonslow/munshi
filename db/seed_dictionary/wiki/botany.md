@@ -108,7 +108,6 @@ published: false
 ### Southeast Asia (excluding Malaya and Singapore)
 
 - Bastin, J.S. James Motley and the natural history of Labuan. MB 60(2)
-- Low, H. Low’s Sarawak Journals. MB 76(1) {R}
 - [E.D. Merrill](./ed-merrill.md) (1917). [Contributions to our knowledge of the flora of Borneo](./contributions-to-our-knowledge-of-the-flora-of-borneo.md). *JSBRAS* 76: 75–117
 - [E.D. Merrill](./ed-merrill.md) (1917). [Alabastra borneensia](./alabastra-borneensia.md). *JSBRAS* 77: 189–247
 - [E.D. Merrill](./ed-merrill.md) (1923). [New or noteworthy Bornean plants](./new-or-noteworthy-bornean-plants.md). *JMBRAS* 1: 22–45

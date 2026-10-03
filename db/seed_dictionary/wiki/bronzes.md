@@ -29,7 +29,6 @@ published: false
 
 ## MBRAS Sources
 
-- Griswold, A.B. Buddha images of northern Siam. MB 31(1) {R}
 - [Tom Harrisson](./tom-harrisson.md) (1965). [Bronze turtles in Central Borneo](./bronze-turtles-in-central-borneo.md). *JMBRAS* 38: 256–259
 - Anon. [Keane, A.H. Malayan antiquities](./mbras-reprint-15.md). *Reprint* 15
 - O’Connor, S.J. Ancient sculptures from Nakhon Si Thammarat. MB 52(2)

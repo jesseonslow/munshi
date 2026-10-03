@@ -54,12 +54,9 @@ published: false
 - Abbott, W.I. Bark canoes among Jakuns and Dayaks. SB49
 - [E.R. Alfred](./er-alfred.md) (1987). [Boats of Singapore](./boats-of-singapore.md). *JMBRAS* 60(2): 99–114
 - [E.R. Alfred](./er-alfred.md) (1986). [The Pulau Brani Jong](./the-pulau-brani-jong.md). *JMBRAS* 59(2): 133–138
-- Ball, D. The Diana adventure. MB 69(2) {R}
-- Bruin, P. de G. Dutch shipping in Asia in 17th and 18th centuries. MB 53(2) {R}
 - [F. Andrew Smith](./f-andrew-smith.md) (2023). [James Carnegy and the ‘Country Trade’ in Penang, c.1802–1824](./james-carnegy-and-the-country-trade-in-penang-c18021824.md). *JMBRAS* 96: 51–79
 - [F. Andrew Smith](./f-andrew-smith.md) (2021). [William Scott in Penang: Missing Material, Maritime Matters, and More](./william-scott-in-penang-missing-material-maritime-matters-an.md). *JMBRAS* 94(2): 185–197
 - [F. Andrew Smith](./f-andrew-smith.md) (2023). [Mercantile Life in Early 19th Century Southeast Asia: The Ross Brothers](./mercantile-life-in-early-19th-century-southeast-asia-the-ros.md). *JMBRAS* 96(2): 49–72
-- Coatelen, P.J. The decorated boats of Kelantan. MB 57(1) {R}
 - [F.H. Fitch](./fh-fitch.md) (1953). [Dusun boats on the Segama River, North Borneo](./dusun-boats-on-the-segama-river-north-borneo.md). *JMBRAS* 26: 211–212
 - [C.A. Gibson-Hill](./carl-alexander-gibson-hill.md) (1941). [A note on the Christmas Island canoe (kolek](./a-note-on-the-christmas-island-canoe-kolek.md). *JMBRAS* 19: 125–130
 - [C.A. Gibson-Hill](./carl-alexander-gibson-hill.md) (1949). [Cargo boats of the east coast of Malaya](./cargo-boats-of-the-east-coast-of-malaya.md). *JMBRAS* 22(3): 106–125
@@ -75,8 +72,6 @@ published: false
 - Gibson-Hill, C.A. Orang Laut of Singapore River and the _sampan panjang_. MB 42(1)
 - Anon (1973). [150th Anniversary of the Founding of Singapore Commemorative Reprint](./150th-anniversary-of-the-founding-of-singapore-commemorative-reprint.md). ** : 317
 - [Ismail Ali](./ismail-ali.md) and [J. Wong Kon Ling](./j-wong-kon-ling.md) (2008). [Boo’gok-boo’gok : the winged boat of the Sea Bajau in Sabah, Malaysia](./boogok-boogok-the-winged-boat-of-the-sea-bajau-in-sabah-mala.md). *JMBRAS* 81: 19–26
-
-### Fishing boats
 
 ## References
 <!-- Grounded occurrences and citations -->

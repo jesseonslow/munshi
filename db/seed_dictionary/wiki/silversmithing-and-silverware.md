@@ -26,7 +26,6 @@ published: false
 
 - [J.M. Gullick](./john-michael-gullick.md) (1952). [A survey of Malay weavers and silversmiths in Kelantan in 1951](./a-survey-of-malay-weavers-and-silversmiths-in-kelantan-in-19.md). *JMBRAS* 25: 134–148
 - [A.H. Hill](./anthony-haydock-hill.md) (1951). [Kelantan silverwork](./kelantan-silverwork.md). *JMBRAS* 24: 99–108
-- Ho Wing Meng. Straits Chinese silver. MB 58(2) {R}
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -23,7 +23,6 @@ published: false
 ## MBRAS Sources
 
 - [A.C. Baker](./ac-baker.md) (1933). [An account of a journey from the Cameron Highlands to the east coast railway and of a visit to the Temiar settlements in the valleys of the Sungai Blatop and S. Ber](./an-account-of-a-journey-from-the-cameron-highlands-to-the-ea.md). *JMBRAS* 11(2): 288–295
-- Benjamin, G. Temiar religion 1964‒2012. MB 88(2) {R}
 - [G.W.H. Davison](./gwh-davison.md) (1989). [Manufacture and terminology of Temiar bamboo rafts](./manufacture-and-terminology-of-temiar-bamboo-rafts.md). *JMBRAS* 62: 105–106
 - [R. Needham](./r-needham.md) (1964). [Temer names](./temer-names.md). *JMBRAS* 37: 121–125
 

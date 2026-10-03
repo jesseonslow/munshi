@@ -24,7 +24,6 @@ published: false
 - [R.S.R. Fitter](./rsr-fitter.md) (1977). [Tom {Harrisson} and the Survival Service Commission](./tom-harrisson-and-the-survival-service-commission.md). *JMBRAS* 50: 71–72
 - [Haile N.S](./haile-ns.md) (1976). [Tom Harrisson: personal glimpses](./tom-harrisson-personal-glimpses.md). *JMBRAS* 49: 145–146
 - [Harrisson B](./harrisson-b.md) (1977). [Tom Harrisson’s unpublished legacy on Niah](./tom-harrissons-unpublished-legacy-on-niah.md). *JMBRAS* 50: 41–51
-- Heimann, J.M. Biography of T.H. MB 73(1) {R}
 - [A. Lamb](./a-lamb.md) (1977). [Tom Harrisson and Indian influences in early Southeast Asia](./tom-harrisson-and-indian-influences-in-early-southeast-asia.md). *JMBRAS* 50: 8–13
 - [Gathorne Gathorne-Hardy, Lord (Earl of Cranbrook) Medway](./gathorne-gathorne-hardy-lord-earl-of-cranbrook-medway.md) (1976). [Tom Harrisson, ornithologist](./tom-harrisson-ornithologist.md). *JMBRAS* 49: 143–144
 - [S.J. O'Connor](./sj-oconnor.md) (1977). [Tom Harrisson and the ancient iron industry of the Sarawak River delta](./tom-harrisson-and-the-ancient-iron-industry-of-the-sarawak-r.md). *JMBRAS* 50: 4–7

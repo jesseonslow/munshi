@@ -32,7 +32,6 @@ published: false
 ## MBRAS Sources
 
 - [W. Cheah](./w-cheah.md) (1981). [Social banditry and rural crime in North Kedah, 1909–1929](./social-banditry-and-rural-crime-in-north-kedah-19091929.md). *JMBRAS* 54(2): 98–130
-- Cheah Boon Kheng. Peasant robbers of Kedah: historical and folk perceptions. MB 88(1) {R}
 - Anon. [Maxwell, W.E. _Ganju_](./mbras-reprint-15.md). *Reprint* 15
 
 ## References

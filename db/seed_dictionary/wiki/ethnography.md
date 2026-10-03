@@ -108,38 +108,27 @@ For ethnographic study of Orang Asli, see [Orang Asli](./orang-asli)
 - [E. Banks](./e-banks.md) (1940). [Rice planting customs in the Baram District, Sarawak](./rice-planting-customs-in-the-baram-district-sarawak.md). *JMBRAS* 18(2): 83–104
 - [R.H.W. Beresford-Peirse](./rhw-beresford-peirse.md) (1954). [Settlement of a tribal dispute (North Borneo](./settlement-of-a-tribal-dispute-north-borneo.md). *JMBRAS* 27: 221–223
 - [J.J. Baptist](./jj-baptist.md) and [Cai Yunci](./cai-yunci.md) (2016). [Mount Kinabalu earthquake](./mount-kinabalu-earthquake.md). *JMBRAS* 89: 61–78
-- Cleary, M. Borneo: change and development. MB 67(2) {R}
-- Couderc, P. (ed) Ancestors in Borneo societies. MB 86(1) {R}
-- Harrisson, B. _Pusaka_ heirloom jars. MB 62(1) {R}
 - [Tom Harrisson](./tom-harrisson.md) (1949). [Singing pre-history](./singing-pre-history.md). *JMBRAS* 22: 123–142
 - Anon (1977). [A Centenary Volume: 30 Articles selected from JSBRAS and JMBRAS 1878 - 1976](./a-centenary-volume-30-articles-selected-from-jsbras-and-jmbras-1878-1976.md). ** : 358
 - [Tom Harrisson](./tom-harrisson.md) (1965). [Three “secret” communication systems among Borneo nomads (and their dogs](./three-secret-communication-systems-among-borneo-nomads-and-t.md). *JMBRAS* 38(2): 37–86
 - [A.H. Hill](./anthony-haydock-hill.md) (1955). [Manggeng and Datu Merpati](./manggeng-and-datu-merpati.md). *JMBRAS* 28: 148–158
 - [C. Hose](./c-hose.md) (1907). [On tally sticks and strings in Borneo](./on-tally-sticks-and-strings-in-borneo.md). *JSBRAS* 47: 7–10
 - [V.T. King](./vt-king.md) (1975). [Stones and the Maloh of Indonesian West Borneo](./stones-and-the-maloh-of-indonesian-west-borneo.md). *JMBRAS* 48: 104–119
-- Medway, Lord. _Sya’ir Jerjezang_. MB 76(1) {R}
 - [P. Metcalf](./p-metcalf.md) (1982). [Supernatural etiologies of illness in Central Northern Borneo](./supernatural-etiologies-of-illness-in-central-northern-borne.md). *JMBRAS* 55(2): 115–125
 - [R. Needham](./r-needham.md) (1953). [A note on some North Borneo kinship terminologies](./a-note-on-some-north-borneo-kinship-terminologies.md). *JMBRAS* 26: 221–223
 - [R. Needham](./r-needham.md) (1954). [Batu Belah & Long Terawan: kinship terms & death names](./batu-belah-long-terawan-kinship-terms-death-names.md). *JMBRAS* 27: 215–217
 - [R. Needham](./r-needham.md) (1955). [A note on some Murut kinship terms](./a-note-on-some-murut-kinship-terms.md). *JMBRAS* 28: 159–161
 - Needham, R. Ethnic classification: Kajang and Bahau considered. MB 28(1)
-- Rutter, O. British North Borneo. MB 1(1) {R}
-- Anon. Sabah Museum Annals. MB 58(1) {R}
-- Sellato, B. Nomads of the Borneo rain forest. MB 68(2) {R}
 - [R.S. Shelford](./rs-shelford.md) (1905). [An illustrated catalogue of the ethnographical collection of the Sarawak Museum](./an-illustrated-catalogue-of-the-ethnographical-collection-of.md). *JSBRAS* 43: 1–67
-- Sutlive, V.H. Gender studies in Borneo. MB 66(2) {R}
 - Danny Wong Tze-ken (2022). [Three Skulls from Sabah in the Pitt Rivers Museum](./three-skulls-from-sabah-in-the-pitt-rivers-museum.md). *JMBRAS* 95: 35–50
 
 ### Fiji, Formosa, and Indo-China
 
 - [J. Dodd](./j-dodd.md) (1885). [A glimpse at the manners and customs of the Hill tribes of North Formosa](./a-glimpse-at-the-manners-and-customs-of-the-hill-tribes-of-n.md). *JSBRAS* 15: 69–78
 - Anon. Nationalities of the Indo-China region (_Burma Quarterly_). SB 16
-- Taylor, P. The Khmer lands of Vietnam. MB 88(1) {R}
 - [Thurston](./thurston.md) (1881). [Note {Fijians](./note-fijians.md). *JSBRAS* 8: 168–169
 
-### Malaya
 
-### Orang Asli
 
 ### Singapore and Riau
 
@@ -163,7 +152,6 @@ For ethnographic study of Orang Asli, see [Orang Asli](./orang-asli)
 ### Thailand
 
 - Archaimbault, C. Sam Sam of Kedah and Perlis. MB 30(1)
-- Boesch, E.E. 2nd Thai-European research seminar. MB 58(2) {R}
 
 ## References
 <!-- Grounded occurrences and citations -->

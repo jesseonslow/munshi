@@ -43,7 +43,6 @@ published: false
 - [Sejarah Melayu](./sejarah-melayu.md) (1952). [Sejarah Melayu; or Malay Annals; a translation of Raffles MS 18 {in the Library of the R.A.S., London} C.C. Brown](./sejarah-melayu-or-malay-annals-a-translation-of-raffles-ms-1.md). *JMBRAS* 25(2–3): 1–276
 - Anon (2009). [Malay Annals](./malay-annals.md). ** : 276
 - Sejarah Melayu. John Leyden’s Malay Annals. Reprint 20
-- and MB 75(1) {R}
 - [A. Sweeney](./amin-sweeney.md) (1967). [The connection between the Hikayat Raja2 Pasai and the Sejarah Melayu](./the-connection-between-the-hikayat-raja2-pasai-and-the-sejar.md). *JMBRAS* 40(2): 94–105
 - [R.J. Wilkinson](./richard-james-wilkinson.md) (1933). [The Sri Lanang pedigree](./the-sri-lanang-pedigree.md). *JMBRAS* 11(2): 148–150
 - Wilkinson, R.J. Malay Annals – Goa and the kings of Singapore. MB 22(1) and 23(1)

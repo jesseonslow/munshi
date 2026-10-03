@@ -83,7 +83,6 @@ published: false
 
 - [Abdul Karim bin Bagoo](./abdul-karim-bin-bagoo.md) (1962). [The origin and development of the Malay States Guides](./the-origin-and-development-of-the-malay-states-guides.md). *JMBRAS* 35: 51–94
 - Abdurrazzaq Lubis. Raja Bilah and the Mandailings. Monograph 35
-- and MB 77(2) {R}
 - [E.W. Birch](./ew-birch.md) (1910). [The taking over from Siam of part of Reman or Rahman](./the-taking-over-from-siam-of-part-of-reman-or-rahman.md). *JSBRAS* 54: 147–155
 - Butcher, J.G. The anti-gambling petition in Perak, 1905. MB 56(1)
 - [A. Ceridwen](./a-ceridwen.md) (2001). [The Silsilah Raja-Raja Perak, a historical and literary investigation into the political significance of a Malay court genealogy](./the-silsilah-raja-raja-perak-a-historical-and-literary-inves.md). *JMBRAS* 74(2): 23–129
@@ -101,7 +100,6 @@ published: false
 - [Khoo Kay Kim](./khoo-kay-kim.md) (1986). [The Perak Sultanate: ancient and modern](./the-perak-sultanate-ancient-and-modern.md). *JMBRAS* 59: 1–26
 - [Khoo Kay Kim](./khoo-kay-kim.md) (1991). [Taiping (Larut): the early history of a mining settlement](./taiping-larut-the-early-history-of-a-mining-settlement.md). *JMBRAS* 64: 1–32
 - [Khoo Kay Kim](./khoo-kay-kim.md) (1995). [Teluk Anson, 1882–1941: port, agriculture and erosion](./teluk-anson-18821941-port-agriculture-and-erosion.md). *JMBRAS* 68(2): 33–52
-- Khoo Salma Nasution. Development of the Kinta valley. MB 78(2) {R}
 - Kratoska, P.H. Selangor and Perak in 1942. MB 88(1)
 - H. Low and [E. Sadka](./e-sadka.md) (1954). [The journal of Sir Hugh Low, 1877. . Sadka](./the-journal-of-sir-hugh-low-1877-sadka.md). *JMBRAS* 27(4): 1–108
 - [C.A. Gibson-Hill](./carl-alexander-gibson-hill.md) and [H.A.L. Luckham](./hal-luckham.md) (1950). [The cannon at Pulau Aur](./the-cannon-at-pulau-aur.md). *JMBRAS* 23: 139–142
@@ -119,8 +117,6 @@ published: false
 - [W.E. Maxwell](./sir-william-edward-maxwell.md) (1883). [Dutch occupation of the Dindings, etc](./dutch-occupation-of-the-dindings-etc.md). *JSBRAS* 11: 169–170
 - [E.M. Merewether](./em-merewether.md) (1891). [Outline of the history of the Dindings from the 17th century to the present time](./outline-of-the-history-of-the-dindings-from-the-17th-century.md). *JSBRAS* 23: 35–47
 - Mohamed Hashim bin Sam Abdul Latiff. Identity of Ngah Jabor. MB 53(2)
-- Nazrin Shah, Sultan. From Pangkor to a Modern Malaysian State. MB 94(1) {R}
-- Nazrin Shah, Sultan. Perak’s Rise, Relative Decline and Regeneration. MB 97(2) {R}
 - [George L. Peet](./george-l-peet.md) (2017). [A Journal in the Federal Capital](./a-journal-in-the-federal-capital.md). ** : 180
 - [Pek Wee Chuen](./pek-wee-chuen.md) (2021). [The Kong-Moon System in Larut: Chinese Social Relationships in Nineteenth-Century Perak](./the-kong-moon-system-in-larut-chinese-social-relationships-i.md). *JMBRAS* 94: 25–50
 - [Patrick Sullivan](./patrick-sullivan.md) (1982). [Social Relations of Dependence in a Malay State: 19th Century Perak](./social-relations-of-dependence-in-a-malay-state-19th-century-perak.md). ** : 102
@@ -144,12 +140,10 @@ published: false
 - [H.S. Deane](./hs-deane.md) (1879). [Survey reports on Ulu Perak](./survey-reports-on-ulu-perak.md). *JSBRAS* 3: 135–139
 - [A.T. Dew](./at-dew.md) (1887). [Exploring expedition from Selama, Perak, over the mountains to Pong, Patani, in November](./exploring-expedition-from-selama-perak-over-the-mountains-to.md). *JSBRAS* 19: 105–120
 - [R.M.M. Fee](./rmm-fee.md) (1963). [Kampong Padre: a Tamil settlement near Bagan Serai, Perak. . Manikam, .K. Jain](./kampong-padre-a-tamil-settlement-near-bagan-serai-perak-mani.md). *JMBRAS* 36: 153–181
-- Jaunay, A. Jacques de Morgan's Explorations. MB 94(2) {R}
 - [B.N. Koopmans](./bn-koopmans.md) (1964). [Geomorphological and historical data of the lower course of the Perak River (Dindings](./geomorphological-and-historical-data-of-the-lower-course-of-.md). *JMBRAS* 37(2): 175–191
 - Leech, H.W.C. Ascent of Bujang Malacca. SB 2
 - [H.W.C. Leech](./hwc-leech.md) (1879). [About Kinta](./about-kinta.md). *JSBRAS* 4: 21–33
 - [H.W.C. Leech](./hwc-leech.md) (1879). [About Slim and Bernam](./about-slim-and-bernam.md). *JSBRAS* 4: 34–45
-- Lim Teck Ghee. Origins of a colonial economy. MB 50(2) {R}
 - [W.E. Maxwell](./sir-william-edward-maxwell.md) (1882). [A journey on foot to the Patani frontier in 1876; being a journal kept an expedition undertaken to capture Datoh Maharaja Lela of Perak](./a-journey-on-foot-to-the-patani-frontier-in-1876-being-a-jou.md). *JSBRAS* 9: 1–67
 - and SB 19
 - [Andrée Jaunay](./andrée-jaunay.md) et al. (2020). [Jacques de Morgan's Explorations in the Malay Peninsula, 1884](./jacques-de-morgans-explorations-in-the-malay-peninsula-1884.md). ** : 225

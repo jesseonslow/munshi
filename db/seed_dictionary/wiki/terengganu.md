@@ -65,7 +65,6 @@ published: false
 - Anon (1977). [A Centenary Volume: 30 Articles selected from JSBRAS and JMBRAS 1878 - 1976](./a-centenary-volume-30-articles-selected-from-jsbras-and-jmbras-1878-1976.md). ** : 358
 - Marriott, H. Fragment of a history of Trengganu. SB 72
 - [Shaharil Talib (L.R. Robert)](./shaharil-talib-lr-robert.md) (1977). [The Trengganu ruling class in the late nineteenth century](./the-trengganu-ruling-class-in-the-late-nineteenth-century.md). *JMBRAS* 50(2): 25–47
-- Shaharil Talib. After its own image: the Trengganu experience. MB 59(1) {R}
 - [Mubin Sheppard](./mubin-sheppard.md) (1949). [A short history of Trengganu](./a-short-history-of-trengganu.md). *JMBRAS* 22(3): 1–74
 - [Mubin Sheppard](./mubin-sheppard.md) et al. (1983). [Papers Relating to Trengganu (Previously published as JMBRAS Volume XXII Part 3 June 1949)](./papers-relating-to-trengganu-previously-published-as-jmbras-volume-xxii-part-3-june-1949.md). ** : 125
 

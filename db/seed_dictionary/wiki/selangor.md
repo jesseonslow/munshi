@@ -87,9 +87,7 @@ published: false
 - [J.M. Gullick](./john-michael-gullick.md) (1975). [Selangor, 1876–82: the Bloomfield Douglas diary](./selangor-187682-the-bloomfield-douglas-diary.md). *JMBRAS* 48(2): 1–51
 - [J.M. Gullick](./john-michael-gullick.md) (1986). [Tunku Kudin in Selangor 1868–1878](./tunku-kudin-in-selangor-18681878.md). *JMBRAS* 59(2): 5–50
 - Gullick, J.M. Glimpses of Selangor 1860–98. Monograph 25
-- and MB 66(2) and 72(1) {R}
 - Gullick, J.M. A history of Selangor, 1766–1939. Monograph 28
-- and MB 72(1) {R}
 - [J.M. Gullick](./john-michael-gullick.md) (2004). [The Malay community of Kuala Langat in the late nineteenth century](./the-malay-community-of-kuala-langat-in-the-late-nineteenth-c.md). *JMBRAS* 77(2): 1–25
 - [J.M. Gullick](./john-michael-gullick.md) (2006). [The fall and rise of Klang, 1867–1900](./the-fall-and-rise-of-klang-18671900.md). *JMBRAS* 79: 1–26
 - [J.M. Gullick](./john-michael-gullick.md) (2007). [A short history of Ulu Langat to 1900](./a-short-history-of-ulu-langat-to-1900.md). *JMBRAS* 80(2): 1–18
@@ -105,11 +103,7 @@ published: false
 - [George L. Peet](./george-l-peet.md) (2017). [A Journal in the Federal Capital](./a-journal-in-the-federal-capital.md). ** : 180
 - [J.H.M Robson](./jhm-robson.md) (2001). [Records and Recollections 1884 -1934](./records-and-recollections-1884-1934.md). ** : 300
 - Anon (2007). [Selections from the Selangor Journal](./selections-from-the-selangor-journal.md). ** : 660
-- Shamsul, A.B. From British to Bumiputra rule (Kuala Selangor) MB 63(1) and 63(2) {R}
-- Ward, I. Batang Kali (Hulu Selangor) killings of 1948. MB 84(2) {R}
 - [R.O. Winstedt](./richard-olaf-winstedt.md) (1934). [A history of Selangor](./a-history-of-selangor.md). *JMBRAS* 12(3): 1–34, 112–114
-
-### Antiquities
 
 ## References
 <!-- Grounded occurrences and citations -->

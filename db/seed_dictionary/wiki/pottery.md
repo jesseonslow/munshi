@@ -25,7 +25,6 @@ published: false
 
 - [I.H.N. Evans](./ivor-hugh-norman-evans.md) (1923). [On the persistence of an old type of water-vessel](./on-the-persistence-of-an-old-type-of-water-vessel.md). *JMBRAS* 1: 248–250
 - [Tom Harrisson](./tom-harrisson.md) (1971). [Prehistoric double-spouted vessels excavated from Niah Caves, Borneo](./prehistoric-double-spouted-vessels-excavated-from-niah-caves.md). *JMBRAS* 44(2): 35–78
-- Khoo Joo Ee. Kendi collection at University of Malaya. MB 67(1) {R}
 - [J. Loewenstein](./j-loewenstein.md) (1959). [Hollow clay stands and censers from Neolithic Malaya, and their western prototypes](./hollow-clay-stands-and-censers-from-neolithic-malaya-and-the.md). *JMBRAS* 32: 168–196
 - [E.E. McKinnon](./ee-mckinnon.md) (1979). [A note on the discovery of spur-marked yueh-type sherds at Bukit Seguntang Palembang](./a-note-on-the-discovery-of-spur-marked-yueh-type-sherds-at-b.md). *JMBRAS* 52(2): 41–47
 - [H.D. Noone](./hd-noone.md) (1941). [A find of pottery sherds on a beach near Sepang, Selangor](./a-find-of-pottery-sherds-on-a-beach-near-sepang-selangor.md). *JMBRAS* 19(2): 217–218

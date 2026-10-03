@@ -16,9 +16,5 @@ published: false
 
 <!-- Synthesis engine: Insert introductory synthesis for Tan Chin Tuan here -->
 
-## MBRAS Sources
-
-- Lee Su Yin. Public service career of Tan Chin Tuan, 1939–55. MB 86(2) {R}
-
 ## References
 <!-- Grounded occurrences and citations -->

@@ -28,8 +28,6 @@ published: false
 ## MBRAS Sources
 
 - [Abdul Karim bin Bagoo](./abdul-karim-bin-bagoo.md) (1962). [The origin and development of the Malay States Guides](./the-origin-and-development-of-the-malay-states-guides.md). *JMBRAS* 35: 51–94
-- Ban Kah Choon. Special branch operations in Singapore, 1915–52. MB 74(2) {R}
-- Comber, L. Special branch role in the Malayan Emergency. MB 82(2) {R}
 - [A.H. Dickinson](./ah-dickinson.md) (1941). [The history of the creation of the Malacca police](./the-history-of-the-creation-of-the-malacca-police.md). *JMBRAS* 19(2): 251–283
 - [J.M. Gullick](./john-michael-gullick.md) (1978). [Syers and the Selangor Police 1875  - 1897](./syers-and-the-selangor-police-1875-1897.md). ** : 57
 - [J.M. Gullick](./john-michael-gullick.md) (1993). [Glimpses of Selangor 1860 - 1898](./glimpses-of-selangor-1860-1898.md). ** : 247

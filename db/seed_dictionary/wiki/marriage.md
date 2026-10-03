@@ -50,7 +50,6 @@ published: false
 - Abu Talib Ahmad. Marriage and divorce among Johor Malays during Japanese
 - [R.N. Bland](./rn-bland.md) and [Hale A](./hale-a.md) (1886). [Currency, Negri Sembilan](./currency-negri-sembilan.md). *JSBRAS* 18: 356–357
 - [R. Braddell](./r-braddell.md) (1921). [Chinese marriages, as regarded by the Supreme Court of the Straits Settlements](./chinese-marriages-as-regarded-by-the-supreme-court-of-the-st.md). *JSBRAS* 83: 153–165
-- Dunselman, P.D. Kara sera. MB 33(1) {R}
 - [D. Headly](./d-headly.md) (1951). [Some Illanun and Bajau marriage customs in the Kota Belud district, North Borneo](./some-illanun-and-bajau-marriage-customs-in-the-kota-belud-di.md). *JMBRAS* 24(3): 159–160
 - [J.L. Humphreys](./jl-humphreys.md) (1916). [A Naning wedding-speech](./a-naning-wedding-speech.md). *JSBRAS* 72: 25–33
 - Humphreys, J.L. A Naning recital. SB 83

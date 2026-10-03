@@ -43,14 +43,11 @@ published: false
 - [C.O. Blagden](./co-blagden.md) (1902). [A Malayan element in some of the languages of southern Indo-China](./a-malayan-element-in-some-of-the-languages-of-southern-indo-.md). *JSBRAS* 38: 1–17
 - [M. Camouilly](./m-camouilly.md) (1886). [The survey question in Cochin-China](./the-survey-question-in-cochin-china.md). *JSBRAS* 18: 273–291
 - [G. Dabin](./g-dabin.md) and [W.E. Maxwell](./sir-william-edward-maxwell.md) (1885). [A missionary’s journey through Laos from Bangkok to Ubon (.E. Maxwell](./a-missionarys-journey-through-laos-from-bangkok-to-ubon-e-ma.md). *JSBRAS* 15: 103–117
-- Gerini, G.E. Ptolemy’s Geography of Eastern Asia. SB 57 {R}
 - [Hanitsch R](./hanitsch-r.md) (1918). [On a serow from Annam](./on-a-serow-from-annam.md). *JSBRAS* 78: 59–65
 - Lamb, A. British missions to Cochin China, 1778–1882. MB 34(3/4)
 - [R. Nakamura](./r-nakamura.md) (2000). [The coming of Islam to Champa](./the-coming-of-islam-to-champa.md). *JMBRAS* 73: 55–66
-- Pairaudeau, N. French Indians in Indochina 1858–1954. MB 90(2) {R}
 - Scott, J.G. Annamese funeral rites (extract from France and Tongking 1885). SB 15
 - [N. Tarling](./nicholas-tarling.md) (1966). [British relations with Vietnam, 1822–1858](./british-relations-with-vietnam-18221858.md). *JMBRAS* 39: 19–51
-- Tréglodé, B. de. Heroes and revolution in Vietnam 1948–64. MB 88(2) {R}
 
 ## References
 <!-- Grounded occurrences and citations -->

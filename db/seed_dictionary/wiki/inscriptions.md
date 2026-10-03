@@ -72,7 +72,6 @@ published: false
 - [K.A. Nilakanta Sastri](./k-a-nilakanta-sastri.md) (1949). [Takuapa and its Tamil inscription](./takuapa-and-its-tamil-inscription.md). *JMBRAS* 22: 25–30
 - [Noorduyn. J](./noorduyn-j.md) and [H.E. Wilson](./he-wilson.md) (1993). [The Bugis inscription in the Udo-Udok cemetery in Brunei](./the-bugis-inscription-in-the-udo-udok-cemetery-in-brunei.md). *JMBRAS* 66(2): 103–112
 - [H.S. Paterson](./hs-paterson.md) (1924). [An early Malay inscription in Trengganu](./an-early-malay-inscription-in-trengganu.md). *JMBRAS* 2(3): 252–258
-- Perret, D. (ed) Epigraphy in Southeast Asia. MB 92(2) {R}
 - [A. Sharma](./a-sharma.md) (1979). [The interpretation of a Sanskrit inscription in the ancient Brunei script](./the-interpretation-of-a-sanskrit-inscription-in-the-ancient-.md). *JMBRAS* 52: 99–101
 - [R.J. Wilkinson](./richard-james-wilkinson.md) (1931). [The Pengkalan Kempas “saint”](./the-pengkalan-kempas-saint.md). *JMBRAS* 9: 134–135
 - Anon (1977). [A Centenary Volume: 30 Articles selected from JSBRAS and JMBRAS 1878 - 1976](./a-centenary-volume-30-articles-selected-from-jsbras-and-jmbras-1878-1976.md). ** : 358

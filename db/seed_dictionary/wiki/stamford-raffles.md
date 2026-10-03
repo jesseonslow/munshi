@@ -42,12 +42,8 @@ published: false
 ## MBRAS Sources
 
 - Abdullah bin Abdul Kadir Munshi and [A.H. Hill](./anthony-haydock-hill.md) (1955). [The Hikayat Abdullah; an annotated translation. A.H. Hill](./the-hikayat-abdullah-an-annotated-translation-ah-hill.md). *JMBRAS* 28(3): 1–354
-- Alatas, Hussein, Syed. Thomas Stamford Raffles. MB 94(2) {R}
-- Alfian Sa’at (ed) Raffles Renounced. MB 94(2) {R}
 - [J.S. Bastin](./john-bastin.md) (1953). [Sir Stamford Raffles’ and John Crawfurd’s ideas of colonizing the Malay Archipelago](./sir-stamford-raffles-and-john-crawfurds-ideas-of-colonizing-.md). *JMBRAS* 26: 81–85
 - [J.S. Bastin](./john-bastin.md) (1954). [Raffles and British policy in the Indian Archipelago, 1811–1816](./raffles-and-british-policy-in-the-indian-archipelago-1811181.md). *JMBRAS* 27: 84–119
-- Bastin, J. Raffles and the land rent system in Java. MB 28(1) {R}
-- Bastin, J. Raffles’ native policies in Java and Sumatra. MB 33(1) {R}
 - [J.S. Bastin](./john-bastin.md) (1981). [The letters of Sir Stamford Raffles to Nathaniel Wallich, 1819–1824. (with notes), . Bastin](./the-letters-of-sir-stamford-raffles-to-nathaniel-wallich-181.md). *JMBRAS* 54(2): 1–73
 - Anon (1981). [The Letters of Sir Stamford Raffles to Nathaniel Wallich 1819 - 1824](./the-letters-of-sir-stamford-raffles-to-nathaniel-wallich-1819-1824.md). ** : 73
 - [J.S. Bastin](./john-bastin.md) (1990). [Sir Stamford Raffles and the study of natural history in Penang, Singapore and Indonesia](./sir-stamford-raffles-and-the-study-of-natural-history-in-pen.md). *JMBRAS* 63(2): 1–25
@@ -60,19 +56,15 @@ published: false
 - [Huang Jianli](./huang-jianli.md) (2018). [Stamford Raffles and the ‘founding’ of Singapore: the politics of commemoration and dilemmas of history](./stamford-raffles-and-the-founding-of-singapore-the-politics-.md). *JMBRAS* 91(2): 103–122
 - [R. Jordaan](./r-jordaan.md) and [P.B.R. Carey](./pbr-carey.md) (2017). [Thomas Stamford Raffles’ Masonic career in Java: a new perspective on the British interregnum (1811–1816](./thomas-stamford-raffles-masonic-career-in-java-a-new-perspec.md). *JMBRAS* 90(2): 1–34
 - [P.B.R. Carey](./pbr-carey.md) and [R. Jordaan](./r-jordaan.md) (2018). [The masonic system of time-reckoning in Java and the evelation of Thomas Stamford Raffles as sovereign prince of the Rose Croix](./the-masonic-system-of-time-reckoning-in-java-and-the-evelati.md). *JMBRAS* 91: 89–91
-- Lee Kam Hing. Raffles’ Order of the Golden Sword. MB 63(2) {R}
 - [Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md) (1930). [Delegation to Java: presentation of Sir Stamford Raffles’ bust to the Royal Batavian Society of Arts and Sciences](./delegation-to-java-presentation-of-sir-stamford-raffles-bust.md). *JMBRAS* 8(2): 289–306
 - Anon. [Maxwell, W.E. The founding of Singapore. Malay letters](./mbras-reprint-15.md). *Reprint* 15
 - Anon (1973). [150th Anniversary of the Founding of Singapore Commemorative Reprint](./150th-anniversary-of-the-founding-of-singapore-commemorative-reprint.md). ** : 317
-- Muhd Khairudin Aljunied, Syed. Raffles and religion. MB 78(2) {R}
 - Ng Paul Seen. Marking Singapore’s sesquicentenary in 1969. MB 92(2)
 - [H.A. O'Brien](./henry-arthur-obrien.md) (1891). [An old minute by Sir Stamford Raffles](./an-old-minute-by-sir-stamford-raffles.md). *JSBRAS* 24: 1–12
 - [C.N. Parkinson](./cn-parkinson.md) (1953). [Napoleon and Raffles](./napoleon-and-raffles.md). *JMBRAS* 26: 213–216
-- Pearson, H.F. Biography of Raffles. MB 31(1) {R}
 - [T.S. Raffles](./ts-raffles.md) (1878). [The founding of Singapore](./the-founding-of-singapore.md). *JSBRAS* 2: 175–182
 - Anon (1977). [A Centenary Volume: 30 Articles selected from JSBRAS and JMBRAS 1878 - 1976](./a-centenary-volume-30-articles-selected-from-jsbras-and-jmbras-1878-1976.md). ** : 358
 - [T.S. Raffles](./ts-raffles.md) (1879). [The maritime code of the Malays](./the-maritime-code-of-the-malays.md). *JSBRAS* 4: 1–20
-- Raffles, T.S. Book of Days MB 67(1) {R}
 - [Raimy Ché-Ross](./raimy-ché-ross.md) (1998). [“Di dalam nama dan kerananya kita”: A pair of Malay and Javanese letters by Sir Thomas Stamford Raffles](./di-dalam-nama-dan-kerananya-kita-a-pair-of-malay-and-javanes.md). *JMBRAS* 71(2): 1–27
 - [Raimy Ché-Ross](./raimy-ché-ross.md) (2003). [Syair Peri Tuan Raffles pergi ke Minangkabau: a Malay account of Raffles’ second expedition to the Sumatran highlands in 1818](./syair-peri-tuan-raffles-pergi-ke-minangkabau-a-malay-account.md). *JMBRAS* 76(2): 25–80
 - [W.H. Read](./wh-read.md) (1883). [Landing of Raffles in Singapore](./landing-of-raffles-in-singapore.md). *JSBRAS* 12: 282–283

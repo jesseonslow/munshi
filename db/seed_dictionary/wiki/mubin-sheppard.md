@@ -27,7 +27,6 @@ published: false
 - [J.M. Gullick](./john-michael-gullick.md) (1995). [Mubin Sheppard. Obituary](./mubin-sheppard-obituary.md). *JMBRAS* 68(2): 1–6
 - [Beatrice Chong](./beatrice-chong.md) and [Wong Siew Kuon](./wong-siew-kuon.md) (1999). [The Prize Winning Sheppard Memorial Prize Historical Essays 1998](./the-prize-winning-sheppard-memorial-prize-historical-essays-1998.md). ** : 109
 - [Zuraini Md Ali](./zuraini-md-ali.md) (2010). [Tan Sri Dato’ Dr Mubin Sheppard: pioneer in the conservation of historical buildings in Malaysia, 1959-1994](./tan-sri-dato-dr-mubin-sheppard-pioneer-in-the-conservation-o.md). *JMBRAS* 83(2): 47–91
-- Zuraini Md Ali. Mubin Sheppard. MB 95(1) {R}
 
 ## Bibliography
 - (1938) [The Trengganu ‘rodat’](./the-trengganu-rodat.md). *JMBRAS* 16(1): 109–114

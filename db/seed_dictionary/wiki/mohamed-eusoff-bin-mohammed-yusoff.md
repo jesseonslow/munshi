@@ -19,9 +19,5 @@ published: false
 
 <!-- Synthesis engine: Insert introductory synthesis for Mohamed Eusoff bin Mohammed Yusoff here -->
 
-## MBRAS Sources
-
-- Biography of Dato Panglima Kinta Eusoff. MB 74(1) {R}
-
 ## References
 <!-- Grounded occurrences and citations -->

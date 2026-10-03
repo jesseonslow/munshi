@@ -28,7 +28,6 @@ published: false
 - [Abu Bakar bin Pawanchee](./abu-bakar-bin-pawanchee.md) (1947). [An unusual keris Majapahit](./an-unusual-keris-majapahit.md). *JMBRAS* 20(2): 45–47
 - [E. Banks](./e-banks.md) (1940). [The keris Solok or Sundang](./the-keris-solok-or-sundang.md). *JMBRAS* 18(2): 105–107
 - [G.B. Gardner](./gb-gardner.md) (1933). [Notes on two uncommon varieties of the Malay kris](./notes-on-two-uncommon-varieties-of-the-malay-kris.md). *JMBRAS* 11(2): 178–182
-- _Keris_ and other Malay weapons. MB 16(2) {R}
 - [Tom Harrisson](./tom-harrisson.md) (1966). [A golden kris handle from Balingian, Sarawak](./a-golden-kris-handle-from-balingian-sarawak.md). *JMBRAS* 39: 175–181
 - [A.H. Hill](./anthony-haydock-hill.md) and [G. Hodgson](./g-hodgson.md) (1956). [The keris and other Malay weapons, A.H. Hill; keris types and terms, Geoffrey Hodgson](./the-keris-and-other-malay-weapons-ah-hill-keris-types-and-te.md). *JMBRAS* 29(4): 1–98
 - and Reprints 4 and 16

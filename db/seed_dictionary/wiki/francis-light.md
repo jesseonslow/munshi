@@ -29,7 +29,6 @@ published: false
 - [H.S. Barlow](./henry-sackville-barlow.md) and [A.T. Gallop](./at-gallop.md) (2024). [A Further Note on Francis Light’s ‘Silver Bason’](./a-further-note-on-francis-lights-silver-bason.md). *JMBRAS* 97(2): 111–117
 - [R. Bonney](./r-bonney.md) (1965). [Francis Light and Penang](./francis-light-and-penang.md). *JMBRAS* 38: 135–138
 - Anon (2015). [Glimpses of Penang's Past](./glimpses-of-penangs-past.md). ** : 325
-- Clodd, H.P. Biography of Light. MB 22(1) {R}
 - [R. Jones](./r-jones.md) (1981). [Two Malay letters written by Sultan Muhammad Jiwa Muazzam Shah of Kedah to Captain Francis Light: with appendix](./two-malay-letters-written-by-sultan-muhammad-jiwa-muazzam-sh.md). *JMBRAS* 54(3): 24–34
 - [E.H.S. Simmonds](./ehs-simmonds.md) (1965). [Francis Light and the ladies of Thalang](./francis-light-and-the-ladies-of-thalang.md). *JMBRAS* 38(2): 213–228
 - [A.M. Skinner](./allan-maclean-skinner.md) (1895). [Memoir of Captain Francis Light, who founded Penang](./memoir-of-captain-francis-light-who-founded-penang.md). *JSBRAS* 28: 1–17

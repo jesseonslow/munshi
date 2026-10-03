@@ -43,10 +43,6 @@ published: false
 - [N. Dening](./nie-dening.md) (1999). [Changes in the trading ties between China and Malaya, prewar to postwar,](./changes-in-the-trading-ties-between-china-and-malaya-prewar-.md). *JMBRAS* 72: 95–112
 - [Paul Wheatley](./paul-wheatley.md) et al. (2007). [Southeast Asia - China Interactions: Reprint of articles from the Journal of the Malaysian Branch, Royal Asiatic Society](./southeast-asia-china-interactions-reprint-of-articles-from-the-journal-of-the-malaysian-branch-royal-asiatic-society.md). ** : 620
 - [Hall K.R](./hall-kr.md) (1981). [Trade and statecraft in the western archipelago at the dawn of the European age](./trade-and-statecraft-in-the-western-archipelago-at-the-dawn-.md). *JMBRAS* 54: 21–47
-- Heng Thiam Soon, D. Sino-Malay trade and diplomacy. MB 84(1) {R}
-- Lim, J. Fujian-Singapore tea trade 1920–60. MB 84(1) {R}
-- Macauley, M. Colonial Encounters on China’s Maritime Frontier. MB 98(2) {R}
-- Ng Chin-Keong. Amoy trade. MB 58(2) {R}
 - [S.J.C. Liu](./sjc-liu.md) and [T.Y.H. Sim](./tyh-sim.md) (2015). [A Peranakan family between Singapore and Shanghai: business-making, networks and identity, 1870s‒1910s](./a-peranakan-family-between-singapore-and-shanghai-business-m.md). *JMBRAS* 88: 33–57
 - [Tan Miau Ing](./tan-miau-ing.md) (2017). [A Chinese labour broker in Malaya: Lee Kwai Lim and his Kam Lun Tai company](./a-chinese-labour-broker-in-malaya-lee-kwai-lim-and-his-kam-l.md). *JMBRAS* 90(2): 55–69
 - [Wang Gungwu](./wang-gungwu.md) (1958). [The Nanhai trade: a study of the early history of Chinese trade in the South China Sea](./the-nanhai-trade-a-study-of-the-early-history-of-chinese-tra.md). *JMBRAS* 31(2): 1–135
@@ -56,19 +52,13 @@ published: false
 ### External relations with Southeast Asia
 
 - [W. Cheah](./w-cheah.md) (2012). [Ming China’s support for Sultan Mahmud of Melaka and its hostility towards the Portuguese after the fall of Melaka in 1511](./ming-chinas-support-for-sultan-mahmud-of-melaka-and-its-host.md). *JMBRAS* 85(2): 55–77
-- Heng Thiam Soon, D. Sino-Malay trade and diplomacy. MB 84(1) {R}
-- Hong Liu. China and the shaping of Indonesia, 1949–65. MB 85(2) {R}
-- Lo Jung-Pang. China as a sea power, 1127–1368. MB 86(1) {R}
 - [Mohamed Suffian](./mohamed-suffian.md) (1983). [Tomb of “The King of Brunei” in Nanking](./tomb-of-the-king-of-brunei-in-nanking.md). *JMBRAS* 56(2): 1–6
 - [Hugh Low](./sir-hugh-low.md) et al. (1998). [Papers Relating to Brunei](./papers-relating-to-brunei.md). ** : 192
-- Ng Chin Keong. China’s maritime southeast in late Imperial times. MB 90(2) {R}
-- Suryadinata, L. The rise of China and the overseas Chinese. MB 91(1) {R}
 - Su Cheng Yee. Visit of ‘King of Brunei’ to Emperor of China. MB 57(1)
 - [Hugh Low](./sir-hugh-low.md) et al. (1998). [Papers Relating to Brunei](./papers-relating-to-brunei.md). ** : 192
 - [B. Tan](./b-tan.md) (2023). [Kung Tian Cheng: From Confucian Scholar in Singapore to Reformer in the Chinese Republic](./kung-tian-cheng-from-confucian-scholar-in-singapore-to-refor.md). *JMBRAS* 96: 81–97
 - [G. Wade](./geoff-wade.md) (2005). [The Zheng He voyages: a reassessment](./the-zheng-he-voyages-a-reassessment.md). *JMBRAS* 78: 37–58
 - [R.O. Winstedt](./richard-olaf-winstedt.md) (1941). [Raja Langit, the celestial emperor](./raja-langit-the-celestial-emperor.md). *JMBRAS* 19(2): 243
-- Wong Tze-ken, D. Wu Lien-Teh Revisited. MB 96(2) {R}
 
 ## References
 <!-- Grounded occurrences and citations -->

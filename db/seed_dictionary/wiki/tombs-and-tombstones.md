@@ -76,8 +76,6 @@ published: false
 - [J.P. Moquette](./jp-moquette.md) (1922). [The grave-stone of Sultan Mansur Shah of Malacca (1458–1477 A.D.](./the-grave-stone-of-sultan-mansur-shah-of-malacca-14581477-ad.md). *JSBRAS* 85: 1–3
 - [Noorduyn. J](./noorduyn-j.md) and [H.E. Wilson](./he-wilson.md) (1993). [The Bugis inscription in the Udo-Udok cemetery in Brunei](./the-bugis-inscription-in-the-udo-udok-cemetery-in-brunei.md). *JMBRAS* 66(2): 103–112
 - [P. Orolfo](./p-orolfo.md) (1933). [Old coffins in British North Borneo caves](./old-coffins-in-british-north-borneo-caves.md). *JMBRAS* 11(2): 133–134
-- Perret, D. Batu Aceh: tombstones in Johor. MB 74(1) {R}
-- Perret, D. (ed) A survey of epigraphy in Southeast Asia. MB 92(2) {R}
 - [Abdul Latif bin Haji Ibrahim](./abdul-latif-bin-haji-ibrahim.md) and [P.M. Shariffuddin](./pm-shariffuddin.md) (1974). [Batu Tarsilah: the genealogical tablet of the Sultans of Brunei. Pengiran M. Shariffuddin and Abdul Latif bin Haji Ibrahim](./batu-tarsilah-the-genealogical-tablet-of-the-sultans-of-brun.md). *JMBRAS* 47: 87–95
 - and Reprints 4 and 18
 - [H.A. Stallwood](./ha-stallwood.md) (1912). [The old cemetery on Fort Canning, Singapore](./the-old-cemetery-on-fort-canning-singapore.md). *JSBRAS* 61: 77–126

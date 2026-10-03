@@ -24,7 +24,6 @@ published: false
 - [R.S. Shelford](./rs-shelford.md) (1901). [Notes from the Sarawak Museum](./notes-from-the-sarawak-museum.md). *JSBRAS* 35: 69–71
 - [Abu Talib Ahmad](./abu-talib-ahmad.md) (2008). [State museums and their representation of the past in Malaysia](./state-museums-and-their-representation-of-the-past-in-malays.md). *JMBRAS* 81(2): 45–70
 - [Abu Talib Ahmad](./abu-talib-ahmad.md) (2011). [The Tun Abdul Razak Memorial and the promotion of a national memory in Malaysia](./the-tun-abdul-razak-memorial-and-the-promotion-of-a-national.md). *JMBRAS* 84(2): 1–32
-- Abu Talib Ahmad. Museum, history and culture in Malaysia. MB 88(1) {R}
 - [Anon](./anon-and-unidentifiable-initials.md) (2021). [Federated Malay States Museum, Kuala Lumpur, 21 September 1945, Office of Strategic Services, India Burma Theater. Facsimile reprint](./federated-malay-states-museum-kuala-lumpur-21-september-1945.md). *JMBRAS* 94(2): 197–200
 - [G.N. Appell](./gn-appell.md) (1968). [The penis pin at Peabody Museum, Harvard University](./the-penis-pin-at-peabody-museum-harvard-university.md). *JMBRAS* 41(2): 203–205
 - [E. Bartlett](./e-bartlett.md) (1895). [On a new species of “Philentoma”](./on-a-new-species-of-philentoma.md). *JSBRAS* 28: 96–97
@@ -42,15 +41,12 @@ published: false
 - [W. Linehan](./w-linehan.md) (1951). [Shields in the Perak Museum](./shields-in-the-perak-museum.md). *JMBRAS* 24(3): 104–113
 - [W. Linehan](./w-linehan.md) (1951). [Ancient tin ingots in the Perak Museum](./ancient-tin-ingots-in-the-perak-museum.md). *JMBRAS* 24(3): 69–72
 - [S. Long-Callesen](./s-long-callesen.md) (2020). [The Perak Museum: Displaying Malaya in the late nineteenth century](./the-perak-museum-displaying-malaya-in-the-late-nineteenth-ce.md). *JMBRAS* 93(2): 73–86
-- Rodgers, S. SEA jewelry in the collection of the Barbier-Muller Museum Geneva MB 59(1) {R}
-- Anon. Sabah Museum Annals. MB 58(1) {R}
 - Shelford, R.H. Fossil tooth in Sarawak Museum. SB 32
 - [R.S. Shelford](./rs-shelford.md) (1901). [Notes from the Sarawak Museum](./notes-from-the-sarawak-museum.md). *JSBRAS* 35: 69–71
 - [R.S. Shelford](./rs-shelford.md) (1905). [An illustrated catalogue of the ethnographical collection of the Sarawak Museum](./an-illustrated-catalogue-of-the-ethnographical-collection-of.md). *JSBRAS* 43: 1–67
 - [R.S. Shelford](./rs-shelford.md) (1905). [An illustrated catalogue of the ethnographical collection of the Sarawak Museum](./an-illustrated-catalogue-of-the-ethnographical-collection-of.md). *JSBRAS* 43: 1–67
 - [R.S. Shelford](./rs-shelford.md) (1905). [An illustrated catalogue of the ethnographical collection of the Sarawak Museum](./an-illustrated-catalogue-of-the-ethnographical-collection-of.md). *JSBRAS* 43: 1–67
 - Solomon, F. Raffles commemorative exhibition at Singapore National Museum 1994. MB 67(1)
-- Tythacott, T. (ed) Objects, Museums, and Restitution. MB 95(2) {R}
 - [John-James Wilson](./john-james-wilson.md) (2021). [Colonial birding in the Thai-Malay Peninsula: Birds from the Selangor Museum now in World Museum, Liverpool](./colonial-birding-in-the-thai-malay-peninsula-birds-from-the-.md). *JMBRAS* 94(2): 121–139
 - [R.O. Winstedt](./richard-olaf-winstedt.md) (1932). [Muslim tombstones in Raffles Museum](./muslim-tombstones-in-raffles-museum.md). *JMBRAS* 10: 6–8
 

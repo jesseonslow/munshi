@@ -21,7 +21,6 @@ published: false
 
 ## MBRAS Sources
 
-- Gerini, C.E. Ptolemy’s Geography of Eastern Asia. SB 57 {R}
 - Linehan, W. Ptolemy’s place-names in Malay Peninsula. B 24(3) and 25(1)
 
 ## References

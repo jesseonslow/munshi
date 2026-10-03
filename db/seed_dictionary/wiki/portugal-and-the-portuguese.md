@@ -28,11 +28,8 @@ published: false
 ## MBRAS Sources
 
 - Albuquerque, A de. Journal: extracts re Johor, tr. T.D. Hughes. MB 13(2) and 14(3)
-- Borschberg, P. Grotius, the Portuguese and free trade in the East Indies. MB 84(2) {R}
 - [P. Borschberg](./peter-borschberg.md) (2008). [Jacques de Coutre as a source for the early seventeenth-century history of Singapore, the Johore river and the straits](./jacques-de-coutre-as-a-source-for-the-early-seventeenth-cent.md). *JMBRAS* 81(2): 71–98
-- Boxer, C.R. The Portuguese sea-borne empire. MB 42(2) {R}
 - [R. Cardon](./r-cardon.md) (1934). [Portuguese Malacca](./portuguese-malacca.md). *JMBRAS* 12(2): 1–23
-- De Sousa Pinto, P.J. The Portuguese and the straits of Melaka, 1575–1619. MB 86(2) {R}
 - [C. Jack-Hinton](./c-jack-hinton.md) (1964). [The political and cosmographical background to the Spanish incursion into the Pacific in the sixteenth century](./the-political-and-cosmographical-background-to-the-spanish-i.md). *JMBRAS* 37(2): 125–161
 - [E. Koek](./e-koek.md) (1886). [Portuguese history of Malacca](./portuguese-history-of-malacca.md). *JSBRAS* 17: 117–149
 - I.A. MacGregor (1955). [Johore Lama in the sixteenth century. {In Papers on Johore Lama and the Portuguese in Malaya (1511–1641](./johore-lama-in-the-sixteenth-century-in-papers-on-johore-lam.md). *JMBRAS* 28(2): 48–125

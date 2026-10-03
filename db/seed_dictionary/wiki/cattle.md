@@ -17,9 +17,5 @@ published: false
 
 <!-- Synthesis engine: Insert introductory synthesis for Cattle here -->
 
-## MBRAS Sources
-
-- Kreemer, J. De Karbouw etc. MB 33(1) {R}
-
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,7 +25,6 @@ published: false
 ## MBRAS Sources
 
 - [G.N. Appell](./gn-appell.md) (1969). [Early American adventurers in Borneo: a brief note and request for information](./early-american-adventurers-in-borneo-a-brief-note-and-reques.md). *JMBRAS* 42(2): 220–221
-- Poulgrain, G. Conflicting Indonesia strategies of JFK and Dulles. MB 89(2) {R}
 - [V. Purcell](./victor-purcell.md) (1964). [The relinquishment by the United States of extraterritoriality in Siam](./the-relinquishment-by-the-united-states-of-extraterritoriali.md). *JMBRAS* 37: 99–120
 - [Sharom Ahmat](./sharom-ahmat.md) (1965). [American trade with Singapore, 1819–65](./american-trade-with-singapore-181965.md). *JMBRAS* 38(2): 241–257
 - [Sharom Ahmat](./sharom-ahmat.md) (1966). [Joseph B. Balestier: the first American consul in Singapore 1833–1852](./joseph-b-balestier-the-first-american-consul-in-singapore-18.md). *JMBRAS* 39(2): 108–122

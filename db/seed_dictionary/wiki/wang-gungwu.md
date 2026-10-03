@@ -17,11 +17,6 @@ published: false
 
 <!-- Synthesis engine: Insert introductory synthesis for Wang Gungwu here -->
 
-## MBRAS Sources
-
-- Wang Gungwu. Memoirs up to early adulthood. MB 92(2) {R}
-- Wong Tze-ken, D. (ed) Wang Gungwu and Malaysia. MB 95(2) {R}
-
 ## Bibliography
 - (1958) [The Nanhai trade: a study of the early history of Chinese trade in the South China Sea](./the-nanhai-trade-a-study-of-the-early-history-of-chinese-tra.md). *JMBRAS* 31(2): 1–135
 - (1958) [The University of Malaya Archaeological Society’s survey of Central Kedah in May 1958](./the-university-of-malaya-archaeological-societys-survey-of-c.md). *JMBRAS* 31(1): 220–223

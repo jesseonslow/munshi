@@ -30,8 +30,6 @@ published: false
 - [Lee Yong Leng](./lee-yong-leng.md) (1978). [Population changes in Sabah, 1960–70](./population-changes-in-sabah-196070.md). *JMBRAS* 51: 63–76
 - Marriott, H. Population of SS and Malaya in 19th century. SB 62
 - [V. Purcell](./victor-purcell.md) (1947). [Chinese settlement in Malacca](./chinese-settlement-in-malacca.md). *JMBRAS* 20: 115–125
-- Sabah. Census of British North Borneo, 1921. MB 1(2) {R}
-- Smith, T.E. Population growth in Malaya. MB 25(1) {R}
 - [Usman Haji Yaakob](./usman-haji-yaakob.md) (2006). [The Malaysian census 2000: characteristics and critical issues](./the-malaysian-census-2000-characteristics-and-critical-issue.md). *JMBRAS* 79: 27–42
 - [Zaharah binti Hj. Mahmud](./zaharah-binti-hj-mahmud.md) (1970). [The period and the nature of “traditional” settlement in the Malay Peninsula](./the-period-and-the-nature-of-traditional-settlement-in-the-m.md). *JMBRAS* 43(2): 81–112
 

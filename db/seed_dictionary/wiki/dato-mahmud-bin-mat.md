@@ -18,9 +18,5 @@ published: false
 
 <!-- Synthesis engine: Insert introductory synthesis for Dato' Mahmud bin Mat here -->
 
-## MBRAS Sources
-
-- Mahmud bin Mat. Tinggal kenangan. Memoirs. MB 71(1) {R}
-
 ## References
 <!-- Grounded occurrences and citations -->

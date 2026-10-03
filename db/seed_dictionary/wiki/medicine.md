@@ -63,7 +63,6 @@ published: false
 - [F.C. Colley](./fc-colley.md) (1978). [Traditional Indian medicine in Malaysia](./traditional-indian-medicine-in-malaysia.md). *JMBRAS* 51: 77–109
 - [A.H. Everett](./alfred-hart-everett.md) (1879). [On the guliga of Borneo](./on-the-guliga-of-borneo.md). *JSBRAS* 4: 56–58
 - [J.D. Gimlette](./jd-gimlette.md) (1913). [Some superstitious beliefs occurring in theory and practice of Malay medicine](./some-superstitious-beliefs-occurring-in-theory-and-practice-.md). *JSBRAS* 65: 29–35
-- Gimlette, J.D. Malay poisons and charm cures. MB 1(1) and 7(2) {R}
 - [J.D. Gimlette](./jd-gimlette.md) (1926). [A bee bomor](./a-bee-bomor.md). *JMBRAS* 4(3): 421–422
 - [Hanitsch R](./hanitsch-r.md) (1918). [On a serow from Annam](./on-a-serow-from-annam.md). *JSBRAS* 78: 59–65
 - Hose, G.F. Contents of a Dyak medicine chest. SB 39
@@ -86,11 +85,9 @@ published: false
 - [J.A. Campbell](./ja-campbell.md) (1919). [Body temperature and comfort](./body-temperature-and-comfort.md). *JSBRAS* 80: 63–66
 - [Y.K. Lee](./yk-lee.md) (1973). [Medical education in the Straits, 1786–1871](./medical-education-in-the-straits-17861871.md). *JMBRAS* 46: 101–122
 - [Liew Kai Khiun](./liew-kai-khiun.md) (2010). [Planters, estate health and malaria in British Malaya (1900‒1940](./planters-estate-health-and-malaria-in-british-malaya-1900194.md). *JMBRAS* 83: 91–115
-- Loh Kah Seng. Tuberculosis. MB 93(2) {R}
 - [Tham Junean](./tham-junean.md) and [Mohd Bin Samsudin](./mohd-bin-samsudin.md) (2022). [The Royal Navy and Disease in the Straits of Malacca, 1794–1815](./the-royal-navy-and-disease-in-the-straits-of-malacca-1794181.md). *JMBRAS* 95(2): 22–38
 - [Por Heong Hong](./por-heong-hong.md) (2023). [Constructing Colonial Benevolence: Portraits of Persons with Leprosy in British Malaya](./constructing-colonial-benevolence-portraits-of-persons-with-.md). *JMBRAS* 96: 99–120
 - [Malcolm Watson](./malcolm-watson.md) (2000). [The Prevention of Malaria in the Federated Malay States](./the-prevention-of-malaria-in-the-federated-malay-states.md). ** : 400
-- Wong Tze-ken, D. Wu Lien-Teh Revisited. MB 96(2) {R}
 - Wylie, L. Dr Braddon’s search for the cause of beriberi. MB 61(2)
 
 ## References

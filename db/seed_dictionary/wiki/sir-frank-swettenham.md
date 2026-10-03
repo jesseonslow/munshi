@@ -32,7 +32,6 @@ published: false
 ## MBRAS Sources
 
 - [J. de V. Allen](./j-de-v-allen.md) (1964). [Two imperialists: a study of Sir Frank Swettenham and Sir Hugh Clifford](./two-imperialists-a-study-of-sir-frank-swettenham-and-sir-hug.md). *JMBRAS* 37: 41–73
-- Barlow, H.S. Swettenham. MB 69(1) {R}
 - [H.S. Barlow](./henry-sackville-barlow.md) (1996). [Swettenham. Schemer and historian](./swettenham-schemer-and-historian.md). *JMBRAS* 69(2): 83–100
 - [H.S. Barlow](./henry-sackville-barlow.md) (2025). [Swettenham](./swettenham.md). **
 - [E. Chew](./e-chew.md) (1984). [Frank Swettenham and Yap Ah Loy: the increase of British political influence in Kuala Lumpur](./frank-swettenham-and-yap-ah-loy-the-increase-of-british-poli.md). *JMBRAS* 57: 70–88

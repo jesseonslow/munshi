@@ -23,7 +23,6 @@ published: false
 - [Tom Harrisson](./tom-harrisson.md) (1965). [Three “secret” communication systems among Borneo nomads (and their dogs](./three-secret-communication-systems-among-borneo-nomads-and-t.md). *JMBRAS* 38(2): 37–86
 - [R. Needham](./r-needham.md) (1954). [Batu Belah & Long Terawan: kinship terms & death names](./batu-belah-long-terawan-kinship-terms-death-names.md). *JMBRAS* 27: 215–217
 - [R. Needham](./r-needham.md) (1955). [Punan Ba](./punan-ba.md). *JMBRAS* 28: 24–36
-- Sellato, C. Nomads of the Borneo rain forest. MB 68(2) {R}
 
 ## References
 <!-- Grounded occurrences and citations -->

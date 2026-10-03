@@ -21,10 +21,6 @@ published: false
 
 <!-- Synthesis engine: Insert introductory synthesis for Syed Hussein Alatas here -->
 
-## MBRAS Sources
-
-- Alatas, Masturah, Sharifah. Syed Hussein Alatas. MB 97(2) {R}
-
 ## Bibliography
 - (1968) [The grading of occupational prestige amongst the Malays in Malaysia](./the-grading-of-occupational-prestige-amongst-the-malays-in-m.md). *JMBRAS* 41(1): 146–156
 

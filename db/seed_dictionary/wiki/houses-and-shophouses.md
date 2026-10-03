@@ -28,13 +28,11 @@ published: false
 
 ## MBRAS Sources
 
-- Davison, J. Black and white: Singapore houses. MB 80(1) {R}
 - [I.H.N. Evans](./ivor-hugh-norman-evans.md) and [G.E. Marrison](./ge-marrison.md) (1951). [Dusun and other “house horns”](./dusun-and-other-house-horns.md). *JMBRAS* 24: 162–168
 - [J.M. Gullick](./john-michael-gullick.md) (1998). [Governors’ houses](./governors-houses.md). *JMBRAS* 71: 123–137
 - [J.M. Gullick](./john-michael-gullick.md) (2012). [The builders](./the-builders.md). *JMBRAS* 85(2): 79–98
 - [R.N. Hilton](./rn-hilton.md) (1956). [The basic Malay house](./the-basic-malay-house.md). *JMBRAS* 29(3): 134–155
 - [R.N. Hilton](./rn-hilton.md) (1992). [Defining the Malay house](./defining-the-malay-house.md). *JMBRAS* 65: 39–70
-- Jenkins, P. and W. The planter’s bungalow. MB 81(1) {R}
 - Lim, J.H.S. Origin and use of traditional shophouses. MB 66(1)
 - [R.O. Noone](./ro-noone.md) (1948). [Notes on the kampong, compounds, and houses of the Patani Malay village of Banggul Ara, in the Mukim of Batu Kurau, Northern Perak](./notes-on-the-kampong-compounds-and-houses-of-the-patani-mala.md). *JMBRAS* 21: 124–147
 - [Rudin Salinger](./rudin-salinger.md) (1997). [The making of traditional clay roof tiles or genting](./the-making-of-traditional-clay-roof-tiles-or-genting.md). *JMBRAS* 70: 101–110
