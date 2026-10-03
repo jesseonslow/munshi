@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-012-s-newmountainseen-1883-99404af89d99
+source_path: /../sources/jsbras-012-s-newmountainseen-1883-99404af89d99.md
 ---
+
 
 # New mountain seen in Perak (with a note W.E. Maxwell
 

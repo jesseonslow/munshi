@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-138-hugheshallett-sketchhistorybrunei-1940-86f71480c77d
+source_path: /../sources/jmalayanras-138-hugheshallett-sketchhistorybrunei-1940-86f71480c77d/appendix.md
 ---
+
 
 # A sketch of the history of Brunei
 

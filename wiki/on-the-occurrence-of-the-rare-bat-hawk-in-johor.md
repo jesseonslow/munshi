@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-025-k-occurrencerarebathawk-1894-f7cbed818239
+source_path: /../sources/jsbras-025-k-occurrencerarebathawk-1894-f7cbed818239.md
 ---
+
 
 # On the occurrence of the rare bat-hawk in Johor
 

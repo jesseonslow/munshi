@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-239-corrigendaroadrailcompetition-1981-690b51298d46
+source_path: /../sources/jmbras-239-corrigendaroadrailcompetition-1981-690b51298d46.md
 ---
+
 
 # Corrigenda: maps omitted from ‘Road or rail?’
 

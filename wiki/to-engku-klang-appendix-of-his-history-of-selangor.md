@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-120-winstedt-historyselangor-1934-f6c627ce0f11
+source_path: /../sources/jmalayanras-120-winstedt-historyselangor-1934-f6c627ce0f11/bibliography.md
 ---
+
 
 # To’ Engku Klang. {Appendix of his History of Selangor
 

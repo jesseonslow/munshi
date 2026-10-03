@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-111-mckerron-trengganuvocabulary-1931-b06438816d5e
+source_path: /../sources/jmalayanras-111-mckerron-trengganuvocabulary-1931-b06438816d5e.md
 ---
+
 
 # A Trengganu vocabulary
 

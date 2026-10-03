@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-012-h-malaccaeighteenthcentury-1883-227fd0db12fc
+source_path: /../sources/jsbras-012-h-malaccaeighteenthcentury-1883-227fd0db12fc.md
 ---
+
 
 # Malacca in the eighteenth century
 

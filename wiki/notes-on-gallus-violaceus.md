@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-025-k-notesgallusviolaceus-1894-9c0a3005c9de
+source_path: /../sources/jsbras-025-k-notesgallusviolaceus-1894-9c0a3005c9de.md
 ---
+
 
 # Notes on Gallus violaceus
 

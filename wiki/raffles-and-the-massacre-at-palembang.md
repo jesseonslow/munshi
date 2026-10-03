@@ -25,7 +25,10 @@ reprints:
   volume: 25
   year: 1952
   absorbed_slug: raffles-and-the-palembang-massacre
+source_doc: jmalayanras-158-wurtzburg-rafflespalembangmassacre-1952-284e3953f253
+source_path: /../sources/jmalayanras-158-wurtzburg-rafflespalembangmassacre-1952-284e3953f253.md
 ---
+
 
 
 # Raffles and the massacre at Palembang

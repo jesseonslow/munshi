@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-257-bastin-drdavidkenneth-1989-d0eb81174bc9
+source_path: /../sources/jmbras-257-bastin-drdavidkenneth-1989-d0eb81174bc9.md
 ---
+
 
 # David Bassett. Obituary
 

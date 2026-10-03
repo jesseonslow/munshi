@@ -28,7 +28,10 @@ amendments:
   page: '293'
 status: stub
 published: false
+source_doc: jsbras-005-comparativevocabularydialects-1880-0e67338c90a4
+source_path: /../sources/jsbras-005-comparativevocabularydialects-1880-0e67338c90a4.md
 ---
+
 
 # Comparative vocabulary of the dialects of some of the wild tribes inhabiting the Malayan peninsula, Borneo, etc., collected and compiled for the Straits Branch of the Royal Asiatic Society
 

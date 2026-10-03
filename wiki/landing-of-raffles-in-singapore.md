@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-012-r-landingrafflessingapore-1883-03a651b49e03
+source_path: /../sources/jsbras-012-r-landingrafflessingapore-1883-03a651b49e03.md
 ---
+
 
 # Landing of Raffles in Singapore
 

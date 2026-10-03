@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-227-haile-postulatedlatecainozoic-1975-7d77e73d8ec7
+source_path: /../sources/jmbras-227-haile-postulatedlatecainozoic-1975-7d77e73d8ec7/references.md
 ---
+
 
 # Postulated late Cainozoic high sea levels in the Malay Peninsula
 

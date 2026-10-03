@@ -21,7 +21,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-039-r-worksakaismessrs-1903-bcb95acc9313
+source_path: /../sources/jsbras-039-r-worksakaismessrs-1903-bcb95acc9313.md
 ---
+
 
 # Work on Sakais
 

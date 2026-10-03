@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-063-moulton-expeditionmountbatu-1912-94eae97ebac5
+source_path: /../sources/jsbras-063-moulton-expeditionmountbatu-1912-94eae97ebac5/appendix.md
 ---
+
 
 # Butterflies taken on the Batu Lawi expedition
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-024-k-notenesteggs-1891-9da796f03b8f
+source_path: /../sources/jsbras-024-k-notenesteggs-1891-9da796f03b8f.md
 ---
+
 
 # Notes on the nest and eggs of Nyctiornis amicta
 

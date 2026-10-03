@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-015-hasselt-objectresultsdutch-1885-0b5f92de7963
+source_path: /../sources/jsbras-015-hasselt-objectresultsdutch-1885-0b5f92de7963.md
 ---
+
 
 # The object and results of a Dutch expedition into the interior of Sumatra in the years 1877, 1878 and 1879
 

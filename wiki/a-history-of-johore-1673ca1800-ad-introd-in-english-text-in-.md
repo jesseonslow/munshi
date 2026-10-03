@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-113-winstedt-historyjohore1673ca-1932-fb3a7515896f
+source_path: /../sources/jmalayanras-113-winstedt-historyjohore1673ca-1932-fb3a7515896f.md
 ---
+
 
 # A history of Johore (1673–ca.1800 A.D.) {Introd. in English: text in Jawi
 

@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-215-gibsonhill-datemunshiabdullahs-1969-27a3a430dbd0
+source_path: /../sources/jmbras-215-gibsonhill-datemunshiabdullahs-1969-27a3a430dbd0.md
 ---
+
 
 # The Hikayat Abdullah. .H. Hill. Chapter II: the founding of Singapore
 

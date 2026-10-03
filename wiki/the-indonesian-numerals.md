@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-028-w-indonesiannumerals-1895-7202b246b2c4
+source_path: /../sources/jsbras-028-w-indonesiannumerals-1895-7202b246b2c4.md
 ---
+
 
 # The Indonesian numerals
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-003-maxwell-malayproverbs-1879-292d3398f5cd
+source_path: /../sources/jsbras-003-maxwell-malayproverbs-1879-292d3398f5cd.md
 ---
+
 
 # Malay proverbs
 

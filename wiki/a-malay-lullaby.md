@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-025-l-malaylullaby-1894-658d78fa1e05
+source_path: /../sources/jsbras-025-l-malaylullaby-1894-658d78fa1e05.md
 ---
+
 
 # A Malay lullaby
 

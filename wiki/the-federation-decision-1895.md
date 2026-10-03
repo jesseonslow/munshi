@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-217-milner-federationdecision1895-1970-a6647fa3c90d
+source_path: /../sources/jmbras-217-milner-federationdecision1895-1970-a6647fa3c90d.md
 ---
+
 
 # The Federation decision: 1895
 

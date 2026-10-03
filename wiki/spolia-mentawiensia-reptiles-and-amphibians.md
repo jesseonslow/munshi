@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-096-k-spoliamentawiensia-1926-c8b55e8b4009
+source_path: /../sources/jmalayanras-096-k-spoliamentawiensia-1926-c8b55e8b4009.md
 ---
+
 
 # Spolia mentawiensia. Reptiles and amphibians
 

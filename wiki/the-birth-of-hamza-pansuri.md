@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-235-brakel-hamzapansurinotes-1979-42b89afbbea7
+source_path: /../sources/jmbras-235-brakel-hamzapansurinotes-1979-42b89afbbea7/appendix.md
 ---
+
 
 # The birth of Hamza Pansuri
 

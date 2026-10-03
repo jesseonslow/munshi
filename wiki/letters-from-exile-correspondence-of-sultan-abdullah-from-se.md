@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-260-kheng-lettersexile-1991-b6b7b23b5bdd
+source_path: /../sources/jmbras-260-kheng-lettersexile-1991-b6b7b23b5bdd/appendix.md
 ---
+
 
 # Letters from exile: correspondence of Sultan Abdullah from Seychelles and Mauritius
 

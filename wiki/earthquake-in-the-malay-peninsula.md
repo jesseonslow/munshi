@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-025-r-earthquakemalaypeninsula-1894-0e64efac6c4e
+source_path: /../sources/jsbras-025-r-earthquakemalaypeninsula-1894-0e64efac6c4e.md
 ---
+
 
 # Earthquake in the Malay Peninsula
 

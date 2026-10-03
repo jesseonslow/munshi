@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-100-leyh-achinpiracy-1927-a5c1adaea3eb
+source_path: /../sources/jmalayanras-100-leyh-achinpiracy-1927-a5c1adaea3eb.md
 ---
+
 
 # Achin piracy
 

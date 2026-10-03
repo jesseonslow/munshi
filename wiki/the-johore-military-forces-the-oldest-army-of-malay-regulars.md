@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-287-sulaiman-johoremilitaryforces-2004-00abe14e9a89
+source_path: /../sources/jmbras-287-sulaiman-johoremilitaryforces-2004-00abe14e9a89.md
 ---
+
 
 # The Johore Military Forces: the oldest army of Malay regulars in the Peninsula
 

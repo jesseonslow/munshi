@@ -24,7 +24,10 @@ amendments:
   page: '234'
 status: stub
 published: false
+source_doc: jmalayanras-115-frontmatter-1932-bf925cddf290
+source_path: /../sources/jmalayanras-115-frontmatter-1932-bf925cddf290.md
 ---
+
 
 # Journal
 

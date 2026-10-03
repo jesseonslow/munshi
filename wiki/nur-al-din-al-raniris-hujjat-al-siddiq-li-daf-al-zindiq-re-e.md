@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-226-drewes-nraldnalrnrs-1974-716334dfdedd
+source_path: /../sources/jmbras-226-drewes-nraldnalrnrs-1974-716334dfdedd.md
 ---
+
 
 # Nur al-Din al-Raniri’s Hujjat al-Siddiq li-daf al-Zindiq re-examined
 

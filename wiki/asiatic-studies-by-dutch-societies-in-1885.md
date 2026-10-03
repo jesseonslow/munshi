@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-016-r-asiaticstudiesdutch-1885-fbba563ece00
+source_path: /../sources/jsbras-016-r-asiaticstudiesdutch-1885-fbba563ece00.md
 ---
+
 
 # Asiatic studies, by Dutch societies in 1885
 

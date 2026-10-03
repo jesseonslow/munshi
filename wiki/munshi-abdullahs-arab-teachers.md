@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-259-talib-munshiabdullahsarab-1990-080236f3b016
+source_path: /../sources/jmbras-259-talib-munshiabdullahsarab-1990-080236f3b016.md
 ---
+
 
 # Munshi Abdullah’s Arab teachers
 

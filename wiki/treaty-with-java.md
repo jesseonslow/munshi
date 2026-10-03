@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-019-h-treatyjava-1887-cdff05283878
+source_path: /../sources/jsbras-019-h-treatyjava-1887-cdff05283878.md
 ---
+
 
 # Treaty with Java
 

@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-268-gebauer-guatempurung-1995-9d24e769d42f
+source_path: /../sources/jmbras-268-gebauer-guatempurung-1995-9d24e769d42f/references.md
 ---
+
 
 # Gua Tempurong
 
