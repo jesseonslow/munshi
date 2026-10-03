@@ -1,0 +1,29 @@
+---
+id: le-nouvel-établissement-penitentiaire-de-singapore
+work_id: jsbras-17-1-p158
+title: '{Le nouvel établissement penitentiaire de Singapore'
+canonical_name: _{Le nouvel établissement penitentiaire de Singapore}_
+type: article
+article_type: article
+authors:
+- C.} {Lemire
+year: 1886
+journal_code: JSBRAS
+volume: 17
+issue: null
+pages: '158'
+has_bibliography: false
+has_footnotes: false
+PublishedByMBRAS: true
+amendments: []
+status: stub
+published: false
+---
+
+# {Le nouvel établissement penitentiaire de Singapore
+
+## Overview
+<!-- Synthesis engine: Insert article overview here -->
+
+## References
+<!-- Grounded occurrences and citations -->

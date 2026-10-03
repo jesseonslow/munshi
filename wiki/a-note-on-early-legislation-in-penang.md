@@ -1,0 +1,29 @@
+---
+id: a-note-on-early-legislation-in-penang
+work_id: jmbras-23-1-p100
+title: A note on early legislation in Penang
+canonical_name: A note on early legislation in Penang
+type: article
+article_type: article
+authors:
+- Tan Soo-Chye
+year: 1950
+journal_code: JMBRAS
+volume: 23
+issue: '1'
+pages: 100–107
+has_bibliography: true
+has_footnotes: false
+PublishedByMBRAS: true
+amendments: []
+status: stub
+published: false
+---
+
+# A note on early legislation in Penang
+
+## Overview
+<!-- Synthesis engine: Insert article overview here -->
+
+## References
+<!-- Grounded occurrences and citations -->

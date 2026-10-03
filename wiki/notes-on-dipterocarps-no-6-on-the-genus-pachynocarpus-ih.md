@@ -1,0 +1,31 @@
+---
+id: notes-on-dipterocarps-no-6-on-the-genus-pachynocarpus-ih
+work_id: jsbras-86-1-p271
+title: Notes on Dipterocarps. {No. 6} On the genus Pachynocarpus. I.H
+canonical_name: Notes on Dipterocarps. {No. 6} On the genus _Pachynocarpus._ I.H
+type: article
+article_type: article
+authors:
+- I.H. Burkill
+- Burkill
+- F.W. Foxworthy
+year: 1922
+journal_code: JSBRAS
+volume: 86
+issue: null
+pages: 271–280
+has_bibliography: true
+has_footnotes: true
+PublishedByMBRAS: true
+amendments: []
+status: stub
+published: false
+---
+
+# Notes on Dipterocarps. {No. 6} On the genus Pachynocarpus. I.H
+
+## Overview
+<!-- Synthesis engine: Insert article overview here -->
+
+## References
+<!-- Grounded occurrences and citations -->

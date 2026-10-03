@@ -1,0 +1,29 @@
+---
+id: the-sri-lanang-pedigree
+work_id: jmbras-11-2-p148
+title: The Sri Lanang pedigree
+canonical_name: The Sri Lanang pedigree
+type: article
+article_type: article
+authors:
+- R.J. Wilkinson
+year: 1933
+journal_code: JMBRAS
+volume: 11
+issue: '2'
+pages: 148–150
+has_bibliography: false
+has_footnotes: false
+PublishedByMBRAS: true
+amendments: []
+status: stub
+published: false
+---
+
+# The Sri Lanang pedigree
+
+## Overview
+<!-- Synthesis engine: Insert article overview here -->
+
+## References
+<!-- Grounded occurrences and citations -->

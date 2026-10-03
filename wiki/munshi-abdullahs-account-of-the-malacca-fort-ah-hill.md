@@ -1,0 +1,30 @@
+---
+id: munshi-abdullahs-account-of-the-malacca-fort-ah-hill
+work_id: jmbras-23-1-p84
+title: Munshi Abdullah’s account of the Malacca Fort. A.H. Hill
+canonical_name: Munshi Abdullah’s account of the Malacca Fort. A.H. Hill
+type: article
+article_type: article
+authors:
+- Abdullah bin Abdul Kadir Munshi
+- A.H. Hill
+year: 1950
+journal_code: JMBRAS
+volume: 23
+issue: '1'
+pages: 84–99
+has_bibliography: true
+has_footnotes: false
+PublishedByMBRAS: true
+amendments: []
+status: stub
+published: false
+---
+
+# Munshi Abdullah’s account of the Malacca Fort. A.H. Hill
+
+## Overview
+<!-- Synthesis engine: Insert article overview here -->
+
+## References
+<!-- Grounded occurrences and citations -->

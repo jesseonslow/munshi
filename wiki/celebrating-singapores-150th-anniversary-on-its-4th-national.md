@@ -1,0 +1,31 @@
+---
+id: celebrating-singapores-150th-anniversary-on-its-4th-national
+work_id: jmbras-92-2-p57
+title: Celebrating Singapore’s 150th anniversary on its 4th national day (9 August
+  1969
+canonical_name: Celebrating Singapore’s 150th anniversary on its 4th national day
+  (9 August 1969)
+type: article
+article_type: article
+authors:
+- Ng Paul Seen
+year: 2019
+journal_code: JMBRAS
+volume: 92
+issue: '2'
+pages: 57–78
+has_bibliography: true
+has_footnotes: true
+PublishedByMBRAS: true
+amendments: []
+status: stub
+published: false
+---
+
+# Celebrating Singapore’s 150th anniversary on its 4th national day (9 August 1969
+
+## Overview
+<!-- Synthesis engine: Insert article overview here -->
+
+## References
+<!-- Grounded occurrences and citations -->

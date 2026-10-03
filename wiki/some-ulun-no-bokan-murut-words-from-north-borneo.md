@@ -1,0 +1,29 @@
+---
+id: some-ulun-no-bokan-murut-words-from-north-borneo
+work_id: jmbras-14-3-p314
+title: Some ulun-no-bokan (Murut) words from North Borneo
+canonical_name: Some _ulun-no-bokan_ (Murut) words from North Borneo
+type: article
+article_type: article
+authors:
+- H.G. Keith
+year: 1936
+journal_code: JMBRAS
+volume: 14
+issue: '3'
+pages: 314–322
+has_bibliography: true
+has_footnotes: false
+PublishedByMBRAS: true
+amendments: []
+status: stub
+published: false
+---
+
+# Some ulun-no-bokan (Murut) words from North Borneo
+
+## Overview
+<!-- Synthesis engine: Insert article overview here -->
+
+## References
+<!-- Grounded occurrences and citations -->

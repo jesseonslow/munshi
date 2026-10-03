@@ -1,0 +1,29 @@
+---
+id: murut-depopulation-and-the-sapitang-lun-dayeh
+work_id: jmbras-45-2-p109
+title: Murut depopulation and the Sapitang Lun Dayeh
+canonical_name: Murut depopulation and the Sapitang Lun Dayeh
+type: article
+article_type: article
+authors:
+- J.B. Crain
+year: 1972
+journal_code: JMBRAS
+volume: 45
+issue: '2'
+pages: 109–121
+has_bibliography: true
+has_footnotes: false
+PublishedByMBRAS: true
+amendments: []
+status: stub
+published: false
+---
+
+# Murut depopulation and the Sapitang Lun Dayeh
+
+## Overview
+<!-- Synthesis engine: Insert article overview here -->
+
+## References
+<!-- Grounded occurrences and citations -->

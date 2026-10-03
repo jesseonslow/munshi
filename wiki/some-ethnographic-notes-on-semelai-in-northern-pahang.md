@@ -1,0 +1,29 @@
+---
+id: some-ethnographic-notes-on-semelai-in-northern-pahang
+work_id: jmbras-47-2-p123
+title: Some ethnographic notes on Semelai in northern Pahang
+canonical_name: Some ethnographic notes on Semelai in northern Pahang
+type: article
+article_type: article
+authors:
+- R. Needham
+year: 1974
+journal_code: JMBRAS
+volume: 47
+issue: '2'
+pages: 123–129
+has_bibliography: true
+has_footnotes: false
+PublishedByMBRAS: true
+amendments: []
+status: stub
+published: false
+---
+
+# Some ethnographic notes on Semelai in northern Pahang
+
+## Overview
+<!-- Synthesis engine: Insert article overview here -->
+
+## References
+<!-- Grounded occurrences and citations -->
