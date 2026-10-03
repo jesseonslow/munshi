@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-108-stevens-contributionearlyhistory-1929-d1adf09b6ea9
+source_path: ../sources/jmalayanras-108-stevens-contributionearlyhistory-1929-d1adf09b6ea9.md
 ---
+
 
 # A contribution to the early history of Prince of Wales Island
 

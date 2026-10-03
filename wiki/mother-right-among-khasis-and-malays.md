@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-113-winstedt-motherrightamongkhasis-1932-d785e3433dc3
+source_path: ../sources/jmalayanras-113-winstedt-motherrightamongkhasis-1932-d785e3433dc3.md
 ---
+
 
 # Mother-right among Khasis and Malays
 

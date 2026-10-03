@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-117-evans-ancientcornelianbead-1933-23cba87a8d6d
+source_path: ../sources/jmalayanras-117-evans-ancientcornelianbead-1933-23cba87a8d6d.md
 ---
+
 
 # An ancient cornelian bead from Pahang
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-131-sheppard-trengganurodat-1938-ec11fa586ae7
+source_path: ../sources/jmalayanras-131-sheppard-trengganurodat-1938-ec11fa586ae7.md
 ---
+
 
 # The Trengganu ‘rodat’
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-154-marrison-comingislameast-1951-40f160efced0
+source_path: ../sources/jmalayanras-154-marrison-comingislameast-1951-40f160efced0.md
 ---
+
 
 # The coming of Islam to the East Indies
 

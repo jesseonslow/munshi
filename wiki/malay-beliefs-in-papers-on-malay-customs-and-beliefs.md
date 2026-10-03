@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-030-proceedingsannualgeneral-1897-2b1440f49ac2
+source_path: ../sources/jsbras-030-proceedingsannualgeneral-1897-2b1440f49ac2.md
 ---
+
 
 # Malay beliefs. {In Papers on Malay customs and beliefs
 

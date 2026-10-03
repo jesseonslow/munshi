@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-080-winstedt-malaywords-1919-efc0ae5df9aa
+source_path: ../sources/jsbras-080-winstedt-malaywords-1919-efc0ae5df9aa.md
 ---
+
 
 # Some more Malay words
 

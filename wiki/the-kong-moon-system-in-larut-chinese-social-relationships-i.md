@@ -20,8 +20,19 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
-keywords: ["Malaya", "Larut", "Perak", "Chinese tin mining", "secret societies", "Ghee Hin", "Hai San", "Penang"]
+keywords:
+- Malaya
+- Larut
+- Perak
+- Chinese tin mining
+- secret societies
+- Ghee Hin
+- Hai San
+- Penang
+source_doc: pek-the-kong-moon-system-in-larut-4211ce82321e
+source_path: ../sources/pek-the-kong-moon-system-in-larut-4211ce82321e/references.md
 ---
+
 
 # The Kong-Moon System in Larut: Chinese Social Relationships in Nineteenth-Century Perak
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-108-winstedt-royaltabusnegri-1929-0d233d9bbf33
+source_path: ../sources/jmalayanras-108-winstedt-royaltabusnegri-1929-0d233d9bbf33.md
 ---
+
 
 # Royal tabus in Negri Sembilan
 

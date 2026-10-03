@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-138-banks-krissuloksundang-1940-68f530a24e16
+source_path: ../sources/jmalayanras-138-banks-krissuloksundang-1940-68f530a24e16.md
 ---
+
 
 # The keris Solok or Sundang
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-242-yousof-norachatrikedah-1982-f0979cffa505
+source_path: ../sources/jmbras-242-yousof-norachatrikedah-1982-f0979cffa505/appendix.md
 ---
+
 
 # Nora Chatri in Kedah: a preliminary report (with appendix
 

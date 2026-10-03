@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-042-bland-huntinginvocations-1905-ea519e7d9fbc
+source_path: ../sources/jsbras-042-bland-huntinginvocations-1905-ea519e7d9fbc.md
 ---
+
 
 # Hunting invocations
 

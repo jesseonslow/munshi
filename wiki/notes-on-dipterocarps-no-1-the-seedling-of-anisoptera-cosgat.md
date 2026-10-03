@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-075-burkill-notesdipterocarps1-1917-7e48bc71db65
+source_path: ../sources/jsbras-075-burkill-notesdipterocarps1-1917-7e48bc71db65.md
 ---
+
 
 # Notes on Dipterocarps. {No. 1} The seedling of Anisoptera cosgata, Korth
 

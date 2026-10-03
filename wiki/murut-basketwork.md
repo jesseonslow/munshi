@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-113-woolley-imurutbasketwork-1932-556adbe9931b
+source_path: ../sources/jmalayanras-113-woolley-imurutbasketwork-1932-556adbe9931b.md
 ---
+
 
 # Murut basketwork
 

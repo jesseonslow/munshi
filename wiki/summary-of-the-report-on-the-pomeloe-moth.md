@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-019-l-wray-summaryreportpomeloe-1887-bb3deca594d3
+source_path: ../sources/jsbras-019-l-wray-summaryreportpomeloe-1887-bb3deca594d3.md
 ---
+
 
 # Summary of the report on the pomeloe moth
 

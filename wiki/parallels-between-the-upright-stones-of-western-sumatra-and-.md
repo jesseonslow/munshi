@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-248-miksic-parallelsuprightstones-1985-678d6d6e60ab
+source_path: ../sources/jmbras-248-miksic-parallelsuprightstones-1985-678d6d6e60ab.md
 ---
+
 
 # Parallels between the upright stones of Western Sumatra and those in Malacca and Negri Sembilan
 

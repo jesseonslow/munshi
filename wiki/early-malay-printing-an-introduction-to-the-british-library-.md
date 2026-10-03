@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-258-gallop-earlymalayprinting-1990-a1a2a96ad4c8
+source_path: ../sources/jmbras-258-gallop-earlymalayprinting-1990-a1a2a96ad4c8/bibliography.md
 ---
+
 
 # Early Malay printing: an introduction to the British Library collection
 

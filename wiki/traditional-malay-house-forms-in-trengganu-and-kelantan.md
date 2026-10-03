@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-042-hose-variousmethodscomputing-1905-5e9afbef637d
+source_path: ../sources/jsbras-042-hose-variousmethodscomputing-1905-5e9afbef637d.md
 ---
+
 
 # Traditional Malay house forms in Trengganu and Kelantan
 

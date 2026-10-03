@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-209-harrisson-palangiithree-1966-2c3a2cc321c1
+source_path: ../sources/jmbras-209-harrisson-palangiithree-1966-2c3a2cc321c1.md
 ---
+
 
 # A fine trapezoidal gouge and associated items from North Borneo
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-169-douglas-msshikayatiskandar-1955-058c04ac6dc9
+source_path: ../sources/jmalayanras-169-douglas-msshikayatiskandar-1955-058c04ac6dc9.md
 ---
+
 
 # The MSS of the Hikayat Iskander
 

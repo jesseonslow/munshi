@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-293-sugimoto-analysisstatejohores-2007-0e8af6befe3d
+source_path: ../sources/jmbras-293-sugimoto-analysisstatejohores-2007-0e8af6befe3d/references.md
 ---
+
 
 # An analysis of Johore’s finances 1910–1940
 

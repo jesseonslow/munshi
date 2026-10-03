@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-122-wilkinson-malaccasultanate-1935-fce114053789
+source_path: ../sources/jmalayanras-122-wilkinson-malaccasultanate-1935-fce114053789.md
 ---
+
 
 # The Malacca sultanate
 

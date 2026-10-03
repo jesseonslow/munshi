@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-117-winstedt-outlinemalayhistory-1933-32ab0fe0b0d0
+source_path: ../sources/jmalayanras-117-winstedt-outlinemalayhistory-1933-32ab0fe0b0d0.md
 ---
+
 
 # Outline of a Malay history of Riau
 

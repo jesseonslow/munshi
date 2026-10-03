@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-173-tregonning-matsallehrevolt-1956-18242fe9eaaf
+source_path: ../sources/jmalayanras-173-tregonning-matsallehrevolt-1956-18242fe9eaaf.md
 ---
+
 
 # The Mat Salleh revolt (1894–1905
 

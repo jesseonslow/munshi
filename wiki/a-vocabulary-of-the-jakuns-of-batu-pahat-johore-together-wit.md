@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-038-machado-vocabularyjakunsbatu-1902-a88a7adada1f
+source_path: ../sources/jsbras-038-machado-vocabularyjakunsbatu-1902-a88a7adada1f.md
 ---
+
 
 # A vocabulary of the Jakuns of Batu Pahat, Johore, together with some remarks on their customs and peculiarities
 

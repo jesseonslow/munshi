@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-050-mexwell-spada-1908-1cc5b1e57d4b
+source_path: ../sources/jsbras-050-mexwell-spada-1908-1cc5b1e57d4b.md
 ---
+
 
 # Spada
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-145-taylor-inheritancenegrisembilan-1948-7daec664408d
+source_path: ../sources/jmalayanras-145-taylor-inheritancenegrisembilan-1948-7daec664408d/bibliography.md
 ---
+
 
 # Inheritance in Negri Sembilan
 

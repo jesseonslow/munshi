@@ -21,7 +21,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: akhtar-malay-perspectives-on-ming-china-d689655ee580
+source_path: ../sources/akhtar-malay-perspectives-on-ming-china-d689655ee580/bibliography.md
 ---
+
 
 # Compendia Entries on Singapore and the Straits Region from the 16th to the Early 19th Century
 

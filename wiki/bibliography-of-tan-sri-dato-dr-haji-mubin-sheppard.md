@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-269-barlow-bibliographytansri-1995-79cc216706c9
+source_path: ../sources/jmbras-269-barlow-bibliographytansri-1995-79cc216706c9.md
 ---
+
 
 # Bibliography of Tan Sri Dato Dr Haji Mubin Sheppard
 

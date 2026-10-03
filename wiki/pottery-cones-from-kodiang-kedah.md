@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-173-sieveking-potteryconeskodiang-1956-a4a4bf68daa7
+source_path: ../sources/jmalayanras-173-sieveking-potteryconeskodiang-1956-a4a4bf68daa7.md
 ---
+
 
 # Pottery cones from Kodiang, Kedah
 

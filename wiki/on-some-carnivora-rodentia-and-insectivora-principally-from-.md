@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-102-chasen-carnivorarodentiainsectivora-1928-28babc6d0936
+source_path: ../sources/jmalayanras-102-chasen-carnivorarodentiainsectivora-1928-28babc6d0936.md
 ---
+
 
 # On some Carnivora, Rodentia and Insectivora principally from Eastern Borneo
 

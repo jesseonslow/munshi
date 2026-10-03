@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-286-kib-christianizationsabahdevelopment-2004-dce213132a26
+source_path: ../sources/jmbras-286-kib-christianizationsabahdevelopment-2004-dce213132a26/references.md
 ---
+
 
 # Christianization in Sabah and the development of indigenous communities: a historical study
 

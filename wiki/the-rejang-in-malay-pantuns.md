@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-067-overbeck-rjangmalaypantuns-1914-7d622b0f0cb1
+source_path: ../sources/jsbras-067-overbeck-rjangmalaypantuns-1914-7d622b0f0cb1.md
 ---
+
 
 # The “rejang” in Malay pantuns
 

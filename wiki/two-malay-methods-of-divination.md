@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-087-evans-twomalaymethods-1923-671858088e45
+source_path: ../sources/jmalayanras-087-evans-twomalaymethods-1923-671858088e45.md
 ---
+
 
 # Two Malay methods of divination
 

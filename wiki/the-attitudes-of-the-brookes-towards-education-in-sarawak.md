@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-273-gin-attitudesbrookestowards-1997-a758ae52a158
+source_path: ../sources/jmbras-273-gin-attitudesbrookestowards-1997-a758ae52a158/references.md
 ---
+
 
 # The attitudes of the Brookes towards education in Sarawak
 

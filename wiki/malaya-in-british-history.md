@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-256-tarling-malayabritishhistory-1989-0be0e2891097
+source_path: ../sources/jmbras-256-tarling-malayabritishhistory-1989-0be0e2891097.md
 ---
+
 
 # Malaya in British history
 

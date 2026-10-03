@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-018-m-princeprincessbamboo-1886-5dcdda61f9db
+source_path: ../sources/jsbras-018-m-princeprincessbamboo-1886-5dcdda61f9db.md
 ---
+
 
 # The Prince, or Princess of the bamboo
 

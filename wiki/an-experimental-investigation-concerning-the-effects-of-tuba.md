@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-073-campbell-experimentalinvestigationconcerning-1916-72733aa0c520
+source_path: ../sources/jsbras-073-campbell-experimentalinvestigationconcerning-1916-72733aa0c520/references.md
 ---
+
 
 # An experimental investigation concerning the effects of “Tuba” (Derris elliptica
 

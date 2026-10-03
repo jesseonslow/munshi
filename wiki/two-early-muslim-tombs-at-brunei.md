@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-117-carey-twoearlymuslim-1933-41bf56039211
+source_path: ../sources/jmalayanras-117-carey-twoearlymuslim-1933-41bf56039211.md
 ---
+
 
 # Two early Muslim tombs at Brunei
 

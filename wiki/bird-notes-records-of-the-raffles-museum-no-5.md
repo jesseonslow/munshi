@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-090-chasen-birdnotes-1924-71fde6d72023
+source_path: ../sources/jmalayanras-090-chasen-birdnotes-1924-71fde6d72023.md
 ---
+
 
 # Bird notes. Records of the Raffles Museum, No. 5
 

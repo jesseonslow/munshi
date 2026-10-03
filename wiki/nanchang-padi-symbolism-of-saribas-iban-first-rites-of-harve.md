@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-232-sather-nanchangpadisymbolism-1977-54e90e06fc18
+source_path: ../sources/jmbras-232-sather-nanchangpadisymbolism-1977-54e90e06fc18/references.md
 ---
+
 
 # Nanchang padi: symbolism of Saribas Iban first rites of harvest
 

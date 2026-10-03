@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-039-ridley-newbarlanophoratenimber-1903-6ee9e202ce62
+source_path: ../sources/jsbras-039-ridley-newbarlanophoratenimber-1903-6ee9e202ce62.md
 ---
+
 
 # A new Balanophera from Tenimber Islands
 

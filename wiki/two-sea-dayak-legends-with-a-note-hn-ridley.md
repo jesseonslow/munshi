@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-041-proceedingsannualgeneral-1904-535220a7d83d
+source_path: ../sources/jsbras-041-proceedingsannualgeneral-1904-535220a7d83d.md
 ---
+
 
 # Two Sea-Dayak legends. {With a note H.N. Ridley
 

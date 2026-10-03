@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-229-seljuq-notesorigindevelopment-1976-484d20c36f3c
+source_path: ../sources/jmbras-229-seljuq-notesorigindevelopment-1976-484d20c36f3c.md
 ---
+
 
 # Some notes on the origin and development of naubat
 

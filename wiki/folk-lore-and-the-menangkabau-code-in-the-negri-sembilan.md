@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-031-hale-folkloremenangkabaucode-1898-ca6b7667893f
+source_path: ../sources/jsbras-031-hale-folkloremenangkabaucode-1898-ca6b7667893f.md
 ---
+
 
 # Folk-lore and the Menangkabau code in the Negri Sembilan
 

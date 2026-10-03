@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-158-williamshunt-recentarchaeologicaldiscoveries-1952-5f17b4103997
+source_path: ../sources/jmalayanras-158-williamshunt-recentarchaeologicaldiscoveries-1952-5f17b4103997.md
 ---
+
 
 # Recent archaeological discoveries in Malaya (1951)
 

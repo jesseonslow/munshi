@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-304-cranbrook-everettcollectionborneo-2013-069b4f51df7e
+source_path: ../sources/jmbras-304-cranbrook-everettcollectionborneo-2013-069b4f51df7e/references.md
 ---
+
 
 # The ‘Everett Collection from Borneo Caves’ in the Natural History Museum, London: its origin, composition and potential for research
 

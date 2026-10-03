@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-319-tol-pengembaraanlagaligo-2020-190ea1684bf4
+source_path: ../sources/jmbras-319-tol-pengembaraanlagaligo-2020-190ea1684bf4.md
 ---
+
 
 # Pengembaraan La Galigo ke Washington D.C.: Memperkenalkan Husin bin Ismail [The La Galigo manuscripts in Washington D.C.: Introducing Husin bin Ismail
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-289-chross-lasttestamentmunshi-2005-75cd76f15abf
+source_path: ../sources/jmbras-289-chross-lasttestamentmunshi-2005-75cd76f15abf/references.md
 ---
+
 
 # The last will and testament of Munshi Abdullah bin Abdul Kadir (1797–1854
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-229-sandin-tomknew-1976-812b7325bc83
+source_path: ../sources/jmbras-229-sandin-tomknew-1976-812b7325bc83.md
 ---
+
 
 # Tom as I knew him
 

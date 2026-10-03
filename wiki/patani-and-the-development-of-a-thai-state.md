@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-232-koch-patanidevelopmentthai-1977-2559acbd4b38
+source_path: ../sources/jmbras-232-koch-patanidevelopmentthai-1977-2559acbd4b38.md
 ---
+
 
 # Patani and the development of a Thai state
 

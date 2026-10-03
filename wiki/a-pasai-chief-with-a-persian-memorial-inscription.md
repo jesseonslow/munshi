@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-138-winstedt-pasaichiefpersian-1940-05e612491f19
+source_path: ../sources/jmalayanras-138-winstedt-pasaichiefpersian-1940-05e612491f19.md
 ---
+
 
 # A Pasai chief with a Persian memorial inscription
 

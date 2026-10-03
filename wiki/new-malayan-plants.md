@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-044-ridley-newlittleknown-1905-0338dfae8831
+source_path: ../sources/jsbras-044-ridley-newlittleknown-1905-0338dfae8831.md
 ---
+
 
 # New Malayan plants
 

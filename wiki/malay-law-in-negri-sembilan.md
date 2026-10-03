@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-022-lister-malaylawnegri-1890-61b3b7f64cba
+source_path: ../sources/jsbras-022-lister-malaylawnegri-1890-61b3b7f64cba.md
 ---
+
 
 # Malay law in Negri Sembilan
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-033-shelford-notessarawakmuseum-1900-2db43eaee610
+source_path: ../sources/jsbras-033-shelford-notessarawakmuseum-1900-2db43eaee610.md
 ---
+
 
 # Notes from the Sarawak Museum
 

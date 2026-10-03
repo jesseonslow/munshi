@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-251-sivalingam-fishingeconomymalaysia-1986-3b251c330e00
+source_path: ../sources/jmbras-251-sivalingam-fishingeconomymalaysia-1986-3b251c330e00.md
 ---
+
 
 # The fishing economy of Malaysia 1955–1975
 

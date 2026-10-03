@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-093-savage-preliminaryaccountgeology-1925-a3b33abe1e5f
+source_path: ../sources/jmalayanras-093-savage-preliminaryaccountgeology-1925-a3b33abe1e5f.md
 ---
+
 
 # A preliminary account of the geology of Kelantan
 

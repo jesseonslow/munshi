@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-126-evans-notesmalayanantiquities-1936-0dfce7c90f91
+source_path: ../sources/jmalayanras-126-evans-notesmalayanantiquities-1936-0dfce7c90f91.md
 ---
+
 
 # Notes on Malayan antiquities
 

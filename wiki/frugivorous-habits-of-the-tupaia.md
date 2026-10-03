@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-153-gibsonhill-fishingboatsoperated-1950-db183582aadd
+source_path: ../sources/jmalayanras-153-gibsonhill-fishingboatsoperated-1950-db183582aadd.md
 ---
+
 
 # Frugivorous habits of the Tupaia
 

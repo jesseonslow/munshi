@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-087-evans-persistenceoldtype-1923-5f45a423b431
+source_path: ../sources/jmalayanras-087-evans-persistenceoldtype-1923-5f45a423b431.md
 ---
+
 
 # On the persistence of an old type of water-vessel
 

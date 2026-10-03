@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-149-hill-weavingindustrytrengganu-1949-6034be559e1a
+source_path: ../sources/jmalayanras-149-hill-weavingindustrytrengganu-1949-6034be559e1a.md
 ---
+
 
 # The weaving industry in Trengganu
 

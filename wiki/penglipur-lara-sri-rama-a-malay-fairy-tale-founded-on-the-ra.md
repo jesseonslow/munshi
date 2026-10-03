@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-017-maxwell-sriramamalay-1886-3155502a26ab
+source_path: ../sources/jsbras-017-maxwell-sriramamalay-1886-3155502a26ab.md
 ---
+
 
 # {Penglipur Lara} Sri Rama: a Malay fairy tale founded on the Ramayana. {Jawi text with introd. and outline in English
 

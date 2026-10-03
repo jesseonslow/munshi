@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-268-horton-jameshattonhall-1995-8d23e289d9a2
+source_path: ../sources/jmbras-268-horton-jameshattonhall-1995-8d23e289d9a2.md
 ---
+
 
 # James Hatton Hall (1866–1945
 

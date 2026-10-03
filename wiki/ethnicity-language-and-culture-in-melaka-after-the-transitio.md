@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-299-borschberg-ethnicitylanguageculture-2010-68a7682c69c6
+source_path: ../sources/jmbras-299-borschberg-ethnicitylanguageculture-2010-68a7682c69c6/references.md
 ---
+
 
 # Ethnicity, language and culture in Melaka after the transition from Portuguese to Dutch rule (seventeenth century
 

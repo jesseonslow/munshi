@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-221-robert-duffsyndicatekelantan-1972-9123853991e6
+source_path: ../sources/jmbras-221-robert-duffsyndicatekelantan-1972-9123853991e6.md
 ---
+
 
 # The Duff syndicate in Kelantan, 1900–1902
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-031-ridley-peliosanthesmalaypeninsula-1898-86085e35c19b
+source_path: ../sources/jsbras-031-ridley-peliosanthesmalaypeninsula-1898-86085e35c19b.md
 ---
+
 
 # The Peliosanthes of the Malay Peninsula
 

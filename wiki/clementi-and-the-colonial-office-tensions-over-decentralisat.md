@@ -20,8 +20,17 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
-keywords: ["Colonial Malaya", "Colonial Office", "Cecil Clementi", "British Empire", "Malay States", "decentralisation policy"]
+keywords:
+- Colonial Malaya
+- Colonial Office
+- Cecil Clementi
+- British Empire
+- Malay States
+- decentralisation policy
+source_doc: urwin-clementi-and-the-colonial-office-f051120d7fd0
+source_path: ../sources/urwin-clementi-and-the-colonial-office-f051120d7fd0/references.md
 ---
+
 
 # Clementi and the Colonial Office: Tensions over Decentralisation Policy in the Malay States, 1930–34
 

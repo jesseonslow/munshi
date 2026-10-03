@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-185-lamb-recentarchaeologicalwork-1959-4c83ffb4a54e
+source_path: ../sources/jmalayanras-185-lamb-recentarchaeologicalwork-1959-4c83ffb4a54e.md
 ---
+
 
 # Recent archaeological work in Kedah (1958
 

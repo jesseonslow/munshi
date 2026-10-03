@@ -27,7 +27,10 @@ amendments:
   page: '194'
 status: stub
 published: false
+source_doc: jmalayanras-147-editorial-1948-8345d89346b2
+source_path: ../sources/jmalayanras-147-editorial-1948-8345d89346b2.md
 ---
+
 
 # A Malay legal digest compiled for ‘Abd al-Ghafur Muhaiyuddin Shah, Sultan of Pahang, 1592–1614 A.D., with undated additions. .E
 

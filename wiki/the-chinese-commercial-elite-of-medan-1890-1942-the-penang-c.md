@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-297-buiskool-chinesecommercialelite-2009-e59702341cab
+source_path: ../sources/jmbras-297-buiskool-chinesecommercialelite-2009-e59702341cab/references.md
 ---
+
 
 # The Chinese commercial elite of Medan, 1890-1942: the Penang connection
 

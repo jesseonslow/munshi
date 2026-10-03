@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-311-barnard-historiographyshiftinginterpretations-2016-0ff618fef081
+source_path: ../sources/jmbras-311-barnard-historiographyshiftinginterpretations-2016-0ff618fef081/references.md
 ---
+
 
 # Historiography and shifting interpretations of the death of Sultan Mahmud Syah
 

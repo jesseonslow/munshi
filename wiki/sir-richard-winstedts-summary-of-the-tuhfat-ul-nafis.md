@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-211-sweeney-sirrichardwinstedts-1967-44e2077b5af6
+source_path: ../sources/jmbras-211-sweeney-sirrichardwinstedts-1967-44e2077b5af6.md
 ---
+
 
 # Sir Richard Winstedt’s summary of the “Tuhfat ul-Nafis”
 

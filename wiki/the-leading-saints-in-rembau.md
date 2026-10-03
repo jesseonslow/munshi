@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-095-abdullah-leadingsaintsrembau-1925-4df162a0d372
+source_path: ../sources/jmalayanras-095-abdullah-leadingsaintsrembau-1925-4df162a0d372.md
 ---
+
 
 # The leading saints in Rembau
 

@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-158-topley-chineseritesrepose-1952-eee9a458f11d
+source_path: ../sources/jmalayanras-158-topley-chineseritesrepose-1952-eee9a458f11d.md
 ---
+
 
 # Chinese rites for the repose of the soul; with special reference to Cantonese custom
 

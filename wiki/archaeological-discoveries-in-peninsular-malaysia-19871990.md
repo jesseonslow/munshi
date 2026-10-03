@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-260-taha-archaeologicaldiscoveriespeninsular-1991-1bd59d9b2ce6
+source_path: ../sources/jmbras-260-taha-archaeologicaldiscoveriespeninsular-1991-1bd59d9b2ce6.md
 ---
+
 
 # Archaeological discoveries in Peninsular Malaysia (1987–1990
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-014-proceedingsannualgeneral-1884-931de3f734ac
+source_path: ../sources/jsbras-014-proceedingsannualgeneral-1884-931de3f734ac.md
 ---
+
 
 # A propos d’une nouvelle théorie sur le site de Srivijaya
 

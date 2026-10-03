@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-231-lamb-notetworitual-1977-555bc22a1925
+source_path: ../sources/jmbras-231-lamb-notetworitual-1977-555bc22a1925.md
 ---
+
 
 # A note on two ritual depositories from Pimai, Thailand
 

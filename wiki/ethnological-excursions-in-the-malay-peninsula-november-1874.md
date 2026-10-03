@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-002-mikluhomaclay-ethnologicalexcursionsmalay-1878-67060c099f67
+source_path: ../sources/jsbras-002-mikluhomaclay-ethnologicalexcursionsmalay-1878-67060c099f67.md
 ---
+
 
 # Ethnological excursions in the Malay Peninsula: November 1874–October 1875
 

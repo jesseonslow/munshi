@@ -21,7 +21,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-237-drewes-recenteditionundangundang-1980-2daf31d54a07
+source_path: ../sources/jmbras-237-drewes-recenteditionundangundang-1980-2daf31d54a07/chapter-21.md
 ---
+
 
 # On a recent edition of the Undang-undang Melaka. {Review article of Undang-undang Melaka, the laws of Melaka by Liaw Yock Fang
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-291-thong-petalingjayaearly-2006-26963000ad63
+source_path: ../sources/jmbras-291-thong-petalingjayaearly-2006-26963000ad63/references.md
 ---
+
 
 # The fall and rise of Klang, 1867–1900
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-165-beresfordpeirse-settlementtribaldispute-1954-9b9688f0d2aa
+source_path: ../sources/jmalayanras-165-beresfordpeirse-settlementtribaldispute-1954-9b9688f0d2aa.md
 ---
+
 
 # Settlement of a tribal dispute (North Borneo
 

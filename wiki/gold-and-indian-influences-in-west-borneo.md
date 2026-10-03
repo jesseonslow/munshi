@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-150-harrisson-goldindian-1949-57fd3ef19e74
+source_path: ../sources/jmalayanras-150-harrisson-goldindian-1949-57fd3ef19e74/references.md
 ---
+
 
 # Gold and Indian influences in west Borneo
 

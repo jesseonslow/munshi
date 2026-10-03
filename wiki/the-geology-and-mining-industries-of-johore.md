@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-105-willbourn-geologyminingindustries-1928-810076096327
+source_path: ../sources/jmalayanras-105-willbourn-geologyminingindustries-1928-810076096327.md
 ---
+
 
 # The geology and mining industries of Johore
 

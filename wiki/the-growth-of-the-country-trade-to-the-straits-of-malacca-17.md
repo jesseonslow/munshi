@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-218-lewis-growthcountrytrade-1970-bd23d72043d6
+source_path: ../sources/jmbras-218-lewis-growthcountrytrade-1970-bd23d72043d6.md
 ---
+
 
 # The growth of the country trade to the Straits of Malacca, 1760–1777
 

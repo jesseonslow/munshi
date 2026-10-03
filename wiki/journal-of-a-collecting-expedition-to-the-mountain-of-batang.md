@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-021-l-wray-journalcollectingexpedition-1890-98feda15245a
+source_path: ../sources/jsbras-021-l-wray-journalcollectingexpedition-1890-98feda15245a.md
 ---
+
 
 # Journal of a collecting expedition to the mountain of Batang Padang, Perak
 

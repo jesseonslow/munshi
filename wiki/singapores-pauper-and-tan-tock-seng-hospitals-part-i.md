@@ -35,7 +35,10 @@ reprints:
   volume: 50
   year: 1977
   absorbed_slug: singapores-pauper-and-tan-tock-seng-hospitals-part-iv
+source_doc: jmbras-228-lee-singaporespaupertan-1975-4759b8acc044
+source_path: ../sources/jmbras-228-lee-singaporespaupertan-1975-4759b8acc044/references.md
 ---
+
 
 
 # Singapore’s pauper and Tan Tock Seng hospitals. Part I

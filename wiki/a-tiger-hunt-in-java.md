@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-012-kerkhoven-tigerhuntjava-1883-2b1173e395cd
+source_path: ../sources/jsbras-012-kerkhoven-tigerhuntjava-1883-2b1173e395cd.md
 ---
+
 
 # A tiger hunt in Java
 

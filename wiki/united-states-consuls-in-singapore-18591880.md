@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-244-sodhy-unitedstatesconsuls-1983-b75973670287
+source_path: ../sources/jmbras-244-sodhy-unitedstatesconsuls-1983-b75973670287.md
 ---
+
 
 # United States consuls in Singapore, 1859–1880
 

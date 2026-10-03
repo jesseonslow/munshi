@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-210-tregonning-earlylandadministration-1966-ecfb2ea43357
+source_path: ../sources/jmbras-210-tregonning-earlylandadministration-1966-ecfb2ea43357.md
 ---
+
 
 # The early land administration and agricultural development of Penang
 

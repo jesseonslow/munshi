@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-030-proceedingsannualgeneral-1897-2b1440f49ac2
+source_path: ../sources/jsbras-030-proceedingsannualgeneral-1897-2b1440f49ac2.md
 ---
+
 
 # Early Muslim traders in South-East Asia
 

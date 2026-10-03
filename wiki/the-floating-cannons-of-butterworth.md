@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-142-coope-floatingcannonbutterworth-1947-24201fc07d33
+source_path: ../sources/jmalayanras-142-coope-floatingcannonbutterworth-1947-24201fc07d33.md
 ---
+
 
 # The floating cannons of Butterworth
 

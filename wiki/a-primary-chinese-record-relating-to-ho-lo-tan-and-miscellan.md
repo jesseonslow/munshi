@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-173-kao-primarychineserecord-1956-3fabb9414e03
+source_path: ../sources/jmalayanras-173-kao-primarychineserecord-1956-3fabb9414e03/appendix.md
 ---
+
 
 # A primary Chinese record relating to Ho-lo-tan, and miscellaneous notes on Srivijaya and Fo-Che
 

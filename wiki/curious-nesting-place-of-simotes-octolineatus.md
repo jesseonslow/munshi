@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-046-ridley-curiousnestingplace-1906-5f9f37dd589b
+source_path: ../sources/jsbras-046-ridley-curiousnestingplace-1906-5f9f37dd589b.md
 ---
+
 
 # Curious nesting place of Simotes octolineatus
 

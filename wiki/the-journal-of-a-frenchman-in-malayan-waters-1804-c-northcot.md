@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-158-parkinson-journalfrenchmanmalayan-1952-412071d6d522
+source_path: ../sources/jmalayanras-158-parkinson-journalfrenchmanmalayan-1952-412071d6d522.md
 ---
+
 
 # The journal of a Frenchman in Malayan waters, 1804; . C. Northcote Parkinson
 

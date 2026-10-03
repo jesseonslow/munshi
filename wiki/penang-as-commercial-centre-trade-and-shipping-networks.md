@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-297-leng-penangcommercialcentre-2009-c0cd248f854a
+source_path: ../sources/jmbras-297-leng-penangcommercialcentre-2009-c0cd248f854a/references.md
 ---
+
 
 # Penang as commercial centre: trade and shipping networks
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-076-winstedt-folktalesindonesiaindochina-1917-20892ad47de3
+source_path: ../sources/jsbras-076-winstedt-folktalesindonesiaindochina-1917-20892ad47de3.md
 ---
+
 
 # The folk-tales of Indonesia and Indo-China
 

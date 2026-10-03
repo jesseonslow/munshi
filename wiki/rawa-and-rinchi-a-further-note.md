@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-242-watson-rawarinchinote-1982-4114674750a0
+source_path: ../sources/jmbras-242-watson-rawarinchinote-1982-4114674750a0/bibliography.md
 ---
+
 
 # Rawa and Rinchi: a further note
 

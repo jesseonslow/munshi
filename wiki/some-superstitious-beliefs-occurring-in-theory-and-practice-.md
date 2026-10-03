@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-065-gimlette-superstitiousbeliefsoccurring-1913-1e9a004013a7
+source_path: ../sources/jsbras-065-gimlette-superstitiousbeliefsoccurring-1913-1e9a004013a7.md
 ---
+
 
 # Some superstitious beliefs occurring in theory and practice of Malay medicine
 

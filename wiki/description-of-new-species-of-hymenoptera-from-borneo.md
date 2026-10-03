@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-048-cameron-descriptionnewspecies-1907-6d33c19f8c8a
+source_path: ../sources/jsbras-048-cameron-descriptionnewspecies-1907-6d33c19f8c8a.md
 ---
+
 
 # Description of new species of Hymenoptera from Borneo
 

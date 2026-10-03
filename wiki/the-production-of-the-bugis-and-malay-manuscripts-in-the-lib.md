@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-319-tol-productionbugismalay-2020-3fb3dc4fed47
+source_path: ../sources/jmbras-319-tol-productionbugismalay-2020-3fb3dc4fed47/references.md
 ---
+
 
 # The production of the Bugis and Malay manuscripts in the Library of Congress
 

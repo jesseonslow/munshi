@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-319-suwannathatpian-tunkubadlishahsultan-2020-61d44ed12bd7
+source_path: ../sources/jmbras-319-suwannathatpian-tunkubadlishahsultan-2020-61d44ed12bd7/references.md
 ---
+
 
 # Report on a journey from Tuaran to Kiau and ascent of Kinabalu Mountain
 

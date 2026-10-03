@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-090-freeman-firewalkingampangselangor-1924-21c93103d38b
+source_path: ../sources/jmalayanras-090-freeman-firewalkingampangselangor-1924-21c93103d38b.md
 ---
+
 
 # Fire-walking at Ampang, Selangor
 

@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-227-wake-rafflesrajasfounding-1975-c2a8e8e71f2c
+source_path: ../sources/jmbras-227-wake-rafflesrajasfounding-1975-c2a8e8e71f2c.md
 ---
+
 
 # Raffles and the Rajas: the founding of Singapore in Malayan and British colonial history
 

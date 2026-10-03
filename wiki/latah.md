@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-012-obrien-latah-1883-1a994a33fae9
+source_path: ../sources/jsbras-012-obrien-latah-1883-1a994a33fae9.md
 ---
+
 
 # Latah
 

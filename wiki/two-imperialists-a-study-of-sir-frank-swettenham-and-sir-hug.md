@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-205-allen-twoimperialistsstudy-1964-16f05c3cf5ea
+source_path: ../sources/jmbras-205-allen-twoimperialistsstudy-1964-16f05c3cf5ea.md
 ---
+
 
 # Two imperialists: a study of Sir Frank Swettenham and Sir Hugh Clifford
 

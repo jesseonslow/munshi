@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-085-ronkel-tamilmalaymanuscript-1922-65bba1df5c47
+source_path: ../sources/jsbras-085-ronkel-tamilmalaymanuscript-1922-65bba1df5c47.md
 ---
+
 
 # A Tamil Malay manuscript
 

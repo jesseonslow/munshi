@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-050-ridley-batsbamboo-1908-2250cd59c326
+source_path: ../sources/jsbras-050-ridley-batsbamboo-1908-2250cd59c326.md
 ---
+
 
 # Bats in a bamboo
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-057-winstedt-historypeninsulafolktales-1911-ccd0259fba2d
+source_path: ../sources/jsbras-057-winstedt-historypeninsulafolktales-1911-ccd0259fba2d.md
 ---
+
 
 # The history of the peninsula in folk-tales
 

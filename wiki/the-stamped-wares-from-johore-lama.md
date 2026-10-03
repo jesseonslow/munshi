@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-173-sieveking-stampedwaresjohore-1956-26e2c10458ce
+source_path: ../sources/jmalayanras-173-sieveking-stampedwaresjohore-1956-26e2c10458ce.md
 ---
+
 
 # The stamped wares from Johore Lama
 

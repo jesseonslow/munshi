@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-062-winstedt-threeearlykris-1912-905c088eeac6
+source_path: ../sources/jsbras-062-winstedt-threeearlykris-1912-905c088eeac6.md
 ---
+
 
 # Three early keris
 

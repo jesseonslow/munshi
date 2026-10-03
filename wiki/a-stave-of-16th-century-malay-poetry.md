@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-156-linehan-stave16thcentury-1951-78417cbe48d2
+source_path: ../sources/jmalayanras-156-linehan-stave16thcentury-1951-78417cbe48d2.md
 ---
+
 
 # A stave of 16th century Malay poetry
 

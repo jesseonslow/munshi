@@ -21,7 +21,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jordaan-2017-jmbras-90-2-1-34-1febc85fdaf2
+source_path: ../sources/jordaan-2017-jmbras-90-2-1-34-1febc85fdaf2/appendix.md
 ---
+
 
 # Thomas Stamford Raffles’ Masonic career in Java: a new perspective on the British interregnum (1811–1816
 

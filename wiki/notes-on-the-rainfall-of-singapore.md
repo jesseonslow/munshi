@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-007-wheatley-notesrainfallsingapore-1881-6ed65658711e
+source_path: ../sources/jsbras-007-wheatley-notesrainfallsingapore-1881-6ed65658711e.md
 ---
+
 
 # Notes on the rainfall of Singapore
 

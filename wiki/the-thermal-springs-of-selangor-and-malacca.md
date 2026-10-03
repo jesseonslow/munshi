@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-024-bott-thermalspringsselangor-1891-3cd0100dccda
+source_path: ../sources/jsbras-024-bott-thermalspringsselangor-1891-3cd0100dccda.md
 ---
+
 
 # The thermal springs of Selangor and Malacca
 

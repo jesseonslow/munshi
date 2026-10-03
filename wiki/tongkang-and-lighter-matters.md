@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-158-gibsonhill-tongkanglightermatters-1952-b8bf46984d64
+source_path: ../sources/jmalayanras-158-gibsonhill-tongkanglightermatters-1952-b8bf46984d64/references.md
 ---
+
 
 # Tongkang and lighter matters
 

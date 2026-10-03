@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-024-clifford-newcollectionmalay-1891-8b9d3cd4f13e
+source_path: ../sources/jsbras-024-clifford-newcollectionmalay-1891-8b9d3cd4f13e.md
 ---
+
 
 # A new collection of Malay proverbs
 

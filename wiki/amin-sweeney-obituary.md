@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-300-putten-obituaryaminsweeney-2011-e2dfff1118b4
+source_path: ../sources/jmbras-300-putten-obituaryaminsweeney-2011-e2dfff1118b4.md
 ---
+
 
 # Amin Sweeney. Obituary
 

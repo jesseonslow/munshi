@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-085-andreini-notetagalssarawak-1922-7d9abf3dadfb
+source_path: ../sources/jsbras-085-andreini-notetagalssarawak-1922-7d9abf3dadfb.md
 ---
+
 
 # A note on the Tagals of Sarawak
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-019-maxwell-rajaambongmalay-1887-54b98f84b372
+source_path: ../sources/jsbras-019-maxwell-rajaambongmalay-1887-54b98f84b372.md
 ---
+
 
 # Raja Ambong: a Malay fairy tale. {Text with summary in English
 

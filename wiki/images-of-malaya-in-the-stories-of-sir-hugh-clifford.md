@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-235-wicks-imagesmalayastories-1979-ff1a040fe660
+source_path: ../sources/jmbras-235-wicks-imagesmalayastories-1979-ff1a040fe660.md
 ---
+
 
 # Images of Malaya in the stories of Sir Hugh Clifford
 

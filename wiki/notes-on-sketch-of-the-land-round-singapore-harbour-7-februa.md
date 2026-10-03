@@ -21,7 +21,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: frontmatter
+source_path: ../sources/jmbras-301-porath-hikayatpatanikingdom-2011-af5e8cc51b79/frontmatter.md
 ---
+
 
 # Notes on ‘Sketch of the Land round Singapore Harbour, 7 February 1819’. M. Langdon and Kwa Chong Guan
 

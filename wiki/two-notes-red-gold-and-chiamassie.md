@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-156-braddell-twonotesred-1951-8a5733a5b6ea
+source_path: ../sources/jmalayanras-156-braddell-twonotesred-1951-8a5733a5b6ea.md
 ---
+
 
 # Two notes: red gold and chiamassie
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-038-skeat-silkcottondyeing-1902-0ac96bafa0f5
+source_path: ../sources/jsbras-038-skeat-silkcottondyeing-1902-0ac96bafa0f5.md
 ---
+
 
 # Silk and cotton dyeing by the Malays
 

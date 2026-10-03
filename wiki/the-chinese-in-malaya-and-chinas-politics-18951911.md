@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-232-leong-chinesemalayachinas-1977-8a58521f8cd6
+source_path: ../sources/jmbras-232-leong-chinesemalayachinas-1977-8a58521f8cd6.md
 ---
+
 
 # The Chinese in Malaya and China’s politics, 1895–1911
 

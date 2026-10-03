@@ -23,8 +23,19 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
-keywords: ["Bukit Choras", "Ancient Kedah", "Sāgaramatiparipṛcchā", "Sanskrit inscriptions", "Buddhist stūpa", "Malaysian heritage", "Bujang Valley", "Mahāyāna sūtra"]
+keywords:
+- Bukit Choras
+- Ancient Kedah
+- Sāgaramatiparipṛcchā
+- Sanskrit inscriptions
+- Buddhist stūpa
+- Malaysian heritage
+- Bujang Valley
+- Mahāyāna sūtra
+source_doc: khaw-ooi-bujeng-nrayanen-salleh-bukit-choras-inscriptions-ebaefa08b115
+source_path: ../sources/khaw-ooi-bujeng-nrayanen-salleh-bukit-choras-inscriptions-ebaefa08b115/references.md
 ---
+
 
 # The Bukit Choras Inscriptions and the Significance of the Sāgaramatiparipṛcchā Verses to Ancient Kedah.
 

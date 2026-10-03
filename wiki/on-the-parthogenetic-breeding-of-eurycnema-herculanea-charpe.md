@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-038-hanitsch-parthenogeneticbreedingeurycnema-1902-06b3d2a5aae6
+source_path: ../sources/jsbras-038-hanitsch-parthenogeneticbreedingeurycnema-1902-06b3d2a5aae6.md
 ---
+
 
 # On the parthogenetic breeding of Eurycnema herculanea, Charpentier
 

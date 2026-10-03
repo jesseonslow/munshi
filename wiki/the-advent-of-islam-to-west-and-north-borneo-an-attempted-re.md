@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-221-harrisson-adventislamwest-1972-81baef4ce53e
+source_path: ../sources/jmbras-221-harrisson-adventislamwest-1972-81baef4ce53e/references.md
 ---
+
 
 # The advent of Islam to west and north Borneo: an attempted reconstruction of some possible sequences
 

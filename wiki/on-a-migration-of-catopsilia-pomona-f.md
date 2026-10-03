@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-100-cardon-migrationcatopsiliapomona-1927-a885652daf87
+source_path: ../sources/jmalayanras-100-cardon-migrationcatopsiliapomona-1927-a885652daf87.md
 ---
+
 
 # On a migration of Catopsilia pomona (F.
 

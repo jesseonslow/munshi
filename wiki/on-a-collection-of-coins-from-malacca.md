@@ -25,7 +25,10 @@ reprints:
   volume: 44
   year: 1905
   absorbed_slug: on-a-second-collection-of-coins-from-malacca
+source_doc: jsbras-044-hanitsch-secondcollectioncoins-1905-ae8711106d2d
+source_path: ../sources/jsbras-044-hanitsch-secondcollectioncoins-1905-ae8711106d2d.md
 ---
+
 
 
 # On a collection of coins from Malacca

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-046-laidlaw-pelandoktale-1906-7eb9fa06f63f
+source_path: ../sources/jsbras-046-laidlaw-pelandoktale-1906-7eb9fa06f63f.md
 ---
+
 
 # A pelandok tale
 

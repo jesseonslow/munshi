@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-314-bozzolo-visitkelantansouthern-2018-19bdf3a89bc1
+source_path: ../sources/jmbras-314-bozzolo-visitkelantansouthern-2018-19bdf3a89bc1/appendix.md
 ---
+
 
 # Visit to Kelantan and southern Siam in 1888
 

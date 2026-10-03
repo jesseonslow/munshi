@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-126-sheehan-translationhikayatabdullah-1936-b0ca86592cce
+source_path: ../sources/jmalayanras-126-sheehan-translationhikayatabdullah-1936-b0ca86592cce.md
 ---
+
 
 # A translation of the Hikayat Abdullah
 

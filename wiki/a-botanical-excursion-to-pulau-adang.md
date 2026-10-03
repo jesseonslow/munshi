@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-061-ridley-botanicalexcursionpulau-1912-704a8fb850c3
+source_path: ../sources/jsbras-061-ridley-botanicalexcursionpulau-1912-704a8fb850c3.md
 ---
+
 
 # A botanical excursion to Pulau Adang
 

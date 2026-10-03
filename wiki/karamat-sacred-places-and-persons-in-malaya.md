@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-092-winstedt-karamatsacredplaces-1924-279f8b7efd01
+source_path: ../sources/jmalayanras-092-winstedt-karamatsacredplaces-1924-279f8b7efd01.md
 ---
+
 
 # Karamat: sacred places and persons in Malaya
 

@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-161-eeleong-chinesebanksincorporated-1953-e159d8a93cfc
+source_path: ../sources/jmalayanras-161-eeleong-chinesebanksincorporated-1953-e159d8a93cfc.md
 ---
+
 
 # The Chinese banks incorporated in Singapore and the Federation of Malaya
 

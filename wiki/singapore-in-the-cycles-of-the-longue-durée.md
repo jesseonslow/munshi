@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-312-borschberg-singaporecycleslongue-2017-008672cc8654
+source_path: ../sources/jmbras-312-borschberg-singaporecycleslongue-2017-008672cc8654/references.md
 ---
+
 
 # Singapore in the cycles of the longue durée
 

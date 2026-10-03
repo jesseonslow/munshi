@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-119-macdonald-malaccabuildings-1934-dc47547796ab
+source_path: ../sources/jmalayanras-119-macdonald-malaccabuildings-1934-dc47547796ab.md
 ---
+
 
 # Malacca buildings
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-277-musa-malaysredwhite-1999-2cfe36591a70
+source_path: ../sources/jmbras-277-musa-malaysredwhite-1999-2cfe36591a70/references.md
 ---
+
 
 # Malays and the red and white flag societies in Penang, 1830–1920s
 

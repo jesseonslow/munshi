@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-284-harrisson-ceramictradeacross-2003-56a73a8075bc
+source_path: ../sources/jmbras-284-harrisson-ceramictradeacross-2003-56a73a8075bc.md
 ---
+
 
 # The ceramic trade across the South China Sea
 

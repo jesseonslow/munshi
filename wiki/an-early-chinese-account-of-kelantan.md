@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-161-tweedie-earlychineseaccount-1953-90dc37aec256
+source_path: ../sources/jmalayanras-161-tweedie-earlychineseaccount-1953-90dc37aec256.md
 ---
+
 
 # An early Chinese account of Kelantan
 

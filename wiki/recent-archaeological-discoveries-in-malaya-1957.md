@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-181-peacock-recentarchaeologicaldiscoveries-1958-8e78d4177316
+source_path: ../sources/jmalayanras-181-peacock-recentarchaeologicaldiscoveries-1958-8e78d4177316.md
 ---
+
 
 # Recent archaeological discoveries in Malaya (1957
 

@@ -21,7 +21,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-225-shariffuddin-batutarselahgenealogical-1974-8750bef4161c
+source_path: ../sources/jmbras-225-shariffuddin-batutarselahgenealogical-1974-8750bef4161c.md
 ---
+
 
 # Batu Tarsilah: the genealogical tablet of the Sultans of Brunei. Pengiran M. Shariffuddin and Abdul Latif bin Haji Ibrahim
 

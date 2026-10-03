@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-111-strugnell-ascentgunongbenom-1931-3dc7cff7f9d4
+source_path: ../sources/jmalayanras-111-strugnell-ascentgunongbenom-1931-3dc7cff7f9d4.md
 ---
+
 
 # An ascent of Gunong Benom from Raub
 

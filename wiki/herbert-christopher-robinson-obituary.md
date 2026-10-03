@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-110-kloss-obituaryherbertchristopher-1930-b3dd88b6c1ed
+source_path: ../sources/jmalayanras-110-kloss-obituaryherbertchristopher-1930-b3dd88b6c1ed.md
 ---
+
 
 # Herbert Christopher Robinson. Obituary
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-075-burkill-elaeocarpusbarnardiinew-1917-b0ac9a611a51
+source_path: ../sources/jsbras-075-burkill-elaeocarpusbarnardiinew-1917-b0ac9a611a51.md
 ---
+
 
 # Elaeocarpus barnardii, a new species described from Perak
 

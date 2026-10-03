@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-117-hamilton-malaynamesmolluscs-1933-1ae0160f285d
+source_path: ../sources/jmalayanras-117-hamilton-malaynamesmolluscs-1933-1ae0160f285d.md
 ---
+
 
 # Malay names of molluscs
 

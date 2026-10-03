@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-001-maxwell-antiquitiesprovincewellesley-1878-7483dd99c582
+source_path: ../sources/jsbras-001-maxwell-antiquitiesprovincewellesley-1878-7483dd99c582.md
 ---
+
 
 # Antiquities of Province Wellesley
 

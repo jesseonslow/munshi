@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-014-tenisonwoods-journeysummitgunong-1884-5ef28d18762a
+source_path: ../sources/jsbras-014-tenisonwoods-journeysummitgunong-1884-5ef28d18762a.md
 ---
+
 
 # Journey to the summit of Gunong Bubu
 

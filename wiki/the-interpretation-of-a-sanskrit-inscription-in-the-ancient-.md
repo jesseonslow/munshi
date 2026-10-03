@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-235-sharma-interpretationsanskritinscription-1979-9d745565e1ab
+source_path: ../sources/jmbras-235-sharma-interpretationsanskritinscription-1979-9d745565e1ab.md
 ---
+
 
 # The interpretation of a Sanskrit inscription in the ancient Brunei script
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-010-skinner-outlinehistorybritish-1882-4d8384e3d98a
+source_path: ../sources/jsbras-010-skinner-outlinehistorybritish-1882-4d8384e3d98a.md
 ---
+
 
 # Outline history of the British connection with Malaya
 

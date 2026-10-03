@@ -24,7 +24,10 @@ amendments:
   page: '193'
 status: stub
 published: false
+source_doc: jmalayanras-117-coope-blackartilmu-1933-a43e0361894b
+source_path: ../sources/jmalayanras-117-coope-blackartilmu-1933-a43e0361894b.md
 ---
+
 
 # The black art (ilmu jahat
 

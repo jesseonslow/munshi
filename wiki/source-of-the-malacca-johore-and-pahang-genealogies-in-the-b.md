@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-117-linehan-sourcemalaccajohore-1933-8d7cb092cb99
+source_path: ../sources/jmalayanras-117-linehan-sourcemalaccajohore-1933-8d7cb092cb99.md
 ---
+
 
 # Source of the Malacca, Johore and Pahang genealogies in the Bustan-al-Salatin
 

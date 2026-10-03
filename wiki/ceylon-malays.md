@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-097-said-ceylonmalays-1926-0d95cb0ca6c5
+source_path: ../sources/jmalayanras-097-said-ceylonmalays-1926-0d95cb0ca6c5.md
 ---
+
 
 # Ceylon Malays
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-034-hanitsch-notesflyingfrog-1900-a682ed650d9d
+source_path: ../sources/jsbras-034-hanitsch-notesflyingfrog-1900-a682ed650d9d.md
 ---
+
 
 # Notes on the flying frog Rhacophorus nigropalmatus
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-jsbras-039-marriott-malaywitchcraft-1903-8b0c869688c7
+source_path: ../sources/jsbras-jsbras-039-marriott-malaywitchcraft-1903-8b0c869688c7.md
 ---
+
 
 # Malay witchcraft
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-074-pepys-kelantanglossary-1916-2524e923a378
+source_path: ../sources/jsbras-074-pepys-kelantanglossary-1916-2524e923a378.md
 ---
+
 
 # A Kelantan glossary
 

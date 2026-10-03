@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-085-bucknill-remarksuponcertain-1922-393f62d607f5
+source_path: ../sources/jsbras-085-bucknill-remarksuponcertain-1922-393f62d607f5.md
 ---
+
 
 # Remarks upon certain currency notes, coins and tokens emanating from Malaya during and after the war
 

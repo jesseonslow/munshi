@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-302-datojohnm-2012-3e51d54106fe
+source_path: ../sources/jmbras-302-datojohnm-2012-3e51d54106fe.md
 ---
+
 
 # Dato’ John M. Gullick JSM (1916–2012). Obituary
 

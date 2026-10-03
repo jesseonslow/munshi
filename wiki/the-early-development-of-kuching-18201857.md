@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-230-lockard-earlydevelopmentkuching-1976-b70379142ecb
+source_path: ../sources/jmbras-230-lockard-earlydevelopmentkuching-1976-b70379142ecb.md
 ---
+
 
 # The early development of Kuching, 1820–1857
 

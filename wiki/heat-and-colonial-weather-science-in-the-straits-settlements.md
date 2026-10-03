@@ -18,8 +18,16 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
-keywords: ["Straits Settlements", "urban heat", "deforestation", "meteorology", "weather"]
+keywords:
+- Straits Settlements
+- urban heat
+- deforestation
+- meteorology
+- weather
+source_doc: williamson-heat-and-colonial-weather-science-08dafcc0bb8e
+source_path: ../sources/williamson-heat-and-colonial-weather-science-08dafcc0bb8e/bibliography.md
 ---
+
 
 # Heat and Colonial Weather Science in the Straits Settlements, c. 1820–1900
 

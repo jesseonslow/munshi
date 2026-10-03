@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-158-williamshunt-malayaboriginalcharms-1952-dd3fba090537
+source_path: ../sources/jmalayanras-158-williamshunt-malayaboriginalcharms-1952-dd3fba090537.md
 ---
+
 
 # Some Malay and aboriginal charms and methods of measuring weapons
 

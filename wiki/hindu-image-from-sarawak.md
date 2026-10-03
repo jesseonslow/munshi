@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-085-moulton-hinduimagesarawak-1922-3ae1c6d3387f
+source_path: ../sources/jsbras-085-moulton-hinduimagesarawak-1922-3ae1c6d3387f.md
 ---
+
 
 # Hindu image from Sarawak
 

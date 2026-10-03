@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-083-burkill-odoardobeccari-1921-a2bd2f157970
+source_path: ../sources/jsbras-083-burkill-odoardobeccari-1921-a2bd2f157970.md
 ---
+
 
 # Odoardo Beccari
 

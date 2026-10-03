@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-083-moulton-annualreportstraits-1921-c9a1c722dbec
+source_path: ../sources/jsbras-083-moulton-annualreportstraits-1921-c9a1c722dbec.md
 ---
+
 
 # An historical enigma: a note on the anti-gambling petition of 1905
 

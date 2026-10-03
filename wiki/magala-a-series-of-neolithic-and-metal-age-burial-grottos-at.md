@@ -21,7 +21,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-214-harrisson-magalaaseriesneolithic-1968-4bb287e99bfc
+source_path: ../sources/jmbras-214-harrisson-magalaaseriesneolithic-1968-4bb287e99bfc/references.md
 ---
+
 
 # Magala – a series of Neolithic and Metal Age burial grottos at Sekaloh, Niah, Sarawak
 

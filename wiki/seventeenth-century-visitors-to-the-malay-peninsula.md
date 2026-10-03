@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-119-sheehan-seventeenthcenturyvisitors-1934-a1d3072a7bd6
+source_path: ../sources/jmalayanras-119-sheehan-seventeenthcenturyvisitors-1934-a1d3072a7bd6.md
 ---
+
 
 # Seventeenth century visitors to the Malay Peninsula
 

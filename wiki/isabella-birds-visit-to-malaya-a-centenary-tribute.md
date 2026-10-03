@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-236-gullick-isabellabirdsvisit-1979-0b7b611eb44e
+source_path: ../sources/jmbras-236-gullick-isabellabirdsvisit-1979-0b7b611eb44e.md
 ---
+
 
 # Isabella Bird’s visit to Malaya: a centenary tribute
 

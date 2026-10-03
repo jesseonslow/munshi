@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-251-proudfoot-formativeperiodmalay-1986-eb7fe703dbeb
+source_path: ../sources/jmbras-251-proudfoot-formativeperiodmalay-1986-eb7fe703dbeb.md
 ---
+
 
 # A formative period in Malay book publishing
 

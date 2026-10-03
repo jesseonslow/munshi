@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-169-sieveking-recentarchaeologicaldiscoveries-1955-c7b497900ed4
+source_path: ../sources/jmalayanras-169-sieveking-recentarchaeologicaldiscoveries-1955-c7b497900ed4.md
 ---
+
 
 # Recent archaeological discoveries in Malaya (1954
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-105-majid-malaysuperstitions-1928-0aaf0e1a3463
+source_path: ../sources/jmalayanras-105-majid-malaysuperstitions-1928-0aaf0e1a3463.md
 ---
+
 
 # Some Malay superstitions
 

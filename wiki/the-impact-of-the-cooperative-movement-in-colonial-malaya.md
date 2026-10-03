@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-224-fredericks-impactcooperativemovement-1973-920bca325862
+source_path: ../sources/jmbras-224-fredericks-impactcooperativemovement-1973-920bca325862/appendices.md
 ---
+
 
 # The impact of the cooperative movement in colonial Malaya
 

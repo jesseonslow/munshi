@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-019-maxwell-pulaulangkawi-1887-59597f2e66ff
+source_path: ../sources/jsbras-019-maxwell-pulaulangkawi-1887-59597f2e66ff.md
 ---
+
 
 # Pulau Langkawi
 

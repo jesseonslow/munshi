@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-158-evans-curiouswordnorth-1952-2c96b5a46b43
+source_path: ../sources/jmalayanras-158-evans-curiouswordnorth-1952-2c96b5a46b43.md
 ---
+
 
 # A curious word from North Borneo
 

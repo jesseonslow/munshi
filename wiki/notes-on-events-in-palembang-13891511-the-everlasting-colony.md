@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-250-mcroberts-noteseventspalembang-1986-15eb2df2d25d
+source_path: ../sources/jmbras-250-mcroberts-noteseventspalembang-1986-15eb2df2d25d.md
 ---
+
 
 # Notes on events in Palembang 1389–1511: the everlasting colony
 

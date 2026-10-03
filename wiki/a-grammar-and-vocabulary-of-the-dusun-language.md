@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-091-gossens-grammarvocabularydusun-1924-ddc4f22f6a11
+source_path: ../sources/jmalayanras-091-gossens-grammarvocabularydusun-1924-ddc4f22f6a11.md
 ---
+
 
 # A grammar and vocabulary of the Dusun language
 

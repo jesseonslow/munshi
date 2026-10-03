@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-142-winstedt-obituaryrichardjames-1947-b77828e58243
+source_path: ../sources/jmalayanras-142-winstedt-obituaryrichardjames-1947-b77828e58243.md
 ---
+
 
 # Richard James Wilkinson: Obituary
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-088-sayid-mohamedancalendar-1923-00474766c982
+source_path: ../sources/jmalayanras-088-sayid-mohamedancalendar-1923-00474766c982.md
 ---
+
 
 # Mohamedan calendar
 

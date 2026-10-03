@@ -24,7 +24,10 @@ amendments:
   page: '153'
 status: stub
 published: false
+source_doc: jsbras-015-swettenham-journalkeptjourney-1885-4027d3115d7f
+source_path: ../sources/jsbras-015-swettenham-journalkeptjourney-1885-4027d3115d7f.md
 ---
+
 
 # Malaya in the Wu-pei-chih charts
 

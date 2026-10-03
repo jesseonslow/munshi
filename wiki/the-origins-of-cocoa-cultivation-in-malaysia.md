@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-268-kaur-originscocoacultivation-1995-4b9dc3778d4a
+source_path: ../sources/jmbras-268-kaur-originscocoacultivation-1995-4b9dc3778d4a/references.md
 ---
+
 
 # The origins of cocoa cultivation in Malaysia
 

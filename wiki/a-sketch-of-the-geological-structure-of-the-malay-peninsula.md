@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-059-scrivenor-sketchgeologicalstructure-1911-e7ac205417ff
+source_path: ../sources/jsbras-059-scrivenor-sketchgeologicalstructure-1911-e7ac205417ff.md
 ---
+
 
 # A sketch of the geological structure of the Malay Peninsula
 

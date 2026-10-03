@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-045-winsedtt-mousedeertales-1906-c9be920d1a24
+source_path: ../sources/jsbras-045-winsedtt-mousedeertales-1906-c9be920d1a24.md
 ---
+
 
 # Some mouse-deer tales
 

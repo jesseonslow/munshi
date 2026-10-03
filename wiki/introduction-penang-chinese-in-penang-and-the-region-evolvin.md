@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-296-jeshurun-tunkuabdulrahman-2009-8b678298b078
+source_path: ../sources/jmbras-296-jeshurun-tunkuabdulrahman-2009-8b678298b078/references.md
 ---
+
 
 # Introduction: Penang Chinese in Penang and the region: evolving identities and networks
 

@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-169-johns-aspectssufithought-1955-3b0beb8566c8
+source_path: ../sources/jmalayanras-169-johns-aspectssufithought-1955-3b0beb8566c8.md
 ---
+
 
 # Aspects of Sufi thought in India and Indonesia in the first half of the 17th century
 

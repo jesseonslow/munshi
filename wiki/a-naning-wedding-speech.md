@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-072-humphreys-naningweddingspeech-1916-fc584b34de7d
+source_path: ../sources/jsbras-072-humphreys-naningweddingspeech-1916-fc584b34de7d.md
 ---
+
 
 # A Naning wedding-speech
 

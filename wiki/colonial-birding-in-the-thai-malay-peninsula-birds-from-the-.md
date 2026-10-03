@@ -20,8 +20,23 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
-keywords: ["Selangor Museum", "Federated Malay States Museums", "Charles Ulok", "Cecil Boden Kloss", "Eibert Carl Henry Seimund", "Herbert Christopher Robinson", "Frederick Nutter Chasen", "Fraser’s Hill", "Maxwell Hill", "Genting Highlands", "Gunung Tahan", "Cameron Highlands"]
+keywords:
+- Selangor Museum
+- Federated Malay States Museums
+- Charles Ulok
+- Cecil Boden Kloss
+- Eibert Carl Henry Seimund
+- Herbert Christopher Robinson
+- Frederick Nutter Chasen
+- Fraser’s Hill
+- Maxwell Hill
+- Genting Highlands
+- Gunung Tahan
+- Cameron Highlands
+source_doc: wilson-colonial-birding-in-the-thai-malay-peninsula-2e8bb548a806
+source_path: ../sources/wilson-colonial-birding-in-the-thai-malay-peninsula-2e8bb548a806/references.md
 ---
+
 
 # Colonial birding in the Thai-Malay Peninsula: Birds from the Selangor Museum now in World Museum, Liverpool
 

@@ -35,7 +35,10 @@ reprints:
   volume: 24
   year: 1951
   absorbed_slug: notes-on-ancient-times-in-malaya-part-8
+source_doc: jmalayanras-142-braddell-notesancienttimes-1947-9f9fa01411eb
+source_path: ../sources/jmalayanras-142-braddell-notesancienttimes-1947-9f9fa01411eb.md
 ---
+
 
 
 # Notes on ancient times in Malaya. Part 1

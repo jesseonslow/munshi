@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-310-nanlan-wellprepareddeathlee-2016-4d5ecb0c6f6e
+source_path: ../sources/jmbras-310-nanlan-wellprepareddeathlee-2016-4d5ecb0c6f6e/references.md
 ---
+
 
 # The well-prepared death of Lee Kuan Yew
 

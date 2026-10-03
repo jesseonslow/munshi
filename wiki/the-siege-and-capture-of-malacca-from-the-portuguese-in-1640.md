@@ -22,7 +22,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-014-proceedingsannualgeneral-1884-931de3f734ac
+source_path: ../sources/jsbras-014-proceedingsannualgeneral-1884-931de3f734ac.md
 ---
+
 
 # The siege and capture of Malacca from the Portuguese in 1640–1641: extracts from the archives of the Dutch East India Company; . 128–429
 

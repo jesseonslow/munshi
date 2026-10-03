@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-319-rony-malaymanuscriptsearly-2020-5341cec6a0ca
+source_path: ../sources/jmbras-319-rony-malaymanuscriptsearly-2020-5341cec6a0ca.md
 ---
+
 
 # Malay Manuscripts and early printed books at the Library of Congress. Facsimile reprint
 

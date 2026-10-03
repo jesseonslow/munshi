@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-003-bieber-geographyachin-1879-9f970b79a877
+source_path: ../sources/jsbras-003-bieber-geographyachin-1879-9f970b79a877.md
 ---
+
 
 # Geography of Achin. . Bieber
 

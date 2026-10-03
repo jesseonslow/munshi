@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-263-barlow-earlyhistoryresidency-1992-86f3e49c39d9
+source_path: ../sources/jmbras-263-barlow-earlyhistoryresidency-1992-86f3e49c39d9/references.md
 ---
+
 
 # The early history of the Residency Kuala Lumpur
 

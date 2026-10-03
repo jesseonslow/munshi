@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-085-overbeck-malaypantun-1922-7bcb52ccc69d
+source_path: ../sources/jsbras-085-overbeck-malaypantun-1922-7bcb52ccc69d.md
 ---
+
 
 # The Malay pantun
 

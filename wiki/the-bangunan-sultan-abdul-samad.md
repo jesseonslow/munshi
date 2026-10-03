@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-262-gullick-bangunansultanabdul-1992-f202d3127d32
+source_path: ../sources/jmbras-262-gullick-bangunansultanabdul-1992-f202d3127d32.md
 ---
+
 
 # The Bangunan Sultan Abdul Samad
 

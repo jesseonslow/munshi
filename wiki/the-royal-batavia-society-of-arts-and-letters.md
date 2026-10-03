@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-105-k-royalbataviansociety-1928-3a76eaedec63
+source_path: ../sources/jmalayanras-105-k-royalbataviansociety-1928-3a76eaedec63.md
 ---
+
 
 # The Royal Batavia Society of Arts and Letters
 

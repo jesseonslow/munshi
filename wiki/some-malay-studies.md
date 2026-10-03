@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-113-wilkinson-malaystudies-1932-11d6789151a6
+source_path: ../sources/jmalayanras-113-wilkinson-malaystudies-1932-11d6789151a6.md
 ---
+
 
 # Some Malay studies
 

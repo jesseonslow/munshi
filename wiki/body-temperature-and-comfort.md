@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-080-campbell-bodytemperaturecomfort-1919-3dea56e7b38e
+source_path: ../sources/jsbras-080-campbell-bodytemperaturecomfort-1919-3dea56e7b38e.md
 ---
+
 
 # Body temperature and comfort
 

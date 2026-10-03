@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-119-schurhammer-churchstpaul-1934-8bcd52dd5cb1
+source_path: ../sources/jmalayanras-119-schurhammer-churchstpaul-1934-8bcd52dd5cb1.md
 ---
+
 
 # The Church of St. Paul, Malacca
 

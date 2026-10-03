@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-085-galloway-contributionpsychologylatah-1922-fa19cafc82a5
+source_path: ../sources/jsbras-085-galloway-contributionpsychologylatah-1922-fa19cafc82a5.md
 ---
+
 
 # A contribution to the psychology of “latah”
 

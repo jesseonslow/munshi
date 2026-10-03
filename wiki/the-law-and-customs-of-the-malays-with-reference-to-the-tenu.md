@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-013-maxwell-lawcustomsmalays-1884-5b51ed70b2bd
+source_path: ../sources/jsbras-013-maxwell-lawcustomsmalays-1884-5b51ed70b2bd/appendix.md
 ---
+
 
 # The law and customs of the Malays with reference to the tenure of land
 

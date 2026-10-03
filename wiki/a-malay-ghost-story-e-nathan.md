@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-067-nathan-malayghoststory-1914-d8eb76cedc6b
+source_path: ../sources/jsbras-067-nathan-malayghoststory-1914-d8eb76cedc6b.md
 ---
+
 
 # A Malay ghost story. .E. Nathan
 

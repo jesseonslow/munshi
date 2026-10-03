@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-228-moy-sejarahmelayutradition-1975-712ebc741b91
+source_path: ../sources/jmbras-228-moy-sejarahmelayutradition-1975-712ebc741b91.md
 ---
+
 
 # The “Sejarah Melayu” tradition of power and political structure: an assessment of relevant sections of the “Tuhfat-al-Nafis”
 

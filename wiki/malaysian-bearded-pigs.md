@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-083-kloss-malaysianbeardedpigs-1921-70af6d3996a0
+source_path: ../sources/jsbras-083-kloss-malaysianbeardedpigs-1921-70af6d3996a0.md
 ---
+
 
 # Malaysian bearded pigs
 

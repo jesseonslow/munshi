@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-033-shelford-tripmtpenrissen-1900-0263d0d66ba9
+source_path: ../sources/jsbras-033-shelford-tripmtpenrissen-1900-0263d0d66ba9/appendix.md
 ---
+
 
 # A trip to Mt. Penrissen, Sarawak
 

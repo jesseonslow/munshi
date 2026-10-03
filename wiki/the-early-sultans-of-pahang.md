@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-113-wilkinson-earlysultanspahang-1932-43895d2b1d18
+source_path: ../sources/jmalayanras-113-wilkinson-earlysultanspahang-1932-43895d2b1d18.md
 ---
+
 
 # The early Sultans of Pahang
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-113-overbeck-shardandanstia-1932-20399810d6ef
+source_path: ../sources/jmalayanras-113-overbeck-shardandanstia-1932-20399810d6ef.md
 ---
+
 
 # Shaer Dandan Setia
 

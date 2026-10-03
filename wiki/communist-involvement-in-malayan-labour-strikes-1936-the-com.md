@@ -26,7 +26,10 @@ amendments:
   page: '93'
 status: stub
 published: false
+source_doc: jmbras-230-wah-communistchallengemalayan-1976-c07d8bddc50e
+source_path: ../sources/jmbras-230-wah-communistchallengemalayan-1976-c07d8bddc50e.md
 ---
+
 
 # Communist involvement in Malayan labour strikes: 1936 (The communist challenge in the Malayan labour scene, Sept. 1936–Mar. 1937
 

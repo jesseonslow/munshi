@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-207-alattas-noteopeningrelations-1965-ad926c11a906
+source_path: ../sources/jmbras-207-alattas-noteopeningrelations-1965-ad926c11a906.md
 ---
+
 
 # Note on the opening of relations between China and Malacca, 1403–05
 

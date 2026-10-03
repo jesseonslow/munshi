@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-144-cardon-oldmalaccatranqueira-1948-2e48bff7e24c
+source_path: ../sources/jmalayanras-144-cardon-oldmalaccatranqueira-1948-2e48bff7e24c.md
 ---
+
 
 # Old Malacca: Tranqueira and Gajah Berang
 

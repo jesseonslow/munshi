@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-161-loewenstein-tulangmawasreexamined-1953-b92d25ff6268
+source_path: ../sources/jmalayanras-161-loewenstein-tulangmawasreexamined-1953-b92d25ff6268.md
 ---
+
 
 # “Tulang mawas” re-examined
 

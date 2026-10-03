@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-104-keith-descriptionnativeoil-1928-7832e6a6f92e
+source_path: ../sources/jmalayanras-104-keith-descriptionnativeoil-1928-7832e6a6f92e.md
 ---
+
 
 # Description of a native oil press (chandasan) from North Borneo
 

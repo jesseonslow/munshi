@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-022-maxwell-lawrelatingslavery-1890-dfa2b663df41
+source_path: ../sources/jsbras-022-maxwell-lawrelatingslavery-1890-dfa2b663df41.md
 ---
+
 
 # A note on the Sambas finds
 

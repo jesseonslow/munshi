@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-151-hill-munshiabdullahsaccount-1950-c22cebec6b59
+source_path: ../sources/jmalayanras-151-hill-munshiabdullahsaccount-1950-c22cebec6b59.md
 ---
+
 
 # Munshi Abdullah’s account of the Malacca Fort. A.H. Hill
 

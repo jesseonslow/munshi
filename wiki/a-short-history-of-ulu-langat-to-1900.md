@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-293-gullick-shorthistoryulu-2007-5353cf2ddc48
+source_path: ../sources/jmbras-293-gullick-shorthistoryulu-2007-5353cf2ddc48/references.md
 ---
+
 
 # A short history of Ulu Langat to 1900
 

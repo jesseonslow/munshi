@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-108-winstedt-perakpalace-1929-e2095809b863
+source_path: ../sources/jmalayanras-108-winstedt-perakpalace-1929-e2095809b863.md
 ---
+
 
 # A Perak palace
 

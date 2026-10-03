@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-024-keith-accountjourneyacross-1891-101030e18f1e
+source_path: ../sources/jsbras-024-keith-accountjourneyacross-1891-101030e18f1e.md
 ---
+
 
 # An account of a journey across the Malay Peninsula from Koh Lak to Mergui
 

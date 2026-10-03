@@ -25,7 +25,10 @@ amendments:
   page: '200'
 status: stub
 published: false
+source_doc: jsbras-024-proceedingsannualgeneral-1891-3c39ed28090f
+source_path: ../sources/jsbras-024-proceedingsannualgeneral-1891-3c39ed28090f.md
 ---
+
 
 # Sir Frank Swettenham’s Perak journals, 1874–1876
 

@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-212-iskandar-threemalayhistorical-1967-48ddf087ad99
+source_path: ../sources/jmbras-212-iskandar-threemalayhistorical-1967-48ddf087ad99.md
 ---
+
 
 # Three Malay historical writings in the first half of the seventeenth century
 

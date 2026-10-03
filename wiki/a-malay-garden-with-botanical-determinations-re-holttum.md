@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-117-hamilton-malaygarden-1933-d37cc0e429d0
+source_path: ../sources/jmalayanras-117-hamilton-malaygarden-1933-d37cc0e429d0.md
 ---
+
 
 # A Malay garden. With botanical determinations. R.E. Holttum
 

@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-227-wilson-evolutionlandadministration-1975-f352349c0458
+source_path: ../sources/jmbras-227-wilson-evolutionlandadministration-1975-f352349c0458.md
 ---
+
 
 # The evolution of land administration in the Malay states: a survey of British inspired changes
 

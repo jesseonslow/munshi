@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-080-girault-newchalcidparasites-1919-dfec5f393985
+source_path: ../sources/jsbras-080-girault-newchalcidparasites-1919-dfec5f393985.md
 ---
+
 
 # New Chalcid parasites from Malaya
 

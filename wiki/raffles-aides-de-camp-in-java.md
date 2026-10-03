@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-065-moulton-notesshortcollecting-1913-ba4a8066d190
+source_path: ../sources/jsbras-065-moulton-notesshortcollecting-1913-ba4a8066d190.md
 ---
+
 
 # Raffles’ aides-de-camp in Java
 

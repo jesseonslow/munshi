@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-303-gullick-builders-2012-5ec1fcddda33
+source_path: ../sources/jmbras-303-gullick-builders-2012-5ec1fcddda33/references.md
 ---
+
 
 # The builders
 

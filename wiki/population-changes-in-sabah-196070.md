@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-233-leng-populationchangessabah-1978-33f26ca03926
+source_path: ../sources/jmbras-233-leng-populationchangessabah-1978-33f26ca03926.md
 ---
+
 
 # Population changes in Sabah, 1960–70
 

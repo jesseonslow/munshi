@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-021-isnard-gemenchehdistrictdu-1890-869b14af6651
+source_path: ../sources/jsbras-021-isnard-gemenchehdistrictdu-1890-869b14af6651.md
 ---
+
 
 # Gemencheh (District of Johol) Negri Sembilan
 

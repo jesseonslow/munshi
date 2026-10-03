@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-277-kheng-romancetokjanggut-1999-8ec8e1be0551
+source_path: ../sources/jmbras-277-kheng-romancetokjanggut-1999-8ec8e1be0551/references.md
 ---
+
 
 # The romance of Tok Janggut: a Kelantan folk hero
 

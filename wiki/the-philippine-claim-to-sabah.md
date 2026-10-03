@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-217-tregonning-philippineclaimsabah-1970-63f79ecc2d27
+source_path: ../sources/jmbras-217-tregonning-philippineclaimsabah-1970-63f79ecc2d27.md
 ---
+
 
 # The Philippine claim to Sabah
 

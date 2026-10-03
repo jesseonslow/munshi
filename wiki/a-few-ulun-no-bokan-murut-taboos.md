@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-126-keith-ulunnobokanmuruttaboos-1936-c4a9fc0dfd80
+source_path: ../sources/jmalayanras-126-keith-ulunnobokanmuruttaboos-1936-c4a9fc0dfd80.md
 ---
+
 
 # A few ulun-no-bokan (Murut) taboos
 

@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-241-jones-twomalayletters-1981-ce072b4599ae
+source_path: ../sources/jmbras-241-jones-twomalayletters-1981-ce072b4599ae/references.md
 ---
+
 
 # Two Malay letters written by Sultan Muhammad Jiwa Muazzam Shah of Kedah to Captain Francis Light: with appendix
 

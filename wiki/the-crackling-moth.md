@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-050-ridley-cracklingmoth-1908-012635407acd
+source_path: ../sources/jsbras-050-ridley-cracklingmoth-1908-012635407acd.md
 ---
+
 
 # The crackling moth
 

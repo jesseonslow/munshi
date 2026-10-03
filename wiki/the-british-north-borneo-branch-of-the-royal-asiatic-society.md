@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-278-tzeken-britishnorthborneo-2000-8929170fe28f
+source_path: ../sources/jmbras-278-tzeken-britishnorthborneo-2000-8929170fe28f/appendix.md
 ---
+
 
 # The British North Borneo Branch of the Royal Asiatic Society (1893–1897) and its museum
 

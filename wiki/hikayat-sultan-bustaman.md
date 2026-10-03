@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-111-overbeck-hikayatsultanbustamam-1931-3eb70ed7d7a2
+source_path: ../sources/jmalayanras-111-overbeck-hikayatsultanbustamam-1931-3eb70ed7d7a2.md
 ---
+
 
 # Hikayat Sultan Bustaman
 

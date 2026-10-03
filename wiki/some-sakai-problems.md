@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-134-wilkinson-sakaiproblems-1939-47821142557b
+source_path: ../sources/jmalayanras-134-wilkinson-sakaiproblems-1939-47821142557b.md
 ---
+
 
 # Some “Sakai” problems
 

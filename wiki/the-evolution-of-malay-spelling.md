@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-036-shellabear-evolutionmalayspelling-1901-dab269153672
+source_path: ../sources/jsbras-036-shellabear-evolutionmalayspelling-1901-dab269153672.md
 ---
+
 
 # The evolution of Malay spelling
 

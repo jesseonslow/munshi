@@ -24,7 +24,10 @@ amendments:
   page: '264'
 status: stub
 published: false
+source_doc: jsbras-046-erratashelfordkloss-1906-0f93b2916414
+source_path: ../sources/jsbras-046-erratashelfordkloss-1906-0f93b2916414.md
 ---
+
 
 # A list of the butterflies of Borneo, and Nymphalinae
 

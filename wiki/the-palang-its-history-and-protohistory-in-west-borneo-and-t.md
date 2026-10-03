@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-206-harrisson-palanghistoryprotohistory-1964-5d5871f84e6a
+source_path: ../sources/jmbras-206-harrisson-palanghistoryprotohistory-1964-5d5871f84e6a.md
 ---
+
 
 # The “palang”: its history and protohistory in West Borneo and the Philippines
 

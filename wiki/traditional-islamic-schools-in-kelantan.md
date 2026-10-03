@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-048-richmanpoor-1907-a34fc43a9475
+source_path: ../sources/jsbras-048-richmanpoor-1907-a34fc43a9475.md
 ---
+
 
 # Traditional Islamic schools in Kelantan
 

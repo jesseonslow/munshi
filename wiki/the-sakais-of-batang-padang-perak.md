@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-041-cerruti-sakaisbatangpadang-1904-870d9e04de2e
+source_path: ../sources/jsbras-041-cerruti-sakaisbatangpadang-1904-870d9e04de2e.md
 ---
+
 
 # The Sakais of Batang Padang, Perak
 

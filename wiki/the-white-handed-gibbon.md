@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-050-kloss-whitehandedgibbon-1908-83bd90809bdd
+source_path: ../sources/jsbras-050-kloss-whitehandedgibbon-1908-83bd90809bdd.md
 ---
+
 
 # The white-handed gibbon
 

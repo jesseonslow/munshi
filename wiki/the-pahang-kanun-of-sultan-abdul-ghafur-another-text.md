@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-156-jakeman-pahangkanunsultan-1951-753b8e7ef252
+source_path: ../sources/jmalayanras-156-jakeman-pahangkanunsultan-1951-753b8e7ef252.md
 ---
+
 
 # The “Pahang Kanun” of Sultan ‘Abdul Ghafur: another text
 

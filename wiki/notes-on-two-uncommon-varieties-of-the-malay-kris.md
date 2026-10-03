@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-117-gardner-notestwouncommon-1933-31c858a85c8d
+source_path: ../sources/jmalayanras-117-gardner-notestwouncommon-1933-31c858a85c8d.md
 ---
+
 
 # Notes on two uncommon varieties of the Malay kris
 

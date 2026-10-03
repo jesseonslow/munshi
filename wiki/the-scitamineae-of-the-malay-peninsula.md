@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-032-ridley-scitaminemalaypeninsula-1899-fdbf5354044f
+source_path: ../sources/jsbras-032-ridley-scitaminemalaypeninsula-1899-fdbf5354044f.md
 ---
+
 
 # The Scitamineae of the Malay Peninsula
 

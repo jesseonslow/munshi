@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-113-mills-threeerediasillustrations-1932-a328d0abe600
+source_path: ../sources/jmalayanras-113-mills-threeerediasillustrations-1932-a328d0abe600.md
 ---
+
 
 # Three of Eredia’s illustrations
 

@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-311-kaplan-postcolonialwaternarratives-2016-bb1f9d0e5a97
+source_path: ../sources/jmbras-311-kaplan-postcolonialwaternarratives-2016-bb1f9d0e5a97/references.md
 ---
+
 
 # Nation and conservation: postcolonial water narratives in Singapore rituals
 

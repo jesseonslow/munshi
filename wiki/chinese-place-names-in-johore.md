@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-092-cowgill-chineseplacenames-1924-351d2b3c6129
+source_path: ../sources/jmalayanras-092-cowgill-chineseplacenames-1924-351d2b3c6129.md
 ---
+
 
 # Chinese place-names in Johore
 

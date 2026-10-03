@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: frontmatter
+source_path: ../sources/jmbras-301-porath-hikayatpatanikingdom-2011-af5e8cc51b79/frontmatter.md
 ---
+
 
 # History, literature and social change: Harun Aminurrashid’s independence novel Panglima Awang
 

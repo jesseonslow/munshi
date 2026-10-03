@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-002-daly-metalliferousformationpeninsula-1878-439f4e2637db
+source_path: ../sources/jsbras-002-daly-metalliferousformationpeninsula-1878-439f4e2637db.md
 ---
+
 
 # The metalliferous formation of the peninsula
 

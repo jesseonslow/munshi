@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-309-porath-mayaimageindigenous-2015-18c995696dba
+source_path: ../sources/jmbras-309-porath-mayaimageindigenous-2015-18c995696dba/references.md
 ---
+
 
 # Maya (image) in indigenous Riau world-view: a forgotten concept of Malayan animist thought and practice
 

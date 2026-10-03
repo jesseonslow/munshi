@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-093-zainuddin-peculiarcustomkuala-1925-38d512f4f875
+source_path: ../sources/jmalayanras-093-zainuddin-peculiarcustomkuala-1925-38d512f4f875.md
 ---
+
 
 # Atrip to Gunong Blumut
 

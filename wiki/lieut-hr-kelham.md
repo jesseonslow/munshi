@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-173-bryson-lieuthr-1956-91695528c45f
+source_path: ../sources/jmalayanras-173-bryson-lieuthr-1956-91695528c45f.md
 ---
+
 
 # Lieut. H.R. Kelham
 

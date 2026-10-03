@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-200-anderson-facsimilereprintpolitical-1962-1a78aa184609
+source_path: ../sources/jmalayanras-200-anderson-facsimilereprintpolitical-1962-1a78aa184609/appendix.md
 ---
+
 
 # British relations with Pahang, 1884–1895
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-024-brown-noterengaspoisoning-1891-3b8061d6ea86
+source_path: ../sources/jsbras-024-brown-noterengaspoisoning-1891-3b8061d6ea86.md
 ---
+
 
 # A note on rengas poisoning
 

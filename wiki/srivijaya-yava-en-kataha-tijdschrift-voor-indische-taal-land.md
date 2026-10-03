@@ -22,7 +22,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-018-satow-essaytowardsbibliography-1886-1f0c8dcda038
+source_path: ../sources/jsbras-018-satow-essaytowardsbibliography-1886-1f0c8dcda038.md
 ---
+
 
 # Srivijaya, Yava en Kataha. Tijdschrift voor Indische Taal-, Land– en Volkenkunde (Deel LXXVII Aflevering 3, 1937) uitgeven door het Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschap-pen. An abridged translation R.J. de Touche
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-173-bastin-crawfurdbaudfree-1956-eefae46ce305
+source_path: ../sources/jmalayanras-173-bastin-crawfurdbaudfree-1956-eefae46ce305.md
 ---
+
 
 # Crawfurd and Baud on free and forced labour in Java
 

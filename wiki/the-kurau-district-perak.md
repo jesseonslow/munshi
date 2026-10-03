@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-018-denison-kuraudistrictprak-1886-03581d786867
+source_path: ../sources/jsbras-018-denison-kuraudistrictprak-1886-03581d786867.md
 ---
+
 
 # The Kurau district, Perak
 

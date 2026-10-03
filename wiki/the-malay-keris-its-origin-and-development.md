@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-143-woolley-malaykrisorigin-1947-a534d2672844
+source_path: ../sources/jmalayanras-143-woolley-malaykrisorigin-1947-a534d2672844.md
 ---
+
 
 # The Malay keris: its origin and development
 

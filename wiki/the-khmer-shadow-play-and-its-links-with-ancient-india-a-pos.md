@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-213-sheppard-khmershadowplay-1968-10eb0813c0bd
+source_path: ../sources/jmbras-213-sheppard-khmershadowplay-1968-10eb0813c0bd.md
 ---
+
 
 # The Khmer shadow play and its links with ancient India, a possible source of the Malay shadow play of Kelantan and Trengganu
 

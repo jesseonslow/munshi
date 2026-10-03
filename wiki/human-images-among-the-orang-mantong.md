@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-041-abbott-humanimagesamong-1904-639ef1739952
+source_path: ../sources/jsbras-041-abbott-humanimagesamong-1904-639ef1739952.md
 ---
+
 
 # Human images among the Orang Mantong
 

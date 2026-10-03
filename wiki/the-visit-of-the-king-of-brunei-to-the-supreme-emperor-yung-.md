@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-057-bland-rightrevdgeorge-1911-1d00d61c66b2
+source_path: ../sources/jsbras-057-bland-rightrevdgeorge-1911-1d00d61c66b2.md
 ---
+
 
 # The visit of the ‘King of Brunei’ to the supreme emperor Yung Lo of China: contemporary and ancient accounts
 

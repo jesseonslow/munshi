@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-067-overbeck-shaerburongpunggok-1914-858c3a6ea5be
+source_path: ../sources/jsbras-067-overbeck-shaerburongpunggok-1914-858c3a6ea5be.md
 ---
+
 
 # Shaer Burong Punggok: a Malay romance
 

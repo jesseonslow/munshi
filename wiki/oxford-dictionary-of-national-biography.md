@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-298-oxforddictionarynational-2010-6578968cbe65
+source_path: ../sources/jmbras-298-oxforddictionarynational-2010-6578968cbe65.md
 ---
+
 
 # Oxford Dictionary of National Biography
 

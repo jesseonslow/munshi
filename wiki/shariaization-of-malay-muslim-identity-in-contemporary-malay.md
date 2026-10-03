@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-315-goh-prehistorichumanpresence-2018-918d66b04c9a
+source_path: ../sources/jmbras-315-goh-prehistorichumanpresence-2018-918d66b04c9a/references.md
 ---
+
 
 # Shariaization of Malay-Muslim identity in contemporary Malaysia
 

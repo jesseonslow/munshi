@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-036-kynnersley-notestoursiamese-1901-befedd97d0e2
+source_path: ../sources/jsbras-036-kynnersley-notestoursiamese-1901-befedd97d0e2.md
 ---
+
 
 # Notes on a tour through the Siamese states on the west coast of the Malay Peninsula, 1900
 

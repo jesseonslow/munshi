@@ -24,7 +24,10 @@ amendments:
   page: '56'
 status: stub
 published: false
+source_doc: jsbras-085-hamilton-penangmalay-1922-8db42ad0a097
+source_path: ../sources/jsbras-085-hamilton-penangmalay-1922-8db42ad0a097.md
 ---
+
 
 # Penang Malay
 

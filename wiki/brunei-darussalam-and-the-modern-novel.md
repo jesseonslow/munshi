@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-286-gallop-bruneidarussalammodern-2004-a8b0ae95c1c7
+source_path: ../sources/jmbras-286-gallop-bruneidarussalammodern-2004-a8b0ae95c1c7/references.md
 ---
+
 
 # Brunei Darussalam and the modern novel
 

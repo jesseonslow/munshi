@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-175-sieveking-distributionstonebark-1956-4cec4ad37b49
+source_path: ../sources/jmalayanras-175-sieveking-distributionstonebark-1956-4cec4ad37b49/bibliography.md
 ---
+
 
 # The distribution of stone bark-cloth beaters in prehistoric times
 

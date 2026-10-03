@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-041-hanitsch-annualreport1903-1904-e2feefa3de95
+source_path: ../sources/jsbras-041-hanitsch-annualreport1903-1904-e2feefa3de95.md
 ---
+
 
 # The study of traditional Malay literature
 

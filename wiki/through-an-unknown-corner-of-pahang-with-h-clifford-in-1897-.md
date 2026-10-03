@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-085-douglas-unknowncornerpahang-1922-642fe96fbdef
+source_path: ../sources/jsbras-085-douglas-unknowncornerpahang-1922-642fe96fbdef.md
 ---
+
 
 # Through an unknown corner of Pahang with H. Clifford in 1897. F.W. Douglas
 

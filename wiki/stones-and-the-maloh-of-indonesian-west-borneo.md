@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-227-harrisson-palangconceptextended-1975-db46005999bf
+source_path: ../sources/jmbras-227-harrisson-palangconceptextended-1975-db46005999bf.md
 ---
+
 
 # Stones and the Maloh of Indonesian West Borneo
 

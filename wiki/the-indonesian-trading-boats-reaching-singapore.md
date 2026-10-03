@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-151-gibsonhill-indonesiantradingboats-1950-9da28fef7dc8
+source_path: ../sources/jmalayanras-151-gibsonhill-indonesiantradingboats-1950-9da28fef7dc8/references.md
 ---
+
 
 # The Indonesian trading boats reaching Singapore
 

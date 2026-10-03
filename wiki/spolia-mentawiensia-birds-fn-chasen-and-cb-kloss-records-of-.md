@@ -21,7 +21,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-097-chasen-spoliamentawiensiarecords-1926-ddbc659891f8
+source_path: ../sources/jmalayanras-097-chasen-spoliamentawiensiarecords-1926-ddbc659891f8.md
 ---
+
 
 # Spolia mentawiensia: Birds. F.N. Chasen and C.B. Kloss. Records of the Raffles Museum, No. 25
 

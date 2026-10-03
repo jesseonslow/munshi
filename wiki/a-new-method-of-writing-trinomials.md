@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-085-moulton-newmethodwriting-1922-b2466a74bb1e
+source_path: ../sources/jsbras-085-moulton-newmethodwriting-1922-b2466a74bb1e.md
 ---
+
 
 # A new method of writing trinomials
 

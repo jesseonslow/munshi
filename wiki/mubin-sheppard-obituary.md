@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-068-rulesstraitsbranch-1915-30c6a1259cf5
+source_path: ../sources/jsbras-068-rulesstraitsbranch-1915-30c6a1259cf5.md
 ---
+
 
 # Mubin Sheppard. Obituary
 

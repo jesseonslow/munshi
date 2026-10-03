@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-143-pawanchee-unusualkrismajapahit-1947-15e29a6db72c
+source_path: ../sources/jmalayanras-143-pawanchee-unusualkrismajapahit-1947-15e29a6db72c.md
 ---
+
 
 # An unusual keris Majapahit
 

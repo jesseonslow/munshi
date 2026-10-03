@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-105-kloss-bulletinrafflesmuseum-1928-5529ad97096f
+source_path: ../sources/jmalayanras-105-kloss-bulletinrafflesmuseum-1928-5529ad97096f.md
 ---
+
 
 # The bulletin of the Raffles Museum
 

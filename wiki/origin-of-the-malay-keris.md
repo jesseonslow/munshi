@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-132-woolley-originmalaykeris-1938-0d4151e61b2c
+source_path: ../sources/jmalayanras-132-woolley-originmalaykeris-1938-0d4151e61b2c.md
 ---
+
 
 # Origin of the Malay keris
 

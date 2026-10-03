@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-080-dussek-notesmalayindoor-1919-7f6370c96ce6
+source_path: ../sources/jsbras-080-dussek-notesmalayindoor-1919-7f6370c96ce6.md
 ---
+
 
 # Notes on Malay indoor games
 

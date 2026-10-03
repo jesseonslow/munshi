@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-065-blagden-notekotakapur-1913-ee8e24f83240
+source_path: ../sources/jsbras-065-blagden-notekotakapur-1913-ee8e24f83240.md
 ---
+
 
 # Taiping (Larut): the early history of a mining settlement
 

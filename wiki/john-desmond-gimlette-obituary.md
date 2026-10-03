@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-155-middlebrook-yapahloy-1951-a226f54271a8
+source_path: ../sources/jmalayanras-155-middlebrook-yapahloy-1951-a226f54271a8/chapter-11.md
 ---
+
 
 # John Desmond Gimlette. Obituary
 

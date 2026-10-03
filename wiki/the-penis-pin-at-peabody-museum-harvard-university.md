@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-214-appell-penispinpeabody-1968-fee1f64cd4d8
+source_path: ../sources/jmbras-214-appell-penispinpeabody-1968-fee1f64cd4d8/bibliography.md
 ---
+
 
 # The penis pin at Peabody Museum, Harvard University
 

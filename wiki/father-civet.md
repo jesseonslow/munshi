@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-050-winstedt-fathercivet-1908-379a122966d1
+source_path: ../sources/jsbras-050-winstedt-fathercivet-1908-379a122966d1.md
 ---
+
 
 # Father Civet
 

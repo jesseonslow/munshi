@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-072-sturrock-hikayatmarongmaha-1916-fd4827c3891a
+source_path: ../sources/jsbras-072-sturrock-hikayatmarongmaha-1916-fd4827c3891a.md
 ---
+
 
 # Hikayat Marong Maha Wangsa; or Kedah Annals. .J. Sturrock
 

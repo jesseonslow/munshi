@@ -24,7 +24,10 @@ amendments:
   page: null
 status: stub
 published: false
+source_doc: jmalayanras-130-mills-collectionmalayanmaps-1937-71b0d9170b9e
+source_path: ../sources/jmalayanras-130-mills-collectionmalayanmaps-1937-71b0d9170b9e.md
 ---
+
 
 # On a collection of Malayan maps in the Raffles Library
 

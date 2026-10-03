@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-119-linehan-chronologypahangsbendaharas-1934-f5d6103c7c8a
+source_path: ../sources/jmalayanras-119-linehan-chronologypahangsbendaharas-1934-f5d6103c7c8a.md
 ---
+
 
 # The chronology of Pahang’s bendaharas
 

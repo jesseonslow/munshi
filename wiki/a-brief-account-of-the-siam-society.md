@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-263-krairiksh-briefaccountsiam-1992-ba6396835b10
+source_path: ../sources/jmbras-263-krairiksh-briefaccountsiam-1992-ba6396835b10.md
 ---
+
 
 # A brief account of the Siam Society
 

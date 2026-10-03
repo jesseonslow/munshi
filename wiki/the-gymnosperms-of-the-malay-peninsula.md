@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-060-ridley-gymnospermsmalaypeninsula-1911-c5effb99521e
+source_path: ../sources/jsbras-060-ridley-gymnospermsmalaypeninsula-1911-c5effb99521e.md
 ---
+
 
 # The Gymnosperms of the Malay Peninsula
 

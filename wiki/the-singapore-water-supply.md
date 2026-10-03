@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-311-singaporewatersupply-2016-4a038ed4545f
+source_path: ../sources/jmbras-311-singaporewatersupply-2016-4a038ed4545f.md
 ---
+
 
 # The Singapore water supply
 

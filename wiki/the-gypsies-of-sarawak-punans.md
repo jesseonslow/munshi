@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-090-andreini-gypsiessarawakpunans-1924-92f603b5405e
+source_path: ../sources/jmalayanras-090-andreini-gypsiessarawakpunans-1924-92f603b5405e.md
 ---
+
 
 # The gypsies of Sarawak (Punans
 

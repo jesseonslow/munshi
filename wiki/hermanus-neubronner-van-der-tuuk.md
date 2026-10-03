@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-057-laidlaw-descriptionstwospecies-1911-1dcfec1e0dfd
+source_path: ../sources/jsbras-057-laidlaw-descriptionstwospecies-1911-1dcfec1e0dfd.md
 ---
+
 
 # Hermanus Neubronner Van Der Tuuk
 

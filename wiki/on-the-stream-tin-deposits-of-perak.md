@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-013-tenisonwoods-streamtindeposits-1884-22fcf56cee2f
+source_path: ../sources/jsbras-013-tenisonwoods-streamtindeposits-1884-22fcf56cee2f.md
 ---
+
 
 # On the stream tin deposits of Perak
 

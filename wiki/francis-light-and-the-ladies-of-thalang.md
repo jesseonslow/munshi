@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-208-simmonds-francislightladies-1965-00f68ac00bd6
+source_path: ../sources/jmbras-208-simmonds-francislightladies-1965-00f68ac00bd6.md
 ---
+
 
 # Francis Light and the ladies of Thalang
 

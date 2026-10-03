@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-208-jong-risedeclinenational-1965-0d4ee88aaf93
+source_path: ../sources/jmbras-208-jong-risedeclinenational-1965-0d4ee88aaf93.md
 ---
+
 
 # The rise and decline of a national hero
 

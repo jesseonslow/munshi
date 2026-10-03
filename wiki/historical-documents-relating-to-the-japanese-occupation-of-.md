@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-308-firstdayssyonan-2015-af67f2d3145a
+source_path: ../sources/jmbras-308-firstdayssyonan-2015-af67f2d3145a.md
 ---
+
 
 # Historical documents relating to the Japanese occupation of Malaya. Comp. P.H. Kratoska
 

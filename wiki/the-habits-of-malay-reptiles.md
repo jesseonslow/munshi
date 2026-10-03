@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-032-ridley-habitsmalayreptiles-1899-17e2e874fba0
+source_path: ../sources/jsbras-032-ridley-habitsmalayreptiles-1899-17e2e874fba0.md
 ---
+
 
 # The habits of Malay reptiles
 

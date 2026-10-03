@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-238-curtis-revivaltitledato-1980-cdd3c6b63924
+source_path: ../sources/jmbras-238-curtis-revivaltitledato-1980-cdd3c6b63924/appendix.md
 ---
+
 
 # The revival of the title of Dato Naning in 1921. With an introductory note by the editor
 

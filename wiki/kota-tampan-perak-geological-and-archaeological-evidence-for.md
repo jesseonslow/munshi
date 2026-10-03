@@ -21,7 +21,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-255-majid-kotatampanperak-1988-4936771d7045
+source_path: ../sources/jmbras-255-majid-kotatampanperak-1988-4936771d7045/references.md
 ---
+
 
 # Kota Tampan, Perak. Geological and archaeological evidence for a late Pleistocene site. Zuraina Majid and H.D. Tjia
 

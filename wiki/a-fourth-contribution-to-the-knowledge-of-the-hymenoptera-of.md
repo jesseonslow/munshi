@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-046-cameron-fourthcontributionknowledge-1906-b50279b53afb
+source_path: ../sources/jsbras-046-cameron-fourthcontributionknowledge-1906-b50279b53afb.md
 ---
+
 
 # A fourth contribution to the knowledge of the Hymenoptera of Sarawak
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-169-gibsonhill-datemunshiabdullahs-1955-41ac4d5d7a99
+source_path: ../sources/jmalayanras-169-gibsonhill-datemunshiabdullahs-1955-41ac4d5d7a99.md
 ---
+
 
 # The date of Munshi Abdullah’s first visit to Singapore
 

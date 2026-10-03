@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-098-linehan-bendaharaspahang-1926-abd51e88b337
+source_path: ../sources/jmalayanras-098-linehan-bendaharaspahang-1926-abd51e88b337.md
 ---
+
 
 # The bendaharas of Pahang
 

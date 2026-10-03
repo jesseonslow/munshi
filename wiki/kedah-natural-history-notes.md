@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-110-hamilton-kedahnaturalhistory-1930-7b19d46bff20
+source_path: ../sources/jmalayanras-110-hamilton-kedahnaturalhistory-1930-7b19d46bff20.md
 ---
+
 
 # Kedah natural history notes
 

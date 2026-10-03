@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-117-edwards-triassicwoodmalay-1933-4d54bb387061
+source_path: ../sources/jmalayanras-117-edwards-triassicwoodmalay-1933-4d54bb387061.md
 ---
+
 
 # Triassic wood from the Malay states
 

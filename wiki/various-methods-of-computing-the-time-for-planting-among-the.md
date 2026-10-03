@@ -25,7 +25,10 @@ amendments:
   page: '209'
 status: stub
 published: false
+source_doc: jsbras-042-hose-variousmethodscomputing-1905-5e9afbef637d
+source_path: ../sources/jsbras-042-hose-variousmethodscomputing-1905-5e9afbef637d.md
 ---
+
 
 # Various methods of computing the time for planting among the races of Borneo
 

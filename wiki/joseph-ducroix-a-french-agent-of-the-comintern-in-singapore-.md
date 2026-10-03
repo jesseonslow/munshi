@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-270-metzger-josephducrouxfrench-1996-14f2e852c419
+source_path: ../sources/jmbras-270-metzger-josephducrouxfrench-1996-14f2e852c419.md
 ---
+
 
 # Joseph Ducroix, a French agent of the Comintern in Singapore (1931–1932
 

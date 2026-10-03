@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-246-mcroberts-examinationfallmelaka-1984-b9bfa8f1a6e4
+source_path: ../sources/jmbras-246-mcroberts-examinationfallmelaka-1984-b9bfa8f1a6e4.md
 ---
+
 
 # An examination of the fall of Malacca in 1511
 

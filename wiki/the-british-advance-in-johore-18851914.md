@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-211-sinclair-britishadvancejohore-1967-43b9161be2d4
+source_path: ../sources/jmbras-211-sinclair-britishadvancejohore-1967-43b9161be2d4.md
 ---
+
 
 # The British advance in Johore, 1885–1914
 

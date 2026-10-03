@@ -21,7 +21,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-219-oconnor-goldfoilburialamulets-1971-543a8f81e06e
+source_path: ../sources/jmbras-219-oconnor-goldfoilburialamulets-1971-543a8f81e06e.md
 ---
+
 
 # Gold-foil burial amulets in Bali, Philippines and Borneo. S.J. O’Connor and T. Harrisson
 

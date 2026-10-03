@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-045-kloss-birdstiumanisland-1906-2a9a1ef61674
+source_path: ../sources/jsbras-045-kloss-birdstiumanisland-1906-2a9a1ef61674.md
 ---
+
 
 # Some birds of Tiuman Island
 

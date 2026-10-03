@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-105-mee-incidenthistorymalacca-1928-22007a63d9a4
+source_path: ../sources/jmalayanras-105-mee-incidenthistorymalacca-1928-22007a63d9a4.md
 ---
+
 
 # An incident in the history of Malacca under Portuguese rule
 

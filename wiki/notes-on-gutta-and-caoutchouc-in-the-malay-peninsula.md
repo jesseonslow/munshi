@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-001-murton-notesguttacaoutchouc-1878-dc27c2b2a0e9
+source_path: ../sources/jsbras-001-murton-notesguttacaoutchouc-1878-dc27c2b2a0e9.md
 ---
+
 
 # Notes on gutta and caoutchouc in the Malay Peninsula
 

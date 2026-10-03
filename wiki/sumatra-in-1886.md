@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-018-kehding-sumatra1886-1886-f82e0fe8280c
+source_path: ../sources/jsbras-018-kehding-sumatra1886-1886-f82e0fe8280c.md
 ---
+
 
 # Sumatra in 1886
 

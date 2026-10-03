@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-096-hamilton-malaylovecharms-1926-054435b7d434
+source_path: ../sources/jmalayanras-096-hamilton-malaylovecharms-1926-054435b7d434.md
 ---
+
 
 # Malay love charms. Recorded and .W. Hamilton
 

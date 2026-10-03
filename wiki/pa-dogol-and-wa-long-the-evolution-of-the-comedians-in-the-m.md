@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-039-corrigendamrc-1903-215535fca24b
+source_path: ../sources/jsbras-039-corrigendamrc-1903-215535fca24b.md
 ---
+
 
 # Pa’ Dogol and Wa’ Long: the evolution of the comedians in the Malay shadow play in Kelantan
 

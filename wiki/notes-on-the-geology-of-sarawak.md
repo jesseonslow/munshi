@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-100-scrivenor-notesgeologysarawak-1927-359588385eaa
+source_path: ../sources/jmalayanras-100-scrivenor-notesgeologysarawak-1927-359588385eaa.md
 ---
+
 
 # Notes on the geology of Sarawak
 

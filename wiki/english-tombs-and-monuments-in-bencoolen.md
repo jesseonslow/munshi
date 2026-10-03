@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-078-brooks-englishtombsmonuments-1918-c8e3c8d6c75f
+source_path: ../sources/jsbras-078-brooks-englishtombsmonuments-1918-c8e3c8d6c75f.md
 ---
+
 
 # English tombs and monuments in Bencoolen
 

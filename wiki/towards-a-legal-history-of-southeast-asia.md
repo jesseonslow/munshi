@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-233-hooker-towardslegalhistory-1978-cc204b079991
+source_path: ../sources/jmbras-233-hooker-towardslegalhistory-1978-cc204b079991.md
 ---
+
 
 # Towards a legal history of Southeast Asia
 

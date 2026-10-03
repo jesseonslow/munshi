@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-177-burridge-managerialinfluencesjohore-1957-4d08ffa1a907
+source_path: ../sources/jmalayanras-177-burridge-managerialinfluencesjohore-1957-4d08ffa1a907.md
 ---
+
 
 # Managerial influences in a Johore village
 

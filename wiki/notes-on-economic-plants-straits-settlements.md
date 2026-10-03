@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-018-m-noteseconomicplants-1886-ae859da348bf
+source_path: ../sources/jsbras-018-m-noteseconomicplants-1886-ae859da348bf/appendix.md
 ---
+
 
 # Notes on economic plants, Straits Settlements
 

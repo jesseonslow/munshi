@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-211-drabble-plantationrubberindustry-1967-35281519e461
+source_path: ../sources/jmbras-211-drabble-plantationrubberindustry-1967-35281519e461.md
 ---
+
 
 # The plantation rubber industry in Malaya up to 1922
 

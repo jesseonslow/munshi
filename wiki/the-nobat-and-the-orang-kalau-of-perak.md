@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-156-linehan-nobatorangkalau-1951-f9a1033aa1ed
+source_path: ../sources/jmalayanras-156-linehan-nobatorangkalau-1951-f9a1033aa1ed.md
 ---
+
 
 # The nobat and the Orang Kalau of Perak
 

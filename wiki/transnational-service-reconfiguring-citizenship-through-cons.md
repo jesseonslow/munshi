@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-316-kwek-transnationalservice-2019-79b794e41cd4
+source_path: ../sources/jmbras-316-kwek-transnationalservice-2019-79b794e41cd4/references.md
 ---
+
 
 # (Trans)national service: reconfiguring citizenship through conscription in Singapore
 

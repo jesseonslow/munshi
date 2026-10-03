@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-231-warren-balambanganrisesulu-1977-653d1cea60b8
+source_path: ../sources/jmbras-231-warren-balambanganrisesulu-1977-653d1cea60b8.md
 ---
+
 
 # Some ethnological notes
 

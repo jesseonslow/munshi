@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-126-keith-ulunnobokanmurutwords-1936-171fb3f59bfb
+source_path: ../sources/jmalayanras-126-keith-ulunnobokanmurutwords-1936-171fb3f59bfb.md
 ---
+
 
 # Some ulun-no-bokan (Murut) words from North Borneo
 

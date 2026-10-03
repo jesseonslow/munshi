@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-319-lias-atchsumatra-2020-1300ef490fc3
+source_path: ../sources/jmbras-319-lias-atchsumatra-2020-1300ef490fc3.md
 ---
+
 
 # Atché (Sumatra) [Aceh]. . Dyer; with a note P. Kratoska
 

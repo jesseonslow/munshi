@@ -25,7 +25,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-046-soon-indexinromanised-1906-7af7cb94ccef
+source_path: ../sources/jsbras-046-soon-indexinromanised-1906-7af7cb94ccef.md
 ---
+
 
 # An index in Romanised Hokkien and Cantonese, comp. Tan Kee Soon, and rev. A.W. Bailey and F.M. Baddeley, to “The Chinese names of streets and places in Singapore”, pub. H.W. Firmstone in Journal No. 42
 

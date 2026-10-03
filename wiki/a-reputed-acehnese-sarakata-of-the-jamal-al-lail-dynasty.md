@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-236-crecelius-reputedacehnesesarakata-1979-a7eaaaf344ba
+source_path: ../sources/jmbras-236-crecelius-reputedacehnesesarakata-1979-a7eaaaf344ba.md
 ---
+
 
 # A reputed Acehnese sarakata of the Jamal al-Lail dynasty
 

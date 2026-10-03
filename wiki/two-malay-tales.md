@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-096-savage-twomalaytales-1926-9fcc996611bc
+source_path: ../sources/jmalayanras-096-savage-twomalaytales-1926-9fcc996611bc.md
 ---
+
 
 # Two Malay tales
 

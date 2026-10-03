@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-068-overbeck-newnotesgame-1915-cc7c4474edb4
+source_path: ../sources/jsbras-068-overbeck-newnotesgame-1915-cc7c4474edb4.md
 ---
+
 
 # New notes on the game of “chongkak”
 

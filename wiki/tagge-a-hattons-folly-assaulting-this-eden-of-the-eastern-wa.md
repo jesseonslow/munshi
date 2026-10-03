@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-272-tagge-hattonsfollyassaulting-1997-d13b6a243cd1
+source_path: ../sources/jmbras-272-tagge-hattonsfollyassaulting-1997-d13b6a243cd1.md
 ---
+
 
 # Tagge, A. Hatton’s folly: assaulting “This Eden of the eastern wave” (Sir James Brooke describing Borneo, 1838
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-007-croix-accountminingdistricts-1881-8a6badfaa93e
+source_path: ../sources/jsbras-007-croix-accountminingdistricts-1881-8a6badfaa93e.md
 ---
+
 
 # Some account of the mining districts of lower Perak
 

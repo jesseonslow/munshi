@@ -24,7 +24,10 @@ amendments:
   page: '203'
 status: stub
 published: false
+source_doc: jmalayanras-143-cardon-oldchurchmalacca-1947-6c49605d9ddf
+source_path: ../sources/jmalayanras-143-cardon-oldchurchmalacca-1947-6c49605d9ddf.md
 ---
+
 
 # The old church on the Malacca hill
 

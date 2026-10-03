@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-119-duckworth-humanremainsrockshelters-1934-08ab3c0c9cb9
+source_path: ../sources/jmalayanras-119-duckworth-humanremainsrockshelters-1934-08ab3c0c9cb9.md
 ---
+
 
 # Human remains from rock-shelters and caves in Perak, Pahang and Perlis and from Selinsing
 

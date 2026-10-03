@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-010-proceedingsgeneralmeeting-1882-bb8800ecb136
+source_path: ../sources/jsbras-010-proceedingsgeneralmeeting-1882-bb8800ecb136.md
 ---
+
 
 # The prehistory of Malaya
 

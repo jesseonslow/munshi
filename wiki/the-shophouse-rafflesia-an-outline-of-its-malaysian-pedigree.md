@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-264-lim-shophouserafflesiaoutline-1993-6683dd776704
+source_path: ../sources/jmbras-264-lim-shophouserafflesiaoutline-1993-6683dd776704.md
 ---
+
 
 # The “Shophouse Rafflesia”: an outline of its Malaysian pedigree and its subsequent diffusion in Asia
 

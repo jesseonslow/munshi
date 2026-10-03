@@ -21,7 +21,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-209-harrisson-unpublishedrennellms-1966-9dda55003213
+source_path: ../sources/jmbras-209-harrisson-unpublishedrennellms-1966-9dda55003213.md
 ---
+
 
 # The unpublished Rennell Ms: a Borneo-Philippine journey, 1762–1763. J. Rennell. . Harrisson
 

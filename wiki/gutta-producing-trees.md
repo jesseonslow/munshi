@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-012-low-guttaproducingtrees-1883-861e589bf23c
+source_path: ../sources/jsbras-012-low-guttaproducingtrees-1883-861e589bf23c.md
 ---
+
 
 # Gutta-producing trees
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-002-maxwell-notestwoperak-1878-211b57e7d87e
+source_path: ../sources/jsbras-002-maxwell-notestwoperak-1878-211b57e7d87e.md
 ---
+
 
 # Notes on two Perak manuscripts
 

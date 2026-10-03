@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-305-gullick-recollectionstimemalaya-2013-1c7ba709c8cb
+source_path: ../sources/jmbras-305-gullick-recollectionstimemalaya-2013-1c7ba709c8cb.md
 ---
+
 
 # Recollections of my time in Malaya (1945–1948) Part 1
 

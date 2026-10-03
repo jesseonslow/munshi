@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-083-humphreys-naningrecital-1921-797a6f1d5c31
+source_path: ../sources/jsbras-083-humphreys-naningrecital-1921-797a6f1d5c31.md
 ---
+
 
 # Foreword (J.M. Gullick Festschrift
 

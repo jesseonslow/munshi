@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-236-mckinnon-notediscoveryspurmarked-1979-0ea4b108151f
+source_path: ../sources/jmbras-236-mckinnon-notediscoveryspurmarked-1979-0ea4b108151f.md
 ---
+
 
 # A note on the discovery of spur-marked yueh-type sherds at Bukit Seguntang Palembang
 

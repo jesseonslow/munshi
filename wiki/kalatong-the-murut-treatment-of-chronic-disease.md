@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-165-clarke-kalatongmuruttreatment-1954-1713a459535a
+source_path: ../sources/jmalayanras-165-clarke-kalatongmuruttreatment-1954-1713a459535a.md
 ---
+
 
 # Kalatong: the Murut treatment of chronic disease
 

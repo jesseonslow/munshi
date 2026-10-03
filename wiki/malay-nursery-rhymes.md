@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-077-winstedt-malaynurseryrhymes-1917-47534215541c
+source_path: ../sources/jsbras-077-winstedt-malaynurseryrhymes-1917-47534215541c.md
 ---
+
 
 # Malay nursery rhymes
 

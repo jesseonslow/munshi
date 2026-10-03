@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-161-pearson-ltjacksonsplan-1953-6596cdcc0c1d
+source_path: ../sources/jmalayanras-161-pearson-ltjacksonsplan-1953-6596cdcc0c1d.md
 ---
+
 
 # Lt. Jackson’s plan of Singapore
 

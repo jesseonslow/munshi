@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-257-suwannathatpian-kedahsuccessioncrisis-1989-0b477b1b9b36
+source_path: ../sources/jmbras-257-suwannathatpian-kedahsuccessioncrisis-1989-0b477b1b9b36/appendix.md
 ---
+
 
 # The Kedah succession crisis 1879–1882 {with comments by J.M. Gullick
 

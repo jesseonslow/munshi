@@ -22,7 +22,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-086-willbourn-generalaccountgeology-1922-72c6da7d7464
+source_path: ../sources/jsbras-086-willbourn-generalaccountgeology-1922-72c6da7d7464.md
 ---
+
 
 # A general account of the geology of the Malay Peninsula and the surrounding countries, including Burma, the Shan States, Yunnan, Indo-China, Siam, Sumatra, Java, Borneo and other islands of the Dutch East Indies
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-161-tweedie-objectstuigold-1953-4bacd6953c88
+source_path: ../sources/jmalayanras-161-tweedie-objectstuigold-1953-4bacd6953c88.md
 ---
+
 
 # A bibliography of Malaya, from July, 1891 to June, 1892
 

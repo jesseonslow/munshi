@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-205-lamb-notesbeadsjohor-1964-1f47e971efdd
+source_path: ../sources/jmbras-205-lamb-notesbeadsjohor-1964-1f47e971efdd.md
 ---
+
 
 # Notes on beads from Johor Lama and Kota Tinggi
 

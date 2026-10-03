@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-019-dew-exploringexpeditionselama-1887-18700eed2e4e
+source_path: ../sources/jsbras-019-dew-exploringexpeditionselama-1887-18700eed2e4e.md
 ---
+
 
 # Exploring expedition from Selama, Perak, over the mountains to Pong, Patani, in November
 

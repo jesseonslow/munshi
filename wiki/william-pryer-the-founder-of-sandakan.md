@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-165-tregonning-williampryerfounder-1954-4e1be3dbc997
+source_path: ../sources/jmalayanras-165-tregonning-williampryerfounder-1954-4e1be3dbc997.md
 ---
+
 
 # William Pryer, the founder of Sandakan
 

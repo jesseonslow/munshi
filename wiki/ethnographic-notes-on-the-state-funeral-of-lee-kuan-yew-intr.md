@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-310-kaplan-ethnographicnotesstate-2016-7187251ee726
+source_path: ../sources/jmbras-310-kaplan-ethnographicnotesstate-2016-7187251ee726.md
 ---
+
 
 # Ethnographic notes on the state funeral of Lee Kuan Yew: introduction
 

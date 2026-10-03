@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: wray-an-account-of-affairs-in-larut-leading-to-british-intervention-449a4a05c6c0
+source_path: ../sources/wray-an-account-of-affairs-in-larut-leading-to-british-intervention-449a4a05c6c0.md
 ---
+
 
 # Federated Malay States Museum, Kuala Lumpur, 21 September 1945, Office of Strategic Services, India Burma Theater. Facsimile reprint
 

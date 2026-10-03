@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-138-winstedt-valentijnscopysjarah-1940-d81c73cd2b53
+source_path: ../sources/jmalayanras-138-winstedt-valentijnscopysjarah-1940-d81c73cd2b53.md
 ---
+
 
 # Valentijn’s copy of the Sejarah Melayu
 

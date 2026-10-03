@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-169-gibsonhill-jrattmpurong-1955-cd82e145e5b7
+source_path: ../sources/jmalayanras-169-gibsonhill-jrattmpurong-1955-cd82e145e5b7.md
 ---
+
 
 # Jerat tempurong
 

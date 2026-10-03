@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-139-blagden-xviithcenturymalay-1941-8d637145f9d6
+source_path: ../sources/jmalayanras-139-blagden-xviithcenturymalay-1941-8d637145f9d6.md
 ---
+
 
 # A XVIIth century Malay cannon in London
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-165-gibsonhill-landingchristmasisland-1954-77b8f287fcd4
+source_path: ../sources/jmalayanras-165-gibsonhill-landingchristmasisland-1954-77b8f287fcd4.md
 ---
+
 
 # A landing on Christmas Island in 1864
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-046-ridley-begoniasborneo-1906-7cded5dea3c2
+source_path: ../sources/jsbras-046-ridley-begoniasborneo-1906-7cded5dea3c2.md
 ---
+
 
 # Begonias of Borneo
 

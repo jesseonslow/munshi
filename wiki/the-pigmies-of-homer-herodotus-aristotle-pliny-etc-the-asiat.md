@@ -23,7 +23,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-013-hervey-valentynsdescriptionmalacca-1884-386bb5995645
+source_path: ../sources/jsbras-013-hervey-valentynsdescriptionmalacca-1884-386bb5995645.md
 ---
+
 
 # The pigmies of Homer, Herodotus, Aristotle, Pliny etc.: the Asiatic pigmies, or Negritos; the Negrillos or African pigmies. A. de Quatrefages. . Errington De La Croix
 

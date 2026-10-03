@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-217-jackson-notestradeunionism-1970-3520e59437be
+source_path: ../sources/jmbras-217-jackson-notestradeunionism-1970-3520e59437be.md
 ---
+
 
 # Notes on trade unionism amongst government employees in the Federation of Malaya, 1948–1957
 

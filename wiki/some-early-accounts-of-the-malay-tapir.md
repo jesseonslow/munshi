@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-052-maxwell-somaearlyaccounts-1909-6c1d46501d6c
+source_path: ../sources/jsbras-052-maxwell-somaearlyaccounts-1909-6c1d46501d6c.md
 ---
+
 
 # Some early accounts of the Malay tapir
 

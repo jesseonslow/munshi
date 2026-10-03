@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-105-blagden-notesmalaywords-1928-8408a760a88a
+source_path: ../sources/jmalayanras-105-blagden-notesmalaywords-1928-8408a760a88a.md
 ---
+
 
 # Notes on some Malay words
 

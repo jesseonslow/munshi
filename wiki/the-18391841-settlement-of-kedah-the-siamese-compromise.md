@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-250-suwannathatpian-183941settlementskedah-1986-eb4a9e78526d
+source_path: ../sources/jmbras-250-suwannathatpian-183941settlementskedah-1986-eb4a9e78526d.md
 ---
+
 
 # The 1839–1841 settlement of Kedah: the Siamese compromise
 

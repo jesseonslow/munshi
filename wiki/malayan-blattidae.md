@@ -25,7 +25,10 @@ reprints:
   volume: 1
   year: 1923
   absorbed_slug: malayan-blattidae-part-ii
+source_doc: jsbras-069-hanitsch-malayanblattid-1915-d4c95b0dffa2
+source_path: ../sources/jsbras-069-hanitsch-malayanblattid-1915-d4c95b0dffa2/index.md
 ---
+
 
 
 # Malayan Blattidae

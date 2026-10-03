@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-301-ahmad-tunabdulrazak-2011-b8e15f979c77
+source_path: ../sources/jmbras-301-ahmad-tunabdulrazak-2011-b8e15f979c77/references.md
 ---
+
 
 # The Tun Abdul Razak Memorial and the promotion of a national memory in Malaysia
 

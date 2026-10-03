@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-215-winstedt-tumasikoldsingapore-1969-c1c0b1f344a3
+source_path: ../sources/jmbras-215-winstedt-tumasikoldsingapore-1969-c1c0b1f344a3.md
 ---
+
 
 # Tumasik or old Singapore {extracts from A History of Malaya, published in the Journal as Part I of Volume 13, 1935
 

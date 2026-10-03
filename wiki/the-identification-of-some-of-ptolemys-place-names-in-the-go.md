@@ -25,7 +25,10 @@ amendments:
   page: '200'
 status: stub
 published: false
+source_doc: jmalayanras-156-linehan-identificationsptolemysplacenames-1951-270eb805e25e
+source_path: ../sources/jmalayanras-156-linehan-identificationsptolemysplacenames-1951-270eb805e25e.md
 ---
+
 
 # The identification of some of Ptolemy’s place-names in the Golden Chersonese
 

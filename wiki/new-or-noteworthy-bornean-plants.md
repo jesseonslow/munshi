@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-086-merrill-newnoteworthybornean-1922-d0cb5dc8d2b4
+source_path: ../sources/jsbras-086-merrill-newnoteworthybornean-1922-d0cb5dc8d2b4.md
 ---
+
 
 # New or noteworthy Bornean plants
 

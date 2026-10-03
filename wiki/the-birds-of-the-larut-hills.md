@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-034-butler-birdslaruthills-1900-ba366deebdd8
+source_path: ../sources/jsbras-034-butler-birdslaruthills-1900-ba366deebdd8.md
 ---
+
 
 # The birds of the Larut Hills
 

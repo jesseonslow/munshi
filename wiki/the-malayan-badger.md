@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-085-moulton-malayanbadger-1922-64c73077362d
+source_path: ../sources/jsbras-085-moulton-malayanbadger-1922-64c73077362d.md
 ---
+
 
 # The Malayan badger
 

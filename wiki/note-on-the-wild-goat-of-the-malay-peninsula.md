@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-045-ridley-habitstupaia-1906-171324c75592
+source_path: ../sources/jsbras-045-ridley-habitstupaia-1906-171324c75592.md
 ---
+
 
 # Note on the wild goat of the Malay Peninsula
 

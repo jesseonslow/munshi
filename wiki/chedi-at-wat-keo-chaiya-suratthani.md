@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-053-hunter-plantsprincewales-1909-b9cfdf3dc7d7
+source_path: ../sources/jsbras-053-hunter-plantsprincewales-1909-b9cfdf3dc7d7/appendix.md
 ---
+
 
 # Chedi at Wat Keo, Chaiya, Suratthani
 

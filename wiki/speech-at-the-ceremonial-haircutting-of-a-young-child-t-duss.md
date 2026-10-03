@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-076-dussek-speechceremonialhaircutting-1917-1a6acafadba6
+source_path: ../sources/jsbras-076-dussek-speechceremonialhaircutting-1917-1a6acafadba6.md
 ---
+
 
 # Speech at the ceremonial haircutting of a young child. .T. Dussek
 

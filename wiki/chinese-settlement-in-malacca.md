@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-142-purcell-chinesesettlementmalacca-1947-c0c153b3f33c
+source_path: ../sources/jmalayanras-142-purcell-chinesesettlementmalacca-1947-c0c153b3f33c.md
 ---
+
 
 # Chinese settlement in Malacca
 

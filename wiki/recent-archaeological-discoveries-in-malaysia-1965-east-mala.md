@@ -31,7 +31,10 @@ reprints:
   volume: 41
   year: 1968
   absorbed_slug: recent-archaeological-discoveries-in-malaysia-1967-east-mala
+source_doc: jmbras-209-harrisson-eastmalaysiaand-1966-610ffffa6c76
+source_path: ../sources/jmbras-209-harrisson-eastmalaysiaand-1966-610ffffa6c76.md
 ---
+
 
 
 # Recent archaeological discoveries in Malaysia, 1965: East Malaysia and Brunei

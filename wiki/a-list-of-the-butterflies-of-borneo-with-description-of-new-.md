@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-041-shelford-listbutterfliesborneo-1904-a7ce193303c1
+source_path: ../sources/jsbras-041-shelford-listbutterfliesborneo-1904-a7ce193303c1.md
 ---
+
 
 # A list of the butterflies of Borneo with description of new species
 

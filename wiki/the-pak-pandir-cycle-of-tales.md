@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-229-sweeney-pakpandircycle-1976-8b6e34978c67
+source_path: ../sources/jmbras-229-sweeney-pakpandircycle-1976-8b6e34978c67.md
 ---
+
 
 # The Pak Pandir cycle of tales
 

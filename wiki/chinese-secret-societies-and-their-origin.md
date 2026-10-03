@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-001-pickering-chinesesecretsocieties-1878-030d43baa0f3
+source_path: ../sources/jsbras-001-pickering-chinesesecretsocieties-1878-030d43baa0f3.md
 ---
+
 
 # Chinese secret societies and their origin
 

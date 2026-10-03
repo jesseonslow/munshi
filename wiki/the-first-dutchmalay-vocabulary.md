@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-143-hamilton-firstdutchmalayvocabulary-1947-3dcb93bb20b5
+source_path: ../sources/jmalayanras-143-hamilton-firstdutchmalayvocabulary-1947-3dcb93bb20b5.md
 ---
+
 
 # The first Dutch–Malay vocabulary
 

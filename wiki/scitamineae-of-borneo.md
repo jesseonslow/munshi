@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-046-ridley-scitamineaeborneo-1906-ea77d0eb3bc2
+source_path: ../sources/jsbras-046-ridley-scitamineaeborneo-1906-ea77d0eb3bc2.md
 ---
+
 
 # Scitamineae of Borneo
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-098-overbeck-notewordselaseh-1926-2756fa540814
+source_path: ../sources/jmalayanras-098-overbeck-notewordselaseh-1926-2756fa540814.md
 ---
+
 
 # Note on the word “selaseh”
 

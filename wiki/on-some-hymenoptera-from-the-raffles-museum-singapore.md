@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-041-cameron-hymenopterarafflesmuseum-1904-f51173765f23
+source_path: ../sources/jsbras-041-cameron-hymenopterarafflesmuseum-1904-f51173765f23.md
 ---
+
 
 # On some Hymenoptera from the Raffles Museum, Singapore
 

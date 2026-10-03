@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-271-bruce-notesearlymosques-1996-63110e6ce167
+source_path: ../sources/jmbras-271-bruce-notesearlymosques-1996-63110e6ce167.md
 ---
+
 
 # Notes on early mosques of the Malaysian Peninsula
 

@@ -21,7 +21,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-086-rouffaer-earlyhistorysingapore-1922-9081639bc8c3
+source_path: ../sources/jsbras-086-rouffaer-earlyhistorysingapore-1922-9081639bc8c3.md
 ---
+
 
 # The early history of Singapore, Johore and Malacca: an outline of a paper by G.P. Rouffaer
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-138-winstedt-malaytitles-1940-6e9fb172f65e
+source_path: ../sources/jmalayanras-138-winstedt-malaytitles-1940-6e9fb172f65e.md
 ---
+
 
 # Malay titles
 

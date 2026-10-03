@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-077-winstedt-lexicographicalcoincidenceskhasi-1917-3c2996cf64bb
+source_path: ../sources/jsbras-077-winstedt-lexicographicalcoincidenceskhasi-1917-3c2996cf64bb.md
 ---
+
 
 # Lexicographical coincidences in Khasi and Malay
 

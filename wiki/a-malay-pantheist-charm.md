@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-086-winstedt-malaypantheistcharm-1922-a58c7bf3b7e3
+source_path: ../sources/jsbras-086-winstedt-malaypantheistcharm-1922-a58c7bf3b7e3.md
 ---
+
 
 # A Malay pantheist charm
 

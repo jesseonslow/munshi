@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-097-laidlaw-spoliamentawiensiadragonflies-1926-768727eec236
+source_path: ../sources/jmalayanras-097-laidlaw-spoliamentawiensiadragonflies-1926-768727eec236.md
 ---
+
 
 # Spolia mentawensia: dragonflies (Odonata
 

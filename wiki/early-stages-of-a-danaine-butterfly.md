@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-087-brooks-earlystagesdanaine-1923-35c844263f75
+source_path: ../sources/jmalayanras-087-brooks-earlystagesdanaine-1923-35c844263f75.md
 ---
+
 
 # Early stages of a Danaine butterfly
 

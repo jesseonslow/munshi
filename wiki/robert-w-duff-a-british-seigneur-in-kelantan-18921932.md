@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-070-errataburkill-1917-61071c77b11e
+source_path: ../sources/jsbras-070-errataburkill-1917-61071c77b11e.md
 ---
+
 
 # Robert W. Duff: a British seigneur in Kelantan, 1892–1932
 

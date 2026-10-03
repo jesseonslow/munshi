@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: roe-a-late-nineteenth-century-report-on-the-orang-asli-52099f2be824
+source_path: ../sources/roe-a-late-nineteenth-century-report-on-the-orang-asli-52099f2be824.md
 ---
+
 
 # Kuala Lumpur District: Report Forwarded to Government by Mr E.J. Roe, Acting Assistant District Officer. Facsimile reprint. With a note S.K. Manickam
 

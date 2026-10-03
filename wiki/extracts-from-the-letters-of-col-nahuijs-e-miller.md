@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-140-miller-extractsletterscol-1941-da7acf1ef290
+source_path: ../sources/jmalayanras-140-miller-extractsletterscol-1941-da7acf1ef290.md
 ---
+
 
 # Extracts from the letters of Col. Nahuijs. .E. Miller
 

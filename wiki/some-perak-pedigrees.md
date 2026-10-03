@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-079-winstedt-perakpedigrees-1918-120e8906a85e
+source_path: ../sources/jsbras-079-winstedt-perakpedigrees-1918-120e8906a85e.md
 ---
+
 
 # Some Perak pedigrees
 

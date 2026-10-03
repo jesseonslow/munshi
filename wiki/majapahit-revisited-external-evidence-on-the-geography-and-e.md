@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-228-colless-majapahitrevisitedexternal-1975-7bf8e1d06c3e
+source_path: ../sources/jmbras-228-colless-majapahitrevisitedexternal-1975-7bf8e1d06c3e.md
 ---
+
 
 # Majapahit revisited: external evidence on the geography and ethnology of East Java in the Majapahit period
 

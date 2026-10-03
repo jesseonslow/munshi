@@ -24,7 +24,10 @@ amendments:
   page: '157'
 status: stub
 published: false
+source_doc: jmalayanras-143-linehan-kings14thcentury-1947-d84173e503cc
+source_path: ../sources/jmalayanras-143-linehan-kings14thcentury-1947-d84173e503cc.md
 ---
+
 
 # The kings of 14th century Singapore
 

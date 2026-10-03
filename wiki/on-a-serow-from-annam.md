@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-288-koster-treatiesunbelieversimages-2005-2abb016e7475
+source_path: ../sources/jmbras-288-koster-treatiesunbelieversimages-2005-2abb016e7475/references.md
 ---
+
 
 # On a serow from Annam
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-216-hwa-riceindustrymalaya-1969-663ddbfc7362
+source_path: ../sources/jmbras-216-hwa-riceindustrymalaya-1969-663ddbfc7362.md
 ---
+
 
 # The rice industry of Malaya: a historical survey
 

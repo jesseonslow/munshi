@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-144-wurtzburg-notecaptainlight-1948-caf6682bbc65
+source_path: ../sources/jmalayanras-144-wurtzburg-notecaptainlight-1948-caf6682bbc65.md
 ---
+
 
 # A note on Captain Light
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-243-metcalf-supernatureetiologiesillness-1982-62a709fdc092
+source_path: ../sources/jmbras-243-metcalf-supernatureetiologiesillness-1982-62a709fdc092/references.md
 ---
+
 
 # Supernatural etiologies of illness in Central Northern Borneo
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-031-hare-gamechapjiki-1898-5aa3ab19b56b
+source_path: ../sources/jsbras-031-hare-gamechapjiki-1898-5aa3ab19b56b.md
 ---
+
 
 # The game of chap-ji-ki
 

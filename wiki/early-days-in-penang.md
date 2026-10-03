@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-087-garnier-earlydayspenang-1923-3a312213a2b7
+source_path: ../sources/jmalayanras-087-garnier-earlydayspenang-1923-3a312213a2b7.md
 ---
+
 
 # Early days in Penang
 

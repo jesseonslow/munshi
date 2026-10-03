@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-229-stockwell-sirhughcliffords-1976-cce57e6163df
+source_path: ../sources/jmbras-229-stockwell-sirhughcliffords-1976-cce57e6163df.md
 ---
+
 
 # Sir Hugh Clifford’s early career (1866–1903) as told from his private papers
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-126-keith-ulunnobokanmurutcharms-1936-11a3801c4973
+source_path: ../sources/jmalayanras-126-keith-ulunnobokanmurutcharms-1936-11a3801c4973.md
 ---
+
 
 # Some ulun-no-bokan (Murut) charms
 

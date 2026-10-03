@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-095-wurtzburg-earlyreferencesuitability-1925-309bf03dea76
+source_path: ../sources/jmalayanras-095-wurtzburg-earlyreferencesuitability-1925-309bf03dea76.md
 ---
+
 
 # Early references to the suitability of Singapore
 

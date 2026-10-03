@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-169-fielding-settlementpenangjames-1955-9b429289e896
+source_path: ../sources/jmalayanras-169-fielding-settlementpenangjames-1955-9b429289e896.md
 ---
+
 
 # The settlement of Penang. J. Scott. .J. Fielding
 

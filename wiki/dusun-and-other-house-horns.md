@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-154-marrison-malaypoemold-1951-0a4b0ea79a15
+source_path: ../sources/jmalayanras-154-marrison-malaypoemold-1951-0a4b0ea79a15.md
 ---
+
 
 # Dusun and other “house horns”
 

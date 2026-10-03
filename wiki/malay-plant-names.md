@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-030-ridley-malayplantnames-1897-feb0ddf21579
+source_path: ../sources/jsbras-030-ridley-malayplantnames-1897-feb0ddf21579.md
 ---
+
 
 # Malay plant names
 

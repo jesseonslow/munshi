@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-072-macfadyen-notenamekuala-1916-596281281fa1
+source_path: ../sources/jsbras-072-macfadyen-notenamekuala-1916-596281281fa1.md
 ---
+
 
 # Note on the name Kuala Lumpur
 

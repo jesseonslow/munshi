@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-222-wilson-abortiveplananglo-1972-4ab2c95cf15a
+source_path: ../sources/jmbras-222-wilson-abortiveplananglo-1972-4ab2c95cf15a.md
 ---
+
 
 # An abortive plan for an Anglo-Chinese College in Singapore
 

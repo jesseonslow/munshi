@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-310-keyser-floodtriangvalley-2016-47b3aaa96472
+source_path: ../sources/jmbras-310-keyser-floodtriangvalley-2016-47b3aaa96472.md
 ---
+
 
 # A flood in the Triang valley in December 1896
 

@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-096-maxwell-cameronshighlands-1926-af998030bae5
+source_path: ../sources/jmalayanras-096-maxwell-cameronshighlands-1926-af998030bae5.md
 ---
+
 
 # Cameron’s Highlands
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-057-maxwell-accountdesiqueiras-1911-ec7d8ad945dc
+source_path: ../sources/jsbras-057-maxwell-accountdesiqueiras-1911-ec7d8ad945dc.md
 ---
+
 
 # An account of De Siqueira’s voyage to Malacca
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-213-alatas-gradingoccupationalprestige-1968-436e6a891196
+source_path: ../sources/jmbras-213-alatas-gradingoccupationalprestige-1968-436e6a891196/references.md
 ---
+
 
 # The grading of occupational prestige amongst the Malays in Malaysia
 

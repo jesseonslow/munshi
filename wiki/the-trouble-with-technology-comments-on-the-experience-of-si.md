@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-278-inkster-troubletechnologycomments-2000-0e80794e8f1e
+source_path: ../sources/jmbras-278-inkster-troubletechnologycomments-2000-0e80794e8f1e/references.md
 ---
+
 
 # The trouble with technology: comments on the experience of Singapore under entrepot colonialism
 

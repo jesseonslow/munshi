@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-052-maxwell-groeneveldtsnotesmalay-1909-033dcfd92924
+source_path: ../sources/jsbras-052-maxwell-groeneveldtsnotesmalay-1909-033dcfd92924.md
 ---
+
 
 # Groeneveldt’s notes on the Malay archipelago and Malacca. W.G. Maxwell
 

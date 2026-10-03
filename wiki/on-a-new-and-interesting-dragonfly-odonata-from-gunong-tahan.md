@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-087-laidlaw-newinterestingdragonfly-1923-4974036ef5bd
+source_path: ../sources/jmalayanras-087-laidlaw-newinterestingdragonfly-1923-4974036ef5bd.md
 ---
+
 
 # On a new and interesting dragonfly (Odonata) from Gunong Tahan
 

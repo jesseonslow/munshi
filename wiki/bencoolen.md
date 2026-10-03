@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-131-wilkinson-bencoolen-1938-dd3bf57cbedb
+source_path: ../sources/jmalayanras-131-wilkinson-bencoolen-1938-dd3bf57cbedb.md
 ---
+
 
 # Bencoolen
 

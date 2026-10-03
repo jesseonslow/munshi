@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-231-rookmaaker-rhinocerosborneo19th-1977-bcf77ad54d56
+source_path: ../sources/jmbras-231-rookmaaker-rhinocerosborneo19th-1977-bcf77ad54d56/bibliography.md
 ---
+
 
 # The rhinoceros of Borneo: a 19th century puzzle
 

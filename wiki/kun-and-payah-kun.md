@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-046-maxwell-kunpayahkun-1906-640e145ba6f5
+source_path: ../sources/jsbras-046-maxwell-kunpayahkun-1906-640e145ba6f5.md
 ---
+
 
 # Kun and payah kun
 

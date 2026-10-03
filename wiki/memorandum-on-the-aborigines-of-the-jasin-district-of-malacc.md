@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-077-blagden-memorandumaboriginesjasin-1917-86b725e22535
+source_path: ../sources/jsbras-077-blagden-memorandumaboriginesjasin-1917-86b725e22535.md
 ---
+
 
 # Memorandum on the aborigines of the Jasin district of Malacca, dated 1892
 

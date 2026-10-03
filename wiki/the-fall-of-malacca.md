@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-122-wilkinson-fallmalacca-1935-679d11240eff
+source_path: ../sources/jmalayanras-122-wilkinson-fallmalacca-1935-679d11240eff.md
 ---
+
 
 # The fall of Malacca
 

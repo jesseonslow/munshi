@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-122-wilkinson-oldsingapore-1935-89a4f0e870b6
+source_path: ../sources/jmalayanras-122-wilkinson-oldsingapore-1935-89a4f0e870b6.md
 ---
+
 
 # Old Singapore
 

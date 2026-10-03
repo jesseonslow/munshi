@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-213-allen-ancienregimetrengganu-1968-e9b5aac4cce6
+source_path: ../sources/jmbras-213-allen-ancienregimetrengganu-1968-e9b5aac4cce6/references.md
 ---
+
 
 # The ancien regime in Trengganu, 1909–1919
 

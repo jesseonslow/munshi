@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-014-perham-seadyakreligion-1884-814eff664ca6
+source_path: ../sources/jsbras-014-perham-seadyakreligion-1884-814eff664ca6.md
 ---
+
 
 # Sea Dyak religion
 

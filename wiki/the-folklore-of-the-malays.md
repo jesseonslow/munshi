@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-007-maxwell-folkloremalays-1881-3e08cd602f33
+source_path: ../sources/jsbras-007-maxwell-folkloremalays-1881-3e08cd602f33.md
 ---
+
 
 # The folklore of the Malays
 

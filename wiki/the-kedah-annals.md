@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-132-winstedt-kedahannals-1938-8732cf3c42d8
+source_path: ../sources/jmalayanras-132-winstedt-kedahannals-1938-8732cf3c42d8.md
 ---
+
 
 # The Kedah Annals
 

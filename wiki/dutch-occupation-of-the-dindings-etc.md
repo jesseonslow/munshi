@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-011-maxwell-dutchoccupationdindings-1883-bbf957ddc74c
+source_path: ../sources/jsbras-011-maxwell-dutchoccupationdindings-1883-bbf957ddc74c.md
 ---
+
 
 # Dutch occupation of the Dindings, etc
 

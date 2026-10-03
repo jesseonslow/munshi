@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-092-gammans-statelukutwith-1924-3d5d547538be
+source_path: ../sources/jmalayanras-092-gammans-statelukutwith-1924-3d5d547538be.md
 ---
+
 
 # The State of Lukut
 

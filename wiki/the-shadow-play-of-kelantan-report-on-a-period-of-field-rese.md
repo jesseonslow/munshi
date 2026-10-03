@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-218-sweeney-shadowplaykelantanreport-1970-4a5a81595d5c
+source_path: ../sources/jmbras-218-sweeney-shadowplaykelantanreport-1970-4a5a81595d5c.md
 ---
+
 
 # The shadow play of Kelantan: report on a period of field research. MB 43(2): 53– 80 D 1970 — Corrections
 

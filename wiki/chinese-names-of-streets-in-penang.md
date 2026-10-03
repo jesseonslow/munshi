@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-033-yuk-chinesenamesstreets-1900-957cc1bc687b
+source_path: ../sources/jsbras-033-yuk-chinesenamesstreets-1900-957cc1bc687b/index.md
 ---
+
 
 # Chinese names of streets in Penang
 

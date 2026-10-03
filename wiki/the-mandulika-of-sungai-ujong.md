@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-261-gullick-williammaxwellstudy-1991-0581dff4de5e
+source_path: ../sources/jmbras-261-gullick-williammaxwellstudy-1991-0581dff4de5e/appendix.md
 ---
+
 
 # The Mandulika of Sungai Ujong
 

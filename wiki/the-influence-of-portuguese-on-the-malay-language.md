@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-197-teixeira-influenceportuguesemalay-1962-14cfe86851a6
+source_path: ../sources/jmalayanras-197-teixeira-influenceportuguesemalay-1962-14cfe86851a6.md
 ---
+
 
 # The influence of Portuguese on the Malay language
 

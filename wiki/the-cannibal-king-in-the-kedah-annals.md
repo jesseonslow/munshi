@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-079-blagden-cannibalkingkedah-1918-315109e42ab4
+source_path: ../sources/jsbras-079-blagden-cannibalkingkedah-1918-315109e42ab4.md
 ---
+
 
 # The cannibal king in the “Kedah Annals”
 

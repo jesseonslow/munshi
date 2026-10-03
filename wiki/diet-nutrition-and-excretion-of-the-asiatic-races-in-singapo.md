@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-076-campbell-dietnutritionexcretion-1917-187a17387a85
+source_path: ../sources/jsbras-076-campbell-dietnutritionexcretion-1917-187a17387a85/references.md
 ---
+
 
 # Diet, nutrition and excretion of the Asiatic races in Singapore
 

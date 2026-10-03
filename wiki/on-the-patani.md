@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-011-cameron-patani-1883-d68132737023
+source_path: ../sources/jsbras-011-cameron-patani-1883-d68132737023.md
 ---
+
 
 # On the Patani
 

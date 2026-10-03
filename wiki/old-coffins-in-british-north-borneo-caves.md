@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-117-orolfo-oldcoffinsbritish-1933-c58e8918b53a
+source_path: ../sources/jmalayanras-117-orolfo-oldcoffinsbritish-1933-c58e8918b53a.md
 ---
+
 
 # Old coffins in British North Borneo caves
 

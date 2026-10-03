@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-211-gill-styledemonicimage-1967-0d3e861ce79f
+source_path: ../sources/jmbras-211-gill-styledemonicimage-1967-0d3e861ce79f.md
 ---
+
 
 # Style and the demonic image in Dayak masks
 

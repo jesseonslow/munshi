@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-161-gullick-styletranslationmalay-1953-f528228482c3
+source_path: ../sources/jmalayanras-161-gullick-styletranslationmalay-1953-f528228482c3.md
 ---
+
 
 # Style and translation in the Malay press
 

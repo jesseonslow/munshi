@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-026-lake-camphortreecamphor-1894-2a53af577439
+source_path: ../sources/jsbras-026-lake-camphortreecamphor-1894-2a53af577439.md
 ---
+
 
 # The camphor tree and the camphor language of Johore
 

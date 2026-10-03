@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-177-thio-extensionbritishcontrol-1957-95da7fc1b43b
+source_path: ../sources/jmalayanras-177-thio-extensionbritishcontrol-1957-95da7fc1b43b.md
 ---
+
 
 # The extension of British control to Pahang
 

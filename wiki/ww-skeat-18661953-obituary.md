@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-161-laidlaw-obituaryww-1953-12126bcf3616
+source_path: ../sources/jmalayanras-161-laidlaw-obituaryww-1953-12126bcf3616.md
 ---
+
 
 # W.W. Skeat, 1866–1953. Obituary
 

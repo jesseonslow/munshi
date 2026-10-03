@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-010-errataideasprobable-1882-0374277fd6cf
+source_path: ../sources/jsbras-010-errataideasprobable-1882-0374277fd6cf.md
 ---
+
 
 # A popular account of the mammals of Borneo
 

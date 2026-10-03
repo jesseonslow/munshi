@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-042-firmstone-chinesenamesstreets-1905-7963f4a1a54a
+source_path: ../sources/jsbras-042-firmstone-chinesenamesstreets-1905-7963f4a1a54a.md
 ---
+
 
 # Chinese names of streets and places in Singapore and the Malay Peninsula
 

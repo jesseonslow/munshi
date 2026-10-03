@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-153-wurtzburg-baptistmissionpress-1950-1134ba44626d
+source_path: ../sources/jmalayanras-153-wurtzburg-baptistmissionpress-1950-1134ba44626d/references.md
 ---
+
 
 # The Baptist mission press at Bencoolen
 

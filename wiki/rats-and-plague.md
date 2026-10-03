@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-057-kloss-ratsplague-1911-6e45f26e5a25
+source_path: ../sources/jsbras-057-kloss-ratsplague-1911-6e45f26e5a25.md
 ---
+
 
 # Rats and plague
 

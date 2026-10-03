@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-088-laidlaw-noteinvocationakuan-1923-4b6291d40b91
+source_path: ../sources/jmalayanras-088-laidlaw-noteinvocationakuan-1923-4b6291d40b91.md
 ---
+
 
 # Notes on the invocation of Akuan
 

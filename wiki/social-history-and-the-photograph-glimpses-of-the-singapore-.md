@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-248-warren-socialhistoryphotograph-1985-3619d2088aff
+source_path: ../sources/jmbras-248-warren-socialhistoryphotograph-1985-3619d2088aff.md
 ---
+
 
 # Social history and the photograph: glimpses of the Singapore rickshaw coolie in the early nineteenth century
 

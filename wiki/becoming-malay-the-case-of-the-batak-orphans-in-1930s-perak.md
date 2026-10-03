@@ -18,8 +18,23 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
-keywords: ["Batak", "children", "Christians", "conversion", "custody", "immigration", "Muslim", "orphans", "Perak", "religion", "rubber", "rubber tappers"]
+keywords:
+- Batak
+- children
+- Christians
+- conversion
+- custody
+- immigration
+- Muslim
+- orphans
+- Perak
+- religion
+- rubber
+- rubber tappers
+source_doc: lees-becoming-malays-46626348799e
+source_path: ../sources/lees-becoming-malays-46626348799e/references.md
 ---
+
 
 # Becoming Malay: The Case of the Batak Orphans in 1930s Perak
 

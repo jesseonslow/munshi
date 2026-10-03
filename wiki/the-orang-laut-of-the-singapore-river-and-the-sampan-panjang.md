@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-158-gibsonhill-oranglautsingapore-1952-f941b6259072
+source_path: ../sources/jmalayanras-158-gibsonhill-oranglautsingapore-1952-f941b6259072/references.md
 ---
+
 
 # The Orang Laut of the Singapore River and the sampan panjang
 

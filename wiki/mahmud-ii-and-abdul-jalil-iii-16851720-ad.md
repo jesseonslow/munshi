@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-111-wilkinson-mahmudiiabdul-1931-ea09da9cad82
+source_path: ../sources/jmalayanras-111-wilkinson-mahmudiiabdul-1931-ea09da9cad82.md
 ---
+
 
 # Mahmud II and Abdul Jalil III, 1685–1720 A.D
 

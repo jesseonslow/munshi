@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-189-williams-tambunandusunorigin-1960-b7a221776b2c
+source_path: ../sources/jmalayanras-189-williams-tambunandusunorigin-1960-b7a221776b2c.md
 ---
+
 
 # A Tambunan Dusun origin myth
 

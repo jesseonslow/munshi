@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-315-dean-johore-2018-f6543275a9b6
+source_path: ../sources/jmbras-315-dean-johore-2018-f6543275a9b6.md
 ---
+
 
 # An 1874 account of Johore
 

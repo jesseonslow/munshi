@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-212-thio-aspectsfederationmalay-1967-fa1c5a45aac9
+source_path: ../sources/jmbras-212-thio-aspectsfederationmalay-1967-fa1c5a45aac9.md
 ---
+
 
 # Some aspects of the Federation of the Malay States, 1896–1910
 

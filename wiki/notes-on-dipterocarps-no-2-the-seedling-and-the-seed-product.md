@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-076-burkill-notesdipterocarpsno-1917-2337705c6c38
+source_path: ../sources/jsbras-076-burkill-notesdipterocarpsno-1917-2337705c6c38.md
 ---
+
 
 # Notes on Dipterocarps. {No. 2} The seedling and the seed-production in some species of Shorea
 

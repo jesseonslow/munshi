@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-154-evans-ancientjadecarving-1951-49c8086ca298
+source_path: ../sources/jmalayanras-154-evans-ancientjadecarving-1951-49c8086ca298.md
 ---
+
 
 # An ancient jade carving from North Borneo
 

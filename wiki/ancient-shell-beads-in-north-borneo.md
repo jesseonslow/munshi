@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-154-evans-ancientshellbeads-1951-7d4fdde78e55
+source_path: ../sources/jmalayanras-154-evans-ancientshellbeads-1951-7d4fdde78e55.md
 ---
+
 
 # Ancient shell beads in North Borneo
 

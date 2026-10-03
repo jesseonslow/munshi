@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-037-waterstradt-kelantantripgunong-1902-b1e9725f3873
+source_path: ../sources/jsbras-037-waterstradt-kelantantripgunong-1902-b1e9725f3873.md
 ---
+
 
 # Kelantan and my trip to Gunong Tahan
 

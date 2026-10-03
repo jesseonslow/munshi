@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-158-gibsonhill-chineselabourershats-1952-52173ec88b9d
+source_path: ../sources/jmalayanras-158-gibsonhill-chineselabourershats-1952-52173ec88b9d/references.md
 ---
+
 
 # Chinese labourers’ hats used in Malaya
 

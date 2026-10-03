@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: smith-tanjungpura-528e94d2a84e
+source_path: ../sources/smith-tanjungpura-528e94d2a84e/references.md
 ---
+
 
 # Malays in the Indochinese Peninsula: Adventurers, Warlords and Ministers
 

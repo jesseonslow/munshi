@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-249-barlow-malayannaturesocietystar-1985-708940e263ad
+source_path: ../sources/jmbras-249-barlow-malayannaturesocietystar-1985-708940e263ad/references.md
 ---
+
 
 # The Malayan Nature Society/Star Endau-Rompin Expedition
 

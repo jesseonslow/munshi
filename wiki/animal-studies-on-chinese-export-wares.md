@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-169-gibsonhill-animalstudieschinese-1955-b9f8cf7ef303
+source_path: ../sources/jmalayanras-169-gibsonhill-animalstudieschinese-1955-b9f8cf7ef303.md
 ---
+
 
 # Animal studies on Chinese export wares
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-207-harrisson-bronzeturtlescentral-1965-b758c8ac703f
+source_path: ../sources/jmbras-207-harrisson-bronzeturtlescentral-1965-b758c8ac703f.md
 ---
+
 
 # Bronze turtles in Central Borneo
 

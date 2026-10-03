@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-173-topley-chinesereligionreligious-1956-cda78345ea02
+source_path: ../sources/jmalayanras-173-topley-chinesereligionreligious-1956-cda78345ea02.md
 ---
+
 
 # Chinese religion and religious institutions in Singapore
 

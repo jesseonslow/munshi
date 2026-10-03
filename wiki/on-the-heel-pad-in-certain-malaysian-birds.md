@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-087-chasen-heelpadcertainmalaysian-1923-ee75c607520a
+source_path: ../sources/jmalayanras-087-chasen-heelpadcertainmalaysian-1923-ee75c607520a.md
 ---
+
 
 # On the heel-pad in certain Malaysian birds
 

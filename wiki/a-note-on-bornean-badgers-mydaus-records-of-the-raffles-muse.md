@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-100-kloss-noteborneanbadgers-1927-a96d49c7df23
+source_path: ../sources/jmalayanras-100-kloss-noteborneanbadgers-1927-a96d49c7df23.md
 ---
+
 
 # A note on Bornean badgers (Mydaus). Records of the Raffles Museum, No. 26
 

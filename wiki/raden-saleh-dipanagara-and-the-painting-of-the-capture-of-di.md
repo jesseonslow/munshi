@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-055-maxwell-hikayatsrirama-1910-05498bf80ecc
+source_path: ../sources/jsbras-055-maxwell-hikayatsrirama-1910-05498bf80ecc.md
 ---
+
 
 # Raden Saleh, Dipanagara and the painting of the capture of Dipanagara at Magelang (28 March 1830
 

@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-093-blagden-unpublishedvariantversion-1925-f7408579facf
+source_path: ../sources/jmalayanras-093-blagden-unpublishedvariantversion-1925-f7408579facf.md
 ---
+
 
 # An unpublished variant version of the “Malay Annals”
 

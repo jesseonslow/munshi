@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-086-ahmad-gravestonesultanmansur-1922-d8634d92fa5b
+source_path: ../sources/jsbras-086-ahmad-gravestonesultanmansur-1922-d8634d92fa5b.md
 ---
+
 
 # The grave-stone of Sultan Shah of Malacca
 

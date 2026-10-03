@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: hubback-salt-licks-b54b67b0a54e
+source_path: ../sources/hubback-salt-licks-b54b67b0a54e.md
 ---
+
 
 # Salt Licks: Their Vital Importance to the Conservation of Wildlife in Malaya. Facsimile reprint
 

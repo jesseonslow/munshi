@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-046-birch-electioninstallationtungku-1906-58fad89b5fbd
+source_path: ../sources/jsbras-046-birch-electioninstallationtungku-1906-58fad89b5fbd.md
 ---
+
 
 # The election and installation of Tungku Muhammad, C.M.G. bin Tungku Antah, as the Yang Di Pertuan Besar, Negri Sembilan
 

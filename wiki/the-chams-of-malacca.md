@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-154-marrison-chamsmalacca-1951-30afcad1b693
+source_path: ../sources/jmalayanras-154-marrison-chamsmalacca-1951-30afcad1b693.md
 ---
+
 
 # The Chams of Malacca
 

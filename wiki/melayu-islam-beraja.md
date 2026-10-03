@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-305-umar-melayuislamberaja-2013-bee9850728b0
+source_path: ../sources/jmbras-305-umar-melayuislamberaja-2013-bee9850728b0.md
 ---
+
 
 # Melayu Islam Beraja
 

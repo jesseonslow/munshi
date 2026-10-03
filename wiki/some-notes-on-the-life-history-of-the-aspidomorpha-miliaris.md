@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-053-bishop-noteslifehistory-1909-90dd7de7aa41
+source_path: ../sources/jsbras-053-bishop-noteslifehistory-1909-90dd7de7aa41.md
 ---
+
 
 # Some notes on the life history of the Aspidomorpha miliaris
 

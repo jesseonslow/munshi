@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-044-ridley-aroidsborneo-1905-96724758b6ed
+source_path: ../sources/jsbras-044-ridley-aroidsborneo-1905-96724758b6ed.md
 ---
+
 
 # The aroids of Borneo
 

@@ -24,7 +24,10 @@ amendments:
   page: '264'
 status: stub
 published: false
+source_doc: jsbras-045-kloss-malayanmusicalinstruments-1906-3d628903f628
+source_path: ../sources/jsbras-045-kloss-malayanmusicalinstruments-1906-3d628903f628.md
 ---
+
 
 # Malayan musical instruments
 

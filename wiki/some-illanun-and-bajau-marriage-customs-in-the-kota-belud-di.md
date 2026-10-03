@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-156-headly-illanunbajaumarriage-1951-c20bb8e9c9fe
+source_path: ../sources/jmalayanras-156-headly-illanunbajaumarriage-1951-c20bb8e9c9fe.md
 ---
+
 
 # Some Illanun and Bajau marriage customs in the Kota Belud district, North Borneo
 

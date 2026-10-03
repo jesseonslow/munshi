@@ -21,7 +21,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-214-appell-ethnographicprofilesdusunspeaking-1968-1a70522ce689
+source_path: ../sources/jmbras-214-appell-ethnographicprofilesdusunspeaking-1968-1a70522ce689/bibliography.md
 ---
+
 
 # Ethnographic profiles of the Dusun-speaking peoples of Sabah, Malaysia. With the collaboration of R. Harrison
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-039-blagden-buddhistvotivetablet-1903-2f56e4503ff3
+source_path: ../sources/jsbras-039-blagden-buddhistvotivetablet-1903-2f56e4503ff3.md
 ---
+
 
 # A Buddhist votive tablet
 

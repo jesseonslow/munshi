@@ -24,7 +24,10 @@ amendments:
   page: '200'
 status: stub
 published: false
+source_doc: jmalayanras-156-linehan-malayanperforatedstone-1951-d0bf70d2478a
+source_path: ../sources/jmalayanras-156-linehan-malayanperforatedstone-1951-d0bf70d2478a.md
 ---
+
 
 # Malayan perforated stone disks
 

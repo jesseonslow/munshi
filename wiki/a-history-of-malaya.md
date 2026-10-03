@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-013-hervey-valentynsdescriptionmalacca-1884-386bb5995645
+source_path: ../sources/jsbras-013-hervey-valentynsdescriptionmalacca-1884-386bb5995645.md
 ---
+
 
 # A history of Malaya
 

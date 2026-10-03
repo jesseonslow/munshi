@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-297-cheah-nyonyaneedleworkpenang-2009-4bb1e17073bd
+source_path: ../sources/jmbras-297-cheah-nyonyaneedleworkpenang-2009-4bb1e17073bd/references.md
 ---
+
 
 # Nyonya needlework from Penang
 

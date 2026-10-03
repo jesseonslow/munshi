@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-046-laidlaw-paseniksoninlaw-1906-88d28d55fc07
+source_path: ../sources/jsbras-046-laidlaw-paseniksoninlaw-1906-88d28d55fc07.md
 ---
+
 
 # Pa Senik and his son-in-law Awang
 

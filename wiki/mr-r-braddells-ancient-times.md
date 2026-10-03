@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-130-winstedt-mrbraddellsancient-1937-711a6cb52bfb
+source_path: ../sources/jmalayanras-130-winstedt-mrbraddellsancient-1937-711a6cb52bfb.md
 ---
+
 
 # Mr. R. Braddell’s ancient times
 

@@ -17,7 +17,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-052-hewitt-tabucustomswarpath-1909-39747d989f47
+source_path: ../sources/jsbras-052-hewitt-tabucustomswarpath-1909-39747d989f47.md
 ---
+
 
 # Tabu customs of the warpath amongst the Sea Dayaks of Sarawak
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-181-needham-notesbarammalay-1958-321fa4a86fbd
+source_path: ../sources/jmalayanras-181-needham-notesbarammalay-1958-321fa4a86fbd.md
 ---
+
 
 # Notes on Baram Malay
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-173-kern-originmalaysurau-1956-2d425ea5d6d4
+source_path: ../sources/jmalayanras-173-kern-originmalaysurau-1956-2d425ea5d6d4.md
 ---
+
 
 # The origin of the Malay surau
 

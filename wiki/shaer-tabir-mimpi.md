@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-107-overbeck-shaertabirmimpi-1929-b571128406ea
+source_path: ../sources/jmalayanras-107-overbeck-shaertabirmimpi-1929-b571128406ea.md
 ---
+
 
 # Shaer Ta’bir Mimpi
 

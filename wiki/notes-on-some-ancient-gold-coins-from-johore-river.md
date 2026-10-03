@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-117-gardner-notesancientgold-1933-32b10cf43cf2
+source_path: ../sources/jmalayanras-117-gardner-notesancientgold-1933-32b10cf43cf2.md
 ---
+
 
 # Notes on some ancient gold coins, from Johore River
 

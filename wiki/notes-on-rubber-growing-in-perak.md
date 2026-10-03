@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-307-wray-historicalarticle-2014-769a5d8dd5ed
+source_path: ../sources/jmbras-307-wray-historicalarticle-2014-769a5d8dd5ed.md
 ---
+
 
 # Notes on rubber growing in Perak
 

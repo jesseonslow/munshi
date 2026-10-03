@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-313-ing-chineselabourbroker-2017-0b30e337664a
+source_path: ../sources/jmbras-313-ing-chineselabourbroker-2017-0b30e337664a/references.md
 ---
+
 
 # A Chinese labour broker in Malaya: Lee Kwai Lim and his Kam Lun Tai company
 

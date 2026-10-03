@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-065-hanitsch-lettersnathanielwallich-1913-e62a0979ba44
+source_path: ../sources/jsbras-065-hanitsch-lettersnathanielwallich-1913-e62a0979ba44.md
 ---
+
 
 # Defining the Malay house
 

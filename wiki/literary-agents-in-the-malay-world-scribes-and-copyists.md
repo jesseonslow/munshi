@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-319-putten-literaryagentsmalay-2020-d63a88c7471f
+source_path: ../sources/jmbras-319-putten-literaryagentsmalay-2020-d63a88c7471f/references.md
 ---
+
 
 # Literary agents in the Malay World: Scribes and copyists
 

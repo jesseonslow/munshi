@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-229-medway-tomharrissonornithologist-1976-1dc89563e51e
+source_path: ../sources/jmbras-229-medway-tomharrissonornithologist-1976-1dc89563e51e.md
 ---
+
 
 # Tom Harrisson, ornithologist
 

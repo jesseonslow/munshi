@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-012-maxwell-shamanismperak-1883-80e12747a432
+source_path: ../sources/jsbras-012-maxwell-shamanismperak-1883-80e12747a432.md
 ---
+
 
 # Shamanism in Perak
 

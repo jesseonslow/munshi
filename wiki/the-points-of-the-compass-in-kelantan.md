@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-117-rentse-pointscompasskelantan-1933-b91b54b0dde7
+source_path: ../sources/jmalayanras-117-rentse-pointscompasskelantan-1933-b91b54b0dde7.md
 ---
+
 
 # The points of the compass in Kelantan
 

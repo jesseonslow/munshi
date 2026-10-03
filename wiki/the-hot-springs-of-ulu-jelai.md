@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-033-machado-hotspringsulu-1900-4573ad6d50c2
+source_path: ../sources/jsbras-033-machado-hotspringsulu-1900-4573ad6d50c2.md
 ---
+
 
 # The hot springs of Ulu Jelai
 

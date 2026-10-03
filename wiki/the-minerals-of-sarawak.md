@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-002-everett-mineralssarawak-1878-667c8f5f089b
+source_path: ../sources/jsbras-002-everett-mineralssarawak-1878-667c8f5f089b.md
 ---
+
 
 # The minerals of Sarawak
 

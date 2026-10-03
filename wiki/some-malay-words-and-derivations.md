@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-119-maxwell-malaywordsderivations-1934-25acedc145e8
+source_path: ../sources/jmalayanras-119-maxwell-malaywordsderivations-1934-25acedc145e8.md
 ---
+
 
 # Some Malay words and derivations
 

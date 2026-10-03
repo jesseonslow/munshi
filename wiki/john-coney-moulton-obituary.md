@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-097-johnconeymoulton-1926-661b47321e43
+source_path: ../sources/jmalayanras-097-johnconeymoulton-1926-661b47321e43.md
 ---
+
 
 # John Coney Moulton. Obituary
 

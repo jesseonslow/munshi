@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-154-loch-talepakadok-1951-274032df07bc
+source_path: ../sources/jmalayanras-154-loch-talepakadok-1951-274032df07bc.md
 ---
+
 
 # A tale of Pa’ Kadok
 

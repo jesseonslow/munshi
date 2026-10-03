@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-032-k-memoriamsirw-1899-850e71dc7f68
+source_path: ../sources/jsbras-032-k-memoriamsirw-1899-850e71dc7f68.md
 ---
+
 
 # The economics of the handloom industry of the east coast of Malaya
 

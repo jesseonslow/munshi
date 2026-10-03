@@ -18,8 +18,17 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
-keywords: ["Tanjungpura", "Borneo", "Kalimantan", "early mapping", "Sarawak", "oral history"]
+keywords:
+- Tanjungpura
+- Borneo
+- Kalimantan
+- early mapping
+- Sarawak
+- oral history
+source_doc: smith-tanjungpura-528e94d2a84e
+source_path: ../sources/smith-tanjungpura-528e94d2a84e/references.md
 ---
+
 
 # How Many Polities Called Tanjungpura Have There Been in Borneo?
 

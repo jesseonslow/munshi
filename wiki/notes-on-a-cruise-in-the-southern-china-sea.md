@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-041-kloss-notescruisesouthern-1904-1c4dbc4e10e6
+source_path: ../sources/jsbras-041-kloss-notescruisesouthern-1904-1c4dbc4e10e6.md
 ---
+
 
 # Notes on a cruise in the Southern China Sea
 

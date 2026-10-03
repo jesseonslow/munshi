@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-169-needham-notemurutkinship-1955-2c1c12a33b84
+source_path: ../sources/jmalayanras-169-needham-notemurutkinship-1955-2c1c12a33b84.md
 ---
+
 
 # A note on some Murut kinship terms
 

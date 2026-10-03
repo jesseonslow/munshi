@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-002-raffles-foundingsingapore-1878-b033e0aa4312
+source_path: ../sources/jsbras-002-raffles-foundingsingapore-1878-b033e0aa4312.md
 ---
+
 
 # The founding of Singapore
 

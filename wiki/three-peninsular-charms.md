@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-088-winstedt-threepeninsularcharms-1923-de8894bee705
+source_path: ../sources/jmalayanras-088-winstedt-threepeninsularcharms-1923-de8894bee705.md
 ---
+
 
 # Three peninsular charms
 

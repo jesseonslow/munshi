@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-134-wilkinson-bernamslabgraves-1939-47e876f53f7b
+source_path: ../sources/jmalayanras-134-wilkinson-bernamslabgraves-1939-47e876f53f7b.md
 ---
+
 
 # The Bernam slab-graves
 

@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-049-kloss-notescapturerare-1907-719007b983b8
+source_path: ../sources/jsbras-049-kloss-notescapturerare-1907-719007b983b8.md
 ---
+
 
 # Notes on the capture of a rare leathery turtle (Dermochelys coriacea) in Johore waters
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-143-woolley-notestwoknives-1947-52468ff9cd8c
+source_path: ../sources/jmalayanras-143-woolley-notestwoknives-1947-52468ff9cd8c.md
 ---
+
 
 # Notes on two knives in the Pitt-Rivers Museum
 

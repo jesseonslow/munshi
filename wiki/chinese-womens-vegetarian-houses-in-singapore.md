@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-165-topley-chinesewomensvegetarian-1954-d79eb0ee2cdd
+source_path: ../sources/jmalayanras-165-topley-chinesewomensvegetarian-1954-d79eb0ee2cdd.md
 ---
+
 
 # Chinese women’s vegetarian houses in Singapore
 

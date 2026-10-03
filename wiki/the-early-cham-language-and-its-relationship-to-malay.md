@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-228-marrison-earlychamlanguage-1975-e33d2b50fba1
+source_path: ../sources/jmbras-228-marrison-earlychamlanguage-1975-e33d2b50fba1.md
 ---
+
 
 # The early Cham language, and its relationship to Malay
 

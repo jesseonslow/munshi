@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-309-kheng-memoirrbalan-2015-88d38ac26c1d
+source_path: ../sources/jmbras-309-kheng-memoirrbalan-2015-88d38ac26c1d.md
 ---
+
 
 # Memoir of R. Balan, vice-president of the Malayan Communist Party
 

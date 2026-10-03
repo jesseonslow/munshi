@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-077-winstedt-adventmuhammadanismmalay-1917-e684a54b5d4f
+source_path: ../sources/jsbras-077-winstedt-adventmuhammadanismmalay-1917-e684a54b5d4f.md
 ---
+
 
 # A romanized version of the Hikayat Raja-Raja Pasai
 

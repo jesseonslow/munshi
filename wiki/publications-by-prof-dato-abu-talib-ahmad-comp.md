@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: roe-a-late-nineteenth-century-report-on-the-orang-asli-52099f2be824
+source_path: ../sources/roe-a-late-nineteenth-century-report-on-the-orang-asli-52099f2be824.md
 ---
+
 
 # Publications by Prof. Dato Abu Talib Ahmad (comp
 

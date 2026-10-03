@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: alatas-al-al-attas-and-hadrami-arab-migration-638bc3e9a7f0
+source_path: ../sources/alatas-al-al-attas-and-hadrami-arab-migration-638bc3e9a7f0/bibliography.md
 ---
+
 
 # Āl al-'Aṭṭās and Ḥaḍramī Arab Migration to the Malay World
 

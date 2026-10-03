@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-210-gamba-chineseassociationssingapore-1966-9aa6e60b7f94
+source_path: ../sources/jmbras-210-gamba-chineseassociationssingapore-1966-9aa6e60b7f94/appendix.md
 ---
+
 
 # Chinese associations in Singapore
 

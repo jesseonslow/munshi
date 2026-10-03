@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-003-burbidge-notesguttapercha-1879-a4dad38670e4
+source_path: ../sources/jsbras-003-burbidge-notesguttapercha-1879-a4dad38670e4.md
 ---
+
 
 # Notes on gutta-percha and caoutchouc-yielding trees. {With a post script H.J. Murton
 

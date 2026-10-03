@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-256-tolmie-holdingsmalayanmaterial-1989-905499b93d2c
+source_path: ../sources/jmbras-256-tolmie-holdingsmalayanmaterial-1989-905499b93d2c.md
 ---
+
 
 # The holdings of Malayan material in the Rhodes House Library Oxford
 

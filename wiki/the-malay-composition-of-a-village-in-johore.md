@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-175-burridge-malaycompositionvillage-1956-7740092e90e2
+source_path: ../sources/jmalayanras-175-burridge-malaycompositionvillage-1956-7740092e90e2.md
 ---
+
 
 # The Malay composition of a village in Johore
 

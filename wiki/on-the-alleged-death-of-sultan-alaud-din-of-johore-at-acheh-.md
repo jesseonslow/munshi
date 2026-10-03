@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-173-gibsonhill-allegeddeathsultan-1956-eb9a33cef68f
+source_path: ../sources/jmalayanras-173-gibsonhill-allegeddeathsultan-1956-eb9a33cef68f/appendix.md
 ---
+
 
 # On the alleged death of Sultan Al’a’ud-din of Johore at Acheh, in 1613
 

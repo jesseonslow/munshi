@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-035-luering-sakaidialectulu-1901-299ea8513860
+source_path: ../sources/jsbras-035-luering-sakaidialectulu-1901-299ea8513860.md
 ---
+
 
 # The Sakai dialect of the Ulu Kampar, Perak
 

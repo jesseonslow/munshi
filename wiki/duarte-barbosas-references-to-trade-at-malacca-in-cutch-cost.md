@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-139-burkill-duartebarbosasreferences-1941-ea13daf682a4
+source_path: ../sources/jmalayanras-139-burkill-duartebarbosasreferences-1941-ea13daf682a4.md
 ---
+
 
 # Duarte Barbosa’s references to trade at Malacca in Cutch, Costus and Aleppo Galls
 

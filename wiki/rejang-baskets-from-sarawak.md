@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-117-swayne-rejangbasketssarawak-1933-f3c517970c2d
+source_path: ../sources/jmalayanras-117-swayne-rejangbasketssarawak-1933-f3c517970c2d.md
 ---
+
 
 # Rejang baskets from Sarawak
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-231-harrisson-tomharrissonsunpublished-1977-7625ec1e8e37
+source_path: ../sources/jmbras-231-harrisson-tomharrissonsunpublished-1977-7625ec1e8e37.md
 ---
+
 
 # Tom Harrisson’s unpublished legacy on Niah
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-224-lee-grandjuryearly-1973-158ebfe1707a
+source_path: ../sources/jmbras-224-lee-grandjuryearly-1973-158ebfe1707a/appendix.md
 ---
+
 
 # The grand jury in early Singapore
 

@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-233-ming-introductionindonesianperanakan-1978-1d234a997e09
+source_path: ../sources/jmbras-233-ming-introductionindonesianperanakan-1978-1d234a997e09.md
 ---
+
 
 # An introduction to the Indonesian Peranakan literature in the library of the Universiti Kebangsaan Malaysia
 

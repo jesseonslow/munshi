@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-272-salinger-makingtraditionalclay-1997-794f81167f24
+source_path: ../sources/jmbras-272-salinger-makingtraditionalclay-1997-794f81167f24.md
 ---
+
 
 # The making of traditional clay roof tiles or genting
 

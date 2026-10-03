@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-245-kim-successionperaksultanate-1983-f76f2f31f4bf
+source_path: ../sources/jmbras-245-kim-successionperaksultanate-1983-f76f2f31f4bf.md
 ---
+
 
 # Succession to the Perak Sultanate
 

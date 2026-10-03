@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-092-paterson-earlymalayinscription-1924-9ac6421409b7
+source_path: ../sources/jmalayanras-092-paterson-earlymalayinscription-1924-9ac6421409b7.md
 ---
+
 
 # An early Malay inscription in Trengganu
 

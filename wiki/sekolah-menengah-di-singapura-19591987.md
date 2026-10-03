@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-278-abdullah-sekolahmenengahmelayu-2000-6fd9c39869f5
+source_path: ../sources/jmbras-278-abdullah-sekolahmenengahmelayu-2000-6fd9c39869f5.md
 ---
+
 
 # Sekolah menengah di Singapura 1959–1987
 

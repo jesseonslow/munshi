@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-282-soon-reconstructingbanzufourteenthcentury-2002-6fe0428ff1a0
+source_path: ../sources/jmbras-282-soon-reconstructingbanzufourteenthcentury-2002-6fe0428ff1a0/references.md
 ---
+
 
 # Reconstructing Banzu, a fourteenth century port settlement
 

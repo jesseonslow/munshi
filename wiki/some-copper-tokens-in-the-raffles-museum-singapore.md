@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-129-dakers-coppertokensraffles-1937-dc89a206b3d3
+source_path: ../sources/jmalayanras-129-dakers-coppertokensraffles-1937-dc89a206b3d3.md
 ---
+
 
 # Some copper tokens in the Raffles Museum, Singapore
 

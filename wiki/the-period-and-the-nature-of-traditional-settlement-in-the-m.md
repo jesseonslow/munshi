@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-218-mahmud-periodnaturetraditional-1970-09a46ae9975a
+source_path: ../sources/jmbras-218-mahmud-periodnaturetraditional-1970-09a46ae9975a.md
 ---
+
 
 # The period and the nature of “traditional” settlement in the Malay Peninsula
 

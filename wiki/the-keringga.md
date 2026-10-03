@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-023-d-eudromiasveredussingapore-1891-59130b44dcfe
+source_path: ../sources/jsbras-023-d-eudromiasveredussingapore-1891-59130b44dcfe.md
 ---
+
 
 # The keringga
 

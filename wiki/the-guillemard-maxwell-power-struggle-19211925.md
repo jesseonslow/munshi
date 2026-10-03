@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-239-wah-guillemardmaxwellpowerstruggle-1981-e7bc5fbd70a4
+source_path: ../sources/jmbras-239-wah-guillemardmaxwellpowerstruggle-1981-e7bc5fbd70a4.md
 ---
+
 
 # The Guillemard-Maxwell power struggle, 1921–1925
 

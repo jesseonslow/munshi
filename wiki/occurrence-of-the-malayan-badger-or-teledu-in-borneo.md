@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-083-moulton-occurrencemalayanbadger-1921-67adbf80c680
+source_path: ../sources/jsbras-083-moulton-occurrencemalayanbadger-1921-67adbf80c680.md
 ---
+
 
 # Occurrence of the Malayan badger or teledu in Borneo
 

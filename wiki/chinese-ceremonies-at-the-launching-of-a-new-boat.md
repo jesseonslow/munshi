@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-154-hong-chineseceremonieslaunching-1951-9ca42538c675
+source_path: ../sources/jmalayanras-154-hong-chineseceremonieslaunching-1951-9ca42538c675.md
 ---
+
 
 # Chinese ceremonies at the launching of a new boat
 

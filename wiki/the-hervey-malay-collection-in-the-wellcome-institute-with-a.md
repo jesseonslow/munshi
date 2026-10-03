@@ -23,7 +23,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-239-ellen-herveymalaycollection-1981-c8685b138c57
+source_path: ../sources/jmbras-239-ellen-herveymalaycollection-1981-c8685b138c57.md
 ---
+
 
 # The Hervey Malay Collection in the Wellcome Institute (with a short biography of D.F.A. Hervey). R.F. Ellen, M.B
 

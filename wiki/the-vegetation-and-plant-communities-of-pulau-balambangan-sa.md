@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-237-stone-vegetationplantcommunities-1980-f54bd602eb88
+source_path: ../sources/jmbras-237-stone-vegetationplantcommunities-1980-f54bd602eb88/references.md
 ---
+
 
 # The vegetation and plant communities of Pulau Balambangan, Sabah, East Malaysia
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-097-majid-malayspilgrimagemecca-1926-2ffdc3bda71f
+source_path: ../sources/jmalayanras-097-majid-malayspilgrimagemecca-1926-2ffdc3bda71f.md
 ---
+
 
 # A Malay’s pilgrimage to Mecca
 

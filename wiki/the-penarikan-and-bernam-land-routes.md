@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-134-noone-penarikanbernamlandroutes-1939-c8cb60a4cd27
+source_path: ../sources/jmalayanras-134-noone-penarikanbernamlandroutes-1939-c8cb60a4cd27.md
 ---
+
 
 # The Penarikan and Bernam land-routes
 

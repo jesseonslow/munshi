@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-285-drabble-technologytransfersingaporemalaya-2003-38db16011c24
+source_path: ../sources/jmbras-285-drabble-technologytransfersingaporemalaya-2003-38db16011c24/references.md
 ---
+
 
 # The ecologies of kuala and muara settlements in the pre-modern Malay cultural world
 

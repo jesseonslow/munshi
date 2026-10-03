@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-017-koek-portuguesehistorymalacca-1886-5f349ed9b162
+source_path: ../sources/jsbras-017-koek-portuguesehistorymalacca-1886-5f349ed9b162.md
 ---
+
 
 # Portuguese history of Malacca
 

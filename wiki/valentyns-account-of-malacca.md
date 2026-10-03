@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-022-hervey-valentynsaccountmalacca-1890-54173a1ddb56
+source_path: ../sources/jsbras-022-hervey-valentynsaccountmalacca-1890-54173a1ddb56.md
 ---
+
 
 # Valentyn’s account of Malacca
 

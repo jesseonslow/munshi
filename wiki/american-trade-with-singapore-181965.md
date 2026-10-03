@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-208-ahmat-americantradesingapore-1965-de3e71e653ad
+source_path: ../sources/jmbras-208-ahmat-americantradesingapore-1965-de3e71e653ad.md
 ---
+
 
 # American trade with Singapore, 1819–65
 

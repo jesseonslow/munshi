@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-222-crain-murutdepopulationsipitang-1972-53d4b18354b1
+source_path: ../sources/jmbras-222-crain-murutdepopulationsipitang-1972-53d4b18354b1/references.md
 ---
+
 
 # Murut depopulation and the Sapitang Lun Dayeh
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-046-laidlaw-storykherudin-1906-2098d9b6cc1a
+source_path: ../sources/jsbras-046-laidlaw-storykherudin-1906-2098d9b6cc1a.md
 ---
+
 
 # The story of Kherudin
 

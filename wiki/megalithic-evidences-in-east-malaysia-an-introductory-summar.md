@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-223-harrisson-megalithicevidenceseast-1973-9d366a445ee4
+source_path: ../sources/jmbras-223-harrisson-megalithicevidenceseast-1973-9d366a445ee4.md
 ---
+
 
 # Megalithic evidences in East Malaysia, an introductory summary
 

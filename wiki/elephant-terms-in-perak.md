@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-100-miller-elephanttermsperak-1927-c69ff4201a32
+source_path: ../sources/jmalayanras-100-miller-elephanttermsperak-1927-c69ff4201a32.md
 ---
+
 
 # Elephant terms in Perak
 

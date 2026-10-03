@@ -22,7 +22,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-167-winstedt-digestcustomarylaw-1954-95772c2f625f
+source_path: ../sources/jmalayanras-167-winstedt-digestcustomarylaw-1954-95772c2f625f.md
 ---
+
 
 # Papers on Malayan fishing methods. T.W. Burdon and M.L. Parry. Monographs on Malay subjects, No 2
 

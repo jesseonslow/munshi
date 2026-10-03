@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-073-gage-williamjacksletters-1916-c228d64e4de3
+source_path: ../sources/jsbras-073-gage-williamjacksletters-1916-c228d64e4de3.md
 ---
+
 
 # William Jack’s letters to Nathaniel Wallich, 1819–1821. .H. Burkill
 

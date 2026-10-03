@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-259-rees-talltalesterengganu-1990-208ab77a5c4c
+source_path: ../sources/jmbras-259-rees-talltalesterengganu-1990-208ab77a5c4c.md
 ---
+
 
 # Tall tales from Trengganu. I
 

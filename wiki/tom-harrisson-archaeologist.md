@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-229-tweedie-tomharrissonarchaeologist-1976-280865a03c49
+source_path: ../sources/jmbras-229-tweedie-tomharrissonarchaeologist-1976-280865a03c49.md
 ---
+
 
 # Tom Harrisson, archaeologist
 

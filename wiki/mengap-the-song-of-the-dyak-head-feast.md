@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-002-s-geographicalnotesrecentjourneys-1878-3004b1df2455
+source_path: ../sources/jsbras-002-s-geographicalnotesrecentjourneys-1878-3004b1df2455.md
 ---
+
 
 # Mengap, the song of the Dyak head feast
 

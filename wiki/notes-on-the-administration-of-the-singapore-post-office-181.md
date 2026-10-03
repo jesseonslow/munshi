@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-181-gibsonhill-notesadministrationsingapore-1958-35dd45a66848
+source_path: ../sources/jmalayanras-181-gibsonhill-notesadministrationsingapore-1958-35dd45a66848.md
 ---
+
 
 # Notes on the administration of the Singapore Post Office, 1819–67
 

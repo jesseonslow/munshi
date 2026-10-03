@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-016-perham-kliengswarraidskies-1885-c044dac8af90
+source_path: ../sources/jsbras-016-perham-kliengswarraidskies-1885-c044dac8af90.md
 ---
+
 
 # Klieng’s war-raid in the skies: a Dyak myth
 

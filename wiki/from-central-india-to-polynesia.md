@@ -24,7 +24,10 @@ amendments:
   page: '158'
 status: stub
 published: false
+source_doc: jsbras-053-blagden-centralindiapolynesia-1909-ca25a9f8a9f4
+source_path: ../sources/jsbras-053-blagden-centralindiapolynesia-1909-ca25a9f8a9f4.md
 ---
+
 
 # From central India to Polynesia
 

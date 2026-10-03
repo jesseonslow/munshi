@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-062-hanitsch-mosquitolarvfreshwater-1912-316ef7f5ae69
+source_path: ../sources/jsbras-062-hanitsch-mosquitolarvfreshwater-1912-316ef7f5ae69.md
 ---
+
 
 # Mosquito larvae and freshwater fish
 

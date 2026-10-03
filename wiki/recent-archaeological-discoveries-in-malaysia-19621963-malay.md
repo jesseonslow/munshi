@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-209-peacock-malaya-1966-3fd580218e92
+source_path: ../sources/jmbras-209-peacock-malaya-1966-3fd580218e92.md
 ---
+
 
 # Recent archaeological discoveries in Malaysia 1962–1963: Malaya
 

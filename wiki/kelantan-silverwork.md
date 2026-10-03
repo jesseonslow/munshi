@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-156-linehan-tinemblemsmountaintemples-1951-8fd2123f8d70
+source_path: ../sources/jmalayanras-156-linehan-tinemblemsmountaintemples-1951-8fd2123f8d70.md
 ---
+
 
 # Kelantan silverwork
 

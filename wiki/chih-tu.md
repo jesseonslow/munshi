@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-177-wheatley-chihtu-1957-88d8d3d84c82
+source_path: ../sources/jmalayanras-177-wheatley-chihtu-1957-88d8d3d84c82.md
 ---
+
 
 # Ch’ih-t’u
 

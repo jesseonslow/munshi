@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-237-milner-missionarysourcebiography-1980-4ed3a38178ab
+source_path: ../sources/jmbras-237-milner-missionarysourcebiography-1980-4ed3a38178ab.md
 ---
+
 
 # A missionary source for a biography of Munshi Abdullah
 

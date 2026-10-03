@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-255-wylie-searchcauseberiberi-1988-4864c19892a5
+source_path: ../sources/jmbras-255-wylie-searchcauseberiberi-1988-4864c19892a5.md
 ---
+
 
 # The search for the cause of beriberi in the Malay Peninsula: the contribution of Dr. W.L. Braddon
 

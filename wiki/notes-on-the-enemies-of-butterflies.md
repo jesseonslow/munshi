@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-086-collenette-notesenemiesbutterflies-1922-2761b05fe3f3
+source_path: ../sources/jsbras-086-collenette-notesenemiesbutterflies-1922-2761b05fe3f3.md
 ---
+
 
 # Notes on the enemies of butterflies
 

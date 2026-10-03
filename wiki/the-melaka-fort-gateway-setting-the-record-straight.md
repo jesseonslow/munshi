@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: khaw-ooi-bujeng-nrayanen-salleh-bukit-choras-inscriptions-ebaefa08b115
+source_path: ../sources/khaw-ooi-bujeng-nrayanen-salleh-bukit-choras-inscriptions-ebaefa08b115/references.md
 ---
+
 
 # The Melaka Fort Gateway: Setting the Record Straight
 

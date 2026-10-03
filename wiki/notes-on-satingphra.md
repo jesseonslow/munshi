@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-205-lamb-notessatingphra-1964-12c2ad14987d
+source_path: ../sources/jmbras-205-lamb-notessatingphra-1964-12c2ad14987d.md
 ---
+
 
 # Notes on Satingphra
 

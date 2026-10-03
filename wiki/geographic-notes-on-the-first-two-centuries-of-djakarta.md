@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-220-cobban-geographicnotesfirst-1971-d577f7e1ff16
+source_path: ../sources/jmbras-220-cobban-geographicnotesfirst-1971-d577f7e1ff16.md
 ---
+
 
 # Geographic notes on the first two centuries of Djakarta
 

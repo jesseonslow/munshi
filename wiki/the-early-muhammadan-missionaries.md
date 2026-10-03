@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-081-winstedt-earlymuhammadanmissionaries-1920-18dc2dfe501d
+source_path: ../sources/jsbras-081-winstedt-earlymuhammadanmissionaries-1920-18dc2dfe501d.md
 ---
+
 
 # The early Muhammadan missionaries
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-113-mills-notesmalayanplacenames-1932-a92eb3ccb24c
+source_path: ../sources/jmalayanras-113-mills-notesmalayanplacenames-1932-a92eb3ccb24c.md
 ---
+
 
 # Notes on some Malayan place-names
 

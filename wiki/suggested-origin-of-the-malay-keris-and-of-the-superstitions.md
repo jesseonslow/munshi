@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-130-williams-suggestedoriginmalay-1937-c0aab41c0dde
+source_path: ../sources/jmalayanras-130-williams-suggestedoriginmalay-1937-c0aab41c0dde.md
 ---
+
 
 # Suggested origin of the Malay keris and of the superstitions attaching to it
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-248-martin-ceramiclegacyasias-1985-3651fe96a0d5
+source_path: ../sources/jmbras-248-martin-ceramiclegacyasias-1985-3651fe96a0d5.md
 ---
+
 
 # A ceramic legacy of Asia’s maritime trade on Tioman Island
 

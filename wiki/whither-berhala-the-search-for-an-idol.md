@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-300-rivers-whitherberhalasearch-2011-c264d8a7fc8d
+source_path: ../sources/jmbras-300-rivers-whitherberhalasearch-2011-c264d8a7fc8d/references.md
 ---
+
 
 # Whither Berhala?: the search for an idol
 

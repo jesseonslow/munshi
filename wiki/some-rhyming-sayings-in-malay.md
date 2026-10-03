@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-086-hamilton-rhymingsayingsmalay-1922-513b0f11eb48
+source_path: ../sources/jsbras-086-hamilton-rhymingsayingsmalay-1922-513b0f11eb48.md
 ---
+
 
 # Some rhyming sayings in Malay
 

@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-075-winstedt-rarewordskutaha-1917-aab37a3e6793
+source_path: ../sources/jsbras-075-winstedt-rarewordskutaha-1917-aab37a3e6793.md
 ---
+
 
 # ‘Telling people the simple truth’: the role of strategic propaganda in the Malayan Emergency
 

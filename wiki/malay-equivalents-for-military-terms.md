@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-090-hashim-malayequivalentsmilitary-1924-92fe355284ca
+source_path: ../sources/jmalayanras-090-hashim-malayequivalentsmilitary-1924-92fe355284ca.md
 ---
+
 
 # Malay equivalents for military terms
 

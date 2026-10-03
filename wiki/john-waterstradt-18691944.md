@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-216-barlow-johnwaterstradt18691944-1969-7f77ff0f591c
+source_path: ../sources/jmbras-216-barlow-johnwaterstradt18691944-1969-7f77ff0f591c.md
 ---
+
 
 # John Waterstradt, 1869–1944
 

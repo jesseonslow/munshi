@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-111-rentse-kelantannamesbullocks-1931-1ec1eedb8bbd
+source_path: ../sources/jmalayanras-111-rentse-kelantannamesbullocks-1931-1ec1eedb8bbd.md
 ---
+
 
 # Kelantan names for bullocks according to their colour
 

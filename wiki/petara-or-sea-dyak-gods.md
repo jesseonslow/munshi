@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-010-perham-seadyakreligion-1882-eeacd4a331fb
+source_path: ../sources/jsbras-010-perham-seadyakreligion-1882-eeacd4a331fb.md
 ---
+
 
 # Petara, or Sea Dyak gods
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-107-mee-oldmalaydictionary-1929-861b14bc35d6
+source_path: ../sources/jmalayanras-107-mee-oldmalaydictionary-1929-861b14bc35d6.md
 ---
+
 
 # An old Malay dictionary
 

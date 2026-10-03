@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-244-sweeney-literarystudymalayindonesian-1983-a7c5b0ce5f55
+source_path: ../sources/jmbras-244-sweeney-literarystudymalayindonesian-1983-a7c5b0ce5f55.md
 ---
+
 
 # The “literary” study of Malay-Indonesian literature: some observations
 

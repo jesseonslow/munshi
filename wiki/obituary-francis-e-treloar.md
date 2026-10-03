@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-238-mckinnon-obituaryfrancisedward-1980-126e9f88fd75
+source_path: ../sources/jmbras-238-mckinnon-obituaryfrancisedward-1980-126e9f88fd75.md
 ---
+
 
 # Obituary: Francis E. Treloar
 

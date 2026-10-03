@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-016-knight-singaporeweather1885-1885-5aeaf1380e97
+source_path: ../sources/jsbras-016-knight-singaporeweather1885-1885-5aeaf1380e97.md
 ---
+
 
 # Singapore weather in 1885
 

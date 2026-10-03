@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-029-skeat-vocabularybesisidialect-1896-c160873c4281
+source_path: ../sources/jsbras-029-skeat-vocabularybesisidialect-1896-c160873c4281.md
 ---
+
 
 # A vocabulary of the Besisi dialect
 

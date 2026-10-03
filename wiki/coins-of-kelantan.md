@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-119-linehan-coinskelantan-1934-c5bcf00b0f60
+source_path: ../sources/jmalayanras-119-linehan-coinskelantan-1934-c5bcf00b0f60.md
 ---
+
 
 # Coins of Kelantan
 

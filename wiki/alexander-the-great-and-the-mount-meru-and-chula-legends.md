@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-138-winstedt-alexandergreatmount-1940-0b3225c1b793
+source_path: ../sources/jmalayanras-138-winstedt-alexandergreatmount-1940-0b3225c1b793.md
 ---
+
 
 # Alexander the Great and the Mount Meru and Chula legends
 

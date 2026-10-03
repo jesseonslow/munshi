@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-100-majid-randomnotescurrent-1927-f529a5773cc7
+source_path: ../sources/jmalayanras-100-majid-randomnotescurrent-1927-f529a5773cc7.md
 ---
+
 
 # Random notes on current Malay beliefs
 

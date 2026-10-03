@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-142-rentse-notescoinsnortheastern-1947-16b810456eba
+source_path: ../sources/jmalayanras-142-rentse-notescoinsnortheastern-1947-16b810456eba.md
 ---
+
 
 # Some further notes on coins from the northeastern Malay states
 

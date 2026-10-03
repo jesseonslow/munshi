@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-100-scrivenor-geologymalaccageological-1927-b64420db8554
+source_path: ../sources/jmalayanras-100-scrivenor-geologymalaccageological-1927-b64420db8554.md
 ---
+
 
 # The geology of Malacca, with a geological map and special reference to laterite
 

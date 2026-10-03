@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-100-winstedt-greatflood1926-1927-a0bcae5aa078
+source_path: ../sources/jmalayanras-100-winstedt-greatflood1926-1927-a0bcae5aa078.md
 ---
+
 
 # The great flood 1926
 

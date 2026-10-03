@@ -21,7 +21,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-028-s-memoircaptainfrancis-1895-f5b35961c8e8
+source_path: ../sources/jsbras-028-s-memoircaptainfrancis-1895-f5b35961c8e8.md
 ---
+
 
 # Papers on Johore Lama and the Portuguese in Malaya (1511–1641). C.A. Gibson-Hill {and} G. de G. Sieveking
 

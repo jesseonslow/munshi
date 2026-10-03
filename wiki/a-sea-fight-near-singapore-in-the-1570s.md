@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-175-macgregor-seafightnear-1956-4f5ae1b85be3
+source_path: ../sources/jmalayanras-175-macgregor-seafightnear-1956-4f5ae1b85be3/appendix.md
 ---
+
 
 # A sea fight near Singapore in the 1570’s
 

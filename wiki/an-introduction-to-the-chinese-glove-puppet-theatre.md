@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-246-beng-introductionchineseglove-1984-58a187aa0912
+source_path: ../sources/jmbras-246-beng-introductionchineseglove-1984-58a187aa0912.md
 ---
+
 
 # An introduction to the Chinese glove puppet theatre
 

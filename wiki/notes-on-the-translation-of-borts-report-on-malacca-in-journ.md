@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-119-macdonald-notestranslationborts-1934-aa1bcd4b1ff1
+source_path: ../sources/jmalayanras-119-macdonald-notestranslationborts-1934-aa1bcd4b1ff1.md
 ---
+
 
 # Notes on the translation of Bort’s report on Malacca in Journal M.B.R.A.S. 1927
 

@@ -3,7 +3,8 @@ id: archives-of-the-british-association-of-malaysia-and-singapor
 work_id: jmbras-98-2-p131
 title: Archives of the British Association of Malaysia and Singapore relating to the
   Second World War [research note
-canonical_name: Archives of the British Association of Malaysia and Singapore relating  to the Second World War
+canonical_name: Archives of the British Association of Malaysia and Singapore relating  to
+  the Second World War
 type: article
 article_type: article
 authors:
@@ -19,8 +20,17 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
-keywords: ["Second World War", "civilian internment", "Changi Gaol", "Sime Road internment camp", "digital resources", "Royal Commonwealth Society collection"]
+keywords:
+- Second World War
+- civilian internment
+- Changi Gaol
+- Sime Road internment camp
+- digital resources
+- Royal Commonwealth Society collection
+source_doc: kent-archives-of-the-british-association-aa8f08dc4eaf
+source_path: ../sources/kent-archives-of-the-british-association-aa8f08dc4eaf/references.md
 ---
+
 
 # Archives of the British Association of Malaysia and Singapore relating  to the Second World War
 

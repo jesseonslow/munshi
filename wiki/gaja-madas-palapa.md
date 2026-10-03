@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-209-minattur-gajamadaspalapa-1966-c3149c5d877a
+source_path: ../sources/jmbras-209-minattur-gajamadaspalapa-1966-c3149c5d877a.md
 ---
+
 
 # Gaja Mada’s palapa
 

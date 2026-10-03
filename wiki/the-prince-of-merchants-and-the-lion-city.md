@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-205-tarling-princemerchantslion-1964-280cbfbde57b
+source_path: ../sources/jmbras-205-tarling-princemerchantslion-1964-280cbfbde57b.md
 ---
+
 
 # The prince of merchants and the Lion city
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-205-needham-temernames-1964-9c113d8a608c
+source_path: ../sources/jmbras-205-needham-temernames-1964-9c113d8a608c/bibliography.md
 ---
+
 
 # Temer names
 

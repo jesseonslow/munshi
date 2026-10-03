@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-226-sweeney-batutarsilahshort-1974-c40daa717ced
+source_path: ../sources/jmbras-226-sweeney-batutarsilahshort-1974-c40daa717ced.md
 ---
+
 
 # Batu Tarsilah: a short comment
 

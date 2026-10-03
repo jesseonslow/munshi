@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-031-skeat-recordsmalaymagic-1898-3648f10444dc
+source_path: ../sources/jsbras-031-skeat-recordsmalaymagic-1898-3648f10444dc.md
 ---
+
 
 # A history of classical Malay literature. Rev. ed
 

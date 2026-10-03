@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-009-maxwell-historyperaknative-1882-58b818a45a38
+source_path: ../sources/jsbras-009-maxwell-historyperaknative-1882-58b818a45a38.md
 ---
+
 
 # The history of Perak from native sources
 

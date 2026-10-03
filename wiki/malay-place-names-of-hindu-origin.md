@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-131-douglas-malayplacenames-1938-253530eb82d6
+source_path: ../sources/jmalayanras-131-douglas-malayplacenames-1938-253530eb82d6.md
 ---
+
 
 # Malay place names of Hindu origin
 

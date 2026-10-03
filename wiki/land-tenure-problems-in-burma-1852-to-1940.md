@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-207-hwa-landtenureproblems-1965-c49311a712c1
+source_path: ../sources/jmbras-207-hwa-landtenureproblems-1965-c49311a712c1.md
 ---
+
 
 # Land tenure problems in Burma, 1852 to 1940
 

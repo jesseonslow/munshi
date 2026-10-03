@@ -21,7 +21,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-073-robinson-preliminarydiagnosesnew-1916-32799e2cb1b5
+source_path: ../sources/jsbras-073-robinson-preliminarydiagnosesnew-1916-32799e2cb1b5.md
 ---
+
 
 # Preliminary diagnoses of some new species and subspecies of mammals and birds obtained in Korinchi, West Sumatra, Feb-June 1914
 

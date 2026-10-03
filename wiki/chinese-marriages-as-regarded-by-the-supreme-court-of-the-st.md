@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-083-braddell-chinesemarriagesregarded-1921-f08c151426a6
+source_path: ../sources/jsbras-083-braddell-chinesemarriagesregarded-1921-f08c151426a6.md
 ---
+
 
 # Chinese marriages, as regarded by the Supreme Court of the Straits Settlements
 

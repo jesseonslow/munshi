@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-225-peacock-pillarbasearchitecture-1974-b77affce87a2
+source_path: ../sources/jmbras-225-peacock-pillarbasearchitecture-1974-b77affce87a2.md
 ---
+
 
 # Pillar base architecture in ancient Kedah
 

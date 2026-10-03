@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-049-kern-concerningoldsanskrit-1907-2f7b54a99fd9
+source_path: ../sources/jsbras-049-kern-concerningoldsanskrit-1907-2f7b54a99fd9.md
 ---
+
 
 # Concerning some old Sanskrit inscriptions in the Malay Peninsula
 

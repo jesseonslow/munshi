@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-261-mcroberts-studygrowtheconomic-1991-4625396fa4af
+source_path: ../sources/jmbras-261-mcroberts-studygrowtheconomic-1991-4625396fa4af.md
 ---
+
 
 # A study in growth: an economic history of Melaka 1400–1510
 

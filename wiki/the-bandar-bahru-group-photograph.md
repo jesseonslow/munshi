@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-256-falconer-bandarbahruphotograph-1989-58e257d6906d
+source_path: ../sources/jmbras-256-falconer-bandarbahruphotograph-1989-58e257d6906d.md
 ---
+
 
 # The Bandar Bahru group photograph
 

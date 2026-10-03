@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-235-peng-wordkongsinote-1979-042520a97a6b
+source_path: ../sources/jmbras-235-peng-wordkongsinote-1979-042520a97a6b.md
 ---
+
 
 # The word kongsi: a note
 

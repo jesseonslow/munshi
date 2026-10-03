@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-002-irving-suggestionsregardingnew-1878-7a7b43856a0e
+source_path: ../sources/jsbras-002-irving-suggestionsregardingnew-1878-7a7b43856a0e.md
 ---
+
 
 # Suggestions regarding a new Malay dictionary
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-062-scrivenor-gunongtahangunong-1912-cb629d5a434f
+source_path: ../sources/jsbras-062-scrivenor-gunongtahangunong-1912-cb629d5a434f.md
 ---
+
 
 # Gunong Tahan and Gunong Riam
 

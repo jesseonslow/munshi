@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-098-foxworthy-sizetreesmalay-1926-952319c64892
+source_path: ../sources/jmalayanras-098-foxworthy-sizetreesmalay-1926-952319c64892.md
 ---
+
 
 # The size of trees in the Malay Peninsula
 

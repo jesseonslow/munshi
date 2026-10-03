@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-288-hasan-malaywomenprostitution-2005-385c9c5fca56
+source_path: ../sources/jmbras-288-hasan-malaywomenprostitution-2005-385c9c5fca56/references.md
 ---
+
 
 # Malay women and prostitution in Kota Bharu, Kelantan, 1950s–1970s
 

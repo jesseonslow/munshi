@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-173-ramsay-indonesiansmalaya-1956-8efe3a878cb3
+source_path: ../sources/jmalayanras-173-ramsay-indonesiansmalaya-1956-8efe3a878cb3.md
 ---
+
 
 # Indonesians in Malaya
 

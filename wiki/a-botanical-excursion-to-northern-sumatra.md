@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-087-ridley-botanicalexcursionnorthern-1923-439490a84c87
+source_path: ../sources/jmalayanras-087-ridley-botanicalexcursionnorthern-1923-439490a84c87.md
 ---
+
 
 # A botanical excursion to Northern Sumatra
 

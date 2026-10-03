@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-276-soon-temasikinternationalregional-1999-d2639822c20c
+source_path: ../sources/jmbras-276-soon-temasikinternationalregional-1999-d2639822c20c/bibliography.md
 ---
+
 
 # Temasik as an international and regional trading post in the thirteenth and fourteenth centuries: a reconstruction based on recent archaeological data
 

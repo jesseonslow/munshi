@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-022-maxwell-rulingfamilyselangor-1890-4bee11706958
+source_path: ../sources/jsbras-022-maxwell-rulingfamilyselangor-1890-4bee11706958.md
 ---
+
 
 # The ruling family of Selangor
 

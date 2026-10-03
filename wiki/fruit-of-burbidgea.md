@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-053-ridley-fruitburbidgea-1909-676de4493ffc
+source_path: ../sources/jsbras-053-ridley-fruitburbidgea-1909-676de4493ffc.md
 ---
+
 
 # Fruit of Burbidgea
 

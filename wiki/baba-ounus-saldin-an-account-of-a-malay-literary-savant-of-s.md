@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-261-hussainmiya-babaounussaldin-1991-5fb5e1ef2984
+source_path: ../sources/jmbras-261-hussainmiya-babaounussaldin-1991-5fb5e1ef2984.md
 ---
+
 
 # Baba Ounus Saldin: an account of a Malay literary savant of Sri Lanka
 

@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-239-kratz-journeyeast17th-1981-4eb98af791a0
+source_path: ../sources/jmbras-239-kratz-journeyeast17th-1981-4eb98af791a0/bibliography.md
 ---
+
 
 # The journey to the East: 17th and 18th century German travel books as sources of study
 

@@ -20,8 +20,17 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
-keywords: ["Royal Navy", "19th century", "Straits of Malacca", "Straits Settlements", "Piracy", "Coal"]
+keywords:
+- Royal Navy
+- 19th century
+- Straits of Malacca
+- Straits Settlements
+- Piracy
+- Coal
+source_doc: tham-supplying-coal-and-eradicating-piracy-c0aeee14ffcb
+source_path: ../sources/tham-supplying-coal-and-eradicating-piracy-c0aeee14ffcb/references.md
 ---
+
 
 # Supplying Coal and Eradicating Piracy: The Royal Navy in the Straits of Malacca, 1833–1880
 

@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-093-trewheler-bantengmalaypeninsula-1925-749ecaa09068
+source_path: ../sources/jmalayanras-093-trewheler-bantengmalaypeninsula-1925-749ecaa09068.md
 ---
+
 
 # Banteng in the Malay Peninsula. Records of the Raffles Museum, No. 8
 

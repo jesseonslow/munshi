@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-036-r-rambongbeetle-1901-c5f0db412178
+source_path: ../sources/jsbras-036-r-rambongbeetle-1901-c5f0db412178.md
 ---
+
 
 # Rambong beetle
 

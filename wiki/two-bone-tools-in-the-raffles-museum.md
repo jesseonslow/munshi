@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-185-clark-twobonetools-1959-26210a92fd7c
+source_path: ../sources/jmalayanras-185-clark-twobonetools-1959-26210a92fd7c.md
 ---
+
 
 # Two bone tools in the Raffles Museum
 

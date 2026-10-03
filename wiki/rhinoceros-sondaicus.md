@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-129-loch-rhinocerossondaicusjavan-1937-d92a30f6ad7d
+source_path: ../sources/jmalayanras-129-loch-rhinocerossondaicusjavan-1937-d92a30f6ad7d.md
 ---
+
 
 # Rhinoceros sondaicus
 

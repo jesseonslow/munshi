@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-119-cardon-portuguesechurchst-1934-0ec0fb0b6059
+source_path: ../sources/jmalayanras-119-cardon-portuguesechurchst-1934-0ec0fb0b6059.md
 ---
+
 
 # The Portuguese Church of St. Paul
 

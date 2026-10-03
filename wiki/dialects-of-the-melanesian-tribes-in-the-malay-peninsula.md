@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-001-mikluchomaclay-dialectsmelanesiantribes-1878-0d45108c750b
+source_path: ../sources/jsbras-001-mikluchomaclay-dialectsmelanesiantribes-1878-0d45108c750b.md
 ---
+
 
 # Dialects of the Melanesian tribes in the Malay Peninsula
 

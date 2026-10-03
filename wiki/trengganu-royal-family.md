@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-117-bryson-trengganuroyalfamily-1933-06ae6924ed9a
+source_path: ../sources/jmalayanras-117-bryson-trengganuroyalfamily-1933-06ae6924ed9a.md
 ---
+
 
 # Trengganu royal family
 

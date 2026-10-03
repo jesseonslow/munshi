@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-009-hervey-stonebtupahat-1882-0f248a0b17e7
+source_path: ../sources/jsbras-009-hervey-stonebtupahat-1882-0f248a0b17e7.md
 ---
+
 
 # Stone from Batu Pahat
 

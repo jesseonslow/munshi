@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-221-skinner-shaerkamponggelam-1972-54dc67315344
+source_path: ../sources/jmbras-221-skinner-shaerkamponggelam-1972-54dc67315344.md
 ---
+
 
 # Shaer Kampong Gelam Terbakar. . Skinner
 

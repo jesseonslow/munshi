@@ -26,7 +26,10 @@ amendments:
   page: null
 status: stub
 published: false
+source_doc: jmbras-294-chross-amalaypoem-2008-4bd837afef9f
+source_path: ../sources/jmbras-294-chross-amalaypoem-2008-4bd837afef9f/references.md
 ---
+
 
 # Notes on Dipterocarps. {No. 5} On the embryo, seedling and position of the flowers in various species
 

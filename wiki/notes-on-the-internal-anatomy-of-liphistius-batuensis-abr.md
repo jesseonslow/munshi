@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-090-buxton-notesinternalanatomy-1924-06f5dc5adb85
+source_path: ../sources/jmalayanras-090-buxton-notesinternalanatomy-1924-06f5dc5adb85.md
 ---
+
 
 # Notes on the internal anatomy of Liphistius batuensis, Abr
 

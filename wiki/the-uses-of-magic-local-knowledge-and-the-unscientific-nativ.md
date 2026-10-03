@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: noor-the-uses-of-magic-919db359fa48
+source_path: ../sources/noor-the-uses-of-magic-919db359fa48.md
 ---
+
 
 # The Uses of Magic: Local Knowledge and the 'Unscientific Native' in Colonial Malaya
 

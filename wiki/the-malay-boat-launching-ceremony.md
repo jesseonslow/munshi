@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-154-bakar-malayboatlaunching-1951-b00e32121b6c
+source_path: ../sources/jmalayanras-154-bakar-malayboatlaunching-1951-b00e32121b6c.md
 ---
+
 
 # The Malay boat launching ceremony
 

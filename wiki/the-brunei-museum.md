@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-221-harrisson-bruneimuseum-1972-2746c9e4c5ba
+source_path: ../sources/jmbras-221-harrisson-bruneimuseum-1972-2746c9e4c5ba.md
 ---
+
 
 # The Brunei museum
 

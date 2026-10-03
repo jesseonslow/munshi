@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-153-ahmad-malaymannersetiquette-1950-d95552026303
+source_path: ../sources/jmalayanras-153-ahmad-malaymannersetiquette-1950-d95552026303.md
 ---
+
 
 # Malay manners and etiquette
 

@@ -30,7 +30,10 @@ reprints:
   volume: 17
   year: 1939
   absorbed_slug: notes-on-the-meanings-of-some-malay-words-part-iii-kedah-wor
+source_doc: jmalayanras-129-baker-notesmeaningsmalay-1937-8dfd26e905c1
+source_path: ../sources/jmalayanras-129-baker-notesmeaningsmalay-1937-8dfd26e905c1.md
 ---
+
 
 
 # Notes on the meanings of some Malay words

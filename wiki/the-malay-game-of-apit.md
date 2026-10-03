@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-113-samusah-malaygameapit-1932-70e23f831e04
+source_path: ../sources/jmalayanras-113-samusah-malaygameapit-1932-70e23f831e04.md
 ---
+
 
 # The Malay game of apit
 

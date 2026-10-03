@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-096-humphreys-notenorthsouth-1926-0ffeb42feca4
+source_path: ../sources/jmalayanras-096-humphreys-notenorthsouth-1926-0ffeb42feca4.md
 ---
+
 
 # note on the north and south points of the compass in Kedah and Trengganu
 

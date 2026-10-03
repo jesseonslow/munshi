@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-117-ghazzali-courtlanguageetiquette-1933-d9e3924d328f
+source_path: ../sources/jmalayanras-117-ghazzali-courtlanguageetiquette-1933-d9e3924d328f.md
 ---
+
 
 # Court language and etiquette of the Malays
 

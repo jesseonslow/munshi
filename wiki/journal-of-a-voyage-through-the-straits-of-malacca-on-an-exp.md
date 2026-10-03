@@ -24,7 +24,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-007-lennon-journalvoyagestraits-1881-131d1687ac6b
+source_path: ../sources/jsbras-007-lennon-journalvoyagestraits-1881-131d1687ac6b.md
 ---
+
 
 # Journal of a voyage through the Straits of Malacca on an expedition to the Molucca islands under the command of Admiral Rainier with some account of those islands at the time of their falling into our hands, and likewise suggestions relative to their future better management in case of being retained in our possession
 

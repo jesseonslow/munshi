@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-209-tarling-britishrelationsvietnam-1966-e05f787c6431
+source_path: ../sources/jmbras-209-tarling-britishrelationsvietnam-1966-e05f787c6431.md
 ---
+
 
 # British relations with Vietnam, 1822–1858
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-156-topley-occasionalritesperformed-1951-9eb68d7dfe44
+source_path: ../sources/jmalayanras-156-topley-occasionalritesperformed-1951-9eb68d7dfe44.md
 ---
+
 
 # Some occasional rites performed by the Singapore Cantonese
 

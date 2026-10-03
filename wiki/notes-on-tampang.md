@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-111-linehan-notestampang-1931-4f144ec87129
+source_path: ../sources/jmalayanras-111-linehan-notestampang-1931-4f144ec87129.md
 ---
+
 
 # Notes on tampang
 

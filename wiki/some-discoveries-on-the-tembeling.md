@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-105-linehan-discoveriestembeling-1928-37eea0c5d4cb
+source_path: ../sources/jmalayanras-105-linehan-discoveriestembeling-1928-37eea0c5d4cb.md
 ---
+
 
 # Some discoveries on the Tembeling
 

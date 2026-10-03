@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-132-woolley-newbookkeris-1938-dbbff94bb4b6
+source_path: ../sources/jmalayanras-132-woolley-newbookkeris-1938-dbbff94bb4b6.md
 ---
+
 
 # A new book on the keris
 

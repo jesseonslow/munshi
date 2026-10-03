@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-185-tregonning-forgottennavalbattle-1959-5d8b6d149e20
+source_path: ../sources/jmalayanras-185-tregonning-forgottennavalbattle-1959-5d8b6d149e20.md
 ---
+
 
 # A forgotten naval battle
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-092-blagden-notetrengganuinscription-1924-51d57eccdb33
+source_path: ../sources/jmalayanras-092-blagden-notetrengganuinscription-1924-51d57eccdb33.md
 ---
+
 
 # A note on the Trengganu inscription
 

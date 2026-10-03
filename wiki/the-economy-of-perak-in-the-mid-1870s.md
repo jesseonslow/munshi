@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-299-gullick-economyperakmid1870s-2010-7681d0c3b765
+source_path: ../sources/jmbras-299-gullick-economyperakmid1870s-2010-7681d0c3b765/references.md
 ---
+
 
 # The economy of Perak in the mid-1870s
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-208-clark-carlgibsonhill-1965-bcedbc93a9fa
+source_path: ../sources/jmbras-208-clark-carlgibsonhill-1965-bcedbc93a9fa.md
 ---
+
 
 # Carl Gibson-Hill
 

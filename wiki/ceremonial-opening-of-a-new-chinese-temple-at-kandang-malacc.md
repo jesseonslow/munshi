@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-134-middlebrook-ceremonialopeningnew-1939-e4ea73c469c0
+source_path: ../sources/jmalayanras-134-middlebrook-ceremonialopeningnew-1939-e4ea73c469c0.md
 ---
+
 
 # Ceremonial opening of a new Chinese temple at Kandang, Malacca, in December, 1938
 

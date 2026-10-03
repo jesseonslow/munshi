@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-105-dussek-bersanduiversesrecited-1928-6bc28e81e7fe
+source_path: ../sources/jmalayanras-105-dussek-bersanduiversesrecited-1928-6bc28e81e7fe.md
 ---
+
 
 # Bersandui: verses recited by collectors of honey in Rembau
 

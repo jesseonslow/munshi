@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-108-winstedt-perakroyalmusical-1929-53b3353ff8d4
+source_path: ../sources/jmalayanras-108-winstedt-perakroyalmusical-1929-53b3353ff8d4.md
 ---
+
 
 # The Perak royal musical instruments
 

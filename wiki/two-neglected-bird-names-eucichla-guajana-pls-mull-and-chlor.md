@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-096-kloss-twoneglectedbird-1926-88887ec46c44
+source_path: ../sources/jmalayanras-096-kloss-twoneglectedbird-1926-88887ec46c44.md
 ---
+
 
 # Two neglected bird names: Eucichla guajana (P.L.S. Mull.) and Chloropsis cochinchinensis (GM.) Records of the Raffles Museum, No. 17
 

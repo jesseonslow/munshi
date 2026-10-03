@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-315-seng-greeningsingapore-2018-927258825877
+source_path: ../sources/jmbras-315-seng-greeningsingapore-2018-927258825877/references.md
 ---
+
 
 # The greening of Singapore: parks and roadside trees from colonial rule to the present
 

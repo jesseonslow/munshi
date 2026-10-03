@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-267-barnard-tamanpenghiburanentertainment-1994-5b0c9938a73e
+source_path: ../sources/jmbras-267-barnard-tamanpenghiburanentertainment-1994-5b0c9938a73e/bibliography.md
 ---
+
 
 # Taman penghiburan: entertainment and the Riau elite in the late 19th century
 

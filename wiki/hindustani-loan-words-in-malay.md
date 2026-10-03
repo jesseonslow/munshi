@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-076-winstedt-hindustaniloanwordsmalay-1917-394b932a0f2d
+source_path: ../sources/jsbras-076-winstedt-hindustaniloanwordsmalay-1917-394b932a0f2d.md
 ---
+
 
 # Hindustani loan-words in Malay
 

@@ -20,8 +20,15 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
-keywords: ["Singapore literature in English", "student writing", "colonial education", "Raffles Institution"]
+keywords:
+- Singapore literature in English
+- student writing
+- colonial education
+- Raffles Institution
+source_doc: kwek-an-hour-before-dawn-960e58da14b2
+source_path: ../sources/kwek-an-hour-before-dawn-960e58da14b2/references.md
 ---
+
 
 # ‘An Hour Before Dawn’: Social and Political Awareness among English-Educated Students in Post-War Singapore
 

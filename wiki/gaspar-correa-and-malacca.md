@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-169-macgregor-gasparcorreamalacca-1955-0caab5b84256
+source_path: ../sources/jmalayanras-169-macgregor-gasparcorreamalacca-1955-0caab5b84256.md
 ---
+
 
 # Gaspar Correa and Malacca
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-097-overbeck-malaymanuscripts-1926-ab538f760f80
+source_path: ../sources/jmalayanras-097-overbeck-malaymanuscripts-1926-ab538f760f80.md
 ---
+
 
 # Malay manuscripts in Germany
 

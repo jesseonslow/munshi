@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-151-gibsonhill-racingjong-1950-684ec28b9f4b
+source_path: ../sources/jmalayanras-151-gibsonhill-racingjong-1950-684ec28b9f4b.md
 ---
+
 
 # The racing jong
 

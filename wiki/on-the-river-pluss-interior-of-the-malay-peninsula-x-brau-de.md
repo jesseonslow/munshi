@@ -21,7 +21,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: lias-on-the-river-pluss-d35f283aee40
+source_path: ../sources/lias-on-the-river-pluss-d35f283aee40.md
 ---
+
 
 # On the River Pluss: Interior of the Malay Peninsula, X. Brau de Saint-Pol Lias. . Dyer
 

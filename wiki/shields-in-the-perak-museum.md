@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-156-linehan-shieldsperakmuseum-1951-1d9ad6a2cbe5
+source_path: ../sources/jmalayanras-156-linehan-shieldsperakmuseum-1951-1d9ad6a2cbe5.md
 ---
+
 
 # Shields in the Perak Museum
 

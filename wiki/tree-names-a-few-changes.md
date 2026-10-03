@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-100-foxworthy-treenamesachanges-1927-3797f616819d
+source_path: ../sources/jmalayanras-100-foxworthy-treenamesachanges-1927-3797f616819d.md
 ---
+
 
 # Tree names – a few changes
 

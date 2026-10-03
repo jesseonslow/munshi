@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-113-winstedt-temenggongsmuar-1932-23a7fffae056
+source_path: ../sources/jmalayanras-113-winstedt-temenggongsmuar-1932-23a7fffae056.md
 ---
+
 
 # The Temenggongs of Muar
 

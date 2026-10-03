@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-236-shuhaimi-bukitseguntangbuddha-1979-3302ef7e9658
+source_path: ../sources/jmbras-236-shuhaimi-bukitseguntangbuddha-1979-3302ef7e9658.md
 ---
+
 
 # The Bukit Seguntang Buddha: a reconsideration of its date
 

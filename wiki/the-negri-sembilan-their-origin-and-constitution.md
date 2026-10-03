@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-019-lister-ngrismbilanorigin-1887-b51575e3acc6
+source_path: ../sources/jsbras-019-lister-ngrismbilanorigin-1887-b51575e3acc6.md
 ---
+
 
 # The Negri Sembilan, their origin and constitution
 

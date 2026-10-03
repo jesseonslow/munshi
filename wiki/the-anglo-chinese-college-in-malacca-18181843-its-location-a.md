@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-314-kua-anglochinesecollegemalacca-2018-937384fd0429
+source_path: ../sources/jmbras-314-kua-anglochinesecollegemalacca-2018-937384fd0429/references.md
 ---
+
 
 # The Anglo-Chinese College in Malacca, 1818–1843: its location and facilities
 

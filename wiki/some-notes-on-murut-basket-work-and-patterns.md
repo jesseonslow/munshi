@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-107-woolley-notesmurutbasket-1929-dbd9220eb348
+source_path: ../sources/jmalayanras-107-woolley-notesmurutbasket-1929-dbd9220eb348.md
 ---
+
 
 # Some notes on Murut basket work and patterns
 

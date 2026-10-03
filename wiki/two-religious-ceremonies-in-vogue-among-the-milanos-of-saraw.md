@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-057-mulder-tworeligiousceremonies-1911-581f7d32c9de
+source_path: ../sources/jsbras-057-mulder-tworeligiousceremonies-1911-581f7d32c9de.md
 ---
+
 
 # Two religious ceremonies in vogue among the Milanos of Sarawak
 

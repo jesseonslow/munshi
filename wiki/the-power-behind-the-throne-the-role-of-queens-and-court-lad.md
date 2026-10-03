@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-077-winstedt-adventmuhammadanismmalay-1917-e684a54b5d4f
+source_path: ../sources/jsbras-077-winstedt-adventmuhammadanismmalay-1917-e684a54b5d4f.md
 ---
+
 
 # The power behind the throne: the role of queens and court ladies in Malay history
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-117-rentse-notesmalaybeliefs-1933-494e29446ae1
+source_path: ../sources/jmalayanras-117-rentse-notesmalaybeliefs-1933-494e29446ae1.md
 ---
+
 
 # Notes on Malay beliefs
 

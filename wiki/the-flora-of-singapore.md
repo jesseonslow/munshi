@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-033-ridley-florasingapore-1900-4c21d301ffcb
+source_path: ../sources/jsbras-033-ridley-florasingapore-1900-4c21d301ffcb.md
 ---
+
 
 # The flora of Singapore
 

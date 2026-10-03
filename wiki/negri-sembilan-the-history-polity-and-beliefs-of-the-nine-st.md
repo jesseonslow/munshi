@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-120-winstedt-negrisembilanhistory-1934-1d940ff09afc
+source_path: ../sources/jmalayanras-120-winstedt-negrisembilanhistory-1934-1d940ff09afc/appendices.md
 ---
+
 
 # Negri Sembilan: the history, polity and beliefs of the nine states
 

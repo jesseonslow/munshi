@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-140-noone-findpotterysherds-1941-cd98ca68560c
+source_path: ../sources/jmalayanras-140-noone-findpotterysherds-1941-cd98ca68560c.md
 ---
+
 
 # A find of pottery sherds on a beach near Sepang, Selangor
 

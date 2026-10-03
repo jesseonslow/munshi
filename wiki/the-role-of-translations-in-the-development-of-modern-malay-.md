@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-292-warnk-roletranslationsdevelopment-2007-cf6fc1397def
+source_path: ../sources/jmbras-292-warnk-roletranslationsdevelopment-2007-cf6fc1397def/references.md
 ---
+
 
 # The role of translations in the development of modern Malay literature
 

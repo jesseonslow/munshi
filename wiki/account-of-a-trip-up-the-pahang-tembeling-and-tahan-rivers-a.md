@@ -21,7 +21,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-025-kelsall-accounttrippahang-1894-f5f6361be536
+source_path: ../sources/jsbras-025-kelsall-accounttrippahang-1894-f5f6361be536.md
 ---
+
 
 # Account of a trip up the Pahang, Tembeling, and Tahan rivers, and an attempt to reach Gunong Tahan
 

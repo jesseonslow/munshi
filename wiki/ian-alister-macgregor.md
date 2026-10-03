@@ -21,7 +21,10 @@ published: false
 is_contributor: false
 aliases:
 - MacGregor, I.A
+source_doc: jmalayanras-189-tregonning-ianalistairmacgregor-1960-fb7f5b4d9cf0
+source_path: ../sources/jmalayanras-189-tregonning-ianalistairmacgregor-1960-fb7f5b4d9cf0.md
 ---
+
 
 
 # Ian Alister Macgregor, M.A.

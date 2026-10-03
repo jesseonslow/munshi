@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-248-gullick-entrepreneurlate19th-1985-600a4310ec48
+source_path: ../sources/jmbras-248-gullick-entrepreneurlate19th-1985-600a4310ec48.md
 ---
+
 
 # The entrepreneur in late nineteenth century Malay society
 

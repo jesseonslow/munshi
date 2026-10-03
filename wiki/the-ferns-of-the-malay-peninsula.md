@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-004-receptionprofessornordenskjold-1879-98e573519276
+source_path: ../sources/jsbras-004-receptionprofessornordenskjold-1879-98e573519276.md
 ---
+
 
 # The ferns of the Malay Peninsula
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-209-harrisson-goldenkerishandle-1966-3dd810e78d79
+source_path: ../sources/jmbras-209-harrisson-goldenkerishandle-1966-3dd810e78d79.md
 ---
+
 
 # A golden kris handle from Balingian, Sarawak
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-247-needham-chewongsiwangperspective-1984-9a1049eb0971
+source_path: ../sources/jmbras-247-needham-chewongsiwangperspective-1984-9a1049eb0971.md
 ---
+
 
 # Chewong (Siwang) in perspective
 

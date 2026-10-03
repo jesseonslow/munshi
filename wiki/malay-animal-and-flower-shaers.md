@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-119-overbeck-malayanimalflower-1934-f403391e3d53
+source_path: ../sources/jmalayanras-119-overbeck-malayanimalflower-1934-f403391e3d53.md
 ---
+
 
 # Malay animal and flower shaers
 

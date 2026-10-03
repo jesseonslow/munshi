@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-208-boxer-asianpotentateseuropean-1965-eee069bb8b4e
+source_path: ../sources/jmbras-208-boxer-asianpotentateseuropean-1965-eee069bb8b4e.md
 ---
+
 
 # Asian potentates and European artillery in the 16th–18th centuries: a footnote to Gibson-Hill
 

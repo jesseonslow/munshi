@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-045-shelford-nestingsilkweavingants-1906-f2e7cf02ba08
+source_path: ../sources/jsbras-045-shelford-nestingsilkweavingants-1906-f2e7cf02ba08.md
 ---
+
 
 # Nesting of silk-weaving ants
 

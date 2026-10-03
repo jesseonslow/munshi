@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-216-mohamad-sejarahnegeridan-1969-5bccd4f44c30
+source_path: ../sources/jmbras-216-mohamad-sejarahnegeridan-1969-5bccd4f44c30.md
 ---
+
 
 # Sejarah negeri dan raja-raja Perlis
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-054-birch-tripblum-1910-175d666ef485
+source_path: ../sources/jsbras-054-birch-tripblum-1910-175d666ef485.md
 ---
+
 
 # My trip to Belum
 

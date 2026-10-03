@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-158-gullick-surveymalayweavers-1952-1f71cf187352
+source_path: ../sources/jmalayanras-158-gullick-surveymalayweavers-1952-1f71cf187352/appendix.md
 ---
+
 
 # A survey of Malay weavers and silversmiths in Kelantan in 1951
 

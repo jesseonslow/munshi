@@ -22,7 +22,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-164-gibsonhill-cambridgeuniversityexpedition-1953-c0dbf648fddc
+source_path: ../sources/jmalayanras-164-gibsonhill-cambridgeuniversityexpedition-1953-c0dbf648fddc/appendix.md
 ---
+
 
 # The Cambridge University Expedition to parts of the Malay Peninsula, 1899–1900: personal accounts. W.W. Skeat and F.F. Laidlaw. {Introd. C.A. Gibson-Hill
 

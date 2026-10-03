@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-164-gibsonhill-cambridgeuniversityexpedition-1953-c0dbf648fddc
+source_path: ../sources/jmalayanras-164-gibsonhill-cambridgeuniversityexpedition-1953-c0dbf648fddc/appendix.md
 ---
+
 
 # A journey on the Sembrong river, from Kuala Indau to Batu Pahat
 

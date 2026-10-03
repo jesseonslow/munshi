@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-093-chasen-introductionaustralianscink-1925-0e0e051f4d04
+source_path: ../sources/jmalayanras-093-chasen-introductionaustralianscink-1925-0e0e051f4d04.md
 ---
+
 
 # On the introduction of the Australian skink into Singapore Island. Records of the Raffles Museum, No. 12
 

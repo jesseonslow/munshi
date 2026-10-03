@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-024-kelsall-descriptionnewspecies-1891-6cbde9e6af16
+source_path: ../sources/jsbras-024-kelsall-descriptionnewspecies-1891-6cbde9e6af16.md
 ---
+
 
 # Description of a new species of jungle fowl said to come from Borneo
 

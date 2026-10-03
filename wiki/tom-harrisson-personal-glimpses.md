@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-229-haile-tomharrissonpersonal-1976-f7677bf574d7
+source_path: ../sources/jmbras-229-haile-tomharrissonpersonal-1976-f7677bf574d7.md
 ---
+
 
 # Tom Harrisson: personal glimpses
 

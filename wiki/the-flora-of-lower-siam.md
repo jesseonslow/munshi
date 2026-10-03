@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-059-ridley-floralowersiam-1911-e650d77bb907
+source_path: ../sources/jsbras-059-ridley-floralowersiam-1911-e650d77bb907.md
 ---
+
 
 # The flora of Lower Siam
 

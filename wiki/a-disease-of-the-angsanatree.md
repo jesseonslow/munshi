@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-122-furtado-diseaseangsanatree-1935-8df3c7af6f30
+source_path: ../sources/jmalayanras-122-furtado-diseaseangsanatree-1935-8df3c7af6f30/bibliography.md
 ---
+
 
 # A disease of the angsanatree
 

@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-012-ferguson-notesillustratingchanges-1883-a2350552c6fa
+source_path: ../sources/jsbras-012-ferguson-notesillustratingchanges-1883-a2350552c6fa.md
 ---
+
 
 # Notes illustrating the changes which consonants undergo in passing from one Malayan dialect to another
 

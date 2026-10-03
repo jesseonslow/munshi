@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-305-laffan-williamrroff-2013-75de5cb94a14
+source_path: ../sources/jmbras-305-laffan-williamrroff-2013-75de5cb94a14.md
 ---
+
 
 # William R. Roff (1929–2013). Obituary
 

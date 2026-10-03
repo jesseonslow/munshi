@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-246-chew-frankswettenhamyap-1984-ee29d691ba90
+source_path: ../sources/jmbras-246-chew-frankswettenhamyap-1984-ee29d691ba90.md
 ---
+
 
 # Frank Swettenham and Yap Ah Loy: the increase of British political influence in Kuala Lumpur
 

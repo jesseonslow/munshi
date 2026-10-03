@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-039-cameron-descriptionsnewgenera-1903-55ea6920c3b7
+source_path: ../sources/jsbras-039-cameron-descriptionsnewgenera-1903-55ea6920c3b7.md
 ---
+
 
 # Description of new genera and species of Hymenoptera taken by Mr. Robert Shelford at Sarawak, Borneo
 

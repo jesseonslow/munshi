@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-005-everett-tigerborneo-1880-e07216308d39
+source_path: ../sources/jsbras-005-everett-tigerborneo-1880-e07216308d39.md
 ---
+
 
 # The tiger in Borneo
 

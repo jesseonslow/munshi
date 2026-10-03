@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-254-kim-pataniturn20th-1988-c9ffd14a4750
+source_path: ../sources/jmbras-254-kim-pataniturn20th-1988-c9ffd14a4750.md
 ---
+
 
 # Patani during the turn of the 20th century: a Malayan perception
 

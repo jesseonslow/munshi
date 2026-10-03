@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-022-coconutbeetles-1890-6ceefd4fb64f
+source_path: ../sources/jsbras-022-coconutbeetles-1890-6ceefd4fb64f.md
 ---
+
 
 # Coconut beetles
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-154-evans-dusunhousehorns-1951-7ee073ea23c7
+source_path: ../sources/jmalayanras-154-evans-dusunhousehorns-1951-7ee073ea23c7.md
 ---
+
 
 # The Putri of Mount Ophir
 

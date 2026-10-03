@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-126-woolley-muruthuntingcustoms-1936-d748b14ce872
+source_path: ../sources/jmalayanras-126-woolley-muruthuntingcustoms-1936-d748b14ce872.md
 ---
+
 
 # Some Murut hunting customs
 

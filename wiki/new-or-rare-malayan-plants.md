@@ -25,7 +25,10 @@ reprints:
   volume: 86
   year: 1922
   absorbed_slug: new-and-rare-malayan-plants
+source_doc: jsbras-068-ridley-newraremalayan-1915-930e0c518c8b
+source_path: ../sources/jsbras-068-ridley-newraremalayan-1915-930e0c518c8b.md
 ---
+
 
 
 # New or rare Malayan plants

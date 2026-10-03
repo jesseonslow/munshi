@@ -19,8 +19,17 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
-keywords: ["Penang", "Malacca", "Royal Navy", "Straits of Malacca", "Disease", "Sickness"]
+keywords:
+- Penang
+- Malacca
+- Royal Navy
+- Straits of Malacca
+- Disease
+- Sickness
+source_doc: tham-samsudin-royal-navy-and-disease-1c7f497e8a4a
+source_path: ../sources/tham-samsudin-royal-navy-and-disease-1c7f497e8a4a/references.md
 ---
+
 
 # The Royal Navy and Disease in the Straits of Malacca, 1794–1815
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-208-cowan-newharboursingapore-1965-c6ebf38bb3ff
+source_path: ../sources/jmbras-208-cowan-newharboursingapore-1965-c6ebf38bb3ff.md
 ---
+
 
 # New harbour, Singapore and the cruise of H.M.S. Maeander, 1848–49
 

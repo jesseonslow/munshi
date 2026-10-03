@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-023-haughton-nativenamesstreets-1891-218ae8e3f190
+source_path: ../sources/jsbras-023-haughton-nativenamesstreets-1891-218ae8e3f190.md
 ---
+
 
 # Native names of streets in Singapore
 

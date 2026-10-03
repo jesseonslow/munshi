@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-222-andaya-rajakechilminangkabau-1972-373fca8951ef
+source_path: ../sources/jmbras-222-andaya-rajakechilminangkabau-1972-373fca8951ef.md
 ---
+
 
 # Raja Kechil and the Minangkabau conquest of Johor in 1718
 

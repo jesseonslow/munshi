@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-134-rentse-goldcoinsnortheastern-1939-a98bf307e7ab
+source_path: ../sources/jmalayanras-134-rentse-goldcoinsnortheastern-1939-a98bf307e7ab.md
 ---
+
 
 # Gold coins of the north-eastern Malay states
 

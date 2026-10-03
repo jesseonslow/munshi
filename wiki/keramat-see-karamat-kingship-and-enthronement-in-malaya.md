@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-142-winstedt-kingshipenthronementmalaya-1947-1712d8458cf5
+source_path: ../sources/jmalayanras-142-winstedt-kingshipenthronementmalaya-1947-1712d8458cf5.md
 ---
+
 
 # Keramat see Karamat Kingship and enthronement in Malaya
 

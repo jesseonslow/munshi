@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-189-tweedie-ivorhughnorman-1960-9c807bf54a56
+source_path: ../sources/jmalayanras-189-tweedie-ivorhughnorman-1960-9c807bf54a56.md
 ---
+
 
 # Ivor Hugh Norman Evans. Obituary
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-312-weebers-tanahratadevelopment-2017-1a03491eef0d
+source_path: ../sources/jmbras-312-weebers-tanahratadevelopment-2017-1a03491eef0d/references.md
 ---
+
 
 # Tanah Rata and the development of the Cameron Highlands, 1925–2030
 

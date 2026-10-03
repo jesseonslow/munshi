@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-229-yuntsiao-notesrelatingadmiral-1976-b3926986da84
+source_path: ../sources/jmbras-229-yuntsiao-notesrelatingadmiral-1976-b3926986da84.md
 ---
+
 
 # Notes relating to Admiral Cheng Ho’s expeditions. Il
 

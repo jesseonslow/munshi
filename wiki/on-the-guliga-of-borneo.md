@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-004-everett-guligaborneo-1879-8b89ede12c4e
+source_path: ../sources/jsbras-004-everett-guligaborneo-1879-8b89ede12c4e.md
 ---
+
 
 # On the guliga of Borneo
 

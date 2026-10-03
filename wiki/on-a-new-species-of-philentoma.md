@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-067-moulton-handlistbirdsborneo-1914-b09941ff21fd
+source_path: ../sources/jsbras-067-moulton-handlistbirdsborneo-1914-b09941ff21fd/bibliography.md
 ---
+
 
 # On a new species of “Philentoma”
 

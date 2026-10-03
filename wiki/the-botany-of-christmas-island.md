@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-045-ridley-expeditionchristmasisland-1906-032c6de8ca80
+source_path: ../sources/jsbras-045-ridley-expeditionchristmasisland-1906-032c6de8ca80.md
 ---
+
 
 # The botany of Christmas Island
 

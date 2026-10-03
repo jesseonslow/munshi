@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-073-blagden-notesmalayhistory-1916-3cc1e2e524f0
+source_path: ../sources/jsbras-073-blagden-notesmalayhistory-1916-3cc1e2e524f0.md
 ---
+
 
 # Notes on Malay history
 

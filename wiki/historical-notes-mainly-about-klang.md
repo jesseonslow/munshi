@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-156-linehan-historicalnotesmainly-1951-e1b2bccffcbf
+source_path: ../sources/jmalayanras-156-linehan-historicalnotesmainly-1951-e1b2bccffcbf.md
 ---
+
 
 # Historical notes, mainly about Klang
 

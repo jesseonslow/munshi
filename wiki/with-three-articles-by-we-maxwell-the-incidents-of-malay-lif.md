@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-180-wilkinson-papersmalaycustoms-1957-309d9f59743a
+source_path: ../sources/jmalayanras-180-wilkinson-papersmalaycustoms-1957-309d9f59743a/appendices.md
 ---
+
 
 # With three articles by W.E. Maxwell The incidents of Malay life. {In Papers on Malay customs and beliefs
 

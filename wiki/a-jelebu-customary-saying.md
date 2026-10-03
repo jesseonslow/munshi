@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-111-winstedt-jelebucustomarysaying-1931-24c200f0775d
+source_path: ../sources/jmalayanras-111-winstedt-jelebucustomarysaying-1931-24c200f0775d.md
 ---
+
 
 # A Jelebu customary saying
 

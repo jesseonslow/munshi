@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-263-gin-domesticservantspar-1992-abed0d8ffe6f
+source_path: ../sources/jmbras-263-gin-domesticservantspar-1992-abed0d8ffe6f.md
 ---
+
 
 # The black and white amahs of Malaya
 

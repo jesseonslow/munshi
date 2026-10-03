@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-025-curtis-cataloguefloweringplants-1894-c02cf09dc168
+source_path: ../sources/jsbras-025-curtis-cataloguefloweringplants-1894-c02cf09dc168.md
 ---
+
 
 # A catalogue of the flowering plants and ferns found growing wild in the Island of Penang
 

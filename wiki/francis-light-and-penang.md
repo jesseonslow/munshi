@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-207-bonney-francislightpenang-1965-a6a4fee69d8e
+source_path: ../sources/jmbras-207-bonney-francislightpenang-1965-a6a4fee69d8e/appendix.md
 ---
+
 
 # Francis Light and Penang
 

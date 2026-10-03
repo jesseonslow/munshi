@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-015-treacher-genealogyroyalfamily-1885-438eda96b089
+source_path: ../sources/jsbras-015-treacher-genealogyroyalfamily-1885-438eda96b089.md
 ---
+
 
 # Genealogy of the royal family of Brunei
 

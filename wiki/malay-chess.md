@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-049-elcum-malaychess-1907-2f0252a0d515
+source_path: ../sources/jsbras-049-elcum-malaychess-1907-2f0252a0d515.md
 ---
+
 
 # Malay chess
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-079-burkill-newdendrobiumd-1918-75fe6f1fb456
+source_path: ../sources/jsbras-079-burkill-newdendrobiumd-1918-75fe6f1fb456.md
 ---
+
 
 # A new Dendrobium, D. gracilipes, from the Rhio Archipelago
 

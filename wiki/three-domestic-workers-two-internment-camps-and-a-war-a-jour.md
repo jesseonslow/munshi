@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-318-matos-threedomesticworkers-2020-6046c6545c9c
+source_path: ../sources/jmbras-318-matos-threedomesticworkers-2020-6046c6545c9c.md
 ---
+
 
 # Three domestic workers, two internment camps and a war: a journey from Singapore to British India
 

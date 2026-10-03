@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-035-shelford-listbutterfliesmt-1901-6dfd38ecbbea
+source_path: ../sources/jsbras-035-shelford-listbutterfliesmt-1901-6dfd38ecbbea.md
 ---
+
 
 # A list of the butterflies of Mt. Penrissen, Sarawak, with notes on the species
 

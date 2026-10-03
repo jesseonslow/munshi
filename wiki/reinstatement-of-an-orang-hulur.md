@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-097-linehan-reinstatementoranghulur-1926-9c7a1d084dd5
+source_path: ../sources/jmalayanras-097-linehan-reinstatementoranghulur-1926-9c7a1d084dd5.md
 ---
+
 
 # Reinstatement of an orang hulur
 

@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-236-treloar-priestsbelltemple-1979-c57d9a9cc0f5
+source_path: ../sources/jmbras-236-treloar-priestsbelltemple-1979-c57d9a9cc0f5/references.md
 ---
+
 
 # A priest’s bell and a temple lamp: reinterpretation of the function of some Kedah artefacts
 

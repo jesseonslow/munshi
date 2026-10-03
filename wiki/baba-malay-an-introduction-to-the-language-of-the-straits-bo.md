@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-065-shellabear-babamalayintroduction-1913-b1eb6d6110d3
+source_path: ../sources/jsbras-065-shellabear-babamalayintroduction-1913-b1eb6d6110d3.md
 ---
+
 
 # Baba Malay: an introduction to the language of the Straits-born Chinese
 

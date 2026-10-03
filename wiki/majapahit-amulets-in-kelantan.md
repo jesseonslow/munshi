@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-126-rentse-majapahitamuletskelantan-1936-9e3a82291608
+source_path: ../sources/jmalayanras-126-rentse-majapahitamuletskelantan-1936-9e3a82291608.md
 ---
+
 
 # Majapahit amulets in Kelantan
 

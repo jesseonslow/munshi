@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-018-osullivan-ceremoniesseedtime-1886-8ef51bf063a9
+source_path: ../sources/jsbras-018-osullivan-ceremoniesseedtime-1886-8ef51bf063a9.md
 ---
+
 
 # Ceremonies at seedtime
 

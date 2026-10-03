@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-102-brown-kelantanbullfighting-1928-a2415a9c21b9
+source_path: ../sources/jmalayanras-102-brown-kelantanbullfighting-1928-a2415a9c21b9.md
 ---
+
 
 # Kelantan bull-fighting
 

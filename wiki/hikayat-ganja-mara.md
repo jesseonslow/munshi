@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-103-overbeck-hikayatganjamara-1928-5f9c77ec59f3
+source_path: ../sources/jmalayanras-103-overbeck-hikayatganjamara-1928-5f9c77ec59f3.md
 ---
+
 
 # Hikayat Ganja Mara
 

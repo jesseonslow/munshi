@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-097-dalton-malayboatsuses-1926-3e928536f55f
+source_path: ../sources/jmalayanras-097-dalton-malayboatsuses-1926-3e928536f55f.md
 ---
+
 
 # Some Malay boats and their uses
 

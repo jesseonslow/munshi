@@ -25,7 +25,10 @@ reprints:
   volume: 87
   year: 2014
   absorbed_slug: recollections-of-my-time-in-malaya-19451956-part-3
+source_doc: jmbras-306-gullick-recollectionstimemalaya-2014-34ebb5fd99b9
+source_path: ../sources/jmbras-306-gullick-recollectionstimemalaya-2014-34ebb5fd99b9.md
 ---
+
 
 
 # Recollections of my time in Malaya (1945–1956) Part 2

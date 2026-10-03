@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: barnard-a-penang-portfolio-289530ba2c60
+source_path: ../sources/barnard-a-penang-portfolio-289530ba2c60.md
 ---
+
 
 # A Penang Portfolio
 

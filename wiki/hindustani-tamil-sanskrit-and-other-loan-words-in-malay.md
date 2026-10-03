@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-080-hamilton-hindustanitamilsanskrit-1919-6521043c0d9f
+source_path: ../sources/jsbras-080-hamilton-hindustanitamilsanskrit-1919-6521043c0d9f.md
 ---
+
 
 # Hindustani, Tamil, Sanskrit and other loan words in Malay
 

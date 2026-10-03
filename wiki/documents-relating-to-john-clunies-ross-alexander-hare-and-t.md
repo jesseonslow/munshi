@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-025-rulesstraitsasiatic-1894-01d9a9c7a185
+source_path: ../sources/jsbras-025-rulesstraitsasiatic-1894-01d9a9c7a185.md
 ---
+
 
 # Documents relating to John Clunies Ross, Alexander Hare, and the establishment of the colony on the Cocos-Keeling Islands
 

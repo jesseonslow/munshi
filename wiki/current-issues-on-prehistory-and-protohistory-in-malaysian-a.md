@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-292-chross-hikayathikamatmalay-2007-03f95efe368d
+source_path: ../sources/jmbras-292-chross-hikayathikamatmalay-2007-03f95efe368d/references.md
 ---
+
 
 # Current issues on prehistory and protohistory in Malaysian archaeology,
 

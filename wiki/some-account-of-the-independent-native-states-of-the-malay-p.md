@@ -22,7 +22,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-006-swettenham-accountindependentnative-1880-cd680cdf2014
+source_path: ../sources/jsbras-006-swettenham-accountindependentnative-1880-cd680cdf2014.md
 ---
+
 
 # Some account of the independent native states of the Malay Peninsula, especially of the circumstances which led to the more intimate relations recently adopted towards some of them by the British Government
 

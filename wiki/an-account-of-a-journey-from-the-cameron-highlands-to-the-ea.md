@@ -22,7 +22,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-117-baker-accountjourneycameron-1933-801d79ca1bcc
+source_path: ../sources/jmalayanras-117-baker-accountjourneycameron-1933-801d79ca1bcc.md
 ---
+
 
 # An account of a journey from the Cameron Highlands to the east coast railway and of a visit to the Temiar settlements in the valleys of the Sungai Blatop and S. Ber
 

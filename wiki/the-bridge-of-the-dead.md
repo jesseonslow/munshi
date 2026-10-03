@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-156-winstedt-bridgedead-1951-43d54d2b637d
+source_path: ../sources/jmalayanras-156-winstedt-bridgedead-1951-43d54d2b637d.md
 ---
+
 
 # The bridge of the dead
 

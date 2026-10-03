@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-242-singaravelu-professorka-1982-eea5312e706a
+source_path: ../sources/jmbras-242-singaravelu-professorka-1982-eea5312e706a.md
 ---
+
 
 # Obituary. K.A. Nilakanta Sastri
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-102-funkhouser-spoliamentawiensiamembracidae-1928-d49627304770
+source_path: ../sources/jmalayanras-102-funkhouser-spoliamentawiensiamembracidae-1928-d49627304770.md
 ---
+
 
 # Spolia mentawiensia: Membracidae, Homoptera
 

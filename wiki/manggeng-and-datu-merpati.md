@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-169-hill-manggengdatumerpati-1955-4683732afe89
+source_path: ../sources/jmalayanras-169-hill-manggengdatumerpati-1955-4683732afe89/references.md
 ---
+
 
 # Manggeng and Datu Merpati
 

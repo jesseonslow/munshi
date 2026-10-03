@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-067-moulton-listbutterfliesborneo-1914-5078f93c05bb
+source_path: ../sources/jsbras-067-moulton-listbutterfliesborneo-1914-5078f93c05bb.md
 ---
+
 
 # Barrretto de Resende’s account of Malacca
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-054-blagden-hajikatanakala-1910-618671d38507
+source_path: ../sources/jsbras-054-blagden-hajikatanakala-1910-618671d38507.md
 ---
+
 
 # Haji Ka-Ta-Na-Ka-La
 

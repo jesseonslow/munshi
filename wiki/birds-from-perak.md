@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-019-museum-mrrb-1887-7d4bf2cb3a36
+source_path: ../sources/jsbras-019-museum-mrrb-1887-7d4bf2cb3a36.md
 ---
+
 
 # Birds from Perak
 

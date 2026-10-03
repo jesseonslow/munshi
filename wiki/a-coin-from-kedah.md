@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-117-gardner-coinkedah-1933-854dca19bf9d
+source_path: ../sources/jmalayanras-117-gardner-coinkedah-1933-854dca19bf9d.md
 ---
+
 
 # A coin from Kedah
 

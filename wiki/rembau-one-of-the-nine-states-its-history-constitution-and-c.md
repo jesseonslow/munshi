@@ -21,7 +21,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-083-moulton-annualreportstraits-1921-c9a1c722dbec
+source_path: ../sources/jsbras-083-moulton-annualreportstraits-1921-c9a1c722dbec.md
 ---
+
 
 # Rembau, one of the nine states: its history, constitution and customs
 

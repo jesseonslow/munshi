@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-140-winstedt-sundangmalaysianart-1941-8c2a721b07d9
+source_path: ../sources/jmalayanras-140-winstedt-sundangmalaysianart-1941-8c2a721b07d9.md
 ---
+
 
 # The Sundang and other Malaysian art motifs
 

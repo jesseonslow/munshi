@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-054-bland-storyburonggeruda-1910-2da25c42737a
+source_path: ../sources/jsbras-054-bland-storyburonggeruda-1910-2da25c42737a.md
 ---
+
 
 # Story of the Burong Geruda and the Raja Merong Mahawangsa
 

@@ -21,7 +21,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-022-maxwell-lawrelatingslavery-1890-dfa2b663df41
+source_path: ../sources/jsbras-022-maxwell-lawrelatingslavery-1890-dfa2b663df41.md
 ---
+
 
 # The law relating to slavery among the Malays (with extracts from the Perak Code of Laws relating to slavery: the original text with transliteration and translation
 

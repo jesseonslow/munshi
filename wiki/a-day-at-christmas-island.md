@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-023-ridley-daychristmasisland-1891-50e1b7f8537a
+source_path: ../sources/jsbras-023-ridley-daychristmasisland-1891-50e1b7f8537a.md
 ---
+
 
 # A day at Christmas Island
 

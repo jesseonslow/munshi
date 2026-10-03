@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-077-winstedt-placenameshikayatpasai-1917-6d6a04198487
+source_path: ../sources/jsbras-077-winstedt-placenameshikayatpasai-1917-6d6a04198487.md
 ---
+
 
 # Place-names in the Hikayat Pasai
 

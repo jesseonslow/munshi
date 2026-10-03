@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-143-woolley-malaycannon-1947-f700f83cf359
+source_path: ../sources/jmalayanras-143-woolley-malaycannon-1947-f700f83cf359.md
 ---
+
 
 # Malay cannon
 

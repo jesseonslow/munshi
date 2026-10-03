@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-279-biographicalnotescontributors-2000-112a80074908
+source_path: ../sources/jmbras-279-biographicalnotescontributors-2000-112a80074908.md
 ---
+
 
 # Changing labour relations in Malaysia 1970s–1990s
 

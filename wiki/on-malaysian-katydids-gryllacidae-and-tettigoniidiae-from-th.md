@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-087-karny-malaysiankatydidsgryllacridae-1923-f4d03c889a56
+source_path: ../sources/jmalayanras-087-karny-malaysiankatydidsgryllacridae-1923-f4d03c889a56.md
 ---
+
 
 # On Malaysian katydids (Gryllacidae and Tettigoniidiae) from the Raffles Museum, Singapore
 

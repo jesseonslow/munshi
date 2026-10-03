@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-054-birch-takingsiampart-1910-d42709a878a1
+source_path: ../sources/jsbras-054-birch-takingsiampart-1910-d42709a878a1.md
 ---
+
 
 # The taking over from Siam of part of Reman or Rahman
 

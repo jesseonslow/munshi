@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-035-ridley-garuchandan-1901-de0270b14829
+source_path: ../sources/jsbras-035-ridley-garuchandan-1901-de0270b14829.md
 ---
+
 
 # Garu and Chandan
 

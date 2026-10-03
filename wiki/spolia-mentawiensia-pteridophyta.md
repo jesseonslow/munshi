@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-102-holttum-spoliamentawiensiapteridophyta-1928-2740f0957537
+source_path: ../sources/jmalayanras-102-holttum-spoliamentawiensiapteridophyta-1928-2740f0957537.md
 ---
+
 
 # Spolia mentawiensia: Pteridophyta
 

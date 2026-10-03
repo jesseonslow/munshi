@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-054-brooks-notesfertilisationorchids-1910-e9b1c0985292
+source_path: ../sources/jsbras-054-brooks-notesfertilisationorchids-1910-e9b1c0985292.md
 ---
+
 
 # Notes on the fertilisation of a few orchids in Sarawak
 

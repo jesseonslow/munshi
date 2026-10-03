@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: daly-surveys-and-explorations-1d6b34ccbe8d
+source_path: ../sources/daly-surveys-and-explorations-1d6b34ccbe8d.md
 ---
+
 
 # Surveys and Explorations in the Native States of the Malayan Peninsula, 1875–82. Facsimile reprint. With a note P. Kratoska
 

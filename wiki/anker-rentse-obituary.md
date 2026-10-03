@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-154-tweedie-obituaryankerrentse-1951-2f6430dbd818
+source_path: ../sources/jmalayanras-154-tweedie-obituaryankerrentse-1951-2f6430dbd818.md
 ---
+
 
 # Anker Rentse. Obituary
 

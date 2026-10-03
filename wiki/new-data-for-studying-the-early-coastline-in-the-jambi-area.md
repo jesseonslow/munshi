@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-246-mckinnon-newdatastudying-1984-7c97de8d4939
+source_path: ../sources/jmbras-246-mckinnon-newdatastudying-1984-7c97de8d4939/bibliography.md
 ---
+
 
 # New data for studying the early coastline in the Jambi area
 

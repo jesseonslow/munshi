@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-216-labi-reanalysisnegrisembilan-1969-529d20916b82
+source_path: ../sources/jmbras-216-labi-reanalysisnegrisembilan-1969-529d20916b82.md
 ---
+
 
 # A re-analysis of Negeri Sembilan socio-political organization
 

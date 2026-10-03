@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-107-sworder-notesaphaniotisfusca-1929-db0cd1c394a3
+source_path: ../sources/jmalayanras-107-sworder-notesaphaniotisfusca-1929-db0cd1c394a3.md
 ---
+
 
 # Notes on the Aphaniotis fusca (Peters
 

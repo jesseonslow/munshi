@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-044-ridley-waspattackingleafmining-1905-bd300d90263f
+source_path: ../sources/jsbras-044-ridley-waspattackingleafmining-1905-bd300d90263f.md
 ---
+
 
 # Nesting of Draco fimbriatus
 

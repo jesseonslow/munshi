@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-042-kynnersley-notesvisitspuket-1905-4a96be2b7d39
+source_path: ../sources/jsbras-042-kynnersley-notesvisitspuket-1905-4a96be2b7d39.md
 ---
+
 
 # Notes of visits to Puket, Ghirbee and Trang
 

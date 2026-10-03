@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-140-banks-seadayakcarving-1941-1feef39922d4
+source_path: ../sources/jmalayanras-140-banks-seadayakcarving-1941-1feef39922d4.md
 ---
+
 
 # Sea-Dayak carving
 

@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-086-burkill-notesdipterocarpsno-1922-40ffa2d45144
+source_path: ../sources/jsbras-086-burkill-notesdipterocarpsno-1922-40ffa2d45144.md
 ---
+
 
 # Notes on Dipterocarps. {No. 7} On the fruit and germination of Isoptera borneensis
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-245-skinner-malaymissionbangkok-1983-00c452a14e49
+source_path: ../sources/jmbras-245-skinner-malaymissionbangkok-1983-00c452a14e49.md
 ---
+
 
 # A Malay mission to Bangkok during the reign of Rama II
 

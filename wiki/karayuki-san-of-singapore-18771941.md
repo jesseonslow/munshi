@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-257-warren-karayukisansingapore1877-1989-9ce76d6075d8
+source_path: ../sources/jmbras-257-warren-karayukisansingapore1877-1989-9ce76d6075d8.md
 ---
+
 
 # Karayuki-San of Singapore, 1877–1941
 

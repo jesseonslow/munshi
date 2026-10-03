@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-225-krairiksh-notemakarabalustrade-1974-23ba2ca8a90f
+source_path: ../sources/jmbras-225-krairiksh-notemakarabalustrade-1974-23ba2ca8a90f.md
 ---
+
 
 # A note on the Makara balustrade at Malacca
 

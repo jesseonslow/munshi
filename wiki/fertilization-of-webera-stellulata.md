@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-041-ridley-fertilizationweberastellulata-1904-63bcf94a1155
+source_path: ../sources/jsbras-041-ridley-fertilizationweberastellulata-1904-63bcf94a1155.md
 ---
+
 
 # Fertilization of Webera stellulata
 

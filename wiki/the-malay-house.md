@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-108-winstedt-malayhouse-1929-d919df943baf
+source_path: ../sources/jmalayanras-108-winstedt-malayhouse-1929-d919df943baf.md
 ---
+
 
 # The Malay house
 

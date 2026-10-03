@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-012-cataloguebooksc-1883-38e980e1dc7d
+source_path: ../sources/jsbras-012-cataloguebooksc-1883-38e980e1dc7d.md
 ---
+
 
 # Portuguese Malacca
 

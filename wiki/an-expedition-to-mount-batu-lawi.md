@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-259-hing-rafflesordergolden-1990-d67663d633f3
+source_path: ../sources/jmbras-259-hing-rafflesordergolden-1990-d67663d633f3.md
 ---
+
 
 # An expedition to Mount Batu Lawi
 

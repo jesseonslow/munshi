@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-093-ahmad-originmalayplacenames-1925-4890cdc179aa
+source_path: ../sources/jmalayanras-093-ahmad-originmalayplacenames-1925-4890cdc179aa.md
 ---
+
 
 # The origin of some Malay place-names
 

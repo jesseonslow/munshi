@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-144-linehan-langkasukaislandasoka-1948-f07a6d29b03b
+source_path: ../sources/jmalayanras-144-linehan-langkasukaislandasoka-1948-f07a6d29b03b.md
 ---
+
 
 # The Hikayat Abdullah, discourse of dissent
 

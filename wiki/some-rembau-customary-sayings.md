@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-105-winstedt-rembaucustomarysayings-1928-cda45ad54433
+source_path: ../sources/jmalayanras-105-winstedt-rembaucustomarysayings-1928-cda45ad54433.md
 ---
+
 
 # Some Rembau customary sayings
 

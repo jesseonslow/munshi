@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-154-gullick-negrisembilaneconomy-1951-d8e17d71413e
+source_path: ../sources/jmalayanras-154-gullick-negrisembilaneconomy-1951-d8e17d71413e.md
 ---
+
 
 # The Negri Sembilan economy of the 1890s
 

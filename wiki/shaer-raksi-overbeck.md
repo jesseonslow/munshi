@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-088-overbeck-shaerraksi-1923-ec44161c81c1
+source_path: ../sources/jmalayanras-088-overbeck-shaerraksi-1923-ec44161c81c1.md
 ---
+
 
 # Shaer Raksi. . Overbeck
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-274-singh-britishproposalsdominion-1998-8d078a787c8f
+source_path: ../sources/jmbras-274-singh-britishproposalsdominion-1998-8d078a787c8f.md
 ---
+
 
 # British proposals for a dominion of Southeast Asia, 1943–1957
 

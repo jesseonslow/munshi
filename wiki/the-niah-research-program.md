@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-231-ii-niahresearchprogram-1977-21b0b21dc372
+source_path: ../sources/jmbras-231-ii-niahresearchprogram-1977-21b0b21dc372.md
 ---
+
 
 # The Niah research program
 

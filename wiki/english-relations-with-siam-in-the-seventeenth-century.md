@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-194-bassett-englishrelationssiam-1961-34d5398f4044
+source_path: ../sources/jmalayanras-194-bassett-englishrelationssiam-1961-34d5398f4044.md
 ---
+
 
 # English relations with Siam in the seventeenth century
 

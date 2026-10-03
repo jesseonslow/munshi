@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-054-birch-visitklianintan-1910-11a5442cc62e
+source_path: ../sources/jsbras-054-birch-visitklianintan-1910-11a5442cc62e.md
 ---
+
 
 # My visit to Klian Intan
 

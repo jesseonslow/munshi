@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-039-ridley-newmalayorchids-1903-d0cfea9c9fd8
+source_path: ../sources/jsbras-039-ridley-newmalayorchids-1903-d0cfea9c9fd8.md
 ---
+
 
 # New Malay orchids
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-013-dalrymple-tawaranputatanrivers-1884-86df516b4729
+source_path: ../sources/jsbras-013-dalrymple-tawaranputatanrivers-1884-86df516b4729.md
 ---
+
 
 # The Tawaran and Putatan rivers, North Borneo
 

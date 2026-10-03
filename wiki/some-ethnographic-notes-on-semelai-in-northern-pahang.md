@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-226-needham-ethnographicnotessemelai-1974-d5c7cc5a644e
+source_path: ../sources/jmbras-226-needham-ethnographicnotessemelai-1974-d5c7cc5a644e/bibliography.md
 ---
+
 
 # Some ethnographic notes on Semelai in northern Pahang
 

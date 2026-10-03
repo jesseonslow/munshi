@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-138-hough-preislamicelementmalay-1940-041e4f1aed85
+source_path: ../sources/jmalayanras-138-hough-preislamicelementmalay-1940-041e4f1aed85.md
 ---
+
 
 # A Pre-Islamic element in the Malay grave
 

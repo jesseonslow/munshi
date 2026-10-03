@@ -25,7 +25,10 @@ amendments:
   page: '108'
 status: stub
 published: false
+source_doc: jmbras-294-chross-amalaypoem-2008-4bd837afef9f
+source_path: ../sources/jmbras-294-chross-amalaypoem-2008-4bd837afef9f/references.md
 ---
+
 
 # ‘A Malay poem on New Year’s Day (1848)’: Munshi Abdullah’s lyric carnival
 

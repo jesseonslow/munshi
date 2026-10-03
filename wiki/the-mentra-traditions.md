@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-010-hervey-mntratraditions-1882-655678dfe9ec
+source_path: ../sources/jsbras-010-hervey-mntratraditions-1882-655678dfe9ec.md
 ---
+
 
 # The Mentra traditions
 

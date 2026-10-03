@@ -21,7 +21,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-233-laufong-territorialpatternsamong-1978-1cda8280df3b
+source_path: ../sources/jmbras-233-laufong-territorialpatternsamong-1978-1cda8280df3b.md
 ---
+
 
 # Territorial patterns among Chinese secret societies in Singapore and peninsular Malaysia: some tentative findings
 

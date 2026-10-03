@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-062-staley-mountophirlegends-1912-c55279539115
+source_path: ../sources/jsbras-062-staley-mountophirlegends-1912-c55279539115.md
 ---
+
 
 # Mount Ophir legends
 

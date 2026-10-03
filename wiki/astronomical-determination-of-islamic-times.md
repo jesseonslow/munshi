@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-233-ilyas-astronomicaldeterminationislamic-1978-06c3e9c26631
+source_path: ../sources/jmbras-233-ilyas-astronomicaldeterminationislamic-1978-06c3e9c26631.md
 ---
+
 
 # Astronomical determination of Islamic times
 

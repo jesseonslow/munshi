@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-217-wales-malayanarchaeologyhindu-1970-1eb42eed6ef3
+source_path: ../sources/jmbras-217-wales-malayanarchaeologyhindu-1970-1eb42eed6ef3.md
 ---
+
 
 # The structure of the economy of Kedah, 1879–1905
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-277-johnmgullick-listofpublications-1999-2ca892f2efb1
+source_path: ../sources/jmbras-277-johnmgullick-listofpublications-1999-2ca892f2efb1.md
 ---
+
 
 # List of publications. {J.M. Gullick
 

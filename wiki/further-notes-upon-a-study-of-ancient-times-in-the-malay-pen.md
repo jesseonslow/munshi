@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-129-wilkinson-notesuponstudy-1937-4c88bab1ecc0
+source_path: ../sources/jmalayanras-129-wilkinson-notesuponstudy-1937-4c88bab1ecc0.md
 ---
+
 
 # Further notes upon a study of ancient times in the Malay Peninsula
 

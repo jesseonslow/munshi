@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-139-grimes-journeyfahsienceylon-1941-e233690329af
+source_path: ../sources/jmalayanras-139-grimes-journeyfahsienceylon-1941-e233690329af.md
 ---
+
 
 # The journey of Fa-Hsien from Ceylon to Canton
 

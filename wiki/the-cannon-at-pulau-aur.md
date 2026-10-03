@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-151-luckam-originbatugajah-1950-bb2b9aff5d03
+source_path: ../sources/jmalayanras-151-luckam-originbatugajah-1950-bb2b9aff5d03.md
 ---
+
 
 # The cannon at Pulau Aur
 

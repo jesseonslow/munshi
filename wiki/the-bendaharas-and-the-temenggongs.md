@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-113-winstedt-bendaharastemenggongs-1932-7772d0babe36
+source_path: ../sources/jmalayanras-113-winstedt-bendaharastemenggongs-1932-7772d0babe36.md
 ---
+
 
 # The Bendaharas and the Temenggongs
 

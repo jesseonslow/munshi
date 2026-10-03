@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-245-dictionarymalaysianbiography-1983-00e3b776fa61
+source_path: ../sources/jmbras-245-dictionarymalaysianbiography-1983-00e3b776fa61.md
 ---
+
 
 # Dictionary of Malaysian biography project
 

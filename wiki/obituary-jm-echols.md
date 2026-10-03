@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-244-wolff-obituaryproffessorjm-1983-ba958a269e3c
+source_path: ../sources/jmbras-244-wolff-obituaryproffessorjm-1983-ba958a269e3c.md
 ---
+
 
 # Obituary: J.M. Echols
 

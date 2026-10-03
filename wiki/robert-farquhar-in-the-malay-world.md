@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-234-miller-robertfarquharmalay-1978-f1b33757254b
+source_path: ../sources/jmbras-234-miller-robertfarquharmalay-1978-f1b33757254b.md
 ---
+
 
 # Robert Farquhar in the Malay world
 

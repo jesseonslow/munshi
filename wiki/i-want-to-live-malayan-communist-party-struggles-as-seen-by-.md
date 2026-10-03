@@ -19,8 +19,17 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
-keywords: ["Malaya", "Malaysia", "women in the MCP", "Malayan Communist Party", "war and revolution", "female defectors"]
+keywords:
+- Malaya
+- Malaysia
+- women in the MCP
+- Malayan Communist Party
+- war and revolution
+- female defectors
+source_doc: musa-i-want-to-live-9d3b24ec75e8
+source_path: ../sources/musa-i-want-to-live-9d3b24ec75e8/references.md
 ---
+
 
 # 'I Want to Live': Malayan Communist Party Struggles as Seen by Female Defectors
 

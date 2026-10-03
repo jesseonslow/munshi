@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-084-maxwell-malayanfishes-1921-006af467d27a
+source_path: ../sources/jsbras-084-maxwell-malayanfishes-1921-006af467d27a/index.md
 ---
+
 
 # Malayan fishes
 

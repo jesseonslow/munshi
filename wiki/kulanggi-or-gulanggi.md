@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-138-winstedt-kulanggigulanggi-1940-66bb88e32e8b
+source_path: ../sources/jmalayanras-138-winstedt-kulanggigulanggi-1940-66bb88e32e8b.md
 ---
+
 
 # Kulanggi or Gulanggi
 

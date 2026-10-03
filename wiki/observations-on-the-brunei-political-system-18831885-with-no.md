@@ -21,7 +21,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-214-leys-observationsbruneipolitical-1968-390fb92e674e
+source_path: ../sources/jmbras-214-leys-observationsbruneipolitical-1968-390fb92e674e.md
 ---
+
 
 # Observations on the Brunei political system, 1883–1885. With notes by R.M. Pringle
 

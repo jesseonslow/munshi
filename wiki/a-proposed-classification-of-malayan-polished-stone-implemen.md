@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-140-noone-proposedclassificationmalayan-1941-dc26dc45bd5d
+source_path: ../sources/jmalayanras-140-noone-proposedclassificationmalayan-1941-dc26dc45bd5d.md
 ---
+
 
 # A proposed classification of Malayan polished stone implements
 

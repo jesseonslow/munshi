@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-060-hewitt-headpressingamongst-1911-47447d31ddeb
+source_path: ../sources/jsbras-060-hewitt-headpressingamongst-1911-47447d31ddeb.md
 ---
+
 
 # Head pressing amongst the Milanos of Sarawak
 

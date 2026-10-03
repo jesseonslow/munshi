@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-035-shortearedowlsingapore-1901-5c533bebfd57
+source_path: ../sources/jsbras-035-shortearedowlsingapore-1901-5c533bebfd57.md
 ---
+
 
 # The Sumatran rhinoceros
 

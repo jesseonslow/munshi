@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-096-kloss-peripatusmalaypeninsula-1926-bd0254bc91b8
+source_path: ../sources/jmalayanras-096-kloss-peripatusmalaypeninsula-1926-bd0254bc91b8.md
 ---
+
 
 # Peripatus in the Malay Peninsula. Records of the Raffles Museum, No. 21
 

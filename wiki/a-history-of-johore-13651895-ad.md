@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-010-proceedingsgeneralmeeting-1882-bb8800ecb136
+source_path: ../sources/jsbras-010-proceedingsgeneralmeeting-1882-bb8800ecb136.md
 ---
+
 
 # A history of Johore (1365–1895 A.D.
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-033-thomas-caseslightningdischarge-1900-5a30200de6d4
+source_path: ../sources/jsbras-033-thomas-caseslightningdischarge-1900-5a30200de6d4.md
 ---
+
 
 # Cases of lightning discharge
 

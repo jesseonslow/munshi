@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-319-longcallesen-perakmuseum-2020-ee4f9f47c52c
+source_path: ../sources/jmbras-319-longcallesen-perakmuseum-2020-ee4f9f47c52c/references.md
 ---
+
 
 # The Perak Museum: Displaying Malaya in the late nineteenth century
 

@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-310-cherian-singaporeanreactionscommemorations-2016-c273769b5605
+source_path: ../sources/jmbras-310-cherian-singaporeanreactionscommemorations-2016-c273769b5605/references.md
 ---
+
 
 # Singaporean reactions to the commemoration of Lee Kuan Yew in Tamil Nadu
 

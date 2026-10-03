@@ -24,7 +24,10 @@ amendments:
   page: '306'
 status: stub
 published: false
+source_doc: jmalayanras-119-rentse-historykelantan-1934-4d2ef0c6ba3e
+source_path: ../sources/jmalayanras-119-rentse-historykelantan-1934-4d2ef0c6ba3e.md
 ---
+
 
 # History of Kelantan, Part I
 

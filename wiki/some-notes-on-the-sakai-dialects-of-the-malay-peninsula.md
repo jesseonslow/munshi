@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-024-clifford-notessakaidialects-1891-6522c15edba2
+source_path: ../sources/jsbras-024-clifford-notessakaidialects-1891-6522c15edba2.md
 ---
+
 
 # Some notes on the Sakai dialects of the Malay Peninsula
 

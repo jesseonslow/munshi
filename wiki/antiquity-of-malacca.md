@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-057-blagden-antiquitymalacca-1911-be3edc3837cc
+source_path: ../sources/jsbras-057-blagden-antiquitymalacca-1911-be3edc3837cc.md
 ---
+
 
 # Antiquity of Malacca
 

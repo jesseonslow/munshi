@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-129-leechman-studylocalsingapore-1937-4ca6c2c44319
+source_path: ../sources/jmalayanras-129-leechman-studylocalsingapore-1937-4ca6c2c44319.md
 ---
+
 
 # Study of local Singapore tides
 

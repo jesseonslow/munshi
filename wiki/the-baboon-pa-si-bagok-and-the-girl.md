@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-046-laidlaw-baboonpasi-1906-733ad98bd1de
+source_path: ../sources/jsbras-046-laidlaw-baboonpasi-1906-733ad98bd1de.md
 ---
+
 
 # The baboon Pa Si Bagok and the girl
 

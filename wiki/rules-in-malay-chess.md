@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-077-winstedt-rulesmalaychess-1917-873c40a5e68a
+source_path: ../sources/jsbras-077-winstedt-rulesmalaychess-1917-873c40a5e68a.md
 ---
+
 
 # Rules in Malay chess
 

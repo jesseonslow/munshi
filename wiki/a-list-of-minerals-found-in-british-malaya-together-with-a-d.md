@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-093-stirling-redwhiteflag-1925-de8fef53118f
+source_path: ../sources/jmalayanras-093-stirling-redwhiteflag-1925-de8fef53118f.md
 ---
+
 
 # A list of minerals found in British Malaya together with a description of their properties, composition, occurrences and uses
 

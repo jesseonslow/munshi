@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-088-winstedt-malaymysticsheretical-1923-dae899b8f365
+source_path: ../sources/jmalayanras-088-winstedt-malaymysticsheretical-1923-dae899b8f365.md
 ---
+
 
 # Some Malay mystics, heretical and orthodox
 

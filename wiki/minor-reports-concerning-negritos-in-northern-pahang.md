@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-230-needham-minorreportsconcerning-1976-4b4b4163e0bb
+source_path: ../sources/jmbras-230-needham-minorreportsconcerning-1976-4b4b4163e0bb/bibliography.md
 ---
+
 
 # Minor reports concerning Negritos in Northern Pahang
 

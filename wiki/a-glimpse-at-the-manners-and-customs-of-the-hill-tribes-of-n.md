@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-015-dodd-glimpsemannerscustoms-1885-e443ef73b4ec
+source_path: ../sources/jsbras-015-dodd-glimpsemannerscustoms-1885-e443ef73b4ec.md
 ---
+
 
 # A glimpse at the manners and customs of the Hill tribes of North Formosa
 

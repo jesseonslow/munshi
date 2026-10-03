@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-233-wales-extentsrivijayasinfluence-1978-d8fddc972035
+source_path: ../sources/jmbras-233-wales-extentsrivijayasinfluence-1978-d8fddc972035.md
 ---
+
 
 # The extent of Srivijaya’s influence abroad
 

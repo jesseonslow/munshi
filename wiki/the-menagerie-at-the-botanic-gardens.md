@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-046-ridley-menageriebotanicgardens-1906-0200df1a5183
+source_path: ../sources/jsbras-046-ridley-menageriebotanicgardens-1906-0200df1a5183.md
 ---
+
 
 # The menagerie at the Botanic Gardens
 

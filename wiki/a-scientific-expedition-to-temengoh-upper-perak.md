@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-057-ridley-scientificexpeditiontemengoh-1911-3e3c492e74f0
+source_path: ../sources/jsbras-057-ridley-scientificexpeditiontemengoh-1911-3e3c492e74f0.md
 ---
+
 
 # A scientific expedition to Temengoh, Upper Perak
 

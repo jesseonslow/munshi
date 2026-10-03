@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-027-koenig-journalvoyageindia-1894-48a559bc91bf
+source_path: ../sources/jsbras-027-koenig-journalvoyageindia-1894-48a559bc91bf.md
 ---
+
 
 # Journal of a voyage from India to Siam and Malacca in 1779
 

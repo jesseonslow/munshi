@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-079-gibbs-peculiarpapuancustoms-1918-c8c0fc915eb3
+source_path: ../sources/jsbras-079-gibbs-peculiarpapuancustoms-1918-c8c0fc915eb3/appendix.md
 ---
+
 
 # Some peculiar Papuan customs
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-134-willimott-malayansponges-1939-cf158e307715
+source_path: ../sources/jmalayanras-134-willimott-malayansponges-1939-cf158e307715/references.md
 ---
+
 
 # Malayan sponges
 

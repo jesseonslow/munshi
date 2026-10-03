@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-027-sherborn-bibliographymalayajune-1894-5ea562100c9e
+source_path: ../sources/jsbras-027-sherborn-bibliographymalayajune-1894-5ea562100c9e.md
 ---
+
 
 # A bibliography of Malaya, from June, 1892 to July, 1893
 

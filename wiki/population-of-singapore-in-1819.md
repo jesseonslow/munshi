@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-117-bartley-populationsingapore1819-1933-3988dd4ff9c5
+source_path: ../sources/jmalayanras-117-bartley-populationsingapore1819-1933-3988dd4ff9c5.md
 ---
+
 
 # Population of Singapore in 1819
 

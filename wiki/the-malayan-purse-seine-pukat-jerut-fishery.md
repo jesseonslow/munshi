@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-153-gopinath-malayanpurseseine-1950-700d194cb4d6
+source_path: ../sources/jmalayanras-153-gopinath-malayanpurseseine-1950-700d194cb4d6.md
 ---
+
 
 # The Malayan purse seine (pukat jerut) fishery
 

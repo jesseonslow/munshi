@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-236-traill-indianprotagonistmalay-1979-ae9417eb35b2
+source_path: ../sources/jmbras-236-traill-indianprotagonistmalay-1979-ae9417eb35b2.md
 ---
+
 
 # An Indian protagonist of the Malay language: Abdullah “Munshi”, his race and his mother-tongue
 

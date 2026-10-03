@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-309-drkg-2015-9f83b4a26686
+source_path: ../sources/jmbras-309-drkg-2015-9f83b4a26686.md
 ---
+
 
 # In memoriam: K.G. Tregonning
 

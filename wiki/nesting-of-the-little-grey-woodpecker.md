@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-044-ridley-nestinglittlegrey-1905-3d42e551deae
+source_path: ../sources/jsbras-044-ridley-nestinglittlegrey-1905-3d42e551deae.md
 ---
+
 
 # Nesting of the little grey woodpecker
 

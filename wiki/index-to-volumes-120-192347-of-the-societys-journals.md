@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-147-editorial-1948-8345d89346b2
+source_path: ../sources/jmalayanras-147-editorial-1948-8345d89346b2.md
 ---
+
 
 # Index {to} volumes 1–20 (1923–47) of the Society’s journals
 

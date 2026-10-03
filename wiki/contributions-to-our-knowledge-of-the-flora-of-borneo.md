@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-076-merrill-contributionsknowledgeflora-1917-2c542b788f8c
+source_path: ../sources/jsbras-076-merrill-contributionsknowledgeflora-1917-2c542b788f8c.md
 ---
+
 
 # Contributions to our knowledge of the flora of Borneo
 

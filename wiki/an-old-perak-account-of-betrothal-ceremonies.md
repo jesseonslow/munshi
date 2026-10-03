@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-108-winstedt-oldperakaccount-1929-b959f4d8e4d5
+source_path: ../sources/jmalayanras-108-winstedt-oldperakaccount-1929-b959f4d8e4d5.md
 ---
+
 
 # An old Perak account of betrothal ceremonies
 

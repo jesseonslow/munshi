@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-291-keong-economicchangeemergence-2006-422f5002f88b
+source_path: ../sources/jmbras-291-keong-economicchangeemergence-2006-422f5002f88b/appendices.md
 ---
+
 
 # Economic change and the emergence of the Straits Chinese in nineteenth-century Penang
 

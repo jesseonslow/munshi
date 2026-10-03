@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-143-windsor-noteorangliar-1947-a25ed94b6f07
+source_path: ../sources/jmalayanras-143-windsor-noteorangliar-1947-a25ed94b6f07.md
 ---
+
 
 # Notes on the Orang Laut of Ulu Kepasing, Pahang
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-075-winstedt-teachingmalayeurope-1917-5f4449982cfa
+source_path: ../sources/jsbras-075-winstedt-teachingmalayeurope-1917-5f4449982cfa.md
 ---
+
 
 # The teaching of Malay in Europe
 

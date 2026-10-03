@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-083-blagden-reportmalaystudies-1921-7bd3860b070e
+source_path: ../sources/jsbras-083-blagden-reportmalaystudies-1921-7bd3860b070e.md
 ---
+
 
 # Report on Malay studies
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-161-gibsonhill-origintrengganuprahu-1953-b98df71e5475
+source_path: ../sources/jmalayanras-161-gibsonhill-origintrengganuprahu-1953-b98df71e5475.md
 ---
+
 
 # The origin of the Trengganu perahu pinas
 

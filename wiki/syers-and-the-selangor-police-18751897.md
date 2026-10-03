@@ -25,7 +25,10 @@ reprints:
   volume: R05
   year: 1978
   absorbed_slug: syers-and-the-selangor-police-1875-1897
+source_doc: jmbras-233-sheppard-gratefulmemorytan-1978-d54d13999373
+source_path: ../sources/jmbras-233-sheppard-gratefulmemorytan-1978-d54d13999373.md
 ---
+
 
 
 # Syers and the Selangor Police, 1875–1897

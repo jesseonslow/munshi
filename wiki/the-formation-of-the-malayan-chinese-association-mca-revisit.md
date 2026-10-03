@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-309-ing-formationmalayanchinese-2015-4471188a55a7
+source_path: ../sources/jmbras-309-ing-formationmalayanchinese-2015-4471188a55a7/references.md
 ---
+
 
 # The formation of the Malayan Chinese Association (MCA) revisited
 

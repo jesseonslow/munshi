@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-126-rentse-notekelantangold-1936-b9fc71f9eeaa
+source_path: ../sources/jmalayanras-126-rentse-notekelantangold-1936-b9fc71f9eeaa.md
 ---
+
 
 # A note on Kelantan gold coins
 

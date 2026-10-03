@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-161-berwick-kelantanbirdnames-1953-195c71ca9ca4
+source_path: ../sources/jmalayanras-161-berwick-kelantanbirdnames-1953-195c71ca9ca4.md
 ---
+
 
 # Some Kelantan bird names
 

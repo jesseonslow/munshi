@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-208-tarling-consulfarrenphilippines-1965-28cc9f77c65b
+source_path: ../sources/jmbras-208-tarling-consulfarrenphilippines-1965-28cc9f77c65b.md
 ---
+
 
 # Consul Farren and the Philippines
 

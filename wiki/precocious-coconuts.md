@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-031-stephens-precociouscoconuts-1898-3e36a31b1084
+source_path: ../sources/jsbras-031-stephens-precociouscoconuts-1898-3e36a31b1084.md
 ---
+
 
 # Precocious coconuts
 

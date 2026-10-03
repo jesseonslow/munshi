@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-122-furtado-lightninginjuriestrees-1935-3f233afdeadd
+source_path: ../sources/jmalayanras-122-furtado-lightninginjuriestrees-1935-3f233afdeadd.md
 ---
+
 
 # Lightning injuries to trees
 

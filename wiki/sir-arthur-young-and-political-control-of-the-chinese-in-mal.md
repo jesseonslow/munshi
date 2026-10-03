@@ -21,7 +21,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-057-bland-rightrevdgeorge-1911-1d00d61c66b2
+source_path: ../sources/jsbras-057-bland-rightrevdgeorge-1911-1d00d61c66b2.md
 ---
+
 
 # Sir Arthur Young and political control of the Chinese in Malaya and the Straits Settlements
 

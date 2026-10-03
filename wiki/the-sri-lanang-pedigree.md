@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-117-wilkinson-srilanangpedigree-1933-d5e1bfe882eb
+source_path: ../sources/jmalayanras-117-wilkinson-srilanangpedigree-1933-d5e1bfe882eb.md
 ---
+
 
 # The Sri Lanang pedigree
 

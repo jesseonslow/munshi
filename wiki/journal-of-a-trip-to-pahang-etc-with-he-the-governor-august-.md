@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-020-davison-journaltrippahang-1889-fca11d1acae5
+source_path: ../sources/jsbras-020-davison-journaltrippahang-1889-fca11d1acae5.md
 ---
+
 
 # Journal of a trip to Pahang etc. with H.E. the Governor, August 17th to 27th, 1889
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-117-hamilton-malaywords-1933-0dde4da0efaa
+source_path: ../sources/jmalayanras-117-hamilton-malaywords-1933-0dde4da0efaa.md
 ---
+
 
 # Some Malay words
 

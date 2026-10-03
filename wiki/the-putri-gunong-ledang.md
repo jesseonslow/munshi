@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-032-wilkinson-putrigunongledang-1899-b5b4fc5701af
+source_path: ../sources/jsbras-032-wilkinson-putrigunongledang-1899-b5b4fc5701af.md
 ---
+
 
 # The Putri Gunong Ledang
 

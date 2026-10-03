@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-142-hutchinson-ancienthistorygreater-1947-5816ef2be9dd
+source_path: ../sources/jmalayanras-142-hutchinson-ancienthistorygreater-1947-5816ef2be9dd.md
 ---
+
 
 # Ancient history of Greater India. {review of Coedès’ Histoire ancienne des états hindouisés d’extrême-orient
 

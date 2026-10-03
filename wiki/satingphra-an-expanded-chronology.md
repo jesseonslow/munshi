@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-209-oconnor-satingphraexpandedchronology-1966-61ba954575de
+source_path: ../sources/jmbras-209-oconnor-satingphraexpandedchronology-1966-61ba954575de.md
 ---
+
 
 # Satingphra: an expanded chronology
 

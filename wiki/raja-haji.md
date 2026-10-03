@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-022-maxwell-rajahaji-1890-779de5ccaa49
+source_path: ../sources/jsbras-022-maxwell-rajahaji-1890-779de5ccaa49.md
 ---
+
 
 # Raja Haji
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-271-gullick-kualalangatpiracy-1996-9cc04f05514d
+source_path: ../sources/jmbras-271-gullick-kualalangatpiracy-1996-9cc04f05514d.md
 ---
+
 
 # The Kuala Langat piracy trial
 

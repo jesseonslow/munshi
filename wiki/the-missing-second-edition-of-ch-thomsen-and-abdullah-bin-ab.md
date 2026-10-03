@@ -21,7 +21,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-244-bastin-missingsecondedition-1983-335fb07734e5
+source_path: ../sources/jmbras-244-bastin-missingsecondedition-1983-335fb07734e5.md
 ---
+
 
 # The missing second edition of C.H. Thomsen and Abdullah bin Abdul Kadir’s English and Malay vocabulary
 

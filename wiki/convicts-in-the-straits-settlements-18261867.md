@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-217-turnbull-convictsstraitssettlements-1970-79011f1e68c3
+source_path: ../sources/jmbras-217-turnbull-convictsstraitssettlements-1970-79011f1e68c3.md
 ---
+
 
 # Convicts in the Straits Settlements, 1826–1867
 

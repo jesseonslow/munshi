@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-241-traill-aspectsabdullahmunshi-1981-34d77fa5ef44
+source_path: ../sources/jmbras-241-traill-aspectsabdullahmunshi-1981-34d77fa5ef44.md
 ---
+
 
 # Aspects of Abdullah “Munshi”
 

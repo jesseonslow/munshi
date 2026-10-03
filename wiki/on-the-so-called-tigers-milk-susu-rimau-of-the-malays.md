@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-022-ridley-socalledtigersmilk-1890-80e9929f2b1e
+source_path: ../sources/jsbras-022-ridley-socalledtigersmilk-1890-80e9929f2b1e.md
 ---
+
 
 # On the so-called tiger’s milk “susu rimau” of the Malays
 

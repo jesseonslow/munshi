@@ -27,7 +27,10 @@ reprints:
   volume: R07
   year: 1989
   absorbed_slug: the-study-of-ancient-times-in-the-malay-peninsula-and-straits-of-malacca
+source_doc: jmalayanras-139-braddell-introductionstudyancient-1941-0c83e1e5d160
+source_path: ../sources/jmalayanras-139-braddell-introductionstudyancient-1941-0c83e1e5d160.md
 ---
+
 
 
 # An introduction to the study of ancient times in the Malay Peninsula and the Straits of Malacca

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-044-thomas-lightningconductorsnotes-1905-c3e4a5a86c67
+source_path: ../sources/jsbras-044-thomas-lightningconductorsnotes-1905-c3e4a5a86c67.md
 ---
+
 
 # Lightning conductors
 

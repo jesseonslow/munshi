@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-088-laidlaw-notehabitspygmy-1923-c59dba79fed4
+source_path: ../sources/jmalayanras-088-laidlaw-notehabitspygmy-1923-c59dba79fed4.md
 ---
+
 
 # A note of the habits of the pygmy falcon
 

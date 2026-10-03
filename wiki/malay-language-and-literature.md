@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-015-rost-malaylanguageliterature-1885-8412e6c480e3
+source_path: ../sources/jsbras-015-rost-malaylanguageliterature-1885-8412e6c480e3.md
 ---
+
 
 # Malay language and literature
 

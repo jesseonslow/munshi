@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-025-ridley-dispersalseedsmammals-1894-3926e66e882e
+source_path: ../sources/jsbras-025-ridley-dispersalseedsmammals-1894-3926e66e882e.md
 ---
+
 
 # On the dispersal of seeds by mammals
 

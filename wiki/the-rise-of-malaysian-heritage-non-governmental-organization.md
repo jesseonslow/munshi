@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-309-blackburn-risemalaysianheritage-2015-750d09580d67
+source_path: ../sources/jmbras-309-blackburn-risemalaysianheritage-2015-750d09580d67/references.md
 ---
+
 
 # The rise of Malaysian heritage non-governmental organizations (1969‒2005
 

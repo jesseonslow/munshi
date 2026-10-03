@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-095-winstedt-notesmalaymagic-1925-84f55586f7a0
+source_path: ../sources/jmalayanras-095-winstedt-notesmalaymagic-1925-84f55586f7a0.md
 ---
+
 
 # Notes on Malay magic
 

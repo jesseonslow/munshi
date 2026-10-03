@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-003-hornaday-accountnaturalistsvisit-1879-b8815b4991fd
+source_path: ../sources/jsbras-003-hornaday-accountnaturalistsvisit-1879-b8815b4991fd.md
 ---
+
 
 # Account of a naturalist’s visit to the territory of Selangor
 

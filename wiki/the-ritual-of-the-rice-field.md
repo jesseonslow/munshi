@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-108-winstedt-ritualricefield-1929-477b7ff25a45
+source_path: ../sources/jmalayanras-108-winstedt-ritualricefield-1929-477b7ff25a45.md
 ---
+
 
 # The ritual of the rice-field
 

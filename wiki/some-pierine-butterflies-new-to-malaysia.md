@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-087-moulton-pierinebutterfliesnew-1923-ec080e34afbb
+source_path: ../sources/jmalayanras-087-moulton-pierinebutterfliesnew-1923-ec080e34afbb.md
 ---
+
 
 # Some Pierine butterflies new to Malaysia
 

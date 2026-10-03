@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-088-scrivenor-geologylangkawiislands-1923-279630ce0b62
+source_path: ../sources/jmalayanras-088-scrivenor-geologylangkawiislands-1923-279630ce0b62.md
 ---
+
 
 # The geology of the Langkawi Islands: with a geological sketch map
 

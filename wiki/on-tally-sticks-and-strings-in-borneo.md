@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-049-hose-tallysticksstrings-1907-8cb786aea559
+source_path: ../sources/jsbras-049-hose-tallysticksstrings-1907-8cb786aea559.md
 ---
+
 
 # On tally sticks and strings in Borneo
 

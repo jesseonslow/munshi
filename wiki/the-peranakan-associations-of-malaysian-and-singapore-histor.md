@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-297-kim-peranakanassociationsmalaysia-2009-ca6522517010
+source_path: ../sources/jmbras-297-kim-peranakanassociationsmalaysia-2009-ca6522517010/references.md
 ---
+
 
 # The Peranakan associations of Malaysian and Singapore: history and current scenario
 

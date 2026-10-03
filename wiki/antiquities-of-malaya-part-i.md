@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-092-wilkinson-antiquitiesmalayapart-1924-d93ab84625be
+source_path: ../sources/jmalayanras-092-wilkinson-antiquitiesmalayapart-1924-d93ab84625be.md
 ---
+
 
 # Antiquities of Malaya. Part I
 

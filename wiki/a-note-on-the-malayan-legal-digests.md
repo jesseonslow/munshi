@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-213-hooker-notemalayanlegal-1968-abebe65d5ffc
+source_path: ../sources/jmbras-213-hooker-notemalayanlegal-1968-abebe65d5ffc.md
 ---
+
 
 # A note on the Malayan legal digests
 

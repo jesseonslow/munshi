@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-108-winstedt-indonesianbronzedrumhead-1929-e2badb2485e8
+source_path: ../sources/jmalayanras-108-winstedt-indonesianbronzedrumhead-1929-e2badb2485e8.md
 ---
+
 
 # Indonesian bronze drum-head from Pahang
 

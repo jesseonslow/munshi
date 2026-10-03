@@ -24,7 +24,10 @@ amendments:
   page: '163'
 status: stub
 published: false
+source_doc: jmalayanras-111-winstedt-tokin-1931-a94808e2b79d
+source_path: ../sources/jmalayanras-111-winstedt-tokin-1931-a94808e2b79d.md
 ---
+
 
 # Tokin
 

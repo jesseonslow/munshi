@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-225-wales-origintulangmawas-1974-a47d10f7413d
+source_path: ../sources/jmbras-225-wales-origintulangmawas-1974-a47d10f7413d.md
 ---
+
 
 # The origin of the “tulang mawas”
 

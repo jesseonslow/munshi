@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-034-ridley-dammarwoodoil-1900-d8828a672128
+source_path: ../sources/jsbras-034-ridley-dammarwoodoil-1900-d8828a672128.md
 ---
+
 
 # Dammar and wood oil
 

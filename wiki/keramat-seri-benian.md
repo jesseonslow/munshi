@@ -24,7 +24,10 @@ amendments:
   page: '200'
 status: stub
 published: false
+source_doc: jmalayanras-156-linehan-kramatsribnian-1951-efd7ac4052c3
+source_path: ../sources/jmalayanras-156-linehan-kramatsribnian-1951-efd7ac4052c3.md
 ---
+
 
 # Keramat Seri Benian
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-117-rentse-gantangkelantan-1933-c484620baba0
+source_path: ../sources/jmalayanras-117-rentse-gantangkelantan-1933-c484620baba0.md
 ---
+
 
 # Gantong of Kelantan
 

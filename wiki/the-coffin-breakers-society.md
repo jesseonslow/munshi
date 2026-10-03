@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-096-stirling-coffinbreakerssociety-1926-63d5e0faf73b
+source_path: ../sources/jmalayanras-096-stirling-coffinbreakerssociety-1926-63d5e0faf73b.md
 ---
+
 
 # The Coffin Breakers Society
 

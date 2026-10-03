@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-189-lewis-inasstudylocal-1960-bae300989200
+source_path: ../sources/jmalayanras-189-lewis-inasstudylocal-1960-bae300989200.md
 ---
+
 
 # Inas: a study of local history
 

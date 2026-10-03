@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-169-howes-rajahmanggeng-1955-9ddd49411338
+source_path: ../sources/jmalayanras-169-howes-rajahmanggeng-1955-9ddd49411338.md
 ---
+
 
 # Raja Manggeng
 

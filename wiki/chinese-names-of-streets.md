@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-045-knight-chinesenamesstreets-1906-d780f1c5e443
+source_path: ../sources/jsbras-045-knight-chinesenamesstreets-1906-d780f1c5e443.md
 ---
+
 
 # Chinese names of streets
 

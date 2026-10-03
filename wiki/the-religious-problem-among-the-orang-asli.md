@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-217-carey-religiousproblemamong-1970-399712f39a9e
+source_path: ../sources/jmbras-217-carey-religiousproblemamong-1970-399712f39a9e.md
 ---
+
 
 # The religious problem among the Orang Asli
 

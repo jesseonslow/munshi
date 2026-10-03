@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-295-borschberg-jacquesdecoutre-2008-cd7c75715e82
+source_path: ../sources/jmbras-295-borschberg-jacquesdecoutre-2008-cd7c75715e82/references.md
 ---
+
 
 # Jacques de Coutre as a source for the early seventeenth-century history of Singapore, the Johore river and the straits
 

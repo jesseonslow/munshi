@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-020-haughton-notesnamesplaces-1889-1b056b6cdde1
+source_path: ../sources/jsbras-020-haughton-notesnamesplaces-1889-1b056b6cdde1.md
 ---
+
 
 # Notes on names of places in the island of Singapore and its vicinity
 

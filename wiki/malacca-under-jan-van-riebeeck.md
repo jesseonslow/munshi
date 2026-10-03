@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-208-coolhaas-malaccajanvan-1965-b2761bffabcd
+source_path: ../sources/jmbras-208-coolhaas-malaccajanvan-1965-b2761bffabcd.md
 ---
+
 
 # Malacca under Jan van Riebeeck
 

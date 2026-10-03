@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-252-turnbull-postwardecademalaya-1987-0e76c6ee40f3
+source_path: ../sources/jmbras-252-turnbull-postwardecademalaya-1987-0e76c6ee40f3.md
 ---
+
 
 # The post-war decade in Malaya
 

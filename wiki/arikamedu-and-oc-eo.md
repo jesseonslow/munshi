@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-156-braddell-arikameduoco-1951-fa1e67940773
+source_path: ../sources/jmalayanras-156-braddell-arikameduoco-1951-fa1e67940773.md
 ---
+
 
 # Arikamedu and Oc-eo
 

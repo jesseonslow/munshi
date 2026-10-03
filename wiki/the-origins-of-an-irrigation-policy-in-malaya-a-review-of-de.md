@@ -21,7 +21,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-219-short-originsirrigationpolicy-1971-ce31f76fbd00
+source_path: ../sources/jmbras-219-short-originsirrigationpolicy-1971-ce31f76fbd00.md
 ---
+
 
 # The origins of an irrigation policy in Malaya: a review of developments prior to the establishment of the Drainage and Irrigation Department
 

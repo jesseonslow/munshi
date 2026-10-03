@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-268-ee-descentidentitydifferent-1995-6ea72ef0ca0a
+source_path: ../sources/jmbras-268-ee-descentidentitydifferent-1995-6ea72ef0ca0a/references.md
 ---
+
 
 # On a collection of reptiles from Sarawak
 

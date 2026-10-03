@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-031-ridley-whitesnakeselangor-1898-4fd58fc9bb0e
+source_path: ../sources/jsbras-031-ridley-whitesnakeselangor-1898-4fd58fc9bb0e.md
 ---
+
 
 # The white snake of the Selangor caves
 

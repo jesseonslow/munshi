@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-090-stooke-landdayakwords-1924-1b778a242be0
+source_path: ../sources/jmalayanras-090-stooke-landdayakwords-1924-1b778a242be0.md
 ---
+
 
 # Some Land-Dayak words
 

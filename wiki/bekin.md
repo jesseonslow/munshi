@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-032-ridley-insectivoroussquirrel-1899-cabd4e6a994d
+source_path: ../sources/jsbras-032-ridley-insectivoroussquirrel-1899-cabd4e6a994d.md
 ---
+
 
 # Bekin
 

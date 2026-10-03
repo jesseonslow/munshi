@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-100-abdullah-originpawangberpuar-1927-4217be651acd
+source_path: ../sources/jmalayanras-100-abdullah-originpawangberpuar-1927-4217be651acd.md
 ---
+
 
 # The origin of the pawang and the berpuar ceremony
 

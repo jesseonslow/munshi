@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-083-winstedt-indiamalaybeliefs-1921-6e2ba8e4cee2
+source_path: ../sources/jsbras-083-winstedt-indiamalaybeliefs-1921-6e2ba8e4cee2.md
 ---
+
 
 # Indian and Malay beliefs
 

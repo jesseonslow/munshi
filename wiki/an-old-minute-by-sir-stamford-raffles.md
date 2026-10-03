@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-024-proceedingsannualgeneral-1891-3c39ed28090f
+source_path: ../sources/jsbras-024-proceedingsannualgeneral-1891-3c39ed28090f.md
 ---
+
 
 # An old minute by Sir Stamford Raffles
 

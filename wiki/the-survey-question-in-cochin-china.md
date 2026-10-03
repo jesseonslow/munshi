@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-018-maxwell-surveyquestioncochinchina-1886-224d59f00970
+source_path: ../sources/jsbras-018-maxwell-surveyquestioncochinchina-1886-224d59f00970.md
 ---
+
 
 # The survey question in Cochin-China
 

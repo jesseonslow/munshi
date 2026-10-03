@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-181-banks-gomantoncaves-1958-e5639749b1fd
+source_path: ../sources/jmalayanras-181-banks-gomantoncaves-1958-e5639749b1fd.md
 ---
+
 
 # Gomanton caves
 

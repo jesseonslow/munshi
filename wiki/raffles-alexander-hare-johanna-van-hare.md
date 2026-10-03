@@ -1,8 +1,8 @@
 ---
 id: raffles-alexander-hare-johanna-van-hare
 work_id: jmbras-27-1-p224
-title: 'Raffles, Alexander Hare & Johanna van Hare'
-canonical_name: 'Raffles, Alexander Hare & Johanna van Hare'
+title: Raffles, Alexander Hare & Johanna van Hare
+canonical_name: Raffles, Alexander Hare & Johanna van Hare
 type: article
 article_type: article
 authors:
@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-169-gibsonhill-rafflesalexanderhare-1955-950f67a0c7b5
+source_path: ../sources/jmalayanras-169-gibsonhill-rafflesalexanderhare-1955-950f67a0c7b5.md
 ---
+
 
 # Raffles, Alexander Hare & Johanna van Hare
 

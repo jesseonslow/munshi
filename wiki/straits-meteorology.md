@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-012-skinner-straitsmeteorology-1883-cf1dfd55f3bc
+source_path: ../sources/jsbras-012-skinner-straitsmeteorology-1883-cf1dfd55f3bc.md
 ---
+
 
 # Straits meteorology
 

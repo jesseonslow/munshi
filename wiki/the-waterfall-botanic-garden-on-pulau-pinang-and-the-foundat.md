@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-273-jones-waterfallbotanicgarden-1997-1d7d133af65a
+source_path: ../sources/jmbras-273-jones-waterfallbotanicgarden-1997-1d7d133af65a.md
 ---
+
 
 # The ‘Waterfall’ Botanic Garden on Pulau Pinang and the foundation of the Penang Botanical Gardens 1884–1910
 

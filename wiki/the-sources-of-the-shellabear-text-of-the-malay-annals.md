@@ -24,7 +24,10 @@ amendments:
   page: '157'
 status: stub
 published: false
+source_doc: jmalayanras-143-linehan-sourcesshellabeartext-1947-02351c5abd3c
+source_path: ../sources/jmalayanras-143-linehan-sourcesshellabeartext-1947-02351c5abd3c.md
 ---
+
 
 # The sources of the Shellabear text of the Malay Annals
 

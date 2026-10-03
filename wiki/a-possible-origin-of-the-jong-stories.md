@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-158-gibsonhill-possibleoriginjong-1952-d8c83e61bf39
+source_path: ../sources/jmalayanras-158-gibsonhill-possibleoriginjong-1952-d8c83e61bf39.md
 ---
+
 
 # A possible origin of the Jong stories
 

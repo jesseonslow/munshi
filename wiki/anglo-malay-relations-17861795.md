@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-208-bassett-anglomalayrelations17861795-1965-5d9610bccac6
+source_path: ../sources/jmbras-208-bassett-anglomalayrelations17861795-1965-5d9610bccac6.md
 ---
+
 
 # Anglo-Malay relations, 1786–1795
 

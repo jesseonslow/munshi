@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-087-burkill-notesdipterocarpsno-1923-e6c05bbbf204
+source_path: ../sources/jmalayanras-087-burkill-notesdipterocarpsno-1923-e6c05bbbf204.md
 ---
+
 
 # Notes on Dipterocarps. {No. 9} On the differences in the seedlings between Balanocarpus maximus, King, and B. heimii, King
 

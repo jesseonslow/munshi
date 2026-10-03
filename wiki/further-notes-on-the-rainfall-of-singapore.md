@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-143-braddell-notesancienttimes-1947-4651cc59d463
+source_path: ../sources/jmalayanras-143-braddell-notesancienttimes-1947-4651cc59d463.md
 ---
+
 
 # Further notes on the rainfall of Singapore
 

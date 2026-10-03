@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-085-ahmad-tigerbreedfamilies-1922-25d5fbf56d4b
+source_path: ../sources/jsbras-085-ahmad-tigerbreedfamilies-1922-25d5fbf56d4b.md
 ---
+
 
 # The tiger-breed families
 

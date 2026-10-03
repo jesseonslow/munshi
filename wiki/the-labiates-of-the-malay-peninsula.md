@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-050-ridley-labiatesmalaypeninsula-1908-d5ec8a04ff84
+source_path: ../sources/jsbras-050-ridley-labiatesmalaypeninsula-1908-d5ec8a04ff84.md
 ---
+
 
 # The labiates of the Malay Peninsula
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-111-rentse-notekelantanrejang-1931-802401186bd9
+source_path: ../sources/jmalayanras-111-rentse-notekelantanrejang-1931-802401186bd9.md
 ---
+
 
 # Note on the Kelantan rejang
 

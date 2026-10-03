@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: low-account-of-several-inscriptions-found-in-province-wellesley-2dd894c9d93d
+source_path: ../sources/low-account-of-several-inscriptions-found-in-province-wellesley-2dd894c9d93d.md
 ---
+
 
 # An Account of Several Inscriptions Found in Province Wellesley on the Peninsula of Malacca. Facsimile reprint. With a note H. Ting Mu Hung
 

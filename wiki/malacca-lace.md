@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-045-bland-malaccalace-1906-5fc61f468871
+source_path: ../sources/jsbras-045-bland-malaccalace-1906-5fc61f468871.md
 ---
+
 
 # Malacca lace
 

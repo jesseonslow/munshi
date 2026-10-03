@@ -24,7 +24,10 @@ amendments:
   page: '264'
 status: stub
 published: false
+source_doc: jsbras-045-kloss-newsumatranpig-1906-e41456b1ad6e
+source_path: ../sources/jsbras-045-kloss-newsumatranpig-1906-e41456b1ad6e.md
 ---
+
 
 # The new Sumatran pig
 

@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-169-wheatley-belatedcommentssir-1955-ae13532ceb1e
+source_path: ../sources/jmalayanras-169-wheatley-belatedcommentssir-1955-ae13532ceb1e.md
 ---
+
 
 # Belated comments on Sir Roland Braddell’s Studies of ancient times in the Malay Peninsula
 

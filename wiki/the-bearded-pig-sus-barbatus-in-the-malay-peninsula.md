@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-085-robinson-beardedpigsus-1922-1f24cda43e84
+source_path: ../sources/jsbras-085-robinson-beardedpigsus-1922-1f24cda43e84.md
 ---
+
 
 # The bearded pig (Sus barbatus) in the Malay Peninsula
 

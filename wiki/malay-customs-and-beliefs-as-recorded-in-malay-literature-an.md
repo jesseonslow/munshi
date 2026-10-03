@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-095-overbeck-malaycustomsbeliefs-1925-6685c97b67ce
+source_path: ../sources/jmalayanras-095-overbeck-malaycustomsbeliefs-1925-6685c97b67ce.md
 ---
+
 
 # Malay customs and beliefs as recorded in Malay literature and folklore, Part III
 

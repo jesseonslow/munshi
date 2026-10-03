@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-119-abdulaziz-openingjohoredewan-1934-fee1eac25e49
+source_path: ../sources/jmalayanras-119-abdulaziz-openingjohoredewan-1934-fee1eac25e49.md
 ---
+
 
 # The opening of the Johore dewan, 1875
 

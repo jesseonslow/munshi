@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-154-gibsonhill-malayhatsdishcovers-1951-4528c38d75b6
+source_path: ../sources/jmalayanras-154-gibsonhill-malayhatsdishcovers-1951-4528c38d75b6.md
 ---
+
 
 # Malay hats and dish covers
 

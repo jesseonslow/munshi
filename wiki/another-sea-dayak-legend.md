@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-045-gomes-anotherseadyaklegend-1906-9c88e6a7ceb5
+source_path: ../sources/jsbras-045-gomes-anotherseadyaklegend-1906-9c88e6a7ceb5.md
 ---
+
 
 # Another Sea-Dayak legend
 

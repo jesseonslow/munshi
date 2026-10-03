@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-243-oconnor-ancientsculpturestambon-1982-e1fe07be90d4
+source_path: ../sources/jmbras-243-oconnor-ancientsculpturestambon-1982-e1fe07be90d4.md
 ---
+
 
 # Ancient sculptures from Tambon Na San, Nakhon Si Thammarat Province, Peninsular Thailand
 

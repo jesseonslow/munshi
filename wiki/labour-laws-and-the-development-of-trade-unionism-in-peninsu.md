@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-271-fong-labourlawsdevelopment-1996-1629f44d8aa5
+source_path: ../sources/jmbras-271-fong-labourlawsdevelopment-1996-1629f44d8aa5.md
 ---
+
 
 # Labour laws and the development of trade unionism in peninsular Malaysia, 1945–1960
 

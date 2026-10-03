@@ -24,7 +24,10 @@ amendments:
   page: '157'
 status: stub
 published: false
+source_doc: jmalayanras-143-linehan-notestextsmalay-1947-59f5a04c6f7f
+source_path: ../sources/jmalayanras-143-linehan-notestextsmalay-1947-59f5a04c6f7f.md
 ---
+
 
 # Notes on the texts of the Malay Annals
 

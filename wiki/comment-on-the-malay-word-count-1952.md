@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-173-manning-commentmalayword-1956-b855c8dad45b
+source_path: ../sources/jmalayanras-173-manning-commentmalayword-1956-b855c8dad45b.md
 ---
+
 
 # Comment on the Malay word count, 1952
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-087-winstedt-johorenamedlangkasuka-1923-30b89d7cfa7c
+source_path: ../sources/jmalayanras-087-winstedt-johorenamedlangkasuka-1923-30b89d7cfa7c.md
 ---
+
 
 # Was Johore once named Langkasuka?
 

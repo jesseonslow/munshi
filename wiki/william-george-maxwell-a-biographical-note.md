@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-313-gullick-williamgeorgemaxwell-2017-b02bf03d8980
+source_path: ../sources/jmbras-313-gullick-williamgeorgemaxwell-2017-b02bf03d8980.md
 ---
+
 
 # William George Maxwell: a biographical note
 

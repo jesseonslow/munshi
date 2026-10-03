@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-277-kim-developmentsrelevantmalayan-1999-368d849927e7
+source_path: ../sources/jmbras-277-kim-developmentsrelevantmalayan-1999-368d849927e7/references.md
 ---
+
 
 # Developments relevant to Malayan agriculture in the post-rubber crisis era (1920–1921
 

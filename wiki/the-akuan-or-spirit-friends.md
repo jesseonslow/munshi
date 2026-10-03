@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-086-ahmad-akuanspiritfriends-1922-b27be7758b4a
+source_path: ../sources/jsbras-086-ahmad-akuanspiritfriends-1922-b27be7758b4a.md
 ---
+
 
 # The akuan or spirit-friends
 

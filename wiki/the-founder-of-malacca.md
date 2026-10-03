@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-129-callenfels-foundermalacca-1937-3bf0442114a3
+source_path: ../sources/jmalayanras-129-callenfels-foundermalacca-1937-3bf0442114a3.md
 ---
+
 
 # The founder of Malacca
 

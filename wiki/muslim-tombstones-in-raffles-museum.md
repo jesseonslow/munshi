@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-113-winstedt-muslimtombstonesraffles-1932-4e464e34871e
+source_path: ../sources/jmalayanras-113-winstedt-muslimtombstonesraffles-1932-4e464e34871e.md
 ---
+
 
 # Muslim tombstones in Raffles Museum
 

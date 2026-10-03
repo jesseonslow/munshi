@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-140-winstedt-panjitales-1941-9f131e787eef
+source_path: ../sources/jmalayanras-140-winstedt-panjitales-1941-9f131e787eef.md
 ---
+
 
 # The Panji tales
 

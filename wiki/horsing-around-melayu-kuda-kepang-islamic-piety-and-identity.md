@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-307-andaya-gatheringknowledgebay-2014-f8a799deaaa4
+source_path: ../sources/jmbras-307-andaya-gatheringknowledgebay-2014-f8a799deaaa4/references.md
 ---
+
 
 # Horsing around Melayu: Kuda kepang, Islamic piety, and identity politics at play in Singapore’s Malay community
 

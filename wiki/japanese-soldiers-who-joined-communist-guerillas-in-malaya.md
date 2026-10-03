@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-311-fujio-formerjapanesesoldiers-2016-7bce3e323ceb
+source_path: ../sources/jmbras-311-fujio-formerjapanesesoldiers-2016-7bce3e323ceb/references.md
 ---
+
 
 # Japanese soldiers who joined communist guerillas in Malaya
 

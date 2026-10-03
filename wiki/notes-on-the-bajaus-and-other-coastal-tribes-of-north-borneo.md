@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-158-evans-notesbajauscoastal-1952-0f03c690540c
+source_path: ../sources/jmalayanras-158-evans-notesbajauscoastal-1952-0f03c690540c.md
 ---
+
 
 # Notes on the Bajaus and other coastal tribes of North Borneo
 

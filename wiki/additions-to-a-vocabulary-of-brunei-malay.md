@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-086-macbryan-additionsvocabularybruneimalay-1922-51ff7c95991f
+source_path: ../sources/jsbras-086-macbryan-additionsvocabularybruneimalay-1922-51ff7c95991f.md
 ---
+
 
 # Additions to a vocabulary of Brunei-Malay
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-022-ridley-burmanniacemalaypeninsula-1890-920d6c4bdbec
+source_path: ../sources/jsbras-022-ridley-burmanniacemalaypeninsula-1890-920d6c4bdbec.md
 ---
+
 
 # The Burmanniaceae of the Malay Peninsula
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-165-gibsonhill-steamersemployedasian-1954-fa2ffa0c22cf
+source_path: ../sources/jmalayanras-165-gibsonhill-steamersemployedasian-1954-fa2ffa0c22cf/references.md
 ---
+
 
 # The steamers employed in Asian waters, 1819–39
 

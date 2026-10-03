@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-020-treacher-britishborneosketches-1889-8b79c3eeea42
+source_path: ../sources/jsbras-020-treacher-britishborneosketches-1889-8b79c3eeea42.md
 ---
+
 
 # British Borneo: sketches of Brunai, Sarawak, Labuan and North Borneo
 

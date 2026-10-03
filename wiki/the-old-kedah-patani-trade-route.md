@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-086-hamilton-oldkedahpatanitraderoute-1922-685e324f0412
+source_path: ../sources/jsbras-086-hamilton-oldkedahpatanitraderoute-1922-685e324f0412.md
 ---
+
 
 # The old Kedah-Patani trade-route
 

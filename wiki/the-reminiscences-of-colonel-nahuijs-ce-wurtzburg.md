@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-153-wurtzburg-reminiscencescolonelnahuys-1950-2f1276a1b736
+source_path: ../sources/jmalayanras-153-wurtzburg-reminiscencescolonelnahuys-1950-2f1276a1b736.md
 ---
+
 
 # The reminiscences of Colonel Nahuijs. C.E. Wurtzburg
 

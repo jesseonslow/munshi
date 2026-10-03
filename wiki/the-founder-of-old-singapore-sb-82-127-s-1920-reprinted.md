@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-215-winstedt-founderoldsingapore-1969-7eef1e90efea
+source_path: ../sources/jmbras-215-winstedt-founderoldsingapore-1969-7eef1e90efea.md
 ---
+
 
 # The founder of old Singapore. SB 82: {127} S 1920. Reprinted
 

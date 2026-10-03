@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-142-woolley-murutfairytale-1947-9d835c7409f1
+source_path: ../sources/jmalayanras-142-woolley-murutfairytale-1947-9d835c7409f1.md
 ---
+
 
 # A Murut fairy tale
 

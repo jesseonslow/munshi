@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-315-wee-jemberangalammelayu-2018-aba4cda06662
+source_path: ../sources/jmbras-315-wee-jemberangalammelayu-2018-aba4cda06662/references.md
 ---
+
 
 # Jemberang and Alam Melayu: crossing the Straits of Melaka, Singapore and Riau
 

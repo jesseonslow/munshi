@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-228-hooykaas-balinesecontributionmalay-1975-84efe8f96338
+source_path: ../sources/jmbras-228-hooykaas-balinesecontributionmalay-1975-84efe8f96338.md
 ---
+
 
 # A Balinese contribution to Malay literature
 

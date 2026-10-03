@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-117-harrower-skeletalremainskuala-1933-963827029c13
+source_path: ../sources/jmalayanras-117-harrower-skeletalremainskuala-1933-963827029c13.md
 ---
+
 
 # Skeletal remains from the Kuala Selinsing excavations, Perak, Malay Peninsula
 

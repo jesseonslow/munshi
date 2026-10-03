@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-158-hill-kelantangamesentertainments-1952-6c880f2efe29
+source_path: ../sources/jmalayanras-158-hill-kelantangamesentertainments-1952-6c880f2efe29.md
 ---
+
 
 # Some Kelantan games and entertainments
 

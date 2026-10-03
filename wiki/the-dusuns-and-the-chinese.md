@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-096-evans-dusunschinese-1926-74755eae89a5
+source_path: ../sources/jmalayanras-096-evans-dusunschinese-1926-74755eae89a5.md
 ---
+
 
 # The Dusuns and the Chinese
 

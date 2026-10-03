@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-013-brill-proposedenglishmalaydictionary-1884-b4597327d67a
+source_path: ../sources/jsbras-013-brill-proposedenglishmalaydictionary-1884-b4597327d67a.md
 ---
+
 
 # Proposed English–Malay dictionary
 

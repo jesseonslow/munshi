@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-138-baker-kedahharvestingknife-1940-d00fb8672811
+source_path: ../sources/jmalayanras-138-baker-kedahharvestingknife-1940-d00fb8672811.md
 ---
+
 
 # A Kedah harvesting knife
 

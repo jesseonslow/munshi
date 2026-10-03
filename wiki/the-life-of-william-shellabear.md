@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-265-hunt-lifewilliamshellabear-1993-655819de6f7b
+source_path: ../sources/jmbras-265-hunt-lifewilliamshellabear-1993-655819de6f7b.md
 ---
+
 
 # The life of William Shellabear
 

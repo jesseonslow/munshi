@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-293-barnard-celatesrayatlautpirates-2007-8fba3d659f33
+source_path: ../sources/jmbras-293-barnard-celatesrayatlautpirates-2007-8fba3d659f33/references.md
 ---
+
 
 # Celates, Rayat-Laut, pirates: the Orang Laut and their decline in history
 

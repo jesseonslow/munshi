@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-144-headly-timogangenesis-1948-86720d79a48a
+source_path: ../sources/jmalayanras-144-headly-timogangenesis-1948-86720d79a48a.md
 ---
+
 
 # Timogan genesis. J. & D. Headly
 

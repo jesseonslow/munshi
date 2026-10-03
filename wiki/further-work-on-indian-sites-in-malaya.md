@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-147-gibsonhill-indexpapersvolumes-1948-c354f6a2ce70
+source_path: ../sources/jmalayanras-147-gibsonhill-indexpapersvolumes-1948-c354f6a2ce70/appendix.md
 ---
+
 
 # Further work on Indian sites in Malaya
 

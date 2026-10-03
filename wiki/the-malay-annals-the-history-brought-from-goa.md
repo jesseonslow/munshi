@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-173-gibsonhill-malayannalshistory-1956-f0e62924da65
+source_path: ../sources/jmalayanras-173-gibsonhill-malayannalshistory-1956-f0e62924da65.md
 ---
+
 
 # The Malay Annals: the history brought from Goa
 

@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: croix-the-kingdom-of-perak-d1a5cd638b75
+source_path: ../sources/croix-the-kingdom-of-perak-d1a5cd638b75.md
 ---
+
 
 # The Kingdom of Perak. . Dyer
 

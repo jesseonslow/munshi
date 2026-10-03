@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-004-leech-slimbernam-1879-ec5651cdccef
+source_path: ../sources/jsbras-004-leech-slimbernam-1879-ec5651cdccef.md
 ---
+
 
 # About Slim and Bernam
 

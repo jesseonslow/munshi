@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-313-dyer-penang1837seen-2017-731859a7ab7a
+source_path: ../sources/jmbras-313-dyer-penang1837seen-2017-731859a7ab7a.md
 ---
+
 
 # Penang in 1837, as seen by Captain Auguste Vaillant. . Dyer; with an introd. and notes
 

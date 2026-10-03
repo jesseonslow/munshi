@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-215-raffles-datefoundationsingapore-1969-198b5f52003d
+source_path: ../sources/jmbras-215-raffles-datefoundationsingapore-1969-198b5f52003d.md
 ---
+
 
 # Date of the foundation of Singapore
 

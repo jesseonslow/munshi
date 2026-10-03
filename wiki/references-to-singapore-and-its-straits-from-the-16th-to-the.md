@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: khoo-borschberg-references-to-singapore-56c6d46cac6e
+source_path: ../sources/khoo-borschberg-references-to-singapore-56c6d46cac6e/appendix.md
 ---
+
 
 # References to Singapore and its Straits from the 16th to the Early 19th Century
 

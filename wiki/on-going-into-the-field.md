@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-303-roff-goingfield-2012-8bf6afd7fb29
+source_path: ../sources/jmbras-303-roff-goingfield-2012-8bf6afd7fb29.md
 ---
+
 
 # On going into the field
 

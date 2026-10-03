@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-096-kloss-piedcuckooshrike-1926-0d8e8c77a8f7
+source_path: ../sources/jmalayanras-096-kloss-piedcuckooshrike-1926-0d8e8c77a8f7.md
 ---
+
 
 # The pied cuckoo-shrike. Records of the Raffles Museum, No. 16
 

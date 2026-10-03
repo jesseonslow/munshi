@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-215-braddell-lungyamentanmahsi-1969-c9926d3f94e2
+source_path: ../sources/jmbras-215-braddell-lungyamentanmahsi-1969-c9926d3f94e2/appendix.md
 ---
+
 
 # Persian merchants and missionaries in medieval Malaya
 

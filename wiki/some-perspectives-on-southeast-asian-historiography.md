@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-269-tarling-perspectivessoutheastasian-1995-5aefeb4a92e3
+source_path: ../sources/jmbras-269-tarling-perspectivessoutheastasian-1995-5aefeb4a92e3.md
 ---
+
 
 # Some perspectives on Southeast Asian historiography
 

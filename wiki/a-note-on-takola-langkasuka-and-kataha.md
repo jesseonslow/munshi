@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-151-wales-notetakolalangkasuka-1950-433286e1d3b6
+source_path: ../sources/jmalayanras-151-wales-notetakolalangkasuka-1950-433286e1d3b6.md
 ---
+
 
 # A note on Takola, Langkasuka and Kataha
 

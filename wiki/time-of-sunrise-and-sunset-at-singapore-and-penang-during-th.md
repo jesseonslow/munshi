@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-079-marriott-timesunrisesunset-1918-940c199b0f55
+source_path: ../sources/jsbras-079-marriott-timesunrisesunset-1918-940c199b0f55.md
 ---
+
 
 # Time of sunrise and sunset at Singapore and Penang during the year
 

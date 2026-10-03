@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-217-kathirithambywells-ahmadshahibn-1970-fdf1c549dd06
+source_path: ../sources/jmbras-217-kathirithambywells-ahmadshahibn-1970-fdf1c549dd06.md
 ---
+
 
 # Ahmad Shah Ibn Iskander and the late 17th century ‘holy war’ in Indonesia
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-023-dew-fishingindustrykrian-1891-abfff3376f95
+source_path: ../sources/jsbras-023-dew-fishingindustrykrian-1891-abfff3376f95.md
 ---
+
 
 # The fishing industry of Krian and Kurau, Perak
 

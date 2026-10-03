@@ -25,7 +25,10 @@ reprints:
   volume: 6
   year: 1880
   absorbed_slug: a-contribution-to-malayan-bibliography-pt-ii
+source_doc: jsbras-006-dennys-contributionmalayanbibliography-1880-e629582ea434
+source_path: ../sources/jsbras-006-dennys-contributionmalayanbibliography-1880-e629582ea434.md
 ---
+
 
 
 # A contribution to Malayan bibliography

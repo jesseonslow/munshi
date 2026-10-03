@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-079-burkill-circumstancesattendingmurder-1918-e07328808c26
+source_path: ../sources/jsbras-079-burkill-circumstancesattendingmurder-1918-e07328808c26.md
 ---
+
 
 # The circumstances attending the murder in 1859, of the botanist James Motley
 

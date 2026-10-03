@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-036-osullivan-relationssouthernindia-1901-5515df59fa41
+source_path: ../sources/jsbras-036-osullivan-relationssouthernindia-1901-5515df59fa41.md
 ---
+
 
 # The relations between Southern India and the Straits Settlements
 

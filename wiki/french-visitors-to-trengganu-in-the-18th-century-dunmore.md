@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-223-dunmore-frenchvisitorstrengganu-1973-6836bd7a0acc
+source_path: ../sources/jmbras-223-dunmore-frenchvisitorstrengganu-1973-6836bd7a0acc.md
 ---
+
 
 # French visitors to Trengganu in the 18th century, . Dunmore
 

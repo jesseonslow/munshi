@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-090-stirling-chinesediviningblocks-1924-439179d40223
+source_path: ../sources/jmalayanras-090-stirling-chinesediviningblocks-1924-439179d40223.md
 ---
+
 
 # Chinese divining blocks and the “pat kwa” or eight-sided diagram
 

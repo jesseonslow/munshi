@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-267-horton-itakensteps-1994-d072398489ef
+source_path: ../sources/jmbras-267-horton-itakensteps-1994-d072398489ef/references.md
 ---
+
 
 # ‘I have taken steps to ensure that the utmost economy is exercised’: government finance in Brunei, 1906–1932
 

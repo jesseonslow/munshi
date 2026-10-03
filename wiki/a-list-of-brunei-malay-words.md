@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-083-marshall-vocabularybruneimalay-1921-92805f0205d0
+source_path: ../sources/jsbras-083-marshall-vocabularybruneimalay-1921-92805f0205d0.md
 ---
+
 
 # A list of Brunei-Malay words
 

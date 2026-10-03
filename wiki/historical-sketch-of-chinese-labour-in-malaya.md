@@ -24,7 +24,10 @@ amendments:
   page: '157'
 status: stub
 published: false
+source_doc: jmalayanras-142-blythe-historicalsketchchinese-1947-44cc305cc4c2
+source_path: ../sources/jmalayanras-142-blythe-historicalsketchchinese-1947-44cc305cc4c2.md
 ---
+
 
 # Historical sketch of Chinese labour in Malaya
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-305-khor-mbrasvisitbandar-2013-33205e8372e8
+source_path: ../sources/jmbras-305-khor-mbrasvisitbandar-2013-33205e8372e8.md
 ---
+
 
 # MBRAS visit to Bandar Seri Begawan
 

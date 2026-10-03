@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-230-andaya-examinationsourcesconcerning-1976-d4fc03839d21
+source_path: ../sources/jmbras-230-andaya-examinationsourcesconcerning-1976-d4fc03839d21/appendix.md
 ---
+
 
 # An examination of the sources concerning the reign of Sultan Mansur Syah of Trengganu (1741–1795) with special reference to the Tuhfat-al-Nafis
 

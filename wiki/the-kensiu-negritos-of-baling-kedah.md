@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-217-carey-kensiunegritosbaling-1970-5bc818a33941
+source_path: ../sources/jmbras-217-carey-kensiunegritosbaling-1970-5bc818a33941.md
 ---
+
 
 # The Kensiu Negritos of Baling, Kedah
 

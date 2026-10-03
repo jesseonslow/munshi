@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-111-rentse-twofolktaleskelantan-1931-16370594a949
+source_path: ../sources/jmalayanras-111-rentse-twofolktaleskelantan-1931-16370594a949.md
 ---
+
 
 # On the transliteration of Malay in the roman character
 

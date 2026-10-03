@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-031-ridley-birdsbotanicgardens-1898-d833df183a9e
+source_path: ../sources/jsbras-031-ridley-birdsbotanicgardens-1898-d833df183a9e.md
 ---
+
 
 # Birds in the Botanic gardens, Singapore
 

@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-228-harrisson-peatcoastalplain-1975-f73645ba2e31
+source_path: ../sources/jmbras-228-harrisson-peatcoastalplain-1975-f73645ba2e31.md
 ---
+
 
 # Peat and the coastal plain ecosystems as controls in prehistoric and present human demography (Southeast Asia
 

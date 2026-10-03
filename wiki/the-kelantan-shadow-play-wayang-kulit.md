@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-126-rentse-kelantanshadowplaywayang-1936-8dad09763654
+source_path: ../sources/jmalayanras-126-rentse-kelantanshadowplaywayang-1936-8dad09763654.md
 ---
+
 
 # The Kelantan shadow-play (wayang kulit
 

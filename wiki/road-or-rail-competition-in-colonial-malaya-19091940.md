@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-238-kaur-roadrailcompetitioncolonial-1980-cef55969b4b8
+source_path: ../sources/jmbras-238-kaur-roadrailcompetitioncolonial-1980-cef55969b4b8.md
 ---
+
 
 # Road or rail? Competition in colonial Malaya, 1909–1940
 

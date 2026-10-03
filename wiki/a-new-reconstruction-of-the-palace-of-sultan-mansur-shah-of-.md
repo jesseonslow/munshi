@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-054-ridley-termitesnesteight-1910-f42e250439e7
+source_path: ../sources/jsbras-054-ridley-termitesnesteight-1910-f42e250439e7.md
 ---
+
 
 # A new reconstruction of the palace of Sultan Mansur Shah of Malacca
 

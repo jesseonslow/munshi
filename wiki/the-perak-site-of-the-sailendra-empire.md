@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-140-winstedt-peraksitesailendra-1941-b36a5451996e
+source_path: ../sources/jmalayanras-140-winstedt-peraksitesailendra-1941-b36a5451996e.md
 ---
+
 
 # The Perak site of the Sailendra empire
 

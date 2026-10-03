@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-058-hose-hikayatsaifalyezan-1911-8049e3d21c2a
+source_path: ../sources/jsbras-058-hose-hikayatsaifalyezan-1911-8049e3d21c2a.md
 ---
+
 
 # The introduction of Islam into Champa
 

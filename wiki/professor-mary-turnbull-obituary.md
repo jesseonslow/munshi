@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-295-gullick-obituaryprofessormary-2008-2857e0c5a717
+source_path: ../sources/jmbras-295-gullick-obituaryprofessormary-2008-2857e0c5a717.md
 ---
+
 
 # Professor Mary Turnbull. Obituary
 

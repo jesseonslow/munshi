@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-009-padangbrahrangestate-1882-4c1e9f5d07f0
+source_path: ../sources/jsbras-009-padangbrahrangestate-1882-4c1e9f5d07f0.md
 ---
+
 
 # Padang Brahrang Estate, Lankat, Sumatra: rainfall for six months from 1st January to 30th June, 1882
 

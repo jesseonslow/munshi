@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-289-soenarto-saintssuperheroeswali-2005-d192c8946cca
+source_path: ../sources/jmbras-289-soenarto-saintssuperheroeswali-2005-d192c8946cca/references.md
 ---
+
 
 # From saints to superheroes: The Wali Songo myth in contemporary Indonesia’s popular genres
 

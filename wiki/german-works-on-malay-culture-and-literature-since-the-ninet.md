@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-293-graf-germanworksmalay-2007-1ebad0d7cd07
+source_path: ../sources/jmbras-293-graf-germanworksmalay-2007-1ebad0d7cd07/references.md
 ---
+
 
 # German works on Malay culture and literature since the nineteenth century
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-269-sheppard-notefishingindustry-1995-4346ac2ad9ab
+source_path: ../sources/jmbras-269-sheppard-notefishingindustry-1995-4346ac2ad9ab.md
 ---
+
 
 # A note on the fishing industry in Kelantan, 1933
 

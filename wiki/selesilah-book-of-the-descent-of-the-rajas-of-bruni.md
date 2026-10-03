@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-030-luering-vocabularydusunlanguage-1897-e77c2a6906a4
+source_path: ../sources/jsbras-030-luering-vocabularydusunlanguage-1897-e77c2a6906a4.md
 ---
+
 
 # Selesilah: book of the descent of the Rajas of Bruni
 

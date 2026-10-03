@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-261-hooker-swettenhamsmanuscripthikayat-1991-be36f3c40266
+source_path: ../sources/jmbras-261-hooker-swettenhamsmanuscripthikayat-1991-be36f3c40266.md
 ---
+
 
 # Swettenham’s manuscript of Hikayat Hang Tuah
 

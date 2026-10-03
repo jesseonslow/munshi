@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-049-abbott-barkcanoesamong-1907-98142aaf6e2f
+source_path: ../sources/jsbras-049-abbott-barkcanoesamong-1907-98142aaf6e2f.md
 ---
+
 
 # Bark canoes among the Jakuns and Dyaks
 

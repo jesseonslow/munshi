@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-156-besar-panchapersada-1951-1908eb00e1e8
+source_path: ../sources/jmalayanras-156-besar-panchapersada-1951-1908eb00e1e8.md
 ---
+
 
 # The Pancha Persada. To’ Muda Orang Kaya Besar and Mat Som
 

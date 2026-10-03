@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-104-dalton-visitislandseast-1928-3f63474576db
+source_path: ../sources/jmalayanras-104-dalton-visitislandseast-1928-3f63474576db.md
 ---
+
 
 # A visit to some islands off the east coast of Johore and Pahang
 

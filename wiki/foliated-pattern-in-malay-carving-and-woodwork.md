@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-076-winstedt-foliatedpatternmalay-1917-9169c5196e67
+source_path: ../sources/jsbras-076-winstedt-foliatedpatternmalay-1917-9169c5196e67.md
 ---
+
 
 # Foliated pattern in Malay carving and woodwork
 

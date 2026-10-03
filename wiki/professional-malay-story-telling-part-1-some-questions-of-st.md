@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-223-bastin-javajournaldr-1973-1a750eb67381
+source_path: ../sources/jmbras-223-bastin-javajournaldr-1973-1a750eb67381/index.md
 ---
+
 
 # Professional Malay story-telling. Part 1: some questions of style and presentation
 

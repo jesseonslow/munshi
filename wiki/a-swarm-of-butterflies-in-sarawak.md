@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-039-shelford-swarmbutterfliessarawak-1903-5103788c3fd4
+source_path: ../sources/jsbras-039-shelford-swarmbutterfliessarawak-1903-5103788c3fd4.md
 ---
+
 
 # A swarm of butterflies in Sarawak
 

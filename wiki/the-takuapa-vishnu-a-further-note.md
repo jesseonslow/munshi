@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-213-oconnor-takuapaviunote-1968-15a81b5cafa6
+source_path: ../sources/jmbras-213-oconnor-takuapaviunote-1968-15a81b5cafa6.md
 ---
+
 
 # The Takuapa Vishnu: a further note
 

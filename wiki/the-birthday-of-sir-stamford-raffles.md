@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-142-wurtzburg-birthdaysirstamford-1947-8eec72507769
+source_path: ../sources/jmalayanras-142-wurtzburg-birthdaysirstamford-1947-8eec72507769.md
 ---
+
 
 # The birthday of Sir Stamford Raffles
 

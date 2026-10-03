@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-055-maxwell-hikayatsrirama-1910-05498bf80ecc
+source_path: ../sources/jsbras-055-maxwell-hikayatsrirama-1910-05498bf80ecc.md
 ---
+
 
 # Berunai in the Boxer Codex: with commentary
 

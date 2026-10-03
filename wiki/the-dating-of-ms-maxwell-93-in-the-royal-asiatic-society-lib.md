@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-221-jones-datingmsmaxwell-1972-2a17d52bcfb1
+source_path: ../sources/jmbras-221-jones-datingmsmaxwell-1972-2a17d52bcfb1.md
 ---
+
 
 # The dating of Ms Maxwell 93 in the Royal Asiatic Society Library
 

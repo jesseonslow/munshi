@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-319-subramaniam-orangasliland-2020-f79fce6ef917
+source_path: ../sources/jmbras-319-subramaniam-orangasliland-2020-f79fce6ef917/references.md
 ---
+
 
 # Orang Asli land and resource rights in the Malay States, 1874–1939
 

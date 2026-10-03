@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-117-farrer-buddhisticpurificationceremony-1933-3fb52599b66c
+source_path: ../sources/jmalayanras-117-farrer-buddhisticpurificationceremony-1933-3fb52599b66c.md
 ---
+
 
 # A Buddhist purification ceremony
 

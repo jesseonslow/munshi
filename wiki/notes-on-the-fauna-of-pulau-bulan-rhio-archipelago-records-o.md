@@ -28,7 +28,10 @@ reprints:
   volume: 3
   year: 1925
   absorbed_slug: notes-on-the-fauna-of-pulau-galang-rhio-archipelago-records-
+source_doc: jmalayanras-090-chasen-notesfaunapulau-1924-9053d0508c98
+source_path: ../sources/jmalayanras-090-chasen-notesfaunapulau-1924-9053d0508c98.md
 ---
+
 
 
 # Notes on the fauna of Pulau Bulan, Rhio Archipelago. Records of the Raffles Museum, No. 2

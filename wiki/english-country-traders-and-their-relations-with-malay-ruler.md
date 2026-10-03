@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-300-miller-englishcountrytraders-2011-f3a02b2edf64
+source_path: ../sources/jmbras-300-miller-englishcountrytraders-2011-f3a02b2edf64/references.md
 ---
+
 
 # English country traders and their relations with Malay rulers in the late eighteenth century
 

@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-205-bastin-oldpenangtombstones-1964-9ac6ce433634
+source_path: ../sources/jmbras-205-bastin-oldpenangtombstones-1964-9ac6ce433634/index.md
 ---
+
 
 # Some old Penang tombstones. C. Bastin and J. Bastin
 

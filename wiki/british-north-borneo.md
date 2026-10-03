@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-014-gueritz-britishnorthborneo-1884-eb69c21dd099
+source_path: ../sources/jsbras-014-gueritz-britishnorthborneo-1884-eb69c21dd099.md
 ---
+
 
 # British North Borneo
 

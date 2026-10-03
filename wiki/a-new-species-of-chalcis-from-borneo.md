@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-042-cameron-newspecieschalcis-1905-f2183ccda65a
+source_path: ../sources/jsbras-042-cameron-newspecieschalcis-1905-f2183ccda65a.md
 ---
+
 
 # A new species of Chalcis from Borneo
 

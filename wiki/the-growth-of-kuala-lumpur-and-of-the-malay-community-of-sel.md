@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-258-gullick-growthkualalumpur-1990-e1c0c239fa73
+source_path: ../sources/jmbras-258-gullick-growthkualalumpur-1990-e1c0c239fa73/appendix.md
 ---
+
 
 # The growth of Kuala Lumpur and of the Malay community of Selangor before 1880
 

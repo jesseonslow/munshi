@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-097-abdullah-mandiayergawar-1926-005716255fc7
+source_path: ../sources/jmalayanras-097-abdullah-mandiayergawar-1926-005716255fc7.md
 ---
+
 
 # Some First-Hand Accounts of the Japanese Occupation
 

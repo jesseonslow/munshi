@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-231-medway-ancientdomesticdogs-1977-a1c5ba19f773
+source_path: ../sources/jmbras-231-medway-ancientdomesticdogs-1977-a1c5ba19f773/appendix.md
 ---
+
 
 # The ancient domestic dogs of Malaysia
 

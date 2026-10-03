@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-050-horn-twonewspecies-1908-80da4bb27097
+source_path: ../sources/jsbras-050-horn-twonewspecies-1908-80da4bb27097.md
 ---
+
 
 # Two new species of Cicindela (Tiger beetles) from Borneo
 

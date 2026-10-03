@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-079-winstedt-hadramautsaiyidsperak-1918-7859f035a090
+source_path: ../sources/jsbras-079-winstedt-hadramautsaiyidsperak-1918-7859f035a090.md
 ---
+
 
 # The Hadramaut Sayids of Perak and Siak
 

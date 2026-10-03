@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-210-ahmat-josephbbalestier-1966-6a6049fe2945
+source_path: ../sources/jmbras-210-ahmat-josephbbalestier-1966-6a6049fe2945.md
 ---
+
 
 # Joseph B. Balestier: the first American consul in Singapore 1833–1852
 

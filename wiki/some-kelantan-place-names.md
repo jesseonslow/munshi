@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-117-bee-kelantanplacenames-1933-8999b2a7eca9
+source_path: ../sources/jmalayanras-117-bee-kelantanplacenames-1933-8999b2a7eca9.md
 ---
+
 
 # Some Kelantan place names
 

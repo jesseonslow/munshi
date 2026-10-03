@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-173-needham-ethnographicnotessiwang-1956-c05f85c94378
+source_path: ../sources/jmalayanras-173-needham-ethnographicnotessiwang-1956-c05f85c94378.md
 ---
+
 
 # Ethnographic notes on the Siwang of central Malaya
 

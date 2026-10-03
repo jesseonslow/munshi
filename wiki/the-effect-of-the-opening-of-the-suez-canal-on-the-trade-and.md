@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-169-bogaars-effectopeningsuez-1955-aa881e8d0b51
+source_path: ../sources/jmalayanras-169-bogaars-effectopeningsuez-1955-aa881e8d0b51/appendix.md
 ---
+
 
 # The effect of the opening of the Suez Canal on the trade and development of Singapore
 

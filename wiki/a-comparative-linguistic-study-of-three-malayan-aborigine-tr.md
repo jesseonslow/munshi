@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-232-means-comparativelinguisticstudy-1977-72b91efdd630
+source_path: ../sources/jmbras-232-means-comparativelinguisticstudy-1977-72b91efdd630.md
 ---
+
 
 # A comparative linguistic study of three Malayan aborigine tribes
 

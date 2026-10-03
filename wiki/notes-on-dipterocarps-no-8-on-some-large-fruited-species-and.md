@@ -21,7 +21,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-086-burkill-notesdipterocarpsno-1922-1-ba50fea4d827
+source_path: ../sources/jsbras-086-burkill-notesdipterocarpsno-1922-1-ba50fea4d827.md
 ---
+
 
 # Notes on Dipterocarps. {No. 8} On some large-fruited species, and in particular upon the effects of the pressure of the embryo against the interior of the fruit-wall
 

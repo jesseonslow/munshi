@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-077-burkill-noteuponway-1917-459822d6f9c3
+source_path: ../sources/jsbras-077-burkill-noteuponway-1917-459822d6f9c3.md
 ---
+
 
 # A note upon the way in which bees settle on flowers of Derris thyrsi-flora and the injury resulting from their search for honey
 

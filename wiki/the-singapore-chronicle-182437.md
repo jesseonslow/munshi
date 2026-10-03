@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-161-gibsonhill-singaporechronicle182437-1953-cc486f6d3bf4
+source_path: ../sources/jmalayanras-161-gibsonhill-singaporechronicle182437-1953-cc486f6d3bf4.md
 ---
+
 
 # The Singapore Chronicle, 1824–37
 

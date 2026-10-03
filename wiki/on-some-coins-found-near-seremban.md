@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-108-neilson-coinsfoundnear-1929-73fdb7e10902
+source_path: ../sources/jmalayanras-108-neilson-coinsfoundnear-1929-73fdb7e10902.md
 ---
+
 
 # On some coins found near Seremban
 

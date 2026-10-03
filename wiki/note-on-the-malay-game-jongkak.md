@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-049-hellier-notemalaygame-1907-9d74d0e68970
+source_path: ../sources/jsbras-049-hellier-notemalaygame-1907-9d74d0e68970.md
 ---
+
 
 # Note on the Malay game ‘jongkak’
 

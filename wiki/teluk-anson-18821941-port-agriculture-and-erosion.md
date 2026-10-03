@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-269-kim-telukanson18821941-1995-a46c52c35134
+source_path: ../sources/jmbras-269-kim-telukanson18821941-1995-a46c52c35134.md
 ---
+
 
 # Teluk Anson, 1882–1941: port, agriculture and erosion
 

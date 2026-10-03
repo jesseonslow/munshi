@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-153-wales-sabaeanspossibleegyptian-1950-d7816166d897
+source_path: ../sources/jmalayanras-153-wales-sabaeanspossibleegyptian-1950-d7816166d897.md
 ---
+
 
 # The Savaeans and possible Egyptian influences in Indonesia
 

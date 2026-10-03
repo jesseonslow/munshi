@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-103-ahmad-jawispelling-1928-a55ecf9f095f
+source_path: ../sources/jmalayanras-103-ahmad-jawispelling-1928-a55ecf9f095f.md
 ---
+
 
 # Jawi spelling
 

@@ -25,7 +25,10 @@ reprints:
   volume: 47
   year: 1974
   absorbed_slug: the-antiquity-of-domesticated-pigs-in-sarawak-corrigenda
+source_doc: jmbras-224-medway-amiquitydomesticatedpigs-1973-6f04be068c0c
+source_path: ../sources/jmbras-224-medway-amiquitydomesticatedpigs-1973-6f04be068c0c.md
 ---
+
 
 
 # The antiquity of domesticated pigs in Sarawak

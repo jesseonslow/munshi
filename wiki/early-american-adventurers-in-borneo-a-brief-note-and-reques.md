@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-216-appell-earlyamericanadventurers-1969-c8ab10b64e6e
+source_path: ../sources/jmbras-216-appell-earlyamericanadventurers-1969-c8ab10b64e6e.md
 ---
+
 
 # Early American adventurers in Borneo: a brief note and request for information
 

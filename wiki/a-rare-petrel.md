@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-087-chasen-rarepetrel-1923-7b0bc5570246
+source_path: ../sources/jmalayanras-087-chasen-rarepetrel-1923-7b0bc5570246.md
 ---
+
 
 # A rare petrel
 

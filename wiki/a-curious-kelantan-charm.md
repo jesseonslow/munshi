@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-082-gimlette-curiouskelantancharm-1920-0f405f8cf41b
+source_path: ../sources/jsbras-082-gimlette-curiouskelantancharm-1920-0f405f8cf41b.md
 ---
+
 
 # A curious Kelantan charm
 

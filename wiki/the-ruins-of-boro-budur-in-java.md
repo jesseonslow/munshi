@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-006-hose-ruinsborobudur-1880-abf6391a850a
+source_path: ../sources/jsbras-006-hose-ruinsborobudur-1880-abf6391a850a.md
 ---
+
 
 # The ruins of Boro Budur in Java
 

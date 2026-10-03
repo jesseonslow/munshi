@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-126-sheehan-installationtuankuabdulrahman-1936-55adf1a339dc
+source_path: ../sources/jmalayanras-126-sheehan-installationtuankuabdulrahman-1936-55adf1a339dc.md
 ---
+
 
 # The installation of Tuanku Abdul-Rahman ibini Al-Marhum Tuanku Muhammad Shah as Yang di-Pertuan, Negri Sembilan
 

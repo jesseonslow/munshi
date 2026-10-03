@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-097-linehan-tombstonesmuhammadshah-1926-d8741e956d28
+source_path: ../sources/jmalayanras-097-linehan-tombstonesmuhammadshah-1926-d8741e956d28.md
 ---
+
 
 # Tomb-stones of Mahmud Shah I of Pahang
 

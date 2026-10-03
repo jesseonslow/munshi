@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-019-l-wray-reportpadiborer-1887-1d3e086fe197
+source_path: ../sources/jsbras-019-l-wray-reportpadiborer-1887-1d3e086fe197.md
 ---
+
 
 # Report on the padi-borer
 

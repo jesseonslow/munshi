@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-097-willbourn-journeyulurompin-1926-e6f5c65c123a
+source_path: ../sources/jmalayanras-097-willbourn-journeyulurompin-1926-e6f5c65c123a.md
 ---
+
 
 # A journey in the Ulu Rompin district, south-east Pahang
 

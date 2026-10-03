@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-015-couvreur-missionarysjourneylaos-1885-1c7cd12efb46
+source_path: ../sources/jsbras-015-couvreur-missionarysjourneylaos-1885-1c7cd12efb46.md
 ---
+
 
 # A missionary’s journey through Laos from Bangkok to Ubon (.E. Maxwell
 

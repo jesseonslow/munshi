@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-045-kloss-johorepython-1906-c7485b717242
+source_path: ../sources/jsbras-045-kloss-johorepython-1906-c7485b717242.md
 ---
+
 
 # A Johore python
 

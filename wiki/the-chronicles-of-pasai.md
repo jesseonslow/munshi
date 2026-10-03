@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-132-winstedt-chroniclespasai-1938-79a0fd0ee737
+source_path: ../sources/jmalayanras-132-winstedt-chroniclespasai-1938-79a0fd0ee737.md
 ---
+
 
 # The chronicles of Pasai
 

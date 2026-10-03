@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-077-merrill-alabastraborneensia-1917-f735a454fdee
+source_path: ../sources/jsbras-077-merrill-alabastraborneensia-1917-f735a454fdee.md
 ---
+
 
 # Alabastra borneensia
 

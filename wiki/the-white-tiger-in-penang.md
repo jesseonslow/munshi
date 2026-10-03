@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-151-sim-whitetigerpenang-1950-d8eec21029ef
+source_path: ../sources/jmalayanras-151-sim-whitetigerpenang-1950-d8eec21029ef.md
 ---
+
 
 # The “white tiger” in Penang
 

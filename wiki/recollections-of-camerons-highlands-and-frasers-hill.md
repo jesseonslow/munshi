@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-111-scrivenor-recollectionscameronshighlands-1931-a8c6c33ece8f
+source_path: ../sources/jmalayanras-111-scrivenor-recollectionscameronshighlands-1931-a8c6c33ece8f.md
 ---
+
 
 # Recollections of Cameron’s Highlands and Fraser’s Hill
 

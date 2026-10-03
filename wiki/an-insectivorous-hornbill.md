@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-054-moulton-insectivoroushornbill-1910-0dfb5609c13c
+source_path: ../sources/jsbras-054-moulton-insectivoroushornbill-1910-0dfb5609c13c.md
 ---
+
 
 # An insectivorous hornbill
 

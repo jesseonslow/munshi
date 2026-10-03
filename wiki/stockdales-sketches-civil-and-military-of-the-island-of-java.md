@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-248-bastin-stockdalessketchescivil-1985-798a4028aaad
+source_path: ../sources/jmbras-248-bastin-stockdalessketchescivil-1985-798a4028aaad.md
 ---
+
 
 # Stockdale’s sketches, civil and military, of the island of Java: a bibliographical note
 

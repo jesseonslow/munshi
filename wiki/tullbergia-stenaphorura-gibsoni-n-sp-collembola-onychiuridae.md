@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-208-murphy-tullbergiastenaphoruragibsoni-1965-564d20b00e4b
+source_path: ../sources/jmbras-208-murphy-tullbergiastenaphoruragibsoni-1965-564d20b00e4b.md
 ---
+
 
 # Tullbergia (Stenaphorura) gibsoni n. sp. (Collembola, Onychiuridae) from grass land soils in Singapore
 

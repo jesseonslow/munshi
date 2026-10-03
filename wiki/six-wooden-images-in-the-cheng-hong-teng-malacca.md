@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-169-gibsonhill-sixwoodenimages-1955-ba89cb5444f2
+source_path: ../sources/jmalayanras-169-gibsonhill-sixwoodenimages-1955-ba89cb5444f2.md
 ---
+
 
 # Six wooden images in the Cheng Hong Teng, Malacca
 

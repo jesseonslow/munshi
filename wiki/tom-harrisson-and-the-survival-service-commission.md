@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-231-fitter-tomsurvivalservice-1977-64689f8b1004
+source_path: ../sources/jmbras-231-fitter-tomsurvivalservice-1977-64689f8b1004.md
 ---
+
 
 # Tom {Harrisson} and the Survival Service Commission
 

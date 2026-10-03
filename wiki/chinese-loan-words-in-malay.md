@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-090-hamilton-chineseloanwordsmalay-1924-3e06cda450c0
+source_path: ../sources/jmalayanras-090-hamilton-chineseloanwordsmalay-1924-3e06cda450c0.md
 ---
+
 
 # Chinese loan-words in Malay
 

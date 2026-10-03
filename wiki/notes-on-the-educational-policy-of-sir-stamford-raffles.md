@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-117-hough-noteseducationalpolicy-1933-71bc9b9ea6eb
+source_path: ../sources/jmalayanras-117-hough-noteseducationalpolicy-1933-71bc9b9ea6eb.md
 ---
+
 
 # Notes on the educational policy of Sir Stamford Raffles
 

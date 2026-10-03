@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: frontmatter
+source_path: ../sources/jmbras-301-porath-hikayatpatanikingdom-2011-af5e8cc51b79/frontmatter.md
 ---
+
 
 # ‘Traitor of all traitors’― secret agent extraordinaire : Lai Teck, secretary-general, Communist Party of Malaya
 

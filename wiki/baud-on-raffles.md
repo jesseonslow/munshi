@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-154-coolhaas-baudraffles-1951-5beeb728ac53
+source_path: ../sources/jmalayanras-154-coolhaas-baudraffles-1951-5beeb728ac53.md
 ---
+
 
 # Baud on Raffles
 

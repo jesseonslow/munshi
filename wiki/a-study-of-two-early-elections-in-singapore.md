@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-221-wah-studytwoearly-1972-e57f441d0cf9
+source_path: ../sources/jmbras-221-wah-studytwoearly-1972-e57f441d0cf9.md
 ---
+
 
 # A study of two early elections in Singapore
 

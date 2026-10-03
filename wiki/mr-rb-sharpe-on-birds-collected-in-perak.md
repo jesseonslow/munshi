@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-147-editorial-1948-8345d89346b2
+source_path: ../sources/jmalayanras-147-editorial-1948-8345d89346b2.md
 ---
+
 
 # Mr. R.B. Sharpe on birds collected in Perak
 

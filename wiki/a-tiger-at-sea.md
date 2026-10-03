@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-085-moulton-tigersea-1922-a7d764dd8eb0
+source_path: ../sources/jsbras-085-moulton-tigersea-1922-a7d764dd8eb0.md
 ---
+
 
 # A tiger at sea
 

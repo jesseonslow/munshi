@@ -21,7 +21,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-167-winstedt-digestcustomarylaw-1954-95772c2f625f
+source_path: ../sources/jmalayanras-167-winstedt-digestcustomarylaw-1954-95772c2f625f.md
 ---
+
 
 # A digest of customary law from Sungai Ujong. R.O. Winstedt and P.E. de Josselin de Jong
 

@@ -25,7 +25,10 @@ amendments:
   page: '157'
 status: stub
 published: false
+source_doc: jmalayanras-143-macbryan-twobruneicharms-1947-78dafeab2bcb
+source_path: ../sources/jmalayanras-143-macbryan-twobruneicharms-1947-78dafeab2bcb.md
 ---
+
 
 # Two Brunei charms. Tr G.T. MacBryan and Mohd. Yusof Shibli
 

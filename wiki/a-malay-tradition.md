@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-138-cardon-malaytradition-1940-27473f8855d2
+source_path: ../sources/jmalayanras-138-cardon-malaytradition-1940-27473f8855d2.md
 ---
+
 
 # A Malay tradition
 

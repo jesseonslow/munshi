@@ -21,7 +21,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-165-harrison-malaccaeighteenthcentury-1954-1a96dc4e152d
+source_path: ../sources/jmalayanras-165-harrison-malaccaeighteenthcentury-1954-1a96dc4e152d.md
 ---
+
 
 # Malacca in the eighteenth century: two Dutch governors’ reports; . Harrison
 

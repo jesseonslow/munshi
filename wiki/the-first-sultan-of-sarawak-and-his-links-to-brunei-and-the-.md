@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-303-larsen-firstsultansarawak-2012-5d57207295dc
+source_path: ../sources/jmbras-303-larsen-firstsultansarawak-2012-5d57207295dc/references.md
 ---
+
 
 # The first Sultan of Sarawak and his links to Brunei and the Sambas dynasty, 1599–1826
 

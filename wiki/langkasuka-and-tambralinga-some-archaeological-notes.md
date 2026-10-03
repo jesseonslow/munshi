@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-225-wales-langkasukatambralingaarchaeological-1974-39c5c9df73ae
+source_path: ../sources/jmbras-225-wales-langkasukatambralingaarchaeological-1974-39c5c9df73ae.md
 ---
+
 
 # Langkasuka and Tambralinga: some archaeological notes
 

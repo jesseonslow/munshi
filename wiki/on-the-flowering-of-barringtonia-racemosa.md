@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-041-ridley-floweringbarringtoniaracemosa-1904-4dfb7dfc3308
+source_path: ../sources/jsbras-041-ridley-floweringbarringtoniaracemosa-1904-4dfb7dfc3308.md
 ---
+
 
 # On the flowering of Barringtonia racemosa
 

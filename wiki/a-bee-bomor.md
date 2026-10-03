@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-098-gimlette-beebomor-1926-17fb2958ba05
+source_path: ../sources/jmalayanras-098-gimlette-beebomor-1926-17fb2958ba05.md
 ---
+
 
 # A bee bomor
 

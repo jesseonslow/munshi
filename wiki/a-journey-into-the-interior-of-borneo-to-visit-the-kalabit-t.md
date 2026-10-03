@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-049-douglas-journeyinteriorborneo-1907-82d06d779b6f
+source_path: ../sources/jsbras-049-douglas-journeyinteriorborneo-1907-82d06d779b6f.md
 ---
+
 
 # A journey into the interior of Borneo to visit the Kalabit tribes
 

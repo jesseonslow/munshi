@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-276-seong-malaywordsbaba-1999-a5f89e01c09a
+source_path: ../sources/jmbras-276-seong-malaywordsbaba-1999-a5f89e01c09a/appendix.md
 ---
+
 
 # “Di dalam nama dan kerananya kita”: A pair of Malay and Javanese letters by Sir Thomas Stamford Raffles
 

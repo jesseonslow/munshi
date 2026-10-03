@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-260-sheppard-patriotsmemorialkuching-1991-9838650f7bb9
+source_path: ../sources/jmbras-260-sheppard-patriotsmemorialkuching-1991-9838650f7bb9.md
 ---
+
 
 # A patriot’s memorial in Kuching
 

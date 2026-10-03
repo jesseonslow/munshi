@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-185-gibsonhill-georgesamuelwindsor-1959-e61d8811a0ca
+source_path: ../sources/jmalayanras-185-gibsonhill-georgesamuelwindsor-1959-e61d8811a0ca.md
 ---
+
 
 # George Samuel Windsor Earl
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-093-ahmad-datoparoweretiger-1925-992070decea1
+source_path: ../sources/jmalayanras-093-ahmad-datoparoweretiger-1925-992070decea1.md
 ---
+
 
 # Dato’ Paroi, were-tiger
 

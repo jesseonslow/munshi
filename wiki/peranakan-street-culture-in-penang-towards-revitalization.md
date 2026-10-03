@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-297-beng-peranakanstreetculture-2009-10949c90bd15
+source_path: ../sources/jmbras-297-beng-peranakanstreetculture-2009-10949c90bd15/references.md
 ---
+
 
 # Peranakan street culture in Penang: towards revitalization
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-016-rowell-meteorologicalreportyear-1885-a845e7fd8dba
+source_path: ../sources/jsbras-016-rowell-meteorologicalreportyear-1885-a845e7fd8dba.md
 ---
+
 
 # Meteorological report for the year 1885
 

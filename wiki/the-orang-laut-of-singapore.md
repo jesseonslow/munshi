@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-033-skeat-oranglautsingapore-1900-8847439810a4
+source_path: ../sources/jsbras-033-skeat-oranglautsingapore-1900-8847439810a4.md
 ---
+
 
 # The Orang Laut of Singapore
 

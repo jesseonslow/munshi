@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-060-barnes-singaporeoldstraits-1911-f740698efc71
+source_path: ../sources/jsbras-060-barnes-singaporeoldstraits-1911-f740698efc71.md
 ---
+
 
 # Singapore old Straits and new harbour
 

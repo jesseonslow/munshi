@@ -26,7 +26,10 @@ amendments:
   page: '229'
 status: stub
 published: false
+source_doc: jsbras-042-cameron-descriptionsnewspecies-1905-5c201445a2d6
+source_path: ../sources/jsbras-042-cameron-descriptionsnewspecies-1905-5c201445a2d6.md
 ---
+
 
 # Description of new species of Iphiaulax and Chaolta (Braconidae) from Sarawak, Borneo
 

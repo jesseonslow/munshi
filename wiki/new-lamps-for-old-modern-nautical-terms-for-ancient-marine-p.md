@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-302-rivers-newlampsold-2012-8bfd73438795
+source_path: ../sources/jmbras-302-rivers-newlampsold-2012-8bfd73438795/references.md
 ---
+
 
 # New lamps for old: modern nautical terms for ancient marine practices and the navigation of the Zheng He voyages
 

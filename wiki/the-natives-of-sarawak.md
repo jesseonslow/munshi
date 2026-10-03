@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-138-banks-nativessarawak-1940-b5e5f11985fc
+source_path: ../sources/jmalayanras-138-banks-nativessarawak-1940-b5e5f11985fc.md
 ---
+
 
 # The natives of Sarawak
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-001-skinner-geographymalaypeninsula-1878-2ff2541b57cf
+source_path: ../sources/jsbras-001-skinner-geographymalaypeninsula-1878-2ff2541b57cf.md
 ---
+
 
 # Geography of the Malay Peninsula
 

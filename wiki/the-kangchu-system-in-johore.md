@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-126-coope-kangchusystemjohore-1936-97a5d506a6b9
+source_path: ../sources/jmalayanras-126-coope-kangchusystemjohore-1936-97a5d506a6b9.md
 ---
+
 
 # The kangchu system in Johore
 

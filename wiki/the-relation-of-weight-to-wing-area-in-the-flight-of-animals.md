@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-110-banks-relationweightwing-1930-28338ff77cf7
+source_path: ../sources/jmalayanras-110-banks-relationweightwing-1930-28338ff77cf7.md
 ---
+
 
 # The relation of weight to wing area in the flight of animals
 

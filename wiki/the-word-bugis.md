@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-311-kratoska-wroteyellowsleuth-2016-5d5f9766c32a
+source_path: ../sources/jmbras-311-kratoska-wroteyellowsleuth-2016-5d5f9766c32a.md
 ---
+
 
 # The word Bugis
 

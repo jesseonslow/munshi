@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-098-overbeck-silsilahmelayudan-1926-5b9ed78bc37e
+source_path: ../sources/jmalayanras-098-overbeck-silsilahmelayudan-1926-5b9ed78bc37e.md
 ---
+
 
 # Silsilah Melayu dan Bugis dan Sakalian Raja-raja-nya. . Overbeck
 

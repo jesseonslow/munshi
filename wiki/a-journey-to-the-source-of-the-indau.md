@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-025-rulesstraitsasiatic-1894-01d9a9c7a185
+source_path: ../sources/jsbras-025-rulesstraitsasiatic-1894-01d9a9c7a185.md
 ---
+
 
 # A journey to the source of the Indau
 

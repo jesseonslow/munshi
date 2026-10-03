@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-143-linehan-notesai-1947-2d235deeee0b
+source_path: ../sources/jmalayanras-143-linehan-notesai-1947-2d235deeee0b.md
 ---
+
 
 # A note on Sai
 

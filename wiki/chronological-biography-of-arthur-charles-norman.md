@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-272-ahmad-chronologicalbiographyarthur-1997-a3931eeb0a0f
+source_path: ../sources/jmbras-272-ahmad-chronologicalbiographyarthur-1997-a3931eeb0a0f.md
 ---
+
 
 # Chronological biography of Arthur Charles Norman
 

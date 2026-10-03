@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-225-eong-ringgit-1974-15d339fbe00b
+source_path: ../sources/jmbras-225-eong-ringgit-1974-15d339fbe00b.md
 ---
+
 
 # Ringgit
 

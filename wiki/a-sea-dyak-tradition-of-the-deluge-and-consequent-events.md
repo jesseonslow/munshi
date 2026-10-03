@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-006-perham-seadyaktraditiondeluge-1880-6f508613f17e
+source_path: ../sources/jsbras-006-perham-seadyaktraditiondeluge-1880-6f508613f17e.md
 ---
+
 
 # A Sea Dyak tradition of the deluge and consequent events
 

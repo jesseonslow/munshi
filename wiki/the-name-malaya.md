@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-032-blagden-namemalayu-1899-a6a6a9bf5db0
+source_path: ../sources/jsbras-032-blagden-namemalayu-1899-a6a6a9bf5db0.md
 ---
+
 
 # The name “Malaya”
 

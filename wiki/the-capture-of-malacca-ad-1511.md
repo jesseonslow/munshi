@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-061-wilkinson-capturemalaccaad-1912-63c774154f23
+source_path: ../sources/jsbras-061-wilkinson-capturemalaccaad-1912-63c774154f23.md
 ---
+
 
 # The capture of Malacca, A.D. 1511
 

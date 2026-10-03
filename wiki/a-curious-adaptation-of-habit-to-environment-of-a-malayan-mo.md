@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-075-strickland-curiousadaptationhabit-1917-76a4d5c4891c
+source_path: ../sources/jsbras-075-strickland-curiousadaptationhabit-1917-76a4d5c4891c.md
 ---
+
 
 # A curious adaptation of habit to environment of a Malayan mosquito
 

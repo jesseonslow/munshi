@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-297-nasution-hokkienchinesephuket-2009-30f272f2f19c
+source_path: ../sources/jmbras-297-nasution-hokkienchinesephuket-2009-30f272f2f19c/references.md
 ---
+
 
 # Hokkien Chinese on the Phuket mining frontier: the Penang connection and the emergence of the Phuket Baba community
 

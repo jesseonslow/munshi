@@ -25,7 +25,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: parrenas-power-care-species-difference-77336283812f
+source_path: ../sources/parrenas-power-care-species-difference-77336283812f.md
 ---
+
 
 # Power, Care and Species Difference in Orangutan Rehabilitation in Sarawak: A Roundtable. J.S. Parreñas, Alicia Izharuddin, M.B. Haines, Faizah Zakaria, and R. Cribb
 

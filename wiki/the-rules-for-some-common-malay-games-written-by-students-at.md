@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-105-bazell-rulescommonmalay-1928-5cc9a23cf044
+source_path: ../sources/jmalayanras-105-bazell-rulescommonmalay-1928-5cc9a23cf044.md
 ---
+
 
 # The rules for some common Malay games written by students at the Malay College, Kuala Kangsar and communicated by C. Bazell {Headmaster
 

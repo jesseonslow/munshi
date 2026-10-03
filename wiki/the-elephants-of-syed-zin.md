@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-250-gullick-elephantssyedzin-1986-8655ca37c5ee
+source_path: ../sources/jmbras-250-gullick-elephantssyedzin-1986-8655ca37c5ee.md
 ---
+
 
 # The elephants of Syed Zin
 

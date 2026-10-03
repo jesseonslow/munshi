@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-189-holttum-henrynicholasridley-1960-3dcb133f6f0c
+source_path: ../sources/jmalayanras-189-holttum-henrynicholasridley-1960-3dcb133f6f0c.md
 ---
+
 
 # Henry Nicholas Ridley. Obituary
 

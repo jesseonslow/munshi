@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-076-burkill-gordonia-1917-a5f39da2a697
+source_path: ../sources/jsbras-076-burkill-gordonia-1917-a5f39da2a697.md
 ---
+
 
 # Gordonia
 

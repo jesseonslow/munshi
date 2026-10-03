@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-024-bott-allegeddiscoverymercury-1891-4f25ac24a88f
+source_path: ../sources/jsbras-024-bott-allegeddiscoverymercury-1891-4f25ac24a88f.md
 ---
+
 
 # The alleged discovery of mercury in Malacca
 

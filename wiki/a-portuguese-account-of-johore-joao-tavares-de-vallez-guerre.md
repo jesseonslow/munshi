@@ -27,7 +27,10 @@ amendments:
   page: '332'
 status: stub
 published: false
+source_doc: jmalayanras-122-hughes-portugueseaccountjohore-1935-825eea0ac042
+source_path: ../sources/jmalayanras-122-hughes-portugueseaccountjohore-1935-825eea0ac042/chapter-03.md
 ---
+
 
 # A Portuguese account of Johore. Joao Tavares de Vallez Guerreiro. {Extracts from Jornado de Antonio de Albuquerque Coelho
 

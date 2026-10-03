@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-223-bastin-javajournaldr-1973-1a750eb67381
+source_path: ../sources/jmbras-223-bastin-javajournaldr-1973-1a750eb67381/index.md
 ---
+
 
 # The Java journal of Dr Joseph Arnold. .S. Bastin
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-042-blagden-drbrandstettersmalayopolynesian-1905-be43ad1321b5
+source_path: ../sources/jsbras-042-blagden-drbrandstettersmalayopolynesian-1905-be43ad1321b5.md
 ---
+
 
 # Dr. Brandstetter’s Malayo-Polynesian researches: an appreciation
 

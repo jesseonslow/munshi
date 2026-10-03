@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-020-everett-listbirdsbornean-1889-22d7ca9c1c98
+source_path: ../sources/jsbras-020-everett-listbirdsbornean-1889-22d7ca9c1c98.md
 ---
+
 
 # A list of the birds of the Bornean group of islands
 

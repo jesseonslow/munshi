@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-142-yuntsiao-notestantan-1947-f1bb22ee8904
+source_path: ../sources/jmalayanras-142-yuntsiao-notestantan-1947-f1bb22ee8904.md
 ---
+
 
 # Notes on Tan Tan
 

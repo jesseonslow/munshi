@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-087-kloss-arcticamok-1923-39f3726105f0
+source_path: ../sources/jmalayanras-087-kloss-arcticamok-1923-39f3726105f0.md
 ---
+
 
 # Arctic amok
 

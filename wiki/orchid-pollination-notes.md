@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-102-carr-orchidpollinationnotes-1928-1973080878d6
+source_path: ../sources/jmalayanras-102-carr-orchidpollinationnotes-1928-1973080878d6.md
 ---
+
 
 # Orchid pollination notes
 

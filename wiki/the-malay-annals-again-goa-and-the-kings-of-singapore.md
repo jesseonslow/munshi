@@ -24,7 +24,10 @@ amendments:
   page: '155'
 status: stub
 published: false
+source_doc: jmalayanras-151-erratamalayannals-1950-a45e11b69682
+source_path: ../sources/jmalayanras-151-erratamalayannals-1950-a45e11b69682.md
 ---
+
 
 # The Malay Annals again, Goa and the kings of Singapore
 

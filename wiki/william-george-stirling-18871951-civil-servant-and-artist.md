@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-315-forrest-williamgeorgestirling-2018-9bcaaf6b885e
+source_path: ../sources/jmbras-315-forrest-williamgeorgestirling-2018-9bcaaf6b885e.md
 ---
+
 
 # William George Stirling (1887–1951): civil servant and artist
 

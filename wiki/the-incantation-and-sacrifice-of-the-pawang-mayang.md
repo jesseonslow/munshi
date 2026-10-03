@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-095-clarke-incantationsacrificepawang-1925-4c2b1cb5a794
+source_path: ../sources/jmalayanras-095-clarke-incantationsacrificepawang-1925-4c2b1cb5a794.md
 ---
+
 
 # The incantation and sacrifice of the Pawang Ma’yang
 

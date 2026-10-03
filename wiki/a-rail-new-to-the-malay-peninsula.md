@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-085-moulton-railnewmalay-1922-b777225881fa
+source_path: ../sources/jsbras-085-moulton-railnewmalay-1922-b777225881fa.md
 ---
+
 
 # A rail new to the Malay Peninsula
 

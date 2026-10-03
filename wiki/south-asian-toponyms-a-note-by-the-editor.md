@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-240-southasiantoponyms-1981-431689d5d6d6
+source_path: ../sources/jmbras-240-southasiantoponyms-1981-431689d5d6d6.md
 ---
+
 
 # South Asian toponyms: a note by the editor
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-175-irwin-governorcouperussurrender-1956-3a2ca27582f8
+source_path: ../sources/jmalayanras-175-irwin-governorcouperussurrender-1956-3a2ca27582f8.md
 ---
+
 
 # Governor Couperus and the surrender of Malacca, 1795
 

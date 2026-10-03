@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-090-overbeck-listantssingapore-1924-4c336dc0532f
+source_path: ../sources/jmalayanras-090-overbeck-listantssingapore-1924-4c336dc0532f.md
 ---
+
 
 # Some ants from Singapore and neighbouring places
 

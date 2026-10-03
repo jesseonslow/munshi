@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-153-ramsay-noteskampongofficials-1950-855e0fa6a055
+source_path: ../sources/jmalayanras-153-ramsay-noteskampongofficials-1950-855e0fa6a055.md
 ---
+
 
 # Notes on kampong officials in the Alor Gajah district of Malacca 1932–1935
 

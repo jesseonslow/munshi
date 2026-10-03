@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-086-burkill-notesdipterocarps6-1922-84ab50e2a2aa
+source_path: ../sources/jsbras-086-burkill-notesdipterocarps6-1922-84ab50e2a2aa.md
 ---
+
 
 # Notes on Dipterocarps. {No. 6} On the genus Pachynocarpus. I.H
 

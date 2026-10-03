@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: husni-musa-federal-education-policy-984cf20a10a4
+source_path: ../sources/husni-musa-federal-education-policy-984cf20a10a4.md
 ---
+
 
 # Federal Education Policy and the Role of Muhammad Yusof bin Ahmad, 1951–1955
 

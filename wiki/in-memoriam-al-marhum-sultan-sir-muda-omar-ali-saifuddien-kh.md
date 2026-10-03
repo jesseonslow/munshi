@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-059-scrivenor-sketchgeologicalstructure-1911-e7ac205417ff
+source_path: ../sources/jsbras-059-scrivenor-sketchgeologicalstructure-1911-e7ac205417ff.md
 ---
+
 
 # In memoriam: Al-Marhum Sultan Sir Muda Omar ‘Ali Saifuddien Khairi Wadddien. Obituary
 

@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-103-winstedt-kedahlaws-1928-2d3d4b33583d
+source_path: ../sources/jmalayanras-103-winstedt-kedahlaws-1928-2d3d4b33583d/chapter-03.md
 ---
+
 
 # Notes on the fauna of pitcher-plants from Singapore Island. C. Dover {and others
 

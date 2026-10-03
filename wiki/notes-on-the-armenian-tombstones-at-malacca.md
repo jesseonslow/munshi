@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-126-mills-notearmeniantombstones-1936-7faf1ffe1876
+source_path: ../sources/jmalayanras-126-mills-notearmeniantombstones-1936-7faf1ffe1876.md
 ---
+
 
 # Notes on the Armenian tombstones at Malacca
 

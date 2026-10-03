@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-140-winstedt-rajalangitcelestial-1941-6757f35c07cf
+source_path: ../sources/jmalayanras-140-winstedt-rajalangitcelestial-1941-6757f35c07cf.md
 ---
+
 
 # Raja Langit, the celestial emperor
 

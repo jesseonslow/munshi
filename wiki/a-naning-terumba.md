@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-105-hyde-naningterumba-1928-51230d627938
+source_path: ../sources/jmalayanras-105-hyde-naningterumba-1928-51230d627938.md
 ---
+
 
 # A Naning terumba
 

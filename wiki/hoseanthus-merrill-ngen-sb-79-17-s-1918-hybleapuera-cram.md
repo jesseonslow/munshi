@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-031-r-hybleapueracram-1898-671fedf541c6
+source_path: ../sources/jsbras-031-r-hybleapueracram-1898-671fedf541c6.md
 ---
+
 
 # Hoseanthus Merrill, n.gen. SB 79: {17} S 1918 Hybleapuera Cram
 

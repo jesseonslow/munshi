@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-108-winstedt-perakgenies-1929-6af617d2fabb
+source_path: ../sources/jmalayanras-108-winstedt-perakgenies-1929-6af617d2fabb.md
 ---
+
 
 # The Perak genies
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-039-hose-contentsdyakmedicine-1903-e7a3246dbaa1
+source_path: ../sources/jsbras-039-hose-contentsdyakmedicine-1903-e7a3246dbaa1.md
 ---
+
 
 # The contents of a Dyak medicine chest
 

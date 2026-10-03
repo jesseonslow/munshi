@@ -20,7 +20,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-319-anthony-voyagesfatherpcot-2020-e6ce05d8d625
+source_path: ../sources/jmbras-319-anthony-voyagesfatherpcot-2020-e6ce05d8d625/bibliography.md
 ---
+
 
 # The voyages of Father Pécot in the Peninsula, 1821–23
 

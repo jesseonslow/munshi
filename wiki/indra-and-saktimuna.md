@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-151-winstedt-indrasaktimuna-1950-141949b2f44d
+source_path: ../sources/jmalayanras-151-winstedt-indrasaktimuna-1950-141949b2f44d.md
 ---
+
 
 # Indra and Saktimuna
 

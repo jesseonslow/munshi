@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-173-bryson-destructionuluselangor-1956-c5afd8c89bd2
+source_path: ../sources/jmalayanras-173-bryson-destructionuluselangor-1956-c5afd8c89bd2.md
 ---
+
 
 # The destruction of Ulu Selangor
 

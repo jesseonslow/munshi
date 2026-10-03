@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-100-ahmad-pairwordsmalay-1927-4abafda30e3a
+source_path: ../sources/jmalayanras-100-ahmad-pairwordsmalay-1927-4abafda30e3a.md
 ---
+
 
 # Pair-words in Malay
 

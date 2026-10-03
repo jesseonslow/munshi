@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-016-hale-minesminerskinta-1885-e2d954e75487
+source_path: ../sources/jsbras-016-hale-minesminerskinta-1885-e2d954e75487.md
 ---
+
 
 # On mines and miners in Kinta, Perak
 

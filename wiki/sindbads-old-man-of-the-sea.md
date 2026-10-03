@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-050-maxwell-sindbadsoldman-1908-0e82cd766f77
+source_path: ../sources/jsbras-050-maxwell-sindbadsoldman-1908-0e82cd766f77.md
 ---
+
 
 # Sindbad’s old man of the sea
 

@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-142-laidlaw-noteskrismeasurements-1947-8d2d3169f413
+source_path: ../sources/jmalayanras-142-laidlaw-noteskrismeasurements-1947-8d2d3169f413.md
 ---
+
 
 # Some notes on keris measurements
 

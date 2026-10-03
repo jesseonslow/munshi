@@ -18,7 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-046-howell-dyakceremoniespregnancy-1906-830edc046a4e
+source_path: ../sources/jsbras-046-howell-dyakceremoniespregnancy-1906-830edc046a4e.md
 ---
+
 
 # Dyak ceremonies in pregnancy and child-birth
 

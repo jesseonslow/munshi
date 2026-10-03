@@ -19,7 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-161-gibsonhill-dutchmalaywordlistpeter-1953-9b8fe7933de9
+source_path: ../sources/jmalayanras-161-gibsonhill-dutchmalaywordlistpeter-1953-9b8fe7933de9.md
 ---
+
 
 # Notes on an infant maias
 
