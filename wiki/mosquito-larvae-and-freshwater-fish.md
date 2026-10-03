@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-062-hanitsch-mosquitolarvfreshwater-1912-316ef7f5
 
 # Mosquito larvae and freshwater fish
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

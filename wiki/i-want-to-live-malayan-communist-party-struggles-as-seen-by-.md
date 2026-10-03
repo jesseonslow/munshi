@@ -37,8 +37,8 @@ source_path: ../sources/musa-i-want-to-live-9d3b24ec75e8/references.md
 
 The voices of women defectors from the Malayan Communist Party (MCP) rarely feature in the MCP’s grand narrative of its struggle for liberation in Malaya or in accounts prepared by party veterans, and only become visible through the prism of government propaganda. Using published memoirs, interview material from the Oral History Centre at Universiti Kebangsaan Malaysia (UKM), and personal interviews with two former women cadres of the MCP, this article focuses on the views of women who defected before the signing of the 1989 Haadyai Peace Accord. It provides the perspective of ordinary members on the MCP’s ideas regarding war and revolution, and the position of women.
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## Author's Acknowledgement
 

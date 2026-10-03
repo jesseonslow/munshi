@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-260-kheng-lettersexile-1991-b6b7b23b5bdd/appendix
 
 # Letters from exile: correspondence of Sultan Abdullah from Seychelles and Mauritius
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

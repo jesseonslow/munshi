@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-072-sturrock-hikayatmarongmaha-1916-fd4827c3891a.
 
 # Hikayat Marong Maha Wangsa; or Kedah Annals. .J. Sturrock
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

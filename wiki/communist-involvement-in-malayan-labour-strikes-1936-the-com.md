@@ -36,8 +36,8 @@ source_path: ../sources/jmbras-230-wah-communistchallengemalayan-1976-c07d8bddc5
 > **Notice of Subsequent Amendments:**
 > * **Errata:** Published in [Errata MB 50(1): 93 Je 1977](./mbras-050-1.md)
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

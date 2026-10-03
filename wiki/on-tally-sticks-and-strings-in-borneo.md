@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-049-hose-tallysticksstrings-1907-8cb786aea559.md
 
 # On tally sticks and strings in Borneo
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

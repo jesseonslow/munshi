@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-154-gibsonhill-malayhatsdishcovers-1951-4528
 
 # Malay hats and dish covers
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

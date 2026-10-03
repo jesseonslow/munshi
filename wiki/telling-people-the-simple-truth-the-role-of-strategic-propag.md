@@ -27,8 +27,8 @@ source_path: ../sources/jsbras-075-winstedt-rarewordskutaha-1917-aab37a3e6793.md
 
 # ‘Telling people the simple truth’: the role of strategic propaganda in the Malayan Emergency
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -26,8 +26,8 @@ source_path: ../sources/jmalayanras-147-gibsonhill-indexpapersvolumes-1948-c354f
 
 # Further work on Indian sites in Malaya
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

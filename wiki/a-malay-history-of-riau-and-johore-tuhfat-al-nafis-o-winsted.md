@@ -27,8 +27,8 @@ source_path: ../sources/jsbras-010-proceedingsgeneralmeeting-1882-bb8800ecb136.m
 
 # A Malay history of Riau and Johore {Tuhfat-al-Nafis}. .O. Winstedt {Jawi
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -26,8 +26,8 @@ source_path: ../sources/jsbras-022-hervey-valentynsaccountmalacca-1890-54173a1dd
 
 # Valentyn’s account of Malacca
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

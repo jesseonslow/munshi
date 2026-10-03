@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-208-hooykaas-notemahbhratamalaysia-1965-437947193
 
 # A note on the Maha-Bharata in Malaysia and Indonesia: Sabha-Parva found in Bali
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

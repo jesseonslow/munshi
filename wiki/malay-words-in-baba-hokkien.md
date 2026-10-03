@@ -26,8 +26,8 @@ source_path: ../sources/jmbras-276-seong-malaywordsbaba-1999-a5f89e01c09a/append
 
 # Malay words in Baba Hokkien
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

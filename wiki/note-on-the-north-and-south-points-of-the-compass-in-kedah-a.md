@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-096-humphreys-notenorthsouth-1926-0ffeb42fec
 
 # note on the north and south points of the compass in Kedah and Trengganu
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

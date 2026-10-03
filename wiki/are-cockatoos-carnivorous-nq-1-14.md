@@ -22,8 +22,8 @@ published: false
 
 # Are cockatoos carnivorous? NQ 1: 14
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

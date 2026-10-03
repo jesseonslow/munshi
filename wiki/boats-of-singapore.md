@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-252-matheson-cyrilskinner19241986-1987-c36822e4e0
 
 # Boats of Singapore
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

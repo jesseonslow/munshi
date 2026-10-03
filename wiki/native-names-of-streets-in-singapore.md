@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-023-haughton-nativenamesstreets-1891-218ae8e3f190
 
 # Native names of streets in Singapore
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

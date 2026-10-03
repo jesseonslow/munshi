@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-315-forrest-williamgeorgestirling-2018-9bcaaf6b88
 
 # William George Stirling (1887–1951): civil servant and artist
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

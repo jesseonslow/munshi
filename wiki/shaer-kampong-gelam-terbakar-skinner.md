@@ -26,8 +26,8 @@ source_path: ../sources/jmbras-221-skinner-shaerkamponggelam-1972-54dc67315344.m
 
 # Shaer Kampong Gelam Terbakar. . Skinner
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

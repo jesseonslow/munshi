@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-288-koster-treatiesunbelieversimages-2005-2abb016
 
 # On a serow from Annam
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

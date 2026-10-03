@@ -38,8 +38,8 @@ source_path: ../sources/weber-malays-in-the-indochinese-peninsula-cc2fdb73e188/b
 
 This paper features the military and political fortunes of a man of Malay origin and called Tuen Phaow/Toan Phu/Tuan Pha. Vietnamese, Cam and Khmer historical sources record his activity in the Indochinese Peninsula from 1786 to 1820. After crowning himself king in the region south of today’s Central Vietnam highlands, he fought the Vietnamese (1796–97) and then fled, only to reappear a decade later at the Khmer royal court. Promoted to the highest position, he was then used by the Vietnamese imperial court to further their influence over Cambodian politics. His spectacular ascension abruptly ended in 1820 when he was put to death. Celebrated by some as a hero, reviled as a traitor or loathed as a ruthless brute by others, this complex and unique character exemplifies patterns of mobility and political opportunism in mainland Southeast Asian precolonial politics.
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

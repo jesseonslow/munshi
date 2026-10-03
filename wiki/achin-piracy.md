@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-100-leyh-achinpiracy-1927-a5c1adaea3eb.md
 
 # Achin piracy
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

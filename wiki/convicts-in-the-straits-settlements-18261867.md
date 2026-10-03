@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-217-turnbull-convictsstraitssettlements-1970-7901
 
 # Convicts in the Straits Settlements, 1826–1867
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

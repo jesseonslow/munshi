@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-263-krairiksh-briefaccountsiam-1992-ba6396835b10.
 
 # A brief account of the Siam Society
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-310-chen-minorityvoicesdominant-2016-fd4db340da90
 
 # Minority voices and dominant structures: the case of Amos Yee
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

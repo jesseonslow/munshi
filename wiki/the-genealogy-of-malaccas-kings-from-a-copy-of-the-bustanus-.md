@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-081-winstedt-genealogymalaccaskings-1920-4b20a2e0
 
 # The genealogy of Malacca’s kings from a copy of the Bustanu‘s-Salatin
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

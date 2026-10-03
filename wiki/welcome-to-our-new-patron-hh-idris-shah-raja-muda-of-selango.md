@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-065-blagden-notekotakapur-1913-ee8e24f83240.md
 
 # Welcome to our new patron {HH Idris Shah Raja Muda of Selangor
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-156-gibsonhill-affairbruas-1951-979888c94052
 
 # The affair at Bruas (1837
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

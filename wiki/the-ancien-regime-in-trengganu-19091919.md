@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-213-allen-ancienregimetrengganu-1968-e9b5aac4cce6
 
 # The ancien regime in Trengganu, 1909–1919
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

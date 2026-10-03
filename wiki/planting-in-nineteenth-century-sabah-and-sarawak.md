@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-270-tate-plantingnineteenthcentury-1996-9d66e9b9f
 
 # Planting in nineteenth century Sabah and Sarawak
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-289-soenarto-saintssuperheroeswali-2005-d192c8946
 
 # From saints to superheroes: The Wali Songo myth in contemporary Indonesia’s popular genres
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

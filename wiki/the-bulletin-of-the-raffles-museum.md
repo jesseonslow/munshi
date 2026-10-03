@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-105-kloss-bulletinrafflesmuseum-1928-5529ad9
 
 # The bulletin of the Raffles Museum
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

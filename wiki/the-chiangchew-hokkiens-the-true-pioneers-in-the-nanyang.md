@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-297-jones-chiangchewhokkienstrue-2009-7b8c4c52917
 
 # The Chiangchew Hokkiens, the true pioneers in the Nanyang
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

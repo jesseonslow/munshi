@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-077-winstedt-adventmuhammadanismmalay-1917-e684a5
 
 # A romanized version of the Hikayat Raja-Raja Pasai
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-126-sheehan-translationhikayatabdullah-1936-
 
 # A translation of the Hikayat Abdullah
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

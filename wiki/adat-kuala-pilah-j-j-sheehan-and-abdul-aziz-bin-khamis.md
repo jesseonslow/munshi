@@ -26,8 +26,8 @@ source_path: ../sources/jmalayanras-126-sheehan-adatkualapilah-1936-65c9fdb1ebb7
 
 # Adat Kuala Pilah. J. J. Sheehan and Abdul Aziz bin Khamis
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

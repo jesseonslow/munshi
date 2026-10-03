@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-227-haile-postulatedlatecainozoic-1975-7d77e73d8e
 
 # Postulated late Cainozoic high sea levels in the Malay Peninsula
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

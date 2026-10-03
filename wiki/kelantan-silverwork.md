@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-156-linehan-tinemblemsmountaintemples-1951-8
 
 # Kelantan silverwork
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

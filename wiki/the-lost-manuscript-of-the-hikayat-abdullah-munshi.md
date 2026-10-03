@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-243-traill-lostmanuscripthikayat-1982-a7071df0588
 
 # The lost manuscript of the Hikayat Abdullah “Munshi”
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

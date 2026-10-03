@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-049-elcum-malaychess-1907-2f0252a0d515.md
 
 # Malay chess
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

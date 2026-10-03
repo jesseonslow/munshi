@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-117-gardner-coinkedah-1933-854dca19bf9d.md
 
 # A coin from Kedah
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

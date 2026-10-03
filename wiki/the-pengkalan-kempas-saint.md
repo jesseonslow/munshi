@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-111-wilkinson-pngkalankmpsaint-1931-eca444c2
 
 # The Pengkalan Kempas “saint”
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

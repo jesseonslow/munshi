@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-108-winstedt-perakroyalmusical-1929-53b3353f
 
 # The Perak royal musical instruments
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -26,8 +26,8 @@ source_path: ../sources/jmalayanras-130-williams-suggestedoriginmalay-1937-c0aab
 
 # Suggested origin of the Malay keris and of the superstitions attaching to it
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

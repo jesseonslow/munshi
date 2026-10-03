@@ -27,8 +27,8 @@ source_path: ../sources/jsbras-038-machado-vocabularyjakunsbatu-1902-a88a7adada1
 
 # A vocabulary of the Jakuns of Batu Pahat, Johore, together with some remarks on their customs and peculiarities
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

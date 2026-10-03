@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-214-stubbs-twocolonialoffice-1968-254ddd273d62.md
 
 # Two Colonial Office memoranda on the history of Brunei. R.E. Stubbs. .E. Brown
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

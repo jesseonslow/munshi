@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-243-gullick-emilyinnes18431927-1982-cee74ae7699a.
 
 # Emily Innes, 1843–1927
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

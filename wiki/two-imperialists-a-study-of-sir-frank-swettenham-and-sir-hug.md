@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-205-allen-twoimperialistsstudy-1964-16f05c3cf5ea.
 
 # Two imperialists: a study of Sir Frank Swettenham and Sir Hugh Clifford
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

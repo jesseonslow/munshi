@@ -26,8 +26,8 @@ source_path: ../sources/wray-an-account-of-affairs-in-larut-leading-to-british-i
 
 # An Account of Affairs in Larut Leading to British Intervention. Facsimile reprint
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

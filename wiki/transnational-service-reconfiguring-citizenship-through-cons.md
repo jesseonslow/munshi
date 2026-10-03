@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-316-kwek-transnationalservice-2019-79b794e41cd4/r
 
 # (Trans)national service: reconfiguring citizenship through conscription in Singapore
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

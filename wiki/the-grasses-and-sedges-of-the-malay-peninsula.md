@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-153-linehan-inscribedtiningotkuala-1950-a219
 
 # The grasses and sedges of the Malay Peninsula
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

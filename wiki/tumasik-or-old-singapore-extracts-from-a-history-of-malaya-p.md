@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-215-winstedt-tumasikoldsingapore-1969-c1c0b1f344a
 
 # Tumasik or old Singapore {extracts from A History of Malaya, published in the Journal as Part I of Volume 13, 1935
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

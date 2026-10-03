@@ -22,8 +22,8 @@ published: false
 
 # The Japanese Occupation in Pahang, January 1942–September 1945
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

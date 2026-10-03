@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-108-neilson-coinsfoundnear-1929-73fdb7e10902
 
 # On some coins found near Seremban
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

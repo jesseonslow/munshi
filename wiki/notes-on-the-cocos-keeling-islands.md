@@ -34,8 +34,8 @@ source_path: ../sources/jmalayanras-144-gibsonhill-islandnorthkeeling-1948-518d1
 > **Notice of Subsequent Amendments:**
 > * **Corrigenda:** Published in [Corrigenda MB 21(1): 157–158 Ap 1948](./mbras-021-1.md)
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

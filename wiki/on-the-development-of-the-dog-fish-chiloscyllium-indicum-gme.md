@@ -27,8 +27,8 @@ source_path: ../sources/jmalayanras-096-smedley-developmentdogfishchiloscyllium-
 
 # On the development of the dog-fish Chiloscyllium indicum (Gmel.). Records of the Raffles Museum, No. 31
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

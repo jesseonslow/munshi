@@ -36,8 +36,8 @@ source_path: ../sources/jmbras-294-chross-amalaypoem-2008-4bd837afef9f/reference
 > **Notice of Subsequent Amendments:**
 > * **Corrigenda:** Published in [Corrigenda SB 81: {226} S 1920](./jsbras-081.md)
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

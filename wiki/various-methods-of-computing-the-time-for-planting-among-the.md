@@ -35,8 +35,8 @@ source_path: ../sources/jsbras-042-hose-variousmethodscomputing-1905-5e9afbef637
 > **Notice of Subsequent Amendments:**
 > * **Addenda:** Published in [Addendum SB 42: 209–210 F 1905](./jsbras-042.md)
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

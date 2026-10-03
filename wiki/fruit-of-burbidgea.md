@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-053-ridley-fruitburbidgea-1909-676de4493ffc.md
 
 # Fruit of Burbidgea
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

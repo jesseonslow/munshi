@@ -25,8 +25,8 @@ source_path: ../sources/roe-a-late-nineteenth-century-report-on-the-orang-asli-5
 
 # Publications by Prof. Dato Abu Talib Ahmad (comp
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

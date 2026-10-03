@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-006-perham-seadyaktraditiondeluge-1880-6f508613f1
 
 # A Sea Dyak tradition of the deluge and consequent events
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

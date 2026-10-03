@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-054-brooks-notesfertilisationorchids-1910-e9b1c09
 
 # Notes on the fertilisation of a few orchids in Sarawak
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

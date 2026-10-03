@@ -26,8 +26,8 @@ source_path: ../sources/jsbras-025-rulesstraitsasiatic-1894-01d9a9c7a185.md
 
 # A Malay legal miscellany
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

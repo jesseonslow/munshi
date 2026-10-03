@@ -34,8 +34,8 @@ source_path: ../sources/jmalayanras-115-frontmatter-1932-bf925cddf290.md
 > **Notice of Subsequent Amendments:**
 > * **Corrigenda:** Published in [Corrigenda MB 11(2): 234–235 D 1933](./mbras-011-2.md)
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-063-moulton-expeditionmountbatu-1912-94eae97ebac5
 
 # Orchids collected on Mr. Moulton’s expedition to Mt. Batu Lawi
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

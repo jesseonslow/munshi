@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-044-ridley-fertilizationgrammatophyllum-1905-0bfa
 
 # On the fertilization of Grammatophyllum
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

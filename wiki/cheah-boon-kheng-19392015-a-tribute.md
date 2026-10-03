@@ -22,8 +22,8 @@ published: false
 
 # Cheah Boon Kheng (1939–2015): A Tribute
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -26,8 +26,8 @@ source_path: ../sources/jsbras-057-laidlaw-descriptionstwospecies-1911-1dcfec1e0
 
 # Hermanus Neubronner Van Der Tuuk
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

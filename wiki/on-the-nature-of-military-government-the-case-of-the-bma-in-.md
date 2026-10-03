@@ -26,8 +26,8 @@ source_path: ../sources/jmbras-291-gullick-naturemilitarygovernment-2006-eb8edc7
 
 # On the nature of military government: the case of the BMA in Negri Sembilan
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

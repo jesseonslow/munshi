@@ -22,8 +22,8 @@ published: false
 
 # Who created Malaysia’s plural society? biblio
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

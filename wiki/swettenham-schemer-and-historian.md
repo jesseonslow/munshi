@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-271-barlow-swettenhamschemer-1996-09af9c106e2b/re
 
 # Swettenham. Schemer and historian
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

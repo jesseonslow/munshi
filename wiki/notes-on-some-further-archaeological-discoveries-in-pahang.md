@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-110-linehan-notesarchaeologicaldiscoveries-1
 
 # Notes on some further archaeological discoveries in Pahang
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

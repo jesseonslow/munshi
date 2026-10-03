@@ -37,8 +37,8 @@ source_path: ../sources/jmalayanras-122-hughes-portugueseaccountjohore-1935-825e
 > **Notice of Subsequent Amendments:**
 > * **Corrigenda:** Published in [Corrigenda MB 14(3): 332 D 1936### **Hughes-Hallett, H.R.**](./mbras-014-3.md)
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

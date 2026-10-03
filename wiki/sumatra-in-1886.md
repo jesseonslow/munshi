@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-018-kehding-sumatra1886-1886-f82e0fe8280c.md
 
 # Sumatra in 1886
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

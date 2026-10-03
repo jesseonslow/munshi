@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-194-bassett-englishrelationssiam-1961-34d539
 
 # English relations with Siam in the seventeenth century
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

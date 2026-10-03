@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-256-tolmie-holdingsmalayanmaterial-1989-905499b93
 
 # The holdings of Malayan material in the Rhodes House Library Oxford
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

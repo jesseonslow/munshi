@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-087-laidlaw-newinterestingdragonfly-1923-497
 
 # On a new and interesting dragonfly (Odonata) from Gunong Tahan
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

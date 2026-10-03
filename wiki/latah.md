@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-012-obrien-latah-1883-1a994a33fae9.md
 
 # Latah
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

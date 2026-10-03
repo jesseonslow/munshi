@@ -26,8 +26,8 @@ source_path: ../sources/jsbras-052-maxwell-groeneveldtsnotesmalay-1909-033dcfd92
 
 # Groeneveldt’s notes on the Malay archipelago and Malacca. W.G. Maxwell
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -26,8 +26,8 @@ source_path: ../sources/jmbras-310-yunci-cleansingsacredmountain-2016-b085b9012a
 
 # Mount Kinabalu earthquake
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-319-longcallesen-perakmuseum-2020-ee4f9f47c52c/re
 
 # The Perak Museum: Displaying Malaya in the late nineteenth century
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

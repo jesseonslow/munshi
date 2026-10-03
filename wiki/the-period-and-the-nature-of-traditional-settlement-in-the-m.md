@@ -26,8 +26,8 @@ source_path: ../sources/jmbras-218-mahmud-periodnaturetraditional-1970-09a46ae99
 
 # The period and the nature of “traditional” settlement in the Malay Peninsula
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

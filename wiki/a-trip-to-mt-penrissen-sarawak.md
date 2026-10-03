@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-033-shelford-tripmtpenrissen-1900-0263d0d66ba9/ap
 
 # A trip to Mt. Penrissen, Sarawak
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

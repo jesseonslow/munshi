@@ -26,8 +26,8 @@ source_path: ../sources/jmalayanras-104-chasen-collectionbirdsanamba-1928-593085
 
 # On a collection of birds from the Anamba Islands, South China Sea
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

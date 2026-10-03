@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-023-r-discoverystoneimplement-1891-84dd504cabda.m
 
 # Discovery of a stone implement in Singapore
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

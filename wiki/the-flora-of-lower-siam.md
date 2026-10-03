@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-059-ridley-floralowersiam-1911-e650d77bb907.md
 
 # The flora of Lower Siam
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-314-bozzolo-visitkelantansouthern-2018-19bdf3a89b
 
 # Visit to Kelantan and southern Siam in 1888
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

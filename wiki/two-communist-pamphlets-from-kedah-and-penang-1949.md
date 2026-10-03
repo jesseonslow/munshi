@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-266-barlow-twocommunistpamphlets-1994-5977b15049d
 
 # Two communist pamphlets from Kedah and Penang, 1949
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

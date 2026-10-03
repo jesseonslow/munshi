@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-076-merrill-contributionsknowledgeflora-1917-2c54
 
 # Contributions to our knowledge of the flora of Borneo
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

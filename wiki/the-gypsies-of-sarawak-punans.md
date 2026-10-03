@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-090-andreini-gypsiessarawakpunans-1924-92f60
 
 # The gypsies of Sarawak (Punans
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

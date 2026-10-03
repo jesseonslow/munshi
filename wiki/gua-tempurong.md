@@ -26,8 +26,8 @@ source_path: ../sources/jmbras-268-gebauer-guatempurung-1995-9d24e769d42f/refere
 
 # Gua Tempurong
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

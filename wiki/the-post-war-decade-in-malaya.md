@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-252-turnbull-postwardecademalaya-1987-0e76c6ee40f
 
 # The post-war decade in Malaya
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

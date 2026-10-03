@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-208-tarling-consulfarrenphilippines-1965-28cc9f77
 
 # Consul Farren and the Philippines
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

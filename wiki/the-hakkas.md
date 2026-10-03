@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-237-mong-hakkas-1980-c0aaf143d40a/glossary.md
 
 # The Hakkas
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-015-dodd-glimpsemannerscustoms-1885-e443ef73b4ec.
 
 # A few ideas on the probable origin of the hill tribes of Formosa
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

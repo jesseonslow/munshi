@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-291-ali-transmissionislamicknowledge-2006-41a2a08
 
 # Transmission of Islamic knowledge in Kelantan
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

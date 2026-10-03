@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-318-tenisonwoods-themountainsystem-2020-03ed4a64f
 
 # The mountain system of the Malayan Peninsula (1884
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

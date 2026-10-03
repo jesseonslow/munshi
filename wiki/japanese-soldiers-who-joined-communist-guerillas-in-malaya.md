@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-311-fujio-formerjapanesesoldiers-2016-7bce3e323ce
 
 # Japanese soldiers who joined communist guerillas in Malaya
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

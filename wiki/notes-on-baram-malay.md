@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-181-needham-notesbarammalay-1958-321fa4a86fb
 
 # Notes on Baram Malay
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-095-wurtzburg-earlyreferencesuitability-1925
 
 # Early references to the suitability of Singapore
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

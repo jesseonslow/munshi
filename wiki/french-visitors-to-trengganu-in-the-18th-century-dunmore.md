@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-223-dunmore-frenchvisitorstrengganu-1973-6836bd7a
 
 # French visitors to Trengganu in the 18th century, . Dunmore
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

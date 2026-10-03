@@ -27,8 +27,8 @@ source_path: ../sources/jmalayanras-096-smedley-stagedevelopmenttigershark-1926-
 
 # On a stage in the development of the tiger-shark Stegostoma tigrinum (Gmel.). Records of the Raffles Museum, No. 20
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

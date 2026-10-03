@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-161-tweedie-objectstuigold-1953-4bacd6953c88
 
 # A bibliography of Malaya, from July, 1891 to June, 1892
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

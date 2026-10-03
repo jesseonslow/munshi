@@ -22,8 +22,8 @@ published: false
 
 # Kedah 1821–1855: years of exile and return
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

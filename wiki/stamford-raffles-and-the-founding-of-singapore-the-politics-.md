@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-315-jianli-stamfordrafflesfounding-2018-edf17bbd1
 
 # Stamford Raffles and the ‘founding’ of Singapore: the politics of commemoration and dilemmas of history
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-013-hervey-rmbau-1884-ae94e47a8661.md
 
 # Rembau
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-278-ramakrishna-makingmalayanpropagandist-2000-5d
 
 # The making of a Malayan propagandist: the communists, the British and C.C. Too
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-256-tarling-malayabritishhistory-1989-0be0e289109
 
 # Malaya in British history
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

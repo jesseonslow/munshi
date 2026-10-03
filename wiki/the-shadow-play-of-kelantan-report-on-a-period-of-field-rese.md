@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-218-sweeney-shadowplaykelantanreport-1970-4a5a815
 
 # The shadow play of Kelantan: report on a period of field research. MB 43(2): 53– 80 D 1970 — Corrections
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

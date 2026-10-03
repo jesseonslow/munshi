@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-119-linehan-coinskelantan-1934-c5bcf00b0f60.
 
 # Coins of Kelantan
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-122-furtado-diseaseangsanatree-1935-8df3c7af
 
 # A disease of the angsanatree
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

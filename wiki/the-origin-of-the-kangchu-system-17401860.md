@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-230-trocki-originskangchusystem-1976-b03611190379
 
 # The origin of the kangchu system, 1740–1860
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

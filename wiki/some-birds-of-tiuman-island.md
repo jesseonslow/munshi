@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-045-kloss-birdstiumanisland-1906-2a9a1ef61674.md
 
 # Some birds of Tiuman Island
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

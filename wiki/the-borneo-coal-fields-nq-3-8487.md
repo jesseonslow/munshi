@@ -22,8 +22,8 @@ published: false
 
 # The Borneo coal fields. NQ 3: 84–87
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

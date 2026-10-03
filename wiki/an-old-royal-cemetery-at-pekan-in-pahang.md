@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-060-barnes-oldroyalcemetery-1911-a3aa70a979d9.md
 
 # An old royal cemetery at Pekan in Pahang
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

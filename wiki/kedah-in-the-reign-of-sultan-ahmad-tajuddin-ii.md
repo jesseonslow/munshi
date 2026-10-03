@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-249-gullick-kedahreignsultan-1985-d6b9024245d8/ap
 
 # Kedah in the reign of Sultan Ahmad Tajuddin II
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

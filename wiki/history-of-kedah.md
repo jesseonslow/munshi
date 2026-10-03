@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-081-winstedt-historykedah-1920-f54a607bd565.md
 
 # History of Kedah
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

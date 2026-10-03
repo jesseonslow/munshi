@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-150-seong-incenseburnersambas-1949-1d76458fb
 
 # The incense burner from the Sambas treasures
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

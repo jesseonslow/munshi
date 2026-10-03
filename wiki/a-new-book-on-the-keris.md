@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-132-woolley-newbookkeris-1938-dbbff94bb4b6.m
 
 # A new book on the keris
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

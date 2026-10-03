@@ -25,8 +25,8 @@ source_path: ../sources/smith-tanjungpura-528e94d2a84e/references.md
 
 # Malays in the Indochinese Peninsula: Adventurers, Warlords and Ministers
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

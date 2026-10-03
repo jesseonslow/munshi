@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-036-butler-occurrencemussurifer-1901-4597eb2baa64
 
 # On the occurrence of Mus surifer, G.S. Miller, in Perak
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

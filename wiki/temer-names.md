@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-205-needham-temernames-1964-9c113d8a608c/bibliogr
 
 # Temer names
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

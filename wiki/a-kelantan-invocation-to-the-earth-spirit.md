@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-093-w-kelantaninvocationearth-1925-be77ac02b
 
 # A Kelantan invocation to the Earth Spirit
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

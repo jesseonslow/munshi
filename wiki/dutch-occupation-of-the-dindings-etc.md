@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-011-maxwell-dutchoccupationdindings-1883-bbf957dd
 
 # Dutch occupation of the Dindings, etc
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

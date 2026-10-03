@@ -28,8 +28,8 @@ source_path: ../sources/jmalayanras-166-burdon-papersmalayanfishing-1954-fb05d03
 
 # Malay names of salt-water fish. T.W. Burdon and C.A. Gibson-Hill. { In Papers on Malayan fishing methods
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

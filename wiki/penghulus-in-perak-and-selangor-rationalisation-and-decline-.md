@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-247-kratoska-penghulusperakselangor-1984-21e94af0
 
 # Penghulus in Perak and Selangor: rationalisation and decline of a traditional Malay office
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

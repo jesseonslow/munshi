@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-012-s-newmountainseen-1883-99404af89d99.md
 
 # New mountain seen in Perak (with a note W.E. Maxwell
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

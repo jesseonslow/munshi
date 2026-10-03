@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-025-ridley-dispersalseedsmammals-1894-3926e66e882
 
 # On the dispersal of seeds by mammals
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

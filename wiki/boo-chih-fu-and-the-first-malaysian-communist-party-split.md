@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-316-opper-boochihfu-2019-326d7ecb3524/references.
 
 # Boo Chih Fu and the first Malaysian Communist Party split
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

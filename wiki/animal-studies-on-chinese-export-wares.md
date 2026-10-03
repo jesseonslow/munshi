@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-169-gibsonhill-animalstudieschinese-1955-b9f
 
 # Animal studies on Chinese export wares
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

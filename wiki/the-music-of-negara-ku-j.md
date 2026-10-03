@@ -26,8 +26,8 @@ source_path: ../sources/jmbras-273-harding-musicnegaraku-1997-72fe303dfe23/refer
 
 # The music of Negara-Ku. J
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

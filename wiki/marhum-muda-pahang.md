@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-119-linehan-marhummudapahang-1934-853cc732d9
 
 # Marhum Muda Pahang
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

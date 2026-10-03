@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-242-singaravelu-professorka-1982-eea5312e706a.md
 
 # Obituary. K.A. Nilakanta Sastri
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

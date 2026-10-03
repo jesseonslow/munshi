@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-173-topley-chinesereligionreligious-1956-cda
 
 # Chinese religion and religious institutions in Singapore
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

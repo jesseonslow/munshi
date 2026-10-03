@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-246-beng-introductionchineseglove-1984-58a187aa09
 
 # An introduction to the Chinese glove puppet theatre
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

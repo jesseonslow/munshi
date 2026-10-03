@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-057-blagden-antiquitymalacca-1911-be3edc3837cc.md
 
 # Antiquity of Malacca
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

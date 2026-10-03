@@ -22,8 +22,8 @@ published: false
 
 # The octopus. NQ 1: 14–15
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-309-eaton-cenotaphsingapore-2015-05c5cf18c67f/ref
 
 # A cenotaph for Singapore: contestation and community at the Straits Settlements war memorial
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

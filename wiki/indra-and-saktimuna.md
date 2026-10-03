@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-151-winstedt-indrasaktimuna-1950-141949b2f44
 
 # Indra and Saktimuna
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-147-gibsonhill-indexpapersvolumes-1948-c354f
 
 # Notes on ancient times in Malaya. Parts 2 and 3
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

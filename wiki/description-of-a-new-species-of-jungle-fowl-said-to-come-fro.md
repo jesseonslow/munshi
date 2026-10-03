@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-024-kelsall-descriptionnewspecies-1891-6cbde9e6af
 
 # Description of a new species of jungle fowl said to come from Borneo
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

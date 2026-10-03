@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-096-k-spoliamentawiensia-1926-c8b55e8b4009.m
 
 # Spolia mentawiensia. Reptiles and amphibians
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

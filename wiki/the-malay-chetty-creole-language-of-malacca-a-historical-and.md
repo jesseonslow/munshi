@@ -26,8 +26,8 @@ source_path: ../sources/jmbras-296-mohamed-malaychettycreole-2009-a3f5157feeb0/r
 
 # The Malay Chetty creole language of Malacca: a historical and linguistic perspective
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-209-kim-originbritishadministration-1966-5066652d
 
 # The origin of British administration in Malaya
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

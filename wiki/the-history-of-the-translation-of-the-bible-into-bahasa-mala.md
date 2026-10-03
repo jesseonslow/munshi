@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-256-hunt-historytranslationbible-1989-f64d02344d7
 
 # The history of the translation of the Bible into Bahasa Malaysia
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-045-bland-malaccalace-1906-5fc61f468871.md
 
 # Malacca lace
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

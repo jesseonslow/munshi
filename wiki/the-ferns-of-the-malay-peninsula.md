@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-004-receptionprofessornordenskjold-1879-98e573519
 
 # The ferns of the Malay Peninsula
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

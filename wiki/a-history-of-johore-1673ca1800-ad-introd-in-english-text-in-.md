@@ -26,8 +26,8 @@ source_path: ../sources/jmalayanras-113-winstedt-historyjohore1673ca-1932-fb3a75
 
 # A history of Johore (1673–ca.1800 A.D.) {Introd. in English: text in Jawi
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-260-jr-glassbeadsmalaya-1991-4d789d00df1f/referen
 
 # Glass beads in Malaya: a reassessment
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

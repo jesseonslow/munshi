@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-246-rookmaaker-taxonomichistoryrecent-1984-d1e891
 
 # The taxonomic history of the Sumatran rhinoceros
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-090-overbeck-listantssingapore-1924-4c336dc0
 
 # Some ants from Singapore and neighbouring places
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

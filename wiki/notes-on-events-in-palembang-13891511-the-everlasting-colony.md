@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-250-mcroberts-noteseventspalembang-1986-15eb2df2d
 
 # Notes on events in Palembang 1389–1511: the everlasting colony
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

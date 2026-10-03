@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-132-winstedt-kedahannals-1938-8732cf3c42d8.m
 
 # The Kedah Annals
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

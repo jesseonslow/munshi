@@ -34,8 +34,8 @@ source_path: ../sources/jsbras-085-hamilton-penangmalay-1922-8db42ad0a097.md
 > **Notice of Subsequent Amendments:**
 > * **Corrigenda:** Published in [Corrigenda MB 3(3): 56 D 1925](./mbras-003-3.md)
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

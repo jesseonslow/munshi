@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-299-gullick-economyperakmid1870s-2010-7681d0c3b76
 
 # The economy of Perak in the mid-1870s
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

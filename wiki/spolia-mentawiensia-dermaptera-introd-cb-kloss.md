@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-098-borelli-spoliamentawiensiadermaptera-192
 
 # Spolia mentawiensia: Dermaptera. Introd. C.B. Kloss
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

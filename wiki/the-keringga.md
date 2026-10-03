@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-023-d-eudromiasveredussingapore-1891-59130b44dcfe
 
 # The keringga
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

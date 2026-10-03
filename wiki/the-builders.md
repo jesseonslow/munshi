@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-303-gullick-builders-2012-5ec1fcddda33/references
 
 # The builders
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

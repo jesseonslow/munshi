@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-083-kloss-malaysianbeardedpigs-1921-70af6d3996a0.
 
 # Malaysian bearded pigs
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

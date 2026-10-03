@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-117-hamilton-malaywords-1933-0dde4da0efaa.md
 
 # Some Malay words
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

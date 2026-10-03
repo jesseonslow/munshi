@@ -22,8 +22,8 @@ published: false
 
 # Ancient Chinese colony in North Borneo. NQ 2: 31–32
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

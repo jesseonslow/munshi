@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-138-winstedt-kulanggigulanggi-1940-66bb88e32
 
 # Kulanggi or Gulanggi
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

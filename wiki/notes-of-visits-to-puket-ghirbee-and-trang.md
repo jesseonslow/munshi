@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-042-kynnersley-notesvisitspuket-1905-4a96be2b7d39
 
 # Notes of visits to Puket, Ghirbee and Trang
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

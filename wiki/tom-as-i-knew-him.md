@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-229-sandin-tomknew-1976-812b7325bc83.md
 
 # Tom as I knew him
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

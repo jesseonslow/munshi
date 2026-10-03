@@ -22,8 +22,8 @@ published: false
 
 # Nomadic Penan of the Upper Rejang (Plieran), Sarawak
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

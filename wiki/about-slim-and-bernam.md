@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-004-leech-slimbernam-1879-ec5651cdccef.md
 
 # About Slim and Bernam
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

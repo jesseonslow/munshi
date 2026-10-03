@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-309-kheng-memoirrbalan-2015-88d38ac26c1d.md
 
 # Memoir of R. Balan, vice-president of the Malayan Communist Party
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

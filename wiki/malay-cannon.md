@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-143-woolley-malaycannon-1947-f700f83cf359.md
 
 # Malay cannon
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

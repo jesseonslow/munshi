@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-169-hill-manggengdatumerpati-1955-4683732afe
 
 # Manggeng and Datu Merpati
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

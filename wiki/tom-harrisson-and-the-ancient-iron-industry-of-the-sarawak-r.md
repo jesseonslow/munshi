@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-231-oconnor-tomharrissonancient-1977-4a0f1e2c1d1a
 
 # Tom Harrisson and the ancient iron industry of the Sarawak River delta
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

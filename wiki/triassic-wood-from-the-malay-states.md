@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-117-edwards-triassicwoodmalay-1933-4d54bb387
 
 # Triassic wood from the Malay states
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-244-sweeney-literarystudymalayindonesian-1983-a7c
 
 # The “literary” study of Malay-Indonesian literature: some observations
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

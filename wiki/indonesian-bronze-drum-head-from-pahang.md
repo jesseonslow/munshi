@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-108-winstedt-indonesianbronzedrumhead-1929-e
 
 # Indonesian bronze drum-head from Pahang
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

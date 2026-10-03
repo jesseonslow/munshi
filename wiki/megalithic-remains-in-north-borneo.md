@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-142-keith-megalithicremainsnorth-1947-f15be1
 
 # Megalithic remains in North Borneo
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

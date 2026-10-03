@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-131-wilkinson-bencoolen-1938-dd3bf57cbedb.md
 
 # Bencoolen
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

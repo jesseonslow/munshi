@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-018-haynes-englishsulumalay-1886-f79bacdec07f.md
 
 # Language affinities
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

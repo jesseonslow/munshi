@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-047-hikaiatshamsu1bahrain-1906-57e22e4a56ca.md
 
 # Arab and Chinese navigators in Malaysian waters in about A.D. 1500
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

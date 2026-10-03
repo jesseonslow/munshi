@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-215-raffles-datefoundationsingapore-1969-198b5f52
 
 # Date of the foundation of Singapore
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

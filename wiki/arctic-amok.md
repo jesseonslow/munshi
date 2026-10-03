@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-087-kloss-arcticamok-1923-39f3726105f0.md
 
 # Arctic amok
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

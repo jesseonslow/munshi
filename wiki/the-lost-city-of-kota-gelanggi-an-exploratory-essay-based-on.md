@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-287-chross-lostcitykota-2004-2dd2d6a002cb/referen
 
 # The ‘lost city’ of Kota Gelanggi: an exploratory essay based on textual evidence and an excursion into ‘aerial archaeology’
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

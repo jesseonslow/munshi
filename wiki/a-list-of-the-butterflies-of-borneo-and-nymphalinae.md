@@ -34,8 +34,8 @@ source_path: ../sources/jsbras-046-erratashelfordkloss-1906-0f93b2916414.md
 > **Notice of Subsequent Amendments:**
 > * **Errata:** Published in [Errata SB 46: 264 D 1906](./jsbras-046.md)
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

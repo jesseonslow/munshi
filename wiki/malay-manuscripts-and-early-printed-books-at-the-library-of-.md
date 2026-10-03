@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-319-rony-malaymanuscriptsearly-2020-5341cec6a0ca.
 
 # Malay Manuscripts and early printed books at the Library of Congress. Facsimile reprint
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

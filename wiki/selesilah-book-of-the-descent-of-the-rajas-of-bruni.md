@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-030-luering-vocabularydusunlanguage-1897-e77c2a69
 
 # Selesilah: book of the descent of the Rajas of Bruni
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

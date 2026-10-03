@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-235-cushman-eighteenthnineteenthcenturychinese-19
 
 # Eighteenth and nineteenth century Chinese accounts of the Malay Peninsula
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

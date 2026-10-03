@@ -26,8 +26,8 @@ source_path: ../sources/jmalayanras-140-miller-extractsletterscol-1941-da7acf1ef
 
 # Extracts from the letters of Col. Nahuijs. .E. Miller
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

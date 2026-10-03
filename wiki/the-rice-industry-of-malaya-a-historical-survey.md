@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-216-hwa-riceindustrymalaya-1969-663ddbfc7362.md
 
 # The rice industry of Malaya: a historical survey
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

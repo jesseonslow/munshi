@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-085-moulton-railnewmalay-1922-b777225881fa.md
 
 # A rail new to the Malay Peninsula
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

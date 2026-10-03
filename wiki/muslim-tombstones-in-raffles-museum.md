@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-113-winstedt-muslimtombstonesraffles-1932-4e
 
 # Muslim tombstones in Raffles Museum
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

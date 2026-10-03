@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-074-annandale-barnaclesdeepseatelegraph-1916-7320
 
 # Barnacles from deep-sea cables in the Malay Archipelago
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

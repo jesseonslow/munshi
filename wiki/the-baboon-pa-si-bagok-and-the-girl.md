@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-046-laidlaw-baboonpasi-1906-733ad98bd1de.md
 
 # The baboon Pa Si Bagok and the girl
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-065-moulton-notesshortcollecting-1913-ba4a8066d19
 
 # Raffles’ aides-de-camp in Java
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

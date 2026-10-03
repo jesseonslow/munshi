@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-207-ramli-historymalayregiment-1965-9e474ee1ceb9.
 
 # History of the Malay Regiment 1933–1942
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

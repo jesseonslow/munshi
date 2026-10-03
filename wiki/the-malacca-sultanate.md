@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-122-wilkinson-malaccasultanate-1935-fce11405
 
 # The Malacca sultanate
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

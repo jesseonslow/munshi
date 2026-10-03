@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-049-kern-concerningoldsanskrit-1907-2f7b54a99fd9.
 
 # Concerning some old Sanskrit inscriptions in the Malay Peninsula
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-022-ridley-socalledtigersmilk-1890-80e9929f2b1e.m
 
 # On the so-called tiger’s milk “susu rimau” of the Malays
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

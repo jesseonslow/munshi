@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-222-crain-murutdepopulationsipitang-1972-53d4b183
 
 # Murut depopulation and the Sapitang Lun Dayeh
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

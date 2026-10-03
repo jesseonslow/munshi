@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-086-hamilton-oldkedahpatanitraderoute-1922-685e32
 
 # The old Kedah-Patani trade-route
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

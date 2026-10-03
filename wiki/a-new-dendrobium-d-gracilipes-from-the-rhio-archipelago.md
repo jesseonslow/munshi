@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-079-burkill-newdendrobiumd-1918-75fe6f1fb456.md
 
 # A new Dendrobium, D. gracilipes, from the Rhio Archipelago
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

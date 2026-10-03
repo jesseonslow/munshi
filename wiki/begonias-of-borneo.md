@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-046-ridley-begoniasborneo-1906-7cded5dea3c2.md
 
 # Begonias of Borneo
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

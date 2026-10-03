@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-237-cheebeng-babamalaydialect-1980-c342d0920feb/r
 
 # Baba Malay dialect
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

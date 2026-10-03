@@ -26,8 +26,8 @@ source_path: ../sources/jmbras-216-appell-earlyamericanadventurers-1969-c8ab10b6
 
 # Early American adventurers in Borneo: a brief note and request for information
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

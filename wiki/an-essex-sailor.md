@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-185-braddell-essexsailor-1959-4a2a1ee618c4.m
 
 # An Essex sailor
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

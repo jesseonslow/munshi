@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-105-blagden-notesmalaywords-1928-8408a760a88
 
 # Notes on some Malay words
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

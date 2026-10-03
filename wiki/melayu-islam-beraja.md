@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-305-umar-melayuislamberaja-2013-bee9850728b0.md
 
 # Melayu Islam Beraja
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

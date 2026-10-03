@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-139-grimes-journeyfahsienceylon-1941-e233690
 
 # The journey of Fa-Hsien from Ceylon to Canton
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -34,8 +34,8 @@ source_path: ../sources/jmalayanras-119-rentse-historykelantan-1934-4d2ef0c6ba3e
 > **Notice of Subsequent Amendments:**
 > * **Corrigenda:** Published in [Corrigenda MB 14(3): 306 D 1936](./mbras-014-3.md)
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

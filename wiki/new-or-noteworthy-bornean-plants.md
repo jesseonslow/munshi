@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-086-merrill-newnoteworthybornean-1922-d0cb5dc8d2b
 
 # New or noteworthy Bornean plants
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

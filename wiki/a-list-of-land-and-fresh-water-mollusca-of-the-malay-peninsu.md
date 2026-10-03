@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-117-laidlaw-listlandfreshwater-1933-53db214e
 
 # A list of land and fresh-water Mollusca of the Malay Peninsula
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

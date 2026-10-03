@@ -22,8 +22,8 @@ published: false
 
 # Malay Hymenoptera: addenda and corrections
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

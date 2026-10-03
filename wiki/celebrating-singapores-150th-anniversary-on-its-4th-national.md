@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-317-seen-celebratingsingapores150th-2019-6dafda3e
 
 # Celebrating Singapore’s 150th anniversary on its 4th national day (9 August 1969
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

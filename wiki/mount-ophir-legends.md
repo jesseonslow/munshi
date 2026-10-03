@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-062-staley-mountophirlegends-1912-c55279539115.md
 
 # Mount Ophir legends
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

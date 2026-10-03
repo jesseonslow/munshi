@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-097-laidlaw-spoliamentawiensiadragonflies-19
 
 # Spolia mentawensia: dragonflies (Odonata
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

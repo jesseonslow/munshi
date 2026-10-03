@@ -29,8 +29,8 @@ source_path: ../sources/jsbras-033-shelford-tripmtpenrissen-1900-0263d0d66ba9/ap
 
 # British Malaya, 1824–67. L.A. Mills. .M. Turnbull; and a new introductory chapter on European influence in the Malay Peninsula, 1511–1786, D.K. Bassett
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

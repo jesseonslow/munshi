@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-075-strickland-curiousadaptationhabit-1917-76a4d5
 
 # A curious adaptation of habit to environment of a Malayan mosquito
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

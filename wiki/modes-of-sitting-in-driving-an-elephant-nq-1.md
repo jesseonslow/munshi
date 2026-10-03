@@ -22,8 +22,8 @@ published: false
 
 # Modes of sitting in driving an elephant. NQ 1
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-208-clark-carlgibsonhill-1965-bcedbc93a9fa.md
 
 # Carl Gibson-Hill
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

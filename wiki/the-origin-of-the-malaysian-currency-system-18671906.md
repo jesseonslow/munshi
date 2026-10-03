@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-041-hanitsch-annualreport1903-1904-e2feefa3de95.m
 
 # The origin of the Malaysian currency system (1867–1906
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

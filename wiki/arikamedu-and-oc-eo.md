@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-156-braddell-arikameduoco-1951-fa1e67940773.
 
 # Arikamedu and Oc-eo
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

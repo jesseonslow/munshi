@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-107-sworder-notecalamariagimletti-1929-1fd36
 
 # A note on Calamaria gimletti Bouleng
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

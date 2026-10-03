@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-248-erratalondonmissionary-1985-d6b362620404.md
 
 # The London Missionary Society: a written record of missionaries and printing presses in the Straits Settlements 1815–1847
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

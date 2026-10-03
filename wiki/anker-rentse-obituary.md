@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-154-tweedie-obituaryankerrentse-1951-2f6430d
 
 # Anker Rentse. Obituary
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -33,8 +33,8 @@ source_path: ../sources/jmbras-224-medway-amiquitydomesticatedpigs-1973-6f04be06
 
 # The antiquity of domesticated pigs in Sarawak
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

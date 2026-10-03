@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-100-winstedt-greatflood1926-1927-a0bcae5aa07
 
 # The great flood 1926
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -22,8 +22,8 @@ published: false
 
 # Batu Kodok (The Frog Rock
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

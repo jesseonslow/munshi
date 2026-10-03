@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-126-evans-notesmalayanantiquities-1936-0dfce
 
 # Notes on Malayan antiquities
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

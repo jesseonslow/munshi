@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-019-l-wray-reportpadiborer-1887-1d3e086fe197.md
 
 # Report on the padi-borer
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

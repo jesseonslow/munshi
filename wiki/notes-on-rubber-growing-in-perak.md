@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-307-wray-historicalarticle-2014-769a5d8dd5ed.md
 
 # Notes on rubber growing in Perak
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

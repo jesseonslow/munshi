@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-283-hussin-taletwocolonial-2002-a6e4561e6587/refe
 
 # A tale of two colonial ports in the Straits of Melaka: Dutch Melaka and English Penang
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

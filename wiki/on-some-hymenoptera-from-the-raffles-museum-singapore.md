@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-041-cameron-hymenopterarafflesmuseum-1904-f511737
 
 # On some Hymenoptera from the Raffles Museum, Singapore
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

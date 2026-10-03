@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-211-sweeney-sirrichardwinstedts-1967-44e2077b5af6
 
 # Sir Richard Winstedt’s summary of the “Tuhfat ul-Nafis”
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

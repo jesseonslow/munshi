@@ -27,8 +27,8 @@ source_path: ../sources/jsbras-054-ridley-termitesnesteight-1910-f42e250439e7.md
 
 # The letters of Sir Stamford Raffles to Nathaniel Wallich, 1819–1824. (with notes), . Bastin
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-087-chasen-heelpadcertainmalaysian-1923-ee75
 
 # On the heel-pad in certain Malaysian birds
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

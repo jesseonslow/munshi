@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-088-winstedt-malaymysticsheretical-1923-dae8
 
 # Some Malay mystics, heretical and orthodox
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

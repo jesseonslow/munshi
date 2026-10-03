@@ -26,8 +26,8 @@ source_path: ../sources/jmbras-239-viner-changingpakpakbatak-1981-0b53af179998/r
 
 # The changing Pakpak Batak
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -24,8 +24,8 @@ published: false
 
 # The relics & offerings from a bronze bust of Taong-Kha-Pa, founder of the Lamaist sect of the Yellow Hats
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

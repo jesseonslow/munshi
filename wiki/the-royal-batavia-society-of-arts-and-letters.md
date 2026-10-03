@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-105-k-royalbataviansociety-1928-3a76eaedec63
 
 # The Royal Batavia Society of Arts and Letters
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

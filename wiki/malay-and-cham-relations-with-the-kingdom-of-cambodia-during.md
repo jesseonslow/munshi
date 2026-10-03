@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-280-hooker-owwolters-2001-9cbdd91113b4/references
 
 # Malay and Cham relations with the kingdom of Cambodia during and after the French protectorate (1863–2000
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

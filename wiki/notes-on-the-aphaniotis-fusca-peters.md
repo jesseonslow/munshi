@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-107-sworder-notesaphaniotisfusca-1929-db0cd1
 
 # Notes on the Aphaniotis fusca (Peters
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-305-nagata-tagehsingritual-2013-01eeb1a9ffc5/refe
 
 # The ‘discovery’ of Penang Island at Tanjong Tokong before 1785: Bapu Alaidin Meera Hussein Lebai and Captain Francis Light
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

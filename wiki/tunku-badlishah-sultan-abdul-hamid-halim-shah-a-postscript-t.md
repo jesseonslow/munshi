@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-319-suwannathatpian-tunkubadlishahsultan-2020-61d
 
 # Tunku Badlishah Sultan Abdul Hamid Halim Shah, a postscript to the BangkokKedah personalised relations
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

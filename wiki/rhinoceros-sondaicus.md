@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-129-loch-rhinocerossondaicusjavan-1937-d92a3
 
 # Rhinoceros sondaicus
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

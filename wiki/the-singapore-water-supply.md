@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-311-singaporewatersupply-2016-4a038ed4545f.md
 
 # The Singapore water supply
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

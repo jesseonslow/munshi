@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-022-ridley-habitscaringaformica-1890-fe415684f8e2
 
 # On the habits of the caringa (Formica gracilipes, Gray
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-041-ridley-fertilizationweberastellulata-1904-63b
 
 # Fertilization of Webera stellulata
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

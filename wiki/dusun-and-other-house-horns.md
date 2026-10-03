@@ -26,8 +26,8 @@ source_path: ../sources/jmalayanras-154-marrison-malaypoemold-1951-0a4b0ea79a15.
 
 # Dusun and other “house horns”
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

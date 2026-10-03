@@ -23,8 +23,8 @@ published: false
 
 # Sejarah Tempatan dalam Sejarah Sosioekonomi Malaysia. Ed. Abu Talib Ahmad
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

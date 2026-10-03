@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-092-cowgill-chineseplacenames-1924-351d2b3c6
 
 # Chinese place-names in Johore
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

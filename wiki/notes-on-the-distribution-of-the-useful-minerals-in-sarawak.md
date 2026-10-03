@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-229-harrisson-ngajubajausignificantearly-1976-045
 
 # Notes on the distribution of the useful minerals in Sarawak
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

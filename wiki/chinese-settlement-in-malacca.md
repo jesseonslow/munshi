@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-142-purcell-chinesesettlementmalacca-1947-c0
 
 # Chinese settlement in Malacca
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

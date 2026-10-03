@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-235-wicks-imagesmalayastories-1979-ff1a040fe660.m
 
 # Images of Malaya in the stories of Sir Hugh Clifford
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

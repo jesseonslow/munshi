@@ -23,8 +23,8 @@ published: false
 
 # A Further Note on Francis Light’s ‘Silver Bason’
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

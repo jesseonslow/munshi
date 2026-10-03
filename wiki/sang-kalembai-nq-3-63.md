@@ -22,8 +22,8 @@ published: false
 
 # Sang Kalembai. NQ 3: 63
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

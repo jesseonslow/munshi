@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-295-gullick-obituaryprofessormary-2008-2857e0c5a7
 
 # Professor Mary Turnbull. Obituary
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

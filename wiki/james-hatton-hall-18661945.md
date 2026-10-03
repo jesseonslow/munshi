@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-268-horton-jameshattonhall-1995-8d23e289d9a2.md
 
 # James Hatton Hall (1866–1945
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-131-douglas-malayplacenames-1938-253530eb82d
 
 # Malay place names of Hindu origin
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

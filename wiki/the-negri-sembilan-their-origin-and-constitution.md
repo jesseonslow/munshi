@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-019-lister-ngrismbilanorigin-1887-b51575e3acc6.md
 
 # The Negri Sembilan, their origin and constitution
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

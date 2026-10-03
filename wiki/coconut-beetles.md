@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-022-coconutbeetles-1890-6ceefd4fb64f.md
 
 # Coconut beetles
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

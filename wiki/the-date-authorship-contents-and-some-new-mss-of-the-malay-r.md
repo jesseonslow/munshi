@@ -27,8 +27,8 @@ source_path: ../sources/jsbras-018-haynes-englishsulumalay-1886-f79bacdec07f.md
 
 # The date, authorship, contents and some new Mss. of the Malay romance of Alexander the Great
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

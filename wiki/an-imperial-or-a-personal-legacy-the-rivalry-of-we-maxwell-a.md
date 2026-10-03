@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-301-pakri-imperialpersonallegacy-2011-df111e872a3
 
 # An imperial or a personal legacy? The rivalry of W.E. Maxwell and F.A. Swettenham in British Malaya
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-085-moulton-newmethodwriting-1922-b2466a74bb1e.md
 
 # A new method of writing trinomials
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

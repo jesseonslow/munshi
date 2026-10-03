@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-083-moulton-annualreportstraits-1921-c9a1c722dbec
 
 # Tomb of “The King of Brunei” in Nanking
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

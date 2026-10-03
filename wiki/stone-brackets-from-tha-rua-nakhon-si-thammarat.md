@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-226-wales-stonebracketstha-1974-c7eaed3fadb7.md
 
 # Stone brackets from Tha Rua, Nakhon Si Thammarat
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-050-ridley-cracklingmoth-1908-012635407acd.md
 
 # The crackling moth
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

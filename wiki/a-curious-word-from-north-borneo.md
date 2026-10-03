@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-158-evans-curiouswordnorth-1952-2c96b5a46b43
 
 # A curious word from North Borneo
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

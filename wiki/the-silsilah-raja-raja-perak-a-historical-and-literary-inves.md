@@ -24,8 +24,8 @@ published: false
 
 # The Silsilah Raja-Raja Perak, a historical and literary investigation into the political significance of a Malay court genealogy
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

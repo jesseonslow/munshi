@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-085-overbeck-malaypantun-1922-7bcb52ccc69d.md
 
 # The Malay pantun
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

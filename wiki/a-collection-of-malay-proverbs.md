@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-266-sheppard-malaywoodcarvingnew-1994-9826700d79d
 
 # A collection of Malay proverbs
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

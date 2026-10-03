@@ -26,8 +26,8 @@ source_path: ../sources/jmbras-301-ahmad-tunabdulrazak-2011-b8e15f979c77/referen
 
 # The Tun Abdul Razak Memorial and the promotion of a national memory in Malaysia
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

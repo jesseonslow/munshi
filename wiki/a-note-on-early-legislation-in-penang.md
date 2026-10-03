@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-151-chye-noteearlylegislation-1950-f07256aa2
 
 # A note on early legislation in Penang
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

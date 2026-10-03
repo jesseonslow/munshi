@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-042-hose-variousmethodscomputing-1905-5e9afbef637
 
 # Traditional Malay house forms in Trengganu and Kelantan
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

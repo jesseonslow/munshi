@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-173-sieveking-recentarchaeologicaldiscoverie
 
 # Recent archaeological discoveries in Malaya (1955
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-216-barlow-johnwaterstradt18691944-1969-7f77ff0f5
 
 # John Waterstradt, 1869–1944
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

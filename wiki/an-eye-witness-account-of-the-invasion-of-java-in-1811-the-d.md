@@ -28,8 +28,8 @@ source_path: ../sources/jsbras-044-ridley-nestingdracofimbriatus-1905-1747517995
 
 # An eye-witness account of the invasion of Java in 1811 — the diary of Lt. W.G.A. Fielding. C. Skinner
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

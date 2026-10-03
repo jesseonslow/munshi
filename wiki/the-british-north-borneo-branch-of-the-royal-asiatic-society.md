@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-278-tzeken-britishnorthborneo-2000-8929170fe28f/a
 
 # The British North Borneo Branch of the Royal Asiatic Society (1893–1897) and its museum
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

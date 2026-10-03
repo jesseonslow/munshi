@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-019-h-treatyjava-1887-cdff05283878.md
 
 # Treaty with Java
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

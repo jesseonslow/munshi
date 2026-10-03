@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-213-stevenson-selangorrajaschool-1968-04dce6b5be2
 
 # The Selangor Raja School
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

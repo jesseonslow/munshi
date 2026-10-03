@@ -22,8 +22,8 @@ published: false
 
 # The bird-dropping spider (Ornithos catoides) in Johor
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

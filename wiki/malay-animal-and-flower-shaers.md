@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-119-overbeck-malayanimalflower-1934-f403391e
 
 # Malay animal and flower shaers
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

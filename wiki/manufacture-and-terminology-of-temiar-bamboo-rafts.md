@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-256-davison-manufactureterminologytemiar-1989-22f
 
 # Manufacture and terminology of Temiar bamboo rafts
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-028-s-memoircaptainfrancis-1895-f5b35961c8e8.md
 
 # Memoir of Captain Francis Light, who founded Penang
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

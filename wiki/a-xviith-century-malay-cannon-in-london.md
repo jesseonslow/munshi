@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-139-blagden-xviithcenturymalay-1941-8d637145
 
 # A XVIIth century Malay cannon in London
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-169-gibsonhill-datemunshiabdullahs-1955-41ac
 
 # The date of Munshi Abdullah’s first visit to Singapore
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

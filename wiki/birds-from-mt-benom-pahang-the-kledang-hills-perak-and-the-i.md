@@ -30,8 +30,8 @@ source_path: ../sources/jmalayanras-104-chasen-birdsmtbenom-1928-542c6ca52aa4.md
 
 # Birds from Mt. Benom, Pahang, the Kledang Hills, Perak, and the islands of Penang, Tioman and Aor. F.N. Chasen and C.B. Kloss. Records of the Raffles Museum, No. 34
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

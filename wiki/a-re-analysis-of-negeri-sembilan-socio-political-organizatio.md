@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-216-labi-reanalysisnegrisembilan-1969-529d20916b8
 
 # A re-analysis of Negeri Sembilan socio-political organization
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

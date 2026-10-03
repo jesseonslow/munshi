@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-227-wake-rafflesrajasfounding-1975-c2a8e8e71f2c.m
 
 # Raffles and the Rajas: the founding of Singapore in Malayan and British colonial history
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

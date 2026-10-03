@@ -26,8 +26,8 @@ source_path: ../sources/jsbras-024-k-nesteggshenicurus-1891-ed4927dad9ef.md
 
 # Nest and eggs of Hernicurus raficapillus Temm
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

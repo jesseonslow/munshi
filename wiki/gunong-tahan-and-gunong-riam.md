@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-062-scrivenor-gunongtahangunong-1912-cb629d5a434f
 
 # Gunong Tahan and Gunong Riam
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

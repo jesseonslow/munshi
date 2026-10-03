@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-036-r-rambongbeetle-1901-c5f0db412178.md
 
 # Rambong beetle
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

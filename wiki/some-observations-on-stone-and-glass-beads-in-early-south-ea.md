@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-208-lamb-observationsstoneglass-1965-caace9b6400c
 
 # Some observations on stone and glass beads in early South-East Asia
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

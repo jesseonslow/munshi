@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-129-leechman-studylocalsingapore-1937-4ca6c2
 
 # Study of local Singapore tides
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

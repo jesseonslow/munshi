@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-079-blagden-cannibalkingkedah-1918-315109e42ab4.m
 
 # The cannibal king in the “Kedah Annals”
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

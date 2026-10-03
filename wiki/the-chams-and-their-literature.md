@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-249-marrison-chamsliterature-1985-25207936b0a1/ap
 
 # The Chams and their literature
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

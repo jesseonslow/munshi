@@ -27,8 +27,8 @@ source_path: ../sources/jmalayanras-173-kao-primarychineserecord-1956-3fabb9414e
 
 # A primary Chinese record relating to Ho-lo-tan, and miscellaneous notes on Srivijaya and Fo-Che
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

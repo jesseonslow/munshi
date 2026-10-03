@@ -27,8 +27,8 @@ source_path: ../sources/jmalayanras-119-linehan-marhummudapahang-1934-853cc732d9
 
 # Ornithological notes made in the Straits Settlements and the western states of the Malay Peninsula
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

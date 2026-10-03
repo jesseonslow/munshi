@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-097-linehan-reinstatementoranghulur-1926-9c7
 
 # Reinstatement of an orang hulur
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

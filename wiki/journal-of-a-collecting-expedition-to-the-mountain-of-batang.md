@@ -26,8 +26,8 @@ source_path: ../sources/jsbras-021-l-wray-journalcollectingexpedition-1890-98fed
 
 # Journal of a collecting expedition to the mountain of Batang Padang, Perak
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

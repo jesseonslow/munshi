@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-242-sheppard-hsuyuntsiao19051981-1982-665652b9981
 
 # Hsu-Yun-Tsiao, 1905–1981. Obituary
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

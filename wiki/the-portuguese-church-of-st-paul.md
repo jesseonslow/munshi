@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-119-cardon-portuguesechurchst-1934-0ec0fb0b6
 
 # The Portuguese Church of St. Paul
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

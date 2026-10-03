@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-003-s-geographicalnotes-1879-e536c45f8fd8.md
 
 # Geographical notes
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

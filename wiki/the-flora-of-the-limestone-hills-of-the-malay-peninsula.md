@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-134-henderson-floralimestonehills-1939-b96bd
 
 # The flora of the limestone hills of the Malay Peninsula
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

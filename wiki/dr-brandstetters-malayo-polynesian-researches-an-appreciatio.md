@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-042-blagden-drbrandstettersmalayopolynesian-1905-
 
 # Dr. Brandstetter’s Malayo-Polynesian researches: an appreciation
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

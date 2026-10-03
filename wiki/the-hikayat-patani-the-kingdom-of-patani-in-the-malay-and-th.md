@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-301-porath-hikayatpatanikingdom-2011-af5e8cc51b79
 
 # The Hikayat Patani : the kingdom of Patani in the Malay and Thai political world
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

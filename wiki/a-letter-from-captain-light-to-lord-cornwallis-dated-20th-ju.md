@@ -28,8 +28,8 @@ source_path: ../sources/jmalayanras-131-wurtzburg-lettercaptainlight-1938-47df68
 
 # A letter from Captain Light to Lord Cornwallis dated 20th June, 1788. Communicated C.E. Wurtzburg
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

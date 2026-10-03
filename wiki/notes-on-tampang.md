@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-111-linehan-notestampang-1931-4f144ec87129.m
 
 # Notes on tampang
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

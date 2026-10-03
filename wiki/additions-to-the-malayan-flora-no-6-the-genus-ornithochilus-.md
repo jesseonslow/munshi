@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-234-stone-additionsmalayanflora-1978-fae81dac0f1f
 
 # Additions to the Malayan flora No. 6. The genus Ornithochilus (Orthidaceae) new to Malaysia
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -26,8 +26,8 @@ source_path: ../sources/jmalayanras-144-headly-timogangenesis-1948-86720d79a48a.
 
 # Timogan genesis. J. & D. Headly
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

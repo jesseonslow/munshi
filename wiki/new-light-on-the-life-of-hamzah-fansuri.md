@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-211-alattas-newlightlife-1967-b35b1039e51c.md
 
 # New light on the life of Hamzah Fansuri
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

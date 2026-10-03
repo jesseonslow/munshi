@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-319-suwannathatpian-tunkubadlishahsultan-2020-61d
 
 # Report on a journey from Tuaran to Kiau and ascent of Kinabalu Mountain
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

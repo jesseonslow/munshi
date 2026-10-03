@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-154-wodak-medalsconnectedsiam-1951-a53e0be73
 
 # Medals connected with Siam
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

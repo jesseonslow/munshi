@@ -34,8 +34,8 @@ source_path: ../sources/jsbras-039-corrigendamrc-1903-215535fca24b.md
 > **Notice of Subsequent Amendments:**
 > * **Errata:** Published in [Errata SB 39: {211} Je 1903](./jsbras-039.md)
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

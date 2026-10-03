@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-213-hooker-notemalayanlegal-1968-abebe65d5ffc.md
 
 # A note on the Malayan legal digests
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

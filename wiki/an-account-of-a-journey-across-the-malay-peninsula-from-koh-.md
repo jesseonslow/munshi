@@ -26,8 +26,8 @@ source_path: ../sources/jsbras-024-keith-accountjourneyacross-1891-101030e18f1e.
 
 # An account of a journey across the Malay Peninsula from Koh Lak to Mergui
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

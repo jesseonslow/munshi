@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-242-yousof-norachatrikedah-1982-f0979cffa505/appe
 
 # Nora Chatri in Kedah: a preliminary report (with appendix
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

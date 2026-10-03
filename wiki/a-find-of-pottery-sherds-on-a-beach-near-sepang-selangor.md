@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-140-noone-findpotterysherds-1941-cd98ca68560
 
 # A find of pottery sherds on a beach near Sepang, Selangor
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

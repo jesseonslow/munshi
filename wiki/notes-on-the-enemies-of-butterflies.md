@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-086-collenette-notesenemiesbutterflies-1922-2761b
 
 # Notes on the enemies of butterflies
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

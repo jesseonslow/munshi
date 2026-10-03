@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-310-kelly-nationconsecration-2016-eed7c568d1f3/re
 
 # Nation and consecration: conversions of death into sacrifice in Singapore
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

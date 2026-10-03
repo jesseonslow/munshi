@@ -22,8 +22,8 @@ published: false
 
 # Coal in Borneo: The voyage of Julian Tenison Woods 1884
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

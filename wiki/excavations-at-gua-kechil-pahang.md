@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-216-medway-excavationsguakechil-1969-ccff6b291a3a
 
 # Excavations at Gua Kechil, Pahang
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

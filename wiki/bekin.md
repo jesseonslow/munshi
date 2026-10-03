@@ -26,8 +26,8 @@ source_path: ../sources/jsbras-032-ridley-insectivoroussquirrel-1899-cabd4e6a994
 
 # Bekin
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

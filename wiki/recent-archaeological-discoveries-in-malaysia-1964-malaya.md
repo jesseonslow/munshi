@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-209-peacock-malaya-1966-3fd580218e92.md
 
 # Recent archaeological discoveries in Malaysia 1964: Malaya
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

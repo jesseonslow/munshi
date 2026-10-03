@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-074-pepys-kelantanglossary-1916-2524e923a378.md
 
 # A Kelantan glossary
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

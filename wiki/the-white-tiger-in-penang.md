@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-151-sim-whitetigerpenang-1950-d8eec21029ef.m
 
 # The “white tiger” in Penang
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

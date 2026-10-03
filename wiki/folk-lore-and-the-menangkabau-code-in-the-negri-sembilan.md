@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-031-hale-folkloremenangkabaucode-1898-ca6b7667893
 
 # Folk-lore and the Menangkabau code in the Negri Sembilan
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -22,8 +22,8 @@ published: false
 
 # Visit of Lord William Bentinck to Penang in 1828. NQ 2
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-031-shellabear-accountoldestmalay-1898-d31571ddeb
 
 # An account of some of the oldest Malay Mss. now extant
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

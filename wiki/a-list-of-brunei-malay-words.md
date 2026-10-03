@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-083-marshall-vocabularybruneimalay-1921-92805f020
 
 # A list of Brunei-Malay words
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

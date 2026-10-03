@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-010-m-chiri-1882-09394f701ff7.md
 
 # The chiri
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

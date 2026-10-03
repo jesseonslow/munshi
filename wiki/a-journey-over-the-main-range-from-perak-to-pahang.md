@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-068-rulesstraitsbranch-1915-30c6a1259cf5.md
 
 # A journey over the main range from Perak to Pahang
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

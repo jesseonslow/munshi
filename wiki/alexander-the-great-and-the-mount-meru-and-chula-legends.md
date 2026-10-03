@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-138-winstedt-alexandergreatmount-1940-0b3225
 
 # Alexander the Great and the Mount Meru and Chula legends
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

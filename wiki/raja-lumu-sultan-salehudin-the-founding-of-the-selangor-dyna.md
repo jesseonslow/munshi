@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-058-hose-hikayatsaifalyezan-1911-8049e3d21c2a.md
 
 # Raja Lumu – Sultan Salehudin: the founding of the Selangor dynasty
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

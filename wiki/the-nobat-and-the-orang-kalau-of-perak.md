@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-156-linehan-nobatorangkalau-1951-f9a1033aa1e
 
 # The nobat and the Orang Kalau of Perak
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-102-carr-orchidpollinationnotes-1928-1973080
 
 # Orchid pollination notes
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

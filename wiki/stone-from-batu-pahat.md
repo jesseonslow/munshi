@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-009-hervey-stonebtupahat-1882-0f248a0b17e7.md
 
 # Stone from Batu Pahat
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

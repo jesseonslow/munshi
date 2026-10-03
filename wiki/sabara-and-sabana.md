@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-161-douglas-sabarasabana-1953-7a2cbce46730.m
 
 # Sabara and sabana
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

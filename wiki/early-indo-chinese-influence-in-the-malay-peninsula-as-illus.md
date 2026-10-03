@@ -27,8 +27,8 @@ source_path: ../sources/jsbras-027-blagden-earlyindochineseinfluence-1894-74bc9c
 
 # Early Indo-Chinese influence in the Malay Peninsula, as illustrated by some of the dialects of the aboriginal tribes
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

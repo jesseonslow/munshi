@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-208-coolhaas-malaccajanvan-1965-b2761bffabcd.md
 
 # Malacca under Jan van Riebeeck
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

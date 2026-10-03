@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-119-macdonald-malaccabuildings-1934-dc475477
 
 # Malacca buildings
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

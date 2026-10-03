@@ -28,8 +28,8 @@ source_path: ../sources/jsbras-022-maxwell-lawrelatingslavery-1890-dfa2b663df41.
 
 # The law relating to slavery among the Malays (with extracts from the Perak Code of Laws relating to slavery: the original text with transliteration and translation
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

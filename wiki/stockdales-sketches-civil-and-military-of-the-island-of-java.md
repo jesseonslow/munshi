@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-248-bastin-stockdalessketchescivil-1985-798a4028a
 
 # Stockdale’s sketches, civil and military, of the island of Java: a bibliographical note
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

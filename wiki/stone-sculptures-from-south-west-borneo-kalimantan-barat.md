@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-224-harrisson-stonesculpturessouthwest-1973-00ed4
 
 # Stone sculptures from south-west Borneo (Kalimantan Barat
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

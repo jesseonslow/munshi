@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-126-coope-kangchusystemjohore-1936-97a5d506a
 
 # The kangchu system in Johore
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

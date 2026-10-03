@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-031-skeat-recordsmalaymagic-1898-3648f10444dc.md
 
 # A history of classical Malay literature. Rev. ed
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-205-lamb-notesbeadsjohor-1964-1f47e971efdd.md
 
 # Notes on beads from Johor Lama and Kota Tinggi
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

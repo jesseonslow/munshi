@@ -27,8 +27,8 @@ source_path: ../sources/noor-the-uses-of-magic-919db359fa48.md
 
 # The Uses of Magic: Local Knowledge and the 'Unscientific Native' in Colonial Malaya
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

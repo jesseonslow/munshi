@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-212-hassan-rajabotbin-1967-412fd8cba34a.md
 
 # Raja Bot bin Raja Jumaat
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

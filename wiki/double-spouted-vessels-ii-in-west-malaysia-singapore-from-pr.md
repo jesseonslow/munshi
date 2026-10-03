@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-226-harrisson-doublespoutedvesselsii-1974-7aec302
 
 # Double-spouted vessels, II: in West Malaysia & Singapore (from prehistory to the present day
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

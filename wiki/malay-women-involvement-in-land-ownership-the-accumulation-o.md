@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-286-musa-malaywomensinvolvement-2004-788e236477f7
 
 # Malay women: involvement in land ownership, the accumulation of wealth and indebtedness in Kedah (1881–1940
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

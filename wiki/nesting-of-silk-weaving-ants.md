@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-045-shelford-nestingsilkweavingants-1906-f2e7cf02
 
 # Nesting of silk-weaving ants
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

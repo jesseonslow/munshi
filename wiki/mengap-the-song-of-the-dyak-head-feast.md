@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-002-s-geographicalnotesrecentjourneys-1878-3004b1
 
 # Mengap, the song of the Dyak head feast
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

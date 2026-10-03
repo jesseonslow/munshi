@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-044-ridley-nestingdracofimbriatus-1905-1747517995
 
 # The Gesneraceae of the Malay Peninsula
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

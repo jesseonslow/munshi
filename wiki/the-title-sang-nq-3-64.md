@@ -22,8 +22,8 @@ published: false
 
 # The title “Sang”. NQ 3: 64
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

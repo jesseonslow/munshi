@@ -27,8 +27,8 @@ source_path: ../sources/jmalayanras-166-burdon-papersmalayanfishing-1954-fb05d03
 
 # The boats of local origin employed in the Malayan fishing industry. {In Papers on Malayan fishing methods
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

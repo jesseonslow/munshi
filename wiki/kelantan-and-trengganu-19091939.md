@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-207-suming-kelantantrengganu19091939-1965-84d405e
 
 # Kelantan and Trengganu, 1909–1939
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

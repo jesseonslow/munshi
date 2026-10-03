@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-079-gibbs-peculiarpapuancustoms-1918-c8c0fc915eb3
 
 # Some peculiar Papuan customs
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

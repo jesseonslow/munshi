@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-107-woolley-notesmurutbasket-1929-dbd9220eb3
 
 # Some notes on Murut basket work and patterns
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

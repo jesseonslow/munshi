@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-024-clifford-newcollectionmalay-1891-8b9d3cd4f13e
 
 # A new collection of Malay proverbs
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

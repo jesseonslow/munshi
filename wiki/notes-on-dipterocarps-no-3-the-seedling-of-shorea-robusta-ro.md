@@ -27,8 +27,8 @@ source_path: ../sources/jsbras-079-burkill-notesdipterocarpsno-1918-02453ea4639c
 
 # Notes on Dipterocarps. {No. 3} The seedling of Shorea robusta, Roxb., and the conditions under which it grows into pure forests
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

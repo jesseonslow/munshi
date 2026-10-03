@@ -33,8 +33,8 @@ source_path: ../sources/jmalayanras-158-wurtzburg-rafflespalembangmassacre-1952-
 
 # Raffles and the massacre at Palembang
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

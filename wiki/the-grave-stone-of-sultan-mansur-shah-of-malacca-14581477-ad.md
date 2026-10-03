@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-303-larsen-firstsultansarawak-2012-5d57207295dc/r
 
 # The grave-stone of Sultan Mansur Shah of Malacca (1458–1477 A.D.
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

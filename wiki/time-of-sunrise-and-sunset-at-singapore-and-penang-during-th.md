@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-079-marriott-timesunrisesunset-1918-940c199b0f55.
 
 # Time of sunrise and sunset at Singapore and Penang during the year
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-001-pickering-chinesesecretsocieties-1878-030d43b
 
 # Chinese secret societies and their origin
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

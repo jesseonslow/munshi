@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-046-ridley-menageriebotanicgardens-1906-0200df1a5
 
 # The menagerie at the Botanic Gardens
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-215-birch-vernacularpressstraits-1969-622fdcb44e3
 
 # The vernacular press in the Straits
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

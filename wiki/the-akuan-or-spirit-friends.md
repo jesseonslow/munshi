@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-086-ahmad-akuanspiritfriends-1922-b27be7758b4a.md
 
 # The akuan or spirit-friends
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

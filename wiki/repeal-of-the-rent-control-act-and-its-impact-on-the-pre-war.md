@@ -28,8 +28,8 @@ source_path: ../sources/jmbras-290-mohit-repealrentcontrol-2006-566e5bfbd3f5/ref
 
 # Repeal of the Rent Control Act and its impact on the pre-war shop-houses in Georgetown, Malaysia
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

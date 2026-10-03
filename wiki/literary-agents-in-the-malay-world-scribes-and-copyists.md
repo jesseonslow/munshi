@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-319-putten-literaryagentsmalay-2020-d63a88c7471f/
 
 # Literary agents in the Malay World: Scribes and copyists
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

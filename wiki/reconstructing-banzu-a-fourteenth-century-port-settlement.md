@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-282-soon-reconstructingbanzufourteenthcentury-200
 
 # Reconstructing Banzu, a fourteenth century port settlement
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-200-anderson-facsimilereprintpolitical-1962-
 
 # British relations with Pahang, 1884–1895
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

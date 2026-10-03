@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-142-wurtzburg-birthdaysirstamford-1947-8eec7
 
 # The birthday of Sir Stamford Raffles
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

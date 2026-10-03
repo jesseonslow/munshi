@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-227-wilson-evolutionlandadministration-1975-f3523
 
 # The evolution of land administration in the Malay states: a survey of British inspired changes
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

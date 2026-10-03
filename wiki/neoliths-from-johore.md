@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-113-abdulaziz-neolithsjohore-1932-6dad0cf073
 
 # Neoliths from Johore
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

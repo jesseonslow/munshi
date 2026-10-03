@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-065-shellabear-babamalayintroduction-1913-b1eb6d6
 
 # Baba Malay: an introduction to the language of the Straits-born Chinese
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

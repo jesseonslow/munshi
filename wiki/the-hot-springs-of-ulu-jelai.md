@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-033-machado-hotspringsulu-1900-4573ad6d50c2.md
 
 # The hot springs of Ulu Jelai
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

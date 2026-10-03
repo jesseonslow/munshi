@@ -27,8 +27,8 @@ source_path: ../sources/jsbras-032-hose-cataloguefernsborneo-1899-56ec5ab66e72.m
 
 # Hose, G.F. A catalogue of the ferns of Borneo and some of the adjacent islands which have been recorded up to the present time
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

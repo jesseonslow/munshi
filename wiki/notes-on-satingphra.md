@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-205-lamb-notessatingphra-1964-12c2ad14987d.md
 
 # Notes on Satingphra
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

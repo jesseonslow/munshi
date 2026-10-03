@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-002-irving-suggestionsregardingnew-1878-7a7b43856
 
 # Suggestions regarding a new Malay dictionary
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-081-winstedt-earlymuhammadanmissionaries-1920-18d
 
 # The early Muhammadan missionaries
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

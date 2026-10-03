@@ -27,8 +27,8 @@ source_path: ../sources/jmalayanras-096-chasen-miniopterusmediusmalay-1926-9c445
 
 # Miniopterus medius in the Malay Peninsula. Records of the Raffles Museum, No. 14
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-181-sullivan-excavationskedahprovince-1958-3
 
 # Excavations in Kedah and Province Wellesley, 1957
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-129-wilkinson-notesuponstudy-1937-4c88bab1ec
 
 # Further notes upon a study of ancient times in the Malay Peninsula
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

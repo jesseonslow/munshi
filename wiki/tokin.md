@@ -34,8 +34,8 @@ source_path: ../sources/jmalayanras-111-winstedt-tokin-1931-a94808e2b79d.md
 > **Notice of Subsequent Amendments:**
 > * **Errata:** Published in [Errata MB 10(1): 163 Ja 1932](./mbras-010-1.md)
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

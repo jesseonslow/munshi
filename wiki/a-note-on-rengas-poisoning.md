@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-024-brown-noterengaspoisoning-1891-3b8061d6ea86.m
 
 # A note on rengas poisoning
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

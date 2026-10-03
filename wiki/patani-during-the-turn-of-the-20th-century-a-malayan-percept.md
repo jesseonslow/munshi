@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-254-kim-pataniturn20th-1988-c9ffd14a4750.md
 
 # Patani during the turn of the 20th century: a Malayan perception
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-158-gibsonhill-possibleoriginjong-1952-d8c83
 
 # A possible origin of the Jong stories
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

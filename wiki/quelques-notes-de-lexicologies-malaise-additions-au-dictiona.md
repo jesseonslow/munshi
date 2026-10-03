@@ -24,8 +24,8 @@ published: false
 
 # {Quelques notes de lexicologies malaise. Additions au Dictionaire malais-francais de l’ Abbé Favre, par M. Marcel Device
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

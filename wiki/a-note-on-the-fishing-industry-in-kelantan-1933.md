@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-269-sheppard-notefishingindustry-1995-4346ac2ad9a
 
 # A note on the fishing industry in Kelantan, 1933
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

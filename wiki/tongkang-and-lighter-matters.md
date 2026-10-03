@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-158-gibsonhill-tongkanglightermatters-1952-b
 
 # Tongkang and lighter matters
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

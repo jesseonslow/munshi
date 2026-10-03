@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-057-winstedt-historypeninsulafolktales-1911-ccd02
 
 # The history of the peninsula in folk-tales
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

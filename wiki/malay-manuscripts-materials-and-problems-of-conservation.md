@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-265-ming-malaymanuscriptsmaterials-1993-fb901081d
 
 # Malay manuscripts: materials and problems of conservation
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

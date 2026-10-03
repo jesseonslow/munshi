@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-231-loofs-mokkhalanalignment-1977-06f89c76b735.md
 
 # The Mok Khalan alignment in Southern Thailand and associated archaeological remains
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

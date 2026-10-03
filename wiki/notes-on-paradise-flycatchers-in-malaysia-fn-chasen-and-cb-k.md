@@ -28,8 +28,8 @@ source_path: ../sources/jmalayanras-104-chasen-notesparadiseflycatchers-1928-917
 
 # Notes on Paradise flycatchers in Malaysia. F.N. Chasen and C.B. Kloss. Records of the Raffles Museum, No. 32
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

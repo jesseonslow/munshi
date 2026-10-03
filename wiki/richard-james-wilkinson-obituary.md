@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-142-winstedt-obituaryrichardjames-1947-b7782
 
 # Richard James Wilkinson: Obituary
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-197-teixeira-influenceportuguesemalay-1962-1
 
 # The influence of Portuguese on the Malay language
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

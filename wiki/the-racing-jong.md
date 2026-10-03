@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-151-gibsonhill-racingjong-1950-684ec28b9f4b.
 
 # The racing jong
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

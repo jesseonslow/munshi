@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-147-editorial-1948-8345d89346b2.md
 
 # Index {to} volumes 1–20 (1923–47) of the Society’s journals
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

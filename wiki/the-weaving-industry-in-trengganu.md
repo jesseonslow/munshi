@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-149-hill-weavingindustrytrengganu-1949-6034b
 
 # The weaving industry in Trengganu
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

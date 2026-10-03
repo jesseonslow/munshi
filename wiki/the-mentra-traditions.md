@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-010-hervey-mntratraditions-1882-655678dfe9ec.md
 
 # The Mentra traditions
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

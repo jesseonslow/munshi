@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-140-winstedt-rajalangitcelestial-1941-6757f3
 
 # Raja Langit, the celestial emperor
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

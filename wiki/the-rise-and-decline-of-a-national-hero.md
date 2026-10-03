@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-208-jong-risedeclinenational-1965-0d4ee88aaf93.md
 
 # The rise and decline of a national hero
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

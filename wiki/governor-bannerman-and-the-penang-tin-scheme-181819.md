@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-151-cowan-governorbannermanpenang-1950-a8833
 
 # Governor Bannerman and the Penang tin scheme, 1818–19
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

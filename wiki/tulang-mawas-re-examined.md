@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-161-loewenstein-tulangmawasreexamined-1953-b
 
 # “Tulang mawas” re-examined
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-218-tarling-britainsarawaktwentieth-1970-1acc6acf
 
 # Britain and Sarawak in the twentieth century: Raja Charles, Raja Vyner and the Colonial Office
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

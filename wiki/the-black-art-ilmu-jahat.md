@@ -34,8 +34,8 @@ source_path: ../sources/jmalayanras-117-coope-blackartilmu-1933-a43e0361894b.md
 > **Notice of Subsequent Amendments:**
 > * **Corrigenda:** Published in [Corrigenda MB 13(1): 193 O 1935](./mbras-013-1.md)
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

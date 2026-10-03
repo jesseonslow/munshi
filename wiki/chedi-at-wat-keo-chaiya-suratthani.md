@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-053-hunter-plantsprincewales-1909-b9cfdf3dc7d7/ap
 
 # Chedi at Wat Keo, Chaiya, Suratthani
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -22,8 +22,8 @@ published: false
 
 # Obituary. H.G. Quaritch Wales. With a note by M. Sheppard
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

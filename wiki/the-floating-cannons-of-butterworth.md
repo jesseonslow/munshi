@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-142-coope-floatingcannonbutterworth-1947-242
 
 # The floating cannons of Butterworth
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

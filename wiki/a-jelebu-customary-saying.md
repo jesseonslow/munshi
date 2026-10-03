@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-111-winstedt-jelebucustomarysaying-1931-24c2
 
 # A Jelebu customary saying
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

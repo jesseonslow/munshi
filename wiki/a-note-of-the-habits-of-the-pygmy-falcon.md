@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-088-laidlaw-notehabitspygmy-1923-c59dba79fed
 
 # A note of the habits of the pygmy falcon
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

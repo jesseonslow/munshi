@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-291-hussainmiya-constitutionalpracticebrunei-2006
 
 # Constitutional practice in Brunei as highlighted in the 1955 memorandum of R.H. Hickling
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

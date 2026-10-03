@@ -28,8 +28,8 @@ source_path: ../sources/jmalayanras-096-smedley-abnormalunnamedseasnake-1926-0cf
 
 # An abnormal, or unnamed, sea-snake. N. Smedley and C.B. Kloss. Records of the Raffles Museum, No. 18
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

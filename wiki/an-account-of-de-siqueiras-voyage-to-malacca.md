@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-057-maxwell-accountdesiqueiras-1911-ec7d8ad945dc.
 
 # An account of De Siqueira’s voyage to Malacca
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

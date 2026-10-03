@@ -36,8 +36,8 @@ source_path: ../sources/jmbras-242-cheebeng-peranakanchinesenortheast-1982-294c9
 > **Notice of Subsequent Amendments:**
 > * **Addenda:** Published in [Addenda and corrigenda. MB 55(2): plates 1–8 D 1982](./mbras-055-2.md)
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

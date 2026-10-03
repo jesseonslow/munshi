@@ -22,8 +22,8 @@ published: false
 
 # Olivia Raffles and Thomas Moore
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

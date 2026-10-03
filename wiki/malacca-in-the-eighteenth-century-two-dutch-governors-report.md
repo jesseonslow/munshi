@@ -28,8 +28,8 @@ source_path: ../sources/jmalayanras-165-harrison-malaccaeighteenthcentury-1954-1
 
 # Malacca in the eighteenth century: two Dutch governors’ reports; . Harrison
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

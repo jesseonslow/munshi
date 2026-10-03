@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-230-lockard-earlydevelopmentkuching-1976-b7037914
 
 # The early development of Kuching, 1820–1857
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

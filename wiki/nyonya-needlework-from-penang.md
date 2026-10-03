@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-297-cheah-nyonyaneedleworkpenang-2009-4bb1e17073b
 
 # Nyonya needlework from Penang
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

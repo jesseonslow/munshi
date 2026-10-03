@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-077-winstedt-placenameshikayatpasai-1917-6d6a0419
 
 # Place-names in the Hikayat Pasai
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

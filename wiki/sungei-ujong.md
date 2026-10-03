@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-034-c-pulautiumansuperstition-1900-27ea12f4704f.m
 
 # Sungei Ujong
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-284-lubis-transformationmandailingcultural-2003-3
 
 # Transformation of Mandailing cultural identity and leadership
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

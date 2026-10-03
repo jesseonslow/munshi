@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-045-knight-chinesenamesstreets-1906-d780f1c5e443.
 
 # Chinese names of streets
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -28,8 +28,8 @@ source_path: ../sources/johnson-lim-curating-shadows-cc67cf93433c.md
 
 # Curating Shadows: Malayan Shadow Puppets in Singapore's Asian Civilisations Museum
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

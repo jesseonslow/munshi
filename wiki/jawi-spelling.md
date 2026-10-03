@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-103-ahmad-jawispelling-1928-a55ecf9f095f.md
 
 # Jawi spelling
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

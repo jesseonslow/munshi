@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-113-woolley-imurutbasketwork-1932-556adbe993
 
 # Murut basketwork
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-108-winstedt-royaltabusnegri-1929-0d233d9bbf
 
 # Royal tabus in Negri Sembilan
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

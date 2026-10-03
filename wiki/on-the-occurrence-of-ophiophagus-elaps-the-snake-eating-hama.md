@@ -26,8 +26,8 @@ source_path: ../sources/jsbras-001-dennys-occurrenceophiophaguselaps-1878-84dbad
 
 # On the occurrence of Ophiophagus elaps, the snake-eating Hamadryad in Singapore
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

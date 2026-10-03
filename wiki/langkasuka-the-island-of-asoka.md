@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-144-linehan-langkasukaislandasoka-1948-f07a6
 
 # Langkasuka, the island of Asoka
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-278-barlow-francislightssilver-2000-2a664e3e9e46/
 
 # Francis Light’s “Silver Bason”?
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

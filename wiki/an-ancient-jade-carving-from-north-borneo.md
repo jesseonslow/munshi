@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-154-evans-ancientjadecarving-1951-49c8086ca2
 
 # An ancient jade carving from North Borneo
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

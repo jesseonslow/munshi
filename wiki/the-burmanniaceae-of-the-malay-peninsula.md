@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-022-ridley-burmanniacemalaypeninsula-1890-920d6c4
 
 # The Burmanniaceae of the Malay Peninsula
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

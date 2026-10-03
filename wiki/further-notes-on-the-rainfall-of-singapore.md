@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-143-braddell-notesancienttimes-1947-4651cc59
 
 # Further notes on the rainfall of Singapore
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

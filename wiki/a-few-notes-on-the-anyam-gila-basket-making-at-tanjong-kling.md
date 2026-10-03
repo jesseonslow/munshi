@@ -26,8 +26,8 @@ source_path: ../sources/jmbras-223-bastin-javajournaldr-1973-1a750eb67381/index.
 
 # A few notes on the “anyam gila” basket making at Tanjong Kling, Malacca
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

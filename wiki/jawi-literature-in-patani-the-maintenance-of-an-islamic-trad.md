@@ -26,8 +26,8 @@ source_path: ../sources/jsbras-061-hanitsch-annualreportstraits-1912-1eff08288ff
 
 # Jawi literature in Patani: the maintenance of an Islamic tradition
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

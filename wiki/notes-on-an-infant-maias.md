@@ -26,8 +26,8 @@ source_path: ../sources/jmalayanras-161-gibsonhill-dutchmalaywordlistpeter-1953-
 
 # Notes on an infant maias
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

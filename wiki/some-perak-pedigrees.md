@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-079-winstedt-perakpedigrees-1918-120e8906a85e.md
 
 # Some Perak pedigrees
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -27,8 +27,8 @@ source_path: ../sources/jmalayanras-087-burkill-notesdipterocarpsno-1923-e6c05bb
 
 # Notes on Dipterocarps. {No. 9} On the differences in the seedlings between Balanocarpus maximus, King, and B. heimii, King
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

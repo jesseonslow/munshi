@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-278-abdullah-sekolahmenengahmelayu-2000-6fd9c3986
 
 # Sekolah menengah di Singapura 1959–1987
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

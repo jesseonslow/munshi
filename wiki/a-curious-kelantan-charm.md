@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-082-gimlette-curiouskelantancharm-1920-0f405f8cf4
 
 # A curious Kelantan charm
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

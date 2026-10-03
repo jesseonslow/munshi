@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-126-keith-ulunnobokanmurutcharms-1936-11a380
 
 # Some ulun-no-bokan (Murut) charms
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

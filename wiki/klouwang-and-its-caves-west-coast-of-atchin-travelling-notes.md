@@ -28,8 +28,8 @@ source_path: ../sources/jsbras-008-wallon-klouwangcaveswest-1881-9ecd493b2d47.md
 
 # Klouwang and its caves, west coast of Atchin; travelling notes of M.L.H. Wallon, civil engineer of mines. .F.A. Hervey
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

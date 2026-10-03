@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-142-woolley-murutfairytale-1947-9d835c7409f1
 
 # A Murut fairy tale
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

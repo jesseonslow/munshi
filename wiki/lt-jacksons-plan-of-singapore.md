@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-161-pearson-ltjacksonsplan-1953-6596cdcc0c1d
 
 # Lt. Jackson’s plan of Singapore
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

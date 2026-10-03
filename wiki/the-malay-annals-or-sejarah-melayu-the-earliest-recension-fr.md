@@ -39,8 +39,8 @@ source_path: ../sources/jsbras-018-haynes-englishsulumalay-1886-f79bacdec07f.md
 > **Notice of Subsequent Amendments:**
 > * **Corrigenda:** Published in [Corrigenda MB 18(2): 154–155 Ag 1940](./mbras-018-2.md)
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

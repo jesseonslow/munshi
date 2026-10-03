@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-296-jeshurun-tunkuabdulrahman-2009-8b678298b078/r
 
 # Tunku Abdul Rahman Putra and his links with the universities of Cambridge and Malaya, 1960‒1962
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-181-gibsonhill-notesadministrationsingapore-
 
 # Notes on the administration of the Singapore Post Office, 1819–67
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

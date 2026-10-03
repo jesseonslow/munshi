@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-138-staal-folkloresadongdayaks-1940-8adfd80a
 
 # Folklore of Sadong Dyaks
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

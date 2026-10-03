@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-090-stooke-landdayakwords-1924-1b778a242be0.
 
 # Some Land-Dayak words
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

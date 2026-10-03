@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-169-douglas-msshikayatiskandar-1955-058c04ac
 
 # The MSS of the Hikayat Iskander
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

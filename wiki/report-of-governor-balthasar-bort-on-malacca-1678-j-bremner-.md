@@ -29,8 +29,8 @@ source_path: ../sources/jsbras-030-luering-vocabularydusunlanguage-1897-e77c2a69
 
 # Report of Governor Balthasar Bort on Malacca, 1678. .J. Bremner: with an introd. and notes C.O. Blagden
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

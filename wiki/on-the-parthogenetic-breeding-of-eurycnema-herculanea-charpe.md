@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-038-hanitsch-parthenogeneticbreedingeurycnema-190
 
 # On the parthogenetic breeding of Eurycnema herculanea, Charpentier
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-158-gibsonhill-chineselabourershats-1952-521
 
 # Chinese labourers’ hats used in Malaya
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

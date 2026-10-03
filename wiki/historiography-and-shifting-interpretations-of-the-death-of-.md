@@ -26,8 +26,8 @@ source_path: ../sources/jmbras-311-barnard-historiographyshiftinginterpretations
 
 # Historiography and shifting interpretations of the death of Sultan Mahmud Syah
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

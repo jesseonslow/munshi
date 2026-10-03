@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-088-omay-arcticlatah-1923-04adc24dde76/refer
 
 # Arctic latah
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

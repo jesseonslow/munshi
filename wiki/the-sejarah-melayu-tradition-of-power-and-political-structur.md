@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-228-moy-sejarahmelayutradition-1975-712ebc741b91.
 
 # The “Sejarah Melayu” tradition of power and political structure: an assessment of relevant sections of the “Tuhfat-al-Nafis”
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

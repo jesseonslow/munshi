@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-129-dakers-coppertokensraffles-1937-dc89a206
 
 # Some copper tokens in the Raffles Museum, Singapore
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -23,8 +23,8 @@ published: false
 
 # Recent archaeological discoveries in Malaysia. 1967: West Malaysia
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

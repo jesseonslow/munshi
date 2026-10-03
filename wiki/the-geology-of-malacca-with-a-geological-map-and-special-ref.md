@@ -26,8 +26,8 @@ source_path: ../sources/jmalayanras-100-scrivenor-geologymalaccageological-1927-
 
 # The geology of Malacca, with a geological map and special reference to laterite
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

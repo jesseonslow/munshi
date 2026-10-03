@@ -35,8 +35,8 @@ source_path: ../sources/yacob-petronas-oil-money-6a24f7a3f5b7/references.md
 
 How did the national oil company of a small, fledgeling nation grow into a Fortune 500 company? Economic nationalism came to Malaysia later than it did for its neighbours, and scholars have neglected crucial perspectives on how it took shape. One salient symbol of this national sovereignty came with the formation of a national oil company, PETRONAS, which overcame internal and external political threats, corporate intimidation by oil multinationals, and an initial lack of trained specialist staff. Drawing upon primary sources from diverse perspectives, this article discusses how PETRONAS became a global player in the fossil fuel industry, and negotiated successfully with well-established international partners and competitors.
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## Author's Acknowledgements
 

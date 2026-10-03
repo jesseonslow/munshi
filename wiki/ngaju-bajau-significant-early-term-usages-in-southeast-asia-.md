@@ -26,8 +26,8 @@ source_path: ../sources/jmbras-229-harrisson-ngajubajausignificantearly-1976-045
 
 # Ngaju-Bajau: significant early term usages in Southeast Asia (especially Malaysia
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-288-wade-zhengvoyagesreassessment-2005-15ac1022d1
 
 # The Zheng He voyages: a reassessment
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

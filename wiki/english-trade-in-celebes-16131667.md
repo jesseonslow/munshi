@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-031-skeat-recordsmalaymagic-1898-3648f10444dc.md
 
 # English trade in Celebes, 1613–1667
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

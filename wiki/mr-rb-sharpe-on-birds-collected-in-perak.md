@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-147-editorial-1948-8345d89346b2.md
 
 # Mr. R.B. Sharpe on birds collected in Perak
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

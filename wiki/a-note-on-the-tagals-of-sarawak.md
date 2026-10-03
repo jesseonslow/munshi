@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-085-andreini-notetagalssarawak-1922-7d9abf3dadfb.
 
 # A note on the Tagals of Sarawak
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

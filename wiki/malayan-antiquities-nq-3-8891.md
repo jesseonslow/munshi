@@ -22,8 +22,8 @@ published: false
 
 # Malayan antiquities. NQ 3: 88–91
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

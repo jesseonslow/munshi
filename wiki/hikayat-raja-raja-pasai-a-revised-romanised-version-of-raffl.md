@@ -27,8 +27,8 @@ source_path: ../sources/jsbras-033-shelford-tripmtpenrissen-1900-0263d0d66ba9/ap
 
 # Hikayat Raja-Raja Pasai, a revised romanised version of Raffles MS 67, together with an English translation
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

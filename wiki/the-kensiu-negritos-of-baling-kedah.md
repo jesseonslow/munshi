@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-217-carey-kensiunegritosbaling-1970-5bc818a33941.
 
 # The Kensiu Negritos of Baling, Kedah
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

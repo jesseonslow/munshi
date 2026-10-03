@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-044-ridley-newlittleknown-1905-0338dfae8831.md
 
 # New Malayan plants
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

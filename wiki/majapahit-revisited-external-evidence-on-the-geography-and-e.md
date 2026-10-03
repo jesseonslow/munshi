@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-228-colless-majapahitrevisitedexternal-1975-7bf8e
 
 # Majapahit revisited: external evidence on the geography and ethnology of East Java in the Majapahit period
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

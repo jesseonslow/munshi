@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-087-chasen-rarepetrel-1923-7b0bc5570246.md
 
 # A rare petrel
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

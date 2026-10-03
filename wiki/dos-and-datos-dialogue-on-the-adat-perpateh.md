@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-279-gullick-dosdatosdialogue-2000-fbdbd964357f/re
 
 # DO’s and Dato’s: dialogue on the adat perpateh
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

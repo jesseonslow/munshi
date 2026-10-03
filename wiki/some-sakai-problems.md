@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-134-wilkinson-sakaiproblems-1939-47821142557
 
 # Some “Sakai” problems
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

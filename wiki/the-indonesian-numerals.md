@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-028-w-indonesiannumerals-1895-7202b246b2c4.md
 
 # The Indonesian numerals
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

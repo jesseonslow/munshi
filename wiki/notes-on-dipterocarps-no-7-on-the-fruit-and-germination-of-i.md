@@ -26,8 +26,8 @@ source_path: ../sources/jsbras-086-burkill-notesdipterocarpsno-1922-40ffa2d45144
 
 # Notes on Dipterocarps. {No. 7} On the fruit and germination of Isoptera borneensis
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

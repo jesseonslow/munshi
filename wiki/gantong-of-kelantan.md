@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-117-rentse-gantangkelantan-1933-c484620baba0
 
 # Gantong of Kelantan
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

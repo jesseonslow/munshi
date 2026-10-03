@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-096-evans-dusunschinese-1926-74755eae89a5.md
 
 # The Dusuns and the Chinese
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

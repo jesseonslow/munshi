@@ -28,8 +28,8 @@ source_path: ../sources/jmbras-265-rahman-recentarchaeologicaldiscoveries-1993-a
 
 # Recent archaeological discoveries in Sungai Mas, Kedah. Nik Hassan Suhaimi bin Nik Abd. Rahman and Kamaruddin bin Zakaria
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

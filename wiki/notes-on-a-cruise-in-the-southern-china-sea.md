@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-041-kloss-notescruisesouthern-1904-1c4dbc4e10e6.m
 
 # Notes on a cruise in the Southern China Sea
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

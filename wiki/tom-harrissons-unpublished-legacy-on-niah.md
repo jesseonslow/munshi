@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-231-harrisson-tomharrissonsunpublished-1977-7625e
 
 # Tom Harrisson’s unpublished legacy on Niah
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

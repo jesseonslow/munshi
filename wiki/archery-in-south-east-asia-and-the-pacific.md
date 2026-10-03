@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-185-simmonds-archerysoutheast-1959-9ea71349e
 
 # Archery in South-east Asia and the Pacific
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -26,8 +26,8 @@ source_path: ../sources/jsbras-073-campbell-experimentalinvestigationconcerning-
 
 # An experimental investigation concerning the effects of “Tuba” (Derris elliptica
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

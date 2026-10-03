@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-009-maxwell-historyperaknative-1882-58b818a45a38.
 
 # The history of Perak from native sources
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

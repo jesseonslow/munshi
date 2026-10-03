@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-054-blagden-hajikatanakala-1910-618671d38507.md
 
 # Haji Ka-Ta-Na-Ka-La
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

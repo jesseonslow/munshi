@@ -26,8 +26,8 @@ source_path: ../sources/sheppard-kratoska-reflections-on-the-journal-15324637d5c
 
 # Dato Haji Mubin Sheppard. With a note P. Kratoska
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

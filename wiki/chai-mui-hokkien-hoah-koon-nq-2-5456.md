@@ -22,8 +22,8 @@ published: false
 
 # “Chai mui”, (Hokkien “hoah-koon”). NQ 2: 54–56
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

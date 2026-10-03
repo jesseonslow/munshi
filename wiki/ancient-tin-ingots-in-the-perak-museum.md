@@ -34,8 +34,8 @@ source_path: ../sources/jmalayanras-156-linehan-ancienttiningots-1951-3b4f844b63
 > **Notice of Subsequent Amendments:**
 > * **Corrigenda:** Published in [Corrigenda MB 25(1): 200 Ag 1952](./mbras-025-1.md)
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

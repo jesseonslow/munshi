@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-153-gibsonhill-fishingboatsoperated-1950-db1
 
 # Frugivorous habits of the Tupaia
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

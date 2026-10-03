@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-232-means-comparativelinguisticstudy-1977-72b91ef
 
 # A comparative linguistic study of three Malayan aborigine tribes
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

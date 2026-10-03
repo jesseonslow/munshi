@@ -26,8 +26,8 @@ source_path: ../sources/jmbras-293-barnard-celatesrayatlautpirates-2007-8fba3d65
 
 # Celates, Rayat-Laut, pirates: the Orang Laut and their decline in history
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

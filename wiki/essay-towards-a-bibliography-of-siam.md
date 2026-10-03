@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-018-satow-essaytowardsbibliography-1886-1f0c8dcda
 
 # Essay towards a bibliography of Siam
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

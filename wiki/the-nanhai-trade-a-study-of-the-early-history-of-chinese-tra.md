@@ -27,8 +27,8 @@ source_path: ../sources/jsbras-031-skeat-recordsmalaymagic-1898-3648f10444dc.md
 
 # The Nanhai trade: a study of the early history of Chinese trade in the South China Sea
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

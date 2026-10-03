@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-035-ridley-garuchandan-1901-de0270b14829.md
 
 # Garu and Chandan
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

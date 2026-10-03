@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-207-harrisson-bronzeturtlescentral-1965-b758c8ac7
 
 # Bronze turtles in Central Borneo
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

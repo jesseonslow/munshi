@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-161-gibsonhill-singaporechronicle182437-1953
 
 # The Singapore Chronicle, 1824–37
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-049-douglas-journeyinteriorborneo-1907-82d06d779b
 
 # A journey into the interior of Borneo to visit the Kalabit tribes
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

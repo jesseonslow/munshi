@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-090-hashim-malayequivalentsmilitary-1924-92f
 
 # Malay equivalents for military terms
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

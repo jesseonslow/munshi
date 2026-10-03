@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-061-ridley-botanicalexcursionpulau-1912-704a8fb85
 
 # A botanical excursion to Pulau Adang
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

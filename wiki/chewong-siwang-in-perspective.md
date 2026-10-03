@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-247-needham-chewongsiwangperspective-1984-9a1049e
 
 # Chewong (Siwang) in perspective
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

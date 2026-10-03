@@ -27,8 +27,8 @@ source_path: ../sources/jsbras-037-blagden-dialectsmalaypeninsula-1902-ebd9a185c
 
 # The comparative philology of the Sakai and Semang dialects of the Malay Peninsula – a review
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

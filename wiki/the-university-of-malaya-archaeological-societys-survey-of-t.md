@@ -27,8 +27,8 @@ source_path: ../sources/jmalayanras-185-tonn-universitymalayaarchaeological-1959
 
 # The University of Malaya Archaeological Society’s survey of the Kuala Muda area (South Kedah), in July 1956
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

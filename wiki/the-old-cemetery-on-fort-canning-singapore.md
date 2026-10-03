@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-061-stallwood-oldcemeteryfort-1912-45d47e5bdf1f/i
 
 # The old cemetery on Fort Canning, Singapore
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

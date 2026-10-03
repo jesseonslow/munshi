@@ -23,8 +23,8 @@ published: false
 
 # Light in the Malay language: with a foreword by R.J. Wilkinson
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -26,8 +26,8 @@ source_path: ../sources/jmbras-278-candilio-sultanabubakar-2000-0b0fe0234ca5/ref
 
 # Sultan Abu Bakar’s visit to the Italian king and to the Pope
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -24,8 +24,8 @@ published: false
 
 # Egyptian one-act plays. (Selected and . Johnson-Davies). {Reviewed Krishen Jit
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-098-linehan-xviiithcenturytomb-1926-d63527bf
 
 # A XVIIIth century tomb at Pekan Lama
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

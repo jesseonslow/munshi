@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-100-cardon-migrationcatopsiliapomona-1927-a8
 
 # On a migration of Catopsilia pomona (F.
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

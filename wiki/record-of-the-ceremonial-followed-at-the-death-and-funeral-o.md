@@ -30,8 +30,8 @@ source_path: ../sources/jmalayanras-126-bryson-recordceremonialfollowed-1936-b5e
 
 # Record of the ceremonial followed at the death and funeral of Yang Di-Pertuan Besar, Tuanku Muhammad, G.C.M.G., K.C.V.O., ibni al-Marhum Yam Tuan Antah, and at the proclamation of his son Tunku Abdu’l Rahman as his successor
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

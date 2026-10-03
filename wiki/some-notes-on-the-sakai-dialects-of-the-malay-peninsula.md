@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-024-clifford-notessakaidialects-1891-6522c15edba2
 
 # Some notes on the Sakai dialects of the Malay Peninsula
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

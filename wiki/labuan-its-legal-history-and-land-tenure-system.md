@@ -26,8 +26,8 @@ source_path: ../sources/jmbras-296-begum-labuanlegalhistory-2009-2df2f03d18c8/ap
 
 # Labuan: its legal history and land tenure system
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

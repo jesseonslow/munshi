@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-305-khor-mbrasvisitbandar-2013-33205e8372e8.md
 
 # MBRAS visit to Bandar Seri Begawan
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

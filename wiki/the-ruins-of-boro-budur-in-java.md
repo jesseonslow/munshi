@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-006-hose-ruinsborobudur-1880-abf6391a850a.md
 
 # The ruins of Boro Budur in Java
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-087-brooks-earlystagesdanaine-1923-35c844263
 
 # Early stages of a Danaine butterfly
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

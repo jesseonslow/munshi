@@ -27,8 +27,8 @@ source_path: ../sources/jsbras-023-kelsall-notestripbukit-1891-6c647dd38cdf.md
 
 # Notes on a trip to Bukit Etam, Selangor. H.J. Kelsall (with an additional note H.N. Ridley
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

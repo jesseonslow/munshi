@@ -38,8 +38,8 @@ source_path: ../sources/kent-archives-of-the-british-association-aa8f08dc4eaf/re
 
 Through the initiative of Hugh Patterson Bryson, an archive of the British Association of Malaysia and Singapore was assembled in the 1960s, bringing together personal papers, memoirs, and photographs submitted by the Association’s members. This research note outlines the Second World War material, in particular first-hand accounts of the Japanese invasion and subsequent internment of civilians, along with surviving administrative records of two internment camps in Singapore. Reference is made to a digitisation and conservation project carried out by Cambridge University Library to open up this collection to a global audience of researchers.
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

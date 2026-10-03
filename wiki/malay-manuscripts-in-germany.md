@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-097-overbeck-malaymanuscripts-1926-ab538f760
 
 # Malay manuscripts in Germany
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -27,8 +27,8 @@ source_path: ../sources/jsbras-025-rulesstraitsasiatic-1894-01d9a9c7a185.md
 
 # Sejarah Melayu; or Malay Annals; a translation of Raffles MS 18 {in the Library of the R.A.S., London} C.C. Brown
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

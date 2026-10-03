@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-215-brown-malayannalschapter-1969-4dc6fc76bdb6/ch
 
 # Malay Annals, chapter III. .C. Brown
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

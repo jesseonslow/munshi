@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-297-see-surveyliteraturechinese-2009-bc2cf2df05d2
 
 # A survey of the literature on Chinese Peranakans and the case for a regional resource centre
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

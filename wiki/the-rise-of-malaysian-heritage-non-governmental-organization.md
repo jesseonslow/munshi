@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-309-blackburn-risemalaysianheritage-2015-750d0958
 
 # The rise of Malaysian heritage non-governmental organizations (1969‒2005
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

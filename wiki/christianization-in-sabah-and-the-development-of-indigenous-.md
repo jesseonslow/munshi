@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-286-kib-christianizationsabahdevelopment-2004-dce
 
 # Christianization in Sabah and the development of indigenous communities: a historical study
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

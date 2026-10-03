@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-050-kloss-visitsbatamisland-1908-5c5f69d5a745.md
 
 # Some visits to Batam Island
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

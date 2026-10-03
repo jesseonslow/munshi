@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-156-jakeman-pahangkanunsultan-1951-753b8e7ef
 
 # The “Pahang Kanun” of Sultan ‘Abdul Ghafur: another text
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-002-raffles-foundingsingapore-1878-b033e0aa4312.m
 
 # The founding of Singapore
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

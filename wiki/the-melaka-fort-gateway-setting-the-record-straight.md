@@ -25,8 +25,8 @@ source_path: ../sources/khaw-ooi-bujeng-nrayanen-salleh-bukit-choras-inscription
 
 # The Melaka Fort Gateway: Setting the Record Straight
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

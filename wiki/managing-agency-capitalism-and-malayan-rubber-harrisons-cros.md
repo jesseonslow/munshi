@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-312-koike-managingagencycapitalism-2017-4889d30b7
 
 # Managing agency capitalism and Malayan rubber: Harrisons & Crosfield, Ltd. (1900–1940
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

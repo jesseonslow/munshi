@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-293-ken-petagaswarmemorial-2007-812b5ad5a27d/refe
 
 # The Petagas war memorial and the creation of a heroic past in Sabah
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

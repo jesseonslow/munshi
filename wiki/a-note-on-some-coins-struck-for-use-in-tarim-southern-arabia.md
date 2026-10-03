@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-288-wade-zhengvoyagesreassessment-2005-15ac1022d1
 
 # A note on some coins struck for use in Tarim, Southern Arabia. Il
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

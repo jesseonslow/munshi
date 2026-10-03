@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-037-waterstradt-kelantantripgunong-1902-b1e9725f3
 
 # Kelantan and my trip to Gunong Tahan
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

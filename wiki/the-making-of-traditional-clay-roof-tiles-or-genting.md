@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-272-salinger-makingtraditionalclay-1997-794f81167
 
 # The making of traditional clay roof tiles or genting
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

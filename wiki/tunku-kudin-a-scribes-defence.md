@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-258-jin-tunkukudinscribes-1990-f6ad12dccf52/appen
 
 # Tunku Kudin: a scribe’s defence
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

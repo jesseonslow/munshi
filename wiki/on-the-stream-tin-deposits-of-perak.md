@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-013-tenisonwoods-streamtindeposits-1884-22fcf56ce
 
 # On the stream tin deposits of Perak
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

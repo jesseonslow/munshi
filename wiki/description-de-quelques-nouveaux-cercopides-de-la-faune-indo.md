@@ -22,8 +22,8 @@ published: false
 
 # Description de quelques nouveaux Cercopides de la faune Indo-Malaysie
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-002-everett-mineralssarawak-1878-667c8f5f089b.md
 
 # The minerals of Sarawak
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

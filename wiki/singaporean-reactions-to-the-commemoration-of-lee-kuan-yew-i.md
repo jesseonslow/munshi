@@ -26,8 +26,8 @@ source_path: ../sources/jmbras-310-cherian-singaporeanreactionscommemorations-20
 
 # Singaporean reactions to the commemoration of Lee Kuan Yew in Tamil Nadu
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

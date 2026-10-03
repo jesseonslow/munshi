@@ -28,8 +28,8 @@ source_path: ../sources/jmbras-214-appell-ethnographicprofilesdusunspeaking-1968
 
 # Ethnographic profiles of the Dusun-speaking peoples of Sabah, Malaysia. With the collaboration of R. Harrison
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

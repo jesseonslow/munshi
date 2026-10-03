@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-225-krairiksh-notemakarabalustrade-1974-23ba2ca8a
 
 # A note on the Makara balustrade at Malacca
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

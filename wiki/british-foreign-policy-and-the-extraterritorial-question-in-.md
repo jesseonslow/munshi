@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-208-chandran-britishforeignpolicy-1965-34c8daf468
 
 # British foreign policy and the extraterritorial question in Siam 1891–1900
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

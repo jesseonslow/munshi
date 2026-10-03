@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-014-tenisonwoods-journeysummitgunong-1884-5ef28d1
 
 # Journey to the summit of Gunong Bubu
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

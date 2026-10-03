@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-285-rivers-keramatsingaporemidtwentieth-2003-90ba
 
 # Keramat in Singapore in the mid-twentieth century
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

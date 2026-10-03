@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-214-black-endingbruneirule-1968-b49a129ef227.md
 
 # The ending of Brunei rule in Sabah, 1878–1902
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

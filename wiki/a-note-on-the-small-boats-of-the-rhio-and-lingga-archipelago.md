@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-154-gibsonhill-notesmallboats-1951-bee86432f
 
 # A note on the small boats of the Rhio and Lingga Archipelago
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

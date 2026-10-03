@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-156-linehan-historicalnotesmainly-1951-e1b2b
 
 # Historical notes, mainly about Klang
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

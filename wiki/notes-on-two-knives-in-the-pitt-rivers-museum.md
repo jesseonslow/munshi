@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-143-woolley-notestwoknives-1947-52468ff9cd8c
 
 # Notes on two knives in the Pitt-Rivers Museum
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

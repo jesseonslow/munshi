@@ -22,8 +22,8 @@ published: false
 
 # The stone age in Perak. NQ 3: 62
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-233-hooker-towardslegalhistory-1978-cc204b079991.
 
 # Towards a legal history of Southeast Asia
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

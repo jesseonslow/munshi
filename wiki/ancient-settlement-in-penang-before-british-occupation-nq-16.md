@@ -22,8 +22,8 @@ published: false
 
 # Ancient settlement in Penang before British occupation. NQ 1:6
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

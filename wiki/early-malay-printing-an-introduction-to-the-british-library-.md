@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-258-gallop-earlymalayprinting-1990-a1a2a96ad4c8/b
 
 # Early Malay printing: an introduction to the British Library collection
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

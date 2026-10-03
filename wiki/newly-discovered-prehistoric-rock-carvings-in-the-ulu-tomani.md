@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-223-harrisson-newlydiscoveredprehistoric-1973-bbb
 
 # Newly discovered prehistoric rock carvings in the Ulu Tomani, Sabah
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-126-rentse-notekelantangold-1936-b9fc71f9eea
 
 # A note on Kelantan gold coins
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

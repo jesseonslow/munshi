@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-088-sayid-mohamedancalendar-1923-00474766c98
 
 # Mohamedan calendar
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

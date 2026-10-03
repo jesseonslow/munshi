@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-102-brown-kelantanbullfighting-1928-a2415a9c
 
 # Kelantan bull-fighting
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

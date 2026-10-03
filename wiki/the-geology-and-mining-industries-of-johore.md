@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-105-willbourn-geologyminingindustries-1928-8
 
 # The geology and mining industries of Johore
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-085-ronkel-tamilmalaymanuscript-1922-65bba1df5c47
 
 # A Tamil Malay manuscript
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

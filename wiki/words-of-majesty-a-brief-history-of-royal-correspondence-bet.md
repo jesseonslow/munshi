@@ -27,8 +27,8 @@ source_path: ../sources/jordaan-2017-jmbras-90-2-1-34-1febc85fdaf2/appendix.md
 
 # Words of majesty: a brief history of royal correspondence between England and Asia, 1600–1858
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

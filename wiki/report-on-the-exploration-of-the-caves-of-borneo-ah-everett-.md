@@ -27,8 +27,8 @@ source_path: ../sources/jsbras-006-everett-reportexplorationcaves-1880-aa6b1ac3f
 
 # Report on the exploration of the caves of Borneo. A.H. Everett, Introductory remarks J. Evans, and notes on bones collected G. Busk
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

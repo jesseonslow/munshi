@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-300-miller-englishcountrytraders-2011-f3a02b2edf6
 
 # English country traders and their relations with Malay rulers in the late eighteenth century
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ published: false
 
 # Comments on John Crawfurd’s observations on some geological aspects of the Malaysian region in his Journal of an Embassy to the Courts of Siam and Cochin (1828
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

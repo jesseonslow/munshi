@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-250-gullick-elephantssyedzin-1986-8655ca37c5ee.md
 
 # The elephants of Syed Zin
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

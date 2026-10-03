@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-238-latiff-identityngahjabor-1980-dd6ba8e22791.md
 
 # The identity of Ngah Jabor and Mohamed Jabor bin Bardot (1858–1921
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

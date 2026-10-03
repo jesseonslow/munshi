@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-111-mckerron-trengganuvocabulary-1931-b06438
 
 # A Trengganu vocabulary
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

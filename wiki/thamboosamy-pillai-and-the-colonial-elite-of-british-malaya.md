@@ -25,8 +25,8 @@ source_path: ../sources/raja-thamboosamy-pillai-and-the-colonial-elite-171db612b
 
 # Thamboosamy Pillai and the Colonial Elite of British Malaya
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

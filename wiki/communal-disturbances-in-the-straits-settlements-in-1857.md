@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-181-turnbull-communaldisturbancesstraits-195
 
 # Communal disturbances in the Straits Settlements in 1857
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

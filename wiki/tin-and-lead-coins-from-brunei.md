@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-049-hanitsch-tinleadcoins-1907-ecc2986a718d.md
 
 # Tin and lead coins from Brunei
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

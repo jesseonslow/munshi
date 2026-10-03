@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-154-marrison-comingislameast-1951-40f160efce
 
 # The coming of Islam to the East Indies
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-108-stevens-contributionearlyhistory-1929-d1
 
 # A contribution to the early history of Prince of Wales Island
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-229-haile-tomharrissonpersonal-1976-f7677bf574d7.
 
 # Tom Harrisson: personal glimpses
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

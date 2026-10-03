@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-207-bonney-francislightpenang-1965-a6a4fee69d8e/a
 
 # Francis Light and Penang
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

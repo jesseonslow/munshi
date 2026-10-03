@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-042-bland-huntinginvocations-1905-ea519e7d9fbc.md
 
 # Hunting invocations
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

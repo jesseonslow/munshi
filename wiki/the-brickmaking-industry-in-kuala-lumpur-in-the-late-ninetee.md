@@ -26,8 +26,8 @@ source_path: ../sources/jmbras-312-sharif-brickmakingindustrykuala-2017-205d4ce0
 
 # The brickmaking industry in Kuala Lumpur in the late nineteenth century
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

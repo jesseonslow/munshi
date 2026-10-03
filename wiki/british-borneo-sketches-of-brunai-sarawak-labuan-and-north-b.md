@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-020-treacher-britishborneosketches-1889-8b79c3eee
 
 # British Borneo: sketches of Brunai, Sarawak, Labuan and North Borneo
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

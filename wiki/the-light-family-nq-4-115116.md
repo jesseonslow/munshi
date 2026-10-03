@@ -22,8 +22,8 @@ published: false
 
 # The Light family. NQ 4: 115–116
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

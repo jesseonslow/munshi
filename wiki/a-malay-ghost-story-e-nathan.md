@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-067-nathan-malayghoststory-1914-d8eb76cedc6b.md
 
 # A Malay ghost story. .E. Nathan
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

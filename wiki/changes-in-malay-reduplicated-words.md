@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-077-winstedt-changesmalayreduplicated-1917-5b4d45
 
 # Changes in Malay reduplicated words
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

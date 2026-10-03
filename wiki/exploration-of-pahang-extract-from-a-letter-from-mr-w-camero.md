@@ -29,8 +29,8 @@ source_path: ../sources/jsbras-015-cameron-explorationpahang-1885-e7c2b8248730.m
 
 # Exploration of Pahang: extract from a letter from Mr. W. Cameron to H.E. the Acting Governor (the Hon’ble Cecil C. Smith, C.M.G.) dated 4th September, 1885
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

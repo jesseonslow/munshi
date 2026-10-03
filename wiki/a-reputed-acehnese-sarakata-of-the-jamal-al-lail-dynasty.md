@@ -26,8 +26,8 @@ source_path: ../sources/jmbras-236-crecelius-reputedacehnesesarakata-1979-a7eaaa
 
 # A reputed Acehnese sarakata of the Jamal al-Lail dynasty
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

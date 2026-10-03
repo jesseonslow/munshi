@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-226-needham-ethnographicnotessemelai-1974-d5c7cc5
 
 # Some ethnographic notes on Semelai in northern Pahang
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

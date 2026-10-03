@@ -24,8 +24,8 @@ published: false
 
 # {Note on the life-history of the Cicindelid beetle, Collyris emarginatus, Dej.
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

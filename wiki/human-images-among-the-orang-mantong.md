@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-041-abbott-humanimagesamong-1904-639ef1739952.md
 
 # Human images among the Orang Mantong
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

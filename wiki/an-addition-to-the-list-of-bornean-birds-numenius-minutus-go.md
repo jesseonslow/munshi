@@ -28,8 +28,8 @@ source_path: ../sources/jmalayanras-108-chasen-additionlistbornean-1927-74772aef
 
 # An addition to the list of Bornean birds: Numenius minutus Gould. F.N. Chasen and C.B. Kloss. Records of the Raffles Museum, No. 28
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

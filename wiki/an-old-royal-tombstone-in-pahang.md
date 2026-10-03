@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-060-barnes-oldtombstonepahang-1911-9722f75540b0.m
 
 # An old royal tombstone in Pahang
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

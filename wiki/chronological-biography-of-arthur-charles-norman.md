@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-272-ahmad-chronologicalbiographyarthur-1997-a3931
 
 # Chronological biography of Arthur Charles Norman
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

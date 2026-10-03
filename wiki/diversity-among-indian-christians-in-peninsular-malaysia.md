@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-262-daniel-diversityamongindian-1992-fb6a66146da3
 
 # Diversity among Indian Christians in Peninsular Malaysia
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

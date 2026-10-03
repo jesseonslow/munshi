@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-132-winstedt-chroniclespasai-1938-79a0fd0ee7
 
 # The chronicles of Pasai
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -27,8 +27,8 @@ source_path: ../sources/jsbras-045-maxwell-mantragajah-1906-f808e212eda6/appendi
 
 # Johore 1901–1914: the railway concession; the Johore Advisory Board: Swettenham’s resignation and the first General Adviser
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

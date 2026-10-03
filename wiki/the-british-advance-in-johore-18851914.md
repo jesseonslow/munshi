@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-211-sinclair-britishadvancejohore-1967-43b9161be2
 
 # The British advance in Johore, 1885–1914
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

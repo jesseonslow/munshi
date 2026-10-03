@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-319-tol-pengembaraanlagaligo-2020-190ea1684bf4.md
 
 # Pengembaraan La Galigo ke Washington D.C.: Memperkenalkan Husin bin Ismail [The La Galigo manuscripts in Washington D.C.: Introducing Husin bin Ismail
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

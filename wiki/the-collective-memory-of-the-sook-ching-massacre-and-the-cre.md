@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-279-blackburn-collectivememorysook-2000-e38747c58
 
 # The collective memory of the Sook Ching massacre and the creation of the civilian war memorial of Singapore
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

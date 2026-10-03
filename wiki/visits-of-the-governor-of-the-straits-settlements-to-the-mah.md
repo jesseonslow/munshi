@@ -27,8 +27,8 @@ source_path: ../sources/anon-documents-from-malaysian-history-a5add0bf2cc7.md
 
 # Visits of the Governor of the Straits Settlements to the Maharajah of Johor in 1874, 1880, and 1882. Facsimile reprint
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

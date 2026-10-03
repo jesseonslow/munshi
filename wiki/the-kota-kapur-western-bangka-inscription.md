@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-064-blagden-kotakapurwestern-1913-32a67dc108c7.md
 
 # The Kota Kapur (Western Bangka) inscription
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

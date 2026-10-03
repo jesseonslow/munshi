@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-016-perham-kliengswarraidskies-1885-c044dac8af90.
 
 # Klieng’s war-raid in the skies: a Dyak myth
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

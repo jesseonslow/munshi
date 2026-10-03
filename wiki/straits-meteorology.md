@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-012-skinner-straitsmeteorology-1883-cf1dfd55f3bc.
 
 # Straits meteorology
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

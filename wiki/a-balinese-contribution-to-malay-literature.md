@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-228-hooykaas-balinesecontributionmalay-1975-84efe
 
 # A Balinese contribution to Malay literature
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

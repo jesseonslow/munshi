@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-315-seng-greeningsingapore-2018-927258825877/refe
 
 # The greening of Singapore: parks and roadside trees from colonial rule to the present
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

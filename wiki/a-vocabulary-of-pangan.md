@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-085-adams-vocabularypangan-1922-a29a4a819881.md
 
 # A vocabulary of Pangan
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -26,8 +26,8 @@ source_path: ../sources/jmalayanras-156-besar-panchapersada-1951-1908eb00e1e8.md
 
 # The Pancha Persada. To’ Muda Orang Kaya Besar and Mat Som
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

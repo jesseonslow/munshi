@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-091-gossens-grammarvocabularydusun-1924-ddc4
 
 # A grammar and vocabulary of the Dusun language
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

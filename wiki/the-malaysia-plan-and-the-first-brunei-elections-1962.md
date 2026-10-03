@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-274-yusop-malaysiaplanfirst-1998-94aecc6547fb.md
 
 # The Malaysia plan and the first Brunei elections, 1962
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

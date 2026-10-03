@@ -22,8 +22,8 @@ published: false
 
 # An index to Journals Nos 1–50 and to Notes and Queries I―IV
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

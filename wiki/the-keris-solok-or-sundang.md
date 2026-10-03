@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-138-banks-krissuloksundang-1940-68f530a24e16
 
 # The keris Solok or Sundang
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-260-taha-archaeologicaldiscoveriespeninsular-1991
 
 # Archaeological discoveries in Peninsular Malaysia (1987–1990
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

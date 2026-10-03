@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-189-williams-tambunandusunorigin-1960-b7a221
 
 # A Tambunan Dusun origin myth
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

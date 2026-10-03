@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-046-ridley-grassessedgesborneo-1906-a64a5075bdcb.
 
 # Grasses and sedges of Borneo
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

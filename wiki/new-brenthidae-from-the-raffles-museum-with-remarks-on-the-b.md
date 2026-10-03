@@ -27,8 +27,8 @@ source_path: ../sources/jmalayanras-088-kleine-newbrenthidaeraffles-1923-a756407
 
 # New Brenthidae from the Raffles Museum, with remarks on the Brenthid fauna of the Malay Peninsula
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

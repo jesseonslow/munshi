@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-018-maxwell-surveyquestioncochinchina-1886-224d59
 
 # The survey question
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-087-chasen-largeorangutan-1923-f0f211f51c6e.
 
 # A large orang-utan
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

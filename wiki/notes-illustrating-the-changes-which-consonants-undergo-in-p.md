@@ -27,8 +27,8 @@ source_path: ../sources/jsbras-012-ferguson-notesillustratingchanges-1883-a23505
 
 # Notes illustrating the changes which consonants undergo in passing from one Malayan dialect to another
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

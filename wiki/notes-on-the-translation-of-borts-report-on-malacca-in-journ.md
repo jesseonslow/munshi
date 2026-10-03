@@ -27,8 +27,8 @@ source_path: ../sources/jmalayanras-119-macdonald-notestranslationborts-1934-aa1
 
 # Notes on the translation of Bort’s report on Malacca in Journal M.B.R.A.S. 1927
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

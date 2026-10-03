@@ -26,8 +26,8 @@ source_path: ../sources/jmbras-216-hooker-relationshipadatstate-1969-dac99e5b7df
 
 # The relationship between the adat and state constitutions of Negeri Sembilan
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

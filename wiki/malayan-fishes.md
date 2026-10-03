@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-084-maxwell-malayanfishes-1921-006af467d27a/index
 
 # Malayan fishes
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

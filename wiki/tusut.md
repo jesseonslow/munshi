@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-050-proceedingsannualgeneral-1908-18abdce506d3.md
 
 # Tusut
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-236-treloar-priestsbelltemple-1979-c57d9a9cc0f5/r
 
 # A priest’s bell and a temple lamp: reinterpretation of the function of some Kedah artefacts
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

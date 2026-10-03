@@ -27,8 +27,8 @@ source_path: ../sources/keo-kapitans-and-unofficials-ccb91b824301/references.md
 
 # Kapitans and Unofficials: Ethnic Intermediaries in the Straits Settlements, 1786–1942
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

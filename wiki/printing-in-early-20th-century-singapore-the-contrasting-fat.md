@@ -23,8 +23,8 @@ published: false
 
 # Printing in Early 20th Century Singapore: The Contrasting Fates of C
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

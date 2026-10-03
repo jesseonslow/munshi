@@ -24,8 +24,8 @@ published: false
 
 # Index to the Journal of the Straits Branch of the Royal Asiatic Society, Vols I to XXXI
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-020-haughton-notesnamesplaces-1889-1b056b6cdde1.m
 
 # Notes on names of places in the island of Singapore and its vicinity
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -27,8 +27,8 @@ source_path: ../sources/jsbras-009-statementhajimahomed-1882-de64ffc46655.md
 
 # Statement of Haji Mahomed Ali, a Mahomedan of Arabic extraction, born in the island of Hainan, China, regarding Mahomedans in China
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

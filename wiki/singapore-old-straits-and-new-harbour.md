@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-060-barnes-singaporeoldstraits-1911-f740698efc71.
 
 # Singapore old Straits and new harbour
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

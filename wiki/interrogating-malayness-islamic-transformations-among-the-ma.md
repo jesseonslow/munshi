@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-307-jianli-resurgentspiritscivil-2014-1f15f4631ff
 
 # Interrogating ‘Malayness’: Islamic transformations among the Malay College Kuala Kangsar (MCKK) cohort
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

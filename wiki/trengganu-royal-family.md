@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-117-bryson-trengganuroyalfamily-1933-06ae692
 
 # Trengganu royal family
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-161-fitch-dusunboatssegama-1953-4c304ce08fbb
 
 # Dusun boats on the Segama River, North Borneo
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

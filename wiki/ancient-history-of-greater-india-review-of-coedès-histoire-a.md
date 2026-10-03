@@ -27,8 +27,8 @@ source_path: ../sources/jmalayanras-142-hutchinson-ancienthistorygreater-1947-58
 
 # Ancient history of Greater India. {review of Coedès’ Histoire ancienne des états hindouisés d’extrême-orient
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

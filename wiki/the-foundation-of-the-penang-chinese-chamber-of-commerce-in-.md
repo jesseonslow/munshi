@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-290-kaori-foundationpenangchinese-2006-f49a0c9e7e
 
 # The foundation of the Penang Chinese Chamber of Commerce in 1903: Protecting Chinese business interests in the two states
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

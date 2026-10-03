@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-140-dickinson-historycreationmalacca-1941-50
 
 # The history of the creation of the Malacca police
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

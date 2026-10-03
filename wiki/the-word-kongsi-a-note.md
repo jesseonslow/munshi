@@ -26,8 +26,8 @@ source_path: ../sources/jmbras-235-peng-wordkongsinote-1979-042520a97a6b.md
 
 # The word kongsi: a note
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

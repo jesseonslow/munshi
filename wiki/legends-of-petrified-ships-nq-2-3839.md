@@ -22,8 +22,8 @@ published: false
 
 # Legends of petrified ships. NQ 2: 38–39
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

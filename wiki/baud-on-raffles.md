@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-154-coolhaas-baudraffles-1951-5beeb728ac53.m
 
 # Baud on Raffles
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

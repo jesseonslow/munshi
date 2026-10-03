@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-232-leong-chinesemalayachinas-1977-8a58521f8cd6.m
 
 # The Chinese in Malaya and China’s politics, 1895–1911
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

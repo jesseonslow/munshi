@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-060-hewitt-headpressingamongst-1911-47447d31ddeb.
 
 # Head pressing amongst the Milanos of Sarawak
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

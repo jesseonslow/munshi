@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-249-barlow-malayannaturesocietystar-1985-708940e2
 
 # The Malayan Nature Society/Star Endau-Rompin Expedition
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

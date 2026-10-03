@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-129-callenfels-foundermalacca-1937-3bf044211
 
 # The founder of Malacca
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

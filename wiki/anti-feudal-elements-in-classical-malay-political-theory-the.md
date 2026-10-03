@@ -26,8 +26,8 @@ source_path: ../sources/jmbras-314-alatas-antifeudalelementsclassical-2018-3590a
 
 # Anti-feudal elements in classical Malay political theory: the Taj al-Salatin
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -24,8 +24,8 @@ published: false
 
 # A mathematical explanation of the magic measurements found in the Taj-ul-Mulk and the Pawang’s book
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

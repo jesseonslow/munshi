@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-140-banks-seadayakcarving-1941-1feef39922d4.
 
 # Sea-Dayak carving
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

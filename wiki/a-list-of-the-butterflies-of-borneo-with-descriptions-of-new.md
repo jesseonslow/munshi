@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-253-gullick-tunkukudinkedah-1987-d72219249a7c.md
 
 # A list of the butterflies of Borneo with descriptions of new species
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

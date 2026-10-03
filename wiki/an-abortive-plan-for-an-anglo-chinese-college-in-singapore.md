@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-222-wilson-abortiveplananglo-1972-4ab2c95cf15a.md
 
 # An abortive plan for an Anglo-Chinese College in Singapore
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

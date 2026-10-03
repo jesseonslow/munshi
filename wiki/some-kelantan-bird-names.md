@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-161-berwick-kelantanbirdnames-1953-195c71ca9
 
 # Some Kelantan bird names
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

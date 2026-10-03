@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-010-perham-seadyakreligion-1882-eeacd4a331fb.md
 
 # Petara, or Sea Dyak gods
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

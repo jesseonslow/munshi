@@ -30,8 +30,8 @@ source_path: ../sources/jmalayanras-110-hamilton-malayanplants-1930-eb02647dcce7
 
 # Malayan plants: a collection made by A.W. Hamilton of some of the commoner plants and littoral trees found on Singapore Island. Identifications and descriptions. R.E. Holttum
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-185-clark-twobonetools-1959-26210a92fd7c.md
 
 # Two bone tools in the Raffles Museum
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

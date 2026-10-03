@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-105-hyde-naningterumba-1928-51230d627938.md
 
 # A Naning terumba
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-113-winstedt-motherrightamongkhasis-1932-d78
 
 # Mother-right among Khasis and Malays
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

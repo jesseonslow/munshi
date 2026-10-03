@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-169-gibsonhill-jrattmpurong-1955-cd82e145e5b
 
 # Jerat tempurong
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

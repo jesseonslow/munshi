@@ -26,8 +26,8 @@ source_path: ../sources/jmbras-212-iskandar-threemalayhistorical-1967-48ddf087ad
 
 # Three Malay historical writings in the first half of the seventeenth century
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

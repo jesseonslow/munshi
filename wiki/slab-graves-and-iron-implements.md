@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-139-winstedt-slabgravesironimplements-1941-3
 
 # Slab-graves and iron implements
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

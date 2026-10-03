@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-053-bishop-noteslifehistory-1909-90dd7de7aa41.md
 
 # Some notes on the life history of the Aspidomorpha miliaris
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

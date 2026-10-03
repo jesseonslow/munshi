@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-220-cobban-geographicnotesfirst-1971-d577f7e1ff16
 
 # Geographic notes on the first two centuries of Djakarta
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

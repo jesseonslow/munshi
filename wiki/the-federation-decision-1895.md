@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-217-milner-federationdecision1895-1970-a6647fa3c9
 
 # The Federation decision: 1895
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

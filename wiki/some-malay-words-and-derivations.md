@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-119-maxwell-malaywordsderivations-1934-25ace
 
 # Some Malay words and derivations
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

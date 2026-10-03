@@ -27,8 +27,8 @@ source_path: ../sources/jsbras-080-robinson-collectionbirdsn-1919-a2f4ba345d5f.m
 
 # On a collection of birds from N.E
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

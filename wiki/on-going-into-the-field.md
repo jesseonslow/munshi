@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-303-roff-goingfield-2012-8bf6afd7fb29.md
 
 # On going into the field
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

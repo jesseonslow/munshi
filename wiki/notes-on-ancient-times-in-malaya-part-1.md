@@ -43,8 +43,8 @@ source_path: ../sources/jmalayanras-142-braddell-notesancienttimes-1947-9f9fa014
 
 # Notes on ancient times in Malaya. Part 1
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

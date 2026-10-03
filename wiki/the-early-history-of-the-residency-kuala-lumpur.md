@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-263-barlow-earlyhistoryresidency-1992-86f3e49c39d
 
 # The early history of the Residency Kuala Lumpur
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

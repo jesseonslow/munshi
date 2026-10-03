@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-271-bruce-notesearlymosques-1996-63110e6ce167.md
 
 # Notes on early mosques of the Malaysian Peninsula
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

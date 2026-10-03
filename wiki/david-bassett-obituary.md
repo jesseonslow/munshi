@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-257-bastin-drdavidkenneth-1989-d0eb81174bc9.md
 
 # David Bassett. Obituary
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

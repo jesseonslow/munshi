@@ -28,8 +28,8 @@ source_path: ../sources/jmalayanras-104-chasen-notesmalaysianwaders-1928-71f1fc5
 
 # Some notes on Malaysian waders. F.N. Chasen and C.B. Kloss. Records of the Raffles Museum, No. 33
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

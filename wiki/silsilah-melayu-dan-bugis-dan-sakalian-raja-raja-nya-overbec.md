@@ -26,8 +26,8 @@ source_path: ../sources/jmalayanras-098-overbeck-silsilahmelayudan-1926-5b9ed78b
 
 # Silsilah Melayu dan Bugis dan Sakalian Raja-raja-nya. . Overbeck
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

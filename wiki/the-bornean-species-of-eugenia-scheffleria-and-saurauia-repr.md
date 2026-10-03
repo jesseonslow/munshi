@@ -27,8 +27,8 @@ source_path: ../sources/jsbras-079-merrill-borneanspecieseugenia-1918-c748cbd4ac
 
 # The Bornean species of Eugenia, Scheffleria, and Saurauia represented in the Singapore herbarium
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

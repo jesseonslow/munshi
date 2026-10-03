@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-110-kloss-obituaryherbertchristopher-1930-b3
 
 # Herbert Christopher Robinson. Obituary
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

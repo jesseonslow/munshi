@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-087-ridley-botanicalexcursionnorthern-1923-4
 
 # A botanical excursion to Northern Sumatra
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

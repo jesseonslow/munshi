@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-209-harrisson-palangiithree-1966-2c3a2cc321c1.md
 
 # The “palang” II: Three further notes
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

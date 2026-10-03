@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-005-tolson-achehcommonlycalled-1880-93ae197d9c9d.
 
 # Acheh, commonly called Acheen
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

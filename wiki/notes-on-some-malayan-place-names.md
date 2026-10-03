@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-113-mills-notesmalayanplacenames-1932-a92eb3
 
 # Notes on some Malayan place-names
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

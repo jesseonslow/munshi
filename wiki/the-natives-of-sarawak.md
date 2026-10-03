@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-138-banks-nativessarawak-1940-b5e5f11985fc.m
 
 # The natives of Sarawak
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

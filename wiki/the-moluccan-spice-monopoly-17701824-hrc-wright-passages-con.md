@@ -27,8 +27,8 @@ source_path: ../sources/jsbras-034-neweasterngingers-1900-d46278ace8d7.md
 
 # The Moluccan spice monopoly, 1770–1824. H.R.C. Wright. Passages concerning Bencoolen written in collaboration with J. Bastin
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

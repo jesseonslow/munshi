@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-113-samusah-malaygameapit-1932-70e23f831e04.
 
 # The Malay game of apit
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

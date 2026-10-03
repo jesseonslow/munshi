@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-138-cardon-malaytradition-1940-27473f8855d2.
 
 # A Malay tradition
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

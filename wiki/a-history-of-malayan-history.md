@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-275-gullick-historymalayanhistory-1998-5c4c2524f6
 
 # A history of Malayan history
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

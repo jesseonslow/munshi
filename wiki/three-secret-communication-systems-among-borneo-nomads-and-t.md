@@ -23,8 +23,8 @@ published: false
 
 # Three “secret” communication systems among Borneo nomads (and their dogs
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

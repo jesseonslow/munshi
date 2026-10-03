@@ -26,8 +26,8 @@ source_path: ../sources/jmbras-301-porath-hikayatpatanikingdom-2011-af5e8cc51b79
 
 # Sir Hugh Clifford in Malaya, 1927–9. “ Pinang pulang ka-tampok ”, with appendix
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

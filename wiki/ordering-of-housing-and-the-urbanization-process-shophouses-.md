@@ -26,8 +26,8 @@ source_path: ../sources/jmbras-275-tjoabonatz-orderinghousingurbanisation-1998-6
 
 # Ordering of housing and the urbanization process: shophouses in colonial Penang
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

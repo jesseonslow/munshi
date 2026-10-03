@@ -26,8 +26,8 @@ source_path: ../sources/jmalayanras-117-harrower-skeletalremainskuala-1933-96382
 
 # Skeletal remains from the Kuala Selinsing excavations, Perak, Malay Peninsula
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

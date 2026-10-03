@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-100-foxworthy-treenamesachanges-1927-3797f61
 
 # Tree names – a few changes
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

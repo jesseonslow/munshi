@@ -22,8 +22,8 @@ published: false
 
 # Man-eaters. NQ 1: 16–17
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

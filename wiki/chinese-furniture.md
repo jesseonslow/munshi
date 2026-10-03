@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-266-cheah-chinesefurniture-1994-f41d70b962a8.md
 
 # Chinese furniture
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

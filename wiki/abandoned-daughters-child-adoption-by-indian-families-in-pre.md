@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-319-devasahayam-abandoneddaughters-2020-7bf3b90bd
 
 # Abandoned daughters: Child adoption by Indian Families in pre-independence Malaya and Singapore
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

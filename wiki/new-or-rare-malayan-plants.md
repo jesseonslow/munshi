@@ -33,8 +33,8 @@ source_path: ../sources/jsbras-068-ridley-newraremalayan-1915-930e0c518c8b.md
 
 # New or rare Malayan plants
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

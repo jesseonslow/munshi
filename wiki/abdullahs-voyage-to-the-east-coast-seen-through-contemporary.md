@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-210-skinner-abdullahsvoyageeast-1966-9234f37b727d
 
 # Abdullah’s voyage to the east coast, seen through contemporary eyes
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

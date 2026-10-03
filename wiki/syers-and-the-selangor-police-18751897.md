@@ -33,8 +33,8 @@ source_path: ../sources/jmbras-233-sheppard-gratefulmemorytan-1978-d54d13999373.
 
 # Syers and the Selangor Police, 1875–1897
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

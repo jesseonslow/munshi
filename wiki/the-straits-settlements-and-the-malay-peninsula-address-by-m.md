@@ -27,8 +27,8 @@ source_path: ../sources/jsbras-028-kruyt-addressmrj-1895-0dcfdeaedd8c.md
 
 # The Straits Settlements and the Malay Peninsula: address by Mr. J.A. Kruyt, delivered before the Indian Society
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

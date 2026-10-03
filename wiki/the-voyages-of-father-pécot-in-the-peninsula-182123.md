@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-319-anthony-voyagesfatherpcot-2020-e6ce05d8d625/b
 
 # The voyages of Father Pécot in the Peninsula, 1821–23
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

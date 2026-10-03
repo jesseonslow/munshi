@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-286-meng-earlylandtransactions-2004-0cf4677cd138/
 
 # Early land transactions in Singapore: the real estates of William Farquhar (1774―1839) and John Crawfurd and their families
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

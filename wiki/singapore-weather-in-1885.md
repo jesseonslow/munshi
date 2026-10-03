@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-016-knight-singaporeweather1885-1885-5aeaf1380e97
 
 # Singapore weather in 1885
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

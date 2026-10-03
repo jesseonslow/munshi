@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-111-scrivenor-recollectionscameronshighlands
 
 # Recollections of Cameron’s Highlands and Fraser’s Hill
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

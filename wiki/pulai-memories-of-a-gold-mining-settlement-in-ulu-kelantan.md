@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-237-carstens-pulaimemoriesgold-1980-18cc057b36f2/
 
 # Pulai: memories of a gold mining settlement in Ulu Kelantan
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

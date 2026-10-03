@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-169-gibsonhill-rafflesalexanderhare-1955-950
 
 # Raffles, Alexander Hare & Johanna van Hare
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

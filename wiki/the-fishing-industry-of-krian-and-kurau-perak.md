@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-023-dew-fishingindustrykrian-1891-abfff3376f95.md
 
 # The fishing industry of Krian and Kurau, Perak
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

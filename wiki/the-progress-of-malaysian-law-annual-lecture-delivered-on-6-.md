@@ -26,8 +26,8 @@ source_path: ../sources/jsbras-066-mead-romanizedversionhikayat-1914-68c0973db23
 
 # The progress of Malaysian law. Annual lecture delivered on 6 December, 1994
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

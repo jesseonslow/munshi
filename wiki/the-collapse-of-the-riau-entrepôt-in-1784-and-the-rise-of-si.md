@@ -22,8 +22,8 @@ published: false
 
 # The Collapse of the Riau Entrepôt in 1784 and the Rise of Singapore
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

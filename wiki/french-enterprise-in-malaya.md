@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-210-rawlins-frenchenterprisemalaya-1966-bf40055fb
 
 # French enterprise in Malaya
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

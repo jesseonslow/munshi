@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-032-k-memoriamsirw-1899-850e71dc7f68.md
 
 # The economics of the handloom industry of the east coast of Malaya
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-012-r-landingrafflessingapore-1883-03a651b49e03.m
 
 # Landing of Raffles in Singapore
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

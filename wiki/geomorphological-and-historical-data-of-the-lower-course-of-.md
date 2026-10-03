@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-206-koopmans-geomorphologicalhistoricaldata-1964-
 
 # Geomorphological and historical data of the lower course of the Perak River (Dindings
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

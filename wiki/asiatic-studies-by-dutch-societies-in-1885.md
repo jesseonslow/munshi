@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-016-r-asiaticstudiesdutch-1885-fbba563ece00.md
 
 # Asiatic studies, by Dutch societies in 1885
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

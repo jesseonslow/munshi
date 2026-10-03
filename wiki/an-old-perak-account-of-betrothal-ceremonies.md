@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-108-winstedt-oldperakaccount-1929-b959f4d8e4
 
 # An old Perak account of betrothal ceremonies
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

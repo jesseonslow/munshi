@@ -26,8 +26,8 @@ source_path: ../sources/jmbras-309-porath-mayaimageindigenous-2015-18c995696dba/
 
 # ‘I am Ali Wallace‘: The Malay Assistant of Alfred Russel Wallace
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

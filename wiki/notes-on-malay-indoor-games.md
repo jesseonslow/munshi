@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-080-dussek-notesmalayindoor-1919-7f6370c96ce6.md
 
 # Notes on Malay indoor games
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

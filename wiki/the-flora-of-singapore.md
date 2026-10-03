@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-033-ridley-florasingapore-1900-4c21d301ffcb.md
 
 # The flora of Singapore
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

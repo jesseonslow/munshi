@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-130-winstedt-mrbraddellsancient-1937-711a6cb
 
 # Mr. R. Braddell’s ancient times
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-263-khalid-socialorganizationmining-1992-79b67410
 
 # The social organization of the mining community in Malaya during the depression 1929–1933
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

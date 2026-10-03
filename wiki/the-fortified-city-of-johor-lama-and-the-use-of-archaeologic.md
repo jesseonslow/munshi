@@ -24,8 +24,8 @@ published: false
 
 # The fortified city of Johor Lama and the use of archaeological evidence. {In Papers on Johor Lama and the Portuguese in Malaya, 1511–1641
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

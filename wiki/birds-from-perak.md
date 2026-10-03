@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-019-museum-mrrb-1887-7d4bf2cb3a36.md
 
 # Birds from Perak
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

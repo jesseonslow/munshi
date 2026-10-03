@@ -25,8 +25,8 @@ published: false
 
 # The Genesis of Malayan Chinese Civil Society's Struggle for Constitutional Equality, in Particular Jus Soli
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

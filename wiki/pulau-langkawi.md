@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-019-maxwell-pulaulangkawi-1887-59597f2e66ff.md
 
 # Pulau Langkawi
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

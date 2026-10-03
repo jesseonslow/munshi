@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-286-gallop-bruneidarussalammodern-2004-a8b0ae95c1
 
 # Brunei Darussalam and the modern novel
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

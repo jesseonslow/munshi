@@ -38,8 +38,8 @@ source_path: ../sources/jsbras-005-comparativevocabularydialects-1880-0e67338c90
 > **Notice of Subsequent Amendments:**
 > * **Corrigenda:** Published in [Corrigenda SB 6: 293–294 D 1880](./jsbras-006.md)
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

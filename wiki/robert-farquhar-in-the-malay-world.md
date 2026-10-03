@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-234-miller-robertfarquharmalay-1978-f1b33757254b.
 
 # Robert Farquhar in the Malay world
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

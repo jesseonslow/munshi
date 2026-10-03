@@ -24,8 +24,8 @@ published: false
 
 # The Timing of Islamization in Southeast Asia: Local Agency, and the Challenge of Analysing Religious Conversion
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

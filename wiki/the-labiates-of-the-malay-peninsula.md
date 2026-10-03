@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-050-ridley-labiatesmalaypeninsula-1908-d5ec8a04ff
 
 # The labiates of the Malay Peninsula
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

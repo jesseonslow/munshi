@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-215-braddell-lungyamentanmahsi-1969-c9926d3f94e2/
 
 # Persian merchants and missionaries in medieval Malaya
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

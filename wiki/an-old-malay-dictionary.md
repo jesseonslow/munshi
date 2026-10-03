@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-107-mee-oldmalaydictionary-1929-861b14bc35d6
 
 # An old Malay dictionary
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

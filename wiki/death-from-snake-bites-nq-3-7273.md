@@ -22,8 +22,8 @@ published: false
 
 # Death from snake bites. NQ 3: 72–73
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

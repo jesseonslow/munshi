@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-299-ali-tansridato-2010-b8e608c66fae/references.m
 
 # Tan Sri Dato’ Dr Mubin Sheppard: pioneer in the conservation of historical buildings in Malaysia, 1959-1994
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

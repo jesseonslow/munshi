@@ -26,8 +26,8 @@ source_path: ../sources/jmalayanras-153-wurtzburg-reminiscencescolonelnahuys-195
 
 # The reminiscences of Colonel Nahuijs. C.E. Wurtzburg
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

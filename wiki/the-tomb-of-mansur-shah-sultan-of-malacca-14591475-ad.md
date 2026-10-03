@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-078-winstedt-tombmansurshah-1918-82407d466d17.md
 
 # The tomb of Mansur Shah, Sultan of Malacca, 1459?–1475 A.D
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

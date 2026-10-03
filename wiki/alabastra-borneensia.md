@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-077-merrill-alabastraborneensia-1917-f735a454fdee
 
 # Alabastra borneensia
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

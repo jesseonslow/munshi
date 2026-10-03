@@ -26,8 +26,8 @@ source_path: ../sources/jsbras-075-burkill-notesdipterocarps1-1917-7e48bc71db65.
 
 # Notes on Dipterocarps. {No. 1} The seedling of Anisoptera cosgata, Korth
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

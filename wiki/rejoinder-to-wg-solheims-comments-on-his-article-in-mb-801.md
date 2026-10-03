@@ -22,8 +22,8 @@ published: false
 
 # Rejoinder to W.G. Solheim’s comments on his article in MB 80(1
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -27,8 +27,8 @@ source_path: ../sources/jmalayanras-126-sheehan-installationtuankuabdulrahman-19
 
 # The installation of Tuanku Abdul-Rahman ibini Al-Marhum Tuanku Muhammad Shah as Yang di-Pertuan, Negri Sembilan
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

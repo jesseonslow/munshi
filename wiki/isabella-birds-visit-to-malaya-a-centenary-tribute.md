@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-236-gullick-isabellabirdsvisit-1979-0b7b611eb44e.
 
 # Isabella Bird’s visit to Malaya: a centenary tribute
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

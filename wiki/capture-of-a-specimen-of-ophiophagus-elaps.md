@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-001-dennys-occurrenceophiophaguselaps-1878-84dbad
 
 # Capture of a specimen of Ophiophagus elaps
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-035-shortearedowlsingapore-1901-5c533bebfd57.md
 
 # The Sumatran rhinoceros
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

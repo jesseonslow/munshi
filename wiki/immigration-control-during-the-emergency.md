@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-310-chin-immigrationcontrolmalayan-2016-2b967127c
 
 # Immigration control during the Emergency
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

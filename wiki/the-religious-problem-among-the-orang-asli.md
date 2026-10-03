@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-217-carey-religiousproblemamong-1970-399712f39a9e
 
 # The religious problem among the Orang Asli
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

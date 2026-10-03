@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-016-kynnersley-descriptionchineselottery-1885-d86
 
 # A description of the Chinese lottery known as Hua-Hoey
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-239-wah-guillemardmaxwellpowerstruggle-1981-e7bc5
 
 # The Guillemard-Maxwell power struggle, 1921–1925
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

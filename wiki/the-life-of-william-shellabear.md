@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-265-hunt-lifewilliamshellabear-1993-655819de6f7b.
 
 # The life of William Shellabear
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

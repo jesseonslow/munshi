@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-065-hanitsch-lettersnathanielwallich-1913-e62a097
 
 # Defining the Malay house
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

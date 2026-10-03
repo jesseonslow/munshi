@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-143-linehan-notesai-1947-2d235deeee0b.md
 
 # A note on Sai
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

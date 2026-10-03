@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-233-ming-introductionindonesianperanakan-1978-1d2
 
 # An introduction to the Indonesian Peranakan literature in the library of the Universiti Kebangsaan Malaysia
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

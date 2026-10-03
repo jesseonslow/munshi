@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-113-overbeck-shardandanstia-1932-20399810d6e
 
 # Shaer Dandan Setia
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

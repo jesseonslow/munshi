@@ -34,8 +34,8 @@ source_path: ../sources/jmalayanras-130-mills-collectionmalayanmaps-1937-71b0d91
 > **Notice of Subsequent Amendments:**
 > * **Corrigenda:** Published in [Corrigenda MB 16(1) Jl 1938](./mbras-016-1.md)
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

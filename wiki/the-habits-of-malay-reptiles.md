@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-032-ridley-habitsmalayreptiles-1899-17e2e874fba0.
 
 # The habits of Malay reptiles
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

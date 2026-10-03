@@ -26,8 +26,8 @@ source_path: ../sources/jsbras-083-burkill-odoardobeccari-1921-a2bd2f157970.md
 
 # Odoardo Beccari
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

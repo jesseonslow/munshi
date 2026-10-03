@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-319-devasahayam-abandoneddaughters-2020-7bf3b90bd
 
 # Physical geography of the Malayan Peninsula (1884
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

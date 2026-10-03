@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-034-hanitsch-notesflyingfrog-1900-a682ed650d9d.md
 
 # Notes on the flying frog Rhacophorus nigropalmatus
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-086-hamilton-rhymingsayingsmalay-1922-513b0f11eb4
 
 # Some rhyming sayings in Malay
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

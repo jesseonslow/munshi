@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-048-cameron-descriptionnewspecies-1907-6d33c19f8c
 
 # Description of new species of Hymenoptera from Borneo
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

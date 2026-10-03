@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-317-post-foundingethnicchinese-2019-8573b20c67c5/
 
 # Founding an ethnic Chinese business empire in colonial Asia: the strategic alliances of Major Oei Tiong Ham, 1895–1905
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

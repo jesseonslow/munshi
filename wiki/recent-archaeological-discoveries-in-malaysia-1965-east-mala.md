@@ -39,8 +39,8 @@ source_path: ../sources/jmbras-209-harrisson-eastmalaysiaand-1966-610ffffa6c76.m
 
 # Recent archaeological discoveries in Malaysia, 1965: East Malaysia and Brunei
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

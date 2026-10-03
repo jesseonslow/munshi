@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-004-everett-guligaborneo-1879-8b89ede12c4e.md
 
 # On the guliga of Borneo
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

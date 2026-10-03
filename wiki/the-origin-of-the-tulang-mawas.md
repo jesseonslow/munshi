@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-225-wales-origintulangmawas-1974-a47d10f7413d.md
 
 # The origin of the “tulang mawas”
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

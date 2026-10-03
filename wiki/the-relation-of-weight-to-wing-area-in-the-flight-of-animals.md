@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-110-banks-relationweightwing-1930-28338ff77c
 
 # The relation of weight to wing area in the flight of animals
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

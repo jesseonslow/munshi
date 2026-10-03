@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-041-shelford-listbutterfliesborneo-1904-a7ce19330
 
 # A list of the butterflies of Borneo with description of new species
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

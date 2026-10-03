@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-297-buiskool-chinesecommercialelite-2009-e5970234
 
 # The Chinese commercial elite of Medan, 1890-1942: the Penang connection
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

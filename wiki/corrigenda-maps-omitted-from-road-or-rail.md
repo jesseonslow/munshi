@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-239-corrigendaroadrailcompetition-1981-690b51298d
 
 # Corrigenda: maps omitted from ‘Road or rail?’
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

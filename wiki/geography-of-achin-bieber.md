@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-003-bieber-geographyachin-1879-9f970b79a877.md
 
 # Geography of Achin. . Bieber
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-250-bougas-earlyislamictombstones-1986-e3fe4de87e
 
 # Some early Islamic tombstones in Patani
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

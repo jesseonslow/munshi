@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-014-gueritz-britishnorthborneo-1884-eb69c21dd099.
 
 # British North Borneo
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

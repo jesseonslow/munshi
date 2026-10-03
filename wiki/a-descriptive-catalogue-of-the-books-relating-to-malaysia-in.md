@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-319-suwannathatpian-tunkubadlishahsultan-2020-61d
 
 # A descriptive catalogue of the books relating to Malaysia in the Raffles Museum & Library, Singapore
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

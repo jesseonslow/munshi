@@ -23,8 +23,8 @@ published: false
 
 # The Tribulations of a Man Who Would Be King: Anthoni Brooke of Sarawak (1912–2011
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

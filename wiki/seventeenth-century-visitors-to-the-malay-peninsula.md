@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-119-sheehan-seventeenthcenturyvisitors-1934-
 
 # Seventeenth century visitors to the Malay Peninsula
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-173-manning-commentmalayword-1956-b855c8dad4
 
 # Comment on the Malay word count, 1952
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

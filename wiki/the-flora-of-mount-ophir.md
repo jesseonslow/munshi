@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-200-anderson-facsimilereprintpolitical-1962-
 
 # The flora of Mount Ophir
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

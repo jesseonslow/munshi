@@ -28,8 +28,8 @@ source_path: ../sources/jmalayanras-095-abdullah-leadingsaintsrembau-1925-4df162
 
 # Bird notes. F.N. Chasen and C.B. Kloss. Records of the Raffles Museum, No. 13
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

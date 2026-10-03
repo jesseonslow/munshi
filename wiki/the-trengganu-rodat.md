@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-131-sheppard-trengganurodat-1938-ec11fa586ae
 
 # The Trengganu ‘rodat’
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

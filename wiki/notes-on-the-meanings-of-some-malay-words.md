@@ -38,8 +38,8 @@ source_path: ../sources/jmalayanras-129-baker-notesmeaningsmalay-1937-8dfd26e905
 
 # Notes on the meanings of some Malay words
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

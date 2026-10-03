@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-250-suwannathatpian-183941settlementskedah-1986-e
 
 # The 1839–1841 settlement of Kedah: the Siamese compromise
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-142-rentse-notescoinsnortheastern-1947-16b81
 
 # Some further notes on coins from the northeastern Malay states
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

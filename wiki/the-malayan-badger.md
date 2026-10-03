@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-085-moulton-malayanbadger-1922-64c73077362d.md
 
 # The Malayan badger
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

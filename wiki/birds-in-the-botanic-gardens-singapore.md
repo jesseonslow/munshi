@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-031-ridley-birdsbotanicgardens-1898-d833df183a9e.
 
 # Birds in the Botanic gardens, Singapore
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

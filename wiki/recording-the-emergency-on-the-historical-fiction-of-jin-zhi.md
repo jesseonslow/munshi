@@ -24,8 +24,8 @@ published: false
 
 # Recording the Emergency: On the Historical Fiction of Jin Zhimang, Anthony Burgess, and Han Suyin
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

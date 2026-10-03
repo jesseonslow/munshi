@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-215-winstedt-founderoldsingapore-1969-7eef1e90efe
 
 # The founder of old Singapore. SB 82: {127} S 1920. Reprinted
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

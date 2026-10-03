@@ -24,8 +24,8 @@ published: false
 
 # The flora of Gunong Tapis in Pahang: with notes on the altitudinal zonation of the forests of the Malay Peninsula
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

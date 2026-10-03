@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-001-maxwell-antiquitiesprovincewellesley-1878-748
 
 # Antiquities of Province Wellesley
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

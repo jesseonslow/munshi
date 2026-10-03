@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-273-khoo-coralbuildingmaterial-1997-206b68c08e63/
 
 # Coral as building material in late Portuguese and early Dutch Malacca
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

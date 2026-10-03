@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-054-bland-storyburonggeruda-1910-2da25c42737a.md
 
 # Story of the Burong Geruda and the Raja Merong Mahawangsa
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-268-diller-sriwijayafirstzeros-1995-76cf763b8925.
 
 # Srivijaya and the first zeros
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

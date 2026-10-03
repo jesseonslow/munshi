@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-309-porath-mayaimageindigenous-2015-18c995696dba/
 
 # Some old private letters from the Cape, Batavia and Malacca, 1778–1788. {Comp} P.C. Hoynck van Papendrecht
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -22,8 +22,8 @@ published: false
 
 # James Carnegy and the ‘Country Trade’ in Penang, c.1802–1824
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -23,8 +23,8 @@ published: false
 
 # Trade and Disruption in the Western Malay Archipelago in the 17th century
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

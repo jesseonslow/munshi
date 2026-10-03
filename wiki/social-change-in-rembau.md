@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-232-ibrahim-socialchangerembau-1977-e3ca0355527a/
 
 # Social change in Rembau
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-064-knight-tantocksengs-1913-054e319f9b15.md
 
 # Tan Tock Seng Hospital, Singapore
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

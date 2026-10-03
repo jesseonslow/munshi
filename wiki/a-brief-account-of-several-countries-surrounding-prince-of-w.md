@@ -30,8 +30,8 @@ source_path: ../sources/jmalayanras-131-wurtzburg-briefaccountseveral-1938-93afb
 
 # A brief account of several countries surrounding Prince of Wales’s Island with their production. Recd. from Captain Leight {sic} Enclosed in Lord Cornwallis’s letter to Mr. Dundas, dated 7th January, 1789.
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

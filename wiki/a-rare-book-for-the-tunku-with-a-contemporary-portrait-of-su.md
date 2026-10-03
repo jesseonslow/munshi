@@ -27,8 +27,8 @@ source_path: ../sources/jsbras-067-moulton-listbutterfliesborneo-1914-5078f93c05
 
 # A rare book for the Tunku, with a contemporary portrait of Sultan Ahmad Taju’din Halim Shah of Kedah
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

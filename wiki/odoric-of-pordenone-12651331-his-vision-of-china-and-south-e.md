@@ -27,8 +27,8 @@ source_path: ../sources/jsbras-070-errataburkill-1917-61071c77b11e.md
 
 # Odoric of Pordenone (1265–1331): his vision of China and South-East Asia and his contribution to relations between Asia and Europe
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

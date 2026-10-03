@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-007-croix-accountminingdistricts-1881-8a6badfaa93
 
 # Some account of the mining districts of lower Perak
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

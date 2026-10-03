@@ -36,8 +36,8 @@ source_path: ../sources/jsbras-024-proceedingsannualgeneral-1891-3c39ed28090f.md
 > **Notice of Subsequent Amendments:**
 > * **Corrigenda:** Published in [Corrigenda MB 25(1): 200 Ag 1952](./mbras-025-1.md)
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

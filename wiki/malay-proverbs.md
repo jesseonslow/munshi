@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-003-maxwell-malayproverbs-1879-292d3398f5cd.md
 
 # Malay proverbs
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

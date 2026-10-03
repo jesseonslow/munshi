@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-238-mckinnon-obituaryfrancisedward-1980-126e9f88f
 
 # Obituary: Francis E. Treloar
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

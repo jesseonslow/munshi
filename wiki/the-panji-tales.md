@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-140-winstedt-panjitales-1941-9f131e787eef.md
 
 # The Panji tales
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

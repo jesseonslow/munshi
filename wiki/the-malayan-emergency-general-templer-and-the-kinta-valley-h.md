@@ -26,8 +26,8 @@ source_path: ../sources/jmbras-302-comber-malayanemergencygeneral-2012-53635a210
 
 # The Malayan Emergency: General Templer and the Kinta Valley home guard
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

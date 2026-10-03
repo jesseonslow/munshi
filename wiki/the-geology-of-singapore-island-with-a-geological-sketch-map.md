@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-063-moulton-expeditionmountbatu-1912-94eae97ebac5
 
 # The geology of Singapore Island; with a geological sketch map
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

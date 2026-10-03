@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-158-gullick-surveymalayweavers-1952-1f71cf18
 
 # A survey of Malay weavers and silversmiths in Kelantan in 1951
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

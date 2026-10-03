@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-231-lamb-notetworitual-1977-555bc22a1925.md
 
 # A note on two ritual depositories from Pimai, Thailand
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

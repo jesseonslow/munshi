@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-217-rudner-politicalstructuremalayan-1970-4c523b3
 
 # The political structure of the Malayan Union
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

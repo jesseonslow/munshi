@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-033-thomas-caseslightningdischarge-1900-5a30200de
 
 # Cases of lightning discharge
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

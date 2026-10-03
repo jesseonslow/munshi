@@ -26,8 +26,8 @@ source_path: ../sources/jsbras-015-couvreur-missionarysjourneylaos-1885-1c7cd12e
 
 # A missionary’s journey through Laos from Bangkok to Ubon (.E. Maxwell
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-093-stirling-redwhiteflag-1925-de8fef53118f.
 
 # The red and white flag societies
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

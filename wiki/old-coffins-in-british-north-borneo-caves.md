@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-117-orolfo-oldcoffinsbritish-1933-c58e8918b5
 
 # Old coffins in British North Borneo caves
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

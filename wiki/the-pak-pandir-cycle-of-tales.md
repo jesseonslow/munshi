@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-229-sweeney-pakpandircycle-1976-8b6e34978c67.md
 
 # The Pak Pandir cycle of tales
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

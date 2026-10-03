@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-126-keith-ulunnobokanmuruttaboos-1936-c4a9fc
 
 # A few ulun-no-bokan (Murut) taboos
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -27,8 +27,8 @@ source_path: ../sources/jmalayanras-139-chasen-notenortherndrifts-1941-7fd3bcecd
 
 # A note on the northern “drifts” in the Malay Peninsula. Records of the Raffles Museum, No. 14
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -26,8 +26,8 @@ source_path: ../sources/jmbras-315-goh-prehistorichumanpresence-2018-918d66b04c9
 
 # Singapore as a port city, c.1290–1819: evidence, frameworks and challenges
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

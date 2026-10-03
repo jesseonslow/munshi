@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-140-winstedt-sundangmalaysianart-1941-8c2a72
 
 # The Sundang and other Malaysian art motifs
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

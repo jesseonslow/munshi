@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-092-blagden-notetrengganuinscription-1924-51
 
 # A note on the Trengganu inscription
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

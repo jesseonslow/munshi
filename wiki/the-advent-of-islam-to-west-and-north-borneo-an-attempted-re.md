@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-221-harrisson-adventislamwest-1972-81baef4ce53e/r
 
 # The advent of Islam to west and north Borneo: an attempted reconstruction of some possible sequences
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

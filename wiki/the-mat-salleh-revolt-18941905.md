@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-173-tregonning-matsallehrevolt-1956-18242fe9
 
 # The Mat Salleh revolt (1894–1905
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-010-skinner-outlinehistorybritish-1882-4d8384e3d9
 
 # Outline history of the British connection with Malaya
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

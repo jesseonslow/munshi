@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-113-wilkinson-malaystudies-1932-11d6789151a6
 
 # Some Malay studies
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

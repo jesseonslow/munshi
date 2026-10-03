@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-294-joseph-agriculturalhistorypeninsular-2008-675
 
 # Agricultural history of Peninsular Malaysia: contributions from Indonesia
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

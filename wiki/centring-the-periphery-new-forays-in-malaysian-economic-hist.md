@@ -23,8 +23,8 @@ published: false
 
 # Centring the Periphery: New Forays in Malaysian Economic History. biblio
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

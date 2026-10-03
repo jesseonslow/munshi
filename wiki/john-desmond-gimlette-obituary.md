@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-155-middlebrook-yapahloy-1951-a226f54271a8/c
 
 # John Desmond Gimlette. Obituary
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

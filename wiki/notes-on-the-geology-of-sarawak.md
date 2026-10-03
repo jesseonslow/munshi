@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-100-scrivenor-notesgeologysarawak-1927-35958
 
 # Notes on the geology of Sarawak
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

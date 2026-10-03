@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-153-wurtzburg-baptistmissionpress-1950-1134b
 
 # The Baptist mission press at Bencoolen
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

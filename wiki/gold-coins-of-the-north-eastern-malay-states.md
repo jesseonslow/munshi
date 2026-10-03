@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-134-rentse-goldcoinsnortheastern-1939-a98bf3
 
 # Gold coins of the north-eastern Malay states
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

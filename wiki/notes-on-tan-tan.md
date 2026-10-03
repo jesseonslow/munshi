@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-142-yuntsiao-notestantan-1947-f1bb22ee8904.m
 
 # Notes on Tan Tan
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

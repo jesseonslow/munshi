@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-140-ahmad-malayjournalismmalaya-1941-1693e5a
 
 # Malay journalism in Malaya
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

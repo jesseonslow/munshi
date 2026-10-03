@@ -23,8 +23,8 @@ published: false
 
 # Sir Stamford Raffles’ and John Crawfurd’s ideas of colonizing the Malay Archipelago
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

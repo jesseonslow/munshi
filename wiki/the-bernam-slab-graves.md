@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-134-wilkinson-bernamslabgraves-1939-47e876f5
 
 # The Bernam slab-graves
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

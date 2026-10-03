@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-126-woolley-muruthuntingcustoms-1936-d748b14
 
 # Some Murut hunting customs
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

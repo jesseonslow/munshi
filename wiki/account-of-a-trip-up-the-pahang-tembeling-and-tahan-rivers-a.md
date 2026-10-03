@@ -28,8 +28,8 @@ source_path: ../sources/jsbras-025-kelsall-accounttrippahang-1894-f5f6361be536.m
 
 # Account of a trip up the Pahang, Tembeling, and Tahan rivers, and an attempt to reach Gunong Tahan
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

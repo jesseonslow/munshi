@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-214-appell-penispinpeabody-1968-fee1f64cd4d8/bibl
 
 # The penis pin at Peabody Museum, Harvard University
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

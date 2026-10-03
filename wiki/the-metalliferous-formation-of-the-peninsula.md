@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-002-daly-metalliferousformationpeninsula-1878-439
 
 # The metalliferous formation of the peninsula
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

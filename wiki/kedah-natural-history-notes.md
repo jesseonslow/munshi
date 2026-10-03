@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-110-hamilton-kedahnaturalhistory-1930-7b19d4
 
 # Kedah natural history notes
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

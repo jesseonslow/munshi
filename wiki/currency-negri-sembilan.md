@@ -26,8 +26,8 @@ source_path: ../sources/jsbras-018-h-evidencesiamesework-1886-cc7ed3f4c84c.md
 
 # Currency, Negri Sembilan
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-076-burkill-gordonia-1917-a5f39da2a697.md
 
 # Gordonia
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

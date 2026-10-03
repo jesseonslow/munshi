@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-108-winstedt-perakgenies-1929-6af617d2fabb.m
 
 # The Perak genies
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/wilson-colonial-birding-in-the-thai-malay-peninsula-2e8b
 
 # A Brunei code
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-226-sweeney-batutarsilahshort-1974-c40daa717ced.m
 
 # Batu Tarsilah: a short comment
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

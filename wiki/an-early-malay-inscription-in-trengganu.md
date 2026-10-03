@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-092-paterson-earlymalayinscription-1924-9ac6
 
 # An early Malay inscription in Trengganu
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

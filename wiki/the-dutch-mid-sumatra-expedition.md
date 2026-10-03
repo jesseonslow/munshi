@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-016-dutchmidsumatraexpedition-1885-a3fb7544a21d.m
 
 # The Dutch mid-Sumatra expedition
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-257-suwannathatpian-kedahsuccessioncrisis-1989-0b
 
 # The Kedah succession crisis 1879–1882 {with comments by J.M. Gullick
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

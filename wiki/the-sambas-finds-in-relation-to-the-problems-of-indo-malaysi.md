@@ -35,8 +35,8 @@ source_path: ../sources/jmalayanras-150-wales-sambasfindsrelation-1949-614b3a97d
 > **Notice of Subsequent Amendments:**
 > * **Errata:** Published in [Errata MB 23(1): 155 F 1950](./mbras-023-1.md)
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

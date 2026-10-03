@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-165-topley-chinesewomensvegetarian-1954-d79e
 
 # Chinese women’s vegetarian houses in Singapore
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

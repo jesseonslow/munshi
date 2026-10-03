@@ -26,8 +26,8 @@ source_path: ../sources/jmbras-237-stone-vegetationplantcommunities-1980-f54bd60
 
 # The vegetation and plant communities of Pulau Balambangan, Sabah, East Malaysia
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

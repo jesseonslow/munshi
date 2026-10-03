@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-297-beng-peranakanstreetculture-2009-10949c90bd15
 
 # Peranakan street culture in Penang: towards revitalization
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

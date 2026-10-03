@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-096-savage-twomalaytales-1926-9fcc996611bc.m
 
 # Two Malay tales
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

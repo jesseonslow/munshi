@@ -24,8 +24,8 @@ published: false
 
 # Kung Tian Cheng: From Confucian Scholar in Singapore to Reformer in the Chinese Republic
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

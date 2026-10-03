@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-111-wilkinson-mahmudiiabdul-1931-ea09da9cad8
 
 # Mahmud II and Abdul Jalil III, 1685–1720 A.D
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

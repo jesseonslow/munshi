@@ -27,8 +27,8 @@ source_path: ../sources/jsbras-016-logan-planvolunteerpolice-1885-b64907bbb81a.m
 
 # Plan for a volunteer force in the Muda districts, Province Wellesley, submitted to government by the late J.R. Logan in 1867
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

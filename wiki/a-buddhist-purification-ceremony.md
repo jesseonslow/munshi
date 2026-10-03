@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-117-farrer-buddhisticpurificationceremony-19
 
 # A Buddhist purification ceremony
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-117-hamilton-malaygarden-1933-d37cc0e429d0.m
 
 # A Malay garden. With botanical determinations. R.E. Holttum
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

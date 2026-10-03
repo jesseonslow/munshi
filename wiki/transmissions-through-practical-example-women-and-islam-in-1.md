@@ -26,8 +26,8 @@ source_path: ../sources/jmbras-267-hooker-transmissionpracticalexample-1994-8a09
 
 # Transmissions through practical example: women and Islam in 1920s Malay fiction
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

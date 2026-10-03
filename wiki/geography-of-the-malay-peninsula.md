@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-001-skinner-geographymalaypeninsula-1878-2ff2541b
 
 # Geography of the Malay Peninsula
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

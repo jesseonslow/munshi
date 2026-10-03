@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-001-murton-notesguttacaoutchouc-1878-dc27c2b2a0e9
 
 # Notes on gutta and caoutchouc in the Malay Peninsula
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

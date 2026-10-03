@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-185-gibsonhill-georgesamuelwindsor-1959-e61d
 
 # George Samuel Windsor Earl
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

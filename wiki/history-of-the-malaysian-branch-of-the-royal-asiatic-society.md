@@ -34,8 +34,8 @@ source_path: ../sources/jmbras-269-lum-historymalaysianbranch-1995-c0daa7ad64b2/
 > **Notice of Subsequent Amendments:**
 > * **Corrigenda:** Published in [Corrigendum MB 69(1): 129 Je 1996](./mbras-069-1.md)
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

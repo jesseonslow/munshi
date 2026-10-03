@@ -22,8 +22,8 @@ published: false
 
 # Maxwell’s Malay Manual. NQ 1:
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

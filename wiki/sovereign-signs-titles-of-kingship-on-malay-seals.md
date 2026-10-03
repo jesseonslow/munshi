@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-319-putten-literaryagentsmalay-2020-d63a88c7471f/
 
 # Sovereign signs: titles of kingship on Malay seals
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

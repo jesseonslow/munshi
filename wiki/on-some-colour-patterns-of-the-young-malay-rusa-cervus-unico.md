@@ -27,8 +27,8 @@ source_path: ../sources/jmalayanras-093-chasen-colourpatternyoungmalay-1925-c920
 
 # On some colour patterns of the young Malay rusa (Cervus unicolor equinus). Records of the Raffles Museum, No. 9
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

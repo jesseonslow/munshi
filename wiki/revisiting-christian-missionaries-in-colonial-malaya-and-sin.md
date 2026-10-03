@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-316-hudd-revisitingchristianmissionaries-2019-293
 
 # Revisiting Christian missionaries in colonial Malaya and Singapore: blurring the boundaries between empire, mission and development
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

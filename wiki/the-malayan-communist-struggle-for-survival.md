@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-270-metzger-josephducrouxfrench-1996-14f2e852c419
 
 # The Malayan communist struggle for survival
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

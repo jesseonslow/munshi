@@ -26,8 +26,8 @@ source_path: ../sources/jmbras-319-tol-productionbugismalay-2020-3fb3dc4fed47/re
 
 # The production of the Bugis and Malay manuscripts in the Library of Congress
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

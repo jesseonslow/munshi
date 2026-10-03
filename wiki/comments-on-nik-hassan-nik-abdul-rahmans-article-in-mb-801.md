@@ -22,8 +22,8 @@ published: false
 
 # Comments on Nik Hassan Nik Abdul Rahman’s article in MB 80(1
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

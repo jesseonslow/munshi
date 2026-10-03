@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-252-sheppard-johnviviangottlieb-1987-a313b6d6f653
 
 # John Mills. Obituary
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

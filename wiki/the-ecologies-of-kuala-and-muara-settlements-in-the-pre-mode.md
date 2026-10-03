@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-285-drabble-technologytransfersingaporemalaya-200
 
 # The ecologies of kuala and muara settlements in the pre-modern Malay cultural world
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

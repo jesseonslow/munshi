@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-086-macbryan-additionsvocabularybruneimalay-1922-
 
 # Additions to a vocabulary of Brunei-Malay
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

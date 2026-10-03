@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-302-datojohnm-2012-3e51d54106fe.md
 
 # Dato’ John M. Gullick JSM (1916–2012). Obituary
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

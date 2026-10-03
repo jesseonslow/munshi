@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-241-traill-aspectsabdullahmunshi-1981-34d77fa5ef4
 
 # Aspects of Abdullah “Munshi”
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

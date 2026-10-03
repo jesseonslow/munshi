@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-305-gullick-recollectionstimemalaya-2013-1c7ba709
 
 # Recollections of my time in Malaya (1945–1948) Part 1
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

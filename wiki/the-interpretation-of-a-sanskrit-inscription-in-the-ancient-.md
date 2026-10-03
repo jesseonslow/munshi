@@ -26,8 +26,8 @@ source_path: ../sources/jmbras-235-sharma-interpretationsanskritinscription-1979
 
 # The interpretation of a Sanskrit inscription in the ancient Brunei script
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

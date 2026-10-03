@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-117-hamilton-malaynamesmolluscs-1933-1ae0160
 
 # Malay names of molluscs
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

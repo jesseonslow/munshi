@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-295-reece-mydeartreasurer-2008-2514dc0dc43e/refer
 
 # The making of a monarch: Raja Muda Sulaiman of Selangor 1865-98
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

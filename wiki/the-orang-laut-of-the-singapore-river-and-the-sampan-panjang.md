@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-158-gibsonhill-oranglautsingapore-1952-f941b
 
 # The Orang Laut of the Singapore River and the sampan panjang
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

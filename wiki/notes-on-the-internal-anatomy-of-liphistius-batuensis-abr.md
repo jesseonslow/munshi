@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-090-buxton-notesinternalanatomy-1924-06f5dc5
 
 # Notes on the internal anatomy of Liphistius batuensis, Abr
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

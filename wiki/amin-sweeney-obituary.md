@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-300-putten-obituaryaminsweeney-2011-e2dfff1118b4.
 
 # Amin Sweeney. Obituary
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

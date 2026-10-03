@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-223-lee-medicaleducationstraits-1973-a1b5edc1ad9a
 
 # Medical education in the Straits, 1786–1871
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

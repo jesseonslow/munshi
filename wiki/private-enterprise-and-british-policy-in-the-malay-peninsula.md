@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-206-chandran-privateenterprisebritish-1964-78bb1d
 
 # Private enterprise and British policy in the Malay Peninsula: the case of the Malay Railway and Works Construction Company 1893–1895
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

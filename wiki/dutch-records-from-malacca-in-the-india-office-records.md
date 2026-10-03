@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-245-baxter-dutchrecordsmalacca-1983-7d7c6f7c47f6.
 
 # Dutch records from Malacca in the India Office Records
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-173-gibsonhill-malayannalshistory-1956-f0e62
 
 # The Malay Annals: the history brought from Goa
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

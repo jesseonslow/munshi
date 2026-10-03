@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-096-stirling-coffinbreakerssociety-1926-63d5
 
 # The Coffin Breakers Society
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

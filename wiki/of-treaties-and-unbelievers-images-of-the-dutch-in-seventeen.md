@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-288-koster-treatiesunbelieversimages-2005-2abb016
 
 # Of treaties and unbelievers: images of the Dutch in seventeenth- and eighteenth-century Malay historiography
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-153-wales-sabaeanspossibleegyptian-1950-d781
 
 # The Savaeans and possible Egyptian influences in Indonesia
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -26,8 +26,8 @@ source_path: ../sources/jsbras-044-robinson-noteoccurrenceselangor-1905-ef303328
 
 # Note on the occurrence in Selangor of three vertebrates new to the Malay Peninsula
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

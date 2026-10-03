@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-088-laidlaw-noteinvocationakuan-1923-4b6291d
 
 # Notes on the invocation of Akuan
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-085-ahmad-tigerbreedfamilies-1922-25d5fbf56d4b.md
 
 # The tiger-breed families
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

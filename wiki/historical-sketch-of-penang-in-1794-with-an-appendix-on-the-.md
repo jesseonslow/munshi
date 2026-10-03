@@ -28,8 +28,8 @@ source_path: ../sources/jsbras-032-k-memoriamsirw-1899-850e71dc7f68.md
 
 # Historical sketch of Penang in 1794. With an appendix on the failure of Penang as a naval base and shipbuilding centre, M. Stubbs Brown. .S. Bastin
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

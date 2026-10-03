@@ -43,8 +43,8 @@ source_path: ../sources/jmbras-228-lee-singaporespaupertan-1975-4759b8acc044/ref
 
 # Singapore’s pauper and Tan Tock Seng hospitals. Part I
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

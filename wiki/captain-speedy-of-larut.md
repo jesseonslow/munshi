@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-164-gibsonhill-cambridgeuniversityexpedition
 
 # Captain Speedy of Larut
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

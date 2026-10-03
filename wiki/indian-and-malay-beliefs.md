@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-083-winstedt-indiamalaybeliefs-1921-6e2ba8e4cee2.
 
 # Indian and Malay beliefs
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

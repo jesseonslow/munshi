@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-041-ridley-floweringbarringtoniaracemosa-1904-4df
 
 # On the flowering of Barringtonia racemosa
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

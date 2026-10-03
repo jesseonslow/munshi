@@ -25,8 +25,8 @@ source_path: ../sources/akhtar-malay-perspectives-on-ming-china-d689655ee580/bib
 
 # Malay Perspectives on Ming China during the Age of Exploration
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

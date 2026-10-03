@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-224-fredericks-impactcooperativemovement-1973-920
 
 # The impact of the cooperative movement in colonial Malaya
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

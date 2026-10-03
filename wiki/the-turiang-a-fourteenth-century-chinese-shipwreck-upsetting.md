@@ -25,8 +25,8 @@ published: false
 
 # The Turiang: a fourteenth century Chinese shipwreck upsetting Southeast Asian ceramic history
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

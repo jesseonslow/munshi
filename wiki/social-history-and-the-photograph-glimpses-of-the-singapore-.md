@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-248-warren-socialhistoryphotograph-1985-3619d2088
 
 # Social history and the photograph: glimpses of the Singapore rickshaw coolie in the early nineteenth century
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-301-porath-hikayatpatanikingdom-2011-af5e8cc51b79
 
 # “A fine sphere for female usefulness”: missionary women in the Straits Settlements 1815–45
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

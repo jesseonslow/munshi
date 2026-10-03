@@ -22,8 +22,8 @@ published: false
 
 # Origin of orchids. NQ 2
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

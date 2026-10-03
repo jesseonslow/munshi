@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-044-ridley-aroidsborneo-1905-96724758b6ed.md
 
 # The aroids of Borneo
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

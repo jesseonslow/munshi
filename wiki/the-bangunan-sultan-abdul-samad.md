@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-262-gullick-bangunansultanabdul-1992-f202d3127d32
 
 # The Bangunan Sultan Abdul Samad
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

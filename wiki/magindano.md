@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-173-gibsonhill-magindano-1956-55efc47d9af2.m
 
 # Magindano
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

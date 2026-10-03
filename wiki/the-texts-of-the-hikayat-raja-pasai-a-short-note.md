@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-237-jones-textshikayatraja-1980-48c9a174d681.md
 
 # The texts of the Hikayat Raja Pasai: a short note
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

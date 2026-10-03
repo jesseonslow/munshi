@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-158-williamshunt-malayaboriginalcharms-1952-
 
 # Some Malay and aboriginal charms and methods of measuring weapons
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

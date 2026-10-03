@@ -26,8 +26,8 @@ source_path: ../sources/jmalayanras-161-eeleong-chinesebanksincorporated-1953-e1
 
 # The Chinese banks incorporated in Singapore and the Federation of Malaya
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

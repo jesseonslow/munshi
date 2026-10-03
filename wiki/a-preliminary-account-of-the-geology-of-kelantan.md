@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-093-savage-preliminaryaccountgeology-1925-a3
 
 # A preliminary account of the geology of Kelantan
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

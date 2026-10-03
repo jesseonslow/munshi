@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-280-gullick-richardjameswilkinson-2001-87852dfd69
 
 # Richard James Wilkinson: a man of parts
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

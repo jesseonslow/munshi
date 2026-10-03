@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-140-winstedt-peraksitesailendra-1941-b36a545
 
 # The Perak site of the Sailendra empire
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

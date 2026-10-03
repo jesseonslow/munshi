@@ -27,8 +27,8 @@ source_path: ../sources/husni-musa-federal-education-policy-984cf20a10a4.md
 
 # Federal Education Policy and the Role of Muhammad Yusof bin Ahmad, 1951–1955
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

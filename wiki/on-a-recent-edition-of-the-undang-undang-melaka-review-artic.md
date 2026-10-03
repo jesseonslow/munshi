@@ -28,8 +28,8 @@ source_path: ../sources/jmbras-237-drewes-recenteditionundangundang-1980-2daf31d
 
 # On a recent edition of the Undang-undang Melaka. {Review article of Undang-undang Melaka, the laws of Melaka by Liaw Yock Fang
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

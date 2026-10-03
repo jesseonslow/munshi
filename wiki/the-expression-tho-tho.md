@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-131-mills-expressionthokho-1938-9e5ec0767a47
 
 # The expression tho-tho
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

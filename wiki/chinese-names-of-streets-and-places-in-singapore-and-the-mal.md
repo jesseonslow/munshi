@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-042-firmstone-chinesenamesstreets-1905-7963f4a1a5
 
 # Chinese names of streets and places in Singapore and the Malay Peninsula
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

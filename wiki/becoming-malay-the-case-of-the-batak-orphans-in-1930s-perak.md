@@ -42,8 +42,8 @@ source_path: ../sources/lees-becoming-malays-46626348799e/references.md
 
 Huta Uruk Petros emigrated from Sumatra to Perak in the Federated Malay States in 1914. He and his growing family built a new life there until his and his wife’s deaths triggered a battle over custody of his children. This essay analyses the children’s decisions to ‘become Malay’ and to convert from Christianity to Islam as they made decisions about their identity and where they belonged. Their story raises questions about the meaning of religion, gender, age, kinship, law, colonial power, and local custom in a small town in British Malaya around 1930. Decisions hinged upon welfare issues and the age of adulthood in British and Muslim law.
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

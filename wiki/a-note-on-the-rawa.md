@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-234-milner-notetherawa-1978-a5f244cf3940.md
 
 # A note on ‘the Rawa’
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-245-dictionarymalaysianbiography-1983-00e3b776fa6
 
 # Dictionary of Malaysian biography project
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-226-drewes-nraldnalrnrs-1974-716334dfdedd.md
 
 # Nur al-Din al-Raniri’s Hujjat al-Siddiq li-daf al-Zindiq re-examined
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

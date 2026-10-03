@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-189-lewis-inasstudylocal-1960-bae300989200.m
 
 # Inas: a study of local history
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

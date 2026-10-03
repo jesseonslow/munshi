@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-284-proudfoot-expeditionpoliticsmalay-2003-59384d
 
 # An expedition into the politics of Malay philology
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

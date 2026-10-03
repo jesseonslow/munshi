@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-293-gullick-shorthistoryulu-2007-5353cf2ddc48/ref
 
 # Abdullah vs Siami: early Malay verdicts on British justice
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

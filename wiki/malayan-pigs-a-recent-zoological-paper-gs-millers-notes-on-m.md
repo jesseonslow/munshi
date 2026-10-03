@@ -27,8 +27,8 @@ source_path: ../sources/jsbras-049-kloss-malayanpigsrecent-1907-0a9cf3045442.md
 
 # Malayan pigs: a recent zoological paper. G.S. Miller’s notes on Malayan pigs
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

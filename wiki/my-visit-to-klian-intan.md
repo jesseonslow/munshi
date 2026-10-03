@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-054-birch-visitklianintan-1910-11a5442cc62e.md
 
 # My visit to Klian Intan
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

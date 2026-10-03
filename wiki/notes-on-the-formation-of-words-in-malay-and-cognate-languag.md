@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-209-tarling-britishrelationsvietnam-1966-e05f787c
 
 # Notes on the formation of words in Malay and cognate languages
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

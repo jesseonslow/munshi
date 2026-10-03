@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-208-johnson-landcrabs-1965-b8f96d56e246/reference
 
 # Muhammad Alimuddin I, Sultan of Sulu, 1735–1773
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

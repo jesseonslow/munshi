@@ -26,8 +26,8 @@ source_path: ../sources/jmbras-250-miksic-valleymegalithswest-1986-b7e3940c1850/
 
 # A valley of megaliths in West Sumatra. Mahat (Schnitger’s Aoer Doeri) revisited
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

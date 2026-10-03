@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-208-harrison-numbersmammalsmalaysian-1965-cd872de
 
 # Numbers of mammals on the Malaysian islands
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-002-b-malayenglishdictionaries-1878-2a65cc32589d.
 
 # Malay–English dictionaries
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

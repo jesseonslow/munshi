@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-139-wilkinson-bencoolen-1941-e47231b1a3db.md
 
 # More on Bencoolen
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

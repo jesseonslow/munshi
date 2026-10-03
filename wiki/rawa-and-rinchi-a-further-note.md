@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-242-watson-rawarinchinote-1982-4114674750a0/bibli
 
 # Rawa and Rinchi: a further note
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-270-warren-lookingbackthe-1996-008047d5e046.md
 
 # Looking back on the “Sulu Zone”: state formation, slave raiding and ethnic diversity in Southeast Asia
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

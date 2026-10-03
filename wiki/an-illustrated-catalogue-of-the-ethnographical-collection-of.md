@@ -26,8 +26,8 @@ source_path: ../sources/jmbras-217-wales-malayanarchaeologyhindu-1970-1eb42eed6e
 
 # An illustrated catalogue of the ethnographical collection of the Sarawak Museum
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

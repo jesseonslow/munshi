@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-138-winstedt-pasaichiefpersian-1940-05e61249
 
 # A Pasai chief with a Persian memorial inscription
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

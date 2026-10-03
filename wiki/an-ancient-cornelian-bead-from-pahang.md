@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-117-evans-ancientcornelianbead-1933-23cba87a
 
 # An ancient cornelian bead from Pahang
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

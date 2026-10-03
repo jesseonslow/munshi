@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-305-nagata-tagehsingritual-2013-01eeb1a9ffc5/refe
 
 # Seals as sources for the history of Negri Sembilan
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

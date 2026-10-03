@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-207-majul-politicalhistoricalnotes-1965-530382507
 
 # Political and historical notes on the old Sulu Sultanate
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

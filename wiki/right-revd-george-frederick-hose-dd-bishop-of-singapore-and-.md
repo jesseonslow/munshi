@@ -27,8 +27,8 @@ source_path: ../sources/jsbras-057-bland-rightrevdgeorge-1911-1d00d61c66b2.md
 
 # Right Revd. George Frederick Hose, D.D. Bishop of Singapore and Sarawak, 1881–1908
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

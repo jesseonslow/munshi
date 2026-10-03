@@ -22,8 +22,8 @@ published: false
 
 # Malacca legends of Nakhoda Ragam. NQ 2: 40–44
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

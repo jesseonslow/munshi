@@ -28,8 +28,8 @@ source_path: ../sources/jsbras-024-proceedingsannualgeneral-1891-3c39ed28090f.md
 
 # Yap Ah Loy, 1837–1885, with an introduction and three final chapters by J.M. Gullick (and notes on the text). S.M. Middlebrook
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-156-linehan-stave16thcentury-1951-78417cbe48
 
 # A stave of 16th century Malay poetry
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

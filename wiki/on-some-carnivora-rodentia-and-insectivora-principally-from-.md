@@ -27,8 +27,8 @@ source_path: ../sources/jmalayanras-102-chasen-carnivorarodentiainsectivora-1928
 
 # On some Carnivora, Rodentia and Insectivora principally from Eastern Borneo
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

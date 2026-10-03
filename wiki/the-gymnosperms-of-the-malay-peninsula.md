@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-060-ridley-gymnospermsmalaypeninsula-1911-c5effb9
 
 # The Gymnosperms of the Malay Peninsula
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

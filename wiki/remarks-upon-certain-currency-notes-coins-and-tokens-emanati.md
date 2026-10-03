@@ -27,8 +27,8 @@ source_path: ../sources/jsbras-085-bucknill-remarksuponcertain-1922-393f62d607f5
 
 # Remarks upon certain currency notes, coins and tokens emanating from Malaya during and after the war
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

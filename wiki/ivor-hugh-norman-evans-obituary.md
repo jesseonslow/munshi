@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-189-tweedie-ivorhughnorman-1960-9c807bf54a56
 
 # Ivor Hugh Norman Evans. Obituary
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

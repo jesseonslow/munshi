@@ -36,8 +36,8 @@ source_path: ../sources/jsbras-062-sturrock-noteskelantandialect-1912-1ff970a821
 > **Notice of Subsequent Amendments:**
 > * **Errata:** Published in [Errata SB 64: {76} Je 1913](./jsbras-064.md)
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

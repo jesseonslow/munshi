@@ -22,8 +22,8 @@ published: false
 
 # Malay festivals, and some aspects of Malay religious life
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

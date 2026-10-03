@@ -35,8 +35,8 @@ source_path: ../sources/jmalayanras-143-macbryan-twobruneicharms-1947-78dafeab2b
 > **Notice of Subsequent Amendments:**
 > * **Corrigenda:** Published in [Corrigenda MB 21(1): 157 Ap 1948](./mbras-021-1.md)
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

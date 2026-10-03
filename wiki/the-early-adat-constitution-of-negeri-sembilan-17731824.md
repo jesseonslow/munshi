@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-219-hooker-earlyadatconstitution-1971-2f81e80fb0d
 
 # The early adat constitution of Negeri Sembilan (1773–1824
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

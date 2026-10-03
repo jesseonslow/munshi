@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-234-ramachandra-outbreakfirstangloburmese-1978-33
 
 # The outbreak of the first Anglo-Burman War
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

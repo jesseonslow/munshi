@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-072-macfadyen-notenamekuala-1916-596281281fa1.md
 
 # Note on the name Kuala Lumpur
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-067-moulton-listbutterfliesborneo-1914-5078f93c05
 
 # Barrretto de Resende’s account of Malacca
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

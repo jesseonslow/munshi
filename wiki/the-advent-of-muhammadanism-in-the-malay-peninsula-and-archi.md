@@ -26,8 +26,8 @@ source_path: ../sources/jsbras-077-winstedt-adventmuhammadanismmalay-1917-e684a5
 
 # The advent of Muhammadanism in the Malay Peninsula and Archipelago
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

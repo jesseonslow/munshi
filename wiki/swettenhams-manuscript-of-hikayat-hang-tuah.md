@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-261-hooker-swettenhamsmanuscripthikayat-1991-be36
 
 # Swettenham’s manuscript of Hikayat Hang Tuah
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

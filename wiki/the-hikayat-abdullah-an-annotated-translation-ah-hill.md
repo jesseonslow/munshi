@@ -26,8 +26,8 @@ source_path: ../sources/jsbras-028-s-memoircaptainfrancis-1895-f5b35961c8e8.md
 
 # The Hikayat Abdullah; an annotated translation. A.H. Hill
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-312-borschberg-singaporecycleslongue-2017-008672c
 
 # Singapore in the cycles of the longue durée
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

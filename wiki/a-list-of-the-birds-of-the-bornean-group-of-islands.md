@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-020-everett-listbirdsbornean-1889-22d7ca9c1c98.md
 
 # A list of the birds of the Bornean group of islands
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

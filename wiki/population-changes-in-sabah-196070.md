@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-233-leng-populationchangessabah-1978-33f26ca03926
 
 # Population changes in Sabah, 1960–70
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-143-hamilton-firstdutchmalayvocabulary-1947-
 
 # The first Dutch–Malay vocabulary
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

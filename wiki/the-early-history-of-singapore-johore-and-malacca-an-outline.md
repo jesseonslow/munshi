@@ -28,8 +28,8 @@ source_path: ../sources/jsbras-086-rouffaer-earlyhistorysingapore-1922-9081639bc
 
 # The early history of Singapore, Johore and Malacca: an outline of a paper by G.P. Rouffaer
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

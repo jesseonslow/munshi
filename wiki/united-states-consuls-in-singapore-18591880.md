@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-244-sodhy-unitedstatesconsuls-1983-b75973670287.m
 
 # United States consuls in Singapore, 1859–1880
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

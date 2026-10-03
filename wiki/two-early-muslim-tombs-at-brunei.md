@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-117-carey-twoearlymuslim-1933-41bf56039211.m
 
 # Two early Muslim tombs at Brunei
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

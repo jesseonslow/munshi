@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-097-abdullah-mandiayergawar-1926-005716255fc
 
 # Some First-Hand Accounts of the Japanese Occupation
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

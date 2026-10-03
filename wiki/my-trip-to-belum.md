@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-054-birch-tripblum-1910-175d666ef485.md
 
 # My trip to Belum
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

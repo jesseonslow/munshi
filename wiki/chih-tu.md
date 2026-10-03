@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-177-wheatley-chihtu-1957-88d8d3d84c82.md
 
 # Ch’ih-t’u
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

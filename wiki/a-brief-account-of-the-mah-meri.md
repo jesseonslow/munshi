@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-224-carey-briefaccountmah-1973-59f222498e63.md
 
 # A brief account of the Mah Meri
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

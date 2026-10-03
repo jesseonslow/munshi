@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-207-sidhu-railwaysselangor18821886-1965-4cce0da1c
 
 # Railways in Selangor
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

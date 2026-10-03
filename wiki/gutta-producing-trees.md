@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-012-low-guttaproducingtrees-1883-861e589bf23c.md
 
 # Gutta-producing trees
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

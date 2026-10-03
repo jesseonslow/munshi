@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-293-sugimoto-analysisstatejohores-2007-0e8af6befe
 
 # An analysis of Johore’s finances 1910–1940
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

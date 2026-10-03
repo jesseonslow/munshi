@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-296-jeshurun-tunkuabdulrahman-2009-8b678298b078/r
 
 # Introduction: Penang Chinese in Penang and the region: evolving identities and networks
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

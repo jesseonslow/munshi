@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-236-traill-indianprotagonistmalay-1979-ae9417eb35
 
 # An Indian protagonist of the Malay language: Abdullah “Munshi”, his race and his mother-tongue
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

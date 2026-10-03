@@ -34,8 +34,8 @@ source_path: ../sources/jsbras-045-kloss-malayanmusicalinstruments-1906-3d628903
 > **Notice of Subsequent Amendments:**
 > * **Errata:** Published in [Errata SB 46: 264 D 1906](./jsbras-046.md)
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-028-bland-aturansungeiujong-1895-7e9e090c0959.md
 
 # Aturan Sungei Ujong
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

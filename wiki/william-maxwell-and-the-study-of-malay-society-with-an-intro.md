@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-261-gullick-williammaxwellstudy-1991-0581dff4de5e
 
 # William Maxwell and the study of Malay society (with an introduction by Khoo Kay Kim
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

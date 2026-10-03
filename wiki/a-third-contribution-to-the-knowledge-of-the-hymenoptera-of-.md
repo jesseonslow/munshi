@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-044-cameron-thirdcontributionknowledge-1905-a5ffb
 
 # A third contribution to the knowledge of the Hymenoptera of Sarawak
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-113-winstedt-temenggongsmuar-1932-23a7fffae0
 
 # The Temenggongs of Muar
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

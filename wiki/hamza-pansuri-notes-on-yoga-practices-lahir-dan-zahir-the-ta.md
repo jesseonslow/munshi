@@ -29,8 +29,8 @@ source_path: ../sources/jmbras-235-brakel-hamzapansurinotes-1979-42b89afbbea7/ap
 
 # Hamza Pansuri: notes on yoga practices, lahir dan zahir, the ‘Taxallos’, punning, a difficult passage in the Kitab al-Muntahi, Hamza’s likely place of birth, and Hamza’s imagery: with appendix
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

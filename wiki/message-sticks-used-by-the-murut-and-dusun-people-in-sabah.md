@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-228-burrough-messagesticksused-1975-0806e25fb852.
 
 # Message sticks used by the Murut and Dusun people in Sabah
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

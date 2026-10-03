@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-311-farquhar-establishmentsingapore-2016-c741d56b
 
 # The establishment of Singapore
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

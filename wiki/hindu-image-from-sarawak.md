@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-085-moulton-hinduimagesarawak-1922-3ae1c6d3387f.m
 
 # Hindu image from Sarawak
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

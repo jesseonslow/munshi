@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-319-lias-tinnativeland-2020-b860c9bf2c81.md
 
 # Tin and its native land. Facsimile reprint
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

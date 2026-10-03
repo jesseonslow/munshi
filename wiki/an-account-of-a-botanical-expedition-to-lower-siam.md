@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-250-miksic-valleymegalithswest-1986-b7e3940c1850/
 
 # An account of a botanical expedition to Lower Siam
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

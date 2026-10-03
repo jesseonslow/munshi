@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-046-howell-dyakceremoniespregnancy-1906-830edc046
 
 # Dyak ceremonies in pregnancy and child-birth
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-138-hough-preislamicelementmalay-1940-041e4f
 
 # A Pre-Islamic element in the Malay grave
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

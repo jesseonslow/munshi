@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-238-curtis-revivaltitledato-1980-cdd3c6b63924/app
 
 # The revival of the title of Dato Naning in 1921. With an introductory note by the editor
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

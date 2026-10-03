@@ -25,8 +25,8 @@ published: false
 
 # A rare Bornean squirrel, Glyphotes simus Thomas. F.N. Chasen and C.B. Kloss. Records of the Raffles Museum, No. 27
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

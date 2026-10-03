@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-259-talib-munshiabdullahsarab-1990-080236f3b016.m
 
 # Munshi Abdullah’s Arab teachers
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-209-minattur-gajamadaspalapa-1966-c3149c5d877a.md
 
 # Gaja Mada’s palapa
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

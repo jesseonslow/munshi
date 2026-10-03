@@ -27,8 +27,8 @@ source_path: ../sources/jsbras-063-moulton-expeditionmountbatu-1912-94eae97ebac5
 
 # List of the Odonata taken on an expedition to Mt. Batu Lawi together with descriptions of supposed new species
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

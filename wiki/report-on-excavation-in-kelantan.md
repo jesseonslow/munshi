@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-078-marshall-positiongunongsay-1918-710a43944df2.
 
 # Report on excavation in Kelantan
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

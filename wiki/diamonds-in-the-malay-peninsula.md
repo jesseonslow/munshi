@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-024-r-diamondsmalaypeninsula-1891-7fb52c30a88d.md
 
 # Diamonds in the Malay Peninsula
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

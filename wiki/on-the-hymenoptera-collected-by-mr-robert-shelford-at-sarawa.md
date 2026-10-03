@@ -27,8 +27,8 @@ source_path: ../sources/jsbras-041-cameron-erratahymenopteracollected-1904-c57b8
 
 # On the Hymenoptera collected by Mr. Robert Shelford at Sarawak, and on the Hymenoptera of the Sarawak Museum
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

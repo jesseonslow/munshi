@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-025-l-malaylullaby-1894-658d78fa1e05.md
 
 # A Malay lullaby
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-175-macgregor-seafightnear-1956-4f5ae1b85be3
 
 # A sea fight near Singapore in the 1570’s
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

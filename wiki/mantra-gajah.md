@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-049-maxwell-mantragajah-1907-13ba916fc009.md
 
 # Mantra gajah
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

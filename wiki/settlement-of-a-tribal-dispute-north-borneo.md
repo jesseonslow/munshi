@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-165-beresfordpeirse-settlementtribaldispute-
 
 # Settlement of a tribal dispute (North Borneo
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -22,8 +22,8 @@ published: false
 
 # Breeding pearls and bacteria in rice. NQ 1: 13–14
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

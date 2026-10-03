@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-041-proceedingsannualgeneral-1904-535220a7d83d.md
 
 # In memoriam. Dato Sir Roland St. John Braddell. (20.12.1880–15.11.1966
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

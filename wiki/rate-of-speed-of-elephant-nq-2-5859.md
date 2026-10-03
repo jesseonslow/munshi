@@ -22,8 +22,8 @@ published: false
 
 # Rate of speed of elephant. NQ 2: 58–59
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

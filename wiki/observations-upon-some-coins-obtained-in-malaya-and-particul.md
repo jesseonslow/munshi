@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-315-jianli-stamfordrafflesfounding-2018-edf17bbd1
 
 # Observations upon some coins obtained in Malaya and particularly from Trengganu, Kelantan and southern Siam
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

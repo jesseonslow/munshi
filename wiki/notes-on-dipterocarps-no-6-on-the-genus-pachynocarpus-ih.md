@@ -27,8 +27,8 @@ source_path: ../sources/jsbras-086-burkill-notesdipterocarps6-1922-84ab50e2a2aa.
 
 # Notes on Dipterocarps. {No. 6} On the genus Pachynocarpus. I.H
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

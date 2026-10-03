@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-311-phillips-borneohistory-2016-ee1b5509797a/refe
 
 # Borneo history: time for a new look?
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-030-ridley-malayplantnames-1897-feb0ddf21579.md
 
 # Malay plant names
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

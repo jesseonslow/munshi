@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-285-sulaiman-pahangcapital-2003-ec4e87364e5f.md
 
 # The Pahang capital
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

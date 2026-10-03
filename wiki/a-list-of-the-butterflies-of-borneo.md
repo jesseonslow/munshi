@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-066-mead-romanizedversionhikayat-1914-68c0973db23
 
 # A list of the butterflies of Borneo
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

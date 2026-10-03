@@ -26,8 +26,8 @@ source_path: ../sources/jmbras-310-kaplan-ethnographicnotesstate-2016-7187251ee7
 
 # Ethnographic notes on the state funeral of Lee Kuan Yew: introduction
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

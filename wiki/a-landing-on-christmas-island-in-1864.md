@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-165-gibsonhill-landingchristmasisland-1954-7
 
 # A landing on Christmas Island in 1864
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

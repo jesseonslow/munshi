@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-138-hugheshallett-sketchhistorybrunei-1940-8
 
 # A sketch of the history of Brunei
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

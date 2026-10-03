@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-044-ridley-nestingdracofimbriatus-1905-1747517995
 
 # Sir Cecil Clementi and the Federation of British Borneo
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

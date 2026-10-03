@@ -24,8 +24,8 @@ published: false
 
 # The Trading Environment in the Melaka Straits, c. 1800–1830. Comp. P.H. Kratoska
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

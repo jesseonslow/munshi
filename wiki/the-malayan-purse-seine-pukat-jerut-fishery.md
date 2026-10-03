@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-153-gopinath-malayanpurseseine-1950-700d194c
 
 # The Malayan purse seine (pukat jerut) fishery
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

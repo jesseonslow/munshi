@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-225-eong-ringgit-1974-15d339fbe00b.md
 
 # Ringgit
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

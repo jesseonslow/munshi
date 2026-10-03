@@ -26,8 +26,8 @@ source_path: ../sources/jmbras-251-pfeffer-beardedpigsus-1986-c8cdd150f52f/refer
 
 # The bearded pig in East Kalimantan and Sarawak
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

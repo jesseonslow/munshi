@@ -26,8 +26,8 @@ source_path: ../sources/jmbras-294-gullick-economicrecoveryselangor-2008-d56c9ea
 
 # Economic recovery in the Selangor River valley in the late nineteenth century
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

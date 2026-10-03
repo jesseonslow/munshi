@@ -29,8 +29,8 @@ source_path: ../sources/jmbras-266-solomon-rafflesreviewedsir-1994-7c3b15d5f747/
 
 # ‘Raffles reviewed – Sir Stamford Raffles 175 years later’. An exhibition organized by the National Museum of Singapore commemorating Raffles’ landing at Singapore on the evening of the 28th January 1819
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

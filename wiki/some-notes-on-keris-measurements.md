@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-142-laidlaw-noteskrismeasurements-1947-8d2d3
 
 # Some notes on keris measurements
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

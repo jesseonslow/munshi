@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-268-andaya-bugismakassardiasporas-1995-4a9fdee223
 
 # The Bugis-Makassar diaspora
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

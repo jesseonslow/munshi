@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-122-furtado-lightninginjuriestrees-1935-3f23
 
 # Lightning injuries to trees
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

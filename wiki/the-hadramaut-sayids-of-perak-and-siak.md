@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-079-winstedt-hadramautsaiyidsperak-1918-7859f035a
 
 # The Hadramaut Sayids of Perak and Siak
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

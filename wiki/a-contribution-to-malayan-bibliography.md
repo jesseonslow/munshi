@@ -33,8 +33,8 @@ source_path: ../sources/jsbras-006-dennys-contributionmalayanbibliography-1880-e
 
 # A contribution to Malayan bibliography
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

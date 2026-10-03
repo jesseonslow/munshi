@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-010-errataideasprobable-1882-0374277fd6cf.md
 
 # A popular account of the mammals of Borneo
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

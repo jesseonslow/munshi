@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-083-wilkinson-sungaiujong-1921-5388b8c3d6bc.md
 
 # Sungai Ujong
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

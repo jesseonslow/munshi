@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-153-ramsay-noteskampongofficials-1950-855e0f
 
 # Notes on kampong officials in the Alor Gajah district of Malacca 1932–1935
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

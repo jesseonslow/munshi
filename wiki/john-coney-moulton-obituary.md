@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-097-johnconeymoulton-1926-661b47321e43.md
 
 # John Coney Moulton. Obituary
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

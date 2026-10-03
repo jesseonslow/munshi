@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-105-winstedt-rembaucustomarysayings-1928-cda
 
 # Some Rembau customary sayings
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

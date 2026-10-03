@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-154-marrison-chamsmalacca-1951-30afcad1b693.
 
 # The Chams of Malacca
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

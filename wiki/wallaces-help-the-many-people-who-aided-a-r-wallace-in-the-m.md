@@ -26,8 +26,8 @@ source_path: ../sources/jmbras-314-wyhe-wallaceshelp-2018-f67201d7552d/reference
 
 # Wallace’s help: the many people who aided A. R. Wallace in the Malay archipelago
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

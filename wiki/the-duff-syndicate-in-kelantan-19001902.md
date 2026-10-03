@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-221-robert-duffsyndicatekelantan-1972-9123853991e
 
 # The Duff syndicate in Kelantan, 1900–1902
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

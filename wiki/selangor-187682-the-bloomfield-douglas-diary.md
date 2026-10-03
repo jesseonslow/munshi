@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-048-cameron-descriptionnewspecies-1907-6d33c19f8c
 
 # Selangor, 1876–82: the Bloomfield Douglas diary
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

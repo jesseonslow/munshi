@@ -22,8 +22,8 @@ published: false
 
 # Mercantile Life in Early 19th Century Southeast Asia: The Ross Brothers
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

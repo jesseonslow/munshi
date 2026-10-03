@@ -26,8 +26,8 @@ source_path: ../sources/jmbras-226-ghee-malayanpeasantsmallholders-1974-cb5d8f50
 
 # Malayan peasant smallholders and the Stevenson Restriction Scheme, 1922–28
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

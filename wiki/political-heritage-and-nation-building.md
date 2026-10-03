@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-279-gungwu-politicalheritagenation-2000-140023ff4
 
 # Political heritage and nation building
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-225-andaya-installationfirstsultan-1974-0810e5e90
 
 # The installation of the first Sultan of Selangor in 1766. ,
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

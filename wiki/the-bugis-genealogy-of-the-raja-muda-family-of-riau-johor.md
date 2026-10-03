@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-255-noorduyn-bugisgenealogyraja-1988-31d44c94be0f
 
 # The Bugis genealogy of the Raja Muda family of Riau-Johor
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

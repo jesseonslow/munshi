@@ -26,8 +26,8 @@ source_path: ../sources/jmalayanras-088-overbeck-shaerraksi-1923-ec44161c81c1.md
 
 # Shaer Raksi. . Overbeck
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

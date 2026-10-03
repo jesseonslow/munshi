@@ -24,8 +24,8 @@ published: false
 
 # A personal recollection by Malaysian historian Dr Badriyah Haji Salleh who studied under Professor William R. Roff
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

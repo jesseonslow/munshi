@@ -26,8 +26,8 @@ source_path: ../sources/jmbras-312-hsu-mutedspeechapa-2017-6ae8ce2ec6ed/referenc
 
 # Muted speech, Apa Khabar Orang Kampung , and To Singapore, with Love
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-225-peacock-pillarbasearchitecture-1974-b77affce8
 
 # Pillar base architecture in ancient Kedah
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

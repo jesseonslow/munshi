@@ -27,8 +27,8 @@ source_path: ../sources/jmalayanras-105-bazell-rulescommonmalay-1928-5cc9a23cf04
 
 # The rules for some common Malay games written by students at the Malay College, Kuala Kangsar and communicated by C. Bazell {Headmaster
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

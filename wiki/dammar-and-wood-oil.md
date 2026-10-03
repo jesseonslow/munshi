@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-034-ridley-dammarwoodoil-1900-d8828a672128.md
 
 # Dammar and wood oil
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

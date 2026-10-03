@@ -26,8 +26,8 @@ source_path: ../sources/jmalayanras-161-gibsonhill-notesoldcannon-1953-d4d176252
 
 # Notes on the old cannon found in Malaya, and known to be of Dutch origin
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

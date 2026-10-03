@@ -26,8 +26,8 @@ source_path: ../sources/jmbras-247-riddell-sourcesabdalrafs-1984-f94362192466/bi
 
 # The sources of Abd’ Al-Rauf ‘s Tarjumān Al-Mustafid
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

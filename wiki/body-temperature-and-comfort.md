@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-080-campbell-bodytemperaturecomfort-1919-3dea56e7
 
 # Body temperature and comfort
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-073-blagden-notesmalayhistory-1916-3cc1e2e524f0.m
 
 # Notes on Malay history
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

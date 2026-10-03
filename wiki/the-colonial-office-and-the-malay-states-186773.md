@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-037-hellier-annualreport1901-1902-6224f546ff74.md
 
 # The Colonial Office and the Malay States, 1867–73
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

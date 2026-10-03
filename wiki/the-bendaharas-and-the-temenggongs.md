@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-113-winstedt-bendaharastemenggongs-1932-7772
 
 # The Bendaharas and the Temenggongs
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

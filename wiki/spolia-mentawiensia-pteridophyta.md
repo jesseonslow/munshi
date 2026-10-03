@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-102-holttum-spoliamentawiensiapteridophyta-1
 
 # Spolia mentawiensia: Pteridophyta
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

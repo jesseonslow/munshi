@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-210-gamba-chineseassociationssingapore-1966-9aa6e
 
 # Chinese associations in Singapore
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

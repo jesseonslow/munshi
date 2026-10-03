@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-185-gullick-kualalumpur1884-1959-07f6a92265e
 
 # Kuala Lumpur in 1884?
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

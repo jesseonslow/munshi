@@ -22,8 +22,8 @@ published: false
 
 # The Geology of Malaysia, Southern China’, &c. Facsimile reprint
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

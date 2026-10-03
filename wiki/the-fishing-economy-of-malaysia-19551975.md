@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-251-sivalingam-fishingeconomymalaysia-1986-3b251c
 
 # The fishing economy of Malaysia 1955–1975
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

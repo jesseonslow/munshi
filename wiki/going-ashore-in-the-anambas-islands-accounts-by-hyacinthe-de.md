@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-315-dyer-goingashoreanambas-2018-ff4728bfb71a/ref
 
 # Going ashore in the Anambas Islands: accounts by Hyacinthe de Bougainville and Cyrille Laplace in 1825 and 1831. . Dyer; with an introd. and notes
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

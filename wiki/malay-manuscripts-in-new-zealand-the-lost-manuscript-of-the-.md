@@ -27,8 +27,8 @@ source_path: ../sources/jsbras-075-winstedt-teachingmalayeurope-1917-5f4449982cf
 
 # Malay manuscripts in New Zealand: the ‘lost’ manuscript of the Hikayat Abdullah and other Malay manuscripts of the Thomson collection
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-211-wales-notetakuapavinu-1967-283702cfd260.md
 
 # Grasping the nettle: first successes in the struggle to govern the Chinese in Malaya
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

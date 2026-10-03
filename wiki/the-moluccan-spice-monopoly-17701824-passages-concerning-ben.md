@@ -27,8 +27,8 @@ source_path: ../sources/jsbras-031-skeat-recordsmalaymagic-1898-3648f10444dc.md
 
 # The Moluccan spice monopoly, 1770–1824. Passages concerning Bencoolen written in collaboration with J. Bastin
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

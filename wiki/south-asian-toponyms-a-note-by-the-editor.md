@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-240-southasiantoponyms-1981-431689d5d6d6.md
 
 # South Asian toponyms: a note by the editor
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

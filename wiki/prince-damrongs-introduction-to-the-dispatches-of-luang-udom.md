@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-301-porath-hikayatpatanikingdom-2011-af5e8cc51b79
 
 # Prince Damrong’s introduction to the “Dispatches of Luang Udom Sombat”
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

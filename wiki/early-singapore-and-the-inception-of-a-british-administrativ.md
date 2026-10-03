@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-216-kathirithambywells-earlysingaporeinception-19
 
 # Early Singapore and the inception of a British administrative tradition in the Straits Settlements (1819–32
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

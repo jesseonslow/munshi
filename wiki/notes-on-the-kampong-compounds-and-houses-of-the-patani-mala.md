@@ -24,8 +24,8 @@ published: false
 
 # Notes on the kampong, compounds, and houses of the Patani Malay village of Banggul Ara, in the Mukim of Batu Kurau, Northern Perak
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -26,8 +26,8 @@ source_path: ../sources/jmbras-265-noorduyn-bugisinscriptionudokudok-1993-29bcf8
 
 # The Bugis inscription in the Udo-Udok cemetery in Brunei
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

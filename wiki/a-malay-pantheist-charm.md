@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-086-winstedt-malaypantheistcharm-1922-a58c7bf3b7e
 
 # A Malay pantheist charm
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

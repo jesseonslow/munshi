@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-227-harrisson-palangconceptextended-1975-db460059
 
 # The “ palang” concept extended: Ma Huan, 1433 A.D
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

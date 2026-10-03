@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-173-bryson-destructionuluselangor-1956-c5afd
 
 # The destruction of Ulu Selangor
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

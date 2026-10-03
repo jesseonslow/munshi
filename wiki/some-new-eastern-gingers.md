@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-034-neweasterngingers-1900-d46278ace8d7.md
 
 # Some new eastern gingers
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

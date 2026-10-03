@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-276-dening-changestradingties-1999-5c976f813f95.m
 
 # Changes in the trading ties between China and Malaya, prewar to postwar,
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

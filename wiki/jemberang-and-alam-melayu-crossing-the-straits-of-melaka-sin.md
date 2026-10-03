@@ -26,8 +26,8 @@ source_path: ../sources/jmbras-315-wee-jemberangalammelayu-2018-aba4cda06662/ref
 
 # Jemberang and Alam Melayu: crossing the Straits of Melaka, Singapore and Riau
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

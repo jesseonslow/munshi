@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-296-jeshurun-tunkuabdulrahman-2009-8b678298b078/r
 
 # Eredia’s description of Malaca, Meridional India, and Cathay; .V. Mills
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

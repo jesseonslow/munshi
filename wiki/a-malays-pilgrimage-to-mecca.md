@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-097-majid-malayspilgrimagemecca-1926-2ffdc3b
 
 # A Malay’s pilgrimage to Mecca
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

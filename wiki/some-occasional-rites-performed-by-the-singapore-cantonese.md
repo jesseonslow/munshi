@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-156-topley-occasionalritesperformed-1951-9eb
 
 # Some occasional rites performed by the Singapore Cantonese
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

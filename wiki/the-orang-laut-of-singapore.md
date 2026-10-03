@@ -26,8 +26,8 @@ source_path: ../sources/jsbras-033-skeat-oranglautsingapore-1900-8847439810a4.md
 
 # The Orang Laut of Singapore
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

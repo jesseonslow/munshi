@@ -26,8 +26,8 @@ source_path: ../sources/jmalayanras-156-braddell-twonotesred-1951-8a5733a5b6ea.m
 
 # Two notes: red gold and chiamassie
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

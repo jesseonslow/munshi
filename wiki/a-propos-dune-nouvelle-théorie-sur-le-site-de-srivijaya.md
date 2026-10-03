@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-014-proceedingsannualgeneral-1884-931de3f734ac.md
 
 # A propos d’une nouvelle théorie sur le site de Srivijaya
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

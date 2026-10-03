@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-030-proceedingsannualgeneral-1897-2b1440f49ac2.md
 
 # A vocabulary of the Dusun language of Kimanis
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

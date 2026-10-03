@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-050-winstedt-fathercivet-1908-379a122966d1.md
 
 # Father Civet
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

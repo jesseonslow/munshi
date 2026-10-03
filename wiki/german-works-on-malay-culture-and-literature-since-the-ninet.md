@@ -26,8 +26,8 @@ source_path: ../sources/jmbras-293-graf-germanworksmalay-2007-1ebad0d7cd07/refer
 
 # German works on Malay culture and literature since the nineteenth century
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

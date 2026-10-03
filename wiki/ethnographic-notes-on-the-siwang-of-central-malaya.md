@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-173-needham-ethnographicnotessiwang-1956-c05
 
 # Ethnographic notes on the Siwang of central Malaya
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

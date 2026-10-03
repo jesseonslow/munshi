@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-003-surveyreportuul-1879-9241004c09d5.md
 
 # Survey reports on Ulu Perak
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

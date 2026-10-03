@@ -24,8 +24,8 @@ published: false
 
 # Constructing Colonial Benevolence: Portraits of Persons with Leprosy in British Malaya
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

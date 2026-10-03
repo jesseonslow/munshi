@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-236-shuhaimi-bukitseguntangbuddha-1979-3302ef7e96
 
 # The Bukit Seguntang Buddha: a reconsideration of its date
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

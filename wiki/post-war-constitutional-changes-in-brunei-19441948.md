@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-259-gin-educationsarawakperiod-1990-95dafe839255/
 
 # Post-war constitutional changes in Brunei 1944―1948
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

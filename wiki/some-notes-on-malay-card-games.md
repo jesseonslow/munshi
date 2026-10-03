@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-045-winstedt-notesmalaycard-1906-227472df3db7.md
 
 # Some notes on Malay card games
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

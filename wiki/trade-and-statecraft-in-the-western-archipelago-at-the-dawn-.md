@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-239-hall-tradestatecraftwestern-1981-d24026264658
 
 # Trade and statecraft in the western archipelago at the dawn of the European age
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

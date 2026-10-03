@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-286-rivers-originsabahreappraisal-2004-cfce514ee9
 
 # The origin of ‘Sabah’ and a reappraisal of Overbeck as Maharajah
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-244-wolff-obituaryproffessorjm-1983-ba958a269e3c.
 
 # Obituary: J.M. Echols
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

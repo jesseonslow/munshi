@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-098-overbeck-notewordselaseh-1926-2756fa5408
 
 # Note on the word “selaseh”
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

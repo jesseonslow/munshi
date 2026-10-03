@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-222-jackson-ricecultivationwest-1972-95121e781d62
 
 # Rice cultivation in West Malaysia: relationship between culture history, customary practices and recent developments
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

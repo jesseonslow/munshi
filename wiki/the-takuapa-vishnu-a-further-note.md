@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-213-oconnor-takuapaviunote-1968-15a81b5cafa6.md
 
 # The Takuapa Vishnu: a further note
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

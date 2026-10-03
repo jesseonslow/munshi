@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-270-mckinnon-mediaevaltamilinvolvement-1996-7f687
 
 # Mediaeval Tamil involvement in Northern Sumatra, C11–C14 (The gold and resin trade
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

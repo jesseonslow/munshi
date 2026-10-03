@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-097-linehan-tombstonesmuhammadshah-1926-d874
 
 # Tomb-stones of Mahmud Shah I of Pahang
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

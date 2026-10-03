@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-033-yuk-chinesenamesstreets-1900-957cc1bc687b/ind
 
 # Chinese names of streets in Penang
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

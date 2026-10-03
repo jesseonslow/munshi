@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-065-blagden-notekotakapur-1913-ee8e24f83240.md
 
 # Taiping (Larut): the early history of a mining settlement
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

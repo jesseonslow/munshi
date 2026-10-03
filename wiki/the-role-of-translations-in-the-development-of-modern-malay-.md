@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-292-warnk-roletranslationsdevelopment-2007-cf6fc1
 
 # The role of translations in the development of modern Malay literature
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

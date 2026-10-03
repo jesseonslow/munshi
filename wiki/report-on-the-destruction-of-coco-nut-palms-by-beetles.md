@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-147-gibsonhill-indexpapersvolumes-1948-c354f
 
 # Report on the destruction of coco-nut palms by beetles
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

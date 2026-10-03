@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-144-wurtzburg-notecaptainlight-1948-caf6682b
 
 # A note on Captain Light
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

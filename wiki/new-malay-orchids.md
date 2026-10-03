@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-039-ridley-newmalayorchids-1903-d0cfea9c9fd8.md
 
 # New Malay orchids
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

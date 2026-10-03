@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-140-noone-proposedclassificationmalayan-1941
 
 # A proposed classification of Malayan polished stone implements
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-311-musa-malayanwomenjapanese-2016-2850e8c08e1b/r
 
 # Malayan women during the Japanese occupation
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-083-humphreys-naningrecital-1921-797a6f1d5c31.md
 
 # Annexation in the Malay states: the Jervois papers
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

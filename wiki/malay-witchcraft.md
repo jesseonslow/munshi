@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-jsbras-039-marriott-malaywitchcraft-1903-8b0c8696
 
 # Malay witchcraft
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-169-macgregor-gasparcorreamalacca-1955-0caab
 
 # Gaspar Correa and Malacca
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

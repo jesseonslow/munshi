@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-233-sheppard-gratefulmemorytan-1978-d54d13999373.
 
 # An index to Journals nos. 1 to 50 of the Straits Branch of the Royal Asiatic Society and to Notes and Queries I to IV
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-087-evans-twomalaymethods-1923-671858088e45.
 
 # Two Malay methods of divination
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

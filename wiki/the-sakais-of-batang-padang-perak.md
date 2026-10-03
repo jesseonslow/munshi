@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-041-cerruti-sakaisbatangpadang-1904-870d9e04de2e.
 
 # The Sakais of Batang Padang, Perak
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

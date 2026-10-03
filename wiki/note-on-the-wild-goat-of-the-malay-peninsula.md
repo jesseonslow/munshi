@@ -26,8 +26,8 @@ source_path: ../sources/jsbras-045-ridley-habitstupaia-1906-171324c75592.md
 
 # Note on the wild goat of the Malay Peninsula
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

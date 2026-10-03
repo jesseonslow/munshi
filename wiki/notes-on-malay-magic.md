@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-095-winstedt-notesmalaymagic-1925-84f55586f7
 
 # Notes on Malay magic
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

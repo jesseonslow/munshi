@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-154-williamshunt-notejakunnumbering-1951-05b
 
 # A note on Jakun numbering in Pahang
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

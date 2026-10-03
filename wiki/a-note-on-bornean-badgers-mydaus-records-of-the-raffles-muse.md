@@ -26,8 +26,8 @@ source_path: ../sources/jmalayanras-100-kloss-noteborneanbadgers-1927-a96d49c7df
 
 # A note on Bornean badgers (Mydaus). Records of the Raffles Museum, No. 26
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

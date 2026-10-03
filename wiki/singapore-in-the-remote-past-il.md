@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-045-maxwell-mantragajah-1906-f808e212eda6/appendi
 
 # Singapore in the remote past. Il
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-014-obrien-jelebu-1884-80e9640a194d.md
 
 # Jelebu
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

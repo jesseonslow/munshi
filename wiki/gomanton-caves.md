@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-181-banks-gomantoncaves-1958-e5639749b1fd.md
 
 # Gomanton caves
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

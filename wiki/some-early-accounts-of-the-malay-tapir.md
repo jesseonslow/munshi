@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-052-maxwell-somaearlyaccounts-1909-6c1d46501d6c.m
 
 # Some early accounts of the Malay tapir
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

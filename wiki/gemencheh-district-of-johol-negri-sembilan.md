@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-021-isnard-gemenchehdistrictdu-1890-869b14af6651.
 
 # Gemencheh (District of Johol) Negri Sembilan
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

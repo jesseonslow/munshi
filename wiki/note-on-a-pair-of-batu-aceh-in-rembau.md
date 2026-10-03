@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-268-ali-notepairbatu-1995-44d974c906fb/references
 
 # Note on a pair of batu aceh in Rembau
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

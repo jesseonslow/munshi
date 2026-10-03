@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-231-ii-niahresearchprogram-1977-21b0b21dc372.md
 
 # The Niah research program
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

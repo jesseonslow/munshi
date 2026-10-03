@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-005-everett-tigerborneo-1880-e07216308d39.md
 
 # The tiger in Borneo
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

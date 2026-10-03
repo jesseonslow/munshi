@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-297-kim-peranakanassociationsmalaysia-2009-ca6522
 
 # The Peranakan associations of Malaysian and Singapore: history and current scenario
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

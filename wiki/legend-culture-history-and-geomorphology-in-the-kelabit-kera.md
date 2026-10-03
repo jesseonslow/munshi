@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-217-lebar-legendculturehistory-1970-7680f7d8837a.
 
 # Legend, culture history and geomorphology in the Kelabit-Kerayan Highland of North Central Borneo
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

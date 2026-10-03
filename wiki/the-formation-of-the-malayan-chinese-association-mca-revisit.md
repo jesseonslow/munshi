@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-309-ing-formationmalayanchinese-2015-4471188a55a7
 
 # The formation of the Malayan Chinese Association (MCA) revisited
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

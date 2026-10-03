@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-080-hamilton-hindustanitamilsanskrit-1919-6521043
 
 # Hindustani, Tamil, Sanskrit and other loan words in Malay
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

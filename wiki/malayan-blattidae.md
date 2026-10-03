@@ -33,8 +33,8 @@ source_path: ../sources/jsbras-069-hanitsch-malayanblattid-1915-d4c95b0dffa2/ind
 
 # Malayan Blattidae
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

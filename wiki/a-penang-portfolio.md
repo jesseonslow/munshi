@@ -25,8 +25,8 @@ source_path: ../sources/barnard-a-penang-portfolio-289530ba2c60.md
 
 # A Penang Portfolio
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

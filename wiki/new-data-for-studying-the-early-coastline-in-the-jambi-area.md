@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-246-mckinnon-newdatastudying-1984-7c97de8d4939/bi
 
 # New data for studying the early coastline in the Jambi area
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

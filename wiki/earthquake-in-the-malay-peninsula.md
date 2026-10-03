@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-025-r-earthquakemalaypeninsula-1894-0e64efac6c4e.
 
 # Earthquake in the Malay Peninsula
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

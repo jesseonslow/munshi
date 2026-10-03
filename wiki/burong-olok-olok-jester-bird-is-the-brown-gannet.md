@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-086-hamilton-burongolokolokjesterbird-1922-d88e55
 
 # Burong olok-olok (jester bird) is the brown gannet
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

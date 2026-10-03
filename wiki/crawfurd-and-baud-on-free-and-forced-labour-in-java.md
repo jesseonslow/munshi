@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-173-bastin-crawfurdbaudfree-1956-eefae46ce30
 
 # Crawfurd and Baud on free and forced labour in Java
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-104-keith-descriptionnativeoil-1928-7832e6a6
 
 # Description of a native oil press (chandasan) from North Borneo
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

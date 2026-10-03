@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-293-gullick-shorthistoryulu-2007-5353cf2ddc48/ref
 
 # A short history of Ulu Langat to 1900
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

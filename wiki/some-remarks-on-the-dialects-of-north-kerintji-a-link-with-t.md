@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-226-reijn-remarksdialectsnorth-1974-aabd95ab8562.
 
 # Some remarks on the dialects of north Kerintji: a link with the Mon-Khmer languages
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

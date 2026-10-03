@@ -26,8 +26,8 @@ source_path: ../sources/jmbras-214-appell-socialgroupingsamong-1968-77a341742ffd
 
 # Social groupings among the Rungus, a cognatic society of northern Borneo
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

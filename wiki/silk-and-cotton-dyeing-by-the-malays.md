@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-038-skeat-silkcottondyeing-1902-0ac96bafa0f5.md
 
 # Silk and cotton dyeing by the Malays
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

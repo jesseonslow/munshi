@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-165-clarke-kalatongmuruttreatment-1954-1713a
 
 # Kalatong: the Murut treatment of chronic disease
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

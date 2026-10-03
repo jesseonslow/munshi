@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-024-bott-allegeddiscoverymercury-1891-4f25ac24a88
 
 # The alleged discovery of mercury in Malacca
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

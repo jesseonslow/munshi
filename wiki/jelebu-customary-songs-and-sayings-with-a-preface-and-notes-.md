@@ -27,8 +27,8 @@ source_path: ../sources/jsbras-078-caldecott-jelebucustomarysongs-1918-53f02d571
 
 # Jelebu customary songs and sayings; with a preface and notes, R.O. Winstedt
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

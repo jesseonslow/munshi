@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-230-andaya-examinationsourcesconcerning-1976-d4fc
 
 # An examination of the sources concerning the reign of Sultan Mansur Syah of Trengganu (1741–1795) with special reference to the Tuhfat-al-Nafis
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

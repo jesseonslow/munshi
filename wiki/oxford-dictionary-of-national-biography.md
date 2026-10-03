@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-298-oxforddictionarynational-2010-6578968cbe65.md
 
 # Oxford Dictionary of National Biography
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

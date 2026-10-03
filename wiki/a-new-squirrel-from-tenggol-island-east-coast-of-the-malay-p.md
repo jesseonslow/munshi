@@ -27,8 +27,8 @@ source_path: ../sources/jmalayanras-097-kloss-newsquirreltenggol-1926-185018fd28
 
 # A new squirrel from Tenggol Island, east coast of the Malay Peninsula. Records of the Raffles Museum, No. 23
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

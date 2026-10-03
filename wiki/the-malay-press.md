@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-201-hassan-malaypress-1963-7295c2b66af6.md
 
 # The Malay press
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

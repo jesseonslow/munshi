@@ -26,8 +26,8 @@ source_path: ../sources/jmalayanras-177-wheatley-possiblereferencesmalay-1957-70
 
 # Possible references to the Malay Peninsula in the Annals of the Former Han
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

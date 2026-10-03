@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-092-gammans-statelukutwith-1924-3d5d547538be
 
 # The State of Lukut
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

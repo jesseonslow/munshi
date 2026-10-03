@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-217-hing-foreignersachehnesecourt-1970-1a6e668181
 
 # Foreigners in the Achehnese court, 1760–1819
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

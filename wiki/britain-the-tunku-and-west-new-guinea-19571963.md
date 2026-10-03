@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-298-tarling-britaintunkuwest-2010-7ff56a8c416a/re
 
 # Britain, the Tunku and West New Guinea 1957–1963
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

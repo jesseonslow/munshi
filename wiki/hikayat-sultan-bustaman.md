@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-111-overbeck-hikayatsultanbustamam-1931-3eb7
 
 # Hikayat Sultan Bustaman
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

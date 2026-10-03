@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-022-maxwell-rulingfamilyselangor-1890-4bee1170695
 
 # The ruling family of Selangor
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

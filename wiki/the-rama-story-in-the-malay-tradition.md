@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-240-singaravelu-rmastorymalay-1981-783e3ca410b3.m
 
 # The Rama story in the Malay tradition
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

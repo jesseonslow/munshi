@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-048-richmanpoor-1907-a34fc43a9475.md
 
 # Traditional Islamic schools in Kelantan
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

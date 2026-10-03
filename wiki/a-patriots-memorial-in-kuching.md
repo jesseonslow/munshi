@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-260-sheppard-patriotsmemorialkuching-1991-9838650
 
 # A patriot’s memorial in Kuching
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

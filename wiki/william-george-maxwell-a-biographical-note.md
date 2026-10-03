@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-313-gullick-williamgeorgemaxwell-2017-b02bf03d898
 
 # William George Maxwell: a biographical note
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-229-seljuq-notesorigindevelopment-1976-484d20c36f
 
 # Some notes on the origin and development of naubat
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

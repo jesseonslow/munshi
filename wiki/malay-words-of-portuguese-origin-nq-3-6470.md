@@ -23,8 +23,8 @@ published: false
 
 # Malay words of Portuguese origin. NQ 3: 64―70
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

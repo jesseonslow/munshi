@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-117-bee-kelantanplacenames-1933-8999b2a7eca9
 
 # Some Kelantan place names
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

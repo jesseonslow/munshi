@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-010-proceedingsgeneralmeeting-1882-bb8800ecb136.m
 
 # A history of Johore (1365–1895 A.D.
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

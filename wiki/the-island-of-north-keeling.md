@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-144-gibsonhill-islandnorthkeeling-1948-518d1
 
 # The island of North Keeling
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-031-hare-gamechapjiki-1898-5aa3ab19b56b.md
 
 # The game of chap-ji-ki
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

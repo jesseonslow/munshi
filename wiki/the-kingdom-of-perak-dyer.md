@@ -26,8 +26,8 @@ source_path: ../sources/croix-the-kingdom-of-perak-d1a5cd638b75.md
 
 # The Kingdom of Perak. . Dyer
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

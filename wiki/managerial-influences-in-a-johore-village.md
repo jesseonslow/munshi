@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-177-burridge-managerialinfluencesjohore-1957
 
 # Managerial influences in a Johore village
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

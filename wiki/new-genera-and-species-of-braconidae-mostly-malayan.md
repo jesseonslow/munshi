@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-080-fullaway-newgeneraspecies-1919-6b39929ee0c2.m
 
 # New genera and species of Braconidae, mostly Malayan
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

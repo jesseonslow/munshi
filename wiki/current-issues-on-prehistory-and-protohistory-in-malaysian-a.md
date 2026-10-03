@@ -26,8 +26,8 @@ source_path: ../sources/jmbras-292-chross-hikayathikamatmalay-2007-03f95efe368d/
 
 # Current issues on prehistory and protohistory in Malaysian archaeology,
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

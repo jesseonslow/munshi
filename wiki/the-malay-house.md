@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-108-winstedt-malayhouse-1929-d919df943baf.md
 
 # The Malay house
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

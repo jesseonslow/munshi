@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-169-needham-notemurutkinship-1955-2c1c12a33b
 
 # A note on some North Borneo kinship terminologies
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

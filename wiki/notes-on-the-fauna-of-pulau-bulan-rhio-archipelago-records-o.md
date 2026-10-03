@@ -36,8 +36,8 @@ source_path: ../sources/jmalayanras-090-chasen-notesfaunapulau-1924-9053d0508c98
 
 # Notes on the fauna of Pulau Bulan, Rhio Archipelago. Records of the Raffles Museum, No. 2
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

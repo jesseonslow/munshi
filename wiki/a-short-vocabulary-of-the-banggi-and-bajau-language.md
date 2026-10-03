@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-130-schneeberger-shortvocabularybanggi-1937-
 
 # A short vocabulary of the Banggi and Bajau language
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -27,8 +27,8 @@ source_path: ../sources/kozo-everyday-life-of-the-people-1b1c67a0a94d.md
 
 # The everyday life of the people of the Malay Peninsula [c. 1943]. . Kozic
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

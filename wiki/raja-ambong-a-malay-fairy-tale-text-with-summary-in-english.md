@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-019-maxwell-rajaambongmalay-1887-54b98f84b372.md
 
 # Raja Ambong: a Malay fairy tale. {Text with summary in English
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

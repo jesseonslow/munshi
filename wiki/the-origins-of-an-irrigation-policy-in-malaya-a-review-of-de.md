@@ -28,8 +28,8 @@ source_path: ../sources/jmbras-219-short-originsirrigationpolicy-1971-ce31f76fbd
 
 # The origins of an irrigation policy in Malaya: a review of developments prior to the establishment of the Drainage and Irrigation Department
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

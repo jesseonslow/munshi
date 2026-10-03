@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-045-gomes-anotherseadyaklegend-1906-9c88e6a7ceb5.
 
 # Another Sea-Dayak legend
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

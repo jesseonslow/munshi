@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-211-gill-styledemonicimage-1967-0d3e861ce79f.md
 
 # Style and the demonic image in Dayak masks
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

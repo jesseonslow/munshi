@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-029-skeat-vocabularybesisidialect-1896-c160873c42
 
 # A vocabulary of the Besisi dialect
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

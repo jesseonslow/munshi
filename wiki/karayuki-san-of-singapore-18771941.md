@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-257-warren-karayukisansingapore1877-1989-9ce76d60
 
 # Karayuki-San of Singapore, 1877–1941
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-105-mee-incidenthistorymalacca-1928-22007a63
 
 # An incident in the history of Malacca under Portuguese rule
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

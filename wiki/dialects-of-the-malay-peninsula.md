@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-037-blagden-dialectsmalaypeninsula-1902-ebd9a185c
 
 # Dialects of the Malay Peninsula
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

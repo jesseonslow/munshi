@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-213-ali-patternsruralleadership-1968-137b5605c610
 
 # Patterns of rural leadership in Malaya
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

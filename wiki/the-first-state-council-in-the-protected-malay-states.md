@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-209-chew-firststatecouncil-1966-02b981df2835.md
 
 # The first State Council in the Protected Malay States
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

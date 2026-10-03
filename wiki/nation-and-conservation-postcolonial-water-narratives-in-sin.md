@@ -26,8 +26,8 @@ source_path: ../sources/jmbras-311-kaplan-postcolonialwaternarratives-2016-bb1f9
 
 # Nation and conservation: postcolonial water narratives in Singapore rituals
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

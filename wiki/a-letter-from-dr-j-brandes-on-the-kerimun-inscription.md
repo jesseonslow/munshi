@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-113-brandes-letterdrj-1932-5f36d6c52dbe.md
 
 # A letter from Dr. J. Brandes on the Kerimun inscription
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -26,8 +26,8 @@ source_path: ../sources/jsbras-030-proceedingsannualgeneral-1897-2b1440f49ac2.md
 
 # Malay Sufism as illustrated in an anonymous collection of 17th century tracts
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

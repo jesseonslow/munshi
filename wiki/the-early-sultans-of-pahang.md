@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-113-wilkinson-earlysultanspahang-1932-43895d
 
 # The early Sultans of Pahang
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

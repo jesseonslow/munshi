@@ -26,8 +26,8 @@ source_path: ../sources/jmbras-248-gullick-entrepreneurlate19th-1985-600a4310ec4
 
 # The entrepreneur in late nineteenth century Malay society
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

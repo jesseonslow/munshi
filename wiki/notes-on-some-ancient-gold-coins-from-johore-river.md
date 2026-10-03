@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-117-gardner-notesancientgold-1933-32b10cf43c
 
 # Notes on some ancient gold coins, from Johore River
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

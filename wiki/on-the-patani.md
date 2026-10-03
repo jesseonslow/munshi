@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-011-cameron-patani-1883-d68132737023.md
 
 # On the Patani
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-279-biographicalnotescontributors-2000-112a800749
 
 # Changing labour relations in Malaysia 1970s–1990s
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

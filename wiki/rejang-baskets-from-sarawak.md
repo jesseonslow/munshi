@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-117-swayne-rejangbasketssarawak-1933-f3c5179
 
 # Rejang baskets from Sarawak
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

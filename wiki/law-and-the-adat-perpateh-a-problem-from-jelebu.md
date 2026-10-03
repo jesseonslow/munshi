@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-239-gullick-lawadatperpateh-1981-2f2ebfd3cefd.md
 
 # Law and the adat perpateh: a problem from Jelebu
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

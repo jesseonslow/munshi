@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-216-reid-indonesiandiplomacydocumentary-1969-0315
 
 # Indonesian diplomacy: a documentary study of Atjehnese foreign policy in the reign of Sultan Mahmud, 1870–1874
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

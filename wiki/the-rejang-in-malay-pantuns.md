@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-067-overbeck-rjangmalaypantuns-1914-7d622b0f0cb1.
 
 # The “rejang” in Malay pantuns
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-268-ee-descentidentitydifferent-1995-6ea72ef0ca0a
 
 # On a collection of reptiles from Sarawak
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-228-marrison-earlychamlanguage-1975-e33d2b50fba1.
 
 # The early Cham language, and its relationship to Malay
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

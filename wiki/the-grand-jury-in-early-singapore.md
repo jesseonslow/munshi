@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-224-lee-grandjuryearly-1973-158ebfe1707a/appendix
 
 # The grand jury in early Singapore
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

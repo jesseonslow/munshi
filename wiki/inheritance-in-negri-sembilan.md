@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-145-taylor-inheritancenegrisembilan-1948-7da
 
 # Inheritance in Negri Sembilan
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

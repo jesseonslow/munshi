@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-240-sweeney-obituarychristiaanhooykaas-1981-9c2b7
 
 # Obituary. Christian Hooykaas, 1902–1979
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

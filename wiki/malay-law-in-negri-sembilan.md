@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-022-lister-malaylawnegri-1890-61b3b7f64cba.md
 
 # Malay law in Negri Sembilan
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

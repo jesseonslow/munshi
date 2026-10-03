@@ -24,8 +24,8 @@ published: false
 
 # The rise and fall of the great Melakan empire: moral judgement in Tun Bambang’s Sejarah Melayu
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -26,8 +26,8 @@ source_path: ../sources/jmalayanras-093-blagden-unpublishedvariantversion-1925-f
 
 # An unpublished variant version of the “Malay Annals”
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

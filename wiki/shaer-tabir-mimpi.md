@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-107-overbeck-shaertabirmimpi-1929-b571128406
 
 # Shaer Ta’bir Mimpi
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

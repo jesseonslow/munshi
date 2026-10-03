@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-315-goh-prehistorichumanpresence-2018-918d66b04c9
 
 # Shariaization of Malay-Muslim identity in contemporary Malaysia
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

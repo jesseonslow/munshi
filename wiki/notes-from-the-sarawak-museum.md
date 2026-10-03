@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-033-shelford-notessarawakmuseum-1900-2db43eaee610
 
 # Notes from the Sarawak Museum
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

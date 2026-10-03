@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-044-ridley-nestinglittlegrey-1905-3d42e551deae.md
 
 # Nesting of the little grey woodpecker
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

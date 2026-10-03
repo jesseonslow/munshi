@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-083-blagden-reportmalaystudies-1921-7bd3860b070e.
 
 # Report on Malay studies
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -34,8 +34,8 @@ source_path: ../sources/jsbras-015-swettenham-journalkeptjourney-1885-4027d3115d
 > **Notice of Subsequent Amendments:**
 > * **Corrigenda:** Published in [Corrigenda MB 16(1): 153 Jl 1938](./mbras-016-1.md)
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-317-kotarumalos-ethnicbelongingamong-2019-def9427
 
 # Ethnic belonging among Bugis Malays in Johor, Malaysia: grounding the present in the past
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

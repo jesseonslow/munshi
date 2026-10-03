@@ -22,8 +22,8 @@ published: false
 
 # Iban rites of passage and some related ritual acts. {Reviewed A. Jawan
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

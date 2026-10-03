@@ -22,8 +22,8 @@ published: false
 
 # The berik-berik or baberik. NQ 2: 39
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

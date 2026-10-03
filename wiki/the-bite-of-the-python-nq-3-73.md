@@ -22,8 +22,8 @@ published: false
 
 # The bite of the python. NQ 3: 73
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

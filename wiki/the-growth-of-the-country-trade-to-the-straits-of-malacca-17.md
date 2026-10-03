@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-218-lewis-growthcountrytrade-1970-bd23d72043d6.md
 
 # The growth of the country trade to the Straits of Malacca, 1760–1777
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

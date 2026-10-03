@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-297-nasution-hokkienchinesephuket-2009-30f272f2f1
 
 # Hokkien Chinese on the Phuket mining frontier: the Penang connection and the emergence of the Phuket Baba community
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

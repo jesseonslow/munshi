@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-013-dalrymple-tawaranputatanrivers-1884-86df516b4
 
 # The Tawaran and Putatan rivers, North Borneo
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

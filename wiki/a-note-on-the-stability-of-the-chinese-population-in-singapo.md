@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-181-freedman-notestabilitychinese-1958-a4ab5
 
 # A note on the stability of the Chinese population in Singapore, 1947–1950
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

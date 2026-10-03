@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-285-drabble-technologytransfersingaporemalaya-200
 
 # Technology transfer in Singapore/Malaya during the colonial period: some further comments
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-087-moulton-pierinebutterfliesnew-1923-ec080
 
 # Some Pierine butterflies new to Malaysia
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-233-ilyas-astronomicaldeterminationislamic-1978-0
 
 # Astronomical determination of Islamic times
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

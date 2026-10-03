@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-298-kraal-circumstancessurroundinguntimely-2010-d
 
 # The circumstances surrounding the untimely death of Jan S. Timmerman-Thijssen, governor of Malacca 1818-1823
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

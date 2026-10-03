@@ -34,8 +34,8 @@ source_path: ../sources/jsbras-035-shelford-listreptilesborneo-1901-9d535d6eb793
 > **Notice of Subsequent Amendments:**
 > * **Addenda:** Published in [Addenda et corrigenda. bibliog f SB 38: 132–135 Jl 1902](./jsbras-038.md)
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

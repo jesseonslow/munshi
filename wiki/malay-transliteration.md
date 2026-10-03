@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-010-m-malaytransliteration-1882-387686c25d9b.md
 
 # Malay transliteration
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

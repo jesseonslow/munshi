@@ -27,8 +27,8 @@ source_path: ../sources/jsbras-026-lake-camphortreecamphor-1894-2a53af577439.md
 
 # The camphor tree and the camphor language of Johore
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-161-tweedie-objectstuigold-1953-4bacd6953c88
 
 # Objects from the Tui gold mine, Pahang
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

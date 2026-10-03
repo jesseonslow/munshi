@@ -22,8 +22,8 @@ published: false
 
 # Revisiting the Legal Status of Sabah and Sarawak in Malaysia
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

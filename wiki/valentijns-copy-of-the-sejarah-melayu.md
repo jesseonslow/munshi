@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-138-winstedt-valentijnscopysjarah-1940-d81c7
 
 # Valentijn’s copy of the Sejarah Melayu
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

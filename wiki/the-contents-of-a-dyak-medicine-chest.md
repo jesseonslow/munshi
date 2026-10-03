@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-039-hose-contentsdyakmedicine-1903-e7a3246dbaa1.m
 
 # The contents of a Dyak medicine chest
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -27,8 +27,8 @@ source_path: ../sources/jsbras-023-merewether-outlinehistorydindings-1891-a7361e
 
 # Outline of the history of the Dindings from the 17th century to the present time
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

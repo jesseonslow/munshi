@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-289-rivers-negeriwindmalacca-2005-18d73f311e03/re
 
 # The lost archives of Melaka: are they really lost?
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

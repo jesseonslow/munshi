@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-013-brill-proposedenglishmalaydictionary-1884-b45
 
 # Proposed English–Malay dictionary
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

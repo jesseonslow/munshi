@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-229-harrisson-ngajubajausignificantearly-1976-045
 
 # A new spider of the genus Liphistius
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

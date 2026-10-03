@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-046-ridley-scitamineaeborneo-1906-ea77d0eb3bc2.md
 
 # Scitamineae of Borneo
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

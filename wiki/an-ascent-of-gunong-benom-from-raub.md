@@ -26,8 +26,8 @@ source_path: ../sources/jmalayanras-111-strugnell-ascentgunongbenom-1931-3dc7cff
 
 # An ascent of Gunong Benom from Raub
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

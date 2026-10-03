@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-309-datta-socialmemoryindian-2015-80fb8b6b34de/re
 
 # Social memory and Indian women from Malaya and Singapore in the Rani of Jhansi regiment
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-104-dalton-visitislandseast-1928-3f63474576d
 
 # A visit to some islands off the east coast of Johore and Pahang
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

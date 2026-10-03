@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-007-wheatley-notesrainfallsingapore-1881-6ed65658
 
 # Notes on the rainfall of Singapore
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

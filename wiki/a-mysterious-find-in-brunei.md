@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-131-hugheshallett-mysteriousfindbrunei-1938-
 
 # A mysterious find in Brunei
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

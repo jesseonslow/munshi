@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-017-koek-portuguesehistorymalacca-1886-5f349ed9b1
 
 # Portuguese history of Malacca
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

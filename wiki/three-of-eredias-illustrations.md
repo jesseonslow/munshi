@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-113-mills-threeerediasillustrations-1932-a32
 
 # Three of Eredia’s illustrations
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

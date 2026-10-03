@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-268-kaur-originscocoacultivation-1995-4b9dc3778d4
 
 # The origins of cocoa cultivation in Malaysia
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

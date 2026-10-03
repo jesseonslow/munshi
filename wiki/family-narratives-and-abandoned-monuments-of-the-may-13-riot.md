@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-313-hong-familynarrativesabandoned-2017-9bd3792d1
 
 # Family narratives and abandoned monuments of the May 13 riot in the Sungai Buloh leprosarium
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

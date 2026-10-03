@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-086-ahmad-gravestonesultanmansur-1922-d8634d92fa5
 
 # The grave-stone of Sultan Shah of Malacca
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

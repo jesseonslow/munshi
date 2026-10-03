@@ -28,8 +28,8 @@ source_path: ../sources/jmalayanras-090-chasen-birdschristmasisland-1924-e74a742
 
 # Some birds of Christmas Island (Indian Ocean). F.N. Chasen and C.B. Kloss. Records of the Raffles Museum, No. 4
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

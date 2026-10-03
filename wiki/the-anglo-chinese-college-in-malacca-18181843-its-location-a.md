@@ -26,8 +26,8 @@ source_path: ../sources/jmbras-314-kua-anglochinesecollegemalacca-2018-937384fd0
 
 # The Anglo-Chinese College in Malacca, 1818–1843: its location and facilities
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -26,8 +26,8 @@ source_path: ../sources/jmalayanras-096-maxwell-cameronshighlands-1926-af998030b
 
 # Cameron’s Highlands
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

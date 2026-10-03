@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-117-winstedt-outlinemalayhistory-1933-32ab0f
 
 # Outline of a Malay history of Riau
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

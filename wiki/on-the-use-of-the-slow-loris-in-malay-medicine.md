@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-034-ridley-useslowloris-1900-a05526caa78b.md
 
 # On the use of the slow loris in Malay medicine
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

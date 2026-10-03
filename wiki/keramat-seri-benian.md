@@ -34,8 +34,8 @@ source_path: ../sources/jmalayanras-156-linehan-kramatsribnian-1951-efd7ac4052c3
 > **Notice of Subsequent Amendments:**
 > * **Corrigenda:** Published in [Corrigenda MB 25(1): 200 Ag 1952](./mbras-025-1.md)
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

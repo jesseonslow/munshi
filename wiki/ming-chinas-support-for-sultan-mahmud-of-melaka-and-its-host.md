@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-303-kheng-mingchinassupport-2012-3d27e40f098b/ref
 
 # Ming China’s support for Sultan Mahmud of Melaka and its hostility towards the Portuguese after the fall of Melaka in 1511
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

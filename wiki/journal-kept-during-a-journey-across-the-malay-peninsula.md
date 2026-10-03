@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-015-swettenham-journalkeptjourney-1885-4027d3115d
 
 # Journal kept during a journey across the Malay Peninsula
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

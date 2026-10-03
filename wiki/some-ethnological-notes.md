@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-231-warren-balambanganrisesulu-1977-653d1cea60b8.
 
 # Some ethnological notes
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

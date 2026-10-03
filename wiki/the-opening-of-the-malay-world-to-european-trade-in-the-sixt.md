@@ -26,8 +26,8 @@ source_path: ../sources/jmbras-249-hall-openingmalayworld-1985-12b3cc339d8d/appe
 
 # The opening of the Malay world to European trade in the sixteenth century
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

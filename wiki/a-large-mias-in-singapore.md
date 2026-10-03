@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-154-evans-ancientshellbeads-1951-7d4fdde78e5
 
 # A large mias in Singapore
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

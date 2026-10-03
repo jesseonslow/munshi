@@ -26,8 +26,8 @@ source_path: ../sources/jmbras-221-harrisson-radiocarbonc14dates-1972-a2ddc6b1bd
 
 # Radio carbon (C–14) dates from Kota Batu, Brunei – back to 12,500 B.C
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

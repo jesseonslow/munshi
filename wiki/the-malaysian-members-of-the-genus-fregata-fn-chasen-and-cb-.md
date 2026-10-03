@@ -28,8 +28,8 @@ source_path: ../sources/jmalayanras-090-chasen-malaysianmembersgenus-1924-45998b
 
 # The Malaysian members of the genus Fregata. F.N. Chasen and C.B. Kloss. Records of the Raffles Museum, No. 3
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

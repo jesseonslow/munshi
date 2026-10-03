@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-308-firstdayssyonan-2015-af67f2d3145a.md
 
 # Historical documents relating to the Japanese occupation of Malaya. Comp. P.H. Kratoska
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

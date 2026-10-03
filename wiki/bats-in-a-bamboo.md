@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-050-ridley-batsbamboo-1908-2250cd59c326.md
 
 # Bats in a bamboo
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

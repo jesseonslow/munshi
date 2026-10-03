@@ -26,8 +26,8 @@ source_path: ../sources/jsbras-057-mulder-tworeligiousceremonies-1911-581f7d32c9
 
 # Two religious ceremonies in vogue among the Milanos of Sarawak
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

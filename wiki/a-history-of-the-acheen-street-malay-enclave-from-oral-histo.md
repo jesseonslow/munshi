@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-303-larsen-firstsultansarawak-2012-5d57207295dc/r
 
 # A history of the Acheen Street Malay enclave from oral history accounts
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

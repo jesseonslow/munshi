@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-154-loch-talepakadok-1951-274032df07bc.md
 
 # A tale of Pa’ Kadok
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-156-winstedt-bridgedead-1951-43d54d2b637d.md
 
 # The bridge of the dead
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

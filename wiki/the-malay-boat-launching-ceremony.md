@@ -26,8 +26,8 @@ source_path: ../sources/jmalayanras-154-bakar-malayboatlaunching-1951-b00e32121b
 
 # The Malay boat launching ceremony
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

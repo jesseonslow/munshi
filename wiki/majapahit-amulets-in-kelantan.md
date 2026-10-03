@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-126-rentse-majapahitamuletskelantan-1936-9e3
 
 # Majapahit amulets in Kelantan
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

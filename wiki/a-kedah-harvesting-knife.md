@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-138-baker-kedahharvestingknife-1940-d00fb867
 
 # A Kedah harvesting knife
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

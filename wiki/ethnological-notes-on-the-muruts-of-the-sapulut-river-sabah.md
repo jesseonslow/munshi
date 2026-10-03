@@ -22,8 +22,8 @@ published: false
 
 # Ethnological notes on the Muruts of the Sapulut River, Sabah
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

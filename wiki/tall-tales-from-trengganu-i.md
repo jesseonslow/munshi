@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-259-rees-talltalesterengganu-1990-208ab77a5c4c.md
 
 # Tall tales from Trengganu. I
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

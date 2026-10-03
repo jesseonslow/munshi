@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-229-tweedie-tomharrissonarchaeologist-1976-280865
 
 # Tom Harrisson, archaeologist
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-261-hussainmiya-babaounussaldin-1991-5fb5e1ef2984
 
 # Baba Ounus Saldin: an account of a Malay literary savant of Sri Lanka
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

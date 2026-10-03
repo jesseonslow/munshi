@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-140-symington-notesmalayandipterocarpaceae-1
 
 # Notes on the Malayan Dipterocarpaceae, VI
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

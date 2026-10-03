@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-138-banks-riceplantingcustoms-1940-92bfa5367
 
 # Rice planting customs in the Baram District, Sarawak
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

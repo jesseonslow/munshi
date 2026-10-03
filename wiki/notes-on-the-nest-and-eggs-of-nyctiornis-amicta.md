@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-024-k-notenesteggs-1891-9da796f03b8f.md
 
 # Notes on the nest and eggs of Nyctiornis amicta
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

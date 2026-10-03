@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-126-winstedt-noteshistorykedah-1936-cf149b07
 
 # Notes on the history of Kedah
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

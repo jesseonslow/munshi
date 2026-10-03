@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-280-hooker-owwolters-2001-9cbdd91113b4/references
 
 # O.W. Wolters (8 June 1915–5 December 2000): an obituary and appreciation,
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

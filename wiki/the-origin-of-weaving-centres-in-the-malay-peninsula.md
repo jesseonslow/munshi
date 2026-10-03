@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-268-mohamed-originsweavingcentres-1995-a451fcaf1d
 
 # The origin of weaving centres in the Malay Peninsula
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

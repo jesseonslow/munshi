@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-142-winstedt-kingshipenthronementmalaya-1947
 
 # Keramat see Karamat Kingship and enthronement in Malaya
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

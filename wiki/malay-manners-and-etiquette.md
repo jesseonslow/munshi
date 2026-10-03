@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-153-ahmad-malaymannersetiquette-1950-d955520
 
 # Malay manners and etiquette
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

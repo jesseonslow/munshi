@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-274-boon-importedtechnologyidea-1998-47c9faa5e879
 
 # Imported technology; its idea and development
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -36,8 +36,8 @@ source_path: ../sources/jsbras-042-cameron-descriptionsnewspecies-1905-5c201445a
 > **Notice of Subsequent Amendments:**
 > * **Errata:** Published in [Errata SB 44: 229–230 Jl 1905](./jsbras-044.md)
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

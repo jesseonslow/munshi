@@ -26,8 +26,8 @@ source_path: ../sources/jmbras-318-glew-malaysianizationbarlowboustead-2020-0d96
 
 # Malaysianisation and the Barlow Boustead Estates Agency
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

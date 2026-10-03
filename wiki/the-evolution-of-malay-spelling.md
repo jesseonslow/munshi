@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-036-shellabear-evolutionmalayspelling-1901-dab269
 
 # The evolution of Malay spelling
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

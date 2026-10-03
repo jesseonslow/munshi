@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-208-ahmat-americantradesingapore-1965-de3e71e653a
 
 # American trade with Singapore, 1819–65
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

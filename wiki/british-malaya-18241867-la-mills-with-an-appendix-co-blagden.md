@@ -26,8 +26,8 @@ source_path: ../sources/jmbras-288-wade-zhengvoyagesreassessment-2005-15ac1022d1
 
 # British Malaya, 1824–1867. L.A. Mills. With an appendix C.O. Blagden
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

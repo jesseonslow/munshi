@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-300-rivers-whitherberhalasearch-2011-c264d8a7fc8d
 
 # Whither Berhala?: the search for an idol
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

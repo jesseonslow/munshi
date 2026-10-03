@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-034-ridley-botanicalexcursiongunong-1900-60cdfd15
 
 # A botanical excursion to Gunong Jerai (Kedah Peak
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

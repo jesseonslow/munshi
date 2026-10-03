@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-303-roff-nasehatdistanceauthority-2012-ef08f6e4ff
 
 # Public art, nationalism and national unification in Malaya/Malaysia
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

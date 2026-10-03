@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-277-johnmgullick-listofpublications-1999-2ca892f2
 
 # List of publications. {J.M. Gullick
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

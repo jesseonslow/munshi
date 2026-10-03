@@ -26,8 +26,8 @@ source_path: ../sources/jmbras-256-falconer-bandarbahruphotograph-1989-58e257d69
 
 # The Bandar Bahru group photograph
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

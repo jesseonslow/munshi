@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-205-tarling-princemerchantslion-1964-280cbfbde57b
 
 # The prince of merchants and the Lion city
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-134-noone-penarikanbernamlandroutes-1939-c8c
 
 # The Penarikan and Bernam land-routes
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

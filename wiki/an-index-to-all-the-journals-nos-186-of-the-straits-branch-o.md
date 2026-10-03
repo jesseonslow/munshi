@@ -29,8 +29,8 @@ source_path: ../sources/jsbras-030-luering-vocabularydusunlanguage-1897-e77c2a69
 
 # An index to all the journals (Nos. 1–86) of the Straits Branch of the Royal Asiatic Society from its foundation until its change of title to Malayan Branch of the Royal Asiatic Society. And to Notes and queries I to IV
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

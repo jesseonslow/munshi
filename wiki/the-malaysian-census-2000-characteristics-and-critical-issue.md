@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-290-yaakob-malaysiancensus2000-2006-735fb989ce05/
 
 # The Malaysian census 2000: characteristics and critical issues
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

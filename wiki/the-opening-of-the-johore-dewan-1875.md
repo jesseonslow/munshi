@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-119-abdulaziz-openingjohoredewan-1934-fee1ea
 
 # The opening of the Johore dewan, 1875
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

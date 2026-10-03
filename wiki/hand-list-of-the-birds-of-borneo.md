@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-067-moulton-handlistbirdsborneo-1914-b09941ff21fd
 
 # Hand-list of the birds of Borneo
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

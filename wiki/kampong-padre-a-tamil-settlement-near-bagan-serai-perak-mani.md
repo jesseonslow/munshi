@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-262-daniel-diversityamongindian-1992-fb6a66146da3
 
 # Kampong Padre: a Tamil settlement near Bagan Serai, Perak. . Manikam, .K. Jain
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

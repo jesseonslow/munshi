@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-095-abdullah-leadingsaintsrembau-1925-4df162
 
 # The leading saints in Rembau
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

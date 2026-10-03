@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-095-clarke-incantationsacrificepawang-1925-4
 
 # The incantation and sacrifice of the Pawang Ma’yang
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

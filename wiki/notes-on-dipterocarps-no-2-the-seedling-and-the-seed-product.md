@@ -27,8 +27,8 @@ source_path: ../sources/jsbras-076-burkill-notesdipterocarpsno-1917-2337705c6c38
 
 # Notes on Dipterocarps. {No. 2} The seedling and the seed-production in some species of Shorea
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

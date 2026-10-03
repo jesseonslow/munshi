@@ -22,8 +22,8 @@ published: false
 
 # Birth ceremonies in Perak. NQ 3
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-138-winstedt-malaytitles-1940-6e9fb172f65e.m
 
 # Malay titles
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-111-rentse-twofolktaleskelantan-1931-1637059
 
 # On the transliteration of Malay in the roman character
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

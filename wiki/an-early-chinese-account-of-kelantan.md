@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-161-tweedie-earlychineseaccount-1953-90dc37a
 
 # An early Chinese account of Kelantan
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -26,8 +26,8 @@ source_path: ../sources/jmalayanras-151-hill-munshiabdullahsaccount-1950-c22cebe
 
 # Munshi Abdullah’s account of the Malacca Fort. A.H. Hill
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

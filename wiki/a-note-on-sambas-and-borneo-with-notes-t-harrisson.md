@@ -26,8 +26,8 @@ source_path: ../sources/jsbras-034-c-pulautiumansuperstition-1900-27ea12f4704f.m
 
 # A note on Sambas and Borneo. {With notes T. Harrisson
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

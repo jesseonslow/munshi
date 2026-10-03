@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-039-shelford-swarmbutterfliessarawak-1903-5103788
 
 # A swarm of butterflies in Sarawak
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

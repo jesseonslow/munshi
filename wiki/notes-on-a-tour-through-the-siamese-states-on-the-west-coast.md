@@ -27,8 +27,8 @@ source_path: ../sources/jsbras-036-kynnersley-notestoursiamese-1901-befedd97d0e2
 
 # Notes on a tour through the Siamese states on the west coast of the Malay Peninsula, 1900
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

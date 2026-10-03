@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-209-alfred-annotatedbibliographymalayan-1966-a31c
 
 # An annotated bibliography of Malayan fresh-water fisheries
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

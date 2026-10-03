@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-277-suwwannathatpian-briefmomenttime-1999-93dc137
 
 # A brief moment of time: Kedah-Siam relations revisited
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

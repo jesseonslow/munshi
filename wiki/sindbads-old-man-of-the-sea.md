@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-050-maxwell-sindbadsoldman-1908-0e82cd766f77.md
 
 # Sindbad’s old man of the sea
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -26,8 +26,8 @@ source_path: ../sources/jmbras-318-croix-sevenmonthstin-2020-c0bd9a0e1f26.md
 
 # Seven months in the tin country, Perak (Malacca Peninsula), 1881. . Dyer
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

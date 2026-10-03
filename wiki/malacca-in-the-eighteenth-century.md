@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-012-h-malaccaeighteenthcentury-1883-227fd0db12fc.
 
 # Malacca in the eighteenth century
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

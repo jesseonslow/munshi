@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-050-mexwell-spada-1908-1cc5b1e57d4b.md
 
 # Spada
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-046-laidlaw-pelandoktale-1906-7eb9fa06f63f.md
 
 # A pelandok tale
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

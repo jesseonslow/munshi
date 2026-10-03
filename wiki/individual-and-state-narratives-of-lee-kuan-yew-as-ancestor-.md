@@ -26,8 +26,8 @@ source_path: ../sources/jmbras-310-yee-individualstatenarratives-2016-e4563cd708
 
 # Individual and state narratives of Lee Kuan Yew as ancestor and founding father
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

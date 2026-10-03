@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-046-ridley-curiousnestingplace-1906-5f9f37dd589b.
 
 # Curious nesting place of Simotes octolineatus
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

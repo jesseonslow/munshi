@@ -27,8 +27,8 @@ source_path: ../sources/jsbras-077-winstedt-adventmuhammadanismmalay-1917-e684a5
 
 # Thrones, claims, claimants, rulers and rules: problems of succession in the Malay Sultanates
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

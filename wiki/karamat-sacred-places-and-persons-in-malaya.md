@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-092-winstedt-karamatsacredplaces-1924-279f8b
 
 # Karamat: sacred places and persons in Malaya
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

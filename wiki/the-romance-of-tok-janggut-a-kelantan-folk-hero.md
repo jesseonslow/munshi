@@ -26,8 +26,8 @@ source_path: ../sources/jmbras-277-kheng-romancetokjanggut-1999-8ec8e1be0551/ref
 
 # The romance of Tok Janggut: a Kelantan folk hero
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

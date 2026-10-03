@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-158-hill-kelantangamesentertainments-1952-6c
 
 # Some Kelantan games and entertainments
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

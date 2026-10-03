@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-030-w-bataraguru-1897-962a692d7699.md
 
 # Batara Guru
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

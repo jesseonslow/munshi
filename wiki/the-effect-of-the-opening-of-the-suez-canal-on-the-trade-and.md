@@ -27,8 +27,8 @@ source_path: ../sources/jmalayanras-169-bogaars-effectopeningsuez-1955-aa881e8d0
 
 # The effect of the opening of the Suez Canal on the trade and development of Singapore
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

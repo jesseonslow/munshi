@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-173-bryson-lieuthr-1956-91695528c45f.md
 
 # Pre-Islamic Arabia and South-East Asia
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

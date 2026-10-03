@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-083-kloss-newsquirrelnorth-1921-0984666e4cd2.md
 
 # A new squirrel from North Sarawak
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

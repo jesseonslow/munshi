@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-046-maxwell-kunpayahkun-1906-640e145ba6f5.md
 
 # Kun and payah kun
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

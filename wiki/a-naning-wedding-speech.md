@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-072-humphreys-naningweddingspeech-1916-fc584b34de
 
 # A Naning wedding-speech
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

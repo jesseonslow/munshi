@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-319-kueh-malaybugismanuscripts-2020-0f320c08be8a/
 
 # Malay and Bugis manuscripts and early printed books at the Library of Congress: An Update
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

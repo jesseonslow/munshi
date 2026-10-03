@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-154-hong-chineseceremonieslaunching-1951-9ca
 
 # Chinese ceremonies at the launching of a new boat
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

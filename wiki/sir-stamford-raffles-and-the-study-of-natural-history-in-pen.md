@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-259-hing-rafflesordergolden-1990-d67663d633f3.md
 
 # Sir Stamford Raffles and the study of natural history in Penang, Singapore and Indonesia
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

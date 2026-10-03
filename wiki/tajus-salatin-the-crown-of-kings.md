@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-081-winstedt-tajussalatinthecrown-1920-98b0dfc09b
 
 # Taju’s-salatin. “The crown of kings”
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

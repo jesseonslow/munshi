@@ -27,8 +27,8 @@ published: false
 
 # Country Traders, the East India Company, and the Rise of Singapore: ‘On Further Interference with the East-India Company’s Privileges of Exclusive Trade’. Facsimile reprint. With a note P. Kratoska
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

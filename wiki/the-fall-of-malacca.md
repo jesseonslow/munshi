@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-122-wilkinson-fallmalacca-1935-679d11240eff.
 
 # The fall of Malacca
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

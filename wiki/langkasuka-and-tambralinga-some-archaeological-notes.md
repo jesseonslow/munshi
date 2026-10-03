@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-225-wales-langkasukatambralingaarchaeological-197
 
 # Langkasuka and Tambralinga: some archaeological notes
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

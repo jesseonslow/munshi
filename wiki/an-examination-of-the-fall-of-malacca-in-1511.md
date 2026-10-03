@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-246-mcroberts-examinationfallmelaka-1984-b9bfa8f1
 
 # An examination of the fall of Malacca in 1511
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

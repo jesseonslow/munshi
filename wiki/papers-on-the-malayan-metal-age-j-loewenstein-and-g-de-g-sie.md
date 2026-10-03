@@ -28,8 +28,8 @@ source_path: ../sources/jsbras-077-winstedt-riceceremony-1917-dd574c88c916.md
 
 # Papers on the Malayan metal age. J. Loewenstein and G. de G. Sieveking. Monographs on Malay subjects, No. 3
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

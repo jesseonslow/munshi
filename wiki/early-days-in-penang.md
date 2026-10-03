@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-087-garnier-earlydayspenang-1923-3a312213a2b
 
 # Early days in Penang
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

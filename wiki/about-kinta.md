@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-004-leech-kinta-1879-9d6bb9ee02f7.md
 
 # About Kinta
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

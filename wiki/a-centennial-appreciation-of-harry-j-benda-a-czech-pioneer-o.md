@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-318-petr-centennialappreciationharry-2020-c7768a4
 
 # A centennial appreciation of Harry J. Benda: a Czech pioneer of Southeast Asian studies
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

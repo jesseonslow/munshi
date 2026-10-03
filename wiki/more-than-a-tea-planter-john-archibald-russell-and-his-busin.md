@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-298-tuan-teaplanterjohn-2010-80e5e3ad5a29/referen
 
 # More than a tea planter: John Archibald Russell and his businesses in Malaya, 1899‒1933
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

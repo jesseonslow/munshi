@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-010-proceedingsgeneralmeeting-1882-bb8800ecb136.m
 
 # The prehistory of Malaya
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

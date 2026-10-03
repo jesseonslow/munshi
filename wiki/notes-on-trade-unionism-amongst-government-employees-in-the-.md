@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-217-jackson-notestradeunionism-1970-3520e59437be.
 
 # Notes on trade unionism amongst government employees in the Federation of Malaya, 1948–1957
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

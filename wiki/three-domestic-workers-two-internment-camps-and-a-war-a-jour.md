@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-318-matos-threedomesticworkers-2020-6046c6545c9c.
 
 # Three domestic workers, two internment camps and a war: a journey from Singapore to British India
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

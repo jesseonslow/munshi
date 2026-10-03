@@ -26,8 +26,8 @@ source_path: ../sources/jmbras-259-gin-educationsarawakperiod-1990-95dafe839255/
 
 # Education in Sarawak during the period of colonial administration 1846–1961
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

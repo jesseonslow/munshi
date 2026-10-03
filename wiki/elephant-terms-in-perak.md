@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-100-miller-elephanttermsperak-1927-c69ff4201
 
 # Elephant terms in Perak
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

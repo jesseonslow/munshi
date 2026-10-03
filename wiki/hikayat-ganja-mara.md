@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-103-overbeck-hikayatganjamara-1928-5f9c77ec5
 
 # Hikayat Ganja Mara
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

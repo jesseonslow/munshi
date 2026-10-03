@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-117-wilkinson-srilanangpedigree-1933-d5e1bfe
 
 # The Sri Lanang pedigree
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

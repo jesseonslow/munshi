@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-090-hamilton-chineseloanwordsmalay-1924-3e06
 
 # Chinese loan-words in Malay
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-088-winstedt-threepeninsularcharms-1923-de88
 
 # Three peninsular charms
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

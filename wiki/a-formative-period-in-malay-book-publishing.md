@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-251-proudfoot-formativeperiodmalay-1986-eb7fe703d
 
 # A formative period in Malay book publishing
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

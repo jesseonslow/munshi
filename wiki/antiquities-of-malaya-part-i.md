@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-092-wilkinson-antiquitiesmalayapart-1924-d93
 
 # Antiquities of Malaya. Part I
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

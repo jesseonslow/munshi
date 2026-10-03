@@ -22,8 +22,8 @@ published: false
 
 # Three Skulls from Sabah in the Pitt Rivers Museum
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

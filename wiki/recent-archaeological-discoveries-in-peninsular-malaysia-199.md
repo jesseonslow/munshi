@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-264-taha-recentarchaeologicaldiscoveries-1993-26d
 
 # Recent archaeological discoveries in Peninsular Malaysia (1991–1993
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

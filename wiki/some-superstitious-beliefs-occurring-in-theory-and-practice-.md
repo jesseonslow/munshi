@@ -26,8 +26,8 @@ source_path: ../sources/jsbras-065-gimlette-superstitiousbeliefsoccurring-1913-1
 
 # Some superstitious beliefs occurring in theory and practice of Malay medicine
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

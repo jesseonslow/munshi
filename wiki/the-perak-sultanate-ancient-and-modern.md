@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-059-scrivenor-sketchgeologicalstructure-1911-e7ac
 
 # The Perak Sultanate: ancient and modern
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

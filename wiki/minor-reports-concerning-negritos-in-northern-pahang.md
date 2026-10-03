@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-230-needham-minorreportsconcerning-1976-4b4b4163e
 
 # Minor reports concerning Negritos in Northern Pahang
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

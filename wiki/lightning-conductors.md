@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-044-thomas-lightningconductorsnotes-1905-c3e4a5a8
 
 # Lightning conductors
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

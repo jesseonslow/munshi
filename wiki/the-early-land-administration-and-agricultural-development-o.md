@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-210-tregonning-earlylandadministration-1966-ecfb2
 
 # The early land administration and agricultural development of Penang
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

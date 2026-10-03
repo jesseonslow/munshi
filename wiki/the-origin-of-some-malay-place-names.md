@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-093-ahmad-originmalayplacenames-1925-4890cdc
 
 # The origin of some Malay place-names
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

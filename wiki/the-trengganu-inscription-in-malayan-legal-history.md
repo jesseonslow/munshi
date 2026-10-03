@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-230-hooker-trengganuinscriptionmalayan-1976-4b60f
 
 # The Trengganu inscription in Malayan legal history
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

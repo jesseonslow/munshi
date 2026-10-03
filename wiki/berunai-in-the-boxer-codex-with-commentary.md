@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-055-maxwell-hikayatsrirama-1910-05498bf80ecc.md
 
 # Berunai in the Boxer Codex: with commentary
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -27,8 +27,8 @@ source_path: ../sources/kratoska-keeling-cocos-islands-633e2651d3c0.md
 
 # Keeling Cocos Islands and the Destruction of the German Raider Emden in 1914. Facsimile reprint. With a note P. Kratoska
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

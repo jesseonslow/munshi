@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-175-sieveking-distributionstonebark-1956-4ce
 
 # The distribution of stone bark-cloth beaters in prehistoric times
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

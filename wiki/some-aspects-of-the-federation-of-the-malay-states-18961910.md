@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-212-thio-aspectsfederationmalay-1967-fa1c5a45aac9
 
 # Some aspects of the Federation of the Malay States, 1896–1910
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

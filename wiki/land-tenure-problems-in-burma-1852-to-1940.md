@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-207-hwa-landtenureproblems-1965-c49311a712c1.md
 
 # Land tenure problems in Burma, 1852 to 1940
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

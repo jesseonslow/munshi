@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-022-maxwell-rajahaji-1890-779de5ccaa49.md
 
 # Raja Haji
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -22,8 +22,8 @@ published: false
 
 # Seals of Johor and Pahang in 1819. NQ 4
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

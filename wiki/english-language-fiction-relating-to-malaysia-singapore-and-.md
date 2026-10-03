@@ -26,8 +26,8 @@ source_path: ../sources/jmbras-243-suwannathatpian-kedahsiamesecorrespondence189
 
 # English-language fiction relating to Malaysia, Singapore and Brunei: a check-list
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

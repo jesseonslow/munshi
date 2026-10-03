@@ -28,8 +28,8 @@ source_path: ../sources/jsbras-067-papendrecht-malaypeninsulaeurope-1914-d0b9cc7
 
 # The Malay Peninsula and Europe in the past. H.P.N. Muller Abstracted from the Dutch
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

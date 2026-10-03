@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-018-denison-kuraudistrictprak-1886-03581d786867.m
 
 # The Kurau district, Perak
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

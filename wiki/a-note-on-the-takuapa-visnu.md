@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-211-wales-notetakuapavinu-1967-283702cfd260.md
 
 # A note on the Takuapa Visnu
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

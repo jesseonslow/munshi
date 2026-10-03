@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-221-harrisson-bruneimuseum-1972-2746c9e4c5ba.md
 
 # The Brunei museum
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

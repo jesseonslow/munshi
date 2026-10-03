@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-117-gardner-notestwouncommon-1933-31c858a85c
 
 # Notes on two uncommon varieties of the Malay kris
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

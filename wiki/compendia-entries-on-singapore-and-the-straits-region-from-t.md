@@ -28,8 +28,8 @@ source_path: ../sources/akhtar-malay-perspectives-on-ming-china-d689655ee580/bib
 
 # Compendia Entries on Singapore and the Straits Region from the 16th to the Early 19th Century
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

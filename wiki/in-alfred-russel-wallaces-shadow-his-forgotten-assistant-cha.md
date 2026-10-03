@@ -28,8 +28,8 @@ source_path: ../sources/jmbras-303-rookmaaker-alfredrusselwallaces-2012-5755224c
 
 # In Alfred Russel Wallace’s shadow: his forgotten assistant: Charles Allen (1839–1892)
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-251-alfred-pulaubranijong-1986-bb7bd8bf5f14/refer
 
 # The Pulau Brani Jong
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

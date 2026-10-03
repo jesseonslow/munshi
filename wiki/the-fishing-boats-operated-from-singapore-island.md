@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-153-gibsonhill-fishingboatsoperated-1950-db1
 
 # The fishing boats operated from Singapore Island
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

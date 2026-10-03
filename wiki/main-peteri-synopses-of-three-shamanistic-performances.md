@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-253-laderman-mainpeterisynopses-1987-7225e09bb3f3
 
 # Main peteri: synopses of three shamanistic performances
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

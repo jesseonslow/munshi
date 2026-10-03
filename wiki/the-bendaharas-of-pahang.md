@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-098-linehan-bendaharaspahang-1926-abd51e88b3
 
 # The bendaharas of Pahang
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

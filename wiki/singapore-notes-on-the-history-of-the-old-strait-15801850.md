@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-165-gibsonhill-singaporenoteshistory-1954-90
 
 # Singapore: notes on the history of the old Strait, 1580–1850
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

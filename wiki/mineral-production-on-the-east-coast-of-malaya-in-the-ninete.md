@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-232-dodge-mineralproductioneast-1977-ade18bef792f
 
 # Mineral production on the east coast of Malaya in the nineteenth century
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

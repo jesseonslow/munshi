@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-164-gibsonhill-cambridgeuniversityexpedition
 
 # An old Minangkabau legal digest from Perak
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

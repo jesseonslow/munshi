@@ -27,8 +27,8 @@ source_path: ../sources/jsbras-025-curtis-cataloguefloweringplants-1894-c02cf09d
 
 # A catalogue of the flowering plants and ferns found growing wild in the Island of Penang
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

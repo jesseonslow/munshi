@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-097-willbourn-journeyulurompin-1926-e6f5c65c
 
 # A journey in the Ulu Rompin district, south-east Pahang
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

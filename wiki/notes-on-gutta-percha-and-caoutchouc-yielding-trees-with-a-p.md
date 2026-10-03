@@ -27,8 +27,8 @@ source_path: ../sources/jsbras-003-burbidge-notesguttapercha-1879-a4dad38670e4.m
 
 # Notes on gutta-percha and caoutchouc-yielding trees. {With a post script H.J. Murton
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

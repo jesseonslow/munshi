@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-113-winstedt-earlyrulersperak-1932-83c9e955a
 
 # The early rulers of Perak, Pahang and Acheh
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -30,8 +30,8 @@ source_path: ../sources/jmbras-239-ellen-herveymalaycollection-1981-c8685b138c57
 
 # The Hervey Malay Collection in the Wellcome Institute (with a short biography of D.F.A. Hervey). R.F. Ellen, M.B
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

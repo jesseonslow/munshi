@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-151-gibsonhill-indonesiantradingboats-1950-9
 
 # The Indonesian trading boats reaching Singapore
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

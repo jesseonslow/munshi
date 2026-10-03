@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-197-bagoo-origindevelopmentmalay-1962-da5570
 
 # The origin and development of the Malay States Guides
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-143-pawanchee-unusualkrismajapahit-1947-15e2
 
 # An unusual keris Majapahit
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-045-ridley-expeditionchristmasisland-1906-032c6de
 
 # An expedition to Christmas Island
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

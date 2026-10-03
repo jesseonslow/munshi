@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-208-simmonds-francislightladies-1965-00f68ac00bd6
 
 # Francis Light and the ladies of Thalang
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

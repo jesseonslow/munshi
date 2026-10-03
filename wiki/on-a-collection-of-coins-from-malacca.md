@@ -33,8 +33,8 @@ source_path: ../sources/jsbras-044-hanitsch-secondcollectioncoins-1905-ae8711106
 
 # On a collection of coins from Malacca
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

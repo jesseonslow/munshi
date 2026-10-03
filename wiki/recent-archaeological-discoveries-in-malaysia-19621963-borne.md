@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-206-harrison-recentarchaeologicaldiscoveries-1964
 
 # Recent archaeological discoveries in Malaysia 1962–1963: Borneo,
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

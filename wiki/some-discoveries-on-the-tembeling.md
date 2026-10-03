@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-105-linehan-discoveriestembeling-1928-37eea0
 
 # Some discoveries on the Tembeling
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

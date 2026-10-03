@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-022-maxwell-lawrelatingslavery-1890-dfa2b663df41.
 
 # A note on the Sambas finds
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

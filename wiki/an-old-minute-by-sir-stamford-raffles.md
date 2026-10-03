@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-024-proceedingsannualgeneral-1891-3c39ed28090f.md
 
 # An old minute by Sir Stamford Raffles
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

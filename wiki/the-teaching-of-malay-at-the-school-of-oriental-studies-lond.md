@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-087-blagden-teachingmalayschool-1923-ce56795
 
 # The teaching of Malay at the School of Oriental Studies, London
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-049-maxwell-miscellaneousnotes-1907-c808e6f3eada.
 
 # Miscellaneous notes
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

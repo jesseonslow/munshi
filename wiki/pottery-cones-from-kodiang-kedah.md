@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-173-sieveking-potteryconeskodiang-1956-a4a4b
 
 # Pottery cones from Kodiang, Kedah
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

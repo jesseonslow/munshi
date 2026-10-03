@@ -25,8 +25,8 @@ published: false
 
 # The voyages and adventures of Fernand Mendez Pinto. . Cogan. {Book announcement J. Bastin
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

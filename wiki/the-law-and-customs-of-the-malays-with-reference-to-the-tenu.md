@@ -26,8 +26,8 @@ source_path: ../sources/jsbras-013-maxwell-lawcustomsmalays-1884-5b51ed70b2bd/ap
 
 # The law and customs of the Malays with reference to the tenure of land
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

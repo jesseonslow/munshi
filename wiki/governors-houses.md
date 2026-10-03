@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-274-gullick-governorshouses-1998-c220d1eb8318.md
 
 # Governors’ houses
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-309-drkg-2015-9f83b4a26686.md
 
 # In memoriam: K.G. Tregonning
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

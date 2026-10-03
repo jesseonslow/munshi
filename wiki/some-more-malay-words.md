@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-080-winstedt-malaywords-1919-efc0ae5df9aa.md
 
 # Some more Malay words
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

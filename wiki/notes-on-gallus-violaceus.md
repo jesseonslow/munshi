@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-025-k-notesgallusviolaceus-1894-9c0a3005c9de.md
 
 # Notes on Gallus violaceus
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

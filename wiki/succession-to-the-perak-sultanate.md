@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-245-kim-successionperaksultanate-1983-f76f2f31f4b
 
 # Succession to the Perak Sultanate
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

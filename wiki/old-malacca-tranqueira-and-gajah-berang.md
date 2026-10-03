@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-144-cardon-oldmalaccatranqueira-1948-2e48bff
 
 # Old Malacca: Tranqueira and Gajah Berang
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -26,8 +26,8 @@ source_path: ../sources/jmalayanras-088-scrivenor-geologylangkawiislands-1923-27
 
 # The geology of the Langkawi Islands: with a geological sketch map
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

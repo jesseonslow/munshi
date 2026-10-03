@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-278-inkster-troubletechnologycomments-2000-0e8079
 
 # The trouble with technology: comments on the experience of Singapore under entrepot colonialism
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

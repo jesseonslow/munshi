@@ -27,8 +27,8 @@ source_path: ../sources/jmalayanras-134-middlebrook-ceremonialopeningnew-1939-e4
 
 # Ceremonial opening of a new Chinese temple at Kandang, Malacca, in December, 1938
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

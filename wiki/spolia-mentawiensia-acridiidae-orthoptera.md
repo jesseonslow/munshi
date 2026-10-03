@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-103-winstedt-kedahlaws-1928-2d3d4b33583d/cha
 
 # Spolia mentawiensia. Acridiidae (Orthoptera
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

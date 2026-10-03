@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-209-oconnor-satingphraexpandedchronology-1966-61b
 
 # Satingphra: an expanded chronology
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-264-lim-shophouserafflesiaoutline-1993-6683dd7767
 
 # The “Shophouse Rafflesia”: an outline of its Malaysian pedigree and its subsequent diffusion in Asia
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

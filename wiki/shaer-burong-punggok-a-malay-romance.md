@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-067-overbeck-shaerburongpunggok-1914-858c3a6ea5be
 
 # Shaer Burong Punggok: a Malay romance
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

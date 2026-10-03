@@ -28,8 +28,8 @@ source_path: ../sources/jsbras-039-r-worksakaismessrs-1903-bcb95acc9313.md
 
 # Work on Sakais
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

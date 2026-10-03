@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-223-harrisson-megalithicevidenceseast-1973-9d366a
 
 # Megalithic evidences in East Malaysia, an introductory summary
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

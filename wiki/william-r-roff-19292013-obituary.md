@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-305-laffan-williamrroff-2013-75de5cb94a14.md
 
 # William R. Roff (1929–2013). Obituary
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

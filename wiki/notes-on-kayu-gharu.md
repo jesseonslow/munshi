@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-018-b-noteskayugharu-1886-cf193102c71b.md
 
 # Notes on kayu gharu
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

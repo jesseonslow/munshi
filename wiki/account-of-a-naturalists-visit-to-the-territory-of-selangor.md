@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-003-hornaday-accountnaturalistsvisit-1879-b8815b4
 
 # Account of a naturalist’s visit to the territory of Selangor
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

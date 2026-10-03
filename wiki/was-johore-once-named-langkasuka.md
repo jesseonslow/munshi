@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-087-winstedt-johorenamedlangkasuka-1923-30b8
 
 # Was Johore once named Langkasuka?
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

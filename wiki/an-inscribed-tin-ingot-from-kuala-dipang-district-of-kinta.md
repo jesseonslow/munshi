@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-153-linehan-inscribedtiningotkuala-1950-a219
 
 # An inscribed tin-ingot from Kuala Dipang, district of Kinta
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-261-mcroberts-studygrowtheconomic-1991-4625396fa4
 
 # A study in growth: an economic history of Melaka 1400–1510
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

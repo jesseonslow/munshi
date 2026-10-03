@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-276-soon-temasikinternationalregional-1999-d26398
 
 # Temasik as an international and regional trading post in the thirteenth and fourteenth centuries: a reconstruction based on recent archaeological data
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

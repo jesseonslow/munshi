@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-016-pijnappel-rootsmalaylanguage-1885-5e2bccb725d
 
 # On the roots in the Malay language
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

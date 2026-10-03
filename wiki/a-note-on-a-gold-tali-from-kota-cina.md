@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-238-mckinnon-notegoldtli-1980-b7bb914d363a.md
 
 # A note on a gold ‘tali’ from Kota Cina
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

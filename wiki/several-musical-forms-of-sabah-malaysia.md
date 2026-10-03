@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-229-annualreportmalaysian-1976-f1d4150b8fac.md
 
 # Several musical forms of Sabah, Malaysia
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

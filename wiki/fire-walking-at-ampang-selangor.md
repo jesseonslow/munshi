@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-090-freeman-firewalkingampangselangor-1924-2
 
 # Fire-walking at Ampang, Selangor
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

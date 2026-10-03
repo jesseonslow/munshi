@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-269-tarling-perspectivessoutheastasian-1995-5aefe
 
 # Some perspectives on Southeast Asian historiography
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

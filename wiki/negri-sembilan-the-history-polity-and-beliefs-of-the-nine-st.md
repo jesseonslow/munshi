@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-120-winstedt-negrisembilanhistory-1934-1d940
 
 # Negri Sembilan: the history, polity and beliefs of the nine states
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

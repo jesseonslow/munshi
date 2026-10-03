@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-233-colley-traditionalindianmedicine-1978-36d5719
 
 # Traditional Indian medicine in Malaysia
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

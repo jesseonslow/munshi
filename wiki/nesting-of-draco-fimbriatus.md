@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-044-ridley-waspattackingleafmining-1905-bd300d902
 
 # Nesting of Draco fimbriatus
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

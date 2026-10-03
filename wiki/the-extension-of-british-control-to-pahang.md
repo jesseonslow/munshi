@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-177-thio-extensionbritishcontrol-1957-95da7f
 
 # The extension of British control to Pahang
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

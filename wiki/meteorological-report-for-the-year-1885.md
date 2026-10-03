@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-016-rowell-meteorologicalreportyear-1885-a845e7fd
 
 # Meteorological report for the year 1885
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

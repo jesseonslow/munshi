@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-046-laidlaw-storykherudin-1906-2098d9b6cc1a.md
 
 # The story of Kherudin
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

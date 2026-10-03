@@ -26,8 +26,8 @@ source_path: ../sources/jmbras-317-langdon-journalswilliamscott-2019-a2d9750ba4c
 
 # The journals of William Scott, 1794–1805. Transcribed and annotated M. Langdon
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

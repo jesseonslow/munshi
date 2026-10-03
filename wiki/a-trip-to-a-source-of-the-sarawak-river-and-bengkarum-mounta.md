@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-060-brooks-tripsourcesarawak-1911-a6c62b730f30.md
 
 # A trip to a source of the Sarawak River and Bengkarum Mountains
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-243-metcalf-supernatureetiologiesillness-1982-62a
 
 # Supernatural etiologies of illness in Central Northern Borneo
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

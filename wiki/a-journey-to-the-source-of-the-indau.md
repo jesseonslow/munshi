@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-025-rulesstraitsasiatic-1894-01d9a9c7a185.md
 
 # A journey to the source of the Indau
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-185-lamb-recentarchaeologicalwork-1959-4c83f
 
 # Recent archaeological work in Kedah (1958
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

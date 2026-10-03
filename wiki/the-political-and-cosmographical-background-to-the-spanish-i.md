@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-206-jackhinton-politicalcosmographicalbackground-
 
 # The political and cosmographical background to the Spanish incursion into the Pacific in the sixteenth century
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

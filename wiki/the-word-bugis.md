@@ -26,8 +26,8 @@ source_path: ../sources/jmbras-311-kratoska-wroteyellowsleuth-2016-5d5f9766c32a.
 
 # The word Bugis
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

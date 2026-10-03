@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-181-peacock-recentarchaeologicaldiscoveries-
 
 # Recent archaeological discoveries in Malaya (1957
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

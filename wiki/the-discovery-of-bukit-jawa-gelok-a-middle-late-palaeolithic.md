@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-273-majid-discoverybukitjawa-1997-04c09620156e.md
 
 # The discovery of Bukit Jawa, Gelok, a middle-late Palaeolithic site in Perak, Malaysia
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

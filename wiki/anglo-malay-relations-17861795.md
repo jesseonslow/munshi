@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-208-bassett-anglomalayrelations17861795-1965-5d96
 
 # Anglo-Malay relations, 1786–1795
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

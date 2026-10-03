@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-231-medway-ancientdomesticdogs-1977-a1c5ba19f773/
 
 # The ancient domestic dogs of Malaysia
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

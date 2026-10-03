@@ -27,8 +27,8 @@ source_path: ../sources/jmalayanras-131-hugheshallett-accountberhantuceremony-19
 
 # An account of a berhantu ceremony called “perakong” by the Orang Belait of Brunei
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

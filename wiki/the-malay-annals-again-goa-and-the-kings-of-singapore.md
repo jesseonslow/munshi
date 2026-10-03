@@ -34,8 +34,8 @@ source_path: ../sources/jmalayanras-151-erratamalayannals-1950-a45e11b69682.md
 > **Notice of Subsequent Amendments:**
 > * **Errata:** Published in [Errata MB 23(1): 155 F 1950](./mbras-023-1.md)
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

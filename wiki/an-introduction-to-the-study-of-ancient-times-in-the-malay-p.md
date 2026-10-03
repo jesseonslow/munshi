@@ -35,8 +35,8 @@ source_path: ../sources/jmalayanras-139-braddell-introductionstudyancient-1941-0
 
 # An introduction to the study of ancient times in the Malay Peninsula and the Straits of Malacca
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

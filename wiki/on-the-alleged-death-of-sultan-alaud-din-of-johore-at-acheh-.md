@@ -26,8 +26,8 @@ source_path: ../sources/jmalayanras-173-gibsonhill-allegeddeathsultan-1956-eb9a3
 
 # On the alleged death of Sultan Al’a’ud-din of Johore at Acheh, in 1613
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

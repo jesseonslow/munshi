@@ -22,8 +22,8 @@ published: false
 
 # Rock-pictures in New Guinea. NQ 3: 91–95
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

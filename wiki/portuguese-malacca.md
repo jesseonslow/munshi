@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-012-cataloguebooksc-1883-38e980e1dc7d.md
 
 # Portuguese Malacca
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

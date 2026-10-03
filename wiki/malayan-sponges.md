@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-134-willimott-malayansponges-1939-cf158e3077
 
 # Malayan sponges
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

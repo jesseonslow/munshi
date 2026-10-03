@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-045-kloss-johorepython-1906-c7485b717242.md
 
 # A Johore python
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

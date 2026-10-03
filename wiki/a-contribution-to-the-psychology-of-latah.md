@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-085-galloway-contributionpsychologylatah-1922-fa1
 
 # A contribution to the psychology of “latah”
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

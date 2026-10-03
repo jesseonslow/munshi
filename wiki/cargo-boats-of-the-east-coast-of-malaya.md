@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-149-gibsonhill-cargoboatseast-1949-ca7716c6f
 
 # Cargo boats of the east coast of Malaya
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

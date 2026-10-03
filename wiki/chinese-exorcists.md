@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-288-fernando-lostarchivesmelaka-2005-c22f91329374
 
 # Chinese exorcists
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

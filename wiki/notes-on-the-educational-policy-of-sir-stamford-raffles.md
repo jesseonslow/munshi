@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-117-hough-noteseducationalpolicy-1933-71bc9b
 
 # Notes on the educational policy of Sir Stamford Raffles
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

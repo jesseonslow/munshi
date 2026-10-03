@@ -27,8 +27,8 @@ source_path: ../sources/khoo-borschberg-references-to-singapore-56c6d46cac6e/app
 
 # References to Singapore and its Straits from the 16th to the Early 19th Century
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -34,8 +34,8 @@ source_path: ../sources/jsbras-053-blagden-centralindiapolynesia-1909-ca25a9f8a9
 > **Notice of Subsequent Amendments:**
 > * **Errata:** Published in [Errata SB 54: 158–159 Ja 1910](./jsbras-054.md)
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

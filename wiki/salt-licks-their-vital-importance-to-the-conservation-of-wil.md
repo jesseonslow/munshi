@@ -27,8 +27,8 @@ source_path: ../sources/hubback-salt-licks-b54b67b0a54e.md
 
 # Salt Licks: Their Vital Importance to the Conservation of Wildlife in Malaya. Facsimile reprint
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

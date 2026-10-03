@@ -26,8 +26,8 @@ source_path: ../sources/jmbras-213-allen-elephantmousedeer-1968-0ab78d455347.md
 
 # The elephant and the mousedeer – a new version: Anglo-Kedah relations, 1905–1915
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

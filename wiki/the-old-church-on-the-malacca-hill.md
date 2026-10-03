@@ -34,8 +34,8 @@ source_path: ../sources/jmalayanras-143-cardon-oldchurchmalacca-1947-6c49605d9dd
 > **Notice of Subsequent Amendments:**
 > * **Addenda:** Published in [Addenda & corrigenda MB 20(2): 203 D 1947](./mbras-020-2.md)
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

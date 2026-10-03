@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-256-khin-buddhisttemplesassociations-1989-cc86bf7
 
 # Buddhist temples and associations in Penang
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

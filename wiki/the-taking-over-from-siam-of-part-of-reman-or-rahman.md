@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-054-birch-takingsiampart-1910-d42709a878a1.md
 
 # The taking over from Siam of part of Reman or Rahman
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-076-winstedt-hindustaniloanwordsmalay-1917-394b93
 
 # Hindustani loan-words in Malay
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

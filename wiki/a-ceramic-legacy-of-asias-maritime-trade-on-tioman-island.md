@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-248-martin-ceramiclegacyasias-1985-3651fe96a0d5.m
 
 # A ceramic legacy of Asia’s maritime trade on Tioman Island
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

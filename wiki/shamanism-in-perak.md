@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-012-maxwell-shamanismperak-1883-80e12747a432.md
 
 # Shamanism in Perak
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

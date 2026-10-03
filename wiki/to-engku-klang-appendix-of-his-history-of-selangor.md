@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-120-winstedt-historyselangor-1934-f6c627ce0f
 
 # To’ Engku Klang. {Appendix of his History of Selangor
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

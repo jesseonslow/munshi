@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-018-osullivan-ceremoniesseedtime-1886-8ef51bf063a
 
 # Ceremonies at seedtime
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-019-l-wray-summaryreportpomeloe-1887-bb3deca594d3
 
 # Summary of the report on the pomeloe moth
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

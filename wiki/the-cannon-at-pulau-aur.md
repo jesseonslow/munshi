@@ -26,8 +26,8 @@ source_path: ../sources/jmalayanras-151-luckam-originbatugajah-1950-bb2b9aff5d03
 
 # The cannon at Pulau Aur
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

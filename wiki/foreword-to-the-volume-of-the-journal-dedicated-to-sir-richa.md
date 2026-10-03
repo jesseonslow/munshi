@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-128-hardy-cataloquechurchrecords-1937-7d3187
 
 # Foreword {to the volume of the journal dedicated to Sir Richard Winstedt
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

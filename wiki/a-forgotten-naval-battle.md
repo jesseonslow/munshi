@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-185-tregonning-forgottennavalbattle-1959-5d8
 
 # A forgotten naval battle
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

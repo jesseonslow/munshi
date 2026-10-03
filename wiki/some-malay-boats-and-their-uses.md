@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-097-dalton-malayboatsuses-1926-3e928536f55f.
 
 # Some Malay boats and their uses
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

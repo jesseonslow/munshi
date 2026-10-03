@@ -26,8 +26,8 @@ source_path: ../sources/jmbras-267-barnard-tamanpenghiburanentertainment-1994-5b
 
 # Taman penghiburan: entertainment and the Riau elite in the late 19th century
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

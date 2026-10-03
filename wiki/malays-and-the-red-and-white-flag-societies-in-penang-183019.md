@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-277-musa-malaysredwhite-1999-2cfe36591a70/referen
 
 # Malays and the red and white flag societies in Penang, 1830–1920s
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

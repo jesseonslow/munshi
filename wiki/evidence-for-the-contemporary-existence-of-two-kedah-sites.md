@@ -26,8 +26,8 @@ source_path: ../sources/jmbras-227-treloar-evidencecontemporaryexistence-1975-3a
 
 # Evidence for the contemporary existence of two Kedah sites
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

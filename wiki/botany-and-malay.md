@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-016-botanymalay-1885-4384b302c0c7.md
 
 # Botany and Malay
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

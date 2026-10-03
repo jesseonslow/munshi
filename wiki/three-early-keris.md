@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-062-winstedt-threeearlykris-1912-905c088eeac6.md
 
 # Three early keris
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

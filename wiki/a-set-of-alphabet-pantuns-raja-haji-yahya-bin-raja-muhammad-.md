@@ -26,8 +26,8 @@ source_path: ../sources/jmalayanras-088-winstedt-setalphabetpantuns-1923-2a071b2
 
 # A set of alphabet pantuns. Raja Haji Yahya bin Raja Muhammad ‘Ali
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

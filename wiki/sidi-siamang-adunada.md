@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-294-joseph-agriculturalhistorypeninsular-2008-675
 
 # Sidi, Siamang, Adunada
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

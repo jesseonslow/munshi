@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-032-blagden-namemalayu-1899-a6a6a9bf5db0.md
 
 # The name “Malaya”
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

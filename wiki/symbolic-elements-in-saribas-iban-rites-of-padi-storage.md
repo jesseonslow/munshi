@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-238-sather-symbolicelementssaribas-1980-058aacad8
 
 # Symbolic elements in Saribas Iban rites of padi storage
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

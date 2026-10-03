@@ -25,8 +25,8 @@ source_path: ../sources/alatas-al-al-attas-and-hadrami-arab-migration-638bc3e9a7
 
 # Āl al-'Aṭṭās and Ḥaḍramī Arab Migration to the Malay World
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

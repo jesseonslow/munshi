@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-243-sather-benedictsandin-1982-fbe7e7265e9f.md
 
 # Benedict Sandin, 1918–1982. Obituary
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

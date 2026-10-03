@@ -29,8 +29,8 @@ source_path: ../sources/jmalayanras-153-linehan-inscribedtiningotkuala-1950-a219
 
 # Early Penang and the rise of Singapore: a selection of the manuscript records of the East India Company over the period 1805–32, chosen & edited, with an introduction by C.D. Cowan
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-271-gullick-kualalangatpiracy-1996-9cc04f05514d.m
 
 # The Kuala Langat piracy trial
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

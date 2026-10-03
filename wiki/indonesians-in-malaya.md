@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-173-ramsay-indonesiansmalaya-1956-8efe3a878c
 
 # Indonesians in Malaya
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

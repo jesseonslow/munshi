@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-212-arasaratnam-socialreformreformist-1967-e5584a
 
 # Social reform and reformist pressure groups among Indians of Malaya and Singapore 1930–1955
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

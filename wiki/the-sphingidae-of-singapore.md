@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-022-kelsall-sphingidsingapore-1890-a86755e3b406.m
 
 # The Sphingidae of Singapore
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

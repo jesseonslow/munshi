@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-022-sherborn-bibliographymalayajanuary-1890-81225
 
 # A bibliography of Malaya, from January, 1888 to June, 1890
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

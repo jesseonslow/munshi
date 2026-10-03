@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-221-jones-datingmsmaxwell-1972-2a17d52bcfb1.md
 
 # The dating of Ms Maxwell 93 in the Royal Asiatic Society Library
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

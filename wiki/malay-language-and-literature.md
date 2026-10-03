@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-015-rost-malaylanguageliterature-1885-8412e6c480e
 
 # Malay language and literature
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

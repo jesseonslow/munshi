@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-223-chandran-culturalsignificancepengkalan-1973-9
 
 # The cultural significance of the Pengkalan Kempas megaliths
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

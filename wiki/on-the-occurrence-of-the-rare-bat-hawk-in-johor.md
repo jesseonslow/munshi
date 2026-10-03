@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-025-k-occurrencerarebathawk-1894-f7cbed818239.md
 
 # On the occurrence of the rare bat-hawk in Johor
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

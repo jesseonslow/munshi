@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-291-thong-petalingjayaearly-2006-26963000ad63/ref
 
 # Malayan Membracidae
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

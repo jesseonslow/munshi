@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-268-kaur-originscocoacultivation-1995-4b9dc3778d4
 
 # Selections from the Selangor Journal (1892–1897). .M. Gullick. Reprint 26. A short history of the Society
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

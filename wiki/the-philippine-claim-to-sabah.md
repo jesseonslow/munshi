@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-217-tregonning-philippineclaimsabah-1970-63f79ecc
 
 # The Philippine claim to Sabah
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

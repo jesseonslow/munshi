@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-143-windsor-noteorangliar-1947-a25ed94b6f07.
 
 # Notes on the Orang Laut of Ulu Kepasing, Pahang
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

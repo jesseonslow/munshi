@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-175-burridge-malaycompositionvillage-1956-77
 
 # The Malay composition of a village in Johore
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

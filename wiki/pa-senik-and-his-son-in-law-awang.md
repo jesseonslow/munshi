@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-046-laidlaw-paseniksoninlaw-1906-88d28d55fc07.md
 
 # Pa Senik and his son-in-law Awang
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

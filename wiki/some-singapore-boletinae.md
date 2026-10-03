@@ -26,8 +26,8 @@ source_path: ../sources/jsbras-078-patouillard-singaporeboletinae-1918-6afea3e9e
 
 # Some Singapore Boletinae
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

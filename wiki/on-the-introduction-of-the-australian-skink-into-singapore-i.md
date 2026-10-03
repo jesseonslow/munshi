@@ -27,8 +27,8 @@ source_path: ../sources/jmalayanras-093-chasen-introductionaustralianscink-1925-
 
 # On the introduction of the Australian skink into Singapore Island. Records of the Raffles Museum, No. 12
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -22,8 +22,8 @@ published: false
 
 # Legend of Toh Panglima of Kinta. NQ 3: 81–83
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

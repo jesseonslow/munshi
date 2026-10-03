@@ -22,8 +22,8 @@ published: false
 
 # The Sakai language. NQ 4: 102–103
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

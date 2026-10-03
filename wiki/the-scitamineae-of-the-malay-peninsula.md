@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-032-ridley-scitaminemalaypeninsula-1899-fdbf53540
 
 # The Scitamineae of the Malay Peninsula
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

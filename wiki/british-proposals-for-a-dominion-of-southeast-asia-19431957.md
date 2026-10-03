@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-274-singh-britishproposalsdominion-1998-8d078a787
 
 # British proposals for a dominion of Southeast Asia, 1943–1957
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

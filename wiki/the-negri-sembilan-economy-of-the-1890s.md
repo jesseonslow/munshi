@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-154-gullick-negrisembilaneconomy-1951-d8e17d
 
 # The Negri Sembilan economy of the 1890s
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

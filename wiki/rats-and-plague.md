@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-057-kloss-ratsplague-1911-6e45f26e5a25.md
 
 # Rats and plague
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

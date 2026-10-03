@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-001-mikluchomaclay-dialectsmelanesiantribes-1878-
 
 # Dialects of the Melanesian tribes in the Malay Peninsula
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

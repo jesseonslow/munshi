@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-117-bartley-populationsingapore1819-1933-398
 
 # Population of Singapore in 1819
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

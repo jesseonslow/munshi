@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-100-ahmad-pairwordsmalay-1927-4abafda30e3a.m
 
 # Pair-words in Malay
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

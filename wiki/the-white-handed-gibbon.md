@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-050-kloss-whitehandedgibbon-1908-83bd90809bdd.md
 
 # The white-handed gibbon
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-023-ridley-daychristmasisland-1891-50e1b7f8537a.m
 
 # A day at Christmas Island
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

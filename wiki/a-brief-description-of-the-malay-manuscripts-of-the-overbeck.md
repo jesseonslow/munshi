@@ -24,8 +24,8 @@ published: false
 
 # A brief description of the “Malay” manuscripts of the “Overbeck Collection” at the Museum Pusat, Jakarta
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

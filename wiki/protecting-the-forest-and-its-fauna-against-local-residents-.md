@@ -26,8 +26,8 @@ source_path: ../sources/guerin-protecting-the-forest-and-its-fauna-0d98cafb7b78/
 
 # Protecting the Forest and Its Fauna against Local Residents in British Malaya
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

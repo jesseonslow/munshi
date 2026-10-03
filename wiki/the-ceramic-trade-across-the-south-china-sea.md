@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-284-harrisson-ceramictradeacross-2003-56a73a8075b
 
 # The ceramic trade across the South China Sea
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

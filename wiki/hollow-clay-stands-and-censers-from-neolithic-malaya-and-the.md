@@ -26,8 +26,8 @@ source_path: ../sources/jmalayanras-185-loewenstein-hollowclaystands-1959-8f52ac
 
 # Hollow clay stands and censers from Neolithic Malaya, and their western prototypes
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -26,8 +26,8 @@ source_path: ../sources/jmalayanras-103-winstedt-kedahlaws-1928-2d3d4b33583d/cha
 
 # Notes on the fauna of pitcher-plants from Singapore Island. C. Dover {and others
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

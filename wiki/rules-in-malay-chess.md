@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-077-winstedt-rulesmalaychess-1917-873c40a5e68a.md
 
 # Rules in Malay chess
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

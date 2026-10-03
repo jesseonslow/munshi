@@ -26,8 +26,8 @@ source_path: ../sources/jsbras-034-butler-birdslaruthills-1900-ba366deebdd8.md
 
 # The birds of the Larut Hills
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

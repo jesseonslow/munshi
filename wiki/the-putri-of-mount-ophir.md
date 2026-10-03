@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-154-evans-dusunhousehorns-1951-7ee073ea23c7.
 
 # The Putri of Mount Ophir
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

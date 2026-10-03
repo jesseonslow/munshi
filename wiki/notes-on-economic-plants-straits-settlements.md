@@ -27,8 +27,8 @@ source_path: ../sources/jsbras-018-m-noteseconomicplants-1886-ae859da348bf/appen
 
 # Notes on economic plants, Straits Settlements
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

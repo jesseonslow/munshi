@@ -27,8 +27,8 @@ source_path: ../sources/jmalayanras-090-bodenkloss-formscrinigergularis-1924-fe3
 
 # The forms of Criniger gularis and C. gutturalis. Records of the Raffles Museum, No. 6
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

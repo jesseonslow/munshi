@@ -23,8 +23,8 @@ published: false
 
 # Some old Penang tombstones: a sequel
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

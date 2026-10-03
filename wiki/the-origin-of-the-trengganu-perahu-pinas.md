@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-161-gibsonhill-origintrengganuprahu-1953-b98
 
 # The origin of the Trengganu perahu pinas
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

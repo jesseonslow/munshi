@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-083-bergroth-hemipteraheteropteran-1921-df92e7dd2
 
 # Some Hemiptera from N.W. Borneo
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

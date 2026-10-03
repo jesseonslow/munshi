@@ -38,8 +38,8 @@ source_path: ../sources/urwin-clementi-and-the-colonial-office-f051120d7fd0/refe
 
 Cecil Clementi was Governor of the Straits Settlements and High Commissioner for the Malay States from 1930 to 1934. This article looks at the tensions that arose between Clementi and the Colonial Office over his implementation of a decentralisation policy for the Malay States during this period. It provides important context to existing histories that have reflected the negative narrative of Clementi’s character that emerged amongst his critics and some administrative colleagues during his tenure. These histories have apportioned the greater responsibility to Clementi for creating the strains and eventual breakdowns of relationships with Colonial Office officials, particularly with Philip Cunliffe-Lister, Secretary of State for the Colonies, from 1931 onwards. This article offers a fresh understanding of Clementi’s actions by exploring the key influences on his thinking, and the broader circumstances, both in the United Kingdom and Malaya, affecting his interactions with the Colonial Office.
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

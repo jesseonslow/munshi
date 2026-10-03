@@ -26,8 +26,8 @@ source_path: ../sources/jmbras-215-gibsonhill-datemunshiabdullahs-1969-27a3a430d
 
 # The Hikayat Abdullah. .H. Hill. Chapter II: the founding of Singapore
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

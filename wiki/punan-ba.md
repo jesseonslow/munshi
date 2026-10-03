@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-169-needham-punanba-1955-32281ccc0f80/refere
 
 # Punan Ba
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

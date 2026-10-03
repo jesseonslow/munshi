@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-310-nanlan-wellprepareddeathlee-2016-4d5ecb0c6f6e
 
 # The well-prepared death of Lee Kuan Yew
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

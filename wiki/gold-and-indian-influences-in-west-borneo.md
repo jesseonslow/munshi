@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-150-harrisson-goldindian-1949-57fd3ef19e74/r
 
 # Gold and Indian influences in west Borneo
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

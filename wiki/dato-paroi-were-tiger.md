@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-093-ahmad-datoparoweretiger-1925-992070decea
 
 # Dato’ Paroi, were-tiger
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

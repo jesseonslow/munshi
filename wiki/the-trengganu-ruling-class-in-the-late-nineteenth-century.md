@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-232-robert-trengganurulingclass-1977-20e20716437b
 
 # The Trengganu ruling class in the late nineteenth century
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

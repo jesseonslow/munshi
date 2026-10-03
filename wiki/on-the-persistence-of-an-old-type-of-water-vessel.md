@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-087-evans-persistenceoldtype-1923-5f45a423b4
 
 # On the persistence of an old type of water-vessel
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -27,8 +27,8 @@ source_path: ../sources/jmbras-214-appell-socialgroupingsamong-1968-77a341742ffd
 
 # Chemical analysis of some metal objects from Chandi Bukit Batu Pahat, Kedah: suggested origin and date
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

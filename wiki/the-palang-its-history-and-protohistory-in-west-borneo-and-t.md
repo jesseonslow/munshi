@@ -26,8 +26,8 @@ source_path: ../sources/jmbras-206-harrisson-palanghistoryprotohistory-1964-5d58
 
 # The “palang”: its history and protohistory in West Borneo and the Philippines
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-237-bhar-sandakangunrunning-1980-c4d9017e9783/ref
 
 # Sandakan: gun running village to timber centre, 1870–1979
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

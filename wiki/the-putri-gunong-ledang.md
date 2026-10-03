@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-032-wilkinson-putrigunongledang-1899-b5b4fc5701af
 
 # The Putri Gunong Ledang
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

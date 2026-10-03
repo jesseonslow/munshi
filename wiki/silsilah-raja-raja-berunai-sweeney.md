@@ -34,8 +34,8 @@ source_path: ../sources/jsbras-041-proceedingsannualgeneral-1904-535220a7d83d.md
 > **Notice of Subsequent Amendments:**
 > * **Errata:** Published in [Errata and a short note. MB 42(2): 222–224 D 1969](./mbras-042-2.md)
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

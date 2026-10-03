@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-003-daly-cavessungeibatu-1879-2f919e603240.md
 
 # Caves at Sungei Batu in Selangor
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

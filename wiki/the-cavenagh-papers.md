@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-283-gullick-cavenaghpapers-2002-16ef42e8d56a/refe
 
 # The Cavenagh papers
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

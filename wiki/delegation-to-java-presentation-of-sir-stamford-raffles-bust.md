@@ -27,8 +27,8 @@ source_path: ../sources/jmalayanras-110-delegationjavapresentation-1930-c33c6a39
 
 # Delegation to Java: presentation of Sir Stamford Raffles’ bust to the Royal Batavian Society of Arts and Sciences
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

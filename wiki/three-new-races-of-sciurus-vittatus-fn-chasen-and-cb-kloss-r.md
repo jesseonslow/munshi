@@ -28,8 +28,8 @@ source_path: ../sources/jmalayanras-090-chasen-threenewraces-1924-90235cf2e2e2.m
 
 # Three new races of Sciurus vittatus. F.N. Chasen and C.B. Kloss. Records of the Raffles Museum, No. 1
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

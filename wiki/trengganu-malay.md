@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-013-hervey-valentynsdescriptionmalacca-1884-386bb
 
 # Trengganu Malay
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

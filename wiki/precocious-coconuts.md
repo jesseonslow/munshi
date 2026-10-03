@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-031-stephens-precociouscoconuts-1898-3e36a31b1084
 
 # Precocious coconuts
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

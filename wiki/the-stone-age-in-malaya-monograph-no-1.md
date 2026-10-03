@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-164-gibsonhill-cambridgeuniversityexpedition
 
 # The stone age in Malaya. Monograph No. 1
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

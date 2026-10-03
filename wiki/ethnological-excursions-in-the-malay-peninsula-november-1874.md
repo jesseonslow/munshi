@@ -26,8 +26,8 @@ source_path: ../sources/jsbras-002-mikluhomaclay-ethnologicalexcursionsmalay-187
 
 # Ethnological excursions in the Malay Peninsula: November 1874–October 1875
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

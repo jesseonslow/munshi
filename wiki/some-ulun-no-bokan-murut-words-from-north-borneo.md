@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-126-keith-ulunnobokanmurutwords-1936-171fb3f
 
 # Some ulun-no-bokan (Murut) words from North Borneo
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-077-winstedt-malaynurseryrhymes-1917-47534215541c
 
 # Malay nursery rhymes
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

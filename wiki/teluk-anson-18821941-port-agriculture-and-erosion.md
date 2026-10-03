@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-269-kim-telukanson18821941-1995-a46c52c35134.md
 
 # Teluk Anson, 1882–1941: port, agriculture and erosion
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

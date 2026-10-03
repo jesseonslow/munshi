@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-169-needham-noteethnicclassification-1955-54
 
 # A note on ethnic classification in Borneo
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -22,8 +22,8 @@ published: false
 
 # Letter of the King of Achin to King James I. NQ 3
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

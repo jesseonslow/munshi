@@ -31,8 +31,8 @@ source_path: ../sources/lim-sixteen-naked-indians-1863829b8940/references.md
 
 This paper examines a 1592 encounter between the British merchant galleon, the *Edward Bonaventure*, and a sixteen-man canoe on the coast of the Malay Peninsula. The locals are identified as indigenous Orang Asli of the Semang societal tradition. They were friendly and promised to supply the *Edward* with food. This fresh fruit may have relieved the British sailors of scurvy. On future voyages, the Captain of the *Edward*, James Lancaster, supplied his men with a daily ration of fruit juice, keeping them healthy. The advice to consume fruit then became part of the standard medical canon of the East India Company. The experience of the first voyage to the Far East may have contributed to this insight. However, this early meeting between the British and the Orang Asli has yet to be mentioned in the history books.
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

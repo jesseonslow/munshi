@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-167-winstedt-digestcustomarylaw-1954-95772c2
 
 # The war with Yam Tuan Antah
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

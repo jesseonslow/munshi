@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-212-hodgson-malayconventionalsibnames-1967-1367bf
 
 # Malay conventional sib-names
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

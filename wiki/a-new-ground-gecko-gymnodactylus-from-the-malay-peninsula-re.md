@@ -27,8 +27,8 @@ source_path: ../sources/jmalayanras-093-smith-newgroundgeckogymnodactylus-1925-c
 
 # A new ground-gecko (Gymnodactylus) from the Malay Peninsula. Records of the Raffles Museum, No. 7
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

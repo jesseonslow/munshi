@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-105-majid-malaysuperstitions-1928-0aaf0e1a34
 
 # Some Malay superstitions
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -26,8 +26,8 @@ source_path: ../sources/jsbras-081-blagden-empiremaharajaking-1920-e011ef7e941f.
 
 # The empire of the Maharaja, King of the Mountains and Lord of the Isles
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

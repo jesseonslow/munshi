@@ -25,8 +25,8 @@ source_path: ../sources/jmalayanras-122-wilkinson-oldsingapore-1935-89a4f0e870b6
 
 # Old Singapore
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

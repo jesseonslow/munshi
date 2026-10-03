@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-207-alattas-noteopeningrelations-1965-ad926c11a90
 
 # Note on the opening of relations between China and Malacca, 1403–05
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

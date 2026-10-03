@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-272-wade-melakamingdynasty-1997-bc9ae5755d84/appe
 
 # Melaka in Ming dynasty texts
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

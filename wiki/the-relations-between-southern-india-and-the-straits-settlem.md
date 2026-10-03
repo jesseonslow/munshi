@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-036-osullivan-relationssouthernindia-1901-5515df5
 
 # The relations between Southern India and the Straits Settlements
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,8 +25,8 @@ source_path: ../sources/jsbras-024-bott-thermalspringsselangor-1891-3cd0100dccda
 
 # The thermal springs of Selangor and Malacca
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -28,8 +28,8 @@ source_path: ../sources/jmbras-308-sim-peranakanfamilysingapore-2015-44dbd625a21
 
 # A Peranakan family between Singapore and Shanghai: business-making, networks and identity, 1870s‒1910s
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

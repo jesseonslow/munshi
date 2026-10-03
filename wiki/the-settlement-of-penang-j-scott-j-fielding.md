@@ -26,8 +26,8 @@ source_path: ../sources/jmalayanras-169-fielding-settlementpenangjames-1955-9b42
 
 # The settlement of Penang. J. Scott. .J. Fielding
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

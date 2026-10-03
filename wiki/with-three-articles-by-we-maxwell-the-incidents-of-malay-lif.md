@@ -27,8 +27,8 @@ source_path: ../sources/jmalayanras-180-wilkinson-papersmalaycustoms-1957-309d9f
 
 # With three articles by W.E. Maxwell The incidents of Malay life. {In Papers on Malay customs and beliefs
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

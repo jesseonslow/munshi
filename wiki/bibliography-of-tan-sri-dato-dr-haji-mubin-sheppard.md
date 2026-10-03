@@ -25,8 +25,8 @@ source_path: ../sources/jmbras-269-barlow-bibliographytansri-1995-79cc216706c9.m
 
 # Bibliography of Tan Sri Dato Dr Haji Mubin Sheppard
 
-## Overview
-<!-- Synthesis engine: Insert article overview here -->
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->
