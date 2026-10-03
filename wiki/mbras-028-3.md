@@ -13,7 +13,7 @@ contributors:
 - id: ah-hill
   name: A.H. Hill
 - id: abdullah-bin-abdul-kadir-munshi
-  name: Abdullah bin Abdul Kadir Munshi
+  name: Abdullah bin Abdul Kadir
 parent_hub: journal-of-the-malaysian-branch-of-the-royal-asiatic-society
 status: stub
 published: false
@@ -22,7 +22,7 @@ articles:
   slug: the-hikayat-abdullah-an-annotated-translation-ah-hill
   title: The Hikayat Abdullah; an annotated translation. A.H. Hill
   authors:
-  - Abdullah bin Abdul Kadir Munshi
+  - Abdullah bin Abdul Kadir
   - A.H. Hill
   pages: 1–354
   is_review: false
@@ -34,11 +34,11 @@ articles:
 **Date:** June 1955
 
 ## Table of Contents
-* [The Hikayat Abdullah; an annotated translation. A.H. Hill](./the-hikayat-abdullah-an-annotated-translation-ah-hill.md) — [Abdullah bin Abdul Kadir Munshi](./abdullah-bin-abdul-kadir-munshi.md), [A.H. Hill](./anthony-haydock-hill.md) (pp. 1–354)
+* [The Hikayat Abdullah; an annotated translation. A.H. Hill](./the-hikayat-abdullah-an-annotated-translation-ah-hill.md) — [Abdullah bin Abdul Kadir](./munshi-abdullah.md), [A.H. Hill](./anthony-haydock-hill.md) (pp. 1–354)
 
 ## Contributors
 * [A.H. Hill](./anthony-haydock-hill.md)
-* [Abdullah bin Abdul Kadir Munshi](./abdullah-bin-abdul-kadir-munshi.md)
+* [Abdullah bin Abdul Kadir](./munshi-abdullah.md)
 
 ## References
 <!-- Grounded occurrences and citations -->

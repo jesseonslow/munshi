@@ -13,7 +13,7 @@ contributors:
 - id: ah-hill
   name: A.H. Hill
 - id: abdullah-bin-abdul-kadir-munshi
-  name: Abdullah bin Abdul Kadir Munshi
+  name: Abdullah bin Abdul Kadir
 - id: ca-gibson-hill
   name: C.A. Gibson-Hill
 - id: cc-brown
@@ -70,7 +70,7 @@ articles:
   slug: the-hikayat-abdullah-h-hill-chapter-ii-the-founding-of-singa
   title: 'The Hikayat Abdullah. .H. Hill. Chapter II: the founding of Singapore'
   authors:
-  - Abdullah bin Abdul Kadir Munshi
+  - Abdullah bin Abdul Kadir
   - A.H. Hill
   pages: 85–106
   is_review: false
@@ -101,13 +101,13 @@ articles:
 * [Malay Annals, chapter III. .C. Brown](./malay-annals-chapter-iii-c-brown.md) — [C.C. Brown](./cc-brown.md) (pp. 25–33)
 * [The founder of old Singapore. SB 82: {127} S 1920. Reprinted](./the-founder-of-old-singapore-sb-82-127-s-1920-reprinted.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 42)
 * [Date of the foundation of Singapore](./date-of-the-foundation-of-singapore.md) — [R.B. Raffles](./rb-raffles.md) (pp. 83–84)
-* [The Hikayat Abdullah. .H. Hill. Chapter II: the founding of Singapore](./the-hikayat-abdullah-h-hill-chapter-ii-the-founding-of-singa.md) — [Abdullah bin Abdul Kadir Munshi](./abdullah-bin-abdul-kadir-munshi.md), [A.H. Hill](./anthony-haydock-hill.md) (pp. 85–106)
+* [The Hikayat Abdullah. .H. Hill. Chapter II: the founding of Singapore](./the-hikayat-abdullah-h-hill-chapter-ii-the-founding-of-singa.md) — [Abdullah bin Abdul Kadir](./munshi-abdullah.md), [A.H. Hill](./anthony-haydock-hill.md) (pp. 85–106)
 * [Reprinted](./reprinted.md) — [C.A. Gibson-Hill](./carl-alexander-gibson-hill.md) (pp. 107–111)
 * [The vernacular press in the Straits](./the-vernacular-press-in-the-straits.md) — [E.W. Birch](./ew-birch.md) (pp. 192–195)
 
 ## Contributors
 * [A.H. Hill](./anthony-haydock-hill.md)
-* [Abdullah bin Abdul Kadir Munshi](./abdullah-bin-abdul-kadir-munshi.md)
+* [Abdullah bin Abdul Kadir](./munshi-abdullah.md)
 * [C.A. Gibson-Hill](./carl-alexander-gibson-hill.md)
 * [C.C. Brown](./cc-brown.md)
 * [E.W. Birch](./ew-birch.md)

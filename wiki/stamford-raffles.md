@@ -41,7 +41,7 @@ published: false
 
 ## MBRAS Sources
 
-- Abdullah bin Abdul Kadir Munshi and [A.H. Hill](./anthony-haydock-hill.md) (1955). [The Hikayat Abdullah; an annotated translation. A.H. Hill](./the-hikayat-abdullah-an-annotated-translation-ah-hill.md). *JMBRAS* 28(3): 1–354
+- [Abdullah bin Abdul Kadir](./munshi-abdullah.md) and [A.H. Hill](./anthony-haydock-hill.md) (1955). [The Hikayat Abdullah; an annotated translation. A.H. Hill](./the-hikayat-abdullah-an-annotated-translation-ah-hill.md). *JMBRAS* 28(3): 1–354
 - [J.S. Bastin](./john-bastin.md) (1953). [Sir Stamford Raffles’ and John Crawfurd’s ideas of colonizing the Malay Archipelago](./sir-stamford-raffles-and-john-crawfurds-ideas-of-colonizing-.md). *JMBRAS* 26: 81–85
 - [J.S. Bastin](./john-bastin.md) (1954). [Raffles and British policy in the Indian Archipelago, 1811–1816](./raffles-and-british-policy-in-the-indian-archipelago-1811181.md). *JMBRAS* 27: 84–119
 - [J.S. Bastin](./john-bastin.md) (1981). [The letters of Sir Stamford Raffles to Nathaniel Wallich, 1819–1824. (with notes), . Bastin](./the-letters-of-sir-stamford-raffles-to-nathaniel-wallich-181.md). *JMBRAS* 54(2): 1–73

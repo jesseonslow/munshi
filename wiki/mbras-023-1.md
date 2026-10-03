@@ -13,7 +13,7 @@ contributors:
 - id: ah-hill
   name: A.H. Hill
 - id: abdullah-bin-abdul-kadir-munshi
-  name: Abdullah bin Abdul Kadir Munshi
+  name: Abdullah bin Abdul Kadir
 - id: ca-gibson-hill
   name: C.A. Gibson-Hill
 - id: cd-cowan
@@ -63,7 +63,7 @@ articles:
   slug: munshi-abdullahs-account-of-the-malacca-fort-ah-hill
   title: Munshi Abdullah’s account of the Malacca Fort. A.H. Hill
   authors:
-  - Abdullah bin Abdul Kadir Munshi
+  - Abdullah bin Abdul Kadir
   - A.H. Hill
   pages: 84–99
   is_review: false
@@ -150,7 +150,7 @@ articles:
 * [Notes on ancient times in Malaya. {Part 6](./notes-on-ancient-times-in-malaya-part-1.md) — [R. Braddell](./r-braddell.md)
 * [Lung-yaumen and Tan-Mah-hsi](./lung-yaumen-and-tan-mah-hsi.md) — [R. Braddell](./r-braddell.md) (pp. 37–51)
 * [Governor Bannerman and the Penang tin scheme, 1818–19](./governor-bannerman-and-the-penang-tin-scheme-181819.md) — [C.D. Cowan](./cd-cowan.md) (pp. 52–83)
-* [Munshi Abdullah’s account of the Malacca Fort. A.H. Hill](./munshi-abdullahs-account-of-the-malacca-fort-ah-hill.md) — [Abdullah bin Abdul Kadir Munshi](./abdullah-bin-abdul-kadir-munshi.md), [A.H. Hill](./anthony-haydock-hill.md) (pp. 84–99)
+* [Munshi Abdullah’s account of the Malacca Fort. A.H. Hill](./munshi-abdullahs-account-of-the-malacca-fort-ah-hill.md) — [Abdullah bin Abdul Kadir](./munshi-abdullah.md), [A.H. Hill](./anthony-haydock-hill.md) (pp. 84–99)
 * [A note on early legislation in Penang](./a-note-on-early-legislation-in-penang.md) — [Tan Soo-Chye](./tan-soo-chye.md) (pp. 100–107)
 * [The Indonesian trading boats reaching Singapore](./the-indonesian-trading-boats-reaching-singapore.md) — [C.A. Gibson-Hill](./carl-alexander-gibson-hill.md) (pp. 108–138)
 * [The cannon at Pulau Aur](./the-cannon-at-pulau-aur.md) — [C.A. Gibson-Hill](./carl-alexander-gibson-hill.md), [H.A.L. Luckham](./hal-luckham.md) (pp. 139–142)
@@ -164,7 +164,7 @@ articles:
 
 ## Contributors
 * [A.H. Hill](./anthony-haydock-hill.md)
-* [Abdullah bin Abdul Kadir Munshi](./abdullah-bin-abdul-kadir-munshi.md)
+* [Abdullah bin Abdul Kadir](./munshi-abdullah.md)
 * [C.A. Gibson-Hill](./carl-alexander-gibson-hill.md)
 * [C.D. Cowan](./cd-cowan.md)
 * [H.A.L. Luckham](./hal-luckham.md)

@@ -153,7 +153,7 @@ published: false
 - [Schurhammer](./schurhammer.md) (1934). [The Church of St. Paul, Malacca](./the-church-of-st-paul-malacca.md). *JMBRAS* 12(2): 40–43
 - [D.F.A. Hervey](./dudley-francis-amelius-hervey.md) and [F. Valentijn](./f-valentijn.md) (1890). [Valentyn’s account of Malacca](./valentyns-account-of-malacca.md). *JSBRAS* 22: 225–246
 - [R.J. Wilkinson](./richard-james-wilkinson.md) (1935). [The fall of Malacca](./the-fall-of-malacca.md). *JMBRAS* 13(2): 68–69
-- Abdullah bin Abdul Kadir Munshi and [A.H. Hill](./anthony-haydock-hill.md) (1955). [The Hikayat Abdullah; an annotated translation. A.H. Hill](./the-hikayat-abdullah-an-annotated-translation-ah-hill.md). *JMBRAS* 28(3): 1–354
+- [Abdullah bin Abdul Kadir](./munshi-abdullah.md) and [A.H. Hill](./anthony-haydock-hill.md) (1955). [The Hikayat Abdullah; an annotated translation. A.H. Hill](./the-hikayat-abdullah-an-annotated-translation-ah-hill.md). *JMBRAS* 28(3): 1–354
 - Anon. [Anon. Armenian inscription 1774](./mbras-reprint-15.md). *Reprint* 15
 - [I. Baxter](./i-baxter.md) (1984). [Dutch records from Malacca in the India Office Records](./dutch-records-from-malacca-in-the-india-office-records.md). *JMBRAS* 56(2): 105–134
 - [C.O. Blagden](./co-blagden.md) and [L.A. Mills](./la-mills.md) (1925). [British Malaya, 1824–1867. L.A. Mills. With an appendix C.O. Blagden](./british-malaya-18241867-la-mills-with-an-appendix-co-blagden.md). *JMBRAS* 3(2): 1–338
@@ -186,7 +186,7 @@ published: false
 - [C.A. Gibson-Hill](./carl-alexander-gibson-hill.md) (1956). [The fortification of Bukit China, Malacca](./the-fortification-of-bukit-china-malacca.md). *JMBRAS* 29(3): 156–181
 - [Brian Harrison](./brian-harrison.md) (1985). [Holding the Fort: Melaka Under Two Flags 1795 - 1845](./holding-the-fort-melaka-under-two-flags-1795-1845.md). ** : 160
 - [D.F.A. Hervey](./dudley-francis-amelius-hervey.md) (1882). [Stone from Batu Pahat](./stone-from-batu-pahat.md). *JSBRAS* 9: 168–170
-- Abdullah bin Abdul Kadir Munshi and [A.H. Hill](./anthony-haydock-hill.md) (1950). [Munshi Abdullah’s account of the Malacca Fort. A.H. Hill](./munshi-abdullahs-account-of-the-malacca-fort-ah-hill.md). *JMBRAS* 23: 84–99
+- [Abdullah bin Abdul Kadir](./munshi-abdullah.md) and [A.H. Hill](./anthony-haydock-hill.md) (1950). [Munshi Abdullah’s account of the Malacca Fort. A.H. Hill](./munshi-abdullahs-account-of-the-malacca-fort-ah-hill.md). *JMBRAS* 23: 84–99
 - [S. Jardin](./s-jardin.md) (2025). [The Melaka Fort Gateway: Setting the Record Straight](./the-melaka-fort-gateway-setting-the-record-straight.md). *JMBRAS* 98: 5–22
 
 

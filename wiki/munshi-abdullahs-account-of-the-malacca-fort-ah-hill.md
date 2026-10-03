@@ -6,7 +6,7 @@ canonical_name: Munshi Abdullah’s account of the Malacca Fort. A.H. Hill
 type: article
 article_type: article
 authors:
-- Abdullah bin Abdul Kadir Munshi
+- Abdullah bin Abdul Kadir
 - A.H. Hill
 year: 1950
 journal_code: JMBRAS

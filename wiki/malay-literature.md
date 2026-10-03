@@ -72,7 +72,7 @@ published: false
 
 ### Poetry
 
-- Abdullah bin Abdul Kadir Munshi and [C. Skinner](./cyril-skinner.md) (1972). [Shaer Kampong Gelam Terbakar. . Skinner](./shaer-kampong-gelam-terbakar-skinner.md). *JMBRAS* 45: 21–56
+- [Abdullah bin Abdul Kadir](./munshi-abdullah.md) and [C. Skinner](./cyril-skinner.md) (1972). [Shaer Kampong Gelam Terbakar. . Skinner](./shaer-kampong-gelam-terbakar-skinner.md). *JMBRAS* 45: 21–56
 - [Ahmad](./ahmad.md) and [H. Overbeck](./h-overbeck.md) (1923). [Shaer Raksi. . Overbeck](./shaer-raksi-overbeck.md). *JMBRAS* 1(2): 282–307
 - [L.F. Brakel](./lf-brakel.md) (1979). [Hamza Pansuri: notes on yoga practices, lahir dan zahir, the ‘Taxallos’, punning, a difficult passage in the Kitab al-Muntahi, Hamza’s likely place of birth, and Hamza’s imagery: with appendix](./hamza-pansuri-notes-on-yoga-practices-lahir-dan-zahir-the-ta.md). *JMBRAS* 52: 73–98
 - [O.T. Dussek](./ot-dussek.md) (1928). [Bersandui: verses recited by collectors of honey in Rembau](./bersandui-verses-recited-by-collectors-of-honey-in-rembau.md). *JMBRAS* 6(4): 56–57
@@ -107,7 +107,7 @@ published: false
 
 #### Texts and Translations
 
-- Abdullah bin Abdul Kadir Munshi and [A.H. Hill](./anthony-haydock-hill.md) (1955). [The Hikayat Abdullah; an annotated translation. A.H. Hill](./the-hikayat-abdullah-an-annotated-translation-ah-hill.md). *JMBRAS* 28(3): 1–354
+- [Abdullah bin Abdul Kadir](./munshi-abdullah.md) and [A.H. Hill](./anthony-haydock-hill.md) (1955). [The Hikayat Abdullah; an annotated translation. A.H. Hill](./the-hikayat-abdullah-an-annotated-translation-ah-hill.md). *JMBRAS* 28(3): 1–354
 - [C.O. Blagden](./co-blagden.md) (1929). [Hikayat Maharaja Ali. Romanised C.O. Blagden](./hikayat-maharaja-ali-romanised-co-blagden.md). *JMBRAS* 7(3): 415–436
 - G.F. Hose (ed.). *Hikayat Malik Saif al-Jazan*. SB 58
 - [R.O. Winstedt](./richard-olaf-winstedt.md) (1979). [A History of Johore](./a-history-of-johore.md). ** : 240

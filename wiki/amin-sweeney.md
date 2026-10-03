@@ -7,6 +7,7 @@ aliases:
 - Mohamad Amin Sweeney
 - Patrick Louis Sweeney
 - Sweeney, A.
+- A. Sweeney
 broader: []
 narrower: []
 related: []

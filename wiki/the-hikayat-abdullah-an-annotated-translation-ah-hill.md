@@ -6,7 +6,7 @@ canonical_name: The _Hikayat Abdullah;_ an annotated translation. A.H. Hill
 type: article
 article_type: article
 authors:
-- Abdullah bin Abdul Kadir Munshi
+- Abdullah bin Abdul Kadir
 - A.H. Hill
 year: 1955
 journal_code: JMBRAS

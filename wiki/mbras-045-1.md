@@ -13,7 +13,7 @@ contributors:
 - id: a-sweeney
   name: A. Sweeney
 - id: abdullah-bin-abdul-kadir-munshi
-  name: Abdullah bin Abdul Kadir Munshi
+  name: Abdullah bin Abdul Kadir
 - id: ahmad-bin-mohamed-ibrahim
   name: Ahmad bin Mohamed Ibrahim
 - id: b-harrisson
@@ -55,7 +55,7 @@ articles:
   slug: shaer-kampong-gelam-terbakar-skinner
   title: Shaer Kampong Gelam Terbakar. . Skinner
   authors:
-  - Abdullah bin Abdul Kadir Munshi
+  - Abdullah bin Abdul Kadir
   - C. Skinner
   pages: 21–56
   is_review: false
@@ -135,7 +135,7 @@ articles:
 ## Table of Contents
 * [Singapore in the remote past. Il](./singapore-in-the-remote-past-il.md) — [Hsu Yun-ts'iao](./hsu-yun-tsiao.md) (pp. 1–9)
 * [The advent of Islam to west and north Borneo: an attempted reconstruction of some possible sequences](./the-advent-of-islam-to-west-and-north-borneo-an-attempted-re.md) — [Tom Harrisson](./tom-harrisson.md) (pp. 10–20)
-* [Shaer Kampong Gelam Terbakar. . Skinner](./shaer-kampong-gelam-terbakar-skinner.md) — [Abdullah bin Abdul Kadir Munshi](./abdullah-bin-abdul-kadir-munshi.md), [C. Skinner](./cyril-skinner.md) (pp. 21–56)
+* [Shaer Kampong Gelam Terbakar. . Skinner](./shaer-kampong-gelam-terbakar-skinner.md) — [Abdullah bin Abdul Kadir](./munshi-abdullah.md), [C. Skinner](./cyril-skinner.md) (pp. 21–56)
 * [A study of two early elections in Singapore](./a-study-of-two-early-elections-in-singapore.md) — [Yeo Kim Wah](./yeo-kim-wah.md) (pp. 57–80)
 * [The Duff syndicate in Kelantan, 1900–1902](./the-duff-syndicate-in-kelantan-19001902.md) — [Shaharil Talib (L.R. Robert)](./shaharil-talib-lr-robert.md) (pp. 81–110)
 * [Radio carbon (C–14) dates from Kota Batu, Brunei – back to 12,500 B.C](./radio-carbon-c14-dates-from-kota-batu-brunei-back-to-12500-b.md) — [Tom Harrisson](./tom-harrisson.md) (pp. 111–115)
@@ -148,7 +148,7 @@ articles:
 
 ## Contributors
 * [A. Sweeney](./amin-sweeney.md)
-* [Abdullah bin Abdul Kadir Munshi](./abdullah-bin-abdul-kadir-munshi.md)
+* [Abdullah bin Abdul Kadir](./munshi-abdullah.md)
 * [Ahmad bin Mohamed Ibrahim](./ahmad-bin-mohamed-ibrahim.md)
 * [B. Harrisson](./b-harrisson.md)
 * [C. Skinner](./cyril-skinner.md)

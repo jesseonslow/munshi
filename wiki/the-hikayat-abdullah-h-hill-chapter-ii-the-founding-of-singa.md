@@ -6,7 +6,7 @@ canonical_name: 'The _Hikayat Abdullah._ .H. Hill. Chapter II: the founding of S
 type: article
 article_type: translation
 authors:
-- Abdullah bin Abdul Kadir Munshi
+- Abdullah bin Abdul Kadir
 - A.H. Hill
 year: 1969
 journal_code: JMBRAS

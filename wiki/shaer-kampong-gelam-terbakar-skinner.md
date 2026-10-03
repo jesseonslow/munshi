@@ -6,7 +6,7 @@ canonical_name: _Shaer Kampong Gelam Terbakar._ . Skinner
 type: article
 article_type: article
 authors:
-- Abdullah bin Abdul Kadir Munshi
+- Abdullah bin Abdul Kadir
 - C. Skinner
 year: 1972
 journal_code: JMBRAS

@@ -4,6 +4,7 @@ title: Martin Lister
 canonical_name: Martin Lister
 aliases:
 - Lister, M.
+- M. Lister
 broader: []
 narrower: []
 related: []
