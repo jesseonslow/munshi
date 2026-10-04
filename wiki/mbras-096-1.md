@@ -162,14 +162,13 @@ articles:
   pages: 169–170
   is_review: true
 ---
-
 # JMBRAS Vol. 96, Part 1 (June 2023)
 
 **Series:** Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society  
 **Date:** June 2023
 
 ## Table of Contents
-* [History in the Malaysian Public Sphere](./history-in-the-malaysian-public-sphere.md) — [Danny Wong Tze-ken](./danny-wong-tze-ken.md) (pp. 1–19)
+* [History in the Malaysian Public Sphere](./history-in-the-malaysian-public-sphere.md) — [Danny Wong Tze Ken](./danny-wong-tze-ken.md) (pp. 1–19)
 * [The Timing of Islamization in Southeast Asia: Local Agency, and the Challenge of Analysing Religious Conversion](./the-timing-of-islamization-in-southeast-asia-local-agency-an.md) — [L.A. Mills](./la-mills.md) (pp. 21–49)
 * [James Carnegy and the ‘Country Trade’ in Penang, c.1802–1824](./james-carnegy-and-the-country-trade-in-penang-c18021824.md) — [F. Andrew Smith](./f-andrew-smith.md) (pp. 51–79)
 * [Kung Tian Cheng: From Confucian Scholar in Singapore to Reformer in the Chinese Republic](./kung-tian-cheng-from-confucian-scholar-in-singapore-to-refor.md) — [B. Tan](./b-tan.md) (pp. 81–97)

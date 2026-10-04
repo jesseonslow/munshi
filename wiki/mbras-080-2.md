@@ -130,7 +130,6 @@ articles:
   pages: '104'
   is_review: false
 ---
-
 # JMBRAS Vol. 80, Part 2 (December 2007)
 
 **Series:** Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society  
@@ -138,7 +137,7 @@ articles:
 
 ## Table of Contents
 * [A short history of Ulu Langat to 1900](./a-short-history-of-ulu-langat-to-1900.md) — [J.M. Gullick](./john-michael-gullick.md) (pp. 1–18)
-* [The Petagas war memorial and the creation of a heroic past in Sabah](./the-petagas-war-memorial-and-the-creation-of-a-heroic-past-i.md) — [Danny Wong Tze-ken](./danny-wong-tze-ken.md) (pp. 19–32)
+* [The Petagas war memorial and the creation of a heroic past in Sabah](./the-petagas-war-memorial-and-the-creation-of-a-heroic-past-i.md) — [Danny Wong Tze Ken](./danny-wong-tze-ken.md) (pp. 19–32)
 * [Celates, Rayat-Laut, pirates: the Orang Laut and their decline in history](./celates-rayat-laut-pirates-the-orang-laut-and-their-decline-.md) — [T.P. Barnard](./tp-barnard.md) (pp. 33–49)
 * [German works on Malay culture and literature since the nineteenth century](./german-works-on-malay-culture-and-literature-since-the-ninet.md) — [A. Graf](./a-graf.md) (pp. 51–65)
 * [An analysis of Johore’s finances 1910–1940](./an-analysis-of-johores-finances-19101940.md) — [I. Sugimoto](./i-sugimoto.md) (pp. 67–87)

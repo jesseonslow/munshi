@@ -6,7 +6,7 @@ canonical_name: Donald Stephens and Sabah’s Response to the Singapore Separati
 type: article
 article_type: article
 authors:
-- Danny Wong Tze-ken
+- Danny Wong Tze Ken
 year: 2025
 journal_code: JMBRAS
 volume: 98
@@ -27,8 +27,6 @@ keywords:
 source_doc: wong-donald-stephens-803aec0a272b
 source_path: ../sources/wong-donald-stephens-803aec0a272b/references.md
 ---
-
-
 # Donald Stephens and Sabah’s Response to the Singapore Separation
 
 ## Abstract

@@ -25,7 +25,7 @@ contributors:
 - id: we-maxwell
   name: W.E. Maxwell
 - id: sir-hugh-charles-clifford
-  name: - Sir Hugh Charles Clifford 
+  name: Sir Hugh Charles Clifford 
 parent_hub: journal-of-the-malaysian-branch-of-the-royal-asiatic-society
 status: stub
 published: false

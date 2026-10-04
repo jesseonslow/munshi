@@ -133,7 +133,6 @@ articles:
   pages: 126–129
   is_review: true
 ---
-
 # JMBRAS Vol. 73, Part 1 (June 2000)
 
 **Series:** Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society  
@@ -141,7 +140,7 @@ articles:
 
 ## Table of Contents
 * [Changing labour relations in Malaysia 1970s–1990s](./changing-labour-relations-in-malaysia-1970s1990s.md) — [Amarjit Kaur](./amarjit-kaur.md) (pp. 1–16)
-* [The British North Borneo Branch of the Royal Asiatic Society (1893–1897) and its museum](./the-british-north-borneo-branch-of-the-royal-asiatic-society.md) — [Danny Wong Tze-ken](./danny-wong-tze-ken.md) (pp. 17–27)
+* [The British North Borneo Branch of the Royal Asiatic Society (1893–1897) and its museum](./the-british-north-borneo-branch-of-the-royal-asiatic-society.md) — [Danny Wong Tze Ken](./danny-wong-tze-ken.md) (pp. 17–27)
 * [Sekolah menengah di Singapura 1959–1987](./sekolah-menengah-di-singapura-19591987.md) — [Kamsiah Abdullah](./kamsiah-abdullah.md) (pp. 29–41)
 * [Sultan Abu Bakar’s visit to the Italian king and to the Pope](./sultan-abu-bakars-visit-to-the-italian-king-and-to-the-pope.md) — [L. Bressan](./l-bressan.md), [A. Candilio](./a-candilio.md) (pp. 43–54)
 * [The coming of Islam to Champa](./the-coming-of-islam-to-champa.md) — [R. Nakamura](./r-nakamura.md) (pp. 55–66)

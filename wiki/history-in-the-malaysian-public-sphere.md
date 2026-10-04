@@ -6,7 +6,7 @@ canonical_name: History in the Malaysian Public Sphere
 type: article
 article_type: article
 authors:
-- Danny Wong Tze-ken
+- Danny Wong Tze Ken
 year: 2023
 journal_code: JMBRAS
 volume: 96
@@ -19,7 +19,6 @@ amendments: []
 status: stub
 published: false
 ---
-
 # History in the Malaysian Public Sphere
 
 ## Summary

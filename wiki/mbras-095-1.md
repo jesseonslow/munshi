@@ -159,7 +159,6 @@ articles:
   pages: 134–135
   is_review: true
 ---
-
 # JMBRAS Vol. 95, Part 1 (June 2022)
 
 **Series:** Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society  
@@ -167,7 +166,7 @@ articles:
 
 ## Table of Contents
 * [Compendia Entries on Singapore and the Straits Region from the 16th to the Early 19th Century](./compendia-entries-on-singapore-and-the-straits-region-from-t.md) — [P. Borschberg](./peter-borschberg.md), [B.J.Q. Khoo](./benjamin-j-q-khoo.md) (pp. 1–33)
-* [Three Skulls from Sabah in the Pitt Rivers Museum](./three-skulls-from-sabah-in-the-pitt-rivers-museum.md) — [Danny Wong Tze-ken](./danny-wong-tze-ken.md) (pp. 35–50)
+* [Three Skulls from Sabah in the Pitt Rivers Museum](./three-skulls-from-sabah-in-the-pitt-rivers-museum.md) — [Danny Wong Tze Ken](./danny-wong-tze-ken.md) (pp. 35–50)
 * [Curating Shadows: Malayan Shadow Puppets in Singapore's Asian Civilisations Museum](./curating-shadows-malayan-shadow-puppets-in-singapores-asian-.md) — [I.C. Johnson](./ic-johnson.md), [D. Lim](./d-lim.md) (pp. 51–58)
 * [An Excerpt from Carl Gibson-Hill: Boats, Birds, Photography, and History in LateColonial Malaya. With a note P. Kratoska](./an-excerpt-from-carl-gibson-hill-boats-birds-photography-and.md) — [B. Luyt](./brendan-luyt.md) (pp. 89–94)
 * [Dato Haji Mubin Sheppard. With a note P. Kratoska](./dato-haji-mubin-sheppard-with-a-note-p-kratoska.md) — [P.H. Kratoska](./paul-h-kratoska.md), [Mubin Sheppard](./mubin-sheppard.md) (pp. 95–103)

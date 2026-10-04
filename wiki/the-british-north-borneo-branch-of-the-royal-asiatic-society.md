@@ -8,7 +8,7 @@ canonical_name: The British North Borneo Branch of the Royal Asiatic Society (18
 type: article
 article_type: article
 authors:
-- Danny Wong Tze-ken
+- Danny Wong Tze Ken
 year: 2000
 journal_code: JMBRAS
 volume: 73
@@ -23,8 +23,6 @@ published: false
 source_doc: jmbras-278-tzeken-britishnorthborneo-2000-8929170fe28f
 source_path: ../sources/jmbras-278-tzeken-britishnorthborneo-2000-8929170fe28f/appendix.md
 ---
-
-
 # The British North Borneo Branch of the Royal Asiatic Society (1893–1897) and its museum
 
 ## Summary

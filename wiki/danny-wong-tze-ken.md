@@ -7,6 +7,7 @@ aliases:
 - D. Wong Tze Ken
 - Wong Tze Ken, D.
 - Prof. Danny Wong
+- Danny Wong Tze-ken
 type: person
 is_contributor: true
 status: stub
