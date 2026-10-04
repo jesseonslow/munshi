@@ -6,7 +6,7 @@ title: 'Raja Bilah and the Mandailing in Perak: 1875 - 1911'
 canonical_name: 'Raja Bilah and the Mandailing in Perak: 1875 - 1911'
 type: monograph
 authors:
-- Abdur-Razzad Lubis
+- Abdur-Razzaq Lubis
 - Khoo Salma Nasution
 editors: []
 year: 2003
@@ -16,7 +16,6 @@ out_of_print: true
 status: stub
 published: false
 ---
-
 # Raja Bilah and the Mandailing in Perak: 1875 - 1911
 
 **SKU:** M35 | **Year:** 2003 | **Pages:** 278
