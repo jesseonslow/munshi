@@ -1,8 +1,8 @@
 ---
 id: allen-maclean-skinner-in-memoriam
 work_id: jsbras-36-1-p139
-title: 'Allen Maclean Skinner: In memoriam'
-canonical_name: 'Allen Maclean Skinner: In memoriam'
+title: 'In Memoriam. Allan Maclean Skinner, C. M. G.'
+canonical_name: 'In Memoriam. Allan Maclean Skinner, C. M. G.'
 type: article
 article_type: obituary
 authors:
@@ -20,7 +20,7 @@ status: stub
 published: false
 ---
 
-# Allen Maclean Skinner: In memoriam
+# In Memoriam. Allan Maclean Skinner, C. M. G.
 
 ## Summary
 <!-- Summarizer: Insert publication smmary here -->

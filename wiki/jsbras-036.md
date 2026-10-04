@@ -72,7 +72,7 @@ articles:
   is_review: false
 - id: jsbras-36-1-p139
   slug: allen-maclean-skinner-in-memoriam
-  title: 'Allen Maclean Skinner: In memoriam'
+  title: 'In Memoriam. Allan Maclean Skinner, C. M. G.'
   authors:
   - C.W.S. Kynnersley
   pages: 139–140
@@ -91,7 +91,7 @@ articles:
 * [The evolution of Malay spelling](./the-evolution-of-malay-spelling.md) — [W.G. Shellabear](./william-girdlestone-shellabear.md) (pp. 75–135)
 * [On the occurrence of Mus surifer, G.S. Miller, in Perak](./on-the-occurrence-of-mus-surifer-gs-miller-in-perak.md) — [A.L. Butler](./al-butler.md) (pp. 137)
 * [Rambong beetle](./rambong-beetle.md) — [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 138–139)
-* [Allen Maclean Skinner: In memoriam](./allen-maclean-skinner-in-memoriam.md) — [C.W.S. Kynnersley](./cws-kynnersley.md) (pp. 139–140)
+* [In Memoriam. Allan Maclean Skinner, C. M. G.](./allen-maclean-skinner-in-memoriam.md) — [C.W.S. Kynnersley](./cws-kynnersley.md) (pp. 139–140)
 
 ## Contributors
 * [A.L. Butler](./al-butler.md)
