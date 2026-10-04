@@ -18,8 +18,8 @@ contributors:
   name: Drabble J.H
 - id: e-levos
   name: E. Levos
-- id: g-wade
-  name: G. Wade
+- id: geoff-wade
+  name: Geoff Wade
 - id: hs-barlow
   name: H.S. Barlow
 - id: n-ong
@@ -124,7 +124,6 @@ articles:
   pages: 133–134
   is_review: true
 ---
-
 # JMBRAS Vol. 70, Part 1 (June 1997)
 
 **Series:** Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society  
@@ -133,7 +132,7 @@ articles:
 ## Table of Contents
 * [Robert W. Duff: a British seigneur in Kelantan, 1892–1932](./robert-w-duff-a-british-seigneur-in-kelantan-18921932.md) — [E. Levos](./e-levos.md) (pp. 1–19)
 * [Chronological biography of Arthur Charles Norman](./chronological-biography-of-arthur-charles-norman.md) — [A. Ghafar Ahmad](./a-ghafar-ahmad.md) (pp. 21–29)
-* [Melaka in Ming dynasty texts](./melaka-in-ming-dynasty-texts.md) — [G. Wade](./geoff-wade.md) (pp. 31–69)
+* [Melaka in Ming dynasty texts](./melaka-in-ming-dynasty-texts.md) — [Geoff Wade](./geoff-wade.md) (pp. 31–69)
 * [A bridge-builder. Dr Thio Chan Bee (1904–1978](./a-bridge-builder-dr-thio-chan-bee-19041978.md) — [N. Ong](./n-ong.md) (pp. 71–100)
 * [Coral as building material in late Portuguese and early Dutch Malacca](./coral-as-building-material-in-late-portuguese-and-early-dutc.md) — [T.T. Khoo](./tt-khoo.md) (pp. 97–114)
 * [The making of traditional clay roof tiles or genting](./the-making-of-traditional-clay-roof-tiles-or-genting.md) — [Rudin Salinger](./rudin-salinger.md) (pp. 101–110)
@@ -149,7 +148,7 @@ articles:
 * [C.F. Symington](./cf-symington.md)
 * [Drabble J.H](./drabble-jh.md)
 * [E. Levos](./e-levos.md)
-* [G. Wade](./geoff-wade.md)
+* [Geoff Wade](./geoff-wade.md)
 * [H.S. Barlow](./henry-sackville-barlow.md)
 * [N. Ong](./n-ong.md)
 * [Oo Yu Hock](./oo-yu-hock.md)

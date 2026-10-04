@@ -7,7 +7,7 @@ canonical_name: Through an unknown corner of Pahang with H. Clifford in 1897. F.
 type: article
 article_type: article
 authors:
-- H.C. Clifford
+- Sir Hugh Charles Clifford
 - F.W. Douglas
 year: 1922
 journal_code: JSBRAS
@@ -23,8 +23,6 @@ published: false
 source_doc: jsbras-085-douglas-unknowncornerpahang-1922-642fe96fbdef
 source_path: ../sources/jsbras-085-douglas-unknowncornerpahang-1922-642fe96fbdef.md
 ---
-
-
 # Through an unknown corner of Pahang with H. Clifford in 1897. F.W. Douglas
 
 ## Summary

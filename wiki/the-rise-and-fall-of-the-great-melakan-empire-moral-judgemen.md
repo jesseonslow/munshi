@@ -8,7 +8,7 @@ canonical_name: 'The rise and fall of the great Melakan empire: moral judgement 
 type: article
 article_type: article
 authors:
-- W. Cheah
+- Cheah Boon Kheng
 year: 1998
 journal_code: JMBRAS
 volume: 71
@@ -21,7 +21,6 @@ amendments: []
 status: stub
 published: false
 ---
-
 # The rise and fall of the great Melakan empire: moral judgement in Tun Bambang’s Sejarah Melayu
 
 ## Summary

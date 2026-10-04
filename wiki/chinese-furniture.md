@@ -21,8 +21,6 @@ published: false
 source_doc: jmbras-266-cheah-chinesefurniture-1994-f41d70b962a8
 source_path: ../sources/jmbras-266-cheah-chinesefurniture-1994-f41d70b962a8.md
 ---
-
-
 # Chinese furniture
 
 ## Summary

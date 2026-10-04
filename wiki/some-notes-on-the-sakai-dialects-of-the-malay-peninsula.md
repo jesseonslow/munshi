@@ -6,7 +6,7 @@ canonical_name: Some notes on the Sakai dialects of the Malay Peninsula
 type: article
 article_type: article
 authors:
-- H.C. Clifford
+- Sir Hugh Charles Clifford
 year: 1891
 journal_code: JSBRAS
 volume: 24
@@ -21,8 +21,6 @@ published: false
 source_doc: jsbras-024-clifford-notessakaidialects-1891-6522c15edba2
 source_path: ../sources/jsbras-024-clifford-notessakaidialects-1891-6522c15edba2.md
 ---
-
-
 # Some notes on the Sakai dialects of the Malay Peninsula
 
 ## Summary

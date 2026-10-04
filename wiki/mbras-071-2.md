@@ -12,6 +12,8 @@ articles_count: 8
 contributors:
 - id: abu-talib-ahmad
   name: Abu Talib Ahmad
+- id: cheah-boon-kheng
+  name: Cheah Boon Kheng
 - id: chen-hock-tong
   name: Chen Hock Tong
 - id: jm-gullick
@@ -24,8 +26,6 @@ contributors:
   name: P. Ramasamy
 - id: raimy-ché-ross
   name: Raimy Ché-Ross
-- id: w-cheah
-  name: W. Cheah
 parent_hub: journal-of-the-malaysian-branch-of-the-royal-asiatic-society
 status: stub
 published: false
@@ -92,7 +92,6 @@ articles:
   pages: 141–142
   is_review: true
 ---
-
 # JMBRAS Vol. 71, Part 2 (December 1998)
 
 **Series:** Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society  
@@ -103,20 +102,20 @@ articles:
 * [The sinicization of Malay keramats in Malaysia](./the-sinicization-of-malay-keramats-in-malaysia.md) — [Cheu Hock Tong](./cheu-hock-tong.md) (pp. 49–64)
 * [Marriage and divorce in Johore among Malay-Muslims during the Japanese occupation, 1942–1945](./marriage-and-divorce-in-johore-among-malay-muslims-during-th.md) — [Abu Talib Ahmad](./abu-talib-ahmad.md) (pp. 63–90)
 * [A history of Malayan history](./a-history-of-malayan-history.md) — [J.M. Gullick](./john-michael-gullick.md) (pp. 91–103)
-* [The rise and fall of the great Melakan empire: moral judgement in Tun Bambang’s Sejarah Melayu](./the-rise-and-fall-of-the-great-melakan-empire-moral-judgemen.md) — [W. Cheah](./w-cheah.md) (pp. 104–121)
+* [The rise and fall of the great Melakan empire: moral judgement in Tun Bambang’s Sejarah Melayu](./the-rise-and-fall-of-the-great-melakan-empire-moral-judgemen.md) — [Cheah Boon Kheng](./cheah-boon-kheng.md) (pp. 104–121)
 * [Ordering of housing and the urbanization process: shophouses in colonial Penang](./ordering-of-housing-and-the-urbanization-process-shophouses-.md) — [Mai Lin Tjoa-Bonatz](./mai-lin-tjoa-bonatz.md) (pp. 123–136)
 * *Eredia’s description of Malacca, Meridional India, and Cathay; .V. Mills* — [J.N. Miksic](./jn-miksic.md) (pp. 137–141) [Review]
 * *Pierced by Murugan’s lance: ritual, power and moral redemption among Malaysian Hindus. E.F. Collins* — [P. Ramasamy](./p-ramasamy.md) (pp. 141–142) [Review]
 
 ## Contributors
 * [Abu Talib Ahmad](./abu-talib-ahmad.md)
+* [Cheah Boon Kheng](./cheah-boon-kheng.md)
 * [Cheu Hock Tong](./cheu-hock-tong.md)
 * [J.M. Gullick](./john-michael-gullick.md)
 * [J.N. Miksic](./jn-miksic.md)
 * [Mai Lin Tjoa-Bonatz](./mai-lin-tjoa-bonatz.md)
 * [P. Ramasamy](./p-ramasamy.md)
 * [Raimy Ché-Ross](./raimy-ché-ross.md)
-* [W. Cheah](./w-cheah.md)
 
 ## References
 <!-- Grounded occurrences and citations -->

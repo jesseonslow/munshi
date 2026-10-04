@@ -13,8 +13,6 @@ is_contributor: true
 status: stub
 published: false
 ---
-
-
 # Cheah Boon Kheng
 
 <!-- Synthesis engine: Insert introductory synthesis for Cheah Boon Kheng here -->
@@ -25,6 +23,7 @@ published: false
 
 ## Bibliography
 
+- (1994) [Chinese furniture](./chinese-furniture.md). *JMBRAS* 67(1): 69–93
 - (1981) [Social banditry and rural crime in North Kedah, 1909–1929](./social-banditry-and-rural-crime-in-north-kedah-19091929.md). *JMBRAS* 54(2): 98–130
 - (1991) [Letters from exile: correspondence of Sultan Abdullah from Seychelles and Mauritius](./letters-from-exile-correspondence-of-sultan-abdullah-from-se.md). *JMBRAS* 64(1): 33–74
 - (1993) [The power behind the throne: the role of queens and court ladies in Malay history](./the-power-behind-the-throne-the-role-of-queens-and-court-lad.md). *JMBRAS* 66(1): 1–21

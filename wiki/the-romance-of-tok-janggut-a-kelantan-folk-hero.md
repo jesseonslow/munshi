@@ -6,7 +6,7 @@ canonical_name: 'The romance of Tok Janggut: a Kelantan folk hero'
 type: article
 article_type: article
 authors:
-- W. Cheah
+- Cheah Boon Kheng
 - Cheu Hock Tong
 year: 1999
 journal_code: JMBRAS
@@ -22,8 +22,6 @@ published: false
 source_doc: jmbras-277-kheng-romancetokjanggut-1999-8ec8e1be0551
 source_path: ../sources/jmbras-277-kheng-romancetokjanggut-1999-8ec8e1be0551/references.md
 ---
-
-
 # The romance of Tok Janggut: a Kelantan folk hero
 
 ## Summary

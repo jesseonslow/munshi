@@ -16,10 +16,10 @@ contributors:
   name: C.A. Low Mei Gek
 - id: cm-turnbull
   name: C.M. Turnbull
-- id: g-wade
-  name: G. Wade
 - id: gl-koster
   name: G.L. Koster
+- id: geoff-wade
+  name: Geoff Wade
 - id: hs-barlow
   name: H.S. Barlow
 - id: haryati-hasan
@@ -85,7 +85,6 @@ articles:
   pages: 125–127
   is_review: true
 ---
-
 # JMBRAS Vol. 78, Part 1 (June 2005)
 
 **Series:** Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society  
@@ -93,7 +92,7 @@ articles:
 
 ## Table of Contents
 * [The lost archives of Melaka: are they really lost?](./the-lost-archives-of-melaka-are-they-really-lost.md) — [M.R. Fernando](./mr-fernando.md) (pp. 1–36)
-* [The Zheng He voyages: a reassessment](./the-zheng-he-voyages-a-reassessment.md) — [G. Wade](./geoff-wade.md) (pp. 37–58)
+* [The Zheng He voyages: a reassessment](./the-zheng-he-voyages-a-reassessment.md) — [Geoff Wade](./geoff-wade.md) (pp. 37–58)
 * [Of treaties and unbelievers: images of the Dutch in seventeenth- and eighteenth-century Malay historiography](./of-treaties-and-unbelievers-images-of-the-dutch-in-seventeen.md) — [G.L. Koster](./gl-koster.md) (pp. 59–96)
 * [Malay women and prostitution in Kota Bharu, Kelantan, 1950s–1970s](./malay-women-and-prostitution-in-kota-bharu-kelantan-1950s197.md) — [Haryati Hasan](./haryati-hasan.md) (pp. 97–120)
 * *Malaysia: a pictorial history, 1400–2004. W.K. Moore* — [H.S. Barlow](./henry-sackville-barlow.md) (pp. 121–122) [Review]
@@ -104,8 +103,8 @@ articles:
 * [Ahmad Murad Merican](./ahmad-murad-merican.md)
 * [C.A. Low Mei Gek](./ca-low-mei-gek.md)
 * [C.M. Turnbull](./constance-mary-turnbull.md)
-* [G. Wade](./geoff-wade.md)
 * [G.L. Koster](./gl-koster.md)
+* [Geoff Wade](./geoff-wade.md)
 * [H.S. Barlow](./henry-sackville-barlow.md)
 * [Haryati Hasan](./haryati-hasan.md)
 * [J.N. Miksic](./jn-miksic.md)

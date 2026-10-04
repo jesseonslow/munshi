@@ -16,6 +16,8 @@ contributors:
   name: Anon (and unidentifiable initials)
 - id: b-luyt
   name: B. Luyt
+- id: cheah-boon-kheng
+  name: Cheah Boon Kheng
 - id: danny-wong-tze-ken
   name: Danny Wong Tze-ken
 - id: f-andrew-smith
@@ -32,8 +34,6 @@ contributors:
   name: Por Heong Hong
 - id: shanti-thambiah
   name: Shanti Thambiah
-- id: w-cheah
-  name: W. Cheah
 parent_hub: journal-of-the-malaysian-branch-of-the-royal-asiatic-society
 status: stub
 published: false
@@ -117,7 +117,6 @@ articles:
   pages: 128–130
   is_review: true
 ---
-
 # JMBRAS Vol. 96, Part 2 (December 2023)
 
 **Series:** Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society  
@@ -139,6 +138,7 @@ articles:
 * [Ahmad Kamal Arrifin bin Mohd Rus](./ahmad-kamal-arrifin-bin-mohd-rus.md)
 * [Anon](./anon-and-unidentifiable-initials.md)
 * [B. Luyt](./brendan-luyt.md)
+* [Cheah Boon Kheng](./cheah-boon-kheng.md)
 * [Danny Wong Tze-ken](./danny-wong-tze-ken.md)
 * [F. Andrew Smith](./f-andrew-smith.md)
 * [Khoo Chun Yok](./khoo-chun-yok.md)
@@ -147,7 +147,6 @@ articles:
 * [P.H. Kratoska](./paul-h-kratoska.md)
 * [Por Heong Hong](./por-heong-hong.md)
 * [Shanti Thambiah](./shanti-thambiah.md)
-* [W. Cheah](./w-cheah.md)
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -10,6 +10,8 @@ nominal_month: December
 nominal_year: 1999
 articles_count: 15
 contributors:
+- id: cheah-boon-kheng
+  name: Cheah Boon Kheng
 - id: cheu-hock-tong
   name: Cheu Hock Tong
 - id: chia-oai-peng
@@ -158,7 +160,6 @@ articles:
   pages: 200–201
   is_review: true
 ---
-
 # JMBRAS Vol. 72, Part 2 (December 1999)
 
 **Series:** Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society  
@@ -168,7 +169,7 @@ articles:
 * [Foreword (J.M. Gullick Festschrift](./foreword-jm-gullick-festschrift.md) — [H.S. Barlow](./henry-sackville-barlow.md) (pp. 1)
 * [History, literature and social change: Harun Aminurrashid’s independence novel Panglima Awang](./history-literature-and-social-change-harun-aminurrashids-ind.md) — [V.M. Hooker](./vm-hooker.md) (pp. 5–16)
 * [Developments relevant to Malayan agriculture in the post-rubber crisis era (1920–1921](./developments-relevant-to-malayan-agriculture-in-the-post-rub.md) — [Khoo Kay Kim](./khoo-kay-kim.md) (pp. 17–47)
-* [The romance of Tok Janggut: a Kelantan folk hero](./the-romance-of-tok-janggut-a-kelantan-folk-hero.md) — [W. Cheah](./w-cheah.md), [Cheu Hock Tong](./cheu-hock-tong.md) (pp. 49–64)
+* [The romance of Tok Janggut: a Kelantan folk hero](./the-romance-of-tok-janggut-a-kelantan-folk-hero.md) — [Cheah Boon Kheng](./cheah-boon-kheng.md), [Cheu Hock Tong](./cheu-hock-tong.md) (pp. 49–64)
 * [A brief moment of time: Kedah-Siam relations revisited](./a-brief-moment-of-time-kedah-siam-relations-revisited.md) — [Kobkua Suwannathat-Pian](./kobkua-suwannathat-pian.md) (pp. 65–90)
 * [The Hikayat Abdullah, discourse of dissent](./the-hikayat-abdullah-discourse-of-dissent.md) — [D. Carroll](./d-carroll.md) (pp. 91–129)
 * [The Undang-Undang Melaka: reflections on Malay society in the fifteenth century Malacca](./the-undang-undang-melaka-reflections-on-malay-society-in-the.md) — [Khasnor Johan](./khasnor-johan.md) (pp. 131–150)
@@ -182,6 +183,7 @@ articles:
 * *The origins of Malayan communism. C.F. Yong* — [W. Cheah](./w-cheah.md) (pp. 200–201) [Review]
 
 ## Contributors
+* [Cheah Boon Kheng](./cheah-boon-kheng.md)
 * [Cheu Hock Tong](./cheu-hock-tong.md)
 * [Chia Oai Peng](./chia-oai-peng.md)
 * [D. Carroll](./d-carroll.md)

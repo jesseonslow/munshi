@@ -8,7 +8,7 @@ canonical_name: Belated comments on Sir Roland Braddell’s Studies of ancient t
 type: article
 article_type: article
 authors:
-- P. Wheatley
+- Paul Wheatley
 year: 1955
 journal_code: JMBRAS
 volume: 28
@@ -23,8 +23,6 @@ published: false
 source_doc: jmalayanras-169-wheatley-belatedcommentssir-1955-ae13532ceb1e
 source_path: ../sources/jmalayanras-169-wheatley-belatedcommentssir-1955-ae13532ceb1e.md
 ---
-
-
 # Belated comments on Sir Roland Braddell’s Studies of ancient times in the Malay Peninsula
 
 ## Summary

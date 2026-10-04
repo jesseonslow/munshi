@@ -6,7 +6,7 @@ canonical_name: The Malay Peninsula as known to the Chinese of the third century
 type: article
 article_type: article
 authors:
-- P. Wheatley
+- Paul Wheatley
 year: 1955
 journal_code: JMBRAS
 volume: 28
@@ -21,8 +21,6 @@ published: false
 source_doc: jsbras-028-s-memoircaptainfrancis-1895-f5b35961c8e8
 source_path: ../sources/jsbras-028-s-memoircaptainfrancis-1895-f5b35961c8e8.md
 ---
-
-
 # The Malay Peninsula as known to the Chinese of the third century A.D
 
 ## Summary

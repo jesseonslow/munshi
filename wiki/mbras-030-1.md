@@ -18,8 +18,8 @@ contributors:
   name: G.R. Tibbetts
 - id: kol-burridge
   name: K.O.L. Burridge
-- id: p-wheatley
-  name: P. Wheatley
+- id: paul-wheatley
+  name: Paul Wheatley
 parent_hub: journal-of-the-malaysian-branch-of-the-royal-asiatic-society
 status: stub
 published: false
@@ -67,7 +67,6 @@ articles:
   pages: 134–163
   is_review: false
 ---
-
 # JMBRAS Vol. 30, Part 1 (May 1957)
 
 **Series:** Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society  
@@ -77,8 +76,8 @@ articles:
 * [Early Muslim traders in South-East Asia](./early-muslim-traders-in-south-east-asia.md) — [G.R. Tibbetts](./gr-tibbetts.md) (pp. 1–45)
 * [The extension of British control to Pahang](./the-extension-of-british-control-to-pahang.md) — [E. Thio](./e-thio.md) (pp. 46–74)
 * [Managerial influences in a Johore village](./managerial-influences-in-a-johore-village.md) — [K.O.L. Burridge](./kol-burridge.md) (pp. 93–114)
-* [Possible references to the Malay Peninsula in the Annals of the Former Han](./possible-references-to-the-malay-peninsula-in-the-annals-of-.md) — [P. Wheatley](./paul-wheatley.md) (pp. 115–121)
-* [Ch’ih-t’u](./chih-tu.md) — [P. Wheatley](./paul-wheatley.md) (pp. 122–133)
+* [Possible references to the Malay Peninsula in the Annals of the Former Han](./possible-references-to-the-malay-peninsula-in-the-annals-of-.md) — [Paul Wheatley](./paul-wheatley.md) (pp. 115–121)
+* [Ch’ih-t’u](./chih-tu.md) — [Paul Wheatley](./paul-wheatley.md) (pp. 122–133)
 * [Governor Blundell and Sir Benson Maxwell: a conflict of personalities](./governor-blundell-and-sir-benson-maxwell-a-conflict-of-perso.md) — [C.M. Turnbull](./constance-mary-turnbull.md) (pp. 134–163)
 
 ## Contributors
@@ -86,7 +85,7 @@ articles:
 * [E. Thio](./e-thio.md)
 * [G.R. Tibbetts](./gr-tibbetts.md)
 * [K.O.L. Burridge](./kol-burridge.md)
-* [P. Wheatley](./paul-wheatley.md)
+* [Paul Wheatley](./paul-wheatley.md)
 
 ## References
 <!-- Grounded occurrences and citations -->

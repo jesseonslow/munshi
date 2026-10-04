@@ -83,7 +83,6 @@ articles:
   pages: 100–101
   is_review: true
 ---
-
 # JMBRAS Vol. 67, Part 1 (June 1994)
 
 **Series:** Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society  

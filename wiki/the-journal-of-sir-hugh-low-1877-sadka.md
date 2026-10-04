@@ -6,7 +6,7 @@ canonical_name: The journal of Sir Hugh Low, 1877. . Sadka
 type: article
 article_type: article
 authors:
-- H. Low
+- Sir Hugh Low
 - E. Sadka
 year: 1954
 journal_code: JMBRAS
@@ -22,8 +22,6 @@ published: false
 source_doc: jmalayanras-167-winstedt-digestcustomarylaw-1954-95772c2f625f
 source_path: ../sources/jmalayanras-167-winstedt-digestcustomarylaw-1954-95772c2f625f.md
 ---
-
-
 # The journal of Sir Hugh Low, 1877. . Sadka
 
 ## Summary

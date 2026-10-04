@@ -24,8 +24,8 @@ contributors:
   name: Lee Boon Thong
 - id: muhamad-ali
   name: Muhamad Ali
-- id: n-khor-jin-keong
-  name: N. Khor Jin Keong
+- id: neil-khor-jin-keong
+  name: Neil Khor Jin Keong
 parent_hub: journal-of-the-malaysian-branch-of-the-royal-asiatic-society
 status: stub
 published: false
@@ -90,7 +90,6 @@ articles:
   pages: 113–116
   is_review: true
 ---
-
 # JMBRAS Vol. 79, Part 2 (December 2006)
 
 **Series:** Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society  
@@ -99,7 +98,7 @@ articles:
 ## Table of Contents
 * [Petaling Jaya: The early development and growth of Malaysia’s first New Town](./petaling-jaya-the-early-development-and-growth-of-malaysias-.md) — [Lee Boon Thong](./lee-boon-thong.md) (pp. 1–22)
 * [Transmission of Islamic knowledge in Kelantan](./transmission-of-islamic-knowledge-in-kelantan.md) — [Muhamad Ali](./muhamad-ali.md) (pp. 39–58)
-* [Economic change and the emergence of the Straits Chinese in nineteenth-century Penang](./economic-change-and-the-emergence-of-the-straits-chinese-in-.md) — [N. Khor Jin Keong](./neil-khor-jin-keong.md) (pp. 59–83)
+* [Economic change and the emergence of the Straits Chinese in nineteenth-century Penang](./economic-change-and-the-emergence-of-the-straits-chinese-in-.md) — [Neil Khor Jin Keong](./neil-khor-jin-keong.md) (pp. 59–83)
 * [On the nature of military government: the case of the BMA in Negri Sembilan](./on-the-nature-of-military-government-the-case-of-the-bma-in-.md) — [J.M. Gullick](./john-michael-gullick.md) (pp. 85–101)
 * *Earthenware in Southeast Asia. . Miksic* — [Harrisson B](./harrisson-b.md) (pp. 103–107) [Review]
 * *Beads of Borneo. H. Munan* — [Jayum Anak Jawan](./jayum-anak-jawan.md) (pp. 107–110) [Review]
@@ -114,7 +113,7 @@ articles:
 * [Jayum Anak Jawan](./jayum-anak-jawan.md)
 * [Lee Boon Thong](./lee-boon-thong.md)
 * [Muhamad Ali](./muhamad-ali.md)
-* [N. Khor Jin Keong](./neil-khor-jin-keong.md)
+* [Neil Khor Jin Keong](./neil-khor-jin-keong.md)
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -6,7 +6,7 @@ canonical_name: Melaka in Ming dynasty texts
 type: article
 article_type: article
 authors:
-- G. Wade
+- Geoff Wade
 year: 1997
 journal_code: JMBRAS
 volume: 70
@@ -21,8 +21,6 @@ published: false
 source_doc: jmbras-272-wade-melakamingdynasty-1997-bc9ae5755d84
 source_path: ../sources/jmbras-272-wade-melakamingdynasty-1997-bc9ae5755d84/appendix.md
 ---
-
-
 # Melaka in Ming dynasty texts
 
 ## Summary

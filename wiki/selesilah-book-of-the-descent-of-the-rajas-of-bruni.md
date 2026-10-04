@@ -6,7 +6,7 @@ canonical_name: _Selesilah:_ book of the descent of the Rajas of Bruni
 type: article
 article_type: article
 authors:
-- H. Low
+- Sir Hugh Low
 year: 1880
 journal_code: JSBRAS
 volume: 5
@@ -21,8 +21,6 @@ published: false
 source_doc: jsbras-030-luering-vocabularydusunlanguage-1897-e77c2a6906a4
 source_path: ../sources/jsbras-030-luering-vocabularydusunlanguage-1897-e77c2a6906a4.md
 ---
-
-
 # Selesilah: book of the descent of the Rajas of Bruni
 
 ## Summary

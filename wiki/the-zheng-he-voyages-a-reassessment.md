@@ -6,7 +6,7 @@ canonical_name: 'The Zheng He voyages: a reassessment'
 type: article
 article_type: article
 authors:
-- G. Wade
+- Geoff Wade
 year: 2005
 journal_code: JMBRAS
 volume: 78
@@ -21,8 +21,6 @@ published: false
 source_doc: jmbras-288-wade-zhengvoyagesreassessment-2005-15ac1022d1b2
 source_path: ../sources/jmbras-288-wade-zhengvoyagesreassessment-2005-15ac1022d1b2/references.md
 ---
-
-
 # The Zheng He voyages: a reassessment
 
 ## Summary

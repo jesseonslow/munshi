@@ -16,14 +16,14 @@ contributors:
   name: C.D. Sherborn
 - id: ha-obrien
   name: H.A. O'Brien
-- id: hc-clifford
-  name: H.C. Clifford
 - id: hj-kelsall
   name: H.J. Kelsall
 - id: hn-ridley
   name: H.N. Ridley
 - id: m-lister
   name: M. Lister
+- id: sir-hugh-charles-clifford
+  name: Sir Hugh Charles Clifford
 - id: w-bott
   name: W. Bott
 - id: wc-brown
@@ -132,7 +132,6 @@ articles:
   pages: '170'
   is_review: false
 ---
-
 # JSBRAS No. 24 (December 1891)
 
 **Series:** Journal of the Straits Branch of the Royal Asiatic Society  
@@ -140,12 +139,12 @@ articles:
 
 ## Table of Contents
 * [An old minute by Sir Stamford Raffles](./an-old-minute-by-sir-stamford-raffles.md) — [H.A. O'Brien](./ha-obrien.md) (pp. 1–12)
-* [Some notes on the Sakai dialects of the Malay Peninsula](./some-notes-on-the-sakai-dialects-of-the-malay-peninsula.md) — [H.C. Clifford](./hc-clifford.md) (pp. 13–29)
+* [Some notes on the Sakai dialects of the Malay Peninsula](./some-notes-on-the-sakai-dialects-of-the-malay-peninsula.md) — [Sir Hugh Charles Clifford](./sir-hugh-charles-clifford.md) (pp. 13–29)
 * [An account of a journey across the Malay Peninsula from Koh Lak to Mergui](./an-account-of-a-journey-across-the-malay-peninsula-from-koh-.md) — [A. Keith](./a-keith.md) (pp. 31–41)
 * [The thermal springs of Selangor and Malacca](./the-thermal-springs-of-selangor-and-malacca.md) — [W. Bott](./w-bott.md) (pp. 43–62)
 * [The alleged discovery of mercury in Malacca](./the-alleged-discovery-of-mercury-in-malacca.md) — [W. Bott](./w-bott.md) (pp. 79–82)
 * [A note on rengas poisoning](./a-note-on-rengas-poisoning.md) — [W.C. Brown](./wc-brown.md) (pp. 83–85)
-* [A new collection of Malay proverbs](./a-new-collection-of-malay-proverbs.md) — [H.C. Clifford](./hc-clifford.md) (pp. 87–120)
+* [A new collection of Malay proverbs](./a-new-collection-of-malay-proverbs.md) — [Sir Hugh Charles Clifford](./sir-hugh-charles-clifford.md) (pp. 87–120)
 * [A bibliography of Malaya, from July, 1890 to June, 1891](./a-bibliography-of-malaya-from-july-1890-to-june-1891.md) — [C.D. Sherborn](./cd-sherborn.md) (pp. 121–164)
 * [The Putri of Mount Ophir](./the-putri-of-mount-ophir.md) — [M. Lister](./martin-lister.md) (pp. 165–166)
 * [Diamonds in the Malay Peninsula](./diamonds-in-the-malay-peninsula.md) — [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 166–167)
@@ -158,10 +157,10 @@ articles:
 * [A. Keith](./a-keith.md)
 * [C.D. Sherborn](./cd-sherborn.md)
 * [H.A. O'Brien](./ha-obrien.md)
-* [H.C. Clifford](./hc-clifford.md)
 * [H.J. Kelsall](./hj-kelsall.md)
 * [H.N. Ridley](./henry-nicholas-ridley.md)
 * [M. Lister](./martin-lister.md)
+* [Sir Hugh Charles Clifford](./sir-hugh-charles-clifford.md)
 * [W. Bott](./w-bott.md)
 * [W.C. Brown](./wc-brown.md)
 

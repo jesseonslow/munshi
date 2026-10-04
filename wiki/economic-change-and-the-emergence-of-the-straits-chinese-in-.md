@@ -8,7 +8,7 @@ canonical_name: Economic change and the emergence of the Straits Chinese in nine
 type: article
 article_type: article
 authors:
-- N. Khor Jin Keong
+- Neil Khor Jin Keong
 year: 2006
 journal_code: JMBRAS
 volume: 79
@@ -23,8 +23,6 @@ published: false
 source_doc: jmbras-291-keong-economicchangeemergence-2006-422f5002f88b
 source_path: ../sources/jmbras-291-keong-economicchangeemergence-2006-422f5002f88b/appendices.md
 ---
-
-
 # Economic change and the emergence of the Straits Chinese in nineteenth-century Penang
 
 ## Summary

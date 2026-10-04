@@ -18,6 +18,8 @@ contributors:
   name: A.O. Zakharov
 - id: abu-talib-ahmad
   name: Abu Talib Ahmad
+- id: cheah-boon-kheng
+  name: Cheah Boon Kheng
 - id: dl-horowitz
   name: D.L. Horowitz
 - id: hs-barlow
@@ -40,8 +42,6 @@ contributors:
   name: S. Ortmann
 - id: ting-mu-hung
   name: Ting Mu Hung
-- id: w-cheah
-  name: W. Cheah
 - id: yeoh-seng-guan
   name: Yeoh Seng-Guan
 - id: yuszah-akmal-binti-yusoff
@@ -164,7 +164,6 @@ articles:
   pages: 183–184
   is_review: true
 ---
-
 # JMBRAS Vol. 97, Part 1 (June 2024)
 
 **Series:** Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society  
@@ -176,7 +175,7 @@ articles:
 * [The Tribulations of a Man Who Would Be King: Anthoni Brooke of Sarawak (1912–2011](./the-tribulations-of-a-man-who-would-be-king-anthoni-brooke-o.md) — [Ooi Keat Gin](./ooi-keat-gin.md) (pp. 53–85)
 * [Revisiting the Legal Status of Sabah and Sarawak in Malaysia](./revisiting-the-legal-status-of-sabah-and-sarawak-in-malaysia.md) — [A. Rahman Tang Abdullah](./a-rahman-tang-abdullah.md) (pp. 86–101)
 * [Some First-Hand Accounts of the Japanese Occupation](./some-first-hand-accounts-of-the-japanese-occupation.md) — [P.H. Kratoska](./paul-h-kratoska.md) (pp. 102–123)
-* [Feudalisme Melayu: Ciri-Ciri dan Pensejarahannya](./feudalisme-melayu-ciri-ciri-dan-pensejarahannya.md) — [W. Cheah](./w-cheah.md) (pp. 124–152)
+* [Feudalisme Melayu: Ciri-Ciri dan Pensejarahannya](./feudalisme-melayu-ciri-ciri-dan-pensejarahannya.md) — [Cheah Boon Kheng](./cheah-boon-kheng.md) (pp. 124–152)
 * [Escape from the Thailand-Burma Railway: The Wartime Journey of Teh bin Said. P.H. Kratoska and Yuszah Akmal binti Yusoff](./escape-from-the-thailand-burma-railway-the-wartime-journey-o.md) — [P.H. Kratoska](./paul-h-kratoska.md), [Yuszah Akmal binti Yusoff](./yuszah-akmal-binti-yusoff.md) (pp. 153–165)
 * *Malaysiakini and the Power of Independent Media in Malaysia. J. Steele* — [Yeoh Seng-Guan](./yeoh-seng-guan.md) (pp. 166–168) [Review]
 * *The Middle East and the Malay World: Contemporary Issues and Future Challenges* — [Muhamad Hasrul Zakariah](./muhamad-hasrul-zakariah.md), [a-alami](./a-alami.md), [M.H. Bilgrami](./mh-bilgrami.md) (pp. 168–170) [Review]
@@ -192,6 +191,7 @@ articles:
 * [A. Rahman Tang Abdullah](./a-rahman-tang-abdullah.md)
 * [A.O. Zakharov](./ao-zakharov.md)
 * [Abu Talib Ahmad](./abu-talib-ahmad.md)
+* [Cheah Boon Kheng](./cheah-boon-kheng.md)
 * [D.L. Horowitz](./dl-horowitz.md)
 * [H.S. Barlow](./henry-sackville-barlow.md)
 * [Kwa Chong Guan](./kwa-chong-guan.md)
@@ -203,7 +203,6 @@ articles:
 * [P.H. Kratoska](./paul-h-kratoska.md)
 * [S. Ortmann](./s-ortmann.md)
 * [Ting Mu Hung](./ting-mu-hung.md)
-* [W. Cheah](./w-cheah.md)
 * [Yeoh Seng-Guan](./yeoh-seng-guan.md)
 * [Yuszah Akmal binti Yusoff](./yuszah-akmal-binti-yusoff.md)
 

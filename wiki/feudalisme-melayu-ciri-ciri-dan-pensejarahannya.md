@@ -6,7 +6,7 @@ canonical_name: 'Feudalisme Melayu: Ciri-Ciri dan Pensejarahannya'
 type: article
 article_type: article
 authors:
-- W. Cheah
+- Cheah Boon Kheng
 year: 2024
 journal_code: JMBRAS
 volume: 97
@@ -19,7 +19,6 @@ amendments: []
 status: stub
 published: false
 ---
-
 # Feudalisme Melayu: Ciri-Ciri dan Pensejarahannya
 
 ## Summary

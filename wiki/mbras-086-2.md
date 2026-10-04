@@ -10,14 +10,14 @@ nominal_month: December
 nominal_year: 2013
 articles_count: 14
 contributors:
-- id: anthony-reid
-  name: Anthony Reid
 - id: ao-zakharov
   name: A.O. Zakharov
 - id: at-gallop
   name: A.T. Gallop
 - id: abdul-aziz-umar
   name: Abdul Aziz Umar
+- id: anthony-reid
+  name: Anthony Reid
 - id: badriyah-haji-salleh
   name: Badriyah Haji Salleh
 - id: d-kammen
@@ -36,10 +36,10 @@ contributors:
   name: M. Montesano
 - id: mahani-musa
   name: Mahani Musa
-- id: n-khor-jin-keong
-  name: N. Khor Jin Keong
 - id: n-tarling
   name: N. Tarling
+- id: neil-khor-jin-keong
+  name: Neil Khor Jin Keong
 - id: s-nagata
   name: S. Nagata
 parent_hub: journal-of-the-malaysian-branch-of-the-royal-asiatic-society
@@ -157,7 +157,6 @@ articles:
   pages: 111–114
   is_review: true
 ---
-
 # JMBRAS Vol. 86, Part 2 (December 2013)
 
 **Series:** Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society  
@@ -170,7 +169,7 @@ articles:
 * [The Tageh sing ritual of the Kensiw, Kedah, Malaysia](./the-tageh-sing-ritual-of-the-kensiw-kedah-malaysia.md) — [S. Nagata](./s-nagata.md) (pp. 77–82)
 * [William R. Roff (1929–2013). Obituary](./william-r-roff-19292013-obituary.md) — [M. Laffan](./m-laffan.md) (pp. 83–88)
 * [A personal recollection by Malaysian historian Dr Badriyah Haji Salleh who studied under Professor William R. Roff](./a-personal-recollection-by-malaysian-historian-dr-badriyah-h.md) — [Badriyah Haji Salleh](./badriyah-haji-salleh.md) (pp. 86)
-* [MBRAS visit to Bandar Seri Begawan](./mbras-visit-to-bandar-seri-begawan.md) — [N. Khor Jin Keong](./neil-khor-jin-keong.md) (pp. 89–92)
+* [MBRAS visit to Bandar Seri Begawan](./mbras-visit-to-bandar-seri-begawan.md) — [Neil Khor Jin Keong](./neil-khor-jin-keong.md) (pp. 89–92)
 * [Melayu Islam Beraja](./melayu-islam-beraja.md) — [Abdul Aziz Umar](./abdul-aziz-umar.md) (pp. 93–97)
 * *British policy and the Chinese in Singapore, 1939–1955: the public service career of Tan Chin Tuan. Lee Su Yin* — [N. Tarling](./nicholas-tarling.md) (pp. 99–100) [Review]
 * *The Portuguese and the Straits of Melaka, 1575–1619: power, trade and diplomacy. P.J. de Sousa Pinto . Roy* — [Anthony Reid](./anthony-reid.md) (pp. 100–102) [Review]
@@ -180,10 +179,10 @@ articles:
 * *Living Islamically in the periphery: Muslim discourse, institution, and intellectual tradition in Southeast Asia. Iik Arifin Mansurnoor* — [Mahani Musa](./mahani-musa.md) (pp. 111–114) [Review]
 
 ## Contributors
-* [Anthony Reid](./anthony-reid.md)
 * [A.O. Zakharov](./ao-zakharov.md)
 * [A.T. Gallop](./at-gallop.md)
 * [Abdul Aziz Umar](./abdul-aziz-umar.md)
+* [Anthony Reid](./anthony-reid.md)
 * [Badriyah Haji Salleh](./badriyah-haji-salleh.md)
 * [d-kammen](./d-kammen.md)
 * [D. Bonatz](./d-bonatz.md)
@@ -193,8 +192,8 @@ articles:
 * [M. Laffan](./m-laffan.md)
 * [M. Montesano](./m-montesano.md)
 * [Mahani Musa](./mahani-musa.md)
-* [N. Khor Jin Keong](./neil-khor-jin-keong.md)
 * [N. Tarling](./nicholas-tarling.md)
+* [Neil Khor Jin Keong](./neil-khor-jin-keong.md)
 * [S. Nagata](./s-nagata.md)
 
 ## References

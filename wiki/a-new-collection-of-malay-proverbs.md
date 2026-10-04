@@ -6,7 +6,7 @@ canonical_name: A new collection of Malay proverbs
 type: article
 article_type: article
 authors:
-- H.C. Clifford
+- Sir Hugh Charles Clifford
 year: 1891
 journal_code: JSBRAS
 volume: 24
@@ -21,8 +21,6 @@ published: false
 source_doc: jsbras-024-clifford-newcollectionmalay-1891-8b9d3cd4f13e
 source_path: ../sources/jsbras-024-clifford-newcollectionmalay-1891-8b9d3cd4f13e.md
 ---
-
-
 # A new collection of Malay proverbs
 
 ## Summary

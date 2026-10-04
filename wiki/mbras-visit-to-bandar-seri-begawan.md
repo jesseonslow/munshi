@@ -6,7 +6,7 @@ canonical_name: MBRAS visit to Bandar Seri Begawan
 type: article
 article_type: article
 authors:
-- N. Khor Jin Keong
+- Neil Khor Jin Keong
 year: 2013
 journal_code: JMBRAS
 volume: 86
@@ -20,9 +20,10 @@ status: stub
 published: false
 source_doc: jmbras-305-khor-mbrasvisitbandar-2013-33205e8372e8
 source_path: ../sources/jmbras-305-khor-mbrasvisitbandar-2013-33205e8372e8.md
+contributors:
+- id: neil-khor-jin-keong
+  name: Neil Khor Jin Keong
 ---
-
-
 # MBRAS visit to Bandar Seri Begawan
 
 ## Summary

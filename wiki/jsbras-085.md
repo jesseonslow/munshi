@@ -22,8 +22,6 @@ contributors:
   name: F.W. Douglas
 - id: h-overbeck
   name: H. Overbeck
-- id: hc-clifford
-  name: H.C. Clifford
 - id: hc-robinson
   name: H.C. Robinson
 - id: hamilton-aw
@@ -38,6 +36,8 @@ contributors:
   name: L. Collenette
 - id: ph-s-van-ronkel
   name: Ph. S. van Ronkel
+- id: sir-hugh-charles-clifford
+  name: Sir Hugh Charles Clifford
 - id: ts-adams
   name: T.S. Adams
 - id: zainal-abidin-bin-ahmad
@@ -184,7 +184,6 @@ articles:
   pages: 230–231
   is_review: false
 ---
-
 # JSBRAS No. 85 (March 1922)
 
 **Series:** Journal of the Straits Branch of the Royal Asiatic Society  
@@ -198,7 +197,7 @@ articles:
 * [Penang Malay](./penang-malay.md) — [Hamilton A.W](./hamilton-aw.md) (pp. 67–96)
 * [A vocabulary of Pangan](./a-vocabulary-of-pangan.md) — [T.S. Adams](./ts-adams.md) (pp. 97–123)
 * [Remarks upon certain currency notes, coins and tokens emanating from Malaya during and after the war](./remarks-upon-certain-currency-notes-coins-and-tokens-emanati.md) — [J.A.S. Bucknill](./jas-bucknill.md) (pp. 124–134)
-* [Through an unknown corner of Pahang with H. Clifford in 1897. F.W. Douglas](./through-an-unknown-corner-of-pahang-with-h-clifford-in-1897-.md) — [H.C. Clifford](./hc-clifford.md), [F.W. Douglas](./fw-douglas.md) (pp. 135–139)
+* [Through an unknown corner of Pahang with H. Clifford in 1897. F.W. Douglas](./through-an-unknown-corner-of-pahang-with-h-clifford-in-1897-.md) — [Sir Hugh Charles Clifford](./sir-hugh-charles-clifford.md), [F.W. Douglas](./fw-douglas.md) (pp. 135–139)
 * [A contribution to the psychology of “latah”](./a-contribution-to-the-psychology-of-latah.md) — [D.J. Galloway](./dj-galloway.md) (pp. 140–150)
 * [New or noteworthy Bornean plants](./new-or-noteworthy-bornean-plants.md) — [E.D. Merrill](./ed-merrill.md) (pp. 151–201)
 * [The bearded pig (Sus barbatus) in the Malay Peninsula](./the-bearded-pig-sus-barbatus-in-the-malay-peninsula.md) — [J.C. Moulton](./john-coney-moulton.md), [H.C. Robinson](./hc-robinson.md) (pp. 202–205)
@@ -218,7 +217,6 @@ articles:
 * [F.F. Laidlaw](./ff-laidlaw.md)
 * [F.W. Douglas](./fw-douglas.md)
 * [H. Overbeck](./h-overbeck.md)
-* [H.C. Clifford](./hc-clifford.md)
 * [H.C. Robinson](./hc-robinson.md)
 * [Hamilton A.W](./hamilton-aw.md)
 * [J.A.S. Bucknill](./jas-bucknill.md)
@@ -226,6 +224,7 @@ articles:
 * [J.P. Moquette](./jp-moquette.md)
 * [L. Collenette](./l-collenette.md)
 * [Ph. S. van Ronkel](./ph-s-van-ronkel.md)
+* [Sir Hugh Charles Clifford](./sir-hugh-charles-clifford.md)
 * [T.S. Adams](./ts-adams.md)
 * [Zainal Abidin bin Ahmad](./zainal-abidin-bin-ahmad.md)
 

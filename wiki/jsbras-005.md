@@ -16,10 +16,10 @@ contributors:
   name: F.A. Swettenham
 - id: gp-tolson
   name: G.P. Tolson
-- id: h-low
-  name: H. Low
 - id: nb-dennys
   name: N.B. Dennys
+- id: sir-hugh-low
+  name: Sir Hugh Low
 parent_hub: journal-of-the-malaysian-branch-of-the-royal-asiatic-society
 status: stub
 published: false
@@ -62,14 +62,13 @@ articles:
   pages: 157–160
   is_review: false
 ---
-
 # JSBRAS No. 5 (June 1880)
 
 **Series:** Journal of the Straits Branch of the Royal Asiatic Society  
 **Date:** June 1880
 
 ## Table of Contents
-* [Selesilah: book of the descent of the Rajas of Bruni](./selesilah-book-of-the-descent-of-the-rajas-of-bruni.md) — [H. Low](./sir-hugh-low.md) (pp. 1–35)
+* [Selesilah: book of the descent of the Rajas of Bruni](./selesilah-book-of-the-descent-of-the-rajas-of-bruni.md) — [Sir Hugh Low](./sir-hugh-low.md) (pp. 1–35)
 * [Acheh, commonly called Acheen](./acheh-commonly-called-acheen.md) — [G.P. Tolson](./gp-tolson.md) (pp. 37–50)
 * [A contribution to Malayan bibliography](./a-contribution-to-malayan-bibliography.md) — [N.B. Dennys](./nicholas-belfield-dennys.md) (pp. 69–123)
 * [Comparative vocabulary of the dialects of some of the wild tribes inhabiting the Malayan peninsula, Borneo, etc., collected and compiled for the Straits Branch of the Royal Asiatic Society](./comparative-vocabulary-of-the-dialects-of-some-of-the-wild-t.md) — [Swettenham, F.A.](./sir-frank-swettenham.md) (pp. 125–156)
@@ -77,10 +76,10 @@ articles:
 
 ## Contributors
 * [A.H. Everett](./ah-everett.md)
-* [Swettenham, F.A.](./sir-frank-swettenham.md)
 * [G.P. Tolson](./gp-tolson.md)
-* [H. Low](./sir-hugh-low.md)
 * [N.B. Dennys](./nicholas-belfield-dennys.md)
+* [Sir Hugh Low](./sir-hugh-low.md)
+* [Swettenham, F.A.](./sir-frank-swettenham.md)
 
 ## References
 <!-- Grounded occurrences and citations -->
