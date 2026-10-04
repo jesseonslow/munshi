@@ -19,10 +19,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-278-nakamura-comingislamchampa-2000-9f59a5cfdf8a
-source_path: ../sources/jmbras-278-nakamura-comingislamchampa-2000-9f59a5cfdf8a/references.md
+source_path: ../sources/jmbras-278-nakamura-comingislamchampa-2000-9f59a5cfdf8a/frontmatter.md
 ---
-
-
 # The coming of Islam to Champa
 
 ## Summary

@@ -19,10 +19,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-293-gullick-shorthistoryulu-2007-5353cf2ddc48
-source_path: ../sources/jmbras-293-gullick-shorthistoryulu-2007-5353cf2ddc48/references.md
+source_path: ../sources/jmbras-293-gullick-shorthistoryulu-2007-5353cf2ddc48/frontmatter.md
 ---
-
-
 # Abdullah vs Siami: early Malay verdicts on British justice
 
 ## Summary

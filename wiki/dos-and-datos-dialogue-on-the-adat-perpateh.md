@@ -19,10 +19,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-279-gullick-dosdatosdialogue-2000-fbdbd964357f
-source_path: ../sources/jmbras-279-gullick-dosdatosdialogue-2000-fbdbd964357f/references.md
+source_path: ../sources/jmbras-279-gullick-dosdatosdialogue-2000-fbdbd964357f/frontmatter.md
 ---
-
-
 # DO’s and Dato’s: dialogue on the adat perpateh
 
 ## Summary

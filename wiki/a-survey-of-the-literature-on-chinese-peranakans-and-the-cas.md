@@ -21,10 +21,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-297-see-surveyliteraturechinese-2009-bc2cf2df05d2
-source_path: ../sources/jmbras-297-see-surveyliteraturechinese-2009-bc2cf2df05d2/references.md
+source_path: ../sources/jmbras-297-see-surveyliteraturechinese-2009-bc2cf2df05d2/frontmatter.md
 ---
-
-
 # A survey of the literature on Chinese Peranakans and the case for a regional resource centre
 
 ## Summary

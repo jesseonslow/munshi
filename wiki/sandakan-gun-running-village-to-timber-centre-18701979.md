@@ -19,10 +19,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-237-bhar-sandakangunrunning-1980-c4d9017e9783
-source_path: ../sources/jmbras-237-bhar-sandakangunrunning-1980-c4d9017e9783/references.md
+source_path: ../sources/jmbras-237-bhar-sandakangunrunning-1980-c4d9017e9783/frontmatter.md
 ---
-
-
 # Sandakan: gun running village to timber centre, 1870–1979
 
 ## Summary

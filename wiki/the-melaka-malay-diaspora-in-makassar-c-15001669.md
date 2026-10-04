@@ -19,10 +19,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-274-cummings-melaramalaydiaspora-1998-bbafb0754d39
-source_path: ../sources/jmbras-274-cummings-melaramalaydiaspora-1998-bbafb0754d39/bibliography.md
+source_path: ../sources/jmbras-274-cummings-melaramalaydiaspora-1998-bbafb0754d39/frontmatter.md
 ---
-
-
 # The Melaka Malay Diaspora in Makassar, c 1500–1669
 
 ## Summary

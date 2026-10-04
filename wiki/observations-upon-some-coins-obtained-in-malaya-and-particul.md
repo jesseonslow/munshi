@@ -21,10 +21,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-315-jianli-stamfordrafflesfounding-2018-edf17bbd16a6
-source_path: ../sources/jmbras-315-jianli-stamfordrafflesfounding-2018-edf17bbd16a6/references.md
+source_path: ../sources/jmbras-315-jianli-stamfordrafflesfounding-2018-edf17bbd16a6/frontmatter.md
 ---
-
-
 # Observations upon some coins obtained in Malaya and particularly from Trengganu, Kelantan and southern Siam
 
 ## Summary

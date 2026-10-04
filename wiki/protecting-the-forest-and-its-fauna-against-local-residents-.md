@@ -20,10 +20,8 @@ amendments: []
 status: stub
 published: false
 source_doc: guerin-protecting-the-forest-and-its-fauna-0d98cafb7b78
-source_path: ../sources/guerin-protecting-the-forest-and-its-fauna-0d98cafb7b78/bibliography.md
+source_path: ../sources/guerin-protecting-the-forest-and-its-fauna-0d98cafb7b78/frontmatter.md
 ---
-
-
 # Protecting the Forest and Its Fauna against Local Residents in British Malaya
 
 ## Summary

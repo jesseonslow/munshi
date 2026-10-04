@@ -19,10 +19,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-213-ali-patternsruralleadership-1968-137b5605c610
-source_path: ../sources/jmbras-213-ali-patternsruralleadership-1968-137b5605c610/bibliography.md
+source_path: ../sources/jmbras-213-ali-patternsruralleadership-1968-137b5605c610/frontmatter.md
 ---
-
-
 # Patterns of rural leadership in Malaya
 
 ## Summary

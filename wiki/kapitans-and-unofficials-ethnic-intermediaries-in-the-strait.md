@@ -21,10 +21,8 @@ amendments: []
 status: stub
 published: false
 source_doc: keo-kapitans-and-unofficials-ccb91b824301
-source_path: ../sources/keo-kapitans-and-unofficials-ccb91b824301/references.md
+source_path: ../sources/keo-kapitans-and-unofficials-ccb91b824301/frontmatter.md
 ---
-
-
 # Kapitans and Unofficials: Ethnic Intermediaries in the Straits Settlements, 1786–1942
 
 ## Summary

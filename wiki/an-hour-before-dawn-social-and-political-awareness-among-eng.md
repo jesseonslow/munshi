@@ -26,10 +26,8 @@ keywords:
 - colonial education
 - Raffles Institution
 source_doc: kwek-an-hour-before-dawn-960e58da14b2
-source_path: ../sources/kwek-an-hour-before-dawn-960e58da14b2/references.md
+source_path: ../sources/kwek-an-hour-before-dawn-960e58da14b2/frontmatter.md
 ---
-
-
 # ‘An Hour Before Dawn’: Social and Political Awareness among English-Educated Students in Post-War Singapore
 
 ## Overview

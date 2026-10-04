@@ -20,10 +20,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmalayanras-104-chasen-collectionmammalsanamba-1928-9f476a45e797
-source_path: ../sources/jmalayanras-104-chasen-collectionmammalsanamba-1928-9f476a45e797/bibliography.md
+source_path: ../sources/jmalayanras-104-chasen-collectionmammalsanamba-1928-9f476a45e797/frontmatter.md
 ---
-
-
 # On a collection of mammals from the Anamba Islands, South China Sea
 
 ## Summary

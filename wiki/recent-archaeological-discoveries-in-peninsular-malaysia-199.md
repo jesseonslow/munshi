@@ -19,10 +19,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-264-taha-recentarchaeologicaldiscoveries-1993-26d9a75d7451
-source_path: ../sources/jmbras-264-taha-recentarchaeologicaldiscoveries-1993-26d9a75d7451/references.md
+source_path: ../sources/jmbras-264-taha-recentarchaeologicaldiscoveries-1993-26d9a75d7451/frontmatter.md
 ---
-
-
 # Recent archaeological discoveries in Peninsular Malaysia (1991–1993
 
 ## Summary

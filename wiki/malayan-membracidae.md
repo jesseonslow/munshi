@@ -19,10 +19,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-291-thong-petalingjayaearly-2006-26963000ad63
-source_path: ../sources/jmbras-291-thong-petalingjayaearly-2006-26963000ad63/references.md
+source_path: ../sources/jmbras-291-thong-petalingjayaearly-2006-26963000ad63/frontmatter.md
 ---
-
-
 # Malayan Membracidae
 
 ## Summary

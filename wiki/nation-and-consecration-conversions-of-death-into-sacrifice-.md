@@ -19,10 +19,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-310-kelly-nationconsecration-2016-eed7c568d1f3
-source_path: ../sources/jmbras-310-kelly-nationconsecration-2016-eed7c568d1f3/references.md
+source_path: ../sources/jmbras-310-kelly-nationconsecration-2016-eed7c568d1f3/frontmatter.md
 ---
-
-
 # Nation and consecration: conversions of death into sacrifice in Singapore
 
 ## Summary

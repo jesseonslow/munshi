@@ -19,10 +19,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-297-jones-chiangchewhokkienstrue-2009-7b8c4c529179
-source_path: ../sources/jmbras-297-jones-chiangchewhokkienstrue-2009-7b8c4c529179/references.md
+source_path: ../sources/jmbras-297-jones-chiangchewhokkienstrue-2009-7b8c4c529179/frontmatter.md
 ---
-
-
 # The Chiangchew Hokkiens, the true pioneers in the Nanyang
 
 ## Summary

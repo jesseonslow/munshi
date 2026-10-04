@@ -21,10 +21,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-292-blackburn-heritagesitewar-2007-90e60d313619
-source_path: ../sources/jmbras-292-blackburn-heritagesitewar-2007-90e60d313619/references.md
+source_path: ../sources/jmbras-292-blackburn-heritagesitewar-2007-90e60d313619/frontmatter.md
 ---
-
-
 # Heritage site, war memorial and tourist stop: the Japanese cemetery of Singapore, 1891– 2005
 
 ## Summary

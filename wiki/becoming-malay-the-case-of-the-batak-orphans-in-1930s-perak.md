@@ -32,10 +32,8 @@ keywords:
 - rubber
 - rubber tappers
 source_doc: lees-becoming-malays-46626348799e
-source_path: ../sources/lees-becoming-malays-46626348799e/references.md
+source_path: ../sources/lees-becoming-malays-46626348799e/frontmatter.md
 ---
-
-
 # Becoming Malay: The Case of the Batak Orphans in 1930s Perak
 
 ## Abstract

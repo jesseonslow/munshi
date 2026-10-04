@@ -21,10 +21,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-317-seen-celebratingsingapores150th-2019-6dafda3eb232
-source_path: ../sources/jmbras-317-seen-celebratingsingapores150th-2019-6dafda3eb232/references.md
+source_path: ../sources/jmbras-317-seen-celebratingsingapores150th-2019-6dafda3eb232/frontmatter.md
 ---
-
-
 # Celebrating Singapore’s 150th anniversary on its 4th national day (9 August 1969
 
 ## Summary

@@ -30,10 +30,8 @@ keywords:
 - Hai San
 - Penang
 source_doc: pek-the-kong-moon-system-in-larut-4211ce82321e
-source_path: ../sources/pek-the-kong-moon-system-in-larut-4211ce82321e/references.md
+source_path: ../sources/pek-the-kong-moon-system-in-larut-4211ce82321e/frontmatter.md
 ---
-
-
 # The Kong-Moon System in Larut: Chinese Social Relationships in Nineteenth-Century Perak
 
 ## Abstract

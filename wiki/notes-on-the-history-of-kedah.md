@@ -19,10 +19,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmalayanras-126-winstedt-noteshistorykedah-1936-cf149b079bac
-source_path: ../sources/jmalayanras-126-winstedt-noteshistorykedah-1936-cf149b079bac/appendix.md
+source_path: ../sources/jmalayanras-126-winstedt-noteshistorykedah-1936-cf149b079bac/frontmatter.md
 ---
-
-
 # Notes on the history of Kedah
 
 ## Summary

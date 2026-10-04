@@ -19,10 +19,8 @@ amendments: []
 status: stub
 published: false
 source_doc: akhtar-malay-perspectives-on-ming-china-d689655ee580
-source_path: ../sources/akhtar-malay-perspectives-on-ming-china-d689655ee580/bibliography.md
+source_path: ../sources/akhtar-malay-perspectives-on-ming-china-d689655ee580/frontmatter.md
 ---
-
-
 # Malay Perspectives on Ming China during the Age of Exploration
 
 ## Summary

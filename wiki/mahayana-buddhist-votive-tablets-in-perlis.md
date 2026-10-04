@@ -19,10 +19,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-206-lamb-mahayanabuddhistvotive-1964-ff6befbc68b3
-source_path: ../sources/jmbras-206-lamb-mahayanabuddhistvotive-1964-ff6befbc68b3/appendix.md
+source_path: ../sources/jmbras-206-lamb-mahayanabuddhistvotive-1964-ff6befbc68b3/frontmatter.md
 ---
-
-
 # Mahayana Buddhist votive tablets in Perlis
 
 ## Summary

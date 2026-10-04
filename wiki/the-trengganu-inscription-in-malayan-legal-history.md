@@ -19,10 +19,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-230-hooker-trengganuinscriptionmalayan-1976-4b60fd00bb17
-source_path: ../sources/jmbras-230-hooker-trengganuinscriptionmalayan-1976-4b60fd00bb17/references.md
+source_path: ../sources/jmbras-230-hooker-trengganuinscriptionmalayan-1976-4b60fd00bb17/frontmatter.md
 ---
-
-
 # The Trengganu inscription in Malayan legal history
 
 ## Summary

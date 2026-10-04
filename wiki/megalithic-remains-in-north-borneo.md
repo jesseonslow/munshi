@@ -19,10 +19,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmalayanras-142-keith-megalithicremainsnorth-1947-f15be1339c8d
-source_path: ../sources/jmalayanras-142-keith-megalithicremainsnorth-1947-f15be1339c8d/references.md
+source_path: ../sources/jmalayanras-142-keith-megalithicremainsnorth-1947-f15be1339c8d/frontmatter.md
 ---
-
-
 # Megalithic remains in North Borneo
 
 ## Summary

@@ -19,10 +19,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmalayanras-151-chye-noteearlylegislation-1950-f07256aa27a2
-source_path: ../sources/jmalayanras-151-chye-noteearlylegislation-1950-f07256aa27a2/references.md
+source_path: ../sources/jmalayanras-151-chye-noteearlylegislation-1950-f07256aa27a2/frontmatter.md
 ---
-
-
 # A note on early legislation in Penang
 
 ## Summary

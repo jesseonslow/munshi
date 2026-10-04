@@ -21,10 +21,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jordaan-2017-jmbras-90-2-1-34-1febc85fdaf2
-source_path: ../sources/jordaan-2017-jmbras-90-2-1-34-1febc85fdaf2/appendix.md
+source_path: ../sources/jordaan-2017-jmbras-90-2-1-34-1febc85fdaf2/frontmatter.md
 ---
-
-
 # Words of majesty: a brief history of royal correspondence between England and Asia, 1600–1858
 
 ## Summary

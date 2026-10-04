@@ -19,10 +19,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-229-harrisson-ngajubajausignificantearly-1976-0451857ada5f
-source_path: ../sources/jmbras-229-harrisson-ngajubajausignificantearly-1976-0451857ada5f/appendix.md
+source_path: ../sources/jmbras-229-harrisson-ngajubajausignificantearly-1976-0451857ada5f/frontmatter.md
 ---
-
-
 # Notes on the distribution of the useful minerals in Sarawak
 
 ## Summary

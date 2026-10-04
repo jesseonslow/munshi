@@ -20,10 +20,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-239-viner-changingpakpakbatak-1981-0b53af179998
-source_path: ../sources/jmbras-239-viner-changingpakpakbatak-1981-0b53af179998/references.md
+source_path: ../sources/jmbras-239-viner-changingpakpakbatak-1981-0b53af179998/frontmatter.md
 ---
-
-
 # The changing Pakpak Batak
 
 ## Summary

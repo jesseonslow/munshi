@@ -20,10 +20,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-265-noorduyn-bugisinscriptionudokudok-1993-29bcf8a49b6f
-source_path: ../sources/jmbras-265-noorduyn-bugisinscriptionudokudok-1993-29bcf8a49b6f/references.md
+source_path: ../sources/jmbras-265-noorduyn-bugisinscriptionudokudok-1993-29bcf8a49b6f/frontmatter.md
 ---
-
-
 # The Bugis inscription in the Udo-Udok cemetery in Brunei
 
 ## Summary

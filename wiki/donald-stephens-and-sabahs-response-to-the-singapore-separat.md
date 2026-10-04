@@ -25,7 +25,7 @@ keywords:
 - Secession
 - Malaysia
 source_doc: wong-donald-stephens-803aec0a272b
-source_path: ../sources/wong-donald-stephens-803aec0a272b/references.md
+source_path: ../sources/wong-donald-stephens-803aec0a272b/frontmatter.md
 ---
 # Donald Stephens and Sabah’s Response to the Singapore Separation
 

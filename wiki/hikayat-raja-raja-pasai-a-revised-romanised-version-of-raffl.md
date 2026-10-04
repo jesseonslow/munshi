@@ -21,10 +21,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jsbras-033-shelford-tripmtpenrissen-1900-0263d0d66ba9
-source_path: ../sources/jsbras-033-shelford-tripmtpenrissen-1900-0263d0d66ba9/appendix.md
+source_path: ../sources/jsbras-033-shelford-tripmtpenrissen-1900-0263d0d66ba9/frontmatter.md
 ---
-
-
 # Hikayat Raja-Raja Pasai, a revised romanised version of Raffles MS 67, together with an English translation
 
 ## Summary

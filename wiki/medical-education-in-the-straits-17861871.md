@@ -19,10 +19,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-223-lee-medicaleducationstraits-1973-a1b5edc1ad9a
-source_path: ../sources/jmbras-223-lee-medicaleducationstraits-1973-a1b5edc1ad9a/appendix.md
+source_path: ../sources/jmbras-223-lee-medicaleducationstraits-1973-a1b5edc1ad9a/frontmatter.md
 ---
-
-
 # Medical education in the Straits, 1786–1871
 
 ## Summary

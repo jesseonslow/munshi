@@ -19,10 +19,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-284-proudfoot-expeditionpoliticsmalay-2003-59384da4f4b7
-source_path: ../sources/jmbras-284-proudfoot-expeditionpoliticsmalay-2003-59384da4f4b7/bibliography.md
+source_path: ../sources/jmbras-284-proudfoot-expeditionpoliticsmalay-2003-59384da4f4b7/frontmatter.md
 ---
-
-
 # An expedition into the politics of Malay philology
 
 ## Summary

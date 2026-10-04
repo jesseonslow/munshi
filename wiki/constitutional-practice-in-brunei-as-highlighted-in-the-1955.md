@@ -21,10 +21,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-291-hussainmiya-constitutionalpracticebrunei-2006-52883e6bf6d3
-source_path: ../sources/jmbras-291-hussainmiya-constitutionalpracticebrunei-2006-52883e6bf6d3/references.md
+source_path: ../sources/jmbras-291-hussainmiya-constitutionalpracticebrunei-2006-52883e6bf6d3/frontmatter.md
 ---
-
-
 # Constitutional practice in Brunei as highlighted in the 1955 memorandum of R.H. Hickling
 
 ## Summary

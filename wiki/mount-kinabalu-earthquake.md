@@ -20,10 +20,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-310-yunci-cleansingsacredmountain-2016-b085b9012ab7
-source_path: ../sources/jmbras-310-yunci-cleansingsacredmountain-2016-b085b9012ab7/references.md
+source_path: ../sources/jmbras-310-yunci-cleansingsacredmountain-2016-b085b9012ab7/frontmatter.md
 ---
-
-
 # Mount Kinabalu earthquake
 
 ## Summary

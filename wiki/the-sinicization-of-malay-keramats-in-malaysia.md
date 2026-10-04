@@ -19,10 +19,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-275-tong-sinicizationmalaykeramats-1998-27166900463d
-source_path: ../sources/jmbras-275-tong-sinicizationmalaykeramats-1998-27166900463d/references.md
+source_path: ../sources/jmbras-275-tong-sinicizationmalaykeramats-1998-27166900463d/frontmatter.md
 ---
-
-
 # The sinicization of Malay keramats in Malaysia
 
 ## Summary

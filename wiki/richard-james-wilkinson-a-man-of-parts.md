@@ -19,10 +19,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-280-gullick-richardjameswilkinson-2001-87852dfd698b
-source_path: ../sources/jmbras-280-gullick-richardjameswilkinson-2001-87852dfd698b/references.md
+source_path: ../sources/jmbras-280-gullick-richardjameswilkinson-2001-87852dfd698b/frontmatter.md
 ---
-
-
 # Richard James Wilkinson: a man of parts
 
 ## Summary

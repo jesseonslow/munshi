@@ -19,10 +19,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-277-suwwannathatpian-briefmomenttime-1999-93dc1377ee2c
-source_path: ../sources/jmbras-277-suwwannathatpian-briefmomenttime-1999-93dc1377ee2c/references.md
+source_path: ../sources/jmbras-277-suwwannathatpian-briefmomenttime-1999-93dc1377ee2c/frontmatter.md
 ---
-
-
 # A brief moment of time: Kedah-Siam relations revisited
 
 ## Summary

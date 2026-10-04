@@ -19,10 +19,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-260-jr-glassbeadsmalaya-1991-4d789d00df1f
-source_path: ../sources/jmbras-260-jr-glassbeadsmalaya-1991-4d789d00df1f/references.md
+source_path: ../sources/jmbras-260-jr-glassbeadsmalaya-1991-4d789d00df1f/frontmatter.md
 ---
-
-
 # Glass beads in Malaya: a reassessment
 
 ## Summary

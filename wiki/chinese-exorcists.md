@@ -19,10 +19,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-288-fernando-lostarchivesmelaka-2005-c22f91329374
-source_path: ../sources/jmbras-288-fernando-lostarchivesmelaka-2005-c22f91329374/references.md
+source_path: ../sources/jmbras-288-fernando-lostarchivesmelaka-2005-c22f91329374/frontmatter.md
 ---
-
-
 # Chinese exorcists
 
 ## Summary

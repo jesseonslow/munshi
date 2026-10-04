@@ -19,10 +19,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-256-hunt-historytranslationbible-1989-f64d02344d73
-source_path: ../sources/jmbras-256-hunt-historytranslationbible-1989-f64d02344d73/bibliography.md
+source_path: ../sources/jmbras-256-hunt-historytranslationbible-1989-f64d02344d73/frontmatter.md
 ---
-
-
 # The history of the translation of the Bible into Bahasa Malaysia
 
 ## Summary

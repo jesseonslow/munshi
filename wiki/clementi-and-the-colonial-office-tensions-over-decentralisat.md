@@ -28,10 +28,8 @@ keywords:
 - Malay States
 - decentralisation policy
 source_doc: urwin-clementi-and-the-colonial-office-f051120d7fd0
-source_path: ../sources/urwin-clementi-and-the-colonial-office-f051120d7fd0/references.md
+source_path: ../sources/urwin-clementi-and-the-colonial-office-f051120d7fd0/frontmatter.md
 ---
-
-
 # Clementi and the Colonial Office: Tensions over Decentralisation Policy in the Malay States, 1930–34
 
 ## Abstract

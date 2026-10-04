@@ -23,10 +23,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-238-mckinnon-analysisgoldartifacts-1980-33a35b298770
-source_path: ../sources/jmbras-238-mckinnon-analysisgoldartifacts-1980-33a35b298770/appendix.md
+source_path: ../sources/jmbras-238-mckinnon-analysisgoldartifacts-1980-33a35b298770/frontmatter.md
 ---
-
-
 # Analysis of gold artefacts from the Kota Cina site, near Medan, Sumatra (with appendices). A. Manning, E
 
 ## Summary

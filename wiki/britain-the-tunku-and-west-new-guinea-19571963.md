@@ -19,10 +19,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-298-tarling-britaintunkuwest-2010-7ff56a8c416a
-source_path: ../sources/jmbras-298-tarling-britaintunkuwest-2010-7ff56a8c416a/references.md
+source_path: ../sources/jmbras-298-tarling-britaintunkuwest-2010-7ff56a8c416a/frontmatter.md
 ---
-
-
 # Britain, the Tunku and West New Guinea 1957–1963
 
 ## Summary

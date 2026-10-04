@@ -19,10 +19,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-268-ali-notepairbatu-1995-44d974c906fb
-source_path: ../sources/jmbras-268-ali-notepairbatu-1995-44d974c906fb/references.md
+source_path: ../sources/jmbras-268-ali-notepairbatu-1995-44d974c906fb/frontmatter.md
 ---
-
-
 # Note on a pair of batu aceh in Rembau
 
 ## Summary

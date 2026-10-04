@@ -27,10 +27,8 @@ keywords:
 - Disease
 - Sickness
 source_doc: tham-samsudin-royal-navy-and-disease-1c7f497e8a4a
-source_path: ../sources/tham-samsudin-royal-navy-and-disease-1c7f497e8a4a/references.md
+source_path: ../sources/tham-samsudin-royal-navy-and-disease-1c7f497e8a4a/frontmatter.md
 ---
-
-
 # The Royal Navy and Disease in the Straits of Malacca, 1794–1815
 
 ## Abstract

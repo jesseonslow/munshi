@@ -20,10 +20,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-311-wright-careerfrancisjames-2016-3d5399c463ec
-source_path: ../sources/jmbras-311-wright-careerfrancisjames-2016-3d5399c463ec/references.md
+source_path: ../sources/jmbras-311-wright-careerfrancisjames-2016-3d5399c463ec/frontmatter.md
 ---
-
-
 # The career of Francis James Bernard: nepotism and patronage in early Singapore
 
 ## Summary

@@ -20,10 +20,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-302-comber-malayanemergencygeneral-2012-53635a21018b
-source_path: ../sources/jmbras-302-comber-malayanemergencygeneral-2012-53635a21018b/references.md
+source_path: ../sources/jmbras-302-comber-malayanemergencygeneral-2012-53635a21018b/frontmatter.md
 ---
-
-
 # The Malayan Emergency: General Templer and the Kinta Valley home guard
 
 ## Summary

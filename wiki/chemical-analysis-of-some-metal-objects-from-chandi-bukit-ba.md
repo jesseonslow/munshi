@@ -21,10 +21,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-214-appell-socialgroupingsamong-1968-77a341742ffd
-source_path: ../sources/jmbras-214-appell-socialgroupingsamong-1968-77a341742ffd/bibliography.md
+source_path: ../sources/jmbras-214-appell-socialgroupingsamong-1968-77a341742ffd/frontmatter.md
 ---
-
-
 # Chemical analysis of some metal objects from Chandi Bukit Batu Pahat, Kedah: suggested origin and date
 
 ## Summary

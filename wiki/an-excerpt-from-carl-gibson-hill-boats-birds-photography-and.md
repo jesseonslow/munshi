@@ -21,10 +21,8 @@ amendments: []
 status: stub
 published: false
 source_doc: gibson-hill-boats-birds-photography-and-history-f66a6f232fd5
-source_path: ../sources/gibson-hill-boats-birds-photography-and-history-f66a6f232fd5/references.md
+source_path: ../sources/gibson-hill-boats-birds-photography-and-history-f66a6f232fd5/frontmatter.md
 ---
-
-
 # An Excerpt from Carl Gibson-Hill: Boats, Birds, Photography, and History in LateColonial Malaya. With a note P. Kratoska
 
 ## Summary

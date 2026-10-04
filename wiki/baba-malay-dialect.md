@@ -19,10 +19,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-237-cheebeng-babamalaydialect-1980-c342d0920feb
-source_path: ../sources/jmbras-237-cheebeng-babamalaydialect-1980-c342d0920feb/references.md
+source_path: ../sources/jmbras-237-cheebeng-babamalaydialect-1980-c342d0920feb/frontmatter.md
 ---
-
-
 # Baba Malay dialect
 
 ## Summary

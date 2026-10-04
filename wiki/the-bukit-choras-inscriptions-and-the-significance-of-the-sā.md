@@ -33,10 +33,8 @@ keywords:
 - Bujang Valley
 - Mahāyāna sūtra
 source_doc: khaw-ooi-bujeng-nrayanen-salleh-bukit-choras-inscriptions-ebaefa08b115
-source_path: ../sources/khaw-ooi-bujeng-nrayanen-salleh-bukit-choras-inscriptions-ebaefa08b115/references.md
+source_path: ../sources/khaw-ooi-bujeng-nrayanen-salleh-bukit-choras-inscriptions-ebaefa08b115/frontmatter.md
 ---
-
-
 # The Bukit Choras Inscriptions and the Significance of the Sāgaramatiparipṛcchā Verses to Ancient Kedah.
 
 ## Abstract

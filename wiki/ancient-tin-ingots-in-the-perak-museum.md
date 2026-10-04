@@ -25,10 +25,8 @@ amendments:
 status: stub
 published: false
 source_doc: jmalayanras-156-linehan-ancienttiningots-1951-3b4f844b63f1
-source_path: ../sources/jmalayanras-156-linehan-ancienttiningots-1951-3b4f844b63f1/appendix.md
+source_path: ../sources/jmalayanras-156-linehan-ancienttiningots-1951-3b4f844b63f1/frontmatter.md
 ---
-
-
 # Ancient tin ingots in the Perak Museum
 
 > **Notice of Subsequent Amendments:**

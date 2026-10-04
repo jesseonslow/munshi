@@ -19,10 +19,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-249-massard-newbornmalaychild-1985-5007d665c632
-source_path: ../sources/jmbras-249-massard-newbornmalaychild-1985-5007d665c632/references.md
+source_path: ../sources/jmbras-249-massard-newbornmalaychild-1985-5007d665c632/frontmatter.md
 ---
-
-
 # The new-born Malay child: a multiple identity being
 
 ## Summary

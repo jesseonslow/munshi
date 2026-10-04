@@ -19,10 +19,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmalayanras-185-simmonds-archerysoutheast-1959-9ea71349e80d
-source_path: ../sources/jmalayanras-185-simmonds-archerysoutheast-1959-9ea71349e80d/references.md
+source_path: ../sources/jmalayanras-185-simmonds-archerysoutheast-1959-9ea71349e80d/frontmatter.md
 ---
-
-
 # Archery in South-east Asia and the Pacific
 
 ## Summary

@@ -19,10 +19,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-238-sather-symbolicelementssaribas-1980-058aacad8569
-source_path: ../sources/jmbras-238-sather-symbolicelementssaribas-1980-058aacad8569/references.md
+source_path: ../sources/jmbras-238-sather-symbolicelementssaribas-1980-058aacad8569/frontmatter.md
 ---
-
-
 # Symbolic elements in Saribas Iban rites of padi storage
 
 ## Summary

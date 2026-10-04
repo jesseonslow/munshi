@@ -19,10 +19,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmalayanras-144-gibsonhill-islandnorthkeeling-1948-518d15a15991
-source_path: ../sources/jmalayanras-144-gibsonhill-islandnorthkeeling-1948-518d15a15991/appendix.md
+source_path: ../sources/jmalayanras-144-gibsonhill-islandnorthkeeling-1948-518d15a15991/frontmatter.md
 ---
-
-
 # Notes on Malay subjects
 
 ## Summary

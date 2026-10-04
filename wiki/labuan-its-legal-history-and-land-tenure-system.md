@@ -20,10 +20,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-296-begum-labuanlegalhistory-2009-2df2f03d18c8
-source_path: ../sources/jmbras-296-begum-labuanlegalhistory-2009-2df2f03d18c8/appendix.md
+source_path: ../sources/jmbras-296-begum-labuanlegalhistory-2009-2df2f03d18c8/frontmatter.md
 ---
-
-
 # Labuan: its legal history and land tenure system
 
 ## Summary

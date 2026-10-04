@@ -19,10 +19,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-208-harrison-numbersmammalsmalaysian-1965-cd872deb1774
-source_path: ../sources/jmbras-208-harrison-numbersmammalsmalaysian-1965-cd872deb1774/references.md
+source_path: ../sources/jmbras-208-harrison-numbersmammalsmalaysian-1965-cd872deb1774/frontmatter.md
 ---
-
-
 # Numbers of mammals on the Malaysian islands
 
 ## Summary

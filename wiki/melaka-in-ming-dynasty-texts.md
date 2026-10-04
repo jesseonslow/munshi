@@ -19,7 +19,7 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-272-wade-melakamingdynasty-1997-bc9ae5755d84
-source_path: ../sources/jmbras-272-wade-melakamingdynasty-1997-bc9ae5755d84/appendix.md
+source_path: ../sources/jmbras-272-wade-melakamingdynasty-1997-bc9ae5755d84/frontmatter.md
 ---
 # Melaka in Ming dynasty texts
 

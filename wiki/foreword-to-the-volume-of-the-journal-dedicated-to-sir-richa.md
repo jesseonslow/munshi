@@ -19,10 +19,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmalayanras-128-hardy-cataloquechurchrecords-1937-7d31870ccf72
-source_path: ../sources/jmalayanras-128-hardy-cataloquechurchrecords-1937-7d31870ccf72/appendix.md
+source_path: ../sources/jmalayanras-128-hardy-cataloquechurchrecords-1937-7d31870ccf72/frontmatter.md
 ---
-
-
 # Foreword {to the volume of the journal dedicated to Sir Richard Winstedt
 
 ## Summary

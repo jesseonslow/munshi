@@ -19,10 +19,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-272-ong-bridgebuilderdrthio-1997-c0ea46af1979
-source_path: ../sources/jmbras-272-ong-bridgebuilderdrthio-1997-c0ea46af1979/appendix.md
+source_path: ../sources/jmbras-272-ong-bridgebuilderdrthio-1997-c0ea46af1979/frontmatter.md
 ---
-
-
 # A bridge-builder. Dr Thio Chan Bee (1904–1978)
 
 ## Summary

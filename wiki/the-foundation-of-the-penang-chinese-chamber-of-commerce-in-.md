@@ -21,10 +21,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-290-kaori-foundationpenangchinese-2006-f49a0c9e7eee
-source_path: ../sources/jmbras-290-kaori-foundationpenangchinese-2006-f49a0c9e7eee/references.md
+source_path: ../sources/jmbras-290-kaori-foundationpenangchinese-2006-f49a0c9e7eee/frontmatter.md
 ---
-
-
 # The foundation of the Penang Chinese Chamber of Commerce in 1903: Protecting Chinese business interests in the two states
 
 ## Summary

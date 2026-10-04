@@ -34,10 +34,8 @@ keywords:
 - Gunung Tahan
 - Cameron Highlands
 source_doc: wilson-colonial-birding-in-the-thai-malay-peninsula-2e8bb548a806
-source_path: ../sources/wilson-colonial-birding-in-the-thai-malay-peninsula-2e8bb548a806/references.md
+source_path: ../sources/wilson-colonial-birding-in-the-thai-malay-peninsula-2e8bb548a806/frontmatter.md
 ---
-
-
 # Colonial birding in the Thai-Malay Peninsula: Birds from the Selangor Museum now in World Museum, Liverpool
 
 ## Abstract

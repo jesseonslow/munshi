@@ -19,10 +19,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jsbras-053-hunter-plantsprincewales-1909-b9cfdf3dc7d7
-source_path: ../sources/jsbras-053-hunter-plantsprincewales-1909-b9cfdf3dc7d7/appendix.md
+source_path: ../sources/jsbras-053-hunter-plantsprincewales-1909-b9cfdf3dc7d7/frontmatter.md
 ---
-
-
 # Ahmat Majanu’s tombstone at Pengkalan Kempas and its Kawi inscription,
 
 ## Summary

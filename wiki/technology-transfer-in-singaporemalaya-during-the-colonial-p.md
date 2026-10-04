@@ -21,10 +21,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-285-drabble-technologytransfersingaporemalaya-2003-38db16011c24
-source_path: ../sources/jmbras-285-drabble-technologytransfersingaporemalaya-2003-38db16011c24/references.md
+source_path: ../sources/jmbras-285-drabble-technologytransfersingaporemalaya-2003-38db16011c24/frontmatter.md
 ---
-
-
 # Technology transfer in Singapore/Malaya during the colonial period: some further comments
 
 ## Summary

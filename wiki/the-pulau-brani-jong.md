@@ -19,10 +19,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-251-alfred-pulaubranijong-1986-bb7bd8bf5f14
-source_path: ../sources/jmbras-251-alfred-pulaubranijong-1986-bb7bd8bf5f14/references.md
+source_path: ../sources/jmbras-251-alfred-pulaubranijong-1986-bb7bd8bf5f14/frontmatter.md
 ---
-
-
 # The Pulau Brani Jong
 
 ## Summary

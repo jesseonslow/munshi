@@ -19,10 +19,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-270-tate-plantingnineteenthcentury-1996-9d66e9b9f590
-source_path: ../sources/jmbras-270-tate-plantingnineteenthcentury-1996-9d66e9b9f590/references.md
+source_path: ../sources/jmbras-270-tate-plantingnineteenthcentury-1996-9d66e9b9f590/frontmatter.md
 ---
-
-
 # Planting in nineteenth century Sabah and Sarawak
 
 ## Summary

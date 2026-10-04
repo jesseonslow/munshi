@@ -19,10 +19,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-311-phillips-borneohistory-2016-ee1b5509797a
-source_path: ../sources/jmbras-311-phillips-borneohistory-2016-ee1b5509797a/references.md
+source_path: ../sources/jmbras-311-phillips-borneohistory-2016-ee1b5509797a/frontmatter.md
 ---
-
-
 # Borneo history: time for a new look?
 
 ## Summary

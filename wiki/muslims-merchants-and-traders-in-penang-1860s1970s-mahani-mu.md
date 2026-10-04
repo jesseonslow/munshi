@@ -22,10 +22,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-305-musa-muslimmerchantstraders-2013-67ee09207402
-source_path: ../sources/jmbras-305-musa-muslimmerchantstraders-2013-67ee09207402/references.md
+source_path: ../sources/jmbras-305-musa-muslimmerchantstraders-2013-67ee09207402/frontmatter.md
 ---
-
-
 # Muslims merchants and traders in Penang, 1860s–1970s. Mahani Musa and Badriyah Haji Salleh
 
 ## Summary

@@ -27,10 +27,8 @@ keywords:
 - war and revolution
 - female defectors
 source_doc: musa-i-want-to-live-9d3b24ec75e8
-source_path: ../sources/musa-i-want-to-live-9d3b24ec75e8/references.md
+source_path: ../sources/musa-i-want-to-live-9d3b24ec75e8/frontmatter.md
 ---
-
-
 # 'I Want to Live': Malayan Communist Party Struggles as Seen by Female Defectors
 
 ## Abstract

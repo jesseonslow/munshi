@@ -19,10 +19,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-220-harrisson-prehistoricdoublespoutedvessels-1971-a9d87225fd0c
-source_path: ../sources/jmbras-220-harrisson-prehistoricdoublespoutedvessels-1971-a9d87225fd0c/appendix.md
+source_path: ../sources/jmbras-220-harrisson-prehistoricdoublespoutedvessels-1971-a9d87225fd0c/frontmatter.md
 ---
-
-
 # Prehistoric double-spouted vessels excavated from Niah Caves, Borneo
 
 ## Summary

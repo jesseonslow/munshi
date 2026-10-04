@@ -19,10 +19,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-250-miksic-valleymegalithswest-1986-b7e3940c1850
-source_path: ../sources/jmbras-250-miksic-valleymegalithswest-1986-b7e3940c1850/bibliography.md
+source_path: ../sources/jmbras-250-miksic-valleymegalithswest-1986-b7e3940c1850/frontmatter.md
 ---
-
-
 # An account of a botanical expedition to Lower Siam
 
 ## Summary

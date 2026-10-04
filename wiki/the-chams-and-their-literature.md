@@ -19,10 +19,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-249-marrison-chamsliterature-1985-25207936b0a1
-source_path: ../sources/jmbras-249-marrison-chamsliterature-1985-25207936b0a1/appendix.md
+source_path: ../sources/jmbras-249-marrison-chamsliterature-1985-25207936b0a1/frontmatter.md
 ---
-
-
 # The Chams and their literature
 
 ## Summary

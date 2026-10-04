@@ -20,10 +20,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmalayanras-161-gibsonhill-notesoldcannon-1953-d4d17625246c
-source_path: ../sources/jmalayanras-161-gibsonhill-notesoldcannon-1953-d4d17625246c/references.md
+source_path: ../sources/jmalayanras-161-gibsonhill-notesoldcannon-1953-d4d17625246c/frontmatter.md
 ---
-
-
 # Notes on the old cannon found in Malaya, and known to be of Dutch origin
 
 ## Summary

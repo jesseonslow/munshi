@@ -19,10 +19,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-262-daniel-diversityamongindian-1992-fb6a66146da3
-source_path: ../sources/jmbras-262-daniel-diversityamongindian-1992-fb6a66146da3/appendix.md
+source_path: ../sources/jmbras-262-daniel-diversityamongindian-1992-fb6a66146da3/frontmatter.md
 ---
-
-
 # Diversity among Indian Christians in Peninsular Malaysia
 
 ## Summary

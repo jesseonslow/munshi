@@ -25,10 +25,8 @@ amendments:
 status: stub
 published: false
 source_doc: jmbras-269-lum-historymalaysianbranch-1995-c0daa7ad64b2
-source_path: ../sources/jmbras-269-lum-historymalaysianbranch-1995-c0daa7ad64b2/bibliography.md
+source_path: ../sources/jmbras-269-lum-historymalaysianbranch-1995-c0daa7ad64b2/frontmatter.md
 ---
-
-
 # History of the Malaysian Branch of the Royal Asiatic Society
 
 > **Notice of Subsequent Amendments:**

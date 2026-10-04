@@ -19,10 +19,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-310-chen-minorityvoicesdominant-2016-fd4db340da90
-source_path: ../sources/jmbras-310-chen-minorityvoicesdominant-2016-fd4db340da90/references.md
+source_path: ../sources/jmbras-310-chen-minorityvoicesdominant-2016-fd4db340da90/frontmatter.md
 ---
-
-
 # Minority voices and dominant structures: the case of Amos Yee
 
 ## Summary

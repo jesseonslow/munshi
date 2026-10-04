@@ -21,10 +21,8 @@ amendments: []
 status: stub
 published: false
 source_doc: lim-sixteen-naked-indians-1863829b8940
-source_path: ../sources/lim-sixteen-naked-indians-1863829b8940/references.md
+source_path: ../sources/lim-sixteen-naked-indians-1863829b8940/frontmatter.md
 ---
-
-
 # 'Sixteen Naked Indians': First Contact between the British and the Orang Asli
 
 ## Abstract

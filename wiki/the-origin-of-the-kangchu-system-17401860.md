@@ -19,10 +19,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-230-trocki-originskangchusystem-1976-b03611190379
-source_path: ../sources/jmbras-230-trocki-originskangchusystem-1976-b03611190379/appendix.md
+source_path: ../sources/jmbras-230-trocki-originskangchusystem-1976-b03611190379/frontmatter.md
 ---
-
-
 # The origin of the kangchu system, 1740–1860
 
 ## Summary

@@ -21,10 +21,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmalayanras-170-macgregor-johorelamasixteenth-1955-d63fb721d58c
-source_path: ../sources/jmalayanras-170-macgregor-johorelamasixteenth-1955-d63fb721d58c/appendix.md
+source_path: ../sources/jmalayanras-170-macgregor-johorelamasixteenth-1955-d63fb721d58c/frontmatter.md
 ---
-
-
 # Johore Lama in the sixteenth century. {In Papers on Johore Lama and the Portuguese in Malaya (1511–1641
 
 ## Summary

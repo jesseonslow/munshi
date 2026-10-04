@@ -20,10 +20,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-247-riddell-sourcesabdalrafs-1984-f94362192466
-source_path: ../sources/jmbras-247-riddell-sourcesabdalrafs-1984-f94362192466/bibliography.md
+source_path: ../sources/jmbras-247-riddell-sourcesabdalrafs-1984-f94362192466/frontmatter.md
 ---
-
-
 # The sources of Abd’ Al-Rauf ‘s Tarjumān Al-Mustafid
 
 ## Summary

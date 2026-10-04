@@ -21,10 +21,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-297-lewis-printcolonialport-2009-1ad2a92dbdc7
-source_path: ../sources/jmbras-297-lewis-printcolonialport-2009-1ad2a92dbdc7/references.md
+source_path: ../sources/jmbras-297-lewis-printcolonialport-2009-1ad2a92dbdc7/frontmatter.md
 ---
-
-
 # Print and colonial port cultures of the Indian Ocean littorals: Penang and Rangoon
 
 ## Summary

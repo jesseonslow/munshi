@@ -19,10 +19,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-232-dodge-mineralproductioneast-1977-ade18bef792f
-source_path: ../sources/jmbras-232-dodge-mineralproductioneast-1977-ade18bef792f/references.md
+source_path: ../sources/jmbras-232-dodge-mineralproductioneast-1977-ade18bef792f/frontmatter.md
 ---
-
-
 # Mineral production on the east coast of Malaya in the nineteenth century
 
 ## Summary

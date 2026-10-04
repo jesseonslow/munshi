@@ -23,10 +23,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmalayanras-100-chasen-listreptilespulau-1927-b4c3e4fa635b
-source_path: ../sources/jmalayanras-100-chasen-listreptilespulau-1927-b4c3e4fa635b/references.md
+source_path: ../sources/jmalayanras-100-chasen-listreptilespulau-1927-b4c3e4fa635b/frontmatter.md
 ---
-
-
 # A list of reptiles from Pulau Galang and other islands of the Rhio Archipelago. F.N. Chasen and N. Smedley. Records of the Raffles Museum, No. 30
 
 ## Summary

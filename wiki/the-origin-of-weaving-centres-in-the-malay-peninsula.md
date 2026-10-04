@@ -19,10 +19,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-268-mohamed-originsweavingcentres-1995-a451fcaf1d8a
-source_path: ../sources/jmbras-268-mohamed-originsweavingcentres-1995-a451fcaf1d8a/references.md
+source_path: ../sources/jmbras-268-mohamed-originsweavingcentres-1995-a451fcaf1d8a/frontmatter.md
 ---
-
-
 # The origin of weaving centres in the Malay Peninsula
 
 ## Summary

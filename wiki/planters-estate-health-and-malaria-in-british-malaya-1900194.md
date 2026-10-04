@@ -19,10 +19,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-298-khiun-plantersestatehealth-2010-9ad2fb6a33ef
-source_path: ../sources/jmbras-298-khiun-plantersestatehealth-2010-9ad2fb6a33ef/references.md
+source_path: ../sources/jmbras-298-khiun-plantersestatehealth-2010-9ad2fb6a33ef/frontmatter.md
 ---
-
-
 # Planters, estate health and malaria in British Malaya (1900‒1940
 
 ## Summary

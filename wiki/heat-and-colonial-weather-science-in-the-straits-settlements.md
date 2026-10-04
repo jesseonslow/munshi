@@ -25,10 +25,8 @@ keywords:
 - meteorology
 - weather
 source_doc: williamson-heat-and-colonial-weather-science-08dafcc0bb8e
-source_path: ../sources/williamson-heat-and-colonial-weather-science-08dafcc0bb8e/bibliography.md
+source_path: ../sources/williamson-heat-and-colonial-weather-science-08dafcc0bb8e/frontmatter.md
 ---
-
-
 # Heat and Colonial Weather Science in the Straits Settlements, c. 1820–1900
 
 ## Abstract

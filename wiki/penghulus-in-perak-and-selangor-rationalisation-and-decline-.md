@@ -21,10 +21,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-247-kratoska-penghulusperakselangor-1984-21e94af04d61
-source_path: ../sources/jmbras-247-kratoska-penghulusperakselangor-1984-21e94af04d61/appendix.md
+source_path: ../sources/jmbras-247-kratoska-penghulusperakselangor-1984-21e94af04d61/frontmatter.md
 ---
-
-
 # Penghulus in Perak and Selangor: rationalisation and decline of a traditional Malay office
 
 ## Summary

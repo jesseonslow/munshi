@@ -20,10 +20,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-314-wyhe-wallaceshelp-2018-f67201d7552d
-source_path: ../sources/jmbras-314-wyhe-wallaceshelp-2018-f67201d7552d/references.md
+source_path: ../sources/jmbras-314-wyhe-wallaceshelp-2018-f67201d7552d/frontmatter.md
 ---
-
-
 # Wallace’s help: the many people who aided A. R. Wallace in the Malay archipelago
 
 ## Summary

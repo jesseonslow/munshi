@@ -19,10 +19,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmalayanras-197-bagoo-origindevelopmentmalay-1962-da5570cf136a
-source_path: ../sources/jmalayanras-197-bagoo-origindevelopmentmalay-1962-da5570cf136a/appendix.md
+source_path: ../sources/jmalayanras-197-bagoo-origindevelopmentmalay-1962-da5570cf136a/frontmatter.md
 ---
-
-
 # The origin and development of the Malay States Guides
 
 ## Summary

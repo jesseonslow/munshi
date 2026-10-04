@@ -20,10 +20,8 @@ amendments: []
 status: stub
 published: false
 source_doc: sheppard-kratoska-reflections-on-the-journal-15324637d5c6
-source_path: ../sources/sheppard-kratoska-reflections-on-the-journal-15324637d5c6/bibliography.md
+source_path: ../sources/sheppard-kratoska-reflections-on-the-journal-15324637d5c6/frontmatter.md
 ---
-
-
 # Dato Haji Mubin Sheppard. With a note P. Kratoska
 
 ## Summary

@@ -20,10 +20,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-310-yee-individualstatenarratives-2016-e4563cd70895
-source_path: ../sources/jmbras-310-yee-individualstatenarratives-2016-e4563cd70895/references.md
+source_path: ../sources/jmbras-310-yee-individualstatenarratives-2016-e4563cd70895/frontmatter.md
 ---
-
-
 # Individual and state narratives of Lee Kuan Yew as ancestor and founding father
 
 ## Summary

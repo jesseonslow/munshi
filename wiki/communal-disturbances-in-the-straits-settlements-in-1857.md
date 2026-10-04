@@ -19,10 +19,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmalayanras-181-turnbull-communaldisturbancesstraits-1958-4da1c7c88062
-source_path: ../sources/jmalayanras-181-turnbull-communaldisturbancesstraits-1958-4da1c7c88062/bibliography.md
+source_path: ../sources/jmalayanras-181-turnbull-communaldisturbancesstraits-1958-4da1c7c88062/frontmatter.md
 ---
-
-
 # Communal disturbances in the Straits Settlements in 1857
 
 ## Summary

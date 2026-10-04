@@ -20,10 +20,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-249-hall-openingmalayworld-1985-12b3cc339d8d
-source_path: ../sources/jmbras-249-hall-openingmalayworld-1985-12b3cc339d8d/appendix.md
+source_path: ../sources/jmbras-249-hall-openingmalayworld-1985-12b3cc339d8d/frontmatter.md
 ---
-
-
 # The opening of the Malay world to European trade in the sixteenth century
 
 ## Summary

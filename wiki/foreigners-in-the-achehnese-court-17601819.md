@@ -19,10 +19,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-217-hing-foreignersachehnesecourt-1970-1a6e668181f3
-source_path: ../sources/jmbras-217-hing-foreignersachehnesecourt-1970-1a6e668181f3/appendix.md
+source_path: ../sources/jmbras-217-hing-foreignersachehnesecourt-1970-1a6e668181f3/frontmatter.md
 ---
-
-
 # Foreigners in the Achehnese court, 1760–1819
 
 ## Summary

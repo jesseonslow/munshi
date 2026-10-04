@@ -19,10 +19,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-290-yaakob-malaysiancensus2000-2006-735fb989ce05
-source_path: ../sources/jmbras-290-yaakob-malaysiancensus2000-2006-735fb989ce05/references.md
+source_path: ../sources/jmbras-290-yaakob-malaysiancensus2000-2006-735fb989ce05/frontmatter.md
 ---
-
-
 # The Malaysian census 2000: characteristics and critical issues
 
 ## Summary

@@ -19,10 +19,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-283-gullick-cavenaghpapers-2002-16ef42e8d56a
-source_path: ../sources/jmbras-283-gullick-cavenaghpapers-2002-16ef42e8d56a/references.md
+source_path: ../sources/jmbras-283-gullick-cavenaghpapers-2002-16ef42e8d56a/frontmatter.md
 ---
-
-
 # The Cavenagh papers
 
 ## Summary

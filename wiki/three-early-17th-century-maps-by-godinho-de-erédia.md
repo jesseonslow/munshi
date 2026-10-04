@@ -19,10 +19,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-317-borschberg-threeearly17thcentury-2019-ec0fe96dc7ea
-source_path: ../sources/jmbras-317-borschberg-threeearly17thcentury-2019-ec0fe96dc7ea/references.md
+source_path: ../sources/jmbras-317-borschberg-threeearly17thcentury-2019-ec0fe96dc7ea/frontmatter.md
 ---
-
-
 # Three early 17th-century maps by Godinho de Erédia
 
 ## Summary

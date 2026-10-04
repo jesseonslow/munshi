@@ -19,10 +19,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-319-putten-literaryagentsmalay-2020-d63a88c7471f
-source_path: ../sources/jmbras-319-putten-literaryagentsmalay-2020-d63a88c7471f/references.md
+source_path: ../sources/jmbras-319-putten-literaryagentsmalay-2020-d63a88c7471f/frontmatter.md
 ---
-
-
 # Sovereign signs: titles of kingship on Malay seals
 
 ## Summary

@@ -22,10 +22,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-315-rosman-wakketokquest-2018-bb51efa826b1
-source_path: ../sources/jmbras-315-rosman-wakketokquest-2018-bb51efa826b1/references.md
+source_path: ../sources/jmbras-315-rosman-wakketokquest-2018-bb51efa826b1/frontmatter.md
 ---
-
-
 # Wak Ketok and the quest for Malay identity in 1930s Malaya. Razan Rosman and Sarena Abdullah
 
 ## Summary

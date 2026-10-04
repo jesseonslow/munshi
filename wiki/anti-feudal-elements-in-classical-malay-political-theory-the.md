@@ -20,10 +20,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-314-alatas-antifeudalelementsclassical-2018-3590ae631bd9
-source_path: ../sources/jmbras-314-alatas-antifeudalelementsclassical-2018-3590ae631bd9/references.md
+source_path: ../sources/jmbras-314-alatas-antifeudalelementsclassical-2018-3590ae631bd9/frontmatter.md
 ---
-
-
 # Anti-feudal elements in classical Malay political theory: the Taj al-Salatin
 
 ## Summary

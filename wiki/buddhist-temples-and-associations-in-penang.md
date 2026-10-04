@@ -19,10 +19,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-256-khin-buddhisttemplesassociations-1989-cc86bf7e5f36
-source_path: ../sources/jmbras-256-khin-buddhisttemplesassociations-1989-cc86bf7e5f36/bibliography.md
+source_path: ../sources/jmbras-256-khin-buddhisttemplesassociations-1989-cc86bf7e5f36/frontmatter.md
 ---
-
-
 # Buddhist temples and associations in Penang
 
 ## Summary

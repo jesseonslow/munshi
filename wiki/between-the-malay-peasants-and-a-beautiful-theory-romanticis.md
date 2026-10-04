@@ -21,10 +21,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-287-pakri-malaypeasantsbeautiful-2004-e6c838986af7
-source_path: ../sources/jmbras-287-pakri-malaypeasantsbeautiful-2004-e6c838986af7/references.md
+source_path: ../sources/jmbras-287-pakri-malaypeasantsbeautiful-2004-e6c838986af7/frontmatter.md
 ---
-
-
 # Between the Malay peasants and a beautiful theory: romanticism and the imperialist agenda in Hugh Clifford’s early fiction
 
 ## Summary

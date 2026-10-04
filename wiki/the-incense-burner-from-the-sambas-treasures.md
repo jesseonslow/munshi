@@ -19,10 +19,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmalayanras-150-seong-incenseburnersambas-1949-1d76458fb20c
-source_path: ../sources/jmalayanras-150-seong-incenseburnersambas-1949-1d76458fb20c/references.md
+source_path: ../sources/jmalayanras-150-seong-incenseburnersambas-1949-1d76458fb20c/frontmatter.md
 ---
-
-
 # The incense burner from the Sambas treasures
 
 ## Summary

@@ -19,10 +19,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmalayanras-140-dickinson-historycreationmalacca-1941-50c672f776b1
-source_path: ../sources/jmalayanras-140-dickinson-historycreationmalacca-1941-50c672f776b1/appendix.md
+source_path: ../sources/jmalayanras-140-dickinson-historycreationmalacca-1941-50c672f776b1/frontmatter.md
 ---
-
-
 # The history of the creation of the Malacca police
 
 ## Summary

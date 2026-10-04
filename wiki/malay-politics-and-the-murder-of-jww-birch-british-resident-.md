@@ -21,7 +21,7 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-274-kheng-malaypoliticsmurder-1998-1054a83e98cc
-source_path: ../sources/jmbras-274-kheng-malaypoliticsmurder-1998-1054a83e98cc/bibliography.md
+source_path: ../sources/jmbras-274-kheng-malaypoliticsmurder-1998-1054a83e98cc/frontmatter.md
 ---
 # Malay politics and the murder of J.W.W. Birch, British Resident in Perak in 1875. The humiliation and revenge of the Maharaja Lela
 

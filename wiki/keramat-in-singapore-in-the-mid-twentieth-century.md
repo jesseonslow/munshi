@@ -19,10 +19,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-285-rivers-keramatsingaporemidtwentieth-2003-90baa1e96591
-source_path: ../sources/jmbras-285-rivers-keramatsingaporemidtwentieth-2003-90baa1e96591/appendix.md
+source_path: ../sources/jmbras-285-rivers-keramatsingaporemidtwentieth-2003-90baa1e96591/frontmatter.md
 ---
-
-
 # Keramat in Singapore in the mid-twentieth century
 
 ## Summary

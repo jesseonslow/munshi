@@ -19,10 +19,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jsbras-045-maxwell-mantragajah-1906-f808e212eda6
-source_path: ../sources/jsbras-045-maxwell-mantragajah-1906-f808e212eda6/appendix.md
+source_path: ../sources/jsbras-045-maxwell-mantragajah-1906-f808e212eda6/frontmatter.md
 ---
-
-
 # Singapore in the remote past. Il
 
 ## Summary

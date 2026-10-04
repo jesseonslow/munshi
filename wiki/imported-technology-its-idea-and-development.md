@@ -19,10 +19,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-274-boon-importedtechnologyidea-1998-47c9faa5e879
-source_path: ../sources/jmbras-274-boon-importedtechnologyidea-1998-47c9faa5e879/bibliography.md
+source_path: ../sources/jmbras-274-boon-importedtechnologyidea-1998-47c9faa5e879/frontmatter.md
 ---
-
-
 # Imported technology; its idea and development
 
 ## Summary

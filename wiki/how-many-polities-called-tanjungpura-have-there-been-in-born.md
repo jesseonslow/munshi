@@ -26,10 +26,8 @@ keywords:
 - Sarawak
 - oral history
 source_doc: smith-tanjungpura-528e94d2a84e
-source_path: ../sources/smith-tanjungpura-528e94d2a84e/references.md
+source_path: ../sources/smith-tanjungpura-528e94d2a84e/frontmatter.md
 ---
-
-
 # How Many Polities Called Tanjungpura Have There Been in Borneo?
 
 ## Abstract

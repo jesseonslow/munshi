@@ -21,10 +21,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-319-kueh-malaybugismanuscripts-2020-0f320c08be8a
-source_path: ../sources/jmbras-319-kueh-malaybugismanuscripts-2020-0f320c08be8a/references.md
+source_path: ../sources/jmbras-319-kueh-malaybugismanuscripts-2020-0f320c08be8a/frontmatter.md
 ---
-
-
 # Malay and Bugis manuscripts and early printed books at the Library of Congress: An Update
 
 ## Summary

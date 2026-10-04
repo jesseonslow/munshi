@@ -19,10 +19,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-288-wade-zhengvoyagesreassessment-2005-15ac1022d1b2
-source_path: ../sources/jmbras-288-wade-zhengvoyagesreassessment-2005-15ac1022d1b2/references.md
+source_path: ../sources/jmbras-288-wade-zhengvoyagesreassessment-2005-15ac1022d1b2/frontmatter.md
 ---
-
-
 # Chinese secret societies
 
 ## Summary

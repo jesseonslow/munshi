@@ -19,10 +19,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-295-reece-mydeartreasurer-2008-2514dc0dc43e
-source_path: ../sources/jmbras-295-reece-mydeartreasurer-2008-2514dc0dc43e/references.md
+source_path: ../sources/jmbras-295-reece-mydeartreasurer-2008-2514dc0dc43e/frontmatter.md
 ---
-
-
 # The making of a monarch: Raja Muda Sulaiman of Selangor 1865-98
 
 ## Summary

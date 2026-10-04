@@ -19,10 +19,8 @@ amendments: []
 status: stub
 published: false
 source_doc: raja-thamboosamy-pillai-and-the-colonial-elite-171db612b176
-source_path: ../sources/raja-thamboosamy-pillai-and-the-colonial-elite-171db612b176/references.md
+source_path: ../sources/raja-thamboosamy-pillai-and-the-colonial-elite-171db612b176/frontmatter.md
 ---
-
-
 # Thamboosamy Pillai and the Colonial Elite of British Malaya
 
 ## Summary

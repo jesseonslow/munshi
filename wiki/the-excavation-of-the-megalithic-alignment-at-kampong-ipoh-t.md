@@ -22,10 +22,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-242-taha-excavationmegalithicalignment-1982-91eb0896b6ba
-source_path: ../sources/jmbras-242-taha-excavationmegalithicalignment-1982-91eb0896b6ba/references.md
+source_path: ../sources/jmbras-242-taha-excavationmegalithicalignment-1982-91eb0896b6ba/frontmatter.md
 ---
-
-
 # The excavation of the megalithic alignment at Kampong Ipoh, Tampin, Negri Sembilan: a note. Adi Haji Taha and Abdul Jalil Osman
 
 ## Summary

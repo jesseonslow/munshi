@@ -19,10 +19,8 @@ amendments: []
 status: stub
 published: false
 source_doc: wilson-colonial-birding-in-the-thai-malay-peninsula-2e8bb548a806
-source_path: ../sources/wilson-colonial-birding-in-the-thai-malay-peninsula-2e8bb548a806/references.md
+source_path: ../sources/wilson-colonial-birding-in-the-thai-malay-peninsula-2e8bb548a806/frontmatter.md
 ---
-
-
 # A Brunei code
 
 ## Summary

@@ -21,10 +21,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-294-ali-boogokboogokwingedboat-2008-630bb32a95f7
-source_path: ../sources/jmbras-294-ali-boogokboogokwingedboat-2008-630bb32a95f7/references.md
+source_path: ../sources/jmbras-294-ali-boogokboogokwingedboat-2008-630bb32a95f7/frontmatter.md
 ---
-
-
 # ‘My dear treasurer’: Rajah Charles Brooke’s correspondence with F.H. Dallas, 1902-1917
 
 ## Summary

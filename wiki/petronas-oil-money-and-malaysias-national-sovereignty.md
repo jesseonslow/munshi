@@ -25,10 +25,8 @@ keywords:
 - Fortune 500
 - Malaysia
 source_doc: yacob-petronas-oil-money-6a24f7a3f5b7
-source_path: ../sources/yacob-petronas-oil-money-6a24f7a3f5b7/references.md
+source_path: ../sources/yacob-petronas-oil-money-6a24f7a3f5b7/frontmatter.md
 ---
-
-
 # PETRONAS, Oil Money, and Malaysia's National Sovereignty
 
 ## Abstract

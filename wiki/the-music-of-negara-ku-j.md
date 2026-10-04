@@ -20,10 +20,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-273-harding-musicnegaraku-1997-72fe303dfe23
-source_path: ../sources/jmbras-273-harding-musicnegaraku-1997-72fe303dfe23/references.md
+source_path: ../sources/jmbras-273-harding-musicnegaraku-1997-72fe303dfe23/frontmatter.md
 ---
-
-
 # The music of Negara-Ku. J
 
 ## Summary

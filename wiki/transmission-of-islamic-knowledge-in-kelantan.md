@@ -19,10 +19,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-291-ali-transmissionislamicknowledge-2006-41a2a0858dcf
-source_path: ../sources/jmbras-291-ali-transmissionislamicknowledge-2006-41a2a0858dcf/references.md
+source_path: ../sources/jmbras-291-ali-transmissionislamicknowledge-2006-41a2a0858dcf/frontmatter.md
 ---
-
-
 # Transmission of Islamic knowledge in Kelantan
 
 ## Summary

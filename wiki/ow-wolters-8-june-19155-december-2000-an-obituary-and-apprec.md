@@ -19,10 +19,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-280-hooker-owwolters-2001-9cbdd91113b4
-source_path: ../sources/jmbras-280-hooker-owwolters-2001-9cbdd91113b4/references.md
+source_path: ../sources/jmbras-280-hooker-owwolters-2001-9cbdd91113b4/frontmatter.md
 ---
-
-
 # O.W. Wolters (8 June 1915–5 December 2000): an obituary and appreciation,
 
 ## Summary

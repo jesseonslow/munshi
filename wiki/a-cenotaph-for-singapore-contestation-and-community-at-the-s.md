@@ -21,10 +21,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-309-eaton-cenotaphsingapore-2015-05c5cf18c67f
-source_path: ../sources/jmbras-309-eaton-cenotaphsingapore-2015-05c5cf18c67f/references.md
+source_path: ../sources/jmbras-309-eaton-cenotaphsingapore-2015-05c5cf18c67f/frontmatter.md
 ---
-
-
 # A cenotaph for Singapore: contestation and community at the Straits Settlements war memorial
 
 ## Summary

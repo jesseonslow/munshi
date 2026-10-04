@@ -19,10 +19,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-278-barlow-francislightssilver-2000-2a664e3e9e46
-source_path: ../sources/jmbras-278-barlow-francislightssilver-2000-2a664e3e9e46/references.md
+source_path: ../sources/jmbras-278-barlow-francislightssilver-2000-2a664e3e9e46/frontmatter.md
 ---
-
-
 # Francis Light’s “Silver Bason”?
 
 ## Summary

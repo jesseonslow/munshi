@@ -28,10 +28,8 @@ keywords:
 - Campa
 - Cambodia
 source_doc: weber-malays-in-the-indochinese-peninsula-cc2fdb73e188
-source_path: ../sources/weber-malays-in-the-indochinese-peninsula-cc2fdb73e188/bibliography.md
+source_path: ../sources/weber-malays-in-the-indochinese-peninsula-cc2fdb73e188/frontmatter.md
 ---
-
-
 # Malays in the Indochinese Peninsula: The Rise and Fall of a 'Tuan' in Precolonial Mainland Southeast Asia
 
 ## Abstract

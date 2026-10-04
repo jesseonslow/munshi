@@ -21,10 +21,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-313-dyer-singaporeca1859-2017-719b702773ce
-source_path: ../sources/jmbras-313-dyer-singaporeca1859-2017-719b702773ce/references.md
+source_path: ../sources/jmbras-313-dyer-singaporeca1859-2017-719b702773ce/frontmatter.md
 ---
-
-
 # Singapore ca. 1859, as seen by Colonel Henri de Ponchalon. . Dyer; with an introd. and notes
 
 ## Summary

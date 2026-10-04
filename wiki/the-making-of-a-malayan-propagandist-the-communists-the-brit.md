@@ -21,10 +21,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-278-ramakrishna-makingmalayanpropagandist-2000-5d80e1d9cc15
-source_path: ../sources/jmbras-278-ramakrishna-makingmalayanpropagandist-2000-5d80e1d9cc15/references.md
+source_path: ../sources/jmbras-278-ramakrishna-makingmalayanpropagandist-2000-5d80e1d9cc15/frontmatter.md
 ---
-
-
 # The making of a Malayan propagandist: the communists, the British and C.C. Too
 
 ## Summary

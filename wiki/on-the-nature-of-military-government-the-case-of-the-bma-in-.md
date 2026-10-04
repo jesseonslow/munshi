@@ -20,10 +20,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-291-gullick-naturemilitarygovernment-2006-eb8edc7a1d07
-source_path: ../sources/jmbras-291-gullick-naturemilitarygovernment-2006-eb8edc7a1d07/references.md
+source_path: ../sources/jmbras-291-gullick-naturemilitarygovernment-2006-eb8edc7a1d07/frontmatter.md
 ---
-
-
 # On the nature of military government: the case of the BMA in Negri Sembilan
 
 ## Summary

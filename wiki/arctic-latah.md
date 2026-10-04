@@ -19,10 +19,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmalayanras-088-omay-arcticlatah-1923-04adc24dde76
-source_path: ../sources/jmalayanras-088-omay-arcticlatah-1923-04adc24dde76/references.md
+source_path: ../sources/jmalayanras-088-omay-arcticlatah-1923-04adc24dde76/frontmatter.md
 ---
-
-
 # Arctic latah
 
 ## Summary

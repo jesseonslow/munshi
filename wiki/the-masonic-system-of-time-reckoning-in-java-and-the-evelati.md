@@ -22,10 +22,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-314-jordaan-masonicsystemtimereckoning-2018-3cc2afeb90bf
-source_path: ../sources/jmbras-314-jordaan-masonicsystemtimereckoning-2018-3cc2afeb90bf/references.md
+source_path: ../sources/jmbras-314-jordaan-masonicsystemtimereckoning-2018-3cc2afeb90bf/frontmatter.md
 ---
-
-
 # The masonic system of time-reckoning in Java and the evelation of Thomas Stamford Raffles as sovereign prince of the Rose Croix
 
 ## Summary

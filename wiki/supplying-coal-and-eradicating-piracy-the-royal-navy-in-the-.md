@@ -28,10 +28,8 @@ keywords:
 - Piracy
 - Coal
 source_doc: tham-supplying-coal-and-eradicating-piracy-c0aeee14ffcb
-source_path: ../sources/tham-supplying-coal-and-eradicating-piracy-c0aeee14ffcb/references.md
+source_path: ../sources/tham-supplying-coal-and-eradicating-piracy-c0aeee14ffcb/frontmatter.md
 ---
-
-
 # Supplying Coal and Eradicating Piracy: The Royal Navy in the Straits of Malacca, 1833–1880
 
 ## Abstract

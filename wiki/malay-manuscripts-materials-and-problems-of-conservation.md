@@ -19,10 +19,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-265-ming-malaymanuscriptsmaterials-1993-fb901081deae
-source_path: ../sources/jmbras-265-ming-malaymanuscriptsmaterials-1993-fb901081deae/appendix.md
+source_path: ../sources/jmbras-265-ming-malaymanuscriptsmaterials-1993-fb901081deae/frontmatter.md
 ---
-
-
 # Malay manuscripts: materials and problems of conservation
 
 ## Summary

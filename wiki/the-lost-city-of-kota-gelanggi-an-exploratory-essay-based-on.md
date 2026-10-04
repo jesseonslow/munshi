@@ -21,10 +21,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-287-chross-lostcitykota-2004-2dd2d6a002cb
-source_path: ../sources/jmbras-287-chross-lostcitykota-2004-2dd2d6a002cb/references.md
+source_path: ../sources/jmbras-287-chross-lostcitykota-2004-2dd2d6a002cb/frontmatter.md
 ---
-
-
 # The ‘lost city’ of Kota Gelanggi: an exploratory essay based on textual evidence and an excursion into ‘aerial archaeology’
 
 ## Summary

@@ -19,10 +19,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmalayanras-154-gibsonhill-notesmallboats-1951-bee86432f402
-source_path: ../sources/jmalayanras-154-gibsonhill-notesmallboats-1951-bee86432f402/references.md
+source_path: ../sources/jmalayanras-154-gibsonhill-notesmallboats-1951-bee86432f402/frontmatter.md
 ---
-
-
 # A note on the small boats of the Rhio and Lingga Archipelago
 
 ## Summary

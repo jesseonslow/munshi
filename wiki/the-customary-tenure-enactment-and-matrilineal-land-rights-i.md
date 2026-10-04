@@ -20,10 +20,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-310-mohamad-customarytenureenactment-2016-e8cd38f1f4b1
-source_path: ../sources/jmbras-310-mohamad-customarytenureenactment-2016-e8cd38f1f4b1/references.md
+source_path: ../sources/jmbras-310-mohamad-customarytenureenactment-2016-e8cd38f1f4b1/frontmatter.md
 ---
-
-
 # The customary tenure enactment and matrilineal land rights in Negeri Sembilan
 
 ## Summary

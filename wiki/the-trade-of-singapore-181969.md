@@ -19,10 +19,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jsbras-033-shelford-tripmtpenrissen-1900-0263d0d66ba9
-source_path: ../sources/jsbras-033-shelford-tripmtpenrissen-1900-0263d0d66ba9/appendix.md
+source_path: ../sources/jsbras-033-shelford-tripmtpenrissen-1900-0263d0d66ba9/frontmatter.md
 ---
-
-
 # The trade of Singapore, 1819–69
 
 ## Summary

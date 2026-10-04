@@ -19,10 +19,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-249-gullick-kedahreignsultan-1985-d6b9024245d8
-source_path: ../sources/jmbras-249-gullick-kedahreignsultan-1985-d6b9024245d8/appendix.md
+source_path: ../sources/jmbras-249-gullick-kedahreignsultan-1985-d6b9024245d8/frontmatter.md
 ---
-
-
 # Kedah in the reign of Sultan Ahmad Tajuddin II
 
 ## Summary

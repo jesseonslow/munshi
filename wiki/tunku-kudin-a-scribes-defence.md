@@ -19,10 +19,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-258-jin-tunkukudinscribes-1990-f6ad12dccf52
-source_path: ../sources/jmbras-258-jin-tunkukudinscribes-1990-f6ad12dccf52/appendix.md
+source_path: ../sources/jmbras-258-jin-tunkukudinscribes-1990-f6ad12dccf52/frontmatter.md
 ---
-
-
 # Tunku Kudin: a scribe’s defence
 
 ## Summary

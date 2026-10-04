@@ -19,10 +19,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-310-chin-immigrationcontrolmalayan-2016-2b967127cfa9
-source_path: ../sources/jmbras-310-chin-immigrationcontrolmalayan-2016-2b967127cfa9/references.md
+source_path: ../sources/jmbras-310-chin-immigrationcontrolmalayan-2016-2b967127cfa9/frontmatter.md
 ---
-
-
 # Immigration control during the Emergency
 
 ## Summary

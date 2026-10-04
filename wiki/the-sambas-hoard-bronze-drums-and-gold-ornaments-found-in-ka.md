@@ -20,10 +20,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-266-mckinnon-sambashoardbronze-1994-50b7f6318974
-source_path: ../sources/jmbras-266-mckinnon-sambashoardbronze-1994-50b7f6318974/bibliography.md
+source_path: ../sources/jmbras-266-mckinnon-sambashoardbronze-1994-50b7f6318974/frontmatter.md
 ---
-
-
 # The Sambas hoard: bronze drums and gold ornaments found in Kalimantan in 1991
 
 ## Summary

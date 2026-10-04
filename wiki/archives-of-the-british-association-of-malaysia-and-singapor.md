@@ -28,10 +28,8 @@ keywords:
 - digital resources
 - Royal Commonwealth Society collection
 source_doc: kent-archives-of-the-british-association-aa8f08dc4eaf
-source_path: ../sources/kent-archives-of-the-british-association-aa8f08dc4eaf/references.md
+source_path: ../sources/kent-archives-of-the-british-association-aa8f08dc4eaf/frontmatter.md
 ---
-
-
 # Archives of the British Association of Malaysia and Singapore relating  to the Second World War
 
 ## Abstract

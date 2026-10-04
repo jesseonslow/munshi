@@ -19,10 +19,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-319-nakamura-foodethnicidentity-2020-49a3d21c5f21
-source_path: ../sources/jmbras-319-nakamura-foodethnicidentity-2020-49a3d21c5f21/bibliography.md
+source_path: ../sources/jmbras-319-nakamura-foodethnicidentity-2020-49a3d21c5f21/frontmatter.md
 ---
-
-
 # Food and ethnic identity in the Cham refugee community in Malaysia
 
 ## Summary

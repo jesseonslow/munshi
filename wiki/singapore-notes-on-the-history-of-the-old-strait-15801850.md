@@ -19,10 +19,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmalayanras-165-gibsonhill-singaporenoteshistory-1954-904c66cec409
-source_path: ../sources/jmalayanras-165-gibsonhill-singaporenoteshistory-1954-904c66cec409/references.md
+source_path: ../sources/jmalayanras-165-gibsonhill-singaporenoteshistory-1954-904c66cec409/frontmatter.md
 ---
-
-
 # Singapore: notes on the history of the old Strait, 1580–1850
 
 ## Summary

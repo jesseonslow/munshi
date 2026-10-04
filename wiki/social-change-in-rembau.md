@@ -19,10 +19,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmbras-232-ibrahim-socialchangerembau-1977-e3ca0355527a
-source_path: ../sources/jmbras-232-ibrahim-socialchangerembau-1977-e3ca0355527a/bibliography.md
+source_path: ../sources/jmbras-232-ibrahim-socialchangerembau-1977-e3ca0355527a/frontmatter.md
 ---
-
-
 # Social change in Rembau
 
 ## Summary

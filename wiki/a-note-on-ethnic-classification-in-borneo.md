@@ -19,10 +19,8 @@ amendments: []
 status: stub
 published: false
 source_doc: jmalayanras-169-needham-noteethnicclassification-1955-54cf68965683
-source_path: ../sources/jmalayanras-169-needham-noteethnicclassification-1955-54cf68965683/references.md
+source_path: ../sources/jmalayanras-169-needham-noteethnicclassification-1955-54cf68965683/frontmatter.md
 ---
-
-
 # A note on ethnic classification in Borneo
 
 ## Summary
