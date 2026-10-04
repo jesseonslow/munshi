@@ -8,7 +8,7 @@ canonical_name: 'The power behind the throne: the role of queens and court ladie
 type: article
 article_type: article
 authors:
-- W. Cheah
+- Cheah Boon Kheng
 year: 1993
 journal_code: JMBRAS
 volume: 66
@@ -23,8 +23,6 @@ published: false
 source_doc: jsbras-077-winstedt-adventmuhammadanismmalay-1917-e684a54b5d4f
 source_path: ../sources/jsbras-077-winstedt-adventmuhammadanismmalay-1917-e684a54b5d4f.md
 ---
-
-
 # The power behind the throne: the role of queens and court ladies in Malay history
 
 ## Summary

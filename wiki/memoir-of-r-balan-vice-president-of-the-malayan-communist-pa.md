@@ -1,12 +1,14 @@
 ---
 id: memoir-of-r-balan-vice-president-of-the-malayan-communist-pa
 work_id: jmbras-88-2-p129
-title: "An Article I Never Published: Memoir of R. Balan, vice-president of the Malayan Communist Party"
-canonical_name: "An Article I Never Published: Memoir of R. Balan, vice-president of the Malayan Communist Party"
+title: 'An Article I Never Published: Memoir of R. Balan, vice-president of the Malayan
+  Communist Party'
+canonical_name: 'An Article I Never Published: Memoir of R. Balan, vice-president
+  of the Malayan Communist Party'
 type: article
 article_type: article
 authors:
-- Cheah Boon Keng
+- Cheah Boon Kheng
 year: 2015
 journal_code: JMBRAS
 volume: 88

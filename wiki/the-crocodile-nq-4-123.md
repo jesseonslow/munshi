@@ -6,7 +6,7 @@ canonical_name: 'The crocodile. NQ 4: 123'
 type: article
 article_type: notes_and_queries
 authors:
-- H.C. Clifford
+- Sir Hugh Charles Clifford
 year: 1886
 journal_code: JSBRAS
 volume: 17
@@ -19,7 +19,6 @@ amendments: []
 status: stub
 published: false
 ---
-
 # The crocodile. NQ 4: 123
 
 ## Summary

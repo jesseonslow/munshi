@@ -8,7 +8,7 @@ canonical_name: Ming China’s support for Sultan Mahmud of Melaka and its hosti
 type: article
 article_type: article
 authors:
-- W. Cheah
+- Cheah Boon Kheng
 year: 2012
 journal_code: JMBRAS
 volume: 85
@@ -23,8 +23,6 @@ published: false
 source_doc: jmbras-303-kheng-mingchinassupport-2012-3d27e40f098b
 source_path: ../sources/jmbras-303-kheng-mingchinassupport-2012-3d27e40f098b/references.md
 ---
-
-
 # Ming China’s support for Sultan Mahmud of Melaka and its hostility towards the Portuguese after the fall of Melaka in 1511
 
 ## Summary

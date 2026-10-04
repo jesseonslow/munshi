@@ -32,6 +32,8 @@ contributors:
   name: W. Cheah
 - id: winks
   name: Winks
+- id: cheah-boon-kheng
+  name: Cheah Boon Kheng
 parent_hub: journal-of-the-malaysian-branch-of-the-royal-asiatic-society
 status: stub
 published: false
@@ -103,7 +105,6 @@ articles:
   pages: 136–138
   is_review: true
 ---
-
 # JMBRAS Vol. 64, Part 1 (June 1991)
 
 **Series:** Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society  
@@ -111,7 +112,7 @@ articles:
 
 ## Table of Contents
 * [Taiping (Larut): the early history of a mining settlement](./taiping-larut-the-early-history-of-a-mining-settlement.md) — [Khoo Kay Kim](./khoo-kay-kim.md) (pp. 1–32)
-* [Letters from exile: correspondence of Sultan Abdullah from Seychelles and Mauritius](./letters-from-exile-correspondence-of-sultan-abdullah-from-se.md) — [W. Cheah](./w-cheah.md) (pp. 33–74)
+* [Letters from exile: correspondence of Sultan Abdullah from Seychelles and Mauritius](./letters-from-exile-correspondence-of-sultan-abdullah-from-se.md) — [Cheah Boon Kheng](./cheah-boon-kheng.md) (pp. 33–74)
 * [Archaeological discoveries in Peninsular Malaysia (1987–1990](./archaeological-discoveries-in-peninsular-malaysia-19871990.md) — [Adi Haji Taha](./adi-haji-taha.md) (pp. 75–96)
 * [Glass beads in Malaya: a reassessment](./glass-beads-in-malaya-a-reassessment.md) — [P. Francis](./p-francis.md) (pp. 97–118)
 * [A patriot’s memorial in Kuching](./a-patriots-memorial-in-kuching.md) — [Mubin Sheppard](./mubin-sheppard.md) (pp. 119–126)
@@ -130,7 +131,7 @@ articles:
 * [P. Francis](./p-francis.md)
 * [T. Chong Carino](./t-chong-carino.md)
 * [V.R. Savage](./vr-savage.md)
-* [W. Cheah](./w-cheah.md)
+* [Cheah Boon Kheng](./cheah-boon-kheng.md)
 * [Winks](./winks.md)
 
 ## References

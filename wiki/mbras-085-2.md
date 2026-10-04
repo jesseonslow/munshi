@@ -50,6 +50,8 @@ contributors:
   name: W.R. Roff
 - id: wu-xiao-an
   name: Wu Xiao An
+- id: cheah-boon-kheng
+  name: Cheah Boon Kheng
 parent_hub: journal-of-the-malaysian-branch-of-the-royal-asiatic-society
 status: stub
 published: false
@@ -161,7 +163,6 @@ articles:
   pages: 125–127
   is_review: true
 ---
-
 # JMBRAS Vol. 85, Part 2 (December 2012)
 
 **Series:** Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society  
@@ -170,7 +171,7 @@ articles:
 ## Table of Contents
 * [The first Sultan of Sarawak and his links to Brunei and the Sambas dynasty, 1599–1826](./the-first-sultan-of-sarawak-and-his-links-to-brunei-and-the-.md) — [I. Larsen](./i-larsen.md) (pp. 1–16)
 * [In Alfred Russel Wallace’s shadow: his forgotten assistant: Charles Allen (1839–1892](./in-alfred-russel-wallaces-shadow-his-forgotten-assistant-cha.md) — [L.C. Rookmaaker](./lc-rookmaaker.md), [John van Wyhe](./john-van-wyhe.md) (pp. 17–54)
-* [Ming China’s support for Sultan Mahmud of Melaka and its hostility towards the Portuguese after the fall of Melaka in 1511](./ming-chinas-support-for-sultan-mahmud-of-melaka-and-its-host.md) — [W. Cheah](./w-cheah.md) (pp. 55–77)
+* [Ming China’s support for Sultan Mahmud of Melaka and its hostility towards the Portuguese after the fall of Melaka in 1511](./ming-chinas-support-for-sultan-mahmud-of-melaka-and-its-host.md) — [Cheah Boon Kheng](./cheah-boon-kheng.md) (pp. 55–77)
 * [The builders](./the-builders.md) — [J.M. Gullick](./john-michael-gullick.md) (pp. 79–98)
 * [On going into the field](./on-going-into-the-field.md) — [W.R. Roff](./wr-roff.md) (pp. 103–109)
 * *Brunei: traditions of monarchic culture and history: R.H. Hickling’s memorandum upon the Brunei constitutional history and practice. Brunei Historical Documents Series I, introduced and annotated by B.A. Hussainmiya and N. Tarling* — [Kobkua Suwannathat-Pian](./kobkua-suwannathat-pian.md) (pp. 109–111) [Review]
@@ -200,7 +201,7 @@ articles:
 * [P.A. Jackson](./pa-jackson.md)
 * [Rajantheran M](./rajantheran-m.md)
 * [Thanet Aphornsuvan](./thanet-aphornsuvan.md)
-* [W. Cheah](./w-cheah.md)
+* [Cheah Boon Kheng](./cheah-boon-kheng.md)
 * [W.R. Roff](./wr-roff.md)
 * [Wu Xiao An](./wu-xiao-an.md)
 

@@ -8,7 +8,7 @@ canonical_name: 'Letters from exile: correspondence of Sultan Abdullah from Seyc
 type: article
 article_type: article
 authors:
-- W. Cheah
+- Cheah Boon Kheng
 year: 1991
 journal_code: JMBRAS
 volume: 64
@@ -23,8 +23,6 @@ published: false
 source_doc: jmbras-260-kheng-lettersexile-1991-b6b7b23b5bdd
 source_path: ../sources/jmbras-260-kheng-lettersexile-1991-b6b7b23b5bdd/appendix.md
 ---
-
-
 # Letters from exile: correspondence of Sultan Abdullah from Seychelles and Mauritius
 
 ## Summary

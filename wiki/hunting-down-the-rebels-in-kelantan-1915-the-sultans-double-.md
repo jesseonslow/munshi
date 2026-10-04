@@ -6,7 +6,7 @@ canonical_name: 'Hunting down the rebels in Kelantan, 1915: the Sultan’s ‘do
 type: article
 article_type: article
 authors:
-- W. Cheah
+- Cheah Boon Kheng
 year: 1995
 journal_code: JMBRAS
 volume: 68
@@ -21,8 +21,6 @@ published: false
 source_doc: jmbras-269-kheng-huntingrebelskelantan-1995-f6df00c62e67
 source_path: ../sources/jmbras-269-kheng-huntingrebelskelantan-1995-f6df00c62e67.md
 ---
-
-
 # Hunting down the rebels in Kelantan, 1915: the Sultan’s ‘double game’
 
 ## Summary

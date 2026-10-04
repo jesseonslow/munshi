@@ -18,12 +18,14 @@ contributors:
   name: E. Koek
 - id: em-satow
   name: E.M. Satow
-- id: hc-clifford
+- id: sir-hugh-charles-clifford
   name: H.C. Clifford
 - id: hf-kehding
   name: H.F. Kehding
 - id: we-maxwell
   name: W.E. Maxwell
+- id: sir-hugh-charles-clifford
+  name: - Sir Hugh Charles Clifford 
 parent_hub: journal-of-the-malaysian-branch-of-the-royal-asiatic-society
 status: stub
 published: false
@@ -39,21 +41,21 @@ articles:
   slug: the-crocodile-nq-4-123
   title: 'The crocodile. NQ 4: 123'
   authors:
-  - H.C. Clifford
+  - Sir Hugh Charles Clifford
   pages: null
   is_review: false
 - id: jsbras-17-manuk-nq-4-101102
   slug: manuk-nq-4-101102
   title: 'Manuk. NQ 4: 101–102'
   authors:
-  - H.C. Clifford
+  - Sir Hugh Charles Clifford
   pages: null
   is_review: false
 - id: jsbras-17-the-sakai-language-nq-4-102103
   slug: the-sakai-language-nq-4-102103
   title: 'The Sakai language. NQ 4: 102–103'
   authors:
-  - H.C. Clifford
+  - Sir Hugh Charles Clifford
   pages: null
   is_review: false
 - id: jsbras-17-beliefs-in-spirits-and-demons-
@@ -212,7 +214,6 @@ articles:
   pages: '158'
   is_review: false
 ---
-
 # JSBRAS No. 17 (June 1886)
 
 **Series:** Journal of the Straits Branch of the Royal Asiatic Society  
@@ -220,9 +221,9 @@ articles:
 
 ## Table of Contents
 * [The Light family. NQ 4: 115–116](./the-light-family-nq-4-115116.md) — [Anon](./anon-and-unidentifiable-initials.md)
-* [The crocodile. NQ 4: 123](./the-crocodile-nq-4-123.md) — [H.C. Clifford](./hc-clifford.md)
-* [Manuk. NQ 4: 101–102](./manuk-nq-4-101102.md) — [H.C. Clifford](./hc-clifford.md)
-* [The Sakai language. NQ 4: 102–103](./the-sakai-language-nq-4-102103.md) — [H.C. Clifford](./hc-clifford.md)
+* [The crocodile. NQ 4: 123](./the-crocodile-nq-4-123.md) — [Sir Hugh Charles Clifford](./sir-hugh-charles-clifford.md)
+* [Manuk. NQ 4: 101–102](./manuk-nq-4-101102.md) — [Sir Hugh Charles Clifford](./sir-hugh-charles-clifford.md)
+* [The Sakai language. NQ 4: 102–103](./the-sakai-language-nq-4-102103.md) — [Sir Hugh Charles Clifford](./sir-hugh-charles-clifford.md)
 * [Beliefs in spirits and demons. NQ 4](./beliefs-in-spirits-and-demons-nq-4.md) — [W.E. Maxwell](./sir-william-edward-maxwell.md)
 * [Ceremonies when shooting rapids. NQ 4](./ceremonies-when-shooting-rapids-nq-4.md) — [W.E. Maxwell](./sir-william-edward-maxwell.md)
 * [Cockup. NQ 4](./cockup-nq-4.md) — [W.E. Maxwell](./sir-william-edward-maxwell.md)
@@ -251,7 +252,7 @@ articles:
 * [C.} {Lemire](./c-lemire.md)
 * [E. Koek](./e-koek.md)
 * [E.M. Satow](./em-satow.md)
-* [H.C. Clifford](./hc-clifford.md)
+* [Sir Hugh Charles Clifford](./sir-hugh-charles-clifford.md)
 * [H.F. Kehding](./hf-kehding.md)
 * [W.E. Maxwell](./sir-william-edward-maxwell.md)
 

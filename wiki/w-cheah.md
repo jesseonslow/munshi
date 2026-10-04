@@ -9,7 +9,6 @@ is_contributor: true
 status: stub
 published: false
 ---
-
 # W. Cheah
 
 <!-- Synthesis engine: Insert biographical synthesis and research focus here -->

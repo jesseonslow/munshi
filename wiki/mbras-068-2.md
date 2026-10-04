@@ -32,6 +32,8 @@ contributors:
   name: N. Tarling
 - id: w-cheah
   name: W. Cheah
+- id: cheah-boon-kheng
+  name: Cheah Boon Kheng
 parent_hub: journal-of-the-malaysian-branch-of-the-royal-asiatic-society
 status: stub
 published: false
@@ -126,7 +128,6 @@ articles:
   pages: '159'
   is_review: true
 ---
-
 # JMBRAS Vol. 68, Part 2 (December 1995)
 
 **Series:** Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society  
@@ -135,7 +136,7 @@ articles:
 ## Table of Contents
 * [Mubin Sheppard. Obituary](./mubin-sheppard-obituary.md) — [J.M. Gullick](./john-michael-gullick.md) (pp. 1–6)
 * [A note on the fishing industry in Kelantan, 1933](./a-note-on-the-fishing-industry-in-kelantan-1933.md) — [Mubin Sheppard](./mubin-sheppard.md) (pp. 7–8)
-* [Hunting down the rebels in Kelantan, 1915: the Sultan’s ‘double game’](./hunting-down-the-rebels-in-kelantan-1915-the-sultans-double-.md) — [W. Cheah](./w-cheah.md) (pp. 9–32)
+* [Hunting down the rebels in Kelantan, 1915: the Sultan’s ‘double game’](./hunting-down-the-rebels-in-kelantan-1915-the-sultans-double-.md) — [Cheah Boon Kheng](./cheah-boon-kheng.md) (pp. 9–32)
 * [Teluk Anson, 1882–1941: port, agriculture and erosion](./teluk-anson-18821941-port-agriculture-and-erosion.md) — [Khoo Kay Kim](./khoo-kay-kim.md) (pp. 33–52)
 * [Some perspectives on Southeast Asian historiography](./some-perspectives-on-southeast-asian-historiography.md) — [N. Tarling](./nicholas-tarling.md) (pp. 53–57)
 * [Bibliography of Tan Sri Dato Dr Haji Mubin Sheppard](./bibliography-of-tan-sri-dato-dr-haji-mubin-sheppard.md) — [H.S. Barlow](./henry-sackville-barlow.md) (pp. 59–66)
@@ -157,7 +158,7 @@ articles:
 * [Khoo Kay Kim](./khoo-kay-kim.md)
 * [Mubin Sheppard](./mubin-sheppard.md)
 * [N. Tarling](./nicholas-tarling.md)
-* [W. Cheah](./w-cheah.md)
+* [Cheah Boon Kheng](./cheah-boon-kheng.md)
 
 ## References
 <!-- Grounded occurrences and citations -->

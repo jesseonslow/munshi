@@ -30,6 +30,8 @@ contributors:
   name: W. Cheah
 - id: w-cummings
   name: W. Cummings
+- id: cheah-boon-kheng
+  name: Cheah Boon Kheng
 parent_hub: journal-of-the-malaysian-branch-of-the-royal-asiatic-society
 status: stub
 published: false
@@ -108,7 +110,6 @@ articles:
   pages: 142–143
   is_review: true
 ---
-
 # JMBRAS Vol. 71, Part 1 (June 1998)
 
 **Series:** Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society  
@@ -119,7 +120,7 @@ articles:
 * [British proposals for a dominion of Southeast Asia, 1943–1957](./british-proposals-for-a-dominion-of-southeast-asia-19431957.md) — [D.S. Ranjit Singh](./ds-ranjit-singh.md) (pp. 27–40)
 * [Imported technology; its idea and development](./imported-technology-its-idea-and-development.md) — [Goh Chor Boon](./goh-chor-boon.md) (pp. 41–54)
 * [The Malaysia plan and the first Brunei elections, 1962](./the-malaysia-plan-and-the-first-brunei-elections-1962.md) — [Mohamed Yusop](./mohamed-yusop.md) (pp. 52–73)
-* [Malay politics and the murder of J.W.W. Birch, British Resident in Perak in 1875. The humiliation and revenge of the Maharaja Lela](./malay-politics-and-the-murder-of-jww-birch-british-resident-.md) — [W. Cheah](./w-cheah.md) (pp. 74–105)
+* [Malay politics and the murder of J.W.W. Birch, British Resident in Perak in 1875. The humiliation and revenge of the Maharaja Lela](./malay-politics-and-the-murder-of-jww-birch-british-resident-.md) — [Cheah Boon Kheng](./cheah-boon-kheng.md) (pp. 74–105)
 * [The Melaka Malay Diaspora in Makassar, c 1500–1669](./the-melaka-malay-diaspora-in-makassar-c-15001669.md) — [W. Cummings](./w-cummings.md) (pp. 106–121)
 * [Governors’ houses](./governors-houses.md) — [J.M. Gullick](./john-michael-gullick.md) (pp. 123–137)
 * *Operation Matador: Britain’s war plans against the Japanese 1918–1941. Ong Chit Chung* — [E.B. Reynolds](./eb-reynolds.md) (pp. 138–139) [Review]
@@ -135,7 +136,7 @@ articles:
 * [J.M. Gullick](./john-michael-gullick.md)
 * [Khoo Kay Kim](./khoo-kay-kim.md)
 * [Mohamed Yusop](./mohamed-yusop.md)
-* [W. Cheah](./w-cheah.md)
+* [Cheah Boon Kheng](./cheah-boon-kheng.md)
 * [W. Cummings](./w-cummings.md)
 
 ## References

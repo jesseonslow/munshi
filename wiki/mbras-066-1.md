@@ -30,6 +30,8 @@ contributors:
   name: Tham Seong Chee
 - id: w-cheah
   name: W. Cheah
+- id: cheah-boon-kheng
+  name: Cheah Boon Kheng
 parent_hub: journal-of-the-malaysian-branch-of-the-royal-asiatic-society
 status: stub
 published: false
@@ -99,14 +101,13 @@ articles:
   pages: 94–97
   is_review: true
 ---
-
 # JMBRAS Vol. 66, Part 1 (June 1993)
 
 **Series:** Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society  
 **Date:** June 1993
 
 ## Table of Contents
-* [The power behind the throne: the role of queens and court ladies in Malay history](./the-power-behind-the-throne-the-role-of-queens-and-court-lad.md) — [W. Cheah](./w-cheah.md) (pp. 1–21)
+* [The power behind the throne: the role of queens and court ladies in Malay history](./the-power-behind-the-throne-the-role-of-queens-and-court-lad.md) — [Cheah Boon Kheng](./cheah-boon-kheng.md) (pp. 1–21)
 * [The “Shophouse Rafflesia”: an outline of its Malaysian pedigree and its subsequent diffusion in Asia](./the-shophouse-rafflesia-an-outline-of-its-malaysian-pedigree.md) — [J.H.S. Lim](./jhs-lim.md) (pp. 47–66)
 * [Recent archaeological discoveries in Peninsular Malaysia (1991–1993](./recent-archaeological-discoveries-in-peninsular-malaysia-199.md) — [Adi Haji Taha](./adi-haji-taha.md) (pp. 67–83)
 * *Rulers and Residents: influence and power in the Malay states 1870–1920. J.M. Gullick* — [L.A. Mills](./la-mills.md) (pp. 85–87) [Review]
@@ -125,7 +126,7 @@ articles:
 * [Lisan M. Allen](./lisan-m-allen.md)
 * [pj-rimmer](./pj-rimmer.md)
 * [Tham Seong Chee](./tham-seong-chee.md)
-* [W. Cheah](./w-cheah.md)
+* [Cheah Boon Kheng](./cheah-boon-kheng.md)
 
 ## References
 <!-- Grounded occurrences and citations -->

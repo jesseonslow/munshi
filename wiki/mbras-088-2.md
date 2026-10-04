@@ -40,6 +40,8 @@ contributors:
   name: Tan Miau Ing
 - id: w-cheah
   name: W. Cheah
+- id: cheah-boon-kheng
+  name: Cheah Boon Kheng
 parent_hub: journal-of-the-malaysian-branch-of-the-royal-asiatic-society
 status: stub
 published: false
@@ -157,7 +159,6 @@ articles:
   pages: 184–186
   is_review: true
 ---
-
 # JMBRAS Vol. 88, Part 2 (December 2015)
 
 **Series:** Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society  
@@ -195,7 +196,7 @@ articles:
 * [S.K. Manickam](./sk-manickam.md)
 * [T.P. Barnard](./tp-barnard.md)
 * [Tan Miau Ing](./tan-miau-ing.md)
-* [W. Cheah](./w-cheah.md)
+* [Cheah Boon Kheng](./cheah-boon-kheng.md)
 
 ## References
 <!-- Grounded occurrences and citations -->

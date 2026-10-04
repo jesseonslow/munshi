@@ -8,7 +8,7 @@ canonical_name: Malay politics and the murder of J.W.W. Birch, British Resident 
 type: article
 article_type: article
 authors:
-- W. Cheah
+- Cheah Boon Kheng
 year: 1998
 journal_code: JMBRAS
 volume: 71
@@ -23,8 +23,6 @@ published: false
 source_doc: jmbras-274-kheng-malaypoliticsmurder-1998-1054a83e98cc
 source_path: ../sources/jmbras-274-kheng-malaypoliticsmurder-1998-1054a83e98cc/bibliography.md
 ---
-
-
 # Malay politics and the murder of J.W.W. Birch, British Resident in Perak in 1875. The humiliation and revenge of the Maharaja Lela
 
 ## Summary
