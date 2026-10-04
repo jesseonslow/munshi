@@ -10,7 +10,7 @@ nominal_month: null
 nominal_year: 1889
 articles_count: 5
 contributors:
-- id: ah-everett
+- id: alfred-hart-everett
   name: A.H. Everett
 - id: hn-ridley
   name: H.N. Ridley
@@ -72,10 +72,10 @@ articles:
 * [British Borneo: sketches of Brunai, Sarawak, Labuan and North Borneo](./british-borneo-sketches-of-brunai-sarawak-labuan-and-north-b.md) — [W.H. Treacher](./wh-treacher.md) (pp. 13–74)
 * [Notes on names of places in the island of Singapore and its vicinity](./notes-on-names-of-places-in-the-island-of-singapore-and-its-.md) — [Haughton H.T](./haughton-ht.md) (pp. 75–82)
 * [Journal of a trip to Pahang etc. with H.E. the Governor, August 17th to 27th, 1889](./journal-of-a-trip-to-pahang-etc-with-he-the-governor-august-.md) — [W. Davison](./w-davison.md) (pp. 83–90)
-* [A list of the birds of the Bornean group of islands](./a-list-of-the-birds-of-the-bornean-group-of-islands.md) — [A.H. Everett](./ah-everett.md) (pp. 91–212)
+* [A list of the birds of the Bornean group of islands](./a-list-of-the-birds-of-the-bornean-group-of-islands.md) — [A.H. Everett](./alfred-hart-everett.md) (pp. 91–212)
 
 ## Contributors
-* [A.H. Everett](./ah-everett.md)
+* [A.H. Everett](./alfred-hart-everett.md)
 * [H.N. Ridley](./henry-nicholas-ridley.md)
 * [Haughton H.T](./haughton-ht.md)
 * [W. Davison](./w-davison.md)

@@ -10,7 +10,7 @@ nominal_month: June
 nominal_year: 1880
 articles_count: 5
 contributors:
-- id: ah-everett
+- id: alfred-hart-everett
   name: A.H. Everett
 - id: fa-swettenham
   name: F.A. Swettenham
@@ -72,10 +72,10 @@ articles:
 * [Acheh, commonly called Acheen](./acheh-commonly-called-acheen.md) — [G.P. Tolson](./gp-tolson.md) (pp. 37–50)
 * [A contribution to Malayan bibliography](./a-contribution-to-malayan-bibliography.md) — [N.B. Dennys](./nicholas-belfield-dennys.md) (pp. 69–123)
 * [Comparative vocabulary of the dialects of some of the wild tribes inhabiting the Malayan peninsula, Borneo, etc., collected and compiled for the Straits Branch of the Royal Asiatic Society](./comparative-vocabulary-of-the-dialects-of-some-of-the-wild-t.md) — [Swettenham, F.A.](./sir-frank-swettenham.md) (pp. 125–156)
-* [The tiger in Borneo](./the-tiger-in-borneo.md) — [A.H. Everett](./ah-everett.md) (pp. 157–160)
+* [The tiger in Borneo](./the-tiger-in-borneo.md) — [A.H. Everett](./alfred-hart-everett.md) (pp. 157–160)
 
 ## Contributors
-* [A.H. Everett](./ah-everett.md)
+* [A.H. Everett](./alfred-hart-everett.md)
 * [G.P. Tolson](./gp-tolson.md)
 * [N.B. Dennys](./nicholas-belfield-dennys.md)
 * [Sir Hugh Low](./sir-hugh-low.md)

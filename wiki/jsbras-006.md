@@ -10,7 +10,7 @@ nominal_month: December
 nominal_year: 1880
 articles_count: 5
 contributors:
-- id: ah-everett
+- id: alfred-hart-everett
   name: A.H. Everett
 - id: c-hose
   name: C. Hose
@@ -48,7 +48,7 @@ articles:
   pages: 215–272
   is_review: false
 - id: jsbras-6-1-p273
-  slug: report-on-the-exploration-of-the-caves-of-borneo-ah-everett-
+  slug: report-on-the-exploration-of-the-caves-of-borneo-alfred-hart-everett-
   title: Report on the exploration of the caves of Borneo. A.H. Everett, Introductory
     remarks J. Evans, and notes on bones collected G. Busk
   authors:
@@ -74,11 +74,11 @@ articles:
 * [Some account of the independent native states of the Malay Peninsula, especially of the circumstances which led to the more intimate relations recently adopted towards some of them by the British Government](./some-account-of-the-independent-native-states-of-the-malay-p.md) — [Swettenham, F.A.](./sir-frank-swettenham.md) (pp. 161–202)
 * [The ruins of Boro Budur in Java](./the-ruins-of-boro-budur-in-java.md) — [C. Hose](./c-hose.md) (pp. 203–223)
 * [A contribution to Malayan bibliography. Pt. II](./a-contribution-to-malayan-bibliography.md) — [N.B. Dennys](./nicholas-belfield-dennys.md) (pp. 215–272)
-* [Report on the exploration of the caves of Borneo. A.H. Everett, Introductory remarks J. Evans, and notes on bones collected G. Busk](./report-on-the-exploration-of-the-caves-of-borneo-ah-everett-.md) — [A.H. Everett](./ah-everett.md) (pp. 273–287)
+* [Report on the exploration of the caves of Borneo. A.H. Everett, Introductory remarks J. Evans, and notes on bones collected G. Busk](./report-on-the-exploration-of-the-caves-of-borneo-alfred-hart-everett-.md) — [A.H. Everett](./alfred-hart-everett.md) (pp. 273–287)
 * [A Sea Dyak tradition of the deluge and consequent events](./a-sea-dyak-tradition-of-the-deluge-and-consequent-events.md) — [J. Perham](./j-perham.md) (pp. 289–291)
 
 ## Contributors
-* [A.H. Everett](./ah-everett.md)
+* [A.H. Everett](./alfred-hart-everett.md)
 * [C. Hose](./c-hose.md)
 * [Swettenham, F.A.](./sir-frank-swettenham.md)
 * [J. Perham](./j-perham.md)

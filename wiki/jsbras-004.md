@@ -10,7 +10,7 @@ nominal_month: December
 nominal_year: 1879
 articles_count: 7
 contributors:
-- id: ah-everett
+- id: alfred-hart-everett
   name: A.H. Everett
 - id: hwc-leech
   name: H.W.C. Leech
@@ -87,12 +87,12 @@ articles:
 * [About Kinta](./about-kinta.md) — [H.W.C. Leech](./hwc-leech.md) (pp. 21–33)
 * [About Slim and Bernam](./about-slim-and-bernam.md) — [H.W.C. Leech](./hwc-leech.md) (pp. 34–45)
 * [The aboriginal tribes of Perak](./the-aboriginal-tribes-of-perak.md) — [W.E. Maxwell](./sir-william-edward-maxwell.md) (pp. 46–50)
-* [On the guliga of Borneo](./on-the-guliga-of-borneo.md) — [A.H. Everett](./ah-everett.md) (pp. 56–58)
+* [On the guliga of Borneo](./on-the-guliga-of-borneo.md) — [A.H. Everett](./alfred-hart-everett.md) (pp. 56–58)
 * [Rainfall registered at the undermentioned stations, in the Straits Settlements and the Native States, during the half-year ending 31st December 1879](./rainfall-registered-at-the-undermentioned-stations-in-the-st.md) — [T.I. Rowell](./ti-rowell.md) (pp. 62)
 * [Meteorological observations taken in Singapore (Lat. 1° 17’ N. Long. 103° 51’ E.), during the year 1879](./meteorological-observations-taken-in-singapore-lat-1-17-n-lo.md) — [T.I. Rowell](./ti-rowell.md) (pp. 63–64)
 
 ## Contributors
-* [A.H. Everett](./ah-everett.md)
+* [A.H. Everett](./alfred-hart-everett.md)
 * [H.W.C. Leech](./hwc-leech.md)
 * [T.I. Rowell](./ti-rowell.md)
 * [T.S. Raffles](./ts-raffles.md)

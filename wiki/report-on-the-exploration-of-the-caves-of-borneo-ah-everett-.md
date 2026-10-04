@@ -1,5 +1,5 @@
 ---
-id: report-on-the-exploration-of-the-caves-of-borneo-ah-everett-
+id: report-on-the-exploration-of-the-caves-of-borneo-alfred-hart-everett-
 work_id: jsbras-6-1-p273
 title: Report on the exploration of the caves of Borneo. A.H. Everett, Introductory
   remarks J. Evans, and notes on bones collected G. Busk

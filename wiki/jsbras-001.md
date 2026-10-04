@@ -10,7 +10,7 @@ nominal_month: July
 nominal_year: 1878
 articles_count: 9
 contributors:
-- id: ah-everett
+- id: alfred-hart-everett
   name: A.H. Everett
 - id: am-skinner
   name: A.M. Skinner
@@ -99,7 +99,7 @@ articles:
 **Date:** July 1878
 
 ## Table of Contents
-* [Notes on the distribution of the useful minerals in Sarawak](./notes-on-the-distribution-of-the-useful-minerals-in-sarawak.md) — [A.H. Everett](./ah-everett.md) (pp. 13–30)
+* [Notes on the distribution of the useful minerals in Sarawak](./notes-on-the-distribution-of-the-useful-minerals-in-sarawak.md) — [A.H. Everett](./alfred-hart-everett.md) (pp. 13–30)
 * [Breeding pearls](./breeding-pearls.md) — [N.B. Dennys](./nicholas-belfield-dennys.md) (pp. 31–37)
 * [Dialects of the Melanesian tribes in the Malay Peninsula](./dialects-of-the-melanesian-tribes-in-the-malay-peninsula.md) — [N. von Mikluho-MacLay](./n-von-mikluho-maclay.md) (pp. 38–44)
 * [Geography of the Malay Peninsula](./geography-of-the-malay-peninsula.md) — [A.M. Skinner](./allan-maclean-skinner.md) (pp. 52–62)
@@ -110,7 +110,7 @@ articles:
 * [Antiquities of Province Wellesley](./antiquities-of-province-wellesley.md) — [W.E. Maxwell](./sir-william-edward-maxwell.md) (pp. 114)
 
 ## Contributors
-* [A.H. Everett](./ah-everett.md)
+* [A.H. Everett](./alfred-hart-everett.md)
 * [A.M. Skinner](./allan-maclean-skinner.md)
 * [H.J. Murton](./hj-murton.md)
 * [N. von Mikluho-MacLay](./n-von-mikluho-maclay.md)

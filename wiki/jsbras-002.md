@@ -10,7 +10,7 @@ nominal_month: December
 nominal_year: 1878
 articles_count: 14
 contributors:
-- id: ah-everett
+- id: alfred-hart-everett
   name: A.H. Everett
 - id: am-skinner
   name: A.M. Skinner
@@ -152,13 +152,13 @@ articles:
 * [Suggestions regarding a new Malay dictionary](./suggestions-regarding-a-new-malay-dictionary.md) — [C.J. Irving](./cj-irving.md) (pp. 199–204)
 * [Ethnological excursions in the Malay Peninsula: November 1874–October 1875](./ethnological-excursions-in-the-malay-peninsula-november-1874.md) — [N. von Mikluho-MacLay](./n-von-mikluho-maclay.md) (pp. 205–221)
 * [Geographical notes – recent journeys in the peninsula](./geographical-notes-recent-journeys-in-the-peninsula.md) — [A.M. Skinner](./allan-maclean-skinner.md) (pp. 222–225)
-* [The minerals of Sarawak](./the-minerals-of-sarawak.md) — [A.H. Everett](./ah-everett.md) (pp. 229–231)
+* [The minerals of Sarawak](./the-minerals-of-sarawak.md) — [A.H. Everett](./alfred-hart-everett.md) (pp. 229–231)
 * [Capture of a specimen of Ophiophagus elaps](./capture-of-a-specimen-of-ophiophagus-elaps.md) — [N.B. Dennys](./nicholas-belfield-dennys.md) (pp. 233–235)
 * [A Malay kramat](./a-malay-kramat.md) — [W.E. Maxwell](./sir-william-edward-maxwell.md) (pp. 236–238)
 * [Malay–English dictionaries](./malayenglish-dictionaries.md) — [L.C. Biggs](./lc-biggs.md) (pp. 238–239)
 
 ## Contributors
-* [A.H. Everett](./ah-everett.md)
+* [A.H. Everett](./alfred-hart-everett.md)
 * [A.M. Skinner](./allan-maclean-skinner.md)
 * [C.J. Irving](./cj-irving.md)
 * [D.D. Daly](./dd-daly.md)

@@ -31,7 +31,7 @@ published: false
 - [E. Banks](./e-banks.md) (1958). [Gomanton caves](./gomanton-caves.md). *JMBRAS* 31: 177–178
 - Cameron, W.D. Kota Glanggi, Pahang. SB 9
 - [D.D. Daly](./dd-daly.md) (1879). [Caves at Sungei Batu in Selangor](./caves-at-sungei-batu-in-selangor.md). *JSBRAS* 3: 116–119
-- [A.H. Everett](./alfred-hart-everett.md) (1880). [Report on the exploration of the caves of Borneo. A.H. Everett, Introductory remarks J. Evans, and notes on bones collected G. Busk](./report-on-the-exploration-of-the-caves-of-borneo-ah-everett-.md). *JSBRAS* 6: 273–287
+- [A.H. Everett](./alfred-hart-everett.md) (1880). [Report on the exploration of the caves of Borneo. A.H. Everett, Introductory remarks J. Evans, and notes on bones collected G. Busk](./report-on-the-exploration-of-the-caves-of-borneo-alfred-hart-everett-.md). *JSBRAS* 6: 273–287
 - [D. Gebauer](./d-gebauer.md) and [L. Price](./l-price.md) (1995). [Gua Tempurong](./gua-tempurong.md). *JMBRAS* 68: 29–52
 - [Ahmad Fauzi Abdul Hamid](./ahmad-fauzi-abdul-hamid.md) et al. (2019). [Shariaization of Malay-Muslim identity in contemporary Malaysia](./shariaization-of-malay-muslim-identity-in-contemporary-malay.md). *JMBRAS* 91(2): 1–18
 - [Harrisson B](./harrisson-b.md) and [Tom Harrisson](./tom-harrisson.md) (1968). [Magala – a series of Neolithic and Metal Age burial grottos at Sekaloh, Niah, Sarawak](./magala-a-series-of-neolithic-and-metal-age-burial-grottos-at.md). *JMBRAS* 41(2): 148–175
