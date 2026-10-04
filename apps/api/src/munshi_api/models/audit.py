@@ -1,6 +1,6 @@
 from __future__ import annotations
 from typing import Literal
-from pydantic import BaseModel
+from pydantic import BaseModel, Field
 
 
 class BrokenLinkItem(BaseModel):
@@ -34,3 +34,12 @@ class GraphHealthReport(BaseModel):
     broken_links: list[BrokenLinkItem]
     potential_split_authors: list[SplitAuthorCluster]
     source_mismatches: list[SourceMismatchReport] = []
+
+class JournalIssueRecord(BaseModel):
+    master_no: int = Field(..., description="Sequential Master Issue Number (1-329)")
+    series: str = Field(..., description="'SB' (Straits Branch) or 'MB' (Malayan/Malaysian Branch)")
+    volume: str = Field(..., description="Volume number or identifier")
+    issue: str = Field(..., description="Part/issue string, e.g. '1', '2', '3 & 4', or empty")
+    nominal_month: str | None = None
+    nominal_year: int | None = None
+    notes: str | None = None

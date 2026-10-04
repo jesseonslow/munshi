@@ -3,6 +3,7 @@ from __future__ import annotations
 from fastapi import APIRouter, Depends
 from munshi_api.config import ApiConfig
 from munshi_api.models.janitor import (
+    BatchReassignPayload,
     FixSourcePathPayload,
     MutationResult,
     ReassignAuthorPayload,
@@ -39,3 +40,10 @@ def batch_reassign(
     engine: JanitorEngine = Depends(get_janitor_engine),
 ):
     return engine.batch_reassign_author(payload)
+
+@router.post("/batch-fix-fragments", response_model=MutationResult)
+def batch_fix_fragments(
+    min_confidence: float = 0.95,
+    engine: JanitorEngine = Depends(get_janitor_engine),
+):
+    return engine.batch_fix_fragments(min_confidence=min_confidence)

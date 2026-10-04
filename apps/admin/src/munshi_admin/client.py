@@ -111,6 +111,8 @@ class MunshiApiClient:
         }
         with self._client() as client:
             res = client.post("/janitor/batch-reassign", json=payload)
+            if res.status_code == 422:
+                raise ValueError(f"FastAPI 422 Validation Error: {res.json()}")
             res.raise_for_status()
             return res.json()
 
@@ -159,3 +161,38 @@ class MunshiApiClient:
         with self._client() as client:
             res = client.get("/ledger/entities", params=params)
             return res.json() if res.status_code == 200 else []
+
+    def batch_fix_fragments(self, min_confidence: float = 0.95) -> dict[str, Any]:
+        with self._client() as client:
+            res = client.post(
+                "/janitor/batch-fix-fragments",
+                params={"min_confidence": min_confidence},
+            )
+            res.raise_for_status()
+            return res.json()
+
+    def stream_docproc_run(
+        self,
+        files: list[tuple[str, bytes]],
+        engine_override: str = "qwen-vl",
+    ):
+        """
+        Uploads PDFs and yields real-time log lines streamed from the API via SSE.
+        files: list of (filename, file_bytes) tuples
+        """
+        upload_payload = [
+            ("files", (filename, data, "application/pdf"))
+            for filename, data in files
+        ]
+
+        with httpx.Client(base_url=self.base_url, timeout=None) as client:
+            with client.stream(
+                "POST",
+                "/docproc/pipeline/stream",
+                files=upload_payload,
+                params={"engine": engine_override},
+            ) as response:
+                response.raise_for_status()
+                for line in response.iter_lines():
+                    if line:
+                        yield line
