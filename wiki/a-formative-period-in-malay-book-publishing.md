@@ -3,8 +3,7 @@ id: a-formative-period-in-malay-book-publishing
 work_id: jmbras-59-2-p101
 title: A formative period in Malay book publishing
 canonical_name: A formative period in Malay book publishing
-type: article
-article_type: article
+type: publication
 authors:
 - I. Proudfoot
 year: 1986
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-251-proudfoot-formativeperiodmalay-1986-eb7fe703dbeb
 source_path: ../sources/jmbras-251-proudfoot-formativeperiodmalay-1986-eb7fe703dbeb.md
 summarized: true
+publication_type: journal_article
 ---
+
 # A formative period in Malay book publishing
 
 I. Proudfoot (1986) examines the transformation of the Malay-language book publishing industry in the Straits Settlements and peninsular Malay states between 1887 and 1920, arguing that a vigorous indigenous printing trade was progressively displaced by well-capitalized European firms whose dominance was secured through the colonial education system and government cultural policy.

@@ -3,8 +3,7 @@ id: a-swarm-of-butterflies-in-sarawak
 work_id: jsbras-39-1-p203
 title: A swarm of butterflies in Sarawak
 canonical_name: A swarm of butterflies in Sarawak
-type: article
-article_type: article
+type: publication
 authors:
 - R.S. Shelford
 year: 1903
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-039-shelford-swarmbutterfliessarawak-1903-5103788c3fd4
 source_path: ../sources/jsbras-039-shelford-swarmbutterfliessarawak-1903-5103788c3fd4.md
 summarized: true
+publication_type: note
 ---
+
 # A swarm of butterflies in Sarawak
 
 This brief note by R. Shelford (1903) records an abnormal swarm of the butterfly *Cirrochroa bajadeta* in Sarawak, which he attributes to a comparative drought (rainfall well below the 75.17-inch average) and the exceptionally favourable monsoon conditions for insects.

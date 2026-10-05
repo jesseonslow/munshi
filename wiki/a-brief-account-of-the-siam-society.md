@@ -3,8 +3,7 @@ id: a-brief-account-of-the-siam-society
 work_id: jmbras-65-2-p35
 title: A brief account of the Siam Society
 canonical_name: A brief account of the Siam Society
-type: article
-article_type: article
+type: publication
 authors:
 - Piriya Krairiksh
 year: 1992
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-263-krairiksh-briefaccountsiam-1992-ba6396835b10
 source_path: ../sources/jmbras-263-krairiksh-briefaccountsiam-1992-ba6396835b10.md
 summarized: true
+publication_type: note
 ---
+
 # A brief account of the Siam Society
 
 Piriya Krairiksh, then President of the Siam Society, delivered this institutional profile in 1992 at a dinner hosted by the Raja Muda of Selangor, surveying the Society's 88-year history as a catalyst for objective research on Thai arts, sciences, and culture. The piece functions as both a commemorative overview and a statement of the Society's enduring policy of presenting multiple perspectives on contested issues.

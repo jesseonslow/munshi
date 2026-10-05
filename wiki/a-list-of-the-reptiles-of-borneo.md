@@ -3,8 +3,7 @@ id: a-list-of-the-reptiles-of-borneo
 work_id: jsbras-35-1-p43
 title: A list of the reptiles of Borneo
 canonical_name: A list of the reptiles of Borneo
-type: article
-article_type: article
+type: publication
 authors:
 - R.S. Shelford
 year: 1901
@@ -27,7 +26,9 @@ published: false
 source_doc: jsbras-035-shelford-listreptilesborneo-1901-9d535d6eb793
 source_path: ../sources/jsbras-035-shelford-listreptilesborneo-1901-9d535d6eb793.md
 summarized: true
+publication_type: journal_article
 ---
+
 # A list of the reptiles of Borneo
 
 R.S. Shelford, Curator of the Sarawak Museum, published this comprehensive checklist of Borneo's reptilian fauna in 1901, synthesising nearly two decades of collecting activity across the island into a single reference work. The article's central purpose is taxonomic and biogeographical: to establish, as of December 1900, the full complement of reptile species known from Borneo proper, to identify which of those are endemic, and to correct errors in earlier literature arising from descriptions based on faded spirit specimens.

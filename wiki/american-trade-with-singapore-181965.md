@@ -3,8 +3,7 @@ id: american-trade-with-singapore-181965
 work_id: jmbras-38-2-p241
 title: American trade with Singapore, 1819–65
 canonical_name: American trade with Singapore, 1819–65
-type: article
-article_type: article
+type: publication
 authors:
 - Sharom Ahmat
 year: 1965
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-208-ahmat-americantradesingapore-1965-de3e71e653ad
 source_path: ../sources/jmbras-208-ahmat-americantradesingapore-1965-de3e71e653ad.md
 summarized: true
+publication_type: journal_article
 ---
+
 # American trade with Singapore, 1819–65
 
 Sharom Ahmat's 1965 article traces the legal and commercial evolution of American trade with Singapore from the port's founding in 1819 through the post-Civil War period, arguing that the exclusion of American vessels was an artifact of the 1815 Anglo-American Convention of Commerce and Navigation that was gradually overcome through diplomatic pressure, commercial pragmatism, and shifting British imperial policy. The study is grounded primarily in the consular dispatches of Joseph Balestier and Straits Settlements administrative records.

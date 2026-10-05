@@ -3,8 +3,7 @@ id: a-survey-of-malay-weavers-and-silversmiths-in-kelantan-in-19
 work_id: jmbras-25-1-p134
 title: A survey of Malay weavers and silversmiths in Kelantan in 1951
 canonical_name: A survey of Malay weavers and silversmiths in Kelantan in 1951
-type: article
-article_type: article
+type: publication
 authors:
 - J.M. Gullick
 year: 1952
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-158-gullick-surveymalayweavers-1952-1f71cf187352
 source_path: ../sources/jmalayanras-158-gullick-surveymalayweavers-1952-1f71cf187352/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # A survey of Malay weavers and silversmiths in Kelantan in 1951
 
 J. M. Gullick, writing in 1952, presents the results of a field survey of two traditional Malay craft occupations—sarong weaving and silversmithing—conducted in Kelantan during the second half of 1951 under the Rural and Industrial Development Authority. Set against the backdrop of the post-war economic recovery, the article analyses the labour force structure, earnings, and degree of economic independence of workers in these crafts, documenting a sector in transition from domestic cottage production toward commercial workshop employment.

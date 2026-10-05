@@ -3,8 +3,7 @@ id: a-new-spider-of-the-genus-liphistius
 work_id: jmbras-1-1-p13
 title: A new spider of the genus Liphistius
 canonical_name: A new spider of the genus _Liphistius._
-type: article
-article_type: article
+type: publication
 authors:
 - H.C. Abraham
 year: 1923
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-229-harrisson-ngajubajausignificantearly-1976-0451857ada5f
 source_path: ../sources/jmbras-229-harrisson-ngajubajausignificantearly-1976-0451857ada5f/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # A new spider of the genus Liphistius
 
 Tom Harrisson's 1976 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* (Vol. 49) argues that the ethnonyms "Ngaju" and "Bajau" (with their numerous historical variants) refer to the same or closely related populations, and that their modern separation into distinct ethnic categories is an artificial product of colonial classification. Drawing on early European voyage accounts, colonial-era ethnographic reports, and Bajau oral tradition, Harrisson contends that these peoples constituted a single fluid "nation" spanning inland, agricultural, and maritime roles across Borneo, the Sulu Sea, and beyond, whose apparent fragmentation is a recent historical phenomenon.

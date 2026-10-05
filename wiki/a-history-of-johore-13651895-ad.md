@@ -3,8 +3,7 @@ id: a-history-of-johore-13651895-ad
 work_id: jmbras-10-3-p1
 title: A history of Johore (1365–1895 A.D.
 canonical_name: A history of Johore (1365–1895 A.D.)
-type: article
-article_type: article
+type: publication
 authors:
 - R.O. Winstedt
 year: 1932
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-010-proceedingsgeneralmeeting-1882-bb8800ecb136
 source_path: ../sources/jsbras-010-proceedingsgeneralmeeting-1882-bb8800ecb136.md
 summarized: true
+publication_type: journal_article
 ---
+
 # A history of Johore (1365–1895 A.D.
 
 This is a fragment of the proceedings of the General Meeting of the Straits Branch of the Royal Asiatic Society, held at the Exchange Rooms on 21st February 1883, recording attendance, member approvals, and the election of officers for 1883.

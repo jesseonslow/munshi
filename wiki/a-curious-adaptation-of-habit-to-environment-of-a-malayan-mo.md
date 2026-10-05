@@ -3,8 +3,7 @@ id: a-curious-adaptation-of-habit-to-environment-of-a-malayan-mo
 work_id: jsbras-75-1-p39
 title: A curious adaptation of habit to environment of a Malayan mosquito
 canonical_name: A curious adaptation of habit to environment of a Malayan mosquito
-type: article
-article_type: article
+type: publication
 authors:
 - C. Strickland
 year: 1917
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-075-strickland-curiousadaptationhabit-1917-76a4d5c4891c
 source_path: ../sources/jsbras-075-strickland-curiousadaptationhabit-1917-76a4d5c4891c.md
 summarized: true
+publication_type: note
 ---
+
 # A curious adaptation of habit to environment of a Malayan mosquito
 
 This short note by C. Strickland, Travelling Medical Entomologist of the F.M.S., records an unusual oviposition behaviour observed in *Chaetomyia (Leicesteria) flava* at the Gap on the Selangor-Pahang boundary (2,800 ft).

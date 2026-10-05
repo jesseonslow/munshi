@@ -3,8 +3,7 @@ id: a-study-of-two-early-elections-in-singapore
 work_id: jmbras-45-1-p57
 title: A study of two early elections in Singapore
 canonical_name: A study of two early elections in Singapore
-type: article
-article_type: article
+type: publication
 authors:
 - Yeo Kim Wah
 year: 1972
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-221-wah-studytwoearly-1972-e57f441d0cf9
 source_path: ../sources/jmbras-221-wah-studytwoearly-1972-e57f441d0cf9.md
 summarized: true
+publication_type: journal_article
 ---
+
 # A study of two early elections in Singapore
 
 Yeo Kim Wah (1972) examines the 1948 and 1955 legislative elections in Singapore, arguing that the 1948 poll was a narrow, elite-driven exercise dominated by Indian voters and English-speaking professionals, while the 1955 election—transformed by automatic voter registration and the entry of the Chinese citizenship-language campaign and anti-colonial student-labour movement into the electoral arena—constituted the first truly popular election in the island's history. The article demonstrates that Singapore's early electoral experiment operated in isolation from the major socio-political currents of the Chinese community until 1954, when the Rendel Constitution and the new registration system created the conditions for mass political participation.

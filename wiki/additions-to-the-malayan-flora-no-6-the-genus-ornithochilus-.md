@@ -5,8 +5,7 @@ title: Additions to the Malayan flora No. 6. The genus Ornithochilus (Orthidacea
   new to Malaysia
 canonical_name: Additions to the Malayan flora No. 6. The genus _Ornithochilus_ (Orthidaceae)
   new to Malaysia
-type: article
-article_type: article
+type: publication
 authors:
 - B.C. Stone
 year: 1978
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-234-stone-additionsmalayanflora-1978-fae81dac0f1f
 source_path: ../sources/jmbras-234-stone-additionsmalayanflora-1978-fae81dac0f1f.md
 summarized: true
+publication_type: note
 ---
+
 # Additions to the Malayan flora No. 6. The genus Ornithochilus (Orthidaceae) new to Malaysia
 
 This short note by B.C. Stone records the first occurrence of the orchid genus *Ornithochilus* in Malaysia, based on a single collection from Gunung Ulu Kali, Pahang (p. 139).

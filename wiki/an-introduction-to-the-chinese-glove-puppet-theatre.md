@@ -3,8 +3,7 @@ id: an-introduction-to-the-chinese-glove-puppet-theatre
 work_id: jmbras-57-1-p40
 title: An introduction to the Chinese glove puppet theatre
 canonical_name: An introduction to the Chinese glove puppet theatre
-type: article
-article_type: article
+type: publication
 authors:
 - Tan Sooi Beng
 year: 1984
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-246-beng-introductionchineseglove-1984-58a187aa0912
 source_path: ../sources/jmbras-246-beng-introductionchineseglove-1984-58a187aa0912.md
 summarized: true
+publication_type: journal_article
 ---
+
 # An introduction to the Chinese glove puppet theatre
 
 Tan Sooi Beng (1984) provides a preliminary ethnographic study of the Chinese glove puppet theatre (*Po te hi*) as performed in Malaysia, drawing on fieldwork conducted in Penang in 1979–1980. The article documents the art form's origins, material culture, musical conventions, and economic structure while arguing that the theatre is in terminal decline due to low pay, low social status, and the penetration of Western entertainment models.

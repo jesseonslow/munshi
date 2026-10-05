@@ -5,8 +5,7 @@ title: An examination of the sources concerning the reign of Sultan Mansur Syah 
   Trengganu (1741–1795) with special reference to the Tuhfat-al-Nafis
 canonical_name: An examination of the sources concerning the reign of Sultan Mansur
   Syah of Trengganu (1741–1795) with special reference to the Tuhfat-al-Nafis
-type: article
-article_type: article
+type: publication
 authors:
 - B.W. Andaya
 year: 1976
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-230-andaya-examinationsourcesconcerning-1976-d4fc03839d21
 source_path: ../sources/jmbras-230-andaya-examinationsourcesconcerning-1976-d4fc03839d21/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # An examination of the sources concerning the reign of Sultan Mansur Syah of Trengganu (1741–1795) with special reference to the Tuhfat-al-Nafis
 
 Barbara Watson Andaya's 1976 source-critical study interrogates the historiographical reliability of the *Tuhfat al-Nafis* as a vehicle for understanding the reign of Sultan Mansur Syah of Terengganu (1741–1793), a ruler whose fifty-year tenure made him the dominant figure in eighteenth-century Malay politics. Andaya demonstrates that the *Tuhfat*, long treated as the principal source for this period, systematically distorts Sultan Mansur's character and actions through selective adaptation of its underlying texts, presenting him as a treacherous and cowardly antagonist to the Bugis in order to legitimise the Bugis-descended community's political position in Riau.

@@ -3,8 +3,7 @@ id: a-possible-origin-of-the-jong-stories
 work_id: jmbras-25-1-p177
 title: A possible origin of the Jong stories
 canonical_name: A possible origin of the Jong stories
-type: article
-article_type: article
+type: publication
 authors:
 - C.A. Gibson-Hill
 year: 1952
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-158-gibsonhill-possibleoriginjong-1952-d8c83e61bf39
 source_path: ../sources/jmalayanras-158-gibsonhill-possibleoriginjong-1952-d8c83e61bf39.md
 summarized: true
+publication_type: note
 ---
+
 # A possible origin of the Jong stories
 
 This short note by C. A. Gibson-Hill responds to a legend of the *jong* (ship) published by Nik Daud bin Haji Nik Mat in the same issue, offering an alternative explanation for the origin of the "Jong stories" (p. 177).

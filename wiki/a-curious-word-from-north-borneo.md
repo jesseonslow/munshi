@@ -3,8 +3,7 @@ id: a-curious-word-from-north-borneo
 work_id: jmbras-25-1-p180
 title: A curious word from North Borneo
 canonical_name: A curious word from North Borneo
-type: article
-article_type: article
+type: publication
 authors:
 - I.H.N. Evans
 year: 1952
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-158-evans-curiouswordnorth-1952-2c96b5a46b43
 source_path: ../sources/jmalayanras-158-evans-curiouswordnorth-1952-2c96b5a46b43.md
 summarized: true
+publication_type: note
 ---
+
 # A curious word from North Borneo
 
 I.H.N. Evans reports on an unusual Dusun term for "female" found at Kadamaian, a village near Kota Belud in North Borneo, and considers possible explanations for its origin (p. 180).

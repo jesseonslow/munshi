@@ -5,8 +5,7 @@ title: A mathematical explanation of the magic measurements found in the Taj-ul-
   and the Pawang’s book
 canonical_name: A mathematical explanation of the magic measurements found in the
   _Taj-ul-Mulk_ and the _Pawang’s_ book
-type: article
-article_type: article
+type: publication
 authors:
 - Iskander
 year: 2000
@@ -20,6 +19,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: journal_article
 ---
 
 # A mathematical explanation of the magic measurements found in the Taj-ul-Mulk and the Pawang’s book

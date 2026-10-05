@@ -3,8 +3,7 @@ id: a-mysterious-find-in-brunei
 work_id: jmbras-16-1-p100
 title: A mysterious find in Brunei
 canonical_name: A mysterious find in Brunei
-type: article
-article_type: article
+type: publication
 authors:
 - T.D. Hughes
 year: 1938
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-131-hugheshallett-mysteriousfindbrunei-1938-b2b26871b81d
 source_path: ../sources/jmalayanras-131-hugheshallett-mysteriousfindbrunei-1938-b2b26871b81d.md
 summarized: true
+publication_type: note
 ---
+
 # A mysterious find in Brunei
 
 A brief ethnological note by H. Hughes-Hallett describing the discovery of human remains concealed within a hollow merbau tree near the Belait river in Brunei, published in the Journal of the Malaysian Branch of the Royal Asiatic Society (1938).

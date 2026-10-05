@@ -5,8 +5,7 @@ title: 'A variant epilogue to an epic tale: the ‘latest’ recension of Hikaya
   Tuah'
 canonical_name: 'A variant epilogue to an epic tale: the ‘latest’ recension of _Hikayat
   Hang Tuah._'
-type: article
-article_type: article
+type: publication
 authors:
 - Raimy Ché-Ross
 year: 2006
@@ -23,7 +22,9 @@ published: false
 source_doc: frontmatter
 source_path: ../sources/jmbras-301-porath-hikayatpatanikingdom-2011-af5e8cc51b79/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # A variant epilogue to an epic tale: the ‘latest’ recension of Hikayat Hang Tuah
 
 Nathan Porath's 2011 article applies René Girard's theory of mimetic desire and Stephen Harrison's concept of "fracturing resemblances" to the *Hikayat Patani*, a six-book Malay manuscript composed between the late seventeenth and mid-eighteenth centuries. Porath argues that the text's first book is structured as a mimetic narrative that simultaneously affirms Patani's political-cultural similarity with Ayutthaya and fractures its resemblance with Johor, thereby positioning the kingdom within a hierarchical Indic order of power-centres rather than along modern ethnic lines (pp. 45–48).

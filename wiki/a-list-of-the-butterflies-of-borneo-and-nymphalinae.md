@@ -3,8 +3,7 @@ id: a-list-of-the-butterflies-of-borneo-and-nymphalinae
 work_id: jsbras-45-1-p89
 title: A list of the butterflies of Borneo, and Nymphalinae
 canonical_name: A list of the butterflies of Borneo, and Nymphalinae
-type: article
-article_type: article
+type: publication
 authors:
 - R.S. Shelford
 year: 1906
@@ -27,7 +26,9 @@ published: false
 source_doc: jsbras-046-erratashelfordkloss-1906-0f93b2916414
 source_path: ../sources/jsbras-046-erratashelfordkloss-1906-0f93b2916414.md
 summarized: true
+publication_type: note
 ---
+
 # A list of the butterflies of Borneo, and Nymphalinae
 
 This is an errata notice correcting typographical and factual errors in R.S. Shelford's "A list of the butterflies of Borneo, and Nymphalinae," published in JSBRAS Vol. 45 (1906), pp. 89–136.

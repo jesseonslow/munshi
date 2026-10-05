@@ -3,8 +3,7 @@ id: acheh-commonly-called-acheen
 work_id: jsbras-5-1-p37
 title: Acheh, commonly called Acheen
 canonical_name: Acheh, commonly called Acheen
-type: article
-article_type: article
+type: publication
 authors:
 - G.P. Tolson
 year: 1880
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-005-tolson-achehcommonlycalled-1880-93ae197d9c9d
 source_path: ../sources/jsbras-005-tolson-achehcommonlycalled-1880-93ae197d9c9d.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Acheh, commonly called Acheen
 
 G.P. Tolson's 1880 article in the *Journal of the Straits Branch of the Royal Asiatic Society* is a descriptive compilation of notes on the Sultanate of Acheh (Aceh), covering its geography, political subdivisions, dynastic history, and material culture as observed by a European visitor. The piece functions as a practical guide for traders and administrators, blending ethnographic observation with political geography, and draws on earlier European sources—Valentyn, Crawfurd, Anderson, and Veth—alongside the author's own field experience.

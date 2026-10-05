@@ -3,8 +3,7 @@ id: a-golden-kris-handle-from-balingian-sarawak
 work_id: jmbras-39-1-p175
 title: A golden kris handle from Balingian, Sarawak
 canonical_name: A golden kris handle from Balingian, Sarawak
-type: article
-article_type: article
+type: publication
 authors:
 - Tom Harrisson
 year: 1966
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-209-harrisson-goldenkerishandle-1966-3dd810e78d79
 source_path: ../sources/jmbras-209-harrisson-goldenkerishandle-1966-3dd810e78d79.md
 summarized: true
+publication_type: journal_article
 ---
+
 # A golden kris handle from Balingian, Sarawak
 
 Tom Harrisson's 1966 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* examines a beaten-gold keris handle presented to the Sarawak Museum in 1963 by Melanau donors at Balingian, on the central west coast of Sarawak. The piece, identified by specialist consultation as East Javanese in style and possibly dating to the 13th century or earlier, is argued to represent a rare material witness to Tantric Buddhist cultural transmission into Borneo and to encode, in its associated Melanau folklore, the mythological abolition of a mourning-segregation custom.

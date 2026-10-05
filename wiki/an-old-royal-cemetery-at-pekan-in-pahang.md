@@ -3,8 +3,7 @@ id: an-old-royal-cemetery-at-pekan-in-pahang
 work_id: jsbras-60-1-p35
 title: An old royal cemetery at Pekan in Pahang
 canonical_name: An old royal cemetery at Pekan in Pahang
-type: article
-article_type: article
+type: publication
 authors:
 - W.D. Barnes
 year: 1911
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-060-barnes-oldroyalcemetery-1911-a3aa70a979d9
 source_path: ../sources/jsbras-060-barnes-oldroyalcemetery-1911-a3aa70a979d9.md
 summarized: true
+publication_type: note
 ---
+
 # An old royal cemetery at Pekan in Pahang
 
 W.D. Barnes's short note describes the "Makam Chondong," an old royal cemetery at Pekan, Pahang, and discusses the possible identity of its occupants, most notably Sultan Mahmud of Pahang.

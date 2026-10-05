@@ -3,8 +3,7 @@ id: a-note-on-rengas-poisoning
 work_id: jsbras-24-1-p83
 title: A note on rengas poisoning
 canonical_name: A note on _rengas_ poisoning
-type: article
-article_type: article
+type: publication
 authors:
 - W.C. Brown
 year: 1891
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-024-brown-noterengaspoisoning-1891-3b8061d6ea86
 source_path: ../sources/jsbras-024-brown-noterengaspoisoning-1891-3b8061d6ea86.md
 summarized: true
+publication_type: note
 ---
+
 # A note on rengas poisoning
 
 This note by W. C. Brown, M.D., documents the toxic properties of Rengas tree sap and its effects on workers in the Straits Settlements, with particular attention to the woodcutting trade in Penang (p. 83).

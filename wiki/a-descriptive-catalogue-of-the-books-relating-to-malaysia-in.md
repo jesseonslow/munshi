@@ -5,8 +5,7 @@ title: A descriptive catalogue of the books relating to Malaysia in the Raffles 
   & Library, Singapore
 canonical_name: A descriptive catalogue of the books relating to Malaysia in the Raffles
   Museum & Library, Singapore
-type: article
-article_type: article
+type: publication
 authors:
 - P. Daniel
 year: 1941
@@ -31,7 +30,9 @@ keywords:
 - Siam
 - Onn bin Jaafar
 - Tunku Abdul Rahman Putra
+publication_type: index
 ---
+
 # A descriptive catalogue of the books relating to Malaysia in the Raffles Museum & Library, Singapore
 
 ## Abstract

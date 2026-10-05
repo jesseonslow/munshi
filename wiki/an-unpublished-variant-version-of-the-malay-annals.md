@@ -3,8 +3,7 @@ id: an-unpublished-variant-version-of-the-malay-annals
 work_id: jmbras-3-1-p10
 title: An unpublished variant version of the “Malay Annals”
 canonical_name: An unpublished variant version of the “Malay Annals”
-type: article
-article_type: article
+type: publication
 authors:
 - C.O. Blagden
 - Sejarah Melayu
@@ -22,7 +21,9 @@ published: false
 source_doc: jmalayanras-093-blagden-unpublishedvariantversion-1925-f7408579facf
 source_path: ../sources/jmalayanras-093-blagden-unpublishedvariantversion-1925-f7408579facf.md
 summarized: true
+publication_type: journal_article
 ---
+
 # An unpublished variant version of the “Malay Annals”
 
 C.O. Blagden, a British colonial administrator and Malay philologist, published in 1925 the first edition of eight previously unprinted chapters from a variant manuscript of the *Sejarah Melayu* (Malay Annals), arguing that this text—though physically a copy made in the early nineteenth century for Stamford Raffles—preserves a genuine seventeenth-century historical tradition about the post-conquest Malay states that is both more candid about Malay military failures and richer in local detail than the received text of Shellabear.

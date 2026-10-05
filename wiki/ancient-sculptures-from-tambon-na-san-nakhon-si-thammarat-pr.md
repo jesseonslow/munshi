@@ -5,8 +5,7 @@ title: Ancient sculptures from Tambon Na San, Nakhon Si Thammarat Province, Peni
   Thailand
 canonical_name: Ancient sculptures from Tambon Na San, Nakhon Si Thammarat Province,
   Peninsular Thailand
-type: article
-article_type: article
+type: publication
 authors:
 - S.J. O'Connor
 year: 1982
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-243-oconnor-ancientsculpturestambon-1982-e1fe07be90d4
 source_path: ../sources/jmbras-243-oconnor-ancientsculpturestambon-1982-e1fe07be90d4.md
 summarized: true
+publication_type: note
 ---
+
 # Ancient sculptures from Tambon Na San, Nakhon Si Thammarat Province, Peninsular Thailand
 
 This short note by Stanley J. O'Connor reports on two broken sandstone socles and a damaged Ganesa image recently added to the Phra Borommathat National Museum, all found at Tambon Na San, approximately eleven kilometres northwest of Nakhon Si Thammarat (p. 60).

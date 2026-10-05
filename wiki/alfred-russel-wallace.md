@@ -12,6 +12,7 @@ is_cluster: false
 is_contributor: false
 status: stub
 published: false
+type: person
 ---
 
 # Alfred Russel Wallace

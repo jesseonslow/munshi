@@ -3,8 +3,7 @@ id: a-note-on-the-trengganu-inscription
 work_id: jmbras-2-3-p258
 title: A note on the Trengganu inscription
 canonical_name: A note on the Trengganu inscription
-type: article
-article_type: article
+type: publication
 authors:
 - C.O. Blagden
 year: 1924
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-092-blagden-notetrengganuinscription-1924-51d57eccdb33
 source_path: ../sources/jmalayanras-092-blagden-notetrengganuinscription-1924-51d57eccdb33.md
 summarized: true
+publication_type: note
 ---
+
 # A note on the Trengganu inscription
 
 C. O. Blagden published this philological and historical note in 1924, addressing the Trengganu (Terengganu) inscription—the earliest known record of Islam as a state religion in the Malay Peninsula. The article's central thesis is that the inscription's date, conventionally read as A.H. 702 (A.D. 1303), is textually incomplete and astronomically problematic, and that the zodiacal year-name "Saratan" (Cancer) embedded in the date formula points to a surviving Hindu 12-year Jupiter cycle that may push the true date considerably later, possibly into the 1380s.

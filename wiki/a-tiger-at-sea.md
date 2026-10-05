@@ -3,8 +3,7 @@ id: a-tiger-at-sea
 work_id: jsbras-85-1-p214
 title: A tiger at sea
 canonical_name: A tiger at sea
-type: article
-article_type: article
+type: publication
 authors:
 - J.C. Moulton
 year: 1922
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-085-moulton-tigersea-1922-a7d764dd8eb0
 source_path: ../sources/jsbras-085-moulton-tigersea-1922-a7d764dd8eb0.md
 summarized: true
+publication_type: note
 ---
+
 # A tiger at sea
 
 This brief note by J.C. Moulton, published in JSBRAS Vol. 85 (1922, p. 214), concerns a specimen of the Ruddy Crake (*Limnobaenus fuscus*) from Johore, despite the page title "A Tiger at Sea" which likely refers to a separate item on the same page.

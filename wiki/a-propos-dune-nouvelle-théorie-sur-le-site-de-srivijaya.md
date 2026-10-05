@@ -3,8 +3,7 @@ id: a-propos-dune-nouvelle-théorie-sur-le-site-de-srivijaya
 work_id: jmbras-14-3-p1
 title: A propos d’une nouvelle théorie sur le site de Srivijaya
 canonical_name: A propos d’une nouvelle théorie sur le site de Srivijaya
-type: article
-article_type: article
+type: publication
 authors:
 - G. Coedès
 year: 1936
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-014-proceedingsannualgeneral-1884-931de3f734ac
 source_path: ../sources/jsbras-014-proceedingsannualgeneral-1884-931de3f734ac.md
 summarized: true
+publication_type: journal_article
 ---
+
 # A propos d’une nouvelle théorie sur le site de Srivijaya
 
 This is the minutes of the Annual General Meeting of the Straits Branch of the Royal Asiatic Society, held at the Exchange Rooms on 27 March 1885, chaired by Vice-President A. M. Skinner.

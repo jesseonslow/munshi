@@ -5,8 +5,7 @@ title: An eye-witness account of the invasion of Java in 1811 — the diary of L
   Fielding. C. Skinner
 canonical_name: An eye-witness account of the invasion of Java in 1811 — the diary
   of Lt. W.G.A. Fielding. C. Skinner
-type: article
-article_type: article
+type: publication
 authors:
 - W.G.A. Fielding
 - C. Skinner
@@ -24,7 +23,9 @@ published: false
 source_doc: jsbras-044-ridley-nestingdracofimbriatus-1905-174751799578
 source_path: ../sources/jsbras-044-ridley-nestingdracofimbriatus-1905-174751799578.md
 summarized: true
+publication_type: document
 ---
+
 # An eye-witness account of the invasion of Java in 1811 — the diary of Lt. W.G.A. Fielding. C. Skinner
 
 This is a brief note by H. N. Ridley on the nesting behaviour of *Draco fimbriatus*, published in the *Journal of the Malaysian Branch of the Royal Asiatic Society* (1905).

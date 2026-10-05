@@ -3,8 +3,7 @@ id: a-pulau-tiuman-superstition
 work_id: jsbras-34-1-p101
 title: A Pulau Tiuman superstition
 canonical_name: A Pulau Tiuman superstition
-type: article
-article_type: article
+type: publication
 authors:
 - W. Cameron
 year: 1900
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-034-c-pulautiumansuperstition-1900-27ea12f4704f
 source_path: ../sources/jsbras-034-c-pulautiumansuperstition-1900-27ea12f4704f.md
 summarized: true
+publication_type: note
 ---
+
 # A Pulau Tiuman superstition
 
 W. C. (W. Cameron) provides a brief follow-up note on the Malay medicinal fungus known as Susu Rimau, previously described in the Journal (Vol. 22, p. 340), reporting its taxonomic identification as *Polyporus sacer* (p. 101).

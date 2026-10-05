@@ -3,8 +3,7 @@ id: a-new-dendrobium-d-gracilipes-from-the-rhio-archipelago
 work_id: jsbras-79-1-p45
 title: A new Dendrobium, D. gracilipes, from the Rhio Archipelago
 canonical_name: A new _Dendrobium, D. gracilipes,_ from the Rhio Archipelago
-type: article
-article_type: article
+type: publication
 authors:
 - I.H. Burkill
 year: 1918
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-079-burkill-newdendrobiumd-1918-75fe6f1fb456
 source_path: ../sources/jsbras-079-burkill-newdendrobiumd-1918-75fe6f1fb456.md
 summarized: true
+publication_type: note
 ---
+
 # A new Dendrobium, D. gracilipes, from the Rhio Archipelago
 
 This is a brief taxonomic note by I. H. Burkill describing a new orchid species, *Dendrobium gracilipes*, collected in the Rhio Archipelago and cultivated in Singapore.

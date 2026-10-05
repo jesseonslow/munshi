@@ -5,8 +5,7 @@ title: A personal recollection by Malaysian historian Dr Badriyah Haji Salleh wh
   studied under Professor William R. Roff
 canonical_name: A personal recollection by Malaysian historian Dr Badriyah Haji Salleh
   who studied under Professor William R. Roff
-type: article
-article_type: article
+type: publication
 authors:
 - Badriyah Haji Salleh
 year: 2013
@@ -20,6 +19,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: obituary
 ---
 
 # A personal recollection by Malaysian historian Dr Badriyah Haji Salleh who studied under Professor William R. Roff

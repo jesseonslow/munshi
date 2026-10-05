@@ -3,8 +3,7 @@ id: a-note-on-the-christmas-island-canoe-kolek
 work_id: jmbras-19-1-p125
 title: A note on the Christmas Island canoe (kolek
 canonical_name: A note on the Christmas Island canoe _(kolek)._
-type: article
-article_type: article
+type: publication
 authors:
 - C.A. Gibson-Hill
 year: 1941
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-019-museum-mrrb-1887-7d4bf2cb3a36
 source_path: ../sources/jsbras-019-museum-mrrb-1887-7d4bf2cb3a36.md
 summarized: true
+publication_type: note
 ---
+
 # A note on the Christmas Island canoe (kolek
 
 R. Bowdler Sharpe, senior ornithologist in the Zoological Department of the British Museum, published this account in 1887 describing a second collection of bird-skins assembled by L. Wray, Curator of the Perak Museum, during a six-week stay in the Larut Range mountains of western Perak. The paper formally describes seven new species and extends the known ranges of several others, providing one of the earliest systematic ornithological surveys of the highland forests of the Malay Peninsula. It was originally read to the Zoological Society of London before reprinted in the Straits Branch journal.

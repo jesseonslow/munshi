@@ -3,8 +3,7 @@ id: a-rare-petrel
 work_id: jmbras-1-1-p255
 title: A rare petrel
 canonical_name: A rare petrel
-type: article
-article_type: article
+type: publication
 authors:
 - F.N. Chasen
 year: 1923
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-087-chasen-rarepetrel-1923-7b0bc5570246
 source_path: ../sources/jmalayanras-087-chasen-rarepetrel-1923-7b0bc5570246.md
 summarized: true
+publication_type: note
 ---
+
 # A rare petrel
 
 This short note by F. N. Chasen reports on a specimen of Swinhoe's Fork-tailed Petrel (*Oceanodroma m. monorhis*) collected at Horsburgh Lighthouse, 33 miles east of Singapore, in October 1921, and discusses the species' range in Malaysian waters (p. 255).

@@ -3,8 +3,7 @@ id: a-kelantan-glossary
 work_id: jsbras-74-1-p303
 title: A Kelantan glossary
 canonical_name: A Kelantan glossary
-type: article
-article_type: article
+type: publication
 authors:
 - W.E. Pepys
 year: 1916
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-074-pepys-kelantanglossary-1916-2524e923a378
 source_path: ../sources/jsbras-074-pepys-kelantanglossary-1916-2524e923a378.md
 summarized: true
+publication_type: journal_article
 ---
+
 # A Kelantan glossary
 
 W. E. Pepys, a Civil Service officer stationed in Pasir Puteh, published this glossary in 1916 to document the distinctive features of Kelantan Malay as spoken in the early colonial period. The work addresses the practical and linguistic problem that Kelantan's dialect—shaped by heavy Siamese contact and internal phonological shifts—was largely unintelligible to both European administrators arriving from the Federated Malay States and to Malays from the western states. It is the only published collection of Kelantan phrases and idioms that Pepys knew of beyond Sturrock's 1912 notes, and it was compiled from direct field observation supplemented by input from Malay clerks.

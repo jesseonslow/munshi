@@ -3,8 +3,7 @@ id: a-buddhist-votive-tablet
 work_id: jsbras-39-1-p205
 title: A Buddhist votive tablet
 canonical_name: A Buddhist votive tablet
-type: article
-article_type: article
+type: publication
 authors:
 - C.O. Blagden
 year: 1903
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-039-blagden-buddhistvotivetablet-1903-2f56e4503ff3
 source_path: ../sources/jsbras-039-blagden-buddhistvotivetablet-1903-2f56e4503ff3.md
 summarized: true
+publication_type: note
 ---
+
 # A Buddhist votive tablet
 
 C. O. Blagden's short note describes a fragmentary clay tablet bearing a 10th-century Nagari inscription, discovered by H. Vaughan Stevens in a cave in Kedah and now held in the Singapore Museum (p. 205).

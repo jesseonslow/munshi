@@ -3,8 +3,7 @@ id: a-description-of-the-chinese-lottery-known-as-hua-hoey
 work_id: jsbras-16-1-p203
 title: A description of the Chinese lottery known as Hua-Hoey
 canonical_name: A description of the Chinese lottery known as Hua-Hoey
-type: article
-article_type: article
+type: publication
 authors:
 - C.W.S. Kynnersley
 year: 1885
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-016-kynnersley-descriptionchineselottery-1885-d86e745e0b87
 source_path: ../sources/jsbras-016-kynnersley-descriptionchineselottery-1885-d86e745e0b87.md
 summarized: true
+publication_type: journal_article
 ---
+
 # A description of the Chinese lottery known as Hua-Hoey
 
 C.W.S. Kynnersley, a colonial administrator in the Straits Settlements, published this detailed ethnographic description of the Hua-Hoey (Thirty-Six Animals) lottery in 1885, drawing on a Chinese dream-interpretation manual and direct observation of the game's operation in Penang and Singapore. The article serves as both a technical manual for understanding the lottery's mechanics and an implicit plea for legislative intervention against what Kynnersley and the Chinese community regarded as a pervasive social evil.

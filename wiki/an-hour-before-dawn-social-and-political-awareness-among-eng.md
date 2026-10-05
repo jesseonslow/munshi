@@ -5,8 +5,7 @@ title: '‘An Hour Before Dawn’: Social and Political Awareness among English-
   Students in Post-War Singapore'
 canonical_name: '‘An Hour Before Dawn’: Social and Political Awareness among English-Educated
   Students in Post-War Singapore'
-type: article
-article_type: article
+type: publication
 authors:
 - Theophilus Kwek
 year: 2022
@@ -28,7 +27,9 @@ keywords:
 source_doc: kwek-an-hour-before-dawn-960e58da14b2
 source_path: ../sources/kwek-an-hour-before-dawn-960e58da14b2/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # ‘An Hour Before Dawn’: Social and Political Awareness among English-Educated Students in Post-War Singapore
 
 ## Abstract

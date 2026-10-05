@@ -4,8 +4,7 @@ work_id: jsbras-24-1-p31
 title: An account of a journey across the Malay Peninsula from Koh Lak to Mergui
 canonical_name: An account of a journey across the Malay Peninsula from Koh Lak to
   Mergui
-type: article
-article_type: article
+type: publication
 authors:
 - A. Keith
 year: 1891
@@ -22,7 +21,9 @@ published: false
 source_doc: jsbras-024-keith-accountjourneyacross-1891-101030e18f1e
 source_path: ../sources/jsbras-024-keith-accountjourneyacross-1891-101030e18f1e.md
 summarized: true
+publication_type: journal_article
 ---
+
 # An account of a journey across the Malay Peninsula from Koh Lak to Mergui
 
 Arthur Keith, a medical practitioner (M.B., C.M.) based in the Bangtaphan mining district of Siam, published this account in 1891 describing his overland crossing of the Malay Peninsula from Koh Lak on the Gulf of Thailand to Mergui on the Andaman Sea, undertaken in June 1891 during the South-West Monsoon. The narrative documents a largely untraversed route across the watershed at Khow Maun and down the Tenasserim River, offering a rare first-hand description of the interior terrain, indigenous settlements, and the Siamese colonial communities that had recently established themselves on the Burmese side of the isthmus.

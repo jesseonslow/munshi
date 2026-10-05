@@ -4,8 +4,7 @@ work_id: jsbras-73-1-p129
 title: An experimental investigation concerning the effects of “Tuba” (Derris elliptica
 canonical_name: An experimental investigation concerning the effects of “Tuba” _(Derris
   elliptica)._
-type: article
-article_type: article
+type: publication
 authors:
 - J.A. Campbell
 year: 1916
@@ -22,7 +21,9 @@ published: false
 source_doc: jsbras-073-campbell-experimentalinvestigationconcerning-1916-72733aa0c520
 source_path: ../sources/jsbras-073-campbell-experimentalinvestigationconcerning-1916-72733aa0c520/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # An experimental investigation concerning the effects of “Tuba” (Derris elliptica
 
 J. Argyll Campbell published this experimental pharmacological investigation in 1916 in the *Journal of the Straits Branch of the Royal Asiatic Society*, presenting the first systematic laboratory study of the toxic actions of *Derris elliptica* (Malay "tuba") fish-poison on living animal tissues. Working in the Straits Settlements, Campbell sought to move beyond the descriptive ethnographic accounts of tuba's effects and establish its precise physiological mechanism of action across a range of vertebrate species.

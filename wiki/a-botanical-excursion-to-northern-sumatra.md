@@ -3,8 +3,7 @@ id: a-botanical-excursion-to-northern-sumatra
 work_id: jmbras-1-1-p46
 title: A botanical excursion to Northern Sumatra
 canonical_name: A botanical excursion to Northern Sumatra
-type: article
-article_type: article
+type: publication
 authors:
 - H.N. Ridley
 year: 1923
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-087-ridley-botanicalexcursionnorthern-1923-439490a84c87
 source_path: ../sources/jmalayanras-087-ridley-botanicalexcursionnorthern-1923-439490a84c87.md
 summarized: true
+publication_type: journal_article
 ---
+
 # A botanical excursion to Northern Sumatra
 
 H. N. Ridley, then Director of the Singapore Botanic Gardens, published this account in 1923 of a brief botanical excursion to the Berastagi plateau and Sibayak Volcano in northern Sumatra undertaken in February 1921. The article's overarching thesis is that the mountain flora of Sumatra, while closely allied to that of Java, is fundamentally distinct from the highland flora of the Malay Peninsula, and that isolated patches of Himalayan-type vegetation in both regions constitute evidence of a former continuous land connection now severed by the encroachment of dark wet rainforest.

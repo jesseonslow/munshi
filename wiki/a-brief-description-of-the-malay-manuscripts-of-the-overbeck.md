@@ -5,8 +5,7 @@ title: A brief description of the “Malay” manuscripts of the “Overbeck Col
   at the Museum Pusat, Jakarta
 canonical_name: A brief description of the “Malay” manuscripts of the “Overbeck Collection”
   at the Museum Pusat, Jakarta
-type: article
-article_type: article
+type: publication
 authors:
 - E.U. Kratz
 year: 1980
@@ -20,6 +19,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: journal_article
 ---
 
 # A brief description of the “Malay” manuscripts of the “Overbeck Collection” at the Museum Pusat, Jakarta

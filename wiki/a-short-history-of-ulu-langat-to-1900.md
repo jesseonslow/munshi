@@ -3,8 +3,7 @@ id: a-short-history-of-ulu-langat-to-1900
 work_id: jmbras-80-2-p1
 title: A short history of Ulu Langat to 1900
 canonical_name: A short history of Ulu Langat to 1900
-type: article
-article_type: article
+type: publication
 authors:
 - J.M. Gullick
 year: 2007
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-293-gullick-shorthistoryulu-2007-5353cf2ddc48
 source_path: ../sources/jmbras-293-gullick-shorthistoryulu-2007-5353cf2ddc48/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # A short history of Ulu Langat to 1900
 
 J.M. Gullick's 2007 article traces the development of Ulu Langat district in Selangor from the early nineteenth century to 1900, arguing that despite its geographic isolation and comparatively modest tin deposits, the district transformed from a sparsely settled, hard-to-reach interior into a "flourishing planting district" by the century's end. The narrative is driven by the interplay of tin mining, colonial administrative consolidation, and—most decisively—the arrival of the railway and rubber cultivation in the 1890s.

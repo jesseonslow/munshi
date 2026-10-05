@@ -3,8 +3,7 @@ id: a-list-of-the-birds-of-the-bornean-group-of-islands
 work_id: jsbras-20-1-p91
 title: A list of the birds of the Bornean group of islands
 canonical_name: A list of the birds of the Bornean group of islands
-type: article
-article_type: article
+type: publication
 authors:
 - A.H. Everett
 year: 1889
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-020-everett-listbirdsbornean-1889-22d7ca9c1c98
 source_path: ../sources/jsbras-020-everett-listbirdsbornean-1889-22d7ca9c1c98.md
 summarized: true
+publication_type: journal_article
 ---
+
 # A list of the birds of the Bornean group of islands
 
 A.H. Everett, a naturalist working in Sarawak, published this comprehensive avifaunal checklist in 1889, cataloguing 570 bird species across the Bornean archipelago as delimited by a 100-fathom bathymetric boundary encompassing Borneo, Palawan, the Sulu Islands, and intervening islets. The work synthesizes the collections of numerous collectors to establish the first systematic inventory of the region's birds, identifying species and genera endemic to the group while explicitly acknowledging its provisional character (pp. 86–87).

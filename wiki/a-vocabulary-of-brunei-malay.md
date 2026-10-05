@@ -3,8 +3,7 @@ id: a-vocabulary-of-brunei-malay
 work_id: jsbras-83-1-p45
 title: A vocabulary of Brunei Malay
 canonical_name: A vocabulary of Brunei Malay
-type: article
-article_type: article
+type: publication
 authors:
 - H.B. Marshall
 year: 1921
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-083-marshall-vocabularybruneimalay-1921-92805f0205d0
 source_path: ../sources/jsbras-083-marshall-vocabularybruneimalay-1921-92805f0205d0.md
 summarized: true
+publication_type: journal_article
 ---
+
 # A vocabulary of Brunei Malay
 
 H. B. Marshall, a prospector working in the State of Brunei, compiled this 505-word vocabulary of Brunei Malay over several years at the suggestion of W. H. Lee-Warner, then Assistant Resident, and published it in 1921 with extensive comparative annotations by J. C. Moulton, Director of the Raffles Museum, Singapore. The central finding, advanced by Moulton in his prefatory notes, is that the majority of Brunei Malay lexical items have clear parallels in Sarawak Malay, Malay Peninsula Malay, or Dayak languages, leaving only about 35 per cent as genuinely distinctive Brunei words for which etymological connections remain to be established (p. 45).

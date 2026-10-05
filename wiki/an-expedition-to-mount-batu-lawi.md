@@ -3,8 +3,7 @@ id: an-expedition-to-mount-batu-lawi
 work_id: jsbras-63-1-p1
 title: An expedition to Mount Batu Lawi
 canonical_name: An expedition to Mount Batu Lawi
-type: article
-article_type: article
+type: publication
 authors:
 - J.C. Moulton
 year: 1912
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-259-hing-rafflesordergolden-1990-d67663d633f3
 source_path: ../sources/jmbras-259-hing-rafflesordergolden-1990-d67663d633f3.md
 summarized: true
+publication_type: journal_article
 ---
+
 # An expedition to Mount Batu Lawi
 
 Lee Kam Hing and Ahmat Adam (1990) examine the circumstances surrounding the conferral of the Order of the Golden Sword by Sultan Jauhar Alam Syah of Aceh upon Sir Stamford Raffles in 1811, a decoration that Raffles later incorporated into his personal coat of arms. Drawing on a recently discovered Malay letter from the Sultan and the Raffles-Minto Collection in the India Office Library, the authors resolve questions first raised by C. A. Gibson-Hill in 1956 about the timing, motivation, and significance of the award.

@@ -3,8 +3,7 @@ id: a-note-on-the-rawa
 work_id: jmbras-51-2-p143
 title: A note on ‘the Rawa’
 canonical_name: A note on ‘the Rawa’
-type: article
-article_type: article
+type: publication
 authors:
 - L.A. Mills
 year: 1978
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-234-milner-notetherawa-1978-a5f244cf3940
 source_path: ../sources/jmbras-234-milner-notetherawa-1978-a5f244cf3940.md
 summarized: true
+publication_type: journal_article
 ---
+
 # A note on ‘the Rawa’
 
 A.C. Milner (1978) examines the Rawa, a group of Sumatran migrants who played a significant but under-studied role in mid-nineteenth-century Peninsular Malay politics. The article argues that the Rawa were identifiable as Orang Rau from the region behind Tapanuli in West Sumatra, displaced by the Padri wars and Dutch conquest, and that their presence in the Malay States was shaped by an association with Islamic reformist movements that made them both valuable mercenaries and deeply distrusted outsiders.

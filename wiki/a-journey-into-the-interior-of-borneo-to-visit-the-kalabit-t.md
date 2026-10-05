@@ -3,8 +3,7 @@ id: a-journey-into-the-interior-of-borneo-to-visit-the-kalabit-t
 work_id: jsbras-49-1-p53
 title: A journey into the interior of Borneo to visit the Kalabit tribes
 canonical_name: A journey into the interior of Borneo to visit the Kalabit tribes
-type: article
-article_type: article
+type: publication
 authors:
 - R.S. Douglas
 year: 1907
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-049-douglas-journeyinteriorborneo-1907-82d06d779b6f
 source_path: ../sources/jsbras-049-douglas-journeyinteriorborneo-1907-82d06d779b6f.md
 summarized: true
+publication_type: journal_article
 ---
+
 # A journey into the interior of Borneo to visit the Kalabit tribes
 
 R.S. Douglas, a colonial administrator in Sarawak, published this travel account in 1907 describing his seventeen-day expedition into the central Bornean tableland to visit the Kalabit tribes, a people who had only recently acknowledged allegiance to the Sarawak Government. The article serves as both a geographical and ethnographic record of a region that was, at the time of writing, still largely uncontacted by European administration, and it documents the practical mechanics of extending colonial authority into the interior.

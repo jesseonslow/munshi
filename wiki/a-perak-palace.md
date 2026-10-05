@@ -3,8 +3,7 @@ id: a-perak-palace
 work_id: jmbras-7-3-p457
 title: A Perak palace
 canonical_name: A Perak palace
-type: article
-article_type: article
+type: publication
 authors:
 - R.O. Winstedt
 year: 1929
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-108-winstedt-perakpalace-1929-e2095809b863
 source_path: ../sources/jmalayanras-108-winstedt-perakpalace-1929-e2095809b863.md
 summarized: true
+publication_type: note
 ---
+
 # A Perak palace
 
 This short note by R. O. Winstedt presents a ground plan of a Perak palace of Malay type, drawn for him over twenty years prior to publication (p. 457).

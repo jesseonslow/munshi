@@ -3,8 +3,7 @@ id: a-sea-fight-near-singapore-in-the-1570s
 work_id: jmbras-29-3-p5
 title: A sea fight near Singapore in the 1570’s
 canonical_name: A sea fight near Singapore in the 1570’s. . f
-type: article
-article_type: article
+type: publication
 authors:
 - I.A. MacGregor
 year: 1956
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-175-macgregor-seafightnear-1956-4f5ae1b85be3
 source_path: ../sources/jmalayanras-175-macgregor-seafightnear-1956-4f5ae1b85be3/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # A sea fight near Singapore in the 1570’s
 
 I.A. MacGregor (1956) reconstructed the first of three naval engagements between the Portuguese and the Achinese off Singapore, fought on 1 January 1577 during the captaincy of Mathias de Albuquerque, and demonstrated that this battle — and its two successors — had been entirely absent from Malayan historiography since 1800 because they do not appear in Diogo do Couto's *Decades*. Drawing on three sixteenth- and seventeenth-century sources, two of them manuscript, MacGregor established the sequence of events, resolved contradictions between the witnesses, and placed the fight within the broader context of Achinese naval dominance in the Singapore and Johore waters of the 1570s.

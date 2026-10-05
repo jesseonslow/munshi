@@ -5,8 +5,7 @@ title: A rare book for the Tunku, with a contemporary portrait of Sultan Ahmad T
   Halim Shah of Kedah
 canonical_name: A rare book for the Tunku, with a contemporary portrait of Sultan
   Ahmad Taju’din Halim Shah of Kedah
-type: article
-article_type: article
+type: publication
 authors:
 - J.S. Bastin
 year: 1987
@@ -23,7 +22,9 @@ published: false
 source_doc: jsbras-067-moulton-listbutterfliesborneo-1914-5078f93c05bb
 source_path: ../sources/jsbras-067-moulton-listbutterfliesborneo-1914-5078f93c05bb.md
 summarized: true
+publication_type: journal_article
 ---
+
 # A rare book for the Tunku, with a contemporary portrait of Sultan Ahmad Taju’din Halim Shah of Kedah
 
 J.C. Moulton, Curator of the Sarawak Museum, published this fourth and penultimate instalment of his comprehensive checklist of Bornean butterflies in 1914, covering the family Papilionidae (swallowtails and whites). The paper consolidates nearly fifty years of collecting and taxonomic work into a definitive species list, while simultaneously mounting a sustained argument against the over-fragmentation of subspecific nomenclature that had become fashionable among European lepidopterists.

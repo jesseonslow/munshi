@@ -3,8 +3,7 @@ id: an-old-minangkabau-legal-digest-from-perak
 work_id: jmbras-26-1-p1
 title: An old Minangkabau legal digest from Perak
 canonical_name: An old Minangkabau legal digest from Perak
-type: article
-article_type: article
+type: publication
 authors:
 - R.O. Winstedt
 year: 1953
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-164-gibsonhill-cambridgeuniversityexpedition-1953-c0dbf648fddc
 source_path: ../sources/jmalayanras-164-gibsonhill-cambridgeuniversityexpedition-1953-c0dbf648fddc/frontmatter.md
 summarized: true
+publication_type: document
 ---
+
 # An old Minangkabau legal digest from Perak
 
 C.A. Gibson-Hill, W.W. Skeat, and F.F. Laidlaw published this comprehensive account of the Cambridge University Expedition to the Siamese-controlled Malay states of the east coast peninsula in 1953, drawing on Skeat's personal diaries and field notes from 1899–1900. The volume presents a detailed ethnographic, zoological, and botanical survey of Patani, Kelantan, Trengganu, Kedah, Perlis, and Upper Perak, produced at a moment when European contact was rapidly transforming the social and administrative fabric of these states.

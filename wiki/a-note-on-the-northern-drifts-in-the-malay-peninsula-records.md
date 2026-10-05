@@ -5,8 +5,7 @@ title: A note on the northern “drifts” in the Malay Peninsula. Records of th
   Museum, No. 14
 canonical_name: A note on the northern “drifts” in the Malay Peninsula. Records of
   the Raffles Museum, No. 14
-type: article
-article_type: article
+type: publication
 authors:
 - F.N. Chasen
 year: 1941
@@ -23,7 +22,9 @@ published: false
 source_doc: jmalayanras-139-chasen-notenortherndrifts-1941-7fd3bcecd87a
 source_path: ../sources/jmalayanras-139-chasen-notenortherndrifts-1941-7fd3bcecd87a.md
 summarized: true
+publication_type: note
 ---
+
 # A note on the northern “drifts” in the Malay Peninsula. Records of the Raffles Museum, No. 14
 
 F.N. Chasen's brief note responds to questions posed by Sir Richard Winstedt regarding prehistoric human movements in South-East Asia, offering a zoo-geographical perspective on the diffusion of animal faunas as an analogue for human migration routes (p. 99).

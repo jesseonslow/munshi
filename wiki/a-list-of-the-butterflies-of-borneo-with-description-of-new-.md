@@ -3,8 +3,7 @@ id: a-list-of-the-butterflies-of-borneo-with-description-of-new-
 work_id: jsbras-41-1-p81
 title: A list of the butterflies of Borneo with description of new species
 canonical_name: A list of the butterflies of Borneo with description of new species
-type: article
-article_type: article
+type: publication
 authors:
 - R.S. Shelford
 year: 1904
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-041-shelford-listbutterfliesborneo-1904-a7ce193303c1
 source_path: ../sources/jsbras-041-shelford-listbutterfliesborneo-1904-a7ce193303c1.md
 summarized: true
+publication_type: journal_article
 ---
+
 # A list of the butterflies of Borneo with description of new species
 
 R.S. Shelford, Curator of the Sarawak Museum, published this faunistic checklist in 1904 as Part I of what he intended to be a definitive and final enumeration of Borneo's butterflies, covering the subfamilies Danainae through Amathusiinae. Working from the Sarawak Museum collection and in consultation with leading authorities at the British Museum, Shelford sought to supersede three earlier, now-outdated lists and to describe several new species from material gathered across the island.

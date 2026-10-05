@@ -3,8 +3,7 @@ id: an-index-to-journals-nos-150-and-to-notes-and-queries-iiv
 work_id: jsbras-51-an-index-to-journals-nos-150-a
 title: An index to Journals Nos 1–50 and to Notes and Queries I―IV
 canonical_name: An index to Journals Nos 1–50 and to Notes and Queries I―IV
-type: article
-article_type: notes_and_queries
+type: publication
 authors:
 - W.D. Barnes
 year: 1909
@@ -18,6 +17,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: index
 ---
 
 # An index to Journals Nos 1–50 and to Notes and Queries I―IV

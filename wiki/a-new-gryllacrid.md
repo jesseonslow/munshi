@@ -3,8 +3,7 @@ id: a-new-gryllacrid
 work_id: jsbras-63-1-p89
 title: A new Gryllacrid
 canonical_name: A new Gryllacrid
-type: article
-article_type: article
+type: publication
 authors:
 - A. Griffini
 year: 1912
@@ -18,6 +17,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: note
 ---
 
 # A new Gryllacrid

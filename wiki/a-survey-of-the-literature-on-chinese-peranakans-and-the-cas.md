@@ -5,8 +5,7 @@ title: A survey of the literature on Chinese Peranakans and the case for a regio
   resource centre
 canonical_name: A survey of the literature on Chinese Peranakans and the case for
   a regional resource centre
-type: article
-article_type: article
+type: publication
 authors:
 - Ch'ng Kim See
 year: 2009
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-297-see-surveyliteraturechinese-2009-bc2cf2df05d2
 source_path: ../sources/jmbras-297-see-surveyliteraturechinese-2009-bc2cf2df05d2/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # A survey of the literature on Chinese Peranakans and the case for a regional resource centre
 
 Ch'ng Kim See's 2009 survey, published in the *Journal of the Malaysian Branch of the Royal Asiatic Society*, assesses the fragmented state of Peranakan documentation across Malaysian and Singaporean institutions and argues for the establishment of a dedicated regional resource centre in Penang to preserve and consolidate the community's heritage before it is lost.

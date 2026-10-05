@@ -3,8 +3,7 @@ id: a-note-on-the-tagals-of-sarawak
 work_id: jsbras-85-1-p216
 title: A note on the Tagals of Sarawak
 canonical_name: A note on the Tagals of Sarawak
-type: article
-article_type: article
+type: publication
 authors:
 - E.V. Andreini
 year: 1922
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-085-andreini-notetagalssarawak-1922-7d9abf3dadfb
 source_path: ../sources/jsbras-085-andreini-notetagalssarawak-1922-7d9abf3dadfb.md
 summarized: true
+publication_type: note
 ---
+
 # A note on the Tagals of Sarawak
 
 A brief ethnographic note by E. V. Andreini describing the customs, beliefs, and material culture of the Tagal people of Sarawak.

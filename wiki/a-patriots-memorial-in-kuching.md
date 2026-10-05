@@ -3,8 +3,7 @@ id: a-patriots-memorial-in-kuching
 work_id: jmbras-64-1-p119
 title: A patriot’s memorial in Kuching
 canonical_name: A patriot’s memorial in Kuching
-type: article
-article_type: article
+type: publication
 authors:
 - Mubin Sheppard
 year: 1991
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-260-sheppard-patriotsmemorialkuching-1991-9838650f7bb9
 source_path: ../sources/jmbras-260-sheppard-patriotsmemorialkuching-1991-9838650f7bb9.md
 summarized: true
+publication_type: journal_article
 ---
+
 # A patriot’s memorial in Kuching
 
 Mubin Sheppard's 1991 article traces the arc from the 1946 Cession of Sarawak to Britain through the 1949 assassination of Governor Sir Duncan Stewart by the Malay youth Rosli bin Dhobi, to the 1990 laying of a foundation stone for a Patriots' Memorial in Kuching — an act driven by the personal determination of Tunku Abdul Rahman to ensure that Sarawak's early independence pioneers were not forgotten. The piece functions as both a corrective to the historical neglect of Sarawak's anti-cession resistance and a commemorative account of Tunku's final public act.

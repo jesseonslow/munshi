@@ -3,8 +3,7 @@ id: a-tamil-malay-manuscript
 work_id: jsbras-85-1-p29
 title: A Tamil Malay manuscript
 canonical_name: A Tamil Malay manuscript
-type: article
-article_type: article
+type: publication
 authors:
 - Ph. S. van Ronkel
 year: 1922
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-085-ronkel-tamilmalaymanuscript-1922-65bba1df5c47
 source_path: ../sources/jsbras-085-ronkel-tamilmalaymanuscript-1922-65bba1df5c47.md
 summarized: true
+publication_type: journal_article
 ---
+
 # A Tamil Malay manuscript
 
 Ph. S. van Ronkel, Professor of Malay at Leiden University, published this article in 1922 describing a multilingual Islamic manuscript (Leyden University Library, No. 754) composed in Tamil, Malay, Arabic, and Persian, which he presents as material evidence for the South Indian origins of Islam in the Indonesian Archipelago. The manuscript, dated internally to 29 August 1767, was acquired by Snouck Hurgronje in Java and is argued to have been produced by a peranakan scribe of Tamil-Malay parentage in British Malaya.

@@ -5,8 +5,7 @@ title: An abnormal, or unnamed, sea-snake. N. Smedley and C.B. Kloss. Records of
   Raffles Museum, No. 18
 canonical_name: An abnormal, or unnamed, sea-snake. N. Smedley and C.B. Kloss. Records
   of the Raffles Museum, No. 18
-type: article
-article_type: article
+type: publication
 authors:
 - C.B. Kloss
 - N. Smedley
@@ -24,7 +23,9 @@ published: false
 source_doc: jmalayanras-096-smedley-abnormalunnamedseasnake-1926-0cf47156b4b2
 source_path: ../sources/jmalayanras-096-smedley-abnormalunnamedseasnake-1926-0cf47156b4b2.md
 summarized: true
+publication_type: note
 ---
+
 # An abnormal, or unnamed, sea-snake. N. Smedley and C.B. Kloss. Records of the Raffles Museum, No. 18
 
 This brief note by N. Smedley and C. B. Kloss discusses abnormal sea-snake specimens that do not conform to the expected morphology of known *Laticauda* species.

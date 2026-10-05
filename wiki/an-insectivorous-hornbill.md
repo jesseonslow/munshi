@@ -3,8 +3,7 @@ id: an-insectivorous-hornbill
 work_id: jsbras-54-1-p157
 title: An insectivorous hornbill
 canonical_name: An insectivorous hornbill
-type: article
-article_type: article
+type: publication
 authors:
 - J.C. Moulton
 - H.N. Ridley
@@ -22,7 +21,9 @@ published: false
 source_doc: jsbras-054-moulton-insectivoroushornbill-1910-0dfb5609c13c
 source_path: ../sources/jsbras-054-moulton-insectivoroushornbill-1910-0dfb5609c13c.md
 summarized: true
+publication_type: note
 ---
+
 # An insectivorous hornbill
 
 This is a brief note by J. C. Moulton reporting an observation of an insectivorous hornbill on the higher slopes of Penrissen in Sarawak (p. 158).

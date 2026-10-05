@@ -3,8 +3,7 @@ id: a-note-of-the-habits-of-the-pygmy-falcon
 work_id: jmbras-1-2-p377
 title: A note of the habits of the pygmy falcon
 canonical_name: A note of the habits of the pygmy falcon
-type: article
-article_type: article
+type: publication
 authors:
 - F.F. Laidlaw
 year: 1923
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-088-laidlaw-notehabitspygmy-1923-c59dba79fed4
 source_path: ../sources/jmalayanras-088-laidlaw-notehabitspygmy-1923-c59dba79fed4.md
 summarized: true
+publication_type: note
 ---
+
 # A note of the habits of the pygmy falcon
 
 This is a brief note by F. F. Laidlaw, published in *JMBRAS* Vol. 1, No. 2 (1923), p. 377. Despite the catalogued title "A note on the habits of the Pygmy Falcon," the surviving text fragment actually describes a *bomor* (shaman) conducting a healing seance, and is headed in the journal as part of Laidlaw's "Miscellaneous Notes."

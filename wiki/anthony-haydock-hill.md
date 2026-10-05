@@ -14,8 +14,8 @@ is_cluster: false
 is_contributor: true
 status: stub
 published: false
+type: person
 ---
-
 
 # Anthony Haydock Hill
 

@@ -3,8 +3,7 @@ id: a-journey-in-the-ulu-rompin-district-south-east-pahang
 work_id: jmbras-4-2-p201
 title: A journey in the Ulu Rompin district, south-east Pahang
 canonical_name: A journey in the Ulu Rompin district, south-east Pahang
-type: article
-article_type: article
+type: publication
 authors:
 - E.S. Willbourn
 year: 1926
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-097-willbourn-journeyulurompin-1926-e6f5c65c123a
 source_path: ../sources/jmalayanras-097-willbourn-journeyulurompin-1926-e6f5c65c123a.md
 summarized: true
+publication_type: journal_article
 ---
+
 # A journey in the Ulu Rompin district, south-east Pahang
 
 E.S. Willbourn published this first-person account in 1926, describing a July–August 1925 expedition through the Ulu Rompin district of south-east Pahang, a region he characterises as "very little known." The article serves as a geological and geographical survey of the upper Sungai Sekin tributary and its surrounding ridgelines, documenting the first recorded ascents of several peaks and the first European penetration of the Ulu Sekin headwaters.

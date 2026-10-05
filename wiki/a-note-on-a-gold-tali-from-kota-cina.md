@@ -3,8 +3,7 @@ id: a-note-on-a-gold-tali-from-kota-cina
 work_id: jmbras-53-2-p117
 title: A note on a gold ‘tali’ from Kota Cina
 canonical_name: A note on a gold ‘_tali_’ from Kota Cina
-type: article
-article_type: article
+type: publication
 authors:
 - E.E. McKinnon
 year: 1980
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-238-mckinnon-notegoldtli-1980-b7bb914d363a
 source_path: ../sources/jmbras-238-mckinnon-notegoldtli-1980-b7bb914d363a.md
 summarized: true
+publication_type: note
 ---
+
 # A note on a gold ‘tali’ from Kota Cina
 
 E. Edwards McKinnon's brief note describes a gold *tāli* (a South Indian married-women's pendant) excavated in 1976 at Location 1, Kota Cina, and identifies it as an imitation of an Egyptian Fatimid or Ayyubid gold dinar of the twelfth century (p. 117).

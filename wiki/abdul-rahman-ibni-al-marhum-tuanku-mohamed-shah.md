@@ -13,6 +13,7 @@ is_cluster: false
 is_contributor: false
 status: stub
 published: false
+type: person
 ---
 
 # Abdul Rahman ibni al-Marhum Tuanku Mohamed Shah

@@ -3,8 +3,7 @@ id: annexation-in-the-malay-states-the-jervois-papers
 work_id: jmbras-72-1-p1
 title: 'Annexation in the Malay states: the Jervois papers'
 canonical_name: 'Annexation in the Malay states: the Jervois papers'
-type: article
-article_type: article
+type: publication
 authors:
 - P.L. Burns
 year: 1999
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-083-humphreys-naningrecital-1921-797a6f1d5c31
 source_path: ../sources/jsbras-083-humphreys-naningrecital-1921-797a6f1d5c31.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Annexation in the Malay states: the Jervois papers
 
 J.L. Humphreys, a Malayan Civil Service officer stationed at Alor Gajah, published "A Naning Recital" in 1921 in the Journal of the Straits Branch of the Royal Asiatic Society (No. 88), presenting a restored Malay customary wedding speech from Naning, Malacca, collected from an elderly reciter named Ungkai Lisut. The article documents the survival of Menangkabau customary law (*Adat*) in a community that had been politically annihilated by British colonial administration following the Naning War of 1831–1832, and uses the recital as a lens into the mythic origins of the two great Malay legal traditions.

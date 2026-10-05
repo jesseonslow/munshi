@@ -3,8 +3,7 @@ id: a-day-at-christmas-island
 work_id: jsbras-23-1-p123
 title: A day at Christmas Island
 canonical_name: A day at Christmas Island
-type: article
-article_type: article
+type: publication
 authors:
 - H.N. Ridley
 year: 1891
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-023-ridley-daychristmasisland-1891-50e1b7f8537a
 source_path: ../sources/jsbras-023-ridley-daychristmasisland-1891-50e1b7f8537a.md
 summarized: true
+publication_type: journal_article
 ---
+
 # A day at Christmas Island
 
 H. N. Ridley, Director of the Singapore Botanic Gardens, published this natural history account in 1891 following a single day's visit to Christmas Island aboard HMS *Redpole* in August 1890. The article documents the island's flora and fauna in considerable detail and uses the observations to address the broader biogeographical question of how remote oceanic islands are colonized.

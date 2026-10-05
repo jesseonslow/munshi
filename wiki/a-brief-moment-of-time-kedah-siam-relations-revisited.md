@@ -3,8 +3,7 @@ id: a-brief-moment-of-time-kedah-siam-relations-revisited
 work_id: jmbras-72-2-p65
 title: 'A brief moment of time: Kedah-Siam relations revisited'
 canonical_name: 'A brief moment of time: Kedah-Siam relations revisited'
-type: article
-article_type: article
+type: publication
 authors:
 - Kobkua Suwannathat-Pian
 year: 1999
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-277-suwwannathatpian-briefmomenttime-1999-93dc1377ee2c
 source_path: ../sources/jmbras-277-suwwannathatpian-briefmomenttime-1999-93dc1377ee2c/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # A brief moment of time: Kedah-Siam relations revisited
 
 Kobkua Suwannathat-Pian (1999) re-examines Kedah–Siam tributary relations during the critical years 1809–1811 by translating and analysing five official dispatches from the Bangkok court, all dated to the year of the Goat, Trisok (J.S. 1173/1811). Her overarching thesis challenges the dominant scholarly narrative—established by R. Bonney and rooted in British archival sources—that Siamese overlordship of Kedah was characterised by abuse, excessive demands, and direct interference in internal affairs.

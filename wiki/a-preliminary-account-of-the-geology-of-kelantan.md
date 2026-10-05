@@ -3,8 +3,7 @@ id: a-preliminary-account-of-the-geology-of-kelantan
 work_id: jmbras-3-1-p61
 title: A preliminary account of the geology of Kelantan
 canonical_name: A preliminary account of the geology of Kelantan
-type: article
-article_type: article
+type: publication
 authors:
 - H.E. Savage
 year: 1925
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-093-savage-preliminaryaccountgeology-1925-a3b33abe1e5f
 source_path: ../sources/jmalayanras-093-savage-preliminaryaccountgeology-1925-a3b33abe1e5f.md
 summarized: true
+publication_type: journal_article
 ---
+
 # A preliminary account of the geology of Kelantan
 
 H.E. Savage published this preliminary geological account of Kelantan in 1925, during the period of British administrative consolidation over the state. The article systematically maps the major rock series of the state and their spatial relationships, arguing that the geology of Kelantan is dominated by the Main Range granite and that the older pre-granite series (Raub, Chert, Pahang Volcanic, and Quartzite and Shale) are arranged in a broadly consistent structural pattern shaped by strong shearing associated with the granite intrusion.

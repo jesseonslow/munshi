@@ -3,8 +3,7 @@ id: a-note-on-some-murut-kinship-terms
 work_id: jmbras-28-1-p159
 title: A note on some Murut kinship terms
 canonical_name: A note on some Murut kinship terms
-type: article
-article_type: article
+type: publication
 authors:
 - R. Needham
 year: 1955
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-169-needham-notemurutkinship-1955-2c1c12a33b84
 source_path: ../sources/jmalayanras-169-needham-notemurutkinship-1955-2c1c12a33b84.md
 summarized: true
+publication_type: note
 ---
+
 # A note on some Murut kinship terms
 
 A short note by Rodney Needham presenting kinship terms recorded among the Lun Daya (upper Sesayap, British North Borneo) to supplement his earlier 1953 note on Murut kinship terminologies.

@@ -3,8 +3,7 @@ id: a-pasai-chief-with-a-persian-memorial-inscription
 work_id: jmbras-18-2-p149
 title: A Pasai chief with a Persian memorial inscription
 canonical_name: A Pasai chief with a Persian memorial inscription
-type: article
-article_type: article
+type: publication
 authors:
 - R.O. Winstedt
 year: 1940
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-138-winstedt-pasaichiefpersian-1940-05e612491f19
 source_path: ../sources/jmalayanras-138-winstedt-pasaichiefpersian-1940-05e612491f19.md
 summarized: true
+publication_type: note
 ---
+
 # A Pasai chief with a Persian memorial inscription
 
 This brief note by R. O. Winstedt reports on a Persian memorial inscription discovered near the village of Samudra in North Sumatra, associated with a Pasai chief named Husam al-Din.

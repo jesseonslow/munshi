@@ -5,8 +5,7 @@ title: 'A note on the Maha-Bharata in Malaysia and Indonesia: Sabha-Parva found 
   Bali'
 canonical_name: 'A note on the Maha-Bharata in Malaysia and Indonesia: Sabha-Parva
   found in Bali'
-type: article
-article_type: article
+type: publication
 authors:
 - C. Hooykaas
 year: 1965
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-208-hooykaas-notemahbhratamalaysia-1965-4379471936f7
 source_path: ../sources/jmbras-208-hooykaas-notemahbhratamalaysia-1965-4379471936f7.md
 summarized: true
+publication_type: note
 ---
+
 # A note on the Maha-Bharata in Malaysia and Indonesia: Sabha-Parva found in Bali
 
 C. Hooykaas, writing in 1965, reports the discovery in Bali of a metrical paraphrase (*parikan*) of the Sabha-Parva of the Mahā-Bhārata and argues that this find fundamentally challenges the long-held assumption that only eight of the epic's eighteen parvas survive in Old Javanese. The article situates this discovery within the broader, still-underserved field of Mahā-Bhārata transmission across Malaysia and Indonesia, calling for further manuscript collection and philological work.

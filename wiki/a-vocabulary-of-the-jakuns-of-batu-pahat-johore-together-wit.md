@@ -5,8 +5,7 @@ title: A vocabulary of the Jakuns of Batu Pahat, Johore, together with some rema
   on their customs and peculiarities
 canonical_name: A vocabulary of the Jakuns of Batu Pahat, Johore, together with some
   remarks on their customs and peculiarities
-type: article
-article_type: article
+type: publication
 authors:
 - A.D. Machado
 year: 1902
@@ -23,7 +22,9 @@ published: false
 source_doc: jsbras-038-machado-vocabularyjakunsbatu-1902-a88a7adada1f
 source_path: ../sources/jsbras-038-machado-vocabularyjakunsbatu-1902-a88a7adada1f.md
 summarized: true
+publication_type: note
 ---
+
 # A vocabulary of the Jakuns of Batu Pahat, Johore, together with some remarks on their customs and peculiarities
 
 A.D. Machado's 1902 note documents the residual vocabulary of the Jakuns of Batu Pahat, Johore, accompanied by brief observations on their customs, social relations with Malays and Chinese, and a distinctive form of circumcision (pp. 29–33).

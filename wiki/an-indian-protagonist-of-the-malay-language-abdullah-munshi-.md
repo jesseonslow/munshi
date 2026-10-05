@@ -5,8 +5,7 @@ title: 'An Indian protagonist of the Malay language: Abdullah “Munshi”, his 
   his mother-tongue'
 canonical_name: 'An Indian protagonist of the Malay language: Abdullah “Munshi”, his
   race and his mother-tongue'
-type: article
-article_type: article
+type: publication
 authors:
 - H.F. O'B. Traill
 year: 1979
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-236-traill-indianprotagonistmalay-1979-ae9417eb35b2
 source_path: ../sources/jmbras-236-traill-indianprotagonistmalay-1979-ae9417eb35b2.md
 summarized: true
+publication_type: journal_article
 ---
+
 # An Indian protagonist of the Malay language: Abdullah “Munshi”, his race and his mother-tongue
 
 H.F. O'B. Traill's 1979 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* (Vol. 52, Part 2) re-examines the racial and linguistic identity of Abdullah bin Abdul Kadir, the early nineteenth-century writer known as Abdullah "Munshi", arguing that the long-standing assumption of his Malay or half-Malay heritage is incorrect and that he was in fact a *Peranakan Keling* whose mother-tongue was Tamil, not Malay.

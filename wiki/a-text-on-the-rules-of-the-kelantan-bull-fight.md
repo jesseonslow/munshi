@@ -3,8 +3,7 @@ id: a-text-on-the-rules-of-the-kelantan-bull-fight
 work_id: jmbras-37-2-p1
 title: A text on the rules of the Kelantan bull-fight
 canonical_name: A text on the rules of the Kelantan bull-fight
-type: article
-article_type: article
+type: publication
 authors:
 - Muhammad Taib Osman
 year: 1964
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-037-waterstradt-kelantantripgunong-1902-b1e9725f3873
 source_path: ../sources/jsbras-037-waterstradt-kelantantripgunong-1902-b1e9725f3873.md
 summarized: true
+publication_type: document
 ---
+
 # A text on the rules of the Kelantan bull-fight
 
 John Waterstradt's 1902 account, published in the *Journal of the Straits Branch of the Royal Asiatic Society*, documents two arduous attempts to ascend Gunong Tahan—the mountain then believed to be the highest in the Malay Peninsula—via the Kelantan river system, driven by a desire to compare its fauna with that of Mount Kinabalu in Borneo. The narrative reveals that the mountain, long thought to approach 10,000 feet, was in fact only 5,500 feet high, and that the route from the Pahang side (from which earlier expeditions had failed) was far more precipitous than the Kelantan approach.

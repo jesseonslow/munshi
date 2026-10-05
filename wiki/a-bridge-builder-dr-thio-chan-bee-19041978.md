@@ -3,8 +3,7 @@ id: a-bridge-builder-dr-thio-chan-bee-19041978
 work_id: jmbras-70-1-p71
 title: A bridge-builder. Dr Thio Chan Bee (1904–1978)
 canonical_name: A bridge-builder. Dr Thio Chan Bee (1904–1978)
-type: article
-article_type: article
+type: publication
 authors:
 - N. Ong
 year: 1997
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-272-ong-bridgebuilderdrthio-1997-c0ea46af1979
 source_path: ../sources/jmbras-272-ong-bridgebuilderdrthio-1997-c0ea46af1979/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # A bridge-builder. Dr Thio Chan Bee (1904–1978)
 
 Noel Ong's 1997 biographical study of Dr Thio Chan Bee (1904–1978), published in the *Journal of the Malaysian Branch of the Royal Asiatic Society*, traces the life of a Straits Chinese educator and politician who, inspired by his Christian faith and the Moral Re-Armament movement, devoted himself to constructing inter-racial and inter-communal bridges in Singapore and Malaya from the 1920s through the 1970s. Set against the backdrop of colonial rule, Japanese occupation, the Malayan Union controversy, and the turbulent path to independence, the article argues that Thio's consistent commitment to cooperation over confrontation made him a pivotal though ultimately marginalised figure in the region's political development.

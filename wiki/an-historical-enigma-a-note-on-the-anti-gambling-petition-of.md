@@ -3,8 +3,7 @@ id: an-historical-enigma-a-note-on-the-anti-gambling-petition-of
 work_id: jmbras-56-1-p1
 title: 'An historical enigma: a note on the anti-gambling petition of 1905'
 canonical_name: 'An historical enigma: a note on the anti-gambling petition of 1905'
-type: article
-article_type: article
+type: publication
 authors:
 - J.G. Butcher
 year: 1983
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-083-moulton-annualreportstraits-1921-c9a1c722dbec
 source_path: ../sources/jsbras-083-moulton-annualreportstraits-1921-c9a1c722dbec.md
 summarized: true
+publication_type: note
 ---
+
 # An historical enigma: a note on the anti-gambling petition of 1905
 
 I must flag a significant discrepancy: the publication metadata identifies this as J.G. Butcher's 1983 article "An historical enigma: a note on the anti-gambling petition of 1905" (JMBRAS Vol. 56, pp. 1–9), but the primary source text actually provided is the **Annual Report of the Straits Branch, Royal Asiatic Society for 1920**, authored by J. C. Moulton (Hon. Secretary) and V. Knight, published in 1921. I will summarise the document as it actually appears in the text.

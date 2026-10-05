@@ -3,8 +3,7 @@ id: an-early-malay-inscription-in-trengganu
 work_id: jmbras-2-3-p252
 title: An early Malay inscription in Trengganu
 canonical_name: An early Malay inscription in Trengganu
-type: article
-article_type: article
+type: publication
 authors:
 - H.S. Paterson
 year: 1924
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-092-paterson-earlymalayinscription-1924-9ac6421409b7
 source_path: ../sources/jmalayanras-092-paterson-earlymalayinscription-1924-9ac6421409b7.md
 summarized: true
+publication_type: journal_article
 ---
+
 # An early Malay inscription in Trengganu
 
 H. S. Paterson, a British military officer serving in the colonial administration, published this preliminary notice in 1924 reporting on a fragmentary gneissic granite stele discovered in Trengganu, dated to 702 A.H. (c. 1303 C.E.). The inscription is of major significance as the oldest known Malay text rendered in Arabic script and the earliest contemporary record of Islam's formal introduction to any state on the Malay Peninsula, predating the next such record by a full century.

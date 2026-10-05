@@ -5,8 +5,7 @@ title: A new squirrel from Tenggol Island, east coast of the Malay Peninsula. Re
   of the Raffles Museum, No. 23
 canonical_name: A new squirrel from Tenggol Island, east coast of the Malay Peninsula.
   Records of the Raffles Museum, No. 23
-type: article
-article_type: article
+type: publication
 authors:
 - C.B. Kloss
 year: 1926
@@ -23,7 +22,9 @@ published: false
 source_doc: jmalayanras-097-kloss-newsquirreltenggol-1926-185018fd281e
 source_path: ../sources/jmalayanras-097-kloss-newsquirreltenggol-1926-185018fd281e.md
 summarized: true
+publication_type: note
 ---
+
 # A new squirrel from Tenggol Island, east coast of the Malay Peninsula. Records of the Raffles Museum, No. 23
 
 C. Boden Kloss describes a new subspecies of coconut squirrel, *Sciurus notatus guillemardi*, collected from Pulau Tenggol on the east coast of the Malay Peninsula (p. 260).

@@ -3,8 +3,7 @@ id: a-history-of-santubong-an-island-off-the-coast-of-sarawak
 work_id: jsbras-52-1-p1
 title: A history of Santubong, an island off the coast of Sarawak
 canonical_name: A history of Santubong, an island off the coast of Sarawak
-type: article
-article_type: article
+type: publication
 authors:
 - H.H. Everett
 year: 1909
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-235-cushman-eighteenthnineteenthcenturychinese-1979-5b52f586fb21
 source_path: ../sources/jmbras-235-cushman-eighteenthnineteenthcenturychinese-1979-5b52f586fb21/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # A history of Santubong, an island off the coast of Sarawak
 
 J.W. Cushman and A.C. Milner published this article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* in 1979, presenting English translations of three Chinese geographical texts covering the Malay peninsula from the late eighteenth to early nineteenth century. The authors argue that these Chinese sources, long neglected by Malayan historians in favour of European accounts, offer a distinctive and complementary perspective on the region's commerce, society, and political relationships during the century before British colonial consolidation.

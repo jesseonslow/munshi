@@ -22,7 +22,7 @@ source_doc: jsbras-065-blagden-notekotakapur-1913-ee8e24f83240
 source_path: ../sources/jsbras-065-blagden-notekotakapur-1913-ee8e24f83240.md
 summarized: true
 ---
-# Welcome to our new patron {HH Idris Shah Raja Muda of Selangor
+# Welcome to our new patron (HH Idris Shah Raja Muda of Selangor)
 
 This is a brief correction note by C. O. Blagden clarifying diacritical distinctions in his earlier transcription of the Kota Kapur Inscription, published in the Journal of the Straits Branch of the Royal Asiatic Society, No. 65 (1913).
 

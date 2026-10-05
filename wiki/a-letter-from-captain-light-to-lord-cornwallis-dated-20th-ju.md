@@ -5,8 +5,7 @@ title: A letter from Captain Light to Lord Cornwallis dated 20th June, 1788. Com
   C.E. Wurtzburg
 canonical_name: A letter from Captain Light to Lord Cornwallis dated 20th June, 1788.
   Communicated C.E. Wurtzburg
-type: article
-article_type: article
+type: publication
 authors:
 - F. Light
 - C.E. Wurtzburg
@@ -24,7 +23,9 @@ published: false
 source_doc: jmalayanras-131-wurtzburg-lettercaptainlight-1938-47df68f045b2
 source_path: ../sources/jmalayanras-131-wurtzburg-lettercaptainlight-1938-47df68f045b2.md
 summarized: true
+publication_type: document
 ---
+
 # A letter from Captain Light to Lord Cornwallis dated 20th June, 1788. Communicated C.E. Wurtzburg
 
 Francis Light, the founding administrator of Penang, addressed this letter to Lord Cornwallis, Governor-General of India, on 20 June 1788, just two years after the island's acquisition. Published by C. E. Wurtzburg in the *Journal of the Malayan Branch of the Royal Asiatic Society* (1938), the document presents Light's diagnosis of the commercial collapse in the Straits of Malacca and his proposal for a bilateral treaty with the Dutch to restore regional trade.

@@ -5,8 +5,7 @@ title: 'A priest’s bell and a temple lamp: reinterpretation of the function of
   Kedah artefacts'
 canonical_name: 'A priest’s bell and a temple lamp: reinterpretation of the function
   of some Kedah artefacts'
-type: article
-article_type: article
+type: publication
 authors:
 - F.E. Treloar
 year: 1979
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-236-treloar-priestsbelltemple-1979-c57d9a9cc0f5
 source_path: ../sources/jmbras-236-treloar-priestsbelltemple-1979-c57d9a9cc0f5/frontmatter.md
 summarized: true
+publication_type: note
 ---
+
 # A priest’s bell and a temple lamp: reinterpretation of the function of some Kedah artefacts
 
 F.E. Treloar's short note proposes reinterpretations of two bronze artefacts excavated by H.G. Quaritch Wales at Kedah sites in the 1930s, arguing that a "trident of Siva" from Candi Bukit Batu Pahat (Site 8) is in fact the top of a Siva priest's hand-bell, and that a "fragmentary base of an image" from the same site is the central dish of a bronze hanging temple lamp (p. 48).

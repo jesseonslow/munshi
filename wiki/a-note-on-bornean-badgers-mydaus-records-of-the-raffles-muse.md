@@ -4,8 +4,7 @@ work_id: jmbras-5-2-p348
 title: A note on Bornean badgers (Mydaus). Records of the Raffles Museum, No. 26
 canonical_name: A note on Bornean badgers _(Mydaus)._ Records of the Raffles Museum,
   No. 26
-type: article
-article_type: article
+type: publication
 authors:
 - C.B. Kloss
 year: 1927
@@ -22,7 +21,9 @@ published: false
 source_doc: jmalayanras-100-kloss-noteborneanbadgers-1927-a96d49c7df23
 source_path: ../sources/jmalayanras-100-kloss-noteborneanbadgers-1927-a96d49c7df23.md
 summarized: true
+publication_type: note
 ---
+
 # A note on Bornean badgers (Mydaus). Records of the Raffles Museum, No. 26
 
 This note by C. Boden Kloss addresses the taxonomic status of Bornean badgers (*Mydaus*), arguing that the name *M. luciferoides* Lönnerberg & Mjöberg is a gratuitous synonym of *M. javanensis montanus* Moulton and that all Bornean specimens should be referred to *M. javanensis lucifer* Thomas (p. 348).

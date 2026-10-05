@@ -3,8 +3,7 @@ id: a-comparative-linguistic-study-of-three-malayan-aborigine-tr
 work_id: jmbras-50-2-p46
 title: A comparative linguistic study of three Malayan aborigine tribes
 canonical_name: A comparative linguistic study of three Malayan aborigine tribes
-type: article
-article_type: article
+type: publication
 authors:
 - P.B. Means
 year: 1977
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-232-means-comparativelinguisticstudy-1977-72b91efdd630
 source_path: ../sources/jmbras-232-means-comparativelinguisticstudy-1977-72b91efdd630.md
 summarized: true
+publication_type: journal_article
 ---
+
 # A comparative linguistic study of three Malayan aborigine tribes
 
 Paul B. Means published this comparative linguistic study in 1977, presenting parallel vocabulary from three Orang Asli languages of northern Malaya—Semang (Negrito) of Kedah, Sengoi of Perak, and Temiar of Kelantan—collected through direct fieldwork and supplemented by earlier scholarly sources. The article argues that these three languages, while mutually unintelligible as independent units, share structural features (particularly the *n*-infix morphology and dual pronoun systems) that align them with the Mon-Khmer branch of Austro-Asiatic rather than with the Austronesian family dominant in the region, and that their residual Old Indonesian (OIN) roots reflect varying degrees of proximity to coastal cultural influence.

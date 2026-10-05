@@ -3,8 +3,7 @@ id: an-examination-of-the-fall-of-malacca-in-1511
 work_id: jmbras-57-1-p26
 title: An examination of the fall of Malacca in 1511
 canonical_name: An examination of the fall of Malacca in 1511
-type: article
-article_type: article
+type: publication
 authors:
 - R.W. McRoberts
 year: 1984
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-246-mcroberts-examinationfallmelaka-1984-b9bfa8f1a6e4
 source_path: ../sources/jmbras-246-mcroberts-examinationfallmelaka-1984-b9bfa8f1a6e4.md
 summarized: true
+publication_type: journal_article
 ---
+
 # An examination of the fall of Malacca in 1511
 
 R.W. McRoberts (1984) re-examines the Portuguese conquest of Melaka in 1511, arguing against the dominant historiographical tradition that attributes the fall to the moral failings of Sultan Mahmud or to the inevitability of colonial expansion, and instead reconstructs the event from primary Portuguese and Malay sources to demonstrate that Melaka was a militarily prepared, politically cohesive empire whose capital fell due to a combination of divided strategic priorities, the specific geography of the city, and a critical tactical error by its ruler.

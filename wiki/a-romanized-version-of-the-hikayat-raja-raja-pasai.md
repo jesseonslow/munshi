@@ -3,8 +3,7 @@ id: a-romanized-version-of-the-hikayat-raja-raja-pasai
 work_id: jsbras-66-1-p1
 title: A romanized version of the Hikayat Raja-Raja Pasai
 canonical_name: A romanized version of the _Hikayat Raja-Raja Pasai._
-type: article
-article_type: article
+type: publication
 authors:
 - J.P. Mead
 year: 1914
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-077-winstedt-adventmuhammadanismmalay-1917-e684a54b5d4f
 source_path: ../sources/jsbras-077-winstedt-adventmuhammadanismmalay-1917-e684a54b5d4f.md
 summarized: true
+publication_type: translation
 ---
+
 # A romanized version of the Hikayat Raja-Raja Pasai
 
 R. O. Winstedt's 1917 article traces the diffusion of Islam across the Malay Peninsula and Archipelago from the earliest Arab trading contacts at Kedah in the tenth century through the establishment of Muslim polities in Java, Sumatra, Borneo, and the Moluccas by the seventeenth century. The overarching thesis is that Islam spread through a combination of commercial contact, royal conversion, and the deliberate missionary activity of Arab and Indian (particularly Gujarati and Hadhrami) scholars, with each successive trading port—Kedah, Pasai, Malacca, Acheen—serving as a relay point for the faith's advance.

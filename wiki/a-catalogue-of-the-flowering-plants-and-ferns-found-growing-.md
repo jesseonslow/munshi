@@ -5,8 +5,7 @@ title: A catalogue of the flowering plants and ferns found growing wild in the I
   of Penang
 canonical_name: A catalogue of the flowering plants and ferns found growing wild in
   the Island of Penang
-type: article
-article_type: article
+type: publication
 authors:
 - C. Curtis
 year: 1894
@@ -23,7 +22,9 @@ published: false
 source_doc: jsbras-025-curtis-cataloguefloweringplants-1894-c02cf09dc168
 source_path: ../sources/jsbras-025-curtis-cataloguefloweringplants-1894-c02cf09dc168.md
 summarized: true
+publication_type: journal_article
 ---
+
 # A catalogue of the flowering plants and ferns found growing wild in the Island of Penang
 
 C. Curtis, Assistant Superintendent of Forests in Penang, published this comprehensive catalogue of the wild flowering plants and ferns of Penang Island in 1894, providing the first systematic floristic inventory of the settlement. The work, compiled over approximately seven years of field collection and determination, documents the island's botanical wealth at a moment when lowland forests were being progressively replaced by cultivation and secondary succession.

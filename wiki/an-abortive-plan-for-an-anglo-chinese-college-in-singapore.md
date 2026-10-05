@@ -3,8 +3,7 @@ id: an-abortive-plan-for-an-anglo-chinese-college-in-singapore
 work_id: jmbras-45-2-p97
 title: An abortive plan for an Anglo-Chinese College in Singapore
 canonical_name: An abortive plan for an Anglo-Chinese College in Singapore
-type: article
-article_type: article
+type: publication
 authors:
 - H.E. Wilson
 year: 1972
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-222-wilson-abortiveplananglo-1972-4ab2c95cf15a
 source_path: ../sources/jmbras-222-wilson-abortiveplananglo-1972-4ab2c95cf15a.md
 summarized: true
+publication_type: journal_article
 ---
+
 # An abortive plan for an Anglo-Chinese College in Singapore
 
 H.E. Wilson's 1972 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* examines the abortive plan by the Malayan Mission of the Methodist Episcopal Church to establish an Anglo-Chinese College in Singapore in the years immediately following the First World War. Set against the backdrop of the Straits Settlements colonial administration's chronic neglect of post-secondary education, the article argues that the project's failure was driven less by legitimate educational policy considerations than by the prejudices of senior colonial officials—particularly Governor Sir Laurence Guillemard and Acting Director of Education R. O. Winstedt—who perceived an American-based missionary institution as a threat to British prestige and colonial authority.

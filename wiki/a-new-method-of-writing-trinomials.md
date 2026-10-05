@@ -3,8 +3,7 @@ id: a-new-method-of-writing-trinomials
 work_id: jsbras-85-1-p208
 title: A new method of writing trinomials
 canonical_name: A new method of writing trinomials
-type: article
-article_type: article
+type: publication
 authors:
 - J.C. Moulton
 year: 1922
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-085-moulton-newmethodwriting-1922-b2466a74bb1e
 source_path: ../sources/jsbras-085-moulton-newmethodwriting-1922-b2466a74bb1e.md
 summarized: true
+publication_type: note
 ---
+
 # A new method of writing trinomials
 
 This short note by J. C. Moulton, published in JSBRAS Vol. 85 (1922), addresses typographic conventions for writing trinomial (subspecies) names in zoological literature.

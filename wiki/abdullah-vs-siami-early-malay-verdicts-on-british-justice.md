@@ -3,8 +3,7 @@ id: abdullah-vs-siami-early-malay-verdicts-on-british-justice
 work_id: jmbras-80-1-p1
 title: 'Abdullah vs Siami: early Malay verdicts on British justice'
 canonical_name: 'Abdullah vs Siami: early Malay verdicts on British justice'
-type: article
-article_type: article
+type: publication
 authors:
 - I. Proudfoot
 year: 2007
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-293-gullick-shorthistoryulu-2007-5353cf2ddc48
 source_path: ../sources/jmbras-293-gullick-shorthistoryulu-2007-5353cf2ddc48/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Abdullah vs Siami: early Malay verdicts on British justice
 
 J. M. Gullick's 2007 article reconstructs the history of Ulu Langat, a remote interior district in Selangor, from the early nineteenth century through 1900, arguing that the district's transformation from an isolated, tin-mining backwater into a viable "planting district" was ultimately driven by the arrival of the railway and the rubber boom of the 1890s, which finally overcame the geographical barriers of its difficult river and hilly terrain.

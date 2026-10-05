@@ -3,8 +3,7 @@ id: an-early-chinese-account-of-kelantan
 work_id: jmbras-26-1-p216
 title: An early Chinese account of Kelantan
 canonical_name: An early Chinese account of Kelantan
-type: article
-article_type: article
+type: publication
 authors:
 - M.W.F. Tweedie
 year: 1953
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-161-tweedie-earlychineseaccount-1953-90dc37aec256
 source_path: ../sources/jmalayanras-161-tweedie-earlychineseaccount-1953-90dc37aec256.md
 summarized: true
+publication_type: note
 ---
+
 # An early Chinese account of Kelantan
 
 M.W.F. Tweedie published this brief note in 1953, presenting a translated passage from the *Hai Lu Chu* (a 1938 Shanghai publication recording the late-18th-century travels of Hsieh Ching Kao) that offers a rare Chinese eyewitness account of Kelantan's political, legal, and economic life. The article's central contribution is the identification of the "spear-hurling" aborigines described in the text as the Temiar, and the tentative correlation of the gold-mining route with the Kelantan–Pahang land corridor.

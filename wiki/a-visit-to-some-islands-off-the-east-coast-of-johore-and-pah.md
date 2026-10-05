@@ -3,8 +3,7 @@ id: a-visit-to-some-islands-off-the-east-coast-of-johore-and-pah
 work_id: jmbras-6-3-p78
 title: A visit to some islands off the east coast of Johore and Pahang
 canonical_name: A visit to some islands off the east coast of Johore and Pahang
-type: article
-article_type: article
+type: publication
 authors:
 - H.G. Dalton
 year: 1928
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-104-dalton-visitislandseast-1928-3f63474576db
 source_path: ../sources/jmalayanras-104-dalton-visitislandseast-1928-3f63474576db.md
 summarized: true
+publication_type: journal_article
 ---
+
 # A visit to some islands off the east coast of Johore and Pahang
 
 H. Goring Dalton's 1928 travelogue recounts an eleven-day voyage in May 1918 to a chain of islands off the east coasts of Johore and Pahang, undertaken for the purpose of collecting shells, coral, and butterflies. The article serves as both a personal narrative of maritime exploration and a natural history survey of islands that remained largely unknown to mainland residents due to the violence of the north-east monsoon.

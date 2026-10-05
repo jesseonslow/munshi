@@ -3,8 +3,7 @@ id: a-note-on-some-north-borneo-kinship-terminologies
 work_id: jmbras-26-1-p221
 title: A note on some North Borneo kinship terminologies
 canonical_name: A note on some North Borneo kinship terminologies
-type: article
-article_type: article
+type: publication
 authors:
 - R. Needham
 year: 1953
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-169-needham-notemurutkinship-1955-2c1c12a33b84
 source_path: ../sources/jmalayanras-169-needham-notemurutkinship-1955-2c1c12a33b84.md
 summarized: true
+publication_type: note
 ---
+
 # A note on some North Borneo kinship terminologies
 
 This is a short note by Rodney Needham supplementing his earlier 1953 article on North Borneo kinship terminologies, presenting kinship terms from the Lun Daya (upper Sesayap) and discussing their implications for the classification of Bornean peoples.

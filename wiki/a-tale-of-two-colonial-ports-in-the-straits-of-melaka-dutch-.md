@@ -5,8 +5,7 @@ title: 'A tale of two colonial ports in the Straits of Melaka: Dutch Melaka and 
   Penang'
 canonical_name: 'A tale of two colonial ports in the Straits of Melaka: Dutch Melaka
   and English Penang'
-type: article
-article_type: article
+type: publication
 authors:
 - Nordin Hussin
 year: 2002
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-283-hussin-taletwocolonial-2002-a6e4561e6587
 source_path: ../sources/jmbras-283-hussin-taletwocolonial-2002-a6e4561e6587/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # A tale of two colonial ports in the Straits of Melaka: Dutch Melaka and English Penang
 
 Nordin Hussin's 2002 comparative study examines Dutch Melaka (1641–1795) and English Penang (from 1786) as colonial port-towns in the Straits of Melaka, arguing that despite their different metropolitan origins and administrative traditions, both settlements shared the fundamental structural characteristics that defined colonial urbanism in the region. Drawing on the theoretical framework of colonial city studies, Hussin demonstrates that the differences between the two were matters of degree rather than kind, and that both grew within the same overarching scheme of European colonial port-town development.

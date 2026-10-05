@@ -3,8 +3,7 @@ id: a-short-biographical-record-of-chan-wing-an-early-pioneer-of
 work_id: jmbras-69-1-p112
 title: A short biographical record of Chan Wing, an early pioneer of Malaya
 canonical_name: A short biographical record of Chan Wing, an early pioneer of Malaya
-type: article
-article_type: article
+type: publication
 authors:
 - Chan King Nui
 year: 1996
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-270-nui-shortbiographicalrecord-1996-1ded69d4abff
 source_path: ../sources/jmbras-270-nui-shortbiographicalrecord-1996-1ded69d4abff.md
 summarized: true
+publication_type: journal_article
 ---
+
 # A short biographical record of Chan Wing, an early pioneer of Malaya
 
 Chan King Nui, the eighth daughter of her subject, published this biographical record in 1996, drawing on family memory and secondary sources to reconstruct the life of Chan Wing (陳永, 1873–1947), a Kwantung-born Chinese immigrant who rose from rural poverty to become one of Kuala Lumpur's most prominent early business figures. The article positions Chan Wing as a representative yet underappreciated pioneer whose commercial decisions—spanning tin mining, banking, rubber cultivation, and rice export—tracked the major economic transformations of colonial Malaya from the 1880s through the Japanese occupation.

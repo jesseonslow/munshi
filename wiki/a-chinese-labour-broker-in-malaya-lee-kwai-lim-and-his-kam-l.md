@@ -4,8 +4,7 @@ work_id: jmbras-90-2-p55
 title: 'A Chinese labour broker in Malaya: Lee Kwai Lim and his Kam Lun Tai company'
 canonical_name: 'A Chinese labour broker in Malaya: Lee Kwai Lim and his Kam Lun Tai
   company'
-type: article
-article_type: article
+type: publication
 authors:
 - Tan Miau Ing
 year: 2017
@@ -22,7 +21,9 @@ published: false
 source_doc: jmbras-313-ing-chineselabourbroker-2017-0b30e337664a
 source_path: ../sources/jmbras-313-ing-chineselabourbroker-2017-0b30e337664a/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # A Chinese labour broker in Malaya: Lee Kwai Lim and his Kam Lun Tai company
 
 ## Abstract

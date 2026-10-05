@@ -3,8 +3,7 @@ id: a-contribution-to-the-psychology-of-latah
 work_id: jsbras-85-1-p140
 title: A contribution to the psychology of “latah”
 canonical_name: A contribution to the psychology _of “latah”._
-type: article
-article_type: article
+type: publication
 authors:
 - D.J. Galloway
 year: 1922
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-085-galloway-contributionpsychologylatah-1922-fa19cafc82a5
 source_path: ../sources/jsbras-085-galloway-contributionpsychologylatah-1922-fa19cafc82a5.md
 summarized: true
+publication_type: journal_article
 ---
+
 # A contribution to the psychology of “latah”
 
 David J. Galloway, a colonial medical practitioner in the Straits Settlements, published "A Contribution to the Psychology of 'Latah'" in 1922, offering a clinical and psychoanalytic account of the condition as observed among Malays and other tropical peoples. Writing at the intersection of colonial medicine and the emerging field of psychoanalysis, Galloway argues that latah is not a hereditary disease but a neurosis rooted in environmental predisposition—abundant leisure, habitual abstraction, and underdeveloped inhibitory faculties—combined with an inherited "nervous disequilibriation" that may manifest as latah or other psychopathologies.

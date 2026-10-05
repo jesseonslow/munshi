@@ -3,8 +3,7 @@ id: a-reputed-acehnese-sarakata-of-the-jamal-al-lail-dynasty
 work_id: jmbras-52-2-p51
 title: A reputed Acehnese sarakata of the Jamal al-Lail dynasty
 canonical_name: A reputed Acehnese _sarakata_ of the Jamal al-Lail dynasty
-type: article
-article_type: article
+type: publication
 authors:
 - D. Crecelius
 - E.A. Beardow
@@ -22,7 +21,9 @@ published: false
 source_doc: jmbras-236-crecelius-reputedacehnesesarakata-1979-a7eaaaf344ba
 source_path: ../sources/jmbras-236-crecelius-reputedacehnesesarakata-1979-a7eaaaf344ba.md
 summarized: true
+publication_type: journal_article
 ---
+
 # A reputed Acehnese sarakata of the Jamal al-Lail dynasty
 
 Daniel Crecelius and E.A. Beardow published this article in 1979, examining a *sarakata* (royal decree) attributed to the mid-nineteenth-century sultanate of Aceh that purports to confirm the property rights of the Jamal al-Lail dynasty. Their central thesis is that the document is a late nineteenth-century forgery, produced by a figure known as Teungku di Mule' to legitimize a land claim, and they support this by identifying numerous internal inconsistencies, anachronisms, and genealogical fabrications.

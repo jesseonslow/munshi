@@ -3,8 +3,7 @@ id: an-unexplored-corner-of-pahang
 work_id: jsbras-32-1-p1
 title: An unexplored corner of Pahang
 canonical_name: An unexplored corner of Pahang
-type: article
-article_type: article
+type: publication
 authors:
 - W.B. Roberts
 year: 1899
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-032-k-memoriamsirw-1899-850e71dc7f68
 source_path: ../sources/jsbras-032-k-memoriamsirw-1899-850e71dc7f68.md
 summarized: true
+publication_type: obituary
 ---
+
 # An unexplored corner of Pahang
 
 C. W. S. K. composed this 1899 memorial for Sir William E. Maxwell, K.C.M.G., the Straits Settlements' most prolific contributor to the BRAS Journal and a central figure in the colony's administrative and scholarly life. The piece, published in JSBRAS Vol. 32, traces Maxwell's career from the Supreme Court through the Perak War, the Land Question, and his final posting as Governor of the Gold Coast, where he died in the prime of life. Its overarching thesis is that Maxwell was the indispensable engine behind the Society's early decades of work, and that his loss represents a gap the membership must now fill through increased collective effort.

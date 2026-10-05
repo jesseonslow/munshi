@@ -3,8 +3,7 @@ id: a-history-of-malaya
 work_id: jmbras-13-1-p1
 title: A history of Malaya
 canonical_name: A history of Malaya
-type: article
-article_type: article
+type: publication
 authors:
 - R.O. Winstedt
 year: 1935
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-013-hervey-valentynsdescriptionmalacca-1884-386bb5995645
 source_path: ../sources/jsbras-013-hervey-valentynsdescriptionmalacca-1884-386bb5995645.md
 summarized: true
+publication_type: translation
 ---
+
 # A history of Malaya
 
 D. F. A. Hervey, writing in 1884 for the Journal of the Malaysian Branch of the Royal Asiatic Society, presented a complete English translation of François Valentyn's early eighteenth-century Dutch account of Malacca under VOC rule. The text serves as a primary source for understanding the political, commercial, and cultural landscape of the Straits of Malacca as perceived by a Dutch colonial administrator writing circa 1700–1717.

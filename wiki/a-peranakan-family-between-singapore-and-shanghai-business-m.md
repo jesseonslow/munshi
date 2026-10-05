@@ -5,8 +5,7 @@ title: 'A Peranakan family between Singapore and Shanghai: business-making, netw
   and identity, 1870s‒1910s'
 canonical_name: 'A Peranakan family between Singapore and Shanghai: business-making,
   networks and identity, 1870s‒1910s'
-type: article
-article_type: article
+type: publication
 authors:
 - S.J.C. Liu
 - T.Y.H. Sim
@@ -24,7 +23,9 @@ published: false
 source_doc: jmbras-308-sim-peranakanfamilysingapore-2015-44dbd625a215
 source_path: ../sources/jmbras-308-sim-peranakanfamilysingapore-2015-44dbd625a215/appendices.md
 summarized: true
+publication_type: journal_article
 ---
+
 # A Peranakan family between Singapore and Shanghai: business-making, networks and identity, 1870s‒1910s
 
 Teddy Y. H. Sim and Sandy J. C. Liu (2015) re-examine the 1888–1889 travelogue of Li Qinghui, a Hokkien Peranakan born in Melaka, to argue that his journey across the Asian Mediterranean was not a leisurely sightseeing tour but a deliberate exercise in cultivating and consolidating business networks for his family's shipping, trading, and financial enterprises spanning Singapore, Shanghai, and the broader treaty-port system.

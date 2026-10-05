@@ -3,8 +3,7 @@ id: a-brief-account-of-the-mah-meri
 work_id: jmbras-46-2-p185
 title: A brief account of the Mah Meri
 canonical_name: A brief account of the Mah Meri
-type: article
-article_type: article
+type: publication
 authors:
 - I. Carey
 year: 1973
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-224-carey-briefaccountmah-1973-59f222498e63
 source_path: ../sources/jmbras-224-carey-briefaccountmah-1973-59f222498e63.md
 summarized: true
+publication_type: journal_article
 ---
+
 # A brief account of the Mah Meri
 
 Iskandar Carey, writing in 1973 for the *Journal of the Malaysian Branch of the Royal Asiatic Society* (Vol. 46, No. 2), presents a concise ethnographic account of the Mah Meri, a Senoi-speaking *Orang Asli* group of approximately 1,400 people in southwest Selangor, based on fieldwork conducted in August 1971. The article's central concern is the Mah Meri's striking anomaly: they speak a Mon-Khmer (Senoi) language yet maintain a social structure and culture that is typically Proto-Malay, a combination Carey attributes to a historical migration from the Endau region followed by adaptation to a settled, land-limited environment.

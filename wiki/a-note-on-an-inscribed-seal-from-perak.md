@@ -3,8 +3,7 @@ id: a-note-on-an-inscribed-seal-from-perak
 work_id: jmbras-14-3-p282
 title: A note on an inscribed seal from Perak
 canonical_name: A note on an inscribed seal from Perak
-type: article
-article_type: article
+type: publication
 authors:
 - K.A. Nilakanta Sastri
 year: 1936
@@ -18,6 +17,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: note
 ---
 
 # A note on an inscribed seal from Perak

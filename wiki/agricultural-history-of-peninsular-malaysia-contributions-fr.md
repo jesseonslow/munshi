@@ -3,8 +3,7 @@ id: agricultural-history-of-peninsular-malaysia-contributions-fr
 work_id: jmbras-81-agricultural-history-of-penins
 title: 'Agricultural history of Peninsular Malaysia: contributions from Indonesia'
 canonical_name: 'Agricultural history of Peninsular Malaysia: contributions from Indonesia'
-type: article
-article_type: article
+type: publication
 authors:
 - K.T. Joseph
 year: 2008
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-294-joseph-agriculturalhistorypeninsular-2008-675b06352b23
 source_path: ../sources/jmbras-294-joseph-agriculturalhistorypeninsular-2008-675b06352b23/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Agricultural history of Peninsular Malaysia: contributions from Indonesia
 
 K.T. Joseph (2008) surveys the agricultural history of Peninsular Malaysia from the 1780s to the early twenty-first century, arguing that Indonesia—under the Dutch East Indies and as a modern nation—has been the indispensable source of planting material, scientific research, and labour that underpinned every major export crop in the peninsula.

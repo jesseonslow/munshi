@@ -3,8 +3,7 @@ id: a-brunei-code
 work_id: jmbras-1-1-p251
 title: A Brunei code
 canonical_name: A Brunei code
-type: article
-article_type: article
+type: publication
 authors:
 - R.O. Winstedt
 year: 1923
@@ -34,7 +33,9 @@ keywords:
 - Genting Highlands
 - Gunung Tahan
 - Cameron Highlands
+publication_type: note
 ---
+
 # A Brunei code
 
 ## Abstract

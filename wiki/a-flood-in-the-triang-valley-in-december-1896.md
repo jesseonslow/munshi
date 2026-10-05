@@ -3,8 +3,7 @@ id: a-flood-in-the-triang-valley-in-december-1896
 work_id: jmbras-89-1-p155
 title: A flood in the Triang valley in December 1896
 canonical_name: A flood in the Triang valley in December 1896
-type: article
-article_type: article
+type: publication
 authors:
 - A. Keyser
 year: 2016
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-310-keyser-floodtriangvalley-2016-47b3aaa96472
 source_path: ../sources/jmbras-310-keyser-floodtriangvalley-2016-47b3aaa96472.md
 summarized: true
+publication_type: document
 ---
+
 # A flood in the Triang valley in December 1896
 
 Arthur Keyser, Collector and Magistrate of Jelebu, composed this account in late December 1896, originally published in the *Negri Sembilan Government Gazette* (26 February 1897) and reprinted in JMBRAS in 2016 as part of the "Documents from Malaysian History" series. Set in the lower Triang Valley of colonial Negri Sembilan, the letter provides a rare first-hand administrative record of a major riverine flood and the emergency relief operations it triggered. Its principal value lies in capturing the scale of the disaster, the logistical dilemmas of colonial riverine administration, and the lived experience of affected communities through the eyes of the district officer responsible for their welfare.

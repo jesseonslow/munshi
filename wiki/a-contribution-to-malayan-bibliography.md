@@ -3,8 +3,7 @@ id: a-contribution-to-malayan-bibliography
 work_id: jsbras-5-1-p69
 title: A contribution to Malayan bibliography
 canonical_name: A contribution to Malayan bibliography
-type: article
-article_type: bibliography
+type: publication
 authors:
 - N.B. Dennys
 year: 1880
@@ -27,9 +26,8 @@ reprints:
   absorbed_slug: a-contribution-to-malayan-bibliography-pt-ii
 source_doc: jsbras-006-dennys-contributionmalayanbibliography-1880-e629582ea434
 source_path: ../sources/jsbras-006-dennys-contributionmalayanbibliography-1880-e629582ea434.md
+publication_type: index
 ---
-
-
 
 # A contribution to Malayan bibliography
 

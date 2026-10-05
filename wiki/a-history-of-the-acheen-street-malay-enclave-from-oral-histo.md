@@ -3,8 +3,7 @@ id: a-history-of-the-acheen-street-malay-enclave-from-oral-histo
 work_id: jmbras-85-1-p1
 title: A history of the Acheen Street Malay enclave from oral history accounts
 canonical_name: A history of the Acheen Street Malay enclave from oral history accounts
-type: article
-article_type: article
+type: publication
 authors:
 - Izrin Muaz Md Adnan
 year: 2012
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-303-larsen-firstsultansarawak-2012-5d57207295dc
 source_path: ../sources/jmbras-303-larsen-firstsultansarawak-2012-5d57207295dc/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # A history of the Acheen Street Malay enclave from oral history accounts
 
 Ib Larsen's 2012 article in *JMBRAS* Vol. 85, Part 2 re-examines the two-century gap between the assassination of Sultan Tengah Manga in 1641 and the arrival of James Brooke in 1842, arguing that the conventional narrative of unbroken Brunei sovereignty over Sarawak during this period is too simplistic and that the sultanate of Sambas exercised considerably stronger influence on the territory than has been generally acknowledged. Drawing on Sambas royal genealogies, early modern European maps, British and Dutch colonial correspondence, and oral traditions from both sides of the border, Larsen constructs a picture of a contested periphery where control shifted between Brunei, Sambas, and local Malay *datu* depending on the era and the specific locality.

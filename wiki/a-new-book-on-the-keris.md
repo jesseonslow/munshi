@@ -3,8 +3,7 @@ id: a-new-book-on-the-keris
 work_id: jmbras-16-2-p40
 title: A new book on the keris
 canonical_name: A new book on the _keris._
-type: article
-article_type: article
+type: publication
 authors:
 - G.C. Woolley
 year: 1938
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-132-woolley-newbookkeris-1938-dbbff94bb4b6
 source_path: ../sources/jmalayanras-132-woolley-newbookkeris-1938-dbbff94bb4b6.md
 summarized: true
+publication_type: review
 ---
+
 # A new book on the keris
 
 G.C. Woolley, writing from Brunei in 1938, reviews G.B. Gardner's 1936 monograph *Keris and other Malay Weapons* (Progressive Publishing Co., Singapore), offering a detailed critique grounded in first-hand Brunei and North Borneo ethnographic observation. Woolley's central contribution is a series of corrections and regional terminological supplements drawn from a Brunei informant, challenging Gardner's classifications, illustrations, and nomenclature while defending the keris as a distinct weapon type defined by its characteristic blade-to-guard widening.

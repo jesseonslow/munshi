@@ -3,8 +3,7 @@ id: a-large-orang-utan
 work_id: jmbras-1-1-p257
 title: A large orang-utan
 canonical_name: A large orang-utan
-type: article
-article_type: article
+type: publication
 authors:
 - F.N. Chasen
 year: 1923
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-087-chasen-largeorangutan-1923-f0f211f51c6e
 source_path: ../sources/jmalayanras-087-chasen-largeorangutan-1923-f0f211f51c6e.md
 summarized: true
+publication_type: note
 ---
+
 # A large orang-utan
 
 This short note by F. N. Chasen documents the measurements and physical description of an adult male orang-utan (*Mias*) taken alive at Katoengou in Dutch West Borneo in 1922 and which died in Singapore in January 1923 (p. 257).

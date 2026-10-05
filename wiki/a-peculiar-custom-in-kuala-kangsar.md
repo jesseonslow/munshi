@@ -3,8 +3,7 @@ id: a-peculiar-custom-in-kuala-kangsar
 work_id: jmbras-3-1-p85
 title: A peculiar custom in Kuala Kangsar
 canonical_name: A peculiar custom in Kuala Kangsar
-type: article
-article_type: article
+type: publication
 authors:
 - Abdul Majid bin Haji Zainuddin Haji
 year: 1925
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-093-zainuddin-peculiarcustomkuala-1925-38d512f4f875
 source_path: ../sources/jmalayanras-093-zainuddin-peculiarcustomkuala-1925-38d512f4f875.md
 summarized: true
+publication_type: note
 ---
+
 # A peculiar custom in Kuala Kangsar
 
 This short note by Haji Abdul Majid bin Haji Zainuddin, published in JMBRAS Vol. 3, No. 1 (1925), describes an anonymous gift-giving custom practised in Kuala Kangsar.

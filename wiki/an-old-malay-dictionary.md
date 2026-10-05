@@ -3,8 +3,7 @@ id: an-old-malay-dictionary
 work_id: jmbras-7-2-p316
 title: An old Malay dictionary
 canonical_name: An old Malay dictionary
-type: article
-article_type: article
+type: publication
 authors:
 - R. Mee
 year: 1929
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-107-mee-oldmalaydictionary-1929-861b14bc35d6
 source_path: ../sources/jmalayanras-107-mee-oldmalaydictionary-1929-861b14bc35d6.md
 summarized: true
+publication_type: journal_article
 ---
+
 # An old Malay dictionary
 
 R. Mee's 1929 article in the *Journal of the Malayan Branch of the Royal Asiatic Society* examines Thomas Bowery's 1701 *A Dictionary English and Malayo, Malayo and English*, identifying it as the first Malay-English dictionary produced by an Englishman and a pioneering work in both Malay vocabulary and grammar. Mee's central argument is that, given the conditions under which it was compiled—entirely from personal observation over nineteen years of trading in the Archipelago, with no prior English-language reference to guide the author—Bowery's achievement was considerable and the work retains significant value for students of the language's historical development.

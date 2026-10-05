@@ -5,8 +5,7 @@ title: An index to Journals nos. 1 to 50 of the Straits Branch of the Royal Asia
   Society and to Notes and Queries I to IV
 canonical_name: An index to Journals nos. 1 to 50 of the Straits Branch of the Royal
   Asiatic Society and to Notes and Queries I to IV
-type: article
-article_type: notes_and_queries
+type: publication
 authors:
 - Malaysian Branch of the Royal Asiatic Society
 year: 1909
@@ -22,8 +21,8 @@ status: stub
 published: false
 source_doc: jmbras-233-sheppard-gratefulmemorytan-1978-d54d13999373
 source_path: ../sources/jmbras-233-sheppard-gratefulmemorytan-1978-d54d13999373.md
+publication_type: index
 ---
-
 
 # An index to Journals nos. 1 to 50 of the Straits Branch of the Royal Asiatic Society and to Notes and Queries I to IV
 

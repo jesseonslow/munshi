@@ -3,8 +3,7 @@ id: a-note-on-jakun-numbering-in-pahang
 work_id: jmbras-24-1-p175
 title: A note on Jakun numbering in Pahang
 canonical_name: A note on Jakun numbering in Pahang
-type: article
-article_type: article
+type: publication
 authors:
 - P.D.R. Williams-Hunt
 year: 1951
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-154-williamshunt-notejakunnumbering-1951-05bb9aa520d1
 source_path: ../sources/jmalayanras-154-williamshunt-notejakunnumbering-1951-05bb9aa520d1.md
 summarized: true
+publication_type: note
 ---
+
 # A note on Jakun numbering in Pahang
 
 A short comparative note by P.D.R. Williams-Hunt documenting Jakun numerals from the Maran area of Pahang, recorded in June 1950, and contrasting them with a list previously obtained by I.N.H. Evans from the Ulu Tekam group (p. 175).

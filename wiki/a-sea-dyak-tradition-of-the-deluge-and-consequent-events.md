@@ -3,8 +3,7 @@ id: a-sea-dyak-tradition-of-the-deluge-and-consequent-events
 work_id: jsbras-6-1-p289
 title: A Sea Dyak tradition of the deluge and consequent events
 canonical_name: A Sea Dyak tradition of the deluge and consequent events
-type: article
-article_type: article
+type: publication
 authors:
 - J. Perham
 year: 1881
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-006-perham-seadyaktraditiondeluge-1880-6f508613f17e
 source_path: ../sources/jsbras-006-perham-seadyaktraditiondeluge-1880-6f508613f17e.md
 summarized: true
+publication_type: note
 ---
+
 # A Sea Dyak tradition of the deluge and consequent events
 
 This is a brief ethnographic note by the Revd. J. Perham recording a Sea-Dyak flood myth, published in the *Journal of the Straits Branch of the Royal Asiatic Society* (1881, pp. 289–291).

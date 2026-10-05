@@ -3,8 +3,7 @@ id: a-rice-ceremony
 work_id: jsbras-77-1-p249
 title: A rice-ceremony
 canonical_name: A rice-ceremony
-type: article
-article_type: article
+type: publication
 authors:
 - R.O. Winstedt
 year: 1917
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-077-winstedt-riceceremony-1917-dd574c88c916
 source_path: ../sources/jsbras-077-winstedt-riceceremony-1917-dd574c88c916.md
 summarized: true
+publication_type: note
 ---
+
 # A rice-ceremony
 
 This short note by R. O. Winstedt documents a first-hand observation of a pre-planting rice ceremony involving a mock combat ritual, linking it to earlier accounts by Blagden and Skeat.

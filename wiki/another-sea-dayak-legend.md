@@ -3,8 +3,7 @@ id: another-sea-dayak-legend
 work_id: jsbras-45-1-p71
 title: Another Sea-Dayak legend
 canonical_name: Another Sea-Dayak legend
-type: article
-article_type: article
+type: publication
 authors:
 - E.H. Gomes
 year: 1906
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-045-gomes-anotherseadyaklegend-1906-9c88e6a7ceb5
 source_path: ../sources/jsbras-045-gomes-anotherseadyaklegend-1906-9c88e6a7ceb5.md
 summarized: true
+publication_type: document
 ---
+
 # Another Sea-Dayak legend
 
 Edwin H. Gomes, a missionary working among the Sea-Dyak (Iban) of Borneo, published this legend in 1906 as a continuation of his 1904 collection of Sea-Dyak narratives. The text records an oral tradition explaining the origin of the ritual protocol governing paddy cultivation — specifically, why Dyak farmers must make invocations and offerings to the deities *Pulang-Gana*, *Rajah Shua*, and *Seregendah* before clearing forest for rice. The legend functions as an aetiological myth that sacralises agricultural practice by rooting it in a narrative of familial betrayal, divine adoption, and the transfer of sovereignty over the earth.

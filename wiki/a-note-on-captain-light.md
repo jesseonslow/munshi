@@ -3,8 +3,7 @@ id: a-note-on-captain-light
 work_id: jmbras-21-1-p116
 title: A note on Captain Light
 canonical_name: A note on Captain Light
-type: article
-article_type: article
+type: publication
 authors:
 - C.E. Wurtzburg
 year: 1948
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-144-wurtzburg-notecaptainlight-1948-caf6682bbc65
 source_path: ../sources/jmalayanras-144-wurtzburg-notecaptainlight-1948-caf6682bbc65.md
 summarized: true
+publication_type: note
 ---
+
 # A note on Captain Light
 
 This is a brief note by C. E. Wurtzburg on Captain Light, published in the Journal of the Malaysian Branch of the Royal Asiatic Society, Vol. 21 (1948), p. 116.

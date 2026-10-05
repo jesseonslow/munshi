@@ -3,8 +3,7 @@ id: an-1874-account-of-johore
 work_id: jmbras-91-2-p153
 title: An 1874 account of Johore
 canonical_name: An 1874 account of Johore
-type: article
-article_type: article
+type: publication
 authors:
 - W. Dean
 year: 2018
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-315-dean-johore-2018-f6543275a9b6
 source_path: ../sources/jmbras-315-dean-johore-2018-f6543275a9b6.md
 summarized: true
+publication_type: document
 ---
+
 # An 1874 account of Johore
 
 This is an 1874 travel account of Johore by William Dean, originally published in the *Siam Repository* (July 1874, pp. 352–4) and reprinted here in JMBRAS Vol. 91 (2018).

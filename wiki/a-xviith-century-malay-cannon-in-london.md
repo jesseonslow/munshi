@@ -3,8 +3,7 @@ id: a-xviith-century-malay-cannon-in-london
 work_id: jmbras-19-1-p122
 title: A XVIIth century Malay cannon in London
 canonical_name: A XVIIth century Malay cannon in London
-type: article
-article_type: article
+type: publication
 authors:
 - C.O. Blagden
 year: 1941
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-139-blagden-xviithcenturymalay-1941-8d637145f9d6
 source_path: ../sources/jmalayanras-139-blagden-xviithcenturymalay-1941-8d637145f9d6.md
 summarized: true
+publication_type: note
 ---
+
 # A XVIIth century Malay cannon in London
 
 C.O. Blagden's short note documents a brass cannon captured by the British in the Third Burma War, now in the garden of Chelsea Hospital, and transcribes its eleven inlaid inscriptions in Arabic and Malay (pp. 122–124).

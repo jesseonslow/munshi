@@ -3,8 +3,7 @@ id: a-curious-kelantan-charm
 work_id: jsbras-82-1-p116
 title: A curious Kelantan charm
 canonical_name: A curious Kelantan charm
-type: article
-article_type: article
+type: publication
 authors:
 - J.D. Gimlette
 year: 1920
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-082-gimlette-curiouskelantancharm-1920-0f405f8cf41b
 source_path: ../sources/jsbras-082-gimlette-curiouskelantancharm-1920-0f405f8cf41b.md
 summarized: true
+publication_type: note
 ---
+
 # A curious Kelantan charm
 
 J.D. Gimlette, writing in 1920 for the Journal of the Straits Branch of the Royal Asiatic Society, examines a talismanic belt recovered from the body of an unidentified Malay robber killed during a break-in in Kelantan in 1917. The article combines forensic description of the object's physical components with ethnographic testimony from local police, a Siamese high priest, and Kelantan informants to assess the charm's purported protective and criminal functions.

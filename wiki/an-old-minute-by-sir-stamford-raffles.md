@@ -3,8 +3,7 @@ id: an-old-minute-by-sir-stamford-raffles
 work_id: jsbras-24-1-p1
 title: An old minute by Sir Stamford Raffles
 canonical_name: An old minute by Sir Stamford Raffles
-type: article
-article_type: article
+type: publication
 authors:
 - H.A. O'Brien
 year: 1891
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-024-proceedingsannualgeneral-1891-3c39ed28090f
 source_path: ../sources/jsbras-024-proceedingsannualgeneral-1891-3c39ed28090f.md
 summarized: true
+publication_type: document
 ---
+
 # An old minute by Sir Stamford Raffles
 
 This document records the proceedings of the Annual General Meeting of the Straits Branch of the Royal Asiatic Society, held at the Raffles Museum on 28 January 1892.

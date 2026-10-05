@@ -3,8 +3,7 @@ id: a-buddhist-purification-ceremony
 work_id: jmbras-11-2-p261
 title: A Buddhist purification ceremony
 canonical_name: A Buddhist purification ceremony
-type: article
-article_type: article
+type: publication
 authors:
 - R.J. Farrer
 year: 1933
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-117-farrer-buddhisticpurificationceremony-1933-3fb52599b66c
 source_path: ../sources/jmalayanras-117-farrer-buddhisticpurificationceremony-1933-3fb52599b66c.md
 summarized: true
+publication_type: note
 ---
+
 # A Buddhist purification ceremony
 
 This short note by R. J. Farrer, C.M.G., documents a Siamese Buddhist purification ceremony performed at the Residency in Kelantan in August 1918, following a lightning strike to the flagstaff that was interpreted as a spiritual portent (p. 261).

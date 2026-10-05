@@ -3,8 +3,7 @@ id: a-disease-of-the-angsanatree
 work_id: jmbras-13-2-p163
 title: A disease of the angsanatree
 canonical_name: A disease of the angsanatree
-type: article
-article_type: article
+type: publication
 authors:
 - C.X. Furtado
 year: 1935
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-122-furtado-diseaseangsanatree-1935-8df3c7af6f30
 source_path: ../sources/jmalayanras-122-furtado-diseaseangsanatree-1935-8df3c7af6f30/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # A disease of the angsanatree
 
 C.X. Furtado, a botanist at the Singapore Botanic Gardens, published this article in 1935 to document his field observations on a devastating disease affecting *Pterocarpus indicus* (Angsana) trees across the Malay Peninsula. The article's central thesis is that the disease is not caused by a root fungus or senile decay, as previously theorised by Fox, Bancroft, and Chipp, but by the sustained parasitic action of a jassid (leafhopper) insect that disrupts the tree's physiology through feeding on tender shoots and leaves.

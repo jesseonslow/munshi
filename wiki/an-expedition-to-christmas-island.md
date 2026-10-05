@@ -3,8 +3,7 @@ id: an-expedition-to-christmas-island
 work_id: jsbras-45-1-p137
 title: An expedition to Christmas Island
 canonical_name: An expedition to Christmas Island
-type: article
-article_type: article
+type: publication
 authors:
 - H.N. Ridley
 year: 1906
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-045-ridley-expeditionchristmasisland-1906-032c6de8ca80
 source_path: ../sources/jsbras-045-ridley-expeditionchristmasisland-1906-032c6de8ca80.md
 summarized: true
+publication_type: journal_article
 ---
+
 # An expedition to Christmas Island
 
 Henry N. Ridley, a senior botanist at the Singapore Botanic Gardens, published this account of a September–October 1904 expedition to Christmas Island, a small coral-and-basalt island in the Indian Ocean then under active phosphate mining. Accompanied by the zoologist Dr. Hanitsch and a small team of collectors, Ridley produced a detailed field survey of the island's flora and fauna across its distinct ecological zones.

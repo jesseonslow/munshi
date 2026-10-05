@@ -3,8 +3,7 @@ id: achin-piracy
 work_id: jmbras-5-2-p316
 title: Achin piracy
 canonical_name: Achin piracy
-type: article
-article_type: article
+type: publication
 authors:
 - D.F.A. Hervey
 year: 1927
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-100-leyh-achinpiracy-1927-a5c1adaea3eb
 source_path: ../sources/jmalayanras-100-leyh-achinpiracy-1927-a5c1adaea3eb.md
 summarized: true
+publication_type: document
 ---
+
 # Achin piracy
 
 S.G.H. Leyh, a senior official in the Colonial Secretariat at Singapore, published this article in 1927, presenting the first-person field report of D.F.A. Hervey—the first cadet appointed to the Straits Settlements Civil Service—recording the 1868 British expedition to investigate the plundering of a Penang-registered schooner by Achinese at Kerti Creek on the north coast of Sumatra. The document serves as a rare administrative and diplomatic account of how the Straits Settlements Government enforced protection of British commercial interests against local piracy in the Acheen littoral during the early colonial period.

@@ -3,8 +3,7 @@ id: a-list-of-plants-from-camerons-highlands-pahang
 work_id: jmbras-5-2-p237
 title: A list of plants from Cameron’s Highlands, Pahang
 canonical_name: A list of plants from Cameron’s Highlands, Pahang
-type: article
-article_type: article
+type: publication
 authors:
 - M.R. Henderson
 year: 1927
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-100-henderson-listplantscamerons-1927-6e1f0e58f545
 source_path: ../sources/jmalayanras-100-henderson-listplantscamerons-1927-6e1f0e58f545.md
 summarized: true
+publication_type: journal_article
 ---
+
 # A list of plants from Cameron’s Highlands, Pahang
 
 M.R. Henderson, a botanist affiliated with the Straits Settlements, published this comprehensive floristic checklist of Cameron's Highlands in 1927, drawing on three field visits between 1923 and 1925 to document the plant communities of an area then under active consideration for development as a hill station. The article serves as the first systematic botanical inventory of the highlands, recording species across all major families, describing four new species, and identifying a substantial number of endemics restricted to the area.

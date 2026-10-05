@@ -3,8 +3,7 @@ id: a-jelebu-customary-saying
 work_id: jmbras-9-1-p136
 title: A Jelebu customary saying
 canonical_name: A Jelebu customary saying
-type: article
-article_type: article
+type: publication
 authors:
 - R.O. Winstedt
 year: 1931
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-111-winstedt-jelebucustomarysaying-1931-24c200f0775d
 source_path: ../sources/jmalayanras-111-winstedt-jelebucustomarysaying-1931-24c200f0775d.md
 summarized: true
+publication_type: note
 ---
+
 # A Jelebu customary saying
 
 This short note by R. O. Winstedt examines a Jelebu customary saying about crows and egrets, proposing an interpretation linking it to the disruption of matrilineal clan rules by Hindu princely authority in Minangkabau colonies.

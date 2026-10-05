@@ -3,8 +3,7 @@ id: a-note-on-the-makara-balustrade-at-malacca
 work_id: jmbras-47-1-p96
 title: A note on the Makara balustrade at Malacca
 canonical_name: A note on the Makara balustrade at Malacca
-type: article
-article_type: article
+type: publication
 authors:
 - Piriya Krairiksh
 year: 1974
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-225-krairiksh-notemakarabalustrade-1974-23ba2ca8a90f
 source_path: ../sources/jmbras-225-krairiksh-notemakarabalustrade-1974-23ba2ca8a90f.md
 summarized: true
+publication_type: note
 ---
+
 # A note on the Makara balustrade at Malacca
 
 This note by Piriya Krairiksh examines the *makara* balustrade found at Malacca, discussing its stylistic affinities, probable date, and implications for the pre-Parameswara history of the site (p. 96).

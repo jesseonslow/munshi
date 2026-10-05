@@ -3,8 +3,7 @@ id: a-short-vocabulary-of-the-banggi-and-bajau-language
 work_id: jmbras-15-3-p145
 title: A short vocabulary of the Banggi and Bajau language
 canonical_name: A short vocabulary of the Banggi and Bajau language
-type: article
-article_type: article
+type: publication
 authors:
 - W.F. Schneeberger
 year: 1937
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-130-schneeberger-shortvocabularybanggi-1937-3249db5a7d67
 source_path: ../sources/jmalayanras-130-schneeberger-shortvocabularybanggi-1937-3249db5a7d67.md
 summarized: true
+publication_type: note
 ---
+
 # A short vocabulary of the Banggi and Bajau language
 
 W.F. Schneeberger published this trilingual vocabulary in 1937, presenting the first recorded word list for the Banggi language and the Bajau dialect of North Borneo, compiled during his two-year residence in the region. The work serves as a foundational linguistic record for two speech communities on the periphery of the Bornean world, with the explicit aim of providing a base for future investigation into the origins of the Banggi people and their relations to mainland Dusun and the hill tribes of Balabac and Palawan.

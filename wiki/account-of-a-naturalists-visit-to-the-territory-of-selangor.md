@@ -3,8 +3,7 @@ id: account-of-a-naturalists-visit-to-the-territory-of-selangor
 work_id: jsbras-3-1-p124
 title: Account of a naturalist’s visit to the territory of Selangor
 canonical_name: Account of a naturalist’s visit to the territory of Selangor
-type: article
-article_type: article
+type: publication
 authors:
 - W.T. Hornaday
 year: 1879
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-003-hornaday-accountnaturalistsvisit-1879-b8815b4991fd
 source_path: ../sources/jsbras-003-hornaday-accountnaturalistsvisit-1879-b8815b4991fd.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Account of a naturalist’s visit to the territory of Selangor
 
 W.T. Hornaday's 1879 field account, read before the Straits Branch of the Royal Asiatic Society in April 1879, documents a six-week naturalist's expedition to the newly administered territory of Selangor in mid-1878. The article serves as both a zoological collecting report and an early ethnogeographic sketch of a territory only four years into formal British administrative control following the Pangkor Treaty of 1874.

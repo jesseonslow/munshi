@@ -3,8 +3,7 @@ id: a-journey-on-the-sembrong-river-from-kuala-indau-to-batu-pah
 work_id: jsbras-26-1-p1
 title: A journey on the Sembrong river, from Kuala Indau to Batu Pahat
 canonical_name: A journey on the Sembrong river, from Kuala Indau to Batu Pahat
-type: article
-article_type: article
+type: publication
 authors:
 - H.J. Kelsall
 - H.W Lake
@@ -22,7 +21,9 @@ published: false
 source_doc: jmalayanras-164-gibsonhill-cambridgeuniversityexpedition-1953-c0dbf648fddc
 source_path: ../sources/jmalayanras-164-gibsonhill-cambridgeuniversityexpedition-1953-c0dbf648fddc/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # A journey on the Sembrong river, from Kuala Indau to Batu Pahat
 
 C.A. Gibson-Hill, W.W. Skeat, and F.F. Laidlaw published this comprehensive account of the Cambridge University Expedition to the North-Eastern Malay States and Upper Perak in 1953, documenting a twelve-month scientific and ethnographic journey through Siamese-controlled territories on the east coast of the Malay Peninsula between 1899 and 1900. The work presents Skeat's detailed personal narrative—revised shortly before his death in July 1953—alongside a shorter supplementary account by Laidlaw, together constituting the most extensive first-hand record of the social, religious, and material life of the Patani States, Kelantan, Trengganu, Kedah, and Perlis at the close of the nineteenth century.

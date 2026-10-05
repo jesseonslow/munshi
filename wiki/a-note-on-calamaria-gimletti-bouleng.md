@@ -3,8 +3,7 @@ id: a-note-on-calamaria-gimletti-bouleng
 work_id: jmbras-7-2-p336
 title: A note on Calamaria gimletti Bouleng
 canonical_name: A note on _Calamaria gimletti_ Bouleng
-type: article
-article_type: article
+type: publication
 authors:
 - G.H. Sworder
 year: 1929
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-107-sworder-notecalamariagimletti-1929-1fd36012480e
 source_path: ../sources/jmalayanras-107-sworder-notecalamariagimletti-1929-1fd36012480e.md
 summarized: true
+publication_type: note
 ---
+
 # A note on Calamaria gimletti Bouleng
 
 A brief taxonomic note by G. Hope Sworder documenting the fourth known specimen of *Calamaria gimletti* Boulenger, collected at Fraser's Hill, F.M.S. (p. 336).

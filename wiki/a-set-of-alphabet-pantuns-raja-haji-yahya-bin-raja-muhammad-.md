@@ -3,8 +3,7 @@ id: a-set-of-alphabet-pantuns-raja-haji-yahya-bin-raja-muhammad-
 work_id: jmbras-1-2-p308
 title: A set of alphabet pantuns. Raja Haji Yahya bin Raja Muhammad ‘Ali
 canonical_name: A set of alphabet pantuns. Raja Haji Yahya bin Raja Muhammad ‘Ali
-type: article
-article_type: article
+type: publication
 authors:
 - R.O. Winstedt
 - Yahya bin Raja Muhammad Ali Raja Haji
@@ -22,7 +21,9 @@ published: false
 source_doc: jmalayanras-088-winstedt-setalphabetpantuns-1923-2a071b219d8f
 source_path: ../sources/jmalayanras-088-winstedt-setalphabetpantuns-1923-2a071b219d8f.md
 summarized: true
+publication_type: note
 ---
+
 # A set of alphabet pantuns. Raja Haji Yahya bin Raja Muhammad ‘Ali
 
 This short note by R. O. Winstedt presents a set of alphabet pantuns composed by the Perak court poet Raja Haji Yahya bin Raja Muhammad 'Ali, written approximately twenty years prior to publication during the reign of Sultan Idris (p. 308).

@@ -3,8 +3,7 @@ id: a-malay-lullaby
 work_id: jsbras-25-1-p174
 title: A Malay lullaby
 canonical_name: A Malay lullaby
-type: article
-article_type: article
+type: publication
 authors:
 - M. Lister
 year: 1894
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-025-l-malaylullaby-1894-658d78fa1e05
 source_path: ../sources/jsbras-025-l-malaylullaby-1894-658d78fa1e05.md
 summarized: true
+publication_type: note
 ---
+
 # A Malay lullaby
 
 This is a brief occasional note by M. L. presenting a Malay lullaby ("Lagu Buai") collected from Naning and the Negri Sembilan, published in JSBRAS Vol. 25 (1894).

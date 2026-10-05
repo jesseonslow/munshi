@@ -3,8 +3,7 @@ id: a-tiger-hunt-in-java
 work_id: jsbras-12-1-p269
 title: A tiger hunt in Java
 canonical_name: A tiger hunt in Java
-type: article
-article_type: article
+type: publication
 authors:
 - R.A. Kerkhoven
 year: 1883
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-012-kerkhoven-tigerhuntjava-1883-2b1173e395cd
 source_path: ../sources/jsbras-012-kerkhoven-tigerhuntjava-1883-2b1173e395cd.md
 summarized: true
+publication_type: journal_article
 ---
+
 # A tiger hunt in Java
 
 R.A. Kerkhoven, a European planter resident in the Sinagar district of the Preanger region, published this account in 1883 describing his systematic use of a plant-based poison (*wali kambing*, *Sarcolobus spanoghei*) to eliminate tigers and wild dogs preying on his livestock, supplemented by a vivid narrative letter from his brother E.J. Kerkhoven recounting a specific tiger hunt on 2 February 1875. The article serves both as a practical guide to tiger control in the densely forested ravines of western Java and as a window into the daily hazards faced by colonial planters.

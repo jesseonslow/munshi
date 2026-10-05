@@ -3,8 +3,7 @@ id: abdullah-and-siami
 work_id: jmbras-81-1-p1
 title: Abdullah and Siami
 canonical_name: Abdullah and Siami
-type: article
-article_type: article
+type: publication
 authors:
 - J.S. Bastin
 year: 2008
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-294-bastin-abdullahsiami-2008-2f0ca0c26e9c
 source_path: ../sources/jmbras-294-bastin-abdullahsiami-2008-2f0ca0c26e9c/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Abdullah and Siami
 
 John Bastin's 2008 addendum to Ian Proudfoot's 2007 article on Abdullah and Siami reconstructs the career of Siami, a Siamese-born Malay writer who served as the longest-serving member of Raffles's Malay literary household from 1805 until his dismissal from government service in 1830. Writing from a position of deep archival familiarity with Raffles's circle, Bastin argues that the scant biographical record of Siami—previously treated by Proudfoot as a minor figure whose bitterness toward British justice stemmed from a single lost customs post—demands substantial revision in light of Siami's extraordinary proximity to Raffles across two decades and multiple postings.

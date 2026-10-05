@@ -7,8 +7,7 @@ title: A brief account of several countries surrounding Prince of Wales’s Isla
 canonical_name: A brief account of several countries surrounding Prince of Wales’s
   Island with their production. Recd. from Captain Leight {sic} Enclosed in Lord Cornwallis’s
   letter to Mr. Dundas, dated 7th January, 1789.
-type: article
-article_type: article
+type: publication
 authors:
 - F. Light
 - C.E. Wurtzburg
@@ -26,7 +25,9 @@ published: false
 source_doc: jmalayanras-131-wurtzburg-briefaccountseveral-1938-93afb9d4dfb8
 source_path: ../sources/jmalayanras-131-wurtzburg-briefaccountseveral-1938-93afb9d4dfb8.md
 summarized: true
+publication_type: document
 ---
+
 # A brief account of several countries surrounding Prince of Wales’s Island with their production. Recd. from Captain Leight {sic} Enclosed in Lord Cornwallis’s letter to Mr. Dundas, dated 7th January, 1789.
 
 This is a brief geographical and commercial account of the countries surrounding Prince of Wales's Island (Penang), received from Captain Francis Light and enclosed in Lord Cornwallis's letter to Mr. Dundas, dated 7 January 1789. It was communicated to the Journal by C. E. Wurtzburg (p. 123).

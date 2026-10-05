@@ -3,8 +3,7 @@ id: a-forgotten-naval-battle
 work_id: jmbras-32-1-p202
 title: A forgotten naval battle
 canonical_name: A forgotten naval battle
-type: article
-article_type: article
+type: publication
 authors:
 - K.G. Tregonning
 year: 1959
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-185-tregonning-forgottennavalbattle-1959-5d8b6d149e20
 source_path: ../sources/jmalayanras-185-tregonning-forgottennavalbattle-1959-5d8b6d149e20.md
 summarized: true
+publication_type: note
 ---
+
 # A forgotten naval battle
 
 K. G. Tregonning's short note recovers the account of a naval engagement fought in the Macassar Strait on 26 July 1806, discovered in an early issue of the *Prince of Wales Island Gazette* and absent from standard naval histories such as Parkinson's *War in the Eastern Seas* (p. 202).

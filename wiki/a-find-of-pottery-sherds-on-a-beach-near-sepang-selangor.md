@@ -3,8 +3,7 @@ id: a-find-of-pottery-sherds-on-a-beach-near-sepang-selangor
 work_id: jmbras-19-2-p217
 title: A find of pottery sherds on a beach near Sepang, Selangor
 canonical_name: A find of pottery sherds on a beach near Sepang, Selangor
-type: article
-article_type: article
+type: publication
 authors:
 - H.D. Noone
 year: 1941
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-140-noone-findpotterysherds-1941-cd98ca68560c
 source_path: ../sources/jmalayanras-140-noone-findpotterysherds-1941-cd98ca68560c.md
 summarized: true
+publication_type: note
 ---
+
 # A find of pottery sherds on a beach near Sepang, Selangor
 
 H.D. Noone reports on a find of pottery sherds recovered from a sea beach near Sepang, South Selangor, by F.C. Fogh of Teluk Merbau Plantations Ltd. in August 1940.

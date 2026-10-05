@@ -3,8 +3,7 @@ id: an-inscribed-tin-ingot-from-kuala-dipang-district-of-kinta
 work_id: jmbras-23-3-p102
 title: An inscribed tin-ingot from Kuala Dipang, district of Kinta
 canonical_name: An inscribed tin-ingot from Kuala Dipang, district of Kinta
-type: article
-article_type: article
+type: publication
 authors:
 - W. Linehan
 year: 1950
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-153-linehan-inscribedtiningotkuala-1950-a219c74fc90e
 source_path: ../sources/jmalayanras-153-linehan-inscribedtiningotkuala-1950-a219c74fc90e/frontmatter.md
 summarized: true
+publication_type: note
 ---
+
 # An inscribed tin-ingot from Kuala Dipang, district of Kinta
 
 Dr W. Linehan, a colonial administrator and historian of Pahang, published this brief note in 1950 describing a unique inscribed tin-ingot of tortoise-shell shape held in the Perak Museum, arguing that such objects were not currency but sacred ceremonial items whose magical significance had been obscured by later misidentification. The article situates the ingot within the broader ethnography of Malay mining ritual and the cross-cultural symbolism of the tortoise in the Malay world.

@@ -3,8 +3,7 @@ id: a-fine-trapezoidal-gouge-and-associated-items-from-north-bor
 work_id: jmbras-39-2-p172
 title: A fine trapezoidal gouge and associated items from North Borneo
 canonical_name: A fine trapezoidal gouge and associated items from North Borneo
-type: article
-article_type: article
+type: publication
 authors:
 - M. Chong
 year: 1966
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-209-harrisson-palangiithree-1966-2c3a2cc321c1
 source_path: ../sources/jmbras-209-harrisson-palangiithree-1966-2c3a2cc321c1.md
 summarized: true
+publication_type: note
 ---
+
 # A fine trapezoidal gouge and associated items from North Borneo
 
 This short note by Tom Harrisson, published in JMBRAS Vol. 39 (1966), records three further observations on the *palang*—a penile piercing device used among Bornean peoples—following his earlier 1964 paper on the subject.

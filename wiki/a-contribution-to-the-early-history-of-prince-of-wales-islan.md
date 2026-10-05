@@ -3,8 +3,7 @@ id: a-contribution-to-the-early-history-of-prince-of-wales-islan
 work_id: jmbras-7-3-p377
 title: A contribution to the early history of Prince of Wales Island
 canonical_name: A contribution to the early history of Prince of Wales Island
-type: article
-article_type: article
+type: publication
 authors:
 - F.G. Stevens
 year: 1929
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-108-stevens-contributionearlyhistory-1929-d1adf09b6ea9
 source_path: ../sources/jmalayanras-108-stevens-contributionearlyhistory-1929-d1adf09b6ea9.md
 summarized: true
+publication_type: journal_article
 ---
+
 # A contribution to the early history of Prince of Wales Island
 
 F.G. Stevens published this article in 1929, examining the administrative and physical development of Prince of Wales' Island (Penang) from Francis Light's landing in 1786 through the transfer of the Straits Settlements government to Singapore in 1826. Stevens argues that Penang's perceived "failure" was not a matter of geography or commerce but an administrative failure rooted in the East India Company's parsimonious support of Light and his successors, which produced a reckless land alienation policy and a chronically inadequate revenue base.

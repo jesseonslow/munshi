@@ -3,8 +3,7 @@ id: a-history-of-selangor
 work_id: jmbras-12-3-p1
 title: A history of Selangor
 canonical_name: A history of Selangor
-type: article
-article_type: article
+type: publication
 authors:
 - R.O. Winstedt
 year: 1934
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-012-cataloguebooksc-1883-38e980e1dc7d
 source_path: ../sources/jsbras-012-cataloguebooksc-1883-38e980e1dc7d.md
 summarized: true
+publication_type: index
 ---
+
 # A history of Selangor
 
 The metadata identifies this document as R.O. Winstedt's "A history of Selangor" (JMBRAS Vol. 12, 1934), but the primary source text provided is in fact the **Catalogue of Books, &c., in the Library of the Straits Branch of the Royal Asiatic Society (January 1884)** — a library inventory, not a historical monograph. The summary below reflects the text actually supplied.

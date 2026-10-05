@@ -5,8 +5,7 @@ title: A record of the occurrence of some ferns in northern Sumatra, being addit
   to Mr. Ridley’s list
 canonical_name: A record of the occurrence of some ferns in northern Sumatra, being
   additions to Mr. Ridley’s list
-type: article
-article_type: article
+type: publication
 authors:
 - I.H. Burkill
 year: 1923
@@ -23,7 +22,9 @@ published: false
 source_doc: jsbras-001-maxwell-antiquitiesprovincewellesley-1878-7483dd99c582
 source_path: ../sources/jsbras-001-maxwell-antiquitiesprovincewellesley-1878-7483dd99c582.md
 summarized: true
+publication_type: note
 ---
+
 # A record of the occurrence of some ferns in northern Sumatra, being additions to Mr. Ridley’s list
 
 This is a JSTOR cover page for "Antiquities of Province Wellesley" by W. E. Maxwell, published in the *Journal of the Straits Branch of the Royal Asiatic Society*, July 1878, No. 1, p. 114.

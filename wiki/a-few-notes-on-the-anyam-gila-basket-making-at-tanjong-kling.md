@@ -4,8 +4,7 @@ work_id: jsbras-46-1-p1
 title: A few notes on the “anyam gila” basket making at Tanjong Kling, Malacca
 canonical_name: A few notes on the _“anyam gila”_ basket making at Tanjong Kling,
   Malacca
-type: article
-article_type: article
+type: publication
 authors:
 - R.N. Bland
 year: 1906
@@ -22,7 +21,9 @@ published: false
 source_doc: jmbras-223-bastin-javajournaldr-1973-1a750eb67381
 source_path: ../sources/jmbras-223-bastin-javajournaldr-1973-1a750eb67381/index.md
 summarized: true
+publication_type: note
 ---
+
 # A few notes on the “anyam gila” basket making at Tanjong Kling, Malacca
 
 R.N. Bland's 1906 article in the *Journal of the Straits Branch of the Royal Asiatic Society* (Vol. 46, pp. 1–7) documents the "anyam gila" basket-making tradition at Tanjong Kling, Malacca. The piece is a brief ethnographic note recording a local craft practice in the Straits Settlements during the early colonial period.

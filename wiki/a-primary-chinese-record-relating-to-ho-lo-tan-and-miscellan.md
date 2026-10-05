@@ -5,8 +5,7 @@ title: A primary Chinese record relating to Ho-lo-tan, and miscellaneous notes o
   Srivijaya and Fo-Che
 canonical_name: A primary Chinese record relating to Ho-lo-tan, and miscellaneous
   notes on Srivijaya and Fo-Che
-type: article
-article_type: article
+type: publication
 authors:
 - W.T. Kao
 year: 1956
@@ -23,7 +22,9 @@ published: false
 source_doc: jmalayanras-173-kao-primarychineserecord-1956-3fabb9414e03
 source_path: ../sources/jmalayanras-173-kao-primarychineserecord-1956-3fabb9414e03/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # A primary Chinese record relating to Ho-lo-tan, and miscellaneous notes on Srivijaya and Fo-Che
 
 William T. Kao's 1956 article examines a contemporaneous Chinese court diary (the Yuan-chia Ch'i-chu-chu, A.D. 424–453) as the most reliable primary source for the five embassies sent from the Southeast Asian polity of Ho-lo-tan to the Southern Sung court, and argues that the usurper king Shi-li-p'i-jia-ya's name constitutes a superior phonetic rendering of "Sri Vijaya" compared to the later T'ang-era form Che-li-fo-che. The article further reassesses the duration of Srivijaya's diplomatic relations with China and clarifies the methodology behind the cartographer Kia Tan's geographical descriptions.

@@ -3,8 +3,7 @@ id: an-old-royal-tombstone-in-pahang
 work_id: jsbras-60-1-p37
 title: An old royal tombstone in Pahang
 canonical_name: An old royal tombstone in Pahang
-type: article
-article_type: article
+type: publication
 authors:
 - W.D. Barnes
 year: 1911
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-060-barnes-oldtombstonepahang-1911-9722f75540b0
 source_path: ../sources/jsbras-060-barnes-oldtombstonepahang-1911-9722f75540b0.md
 summarized: true
+publication_type: note
 ---
+
 # An old royal tombstone in Pahang
 
 A brief note by Warren D. Barnes describing a 15th-century royal gravestone of Raja Fatimah, found in the Pahang River near Tebing Tinggi and presented to the Tungku Besar of Pahang in May 1910 (p. 37).

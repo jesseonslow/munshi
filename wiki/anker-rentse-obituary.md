@@ -3,8 +3,7 @@ id: anker-rentse-obituary
 work_id: jmbras-24-1-p192
 title: Anker Rentse. Obituary
 canonical_name: Anker Rentse. Obituary
-type: article
-article_type: obituary
+type: publication
 authors:
 - M.W.F. Tweedie
 year: 1951
@@ -20,8 +19,8 @@ status: stub
 published: false
 source_doc: jmalayanras-154-tweedie-obituaryankerrentse-1951-2f6430dbd818
 source_path: ../sources/jmalayanras-154-tweedie-obituaryankerrentse-1951-2f6430dbd818.md
+publication_type: obituary
 ---
-
 
 # Anker Rentse. Obituary
 

@@ -3,8 +3,7 @@ id: an-ascent-of-gunong-benom-from-raub
 work_id: jmbras-9-1-p15
 title: An ascent of Gunong Benom from Raub
 canonical_name: An ascent of Gunong Benom from Raub
-type: article
-article_type: article
+type: publication
 authors:
 - E.J. Strugnell
 - E.S. Willbourn
@@ -22,7 +21,9 @@ published: false
 source_doc: jmalayanras-111-strugnell-ascentgunongbenom-1931-3dc7cff7f9d4
 source_path: ../sources/jmalayanras-111-strugnell-ascentgunongbenom-1931-3dc7cff7f9d4.md
 summarized: true
+publication_type: journal_article
 ---
+
 # An ascent of Gunong Benom from Raub
 
 Strugnell and Willbourn's 1931 account documents a ten-day expedition (May 1930) to summit Gunong Benom (6,916 ft), the highest peak of an isolated mountain group in central Pahang, by a route from Raub that had never before been successfully completed. The article serves simultaneously as a field narrative of considerable physical difficulty, a geological survey of the mountain's rock sequence, and a botanical record that included several specimens possibly new to science.

@@ -3,8 +3,7 @@ id: about-slim-and-bernam
 work_id: jsbras-4-1-p34
 title: About Slim and Bernam
 canonical_name: About Slim and Bernam
-type: article
-article_type: article
+type: publication
 authors:
 - H.W.C. Leech
 year: 1879
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-004-leech-slimbernam-1879-ec5651cdccef
 source_path: ../sources/jsbras-004-leech-slimbernam-1879-ec5651cdccef.md
 summarized: true
+publication_type: journal_article
 ---
+
 # About Slim and Bernam
 
 H.W.C. Leech published this account in 1879, reporting on an expedition through the Slim and Bernam river valleys in southern Perak undertaken in the company of a coffee planter, Mr. Smith. The overarching thesis is that this little-known section of the Perak interior possesses exceptional soil, climate, and transport advantages for tropical plantation agriculture, alongside unexploited mineral deposits of tin, coal, and gold that await only "intelligence and capital" to be worked (p. 45).

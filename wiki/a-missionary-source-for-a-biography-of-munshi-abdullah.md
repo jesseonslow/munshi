@@ -3,8 +3,7 @@ id: a-missionary-source-for-a-biography-of-munshi-abdullah
 work_id: jmbras-53-1-p111
 title: A missionary source for a biography of Munshi Abdullah
 canonical_name: A missionary source for a biography of Munshi Abdullah
-type: article
-article_type: article
+type: publication
 authors:
 - L.A. Mills
 year: 1980
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-237-milner-missionarysourcebiography-1980-4ed3a38178ab
 source_path: ../sources/jmbras-237-milner-missionarysourcebiography-1980-4ed3a38178ab.md
 summarized: true
+publication_type: journal_article
 ---
+
 # A missionary source for a biography of Munshi Abdullah
 
 A.C. Milner (1980) examines the London Missionary Society archives held at the School of Oriental and African Studies, London, to recover independent contemporary evidence on the life and intellectual development of Abdullah bin Abdul Kadir Munshi, the founder of modern Malay literature. Writing in the early 1820s through the 1840s, the LMS missionaries in Melaka, Singapore, and Penang left letters that corroborate, complicate, and extend the narrative Abdullah told in his own *Hikayat*, and Milner argues that these documents are essential for understanding how European missionary contact shaped Abdullah's critical, individualist outlook.

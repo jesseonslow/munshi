@@ -3,8 +3,7 @@ id: alexander-the-great-and-the-mount-meru-and-chula-legends
 work_id: jmbras-18-2-p153
 title: Alexander the Great and the Mount Meru and Chula legends
 canonical_name: Alexander the Great and the Mount Meru and Chula legends
-type: article
-article_type: article
+type: publication
 authors:
 - R.O. Winstedt
 year: 1940
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-138-winstedt-alexandergreatmount-1940-0b3225c1b793
 source_path: ../sources/jmalayanras-138-winstedt-alexandergreatmount-1940-0b3225c1b793.md
 summarized: true
+publication_type: note
 ---
+
 # Alexander the Great and the Mount Meru and Chula legends
 
 This short note by R. O. Winstedt (1940) examines the etymological and legendary connections between Alexander the Great, Mount Meru, and the Chula raids in Malay and Indonesian folklore.

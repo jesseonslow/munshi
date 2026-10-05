@@ -3,8 +3,7 @@ id: a-few-ulun-no-bokan-murut-taboos
 work_id: jmbras-14-3-p327
 title: A few ulun-no-bokan (Murut) taboos
 canonical_name: A few _ulun-no-bokan_ (Murut) taboos
-type: article
-article_type: article
+type: publication
 authors:
 - H.G. Keith
 year: 1936
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-126-keith-ulunnobokanmuruttaboos-1936-c4a9fc0dfd80
 source_path: ../sources/jmalayanras-126-keith-ulunnobokanmuruttaboos-1936-c4a9fc0dfd80.md
 summarized: true
+publication_type: note
 ---
+
 # A few ulun-no-bokan (Murut) taboos
 
 This short note by H.G. Keith documents twenty-two taboos observed by the Ulun-no-Bokan, a Murut subgroup inhabiting the area between Kampong Kindasan and Kampong Labau in the Keningau District of North Borneo (p. 327).

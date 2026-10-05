@@ -3,8 +3,7 @@ id: a-bee-bomor
 work_id: jmbras-4-3-p421
 title: A bee bomor
 canonical_name: A bee _bomor._
-type: article
-article_type: article
+type: publication
 authors:
 - J.D. Gimlette
 year: 1926
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-098-gimlette-beebomor-1926-17fb2958ba05
 source_path: ../sources/jmalayanras-098-gimlette-beebomor-1926-17fb2958ba05.md
 summarized: true
+publication_type: note
 ---
+
 # A bee bomor
 
 This short note by J. D. Gimlette records his experience of engaging a Kelantan *bomor* (ritual specialist) to deal with a swarm of bees that had colonised his study, and compares Kelantan and Pahang beliefs regarding bees settling in a house (p. 422).

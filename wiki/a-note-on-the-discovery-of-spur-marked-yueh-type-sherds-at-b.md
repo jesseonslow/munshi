@@ -5,8 +5,7 @@ title: A note on the discovery of spur-marked yueh-type sherds at Bukit Seguntan
   Palembang
 canonical_name: A note on the discovery of spur-marked _yueh-type_ sherds at Bukit
   Seguntang Palembang
-type: article
-article_type: article
+type: publication
 authors:
 - E.E. McKinnon
 year: 1979
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-236-mckinnon-notediscoveryspurmarked-1979-0ea4b108151f
 source_path: ../sources/jmbras-236-mckinnon-notediscoveryspurmarked-1979-0ea4b108151f.md
 summarized: true
+publication_type: note
 ---
+
 # A note on the discovery of spur-marked yueh-type sherds at Bukit Seguntang Palembang
 
 E. Edwards McKinnon published this brief field note in 1979, reporting the recovery of surface finds of Chinese export ceramics at Bukit Seguntang and Talang Kikim near Palembang, Sumatra, during a June 1978 survey. The article argues that these finds, particularly the spur-marked Yueh-type stoneware sherds dated to the late ninth or tenth century, provide the earliest material evidence for settlement in the Palembang area, helping to close the chronological gap between the seventh-century Srivijayan inscriptions and the well-documented fourteenth- and fifteenth-century remains.

@@ -3,8 +3,7 @@ id: ancient-shell-beads-in-north-borneo
 work_id: jmbras-24-1-p168
 title: Ancient shell beads in North Borneo
 canonical_name: Ancient shell beads in North Borneo
-type: article
-article_type: article
+type: publication
 authors:
 - I.H.N. Evans
 year: 1951
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-154-evans-ancientshellbeads-1951-7d4fdde78e55
 source_path: ../sources/jmalayanras-154-evans-ancientshellbeads-1951-7d4fdde78e55.md
 summarized: true
+publication_type: note
 ---
+
 # Ancient shell beads in North Borneo
 
 Ivor H. N. Evans published this brief field note in 1951, drawing on nearly four decades of observation among the Dusun people of North Borneo to document a class of ancient shell beads found in the Tempasuk (Kota Belud) district. The article examines their physical characteristics, trade history, linguistic nomenclature, and the mythological origin narrative attached to them by the Dusun.

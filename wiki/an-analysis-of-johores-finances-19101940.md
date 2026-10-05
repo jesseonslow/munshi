@@ -3,8 +3,7 @@ id: an-analysis-of-johores-finances-19101940
 work_id: jmbras-80-2-p67
 title: An analysis of Johore’s finances 1910–1940
 canonical_name: An analysis of Johore’s finances 1910–1940
-type: article
-article_type: article
+type: publication
 authors:
 - I. Sugimoto
 year: 2007
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-293-sugimoto-analysisstatejohores-2007-0e8af6befe3d
 source_path: ../sources/jmbras-293-sugimoto-analysisstatejohores-2007-0e8af6befe3d/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # An analysis of Johore’s finances 1910–1940
 
 Ichiro Sugimoto's 2007 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* (Vol. 80, Part 2) examines British colonial financial administration in the state of Johore between 1910 and 1940, arguing that the colonial government's central objective was the systematic creation of budget surpluses and their allocation as portfolio financial investments across the British Empire rather than domestic development.

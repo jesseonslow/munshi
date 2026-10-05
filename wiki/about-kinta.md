@@ -3,8 +3,7 @@ id: about-kinta
 work_id: jsbras-4-1-p21
 title: About Kinta
 canonical_name: About Kinta
-type: article
-article_type: article
+type: publication
 authors:
 - H.W.C. Leech
 year: 1879
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-004-leech-kinta-1879-9d6bb9ee02f7
 source_path: ../sources/jsbras-004-leech-kinta-1879-9d6bb9ee02f7.md
 summarized: true
+publication_type: journal_article
 ---
+
 # About Kinta
 
 H.W.C. Leech, a legal professional and government official in the Straits Settlements, published "About Kinta" in the *Journal of the Straits Branch of the Royal Asiatic Society* in 1879, presenting a geographical, geological, and ethnographical survey of the Kinta River valley and its eastern tributaries in Perak. The article's overarching purpose is to document an almost entirely unexplored interior for the benefit of prospective European settlers, miners, and the colonial administration, arguing that the region's tin deposits, limestone formations, and agricultural potential warranted immediate investment and further exploration.

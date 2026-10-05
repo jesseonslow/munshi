@@ -4,8 +4,7 @@ work_id: jmbras-10-2-p1
 title: A Malay history of Riau and Johore {Tuhfat-al-Nafis}. .O. Winstedt {Jawi
 canonical_name: A Malay history of Riau and Johore {Tuhfat-al-Nafis}. .O. Winstedt
   {Jawi}
-type: article
-article_type: article
+type: publication
 authors:
 - ‘Ali bin Raja Haji Ahmad Raja Haji
 - R.O. Winstedt
@@ -23,7 +22,9 @@ published: false
 source_doc: jsbras-010-proceedingsgeneralmeeting-1882-bb8800ecb136
 source_path: ../sources/jsbras-010-proceedingsgeneralmeeting-1882-bb8800ecb136.md
 summarized: true
+publication_type: translation
 ---
+
 # A Malay history of Riau and Johore {Tuhfat-al-Nafis}. .O. Winstedt {Jawi
 
 These are the minutes of the General Meeting of the Straits Branch of the Royal Asiatic Society, held at the Exchange Rooms on 21 February 1883, recording attendance, the approval of new members, and the election of officers for 1883.

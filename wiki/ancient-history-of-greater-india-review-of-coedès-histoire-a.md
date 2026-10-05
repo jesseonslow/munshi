@@ -5,8 +5,7 @@ title: Ancient history of Greater India. {review of Coedès’ Histoire ancienne
   états hindouisés d’extrême-orient
 canonical_name: Ancient history of Greater India. {review of Coedès’ _Histoire ancienne
   des états hindouisés d’extrême-orient}_
-type: article
-article_type: article
+type: publication
 authors:
 - E.W. Hutchinson
 year: 1947
@@ -23,7 +22,9 @@ published: false
 source_doc: jmalayanras-142-hutchinson-ancienthistorygreater-1947-5816ef2be9dd
 source_path: ../sources/jmalayanras-142-hutchinson-ancienthistorygreater-1947-5816ef2be9dd.md
 summarized: true
+publication_type: review
 ---
+
 # Ancient history of Greater India. {review of Coedès’ Histoire ancienne des états hindouisés d’extrême-orient
 
 E. W. Hutchinson, a senior British colonial administrator in Malaya, reviewed Georges Coedès' *Histoire ancienne des états hindouisés d'Extrême-Orient* (1944) in the *Journal of the Malayan Branch of the Royal Asiatic Society* in 1947. The review, written after the French reoccupation of Hanoi finally made the volume accessible outside the Japanese-occupied sphere, assesses Coedès' synthesis of the pre-Indian ethnolinguistic layers of Southeast Asia and the subsequent process of Indianization, with particular attention to the identification of Funan and the transmission of the concept of universal kingship from Cambodia to its neighbours.

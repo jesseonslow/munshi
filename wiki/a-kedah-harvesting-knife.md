@@ -3,8 +3,7 @@ id: a-kedah-harvesting-knife
 work_id: jmbras-18-2-p43
 title: A Kedah harvesting knife
 canonical_name: A Kedah harvesting knife
-type: article
-article_type: article
+type: publication
 authors:
 - J.A. Baker
 year: 1940
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-138-baker-kedahharvestingknife-1940-d00fb8672811
 source_path: ../sources/jmalayanras-138-baker-kedahharvestingknife-1940-d00fb8672811.md
 summarized: true
+publication_type: note
 ---
+
 # A Kedah harvesting knife
 
 J.A. Baker's short note describes the *pisau penggiau*, a distinctive Kedah harvesting implement consisting of a wooden handle with a long hook and an iron blade set on the opposite side, used for cutting padi stalks in conjunction with buffalo threshing.

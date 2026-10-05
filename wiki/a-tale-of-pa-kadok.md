@@ -3,8 +3,7 @@ id: a-tale-of-pa-kadok
 work_id: jmbras-24-1-p180
 title: A tale of Pa’ Kadok
 canonical_name: A tale of Pa’ Kadok
-type: article
-article_type: article
+type: publication
 authors:
 - J.H. Loch
 year: 1951
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-154-loch-talepakadok-1951-274032df07bc
 source_path: ../sources/jmalayanras-154-loch-talepakadok-1951-274032df07bc.md
 summarized: true
+publication_type: note
 ---
+
 # A tale of Pa’ Kadok
 
 J.H. Loch records a Perak River folk tale concerning Pa' Kadok, a native of Siak in Deli who lived at Lambor during the reign of Sultan Muzaffar Shah I, and documents the material and ritual legacy the story left among the people of Lambor. (p. 180)

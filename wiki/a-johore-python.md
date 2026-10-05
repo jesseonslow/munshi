@@ -3,8 +3,7 @@ id: a-johore-python
 work_id: jsbras-45-1-p281
 title: A Johore python
 canonical_name: A Johore python
-type: article
-article_type: article
+type: publication
 authors:
 - C.B. Kloss
 year: 1906
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-045-kloss-johorepython-1906-c7485b717242
 source_path: ../sources/jsbras-045-kloss-johorepython-1906-c7485b717242.md
 summarized: true
+publication_type: note
 ---
+
 # A Johore python
 
 This short note by C. Boden Kloss records the discovery of an exceptionally large python (*ular sawa*) on Gunong Pulai, Johore, in December 1904.

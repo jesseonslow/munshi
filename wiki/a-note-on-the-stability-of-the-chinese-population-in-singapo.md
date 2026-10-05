@@ -3,8 +3,7 @@ id: a-note-on-the-stability-of-the-chinese-population-in-singapo
 work_id: jmbras-31-1-p83
 title: A note on the stability of the Chinese population in Singapore, 1947–1950
 canonical_name: A note on the stability of the Chinese population in Singapore, 1947–1950
-type: article
-article_type: article
+type: publication
 authors:
 - M. Freedman
 year: 1958
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-181-freedman-notestabilitychinese-1958-a4ab5edeff70
 source_path: ../sources/jmalayanras-181-freedman-notestabilitychinese-1958-a4ab5edeff70.md
 summarized: true
+publication_type: journal_article
 ---
+
 # A note on the stability of the Chinese population in Singapore, 1947–1950
 
 Maurice Freedman's 1958 note, drawing on Department of Immigration records from his 1949–50 fieldwork in Singapore, examines the composition and volume of Chinese "visitors" travelling between Singapore and China in the immediate post-war period. His central argument is that while the Chinese population was demonstrably stabilising—evidenced by the rise of the locally-born to sixty per cent by 1947—substantial transnational family ties persisted, and the pattern of who visited China revealed important structural differences between dialect-groups that had implications for the pace of full anchorage.

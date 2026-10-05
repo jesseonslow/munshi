@@ -54,6 +54,7 @@ is_cluster: true
 is_contributor: false
 status: stub
 published: false
+type: concept
 ---
 
 # Animals

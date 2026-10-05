@@ -3,8 +3,7 @@ id: a-visit-to-siraf-an-ancient-port-in-the-persian-gulf
 work_id: jmbras-37-1-p1
 title: 'A visit to Siraf: an ancient port in the Persian Gulf'
 canonical_name: 'A visit to Siraf: an ancient port in the Persian Gulf'
-type: article
-article_type: article
+type: publication
 authors:
 - A. Lamb
 year: 1964
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-037-waterstradt-kelantantripgunong-1902-b1e9725f3873
 source_path: ../sources/jsbras-037-waterstradt-kelantantripgunong-1902-b1e9725f3873.md
 summarized: true
+publication_type: journal_article
 ---
+
 # A visit to Siraf: an ancient port in the Persian Gulf
 
 John Waterstradt's 1902 account documents his multi-month expedition to ascend Gunong Tahan—the supposed highest mountain in the Malay Peninsula—via the Kelantan river system, driven by a desire to compare its fauna with that of Kina Balu in Borneo, which he had climbed a decade earlier. The narrative is that of a naturalist working with minimal resources, repeatedly thwarted by difficult terrain, unreliable coolies, fever, and the onset of the rainy season, ultimately reaching the summit region after seven months rather than the three he had planned.

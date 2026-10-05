@@ -3,8 +3,7 @@ id: a-few-ideas-on-the-probable-origin-of-the-hill-tribes-of-for
 work_id: jsbras-9-1-p69
 title: A few ideas on the probable origin of the hill tribes of Formosa
 canonical_name: A few ideas on the probable origin of the hill tribes of Formosa
-type: article
-article_type: article
+type: publication
 authors:
 - J. Dodd
 year: 1882
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-015-dodd-glimpsemannerscustoms-1885-e443ef73b4ec
 source_path: ../sources/jsbras-015-dodd-glimpsemannerscustoms-1885-e443ef73b4ec.md
 summarized: true
+publication_type: journal_article
 ---
+
 # A few ideas on the probable origin of the hill tribes of Formosa
 
 J. Dodd, a British merchant and resident in northern Formosa during the 1860s and 1870s, published this ethnographic account in the *Journal of the Straits Branch of the Royal Asiatic Society* in 1885, offering a detailed physical and material description of the aboriginal hill tribes inhabiting the mountains behind Banca (Banqiao) and extending toward Su-oh Bay. The piece is the second instalment of a two-part study, following an earlier article on the probable origin of these peoples, and it focuses on their appearance, dress, armament, and daily material culture as observed from the Chinese borderland.

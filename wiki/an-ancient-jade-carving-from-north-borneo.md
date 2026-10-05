@@ -3,8 +3,7 @@ id: an-ancient-jade-carving-from-north-borneo
 work_id: jmbras-24-1-p171
 title: An ancient jade carving from North Borneo
 canonical_name: An ancient jade carving from North Borneo
-type: article
-article_type: article
+type: publication
 authors:
 - I.H.N. Evans
 year: 1951
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-154-evans-ancientjadecarving-1951-49c8086ca298
 source_path: ../sources/jmalayanras-154-evans-ancientjadecarving-1951-49c8086ca298.md
 summarized: true
+publication_type: note
 ---
+
 # An ancient jade carving from North Borneo
 
 I.H.N. Evans describes a broken jade carving of a four-footed animal, acquired from a Bajau man in 1949 and now held in the Museum of Archaeology and Ethnology, Cambridge.

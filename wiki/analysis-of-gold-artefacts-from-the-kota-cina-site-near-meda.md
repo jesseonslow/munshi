@@ -5,8 +5,7 @@ title: Analysis of gold artefacts from the Kota Cina site, near Medan, Sumatra (
   appendices). A. Manning, E
 canonical_name: Analysis of gold artefacts from the Kota Cina site, near Medan, Sumatra
   (with appendices). A. Manning, E
-type: article
-article_type: article
+type: publication
 authors:
 - E. Edwards
 - F.E. Treloar
@@ -25,7 +24,9 @@ published: false
 source_doc: jmbras-238-mckinnon-analysisgoldartifacts-1980-33a35b298770
 source_path: ../sources/jmbras-238-mckinnon-analysisgoldartifacts-1980-33a35b298770/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Analysis of gold artefacts from the Kota Cina site, near Medan, Sumatra (with appendices). A. Manning, E
 
 Ann Manning, E. Edwards McKinnon, and the late F.E. Treloar published this study in 1980, presenting the first scientific analysis of gold fragments recovered from the Kota Cina archaeological site near Medan, northeastern Sumatra, a cosmopolitan entrepôt active from the twelfth to the mid-fourteenth century. The article argues that gold was both manufactured and traded at Kota Cina, that the metal was derived from alluvial sources in the Bukit Barisan hinterland, and that Chinese craftsmen participated in the local gold trade during the Sung-Yuan period.

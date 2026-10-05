@@ -3,8 +3,7 @@ id: a-note-on-two-ritual-depositories-from-pimai-thailand
 work_id: jmbras-50-1-p68
 title: A note on two ritual depositories from Pimai, Thailand
 canonical_name: A note on two ritual depositories from Pimai, Thailand
-type: article
-article_type: article
+type: publication
 authors:
 - A. Lamb
 year: 1977
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-231-lamb-notetworitual-1977-555bc22a1925
 source_path: ../sources/jmbras-231-lamb-notetworitual-1977-555bc22a1925.md
 summarized: true
+publication_type: note
 ---
+
 # A note on two ritual depositories from Pimai, Thailand
 
 This note by Alastair Lamb documents two ritual deposit holders of grey stone discovered at the Khmer site of Pimai, Thailand, and situates them within the broader typological discussion of chambered reliquaries and deposit containers in Southeast Asia and Ceylon.

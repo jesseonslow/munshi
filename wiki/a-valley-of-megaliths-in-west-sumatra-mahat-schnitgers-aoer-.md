@@ -4,8 +4,7 @@ work_id: jmbras-59-1-p27
 title: A valley of megaliths in West Sumatra. Mahat (Schnitger’s Aoer Doeri) revisited
 canonical_name: A valley of megaliths in West Sumatra. Mahat (Schnitger’s Aoer Doeri)
   revisited
-type: article
-article_type: article
+type: publication
 authors:
 - J.N. Miksic
 year: 1986
@@ -22,7 +21,9 @@ published: false
 source_doc: jmbras-250-miksic-valleymegalithswest-1986-b7e3940c1850
 source_path: ../sources/jmbras-250-miksic-valleymegalithswest-1986-b7e3940c1850/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # A valley of megaliths in West Sumatra. Mahat (Schnitger’s Aoer Doeri) revisited
 
 John N. Miksic, in a 1986 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society*, revisits the megalithic valley of Mahat in West Sumatra—first described in literary terms by F. M. Schnitger in the 1940s and 1960s—to provide a preliminary archaeological and ethnographic account of its stone monuments and burial practices, arguing that the valley represents a significant but still poorly understood component of Sumatra's pre-Islamic cultural landscape.

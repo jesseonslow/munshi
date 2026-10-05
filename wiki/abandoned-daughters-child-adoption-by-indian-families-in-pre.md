@@ -5,8 +5,7 @@ title: 'Abandoned daughters: Child adoption by Indian Families in pre-independen
   Malaya and Singapore'
 canonical_name: 'Abandoned daughters: Child adoption by Indian Families in pre-independence
   Malaya and Singapore'
-type: article
-article_type: article
+type: publication
 authors:
 - T.W. Devasahayam
 year: 2020
@@ -30,7 +29,9 @@ keywords:
 - British colonial government
 - Indian diaspora
 - son preference
+publication_type: journal_article
 ---
+
 # Abandoned daughters: Child adoption by Indian Families in pre-independence Malaya and Singapore
 
 ## Abstract

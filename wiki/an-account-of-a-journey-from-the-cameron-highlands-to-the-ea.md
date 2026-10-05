@@ -7,8 +7,7 @@ title: An account of a journey from the Cameron Highlands to the east coast rail
 canonical_name: An account of a journey from the Cameron Highlands to the east coast
   railway and of a visit to the Temiar settlements in the valleys of the Sungai Blatop
   and S. Ber
-type: article
-article_type: article
+type: publication
 authors:
 - A.C. Baker
 year: 1933
@@ -25,7 +24,9 @@ published: false
 source_doc: jmalayanras-117-baker-accountjourneycameron-1933-801d79ca1bcc
 source_path: ../sources/jmalayanras-117-baker-accountjourneycameron-1933-801d79ca1bcc.md
 summarized: true
+publication_type: journal_article
 ---
+
 # An account of a journey from the Cameron Highlands to the east coast railway and of a visit to the Temiar settlements in the valleys of the Sungai Blatop and S. Ber
 
 A.C. Baker, a Malayan Civil Service officer, published this reconnaissance account in 1933 documenting a journey from the Cameron Highlands to the Gua Musang railway station through the previously unmapped interior of Ulu Kelantan. The expedition, directed by the Governor of the Federated Malay States, aimed to assess a potential east-west access route linking the Cameron Highlands road system to the East Coast Railway while simultaneously recording ethnographic and geological observations of the Temiar (Sakai) communities encountered along the way.

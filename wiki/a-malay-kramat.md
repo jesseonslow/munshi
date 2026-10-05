@@ -3,8 +3,7 @@ id: a-malay-kramat
 work_id: jsbras-2-1-p236
 title: A Malay kramat
 canonical_name: A Malay _kramat._
-type: article
-article_type: article
+type: publication
 authors:
 - W.E. Maxwell
 year: 1878
@@ -18,6 +17,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: note
 ---
 
 # A Malay kramat

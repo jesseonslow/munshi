@@ -5,8 +5,7 @@ title: An introduction to the study of ancient times in the Malay Peninsula and 
   Straits of Malacca
 canonical_name: An introduction to the study of ancient times in the Malay Peninsula
   and the Straits of Malacca
-type: article
-article_type: article
+type: publication
 authors:
 - R. Braddell
 year: 1941
@@ -30,7 +29,9 @@ reprints:
 source_doc: jmalayanras-139-braddell-introductionstudyancient-1941-0c83e1e5d160
 source_path: ../sources/jmalayanras-139-braddell-introductionstudyancient-1941-0c83e1e5d160.md
 summarized: true
+publication_type: journal_article
 ---
+
 # An introduction to the study of ancient times in the Malay Peninsula and the Straits of Malacca
 
 Roland Braddell, a British colonial administrator in the Straits Settlements, published this continuation of his multi-volume essay in 1941, covering the political history of Funan from the fourth to the sixth centuries A.D. and mounting a sustained argument that the ancient toponyms *Yava-dvipa*, *Iabadiou*, *Ye-po-ti*, and their Chinese variants referred to Borneo rather than Java or Sumatra. The piece represents the most ambitious attempt in the English-language literature of its day to reconstruct the ancient geography of the Malay Archipelago from Chinese, Greek, and Indian sources.

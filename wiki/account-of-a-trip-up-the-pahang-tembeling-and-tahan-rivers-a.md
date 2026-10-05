@@ -5,8 +5,7 @@ title: Account of a trip up the Pahang, Tembeling, and Tahan rivers, and an atte
   to reach Gunong Tahan
 canonical_name: Account of a trip up the Pahang, Tembeling, and Tahan rivers, and
   an attempt to reach Gunong Tahan
-type: article
-article_type: article
+type: publication
 authors:
 - H.J. Kelsall
 - H.N. Ridley
@@ -24,7 +23,9 @@ published: false
 source_doc: jsbras-025-kelsall-accounttrippahang-1894-f5f6361be536
 source_path: ../sources/jsbras-025-kelsall-accounttrippahang-1894-f5f6361be536.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Account of a trip up the Pahang, Tembeling, and Tahan rivers, and an attempt to reach Gunong Tahan
 
 H.J. Kelsall and H.N. Ridley published this account in 1894, documenting a two-month expedition up the Pahang, Tembeling, and Tahan rivers in the Malay Peninsula, culminating in a failed attempt to reach the summit of Gunong Tahan. The article serves as both a travel narrative and a natural history survey, combining detailed observations of fauna, flora, and indigenous peoples with a frank assessment of the logistical challenges that defeated the expedition's primary objective.

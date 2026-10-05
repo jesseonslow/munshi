@@ -3,8 +3,7 @@ id: a-malay-mission-to-bangkok-during-the-reign-of-rama-ii
 work_id: jmbras-56-2-p135
 title: A Malay mission to Bangkok during the reign of Rama II
 canonical_name: A Malay mission to Bangkok during the reign of Rama II
-type: article
-article_type: article
+type: publication
 authors:
 - C. Skinner
 year: 1983
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-245-skinner-malaymissionbangkok-1983-00c452a14e49
 source_path: ../sources/jmbras-245-skinner-malaymissionbangkok-1983-00c452a14e49.md
 summarized: true
+publication_type: translation
 ---
+
 # A Malay mission to Bangkok during the reign of Rama II
 
 Cyril Skinner's 1983 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* presents a translation of a Thai court manuscript recording the arrival of Malay tributary envoys at the Bangkok palace in October 1809, the first year of Rama II's reign. The article's central contribution is to supply a Siamese administrative perspective on the tributary relationship between Bangkok and the northern Malay states, a relationship previously documented almost exclusively from Malay or English sources.

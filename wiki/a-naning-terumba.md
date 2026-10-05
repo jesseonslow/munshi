@@ -3,8 +3,7 @@ id: a-naning-terumba
 work_id: jmbras-6-4-p49
 title: A Naning terumba
 canonical_name: A Naning _terumba._
-type: article
-article_type: article
+type: publication
 authors:
 - A. Hyde
 year: 1928
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-105-hyde-naningterumba-1928-51230d627938
 source_path: ../sources/jmalayanras-105-hyde-naningterumba-1928-51230d627938.md
 summarized: true
+publication_type: document
 ---
+
 # A Naning terumba
 
 A. Hyde, a Malayan Civil Service officer, published this transcription and English translation of a *Naning terumba*—a traditional genealogical document of the Rembau-Naning royal lineage—in 1928. The text traces the origin of the Rembau sultanate back to Alexander the Great and promulgates the customary sayings (*bilangan*) that established hereditary territorial rights across the Rembau-Naning district.

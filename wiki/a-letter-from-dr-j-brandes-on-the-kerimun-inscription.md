@@ -3,8 +3,7 @@ id: a-letter-from-dr-j-brandes-on-the-kerimun-inscription
 work_id: jmbras-10-1-p21
 title: A letter from Dr. J. Brandes on the Kerimun inscription
 canonical_name: A letter from Dr. J. Brandes on the Kerimun inscription
-type: article
-article_type: article
+type: publication
 authors:
 - J. Brandes
 year: 1932
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-113-brandes-letterdrj-1932-5f36d6c52dbe
 source_path: ../sources/jmalayanras-113-brandes-letterdrj-1932-5f36d6c52dbe.md
 summarized: true
+publication_type: document
 ---
+
 # A letter from Dr. J. Brandes on the Kerimun inscription
 
 This is a letter from Dr. J. Brandes, dated 13 October 1887, providing his reading and interpretation of the Kerimun (Pasir Panjang) inscription, published posthumously in 1932 after being found among old papers.

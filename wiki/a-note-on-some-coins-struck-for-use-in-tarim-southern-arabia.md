@@ -3,8 +3,7 @@ id: a-note-on-some-coins-struck-for-use-in-tarim-southern-arabia
 work_id: jmbras-3-1-p1
 title: A note on some coins struck for use in Tarim, Southern Arabia. Il
 canonical_name: A note on some coins struck for use in Tarim, Southern Arabia. Il
-type: article
-article_type: article
+type: publication
 authors:
 - J.A.S. Bucknill
 year: 1925
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-288-wade-zhengvoyagesreassessment-2005-15ac1022d1b2
 source_path: ../sources/jmbras-288-wade-zhengvoyagesreassessment-2005-15ac1022d1b2/frontmatter.md
 summarized: true
+publication_type: note
 ---
+
 # A note on some coins struck for use in Tarim, Southern Arabia. Il
 
 Geoff Wade, in this 2005 article published in the *Journal of the Malaysian Branch of the Royal Asiatic Society*, offers a revisionist reassessment of the early fifteenth-century Zheng He voyages, arguing that they were not benign "voyages of friendship" but instruments of Ming maritime proto-colonialism designed to impose a *pax Ming* across Southeast Asia and the Indian Ocean. By situating the voyages alongside the Yong-le emperor's simultaneous land-based conquests of Đai Viet and the Yun-nan Tai polities, Wade recasts the eunuch-led armadas as the maritime prong of a coherent imperial expansion strategy.

@@ -3,8 +3,7 @@ id: ahmad-shah-ibn-iskander-and-the-late-17th-century-holy-war-i
 work_id: jmbras-43-1-p48
 title: Ahmad Shah Ibn Iskander and the late 17th century ‘holy war’ in Indonesia
 canonical_name: Ahmad Shah Ibn Iskander and the late 17th century ‘holy war’ in Indonesia
-type: article
-article_type: article
+type: publication
 authors:
 - J. Kathirithamby– Wells
 year: 1970
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-217-kathirithambywells-ahmadshahibn-1970-fdf1c549dd06
 source_path: ../sources/jmbras-217-kathirithambywells-ahmadshahibn-1970-fdf1c549dd06.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Ahmad Shah Ibn Iskander and the late 17th century ‘holy war’ in Indonesia
 
 J. Kathirithamby-Wells published this preliminary study in 1970 in the *Journal of the Malaysian Branch of the Royal Asiatic Society* (Vol. 43, No. 1), examining the late 17th century anti-kafir movement in the Indonesian Archipelago through the figure of Ahmad Shah ibn Iskandar, known as the *Yang di-Pertuan Raja Sakti*. The article argues that Dutch colonial sources, preoccupied with commerce and political control, misread the religious and cultural dimensions of indigenous resistance, reducing a complex movement to the activities of a "troublesome pirate."

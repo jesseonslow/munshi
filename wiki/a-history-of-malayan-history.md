@@ -3,8 +3,7 @@ id: a-history-of-malayan-history
 work_id: jmbras-71-2-p91
 title: A history of Malayan history
 canonical_name: A history of Malayan history
-type: article
-article_type: article
+type: publication
 authors:
 - J.M. Gullick
 year: 1998
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-275-gullick-historymalayanhistory-1998-5c4c2524f699
 source_path: ../sources/jmbras-275-gullick-historymalayanhistory-1998-5c4c2524f699.md
 summarized: true
+publication_type: journal_article
 ---
+
 # A history of Malayan history
 
 J.M. Gullick, a veteran colonial administrator and historian, published this historiographical survey in 1998 (a revised version of a 1988 talk), tracing the evolution of Malayan historical writing from 1800 to 1939. His overarching thesis is that "there are many kinds of history," and that the purpose, personality, and sources of each author determine the character of the work produced.

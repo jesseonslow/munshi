@@ -3,8 +3,7 @@ id: anglo-malay-relations-17861795
 work_id: jmbras-38-2-p183
 title: Anglo-Malay relations, 1786–1795
 canonical_name: Anglo-Malay relations, 1786–1795. . f
-type: article
-article_type: article
+type: publication
 authors:
 - D.K. Bassett
 year: 1965
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-208-bassett-anglomalayrelations17861795-1965-5d9610bccac6
 source_path: ../sources/jmbras-208-bassett-anglomalayrelations17861795-1965-5d9610bccac6.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Anglo-Malay relations, 1786–1795
 
 D.K. Bassett's 1965 article examines Anglo-Malay relations during the first decade of British settlement on Penang (1786–1795), arguing that the East India Company's refusal to honour its commitments to Sultan Abdullah of Kedah and other Malay rulers was dictated by broader Anglo-Dutch diplomatic considerations in Europe, and that Francis Light's opportunistic and often dishonest reporting to Calcutta was the principal instrument through which the Company evaded its obligations. Written as a tribute to the late Carl Gibson-Hill, the essay attempts to give equal consideration to the attitudes of indigenous rulers and the Company while acknowledging the complete inequality of power between the parties.

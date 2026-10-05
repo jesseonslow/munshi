@@ -5,8 +5,7 @@ title: A note upon the way in which bees settle on flowers of Derris thyrsi-flor
   and the injury resulting from their search for honey
 canonical_name: A note upon the way in which bees settle on flowers of _Derris thyrsi-flora_
   and the injury resulting from their search for honey
-type: article
-article_type: article
+type: publication
 authors:
 - I.H. Burkill
 year: 1917
@@ -23,7 +22,9 @@ published: false
 source_doc: jsbras-077-burkill-noteuponway-1917-459822d6f9c3
 source_path: ../sources/jsbras-077-burkill-noteuponway-1917-459822d6f9c3.md
 summarized: true
+publication_type: note
 ---
+
 # A note upon the way in which bees settle on flowers of Derris thyrsi-flora and the injury resulting from their search for honey
 
 This note by I. H. Burkill documents the mechanical injury inflicted on *Derris thrysiflora* flowers by visiting bees and the consequences for seed-set.

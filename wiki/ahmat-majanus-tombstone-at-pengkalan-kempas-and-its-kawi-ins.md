@@ -3,8 +3,7 @@ id: ahmat-majanus-tombstone-at-pengkalan-kempas-and-its-kawi-ins
 work_id: jmbras-53-1-p1
 title: Ahmat Majanu’s tombstone at Pengkalan Kempas and its Kawi inscription,
 canonical_name: Ahmat Majanu’s tombstone at Pengkalan Kempas and its Kawi inscription,
-type: article
-article_type: article
+type: publication
 authors:
 - J.G. de Casparis
 year: 1980
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-053-hunter-plantsprincewales-1909-b9cfdf3dc7d7
 source_path: ../sources/jsbras-053-hunter-plantsprincewales-1909-b9cfdf3dc7d7/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Ahmat Majanu’s tombstone at Pengkalan Kempas and its Kawi inscription,
 
 Sir William Hunter, Surgeon to the East India Company, composed this botanical manuscript during his visit to Penang (Prince of Wales Island) in the late 1790s, and it was edited and annotated by H. N. Ridley for publication in 1909. The work serves as both a topographical and climatic description of the island in its early colonial period and a systematic catalogue of its vegetable productions, organised according to the Linnaean sexual system. Its overarching significance lies in documenting the establishment of the East India Company's spice gardens at Ayer Hitam and recording the first fruiting of nutmeg and mangosteen in Penang, thereby providing primary evidence for the early introduction of economically important plants to the Straits Settlements.

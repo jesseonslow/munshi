@@ -3,8 +3,7 @@ id: a-sketch-of-the-geological-structure-of-the-malay-peninsula
 work_id: jsbras-59-1-p1
 title: A sketch of the geological structure of the Malay Peninsula
 canonical_name: A sketch of the geological structure of the Malay Peninsula
-type: article
-article_type: article
+type: publication
 authors:
 - J.B. Scrivenor
 year: 1911
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-059-scrivenor-sketchgeologicalstructure-1911-e7ac205417ff
 source_path: ../sources/jsbras-059-scrivenor-sketchgeologicalstructure-1911-e7ac205417ff.md
 summarized: true
+publication_type: journal_article
 ---
+
 # A sketch of the geological structure of the Malay Peninsula
 
 J.B. Scrivenor, Geologist to the Federated Malay States Government, published this paper in 1911 to synthesize seven years of fieldwork into a coherent geological history of the Malay Peninsula. His overarching thesis is that the Peninsula's present topography—its granite ranges, limestone hills, and coastal plains—is the product of a sequence of deep-time events: Carboniferous deep-sea deposition off the coast of Gondwana-land, Permian shallow-water sedimentation with glacial activity, Mesozoic granite intrusion that shattered the overlying strata, and subsequent denudation that carved the familiar landscape.

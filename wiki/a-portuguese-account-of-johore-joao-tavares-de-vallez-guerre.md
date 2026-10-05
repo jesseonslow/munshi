@@ -5,8 +5,7 @@ title: A Portuguese account of Johore. Joao Tavares de Vallez Guerreiro. {Extrac
   from Jornado de Antonio de Albuquerque Coelho
 canonical_name: A Portuguese account of Johore. Joao Tavares de Vallez Guerreiro.
   {Extracts from Jornado de Antonio de Albuquerque Coelho}
-type: article
-article_type: article
+type: publication
 authors:
 - T.D. Hughes
 - J. Tavares de Vallez Guerreiro
@@ -30,7 +29,9 @@ published: false
 source_doc: jmalayanras-122-hughes-portugueseaccountjohore-1935-825eea0ac042
 source_path: ../sources/jmalayanras-122-hughes-portugueseaccountjohore-1935-825eea0ac042/chapter-03.md
 summarized: true
+publication_type: translation
 ---
+
 # A Portuguese account of Johore. Joao Tavares de Vallez Guerreiro. {Extracts from Jornado de Antonio de Albuquerque Coelho
 
 T.D. Hughes translated and published in 1935 extracts from the *Jornada de Antonio de Albuquerque Coelho* (1718), a contemporary Portuguese account by Captain Joao Tavares de Vellez Guerreiro of the Governor of Macau's wintering in Johore during the succession crisis of 1717–1718. The work provides the only known European eyewitness narrative of this pivotal moment in Johore's history, documenting how a single undermanned Portuguese vessel shaped the outcome of a dynastic struggle and secured a treaty with the new Sultan.

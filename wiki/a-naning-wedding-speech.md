@@ -3,8 +3,7 @@ id: a-naning-wedding-speech
 work_id: jsbras-72-1-p25
 title: A Naning wedding-speech
 canonical_name: A Naning wedding-speech
-type: article
-article_type: article
+type: publication
 authors:
 - J.L. Humphreys
 year: 1916
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-072-humphreys-naningweddingspeech-1916-fc584b34de7d
 source_path: ../sources/jsbras-072-humphreys-naningweddingspeech-1916-fc584b34de7d.md
 summarized: true
+publication_type: translation
 ---
+
 # A Naning wedding-speech
 
 J.L. Humphreys, a Straits Settlements civil servant, published this article in 1916, presenting a verbatim transcription and English translation of a set Malay wedding speech recited in Naning (Alor Gajah, Malacca) by Ungkai Lisut, a local headman of the Mungkar tribe. The speech, first heard by Humphreys in 1908 and verified by re-recitation in 1914, serves as a compact codification of the domestic Menangkabau marriage custom as it survived in that community, preserving a ritual formula that Humphreys argues carried semi-religious significance from pre-Muhammadan times (p. 25).

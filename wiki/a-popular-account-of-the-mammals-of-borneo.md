@@ -3,8 +3,7 @@ id: a-popular-account-of-the-mammals-of-borneo
 work_id: jmbras-9-2-p1
 title: A popular account of the mammals of Borneo
 canonical_name: A popular account of the mammals of Borneo
-type: article
-article_type: article
+type: publication
 authors:
 - E. Banks
 year: 1931
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-010-errataideasprobable-1882-0374277fd6cf
 source_path: ../sources/jsbras-010-errataideasprobable-1882-0374277fd6cf.md
 summarized: true
+publication_type: note
 ---
+
 # A popular account of the mammals of Borneo
 
 This is a brief errata notice published in the *Journal of the Straits Branch of the Royal Asiatic Society* (December 1882) correcting three textual errors in an article titled "A Few Ideas on the Probable Origin of the Hill Tribes of Formosa" (Journal No. 9).

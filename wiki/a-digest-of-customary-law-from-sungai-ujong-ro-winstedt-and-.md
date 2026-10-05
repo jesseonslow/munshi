@@ -5,8 +5,7 @@ title: A digest of customary law from Sungai Ujong. R.O. Winstedt and P.E. de Jo
   de Jong
 canonical_name: A digest of customary law from Sungai Ujong. R.O. Winstedt and P.E.
   de Josselin de Jong
-type: article
-article_type: article
+type: publication
 authors:
 - P.E. de Josselin de Jong
 - R.O. Winstedt
@@ -24,7 +23,9 @@ published: false
 source_doc: jmalayanras-167-winstedt-digestcustomarylaw-1954-95772c2f625f
 source_path: ../sources/jmalayanras-167-winstedt-digestcustomarylaw-1954-95772c2f625f.md
 summarized: true
+publication_type: translation
 ---
+
 # A digest of customary law from Sungai Ujong. R.O. Winstedt and P.E. de Josselin de Jong
 
 Winstedt and de Josselin de Jong published this edition and translation of a Malay customary law text (Undang-Undang) from Sungai Ujong in Negri Sembilan in 1954, drawing on two early twentieth-century manuscripts to present one of the few surviving codifications of Minangkabau-influenced adat law from the western Malayan peninsula. The work serves as both a philological specimen and a substantive legal document, revealing the intricate interweaving of Islamic canon law, ancestral precedent, and village consensus that governed social and judicial life in the region.

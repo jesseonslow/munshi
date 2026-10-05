@@ -3,8 +3,7 @@ id: account-of-three-snakes
 work_id: jsbras-45-1-p282
 title: Account of three snakes
 canonical_name: Account of three snakes
-type: article
-article_type: article
+type: publication
 authors: []
 year: 1906
 journal_code: JSBRAS
@@ -20,7 +19,9 @@ published: false
 source_doc: jsbras-045-hewitt-accountthreesnakes-1906-2f6e7a4c36ae
 source_path: ../sources/jsbras-045-hewitt-accountthreesnakes-1906-2f6e7a4c36ae.md
 summarized: true
+publication_type: note
 ---
+
 # Account of three snakes
 
 This short note by John Hewitt, published in JSBRAS Vol. 45 (1906), describes three snakes presented to the Sarawak Museum by His Highness the Rajah Muda of Sarawak, taken near the Astana, Kuching (p. 283).

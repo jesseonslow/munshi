@@ -5,7 +5,7 @@ canonical_name: Alexander Hare
 aliases: []
 broader: []
 narrower: []
-related: 
+related:
 - title: Joanna Hare
   slug: joanna-hare
 - title: Cocos-Keeling Islands
@@ -14,6 +14,7 @@ is_cluster: false
 is_contributor: false
 status: stub
 published: false
+type: person
 ---
 
 # Alexander Hare

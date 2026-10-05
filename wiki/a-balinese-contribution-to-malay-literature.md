@@ -3,8 +3,7 @@ id: a-balinese-contribution-to-malay-literature
 work_id: jmbras-48-2-p112
 title: A Balinese contribution to Malay literature
 canonical_name: A Balinese contribution to Malay literature
-type: article
-article_type: article
+type: publication
 authors:
 - C. Hooykaas
 year: 1975
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-228-hooykaas-balinesecontributionmalay-1975-84efe8f96338
 source_path: ../sources/jmbras-228-hooykaas-balinesecontributionmalay-1975-84efe8f96338.md
 summarized: true
+publication_type: note
 ---
+
 # A Balinese contribution to Malay literature
 
 C. Hooykaas, a Dutch Indologist with long teaching experience in Java, published this short note in 1975 identifying a previously uncatalogued Balinese poem composed in the Malay language and set to Javanese metres. The article's central thesis is that a Balinese prince-ruler of Badung, writing in 1903, made a deliberate if imperfect contribution to Malay versification by importing Javanese metrical forms into the Malay language — a parallel Hooykaas draws to the earlier, more celebrated introduction of Arabo-Persian metres by Bukhari al-Jauhari in the early seventeenth century.

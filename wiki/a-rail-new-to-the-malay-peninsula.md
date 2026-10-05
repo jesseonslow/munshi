@@ -3,8 +3,7 @@ id: a-rail-new-to-the-malay-peninsula
 work_id: jsbras-85-1-p213
 title: A rail new to the Malay Peninsula
 canonical_name: A rail new to the Malay Peninsula
-type: article
-article_type: article
+type: publication
 authors:
 - J.C. Moulton
 year: 1922
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-085-moulton-railnewmalay-1922-b777225881fa
 source_path: ../sources/jsbras-085-moulton-railnewmalay-1922-b777225881fa.md
 summarized: true
+publication_type: note
 ---
+
 # A rail new to the Malay Peninsula
 
 This two-page note by J. C. Moulton (JSBRAS Vol. 85, 1922) addresses two separate matters: a supplementary record of a third skin of the musk deer subspecies *Mydaus javanensis montanus*, and a brief discussion of a specimen of Elwes' Crake recorded from Johore as new to the Malay Peninsula.

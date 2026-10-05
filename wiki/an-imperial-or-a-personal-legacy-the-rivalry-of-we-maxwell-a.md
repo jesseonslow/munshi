@@ -5,8 +5,7 @@ title: An imperial or a personal legacy? The rivalry of W.E. Maxwell and F.A. Sw
   in British Malaya
 canonical_name: An imperial or a personal legacy? The rivalry of W.E. Maxwell and
   F.A. Swettenham in British Malaya
-type: article
-article_type: article
+type: publication
 authors:
 - Mohamed Rashidi Pakri
 year: 2011
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-301-pakri-imperialpersonallegacy-2011-df111e872a3a
 source_path: ../sources/jmbras-301-pakri-imperialpersonallegacy-2011-df111e872a3a/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # An imperial or a personal legacy? The rivalry of W.E. Maxwell and F.A. Swettenham in British Malaya
 
 Mohamed Rashidi Pakri's 2011 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* examines the professional rivalry between two senior colonial officers, W. E. Maxwell and F. A. Swettenham, during the formative decades of British rule in Malaya (1870s–1890s). Pakri argues that their personal antagonism shaped administrative appointments across the Straits Settlements and the Protected Malay States, and that their respective legacies—assessed through Maxwell's will and Swettenham's late-life political interventions—reveal a fundamental tension between selfless imperial service and the pursuit of personal historical memory.

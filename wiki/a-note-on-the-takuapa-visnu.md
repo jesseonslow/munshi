@@ -3,8 +3,7 @@ id: a-note-on-the-takuapa-visnu
 work_id: jmbras-40-1-p153
 title: A note on the Takuapa Visnu
 canonical_name: A note on the Takuapa Visnu
-type: article
-article_type: article
+type: publication
 authors:
 - H.G.Q. Wales
 year: 1967
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-211-wales-notetakuapavinu-1967-283702cfd260
 source_path: ../sources/jmbras-211-wales-notetakuapavinu-1967-283702cfd260.md
 summarized: true
+publication_type: note
 ---
+
 # A note on the Takuapa Visnu
 
 H.G. Quaritch Wales responds to S.J. O'Connor's re-dating of the Takuapa Viṣṇu in a short note published in JMBRAS Vol. 40 (1967).

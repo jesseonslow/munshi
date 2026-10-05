@@ -3,8 +3,7 @@ id: a-note-on-sai
 work_id: jmbras-20-2-p104
 title: A note on Sai
 canonical_name: A note on Sai
-type: article
-article_type: article
+type: publication
 authors:
 - W. Linehan
 year: 1947
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-143-linehan-notesai-1947-2d235deeee0b
 source_path: ../sources/jmalayanras-143-linehan-notesai-1947-2d235deeee0b.md
 summarized: true
+publication_type: note
 ---
+
 # A note on Sai
 
 W. Linehan's brief note (1947) corrects a misattribution regarding the historical territory of Sai in Patani and clarifies the Malay distinction between *Sai* and *Siam*.

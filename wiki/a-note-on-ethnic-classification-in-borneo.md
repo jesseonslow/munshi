@@ -3,8 +3,7 @@ id: a-note-on-ethnic-classification-in-borneo
 work_id: jmbras-28-1-p167
 title: A note on ethnic classification in Borneo
 canonical_name: A note on ethnic classification in Borneo
-type: article
-article_type: article
+type: publication
 authors:
 - R. Needham
 year: 1955
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-169-needham-noteethnicclassification-1955-54cf68965683
 source_path: ../sources/jmalayanras-169-needham-noteethnicclassification-1955-54cf68965683/frontmatter.md
 summarized: true
+publication_type: note
 ---
+
 # A note on ethnic classification in Borneo
 
 Rodney Needham published this short note in 1955 in the *Journal of the Malayan Branch of the Royal Asiatic Society*, intervening in a contemporary debate over the validity of two ethnographic classification terms—'Kajang' and 'Bahau'—used for the peoples of Borneo. His overarching thesis is that both terms are indigenous, long-standing, and empirically useful classificatory labels that should not be dismissed on the basis of incomplete fieldwork or administrative convenience.

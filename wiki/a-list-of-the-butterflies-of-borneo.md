@@ -3,8 +3,7 @@ id: a-list-of-the-butterflies-of-borneo
 work_id: jsbras-67-1-p1
 title: A list of the butterflies of Borneo
 canonical_name: A list of the butterflies of Borneo
-type: article
-article_type: article
+type: publication
 authors:
 - J.C. Moulton
 year: 1914
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-066-mead-romanizedversionhikayat-1914-68c0973db238
 source_path: ../sources/jsbras-066-mead-romanizedversionhikayat-1914-68c0973db238.md
 summarized: true
+publication_type: journal_article
 ---
+
 # A list of the butterflies of Borneo
 
 J. P. Mead's 1914 romanized transcription of the *Hikayat Raja-Raja Pasai* presents a foundational Malay chronicle tracing the origin of the Pasai sultanate in northeastern Sumatra from pre-Islamic legendary foundations through its conversion to Islam and eventual conquest by Majapahit. Transcribed from the Raffles manuscript (now RAS London, MS 67), the text serves as one of the earliest surviving accounts of Pasai's royal genealogy and the political geography of the Strait of Malacca in the medieval period.

@@ -3,8 +3,7 @@ id: a-fourth-contribution-to-the-knowledge-of-the-hymenoptera-of
 work_id: jsbras-46-1-p103
 title: A fourth contribution to the knowledge of the Hymenoptera of Sarawak
 canonical_name: A fourth contribution to the knowledge of the Hymenoptera of Sarawak
-type: article
-article_type: article
+type: publication
 authors:
 - P. Cameron
 year: 1906
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-046-cameron-fourthcontributionknowledge-1906-b50279b53afb
 source_path: ../sources/jsbras-046-cameron-fourthcontributionknowledge-1906-b50279b53afb.md
 summarized: true
+publication_type: journal_article
 ---
+
 # A fourth contribution to the knowledge of the Hymenoptera of Sarawak
 
 P. Cameron published this taxonomic contribution in 1906 in the *Journal of the Straits Branch of the Royal Asiatic Society* (Vol. 46, pp. 103–123), describing eighteen new species of Hymenoptera and recording three previously known species from Sarawak, Borneo. Working from material supplied by John Hewitt, curator of the Sarawak Museum, Cameron extended his ongoing series of faunal contributions to the region, covering families from Evaniiidae through Vespidae. The paper is a straightforward species-description exercise typical of early twentieth-century systematic entomology, with each entry providing colouration, morphological diagnostics, measurements, locality, and a brief discussion of affinity to known congeners.

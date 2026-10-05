@@ -3,8 +3,7 @@ id: a-list-of-land-and-fresh-water-mollusca-of-the-malay-peninsu
 work_id: jmbras-11-2-p211
 title: A list of land and fresh-water Mollusca of the Malay Peninsula
 canonical_name: A list of land and fresh-water Mollusca of the Malay Peninsula
-type: article
-article_type: article
+type: publication
 authors:
 - F.F. Laidlaw
 year: 1933
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-117-laidlaw-listlandfreshwater-1933-53db214ed48e
 source_path: ../sources/jmalayanras-117-laidlaw-listlandfreshwater-1933-53db214ed48e.md
 summarized: true
+publication_type: journal_article
 ---
+
 # A list of land and fresh-water Mollusca of the Malay Peninsula
 
 F. F. Laidlaw published this second part of his checklist of Malayan land and fresh-water molluscs in 1933, completing a survey first begun with the Operculata in 1928. Working from museum collections and field material gathered across the Peninsula, Laidlaw undertook what he candidly described as a "first attempt" to systematise the Pulmonate fauna—a group he acknowledged remained "very imperfectly known" (p. 211). The article follows Thiele's 1931 classification and documents the family-level and generic composition of the group, with particular attention to cave-dwelling assemblages and the problem of introduced species.

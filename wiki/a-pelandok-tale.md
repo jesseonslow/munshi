@@ -3,8 +3,7 @@ id: a-pelandok-tale
 work_id: jsbras-46-1-p73
 title: A pelandok tale
 canonical_name: _A pelandok_ tale
-type: article
-article_type: article
+type: publication
 authors:
 - G.M. Laidlaw
 year: 1906
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-046-laidlaw-pelandoktale-1906-7eb9fa06f63f
 source_path: ../sources/jsbras-046-laidlaw-pelandoktale-1906-7eb9fa06f63f.md
 summarized: true
+publication_type: translation
 ---
+
 # A pelandok tale
 
 G.M. Laidlaw published "A Pelandok Tale" in the *Journal of the Straits Branch of the Royal Asiatic Society* in 1906, presenting a Perak Malay trickster narrative collected from the penghulu of Pulau Tiga, Lower Perak, Haji Mahomed Ali bin Haji Mahomed Perak, a man described as of "pure Perak extraction" for several generations. The tale, rendered in English translation followed by the original Malay text, centres on the pelandok (binturong) as a cunning counsellor to King Solomon who repeatedly outwits the tiger, the king's chief warrior, through a series of escalating deceptions.

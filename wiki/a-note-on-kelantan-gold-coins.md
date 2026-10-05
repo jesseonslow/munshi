@@ -3,8 +3,7 @@ id: a-note-on-kelantan-gold-coins
 work_id: jmbras-14-3-p305
 title: A note on Kelantan gold coins
 canonical_name: A note on Kelantan gold coins
-type: article
-article_type: article
+type: publication
 authors:
 - A. Rentse
 year: 1936
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-126-rentse-notekelantangold-1936-b9fc71f9eeaa
 source_path: ../sources/jmalayanras-126-rentse-notekelantangold-1936-b9fc71f9eeaa.md
 summarized: true
+publication_type: note
 ---
+
 # A note on Kelantan gold coins
 
 A brief note by Anker Rentse on the interpretation of inscriptions on Kelantan gold coins, published in JMBRAS Vol. XIV (1936), p. 305.

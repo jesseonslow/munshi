@@ -3,8 +3,7 @@ id: a-note-on-the-sambas-finds
 work_id: jmbras-22-4-p16
 title: A note on the Sambas finds
 canonical_name: A note on the Sambas finds
-type: article
-article_type: article
+type: publication
 authors:
 - K.A. Nilakanta Sastri
 year: 1949
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-022-maxwell-lawrelatingslavery-1890-dfa2b663df41
 source_path: ../sources/jsbras-022-maxwell-lawrelatingslavery-1890-dfa2b663df41.md
 summarized: true
+publication_type: note
 ---
+
 # A note on the Sambas finds
 
 K.A. Nilakanta Sastri's "A note on the Sambas finds" (1949) is the title given in the metadata, but the primary source text actually provided is W. E. Maxwell's "The Law Relating to Slavery Among the Malays," published in the Journal of the Straits Branch of the Royal Asiatic Society in 1890. The following summary is of the text as supplied.

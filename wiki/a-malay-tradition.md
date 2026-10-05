@@ -3,8 +3,7 @@ id: a-malay-tradition
 work_id: jmbras-18-2-p108
 title: A Malay tradition
 canonical_name: A Malay tradition
-type: article
-article_type: article
+type: publication
 authors:
 - R. Cardon
 year: 1940
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-138-cardon-malaytradition-1940-27473f8855d2
 source_path: ../sources/jmalayanras-138-cardon-malaytradition-1940-27473f8855d2.md
 summarized: true
+publication_type: journal_article
 ---
+
 # A Malay tradition
 
 Fr. R. Cardon, a Missionary of the Paris Foreign Missions, published this article in 1940 to investigate a Malay oral tradition concerning Bukit Greja ("Church Hill") near Malacca Pindah, arguing that the site corresponds to the Portuguese hermitage of Nossa Senhora da Esperanca described by Eredia around 1600, and that the village name "Malacca Pindah" ("Removal of Malacca") commemorates the flight of Catholic refugees there following Dutch persecution of the faith in the 1660s.

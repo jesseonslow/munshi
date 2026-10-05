@@ -3,8 +3,7 @@ id: a-third-contribution-to-the-knowledge-of-the-hymenoptera-of-
 work_id: jsbras-44-1-p93
 title: A third contribution to the knowledge of the Hymenoptera of Sarawak
 canonical_name: A third contribution to the knowledge of the Hymenoptera of Sarawak
-type: article
-article_type: article
+type: publication
 authors:
 - P. Cameron
 year: 1905
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-044-cameron-thirdcontributionknowledge-1905-a5ffb38d0a29
 source_path: ../sources/jsbras-044-cameron-thirdcontributionknowledge-1905-a5ffb38d0a29.md
 summarized: true
+publication_type: journal_article
 ---
+
 # A third contribution to the knowledge of the Hymenoptera of Sarawak
 
 P. Cameron published this third contribution to the Hymenoptera of Sarawak in 1905 in the Journal of the Straits Branch of the Royal Asiatic Society, describing an extensive array of new species and genera from material collected by Robert Shelford across Sarawak and neighbouring localities. The paper represents a major taxonomic expansion of the known parasitic and aculeate wasp fauna of Borneo, establishing sixteen new genera and approximately seventy new species across seven families.

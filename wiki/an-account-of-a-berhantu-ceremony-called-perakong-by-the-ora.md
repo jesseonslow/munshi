@@ -5,8 +5,7 @@ title: An account of a berhantu ceremony called “perakong” by the Orang Bela
   Brunei
 canonical_name: An account of a _berhantu_ ceremony called _“perakong”_ by the Orang
   Belait of Brunei
-type: article
-article_type: article
+type: publication
 authors:
 - T.D. Hughes
 year: 1938
@@ -23,7 +22,9 @@ published: false
 source_doc: jmalayanras-131-hugheshallett-accountberhantuceremony-1938-311ebbcec3fb
 source_path: ../sources/jmalayanras-131-hugheshallett-accountberhantuceremony-1938-311ebbcec3fb.md
 summarized: true
+publication_type: journal_article
 ---
+
 # An account of a berhantu ceremony called “perakong” by the Orang Belait of Brunei
 
 H. Hughes-Hallett, a Member of the Civil Service in Brunei, published this first-hand ethnographic account of the perakong ceremony in 1938, describing a pagan harvest ritual performed by the Orang Belait of the lower Belait River near the Sarawak boundary. The article's central argument is that despite the group's small size (at most 800 individuals) and its apparent cultural marginality, the extraordinary complexity and antiquity of the ceremony's material culture indicate a tradition with deep roots in the Baram region of Sarawak, from which the Orang Meting component was expelled approximately 50 to 100 years earlier (p. 102).

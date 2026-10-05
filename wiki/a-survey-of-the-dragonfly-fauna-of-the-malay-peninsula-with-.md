@@ -5,8 +5,7 @@ title: A survey of the dragonfly fauna of the Malay Peninsula, with notes on tha
   of neighbouring countries. Part II
 canonical_name: A survey of the dragonfly fauna of the Malay Peninsula, with notes
   on that of neighbouring countries. Part II
-type: article
-article_type: article
+type: publication
 authors:
 - F.F. Laidlaw
 year: 1924
@@ -23,7 +22,9 @@ published: false
 source_doc: jmalayanras-092-laidlaw-surveydragonflyfauna-1924-bf0b1883c108
 source_path: ../sources/jmalayanras-092-laidlaw-surveydragonflyfauna-1924-bf0b1883c108.md
 summarized: true
+publication_type: journal_article
 ---
+
 # A survey of the dragonfly fauna of the Malay Peninsula, with notes on that of neighbouring countries. Part II
 
 F. F. Laidlaw's 1924 paper, published in the *Journal of the Malayan Branch of the Royal Asiatic Society*, constitutes the second part of a systematic survey of the damselfly (Zygoptera) fauna of the Malay Peninsula and neighbouring regions. Working from museum collections and field specimens gathered across the Peninsula, Borneo, Sumatra, and Java, Laidlaw treats four sub-families—Epallaginae, Amphipteryginae, Megapodagrioninae, and Platystictinae—providing diagnostic characters, species descriptions, and a distributional table that together form a foundational reference for the region's odonate biodiversity.

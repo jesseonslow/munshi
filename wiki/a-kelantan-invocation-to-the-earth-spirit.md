@@ -3,8 +3,7 @@ id: a-kelantan-invocation-to-the-earth-spirit
 work_id: jmbras-3-1-p83
 title: A Kelantan invocation to the Earth Spirit
 canonical_name: A Kelantan invocation to the Earth Spirit
-type: article
-article_type: article
+type: publication
 authors:
 - R.O. Winstedt
 year: 1925
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-093-w-kelantaninvocationearth-1925-be77ac02b213
 source_path: ../sources/jmalayanras-093-w-kelantaninvocationearth-1925-be77ac02b213.md
 summarized: true
+publication_type: note
 ---
+
 # A Kelantan invocation to the Earth Spirit
 
 This short note by R. O. Winstedt (1925) presents a Kelantan invocation addressed to the Earth Spirit (Jin Hitam), transcribed from local usage and accompanied by a brief interpretive remark.

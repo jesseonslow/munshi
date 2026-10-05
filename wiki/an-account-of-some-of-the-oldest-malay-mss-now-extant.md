@@ -3,8 +3,7 @@ id: an-account-of-some-of-the-oldest-malay-mss-now-extant
 work_id: jsbras-31-1-p107
 title: An account of some of the oldest Malay Mss. now extant
 canonical_name: An account of some of the oldest Malay Mss. now extant
-type: article
-article_type: article
+type: publication
 authors:
 - W.G. Shellabear
 year: 1898
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-031-shellabear-accountoldestmalay-1898-d31571ddeb54
 source_path: ../sources/jsbras-031-shellabear-accountoldestmalay-1898-d31571ddeb54.md
 summarized: true
+publication_type: journal_article
 ---
+
 # An account of some of the oldest Malay Mss. now extant
 
 Rev. W. G. Shellabear's 1898 article in the *Journal of the Straits Branch of the Royal Asiatic Society* presents the first scholarly examination of a group of early Malay manuscripts held in European collections, arguing that the Bodleian specimens—particularly the letters of authority to trade issued by the sultans of Acheen to English captains in the early 1600s—constitute the oldest extant Malay manuscripts and are of paramount value for the study of the Malay language and its literary history.

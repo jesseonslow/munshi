@@ -3,8 +3,7 @@ id: a-careless-heathen-philosopher
 work_id: jmbras-26-1-p86
 title: A careless, heathen philosopher?
 canonical_name: A careless, heathen philosopher?
-type: article
-article_type: article
+type: publication
 authors:
 - J.M. Gullick
 year: 1953
@@ -18,6 +17,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: journal_article
 ---
 
 # A careless, heathen philosopher?

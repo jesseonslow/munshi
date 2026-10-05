@@ -5,8 +5,7 @@ title: An Account of Several Inscriptions Found in Province Wellesley on the Pen
   of Malacca. Facsimile reprint. With a note H. Ting Mu Hung
 canonical_name: An Account of Several Inscriptions Found in Province Wellesley on
   the Peninsula of Malacca. Facsimile reprint. With a note H. Ting Mu Hung
-type: article
-article_type: article
+type: publication
 authors:
 - J. Low
 year: 2025
@@ -23,7 +22,9 @@ published: false
 source_doc: low-account-of-several-inscriptions-found-in-province-wellesley-2dd894c9d93d
 source_path: ../sources/low-account-of-several-inscriptions-found-in-province-wellesley-2dd894c9d93d.md
 summarized: true
+publication_type: reprint
 ---
+
 # An Account of Several Inscriptions Found in Province Wellesley on the Peninsula of Malacca. Facsimile reprint. With a note H. Ting Mu Hung
 
 Lieut.-Col. James Low, the British Resident of Province Wellesley, published this account in 1848 (reprinted here as a facsimile in JMBRAS 2025) to document a suite of epigraphic and numismatic finds from the northern Malay Peninsula, arguing that the region had sustained a significant Indianised religious presence—both Buddhist and Shaivite—well before the colonial period.

@@ -3,8 +3,7 @@ id: a-note-on-the-fishing-industry-in-kelantan-1933
 work_id: jmbras-68-2-p7
 title: A note on the fishing industry in Kelantan, 1933
 canonical_name: A note on the fishing industry in Kelantan, 1933
-type: article
-article_type: article
+type: publication
 authors:
 - Mubin Sheppard
 year: 1995
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-269-sheppard-notefishingindustry-1995-4346ac2ad9ab
 source_path: ../sources/jmbras-269-sheppard-notefishingindustry-1995-4346ac2ad9ab.md
 summarized: true
+publication_type: note
 ---
+
 # A note on the fishing industry in Kelantan, 1933
 
 This note by M. C. ff. Sheppard, published in 1995, documents his 1933 observations of the fishing industry in Kemaman, Terengganu, covering the trade's divisions, equipment, and the credit relationships between Malay fishermen and Chinese dealers.

@@ -3,8 +3,7 @@ id: a-historical-note-on-the-northeastern-malay-states
 work_id: jmbras-20-1-p23
 title: A historical note on the northeastern Malay states
 canonical_name: A historical note on the northeastern Malay states
-type: article
-article_type: article
+type: publication
 authors:
 - A. Rentse
 year: 1947
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-142-rentse-historicalnotenortheastern-1947-f32d70ecd989
 source_path: ../sources/jmalayanras-142-rentse-historicalnotenortheastern-1947-f32d70ecd989.md
 summarized: true
+publication_type: journal_article
 ---
+
 # A historical note on the northeastern Malay states
 
 Anker Rentse, a Dutch archaeologist based in Singapore, published this historical note in 1947 to document the antiquity of the northeastern Malay states—Kelantan, Patani, Ligor, Sai, and Pahang—and to argue that these states possessed a distinct and far older cultural history than the west coast, driven primarily by ancient gold mining and a network of overland trade routes that connected the east coast to Kedah and the Indian Ocean. The article synthesises Chinese chronicle records, Eredia's early-seventeenth-century account, Ptolemy's geography, and Rentse's own archaeological collections to reconstruct a pre-1500 A.D. history that had been largely overlooked by Malayan historiography, which had focused almost exclusively on Malacca.

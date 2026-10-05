@@ -5,8 +5,7 @@ title: 'A centennial appreciation of Harry J. Benda: a Czech pioneer of Southeas
   Asian studies'
 canonical_name: 'A centennial appreciation of Harry J. Benda: a Czech pioneer of Southeast
   Asian studies'
-type: article
-article_type: article
+type: publication
 authors:
 - T. Petrů
 year: 2020
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-318-petr-centennialappreciationharry-2020-c7768a43e28f
 source_path: ../sources/jmbras-318-petr-centennialappreciationharry-2020-c7768a43e28f/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # A centennial appreciation of Harry J. Benda: a Czech pioneer of Southeast Asian studies
 
 This is a centennial appreciation of Harry J. Benda (1920–1972), a Sudeten Jewish Czech scholar who became a major figure in Indonesian and Southeast Asian studies, written by Tomáš Petrů (p. 91).

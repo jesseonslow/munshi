@@ -3,8 +3,7 @@ id: a-proposed-classification-of-malayan-polished-stone-implemen
 work_id: jmbras-19-2-p210
 title: A proposed classification of Malayan polished stone implements
 canonical_name: A proposed classification of Malayan polished stone implements
-type: article
-article_type: article
+type: publication
 authors:
 - H.D. Noone
 year: 1941
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-140-noone-proposedclassificationmalayan-1941-dc26dc45bd5d
 source_path: ../sources/jmalayanras-140-noone-proposedclassificationmalayan-1941-dc26dc45bd5d.md
 summarized: true
+publication_type: journal_article
 ---
+
 # A proposed classification of Malayan polished stone implements
 
 H.D. Noone, Field Ethnographer for the Federated Malay States Museums, published this provisional typological scheme in 1941 to address the bewildering variety of polished stone implements recovered from North Malaya. Writing in the context of early Southeast Asian prehistoric archaeology, Noone argues that the diversity of Malayan forms is best explained by the convergence and interaction of at least three distinct technical traditions within the Peninsula, rather than by a single linear developmental sequence.

@@ -3,8 +3,7 @@ id: a-xviiith-century-tomb-at-pekan-lama
 work_id: jmbras-4-3-p333
 title: A XVIIIth century tomb at Pekan Lama
 canonical_name: A XVIIIth century tomb at Pekan Lama
-type: article
-article_type: article
+type: publication
 authors:
 - W. Linehan
 year: 1926
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-098-linehan-xviiithcenturytomb-1926-d63527bf1704
 source_path: ../sources/jmalayanras-098-linehan-xviiithcenturytomb-1926-d63527bf1704.md
 summarized: true
+publication_type: note
 ---
+
 # A XVIIIth century tomb at Pekan Lama
 
 W. Linehan's brief note describes two 18th-century grave-stones found at Pekan Lama, Pahang, and records their inscriptions and associated local tradition.

@@ -3,8 +3,7 @@ id: a-translation-of-the-hikayat-abdullah
 work_id: jmbras-14-3-p226
 title: A translation of the Hikayat Abdullah
 canonical_name: A translation of the _Hikayat Abdullah._
-type: article
-article_type: article
+type: publication
 authors:
 - J.J. Sheehan
 year: 1936
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-126-sheehan-translationhikayatabdullah-1936-b0ca86592cce
 source_path: ../sources/jmalayanras-126-sheehan-translationhikayatabdullah-1936-b0ca86592cce.md
 summarized: true
+publication_type: translation
 ---
+
 # A translation of the Hikayat Abdullah
 
 This is a translation of the *Hikayat Abdullah* by J. J. Sheehan, published in the *Journal of the Malayan Branch of the Royal Asiatic Society*, Vol. 14, No. 3 (1936), pp. 226–229.

@@ -5,8 +5,7 @@ title: 'A cenotaph for Singapore: contestation and community at the Straits Sett
   war memorial'
 canonical_name: 'A cenotaph for Singapore: contestation and community at the Straits
   Settlements war memorial'
-type: article
-article_type: article
+type: publication
 authors:
 - C. Eaton
 year: 2015
@@ -36,7 +35,9 @@ keywords:
 - urban built environment
 - race and class in colonial Asia
 - © Malaysian Branch of the Royal Asiatic Society
+publication_type: journal_article
 ---
+
 # A cenotaph for Singapore: contestation and community at the Straits Settlements war memorial
 
 ## Abstract

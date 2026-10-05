@@ -3,8 +3,7 @@ id: a-new-balanophera-from-tenimber-islands
 work_id: jsbras-39-1-p207
 title: A new Balanophera from Tenimber Islands
 canonical_name: A new _Balanophera_ from Tenimber Islands
-type: article
-article_type: article
+type: publication
 authors:
 - H.N. Ridley
 year: 1903
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-039-ridley-newbarlanophoratenimber-1903-6ee9e202ce62
 source_path: ../sources/jsbras-039-ridley-newbarlanophoratenimber-1903-6ee9e202ce62.md
 summarized: true
+publication_type: note
 ---
+
 # A new Balanophera from Tenimber Islands
 
 This short note by H. N. Ridley describes a new species of *Balanophora* (*B. Micholitzii*) collected from the Tenimber Islands, published in the Journal of the Straits Branch of the Royal Asiatic Society in 1903.

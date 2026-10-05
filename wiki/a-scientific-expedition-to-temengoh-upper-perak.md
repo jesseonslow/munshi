@@ -3,8 +3,7 @@ id: a-scientific-expedition-to-temengoh-upper-perak
 work_id: jsbras-57-1-p5
 title: A scientific expedition to Temengoh, Upper Perak
 canonical_name: A scientific expedition to Temengoh, Upper Perak
-type: article
-article_type: article
+type: publication
 authors:
 - H.N. Ridley
 year: 1911
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-057-ridley-scientificexpeditiontemengoh-1911-3e3c492e74f0
 source_path: ../sources/jsbras-057-ridley-scientificexpeditiontemengoh-1911-3e3c492e74f0.md
 summarized: true
+publication_type: journal_article
 ---
+
 # A scientific expedition to Temengoh, Upper Perak
 
 H. N. Ridley, Director of the Singapore Botanic Gardens, co-authored this extensive expedition report with H. C. Robinson, published in 1911, documenting a July 1909 scientific survey of the Temengoh district in Upper Perak—a region previously unknown to botanists and zoologists. The overarching contribution is a comprehensive baseline inventory of the area's flora and fauna, yielding numerous new species and genera while establishing that the Temengoh valley's biota, though containing some distinctive elements, was fundamentally continuous with that of the broader Perak region.

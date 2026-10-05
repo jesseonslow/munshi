@@ -3,8 +3,7 @@ id: a-note-on-early-legislation-in-penang
 work_id: jmbras-23-1-p100
 title: A note on early legislation in Penang
 canonical_name: A note on early legislation in Penang
-type: article
-article_type: article
+type: publication
 authors:
 - Tan Soo-Chye
 year: 1950
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-151-chye-noteearlylegislation-1950-f07256aa27a2
 source_path: ../sources/jmalayanras-151-chye-noteearlylegislation-1950-f07256aa27a2/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # A note on early legislation in Penang
 
 Tan Soo-Chye's 1950 note reconstructs the fragmented legal history of Penang between its formal British occupation in 1786 and the arrival of the Charter of Justice in 1807, arguing that the settlement's polyglot population and the absence of any codified legal framework produced a prolonged period of institutional improvisation that only ended with royal charter. Drawing on Straits Settlements Records held at the Raffles Museum Archives, the article corrects a longstanding error in Braddell's *The Law of the Straits Settlements* by demonstrating that Lieutenant Governor Leith did in fact draft a comprehensive code of regulations in 1800, contrary to Braddell's assertion that he had done nothing of the kind.

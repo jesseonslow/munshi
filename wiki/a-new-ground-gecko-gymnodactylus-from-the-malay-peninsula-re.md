@@ -5,8 +5,7 @@ title: A new ground-gecko (Gymnodactylus) from the Malay Peninsula. Records of t
   Raffles Museum, No. 7
 canonical_name: A new ground-gecko _(Gymnodactylus)_ from the Malay Peninsula. Records
   of the Raffles Museum, No. 7
-type: article
-article_type: article
+type: publication
 authors:
 - M.A. Smith
 year: 1925
@@ -23,7 +22,9 @@ published: false
 source_doc: jmalayanras-093-smith-newgroundgeckogymnodactylus-1925-cc824cd26fe3
 source_path: ../sources/jmalayanras-093-smith-newgroundgeckogymnodactylus-1925-cc824cd26fe3.md
 summarized: true
+publication_type: note
 ---
+
 # A new ground-gecko (Gymnodactylus) from the Malay Peninsula. Records of the Raffles Museum, No. 7
 
 This is a one-page taxonomic note by Malcolm A. Smith describing a new species of ground-gecko, *Gymnodactylus sworderi*, collected in Johore, Malay Peninsula, and published as Record No. 7 of the Raffles Museum (p. 87).

@@ -3,8 +3,7 @@ id: a-sketch-of-the-history-of-brunei
 work_id: jmbras-18-2-p23
 title: A sketch of the history of Brunei
 canonical_name: A sketch of the history of Brunei
-type: article
-article_type: article
+type: publication
 authors:
 - T.D. Hughes
 year: 1940
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-138-hugheshallett-sketchhistorybrunei-1940-86f71480c77d
 source_path: ../sources/jmalayanras-138-hugheshallett-sketchhistorybrunei-1940-86f71480c77d/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # A sketch of the history of Brunei
 
 H. R. Hughes-Hallett, a Member of the Civil Service, published this sketch of Brunei's history in 1940, drawing on the royal annals (Tersilah), European eyewitness accounts, official colonial records, and local inquiry to trace the kingdom's arc from its pre-Mohammedan origins through its zenith under Sultan Bolkiah to its near-extinction as a viable state by the early twentieth century. The overarching argument is that Brunei has been systematically neglected by both historians and philologists, and that the available evidence—fragmentary, contradictory, and often embellished—demands urgent collection before the older generation passes away.

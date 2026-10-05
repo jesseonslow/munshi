@@ -3,8 +3,7 @@ id: a-tambunan-dusun-origin-myth
 work_id: jmbras-33-1-p95
 title: A Tambunan Dusun origin myth
 canonical_name: A Tambunan Dusun origin myth
-type: article
-article_type: article
+type: publication
 authors:
 - T.R. Williams
 year: 1960
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-189-williams-tambunandusunorigin-1960-b7a221776b2c
 source_path: ../sources/jmalayanras-189-williams-tambunandusunorigin-1960-b7a221776b2c.md
 summarized: true
+publication_type: journal_article
 ---
+
 # A Tambunan Dusun origin myth
 
 Thomas Rhys Williams published this account of a Tambunan Dusun origin myth in 1960, drawing on fieldwork conducted in Sensuron, North Borneo, between September and December 1959. The article presents a full-cycle translated narrative that Williams argues encodes the ethical and behavioural norms governing adult conduct among the Tambunan Dusun, while simultaneously mapping the myth's dispersal episode onto the group's actual seven-sib social structure.

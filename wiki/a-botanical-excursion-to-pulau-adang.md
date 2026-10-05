@@ -3,8 +3,7 @@ id: a-botanical-excursion-to-pulau-adang
 work_id: jsbras-61-1-p45
 title: A botanical excursion to Pulau Adang
 canonical_name: A botanical excursion to Pulau Adang
-type: article
-article_type: article
+type: publication
 authors:
 - H.N. Ridley
 year: 1912
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-061-ridley-botanicalexcursionpulau-1912-704a8fb850c3
 source_path: ../sources/jsbras-061-ridley-botanicalexcursionpulau-1912-704a8fb850c3.md
 summarized: true
+publication_type: journal_article
 ---
+
 # A botanical excursion to Pulau Adang
 
 H. N. Ridley, C.M.G., F.R.S., Director of the Singapore Botanic Gardens, published this field report in 1912 documenting a botanical collecting expedition to the Pulau Adang island group in April 1911. The article presents the first systematic investigation of the flora of these outlying islands west of Lankawi and Terutau, and argues that their plant communities align with a Malayan rather than a southern Siamese floristic affinity.

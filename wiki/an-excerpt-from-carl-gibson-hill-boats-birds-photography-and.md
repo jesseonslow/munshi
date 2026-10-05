@@ -5,8 +5,7 @@ title: 'An Excerpt from Carl Gibson-Hill: Boats, Birds, Photography, and History
   LateColonial Malaya. With a note P. Kratoska'
 canonical_name: 'An Excerpt from Carl Gibson-Hill: Boats, Birds, Photography, and
   History in LateColonial Malaya. With a note P. Kratoska'
-type: article
-article_type: article
+type: publication
 authors:
 - B. Luyt
 year: 2022
@@ -23,7 +22,9 @@ published: false
 source_doc: gibson-hill-boats-birds-photography-and-history-f66a6f232fd5
 source_path: ../sources/gibson-hill-boats-birds-photography-and-history-f66a6f232fd5/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # An Excerpt from Carl Gibson-Hill: Boats, Birds, Photography, and History in LateColonial Malaya. With a note P. Kratoska
 
 Brendan Luyt's 2022 excerpt, published in *JMBRAS* Vol. 95, Part 1, examines the historical writing of Carl Alexander Gibson-Hill (1911–1963) against the backdrop of late-colonial Singapore and the early post-independence period. Luyt argues that Gibson-Hill's meticulous, character-driven approach to history—rooted in the museum-based knowledge production of the colonial era—was progressively marginalized by the institutionalization of the discipline in university departments and the rise of social-history methodologies, leaving his contributions unheralded at the very moment the colonial structures that sustained them were dissolving.

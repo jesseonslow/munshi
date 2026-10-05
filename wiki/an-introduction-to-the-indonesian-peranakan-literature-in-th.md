@@ -5,8 +5,7 @@ title: An introduction to the Indonesian Peranakan literature in the library of 
   Universiti Kebangsaan Malaysia
 canonical_name: An introduction to the Indonesian Peranakan literature in the library
   of the Universiti Kebangsaan Malaysia
-type: article
-article_type: article
+type: publication
 authors:
 - Ding Choo Ming
 year: 1978
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-233-ming-introductionindonesianperanakan-1978-1d234a997e09
 source_path: ../sources/jmbras-233-ming-introductionindonesianperanakan-1978-1d234a997e09.md
 summarized: true
+publication_type: journal_article
 ---
+
 # An introduction to the Indonesian Peranakan literature in the library of the Universiti Kebangsaan Malaysia
 
 Ding Choo Ming's 1978 article introduces the collection of Indonesian Peranakan (Chinese) literature assembled by the Universiti Kebangsaan Malaysia (UKM) Library at Bangi since 1973, arguing that this holdings of over 1,500 titles constitutes the only single collection outside Jakarta capable of matching the Museum Pusat library and that it opens significant new avenues for social and literary historical research into colonial Indonesia.

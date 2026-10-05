@@ -4,8 +4,7 @@ work_id: jmbras-94-1-p197
 title: An Account of Affairs in Larut Leading to British Intervention. Facsimile reprint
 canonical_name: An Account of Affairs in Larut Leading to British Intervention. Facsimile
   reprint. f
-type: article
-article_type: article
+type: publication
 authors:
 - L. Wray
 year: 2021
@@ -22,7 +21,9 @@ published: false
 source_doc: wray-an-account-of-affairs-in-larut-leading-to-british-intervention-449a4a05c6c0
 source_path: ../sources/wray-an-account-of-affairs-in-larut-leading-to-british-intervention-449a4a05c6c0.md
 summarized: true
+publication_type: reprint
 ---
+
 # An Account of Affairs in Larut Leading to British Intervention. Facsimile reprint
 
 Leonard Wray, Jun. (1852–1942), a Perak civil servant and later Curator of the Perak Museum, compiled this account in 1894 from first-hand reports and official documents covering the period immediately preceding British intervention in Larut in 1874. The text, originally published in *The Tin Mines and the Mining Industries of Perak and Other Papers*, presents Captain Speedy's narrative of the Larut mining district's development from its 1848 discovery through the devastating faction wars of 1872–1873, supplemented by a full Chinese miners' petition of May 1873 that provides a ground-level account of the violence.

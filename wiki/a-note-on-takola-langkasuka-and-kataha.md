@@ -3,8 +3,7 @@ id: a-note-on-takola-langkasuka-and-kataha
 work_id: jmbras-23-1-p153
 title: A note on Takola, Langkasuka and Kataha
 canonical_name: A note on Takola, Langkasuka and Kataha
-type: article
-article_type: article
+type: publication
 authors:
 - H.G.Q. Wales
 year: 1950
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-151-wales-notetakolalangkasuka-1950-433286e1d3b6
 source_path: ../sources/jmalayanras-151-wales-notetakolalangkasuka-1950-433286e1d3b6.md
 summarized: true
+publication_type: note
 ---
+
 # A note on Takola, Langkasuka and Kataha
 
 A brief note by H.G.Q. Wales in which he revises his earlier views on three Malayan place-names—Takola, Langkasuka, and Kataha—in light of Sir Roland Braddell's recent contributions to the journal.

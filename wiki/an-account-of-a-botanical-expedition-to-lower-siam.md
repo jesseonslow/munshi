@@ -3,8 +3,7 @@ id: an-account-of-a-botanical-expedition-to-lower-siam
 work_id: jsbras-59-1-p27
 title: An account of a botanical expedition to Lower Siam
 canonical_name: An account of a botanical expedition to Lower Siam
-type: article
-article_type: article
+type: publication
 authors:
 - H.N. Ridley
 year: 1914
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-250-miksic-valleymegalithswest-1986-b7e3940c1850
 source_path: ../sources/jmbras-250-miksic-valleymegalithswest-1986-b7e3940c1850/frontmatter.md
 summarized: true
+publication_type: monograph
 ---
+
 # An account of a botanical expedition to Lower Siam
 
 John N. Miksic's 1986 article revisits the megalithic sites of the Mahat valley in West Sumatra, first described by F. M. Schnitger in the 1940s and 1960s, reporting on a 1982 survey and September 1985 test excavations that recovered human skeletal material beneath carved upright stones. The piece serves as a preliminary site description published in anticipation of more detailed excavation reports, arguing that the valley's stone monuments represent a pre-Islamic regional phenomenon rather than an isolated cultural anomaly.

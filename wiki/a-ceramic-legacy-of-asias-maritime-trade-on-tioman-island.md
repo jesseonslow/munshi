@@ -3,8 +3,7 @@ id: a-ceramic-legacy-of-asias-maritime-trade-on-tioman-island
 work_id: jmbras-58-1-p81
 title: A ceramic legacy of Asia’s maritime trade on Tioman Island
 canonical_name: A ceramic legacy of Asia’s maritime trade on Tioman Island. f
-type: article
-article_type: article
+type: publication
 authors:
 - J.A. Martin
 year: 1985
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-248-martin-ceramiclegacyasias-1985-3651fe96a0d5
 source_path: ../sources/jmbras-248-martin-ceramiclegacyasias-1985-3651fe96a0d5.md
 summarized: true
+publication_type: journal_article
 ---
+
 # A ceramic legacy of Asia’s maritime trade on Tioman Island
 
 Jean Martin, writing in 1985 for the *Journal of the Malaysian Branch of the Royal Asiatic Society*, presents the ceramic assemblage recovered from Tioman Island as material evidence of the island's sustained role as a node in the maritime trade network linking China, Southeast Asia, the Indian Ocean, and the Middle East from the 11th through the 19th century. The article was published to accompany a Southeast Asian Ceramic Society exhibition at Muzium Seni Asia, University of Malaya, and serves as both a curatorial essay and a preliminary synthesis of the island's trading history.

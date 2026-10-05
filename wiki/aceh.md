@@ -2,7 +2,7 @@
 id: aceh
 title: Aceh
 canonical_name: Aceh
-aliases: 
+aliases:
 - Atché
 - Acheh
 - Acheen
@@ -13,6 +13,7 @@ is_cluster: false
 is_contributor: false
 status: stub
 published: false
+type: place
 ---
 
 # Aceh

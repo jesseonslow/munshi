@@ -4,8 +4,7 @@ work_id: jsbras-35-1-p29
 title: A list of the butterflies of Mt. Penrissen, Sarawak, with notes on the species
 canonical_name: A list of the butterflies of Mt. Penrissen, Sarawak, with notes on
   the species
-type: article
-article_type: article
+type: publication
 authors:
 - R.S. Shelford
 year: 1901
@@ -22,7 +21,9 @@ published: false
 source_doc: jsbras-035-shelford-listbutterfliesmt-1901-6dfd38ecbbea
 source_path: ../sources/jsbras-035-shelford-listbutterfliesmt-1901-6dfd38ecbbea.md
 summarized: true
+publication_type: journal_article
 ---
+
 # A list of the butterflies of Mt. Penrissen, Sarawak, with notes on the species
 
 R.S. Shelford published this faunal account in 1901, reporting on butterflies collected in May 1899 at elevations of 2,800 to 4,200 feet on Mount Penrissen, Sarawak. The paper argues that the mountain's dense, uncleared jungle produces a comparatively sparse but taxonomically distinctive lepidopteran fauna, with several species absent from the more frequently studied nearby peaks of Matang and Santubong.

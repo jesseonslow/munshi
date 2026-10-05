@@ -4,8 +4,7 @@ work_id: jsbras-43-1-p1
 title: An illustrated catalogue of the ethnographical collection of the Sarawak Museum
 canonical_name: An illustrated catalogue of the ethnographical collection of the Sarawak
   Museum. . f
-type: article
-article_type: article
+type: publication
 authors:
 - R.S. Shelford
 year: 1905
@@ -22,7 +21,9 @@ published: false
 source_doc: jmbras-217-wales-malayanarchaeologyhindu-1970-1eb42eed6ef3
 source_path: ../sources/jmbras-217-wales-malayanarchaeologyhindu-1970-1eb42eed6ef3.md
 summarized: true
+publication_type: journal_article
 ---
+
 # An illustrated catalogue of the ethnographical collection of the Sarawak Museum
 
 H.G. Quaritch Wales published this reconsideration in 1970, thirty years after his foundational archaeological fieldwork in Kedah and the Isthmus, to revise his historical-geographical conclusions while defending his core cultural thesis that the Malay Peninsula functioned as a critical relay in the Indianization of South-east Asia. The article engages directly with the challenges posed by A. Lamb's University of Malaya excavations and the broader historiographical shifts of the 1950s and 1960s, particularly the work of Wheatley, Dupont, and Griswold.

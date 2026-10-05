@@ -3,8 +3,7 @@ id: ancient-tin-ingots-in-the-perak-museum
 work_id: jmbras-24-3-p69
 title: Ancient tin ingots in the Perak Museum
 canonical_name: Ancient tin ingots in the Perak Museum
-type: article
-article_type: article
+type: publication
 authors:
 - W. Linehan
 year: 1951
@@ -27,7 +26,9 @@ published: false
 source_doc: jmalayanras-156-linehan-ancienttiningots-1951-3b4f844b63f1
 source_path: ../sources/jmalayanras-156-linehan-ancienttiningots-1951-3b4f844b63f1/frontmatter.md
 summarized: true
+publication_type: note
 ---
+
 # Ancient tin ingots in the Perak Museum
 
 W. Linehan's 1951 note in the *Journal of the Malayan Branch of the Royal Asiatic Society* documents a small group of anomalous tin ingots held in the Perak Museum that bear no resemblance to the well-known *tampang* or "animal" types and lack any local traditional association. Linehan, writing from a museum-curatorial standpoint, catalogues these objects and then advances tentative interpretations linking their forms—mound-shaped, octagonal, and cylindrical—to possible solar cult symbolism, the Hindu *linga*, and the mound-marriage ceremonies of the Malayan aborigines.

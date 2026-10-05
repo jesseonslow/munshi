@@ -5,8 +5,7 @@ title: '“A fine sphere for female usefulness”: missionary women in the Strai
   1815–45'
 canonical_name: '“A fine sphere for female usefulness”: missionary women in the Straits
   Settlements 1815–45'
-type: article
-article_type: article
+type: publication
 authors:
 - C. Doran
 year: 1996
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-301-porath-hikayatpatanikingdom-2011-af5e8cc51b79
 source_path: ../sources/jmbras-301-porath-hikayatpatanikingdom-2011-af5e8cc51b79/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # “A fine sphere for female usefulness”: missionary women in the Straits Settlements 1815–45
 
 Nathan Porath's 2011 article applies René Girard's mimetic theory and Stephen Harrison's concept of "fracturing resemblances" to the *Hikayat Patani*, arguing that this 1839 manuscript—composed in parts between the late seventeenth and mid-eighteenth centuries—functions as a symbolically political-cultural text that affirms Patani's mimetic similarity with Ayutthaya even while narrating rebellions against it, and simultaneously fractures its resemblances with Johor at every narrative juncture. The article challenges the standard ethno-nationalist reading of the text and reinterprets Patani's early rebellions not as secessionist acts but as episodes within an Indic hierarchical order of kingdom power.

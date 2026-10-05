@@ -4,8 +4,7 @@ work_id: jmbras-81-1-p49
 title: '‘A Malay poem on New Year’s Day (1848)’: Munshi Abdullah’s lyric carnival'
 canonical_name: '‘A Malay poem on New Year’s Day (1848)’: Munshi Abdullah’s lyric
   carnival'
-type: article
-article_type: article
+type: publication
 authors:
 - Raimy Ché-Ross
 year: 2008
@@ -28,7 +27,9 @@ published: false
 source_doc: jmbras-294-chross-amalaypoem-2008-4bd837afef9f
 source_path: ../sources/jmbras-294-chross-amalaypoem-2008-4bd837afef9f/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # ‘A Malay poem on New Year’s Day (1848)’: Munshi Abdullah’s lyric carnival
 
 Raimy Ché-Ross's 2008 article re-appraises Munshi Abdullah's brief *syair* "Malay Poem on New Year's Day (1848)," published in James Richardson Logan's *Journal of the Indian Archipelago and Eastern Asia*, by providing a full standard Malay transliteration, English translation, and extended commentary. Writing to mark the work's 160th anniversary, Ché-Ross argues that the poem's critical verses—long overshadowed by its formulaic opening praise of Queen Victoria—reveal a more complex and assertive Abdullah who resented the exploitation of his fellow natives by the colonial elite, thereby challenging the reductive "tali barut" (collaborator) caricature that has dominated modern assessments of the Munshi.

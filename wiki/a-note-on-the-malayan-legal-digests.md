@@ -3,8 +3,7 @@ id: a-note-on-the-malayan-legal-digests
 work_id: jmbras-41-1-p157
 title: A note on the Malayan legal digests
 canonical_name: A note on the Malayan legal digests
-type: article
-article_type: article
+type: publication
 authors:
 - M.B. Hooker
 year: 1968
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-213-hooker-notemalayanlegal-1968-abebe65d5ffc
 source_path: ../sources/jmbras-213-hooker-notemalayanlegal-1968-abebe65d5ffc.md
 summarized: true
+publication_type: journal_article
 ---
+
 # A note on the Malayan legal digests
 
 M.B. Hooker's 1968 note surveys five groups of Malay legal digests bearing on *adat temenggong*, arguing that these texts are neither complete statements of law nor the self-interested fabrications of autocratic rulers, but rather political documents that mirror the social and legal life of their periods while bearing significant Hindu, Islamic, and local customary influences. The article challenges the prevailing scholarly tendency to treat the digests as either authoritative legal codes or as worthless glosses, proposing instead a more nuanced reading that situates them within a broader Indo-European and Islamic legal tradition.

@@ -3,8 +3,7 @@ id: an-expedition-to-mount-kina-balu-british-north-borneo
 work_id: jsbras-34-1-p49
 title: An expedition to Mount Kina Balu, British North Borneo
 canonical_name: An expedition to Mount Kina Balu, British North Borneo
-type: article
-article_type: article
+type: publication
 authors:
 - Hanitsch R
 year: 1900
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-034-hanitsch-expeditionmountkina-1900-106a4bbbdf00
 source_path: ../sources/jsbras-034-hanitsch-expeditionmountkina-1900-106a4bbbdf00.md
 summarized: true
+publication_type: journal_article
 ---
+
 # An expedition to Mount Kina Balu, British North Borneo
 
 R. Hanitsch, a naturalist attached to the Raffles Museum in Singapore, published this account in 1900 of his March–April 1899 expedition to Mount Kina Balu (Kinabalu) in British North Borneo, in which he abandoned the summit attempt at 4,200 feet and instead conducted intensive zoological collecting on the lower mountain ranges. The article combines a day-by-day field narrative with a comprehensive scientific report that yielded six new taxa to science, including two new genera.

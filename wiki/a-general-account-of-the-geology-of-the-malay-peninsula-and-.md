@@ -7,8 +7,7 @@ title: A general account of the geology of the Malay Peninsula and the surroundi
 canonical_name: A general account of the geology of the Malay Peninsula and the surrounding
   countries, including Burma, the Shan States, Yunnan, Indo-China, Siam, Sumatra,
   Java, Borneo and other islands of the Dutch East Indies
-type: article
-article_type: article
+type: publication
 authors:
 - E.S. Willbourn
 year: 1922
@@ -25,7 +24,9 @@ published: false
 source_doc: jsbras-086-willbourn-generalaccountgeology-1922-72c6da7d7464
 source_path: ../sources/jsbras-086-willbourn-generalaccountgeology-1922-72c6da7d7464.md
 summarized: true
+publication_type: journal_article
 ---
+
 # A general account of the geology of the Malay Peninsula and the surrounding countries, including Burma, the Shan States, Yunnan, Indo-China, Siam, Sumatra, Java, Borneo and other islands of the Dutch East Indies
 
 E.S. Willbourn, Assistant Geologist of the Federated Malay States, published this comprehensive synthetic account of the geology of the Malay Peninsula and surrounding regions in 1922. Writing at a moment when colonial geological surveys were maturing into coherent regional frameworks, Willbourn argues that the area's structure was established by at least three major folding episodes, with the Mesozoic (Hercynian) and Tertiary movements exerting the most widespread influence, and that the resulting stratigraphic sequence spans from Pre-Cambrian basement to Recent alluvial deposits.

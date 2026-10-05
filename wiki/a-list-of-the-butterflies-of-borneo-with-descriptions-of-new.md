@@ -3,8 +3,7 @@ id: a-list-of-the-butterflies-of-borneo-with-descriptions-of-new
 work_id: jsbras-60-1-p73
 title: A list of the butterflies of Borneo with descriptions of new species
 canonical_name: A list of the butterflies of Borneo with descriptions of new species
-type: article
-article_type: article
+type: publication
 authors:
 - J.C. Moulton
 year: 1911
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-253-gullick-tunkukudinkedah-1987-d72219249a7c
 source_path: ../sources/jmbras-253-gullick-tunkukudinkedah-1987-d72219249a7c.md
 summarized: true
+publication_type: journal_article
 ---
+
 # A list of the butterflies of Borneo with descriptions of new species
 
 J.M. Gullick's 1987 article "Tunku Kudin of Kedah" traces the final political bid and subsequent 27-year exile of Tunku Kudin (Dhiauddin), a Kedah royal prince who had served as Raja Muda of Kedah and titular "viceroy" of Selangor during the 1868–1878 civil war. The article covers the succession crises of 1879–1882 that permanently excluded Kudin from Kedah's government, and his later life in Penang and Selangor until his death in 1909. Gullick's overarching argument is that Kudin, despite his political acumen and personal charm, was ultimately defeated by the structural dynamics of the Kedah dynasty and the decisive intervention of the Siamese government, which chose a young puppet ruler over the most capable of the competing royal uncles.

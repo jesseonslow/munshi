@@ -3,8 +3,7 @@ id: an-ancient-cornelian-bead-from-pahang
 work_id: jmbras-11-2-p146
 title: An ancient cornelian bead from Pahang
 canonical_name: An ancient cornelian bead from Pahang
-type: article
-article_type: article
+type: publication
 authors:
 - I.H.N. Evans
 year: 1933
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-117-evans-ancientcornelianbead-1933-23cba87a8d6d
 source_path: ../sources/jmalayanras-117-evans-ancientcornelianbead-1933-23cba87a8d6d.md
 summarized: true
+publication_type: note
 ---
+
 # An ancient cornelian bead from Pahang
 
 This short note by I.H.N. Evans describes a large hexagonal-section spindle bead of veined and striped cornelian, measuring 7.1 cm in length, discovered by R.M.A. Maycock on a hillside at Jerantut Estate, Pahang (p. 146).

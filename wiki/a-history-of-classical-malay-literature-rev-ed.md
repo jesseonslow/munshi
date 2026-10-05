@@ -3,8 +3,7 @@ id: a-history-of-classical-malay-literature-rev-ed
 work_id: jmbras-31-3-p1
 title: A history of classical Malay literature. Rev. ed
 canonical_name: A history of classical Malay literature. Rev. ed
-type: article
-article_type: article
+type: publication
 authors:
 - R.O. Winstedt
 year: 1958
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-031-skeat-recordsmalaymagic-1898-3648f10444dc
 source_path: ../sources/jsbras-031-skeat-recordsmalaymagic-1898-3648f10444dc.md
 summarized: true
+publication_type: reprint
 ---
+
 # A history of classical Malay literature. Rev. ed
 
 W. W. Skeat, a British colonial administrator and scholar in the Straits Settlements, published this detailed eyewitness account of Malay magical ceremonies in 1898, drawing on direct observation of agricultural, healing, and maritime rituals to demonstrate that these practices constitute a coherent system of sympathetic magic rather than "mere childish folly." The article's overarching thesis, articulated through reference to Frazer's *Golden Bough*, is that Malay padi-ceremonies, spirit-possession healing, and water-spirit invocations are all intelligible expressions of an old-world religious logic in which effects are produced by imitating them.

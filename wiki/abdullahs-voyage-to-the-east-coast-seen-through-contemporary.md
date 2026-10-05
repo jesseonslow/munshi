@@ -3,8 +3,7 @@ id: abdullahs-voyage-to-the-east-coast-seen-through-contemporary
 work_id: jmbras-39-2-p23
 title: Abdullah’s voyage to the east coast, seen through contemporary eyes
 canonical_name: Abdullah’s voyage to the east coast, seen through contemporary eyes
-type: article
-article_type: article
+type: publication
 authors:
 - C. Skinner
 year: 1966
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-210-skinner-abdullahsvoyageeast-1966-9234f37b727d
 source_path: ../sources/jmbras-210-skinner-abdullahsvoyageeast-1966-9234f37b727d/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Abdullah’s voyage to the east coast, seen through contemporary eyes
 
 C. Skinner's 1966 article uses the *Singapore Free Press*—a weekly English-language newspaper published in the 1830s—to cross-reference and contextualise Abdullah's *Kisah Pelayaran Abdullah*, the account of his 1838 mission to Kelantan to secure the release of detained *sampan pukat* trading vessels. Skinner demonstrates that the *Kisah* compresses the actual timeline of the voyage, flatters its author at the expense of his Chinese interpreter Ko An, and omits the broader commercial and political context that the newspaper record preserves.

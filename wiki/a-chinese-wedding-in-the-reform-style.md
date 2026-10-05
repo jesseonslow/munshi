@@ -3,8 +3,7 @@ id: a-chinese-wedding-in-the-reform-style
 work_id: jmbras-3-3-p1
 title: A Chinese wedding in the reform style
 canonical_name: A Chinese wedding in the reform style
-type: article
-article_type: article
+type: publication
 authors:
 - W.G. Stirling
 year: 1925
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-288-wade-zhengvoyagesreassessment-2005-15ac1022d1b2
 source_path: ../sources/jmbras-288-wade-zhengvoyagesreassessment-2005-15ac1022d1b2/frontmatter.md
 summarized: true
+publication_type: note
 ---
+
 # A Chinese wedding in the reform style
 
 Geoff Wade, in a 2005 article for the *Journal of the Malaysian Branch of the Royal Asiatic Society*, challenges the dominant "ambassador of friendship" narrative surrounding the Ming eunuch Zheng He's early fifteenth-century maritime expeditions. Wade argues that these voyages were not peaceful diplomatic missions but rather instruments of aggressive maritime proto-colonialism, forming the third prong of the Yong-le emperor's southern expansion alongside the invasions of Đai Viet and the Tai polities of Yun-nan.

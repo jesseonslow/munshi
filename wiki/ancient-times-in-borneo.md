@@ -3,8 +3,7 @@ id: ancient-times-in-borneo
 work_id: jmbras-20-2-p26
 title: Ancient times in Borneo
 canonical_name: Ancient times in Borneo
-type: article
-article_type: article
+type: publication
 authors:
 - E. Banks
 year: 1947
@@ -18,6 +17,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: journal_article
 ---
 
 # Ancient times in Borneo

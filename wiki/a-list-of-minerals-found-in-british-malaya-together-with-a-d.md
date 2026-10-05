@@ -5,8 +5,7 @@ title: A list of minerals found in British Malaya together with a description of
   properties, composition, occurrences and uses
 canonical_name: A list of minerals found in British Malaya together with a description
   of their properties, composition, occurrences and uses
-type: article
-article_type: article
+type: publication
 authors:
 - E.S. Willbourn
 year: 1925
@@ -23,7 +22,9 @@ published: false
 source_doc: jmalayanras-093-stirling-redwhiteflag-1925-de8fef53118f
 source_path: ../sources/jmalayanras-093-stirling-redwhiteflag-1925-de8fef53118f.md
 summarized: true
+publication_type: journal_article
 ---
+
 # A list of minerals found in British Malaya together with a description of their properties, composition, occurrences and uses
 
 W. G. Stirling's 1925 article in the *Journal of the Malayan Branch of the Royal Asiatic Society* examines the Red and White Flag Societies, clandestine Malay and mixed-ethnicity secret societies that operated as subordinate appendages of the Chinese Ghee Hin and Ghee Hok Triad organizations in the Native States of British Malaya. Stirling argues that these societies were deliberately created by Triad headmen to conduct coercive and criminal activities—blackmail, intimidation, and violence against Malay officials and police—that the Triads themselves wished to keep at arm's length from their own membership.
