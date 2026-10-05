@@ -20,13 +20,15 @@ status: stub
 published: false
 source_doc: jsbras-054-ridley-termitesnesteight-1910-f42e250439e7
 source_path: ../sources/jsbras-054-ridley-termitesnesteight-1910-f42e250439e7.md
+summarized: true
 ---
-
-
 # The rural Chinese of the Kelantan plain
 
+This is a brief fragment from a short note by O. Blagden, appearing in the "Short Notes" section of the Journal of the Malaysian Branch of the Royal Asiatic Society (p. 157).
+
 ## Summary
-<!-- Summarizer: Insert publication smmary here -->
+
+The text is the concluding passage of a note discussing the founding of Majapahit. It states that Wijaya became the virtual successor in the newly established capital, and that Chinese and Javanese accounts agree on all personal names involved, further confirmed by contemporary inscriptions, making them "quite certain" (p. 157). The note is signed O. Blagden.
 
 ## References
 <!-- Grounded occurrences and citations -->

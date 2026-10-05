@@ -26,16 +26,15 @@ status: stub
 published: false
 source_doc: jsbras-039-corrigendamrc-1903-215535fca24b
 source_path: ../sources/jsbras-039-corrigendamrc-1903-215535fca24b.md
+summarized: true
 ---
-
-
 # A Malayan element in some of the languages of southern Indo-China
 
-> **Notice of Subsequent Amendments:**
-> * **Errata:** Published in [Errata SB 39: {211} Je 1903](./jsbras-039.md)
+This is a corrigendum issued by C. O. Blagden in 1903, listing typographical and substantive corrections to his 1902 paper "A Malayan Element in some of the Languages of Southern Indo-China" (JSBRAS Vol. 38, pp. 1–17).
 
 ## Summary
-<!-- Summarizer: Insert publication smmary here -->
+
+The document comprises a single page of errata covering approximately thirty corrections across the original paper. The corrections include spelling fixes (e.g., "Khmet" for "Khmer," "sembilon" for "sembilan," "leureux" for "heureux"), a substantive linguistic correction ("Papuan" for "Melanesian" on p. 22), and various punctuation and formatting adjustments. The most significant correction is the replacement of "Papuan" with "Melanesian," which affects the paper's classification of a language group (p. 22).
 
 ## References
 <!-- Grounded occurrences and citations -->

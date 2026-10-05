@@ -20,13 +20,17 @@ status: stub
 published: false
 source_doc: jmalayanras-138-hough-preislamicelementmalay-1940-041e4f1aed85
 source_path: ../sources/jmalayanras-138-hough-preislamicelementmalay-1940-041e4f1aed85.md
+summarized: true
 ---
-
-
 # A Pre-Islamic element in the Malay grave
 
+G.G. Hough's short note argues that certain structural features of the Malay grave are survivals of a pre-Islamic aboriginal practice, drawing parallels with the Jakun grave to support this claim.
+
 ## Summary
-<!-- Summarizer: Insert publication smmary here -->
+
+Hough identifies two non-Islamic features of the Malay grave: the pair of small *batu nesan* (gravestones) placed close together, distinguished by shape for male and female, and the wooden framework (*dapur-dapur*) enclosing the grave mound. He finds close parallels in the Jakun grave, which has two wooden *nesan* spaced similarly and a wooden framework called *mendolor* (with a lower framework called *kalang dapur*). He concludes that the Malay *nesan* and *dapur-dapur* are likely survivals of older aboriginal practice, the latter representing a fusion of hearth and canoe burial elements identified by Noone (p. 47).
+
+Hough also notes possible Islamic influence flowing in the reverse direction, from Malays to Jakun: the practice of boarding off the body from the earth, and the word *nesan* itself, which derives from the Persian *nishan* and must have passed through Malay to the Jakun (p. 48). A final note questions Noone's hearth-burial interpretation, suggesting that *dapur-dapur* may derive from a meaning of "outer portion enclosing something" rather than from hearth symbolism (p. 48).
 
 ## References
 <!-- Grounded occurrences and citations -->

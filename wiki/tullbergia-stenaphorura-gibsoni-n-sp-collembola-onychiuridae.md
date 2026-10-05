@@ -22,13 +22,15 @@ status: stub
 published: false
 source_doc: jmbras-208-murphy-tullbergiastenaphoruragibsoni-1965-564d20b00e4b
 source_path: ../sources/jmbras-208-murphy-tullbergiastenaphoruragibsoni-1965-564d20b00e4b.md
+summarized: true
 ---
-
-
 # Tullbergia (Stenaphorura) gibsoni n. sp. (Collembola, Onychiuridae) from grass land soils in Singapore
 
+This short note by D. H. Murphy describes *Tullbergia (Stenaphorura) gibsoni* n. sp., a new species of onychiurid springtail from grassland soils in Singapore, dedicated to the memory of Dr. Gibson-Hill.
+
 ## Summary
-<!-- Summarizer: Insert publication smmary here -->
+
+The species is distinguished within the subgenus *Stenaphorura* by a unique pseudocellar formula (11/122/22221) and the absence of a smooth protuberance on Ant. IV and an anterior integumental lobe on Abd. VI, features that align it most closely with *S. quadrispina* C.B. (p. 24). Murphy notes that all previously known *Stenaphorura* species had been described from Europe, with only a single extra-European record from Western Australia (Womersley, 1939), making this the first formally described species from the region (p. 22). The holotype female and allotype male are deposited in the British Museum (Natural History), London, with a reference set of paratypes in the National Museum, Singapore (p. 25).
 
 ## References
 <!-- Grounded occurrences and citations -->

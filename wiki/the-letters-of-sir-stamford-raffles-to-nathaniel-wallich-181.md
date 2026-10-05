@@ -22,13 +22,15 @@ status: stub
 published: false
 source_doc: jsbras-054-ridley-termitesnesteight-1910-f42e250439e7
 source_path: ../sources/jsbras-054-ridley-termitesnesteight-1910-f42e250439e7.md
+summarized: true
 ---
-
-
 # The letters of Sir Stamford Raffles to Nathaniel Wallich, 1819–1824. (with notes), . Bastin
 
+This is a short note by H. N. Ridley titled "A Termite's Nest with Eight Queens," published in the Journal of the Malaysian Branch of the Royal Asiatic Society in 1910.
+
 ## Summary
-<!-- Summarizer: Insert publication smmary here -->
+
+The available text is a brief fragment from the "Short Notes" section (p. 157) that actually concludes a note by O. Blagden on Javanese history, confirming the identity of Wijaya as successor to the founder of Majapahit based on concordant Chinese, Javanese, and epigraphic sources. The Ridley note on termites is referenced in the document header and title page but its full text is not present in the provided excerpt.
 
 ## References
 <!-- Grounded occurrences and citations -->

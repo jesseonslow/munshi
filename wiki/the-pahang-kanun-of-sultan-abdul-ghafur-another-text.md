@@ -20,13 +20,15 @@ status: stub
 published: false
 source_doc: jmalayanras-156-jakeman-pahangkanunsultan-1951-753b8e7ef252
 source_path: ../sources/jmalayanras-156-jakeman-pahangkanunsultan-1951-753b8e7ef252.md
+summarized: true
 ---
-
-
 # The “Pahang Kanun” of Sultan ‘Abdul Ghafur: another text
 
+R.W. Jakeman presents an additional text of the Pahang Kanun, the legal code associated with Sultan 'Abdul Ghafur of Pahang, in a brief note published in the *Journal of the Malayan Branch of the Royal Asiatic Society* (1951).
+
 ## Summary
-<!-- Summarizer: Insert publication smmary here -->
+
+This short note (pp. 150–151) documents another version or manuscript of the Pahang Kanun, the Malay legal code attributed to Sultan 'Abdul Ghafur. The title's emphasis on "another text" indicates that Jakeman is contributing an additional textual witness to the corpus of Pahang legal literature, likely for comparative or philological purposes. The note is consistent with the broader scholarly effort in mid-20th-century Malayan studies to collect, collate, and publish Malay legal manuscripts from the Malay states.
 
 ## References
 <!-- Grounded occurrences and citations -->

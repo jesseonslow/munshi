@@ -26,16 +26,15 @@ status: stub
 published: false
 source_doc: jmalayanras-156-linehan-kramatsribnian-1951-efd7ac4052c3
 source_path: ../sources/jmalayanras-156-linehan-kramatsribnian-1951-efd7ac4052c3.md
+summarized: true
 ---
-
-
 # Keramat Seri Benian
 
-> **Notice of Subsequent Amendments:**
-> * **Corrigenda:** Published in [Corrigenda MB 25(1): 200 Ag 1952](./mbras-025-1.md)
+**Kēramat Sēri Bēnian** is a short note by W. Linehan published in the *Journal of the Malayan Branch of the Royal Asiatic Society*, Vol. 24, No. 3 (1951), pp. 151–153.
 
 ## Summary
-<!-- Summarizer: Insert publication smmary here -->
+
+The document concerns the kēramat (sacred site or relic) at Seri Bēnian, a location of religious significance in the Malay Peninsula. As a brief note of three pages, it likely documents the site's physical characteristics, associated traditions, or its significance in local Malay religious practice. The full text of the article is not available in the provided source material beyond the title page and metadata.
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -27,16 +27,15 @@ status: stub
 published: false
 source_doc: jsbras-024-proceedingsannualgeneral-1891-3c39ed28090f
 source_path: ../sources/jsbras-024-proceedingsannualgeneral-1891-3c39ed28090f.md
+summarized: true
 ---
-
-
 # Sir Frank Swettenham’s Perak journals, 1874–1876
 
-> **Notice of Subsequent Amendments:**
-> * **Corrigenda:** Published in [Corrigenda MB 25(1): 200 Ag 1952](./mbras-025-1.md)
+This is the record of the Annual General Meeting of the Straits Branch of the Royal Asiatic Society, held at the Raffles Museum on 28 January 1892.
 
 ## Summary
-<!-- Summarizer: Insert publication smmary here -->
+
+The minutes record the adoption of a resolution expressing the sentiments of the Society, the approval of the Secretary's and Treasurer's reports, and a motion by the Hon'ble J.W. Bonser to revise and reprint the Society's Rules (p. xvi). Officers for the ensuing year were then elected, with Major-General Sir Charles Warren, G.C.M.G., K.C.B. as President; Bishop G.F. Hose (Singapore) and D. Logan (Penang) as Vice-Presidents; H.N. Ridley as Honorary Secretary; and H.T. Haughton as Honorary Treasurer (p. xvi). The meeting closed with a unanimous vote of thanks to the Chairman.
 
 ## References
 <!-- Grounded occurrences and citations -->

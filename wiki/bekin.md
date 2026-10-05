@@ -21,13 +21,15 @@ status: stub
 published: false
 source_doc: jsbras-032-ridley-insectivoroussquirrel-1899-cabd4e6a994d
 source_path: ../sources/jsbras-032-ridley-insectivoroussquirrel-1899-cabd4e6a994d.md
+summarized: true
 ---
-
-
 # Bekin
 
+This is a brief note by H. N. Ridley on the use of female quails for fighting in Sungei Ujong, published in the *Journal of the Straits Branch of the Royal Asiatic Society* (1899).
+
 ## Summary
-<!-- Summarizer: Insert publication smmary here -->
+
+Ridley supplements Mr. Butler's remarks on fighting quails by reporting his own observations among quail-catchers in Sungei Ujong. He found that all decoy birds used were females, and the Malays confirmed that only females were used for fighting, as the males did not fight (p. 217).
 
 ## References
 <!-- Grounded occurrences and citations -->

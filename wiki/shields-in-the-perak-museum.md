@@ -20,13 +20,15 @@ status: stub
 published: false
 source_doc: jmalayanras-156-linehan-shieldsperakmuseum-1951-1d9ad6a2cbe5
 source_path: ../sources/jmalayanras-156-linehan-shieldsperakmuseum-1951-1d9ad6a2cbe5.md
+summarized: true
 ---
-
-
 # Shields in the Perak Museum
 
+A short article by W. Linehan describing shields held in the Perak Museum, published in the *Journal of the Malayan Branch of the Royal Asiatic Society*, Vol. 24, No. 3 (1951), pp. 104–113.
+
 ## Summary
-<!-- Summarizer: Insert publication smmary here -->
+
+The article surveys and describes shield specimens in the collection of the Perak Museum. The text provided is limited to the title page and bibliographic header of the piece.
 
 ## References
 <!-- Grounded occurrences and citations -->

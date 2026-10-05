@@ -26,16 +26,17 @@ status: stub
 published: false
 source_doc: jsbras-046-erratashelfordkloss-1906-0f93b2916414
 source_path: ../sources/jsbras-046-erratashelfordkloss-1906-0f93b2916414.md
+summarized: true
 ---
-
-
 # A list of the butterflies of Borneo, and Nymphalinae
 
-> **Notice of Subsequent Amendments:**
-> * **Errata:** Published in [Errata SB 46: 264 D 1906](./jsbras-046.md)
+This is an errata notice correcting typographical and factual errors in R.S. Shelford's "A list of the butterflies of Borneo, and Nymphalinae," published in JSBRAS Vol. 45 (1906), pp. 89–136.
 
 ## Summary
-<!-- Summarizer: Insert publication smmary here -->
+
+The notice lists approximately thirty corrections spanning pages 89–134 of the original article. The majority are typographical: misspellings of genus and species names (e.g., *Crymanthis* for *Erymanthis*, *Dugapa* for *Ducapa*, *Wioeus* for *Uraeus*), place names (Nias for Nicev, Kina for Kinabalu), and common words (blade for black, place for phase). One substantive taxonomic correction reclassifies *Nymphalinae* from a family to a subfamily within *Lemoniidae* (p. 89).
+
+A separate set of corrections addresses errors on p. 56 and p. 286 of the same volume, including the misattribution of *Sus verrucosus* and *Sus barbatus* to the wrong regional pig species, and several typographical fixes in a note on Negrito physical characteristics (p. 286).
 
 ## References
 <!-- Grounded occurrences and citations -->

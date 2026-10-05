@@ -4,7 +4,7 @@ work_id: mbras-r01
 sku: R01
 title: 150th Anniversary of the Founding of Singapore Commemorative Reprint
 canonical_name: 150th Anniversary of the Founding of Singapore Commemorative Reprint
-type: reprint_volume
+type: publication
 authors: []
 editors:
 - Tan Sri Datuk Mubin Sheppard

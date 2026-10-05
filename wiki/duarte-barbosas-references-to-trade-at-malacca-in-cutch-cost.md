@@ -22,13 +22,15 @@ status: stub
 published: false
 source_doc: jmalayanras-139-burkill-duartebarbosasreferences-1941-ea13daf682a4
 source_path: ../sources/jmalayanras-139-burkill-duartebarbosasreferences-1941-ea13daf682a4.md
+summarized: true
 ---
-
-
 # Duarte Barbosa’s references to trade at Malacca in Cutch, Costus and Aleppo Galls
 
+I.H. Burkill's short note corrects Dames's English translation of Duarte Barbosa's gazetteer, identifying three drugs referenced in the Portuguese text as Malay terms for Indian cutch, puchok (root of *Saussurea lappa*), and Aleppo galls traded through Malacca (p. 120).
+
 ## Summary
-<!-- Summarizer: Insert publication smmary here -->
+
+Burkill argues that the Portuguese text contains two errors: a missing comma in "cachopucho" (which should be two words, *kachu* and *puchok*) and a misreading of "ni" as "m" in what should be *mangicani* (p. 120). The drugs were shipped from Gujarat to Malacca and forwarded to China and Java. Since Duarte had never been to Malacca but had been to Gujarat, Burkill concludes he obtained his information from a Malay source—most likely a captive brought to the Portuguese factories on the Malabar coast after the 1508 or 1511 expeditions against Malacca, or the enslaved Malay interpreter aboard Magellan's ship (pp. 120–121). Dames, working from the faulty Portuguese text, was misled into thinking Duarte could not identify the drugs (p. 121).
 
 ## References
 <!-- Grounded occurrences and citations -->

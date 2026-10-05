@@ -20,13 +20,15 @@ status: stub
 published: false
 source_doc: jsbras-077-ridley-lasianthusbarbellatusnew-1917-c056c228429c
 source_path: ../sources/jsbras-077-ridley-lasianthusbarbellatusnew-1917-c056c228429c.md
+summarized: true
 ---
-
-
 # Lasianthus barbellatus, a new species from Pulau Tiuman, Pahang
 
+This is a brief taxonomic note by H. N. Ridley describing *Lasianthus barbellatus*, a new species of Rubiaceae collected from Pulau Tiuman, Pahang (p. 187).
+
 ## Summary
-<!-- Summarizer: Insert publication smmary here -->
+
+Ridley provides a concise Latin diagnosis of the species, noting it is a 3-foot shrub with glabrous branches, subcoriaceous leaves that are briefly acuminate and cuneate at the base, glabrous and shining above, and hairy on the major veins beneath, measuring 3.5–4.5 inches long and 1.5 inches wide (p. 187). The note is accompanied by a plate showing a leaf and group of flowers reduced to one-tenth scale.
 
 ## References
 <!-- Grounded occurrences and citations -->

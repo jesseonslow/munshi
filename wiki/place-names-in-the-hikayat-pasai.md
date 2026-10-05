@@ -20,13 +20,15 @@ status: stub
 published: false
 source_doc: jsbras-077-winstedt-placenameshikayatpasai-1917-6d6a04198487
 source_path: ../sources/jsbras-077-winstedt-placenameshikayatpasai-1917-6d6a04198487.md
+summarized: true
 ---
-
-
 # Place-names in the Hikayat Pasai
 
+This brief note by R. O. Winstedt corrects misspellings of place-names in Mr. Mead's romanization of the *Hikayat Raja-Raja Pasai* published in Journal No. 66.
+
 ## Summary
-<!-- Summarizer: Insert publication smmary here -->
+
+Winstedt provides emended readings for place-names on pp. 50 and 54–55 of Mead's version, including corrections such as *Nëgëri Tambëlan*, *Nëgëri Siantan*, *Nëgëri Subi*, *Nëgëri Pëmanggil*, *Nëgëri Karimata*, *Nëgëri Bëlitong*, *Nëgëri Bentan*, *Nëgëri Bulang*, *Nëgëri Mampawa*, *Nëgëri Sukadana*, *Nëgëri Kota Waringin*, and *Nëgëri Kutai* (p. 181). He also notes two errors in the original manuscript itself: *Nëgëri Pëmanggilan Karimata* and *Nëgëri Karantoka* (for *Larantoka*). Winstedt is unable to identify *Berumak* (perhaps *Beromok*) and observes that most of the Sumatran place-names on p. 54 do not appear on modern maps, likely having been very small places that have since disappeared (p. 181).
 
 ## References
 <!-- Grounded occurrences and citations -->

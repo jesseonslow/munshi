@@ -20,13 +20,15 @@ status: stub
 published: false
 source_doc: jsbras-070-errataburkill-1917-61071c77b11e
 source_path: ../sources/jsbras-070-errataburkill-1917-61071c77b11e.md
+summarized: true
 ---
-
-
 # Robert W. Duff: a British seigneur in Kelantan, 1892–1932
 
+This is a brief errata note published in the *Journal of the Straits Branch of the Royal Asiatic Society* (April 1917, No. 70), correcting four personal name errors in the preceding issue (No. 68).
+
 ## Summary
-<!-- Summarizer: Insert publication smmary here -->
+
+The note lists four corrections to names appearing in issue No. 68: "A. W. B. Hamilton" should read "A. W. H. Hamilton"; "Seet Tiong Wah" should read "See Tiong Wah"; "Mr. H. N. Blewett" should read "Mr. H. N. Bluett"; and "Mr. Cormo Clunies Ross" should read "Mr. Cosmo Clunies Ross" (p. 2).
 
 ## References
 <!-- Grounded occurrences and citations -->

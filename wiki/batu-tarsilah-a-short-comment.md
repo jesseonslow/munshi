@@ -20,13 +20,15 @@ status: stub
 published: false
 source_doc: jmbras-226-sweeney-batutarsilahshort-1974-c40daa717ced
 source_path: ../sources/jmbras-226-sweeney-batutarsilahshort-1974-c40daa717ced.md
+summarized: true
 ---
-
-
 # Batu Tarsilah: a short comment
 
+A short comment by Amin Sweeney responding to criticisms of his 1968 study *Silsilah Raja-Raja Berunai* raised in a paper on the Batu Tarsilah inscription by P. M. Sharifuddin and Abd. Latif Hj. Ibrahim (p. 151).
+
 ## Summary
-<!-- Summarizer: Insert publication smmary here -->
+
+Sweeney disputes the calendar calculations of al-Attas, demonstrating that the 2nd Dzul-hijjah AH 1221 fell on 10th February 1807, not 1806, by working through the arithmetic of the Muslim and Christian year overlap (p. 152). He also offers two transcription corrections to the authors' reading of the tablet: *sunat* should be *sanat* ("year"), and *amir a-l-f-a-z-a* should be *amir a-l-gh-a-z-a* (*amiru 'l-ghaza*, "war minister"), which he accepts as preferable to his own earlier reading (p. 152).
 
 ## References
 <!-- Grounded occurrences and citations -->

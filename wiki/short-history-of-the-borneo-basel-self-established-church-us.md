@@ -25,13 +25,17 @@ status: stub
 published: false
 source_doc: jmbras-209-tregonning-introduction-1966-064b4ab42539
 source_path: ../sources/jmbras-209-tregonning-introduction-1966-064b4ab42539.md
+summarized: true
 ---
-
-
 # Short history of the Borneo Basel Self-established Church, usually called the Basel Mission, in North Borneo. In Tregonning, K.G. Two notes on Church history in Sabah
 
+This is an editor's introduction by K. G. Tregonning, published in JMBRAS Vol. 39 (1966), which precedes two short notes on church history in Sabah collected during his 1957 fieldwork for his book *North Borneo*. The first note, by Rev. H. Bienz of the Basel Mission at Kudat (written in 1957), provides a brief account of the Basel Mission's early involvement in North Borneo.
+
 ## Summary
-<!-- Summarizer: Insert publication smmary here -->
+
+Tregonning explains that he sought indigenous material during his 1957 research and found church records to be a useful source for Sabah's social and economic history, noting that while Sarawak approached theocracy, Sabah's mission records may still illuminate a century of change (p. 166).
+
+Bienz's note recounts how in 1882 a Borneo Company officer in Hongkong approached Rev. Lechler of the Basel Mission (active among Hakkas in Kwangtung since 1846) with a plan to bring Hakka Christians to North Borneo as gardeners. Lechler selected emigrants from Wu-hua, Lung-chuan, and Tzu-chin, and a first batch of 14 families (approximately 90 persons) was shipped to the Kudat district in Marudu Bay, where they were given land to open coconut gardens. Their first small church was built in 1886 at the Old Settlement, Mile 4, with a government contribution of $10 (p. 166).
 
 ## References
 <!-- Grounded occurrences and citations -->

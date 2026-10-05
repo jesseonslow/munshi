@@ -26,16 +26,15 @@ status: stub
 published: false
 source_doc: jmalayanras-115-frontmatter-1932-bf925cddf290
 source_path: ../sources/jmalayanras-115-frontmatter-1932-bf925cddf290.md
+summarized: true
 ---
-
-
 # Journal
 
-> **Notice of Subsequent Amendments:**
-> * **Corrigenda:** Published in [Corrigenda MB 11(2): 234–235 D 1933](./mbras-011-2.md)
+This is the front matter (title page) for Volume X, Part III of the *Journal of the Malayan Branch of the Royal Asiatic Society* (December 1932), which contains the article "A History of Johore (1365—1895 A.D.)" by R. O. Winstedt, C.M.G., D.Litt. (Oxon.).
 
 ## Summary
-<!-- Summarizer: Insert publication smmary here -->
+
+The document consists of the journal's masthead and the opening of a contents page. It identifies the volume as Vol. X, Part III, and attributes the principal article to Winstedt, a prominent Malayan historian and administrator. No substantive content beyond the title-page information is present in this fragment.
 
 ## References
 <!-- Grounded occurrences and citations -->

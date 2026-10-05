@@ -31,16 +31,15 @@ status: stub
 published: false
 source_doc: jsbras-018-haynes-englishsulumalay-1886-f79bacdec07f
 source_path: ../sources/jsbras-018-haynes-englishsulumalay-1886-f79bacdec07f.md
+summarized: true
 ---
-
-
 # The Malay annals; or, Sejarah Melayu. The earliest recension from MS. No. 18 of the Raffles Collection in the Library of the Royal Asiatic Society, London. .O. Winstedt
 
-> **Notice of Subsequent Amendments:**
-> * **Corrigenda:** Published in [Corrigenda MB 18(2): 154–155 Ag 1940](./mbras-018-2.md)
+This is a continuation of T. H. Haynes's trilingual vocabulary comparing English, Sulu, and Malay terms, published in the *Journal of the Straits Branch of the Royal Asiatic Society* (1886), covering entries from the letter N through Y.
 
 ## Summary
-<!-- Summarizer: Insert publication smmary here -->
+
+The fragment presents a tabulated lexicon with English headwords, their Sulu equivalents, and Malay cognates, supplemented by cross-references to Javanese, Sundanese, Batavian, Makassarese, Dayak, Tagalog, and Bisayan forms. Editor's notes (marked "Ed.") provide etymological observations, such as the possible Sanskrit origin of *picangga* (p. 10) and a discussion of the shared Arabic root *ra'iyyat* behind "Rayah" and "Ryot" (p. 9). The entries span a wide semantic range, from concrete nouns (*root*, *skull*, *urine*) to verbs (*take*, *visit*, *vomit*) and abstract terms (*unreasonable*, *singular*), with occasional comparative notes on borrowing across the Bay of Bengal (p. 29).
 
 ## References
 <!-- Grounded occurrences and citations -->

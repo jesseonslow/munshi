@@ -2,14 +2,15 @@
 id: yap-ah-loy-18371885-with-an-introduction-and-three-final-cha
 work_id: jmbras-24-2-p1
 title: Yap Ah Loy, 1837–1885, with an introduction and three final chapters by J.M.
-  Gullick (and notes on the text). S.M. Middlebrook
+  Gullick (and notes on the text)
 canonical_name: Yap Ah Loy, 1837–1885, with an introduction and three final chapters
-  by J.M. Gullick (and notes on the text). S.M. Middlebrook
+  by J.M. Gullick (and notes on the text)
 type: article
 article_type: article
 authors:
-- J.M. Gullick
 - S.M. Middlebrook
+editors:
+- J.M. Gullick
 year: 1951
 journal_code: JMBRAS
 volume: 24
@@ -21,15 +22,12 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
-source_doc: jsbras-024-proceedingsannualgeneral-1891-3c39ed28090f
-source_path: ../sources/jsbras-024-proceedingsannualgeneral-1891-3c39ed28090f.md
+summarized: false
 ---
 
-
-# Yap Ah Loy, 1837–1885, with an introduction and three final chapters by J.M. Gullick (and notes on the text). S.M. Middlebrook
+# Yap Ah Loy, 1837–1885, with an introduction and three final chapters by J.M. Gullick (and notes on the text)
 
 ## Summary
-<!-- Summarizer: Insert publication smmary here -->
 
 ## References
 <!-- Grounded occurrences and citations -->

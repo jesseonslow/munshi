@@ -20,13 +20,13 @@ status: stub
 published: false
 source_doc: jmalayanras-138-baker-kedahharvestingknife-1940-d00fb8672811
 source_path: ../sources/jmalayanras-138-baker-kedahharvestingknife-1940-d00fb8672811.md
+summarized: true
 ---
-
-
 # A Kedah harvesting knife
 
-## Summary
-<!-- Summarizer: Insert publication smmary here -->
+J.A. Baker's short note describes the *pisau penggiau*, a distinctive Kedah harvesting implement consisting of a wooden handle with a long hook and an iron blade set on the opposite side, used for cutting padi stalks in conjunction with buffalo threshing.
+
+The article documents the tool's construction (a 9-inch handle with a 14-inch hook limb), its method of use (gathering stalks with the hook and cutting with a half-turn of the wrist), and its association with the now-rare practice of threshing by buffaloes (*irek*) (p. 43). Baker traces the etymology of *giau* to the Siamese *kiau* and notes that the common Kedah expression for harvesting is *kerat padi* or *potong padi* rather than *menyabit* (p. 44). He further identifies a close parallel in the Philippine *lingcao*, described by Copeland from Camus' work, which shares the same hook-and-blade configuration and harvesting technique, suggesting a wider historical distribution of this implement type across the region (p. 44).
 
 ## References
 <!-- Grounded occurrences and citations -->

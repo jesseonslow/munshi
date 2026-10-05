@@ -26,16 +26,15 @@ status: stub
 published: false
 source_doc: jsbras-041-proceedingsannualgeneral-1904-535220a7d83d
 source_path: ../sources/jsbras-041-proceedingsannualgeneral-1904-535220a7d83d.md
+summarized: true
 ---
-
-
 # Silsilah Raja-Raja Berunai. . Sweeney
 
-> **Notice of Subsequent Amendments:**
-> * **Errata:** Published in [Errata and a short note. MB 42(2): 222–224 D 1969](./mbras-042-2.md)
+This document records the proceedings of the Annual General Meeting of the Straits Branch of the Royal Asiatic Society, held on 19 January 1904, chaired by Bishop Hose.
 
 ## Summary
-<!-- Summarizer: Insert publication smmary here -->
+
+The minutes document routine business: confirmation of prior minutes, admission of a new subscriber (Lieut.-Colonel G. C. E. van Daalan), confirmation of new members elected during the past year, and adoption of the Council's Annual Report and the Treasurer's audited accounts (p. 2). The Officers and Council for the ensuing year were elected, with Bishop Hose as President, C. W. Kynerley as Vice President for Singapore, Dr. Brown as Vice President for Penang, H. N. Ridley as Hon. Secretary, and Dr. Hanitsch as Hon. Treasurer (p. 3). The President noted the Society's twenty-fifth anniversary, having been founded on 4 November 1877, and votes of thanks were passed to the President, Secretary, and Treasurer (p. 3).
 
 ## References
 <!-- Grounded occurrences and citations -->
