@@ -26,7 +26,7 @@ publication_type: journal_article
 
 # Mengap, the song of the Dyak head feast
 
-J. Perham, a missionary and ethnographer working in Sarawak, published this article in the *Journal of the Siam Branch of the Royal Asiatic Society* in 1878, presenting a detailed account of the *Mengap*—the ceremonial song recited at the Sea Dyak head-feast (*Gawe Pala* or *Gawe Burong*). Perham's overarching thesis is that the *Mengap*, though appearing to European ears as "a mere senseless rigmarole," constitutes a coherent mythological narrative in which the recitation of the hero Kling's feast functions as a ritual invocation of Singalang Burong, the war-spirit, who is believed to descend to the actual Dyak house where the feast is held (p. 123).
+J. Perham, a missionary and ethnographer working in Sarawak, published this article in the *Journal of the Straits Branch of the Royal Asiatic Society* in 1878, presenting a detailed account of the *Mengap*—the ceremonial song recited at the Sea Dyak head-feast (*Gawe Pala* or *Gawe Burong*). Perham's overarching thesis is that the *Mengap*, though appearing to European ears as "a mere senseless rigmarole," constitutes a coherent mythological narrative in which the recitation of the hero Kling's feast functions as a ritual invocation of Singalang Burong, the war-spirit, who is believed to descend to the actual Dyak house where the feast is held (p. 123).
 
 ## Summary
 

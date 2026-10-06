@@ -25,7 +25,7 @@ publication_type: note
 
 # Sumatra in 1886
 
-This is a brief administrative and geographical survey of the Dutch colonial divisions of Sumatra as of 1886, written by F. Kehding and published in the Journal of the Siam Branch of the Royal Asiatic Society, Vol. 18 (1886), pp. 345–349.
+This is a brief administrative and geographical survey of the Dutch colonial divisions of Sumatra as of 1886, written by F. Kehding and published in the Journal of the Straits Branch of the Royal Asiatic Society, Vol. 18 (1886), pp. 345–349.
 
 ## Summary
 

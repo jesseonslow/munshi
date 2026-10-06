@@ -25,7 +25,7 @@ publication_type: document
 
 # The Malay howdah. NQ 2
 
-W.E. Maxwell, in collaboration with Charles Thomson, published this article in the *Journal of the Siam Branch of the Royal Asiatic Society* (Vol. 15, 1885), presenting a translated and annotated account of the French land decree imposed on Cambodia in October 1884. The article situates the decree within the broader context of European colonial land administration in Asia and argues that it represents a decisive shift from the protectorate's previous hands-off approach to direct French control over Cambodian land tenure and revenue.
+W.E. Maxwell, in collaboration with Charles Thomson, published this article in the *Journal of the Straits Branch of the Royal Asiatic Society* (Vol. 15, 1885), presenting a translated and annotated account of the French land decree imposed on Cambodia in October 1884. The article situates the decree within the broader context of European colonial land administration in Asia and argues that it represents a decisive shift from the protectorate's previous hands-off approach to direct French control over Cambodian land tenure and revenue.
 
 ## Summary
 
@@ -50,7 +50,7 @@ Maxwell presents the decree as a landmark attempt to transplant European concept
 
 ## Context
 
-- The article was published in the *Journal of the Siam Branch of the Royal Asiatic Society*, a periodical that regularly featured comparative studies of land tenure and revenue systems across Southeast Asia under European rule.
+- The article was published in the *Journal of the Straits Branch of the Royal Asiatic Society*, a periodical that regularly featured comparative studies of land tenure and revenue systems across Southeast Asia under European rule.
 - The decree was issued under the authority of the Governor of Cochin-China, reflecting the administrative subordination of Cambodia to the French colony of Cochin-China following the 1884 Convention.
 
 ## References

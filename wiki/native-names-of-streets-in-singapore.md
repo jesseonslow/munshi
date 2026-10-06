@@ -25,7 +25,7 @@ publication_type: journal_article
 
 # Native names of streets in Singapore
 
-H. T. Haughton published this street-name reference in the *Journal of the Siam Branch of the Royal Asiatic Society* in 1891, documenting the vernacular Chinese (Hokkien) and Tamil names for the English-named streets of colonial Singapore. The article functions as a practical toponymic key, revealing the layered ethnic geography of the island's urban core as it stood in the early 1890s.
+H. T. Haughton published this street-name reference in the *Journal of the Straits Branch of the Royal Asiatic Society* in 1891, documenting the vernacular Chinese (Hokkien) and Tamil names for the English-named streets of colonial Singapore. The article functions as a practical toponymic key, revealing the layered ethnic geography of the island's urban core as it stood in the early 1890s.
 
 ## Summary
 

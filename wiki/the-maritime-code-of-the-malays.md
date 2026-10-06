@@ -26,7 +26,7 @@ publication_type: journal_article
 
 # The maritime code of the Malays
 
-Sir Stamford Raffles' "The Maritime Code of the Malays (Continued)," published posthumously in the *Journal of the Siam Branch of the Royal Asiatic Society* in 1879, presents a sweeping survey of Malay legal institutions, the political history of the Straits states, and the origins of the Malay nation as a distinct people. Raffles' overarching thesis is that the Malays constitute a comparatively recent formation—shaped by Arabian contact and Islamic adoption—whose maritime law, particularly the *Nacodah*'s power of life and death, represents a purely indigenous legal innovation with no parallel in Arab or European sea codes (p. 20).
+Sir Stamford Raffles' "The Maritime Code of the Malays (Continued)," published posthumously in the *Journal of the Straits Branch of the Royal Asiatic Society* in 1879, presents a sweeping survey of Malay legal institutions, the political history of the Straits states, and the origins of the Malay nation as a distinct people. Raffles' overarching thesis is that the Malays constitute a comparatively recent formation—shaped by Arabian contact and Islamic adoption—whose maritime law, particularly the *Nacodah*'s power of life and death, represents a purely indigenous legal innovation with no parallel in Arab or European sea codes (p. 20).
 
 ## Summary
 
@@ -51,7 +51,7 @@ Raffles' definitive historical takeaway is that the Malays are not an ancient, a
 
 ## Context
 
-- This text was published in the *Journal of the Siam Branch of the Royal Asiatic Society* (JSBRAS), Vol. 4, 1879, more than fifty years after Raffles' death in 1826; it forms part of the Society's long-running programme of publishing his collected manuscripts and translations.
+- This text was published in the *Journal of the Straits Branch of the Royal Asiatic Society* (JSBRAS), Vol. 4, 1879, more than fifty years after Raffles' death in 1826; it forms part of the Society's long-running programme of publishing his collected manuscripts and translations.
 - The publication reflects the colonial archival context of the Straits Settlements, where Raffles had gathered his manuscripts during his tenure as Governor of Java and Singapore; the work was intended to form "six books of the Malay Laws" but was presented here as a preliminary sketch (p. 18).
 
 ## References

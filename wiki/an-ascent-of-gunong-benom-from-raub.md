@@ -52,7 +52,7 @@ Strugnell and Willbourn establish that Gunong Benom, despite its reputation for 
 ## Context
 
 - The authors were colonial government officers (Strugnell of the Geological Survey Department, Willbourn's affiliation not stated but the party included a Forester and forest guards), and the expedition was framed within the administrative and scientific infrastructure of the Straits Settlements and Federated Malay States.
-- The article draws on the topographical survey map (sheet 3 B/4) and references prior ascents recorded in the Journal of the Siam Branch of the Royal Asiatic Society and the Journal of the Federated Malay States Museums, situating the expedition within a network of colonial scientific reporting.
+- The article draws on the topographical survey map (sheet 3 B/4) and references prior ascents recorded in the Journal of the Straits Branch of the Royal Asiatic Society and the Journal of the Federated Malay States Museums, situating the expedition within a network of colonial scientific reporting.
 
 ## References
 <!-- Grounded occurrences and citations -->

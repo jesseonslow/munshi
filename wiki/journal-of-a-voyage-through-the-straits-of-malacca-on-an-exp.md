@@ -31,7 +31,7 @@ publication_type: document
 
 # Journal of a voyage through the Straits of Malacca on an expedition to the Molucca islands under the command of Admiral Rainier with some account of those islands at the time of their falling into our hands, and likewise suggestions relative to their future better management in case of being retained in our possession
 
-Captain Walter Caulfield Lennon, Principal Engineer and Secretary to the expedition, recorded this voyage journal during the British naval expedition to the Molucca Islands under Admiral Rainier in 1795–1796, published in the *Journal of the Siam Branch of the Royal Asiatic Society* in 1881. The journal documents the passage from Madras through the Straits of Malacca to the Moluccas, with particular emphasis on the British seizure of Malacca from the Dutch and Lennon's detailed observations on the settlements, fortifications, trade, and peoples encountered along the route.
+Captain Walter Caulfield Lennon, Principal Engineer and Secretary to the expedition, recorded this voyage journal during the British naval expedition to the Molucca Islands under Admiral Rainier in 1795–1796, published in the *Journal of the Straits Branch of the Royal Asiatic Society* in 1881. The journal documents the passage from Madras through the Straits of Malacca to the Moluccas, with particular emphasis on the British seizure of Malacca from the Dutch and Lennon's detailed observations on the settlements, fortifications, trade, and peoples encountered along the route.
 
 ## Summary
 

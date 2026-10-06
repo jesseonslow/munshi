@@ -27,7 +27,7 @@ publication_type: note
 
 # Notes on economic plants, Straits Settlements
 
-Nathaniel Cantley, Superintendent of the Botanical Gardens in Singapore, published these notes in 1886 as an appendix to his Annual Report on the Forest Department for the Straits Settlements, reprinted in the *Journal of the Siam Branch of the Royal Asiatic Society* for wider circulation. The work constitutes a systematic colonial agricultural survey aimed at identifying and promoting "minor industries" that could diversify the colony's economic base beyond its dominant exports of pepper, gutta-percha, and coffee (p. 295).
+Nathaniel Cantley, Superintendent of the Botanical Gardens in Singapore, published these notes in 1886 as an appendix to his Annual Report on the Forest Department for the Straits Settlements, reprinted in the *Journal of the Straits Branch of the Royal Asiatic Society* for wider circulation. The work constitutes a systematic colonial agricultural survey aimed at identifying and promoting "minor industries" that could diversify the colony's economic base beyond its dominant exports of pepper, gutta-percha, and coffee (p. 295).
 
 ## Summary
 
