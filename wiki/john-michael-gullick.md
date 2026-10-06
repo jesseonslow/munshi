@@ -19,7 +19,13 @@ published: false
 
 # John Michael Gullick
 
-<!-- Synthesis engine: Insert introductory synthesis for John Michael Gullick here -->
+John Michael Gullick was born in February 1916 into an affluent Bristol family whose circumstances were altered later by the slump in 1932. Having won a free place at Taunton, a boarding school in Somerset, Gullick's scholarly inclinations became distinctly apparent when he was awarded an open scholarship to Christ's College, Cambridge from which he emerged in 1938 with a Double First in Classics. 
+
+Gullick joined the Colonial Administrative Service in 1939 and after the war - in which he served with some distinction - found himself transferred to the Malayan Civil Service in which he would serve for the next decade or so of his long and eventful life. Gullick joined the MBRAS in 1947 and sat on its Council in the 1950s before finally becoming one of its International Advisory Board members and the Society's representative in the United Kingdom. 
+
+After his retirement from the Malayan Civil Service in 1956, Gullick's career path took an unusual turn when he became a company secretary after which, in 1963, he went into legal practice (he had qualified as barrister in the 1950s but opted for solicitor work), unorthodox career moves that left an unmistakable quality on his writings and burnished his subsequent credentials as a formidable authority on Malayan history. Works written by Gullick subsequent to this period have been unrivalled by even professional historians, and he woved a dazzling tapestry of brilliant scholarship and thorough research that became the envy of many professionals in the field. As the author of numerous articles and books on the modern history of Malaya, Gullick's contributions to its scholarship were widely acknowledged but he remained in private life a modest and self-effacing man. The last in a long and illustrious line of scholar administrators who had inestimably enriched the field of Malaysian history. 
+
+Gullick died at his home in Essex in April 2012.
 
 ## MBRAS Sources
 
@@ -101,6 +107,3 @@ published: false
 - (1996) The sultanate of Aceh: relations with the British 1760–1824. Lee Kam Hing. *JMBRAS* 69(1): 118–119
 - (2001) A history of Malaysia, 2nd edn. *JMBRAS* 74(2): 131–134
 - (2004) Raja Bilah and the Mandailings of Perak 1875–1911. Abdurrazzaq Lubis and Khoo Salma Nasution. *JMBRAS* 77(2): 134–135
-
-## References
-<!-- Grounded occurrences and citations -->
