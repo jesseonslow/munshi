@@ -5,8 +5,7 @@ title: Index to the Journal of the Straits Branch of the Royal Asiatic Society, 
   I to XXXI
 canonical_name: Index to the Journal of the Straits Branch of the Royal Asiatic Society,
   Vols I to XXXI
-type: article
-article_type: index
+type: publication
 authors:
 - Malaysian Branch of the Royal Asiatic Society
 year: 1898
@@ -20,6 +19,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: index
 ---
 
 # Index to the Journal of the Straits Branch of the Royal Asiatic Society, Vols I to XXXI

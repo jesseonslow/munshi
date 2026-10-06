@@ -3,8 +3,7 @@ id: obituary-hg-quaritch-wales-with-a-note-by-m-sheppard
 work_id: jmbras-55-2-p145
 title: Obituary. H.G. Quaritch Wales. With a note by M. Sheppard
 canonical_name: Obituary. H.G. Quaritch Wales. With a note by M. Sheppard
-type: article
-article_type: obituary
+type: publication
 authors:
 - M.C. Subhadradis Diskul
 year: 1982
@@ -18,6 +17,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: obituary
 ---
 
 # Obituary. H.G. Quaritch Wales. With a note by M. Sheppard

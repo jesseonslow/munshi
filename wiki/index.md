@@ -3,8 +3,7 @@ id: index
 work_id: jsbras-77-1-p271
 title: Index
 canonical_name: Index
-type: article
-article_type: index
+type: publication
 authors:
 - Malaysian Branch of the Royal Asiatic Society
 year: 1917
@@ -18,6 +17,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: index
 ---
 
 # Index

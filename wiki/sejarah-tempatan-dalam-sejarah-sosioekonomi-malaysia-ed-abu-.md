@@ -4,8 +4,7 @@ work_id: monograph-49-sejarah-tempatan-dalam-sejarah
 title: Sejarah Tempatan dalam Sejarah Sosioekonomi Malaysia. Ed. Abu Talib Ahmad
 canonical_name: Sejarah Tempatan dalam Sejarah Sosioekonomi Malaysia. Ed. Abu Talib
   Ahmad
-type: article
-article_type: monograph
+type: publication
 authors:
 - Abu Talib Ahmad
 year: null
@@ -19,6 +18,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: monograph
 ---
 
 # Sejarah Tempatan dalam Sejarah Sosioekonomi Malaysia. Ed. Abu Talib Ahmad

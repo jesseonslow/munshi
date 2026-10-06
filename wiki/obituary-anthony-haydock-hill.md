@@ -3,8 +3,7 @@ id: obituary-anthony-haydock-hill
 work_id: jmbras-35-1-p113
 title: Obituary. Anthony Haydock Hill
 canonical_name: Obituary. Anthony Haydock Hill
-type: article
-article_type: obituary
+type: publication
 authors: []
 year: 1962
 journal_code: JSBRAS
@@ -17,6 +16,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: obituary
 ---
 
 # Obituary. Anthony Haydock Hill

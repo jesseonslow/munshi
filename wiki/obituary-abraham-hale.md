@@ -3,20 +3,20 @@ id: obituary-abraham-hale
 work_id: jsbras-81-p13
 title: Obituary. Abraham Hale
 canonical_name: Obituary. Abraham Hale
-type: article
-article_type: obituary
+type: publication
 authors:
 - R.O. Winstedt
 year: 1920
 journal_code: JSBRAS
 volume: 81
-pages: '13-14'
+pages: 13-14
 has_bibliography: false
 has_footnotes: false
 PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: obituary
 ---
 
 # Obituary. Mr. Abraham Hale. (Dec. 7, 1854-April 8, 1919)
