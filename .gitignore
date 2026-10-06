@@ -4,6 +4,7 @@ sources/
 db/entity_ledger.db
 __pycache__/*
 */*/__pycache__/*
+apps/*/src/*/__pycache__/*
 
 # Python bytecode & cache
 __pycache__/
@@ -15,3 +16,5 @@ __pycache__/
 */.venv/
 venv/
 ENV/
+
+triage/*

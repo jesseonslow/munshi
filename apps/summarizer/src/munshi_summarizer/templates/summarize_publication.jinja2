@@ -1,0 +1,13 @@
+{# templates/summarise_publication.jinja2 #}
+<publication_metadata>
+Title: {{ metadata.title }}
+Author(s): {{ metadata.authors | join(", ") if metadata.authors else "Unknown Author" }}
+Journal / Volume: {{ metadata.journal_code }} Vol. {{ metadata.volume }}{% if metadata.issue %} (Issue {{ metadata.issue }}){% endif %}
+Year: {{ metadata.year }}
+Pages: {{ metadata.pages }}
+Document Identifier: {{ doc_id }}
+</publication_metadata>
+
+<primary_source_text>
+{{ source_text }}
+</primary_source_text>

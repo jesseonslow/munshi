@@ -1,0 +1,25 @@
+---
+id: john-desmond-gimlette
+title: John Desmond Gimlette
+canonical_name: John Desmond Gimlette
+aliases:
+- J. D. Gimlette
+broader: []
+narrower: []
+related: []
+is_cluster: false
+is_contributor: false
+status: stub
+published: false
+---
+
+# John Desmond Gimlette
+
+<!-- Synthesis engine: Insert introductory synthesis for John Desmond Gimlette here -->
+
+## MBRAS Sources
+
+- [R.O. Winstedt](./richard-olaf-winstedt.md) (1934). [John Desmond Gimlette. Obituary](./john-desmond-gimlette-obituary.md). *JMBRAS* 12(2): 184
+
+## References
+<!-- Grounded occurrences and citations -->

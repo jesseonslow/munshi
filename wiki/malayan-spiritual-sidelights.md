@@ -1,0 +1,30 @@
+---
+id: malayan-spiritual-sidelights
+work_id: jmbras-2-1-p84
+title: Malayan spiritual sidelights
+canonical_name: Malayan spiritual sidelights
+type: publication
+authors:
+- Hashim N.M
+- G.T. MacBryan
+year: 1924
+journal_code: JMBRAS
+volume: 2
+issue: '1'
+pages: '84'
+has_bibliography: false
+has_footnotes: false
+PublishedByMBRAS: true
+amendments: []
+status: stub
+published: false
+publication_type: note
+---
+
+# Malayan spiritual sidelights
+
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
+
+## References
+<!-- Grounded occurrences and citations -->

@@ -1,0 +1,29 @@
+---
+id: two-dutch-portuguese-sea-fights
+work_id: jmbras-16-1-p139
+title: Two Dutch-Portuguese sea-fights
+canonical_name: Two Dutch-Portuguese sea-fights
+type: publication
+authors:
+- J.V. Mills
+year: 1938
+journal_code: JMBRAS
+volume: 16
+issue: '1'
+pages: 139–149
+has_bibliography: false
+has_footnotes: false
+PublishedByMBRAS: true
+amendments: []
+status: stub
+published: false
+publication_type: journal_article
+---
+
+# Two Dutch-Portuguese sea-fights
+
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
+
+## References
+<!-- Grounded occurrences and citations -->

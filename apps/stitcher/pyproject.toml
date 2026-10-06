@@ -8,4 +8,4 @@ dependencies = [
 ]
 
 [tool.uv.sources]
-munshi-docproc = { path = "../docproc" }
+munshi-docproc = { workspace = true }

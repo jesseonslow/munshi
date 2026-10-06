@@ -1,0 +1,38 @@
+---
+id: a-contribution-to-malayan-bibliography
+work_id: jsbras-5-1-p69
+title: A contribution to Malayan bibliography
+canonical_name: A contribution to Malayan bibliography
+type: publication
+authors:
+- N.B. Dennys
+year: 1880
+journal_code: JSBRAS
+volume: 5
+issue: null
+pages: 69–123
+has_bibliography: true
+has_footnotes: false
+PublishedByMBRAS: true
+amendments: []
+status: stub
+published: false
+aliases:
+- A contribution to Malayan bibliography. Pt. II
+reprints:
+- series: JSBRAS
+  volume: 6
+  year: 1880
+  absorbed_slug: a-contribution-to-malayan-bibliography-pt-ii
+source_doc: jsbras-006-dennys-contributionmalayanbibliography-1880-e629582ea434
+source_path: ../sources/jsbras-006-dennys-contributionmalayanbibliography-1880-e629582ea434.md
+publication_type: index
+---
+
+# A contribution to Malayan bibliography
+
+## Summary
+<!-- Summarizer: Insert publication smmary here -->
+
+## References
+<!-- Grounded occurrences and citations -->
