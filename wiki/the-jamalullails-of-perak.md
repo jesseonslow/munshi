@@ -27,7 +27,9 @@ keywords:
 - Siam
 - Onn bin Jaafar
 - Tunku Abdul Rahman Putra
-source_mismatch: true
+source_mismatch: false
+source_doc: jmbras-318-aznan-jamalullailsperak-2020-d13b89de9381
+source_path: ../sources/references.md
 ---
 
 # The Jamalullails of Perak

@@ -21,7 +21,9 @@ amendments: []
 status: stub
 published: false
 summarized: false
-source_mismatch: true
+source_mismatch: false
+source_doc: jmbras-300-abdullah-sultanabubakars-2011-5c7a560a7f1c
+source_path: ../sources/references.md
 ---
 
 # Sultan Abu Bakar’s foreign guests and travels abroad, 1860s-1895: fact and fiction in early Malay historical accounts

@@ -22,8 +22,9 @@ reprints:
   volume: 53
   year: null
   absorbed_slug: carl-a-gibson-hill-photography-history-boats-and-birds-in-la
+source_doc: gibson-hill-boats-birds-photography-and-history-f66a6f232fd5
+source_path: ../sources/references.md
 ---
-
 
 # Carl A. Gibson-Hill: Photography, History, Boats, and Birds in Late-Colonial Malaya and Singapore
 

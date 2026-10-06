@@ -20,6 +20,8 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+source_doc: jmalayanras-188-fisk-economicshandloomindustry-1959-5dece7b170ec
+source_path: ../sources/jmalayanras-188-fisk-economicshandloomindustry-1959-5dece7b170ec.md
 ---
 
 # The economics of the handloom industry of the east coast of Malaya

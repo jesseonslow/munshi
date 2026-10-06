@@ -20,6 +20,8 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+source_doc: jmalayanras-172-gullick-kualalumpur18801895-1955-e01d52534d3e
+source_path: ../sources/appendix.md
 ---
 
 # Kuala Lumpur, 1880–1895

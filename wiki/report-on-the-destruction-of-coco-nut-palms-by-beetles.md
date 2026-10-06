@@ -20,6 +20,8 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+source_doc: jsbras-020-ridley-reportdestructioncoconut-1889-9943dd8bc9bd
+source_path: ../sources/jsbras-020-ridley-reportdestructioncoconut-1889-9943dd8bc9bd.md
 ---
 
 # Report on the destruction of coco-nut palms by beetles

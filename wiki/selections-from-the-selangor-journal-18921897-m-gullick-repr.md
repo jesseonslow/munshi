@@ -22,6 +22,8 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+source_doc: jmbras-269-gullick-shorthistorysociety-1995-0e5faf7a13dc
+source_path: ../sources/appendix.md
 ---
 
 # Selections from the Selangor Journal (1892–1897). .M. Gullick. Reprint 26. A short history of the Society

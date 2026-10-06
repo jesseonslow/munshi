@@ -21,6 +21,8 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+source_doc: jmbras-292-rahman-currentissuesprehistory-2007-c3a63458ea13
+source_path: ../sources/references.md
 ---
 
 # Current issues on prehistory and protohistory in Malaysian archaeology,

@@ -20,6 +20,8 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+source_doc: jmalayanras-142-braddell-notesancienttimes-1947-9f9fa01411eb
+source_path: ../sources/jmalayanras-142-braddell-notesancienttimes-1947-9f9fa01411eb.md
 ---
 
 # Notes on ancient times in Malaya. Parts 2 and 3

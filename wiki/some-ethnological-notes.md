@@ -19,7 +19,9 @@ amendments: []
 status: stub
 published: false
 summarized: false
-source_mismatch: true
+source_mismatch: false
+source_doc: jsbras-050-kloss-ethnologicalnotes-1908-1711e3df7333
+source_path: ../sources/jsbras-050-kloss-ethnologicalnotes-1908-1711e3df7333.md
 ---
 
 # Some ethnological notes

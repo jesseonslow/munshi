@@ -20,6 +20,8 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+source_doc: jmbras-258-horton-notepostwarconstitutional-1990-8fa285e565fc
+source_path: ../sources/jmbras-258-horton-notepostwarconstitutional-1990-8fa285e565fc.md
 ---
 
 # Post-war constitutional changes in Brunei 1944―1948

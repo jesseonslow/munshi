@@ -20,6 +20,8 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+source_doc: jsbras-001-everett-notesdistributionuseful-1878-260ae685bf01
+source_path: ../sources/jsbras-001-everett-notesdistributionuseful-1878-260ae685bf01.md
 ---
 
 # Notes on the distribution of the useful minerals in Sarawak

@@ -20,6 +20,8 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+source_doc: jsbras-081-winstedt-sidisiamangadunada-1920-6981f9bce5f0
+source_path: ../sources/jsbras-081-winstedt-sidisiamangadunada-1920-6981f9bce5f0.md
 ---
 
 # Sidi, Siamang, Adunada

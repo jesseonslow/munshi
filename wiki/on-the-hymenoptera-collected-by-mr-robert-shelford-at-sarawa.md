@@ -21,7 +21,9 @@ amendments: []
 status: stub
 published: false
 summarized: false
-source_mismatch: true
+source_mismatch: false
+source_doc: jsbras-037-cameron-hymenopteracollectedmr-1902-09637ea1ceb7
+source_path: ../sources/jsbras-037-cameron-hymenopteracollectedmr-1902-09637ea1ceb7.md
 ---
 
 # On the Hymenoptera collected by Mr. Robert Shelford at Sarawak, and on the Hymenoptera of the Sarawak Museum

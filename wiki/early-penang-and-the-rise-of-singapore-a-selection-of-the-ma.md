@@ -24,6 +24,8 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+source_doc: jmalayanras-152-cowan-earlypenang-1950-682c1a1db153
+source_path: ../sources/index.md
 ---
 
 # Early Penang and the rise of Singapore: a selection of the manuscript records of the East India Company over the period 1805–32, chosen & edited, with an introduction by C.D. Cowan

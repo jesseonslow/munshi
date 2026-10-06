@@ -27,6 +27,8 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+source_doc: jmalayanras-157-cowan-sirfrankswettenhams-1951-e156266c2360
+source_path: ../sources/appendix.md
 ---
 
 # Sir Frank Swettenham’s Perak journals, 1874–1876

@@ -20,6 +20,8 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+source_doc: jmbras-282-suwannathatpian-specialthaimalaysianrelations-2002-9ed140448abd
+source_path: ../sources/references.md
 ---
 
 # Special Thai-Malaysian relations

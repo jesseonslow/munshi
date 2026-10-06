@@ -18,6 +18,8 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-015-maxwell-frenchlanddecree-1885-44c56533a5d6
+source_path: ../sources/jsbras-015-maxwell-frenchlanddecree-1885-44c56533a5d6.md
 ---
 
 # The Malay howdah. NQ 2

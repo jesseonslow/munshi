@@ -19,7 +19,9 @@ status: stub
 published: false
 summarized: false
 publication_type: document
-source_mismatch: true
+source_mismatch: false
+source_doc: jmbras-206-osman-textruleskelantan-1964-85f45d7e5db8
+source_path: ../sources/jmbras-206-osman-textruleskelantan-1964-85f45d7e5db8.md
 ---
 
 # A text on the rules of the Kelantan bull-fight

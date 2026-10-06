@@ -20,6 +20,8 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-012-maxwell-annualreportcouncil-1883-8d4797b437fb
+source_path: ../sources/jsbras-012-maxwell-annualreportcouncil-1883-8d4797b437fb.md
 ---
 
 # {Quelques notes de lexicologies malaise. Additions au Dictionaire malais-francais de l’ Abbé Favre, par M. Marcel Device

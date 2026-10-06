@@ -22,6 +22,8 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+source_doc: jmalayanras-160-gibsonhill-documentsrelatingjohn-1952-ef9c5710ea59
+source_path: ../sources/references.md
 ---
 
 # Documents relating to John Clunies Ross, Alexander Hare, and the establishment of the colony on the Cocos-Keeling Islands

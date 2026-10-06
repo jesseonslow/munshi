@@ -22,7 +22,9 @@ amendments: []
 status: stub
 published: false
 summarized: false
-source_mismatch: true
+source_mismatch: false
+source_doc: jmbras-298-langdon-notessketchland-2010-0708326793db
+source_path: ../sources/references.md
 ---
 
 # Notes on ‘Sketch of the Land round Singapore Harbour, 7 February 1819’. M. Langdon and Kwa Chong Guan

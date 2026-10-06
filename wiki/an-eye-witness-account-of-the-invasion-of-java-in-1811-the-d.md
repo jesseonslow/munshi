@@ -22,7 +22,9 @@ status: stub
 published: false
 summarized: false
 publication_type: document
-source_mismatch: true
+source_mismatch: false
+source_doc: jmbras-219-skinner-eyewitnessaccountinvasion-1971-e44da3aeee14
+source_path: ../sources/bibliography.md
 ---
 
 # An eye-witness account of the invasion of Java in 1811 — the diary of Lt. W.G.A. Fielding. C. Skinner

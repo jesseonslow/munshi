@@ -20,6 +20,8 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+source_doc: jmalayanras-169-wheatley-malaypeninsulaknown-1955-1f892518ec4c
+source_path: ../sources/jmalayanras-169-wheatley-malaypeninsulaknown-1955-1f892518ec4c.md
 ---
 
 # The Malay Peninsula as known to the Chinese of the third century A.D

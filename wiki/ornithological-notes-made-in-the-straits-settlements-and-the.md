@@ -22,6 +22,8 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+source_doc: jsbras-012-kelham-ornithologicalnotesmade-1883-d65bcb9d17e8
+source_path: ../sources/jsbras-012-kelham-ornithologicalnotesmade-1883-d65bcb9d17e8.md
 ---
 
 # Ornithological notes made in the Straits Settlements and the western states of the Malay Peninsula

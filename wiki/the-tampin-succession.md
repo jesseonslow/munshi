@@ -20,6 +20,8 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+source_doc: jmbras-230-gullick-tampinsuccession-1976-590824237d52
+source_path: ../sources/appendix.md
 ---
 
 # The Tampin succession

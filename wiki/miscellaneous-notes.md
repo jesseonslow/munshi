@@ -20,6 +20,8 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+source_doc: jsbras-057-m-miscellaneousnotes-1911-8d36712e0e94
+source_path: ../sources/jsbras-057-m-miscellaneousnotes-1911-8d36712e0e94.md
 ---
 
 # Miscellaneous notes

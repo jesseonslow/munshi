@@ -20,6 +20,8 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+source_doc: jmbras-258-tregonning-tertiaryeducationmalaya-1990-d4de36c9f006
+source_path: ../sources/jmbras-258-tregonning-tertiaryeducationmalaya-1990-d4de36c9f006.md
 ---
 
 # Tertiary education in Malaya: policy and practice, 1905–1962

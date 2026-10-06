@@ -21,7 +21,9 @@ amendments: []
 status: stub
 published: false
 summarized: false
-source_mismatch: true
+source_mismatch: false
+source_doc: jmbras-240-bastin-letterssirstamford-1981-a65d44285ea3
+source_path: ../sources/jmbras-240-bastin-letterssirstamford-1981-a65d44285ea3.md
 ---
 
 # The letters of Sir Stamford Raffles to Nathaniel Wallich, 1819–1824. (with notes), . Bastin

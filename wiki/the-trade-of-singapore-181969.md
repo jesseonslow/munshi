@@ -20,6 +20,8 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+source_doc: jmalayanras-192-ken-tradesingapore181969-1960-80e4b5bf5a3f
+source_path: ../sources/appendix.md
 ---
 
 # The trade of Singapore, 1819–69

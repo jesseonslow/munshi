@@ -19,7 +19,9 @@ amendments: []
 status: stub
 published: false
 summarized: false
-source_mismatch: true
+source_mismatch: false
+source_doc: jsbras-032-ridley-goldenflowers-1899-95b8f550e04f
+source_path: ../sources/jsbras-032-ridley-goldenflowers-1899-95b8f550e04f.md
 ---
 
 # Golden flowers

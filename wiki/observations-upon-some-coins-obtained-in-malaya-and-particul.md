@@ -30,6 +30,8 @@ keywords:
 - Singapore Story
 - Revisionist history
 source_mismatch: true
+source_doc: jmalayanras-087-bucknill-observationsuponcoins-1923-4a3054322ad0
+source_path: ../sources/index.md
 ---
 
 # Observations upon some coins obtained in Malaya and particularly from Trengganu, Kelantan and southern Siam

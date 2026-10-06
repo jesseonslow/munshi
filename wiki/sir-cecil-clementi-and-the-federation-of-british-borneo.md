@@ -19,7 +19,9 @@ amendments: []
 status: stub
 published: false
 summarized: false
-source_mismatch: true
+source_mismatch: false
+source_doc: jmbras-220-tarling-sircecilclementi-1971-42db5172fce5
+source_path: ../sources/jmbras-220-tarling-sircecilclementi-1971-42db5172fce5.md
 ---
 
 # Sir Cecil Clementi and the Federation of British Borneo

@@ -20,6 +20,8 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+source_doc: jmbras-256-kratz-hikayatrajapasai-1989-1e89680dfc8f
+source_path: ../sources/references.md
 ---
 
 # Hikayat Raja Pasai: a second manuscript

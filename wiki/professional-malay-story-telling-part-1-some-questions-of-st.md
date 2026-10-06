@@ -20,7 +20,9 @@ amendments: []
 status: stub
 published: false
 summarized: false
-source_mismatch: true
+source_mismatch: false
+source_doc: jmbras-224-sweeney-professionalmalaystorytelling-1973-9f41ca5bc953
+source_path: ../sources/jmbras-224-sweeney-professionalmalaystorytelling-1973-9f41ca5bc953.md
 ---
 
 # Professional Malay story-telling. Part 1: some questions of style and presentation

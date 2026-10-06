@@ -20,6 +20,8 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+source_doc: jmbras-248-manguin-introductionislamcampa-1985-9a20e79c56b8
+source_path: ../sources/bibliography.md
 ---
 
 # The introduction of Islam into Champa

@@ -27,7 +27,9 @@ keywords:
 - lithographic printing
 - reproduction of texts
 - book production
-source_mismatch: true
+source_mismatch: false
+source_doc: jmbras-318-gallop-sovereignsigns-2020-f2012eff56f8
+source_path: ../sources/references.md
 ---
 
 # Sovereign signs: titles of kingship on Malay seals

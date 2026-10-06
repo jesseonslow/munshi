@@ -20,7 +20,9 @@ amendments: []
 status: stub
 published: false
 summarized: false
-source_mismatch: true
+source_mismatch: false
+source_doc: jmbras-242-roff-englishlanguagefictionrelating-1982-f3db42df240b
+source_path: ../sources/jmbras-242-roff-englishlanguagefictionrelating-1982-f3db42df240b.md
 ---
 
 # English-language fiction relating to Malaysia, Singapore and Brunei: a check-list

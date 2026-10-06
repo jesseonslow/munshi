@@ -19,7 +19,9 @@ amendments: []
 status: stub
 published: false
 summarized: false
-source_mismatch: true
+source_mismatch: false
+source_doc: jsbras-044-ridley-nestingdracofimbriatus-1905-174751799578
+source_path: ../sources/jsbras-044-ridley-nestingdracofimbriatus-1905-174751799578.md
 ---
 
 # Nesting of Draco fimbriatus

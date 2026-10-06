@@ -21,7 +21,9 @@ amendments: []
 status: stub
 published: false
 summarized: false
-source_mismatch: true
+source_mismatch: false
+source_doc: jsbras-039-blagden-comparativephilologysakai-1903-a7c3f1a2d35c
+source_path: ../sources/jsbras-039-blagden-comparativephilologysakai-1903-a7c3f1a2d35c.md
 ---
 
 # The comparative philology of the Sakai and Semang dialects of the Malay Peninsula – a review

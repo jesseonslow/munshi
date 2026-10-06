@@ -14,6 +14,8 @@ price: 0
 out_of_print: true
 status: stub
 published: false
+source_doc: glimpses-of-selangor-1860-1898-j-m-gullick-03e56b0ffa43
+source_path: ../sources/appendix.md
 ---
 
 # Glimpses of Selangor 1860 - 1898

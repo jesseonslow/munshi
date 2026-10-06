@@ -21,6 +21,8 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+source_doc: jmalayanras-104-dover-notesfaunapitcherplants-1928-d0063a51b63e
+source_path: ../sources/bibliography.md
 ---
 
 # Notes on the fauna of pitcher-plants from Singapore Island. C. Dover {and others

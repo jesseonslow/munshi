@@ -20,6 +20,8 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+source_doc: jsbras-003-pickering-chinesesecretsocieties-1879-caec74b2defd
+source_path: ../sources/jsbras-003-pickering-chinesesecretsocieties-1879-caec74b2defd.md
 ---
 
 # Chinese secret societies

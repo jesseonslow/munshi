@@ -20,7 +20,9 @@ amendments: []
 status: stub
 published: false
 summarized: false
-source_mismatch: true
+source_mismatch: false
+source_doc: jsbras-045-norman-notewildgoat-1906-80441af91308
+source_path: ../sources/jsbras-045-norman-notewildgoat-1906-80441af91308.md
 ---
 
 # Note on the wild goat of the Malay Peninsula

@@ -19,7 +19,9 @@ amendments: []
 status: stub
 published: false
 summarized: false
-source_mismatch: true
+source_mismatch: false
+source_doc: jsbras-060-maxwell-barrettoderesendes-1911-71476915223f
+source_path: ../sources/jsbras-060-maxwell-barrettoderesendes-1911-71476915223f.md
 ---
 
 # Barrretto de Resende’s account of Malacca

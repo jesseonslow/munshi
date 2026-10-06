@@ -18,6 +18,8 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: wayte-portweld-1959-f623f537e964
+source_path: ../sources/wayte-portweld-1959
 ---
 
 # Port Weld

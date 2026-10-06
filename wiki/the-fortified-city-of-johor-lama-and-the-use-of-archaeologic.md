@@ -20,6 +20,8 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-165-sieveking-investigationsjohorelama-1954-cb13fc7f04cc
+source_path: ../sources/jmalayanras-165-sieveking-investigationsjohorelama-1954-cb13fc7f04cc.md
 ---
 
 # The fortified city of Johor Lama and the use of archaeological evidence. {In Papers on Johor Lama and the Portuguese in Malaya, 1511–1641

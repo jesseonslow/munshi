@@ -19,7 +19,9 @@ amendments: []
 status: stub
 published: false
 summarized: false
-source_mismatch: true
+source_mismatch: false
+source_doc: jmbras-210-hussein-studytraditionalmalay-1966-09e8e2c0814d
+source_path: ../sources/jmbras-210-hussein-studytraditionalmalay-1966-09e8e2c0814d.md
 ---
 
 # The study of traditional Malay literature

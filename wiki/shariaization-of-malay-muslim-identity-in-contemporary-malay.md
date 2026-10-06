@@ -21,7 +21,9 @@ amendments: []
 status: stub
 published: false
 summarized: false
-source_mismatch: true
+source_mismatch: false
+source_doc: jmbras-315-hamid-shariaizationmalaymuslimidentity-2018-f6c113192941
+source_path: ../sources/references.md
 ---
 
 # Shariaization of Malay-Muslim identity in contemporary Malaysia

@@ -23,6 +23,8 @@ amendments: []
 status: stub
 published: false
 summarized: false
+source_doc: jmalayanras-155-middlebrook-yapahloy-1951-a226f54271a8
+source_path: ../sources/chapter-11.md
 ---
 
 # Yap Ah Loy, 1837–1885, with an introduction and three final chapters by J.M. Gullick (and notes on the text)

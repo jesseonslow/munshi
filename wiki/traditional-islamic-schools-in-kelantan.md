@@ -20,6 +20,8 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+source_doc: jmbras-227-winzeler-traditionalislamicschools-1975-bd55674320c7
+source_path: ../sources/jmbras-227-winzeler-traditionalislamicschools-1975-bd55674320c7.md
 ---
 
 # Traditional Islamic schools in Kelantan

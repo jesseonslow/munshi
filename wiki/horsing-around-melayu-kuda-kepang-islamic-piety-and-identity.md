@@ -22,6 +22,8 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+source_doc: jmbras-306-hardwick-horsingaroundmelayu-2014-ea93b01a2d2b
+source_path: ../sources/references.md
 ---
 
 # Horsing around Melayu: Kuda kepang, Islamic piety, and identity politics at play in Singapore’s Malay community

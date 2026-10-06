@@ -26,6 +26,8 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+source_doc: jmalayanras-143-gibsonhill-notescocoskeelingislands-1947-c651c698e7c4
+source_path: ../sources/appendix.md
 ---
 
 # Notes on the Cocos-Keeling Islands

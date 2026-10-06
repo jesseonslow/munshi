@@ -27,6 +27,8 @@ reprints:
   absorbed_slug: syers-and-the-selangor-police-1875-1897
 summarized: false
 source_mismatch: true
+source_doc: jmbras-234-gullick-syersselangorpolice-1978-f0edac1ade77
+source_path: ../sources/appendix.md
 ---
 
 # Syers and the Selangor Police, 1875–1897

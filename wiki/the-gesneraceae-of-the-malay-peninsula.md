@@ -19,7 +19,9 @@ amendments: []
 status: stub
 published: false
 summarized: false
-source_mismatch: true
+source_mismatch: false
+source_doc: jsbras-044-ridley-gesneraceaemalaypeninsula-1905-22935534b01f
+source_path: ../sources/jsbras-044-ridley-gesneraceaemalaypeninsula-1905-22935534b01f.md
 ---
 
 # The Gesneraceae of the Malay Peninsula

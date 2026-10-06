@@ -20,6 +20,8 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-313-hong-familynarrativesabandoned-2017-9bd3792d1128
+source_path: ../sources/references.md
 ---
 
 # Constructing Colonial Benevolence: Portraits of Persons with Leprosy in British Malaya

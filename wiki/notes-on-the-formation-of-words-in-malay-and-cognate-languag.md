@@ -19,7 +19,9 @@ amendments: []
 status: stub
 published: false
 summarized: false
-source_mismatch: true
+source_mismatch: false
+source_doc: jsbras-039-luering-notesformationwords-1903-53f57e78ef1f
+source_path: ../sources/jsbras-039-luering-notesformationwords-1903-53f57e78ef1f.md
 ---
 
 # Notes on the formation of words in Malay and cognate languages

@@ -20,6 +20,8 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+source_doc: jmbras-218-ahmat-structureeconomykedah-1970-1debfeb90543
+source_path: ../sources/appendix.md
 ---
 
 # The structure of the economy of Kedah, 1879–1905

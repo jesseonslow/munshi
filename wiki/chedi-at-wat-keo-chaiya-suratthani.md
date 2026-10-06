@@ -19,7 +19,9 @@ amendments: []
 status: stub
 published: false
 summarized: false
-source_mismatch: true
+source_mismatch: false
+source_doc: jmbras-238-diskul-chediwatkeo-1980-987585189540
+source_path: ../sources/bibliography.md
 ---
 
 # Chedi at Wat Keo, Chaiya, Suratthani

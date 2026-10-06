@@ -21,7 +21,9 @@ amendments: []
 status: stub
 published: false
 summarized: false
-source_mismatch: true
+source_mismatch: false
+source_doc: jmbras-225-harrisson-megalithiceastmalaysia-1974-e7a257c8bbfd
+source_path: ../sources/jmbras-225-harrisson-megalithiceastmalaysia-1974-e7a257c8bbfd.md
 ---
 
 # The megaliths in East Malaysia II: stone urns from the Kelabit Highlands, Sarawak

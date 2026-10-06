@@ -20,6 +20,8 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+source_doc: jsbras-025-lake-journeysourceindau-1894-bf2e22e00c9f
+source_path: ../sources/jsbras-025-lake-journeysourceindau-1894-bf2e22e00c9f.md
 ---
 
 # A journey to the source of the Indau

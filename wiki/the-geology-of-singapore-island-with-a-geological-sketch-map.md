@@ -20,6 +20,8 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+source_doc: jmalayanras-090-scrivenor-geologysingaporeisland-1924-1f565a8e4451
+source_path: ../sources/jmalayanras-090-scrivenor-geologysingaporeisland-1924-1f565a8e4451.md
 ---
 
 # The geology of Singapore Island; with a geological sketch map

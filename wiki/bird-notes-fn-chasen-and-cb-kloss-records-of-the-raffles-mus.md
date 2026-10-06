@@ -23,6 +23,8 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+source_doc: jmalayanras-093-chasen-birdnotes-1925-d85e98306a31
+source_path: ../sources/jmalayanras-093-chasen-birdnotes-1925-d85e98306a31.md
 ---
 
 # Bird notes. F.N. Chasen and C.B. Kloss. Records of the Raffles Museum, No. 13

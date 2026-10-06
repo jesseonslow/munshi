@@ -18,6 +18,9 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-293-ii-commentscurrentissues-2007-9dd06a50d1ce
+source_path: ../sources/jmbras-293-ii-commentscurrentissues-2007-9dd06a50d1ce.md
+source_mismatch: false
 ---
 
 # Comments on Nik Hassan Nik Abdul Rahman’s article in MB 80(1

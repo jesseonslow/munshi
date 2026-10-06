@@ -19,7 +19,9 @@ amendments: []
 status: stub
 published: false
 summarized: false
-source_mismatch: true
+source_mismatch: false
+source_doc: jmbras-216-colless-persianmerchantsmissionaries-1969-3917b52876c0
+source_path: ../sources/bibliography.md
 ---
 
 # Persian merchants and missionaries in medieval Malaya

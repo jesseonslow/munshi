@@ -31,7 +31,9 @@ keywords:
 - '![Three Early 17th-century Maps by Manuel Godinho de Erédia'
 - 'Author(s): Peter Borschberg](assets/p1_img0.jpg)'
 - '![Figure](assets/p1_img1.jpg)'
-source_mismatch: true
+source_mismatch: false
+source_doc: jmbras-316-luyt-producingmalaya-2019-77f560663adb
+source_path: ../sources/references.md
 ---
 
 # Producing Malaya : the photography of Carl A. Gibson-Hill

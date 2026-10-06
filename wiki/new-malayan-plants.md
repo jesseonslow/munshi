@@ -19,7 +19,9 @@ amendments: []
 status: stub
 published: false
 summarized: false
-source_mismatch: true
+source_mismatch: false
+source_doc: jsbras-041-ridley-newmalayanplants-1904-47b49ef58f1d
+source_path: ../sources/jsbras-041-ridley-newmalayanplants-1904-47b49ef58f1d.md
 ---
 
 # New Malayan plants

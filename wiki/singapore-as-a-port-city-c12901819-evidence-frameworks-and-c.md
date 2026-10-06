@@ -21,6 +21,8 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+source_doc: jmbras-314-borschberg-singaporeportcity-2018-bd1b50c08e79
+source_path: ../sources/references.md
 ---
 
 # Singapore as a port city, c.1290–1819: evidence, frameworks and challenges

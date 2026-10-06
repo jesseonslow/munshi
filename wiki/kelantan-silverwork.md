@@ -20,6 +20,8 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+source_doc: jmalayanras-154-hill-kelantansilverwork-1951-eee39ceb6cf6
+source_path: ../sources/references.md
 ---
 
 # Kelantan silverwork

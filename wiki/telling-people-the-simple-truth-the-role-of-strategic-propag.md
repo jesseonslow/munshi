@@ -22,6 +22,8 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+source_doc: jmbras-282-ramakrishna-tellingsimplepeople-2002-64703e9f264b
+source_path: ../sources/references.md
 ---
 
 # ‘Telling people the simple truth’: the role of strategic propaganda in the Malayan Emergency

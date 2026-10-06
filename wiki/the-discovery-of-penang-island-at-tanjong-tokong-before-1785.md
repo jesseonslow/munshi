@@ -21,7 +21,9 @@ amendments: []
 status: stub
 published: false
 summarized: false
-source_mismatch: true
+source_mismatch: false
+source_doc: jmbras-304-karim-discoverypenangisland-2013-baad1d60259c
+source_path: ../sources/references.md
 ---
 
 # The ‘discovery’ of Penang Island at Tanjong Tokong before 1785: Bapu Alaidin Meera Hussein Lebai and Captain Francis Light

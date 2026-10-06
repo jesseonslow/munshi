@@ -23,6 +23,8 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+source_doc: jmalayanras-170-macgregor-notesportuguesemalaya-1955-2c137a36ded1
+source_path: ../sources/appendix.md
 ---
 
 # Papers on Johore Lama and the Portuguese in Malaya (1511–1641). C.A. Gibson-Hill {and} G. de G. Sieveking

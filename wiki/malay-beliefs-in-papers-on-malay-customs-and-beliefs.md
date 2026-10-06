@@ -20,6 +20,8 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+source_doc: jmalayanras-180-wilkinson-papersmalaycustoms-1957-309d9f59743a
+source_path: ../sources/appendices.md
 ---
 
 # Malay beliefs. {In Papers on Malay customs and beliefs

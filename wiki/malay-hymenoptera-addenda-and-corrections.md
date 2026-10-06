@@ -18,6 +18,8 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-041-cameron-erratahymenopteracollected-1904-c57b8e586345
+source_path: ../sources/jsbras-041-cameron-erratahymenopteracollected-1904-c57b8e586345.md
 ---
 
 # Malay Hymenoptera: addenda and corrections

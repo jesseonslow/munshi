@@ -20,6 +20,8 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+source_doc: jmbras-290-gullick-fallriseklang-2006-41ac22e89996
+source_path: ../sources/references.md
 ---
 
 # The fall and rise of Klang, 1867–1900

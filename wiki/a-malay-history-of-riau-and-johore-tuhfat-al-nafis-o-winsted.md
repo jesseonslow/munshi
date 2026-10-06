@@ -22,6 +22,8 @@ published: false
 summarized: false
 publication_type: translation
 source_mismatch: true
+source_doc: jmalayanras-114-winstedt-malayhistoryriau-1932-35051635efca
+source_path: ../sources/jmalayanras-114-winstedt-malayhistoryriau-1932-35051635efca.md
 ---
 
 # A Malay history of Riau and Johore {Tuhfat-al-Nafis}. .O. Winstedt {Jawi

@@ -18,6 +18,8 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-154-wodak-medalsconnectedsiam-1951-a53e0be739bb
+source_path: ../sources/jmalayanras-154-wodak-medalsconnectedsiam-1951-a53e0be739bb.md
 ---
 
 # Some coins and tokens of Malaya

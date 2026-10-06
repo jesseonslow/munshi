@@ -18,6 +18,8 @@ amendments: []
 status: stub
 published: false
 publication_type: note
+source_doc: jsbras-063-moulton-expeditionmountbatu-1912-94eae97ebac5
+source_path: ../sources/appendix.md
 ---
 
 # A new Gryllacrid

@@ -21,7 +21,9 @@ amendments: []
 status: stub
 published: false
 summarized: false
-source_mismatch: true
+source_mismatch: false
+source_doc: jmbras-273-bressan-odoricpordenone12651331-1997-03dd922ea958
+source_path: ../sources/appendix.md
 ---
 
 # Odoric of Pordenone (1265–1331): his vision of China and South-East Asia and his contribution to relations between Asia and Europe

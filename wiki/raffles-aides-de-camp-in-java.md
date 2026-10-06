@@ -20,6 +20,8 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+source_doc: jmbras-262-bastin-rafflesaidesdecampjava-1992-d10c601176e4
+source_path: ../sources/jmbras-262-bastin-rafflesaidesdecampjava-1992-d10c601176e4.md
 ---
 
 # Raffles’ aides-de-camp in Java

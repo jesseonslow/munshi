@@ -20,6 +20,8 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+source_doc: jsbras-004-raffles-maritimecodemalays-1879-1d102e52561d
+source_path: ../sources/jsbras-004-raffles-maritimecodemalays-1879-1d102e52561d.md
 ---
 
 # The maritime code of the Malays

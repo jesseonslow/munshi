@@ -20,6 +20,8 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+source_doc: jmalayanras-151-winstedt-mandulikasungaiujong-1950-305a5418d4fa
+source_path: ../sources/references.md
 ---
 
 # The Mandulika of Sungai Ujong

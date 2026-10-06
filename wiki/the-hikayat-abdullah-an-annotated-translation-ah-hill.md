@@ -21,6 +21,8 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+source_doc: jmalayanras-171-hill-hikayatabdullah-1955-d1eb4a162df9
+source_path: ../sources/index.md
 ---
 
 # The Hikayat Abdullah; an annotated translation. A.H. Hill

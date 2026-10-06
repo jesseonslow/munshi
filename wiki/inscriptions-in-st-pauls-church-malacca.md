@@ -19,7 +19,9 @@ amendments: []
 status: stub
 published: false
 summarized: false
-source_mismatch: true
+source_mismatch: false
+source_doc: jsbras-034-merewether-inscriptionsstpauls-1900-905f891e09b9
+source_path: ../sources/jsbras-034-merewether-inscriptionsstpauls-1900-905f891e09b9.md
 ---
 
 # Inscriptions in St. Paul’s Church, Malacca

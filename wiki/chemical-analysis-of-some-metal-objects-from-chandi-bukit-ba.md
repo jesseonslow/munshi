@@ -21,7 +21,9 @@ amendments: []
 status: stub
 published: false
 summarized: false
-source_mismatch: true
+source_mismatch: false
+source_doc: jmbras-213-treloar-chemicalanalysismetal-1968-d764a460e1b2
+source_path: ../sources/references.md
 ---
 
 # Chemical analysis of some metal objects from Chandi Bukit Batu Pahat, Kedah: suggested origin and date

@@ -22,6 +22,8 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+source_doc: jmalayanras-184-wright-moluccanspicemonopoly-1958-4a875899c54a
+source_path: ../sources/index.md
 ---
 
 # The Moluccan spice monopoly, 1770–1824. Passages concerning Bencoolen written in collaboration with J. Bastin

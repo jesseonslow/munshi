@@ -19,7 +19,9 @@ amendments: []
 status: stub
 published: false
 summarized: false
-source_mismatch: true
+source_mismatch: false
+source_doc: jsbras-078-hanitsch-serowannam-1918-a9a50d1b8450
+source_path: ../sources/jsbras-078-hanitsch-serowannam-1918-a9a50d1b8450.md
 ---
 
 # On a serow from Annam

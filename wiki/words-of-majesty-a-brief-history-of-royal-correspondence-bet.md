@@ -22,6 +22,8 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+source_doc: jmbras-312-morel-wordsmajesty-2017-e171cdb0c00e
+source_path: ../sources/references.md
 ---
 
 # Words of majesty: a brief history of royal correspondence between England and Asia, 1600–1858

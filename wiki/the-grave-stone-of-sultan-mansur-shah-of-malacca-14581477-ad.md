@@ -19,7 +19,9 @@ amendments: []
 status: stub
 published: false
 summarized: false
-source_mismatch: true
+source_mismatch: false
+source_doc: jsbras-085-moquette-gravestonesultanmansur-1922-962f245b5d2d
+source_path: ../sources/jsbras-085-moquette-gravestonesultanmansur-1922-962f245b5d2d.md
 ---
 
 # The grave-stone of Sultan Mansur Shah of Malacca (1458–1477 A.D.

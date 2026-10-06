@@ -20,7 +20,9 @@ amendments: []
 status: stub
 published: false
 summarized: false
-source_mismatch: true
+source_mismatch: false
+source_doc: jmbras-311-jones-wordbugis-2016-da4b4e44ac1e
+source_path: ../sources/jmbras-311-jones-wordbugis-2016-da4b4e44ac1e.md
 ---
 
 # The word Bugis

@@ -19,6 +19,8 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-015-miscellaneous-1885-40d0199d401
+source_path: ../sources/jsbras-015-miscellaneous-1885-40d0199d401.md
 ---
 
 # Malay superstitions. NQ 2: 53–54

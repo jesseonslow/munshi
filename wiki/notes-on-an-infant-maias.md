@@ -20,7 +20,9 @@ amendments: []
 status: stub
 published: false
 summarized: false
-source_mismatch: true
+source_mismatch: false
+source_doc: jsbras-026-haviland-notesinfantmaias-1894-7fa51472a431
+source_path: ../sources/jsbras-026-haviland-notesinfantmaias-1894-7fa51472a431.md
 ---
 
 # Notes on an infant maias

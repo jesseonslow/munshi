@@ -20,6 +20,8 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+source_doc: jmbras-277-barlow-foreword-1999-f10b201180c9
+source_path: ../sources/jmbras-277-barlow-foreword-1999-f10b201180c9.md
 ---
 
 # Foreword (J.M. Gullick Festschrift)

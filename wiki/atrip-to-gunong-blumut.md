@@ -20,6 +20,8 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+source_doc: jsbras-003-hervey-tripgunongblumut-1879-fe8df36bda82
+source_path: ../sources/jsbras-003-hervey-tripgunongblumut-1879-fe8df36bda82.md
 ---
 
 # Atrip to Gunong Blumut

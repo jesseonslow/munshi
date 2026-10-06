@@ -20,6 +20,8 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+source_doc: jmalayanras-105-linehan-notesremainsancient-1928-223662b04782
+source_path: ../sources/jmalayanras-105-linehan-notesremainsancient-1928-223662b04782.md
 ---
 
 # Notes on the remains of some ancient brick structures in Pekan district

@@ -22,6 +22,8 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+source_doc: jmalayanras-182-gungwu-nanhaitradestudy-1958-48ea3450604b
+source_path: ../sources/appendix.md
 ---
 
 # The Nanhai trade: a study of the early history of Chinese trade in the South China Sea

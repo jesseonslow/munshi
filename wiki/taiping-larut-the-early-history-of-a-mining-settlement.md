@@ -20,6 +20,8 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+source_doc: jmbras-260-kim-taipinglarutearly-1991-ac1
+source_path: ../sources/jmbras-260-kim-taipinglarutearly-1991-ac1.md
 ---
 
 # Taiping (Larut): the early history of a mining settlement

@@ -21,6 +21,8 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+source_doc: jmalayanras-142-wales-workindiansites-1947-796038e7
+source_path: ../sources/jmalayanras-142-wales-workindiansites-1947-796038e7.md
 ---
 
 # Further work on Indian sites in Malaya

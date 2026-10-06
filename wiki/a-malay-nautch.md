@@ -18,6 +18,8 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-002-swettenham-malaynautch-1878-a2286131b62e
+source_path: ../sources/jsbras-002-swettenham-malaynautch-1878-a2286131b62e.md
 ---
 
 # A Malay nautch

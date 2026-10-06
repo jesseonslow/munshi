@@ -19,7 +19,9 @@ amendments: []
 status: stub
 published: false
 summarized: false
-source_mismatch: true
+source_mismatch: false
+source_doc: jmbras-295-gullick-makingmonarchraja-2008-ebddf4a30773
+source_path: ../sources/references.md
 ---
 
 # The making of a monarch: Raja Muda Sulaiman of Selangor 1865-98

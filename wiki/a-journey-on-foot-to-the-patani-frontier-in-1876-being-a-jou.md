@@ -21,7 +21,9 @@ amendments: []
 status: stub
 published: false
 summarized: false
-source_mismatch: true
+source_mismatch: false
+source_doc: jsbras-009-maxwell-journeyfootpatani-1882-d318a9f1d4e5
+source_path: ../sources/jsbras-009-maxwell-journeyfootpatani-1882-d318a9f1d4e5.md
 ---
 
 # A journey on foot to the Patani frontier in 1876; being a journal kept an expedition undertaken to capture Datoh Maharaja Lela of Perak

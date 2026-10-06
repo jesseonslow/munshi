@@ -18,6 +18,8 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-016-botanymalay-1885-4384b302c0c7
+source_path: ../sources/jsbras-016-botanymalay-1885-4384b302c0c7.md
 ---
 
 # The Lagundi. NQ 3: 61

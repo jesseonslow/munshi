@@ -20,6 +20,8 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+source_doc: jmalayanras-090-stirling-chineseexorcists-1924-1a3463c385cc
+source_path: ../sources/jmalayanras-090-stirling-chineseexorcists-1924-1a3463c385cc.md
 ---
 
 # Chinese exorcists

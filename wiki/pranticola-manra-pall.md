@@ -18,6 +18,8 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-044-kloss-occasionalnotes-1905-716c4ddf8809
+source_path: ../sources/jsbras-044-kloss-occasionalnotes-1905-716c4ddf8809.md
 ---
 
 # Pranticola manra (Pall.

@@ -20,6 +20,8 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+source_doc: jsbras-009-maxwell-transliterationmalayroman-1882-6ab4d8596aa4
+source_path: ../sources/jsbras-009-maxwell-transliterationmalayroman-1882-6ab4d8596aa4.md
 ---
 
 # On the transliteration of Malay in the roman character

@@ -20,6 +20,8 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+source_doc: jmbras-227-king-stonesmalohindonesian-1975-125b213eaf63
+source_path: ../sources/jmbras-227-king-stonesmalohindonesian-1975-125b213eaf63.md
 ---
 
 # Stones and the Maloh of Indonesian West Borneo

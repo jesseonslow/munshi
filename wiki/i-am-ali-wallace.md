@@ -31,7 +31,9 @@ keywords:
 - Malay magic
 - shamanism
 - © Malaysian Branch of the Royal Asiatic Society
-source_mismatch: true
+source_mismatch: false
+source_doc: jmbras-308-wyhe-ialiwallace-2015-92795a8d2138
+source_path: ../sources/references.md
 ---
 
 # ‘I am Ali Wallace‘: The Malay Assistant of Alfred Russel Wallace

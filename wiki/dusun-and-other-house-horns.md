@@ -21,6 +21,8 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+source_doc: jmalayanras-154-evans-dusunhousehorns-1951-7ee073ea23c7
+source_path: ../sources/jmalayanras-154-evans-dusunhousehorns-1951-7ee073ea23c7.md
 ---
 
 # Dusun and other “house horns”

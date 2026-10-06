@@ -27,7 +27,9 @@ amendments:
 status: stub
 published: false
 summarized: false
-source_mismatch: true
+source_mismatch: false
+source_doc: jsbras-081-burkill-notesdipterocarpsno-1920-1-1a818d76cde3
+source_path: ../sources/jsbras-081-burkill-notesdipterocarpsno-1920-1-1a818d76cde3.md
 ---
 
 # Notes on Dipterocarps. {No. 5} On the embryo, seedling and position of the flowers in various species

@@ -22,6 +22,8 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+source_doc: jmbras-265-suwannathatpian-thronesclaimantsrulers-1993-618e8b522285
+source_path: ../sources/jmbras-265-suwannathatpian-thronesclaimantsrulers-1993-618e8b522285.md
 ---
 
 # Thrones, claims, claimants, rulers and rules: problems of succession in the Malay Sultanates

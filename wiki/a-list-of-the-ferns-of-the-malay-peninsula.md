@@ -19,7 +19,9 @@ amendments: []
 status: stub
 published: false
 summarized: false
-source_mismatch: true
+source_mismatch: false
+source_doc: jsbras-050-ridley-listfernsmalay-1908-34d63a703d1e
+source_path: ../sources/jsbras-050-ridley-listfernsmalay-1908-34d63a703d1e.md
 ---
 
 # A list of the ferns of the Malay Peninsula

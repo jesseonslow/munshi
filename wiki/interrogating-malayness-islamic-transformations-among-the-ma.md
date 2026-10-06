@@ -21,7 +21,9 @@ amendments: []
 status: stub
 published: false
 summarized: false
-source_mismatch: true
+source_mismatch: false
+source_doc: jmbras-306-sloanewhite-interrogatingmalayness-2014-8af467a3658e
+source_path: ../sources/references.md
 ---
 
 # Interrogating ‘Malayness’: Islamic transformations among the Malay College Kuala Kangsar (MCKK) cohort

@@ -22,6 +22,8 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+source_doc: jmbras-222-allen-johore1901-1972-c98cdf5e7040
+source_path: ../sources/jmbras-222-allen-johore1901-1972-c98cdf5e7040.md
 ---
 
 # Johore 1901–1914: the railway concession; the Johore Advisory Board: Swettenham’s resignation and the first General Adviser

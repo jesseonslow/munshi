@@ -22,7 +22,9 @@ amendments: []
 status: stub
 published: false
 summarized: false
-source_mismatch: true
+source_mismatch: false
+source_doc: jmbras-318-karuppannan-malaysiaindonesiakonfrontasi-2020-95a08888896c
+source_path: ../sources/references.md
 ---
 
 # Malaysia-Indonesia Konfrontasi : the struggle for influence in the Middle East. I. Karuppannan and Shakila Yacob

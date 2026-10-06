@@ -19,7 +19,9 @@ amendments: []
 status: stub
 published: false
 summarized: false
-source_mismatch: true
+source_mismatch: false
+source_doc: jmbras-241-winzeler-ruralchinesekelantan-1981-b3186d04f0fb
+source_path: ../sources/jmbras-241-winzeler-ruralchinesekelantan-1981-b3186d04f0fb.md
 ---
 
 # The rural Chinese of the Kelantan plain

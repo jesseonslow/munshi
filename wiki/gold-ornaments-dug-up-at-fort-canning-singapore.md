@@ -20,6 +20,8 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+source_doc: jmalayanras-105-winstedt-goldornamentsdug-1928-80c5c6e5e5d2
+source_path: ../sources/jmalayanras-105-winstedt-goldornamentsdug-1928-80c5c6e5e5d2.md
 ---
 
 # Gold ornaments dug up at Fort Canning, Singapore

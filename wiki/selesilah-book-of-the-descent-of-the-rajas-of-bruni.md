@@ -20,6 +20,8 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+source_doc: jsbras-005-low-slslahbookdescent-1880-1009489390e7
+source_path: ../sources/jsbras-005-low-slslahbookdescent-1880-1009489390e7.md
 ---
 
 # Selesilah: book of the descent of the Rajas of Bruni

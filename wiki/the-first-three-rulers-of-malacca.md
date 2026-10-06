@@ -18,6 +18,8 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-213-gungwu-firstthreerulers-1968-71e385f2f3c7
+source_path: ../sources/jmbras-213-gungwu-firstthreerulers-1968-71e385f2f3c7.md
 ---
 
 # The first three rulers of Malacca

@@ -22,6 +22,8 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+source_doc: jmbras-247-osullivan-londonmissionarysociety-1984-d411e94aa7dd
+source_path: ../sources/jmbras-247-osullivan-londonmissionarysociety-1984-d411e94aa7dd.md
 ---
 
 # The London Missionary Society: a written record of missionaries and printing presses in the Straits Settlements 1815–1847

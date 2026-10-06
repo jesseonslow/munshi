@@ -19,7 +19,9 @@ amendments: []
 status: stub
 published: false
 summarized: false
-source_mismatch: true
+source_mismatch: false
+source_doc: jsbras-067-humphreys-collectionmalayproverbs-1914-0366ce88978f
+source_path: ../sources/jsbras-067-humphreys-collectionmalayproverbs-1914-0366ce88978f.md
 ---
 
 # A collection of Malay proverbs

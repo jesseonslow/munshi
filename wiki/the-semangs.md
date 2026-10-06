@@ -17,6 +17,8 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-002-semangs-1878-04e3f4f46687
+source_path: ../sources/jsbras-002-semangs-1878-04e3f4f46687.md
 ---
 
 # The Semangs

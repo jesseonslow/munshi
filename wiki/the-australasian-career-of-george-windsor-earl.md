@@ -20,6 +20,8 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+source_doc: jmbras-263-reece-australasiancareergeorge-1992-7277e692359e
+source_path: ../sources/references.md
 ---
 
 # The Australasian career of George Windsor Earl

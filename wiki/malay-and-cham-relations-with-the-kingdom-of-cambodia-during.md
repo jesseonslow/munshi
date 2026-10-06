@@ -22,6 +22,8 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+source_doc: jmbras-281-musa-malaychamrelations-2001-2335862ab840
+source_path: ../sources/references.md
 ---
 
 # Malay and Cham relations with the kingdom of Cambodia during and after the French protectorate (1863–2000

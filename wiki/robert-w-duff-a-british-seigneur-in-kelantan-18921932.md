@@ -20,6 +20,8 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+source_doc: jmbras-272-levos-robertwduff-1997-869db772219e
+source_path: ../sources/bibliography.md
 ---
 
 # Robert W. Duff: a British seigneur in Kelantan, 1892–1932

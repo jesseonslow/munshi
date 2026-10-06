@@ -20,6 +20,8 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+source_doc: jmalayanras-173-gibsonhill-rafflesachehorder-1956-fd18e1d555fd
+source_path: ../sources/jmalayanras-173-gibsonhill-rafflesachehorder-1956-fd18e1d555fd.md
 ---
 
 # Raffles, Acheh and the Order of the Golden Sword

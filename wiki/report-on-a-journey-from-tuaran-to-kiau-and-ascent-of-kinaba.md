@@ -28,6 +28,8 @@ keywords:
 - Onn bin Jaafar
 - Tunku Abdul Rahman Putra
 source_mismatch: true
+source_doc: jsbras-019-little-reportjourneytuaran-1887-3ba533dadd42
+source_path: ../sources/jsbras-019-little-reportjourneytuaran-1887-3ba533dadd42.md
 ---
 
 # Report on a journey from Tuaran to Kiau and ascent of Kinabalu Mountain

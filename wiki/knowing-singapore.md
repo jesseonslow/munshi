@@ -15,6 +15,8 @@ price: 0
 out_of_print: true
 status: stub
 published: false
+source_doc: khoo-borschberg-compendia-entries-on-singapore-and-the-straits-region-e3f1ad999936
+source_path: ../sources/khoo-borschberg-compendia-entries-on-singapore-and-the-straits-region-e3f1ad999936.md
 ---
 
 # Knowing Singapore

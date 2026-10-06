@@ -20,6 +20,8 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+source_doc: jmbras-250-kim-peraksultanateancient-1986-9c0d34486e24
+source_path: ../sources/jmbras-250-kim-peraksultanateancient-1986-9c0d34486e24.md
 ---
 
 # The Perak Sultanate: ancient and modern

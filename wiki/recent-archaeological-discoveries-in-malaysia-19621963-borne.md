@@ -20,6 +20,8 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+source_doc: jmbras-206-harrison-recentarchaeologicaldiscoveries-1964-133c44acc366
+source_path: ../sources/jmbras-206-harrison-recentarchaeologicaldiscoveries-1964-133c44acc366.md
 ---
 
 # Recent archaeological discoveries in Malaysia 1962–1963: Borneo,

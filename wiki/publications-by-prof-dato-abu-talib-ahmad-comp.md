@@ -20,6 +20,8 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+source_doc: kratoska-publications-by-prof-dato-abu-talib-ahmad-d6673132e248
+source_path: ../sources/kratoska-publications-by-prof-dato-abu-talib-ahmad-d6673132e248.md
 ---
 
 # Publications by Prof. Dato Abu Talib Ahmad (comp

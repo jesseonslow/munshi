@@ -20,7 +20,9 @@ amendments: []
 status: stub
 published: false
 summarized: false
-source_mismatch: true
+source_mismatch: false
+source_doc: jmbras-267-hickling-progressmalaysianlaw-1994-f4888b8bf592
+source_path: ../sources/jmbras-267-hickling-progressmalaysianlaw-1994-f4888b8bf592.md
 ---
 
 # The progress of Malaysian law. Annual lecture delivered on 6 December, 1994

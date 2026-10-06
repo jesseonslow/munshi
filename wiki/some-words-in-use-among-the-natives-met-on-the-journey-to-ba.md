@@ -18,6 +18,8 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-063-moulton-expeditionmountbatu-1912-94eae97ebac5
+source_path: ../sources/appendix.md
 ---
 
 # Some words in use among the natives met on the journey to Batu Lawi

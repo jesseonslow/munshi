@@ -20,6 +20,8 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+source_doc: jmalayanras-177-tibbetts-earlymuslimtraders-1957-0cbab7d418ec
+source_path: ../sources/bibliography.md
 ---
 
 # Early Muslim traders in South-East Asia

@@ -21,6 +21,8 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+source_doc: jmalayanras-094-mills-britishmalaya18241867-1925-562e603de16d
+source_path: ../sources/bibliography.md
 ---
 
 # British Malaya, 1824–1867. L.A. Mills. With an appendix C.O. Blagden

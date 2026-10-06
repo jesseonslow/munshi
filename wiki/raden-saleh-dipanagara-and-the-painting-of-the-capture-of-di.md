@@ -21,7 +21,9 @@ amendments: []
 status: stub
 published: false
 summarized: false
-source_mismatch: true
+source_mismatch: false
+source_doc: jmbras-242-carey-radensalehdipanagara-1982-35cdbc201f9a
+source_path: ../sources/appendix.md
 ---
 
 # Raden Saleh, Dipanagara and the painting of the capture of Dipanagara at Magelang (28 March 1830

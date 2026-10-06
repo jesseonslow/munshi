@@ -19,7 +19,9 @@ status: stub
 published: false
 summarized: false
 publication_type: translation
-source_mismatch: true
+source_mismatch: false
+source_doc: jsbras-066-mead-romanizedversionhikayat-1914-68c0973db238
+source_path: ../sources/jsbras-066-mead-romanizedversionhikayat-1914-68c0973db238.md
 ---
 
 # A romanized version of the Hikayat Raja-Raja Pasai

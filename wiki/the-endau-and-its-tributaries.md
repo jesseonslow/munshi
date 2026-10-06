@@ -20,6 +20,8 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+source_doc: jsbras-008-hervey-ndautributaries-1881-db65358dedf4
+source_path: ../sources/jsbras-008-hervey-ndautributaries-1881-db65358dedf4.md
 ---
 
 # The Endau and its tributaries

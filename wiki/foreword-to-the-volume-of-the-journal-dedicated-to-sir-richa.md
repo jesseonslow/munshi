@@ -19,7 +19,9 @@ amendments: []
 status: stub
 published: false
 summarized: false
-source_mismatch: true
+source_mismatch: false
+source_doc: jmbras-212-kamil-foreword-1967-a4f49e499cb7
+source_path: ../sources/jmbras-212-kamil-foreword-1967-a4f49e499cb7.md
 ---
 
 # Foreword {to the volume of the journal dedicated to Sir Richard Winstedt

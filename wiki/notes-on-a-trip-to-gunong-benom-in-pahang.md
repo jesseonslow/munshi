@@ -19,7 +19,9 @@ amendments: []
 status: stub
 published: false
 summarized: false
-source_mismatch: true
+source_mismatch: false
+source_doc: jsbras-039-barnes-notestripgunong-1903-e81f9afc5774
+source_path: ../sources/jsbras-039-barnes-notestripgunong-1903-e81f9afc5774.md
 ---
 
 # Notes on a trip to Gunong Benom in Pahang

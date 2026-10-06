@@ -20,6 +20,8 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+source_doc: jmalayanras-201-allen-colonialofficemalay-1963-22959d952730
+source_path: ../sources/jmalayanras-201-allen-colonialofficemalay-1963-22959d952730.md
 ---
 
 # The Colonial Office and the Malay States, 1867–73

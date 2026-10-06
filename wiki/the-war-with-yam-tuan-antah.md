@@ -20,6 +20,8 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+source_doc: jmalayanras-165-gullick-waryamtuan-1954-ac46e2860431
+source_path: ../sources/jmalayanras-165-gullick-waryamtuan-1954-ac46e2860431.md
 ---
 
 # The war with Yam Tuan Antah

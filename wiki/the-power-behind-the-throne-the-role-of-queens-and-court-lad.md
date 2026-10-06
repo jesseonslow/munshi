@@ -22,6 +22,8 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+source_doc: jmbras-264-kheng-powerbehindthrone-1993-d0fe4f1e6ae1
+source_path: ../sources/jmbras-264-kheng-powerbehindthrone-1993-d0fe4f1e6ae1.md
 ---
 
 # The power behind the throne: the role of queens and court ladies in Malay history

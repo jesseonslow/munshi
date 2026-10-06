@@ -20,7 +20,9 @@ amendments: []
 status: stub
 published: false
 summarized: false
-source_mismatch: true
+source_mismatch: false
+source_doc: jsbras-057-blagden-hermanusneubronnervan-1911-c011419ca519
+source_path: ../sources/jsbras-057-blagden-hermanusneubronnervan-1911-c011419ca519.md
 ---
 
 # Hermanus Neubronner Van Der Tuuk

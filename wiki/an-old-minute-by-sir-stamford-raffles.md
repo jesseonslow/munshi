@@ -20,6 +20,8 @@ published: false
 summarized: false
 publication_type: document
 source_mismatch: true
+source_doc: jsbras-024-obrien-oldminutesir-1891-51efa8e43794
+source_path: ../sources/jsbras-024-obrien-oldminutesir-1891-51efa8e43794.md
 ---
 
 # An old minute by Sir Stamford Raffles

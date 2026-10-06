@@ -18,6 +18,8 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-009-dennys-naturalhistorynotes-1882-7dee44ea6627
+source_path: ../sources/jsbras-009-dennys-naturalhistorynotes-1882-7dee44ea6627.md
 ---
 
 # Flying lizard

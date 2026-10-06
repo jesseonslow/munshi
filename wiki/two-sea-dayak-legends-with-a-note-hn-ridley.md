@@ -20,6 +20,8 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+source_doc: jsbras-041-gomes-twoseadyaklegends-1904-1eb86d74392b
+source_path: ../sources/jsbras-041-gomes-twoseadyaklegends-1904-1eb86d74392b.md
 ---
 
 # Two Sea-Dayak legends. {With a note H.N. Ridley

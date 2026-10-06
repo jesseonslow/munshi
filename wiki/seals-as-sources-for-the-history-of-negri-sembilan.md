@@ -19,7 +19,9 @@ amendments: []
 status: stub
 published: false
 summarized: false
-source_mismatch: true
+source_mismatch: false
+source_doc: jmbras-305-gallop-sealssourceshistory-2013-4fc3a435808e
+source_path: ../sources/references.md
 ---
 
 # Seals as sources for the history of Negri Sembilan

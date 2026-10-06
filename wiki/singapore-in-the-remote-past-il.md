@@ -19,7 +19,9 @@ amendments: []
 status: stub
 published: false
 summarized: false
-source_mismatch: true
+source_mismatch: false
+source_doc: jmbras-221-yntsiao-singaporeremotepast-1972-1234bf5874ca
+source_path: ../sources/jmbras-221-yntsiao-singaporeremotepast-1972-1234bf5874ca.md
 ---
 
 # Singapore in the remote past. Il

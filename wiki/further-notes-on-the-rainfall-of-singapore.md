@@ -19,7 +19,9 @@ amendments: []
 status: stub
 published: false
 summarized: false
-source_mismatch: true
+source_mismatch: false
+source_doc: jsbras-015-wheatley-notesrainfallsingapore-1885-cac756ed59bd
+source_path: ../sources/jsbras-015-wheatley-notesrainfallsingapore-1885-cac756ed59bd.md
 ---
 
 # Further notes on the rainfall of Singapore

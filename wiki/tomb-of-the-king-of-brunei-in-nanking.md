@@ -20,6 +20,8 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+source_doc: jmbras-245-suffian-tombtheking-1983-4f5c58946ef6
+source_path: ../sources/jmbras-245-suffian-tombtheking-1983-4f5c58946ef6.md
 ---
 
 # Tomb of “The King of Brunei” in Nanking

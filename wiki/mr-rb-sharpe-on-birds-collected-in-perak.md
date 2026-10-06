@@ -20,6 +20,8 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+source_doc: jsbras-021-mrrb-1890-6aa64516851c
+source_path: ../sources/jsbras-021-mrrb-1890-6aa64516851c.md
 ---
 
 # Mr. R.B. Sharpe on birds collected in Perak

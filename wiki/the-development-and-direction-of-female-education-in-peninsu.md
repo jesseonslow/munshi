@@ -18,6 +18,8 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmbras-234-frontmatter-1978-811e779cf782
+source_path: ../sources/jmbras-234-frontmatter-1978-811e779cf782.md
 ---
 
 # The development and direction of female education in peninsular Malaysia

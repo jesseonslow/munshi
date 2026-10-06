@@ -19,7 +19,9 @@ amendments: []
 status: stub
 published: false
 summarized: false
-source_mismatch: true
+source_mismatch: false
+source_doc: jmbras-243-carroll-berunaiboxercodex-1982-78f57b3bc631
+source_path: ../sources/jmbras-243-carroll-berunaiboxercodex-1982-78f57b3bc631.md
 ---
 
 # Berunai in the Boxer Codex: with commentary

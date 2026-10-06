@@ -18,6 +18,8 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jsbras-025-r-birddroppingspiderornithoscatoides-1894-f31bc17e8e57
+source_path: ../sources/jsbras-025-r-birddroppingspiderornithoscatoides-1894-f31bc17e8e57.md
 ---
 
 # The bird-dropping spider (Ornithos catoides) in Johor

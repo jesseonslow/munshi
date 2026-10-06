@@ -19,7 +19,9 @@ amendments: []
 status: stub
 published: false
 summarized: false
-source_mismatch: true
+source_mismatch: false
+source_doc: jsbras-035-ridley-floramountophir-1901-f836ff7bc38e
+source_path: ../sources/jsbras-035-ridley-floramountophir-1901-f836ff7bc38e.md
 ---
 
 # The Sumatran rhinoceros

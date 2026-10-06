@@ -21,6 +21,8 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+source_doc: jmbras-253-miksic-serivijayamelaka-1987-e8b0ced3de9d
+source_path: ../sources/jmbras-253-miksic-serivijayamelaka-1987-e8b0ced3de9d.md
 ---
 
 # From Seri Vijaya to Melaka: Batu Tagak in historical and cultural context

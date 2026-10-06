@@ -19,7 +19,9 @@ amendments: []
 status: stub
 published: false
 summarized: false
-source_mismatch: true
+source_mismatch: false
+source_doc: jmbras-209-ding-originsmalaysiancurrency-1966-fbb2094c7412
+source_path: ../sources/jmbras-209-ding-originsmalaysiancurrency-1966-fbb2094c7412.md
 ---
 
 # The origin of the Malaysian currency system (1867–1906

@@ -21,7 +21,9 @@ amendments: []
 status: stub
 published: false
 summarized: false
-source_mismatch: true
+source_mismatch: false
+source_doc: jmbras-297-leng-introductionperanakanchinese-2009-c350df7c7655
+source_path: ../sources/references.md
 ---
 
 # Introduction: Penang Chinese in Penang and the region: evolving identities and networks

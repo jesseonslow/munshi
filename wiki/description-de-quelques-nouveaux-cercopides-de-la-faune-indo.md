@@ -18,6 +18,8 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+source_doc: jmalayanras-088-lallemand-descriptiondequelques-1923-dedde68d7f
+source_path: ../sources/jmalayanras-088-lallemand-descriptiondequelques-1923-dedde68d7f.md
 ---
 
 # Description de quelques nouveaux Cercopides de la faune Indo-Malaysie

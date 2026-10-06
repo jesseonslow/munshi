@@ -21,7 +21,9 @@ amendments: []
 status: stub
 published: false
 summarized: false
-source_mismatch: true
+source_mismatch: false
+source_doc: jmbras-295-reece-mydeartreasurer-2008-2514dc0dc43e
+source_path: ../sources/references.md
 ---
 
 # ‘My dear treasurer’: Rajah Charles Brooke’s correspondence with F.H. Dallas, 1902-1917

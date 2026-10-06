@@ -20,6 +20,8 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+source_doc: jmalayanras-181-bassett-englishtradecelebes-1958-80b7be11675b
+source_path: ../sources/jmalayanras-181-bassett-englishtradecelebes-1958-80b7be11675b.md
 ---
 
 # English trade in Celebes, 1613–1667

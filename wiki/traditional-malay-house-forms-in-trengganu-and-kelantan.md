@@ -19,7 +19,9 @@ amendments: []
 status: stub
 published: false
 summarized: false
-source_mismatch: true
+source_mismatch: false
+source_doc: jmbras-216-sheppard-traditionalmalayhouse-1969-73c46bc8c5cb
+source_path: ../sources/jmbras-216-sheppard-traditionalmalayhouse-1969-73c46bc8c5cb.md
 ---
 
 # Traditional Malay house forms in Trengganu and Kelantan
