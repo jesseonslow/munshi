@@ -1,0 +1,19 @@
+[project]
+name = "munshi-monorepo"
+version = "0.1.0"
+description = "Monorepo workspace for Mat Munshi knowledge extraction and wiki synthesis"
+requires-python = ">=3.11"
+dependencies = [
+    "munshi-bots",
+]
+
+[tool.uv]
+package = false
+
+[tool.uv.workspace]
+members = [
+    "apps/*",
+]
+
+[tool.uv.sources]
+munshi-bots = { workspace = true }
