@@ -30,15 +30,11 @@ summarized: true
 publication_type: review
 ---
 
-# Power, Care and Species Difference in Orangutan Rehabilitation in Sarawak: A Roundtable. J.S. Parreñas, Alicia Izharuddin, M.B. Haines, Faizah Zakaria, and R. Cribb
+# Power, Care and Species Difference in Orangutan Rehabilitation in Sarawak: A Roundtable.
 
 ## Abstract
 
 Juno Parrenas’ ground-breaking monograph examines how power relations are embedded in interactions of work and care between humans and animals, using the case of orangutan rehabilitation in Sarawak as a lens. It encourages us to imagine a different, ethical mode of living with animals even if it involves risks to ourselves. Each contributor to this roundtable critically analyzes an aspect of the book. Alicia Izharuddin focuses on issues arising from gendered care in the volume, Monamie Haines reflects on how the book deploys the concepts of nature-culture and decolonization, Faizah Zakaria discusses the moral imperatives in the book and the possibilities it holds for radical change, and Robert Cribb analyzes the book’s colonial framework and the multiple meanings that freedom could take for humans and animals alike.
-
-Juno Salazar Parrenas is an Assistant Professor in the Department of Science and Technology Studies at Cornell University. Her research focuses on human-animal relations, environmental issues, and efforts to institutionalize justice. She holds a PhD in Anthropology from Harvard University. *Decolonizing Extinction* is her first monograph. It has received multiple accolades including the 2019 Michelle Z. Rosaldo Prize, awarded by the Association for Feminist Anthropology
-
-Email: parrenas@cornell.edu.
 
 ## Summary
 
