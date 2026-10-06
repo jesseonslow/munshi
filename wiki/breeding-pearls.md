@@ -3,8 +3,7 @@ id: breeding-pearls
 work_id: jsbras-1-1-p31
 title: Breeding pearls
 canonical_name: Breeding pearls
-type: article
-article_type: article
+type: publication
 authors:
 - N.B. Dennys
 year: 1878
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: true
 source_doc: jsbras-001-dennys-breedingpearls-1878-30256d4025df
 source_path: ../sources/jsbras-001-dennys-breedingpearls-1878-30256d4025df.md
+publication_type: journal_article
 ---
+
 # Breeding pearls
 
 N. B. Dennys, a physician and naturalist resident in Singapore, presented this paper to the Singapore branch of the Royal Asiatic Society in February 1878, investigating the widespread local claim that certain pearls can reproduce themselves when sealed in a box with rice. His overarching thesis is one of cautious agnosticism: the positive testimony of multiple independent witnesses is compelling, yet no accepted scientific mechanism accounts for the phenomenon, and he tentatively attributes the observed growth to an insect agency rather than any genuine reproductive property of nacre.

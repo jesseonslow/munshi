@@ -3,8 +3,7 @@ id: the-rejang-in-malay-pantuns
 work_id: jsbras-67-1-p219
 title: The “rejang” in Malay pantuns
 canonical_name: The _“rejang”_ in Malay _pantuns._
-type: article
-article_type: article
+type: publication
 authors:
 - H. Overbeck
 year: 1914
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-067-overbeck-rjangmalaypantuns-1914-7d622b0f0cb1
 source_path: ../sources/jsbras-067-overbeck-rjangmalaypantuns-1914-7d622b0f0cb1.md
 summarized: true
+publication_type: note
 ---
+
 # The “rejang” in Malay pantuns
 
 H. Overbeck's short note examines how the "Rejang" system of lunar month symbols appears in Malay pantuns, building on W.G. Skeat's earlier discussion in *Malay Magic* (p. 219).

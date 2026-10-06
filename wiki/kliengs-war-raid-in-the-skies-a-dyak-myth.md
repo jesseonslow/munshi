@@ -3,8 +3,7 @@ id: kliengs-war-raid-in-the-skies-a-dyak-myth
 work_id: jsbras-16-1-p265
 title: 'Klieng’s war-raid in the skies: a Dyak myth'
 canonical_name: 'Klieng’s war-raid in the skies: a Dyak myth'
-type: article
-article_type: article
+type: publication
 authors:
 - J. Perham
 year: 1885
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-016-perham-kliengswarraidskies-1885-c044dac8af90
 source_path: ../sources/jsbras-016-perham-kliengswarraidskies-1885-c044dac8af90.md
 summarized: true
+publication_type: translation
 ---
+
 # Klieng’s war-raid in the skies: a Dyak myth
 
 J. Perham, a British official in colonial Sarawak, published this translation and adaptation of a Sea Dyak *Kana* (sung narrative) in 1885, presenting the myth of Klieng's war-raid to the heavens as one of the most genuine specimens of the race's oral literature. The article serves both as a literary rendering of a complex heroic cycle and as an ethnographic commentary on the structure, performance context, and historical value of Dyak folk-lore.

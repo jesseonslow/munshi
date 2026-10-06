@@ -3,8 +3,7 @@ id: malay-tiger-beetles
 work_id: jsbras-38-1-p129
 title: Malay tiger-beetles
 canonical_name: Malay tiger-beetles
-type: article
-article_type: article
+type: publication
 authors:
 - H.N. Ridley
 year: 1902
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-038-ridley-malaytigerbeetles-1902-94bc5ec9e7d8
 source_path: ../sources/jsbras-038-ridley-malaytigerbeetles-1902-94bc5ec9e7d8.md
 summarized: true
+publication_type: note
 ---
+
 # Malay tiger-beetles
 
 This short note by H. N. Ridley provides a brief overview of the tiger-beetle species (Cicindelidae) known from the Malay Peninsula, dividing them into jungle and road groups and describing the genera and species he had encountered.

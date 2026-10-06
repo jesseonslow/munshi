@@ -3,8 +3,7 @@ id: francis-light-and-penang
 work_id: jmbras-38-1-p135
 title: Francis Light and Penang
 canonical_name: Francis Light and Penang
-type: article
-article_type: article
+type: publication
 authors:
 - R. Bonney
 year: 1965
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-207-bonney-francislightpenang-1965-a6a4fee69d8e
 source_path: ../sources/jmbras-207-bonney-francislightpenang-1965-a6a4fee69d8e/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Francis Light and Penang
 
 R. Bonney's 1965 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* re-examines the establishment of British tenure over Penang between 1771 and 1791, arguing that Francis Light's persistent efforts to secure a Company settlement in the Straits of Malacca were motivated not by imperial ambition but by purely personal commercial interest. Drawing on previously underutilised correspondence in the British Museum and Fort William Secret State Records, Bonney reconstructs a pattern of systematic exaggeration, concealment, and double-dealing by Light toward both his employers and the Sultan of Kedah.

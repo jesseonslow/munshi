@@ -3,8 +3,7 @@ id: chronological-biography-of-arthur-charles-norman
 work_id: jmbras-70-1-p21
 title: Chronological biography of Arthur Charles Norman
 canonical_name: Chronological biography of Arthur Charles Norman
-type: article
-article_type: article
+type: publication
 authors:
 - A. Ghafar Ahmad
 year: 1997
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-272-ahmad-chronologicalbiographyarthur-1997-a3931eeb0a0f
 source_path: ../sources/jmbras-272-ahmad-chronologicalbiographyarthur-1997-a3931eeb0a0f.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Chronological biography of Arthur Charles Norman
 
 A. Ghafar Ahmad's 1997 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* reconstructs the professional chronology of Arthur Charles Alfred Norman (1858–1944), the senior government architect of the Public Works Department in the Federated Malay States from 1883 to 1903. Drawing on Royal Institute of British Architects (RIBA) records and secondary literature, the article situates Norman's career within the broader question of how much design credit he legitimately deserves for the landmark colonial buildings of Kuala Lumpur, particularly the Sultan Abdul Samad Building.

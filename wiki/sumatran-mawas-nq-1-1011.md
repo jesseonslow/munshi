@@ -3,8 +3,7 @@ id: sumatran-mawas-nq-1-1011
 work_id: jsbras-14-sumatran-mawas-nq-1-1011
 title: 'Sumatran mawas. NQ 1: 10–11'
 canonical_name: 'Sumatran _mawas._ NQ 1: 10–11'
-type: article
-article_type: notes_and_queries
+type: publication
 authors:
 - D.F.A. Hervey
 year: 1884
@@ -18,6 +17,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: note
 ---
 
 # Sumatran mawas. NQ 1: 10–11

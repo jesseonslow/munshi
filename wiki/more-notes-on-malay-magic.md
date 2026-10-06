@@ -3,8 +3,7 @@ id: more-notes-on-malay-magic
 work_id: jmbras-5-2-p342
 title: More notes on Malay magic
 canonical_name: More notes on Malay magic
-type: article
-article_type: article
+type: publication
 authors:
 - R.O. Winstedt
 year: 1927
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: true
 source_doc: jmalayanras-100-winstedt-notesmalaymagic-1927-979f0ff7cc50
 source_path: ../sources/jmalayanras-100-winstedt-notesmalaymagic-1927-979f0ff7cc50.md
+publication_type: note
 ---
+
 # More notes on Malay magic
 
 R.O. Winstedt's "More Notes on Malay Magic" (1927) is a compact ethnographic survey of shamanic possession, divination, and the institutional role of magicians in Malay society, drawing on comparative evidence from Siberian shamanism, modern psychiatry, and Perak legal records to argue that Malay magical practice constitutes a coherent system of spirit-mediated healing and statecraft rather than mere superstition.

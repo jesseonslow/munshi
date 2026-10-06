@@ -3,8 +3,7 @@ id: numbers-of-mammals-on-the-malaysian-islands
 work_id: jmbras-38-2-p26
 title: Numbers of mammals on the Malaysian islands
 canonical_name: Numbers of mammals on the Malaysian islands
-type: article
-article_type: article
+type: publication
 authors:
 - Harrison J.L
 year: 1965
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-208-harrison-numbersmammalsmalaysian-1965-cd872deb1774
 source_path: ../sources/jmbras-208-harrison-numbersmammalsmalaysian-1965-cd872deb1774/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Numbers of mammals on the Malaysian islands
 
 J.L. Harrison (1965) applies the logarithmic series model of Fisher, Corbet and Williams to mammal collections from the islands surrounding the Malay Peninsula, asking whether the number of species on an island can be predicted from its area alone. Working from Gibson-Hill's unfinished check-list and museum expedition records, Harrison demonstrates that while mainland forest samples conform to a consistent index of diversity (α ≈ 12), the offshore islands outside the 10-fathom contour carry a fundamentally impoverished fauna (α ≈ 7) that cannot be explained by the standard Sunda Shelf submergence model.

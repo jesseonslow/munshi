@@ -3,8 +3,7 @@ id: mohammedan-divorce-by-khula
 work_id: jmbras-21-2-p3
 title: Mohammedan divorce by khula
 canonical_name: Mohammedan divorce by _khula._
-type: article
-article_type: article
+type: publication
 authors:
 - E.N. Taylor
 year: 1948
@@ -18,6 +17,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: journal_article
 ---
 
 # Mohammedan divorce by khula

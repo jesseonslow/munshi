@@ -3,8 +3,7 @@ id: baba-malay-dialect
 work_id: jmbras-53-1-p150
 title: Baba Malay dialect
 canonical_name: Baba Malay dialect
-type: article
-article_type: article
+type: publication
 authors:
 - Tan Chee Beng
 year: 1980
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-237-cheebeng-babamalaydialect-1980-c342d0920feb
 source_path: ../sources/jmbras-237-cheebeng-babamalaydialect-1980-c342d0920feb/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Baba Malay dialect
 
 Tan Chee-Beng's 1980 article "Baba Malay Dialect," published in the *Journal of the Malaysian Branch of the Royal Asiatic Society* (Vol. 53, pp. 150–166), presents a systematic linguistic analysis of the Malay dialect spoken by the Peranakan Chinese community in Malacca. Drawing on fieldwork conducted throughout 1977, the article argues that Baba Malay is not a "corrupted" or degraded form of Malay but a legitimate dialect with its own consistent phonological, lexical, and syntactic structure, developed through centuries of Chinese-Malay-Indonesian contact.

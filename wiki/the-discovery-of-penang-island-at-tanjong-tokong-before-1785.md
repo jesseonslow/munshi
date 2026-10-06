@@ -5,8 +5,7 @@ title: 'The ‘discovery’ of Penang Island at Tanjong Tokong before 1785: Bapu
   Meera Hussein Lebai and Captain Francis Light'
 canonical_name: 'The ‘discovery’ of Penang Island at Tanjong Tokong before 1785: Bapu
   Alaidin Meera Hussein Lebai and Captain Francis Light'
-type: article
-article_type: article
+type: publication
 authors:
 - Wazir Jahan Karim
 year: 2013
@@ -24,7 +23,9 @@ summarized: true
 source_mismatch: false
 source_doc: jmbras-304-karim-discoverypenangisland-2013-baad1d60259c
 source_path: ../sources/references.md
+publication_type: journal_article
 ---
+
 # The ‘discovery’ of Penang Island at Tanjong Tokong before 1785: Bapu Alaidin Meera Hussein Lebai and Captain Francis Light
 
 Wazir Jahan Karim's 2013 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* reconstructs the pre-1786 history of Tanjong Tokong on Penang Island, arguing that Captain Francis Light's "discovery" of the island was facilitated by Bapu Alaidin Meera Hussein Lebai, a Malabar Muslim trader who led British scouts to the strategic peak of Bukit Meriam where a Malay-Jawi Peranakan village already existed. Drawing on oral histories, family genealogies, and physical evidence including a cannon dated 1785, Karim demonstrates that the official narrative of Penang's founding in 1786 obscures the prior occupation and subsequent displacement of Malay coastal communities.

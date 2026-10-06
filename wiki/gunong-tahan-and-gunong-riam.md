@@ -3,8 +3,7 @@ id: gunong-tahan-and-gunong-riam
 work_id: jsbras-62-1-p8
 title: Gunong Tahan and Gunong Riam
 canonical_name: Gunong Tahan and Gunong Riam
-type: article
-article_type: article
+type: publication
 authors:
 - J.B. Scrivenor
 year: 1912
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-062-scrivenor-gunongtahangunong-1912-cb629d5a434f
 source_path: ../sources/jsbras-062-scrivenor-gunongtahangunong-1912-cb629d5a434f.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Gunong Tahan and Gunong Riam
 
 J.B. Scrivenor, a geologist serving in the Malay States, published this account in 1912 drawing on his personal ascents of Gunong Tahan (1906) and Gunong Riam (1912), the two highest peaks in the Malay Peninsula. The article combines first-hand travel narrative with a geological argument about the structural relationship between the two mountains and the broader orogenic framework of the Peninsula's main range.

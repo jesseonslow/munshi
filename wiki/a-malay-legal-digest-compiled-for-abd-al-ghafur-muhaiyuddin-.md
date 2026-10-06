@@ -5,8 +5,7 @@ title: A Malay legal digest compiled for ‘Abd al-Ghafur Muhaiyuddin Shah, Sult
   Pahang, 1592–1614 A.D., with undated additions. .E
 canonical_name: A Malay legal digest compiled for ‘Abd al-Ghafur Muhaiyuddin Shah,
   Sultan of Pahang, 1592–1614 A.D., with undated additions. .E
-type: article
-article_type: article
+type: publication
 authors:
 - J.E. Kempe
 - R.O. Winstedt
@@ -29,6 +28,7 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+publication_type: document
 ---
 
 # A Malay legal digest compiled for ‘Abd al-Ghafur Muhaiyuddin Shah, Sultan of Pahang, 1592–1614 A.D., with undated additions. .E

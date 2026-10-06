@@ -3,8 +3,7 @@ id: hunting-down-the-rebels-in-kelantan-1915-the-sultans-double-
 work_id: jmbras-68-2-p9
 title: 'Hunting down the rebels in Kelantan, 1915: the Sultan’s ‘double game’'
 canonical_name: 'Hunting down the rebels in Kelantan, 1915: the Sultan’s ‘double game’'
-type: article
-article_type: article
+type: publication
 authors:
 - Cheah Boon Kheng
 year: 1995
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-269-kheng-huntingrebelskelantan-1995-f6df00c62e67
 source_path: ../sources/jmbras-269-kheng-huntingrebelskelantan-1995-f6df00c62e67.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Hunting down the rebels in Kelantan, 1915: the Sultan’s ‘double game’
 
 Cheah Boon Kheng's 1995 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* re-examines the 1915 Pasir Putih rebellion in Kelantan, arguing that Sultan Mohamed IV did not simply comply with British authority but instead played a calculated "double game"—publicly endorsing the British Adviser's military suppression while privately sympathising with the rebels' grievances over land taxation and district officer misconduct. Drawing on British Colonial Office records, the British Adviser's files, and a private diary, Cheah demonstrates how the Sultan's ambivalent strategies ultimately secured the ouster of British Adviser W. Langham-Carter.

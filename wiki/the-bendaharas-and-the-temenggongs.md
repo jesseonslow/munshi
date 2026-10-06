@@ -3,8 +3,7 @@ id: the-bendaharas-and-the-temenggongs
 work_id: jmbras-10-1-p53
 title: The Bendaharas and the Temenggongs
 canonical_name: The Bendaharas and the Temenggongs
-type: article
-article_type: article
+type: publication
 authors:
 - R.O. Winstedt
 year: 1932
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-113-winstedt-bendaharastemenggongs-1932-7772d0babe36
 source_path: ../sources/jmalayanras-113-winstedt-bendaharastemenggongs-1932-7772d0babe36.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The Bendaharas and the Temenggongs
 
 R.O. Winstedt's 1932 article reconstructs the genealogies of the hereditary Bendahara and Temenggong offices in the Johore-Riau-Lingga sultanate from the Malacca period through the early nineteenth century, arguing that these two offices were held by a single interrelated dynasty descended from the Tamil-Malay figure Mani Purindan and that the Temenggongs' possession of Bugis royal blood ultimately enabled them to claim sovereignty over the throne.

@@ -3,8 +3,7 @@ id: gomanton-caves
 work_id: jmbras-31-1-p177
 title: Gomanton caves
 canonical_name: Gomanton caves
-type: article
-article_type: article
+type: publication
 authors:
 - E. Banks
 year: 1958
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-181-banks-gomantoncaves-1958-e5639749b1fd
 source_path: ../sources/jmalayanras-181-banks-gomantoncaves-1958-e5639749b1fd.md
 summarized: true
+publication_type: note
 ---
+
 # Gomanton caves
 
 E. Banks's short note describes the Gomanton caves in Sabah, documenting their swiftlet colonies, bat populations, and associated raptor and seabird communities.

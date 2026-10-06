@@ -3,8 +3,7 @@ id: treaty-with-java
 work_id: jsbras-19-1-p151
 title: Treaty with Java
 canonical_name: Treaty with Java
-type: article
-article_type: article
+type: publication
 authors:
 - Haughton H.T
 year: 1887
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-019-h-treatyjava-1887-cdff05283878
 source_path: ../sources/jsbras-019-h-treatyjava-1887-cdff05283878.md
 summarized: true
+publication_type: note
 ---
+
 # Treaty with Java
 
 This brief note by H. T. H. reports on the location of the 1811 treaty between Javanese authorities and Mr. Adam on behalf of Raffles, by which the sovereignty of Java was ceded to the British.

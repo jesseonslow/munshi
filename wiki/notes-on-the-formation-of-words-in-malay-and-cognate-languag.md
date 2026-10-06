@@ -3,8 +3,7 @@ id: notes-on-the-formation-of-words-in-malay-and-cognate-languag
 work_id: jsbras-39-1-p19
 title: Notes on the formation of words in Malay and cognate languages
 canonical_name: Notes on the formation of words in Malay and cognate languages
-type: article
-article_type: article
+type: publication
 authors:
 - H.L.E. Luering
 year: 1903
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: false
 source_doc: jsbras-039-luering-notesformationwords-1903-53f57e78ef1f
 source_path: ../sources/jsbras-039-luering-notesformationwords-1903-53f57e78ef1f.md
+publication_type: journal_article
 ---
+
 # Notes on the formation of words in Malay and cognate languages
 
 H.L.E. Luering, a German philologist based in Strassburg, published this comparative study in 1903, arguing that Malay word formation preserves vestigial grammatical structures—reduplicative specialization, ancient vocative forms, archaic adjectival prefixes, and obsolete verbal conjugations—that can only be properly understood through systematic comparison with cognate Malayan languages, particularly Batak, Tagalog, and Malagasy.

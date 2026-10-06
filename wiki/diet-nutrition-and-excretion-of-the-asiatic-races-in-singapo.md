@@ -3,8 +3,7 @@ id: diet-nutrition-and-excretion-of-the-asiatic-races-in-singapo
 work_id: jsbras-76-1-p57
 title: Diet, nutrition and excretion of the Asiatic races in Singapore
 canonical_name: Diet, nutrition and excretion of the Asiatic races in Singapore
-type: article
-article_type: article
+type: publication
 authors:
 - J.A. Campbell
 year: 1917
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-076-campbell-dietnutritionexcretion-1917-187a17387a85
 source_path: ../sources/jsbras-076-campbell-dietnutritionexcretion-1917-187a17387a85/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Diet, nutrition and excretion of the Asiatic races in Singapore
 
 J. Argyll Campbell, a physician practising in Singapore, published this comparative study in 1917 presenting weighed-diet and 24-hour urine excretion data from four medical students of different ethnic backgrounds (Chinese, Tamil, Malay, and Brahmin) over periods ranging from two weeks to six months. The overarching thesis is that European reference values for renal excretion are clinically useless when applied to Asiatic patients, and that the tropical climate of Singapore directly reduces caloric and protein requirements compared with both European and other tropical settings.

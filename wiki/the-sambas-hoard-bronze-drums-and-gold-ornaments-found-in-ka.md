@@ -4,8 +4,7 @@ work_id: jmbras-67-1-p9
 title: 'The Sambas hoard: bronze drums and gold ornaments found in Kalimantan in 1991'
 canonical_name: 'The Sambas hoard: bronze drums and gold ornaments found in Kalimantan
   in 1991'
-type: article
-article_type: article
+type: publication
 authors:
 - E.E. McKinnon
 year: 1994
@@ -22,7 +21,9 @@ published: false
 source_doc: jmbras-266-mckinnon-sambashoardbronze-1994-50b7f6318974
 source_path: ../sources/jmbras-266-mckinnon-sambashoardbronze-1994-50b7f6318974/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The Sambas hoard: bronze drums and gold ornaments found in Kalimantan in 1991
 
 E. Edwards McKinnon's 1994 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* examines the 1991 discovery of two Heger Type I bronze kettledrums and associated artifacts at Bukit Selindung in the Sambas district of West Kalimantan, situating the find within the broader archaeological and economic history of the region. McKinnon argues that the assemblage—combining Dongsonian bronze drums with Indian-tradition beads and gold ornaments—constitutes one of the earliest material indications of a chiefly society or small polity in the Sambas region by the early first millennium C.E. (pp. 9–28).

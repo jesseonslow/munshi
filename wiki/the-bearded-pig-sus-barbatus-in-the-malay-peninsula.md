@@ -3,8 +3,7 @@ id: the-bearded-pig-sus-barbatus-in-the-malay-peninsula
 work_id: jsbras-85-1-p202
 title: The bearded pig (Sus barbatus) in the Malay Peninsula
 canonical_name: The bearded pig _(Sus barbatus)_ in the Malay Peninsula
-type: article
-article_type: article
+type: publication
 authors:
 - J.C. Moulton
 - H.C. Robinson
@@ -22,7 +21,9 @@ published: false
 source_doc: jsbras-085-robinson-beardedpigsus-1922-1f24cda43e84
 source_path: ../sources/jsbras-085-robinson-beardedpigsus-1922-1f24cda43e84.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The bearded pig (Sus barbatus) in the Malay Peninsula
 
 Robinson and Moulton (1922) document the first authenticated records of the Bearded Pig (*Sus barbatus*) in the Malay Peninsula, based on two specimens from Pekan, Pahang, and argue that the species is not indigenous to the peninsula but rather an occasional visitor from Borneo or the Riau Archipelago. The article also resolves a taxonomic dispute with Kloss by rejecting the validity of *Sus oi* as a distinct subspecies.

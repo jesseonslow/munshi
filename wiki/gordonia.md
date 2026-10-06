@@ -3,8 +3,7 @@ id: gordonia
 work_id: jsbras-76-1-p133
 title: Gordonia
 canonical_name: Gordonia
-type: article
-article_type: article
+type: publication
 authors:
 - I.H. Burkill
 year: 1917
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-076-burkill-gordonia-1917-a5f39da2a697
 source_path: ../sources/jsbras-076-burkill-gordonia-1917-a5f39da2a697.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Gordonia
 
 I.H. Burkill's 1917 monograph on *Gordonia* (Theaceae) is a comprehensive taxonomic treatment that traces the genus from its American origins through its extensive but poorly understood Asiatic radiation, arguing forcefully against the prevailing tendency to split the genus along biogeographic lines and instead proposing its enlargement through the absorption of the Asiatic species of *Haemocharris*.

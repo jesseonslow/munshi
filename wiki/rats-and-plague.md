@@ -3,8 +3,7 @@ id: rats-and-plague
 work_id: jsbras-57-1-p157
 title: Rats and plague
 canonical_name: Rats and plague
-type: article
-article_type: article
+type: publication
 authors:
 - C.B. Kloss
 year: 1911
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-057-kloss-ratsplague-1911-6e45f26e5a25
 source_path: ../sources/jsbras-057-kloss-ratsplague-1911-6e45f26e5a25.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Rats and plague
 
 C.B. Kloss, a naturalist working in the Straits Settlements, published this review in 1911 assessing the zoological foundations of Indian plague research and applying its findings to the rat fauna of the Malay Peninsula. The article's central thesis is that while Indian plague commissions had correctly identified the epidemiological importance of rats, their taxonomic work was riddled with errors—stemming from overreliance on outdated classifications and confusion between normal variation and distinct species—that would mislead any Malayan sanitary officer attempting to replicate the investigations locally.

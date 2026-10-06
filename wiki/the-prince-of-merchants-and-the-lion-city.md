@@ -3,8 +3,7 @@ id: the-prince-of-merchants-and-the-lion-city
 work_id: jmbras-37-1-p20
 title: The prince of merchants and the Lion city
 canonical_name: The prince of merchants and the Lion city
-type: article
-article_type: article
+type: publication
 authors:
 - N. Tarling
 year: 1964
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-205-tarling-princemerchantslion-1964-280cbfbde57b
 source_path: ../sources/jmbras-205-tarling-princemerchantslion-1964-280cbfbde57b.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The prince of merchants and the Lion city
 
 Nicholas Tarling's 1964 article examines the correspondence of John Palmer, the Calcutta merchant dubbed the "Prince of Merchants" by Governor-General Lord Hastings, to illuminate the British strategic and commercial calculus behind the acquisition of Singapore in 1819 and the broader Anglo-Dutch contest for the Straits of Malacca. Drawing on Palmer's letters held in the India Office Library, Tarling argues that these documents provide a distinctive Calcutta vantage point on the diplomatic and commercial negotiations that culminated in the Treaty of 1824, one less commonly exploited than the London, Bencoolen, or Batavia perspectives.

@@ -3,8 +3,7 @@ id: the-bridge-of-the-dead
 work_id: jmbras-24-3-p145
 title: The bridge of the dead
 canonical_name: The bridge of the dead
-type: article
-article_type: article
+type: publication
 authors:
 - R.O. Winstedt
 year: 1951
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-156-winstedt-bridgedead-1951-43d54d2b637d
 source_path: ../sources/jmalayanras-156-winstedt-bridgedead-1951-43d54d2b637d.md
 summarized: true
+publication_type: note
 ---
+
 # The bridge of the dead
 
 This is a short note by R. O. Winstedt and Richard Winstedt, published in the *Journal of the Malayan Branch of the Royal Asiatic Society*, Vol. 24, No. 3 (1951), pp. 145–147.

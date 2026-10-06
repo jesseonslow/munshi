@@ -3,8 +3,7 @@ id: note-on-the-malay-game-jongkak
 work_id: jsbras-49-1-p93
 title: Note on the Malay game ‘jongkak’
 canonical_name: Note on the Malay game _‘jongkak’._
-type: article
-article_type: article
+type: publication
 authors:
 - M. Hellier
 year: 1907
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-049-hellier-notemalaygame-1907-9d74d0e68970
 source_path: ../sources/jsbras-049-hellier-notemalaygame-1907-9d74d0e68970.md
 summarized: true
+publication_type: note
 ---
+
 # Note on the Malay game ‘jongkak’
 
 M. Hellier's note describes the rules, board, and terminology of the Malay game "jongkak," based on a playing board he obtained from Haji Othman, Visiting Teacher of Province Wellesley, and sent to the Raffles Museum for exhibition (p. 93).

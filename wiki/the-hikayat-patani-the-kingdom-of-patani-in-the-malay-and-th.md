@@ -5,8 +5,7 @@ title: 'The Hikayat Patani : the kingdom of Patani in the Malay and Thai politic
   world'
 canonical_name: 'The _Hikayat Patani_ : the kingdom of Patani in the Malay and Thai
   political world'
-type: article
-article_type: article
+type: publication
 authors:
 - N. Porath
 year: 2011
@@ -23,7 +22,9 @@ published: false
 source_doc: frontmatter
 source_path: ../sources/jmbras-301-porath-hikayatpatanikingdom-2011-af5e8cc51b79/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The Hikayat Patani : the kingdom of Patani in the Malay and Thai political world
 
 Nathan Porath's 2011 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* applies René Girard's theory of mimetic desire to the *Hikayat Patani*, a six-book Malay manuscript composed between the late seventeenth and mid-eighteenth centuries to serve as a political charter for the Sultanate of Patani. Porath argues that the text's first book operates as a mimetic narrative in which Patani affirmatively recognizes its similarity with Ayutthaya—even while narrating its sultans' rebellions against that kingdom—while simultaneously fracturing every possible resemblance with Johor, thereby positioning Patani as an elite Indic kingdom distinct from its Malay-speaking neighbours (pp. 45–48).

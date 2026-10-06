@@ -3,8 +3,7 @@ id: the-leading-saints-in-rembau
 work_id: jmbras-3-3-p101
 title: The leading saints in Rembau
 canonical_name: The leading saints in Rembau
-type: article
-article_type: article
+type: publication
 authors:
 - Dato' Sedia Raja Abdullah
 year: 1925
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-095-abdullah-leadingsaintsrembau-1925-4df162a0d372
 source_path: ../sources/jmalayanras-095-abdullah-leadingsaintsrembau-1925-4df162a0d372.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The leading saints in Rembau
 
 Dato' Sedia Raja Abdullah's 1925 article in the *Journal of the Malayan Branch of the Royal Asiatic Society* documents the genealogies, supernatural attributes, and associated ritual practices of the principal *keramat* (saints) of the Rembau district in the Malay Peninsula, drawing on the testimony of a local *Pawang* (traditional healer) regarded as a high authority on the subject. The piece serves as both an ethnographic record of a syncretic belief system and a reformist critique of what the author identifies as pre-Islamic survivals impeding Malay progress.

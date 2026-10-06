@@ -5,8 +5,7 @@ title: '‘My dear treasurer’: Rajah Charles Brooke’s correspondence with F.
   1902-1917'
 canonical_name: '‘My dear treasurer’: Rajah Charles Brooke’s correspondence with F.H.
   Dallas, 1902-1917'
-type: article
-article_type: article
+type: publication
 authors:
 - R.H.W. Reece
 year: 2008
@@ -24,7 +23,9 @@ summarized: true
 source_mismatch: false
 source_doc: jmbras-295-reece-mydeartreasurer-2008-2514dc0dc43e
 source_path: ../sources/references.md
+publication_type: journal_article
 ---
+
 # ‘My dear treasurer’: Rajah Charles Brooke’s correspondence with F.H. Dallas, 1902-1917
 
 Bob Reece's 2008 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* draws on the previously underutilised correspondence between Rajah Charles Brooke and his Sarawak Treasurer, F. H. Dallas, to reconstruct the final fifteen years of the second White Rajah's life. Written mostly from Chesterton Lodge in Gloucestershire between 1902 and 1917, the letters reveal a man simultaneously managing the detailed administration of a tropical state, pursuing territorial expansion in Borneo, and maintaining the persona of an English country squire, all while growing increasingly alarmed by the failings of his heir, Vyner Brooke.

@@ -5,8 +5,7 @@ title: Meteorological observations taken in Singapore (Lat. 1° 17’ N. Long. 1
   E.), during the year 1879
 canonical_name: Meteorological observations taken in Singapore (Lat. 1° 17’ N. Long.
   103° 51’ E.), during the year 1879
-type: article
-article_type: article
+type: publication
 authors:
 - T.I. Rowell
 year: 1879
@@ -23,7 +22,9 @@ published: false
 source_doc: jsbras-004-rowell-meteorologicalobservationstaken-1879-b4c1b5bc879c
 source_path: ../sources/jsbras-004-rowell-meteorologicalobservationstaken-1879-b4c1b5bc879c.md
 summarized: true
+publication_type: document
 ---
+
 # Meteorological observations taken in Singapore (Lat. 1° 17’ N. Long. 103° 51’ E.), during the year 1879
 
 This is a tabular record of monthly meteorological observations for Singapore in 1879, compiled by T. Irvine Rowell, M.D., Principal Civil Medical Officer, S.S. (p. 63).

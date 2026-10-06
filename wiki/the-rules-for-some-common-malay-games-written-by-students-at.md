@@ -5,8 +5,7 @@ title: The rules for some common Malay games written by students at the Malay Co
   Kuala Kangsar and communicated by C. Bazell {Headmaster
 canonical_name: The rules for some common Malay games written by students at the Malay
   College, Kuala Kangsar and communicated by C. Bazell {Headmaster}
-type: article
-article_type: article
+type: publication
 authors:
 - C. Bazell
 year: 1928
@@ -23,7 +22,9 @@ published: false
 source_doc: jmalayanras-105-bazell-rulescommonmalay-1928-5cc9a23cf044
 source_path: ../sources/jmalayanras-105-bazell-rulescommonmalay-1928-5cc9a23cf044.md
 summarized: true
+publication_type: note
 ---
+
 # The rules for some common Malay games written by students at the Malay College, Kuala Kangsar and communicated by C. Bazell {Headmaster
 
 This short note, communicated by C. Bazell (Headmaster of Malay College, Kuala Kangsar), presents the rules for three common Malay games as written by students at the college (p. 46).

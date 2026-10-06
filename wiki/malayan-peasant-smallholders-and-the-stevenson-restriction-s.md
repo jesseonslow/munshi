@@ -4,8 +4,7 @@ work_id: jmbras-47-2-p105
 title: Malayan peasant smallholders and the Stevenson Restriction Scheme, 1922–28
 canonical_name: Malayan peasant smallholders and the Stevenson Restriction Scheme,
   1922–28
-type: article
-article_type: article
+type: publication
 authors:
 - Lim Teck Ghee
 year: 1974
@@ -22,7 +21,9 @@ published: false
 source_doc: jmbras-226-ghee-malayanpeasantsmallholders-1974-cb5d8f502386
 source_path: ../sources/jmbras-226-ghee-malayanpeasantsmallholders-1974-cb5d8f502386/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Malayan peasant smallholders and the Stevenson Restriction Scheme, 1922–28
 
 Lim Teck Ghee's 1974 article examines how the Stevenson Restriction Scheme (1922–28) systematically disadvantaged Malayan peasant rubber smallholders in favour of the European plantation sector, arguing that the scheme was fundamentally a rescue operation for British capital rather than a neutral industry stabilisation measure. Drawing on Colonial Office papers, Federal Council proceedings, and local administrative files, Ghee demonstrates that the Malayan administration abandoned its fiduciary duty to the peasantry both in the scheme's design and in its day-to-day enforcement.

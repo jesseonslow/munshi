@@ -5,8 +5,7 @@ title: 'Majapahit revisited: external evidence on the geography and ethnology of
   Java in the Majapahit period'
 canonical_name: 'Majapahit revisited: external evidence on the geography and ethnology
   of East Java in the Majapahit period'
-type: article
-article_type: article
+type: publication
 authors:
 - B.E. Colless
 year: 1975
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-228-colless-majapahitrevisitedexternal-1975-7bf8e1d06c3e
 source_path: ../sources/jmbras-228-colless-majapahitrevisitedexternal-1975-7bf8e1d06c3e.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Majapahit revisited: external evidence on the geography and ethnology of East Java in the Majapahit period
 
 B.E. Colless (1975) systematically cross-references twelve external travel accounts—Chinese, European, Muslim, and Russian—spanning 1225 to 1510 against Pigeaud's foundational synthesis of Javanese textual sources to reconstruct the geography and ethnology of East Java during the Majapahit period. The article argues that foreign observers, writing from a position of cultural difference, record precisely those everyday details that native court poets considered too obvious to mention, thereby resolving gaps and correcting errors in Pigeaud's reliance on the *Nagara-Kertagama* and other internal Javanese texts.

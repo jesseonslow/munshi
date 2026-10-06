@@ -4,8 +4,7 @@ work_id: jmbras-79-2-p85
 title: 'On the nature of military government: the case of the BMA in Negri Sembilan'
 canonical_name: 'On the nature of military government: the case of the BMA in Negri
   Sembilan'
-type: article
-article_type: article
+type: publication
 authors:
 - J.M. Gullick
 year: 2006
@@ -22,7 +21,9 @@ published: false
 source_doc: jmbras-291-gullick-naturemilitarygovernment-2006-eb8edc7a1d07
 source_path: ../sources/jmbras-291-gullick-naturemilitarygovernment-2006-eb8edc7a1d07/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # On the nature of military government: the case of the BMA in Negri Sembilan
 
 J.M. Gullick, drawing on his first-hand experience as a Civil Affairs Officer in the British Military Administration (BMA) of Negri Sembilan, published this article in 2006 in the *Journal of the Malaysian Branch of the Royal Asiatic Society*. The piece examines the nature, structural limitations, and practical challenges of military government in the immediate post-surrender period of 1945–46, using Negri Sembilan as a case study to illustrate how an occupying army's administrative apparatus differs fundamentally from civil government in both scope and capacity.

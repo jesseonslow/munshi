@@ -3,8 +3,7 @@ id: malay-conventional-sib-names
 work_id: jmbras-40-2-p106
 title: Malay conventional sib-names
 canonical_name: Malay conventional sib-names
-type: article
-article_type: article
+type: publication
 authors:
 - G. Hodgson
 year: 1967
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-212-hodgson-malayconventionalsibnames-1967-1367bf3de0a5
 source_path: ../sources/jmbras-212-hodgson-malayconventionalsibnames-1967-1367bf3de0a5.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Malay conventional sib-names
 
 Geoffrey Hodgson's 1967 article examines the Malay conventional sib-naming system (*timang-timangan*), arguing that the antonymic pairing of sibling names reflects the broader Indonesian principle of dualistic-monism as theorised by van Dijk. Writing as a tribute to Sir Richard Winstedt, Hodgson synthesises published listings with his own fieldwork across Perak, Negeri Sembilan, Penang, and among aboriginal groups to demonstrate that the system is not a single fixed sequence but a set of balancing pairs selected and reordered by locality.

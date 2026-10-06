@@ -5,8 +5,7 @@ title: Geomorphological and historical data of the lower course of the Perak Riv
   (Dindings
 canonical_name: Geomorphological and historical data of the lower course of the Perak
   River (Dindings)
-type: article
-article_type: article
+type: publication
 authors:
 - B.N. Koopmans
 year: 1964
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-206-koopmans-geomorphologicalhistoricaldata-1964-1d81da8c9ce1
 source_path: ../sources/jmbras-206-koopmans-geomorphologicalhistoricaldata-1964-1d81da8c9ce1/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Geomorphological and historical data of the lower course of the Perak River (Dindings
 
 B.N. Koopmans published this interdisciplinary study in 1964, combining a 1962 geo-hydrological field survey of the Dindings area in Lower Perak with a systematic analysis of historical maps of Malaya spanning 1667 to 1881. The central argument is that the Perak River shifted its course multiple times during historical times, and that the "Island of Perac" depicted on European maps for over three centuries was a persistent cartographic error with no geomorphological basis.

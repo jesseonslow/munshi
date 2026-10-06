@@ -3,8 +3,7 @@ id: becoming-malay-the-case-of-the-batak-orphans-in-1930s-perak
 work_id: jmbras-94-2-p141
 title: 'Becoming Malay: The Case of the Batak Orphans in 1930s Perak'
 canonical_name: 'Becoming Malay: The Case of the Batak Orphans in 1930s Perak'
-type: article
-article_type: article
+type: publication
 authors:
 - Lynn Hollen Lees
 year: 2021
@@ -34,7 +33,9 @@ keywords:
 source_doc: lees-becoming-malays-46626348799e
 source_path: ../sources/lees-becoming-malays-46626348799e/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Becoming Malay: The Case of the Batak Orphans in 1930s Perak
 
 ## Abstract

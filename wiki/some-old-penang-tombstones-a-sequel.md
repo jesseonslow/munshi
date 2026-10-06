@@ -3,8 +3,7 @@ id: some-old-penang-tombstones-a-sequel
 work_id: jmbras-60-1-p75
 title: 'Some old Penang tombstones: a sequel'
 canonical_name: 'Some old Penang tombstones: a sequel. . f'
-type: article
-article_type: article
+type: publication
 authors:
 - D. Ch'ng
 - M.W. Mintz
@@ -19,6 +18,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: journal_article
 ---
 
 # Some old Penang tombstones: a sequel

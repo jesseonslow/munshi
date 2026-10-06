@@ -3,8 +3,7 @@ id: inheritance-in-negri-sembilan
 work_id: jmbras-21-2-p41
 title: Inheritance in Negri Sembilan
 canonical_name: Inheritance in Negri Sembilan
-type: article
-article_type: article
+type: publication
 authors:
 - E.N. Taylor
 year: 1948
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-145-taylor-inheritancenegrisembilan-1948-7daec664408d
 source_path: ../sources/jmalayanras-145-taylor-inheritancenegrisembilan-1948-7daec664408d/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Inheritance in Negri Sembilan
 
 E.N. Taylor, a former District Officer and member of the Colonial Legal Service, published this comprehensive legal-historical analysis in 1948, examining the rules governing inheritance of land among the Malay tribal communities of Negri Sembilan's three customary districts (Kuala Pilah, Jelebu, and Tampin). The article argues that the personal law of these Malays is *adat* (customary law) varied by selective adoption of Mohammedan law, and that a series of legislative and judicial errors—rooted in the ambiguous statutory definition of "Customary land"—had created a legal impasse that required both procedural consolidation and the codification of descent rules based on *adat temenggong*.

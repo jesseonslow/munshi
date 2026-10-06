@@ -5,8 +5,7 @@ title: English country traders and their relations with Malay rulers in the late
   century
 canonical_name: English country traders and their relations with Malay rulers in the
   late eighteenth century
-type: article
-article_type: article
+type: publication
 authors:
 - W.G. Miller
 year: 2011
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-300-miller-englishcountrytraders-2011-f3a02b2edf64
 source_path: ../sources/jmbras-300-miller-englishcountrytraders-2011-f3a02b2edf64/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # English country traders and their relations with Malay rulers in the late eighteenth century
 
 W.G. Miller's 2011 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* examines the activities of English country traders—private merchant mariners operating outside the East India Company's formal service—in the Malay Archipelago between 1750 and 1820. Miller argues that these largely forgotten figures accumulated as much practical knowledge of Malay languages, protocols, politics, and geography as Company officials did, and that this knowledge was a critical enabler of British authority in Southeast Asia at the turn of the nineteenth century.

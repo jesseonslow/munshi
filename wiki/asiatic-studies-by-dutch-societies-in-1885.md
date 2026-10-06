@@ -3,8 +3,7 @@ id: asiatic-studies-by-dutch-societies-in-1885
 work_id: jsbras-16-1-p439
 title: Asiatic studies, by Dutch societies in 1885
 canonical_name: Asiatic studies, by Dutch societies in 1885
-type: article
-article_type: article
+type: publication
 authors:
 - R. Rost
 year: 1885
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-016-r-asiaticstudiesdutch-1885-fbba563ece00
 source_path: ../sources/jsbras-016-r-asiaticstudiesdutch-1885-fbba563ece00.md
 summarized: true
+publication_type: review
 ---
+
 # Asiatic studies, by Dutch societies in 1885
 
 This brief note by R. Rost surveys publications of Dutch learned societies in 1885 that are of interest to the Malaysian Branch of the Royal Asiatic Society, focusing on the *Bijdragen* of the Royal Institute of The Hague, *De Indische Gids*, and the *Tijdschrift voor Nederlandsch Indie* (p. 439).

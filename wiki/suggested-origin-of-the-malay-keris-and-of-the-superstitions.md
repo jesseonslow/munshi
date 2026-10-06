@@ -4,8 +4,7 @@ work_id: jmbras-15-3-p127
 title: Suggested origin of the Malay keris and of the superstitions attaching to it
 canonical_name: Suggested origin of the Malay _keris_ and of the superstitions attaching
   to it
-type: article
-article_type: article
+type: publication
 authors:
 - G.C.G. Williams
 year: 1937
@@ -22,7 +21,9 @@ published: false
 source_doc: jmalayanras-130-williams-suggestedoriginmalay-1937-c0aab41c0dde
 source_path: ../sources/jmalayanras-130-williams-suggestedoriginmalay-1937-c0aab41c0dde.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Suggested origin of the Malay keris and of the superstitions attaching to it
 
 G.C.G. Williams, writing in 1937, proposed that the Malay keris evolved directly from an archaic spearhead and that its elaborate magical reputation was a cultural residue of the Hindu-Moslem religious wars in 15th-century Java. The article, published in the Journal of the Malaysian Branch of the Royal Asiatic Society, draws on the works of Raffles, Crawfurd, Newbold, Skeat, and Winstedt to construct a two-part argument linking the weapon's physical form to its spiritual significance.

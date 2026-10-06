@@ -3,8 +3,7 @@ id: the-mat-salleh-revolt-18941905
 work_id: jmbras-29-1-p20
 title: The Mat Salleh revolt (1894–1905
 canonical_name: The Mat Salleh revolt (1894–1905)
-type: article
-article_type: article
+type: publication
 authors:
 - K.G. Tregonning
 year: 1956
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-173-tregonning-matsallehrevolt-1956-18242fe9eaaf
 source_path: ../sources/jmalayanras-173-tregonning-matsallehrevolt-1956-18242fe9eaaf.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The Mat Salleh revolt (1894–1905
 
 K.G. Tregonning's 1956 article in the *Journal of the Malayan Branch of the Royal Asiatic Society* examines the Mat Salleh revolt (1894–1905) in North Borneo, arguing that the rebellion was less a product of indigenous resistance to colonial rule than a direct consequence of the North Borneo Chartered Company's financial mismanagement under Managing Director William C. Cowie, whose grandiose infrastructure projects and new taxation created the grievances that a charismatic Bajau-Sulu leader exploited. The piece remains a standard narrative account of the conflict, grounded in the company's own administrative correspondence.

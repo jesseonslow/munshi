@@ -3,8 +3,7 @@ id: note-on-the-word-selaseh
 work_id: jmbras-4-3-p420
 title: Note on the word “selaseh”
 canonical_name: Note on the word _“selaseh”._
-type: article
-article_type: article
+type: publication
 authors:
 - H. Overbeck
 year: 1926
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-098-overbeck-notewordselaseh-1926-2756fa540814
 source_path: ../sources/jmalayanras-098-overbeck-notewordselaseh-1926-2756fa540814.md
 summarized: true
+publication_type: note
 ---
+
 # Note on the word “selaseh”
 
 H. Overbeck's short note examines whether the frequent use of *selaseh* (basil) as a rhyme-equivalent for *kekaseh* ("beloved") in Malay pantuns reflects a deeper cultural association with the plant, drawing on Hindu tulasi-rites and Malay literary sources.

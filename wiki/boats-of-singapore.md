@@ -3,8 +3,7 @@ id: boats-of-singapore
 work_id: jmbras-60-2-p99
 title: Boats of Singapore
 canonical_name: Boats of Singapore
-type: article
-article_type: article
+type: publication
 authors:
 - E.R. Alfred
 year: 1987
@@ -20,6 +19,7 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+publication_type: journal_article
 ---
 
 # Boats of Singapore

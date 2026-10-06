@@ -5,8 +5,7 @@ title: 'Pengembaraan La Galigo ke Washington D.C.: Memperkenalkan Husin bin Isma
   [The La Galigo manuscripts in Washington D.C.: Introducing Husin bin Ismail'
 canonical_name: 'Pengembaraan La Galigo ke Washington D.C.: Memperkenalkan Husin bin
   Ismail [The La Galigo manuscripts in Washington D.C.: Introducing Husin bin Ismail]'
-type: article
-article_type: article
+type: publication
 authors:
 - R. Tol
 year: 2020
@@ -31,7 +30,9 @@ keywords:
 - Alfred North
 - Abdullah bin Abdulkadir
 - Husin bin Ismail
+publication_type: journal_article
 ---
+
 # Pengembaraan La Galigo ke Washington D.C.: Memperkenalkan Husin bin Ismail [The La Galigo manuscripts in Washington D.C.: Introducing Husin bin Ismail
 
 Roger Tol, in this 2020 article (originally published in 2003), traces the provenance of five La Galigo manuscripts held at the Library of Congress, Washington D.C., arguing that their journey from 19th-century Singapore to the United States is inseparable from the career of Husin bin Ismail, a Bugis scribe of Wajoq origin who was among the most productive Malay and Bugis copyists of his era.

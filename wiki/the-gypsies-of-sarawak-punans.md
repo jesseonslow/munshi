@@ -3,8 +3,7 @@ id: the-gypsies-of-sarawak-punans
 work_id: jmbras-2-1-p76
 title: The gypsies of Sarawak (Punans
 canonical_name: The gypsies of Sarawak (Punans)
-type: article
-article_type: article
+type: publication
 authors:
 - E.V. Andreini
 year: 1924
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-090-andreini-gypsiessarawakpunans-1924-92f603b5405e
 source_path: ../sources/jmalayanras-090-andreini-gypsiessarawakpunans-1924-92f603b5405e.md
 summarized: true
+publication_type: note
 ---
+
 # The gypsies of Sarawak (Punans
 
 This short note by E. L. Andreini (1924) records a visit to a Punan encampment in Sarawak, describing the group's physical characteristics, subsistence practices, beliefs, and social organisation.

@@ -4,8 +4,7 @@ work_id: jmbras-96-1-p149
 title: The Trading Environment in the Melaka Straits, c. 1800–1830. Comp. P.H. Kratoska
 canonical_name: The Trading Environment in the Melaka Straits, c. 1800–1830. Comp.
   P.H. Kratoska
-type: article
-article_type: article
+type: publication
 authors:
 - P.H. Kratoska
 - Various
@@ -20,6 +19,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: document
 ---
 
 # The Trading Environment in the Melaka Straits, c. 1800–1830. Comp. P.H. Kratoska

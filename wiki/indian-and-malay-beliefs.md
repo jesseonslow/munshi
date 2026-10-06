@@ -3,8 +3,7 @@ id: indian-and-malay-beliefs
 work_id: jsbras-83-1-p88
 title: Indian and Malay beliefs
 canonical_name: Indian and Malay beliefs
-type: article
-article_type: article
+type: publication
 authors:
 - R.O. Winstedt
 year: 1921
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: false
 source_doc: jsbras-083-winstedt-indiamalaybeliefs-1921-6e2ba8e4cee2
 source_path: ../sources/jsbras-083-winstedt-indiamalaybeliefs-1921-6e2ba8e4cee2.md
+publication_type: journal_article
 ---
+
 # Indian and Malay beliefs
 
 R.O. Winstedt, writing in 1921 for the Journal of the Siam Branch of the Royal Asiatic Society, marshals comparative evidence from Vedic, Javanese, and Malay sources to argue that a substantial body of Malay magical practice, wedding ritual, and popular belief is of Indian origin rather than indigenous or Islamic. Building on M. Winternitz's 1900 review of W. W. Skeat's *Malay Beliefs* and adding his own parallels, Winstedt presents a cumulative case for the deep penetration of Hindu-Vedic culture into the Malay archipelago.

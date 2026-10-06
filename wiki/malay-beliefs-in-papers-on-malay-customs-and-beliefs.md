@@ -3,8 +3,7 @@ id: malay-beliefs-in-papers-on-malay-customs-and-beliefs
 work_id: jmbras-30-4-p1
 title: Malay beliefs. {In Papers on Malay customs and beliefs
 canonical_name: Malay beliefs. _{In_ Papers on Malay customs and beliefs}
-type: article
-article_type: article
+type: publication
 authors:
 - R.J. Wilkinson
 year: 1957
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: true
 source_doc: jmalayanras-180-wilkinson-papersmalaycustoms-1957-309d9f59743a
 source_path: ../sources/appendices.md
+publication_type: reprint
 ---
+
 # Malay beliefs. {In Papers on Malay customs and beliefs
 
 R.J. Wilkinson's *Papers on Malay Customs and Beliefs* (1957), published in the Journal of the Malaysian Branch of the Royal Asiatic Society, is a sweeping ethnographic monograph that examines the layered religious beliefs, cosmology, and life-cycle customs of the Peninsular Malay in the mid-twentieth century. Wilkinson's central argument is that Malay religious life constitutes a palimpsest of successive faiths—animist, Hindu, Buddhist, and Muhammadan—each stratum preserved beneath the next, so that the average Malay simultaneously professes Islam while practising rites of far older origin under a thin veneer of orthodoxy.

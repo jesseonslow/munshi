@@ -3,7 +3,7 @@ id: shaer-dandan-setia
 work_id: jmbras-10-1-p141
 title: Shaer Dandan Setia
 canonical_name: _Shaer Dandan Setia._
-type: article
+type: publication
 article_type: article
 authors:
 - H. Overbeck
@@ -21,7 +21,9 @@ published: false
 source_doc: jmalayanras-113-overbeck-shardandanstia-1932-20399810d6ef
 source_path: ../sources/jmalayanras-113-overbeck-shardandanstia-1932-20399810d6ef.md
 summarized: true
+publication_type: translation
 ---
+
 # Shaer Dandan Setia
 
 H. Overbeck's 1932 synopsis of the *Shaer Dandan Setia* provides the first European-language account of one of the longest Malay *shaer* epics, a poem of approximately 5,400 quatrains whose latest lithographed edition appeared in Singapore in 1925/26. Overbeck's central contribution is to demonstrate that the poem is a Malay adaptation of the Javanese Panji legend, transposed into a local milieu and enriched with an abundance of combat, romantic intrigue, and *pantun* exchanges that explain its enduring popularity with Malay readers.

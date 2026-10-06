@@ -3,8 +3,7 @@ id: the-lost-archives-of-melaka-are-they-really-lost
 work_id: jmbras-78-1-p1
 title: 'The lost archives of Melaka: are they really lost?'
 canonical_name: 'The lost archives of Melaka: are they really lost?'
-type: article
-article_type: article
+type: publication
 authors:
 - M.R. Fernando
 year: 2005
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: true
 source_doc: jmbras-288-fernando-lostarchivesmelaka-2005-c22f91329374
 source_path: ../sources/references.md
+publication_type: journal_article
 ---
+
 # The lost archives of Melaka: are they really lost?
 
 M.R. Fernando's 2005 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* challenges the long-standing assumption that the archival records of the Dutch Melaka *comptoir* (1641–1824) have been lost without trace. Drawing on a detailed survey of holdings in the VOC archives at The Hague and the Dutch Records from Malacca collection in the British Library, Fernando demonstrates that a vast corpus of documents covering the political, economic, and social affairs of the Malay Peninsula survives and remains largely untapped by Malaysian historians.

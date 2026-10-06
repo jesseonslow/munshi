@@ -3,8 +3,7 @@ id: a-pangan-vocabulary
 work_id: jmbras-4-1-p147
 title: A Pangan vocabulary
 canonical_name: A Pangan vocabulary
-type: article
-article_type: article
+type: publication
 authors:
 - H.E. Savage
 year: 1926
@@ -18,6 +17,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: note
 ---
 
 # A Pangan vocabulary

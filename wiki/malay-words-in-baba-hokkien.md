@@ -3,8 +3,7 @@ id: malay-words-in-baba-hokkien
 work_id: jmbras-72-1-p125
 title: Malay words in Baba Hokkien
 canonical_name: Malay words in Baba Hokkien
-type: article
-article_type: article
+type: publication
 authors:
 - Lim Beng Soon
 - Boon Seong Teoh
@@ -22,7 +21,9 @@ published: false
 source_doc: jmbras-276-seong-malaywordsbaba-1999-a5f89e01c09a
 source_path: ../sources/jmbras-276-seong-malaywordsbaba-1999-a5f89e01c09a/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Malay words in Baba Hokkien
 
 Teoh Boon Seong and Lim Beng Soon (1999) document the Malay lexical items embedded in Baba Hokkien of Penang, a creolised Hokkien dialect spoken by the Straits Chinese (Peranakan) community of Penang. Their central thesis is that Baba Hokkien of Penang is essentially a Hokkien dialect with superimposed Malay lexical items, fundamentally distinct from the Malay-based Baba Malay of Malacca and Singapore, and that this linguistic profile reflects the unique demographic and historical circumstances of Penang's Peranakan community (pp. 125–126).

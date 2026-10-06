@@ -3,8 +3,7 @@ id: some-perspectives-on-southeast-asian-historiography
 work_id: jmbras-68-2-p53
 title: Some perspectives on Southeast Asian historiography
 canonical_name: Some perspectives on Southeast Asian historiography
-type: article
-article_type: article
+type: publication
 authors:
 - N. Tarling
 year: 1995
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-269-tarling-perspectivessoutheastasian-1995-5aefeb4a92e3
 source_path: ../sources/jmbras-269-tarling-perspectivessoutheastasian-1995-5aefeb4a92e3.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Some perspectives on Southeast Asian historiography
 
 Nicholas Tarling, a leading British historian of Southeast Asia and imperial history, delivered this reflective essay to a Cambridge seminar on international history in 1995, offering a retrospective on four decades of Southeast Asian historiography and its intersections with imperial and international history. His overarching argument is that the field's central controversies—decolonisation, national historiography, and the tension between global and regional perspectives—remain unresolved and mutually illuminating across all three domains.

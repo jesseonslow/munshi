@@ -3,8 +3,7 @@ id: the-tiger-in-borneo
 work_id: jsbras-5-1-p157
 title: The tiger in Borneo
 canonical_name: The tiger in Borneo
-type: article
-article_type: article
+type: publication
 authors:
 - A.H. Everett
 year: 1880
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-005-everett-tigerborneo-1880-e07216308d39
 source_path: ../sources/jsbras-005-everett-tigerborneo-1880-e07216308d39.md
 summarized: true
+publication_type: note
 ---
+
 # The tiger in Borneo
 
 A.H. Everett's note examines the absence of the tiger from Borneo's fauna, presenting both a widespread indigenous tradition of the animal's presence and a physical specimen—a tiger's skull preserved among the Singgi Dyaks of Sarawak.

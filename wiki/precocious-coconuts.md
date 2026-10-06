@@ -3,8 +3,7 @@ id: precocious-coconuts
 work_id: jsbras-31-1-p103
 title: Precocious coconuts
 canonical_name: Precocious coconuts
-type: article
-article_type: article
+type: publication
 authors:
 - H.N. Ridley
 year: 1898
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-031-stephens-precociouscoconuts-1898-3e36a31b1084
 source_path: ../sources/jsbras-031-stephens-precociouscoconuts-1898-3e36a31b1084.md
 summarized: true
+publication_type: note
 ---
+
 # Precocious coconuts
 
 This note, contributed by A. B. Stephens with a response from H. N. Ridley, documents an exceptionally precocious coconut plant observed at the Yam Seng Estate, Perak, in 1897.

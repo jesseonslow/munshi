@@ -3,8 +3,7 @@ id: the-javanese-theatre-wayang-purwa-and-wayang-gedog
 work_id: jsbras-65-1-p19
 title: 'The Javanese theatre: Wayang Purwa and Wayang Gedog'
 canonical_name: 'The Javanese theatre: Wayang Purwa and Wayang Gedog'
-type: article
-article_type: article
+type: publication
 authors:
 - R. Van Beuningen van Helsdingen
 year: 1913
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-065-helsdingen-javanesetheatre-1913-79b8a4dc8e3d
 source_path: ../sources/jsbras-065-helsdingen-javanesetheatre-1913-79b8a4dc8e3d.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The Javanese theatre: Wayang Purwa and Wayang Gedog
 
 R. van Beuningen van Helsdingen's 1913 article in the *Journal of the Straits Branch of the Royal Asiatic Society* (Vol. 65) provides a systematic ethnographic account of two principal forms of Javanese shadow-puppet theatre—*Wayang Purwa* and *Wayang Gedog*—drawing on Javanese literary sources, Dutch colonial-era scholarship, and museum specimens to argue that the shadow-play is an indigenous Javanese institution of pre-Hindu origin that evolved from shamanic ritual into a codified theatrical art.

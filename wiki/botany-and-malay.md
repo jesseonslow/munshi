@@ -3,8 +3,7 @@ id: botany-and-malay
 work_id: jsbras-16-1-p413
 title: Botany and Malay
 canonical_name: Botany and Malay
-type: article
-article_type: article
+type: publication
 authors:
 - B. (‘B.S.') Scortecchini
 year: 1885
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-016-botanymalay-1885-4384b302c0c7
 source_path: ../sources/jsbras-016-botanymalay-1885-4384b302c0c7.md
 summarized: true
+publication_type: note
 ---
+
 # Botany and Malay
 
 A brief note by the Revd. B. Scortecchini correcting botanical misidentifications in earlier publications of the Straits Branch, with an appended editorial remark on Malay terminology.

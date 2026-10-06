@@ -3,8 +3,7 @@ id: journal-kept-during-a-journey-across-the-malay-peninsula
 work_id: jsbras-15-1-p1
 title: Journal kept during a journey across the Malay Peninsula
 canonical_name: Journal kept during a journey across the Malay Peninsula
-type: article
-article_type: article
+type: publication
 authors:
 - F.A. Swettenham
 year: 1885
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-015-swettenham-journalkeptjourney-1885-4027d3115d7f
 source_path: ../sources/jsbras-015-swettenham-journalkeptjourney-1885-4027d3115d7f.md
 summarized: true
+publication_type: document
 ---
+
 # Journal kept during a journey across the Malay Peninsula
 
 F.A. Swettenham's 1885 journal records his sea-to-sea crossing of the Malay Peninsula from the Bernam River to the Pahang River—a route of 402 miles traversing the main mountain range—undertaken in April–May 1885 to survey a proposed trunk road through Perak and to assess the commercial and administrative potential of Pahang. The account functions simultaneously as a travel narrative, a geographical survey, and a colonial policy memorandum.

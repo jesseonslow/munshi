@@ -3,8 +3,7 @@ id: genealogy-of-the-royal-family-of-brunei
 work_id: jsbras-15-1-p79
 title: Genealogy of the royal family of Brunei
 canonical_name: Genealogy of the royal family of Brunei
-type: article
-article_type: article
+type: publication
 authors:
 - W.H. Treacher
 year: 1885
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-015-treacher-genealogyroyalfamily-1885-438eda96b089
 source_path: ../sources/jsbras-015-treacher-genealogyroyalfamily-1885-438eda96b089.md
 summarized: true
+publication_type: note
 ---
+
 # Genealogy of the royal family of Brunei
 
 This is a short genealogical note by W. H. Treacher, Governor of British North Borneo, presenting a translation of a native manuscript on the royal family of Brunei, published as a supplement to Sir Hugh Low's earlier paper in the same journal (p. 79).

@@ -3,8 +3,7 @@ id: medical-education-in-the-straits-17861871
 work_id: jmbras-46-1-p101
 title: Medical education in the Straits, 1786–1871
 canonical_name: Medical education in the Straits, 1786–1871
-type: article
-article_type: article
+type: publication
 authors:
 - Y.K. Lee
 year: 1973
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-223-lee-medicaleducationstraits-1973-a1b5edc1ad9a
 source_path: ../sources/jmbras-223-lee-medicaleducationstraits-1973-a1b5edc1ad9a/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Medical education in the Straits, 1786–1871
 
 Y.K. Lee's 1973 article traces the development of medical education in the Straits Settlements (Penang, Singapore, Malacca) across the eighty-five years following Penang's founding in 1786, arguing that the chronic failure of local apprenticeship schemes—driven by chronically inadequate pay, the absence of organised instruction, and the indifference of successive colonial administrations—was only resolved after the 1867 Transfer of the Settlements from the India Office to the Colonial Office, which severed the supply of Indian Apothecaries and forced the adoption of the Madras Medical College training model that persisted until the founding of the King Edward VII College of Medicine in 1905.

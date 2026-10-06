@@ -3,8 +3,7 @@ id: malay-manuscripts-materials-and-problems-of-conservation
 work_id: jmbras-66-2-p81
 title: 'Malay manuscripts: materials and problems of conservation'
 canonical_name: 'Malay manuscripts: materials and problems of conservation'
-type: article
-article_type: article
+type: publication
 authors:
 - Ding Choo Ming
 year: 1993
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-265-ming-malaymanuscriptsmaterials-1993-fb901081deae
 source_path: ../sources/jmbras-265-ming-malaymanuscriptsmaterials-1993-fb901081deae/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Malay manuscripts: materials and problems of conservation
 
 Ding Choo Ming (1993) surveys the material composition of Malay manuscripts and the environmental, chemical, and human factors driving their deterioration across Southeast Asian collections, arguing that the region faces an urgent conservation crisis demanding institutional commitment, trained conservators, and controlled storage environments. The article was published in the *Journal of the Malaysian Branch of the Royal Asiatic Society*, Vol. 66, No. 2, pp. 81–102.

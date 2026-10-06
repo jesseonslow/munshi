@@ -3,8 +3,7 @@ id: eighteenth-and-nineteenth-century-chinese-accounts-of-the-ma
 work_id: jmbras-52-1-p1
 title: Eighteenth and nineteenth century Chinese accounts of the Malay Peninsula
 canonical_name: Eighteenth and nineteenth century Chinese accounts of the Malay Peninsula
-type: article
-article_type: article
+type: publication
 authors:
 - J.W. Cushman
 - A.C. Milner
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-235-cushman-eighteenthnineteenthcenturychinese-1979-5b52f586fb21
 source_path: ../sources/jmbras-235-cushman-eighteenthnineteenthcenturychinese-1979-5b52f586fb21/frontmatter.md
 summarized: true
+publication_type: translation
 ---
+
 # Eighteenth and nineteenth century Chinese accounts of the Malay Peninsula
 
 J.W. Cushman and A.C. Milner published this article in 1979 in the *Journal of the Malaysian Branch of the Royal Asiatic Society* (Vol. 52, No. 1), presenting English translations of excerpts from three Chinese-language geographical and commercial texts covering the Malay Peninsula in the eighteenth and early nineteenth centuries. The article argues that these Chinese sources, long neglected by Malayan historians in favour of European accounts, offer a distinctive commercial and administrative perspective on the peninsula that complements and occasionally challenges the Western record.

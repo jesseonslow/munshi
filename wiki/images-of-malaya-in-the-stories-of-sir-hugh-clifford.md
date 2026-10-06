@@ -3,8 +3,7 @@ id: images-of-malaya-in-the-stories-of-sir-hugh-clifford
 work_id: jmbras-52-1-p57
 title: Images of Malaya in the stories of Sir Hugh Clifford
 canonical_name: Images of Malaya in the stories of Sir Hugh Clifford
-type: article
-article_type: article
+type: publication
 authors:
 - P.C. Wicks
 year: 1979
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-235-wicks-imagesmalayastories-1979-ff1a040fe660
 source_path: ../sources/jmbras-235-wicks-imagesmalayastories-1979-ff1a040fe660.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Images of Malaya in the stories of Sir Hugh Clifford
 
 P.C. Wicks (1979) examines the literary output of Sir Hugh Clifford, a British colonial administrator who served in the Malay States from 1883 to 1903, arguing that Clifford's novels and short stories constitute a valuable historical source for understanding the period when traditional Malay society encountered both British colonialism and accelerating Chinese immigration. Wicks contends that Clifford's fiction reveals an "intriguingly ambiguous gap between public life and private thought" (p. 54), exposing doubts about imperialism that the official record does not capture.

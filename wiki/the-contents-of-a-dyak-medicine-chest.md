@@ -3,8 +3,7 @@ id: the-contents-of-a-dyak-medicine-chest
 work_id: jsbras-39-1-p65
 title: The contents of a Dyak medicine chest
 canonical_name: The contents of a Dyak medicine chest
-type: article
-article_type: article
+type: publication
 authors:
 - C. Hose
 year: 1903
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-039-hose-contentsdyakmedicine-1903-e7a3246dbaa1
 source_path: ../sources/jsbras-039-hose-contentsdyakmedicine-1903-e7a3246dbaa1.md
 summarized: true
+publication_type: note
 ---
+
 # The contents of a Dyak medicine chest
 
 C. Hose, writing in 1903, documents a first-hand ethnographic encounter with a Sea-Dyak *Manang* (spiritual healer) named Dasu in the upper Saribas River, cataloguing the contents and ritual uses of his *Lupong* (medicine chest) as a means of comparing indigenous Bornean spiritual beliefs with Malay *Pawang* and *Bomom* practices. The article is a compact field note arising from a single evening's interview in the longhouse of *Tuai* Brok at Kundong village, conducted with the assistance of Rev. William Howell, a noted authority on Sea-Dyak language and custom (pp. 65–66).

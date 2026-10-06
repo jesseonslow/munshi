@@ -3,8 +3,7 @@ id: main-peteri-synopses-of-three-shamanistic-performances
 work_id: jmbras-60-2-p55
 title: 'Main peteri: synopses of three shamanistic performances'
 canonical_name: _Main peteri:_ synopses of three shamanistic performances
-type: article
-article_type: article
+type: publication
 authors:
 - C. Laderman
 year: 1987
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-253-laderman-mainpeterisynopses-1987-7225e09bb3f3
 source_path: ../sources/jmbras-253-laderman-mainpeterisynopses-1987-7225e09bb3f3/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Main peteri: synopses of three shamanistic performances
 
 Carol Laderman's 1987 article presents detailed ethnographic synopses of three *Main Peteri* shamanistic seances observed in Trengganu and Kelantan during the 1970s and early 1980s, arguing that the ritual embeds a sophisticated psychotherapeutic theory of personality—centered on "Inner Winds" (*angin*)—that challenges the prevailing scholarly assumption that shamanistic healing operates solely through external projection of illness onto spirits (pp. 55–57).

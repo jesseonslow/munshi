@@ -3,8 +3,7 @@ id: human-images-among-the-orang-mantong
 work_id: jsbras-41-1-p128
 title: Human images among the Orang Mantong
 canonical_name: Human images among the Orang Mantong
-type: article
-article_type: article
+type: publication
 authors:
 - W.L. Abbott
 year: 1904
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-041-abbott-humanimagesamong-1904-639ef1739952
 source_path: ../sources/jsbras-041-abbott-humanimagesamong-1904-639ef1739952.md
 summarized: true
+publication_type: note
 ---
+
 # Human images among the Orang Mantong
 
 This short note by Dr. W.L. Abbott reports the discovery of two wooden human images in a cave on Pulo Sanglar, Rhio Archipelago, in July 1903, and offers a preliminary interpretation of their likely ritual function.

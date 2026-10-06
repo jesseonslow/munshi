@@ -3,8 +3,7 @@ id: notes-on-the-enemies-of-butterflies
 work_id: jsbras-86-1-p268
 title: Notes on the enemies of butterflies
 canonical_name: Notes on the enemies of butterflies
-type: article
-article_type: article
+type: publication
 authors:
 - L. Collenette
 year: 1922
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-086-collenette-notesenemiesbutterflies-1922-2761b05fe3f3
 source_path: ../sources/jsbras-086-collenette-notesenemiesbutterflies-1922-2761b05fe3f3.md
 summarized: true
+publication_type: note
 ---
+
 # Notes on the enemies of butterflies
 
 This short note by C. L. Collenette documents field observations of predation on butterflies in Singapore, made in January–February 1922.

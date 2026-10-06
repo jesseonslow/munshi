@@ -5,8 +5,7 @@ title: The voyages and adventures of Fernand Mendez Pinto. . Cogan. {Book announ
   J. Bastin
 canonical_name: The voyages and adventures of Fernand Mendez Pinto. . Cogan. {Book
   announcement J. Bastin}
-type: article
-article_type: translation
+type: publication
 authors:
 - J.S. Bastin
 - H. Cogan
@@ -21,6 +20,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: review
 ---
 
 # The voyages and adventures of Fernand Mendez Pinto. . Cogan. {Book announcement J. Bastin

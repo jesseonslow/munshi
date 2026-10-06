@@ -3,8 +3,7 @@ id: francis-lights-silver-bason
 work_id: jmbras-73-1-p117
 title: Francis Light’s “Silver Bason”?
 canonical_name: Francis Light’s “Silver Bason”?
-type: article
-article_type: article
+type: publication
 authors:
 - H.S. Barlow
 year: 2000
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-278-barlow-francislightssilver-2000-2a664e3e9e46
 source_path: ../sources/jmbras-278-barlow-francislightssilver-2000-2a664e3e9e46/frontmatter.md
 summarized: true
+publication_type: note
 ---
+
 # Francis Light’s “Silver Bason”?
 
 H.S. Barlow's short note examines a George III silver punch bowl that appeared on the London silver market, arguing it was likely a gift from James Scott to Francis Light, the founder of Penang (p. 117).

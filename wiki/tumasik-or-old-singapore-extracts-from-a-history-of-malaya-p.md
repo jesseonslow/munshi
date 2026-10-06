@@ -5,8 +5,7 @@ title: Tumasik or old Singapore {extracts from A History of Malaya, published in
   Journal as Part I of Volume 13, 1935
 canonical_name: Tumasik or old Singapore {extracts from A History of Malaya, published
   in the Journal as Part I of Volume 13, 1935}
-type: article
-article_type: article
+type: publication
 authors:
 - R.O. Winstedt
 year: 1969
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-215-winstedt-tumasikoldsingapore-1969-c1c0b1f344a3
 source_path: ../sources/jmbras-215-winstedt-tumasikoldsingapore-1969-c1c0b1f344a3.md
 summarized: true
+publication_type: reprint
 ---
+
 # Tumasik or old Singapore {extracts from A History of Malaya, published in the Journal as Part I of Volume 13, 1935
 
 R.O. Winstedt, writing in 1935 (republished in the *JMBRAS* in 1969), reconstructs the history of ancient Singapore (Tumasik) from a confluence of Chinese, Javanese, Portuguese, and Malay sources, arguing that the island was a strategically important entrepôt port that fell to Majapahit in the fourteenth century, and that the legendary account in the *Malay Annals* is a late compilation of myth and anachronism rather than reliable history.

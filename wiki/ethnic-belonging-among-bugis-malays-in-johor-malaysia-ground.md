@@ -5,8 +5,7 @@ title: 'Ethnic belonging among Bugis Malays in Johor, Malaysia: grounding the pr
   in the past'
 canonical_name: 'Ethnic belonging among Bugis Malays in Johor, Malaysia: grounding
   the present in the past'
-type: article
-article_type: article
+type: publication
 authors:
 - Nur Aisyah Kotarumalos
 year: 2019
@@ -28,7 +27,9 @@ keywords:
 - Johor
 - Malaysia
 - ethnic identity
+publication_type: journal_article
 ---
+
 # Ethnic belonging among Bugis Malays in Johor, Malaysia: grounding the present in the past
 
 ## Abstract

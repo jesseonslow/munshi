@@ -3,8 +3,7 @@ id: bats-in-a-bamboo
 work_id: jsbras-50-1-p103
 title: Bats in a bamboo
 canonical_name: Bats in a bamboo
-type: article
-article_type: article
+type: publication
 authors:
 - H.N. Ridley
 year: 1908
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-050-ridley-batsbamboo-1908-2250cd59c326
 source_path: ../sources/jsbras-050-ridley-batsbamboo-1908-2250cd59c326.md
 summarized: true
+publication_type: note
 ---
+
 # Bats in a bamboo
 
 This short note by H. N. Ridley documents the discovery of a colony of *Tylonycteris pachypus* bats sheltering inside a single joint of dead bamboo (*Dendrocalamus pendulus*) in the Botanical Gardens, Singapore.

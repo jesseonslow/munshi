@@ -5,8 +5,7 @@ title: 'From romanticism to colonial pragmatics: Malay language and literature s
   in Germany 1800‒1945'
 canonical_name: 'From romanticism to colonial pragmatics: Malay language and literature
   studies in Germany 1800‒1945'
-type: article
-article_type: article
+type: publication
 authors:
 - H. Warnk
 year: 2011
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-301-warnk-romanticismcolonialpragmatics-2011-3771fee01102
 source_path: ../sources/jmbras-301-warnk-romanticismcolonialpragmatics-2011-3771fee01102/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # From romanticism to colonial pragmatics: Malay language and literature studies in Germany 1800‒1945
 
 ## Abstract

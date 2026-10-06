@@ -5,8 +5,7 @@ title: Early Indo-Chinese influence in the Malay Peninsula, as illustrated by so
   of the dialects of the aboriginal tribes
 canonical_name: Early Indo-Chinese influence in the Malay Peninsula, as illustrated
   by some of the dialects of the aboriginal tribes
-type: article
-article_type: article
+type: publication
 authors:
 - C.O. Blagden
 year: 1894
@@ -23,7 +22,9 @@ published: false
 source_doc: jsbras-027-blagden-earlyindochineseinfluence-1894-74bc9c4a7e4f
 source_path: ../sources/jsbras-027-blagden-earlyindochineseinfluence-1894-74bc9c4a7e4f.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Early Indo-Chinese influence in the Malay Peninsula, as illustrated by some of the dialects of the aboriginal tribes
 
 C. Otto Blagden, a colonial administrator based in Malacca, published this comparative linguistic study in 1894, arguing that the dialects of the Malay Peninsula's aboriginal tribes preserve a substantial layer of Mon-Annam (Indo-Chinese) vocabulary that testifies to a former period of political dominion by a Mon-Annam race over the Peninsula before the Malay migration. The article revives and extends a line of inquiry first opened by J.R. Logan in the 1850s, which Blagden contends had been neglected or misinterpreted by subsequent scholars.

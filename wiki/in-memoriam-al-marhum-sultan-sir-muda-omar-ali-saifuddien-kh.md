@@ -5,8 +5,7 @@ title: 'In memoriam: Al-Marhum Sultan Sir Muda Omar ‘Ali Saifuddien Khairi Wad
   Obituary'
 canonical_name: 'In memoriam: Al-Marhum Sultan Sir Muda Omar ‘Ali Saifuddien Khairi
   Wadddien. Obituary'
-type: article
-article_type: obituary
+type: publication
 authors:
 - P.M. Shariffuddin
 year: 1986
@@ -22,8 +21,8 @@ status: stub
 published: false
 source_doc: jsbras-059-scrivenor-sketchgeologicalstructure-1911-e7ac205417ff
 source_path: ../sources/jsbras-059-scrivenor-sketchgeologicalstructure-1911-e7ac205417ff.md
+publication_type: obituary
 ---
-
 
 # In memoriam: Al-Marhum Sultan Sir Muda Omar ‘Ali Saifuddien Khairi Wadddien. Obituary
 

@@ -3,8 +3,7 @@ id: state-museums-and-their-representation-of-the-past-in-malays
 work_id: jmbras-81-2-p45
 title: State museums and their representation of the past in Malaysia
 canonical_name: State museums and their representation of the past in Malaysia
-type: article
-article_type: article
+type: publication
 authors:
 - Abu Talib Ahmad
 year: 2008
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-295-ahmad-statemuseumsrepresentations-2008-570788b5dfc2
 source_path: ../sources/jmbras-295-ahmad-statemuseumsrepresentations-2008-570788b5dfc2/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # State museums and their representation of the past in Malaysia
 
 Abu Talib Ahmad (2008) evaluates how Malaysian state museums construct and project official narratives of the past, arguing that these institutions function as instruments of nation-building that selectively foreground Malay achievement while marginalizing other ethnic groups, political movements, and uncomfortable historical episodes. Drawing on site visits to museums in Kelantan, Terengganu, Kedah, Penang, Selangor, Kuala Lumpur, and Sabah, the article assesses whether these institutions have taken cognizance of advances in historical research or remain locked in a post-independence consensus narrative.

@@ -3,8 +3,7 @@ id: the-sinicization-of-malay-keramats-in-malaysia
 work_id: jmbras-71-2-p49
 title: The sinicization of Malay keramats in Malaysia
 canonical_name: The sinicization of Malay _keramats_ in Malaysia
-type: article
-article_type: article
+type: publication
 authors:
 - Chen Hock Tong
 year: 1998
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-275-tong-sinicizationmalaykeramats-1998-27166900463d
 source_path: ../sources/jmbras-275-tong-sinicizationmalaykeramats-1998-27166900463d/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The sinicization of Malay keramats in Malaysia
 
 Cheu Hock Tong, writing from the National University of Singapore, published this study in the *Journal of the Malaysian Branch of the Royal Asiatic Society* in 1998 to document how Chinese communities in Malaysia adopted and reinterpreted the Malay *keramat* (saint shrine) tradition as the *Datuk Kong* or *Nadugong* cult. The article's overarching thesis is that this process of "sinicization" functions as a model of inter-religious relations and cross-cultural accommodation in multiethnic, multireligious Malaysia, operating through reinterpretation and reintegration rather than simple assimilation (pp. 29–31).

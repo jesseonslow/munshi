@@ -4,8 +4,7 @@ work_id: jmbras-67-2-p1
 title: The progress of Malaysian law. Annual lecture delivered on 6 December, 1994
 canonical_name: The progress of Malaysian law. Annual lecture delivered on 6 December,
   1994
-type: article
-article_type: article
+type: publication
 authors:
 - R.H. Hickling
 year: 1994
@@ -23,7 +22,9 @@ summarized: true
 source_mismatch: false
 source_doc: jmbras-267-hickling-progressmalaysianlaw-1994-f4888b8bf592
 source_path: ../sources/jmbras-267-hickling-progressmalaysianlaw-1994-f4888b8bf592.md
+publication_type: journal_article
 ---
+
 # The progress of Malaysian law. Annual lecture delivered on 6 December, 1994
 
 R.H. Hickling, a senior Malaysian legal figure and former academic at the University of Malaya and Universiti Kebangsaan Malaysia, delivered this annual lecture to the Malaysian Branch of the Royal Asiatic Society on 6 December 1994. Writing in the mid-1990s, at a moment of rapid social and constitutional change, Hickling offers a broad, reflective meditation on the trajectory of Malaysian law from its tripartite origins in adat, Islam, and the English common law through to the challenges posed by federal centralization, the expansion of legal education, and the corrosive influence of television on legal culture. His overarching argument is that while the common law has been of "inestimable benefit" to the country, the legal system must now evolve in its own cultural direction rather than remain a passive inheritor of Westminster models.

@@ -5,8 +5,7 @@ title: 'Communist involvement in Malayan labour strikes: 1936 (The communist cha
   in the Malayan labour scene, Sept. 1936–Mar. 1937'
 canonical_name: 'Communist involvement in Malayan labour strikes: 1936 (The communist
   challenge in the Malayan labour scene, Sept. 1936–Mar. 1937)'
-type: article
-article_type: article
+type: publication
 authors:
 - Yeo Kim Wah
 year: 1976
@@ -29,7 +28,9 @@ published: false
 source_doc: jmbras-230-wah-communistchallengemalayan-1976-c07d8bddc50e
 source_path: ../sources/jmbras-230-wah-communistchallengemalayan-1976-c07d8bddc50e.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Communist involvement in Malayan labour strikes: 1936 (The communist challenge in the Malayan labour scene, Sept. 1936–Mar. 1937
 
 Yeo Kim Wah's 1976 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* revisits the first large-scale wave of strikes in Malayan mines, rubber estates, and factories between September 1936 and March 1937, arguing against the prevailing scholarly consensus (Parmer, Stenson) that communists played little part in the unrest. Drawing on newly declassified police Special Branch files, Chinese Protectorate reports, and colonial correspondence, Yeo demonstrates that the Malayan Communist Party's vocational united front policy, adopted at its September 1936 Muar conference, was actively and successfully implemented in Selangor and Negri Sembilan, culminating in the March 1937 estate and colliery strikes that briefly created a communist *imperium in imperio* at Batu Arang.

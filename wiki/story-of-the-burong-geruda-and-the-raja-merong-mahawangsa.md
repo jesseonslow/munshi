@@ -3,8 +3,7 @@ id: story-of-the-burong-geruda-and-the-raja-merong-mahawangsa
 work_id: jsbras-54-1-p107
 title: Story of the Burong Geruda and the Raja Merong Mahawangsa
 canonical_name: Story of the Burong Geruda and the Raja Merong Mahawangsa
-type: article
-article_type: article
+type: publication
 authors:
 - R.N. Bland
 year: 1910
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-054-bland-storyburonggeruda-1910-2da25c42737a
 source_path: ../sources/jsbras-054-bland-storyburonggeruda-1910-2da25c42737a.md
 summarized: true
+publication_type: translation
 ---
+
 # Story of the Burong Geruda and the Raja Merong Mahawangsa
 
 R.N. Bland, writing in 1910 while serving as British Resident of Kedah, published a translation of a foundational mythological narrative drawn from the Kedah Annals (*Sejarah Kedah*) that traces the legendary origins of the Kedah royal line through the figure of Raja Merong Mahawangsa. The text presents a cosmological origin story in which divine will, supernatural conflict, and royal destiny converge to establish the legitimacy of Kedah's sultans as descendants of a hero sanctioned by the Nabi Suleiman (Prophet Solomon).

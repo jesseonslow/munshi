@@ -3,8 +3,7 @@ id: spolia-mentawiensia-acridiidae-orthoptera
 work_id: jmbras-6-1-p1
 title: Spolia mentawiensia. Acridiidae (Orthoptera
 canonical_name: Spolia mentawiensia. Acridiidae (Orthoptera)
-type: article
-article_type: article
+type: publication
 authors:
 - C. Willense
 year: 1928
@@ -20,6 +19,7 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+publication_type: journal_article
 ---
 
 # Spolia mentawiensia. Acridiidae (Orthoptera

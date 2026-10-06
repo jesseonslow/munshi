@@ -3,8 +3,7 @@ id: shaer-kampong-gelam-terbakar-skinner
 work_id: jmbras-45-1-p21
 title: Shaer Kampong Gelam Terbakar. . Skinner
 canonical_name: _Shaer Kampong Gelam Terbakar._ . Skinner
-type: article
-article_type: article
+type: publication
 authors:
 - Abdullah bin Abdul Kadir
 - C. Skinner
@@ -22,7 +21,9 @@ published: false
 source_doc: jmbras-221-skinner-shaerkamponggelam-1972-54dc67315344
 source_path: ../sources/jmbras-221-skinner-shaerkamponggelam-1972-54dc67315344.md
 summarized: true
+publication_type: translation
 ---
+
 # Shaer Kampong Gelam Terbakar. . Skinner
 
 C. Skinner's 1972 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* presents a critical edition, with extensive annotations, of Abdullah bin Abdul Kadir's *Shaer Kampong Gelam Terbakar*, a Malay ballad composed in March 1847 describing the devastating fire that swept through Singapore's Kampong Gelam district on 12 February 1847. Skinner situates the poem within the administrative and social context of mid-century colonial Singapore, using contemporary newspaper reports, government correspondence, and almanac entries to identify the numerous European, Chinese, Malay, and Indian figures Abdullah names in his verse.

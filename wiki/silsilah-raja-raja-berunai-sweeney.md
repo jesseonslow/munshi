@@ -3,8 +3,7 @@ id: silsilah-raja-raja-berunai-sweeney
 work_id: jmbras-41-2-p1
 title: Silsilah Raja-Raja Berunai. . Sweeney
 canonical_name: _Silsilah Raja-Raja Berunai._ . Sweeney
-type: article
-article_type: article
+type: publication
 authors:
 - A. Sweeney
 year: 1968
@@ -28,7 +27,9 @@ summarized: true
 source_mismatch: false
 source_doc: jmbras-214-sweeney-silsilahrajarajaberunai-1968-19b02eae0d38
 source_path: ../sources/jmbras-214-sweeney-silsilahrajarajaberunai-1968-19b02eae0d38.md
+publication_type: translation
 ---
+
 # Silsilah Raja-Raja Berunai. . Sweeney
 
 P.L. Amin Sweeney's 1968 edition of *Silsilah Raja-Raja Berunai* presents the romanized texts of two eighteenth- and nineteenth-century Malay manuscripts preserving the genealogy, court customs, and political history of the Brunei sultanate, originally composed by Datuk Imam Ya'akub (c. 1735) and completed by Haji 'Abdul Latif in 1807. The work constitutes the first full critical publication of these London-held manuscripts (SOAS MS. 25032 and RAS MS. 123), both bequeathed by Sir Richard Winstedt, and provides extensive annotation against Sir Hugh Low's 1880 edition and other comparative sources.

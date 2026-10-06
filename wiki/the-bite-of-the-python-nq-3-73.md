@@ -3,8 +3,7 @@ id: the-bite-of-the-python-nq-3-73
 work_id: jsbras-16-the-bite-of-the-python-nq-3-73
 title: 'The bite of the python. NQ 3: 73'
 canonical_name: 'The bite of the python. NQ 3: 73'
-type: article
-article_type: notes_and_queries
+type: publication
 authors:
 - L. Wray
 year: 1885
@@ -18,6 +17,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: note
 ---
 
 # The bite of the python. NQ 3: 73

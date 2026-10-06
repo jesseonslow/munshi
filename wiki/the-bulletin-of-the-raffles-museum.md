@@ -3,8 +3,7 @@ id: the-bulletin-of-the-raffles-museum
 work_id: jmbras-6-4-p84
 title: The bulletin of the Raffles Museum
 canonical_name: The bulletin of the Raffles Museum
-type: article
-article_type: article
+type: publication
 authors:
 - C.B. Kloss
 year: 1928
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-105-kloss-bulletinrafflesmuseum-1928-5529ad97096f
 source_path: ../sources/jmalayanras-105-kloss-bulletinrafflesmuseum-1928-5529ad97096f.md
 summarized: true
+publication_type: note
 ---
+
 # The bulletin of the Raffles Museum
 
 This is a brief editorial note by C. Boden Kloss announcing the establishment of the *Bulletin of the Raffles Museum, Straits Settlements* as a third local museum journal in Malaysia, alongside those of the Federated Malay States Museums and the Sarawak Museum.

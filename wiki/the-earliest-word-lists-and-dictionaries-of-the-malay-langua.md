@@ -3,8 +3,7 @@ id: the-earliest-word-lists-and-dictionaries-of-the-malay-langua
 work_id: jmbras-22-1-p183
 title: The earliest word-lists and dictionaries of the Malay language
 canonical_name: The earliest word-lists and dictionaries of the Malay language
-type: article
-article_type: article
+type: publication
 authors:
 - W. Linehan
 year: 1949
@@ -18,6 +17,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: journal_article
 ---
 
 # The earliest word-lists and dictionaries of the Malay language

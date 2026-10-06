@@ -3,8 +3,7 @@ id: a-murut-vocabulary-with-an-introductory-note-gc-woolley
 work_id: jsbras-86-1-p343
 title: A Murut vocabulary. With an introductory note G.C. Woolley
 canonical_name: A Murut vocabulary. With an introductory note G.C. Woolley
-type: article
-article_type: article
+type: publication
 authors:
 - N.B. Baboneau
 year: 1922
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-086-baboneau-murutvocabulary-1922-29e4c6efffb4
 source_path: ../sources/jsbras-086-baboneau-murutvocabulary-1922-29e4c6efffb4.md
 summarized: true
+publication_type: document
 ---
+
 # A Murut vocabulary. With an introductory note G.C. Woolley
 
 N.B. Baboneau, an officer in the British North Borneo Service, compiled this Murut vocabulary between 1911 and 1914 with the assistance of Keningau Murut speakers; it was published posthumously in 1922 with an introductory note by G.C. Woolley, who supplies the ethnographic and dialectological framework. The work represents one of the earliest systematic attempts to record the Murut language in written form, produced within the context of expanding colonial administration in the interior of British North Borneo.

@@ -3,8 +3,7 @@ id: thamboosamy-pillai-and-the-colonial-elite-of-british-malaya
 work_id: jmbras-94-1-p101
 title: Thamboosamy Pillai and the Colonial Elite of British Malaya
 canonical_name: Thamboosamy Pillai and the Colonial Elite of British Malaya
-type: article
-article_type: article
+type: publication
 authors:
 - Sivachandralingam Sundara Raja
 year: 2021
@@ -29,7 +28,9 @@ keywords:
 source_mismatch: true
 source_doc: raja-thamboosamy-pillai-and-the-colonial-elite-171db612b176
 source_path: ../sources/references.md
+publication_type: journal_article
 ---
+
 # Thamboosamy Pillai and the Colonial Elite of British Malaya
 
 ## Abstract

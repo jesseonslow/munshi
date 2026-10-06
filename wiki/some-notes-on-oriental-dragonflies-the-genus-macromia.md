@@ -3,8 +3,7 @@ id: some-notes-on-oriental-dragonflies-the-genus-macromia
 work_id: jsbras-85-1-p218
 title: 'Some notes on oriental dragonflies: the genus Macromia'
 canonical_name: 'Some notes on oriental dragonflies: the genus _Macromia._'
-type: article
-article_type: article
+type: publication
 authors:
 - F.F. Laidlaw
 year: 1922
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-085-laidlaw-notesorientaldragonflies-1922-02d695773e92
 source_path: ../sources/jsbras-085-laidlaw-notesorientaldragonflies-1922-02d695773e92.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Some notes on oriental dragonflies: the genus Macromia
 
 F.F. Laidlaw's 1922 monograph on the Oriental genus *Macromia* provides a systematic revision of the dragonfly genus across the Indo-Malayan region, describing three new species and establishing a morphological framework for distinguishing among at least eighteen known species based on genital structures, abdominal coloration, and wing characters.

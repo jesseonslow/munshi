@@ -3,8 +3,7 @@ id: the-history-of-perak-from-native-sources
 work_id: jsbras-14-1-p305
 title: The history of Perak from native sources
 canonical_name: The history of Perak from native sources
-type: article
-article_type: notes_and_queries
+type: publication
 authors:
 - W.E. Maxwell
 year: 1884
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-009-maxwell-historyperaknative-1882-58b818a45a38
 source_path: ../sources/jsbras-009-maxwell-historyperaknative-1882-58b818a45a38.md
 summarized: true
+publication_type: translation
 ---
+
 # The history of Perak from native sources
 
 W.E. Maxwell published "The History of Perak from Native Sources" in the *Journal of the Siam Branch of the Royal Asiatic Society* (Vol. 14, 1884), presenting a translation of the *Marong Mahawangsa*, a native Malay chronicle of Perak. The article situates Perak's political origins in the legendary migration of a Kedah prince and the subsequent establishment of the Johor royal line, tracing succession through Acheh conquests, Bugis invasions, and the early Dutch commercial presence at Tanjong Putus. Maxwell's overarching thesis is that the native chronicle, while rich in mythological material, preserves a coherent political genealogy that can be cross-referenced with the *Sajarah Melayu* and Acheh annals to reconstruct the state's formative centuries.

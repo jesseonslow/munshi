@@ -5,8 +5,7 @@ title: 'The Peranakan associations of Malaysian and Singapore: history and curre
   scenario'
 canonical_name: 'The Peranakan associations of Malaysian and Singapore: history and
   current scenario'
-type: article
-article_type: article
+type: publication
 authors:
 - Lee Su Kim
 year: 2009
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-297-kim-peranakanassociationsmalaysia-2009-ca6522517010
 source_path: ../sources/jmbras-297-kim-peranakanassociationsmalaysia-2009-ca6522517010/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The Peranakan associations of Malaysian and Singapore: history and current scenario
 
 Lee Su Kim's 2009 article surveys the institutional history and contemporary condition of Peranakan Chinese associations across Malaysia, Singapore, and the wider diaspora, arguing that these bodies have transformed from colonial-era political instruments into cultural preservation networks that now face the dual threats of commercialization and generational dislocation. Writing as the founding president of the Kuala Lumpur and Selangor chapter, Kim situates each association within its specific urban and political context to demonstrate how Peranakan identity is being actively reconstituted rather than passively inherited.

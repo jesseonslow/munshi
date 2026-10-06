@@ -5,8 +5,7 @@ title: On Malaysian katydids (Gryllacidae and Tettigoniidiae) from the Raffles M
   Singapore
 canonical_name: On Malaysian katydids (Gryllacidae and Tettigoniidiae) from the Raffles
   Museum, Singapore
-type: article
-article_type: article
+type: publication
 authors:
 - H.H. Karny
 year: 1923
@@ -23,7 +22,9 @@ published: false
 source_doc: jmalayanras-087-karny-malaysiankatydidsgryllacridae-1923-f4d03c889a56
 source_path: ../sources/jmalayanras-087-karny-malaysiankatydidsgryllacridae-1923-f4d03c889a56.md
 summarized: true
+publication_type: journal_article
 ---
+
 # On Malaysian katydids (Gryllacidae and Tettigoniidiae) from the Raffles Museum, Singapore
 
 H.H. Karny, a German entomologist based at the Zoological Museum in Buitenzorg (Dutch East Indies), published this comprehensive revision of the Malayan katydid fauna in 1923, drawing on specimens held at the Raffles Museum, Singapore. The paper establishes a definitive catalogue of the families Gryllacridae and Tettigoniidae for the Malayan sub-region, describing 35 new species and one new genus, and expanding the known regional fauna from 320 to 357 species.

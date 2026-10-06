@@ -3,8 +3,7 @@ id: the-survey-question
 work_id: jsbras-18-1-p271
 title: The survey question
 canonical_name: The survey question
-type: article
-article_type: notes_and_queries
+type: publication
 authors:
 - W.E. Maxwell
 year: 1886
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-018-maxwell-surveyquestioncochinchina-1886-224d59f00970
 source_path: ../sources/jsbras-018-maxwell-surveyquestioncochinchina-1886-224d59f00970.md
 summarized: true
+publication_type: translation
 ---
+
 # The survey question
 
 W.E. Maxwell, an officer of the Straits Settlements Survey Department, published this piece in 1886 as a translation of a paper by M. Camouilly from the *Bulletin de la Société des Études Indo-Chinoises de Saigon*, presenting a detailed French colonial argument against a full cadastral survey in Cochin-China and in favour of the Torrens system of voluntary title registration. Maxwell, who personally advocated for a cadastral survey, republished the paper to expose its internal contradictions to his Society's members (p. 271).

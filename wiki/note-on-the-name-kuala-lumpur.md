@@ -3,8 +3,7 @@ id: note-on-the-name-kuala-lumpur
 work_id: jsbras-72-1-p35
 title: Note on the name Kuala Lumpur
 canonical_name: Note on the name Kuala Lumpur
-type: article
-article_type: article
+type: publication
 authors:
 - E. Macfadyen
 year: 1916
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-072-macfadyen-notenamekuala-1916-596281281fa1
 source_path: ../sources/jsbras-072-macfadyen-notenamekuala-1916-596281281fa1.md
 summarized: true
+publication_type: note
 ---
+
 # Note on the name Kuala Lumpur
 
 This is a brief note by E. Macfadyen on the etymology of the name "Kuala Lumpur," published in the *Journal of the Straits Branch of the Royal Asiatic Society*, Vol. 72 (May 1916), p. 35.

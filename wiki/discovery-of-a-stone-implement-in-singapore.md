@@ -3,8 +3,7 @@ id: discovery-of-a-stone-implement-in-singapore
 work_id: jsbras-23-1-p141
 title: Discovery of a stone implement in Singapore
 canonical_name: Discovery of a stone implement in Singapore
-type: article
-article_type: article
+type: publication
 authors:
 - H.N. Ridley
 year: 1891
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-023-r-discoverystoneimplement-1891-84dd504cabda
 source_path: ../sources/jsbras-023-r-discoverystoneimplement-1891-84dd504cabda.md
 summarized: true
+publication_type: note
 ---
+
 # Discovery of a stone implement in Singapore
 
 This short note by H. N. Ridley reports the discovery of a worked stone adze at Tanjong Karang, Singapore, and its presentation to the Museum by Lieutenant A. D. Cox (p. 141).

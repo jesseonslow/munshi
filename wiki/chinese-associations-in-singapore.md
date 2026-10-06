@@ -3,8 +3,7 @@ id: chinese-associations-in-singapore
 work_id: jmbras-39-2-p123
 title: Chinese associations in Singapore
 canonical_name: Chinese associations in Singapore
-type: article
-article_type: article
+type: publication
 authors:
 - C. Gamba
 year: 1966
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-210-gamba-chineseassociationssingapore-1966-9aa6e60b7f94
 source_path: ../sources/jmbras-210-gamba-chineseassociationssingapore-1966-9aa6e60b7f94/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Chinese associations in Singapore
 
 Charles Gamba published this descriptive survey in 1966, tracing the Chinese associative institutions of Singapore from the early nineteenth century through the late 1950s. The article argues that gilds, mutual benefit societies, clan and provincial associations, and semi-religious bodies functioned as surrogates for the family among migrants, and that their progressive decline reflected the inroad of modern trade unions, chambers of commerce, and political forces rather than any inherent obsolescence of the associative impulse itself.

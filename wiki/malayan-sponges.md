@@ -3,8 +3,7 @@ id: malayan-sponges
 work_id: jmbras-17-1-p121
 title: Malayan sponges
 canonical_name: Malayan sponges
-type: article
-article_type: article
+type: publication
 authors:
 - S.G. Willimott
 year: 1939
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-134-willimott-malayansponges-1939-cf158e307715
 source_path: ../sources/jmalayanras-134-willimott-malayansponges-1939-cf158e307715/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Malayan sponges
 
 Stanley G. Willimott published this technical survey in 1939, assessing the state of sponge-fishing in the Straits Settlements and Federated Malay States during the late colonial period. The article argues that while Malayan sponges are of inferior quality to Mediterranean and West Indian products, the application of modern cleaning methods and artificial culture could develop a viable minor industry.

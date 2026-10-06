@@ -3,8 +3,7 @@ id: malayan-musical-instruments
 work_id: jsbras-45-1-p285
 title: Malayan musical instruments
 canonical_name: Malayan musical instruments
-type: article
-article_type: article
+type: publication
 authors:
 - C.B. Kloss
 year: 1906
@@ -27,7 +26,9 @@ published: false
 source_doc: jsbras-045-kloss-malayanmusicalinstruments-1906-3d628903f628
 source_path: ../sources/jsbras-045-kloss-malayanmusicalinstruments-1906-3d628903f628.md
 summarized: true
+publication_type: note
 ---
+
 # Malayan musical instruments
 
 C. Boden Kloss records the occurrence of a bamboo tuning-fork in Engano and two variants of the 'gnong zither from Simalur, both in the West Sumatran island chain (p. 285).

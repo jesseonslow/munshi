@@ -7,8 +7,7 @@ title: 'Power, Care and Species Difference in Orangutan Rehabilitation in Sarawa
 canonical_name: 'Power, Care and Species Difference in Orangutan Rehabilitation in
   Sarawak: A Roundtable. J.S. Parreñas, Alicia Izharuddin, M.B. Haines, Faizah Zakaria,
   and R. Cribb'
-type: article
-article_type: article
+type: publication
 authors:
 - Alicia Izharuddin
 - Faizah Zakaria
@@ -28,7 +27,9 @@ published: false
 source_doc: parrenas-power-care-species-difference-77336283812f
 source_path: ../sources/parrenas-power-care-species-difference-77336283812f.md
 summarized: true
+publication_type: review
 ---
+
 # Power, Care and Species Difference in Orangutan Rehabilitation in Sarawak: A Roundtable. J.S. Parreñas, Alicia Izharuddin, M.B. Haines, Faizah Zakaria, and R. Cribb
 
 ## Abstract

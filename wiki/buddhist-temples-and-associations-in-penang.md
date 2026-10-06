@@ -3,8 +3,7 @@ id: buddhist-temples-and-associations-in-penang
 work_id: jmbras-62-1-p57
 title: Buddhist temples and associations in Penang
 canonical_name: Buddhist temples and associations in Penang
-type: article
-article_type: article
+type: publication
 authors:
 - B. Liow Woon Khin
 year: 1989
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-256-khin-buddhisttemplesassociations-1989-cc86bf7e5f36
 source_path: ../sources/jmbras-256-khin-buddhisttemplesassociations-1989-cc86bf7e5f36/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Buddhist temples and associations in Penang
 
 B. Liow Woon Khin's 1989 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* surveys the institutional history of nine Buddhist temples and two associations in Penang between 1845 and 1948, arguing that these institutions were shaped less by doctrinal purity than by the demographic dominance of Chinese devotees over their originally Thai, Burmese, and Singhalese congregations. The study draws on temple inscriptions, land registry documents, court judgements, personal interviews with resident monks, and a small body of temple-published histories to reconstruct a period in which ethnic Buddhist communities negotiated identity, funding, and survival under British colonial rule and Japanese occupation.

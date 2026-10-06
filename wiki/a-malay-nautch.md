@@ -3,8 +3,7 @@ id: a-malay-nautch
 work_id: jsbras-2-1-p163
 title: A Malay nautch
 canonical_name: A Malay _nautch._
-type: article
-article_type: article
+type: publication
 authors:
 - F.A. Swettenham
 year: 1878
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-002-swettenham-malaynautch-1878-a2286131b62e
 source_path: ../sources/jsbras-002-swettenham-malaynautch-1878-a2286131b62e.md
 summarized: true
+publication_type: note
 ---
+
 # A Malay nautch
 
 F.A. Swettenham's 1878 account, read before the JSBRAS on 5 August 1878, provides one of the earliest European ethnographic descriptions of a Malay nautch—a classical court dance performance witnessed in early 1875 at the Bandahara of Pahang's residence. The article's central contribution is its detailed observation of a performance form that Swettenham considered rare, seldom witnessed by Europeans, and hitherto undescribed in the Malay Peninsula (p. 163).

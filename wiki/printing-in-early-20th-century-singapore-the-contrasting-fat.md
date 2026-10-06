@@ -4,8 +4,7 @@ work_id: jmbras-96-2-p73
 title: 'Printing in Early 20th Century Singapore: The Contrasting Fates of C'
 canonical_name: 'Printing in Early 20th Century Singapore: The Contrasting Fates of
   C'
-type: article
-article_type: article
+type: publication
 authors:
 - B. Luyt
 year: 2023
@@ -19,6 +18,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: journal_article
 ---
 
 # Printing in Early 20th Century Singapore: The Contrasting Fates of C

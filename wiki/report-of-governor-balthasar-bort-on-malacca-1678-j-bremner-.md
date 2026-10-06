@@ -5,8 +5,7 @@ title: 'Report of Governor Balthasar Bort on Malacca, 1678. .J. Bremner: with an
   and notes C.O. Blagden'
 canonical_name: 'Report of Governor Balthasar Bort on Malacca, 1678. .J. Bremner:
   with an introd. and notes C.O. Blagden'
-type: article
-article_type: translation
+type: publication
 authors:
 - C.O. Blagden
 - B. Bort
@@ -25,7 +24,9 @@ published: false
 source_doc: jsbras-030-luering-vocabularydusunlanguage-1897-e77c2a6906a4
 source_path: ../sources/jsbras-030-luering-vocabularydusunlanguage-1897-e77c2a6906a4.md
 summarized: true
+publication_type: translation
 ---
+
 # Report of Governor Balthasar Bort on Malacca, 1678. .J. Bremner: with an introd. and notes C.O. Blagden
 
 H. L. E. Luering, a German-born philologist based in Strassburg, published this vocabulary of the Dusun (Kadasan) language of Kimanis in 1897, drawing on fieldwork conducted in 1891 in British North Borneo. The work argues that Kadasan preserves some of the oldest and purest forms of speech in the Malayan language family, positioning it as a key witness to the early separation of Borneo from the western Malay world. The vocabulary itself comprises several hundred entries arranged alphabetically by English gloss, with Dusun and Malay equivalents.

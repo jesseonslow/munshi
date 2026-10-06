@@ -3,8 +3,7 @@ id: recollections-of-my-time-in-malaya-19451956-part-2
 work_id: jmbras-87-1-p53
 title: Recollections of my time in Malaya (1945–1956) Part 2
 canonical_name: Recollections of my time in Malaya (1945–1956) Part 2
-type: article
-article_type: article
+type: publication
 authors:
 - J.M. Gullick
 year: 2014
@@ -28,7 +27,9 @@ reprints:
 source_doc: jmbras-306-gullick-recollectionstimemalaya-2014-34ebb5fd99b9
 source_path: ../sources/jmbras-306-gullick-recollectionstimemalaya-2014-34ebb5fd99b9.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Recollections of my time in Malaya (1945–1956) Part 2
 
 J. M. Gullick, a British army officer and former colonial administrator, published this second part of his memoirs in 2014, recounting his service in Negri Sembilan from September 1945 through the Malayan Union period (1946–1948). The work offers a granular, first-hand account of the administrative challenges of restoring British governance after the Japanese occupation, the fraught negotiations with Malay rulers over the MacMichael treaties, and the social and economic dislocation of the post-war period.

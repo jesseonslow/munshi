@@ -3,8 +3,7 @@ id: political-and-historical-notes-on-the-old-sulu-sultanate
 work_id: jmbras-38-1-p23
 title: Political and historical notes on the old Sulu Sultanate
 canonical_name: Political and historical notes on the old Sulu Sultanate
-type: article
-article_type: article
+type: publication
 authors:
 - C.A. Majul
 year: 1965
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-207-majul-politicalhistoricalnotes-1965-530382507047
 source_path: ../sources/jmbras-207-majul-politicalhistoricalnotes-1965-530382507047.md
 summarized: true
+publication_type: note
 ---
+
 # Political and historical notes on the old Sulu Sultanate
 
 Cesar Adib Majul's 1965 article examines the political institutions of the Sulu Sultanate from its fourteenth-century origins through its reduction to a figurehead under American rule, arguing that the sultanate was neither the despotic Islamic state assumed by European observers nor a mere rubber stamp for the *datus*, but rather a working compromise between pre-Islamic social structures and the classical institution of the sultanate. The article was prompted by the Philippine claim on North Borneo (Sabah), which demanded clarification of how the sultan acquired, administered, and ceded that territory.

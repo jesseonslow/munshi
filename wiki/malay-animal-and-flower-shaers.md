@@ -3,8 +3,7 @@ id: malay-animal-and-flower-shaers
 work_id: jmbras-12-2-p108
 title: Malay animal and flower shaers
 canonical_name: Malay animal and flower _shaers._
-type: article
-article_type: article
+type: publication
 authors:
 - H. Overbeck
 year: 1934
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-119-overbeck-malayanimalflower-1934-f403391e3d53
 source_path: ../sources/jmalayanras-119-overbeck-malayanimalflower-1934-f403391e3d53.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Malay animal and flower shaers
 
 H. O. Overbeck's 1934 article in the *Journal of the Malayan Branch of the Royal Asiatic Society* argues that the Malay *shaer* (verse romances) featuring animals and flowers as protagonists are not mere fables or erotic verse but veiled accounts of real human love-tragedies and court intrigues, composed in the Malay tradition of allusion to avoid naming real persons. Drawing on manuscripts in Batavia, Leiden, and London, as well as lithographed editions from Singapore, Overbeck provides detailed plot summaries of seventeen such poems, demonstrating that their non-human characters map onto recognizable social types—travelling merchants, court retainers, princesses, and their duennas—and that the poems fill a gap in classical Malay literature by revealing the emotional life of ordinary Malays.

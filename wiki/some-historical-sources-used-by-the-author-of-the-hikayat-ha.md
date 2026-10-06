@@ -3,8 +3,7 @@ id: some-historical-sources-used-by-the-author-of-the-hikayat-ha
 work_id: jmbras-43-1-p35
 title: Some historical sources used by the author of the Hikayat Hang Tuah
 canonical_name: Some historical sources used by the author of the _Hikayat Hang Tuah._
-type: article
-article_type: article
+type: publication
 authors:
 - T. Iskandar
 year: 1970
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-217-iskandar-historicalsourcesused-1970-9762452b6432
 source_path: ../sources/jmbras-217-iskandar-historicalsourcesused-1970-9762452b6432.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Some historical sources used by the author of the Hikayat Hang Tuah
 
 T. Iskandar's 1970 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* argues that the anonymous author of *Hikayat Hang Tuah* was a literate, historically informed intellectual who deliberately drew upon written sources—chiefly *Sejarah Melayu* and *Bustanus-Salatin*—to construct a symbolic historical romance intended to bolster Malay morale in the post-1641 Johor-Riau period. The study systematically identifies and maps the borrowed episodes, demonstrating that the work's apparent chronological incoherence is in fact a conscious compositional strategy rather than the ignorance of a "rhapsodist" as Sir Richard Winstedt had claimed.

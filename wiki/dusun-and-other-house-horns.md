@@ -3,8 +3,7 @@ id: dusun-and-other-house-horns
 work_id: jmbras-24-1-p162
 title: Dusun and other “house horns”
 canonical_name: Dusun and other “house horns”
-type: article
-article_type: article
+type: publication
 authors:
 - I.H.N. Evans
 - G.E. Marrison
@@ -23,7 +22,9 @@ summarized: true
 source_mismatch: true
 source_doc: jmalayanras-154-evans-dusunhousehorns-1951-7ee073ea23c7
 source_path: ../sources/jmalayanras-154-evans-dusunhousehorns-1951-7ee073ea23c7.md
+publication_type: journal_article
 ---
+
 # Dusun and other “house horns”
 
 Ivor H. N. Evans, writing from his long residence in the Tempasuk (Kota Belud) District of North Borneo, published this comparative ethnographic note in 1951, arguing that the "house-horns" found on Dusun gable ends—and their counterparts among the Hovas of Madagascar, the Naga peoples, and other Southeast Asian groups—originally served a protective, apotropaic function against evil spirits rather than being merely ornamental.

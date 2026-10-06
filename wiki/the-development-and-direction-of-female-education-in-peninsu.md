@@ -3,8 +3,7 @@ id: the-development-and-direction-of-female-education-in-peninsu
 work_id: jmbras-51-2-p100
 title: The development and direction of female education in peninsular Malaysia
 canonical_name: The development and direction of female education in peninsular Malaysia
-type: article
-article_type: article
+type: publication
 authors:
 - L. Manderson
 year: 1978
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-234-frontmatter-1978-811e779cf782
 source_path: ../sources/jmbras-234-frontmatter-1978-811e779cf782.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The development and direction of female education in peninsular Malaysia
 
 This is the front matter of *Journal of the Malaysian Branch of the Royal Asiatic Society*, Volume 51, Part 2 (No. 234), published in December 1978, edited by Tan Sri Mubin Sheppard.

@@ -3,8 +3,7 @@ id: seals-as-sources-for-the-history-of-negri-sembilan
 work_id: jmbras-86-2-p1
 title: Seals as sources for the history of Negri Sembilan
 canonical_name: Seals as sources for the history of Negri Sembilan
-type: article
-article_type: article
+type: publication
 authors:
 - A.T. Gallop
 year: 2013
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: false
 source_doc: jmbras-305-gallop-sealssourceshistory-2013-4fc3a435808e
 source_path: ../sources/references.md
+publication_type: journal_article
 ---
+
 # Seals as sources for the history of Negri Sembilan
 
 Annabel Teh Gallop's 2013 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* re-examines the 27 documented seals of Negeri Sembilan to demonstrate that the names cited on them—most notably "Sultan Abdul Jalil Muazzam Syah"—are symbolic Minangkabau regnal titles representing the institution of Sumatran kingship, not references to a specific Johor sultan as colonial-era historians had long assumed. This reinterpretation fundamentally challenges the chronological framework that R. J. Wilkinson and subsequent scholars built around a supposed Johor patronage date of c.1760.

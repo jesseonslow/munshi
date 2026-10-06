@@ -3,8 +3,7 @@ id: the-flora-of-singapore
 work_id: jsbras-33-1-p27
 title: The flora of Singapore
 canonical_name: The flora of Singapore
-type: article
-article_type: article
+type: publication
 authors:
 - H.N. Ridley
 year: 1900
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-033-ridley-florasingapore-1900-4c21d301ffcb
 source_path: ../sources/jsbras-033-ridley-florasingapore-1900-4c21d301ffcb.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The flora of Singapore
 
 H. N. Ridley, Director of the Singapore Botanic Gardens, published this comprehensive flora of Singapore island and its small surrounding islets in 1900, providing the first systematic enumeration of the island's plant life at a time when rapid deforestation was erasing the original forest cover. The work documents over 1,900 species of flowering plants and more than 130 ferns within an area of barely 200 square miles, establishing Singapore as a site of exceptional floristic density for its size.

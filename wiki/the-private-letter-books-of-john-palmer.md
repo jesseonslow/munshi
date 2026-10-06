@@ -3,8 +3,7 @@ id: the-private-letter-books-of-john-palmer
 work_id: jmbras-22-1-p182
 title: The private letter books of John Palmer
 canonical_name: The private letter books of John Palmer
-type: article
-article_type: article
+type: publication
 authors:
 - C.E. Wurtzburg
 year: 1949
@@ -18,6 +17,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: document
 ---
 
 # The private letter books of John Palmer

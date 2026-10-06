@@ -3,8 +3,7 @@ id: the-malayan-purse-seine-pukat-jerut-fishery
 work_id: jmbras-23-3-p75
 title: The Malayan purse seine (pukat jerut) fishery
 canonical_name: The Malayan purse seine _(pukat jerut)_ fishery
-type: article
-article_type: article
+type: publication
 authors:
 - K. Gopinath
 year: 1950
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-153-gopinath-malayanpurseseine-1950-700d194cb4d6
 source_path: ../sources/jmalayanras-153-gopinath-malayanpurseseine-1950-700d194cb4d6.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The Malayan purse seine (pukat jerut) fishery
 
 K. Gopinath, a Senior Research Officer with the Travancore Fishery Development Scheme, published this detailed technical and ethnographic study in 1950, based on a four-month field visit to the Malay states in 1948. The paper documents the purse seine (*pukat jerut*) mackerel fishery of the Malayan west coast—its origins, equipment, operational methods, and economics—comparing Chinese and Malay working styles and benchmarking Malayan output against American purse seine fisheries. The overarching purpose was to assess the feasibility of introducing purse seine techniques to Indian waters.

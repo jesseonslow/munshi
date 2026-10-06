@@ -3,8 +3,7 @@ id: the-racing-jong
 work_id: jmbras-23-1-p144
 title: The racing jong
 canonical_name: The _racing jong._
-type: article
-article_type: article
+type: publication
 authors:
 - C.A. Gibson-Hill
 year: 1950
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-151-gibsonhill-racingjong-1950-684ec28b9f4b
 source_path: ../sources/jmalayanras-151-gibsonhill-racingjong-1950-684ec28b9f4b.md
 summarized: true
+publication_type: note
 ---
+
 # The racing jong
 
 C.A. Gibson-Hill's 1950 ethnographic note documents the traditional Malay model boat racing practice known as the *jong*, a lightweight sailing model raced along the coasts of Singapore, the adjacent southern islands, the Strait of Johore, and Mersing. The article provides a detailed technical description of the vessel's construction, its racing methodology, and its geographic distribution, drawing on museum specimens and field observation.

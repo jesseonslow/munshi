@@ -5,8 +5,7 @@ title: Duarte Barbosa’s references to trade at Malacca in Cutch, Costus and Al
   Galls
 canonical_name: Duarte Barbosa’s references to trade at Malacca in Cutch, Costus and
   Aleppo Galls
-type: article
-article_type: article
+type: publication
 authors:
 - I.H. Burkill
 year: 1941
@@ -23,7 +22,9 @@ published: false
 source_doc: jmalayanras-139-burkill-duartebarbosasreferences-1941-ea13daf682a4
 source_path: ../sources/jmalayanras-139-burkill-duartebarbosasreferences-1941-ea13daf682a4.md
 summarized: true
+publication_type: note
 ---
+
 # Duarte Barbosa’s references to trade at Malacca in Cutch, Costus and Aleppo Galls
 
 I.H. Burkill's short note corrects Dames's English translation of Duarte Barbosa's gazetteer, identifying three drugs referenced in the Portuguese text as Malay terms for Indian cutch, puchok (root of *Saussurea lappa*), and Aleppo galls traded through Malacca (p. 120).

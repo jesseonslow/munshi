@@ -3,8 +3,7 @@ id: raja-langit-the-celestial-emperor
 work_id: jmbras-19-2-p243
 title: Raja Langit, the celestial emperor
 canonical_name: Raja Langit, the celestial emperor
-type: article
-article_type: article
+type: publication
 authors:
 - R.O. Winstedt
 year: 1941
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-140-winstedt-rajalangitcelestial-1941-6757f35c07cf
 source_path: ../sources/jmalayanras-140-winstedt-rajalangitcelestial-1941-6757f35c07cf.md
 summarized: true
+publication_type: note
 ---
+
 # Raja Langit, the celestial emperor
 
 This short note by R.O. Winstedt examines the concept of *Raja Langit* (the Celestial Emperor) in Malay political and cosmological thought (p. 243).

@@ -4,8 +4,7 @@ work_id: jmbras-30-1-p115
 title: Possible references to the Malay Peninsula in the Annals of the Former Han
 canonical_name: Possible references to the Malay Peninsula in the Annals of the Former
   Han
-type: article
-article_type: article
+type: publication
 authors:
 - Paul Wheatley
 year: 1957
@@ -22,7 +21,9 @@ published: false
 source_doc: jmalayanras-177-wheatley-possiblereferencesmalay-1957-7030f4f754c1
 source_path: ../sources/jmalayanras-177-wheatley-possiblereferencesmalay-1957-7030f4f754c1.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Possible references to the Malay Peninsula in the Annals of the Former Han
 
 Paul Wheatley's 1957 article examines a passage in Chapter 28 of the *Ch'ien han shu* (completed c. A.D. 80) that records two maritime itineraries from southern China to the Indian Ocean, arguing that the trans-peninsular portage described in the earlier route constitutes one of the earliest substantiated references to the Malay Peninsula in any language.

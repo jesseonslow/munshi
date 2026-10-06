@@ -3,8 +3,7 @@ id: the-origins-of-cocoa-cultivation-in-malaysia
 work_id: jmbras-68-1-p67
 title: The origins of cocoa cultivation in Malaysia
 canonical_name: The origins of cocoa cultivation in Malaysia
-type: article
-article_type: article
+type: publication
 authors:
 - Amarjit Kaur
 year: 1995
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-268-kaur-originscocoacultivation-1995-4b9dc3778d4a
 source_path: ../sources/jmbras-268-kaur-originscocoacultivation-1995-4b9dc3778d4a/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The origins of cocoa cultivation in Malaysia
 
 Amarjit Kaur (1995) traces the origins of cocoa cultivation across Peninsular Malaysia, Sabah, and Sarawak from the late eighteenth century through the 1990s, arguing that Malaysia's rise to become the world's third-largest cocoa producer was not a spontaneous market phenomenon but the product of deliberate state intervention, colonial-era research infrastructure, and the political imperatives of the New Economic Policy. The article demonstrates that at each stage of development, the state—whether colonial or national—shaped where, how, and by whom cocoa was grown.

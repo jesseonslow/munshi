@@ -3,8 +3,7 @@ id: the-niah-research-program
 work_id: jmbras-50-1-p28
 title: The Niah research program
 canonical_name: The Niah research program
-type: article
-article_type: article
+type: publication
 authors:
 - W.G.H. Solheim
 year: 1977
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-231-ii-niahresearchprogram-1977-21b0b21dc372
 source_path: ../sources/jmbras-231-ii-niahresearchprogram-1977-21b0b21dc372.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The Niah research program
 
 Wilhelm G. Solheim II's 1977 assessment of Tom Harrisson's Niah Caves research program, published in a memorial issue of the *JMBRAS*, evaluates the scope, methods, and legacy of what Solheim considers Harrisson's most important archaeological undertaking in Borneo. Writing from personal acquaintance and field experience at Niah in 1958–59, Solheim argues that while Harrisson's excavation techniques were fundamentally flawed, the extraordinary breadth of his ecological approach and his success in sustaining a two-decade program under severe financial constraints produced results of lasting significance for the prehistory of Island Southeast Asia.

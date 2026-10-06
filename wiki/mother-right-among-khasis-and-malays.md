@@ -3,8 +3,7 @@ id: mother-right-among-khasis-and-malays
 work_id: jmbras-10-1-p9
 title: Mother-right among Khasis and Malays
 canonical_name: Mother-right among Khasis and Malays
-type: article
-article_type: article
+type: publication
 authors:
 - R.O. Winstedt
 year: 1932
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-113-winstedt-motherrightamongkhasis-1932-d785e3433dc3
 source_path: ../sources/jmalayanras-113-winstedt-motherrightamongkhasis-1932-d785e3433dc3.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Mother-right among Khasis and Malays
 
 R.O. Winstedt, a senior Straits Settlements administrator, published "Mother-right among Khasis and Malays" in 1932 in the Journal of the Malayan Branch of the Royal Asiatic Society. Writing from a position of deep familiarity with both the matrilineal Malays of Negri Sembilan and the secondary literature on the Khasis of Assam, Winstedt sets out to demonstrate that the near-identical systems of mother-right operating among these two peoples, separated by over a thousand miles, constitute one of the most remarkable convergences in comparative social organisation and point to a remote common ancestry.

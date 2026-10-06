@@ -3,8 +3,7 @@ id: tom-as-i-knew-him
 work_id: jmbras-49-1-p147
 title: Tom as I knew him
 canonical_name: Tom as I knew him
-type: article
-article_type: article
+type: publication
 authors:
 - B. Sandin
 year: 1976
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-229-sandin-tomknew-1976-812b7325bc83
 source_path: ../sources/jmbras-229-sandin-tomknew-1976-812b7325bc83.md
 summarized: true
+publication_type: obituary
 ---
+
 # Tom as I knew him
 
 Benedict Sandin's personal obituary of Dato Tom Harrisson, who died in a road accident near Bangkok in 1976, recalling his twenty-one years as Government Ethnologist and Curator of the Sarawak Museum (1945–1966).

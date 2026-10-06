@@ -5,8 +5,7 @@ title: 'The trouble with technology: comments on the experience of Singapore und
   entrepot colonialism'
 canonical_name: 'The trouble with technology: comments on the experience of Singapore
   under entrepot colonialism'
-type: article
-article_type: article
+type: publication
 authors:
 - I. Inkster
 year: 2000
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-278-inkster-troubletechnologycomments-2000-0e80794e8f1e
 source_path: ../sources/jmbras-278-inkster-troubletechnologycomments-2000-0e80794e8f1e/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The trouble with technology: comments on the experience of Singapore under entrepot colonialism
 
 Ian Inkster's 2000 short note, published in the *Journal of the Malaysian Branch of the Royal Asiatic Society*, offers a critical commentary on Goh Chor Boon's 1998 study of technology transfer into Singapore under British colonial rule. Set against the broader historiographical debate on why Western technology so frequently failed to diffuse into colonised economies, Inkster argues that the institutional architecture of entrepot colonialism—specifically the British focus on banking, port construction, and repair services—systematically directed technological flows away from local and Chinese productive enterprise, though he contends that some absences of transfer were better explained by market and technological factors than by colonial design alone.

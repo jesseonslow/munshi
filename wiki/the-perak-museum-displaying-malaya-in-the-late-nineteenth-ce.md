@@ -3,8 +3,7 @@ id: the-perak-museum-displaying-malaya-in-the-late-nineteenth-ce
 work_id: jmbras-93-2-p73
 title: 'The Perak Museum: Displaying Malaya in the late nineteenth century'
 canonical_name: 'The Perak Museum: Displaying Malaya in the late nineteenth century'
-type: article
-article_type: article
+type: publication
 authors:
 - S. Long-Callesen
 year: 2020
@@ -29,7 +28,9 @@ keywords:
 - Taiping
 - Hugh Low
 - Leonard Wray Jnr
+publication_type: journal_article
 ---
+
 # The Perak Museum: Displaying Malaya in the late nineteenth century
 
 ## Abstract

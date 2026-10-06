@@ -3,8 +3,7 @@ id: the-pahang-capital
 work_id: jmbras-76-2-p87
 title: The Pahang capital
 canonical_name: The Pahang capital
-type: article
-article_type: article
+type: publication
 authors:
 - Shahriman bin Tunku Sulaiman Tunku Tan Sri Dato'
 year: 2003
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-285-sulaiman-pahangcapital-2003-ec4e87364e5f
 source_path: ../sources/jmbras-285-sulaiman-pahangcapital-2003-ec4e87364e5f.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The Pahang capital
 
 Tunku Tan Sri Dato' Shahriman bin Tunku Sulaiman, in this 2003 article for the *Journal of the Malaysian Branch of the Royal Asiatic Society*, traces the two-stage relocation of Pahang's administrative capital from Pekan to Kuala Lipis in 1889 and then to Kuantan in 1955, arguing that each transfer was driven by a convergence of economic miscalculation, political friction between the Malay ruler and British Residents, and practical infrastructure constraints that made the interim site untenable over time.

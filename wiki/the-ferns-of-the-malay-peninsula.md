@@ -3,8 +3,7 @@ id: the-ferns-of-the-malay-peninsula
 work_id: jmbras-4-1-p1
 title: The ferns of the Malay Peninsula
 canonical_name: The ferns of the Malay Peninsula
-type: article
-article_type: article
+type: publication
 authors:
 - H.N. Ridley
 year: 1926
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: true
 source_doc: jmalayanras-096-ridley-fernsmalaypeninsula-1926-f0ee0da66f48
 source_path: ../sources/jmalayanras-096-ridley-fernsmalaypeninsula-1926-f0ee0da66f48.md
+publication_type: monograph
 ---
+
 # The ferns of the Malay Peninsula
 
 H. N. Ridley, Director of the Singapore Botanic Gardens, published this comprehensive taxonomic treatment of the ferns of the Malay Peninsula in 1926, completing the account of the region's flora following the earlier publication on flowering plants. The work catalogues approximately 420 species across 86 genera, from the Gleicheniaceae through the Ophioglossaceae, and argues that ferns in the Peninsula are far more widely distributed across the tropics than their flowering-plant counterparts, with only a small number of endemics (p. 1).

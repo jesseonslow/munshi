@@ -3,8 +3,7 @@ id: the-bukit-seguntang-buddha-a-reconsideration-of-its-date
 work_id: jmbras-52-1-p33
 title: 'The Bukit Seguntang Buddha: a reconsideration of its date'
 canonical_name: 'The Bukit Seguntang Buddha: a reconsideration of its date'
-type: article
-article_type: article
+type: publication
 authors:
 - Hassan Shuhaimi Nik, bin Nik Abdul Rahman
 year: 1979
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-236-shuhaimi-bukitseguntangbuddha-1979-3302ef7e9658
 source_path: ../sources/jmbras-236-shuhaimi-bukitseguntangbuddha-1979-3302ef7e9658.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The Bukit Seguntang Buddha: a reconsideration of its date
 
 Nik Hassan Shuhaimi's 1979 article in the *JMBRAS* challenges the long-standing attribution of the Bukit Seguntang Buddha to the Amaravati school of Indian art, arguing instead for a Pala-influenced date in the late seventh to early eighth century A.D. The study is grounded in close stylistic comparison of the image's drapery treatment with published corpora from Amaravati, Sri Lanka, Nalanda, and Kurkihar, supported by historical evidence of Srivijaya–Nalanda religious contacts.

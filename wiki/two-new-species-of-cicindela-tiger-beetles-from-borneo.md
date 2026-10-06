@@ -3,8 +3,7 @@ id: two-new-species-of-cicindela-tiger-beetles-from-borneo
 work_id: jsbras-50-1-p99
 title: Two new species of Cicindela (Tiger beetles) from Borneo
 canonical_name: Two new species of _Cicindela_ (Tiger beetles) from Borneo
-type: article
-article_type: article
+type: publication
 authors:
 - W. Horn
 year: 1908
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-050-horn-twonewspecies-1908-80da4bb27097
 source_path: ../sources/jsbras-050-horn-twonewspecies-1908-80da4bb27097.md
 summarized: true
+publication_type: note
 ---
+
 # Two new species of Cicindela (Tiger beetles) from Borneo
 
 This short note by Dr. Walter Horn describes two new species of *Cicindela* (tiger beetles) from Borneo, published in the Journal of the Straits Branch of the Royal Asiatic Society, Vol. 50 (1908).

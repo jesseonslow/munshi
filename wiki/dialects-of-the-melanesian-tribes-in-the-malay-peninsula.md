@@ -3,8 +3,7 @@ id: dialects-of-the-melanesian-tribes-in-the-malay-peninsula
 work_id: jsbras-1-1-p38
 title: Dialects of the Melanesian tribes in the Malay Peninsula
 canonical_name: Dialects of the Melanesian tribes in the Malay Peninsula
-type: article
-article_type: article
+type: publication
 authors:
 - N. von Mikluho-MacLay
 year: 1878
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-001-mikluchomaclay-dialectsmelanesiantribes-1878-0d45108c750b
 source_path: ../sources/jsbras-001-mikluchomaclay-dialectsmelanesiantribes-1878-0d45108c750b.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Dialects of the Melanesian tribes in the Malay Peninsula
 
 N. von Miklucho-Maclay, a Russian naturalist and ethnographer, presented this article to the Straits Branch of the Royal Asiatic Society in May 1878, drawing on fieldwork conducted during two journeys into the interior of the Malay Peninsula (1875 and a subsequent expedition). The overarching thesis is that the nomadic interior tribes—known to Malays as Orang Utan and Orang Sakai—constitute a surviving Melanesian (Papuan) stock whose languages, though rapidly eroding under Malay pressure, retain cognates that link them to the original population of the region.

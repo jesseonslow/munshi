@@ -3,8 +3,7 @@ id: chih-tu
 work_id: jmbras-30-1-p122
 title: Ch’ih-t’u
 canonical_name: Ch’ih-t’u
-type: article
-article_type: article
+type: publication
 authors:
 - Paul Wheatley
 year: 1957
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-177-wheatley-chihtu-1957-88d8d3d84c82
 source_path: ../sources/jmalayanras-177-wheatley-chihtu-1957-88d8d3d84c82.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Ch’ih-t’u
 
 Paul Wheatley's 1957 article "Ch'ih-t'u" addresses the long-standing problem of locating the Southeast Asian kingdom known to Chinese sources as the "Red Land," arguing that the weight of textual evidence places it in the northern half of the Malay Peninsula rather than in Siam or further south. Drawing on parallel passages preserved in the *Sui shu*, *Pei shih*, *T'ai p'ing yu lan*, and other Tang-era compilations, Wheatley reconstructs the account of the Sui embassy of 607 and uses its itinerary to constrain the kingdom's geography.

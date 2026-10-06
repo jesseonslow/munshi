@@ -3,8 +3,7 @@ id: some-ulun-no-bokan-murut-words-from-north-borneo
 work_id: jmbras-14-3-p314
 title: Some ulun-no-bokan (Murut) words from North Borneo
 canonical_name: Some _ulun-no-bokan_ (Murut) words from North Borneo
-type: article
-article_type: article
+type: publication
 authors:
 - H.G. Keith
 year: 1936
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-126-keith-ulunnobokanmurutwords-1936-171fb3f59bfb
 source_path: ../sources/jmalayanras-126-keith-ulunnobokanmurutwords-1936-171fb3f59bfb.md
 summarized: true
+publication_type: note
 ---
+
 # Some ulun-no-bokan (Murut) words from North Borneo
 
 This short note by H. G. Keith presents a list of Ulun-no-Bokan (Murut) words collected at Kampong Pauh and Kampong Tiong in the Bokan District, Interior Residency, North Borneo, with Malay and English equivalents (pp. 314–322).

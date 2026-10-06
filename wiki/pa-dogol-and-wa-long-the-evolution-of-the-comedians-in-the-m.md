@@ -5,8 +5,7 @@ title: 'Pa’ Dogol and Wa’ Long: the evolution of the comedians in the Malay 
   play in Kelantan'
 canonical_name: 'Pa’ Dogol and Wa’ Long: the evolution of the comedians in the Malay
   shadow play in Kelantan'
-type: article
-article_type: article
+type: publication
 authors:
 - Mubin Sheppard
 year: 1965
@@ -24,7 +23,9 @@ summarized: true
 source_mismatch: false
 source_doc: jmbras-207-sheppard-padogolwa-1965-5aea252825f6
 source_path: ../sources/jmbras-207-sheppard-padogolwa-1965-5aea252825f6.md
+publication_type: journal_article
 ---
+
 # Pa’ Dogol and Wa’ Long: the evolution of the comedians in the Malay shadow play in Kelantan
 
 Haji Mubin Sheppard's 1965 article traces the genealogy of Pa' Dogol and Wa' Long, the two indispensable comic figures in the Kelantan Malay shadow play, arguing that they are indigenous Malay inventions rather than derivatives of Javanese or Indian clown traditions. The article reconstructs a chain of puppeteer innovation spanning roughly 130 years, from the late eighteenth century to the late nineteenth, in which the displacement of older comic types by Javanese cultural imports ultimately prompted the creation of the pair as we know them today.

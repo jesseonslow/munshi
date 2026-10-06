@@ -3,8 +3,7 @@ id: the-freedom-of-labour-under-raffles-administration-in-java-1
 work_id: jmbras-26-1-p104
 title: The freedom of labour under Raffles’ administration in Java, 1811–16
 canonical_name: The freedom of labour under Raffles’ administration in Java, 1811–16
-type: article
-article_type: article
+type: publication
 authors:
 - H.R.C. Wright
 year: 1953
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-161-wright-freedomlabourraffless-1953-12ddcc0712dc
 source_path: ../sources/jmalayanras-161-wright-freedomlabourraffless-1953-12ddcc0712dc.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The freedom of labour under Raffles’ administration in Java, 1811–16
 
 H.R.C. Wright's 1953 article examines the tension between Raffles' stated commitment to abolishing feudal labour services in Java and the practical demands of colonial administration during 1811–16. Drawing on Public Consultations and the Raffles Collection in the India Office, Wright argues that Raffles' enthusiasm for the freedom of labour grew over time but was consistently qualified by exceptions for public works, coffee cultivation, and colonisation schemes.

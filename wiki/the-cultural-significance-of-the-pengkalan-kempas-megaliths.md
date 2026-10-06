@@ -3,8 +3,7 @@ id: the-cultural-significance-of-the-pengkalan-kempas-megaliths
 work_id: jmbras-46-1-p93
 title: The cultural significance of the Pengkalan Kempas megaliths
 canonical_name: The cultural significance of the Pengkalan Kempas megaliths
-type: article
-article_type: article
+type: publication
 authors:
 - C. (Chandran Jeshurun) Jeshurun
 year: 1973
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-223-chandran-culturalsignificancepengkalan-1973-934d2f9e3542
 source_path: ../sources/jmbras-223-chandran-culturalsignificancepengkalan-1973-934d2f9e3542.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The cultural significance of the Pengkalan Kempas megaliths
 
 C. (Chandran Jeshurun) Jeshurun's 1973 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* re-examines the megalithic stone alignments at Pengkalan Kempas, Negeri Sembilan, arguing that they should be understood as part of a broader Peninsular megalithic tradition rather than being interpreted primarily through their association with the adjacent Muslim grave. The author identifies typological and positional parallels between the Pengkalan Kempas monuments and the better-known stone alignments of the Kuala Pilah and Alor Gajah districts, and uses new photographic evidence to propose Hindu-influenced decorative motifs on the carved stones.

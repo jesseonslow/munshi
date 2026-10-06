@@ -3,8 +3,7 @@ id: recent-archaeological-work-in-kedah-1958
 work_id: jmbras-32-1-p214
 title: Recent archaeological work in Kedah (1958
 canonical_name: Recent archaeological work in Kedah (1958)
-type: article
-article_type: article
+type: publication
 authors:
 - A. Lamb
 year: 1959
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-185-lamb-recentarchaeologicalwork-1959-4c83ffb4a54e
 source_path: ../sources/jmalayanras-185-lamb-recentarchaeologicalwork-1959-4c83ffb4a54e.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Recent archaeological work in Kedah (1958
 
 Alastair Lamb's 1959 field report documents four visits to Kedah in 1957–58, centred on a detailed re-investigation of H.G.Q. Wales's Site 8, a granite temple on the west bank of the Sungei Batu Pahat. Lamb's overarching thesis challenges Wales's identification of the temple as a product of Pallava colonisation, arguing instead that its architectural and ritual features—particularly the nine-chambered reliquary—point to Javanese rather than Indian origins, and that the dating of Kedah's Indian sites rests on an insecure evidential foundation.

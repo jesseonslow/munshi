@@ -3,8 +3,7 @@ id: report-on-a-journey-from-tuaran-to-kiau-and-ascent-of-kinaba
 work_id: jsbras-19-1-p1
 title: Report on a journey from Tuaran to Kiau and ascent of Kinabalu Mountain
 canonical_name: Report on a journey from Tuaran to Kiau and ascent of Kinabalu Mountain
-type: article
-article_type: article
+type: publication
 authors:
 - R.M. Little
 year: 1887
@@ -30,7 +29,9 @@ keywords:
 source_mismatch: true
 source_doc: jsbras-019-little-reportjourneytuaran-1887-3ba533dadd42
 source_path: ../sources/jsbras-019-little-reportjourneytuaran-1887-3ba533dadd42.md
+publication_type: journal_article
 ---
+
 # Report on a journey from Tuaran to Kiau and ascent of Kinabalu Mountain
 
 R.M. Little's 1887 report, published in the *Journal of the Straits Branch of the Royal Asiatic Society* (Vol. 19, pp. 1–25), documents a February–March expedition from the Tuaran Government Station into the interior of British North Borneo to formalize the submission of Dusun headmen around Kinabalu Mountain and to attempt the mountain's ascent. The overarching thesis is twofold: the journey served as an administrative instrument of colonial consolidation—securing oaths of allegiance, settling blood feuds, and establishing poll-tax obligations—while simultaneously producing the first revised Western measurement of Kinabalu's height and the first detailed account of its summit geology.

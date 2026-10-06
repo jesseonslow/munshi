@@ -5,8 +5,7 @@ title: Notes on Dipterocarps. {No. 9} On the differences in the seedlings betwee
   Balanocarpus maximus, King, and B. heimii, King
 canonical_name: Notes on Dipterocarps. {No. 9} On the differences in the seedlings
   between _Balanocarpus maximus,_ King, and _B. heimii,_ King
-type: article
-article_type: article
+type: publication
 authors:
 - I.H. Burkill
 year: 1923
@@ -23,7 +22,9 @@ published: false
 source_doc: jmalayanras-087-burkill-notesdipterocarpsno-1923-e6c05bbbf204
 source_path: ../sources/jmalayanras-087-burkill-notesdipterocarpsno-1923-e6c05bbbf204.md
 summarized: true
+publication_type: note
 ---
+
 # Notes on Dipterocarps. {No. 9} On the differences in the seedlings between Balanocarpus maximus, King, and B. heimii, King
 
 This note by I.H. Burkill describes the germination and early seedling morphology of *Balanocarpus maximus*, King, and contrasts it with *B. heimii*, King, using seeds collected by R. E. Holttum in Negri Sembilan in November 1922 (p. 218).

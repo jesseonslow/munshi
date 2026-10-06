@@ -4,8 +4,7 @@ work_id: jsbras-78-1-p3
 title: Jelebu customary songs and sayings; with a preface and notes, R.O. Winstedt
 canonical_name: Jelebu customary songs and sayings; with a preface and notes, R.O.
   Winstedt
-type: article
-article_type: article
+type: publication
 authors:
 - A. Caldecott
 - R.O. Winstedt
@@ -23,7 +22,9 @@ published: false
 source_doc: jsbras-078-caldecott-jelebucustomarysongs-1918-53f02d571e06
 source_path: ../sources/jsbras-078-caldecott-jelebucustomarysongs-1918-53f02d571e06.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Jelebu customary songs and sayings; with a preface and notes, R.O. Winstedt
 
 A. Caldecott, a district officer in Jelebu, collected this corpus of Minangkabau customary songs (*tēromba*) and sayings (*pēbilangan adat*) in the state of Jelebu, Negri Sembilan, and R. O. Winstedt—then a senior colonial administrator and the leading British authority on Malay custom—supplied the preface, translations, and scholarly notes. Published in 1918 in the *Journal of the Straits Branch of the Royal Asiatic Society*, the article's overarching thesis, advanced in Winstedt's preface, is that despite superficial variations among the four Negri Sembilan states, there exists at bottom only one *adat Minangkabau*, and that the people's own sayings and songs constitute the most reliable evidence for its principles—evidence that European scholars had systematically overlooked in favour of interested parties' interpretations in local courts (pp. 3–6).

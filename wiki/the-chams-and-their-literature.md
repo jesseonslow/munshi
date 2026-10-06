@@ -3,8 +3,7 @@ id: the-chams-and-their-literature
 work_id: jmbras-58-2-p45
 title: The Chams and their literature
 canonical_name: The Chams and their literature
-type: article
-article_type: article
+type: publication
 authors:
 - G.E. Marrison
 year: 1985
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-249-marrison-chamsliterature-1985-25207936b0a1
 source_path: ../sources/jmbras-249-marrison-chamsliterature-1985-25207936b0a1/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The Chams and their literature
 
 G. E. Marrison, a veteran Malayan Civil Service officer and long-standing contributor to the *JMBRAS*, published this survey in 1985, covering the Cham people of central Vietnam and Cambodia, their Indianized Hindu kingdom (c. 192–1471 CE), and the surviving manuscript and literary traditions that document their cultural heritage. The overarching thesis is that Cham literature, though fragmentary and dispersed across Parisian collections, is more extensive and significant for Indonesian comparative studies than previously recognized.

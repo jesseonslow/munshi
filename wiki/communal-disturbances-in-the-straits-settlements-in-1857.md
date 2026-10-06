@@ -3,8 +3,7 @@ id: communal-disturbances-in-the-straits-settlements-in-1857
 work_id: jmbras-31-1-p94
 title: Communal disturbances in the Straits Settlements in 1857
 canonical_name: Communal disturbances in the Straits Settlements in 1857
-type: article
-article_type: article
+type: publication
 authors:
 - C.M. Turnbull
 year: 1958
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-181-turnbull-communaldisturbancesstraits-1958-4da1c7c88062
 source_path: ../sources/jmalayanras-181-turnbull-communaldisturbancesstraits-1958-4da1c7c88062/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Communal disturbances in the Straits Settlements in 1857
 
 Constance M. Turnbull's 1958 article examines the communal disturbances that erupted across the Straits Settlements in 1857, arguing that these seemingly trivial clashes over police enforcement of new legislation proved a more vital catalyst for the eventual transfer of the Settlements from Indian to British Colonial Office control than the longer-standing grievances over trade policy and judicial reform. Writing from the Straits Settlements Records at Raffles National Library and the contemporary press, Turnbull reconstructs how the enforcement of the Police and Conservancy Acts ignited successive outbreaks among the Chinese and Indian communities in Singapore and Penang, and how these incidents became entangled with the growing demand among the European mercantile elite for a share in government.

@@ -3,8 +3,7 @@ id: boo-chih-fu-and-the-first-malaysian-communist-party-split
 work_id: jmbras-92-1-p41
 title: Boo Chih Fu and the first Malaysian Communist Party split
 canonical_name: Boo Chih Fu and the first Malaysian Communist Party split
-type: article
-article_type: article
+type: publication
 authors:
 - M. Opper
 year: 2019
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-316-opper-boochihfu-2019-326d7ecb3524
 source_path: ../sources/jmbras-316-opper-boochihfu-2019-326d7ecb3524/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Boo Chih Fu and the first Malaysian Communist Party split
 
 Marc Opper's 2019 article examines the first major internal split within the Malayan Communist Party (MCP), centring on the figure of Boo Chih Fu, a Hainanese cadre whose political line and subsequent purge in 1936 set in motion a chain of events that fundamentally weakened the Party's leadership cadre for the rest of the colonial period. Published in *JMBRAS* Vol. 92(1), the piece reconstructs the factional dynamics of the early MCP using a substantial body of Chinese-language archival and memoir sources alongside British colonial records, arguing that the 1936 purge was not merely a routine disciplinary action but a decisive power consolidation by Lai Teck and the Hainanese faction that left the Party structurally vulnerable as it entered the Emergency.

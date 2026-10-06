@@ -3,8 +3,7 @@ id: journey-to-the-summit-of-gunong-bubu
 work_id: jsbras-14-1-p275
 title: Journey to the summit of Gunong Bubu
 canonical_name: Journey to the summit of Gunong Bubu
-type: article
-article_type: article
+type: publication
 authors:
 - J.E. Tenison Woods
 year: 1884
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-014-tenisonwoods-journeysummitgunong-1884-5ef28d18762a
 source_path: ../sources/jsbras-014-tenisonwoods-journeysummitgunong-1884-5ef28d18762a.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Journey to the summit of Gunong Bubu
 
 J. E. Tenison Woods published this account in 1884, recording the first documented ascent of Gunong Bubu, the highest peak of Perak's coast range, undertaken at the request of Sir Hugh Low, the British Resident of Perak. The expedition, conducted in May 1884 with the botanist Revd. B. Scortechini and Mr. C. F. Bozzolo managing a Malay porter party, combined mountaineering with botanical and geographical survey in a landscape previously unexplored by Europeans.

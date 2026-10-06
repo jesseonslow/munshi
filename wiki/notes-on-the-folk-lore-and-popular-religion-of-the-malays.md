@@ -3,8 +3,7 @@ id: notes-on-the-folk-lore-and-popular-religion-of-the-malays
 work_id: jsbras-29-1-p1
 title: Notes on the folk-lore and popular religion of the Malays
 canonical_name: Notes on the folk-lore and popular religion of the Malays
-type: article
-article_type: article
+type: publication
 authors:
 - C.O. Blagden
 year: 1896
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: true
 source_doc: jsbras-029-blagden-notesfolklorepopular-1896-875bbd6f3bd6
 source_path: ../sources/jsbras-029-blagden-notesfolklorepopular-1896-875bbd6f3bd6.md
+publication_type: note
 ---
+
 # Notes on the folk-lore and popular religion of the Malays
 
 C. Otto Blagden, a colonial administrator in Malacca, published this ethnographic paper in 1896, drawing on his personal observations of rural Malay communities to argue that the popular religious practices of country Malays are fundamentally pre-Islamic in character despite their nominal adherence to Muhammadan ritual. The article, read before the Straits Philosophical Society, documents the persistence of animistic beliefs, spirit-worship, and the institutional role of the *Pawang* as a village functionary operating entirely outside the orthodox Islamic framework.

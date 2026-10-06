@@ -3,8 +3,7 @@ id: the-war-with-yam-tuan-antah
 work_id: jmbras-27-1-p1
 title: The war with Yam Tuan Antah
 canonical_name: The war with Yam Tuan Antah
-type: article
-article_type: article
+type: publication
 authors:
 - J.M. Gullick
 year: 1954
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: true
 source_doc: jmalayanras-165-gullick-waryamtuan-1954-ac46e2860431
 source_path: ../sources/jmalayanras-165-gullick-waryamtuan-1954-ac46e2860431.md
+publication_type: journal_article
 ---
+
 # The war with Yam Tuan Antah
 
 J.M. Gullick's 1954 article reconstructs the 1875 war in Negri Sembilan, in which Yam Tuan Antah led a Malay resistance against British-backed authority in Sungei Ujong. Gullick argues that the conflict was not a simple civil war between rival Malay factions but a broader aristocratic reaction to British intervention, which had disrupted the internal political equilibrium of the Nine States federation. The war's outcome fragmented Negri Sembilan's political structure, yet paradoxically set the stage for its eventual re-unification under a new generation of rulers who adapted to the colonial order.

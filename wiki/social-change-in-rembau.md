@@ -3,8 +3,7 @@ id: social-change-in-rembau
 work_id: jmbras-50-2-p136
 title: Social change in Rembau
 canonical_name: Social change in Rembau
-type: article
-article_type: article
+type: publication
 authors:
 - Norhalim bin Hj. Ibrahim
 year: 1977
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-232-ibrahim-socialchangerembau-1977-e3ca0355527a
 source_path: ../sources/jmbras-232-ibrahim-socialchangerembau-1977-e3ca0355527a/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Social change in Rembau
 
 Norhalim Hj. Ibrahim's 1977 article, an abstract of his University of Hull MA thesis (1976), examines how British colonialism and its associated institutions—particularly secular education, centralized administration, and the money economy—have eroded the traditional matrilineal kinship structure (*adat perpatih*) of Rembau, Negeri Sembilan. The central argument is that while economic change (rubber cultivation) and political restructuring were necessary preconditions, it was education that proved the most decisive agent in transforming the society's value system and social organization.

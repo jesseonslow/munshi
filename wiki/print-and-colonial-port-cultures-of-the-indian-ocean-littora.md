@@ -5,8 +5,7 @@ title: 'Print and colonial port cultures of the Indian Ocean littorals: Penang a
   Rangoon'
 canonical_name: 'Print and colonial port cultures of the Indian Ocean littorals: Penang
   and Rangoon'
-type: article
-article_type: article
+type: publication
 authors:
 - S.L. Lewis
 year: 2009
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-297-lewis-printcolonialport-2009-1ad2a92dbdc7
 source_path: ../sources/jmbras-297-lewis-printcolonialport-2009-1ad2a92dbdc7/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Print and colonial port cultures of the Indian Ocean littorals: Penang and Rangoon
 
 Su Lin Lewis's 2009 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* examines how print culture and English-language media in the colonial port-cities of Penang and Rangoon fostered distinct but parallel forms of political consciousness among multi-ethnic Asian communities from the 1860s to the 1940s. Drawing on colonial records, newspapers, and memoirs, Lewis argues that the cosmopolitan public sphere of the Indian Ocean littoral enabled Asians in both cities to contest colonialism through the press—yet produced divergent outcomes: a cosmopolitan, rights-based citizenship in Penang and a culturally homogeneous ethnic nationalism in Rangoon.

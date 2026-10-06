@@ -3,8 +3,7 @@ id: history-of-kelantan-part-i
 work_id: jmbras-12-2-p44
 title: History of Kelantan, Part I
 canonical_name: History of Kelantan, Part I
-type: article
-article_type: article
+type: publication
 authors:
 - A. Rentse
 year: 1934
@@ -27,7 +26,9 @@ published: false
 source_doc: jmalayanras-119-rentse-historykelantan-1934-4d2ef0c6ba3e
 source_path: ../sources/jmalayanras-119-rentse-historykelantan-1934-4d2ef0c6ba3e.md
 summarized: true
+publication_type: journal_article
 ---
+
 # History of Kelantan, Part I
 
 Anker Rentse, a Dutch colonial administrator serving in the Kelantan advisory office, published this foundational reconstruction of Kelantan's early history in 1934, drawing on Malay folklore, Chinese annals, Ptolemaic geography, old European maps, and royal genealogical manuscripts to argue that Kelantan was an ancient trading state that fragmented under Siamese pressure in the seventeenth century and was reconstituted in the eighteenth century through the Long Yunus dynasty. The article establishes the deep Patani–Kelantan connection as the key to understanding the state's political development and challenges earlier, less reliable accounts by Graham and Newbold.

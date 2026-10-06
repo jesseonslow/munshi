@@ -3,8 +3,7 @@ id: grasses-and-sedges-of-borneo
 work_id: jsbras-46-1-p215
 title: Grasses and sedges of Borneo
 canonical_name: Grasses and sedges of Borneo
-type: article
-article_type: article
+type: publication
 authors:
 - H.N. Ridley
 year: 1906
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-046-ridley-grassessedgesborneo-1906-a64a5075bdcb
 source_path: ../sources/jsbras-046-ridley-grassessedgesborneo-1906-a64a5075bdcb.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Grasses and sedges of Borneo
 
 H. N. Ridley, Director of the Singapore Botanic Gardens, published this preliminary taxonomic checklist of Bornean grasses and sedges in 1906, drawing on the herbarium collections of Bishop Hose, Miss Hose, Dr. Haviland, and his own field work in Sarawak and Sandakan. The article serves as an early floristic inventory of two large families—Gramineae and Cyperaceae—across the island, acknowledging that the greater part of Borneo remained botanically unexplored at the time.

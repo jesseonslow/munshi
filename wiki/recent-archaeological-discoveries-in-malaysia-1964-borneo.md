@@ -3,8 +3,7 @@ id: recent-archaeological-discoveries-in-malaysia-1964-borneo
 work_id: jmbras-38-1-p244
 title: 'Recent archaeological discoveries in Malaysia, 1964: Borneo'
 canonical_name: 'Recent archaeological discoveries in Malaysia, 1964: Borneo'
-type: article
-article_type: article
+type: publication
 authors:
 - Tom Harrisson
 year: 1965
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-207-harrisson-recentarchaeologicaldiscoveries-1965-9bd1be43f728
 source_path: ../sources/jmbras-207-harrisson-recentarchaeologicaldiscoveries-1965-9bd1be43f728.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Recent archaeological discoveries in Malaysia, 1964: Borneo
 
 Tom Harrisson, Curator of the Sarawak Museum, reported in 1965 on the major archaeological advances made across Borneo during 1964, a year that marked the opening of the first complete excavations in Sabah and the confirmation of a critical radiocarbon date at Niah Caves. The overarching significance of the work lies in establishing that Sabah's prehistoric sequence is fundamentally distinct from the well-documented Sarawak record, with strong affinities to the Celebes and Moluccas rather than to the Malay Peninsula or western Borneo.

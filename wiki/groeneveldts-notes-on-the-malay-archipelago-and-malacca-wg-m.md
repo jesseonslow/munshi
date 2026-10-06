@@ -3,8 +3,7 @@ id: groeneveldts-notes-on-the-malay-archipelago-and-malacca-wg-m
 work_id: jsbras-52-1-p105
 title: Groeneveldt’s notes on the Malay archipelago and Malacca. W.G. Maxwell
 canonical_name: Groeneveldt’s notes on the Malay archipelago and Malacca. W.G. Maxwell
-type: article
-article_type: article
+type: publication
 authors:
 - W.P. Groeneveldt
 - W.G. Maxwell
@@ -22,7 +21,9 @@ published: false
 source_doc: jsbras-052-maxwell-groeneveldtsnotesmalay-1909-033dcfd92924
 source_path: ../sources/jsbras-052-maxwell-groeneveldtsnotesmalay-1909-033dcfd92924.md
 summarized: true
+publication_type: note
 ---
+
 # Groeneveldt’s notes on the Malay archipelago and Malacca. W.G. Maxwell
 
 W. George Maxwell published this short philological note in the *Journal of the Straits Branch of the Royal Asiatic Society* in 1909, offering a series of corrections and identifications to W.P. Groeneveldt's 1887 *Notes on the Malay Archipelago and Malacca*. Working from Chinese dynastic histories and the *Ying-yai Sheng-lan*, Maxwell argues that several of Groeneveldt's renderings of Malay and Javanese terms through Chinese ideographs can be improved or corrected through closer attention to dialectal pronunciation and comparative Malay vocabulary.

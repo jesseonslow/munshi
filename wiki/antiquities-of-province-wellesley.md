@@ -3,8 +3,7 @@ id: antiquities-of-province-wellesley
 work_id: jsbras-1-1-p114
 title: Antiquities of Province Wellesley
 canonical_name: Antiquities of Province Wellesley
-type: article
-article_type: article
+type: publication
 authors:
 - W.E. Maxwell
 year: 1878
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-001-maxwell-antiquitiesprovincewellesley-1878-7483dd99c582
 source_path: ../sources/jsbras-001-maxwell-antiquitiesprovincewellesley-1878-7483dd99c582.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Antiquities of Province Wellesley
 
 This is the title page for "Antiquities of Province Wellesley" by W. E. Maxwell, published in the *Journal of the Straits Branch of the Royal Asiatic Society*, Vol. 1 (July 1878), p. 114.

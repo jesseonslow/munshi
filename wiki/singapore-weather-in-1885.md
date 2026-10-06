@@ -3,8 +3,7 @@ id: singapore-weather-in-1885
 work_id: jsbras-16-1-p435
 title: Singapore weather in 1885
 canonical_name: Singapore weather in 1885
-type: article
-article_type: article
+type: publication
 authors:
 - A. Knight
 year: 1885
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-016-knight-singaporeweather1885-1885-5aeaf1380e97
 source_path: ../sources/jsbras-016-knight-singaporeweather1885-1885-5aeaf1380e97.md
 summarized: true
+publication_type: note
 ---
+
 # Singapore weather in 1885
 
 A. Knight's brief note documents the droughts experienced in Singapore during 1885, recording periods of seven or more consecutive days without measurable rain as observed at his station (p. 435).

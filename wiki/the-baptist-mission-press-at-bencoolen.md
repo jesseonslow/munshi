@@ -3,8 +3,7 @@ id: the-baptist-mission-press-at-bencoolen
 work_id: jmbras-23-3-p136
 title: The Baptist mission press at Bencoolen
 canonical_name: The Baptist mission press at Bencoolen
-type: article
-article_type: article
+type: publication
 authors:
 - C.E. Wurtzburg
 year: 1950
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-153-wurtzburg-baptistmissionpress-1950-1134ba44626d
 source_path: ../sources/jmalayanras-153-wurtzburg-baptistmissionpress-1950-1134ba44626d/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The Baptist mission press at Bencoolen
 
 C.E. Wurtzburg's 1950 article documents the brief but consequential output of the Baptist Mission Press at Bencoolen, established under the direct patronage of Sir Stamford Raffles during his second tenure as Lieutenant Governor of Fort Marlborough (1818–1824). The piece reconstructs the press's small catalogue of publications—primarily the two volumes of *Malayan Miscellanies* and the *Proceedings of the Agricultural Society of Sumatra*—and situates them within Raffles's broader programme of administrative and intellectual development for the settlement.

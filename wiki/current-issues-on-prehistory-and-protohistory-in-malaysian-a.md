@@ -3,8 +3,7 @@ id: current-issues-on-prehistory-and-protohistory-in-malaysian-a
 work_id: jmbras-80-1-p59
 title: Current issues on prehistory and protohistory in Malaysian archaeology,
 canonical_name: Current issues on prehistory and protohistory in Malaysian archaeology,
-type: article
-article_type: article
+type: publication
 authors:
 - Hassan Shuhaimi Nik, bin Nik Abdul Rahman
 - Raimy Ché-Ross
@@ -23,7 +22,9 @@ summarized: true
 source_mismatch: true
 source_doc: jmbras-292-rahman-currentissuesprehistory-2007-c3a63458ea13
 source_path: ../sources/references.md
+publication_type: journal_article
 ---
+
 # Current issues on prehistory and protohistory in Malaysian archaeology,
 
 Nik Hassan Shuhaimi Nik Abdul Rahman's 2007 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* (Vol. 80, Part 1) presents a comprehensive reassessment of Malaysian prehistory and protohistory, arguing that cultural transformations from the Mesolithic to the Neolithic and the rise of early Indianized kingdoms were driven by internal development and trade networks rather than by the migratory waves posited by Heine-Geldern and his successors. The author draws on excavation data from sites across Peninsular Malaysia, Sarawak, and Sabah to challenge both the Austronesian migration theory and Quaritch-Wales' colonist model of Indianization, proposing instead a continuous, locally rooted developmental sequence.

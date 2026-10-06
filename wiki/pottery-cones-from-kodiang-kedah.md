@@ -3,8 +3,7 @@ id: pottery-cones-from-kodiang-kedah
 work_id: jmbras-29-1-p189
 title: Pottery cones from Kodiang, Kedah
 canonical_name: Pottery cones from Kodiang, Kedah
-type: article
-article_type: article
+type: publication
 authors:
 - G. de G. Sieveking
 year: 1956
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-173-sieveking-potteryconeskodiang-1956-a4a4bf68daa7
 source_path: ../sources/jmalayanras-173-sieveking-potteryconeskodiang-1956-a4a4bf68daa7.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Pottery cones from Kodiang, Kedah
 
 G. de G. Sieveking's 1956 note in the *Journal of the Malayan Branch of the Royal Asiatic Society* examines a collection of hollow, perforated cord-impressed pottery cones recovered from an undisturbed cave at Kodiang, Kedah, and argues against the prevailing interpretation of these objects as ritual incense-burners, proposing instead that they functioned as practical working gear in Neolithic pottery production.

@@ -3,8 +3,7 @@ id: tan-tock-seng-hospital-singapore
 work_id: jsbras-64-1-p72
 title: Tan Tock Seng Hospital, Singapore
 canonical_name: Tan Tock Seng Hospital, Singapore
-type: article
-article_type: article
+type: publication
 authors:
 - A. Knight
 year: 1913
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-064-knight-tantocksengs-1913-054e319f9b15
 source_path: ../sources/jsbras-064-knight-tantocksengs-1913-054e319f9b15.md
 summarized: true
+publication_type: note
 ---
+
 # Tan Tock Seng Hospital, Singapore
 
 A brief historical note by Arthur Knight tracing the founding, relocation, and expansion of Tan Tock Seng Hospital in Singapore from 1844 to the completion of new Government-built premises on Moulmein Road in 1909.

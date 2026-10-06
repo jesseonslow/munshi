@@ -5,8 +5,7 @@ title: Notes on a trip to Bukit Etam, Selangor. H.J. Kelsall (with an additional
   H.N. Ridley
 canonical_name: Notes on a trip to Bukit Etam, Selangor. H.J. Kelsall (with an additional
   note H.N. Ridley)
-type: article
-article_type: article
+type: publication
 authors:
 - H.N. Ridley
 year: 1891
@@ -23,7 +22,9 @@ published: false
 source_doc: jsbras-023-kelsall-notestripbukit-1891-6c647dd38cdf
 source_path: ../sources/jsbras-023-kelsall-notestripbukit-1891-6c647dd38cdf.md
 summarized: true
+publication_type: note
 ---
+
 # Notes on a trip to Bukit Etam, Selangor. H.J. Kelsall (with an additional note H.N. Ridley
 
 Lieutenant H. J. Kelsall of the Royal Engineers, accompanied on his first ascent by District Officer Mr. Lawder of Kajang, recorded two short expeditions to Bukit Etam in January 1891, producing a field narrative of the hill's ecology, topography, and flora that H. N. Ridley of the Singapore Botanic Gardens supplemented with a taxonomic identification of the collected specimens. Published in the *Journal of the Straits Branch of the Royal Asiatic Society* (Vol. 23, 1891), the account documents one of the earliest systematic botanical surveys of a Selangor hill peak during the period of rapid colonial expansion around Kuala Lumpur.

@@ -3,8 +3,7 @@ id: british-borneo-sketches-of-brunai-sarawak-labuan-and-north-b
 work_id: jsbras-21-1-p19
 title: 'British Borneo: sketches of Brunai, Sarawak, Labuan and North Borneo'
 canonical_name: 'British Borneo: sketches of Brunai, Sarawak, Labuan and North Borneo'
-type: article
-article_type: article
+type: publication
 authors:
 - W.H. Treacher
 year: 1890
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-020-treacher-britishborneosketches-1889-8b79c3eeea42
 source_path: ../sources/jsbras-020-treacher-britishborneosketches-1889-8b79c3eeea42.md
 summarized: true
+publication_type: journal_article
 ---
+
 # British Borneo: sketches of Brunai, Sarawak, Labuan and North Borneo
 
 W.H. Treacher, who served as Acting British Consul-General in Borneo and would shortly become the first Governor of British North Borneo, published this multi-part survey in the *Journal of the Straits Branch of the Royal Asiatic Society* in 1890. Writing from direct administrative experience accumulated since 1871, Treacher provides a comprehensive political and ethnographic account of the British possessions and interests in Borneo—Brunei, Sarawak, Labuan, and the Company's territory—tracing the island's history from first European contact in 1518 to the final partition between Britain and the Netherlands in 1881. The overarching thesis is that the old monopolistic trading-company model has been superseded by territorial governance, and that Borneo is entering a new phase of development under non-monopolistic British administration.

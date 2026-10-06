@@ -3,8 +3,7 @@ id: newly-discovered-prehistoric-rock-carvings-in-the-ulu-tomani
 work_id: jmbras-46-1-p141
 title: Newly discovered prehistoric rock carvings in the Ulu Tomani, Sabah
 canonical_name: Newly discovered prehistoric rock carvings in the Ulu Tomani, Sabah
-type: article
-article_type: article
+type: publication
 authors:
 - Tom Harrisson
 year: 1973
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-223-harrisson-newlydiscoveredprehistoric-1973-bbba0018a7d2
 source_path: ../sources/jmbras-223-harrisson-newlydiscoveredprehistoric-1973-bbba0018a7d2.md
 summarized: true
+publication_type: note
 ---
+
 # Newly discovered prehistoric rock carvings in the Ulu Tomani, Sabah
 
 This short note by Tom Harrisson documents the discovery and preliminary description of prehistoric rock carvings on a large boulder in the Ulu Tomani, Sabah, first uncovered in April 1971 and investigated in October 1972.

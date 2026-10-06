@@ -5,8 +5,7 @@ title: The missing second edition of C.H. Thomsen and Abdullah bin Abdul Kadir�
   and Malay vocabulary
 canonical_name: The missing second edition of C.H. Thomsen and Abdullah bin Abdul
   Kadir’s English and Malay vocabulary. .f
-type: article
-article_type: article
+type: publication
 authors:
 - J.S. Bastin
 - C.H. Thomsen
@@ -24,7 +23,9 @@ published: false
 source_doc: jmbras-244-bastin-missingsecondedition-1983-335fb07734e5
 source_path: ../sources/jmbras-244-bastin-missingsecondedition-1983-335fb07734e5.md
 summarized: true
+publication_type: note
 ---
+
 # The missing second edition of C.H. Thomsen and Abdullah bin Abdul Kadir’s English and Malay vocabulary
 
 This short note by John Bastin identifies a previously unknown copy of the second edition (1827) of C.H. Thomsen and Abdullah bin Abdul Kadir's *A Vocabulary of the English and Malay Languages*, held in the National Library of Malaysia, Kuala Lumpur.

@@ -3,8 +3,7 @@ id: muhammad-alimuddin-i-sultan-of-sulu-17351773
 work_id: jmbras-38-1-p43
 title: Muhammad Alimuddin I, Sultan of Sulu, 1735–1773
 canonical_name: Muhammad Alimuddin I, Sultan of Sulu, 1735–1773
-type: article
-article_type: article
+type: publication
 authors:
 - H. de la Costa
 year: 1965
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: false
 source_doc: jmbras-207-costa-muhammadalimuddini-1965-62a7f5357fad
 source_path: ../sources/appendix.md
+publication_type: journal_article
 ---
+
 # Muhammad Alimuddin I, Sultan of Sulu, 1735–1773
 
 H. de la Costa, S.J., published this article in 1965 in the *Journal of the Malaysian Branch of the Royal Asiatic Society* (Vol. 38, pp. 43–76), drawing on Jesuit provincial archives, East India Company records, and Spanish colonial documents to reconstruct the reign of Sultan Muhammad Alimuddin I of Sulu (1735–1773). The overarching thesis is that Alimuddin was a capable but ultimately indecisive ruler whose personal fascination with Christianity and the competing imperial ambitions of Spain and Britain conspired to destabilize his sultanate and reshape its territorial integrity.

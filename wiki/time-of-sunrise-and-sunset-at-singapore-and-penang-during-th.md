@@ -3,8 +3,7 @@ id: time-of-sunrise-and-sunset-at-singapore-and-penang-during-th
 work_id: jsbras-79-1-p101
 title: Time of sunrise and sunset at Singapore and Penang during the year
 canonical_name: Time of sunrise and sunset at Singapore and Penang during the year
-type: article
-article_type: article
+type: publication
 authors:
 - H. Marriott
 year: 1918
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-079-marriott-timesunrisesunset-1918-940c199b0f55
 source_path: ../sources/jsbras-079-marriott-timesunrisesunset-1918-940c199b0f55.md
 summarized: true
+publication_type: note
 ---
+
 # Time of sunrise and sunset at Singapore and Penang during the year
 
 This short note by H. Marriott (1918) presents a chart of sunrise and sunset times at Singapore and Penang throughout the year, accompanied by a brief explanation of the factors affecting day length at these low latitudes.

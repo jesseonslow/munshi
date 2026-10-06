@@ -5,8 +5,7 @@ title: The ecologies of kuala and muara settlements in the pre-modern Malay cult
   world
 canonical_name: The ecologies _of kuala_ and _muara_ settlements in the pre-modern
   Malay cultural world
-type: article
-article_type: article
+type: publication
 authors:
 - C. Airriess
 year: 2003
@@ -22,6 +21,7 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+publication_type: journal_article
 ---
 
 # The ecologies of kuala and muara settlements in the pre-modern Malay cultural world

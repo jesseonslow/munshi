@@ -3,8 +3,7 @@ id: some-perak-pedigrees
 work_id: jsbras-79-1-p55
 title: Some Perak pedigrees
 canonical_name: Some Perak pedigrees
-type: article
-article_type: article
+type: publication
 authors:
 - R.O. Winstedt
 year: 1918
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-079-winstedt-perakpedigrees-1918-120e8906a85e
 source_path: ../sources/jsbras-079-winstedt-perakpedigrees-1918-120e8906a85e.md
 summarized: true
+publication_type: document
 ---
+
 # Some Perak pedigrees
 
 "Some Perak Pedigrees" by R. O. Winstedt presents genealogical charts of five major Perak royal and noble families, copied from a manuscript by Raja Haji Yahya, the late mufti of Perak (p. 55).

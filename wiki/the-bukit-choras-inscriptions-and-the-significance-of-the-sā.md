@@ -5,8 +5,7 @@ title: The Bukit Choras Inscriptions and the Significance of the Sāgaramatipari
   Verses to Ancient Kedah.
 canonical_name: The Bukit Choras Inscriptions and the Significance of the _Sāgaramatiparipṛcchā_
   Verses to Ancient Kedah.
-type: article
-article_type: article
+type: publication
 authors:
 - V. Bujeng
 - Nasha Rodziadi Khaw
@@ -35,7 +34,9 @@ keywords:
 source_doc: khaw-ooi-bujeng-nrayanen-salleh-bukit-choras-inscriptions-ebaefa08b115
 source_path: ../sources/khaw-ooi-bujeng-nrayanen-salleh-bukit-choras-inscriptions-ebaefa08b115/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The Bukit Choras Inscriptions and the Significance of the Sāgaramatiparipṛcchā Verses to Ancient Kedah.
 
 ## Abstract

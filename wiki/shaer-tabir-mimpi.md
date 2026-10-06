@@ -3,8 +3,7 @@ id: shaer-tabir-mimpi
 work_id: jmbras-7-2-p338
 title: Shaer Ta’bir Mimpi
 canonical_name: _Shaer Ta’bir Mimpi._
-type: article
-article_type: article
+type: publication
 authors:
 - H. Overbeck
 year: 1929
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-107-overbeck-shaertabirmimpi-1929-b571128406ea
 source_path: ../sources/jmalayanras-107-overbeck-shaertabirmimpi-1929-b571128406ea.md
 summarized: true
+publication_type: translation
 ---
+
 # Shaer Ta’bir Mimpi
 
 H. Overbeck's 1929 article presents a translation and brief analysis of the *Shaer Ta'bir Mimpi*, a versified Malay dream-book published in Singapore in 1908 (1326 AH), situating it within the broader Islamic mantic tradition and assessing its likely composite origins. Overbeck argues that the text is a medley drawing on Arabian, Malay, and possibly Indian sources, and that dream-books of this type cannot reliably serve as evidence for the psychology of the people among whom they are found.

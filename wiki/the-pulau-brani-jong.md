@@ -3,8 +3,7 @@ id: the-pulau-brani-jong
 work_id: jmbras-59-2-p133
 title: The Pulau Brani Jong
 canonical_name: The Pulau Brani Jong
-type: article
-article_type: article
+type: publication
 authors:
 - E.R. Alfred
 year: 1986
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-251-alfred-pulaubranijong-1986-bb7bd8bf5f14
 source_path: ../sources/jmbras-251-alfred-pulaubranijong-1986-bb7bd8bf5f14/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The Pulau Brani Jong
 
 Eric R. Alfred's 1986 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* documents three model outrigger canoes (*jong*) from Pulau Brani, Singapore, and argues that their hull form derives from the full-size *Sekochi* of the east coast of Peninsular Malaysia, while their two-masted gunter rig was likely adapted from Indonesian trading vessels that once called at the island.

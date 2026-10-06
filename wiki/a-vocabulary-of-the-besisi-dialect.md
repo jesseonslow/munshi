@@ -3,8 +3,7 @@ id: a-vocabulary-of-the-besisi-dialect
 work_id: jsbras-29-1-p13
 title: A vocabulary of the Besisi dialect
 canonical_name: A vocabulary of the Besisi dialect
-type: article
-article_type: article
+type: publication
 authors:
 - W.W. Skeat
 year: 1896
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-029-skeat-vocabularybesisidialect-1896-c160873c4281
 source_path: ../sources/jsbras-029-skeat-vocabularybesisidialect-1896-c160873c4281.md
 summarized: true
+publication_type: journal_article
 ---
+
 # A vocabulary of the Besisi dialect
 
 W. W. Skeat, serving as Acting District Officer in Ulu Langat, Selangor, compiled this alphabetical vocabulary of the Besisi (Sakai) dialect in 1896, providing Besisi terms alongside Malay glosses for a wide range of semantic fields. The work constitutes a continuation of an earlier portion (marked "A.—Continued"), and it represents one of the earliest systematic lexical records of a Peninsular Malay Peninsula Negrito language, produced within the colonial administrative framework of the Straits Settlements and Federated Malay States.

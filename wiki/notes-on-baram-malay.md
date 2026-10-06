@@ -3,8 +3,7 @@ id: notes-on-baram-malay
 work_id: jmbras-31-1-p171
 title: Notes on Baram Malay
 canonical_name: Notes on Baram Malay
-type: article
-article_type: article
+type: publication
 authors:
 - R. Needham
 year: 1958
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-181-needham-notesbarammalay-1958-321fa4a86fbd
 source_path: ../sources/jmalayanras-181-needham-notesbarammalay-1958-321fa4a86fbd.md
 summarized: true
+publication_type: note
 ---
+
 # Notes on Baram Malay
 
 Rodney Needham's "Notes on Baram Malay" (1958) is a brief linguistic field note documenting the systematic phonetic distortions that interior Borneo peoples—primarily Kenyah and Kayan speakers in the Baram District of Sarawak—impose on the Malay language when they use it as a contact tongue. Needham's overarching thesis is that these interior "mangled" forms represent a distinct and previously unpublished stratum of Malay variation, separate from the coastal Brunei Malay varieties already described by Marshall and MacBryan, and that they are rapidly vanishing as schooling spreads standard Malay to younger generations.

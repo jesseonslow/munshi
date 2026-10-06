@@ -3,8 +3,7 @@ id: malay-proverbs
 work_id: jsbras-11-1-p31
 title: Malay proverbs
 canonical_name: Malay proverbs
-type: article
-article_type: article
+type: publication
 authors:
 - W.E. Maxwell
 year: 1883
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: true
 source_doc: jsbras-011-maxwell-malayproverbs-1883-d37034ed61a1
 source_path: ../sources/jsbras-011-maxwell-malayproverbs-1883-d37034ed61a1.md
+publication_type: journal_article
 ---
+
 # Malay proverbs
 
 W.E. Maxwell published this second collection of Malay proverbs in the *Journal of the Straits Branch of the Royal Asiatic Society* in 1883, drawing primarily on the earlier French and Dutch lexicographical works of Abbé Favre and Klinkert while supplying his own English translations and interpretive glosses. The article represents a continuation of Maxwell's 1878–9 series in the same journal, and its overarching purpose is to make a substantial body of Malay proverbial wisdom accessible to English-speaking students who lack proficiency in French or Dutch.

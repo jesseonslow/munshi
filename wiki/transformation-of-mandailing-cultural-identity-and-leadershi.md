@@ -3,8 +3,7 @@ id: transformation-of-mandailing-cultural-identity-and-leadershi
 work_id: jmbras-76-1-p55
 title: Transformation of Mandailing cultural identity and leadership
 canonical_name: Transformation of Mandailing cultural identity and leadership
-type: article
-article_type: article
+type: publication
 authors:
 - Abdur-Razzaq Lubis
 year: 2003
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-284-lubis-transformationmandailingcultural-2003-32618bae45b7
 source_path: ../sources/jmbras-284-lubis-transformationmandailingcultural-2003-32618bae45b7/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Transformation of Mandailing cultural identity and leadership
 
 Abdur-Razzaq Lubis, a Mandailing-descended scholar and project leader of a Toyota Foundation research grant on Mandailing migration, published this article in 2003 tracing the transformation of Mandailing cultural identity and the traditional governance institution of *Namora-Natoras* from the pre-colonial period through the Padri War, Dutch and British colonialism, nationalist movements, and into the age of globalization. The overarching thesis is that Mandailing identity has been repeatedly constructed, suppressed, and reinvented by successive external forces—Wahhabite Islamization, colonial administrative reclassification, nationalist state-building, and global economic integration—each of which progressively dismantled the traditional consultative governance system while simultaneously provoking new assertions of ethnic distinctiveness.

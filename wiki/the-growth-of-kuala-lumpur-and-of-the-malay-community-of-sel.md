@@ -4,8 +4,7 @@ work_id: jmbras-63-1-p15
 title: The growth of Kuala Lumpur and of the Malay community of Selangor before 1880
 canonical_name: The growth of Kuala Lumpur and of the Malay community of Selangor
   before 1880
-type: article
-article_type: article
+type: publication
 authors:
 - J.M. Gullick
 year: 1990
@@ -22,7 +21,9 @@ published: false
 source_doc: jmbras-258-gullick-growthkualalumpur-1990-e1c0c239fa73
 source_path: ../sources/jmbras-258-gullick-growthkualalumpur-1990-e1c0c239fa73/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The growth of Kuala Lumpur and of the Malay community of Selangor before 1880
 
 J.M. Gullick's 1990 article traces the physical and demographic origins of Kuala Lumpur from a small river transhipment point in the late 1850s to its establishment as the administrative capital of Selangor in 1880. Writing as a contribution to the preservation of the city's remaining nineteenth-century buildings, Gullick reconstructs how topographical constraints, tin mining economics, and the decisions of key actors—Yap Ah Loy, Bloomfield Douglas, and F.A. Swettenham—determined the town's layout, its Chinese and Malay quarters, and the infrastructure that made the transfer of the state capital from Klang possible.

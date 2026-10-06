@@ -3,8 +3,7 @@ id: chinese-secret-societies
 work_id: jsbras-3-1-p1
 title: Chinese secret societies
 canonical_name: Chinese secret societies
-type: article
-article_type: article
+type: publication
 authors:
 - W.A. Pickering
 year: 1879
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: true
 source_doc: jsbras-003-pickering-chinesesecretsocieties-1879-caec74b2defd
 source_path: ../sources/jsbras-003-pickering-chinesesecretsocieties-1879-caec74b2defd.md
+publication_type: journal_article
 ---
+
 # Chinese secret societies
 
 W. A. Pickering, a senior colonial official in the Straits Settlements, published this second part of his study of Chinese secret societies in 1879, presenting a detailed ethnographic account of an initiatory ceremony of the Ghee Hin (Hung) Society as witnessed in a Singapore lodge. His overarching thesis is that, while the ritual retains its anti-Qing ("overturn the Chheng, restore the Beng") symbolic architecture, the societies in the British colony have been functionally transformed into quasi-legal mutual-aid organisations whose recognition by the colonial state constitutes the only practicable mechanism of governance over a heterogeneous, dialect-fragmented Chinese population of some 300,000–400,000.

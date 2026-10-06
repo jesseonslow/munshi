@@ -3,8 +3,7 @@ id: james-hatton-hall-18661945
 work_id: jmbras-68-1-p139
 title: James Hatton Hall (1866–1945
 canonical_name: James Hatton Hall (1866–1945)
-type: article
-article_type: article
+type: publication
 authors:
 - A.V.M. Horton
 year: 1995
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-268-horton-jameshattonhall-1995-8d23e289d9a2
 source_path: ../sources/jmbras-268-horton-jameshattonhall-1995-8d23e289d9a2.md
 summarized: true
+publication_type: journal_article
 ---
+
 # James Hatton Hall (1866–1945
 
 A.V.M. Horton's 1995 biographical sketch of James Hatton Hall (1866–1945) reconstructs the career of a Manchester merchant who became a pioneer of the rubber industry in British North Borneo and Brunei during the first two decades of the twentieth century. Drawing on BNBC archival papers, contemporary press reports, and Hall's own correspondence, Horton traces Hall's trajectory from general trader to estate manager, legislator, and private planter, while also examining the tensions between colonial management authority and labour discipline that characterised his tenure.

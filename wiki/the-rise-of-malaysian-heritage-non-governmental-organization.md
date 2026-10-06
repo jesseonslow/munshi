@@ -3,8 +3,7 @@ id: the-rise-of-malaysian-heritage-non-governmental-organization
 work_id: jmbras-88-2-p51
 title: The rise of Malaysian heritage non-governmental organizations (1969‒2005
 canonical_name: The rise of Malaysian heritage non-governmental organizations (1969‒2005)
-type: article
-article_type: article
+type: publication
 authors:
 - K. Blackburn
 year: 2015
@@ -29,7 +28,9 @@ keywords:
 - Melaka
 - Kuala Lumpur
 - © Malaysian Branch of the Royal Asiatic Society
+publication_type: journal_article
 ---
+
 # The rise of Malaysian heritage non-governmental organizations (1969‒2005
 
 ## Abstract

@@ -3,8 +3,7 @@ id: the-pahang-kanun-of-sultan-abdul-ghafur-another-text
 work_id: jmbras-24-3-p150
 title: 'The “Pahang Kanun” of Sultan ‘Abdul Ghafur: another text'
 canonical_name: 'The “Pahang Kanun” of Sultan ‘Abdul Ghafur: another text'
-type: article
-article_type: article
+type: publication
 authors:
 - R.W. Jakeman
 year: 1951
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-156-jakeman-pahangkanunsultan-1951-753b8e7ef252
 source_path: ../sources/jmalayanras-156-jakeman-pahangkanunsultan-1951-753b8e7ef252.md
 summarized: true
+publication_type: document
 ---
+
 # The “Pahang Kanun” of Sultan ‘Abdul Ghafur: another text
 
 R.W. Jakeman presents an additional text of the Pahang Kanun, the legal code associated with Sultan 'Abdul Ghafur of Pahang, in a brief note published in the *Journal of the Malayan Branch of the Royal Asiatic Society* (1951).

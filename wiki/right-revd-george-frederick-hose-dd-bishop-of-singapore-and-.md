@@ -4,8 +4,7 @@ work_id: jsbras-57-1-p1
 title: Right Revd. George Frederick Hose, D.D. Bishop of Singapore and Sarawak, 1881–1908
 canonical_name: Right Revd. George Frederick Hose, D.D. Bishop of Singapore and Sarawak,
   1881–1908
-type: article
-article_type: article
+type: publication
 authors:
 - R.N. Bland
 - H.N. Ridley
@@ -23,7 +22,9 @@ published: false
 source_doc: jsbras-057-bland-rightrevdgeorge-1911-1d00d61c66b2
 source_path: ../sources/jsbras-057-bland-rightrevdgeorge-1911-1d00d61c66b2.md
 summarized: true
+publication_type: obituary
 ---
+
 # Right Revd. George Frederick Hose, D.D. Bishop of Singapore and Sarawak, 1881–1908
 
 This is a joint obituary note by R. N. Bland and H. N. Ridley commemorating the life and service of George Frederick Hose, D.D., Bishop of Singapore and Sarawak (1881–1908), published in the *Journal of the Straits Branch of the Royal Asiatic Society* (p. 1).

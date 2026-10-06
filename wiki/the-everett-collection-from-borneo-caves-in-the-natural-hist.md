@@ -5,8 +5,7 @@ title: 'The ‘Everett Collection from Borneo Caves’ in the Natural History Mu
   London: its origin, composition and potential for research'
 canonical_name: 'The ‘Everett Collection from Borneo Caves’ in the Natural History
   Museum, London: its origin, composition and potential for research'
-type: article
-article_type: article
+type: publication
 authors:
 - Gathorne Gathorne-Hardy, Lord (Earl of Cranbrook) Medway
 year: 2013
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-304-cranbrook-everettcollectionborneo-2013-069b4f51df7e
 source_path: ../sources/jmbras-304-cranbrook-everettcollectionborneo-2013-069b4f51df7e/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The ‘Everett Collection from Borneo Caves’ in the Natural History Museum, London: its origin, composition and potential for research
 
 The Earl of Cranbrook (2013) provides a comprehensive inventory and provenance assessment of the zoological collection assembled by Alfred Hart Everett during the 1878–9 British Association/Royal Society-sponsored investigation of Borneo caves, now held in the Natural History Museum, London. The article reconstructs the expedition's origins in the post-Darwinian search for the "missing link," evaluates the reliability of Everett's field methods, and identifies the collection's potential for future palaeontological and archaeological research despite significant gaps in documentation and provenance.

@@ -3,8 +3,7 @@ id: history-of-the-malaysian-branch-of-the-royal-asiatic-society
 work_id: jmbras-68-2-p81
 title: History of the Malaysian Branch of the Royal Asiatic Society
 canonical_name: History of the Malaysian Branch of the Royal Asiatic Society
-type: article
-article_type: article
+type: publication
 authors:
 - Choy Chee Meh
 year: 1995
@@ -27,7 +26,9 @@ published: false
 source_doc: jmbras-269-lum-historymalaysianbranch-1995-c0daa7ad64b2
 source_path: ../sources/jmbras-269-lum-historymalaysianbranch-1995-c0daa7ad64b2/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # History of the Malaysian Branch of the Royal Asiatic Society
 
 Choy Chee Meh (née Lum), a history teacher and University of Malaya honours student, published this institutional history in 1995, tracing the Malaysian Branch of the Royal Asiatic Society from its founding by colonial administrators in 1877 through its second century of operation. Her central argument is that the Society, though born from the utilitarian exigencies of British imperial administration, has in practice functioned as the region's most enduring and consequential vehicle for the collection, preservation, and dissemination of scholarly knowledge about Malaysia, Singapore, and Brunei (pp. 81, 89).

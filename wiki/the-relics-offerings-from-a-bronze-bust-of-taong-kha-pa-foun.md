@@ -5,8 +5,7 @@ title: The relics & offerings from a bronze bust of Taong-Kha-Pa, founder of the
   sect of the Yellow Hats
 canonical_name: The relics & offerings from a bronze bust of Taong-Kha-Pa, founder
   of the Lamaist sect of the Yellow Hats
-type: article
-article_type: article
+type: publication
 authors:
 - I.H. Burkill
 year: 1958
@@ -20,6 +19,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: note
 ---
 
 # The relics & offerings from a bronze bust of Taong-Kha-Pa, founder of the Lamaist sect of the Yellow Hats

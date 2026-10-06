@@ -3,8 +3,7 @@ id: my-trip-to-belum
 work_id: jsbras-54-1-p117
 title: My trip to Belum
 canonical_name: My trip to Belum
-type: article
-article_type: article
+type: publication
 authors:
 - E.W. Birch
 year: 1910
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-054-birch-tripblum-1910-175d666ef485
 source_path: ../sources/jsbras-054-birch-tripblum-1910-175d666ef485.md
 summarized: true
+publication_type: journal_article
 ---
+
 # My trip to Belum
 
 E.W. Birch, C.M.G., British Resident of Perak, published this account in 1910 of his journey from Grit to the remote interior settlement of Belum and back along the Perak River, undertaken in the immediate aftermath of the territory's transfer from Siamese to Perak administration. The narrative functions simultaneously as a travelogue of the physical hardships of elephant and raft travel through the upper Perak watershed and as a de facto administrative report on the condition of the newly ceded population.

@@ -5,8 +5,7 @@ title: On the Hymenoptera collected by Mr. Robert Shelford at Sarawak, and on th
   Hymenoptera of the Sarawak Museum
 canonical_name: On the Hymenoptera collected by Mr. Robert Shelford at Sarawak, and
   on the Hymenoptera of the Sarawak Museum
-type: article
-article_type: article
+type: publication
 authors:
 - P. Cameron
 year: 1902
@@ -24,7 +23,9 @@ summarized: true
 source_mismatch: false
 source_doc: jsbras-037-cameron-hymenopteracollectedmr-1902-09637ea1ceb7
 source_path: ../sources/jsbras-037-cameron-hymenopteracollectedmr-1902-09637ea1ceb7.md
+publication_type: journal_article
 ---
+
 # On the Hymenoptera collected by Mr. Robert Shelford at Sarawak, and on the Hymenoptera of the Sarawak Museum
 
 P. Cameron's 1902 monograph in the *Journal of the Straits Branch of the Royal Asiatic Society* presents a comprehensive taxonomic account of Hymenoptera collected by Robert Shelford of Cambridge University in Sarawak, Borneo, and from the Sarawak Museum collection. The paper describes an extensive array of new genera and species across numerous families, establishing that Bornean hymenopteran fauna remained vastly underdocumented following F. Smith's 1857 treatment of Wallace's collections.

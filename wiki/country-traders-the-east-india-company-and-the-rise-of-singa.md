@@ -7,8 +7,7 @@ title: 'Country Traders, the East India Company, and the Rise of Singapore: ‘O
 canonical_name: 'Country Traders, the East India Company, and the Rise of Singapore:
   ‘On Further Interference with the East-India Company’s Privileges of Exclusive Trade’.
   Facsimile reprint. With a note P. Kratoska'
-type: article
-article_type: article
+type: publication
 authors:
 - Anon (and unidentifiable initials)
 - P.H. Kratoska
@@ -23,6 +22,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: reprint
 ---
 
 # Country Traders, the East India Company, and the Rise of Singapore: ‘On Further Interference with the East-India Company’s Privileges of Exclusive Trade’. Facsimile reprint. With a note P. Kratoska

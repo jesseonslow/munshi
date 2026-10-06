@@ -3,8 +3,7 @@ id: hsu-yun-tsiao-19051981-obituary
 work_id: jmbras-55-1-p95
 title: Hsu-Yun-Tsiao, 1905–1981. Obituary
 canonical_name: Hsu-Yun-Tsiao, 1905–1981. Obituary
-type: article
-article_type: obituary
+type: publication
 authors:
 - Mubin Sheppard
 year: 1982
@@ -20,8 +19,8 @@ status: stub
 published: false
 source_doc: jmbras-242-sheppard-hsuyuntsiao19051981-1982-665652b99810
 source_path: ../sources/jmbras-242-sheppard-hsuyuntsiao19051981-1982-665652b99810.md
+publication_type: obituary
 ---
-
 
 # Hsu-Yun-Tsiao, 1905–1981. Obituary
 

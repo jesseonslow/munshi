@@ -3,8 +3,7 @@ id: some-rembau-customary-sayings
 work_id: jmbras-6-4-p54
 title: Some Rembau customary sayings
 canonical_name: Some Rembau customary sayings
-type: article
-article_type: article
+type: publication
 authors:
 - R.O. Winstedt
 year: 1928
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-105-winstedt-rembaucustomarysayings-1928-cda45ad54433
 source_path: ../sources/jmalayanras-105-winstedt-rembaucustomarysayings-1928-cda45ad54433.md
 summarized: true
+publication_type: note
 ---
+
 # Some Rembau customary sayings
 
 "Some Rembau Customary Sayings" is a brief note by R. O. Winstedt, C.M.G., D.Litt., published in the *Journal of the Malayan Branch of the Royal Asiatic Society*, Vol. 6, pt. IV (1928), pp. 54–55.

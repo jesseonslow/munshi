@@ -4,8 +4,7 @@ work_id: jmbras-5-2-p278
 title: The geology of Malacca, with a geological map and special reference to laterite
 canonical_name: The geology of Malacca, with a geological map and special reference
   to laterite
-type: article
-article_type: article
+type: publication
 authors:
 - J.B. Scrivenor
 year: 1927
@@ -22,7 +21,9 @@ published: false
 source_doc: jmalayanras-100-scrivenor-geologymalaccageological-1927-b64420db8554
 source_path: ../sources/jmalayanras-100-scrivenor-geologymalaccageological-1927-b64420db8554.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The geology of Malacca, with a geological map and special reference to laterite
 
 J. B. Scrivenor, Geologist of the Federated Malay States, published this paper in 1927 as part of the ongoing geological survey of British Malaya. It presents the first systematic geological mapping of the Malacca Settlement, with a dedicated section examining the nature, formation, and practical utility of laterite. The overarching argument is that Malacca's stratigraphic sequence—Carboniferous phyllites, Triassic quartzite-shale, and the southern termination of the Peninsular Main Range granite—produces a distinctive tropical weathering profile in which laterite functions simultaneously as a field-mapping indicator and as a quarried building material.

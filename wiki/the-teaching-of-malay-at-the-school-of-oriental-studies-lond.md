@@ -3,8 +3,7 @@ id: the-teaching-of-malay-at-the-school-of-oriental-studies-lond
 work_id: jmbras-1-1-p223
 title: The teaching of Malay at the School of Oriental Studies, London
 canonical_name: The teaching of Malay at the School of Oriental Studies, London
-type: article
-article_type: article
+type: publication
 authors:
 - C.O. Blagden
 year: 1923
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-087-blagden-teachingmalayschool-1923-ce5679574d84
 source_path: ../sources/jmalayanras-087-blagden-teachingmalayschool-1923-ce5679574d84.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The teaching of Malay at the School of Oriental Studies, London
 
 C.O. Blagden, Reader in Malay at the University of London, published this first-person account in 1923 describing his five years of teaching Malay at the School of Oriental Studies (SOAS). The article's central argument is that a systematic, phonetics-based, colloquial-first approach to teaching Malay to European beginners is both more effective than the traditional *munshi* method and essential to the future of Malay studies in Britain.

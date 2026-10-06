@@ -5,8 +5,7 @@ title: '(Trans)national service: reconfiguring citizenship through conscription 
   Singapore'
 canonical_name: '(Trans)national service: reconfiguring citizenship through conscription
   in Singapore'
-type: article
-article_type: article
+type: publication
 authors:
 - Theophilus Kwek
 year: 2019
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-316-kwek-transnationalservice-2019-79b794e41cd4
 source_path: ../sources/jmbras-316-kwek-transnationalservice-2019-79b794e41cd4/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # (Trans)national service: reconfiguring citizenship through conscription in Singapore
 
 Theophilus Kwek's 2019 article examines how Singapore's National Service (NS) conscription regime reconfigures citizenship for non-citizens, particularly permanent residents (PRs) who are legally required to complete military service to retain their residency status. Published in the *Journal of the Malaysian Branch of the Royal Asiatic Society*, the piece argues that NS functions not simply as an assimilationist tool but as a mechanism through which neoliberal citizenship is negotiated along transnational lines, with migrants simultaneously embracing and instrumentalising their conscription obligations.

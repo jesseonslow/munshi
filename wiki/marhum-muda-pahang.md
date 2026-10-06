@@ -3,8 +3,7 @@ id: marhum-muda-pahang
 work_id: jmbras-12-2-p171
 title: Marhum Muda Pahang
 canonical_name: Marhum Muda Pahang
-type: article
-article_type: article
+type: publication
 authors:
 - W. Linehan
 year: 1934
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-119-linehan-marhummudapahang-1934-853cc732d974
 source_path: ../sources/jmalayanras-119-linehan-marhummudapahang-1934-853cc732d974.md
 summarized: true
+publication_type: note
 ---
+
 # Marhum Muda Pahang
 
 This short note by W. Linehan identifies a pair of tombstones at the royal graveyard of Makam Chondong (Makam Tujoh Beradek) in Pekan, Pahang, and argues that one of them belongs to Marhum Muda Pahang, a figure referenced in the Perak royal *Salasilah* (p. 171).

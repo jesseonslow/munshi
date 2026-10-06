@@ -3,8 +3,7 @@ id: the-white-snake-of-the-selangor-caves
 work_id: jsbras-31-1-p99
 title: The white snake of the Selangor caves
 canonical_name: The white snake of the Selangor caves
-type: article
-article_type: article
+type: publication
 authors:
 - H.N. Ridley
 year: 1898
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-031-ridley-whitesnakeselangor-1898-4fd58fc9bb0e
 source_path: ../sources/jsbras-031-ridley-whitesnakeselangor-1898-4fd58fc9bb0e.md
 summarized: true
+publication_type: note
 ---
+
 # The white snake of the Selangor caves
 
 A brief note by H.N. Ridley describing the cave-adapted coloration of *Coluber tæniurus*, a white snake newly recorded from the Selangor caves near Kuala Lumpur.

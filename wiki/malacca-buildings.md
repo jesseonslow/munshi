@@ -3,8 +3,7 @@ id: malacca-buildings
 work_id: jmbras-12-2-p27
 title: Malacca buildings
 canonical_name: Malacca buildings
-type: article
-article_type: article
+type: publication
 authors:
 - M. MacDonald
 year: 1934
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-119-macdonald-malaccabuildings-1934-dc47547796ab
 source_path: ../sources/jmalayanras-119-macdonald-malaccabuildings-1934-dc47547796ab.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Malacca buildings
 
 M. Macdonald's 1934 article "Malacca Buildings" is a colonial-era architectural survey that examines three principal structures in the Malacca Settlement: the surviving traditional Malay house type near Fort St. John, the Portuguese Church of St. Paul, and the Dutch Stadthuys. Writing from direct observation in November 1932, Macdonald attempts to reconstruct the architectural genealogy of each building through a combination of physical evidence, contemporary maps, and administrative records, arguing that each structure's present form is the product of successive functional repurposings rather than a single coherent design intent.

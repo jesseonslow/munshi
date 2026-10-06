@@ -3,8 +3,7 @@ id: the-bearded-pig-in-east-kalimantan-and-sarawak
 work_id: jmbras-59-2-p81
 title: The bearded pig in East Kalimantan and Sarawak
 canonical_name: The bearded pig in East Kalimantan and Sarawak
-type: article
-article_type: article
+type: publication
 authors:
 - J. Caldecott
 - P. Pfeffer
@@ -22,7 +21,9 @@ published: false
 source_doc: jmbras-251-pfeffer-beardedpigsus-1986-c8cdd150f52f
 source_path: ../sources/jmbras-251-pfeffer-beardedpigsus-1986-c8cdd150f52f/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The bearded pig in East Kalimantan and Sarawak
 
 Pfeffer and Caldecott (1986) present a translated and revised account of Pfeffer's 1959 French-language field study of the bearded pig (*Sus barbatus*) in East Kalimantan, supplemented with Caldecott's more recent observations in Sarawak, to document the species' ecology, its enigmatic mass migrations, and its critical role in the subsistence economy of Borneo's forest peoples.

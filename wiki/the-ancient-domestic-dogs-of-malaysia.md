@@ -3,8 +3,7 @@ id: the-ancient-domestic-dogs-of-malaysia
 work_id: jmbras-50-1-p14
 title: The ancient domestic dogs of Malaysia
 canonical_name: The ancient domestic dogs of Malaysia
-type: article
-article_type: article
+type: publication
 authors:
 - Gathorne Gathorne-Hardy, Lord (Earl of Cranbrook) Medway
 year: 1977
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-231-medway-ancientdomesticdogs-1977-a1c5ba19f773
 source_path: ../sources/jmbras-231-medway-ancientdomesticdogs-1977-a1c5ba19f773/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The ancient domestic dogs of Malaysia
 
 Lord Medway's 1977 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* synthesises archaeological, historical, and zoological evidence to trace the continuity of a distinctive small, barkless, dun-coloured domestic dog from Neolithic Borneo through the historic period to the mid-twentieth century, arguing that this type—long assumed to have vanished—survived in isolated communities until recently diluted by crossbreeding with imported breeds.

@@ -3,8 +3,7 @@ id: notes-on-two-perak-manuscripts
 work_id: jsbras-2-1-p183
 title: Notes on two Perak manuscripts
 canonical_name: Notes on two Perak manuscripts
-type: article
-article_type: article
+type: publication
 authors:
 - W.E. Maxwell
 year: 1878
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-002-maxwell-notestwoperak-1878-211b57e7d87e
 source_path: ../sources/jsbras-002-maxwell-notestwoperak-1878-211b57e7d87e.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Notes on two Perak manuscripts
 
 W. E. Maxwell, a British official serving in Perak, published this article in 1878 in the Journal of the Straits Branch of the Royal Asiatic Society, describing two Malay-language manuscripts he had obtained from Perak's royal and aristocratic circles. The article addresses the near-total absence of reliable written history for the Malay states, arguing that while these texts are riddled with legend and exaggeration, they constitute the only purely native written accounts of Perak's rulers and possess genuine value when cross-referenced against European documentary sources.

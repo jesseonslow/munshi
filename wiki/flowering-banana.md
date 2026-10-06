@@ -3,8 +3,7 @@ id: flowering-banana
 work_id: jsbras-9-1-p163
 title: Flowering banana
 canonical_name: Flowering banana
-type: article
-article_type: article
+type: publication
 authors:
 - N.B. Dennys
 year: 1882
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-009-dennys-naturalhistorynotes-1882-7dee44ea6627
 source_path: ../sources/jsbras-009-dennys-naturalhistorynotes-1882-7dee44ea6627.md
 summarized: true
+publication_type: note
 ---
+
 # Flowering banana
 
 This brief note by N. B. Dennys describes the flowering banana (*Musa coccinea*), known to Malays as "pisang sole," as the most brilliantly flowering of the Musaceæ (p. 163).

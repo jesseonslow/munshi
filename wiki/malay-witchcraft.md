@@ -3,8 +3,7 @@ id: malay-witchcraft
 work_id: jsbras-39-1-p209
 title: Malay witchcraft
 canonical_name: Malay witchcraft
-type: article
-article_type: article
+type: publication
 authors:
 - H. Marriott
 year: 1903
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-jsbras-039-marriott-malaywitchcraft-1903-8b0c869688c7
 source_path: ../sources/jsbras-jsbras-039-marriott-malaywitchcraft-1903-8b0c869688c7.md
 summarized: true
+publication_type: note
 ---
+
 # Malay witchcraft
 
 H. Marriott's brief concluding remarks on Malay witchcraft, published in the *Journal of the Straits Branch of the Royal Asiatic Society* (Vol. 39, 1903), address the role of the *Pawang* in the context of the *Polong*—a spirit believed to afflict children.

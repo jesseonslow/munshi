@@ -3,8 +3,7 @@ id: two-malay-rhymes
 work_id: jmbras-14-3-p331
 title: Two Malay rhymes
 canonical_name: Two Malay rhymes
-type: article
-article_type: article
+type: publication
 authors:
 - Hamilton A.W
 year: 1936
@@ -18,6 +17,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: note
 ---
 
 # Two Malay rhymes

@@ -3,8 +3,7 @@ id: malay-manners-and-etiquette
 work_id: jmbras-23-3-p43
 title: Malay manners and etiquette
 canonical_name: Malay manners and etiquette
-type: article
-article_type: article
+type: publication
 authors:
 - Zainal Abidin bin Ahmad
 year: 1950
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-153-ahmad-malaymannersetiquette-1950-d95552026303
 source_path: ../sources/jmalayanras-153-ahmad-malaymannersetiquette-1950-d95552026303.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Malay manners and etiquette
 
 Zainal Abidin bin Ahmad's "Malay Manners and Etiquette," published in the *Journal of the Malayan Branch of the Royal Asiatic Society* in 1950 (received October 1948), is a systematic ethnographic survey of the unwritten social conventions governing Malay interpersonal conduct in the immediate post-war period. Writing as a Malay scholar for a mixed colonial and indigenous readership, Ahmad argues that these conventions—rooted in Islamic precepts, animistic survivals, and hierarchical social structure—had never been properly documented in either English or Malay, and he sets out to fill that gap with a comprehensive catalogue of norms covering everything from head coverings to sexual segregation.

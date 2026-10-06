@@ -3,8 +3,7 @@ id: cases-of-lightning-discharge
 work_id: jsbras-33-1-p251
 title: Cases of lightning discharge
 canonical_name: Cases of lightning discharge
-type: article
-article_type: article
+type: publication
 authors:
 - G.E.V. Thomas
 year: 1900
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-033-thomas-caseslightningdischarge-1900-5a30200de6d4
 source_path: ../sources/jsbras-033-thomas-caseslightningdischarge-1900-5a30200de6d4.md
 summarized: true
+publication_type: note
 ---
+
 # Cases of lightning discharge
 
 G.E.V. Thomas, a civil engineer in the Straits Settlements, published this short communication in 1900, presenting a collection of observed lightning phenomena from Singapore and Penang that he argued demonstrated both the frequency and violence of thunderstorms in Malaya and the inadequacy of contemporary lightning protection systems. The article was communicated by H.N. Ridley, Director of Gardens and Forests, whose own field observations form a substantial portion of the evidence.

@@ -3,8 +3,7 @@ id: negri-sembilan-the-history-polity-and-beliefs-of-the-nine-st
 work_id: jmbras-12-3-p35
 title: 'Negri Sembilan: the history, polity and beliefs of the nine states'
 canonical_name: 'Negri Sembilan: the history, polity and beliefs of the nine states'
-type: article
-article_type: article
+type: publication
 authors:
 - R.O. Winstedt
 year: 1934
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-120-winstedt-negrisembilanhistory-1934-1d940ff09afc
 source_path: ../sources/jmalayanras-120-winstedt-negrisembilanhistory-1934-1d940ff09afc/appendices.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Negri Sembilan: the history, polity and beliefs of the nine states
 
 R.O. Winstedt, General Adviser to the Sultan of Johore, published this comprehensive study in 1934 in the *Journal of the Malayan Branch of the Royal Asiatic Society*. The article reconstructs the political history of Negri Sembilan from the fourteenth century through British intervention in the 1870s–1890s, then provides a detailed ethnographic account of the Minangkabau matrilineal polity and belief systems that persisted in the Nine States. Its overarching thesis is that Negri Sembilan's unique constitution—a hybrid of patriarchal Malacca-derived territorial chieftainship and matrilineal Minangkabau tribal law—was the product of successive cultural absorptions rather than a single founding act.

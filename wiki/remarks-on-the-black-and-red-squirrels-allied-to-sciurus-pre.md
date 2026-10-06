@@ -5,8 +5,7 @@ title: Remarks on the black and red squirrels allied to Sciurus prevosti. F.N. C
   and C.B. Kloss. Records of the Raffles Museum, No. 11
 canonical_name: Remarks on the black and red squirrels allied to _Sciurus prevosti._
   F.N. Chasen and C.B. Kloss. Records of the Raffles Museum, No. 11
-type: article
-article_type: article
+type: publication
 authors:
 - F.N. Chasen
 - C.B. Kloss
@@ -24,7 +23,9 @@ published: false
 source_doc: jmalayanras-093-chasen-remarksblackred-1925-b6035451a5dd
 source_path: ../sources/jmalayanras-093-chasen-remarksblackred-1925-b6035451a5dd.md
 summarized: true
+publication_type: note
 ---
+
 # Remarks on the black and red squirrels allied to Sciurus prevosti. F.N. Chasen and C.B. Kloss. Records of the Raffles Museum, No. 11
 
 This short note by F. N. Chasen and C. Boden Kloss (1925) addresses the taxonomic placement of black-and-red squirrel forms in Sumatra and Borneo that have been variously described as distinct species or races of *Sciurus prevosti*.

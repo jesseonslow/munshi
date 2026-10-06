@@ -5,8 +5,7 @@ title: 'The Nanhai trade: a study of the early history of Chinese trade in the S
   China Sea'
 canonical_name: 'The Nanhai trade: a study of the early history of Chinese trade in
   the South China Sea'
-type: article
-article_type: article
+type: publication
 authors:
 - Wang Gungwu
 year: 1958
@@ -24,7 +23,9 @@ summarized: true
 source_mismatch: true
 source_doc: jmalayanras-182-gungwu-nanhaitradestudy-1958-48ea3450604b
 source_path: ../sources/appendix.md
+publication_type: journal_article
 ---
+
 # The Nanhai trade: a study of the early history of Chinese trade in the South China Sea
 
 Wang Gungwu's 1958 study reconstructs the eleven centuries of Chinese maritime commerce in the South China Sea (the "Nanhai trade") from the Ch'in conquest of the Yueh territories in 221 B.C. to the founding of the Sung dynasty in 960 A.D., arguing that this trade was structurally limited by its dependence on luxury goods, the passive role of Chinese merchants, and the dominance of foreign middlemen—Yueh, Indian, Persian, and Arab—who carried the bulk of the sea transport (pp. 1–2, 113–117).

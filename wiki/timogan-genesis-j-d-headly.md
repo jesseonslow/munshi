@@ -3,8 +3,7 @@ id: timogan-genesis-j-d-headly
 work_id: jmbras-21-1-p148
 title: Timogan genesis. J. & D. Headly
 canonical_name: Timogan genesis. J. & D. Headly
-type: article
-article_type: article
+type: publication
 authors:
 - D. Headly
 - J. Headly
@@ -22,7 +21,9 @@ published: false
 source_doc: jmalayanras-144-headly-timogangenesis-1948-86720d79a48a
 source_path: ../sources/jmalayanras-144-headly-timogangenesis-1948-86720d79a48a.md
 summarized: true
+publication_type: note
 ---
+
 # Timogan genesis. J. & D. Headly
 
 This short note by J. and D. Headly records a Timogan (Murut) flood and origin myth as narrated by the native chief Dualis, published in JMBRAS Vol. 21 (1948), pp. 148–149.

@@ -4,8 +4,7 @@ work_id: jmbras-37-2-p162
 title: 'The “palang”: its history and protohistory in West Borneo and the Philippines'
 canonical_name: The _“palang”:_ its history and protohistory in West Borneo and the
   Philippines
-type: article
-article_type: article
+type: publication
 authors:
 - Tom Harrisson
 year: 1964
@@ -22,7 +21,9 @@ published: false
 source_doc: jmbras-206-harrisson-palanghistoryprotohistory-1964-5d5871f84e6a
 source_path: ../sources/jmbras-206-harrisson-palanghistoryprotohistory-1964-5d5871f84e6a.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The “palang”: its history and protohistory in West Borneo and the Philippines
 
 Tom Harrisson's 1964 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* surveys the history and protohistory of the *palang*—a cross-piece driven through the glans of the penis—across West Borneo and the Philippines, arguing that the device has far greater antiquity, geographical range, and cultural persistence than the sparse colonial literature has acknowledged. Drawing on early European eyewitness accounts, indigenous folklore, material culture, and a sixteenth-century Spanish codex illustration, Harrisson reconstructs a pre-Spanish cultural continuum linking Bornean and Visayan populations through shared sexual technology.

@@ -3,8 +3,7 @@ id: tom-harrissons-unpublished-legacy-on-niah
 work_id: jmbras-50-1-p41
 title: Tom Harrisson’s unpublished legacy on Niah
 canonical_name: Tom Harrisson’s unpublished legacy on Niah
-type: article
-article_type: article
+type: publication
 authors:
 - Harrisson B
 year: 1977
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-231-harrisson-tomharrissonsunpublished-1977-7625ec1e8e37
 source_path: ../sources/jmbras-231-harrisson-tomharrissonsunpublished-1977-7625ec1e8e37.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Tom Harrisson’s unpublished legacy on Niah
 
 Barbara Harrisson's 1977 article, published in the Journal of the Malaysian Branch of the Royal Asiatic Society, inventories and assesses the vast body of unpublished papers, field notes, and correspondence left by her late husband, the archaeologist and civil servant Tom Harrisson, following his sudden death in January 1976. Writing from a position of intimate familiarity with the Niah Caves research programme in Sarawak, she argues that the materials constitute a critical but fragile legacy for Bornean prehistory, and proposes a structured, regionally-led path for their recovery and publication.

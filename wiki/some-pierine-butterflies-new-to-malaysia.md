@@ -3,8 +3,7 @@ id: some-pierine-butterflies-new-to-malaysia
 work_id: jmbras-1-1-p233
 title: Some Pierine butterflies new to Malaysia
 canonical_name: Some Pierine butterflies new to Malaysia
-type: article
-article_type: article
+type: publication
 authors:
 - J.C. Moulton
 year: 1923
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-087-moulton-pierinebutterfliesnew-1923-ec080e34afbb
 source_path: ../sources/jmalayanras-087-moulton-pierinebutterfliesnew-1923-ec080e34afbb.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Some Pierine butterflies new to Malaysia
 
 J.C. Moulton, Director of the Raffles Museum in Singapore, published this taxonomic note in 1923 describing Pierine butterflies (family Pieridae) new to various parts of the Malay Peninsula and Borneo, with particular emphasis on island forms from Pulo Aor and Pulo Tioman off the East Coast. The paper records three new subspecies and documents the puzzling occurrence of two Palearctic species in the tropics, likely introduced by human agency.

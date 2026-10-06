@@ -3,8 +3,7 @@ id: the-bernam-slab-graves
 work_id: jmbras-17-1-p134
 title: The Bernam slab-graves
 canonical_name: The Bernam slab-graves
-type: article
-article_type: article
+type: publication
 authors:
 - R.J. Wilkinson
 year: 1939
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-134-wilkinson-bernamslabgraves-1939-47e876f53f7b
 source_path: ../sources/jmalayanras-134-wilkinson-bernamslabgraves-1939-47e876f53f7b.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The Bernam slab-graves
 
 R.J. Wilkinson, a British colonial administrator and former District Officer of the Dindings, published this article in 1939 to challenge the prevailing "Greater India" interpretation of Malayan prehistory. Arguing from comparative evidence in South Sumatra and local ethnography, he contended that the Bernam slab-graves were the product of an indigenous megalithic civilisation predating the Christian era, not the work of Indian traders.

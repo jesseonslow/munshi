@@ -3,8 +3,7 @@ id: governor-blundell-and-sir-benson-maxwell-a-conflict-of-perso
 work_id: jmbras-30-1-p134
 title: 'Governor Blundell and Sir Benson Maxwell: a conflict of personalities'
 canonical_name: 'Governor Blundell and Sir Benson Maxwell: a conflict of personalities'
-type: article
-article_type: article
+type: publication
 authors:
 - C.M. Turnbull
 year: 1957
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-177-turnbull-governorblundellsir-1957-aecbc75075bc
 source_path: ../sources/jmalayanras-177-turnbull-governorblundellsir-1957-aecbc75075bc.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Governor Blundell and Sir Benson Maxwell: a conflict of personalities
 
 Constance M. Turnbull's 1957 article reconstructs the bitter personal and political conflict between Governor Edmund Blundell and Recorder Sir Benson Maxwell in the Straits Settlements during 1858–1860, a dispute triggered by the illegal detention and transfer of a young Malay woman named Meh to the court of the Rajah of Kedah. Turnbull argues that what began as a genuine disagreement over the proper administration of justice in a rapidly changing colonial society degenerated into mutual imputation of base personal motives, ultimately destroying Blundell's reputation and nearly ending Maxwell's career. The article uses the quarrel as a lens to expose the structural inadequacy of the Straits Settlements' governance as a subordinate appendage of the Government of India.

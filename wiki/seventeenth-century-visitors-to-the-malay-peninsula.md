@@ -3,8 +3,7 @@ id: seventeenth-century-visitors-to-the-malay-peninsula
 work_id: jmbras-12-2-p71
 title: Seventeenth century visitors to the Malay Peninsula
 canonical_name: Seventeenth century visitors to the Malay Peninsula
-type: article
-article_type: article
+type: publication
 authors:
 - J.J. Sheehan
 year: 1934
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-119-sheehan-seventeenthcenturyvisitors-1934-a1d3072a7bd6
 source_path: ../sources/jmalayanras-119-sheehan-seventeenthcenturyvisitors-1934-a1d3072a7bd6.md
 summarized: true
+publication_type: document
 ---
+
 # Seventeenth century visitors to the Malay Peninsula
 
 J.J. Sheehan's 1934 contribution to the *Journal of the Malayan Branch of the Royal Asiatic Society* is a compilation of three extended extracts from seventeenth-century European travellers who visited the Malay Peninsula: John Nieuhoff (Malacca, December 1660), the Spanish Dominican Fray Navarette (Malacca, February 1669), and the Neapolitan jurist Dr. Gemelli Careri (Malacca, May 1695). All three passages are drawn from *A Collection of Voyages and Travels*, 3rd Edition (London, 1745), and together they offer a layered portrait of Dutch Malacca and its surrounding polities across roughly three decades of the late seventeenth century.

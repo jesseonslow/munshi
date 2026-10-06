@@ -3,8 +3,7 @@ id: chinese-secret-societies-in-malaya-an-introduction
 work_id: jmbras-29-1-p146
 title: 'Chinese secret societies in Malaya: an introduction'
 canonical_name: 'Chinese secret societies in Malaya: an introduction'
-type: article
-article_type: article
+type: publication
 authors:
 - L. Comber
 year: 1956
@@ -18,6 +17,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: journal_article
 ---
 
 # Chinese secret societies in Malaya: an introduction

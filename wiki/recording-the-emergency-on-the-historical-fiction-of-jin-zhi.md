@@ -5,8 +5,7 @@ title: 'Recording the Emergency: On the Historical Fiction of Jin Zhimang, Antho
   Burgess, and Han Suyin'
 canonical_name: 'Recording the Emergency: On the Historical Fiction of Jin Zhimang,
   Anthony Burgess, and Han Suyin'
-type: article
-article_type: article
+type: publication
 authors:
 - J. Chan
 year: 2023
@@ -20,6 +19,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: journal_article
 ---
 
 # Recording the Emergency: On the Historical Fiction of Jin Zhimang, Anthony Burgess, and Han Suyin

@@ -3,8 +3,7 @@ id: three-peninsular-charms
 work_id: jmbras-1-2-p383
 title: Three peninsular charms
 canonical_name: Three peninsular charms
-type: article
-article_type: article
+type: publication
 authors:
 - R.O. Winstedt
 year: 1923
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-088-winstedt-threepeninsularcharms-1923-de8894bee705
 source_path: ../sources/jmalayanras-088-winstedt-threepeninsularcharms-1923-de8894bee705.md
 summarized: true
+publication_type: note
 ---
+
 # Three peninsular charms
 
 R.O. Winstedt's short note presents a Malay charm (incantation) that he identifies as likely intended for catching a crocodile (p. 384).

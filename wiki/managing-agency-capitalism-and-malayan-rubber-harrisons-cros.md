@@ -5,8 +5,7 @@ title: 'Managing agency capitalism and Malayan rubber: Harrisons & Crosfield, Lt
   (1900–1940'
 canonical_name: 'Managing agency capitalism and Malayan rubber: Harrisons & Crosfield,
   Ltd. (1900–1940)'
-type: article
-article_type: article
+type: publication
 authors:
 - K. Koike
 year: 2017
@@ -30,7 +29,9 @@ keywords:
 - rubber industry British FDI
 - business groups
 - Harrisons & Crosfield
+publication_type: journal_article
 ---
+
 # Managing agency capitalism and Malayan rubber: Harrisons & Crosfield, Ltd. (1900–1940
 
 ## Abstract

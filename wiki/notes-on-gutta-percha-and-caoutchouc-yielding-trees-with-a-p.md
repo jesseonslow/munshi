@@ -5,8 +5,7 @@ title: Notes on gutta-percha and caoutchouc-yielding trees. {With a post script 
   Murton
 canonical_name: Notes on gutta-percha and caoutchouc-yielding trees. {With a post
   script H.J. Murton}
-type: article
-article_type: article
+type: publication
 authors:
 - F.W. Burbidge
 year: 1879
@@ -23,7 +22,9 @@ published: false
 source_doc: jsbras-003-burbidge-notesguttapercha-1879-a4dad38670e4
 source_path: ../sources/jsbras-003-burbidge-notesguttapercha-1879-a4dad38670e4.md
 summarized: true
+publication_type: note
 ---
+
 # Notes on gutta-percha and caoutchouc-yielding trees. {With a post script H.J. Murton
 
 F.W. Burbidge, a botanist recently travelling in North-West Borneo, presented these notes to the Straits Branch of the Royal Asiatic Society in June 1879, with supplementary remarks by W.H. Treacher, Colonial Secretary of Labuan, and a postscript by H.J. Murton. The article addresses the persistent botanical confusion surrounding the identity of gutta-percha and rubber-yielding plants in Borneo, arguing that the commercial varieties had been misidentified—most notably as *Urceola Elastica*—and that proper taxonomic clarification was essential to securing the long-term supply of these commercially vital products.

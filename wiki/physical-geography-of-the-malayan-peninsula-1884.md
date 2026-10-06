@@ -3,8 +3,7 @@ id: physical-geography-of-the-malayan-peninsula-1884
 work_id: jmbras-93-1-p137
 title: Physical geography of the Malayan Peninsula (1884
 canonical_name: Physical geography of the Malayan Peninsula (1884)
-type: article
-article_type: article
+type: publication
 authors:
 - J.E. Tenison Woods
 year: 2020
@@ -29,7 +28,9 @@ keywords:
 source_mismatch: false
 source_doc: jmbras-318-tenisonwoods-physicalgeographymalayan-2020-6c3711b0d496
 source_path: ../sources/jmbras-318-tenisonwoods-physicalgeographymalayan-2020-6c3711b0d496.md
+publication_type: reprint
 ---
+
 # Physical geography of the Malayan Peninsula (1884
 
 J.E. Tenison-Woods, a British geologist and colonial official, published this account in *Nature* on 18 December 1884, summarising the results of ten months of fieldwork in the State of Perak. The letter provides one of the earliest systematic descriptions of the peninsula's physical geography, integrating geology, mineralogy, botany, and hydrology into a coherent picture of the region's mountain architecture and tin-bearing formations. It was reprinted in JMBRAS Vol. 93 (2020) as a historical document of colonial-era scientific exploration.

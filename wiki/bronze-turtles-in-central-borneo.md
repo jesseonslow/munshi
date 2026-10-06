@@ -3,8 +3,7 @@ id: bronze-turtles-in-central-borneo
 work_id: jmbras-38-1-p256
 title: Bronze turtles in Central Borneo
 canonical_name: Bronze turtles in Central Borneo
-type: article
-article_type: article
+type: publication
 authors:
 - Tom Harrisson
 year: 1965
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-207-harrisson-bronzeturtlescentral-1965-b758c8ac703f
 source_path: ../sources/jmbras-207-harrisson-bronzeturtlescentral-1965-b758c8ac703f.md
 summarized: true
+publication_type: note
 ---
+
 # Bronze turtles in Central Borneo
 
 Tom Harrisson's 1965 short note documents two small bronze turtle figurines collected from the Kayan area above Belaga in interior Sarawak, arguing that they represent a localised, specialised branch of Bornean bronze-casting tradition rather than direct imports from the Dongson culture. The piece situates these objects within a broader cult of bronze among Borneo highland peoples and connects them to the Maloh, a historically stable smithing group in the Kapuas headwaters.

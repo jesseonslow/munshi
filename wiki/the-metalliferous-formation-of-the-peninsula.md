@@ -3,8 +3,7 @@ id: the-metalliferous-formation-of-the-peninsula
 work_id: jsbras-2-1-p194
 title: The metalliferous formation of the peninsula
 canonical_name: The metalliferous formation of the peninsula
-type: article
-article_type: article
+type: publication
 authors:
 - D.D. Daly
 year: 1878
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-002-daly-metalliferousformationpeninsula-1878-439f4e2637db
 source_path: ../sources/jsbras-002-daly-metalliferousformationpeninsula-1878-439f4e2637db.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The metalliferous formation of the peninsula
 
 D.D. Daly, a British official involved in boundary surveys in the Straits Settlements, presented this paper to the Royal Asiatic Society on 2 September 1878, proposing that the gold and tin alluvial deposits of the Malay Peninsula are detrital products of a single primary lode running along the central mountain spine from Cape Patani in the north to the Kesang River in the south. His overarching thesis is that locating and working this "main reef" with European machinery would transform the peninsula's economy from its current dependence on itinerant Chinese alluvial mining into a more stable and profitable system.

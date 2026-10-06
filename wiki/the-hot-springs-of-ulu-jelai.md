@@ -3,8 +3,7 @@ id: the-hot-springs-of-ulu-jelai
 work_id: jsbras-33-1-p263
 title: The hot springs of Ulu Jelai
 canonical_name: The hot springs of Ulu Jelai
-type: article
-article_type: article
+type: publication
 authors:
 - A.D. Machado
 year: 1900
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-033-machado-hotspringsulu-1900-4573ad6d50c2
 source_path: ../sources/jsbras-033-machado-hotspringsulu-1900-4573ad6d50c2.md
 summarized: true
+publication_type: note
 ---
+
 # The hot springs of Ulu Jelai
 
 A brief field note by A.D. Machado describing the hot springs he observed in the Ulu Jelai district of Pahang during prospecting work for the Malayan (Pahang) Exploration Co. in 1900.

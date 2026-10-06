@@ -3,8 +3,7 @@ id: alabastra-borneensia
 work_id: jsbras-77-1-p189
 title: Alabastra borneensia
 canonical_name: _Alabastra borneensia._
-type: article
-article_type: article
+type: publication
 authors:
 - E.D. Merrill
 year: 1917
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-077-merrill-alabastraborneensia-1917-f735a454fdee
 source_path: ../sources/jsbras-077-merrill-alabastraborneensia-1917-f735a454fdee.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Alabastra borneensia
 
 E.D. Merrill published "Alabastra Borneensia" in 1917 in the *Journal of the Straits Branch of the Royal Asiatic Society* (Vol. 77), presenting a comprehensive taxonomic revision of Bornean plant material held by the Philippine Bureau of Science and the Sarawak Museum. The article describes numerous new species across nine families and records several previously known species as new to Borneo, arguing that the island's flora remained vastly underdocumented despite over sixty years of botanical collection.

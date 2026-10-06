@@ -7,8 +7,7 @@ title: Short history of the Borneo Basel Self-established Church, usually called
 canonical_name: Short history of the Borneo Basel Self-established Church, usually
   called the Basel Mission, in North Borneo. _In_ Tregonning, K.G. Two notes on Church
   history in Sabah
-type: article
-article_type: article
+type: publication
 authors:
 - H. Bienz
 - K.G. Tregonning
@@ -26,7 +25,9 @@ published: false
 source_doc: jmbras-209-tregonning-introduction-1966-064b4ab42539
 source_path: ../sources/jmbras-209-tregonning-introduction-1966-064b4ab42539.md
 summarized: true
+publication_type: note
 ---
+
 # Short history of the Borneo Basel Self-established Church, usually called the Basel Mission, in North Borneo. In Tregonning, K.G. Two notes on Church history in Sabah
 
 This is an editor's introduction by K. G. Tregonning, published in JMBRAS Vol. 39 (1966), which precedes two short notes on church history in Sabah collected during his 1957 fieldwork for his book *North Borneo*. The first note, by Rev. H. Bienz of the Basel Mission at Kudat (written in 1957), provides a brief account of the Basel Mission's early involvement in North Borneo.

@@ -5,8 +5,7 @@ title: Traces of a Bronze Age culture associated with Iron Age implements in the
   of Klang and the Tembeling, Malaya
 canonical_name: Traces of a Bronze Age culture associated with Iron Age implements
   in the region of Klang and the Tembeling, Malaya
-type: article
-article_type: article
+type: publication
 authors:
 - W. Linehan
 year: 1951
@@ -28,6 +27,7 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+publication_type: journal_article
 ---
 
 # Traces of a Bronze Age culture associated with Iron Age implements in the region of Klang and the Tembeling, Malaya

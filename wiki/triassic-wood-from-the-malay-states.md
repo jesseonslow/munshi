@@ -3,8 +3,7 @@ id: triassic-wood-from-the-malay-states
 work_id: jmbras-11-2-p236
 title: Triassic wood from the Malay states
 canonical_name: Triassic wood from the Malay states
-type: article
-article_type: article
+type: publication
 authors:
 - W.N. Edwards
 year: 1933
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-117-edwards-triassicwoodmalay-1933-4d54bb387061
 source_path: ../sources/jmalayanras-117-edwards-triassicwoodmalay-1933-4d54bb387061.md
 summarized: true
+publication_type: note
 ---
+
 # Triassic wood from the Malay states
 
 W.N. Edwards, a palaeobotanist at the British Museum (Natural History), published this concise note in 1933 describing two fossil coniferous woods from the Malay States, both assigned to the form-genus *Dadoxylon*. The paper's central thesis is that the identification of one specimen as *Dadoxylon sclerosum* Walton—a species previously documented only from South Africa and Kenya—establishes a biogeographic connection between the Malay Peninsula and the African continent during the Upper Triassic, extending the known geographic range of that taxon and reinforcing earlier evidence of a northern-type Permo-Carboniferous flora in the region.

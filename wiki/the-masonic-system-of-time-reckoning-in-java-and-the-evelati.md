@@ -5,8 +5,7 @@ title: The masonic system of time-reckoning in Java and the evelation of Thomas 
   Raffles as sovereign prince of the Rose Croix
 canonical_name: The masonic system of time-reckoning in Java and the evelation of
   Thomas Stamford Raffles as sovereign prince of the Rose Croix
-type: article
-article_type: article
+type: publication
 authors:
 - P.B.R. Carey
 - R. Jordaan
@@ -24,7 +23,9 @@ published: false
 source_doc: jmbras-314-jordaan-masonicsystemtimereckoning-2018-3cc2afeb90bf
 source_path: ../sources/jmbras-314-jordaan-masonicsystemtimereckoning-2018-3cc2afeb90bf/frontmatter.md
 summarized: true
+publication_type: note
 ---
+
 # The masonic system of time-reckoning in Java and the evelation of Thomas Stamford Raffles as sovereign prince of the Rose Croix
 
 This is a short "Notes & Queries" correction by Roy Jordaan and Peter Carey, published in JMBRAS Vol. 91 (2018), pp. 89–91, amending two errors in their earlier joint article on Raffles' masonic career in Java.

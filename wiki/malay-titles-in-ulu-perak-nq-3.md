@@ -3,8 +3,7 @@ id: malay-titles-in-ulu-perak-nq-3
 work_id: jsbras-16-malay-titles-in-ulu-perak-nq-3
 title: Malay titles in Ulu Perak. NQ 3
 canonical_name: Malay titles in Ulu Perak. NQ 3
-type: article
-article_type: notes_and_queries
+type: publication
 authors:
 - W.E. Maxwell
 year: 1885
@@ -18,6 +17,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: note
 ---
 
 # Malay titles in Ulu Perak. NQ 3

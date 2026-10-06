@@ -3,8 +3,7 @@ id: john-waterstradt-18691944
 work_id: jmbras-42-2-p115
 title: John Waterstradt, 1869–1944
 canonical_name: John Waterstradt, 1869–1944
-type: article
-article_type: article
+type: publication
 authors:
 - H.S. Barlow
 year: 1969
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-216-barlow-johnwaterstradt18691944-1969-7f77ff0f591c
 source_path: ../sources/jmbras-216-barlow-johnwaterstradt18691944-1969-7f77ff0f591c.md
 summarized: true
+publication_type: obituary
 ---
+
 # John Waterstradt, 1869–1944
 
 This is an obituary for John Waterstradt (1869–1944), written by H.S. Barlow and published in the *Journal of the Malaysian Branch of the Royal Asiatic Society*, Vol. 42, No. 2 (1969), pp. 115–129.

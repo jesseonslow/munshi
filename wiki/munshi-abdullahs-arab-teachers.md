@@ -3,8 +3,7 @@ id: munshi-abdullahs-arab-teachers
 work_id: jmbras-63-2-p27
 title: Munshi Abdullah’s Arab teachers
 canonical_name: Munshi Abdullah’s Arab teachers
-type: article
-article_type: article
+type: publication
 authors:
 - A. Talib Yusof
 year: 1990
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-259-talib-munshiabdullahsarab-1990-080236f3b016
 source_path: ../sources/jmbras-259-talib-munshiabdullahsarab-1990-080236f3b016.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Munshi Abdullah’s Arab teachers
 
 Associate Professor Yusof A. Talib's 1990 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* examines the three Arab religious teachers that Munshi Abdullah names in his autobiography, the *Hikayat Abdullah*, as having instructed him in Malacca. By cross-referencing Abdullah's account with classical Hadrami biographical works and Dutch colonial reports, Talib demonstrates that at least one of the three figures was almost certainly a fabrication by Abdullah, while the third — a celebrated Sufi leader in Java — presents a striking contrast between his veneration among Muslim communities and his portrayal as a financial fraud by European observers.

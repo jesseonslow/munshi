@@ -3,8 +3,7 @@ id: stone-sculptures-from-south-west-borneo-kalimantan-barat
 work_id: jmbras-46-2-p179
 title: Stone sculptures from south-west Borneo (Kalimantan Barat
 canonical_name: Stone sculptures from south-west Borneo (Kalimantan Barat)
-type: article
-article_type: article
+type: publication
 authors:
 - Tom Harrisson
 year: 1973
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-224-harrisson-stonesculpturessouthwest-1973-00ed46c5da3a
 source_path: ../sources/jmbras-224-harrisson-stonesculpturessouthwest-1973-00ed46c5da3a.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Stone sculptures from south-west Borneo (Kalimantan Barat
 
 Tom Harrisson, former Curator of the Sarawak Museum (1947–66), published this article in 1973 to report the discovery of five stone sculptures from the middle Kapuas river region of Kalimantan Barat, found in the Capuchin Mission museum at Tilburg, Holland. The overarching argument is that these finds nearly double the known corpus of Bornean stone sculpture in the round and point to a once widespread, now largely lost tradition of stone working across the island.

@@ -3,8 +3,7 @@ id: raffles-alexander-hare-johanna-van-hare
 work_id: jmbras-27-1-p224
 title: Raffles, Alexander Hare & Johanna van Hare
 canonical_name: Raffles, Alexander Hare & Johanna van Hare
-type: article
-article_type: article
+type: publication
 authors:
 - C.A. Gibson-Hill
 year: 1954
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-169-gibsonhill-rafflesalexanderhare-1955-950f67a0c7b5
 source_path: ../sources/jmalayanras-169-gibsonhill-rafflesalexanderhare-1955-950f67a0c7b5.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Raffles, Alexander Hare & Johanna van Hare
 
 C.A. Gibson-Hill's 1954 article in the *Journal of the Malayan Branch of the Royal Asiatic Society* examines the relationship between Sir Stamford Raffles and the merchant Alexander Hare during the early British period at Malacca (1807–1811), and uses a newly identified Dutch-language letter from 1820 to reconstruct the domestic life of Hare and his acknowledged mistress, Johanna van Hare. The overarching thesis is that Hare served as Raffles's informal commercial and linguistic adviser at Malacca before the Java expedition, and that the subsequent estrangement between the two men was driven by Hare's increasingly scandalous conduct at Banjermassin and the Cocos-Keeling Islands, which made him an embarrassment to Raffles's rising official career.

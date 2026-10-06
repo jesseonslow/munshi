@@ -3,8 +3,7 @@ id: mantra-sandaran-nq-2
 work_id: jsbras-15-mantra-sandaran-nq-2
 title: Mantra Sandaran. NQ 2
 canonical_name: Mantra Sandaran. NQ 2
-type: article
-article_type: notes_and_queries
+type: publication
 authors:
 - W.E. Maxwell
 year: 1885
@@ -18,6 +17,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: note
 ---
 
 # Mantra Sandaran. NQ 2

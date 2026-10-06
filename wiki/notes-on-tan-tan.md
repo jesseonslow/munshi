@@ -3,8 +3,7 @@ id: notes-on-tan-tan
 work_id: jmbras-20-1-p47
 title: Notes on Tan Tan
 canonical_name: Notes on Tan Tan
-type: article
-article_type: article
+type: publication
 authors:
 - Hsu Yun-ts'iao
 year: 1947
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-142-yuntsiao-notestantan-1947-f1bb22ee8904
 source_path: ../sources/jmalayanras-142-yuntsiao-notestantan-1947-f1bb22ee8904.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Notes on Tan Tan
 
 Hsu Yun-ts'iao's 1947 article in the *Journal of the Malayan Branch of the Royal Asiatic Society* is a philological-geographical study that attempts to locate the ancient state "Tan-tan" (檀檀), first recorded in the *Liang Shu* (530 A.D.), by systematically eliminating competing identifications proposed by Western and Japanese sinologists and ultimately arguing for its placement in the Kelantan region of the Malay Peninsula. The author, who was also editor of the *Journal of the South Seas Society* in Singapore, draws extensively on Chinese dynastic histories, Arab navigational accounts, and Ptolemaic geography to reconstruct the political geography of the eastern coast of the Peninsula between the 5th and 13th centuries.

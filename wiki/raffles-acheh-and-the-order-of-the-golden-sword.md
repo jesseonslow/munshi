@@ -3,8 +3,7 @@ id: raffles-acheh-and-the-order-of-the-golden-sword
 work_id: jmbras-29-1-p1
 title: Raffles, Acheh and the Order of the Golden Sword
 canonical_name: Raffles, Acheh and the Order of the Golden Sword
-type: article
-article_type: article
+type: publication
 authors:
 - C.A. Gibson-Hill
 year: 1956
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: true
 source_doc: jmalayanras-173-gibsonhill-rafflesachehorder-1956-fd18e1d555fd
 source_path: ../sources/jmalayanras-173-gibsonhill-rafflesachehorder-1956-fd18e1d555fd.md
+publication_type: journal_article
 ---
+
 # Raffles, Acheh and the Order of the Golden Sword
 
 C.A. Gibson-Hill's 1956 article investigates the circumstances under which Sir Stamford Raffles received the Order of the Golden Sword from the Sultan of Acheh and subsequently incorporated it into his personal coat of arms, a matter that none of Raffles's biographers adequately addressed. Set against the backdrop of British-Achenese political entanglements between 1810 and 1819, Gibson-Hill argues that the decoration was of trivial significance, that Raffles's elevation of it on his arms was an act of vanity, and that the precise date and reason for its conferral remain irrecoverable from the surviving record.

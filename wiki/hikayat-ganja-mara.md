@@ -3,8 +3,7 @@ id: hikayat-ganja-mara
 work_id: jmbras-6-2-p45
 title: Hikayat Ganja Mara
 canonical_name: _Hikayat Ganja Mara._
-type: article
-article_type: article
+type: publication
 authors:
 - H. Overbeck
 year: 1928
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-103-overbeck-hikayatganjamara-1928-5f9c77ec59f3
 source_path: ../sources/jmalayanras-103-overbeck-hikayatganjamara-1928-5f9c77ec59f3.md
 summarized: true
+publication_type: translation
 ---
+
 # Hikayat Ganja Mara
 
 H. Overbeck published this synopsis of the *Hikayat Ganja Mara* in 1928, presenting for the first time in print a previously unrecorded Malay literary text that he had acquired from a private collector in Penang. The article situates the work within the declining Straits Malay book-market and argues for the tale's probable Indian origin, while providing a detailed narrative summary that reveals a complex story of royal intrigue, supernatural intervention, and the triumph of Islam over idolatry.

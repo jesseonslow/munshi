@@ -5,8 +5,7 @@ title: 'Christianization in Sabah and the development of indigenous communities:
   historical study'
 canonical_name: 'Christianization in Sabah and the development of indigenous communities:
   a historical study'
-type: article
-article_type: article
+type: publication
 authors:
 - Mat Zin bin Mat Kib
 year: 2004
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-286-kib-christianizationsabahdevelopment-2004-dce213132a26
 source_path: ../sources/jmbras-286-kib-christianizationsabahdevelopment-2004-dce213132a26/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Christianization in Sabah and the development of indigenous communities: a historical study
 
 Mat Zin bin Mat Kib's 2004 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* examines the role of Christian missionaries in the social, educational, and economic development of indigenous communities in Sabah from the mid-nineteenth century through the early post-independence period. The central thesis is that missionaries succeeded in converting interior indigenous groups—particularly the Rungus, Dusun-Kadazan, and Murut—by combining evangelical work with tangible social services (education, medicine, agricultural training, and land tenure reform), a strategy that proved far more effective than the earlier and less institutionalized spread of Islam among the same populations.

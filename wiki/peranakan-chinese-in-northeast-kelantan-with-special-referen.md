@@ -5,8 +5,7 @@ title: Peranakan Chinese in northeast Kelantan, with special reference to Chines
   religion
 canonical_name: Peranakan Chinese in northeast Kelantan, with special reference to
   Chinese religion
-type: article
-article_type: article
+type: publication
 authors:
 - Tan Chee Beng
 year: 1982
@@ -29,7 +28,9 @@ published: false
 source_doc: jmbras-242-cheebeng-peranakanchinesenortheast-1982-294c94889f37
 source_path: ../sources/jmbras-242-cheebeng-peranakanchinesenortheast-1982-294c94889f37/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Peranakan Chinese in northeast Kelantan, with special reference to Chinese religion
 
 Tan Chee-Beng's 1982 ethnographic study, based on two field trips to northeast Kelantan (July 1977 and November 1980), examines the Peranakan Chinese of the Kelantan River corridor and argues that Chinese religion is the single most important institution preserving Chinese cultural identity among a community otherwise heavily acculturated by Malay and Thai neighbours. The article situates these rural Chinese within the multi-ethnic social landscape of Kelantan and demonstrates how religious practice draws a firm ethnic boundary with the Malay majority while remaining permeable to Thai Buddhist influence.

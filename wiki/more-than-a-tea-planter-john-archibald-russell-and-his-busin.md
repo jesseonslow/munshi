@@ -5,8 +5,7 @@ title: 'More than a tea planter: John Archibald Russell and his businesses in Ma
   1899‒1933'
 canonical_name: 'More than a tea planter: John Archibald Russell and his businesses
   in Malaya, 1899‒1933'
-type: article
-article_type: article
+type: publication
 authors:
 - Wong Yee Tuan
 year: 2010
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-298-tuan-teaplanterjohn-2010-80e5e3ad5a29
 source_path: ../sources/jmbras-298-tuan-teaplanterjohn-2010-80e5e3ad5a29/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # More than a tea planter: John Archibald Russell and his businesses in Malaya, 1899‒1933
 
 Wong Yee Tuan (2010) examines the diversified business empire of John Archibald Russell in early twentieth-century Malaya, arguing that local British entrepreneurs played a constructive and collaborative economic role that has been systematically overshadowed by the conventional emphasis on foreign-based agency houses. The article draws on colonial administrative files and contemporary press reports to reconstruct Russell's activities across tin mining, coal mining, match manufacturing, construction, and real estate between 1899 and 1933.

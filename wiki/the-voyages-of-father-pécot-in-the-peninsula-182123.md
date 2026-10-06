@@ -3,8 +3,7 @@ id: the-voyages-of-father-pécot-in-the-peninsula-182123
 work_id: jmbras-93-2-p167
 title: The voyages of Father Pécot in the Peninsula, 1821–23
 canonical_name: The voyages of Father Pécot in the Peninsula, 1821–23
-type: article
-article_type: translation
+type: publication
 authors:
 - P. Pécot
 - Anthony Reid
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-319-anthony-voyagesfatherpcot-2020-e6ce05d8d625
 source_path: ../sources/jmbras-319-anthony-voyagesfatherpcot-2020-e6ce05d8d625/frontmatter.md
 summarized: true
+publication_type: translation
 ---
+
 # The voyages of Father Pécot in the Peninsula, 1821–23
 
 Anthony and Helen Reid's 2020 edition presents the translated and edited correspondence of Father Mathurin-Pierre Pécot (1792–1823), a French missionary of the Société des Missions Étrangères de Paris who traversed the Malay Peninsula during the Siamese conquest of Kedah (1821) and the early British colonial consolidation of Penang and Singapore. The letters, drawn from the SMEP archives in Paris, constitute a rare first-hand European account of the Peninsula's interior during a period of intense political upheaval, while also documenting the origins of Catholic vernacular publishing in Malay.

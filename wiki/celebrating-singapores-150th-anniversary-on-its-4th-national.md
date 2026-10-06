@@ -5,8 +5,7 @@ title: Celebrating Singapore’s 150th anniversary on its 4th national day (9 Au
   1969
 canonical_name: Celebrating Singapore’s 150th anniversary on its 4th national day
   (9 August 1969)
-type: article
-article_type: article
+type: publication
 authors:
 - Ng Paul Seen
 year: 2019
@@ -47,7 +46,9 @@ keywords:
 - but to acknowledge that more of them always exist beyond our reach.
 - ‘Never forget the incompleteness of our history’
 - 'The Birthday Book 2017: What Should we Never Forget?*'
+publication_type: journal_article
 ---
+
 # Celebrating Singapore’s 150th anniversary on its 4th national day (9 August 1969
 
 ## Abstract

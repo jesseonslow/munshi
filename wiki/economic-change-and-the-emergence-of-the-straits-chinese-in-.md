@@ -5,8 +5,7 @@ title: Economic change and the emergence of the Straits Chinese in nineteenth-ce
   Penang
 canonical_name: Economic change and the emergence of the Straits Chinese in nineteenth-century
   Penang
-type: article
-article_type: article
+type: publication
 authors:
 - Neil Khor Jin Keong
 year: 2006
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-291-keong-economicchangeemergence-2006-422f5002f88b
 source_path: ../sources/jmbras-291-keong-economicchangeemergence-2006-422f5002f88b/appendices.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Economic change and the emergence of the Straits Chinese in nineteenth-century Penang
 
 Neil Khor Jin Keong (2006) traces the formation of a distinctive Straits Chinese identity in nineteenth-century Penang through the interlinked biographies of three Chinese families—the Kohs, the Khoos, and the Lims—arguing that this identity emerged from the fusion of Peranakan Chinese heritage, Hokkien immigrant culture, and British colonial modernity, shaped decisively by economic change and the rise and fall of secret societies.

@@ -3,8 +3,7 @@ id: the-grave-stone-of-sultan-shah-of-malacca
 work_id: jsbras-86-1-p368
 title: The grave-stone of Sultan Shah of Malacca
 canonical_name: The grave-stone of Sultan Shah of Malacca
-type: article
-article_type: article
+type: publication
 authors:
 - Zainal Abidin bin Ahmad
 year: 1922
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: false
 source_doc: jsbras-086-ahmad-gravestonesultanmansur-1922-d8634d92fa5b
 source_path: ../sources/jsbras-086-ahmad-gravestonesultanmansur-1922-d8634d92fa5b.md
+publication_type: journal_article
 ---
+
 # The grave-stone of Sultan Shah of Malacca
 
 This is a concluding note by Zainul-Abidin bin Ahmad on the grave-stone of Sultan Mansur Shah of Malacca, published in JSBRAS Vol. 86 (1922), pp. 368–388.

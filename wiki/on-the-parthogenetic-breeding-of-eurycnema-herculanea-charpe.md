@@ -3,8 +3,7 @@ id: on-the-parthogenetic-breeding-of-eurycnema-herculanea-charpe
 work_id: jsbras-38-1-p35
 title: On the parthogenetic breeding of Eurycnema herculanea, Charpentier
 canonical_name: On the parthogenetic breeding of _Eurycnema herculanea,_ Charpentier
-type: article
-article_type: article
+type: publication
 authors:
 - Hanitsch R
 year: 1902
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-038-hanitsch-parthenogeneticbreedingeurycnema-1902-06b3d2a5aae6
 source_path: ../sources/jsbras-038-hanitsch-parthenogeneticbreedingeurycnema-1902-06b3d2a5aae6.md
 summarized: true
+publication_type: note
 ---
+
 # On the parthogenetic breeding of Eurycnema herculanea, Charpentier
 
 This short note by R. Hanitsch, Curator of the Raffles Museum, Singapore, documents the first recorded case of parthenogenesis in the order Orthoptera, based on his rearing of the phasmid *Eurycnema herculanea* at the Raffles Museum in 1897–1898.

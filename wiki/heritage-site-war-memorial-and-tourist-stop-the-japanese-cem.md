@@ -5,8 +5,7 @@ title: 'Heritage site, war memorial and tourist stop: the Japanese cemetery of S
   1891– 2005'
 canonical_name: 'Heritage site, war memorial and tourist stop: the Japanese cemetery
   of Singapore, 1891– 2005'
-type: article
-article_type: article
+type: publication
 authors:
 - K. Blackburn
 year: 2007
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-292-blackburn-heritagesitewar-2007-90e60d313619
 source_path: ../sources/jmbras-292-blackburn-heritagesitewar-2007-90e60d313619/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Heritage site, war memorial and tourist stop: the Japanese cemetery of Singapore, 1891– 2005
 
 Kevin Blackburn's 2007 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* traces the Japanese Cemetery of Singapore from its 1891 founding through 2005, arguing that the site has simultaneously functioned as a heritage monument to the pre-war Japanese community, a war memorial to Japanese military dead (including executed war criminals), and a tourist destination for Japanese visitors—three roles that generate persistent and unresolved paradoxes.

@@ -3,8 +3,7 @@ id: changes-in-the-trading-ties-between-china-and-malaya-prewar-
 work_id: jmbras-72-1-p95
 title: Changes in the trading ties between China and Malaya, prewar to postwar,
 canonical_name: Changes in the trading ties between China and Malaya, prewar to postwar,
-type: article
-article_type: article
+type: publication
 authors:
 - N. Dening
 year: 1999
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-276-dening-changestradingties-1999-5c976f813f95
 source_path: ../sources/jmbras-276-dening-changestradingties-1999-5c976f813f95.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Changes in the trading ties between China and Malaya, prewar to postwar,
 
 Nie Dening, a scholar at Xiamen University, published this article in 1999 examining the evolution of bilateral trade between China and Malaya from the opening of the Suez Canal in 1869 through the establishment of diplomatic relations in 1974. The central argument is that the Overseas Chinese community in British Malaya served as the primary engine of prewar trade, while postwar trade was shaped by geopolitical pressures—US embargoes, the Malayan Emergency, and the Cold War—before direct state-to-state relations from 1971 onward transformed the relationship into a more balanced commercial partnership.

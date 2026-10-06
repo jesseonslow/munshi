@@ -3,8 +3,7 @@ id: recent-archaeological-discoveries-in-malaya-1955
 work_id: jmbras-29-1-p200
 title: Recent archaeological discoveries in Malaya (1955
 canonical_name: Recent archaeological discoveries in Malaya (1955)
-type: article
-article_type: article
+type: publication
 authors:
 - G. de G. Sieveking
 year: 1956
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-173-sieveking-recentarchaeologicaldiscoveries-1956-56b535364998
 source_path: ../sources/jmalayanras-173-sieveking-recentarchaeologicaldiscoveries-1956-56b535364998.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Recent archaeological discoveries in Malaya (1955
 
 G. de G. Sieveking, writing as a senior officer of the Museums Department, presents this annual survey of archaeological discoveries made across the Malay Peninsula in 1955, covering sites from the prehistoric through the historic periods. The article's central contribution lies in its stratigraphic re-interpretation of the Tanjong Rawa site in the Selinsing estuary, where new excavations clarified a three-phase occupation sequence and recovered a complete canoe burial with associated pottery and a human skeleton.

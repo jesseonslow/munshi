@@ -4,8 +4,7 @@ work_id: jmbras-49-1-p89
 title: Sir Hugh Clifford’s early career (1866–1903) as told from his private papers
 canonical_name: Sir Hugh Clifford’s early career (1866–1903) as told from his private
   papers
-type: article
-article_type: article
+type: publication
 authors:
 - A.J. Stockwell
 year: 1976
@@ -22,7 +21,9 @@ published: false
 source_doc: jmbras-229-stockwell-sirhughcliffords-1976-cce57e6163df
 source_path: ../sources/jmbras-229-stockwell-sirhughcliffords-1976-cce57e6163df.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Sir Hugh Clifford’s early career (1866–1903) as told from his private papers
 
 (2-3 sentences): author, publication year, historical setting, overarching thesis

@@ -5,8 +5,7 @@ title: The Genesis of Malayan Chinese Civil Society's Struggle for Constitutiona
   Equality, in Particular Jus Soli
 canonical_name: The Genesis of Malayan Chinese Civil Society's Struggle for Constitutional
   Equality, in Particular Jus Soli
-type: article
-article_type: translation
+type: publication
 authors:
 - Siew Chang Yee
 - H. Ting Mu Hung
@@ -21,6 +20,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: journal_article
 ---
 
 # The Genesis of Malayan Chinese Civil Society's Struggle for Constitutional Equality, in Particular Jus Soli

@@ -5,8 +5,7 @@ title: Some old private letters from the Cape, Batavia and Malacca, 1778–1788.
   P.C. Hoynck van Papendrecht
 canonical_name: Some old private letters from the Cape, Batavia and Malacca, 1778–1788.
   {Comp} P.C. Hoynck van Papendrecht
-type: article
-article_type: article
+type: publication
 authors:
 - P.C. Hoynck van Papendrecht
 year: 1924
@@ -35,7 +34,9 @@ keywords:
 source_mismatch: true
 source_doc: jmalayanras-090-papendrecht-oldprivateletters-1924-7497d194d195
 source_path: ../sources/jmalayanras-090-papendrecht-oldprivateletters-1924-7497d194d195.md
+publication_type: document
 ---
+
 # Some old private letters from the Cape, Batavia and Malacca, 1778–1788. {Comp} P.C. Hoynck van Papendrecht
 
 P.C. Hoynck van Papendrecht published in 1924 a translation of private letters written by his distant kinsman Reynier Bernardus Hoynck van Papendrecht between 1778 and 1788, covering the latter's service with the Dutch East India Company at the Cape of Good Hope, Batavia, and Malacca. The correspondence offers a first-hand account of the Company's administrative decline, the brutal realities of tropical service, and the military conflict with Raja Haji at Malacca in 1784.

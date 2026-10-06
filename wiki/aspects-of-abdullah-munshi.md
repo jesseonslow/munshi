@@ -3,8 +3,7 @@ id: aspects-of-abdullah-munshi
 work_id: jmbras-54-3-p35
 title: Aspects of Abdullah “Munshi”
 canonical_name: Aspects of Abdullah “Munshi”
-type: article
-article_type: article
+type: publication
 authors:
 - H.F. O'B. Traill
 year: 1981
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-241-traill-aspectsabdullahmunshi-1981-34d77fa5ef44
 source_path: ../sources/jmbras-241-traill-aspectsabdullahmunshi-1981-34d77fa5ef44.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Aspects of Abdullah “Munshi”
 
 H.F.O'B. Traill's 1981 article "Aspects of Abdullah 'Munshi'" re-examines the life and literary output of Abdullah bin Abdul Kadir (c. 1795–1854) through two complementary lenses: the formative influence of the missionary Alfred North on Abdullah's two major works, and the character of the man himself as revealed by his writings and by the testimony of contemporaries. Traill argues that Abdullah's status as a literary model has been overstated, that his racial identity as a "Peranakan Keling" (Arab-Tamil Muslim) has been systematically obscured, and that the charge of being a "British stooge" rests on a misreading of his genuine but limited worldview.

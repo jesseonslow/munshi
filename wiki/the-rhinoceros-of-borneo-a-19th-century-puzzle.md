@@ -3,8 +3,7 @@ id: the-rhinoceros-of-borneo-a-19th-century-puzzle
 work_id: jmbras-50-1-p52
 title: 'The rhinoceros of Borneo: a 19th century puzzle'
 canonical_name: 'The rhinoceros of Borneo: a 19th century puzzle'
-type: article
-article_type: article
+type: publication
 authors:
 - L.C. Rookmaaker
 year: 1977
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-231-rookmaaker-rhinocerosborneo19th-1977-bcf77ad54d56
 source_path: ../sources/jmbras-231-rookmaaker-rhinocerosborneo19th-1977-bcf77ad54d56/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The rhinoceros of Borneo: a 19th century puzzle
 
 L.C. Rookmaaker published this article in 1977 in the *Journal of the Malaysian Branch of the Royal Asiatic Society* (Vol. 50, No. 1, pp. 52–62), a volume dedicated to the memory of Tom Harrisson. The paper reconstructs the fifty-five-year taxonomic controversy over which rhinoceros species inhabited Borneo, demonstrating that the one-horned Javan rhinoceros (*Rhinoceros sondaicus*) was erroneously assigned to the island from the early 1860s until 1895, when the two-horned Sumatran rhinoceros (*Dicerorhinus sumatrensis*) was correctly identified as the sole species ever present there.

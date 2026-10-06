@@ -3,8 +3,7 @@ id: malays-in-the-indochinese-peninsula-adventurers-warlords-and
 work_id: jmbras-94-1-p1
 title: 'Malays in the Indochinese Peninsula: Adventurers, Warlords and Ministers'
 canonical_name: 'Malays in the Indochinese Peninsula: Adventurers, Warlords and Ministers'
-type: article
-article_type: article
+type: publication
 authors:
 - nicolas-weber
 year: 2021
@@ -27,6 +26,7 @@ keywords:
 - Sarawak
 - oral history.
 source_mismatch: true
+publication_type: journal_article
 ---
 
 # Malays in the Indochinese Peninsula: Adventurers, Warlords and Ministers

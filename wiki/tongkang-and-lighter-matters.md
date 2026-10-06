@@ -3,8 +3,7 @@ id: tongkang-and-lighter-matters
 work_id: jmbras-25-1-p84
 title: Tongkang and lighter matters
 canonical_name: _Tongkang_ and lighter matters
-type: article
-article_type: article
+type: publication
 authors:
 - C.A. Gibson-Hill
 year: 1952
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-158-gibsonhill-tongkanglightermatters-1952-b8bf46984d64
 source_path: ../sources/jmalayanras-158-gibsonhill-tongkanglightermatters-1952-b8bf46984d64/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Tongkang and lighter matters
 
 C.A. Gibson-Hill, a leading maritime ethnographer of the Straits Settlements, published this article in 1952 to resolve the taxonomic confusion surrounding the Malay word *tongkang*, which had been applied to at least five distinct types of sailing cargo vessel across Malaya, Burma, and North Borneo. His central thesis is that the term should be restricted to sailing lighters of European hull origin (or boats developed from such stock), and that the apparent diversity of "tongkangs" in Malayan waters represents a single evolutionary lineage radiating from the Tamil-manned lighters first brought to Singapore in the 1820s.

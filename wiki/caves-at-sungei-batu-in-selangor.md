@@ -3,8 +3,7 @@ id: caves-at-sungei-batu-in-selangor
 work_id: jsbras-3-1-p116
 title: Caves at Sungei Batu in Selangor
 canonical_name: Caves at Sungei Batu in Selangor
-type: article
-article_type: article
+type: publication
 authors:
 - D.D. Daly
 year: 1879
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-003-daly-cavessungeibatu-1879-2f919e603240
 source_path: ../sources/jsbras-003-daly-cavessungeibatu-1879-2f919e603240.md
 summarized: true
+publication_type: note
 ---
+
 # Caves at Sungei Batu in Selangor
 
 This 1879 short note by D. D. Daly, read at a meeting of the Society on 7 April 1879, describes the discovery and exploration of a series of limestone caves near Kwala Lumpor in the Native State of Selangor, first located by Mr. Syers, Superintendent of Police, during a hunting excursion (p. 116).

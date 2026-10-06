@@ -3,8 +3,7 @@ id: the-trengganu-inscription-in-malayan-legal-history
 work_id: jmbras-49-2-p127
 title: The Trengganu inscription in Malayan legal history
 canonical_name: The Trengganu inscription in Malayan legal history
-type: article
-article_type: article
+type: publication
 authors:
 - M.B. Hooker
 year: 1976
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-230-hooker-trengganuinscriptionmalayan-1976-4b60fd00bb17
 source_path: ../sources/jmbras-230-hooker-trengganuinscriptionmalayan-1976-4b60fd00bb17/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The Trengganu inscription in Malayan legal history
 
 M.B. Hooker's 1976 note re-examines the Trengganu inscription (dated 702 A.H., c. 1303) not for its long-discussed evidence on the introduction of Islam to the Malay peninsula, but for its significance in the legal history of the Malay-Indonesian world. Hooker argues that the inscription is the earliest surviving example of the distinctive Malayan legal tradition—a tradition that synthesizes Indian and Islamic foreign elements to validate indigenous rules of conduct, a characteristic that reaches its fullest expression in the later Malacca law.

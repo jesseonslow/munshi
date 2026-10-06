@@ -4,8 +4,7 @@ work_id: jmbras-27-2-p5
 title: The fishing methods of Singapore. { In Papers on Malayan fishing methods
 canonical_name: The fishing methods of Singapore. { _In_ Papers on Malayan fishing
   methods}
-type: article
-article_type: article
+type: publication
 authors:
 - T.W. Burdon
 year: 1954
@@ -22,7 +21,9 @@ published: false
 source_doc: jmalayanras-166-burdon-papersmalayanfishing-1954-fb05d0340a63
 source_path: ../sources/jmalayanras-166-burdon-papersmalayanfishing-1954-fb05d0340a63/index.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The fishing methods of Singapore. { In Papers on Malayan fishing methods
 
 T.W. Burdon, head of the Singapore Fisheries Department, published this systematic catalogue of all fishing methods operating in Singapore waters in 1954, as the lead contribution to the MBRAS monograph *Papers on Malayan Fishing Methods*. The article provides a comprehensive, taxonomic account of every gear type in use in the Colony, organized by the physical mechanism of capture, and draws on direct field observation combined with the Department's licensing and landing statistics for 1952.

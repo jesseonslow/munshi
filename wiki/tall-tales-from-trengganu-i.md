@@ -3,8 +3,7 @@ id: tall-tales-from-trengganu-i
 work_id: jmbras-63-1-p77
 title: Tall tales from Trengganu. I
 canonical_name: Tall tales from Trengganu. I
-type: article
-article_type: article
+type: publication
 authors:
 - N. Rees
 year: 1990
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-259-rees-talltalesterengganu-1990-208ab77a5c4c
 source_path: ../sources/jmbras-259-rees-talltalesterengganu-1990-208ab77a5c4c.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Tall tales from Trengganu. I
 
 Noel Rees, a British resident in Terengganu, published this second installment of his "Tall Tales" series in 1990 in the *Journal of the Malaysian Branch of the Royal Asiatic Society*. Written in a warm, conversational register, the piece offers a series of personal anecdotes drawn from his post-war years living in a Malay fishing village on the east coast, capturing the rhythms of rural Terengganu life through its pastimes, wildlife, and the author's own close encounters with the local community.

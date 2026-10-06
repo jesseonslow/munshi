@@ -3,8 +3,7 @@ id: population-of-singapore-in-1819
 work_id: jmbras-11-2-p177
 title: Population of Singapore in 1819
 canonical_name: Population of Singapore in 1819
-type: article
-article_type: article
+type: publication
 authors:
 - W. Bartley
 year: 1933
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-117-bartley-populationsingapore1819-1933-3988dd4ff9c5
 source_path: ../sources/jmalayanras-117-bartley-populationsingapore1819-1933-3988dd4ff9c5.md
 summarized: true
+publication_type: note
 ---
+
 # Population of Singapore in 1819
 
 This short note by W. Bartley challenges the widely held view that Singapore was entirely undeveloped at the time of its founding in 1819, presenting documentary evidence of pre-existing Chinese inhabitants and agricultural activity.

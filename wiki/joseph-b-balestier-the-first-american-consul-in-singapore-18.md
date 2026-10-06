@@ -3,8 +3,7 @@ id: joseph-b-balestier-the-first-american-consul-in-singapore-18
 work_id: jmbras-39-2-p108
 title: 'Joseph B. Balestier: the first American consul in Singapore 1833–1852'
 canonical_name: 'Joseph B. Balestier: the first American consul in Singapore 1833–1852'
-type: article
-article_type: article
+type: publication
 authors:
 - Sharom Ahmat
 year: 1966
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-210-ahmat-josephbbalestier-1966-6a6049fe2945
 source_path: ../sources/jmbras-210-ahmat-josephbbalestier-1966-6a6049fe2945.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Joseph B. Balestier: the first American consul in Singapore 1833–1852
 
 Sharom Ahmat's 1966 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* examines the career of Joseph B. Balestier, the first American consul in Singapore, from his arrival in 1833 through his retirement in 1852. Set against the legal ambiguities of the 1815 US-British Convention and the commercial ambitions of a young republic in the Far East, the article argues that Balestier was a pivotal yet perpetually constrained figure whose consular, mercantile, and diplomatic activities shaped the early American presence in the Straits Settlements.

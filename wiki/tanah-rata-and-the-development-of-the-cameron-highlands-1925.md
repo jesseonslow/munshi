@@ -3,8 +3,7 @@ id: tanah-rata-and-the-development-of-the-cameron-highlands-1925
 work_id: jmbras-90-1-p101
 title: Tanah Rata and the development of the Cameron Highlands, 1925–2030
 canonical_name: Tanah Rata and the development of the Cameron Highlands, 1925–2030
-type: article
-article_type: article
+type: publication
 authors:
 - R. Weebers
 year: 2017
@@ -27,7 +26,9 @@ keywords:
 - Peninsular Malaya
 - Cameron Highlands
 - Tanah Rata
+publication_type: journal_article
 ---
+
 # Tanah Rata and the development of the Cameron Highlands, 1925–2030
 
 ## Abstract

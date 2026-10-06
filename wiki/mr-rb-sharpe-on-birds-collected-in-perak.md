@@ -3,8 +3,7 @@ id: mr-rb-sharpe-on-birds-collected-in-perak
 work_id: jsbras-21-1-p1
 title: Mr. R.B. Sharpe on birds collected in Perak
 canonical_name: Mr. R.B. Sharpe on birds collected in Perak
-type: article
-article_type: article
+type: publication
 authors:
 - R. B. Sharpe
 year: 1890
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: true
 source_doc: jsbras-021-mrrb-1890-6aa64516851c
 source_path: ../sources/jsbras-021-mrrb-1890-6aa64516851c.md
+publication_type: journal_article
 ---
+
 # Mr. R.B. Sharpe on birds collected in Perak
 
 R. B. Sharpe, Keeper of Birds at the British Museum, published this taxonomic account in 1890 describing a substantial collection of birds gathered by the explorer Mr. Wray during a six-month sojourn in the mountain ranges of Perak, Malay Peninsula, at altitudes reaching 7,000 feet. The paper's central thesis is that the highland avifauna of the Malay Peninsula is far more closely allied to the Himalayan and Tenasserim faunas than previously recognized, with several genera appearing in the Peninsula for the first time.

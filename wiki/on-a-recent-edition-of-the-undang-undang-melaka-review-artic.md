@@ -5,8 +5,7 @@ title: On a recent edition of the Undang-undang Melaka. {Review article of Undan
   Melaka, the laws of Melaka by Liaw Yock Fang
 canonical_name: On a recent edition of the _Undang-undang Melaka._ {Review article
   of _Undang-undang Melaka,_ the laws of Melaka by Liaw Yock Fang}
-type: article
-article_type: article
+type: publication
 authors:
 - Drewes G.W.J
 - Liaw Yock Fang
@@ -24,7 +23,9 @@ published: false
 source_doc: jmbras-237-drewes-recenteditionundangundang-1980-2daf31d54a07
 source_path: ../sources/jmbras-237-drewes-recenteditionundangundang-1980-2daf31d54a07/chapter-21.md
 summarized: true
+publication_type: review
 ---
+
 # On a recent edition of the Undang-undang Melaka. {Review article of Undang-undang Melaka, the laws of Melaka by Liaw Yock Fang
 
 G.W.J. Drewes published this extensive review in 1980, evaluating Liaw Yock Fang's 1976 critical edition of the *Undang-undang Melaka* (Bibliotheca Indonesica, Vol. 13, Martinus Nijhoff, The Hague). The article, spanning 27 pages, serves as both a historiographical survey of scholarship on Malay legal codes and a detailed philological and juridical critique of Liaw's translation and commentary, ultimately affirming the edition's value as a milestone while identifying numerous points requiring revision.

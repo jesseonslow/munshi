@@ -3,8 +3,7 @@ id: the-malay-game-of-apit
 work_id: jmbras-10-1-p138
 title: The Malay game of apit
 canonical_name: The Malay game of apit
-type: article
-article_type: article
+type: publication
 authors:
 - Samusah
 year: 1932
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-113-samusah-malaygameapit-1932-70e23f831e04
 source_path: ../sources/jmalayanras-113-samusah-malaygameapit-1932-70e23f831e04.md
 summarized: true
+publication_type: note
 ---
+
 # The Malay game of apit
 
 This short note by Raja Samusah of Malay College, Kuala Kangsar, describes the rules of the Malay board game *sodok apit*, illustrated with four diagrams.

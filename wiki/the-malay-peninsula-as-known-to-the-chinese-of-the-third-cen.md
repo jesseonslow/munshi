@@ -3,8 +3,7 @@ id: the-malay-peninsula-as-known-to-the-chinese-of-the-third-cen
 work_id: jmbras-28-1-p1
 title: The Malay Peninsula as known to the Chinese of the third century A.D
 canonical_name: The Malay Peninsula as known to the Chinese of the third century A.D
-type: article
-article_type: article
+type: publication
 authors:
 - Paul Wheatley
 year: 1955
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: true
 source_doc: jmalayanras-169-wheatley-malaypeninsulaknown-1955-1f892518ec4c
 source_path: ../sources/jmalayanras-169-wheatley-malaypeninsulaknown-1955-1f892518ec4c.md
+publication_type: journal_article
 ---
+
 # The Malay Peninsula as known to the Chinese of the third century A.D
 
 Paul Wheatley's 1955 article reconstructs the earliest extant Chinese geographical and ethnographic knowledge of the Malay Peninsula, drawing on fragments of lost third-century A.D. texts compiled by the Wu dynasty envoys K'ang T'ai and Chu-Ying. The central thesis is that the Peninsula in the early centuries of the common era comprised a cluster of small river-valley-based political entities, several of which can be identified with confidence at specific modern locations, and that at least one of these—Tun-sun on the Kra isthmus—was already experiencing the cultural diffusion Wheatley terms "Indianization."

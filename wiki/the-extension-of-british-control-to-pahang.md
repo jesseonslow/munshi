@@ -3,8 +3,7 @@ id: the-extension-of-british-control-to-pahang
 work_id: jmbras-30-1-p46
 title: The extension of British control to Pahang
 canonical_name: The extension of British control to Pahang
-type: article
-article_type: article
+type: publication
 authors:
 - E. Thio
 year: 1957
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-177-thio-extensionbritishcontrol-1957-95da7fc1b43b
 source_path: ../sources/jmalayanras-177-thio-extensionbritishcontrol-1957-95da7fc1b43b.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The extension of British control to Pahang
 
 Eunice Thio's 1957 article traces the protracted British effort to bring Pahang under colonial control from 1874 to 1888, arguing that the extension of the residential system was driven less by humanitarian concern over misgovernment than by the commercial interests of concession-holding companies and the strategic imperative of pre-empting German and French imperial expansion in the region.

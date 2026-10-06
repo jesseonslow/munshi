@@ -3,8 +3,7 @@ id: land-tenure-problems-in-burma-1852-to-1940
 work_id: jmbras-38-1-p106
 title: Land tenure problems in Burma, 1852 to 1940
 canonical_name: Land tenure problems in Burma, 1852 to 1940
-type: article
-article_type: article
+type: publication
 authors:
 - Cheng Siok-hwa
 year: 1965
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-207-hwa-landtenureproblems-1965-c49311a712c1
 source_path: ../sources/jmbras-207-hwa-landtenureproblems-1965-c49311a712c1.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Land tenure problems in Burma, 1852 to 1940
 
 Cheng Siok Hwa's 1965 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* examines the agrarian crisis that developed in British Burma between 1852 and 1940, arguing that successive colonial land tenure systems failed to establish a stable body of peasant proprietors and that half a century of legislative attempts to curb land alienation and improve tenancy conditions were consistently thwarted by commercial interests and administrative inertia until it was too late for effective implementation.

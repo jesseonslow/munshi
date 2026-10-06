@@ -3,8 +3,7 @@ id: some-notes-on-the-origin-and-development-of-naubat
 work_id: jmbras-49-1-p141
 title: Some notes on the origin and development of naubat
 canonical_name: Some notes on the origin and development of _naubat._
-type: article
-article_type: article
+type: publication
 authors:
 - A. Seljuq
 year: 1976
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-229-seljuq-notesorigindevelopment-1976-484d20c36f3c
 source_path: ../sources/jmbras-229-seljuq-notesorigindevelopment-1976-484d20c36f3c.md
 summarized: true
+publication_type: note
 ---
+
 # Some notes on the origin and development of naubat
 
 This two-page note by Affan Seljuq traces the origin and development of naubat, the ceremonial court music associated with Malay royal courts, from its ancient Iranian roots to its present-day significance in Malaysia.

@@ -3,8 +3,7 @@ id: glass-beads-in-malaya-a-reassessment
 work_id: jmbras-64-1-p97
 title: 'Glass beads in Malaya: a reassessment'
 canonical_name: 'Glass beads in Malaya: a reassessment'
-type: article
-article_type: article
+type: publication
 authors:
 - P. Francis
 year: 1991
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-260-jr-glassbeadsmalaya-1991-4d789d00df1f
 source_path: ../sources/jmbras-260-jr-glassbeadsmalaya-1991-4d789d00df1f/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Glass beads in Malaya: a reassessment
 
 Peter Francis Jr. (1991) reassesses the glass bead record of the Malay Peninsula, arguing that Malaya was not a passive recipient of Roman trade goods but rather a major production centre for the ubiquitous Indo-Pacific drawn glass beads, manufactured by Tamil Indian beadmakers using the distinctive Lada process from approximately the 2nd century B.C. until the industry's disappearance around 1200 A.D.

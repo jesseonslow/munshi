@@ -6,8 +6,7 @@ title: Notes on Dipterocarps. {No. 8} On some large-fruited species, and in part
 canonical_name: Notes on Dipterocarps. {No. 8} On some large-fruited species, and
   in particular upon the effects of the pressure of the embryo against the interior
   of the fruit-wall
-type: article
-article_type: article
+type: publication
 authors:
 - I.H. Burkill
 year: 1922
@@ -24,7 +23,9 @@ published: false
 source_doc: jsbras-086-burkill-notesdipterocarpsno-1922-1-ba50fea4d827
 source_path: ../sources/jsbras-086-burkill-notesdipterocarpsno-1922-1-ba50fea4d827.md
 summarized: true
+publication_type: note
 ---
+
 # Notes on Dipterocarps. {No. 8} On some large-fruited species, and in particular upon the effects of the pressure of the embryo against the interior of the fruit-wall
 
 I.H. Burkill, a senior botanist at the Singapore Botanic Gardens, published this eighth installment of his "Notes on Dipterocarps" series in 1922, examining the germination mechanics of large-fruited Dipterocarp species with particular attention to how embryonic pressure against the fruit wall drives splitting patterns. The article draws on direct observation of *Shorea Thiseltoni*, *Vatica Ridleyana*, and *Dryobalanops* sp. ("Koladan") to argue that the embryo possesses considerable morphological plasticity in response to internal pressure differentials.

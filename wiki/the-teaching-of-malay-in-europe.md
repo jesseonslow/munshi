@@ -3,8 +3,7 @@ id: the-teaching-of-malay-in-europe
 work_id: jsbras-75-1-p52
 title: The teaching of Malay in Europe
 canonical_name: The teaching of Malay in Europe
-type: article
-article_type: article
+type: publication
 authors:
 - R.O. Winstedt
 year: 1917
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-075-winstedt-teachingmalayeurope-1917-5f4449982cfa
 source_path: ../sources/jsbras-075-winstedt-teachingmalayeurope-1917-5f4449982cfa.md
 summarized: true
+publication_type: note
 ---
+
 # The teaching of Malay in Europe
 
 This short note by R. O. Winstedt surveys the provision of Malay language instruction in European academic institutions, with particular emphasis on the newly established School of Oriental Studies in London.

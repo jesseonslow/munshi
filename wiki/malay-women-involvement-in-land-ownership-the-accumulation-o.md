@@ -5,8 +5,7 @@ title: 'Malay women: involvement in land ownership, the accumulation of wealth a
   indebtedness in Kedah (1881–1940'
 canonical_name: 'Malay women: involvement in land ownership, the accumulation of wealth
   and indebtedness in Kedah (1881–1940)'
-type: article
-article_type: article
+type: publication
 authors:
 - Mahani Musa
 year: 2004
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-286-musa-malaywomensinvolvement-2004-788e236477f7
 source_path: ../sources/jmbras-286-musa-malaywomensinvolvement-2004-788e236477f7/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Malay women: involvement in land ownership, the accumulation of wealth and indebtedness in Kedah (1881–1940
 
 Mahani Musa's 2004 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* examines the economic agency of Malay women in Kedah between 1881 and 1940, arguing that they were active participants in land acquisition, wealth accumulation, and property defence rather than passive dependents confined to domestic roles. Drawing extensively on Land Office, Stamp Office, Estate Duty Office, and State Secretariat records, Musa demonstrates that women across social strata—from the sultan's wives to commoner paddy planters—engaged in sustained economic activity that the colonial administrative apparatus both facilitated and, at times, constrained.

@@ -5,8 +5,7 @@ title: Journal (from 29th April to 25th May, 1872) when on a trip from Sarawak t
   Meri, on the north-west coast of Borneo in the Brunei territory
 canonical_name: Journal (from 29th April to 25th May, 1872) when on a trip from Sarawak
   to Meri, on the north-west coast of Borneo in the Brunei territory
-type: article
-article_type: article
+type: publication
 authors:
 - N. Denison
 year: 1882
@@ -23,7 +22,9 @@ published: false
 source_doc: jsbras-010-denison-journalfrom29th-1882-49078886ac15
 source_path: ../sources/jsbras-010-denison-journalfrom29th-1882-49078886ac15.md
 summarized: true
+publication_type: document
 ---
+
 # Journal (from 29th April to 25th May, 1872) when on a trip from Sarawak to Meri, on the north-west coast of Borneo in the Brunei territory
 
 N. Denison's journal, published in 1882 in the *Journal of the Straits Branch of the Royal Asiatic Society*, records a twenty-six-day voyage along the north-west Borneo coast in May 1872, from the Sarawak settlement at Oya through the Brunei-claimed Meri and Baram rivers to Sibu and Kuching. The text functions simultaneously as a colonial trade report, an ethnographic survey of the Milano, Kayan, Dayak, Murut, and Dusun peoples, and a window into the administrative friction between the White Rajah's Sarawak and the Sultanate of Brunei in the period immediately following their 1870 treaty.

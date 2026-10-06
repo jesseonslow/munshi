@@ -5,8 +5,7 @@ title: Statement of Haji Mahomed Ali, a Mahomedan of Arabic extraction, born in 
   island of Hainan, China, regarding Mahomedans in China
 canonical_name: Statement of Haji Mahomed Ali, a Mahomedan of Arabic extraction, born
   in the island of Hainan, China, regarding Mahomedans in China
-type: article
-article_type: article
+type: publication
 authors:
 - Muhammad Ali
 year: 1882
@@ -23,7 +22,9 @@ published: false
 source_doc: jsbras-009-statementhajimahomed-1882-de64ffc46655
 source_path: ../sources/jsbras-009-statementhajimahomed-1882-de64ffc46655.md
 summarized: true
+publication_type: note
 ---
+
 # Statement of Haji Mahomed Ali, a Mahomedan of Arabic extraction, born in the island of Hainan, China, regarding Mahomedans in China
 
 This is a first-person statement by Haji Mahomed Ali, a Mahomedan of Arabic extraction born in Hainan, China, describing the religious, cultural, and economic position of the Mahomedan (Hue-Hue) community in China. It was published in the *Journal of the Straits Branch of the Royal Asiatic Society*, Vol. 9, June 1882, pp. 165–166.

@@ -3,8 +3,7 @@ id: langkasuka-the-island-of-asoka
 work_id: jmbras-21-1-p119
 title: Langkasuka, the island of Asoka
 canonical_name: Langkasuka, the island of Asoka
-type: article
-article_type: article
+type: publication
 authors:
 - W. Linehan
 year: 1948
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-144-linehan-langkasukaislandasoka-1948-f07a6d29b03b
 source_path: ../sources/jmalayanras-144-linehan-langkasukaislandasoka-1948-f07a6d29b03b.md
 summarized: true
+publication_type: note
 ---
+
 # Langkasuka, the island of Asoka
 
 W. Linehan's 1948 note in the *JMBRAS* proposes that the ancient Kedah kingdom known to Chinese, Indian, and Javanese sources as Langkasuka derived its name from *Lanka Asoka*—"The Island of Asoka"—in honour of the Mauryan Buddhist emperor (r. c. 264–228 B.C.), and that the etymological derivation offered in the Kedah Annals (*Lanka-suka*, "Island of Gladness") is a later folk-etymological fiction. The article is a compact piece of onomastic and historical argumentation drawing on the Kedah Annals, Chinese dynastic histories, South Indian inscriptions, and Arab geographical texts.

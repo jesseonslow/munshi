@@ -3,8 +3,7 @@ id: english-trade-with-perak-nq-4
 work_id: jsbras-17-english-trade-with-perak-nq-4
 title: English trade with Perak. NQ 4
 canonical_name: English trade with Perak. NQ 4
-type: article
-article_type: notes_and_queries
+type: publication
 authors:
 - W.E. Maxwell
 year: 1886
@@ -18,6 +17,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: note
 ---
 
 # English trade with Perak. NQ 4

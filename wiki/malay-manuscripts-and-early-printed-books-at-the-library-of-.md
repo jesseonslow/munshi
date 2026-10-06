@@ -5,8 +5,7 @@ title: Malay Manuscripts and early printed books at the Library of Congress. Fac
   reprint
 canonical_name: Malay Manuscripts and early printed books at the Library of Congress.
   Facsimile reprint
-type: article
-article_type: article
+type: publication
 authors:
 - A. Kohar Rony
 year: 2020
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-319-rony-malaymanuscriptsearly-2020-5341cec6a0ca
 source_path: ../sources/jmbras-319-rony-malaymanuscriptsearly-2020-5341cec6a0ca.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Malay Manuscripts and early printed books at the Library of Congress. Facsimile reprint
 
 A. Kohar Rony, a curator in the Library of Congress's Asian Division, published this article in 1991 (reprinted in *JMBRAS* 2020) to document the provenance and contents of the Library's holdings of Malay manuscripts and early printed books, arguing that the collection—acquired largely through the agency of American missionary Alfred North during the Wilkes Exploring Expedition of 1838–1842—constitutes a unique and irreplaceable resource for the study of Malay language, society, and the history of printing in insular Southeast Asia (p. 33).

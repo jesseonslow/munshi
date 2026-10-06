@@ -3,8 +3,7 @@ id: william-george-stirling-18871951-civil-servant-and-artist
 work_id: jmbras-91-2-p135
 title: 'William George Stirling (1887–1951): civil servant and artist'
 canonical_name: 'William George Stirling (1887–1951): civil servant and artist'
-type: article
-article_type: article
+type: publication
 authors:
 - R. Forrest
 year: 2018
@@ -72,7 +71,9 @@ keywords:
   1921 to 1931. The Chinese Protectorate had been set up in 1877 to manage affairs
   relating to the Chinese in the Straits Settlements. Its responsibilities included
   regulating
+publication_type: journal_article
 ---
+
 # William George Stirling (1887–1951): civil servant and artist
 
 ## Abstract

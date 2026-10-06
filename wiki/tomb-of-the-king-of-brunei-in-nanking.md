@@ -3,8 +3,7 @@ id: tomb-of-the-king-of-brunei-in-nanking
 work_id: jmbras-56-2-p1
 title: Tomb of “The King of Brunei” in Nanking
 canonical_name: Tomb of “The King of Brunei” in Nanking
-type: article
-article_type: article
+type: publication
 authors:
 - Mohamed Suffian
 year: 1983
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: true
 source_doc: jmbras-245-suffian-tombtheking-1983-4f5c58946ef6
 source_path: ../sources/jmbras-245-suffian-tombtheking-1983-4f5c58946ef6.md
+publication_type: journal_article
 ---
+
 # Tomb of “The King of Brunei” in Nanking
 
 Tun Mohamed Suffian's 1983 account documents his first-hand visit to the tomb of the Bruneian king who died in Nanking in 1408 during the Yongle reign, providing a rare eyewitness description of the site and its stone figures. The article reconstructs the diplomatic and ceremonial context of the king's visit to Ming China from Chinese sources, while also recording the practical circumstances of the 1983 pilgrimage itself.

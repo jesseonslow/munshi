@@ -3,8 +3,7 @@ id: the-kingdom-of-perak-dyer
 work_id: jmbras-94-2-p169
 title: The Kingdom of Perak. . Dyer
 canonical_name: The Kingdom of Perak. . Dyer
-type: article
-article_type: translation
+type: publication
 authors:
 - J.E. De La Croix
 - C. Dyer
@@ -22,7 +21,9 @@ published: false
 source_doc: croix-the-kingdom-of-perak-d1a5cd638b75
 source_path: ../sources/croix-the-kingdom-of-perak-d1a5cd638b75.md
 summarized: true
+publication_type: translation
 ---
+
 # The Kingdom of Perak. . Dyer
 
 J.E. de la Croix, a French mining engineer who visited Perak between 1880 and 1886, produced this comprehensive account of the kingdom's mineral wealth, geology, and colonial transformation, originally published in the *Bulletin de la Société de Géographie* in 1883 and here reprinted in English translation by Colin Dyer in JMBRAS Vol. 94 (2021). The article documents Perak at the precise moment it was transitioning from a turbulent, semi-independent sultanate into a British-protected tin-producing powerhouse, combining historical narrative, geological survey, and ethnographic observation of the Chinese mining labour force.

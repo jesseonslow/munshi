@@ -3,8 +3,7 @@ id: the-alleged-discovery-of-mercury-in-malacca
 work_id: jsbras-24-1-p79
 title: The alleged discovery of mercury in Malacca
 canonical_name: The alleged discovery of mercury in Malacca
-type: article
-article_type: article
+type: publication
 authors:
 - W. Bott
 year: 1891
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-024-bott-allegeddiscoverymercury-1891-4f25ac24a88f
 source_path: ../sources/jsbras-024-bott-allegeddiscoverymercury-1891-4f25ac24a88f.md
 summarized: true
+publication_type: note
 ---
+
 # The alleged discovery of mercury in Malacca
 
 A short note by Dr. W. Bott (F.C.S., F.G.C.S., F.P.S.) reporting on the inexplicable presence of metallic mercury in laterite from St. Paul's Hill, Malacca, and offering speculative hypotheses for its origin (pp. 79–82).

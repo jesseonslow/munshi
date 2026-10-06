@@ -5,8 +5,7 @@ title: Some reptiles and amphibia from the Anamba Islands. Records of the Raffle
   Museum, No. 35
 canonical_name: Some reptiles and amphibia from the Anamba Islands. Records of the
   Raffles Museum, No. 35
-type: article
-article_type: article
+type: publication
 authors:
 - N. Smedley
 year: 1928
@@ -23,7 +22,9 @@ published: false
 source_doc: jmalayanras-104-smedley-reptilesamphibiaanamba-1928-8229f6895b8e
 source_path: ../sources/jmalayanras-104-smedley-reptilesamphibiaanamba-1928-8229f6895b8e.md
 summarized: true
+publication_type: note
 ---
+
 # Some reptiles and amphibia from the Anamba Islands. Records of the Raffles Museum, No. 35
 
 This short note by N. Smedley records the reptiles and amphibians collected from the Anamba Islands during two small expeditions in 1925 and 1928, providing the first faunal list for this group of islands in the South China Sea (p. 76).

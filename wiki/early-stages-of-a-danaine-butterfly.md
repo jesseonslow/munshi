@@ -3,8 +3,7 @@ id: early-stages-of-a-danaine-butterfly
 work_id: jmbras-1-1-p260
 title: Early stages of a Danaine butterfly
 canonical_name: Early stages of a Danaine butterfly
-type: article
-article_type: article
+type: publication
 authors:
 - C.J. Brooks
 year: 1923
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-087-brooks-earlystagesdanaine-1923-35c844263f75
 source_path: ../sources/jmalayanras-087-brooks-earlystagesdanaine-1923-35c844263f75.md
 summarized: true
+publication_type: note
 ---
+
 # Early stages of a Danaine butterfly
 
 This note by Cecil J. Brooks describes the larva and pupa of *Ideopsis daos eudora* Fruhst., a West Sumatran Danaine butterfly whose life history had previously been unknown (p. 260).

@@ -3,8 +3,7 @@ id: corrigenda-maps-omitted-from-road-or-rail
 work_id: jmbras-54-1-p111
 title: 'Corrigenda: maps omitted from ‘Road or rail?’'
 canonical_name: 'Corrigenda: maps omitted from ‘Road or rail?’'
-type: article
-article_type: article
+type: publication
 authors:
 - Amarjit Kaur
 year: 1981
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-239-corrigendaroadrailcompetition-1981-690b51298d46
 source_path: ../sources/jmbras-239-corrigendaroadrailcompetition-1981-690b51298d46.md
 summarized: true
+publication_type: note
 ---
+
 # Corrigenda: maps omitted from ‘Road or rail?’
 
 This corrigendum by Amarjit Kaur, published in JMBRAS Vol. 54, Part 1 (1981), supplies two maps and one diagram that were inadvertently omitted from her article "Road or Rail? Competition in Colonial Malaya 1909–1940" in the preceding volume (p. 111).

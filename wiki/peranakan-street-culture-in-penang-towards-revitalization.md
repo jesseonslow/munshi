@@ -3,8 +3,7 @@ id: peranakan-street-culture-in-penang-towards-revitalization
 work_id: jmbras-82-2-p157
 title: 'Peranakan street culture in Penang: towards revitalization'
 canonical_name: 'Peranakan street culture in Penang: towards revitalization'
-type: article
-article_type: article
+type: publication
 authors:
 - Tan Sooi Beng
 year: 2009
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-297-beng-peranakanstreetculture-2009-10949c90bd15
 source_path: ../sources/jmbras-297-beng-peranakanstreetculture-2009-10949c90bd15/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Peranakan street culture in Penang: towards revitalization
 
 Tan Sooi Beng (2009) examines the eclectic street performance traditions of Penang's Peranakan (Baba-Nonya) community from the early twentieth century through their post-war decline, arguing that creative, process-oriented arts projects—exemplified by the Anak-Anak Kota programme—offer a viable path toward revitalizing these traditions for younger generations.

@@ -3,8 +3,7 @@ id: notes-on-the-history-of-kedah
 work_id: jmbras-14-3-p155
 title: Notes on the history of Kedah
 canonical_name: Notes on the history of Kedah
-type: article
-article_type: article
+type: publication
 authors:
 - R.O. Winstedt
 year: 1936
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-126-winstedt-noteshistorykedah-1936-cf149b079bac
 source_path: ../sources/jmalayanras-126-winstedt-noteshistorykedah-1936-cf149b079bac/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Notes on the history of Kedah
 
 Sir Richard Winstedt's "Notes on the History of Kedah" (1936) is a supplementary study to his larger *History of Malaya*, tracing the state's political and commercial history from prehistoric archaeological evidence through the nineteenth-century Siamese conquest. The article's overarching concern is how Kedah's strategic position at the northern end of the Strait of Malacca made it a perpetual object of contention among Siamese, Portuguese, Dutch, English, Bugis, and Malay actors, none of whom could achieve lasting control. Winstedt argues that the state's geography—too far north for effective Dutch blockade, too close to India for European monopoly, and too weak to resist Siamese imperial pressure—determined its fate more than any single political decision.

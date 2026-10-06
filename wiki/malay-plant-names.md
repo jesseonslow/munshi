@@ -3,8 +3,7 @@ id: malay-plant-names
 work_id: jsbras-30-1-p31
 title: Malay plant names
 canonical_name: Malay plant names
-type: article
-article_type: article
+type: publication
 authors:
 - H.N. Ridley
 year: 1897
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-030-ridley-malayplantnames-1897-feb0ddf21579
 source_path: ../sources/jsbras-030-ridley-malayplantnames-1897-feb0ddf21579.md
 summarized: true
+publication_type: monograph
 ---
+
 # Malay plant names
 
 H. N. Ridley published "Malay Plant Names" in the Journal of the Straits Branch of the Royal Asiatic Society in 1897, providing an extensive alphabetical glossary correlating Malay vernacular names of plants with their scientific determinations for the Malay Peninsula. The work arose from Ridley's observation that existing dictionaries and vocabularies—those of Marsden, Favre, and particularly Filet—contained numerous incorrect, Sumatran, or Javanese entries that did not reflect actual Peninsular usage, and that the native names of economic plants (drugs, timbers, fruits) urgently required accurate botanical identification (pp. 31–32).

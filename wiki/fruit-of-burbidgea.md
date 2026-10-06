@@ -3,8 +3,7 @@ id: fruit-of-burbidgea
 work_id: jsbras-53-1-p175
 title: Fruit of Burbidgea
 canonical_name: Fruit of Burbidgea
-type: article
-article_type: article
+type: publication
 authors:
 - H.N. Ridley
 year: 1909
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-053-ridley-fruitburbidgea-1909-676de4493ffc
 source_path: ../sources/jsbras-053-ridley-fruitburbidgea-1909-676de4493ffc.md
 summarized: true
+publication_type: note
 ---
+
 # Fruit of Burbidgea
 
 This short note by H. N. Ridley describes the fruit and seed dispersal mechanism of *Burbidgea*, a Borneo-endemic genus in the order Scitamineae, identifying it as the only known case of wind dispersal in that order (p. 175).

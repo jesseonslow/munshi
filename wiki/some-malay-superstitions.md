@@ -3,8 +3,7 @@ id: some-malay-superstitions
 work_id: jmbras-6-4-p41
 title: Some Malay superstitions
 canonical_name: Some Malay superstitions
-type: article
-article_type: article
+type: publication
 authors:
 - Abdul Majid bin Haji Zainuddin Haji
 year: 1928
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-105-majid-malaysuperstitions-1928-0aaf0e1a3463
 source_path: ../sources/jmalayanras-105-majid-malaysuperstitions-1928-0aaf0e1a3463.md
 summarized: true
+publication_type: note
 ---
+
 # Some Malay superstitions
 
 Haji Abdul Majid (Abdul Majid bin Haji Zainuddin Haji), a Malay Muslim scholar who had performed the Hajj, published this descriptive compilation of fifty-five Malay folk beliefs and omens in the *Journal of the Malayan Branch of the Royal Asiatic Society* in 1928. The article presents a numbered catalogue of superstitions spanning dream interpretation, animal omens, bodily sensations, marriage customs, spirit beliefs, and practical folk magic, without extended analytical commentary. Its overarching value lies in recording a living body of popular belief that blends pre-Islamic animist traditions with Islamic theological reasoning, as understood and articulated by a Malay Muslim informant of the period.

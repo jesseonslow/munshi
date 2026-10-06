@@ -3,8 +3,7 @@ id: whither-berhala-the-search-for-an-idol
 work_id: jmbras-77-1-p47
 title: 'Whither Berhala?: the search for an idol'
 canonical_name: 'Whither Berhala?: the search for an idol'
-type: article
-article_type: article
+type: publication
 authors:
 - P.J. Rivers
 year: 2011
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-300-rivers-whitherberhalasearch-2011-c264d8a7fc8d
 source_path: ../sources/jmbras-300-rivers-whitherberhalasearch-2011-c264d8a7fc8d/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Whither Berhala?: the search for an idol
 
 P.J. Rivers, a retired naval officer with extensive personal experience navigating the waters of the Malay Archipelago, published this etymological and toponymic study in 2011, challenging the long-standing assumption that the Malay word *berhala* (now meaning 'idol') was the source of the Portuguese *varela* ('pagoda'). His central thesis is that the reverse occurred: the Malay *berhala* as 'idol' was a late adoption from Portuguese *varela*, while the original toponymic sense of *berhala* was 'directional'—a navigational marker for mariners.

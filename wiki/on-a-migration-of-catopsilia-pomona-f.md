@@ -3,8 +3,7 @@ id: on-a-migration-of-catopsilia-pomona-f
 work_id: jmbras-5-2-p314
 title: On a migration of Catopsilia pomona (F.
 canonical_name: On a migration of _Catopsilia pomona_ (F.)
-type: article
-article_type: article
+type: publication
 authors:
 - R. Cardon
 year: 1927
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-100-cardon-migrationcatopsiliapomona-1927-a885652daf87
 source_path: ../sources/jmalayanras-100-cardon-migrationcatopsiliapomona-1927-a885652daf87.md
 summarized: true
+publication_type: note
 ---
+
 # On a migration of Catopsilia pomona (F.
 
 This short note by the Rev. R. Cardon documents a mass migration of *Catopsilia pomona* (F.) observed in Upper Perak in May 1927, moving from north to south.

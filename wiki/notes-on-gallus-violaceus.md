@@ -3,8 +3,7 @@ id: notes-on-gallus-violaceus
 work_id: jsbras-25-1-p173
 title: Notes on Gallus violaceus
 canonical_name: Notes on _Gallus violaceus._
-type: article
-article_type: article
+type: publication
 authors:
 - H.J. Kelsall
 year: 1894
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: true
 source_doc: jsbras-025-k-notesgallusviolaceus-1894-9c0a3005c9de
 source_path: ../sources/jsbras-025-k-notesgallusviolaceus-1894-9c0a3005c9de.md
+publication_type: note
 ---
+
 # Notes on Gallus violaceus
 
 This is a brief occasional note (p. 173) signed "H. N. R." describing a spider of the genus *Ornithoscatoides* encountered on Gunong Panti, Johor, and comparing it to Forbes' *O. decipiens* from Java and Sumatra.

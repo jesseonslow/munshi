@@ -3,8 +3,7 @@ id: britain-the-tunku-and-west-new-guinea-19571963
 work_id: jmbras-83-1-p77
 title: Britain, the Tunku and West New Guinea 1957–1963
 canonical_name: Britain, the Tunku and West New Guinea 1957–1963
-type: article
-article_type: article
+type: publication
 authors:
 - N. Tarling
 year: 2010
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-298-tarling-britaintunkuwest-2010-7ff56a8c416a
 source_path: ../sources/jmbras-298-tarling-britaintunkuwest-2010-7ff56a8c416a/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Britain, the Tunku and West New Guinea 1957–1963
 
 Nicholas Tarling (2010) examines how the West New Guinea dispute between the Netherlands and Indonesia shaped British and Malayan foreign policy between 1957 and 1963, arguing that the crisis was a decisive but underappreciated catalyst for Tunku Abdul Rahman's proposal to create Greater Malaysia. Drawing primarily on British archival records, the article reconstructs the Tunku's failed mediation efforts and shows how Indonesian military build-up, facilitated by Soviet arms supplies, transformed the security calculus for both London and Kuala Lumpur.

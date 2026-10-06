@@ -5,8 +5,7 @@ title: Gold-foil burial amulets in Bali, Philippines and Borneo. S.J. O’Connor
   T. Harrisson
 canonical_name: Gold-foil burial amulets in Bali, Philippines and Borneo. S.J. O’Connor
   and T. Harrisson
-type: article
-article_type: article
+type: publication
 authors:
 - Tom Harrisson
 - S.J. O'Connor
@@ -24,7 +23,9 @@ published: false
 source_doc: jmbras-219-oconnor-goldfoilburialamulets-1971-543a8f81e06e
 source_path: ../sources/jmbras-219-oconnor-goldfoilburialamulets-1971-543a8f81e06e.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Gold-foil burial amulets in Bali, Philippines and Borneo. S.J. O’Connor and T. Harrisson
 
 Stanley J. O'Connor and Tom Harrisson published this article in 1971, presenting photographic and analytical evidence for a shared mortuary convention across maritime Southeast Asia: the placement of thin, leaf-shaped gold foil over the facial orifices of the dead. Drawing on excavated material from Bali, the Philippines, and Sarawak, with comparative parallels from China and South India, the authors argue that the practice represents a persistent ritual tradition spanning at least 1,700 years, whose ultimate origin—indigenous or externally derived—remains unresolved.

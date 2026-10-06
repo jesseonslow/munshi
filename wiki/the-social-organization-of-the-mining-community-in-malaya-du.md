@@ -5,8 +5,7 @@ title: The social organization of the mining community in Malaya during the depr
   1929–1933
 canonical_name: The social organization of the mining community in Malaya during the
   depression 1929–1933
-type: article
-article_type: article
+type: publication
 authors:
 - A. Azmi Khalid
 year: 1992
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-263-khalid-socialorganizationmining-1992-79b674101607
 source_path: ../sources/jmbras-263-khalid-socialorganizationmining-1992-79b674101607.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The social organization of the mining community in Malaya during the depression 1929–1933
 
 A. Azmi Abdul Khalid's 1992 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* examines how the Great Depression (1929–1933) restructured the social fabric of the tin-mining community in the Kinta Valley, Perak, arguing that the interplay of collapsing tin prices, the tin-restriction scheme, restricted immigration, and the colonial government's ad hoc repatriation policy produced a cascade of coping strategies—vegetable gardening, *dulang* washing, and ore theft—that exposed the fundamental weaknesses in both industrial and governmental labour management.

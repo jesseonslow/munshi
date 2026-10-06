@@ -3,8 +3,7 @@ id: on-the-flowering-of-barringtonia-racemosa
 work_id: jsbras-41-1-p125
 title: On the flowering of Barringtonia racemosa
 canonical_name: On the flowering of _Barringtonia racemosa._
-type: article
-article_type: article
+type: publication
 authors:
 - H.N. Ridley
 year: 1904
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-041-ridley-floweringbarringtoniaracemosa-1904-4dfb7dfc3308
 source_path: ../sources/jsbras-041-ridley-floweringbarringtoniaracemosa-1904-4dfb7dfc3308.md
 summarized: true
+publication_type: note
 ---
+
 # On the flowering of Barringtonia racemosa
 
 This short note by H. N. Ridley documents observations on the nocturnal moth pollination of *Barringtonia racemosa* and extends to related pollination observations on other species in the Botanic Gardens jungle.

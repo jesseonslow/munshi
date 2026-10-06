@@ -3,8 +3,7 @@ id: traditional-indian-medicine-in-malaysia
 work_id: jmbras-51-1-p77
 title: Traditional Indian medicine in Malaysia
 canonical_name: Traditional Indian medicine in Malaysia
-type: article
-article_type: article
+type: publication
 authors:
 - F.C. Colley
 year: 1978
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-233-colley-traditionalindianmedicine-1978-36d5719cd5dc
 source_path: ../sources/jmbras-233-colley-traditionalindianmedicine-1978-36d5719cd5dc/references.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Traditional Indian medicine in Malaysia
 
 F.C. Colley's 1978 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* surveys the traditions, practices, and material culture of Indian medicine as it was maintained by the Tamil and broader Indian communities in Malaysia. Drawing on classical Sanskrit and Tamil medical texts, ethnographic observation, and the 1970 census data on community groups, Colley situates Indian traditional medicine within the broader landscape of plural medical systems in Peninsular Malaysia, arguing that it persisted as a living folk practice even as modern allopathic medicine became increasingly accessible.

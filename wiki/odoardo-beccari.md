@@ -3,8 +3,7 @@ id: odoardo-beccari
 work_id: jsbras-83-1-p166
 title: Odoardo Beccari
 canonical_name: Odoardo Beccari
-type: article
-article_type: article
+type: publication
 authors:
 - I.H. Burkill
 - J.C. Moulton
@@ -22,7 +21,9 @@ published: false
 source_doc: jsbras-083-burkill-odoardobeccari-1921-a2bd2f157970
 source_path: ../sources/jsbras-083-burkill-odoardobeccari-1921-a2bd2f157970.md
 summarized: true
+publication_type: obituary
 ---
+
 # Odoardo Beccari
 
 This 1921 obituary by I.H. Burkill and J.C. Moulton, published in the *Journal of the Straits Branch of the Royal Asiatic Society*, commemorates the Italian naturalist Odoardo Beccari (1843–1920), whose four decades of fieldwork across the Malay Archipelago, New Guinea, and Eritrea produced one of the most extensive natural history collections of the nineteenth century. The piece serves as both a biographical account and a historiographical assessment of Beccari's place in the scientific exploration of Malesia.

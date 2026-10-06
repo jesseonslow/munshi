@@ -3,8 +3,7 @@ id: history-of-the-malay-regiment-19331942
 work_id: jmbras-38-1-p199
 title: History of the Malay Regiment 1933–1942
 canonical_name: History of the Malay Regiment 1933–1942
-type: article
-article_type: article
+type: publication
 authors:
 - Dol Ramli
 year: 1965
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-207-ramli-historymalayregiment-1965-9e474ee1ceb9
 source_path: ../sources/jmbras-207-ramli-historymalayregiment-1965-9e474ee1ceb9.md
 summarized: true
+publication_type: journal_article
 ---
+
 # History of the Malay Regiment 1933–1942
 
 Dol Ramli's 1965 article traces the formation, expansion, and wartime destruction of the Malay Regiment from its inception at Port Dickson in March 1933 to the fall of Singapore in February 1942. The overarching thesis is that the Regiment fulfilled a decades-long political aspiration of the Malay rulers and their subjects to share responsibility for the defence of their homeland, and that despite being a young, partially-trained force at the outbreak of hostilities, it acquitted itself with a distinction that became foundational to the Regiment's subsequent tradition.

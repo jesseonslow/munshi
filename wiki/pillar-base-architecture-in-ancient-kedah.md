@@ -3,8 +3,7 @@ id: pillar-base-architecture-in-ancient-kedah
 work_id: jmbras-47-1-p66
 title: Pillar base architecture in ancient Kedah
 canonical_name: Pillar base architecture in ancient Kedah
-type: article
-article_type: article
+type: publication
 authors:
 - B.A.V. Peacock
 year: 1974
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-225-peacock-pillarbasearchitecture-1974-b77affce87a2
 source_path: ../sources/jmbras-225-peacock-pillarbasearchitecture-1974-b77affce87a2.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Pillar base architecture in ancient Kedah
 
 B.A.V. Peacock's 1974 article, published in the *Journal of the Malaysian Branch of the Royal Asiatic Society*, challenges the prevailing reconstruction of Kedah Site No. 8 (Chandi Bukit Batu Pahat) as a massive stone sanctuary tower, arguing instead that the building was a low-walled sanctuary supporting a multi-tiered wooden roof of the *meru* type. Working from a close study of the pillar bases preserved *in situ* at the site and drawing on comparative evidence from Sumatra, Bali, and East Javanese temple reliefs, Peacock demonstrates that the structural and foundation evidence is incompatible with the stone tower hypothesis proposed by H.A. Lamb in 1960.

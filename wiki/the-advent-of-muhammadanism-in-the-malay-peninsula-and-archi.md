@@ -4,8 +4,7 @@ work_id: jsbras-77-1-p17
 title: The advent of Muhammadanism in the Malay Peninsula and Archipelago
 canonical_name: The advent of Muhammadanism in the Malay Peninsula and Archipelago.
   . f
-type: article
-article_type: article
+type: publication
 authors:
 - R.O. Winstedt
 year: 1917
@@ -22,7 +21,9 @@ published: false
 source_doc: jsbras-077-winstedt-adventmuhammadanismmalay-1917-e684a54b5d4f
 source_path: ../sources/jsbras-077-winstedt-adventmuhammadanismmalay-1917-e684a54b5d4f.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The advent of Muhammadanism in the Malay Peninsula and Archipelago
 
 R. O. Winstedt, a British colonial administrator and Malay scholar serving in the Straits Settlements, published this survey in 1917 tracing the gradual penetration of Islam across the Malay Peninsula and Archipelago from the earliest Arab trading contacts in the 10th century through the consolidation of Muslim polities in the 17th century. The article's overarching thesis is that Islam spread not through a single missionary wave but through a slow, multi-generational process driven by trade, intermarriage, royal conversion, and the political leverage of Muslim courts, with the succession of great trading ports—Kedah, Pasai, Malacca, Acheen—serving as the relay stations for the faith's advance.

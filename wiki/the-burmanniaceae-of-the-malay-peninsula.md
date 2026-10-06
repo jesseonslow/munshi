@@ -3,8 +3,7 @@ id: the-burmanniaceae-of-the-malay-peninsula
 work_id: jsbras-22-1-p331
 title: The Burmanniaceae of the Malay Peninsula
 canonical_name: The Burmanniaceae of the Malay Peninsula
-type: article
-article_type: article
+type: publication
 authors:
 - H.N. Ridley
 year: 1890
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-022-ridley-burmanniacemalaypeninsula-1890-920d6c4bdbec
 source_path: ../sources/jsbras-022-ridley-burmanniacemalaypeninsula-1890-920d6c4bdbec.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The Burmanniaceae of the Malay Peninsula
 
 H.N. Ridley, then a young botanist attached to the Singapore Botanic Gardens, published this floristic treatment of the Burmanniaceae in the *Journal of the Straits Branch of the Royal Asiatic Society* in 1890. Working from field collections in Singapore, Selangor, Malacca, and Kedah, Ridley provides the first systematic account of the family in the Malay Peninsula, describing two new species and resolving taxonomic confusion surrounding the saprophytic genera. The article situates the Burmanniaceae within the broader context of Malayan plant geography, arguing for their closest affinity with the Liliaceae and Taccaceae rather than the Orchidaceae with which they had previously been grouped.

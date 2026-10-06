@@ -3,8 +3,7 @@ id: hindu-image-from-sarawak
 work_id: jsbras-85-1-p210
 title: Hindu image from Sarawak
 canonical_name: Hindu image from Sarawak
-type: article
-article_type: article
+type: publication
 authors:
 - J.C. Moulton
 year: 1922
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-085-moulton-hinduimagesarawak-1922-3ae1c6d3387f
 source_path: ../sources/jsbras-085-moulton-hinduimagesarawak-1922-3ae1c6d3387f.md
 summarized: true
+publication_type: note
 ---
+
 # Hindu image from Sarawak
 
 This brief note by J. C. Moulton documents the 1921 discovery of a stone image of Ganesa at Limbang, Sarawak, and presents expert opinions on its dating and iconographic features.

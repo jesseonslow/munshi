@@ -5,8 +5,7 @@ title: Ceremonial opening of a new Chinese temple at Kandang, Malacca, in Decemb
   1938
 canonical_name: Ceremonial opening of a new Chinese temple at Kandang, Malacca, in
   December, 1938
-type: article
-article_type: article
+type: publication
 authors:
 - S.M. Middlebrook
 year: 1939
@@ -23,7 +22,9 @@ published: false
 source_doc: jmalayanras-134-middlebrook-ceremonialopeningnew-1939-e4ea73c469c0
 source_path: ../sources/jmalayanras-134-middlebrook-ceremonialopeningnew-1939-e4ea73c469c0.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Ceremonial opening of a new Chinese temple at Kandang, Malacca, in December, 1938
 
 S.M. Middlebrook, a Malayan Civil Service officer, published this first-hand observational account in 1939 describing the two-week Cho Cheo (praying) ceremony marking the dedication of a new temple to Dato Choo Ong Yah at Kandang, Malacca. The article documents one of the oldest continuous Chinese religious traditions in the Straits Settlements, arguing that the Five Brothers worship system and its associated Wangkang cleansing rite represent a distinctive Malayan adaptation of Hokkien folk religion that has no parallel elsewhere in the Malay Peninsula.

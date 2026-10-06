@@ -3,8 +3,7 @@ id: study-of-local-singapore-tides
 work_id: jmbras-15-2-p153
 title: Study of local Singapore tides
 canonical_name: Study of local Singapore tides
-type: article
-article_type: article
+type: publication
 authors:
 - G.F. Leechman
 year: 1937
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-129-leechman-studylocalsingapore-1937-4ca6c2c44319
 source_path: ../sources/jmalayanras-129-leechman-studylocalsingapore-1937-4ca6c2c44319.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Study of local Singapore tides
 
 G.F. Leechman, writing in 1937, produced a practical navigational analysis of tidal streams in the Port of Singapore, arguing that the moon's declination effect is disproportionately important at equatorial latitudes and that a simple two-curve method can predict stream strength and direction with sufficient accuracy for operational planning. The article combines theoretical tidal mechanics with empirical observations to serve mariners operating in the strait.

@@ -3,8 +3,7 @@ id: the-evolution-of-malay-spelling
 work_id: jsbras-36-1-p75
 title: The evolution of Malay spelling
 canonical_name: The evolution of Malay spelling
-type: article
-article_type: article
+type: publication
 authors:
 - W.G. Shellabear
 year: 1901
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-036-shellabear-evolutionmalayspelling-1901-dab269153672
 source_path: ../sources/jsbras-036-shellabear-evolutionmalayspelling-1901-dab269153672.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The evolution of Malay spelling
 
 Rev. W. G. Shellabear, writing from colonial Singapore in 1901, undertook a historical investigation into the evolution of Malay orthography from its Arabic origins through the 17th century to contemporary practice, arguing that spelling reform should follow the natural trajectory of native development rather than impose European scientific systems. His central thesis is that the remarkable uniformity of 17th-century Malay manuscripts across the Archipelago reflects a fixed standard inherited directly from Arabic orthography, and that the gradual departures from that standard represent a deliberate and progressive movement toward legibility without vowel points.

@@ -3,8 +3,7 @@ id: dos-and-datos-dialogue-on-the-adat-perpateh
 work_id: jmbras-73-2-p31
 title: 'DO’s and Dato’s: dialogue on the adat perpateh'
 canonical_name: 'DO’s and Dato’s: dialogue on the _adat perpateh._'
-type: article
-article_type: article
+type: publication
 authors:
 - J.M. Gullick
 year: 2000
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-279-gullick-dosdatosdialogue-2000-fbdbd964357f
 source_path: ../sources/jmbras-279-gullick-dosdatosdialogue-2000-fbdbd964357f/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # DO’s and Dato’s: dialogue on the adat perpateh
 
 J.M. Gullick, a former British colonial administrator in Malaya, published this article in 2000 examining the evolving interaction between British Residents and the Malay ruling elite of Negri Sembilan from the 1870s through the mid-twentieth century. His overarching thesis is that the exigencies of colonial rule—applied directly or in support of Islamic legal principles—progressively shaped and sometimes distorted the *adat perpatih*, the Minangkabau-derived customary system governing political succession and land tenure in the state (p. 31).

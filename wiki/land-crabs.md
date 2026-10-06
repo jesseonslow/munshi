@@ -3,8 +3,7 @@ id: land-crabs
 work_id: jmbras-38-2-p43
 title: Land crabs
 canonical_name: Land crabs
-type: article
-article_type: article
+type: publication
 authors:
 - D.S. Johnson
 year: 1965
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-208-johnson-landcrabs-1965-b8f96d56e246
 source_path: ../sources/jmbras-208-johnson-landcrabs-1965-b8f96d56e246/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Land crabs
 
 D.S. Johnson's "Land Crabs" (1965) is a comprehensive review of terrestrial decapod crustaceans in the Indo-West-Pacific region, published as a contribution to a memorial volume honouring C.A. Gibson-Hill. The article synthesizes scattered taxonomic, behavioural, and physiological literature to present a unified account of how crabs, hermit-crabs, and their allies have adapted to life on land, drawing substantially on Gibson-Hill's own field observations from Christmas Island, Pulau Jarak, and the Cocos-Keeling group.

@@ -3,8 +3,7 @@ id: kuala-lumpur-18801895
 work_id: jmbras-28-4-p1
 title: Kuala Lumpur, 1880–1895
 canonical_name: Kuala Lumpur, 1880–1895
-type: article
-article_type: article
+type: publication
 authors:
 - J.M. Gullick
 year: 1955
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: true
 source_doc: jmalayanras-172-gullick-kualalumpur18801895-1955-e01d52534d3e
 source_path: ../sources/appendix.md
+publication_type: monograph
 ---
+
 # Kuala Lumpur, 1880–1895
 
 J.M. Gullick's 1955 monograph traces the transformation of Kuala Lumpur from a filthy, fire-prone Chinese mining village under Capitan China Yap Ah Loy into a multi-ethnic colonial capital with functioning municipal institutions, by 1895. The central argument is that this transformation was driven not by a single master plan but by the interaction between emerging civic needs—health, transport, education, recreation—and a shifting pattern of leadership that moved from the personal autocracy of Ah Loy to a dispersed, professionalised bureaucracy in which Asian notables served as interpreters between British administrative methods and local community expectations (pp. 1–2, 125–131).

@@ -3,8 +3,7 @@ id: rembau-one-of-the-nine-states-its-history-constitution-and-c
 work_id: jsbras-56-1-p1
 title: 'Rembau, one of the nine states: its history, constitution and customs'
 canonical_name: 'Rembau, one of the nine states: its history, constitution and customs'
-type: article
-article_type: article
+type: publication
 authors:
 - W.H. MacKray
 - C.W.C. Parr
@@ -25,7 +24,9 @@ summarized: true
 source_mismatch: false
 source_doc: jsbras-056-parr-rembauonenine-1910-912f6c1c64fb
 source_path: ../sources/index.md
+publication_type: journal_article
 ---
+
 # Rembau, one of the nine states: its history, constitution and customs
 
 C.W.C. Parr and W.H. Mackray published this comprehensive monograph in 1910 in the Journal of the Straits Branch of the Royal Asiatic Society (Vol. 56), providing the most detailed constitutional and historical account of Rembau, one of the original nine states of the Negri Sembilan confederacy. The work traces the state from its aboriginal and Menangkabau origins through successive periods of Johor, Bugis, Menangkabau, and British suzerainty, and offers an exhaustive analysis of its matrilineal tribal constitution, property customs, and marriage law.

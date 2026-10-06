@@ -3,8 +3,7 @@ id: coral-as-building-material-in-late-portuguese-and-early-dutc
 work_id: jmbras-70-1-p97
 title: Coral as building material in late Portuguese and early Dutch Malacca
 canonical_name: Coral as building material in late Portuguese and early Dutch Malacca
-type: article
-article_type: article
+type: publication
 authors:
 - T.T. Khoo
 year: 1997
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-273-khoo-coralbuildingmaterial-1997-206b68c08e63
 source_path: ../sources/jmbras-273-khoo-coralbuildingmaterial-1997-206b68c08e63/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Coral as building material in late Portuguese and early Dutch Malacca
 
 T.T. Khoo, a geologist at the University of Malaya, published this article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* in 1997, examining the use of coralline material in the construction of St. Paul's Church, the Santiago Gate, and associated retaining walls on St. Paul's Hill, Malacca. Drawing on radiocarbon dating, petrographic analysis of construction materials, and contemporary Portuguese and Dutch documents, Khoo argues that coral served as aggregate in concrete, as shaped building stone, and as a source of lime during the late Portuguese and early Dutch periods, and that the material evidence supports a primarily Portuguese origin for the Santiago Gate with only superficial Dutch modification.

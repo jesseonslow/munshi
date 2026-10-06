@@ -3,8 +3,7 @@ id: note-on-the-kelantan-rejang
 work_id: jmbras-9-1-p139
 title: Note on the Kelantan rejang
 canonical_name: Note on the Kelantan _rejang._
-type: article
-article_type: article
+type: publication
 authors:
 - A. Rentse
 year: 1931
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-111-rentse-notekelantanrejang-1931-802401186bd9
 source_path: ../sources/jmalayanras-111-rentse-notekelantanrejang-1931-802401186bd9.md
 summarized: true
+publication_type: note
 ---
+
 # Note on the Kelantan rejang
 
 A short note by Anker Rentse documenting a traditional Kelantanese almanac (rejang) text, transcribed from an old book attributed to Nik Wan Hamad, a former secretary to Sultan Muhammad IV of Kelantan.

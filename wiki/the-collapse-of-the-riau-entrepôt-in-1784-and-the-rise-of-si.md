@@ -3,8 +3,7 @@ id: the-collapse-of-the-riau-entrepôt-in-1784-and-the-rise-of-si
 work_id: jmbras-96-2-p29
 title: The Collapse of the Riau Entrepôt in 1784 and the Rise of Singapore
 canonical_name: The Collapse of the Riau Entrepôt in 1784 and the Rise of Singapore
-type: article
-article_type: article
+type: publication
 authors:
 - Khoo Chun Yok
 year: 2023
@@ -18,6 +17,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: journal_article
 ---
 
 # The Collapse of the Riau Entrepôt in 1784 and the Rise of Singapore

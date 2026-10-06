@@ -3,8 +3,7 @@ id: magindano
 work_id: jmbras-29-1-p184
 title: Magindano
 canonical_name: Magindano
-type: article
-article_type: article
+type: publication
 authors:
 - C.A. Gibson-Hill
 year: 1956
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-173-gibsonhill-magindano-1956-55efc47d9af2
 source_path: ../sources/jmalayanras-173-gibsonhill-magindano-1956-55efc47d9af2.md
 summarized: true
+publication_type: note
 ---
+
 # Magindano
 
 C.A. Gibson-Hill's brief note traces the historical usage of the obsolete variant "Magindano" for the Philippine island Mindanao, identifying Captain Thomas Forrest as its likely originator.

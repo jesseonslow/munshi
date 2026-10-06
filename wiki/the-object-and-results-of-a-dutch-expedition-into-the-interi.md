@@ -5,8 +5,7 @@ title: The object and results of a Dutch expedition into the interior of Sumatra
   the years 1877, 1878 and 1879
 canonical_name: The object and results of a Dutch expedition into the interior of
   Sumatra in the years 1877, 1878 and 1879
-type: article
-article_type: article
+type: publication
 authors:
 - Hasselt M.A.L. van
 year: 1885
@@ -23,7 +22,9 @@ published: false
 source_doc: jsbras-015-hasselt-objectresultsdutch-1885-0b5f92de7963
 source_path: ../sources/jsbras-015-hasselt-objectresultsdutch-1885-0b5f92de7963.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The object and results of a Dutch expedition into the interior of Sumatra in the years 1877, 1878 and 1879
 
 M. A. L. van Hasselt, a Dutch colonial *Controleur* at Soepajang, published this account in 1885 of the Netherlands Geographical Society's scientific expedition into the interior of Sumatra, which he led between February 1877 and March 1879. The article, translated from French by R. N. Bland, was originally delivered at the Third International Geographical Congress in Venice in September 1881 and presents the expedition's geographical, zoological, ethnographical, and linguistic results for the previously unexplored central highlands and river systems of the island.

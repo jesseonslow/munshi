@@ -3,8 +3,7 @@ id: governors-houses
 work_id: jmbras-71-1-p123
 title: Governors’ houses
 canonical_name: Governors’ houses. . f
-type: article
-article_type: article
+type: publication
 authors:
 - J.M. Gullick
 year: 1998
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-274-gullick-governorshouses-1998-c220d1eb8318
 source_path: ../sources/jmbras-274-gullick-governorshouses-1998-c220d1eb8318.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Governors’ houses
 
 J.M. Gullick's 1998 article traces the origins, construction, and subsequent fates of official residences for British governors and high commissioners in Penang, Kuala Lumpur, and Kuala Kangsar, arguing that these buildings serve as material evidence for understanding the shifting administrative hierarchies, economic fortunes, and social world of the British colonial professional class in Malaya from the early nineteenth century through the 1930s.

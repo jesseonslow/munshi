@@ -3,8 +3,7 @@ id: petronas-oil-money-and-malaysias-national-sovereignty
 work_id: jmbras-94-1-p119
 title: PETRONAS, Oil Money, and Malaysia's National Sovereignty
 canonical_name: PETRONAS, Oil Money, and Malaysia's National Sovereignty
-type: article
-article_type: article
+type: publication
 authors:
 - Shakila Yacob
 year: 2021
@@ -27,7 +26,9 @@ keywords:
 source_doc: yacob-petronas-oil-money-6a24f7a3f5b7
 source_path: ../sources/yacob-petronas-oil-money-6a24f7a3f5b7/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # PETRONAS, Oil Money, and Malaysia's National Sovereignty
 
 ## Abstract

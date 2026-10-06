@@ -3,8 +3,7 @@ id: the-romance-of-tok-janggut-a-kelantan-folk-hero
 work_id: jmbras-72-2-p49
 title: 'The romance of Tok Janggut: a Kelantan folk hero'
 canonical_name: 'The romance of Tok Janggut: a Kelantan folk hero'
-type: article
-article_type: article
+type: publication
 authors:
 - Cheah Boon Kheng
 - Cheu Hock Tong
@@ -22,7 +21,9 @@ published: false
 source_doc: jmbras-277-kheng-romancetokjanggut-1999-8ec8e1be0551
 source_path: ../sources/jmbras-277-kheng-romancetokjanggut-1999-8ec8e1be0551/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The romance of Tok Janggut: a Kelantan folk hero
 
 Cheah Boon Kheng's 1999 article, published in the John M. Gullick Festschrift of the JMBRAS, examines the Kelantanese folk legend of Tok Janggut — the 1915 rebel who defied both the Sultan of Kelantan and the British colonial administration — and argues that the legend functions as a subversive text through which ordinary Kelantanese people injected anti-royalty and lese-majesty elements to challenge the official palace and British narratives of the rebellion. The article traces the legend's textual history across multiple published versions, revealing how political pressure from the Kelantan palace shaped what could and could not be written about the event.

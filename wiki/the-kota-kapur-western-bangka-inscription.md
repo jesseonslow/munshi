@@ -3,8 +3,7 @@ id: the-kota-kapur-western-bangka-inscription
 work_id: jsbras-64-1-p69
 title: The Kota Kapur (Western Bangka) inscription
 canonical_name: The Kota Kapur (Western Bangka) inscription
-type: article
-article_type: article
+type: publication
 authors:
 - C.O. Blagden
 year: 1913
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-064-blagden-kotakapurwestern-1913-32a67dc108c7
 source_path: ../sources/jsbras-064-blagden-kotakapurwestern-1913-32a67dc108c7.md
 summarized: true
+publication_type: note
 ---
+
 # The Kota Kapur (Western Bangka) inscription
 
 This short note by C. O. Blagden discusses the Kota Kapur inscription from Western Bangka, an early Indonesian stone document dated to approximately A.D. 686–7, which ranks among the oldest Indonesian records known at the time of writing (p. 69).

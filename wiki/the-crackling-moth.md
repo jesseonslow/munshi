@@ -3,8 +3,7 @@ id: the-crackling-moth
 work_id: jsbras-50-1-p109
 title: The crackling moth
 canonical_name: The crackling moth
-type: article
-article_type: article
+type: publication
 authors:
 - H.N. Ridley
 year: 1908
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-050-ridley-cracklingmoth-1908-012635407acd
 source_path: ../sources/jsbras-050-ridley-cracklingmoth-1908-012635407acd.md
 summarized: true
+publication_type: note
 ---
+
 # The crackling moth
 
 This short note by H. N. Ridley describes the distinctive nocturnal behaviour and appearance of a black moth, likely *Nyctipho hieroglyphica*, whose chasing flight produces a crackling sound audible along roads at dusk (p. 109).

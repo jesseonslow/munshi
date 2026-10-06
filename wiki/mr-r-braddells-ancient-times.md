@@ -3,8 +3,7 @@ id: mr-r-braddells-ancient-times
 work_id: jmbras-15-3-p142
 title: Mr. R. Braddell’s ancient times
 canonical_name: Mr. R. Braddell’s ancient times
-type: article
-article_type: article
+type: publication
 authors:
 - R.O. Winstedt
 year: 1937
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-130-winstedt-mrbraddellsancient-1937-711a6cb52bfb
 source_path: ../sources/jmalayanras-130-winstedt-mrbraddellsancient-1937-711a6cb52bfb.md
 summarized: true
+publication_type: note
 ---
+
 # Mr. R. Braddell’s ancient times
 
 R.O. Winstedt's brief note is a point-by-point rebuttal of Roland Braddell's "Study of Ancient Times in the Malay Peninsula" (JMBRAS Vol. XIV, Part III), defending Winstedt's own interpretations in *A History of Malaya* and *A History of Johore*.

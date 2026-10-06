@@ -3,8 +3,7 @@ id: some-malay-mystics-heretical-and-orthodox
 work_id: jmbras-1-2-p312
 title: Some Malay mystics, heretical and orthodox
 canonical_name: Some Malay mystics, heretical and orthodox
-type: article
-article_type: article
+type: publication
 authors:
 - R.O. Winstedt
 year: 1923
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-088-winstedt-malaymysticsheretical-1923-dae899b8f365
 source_path: ../sources/jmalayanras-088-winstedt-malaymysticsheretical-1923-dae899b8f365.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Some Malay mystics, heretical and orthodox
 
 R.O. Winstedt's 1923 article, published in the second issue of the inaugural volume of the *Journal of the Malayan Branch of the Royal Asiatic Society*, surveys the doctrines of three seventeenth-century Islamic mystics associated with northern Sumatra — the heretical Hamzah Fansuri and Shams al-Din of Pasai, and the orthodox Nur al-Din of Aceh — drawing on a chapter of H. Kraemer's Leiden doctoral thesis to trace the Neo-Platonic philosophical architecture beneath their Malay-language poetry and treatises. The article's central concern is the theological fault line between a panentheistic mysticism that collapses the distinction between God's essence and the created world, and an orthodox position that preserves divine transcendence while acknowledging the world's dependent existence.

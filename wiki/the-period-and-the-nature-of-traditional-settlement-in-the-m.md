@@ -4,8 +4,7 @@ work_id: jmbras-43-2-p81
 title: The period and the nature of “traditional” settlement in the Malay Peninsula
 canonical_name: The period and the nature of “traditional” settlement in the Malay
   Peninsula
-type: article
-article_type: article
+type: publication
 authors:
 - Zaharah binti Hj. Mahmud
 year: 1970
@@ -22,7 +21,9 @@ published: false
 source_doc: jmbras-218-mahmud-periodnaturetraditional-1970-09a46ae9975a
 source_path: ../sources/jmbras-218-mahmud-periodnaturetraditional-1970-09a46ae9975a.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The period and the nature of “traditional” settlement in the Malay Peninsula
 
 Zaharah binti Hj. Mahmud (1970) examines the period and nature of "traditional" settlement in the Malay Peninsula, defined as the span between the termination of the Indianised millenia and the onset of widespread European colonisation (approximately 10th–18th centuries A.D.). Her overarching thesis is that the centuries between the decline of Indianised polities and the rise of the Melaka Sultanate were not a historical "limbo" but a period of active and continuous development of wet rice cultivation and the accompanying social, economic, and political institutions that constitute the "traditional" Malay way of life.

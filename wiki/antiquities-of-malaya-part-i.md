@@ -3,8 +3,7 @@ id: antiquities-of-malaya-part-i
 work_id: jmbras-2-3-p289
 title: Antiquities of Malaya. Part I
 canonical_name: Antiquities of Malaya. Part I
-type: article
-article_type: article
+type: publication
 authors:
 - R.J. Wilkinson
 year: 1924
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-092-wilkinson-antiquitiesmalayapart-1924-d93ab84625be
 source_path: ../sources/jmalayanras-092-wilkinson-antiquitiesmalayapart-1924-d93ab84625be.md
 summarized: true
+publication_type: note
 ---
+
 # Antiquities of Malaya. Part I
 
 R.J. Wilkinson's "Antiquities of Malaya. Part I" is a brief guide to potential archaeological sites in Singapore and Johore, drawing primarily on G.P. Rouffaer's 1921 papers in *Bijdragen* and Wilkinson's own field observations.

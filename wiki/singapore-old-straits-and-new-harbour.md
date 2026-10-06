@@ -3,8 +3,7 @@ id: singapore-old-straits-and-new-harbour
 work_id: jsbras-60-1-p25
 title: Singapore old Straits and new harbour
 canonical_name: Singapore old Straits and new harbour
-type: article
-article_type: article
+type: publication
 authors:
 - W.D. Barnes
 year: 1911
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-060-barnes-singaporeoldstraits-1911-f740698efc71
 source_path: ../sources/jsbras-060-barnes-singaporeoldstraits-1911-f740698efc71.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Singapore old Straits and new harbour
 
 W.D. Barnes published this article in 1911 to correct two persistent local misconceptions about Singapore's maritime geography: that the Selat Tebrau constituted the "old Straits of Singapore," and that Admiral Keppel discovered the passage through New Harbour. Drawing on a chronological sequence of primary sources spanning nearly five centuries, Barnes demonstrates that the "old Straits of Singapore" were in fact the waterway now known as Keppel Harbour, and that it had been in continuous use by European navigators long before Keppel's arrival in 1848.

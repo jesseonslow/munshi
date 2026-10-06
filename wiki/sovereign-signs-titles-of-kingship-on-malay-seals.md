@@ -3,8 +3,7 @@ id: sovereign-signs-titles-of-kingship-on-malay-seals
 work_id: jmbras-93-1-p1
 title: 'Sovereign signs: titles of kingship on Malay seals'
 canonical_name: 'Sovereign signs: titles of kingship on Malay seals'
-type: article
-article_type: article
+type: publication
 authors:
 - A.T. Gallop
 year: 2020
@@ -30,7 +29,9 @@ keywords:
 source_mismatch: false
 source_doc: jmbras-318-gallop-sovereignsigns-2020-f2012eff56f8
 source_path: ../sources/references.md
+publication_type: journal_article
 ---
+
 # Sovereign signs: titles of kingship on Malay seals
 
 ## Abstract

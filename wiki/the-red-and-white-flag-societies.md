@@ -3,8 +3,7 @@ id: the-red-and-white-flag-societies
 work_id: jmbras-3-1-p57
 title: The red and white flag societies
 canonical_name: The red and white flag societies
-type: article
-article_type: article
+type: publication
 authors:
 - W.G. Stirling
 year: 1925
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-093-stirling-redwhiteflag-1925-de8fef53118f
 source_path: ../sources/jmalayanras-093-stirling-redwhiteflag-1925-de8fef53118f.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The red and white flag societies
 
 W.G. Stirling's 1925 article in the *Journal of the Malayan Branch of the Royal Asiatic Society* examines the Red and White Flag Societies, Malay-dominated secret organizations that operated in the Straits Settlements and Native States during the late nineteenth and early twentieth centuries. Stirling's central thesis is that these societies were not independent Malay movements but deliberate instruments created by the Chinese Ghee Hin and Ghee Hok Triad Societies to extend their reach into Malay administrative and police structures.

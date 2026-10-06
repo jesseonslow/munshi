@@ -5,8 +5,7 @@ title: 'The evolution of land administration in the Malay states: a survey of Br
   inspired changes'
 canonical_name: 'The evolution of land administration in the Malay states: a survey
   of British inspired changes'
-type: article
-article_type: article
+type: publication
 authors:
 - H.E. Wilson
 year: 1975
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-227-wilson-evolutionlandadministration-1975-f352349c0458
 source_path: ../sources/jmbras-227-wilson-evolutionlandadministration-1975-f352349c0458.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The evolution of land administration in the Malay states: a survey of British inspired changes
 
 H. E. Wilson's 1975 survey traces the transformation of Malay land tenure from indigenous customary systems to British-inspired statutory frameworks, using the Krian district of Perak as a long-term case study. The article argues that the introduction of the Torrens title system and associated legislation, driven primarily by colonial revenue imperatives, fundamentally altered the social and economic significance of land in the Malay States, converting a usufructuary right into a capital asset and setting in motion processes of fragmentation that persisted into the post-war period.

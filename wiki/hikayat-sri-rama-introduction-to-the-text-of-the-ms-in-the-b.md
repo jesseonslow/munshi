@@ -5,8 +5,7 @@ title: 'Hikayat Sri Rama: introduction to the text of the Ms. in the Bodleian Li
   at Oxford'
 canonical_name: _Hikayat Sri Rama:_ introduction to the text of the Ms. in the Bodleian
   Library at Oxford
-type: article
-article_type: article
+type: publication
 authors:
 - W.G. Shellabear
 year: 1917
@@ -23,7 +22,9 @@ published: false
 source_doc: jsbras-070-shellabear-hikayatsrirama-1917-9ae19f0fcdd9
 source_path: ../sources/jsbras-070-shellabear-hikayatsrirama-1917-9ae19f0fcdd9.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Hikayat Sri Rama: introduction to the text of the Ms. in the Bodleian Library at Oxford
 
 W.G. Shellabear's 1917 introduction to the Bodleian Library manuscript of the *Hikayat Sri Rama* establishes that this text—acquired by Archbishop Laud in 1633 and probably the oldest Malay book in existence—is not a translation of the Sanskrit *Ramayana* but a distinct literary work that shares its characters while diverging substantially in narrative structure, theology, and detail. Published in the *Journal of the Straits Branch of the Royal Asiatic Society* (Vol. 70), the article serves as the critical apparatus for the full text printed in the following number (No. 71).

@@ -5,8 +5,7 @@ title: Magala – a series of Neolithic and Metal Age burial grottos at Sekaloh,
   Sarawak
 canonical_name: Magala – a series of Neolithic and Metal Age burial grottos at Sekaloh,
   Niah, Sarawak
-type: article
-article_type: article
+type: publication
 authors:
 - Harrisson B
 - Tom Harrisson
@@ -24,7 +23,9 @@ published: false
 source_doc: jmbras-214-harrisson-magalaaseriesneolithic-1968-4bb287e99bfc
 source_path: ../sources/jmbras-214-harrisson-magalaaseriesneolithic-1968-4bb287e99bfc/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Magala – a series of Neolithic and Metal Age burial grottos at Sekaloh, Niah, Sarawak
 
 Barbara and Tom Harrisson published this article in 1968 in the *Journal of the Malaysian Branch of the Royal Asiatic Society* (Vol. 41, No. 2), reporting on the 1964 Sarawak Museum excavation of the Magala cave system on the southern fringe of the Subis limestone formation at Niah, Sarawak. The overarching thesis is that Magala preserves two culturally discrete burial phases—a Neolithic phase (c. 1,130 B.C.) and a Metal Age phase (c. 1300–1600 A.D.)—separated by a gap of over two millennia, and that the site's assemblages illuminate the complex funerary traditions of the Subis mountain region.

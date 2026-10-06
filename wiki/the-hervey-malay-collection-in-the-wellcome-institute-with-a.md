@@ -5,8 +5,7 @@ title: The Hervey Malay Collection in the Wellcome Institute (with a short biogr
   of D.F.A. Hervey). R.F. Ellen, M.B
 canonical_name: The Hervey Malay Collection in the Wellcome Institute (with a short
   biography of D.F.A. Hervey). R.F. Ellen, M.B
-type: article
-article_type: article
+type: publication
 authors:
 - R.F. Ellen
 - A.C. Milner
@@ -26,7 +25,9 @@ published: false
 source_doc: jmbras-239-ellen-herveymalaycollection-1981-c8685b138c57
 source_path: ../sources/jmbras-239-ellen-herveymalaycollection-1981-c8685b138c57.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The Hervey Malay Collection in the Wellcome Institute (with a short biography of D.F.A. Hervey). R.F. Ellen, M.B
 
 R.F. Ellen, M.B. Hooker, and A.C. Milner published this catalogue and biographical study in 1981, documenting the Malay manuscript collection of D.F.A. Hervey (1849–1911), a Straits Settlements Resident Councillor, now held at the Wellcome Institute in London. The authors argue that the collection's principal value lies not in its analytical sophistication but in its preservation of the conditions under which colonial ethnographic data was gathered—specifically, the directed relationship between a European official and his Malay informants.

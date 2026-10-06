@@ -5,8 +5,7 @@ title: 'The foundation of the Penang Chinese Chamber of Commerce in 1903: Protec
   Chinese business interests in the two states'
 canonical_name: 'The foundation of the Penang Chinese Chamber of Commerce in 1903:
   Protecting Chinese business interests in the two states'
-type: article
-article_type: article
+type: publication
 authors:
 - K. Shinozaki
 year: 2006
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-290-kaori-foundationpenangchinese-2006-f49a0c9e7eee
 source_path: ../sources/jmbras-290-kaori-foundationpenangchinese-2006-f49a0c9e7eee/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The foundation of the Penang Chinese Chamber of Commerce in 1903: Protecting Chinese business interests in the two states
 
 Kaori Shinozaki's 2006 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* re-examines the founding of the Penang Chinese Chamber of Commerce (PCCC) in 1903, arguing against the prevailing historiographical assumption that such institutions were products of Ching Government mobilization. Drawing on Chinese-language newspapers, colonial correspondence, and bankruptcy reports, Shinozaki demonstrates that the PCCC was autonomously initiated by Penang's leading Chinese merchants to address specific commercial abuses and to create formal channels of influence over both the Straits Settlements Government and the Ching Government simultaneously.

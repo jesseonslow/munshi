@@ -3,8 +3,7 @@ id: cargo-boats-of-the-east-coast-of-malaya
 work_id: jmbras-22-3-p106
 title: Cargo boats of the east coast of Malaya
 canonical_name: Cargo boats of the east coast of Malaya
-type: article
-article_type: article
+type: publication
 authors:
 - C.A. Gibson-Hill
 year: 1949
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-149-gibsonhill-cargoboatseast-1949-ca7716c6fc5a
 source_path: ../sources/jmalayanras-149-gibsonhill-cargoboatseast-1949-ca7716c6fc5a/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Cargo boats of the east coast of Malaya
 
 C.A. Gibson-Hill published this article in 1949 in the *Journal of the Malayan Branch of the Royal Asiatic Society*, presenting a fieldwork-based catalogue of the locally built cargo-carrying boats operating on the east coast of the Malay Peninsula south of the Siamese frontier. The article's central thesis is that the dominant vessels in this trade—the Pinas-Bedar group—represent a hybrid maritime tradition in which European hull forms are combined with Chinese sail plans, a synthesis that sharply distinguishes the east coast from the west coast, where carrying boat designs are entirely extra-liminal.

@@ -5,8 +5,7 @@ title: Malay names of salt-water fish. T.W. Burdon and C.A. Gibson-Hill. { In Pa
   on Malayan fishing methods
 canonical_name: Malay names of salt-water fish. T.W. Burdon and C.A. Gibson-Hill.
   { _In_ Papers on Malayan fishing methods}
-type: article
-article_type: article
+type: publication
 authors:
 - T.W. Burdon
 - C.A. Gibson-Hill
@@ -24,7 +23,9 @@ published: false
 source_doc: jmalayanras-166-burdon-papersmalayanfishing-1954-fb05d0340a63
 source_path: ../sources/jmalayanras-166-burdon-papersmalayanfishing-1954-fb05d0340a63/index.md
 summarized: true
+publication_type: note
 ---
+
 # Malay names of salt-water fish. T.W. Burdon and C.A. Gibson-Hill. { In Papers on Malayan fishing methods
 
 T.W. Burdon and C.A. Gibson-Hill contributed a concise nomenclatural reference, "Malay names of salt-water fish," to the 1954 MBRAS monograph *Papers on Malayan Fishing Methods* (JMBRAS, Vol. 27, Pt. 2). This two-page piece (pp. 175–176) serves as a companion to the monograph's detailed treatments of fishing gear and methods in Singapore and the Kelantan–Trengganu coast, providing the local vernacular names for the salt-water fish species encountered in those fisheries.

@@ -4,8 +4,7 @@ work_id: jmbras-97-2-p17
 title: Trade and Disruption in the Western Malay Archipelago in the 17th century
 canonical_name: Trade and Disruption in the Western Malay Archipelago in the 17th
   century
-type: article
-article_type: article
+type: publication
 authors:
 - P. Borschberg
 year: 2024
@@ -19,6 +18,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: journal_article
 ---
 
 # Trade and Disruption in the Western Malay Archipelago in the 17th century

@@ -3,8 +3,7 @@ id: oxford-dictionary-of-national-biography
 work_id: jmbras-83-1-p117
 title: Oxford Dictionary of National Biography
 canonical_name: Oxford Dictionary of National Biography
-type: article
-article_type: article
+type: publication
 authors:
 - Anon (and unidentifiable initials)
 year: 2010
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-298-oxforddictionarynational-2010-6578968cbe65
 source_path: ../sources/jmbras-298-oxforddictionarynational-2010-6578968cbe65.md
 summarized: true
+publication_type: note
 ---
+
 # Oxford Dictionary of National Biography
 
 This is a short note published by the Malaysian Branch of the Royal Asiatic Society listing entries in the *Oxford Dictionary of National Biography* (ODNB) that pertain to individuals with Malaysian or Singapore connections.

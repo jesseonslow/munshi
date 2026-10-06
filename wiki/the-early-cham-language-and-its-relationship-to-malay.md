@@ -3,8 +3,7 @@ id: the-early-cham-language-and-its-relationship-to-malay
 work_id: jmbras-48-2-p52
 title: The early Cham language, and its relationship to Malay
 canonical_name: The early Cham language, and its relationship to Malay
-type: article
-article_type: article
+type: publication
 authors:
 - G.E. Marrison
 year: 1975
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-228-marrison-earlychamlanguage-1975-e33d2b50fba1
 source_path: ../sources/jmbras-228-marrison-earlychamlanguage-1975-e33d2b50fba1.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The early Cham language, and its relationship to Malay
 
 G. E. Marrison's 1975 article examines Cham epigraphic texts from the fourth to the late tenth century A.D. to demonstrate that the early Cham language was closely affiliated with Malay in phonology, vocabulary, and syntax, and that the later divergence of Cham from the Indonesian family was driven primarily by Vietnamese and Mon-Khmer contact. The study draws on a corpus of sixteen inscriptions, the oldest of which is the earliest surviving specimen of any Indonesian language.

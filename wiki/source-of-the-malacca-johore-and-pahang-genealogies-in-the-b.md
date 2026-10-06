@@ -3,8 +3,7 @@ id: source-of-the-malacca-johore-and-pahang-genealogies-in-the-b
 work_id: jmbras-11-2-p144
 title: Source of the Malacca, Johore and Pahang genealogies in the Bustan-al-Salatin
 canonical_name: Source of the Malacca, Johore and Pahang genealogies in the _Bustan-al-Salatin._
-type: article
-article_type: article
+type: publication
 authors:
 - W. Linehan
 year: 1933
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-117-linehan-sourcemalaccajohore-1933-8d7cb092cb99
 source_path: ../sources/jmalayanras-117-linehan-sourcemalaccajohore-1933-8d7cb092cb99.md
 summarized: true
+publication_type: note
 ---
+
 # Source of the Malacca, Johore and Pahang genealogies in the Bustan-al-Salatin
 
 This short note by W. Linehan identifies the source of the Malacca, Johore, and Pahang royal genealogies found in the *Bustan-al-Salatin*.

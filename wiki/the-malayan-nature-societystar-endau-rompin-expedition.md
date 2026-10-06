@@ -3,8 +3,7 @@ id: the-malayan-nature-societystar-endau-rompin-expedition
 work_id: jmbras-58-2-p135
 title: The Malayan Nature Society/Star Endau-Rompin Expedition
 canonical_name: The Malayan Nature Society/Star Endau-Rompin Expedition
-type: article
-article_type: article
+type: publication
 authors:
 - H.S. Barlow
 year: 1985
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-249-barlow-malayannaturesocietystar-1985-708940e263ad
 source_path: ../sources/jmbras-249-barlow-malayannaturesocietystar-1985-708940e263ad/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The Malayan Nature Society/Star Endau-Rompin Expedition
 
 H.S. Barlow's 1985 report documents the Malayan Nature Society's year-long expedition to the Endau-Rompin area in southern Peninsular Malaysia, situating the venture within a century of exploration history and the ongoing political struggle to establish the region as a national park. The article functions simultaneously as a field report and a conservation advocacy piece, arguing that Endau-Rompin constitutes the last extensive tract of lowland primary forest in the south of the peninsula and warrants urgent protection.

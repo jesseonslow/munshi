@@ -3,8 +3,7 @@ id: the-malaysian-census-2000-characteristics-and-critical-issue
 work_id: jmbras-79-1-p27
 title: 'The Malaysian census 2000: characteristics and critical issues'
 canonical_name: 'The Malaysian census 2000: characteristics and critical issues'
-type: article
-article_type: article
+type: publication
 authors:
 - Usman Haji Yaakob
 year: 2006
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-290-yaakob-malaysiancensus2000-2006-735fb989ce05
 source_path: ../sources/jmbras-290-yaakob-malaysiancensus2000-2006-735fb989ce05/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The Malaysian census 2000: characteristics and critical issues
 
 Usman Haji Yaakob's 2006 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* provides a comprehensive demographic analysis of Malaysia's 2000 population census, situating the findings within the broader trajectory of the country's demographic transition from 1970. The overarching thesis is that Malaysia has undergone a profound demographic transformation—characterized by rapid population growth, declining fertility, accelerating urbanization, and rising life expectancy—that will fundamentally reshape the nation's demands for education, employment, health services, and social infrastructure in the coming decades.

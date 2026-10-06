@@ -7,8 +7,7 @@ title: Comparative vocabulary of the dialects of some of the wild tribes inhabit
 canonical_name: Comparative vocabulary of the dialects of some of the wild tribes
   inhabiting the Malayan peninsula, Borneo, etc., collected and compiled for the Straits
   Branch of the Royal Asiatic Society
-type: article
-article_type: article
+type: publication
 authors:
 - F.A. Swettenham
 year: 1880
@@ -31,7 +30,9 @@ published: false
 source_doc: jsbras-005-comparativevocabularydialects-1880-0e67338c90a4
 source_path: ../sources/jsbras-005-comparativevocabularydialects-1880-0e67338c90a4.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Comparative vocabulary of the dialects of some of the wild tribes inhabiting the Malayan peninsula, Borneo, etc., collected and compiled for the Straits Branch of the Royal Asiatic Society
 
 F. A. Swettenham, Honorary Secretary of the Straits Branch of the Royal Asiatic Society, compiled and published this comparative vocabulary in 1880 (JSBRAS Vol. 5, pp. 125–156), presenting a systematic lexical survey of nineteen dialects spoken by indigenous and semi-nomadic peoples across the Malayan Peninsula, Borneo, and adjacent islands. The work operationalizes the Society's standing invitation to colonial officials, missionaries, and travellers to collect linguistic data on what the period termed "wild tribes," with the explicit aim of furnishing ethnologists and philologists with a standardized basis for cross-tribal comparison.

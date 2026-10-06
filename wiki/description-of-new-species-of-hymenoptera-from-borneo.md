@@ -3,8 +3,7 @@ id: description-of-new-species-of-hymenoptera-from-borneo
 work_id: jsbras-48-1-p1
 title: Description of new species of Hymenoptera from Borneo
 canonical_name: Description of new species of Hymenoptera from Borneo
-type: article
-article_type: article
+type: publication
 authors:
 - P. Cameron
 year: 1907
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-048-cameron-descriptionnewspecies-1907-6d33c19f8c8a
 source_path: ../sources/jsbras-048-cameron-descriptionnewspecies-1907-6d33c19f8c8a.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Description of new species of Hymenoptera from Borneo
 
 P. Cameron published this taxonomic monograph in 1907 in the *Journal of the Straits Branch of the Royal Asiatic Society* (Vol. 48), describing a suite of new Hymenoptera species collected primarily at Kuching, Borneo, by John Hewitt, Curator of the Sarawak Museum. The work establishes *Iphiaulax* as the most speciose genus of Hymenoptera in Malaya and introduces two new genera (*Hytophatnus*, *Aulojoppa*, and *Xoridesopus*) alongside numerous new species across the Braconidae, Ichneumonidae, and Vespidae.

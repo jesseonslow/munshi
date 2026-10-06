@@ -5,8 +5,7 @@ title: 'Words of majesty: a brief history of royal correspondence between Englan
   and Asia, 1600–1858'
 canonical_name: 'Words of majesty: a brief history of royal correspondence between
   England and Asia, 1600–1858'
-type: article
-article_type: article
+type: publication
 authors:
 - R.S. Morel
 year: 2017
@@ -32,7 +31,9 @@ keywords:
 - '![Words of Majesty'
 - 'Author(s): Richard Scott Morel](assets/p1_img0.jpg)'
 - '![Figure](assets/p1_img1.jpg)'
+publication_type: journal_article
 ---
+
 # Words of majesty: a brief history of royal correspondence between England and Asia, 1600–1858
 
 ## Abstract

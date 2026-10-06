@@ -5,8 +5,7 @@ title: The University of Malaya Archaeological Society’s survey of Central Ked
   May 1958
 canonical_name: The University of Malaya Archaeological Society’s survey of Central
   Kedah in May 1958
-type: article
-article_type: article
+type: publication
 authors:
 - Wang Gungwu
 year: 1958
@@ -23,7 +22,9 @@ published: false
 source_doc: jmalayanras-181-gungwu-universitymalayaarchaeological-1958-0991bbf903bc
 source_path: ../sources/jmalayanras-181-gungwu-universitymalayaarchaeological-1958-0991bbf903bc.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The University of Malaya Archaeological Society’s survey of Central Kedah in May 1958
 
 Wang Gungwu, writing in 1958 for the *Journal of the Malayan Branch of the Royal Asiatic Society*, reports on a field survey conducted by the University of Malaya Archaeological Society across Central Kedah in May 1958, with particular focus on the Sungai Bujang corridor and the kampongs surrounding Merbok. The article serves as a systematic follow-up to H. G. Quaritch Wales's pre-war excavations, documenting both the present condition of previously identified sites and newly located archaeological features in a landscape rapidly transforming under post-war agricultural development.

@@ -4,8 +4,7 @@ work_id: jmbras-6-1-p38
 title: On some Carnivora, Rodentia and Insectivora principally from Eastern Borneo
 canonical_name: On some Carnivora, Rodentia and Insectivora principally from Eastern
   Borneo
-type: article
-article_type: article
+type: publication
 authors:
 - F.N. Chasen
 - C.B. Kloss
@@ -23,7 +22,9 @@ published: false
 source_doc: jmalayanras-102-chasen-carnivorarodentiainsectivora-1928-28babc6d0936
 source_path: ../sources/jmalayanras-102-chasen-carnivorarodentiainsectivora-1928-28babc6d0936.md
 summarized: true
+publication_type: journal_article
 ---
+
 # On some Carnivora, Rodentia and Insectivora principally from Eastern Borneo
 
 Chasen and Kloss (1928) present a taxonomic determination of mammalian specimens collected by ornithologist H. C. Siebers during the 1925 Middle-East Borneo Expedition, describing two new pygmy squirrel subspecies and revising the nomenclature of several Bornean carnivores, rodents, and insectivores. The work draws on material from the Telen River drainage in the Samarinda division, extending from Tenggarong at sea level to Punt D at 1,172 metres, supplemented by a few specimens from the Melawi River in Western Borneo.

@@ -3,8 +3,7 @@ id: geographical-notes-recent-journeys-in-the-peninsula
 work_id: jsbras-2-1-p222
 title: Geographical notes – recent journeys in the peninsula
 canonical_name: Geographical notes – recent journeys in the peninsula
-type: article
-article_type: article
+type: publication
 authors:
 - A.M. Skinner
 year: 1878
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-002-s-geographicalnotesrecentjourneys-1878-3004b1df2455
 source_path: ../sources/jsbras-002-s-geographicalnotesrecentjourneys-1878-3004b1df2455.md
 summarized: true
+publication_type: note
 ---
+
 # Geographical notes – recent journeys in the peninsula
 
 A geographical note by A.M. Skinner reporting on four recent exploratory journeys in the Malay Peninsula—Ulu Johor, Ulu Kinta, Jelei, and Rambau—published in the Journal of the Straits Branch of the Royal Asiatic Society, Vol. 2 (1878).

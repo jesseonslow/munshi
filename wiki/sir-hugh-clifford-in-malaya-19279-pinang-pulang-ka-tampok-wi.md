@@ -4,8 +4,7 @@ work_id: jmbras-53-2-p21
 title: Sir Hugh Clifford in Malaya, 1927–9. “ Pinang pulang ka-tampok ”, with appendix
 canonical_name: Sir Hugh Clifford in Malaya, 1927–9. “ _Pinang pulang ka-tampok_ ”,
   with appendix
-type: article
-article_type: article
+type: publication
 authors:
 - A.J. Stockwell
 year: 1980
@@ -21,6 +20,7 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+publication_type: journal_article
 ---
 
 # Sir Hugh Clifford in Malaya, 1927–9. “ Pinang pulang ka-tampok ”, with appendix

@@ -3,8 +3,7 @@ id: a-grammar-and-vocabulary-of-the-dusun-language
 work_id: jmbras-2-2-p87
 title: A grammar and vocabulary of the Dusun language
 canonical_name: A grammar and vocabulary of the Dusun language
-type: article
-article_type: article
+type: publication
 authors:
 - A.L. Gossens
 year: 1924
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-091-gossens-grammarvocabularydusun-1924-ddc4f22f6a11
 source_path: ../sources/jmalayanras-091-gossens-grammarvocabularydusun-1924-ddc4f22f6a11.md
 summarized: true
+publication_type: journal_article
 ---
+
 # A grammar and vocabulary of the Dusun language
 
 A.L. Gossens published this descriptive grammar and English-to-Dusun (Kadazan) vocabulary in 1924 in the *Journal of the Malaysian Branch of the Royal Asiatic Society*, providing one of the earliest systematic linguistic accounts of the language spoken by the Kadazan people of the interior of British North Borneo. The work combines a concise morphological and syntactic outline with an extensive alphabetical lexicon, reflecting the colonial-era practice of documenting indigenous languages for administrative and missionary purposes.

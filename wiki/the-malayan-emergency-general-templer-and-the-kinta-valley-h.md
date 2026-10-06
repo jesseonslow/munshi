@@ -4,8 +4,7 @@ work_id: jmbras-85-1-p45
 title: 'The Malayan Emergency: General Templer and the Kinta Valley home guard'
 canonical_name: 'The Malayan Emergency: General Templer and the Kinta Valley home
   guard'
-type: article
-article_type: article
+type: publication
 authors:
 - L. Comber
 year: 2012
@@ -22,7 +21,9 @@ published: false
 source_doc: jmbras-302-comber-malayanemergencygeneral-2012-53635a21018b
 source_path: ../sources/jmbras-302-comber-malayanemergencygeneral-2012-53635a21018b/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The Malayan Emergency: General Templer and the Kinta Valley home guard
 
 Leon Comber's 2012 article in the *Journal of the Malayan Branch of the Royal Asiatic Society* examines the formation, organization, and operational role of the Kinta Valley Home Guard (KVHG) in Perak between 1952 and 1954, arguing that General Sir Gerald Templer's controversial decision to back an all-Chinese, government-subsidized paramilitary force was a strategically sound response to the dual threats of communist insurgency and economic collapse. Drawing on the previously unpublished private papers of Colonel H. S. Lee held at ISEAS Singapore alongside Colonial Office files, Comber reconstructs the political and financial negotiations that produced the KVHG and assesses its effectiveness in protecting the tin mines that underpinned Malaya's war economy.

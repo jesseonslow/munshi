@@ -3,8 +3,7 @@ id: chinese-loan-words-in-malay
 work_id: jmbras-1-1-p250
 title: Chinese loan-words in Malay
 canonical_name: Chinese loan-words in Malay
-type: article
-article_type: article
+type: publication
 authors:
 - Hamilton A.W
 year: 1923
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-090-hamilton-chineseloanwordsmalay-1924-3e06cda450c0
 source_path: ../sources/jmalayanras-090-hamilton-chineseloanwordsmalay-1924-3e06cda450c0.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Chinese loan-words in Malay
 
 A. W. Hamilton published "Chinese Loan-Words in Malay" in the *Journal of the Malayan Branch of the Royal Asiatic Society* in June 1924 (Vol. II, No. 1, pp. 48–56). Writing in the early colonial period when Malay lexicography was still in its formative stage, Hamilton undertook a systematic survey of Hokkien-origin vocabulary absorbed into the Malay language, arguing that the linguistic footprint of Chinese settlement in the Peninsula is almost exclusively Hokkien in origin and concentrated in domains of food, domestic life, and gambling.

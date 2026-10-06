@@ -3,8 +3,7 @@ id: kun-and-payah-kun
 work_id: jsbras-46-1-p25
 title: Kun and payah kun
 canonical_name: _Kun and payah kun._
-type: article
-article_type: article
+type: publication
 authors:
 - W.G. Maxwell
 year: 1906
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-046-maxwell-kunpayahkun-1906-640e145ba6f5
 source_path: ../sources/jsbras-046-maxwell-kunpayahkun-1906-640e145ba6f5.md
 summarized: true
+publication_type: note
 ---
+
 # Kun and payah kun
 
 W.G. Maxwell's short note identifies the etymology of the Malay pawang-lore terms *kun* and *payah kun*, which had previously resisted explanation.

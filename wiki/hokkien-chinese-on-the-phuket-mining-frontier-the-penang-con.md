@@ -5,8 +5,7 @@ title: 'Hokkien Chinese on the Phuket mining frontier: the Penang connection and
   emergence of the Phuket Baba community'
 canonical_name: 'Hokkien Chinese on the Phuket mining frontier: the Penang connection
   and the emergence of the Phuket Baba community'
-type: article
-article_type: article
+type: publication
 authors:
 - Khoo Salma Nasution
 year: 2008
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-297-nasution-hokkienchinesephuket-2009-30f272f2f19c
 source_path: ../sources/jmbras-297-nasution-hokkienchinesephuket-2009-30f272f2f19c/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Hokkien Chinese on the Phuket mining frontier: the Penang connection and the emergence of the Phuket Baba community
 
 Khoo Salma Nasution's 2009 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* traces the economic, social, and cultural entanglement between Penang and Phuket from the early nineteenth century through the 1930s, arguing that the sustained flow of people, goods, capital, and ritual practice between the two islands was the defining force in the formation of a distinct Hokkien Peranakan (Baba) community in Phuket.

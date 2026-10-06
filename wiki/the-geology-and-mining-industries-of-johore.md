@@ -3,8 +3,7 @@ id: the-geology-and-mining-industries-of-johore
 work_id: jmbras-4-3-p288
 title: The geology and mining industries of Johore
 canonical_name: The geology and mining industries of Johore
-type: article
-article_type: article
+type: publication
 authors:
 - E.S. Willbourn
 year: 1926
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-105-willbourn-geologyminingindustries-1928-810076096327
 source_path: ../sources/jmalayanras-105-willbourn-geologyminingindustries-1928-810076096327.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The geology and mining industries of Johore
 
 E. S. Willbourn, Senior Geologist of the Federated Malay States, published this comprehensive geological survey of Johore in 1928, synthesising fieldwork conducted by himself, G. R. Fulton, and H. E. Savage between 1922 and 1927. The article establishes the structural geology of the State—demonstrating that its haphazard mountain groups are the eroded remnants of Mesozoic granite intrusions along anticlinal axes—and assesses the economic potential of its tin and iron deposits, concluding that Johore's mining future lay primarily in the Bukit Medan haematite mine rather than in tin.

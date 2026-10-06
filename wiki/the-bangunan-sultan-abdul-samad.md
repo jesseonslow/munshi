@@ -3,8 +3,7 @@ id: the-bangunan-sultan-abdul-samad
 work_id: jmbras-65-1-p27
 title: The Bangunan Sultan Abdul Samad
 canonical_name: The Bangunan Sultan Abdul Samad
-type: article
-article_type: article
+type: publication
 authors:
 - J.M. Gullick
 year: 1992
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-262-gullick-bangunansultanabdul-1992-f202d3127d32
 source_path: ../sources/jmbras-262-gullick-bangunansultanabdul-1992-f202d3127d32.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The Bangunan Sultan Abdul Samad
 
 J.M. Gullick's 1992 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* reconstructs the design and construction history of the Bangunan Sultan Abdul Samad, Kuala Lumpur's most celebrated colonial-era government building, completed in 1897. The article's central thesis is that the building's design credit, long attributed to Government Architect A. C. Norman by virtue of his name on the foundation stone, properly belongs to the younger architect Regent Bidwell, who worked under State Engineer C. E. Spooner's direction.

@@ -3,8 +3,7 @@ id: convicts-in-the-straits-settlements-18261867
 work_id: jmbras-43-1-p87
 title: Convicts in the Straits Settlements, 1826–1867
 canonical_name: Convicts in the Straits Settlements, 1826–1867
-type: article
-article_type: article
+type: publication
 authors:
 - C.M. Turnbull
 year: 1970
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-217-turnbull-convictsstraitssettlements-1970-79011f1e68c3
 source_path: ../sources/jmbras-217-turnbull-convictsstraitssettlements-1970-79011f1e68c3.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Convicts in the Straits Settlements, 1826–1867
 
 C.M. Turnbull's 1970 article examines the Straits Settlements' function as a penal colony for British India between 1826 and 1867, arguing that the convict question was not merely an administrative inconvenience but a central driver of the European community's agitation to end Indian rule and secure transfer to the Colonial Office. Drawing on Straits Settlements Records, parliamentary papers, and contemporary press reports, Turnbull reconstructs the full arc of convict transportation, from its origins in Penang in 1788 to the final removal of Indian convicts in 1873.

@@ -5,8 +5,7 @@ title: 'The siege and capture of Malacca from the Portuguese in 1640–1641: ext
   from the archives of the Dutch East India Company; . 128–429'
 canonical_name: 'The siege and capture of Malacca from the Portuguese in 1640–1641:
   extracts from the archives of the Dutch East India Company; . 128–429'
-type: article
-article_type: translation
+type: publication
 authors:
 - Hacobian Mac
 - P.A. Leupe
@@ -25,7 +24,9 @@ published: false
 source_doc: jsbras-014-proceedingsannualgeneral-1884-931de3f734ac
 source_path: ../sources/jsbras-014-proceedingsannualgeneral-1884-931de3f734ac.md
 summarized: true
+publication_type: document
 ---
+
 # The siege and capture of Malacca from the Portuguese in 1640–1641: extracts from the archives of the Dutch East India Company; . 128–429
 
 This document records the proceedings of the Annual General Meeting of the Straits Branch of the Royal Asiatic Society, held at the Exchange Rooms on 27 March 1885, with the Hon'ble A. M. Skinner presiding as Vice-President.

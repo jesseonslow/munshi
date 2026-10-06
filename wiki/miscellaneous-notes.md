@@ -3,8 +3,7 @@ id: miscellaneous-notes
 work_id: jsbras-57-1-p195
 title: Miscellaneous notes
 canonical_name: Miscellaneous notes
-type: article
-article_type: article
+type: publication
 authors:
 - W.G. Maxwell
 year: 1911
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: true
 source_doc: jsbras-057-m-miscellaneousnotes-1911-8d36712e0e94
 source_path: ../sources/jsbras-057-m-miscellaneousnotes-1911-8d36712e0e94.md
+publication_type: note
 ---
+
 # Miscellaneous notes
 
 This miscellaneous note by W. G. Maxwell (1911) comprises two brief items: a continuation of notes on the Portuguese fleet of 1511 and a short glossary of Malay and Siamese ploughing commands.

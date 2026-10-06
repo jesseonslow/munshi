@@ -3,8 +3,7 @@ id: the-ceramic-trade-across-the-south-china-sea
 work_id: jmbras-76-1-p99
 title: The ceramic trade across the South China Sea
 canonical_name: The ceramic trade across the South China Sea
-type: article
-article_type: article
+type: publication
 authors:
 - Harrisson B
 year: 2003
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-284-harrisson-ceramictradeacross-2003-56a73a8075bc
 source_path: ../sources/jmbras-284-harrisson-ceramictradeacross-2003-56a73a8075bc.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The ceramic trade across the South China Sea
 
 Barbara Harrisson's 2003 article traces the development and collapse of the Chinese ceramic trade across the South China Sea to Brunei and the Philippines between approximately 1350 and 1650, arguing that the trade was initially driven by native demand for imported porcelains in burial and status contexts, was shaped by shifting Chinese dynastic policies, and was ultimately destroyed by the collision of Spanish colonial expansion with established Muslim-Malay commercial networks. The article draws on Chinese, Arab, European, and archaeological sources to reconstruct a trade system in which Brunei occupied a pivotal position as the most prestigious internationally linked port on the eastern seaboard of the South China Sea by 1500.

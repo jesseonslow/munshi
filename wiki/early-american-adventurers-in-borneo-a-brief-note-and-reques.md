@@ -4,8 +4,7 @@ work_id: jmbras-42-2-p220
 title: 'Early American adventurers in Borneo: a brief note and request for information'
 canonical_name: 'Early American adventurers in Borneo: a brief note and request for
   information'
-type: article
-article_type: article
+type: publication
 authors:
 - G.N. Appell
 year: 1969
@@ -22,7 +21,9 @@ published: false
 source_doc: jmbras-216-appell-earlyamericanadventurers-1969-c8ab10b64e6e
 source_path: ../sources/jmbras-216-appell-earlyamericanadventurers-1969-c8ab10b64e6e.md
 summarized: true
+publication_type: note
 ---
+
 # Early American adventurers in Borneo: a brief note and request for information
 
 This brief note by G.N. Appell (Harvard University) reports a reference in the journal of James Austin Wilder to early American traders on the Baram River in Sarawak, and requests further information from readers.

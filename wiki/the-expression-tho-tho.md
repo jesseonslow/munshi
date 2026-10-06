@@ -3,8 +3,7 @@ id: the-expression-tho-tho
 work_id: jmbras-16-1-p137
 title: The expression tho-tho
 canonical_name: The expression _tho-tho._
-type: article
-article_type: article
+type: publication
 authors:
 - J.V. Mills
 year: 1938
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-131-mills-expressionthokho-1938-9e5ec0767a47
 source_path: ../sources/jmalayanras-131-mills-expressionthokho-1938-9e5ec0767a47.md
 summarized: true
+publication_type: note
 ---
+
 # The expression tho-tho
 
 This short note by J.V. Mills traces the semantic development of the Chinese expression *tho-kho* (Mandarin *t'u k'u*, Cantonese *t'o fu*) from its original meaning of "store-room" or "cellar" to its local Malayan usage as a term for large commercial houses.

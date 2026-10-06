@@ -3,8 +3,7 @@ id: the-malay-boat-shaped-puan
 work_id: jmbras-22-1-p180
 title: The Malay boat-shaped puan
 canonical_name: The Malay boat-shaped _puan._
-type: article
-article_type: article
+type: publication
 authors:
 - W.W. Skeat
 year: 1949
@@ -18,6 +17,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: note
 ---
 
 # The Malay boat-shaped puan

@@ -3,8 +3,7 @@ id: on-the-persistence-of-an-old-type-of-water-vessel
 work_id: jmbras-1-1-p248
 title: On the persistence of an old type of water-vessel
 canonical_name: On the persistence of an old type of water-vessel
-type: article
-article_type: article
+type: publication
 authors:
 - I.H.N. Evans
 year: 1923
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-087-evans-persistenceoldtype-1923-5f45a423b431
 source_path: ../sources/jmalayanras-087-evans-persistenceoldtype-1923-5f45a423b431.md
 summarized: true
+publication_type: note
 ---
+
 # On the persistence of an old type of water-vessel
 
 I.H.N. Evans's brief note examines the persistence of a spouted clay water-vessel type (kendi) in the Malay Peninsula, tracing its distribution and probable Indian origin through comparative examples from Sumatra, Aceh, Java, China, and Nepal (p. 248).

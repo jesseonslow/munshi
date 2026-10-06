@@ -3,8 +3,7 @@ id: tajus-salatin-the-crown-of-kings
 work_id: jsbras-81-1-p37
 title: Taju’s-salatin. “The crown of kings”
 canonical_name: Taju’s-salatin. “The crown of kings”
-type: article
-article_type: article
+type: publication
 authors:
 - R.O. Winstedt
 year: 1920
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-081-winstedt-tajussalatinthecrown-1920-98b0dfc09b2f
 source_path: ../sources/jsbras-081-winstedt-tajussalatinthecrown-1920-98b0dfc09b2f.md
 summarized: true
+publication_type: note
 ---
+
 # Taju’s-salatin. “The crown of kings”
 
 This is a short note by R. O. Winstedt summarizing a paper by Dr. Ph. S. van Ronkel on the *Taju's-Salatin* ("The Crown of Kings"), a Malay romance of Persian origin (p. 37).

@@ -3,8 +3,7 @@ id: tin-and-lead-coins-from-brunei
 work_id: jsbras-49-1-p111
 title: Tin and lead coins from Brunei
 canonical_name: Tin and lead coins from Brunei
-type: article
-article_type: article
+type: publication
 authors:
 - Hanitsch R
 year: 1907
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-049-hanitsch-tinleadcoins-1907-ecc2986a718d
 source_path: ../sources/jsbras-049-hanitsch-tinleadcoins-1907-ecc2986a718d.md
 summarized: true
+publication_type: note
 ---
+
 # Tin and lead coins from Brunei
 
 This note by R. Hanitsch describes three types of tin and lead coins from Brunei, Borneo, found in 1906–1907 and presented to the Raffles Museum, Singapore.

@@ -3,8 +3,7 @@ id: notes-on-the-meanings-of-some-malay-words
 work_id: jmbras-15-2-p150
 title: Notes on the meanings of some Malay words
 canonical_name: Notes on the meanings of some Malay words
-type: article
-article_type: article
+type: publication
 authors:
 - J.A. Baker
 year: 1937
@@ -33,7 +32,9 @@ reprints:
 source_doc: jmalayanras-129-baker-notesmeaningsmalay-1937-8dfd26e905c1
 source_path: ../sources/jmalayanras-129-baker-notesmeaningsmalay-1937-8dfd26e905c1.md
 summarized: true
+publication_type: note
 ---
+
 # Notes on the meanings of some Malay words
 
 J.A. Baker's short note proposes corrections and additions to definitions in Wilkinson's *Malay-English Dictionary* (2nd ed., 1932), based on his own usage observations and corroborating evidence from other lexicographic sources.

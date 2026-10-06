@@ -5,8 +5,7 @@ title: Miniopterus medius in the Malay Peninsula. Records of the Raffles Museum,
   14
 canonical_name: _Miniopterus medius_ in the Malay Peninsula. Records of the Raffles
   Museum, No. 14
-type: article
-article_type: article
+type: publication
 authors:
 - F.N. Chasen
 year: 1926
@@ -23,7 +22,9 @@ published: false
 source_doc: jmalayanras-096-chasen-miniopterusmediusmalay-1926-9c4455f66bdf
 source_path: ../sources/jmalayanras-096-chasen-miniopterusmediusmalay-1926-9c4455f66bdf.md
 summarized: true
+publication_type: note
 ---
+
 # Miniopterus medius in the Malay Peninsula. Records of the Raffles Museum, No. 14
 
 This short note by F. N. Chasen (Records of the Raffles Museum, No. 14) reports the first mainland record of *Miniopterus medius* from the Malay Peninsula, based on four specimens from Gunong Pondok, Perak (p. 156).

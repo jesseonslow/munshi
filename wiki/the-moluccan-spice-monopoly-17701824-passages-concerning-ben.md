@@ -5,8 +5,7 @@ title: The Moluccan spice monopoly, 1770–1824. Passages concerning Bencoolen w
   in collaboration with J. Bastin
 canonical_name: The Moluccan spice monopoly, 1770–1824. Passages concerning Bencoolen
   written in collaboration with J. Bastin
-type: article
-article_type: article
+type: publication
 authors:
 - H.R.C. Wright
 year: 1958
@@ -24,7 +23,9 @@ summarized: true
 source_mismatch: true
 source_doc: jmalayanras-184-wright-moluccanspicemonopoly-1958-4a875899c54a
 source_path: ../sources/index.md
+publication_type: monograph
 ---
+
 # The Moluccan spice monopoly, 1770–1824. Passages concerning Bencoolen written in collaboration with J. Bastin
 
 H.R.C. Wright's 1958 monograph-length article in the *Journal of the Malayan Branch of the Royal Asiatic Society* provides a comprehensive economic and administrative history of the Dutch spice monopoly in the Moluccas between 1770 and 1824, with a dedicated section on Bencoolen written in collaboration with J. Bastin. Wright argues that the monopoly, once a source of enormous prestige and profit, became progressively unworkable and unprofitable under the combined pressures of declining European demand, the 1778 Banda hurricane, British military occupations, and the successful transplantation of spice trees to rival colonies.

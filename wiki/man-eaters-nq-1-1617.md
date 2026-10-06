@@ -3,8 +3,7 @@ id: man-eaters-nq-1-1617
 work_id: jsbras-14-man-eaters-nq-1-1617
 title: 'Man-eaters. NQ 1: 16–17'
 canonical_name: 'Man-eaters. NQ 1: 16–17'
-type: article
-article_type: notes_and_queries
+type: publication
 authors:
 - N.B. Dennys
 year: 1884
@@ -18,6 +17,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: note
 ---
 
 # Man-eaters. NQ 1: 16–17

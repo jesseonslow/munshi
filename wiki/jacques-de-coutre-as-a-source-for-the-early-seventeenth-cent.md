@@ -5,8 +5,7 @@ title: Jacques de Coutre as a source for the early seventeenth-century history o
   Singapore, the Johore river and the straits
 canonical_name: Jacques de Coutre as a source for the early seventeenth-century history
   of Singapore, the Johore river and the straits
-type: article
-article_type: article
+type: publication
 authors:
 - P. Borschberg
 year: 2008
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-295-borschberg-jacquesdecoutre-2008-cd7c75715e82
 source_path: ../sources/jmbras-295-borschberg-jacquesdecoutre-2008-cd7c75715e82/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Jacques de Coutre as a source for the early seventeenth-century history of Singapore, the Johore river and the straits
 
 Peter Borschberg's 2008 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* (Vol. 81, No. 2, pp. 71–97) examines the manuscripts of Jacques de Coutre (1577–c.1640), a Flemish merchant-traveller who operated out of Portuguese Malacca and Goa during the late sixteenth and early seventeenth centuries, and assesses their value for reconstructing the history of Singapore, the Johor River, and the adjacent straits. Borschberg argues that Madrid MS 2780—containing De Coutre's autobiographical *Vida* and seven political memorials—constitutes one of the most comprehensive surviving European accounts of pre-British Singapore and that its careful deployment can correct long-entrenched misconceptions in the region's historiography.

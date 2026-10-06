@@ -3,8 +3,7 @@ id: the-black-art-ilmu-jahat
 work_id: jmbras-11-2-p264
 title: The black art (ilmu jahat
 canonical_name: The black art _(ilmu jahat)._
-type: article
-article_type: article
+type: publication
 authors:
 - A.E. Coope
 year: 1933
@@ -27,7 +26,9 @@ published: false
 source_doc: jmalayanras-117-coope-blackartilmu-1933-a43e0361894b
 source_path: ../sources/jmalayanras-117-coope-blackartilmu-1933-a43e0361894b.md
 summarized: true
+publication_type: translation
 ---
+
 # The black art (ilmu jahat
 
 A.E. Coope, a Malayan Civil Service officer, published this article in 1933 presenting a detailed transcription and translation of a pocket book of Malay black art (*ilmu jahat*) recovered from the belongings of a celebrated Kelantan burglar. The article documents the intersection of Islamic formulae, spirit invocation, and practical criminal technique in a single manuscript, offering one of the few published examples of a working criminal's grimoire from colonial Malaya.

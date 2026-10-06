@@ -3,8 +3,7 @@ id: folklore-of-sadong-dyaks
 work_id: jmbras-18-2-p55
 title: Folklore of Sadong Dyaks
 canonical_name: Folklore of Sadong Dyaks
-type: article
-article_type: article
+type: publication
 authors:
 - J. Staal
 year: 1940
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-138-staal-folkloresadongdayaks-1940-8adfd80a74f0
 source_path: ../sources/jmalayanras-138-staal-folkloresadongdayaks-1940-8adfd80a74f0/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Folklore of Sadong Dyaks
 
 Fr. J. Staal, a Catholic missionary stationed in the Sadong district of Sarawak, published this ethnographic account of Bidayoh (Sadong Dayak) oral traditions in 1940, drawing on first-hand material collected from headmen in the 1930s. The article presents origin myths, migration narratives, and two complete ritual prayers, arguing that the Sadong Dayaks are the oldest inhabitants of western Borneo and that their folklore preserves a coherent cosmology centred on the supreme spirit Tampa.

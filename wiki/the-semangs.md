@@ -3,8 +3,7 @@ id: the-semangs
 work_id: jsbras-2-p231
 title: The Semangs
 canonical_name: The Semangs
-type: article
-article_type: article
+type: publication
 authors:
 - Alfred Hart Everett
 year: 1878
@@ -20,7 +19,9 @@ published: false
 source_doc: jsbras-002-semangs-1878-04e3f4f46687
 source_path: ../sources/jsbras-002-semangs-1878-04e3f4f46687.md
 summarized: true
+publication_type: note
 ---
+
 # The Semangs
 
 This brief composite item in JSBRAS No. 2 (1878) contains the concluding passage of a mineralogical note by A. H. Everett (Sarawak, 23 November 1878) followed by a letter dated 5 January 1870 from an unnamed Professor discussing the Semangs of the Malay Peninsula.

@@ -5,8 +5,7 @@ title: 'The megaliths in East Malaysia II: stone urns from the Kelabit Highlands
   Sarawak'
 canonical_name: 'The megaliths in East Malaysia II: stone urns from the Kelabit Highlands,
   Sarawak'
-type: article
-article_type: article
+type: publication
 authors:
 - Tom Harrisson
 year: 1974
@@ -24,7 +23,9 @@ summarized: true
 source_mismatch: false
 source_doc: jmbras-225-harrisson-megalithiceastmalaysia-1974-e7a257c8bbfd
 source_path: ../sources/jmbras-225-harrisson-megalithiceastmalaysia-1974-e7a257c8bbfd.md
+publication_type: note
 ---
+
 # The megaliths in East Malaysia II: stone urns from the Kelabit Highlands, Sarawak
 
 This note by Dato Tom Harrisson documents approximately twenty-five prehistoric stone urns found in two localities on the Southern Kelabit Plateau in northern interior Sarawak, based on photographs taken in 1946 during his military service.

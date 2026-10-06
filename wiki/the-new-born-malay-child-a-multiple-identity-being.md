@@ -3,8 +3,7 @@ id: the-new-born-malay-child-a-multiple-identity-being
 work_id: jmbras-58-2-p71
 title: 'The new-born Malay child: a multiple identity being'
 canonical_name: 'The new-born Malay child: a multiple identity being'
-type: article
-article_type: article
+type: publication
 authors:
 - J.L. Massard
 year: 1985
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-249-massard-newbornmalaychild-1985-5007d665c632
 source_path: ../sources/jmbras-249-massard-newbornmalaychild-1985-5007d665c632/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The new-born Malay child: a multiple identity being
 
 J.L. Massard, a French ethnographer based in Paris, published this article in 1985 in the *Journal of the Malaysian Branch of the Royal Asiatic Society*, drawing on fieldwork conducted in Pahang State, West Malaysia, during the late 1970s and early 1980s. The article argues that the Malay newborn is not a miniature adult or a social blank slate but a "multiple identity being" whose human identity is a product of active cultural work, achieved only after a prolonged period of ontological vulnerability. Massard contends that Western researchers have systematically excluded the child from studies of Malay childbirth, treating the infant as an incomplete version of the adult, when in fact the child possesses a specificity rooted in its simultaneous affiliation with the human, supernatural, animal, and in-utero sibling domains.

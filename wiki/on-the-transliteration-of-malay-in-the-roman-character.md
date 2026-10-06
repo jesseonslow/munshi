@@ -3,8 +3,7 @@ id: on-the-transliteration-of-malay-in-the-roman-character
 work_id: jsbras-9-1-p141
 title: On the transliteration of Malay in the roman character
 canonical_name: On the transliteration of Malay in the roman character
-type: article
-article_type: article
+type: publication
 authors:
 - W.E. Maxwell
 year: 1882
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: true
 source_doc: jsbras-009-maxwell-transliterationmalayroman-1882-6ab4d8596aa4
 source_path: ../sources/jsbras-009-maxwell-transliterationmalayroman-1882-6ab4d8596aa4.md
+publication_type: journal_article
 ---
+
 # On the transliteration of Malay in the roman character
 
 W.E. Maxwell published this philological treatise in 1882 in the *Journal of the Straits Branch of the Royal Asiatic Society* (Vol. 9), offering a systematic critique of the government-mandated spelling conventions for Malay names in the Straits Settlements and proposing a more scholarly alternative grounded in the principles of transliteration rather than phonetic approximation. His overarching thesis is that a sound system must faithfully reproduce the native Perso-Arabic script, respect the etymological integrity of Sanskrit and Arabic loanwords, and remain internally consistent—qualities he finds lacking in the systems of Crawfurd, Keasberry, and the official Spelling Committee.

@@ -5,8 +5,7 @@ title: In grateful memory of Tan Sri Dato Haji Nik Ahmad Kamil bin Nik Mahmood, 
   M.B.R.A.S., 1964–1977. Obituary
 canonical_name: In grateful memory of Tan Sri Dato Haji Nik Ahmad Kamil bin Nik Mahmood,
   President M.B.R.A.S., 1964–1977. Obituary
-type: article
-article_type: obituary
+type: publication
 authors:
 - Mubin Sheppard
 year: 1978
@@ -22,8 +21,8 @@ status: stub
 published: false
 source_doc: jmbras-233-sheppard-gratefulmemorytan-1978-d54d13999373
 source_path: ../sources/jmbras-233-sheppard-gratefulmemorytan-1978-d54d13999373.md
+publication_type: obituary
 ---
-
 
 # In grateful memory of Tan Sri Dato Haji Nik Ahmad Kamil bin Nik Mahmood, President M.B.R.A.S., 1964–1977. Obituary
 

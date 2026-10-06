@@ -3,8 +3,7 @@ id: jawi-spelling
 work_id: jmbras-6-2-p81
 title: Jawi spelling
 canonical_name: Jawi spelling
-type: article
-article_type: article
+type: publication
 authors:
 - Zainal Abidin bin Ahmad
 year: 1928
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-103-ahmad-jawispelling-1928-a55ecf9f095f
 source_path: ../sources/jmalayanras-103-ahmad-jawispelling-1928-a55ecf9f095f.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Jawi spelling
 
 Zainal Abidin bin Ahmad's 1928 article "Jawi Spelling," published in the *Journal of the Malayan Branch of the Royal Asiatic Society*, provides a systematic phonological analysis of the Malayo-Arabic script as it stood in the late colonial period. Arguing against the prevailing view that Jawi spelling is chaotic and ruleless, Ahmad demonstrates that the irregularities of the script are the predictable product of a structural mismatch between the Arabic diacritical system and the richer vowel inventory of Malay, and that general principles do govern the spelling of the majority of words once they are properly classified.

@@ -5,8 +5,7 @@ title: The comparative philology of the Sakai and Semang dialects of the Malay P
   – a review
 canonical_name: The comparative philology of the Sakai and Semang dialects of the
   Malay Peninsula – a review
-type: article
-article_type: article
+type: publication
 authors:
 - C.O. Blagden
 year: 1903
@@ -24,7 +23,9 @@ summarized: true
 source_mismatch: false
 source_doc: jsbras-039-blagden-comparativephilologysakai-1903-a7c3f1a2d35c
 source_path: ../sources/jsbras-039-blagden-comparativephilologysakai-1903-a7c3f1a2d35c.md
+publication_type: review
 ---
+
 # The comparative philology of the Sakai and Semang dialects of the Malay Peninsula – a review
 
 C. O. Blagden's 1903 review, published in the *Journal of the Straits Branch of the Royal Asiatic Society* (Vol. 39), assesses Professor Schmidt's monograph on the Sakai and Semang dialects of the Malay Peninsula — the first systematic comparative philological treatment of these languages. Blagden endorses Schmidt's methodology and dialectal classification while mounting a sustained critique of his central thesis that all aboriginal dialects of the Peninsula are branches of the Mon-Annam stock, arguing instead for a more complex layered origin involving multiple waves of linguistic influence.

@@ -3,8 +3,7 @@ id: the-savaeans-and-possible-egyptian-influences-in-indonesia
 work_id: jmbras-23-3-p36
 title: The Savaeans and possible Egyptian influences in Indonesia
 canonical_name: The Savaeans and possible Egyptian influences in Indonesia
-type: article
-article_type: article
+type: publication
 authors:
 - H.G.Q. Wales
 year: 1950
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-153-wales-sabaeanspossibleegyptian-1950-d7816166d897
 source_path: ../sources/jmalayanras-153-wales-sabaeanspossibleegyptian-1950-d7816166d897.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The Savaeans and possible Egyptian influences in Indonesia
 
 H.G. Quaritch Wales published this article in 1950 in the *Journal of the Malaysian Branch of the Royal Asiatic Society*, arguing that Sabaean traders may have carried a small number of Egyptian cultural traits—most notably the Horus emblem and associated sun-worship—into Java, where they persisted beneath the surface of Hinduized religion and re-emerged as Hindu influence waned. The piece is an early instalment of the broader diffusionist programme that would later be developed in his monograph *The Making of Greater India*.

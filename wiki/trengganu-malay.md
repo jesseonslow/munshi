@@ -3,8 +3,7 @@ id: trengganu-malay
 work_id: jmbras-13-3-p1
 title: Trengganu Malay
 canonical_name: Trengganu Malay
-type: article
-article_type: article
+type: publication
 authors:
 - C.C. Brown
 year: 1935
@@ -20,6 +19,7 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+publication_type: journal_article
 ---
 
 # Trengganu Malay

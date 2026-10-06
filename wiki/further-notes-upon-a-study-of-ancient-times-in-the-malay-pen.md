@@ -3,8 +3,7 @@ id: further-notes-upon-a-study-of-ancient-times-in-the-malay-pen
 work_id: jmbras-15-2-p167
 title: Further notes upon a study of ancient times in the Malay Peninsula
 canonical_name: Further notes upon a study of ancient times in the Malay Peninsula
-type: article
-article_type: article
+type: publication
 authors:
 - R.J. Wilkinson
 year: 1937
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-129-wilkinson-notesuponstudy-1937-4c88bab1ecc0
 source_path: ../sources/jmalayanras-129-wilkinson-notesuponstudy-1937-4c88bab1ecc0.md
 summarized: true
+publication_type: note
 ---
+
 # Further notes upon a study of ancient times in the Malay Peninsula
 
 R.J. Wilkinson, C.M.G., contributed these notes in 1937 to supplement Robert Bagnall's essay on ancient Malayan history published in the same volume of the *JMBRAS*. The piece functions as a set of scholarly corrections and additions, drawing on epigraphic, textual, and comparative-linguistic evidence to refine the identification of early polities in the Peninsula and to challenge prevailing assumptions about Malayan antiquity and its economic significance to the ancient world.

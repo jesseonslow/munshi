@@ -3,8 +3,7 @@ id: muddy-waters-the-lost-sungai-lumpur
 work_id: jmbras-98-2-p57
 title: 'Muddy Waters: The Lost Sungai Lumpur'
 canonical_name: 'Muddy Waters: The Lost Sungai Lumpur'
-type: article
-article_type: article
+type: publication
 authors:
 - Teckwyn Lim
 - Peter Leong Yue Sek
@@ -30,7 +29,9 @@ keywords:
 source_doc: lim-leong-muddy-waters-3beb57e6b5b2
 source_path: ../sources/lim-leong-muddy-waters-3beb57e6b5b2/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Muddy Waters: The Lost Sungai Lumpur
 
 ## Abstract

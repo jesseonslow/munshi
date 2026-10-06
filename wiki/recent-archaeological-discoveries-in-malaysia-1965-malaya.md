@@ -3,8 +3,7 @@ id: recent-archaeological-discoveries-in-malaysia-1965-malaya
 work_id: jmbras-39-1-p198
 title: 'Recent archaeological discoveries in Malaysia 1965: Malaya'
 canonical_name: 'Recent archaeological discoveries in Malaysia 1965: Malaya'
-type: article
-article_type: article
+type: publication
 authors:
 - B.A.V. Peacock
 year: 1966
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-209-peacock-malaya-1966-3fd580218e92
 source_path: ../sources/jmbras-209-peacock-malaya-1966-3fd580218e92.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Recent archaeological discoveries in Malaysia 1965: Malaya
 
 B.A.V. Peacock, writing in 1966 for the *Journal of the Malaysian Branch of the Royal Asiatic Society*, reports two significant archaeological discoveries made in Malaya during 1965: a pair of Dong Son bronze drums recovered from Kuala Trengganu on the east coast, and a hoard of polished stone implements from Glugor on Penang Island. The article's central significance lies in the Trengganu drums, which extend the known distribution of Dong Son bronzes beyond the west coast and reinforce the association of socketed iron implements with bronze objects in the Malayan metal age.

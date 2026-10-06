@@ -4,8 +4,7 @@ work_id: jsbras-79-1-p37
 title: The circumstances attending the murder in 1859, of the botanist James Motley
 canonical_name: The circumstances attending the murder in 1859, of the botanist James
   Motley
-type: article
-article_type: article
+type: publication
 authors:
 - I.H. Burkill
 year: 1918
@@ -22,7 +21,9 @@ published: false
 source_doc: jsbras-079-burkill-circumstancesattendingmurder-1918-e07328808c26
 source_path: ../sources/jsbras-079-burkill-circumstancesattendingmurder-1918-e07328808c26.md
 summarized: true
+publication_type: note
 ---
+
 # The circumstances attending the murder in 1859, of the botanist James Motley
 
 This brief note by I. H. Burkill (1918) describes the circumstances of the 1859 murder of the botanist James Motley during a Dyak uprising in the Banjermassin region of Borneo.

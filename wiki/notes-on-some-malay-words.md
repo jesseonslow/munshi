@@ -3,8 +3,7 @@ id: notes-on-some-malay-words
 work_id: jmbras-6-4-p36
 title: Notes on some Malay words
 canonical_name: Notes on some Malay words
-type: article
-article_type: article
+type: publication
 authors:
 - C.O. Blagden
 year: 1928
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-105-blagden-notesmalaywords-1928-8408a760a88a
 source_path: ../sources/jmalayanras-105-blagden-notesmalaywords-1928-8408a760a88a.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Notes on some Malay words
 
 C.O. Blagden (1928) examines a glossary appended to a late-eighteenth-century Malay treatise on royal ceremonial, extracting and discussing words absent from or differently defined in Wilkinson's Dictionary. The article's central contribution is lexicographical, drawing on a 1873 copy of the *Adat Segala Raja-raja Melayu* (composed c. 1779–80 at the request of the Governor of Malacca) to document archaic and specialised vocabulary of the Malay courtly world, and it closes with a revised etymology for the word *tamra* in the Trengganu Inscription.

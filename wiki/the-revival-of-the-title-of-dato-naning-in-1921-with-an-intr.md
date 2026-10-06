@@ -5,8 +5,7 @@ title: The revival of the title of Dato Naning in 1921. With an introductory not
   by the editor
 canonical_name: The revival of the title of Dato Naning in 1921. With an introductory
   note by the editor
-type: article
-article_type: article
+type: publication
 authors:
 - R.J.F. Curtis
 year: 1980
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-238-curtis-revivaltitledato-1980-cdd3c6b63924
 source_path: ../sources/jmbras-238-curtis-revivaltitledato-1980-cdd3c6b63924/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The revival of the title of Dato Naning in 1921. With an introductory note by the editor
 
 R.J.F. Curtis, a former District Officer of Alor Gajah who was present at the 1921 proclamation ceremony as a cadet, published this first-hand account in 1980 tracing the history of the Naning chieftainship from its Dutch-era origins through its abolition by the British in 1832 and its formal revival in 1921. The article argues that the 1921 restoration of the title to Omar bin Hasan was a legally and politically calculated act by the Straits Settlements administration to resolve a succession dispute and reassert colonial authority over a community that had preserved its Minangkabau customary institutions in defiance of British abolition.

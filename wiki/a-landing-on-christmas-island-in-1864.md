@@ -3,8 +3,7 @@ id: a-landing-on-christmas-island-in-1864
 work_id: jmbras-27-1-p217
 title: A landing on Christmas Island in 1864
 canonical_name: A landing on Christmas Island in 1864
-type: article
-article_type: article
+type: publication
 authors:
 - C.A. Gibson-Hill
 year: 1954
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-165-gibsonhill-landingchristmasisland-1954-77b8f287fcd4
 source_path: ../sources/jmalayanras-165-gibsonhill-landingchristmasisland-1954-77b8f287fcd4.md
 summarized: true
+publication_type: document
 ---
+
 # A landing on Christmas Island in 1864
 
 C.A. Gibson-Hill published this short article in 1954, rescuing and contextualizing a letter by Captain E.G. Gardner describing a landing at Christmas Island in April 1864, originally published in the *Straits Times* on 21 May of that year. The piece situates Gardner's account within the sparse early history of the island and identifies the fauna he observed.

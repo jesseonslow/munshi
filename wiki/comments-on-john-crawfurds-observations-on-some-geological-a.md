@@ -6,8 +6,7 @@ title: Comments on John Crawfurd’s observations on some geological aspects of 
 canonical_name: Comments on John Crawfurd’s observations on some geological aspects
   of the Malaysian region in his _Journal of an Embassy to the Courts of Siam and
   Cochin_ (1828)
-type: article
-article_type: article
+type: publication
 authors:
 - T.T. Khoo
 year: 1996
@@ -21,6 +20,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: journal_article
 ---
 
 # Comments on John Crawfurd’s observations on some geological aspects of the Malaysian region in his Journal of an Embassy to the Courts of Siam and Cochin (1828

@@ -3,8 +3,7 @@ id: the-malay-howdah-nq-2
 work_id: jsbras-15-the-malay-howdah-nq-2
 title: The Malay howdah. NQ 2
 canonical_name: The Malay _howdah._ NQ 2
-type: article
-article_type: notes_and_queries
+type: publication
 authors:
 - W.E. Maxwell
 year: 1885
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-015-maxwell-frenchlanddecree-1885-44c56533a5d6
 source_path: ../sources/jsbras-015-maxwell-frenchlanddecree-1885-44c56533a5d6.md
 summarized: true
+publication_type: document
 ---
+
 # The Malay howdah. NQ 2
 
 W.E. Maxwell, in collaboration with Charles Thomson, published this article in the *Journal of the Siam Branch of the Royal Asiatic Society* (Vol. 15, 1885), presenting a translated and annotated account of the French land decree imposed on Cambodia in October 1884. The article situates the decree within the broader context of European colonial land administration in Asia and argues that it represents a decisive shift from the protectorate's previous hands-off approach to direct French control over Cambodian land tenure and revenue.

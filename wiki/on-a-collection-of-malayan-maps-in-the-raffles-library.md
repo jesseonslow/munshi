@@ -3,8 +3,7 @@ id: on-a-collection-of-malayan-maps-in-the-raffles-library
 work_id: jmbras-15-3-p49
 title: On a collection of Malayan maps in the Raffles Library
 canonical_name: On a collection of Malayan maps in the Raffles Library
-type: article
-article_type: article
+type: publication
 authors:
 - J.V. Mills
 year: 1937
@@ -27,7 +26,9 @@ published: false
 source_doc: jmalayanras-130-mills-collectionmalayanmaps-1937-71b0d9170b9e
 source_path: ../sources/jmalayanras-130-mills-collectionmalayanmaps-1937-71b0d9170b9e.md
 summarized: true
+publication_type: journal_article
 ---
+
 # On a collection of Malayan maps in the Raffles Library
 
 J.V. Mills, a Member of the Colonial Service, published this article in 1937 in the *Journal of the Malayan Branch of the Royal Asiatic Society* to document his 1934 commission to assemble a collection of early maps and charts of the Malay Peninsula, now housed in the Raffles Library, Singapore. The article functions simultaneously as a catalogue introduction and a candid methodological statement on the nascent state of Malayan cartographic scholarship.

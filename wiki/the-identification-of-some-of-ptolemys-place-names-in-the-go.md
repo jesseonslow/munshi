@@ -4,8 +4,7 @@ work_id: jmbras-24-3-p86
 title: The identification of some of Ptolemy’s place-names in the Golden Chersonese
 canonical_name: The identification of some of Ptolemy’s place-names in the Golden
   Chersonese
-type: article
-article_type: article
+type: publication
 authors:
 - W. Linehan
 year: 1951
@@ -28,7 +27,9 @@ published: false
 source_doc: jmalayanras-156-linehan-identificationsptolemysplacenames-1951-270eb805e25e
 source_path: ../sources/jmalayanras-156-linehan-identificationsptolemysplacenames-1951-270eb805e25e.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The identification of some of Ptolemy’s place-names in the Golden Chersonese
 
 W. Linehan, writing in 1951, undertook a systematic re-examination of Ptolemy's place-names for the Golden Chersonese (the Malay Peninsula) by combining archaeological evidence, historical geography, and etymological analysis rather than relying on the purely mathematical reconstruction of Ptolemy's coordinates. The article proposes revised identifications for several key toponyms—most notably locating the Khrysoanas in the Perak-Bernam river system, Sabara at ancient Klang, and Tharra at Bukit Treh on the Muar estuary—grounded in material finds and the geography of ancient land-river routes.

@@ -3,8 +3,7 @@ id: the-flora-of-lower-siam
 work_id: jsbras-59-1-p15
 title: The flora of Lower Siam
 canonical_name: The flora of Lower Siam
-type: article
-article_type: article
+type: publication
 authors:
 - H.N. Ridley
 year: 1911
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-059-ridley-floralowersiam-1911-e650d77bb907
 source_path: ../sources/jsbras-059-ridley-floralowersiam-1911-e650d77bb907.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The flora of Lower Siam
 
 H.N. Ridley, Director of the Singapore Botanic Gardens, published this floristic survey in 1911 to delineate the botanical boundary between the Siamese and Malayan floras along the western coast of the Malay Peninsula. Drawing on his own fieldwork in Kedah, Perlis, and Setul (March 1910) and earlier collections by Koenig, Curtis, and Dr. Keith, Ridley argues that a sharp floristic transition occurs at approximately Alor Star, where geology, climate, and plant composition all shift abruptly from the humid Malayan type to a distinctly xerophytic Siamese one.

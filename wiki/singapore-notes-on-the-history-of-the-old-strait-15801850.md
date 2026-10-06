@@ -3,8 +3,7 @@ id: singapore-notes-on-the-history-of-the-old-strait-15801850
 work_id: jmbras-27-1-p163
 title: 'Singapore: notes on the history of the old Strait, 1580–1850'
 canonical_name: 'Singapore: notes on the history of the old Strait, 1580–1850'
-type: article
-article_type: article
+type: publication
 authors:
 - C.A. Gibson-Hill
 year: 1954
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-165-gibsonhill-singaporenoteshistory-1954-904c66cec409
 source_path: ../sources/jmalayanras-165-gibsonhill-singaporenoteshistory-1954-904c66cec409/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Singapore: notes on the history of the old Strait, 1580–1850
 
 C.A. Gibson-Hill (1954) traces the navigational history of the waterway now called Keppel Harbour from 1580 to 1850, demonstrating that it was the original "Old Strait" of Singapore — the primary European passage between the Malacca Strait and the South China Sea — and that its official renaming after Admiral Keppel in 1900 rests on a demonstrable error. The article corrects two earlier misidentifications (Barnes, 1911; Moreland, 1934) and reconstructs the sequence by which the strait was abandoned, forgotten, rediscovered, and misnamed.

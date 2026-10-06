@@ -3,8 +3,7 @@ id: planters-estate-health-and-malaria-in-british-malaya-1900194
 work_id: jmbras-83-1-p91
 title: Planters, estate health and malaria in British Malaya (1900‒1940
 canonical_name: Planters, estate health and malaria in British Malaya (1900‒1940)
-type: article
-article_type: article
+type: publication
 authors:
 - Liew Kai Khiun
 year: 2010
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-298-khiun-plantersestatehealth-2010-9ad2fb6a33ef
 source_path: ../sources/jmbras-298-khiun-plantersestatehealth-2010-9ad2fb6a33ef/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Planters, estate health and malaria in British Malaya (1900‒1940
 
 Liew Kai Khiun (2010) examines the contested relationship between rubber plantation owners and the colonial state over public health responsibilities in British Malaya between 1900 and 1940, arguing that estate health was not merely a matter of medical provision but a site where planters actively negotiated the boundaries of private property, collective obligation, and state authority. The article positions the planting community as political agents who shaped colonial health policy rather than passive recipients of it.

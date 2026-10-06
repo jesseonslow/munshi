@@ -3,8 +3,7 @@ id: the-orang-laut-of-the-singapore-river-and-the-sampan-panjang
 work_id: jmbras-25-1-p161
 title: The Orang Laut of the Singapore River and the sampan panjang
 canonical_name: The Orang Laut of the Singapore River and the _sampan panjang._
-type: article
-article_type: article
+type: publication
 authors:
 - C.A. Gibson-Hill
 year: 1952
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-158-gibsonhill-oranglautsingapore-1952-f941b6259072
 source_path: ../sources/jmalayanras-158-gibsonhill-oranglautsingapore-1952-f941b6259072/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The Orang Laut of the Singapore River and the sampan panjang
 
 C. A. Gibson-Hill (1952) examines the Orang Laut community that inhabited the Singapore River from Raffles's landing in 1819 until their dispersal in the early 1840s, and traces the development of the Sampan Panjang—a racing and passenger boat form that emerged from their boat-building traditions and was ultimately rendered obsolete by the transition from sail to steam.

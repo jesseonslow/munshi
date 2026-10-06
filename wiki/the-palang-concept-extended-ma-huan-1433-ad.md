@@ -3,8 +3,7 @@ id: the-palang-concept-extended-ma-huan-1433-ad
 work_id: jmbras-48-1-p89
 title: 'The “ palang” concept extended: Ma Huan, 1433 A.D'
 canonical_name: 'The “ _palang”_ concept extended: Ma Huan, 1433 A.D'
-type: article
-article_type: article
+type: publication
 authors:
 - Tom Harrisson
 year: 1975
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-227-harrisson-palangconceptextended-1975-db46005999bf
 source_path: ../sources/jmbras-227-harrisson-palangconceptextended-1975-db46005999bf.md
 summarized: true
+publication_type: note
 ---
+
 # The “ palang” concept extended: Ma Huan, 1433 A.D
 
 Tom Harrisson presents a newly available English translation of a passage from Ma Huan's *Ying-yai Sheng-lan* (1433), documenting a Thai penis bead-insertion practice, as further evidence for the widespread historical distribution of male genital modification in Southeast Asia.

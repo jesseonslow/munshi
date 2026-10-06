@@ -5,8 +5,7 @@ title: Malay politics and the murder of J.W.W. Birch, British Resident in Perak 
   1875. The humiliation and revenge of the Maharaja Lela
 canonical_name: Malay politics and the murder of J.W.W. Birch, British Resident in
   Perak in 1875. The humiliation and revenge of the Maharaja Lela
-type: article
-article_type: article
+type: publication
 authors:
 - Cheah Boon Kheng
 year: 1998
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-274-kheng-malaypoliticsmurder-1998-1054a83e98cc
 source_path: ../sources/jmbras-274-kheng-malaypoliticsmurder-1998-1054a83e98cc/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Malay politics and the murder of J.W.W. Birch, British Resident in Perak in 1875. The humiliation and revenge of the Maharaja Lela
 
 Cheah Boon Kheng's 1998 article re-examines the murder of British Resident J.W.W. Birch in Perak (2 November 1875) by centring the analysis on the Maharaja Lela, the feudal chief of Pasir Salak who carried out the killing. Drawing on previously underutilised colonial correspondence, trial records, and Sultan Abdullah's exile letters, Cheah argues that the event was not a unified anti-colonial uprising but the product of irreconcilable factional rivalry between the two Perak Sultans, in which the Maharaja Lela operated as a Machiavellian actor who ultimately betrayed Sultan Abdullah to protect his own position under Sultan Ismail.

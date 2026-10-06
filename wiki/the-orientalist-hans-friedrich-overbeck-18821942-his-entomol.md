@@ -5,8 +5,7 @@ title: 'The orientalist Hans Friedrich Overbeck 1882–1942: his entomological w
   prisoner-ofwar experiences and known photographic images'
 canonical_name: 'The orientalist Hans Friedrich Overbeck 1882–1942: his entomological
   work, prisoner-ofwar experiences and known photographic images'
-type: article
-article_type: article
+type: publication
 authors:
 - R.W. Taylor
 year: 2014
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-306-taylor-orientalisthansfriedrich-2014-abe95608fce5
 source_path: ../sources/jmbras-306-taylor-orientalisthansfriedrich-2014-abe95608fce5/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The orientalist Hans Friedrich Overbeck 1882–1942: his entomological work, prisoner-ofwar experiences and known photographic images
 
 Robert W. Taylor's 2014 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* reconstructs the dual scholarly identity of Hans Friedrich Overbeck (1882–1942), a German mercantile trader and Malayologist based in Singapore and the Dutch East Indies who was simultaneously an active amateur entomologist and myrmecological collector. Drawing on Australian wartime archives, Dresden Museum correspondence, and recently discovered photographs, Taylor bridges two academic communities—Malayologists and entomologists—that had been largely unaware of each other's knowledge of the same individual, and in doing so recovers a significant body of entomological work produced under the unusual conditions of World War I internment in Australia.

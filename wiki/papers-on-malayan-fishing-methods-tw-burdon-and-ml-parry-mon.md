@@ -5,8 +5,7 @@ title: Papers on Malayan fishing methods. T.W. Burdon and M.L. Parry. Monographs
   Malay subjects, No 2
 canonical_name: Papers on Malayan fishing methods. T.W. Burdon and M.L. Parry. Monographs
   on Malay subjects, No 2
-type: article
-article_type: monograph
+type: publication
 authors:
 - T.W. Burdon
 - C.A. Gibson-Hill
@@ -25,7 +24,9 @@ published: false
 source_doc: jmalayanras-167-winstedt-digestcustomarylaw-1954-95772c2f625f
 source_path: ../sources/jmalayanras-167-winstedt-digestcustomarylaw-1954-95772c2f625f.md
 summarized: true
+publication_type: monograph
 ---
+
 # Papers on Malayan fishing methods. T.W. Burdon and M.L. Parry. Monographs on Malay subjects, No 2
 
 Richard Winstedt and P. E. de Josselin de Jong published their translation and edition of a Malay customary law text from Sungai Ujong in 1954, drawing on two early-twentieth-century manuscripts (a Jawi text and a Romanized version of 1904) to present one of the most complete surviving codifications of Minangkabau-influenced adat law from Negeri Sembilan. The work demonstrates that the legal and social order of this riverine district was structured around a sixfold taxonomy of normative sources, a detailed criminal code with graduated fines, and an elaborate moral philosophy linking Islamic jurisprudence to indigenous custom.

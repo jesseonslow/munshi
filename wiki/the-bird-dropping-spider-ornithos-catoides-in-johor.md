@@ -3,8 +3,7 @@ id: the-bird-dropping-spider-ornithos-catoides-in-johor
 work_id: jsbras-25-1-p172
 title: The bird-dropping spider (Ornithos catoides) in Johor
 canonical_name: The bird-dropping spider _(Ornithos catoides)_ in Johor
-type: article
-article_type: article
+type: publication
 authors:
 - H.N. Ridley
 year: 1894
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-025-r-birddroppingspiderornithoscatoides-1894-f31bc17e8e57
 source_path: ../sources/jsbras-025-r-birddroppingspiderornithoscatoides-1894-f31bc17e8e57.md
 summarized: true
+publication_type: note
 ---
+
 # The bird-dropping spider (Ornithos catoides) in Johor
 
 This brief note by H. N. Ridley reports the discovery of a species of the bird-dropping spider genus *Ornithoscatoides* on Gunong Panti in Johor, which he considers probably distinct from Forbes' *O. decipiens* from Java and Sumatra (p. 173).

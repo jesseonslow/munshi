@@ -3,8 +3,7 @@ id: birds-in-the-botanic-gardens-singapore
 work_id: jsbras-31-1-p73
 title: Birds in the Botanic gardens, Singapore
 canonical_name: Birds in the Botanic gardens, Singapore
-type: article
-article_type: article
+type: publication
 authors:
 - H.N. Ridley
 year: 1898
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-031-ridley-birdsbotanicgardens-1898-d833df183a9e
 source_path: ../sources/jsbras-031-ridley-birdsbotanicgardens-1898-d833df183a9e.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Birds in the Botanic gardens, Singapore
 
 H. N. Ridley, Superintendent of the Singapore Botanic Gardens, published this descriptive natural history account in 1898, drawing on his long residence in the gardens to document the avifauna observable within and around their grounds. The article's implicit thesis is that Singapore's birdlife, though often perceived by residents as limited to the ubiquitous black-and-white robin, is in fact rich and varied, and that patient observation in the gardens' mixed habitat of shrubbery, woodland, and lakes reveals a considerable assemblage of species.

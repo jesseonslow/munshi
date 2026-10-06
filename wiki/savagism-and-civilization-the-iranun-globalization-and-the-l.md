@@ -5,8 +5,7 @@ title: 'Savagism and civilization: the Iranun, globalization and the literature 
   Joseph Conrad'
 canonical_name: 'Savagism and civilization: the Iranun, globalization and the literature
   of Joseph Conrad'
-type: article
-article_type: article
+type: publication
 authors:
 - J.F. Warren
 year: 2001
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-280-warren-savagismcivilizationiranun-2001-cd1815208f77
 source_path: ../sources/jmbras-280-warren-savagismcivilizationiranun-2001-cd1815208f77/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Savagism and civilization: the Iranun, globalization and the literature of Joseph Conrad
 
 J.F. Warren's 2001 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* examines the Iranun maritime raiders of the Sulu–Mindanao region from the late eighteenth through the mid-nineteenth century, arguing that their so-called "piracy" was not a symptom of cultural savagism or civilizational decline but a rational, state-sanctioned response to the integration of the Sulu sultanate into the emerging global capitalist economy. Warren further demonstrates how the dehumanizing "moro/Illanun" stereotype was systematically constructed in colonial official discourse and perpetuated in the fiction of Joseph Conrad, whose Indonesian novels drew on the same imperial sources—Raffles, Brooke, Royal Navy captains—that had justified the conquest and erasure of the Iranun as a people.

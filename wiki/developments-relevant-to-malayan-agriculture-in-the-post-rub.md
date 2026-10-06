@@ -5,8 +5,7 @@ title: Developments relevant to Malayan agriculture in the post-rubber crisis er
   (1920–1921
 canonical_name: Developments relevant to Malayan agriculture in the post-rubber crisis
   era (1920–1921)
-type: article
-article_type: article
+type: publication
 authors:
 - Khoo Kay Kim
 year: 1999
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-277-kim-developmentsrelevantmalayan-1999-368d849927e7
 source_path: ../sources/jmbras-277-kim-developmentsrelevantmalayan-1999-368d849927e7/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Developments relevant to Malayan agriculture in the post-rubber crisis era (1920–1921
 
 Khoo Kay Kim (1999) examines the post-rubber crisis era in Malaya (1920–1921) and the agricultural developments that followed, arguing that while the Stevenson Restriction Scheme dominates the historiography, four lesser-known institutional and economic developments—agricultural diversification, the Rubber Research Institute, the Asiatic Planters' Association of Malaya, and the School of Agriculture at Serdang—were equally consequential for the colony's long-term economic trajectory.

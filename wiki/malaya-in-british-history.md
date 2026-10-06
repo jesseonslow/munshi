@@ -3,8 +3,7 @@ id: malaya-in-british-history
 work_id: jmbras-62-1-p11
 title: Malaya in British history
 canonical_name: Malaya in British history
-type: article
-article_type: article
+type: publication
 authors:
 - N. Tarling
 year: 1989
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-256-tarling-malayabritishhistory-1989-0be0e2891097
 source_path: ../sources/jmbras-256-tarling-malayabritishhistory-1989-0be0e2891097.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Malaya in British history
 
 Nicholas Tarling, a leading Southeast Asian historian, delivered this reflective lecture to the MBRAS in Kuala Lumpur in February 1989, synthesising decades of research on British imperial policy. His central thesis is that British power from the late eighteenth century should be understood not as a drive for territorial empire but as the exertion of force to the minimum degree required to secure conditions favourable to world commerce — a framework that explains both the limited nature of British holdings in Malaya and the distinctive character of the Anglo-Malayan relationship.

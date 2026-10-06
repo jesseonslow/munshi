@@ -3,8 +3,7 @@ id: on-the-heel-pad-in-certain-malaysian-birds
 work_id: jmbras-1-1-p237
 title: On the heel-pad in certain Malaysian birds
 canonical_name: On the heel-pad in certain Malaysian birds
-type: article
-article_type: article
+type: publication
 authors:
 - F.N. Chasen
 year: 1923
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-087-chasen-heelpadcertainmalaysian-1923-ee75c607520a
 source_path: ../sources/jmalayanras-087-chasen-heelpadcertainmalaysian-1923-ee75c607520a.md
 summarized: true
+publication_type: journal_article
 ---
+
 # On the heel-pad in certain Malaysian birds
 
 F.N. Chasen's 1923 article in the first volume of the *Journal of the Malaysian Branch of the Royal Asiatic Society* examines the heel-pad—a thickened, sometimes tuberculated pad on the metatarsal joint of nestling birds—across Malaysian species, arguing that the structure is a morphological consequence of the plantigrade posture adopted by altricial nestlings whose ankle joints are not yet functionable. Drawing on specimens from the Raffles Museum in Singapore, Chasen documents the persistence of well-developed pads in adult Barbets and their early shedding in Woodpeckers, while also cataloguing incipient pads in a wide range of other families.

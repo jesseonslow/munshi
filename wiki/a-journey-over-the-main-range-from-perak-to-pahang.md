@@ -3,8 +3,7 @@ id: a-journey-over-the-main-range-from-perak-to-pahang
 work_id: jsbras-68-1-p1
 title: A journey over the main range from Perak to Pahang
 canonical_name: A journey over the main range from Perak to Pahang
-type: article
-article_type: article
+type: publication
 authors:
 - J.E. Nathan
 year: 1915
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: false
 source_doc: jsbras-068-nathan-journeymainrange-1915-a79c7d8dfb88
 source_path: ../sources/jsbras-068-nathan-journeymainrange-1915-a79c7d8dfb88.md
+publication_type: note
 ---
+
 # A journey over the main range from Perak to Pahang
 
 J.E. Nathan's 1915 account documents a west-to-east traverse of the Titiwangsa main range from Ulu Slim in Perak to the Lipis river in Pahang, retracing the route taken by Frank Swettenham and party in 1885. Nathan's central purpose is comparative: to assess what thirty years of colonial administration and mining activity had changed in this remote interfluve, and his conclusion is that the changes have been surprisingly modest.

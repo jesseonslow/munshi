@@ -3,8 +3,7 @@ id: traditional-islamic-schools-in-kelantan
 work_id: jmbras-48-1-p91
 title: Traditional Islamic schools in Kelantan
 canonical_name: Traditional Islamic schools in Kelantan
-type: article
-article_type: article
+type: publication
 authors:
 - R.L. Winzeler
 year: 1975
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: true
 source_doc: jmbras-227-winzeler-traditionalislamicschools-1975-bd55674320c7
 source_path: ../sources/jmbras-227-winzeler-traditionalislamicschools-1975-bd55674320c7.md
+publication_type: journal_article
 ---
+
 # Traditional Islamic schools in Kelantan
 
 Robert L. Winzeler's 1975 article documents the structure, social function, and political entanglement of traditional Islamic boarding schools (*pondoks*) in Kelantan, a northeastern Malaysian state distinguished by an unusually strong popular commitment to Islam. Drawing on fieldwork conducted in 1966–67 and 1971, Winzeler argues that *pondoks* are not merely educational institutions but the foundational social and political units through which Kelantanese Islamic identity has been produced, sustained, and contested in the face of modernization and party politics.

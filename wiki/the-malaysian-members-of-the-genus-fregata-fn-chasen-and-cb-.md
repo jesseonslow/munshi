@@ -5,8 +5,7 @@ title: The Malaysian members of the genus Fregata. F.N. Chasen and C.B. Kloss. R
   of the Raffles Museum, No. 3
 canonical_name: The Malaysian members of the genus _Fregata._ F.N. Chasen and C.B.
   Kloss. Records of the Raffles Museum, No. 3
-type: article
-article_type: article
+type: publication
 authors:
 - F.N. Chasen
 - C.B. Kloss
@@ -24,7 +23,9 @@ published: false
 source_doc: jmalayanras-090-chasen-malaysianmembersgenus-1924-45998bef9360
 source_path: ../sources/jmalayanras-090-chasen-malaysianmembersgenus-1924-45998bef9360.md
 summarized: true
+publication_type: note
 ---
+
 # The Malaysian members of the genus Fregata. F.N. Chasen and C.B. Kloss. Records of the Raffles Museum, No. 3
 
 This note by F.N. Chasen and C.B. Kloss identifies and keys the frigate-bird species (genus *Fregata*) occurring in Malaysian waters, based on examination of specimens in the Sarawak Museum and the Buitenzorg collection (p. 63).

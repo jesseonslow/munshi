@@ -3,8 +3,7 @@ id: the-trade-of-singapore-181969
 work_id: jmbras-33-4-p1
 title: The trade of Singapore, 1819–69
 canonical_name: The trade of Singapore, 1819–69
-type: article
-article_type: article
+type: publication
 authors:
 - Wong Lin Ken
 year: 1960
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: true
 source_doc: jmalayanras-192-ken-tradesingapore181969-1960-80e4b5bf5a3f
 source_path: ../sources/appendix.md
+publication_type: monograph
 ---
+
 # The trade of Singapore, 1819–69
 
 Wong Lin Ken's 1960 monograph, published in the *Journal of the Malayan Branch of the Royal Asiatic Society*, provides the first comprehensive quantitative and qualitative study of Singapore's commercial development from its founding in 1819 to the opening of the Suez Canal in 1869. Drawing on Straits Settlements Records, British Parliamentary Papers, and contemporary trade returns, Wong argues that Singapore's transformation from an obscure fishing village into a major entrepot of eastern trade was driven by the convergence of its strategic geographical position, its status as a free port, and the absence of governmental interference in commercial transactions (pp. 194–201).

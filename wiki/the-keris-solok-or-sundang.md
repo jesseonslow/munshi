@@ -3,8 +3,7 @@ id: the-keris-solok-or-sundang
 work_id: jmbras-18-2-p105
 title: The keris Solok or Sundang
 canonical_name: The _keris_ Solok or Sundang
-type: article
-article_type: article
+type: publication
 authors:
 - E. Banks
 year: 1940
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-138-banks-krissuloksundang-1940-68f530a24e16
 source_path: ../sources/jmalayanras-138-banks-krissuloksundang-1940-68f530a24e16.md
 summarized: true
+publication_type: note
 ---
+
 # The keris Solok or Sundang
 
 E. Banks's short note describes the Keris Solok (or Sundang), a double-edged broadsword characteristic of Bornean Malays, and proposes its role as a possible ancestor of the straight Kayan and Kenyah cutting swords.

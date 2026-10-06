@@ -3,8 +3,7 @@ id: the-chronicles-of-pasai
 work_id: jmbras-16-2-p24
 title: The chronicles of Pasai
 canonical_name: The chronicles of Pasai
-type: article
-article_type: article
+type: publication
 authors:
 - R.O. Winstedt
 year: 1938
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-132-winstedt-chroniclespasai-1938-79a0fd0ee737
 source_path: ../sources/jmalayanras-132-winstedt-chroniclespasai-1938-79a0fd0ee737.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The chronicles of Pasai
 
 R.O. Winstedt's 1938 article in the *Journal of the Malayan Branch of the Royal Asiatic Society* examines the *Hikayat Raja-Raja Pasai*, the oldest surviving Malay chronicle, arguing that it was composed in the fifteenth century and served as a direct literary model for the *Sejarah Melayu*. Winstedt, writing as both colonial administrator and scholar, uses the text to illuminate the early Islamic conversion of the Malay world and the deep Indian cultural influence on the court of Pasai.

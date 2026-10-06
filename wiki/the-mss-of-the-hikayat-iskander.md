@@ -3,8 +3,7 @@ id: the-mss-of-the-hikayat-iskander
 work_id: jmbras-28-1-p161
 title: The MSS of the Hikayat Iskander
 canonical_name: The MSS of the _Hikayat Iskander._
-type: article
-article_type: article
+type: publication
 authors:
 - F.W. Douglas
 year: 1955
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-169-douglas-msshikayatiskandar-1955-058c04ac6dc9
 source_path: ../sources/jmalayanras-169-douglas-msshikayatiskandar-1955-058c04ac6dc9.md
 summarized: true
+publication_type: note
 ---
+
 # The MSS of the Hikayat Iskander
 
 This brief note by Dato' F.W. Douglas traces the provenance of the four *Hikayat Iskandar* manuscripts catalogued by Winstedt, identifying their likely common source in a copy made in 1867 by Tungku Kudin (Tungku Dia-uddin), a Kedah prince and former Viceroy of Langat.

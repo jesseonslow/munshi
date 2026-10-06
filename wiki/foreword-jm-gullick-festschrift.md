@@ -3,8 +3,7 @@ id: foreword-jm-gullick-festschrift
 work_id: jmbras-72-2-p1
 title: Foreword (J.M. Gullick Festschrift
 canonical_name: Foreword (J.M. Gullick Festschrift)
-type: article
-article_type: article
+type: publication
 authors:
 - H.S. Barlow
 year: 1999
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: true
 source_doc: jmbras-277-barlow-foreword-1999-f10b201180c9
 source_path: ../sources/jmbras-277-barlow-foreword-1999-f10b201180c9.md
+publication_type: note
 ---
+
 # Foreword (J.M. Gullick Festschrift)
 
 This is a one-page foreword by H.S. Barlow, editor of the Festschrift volume honouring J.M. Gullick, published in JMBRAS Vol. 72, Part 2 (1999).

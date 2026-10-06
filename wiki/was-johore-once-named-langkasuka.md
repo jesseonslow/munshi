@@ -3,8 +3,7 @@ id: was-johore-once-named-langkasuka
 work_id: jmbras-1-1-p253
 title: Was Johore once named Langkasuka?
 canonical_name: Was Johore once named Langkasuka?
-type: article
-article_type: article
+type: publication
 authors:
 - R.O. Winstedt
 year: 1923
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: true
 source_doc: jmalayanras-087-winstedt-johorenamedlangkasuka-1923-30b89d7cfa7c
 source_path: ../sources/jmalayanras-087-winstedt-johorenamedlangkasuka-1923-30b89d7cfa7c.md
+publication_type: note
 ---
+
 # Was Johore once named Langkasuka?
 
 This is the concluding page (p. 253) of R. O. Winstedt's article on the *Hikayat Sultan Ibrahim*, published in JMBRAS Vol. 1, No. 1 (87), April 1923. The page header identifies the article as "Winstedt: *Hikayat Sultan Ibrahim*," while the title "Was Johore once named Langkasuka?" appears as a separate item on the same page.

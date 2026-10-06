@@ -3,8 +3,7 @@ id: tom-harrisson-personal-glimpses
 work_id: jmbras-49-1-p145
 title: 'Tom Harrisson: personal glimpses'
 canonical_name: 'Tom Harrisson: personal glimpses'
-type: article
-article_type: article
+type: publication
 authors:
 - Haile N.S
 year: 1976
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-229-haile-tomharrissonpersonal-1976-f7677bf574d7
 source_path: ../sources/jmbras-229-haile-tomharrissonpersonal-1976-f7677bf574d7.md
 summarized: true
+publication_type: obituary
 ---
+
 # Tom Harrisson: personal glimpses
 
 This is a personal obituary by Professor Neville Haile commemorating Tom Harrisson, the British anthropologist and naturalist who died in 1976 at the age of 64.

@@ -3,8 +3,7 @@ id: trengganu-royal-family
 work_id: jmbras-11-2-p253
 title: Trengganu royal family
 canonical_name: Trengganu royal family
-type: article
-article_type: article
+type: publication
 authors:
 - H.P. Bryson
 year: 1933
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-117-bryson-trengganuroyalfamily-1933-06ae6924ed9a
 source_path: ../sources/jmalayanras-117-bryson-trengganuroyalfamily-1933-06ae6924ed9a.md
 summarized: true
+publication_type: note
 ---
+
 # Trengganu royal family
 
 A brief note by H. P. Bryson providing local Malay epithets for several sultans of Trengganu, prompted by a reference in Dr. Winstedt's earlier article (p. 253).

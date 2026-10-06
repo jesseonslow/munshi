@@ -3,8 +3,7 @@ id: some-observations-on-stone-and-glass-beads-in-early-south-ea
 work_id: jmbras-38-2-p87
 title: Some observations on stone and glass beads in early South-East Asia
 canonical_name: Some observations on stone and glass beads in early South-East Asia
-type: article
-article_type: article
+type: publication
 authors:
 - A. Lamb
 year: 1965
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-208-lamb-observationsstoneglass-1965-caace9b6400c
 source_path: ../sources/jmbras-208-lamb-observationsstoneglass-1965-caace9b6400c.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Some observations on stone and glass beads in early South-East Asia
 
 Alastair Lamb, a British archaeologist active in Malaya, published this wide-ranging survey in 1965 to argue that stone and glass beads—long neglected in South-East Asian archaeology—constitute a category of evidence with major implications for reconstructing ancient trade networks and site chronology. Drawing on his own fieldwork across the Malay Peninsula, South Thailand, and South India, Lamb demonstrates that bead assemblages, rather than individual types, are the key to meaningful interpretation, and that the ubiquitous "Roman" beads of the Johore River sites are of far less chronological significance than earlier scholars had supposed.

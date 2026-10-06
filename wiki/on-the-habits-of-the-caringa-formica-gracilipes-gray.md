@@ -3,8 +3,7 @@ id: on-the-habits-of-the-caringa-formica-gracilipes-gray
 work_id: jsbras-22-1-p345
 title: On the habits of the caringa (Formica gracilipes, Gray
 canonical_name: On the habits of the _caringa (Formica gracilipes,_ Gray)
-type: article
-article_type: article
+type: publication
 authors:
 - H.N. Ridley
 year: 1890
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-022-ridley-habitscaringaformica-1890-fe415684f8e2
 source_path: ../sources/jsbras-022-ridley-habitscaringaformica-1890-fe415684f8e2.md
 summarized: true
+publication_type: note
 ---
+
 # On the habits of the caringa (Formica gracilipes, Gray
 
 This short note by H. N. Ridley describes the nest-building behaviour, combat tactics, and feeding habits of the caringa ant (*Formica gracilipes*, Gray) in the Straits Settlements.

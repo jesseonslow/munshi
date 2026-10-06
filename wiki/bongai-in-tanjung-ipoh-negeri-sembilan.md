@@ -3,8 +3,7 @@ id: bongai-in-tanjung-ipoh-negeri-sembilan
 work_id: jmbras-75-1-p91
 title: Bongai in Tanjung Ipoh, Negeri Sembilan
 canonical_name: Bongai in Tanjung Ipoh, Negeri Sembilan
-type: article
-article_type: article
+type: publication
 authors:
 - M. Collins
 year: 2002
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-282-collins-bongaitanjungipoh-2002-97d9f227ffe5
 source_path: ../sources/jmbras-282-collins-bongaitanjungipoh-2002-97d9f227ffe5/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Bongai in Tanjung Ipoh, Negeri Sembilan
 
 Megan Collins's 2002 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* (Vol. 75, No. 282) presents an ethnomusicological comparison of *bongai* music in Tanjung Ipoh, Negri Sembilan, with the *rabab Pasisia* tradition of West Sumatra, arguing that the ornamental violin style of *bongai* draws on a shared older Minangkabau source of melodic embellishment (*gelitik*) rather than being a direct derivative of the *rabab Pasisia* itself.

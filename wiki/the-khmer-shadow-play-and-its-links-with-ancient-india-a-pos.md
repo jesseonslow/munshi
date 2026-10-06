@@ -5,8 +5,7 @@ title: The Khmer shadow play and its links with ancient India, a possible source
   the Malay shadow play of Kelantan and Trengganu
 canonical_name: The Khmer shadow play and its links with ancient India, a possible
   source of the Malay shadow play of Kelantan and Trengganu
-type: article
-article_type: article
+type: publication
 authors:
 - Mubin Sheppard
 year: 1968
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-213-sheppard-khmershadowplay-1968-10eb0813c0bd
 source_path: ../sources/jmbras-213-sheppard-khmershadowplay-1968-10eb0813c0bd.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The Khmer shadow play and its links with ancient India, a possible source of the Malay shadow play of Kelantan and Trengganu
 
 Mubin Sheppard (1968) argues that the Malay shadow play of Kelantan and Trengganu derives not from Indonesia but from the Khmer shadow play tradition, which itself originated in ancient India. The article is grounded in Sheppard's direct observation of Khmer shadow play figures and performances in Cambodia during a 1968 visit, and in consultation with scholars in Phnom Penh and Siem Reap.

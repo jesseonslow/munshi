@@ -5,8 +5,7 @@ title: 'Territorial patterns among Chinese secret societies in Singapore and pen
   Malaysia: some tentative findings'
 canonical_name: 'Territorial patterns among Chinese secret societies in Singapore
   and peninsular Malaysia: some tentative findings'
-type: article
-article_type: article
+type: publication
 authors:
 - Mak Lau-fong
 - A. Wong
@@ -24,7 +23,9 @@ published: false
 source_doc: jmbras-233-laufong-territorialpatternsamong-1978-1cda8280df3b
 source_path: ../sources/jmbras-233-laufong-territorialpatternsamong-1978-1cda8280df3b.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Territorial patterns among Chinese secret societies in Singapore and peninsular Malaysia: some tentative findings
 
 Mak Lau-fong and Aline Wong (1978) examine how Chinese secret societies in Singapore and Peninsular Malaysia demarcated and contested operational territories across two distinct historical periods: the colonial Straits Settlements era and the post-independence modern era. Their central argument is that territorial patterns shifted fundamentally from occupation-based ethnic monopolization—sustained by the credit-ticket labour recruitment system—to protection-fee collection oriented purely toward maximizing economic returns from subscribers regardless of ethnicity or trade.

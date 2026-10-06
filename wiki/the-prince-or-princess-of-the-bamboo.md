@@ -3,8 +3,7 @@ id: the-prince-or-princess-of-the-bamboo
 work_id: jsbras-18-1-p357
 title: The Prince, or Princess of the bamboo
 canonical_name: The Prince, or Princess of the bamboo
-type: article
-article_type: article
+type: publication
 authors:
 - W.E. Maxwell
 year: 1886
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-018-m-princeprincessbamboo-1886-5dcdda61f9db
 source_path: ../sources/jsbras-018-m-princeprincessbamboo-1886-5dcdda61f9db.md
 summarized: true
+publication_type: note
 ---
+
 # The Prince, or Princess of the bamboo
 
 This brief note by W.E. Maxwell (W.E.M.) discusses the Japanese tale of the bamboo-hewer and its parallels in Malay legend, published in the JSBRAS in December 1886.

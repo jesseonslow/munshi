@@ -3,8 +3,7 @@ id: robert-w-duff-a-british-seigneur-in-kelantan-18921932
 work_id: jmbras-70-1-p1
 title: 'Robert W. Duff: a British seigneur in Kelantan, 1892–1932'
 canonical_name: 'Robert W. Duff: a British seigneur in Kelantan, 1892–1932'
-type: article
-article_type: article
+type: publication
 authors:
 - E. Levos
 year: 1997
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: true
 source_doc: jmbras-272-levos-robertwduff-1997-869db772219e
 source_path: ../sources/bibliography.md
+publication_type: journal_article
 ---
+
 # Robert W. Duff: a British seigneur in Kelantan, 1892–1932
 
 ## Abstract

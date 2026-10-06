@@ -3,8 +3,7 @@ id: the-history-of-the-peninsula-in-folk-tales
 work_id: jsbras-57-1-p183
 title: The history of the peninsula in folk-tales
 canonical_name: The history of the peninsula in folk-tales
-type: article
-article_type: article
+type: publication
 authors:
 - R.O. Winstedt
 year: 1911
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-057-winstedt-historypeninsulafolktales-1911-ccd0259fba2d
 source_path: ../sources/jsbras-057-winstedt-historypeninsulafolktales-1911-ccd0259fba2d.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The history of the peninsula in folk-tales
 
 R. O. Winstedt, a colonial administrator and collector of Malay oral literature, published this short article in the *Journal of the S. B. R. A. Soc.* in 1911, arguing that the folk-tales of the Malay Peninsula—long dismissed as mere entertainment—can supply supplementary evidence for pre-Malaccan Malay settlements along the coast. His thesis is that these tales, though riddled with anachronism and fiction, preserve genuine memories of early, now-forgotten settlements that antedate the founding of Malacca in 1400.

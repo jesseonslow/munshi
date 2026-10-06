@@ -3,8 +3,7 @@ id: some-plants-collected-on-mr-moultons-expedition-to-batu-lawi
 work_id: jsbras-63-1-p59
 title: Some plants collected on Mr. Moulton’s expedition to Batu Lawi
 canonical_name: Some plants collected on Mr. Moulton’s expedition to Batu Lawi
-type: article
-article_type: article
+type: publication
 authors:
 - H.N. Ridley
 year: 1912
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-063-moulton-expeditionmountbatu-1912-94eae97ebac5
 source_path: ../sources/jsbras-063-moulton-expeditionmountbatu-1912-94eae97ebac5/frontmatter.md
 summarized: true
+publication_type: note
 ---
+
 # Some plants collected on Mr. Moulton’s expedition to Batu Lawi
 
 H.N. Ridley, Curator of the Sarawak Museum, published this brief botanical note in 1912 to document the plant specimens gathered during J.C. Moulton's 1911 expedition to Mount Batu Lawi in the upper Limbang district of Sarawak. The article serves as a companion to Moulton's lengthy narrative account of the same journey, which appears elsewhere in the same volume of the *Journal of the Straits Branch of the Royal Asiatic Society*.

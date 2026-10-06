@@ -3,8 +3,7 @@ id: british-policy-in-the-malay-peninsula-and-archipelago-182418
 work_id: jmbras-30-3-p1
 title: British policy in the Malay Peninsula and Archipelago, 1824–1871
 canonical_name: British policy in the Malay Peninsula and Archipelago, 1824–1871
-type: article
-article_type: article
+type: publication
 authors:
 - N. Tarling
 year: 1957
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: true
 source_doc: jmalayanras-179-tarling-britishpolicymalay-1957-6559db1034e7
 source_path: ../sources/bibliography.md
+publication_type: monograph
 ---
+
 # British policy in the Malay Peninsula and Archipelago, 1824–1871
 
 Nicholas Tarling's 1957 study, originally his Cambridge PhD thesis (1956), provides the first comprehensive analysis of British policy in the Malay Peninsula and Archipelago between 1824 and 1871, drawing extensively on previously unused Foreign Office, Colonial Office, East India Company, and India Office records (p. 5). The work argues that British policy in the region was shaped by a persistent tension between broad strategic imperatives—protecting India, securing the China trade route, and excluding rival powers—and the narrower commercial interests of the Straits Settlements, whose entrepot trade depended on the independence of native states (pp. 16–18).

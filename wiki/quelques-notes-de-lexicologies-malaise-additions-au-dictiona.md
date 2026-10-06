@@ -5,8 +5,7 @@ title: '{Quelques notes de lexicologies malaise. Additions au Dictionaire malais
   de l’ Abbé Favre, par M. Marcel Device'
 canonical_name: '{_Quelques notes de lexicologies malaise. Additions au Dictionaire
   malais-francais de l’ Abbé Favre_, par M. Marcel Device}'
-type: article
-article_type: article
+type: publication
 authors:
 - W.E. Maxwell
 year: 1883
@@ -23,7 +22,9 @@ published: false
 source_doc: jsbras-012-maxwell-annualreportcouncil-1883-8d4797b437fb
 source_path: ../sources/jsbras-012-maxwell-annualreportcouncil-1883-8d4797b437fb.md
 summarized: true
+publication_type: note
 ---
+
 # {Quelques notes de lexicologies malaise. Additions au Dictionaire malais-francais de l’ Abbé Favre, par M. Marcel Device
 
 This document is the Annual Report of the Council of the Straits Branch of the Royal Asiatic Society for the year 1883, signed by W. E. Maxwell, Honorary Secretary, and accompanied by the Treasurer's Cash Account prepared by Edwin Koek (pp. xiii–xix).

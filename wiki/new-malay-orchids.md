@@ -3,8 +3,7 @@ id: new-malay-orchids
 work_id: jsbras-39-1-p71
 title: New Malay orchids
 canonical_name: New Malay orchids
-type: article
-article_type: article
+type: publication
 authors:
 - H.N. Ridley
 year: 1903
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-039-ridley-newmalayorchids-1903-d0cfea9c9fd8
 source_path: ../sources/jsbras-039-ridley-newmalayorchids-1903-d0cfea9c9fd8.md
 summarized: true
+publication_type: journal_article
 ---
+
 # New Malay orchids
 
 H. N. Ridley, a leading colonial-era botanist working on the *Flora of the Malay Peninsula*, published this taxonomic paper in 1903 describing forty new orchid species collected primarily from the Malay Peninsula and secondarily from Sumatra. The article extends the orchid inventory of the region beyond the 530 species in 87 genera already catalogued in his earlier *Orchids of the Malay Peninsula* (1889), and it draws heavily on field collections made by assistants and local collectors across Perak, Selangor, Penang, Johor, Kedah, Pahang, and the Lankawi Islands.

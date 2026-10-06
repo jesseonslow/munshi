@@ -3,8 +3,7 @@ id: immigration-control-during-the-emergency
 work_id: jmbras-89-1-p35
 title: Immigration control during the Emergency
 canonical_name: Immigration control during the Emergency
-type: article
-article_type: article
+type: publication
 authors:
 - Low Choo Chin
 year: 2016
@@ -28,7 +27,9 @@ keywords:
 - re-entry
 - China
 - citizenship
+publication_type: journal_article
 ---
+
 # Immigration control during the Emergency
 
 ## Abstract

@@ -4,8 +4,7 @@ work_id: jmbras-91-1-p69
 title: 'The Anglo-Chinese College in Malacca, 1818–1843: its location and facilities'
 canonical_name: 'The Anglo-Chinese College in Malacca, 1818–1843: its location and
   facilities'
-type: article
-article_type: article
+type: publication
 authors:
 - P. Kua
 year: 2018
@@ -28,7 +27,9 @@ keywords:
 - Robert Morrison
 - William Milne
 - Protestant missionaries
+publication_type: journal_article
 ---
+
 # The Anglo-Chinese College in Malacca, 1818–1843: its location and facilities
 
 ## Abstract

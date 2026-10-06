@@ -3,8 +3,7 @@ id: medals-connected-with-siam
 work_id: jmbras-24-1-p176
 title: Medals connected with Siam
 canonical_name: Medals connected with Siam
-type: article
-article_type: article
+type: publication
 authors:
 - E. Wodak
 year: 1951
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-154-wodak-medalsconnectedsiam-1951-a53e0be739bb
 source_path: ../sources/jmalayanras-154-wodak-medalsconnectedsiam-1951-a53e0be739bb.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Medals connected with Siam
 
 E. Wodak's 1951 article catalogues a small group of commemorative medals struck in France to mark diplomatic encounters between Siam and the French court, spanning from the embassy of King Narai to Louis XIV in 1686 to King Chulalongkorn's visit to the Paris mint in 1897. The piece addresses the numismatic problem posed by the scarcity of documentary records for Siamese medals, relying instead on physical specimens in the author's own collection and on the earlier description by J. Haas (1880).

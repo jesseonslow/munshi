@@ -3,8 +3,7 @@ id: court-language-and-etiquette-of-the-malays
 work_id: jmbras-11-2-p273
 title: Court language and etiquette of the Malays
 canonical_name: Court language and etiquette of the Malays
-type: article
-article_type: article
+type: publication
 authors:
 - Muhammad Ghazali
 year: 1933
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-117-ghazzali-courtlanguageetiquette-1933-d9e3924d328f
 source_path: ../sources/jmalayanras-117-ghazzali-courtlanguageetiquette-1933-d9e3924d328f.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Court language and etiquette of the Malays
 
 Dato' Muhammad Ghazzali, a senior courtier of Kelantan with thirty years of service to the royal family, published this practical manual on Malay court language and etiquette in 1933, addressing a European readership seeking to understand the unwritten but rigidly enforced code of conduct governing interaction with Malay royalty. The article's overarching thesis is that mastery of court language and manners constitutes a *sine qua non* of Malay social life, valued even above formal education, and that the entire system functions as a mechanism of social stratification preserved "from time immemorial."

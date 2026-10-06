@@ -3,8 +3,7 @@ id: tom-harrisson-archaeologist
 work_id: jmbras-49-1-p149
 title: Tom Harrisson, archaeologist
 canonical_name: Tom Harrisson, archaeologist
-type: article
-article_type: article
+type: publication
 authors:
 - M.W.F. Tweedie
 year: 1976
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-229-tweedie-tomharrissonarchaeologist-1976-280865a03c49
 source_path: ../sources/jmbras-229-tweedie-tomharrissonarchaeologist-1976-280865a03c49.md
 summarized: true
+publication_type: obituary
 ---
+
 # Tom Harrisson, archaeologist
 
 This is a brief biographical and archaeological tribute by Dr. M.W.F. Tweedie to Tom Harrisson, Curator of the Sarawak Museum (1947–1966), published in JMBRAS Vol. 49 (1976).

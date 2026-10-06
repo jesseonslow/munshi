@@ -3,8 +3,7 @@ id: malay-women-and-prostitution-in-kota-bharu-kelantan-1950s197
 work_id: jmbras-78-1-p97
 title: Malay women and prostitution in Kota Bharu, Kelantan, 1950s–1970s
 canonical_name: Malay women and prostitution in Kota Bharu, Kelantan, 1950s–1970s
-type: article
-article_type: article
+type: publication
 authors:
 - Haryati Hasan
 year: 2005
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-288-hasan-malaywomenprostitution-2005-385c9c5fca56
 source_path: ../sources/jmbras-288-hasan-malaywomenprostitution-2005-385c9c5fca56/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Malay women and prostitution in Kota Bharu, Kelantan, 1950s–1970s
 
 Haryati Hasan, in this 2005 article for the *Journal of the Malayan Branch of the Royal Asiatic Society*, examines the social history of Malay women's involvement in prostitution in Kota Bharu, Kelantan, during the 1950s–1970s. Her central thesis is that the persistence of prostitution in this conservative northern Malay community is rooted not in moral failure but in structural socio-economic conditions—divorce, poverty, and lack of education—that are themselves products of Malay community values and attitudes towards women (p. 97).

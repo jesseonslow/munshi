@@ -3,8 +3,7 @@ id: gemencheh-district-of-johol-negri-sembilan
 work_id: jsbras-21-1-p167
 title: Gemencheh (District of Johol) Negri Sembilan
 canonical_name: Gemencheh (District of Johol) Negri Sembilan
-type: article
-article_type: article
+type: publication
 authors:
 - L.C. Isnard
 year: 1890
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-021-isnard-gemenchehdistrictdu-1890-869b14af6651
 source_path: ../sources/jsbras-021-isnard-gemenchehdistrictdu-1890-869b14af6651.md
 summarized: true
+publication_type: note
 ---
+
 # Gemencheh (District of Johol) Negri Sembilan
 
 This is a brief geological note by L.C. Isnard, a French civil mining engineer, describing the gold-bearing geology of the Gemencheh district in Negri Sembilan and its place within a larger auriferous uplift traversing the Malayan peninsula (p. 167).

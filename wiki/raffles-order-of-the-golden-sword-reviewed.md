@@ -3,8 +3,7 @@ id: raffles-order-of-the-golden-sword-reviewed
 work_id: jmbras-63-2-p77
 title: Raffles’ Order of the Golden Sword reviewed
 canonical_name: Raffles’ Order of the Golden Sword reviewed
-type: article
-article_type: article
+type: publication
 authors:
 - Ahmat Adam
 - Lee Kam Hing
@@ -22,7 +21,9 @@ published: false
 source_doc: jmbras-259-hing-rafflesordergolden-1990-d67663d633f3
 source_path: ../sources/jmbras-259-hing-rafflesordergolden-1990-d67663d633f3.md
 summarized: true
+publication_type: review
 ---
+
 # Raffles’ Order of the Golden Sword reviewed
 
 Lee Kam Hing and Ahmat Adam (1990) resolve a decades-old mystery surrounding the Acehnese Order of the Golden Sword conferred on Sir Stamford Raffles, using a recently discovered Malay letter from Sultan Jauhar Alam Syah dated 27 April 1811 to establish that the decoration was a straightforward diplomatic gesture of goodwill during the Napoleonic Wars, not the product of any clandestine arrangement.

@@ -3,8 +3,7 @@ id: governor-bannerman-and-the-penang-tin-scheme-181819
 work_id: jmbras-23-1-p52
 title: Governor Bannerman and the Penang tin scheme, 1818–19
 canonical_name: Governor Bannerman and the Penang tin scheme, 1818–19
-type: article
-article_type: article
+type: publication
 authors:
 - C.D. Cowan
 year: 1950
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-151-cowan-governorbannermanpenang-1950-a8833254c678
 source_path: ../sources/jmalayanras-151-cowan-governorbannermanpenang-1950-a8833254c678.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Governor Bannerman and the Penang tin scheme, 1818–19
 
 C.D. Cowan's 1950 article examines Governor John Bannerman's 1818–19 attempt to have the British East India Company directly purchase and export tin from the Malay Peninsula on its own account. Set against the Dutch return to Malacca and the consequent decline of Penang's entrepôt trade, the article argues that Bannerman's tin scheme was a locally improvised commercial intervention—driven by the fear that Dutch monopoly treaties would strangle Penang's economic lifeline—rather than by any shift in Company policy.

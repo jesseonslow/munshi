@@ -3,8 +3,7 @@ id: a-malay-garden-with-botanical-determinations-re-holttum
 work_id: jmbras-11-2-p139
 title: A Malay garden. With botanical determinations. R.E. Holttum
 canonical_name: A Malay garden. With botanical determinations. R.E. Holttum
-type: article
-article_type: article
+type: publication
 authors:
 - Hamilton A.W
 year: 1933
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-117-hamilton-malaygarden-1933-d37cc0e429d0
 source_path: ../sources/jmalayanras-117-hamilton-malaygarden-1933-d37cc0e429d0.md
 summarized: true
+publication_type: journal_article
 ---
+
 # A Malay garden. With botanical determinations. R.E. Holttum
 
 A.W. Hamilton, with botanical determinations by R.E. Holttum, published this concise glossary in 1933 documenting Malay vernacular names for cultivated ornamental plants across the Straits Settlements and Malay states. The article serves as a taxonomic-linguistic catalogue that reveals the extraordinary cosmopolitan character of the traditional Malay garden, drawing on flora from Brazil, Africa, the Americas, New Guinea, China, and India.

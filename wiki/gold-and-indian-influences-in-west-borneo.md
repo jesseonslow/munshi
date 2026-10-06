@@ -3,8 +3,7 @@ id: gold-and-indian-influences-in-west-borneo
 work_id: jmbras-22-4-p33
 title: Gold and Indian influences in west Borneo
 canonical_name: Gold and Indian influences in west Borneo
-type: article
-article_type: article
+type: publication
 authors:
 - Tom Harrisson
 year: 1949
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-150-harrisson-goldindian-1949-57fd3ef19e74
 source_path: ../sources/jmalayanras-150-harrisson-goldindian-1949-57fd3ef19e74/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Gold and Indian influences in west Borneo
 
 Tom Harrisson, Curator of the Sarawak Museum, published this comprehensive survey in 1949 to demonstrate that West Borneo—long dismissed as culturally peripheral—was in fact a major early gold-producing region in Southeast Asia whose material record reveals a complex pattern of Indian and Javanese cultural contact, concentrated in the south-west corner and strongest in the Majapahit period of the 14th century. The article synthesises approximately 115 recorded gold objects, numerous stone and ceramic artifacts, and roughly 50 golden legends to argue that Indian influence in West Borneo was largely indirect, late, and locally modified rather than the product of large-scale settlement.

@@ -5,8 +5,7 @@ title: Penang in 1837, as seen by Captain Auguste Vaillant. . Dyer; with an intr
   and notes
 canonical_name: Penang in 1837, as seen by Captain Auguste Vaillant. . Dyer; with
   an introd. and notes. f
-type: article
-article_type: translation
+type: publication
 authors:
 - C. Dyer
 year: 2017
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-313-dyer-penang1837seen-2017-731859a7ab7a
 source_path: ../sources/jmbras-313-dyer-penang1837seen-2017-731859a7ab7a.md
 summarized: true
+publication_type: translation
 ---
+
 # Penang in 1837, as seen by Captain Auguste Vaillant. . Dyer; with an introd. and notes
 
 ## Abstract

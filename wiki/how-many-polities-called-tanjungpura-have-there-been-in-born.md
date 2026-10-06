@@ -3,8 +3,7 @@ id: how-many-polities-called-tanjungpura-have-there-been-in-born
 work_id: jmbras-94-2-p1
 title: How Many Polities Called Tanjungpura Have There Been in Borneo?
 canonical_name: How Many Polities Called Tanjungpura Have There Been in Borneo?
-type: article
-article_type: article
+type: publication
 authors:
 - F. Andrew Smith
 year: 2021
@@ -28,7 +27,9 @@ keywords:
 source_doc: smith-tanjungpura-528e94d2a84e
 source_path: ../sources/smith-tanjungpura-528e94d2a84e/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # How Many Polities Called Tanjungpura Have There Been in Borneo?
 
 ## Abstract

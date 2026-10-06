@@ -5,8 +5,7 @@ title: Social memory and Indian women from Malaya and Singapore in the Rani of J
   regiment
 canonical_name: Social memory and Indian women from Malaya and Singapore in the Rani
   of Jhansi regiment
-type: article
-article_type: article
+type: publication
 authors:
 - A. Datta
 year: 2015
@@ -34,7 +33,9 @@ keywords:
 - Malaya
 - Singapore
 - © Malaysian Branch of the Royal Asiatic Society
+publication_type: journal_article
 ---
+
 # Social memory and Indian women from Malaya and Singapore in the Rani of Jhansi regiment
 
 ## Abstract

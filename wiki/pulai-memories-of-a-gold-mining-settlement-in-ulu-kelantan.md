@@ -3,8 +3,7 @@ id: pulai-memories-of-a-gold-mining-settlement-in-ulu-kelantan
 work_id: jmbras-53-1-p50
 title: 'Pulai: memories of a gold mining settlement in Ulu Kelantan'
 canonical_name: 'Pulai: memories of a gold mining settlement in Ulu Kelantan'
-type: article
-article_type: article
+type: publication
 authors:
 - S.A. Carstens
 year: 1980
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-237-carstens-pulaimemoriesgold-1980-18cc057b36f2
 source_path: ../sources/jmbras-237-carstens-pulaimemoriesgold-1980-18cc057b36f2/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Pulai: memories of a gold mining settlement in Ulu Kelantan
 
 Sharon A. Carstens (1980) reconstructs the history of Pulai, a Hakka Chinese gold mining settlement in Ulu Kelantan, from the late eighteenth century to 1940, arguing that the community's survival as a distinct, isolated settlement was determined by its transition from gold mining to subsistence rice farming and the resulting self-sufficiency in food and marriage partners. The article addresses the methodological challenge of reconstructing a community's past when written sources are sparse, compiled by outsiders, and often based on second-hand information, while oral traditions are fragmented, serve multiple social functions, and resist straightforward chronological ordering.

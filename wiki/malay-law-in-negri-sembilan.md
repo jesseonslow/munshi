@@ -3,8 +3,7 @@ id: malay-law-in-negri-sembilan
 work_id: jsbras-22-1-p299
 title: Malay law in Negri Sembilan
 canonical_name: Malay law in Negri Sembilan
-type: article
-article_type: article
+type: publication
 authors:
 - M. Lister
 year: 1890
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-022-lister-malaylawnegri-1890-61b3b7f64cba
 source_path: ../sources/jsbras-022-lister-malaylawnegri-1890-61b3b7f64cba.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Malay law in Negri Sembilan
 
 Martin Lister, serving as a British Resident in Negri Sembilan, published this article in 1890 as a practical companion to his earlier 1889 paper on the state's origin and constitution. Drawing on his direct administrative experience, Lister uses a series of political disputes and customary law cases to demonstrate how the layered legal system of Negri Sembilan—combining Minangkabau matrilineal adat, aboriginal Baten rights, and Muhammadan law—operated in practice under British protection. The overarching argument is that the state's constitution could only function when each tier of authority (Raja, Penghulu, Lembaga, Waris) was kept in its proper place, and that British intervention had been necessary to restore this equilibrium after a period of chaos.

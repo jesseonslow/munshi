@@ -3,8 +3,7 @@ id: the-chiri
 work_id: jsbras-10-1-p287
 title: The chiri
 canonical_name: The _chiri._
-type: article
-article_type: article
+type: publication
 authors:
 - W.E. Maxwell
 year: 1882
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-010-m-chiri-1882-09394f701ff7
 source_path: ../sources/jsbras-010-m-chiri-1882-09394f701ff7.md
 summarized: true
+publication_type: note
 ---
+
 # The chiri
 
 This short note by W. E. Maxwell (W. E. M.) presents a Pali reading and translation of the *Chiri*, an unintelligible formula recited in Malay courts at the installation of chiefs, building on the author's earlier 1830 paper in the *Journal of the Royal Asiatic Society* (p. 287).

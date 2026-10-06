@@ -3,8 +3,7 @@ id: valentyns-account-of-malacca
 work_id: jsbras-22-1-p225
 title: Valentyn’s account of Malacca
 canonical_name: Valentyn’s account of Malacca
-type: article
-article_type: article
+type: publication
 authors:
 - D.F.A. Hervey
 - F. Valentijn
@@ -22,7 +21,9 @@ published: false
 source_doc: jsbras-022-hervey-valentynsaccountmalacca-1890-54173a1ddb56
 source_path: ../sources/jsbras-022-hervey-valentynsaccountmalacca-1890-54173a1ddb56.md
 summarized: true
+publication_type: translation
 ---
+
 # Valentyn’s account of Malacca
 
 D. F. A. Hervey's 1890 continuation of his translation of François Valentijn's account of Malacca completes the narrative of the Dutch conquest of the Portuguese stronghold in 1641 and extends through the early decades of Dutch administration, drawing on Valentijn's original manuscript and a contemporary report by Commissioner Justus Schouten dated 26 October 1641. The text is a primary historical source of considerable value for understanding the military, administrative, and diplomatic dimensions of the VOC's acquisition and governance of Malacca.

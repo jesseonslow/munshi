@@ -3,8 +3,7 @@ id: the-singapore-water-supply
 work_id: jmbras-89-2-p144
 title: The Singapore water supply
 canonical_name: The Singapore water supply
-type: article
-article_type: article
+type: publication
 authors:
 - P.H. Kratoska
 year: 2016
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-311-singaporewatersupply-2016-4a038ed4545f
 source_path: ../sources/jmbras-311-singaporewatersupply-2016-4a038ed4545f.md
 summarized: true
+publication_type: note
 ---
+
 # The Singapore water supply
 
 P.H. Kratoska's 2016 Editor's Note in the *Journal of the Malaysian Branch of the Royal Asiatic Society* presents a curated selection of Colonial Office records tracing Singapore's water supply from the 1850s through the early twenty-first century. The piece, which accompanies Prof. Martha Kaplan's article in the same issue, argues that the colony's water infrastructure was shaped by a persistent tension between imperial fiscal restraint and the public health imperatives of a rapidly growing tropical port city.

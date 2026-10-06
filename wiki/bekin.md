@@ -3,8 +3,7 @@ id: bekin
 work_id: jsbras-32-1-p217
 title: Bekin
 canonical_name: Bekin
-type: article
-article_type: article
+type: publication
 authors:
 - W. Cameron
 - H.N. Ridley
@@ -23,7 +22,9 @@ summarized: true
 source_mismatch: true
 source_doc: jsbras-032-c-bekin-1899-c53ac8843119
 source_path: ../sources/jsbras-032-c-bekin-1899-c53ac8843119.md
+publication_type: note
 ---
+
 # Bekin
 
 This brief note by H. N. Ridley (p. 217) responds to remarks by Mr. Butler on fighting quails, reporting field observations from Sungei Ujong.

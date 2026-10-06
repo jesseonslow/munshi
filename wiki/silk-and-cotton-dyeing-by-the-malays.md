@@ -3,8 +3,7 @@ id: silk-and-cotton-dyeing-by-the-malays
 work_id: jsbras-38-1-p123
 title: Silk and cotton dyeing by the Malays
 canonical_name: Silk and cotton dyeing by the Malays
-type: article
-article_type: article
+type: publication
 authors:
 - W.W. Skeat
 year: 1902
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-038-skeat-silkcottondyeing-1902-0ac96bafa0f5
 source_path: ../sources/jsbras-038-skeat-silkcottondyeing-1902-0ac96bafa0f5.md
 summarized: true
+publication_type: note
 ---
+
 # Silk and cotton dyeing by the Malays
 
 W.W. Skeat, a British colonial administrator in the Straits Settlements, published this ethnographic account of traditional Malay dyeing practices in 1902, documenting the processes by which silk and cotton thread were dyed in Kelantan, Patani, and Selangor. The article serves as a record of indigenous textile technology at a moment when imported aniline dyes from Singapore were rapidly displacing native vegetable dyes.

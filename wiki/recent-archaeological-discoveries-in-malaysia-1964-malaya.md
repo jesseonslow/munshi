@@ -3,8 +3,7 @@ id: recent-archaeological-discoveries-in-malaysia-1964-malaya
 work_id: jmbras-38-1-p248
 title: 'Recent archaeological discoveries in Malaysia 1964: Malaya'
 canonical_name: 'Recent archaeological discoveries in Malaysia 1964: Malaya'
-type: article
-article_type: article
+type: publication
 authors:
 - B.A.V. Peacock
 year: 1965
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: false
 source_doc: jmbras-207-harrisson-recentarchaeologicaldiscoveries-1965-9bd1be43f728
 source_path: ../sources/jmbras-207-harrisson-recentarchaeologicaldiscoveries-1965-9bd1be43f728.md
+publication_type: journal_article
 ---
+
 # Recent archaeological discoveries in Malaysia 1964: Malaya
 
 B.A.V. Peacock's 1965 report documents four archaeological discoveries made across Malaya in 1964, the most significant being the recovery of two Dong-s'on bronze drumheads from a burial mound at Kampong Sungai Lang, Selangor. The article, published in the *Journal of the Malaysian Branch of the Royal Asiatic Society*, provides the first detailed account of these drums in a Malayan context and presents a preliminary radiocarbon date of 485 B.C. that, if confirmed, would push the presence of Dong-s'on-type bronze technology in the region far earlier than previously assumed (pp. 248–255).

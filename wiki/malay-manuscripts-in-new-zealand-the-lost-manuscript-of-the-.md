@@ -5,8 +5,7 @@ title: 'Malay manuscripts in New Zealand: the ‘lost’ manuscript of the Hikay
   and other Malay manuscripts of the Thomson collection'
 canonical_name: 'Malay manuscripts in New Zealand: the ‘lost’ manuscript of the _Hikayat
   Abdullah_ and other Malay manuscripts of the Thomson collection'
-type: article
-article_type: article
+type: publication
 authors:
 - Raimy Ché-Ross
 year: 2002
@@ -22,6 +21,7 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+publication_type: journal_article
 ---
 
 # Malay manuscripts in New Zealand: the ‘lost’ manuscript of the Hikayat Abdullah and other Malay manuscripts of the Thomson collection

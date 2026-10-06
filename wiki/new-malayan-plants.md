@@ -3,8 +3,7 @@ id: new-malayan-plants
 work_id: jsbras-41-1-p31
 title: New Malayan plants
 canonical_name: New Malayan plants
-type: article
-article_type: article
+type: publication
 authors:
 - H.N. Ridley
 year: 1904
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: false
 source_doc: jsbras-041-ridley-newmalayanplants-1904-47b49ef58f1d
 source_path: ../sources/jsbras-041-ridley-newmalayanplants-1904-47b49ef58f1d.md
+publication_type: journal_article
 ---
+
 # New Malayan plants
 
 H. N. Ridley, then Director of the Singapore Botanic Gardens, published this sweeping taxonomic paper in 1904 describing over forty new plant species from the Malay Peninsula across twelve families. Drawing on collections gathered by field collectors across Perak, Selangor, Johore, Penang, Malacca, Pahang, and Singapore, the paper represents a single concentrated burst of neotypification that significantly expanded the known flora of the region during the height of colonial botanical surveying.

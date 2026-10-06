@@ -3,8 +3,7 @@ id: nesting-of-silk-weaving-ants
 work_id: jsbras-45-1-p284
 title: Nesting of silk-weaving ants
 canonical_name: Nesting of silk-weaving ants
-type: article
-article_type: article
+type: publication
 authors:
 - R.S. Shelford
 year: 1906
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-045-shelford-nestingsilkweavingants-1906-f2e7cf02ba08
 source_path: ../sources/jsbras-045-shelford-nestingsilkweavingants-1906-f2e7cf02ba08.md
 summarized: true
+publication_type: note
 ---
+
 # Nesting of silk-weaving ants
 
 This short note by R.S. Shelford describes the habit of certain ants using their larvae as silk-spinning machines to repair their leaf nests, with particular reference to *Oecophylla smaragdina* and *Polyrhachis dives*.

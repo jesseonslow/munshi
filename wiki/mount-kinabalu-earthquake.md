@@ -3,8 +3,7 @@ id: mount-kinabalu-earthquake
 work_id: jmbras-89-1-p61
 title: Mount Kinabalu earthquake
 canonical_name: Mount Kinabalu earthquake
-type: article
-article_type: article
+type: publication
 authors:
 - J.J. Baptist
 - Cai Yunci
@@ -30,7 +29,9 @@ keywords:
 - Sabah
 - Borneo
 - Malaysia
+publication_type: journal_article
 ---
+
 # Mount Kinabalu earthquake
 
 ## Abstract

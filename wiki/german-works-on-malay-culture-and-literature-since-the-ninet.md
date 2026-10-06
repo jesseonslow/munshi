@@ -4,8 +4,7 @@ work_id: jmbras-80-2-p51
 title: German works on Malay culture and literature since the nineteenth century
 canonical_name: German works on Malay culture and literature since the nineteenth
   century
-type: article
-article_type: article
+type: publication
 authors:
 - A. Graf
 year: 2007
@@ -22,7 +21,9 @@ published: false
 source_doc: jmbras-293-graf-germanworksmalay-2007-1ebad0d7cd07
 source_path: ../sources/jmbras-293-graf-germanworksmalay-2007-1ebad0d7cd07/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # German works on Malay culture and literature since the nineteenth century
 
 Arndt Graf, writing in 2007, surveys the full arc of German-language scholarship on Malay culture and literature from the early nineteenth century to the present, arguing that these works followed clearly distinguishable periods shaped by Cold War politics, Malaysian nation-building, and a gradual but decisive shift of academic agency from European to Malaysian institutions.

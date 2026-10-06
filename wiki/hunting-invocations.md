@@ -3,8 +3,7 @@ id: hunting-invocations
 work_id: jsbras-42-1-p19
 title: Hunting invocations
 canonical_name: Hunting invocations
-type: article
-article_type: article
+type: publication
 authors:
 - R.N. Bland
 year: 1905
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-042-bland-huntinginvocations-1905-ea519e7d9fbc
 source_path: ../sources/jsbras-042-bland-huntinginvocations-1905-ea519e7d9fbc.md
 summarized: true
+publication_type: note
 ---
+
 # Hunting invocations
 
 This short note by R. N. Bland presents a Malay *Elmu Pawang Buru Rusa* (deer-hunting invocation) collected from a pawang in Kuala Pilah, Negri Sembilan, accompanied by Bland's English translation.

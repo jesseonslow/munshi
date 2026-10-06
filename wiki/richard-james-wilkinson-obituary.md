@@ -3,8 +3,7 @@ id: richard-james-wilkinson-obituary
 work_id: jmbras-20-1-p143
 title: 'Richard James Wilkinson: Obituary'
 canonical_name: 'Richard James Wilkinson: Obituary'
-type: article
-article_type: obituary
+type: publication
 authors:
 - R.O. Winstedt
 year: 1947
@@ -20,8 +19,8 @@ status: stub
 published: false
 source_doc: jmalayanras-142-winstedt-obituaryrichardjames-1947-b77828e58243
 source_path: ../sources/jmalayanras-142-winstedt-obituaryrichardjames-1947-b77828e58243.md
+publication_type: obituary
 ---
-
 
 # Richard James Wilkinson: Obituary
 

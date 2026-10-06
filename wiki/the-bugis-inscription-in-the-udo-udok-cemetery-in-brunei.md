@@ -3,8 +3,7 @@ id: the-bugis-inscription-in-the-udo-udok-cemetery-in-brunei
 work_id: jmbras-66-2-p103
 title: The Bugis inscription in the Udo-Udok cemetery in Brunei
 canonical_name: The Bugis inscription in the Udo-Udok cemetery in Brunei. f
-type: article
-article_type: article
+type: publication
 authors:
 - Noorduyn. J
 - H.E. Wilson
@@ -22,7 +21,9 @@ published: false
 source_doc: jmbras-265-noorduyn-bugisinscriptionudokudok-1993-29bcf8a49b6f
 source_path: ../sources/jmbras-265-noorduyn-bugisinscriptionudokudok-1993-29bcf8a49b6f/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The Bugis inscription in the Udo-Udok cemetery in Brunei
 
 J. Noorduyn's 1993 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* presents a philological analysis of a five-line Bugis-language inscription in Bugis script, discovered in 1986 in the Udok-Udok cemetery near Bandar Seri Begawan, Brunei. The inscription, carved on a standing stone, records the triple name of a Bugis man—La Toga, grandfather of I Potto, son of Sea Captain Cakka, who lived in Balan(n)ipa—and is interpreted as a gravestone commemorating him without explicitly mentioning death or burial.

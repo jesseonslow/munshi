@@ -3,8 +3,7 @@ id: the-sources-of-abd-al-rauf-s-tarjumān-al-mustafid
 work_id: jmbras-57-2-p113
 title: The sources of Abd’ Al-Rauf ‘s Tarjumān Al-Mustafid
 canonical_name: The sources of Abd’ Al-Rauf ‘s _Tarjumān Al-Mustafid._
-type: article
-article_type: article
+type: publication
 authors:
 - P. Riddell
 - Mubin Sheppard
@@ -22,7 +21,9 @@ published: false
 source_doc: jmbras-247-riddell-sourcesabdalrafs-1984-f94362192466
 source_path: ../sources/jmbras-247-riddell-sourcesabdalrafs-1984-f94362192466/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The sources of Abd’ Al-Rauf ‘s Tarjumān Al-Mustafid
 
 Peter Riddell's 1984 article, a work-in-progress report from his doctoral research at the Australian National University, challenges the long-standing scholarly consensus that *Tarjuman al-Mustafid*—the first full Qur'anic commentary extant in Malay, compiled by the 17th-century Acehnese scholar ʿAbd al-Raʾuf al-Singkili—is a translation of al-Baydawi's *Anwar al-Tanzil*. Riddell argues instead that the work is a composite text whose core is a rendering of *Tafsir al-Jalalayn*, later expanded by ʿAbd al-Raʾuf's student Daʿud Rumi with interpolations drawn from al-Khazin and al-Baydawi.

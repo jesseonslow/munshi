@@ -3,8 +3,7 @@ id: the-malay-composition-of-a-village-in-johore
 work_id: jmbras-29-3-p60
 title: The Malay composition of a village in Johore
 canonical_name: The Malay composition of a village in Johore
-type: article
-article_type: article
+type: publication
 authors:
 - K.O.L. Burridge
 year: 1956
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-175-burridge-malaycompositionvillage-1956-7740092e90e2
 source_path: ../sources/jmalayanras-175-burridge-malaycompositionvillage-1956-7740092e90e2.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The Malay composition of a village in Johore
 
 Kenelm O. L. Burridge's 1956 monograph presents a detailed kinship and landholding analysis of a long-established Malay village on the west coast of Johore, researched in 1955 under a University of Malaya Social Research Unit fellowship. The article argues that village social order is structured by the interplay of patrilineal agnation, the bilateral kinship category *saudara*, land tenure, and political authority, with a dominant Bugis agnatic line—descended from a prince who settled in the early nineteenth century—functioning as the gravitational centre around which all other households orient themselves.

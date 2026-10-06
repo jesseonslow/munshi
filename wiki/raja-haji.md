@@ -3,8 +3,7 @@ id: raja-haji
 work_id: jsbras-22-1-p173
 title: Raja Haji
 canonical_name: Raja Haji
-type: article
-article_type: article
+type: publication
 authors:
 - W.E. Maxwell
 year: 1890
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-022-maxwell-rajahaji-1890-779de5ccaa49
 source_path: ../sources/jsbras-022-maxwell-rajahaji-1890-779de5ccaa49.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Raja Haji
 
 W.E. Maxwell, writing from his post as Resident of Selangor, published this article in 1890 to present and cross-reference four primary sources relating to the 1783–84 siege of Malacca by Raja Haji, the Bugis Yang-di-Pertuan Muda of Riau. The article's central contribution is the juxtaposition of a contemporary Malay ballad from the Logan Collection, the Dutch official diary of the siege, and a Malay prose chronicle, allowing the reader to compare Dutch, Malacca-Malay, and Riau-Bugis perspectives on the same events.

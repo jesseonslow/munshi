@@ -5,8 +5,7 @@ title: '“Di dalam nama dan kerananya kita”: A pair of Malay and Javanese let
   Sir Thomas Stamford Raffles'
 canonical_name: “_Di dalam nama dan kerananya kita”:_ A pair of Malay and Javanese
   letters by Sir Thomas Stamford Raffles
-type: article
-article_type: article
+type: publication
 authors:
 - Raimy Ché-Ross
 year: 1998
@@ -22,6 +21,7 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+publication_type: journal_article
 ---
 
 # “Di dalam nama dan kerananya kita”: A pair of Malay and Javanese letters by Sir Thomas Stamford Raffles

@@ -3,8 +3,7 @@ id: the-journal-of-sir-hugh-low-1877-sadka
 work_id: jmbras-27-4-p1
 title: The journal of Sir Hugh Low, 1877. . Sadka
 canonical_name: The journal of Sir Hugh Low, 1877. . Sadka
-type: article
-article_type: article
+type: publication
 authors:
 - Sir Hugh Low
 - E. Sadka
@@ -21,6 +20,7 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+publication_type: document
 ---
 
 # The journal of Sir Hugh Low, 1877. . Sadka

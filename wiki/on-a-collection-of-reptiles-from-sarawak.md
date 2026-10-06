@@ -3,8 +3,7 @@ id: on-a-collection-of-reptiles-from-sarawak
 work_id: jmbras-1-1-p1
 title: On a collection of reptiles from Sarawak
 canonical_name: On a collection of reptiles from Sarawak
-type: article
-article_type: article
+type: publication
 authors:
 - E.R. Dunn
 year: 1923
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: true
 source_doc: jmalayanras-087-dunn-collectionreptilessarawak-1923-c4951e472d34
 source_path: ../sources/jmalayanras-087-dunn-collectionreptilessarawak-1923-c4951e472d34.md
+publication_type: note
 ---
+
 # On a collection of reptiles from Sarawak
 
 Emmett R. Dunn published this brief taxonomic note in 1923, reporting on a reptile collection assembled by J. C. Moulton and Harrison W. Smith in the upper Baram River region of north-western Sarawak during September to November 1920. The paper documents 57 lizard specimens (13 species) and 53 snake specimens (24 species), and formally describes three new snake species from the collection. It stands as one of the earliest faunal surveys of the Baram basin, a region then still largely unexplored by Western naturalists.

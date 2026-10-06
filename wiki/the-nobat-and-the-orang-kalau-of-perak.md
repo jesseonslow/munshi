@@ -3,8 +3,7 @@ id: the-nobat-and-the-orang-kalau-of-perak
 work_id: jmbras-24-3-p60
 title: The nobat and the Orang Kalau of Perak
 canonical_name: The _nobat_ and the Orang Kalau of Perak
-type: article
-article_type: article
+type: publication
 authors:
 - W. Linehan
 year: 1951
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-156-linehan-nobatorangkalau-1951-f9a1033aa1ed
 source_path: ../sources/jmalayanras-156-linehan-nobatorangkalau-1951-f9a1033aa1ed.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The nobat and the Orang Kalau of Perak
 
 W. Linehan's 1951 article examines the *nobat*—the royal musical ensemble of Perak—and its hereditary keepers, the *orang kalau*, arguing that they constitute a living remnant of a pre-Islamic Brahminical or Buddhist cult in which the musicians originally served as priests, rhapsodists, and genealogists. Drawing on the *Malay Annals*, the eighteenth-century *Misa Melayu*, earlier colonial-era accounts, and his own 1949 interviews with the band's leaders, Linehan traces the institution from its legendary origins in ancient Malay courts to its diminished but still respected position in mid-twentieth-century Perak.

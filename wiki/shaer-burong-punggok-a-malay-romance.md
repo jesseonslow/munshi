@@ -3,8 +3,7 @@ id: shaer-burong-punggok-a-malay-romance
 work_id: jsbras-67-1-p193
 title: 'Shaer Burong Punggok: a Malay romance'
 canonical_name: _Shaer Burong Punggok:_ a Malay romance
-type: article
-article_type: article
+type: publication
 authors:
 - H. Overbeck
 year: 1914
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-067-overbeck-shaerburongpunggok-1914-858c3a6ea5be
 source_path: ../sources/jsbras-067-overbeck-shaerburongpunggok-1914-858c3a6ea5be.md
 summarized: true
+publication_type: translation
 ---
+
 # Shaer Burong Punggok: a Malay romance
 
 H. Overbeck published his romanized transcription of the *Shaer Burong Punggok* in 1914, presenting a Malay metrical romance that offers an alternative narrative to the well-known folk etymology of the proverb "seperti punggok merindu-kan bulan." Drawing on a damaged Jawi-script booklet printed in Padang in 1884 and a later Singapore edition of 1910, Overbeck argues that this particular shaer transcends the typically artificial quality of the genre and preserves a genuine love-tragedy rooted in rural Malay experience.

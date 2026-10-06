@@ -5,8 +5,7 @@ title: Three men and a bird – Motley, Dillwyn, Strickland, and Copsychus stric
   – and an introduction to Bornean nature for Alfred Russel Wallace
 canonical_name: Three men and a bird – Motley, Dillwyn, Strickland, and _Copsychus
   stricklandii_ – and an introduction to Bornean nature for Alfred Russel Wallace
-type: article
-article_type: article
+type: publication
 authors:
 - M. Laverty
 year: 2013
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-304-laverty-threemenbird-2013-617aec53a038
 source_path: ../sources/jmbras-304-laverty-threemenbird-2013-617aec53a038/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Three men and a bird – Motley, Dillwyn, Strickland, and Copsychus stricklandii – and an introduction to Bornean nature for Alfred Russel Wallace
 
 Martin Laverty's 2013 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* traces the origins of the specific name *Copsychus stricklandii*—a White-crowned Shama endemic to Sabah and NE Kalimantan—revealing how the bird came to be named after a geologist killed by a train, and how its 1855 description links the two most prolific natural history collectors in 1850s Borneo, James Motley and Alfred Russel Wallace.

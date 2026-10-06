@@ -3,8 +3,7 @@ id: more-on-bencoolen
 work_id: jmbras-19-1-p101
 title: More on Bencoolen
 canonical_name: More on Bencoolen
-type: article
-article_type: article
+type: publication
 authors:
 - R.J. Wilkinson
 year: 1941
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-139-wilkinson-bencoolen-1941-e47231b1a3db
 source_path: ../sources/jmalayanras-139-wilkinson-bencoolen-1941-e47231b1a3db.md
 summarized: true
+publication_type: journal_article
 ---
+
 # More on Bencoolen
 
 R.J. Wilkinson (C.M.G.), writing in 1941, uses William Marsden's autobiographical memoir of his Bencoolen service (1771–1779) as a lens to trace the broader trajectory of the British East India Company's West Sumatran settlement from its mid-eighteenth-century relative prosperity through its cession to the Dutch in 1825. The overarching argument is that Bencoolen's failure was structural—rooted in the Directors' reductive treatment of the settlement as a mere pepper-buying operation rather than a genuine administrative or strategic enterprise.

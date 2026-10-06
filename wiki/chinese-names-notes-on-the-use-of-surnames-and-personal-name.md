@@ -5,8 +5,7 @@ title: 'Chinese names: notes on the use of surnames and personal names by the Ch
   in Malaya'
 canonical_name: 'Chinese names: notes on the use of surnames and personal names by
   the Chinese in Malaya'
-type: article
-article_type: article
+type: publication
 authors:
 - R. Jones
 year: 1959
@@ -22,6 +21,7 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+publication_type: journal_article
 ---
 
 # Chinese names: notes on the use of surnames and personal names by the Chinese in Malaya

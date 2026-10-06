@@ -3,8 +3,7 @@ id: chinese-religion-and-religious-institutions-in-singapore
 work_id: jmbras-29-1-p70
 title: Chinese religion and religious institutions in Singapore
 canonical_name: Chinese religion and religious institutions in Singapore
-type: article
-article_type: article
+type: publication
 authors:
 - M. Topley
 year: 1956
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-173-topley-chinesereligionreligious-1956-cda78345ea02
 source_path: ../sources/jmalayanras-173-topley-chinesereligionreligious-1956-cda78345ea02.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Chinese religion and religious institutions in Singapore
 
 Marjorie Topley, writing in 1956, provides a comprehensive ethnographic survey of Chinese religious institutions in Singapore, arguing that the religious landscape there is best understood not through discrete doctrinal systems but as a syncretic, practice-oriented tradition in which institutional forms—temples, monasteries, vegetarian houses, and syncretic sects—serve as the primary vehicles for both worship and social welfare. The article was based on direct fieldwork conducted in Singapore and draws on membership records of the Buddhist Federation as well as extensive interviews with monks, nuns, and lay devotees.

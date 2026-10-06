@@ -3,8 +3,7 @@ id: rate-of-speed-of-elephant-nq-2-5859
 work_id: jsbras-15-rate-of-speed-of-elephant-nq-2
 title: 'Rate of speed of elephant. NQ 2: 58–59'
 canonical_name: 'Rate of speed of elephant. NQ 2: 58–59'
-type: article
-article_type: notes_and_queries
+type: publication
 authors:
 - Anon (and unidentifiable initials)
 year: 1885
@@ -18,6 +17,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: note
 ---
 
 # Rate of speed of elephant. NQ 2: 58–59

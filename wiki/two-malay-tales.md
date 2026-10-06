@@ -3,8 +3,7 @@ id: two-malay-tales
 work_id: jmbras-4-1-p138
 title: Two Malay tales
 canonical_name: Two Malay tales
-type: article
-article_type: article
+type: publication
 authors:
 - H.E. Savage
 year: 1926
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-096-savage-twomalaytales-1926-9fcc996611bc
 source_path: ../sources/jmalayanras-096-savage-twomalaytales-1926-9fcc996611bc.md
 summarized: true
+publication_type: translation
 ---
+
 # Two Malay tales
 
 H.E. Savage published "Two Malay Tales" in the *Journal of the Malayan Branch of the Royal Asiatic Society* in 1926, presenting two Malay folk narratives—one a romantic tale of a banished princess and a raja, the other an etiological story explaining the origin of the croton plant in Malaya—along with a Malay love charm associated with a cigarette. The article serves as a specimen of Malay oral literature collected and rendered into both English translation and original Malay text for a colonial-era scholarly readership.

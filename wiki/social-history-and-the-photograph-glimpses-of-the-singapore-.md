@@ -5,8 +5,7 @@ title: 'Social history and the photograph: glimpses of the Singapore rickshaw co
   in the early nineteenth century'
 canonical_name: 'Social history and the photograph: glimpses of the Singapore rickshaw
   coolie in the early nineteenth century'
-type: article
-article_type: article
+type: publication
 authors:
 - J.F. Warren
 year: 1985
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-248-warren-socialhistoryphotograph-1985-3619d2088aff
 source_path: ../sources/jmbras-248-warren-socialhistoryphotograph-1985-3619d2088aff.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Social history and the photograph: glimpses of the Singapore rickshaw coolie in the early nineteenth century
 
 Jim Warren's 1985 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* examines the social world of Chinese rickshaw pullers in colonial Singapore from the 1880s through the 1930s, arguing that photographic archives constitute an underutilised primary source capable of recovering the lived experience of a labouring class otherwise rendered invisible in official colonial records.

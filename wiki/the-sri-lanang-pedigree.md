@@ -3,8 +3,7 @@ id: the-sri-lanang-pedigree
 work_id: jmbras-11-2-p148
 title: The Sri Lanang pedigree
 canonical_name: The Sri Lanang pedigree
-type: article
-article_type: article
+type: publication
 authors:
 - R.J. Wilkinson
 year: 1933
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-117-wilkinson-srilanangpedigree-1933-d5e1bfe882eb
 source_path: ../sources/jmalayanras-117-wilkinson-srilanangpedigree-1933-d5e1bfe882eb.md
 summarized: true
+publication_type: note
 ---
+
 # The Sri Lanang pedigree
 
 R.J. Wilkinson's short note (pp. 148–150) corrects and supplements the genealogy of the Bendaharas of Malacca as presented in his *Malay History* (3rd ed., 1923), responding to a passage in Dr. Winstedt's article on the Bendaharas and Temenggongs.

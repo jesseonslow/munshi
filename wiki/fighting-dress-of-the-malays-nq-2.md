@@ -3,8 +3,7 @@ id: fighting-dress-of-the-malays-nq-2
 work_id: jsbras-15-fighting-dress-of-the-malays-n
 title: Fighting dress of the Malays. NQ 2
 canonical_name: Fighting dress of the Malays. NQ 2
-type: article
-article_type: notes_and_queries
+type: publication
 authors:
 - W.E. Maxwell
 year: 1885
@@ -18,6 +17,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: note
 ---
 
 # Fighting dress of the Malays. NQ 2

@@ -5,8 +5,7 @@ title: 'Kapitans and Unofficials: Ethnic Intermediaries in the Straits Settlemen
   1786–1942'
 canonical_name: 'Kapitans and Unofficials: Ethnic Intermediaries in the Straits Settlements,
   1786–1942'
-type: article
-article_type: article
+type: publication
 authors:
 - B.Z. Keo
 year: 2025
@@ -29,7 +28,9 @@ keywords:
 - Legislative Council
 - Chinese diaspora
 - ethnic administration
+publication_type: journal_article
 ---
+
 # Kapitans and Unofficials: Ethnic Intermediaries in the Straits Settlements, 1786–1942
 
 ## Abstract

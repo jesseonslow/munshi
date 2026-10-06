@@ -3,8 +3,7 @@ id: patterns-of-rural-leadership-in-malaya
 work_id: jmbras-41-1-p95
 title: Patterns of rural leadership in Malaya
 canonical_name: Patterns of rural leadership in Malaya
-type: article
-article_type: article
+type: publication
 authors:
 - Husin Ali
 year: 1968
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-213-ali-patternsruralleadership-1968-137b5605c610
 source_path: ../sources/jmbras-213-ali-patternsruralleadership-1968-137b5605c610/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Patterns of rural leadership in Malaya
 
 S. Husin Ali, a Malaysian sociologist, published this study in 1968 to examine how rural Malay leadership in Malaya was being restructured by the cumulative impact of colonial administration, economic modernisation, and post-war political change. Drawing on comparative fieldwork in two rural *mukim* and one urban settlement, the article argues that traditional leadership—rooted in kinship authority, magico-religious expertise, and hereditary political office—was being progressively absorbed into a bureaucratic framework, while new dominant leaders centred on formal education and economic wealth were emerging to fill the resulting vacuum.

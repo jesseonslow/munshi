@@ -3,8 +3,7 @@ id: singapore-as-a-port-city-c12901819-evidence-frameworks-and-c
 work_id: jmbras-91-1-p1
 title: 'Singapore as a port city, c.1290–1819: evidence, frameworks and challenges'
 canonical_name: 'Singapore as a port city, c.1290–1819: evidence, frameworks and challenges'
-type: article
-article_type: article
+type: publication
 authors:
 - P. Borschberg
 - B.J.Q. Khoo
@@ -23,7 +22,9 @@ summarized: true
 source_mismatch: true
 source_doc: jmbras-314-borschberg-singaporeportcity-2018-bd1b50c08e79
 source_path: ../sources/references.md
+publication_type: journal_article
 ---
+
 # Singapore as a port city, c.1290–1819: evidence, frameworks and challenges
 
 ## Abstract

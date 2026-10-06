@@ -3,8 +3,7 @@ id: frugivorous-habits-of-the-tupaia
 work_id: jsbras-23-1-p148
 title: Frugivorous habits of the Tupaia
 canonical_name: Frugivorous habits of the _Tupaia._
-type: article
-article_type: article
+type: publication
 authors:
 - H.N. Ridley
 year: 1891
@@ -20,6 +19,7 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+publication_type: note
 ---
 
 # Frugivorous habits of the Tupaia

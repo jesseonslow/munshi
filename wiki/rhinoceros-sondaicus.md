@@ -3,8 +3,7 @@ id: rhinoceros-sondaicus
 work_id: jmbras-15-2-p130
 title: Rhinoceros sondaicus
 canonical_name: _Rhinoceros sondaicus._
-type: article
-article_type: article
+type: publication
 authors:
 - C.W. Loch
 year: 1937
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-129-loch-rhinocerossondaicusjavan-1937-d92a30f6ad7d
 source_path: ../sources/jmalayanras-129-loch-rhinocerossondaicusjavan-1937-d92a30f6ad7d.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Rhinoceros sondaicus
 
 C.W. Loch, a British resident in Perak during the early 1930s, published this comprehensive survey of the Javan or lesser one-horned rhinoceros (*Rhinoceros sondaicus*) in 1937, cataloguing its geographical distribution across South and South-East Asia and estimating that fewer than seventy individuals remained in the wild. Writing in the immediate aftermath of the 1932 Sungai Lampan shoot, which had provoked public controversy in the Malayan press, Loch set out to consolidate all available evidence on the species' range, numbers, and trajectory toward extinction.

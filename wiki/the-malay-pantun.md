@@ -3,8 +3,7 @@ id: the-malay-pantun
 work_id: jsbras-85-1-p4
 title: The Malay pantun
 canonical_name: The Malay _pantun._
-type: article
-article_type: article
+type: publication
 authors:
 - H. Overbeck
 year: 1922
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-085-overbeck-malaypantun-1922-7bcb52ccc69d
 source_path: ../sources/jsbras-085-overbeck-malaypantun-1922-7bcb52ccc69d.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The Malay pantun
 
 H. Overbeck, a German-born linguist and collector of Malay literature serving in the Straits Settlements, published this comparative study in 1922 in the Journal of the Straits Branch of the Royal Asiatic Society. The article investigates whether the Malay pantun—a quatrain in which the first couplet presents a veiled image and the second delivers the substantive thought—is a uniquely Malay form or has structural analogues among neighbouring peoples and in related literary traditions. Overbeck's central thesis is that the pantun's characteristically loose connection between its two couplets aligns it more closely with Chinese poetry than with the Indian sloka, where the illustrative image must strictly correspond to the moral that follows.

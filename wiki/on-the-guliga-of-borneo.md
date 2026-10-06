@@ -3,8 +3,7 @@ id: on-the-guliga-of-borneo
 work_id: jsbras-4-1-p56
 title: On the guliga of Borneo
 canonical_name: On the _guliga_ of Borneo
-type: article
-article_type: article
+type: publication
 authors:
 - A.H. Everett
 year: 1879
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-004-everett-guligaborneo-1879-8b89ede12c4e
 source_path: ../sources/jsbras-004-everett-guligaborneo-1879-8b89ede12c4e.md
 summarized: true
+publication_type: note
 ---
+
 # On the guliga of Borneo
 
 A short note by A. Hart Everett describing the collection, trade, and supposed medicinal properties of bezoar stones (guliga) obtained from monkeys and porcupines in Borneo.

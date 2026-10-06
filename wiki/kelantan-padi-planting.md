@@ -3,8 +3,7 @@ id: kelantan-padi-planting
 work_id: jmbras-24-1-p56
 title: Kelantan padi planting
 canonical_name: Kelantan padi planting
-type: article
-article_type: article
+type: publication
 authors:
 - A.H. Hill
 year: 1951
@@ -18,6 +17,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: journal_article
 ---
 
 # Kelantan padi planting

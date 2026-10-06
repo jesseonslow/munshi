@@ -5,8 +5,7 @@ title: 'Double-spouted vessels, II: in West Malaysia & Singapore (from prehistor
   to the present day'
 canonical_name: 'Double-spouted vessels, II: in West Malaysia & Singapore (from prehistory
   to the present day)'
-type: article
-article_type: article
+type: publication
 authors:
 - Tom Harrisson
 year: 1974
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-226-harrisson-doublespoutedvesselsii-1974-7aec3028e163
 source_path: ../sources/jmbras-226-harrisson-doublespoutedvesselsii-1974-7aec3028e163.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Double-spouted vessels, II: in West Malaysia & Singapore (from prehistory to the present day
 
 Tom Harrisson's 1974 article, the second in a two-part study, documents the survival and revival of double-spouted earthenware vessels in West Malaysia and Singapore, extending the known distribution of this distinctive ceramic form beyond its previously established prehistoric home at Niah Caves, Sarawak. Writing from direct field observation and museum examination, Harrisson argues that the form was likely "invented" in Borneo and spread to Sumatra and the Malay Peninsula following the advent of metal and intensified inter-island contact around 600–700 AD.

@@ -3,8 +3,7 @@ id: on-the-stream-tin-deposits-of-perak
 work_id: jsbras-13-1-p221
 title: On the stream tin deposits of Perak
 canonical_name: On the stream tin deposits of Perak
-type: article
-article_type: article
+type: publication
 authors:
 - J.E. Tenison Woods
 year: 1884
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-013-tenisonwoods-streamtindeposits-1884-22fcf56cee2f
 source_path: ../sources/jsbras-013-tenisonwoods-streamtindeposits-1884-22fcf56cee2f.md
 summarized: true
+publication_type: journal_article
 ---
+
 # On the stream tin deposits of Perak
 
 J.E. Tenison-Woods, a clergyman and Fellow of both the Geological Society and the Linnean Society, delivered these two lectures at Taiping, Perak, in April 1884, presenting a unified geological account of how stream tin deposits formed in the Larut plains. His overarching thesis is that cassiterite (tin oxide) originated at the junction of the region's ancient granite with overlying Paleozoic clays, was subsequently liberated by erosion, and was concentrated into workable deposits by the gravitational sorting action of mountain streams over geological time.

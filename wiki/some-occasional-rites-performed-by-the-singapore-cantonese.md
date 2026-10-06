@@ -3,8 +3,7 @@ id: some-occasional-rites-performed-by-the-singapore-cantonese
 work_id: jmbras-24-3-p120
 title: Some occasional rites performed by the Singapore Cantonese
 canonical_name: Some occasional rites performed by the Singapore Cantonese
-type: article
-article_type: article
+type: publication
 authors:
 - M. Topley
 year: 1951
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-156-topley-occasionalritesperformed-1951-9eb68d7dfe44
 source_path: ../sources/jmalayanras-156-topley-occasionalritesperformed-1951-9eb68d7dfe44.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Some occasional rites performed by the Singapore Cantonese
 
 Marjorie Topley's 1951 article documents the specific, individually-performed ritual practices of the Cantonese community in mid-twentieth-century Singapore, focusing on rites enacted to overcome illness and misfortune. Drawing on direct observation and interviews conducted in Cantonese at temples and paper-charm shops, Topley provides a systematic ethnographic account of what she terms "occasional rites" — those performed only when needed, by or for a specific sufferer, as distinct from regular festival or spirit-medium performances.

@@ -3,8 +3,7 @@ id: isabella-birds-visit-to-malaya-a-centenary-tribute
 work_id: jmbras-52-2-p113
 title: 'Isabella Bird’s visit to Malaya: a centenary tribute'
 canonical_name: 'Isabella Bird’s visit to Malaya: a centenary tribute'
-type: article
-article_type: article
+type: publication
 authors:
 - J.M. Gullick
 year: 1979
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-236-gullick-isabellabirdsvisit-1979-0b7b611eb44e
 source_path: ../sources/jmbras-236-gullick-isabellabirdsvisit-1979-0b7b611eb44e.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Isabella Bird’s visit to Malaya: a centenary tribute
 
 J.M. Gullick's 1979 centenary tribute examines Isabella Bird's five-week visit to the Malay States in early 1879, using the original letters she wrote to her sister Henrietta (preserved by her publisher John Murray) to illuminate the composition of *The Golden Chersonese* (1883) and to recover the franker, more politically charged observations that Bird suppressed in the published text. The article is both a character study of Bird as a traveller and a source-critical exercise in comparing manuscript to print.

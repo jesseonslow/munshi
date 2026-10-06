@@ -3,8 +3,7 @@ id: the-church-of-st-paul-malacca
 work_id: jmbras-12-2-p40
 title: The Church of St. Paul, Malacca
 canonical_name: The Church of St. Paul, Malacca
-type: article
-article_type: article
+type: publication
 authors:
 - Schurhammer
 year: 1934
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-119-schurhammer-churchstpaul-1934-8bcd52dd5cb1
 source_path: ../sources/jmalayanras-119-schurhammer-churchstpaul-1934-8bcd52dd5cb1.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The Church of St. Paul, Malacca
 
 Father Schurhammer, S.J., published this concise historical note in 1934 to trace the architectural and institutional history of the Church of St. Paul in Malacca from its origins as Albuquerque's chapel in 1511 through its reconstruction by the Jesuits and its eventual appropriation by the Dutch after 1641. The article argues that the church's site was deliberately chosen on the hill of the former Mahometan royal palace, and that the underground caves visible in the surviving structure may be remnants of that palace.

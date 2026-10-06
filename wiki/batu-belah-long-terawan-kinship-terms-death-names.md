@@ -3,8 +3,7 @@ id: batu-belah-long-terawan-kinship-terms-death-names
 work_id: jmbras-27-1-p215
 title: 'Batu Belah & Long Terawan: kinship terms & death names'
 canonical_name: 'Batu Belah & Long Terawan: kinship terms & death names'
-type: article
-article_type: article
+type: publication
 authors:
 - R. Needham
 year: 1954
@@ -18,6 +17,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: note
 ---
 
 # Batu Belah & Long Terawan: kinship terms & death names

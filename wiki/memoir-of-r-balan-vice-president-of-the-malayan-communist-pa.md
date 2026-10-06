@@ -5,8 +5,7 @@ title: 'An Article I Never Published: Memoir of R. Balan, vice-president of the 
   Communist Party'
 canonical_name: 'An Article I Never Published: Memoir of R. Balan, vice-president
   of the Malayan Communist Party'
-type: article
-article_type: article
+type: publication
 authors:
 - Cheah Boon Kheng
 year: 2015
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-309-kheng-memoirrbalan-2015-88d38ac26c1d
 source_path: ../sources/jmbras-309-kheng-memoirrbalan-2015-88d38ac26c1d.md
 summarized: true
+publication_type: document
 ---
+
 # An Article I Never Published: Memoir of R. Balan, vice-president of the Malayan Communist Party
 
 Cheah Boon Kheng's "An Article I Never Published" (2015) presents the recovered, truncated memoir of R. Balan (nom-de-guerre of R. Raja Gopal), vice-president of the Malayan Communist Party, recorded in three sessions in 1974 but never completed before Balan's death. The memoir covers Balan's life from his birth in 1921 on a Perak rubber estate through his entry into the MPAJA resistance in August 1942, his years in the jungle as a Tamil-language propaganda officer, and his reflections on the MCP's post-war strategy and internal leadership failures.

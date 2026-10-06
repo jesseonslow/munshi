@@ -5,8 +5,7 @@ title: 'Revisiting Christian missionaries in colonial Malaya and Singapore: blur
   the boundaries between empire, mission and development'
 canonical_name: 'Revisiting Christian missionaries in colonial Malaya and Singapore:
   blurring the boundaries between empire, mission and development'
-type: article
-article_type: article
+type: publication
 authors:
 - S. Hudd
 year: 2019
@@ -30,7 +29,9 @@ keywords:
 - missionaries
 - humanitarian development
 - religion in development
+publication_type: journal_article
 ---
+
 # Revisiting Christian missionaries in colonial Malaya and Singapore: blurring the boundaries between empire, mission and development
 
 ## Abstract

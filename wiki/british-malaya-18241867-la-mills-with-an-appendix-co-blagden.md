@@ -3,8 +3,7 @@ id: british-malaya-18241867-la-mills-with-an-appendix-co-blagden
 work_id: jmbras-3-2-p1
 title: British Malaya, 1824–1867. L.A. Mills. With an appendix C.O. Blagden
 canonical_name: British Malaya, 1824–1867. L.A. Mills. With an appendix C.O. Blagden
-type: article
-article_type: article
+type: publication
 authors:
 - C.O. Blagden
 - L.A. Mills
@@ -23,7 +22,9 @@ summarized: true
 source_mismatch: true
 source_doc: jmalayanras-094-mills-britishmalaya18241867-1925-562e603de16d
 source_path: ../sources/bibliography.md
+publication_type: monograph
 ---
+
 # British Malaya, 1824–1867. L.A. Mills. With an appendix C.O. Blagden
 
 L.A. Mills and C.O. Blagden produced this comprehensive 338-page monograph in 1925, covering the formative period of British Malaya from the Anglo-Dutch Treaty of 1824 through the transfer of the Straits Settlements to the Colonial Office in 1867. The work's overarching thesis is that the East India Company's policy of strict non-intervention in Malay affairs, while commercially rational for a trading corporation, ultimately preserved the independence of the Malay States from Siamese conquest and laid the groundwork for the later British protectorate system (pp. 169–170, 183–184).

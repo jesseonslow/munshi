@@ -3,8 +3,7 @@ id: a-penang-portfolio
 work_id: jmbras-94-1-p145
 title: A Penang Portfolio
 canonical_name: A Penang Portfolio
-type: article
-article_type: article
+type: publication
 authors:
 - B. Barnard
 year: 2021
@@ -26,7 +25,9 @@ keywords:
 - Georgetown
 - Malaysia
 - UNESCO heritage site
+publication_type: journal_article
 ---
+
 # A Penang Portfolio
 
 "A Penang Portfolio" is a collection of sepia-toned ink illustrations of Georgetown, Penang, by Bryn Barnard, published in JMBRAS Vol. 94 (2021).

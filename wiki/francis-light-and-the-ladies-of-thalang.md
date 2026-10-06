@@ -3,8 +3,7 @@ id: francis-light-and-the-ladies-of-thalang
 work_id: jmbras-38-2-p213
 title: Francis Light and the ladies of Thalang
 canonical_name: Francis Light and the ladies of Thalang
-type: article
-article_type: article
+type: publication
 authors:
 - E.H.S. Simmonds
 year: 1965
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-208-simmonds-francislightladies-1965-00f68ac00bd6
 source_path: ../sources/jmbras-208-simmonds-francislightladies-1965-00f68ac00bd6.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Francis Light and the ladies of Thalang
 
 E.H.S. Simmonds, writing in 1965 as a tribute to Carl Gibson-Hill, draws on a collection of fifty-nine Siamese-language letters from Thalang (modern Phuket) to reconstruct Francis Light's personal and commercial entanglements with the island's women between the 1770s and 1794. The article argues that Light's relationship with Thalang was far more complex and intimate than the standard Penang-founding narrative suggests, revealing a web of patronage, trade credit, and romantic attachment that ultimately constrained his ability to return to the island after 1785.

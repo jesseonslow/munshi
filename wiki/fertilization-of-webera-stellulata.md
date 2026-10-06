@@ -3,8 +3,7 @@ id: fertilization-of-webera-stellulata
 work_id: jsbras-41-1-p126
 title: Fertilization of Webera stellulata
 canonical_name: Fertilization of _Webera stellulata._
-type: article
-article_type: article
+type: publication
 authors:
 - H.N. Ridley
 year: 1904
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-041-ridley-fertilizationweberastellulata-1904-63bcf94a1155
 source_path: ../sources/jsbras-041-ridley-fertilizationweberastellulata-1904-63bcf94a1155.md
 summarized: true
+publication_type: note
 ---
+
 # Fertilization of Webera stellulata
 
 This short note by H. N. Ridley describes the fertilization mechanism of *Webera stellulata*, a Myrtaceae species with inconspicuous green flowers, and briefly surveys pollination ecology in related genera.

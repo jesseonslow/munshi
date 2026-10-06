@@ -3,8 +3,7 @@ id: early-references-to-the-suitability-of-singapore
 work_id: jmbras-3-3-p105
 title: Early references to the suitability of Singapore
 canonical_name: Early references to the suitability of Singapore
-type: article
-article_type: article
+type: publication
 authors:
 - C.E. Wurtzburg
 year: 1925
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-095-wurtzburg-earlyreferencesuitability-1925-309bf03dea76
 source_path: ../sources/jmalayanras-095-wurtzburg-earlyreferencesuitability-1925-309bf03dea76.md
 summarized: true
+publication_type: note
 ---
+
 # Early references to the suitability of Singapore
 
 This short note by C. E. Wurtzburg (1925) argues that Raffles may have been influenced by William Milburn's *Oriental Commerce* (1813) when selecting Singapore as the site for a new trading post.

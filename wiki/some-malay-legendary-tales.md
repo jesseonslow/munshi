@@ -3,8 +3,7 @@ id: some-malay-legendary-tales
 work_id: jmbras-24-1-p77
 title: Some Malay legendary tales
 canonical_name: Some Malay legendary tales
-type: article
-article_type: article
+type: publication
 authors:
 - Zainal Abidin bin Ahmad
 year: 1951
@@ -18,6 +17,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: journal_article
 ---
 
 # Some Malay legendary tales

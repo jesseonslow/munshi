@@ -5,8 +5,7 @@ title: The laughing gull (Larus ridibundus, Linn.) in the Straits of Singapore. 
   of the Raffles Museum, No. 15
 canonical_name: The laughing gull _(Larus ridibundus,_ Linn.) in the Straits of Singapore.
   Records of the Raffles Museum, No. 15
-type: article
-article_type: article
+type: publication
 authors:
 - C.B. Kloss
 year: 1926
@@ -22,6 +21,7 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+publication_type: note
 ---
 
 # The laughing gull (Larus ridibundus, Linn.) in the Straits of Singapore. Records of the Raffles Museum, No. 15

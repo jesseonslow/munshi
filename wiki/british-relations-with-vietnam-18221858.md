@@ -3,8 +3,7 @@ id: british-relations-with-vietnam-18221858
 work_id: jmbras-39-1-p19
 title: British relations with Vietnam, 1822–1858
 canonical_name: British relations with Vietnam, 1822–1858
-type: article
-article_type: article
+type: publication
 authors:
 - N. Tarling
 year: 1966
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-209-tarling-britishrelationsvietnam-1966-e05f787c6431
 source_path: ../sources/jmbras-209-tarling-britishrelationsvietnam-1966-e05f787c6431.md
 summarized: true
+publication_type: journal_article
 ---
+
 # British relations with Vietnam, 1822–1858
 
 Nicholas Tarling's 1966 article traces British diplomatic and commercial engagement with Vietnam from the Crawfurd mission of 1821–22 to the French seizure of Tourane and Saigon in 1858, arguing that the Nguyen dynasty's consistent policy of avoiding European entanglement—reinforced by the disruptive presence of French missionaries and American naval aggression—prevented Britain from establishing any meaningful relationship with the country, ultimately ceding the field to France.

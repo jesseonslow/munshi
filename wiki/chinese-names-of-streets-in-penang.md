@@ -3,8 +3,7 @@ id: chinese-names-of-streets-in-penang
 work_id: jsbras-33-1-p197
 title: Chinese names of streets in Penang
 canonical_name: Chinese names of streets in Penang
-type: article
-article_type: article
+type: publication
 authors:
 - Lo Man-yuk
 year: 1900
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-033-yuk-chinesenamesstreets-1900-957cc1bc687b
 source_path: ../sources/jsbras-033-yuk-chinesenamesstreets-1900-957cc1bc687b/index.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Chinese names of streets in Penang
 
 Lo Man-yuk's "Chinese Names of Streets in Penang" (1900) is a reference compilation documenting the Hokkien and Cantonese vernacular names for the roads, streets, and lanes of George Town, Penang, accompanied by etymological notes explaining the origin and meaning of each name. Published in the Journal of the Straits Branch of the Royal Asiatic Society, the work follows the precedent of H. T. Haughton's 1891 list for Singapore and serves as a linguistic and ethnographic record of the Chinese community's spatial vocabulary at the turn of the twentieth century.

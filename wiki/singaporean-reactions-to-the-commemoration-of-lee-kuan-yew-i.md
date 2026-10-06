@@ -4,8 +4,7 @@ work_id: jmbras-89-1-p137
 title: Singaporean reactions to the commemoration of Lee Kuan Yew in Tamil Nadu
 canonical_name: Singaporean reactions to the commemoration of Lee Kuan Yew in Tamil
   Nadu
-type: article
-article_type: article
+type: publication
 authors:
 - A.E. Cherian
 year: 2016
@@ -28,7 +27,9 @@ keywords:
 - Lee Kuan Yew
 - liminality
 - rituals of mourning
+publication_type: journal_article
 ---
+
 # Singaporean reactions to the commemoration of Lee Kuan Yew in Tamil Nadu
 
 ## Abstract

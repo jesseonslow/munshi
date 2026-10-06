@@ -3,8 +3,7 @@ id: scitamineae-of-borneo
 work_id: jsbras-46-1-p229
 title: Scitamineae of Borneo
 canonical_name: Scitamineae of Borneo
-type: article
-article_type: article
+type: publication
 authors:
 - H.N. Ridley
 year: 1906
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-046-ridley-scitamineaeborneo-1906-ea77d0eb3bc2
 source_path: ../sources/jsbras-046-ridley-scitamineaeborneo-1906-ea77d0eb3bc2.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Scitamineae of Borneo
 
 H. N. Ridley, Director of the Singapore Botanic Gardens, published this preliminary floristic treatment of the Scitamineae (the former order encompassing Zingiberaceae, Marantaceae, Musaceae, Lowiaceae, and Costaceae) of Borneo in 1906. Writing from a position of direct field experience in Sarawak and British North Borneo, Ridley argues that the Bornean representative of this order remains vastly under-collected and under-described, and that the flora, while structurally similar to that of the Malay Peninsula, contains a significant element of endemism and close but distinct allies of peninsular species.

@@ -4,8 +4,7 @@ work_id: jmbras-46-2-p1
 title: 'Professional Malay story-telling. Part 1: some questions of style and presentation'
 canonical_name: 'Professional Malay story-telling. Part 1: some questions of style
   and presentation'
-type: article
-article_type: article
+type: publication
 authors:
 - A. Sweeney
 year: 1973
@@ -23,7 +22,9 @@ summarized: true
 source_mismatch: false
 source_doc: jmbras-224-sweeney-professionalmalaystorytelling-1973-9f41ca5bc953
 source_path: ../sources/jmbras-224-sweeney-professionalmalaystorytelling-1973-9f41ca5bc953.md
+publication_type: journal_article
 ---
+
 # Professional Malay story-telling. Part 1: some questions of style and presentation
 
 Amin Sweeney's 1973 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* (Vol. 46, No. 2) presents the first part of a two-part ethnographic study of professional Malay story-telling, based on fieldwork conducted between 1968 and 1973 across Kelantan, Patani, Perlis, Kedah, Langkawi, Pahang, Trengganu, and Selangor. Its central thesis is that decades of colonial-era scholarship had fundamentally mischaracterized the oral tradition by conflating the stylized performance form with the non-stylized narrative form, thereby obscuring the artistic nature of the *penglipur lara* (folk romance) as a living performing art.

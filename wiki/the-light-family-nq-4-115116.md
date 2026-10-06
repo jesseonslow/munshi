@@ -3,8 +3,7 @@ id: the-light-family-nq-4-115116
 work_id: jsbras-17-the-light-family-nq-4-115116
 title: 'The Light family. NQ 4: 115–116'
 canonical_name: 'The Light family. NQ 4: 115–116'
-type: article
-article_type: notes_and_queries
+type: publication
 authors:
 - Anon (and unidentifiable initials)
 year: 1886
@@ -18,6 +17,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: note
 ---
 
 # The Light family. NQ 4: 115–116

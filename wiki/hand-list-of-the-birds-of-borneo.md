@@ -3,8 +3,7 @@ id: hand-list-of-the-birds-of-borneo
 work_id: jsbras-67-1-p125
 title: Hand-list of the birds of Borneo
 canonical_name: Hand-list of the birds of Borneo
-type: article
-article_type: article
+type: publication
 authors:
 - J.C. Moulton
 year: 1914
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-067-moulton-handlistbirdsborneo-1914-b09941ff21fd
 source_path: ../sources/jsbras-067-moulton-handlistbirdsborneo-1914-b09941ff21fd/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Hand-list of the birds of Borneo
 
 J.C. Moulton, Curator of the Sarawak Museum, published this comprehensive checklist of 555 bird species known from Borneo in 1914, bringing the island's avifaunal record up to date against the backdrop of a century of colonial-era collecting. The work is framed as a "bare list" deliberately stripped of general commentary, but its introductory pages constitute a valuable historiographical account of how Bornean ornithology evolved from scattered European museum specimens to a systematic regional inventory.

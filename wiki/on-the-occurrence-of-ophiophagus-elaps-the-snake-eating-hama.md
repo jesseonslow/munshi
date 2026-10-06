@@ -4,8 +4,7 @@ work_id: jsbras-1-1-p99
 title: On the occurrence of Ophiophagus elaps, the snake-eating Hamadryad in Singapore
 canonical_name: On the occurrence of _Ophiophagus elaps,_ the snake-eating Hamadryad
   in Singapore
-type: article
-article_type: article
+type: publication
 authors:
 - N.B. Dennys
 year: 1878
@@ -22,7 +21,9 @@ published: false
 source_doc: jsbras-001-dennys-occurrenceophiophaguselaps-1878-84dbadb45c47
 source_path: ../sources/jsbras-001-dennys-occurrenceophiophaguselaps-1878-84dbadb45c47.md
 summarized: true
+publication_type: note
 ---
+
 # On the occurrence of Ophiophagus elaps, the snake-eating Hamadryad in Singapore
 
 This is a short note by N.B. Dennys on the occurrence of *Ophiophagus elaps*, the snake-eating Hamadryad, in Singapore, published in the first volume of the Journal of the Straits Branch of the Royal Asiatic Society in 1878 (pp. 99–105).

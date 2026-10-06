@@ -3,8 +3,7 @@ id: note-on-a-pair-of-batu-aceh-in-rembau
 work_id: jmbras-68-1-p81
 title: Note on a pair of batu aceh in Rembau
 canonical_name: Note on a pair _of batu aceh_ in Rembau. . f
-type: article
-article_type: article
+type: publication
 authors:
 - Zakaria Ali
 year: 1995
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-268-ali-notepairbatu-1995-44d974c906fb
 source_path: ../sources/jmbras-268-ali-notepairbatu-1995-44d974c906fb/frontmatter.md
 summarized: true
+publication_type: note
 ---
+
 # Note on a pair of batu aceh in Rembau
 
 Dr. Zakaria Ali's 1995 note documents a pair of Batu Aceh (Acehnese-style Islamic gravestones) in Kampung Cembung Kecil, Rembau, Negeri Sembilan — a find that fills a gap in Othman Yatim's 1988 typological survey, which had not recorded any specimens in the state. Ali argues that the pair, classified as Type C and dated to the 16th century, was likely procured from Johor by Raja Asil for the posthumous burial of his father, Raja Adil, thereby linking Rembau's early political history to the broader Acehnese funerary tradition of the Johor River valley.

@@ -3,8 +3,7 @@ id: postulated-late-cainozoic-high-sea-levels-in-the-malay-penin
 work_id: jmbras-48-1-p78
 title: Postulated late Cainozoic high sea levels in the Malay Peninsula
 canonical_name: Postulated late Cainozoic high sea levels in the Malay Peninsula
-type: article
-article_type: article
+type: publication
 authors:
 - Haile N.S
 year: 1979
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-227-haile-postulatedlatecainozoic-1975-7d77e73d8ec7
 source_path: ../sources/jmbras-227-haile-postulatedlatecainozoic-1975-7d77e73d8ec7/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Postulated late Cainozoic high sea levels in the Malay Peninsula
 
 ## Abstract

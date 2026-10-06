@@ -3,8 +3,7 @@ id: early-indian-influence-in-malaysia
 work_id: jmbras-13-2-p1
 title: Early Indian influence in Malaysia
 canonical_name: Early Indian influence in Malaysia
-type: article
-article_type: article
+type: publication
 authors:
 - R.J. Wilkinson
 year: 1935
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: true
 source_doc: jmalayanras-122-wilkinson-earlyindianinfluence-1935-3bb40488e3fb
 source_path: ../sources/jmalayanras-122-wilkinson-earlyindianinfluence-1935-3bb40488e3fb.md
+publication_type: journal_article
 ---
+
 # Early Indian influence in Malaysia
 
 R.J. Wilkinson, a senior colonial administrator writing in 1935, surveys the Indian cultural and political imprint on the Malay world from the first-century *Periplus* through the fourteenth-century Majapahit conquests, arguing that Indian influence arrived not through mass migration but through trade, religious conversion, and the arrival of the Shailendra dynasty, whose "coming" constituted the single most consequential event in pre-modern Malay political history (pp. 1–2, 8–9).

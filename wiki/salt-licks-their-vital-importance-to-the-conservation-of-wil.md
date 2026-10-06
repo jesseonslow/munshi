@@ -5,8 +5,7 @@ title: 'Salt Licks: Their Vital Importance to the Conservation of Wildlife in Ma
   Facsimile reprint'
 canonical_name: 'Salt Licks: Their Vital Importance to the Conservation of Wildlife
   in Malaya. Facsimile reprint'
-type: article
-article_type: article
+type: publication
 authors:
 - T. Hubback
 year: 2022
@@ -23,7 +22,9 @@ published: false
 source_doc: hubback-salt-licks-b54b67b0a54e
 source_path: ../sources/hubback-salt-licks-b54b67b0a54e.md
 summarized: true
+publication_type: reprint
 ---
+
 # Salt Licks: Their Vital Importance to the Conservation of Wildlife in Malaya. Facsimile reprint
 
 Theodore Hubback's 1941 article, originally published in the *Journal of the Bombay Natural History Society* and reprinted here as a facsimile in JMBRAS (2022), documents the salt licks of Ulu Pahang and argues that their legal protection is indispensable to the survival of Malaya's large fauna. Writing from direct field observation, Hubback contends that the ecological function of these licks has been overlooked by conservation authorities at a critical moment when poaching and human encroachment were driving species toward local extinction.

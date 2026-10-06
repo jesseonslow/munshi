@@ -3,8 +3,7 @@ id: tom-harrisson-and-the-survival-service-commission
 work_id: jmbras-50-1-p71
 title: Tom {Harrisson} and the Survival Service Commission
 canonical_name: Tom {Harrisson} and the Survival Service Commission
-type: article
-article_type: article
+type: publication
 authors:
 - R.S.R. Fitter
 year: 1977
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-231-fitter-tomsurvivalservice-1977-64689f8b1004
 source_path: ../sources/jmbras-231-fitter-tomsurvivalservice-1977-64689f8b1004.md
 summarized: true
+publication_type: note
 ---
+
 # Tom {Harrisson} and the Survival Service Commission
 
 This is a short memorial note by R.S.R. Fitter, a former colleague of Tom Harrisson from Mass Observation, tracing Harrisson's role in the IUCN Survival Service Commission (SSC) from 1963 until his death (p. 71).

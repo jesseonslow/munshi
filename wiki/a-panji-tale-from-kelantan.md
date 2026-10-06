@@ -3,8 +3,7 @@ id: a-panji-tale-from-kelantan
 work_id: jmbras-22-1-p53
 title: A Panji tale from Kelantan
 canonical_name: A Panji tale from Kelantan
-type: article
-article_type: article
+type: publication
 authors:
 - R.O. Winstedt
 year: 1949
@@ -18,6 +17,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: translation
 ---
 
 # A Panji tale from Kelantan

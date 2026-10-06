@@ -3,8 +3,7 @@ id: governor-couperus-and-the-surrender-of-malacca-1795
 work_id: jmbras-29-3-p86
 title: Governor Couperus and the surrender of Malacca, 1795
 canonical_name: Governor Couperus and the surrender of Malacca, 1795
-type: article
-article_type: article
+type: publication
 authors:
 - G. Irwin
 year: 1956
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-175-irwin-governorcouperussurrender-1956-3a2ca27582f8
 source_path: ../sources/jmalayanras-175-irwin-governorcouperussurrender-1956-3a2ca27582f8.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Governor Couperus and the surrender of Malacca, 1795
 
 Graham Irwin's 1956 article examines the British capture of Malacca in August 1795 through the lens of the treason accusations levelled against Dutch Governor Abraham Couperus, arguing that the charges were politically motivated rather than grounded in evidence and that the surrender was a rational response to an indefensible garrison. The piece is built around two sets of primary documents: depositions taken at Samarang in 1796 and Couperus' belated rebuttal of 1805.

@@ -3,8 +3,7 @@ id: revisiting-the-legal-status-of-sabah-and-sarawak-in-malaysia
 work_id: jmbras-97-1-p86
 title: Revisiting the Legal Status of Sabah and Sarawak in Malaysia
 canonical_name: Revisiting the Legal Status of Sabah and Sarawak in Malaysia
-type: article
-article_type: article
+type: publication
 authors:
 - A. Rahman Tang Abdullah
 year: 2024
@@ -18,6 +17,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: journal_article
 ---
 
 # Revisiting the Legal Status of Sabah and Sarawak in Malaysia

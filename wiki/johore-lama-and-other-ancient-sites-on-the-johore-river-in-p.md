@@ -5,8 +5,7 @@ title: Johore Lama and other ancient sites on the Johore River. {In Papers on Jo
   Lama and the Portuguese in Malaya (1511–1641
 canonical_name: Johore Lama and other ancient sites on the Johore River. _{In_ Papers
   on Johore Lama and the Portuguese in Malaya (1511–1641)}
-type: article
-article_type: article
+type: publication
 authors:
 - C.A. Gibson-Hill
 year: 1955
@@ -23,7 +22,9 @@ published: false
 source_doc: jmalayanras-170-gibsonhill-johorelamaancient-1955-02f54e9aa83e
 source_path: ../sources/jmalayanras-170-gibsonhill-johorelamaancient-1955-02f54e9aa83e.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Johore Lama and other ancient sites on the Johore River. {In Papers on Johore Lama and the Portuguese in Malaya (1511–1641
 
 C.A. Gibson-Hill's 1955 study examines the archaeological and documentary evidence for the ancient sites along the Johore River, arguing that the fortified city of Kota Batu served as the formal capital of the Johore sultanate for less than forty years in total, and that the kampong of Johore Lama—identified with the Portuguese suburb of Corritao—represents a continuous settlement from the early fifteenth century that never again hosted the court after the Portuguese sack of 15 August 1587.

@@ -3,8 +3,7 @@ id: malay-manuscripts-in-germany
 work_id: jmbras-4-2-p233
 title: Malay manuscripts in Germany
 canonical_name: Malay manuscripts in Germany
-type: article
-article_type: article
+type: publication
 authors:
 - H. Overbeck
 year: 1926
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-097-overbeck-malaymanuscripts-1926-ab538f760f80
 source_path: ../sources/jmalayanras-097-overbeck-malaymanuscripts-1926-ab538f760f80.md
 summarized: true
+publication_type: document
 ---
+
 # Malay manuscripts in Germany
 
 Hans Overbeck, a German orientalist working in Bremen, published this descriptive catalogue of Malay manuscripts held in German public libraries in 1926, documenting holdings at Berlin, Dresden, Munich, and Hamburg. The article serves as a systematic inventory of these collections, cross-referencing each item against the standard catalogues of Batavia and Leiden to identify duplicates and unique copies.

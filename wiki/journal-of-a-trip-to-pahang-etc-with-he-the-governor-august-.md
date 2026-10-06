@@ -5,8 +5,7 @@ title: Journal of a trip to Pahang etc. with H.E. the Governor, August 17th to 2
   1889
 canonical_name: Journal of a trip to Pahang etc. with H.E. the Governor, August 17th
   to 27th, 1889
-type: article
-article_type: article
+type: publication
 authors:
 - W. Davison
 year: 1889
@@ -23,7 +22,9 @@ published: false
 source_doc: jsbras-020-davison-journaltrippahang-1889-fca11d1acae5
 source_path: ../sources/jsbras-020-davison-journaltrippahang-1889-fca11d1acae5.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Journal of a trip to Pahang etc. with H.E. the Governor, August 17th to 27th, 1889
 
 W. Davison, Secretary of the Raffles Library and Museum in Singapore, published this field journal in 1889, recording a ten-day voyage with the Governor of the Straits Settlements along the east coast of the Malay Peninsula from Pulau Tioman to the Rumpin River. The text functions simultaneously as a natural history collecting log and a brief ethnographic-economic survey of the Pahang and Kelantan littoral, offering a snapshot of colonial administrative presence and local livelihoods at a moment when the east coast was still largely unexplored by Western naturalists.

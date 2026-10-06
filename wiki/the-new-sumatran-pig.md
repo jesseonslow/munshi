@@ -3,8 +3,7 @@ id: the-new-sumatran-pig
 work_id: jsbras-45-1-p55
 title: The new Sumatran pig
 canonical_name: The new Sumatran pig
-type: article
-article_type: article
+type: publication
 authors:
 - C.B. Kloss
 year: 1906
@@ -27,7 +26,9 @@ published: false
 source_doc: jsbras-045-kloss-newsumatranpig-1906-e41456b1ad6e
 source_path: ../sources/jsbras-045-kloss-newsumatranpig-1906-e41456b1ad6e.md
 summarized: true
+publication_type: note
 ---
+
 # The new Sumatran pig
 
 C. Boden Kloss, a zoologist associated with the Raffles Museum in Singapore, published this brief taxonomic note in 1906 describing *Sus oi*, a sparsely haired wild pig first collected on the Indragiri River in eastern Sumatra in 1901 and subsequently encountered on Pulo Battam in the Rio-Linga Archipelago. The article consolidates the original description by Miller with Kloss's own examination of a freshly flayed specimen, and closes with a taxonomic argument against Lydekker's claim that the species belongs to the fauna of the Malay Peninsula.

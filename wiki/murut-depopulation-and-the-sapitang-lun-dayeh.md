@@ -3,8 +3,7 @@ id: murut-depopulation-and-the-sapitang-lun-dayeh
 work_id: jmbras-45-2-p109
 title: Murut depopulation and the Sapitang Lun Dayeh
 canonical_name: Murut depopulation and the Sapitang Lun Dayeh
-type: article
-article_type: article
+type: publication
 authors:
 - J.B. Crain
 year: 1972
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-222-crain-murutdepopulationsipitang-1972-53d4b18354b1
 source_path: ../sources/jmbras-222-crain-murutdepopulationsipitang-1972-53d4b18354b1/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Murut depopulation and the Sapitang Lun Dayeh
 
 Jay B. Crain's 1972 article, published in the *Journal of the Malaysian Branch of the Royal Asiatic Society*, addresses the long-standing "Murut Problem" in Sabah—the apparent demographic collapse of the Murut population between the 1921 and 1951 censuses—and argues that the phenomenon was substantially a statistical artifact produced by the conflation of ethnically distinct groups under a single census category. Drawing on his 1968–69 fieldwork among the Lun Dayeh of Sipitang District, Crain demonstrates that the Lun Dayeh, a people with linguistic and cultural affinities to central and southern Borneo rather than to the northern Murut, were enumerated as "Murut" in official tallies, thereby distorting population trends and obscuring the true dynamics of both groups.

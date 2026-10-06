@@ -3,8 +3,7 @@ id: raja-bot-bin-raja-jumaat
 work_id: jmbras-40-2-p68
 title: Raja Bot bin Raja Jumaat
 canonical_name: Raja Bot bin Raja Jumaat
-type: article
-article_type: article
+type: publication
 authors:
 - Mohamed Amin Hassan
 year: 1967
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-212-hassan-rajabotbin-1967-412fd8cba34a
 source_path: ../sources/jmbras-212-hassan-rajabotbin-1967-412fd8cba34a.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Raja Bot bin Raja Jumaat
 
 Mohamed Amin Hassan's 1967 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* reconstructs the life of Raja Bot bin Raja Jumaat (1847–1916), the ruler of Lukut who lost his territory to British-mediated boundary settlements and subsequently became one of the longest-serving members of the Selangor State Council. Drawing heavily on the Selangor Secretariat Files, State Council Minutes, and colonial correspondence, Hassan argues that Raja Bot's trajectory exemplifies the fate of a pre-Residential System Malay chief who, after being dispossessed of his domain, adapted to the new colonial administrative order but was ultimately undone by financial mismanagement.

@@ -3,8 +3,7 @@ id: the-malay-press
 work_id: jmbras-36-1-p37
 title: The Malay press
 canonical_name: The Malay press
-type: article
-article_type: article
+type: publication
 authors:
 - Ahmad bin Haji Nik Hassan Nik
 year: 1963
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-201-hassan-malaypress-1963-7295c2b66af6
 source_path: ../sources/jmalayanras-201-hassan-malaypress-1963-7295c2b66af6.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The Malay press
 
 Nik Ahmad bin Haji Nik Hassan's 1963 article in the *Journal of the Malayan Branch of the Royal Asiatic Society* provides the first comprehensive history of the Malay vernacular press in Malaya, tracing its development from the founding of the *Jawi Peranakkan* in 1876 through the post-war landscape of 1958. The central argument is that the Malay press evolved through three distinct phases—literary and social, religious reform, and political nationalism—each reflecting the changing consciousness of the Malay community under colonial rule, culminating in the press's decisive role in the independence movement.

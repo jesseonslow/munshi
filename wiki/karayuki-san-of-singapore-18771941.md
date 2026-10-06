@@ -3,8 +3,7 @@ id: karayuki-san-of-singapore-18771941
 work_id: jmbras-62-2-p45
 title: Karayuki-San of Singapore, 1877–1941
 canonical_name: Karayuki-San of Singapore, 1877–1941
-type: article
-article_type: article
+type: publication
 authors:
 - J.F. Warren
 year: 1989
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-257-warren-karayukisansingapore1877-1989-9ce76d6075d8
 source_path: ../sources/jmbras-257-warren-karayukisansingapore1877-1989-9ce76d6075d8.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Karayuki-San of Singapore, 1877–1941
 
 J.F. Warren's 1989 article reconstructs the history of Japanese prostitutes (*karayuki-san*) in colonial Singapore from 1877 to 1941, arguing that their presence was structurally indispensable to the city's development as a "coolie town" and that their experiences must be understood through the intersecting forces of agrarian poverty in Kyushu, patriarchal family systems, and colonial sex regulation. The study positions the *karayuki-san* not as "fallen women" but as migrant labourers whose exploitation generated capital for both Singapore's economic expansion and Japan's modernisation.

@@ -4,8 +4,7 @@ work_id: jmbras-89-2-p125
 title: 'Nation and conservation: postcolonial water narratives in Singapore rituals'
 canonical_name: 'Nation and conservation: postcolonial water narratives in Singapore
   rituals'
-type: article
-article_type: article
+type: publication
 authors:
 - M. Kaplan
 year: 2016
@@ -29,7 +28,9 @@ keywords:
 - Singapore
 - National Day
 - environmental politics
+publication_type: journal_article
 ---
+
 # Nation and conservation: postcolonial water narratives in Singapore rituals
 
 ## Abstract

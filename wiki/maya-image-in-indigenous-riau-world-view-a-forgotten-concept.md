@@ -5,8 +5,7 @@ title: 'Maya (image) in indigenous Riau world-view: a forgotten concept of Malay
   animist thought and practice'
 canonical_name: '_Maya_ (image) in indigenous Riau world-view: a forgotten concept
   of Malayan animist thought and practice'
-type: article
-article_type: article
+type: publication
 authors:
 - N. Porath
 year: 2015
@@ -34,7 +33,9 @@ keywords:
 - Malay magic
 - shamanism
 - © Malaysian Branch of the Royal Asiatic Society
+publication_type: journal_article
 ---
+
 # Maya (image) in indigenous Riau world-view: a forgotten concept of Malayan animist thought and practice
 
 ## Abstract

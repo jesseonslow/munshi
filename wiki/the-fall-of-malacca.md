@@ -3,8 +3,7 @@ id: the-fall-of-malacca
 work_id: jmbras-13-2-p68
 title: The fall of Malacca
 canonical_name: The fall of Malacca
-type: article
-article_type: article
+type: publication
 authors:
 - R.J. Wilkinson
 year: 1935
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-122-wilkinson-fallmalacca-1935-679d11240eff
 source_path: ../sources/jmalayanras-122-wilkinson-fallmalacca-1935-679d11240eff.md
 summarized: true
+publication_type: note
 ---
+
 # The fall of Malacca
 
 This short note by R.J. Wilkinson, C.M.G., published in the *Journal of the Malayan Branch of the Royal Asiatic Society* (Vol. 13, No. 2, 1935), revisits the Portuguese conquest of Malacca in 1511 and critically assesses the traditional accounts of the city's size and military strength.

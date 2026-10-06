@@ -3,8 +3,7 @@ id: food-and-ethnic-identity-in-the-cham-refugee-community-in-ma
 work_id: jmbras-93-2-p153
 title: Food and ethnic identity in the Cham refugee community in Malaysia
 canonical_name: Food and ethnic identity in the Cham refugee community in Malaysia
-type: article
-article_type: article
+type: publication
 authors:
 - R. Nakamura
 year: 2020
@@ -29,7 +28,9 @@ keywords:
 - Malaysia
 - Cambodian refugees
 - Vietnamese refugees
+publication_type: journal_article
 ---
+
 # Food and ethnic identity in the Cham refugee community in Malaysia
 
 ## Abstract

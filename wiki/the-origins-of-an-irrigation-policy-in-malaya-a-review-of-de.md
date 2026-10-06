@@ -5,8 +5,7 @@ title: 'The origins of an irrigation policy in Malaya: a review of developments 
   to the establishment of the Drainage and Irrigation Department'
 canonical_name: 'The origins of an irrigation policy in Malaya: a review of developments
   prior to the establishment of the Drainage and Irrigation Department'
-type: article
-article_type: article
+type: publication
 authors:
 - J.C. Jackson
 - D.E. Short
@@ -24,7 +23,9 @@ published: false
 source_doc: jmbras-219-short-originsirrigationpolicy-1971-ce31f76fbd00
 source_path: ../sources/jmbras-219-short-originsirrigationpolicy-1971-ce31f76fbd00.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The origins of an irrigation policy in Malaya: a review of developments prior to the establishment of the Drainage and Irrigation Department
 
 D.E. Short and James C. Jackson, writing in 1971 for the *Journal of the Malaysian Branch of the Royal Asiatic Society*, trace the half-century of administrative indecision, competing economic priorities, and institutional fragmentation that preceded the establishment of the Drainage and Irrigation Department on 1 January 1932. Their overarching thesis is that the creation of this department was not the product of a coherent policy trajectory but rather the belated resolution of a structural problem: the inability of the colonial state to reconcile the demands of a lucrative extractive economy with the agricultural needs of a rice-dependent population.

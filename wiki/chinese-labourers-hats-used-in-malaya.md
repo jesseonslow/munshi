@@ -3,8 +3,7 @@ id: chinese-labourers-hats-used-in-malaya
 work_id: jmbras-25-1-p35
 title: Chinese labourers’ hats used in Malaya
 canonical_name: Chinese labourers’ hats used in Malaya
-type: article
-article_type: article
+type: publication
 authors:
 - C.A. Gibson-Hill
 year: 1952
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-158-gibsonhill-chineselabourershats-1952-52173ec88b9d
 source_path: ../sources/jmalayanras-158-gibsonhill-chineselabourershats-1952-52173ec88b9d/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Chinese labourers’ hats used in Malaya
 
 C.A. Gibson-Hill (1952) provides the first systematic description of the five distinct patterns of Chinese bamboo labourers' hats imported into Malaya, documenting their construction, regional origins in Kwang-tung, Fu-kien and Hainan, and their distribution across the Malay world and beyond. The article addresses a conspicuous gap in the ethnographic record: while the author's own 1951 paper had covered Malay hats and dishcovers, the Chinese hats—far more prevalent in western Malaya and the only kind normally seen in Singapore—had never been described even at their point of origin (p. 33).

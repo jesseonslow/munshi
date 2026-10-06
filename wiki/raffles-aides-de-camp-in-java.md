@@ -3,8 +3,7 @@ id: raffles-aides-de-camp-in-java
 work_id: jmbras-65-1-p1
 title: Raffles’ aides-de-camp in Java
 canonical_name: Raffles’ aides-de-camp in Java
-type: article
-article_type: article
+type: publication
 authors:
 - J.S. Bastin
 year: 1992
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: true
 source_doc: jmbras-262-bastin-rafflesaidesdecampjava-1992-d10c601176e4
 source_path: ../sources/jmbras-262-bastin-rafflesaidesdecampjava-1992-d10c601176e4.md
+publication_type: journal_article
 ---
+
 # Raffles’ aides-de-camp in Java
 
 John Bastin's 1992 article traces the careers of the five young East India Company officers who served as aides-de-camp to Sir Stamford Raffles during the British occupation of Java (1811–1816), arguing that this intimate "family" at Government House, Buitenzorg, was the crucible in which both Raffles' greatest loyalties and his most bitter betrayals were forged. Drawing heavily on Travers' manuscript Journal and British Library India Office records, Bastin reconstructs how three of the five men remained faithful to Raffles to the end while the other two — Watson and Methven — became his most active enemies in his final years.

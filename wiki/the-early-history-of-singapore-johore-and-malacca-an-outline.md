@@ -5,8 +5,7 @@ title: 'The early history of Singapore, Johore and Malacca: an outline of a pape
   by G.P. Rouffaer'
 canonical_name: 'The early history of Singapore, Johore and Malacca: an outline of
   a paper by G.P. Rouffaer'
-type: article
-article_type: article
+type: publication
 authors:
 - G.P. Rouffaer
 - R.O. Winstedt
@@ -24,7 +23,9 @@ published: false
 source_doc: jsbras-086-rouffaer-earlyhistorysingapore-1922-9081639bc8c3
 source_path: ../sources/jsbras-086-rouffaer-earlyhistorysingapore-1922-9081639bc8c3.md
 summarized: true
+publication_type: translation
 ---
+
 # The early history of Singapore, Johore and Malacca: an outline of a paper by G.P. Rouffaer
 
 R.O. Winstedt's 1922 outline in the *Journal of the Straits Branch of the Royal Asiatic Society* presents the core arguments of G.P. Rouffaer's 174-page paper on the early geography and history of the Malaya Peninsula, published in *Bijdragen tot de Taal-, Land- en Volkenkunde van Nederlandsch-Indie* (Deel 77, 1921). Rouffaer, who had previously identified *tanah Melayu* as the basin of the Jambi, attempts to reconstruct the political and commercial evolution of Singapore, Johore, and Malacca from the seventh to the fifteenth centuries by cross-referencing Chinese, Javanese, Tamil, Siamese, and Portuguese sources. Winstedt's summary is framed as a guide for English-speaking readers, acknowledging that some of Rouffaer's identifications—particularly regarding Langkasuka—may not gain universal acceptance.

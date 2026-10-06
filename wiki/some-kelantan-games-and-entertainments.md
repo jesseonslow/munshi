@@ -3,8 +3,7 @@ id: some-kelantan-games-and-entertainments
 work_id: jmbras-25-1-p20
 title: Some Kelantan games and entertainments
 canonical_name: Some Kelantan games and entertainments
-type: article
-article_type: article
+type: publication
 authors:
 - A.H. Hill
 year: 1952
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-158-hill-kelantangamesentertainments-1952-6c880f2efe29
 source_path: ../sources/jmalayanras-158-hill-kelantangamesentertainments-1952-6c880f2efe29.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Some Kelantan games and entertainments
 
 A.H. Hill's 1952 ethnographic survey, written from direct observation in post-war Kelantan, documents four principal forms of Malay recreation—bull-fighting, kite-flying, a board game, and the shadow play—arguing that the Kelantanese invest in their leisure pursuits with the same intensity they bring to agricultural labour. The article was received in August 1950, placing it in the immediate aftermath of the Sultan's lifting of a pre-war ban on animal contests, and it draws heavily on informant interviews, personal attendance at events, and comparison with earlier colonial-era accounts by Brown, Clifford, and Swettenham.

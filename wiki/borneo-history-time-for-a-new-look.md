@@ -3,8 +3,7 @@ id: borneo-history-time-for-a-new-look
 work_id: jmbras-59-2-p45
 title: 'Borneo history: time for a new look?'
 canonical_name: 'Borneo history: time for a new look?'
-type: article
-article_type: article
+type: publication
 authors:
 - D. Phillips
 year: 2016
@@ -30,7 +29,9 @@ keywords:
 - North Borneo
 - Sarawak
 - Singapore
+publication_type: journal_article
 ---
+
 # Borneo history: time for a new look?
 
 ## Abstract

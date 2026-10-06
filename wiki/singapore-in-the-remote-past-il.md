@@ -3,8 +3,7 @@ id: singapore-in-the-remote-past-il
 work_id: jmbras-45-1-p1
 title: Singapore in the remote past. Il
 canonical_name: Singapore in the remote past. Il
-type: article
-article_type: article
+type: publication
 authors:
 - Hsu Yun-ts'iao
 year: 1972
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: false
 source_doc: jmbras-221-yntsiao-singaporeremotepast-1972-1234bf5874ca
 source_path: ../sources/jmbras-221-yntsiao-singaporeremotepast-1972-1234bf5874ca.md
+publication_type: journal_article
 ---
+
 # Singapore in the remote past. Il
 
 Hsü Yün-Ts'iao, a Chinese historian of Southeast Asian studies, published this article in 1972 to challenge the widespread assumption—reinforced by Singapore's 1969 sesquicentennial celebrations—that the island's history began with Raffles in 1819. Drawing extensively on Chinese geographical and diplomatic records, he argues that Singapore has been a node in maritime trade networks for at least 1,700 years, with the earliest identifiable reference dating to approximately A.D. 231.

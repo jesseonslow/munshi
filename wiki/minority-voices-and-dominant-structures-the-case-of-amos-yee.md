@@ -3,8 +3,7 @@ id: minority-voices-and-dominant-structures-the-case-of-amos-yee
 work_id: jmbras-89-1-p123
 title: 'Minority voices and dominant structures: the case of Amos Yee'
 canonical_name: 'Minority voices and dominant structures: the case of Amos Yee'
-type: article
-article_type: article
+type: publication
 authors:
 - R. Y. Chen
 year: 2016
@@ -28,7 +27,9 @@ keywords:
 - political ritual
 - mourning
 - memory
+publication_type: journal_article
 ---
+
 # Minority voices and dominant structures: the case of Amos Yee
 
 ## Abstract

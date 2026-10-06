@@ -3,8 +3,7 @@ id: selesilah-book-of-the-descent-of-the-rajas-of-bruni
 work_id: jsbras-5-1-p1
 title: 'Selesilah: book of the descent of the Rajas of Bruni'
 canonical_name: _Selesilah:_ book of the descent of the Rajas of Bruni
-type: article
-article_type: article
+type: publication
 authors:
 - Sir Hugh Low
 year: 1880
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: true
 source_doc: jsbras-005-low-slslahbookdescent-1880-1009489390e7
 source_path: ../sources/jsbras-005-low-slslahbookdescent-1880-1009489390e7.md
+publication_type: translation
 ---
+
 # Selesilah: book of the descent of the Rajas of Bruni
 
 Sir Hugh Low, H.B.M.'s Resident in Perak, published this transcription and translation of the *Sēlēsīlah*—the genealogical chronicle of the Brunei royal dynasty—in 1880, presenting the succession of Sultans from the introduction of Islam to the reign of Sultan Omar Ali Saif II. The work combines a narrative of dynastic descent with Low's own scholarly annotations, a detailed history of the civil war between Sultan Abdul Mubin and Sultan Muaddin, and a transcription of a historic stone tablet dated A.H. 1221 (A.D. 1804), together constituting the most comprehensive English-language account of Brunei's early Islamic monarchy available at the time.

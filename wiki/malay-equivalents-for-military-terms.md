@@ -3,8 +3,7 @@ id: malay-equivalents-for-military-terms
 work_id: jmbras-2-1-p83
 title: Malay equivalents for military terms
 canonical_name: Malay equivalents for military terms
-type: article
-article_type: article
+type: publication
 authors:
 - Hashim N.M
 year: 1924
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: true
 source_doc: jmalayanras-090-hashim-malayequivalentsmilitary-1924-92fe355284ca
 source_path: ../sources/jmalayanras-090-hashim-malayequivalentsmilitary-1924-92fe355284ca.md
+publication_type: note
 ---
+
 # Malay equivalents for military terms
 
 A brief lexical reference by Capt. N. M. Hashim providing Malay equivalents for British military ranks and organizational designations, published in the *Journal of the Malayan Branch of the Royal Asiatic Society* in 1924.

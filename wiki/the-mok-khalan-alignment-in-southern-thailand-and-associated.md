@@ -5,8 +5,7 @@ title: The Mok Khalan alignment in Southern Thailand and associated archaeologic
   remains
 canonical_name: The Mok Khalan alignment in Southern Thailand and associated archaeological
   remains
-type: article
-article_type: article
+type: publication
 authors:
 - H.H.E. Loofs
 year: 1977
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-231-loofs-mokkhalanalignment-1977-06f89c76b735
 source_path: ../sources/jmbras-231-loofs-mokkhalanalignment-1977-06f89c76b735.md
 summarized: true
+publication_type: note
 ---
+
 # The Mok Khalan alignment in Southern Thailand and associated archaeological remains
 
 H.H.E. Loofs published this concise field note in 1977, describing a stone alignment near Nakhon Si Thammarat in Southern Thailand that he visited in early 1968 during the Thai-British Archaeological Expedition. The article argues that while the alignment superficially resembles the megalithic rows known from Malacca and Negri Sembilan, its associated worked stones—particularly two decorated posts bearing a Khmer-style floral relief—point to a much later origin, no earlier than the thirteenth century, and suggest a complex process of religious transformation from Saivite Hinduism to Buddhism.

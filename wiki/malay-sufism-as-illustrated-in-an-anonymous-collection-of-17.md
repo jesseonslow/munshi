@@ -4,8 +4,7 @@ work_id: jmbras-30-2-p1
 title: Malay Sufism as illustrated in an anonymous collection of 17th century tracts
 canonical_name: Malay Sufism as illustrated in an anonymous collection of 17th century
   tracts
-type: article
-article_type: article
+type: publication
 authors:
 - A.H. Johns
 year: 1957
@@ -23,7 +22,9 @@ summarized: true
 source_mismatch: true
 source_doc: jmalayanras-178-johns-malaysufismillustrated-1957-b4ef4de926ac
 source_path: ../sources/appendix.md
+publication_type: journal_article
 ---
+
 # Malay Sufism as illustrated in an anonymous collection of 17th century tracts
 
 A.H. Johns published this extensive study in 1957, presenting a transcription, translation, and doctrinal analysis of an anonymous collection of eighteen Sufi tracts in archaic Malay, composed at Aceh in north Sumatra during the first half of the seventeenth century. The work argues that the tracts represent the teaching of a competent but unoriginal Achenese instructor belonging to the school of Shamsu'l-Din (d. 1630), and that they illustrate the homogeneity of Muslim mystical thought across the Indo-Malay world at a period when Aceh was the successor to Malacca as the region's political, commercial, and religious centre.

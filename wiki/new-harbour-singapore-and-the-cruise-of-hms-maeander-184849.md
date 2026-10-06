@@ -3,8 +3,7 @@ id: new-harbour-singapore-and-the-cruise-of-hms-maeander-184849
 work_id: jmbras-38-2-p229
 title: New harbour, Singapore and the cruise of H.M.S. Maeander, 1848–49
 canonical_name: New harbour, Singapore and the cruise of H.M.S. _Maeander,_ 1848–49
-type: article
-article_type: article
+type: publication
 authors:
 - C.D. Cowan
 year: 1965
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-208-cowan-newharboursingapore-1965-c6ebf38bb3ff
 source_path: ../sources/jmbras-208-cowan-newharboursingapore-1965-c6ebf38bb3ff.md
 summarized: true
+publication_type: journal_article
 ---
+
 # New harbour, Singapore and the cruise of H.M.S. Maeander, 1848–49
 
 C.D. Cowan's 1965 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* reconstructs the East Indian cruise of HMS *Maeander* (1848–49) from the ship's log held at the Public Record Office, London, to correct persistent misconceptions about Captain Henry Keppel's relationship with New Harbour (now Keppel Harbour), Singapore. Building on C.A. Gibson-Hill's 1954 foundational study of the Old Strait, Cowan demonstrates that while Keppel was not the harbour's discoverer, *Maeander* was the first vessel to make sustained use of it as an anchorage, and that the popular story of Keppel grounding the ship on the shoal that bears her name is unsupported by the documentary record.

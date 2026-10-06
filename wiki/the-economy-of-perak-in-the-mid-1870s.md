@@ -3,8 +3,7 @@ id: the-economy-of-perak-in-the-mid-1870s
 work_id: jmbras-83-2-p27
 title: The economy of Perak in the mid-1870s
 canonical_name: The economy of Perak in the mid-1870s
-type: article
-article_type: article
+type: publication
 authors:
 - J.M. Gullick
 year: 2010
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-299-gullick-economyperakmid1870s-2010-7681d0c3b765
 source_path: ../sources/jmbras-299-gullick-economyperakmid1870s-2010-7681d0c3b765/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The economy of Perak in the mid-1870s
 
 John Gullick's 2010 article reconstructs the economic life of Perak during the turbulent mid-1870s—a brief window between the Larut fighting of 1872 and the consolidation of colonial rule under Hugh Low—arguing that this period represents the final phase of an autonomous, decentralized economy before British administrative control fundamentally restructured the state.

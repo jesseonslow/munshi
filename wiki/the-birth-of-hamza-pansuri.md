@@ -3,8 +3,7 @@ id: the-birth-of-hamza-pansuri
 work_id: jmbras-42-2-p206
 title: The birth of Hamza Pansuri
 canonical_name: The birth of Hamza Pansuri
-type: article
-article_type: article
+type: publication
 authors:
 - L.F. Brakel
 year: 1969
@@ -20,6 +19,7 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+publication_type: journal_article
 ---
 
 # The birth of Hamza Pansuri

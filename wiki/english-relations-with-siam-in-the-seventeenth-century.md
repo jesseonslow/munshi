@@ -3,8 +3,7 @@ id: english-relations-with-siam-in-the-seventeenth-century
 work_id: jmbras-34-2-p90
 title: English relations with Siam in the seventeenth century
 canonical_name: English relations with Siam in the seventeenth century
-type: article
-article_type: article
+type: publication
 authors:
 - D.K. Bassett
 year: 1961
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-194-bassett-englishrelationssiam-1961-34d5398f4044
 source_path: ../sources/jmalayanras-194-bassett-englishrelationssiam-1961-34d5398f4044.md
 summarized: true
+publication_type: journal_article
 ---
+
 # English relations with Siam in the seventeenth century
 
 D.K. Bassett's 1961 article revises the standard narrative of English-Siamese commercial relations in the seventeenth century, arguing that the East India Company's factory at Ayuthia was never the product of sustained corporate interest but rather a series of fortuitous arrivals, private trading ventures, and systematic deception by the Company's own servants in Asia. Drawing on the Company's Letter Books, Court Minutes, and factory records, Bassett dismantles the interpretations of Anderson (1890) and Hutchinson (1940), who had portrayed the Company as maintaining a continuous and purposeful engagement with Siam throughout the period.

@@ -3,8 +3,7 @@ id: dato-haji-mubin-sheppard-with-a-note-p-kratoska
 work_id: jmbras-95-1-p95
 title: Dato Haji Mubin Sheppard. With a note P. Kratoska
 canonical_name: Dato Haji Mubin Sheppard. With a note P. Kratoska
-type: article
-article_type: article
+type: publication
 authors:
 - P.H. Kratoska
 - Mubin Sheppard
@@ -22,7 +21,9 @@ published: false
 source_doc: sheppard-kratoska-reflections-on-the-journal-15324637d5c6
 source_path: ../sources/sheppard-kratoska-reflections-on-the-journal-15324637d5c6/frontmatter.md
 summarized: true
+publication_type: reprint
 ---
+
 # Dato Haji Mubin Sheppard. With a note P. Kratoska
 
 Tan Sri Dato Haji Mubin Sheppard (1905–94), a former editor of the journal, presented a paper in 1985 on the history and operational challenges of the *Journal of the Malaysian Branch of the Royal Asiatic Society*; Paul H. Kratoska, who assumed the editorship in 2015, has edited and updated Sheppard's account to reflect three decades of transformation in scholarly publishing (p. 95). The article traces the journal's institutional history from its 1877 founding in Singapore through its colonial and post-colonial phases, and contrasts the print-era workflows Sheppard described with the digital infrastructure now sustaining the journal's reach.

@@ -3,8 +3,7 @@ id: some-mouse-deer-tales
 work_id: jsbras-45-1-p61
 title: Some mouse-deer tales
 canonical_name: Some mouse-deer tales
-type: article
-article_type: article
+type: publication
 authors:
 - R.O. Winstedt
 year: 1906
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-045-winsedtt-mousedeertales-1906-c9be920d1a24
 source_path: ../sources/jsbras-045-winsedtt-mousedeertales-1906-c9be920d1a24.md
 summarized: true
+publication_type: translation
 ---
+
 # Some mouse-deer tales
 
 R.O. Winstedt published this collection of Malay mouse-deer (*kancil*) folktales in 1906, presenting them as transcribed almost verbatim from the oral recitation of a Malaccan Malay man in Perak who had himself heard them from a Javanese settler translating from an old Javanese manuscript. The article serves as both a linguistic-ethnographic record of oral tradition and a comparative note on the circulation of animal-trickster tales across the Malay and Javanese worlds.

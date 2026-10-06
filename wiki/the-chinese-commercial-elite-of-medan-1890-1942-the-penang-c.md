@@ -3,8 +3,7 @@ id: the-chinese-commercial-elite-of-medan-1890-1942-the-penang-c
 work_id: jmbras-82-2-p113
 title: 'The Chinese commercial elite of Medan, 1890-1942: the Penang connection'
 canonical_name: 'The Chinese commercial elite of Medan, 1890-1942: the Penang connection'
-type: article
-article_type: article
+type: publication
 authors:
 - D.A. Buiskool
 year: 2009
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-297-buiskool-chinesecommercialelite-2009-e59702341cab
 source_path: ../sources/jmbras-297-buiskool-chinesecommercialelite-2009-e59702341cab/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The Chinese commercial elite of Medan, 1890-1942: the Penang connection
 
 Dirk A. Buiskool's 2009 article examines the Chinese commercial elite of Medan, East Sumatra, from 1890 to 1942, arguing that the Penang connection—through business partnerships, educational orientation, and linguistic ties—was the defining structural feature of this community's integration into the broader Straits Settlements economic sphere rather than the Dutch colonial interior. The study centres on the Tjong brothers (Tjong Yong Hian and Tjong A Fie) while broadening to a wider cohort of entrepreneurs who shared this Straits-oriented profile.

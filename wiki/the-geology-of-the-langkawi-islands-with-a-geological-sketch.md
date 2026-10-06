@@ -3,8 +3,7 @@ id: the-geology-of-the-langkawi-islands-with-a-geological-sketch
 work_id: jmbras-1-2-p338
 title: 'The geology of the Langkawi Islands: with a geological sketch map'
 canonical_name: 'The geology of the Langkawi Islands: with a geological sketch map'
-type: article
-article_type: article
+type: publication
 authors:
 - J.B. Scrivenor
 - E.S. Willbourn
@@ -22,7 +21,9 @@ published: false
 source_doc: jmalayanras-088-scrivenor-geologylangkawiislands-1923-279630ce0b62
 source_path: ../sources/jmalayanras-088-scrivenor-geologylangkawiislands-1923-279630ce0b62.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The geology of the Langkawi Islands: with a geological sketch map
 
 Scrivenor and Willbourn, geologists attached to the Federated Malay States survey, published this paper in 1923 in the inaugural volume of the *Journal of the Malaysian Branch of the Royal Asiatic Society*. Drawing on fieldwork conducted in 1919, 1920, and 1922, it presents the first systematic geological account of the Langkawi archipelago, demonstrating that the islands expose a Carboniferous sedimentary sequence intruded by porphyritic granite and that the group is undergoing recent tectonic elevation relative to sea level.

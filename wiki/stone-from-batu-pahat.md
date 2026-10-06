@@ -3,8 +3,7 @@ id: stone-from-batu-pahat
 work_id: jsbras-9-1-p168
 title: Stone from Batu Pahat
 canonical_name: Stone from Batu Pahat
-type: article
-article_type: article
+type: publication
 authors:
 - D.F.A. Hervey
 year: 1882
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-009-hervey-stonebtupahat-1882-0f248a0b17e7
 source_path: ../sources/jsbras-009-hervey-stonebtupahat-1882-0f248a0b17e7.md
 summarized: true
+publication_type: note
 ---
+
 # Stone from Batu Pahat
 
 A short note by D.F.A. Hervey addressing the provenance of stone used in the construction of the Portuguese fort at Malacca, with a brief preliminary linguistic observation on the Pantang Kâpur dialect.

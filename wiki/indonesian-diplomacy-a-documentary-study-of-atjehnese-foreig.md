@@ -5,8 +5,7 @@ title: 'Indonesian diplomacy: a documentary study of Atjehnese foreign policy in
   reign of Sultan Mahmud, 1870–1874'
 canonical_name: 'Indonesian diplomacy: a documentary study of Atjehnese foreign policy
   in the reign of Sultan Mahmud, 1870–1874'
-type: article
-article_type: article
+type: publication
 authors:
 - Anthony Reid
 year: 1969
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-216-reid-indonesiandiplomacydocumentary-1969-0315fba43979
 source_path: ../sources/jmbras-216-reid-indonesiandiplomacydocumentary-1969-0315fba43979.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Indonesian diplomacy: a documentary study of Atjehnese foreign policy in the reign of Sultan Mahmud, 1870–1874
 
 This article by Anthony Reid, published in the *Journal of the Malaysian Branch of the Royal Asiatic Society* (Vol. 42, No. 2, 1969, pp. 74–114), is a documentary study of Acehnese (Atjehnese) foreign policy during the reign of Sultan Mahmud, 1870–1874.

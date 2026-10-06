@@ -3,8 +3,7 @@ id: malayan-women-during-the-japanese-occupation
 work_id: jmbras-89-2-p101
 title: Malayan women during the Japanese occupation
 canonical_name: Malayan women during the Japanese occupation
-type: article
-article_type: article
+type: publication
 authors:
 - Mahani Musa
 year: 2016
@@ -29,7 +28,9 @@ keywords:
 - war volunteers
 - war associations
 - anti-Japanese movement
+publication_type: journal_article
 ---
+
 # Malayan women during the Japanese occupation
 
 ## Abstract

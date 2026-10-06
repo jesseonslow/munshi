@@ -4,8 +4,7 @@ work_id: jmbras-40-2-p94
 title: The connection between the Hikayat Raja2 Pasai and the Sejarah Melayu
 canonical_name: The connection between the _Hikayat Raja2 Pasai_ and the _Sejarah
   Melayu._
-type: article
-article_type: article
+type: publication
 authors:
 - A. Sweeney
 year: 1967
@@ -22,7 +21,9 @@ published: false
 source_doc: jmbras-212-sweeney-connectionhikayatraja2-1967-34ae09ed3d19
 source_path: ../sources/jmbras-212-sweeney-connectionhikayatraja2-1967-34ae09ed3d19.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The connection between the Hikayat Raja2 Pasai and the Sejarah Melayu
 
 P. L. Amin Sweeney's 1967 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* re-examines the long-debated question of the textual relationship between the *Hikayat Raja-Raja Pasai* (HRP) and the *Sejarah Melayu* (SM), challenging both Winstedt's thesis of HRP priority and Teeuw's more recent counter-argument. Working from the sole extant manuscript (Raffles MS 67, dated 1814) and comparative linguistic analysis, Sweeney argues that the evidence supports a direct textual connection between the two works but resists simple conclusions about direction of influence, proposing instead a complex scenario of revision and interpolation spanning the sixteenth to eighteenth centuries.

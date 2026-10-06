@@ -5,8 +5,7 @@ title: 'Technology transfer in Singapore/Malaya during the colonial period: some
   comments'
 canonical_name: 'Technology transfer in Singapore/Malaya during the colonial period:
   some further comments'
-type: article
-article_type: article
+type: publication
 authors:
 - Drabble J.H
 year: 2003
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-285-drabble-technologytransfersingaporemalaya-2003-38db16011c24
 source_path: ../sources/jmbras-285-drabble-technologytransfersingaporemalaya-2003-38db16011c24/frontmatter.md
 summarized: true
+publication_type: note
 ---
+
 # Technology transfer in Singapore/Malaya during the colonial period: some further comments
 
 John H. Drabble's 2003 note responds to two earlier JMBRAS articles by Goh Chor Boon and Ian Inkster on the absence of significant manufacturing development in colonial Singapore and Malaya, arguing that their emphasis on institutional and cultural constraints underweights the structural economic imperatives of the Old International Division of Labour. The central thesis is that the boom-bust commodity economy of tin and rubber created disincentives for industrialization in both expansionary and contractionary phases, making the region structurally unsuited to manufacturing investment regardless of institutional arrangements (pp. 81–82).

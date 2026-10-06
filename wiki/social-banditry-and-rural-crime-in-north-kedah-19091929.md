@@ -3,8 +3,7 @@ id: social-banditry-and-rural-crime-in-north-kedah-19091929
 work_id: jmbras-54-2-p98
 title: Social banditry and rural crime in North Kedah, 1909–1929
 canonical_name: Social banditry and rural crime in North Kedah, 1909–1929
-type: article
-article_type: article
+type: publication
 authors:
 - Cheah Boon Kheng
 year: 1981
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-240-kheng-socialbanditryrural-1981-19a5de81f056
 source_path: ../sources/jmbras-240-kheng-socialbanditryrural-1981-19a5de81f056.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Social banditry and rural crime in North Kedah, 1909–1929
 
 Cheah Boon Kheng's 1981 article examines gang robbery and rural crime in North Kedah between 1909 and 1929, arguing that the notorious outlaws Salleh Tui and Nayan were "social bandits" in E.J. Hobsbawm's sense—peasant criminals whom their local communities perceived as heroes and avengers rather than mere criminals. Drawing on police records, Kedah Annual Reports, and extensive oral history collected from rural informants in the Kuala Nerang, Pendang, Yan, and Sik districts, Cheah situates the bandits within a context of weak rural policing, the economic dislocation caused by the abolition of corvee and imposition of land-tax, and the porous Kedah–Siam frontier that enabled criminal gangs to operate with relative impunity.

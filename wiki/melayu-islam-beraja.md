@@ -3,8 +3,7 @@ id: melayu-islam-beraja
 work_id: jmbras-86-2-p93
 title: Melayu Islam Beraja
 canonical_name: Melayu Islam Beraja
-type: article
-article_type: article
+type: publication
 authors:
 - Abdul Aziz Umar
 year: 2013
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-305-umar-melayuislamberaja-2013-bee9850728b0
 source_path: ../sources/jmbras-305-umar-melayuislamberaja-2013-bee9850728b0.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Melayu Islam Beraja
 
 Abdul Aziz Umar, Brunei's last Chief Minister before independence in 1983, delivered this practitioner's reflection in 2013 arguing that Melayu Islam Beraja (MIB) is not a static traditional inheritance but the cumulative product of Brunei's socio-political experience — particularly the British intervention of 1904 and the post-war nationalist crisis — that transformed the ancient *negara* into a modern nation-state.

@@ -3,8 +3,7 @@ id: the-gesneraceae-of-the-malay-peninsula
 work_id: jsbras-44-1-p1
 title: The Gesneraceae of the Malay Peninsula
 canonical_name: The Gesneraceae of the Malay Peninsula
-type: article
-article_type: article
+type: publication
 authors:
 - H.N. Ridley
 year: 1905
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: false
 source_doc: jsbras-044-ridley-gesneraceaemalaypeninsula-1905-22935534b01f
 source_path: ../sources/jsbras-044-ridley-gesneraceaemalaypeninsula-1905-22935534b01f.md
+publication_type: journal_article
 ---
+
 # The Gesneraceae of the Malay Peninsula
 
 H.N. Ridley published this comprehensive floristic treatment of the Gesneraceae (Cyrtandreae) of the Malay Peninsula in 1905, documenting 121 species across 18 genera and establishing the Peninsula as a major centre of endemism for the family. The work represents a dramatic expansion over the 22 species recorded in the *Flora of British India* (1884) and the 72 listed in Ridley's own 1895 Linnean Society paper, drawing heavily on his own collections from Perak, Pahang, and Selangor, as well as material from Curtis, Scortechini, Kunstler, and Wray (p. 1).

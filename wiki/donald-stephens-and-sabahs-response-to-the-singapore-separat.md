@@ -3,8 +3,7 @@ id: donald-stephens-and-sabahs-response-to-the-singapore-separat
 work_id: jmbras-98-1-p71
 title: Donald Stephens and Sabah’s Response to the Singapore Separation
 canonical_name: Donald Stephens and Sabah’s Response to the Singapore Separation
-type: article
-article_type: article
+type: publication
 authors:
 - Danny Wong Tze Ken
 year: 2025
@@ -27,7 +26,9 @@ keywords:
 source_doc: wong-donald-stephens-803aec0a272b
 source_path: ../sources/wong-donald-stephens-803aec0a272b/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Donald Stephens and Sabah’s Response to the Singapore Separation
 
 ## Abstract

@@ -3,8 +3,7 @@ id: the-incantation-and-sacrifice-of-the-pawang-mayang
 work_id: jmbras-3-3-p106
 title: The incantation and sacrifice of the Pawang Ma’yang
 canonical_name: The incantation and sacrifice of the Pawang Ma’yang
-type: article
-article_type: article
+type: publication
 authors:
 - W.B. Clarke
 year: 1925
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-095-clarke-incantationsacrificepawang-1925-4c2b1cb5a794
 source_path: ../sources/jmalayanras-095-clarke-incantationsacrificepawang-1925-4c2b1cb5a794.md
 summarized: true
+publication_type: note
 ---
+
 # The incantation and sacrifice of the Pawang Ma’yang
 
 This short note by W. B. Clarke documents the ritual incantation and sacrifice performed by a Pawang Ma'yang at the opening of a traditional performance (p. 106).

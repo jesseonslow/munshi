@@ -3,8 +3,7 @@ id: legend-of-changkat-rambia-nq-1
 work_id: jsbras-14-legend-of-changkat-rambia-nq-1
 title: Legend of Changkat Rambia. NQ 1
 canonical_name: Legend of Changkat Rambia. NQ 1
-type: article
-article_type: notes_and_queries
+type: publication
 authors:
 - W.E. Maxwell
 year: 1884
@@ -18,6 +17,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: note
 ---
 
 # Legend of Changkat Rambia. NQ 1

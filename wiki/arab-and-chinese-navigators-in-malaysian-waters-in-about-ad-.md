@@ -3,8 +3,7 @@ id: arab-and-chinese-navigators-in-malaysian-waters-in-about-ad-
 work_id: jmbras-47-2-p1
 title: Arab and Chinese navigators in Malaysian waters in about A.D. 1500
 canonical_name: Arab and Chinese navigators in Malaysian waters in about A.D. 1500
-type: article
-article_type: article
+type: publication
 authors:
 - J.V. Mills
 year: 1974
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-047-hikaiatshamsu1bahrain-1906-57e22e4a56ca
 source_path: ../sources/jsbras-047-hikaiatshamsu1bahrain-1906-57e22e4a56ca.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Arab and Chinese navigators in Malaysian waters in about A.D. 1500
 
 J.V. Mills's 1974 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* examines the maritime activities of Arab and Chinese navigators in the waters surrounding the Malay Peninsula and the Straits of Malacca around the year 1500. Drawing on a wide range of primary sources—including Chinese official histories, Arab travel accounts, Portuguese chronicles, and Malay literary texts—Mills reconstructs the commercial and cultural networks that connected the Indian Ocean world to Southeast Asia during the late fifteenth and early sixteenth centuries, arguing that the period represented a transitional phase in which established Arab trading dominance was being challenged by the arrival of Chinese treasure fleets and, shortly thereafter, the Portuguese.

@@ -5,8 +5,7 @@ title: 'The power behind the throne: the role of queens and court ladies in Mala
   history'
 canonical_name: 'The power behind the throne: the role of queens and court ladies
   in Malay history'
-type: article
-article_type: article
+type: publication
 authors:
 - Cheah Boon Kheng
 year: 1993
@@ -24,7 +23,9 @@ summarized: true
 source_mismatch: true
 source_doc: jmbras-264-kheng-powerbehindthrone-1993-d0fe4f1e6ae1
 source_path: ../sources/jmbras-264-kheng-powerbehindthrone-1993-d0fe4f1e6ae1.md
+publication_type: journal_article
 ---
+
 # The power behind the throne: the role of queens and court ladies in Malay history
 
 Cheah Boon Kheng's 1993 article in the *Journal of the Malayan Branch of the Royal Asiatic Society* surveys the political agency of queens, queen mothers, and court ladies across Malay sultanates from the fifteenth to the nineteenth centuries, arguing that these women were active power brokers whose influence was systematically underrepresented in official Malaysian historiography. Drawing on Malay court chronicles, European travel accounts, and colonial reports, Kheng demonstrates that female rulers and their female kin shaped succession, trade policy, and interstate diplomacy in Melaka, Patani, Aceh, Johor, and beyond (pp. 1–6).

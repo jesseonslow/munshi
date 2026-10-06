@@ -3,8 +3,7 @@ id: notes-on-early-mosques-of-the-malaysian-peninsula
 work_id: jmbras-69-2-p71
 title: Notes on early mosques of the Malaysian Peninsula
 canonical_name: Notes on early mosques of the Malaysian Peninsula
-type: article
-article_type: article
+type: publication
 authors:
 - A. Bruce
 year: 1996
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-271-bruce-notesearlymosques-1996-63110e6ce167
 source_path: ../sources/jmbras-271-bruce-notesearlymosques-1996-63110e6ce167.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Notes on early mosques of the Malaysian Peninsula
 
 Allan Bruce, writing from the University of Southern Queensland in 1996, offers a synthetic architectural-typological survey of early mosques across the Malaysian Peninsula, arguing that mosque building in the region dates to the seventh century, that a Hindu-derived congregational type evolved in Java and was carried to fifteenth-century Melaka, and that the earliest surviving mosques are eighteenth-century Melakan structures whose builders were almost certainly Chinese.

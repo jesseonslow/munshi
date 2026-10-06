@@ -3,8 +3,7 @@ id: notes-on-some-malayan-place-names
 work_id: jmbras-10-1-p16
 title: Notes on some Malayan place-names
 canonical_name: Notes on some Malayan place-names
-type: article
-article_type: article
+type: publication
 authors:
 - J.V. Mills
 year: 1932
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-113-mills-notesmalayanplacenames-1932-a92eb3ccb24c
 source_path: ../sources/jmalayanras-113-mills-notesmalayanplacenames-1932-a92eb3ccb24c.md
 summarized: true
+publication_type: note
 ---
+
 # Notes on some Malayan place-names
 
 J.V. Mills, a Malayan Civil Service officer, published this compact etymological study in 1932, offering identifications and linguistic analyses for seven Malayan place-names drawn from Chinese, Portuguese, Malay, and English sources. The article's overarching thesis is that many seemingly obscure or contradictory toponyms in the Strait of Malacca region can be resolved through careful comparison of multilingual navigational texts and local oral tradition.

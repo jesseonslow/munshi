@@ -3,8 +3,7 @@ id: baba-malay-an-introduction-to-the-language-of-the-straits-bo
 work_id: jsbras-65-1-p40
 title: 'Baba Malay: an introduction to the language of the Straits-born Chinese'
 canonical_name: 'Baba Malay: an introduction to the language of the Straits-born Chinese'
-type: article
-article_type: article
+type: publication
 authors:
 - W.G. Shellabear
 year: 1913
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-065-shellabear-babamalayintroduction-1913-b1eb6d6110d3
 source_path: ../sources/jsbras-065-shellabear-babamalayintroduction-1913-b1eb6d6110d3.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Baba Malay: an introduction to the language of the Straits-born Chinese
 
 W. G. Shellabear, a missionary and linguist working in the Straits Settlements, published this study in 1913 to document and analyse Baba Malay—the colloquial variety of Malay spoken by the Straits-born Chinese (Babas)—as a distinct dialect worthy of systematic description. Writing at a moment when the British colonial administration was expanding vernacular education, Shellabear argues that Baba Malay is not a degenerate corruption of Malay but a living, self-sustaining language with its own grammar, vocabulary, and literary potential, and that it merits recognition as the mother tongue of the most influential section of the Chinese community in the British possessions.

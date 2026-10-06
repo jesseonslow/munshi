@@ -3,8 +3,7 @@ id: divorce-and-inheritance-corrigenda
 work_id: jmbras-22-1-p194
 title: 'Divorce and inheritance: Corrigenda'
 canonical_name: 'Divorce and inheritance: Corrigenda'
-type: article
-article_type: article
+type: publication
 authors:
 - E.N. Taylor
 year: 1949
@@ -18,6 +17,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: note
 ---
 
 # Divorce and inheritance: Corrigenda

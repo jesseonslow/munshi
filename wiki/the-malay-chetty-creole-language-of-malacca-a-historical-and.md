@@ -4,8 +4,7 @@ work_id: jmbras-82-1-p55
 title: 'The Malay Chetty creole language of Malacca: a historical and linguistic perspective'
 canonical_name: 'The Malay Chetty creole language of Malacca: a historical and linguistic
   perspective'
-type: article
-article_type: article
+type: publication
 authors:
 - Noriah Mohamed
 year: 2009
@@ -22,7 +21,9 @@ published: false
 source_doc: jmbras-296-mohamed-malaychettycreole-2009-a3f5157feeb0
 source_path: ../sources/jmbras-296-mohamed-malaychettycreole-2009-a3f5157feeb0/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The Malay Chetty creole language of Malacca: a historical and linguistic perspective
 
 Noriah Mohamed's 2009 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* examines the Malay Chetty Creole Language (MCCL) spoken by the Hindu Peranakan community of Malacca, tracing its origins to the intermarriage of South Indian Hindu merchants with local women during the Malacca Sultanate period. The article argues that MCCL is a creole that developed from bazaar Malay—the lingua franca of the Malay Archipelago's trading ports—and that its phonological and morphological features place it within a broader family of Malay-based creoles spanning from Sri Lanka to the Maluku Islands.

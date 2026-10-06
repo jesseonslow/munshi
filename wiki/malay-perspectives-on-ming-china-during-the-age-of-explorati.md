@@ -3,8 +3,7 @@ id: malay-perspectives-on-ming-china-during-the-age-of-explorati
 work_id: jmbras-95-2-p1
 title: Malay Perspectives on Ming China during the Age of Exploration
 canonical_name: Malay Perspectives on Ming China during the Age of Exploration
-type: article
-article_type: article
+type: publication
 authors:
 - A.H. Akhtar
 year: 2022
@@ -36,7 +35,9 @@ keywords:
 - Hikayat Raja Raja Pasai
 - Hikayat Hang Tuah
 - Sejarah Melayu
+publication_type: journal_article
 ---
+
 # Malay Perspectives on Ming China during the Age of Exploration
 
 ## Abstract

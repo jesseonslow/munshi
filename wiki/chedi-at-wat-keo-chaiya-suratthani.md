@@ -3,8 +3,7 @@ id: chedi-at-wat-keo-chaiya-suratthani
 work_id: jmbras-53-2-p1
 title: Chedi at Wat Keo, Chaiya, Suratthani
 canonical_name: Chedi at Wat Keo, Chaiya, Suratthani
-type: article
-article_type: article
+type: publication
 authors:
 - M.C. Subhadradis Diskul
 year: 1980
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: false
 source_doc: jmbras-238-diskul-chediwatkeo-1980-987585189540
 source_path: ../sources/bibliography.md
+publication_type: journal_article
 ---
+
 # Chedi at Wat Keo, Chaiya, Suratthani
 
 M.C. Subhadradis Diskul's 1980 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* (Vol. 53, No. 2) reports on the Thai Fine Arts Department's 1976 and 1979 excavation and restoration of a brick chedi at Wat Keo, Chaiya, Suratthani, arguing that the monument represents a rare syncretic fusion of Cham, Indonesian, and Dvaravati architectural traditions dating no earlier than the mid-ninth century A.D.

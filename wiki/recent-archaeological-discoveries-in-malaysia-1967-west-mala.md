@@ -3,8 +3,7 @@ id: recent-archaeological-discoveries-in-malaysia-1967-west-mala
 work_id: jmbras-41-1-p171
 title: 'Recent archaeological discoveries in Malaysia. 1967: West Malaysia'
 canonical_name: 'Recent archaeological discoveries in Malaysia. 1967: West Malaysia'
-type: article
-article_type: article
+type: publication
 authors:
 - F.L. Dunn
 - B.A.V. Peacock
@@ -19,6 +18,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: journal_article
 ---
 
 # Recent archaeological discoveries in Malaysia. 1967: West Malaysia

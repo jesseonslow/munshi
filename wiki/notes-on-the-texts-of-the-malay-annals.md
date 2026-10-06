@@ -3,8 +3,7 @@ id: notes-on-the-texts-of-the-malay-annals
 work_id: jmbras-20-2-p107
 title: Notes on the texts of the Malay Annals
 canonical_name: Notes on the texts of the Malay Annals
-type: article
-article_type: article
+type: publication
 authors:
 - W. Linehan
 year: 1947
@@ -27,7 +26,9 @@ published: false
 source_doc: jmalayanras-143-linehan-notestextsmalay-1947-59f5a04c6f7f
 source_path: ../sources/jmalayanras-143-linehan-notestextsmalay-1947-59f5a04c6f7f.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Notes on the texts of the Malay Annals
 
 W. Linehan's 1947 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* undertakes a close textual comparison of two major manuscript traditions of the *Sulalatu's-Salatin* (Malay Annals)—the Raffles No. 18 manuscript and the Shellabear text—to argue that the Raffles No. 18 Preface is the earliest and least corrupt of all known Prefaces, and that the place called *Goa* in the Shellabear Preface refers not to the Portuguese settlement in India but to a locality in Pahang, most likely the gold-bearing caves near Kuala Lipis or Kota Gelanggi.

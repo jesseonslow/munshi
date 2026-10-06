@@ -3,8 +3,7 @@ id: malay-transliteration
 work_id: jsbras-10-1-p282
 title: Malay transliteration
 canonical_name: Malay transliteration
-type: article
-article_type: article
+type: publication
 authors:
 - W.E. Maxwell
 year: 1882
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-010-m-malaytransliteration-1882-387686c25d9b
 source_path: ../sources/jsbras-010-m-malaytransliteration-1882-387686c25d9b.md
 summarized: true
+publication_type: note
 ---
+
 # Malay transliteration
 
 This is a brief memorandum by W. E. Maxwell, a member of the Government Spelling Committee (1878), defending the 1873 Committee's Malay transliteration system against a critic's alternative proposal published in the preceding issue of the Journal (p. 282).

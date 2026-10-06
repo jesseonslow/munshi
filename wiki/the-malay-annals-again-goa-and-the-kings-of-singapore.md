@@ -3,8 +3,7 @@ id: the-malay-annals-again-goa-and-the-kings-of-singapore
 work_id: jmbras-22-1-p178
 title: The Malay Annals again, Goa and the kings of Singapore
 canonical_name: The Malay Annals again, Goa and the kings of Singapore
-type: article
-article_type: article
+type: publication
 authors:
 - R.O. Winstedt
 year: 1949
@@ -27,7 +26,9 @@ published: false
 source_doc: jmalayanras-151-erratamalayannals-1950-a45e11b69682
 source_path: ../sources/jmalayanras-151-erratamalayannals-1950-a45e11b69682.md
 summarized: true
+publication_type: null
 ---
+
 # The Malay Annals again, Goa and the kings of Singapore
 
 This is an errata page from JMBRAS Vol. 22 (1949), published in the February 1950 issue, correcting two articles from that volume.

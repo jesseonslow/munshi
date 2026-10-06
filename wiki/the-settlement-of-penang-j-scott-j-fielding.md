@@ -3,8 +3,7 @@ id: the-settlement-of-penang-j-scott-j-fielding
 work_id: jmbras-28-1-p37
 title: The settlement of Penang. J. Scott. .J. Fielding
 canonical_name: The settlement of Penang. J. Scott. .J. Fielding
-type: article
-article_type: article
+type: publication
 authors:
 - K.J. Fielding
 - J. Scott
@@ -22,7 +21,9 @@ published: false
 source_doc: jmalayanras-169-fielding-settlementpenangjames-1955-9b429289e896
 source_path: ../sources/jmalayanras-169-fielding-settlementpenangjames-1955-9b429289e896.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The settlement of Penang. J. Scott. .J. Fielding
 
 K. J. Fielding's 1955 edition of a despatch written by James Scott to Henry Dundas in 1794 illuminates the commercial and strategic vision that underpinned the early settlement of Penang in the immediate aftermath of Francis Light's death. The text, drawn from the British Museum's Egerton manuscripts, reveals Scott not merely as Light's partner but as the settlement's most ambitious advocate for free-trade principles and territorial expansion, composed at a moment when the East India Company was seriously considering abandoning Penang in favour of the Andamans.

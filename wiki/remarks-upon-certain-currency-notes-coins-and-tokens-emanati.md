@@ -5,8 +5,7 @@ title: Remarks upon certain currency notes, coins and tokens emanating from Mala
   during and after the war
 canonical_name: Remarks upon certain currency notes, coins and tokens emanating from
   Malaya during and after the war
-type: article
-article_type: article
+type: publication
 authors:
 - J.A.S. Bucknill
 year: 1922
@@ -23,7 +22,9 @@ published: false
 source_doc: jsbras-085-bucknill-remarksuponcertain-1922-393f62d607f5
 source_path: ../sources/jsbras-085-bucknill-remarksuponcertain-1922-393f62d607f5.md
 summarized: true
+publication_type: note
 ---
+
 # Remarks upon certain currency notes, coins and tokens emanating from Malaya during and after the war
 
 This short note by J.A.S. Bucknill (1922) examines the disruption to Malayan coinage caused by the post-war silver price surge and the improvised measures taken to replace the withdrawn currency.

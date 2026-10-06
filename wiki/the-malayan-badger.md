@@ -3,8 +3,7 @@ id: the-malayan-badger
 work_id: jsbras-85-1-p212
 title: The Malayan badger
 canonical_name: The Malayan badger
-type: article
-article_type: article
+type: publication
 authors:
 - J.C. Moulton
 year: 1922
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-085-moulton-malayanbadger-1922-64c73077362d
 source_path: ../sources/jsbras-085-moulton-malayanbadger-1922-64c73077362d.md
 summarized: true
+publication_type: note
 ---
+
 # The Malayan badger
 
 This short note, published in JSBRAS Vol. 85 (1922), consists of two letters from Dr. W. Docters van Leeuwen, Director of the Botanical Gardens at Buitenzorg, describing the Malayan badger in Java, followed by a brief addendum from J. C. Moulton on a third specimen of the subspecies *Mydaus javanensis montanus*.

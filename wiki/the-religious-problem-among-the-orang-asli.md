@@ -3,8 +3,7 @@ id: the-religious-problem-among-the-orang-asli
 work_id: jmbras-43-1-p155
 title: The religious problem among the Orang Asli
 canonical_name: The religious problem among the Orang Asli
-type: article
-article_type: article
+type: publication
 authors:
 - I. Carey
 year: 1970
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-217-carey-religiousproblemamong-1970-399712f39a9e
 source_path: ../sources/jmbras-217-carey-religiousproblemamong-1970-399712f39a9e.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The religious problem among the Orang Asli
 
 Dr. Iskandar Carey, serving as Commissioner for Orang Asli Affairs, published this brief paper in the *JMBRAS* in 1970, examining the impact of world religions—Islam, Christianity, and the Bahá'í faith—on Malaysia's indigenous Orang Asli population. His central argument is that while missionary activity has produced a small number of conversions, the more serious problems arise not from conversion itself but from the social fragmentation and cultural disruption that partial conversion inflicts on small, isolated communities.

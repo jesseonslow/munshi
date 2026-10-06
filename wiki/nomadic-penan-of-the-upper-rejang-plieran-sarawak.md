@@ -3,8 +3,7 @@ id: nomadic-penan-of-the-upper-rejang-plieran-sarawak
 work_id: jmbras-31-1-p40
 title: Nomadic Penan of the Upper Rejang (Plieran), Sarawak
 canonical_name: Nomadic Penan of the Upper Rejang (Plieran), Sarawak
-type: article
-article_type: article
+type: publication
 authors:
 - G Arnold
 year: 1958
@@ -18,6 +17,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: journal_article
 ---
 
 # Nomadic Penan of the Upper Rejang (Plieran), Sarawak

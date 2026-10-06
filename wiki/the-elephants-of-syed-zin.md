@@ -3,8 +3,7 @@ id: the-elephants-of-syed-zin
 work_id: jmbras-59-1-p113
 title: The elephants of Syed Zin
 canonical_name: The elephants of Syed Zin
-type: article
-article_type: article
+type: publication
 authors:
 - J.M. Gullick
 year: 1986
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-250-gullick-elephantssyedzin-1986-8655ca37c5ee
 source_path: ../sources/jmbras-250-gullick-elephantssyedzin-1986-8655ca37c5ee.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The elephants of Syed Zin
 
 J.M. Gullick's 1986 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* recounts the 1897–1900 ordeal of Syed Mohamed Zin, a member of the illustrious Hadramaut-descended Syed family of Chigar Galah in upper Perak, whose two elephants were seized by a Raman acquaintance and held for over three years before their eventual recovery through diplomatic pressure from the British colonial administration. The article uses this singular incident as a lens into the economic, social, and ceremonial role of domesticated elephants in late nineteenth-century Perak and the broader Perak–Raman boundary dispute with Siam.

@@ -3,8 +3,7 @@ id: sungai-tata-route
 work_id: jsbras-3-1-p133
 title: “Sungai Tata” route
 canonical_name: “Sungai Tata” route
-type: article
-article_type: article
+type: publication
 authors:
 - B. Douglas
 year: 1879
@@ -18,6 +17,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: note
 ---
 
 # “Sungai Tata” route

@@ -3,8 +3,7 @@ id: tin-and-its-native-land-facsimile-reprint
 work_id: jmbras-93-2-p193
 title: Tin and its native land. Facsimile reprint
 canonical_name: Tin and its native land. Facsimile reprint. f
-type: article
-article_type: article
+type: publication
 authors:
 - X. Brau De Saint Pol Lias
 year: 2020
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-319-lias-tinnativeland-2020-b860c9bf2c81
 source_path: ../sources/jmbras-319-lias-tinnativeland-2020-b860c9bf2c81.md
 summarized: true
+publication_type: reprint
 ---
+
 # Tin and its native land. Facsimile reprint
 
 Xavier Brau de Saint Pol Lias, a French naturalist and explorer, published "Tin and Its Native Land" in *Popular Science Monthly* in June 1890 (translated from the *Revue Scientifique*), and it was reprinted as a facsimile in the *JMBRAS* in December 2020. Writing from direct observation of Chinese-operated tin mines in Perak and Pahang during the late 1880s, Lias argues that the Malay Peninsula is not merely the most ancient but also the most productive tin-producing region in the world, and that it may have been the original cradle of tin metallurgy from which knowledge diffused to Europe over millennia.

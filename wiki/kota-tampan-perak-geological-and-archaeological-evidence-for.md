@@ -5,8 +5,7 @@ title: Kota Tampan, Perak. Geological and archaeological evidence for a late Ple
   site. Zuraina Majid and H.D. Tjia
 canonical_name: Kota Tampan, Perak. Geological and archaeological evidence for a late
   Pleistocene site. Zuraina Majid and H.D. Tjia
-type: article
-article_type: article
+type: publication
 authors:
 - H.D. Tjia
 - Zuraina Majid
@@ -24,7 +23,9 @@ published: false
 source_doc: jmbras-255-majid-kotatampanperak-1988-4936771d7045
 source_path: ../sources/jmbras-255-majid-kotatampanperak-1988-4936771d7045/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Kota Tampan, Perak. Geological and archaeological evidence for a late Pleistocene site. Zuraina Majid and H.D. Tjia
 
 Zuraina Majid and H.D. Tjia (1988) present the results of their 1987 excavations at Kota Tampan, Perak, arguing that the site is an undisturbed late Upper Pleistocene stone tool workshop dated to approximately 31,000 BP, rather than the Middle Pleistocene marine terrace site proposed by Walker and Sieveking in 1962. Their work resolves a decade-long controversy over the site's validity and dating, which had threatened to reduce the known time depth of Peninsular Malaysian prehistory to no more than 8,000 years.

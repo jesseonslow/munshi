@@ -3,8 +3,7 @@ id: on-tally-sticks-and-strings-in-borneo
 work_id: jsbras-47-1-p7
 title: On tally sticks and strings in Borneo
 canonical_name: On tally sticks and strings in Borneo
-type: article
-article_type: article
+type: publication
 authors:
 - C. Hose
 year: 1907
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-049-hose-tallysticksstrings-1907-8cb786aea559
 source_path: ../sources/jsbras-049-hose-tallysticksstrings-1907-8cb786aea559.md
 summarized: true
+publication_type: note
 ---
+
 # On tally sticks and strings in Borneo
 
 This note by Dr. Hose and J. Hewitt documents the use of notched sticks and knotted strings as instruments of record and covenant among the native peoples of Sarawak and the Borneo interior (pp. 7–10).

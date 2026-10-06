@@ -5,8 +5,7 @@ title: Klouwang and its caves, west coast of Atchin; travelling notes of M.L.H. 
   civil engineer of mines. .F.A. Hervey
 canonical_name: Klouwang and its caves, west coast of Atchin; travelling notes of
   M.L.H. Wallon, civil engineer of mines. .F.A. Hervey
-type: article
-article_type: translation
+type: publication
 authors:
 - D.F.A. Hervey
 - M.L.H. Wallon
@@ -24,7 +23,9 @@ published: false
 source_doc: jsbras-008-wallon-klouwangcaveswest-1881-9ecd493b2d47
 source_path: ../sources/jsbras-008-wallon-klouwangcaveswest-1881-9ecd493b2d47.md
 summarized: true
+publication_type: translation
 ---
+
 # Klouwang and its caves, west coast of Atchin; travelling notes of M.L.H. Wallon, civil engineer of mines. .F.A. Hervey
 
 M.L.H. Wallon, a French civil engineer of mines, and D.F.A. Hervey published their travelling notes on the island of Klouwang (Kluang) and its swallow caves off the west coast of Atchin (Aceh), Sumatra, in 1881, originally appearing in the *Annales de l'Extreme Orient* in August 1879. The account records a brief but vivid visit during which the authors explored the island's geology, its extensive cave systems, and the local economy of swiftlet nest collection.

@@ -5,8 +5,7 @@ title: 'Private enterprise and British policy in the Malay Peninsula: the case o
   the Malay Railway and Works Construction Company 1893–1895'
 canonical_name: 'Private enterprise and British policy in the Malay Peninsula: the
   case of the Malay Railway and Works Construction Company 1893–1895'
-type: article
-article_type: article
+type: publication
 authors:
 - C. (Chandran Jeshurun) Jeshurun
 year: 1964
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-206-chandran-privateenterprisebritish-1964-78bb1d2be6a3
 source_path: ../sources/jmbras-206-chandran-privateenterprisebritish-1964-78bb1d2be6a3/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Private enterprise and British policy in the Malay Peninsula: the case of the Malay Railway and Works Construction Company 1893–1895
 
 J. Chandran's 1964 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* examines the Malay Railway and Works Construction Company (1893–1895) as a case study in the interaction between private commercial enterprise and British imperial policy in the Malay Peninsula. Set against the backdrop of the 1893 Siamese crisis and Anglo-French rivalry over the Kra isthmus, the article argues that the Company exemplifies how thinly-capitalized private ventures exploited strategic anxieties at Whitehall to extract official support, while simultaneously demonstrating the government's capacity to scrutinize and reject such proposals.

@@ -5,8 +5,7 @@ title: 'The visit of the ‘King of Brunei’ to the supreme emperor Yung Lo of 
   contemporary and ancient accounts'
 canonical_name: 'The visit of the ‘King of Brunei’ to the supreme emperor Yung Lo
   of China: contemporary and ancient accounts'
-type: article
-article_type: article
+type: publication
 authors:
 - Su Cheng Yee
 year: 1984
@@ -24,7 +23,9 @@ summarized: true
 source_mismatch: true
 source_doc: jmbras-246-yee-visitkingbrunei-1984-1485dcfc5723
 source_path: ../sources/jmbras-246-yee-visitkingbrunei-1984-1485dcfc5723.md
+publication_type: journal_article
 ---
+
 # The visit of the ‘King of Brunei’ to the supreme emperor Yung Lo of China: contemporary and ancient accounts
 
 Su Cheng Yee and Carrie C. Brown (1984) present a two-part study of the 1408 visit of King Maharaja Gana of Brunei to the Ming court at Nanking, combining a contemporary Chinese account translated from the *People's Daily* with Brown's scholarly analysis of two previously untranslated Ming-era inscriptions. The article situates this diplomatic event within the broader framework of Ming tributary relations and raises the unresolved question of the King's religious identity.

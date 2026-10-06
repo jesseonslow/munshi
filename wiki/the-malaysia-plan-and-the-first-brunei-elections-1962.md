@@ -3,8 +3,7 @@ id: the-malaysia-plan-and-the-first-brunei-elections-1962
 work_id: jmbras-71-1-p52
 title: The Malaysia plan and the first Brunei elections, 1962
 canonical_name: The Malaysia plan and the first Brunei elections, 1962
-type: article
-article_type: article
+type: publication
 authors:
 - Mohamed Yusop
 year: 1998
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-274-yusop-malaysiaplanfirst-1998-94aecc6547fb
 source_path: ../sources/jmbras-274-yusop-malaysiaplanfirst-1998-94aecc6547fb.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The Malaysia plan and the first Brunei elections, 1962
 
 Mohamad Yusop's 1998 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* examines how Tunku Abdul Rahman's Malaysia Plan, announced in May 1961, became inextricably entangled with Brunei's first general elections of August 1962, and how the Partai Rakyat Brunei's decisive electoral victory demonstrated popular rejection of the federation, ultimately contributing to Brunei's exclusion from Malaysia in 1963.

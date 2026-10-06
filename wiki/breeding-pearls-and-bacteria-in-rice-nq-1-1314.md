@@ -3,8 +3,7 @@ id: breeding-pearls-and-bacteria-in-rice-nq-1-1314
 work_id: jsbras-14-breeding-pearls-and-bacteria-i
 title: 'Breeding pearls and bacteria in rice. NQ 1: 13–14'
 canonical_name: 'Breeding pearls and bacteria in rice. NQ 1: 13–14'
-type: article
-article_type: notes_and_queries
+type: publication
 authors:
 - N.B. Dennys
 year: 1884
@@ -18,6 +17,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: note
 ---
 
 # Breeding pearls and bacteria in rice. NQ 1: 13–14

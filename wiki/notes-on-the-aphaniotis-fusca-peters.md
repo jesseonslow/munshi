@@ -3,8 +3,7 @@ id: notes-on-the-aphaniotis-fusca-peters
 work_id: jmbras-7-2-p327
 title: Notes on the Aphaniotis fusca (Peters
 canonical_name: Notes on the _Aphaniotis fusca_ (Peters)
-type: article
-article_type: article
+type: publication
 authors:
 - G.H. Sworder
 year: 1929
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-107-sworder-notesaphaniotisfusca-1929-db0cd1c394a3
 source_path: ../sources/jmalayanras-107-sworder-notesaphaniotisfusca-1929-db0cd1c394a3.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Notes on the Aphaniotis fusca (Peters
 
 G. Hope Sworder's 1929 monograph on *Aphaniotis fusca* (Peters) presents a detailed morphological and behavioural account of this small arboreal lizard based on 17 specimens from the Malay Peninsula and the Natuna Islands. The paper corrects a significant error in Boulenger's 1912 generic description by documenting the presence of a gular sac, and it establishes head-scale variation across localities as the most promising character for future subspecific differentiation.

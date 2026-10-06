@@ -5,8 +5,7 @@ title: Tullbergia (Stenaphorura) gibsoni n. sp. (Collembola, Onychiuridae) from 
   land soils in Singapore
 canonical_name: _Tullbergia (Stenaphorura) gibsoni_ n. sp. (Collembola, Onychiuridae)
   from grass land soils in Singapore
-type: article
-article_type: article
+type: publication
 authors:
 - D.H. Murphy
 year: 1965
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-208-murphy-tullbergiastenaphoruragibsoni-1965-564d20b00e4b
 source_path: ../sources/jmbras-208-murphy-tullbergiastenaphoruragibsoni-1965-564d20b00e4b.md
 summarized: true
+publication_type: note
 ---
+
 # Tullbergia (Stenaphorura) gibsoni n. sp. (Collembola, Onychiuridae) from grass land soils in Singapore
 
 This short note by D. H. Murphy describes *Tullbergia (Stenaphorura) gibsoni* n. sp., a new species of onychiurid springtail from grassland soils in Singapore, dedicated to the memory of Dr. Gibson-Hill.

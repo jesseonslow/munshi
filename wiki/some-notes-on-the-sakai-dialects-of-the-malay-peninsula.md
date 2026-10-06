@@ -3,8 +3,7 @@ id: some-notes-on-the-sakai-dialects-of-the-malay-peninsula
 work_id: jsbras-24-1-p13
 title: Some notes on the Sakai dialects of the Malay Peninsula
 canonical_name: Some notes on the Sakai dialects of the Malay Peninsula
-type: article
-article_type: article
+type: publication
 authors:
 - Sir Hugh Charles Clifford
 year: 1891
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-024-clifford-notessakaidialects-1891-6522c15edba2
 source_path: ../sources/jsbras-024-clifford-notessakaidialects-1891-6522c15edba2.md
 summarized: true
+publication_type: note
 ---
+
 # Some notes on the Sakai dialects of the Malay Peninsula
 
 Hugh Clifford's 1891 article in the *Journal of the Straits Branch of the Royal Asiatic Society* presents the earliest systematic comparative study of Sakai dialects in the Malay Peninsula, arguing that the Sen-oi and Tem-be' languages are varieties of a single common tongue, that the Sakai are the more ancient inhabitants of the Peninsula, and that Malay did not derive its elementary roots from Sakai.

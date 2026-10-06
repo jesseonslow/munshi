@@ -3,8 +3,7 @@ id: astronomical-determination-of-islamic-times
 work_id: jmbras-51-1-p46
 title: Astronomical determination of Islamic times
 canonical_name: Astronomical determination of Islamic times
-type: article
-article_type: article
+type: publication
 authors:
 - Mohamed Ilyas
 year: 1978
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-233-ilyas-astronomicaldeterminationislamic-1978-06c3e9c26631
 source_path: ../sources/jmbras-233-ilyas-astronomicaldeterminationislamic-1978-06c3e9c26631.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Astronomical determination of Islamic times
 
 Mohamed Ilyas published "Astronomical Determination of Islamic Times" in the *Journal of the Malaysian Branch of the Royal Asiatic Society* in 1978, presenting a rigorous mathematical framework for computing the five daily Islamic prayer times and the breaking of the fast using standard astronomical parameters. The article's central thesis is that all Islamic time markers can be reduced to specific solar zenith angles, making them amenable to precise calculation from published ephemeris data and, ultimately, to computer automation.

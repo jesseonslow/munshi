@@ -5,8 +5,7 @@ title: 'Some remarks on the dialects of north Kerintji: a link with the Mon-Khme
   languages'
 canonical_name: 'Some remarks on the dialects of north Kerintji: a link with the Mon-Khmer
   languages'
-type: article
-article_type: article
+type: publication
 authors:
 - E.O. Van Reijn
 year: 1974
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-226-reijn-remarksdialectsnorth-1974-aabd95ab8562
 source_path: ../sources/jmbras-226-reijn-remarksdialectsnorth-1974-aabd95ab8562.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Some remarks on the dialects of north Kerintji: a link with the Mon-Khmer languages
 
 E.O. Van Reijn's 1974 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* presents a comparative phonological analysis of North Kerintji dialects, arguing that their characteristic sound-shifts are not independent developments but reflect a Mon-Khmer substratum in the highlands of West Sumatra. Drawing on field data from fourteen Kerintji dialect localities and extensive cross-referencing with Mon-Khmer, Munda, and other Austronesian languages, Van Reijn demonstrates that the parallelisms are too systematic to be attributed to chance.

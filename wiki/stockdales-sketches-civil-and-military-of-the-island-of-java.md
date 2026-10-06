@@ -5,8 +5,7 @@ title: 'Stockdale’s sketches, civil and military, of the island of Java: a bib
   note'
 canonical_name: 'Stockdale’s sketches, civil and military, of the island of Java:
   a bibliographical note'
-type: article
-article_type: bibliography
+type: publication
 authors:
 - J.S. Bastin
 year: 1985
@@ -22,8 +21,8 @@ status: stub
 published: false
 source_doc: jmbras-248-bastin-stockdalessketchescivil-1985-798a4028aaad
 source_path: ../sources/jmbras-248-bastin-stockdalessketchescivil-1985-798a4028aaad.md
+publication_type: note
 ---
-
 
 # Stockdale’s sketches, civil and military, of the island of Java: a bibliographical note
 

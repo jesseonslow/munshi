@@ -3,8 +3,7 @@ id: mahmud-ii-and-abdul-jalil-iii-16851720-ad
 work_id: jmbras-9-1-p28
 title: Mahmud II and Abdul Jalil III, 1685–1720 A.D
 canonical_name: Mahmud II and Abdul Jalil III, 1685–1720 A.D
-type: article
-article_type: article
+type: publication
 authors:
 - R.J. Wilkinson
 year: 1931
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-111-wilkinson-mahmudiiabdul-1931-ea09da9cad82
 source_path: ../sources/jmalayanras-111-wilkinson-mahmudiiabdul-1931-ea09da9cad82.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Mahmud II and Abdul Jalil III, 1685–1720 A.D
 
 R.J. Wilkinson, a colonial administrator and author of the multi-volume *History of the Malay States*, published this article in 1931 to examine the reigns of Sultan Mahmud II and Sultan Abdul Jalil III of Johor (1685–1720), arguing that although these two reigns constitute "a dark page of Malay History," they are of special interest because they mark the origin of five Malay dynasties: Lingga, Singapore, Trengganu, Pahang, and Johore (p. 28).

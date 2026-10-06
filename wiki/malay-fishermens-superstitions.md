@@ -3,8 +3,7 @@ id: malay-fishermens-superstitions
 work_id: jmbras-19-1-p131
 title: Malay fishermen’s superstitions
 canonical_name: Malay fishermen’s superstitions
-type: article
-article_type: article
+type: publication
 authors:
 - Ishak bin Ahmad
 year: 1941
@@ -18,6 +17,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: journal_article
 ---
 
 # Malay fishermen’s superstitions

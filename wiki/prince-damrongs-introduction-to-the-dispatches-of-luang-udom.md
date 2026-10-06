@@ -3,8 +3,7 @@ id: prince-damrongs-introduction-to-the-dispatches-of-luang-udom
 work_id: jmbras-54-2-p75
 title: Prince Damrong’s introduction to the “Dispatches of Luang Udom Sombat”
 canonical_name: Prince Damrong’s introduction to the “Dispatches of Luang Udom Sombat”
-type: article
-article_type: article
+type: publication
 authors:
 - C. Skinner
 year: 1981
@@ -20,6 +19,7 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+publication_type: translation
 ---
 
 # Prince Damrong’s introduction to the “Dispatches of Luang Udom Sombat”

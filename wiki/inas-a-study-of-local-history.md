@@ -3,8 +3,7 @@ id: inas-a-study-of-local-history
 work_id: jmbras-33-1-p65
 title: 'Inas: a study of local history'
 canonical_name: 'Inas: a study of local history'
-type: article
-article_type: article
+type: publication
 authors:
 - D. Lewis
 year: 1960
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-189-lewis-inasstudylocal-1960-bae300989200
 source_path: ../sources/jmalayanras-189-lewis-inasstudylocal-1960-bae300989200.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Inas: a study of local history
 
 Diane Lewis's 1960 study reconstructs the political history of Inas, a small district in Negri Sembilan, from oral tradition to demonstrate that it was the ancient state of Jelai—one of the original nine *luak* of the Negri Sembilan confederacy—and that its present-day political marginalization resulted primarily from the Penghulu Omar's refusal to cooperate with the British at the close of the nineteenth century. Drawing on fieldwork conducted between May 1957 and May 1958, Lewis challenges the prevailing scholarly consensus that had located Jelai in Pahang and assumed the aborigines had been driven to the hills by Minangkabau colonists.

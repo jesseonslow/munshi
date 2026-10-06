@@ -5,8 +5,7 @@ title: 'From saints to superheroes: The Wali Songo myth in contemporary Indonesi
   popular genres'
 canonical_name: 'From saints to superheroes: The Wali Songo myth in contemporary Indonesia’s
   popular genres'
-type: article
-article_type: article
+type: publication
 authors:
 - Ermita Soenarto
 year: 2005
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-289-soenarto-saintssuperheroeswali-2005-d192c8946cca
 source_path: ../sources/jmbras-289-soenarto-saintssuperheroeswali-2005-d192c8946cca/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # From saints to superheroes: The Wali Songo myth in contemporary Indonesia’s popular genres
 
 Ermita Soenarto, a Singaporean undergraduate at the National University of Singapore, published this Mubin Sheppard Memorial Prize–winning essay in *JMBRAS* Vol. 78 (2005). Set against the backdrop of Indonesia's contemporary *dakwah* (Islamic reformist) movement, the article argues that the Wali Songo—the Nine Saints credited with Islamizing Java in the fifteenth and sixteenth centuries—have been textually transformed from mystical Sufi figures in traditional *babad* literature into *sharia*-centred "dakwah warriors" in modern comics, films, and cartoon storybooks, a shift that reveals changing Javanese popular perceptions of the relationship between *adat* (custom) and *sharia* (Islamic law).

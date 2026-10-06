@@ -4,8 +4,7 @@ work_id: jmbras-45-1-p111
 title: Radio carbon (C–14) dates from Kota Batu, Brunei – back to 12,500 B.C
 canonical_name: Radio carbon (C–14) dates from Kota Batu, Brunei – back to 12,500
   B.C
-type: article
-article_type: article
+type: publication
 authors:
 - Tom Harrisson
 year: 1972
@@ -22,7 +21,9 @@ published: false
 source_doc: jmbras-221-harrisson-radiocarbonc14dates-1972-a2ddc6b1bd43
 source_path: ../sources/jmbras-221-harrisson-radiocarbonc14dates-1972-a2ddc6b1bd43.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Radio carbon (C–14) dates from Kota Batu, Brunei – back to 12,500 B.C
 
 Tom Harrisson's 1972 article reports the third series of radio-carbon (C-14) analyses from Kota Batu, the ancient capital of Brunei, extending the site's documented occupation back to approximately 12,500 B.C. The central argument is that this date, combined with earlier results, confirms the presence of Stone-Age human activity on the Brunei coastal plain—a long-standing gap in Bornean prehistory that Harrisson had previously termed "the Missing Brunei Stone-Age."

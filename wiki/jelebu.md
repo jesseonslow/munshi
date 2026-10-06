@@ -3,8 +3,7 @@ id: jelebu
 work_id: jsbras-14-1-p337
 title: Jelebu
 canonical_name: Jelebu
-type: article
-article_type: article
+type: publication
 authors:
 - H.A. O'Brien
 year: 1884
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-014-obrien-jelebu-1884-80e9640a194d
 source_path: ../sources/jsbras-014-obrien-jelebu-1884-80e9640a194d.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Jelebu
 
 H.A. O'Brien, a British colonial administrator, published this account in 1884 documenting the constitutional history and political structure of Jelebu, a small Malay state in the Perak–Negeri Sembilan region, tracing its origins from Johor suzerainty to its distinctive dual governance of a Menangkabau Yam Tuan and a hereditary Penghulu. The article serves as both a historical narrative and a contemporary administrative survey of a state in a state of severe depopulation and economic decline.

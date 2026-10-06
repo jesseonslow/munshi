@@ -3,8 +3,7 @@ id: notes-on-beads-from-johor-lama-and-kota-tinggi
 work_id: jmbras-37-1-p88
 title: Notes on beads from Johor Lama and Kota Tinggi
 canonical_name: Notes on beads from Johor Lama and Kota Tinggi
-type: article
-article_type: article
+type: publication
 authors:
 - A. Lamb
 year: 1964
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-205-lamb-notesbeadsjohor-1964-1f47e971efdd
 source_path: ../sources/jmbras-205-lamb-notesbeadsjohor-1964-1f47e971efdd.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Notes on beads from Johor Lama and Kota Tinggi
 
 Alastair Lamb's 1964 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* examines glass and stone beads recovered from the Johor Lama and Kota Tinggi sites in Johor, Malaysia, and argues that while some beads are genuinely of Roman or earlier Mediterranean manufacture, there is no evidence they reached the Malay Peninsula in Roman times; rather, the assemblage most likely dates to the 15th century and later, reflecting the expanding complexity of maritime trade in the Indian Ocean and China Seas.

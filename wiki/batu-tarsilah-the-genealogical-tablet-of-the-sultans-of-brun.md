@@ -5,8 +5,7 @@ title: 'Batu Tarsilah: the genealogical tablet of the Sultans of Brunei. Pengira
   M. Shariffuddin and Abdul Latif bin Haji Ibrahim'
 canonical_name: 'Batu Tarsilah: the genealogical tablet of the Sultans of Brunei.
   Pengiran M. Shariffuddin and Abdul Latif bin Haji Ibrahim'
-type: article
-article_type: article
+type: publication
 authors:
 - Abdul Latif bin Haji Ibrahim
 - P.M. Shariffuddin
@@ -24,7 +23,9 @@ published: false
 source_doc: jmbras-225-shariffuddin-batutarselahgenealogical-1974-8750bef4161c
 source_path: ../sources/jmbras-225-shariffuddin-batutarselahgenealogical-1974-8750bef4161c.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Batu Tarsilah: the genealogical tablet of the Sultans of Brunei. Pengiran M. Shariffuddin and Abdul Latif bin Haji Ibrahim
 
 Pengiran M. Shariffuddin and Abdul Latif bin Haji Ibrahim published this revision of the Batu Tarsilah in 1974, addressing a century-old dating error in the transcription of the genealogical tablet of the Sultans of Brunei. Their central thesis is that Hugh Low's 1880 conversion of the tablet's Hijri date to a Gregorian year was a guess that propagated through subsequent authorities, and that careful calendrical computation corrects both the tablet's date and the death date of Sultan Mohammad Jamalul Alam recorded on his tombstone.

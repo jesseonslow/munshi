@@ -3,8 +3,7 @@ id: notes-on-a-cruise-in-the-southern-china-sea
 work_id: jsbras-41-1-p53
 title: Notes on a cruise in the Southern China Sea
 canonical_name: Notes on a cruise in the Southern China Sea
-type: article
-article_type: article
+type: publication
 authors:
 - C.B. Kloss
 year: 1904
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-041-kloss-notescruisesouthern-1904-1c4dbc4e10e6
 source_path: ../sources/jsbras-041-kloss-notescruisesouthern-1904-1c4dbc4e10e6.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Notes on a cruise in the Southern China Sea
 
 C. Boden Kloss published this account in 1904, describing an eleven-week zoological cruise aboard the schooner *Terrapin* through the islands of the Southern China Sea in the summer of 1900. The work serves as both a field narrative and a taxonomic contribution, documenting the mammal and bird faunas of islands that had received little or no prior scientific attention.

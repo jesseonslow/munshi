@@ -3,8 +3,7 @@ id: sandakan-gun-running-village-to-timber-centre-18701979
 work_id: jmbras-53-1-p120
 title: 'Sandakan: gun running village to timber centre, 1870–1979'
 canonical_name: 'Sandakan: gun running village to timber centre, 1870–1979'
-type: article
-article_type: article
+type: publication
 authors:
 - S. Bhar
 year: 1980
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-237-bhar-sandakangunrunning-1980-c4d9017e9783
 source_path: ../sources/jmbras-237-bhar-sandakangunrunning-1980-c4d9017e9783/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Sandakan: gun running village to timber centre, 1870–1979
 
 Supriya Bhar's 1980 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* charts the social history of Sandakan, Sabah, across its first century (1879–1979), tracing its transformation from a gun-running village on the Sulu coast to the timber-exporting centre of the state. Drawing primarily on the *British North Borneo Herald*, William Pryer's diary, and oral history, Bhar argues that Sandakan's identity was shaped by the interplay of Chinese commercial immigration, indigenous Sulu-Bajau subsistence economies, and the timber industry that ultimately defined the town's economic purpose.

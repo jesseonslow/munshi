@@ -3,8 +3,7 @@ id: the-kedah-annals
 work_id: jmbras-16-2-p31
 title: The Kedah Annals
 canonical_name: The Kedah Annals
-type: article
-article_type: article
+type: publication
 authors:
 - R.O. Winstedt
 year: 1938
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-132-winstedt-kedahannals-1938-8732cf3c42d8
 source_path: ../sources/jmalayanras-132-winstedt-kedahannals-1938-8732cf3c42d8.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The Kedah Annals
 
 R.O. Winstedt's 1938 article in the *Journal of the Malayan Branch of the Royal Asiatic Society* offers a critical dissection of the *Hikayat Merang Mahawangsa*, the text conventionally known as the Kedah Annals. Writing as the pre-eminent Malay scholar of his generation, Winstedt argues that the work is not a genuine historical chronicle but a late romantic compilation drawn from folk-tales, Indian and Buddhist literary sources, and common Malay romance tropes, with a probable date of composition in the late eighteenth or early nineteenth century.

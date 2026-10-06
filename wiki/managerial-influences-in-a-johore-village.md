@@ -3,8 +3,7 @@ id: managerial-influences-in-a-johore-village
 work_id: jmbras-30-1-p93
 title: Managerial influences in a Johore village
 canonical_name: Managerial influences in a Johore village
-type: article
-article_type: article
+type: publication
 authors:
 - K.O.L. Burridge
 year: 1957
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-177-burridge-managerialinfluencesjohore-1957-4d08ffa1a907
 source_path: ../sources/jmalayanras-177-burridge-managerialinfluencesjohore-1957-4d08ffa1a907.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Managerial influences in a Johore village
 
 K.O.L. Burridge's 1957 ethnographic study examines the distribution of power and influence in a long-established village on the west coast of Johore, arguing that traditional kin-based and religious structures have successfully absorbed newer political institutions—particularly the Local Council and national political parties—rather than being displaced by them. The article demonstrates how the concept of *pandai* (political acumen expressed as equivocation and status-quo maintenance) operates as the governing logic of village management, and how the entry of Chinese political representation through the M.C.A. represents the most significant challenge to this equilibrium.

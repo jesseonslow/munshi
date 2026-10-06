@@ -3,8 +3,7 @@ id: the-gymnosperms-of-the-malay-peninsula
 work_id: jsbras-60-1-p53
 title: The Gymnosperms of the Malay Peninsula
 canonical_name: The Gymnosperms of the Malay Peninsula
-type: article
-article_type: article
+type: publication
 authors:
 - H.N. Ridley
 year: 1911
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-060-ridley-gymnospermsmalaypeninsula-1911-c5effb99521e
 source_path: ../sources/jsbras-060-ridley-gymnospermsmalaypeninsula-1911-c5effb99521e.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The Gymnosperms of the Malay Peninsula
 
 H.N. Ridley, then Director of the Singapore Botanic Gardens, published this floristic treatment of the gymnosperms of the Malay Peninsula in 1911, cataloguing the Coniferae, Gnetaceae, and Cycadeae represented in the region and proposing a biogeographical model for their arrival. The article argues that the peninsula's conifers were colonised from two distinct directions—lowland taxa from the north via the Himalayan corridor and montane taxa from the east via Borneo and the Australasian region.

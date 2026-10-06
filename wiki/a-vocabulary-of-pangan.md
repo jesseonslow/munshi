@@ -3,8 +3,7 @@ id: a-vocabulary-of-pangan
 work_id: jsbras-85-1-p97
 title: A vocabulary of Pangan
 canonical_name: A vocabulary of Pangan
-type: article
-article_type: article
+type: publication
 authors:
 - T.S. Adams
 year: 1922
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-085-adams-vocabularypangan-1922-a29a4a819881
 source_path: ../sources/jsbras-085-adams-vocabularypangan-1922-a29a4a819881.md
 summarized: true
+publication_type: journal_article
 ---
+
 # A vocabulary of Pangan
 
 A preface to a vocabulary of the Pangan language, compiled by T. S. Adams of the Malayan Civil Service and published in the Journal of the Straits Branch of the Royal Asiatic Society, Vol. 85 (1922).

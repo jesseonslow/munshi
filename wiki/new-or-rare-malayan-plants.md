@@ -3,8 +3,7 @@ id: new-or-rare-malayan-plants
 work_id: jsbras-68-1-p11
 title: New or rare Malayan plants
 canonical_name: New or rare Malayan plants
-type: article
-article_type: article
+type: publication
 authors:
 - H.N. Ridley
 year: 1915
@@ -28,7 +27,9 @@ reprints:
 source_doc: jsbras-068-ridley-newraremalayan-1915-930e0c518c8b
 source_path: ../sources/jsbras-068-ridley-newraremalayan-1915-930e0c518c8b.md
 summarized: true
+publication_type: journal_article
 ---
+
 # New or rare Malayan plants
 
 H. N. Ridley, Director of the Singapore Botanic Gardens, published this seventh instalment of his "New or Rare Malayan Plants" series in 1915, describing six new species and two notable taxonomic observations drawn from collections across the Malay Peninsula and Borneo. The paper reflects the ongoing botanical survey of the region during the early colonial period, with Ridley himself and collectors such as Burn Murdoch, Beccari, and Burkill supplying the specimens.

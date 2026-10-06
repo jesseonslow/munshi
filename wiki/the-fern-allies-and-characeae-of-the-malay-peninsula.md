@@ -3,8 +3,7 @@ id: the-fern-allies-and-characeae-of-the-malay-peninsula
 work_id: jsbras-80-1-p139
 title: The fern-allies and Characeae of the Malay Peninsula
 canonical_name: The fern-allies and Characeae of the Malay Peninsula
-type: article
-article_type: article
+type: publication
 authors:
 - H.N. Ridley
 year: 1919
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-080-ridley-fernalliescharaceaemalay-1919-a12de40ef569
 source_path: ../sources/jsbras-080-ridley-fernalliescharaceaemalay-1919-a12de40ef569.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The fern-allies and Characeae of the Malay Peninsula
 
 H. N. Ridley, Director of the Singapore Botanic Gardens, published this floristic treatment of the fern-allies and Characeae of the Malay Peninsula in 1919, providing a systematic account of the Lycopodiaceae, Selaginellaceae, Rhizocarpeae, and Characeae based on his own extensive field collections and examination of type specimens at Kew, the British Museum, and the Linnean Society. The work's central argument concerns the striking contrast in endemism between the two major terrestrial groups: while no species of *Lycopodium* or *Psilotum* is endemic to the Peninsula, the *Selaginella* flora shows a remarkably high proportion of endemics, suggesting that the smaller, less widely dispersible spores of the latter group have permitted greater in-situ speciation.

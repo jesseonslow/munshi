@@ -3,8 +3,7 @@ id: summary-of-the-report-on-the-pomeloe-moth
 work_id: jsbras-19-1-p83
 title: Summary of the report on the pomeloe moth
 canonical_name: Summary of the report on the pomeloe moth
-type: article
-article_type: article
+type: publication
 authors:
 - L. Wray
 year: 1887
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-019-l-wray-summaryreportpomeloe-1887-bb3deca594d3
 source_path: ../sources/jsbras-019-l-wray-summaryreportpomeloe-1887-bb3deca594d3.md
 summarized: true
+publication_type: note
 ---
+
 # Summary of the report on the pomeloe moth
 
 This is a brief entomological report by L. Wray, Jr., Curator of the Perak Museum, documenting the life history of a small moth responsible for destroying pomeloe fruit in the Residency gardens at Kwala Kangsa, Perak (p. 83).

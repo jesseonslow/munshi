@@ -3,8 +3,7 @@ id: nora-chatri-in-kedah-a-preliminary-report-with-appendix
 work_id: jmbras-55-1-p53
 title: 'Nora Chatri in Kedah: a preliminary report (with appendix'
 canonical_name: 'Nora Chatri in Kedah: a preliminary report (with appendix). f'
-type: article
-article_type: article
+type: publication
 authors:
 - Ghulam Sarwar Yousof
 year: 1982
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-242-yousof-norachatrikedah-1982-f0979cffa505
 source_path: ../sources/jmbras-242-yousof-norachatrikedah-1982-f0979cffa505/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Nora Chatri in Kedah: a preliminary report (with appendix
 
 Ghulam Sarwar Yousof's 1982 preliminary report documents the Nora Chatri (locally Manora) folk dance-theatre tradition in Kedah, a genre sustained by approximately twenty groups of Thai-descended communities in the state's northern districts. The article functions as a structural ethnography of a living performance form, tracing its ritual architecture from opening invocations through trance possession, dance, and dramatic narrative to closing rites, while situating the tradition within the broader Malay-Thai cultural corridor along the Malaysia-Thailand border.

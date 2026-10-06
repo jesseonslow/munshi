@@ -3,8 +3,7 @@ id: adat-kuala-pilah-j-j-sheehan-and-abdul-aziz-bin-khamis
 work_id: jmbras-14-3-p190
 title: Adat Kuala Pilah. J. J. Sheehan and Abdul Aziz bin Khamis
 canonical_name: _Adat_ Kuala Pilah. J. J. Sheehan and Abdul Aziz bin Khamis
-type: article
-article_type: article
+type: publication
 authors:
 - Abdul Aziz bin Khamis
 - J.J. Sheehan
@@ -22,7 +21,9 @@ published: false
 source_doc: jmalayanras-126-sheehan-adatkualapilah-1936-65c9fdb1ebb7
 source_path: ../sources/jmalayanras-126-sheehan-adatkualapilah-1936-65c9fdb1ebb7/chapter-05.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Adat Kuala Pilah. J. J. Sheehan and Abdul Aziz bin Khamis
 
 J. J. Sheehan and Abdul Aziz bin Khamis published this systematic codification of the adat (customary law) governing the Kuala Pilah district of Negri Sembilan in 1936, during the British colonial period when the state's traditional institutions were being formally documented and increasingly subordinated to statutory law. The work presents the living adat as agreed upon by the Penghulu and Lembaga councils and approved by the Yang di-Pertuan Besar, capturing a transitional moment in which customary authority coexisted with—and was progressively constrained by—colonial administrative structures.

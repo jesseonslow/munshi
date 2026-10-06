@@ -3,8 +3,7 @@ id: the-old-cemetery-on-fort-canning-singapore
 work_id: jsbras-61-1-p77
 title: The old cemetery on Fort Canning, Singapore
 canonical_name: The old cemetery on Fort Canning, Singapore
-type: article
-article_type: article
+type: publication
 authors:
 - H.A. Stallwood
 year: 1912
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-061-stallwood-oldcemeteryfort-1912-45d47e5bdf1f
 source_path: ../sources/jsbras-061-stallwood-oldcemeteryfort-1912-45d47e5bdf1f/index.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The old cemetery on Fort Canning, Singapore
 
 H.A. Stallwood's 1912 register of the Old Cemetery on Fort Canning, Singapore, was compiled at Government order following C.B. Buckley's suggestion in his *Anecdotal History of Singapore* that a new record be made after the loss of the original. The work documents the interments of roughly 280 individuals buried between 1822 and 1868, offering a prosopographical snapshot of the colonial Settlement's earliest European, Eurasian, and Chinese Christian communities.

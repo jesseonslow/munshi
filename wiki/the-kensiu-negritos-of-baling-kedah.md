@@ -3,8 +3,7 @@ id: the-kensiu-negritos-of-baling-kedah
 work_id: jmbras-43-1-p143
 title: The Kensiu Negritos of Baling, Kedah
 canonical_name: The Kensiu Negritos of Baling, Kedah
-type: article
-article_type: article
+type: publication
 authors:
 - I. Carey
 year: 1970
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-217-carey-kensiunegritosbaling-1970-5bc818a33941
 source_path: ../sources/jmbras-217-carey-kensiunegritosbaling-1970-5bc818a33941.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The Kensiu Negritos of Baling, Kedah
 
 Iskandar Carey, who served as Commissioner for Aboriginal Affairs (head of the Department for Orang Asli Affairs) from 1955 until his retirement in August 1969, published this ethnographic study in 1970 based on fieldwork conducted in 1968 and early 1969. The article examines the Kensiu Negritos of Kampong Lalang, a small village approximately 11 miles north of Baling in Kedah near the Thai frontier, and argues that this settlement represents a unique compromise between the traditionally nomadic Negrito way of life and a partially settled existence, with the 1967 rural development scheme illustrating both the possibilities and the structural limitations of government intervention among a people who had lived as pure nomads for millennia.

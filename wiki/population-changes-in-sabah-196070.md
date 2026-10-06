@@ -3,8 +3,7 @@ id: population-changes-in-sabah-196070
 work_id: jmbras-51-1-p63
 title: Population changes in Sabah, 1960–70
 canonical_name: Population changes in Sabah, 1960–70
-type: article
-article_type: article
+type: publication
 authors:
 - Lee Yong Leng
 year: 1978
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-233-leng-populationchangessabah-1978-33f26ca03926
 source_path: ../sources/jmbras-233-leng-populationchangessabah-1978-33f26ca03926.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Population changes in Sabah, 1960–70
 
 Lee Yong Leng (1978) examines the demographic transformation of Sabah during the 1960–70 intercensal period, a decade in which the territory's population grew at an unprecedented rate, the Chinese share of the total population declined for the first time since 1911, and the long-standing pattern of indigenous out-migration from the interior was arrested. The article argues that the construction of major highways, government land settlement schemes, and the influx of foreign labour into east coast timber and plantation industries fundamentally restructured Sabah's demographic geography, shifting the centre of growth from the west coast to the east.

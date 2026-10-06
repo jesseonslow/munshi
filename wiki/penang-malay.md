@@ -3,8 +3,7 @@ id: penang-malay
 work_id: jsbras-85-1-p67
 title: Penang Malay
 canonical_name: Penang Malay
-type: article
-article_type: article
+type: publication
 authors:
 - Hamilton A.W
 year: 1922
@@ -27,7 +26,9 @@ published: false
 source_doc: jsbras-085-hamilton-penangmalay-1922-8db42ad0a097
 source_path: ../sources/jsbras-085-hamilton-penangmalay-1922-8db42ad0a097.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Penang Malay
 
 A.W. Hamilton's 1922 article "Penang Malay" is a descriptive linguistic survey of the colloquial Malay spoken in the Northern Settlement, produced for the Journal of the Straits Branch of the Royal Asiatic Society. Hamilton argues that what outsiders perceive as a distinct "Penang Malay" is in fact the Malay of Kedah modified by the cosmopolitan demands of a port town with a large South Indian population, and he systematically catalogues the phonological, morphological, and lexical divergences from the "Singapore Malay" (Johore-based) variety that a textbook-trained speaker would encounter.

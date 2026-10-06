@@ -3,8 +3,7 @@ id: dictionary-of-malaysian-biography-project
 work_id: jmbras-56-2-p141
 title: Dictionary of Malaysian biography project
 canonical_name: Dictionary of Malaysian biography project
-type: article
-article_type: article
+type: publication
 authors:
 - Khoo Kay Kim
 year: 1983
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-245-dictionarymalaysianbiography-1983-00e3b776fa61
 source_path: ../sources/jmbras-245-dictionarymalaysianbiography-1983-00e3b776fa61.md
 summarized: true
+publication_type: note
 ---
+
 # Dictionary of Malaysian biography project
 
 This is a project announcement by Khoo Kay Kim (as contact) on behalf of the coordinators of the Dictionary of Malaysian Biography Project, published in the *JMBRAS* in 1983.

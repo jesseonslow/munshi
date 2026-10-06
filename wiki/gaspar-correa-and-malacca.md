@@ -3,8 +3,7 @@ id: gaspar-correa-and-malacca
 work_id: jmbras-28-1-p162
 title: Gaspar Correa and Malacca
 canonical_name: Gaspar Correa and Malacca
-type: article
-article_type: article
+type: publication
 authors:
 - I.A. MacGregor
 year: 1955
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-169-macgregor-gasparcorreamalacca-1955-0caab5b84256
 source_path: ../sources/jmalayanras-169-macgregor-gasparcorreamalacca-1955-0caab5b84256.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Gaspar Correa and Malacca
 
 I.A. MacGregor's 1955 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* corrects a long-standing misidentification in Portuguese historiography: the murder of a "Gaspar Correa" at Malacca, recorded in an undated petition from the Lisbon National Archives, was wrongly attributed to the famous chronicler of the *Lendas da India* by earlier scholars. MacGregor demonstrates through documentary evidence that the victim was a different man bearing the same name, killed during the captaincy of dom Estevao da Gama in the 1530s, not in 1563–64 as previously supposed.

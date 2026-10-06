@@ -4,8 +4,7 @@ work_id: jmbras-95-2-p57
 title: Protecting the Forest and Its Fauna against Local Residents in British Malaya
 canonical_name: Protecting the Forest and Its Fauna against Local Residents in British
   Malaya
-type: article
-article_type: article
+type: publication
 authors:
 - M. Guérin
 year: 2022
@@ -34,7 +33,9 @@ keywords:
 - game reserve
 - Che Wong
 - Batek
+publication_type: journal_article
 ---
+
 # Protecting the Forest and Its Fauna against Local Residents in British Malaya
 
 ## Abstract

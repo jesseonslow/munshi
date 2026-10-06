@@ -3,8 +3,7 @@ id: the-negri-sembilan-their-origin-and-constitution
 work_id: jsbras-19-1-p35
 title: The Negri Sembilan, their origin and constitution
 canonical_name: The Negri Sembilan, their origin and constitution
-type: article
-article_type: article
+type: publication
 authors:
 - M. Lister
 year: 1887
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-019-lister-ngrismbilanorigin-1887-b51575e3acc6
 source_path: ../sources/jsbras-019-lister-ngrismbilanorigin-1887-b51575e3acc6.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The Negri Sembilan, their origin and constitution
 
 Martin Lister, a British colonial administrator in the Negri Sembilan, published this article in 1887 to provide a systematic account of the origin and constitutional structure of the nine states, arguing that their unique political system emerged from the conciliatory interaction between aboriginal Sakei settlers and Menangkabau immigrants who brought the *adat perpatih* with them. The article was printed with the permission of Governor Sir Cecil C. Smith and reflects the colonial administration's interest in understanding indigenous legal frameworks for the purposes of governance.

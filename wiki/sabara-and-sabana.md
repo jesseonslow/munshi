@@ -3,8 +3,7 @@ id: sabara-and-sabana
 work_id: jmbras-26-1-p212
 title: Sabara and sabana
 canonical_name: Sabara and sabana
-type: article
-article_type: article
+type: publication
 authors:
 - F.W. Douglas
 year: 1953
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-161-douglas-sabarasabana-1953-7a2cbce46730
 source_path: ../sources/jmalayanras-161-douglas-sabarasabana-1953-7a2cbce46730.md
 summarized: true
+publication_type: note
 ---
+
 # Sabara and sabana
 
 This is a brief correction note by Dato F. W. Douglas clarifying the identification and location of the Ptolemaic name *Sabana* on the Malay Peninsula, in response to an error in Dr. Linehan's earlier article (JMBRAS 24(3), 1951).

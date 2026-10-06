@@ -3,8 +3,7 @@ id: tunku-kudin-a-scribes-defence
 work_id: jmbras-63-1-p55
 title: 'Tunku Kudin: a scribe’s defence'
 canonical_name: 'Tunku Kudin: a scribe’s defence'
-type: article
-article_type: article
+type: publication
 authors:
 - Khoo Khay Jin
 year: 1990
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-258-jin-tunkukudinscribes-1990-f6ad12dccf52
 source_path: ../sources/jmbras-258-jin-tunkukudinscribes-1990-f6ad12dccf52/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Tunku Kudin: a scribe’s defence
 
 Khoo Khay Jin's 1990 article presents and analyses a previously neglected Malay manuscript (SOAS MS 46943) that offers the "losing" side's perspective on the Kedah succession crisis of 1879–1882, arguing that the text should be read not as a straightforward factual record but as a window into the legitimating ideology of Kedah's ruling circles regarding succession and their relationship with Siam. The article challenges the Siamese-centric narrative dominant in the literature and demonstrates that the notion of local ruling-circle consent (*muafakat*) as the mark of legitimate succession was a shared ideological premise, not merely a late 19th-century development.

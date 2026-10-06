@@ -3,8 +3,7 @@ id: birds-from-perak
 work_id: jsbras-19-1-p125
 title: Birds from Perak
 canonical_name: Birds from Perak
-type: article
-article_type: article
+type: publication
 authors:
 - R. B. Sharpe
 year: 1887
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-019-museum-mrrb-1887-7d4bf2cb3a36
 source_path: ../sources/jsbras-019-museum-mrrb-1887-7d4bf2cb3a36.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Birds from Perak
 
 R. B. Sharpe, of the Zoological Department at the British Museum, published this account in 1887 describing a second collection of 51 bird-skins assembled by L. Wray, Curator of the Perak Museum, during a six-week stay in the Larut Range of Perak in September and October 1886. The article, originally read before the Zoological Society of London, documents the avifauna of a highland forest zone at approximately 4,400 feet elevation and formally describes five new species to science.

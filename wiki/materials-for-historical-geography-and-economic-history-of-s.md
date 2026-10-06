@@ -5,8 +5,7 @@ title: Materials for historical geography and economic history of Southeast Asia
   nineteenth century Malayan newspapers
 canonical_name: Materials for historical geography and economic history of Southeast
   Asia in nineteenth century Malayan newspapers
-type: article
-article_type: article
+type: publication
 authors:
 - R.D. Hill
 year: 1971
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-220-hill-materialshistoricalgeography-1971-ae6b2b33da7c
 source_path: ../sources/jmbras-220-hill-materialshistoricalgeography-1971-ae6b2b33da7c.md
 summarized: true
+publication_type: index
 ---
+
 # Materials for historical geography and economic history of Southeast Asia in nineteenth century Malayan newspapers
 
 R.D. Hill published this bibliographic guide in 1971, cataloguing articles on historical geography and economic history of Southeast Asia that appeared in nineteenth-century Malayan newspapers spanning 1806 to 1900. The article's overarching purpose is to demonstrate that the English-language press of the Straits Settlements—particularly the *Singapore Free Press* and *Straits Times*—constitutes a substantial and underutilised repository of geographical and economic information for the entire region, drawing on material originally published in 123 newspapers, journals, and magazines from across Southeast Asia, Britain, and Continental Europe (p. 151).

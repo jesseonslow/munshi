@@ -3,8 +3,7 @@ id: the-fishing-economy-of-malaysia-19551975
 work_id: jmbras-59-2-p51
 title: The fishing economy of Malaysia 1955–1975
 canonical_name: The fishing economy of Malaysia 1955–1975
-type: article
-article_type: article
+type: publication
 authors:
 - G. Sivalingam
 year: 1986
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-251-sivalingam-fishingeconomymalaysia-1986-3b251c330e00
 source_path: ../sources/jmbras-251-sivalingam-fishingeconomymalaysia-1986-3b251c330e00.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The fishing economy of Malaysia 1955–1975
 
 G. Sivalingam's 1986 article examines the transformation of Malaysia's fishing economy between 1955 and 1975, tracing how successive waves of technological change—from lift and gill-drift nets to purse seines and finally trawlers—restructured the organization of production and progressively worsened income distribution among fishing communities.

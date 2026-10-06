@@ -5,8 +5,7 @@ title: 'Two neglected bird names: Eucichla guajana (P.L.S. Mull.) and Chloropsis
   (GM.) Records of the Raffles Museum, No. 17'
 canonical_name: 'Two neglected bird names: _Eucichla guajana_ (P.L.S. Mull.) and _Chloropsis
   cochinchinensis_ (GM.) Records of the Raffles Museum, No. 17'
-type: article
-article_type: article
+type: publication
 authors:
 - C.B. Kloss
 year: 1926
@@ -23,7 +22,9 @@ published: false
 source_doc: jmalayanras-096-kloss-twoneglectedbird-1926-88887ec46c44
 source_path: ../sources/jmalayanras-096-kloss-twoneglectedbird-1926-88887ec46c44.md
 summarized: true
+publication_type: note
 ---
+
 # Two neglected bird names: Eucichla guajana (P.L.S. Mull.) and Chloropsis cochinchinensis (GM.) Records of the Raffles Museum, No. 17
 
 This short note by C.B. Kloss (1926) argues for the revival of two neglected bird names, *Eucichla guajana* (P.L.S. Mull.) and *Chloropsis cochinchinensis* (Gm.), and provides subspecific breakdowns for each.

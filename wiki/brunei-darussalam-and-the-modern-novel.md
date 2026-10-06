@@ -3,8 +3,7 @@ id: brunei-darussalam-and-the-modern-novel
 work_id: jmbras-77-1-p43
 title: Brunei Darussalam and the modern novel
 canonical_name: Brunei Darussalam and the modern novel
-type: article
-article_type: article
+type: publication
 authors:
 - C.H. Gallop
 year: 2004
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-286-gallop-bruneidarussalammodern-2004-a8b0ae95c1c7
 source_path: ../sources/jmbras-286-gallop-bruneidarussalammodern-2004-a8b0ae95c1c7/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Brunei Darussalam and the modern novel
 
 C. H. Gallop's 2004 article, originally delivered as a talk to the MBRAS Annual General Meeting in June 2003, examines the development of the modern Malay novel in Brunei Darussalam and the ideological forces that govern its production and reception. The overarching thesis is that Brunei's national ideology of Melayu Islam Beraja (MIB) functions as an Althusserian "ideological state apparatus" that conditions both what writers produce and how readers interpret it, generating a paradox in which a novelist of evident cosmopolitan empathy is read by local critics as a narrow nationalist hostile to foreigners.

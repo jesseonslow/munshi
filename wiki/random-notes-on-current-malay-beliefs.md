@@ -3,8 +3,7 @@ id: random-notes-on-current-malay-beliefs
 work_id: jmbras-5-2-p360
 title: Random notes on current Malay beliefs
 canonical_name: Random notes on current Malay beliefs
-type: article
-article_type: article
+type: publication
 authors:
 - Abdul Majid bin Haji Zainuddin Haji
 year: 1927
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-100-majid-randomnotescurrent-1927-f529a5773cc7
 source_path: ../sources/jmalayanras-100-majid-randomnotescurrent-1927-f529a5773cc7.md
 summarized: true
+publication_type: note
 ---
+
 # Random notes on current Malay beliefs
 
 Haji Abdul Majid's "Random Notes on Current Malay Beliefs" (JMBRAS Vol. 5, No. 2, 1927, pp. 360–361) is a brief miscellany of observations on Malay folk beliefs and their non-Islamic or foreign origins.

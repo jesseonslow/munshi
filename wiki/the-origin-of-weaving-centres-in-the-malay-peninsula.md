@@ -3,8 +3,7 @@ id: the-origin-of-weaving-centres-in-the-malay-peninsula
 work_id: jmbras-68-1-p91
 title: The origin of weaving centres in the Malay Peninsula
 canonical_name: The origin of weaving centres in the Malay Peninsula
-type: article
-article_type: article
+type: publication
 authors:
 - Maznah Mohamed
 year: 1995
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-268-mohamed-originsweavingcentres-1995-a451fcaf1d8a
 source_path: ../sources/jmbras-268-mohamed-originsweavingcentres-1995-a451fcaf1d8a/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The origin of weaving centres in the Malay Peninsula
 
 Maznah Mohamed's 1995 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* traces the origins of the Malay Peninsula's weaving centres—concentrated on the east coast at Petani, Kelantan, Terengganu, and Pahang—through four successive phases of international trade, from the first-century Silk Road to the nineteenth-century Industrial Revolution. Her overarching thesis is that these centres were not indigenous agricultural by-products but the direct product of the Peninsula's strategic position along maritime routes linking China, India, and the West, where imported raw materials (silk and cotton) met local weaving skills, royal patronage, and concentrated populations to generate a commercial textile industry.

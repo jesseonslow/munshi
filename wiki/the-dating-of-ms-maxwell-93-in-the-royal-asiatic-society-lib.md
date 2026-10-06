@@ -3,8 +3,7 @@ id: the-dating-of-ms-maxwell-93-in-the-royal-asiatic-society-lib
 work_id: jmbras-45-1-p116
 title: The dating of Ms Maxwell 93 in the Royal Asiatic Society Library
 canonical_name: The dating of Ms Maxwell 93 in the Royal Asiatic Society Library
-type: article
-article_type: article
+type: publication
 authors:
 - R. Jones
 year: 1972
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-221-jones-datingmsmaxwell-1972-2a17d52bcfb1
 source_path: ../sources/jmbras-221-jones-datingmsmaxwell-1972-2a17d52bcfb1.md
 summarized: true
+publication_type: note
 ---
+
 # The dating of Ms Maxwell 93 in the Royal Asiatic Society Library
 
 This short note by Russell Jones examines the colophon date of a copy of Nur ad-Din ar-Raniri's *Hujjat as-siddik li-daf' az-zindik* in MS Maxwell 93, Royal Asiatic Society Library, arguing that the scribe's stated date of 12 Sha'ban 1186 AH (8 November 1772 AD) should be accepted.

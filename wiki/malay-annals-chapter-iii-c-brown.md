@@ -3,8 +3,7 @@ id: malay-annals-chapter-iii-c-brown
 work_id: jmbras-42-1-p25
 title: Malay Annals, chapter III. .C. Brown
 canonical_name: Malay Annals, chapter III. .C. Brown
-type: article
-article_type: translation
+type: publication
 authors:
 - C.C. Brown
 year: 1969
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-215-brown-malayannalschapter-1969-4dc6fc76bdb6
 source_path: ../sources/jmbras-215-brown-malayannalschapter-1969-4dc6fc76bdb6/chapter-01.md
 summarized: true
+publication_type: translation
 ---
+
 # Malay Annals, chapter III. .C. Brown
 
 C. C. Brown's 1969 translation of Chapter III of the *Malay Annals* (*Sejarah Melayu*) presents the legendary foundation narrative of the classical Malay polities, tracing the descent of Alexander the Great's lineage into the Malay world and culminating in the founding of Singapura by Sri Tri Buana. Published in the Singapore 150th Anniversary Commemorative Issue of the *JMBRAS*, the translation renders the chapter's central thesis: that Malay sovereignty derives from a sacred, divinely sanctioned lineage whose legitimacy is sealed through a mutual covenant between ruler and subject.

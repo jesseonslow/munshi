@@ -3,8 +3,7 @@ id: straits-meteorology
 work_id: jsbras-12-1-p245
 title: Straits meteorology
 canonical_name: Straits meteorology
-type: article
-article_type: article
+type: publication
 authors:
 - A.M. Skinner
 year: 1883
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-012-skinner-straitsmeteorology-1883-cf1dfd55f3bc
 source_path: ../sources/jsbras-012-skinner-straitsmeteorology-1883-cf1dfd55f3bc.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Straits meteorology
 
 A.M. Skinner, writing in 1883 for the Journal of the Straits Branch of the Royal Asiatic Society, argued that rainfall in the Straits Settlements follows an approximately 10½-year periodic cycle synchronised with the sun-spot cycle, and that the severe drought of 1882–83 was a predictable manifestation of this recurrence. Drawing on the Colonial Government's rainfall returns (1869–83) from nearly twenty stations along the West Coast of the Malay Peninsula, and on comparative data from 166 Dutch stations across the Eastern Archipelago, Skinner positioned the Straits as a natural laboratory for testing the then-emerging theory of solar-terrestrial periodicity.

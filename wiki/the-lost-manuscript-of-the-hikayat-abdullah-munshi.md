@@ -3,8 +3,7 @@ id: the-lost-manuscript-of-the-hikayat-abdullah-munshi
 work_id: jmbras-55-2-p126
 title: The lost manuscript of the Hikayat Abdullah “Munshi”
 canonical_name: The lost manuscript of the _Hikayat Abdullah “Munshi”._
-type: article
-article_type: article
+type: publication
 authors:
 - H.F. O'B. Traill
 year: 1982
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-243-traill-lostmanuscripthikayat-1982-a7071df05887
 source_path: ../sources/jmbras-243-traill-lostmanuscripthikayat-1982-a7071df05887.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The lost manuscript of the Hikayat Abdullah “Munshi”
 
 H.F.O'B. Traill's 1982 article examines the 1843 original manuscript of the *Hikayat Abdullah*, long considered lost but discovered in the Library of Congress by Professor A. Teeuw in 1967. Working from a microfilm held at the University of Malaya Library, Traill conducts a comparative survey of the 1843 autograph copy against the 1849 lithographed edition, identifying significant textual differences that illuminate Abdullah's racial self-identification, his birth date, the missionaries' editorial influence on the revised text, and several previously unknown historical details.

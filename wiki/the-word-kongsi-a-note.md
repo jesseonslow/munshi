@@ -3,8 +3,7 @@ id: the-word-kongsi-a-note
 work_id: jmbras-52-1-p102
 title: 'The word kongsi: a note'
 canonical_name: The word _kongsi:_ a note
-type: article
-article_type: article
+type: publication
 authors:
 - Wang Tai-peng
 - Wong Tai Peng
@@ -22,7 +21,9 @@ published: false
 source_doc: jmbras-235-peng-wordkongsinote-1979-042520a97a6b
 source_path: ../sources/jmbras-235-peng-wordkongsinote-1979-042520a97a6b.md
 summarized: true
+publication_type: note
 ---
+
 # The word kongsi: a note
 
 Wang Tai-peng (Wong Tai Peng) published this concise etymological and political note in 1979, arguing that the term *kongsi*—long reduced by colonial administrators to a synonym for "secret society"—denoted in fact a form of open, representative self-government rooted in Chinese partnership and sworn-brotherhood traditions. The article situates this claim within a broader historiographical correction of how Southeast Asian Chinese political organisation has been understood.

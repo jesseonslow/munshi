@@ -3,8 +3,7 @@ id: report-on-the-padi-borer
 work_id: jsbras-19-1-p73
 title: Report on the padi-borer
 canonical_name: Report on the padi-borer
-type: article
-article_type: article
+type: publication
 authors:
 - L. Wray
 year: 1887
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-019-l-wray-reportpadiborer-1887-1d3e086fe197
 source_path: ../sources/jsbras-019-l-wray-reportpadiborer-1887-1d3e086fe197.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Report on the padi-borer
 
 L. Wray, Jr., Curator of the Perak Museum, published this entomological report in 1887 in response to a request from Dr. Leech, Collector and Magistrate of the Krian District, who had observed three successive seasons of escalating damage to padi crops from an unidentified maggot. The article provides the first systematic account of the rice-stem borer (*Chilo* species affinis *C. oryzae* of Riley) in the Malay Peninsula, documenting its complete life cycle, reproductive capacity, and the parasitic fly that serves as its principal natural check.

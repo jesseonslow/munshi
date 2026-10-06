@@ -3,8 +3,7 @@ id: coins-of-kelantan
 work_id: jmbras-12-2-p63
 title: Coins of Kelantan
 canonical_name: Coins of Kelantan
-type: article
-article_type: article
+type: publication
 authors:
 - W. Linehan
 year: 1934
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-119-linehan-coinskelantan-1934-c5bcf00b0f60
 source_path: ../sources/jmalayanras-119-linehan-coinskelantan-1934-c5bcf00b0f60.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Coins of Kelantan
 
 W. Linehan's 1934 note "Coins of Kelantan" surveys the numismatic evidence from the Malay state of Kelantan, spanning gold coins tentatively dated to the 17th or 18th century and pewter coinage of the 19th and early 20th centuries. The article argues that the gold coins, particularly those bearing the *kijang* (barking deer) motif, are of indigenous Kelantan origin rather than Achinese, and that the pewter coinage reveals a pattern of fiscal mismanagement by a noble-run minting company that ultimately forced Siamese governmental intervention.

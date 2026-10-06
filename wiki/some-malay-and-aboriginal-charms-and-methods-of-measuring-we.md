@@ -3,8 +3,7 @@ id: some-malay-and-aboriginal-charms-and-methods-of-measuring-we
 work_id: jmbras-25-1-p56
 title: Some Malay and aboriginal charms and methods of measuring weapons
 canonical_name: Some Malay and aboriginal charms and methods of measuring weapons
-type: article
-article_type: article
+type: publication
 authors:
 - P.D.R. Williams-Hunt
 year: 1952
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-158-williamshunt-malayaboriginalcharms-1952-dd3fba090537
 source_path: ../sources/jmalayanras-158-williamshunt-malayaboriginalcharms-1952-dd3fba090537.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Some Malay and aboriginal charms and methods of measuring weapons
 
 P.D.R. Williams-Hunt published this fieldwork record in 1952, documenting divination charms and physical measurement techniques used by Aboriginal and Malay communities across Peninsular Malaysia when assessing the suitability of weapons. Drawing on recordings made between 1949 and 1951 among the Jakun, Semai Semelai, Senoi (Sakai), and Malay informants, the article argues that these oral traditions—many of which are recognisably of Malay origin in their Aboriginal forms—were in active process of being lost and required urgent documentation.

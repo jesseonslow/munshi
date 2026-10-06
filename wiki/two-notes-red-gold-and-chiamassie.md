@@ -3,8 +3,7 @@ id: two-notes-red-gold-and-chiamassie
 work_id: jmbras-24-3-p157
 title: 'Two notes: red gold and chiamassie'
 canonical_name: 'Two notes: red gold and chiamassie'
-type: article
-article_type: article
+type: publication
 authors:
 - R. Braddell
 - P.D.R. Williams-Hunt
@@ -22,7 +21,9 @@ published: false
 source_doc: jmalayanras-156-braddell-twonotesred-1951-8a5733a5b6ea
 source_path: ../sources/jmalayanras-156-braddell-twonotesred-1951-8a5733a5b6ea.md
 summarized: true
+publication_type: note
 ---
+
 # Two notes: red gold and chiamassie
 
 This is a pair of short notes by Roland Braddell, published in JMBRAS Vol. 24, pt. 3 (1951), addressing the history of a gold-working process called *sepoh* and the identity of the name "Chiamassie" in Marco Polo's text.

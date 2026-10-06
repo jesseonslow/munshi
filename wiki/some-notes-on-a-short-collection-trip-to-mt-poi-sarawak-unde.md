@@ -5,8 +5,7 @@ title: Some notes on a short collection trip to Mt. Poi, Sarawak, undertaken rec
   by the Raffles Museum, Singapore, and the Sarawak Museum
 canonical_name: Some notes on a short collection trip to Mt. Poi, Sarawak, undertaken
   recently by the Raffles Museum, Singapore, and the Sarawak Museum
-type: article
-article_type: article
+type: publication
 authors:
 - J.C. Moulton
 year: 1913
@@ -23,7 +22,9 @@ published: false
 source_doc: jsbras-065-moulton-notesshortcollecting-1913-ba4a8066d190
 source_path: ../sources/jsbras-065-moulton-notesshortcollecting-1913-ba4a8066d190.md
 summarized: true
+publication_type: note
 ---
+
 # Some notes on a short collection trip to Mt. Poi, Sarawak, undertaken recently by the Raffles Museum, Singapore, and the Sarawak Museum
 
 J.C. Moulton, Curator of the Sarawak Museum, published this field report in 1913 documenting a brief joint collecting expedition to Mt. Poi—the only granite mountain and highest peak in Sarawak Proper—undertaken in April 1913 by the Raffles Museum, Singapore, and the Sarawak Museum. The article serves as both a zoological inventory of a previously unexamined mountain fauna and a contribution to the biogeographical question of how Borneo's ancient granitic peaks relate to one another through their endemic species.

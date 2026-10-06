@@ -3,8 +3,7 @@ id: the-grasses-and-sedges-of-the-malay-peninsula
 work_id: jsbras-23-1-p1
 title: The grasses and sedges of the Malay Peninsula
 canonical_name: The grasses and sedges of the Malay Peninsula
-type: article
-article_type: article
+type: publication
 authors:
 - H.N. Ridley
 year: 1891
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: true
 source_doc: jsbras-023-ridley-grassessedgesmalay-1891-7dfe9dc78504
 source_path: ../sources/jsbras-023-ridley-grassessedgesmalay-1891-7dfe9dc78504.md
+publication_type: journal_article
 ---
+
 # The grasses and sedges of the Malay Peninsula
 
 H.N. Ridley published this floristic treatment of the Poaceae and Cyperaceae of the Malay Peninsula in 1891 in the Journal of the Straits Branch of the Royal Asiatic Society (Vol. 23, pp. 1–33). Working from collections gathered across Singapore, Malacca, Penang, Selangor, Perak, Sungei Ujong, Pahang, Johor, and Tringganu, Ridley provides a species-by-species account of habitat, distribution, economic utility, and native Malay names, while also advancing biogeographic observations on the origins and dispersal of the region's glumaceous flora.

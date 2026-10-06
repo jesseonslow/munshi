@@ -5,8 +5,7 @@ title: Hose, G.F. A catalogue of the ferns of Borneo and some of the adjacent is
   which have been recorded up to the present time
 canonical_name: Hose, G.F. A catalogue of the ferns of Borneo and some of the adjacent
   islands which have been recorded up to the present time
-type: article
-article_type: article
+type: publication
 authors:
 - C. Hose
 year: 1899
@@ -23,7 +22,9 @@ published: false
 source_doc: jsbras-032-hose-cataloguefernsborneo-1899-56ec5ab66e72
 source_path: ../sources/jsbras-032-hose-cataloguefernsborneo-1899-56ec5ab66e72.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Hose, G.F. A catalogue of the ferns of Borneo and some of the adjacent islands which have been recorded up to the present time
 
 C. Hose, Bishop of Sarawak and prominent naturalist of the White Rajah period, published this comprehensive taxonomic catalogue in 1899, documenting 430 species and varieties of ferns recorded from Borneo, the Sulu Archipelago, the Natunas, and adjacent islands. The work synthesises collections made primarily in Sarawak and British North Borneo—territories that together comprised only about one-third of the island—and argues that the unexplored Dutch-held regions likely harbour a substantial number of additional species.

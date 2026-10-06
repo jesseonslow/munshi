@@ -3,8 +3,7 @@ id: the-establishment-of-singapore
 work_id: jmbras-89-2-p141
 title: The establishment of Singapore
 canonical_name: The establishment of Singapore
-type: article
-article_type: article
+type: publication
 authors:
 - W. Farquhar
 year: 2016
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-311-farquhar-establishmentsingapore-2016-c741d56ba609
 source_path: ../sources/jmbras-311-farquhar-establishmentsingapore-2016-c741d56ba609.md
 summarized: true
+publication_type: reprint
 ---
+
 # The establishment of Singapore
 
 William Farquhar, a senior East India Company officer who served as the first British Resident of Singapore (1819–1823), published this letter in 1830 in response to Lady Raffles' posthumous claim that her husband possessed the "sole and exclusive merit" of establishing the settlement. Reprinted in JMBRAS in 2016 to contextualize a companion article on Francis J. Bernard, the text is a pointed rebuttal in which Farquhar asserts that he was the original architect of the Singapore project and that Raffles' role, while real, was secondary and brief.

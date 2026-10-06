@@ -3,8 +3,7 @@ id: note-on-the-north-and-south-points-of-the-compass-in-kedah-a
 work_id: jmbras-4-1-p133
 title: note on the north and south points of the compass in Kedah and Trengganu
 canonical_name: note on the north and south points of the compass in Kedah and Trengganu
-type: article
-article_type: article
+type: publication
 authors:
 - J.L. Humphreys
 year: 1926
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-096-humphreys-notenorthsouth-1926-0ffeb42feca4
 source_path: ../sources/jmalayanras-096-humphreys-notenorthsouth-1926-0ffeb42feca4.md
 summarized: true
+publication_type: note
 ---
+
 # note on the north and south points of the compass in Kedah and Trengganu
 
 J.L. Humphreys's note examines the origin of the Malay terms *Kepala tidor* (head-in-sleep) and *Kaki tidor* (feet-in-sleep) used for South and North in Kedah and Trengganu, and the local usage of the four ordinary Malay compass terms in Trengganu.

@@ -3,8 +3,7 @@ id: malaya-in-the-wu-pei-chih-charts
 work_id: jmbras-15-3-p1
 title: Malaya in the Wu-pei-chih charts
 canonical_name: Malaya in the Wu-pei-chih charts
-type: article
-article_type: article
+type: publication
 authors:
 - J.V. Mills
 year: 1937
@@ -26,6 +25,7 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+publication_type: journal_article
 ---
 
 # Malaya in the Wu-pei-chih charts

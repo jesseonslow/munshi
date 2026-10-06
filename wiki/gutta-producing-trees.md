@@ -3,8 +3,7 @@ id: gutta-producing-trees
 work_id: jsbras-12-1-p207
 title: Gutta-producing trees
 canonical_name: Gutta-producing trees
-type: article
-article_type: article
+type: publication
 authors:
 - L. Wray
 year: 1883
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-012-low-guttaproducingtrees-1883-861e589bf23c
 source_path: ../sources/jsbras-012-low-guttaproducingtrees-1883-861e589bf23c.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Gutta-producing trees
 
 L. Wray, a scientific assistant in the Perak State Service, published this botanical and economic survey of gutta-percha producing trees in 1883, prefaced by an introduction from Hugh Low, the British Resident of Perak. Set against the backdrop of rapidly declining gutta exports from the Perak River valley, the article's central thesis is that the traditional Malay method of collecting gutta by scoring the bark of felled trees wastes the overwhelming majority of the product, which remains locked in the discarded bark, and that a simple process of maceration could recover it at a fraction of the current cost in tree destruction.

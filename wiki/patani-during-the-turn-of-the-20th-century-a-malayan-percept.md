@@ -3,8 +3,7 @@ id: patani-during-the-turn-of-the-20th-century-a-malayan-percept
 work_id: jmbras-61-1-p86
 title: 'Patani during the turn of the 20th century: a Malayan perception'
 canonical_name: 'Patani during the turn of the 20th century: a Malayan perception'
-type: article
-article_type: article
+type: publication
 authors:
 - Khoo Kay Kim
 year: 1988
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-254-kim-pataniturn20th-1988-c9ffd14a4750
 source_path: ../sources/jmbras-254-kim-pataniturn20th-1988-c9ffd14a4750.md
 summarized: true
+publication_type: document
 ---
+
 # Patani during the turn of the 20th century: a Malayan perception
 
 Khoo Kay Kim compiled and introduced a collection of eight documents from the Malayan English press (1900–1909) that reconstruct the "Malayan perception" of Siamese rule over Patani and the southern Malay states at the turn of the twentieth century. Published in 1988 in the *Journal of the Malaysian Branch of the Royal Asiatic Society*, the article argues that the Malayan press—driven largely by Singapore-based European commercial interests anxious about French encroachment from Indochina—produced a consistently hostile picture of Siamese administration that shaped British public opinion ahead of the Anglo-Siamese Treaty of 1909.

@@ -3,8 +3,7 @@ id: nanchang-padi-symbolism-of-saribas-iban-first-rites-of-harve
 work_id: jmbras-50-2-p150
 title: 'Nanchang padi: symbolism of Saribas Iban first rites of harvest'
 canonical_name: _Nanchang padi:_ symbolism of Saribas Iban first rites of harvest
-type: article
-article_type: article
+type: publication
 authors:
 - C. Sather
 year: 1977
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-232-sather-nanchangpadisymbolism-1977-54e90e06fc18
 source_path: ../sources/jmbras-232-sather-nanchangpadisymbolism-1977-54e90e06fc18/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Nanchang padi: symbolism of Saribas Iban first rites of harvest
 
 Clifford Sather's 1977 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* examines the *nanchang padi* rite as performed by a single Iban family at Kerangan Pinggai on the Paku river, Sarawak, during the 1976–77 farming season. Sather argues that this brief harvest ritual functions as a condensed symbolic formation through which fundamental Iban beliefs about rice souls, divine kinship, and agricultural protection are simultaneously expressed, enacted, and transmitted across generations.

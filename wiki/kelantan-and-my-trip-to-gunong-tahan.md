@@ -3,8 +3,7 @@ id: kelantan-and-my-trip-to-gunong-tahan
 work_id: jsbras-37-1-p1
 title: Kelantan and my trip to Gunong Tahan
 canonical_name: Kelantan and my trip to Gunong Tahan
-type: article
-article_type: article
+type: publication
 authors:
 - J. Waterstradt
 year: 1902
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-037-waterstradt-kelantantripgunong-1902-b1e9725f3873
 source_path: ../sources/jsbras-037-waterstradt-kelantantripgunong-1902-b1e9725f3873.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Kelantan and my trip to Gunong Tahan
 
 John Waterstradt, a naturalist who had previously ascended Mount Kinabalu in Borneo, published this detailed account of his 1901–1902 expedition to Gunong Tahan in the *Journal of the Straits Branch of the Royal Asiatic Society* (Vol. 37, January 1902). Writing from the Kelantan side of the Malay Peninsula under Siamese suzerainty, Waterstradt documents a seven-month ordeal of repeated failed ascents, logistical collapse, and near-starvation, ultimately reaching the summit region and confirming the mountain's structure, hydrology, and accessibility. The account serves as both a naturalist's field report and a vivid ethnographic record of early twentieth-century Kelantan under Siamese influence.

@@ -3,8 +3,7 @@ id: tunku-kudin-in-selangor-18681878
 work_id: jmbras-59-2-p5
 title: Tunku Kudin in Selangor 1868–1878
 canonical_name: Tunku Kudin in Selangor 1868–1878
-type: article
-article_type: article
+type: publication
 authors:
 - J.M. Gullick
 year: 1986
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-251-gullick-tunkukudinselangor-1986-978cec9118ed
 source_path: ../sources/jmbras-251-gullick-tunkukudinselangor-1986-978cec9118ed.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Tunku Kudin in Selangor 1868–1878
 
 J.M. Gullick's 1986 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* examines the decade (1868–1878) during which Tunku Kudin (Dhiauddin) of Kedah held delegated authority in Selangor as "Viceroy" under Sultan Abdul Samad. The overarching thesis is that Kudin was an influential but never dominant figure who shared power with his opponents in the civil war, the Chinese miners, the Pahang Malays, and finally British administrators, and who in the end recognised there was no place for him and returned to Kedah.

@@ -4,8 +4,7 @@ work_id: jmbras-91-1-p41
 title: 'Wallace’s help: the many people who aided A. R. Wallace in the Malay archipelago'
 canonical_name: 'Wallace’s help: the many people who aided A. R. Wallace in the Malay
   archipelago'
-type: article
-article_type: article
+type: publication
 authors:
 - John van Wyhe
 year: 2018
@@ -29,7 +28,9 @@ keywords:
 - Netherlands Indies
 - A. R. Wallace
 - natural history
+publication_type: journal_article
 ---
+
 # Wallace’s help: the many people who aided A. R. Wallace in the Malay archipelago
 
 ## Abstract

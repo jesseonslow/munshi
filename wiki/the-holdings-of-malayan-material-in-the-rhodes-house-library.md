@@ -3,8 +3,7 @@ id: the-holdings-of-malayan-material-in-the-rhodes-house-library
 work_id: jmbras-62-1-p89
 title: The holdings of Malayan material in the Rhodes House Library Oxford
 canonical_name: The holdings of Malayan material in the Rhodes House Library Oxford
-type: article
-article_type: article
+type: publication
 authors:
 - P. Tolmie
 year: 1989
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-256-tolmie-holdingsmalayanmaterial-1989-905499b93d2c
 source_path: ../sources/jmbras-256-tolmie-holdingsmalayanmaterial-1989-905499b93d2c.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The holdings of Malayan material in the Rhodes House Library Oxford
 
 P. W. Tolmie's 1989 article provides a systematic guide to the Malayan manuscript holdings in Rhodes House Library, Oxford, spanning from the mid-nineteenth century through the 1960s. Written as a finding aid for researchers, the article's overarching purpose is to demonstrate the breadth and depth of primary sources available for the history, administration, and social life of Malaya, Sarawak, and North Borneo.

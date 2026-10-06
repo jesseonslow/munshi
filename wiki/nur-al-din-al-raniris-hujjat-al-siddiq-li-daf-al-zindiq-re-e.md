@@ -3,8 +3,7 @@ id: nur-al-din-al-raniris-hujjat-al-siddiq-li-daf-al-zindiq-re-e
 work_id: jmbras-47-2-p83
 title: Nur al-Din al-Raniri’s Hujjat al-Siddiq li-daf al-Zindiq re-examined
 canonical_name: Nur al-Din al-Raniri’s _Hujjat al-Siddiq li-daf al-Zindiq_ re-examined
-type: article
-article_type: article
+type: publication
 authors:
 - Drewes G.W.J
 year: 1974
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-226-drewes-nraldnalrnrs-1974-716334dfdedd
 source_path: ../sources/jmbras-226-drewes-nraldnalrnrs-1974-716334dfdedd.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Nur al-Din al-Raniri’s Hujjat al-Siddiq li-daf al-Zindiq re-examined
 
 G. W. J. Drewes published this philological re-examination of Nur al-Din al-Raniri's *Hujjat al-siddiq li-daf' al-zindiq* in 1974, offering a detailed critique of Syed Muhammad Naguib al-Attas's 1966 edition and English translation of the 27-page anti-Wujudiyya tract. Working from the Arabic original, the Malay version, and the manuscript tradition, Drewes systematically corrects misreadings, mistranslations, and romanization errors without taking a doctrinal side in the famous Aceh controversy between al-Raniri and the disciples of Hamzah Fansuri and Shams al-Din.

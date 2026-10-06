@@ -3,8 +3,7 @@ id: notes-on-the-cocos-keeling-islands
 work_id: jmbras-20-2-p140
 title: Notes on the Cocos-Keeling Islands
 canonical_name: Notes on the Cocos-Keeling Islands
-type: article
-article_type: article
+type: publication
 authors:
 - C.A. Gibson-Hill
 year: 1947
@@ -28,7 +27,9 @@ summarized: true
 source_mismatch: true
 source_doc: jmalayanras-143-gibsonhill-notescocoskeelingislands-1947-c651c698e7c4
 source_path: ../sources/appendix.md
+publication_type: note
 ---
+
 # Notes on the Cocos-Keeling Islands
 
 C.A. Gibson-Hill's 1947 monograph "Notes on the Cocos-Keeling Islands" is a comprehensive ethnographic and historical account of the Cocos-Keeling atoll in the Indian Ocean, based on his residence on Pulo Tikus during the first ten and a half months of 1941. The work documents the physical environment, the full history of the settlement from William Keeling's discovery in 1609 through four generations of Clunies-Ross ownership, and the social, economic, linguistic, and cultural life of the Malay community on Pulo Selma as it stood on the eve of the Second World War — a community in prolonged economic decline and social stasis after more than a century of semi-isolation (pp. 133–135).

@@ -3,8 +3,7 @@ id: the-texts-of-the-hikayat-raja-pasai-a-short-note
 work_id: jmbras-53-1-p167
 title: 'The texts of the Hikayat Raja Pasai: a short note'
 canonical_name: The texts of the _Hikayat Raja Pasai:_ a short note
-type: article
-article_type: article
+type: publication
 authors:
 - R. Jones
 year: 1980
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-237-jones-textshikayatraja-1980-48c9a174d681
 source_path: ../sources/jmbras-237-jones-textshikayatraja-1980-48c9a174d681.md
 summarized: true
+publication_type: note
 ---
+
 # The texts of the Hikayat Raja Pasai: a short note
 
 Russell Jones published this short note in 1980 in the *Journal of the Malaysian Branch of the Royal Asiatic Society* (Vol. 53, No. 1), addressing the textual transmission history of the *Hikayat Raja Pasai*, one of the earliest known Malay texts chronicling the first Muslim rulers of Pasai in North Sumatra from approximately 1280 AD. The note's central argument is that the work's title has been systematically misrendered since the first published edition of 1849, and that the colophon of the sole surviving manuscript confirms the correct title as *Hikayat Raja Pasai* without the plural *Raja-Raja* (p. 167).

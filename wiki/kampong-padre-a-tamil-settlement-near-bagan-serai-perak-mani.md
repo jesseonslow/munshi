@@ -5,8 +5,7 @@ title: 'Kampong Padre: a Tamil settlement near Bagan Serai, Perak. . Manikam, .K
   Jain'
 canonical_name: 'Kampong Padre: a Tamil settlement near Bagan Serai, Perak. . Manikam,
   .K. Jain'
-type: article
-article_type: translation
+type: publication
 authors:
 - R.M.M. Fee
 year: 1963
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-262-daniel-diversityamongindian-1992-fb6a66146da3
 source_path: ../sources/jmbras-262-daniel-diversityamongindian-1992-fb6a66146da3/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Kampong Padre: a Tamil settlement near Bagan Serai, Perak. . Manikam, .K. Jain
 
 R.M.M. Fee's "Kampong Padre: a Tamil settlement near Bagan Serai, Perak" (1963) is a demographic and historical study of the St. Joseph's Mission, a Roman Catholic agricultural settlement established in the 1880s near Bagan Serai, Perak, by the French priest Michael Maria Fee. The article documents the settlement's founding, population composition, and institutional development as a nucleus of Tamil Catholic padi planters in colonial Perak.

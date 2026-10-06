@@ -3,8 +3,7 @@ id: the-kuala-langat-piracy-trial
 work_id: jmbras-69-2-p101
 title: The Kuala Langat piracy trial
 canonical_name: The Kuala Langat piracy trial
-type: article
-article_type: article
+type: publication
 authors:
 - J.M. Gullick
 year: 1996
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-271-gullick-kualalangatpiracy-1996-9cc04f05514d
 source_path: ../sources/jmbras-271-gullick-kualalangatpiracy-1996-9cc04f05514d.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The Kuala Langat piracy trial
 
 John Gullick's 1996 article re-examines the 1874 Kuala Langat piracy trial in Selangor, in which seven men were convicted and executed for the murder of a Melaka vessel's crew off Kuala Jugra. Set against the backdrop of British intervention in the Malay states and the fragile authority of Sultan Abdul Samad, the article weighs Sir Frank Swettenham's later assertion that the condemned men were innocent against the trial record and C.N. Parkinson's 1960 critique, ultimately concluding that the truth cannot be definitively established.

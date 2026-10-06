@@ -3,8 +3,7 @@ id: new-and-little-known-malayan-plants
 work_id: jsbras-44-1-p189
 title: New and little known Malayan plants
 canonical_name: New and little known Malayan plants
-type: article
-article_type: article
+type: publication
 authors:
 - H.N. Ridley
 year: 1905
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-044-ridley-newlittleknown-1905-0338dfae8831
 source_path: ../sources/jsbras-044-ridley-newlittleknown-1905-0338dfae8831.md
 summarized: true
+publication_type: journal_article
 ---
+
 # New and little known Malayan plants
 
 H. N. Ridley, Director of the Singapore Botanic Gardens, published this second series of new and little-known Malayan plants in 1905, describing approximately thirty-five new taxa across eight plant families collected from the Malay Peninsula, Borneo, Siam, and the Philippines. The paper's central thesis is that the forested interior of the Malay Peninsula—particularly the Kamuning and Semangkok regions—remains a richly underexplored botanical province, yielding species of considerable taxonomic and biogeographic significance.

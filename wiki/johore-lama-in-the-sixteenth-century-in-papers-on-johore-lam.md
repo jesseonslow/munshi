@@ -5,8 +5,7 @@ title: Johore Lama in the sixteenth century. {In Papers on Johore Lama and the P
   in Malaya (1511–1641
 canonical_name: Johore Lama in the sixteenth century. _{In_ Papers on Johore Lama
   and the Portuguese in Malaya (1511–1641)}
-type: article
-article_type: article
+type: publication
 authors:
 - I.A. MacGregor
 year: 1955
@@ -23,7 +22,9 @@ published: false
 source_doc: jmalayanras-170-macgregor-johorelamasixteenth-1955-d63fb721d58c
 source_path: ../sources/jmalayanras-170-macgregor-johorelamasixteenth-1955-d63fb721d58c/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Johore Lama in the sixteenth century. {In Papers on Johore Lama and the Portuguese in Malaya (1511–1641
 
 I.A. MacGregor's 1955 article, published in the *Journal of the Malayan Branch of the Royal Asiatic Society*, undertakes a systematic re-examination of when and how Johore Lama became the capital of the Johore Empire in the sixteenth century. Working from a dense corpus of Portuguese chronicles, contemporary letters, and Malay genealogical texts, MacGregor dismantles the long-standing tradition—traceable to Valentijn (1724–26)—that the Malacca royal family established itself at Johore Lama immediately after the Portuguese conquest of Malacca in 1511, arguing instead that the earliest plausible date for Johore Lama's elevation to capital status is around 1540.

@@ -4,8 +4,7 @@ work_id: jmbras-91-1-p29
 title: 'Anti-feudal elements in classical Malay political theory: the Taj al-Salatin'
 canonical_name: 'Anti-feudal elements in classical Malay political theory: the Taj
   al-Salatin'
-type: article
-article_type: article
+type: publication
 authors:
 - Farid, Syed Alatas
 year: 2018
@@ -27,7 +26,9 @@ keywords:
 - Islamic political theory
 - Islamic feudalism
 - Taj al-Salatin*
+publication_type: journal_article
 ---
+
 # Anti-feudal elements in classical Malay political theory: the Taj al-Salatin
 
 ## Abstract

@@ -3,8 +3,7 @@ id: mammals-taken-on-the-batu-lawi-expedition
 work_id: jsbras-63-1-p72
 title: Mammals taken on the Batu Lawi expedition
 canonical_name: Mammals taken on the Batu Lawi expedition
-type: article
-article_type: article
+type: publication
 authors:
 - J.C. Moulton
 year: 1912
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-063-moulton-expeditionmountbatu-1912-94eae97ebac5
 source_path: ../sources/jsbras-063-moulton-expeditionmountbatu-1912-94eae97ebac5/frontmatter.md
 summarized: true
+publication_type: note
 ---
+
 # Mammals taken on the Batu Lawi expedition
 
 J.C. Moulton's "Mammals taken on the Batu Lawi expedition" (1912) is a short taxonomic appendix to the larger multi-author account of the 1911 expedition to Mount Batu Lawi in the Limbang district of Sarawak, listing the mammal specimens collected during the party's 40-day journey through the upper Limbang, Madihit, and Baram river systems. The article forms part of a broader publication in the *Journal of the Straits Branch of the Royal Asiatic Society* (Vol. 63) that also includes the full expedition narrative and a linguistic appendix.

@@ -3,8 +3,7 @@ id: regional-links-yangon-penang-and-singapore
 work_id: jmbras-82-2-p67
 title: 'Regional links: Yangon, Penang and Singapore'
 canonical_name: 'Regional links: Yangon, Penang and Singapore'
-type: article
-article_type: article
+type: publication
 authors:
 - Loh Wei Leng
 year: 2009
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-297-win-regionallinksyangon-2009-0fbd69f279c6
 source_path: ../sources/jmbras-297-win-regionallinksyangon-2009-0fbd69f279c6/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Regional links: Yangon, Penang and Singapore
 
 Daw Win and Loh Wei Leng (2009) examine the commercial, shipping, and social networks that bound Chinese entrepreneurs across Yangon (Rangoon), Penang, and Singapore during the British colonial period, arguing that these three port cities formed an integrated regional economy in which Penang functioned as both a commercial gateway and a social bridge—supplying not only goods and capital but also Nonya brides to Burmese Chinese merchants. The article, published in the *Journal of the Malaysian Branch of the Royal Asiatic Society* as part of a special issue on Peranakan Chinese in Penang and the region, draws on trade statistics, shipping directories, and biographical records to reconstruct the flows of people, commodities, and capital along this northern littoral axis.

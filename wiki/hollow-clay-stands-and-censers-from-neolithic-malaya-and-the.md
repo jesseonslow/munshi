@@ -4,8 +4,7 @@ work_id: jmbras-32-1-p168
 title: Hollow clay stands and censers from Neolithic Malaya, and their western prototypes
 canonical_name: Hollow clay stands and censers from Neolithic Malaya, and their western
   prototypes
-type: article
-article_type: article
+type: publication
 authors:
 - J. Loewenstein
 year: 1959
@@ -22,7 +21,9 @@ published: false
 source_doc: jmalayanras-185-loewenstein-hollowclaystands-1959-8f52ac339f89
 source_path: ../sources/jmalayanras-185-loewenstein-hollowclaystands-1959-8f52ac339f89.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Hollow clay stands and censers from Neolithic Malaya, and their western prototypes
 
 Prince John Loewenstein published this comparative study in 1959, arguing that the hollow clay stands excavated from Neolithic sites in northern Malaya are not a local invention but belong to a wide distribution of this pottery type originating in Mesopotamia and transmitted through India to Southeast Asia and the Far East. The article simultaneously resolves the long-standing question of the function of perforated pottery cones from Kedah by demonstrating experimentally that they served as censers.

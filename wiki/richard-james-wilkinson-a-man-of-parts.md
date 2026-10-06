@@ -3,8 +3,7 @@ id: richard-james-wilkinson-a-man-of-parts
 work_id: jmbras-74-1-p19
 title: 'Richard James Wilkinson: a man of parts'
 canonical_name: 'Richard James Wilkinson: a man of parts'
-type: article
-article_type: article
+type: publication
 authors:
 - J.M. Gullick
 year: 2001
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-280-gullick-richardjameswilkinson-2001-87852dfd698b
 source_path: ../sources/jmbras-280-gullick-richardjameswilkinson-2001-87852dfd698b/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Richard James Wilkinson: a man of parts
 
 J. M. Gullick's 2001 biographical study of Richard James Wilkinson (1867–1941) reconstructs the life of one of the most accomplished figures in the late colonial Malayan civil service, tracing his arc from a multilingual child of the Mediterranean consular world to acting Governor of the Straits Settlements, Governor of Sierra Leone, and author of the definitive Malay-English Dictionary. The article's overarching thesis is that Wilkinson was genuinely "a man of parts" — a rare combination of administrative capability and scholarly depth whose career illuminates the institutional development of Malay education, the evolution of the Malayan civil service, and the intellectual history of Malay studies in the British colonial period.

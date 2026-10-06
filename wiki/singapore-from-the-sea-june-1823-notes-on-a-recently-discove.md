@@ -5,8 +5,7 @@ title: 'Singapore from the sea, June 1823: notes on a recently discovered sketch
   to Lt. Philip Jackson'
 canonical_name: 'Singapore from the sea, June 1823: notes on a recently discovered
   sketch attributed to Lt. Philip Jackson'
-type: article
-article_type: article
+type: publication
 authors:
 - H.F. Pearson
 year: 1953
@@ -23,7 +22,9 @@ published: false
 source_doc: jmalayanras-161-pearson-singaporeseajune-1953-58a52a2cd4f6
 source_path: ../sources/jmalayanras-161-pearson-singaporeseajune-1953-58a52a2cd4f6/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Singapore from the sea, June 1823: notes on a recently discovered sketch attributed to Lt. Philip Jackson
 
 H.F. Pearson, writing in 1953, presents a detailed analysis of a previously unknown pencil sketch of Singapore dated June 5, 1823, attributed to Lt. Philip Jackson, the settlement's Assistant Engineer. The article uses this drawing—discovered in a private collection descended from Raffles's nephew—as a primary source to reconstruct the physical appearance of the town at the moment of Raffles's final departure and to assess how far his ambitious rebuilding programme had actually progressed.

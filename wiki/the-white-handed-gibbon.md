@@ -3,8 +3,7 @@ id: the-white-handed-gibbon
 work_id: jsbras-50-1-p79
 title: The white-handed gibbon
 canonical_name: The white-handed gibbon
-type: article
-article_type: article
+type: publication
 authors:
 - C.B. Kloss
 year: 1908
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-050-kloss-whitehandedgibbon-1908-83bd90809bdd
 source_path: ../sources/jsbras-050-kloss-whitehandedgibbon-1908-83bd90809bdd.md
 summarized: true
+publication_type: note
 ---
+
 # The white-handed gibbon
 
 This short field note by C. Boden Kloss records the occurrence of the white-handed gibbon (*Hylobates lar*) in East Sumatra and offers observations on its colour variation, social structure, and family group dynamics.

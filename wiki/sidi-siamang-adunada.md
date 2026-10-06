@@ -3,8 +3,7 @@ id: sidi-siamang-adunada
 work_id: jsbras-81-1-p7
 title: Sidi, Siamang, Adunada
 canonical_name: Sidi, Siamang, Adunada
-type: article
-article_type: article
+type: publication
 authors:
 - R.O. Winstedt
 year: 1920
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: true
 source_doc: jsbras-081-winstedt-sidisiamangadunada-1920-6981f9bce5f0
 source_path: ../sources/jsbras-081-winstedt-sidisiamangadunada-1920-6981f9bce5f0.md
+publication_type: note
 ---
+
 # Sidi, Siamang, Adunada
 
 This short note by R. O. Winstedt examines three terms found in Malay charm-books and proposes Sanskrit etymologies for each: *sidi*, *siamang*, and *adunada*.

@@ -3,8 +3,7 @@ id: ethnographic-notes-on-the-siwang-of-central-malaya
 work_id: jmbras-29-1-p49
 title: Ethnographic notes on the Siwang of central Malaya
 canonical_name: Ethnographic notes on the Siwang of central Malaya
-type: article
-article_type: article
+type: publication
 authors:
 - R. Needham
 year: 1956
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-173-needham-ethnographicnotessiwang-1956-c05f85c94378
 source_path: ../sources/jmalayanras-173-needham-ethnographicnotessiwang-1956-c05f85c94378.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Ethnographic notes on the Siwang of central Malaya
 
 Rodney Needham, a social anthropologist, published these ethnographic notes in 1956, presenting the first systematic account of the social organisation of the Siwang, a semi-nomadic foraging and shifting-cultivation group in the mountainous rain forest of western Pahang. Building on the linguistic and material-culture records of C. S. Ogilvie (1940–1949), Needham's two-day interview with two Siwang informants at Kuala Tahan in May 1955 yielded the first substantive data on kinship, political authority, marriage, law, and religion among this small population, which by then numbered approximately 140 individuals and was in the process of being forcibly relocated from its ancestral territory during the Malayan Emergency.

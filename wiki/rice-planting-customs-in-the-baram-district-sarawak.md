@@ -3,8 +3,7 @@ id: rice-planting-customs-in-the-baram-district-sarawak
 work_id: jmbras-18-2-p83
 title: Rice planting customs in the Baram District, Sarawak
 canonical_name: Rice planting customs in the Baram District, Sarawak
-type: article
-article_type: article
+type: publication
 authors:
 - E. Banks
 year: 1940
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-138-banks-riceplantingcustoms-1940-92bfa5367068
 source_path: ../sources/jmalayanras-138-banks-riceplantingcustoms-1940-92bfa5367068.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Rice planting customs in the Baram District, Sarawak
 
 E. Banks, a British colonial administrator in Sarawak, published this ethnographic record in 1940, compiling pantang (lali) prohibitions governing rice cultivation among the Kayan, Kenyah, Kalamantan, and Punan peoples of the Baram District. The article documents the extensive periods of enforced retreat that these communities observe at each stage of the rice-growing cycle, arguing that while these customs carry social and spiritual significance, their agricultural consequences—particularly the ten-day harvest pantangs during which crops are left unattended to animals and birds—represent a serious material cost to the communities themselves.

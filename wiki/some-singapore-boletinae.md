@@ -3,8 +3,7 @@ id: some-singapore-boletinae
 work_id: jsbras-78-1-p67
 title: Some Singapore Boletinae
 canonical_name: Some Singapore Boletinae
-type: article
-article_type: article
+type: publication
 authors:
 - C.F. Baker
 - N. Patouillard
@@ -22,7 +21,9 @@ published: false
 source_doc: jsbras-078-patouillard-singaporeboletinae-1918-6afea3e9ef50
 source_path: ../sources/jsbras-078-patouillard-singaporeboletinae-1918-6afea3e9ef50.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Some Singapore Boletinae
 
 N. Patouillard and C. F. Baker published this taxonomic monograph in 1918, describing sixteen newly identified species of Boletinae (porcini and allied mushrooms) collected in a single hour's work in the Singapore Botanical Gardens in August 1917. The paper argues that the extraordinary species richness observed under optimum post-rainfall conditions warranted formal description from living material, and that all sixteen species could not be reconciled with previously recorded Far Eastern names.

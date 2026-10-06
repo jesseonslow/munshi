@@ -4,8 +4,7 @@ work_id: jmbras-93-2-p11
 title: The production of the Bugis and Malay manuscripts in the Library of Congress
 canonical_name: The production of the Bugis and Malay manuscripts in the Library of
   Congress
-type: article
-article_type: article
+type: publication
 authors:
 - R. Tol
 year: 2020
@@ -30,7 +29,9 @@ keywords:
 - Alfred North
 - Abdullah bin Abdulkadir
 - Husin bin Ismail
+publication_type: journal_article
 ---
+
 # The production of the Bugis and Malay manuscripts in the Library of Congress
 
 ## Abstract

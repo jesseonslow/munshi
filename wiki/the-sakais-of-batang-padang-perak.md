@@ -3,8 +3,7 @@ id: the-sakais-of-batang-padang-perak
 work_id: jsbras-41-1-p113
 title: The Sakais of Batang Padang, Perak
 canonical_name: The Sakais of Batang Padang, Perak
-type: article
-article_type: article
+type: publication
 authors:
 - G.B. Cerruti
 year: 1904
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-041-cerruti-sakaisbatangpadang-1904-870d9e04de2e
 source_path: ../sources/jsbras-041-cerruti-sakaisbatangpadang-1904-870d9e04de2e.md
 summarized: true
+publication_type: note
 ---
+
 # The Sakais of Batang Padang, Perak
 
 G.B. Cerruti published this brief ethnographic sketch in 1904, offering a morphological and cultural survey of the Sakai aborigines inhabiting the highland forests of Batang Padang, Perak. Writing from the position of a colonial observer with no access to Sakai written records, Cerruti constructs a portrait of a people he characterizes as physically distinct, socially simple, and in demographic decline, drawing on direct observation and the fragmentary oral traditions he extracted with difficulty.

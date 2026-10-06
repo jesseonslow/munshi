@@ -5,8 +5,7 @@ title: Ornithological notes made in the Straits Settlements and the western stat
   of the Malay Peninsula
 canonical_name: Ornithological notes made in the Straits Settlements and the western
   states of the Malay Peninsula
-type: article
-article_type: article
+type: publication
 authors:
 - H.R. Kelham
 year: 1883
@@ -24,7 +23,9 @@ summarized: true
 source_mismatch: true
 source_doc: jsbras-012-kelham-ornithologicalnotesmade-1883-d65bcb9d17e8
 source_path: ../sources/jsbras-012-kelham-ornithologicalnotesmade-1883-d65bcb9d17e8.md
+publication_type: reprint
 ---
+
 # Ornithological notes made in the Straits Settlements and the western states of the Malay Peninsula
 
 H.R. Kelham, a captain in the 74th Highlanders, published these ornithological field notes in 1883, drawing on observations made between 1877 and 1880 across the Straits Settlements and the western Malay states of Perak, Larut, and Province Wellesley. The article, originally published in *The Ibis* and here reprinted in the JSBRAS, constitutes a systematic account of bird species encountered during military postings, combining precise morphological descriptions with detailed notes on migration timing, breeding phenology, and local Malay hunting practices.

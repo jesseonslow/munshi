@@ -3,8 +3,7 @@ id: dato-paroi-were-tiger
 work_id: jmbras-3-1-p74
 title: Dato’ Paroi, were-tiger
 canonical_name: Dato’ Paroi, were-tiger
-type: article
-article_type: article
+type: publication
 authors:
 - Zainal Abidin bin Ahmad
 year: 1925
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-093-ahmad-datoparoweretiger-1925-992070decea1
 source_path: ../sources/jmalayanras-093-ahmad-datoparoweretiger-1925-992070decea1.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Dato’ Paroi, were-tiger
 
 Zainal Abidin bin Ahmad, a prominent Malay scholar of the 1920s, published this ethnographic account in the *Journal of the Malayan Branch of the Royal Asiatic Society* in 1925, documenting the widespread Negri Sembilan belief in Dato' Paroi as a were-tiger who commands a civilised army of tigers on Gunong Angsi. The article assembles multiple narrative episodes—mythical, anecdotal, and ritual—to present a coherent picture of how this figure functions in local popular religion, culminating in a description of the *Keramat To' Paroi* and its syncretic ceremony. Ahmad's overarching thesis is that the Dato' Paroi complex represents a layered folk belief in which pre-Islamic animist survivals have been partially overlaid with Muslim ritual elements, and that the figure has become a cultural by-word of extraordinary magnitude throughout the "Nine States."

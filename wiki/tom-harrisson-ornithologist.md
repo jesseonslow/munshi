@@ -3,8 +3,7 @@ id: tom-harrisson-ornithologist
 work_id: jmbras-49-1-p143
 title: Tom Harrisson, ornithologist
 canonical_name: Tom Harrisson, ornithologist
-type: article
-article_type: article
+type: publication
 authors:
 - Gathorne Gathorne-Hardy, Lord (Earl of Cranbrook) Medway
 year: 1976
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-229-medway-tomharrissonornithologist-1976-1dc89563e51e
 source_path: ../sources/jmbras-229-medway-tomharrissonornithologist-1976-1dc89563e51e.md
 summarized: true
+publication_type: obituary
 ---
+
 # Tom Harrisson, ornithologist
 
 This is a brief obituary notice by Lord Medway (Gathorne Gathorne-Hardy) commemorating Tom Harrisson's lifelong contribution to ornithology, published in JMBRAS Vol. 49 (1976).

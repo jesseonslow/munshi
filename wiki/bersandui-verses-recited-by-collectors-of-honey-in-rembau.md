@@ -3,8 +3,7 @@ id: bersandui-verses-recited-by-collectors-of-honey-in-rembau
 work_id: jmbras-6-4-p56
 title: 'Bersandui: verses recited by collectors of honey in Rembau'
 canonical_name: _Bersandui:_ verses recited by collectors of honey in Rembau
-type: article
-article_type: article
+type: publication
 authors:
 - O.T. Dussek
 year: 1928
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-105-dussek-bersanduiversesrecited-1928-6bc28e81e7fe
 source_path: ../sources/jmalayanras-105-dussek-bersanduiversesrecited-1928-6bc28e81e7fe.md
 summarized: true
+publication_type: note
 ---
+
 # Bersandui: verses recited by collectors of honey in Rembau
 
 This short note by O.T. Dussek documents a series of Malay verses (bersandui) traditionally recited by honey collectors in Rembau, published in JMBRAS Vol. 6, No. 4 (1928).

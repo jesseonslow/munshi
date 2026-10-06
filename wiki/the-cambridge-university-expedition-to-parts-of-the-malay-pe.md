@@ -5,8 +5,7 @@ title: 'The Cambridge University Expedition to parts of the Malay Peninsula, 189
   personal accounts. W.W. Skeat and F.F. Laidlaw. {Introd. C.A. Gibson-Hill'
 canonical_name: 'The Cambridge University Expedition to parts of the Malay Peninsula,
   1899–1900: personal accounts. W.W. Skeat and F.F. Laidlaw. {Introd. C.A. Gibson-Hill}'
-type: article
-article_type: article
+type: publication
 authors:
 - C.A. Gibson-Hill
 - F.F. Laidlaw
@@ -25,7 +24,9 @@ published: false
 source_doc: jmalayanras-164-gibsonhill-cambridgeuniversityexpedition-1953-c0dbf648fddc
 source_path: ../sources/jmalayanras-164-gibsonhill-cambridgeuniversityexpedition-1953-c0dbf648fddc/frontmatter.md
 summarized: true
+publication_type: document
 ---
+
 # The Cambridge University Expedition to parts of the Malay Peninsula, 1899–1900: personal accounts. W.W. Skeat and F.F. Laidlaw. {Introd. C.A. Gibson-Hill
 
 C. A. Gibson-Hill, W. W. Skeat, and F. F. Laidlaw published in 1953 the personal accounts of the Cambridge University Expedition to the North-Eastern Malay States and Upper Perak, conducted in 1899–1900 under Skeat's leadership. The volume presents Skeat's abridged diary (prepared by Sir Richard Winstedt from a manuscript completed shortly before his death) and Laidlaw's narrative of his time with the main party and his ascent of Gunong Inas, together with Gibson-Hill's introductory survey of the expedition's origins, personnel, and scientific legacy. The overarching significance lies in the extraordinary breadth of ethnographic, zoological, and botanical material gathered from a region then under Siamese suzerainty and largely unexplored by Western science.

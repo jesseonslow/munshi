@@ -5,8 +5,7 @@ title: 'History, literature and social change: Harun Aminurrashid’s independen
   Panglima Awang'
 canonical_name: 'History, literature and social change: Harun Aminurrashid’s independence
   novel _Panglima Awang._'
-type: article
-article_type: article
+type: publication
 authors:
 - V.M. Hooker
 year: 1999
@@ -22,6 +21,7 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+publication_type: journal_article
 ---
 
 # History, literature and social change: Harun Aminurrashid’s independence novel Panglima Awang

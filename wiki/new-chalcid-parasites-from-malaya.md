@@ -3,8 +3,7 @@ id: new-chalcid-parasites-from-malaya
 work_id: jsbras-80-1-p165
 title: New Chalcid parasites from Malaya
 canonical_name: New Chalcid parasites from Malaya
-type: article
-article_type: article
+type: publication
 authors:
 - A.A. Girault
 year: 1919
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-080-girault-newchalcidparasites-1919-dfec5f393985
 source_path: ../sources/jsbras-080-girault-newchalcidparasites-1919-dfec5f393985.md
 summarized: true
+publication_type: note
 ---
+
 # New Chalcid parasites from Malaya
 
 This is a short taxonomic note by A.A. Girault describing new Chalcid parasites from Malaya, based on specimens collected by C.F. Baker, with types deposited in the Raffles Museum, Singapore (p. 165).

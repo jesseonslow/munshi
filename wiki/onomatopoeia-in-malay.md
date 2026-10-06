@@ -3,8 +3,7 @@ id: onomatopoeia-in-malay
 work_id: jmbras-14-3-p72
 title: Onomatopoeia in Malay
 canonical_name: Onomatopoeia in Malay
-type: article
-article_type: article
+type: publication
 authors:
 - R.J. Wilkinson
 year: 1936
@@ -18,6 +17,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: journal_article
 ---
 
 # Onomatopoeia in Malay

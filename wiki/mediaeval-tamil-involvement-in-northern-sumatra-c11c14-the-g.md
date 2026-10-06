@@ -5,8 +5,7 @@ title: Mediaeval Tamil involvement in Northern Sumatra, C11–C14 (The gold and 
   trade
 canonical_name: Mediaeval Tamil involvement in Northern Sumatra, C11–C14 (The gold
   and resin trade)
-type: article
-article_type: article
+type: publication
 authors:
 - E.E. McKinnon
 year: 1996
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-270-mckinnon-mediaevaltamilinvolvement-1996-7f6879c42814
 source_path: ../sources/jmbras-270-mckinnon-mediaevaltamilinvolvement-1996-7f6879c42814/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Mediaeval Tamil involvement in Northern Sumatra, C11–C14 (The gold and resin trade
 
 E. Edwards McKinnon's 1996 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* argues that Tamil merchant guilds, particularly the Ayyavole, established a sustained trading presence in northern Sumatra from the late eleventh to the mid-fourteenth century, exploiting the region's camphor, benzoin, and gold resources through a transinsular network linking the west coast port of Barus to the east coast settlement of Kota Cina. Drawing on inscriptional, archaeological, and ethnolinguistic evidence, McKinnon reconstructs the commercial infrastructure that allowed these guilds to funnel high-value forest products from the Bukit Barisan hinterland to maritime routes connecting southern China, Sri Lanka, and the Red Sea.

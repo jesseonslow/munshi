@@ -4,8 +4,7 @@ work_id: jmbras-79-2-p1
 title: 'Petaling Jaya: The early development and growth of Malaysia’s first New Town'
 canonical_name: 'Petaling Jaya: The early development and growth of Malaysia’s first
   New Town'
-type: article
-article_type: article
+type: publication
 authors:
 - Lee Boon Thong
 year: 2006
@@ -22,7 +21,9 @@ published: false
 source_doc: jmbras-291-thong-petalingjayaearly-2006-26963000ad63
 source_path: ../sources/jmbras-291-thong-petalingjayaearly-2006-26963000ad63/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Petaling Jaya: The early development and growth of Malaysia’s first New Town
 
 Lee Boon Thong (2006) traces the origins and first two decades of Petaling Jaya, Malaysia's first new town, from its inception as a post-war squatter resettlement scheme to its emergence as a thriving middle-class satellite city. The article argues that the original political imperative to resettle squatters for security and social control was rapidly superseded by market forces, middle-class housing demand, and industrial growth, fundamentally altering the town's character from its founding intentions.

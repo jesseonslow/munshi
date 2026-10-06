@@ -5,8 +5,7 @@ title: 'Three domestic workers, two internment camps and a war: a journey from S
   to British India'
 canonical_name: 'Three domestic workers, two internment camps and a war: a journey
   from Singapore to British India'
-type: article
-article_type: article
+type: publication
 authors:
 - C. de Matos
 year: 2020
@@ -32,7 +31,9 @@ keywords:
 - British India
 - British Malaya
 - Chinese overseas
+publication_type: journal_article
 ---
+
 # Three domestic workers, two internment camps and a war: a journey from Singapore to British India
 
 ## Abstract

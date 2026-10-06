@@ -3,8 +3,7 @@ id: from-central-india-to-polynesia
 work_id: jsbras-53-1-p163
 title: From central India to Polynesia
 canonical_name: From central India to Polynesia
-type: article
-article_type: article
+type: publication
 authors:
 - C.O. Blagden
 year: 1909
@@ -27,7 +26,9 @@ published: false
 source_doc: jsbras-053-blagden-centralindiapolynesia-1909-ca25a9f8a9f4
 source_path: ../sources/jsbras-053-blagden-centralindiapolynesia-1909-ca25a9f8a9f4.md
 summarized: true
+publication_type: review
 ---
+
 # From central India to Polynesia
 
 C. O. Blagden's 1909 review in the *Journal of the Straits Branch of the Royal Asiatic Society* evaluates Professor W. Schmidt's 1906 monograph proposing a vast "Austroasiatic" (or "Austric") language family stretching from the Munda languages of Central India through Mon-Khmer, Khasi, Nicobarese, and the aboriginal tongues of the Malay Peninsula to the Malayo-Polynesian family. Blagden, drawing on his own fieldwork among the aboriginal dialects of the Peninsula, endorses the core linguistic argument while mounting a pointed critique of Schmidt's accompanying claim of racial unity among the peoples concerned.

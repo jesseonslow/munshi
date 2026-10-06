@@ -5,8 +5,7 @@ title: 'Stamford Raffles and the ‘founding’ of Singapore: the politics of co
   and dilemmas of history'
 canonical_name: 'Stamford Raffles and the ‘founding’ of Singapore: the politics of
   commemoration and dilemmas of history'
-type: article
-article_type: article
+type: publication
 authors:
 - Huang Jianli
 year: 2018
@@ -31,7 +30,9 @@ keywords:
 - Politics of Commemoration
 - Singapore Story
 - Revisionist history
+publication_type: journal_article
 ---
+
 # Stamford Raffles and the ‘founding’ of Singapore: the politics of commemoration and dilemmas of history
 
 ## Abstract

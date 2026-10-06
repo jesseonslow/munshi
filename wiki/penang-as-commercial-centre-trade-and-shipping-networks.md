@@ -3,8 +3,7 @@ id: penang-as-commercial-centre-trade-and-shipping-networks
 work_id: jmbras-82-2-p25
 title: 'Penang as commercial centre: trade and shipping networks'
 canonical_name: 'Penang as commercial centre: trade and shipping networks'
-type: article
-article_type: article
+type: publication
 authors:
 - Loh Wei Leng
 year: 2009
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-297-leng-penangcommercialcentre-2009-c0cd248f854a
 source_path: ../sources/jmbras-297-leng-penangcommercialcentre-2009-c0cd248f854a/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Penang as commercial centre: trade and shipping networks
 
 Loh Wei Leng's 2009 article, published in the *Journal of the Malaysian Branch of the Royal Asiatic Society* (Vol. 82, Part 2), argues that Penang functioned as the premier commercial centre of the northern littoral of Southeast Asia throughout the colonial, pre-independent era, sustained by dense intra-regional trade and shipping networks rather than merely serving as a feeder port to Singapore. Drawing on port-city theory, Straits Settlements trade statistics, and case studies of Peranakan Chinese merchant families, the article substantiates Penang's role as an entrepot whose hinterland stretched from the Tenasserim coast to northern Sumatra.

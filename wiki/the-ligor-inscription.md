@@ -3,8 +3,7 @@ id: the-ligor-inscription
 work_id: jmbras-22-1-p176
 title: The Ligor inscription
 canonical_name: The Ligor inscription
-type: article
-article_type: article
+type: publication
 authors:
 - R.O. Winstedt
 year: 1949
@@ -18,6 +17,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: note
 ---
 
 # The Ligor inscription

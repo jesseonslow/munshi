@@ -5,8 +5,7 @@ title: 'The journey to the East: 17th and 18th century German travel books as so
   of study'
 canonical_name: 'The journey to the East: 17th and 18th century German travel books
   as sources of study'
-type: article
-article_type: article
+type: publication
 authors:
 - E.U. Kratz
 year: 1981
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-239-kratz-journeyeast17th-1981-4eb98af791a0
 source_path: ../sources/jmbras-239-kratz-journeyeast17th-1981-4eb98af791a0/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The journey to the East: 17th and 18th century German travel books as sources of study
 
 E.U. Kratz published this survey in 1981, examining 37 German-language travel books written by employees of the Dutch East India Company (VOC) during the 17th and 18th centuries. The article argues that while these texts have been dismissed by Dutch historiography as inferior to the Linschoten and Hakluyt series, they offer an irreplaceable window into the lived experience of the common European in the archipelago and the cultural encounter between German-speaking travellers and the peoples of Southeast Asia.

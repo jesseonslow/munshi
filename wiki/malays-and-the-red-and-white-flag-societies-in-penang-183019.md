@@ -3,8 +3,7 @@ id: malays-and-the-red-and-white-flag-societies-in-penang-183019
 work_id: jmbras-72-2-p151
 title: Malays and the red and white flag societies in Penang, 1830–1920s
 canonical_name: Malays and the red and white flag societies in Penang, 1830–1920s
-type: article
-article_type: article
+type: publication
 authors:
 - Mahani Musa
 year: 1999
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-277-musa-malaysredwhite-1999-2cfe36591a70
 source_path: ../sources/jmbras-277-musa-malaysredwhite-1999-2cfe36591a70/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Malays and the red and white flag societies in Penang, 1830–1920s
 
 Mahani Musa's 1999 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* traces the evolution of the Red Flag and White Flag Societies in Penang from the 1830s through the 1920s, arguing that these organizations originated as religious mutual-aid bodies (*jumaah*) among Indian Muslim and Jawi Peranakan communities before being transformed into Chinese-model secret societies through alliance with the Ghee Hin and Toh Peh Kong, and ultimately persisting in criminal and cultural guises until the Japanese Occupation.

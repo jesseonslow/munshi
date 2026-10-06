@@ -3,8 +3,7 @@ id: notes-on-the-educational-policy-of-sir-stamford-raffles
 work_id: jmbras-21-1-p166
 title: Notes on the educational policy of Sir Stamford Raffles
 canonical_name: Notes on the educational policy of Sir Stamford Raffles
-type: article
-article_type: article
+type: publication
 authors:
 - G.G. Hough
 year: 1933
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-117-hough-noteseducationalpolicy-1933-71bc9b9ea6eb
 source_path: ../sources/jmalayanras-117-hough-noteseducationalpolicy-1933-71bc9b9ea6eb.md
 summarized: true
+publication_type: note
 ---
+
 # Notes on the educational policy of Sir Stamford Raffles
 
 G.G. Hough, a lecturer at Raffles College, Singapore, published this article in the *JMBRAS* in 1933, examining two primary documents by Sir Stamford Raffles—a 1819 minute proposing a Malay College and a 1823 minute founding the Singapore Institution—to assess the scope and ambition of Raffles' educational vision for the Malay Archipelago. Hough's central argument is that Raffles' conception, which combined native-language instruction with Western science and local research, was not merely "advanced for its time" but potentially superior to the English-only educational path that Macaulay's 1835 minute would later impose on the region.

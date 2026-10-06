@@ -5,8 +5,7 @@ title: Selections from the Selangor Journal (1892–1897). .M. Gullick. Reprint 
   A short history of the Society
 canonical_name: Selections from the Selangor Journal (1892–1897). .M. Gullick. Reprint
   26. A short history of the Society
-type: article
-article_type: article
+type: publication
 authors:
 - J.M. Gullick
 year: 1995
@@ -24,7 +23,9 @@ summarized: true
 source_mismatch: true
 source_doc: jmbras-269-gullick-shorthistorysociety-1995-0e5faf7a13dc
 source_path: ../sources/appendix.md
+publication_type: reprint
 ---
+
 # Selections from the Selangor Journal (1892–1897). .M. Gullick. Reprint 26. A short history of the Society
 
 J.M. Gullick's "A Short History of the Society" (1995) traces the institutional history of the Malaysian Branch of the Royal Asiatic Society from its founding in 1877 through the early 1990s, arguing that the Society's fortunes were shaped by the interplay between the availability of capable office-holders, the shifting balance of scholarly interests in its Journal, and the broader political and academic transformations of the Malay world. The paper was substantially prepared by the late Dr Mubin Sheppard, who did not live to complete it, and it draws on the Society's own records, annual reports, and the contents of its Journal.

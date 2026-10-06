@@ -3,8 +3,7 @@ id: visit-to-kelantan-and-southern-siam-in-1888
 work_id: jmbras-91-1-p93
 title: Visit to Kelantan and southern Siam in 1888
 canonical_name: Visit to Kelantan and southern Siam in 1888. f
-type: article
-article_type: article
+type: publication
 authors:
 - C.F. Bozzolo
 year: 2018
@@ -32,7 +31,9 @@ keywords:
 - Patani
 - Malaya
 - Siam
+publication_type: journal_article
 ---
+
 # Visit to Kelantan and southern Siam in 1888
 
 C. F. Bozzolo, an Italian-born official in the British administrative service in Perak, travelled overland from Upper Perak through Kelantan, Negri Say, Reman, Legais, and the Tomoh gold mines between April and July 1888, producing a detailed report on the political, economic, and social conditions of these Siamese tributary states. The journey was undertaken at the request of the Governor of the Straits Settlements to explore a practicable route of communication between Perak and Kelantan via the Plus Valley, and to assess the unresolved boundary dispute between Perak and the northern Malay states.

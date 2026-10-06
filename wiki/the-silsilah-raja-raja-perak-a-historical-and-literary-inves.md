@@ -5,8 +5,7 @@ title: The Silsilah Raja-Raja Perak, a historical and literary investigation int
   the political significance of a Malay court genealogy
 canonical_name: The _Silsilah Raja-Raja Perak,_ a historical and literary investigation
   into the political significance of a Malay court genealogy
-type: article
-article_type: article
+type: publication
 authors:
 - A. Ceridwen
 year: 2001
@@ -20,6 +19,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: journal_article
 ---
 
 # The Silsilah Raja-Raja Perak, a historical and literary investigation into the political significance of a Malay court genealogy

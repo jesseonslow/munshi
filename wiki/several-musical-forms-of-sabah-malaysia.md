@@ -3,8 +3,7 @@ id: several-musical-forms-of-sabah-malaysia
 work_id: jmbras-49-2-p156
 title: Several musical forms of Sabah, Malaysia
 canonical_name: Several musical forms of Sabah, Malaysia
-type: article
-article_type: article
+type: publication
 authors:
 - E.M. Frame
 year: 1976
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-229-annualreportmalaysian-1976-f1d4150b8fac
 source_path: ../sources/jmbras-229-annualreportmalaysian-1976-f1d4150b8fac.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Several musical forms of Sabah, Malaysia
 
 E.M. Frame's "Several musical forms of Sabah, Malaysia" (1976) is an ethnomusicological survey of traditional musical practices in the state of Sabah on the island of Borneo. Published in the *Journal of the Malaysian Branch of the Royal Asiatic Society*, the article documents and categorises the diverse musical forms found among Sabah's various ethnic groups, reflecting the cultural plurality of the region.

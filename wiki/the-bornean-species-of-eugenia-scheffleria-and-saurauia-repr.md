@@ -5,8 +5,7 @@ title: The Bornean species of Eugenia, Scheffleria, and Saurauia represented in 
   Singapore herbarium
 canonical_name: The Bornean species _of Eugenia, Scheffleria,_ and _Saurauia_ represented
   in the Singapore herbarium
-type: article
-article_type: article
+type: publication
 authors:
 - E.D. Merrill
 year: 1918
@@ -23,7 +22,9 @@ published: false
 source_doc: jsbras-079-merrill-borneanspecieseugenia-1918-c748cbd4ac60
 source_path: ../sources/jsbras-079-merrill-borneanspecieseugenia-1918-c748cbd4ac60.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The Bornean species of Eugenia, Scheffleria, and Saurauia represented in the Singapore herbarium
 
 E.D. Merrill published this taxonomic revision of three Myrtaceae and Saurauiaceae genera in 1918, working from specimens held in the Singapore Herbarium to document and describe the Bornean flora of *Eugenia*, *Schefflera*, and *Saurauia*. The paper establishes the known species lists for each genus in Borneo and introduces fourteen new species, drawing heavily on the extensive Sarawak collections of Haviland and Ridley.

@@ -3,8 +3,7 @@ id: singing-pre-history
 work_id: jmbras-22-1-p123
 title: Singing pre-history
 canonical_name: Singing pre-history
-type: article
-article_type: article
+type: publication
 authors:
 - Tom Harrisson
 year: 1949
@@ -18,6 +17,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: journal_article
 ---
 
 # Singing pre-history

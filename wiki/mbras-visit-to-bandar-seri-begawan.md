@@ -3,8 +3,7 @@ id: mbras-visit-to-bandar-seri-begawan
 work_id: jmbras-86-2-p89
 title: MBRAS visit to Bandar Seri Begawan
 canonical_name: MBRAS visit to Bandar Seri Begawan
-type: article
-article_type: article
+type: publication
 authors:
 - Neil Khor Jin Keong
 year: 2013
@@ -24,7 +23,9 @@ contributors:
 - id: neil-khor-jin-keong
   name: Neil Khor Jin Keong
 summarized: true
+publication_type: note
 ---
+
 # MBRAS visit to Bandar Seri Begawan
 
 This is a brief report by Neil Khor Jin Keong documenting the 2013 MBRAS Council visit to Bandar Seri Begawan, Brunei, led by President Tun Hanif Omar and organized by PM Dato' Shariffudin.

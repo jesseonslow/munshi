@@ -5,8 +5,7 @@ title: Social history and evolution in the interrelations of adat and Islam in R
   Negeri Sembilan. M.G. Peletz. {Reviwed Khoo Kay Kim
 canonical_name: Social history and evolution in the interrelations of _adat_ and Islam
   in Rembau, Negeri Sembilan. M.G. Peletz. {Reviwed Khoo Kay Kim}
-type: article
-article_type: article
+type: publication
 authors:
 - Khoo Kay Kim
 year: 1981
@@ -20,6 +19,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: review
 ---
 
 # Social history and evolution in the interrelations of adat and Islam in Rembau, Negeri Sembilan. M.G. Peletz. {Reviwed Khoo Kay Kim

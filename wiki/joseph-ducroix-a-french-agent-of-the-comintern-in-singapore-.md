@@ -3,8 +3,7 @@ id: joseph-ducroix-a-french-agent-of-the-comintern-in-singapore-
 work_id: jmbras-69-1-p1
 title: Joseph Ducroix, a French agent of the Comintern in Singapore (1931–1932
 canonical_name: Joseph Ducroix, a French agent of the Comintern in Singapore (1931–1932)
-type: article
-article_type: article
+type: publication
 authors:
 - L. Metzger
 year: 1996
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-270-metzger-josephducrouxfrench-1996-14f2e852c419
 source_path: ../sources/jmbras-270-metzger-josephducrouxfrench-1996-14f2e852c419.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Joseph Ducroix, a French agent of the Comintern in Singapore (1931–1932
 
 Laurent Metzger's 1996 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* reconstructs the brief and ultimately failed mission of Joseph Ducroux, a young French Comintern agent who arrived in Singapore in April 1931 under the false identity of Serge Lefranc and was arrested within a month. Drawing on British colonial records, French police archives, Ducroux's own unpublished diary, and two Malay-language novels of the period, Metzger argues that Ducroux was a minor figure whose significance was deliberately inflated by the Singapore authorities for political and inter-imperial reasons, and that the degree of intelligence collaboration between British, French, and other colonial powers in the region has been substantially underappreciated in the historiography.

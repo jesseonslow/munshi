@@ -3,8 +3,7 @@ id: robert-farquhar-in-the-malay-world
 work_id: jmbras-51-2-p123
 title: Robert Farquhar in the Malay world
 canonical_name: Robert Farquhar in the Malay world
-type: article
-article_type: article
+type: publication
 authors:
 - W.G. Miller
 year: 1978
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-234-miller-robertfarquharmalay-1978-f1b33757254b
 source_path: ../sources/jmbras-234-miller-robertfarquharmalay-1978-f1b33757254b.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Robert Farquhar in the Malay world
 
 This article by W.G. Miller, published in the *Journal of the Malaysian Branch of the Royal Asiatic Society* (Vol. 51, No. 2, 1978, pp. 123–138), examines the role and contributions of Robert Farquhar in the Malay world.

@@ -3,8 +3,7 @@ id: old-singapore
 work_id: jmbras-13-2-p17
 title: Old Singapore
 canonical_name: Old Singapore
-type: article
-article_type: article
+type: publication
 authors:
 - R.J. Wilkinson
 year: 1935
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-122-wilkinson-oldsingapore-1935-89a4f0e870b6
 source_path: ../sources/jmalayanras-122-wilkinson-oldsingapore-1935-89a4f0e870b6.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Old Singapore
 
 R.J. Wilkinson, a senior colonial administrator (C.M.G.), published "Old Singapore" in 1935 as a compact survey of the island's pre-colonial history, drawing on the Malay Annals, Chinese diplomatic records, and early British-era accounts to trace the settlement from its legendary founding through its destruction by Majapahit and its subsequent decline into a haunt of sea-gypsies. The article's overarching concern is to recover what physical and textual evidence survives of the old Malay polity of Tumasik and to assess the reliability of the traditions surrounding it.

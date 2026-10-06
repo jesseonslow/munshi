@@ -3,8 +3,7 @@ id: are-cockatoos-carnivorous-nq-1-14
 work_id: jsbras-14-are-cockatoos-carnivorous-nq-1
 title: 'Are cockatoos carnivorous? NQ 1: 14'
 canonical_name: 'Are cockatoos carnivorous? NQ 1: 14'
-type: article
-article_type: notes_and_queries
+type: publication
 authors:
 - N.B. Dennys
 year: 1884
@@ -18,6 +17,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: note
 ---
 
 # Are cockatoos carnivorous? NQ 1: 14

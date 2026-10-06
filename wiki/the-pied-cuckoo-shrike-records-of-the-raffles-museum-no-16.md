@@ -3,8 +3,7 @@ id: the-pied-cuckoo-shrike-records-of-the-raffles-museum-no-16
 work_id: jmbras-4-1-p158
 title: The pied cuckoo-shrike. Records of the Raffles Museum, No. 16
 canonical_name: The pied cuckoo-shrike. Records of the Raffles Museum, No. 16
-type: article
-article_type: article
+type: publication
 authors:
 - C.B. Kloss
 year: 1926
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-096-kloss-piedcuckooshrike-1926-0d8e8c77a8f7
 source_path: ../sources/jmalayanras-096-kloss-piedcuckooshrike-1926-0d8e8c77a8f7.md
 summarized: true
+publication_type: note
 ---
+
 # The pied cuckoo-shrike. Records of the Raffles Museum, No. 16
 
 C.B. Kloss (1926) presents a taxonomic revision of the subspecies of the Pied Cuckoo-Shrike *Lalage nigra*, correcting errors in Stuart Baker's 1923 treatment and establishing a new name for the Nicobar form (p. 158).

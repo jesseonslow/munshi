@@ -3,8 +3,7 @@ id: on-some-coins-found-near-seremban
 work_id: jmbras-7-3-p467
 title: On some coins found near Seremban
 canonical_name: On some coins found near Seremban
-type: article
-article_type: article
+type: publication
 authors:
 - J.B. Neilson
 year: 1929
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-108-neilson-coinsfoundnear-1929-73fdb7e10902
 source_path: ../sources/jmalayanras-108-neilson-coinsfoundnear-1929-73fdb7e10902.md
 summarized: true
+publication_type: note
 ---
+
 # On some coins found near Seremban
 
 "On Some Coins Found Near Seremban" is a short note by J. B. Neilson describing a collection of forty-four copper coins and eight Chinese tokens recovered from tin-washing operations on the property of Seremban Tin, Limited, approximately five miles from Seremban (p. 466).

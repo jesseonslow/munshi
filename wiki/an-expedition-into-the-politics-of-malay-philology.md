@@ -3,8 +3,7 @@ id: an-expedition-into-the-politics-of-malay-philology
 work_id: jmbras-76-1-p1
 title: An expedition into the politics of Malay philology
 canonical_name: An expedition into the politics of Malay philology
-type: article
-article_type: article
+type: publication
 authors:
 - I. Proudfoot
 year: 2003
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-284-proudfoot-expeditionpoliticsmalay-2003-59384da4f4b7
 source_path: ../sources/jmbras-284-proudfoot-expeditionpoliticsmalay-2003-59384da4f4b7/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # An expedition into the politics of Malay philology
 
 Ian Proudfoot's 2003 article examines a 1821 manuscript-collecting expedition dispatched by the Dutch colonial administration in Malacca, arguing that Malay philology has been fundamentally shaped by the political interests of its patrons and the material fragility of the manuscript tradition it studies. Drawing on recently identified documents in the Houghton Library, Harvard, Proudfoot reconstructs the circumstances, motives, and outcome of the expedition to expose how colonial competition and bureaucratic imperatives determined which texts were collected, preserved, or lost.

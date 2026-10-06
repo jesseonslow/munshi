@@ -5,8 +5,7 @@ title: 'In Alfred Russel Wallace’s shadow: his forgotten assistant: Charles Al
   (1839–1892'
 canonical_name: 'In Alfred Russel Wallace’s shadow: his forgotten assistant: Charles
   Allen (1839–1892)'
-type: article
-article_type: article
+type: publication
 authors:
 - L.C. Rookmaaker
 - John van Wyhe
@@ -24,7 +23,9 @@ published: false
 source_doc: jmbras-303-rookmaaker-alfredrusselwallaces-2012-5755224cdecd
 source_path: ../sources/jmbras-303-rookmaaker-alfredrusselwallaces-2012-5755224cdecd/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # In Alfred Russel Wallace’s shadow: his forgotten assistant: Charles Allen (1839–1892)
 
 Kees Rookmaaker and John van Wyhe (2012) reconstruct the life of Charles Martin Allen (1839–1892), the largely forgotten assistant who accompanied Alfred Russel Wallace to the Malay Archipelago in 1854 and later worked independently as a collector across the Moluccas and New Guinea. Drawing on Wallace's financial notebooks, Singapore newspaper obituaries, Straits Directories, and church baptismal records, the authors demonstrate that Allen's contribution to Wallace's collecting enterprise was far more substantial than previously acknowledged and that his post-Wallace career as a mining engineer and estate manager in Singapore constitutes a previously unexplored chapter in the social history of the colony.

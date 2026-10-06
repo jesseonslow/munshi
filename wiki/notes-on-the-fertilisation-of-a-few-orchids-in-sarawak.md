@@ -3,8 +3,7 @@ id: notes-on-the-fertilisation-of-a-few-orchids-in-sarawak
 work_id: jsbras-54-1-p99
 title: Notes on the fertilisation of a few orchids in Sarawak
 canonical_name: Notes on the fertilisation of a few orchids in Sarawak
-type: article
-article_type: article
+type: publication
 authors:
 - C.J. Brooks
 year: 1910
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-054-brooks-notesfertilisationorchids-1910-e9b1c0985292
 source_path: ../sources/jsbras-054-brooks-notesfertilisationorchids-1910-e9b1c0985292.md
 summarized: true
+publication_type: note
 ---
+
 # Notes on the fertilisation of a few orchids in Sarawak
 
 C.J. Brooks and John Hewitt published this field study in 1910, documenting the pollination ecology of several orchid species in Sarawak and demonstrating that the elaborate floral structures of large-flowered orchids are far less effective at securing insect pollination than their morphology would suggest, with many species relying on self-fertilisation or vegetative reproduction rather than the cross-fertilisation their flowers appear designed to achieve.

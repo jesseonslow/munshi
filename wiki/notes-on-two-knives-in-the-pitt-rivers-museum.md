@@ -3,8 +3,7 @@ id: notes-on-two-knives-in-the-pitt-rivers-museum
 work_id: jmbras-20-2-p39
 title: Notes on two knives in the Pitt-Rivers Museum
 canonical_name: Notes on two knives in the Pitt-Rivers Museum
-type: article
-article_type: article
+type: publication
 authors:
 - G.C. Woolley
 year: 1947
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-143-woolley-notestwoknives-1947-52468ff9cd8c
 source_path: ../sources/jmalayanras-143-woolley-notestwoknives-1947-52468ff9cd8c.md
 summarized: true
+publication_type: note
 ---
+
 # Notes on two knives in the Pitt-Rivers Museum
 
 G.C. Woolley's brief note examines two weapons in the Pitt-Rivers Museum, Oxford, questioning the identification of both as *keris* and arguing for their reclassification based on morphological and functional evidence.

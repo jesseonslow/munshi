@@ -4,8 +4,7 @@ work_id: jmbras-31-1-p163
 title: Five early watercolour sketches of Penang & Malacca. J. Bastin and C.A. Gibson-Hill
 canonical_name: Five early watercolour sketches of Penang & Malacca. J. Bastin and
   C.A. Gibson-Hill
-type: article
-article_type: article
+type: publication
 authors:
 - J.S. Bastin
 - C.A. Gibson-Hill
@@ -23,7 +22,9 @@ published: false
 source_doc: jmalayanras-181-bastin-fiveearlywatercolour-1958-1d00c8c49113
 source_path: ../sources/jmalayanras-181-bastin-fiveearlywatercolour-1958-1d00c8c49113.md
 summarized: true
+publication_type: note
 ---
+
 # Five early watercolour sketches of Penang & Malacca. J. Bastin and C.A. Gibson-Hill
 
 J.S. Bastin and C.A. Gibson-Hill published this short note in 1958, identifying and reproducing five watercolour sketches of Penang and Malacca executed by the American-born artist Augustus Earle in late 1828 during his passage from Sydney to Madras via the Straits Settlements. The article's central thesis is that these works, now held in the Nan Kivell collection at the Commonwealth National Library, Canberra, constitute reasonably authentic visual records of the settlements at a formative moment in their colonial development, and that the absence of a Singapore sketch from the surviving collection may be explained by its sale to the panorama trade.

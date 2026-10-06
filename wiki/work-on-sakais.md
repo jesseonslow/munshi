@@ -3,8 +3,7 @@ id: work-on-sakais
 work_id: jsbras-39-1-p204
 title: Work on Sakais
 canonical_name: Work on Sakais
-type: article
-article_type: research_note
+type: publication
 authors:
 - H.N. Ridley
 year: 1903
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-039-r-worksakaismessrs-1903-bcb95acc9313
 source_path: ../sources/jsbras-039-r-worksakaismessrs-1903-bcb95acc9313.md
 summarized: true
+publication_type: note
 ---
+
 # Work on Sakais
 
 H. N. Ridley's brief notice (p. 204) announces the forthcoming publication of a comprehensive work on the Sakai (wild tribes) of the Malay Peninsula by W. W. Skeat and C. O. Blagden.

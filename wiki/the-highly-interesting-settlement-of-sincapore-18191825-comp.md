@@ -4,8 +4,7 @@ work_id: jmbras-92-1-p91
 title: The “highly interesting” settlement of “Sincapore”, 1819–1825. Comp. P.H. Kratoska
 canonical_name: The “highly interesting” settlement of “Sincapore”, 1819–1825. Comp.
   P.H. Kratoska
-type: article
-article_type: article
+type: publication
 authors:
 - Various
 year: 2019
@@ -22,7 +21,9 @@ published: false
 source_doc: jmbras-316-documentssingaporehistory-2019-89362cce5cf3
 source_path: ../sources/jmbras-316-documentssingaporehistory-2019-89362cce5cf3.md
 summarized: true
+publication_type: document
 ---
+
 # The “highly interesting” settlement of “Sincapore”, 1819–1825. Comp. P.H. Kratoska
 
 Paul Kratoska's compilation, published in the *Journal of the Malaysian Branch of the Royal Asiatic Society* in 2019, assembles contemporary accounts of Singapore's founding and first six years (1819–1825) drawn from Indian periodicals, a parliamentary select committee report, and East India Company proceedings. The documents collectively trace the settlement's rapid commercial rise, the intense Dutch opposition to its existence, and the eventual resolution of sovereignty through the 1824 Anglo-Dutch Treaty.

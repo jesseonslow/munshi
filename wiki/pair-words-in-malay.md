@@ -3,8 +3,7 @@ id: pair-words-in-malay
 work_id: jmbras-5-2-p324
 title: Pair-words in Malay
 canonical_name: Pair-words in Malay
-type: article
-article_type: article
+type: publication
 authors:
 - Zainal Abidin bin Ahmad
 year: 1927
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-100-ahmad-pairwordsmalay-1927-4abafda30e3a
 source_path: ../sources/jmalayanras-100-ahmad-pairwordsmalay-1927-4abafda30e3a.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Pair-words in Malay
 
 Zainu'l-Abidin bin Ahmad published "Pair-Words in Malay" in 1927 in the *Journal of the Malayan Branch of the Royal Asiatic Society* (Vol. V, No. 2), offering a systematic lexicographical catalogue of 120 fixed two-word set-phrases in the Malay language. The article's overarching thesis is that these pair-words—broadly divisible into alliterative and non-alliterative classes—serve three distinct semantic functions: intensification of a primary word, implication of indefinite repetition or continuity, and expression of universal inclusion across kinds and species.

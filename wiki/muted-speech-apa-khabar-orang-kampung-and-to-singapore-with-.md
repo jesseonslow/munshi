@@ -4,8 +4,7 @@ work_id: jmbras-90-1-p113
 title: Muted speech, Apa Khabar Orang Kampung , and To Singapore, with Love
 canonical_name: Muted speech, _Apa Khabar Orang Kampung_ , and _To Singapore, with
   Love_
-type: article
-article_type: article
+type: publication
 authors:
 - F.-T. Hsu
 year: 2017
@@ -27,7 +26,9 @@ keywords:
 - documentary film
 - Tan Pin Pin
 - Amir Muhammad
+publication_type: journal_article
 ---
+
 # Muted speech, Apa Khabar Orang Kampung , and To Singapore, with Love
 
 ## Abstract

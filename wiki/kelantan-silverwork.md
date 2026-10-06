@@ -3,8 +3,7 @@ id: kelantan-silverwork
 work_id: jmbras-24-1-p99
 title: Kelantan silverwork
 canonical_name: Kelantan silverwork
-type: article
-article_type: article
+type: publication
 authors:
 - A.H. Hill
 year: 1951
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: true
 source_doc: jmalayanras-154-hill-kelantansilverwork-1951-eee39ceb6cf6
 source_path: ../sources/references.md
+publication_type: journal_article
 ---
+
 # Kelantan silverwork
 
 A.H. Hill, a scientist with training in both arts and sciences (M.A., B.Sc.), published this detailed technical and ethnographic study of Kelantan silverwork in the *Journal of the Malayan Branch of the Royal Asiatic Society* in 1951, documenting the craft's traditional techniques, patterns, and its revival under the Kelantan Arts and Crafts Depot in the early 1950s. The article argues that Kelantan silverwork constitutes a distinctive artistic tradition—superior in originality and workmanship to comparable Malay and Siamese production—rooted in feudal royal patronage and sustained through conservative but skilled craftsmanship.

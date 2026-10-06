@@ -3,8 +3,7 @@ id: the-java-system
 work_id: jsbras-11-1-p155
 title: The Java system
 canonical_name: The Java system
-type: article
-article_type: article
+type: publication
 authors:
 - A.M. Skinner
 year: 1883
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-011-skinner-javasystem-1883-2527a3e955f1
 source_path: ../sources/jsbras-011-skinner-javasystem-1883-2527a3e955f1.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The Java system
 
 A.M. Skinner's 1883 article in the JSBRAS examines the Dutch colonial administration of Java through a critical review of two key sources: Mr. Money's *Java; or, How to Manage a Colony* (1861) and Dr. C.P.K. Winckel's 1880 French-language legal essay on the administration of justice in the Dutch East Indies. Skinner's overarching thesis is that while the Dutch "culture system" achieved notable fiscal success, the indigenous judicial autonomy it preserved was fundamentally unjust and incompatible with European standards of equity, a conclusion drawn from Winckel's firsthand legal practice in Samarang.

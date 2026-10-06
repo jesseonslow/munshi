@@ -4,8 +4,7 @@ work_id: jmbras-4-1-p167
 title: Peripatus in the Malay Peninsula. Records of the Raffles Museum, No. 21
 canonical_name: _Peripatus_ in the Malay Peninsula. Records of the Raffles Museum,
   No. 21
-type: article
-article_type: article
+type: publication
 authors:
 - C.B. Kloss
 - H.N. Ridley
@@ -23,7 +22,9 @@ published: false
 source_doc: jmalayanras-096-kloss-peripatusmalaypeninsula-1926-bd0254bc91b8
 source_path: ../sources/jmalayanras-096-kloss-peripatusmalaypeninsula-1926-bd0254bc91b8.md
 summarized: true
+publication_type: note
 ---
+
 # Peripatus in the Malay Peninsula. Records of the Raffles Museum, No. 21
 
 This brief museum record by C. Boden Kloss documents two specimens of *Peripatus* (velvet worms) held in the Raffles Museum, determined by Professor W. J. Dakin as representing the two species then known from the Malay Peninsula (p. 167).

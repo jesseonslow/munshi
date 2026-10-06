@@ -3,8 +3,7 @@ id: three-early-keris
 work_id: jsbras-62-1-p22
 title: Three early keris
 canonical_name: Three early keris
-type: article
-article_type: article
+type: publication
 authors:
 - R.O. Winstedt
 year: 1912
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-062-winstedt-threeearlykris-1912-905c088eeac6
 source_path: ../sources/jsbras-062-winstedt-threeearlykris-1912-905c088eeac6.md
 summarized: true
+publication_type: note
 ---
+
 # Three early keris
 
 This short note by R. O. Winstedt describes three early keris in the Ashmolean Museum, Oxford, which he identifies as probably the earliest authenticated specimens in any English collection (p. 22).

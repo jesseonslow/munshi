@@ -3,8 +3,7 @@ id: the-putri-gunong-ledang
 work_id: jsbras-32-1-p213
 title: The Putri Gunong Ledang
 canonical_name: The Putri Gunong Ledang
-type: article
-article_type: article
+type: publication
 authors:
 - R.J. Wilkinson
 year: 1899
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-032-wilkinson-putrigunongledang-1899-b5b4fc5701af
 source_path: ../sources/jsbras-032-wilkinson-putrigunongledang-1899-b5b4fc5701af.md
 summarized: true
+publication_type: note
 ---
+
 # The Putri Gunong Ledang
 
 This short note by R. J. Wilkinson records the Malay legend of the Putri Gunong Ledang (Fairy Princess of Mt. Ophir), as told to him by a local informant.

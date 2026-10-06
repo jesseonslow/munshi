@@ -3,8 +3,7 @@ id: the-title-sang-nq-3-64
 work_id: jsbras-16-the-title-sang-nq-3-64
 title: 'The title “Sang”. NQ 3: 64'
 canonical_name: 'The title “Sang”. NQ 3: 64'
-type: article
-article_type: notes_and_queries
+type: publication
 authors:
 - Hale A
 year: 1885
@@ -18,6 +17,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: note
 ---
 
 # The title “Sang”. NQ 3: 64

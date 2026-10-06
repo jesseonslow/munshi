@@ -3,8 +3,7 @@ id: hermanus-neubronner-van-der-tuuk
 work_id: jsbras-57-1-p190
 title: Hermanus Neubronner Van Der Tuuk
 canonical_name: Hermanus Neubronner Van Der Tuuk
-type: article
-article_type: article
+type: publication
 authors:
 - C.O. Blagden
 - F.F. Laidlaw
@@ -23,7 +22,9 @@ summarized: true
 source_mismatch: false
 source_doc: jsbras-057-blagden-hermanusneubronnervan-1911-c011419ca519
 source_path: ../sources/jsbras-057-blagden-hermanusneubronnervan-1911-c011419ca519.md
+publication_type: note
 ---
+
 # Hermanus Neubronner Van Der Tuuk
 
 This is a brief note by C. O. Blagden on Hermanus Neubronner Van Der Tuuk, published in the *Journal of the Straits Branch of the Royal Asiatic Society*, Vol. 57 (1911), p. 190.

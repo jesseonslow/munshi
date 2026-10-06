@@ -3,8 +3,7 @@ id: on-going-into-the-field
 work_id: jmbras-85-2-p103
 title: On going into the field
 canonical_name: On going into the field
-type: article
-article_type: article
+type: publication
 authors:
 - W.R. Roff
 year: 2012
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-303-roff-goingfield-2012-8bf6afd7fb29
 source_path: ../sources/jmbras-303-roff-goingfield-2012-8bf6afd7fb29.md
 summarized: true
+publication_type: journal_article
 ---
+
 # On going into the field
 
 William R. Roff's 2012 memoir recounts his first fieldwork in Malaya in the late 1950s, undertaken as a graduate student from the Australian National University researching what would become *The Origins of Malay Nationalism*. The article's central argument is that an anthropological approach to historical research—living within a community before turning to documents—proved indispensable to his understanding of Malay society and, ultimately, to the archival discoveries that underpinned his published work.

@@ -3,8 +3,7 @@ id: hikayat-sultan-bustaman
 work_id: jmbras-9-1-p35
 title: Hikayat Sultan Bustaman
 canonical_name: _Hikayat Sultan Bustaman._
-type: article
-article_type: article
+type: publication
 authors:
 - H. Overbeck
 year: 1931
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-111-overbeck-hikayatsultanbustamam-1931-3eb70ed7d7a2
 source_path: ../sources/jmalayanras-111-overbeck-hikayatsultanbustamam-1931-3eb70ed7d7a2.md
 summarized: true
+publication_type: translation
 ---
+
 # Hikayat Sultan Bustaman
 
 H. Overbeck published this detailed synopsis of the *Hikayat Sultan Bustamam* in 1931, presenting a Malay literary text of Indian origin that narrates the legendary spread of Islam across a fictionalized India. Overbeck's overarching purpose is twofold: to facilitate the tracing of the text's Indian source and to contribute to the still-sparse scholarly knowledge of the legends woven around Islam's conquest of the subcontinent.

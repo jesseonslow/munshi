@@ -3,8 +3,7 @@ id: concerning-some-old-sanskrit-inscriptions-in-the-malay-penin
 work_id: jsbras-49-1-p95
 title: Concerning some old Sanskrit inscriptions in the Malay Peninsula
 canonical_name: Concerning some old Sanskrit inscriptions in the Malay Peninsula
-type: article
-article_type: article
+type: publication
 authors:
 - H. Kern
 year: 1907
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-049-kern-concerningoldsanskrit-1907-2f7b54a99fd9
 source_path: ../sources/jsbras-049-kern-concerningoldsanskrit-1907-2f7b54a99fd9.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Concerning some old Sanskrit inscriptions in the Malay Peninsula
 
 H. Kern, a professor at the Koninklijke Akademie van Wetenschappen in the Netherlands, published this article in 1907 as a contribution to the Straits Branch of the Royal Asiatic Society. Working from facsimiles of inscriptions discovered by Colonel J. R. M. Low in the Malay Peninsula, Kern argues that the earliest of these records—particularly the pillar inscription naming the shipowner Buddhagupta—dates to approximately the fourth century A.D., making it the oldest Buddhist epigraphic evidence yet found in the region and demonstrating the presence of organised Buddhist establishments and maritime trade networks in the Malay Peninsula far earlier than previously established.

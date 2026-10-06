@@ -3,8 +3,7 @@ id: notes-on-the-flying-frog-rhacophorus-nigropalmatus
 work_id: jsbras-34-1-p96
 title: Notes on the flying frog Rhacophorus nigropalmatus
 canonical_name: Notes on the flying frog _Rhacophorus nigropalmatus._
-type: article
-article_type: article
+type: publication
 authors:
 - Hanitsch R
 year: 1900
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-034-hanitsch-notesflyingfrog-1900-a682ed650d9d
 source_path: ../sources/jsbras-034-hanitsch-notesflyingfrog-1900-a682ed650d9d.md
 summarized: true
+publication_type: note
 ---
+
 # Notes on the flying frog Rhacophorus nigropalmatus
 
 This short note by R. Hanitsch describes a third recorded specimen of the flying frog *Rhacophorus nigropalmatus*, a male obtained by A. D. Machado from Kuala Merbao, Ulu Pahang, in January 1899.

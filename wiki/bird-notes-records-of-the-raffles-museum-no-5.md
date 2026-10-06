@@ -3,8 +3,7 @@ id: bird-notes-records-of-the-raffles-museum-no-5
 work_id: jmbras-2-1-p68
 title: Bird notes. Records of the Raffles Museum, No. 5
 canonical_name: Bird notes. Records of the Raffles Museum, No. 5
-type: article
-article_type: article
+type: publication
 authors:
 - F.N. Chasen
 year: 1924
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-090-chasen-birdnotes-1924-71fde6d72023
 source_path: ../sources/jmalayanras-090-chasen-birdnotes-1924-71fde6d72023.md
 summarized: true
+publication_type: note
 ---
+
 # Bird notes. Records of the Raffles Museum, No. 5
 
 This short note by F. N. Chasen, Keeper of Birds at the Raffles Museum, records several ornithological observations from Singapore and the Malay Peninsula, including measurements of *Zosterops natalis*, records of introduced and escaped cage birds in Singapore, a new mainland record of *Delichon urbica dasypus*, and an assessment of the local status of *Oceanodroma monorhis* at Horsburgh Lighthouse (p. 68).

@@ -3,8 +3,7 @@ id: a-list-of-the-ferns-of-the-malay-peninsula
 work_id: jsbras-50-1-p1
 title: A list of the ferns of the Malay Peninsula
 canonical_name: A list of the ferns of the Malay Peninsula
-type: article
-article_type: article
+type: publication
 authors:
 - H.N. Ridley
 year: 1908
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: false
 source_doc: jsbras-050-ridley-listfernsmalay-1908-34d63a703d1e
 source_path: ../sources/jsbras-050-ridley-listfernsmalay-1908-34d63a703d1e.md
+publication_type: journal_article
 ---
+
 # A list of the ferns of the Malay Peninsula
 
 H. N. Ridley, the long-serving Director of the Singapore Botanic Gardens, published this comprehensive checklist of 382 fern species recorded from the Malay Peninsula in 1908, following the taxonomic arrangement of Beddome's *Ferns of British India*. The work synthesizes collections from Scortechini, Day, Kunstler, Hullett, Bishop Hose, Curtis, and earlier collectors such as Wallich and Cuming, while flagging large tracts of the peninsula—particularly the northern states and the east coast lowlands—as still largely uninvestigated.

@@ -3,8 +3,7 @@ id: valentijns-copy-of-the-sejarah-melayu
 work_id: jmbras-18-2-p151
 title: Valentijn’s copy of the Sejarah Melayu
 canonical_name: Valentijn’s copy of the Sejarah Melayu
-type: article
-article_type: article
+type: publication
 authors:
 - R.O. Winstedt
 year: 1940
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-138-winstedt-valentijnscopysjarah-1940-d81c73cd2b53
 source_path: ../sources/jmalayanras-138-winstedt-valentijnscopysjarah-1940-d81c73cd2b53.md
 summarized: true
+publication_type: note
 ---
+
 # Valentijn’s copy of the Sejarah Melayu
 
 This short note by R.O. Winstedt demonstrates that the Dutch orientalist François Valentijn (1666–1727) used the older Malacca text of the *Sejarah Melayu* rather than the Johore recension, based on a comparison of rulers' names, ages, and reign lengths.

@@ -3,8 +3,7 @@ id: the-endau-and-its-tributaries
 work_id: jsbras-8-1-p93
 title: The Endau and its tributaries
 canonical_name: The Endau and its tributaries
-type: article
-article_type: article
+type: publication
 authors:
 - D.F.A. Hervey
 year: 1881
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: true
 source_doc: jsbras-008-hervey-ndautributaries-1881-db65358dedf4
 source_path: ../sources/jsbras-008-hervey-ndautributaries-1881-db65358dedf4.md
+publication_type: journal_article
 ---
+
 # The Endau and its tributaries
 
 

@@ -3,8 +3,7 @@ id: a-note-on-the-small-boats-of-the-rhio-and-lingga-archipelago
 work_id: jmbras-24-1-p121
 title: A note on the small boats of the Rhio and Lingga Archipelago
 canonical_name: A note on the small boats of the Rhio and Lingga Archipelago
-type: article
-article_type: article
+type: publication
 authors:
 - C.A. Gibson-Hill
 year: 1951
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-154-gibsonhill-notesmallboats-1951-bee86432f402
 source_path: ../sources/jmalayanras-154-gibsonhill-notesmallboats-1951-bee86432f402/frontmatter.md
 summarized: true
+publication_type: note
 ---
+
 # A note on the small boats of the Rhio and Lingga Archipelago
 
 C. A. Gibson-Hill's 1951 note documents the small fishing and cargo-carrying boats of the Rhio-Lingga archipelago, a sparsely populated group of islands in the eastern Singapore Strait. Working from field observations made in 1950, Gibson-Hill identifies four principal boat types—the Jongkong, the Kolek (in its Johore and Singkep variants), the Sampan Rhio, and the Chinese Seine-Boat—and traces their distribution, construction, and sail plans across a north-south gradient from Pulau Sambo to Lingga and Singkep. The article is the third in a series on Malayan watercraft, following his 1950 papers on Indonesian trading boats reaching Singapore and the fishing boats of Singapore Island.

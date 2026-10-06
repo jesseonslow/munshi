@@ -3,8 +3,7 @@ id: memoir-of-captain-francis-light-who-founded-penang
 work_id: jsbras-28-1-p1
 title: Memoir of Captain Francis Light, who founded Penang
 canonical_name: Memoir of Captain Francis Light, who founded Penang
-type: article
-article_type: article
+type: publication
 authors:
 - A.M. Skinner
 year: 1895
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-028-s-memoircaptainfrancis-1895-f5b35961c8e8
 source_path: ../sources/jsbras-028-s-memoircaptainfrancis-1895-f5b35961c8e8.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Memoir of Captain Francis Light, who founded Penang
 
 A.M. Skinner, a Penang resident, published this memoir in 1895 to mark the centenary of Captain Francis Light's death, reconstructing the founder's life and the establishment of the settlement from official despatches, Light's own diary, and contemporary correspondence. The overarching thesis is that Light was a man of probity, practical judgment, and singular purpose whose pioneer enterprise established a colony of enduring commercial and strategic value, and whose reputation was unfairly compromised by later political controversies over Kedah's sovereignty that imported anachronistic questions into the historical record.

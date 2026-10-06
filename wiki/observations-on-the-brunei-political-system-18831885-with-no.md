@@ -5,8 +5,7 @@ title: Observations on the Brunei political system, 1883–1885. With notes by R
   Pringle
 canonical_name: Observations on the Brunei political system, 1883–1885. With notes
   by R.M. Pringle
-type: article
-article_type: article
+type: publication
 authors:
 - P. Leys
 - R.M. Pringle
@@ -24,7 +23,9 @@ published: false
 source_doc: jmbras-214-leys-observationsbruneipolitical-1968-390fb92e674e
 source_path: ../sources/jmbras-214-leys-observationsbruneipolitical-1968-390fb92e674e.md
 summarized: true
+publication_type: document
 ---
+
 # Observations on the Brunei political system, 1883–1885. With notes by R.M. Pringle
 
 Peter Leys, British Consul to Brunei and Administrator of Labuan, composed two memoranda in 1883 and 1885 describing the fiscal and political structure of the Sultanate of Brunei's outlying river districts; published here with editorial notes by R.M. Pringle in 1968, they provide the most detailed contemporary account of Brunei's system of rights over people and revenues available in print. The overarching thesis is that Brunei's polity was a government of people rather than territory, in which noble rights over rivers were fundamentally fiscal in character and had degenerated into a system of arbitrary extraction that suppressed indigenous economic activity.

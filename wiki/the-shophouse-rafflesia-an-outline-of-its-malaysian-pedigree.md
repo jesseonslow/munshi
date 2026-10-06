@@ -5,8 +5,7 @@ title: 'The “Shophouse Rafflesia”: an outline of its Malaysian pedigree and 
   diffusion in Asia'
 canonical_name: 'The “Shophouse Rafflesia”: an outline of its Malaysian pedigree and
   its subsequent diffusion in Asia'
-type: article
-article_type: article
+type: publication
 authors:
 - J.H.S. Lim
 year: 1993
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-264-lim-shophouserafflesiaoutline-1993-6683dd776704
 source_path: ../sources/jmbras-264-lim-shophouserafflesiaoutline-1993-6683dd776704.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The “Shophouse Rafflesia”: an outline of its Malaysian pedigree and its subsequent diffusion in Asia
 
 ## Abstract

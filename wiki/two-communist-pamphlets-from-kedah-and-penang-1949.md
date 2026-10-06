@@ -3,8 +3,7 @@ id: two-communist-pamphlets-from-kedah-and-penang-1949
 work_id: jmbras-67-2-p61
 title: Two communist pamphlets from Kedah and Penang, 1949
 canonical_name: Two communist pamphlets from Kedah and Penang, 1949
-type: article
-article_type: article
+type: publication
 authors:
 - H.S. Barlow
 year: 1994
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-266-barlow-twocommunistpamphlets-1994-5977b15049dd
 source_path: ../sources/jmbras-266-barlow-twocommunistpamphlets-1994-5977b15049dd.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Two communist pamphlets from Kedah and Penang, 1949
 
 H.S. Barlow's 1994 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* examines two cyclostyled communist propaganda pamphlets produced in Kedah and Penang during the first half of 1949, at the height of the Malayan Emergency. Barlow argues that the documents reveal a fundamental strategic miscalculation by the Malayan Communist Party (MCP) in attempting to recruit Malay police and military personnel through messaging that was unmistakably Chinese-inspired and linguistically deficient, a failure compounded by the party's inability to secure a credible Malay leadership figure.

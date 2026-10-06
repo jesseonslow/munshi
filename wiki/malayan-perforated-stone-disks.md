@@ -3,8 +3,7 @@ id: malayan-perforated-stone-disks
 work_id: jmbras-24-3-p73
 title: Malayan perforated stone disks
 canonical_name: Malayan perforated stone disks
-type: article
-article_type: article
+type: publication
 authors:
 - W. Linehan
 year: 1951
@@ -27,7 +26,9 @@ published: false
 source_doc: jmalayanras-156-linehan-malayanperforatedstone-1951-d0bf70d2478a
 source_path: ../sources/jmalayanras-156-linehan-malayanperforatedstone-1951-d0bf70d2478a.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Malayan perforated stone disks
 
 W. Linehan's 1951 catalogue compiles all known Malayan perforated stone discs into a single reference, drawing on scattered publications from the 1920s through the late 1940s to document at least twenty-eight specimens across Pahang, Perak, and Negri Sembilan. The paper situates these objects within the broader South and East Asian disc-cult tradition, arguing for their probable transmission from China via Indo-China, likely in association with the Dong-son culture, while maintaining that the Malayan examples were predominantly of local manufacture.

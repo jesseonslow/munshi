@@ -3,8 +3,7 @@ id: the-ending-of-brunei-rule-in-sabah-18781902
 work_id: jmbras-41-2-p176
 title: The ending of Brunei rule in Sabah, 1878–1902
 canonical_name: The ending of Brunei rule in Sabah, 1878–1902
-type: article
-article_type: article
+type: publication
 authors:
 - I.D. Black
 year: 1968
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-214-black-endingbruneirule-1968-b49a129ef227
 source_path: ../sources/jmbras-214-black-endingbruneirule-1968-b49a129ef227.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The ending of Brunei rule in Sabah, 1878–1902
 
 I.D. Black's 1968 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* examines the two-decade process by which the British North Borneo Company absorbed the territories over which the Brunei Sultanate claimed nominal sovereignty in what is now Sabah. Black's central argument is that the Company did not so much displace a functioning Brunei administration as it gathered up the fragments of a polity already in advanced decay, taking power in a country where, in effect, no coherent power existed.

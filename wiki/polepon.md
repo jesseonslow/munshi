@@ -3,8 +3,7 @@ id: polepon
 work_id: jmbras-12-2-p175
 title: Polepon
 canonical_name: Polepon
-type: article
-article_type: article
+type: publication
 authors:
 - J.V. Mills
 year: 1934
@@ -18,6 +17,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: note
 ---
 
 # Polepon

@@ -3,8 +3,7 @@ id: the-brickmaking-industry-in-kuala-lumpur-in-the-late-ninetee
 work_id: jmbras-90-1-p61
 title: The brickmaking industry in Kuala Lumpur in the late nineteenth century
 canonical_name: The brickmaking industry in Kuala Lumpur in the late nineteenth century
-type: article
-article_type: article
+type: publication
 authors:
 - Arba'iyah bt Mohd Noor
 - Shapiza bt Sharif
@@ -31,7 +30,9 @@ keywords:
 - Kuala Lumpur
 - urban development
 - construction materials
+publication_type: journal_article
 ---
+
 # The brickmaking industry in Kuala Lumpur in the late nineteenth century
 
 ## Abstract

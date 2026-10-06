@@ -3,8 +3,7 @@ id: orang-asli-land-and-resource-rights-in-the-malay-states-1874
 work_id: jmbras-93-2-p87
 title: Orang Asli land and resource rights in the Malay States, 1874–1939
 canonical_name: Orang Asli land and resource rights in the Malay States, 1874–1939
-type: article
-article_type: article
+type: publication
 authors:
 - K. Endicott
 - Yogeswaran Subramaniam
@@ -22,7 +21,9 @@ published: false
 source_doc: jmbras-319-subramaniam-orangasliland-2020-f79fce6ef917
 source_path: ../sources/jmbras-319-subramaniam-orangasliland-2020-f79fce6ef917/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Orang Asli land and resource rights in the Malay States, 1874–1939
 
 ## Abstract

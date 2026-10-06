@@ -4,8 +4,7 @@ work_id: jsbras-13-1-p73
 title: The law and customs of the Malays with reference to the tenure of land
 canonical_name: The law and customs of the Malays with reference to the tenure of
   land
-type: article
-article_type: article
+type: publication
 authors:
 - W.E. Maxwell
 year: 1884
@@ -22,7 +21,9 @@ published: false
 source_doc: jsbras-013-maxwell-lawcustomsmalays-1884-5b51ed70b2bd
 source_path: ../sources/jsbras-013-maxwell-lawcustomsmalays-1884-5b51ed70b2bd/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The law and customs of the Malays with reference to the tenure of land
 
 W.E. Maxwell, a British Assistant Resident in Perak, published this extensive study in 1884 to address the "Malacca Land Question"—a sixty-year administrative failure in the Straits Settlements—and to warn against repeating the same errors in the newly-protected Malay States of Perak, Selangor, and Sungei Ujong. His central thesis is that Malay land tenure rests on a proprietary right created by clearing and occupying land, subject to a customary tithe to the sovereign, and that the introduction of English real-property law has been the root cause of persistent confusion and injustice.

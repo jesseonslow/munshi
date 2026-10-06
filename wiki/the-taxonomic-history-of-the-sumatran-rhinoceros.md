@@ -3,8 +3,7 @@ id: the-taxonomic-history-of-the-sumatran-rhinoceros
 work_id: jmbras-57-1-p12
 title: The taxonomic history of the Sumatran rhinoceros
 canonical_name: The taxonomic history of the Sumatran rhinoceros
-type: article
-article_type: article
+type: publication
 authors:
 - L.C. Rookmaaker
 year: 1984
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-246-rookmaaker-taxonomichistoryrecent-1984-d1e891d822c6
 source_path: ../sources/jmbras-246-rookmaaker-taxonomichistoryrecent-1984-d1e891d822c6/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The taxonomic history of the Sumatran rhinoceros
 
 L.C. Rookmaaker (1984) traces the taxonomic history of the Sumatran rhinoceros (*Dicerorhinus sumatrensis*) from its first description in 1793 through the chaotic species-splitting of the 1870s to the modern recognition of one species with three subspecies. The article examines how the sporadic arrival of specimens—first as descriptions, then as skins and skeletons, and finally as live animals—triggered repeated and often contradictory taxonomic revisions driven by limited material and personal rivalry among naturalists.

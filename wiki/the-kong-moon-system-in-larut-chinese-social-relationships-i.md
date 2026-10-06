@@ -5,8 +5,7 @@ title: 'The Kong-Moon System in Larut: Chinese Social Relationships in Nineteent
   Perak'
 canonical_name: 'The Kong-Moon System in Larut: Chinese Social Relationships in Nineteenth-Century
   Perak'
-type: article
-article_type: article
+type: publication
 authors:
 - Pek Wee Chuen
 year: 2021
@@ -32,7 +31,9 @@ keywords:
 source_doc: pek-the-kong-moon-system-in-larut-4211ce82321e
 source_path: ../sources/pek-the-kong-moon-system-in-larut-4211ce82321e/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The Kong-Moon System in Larut: Chinese Social Relationships in Nineteenth-Century Perak
 
 ## Abstract

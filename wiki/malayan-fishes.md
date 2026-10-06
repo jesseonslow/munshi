@@ -3,8 +3,7 @@ id: malayan-fishes
 work_id: jsbras-84-1-p179
 title: Malayan fishes
 canonical_name: Malayan fishes
-type: article
-article_type: article
+type: publication
 authors:
 - C.N. Maxwell
 year: 1921
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-084-maxwell-malayanfishes-1921-006af467d27a
 source_path: ../sources/jsbras-084-maxwell-malayanfishes-1921-006af467d27a/index.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Malayan fishes
 
 C.N. Maxwell, Director of Supplies for the Straits Settlements and Federated Malay States, published this comprehensive handbook on Malayan fishes in 1921, prompted by the Profiteering Commission's finding that no recorded information existed on local fish and fisheries. The work serves as both a practical identification guide—pairing scientific taxonomy with hundreds of Malay names—and a policy argument for the systematic development of Malaya's fisheries through cold storage infrastructure, scientific research, and protection of freshwater habitats from mining silt.

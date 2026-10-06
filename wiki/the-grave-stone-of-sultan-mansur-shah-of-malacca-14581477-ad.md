@@ -3,8 +3,7 @@ id: the-grave-stone-of-sultan-mansur-shah-of-malacca-14581477-ad
 work_id: jsbras-85-1-p1
 title: The grave-stone of Sultan Mansur Shah of Malacca (1458–1477 A.D.
 canonical_name: The grave-stone of Sultan Mansur Shah of Malacca (1458–1477 A.D.)
-type: article
-article_type: article
+type: publication
 authors:
 - J.P. Moquette
 year: 1922
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: false
 source_doc: jsbras-085-moquette-gravestonesultanmansur-1922-962f245b5d2d
 source_path: ../sources/jsbras-085-moquette-gravestonesultanmansur-1922-962f245b5d2d.md
+publication_type: note
 ---
+
 # The grave-stone of Sultan Mansur Shah of Malacca (1458–1477 A.D.
 
 This short note by J. P. Moquette, translated by Dr. R. O. Winstedt from the *Journal of the Batavian Society*, presents a corrected reading of the Arabic inscription on the head-stone of Sultan Mansur Shah of Malacca (r. 1458–1477), the only known extant stone from the tombs of the Malaccan Sultans.

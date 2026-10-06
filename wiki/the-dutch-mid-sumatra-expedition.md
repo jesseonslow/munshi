@@ -3,8 +3,7 @@ id: the-dutch-mid-sumatra-expedition
 work_id: jsbras-16-1-p415
 title: The Dutch mid-Sumatra expedition
 canonical_name: The Dutch mid-Sumatra expedition
-type: article
-article_type: article
+type: publication
 authors:
 - Hasselt M.A.L. van
 year: 1885
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-016-dutchmidsumatraexpedition-1885-a3fb7544a21d
 source_path: ../sources/jsbras-016-dutchmidsumatraexpedition-1885-a3fb7544a21d.md
 summarized: true
+publication_type: note
 ---
+
 # The Dutch mid-Sumatra expedition
 
 This brief note by M.A.L. van Hasselt, published in JSBRAS Vol. 16 (1885), records the death of fellow-explorer D.D. Veth and includes an editor's correction on Malay botanical terminology related to the tuba plant.

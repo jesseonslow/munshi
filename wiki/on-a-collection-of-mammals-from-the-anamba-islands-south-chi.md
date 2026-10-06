@@ -3,8 +3,7 @@ id: on-a-collection-of-mammals-from-the-anamba-islands-south-chi
 work_id: jmbras-6-3-p28
 title: On a collection of mammals from the Anamba Islands, South China Sea
 canonical_name: On a collection of mammals from the Anamba Islands, South China Sea
-type: article
-article_type: article
+type: publication
 authors:
 - F.N. Chasen
 - C.B. Kloss
@@ -22,7 +21,9 @@ published: false
 source_doc: jmalayanras-104-chasen-collectionmammalsanamba-1928-9f476a45e797
 source_path: ../sources/jmalayanras-104-chasen-collectionmammalsanamba-1928-9f476a45e797/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # On a collection of mammals from the Anamba Islands, South China Sea
 
 F. N. Chasen and C. Boden Kloss published this account in 1928 of a mammal collection made by Chasen on the Anamba Islands in the South China Sea during August–October 1925. The paper documents twelve new forms for the island group—four of them new subspecies—and establishes that the Anamba mammalian fauna is more closely allied to the Malay Peninsula than to the nearby Natuna Islands.

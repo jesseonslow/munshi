@@ -3,8 +3,7 @@ id: a-malays-pilgrimage-to-mecca
 work_id: jmbras-4-2-p269
 title: A Malay’s pilgrimage to Mecca
 canonical_name: A Malay’s pilgrimage to Mecca
-type: article
-article_type: article
+type: publication
 authors:
 - Abdul Majid bin Haji Zainuddin Haji
 year: 1926
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-097-majid-malayspilgrimagemecca-1926-2ffdc3bda71f
 source_path: ../sources/jmalayanras-097-majid-malayspilgrimagemecca-1926-2ffdc3bda71f.md
 summarized: true
+publication_type: journal_article
 ---
+
 # A Malay’s pilgrimage to Mecca
 
 Haji Abdul Majid bin Haji Zainuddin Haji published this first-person account of his 1923 pilgrimage to Mecca in 1926, offering a rare Malay-language perspective on the Haj as experienced by a colonial-era subject navigating the Hejaz under the faltering rule of King Hussein. The article functions simultaneously as a devotional travelogue, a practical guide, and a quiet critique of the commercial and superstitious apparatus surrounding the pilgrimage.

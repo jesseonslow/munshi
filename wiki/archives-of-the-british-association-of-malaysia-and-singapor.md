@@ -5,8 +5,7 @@ title: Archives of the British Association of Malaysia and Singapore relating to
   Second World War [research note
 canonical_name: Archives of the British Association of Malaysia and Singapore relating  to
   the Second World War
-type: article
-article_type: article
+type: publication
 authors:
 - Sally Kent
 year: 2025
@@ -30,7 +29,9 @@ keywords:
 source_doc: kent-archives-of-the-british-association-aa8f08dc4eaf
 source_path: ../sources/kent-archives-of-the-british-association-aa8f08dc4eaf/frontmatter.md
 summarized: true
+publication_type: note
 ---
+
 # Archives of the British Association of Malaysia and Singapore relating  to the Second World War
 
 ## Abstract

@@ -3,8 +3,7 @@ id: the-habits-of-malay-reptiles
 work_id: jsbras-32-1-p185
 title: The habits of Malay reptiles
 canonical_name: The habits of Malay reptiles
-type: article
-article_type: article
+type: publication
 authors:
 - H.N. Ridley
 year: 1899
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-032-ridley-habitsmalayreptiles-1899-17e2e874fba0
 source_path: ../sources/jsbras-032-ridley-habitsmalayreptiles-1899-17e2e874fba0.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The habits of Malay reptiles
 
 H. N. Ridley, Director of the Singapore Botanic Gardens, published this natural history survey in 1899, drawing on his personal observations across Singapore and the wider Malay Peninsula to describe the behaviour, ecology, and distribution of the region's reptilian fauna. The article is organised taxonomically—tortoises, crocodiles, lizards, and snakes—and represents one of the most comprehensive behavioural accounts of Malayan reptiles available at the time, building on the foundational checklists of Cantor (1847) and Flower (1896).

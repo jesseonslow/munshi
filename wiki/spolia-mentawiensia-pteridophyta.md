@@ -3,8 +3,7 @@ id: spolia-mentawiensia-pteridophyta
 work_id: jmbras-6-1-p14
 title: 'Spolia mentawiensia: Pteridophyta'
 canonical_name: 'Spolia mentawiensia: Pteridophyta'
-type: article
-article_type: article
+type: publication
 authors:
 - R.E. Holttum
 year: 1928
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-102-holttum-spoliamentawiensiapteridophyta-1928-2740f0957537
 source_path: ../sources/jmalayanras-102-holttum-spoliamentawiensiapteridophyta-1928-2740f0957537.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Spolia mentawiensia: Pteridophyta
 
 R.E. Holttum's 1928 paper "Spolia Mentawiensia: Pteridophyta" presents a taxonomic treatment of the fern and allied plant flora collected on the Mentawai Islands of Siberut and Sipora during a 1924 expedition led by C.B. Kloss. The work documents 77 species across both islands, describes two new species to science, and extends the known geographic ranges of several taxa with significant biogeographic implications for the Malay Archipelago.

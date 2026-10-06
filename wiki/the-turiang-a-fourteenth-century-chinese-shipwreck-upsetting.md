@@ -5,8 +5,7 @@ title: 'The Turiang: a fourteenth century Chinese shipwreck upsetting Southeast 
   ceramic history'
 canonical_name: 'The Turiang: a fourteenth century Chinese shipwreck upsetting Southeast
   Asian ceramic history'
-type: article
-article_type: article
+type: publication
 authors:
 - C. Barnes
 - Sten Sjostrand
@@ -21,6 +20,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: journal_article
 ---
 
 # The Turiang: a fourteenth century Chinese shipwreck upsetting Southeast Asian ceramic history

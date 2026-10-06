@@ -3,8 +3,7 @@ id: persian-merchants-and-missionaries-in-medieval-malaya
 work_id: jmbras-42-2-p10
 title: Persian merchants and missionaries in medieval Malaya
 canonical_name: Persian merchants and missionaries in medieval Malaya
-type: article
-article_type: article
+type: publication
 authors:
 - B.E. Colless
 year: 1969
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: false
 source_doc: jmbras-216-colless-persianmerchantsmissionaries-1969-3917b52876c0
 source_path: ../sources/bibliography.md
+publication_type: journal_article
 ---
+
 # Persian merchants and missionaries in medieval Malaya
 
 Brian E. Colless published "Persian Merchants and Missionaries in Medieval Malaya" in 1969 in the *Journal of the Malaysian Branch of the Royal Asiatic Society* (Vol. 42, No. 2), presenting a comprehensive re-examination of Western Asian commercial and religious presence in the Malay Peninsula during the first seven centuries CE. Drawing on previously underutilized Syriac (Nestorian Christian) sources alongside Chinese, Arabic, and Ptolemaic evidence, Colless argues that Persian merchants and missionaries operated in the region far earlier and more extensively than the prevailing scholarly consensus—particularly O.W. Wolters' thesis—allowed, and that the ancient entrepot known as Kalah was located at Klang rather than Mergui.

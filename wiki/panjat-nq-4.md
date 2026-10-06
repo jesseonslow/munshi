@@ -3,8 +3,7 @@ id: panjat-nq-4
 work_id: jsbras-17-panjat-nq-4
 title: Panjat. NQ 4
 canonical_name: _Panjat._ NQ 4
-type: article
-article_type: notes_and_queries
+type: publication
 authors:
 - W.E. Maxwell
 year: 1886
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-017-maxwell-sriramamalay-1886-3155502a26ab
 source_path: ../sources/jsbras-017-maxwell-sriramamalay-1886-3155502a26ab.md
 summarized: true
+publication_type: note
 ---
+
 # Panjat. NQ 4
 
 W. E. Maxwell published "Sri Rama: A Malay Fairy Tale, Founded on the Rāmāyaṇa" in the *Journal of the Straits Branch of the Royal Asiatic Society* in 1886, presenting a verbatim Malay transcription of an oral romance recited by the Perak storyteller Mir Hassan, accompanied by an extensive English analytical summary. The work documents the *penglipur lara* (soother of cares) tradition of professional Malay narrative performance and demonstrates the deep structural influence of the Sanskrit Rāmāyaṇa on indigenous Malay legendary literature.

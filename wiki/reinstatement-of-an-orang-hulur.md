@@ -3,8 +3,7 @@ id: reinstatement-of-an-orang-hulur
 work_id: jmbras-4-2-p184
 title: Reinstatement of an orang hulur
 canonical_name: Reinstatement of an _orang hulur._
-type: article
-article_type: article
+type: publication
 authors:
 - W. Linehan
 year: 1926
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-097-linehan-reinstatementoranghulur-1926-9c7a1d084dd5
 source_path: ../sources/jmalayanras-097-linehan-reinstatementoranghulur-1926-9c7a1d084dd5.md
 summarized: true
+publication_type: document
 ---
+
 # Reinstatement of an orang hulur
 
 This short note by W. Linehan reproduces a sealed certificate from the Engku Besar (Bendahara) of Pahang granting reinstatement to a man named Hassan, and provides an explanation of the social status of *orang hulur* in the Pahang court.

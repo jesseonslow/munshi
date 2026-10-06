@@ -3,8 +3,7 @@ id: port-weld
 work_id: jmbras-32-1-p154
 title: Port Weld
 canonical_name: Port Weld
-type: article
-article_type: article
+type: publication
 authors:
 - M.E. Wayte
 year: 1959
@@ -21,7 +20,9 @@ published: false
 source_doc: wayte-portweld-1959-f623f537e964
 source_path: ../sources/wayte-portweld-1959
 summarized: true
+publication_type: journal_article
 ---
+
 # Port Weld
 
 M.E. Wayte's 1959 article "Port Weld" examines the rise and fall of a small Perak coastal port created in 1885 as a tin-export outlet for the Larut mining district, arguing that its trajectory exemplifies how an artificial port, built to serve specific economic demands, inevitably declined when its natural advantages proved insufficient for a developing economy. The study, based on 1955 fieldwork and archival research, traces four distinct phases from heyday to near-obsolescence over roughly seventy years.

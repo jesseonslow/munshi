@@ -4,8 +4,7 @@ work_id: jmbras-89-1-p15
 title: The customary tenure enactment and matrilineal land rights in Negeri Sembilan
 canonical_name: The customary tenure enactment and matrilineal land rights in Negeri
   Sembilan
-type: article
-article_type: article
+type: publication
 authors:
 - Maznah Mohamed
 year: 2016
@@ -29,7 +28,9 @@ keywords:
 - matrilineal family
 - matriarchy
 - inheritance
+publication_type: journal_article
 ---
+
 # The customary tenure enactment and matrilineal land rights in Negeri Sembilan
 
 ## Abstract

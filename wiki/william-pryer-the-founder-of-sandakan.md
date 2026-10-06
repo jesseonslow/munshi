@@ -3,8 +3,7 @@ id: william-pryer-the-founder-of-sandakan
 work_id: jmbras-27-1-p35
 title: William Pryer, the founder of Sandakan
 canonical_name: William Pryer, the founder of Sandakan
-type: article
-article_type: article
+type: publication
 authors:
 - K.G. Tregonning
 year: 1954
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-165-tregonning-williampryerfounder-1954-4e1be3dbc997
 source_path: ../sources/jmalayanras-165-tregonning-williampryerfounder-1954-4e1be3dbc997.md
 summarized: true
+publication_type: journal_article
 ---
+
 # William Pryer, the founder of Sandakan
 
 K.G. Tregonning's 1954 article reconstructs the life and administrative career of William L. Pryer, the first Resident of the East Coast of North Borneo and the founder of Sandakan, drawing heavily on Pryer's own preserved diary and the British North Borneo Company's papers. The article argues that Pryer's personal energy, sympathetic understanding of indigenous peoples, and willingness to use force when necessary established the foundations of British authority in the region during its most precarious early years (pp. 35, 50).

@@ -5,8 +5,7 @@ title: 'Grasping the nettle: first successes in the struggle to govern the Chine
   in Malaya'
 canonical_name: 'Grasping the nettle: first successes in the struggle to govern the
   Chinese in Malaya'
-type: article
-article_type: article
+type: publication
 authors:
 - R.N. Jackson
 year: 1967
@@ -24,7 +23,9 @@ summarized: true
 source_mismatch: false
 source_doc: jmbras-211-jackson-graspingnettlefirst-1967-130e2db742f1
 source_path: ../sources/jmbras-211-jackson-graspingnettlefirst-1967-130e2db742f1.md
+publication_type: journal_article
 ---
+
 # Grasping the nettle: first successes in the struggle to govern the Chinese in Malaya
 
 R.N. Jackson's 1967 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* examines how the Straits Settlements colonial government, through the agency of W.A. Pickering, moved from a position of virtual powerlessness over its Chinese population to effective direct governance between 1877 and 1888. The central thesis is that this transformation was achieved not through grand constitutional design but through a series of *ad hoc* measures—immigration control, secret society registration, and informal dispute arbitration—that collectively created the first sustained channel of communication between the colonial state and the Chinese community.

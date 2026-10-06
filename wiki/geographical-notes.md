@@ -3,8 +3,7 @@ id: geographical-notes
 work_id: jsbras-3-1-p132
 title: Geographical notes
 canonical_name: Geographical notes
-type: article
-article_type: article
+type: publication
 authors:
 - A.M. Skinner
 year: 1879
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-003-s-geographicalnotes-1879-e536c45f8fd8
 source_path: ../sources/jsbras-003-s-geographicalnotes-1879-e536c45f8fd8.md
 summarized: true
+publication_type: note
 ---
+
 # Geographical notes
 
 A brief collection of geographical observations by A.M.S. and B.D., published in JSBRAS Vol. 3 (1879), documenting routes and topographical features in the Malay Peninsula, particularly the ranges separating Selangor from Pahang and the Johor river systems.

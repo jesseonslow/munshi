@@ -3,8 +3,7 @@ id: south-asian-toponyms-a-note-by-the-editor
 work_id: jmbras-54-2-p148
 title: 'South Asian toponyms: a note by the editor'
 canonical_name: 'South Asian toponyms: a note by the editor'
-type: article
-article_type: article
+type: publication
 authors:
 - Mubin Sheppard
 year: 1981
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-240-southasiantoponyms-1981-431689d5d6d6
 source_path: ../sources/jmbras-240-southasiantoponyms-1981-431689d5d6d6.md
 summarized: true
+publication_type: note
 ---
+
 # South Asian toponyms: a note by the editor
 
 This is an editorial note by Mubin Sheppard announcing a toponymic research project undertaken by Dr. John Vivian Gottlieb Mills, a former President of the Malayan Branch of the Royal Asiatic Society (1937).

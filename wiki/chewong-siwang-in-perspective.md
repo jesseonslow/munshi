@@ -3,8 +3,7 @@ id: chewong-siwang-in-perspective
 work_id: jmbras-57-2-p105
 title: Chewong (Siwang) in perspective
 canonical_name: Chewong (Siwang) in perspective
-type: article
-article_type: article
+type: publication
 authors:
 - R. Needham
 year: 1984
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-247-needham-chewongsiwangperspective-1984-9a1049eb0971
 source_path: ../sources/jmbras-247-needham-chewongsiwangperspective-1984-9a1049eb0971.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Chewong (Siwang) in perspective
 
 Rodney Needham published this theoretical commentary in 1984 as a companion to Signe Howell's monograph *Society and Cosmos: Chewong of Peninsular Malaysia* (Oxford University Press, 1984). Writing from the standpoint of a comparativist with personal field experience among the Chewong dating to 1955, Needham situates Howell's ethnography within a scholarly lineage descending from the *Année Sociologique* tradition and offers both a commendation and a pointed critique of its analytical framework.

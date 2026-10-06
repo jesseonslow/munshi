@@ -3,8 +3,7 @@ id: malay-titles
 work_id: jmbras-18-2-p146
 title: Malay titles
 canonical_name: Malay titles
-type: article
-article_type: article
+type: publication
 authors:
 - R.O. Winstedt
 year: 1940
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-138-winstedt-malaytitles-1940-6e9fb172f65e
 source_path: ../sources/jmalayanras-138-winstedt-malaytitles-1940-6e9fb172f65e.md
 summarized: true
+publication_type: note
 ---
+
 # Malay titles
 
 This note by R. O. Winstedt summarizes the account of Malay hereditary titles and ranks found in the *Adat Raja-Raja Melayu*, a 1779 Malacca manuscript edited by Ph. S. van Ronkel in 1929 (p. 146).

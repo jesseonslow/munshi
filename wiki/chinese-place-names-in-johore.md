@@ -3,8 +3,7 @@ id: chinese-place-names-in-johore
 work_id: jmbras-2-3-p221
 title: Chinese place-names in Johore
 canonical_name: Chinese place-names in Johore
-type: article
-article_type: article
+type: publication
 authors:
 - J.V. Cowgill
 year: 1924
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-092-cowgill-chineseplacenames-1924-351d2b3c6129
 source_path: ../sources/jmalayanras-092-cowgill-chineseplacenames-1924-351d2b3c6129.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Chinese place-names in Johore
 
 J.V. Cowgill published "Chinese Place-names in Johore" in December 1924 in the *Journal of the Malayan Branch of the Royal Asiatic Society* (Vol. 2, No. 3, pp. 221–251). Writing from within the colonial administration, Cowgill compiled the first systematic reference list of Chinese toponyms for the state, arguing that the defunct *kangka* plantation system was the primary generator of the place-name landscape that persisted long after the system's abolition in 1911.

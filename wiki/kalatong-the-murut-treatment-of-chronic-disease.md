@@ -3,8 +3,7 @@ id: kalatong-the-murut-treatment-of-chronic-disease
 work_id: jmbras-27-1-p68
 title: 'Kalatong: the Murut treatment of chronic disease'
 canonical_name: 'Kalatong: the Murut treatment of chronic disease'
-type: article
-article_type: article
+type: publication
 authors:
 - M.C. Clark
 year: 1954
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-165-clarke-kalatongmuruttreatment-1954-1713a459535a
 source_path: ../sources/jmalayanras-165-clarke-kalatongmuruttreatment-1954-1713a459535a.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Kalatong: the Murut treatment of chronic disease
 
 Marcus C. Clarke, a colonial medical officer in North Borneo, published this ethnographic account of the Kalatong ceremony in 1954, documenting the most elaborate of Murut healing rituals for chronic disease. Writing from direct observation in the Keningau district, Clarke presents the ceremony as a comprehensive therapeutic system in which spiritual diagnosis, communal feasting, and blood-sacrifice are integrated into a single multi-day event.

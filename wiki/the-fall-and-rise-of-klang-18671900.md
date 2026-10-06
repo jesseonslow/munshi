@@ -3,8 +3,7 @@ id: the-fall-and-rise-of-klang-18671900
 work_id: jmbras-79-1-p1
 title: The fall and rise of Klang, 1867–1900
 canonical_name: The fall and rise of Klang, 1867–1900
-type: article
-article_type: article
+type: publication
 authors:
 - J.M. Gullick
 year: 2006
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: true
 source_doc: jmbras-290-gullick-fallriseklang-2006-41ac22e89996
 source_path: ../sources/references.md
+publication_type: journal_article
 ---
+
 # The fall and rise of Klang, 1867–1900
 
 J.M. Gullick's 2006 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* traces the economic and physical transformation of Klang from a declining tin-transhipment port in the 1870s to a revitalised agricultural centre by 1900, arguing that the town's "rise" was driven not by its historic role as a port but by the drainage of surrounding swamp land and the improvement of communications, particularly the railway (pp. 1–2).

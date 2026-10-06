@@ -3,8 +3,7 @@ id: ceremonies-at-seedtime
 work_id: jsbras-18-1-p362
 title: Ceremonies at seedtime
 canonical_name: Ceremonies at seedtime
-type: article
-article_type: article
+type: publication
 authors:
 - A.W. O'Sullivan
 year: 1886
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-018-osullivan-ceremoniesseedtime-1886-8ef51bf063a9
 source_path: ../sources/jsbras-018-osullivan-ceremoniesseedtime-1886-8ef51bf063a9.md
 summarized: true
+publication_type: note
 ---
+
 # Ceremonies at seedtime
 
 A.W. O'Sullivan's "Ceremonies at Seedtime" (JSBRAS Vol. 18, 1886, pp. 362–365) documents Malay propitiatory invocations and offerings performed at the sowing of *padi*, drawing on earlier material from Captain Low's 1836 work and on informants in Penang.

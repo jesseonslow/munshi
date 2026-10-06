@@ -3,8 +3,7 @@ id: changing-labour-relations-in-malaysia-1970s1990s
 work_id: jmbras-73-1-p1
 title: Changing labour relations in Malaysia 1970s–1990s
 canonical_name: Changing labour relations in Malaysia 1970s–1990s
-type: article
-article_type: article
+type: publication
 authors:
 - Amarjit Kaur
 year: 2000
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: true
 source_doc: jmbras-278-kaur-changinglabourrelations-2000-8bbf7d587e75
 source_path: ../sources/references.md
+publication_type: journal_article
 ---
+
 # Changing labour relations in Malaysia 1970s–1990s
 
 Amarjit Kaur (University of New England) published this article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* in 2000, examining the twin transformations of Malaysia's labour market between the 1970s and 1990s: the feminization of the domestic workforce and the rapid shift from net labour exporter to net labour importer. Her overarching thesis is that both processes are interlocking links in a single chain of capitalist development, in which women—local and migrant—have been relegated to the position of Malaysia's cheapest and most abundant resource available to international capital (pp. 1–2, 8).

@@ -3,8 +3,7 @@ id: the-customary-law-of-rembau
 work_id: jmbras-7-1-p1
 title: The customary law of Rembau
 canonical_name: The customary law of Rembau
-type: article
-article_type: article
+type: publication
 authors:
 - E.N. Taylor
 year: 1929
@@ -18,6 +17,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: journal_article
 ---
 
 # The customary law of Rembau

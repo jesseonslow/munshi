@@ -3,8 +3,7 @@ id: new-genera-and-species-of-braconidae-mostly-malayan
 work_id: jsbras-80-1-p39
 title: New genera and species of Braconidae, mostly Malayan
 canonical_name: New genera and species of Braconidae, mostly Malayan
-type: article
-article_type: article
+type: publication
 authors:
 - D.T. Fullaway
 year: 1919
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-080-fullaway-newgeneraspecies-1919-6b39929ee0c2
 source_path: ../sources/jsbras-080-fullaway-newgeneraspecies-1919-6b39929ee0c2.md
 summarized: true
+publication_type: journal_article
 ---
+
 # New genera and species of Braconidae, mostly Malayan
 
 D.T. Fullaway, entomologist at the Hawaiian Board of Agriculture and Forestry, published this taxonomic paper in 1919 describing three new genera and twenty-four new species of Braconidae (parasitic wasps) drawn from a collection assembled in the Malay Archipelago and surrounding regions between 1906 and 1911. The specimens originated from a systematic search for natural enemies of the cane borer (*Rhabdocnemis obscura*) conducted under the auspices of the Hawaiian Sugar Planters' Experiment Station, with field work carried out by Frederick Muir and the late Frank W. Terry.

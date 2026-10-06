@@ -3,8 +3,7 @@ id: the-ming-empire-patron-of-islam-in-china-and-southeast-asia
 work_id: jmbras-61-2-p1
 title: 'The Ming empire: patron of Islam in China and Southeast Asia'
 canonical_name: 'The Ming empire: patron of Islam in China and Southeast Asia'
-type: article
-article_type: article
+type: publication
 authors:
 - Yusuf Chang
 year: 1988
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-061-hanitsch-annualreportstraits-1912-1eff08288ffc
 source_path: ../sources/jsbras-061-hanitsch-annualreportstraits-1912-1eff08288ffc.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The Ming empire: patron of Islam in China and Southeast Asia
 
 This is the Annual Report of the Straits Branch Royal Asiatic Society for 1911, authored by R. Hanitsch (Acting Hon. Secretary) and Walter Makepeace (Honorary Treasurer), published in *Journal of the Straits Branch of the Royal Asiatic Society* No. 61 (June 1912), pp. viii–x.

@@ -3,8 +3,7 @@ id: the-entrepreneur-in-late-nineteenth-century-malay-society
 work_id: jmbras-58-1-p43
 title: The entrepreneur in late nineteenth century Malay society
 canonical_name: The entrepreneur in late nineteenth century Malay society
-type: article
-article_type: article
+type: publication
 authors:
 - J.M. Gullick
 - Wang Gungwu
@@ -22,7 +21,9 @@ published: false
 source_doc: jmbras-248-gullick-entrepreneurlate19th-1985-600a4310ec48
 source_path: ../sources/jmbras-248-gullick-entrepreneurlate19th-1985-600a4310ec48.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The entrepreneur in late nineteenth century Malay society
 
 J.M. Gullick's 1985 article, published in the Journal of the Malaysian Branch of the Royal Asiatic Society, examines the emergence of commercial enterprise among Malays in western Malaya during the two decades following British intervention in 1874. Writing as a tribute to the late James C. Jackson, Gullick argues that the colonial transition did not simply displace Malay economic agency but rather created new conditions under which a class of Malay entrepreneurs—drawn from traders, migrant settlers, and aristocrats—exploited opportunities in land development, agriculture, and trade.

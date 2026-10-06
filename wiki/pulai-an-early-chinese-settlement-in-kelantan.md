@@ -3,8 +3,7 @@ id: pulai-an-early-chinese-settlement-in-kelantan
 work_id: jmbras-11-2-p151
 title: 'Pulai: an early Chinese settlement in Kelantan'
 canonical_name: 'Pulai: an early Chinese settlement in Kelantan'
-type: article
-article_type: article
+type: publication
 authors:
 - S.M. Middlebrook
 year: 1933
@@ -18,6 +17,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: journal_article
 ---
 
 # Pulai: an early Chinese settlement in Kelantan

@@ -3,8 +3,7 @@ id: the-bugis-genealogy-of-the-raja-muda-family-of-riau-johor
 work_id: jmbras-61-2-p63
 title: The Bugis genealogy of the Raja Muda family of Riau-Johor
 canonical_name: The Bugis genealogy of the Raja Muda family of Riau-Johor. f
-type: article
-article_type: article
+type: publication
 authors:
 - Noorduyn. J
 year: 1988
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-255-noorduyn-bugisgenealogyraja-1988-31d44c94be0f
 source_path: ../sources/jmbras-255-noorduyn-bugisgenealogyraja-1988-31d44c94be0f/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The Bugis genealogy of the Raja Muda family of Riau-Johor
 
 J. Noorduyn's 1988 article provides the first systematic Bugis-linguistic analysis of the forty-generation genealogy embedded in the *Tuhfat al-Nafis*, the great Malay chronicle of the Johor kingdom composed by Raja Haji Ahmad and his son Raja Ali Haji in the late eighteenth and early nineteenth centuries. The genealogy traces the ancestry of the Bugis-origin Raja Muda (vice-regal) family of Johor back to mythological progenitors, and Noorduyn's central argument is that while most of the names are genuine Buginese in form, the genealogy as a whole is a symbolic legitimizing construct whose internal contradictions reveal the faded state of Bugis historical knowledge at the time of its composition.

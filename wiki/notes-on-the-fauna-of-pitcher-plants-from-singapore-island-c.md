@@ -4,8 +4,7 @@ work_id: jmbras-6-3-p1
 title: Notes on the fauna of pitcher-plants from Singapore Island. C. Dover {and others
 canonical_name: Notes on the fauna of pitcher-plants from Singapore Island. C. Dover
   {and others}
-type: article
-article_type: article
+type: publication
 authors:
 - C. Dover
 year: 1928
@@ -23,7 +22,9 @@ summarized: true
 source_mismatch: true
 source_doc: jmalayanras-104-dover-notesfaunapitcherplants-1928-d0063a51b63e
 source_path: ../sources/bibliography.md
+publication_type: note
 ---
+
 # Notes on the fauna of pitcher-plants from Singapore Island. C. Dover {and others
 
 This is the front matter of a multi-author article by Cedric Dover, Louis Fage, Stanley Hirst, W. H. T. Tams, and Ekendanath Ghosh, published in the *Journal of the Malayan Branch of the Royal Asiatic Society*, Vol. 6, No. 3 (1928), documenting the fauna associated with *Nepenthes* pitcher-plants on Singapore Island.

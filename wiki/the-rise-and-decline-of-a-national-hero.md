@@ -3,8 +3,7 @@ id: the-rise-and-decline-of-a-national-hero
 work_id: jmbras-38-2-p140
 title: The rise and decline of a national hero
 canonical_name: The rise and decline of a national hero
-type: article
-article_type: article
+type: publication
 authors:
 - P.E. de Josselin de Jong
 year: 1965
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-208-jong-risedeclinenational-1965-0d4ee88aaf93
 source_path: ../sources/jmbras-208-jong-risedeclinenational-1965-0d4ee88aaf93.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The rise and decline of a national hero
 
 P.E. de Josselin de Jong, a Dutch lecturer in Malay Studies at the University of Malaya, published this essay in 1965 as a tribute to his mentor Carl Gibson-Hill. Set against the backdrop of newly independent Malaya, the article traces how Hang Tuah — a fifteenth-century admiral of the Malacca Sultanate — was elevated from a flawed courtier in the *Sejarah Melayu* to an apotheosized national hero in the *Hikayat Hang Tuah*, and then, in the 1950s, was abruptly devalued by a generation of Malays who came to identify more with his rebel counterpart, Hang Jebat. The overarching thesis is that this reversal mirrors the structural decline of the Malay Sultanate and the accompanying ideology of unquestioning loyalty, which could no longer serve as a political ideal in a modern constitutional state.

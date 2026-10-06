@@ -4,8 +4,7 @@ work_id: jmbras-25-1-p68
 title: The journal of a Frenchman in Malayan waters, 1804; . C. Northcote Parkinson
 canonical_name: The journal of a Frenchman in Malayan waters, 1804; . C. Northcote
   Parkinson
-type: article
-article_type: translation
+type: publication
 authors:
 - C. Duclos-Legris
 - C.N. Parkinson
@@ -23,7 +22,9 @@ published: false
 source_doc: jmalayanras-158-parkinson-journalfrenchmanmalayan-1952-412071d6d522
 source_path: ../sources/jmalayanras-158-parkinson-journalfrenchmanmalayan-1952-412071d6d522.md
 summarized: true
+publication_type: translation
 ---
+
 # The journal of a Frenchman in Malayan waters, 1804; . C. Northcote Parkinson
 
 C. Northcote Parkinson translated and introduced the journal of Charles Duclos-Legris, a French naval coxswain who served aboard the *Marengo* under Admiral Durand Linois during the 1804 campaign in the Indian Ocean. Published in 1952 in the *Journal of the Malayan Branch of the Royal Asiatic Society*, the extract covers the period from late January to early April 1804, encompassing the French squadron's interception attempt against the East India Company's China fleet off Pulau Aur and the dramatic survival narrative of a lost boat's crew.

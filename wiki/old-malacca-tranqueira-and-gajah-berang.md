@@ -3,8 +3,7 @@ id: old-malacca-tranqueira-and-gajah-berang
 work_id: jmbras-21-1-p104
 title: 'Old Malacca: Tranqueira and Gajah Berang'
 canonical_name: 'Old Malacca: Tranqueira and Gajah Berang'
-type: article
-article_type: article
+type: publication
 authors:
 - R. Cardon
 year: 1948
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-144-cardon-oldmalaccatranqueira-1948-2e48bff7e24c
 source_path: ../sources/jmalayanras-144-cardon-oldmalaccatranqueira-1948-2e48bff7e24c.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Old Malacca: Tranqueira and Gajah Berang
 
 Father R. Cardon of the Paris Foreign Missions Society published this article in the *JMBRAS* in 1948, tracing the etymology and military history of two adjacent place names in pre-modern Malacca—Tranqueira and Gajah Berang—through Portuguese primary sources and surviving Dutch administrative records. His central thesis is that "Tranqueira" was a standard Portuguese military term for a defensive palisade or entrenchment, not a personal name as local oral tradition had come to believe, and that the Gajah Berang district preserves the memory of a maddened elephant recorded by the contemporary chronicler Gaspar Correia.

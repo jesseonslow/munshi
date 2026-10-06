@@ -3,8 +3,7 @@ id: the-malay-annals-the-history-brought-from-goa
 work_id: jmbras-29-1-p185
 title: 'The Malay Annals: the history brought from Goa'
 canonical_name: 'The Malay Annals: the history brought from Goa'
-type: article
-article_type: article
+type: publication
 authors:
 - C.A. Gibson-Hill
 year: 1956
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-173-gibsonhill-malayannalshistory-1956-f0e62924da65
 source_path: ../sources/jmalayanras-173-gibsonhill-malayannalshistory-1956-f0e62924da65.md
 summarized: true
+publication_type: note
 ---
+
 # The Malay Annals: the history brought from Goa
 
 C.A. Gibson-Hill published this short but tightly argued note in 1956, addressing the transmission history of the Malay Annals manuscript (Raffles MS 181) between the Portuguese attacks on Johore in 1535–36 and its reappearance in the Malay world around 1612. His central thesis is that the draft, compiled at the court of Sultan Mahmud of Malacca, was carried to Goa by the Portuguese, spent decades in the Goa Government Archives where the historian Diogo do Couto had access to it, and was returned to Malaya during Portuguese diplomatic overtures to the Johore court circa 1610–12.

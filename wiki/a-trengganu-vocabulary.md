@@ -3,8 +3,7 @@ id: a-trengganu-vocabulary
 work_id: jmbras-9-1-p123
 title: A Trengganu vocabulary
 canonical_name: A Trengganu vocabulary
-type: article
-article_type: article
+type: publication
 authors:
 - P.A.B. Mackerron
 year: 1931
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-111-mckerron-trengganuvocabulary-1931-b06438816d5e
 source_path: ../sources/jmalayanras-111-mckerron-trengganuvocabulary-1931-b06438816d5e.md
 summarized: true
+publication_type: note
 ---
+
 # A Trengganu vocabulary
 
 A Trengganu vocabulary compiled by P.A.B. McKerron, M.C.S., a colonial administrator who served in the State, published in the Journal of the Malayan Branch of the Royal Asiatic Society, Vol. 9, Part I (1931), pp. 123–128.

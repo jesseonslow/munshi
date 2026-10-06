@@ -4,8 +4,7 @@ work_id: jmbras-24-3-p159
 title: Some Illanun and Bajau marriage customs in the Kota Belud district, North Borneo
 canonical_name: Some Illanun and Bajau marriage customs in the Kota Belud district,
   North Borneo
-type: article
-article_type: article
+type: publication
 authors:
 - D. Headly
 year: 1951
@@ -22,7 +21,9 @@ published: false
 source_doc: jmalayanras-156-headly-illanunbajaumarriage-1951-c20bb8e9c9fe
 source_path: ../sources/jmalayanras-156-headly-illanunbajaumarriage-1951-c20bb8e9c9fe.md
 summarized: true
+publication_type: note
 ---
+
 # Some Illanun and Bajau marriage customs in the Kota Belud district, North Borneo
 
 D. Headly, a colonial administrator in North Borneo, published this brief ethnographic note in 1951 describing the marriage customs of the Illanun and Bajau peoples of the Kota Belud district. The article documents a stratified dowry system, reciprocal payment obligations, and wedding ritual practices among two closely intermarried Muslim communities on the Bornean plain.

@@ -3,8 +3,7 @@ id: recent-archaeological-discoveries-in-malaya-1957
 work_id: jmbras-31-1-p180
 title: Recent archaeological discoveries in Malaya (1957
 canonical_name: Recent archaeological discoveries in Malaya (1957)
-type: article
-article_type: article
+type: publication
 authors:
 - B.A.V. Peacock
 year: 1958
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-181-peacock-recentarchaeologicaldiscoveries-1958-8e78d4177316
 source_path: ../sources/jmalayanras-181-peacock-recentarchaeologicaldiscoveries-1958-8e78d4177316.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Recent archaeological discoveries in Malaya (1957
 
 B. A. V. Peacock, Curator of Museums for the Federation of Malaya, published this interim report in 1958 to document significant archaeological discoveries made during 1957 across the Malay Peninsula. The article addresses two distinct chronological horizons: Pleistocene palaeontological finds in Perak that bear on the long-standing problem of dating the Tampanian Lower Palaeolithic industry, and historical-period material culture from Kedah and Malacca that illuminates early modern maritime trade networks. Peacock's overarching contribution is to demonstrate how the 1957 finds collectively advance the archaeological chronology of Malaya at both its deepest and its most recent temporal extremes.

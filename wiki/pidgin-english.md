@@ -3,8 +3,7 @@ id: pidgin-english
 work_id: jsbras-2-1-p168
 title: “Pidgin” English
 canonical_name: “Pidgin” English
-type: article
-article_type: article
+type: publication
 authors:
 - N.B. Dennys
 year: 1878
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-002-dennys-pidginenglish-1878-a6e81dd2791e
 source_path: ../sources/jsbras-002-dennys-pidginenglish-1878-a6e81dd2791e.md
 summarized: true
+publication_type: note
 ---
+
 # “Pidgin” English
 
 This is an 1878 article by N.B. Dennys titled "Pidgin" English, published in the *Journal of the Straits Branch of the Royal Asiatic Society*, Vol. 2, No. 2 (December 1878), pp. 168–174.

@@ -4,8 +4,7 @@ work_id: jmbras-41-2-p193
 title: Social groupings among the Rungus, a cognatic society of northern Borneo
 canonical_name: Social groupings among the Rungus, a cognatic society of northern
   Borneo
-type: article
-article_type: article
+type: publication
 authors:
 - G.N. Appell
 year: 1968
@@ -22,7 +21,9 @@ published: false
 source_doc: jmbras-214-appell-socialgroupingsamong-1968-77a341742ffd
 source_path: ../sources/jmbras-214-appell-socialgroupingsamong-1968-77a341742ffd/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Social groupings among the Rungus, a cognatic society of northern Borneo
 
 G. N. Appell published this article in 1968 in the *Journal of the Malaysian Branch of the Royal Asiatic Society*, drawing on his ethnographic fieldwork among the Rungus, a Dusun-speaking cognatic group in the Kudat District of Sabah. The article's central thesis is that Rungus social groupings can be systematically classified according to whether they function as social isolates, aggregates, or collectivities within the jural and religious systems, and that the domestic family and village qualify as isolates in both realms while the long-house is predominantly a collectivity.

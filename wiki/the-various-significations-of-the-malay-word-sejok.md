@@ -3,8 +3,7 @@ id: the-various-significations-of-the-malay-word-sejok
 work_id: jmbras-20-2-p41
 title: The various significations of the Malay word sejok
 canonical_name: The various significations of the Malay word _sejok._
-type: article
-article_type: article
+type: publication
 authors:
 - Zainal Abidin bin Ahmad
 year: 1947
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-143-ahmad-varioussignificationsmalay-1947-719ee84db649
 source_path: ../sources/jmalayanras-143-ahmad-varioussignificationsmalay-1947-719ee84db649.md
 summarized: true
+publication_type: note
 ---
+
 # The various significations of the Malay word sejok
 
 This short note by Zainal Abidin bin Ahmad (1947) examines the range of meanings of the Malay word *sejok*, prompted by a request from Tuan Djek in the *Straits Times* (p. 41).

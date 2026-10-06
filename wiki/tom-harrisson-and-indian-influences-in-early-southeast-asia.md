@@ -3,8 +3,7 @@ id: tom-harrisson-and-indian-influences-in-early-southeast-asia
 work_id: jmbras-50-1-p8
 title: Tom Harrisson and Indian influences in early Southeast Asia
 canonical_name: Tom Harrisson and Indian influences in early Southeast Asia
-type: article
-article_type: article
+type: publication
 authors:
 - A. Lamb
 year: 1977
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-231-lamb-tomharrissonindian-1977-1856ec5a6c78
 source_path: ../sources/jmbras-231-lamb-tomharrissonindian-1977-1856ec5a6c78.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Tom Harrisson and Indian influences in early Southeast Asia
 
 Alastair Lamb published this memorial and methodological assessment of Tom Harrisson in 1977, using the ongoing scholarly controversy over the reconstruction of Chandi Bukit Batu Pahat and the origins of nine-chambered reliquaries to contrast Harrisson's ethnographically grounded, naturalist approach to protohistoric Southeast Asia with H.G. Quaritch Wales' rigid model of direct Indian cultural transmission. The article argues that Harrisson's instinct to read indigenous social and economic processes into the archaeological record—rather than imposing a fixed stylistic template—points toward a more nuanced understanding of how Indian influences were locally transformed in early Southeast Asian states.

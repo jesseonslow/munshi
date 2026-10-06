@@ -5,8 +5,7 @@ title: 'The ‘lost city’ of Kota Gelanggi: an exploratory essay based on text
   and an excursion into ‘aerial archaeology’'
 canonical_name: 'The ‘lost city’ of Kota Gelanggi: an exploratory essay based on textual
   evidence and an excursion into ‘aerial archaeology’'
-type: article
-article_type: article
+type: publication
 authors:
 - Raimy Ché-Ross
 year: 2004
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-287-chross-lostcitykota-2004-2dd2d6a002cb
 source_path: ../sources/jmbras-287-chross-lostcitykota-2004-2dd2d6a002cb/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The ‘lost city’ of Kota Gelanggi: an exploratory essay based on textual evidence and an excursion into ‘aerial archaeology’
 
 Raimy Ché-Ross's 2004 exploratory essay, published in the *Journal of the Malaysian Branch of the Royal Asiatic Society*, re-examines the long-standing identification of the legendary "lost city" of Kota Gelanggi with the cave complex of the same name in Pahang, arguing instead that the city described in the *Sejarah Melayu* lies on the upper reaches of the Johor River and presenting preliminary aerial and ground evidence for a candidate site in central Johor.

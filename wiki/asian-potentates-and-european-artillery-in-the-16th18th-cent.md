@@ -5,8 +5,7 @@ title: 'Asian potentates and European artillery in the 16th–18th centuries: a 
   to Gibson-Hill'
 canonical_name: 'Asian potentates and European artillery in the 16th–18th centuries:
   a footnote to Gibson-Hill'
-type: article
-article_type: article
+type: publication
 authors:
 - C.R. Boxer
 year: 1965
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-208-boxer-asianpotentateseuropean-1965-eee069bb8b4e
 source_path: ../sources/jmbras-208-boxer-asianpotentateseuropean-1965-eee069bb8b4e.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Asian potentates and European artillery in the 16th–18th centuries: a footnote to Gibson-Hill
 
 C.R. Boxer, writing in 1965, surveys the demand for European cannon and gunners across Monsoon Asia—from Persia to Japan—over the sixteenth, seventeenth, and eighteenth centuries, arguing that while Asian rulers eagerly acquired European artillery for defence, prestige, and sacro-magical purposes, they largely failed to convert this access into sustained military effectiveness. The article is explicitly framed as a "footnote" to C.A. Gibson-Hill's 1953 study of Dutch cannon in Malaya, broadening that localised inquiry into a comparative pan-Asian context.

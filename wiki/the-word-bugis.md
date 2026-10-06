@@ -3,8 +3,7 @@ id: the-word-bugis
 work_id: jmbras-89-2-p139
 title: The word Bugis
 canonical_name: The word Bugis
-type: article
-article_type: article
+type: publication
 authors:
 - R. Jones
 - P.H. Kratoska
@@ -23,7 +22,9 @@ summarized: true
 source_mismatch: false
 source_doc: jmbras-311-jones-wordbugis-2016-da4b4e44ac1e
 source_path: ../sources/jmbras-311-jones-wordbugis-2016-da4b4e44ac1e.md
+publication_type: note
 ---
+
 # The word Bugis
 
 Russell Jones poses a query to JMBRAS members regarding the origin of the final "-s" in the Malay form "Bugis," prompted by an inquiry from the Oxford English Dictionary.

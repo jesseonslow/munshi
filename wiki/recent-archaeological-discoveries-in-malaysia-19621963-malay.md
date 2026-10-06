@@ -3,8 +3,7 @@ id: recent-archaeological-discoveries-in-malaysia-19621963-malay
 work_id: jmbras-37-2-p201
 title: 'Recent archaeological discoveries in Malaysia 1962–1963: Malaya'
 canonical_name: 'Recent archaeological discoveries in Malaysia 1962–1963: Malaya'
-type: article
-article_type: article
+type: publication
 authors:
 - B.A.V. Peacock
 year: 1964
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: false
 source_doc: jmbras-206-harrison-recentarchaeologicaldiscoveries-1964-133c44acc366
 source_path: ../sources/jmbras-206-harrison-recentarchaeologicaldiscoveries-1964-133c44acc366.md
+publication_type: journal_article
 ---
+
 # Recent archaeological discoveries in Malaysia 1962–1963: Malaya
 
 B.A.V. Peacock's 1964 report documents significant archaeological discoveries in Malaya during 1962–1963, centred on the University of Malaya's Archaeological Research Unit and the Federation Museums Department. The overarching thesis is that Malayan prehistory is far more complex than previously assumed, with multiple technological traditions coexisting contemporaneously and surviving into recent historical times.

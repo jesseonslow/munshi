@@ -3,8 +3,7 @@ id: the-political-structure-of-the-malayan-union
 work_id: jmbras-43-1-p116
 title: The political structure of the Malayan Union
 canonical_name: The political structure of the Malayan Union
-type: article
-article_type: article
+type: publication
 authors:
 - M. Rudner
 year: 1970
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-217-rudner-politicalstructuremalayan-1970-4c523b3d8812
 source_path: ../sources/jmbras-217-rudner-politicalstructuremalayan-1970-4c523b3d8812.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The political structure of the Malayan Union
 
 Martin Rudner's 1970 article examines the political architecture of the Malayan Union, the short-lived centralized colonial entity that governed the Malay Peninsula between the end of the British Military Administration and the establishment of the Federation of Malaya. His overarching thesis is that the Union's rule-making and administrative structures were so structurally incoherent and politically illegitimate that they accelerated the regime's own collapse.

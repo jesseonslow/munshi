@@ -3,8 +3,7 @@ id: post-war-constitutional-changes-in-brunei-19441948
 work_id: jmbras-63-1-p35
 title: Post-war constitutional changes in Brunei 1944―1948
 canonical_name: Post-war constitutional changes in Brunei 1944―1948
-type: article
-article_type: article
+type: publication
 authors:
 - A.V.M. Horton
 year: 1990
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: true
 source_doc: jmbras-258-horton-notepostwarconstitutional-1990-8fa285e565fc
 source_path: ../sources/jmbras-258-horton-notepostwarconstitutional-1990-8fa285e565fc.md
+publication_type: journal_article
 ---
+
 # Post-war constitutional changes in Brunei 1944―1948
 
 A.V.M. Horton's 1990 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* examines how the British colonial administration engineered the transfer of Brunei's High Commissionership from the Governor-General to the Governor of Sarawak between 1944 and 1948. Drawing on Colonial Office and War Office files at the Public Record Office, Kew, Horton argues that the British skillfully manipulated Brunei's leaders into accepting administrative subordination to Sarawak while deliberately avoiding any formal treaty amendment that might provoke opposition, leaving the Brunei people with virtually no say in their own constitutional future.

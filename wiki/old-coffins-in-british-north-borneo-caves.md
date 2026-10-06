@@ -3,8 +3,7 @@ id: old-coffins-in-british-north-borneo-caves
 work_id: jmbras-11-2-p133
 title: Old coffins in British North Borneo caves
 canonical_name: Old coffins in British North Borneo caves
-type: article
-article_type: article
+type: publication
 authors:
 - P. Orolfo
 year: 1933
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-117-orolfo-oldcoffinsbritish-1933-c58e8918b53a
 source_path: ../sources/jmalayanras-117-orolfo-oldcoffinsbritish-1933-c58e8918b53a.md
 summarized: true
+publication_type: note
 ---
+
 # Old coffins in British North Borneo caves
 
 This short note by Pastor Orolfo, Senior Forest Ranger of the North Borneo Forest Department, documents the discovery of ancient coffins in caves across the Madai, Baturong, and Tapadong Hills of British North Borneo (p. 133).

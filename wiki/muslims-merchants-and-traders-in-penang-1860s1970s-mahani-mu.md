@@ -5,8 +5,7 @@ title: Muslims merchants and traders in Penang, 1860s–1970s. Mahani Musa and B
   Haji Salleh
 canonical_name: Muslims merchants and traders in Penang, 1860s–1970s. Mahani Musa
   and Badriyah Haji Salleh
-type: article
-article_type: article
+type: publication
 authors:
 - Badriyah Haji Salleh
 - Mahani Musa
@@ -24,7 +23,9 @@ published: false
 source_doc: jmbras-305-musa-muslimmerchantstraders-2013-67ee09207402
 source_path: ../sources/jmbras-305-musa-muslimmerchantstraders-2013-67ee09207402/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Muslims merchants and traders in Penang, 1860s–1970s. Mahani Musa and Badriyah Haji Salleh
 
 Mahani Musa and Badriyah Haji Salleh (2013) examine the economic role of Muslim merchants and traders in Penang from the 1860s to the 1970s, arguing that despite the mid-nineteenth-century influx of Chinese immigrants that overshadowed Muslim dominance in large-scale oceanic trade, Muslim businesses continued to flourish in George Town's inner commercial districts and maintained significant contributions to the island's socioeconomic development well into the twentieth century.

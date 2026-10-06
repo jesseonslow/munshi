@@ -3,8 +3,7 @@ id: the-origin-of-british-administration-in-malaya
 work_id: jmbras-39-1-p52
 title: The origin of British administration in Malaya
 canonical_name: The origin of British administration in Malaya
-type: article
-article_type: article
+type: publication
 authors:
 - Khoo Kay Kim
 year: 1966
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-209-kim-originbritishadministration-1966-5066652de18e
 source_path: ../sources/jmbras-209-kim-originbritishadministration-1966-5066652de18e.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The origin of British administration in Malaya
 
 Khoo Kay Kim's 1966 article challenges the prevailing historiographical consensus—rooted in the work of Cowan and MacIntyre—that Lord Kimberley's decision in 1873 to authorize British intervention in the Malay States was primarily motivated by fear of German encroachment. Drawing extensively on Colonial Office minute books and private correspondence, Khoo argues that the true driving force was the protection and development of British commercial interests in the Straits Settlements and the Peninsula, with the "German threat" serving as a convenient public justification to secure Gladstone's approval.

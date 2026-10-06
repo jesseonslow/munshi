@@ -3,8 +3,7 @@ id: the-dutch-malay-word-list-of-peter-floris-1604
 work_id: jmbras-26-1-p204
 title: The Dutch-Malay word-list of Peter Floris (1604
 canonical_name: The Dutch-Malay word-list of Peter Floris (1604)
-type: article
-article_type: article
+type: publication
 authors:
 - C.A. Gibson-Hill
 year: 1953
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-161-gibsonhill-dutchmalaywordlistpeter-1953-9b8fe7933de9
 source_path: ../sources/jmalayanras-161-gibsonhill-dutchmalaywordlistpeter-1953-9b8fe7933de9.md
 summarized: true
+publication_type: note
 ---
+
 # The Dutch-Malay word-list of Peter Floris (1604
 
 This note by C. A. Gibson-Hill identifies and describes an unfinished Dutch-Malay vocabulary compiled in 1604 at Acheh by Pieter Willemsz van Elbinck (Peter Floris), which is the earliest known attempt to compile a Malay vocabulary in Jawi (Arabic) script (p. 204).

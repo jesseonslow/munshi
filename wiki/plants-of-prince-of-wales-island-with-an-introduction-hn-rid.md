@@ -3,8 +3,7 @@ id: plants-of-prince-of-wales-island-with-an-introduction-hn-rid
 work_id: jsbras-53-1-p49
 title: Plants of Prince of Wales Island. {With an introduction H.N. Ridley
 canonical_name: Plants of Prince of Wales Island. {With an introduction H.N. Ridley}
-type: article
-article_type: article
+type: publication
 authors:
 - W. Hunter
 year: 1909
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-053-hunter-plantsprincewales-1909-b9cfdf3dc7d7
 source_path: ../sources/jsbras-053-hunter-plantsprincewales-1909-b9cfdf3dc7d7/frontmatter.md
 summarized: true
+publication_type: document
 ---
+
 # Plants of Prince of Wales Island. {With an introduction H.N. Ridley
 
 Sir William Hunter, Surgeon to the East India Company, composed this manuscript flora of Penang (Prince of Wales Island) during his residence on the island in the late 1790s, and it was published posthumously in 1909 with an introductory note by H. N. Ridley. The work documents the island's vegetation at a formative moment in its colonial agricultural history, recording the establishment of the East India Company's spice gardens and the early cultivation of pepper, nutmeg, and other commercial crops. Its primary value lies in providing the first systematic botanical account of Penang and the earliest recorded observations on the fruiting of nutmeg and mangosteen in the Straits Settlements.

@@ -3,8 +3,7 @@ id: mohamedan-calendar
 work_id: jmbras-1-2-p334
 title: Mohamedan calendar
 canonical_name: Mohamedan calendar
-type: article
-article_type: article
+type: publication
 authors:
 - Mohamed Sayid
 year: 1923
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-088-sayid-mohamedancalendar-1923-00474766c982
 source_path: ../sources/jmalayanras-088-sayid-mohamedancalendar-1923-00474766c982.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Mohamedan calendar
 
 Haji Mohamed Sayid, a Captain in the Sultan of Johore's Forces, published this practical calendrical reference in 1923 to provide the Malay Muslim community with a reliable perpetual calendar system for the fourteenth century of the Hijra (AH 1300–1400), reconciling the fixed arithmetic of the lunar calendar with the religious imperative of new-moon sighting for the observance of Ramadan and Eid.

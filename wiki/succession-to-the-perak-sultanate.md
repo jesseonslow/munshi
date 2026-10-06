@@ -3,8 +3,7 @@ id: succession-to-the-perak-sultanate
 work_id: jmbras-56-2-p7
 title: Succession to the Perak Sultanate
 canonical_name: Succession to the Perak Sultanate
-type: article
-article_type: article
+type: publication
 authors:
 - Khoo Kay Kim
 year: 1983
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-245-kim-successionperaksultanate-1983-f76f2f31f4bf
 source_path: ../sources/jmbras-245-kim-successionperaksultanate-1983-f76f2f31f4bf.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Succession to the Perak Sultanate
 
 Khoo Kay Kim's 1983 article examines the succession system of the Perak Sultanate from its 16th-century origins through the 1980s, arguing that the throne was never governed by primogeniture but by an elective practice that, from 1826, incorporated a rotation among three royal families descended from Sultan Ahmaddin. The article demonstrates how British intervention from 1874 onward fundamentally restructured this system, concentrating succession power in the hands of the reigning Sultan while nominally preserving the older arrangement.

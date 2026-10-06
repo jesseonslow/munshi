@@ -4,8 +4,7 @@ work_id: jsbras-77-1-p177
 title: Memorandum on the aborigines of the Jasin district of Malacca, dated 1892
 canonical_name: Memorandum on the aborigines of the Jasin district of Malacca, dated
   1892
-type: article
-article_type: article
+type: publication
 authors:
 - C.O. Blagden
 year: 1917
@@ -22,7 +21,9 @@ published: false
 source_doc: jsbras-077-blagden-memorandumaboriginesjasin-1917-86b725e22535
 source_path: ../sources/jsbras-077-blagden-memorandumaboriginesjasin-1917-86b725e22535.md
 summarized: true
+publication_type: document
 ---
+
 # Memorandum on the aborigines of the Jasin district of Malacca, dated 1892
 
 A 1892 administrative memorandum by C.O. Blagden describing the non-Muhammadan aborigines of the Jasin district, Malacca, published in 1917 from an official file in the Malacca records at the suggestion of Resident L. E. Pipe Wolferstan.

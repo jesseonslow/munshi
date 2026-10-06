@@ -3,8 +3,7 @@ id: kulanggi-or-gulanggi
 work_id: jmbras-18-2-p152
 title: Kulanggi or Gulanggi
 canonical_name: Kulanggi or Gulanggi
-type: article
-article_type: article
+type: publication
 authors:
 - R.O. Winstedt
 year: 1940
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-138-winstedt-kulanggigulanggi-1940-66bb88e32e8b
 source_path: ../sources/jmalayanras-138-winstedt-kulanggigulanggi-1940-66bb88e32e8b.md
 summarized: true
+publication_type: note
 ---
+
 # Kulanggi or Gulanggi
 
 This short note by R.O. Winstedt addresses the correct romanization of a Raja's name in the Kedah Annals, arguing for "Kulanggi" or "Gulanggi" over Braddell's identification with Kalinga and Burma (p. 152).

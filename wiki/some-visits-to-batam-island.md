@@ -3,8 +3,7 @@ id: some-visits-to-batam-island
 work_id: jsbras-50-1-p61
 title: Some visits to Batam Island
 canonical_name: Some visits to Batam Island
-type: article
-article_type: article
+type: publication
 authors:
 - C.B. Kloss
 year: 1908
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-050-kloss-visitsbatamisland-1908-5c5f69d5a745
 source_path: ../sources/jsbras-050-kloss-visitsbatamisland-1908-5c5f69d5a745.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Some visits to Batam Island
 
 C. Boden Kloss, a Fellow of the Zoological Society, published this field account in 1908 documenting two short collecting expeditions to Batam Island (1905 and 1906), situated nine miles off Singapore. The article presents the first naturalist investigation of the island's fauna, arguing that Batam's mammal assemblage is predominantly Sumatran rather than Peninsular in character, and that the island group of Batam, Bulang, Rempang, and Galang forms a distinct faunistic unit more closely allied to the western islands than to Bintang to the east (pp. 61, 70–71).

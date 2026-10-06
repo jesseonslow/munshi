@@ -3,8 +3,7 @@ id: the-economics-of-the-handloom-industry-of-the-east-coast-of-
 work_id: jmbras-32-4-p1
 title: The economics of the handloom industry of the east coast of Malaya
 canonical_name: The economics of the handloom industry of the east coast of Malaya
-type: article
-article_type: article
+type: publication
 authors:
 - E.K. Fisk
 year: 1959
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: true
 source_doc: jmalayanras-188-fisk-economicshandloomindustry-1959-5dece7b170ec
 source_path: ../sources/jmalayanras-188-fisk-economicshandloomindustry-1959-5dece7b170ec.md
+publication_type: journal_article
 ---
+
 # The economics of the handloom industry of the east coast of Malaya
 
 E.K. Fisk, an economist at the Australian National University's Research School of Pacific Studies, published this comprehensive economic survey of Malaya's largest surviving cottage industry in 1959, drawing on detailed fieldwork conducted by the Rural and Industrial Development Authority (RIDA) in Trengganu and Kelantan during 1957–58. His central argument is that the industry's future depends not on expanding mass cotton production but on improving the quality of its entrepreneurial organisation to serve higher-value silk and metallic-thread markets, both domestic and overseas.

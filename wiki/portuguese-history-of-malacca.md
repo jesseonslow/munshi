@@ -3,8 +3,7 @@ id: portuguese-history-of-malacca
 work_id: jsbras-17-1-p117
 title: Portuguese history of Malacca
 canonical_name: Portuguese history of Malacca
-type: article
-article_type: article
+type: publication
 authors:
 - E. Koek
 year: 1886
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-017-koek-portuguesehistorymalacca-1886-5f349ed9b162
 source_path: ../sources/jsbras-017-koek-portuguesehistorymalacca-1886-5f349ed9b162.md
 summarized: true
+publication_type: reprint
 ---
+
 # Portuguese history of Malacca
 
 E. Koek published this article in 1886 in the *Journal of the Straits Branch of the Royal Asiatic Society*, presenting a continuous narrative of Portuguese Malacca from the first European contact in 1508 through the rise of Dutch and English maritime competition in the early seventeenth century. The text is a reprint of an 1823 article from the *Malacca Observer* newspaper, drawn principally from Manuel de Faria y Souza's *Asia Portugueza*, with Koek supplying scholarly annotations that correct names, identify places, and cross-reference Portuguese primary sources such as Albuquerque's *Commentaries* and De Barros's *Décadas*.

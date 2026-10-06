@@ -4,8 +4,7 @@ work_id: jmbras-29-1-p125
 title: On the alleged death of Sultan Al’a’ud-din of Johore at Acheh, in 1613
 canonical_name: On the alleged death of Sultan Al’a’ud-din of Johore at Acheh, in
   1613
-type: article
-article_type: article
+type: publication
 authors:
 - C.A. Gibson-Hill
 year: 1956
@@ -22,7 +21,9 @@ published: false
 source_doc: jmalayanras-173-gibsonhill-allegeddeathsultan-1956-eb9a33cef68f
 source_path: ../sources/jmalayanras-173-gibsonhill-allegeddeathsultan-1956-eb9a33cef68f/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # On the alleged death of Sultan Al’a’ud-din of Johore at Acheh, in 1613
 
 C.A. Gibson-Hill's 1956 article in the *Journal of the Malayan Branch of the Royal Asiatic Society* (Vol. 29, Pt. 1) dismantles the long-standing claim that Sultan Ala'u'd-din Ri'ayat Shah of Johore died at Acheh in June 1613. Drawing on English, Dutch, and Malay sources, Gibson-Hill demonstrates that the prince captured at Batu Sawar that year was Ala'u'd-din's half-brother Raja Bongsu, and that the "death at Acheh" tradition almost certainly conflates this sultan with his predecessor of the same name (r. 1529–c.1564), who was indeed taken prisoner and died in Acheh.

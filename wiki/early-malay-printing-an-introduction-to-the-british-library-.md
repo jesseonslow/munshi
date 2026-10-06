@@ -3,8 +3,7 @@ id: early-malay-printing-an-introduction-to-the-british-library-
 work_id: jmbras-63-1-p85
 title: 'Early Malay printing: an introduction to the British Library collection'
 canonical_name: 'Early Malay printing: an introduction to the British Library collection'
-type: article
-article_type: article
+type: publication
 authors:
 - A.T. Gallop
 year: 1990
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-258-gallop-earlymalayprinting-1990-a1a2a96ad4c8
 source_path: ../sources/jmbras-258-gallop-earlymalayprinting-1990-a1a2a96ad4c8/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Early Malay printing: an introduction to the British Library collection
 
 Annabel Teh Gallop, a curator in the British Library's Oriental Collections, published this comprehensive introduction to the Library's holdings of early Malay printed works in 1990. Spanning the period from 1603 to the late nineteenth century, the article uses the collection as a lens to trace the development of Malay printing across Europe, the Malay archipelago, the Middle East, and South Asia, arguing that the British Library's assemblage represents nearly all the main developments in this history and offers an unrivalled resource for future scholarship.

@@ -3,8 +3,7 @@ id: atrip-to-gunong-blumut
 work_id: jsbras-3-1-p85
 title: Atrip to Gunong Blumut
 canonical_name: Atrip to Gunong Blumut
-type: article
-article_type: article
+type: publication
 authors:
 - D.F.A. Hervey
 year: 1879
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: true
 source_doc: jsbras-003-hervey-tripgunongblumut-1879-fe8df36bda82
 source_path: ../sources/jsbras-003-hervey-tripgunongblumut-1879-fe8df36bda82.md
+publication_type: journal_article
 ---
+
 # Atrip to Gunong Blumut
 
 D.F.A. Hervey's "A Trip to Gunong Blumut," read before the Society on 13 October 1879 and published in JSBRAS Vol. 3, documents a January–February 1879 expedition up the Johor and Lenggiu rivers and overland to the summit of Gunong Blumut in the interior of Johor. Accompanied by Mr. Hullett, Principal of Raffles' Institute, Hervey combined botanical collecting, geological observation, and ethnographic inquiry among Malay and Jakun communities to produce one of the earliest comprehensive accounts of this mountain and its surrounding country.

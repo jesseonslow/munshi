@@ -3,8 +3,7 @@ id: ian-alister-macgregor
 work_id: jmbras-33-1-p110
 title: Ian Alister Macgregor
 canonical_name: Ian Alister Macgregor
-type: article
-article_type: obituary
+type: publication
 authors:
 - K.G. Tregonning
 year: 1960
@@ -23,9 +22,8 @@ aliases:
 - MacGregor, I.A
 source_doc: jmalayanras-189-tregonning-ianalistairmacgregor-1960-fb7f5b4d9cf0
 source_path: ../sources/jmalayanras-189-tregonning-ianalistairmacgregor-1960-fb7f5b4d9cf0.md
+publication_type: obituary
 ---
-
-
 
 # Ian Alister Macgregor, M.A.
 

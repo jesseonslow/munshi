@@ -5,8 +5,7 @@ title: 'Sultan Abu Bakar’s foreign guests and travels abroad, 1860s-1895: fact
   fiction in early Malay historical accounts'
 canonical_name: 'Sultan Abu Bakar’s foreign guests and travels abroad, 1860s-1895:
   fact and fiction in early Malay historical accounts'
-type: article
-article_type: article
+type: publication
 authors:
 - A. Rahman Tang Abdullah
 year: 2011
@@ -24,7 +23,9 @@ summarized: true
 source_mismatch: false
 source_doc: jmbras-300-abdullah-sultanabubakars-2011-5c7a560a7f1c
 source_path: ../sources/references.md
+publication_type: journal_article
 ---
+
 # Sultan Abu Bakar’s foreign guests and travels abroad, 1860s-1895: fact and fiction in early Malay historical accounts
 
 A. Rahman Tang Abdullah's 2011 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* (Vol. 84, Part 1) examines Sultan Abu Bakar of Johor's foreign travels and reception of foreign guests between the 1860s and 1895, arguing that early Malay historical accounts—particularly those in the *syair* (long poem) form—were uncritical, fragmentary, and prone to invention and exaggeration, whereas contemporary English-language sources offered more rounded, factual, and occasionally critical portrayals. The paper unravels fact from fiction in these Malay sources and raises two previously unexamined themes: Abu Bakar's observance of Islamic practice and his conduct at social functions with foreign dignitaries.

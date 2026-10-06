@@ -5,8 +5,7 @@ title: Some notes on the Kelantan dialect, and some comparisons with the dialect
   of Perak and central Pahang
 canonical_name: Some notes on the Kelantan dialect, and some comparisons with the
   dialects of Perak and central Pahang
-type: article
-article_type: article
+type: publication
 authors:
 - A.J. Sturrock
 year: 1912
@@ -29,7 +28,9 @@ published: false
 source_doc: jsbras-062-sturrock-noteskelantandialect-1912-1ff970a82140
 source_path: ../sources/jsbras-062-sturrock-noteskelantandialect-1912-1ff970a82140.md
 summarized: true
+publication_type: note
 ---
+
 # Some notes on the Kelantan dialect, and some comparisons with the dialects of Perak and central Pahang
 
 A.J. Sturrock, a British colonial official stationed in Kelantan, published this dialectological note in the *Journal of the Straits Branch of the Royal Asiatic Society* in 1912, during the period immediately preceding the formal establishment of the British protectorate over the state. The article's central thesis is that the Kelantan Malay dialect constitutes a markedly distinct variety from those of Perak and central Pahang, characterised by extensive Siamese lexical borrowing, idiosyncratic phonological reductions, and a set of clipped terminal affixes found nowhere else in the Malay-speaking world.

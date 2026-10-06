@@ -3,8 +3,7 @@ id: the-tampin-succession
 work_id: jmbras-49-2-p1
 title: The Tampin succession
 canonical_name: The Tampin succession
-type: article
-article_type: article
+type: publication
 authors:
 - J.M. Gullick
 year: 1976
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: true
 source_doc: jmbras-230-gullick-tampinsuccession-1976-590824237d52
 source_path: ../sources/appendix.md
+publication_type: journal_article
 ---
+
 # The Tampin succession
 
 John Gullick's "The Tampin Succession" (1976) reconstructs the constitutional crisis in Negri Sembilan between 1876 and 1894, centred on the competing claims of Haji Sahil and Syed Hamid to authority over Rembau and Tampin. The article argues that Governor Weld's arbitration at Malacca in March 1883 — which deposed Haji Sahil and confirmed Syed Hamid as ruler of Tampin alone — represented a pragmatic but constitutionally novel solution that dismantled both the earlier Johore-mediated arrangement and the hereditary pretensions of the Rembau royal house.

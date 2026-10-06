@@ -3,8 +3,7 @@ id: date-of-the-foundation-of-singapore
 work_id: jmbras-42-1-p83
 title: Date of the foundation of Singapore
 canonical_name: Date of the foundation of Singapore
-type: article
-article_type: article
+type: publication
 authors:
 - R.B. Raffles
 year: 1969
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-215-raffles-datefoundationsingapore-1969-198b5f52003d
 source_path: ../sources/jmbras-215-raffles-datefoundationsingapore-1969-198b5f52003d.md
 summarized: true
+publication_type: note
 ---
+
 # Date of the foundation of Singapore
 
 A brief letter by R. Blanchard Raffles, a member of the Raffles family, correcting the widely repeated error that Singapore was founded on 29 February 1819, which is impossible since 1819 was not a leap year (p. 83).

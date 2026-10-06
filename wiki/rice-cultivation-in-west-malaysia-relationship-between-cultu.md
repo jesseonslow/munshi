@@ -5,8 +5,7 @@ title: 'Rice cultivation in West Malaysia: relationship between culture history,
   practices and recent developments'
 canonical_name: 'Rice cultivation in West Malaysia: relationship between culture history,
   customary practices and recent developments'
-type: article
-article_type: article
+type: publication
 authors:
 - J.C. Jackson
 year: 1972
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-222-jackson-ricecultivationwest-1972-95121e781d62
 source_path: ../sources/jmbras-222-jackson-ricecultivationwest-1972-95121e781d62.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Rice cultivation in West Malaysia: relationship between culture history, customary practices and recent developments
 
 James C. Jackson published this article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* in 1972, during the early phase of Malaysia's aggressive push toward rice self-sufficiency through double cropping and high-yielding varieties. His central thesis is that the regional variations in customary rice-farming practices across West Malaysia are not merely adaptive responses to local soils, rainfall, or topography but are fundamentally products of culture history—the different directions, times, and vectors through which wet-rice techniques entered each part of the peninsula—and that these cultural roots have direct consequences for how receptively different regions will absorb the new agricultural technologies being promoted by government.

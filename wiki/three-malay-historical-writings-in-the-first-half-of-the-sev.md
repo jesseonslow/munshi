@@ -4,8 +4,7 @@ work_id: jmbras-40-2-p38
 title: Three Malay historical writings in the first half of the seventeenth century
 canonical_name: Three Malay historical writings in the first half of the seventeenth
   century
-type: article
-article_type: article
+type: publication
 authors:
 - T. Iskandar
 year: 1967
@@ -22,7 +21,9 @@ published: false
 source_doc: jmbras-212-iskandar-threemalayhistorical-1967-48ddf087ad99
 source_path: ../sources/jmbras-212-iskandar-threemalayhistorical-1967-48ddf087ad99.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Three Malay historical writings in the first half of the seventeenth century
 
 T. Iskandar's 1967 article in the *JMBRAS* examines three foundational Malay historical texts composed in the first half of the seventeenth century—the *Sejarah Melayu*, the *Hikayat Aceh*, and the *Bustanus-Salatin*—arguing that each differs fundamentally in purpose, structure, and literary model, and that their authorship and textual transmission can be clarified through careful manuscript comparison and awareness of the broader Islamic literary milieu of the period.

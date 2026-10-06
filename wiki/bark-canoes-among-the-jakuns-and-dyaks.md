@@ -3,8 +3,7 @@ id: bark-canoes-among-the-jakuns-and-dyaks
 work_id: jsbras-49-1-p109
 title: Bark canoes among the Jakuns and Dyaks
 canonical_name: Bark canoes among the Jakuns and Dyaks
-type: article
-article_type: article
+type: publication
 authors:
 - W.L. Abbott
 year: 1907
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-049-abbott-barkcanoesamong-1907-98142aaf6e2f
 source_path: ../sources/jsbras-049-abbott-barkcanoesamong-1907-98142aaf6e2f.md
 summarized: true
+publication_type: note
 ---
+
 # Bark canoes among the Jakuns and Dyaks
 
 This short note by Dr. W. L. Abbott documents the use of bark canoes among the Jakuns of Pahang and the Dyaks of West Borneo, a practice he considered previously unrecorded in Malaya.

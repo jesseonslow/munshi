@@ -3,8 +3,7 @@ id: notes-on-ancient-times-in-malaya-parts-2-and-3
 work_id: jmbras-20-2-p1
 title: Notes on ancient times in Malaya. Parts 2 and 3
 canonical_name: Notes on ancient times in Malaya. Parts 2 and 3
-type: article
-article_type: article
+type: publication
 authors:
 - R. Braddell
 year: 1947
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: true
 source_doc: jmalayanras-142-braddell-notesancienttimes-1947-9f9fa01411eb
 source_path: ../sources/jmalayanras-142-braddell-notesancienttimes-1947-9f9fa01411eb.md
+publication_type: journal_article
 ---
+
 # Notes on ancient times in Malaya. Parts 2 and 3
 
 Roland Braddell's 1947 "Notes on Ancient Times in Malaya, Parts 2 and 3" (JMBRAS Vol. 20) is a supplementary continuation of his earlier multi-volume *Introduction*, published after the Japanese occupation interrupted his original project. The article argues that the Malay Peninsula's ancient history—spanning prehistoric megalithic cultures through proto-historic Indian settlement—has been systematically understudied, and that geographical and navigational evidence must take priority over etymological speculation in identifying ancient toponyms.

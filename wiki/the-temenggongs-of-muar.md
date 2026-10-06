@@ -3,8 +3,7 @@ id: the-temenggongs-of-muar
 work_id: jmbras-10-1-p30
 title: The Temenggongs of Muar
 canonical_name: The Temenggongs of Muar
-type: article
-article_type: article
+type: publication
 authors:
 - R.O. Winstedt
 year: 1932
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-113-winstedt-temenggongsmuar-1932-23a7fffae056
 source_path: ../sources/jmalayanras-113-winstedt-temenggongsmuar-1932-23a7fffae056.md
 summarized: true
+publication_type: note
 ---
+
 # The Temenggongs of Muar
 
 This short note by R. O. Winstedt reproduces Newbold's 1837 account of the Temenggong lineage of Muar and appends a genealogical tree tracing the family from its Hadramaut-Acheh origins through eight successive holders of the title.

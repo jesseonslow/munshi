@@ -3,8 +3,7 @@ id: the-malingkote-in-borneo-in-june-1891
 work_id: jsbras-26-1-p203
 title: The “Malingkote” in Borneo in June, 1891
 canonical_name: The “Malingkote” in Borneo in June, 1891
-type: article
-article_type: article
+type: publication
 authors:
 - H. Wise
 year: 1894
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-026-wise-malingkoteborneojune-1894-9ba3f0f68671
 source_path: ../sources/jsbras-026-wise-malingkoteborneojune-1894-9ba3f0f68671.md
 summarized: true
+publication_type: note
 ---
+
 # The “Malingkote” in Borneo in June, 1891
 
 H. Wise's brief note documents the "Malingkote" movement, a millenarian religious phenomenon that swept through Borneo in June 1891, as reported in the *Journal of the Straits Branch of the Royal Asiatic Society* (Vol. 26, 1894).

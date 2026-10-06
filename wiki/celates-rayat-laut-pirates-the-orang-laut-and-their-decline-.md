@@ -4,8 +4,7 @@ work_id: jmbras-80-2-p33
 title: 'Celates, Rayat-Laut, pirates: the Orang Laut and their decline in history'
 canonical_name: 'Celates, Rayat-Laut, pirates: the Orang Laut and their decline in
   history'
-type: article
-article_type: article
+type: publication
 authors:
 - T.P. Barnard
 year: 2007
@@ -22,7 +21,9 @@ published: false
 source_doc: jmbras-293-barnard-celatesrayatlautpirates-2007-8fba3d659f33
 source_path: ../sources/jmbras-293-barnard-celatesrayatlautpirates-2007-8fba3d659f33/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Celates, Rayat-Laut, pirates: the Orang Laut and their decline in history
 
 Timothy P. Barnard's 2007 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* examines the Orang Laut (sea peoples) of the southern Melaka Straits and their transition from indispensable maritime power brokers to a marginalized remnant over the course of the eighteenth century. Set against the rise and fall of Srivijaya, Melaka, and Johor, Barnard argues that the Orang Laut's decline was not primarily caused by European technological superiority but by the internal shattering of the patron–client bond between Malay rulers and their sea-based followers, a process initiated by the regicide that ended the direct Melaka–Johor line of sovereignty.

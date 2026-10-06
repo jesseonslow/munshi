@@ -3,8 +3,7 @@ id: a-journey-to-the-source-of-the-indau
 work_id: jsbras-25-1-p1
 title: A journey to the source of the Indau
 canonical_name: A journey to the source of the Indau
-type: article
-article_type: article
+type: publication
 authors:
 - H.W Lake
 year: 1894
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: true
 source_doc: jsbras-025-lake-journeysourceindau-1894-bf2e22e00c9f
 source_path: ../sources/jsbras-025-lake-journeysourceindau-1894-bf2e22e00c9f.md
+publication_type: journal_article
 ---
+
 # A journey to the source of the Indau
 
 H.W. Lake's 1894 account documents a systematic expedition up the Indau River in the Johor–Pahang border region, reaching the river's source for the first time in recorded European exploration. The article combines travel narrative with topographical survey, geological observation, and ethnographic notes on the Jakun aborigines of the upper basin, producing a detailed itinerary that Lake explicitly intended as a guide for future travellers.

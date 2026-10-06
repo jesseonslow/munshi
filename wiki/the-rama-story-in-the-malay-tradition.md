@@ -3,8 +3,7 @@ id: the-rama-story-in-the-malay-tradition
 work_id: jmbras-54-2-p131
 title: The Rama story in the Malay tradition
 canonical_name: The Rama story in the Malay tradition
-type: article
-article_type: article
+type: publication
 authors:
 - K.S. Singaravelu
 year: 1981
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-240-singaravelu-rmastorymalay-1981-783e3ca410b3
 source_path: ../sources/jmbras-240-singaravelu-rmastorymalay-1981-783e3ca410b3.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The Rama story in the Malay tradition
 
 S. Singaravelu of the University of Malaya published this comparative study in 1981, examining how the Rāmāyaṇa narrative has been absorbed, transformed, and restructured across three distinct streams of Malay tradition: the *Wayang Siam* shadow-play, the *penglipur lara* oral folk romance, and the literary *Hikayat Seri Rama*. The overarching thesis is that the Malay Rama story is not a mere translation or derivative of the Sanskrit epic but a highly developed, original body of literature that incorporates localised scenery, Islamic religious influence, Panji-derived sub-plots, and a distinctive system of character relationships forged through unusual birth-story combinations.

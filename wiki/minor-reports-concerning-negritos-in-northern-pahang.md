@@ -3,8 +3,7 @@ id: minor-reports-concerning-negritos-in-northern-pahang
 work_id: jmbras-49-2-p184
 title: Minor reports concerning Negritos in Northern Pahang
 canonical_name: Minor reports concerning Negritos in Northern Pahang
-type: article
-article_type: article
+type: publication
 authors:
 - R. Needham
 year: 1976
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-230-needham-minorreportsconcerning-1976-4b4b4163e0bb
 source_path: ../sources/jmbras-230-needham-minorreportsconcerning-1976-4b4b4163e0bb/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Minor reports concerning Negritos in Northern Pahang
 
 Rodney Needham published this article in 1976 in the *Journal of the Malaysian Branch of the Royal Asiatic Society*, recording fragmentary ethnographic observations gathered during an unsuccessful two-week search in May 1955 for nomadic Negritos on the Gunong Tahan massif in northern Pahang. The overarching thesis is that even the most minor and uncertain field reports, when set alongside the sparse existing literature, can yield decisive evidence of the distribution, economy, and social organisation of forest-nomadic Negrito groups in a region that had been poorly documented up to that point.

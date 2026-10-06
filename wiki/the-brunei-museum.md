@@ -3,8 +3,7 @@ id: the-brunei-museum
 work_id: jmbras-45-1-p119
 title: The Brunei museum
 canonical_name: The Brunei museum
-type: article
-article_type: article
+type: publication
 authors:
 - Tom Harrisson
 year: 1972
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-221-harrisson-bruneimuseum-1972-2746c9e4c5ba
 source_path: ../sources/jmbras-221-harrisson-bruneimuseum-1972-2746c9e4c5ba.md
 summarized: true
+publication_type: note
 ---
+
 # The Brunei museum
 
 This is a brief descriptive note by Tom Harrisson on the newly completed Brunei Museum, published in JMBRAS Vol. 45 (1972).

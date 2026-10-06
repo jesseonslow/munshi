@@ -3,8 +3,7 @@ id: some-more-malay-words
 work_id: jsbras-80-1-p135
 title: Some more Malay words
 canonical_name: Some more Malay words
-type: article
-article_type: article
+type: publication
 authors:
 - R.O. Winstedt
 year: 1919
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-080-winstedt-malaywords-1919-efc0ae5df9aa
 source_path: ../sources/jsbras-080-winstedt-malaywords-1919-efc0ae5df9aa.md
 summarized: true
+publication_type: note
 ---
+
 # Some more Malay words
 
 This short note by R. O. Winstedt proposes etymological derivations for a series of Malay words, drawing primarily on Sanskrit, Persian, Portuguese, and Dravidian sources (p. 135).

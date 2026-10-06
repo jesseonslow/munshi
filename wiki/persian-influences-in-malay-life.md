@@ -3,8 +3,7 @@ id: persian-influences-in-malay-life
 work_id: jmbras-28-1-p52
 title: Persian influences in Malay life
 canonical_name: Persian influences in Malay life
-type: article
-article_type: article
+type: publication
 authors:
 - G.E. Marrison
 year: 1955
@@ -18,6 +17,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: journal_article
 ---
 
 # Persian influences in Malay life

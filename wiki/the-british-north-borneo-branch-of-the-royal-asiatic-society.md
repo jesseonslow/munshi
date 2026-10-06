@@ -5,8 +5,7 @@ title: The British North Borneo Branch of the Royal Asiatic Society (1893–1897
   its museum
 canonical_name: The British North Borneo Branch of the Royal Asiatic Society (1893–1897)
   and its museum
-type: article
-article_type: article
+type: publication
 authors:
 - Danny Wong Tze Ken
 year: 2000
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-278-tzeken-britishnorthborneo-2000-8929170fe28f
 source_path: ../sources/jmbras-278-tzeken-britishnorthborneo-2000-8929170fe28f/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The British North Borneo Branch of the Royal Asiatic Society (1893–1897) and its museum
 
 Danny Wong Tze Ken (2000) recovers the brief but consequential history of the British North Borneo Branch of the Royal Asiatic Society (1893–1897) and the Sandakan museum it administered, arguing that this largely forgotten institution laid the groundwork for subsequent cultural and scientific engagement in Sabah. The article draws on the society's own journal, the *British North Borneo Herald*, and colonial company records to reconstruct an episode that later officials had effectively erased from institutional memory.

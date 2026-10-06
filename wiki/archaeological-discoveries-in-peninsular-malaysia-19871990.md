@@ -3,8 +3,7 @@ id: archaeological-discoveries-in-peninsular-malaysia-19871990
 work_id: jmbras-64-1-p75
 title: Archaeological discoveries in Peninsular Malaysia (1987–1990
 canonical_name: Archaeological discoveries in Peninsular Malaysia (1987–1990)
-type: article
-article_type: article
+type: publication
 authors:
 - Adi Haji Taha
 year: 1991
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-260-taha-archaeologicaldiscoveriespeninsular-1991-1bd59d9b2ce6
 source_path: ../sources/jmbras-260-taha-archaeologicaldiscoveriespeninsular-1991-1bd59d9b2ce6.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Archaeological discoveries in Peninsular Malaysia (1987–1990
 
 Adi Haji Taha, writing in 1991 for the *Journal of the Malaysian Branch of the Royal Asiatic Society*, surveys archaeological discoveries made across Peninsular Malaysia between 1987 and 1990, documenting a period of renewed institutional momentum as local universities—particularly Universiti Sains Malaysia and Universiti Kebangsaan Malaysia—resumed and expanded fieldwork that had been largely dormant since the colonial era. The article's overarching significance lies in recording how this new generation of research fundamentally revised the peninsula's prehistoric chronology and material culture record.

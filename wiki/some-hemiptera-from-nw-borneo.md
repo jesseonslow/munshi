@@ -3,8 +3,7 @@ id: some-hemiptera-from-nw-borneo
 work_id: jsbras-83-1-p76
 title: Some Hemiptera from N.W. Borneo
 canonical_name: Some Hemiptera from N.W. Borneo
-type: article
-article_type: article
+type: publication
 authors:
 - E. Bergroth
 year: 1921
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-083-bergroth-hemipteraheteropteran-1921-df92e7dd27c8
 source_path: ../sources/jsbras-083-bergroth-hemipteraheteropteran-1921-df92e7dd27c8.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Some Hemiptera from N.W. Borneo
 
 E. Bergroth, a Finnish entomologist based at the Helsingfors Museum, published this taxonomic contribution in 1921 describing thirteen new species of Heteroptera (true bugs) from Sarawak, Borneo, drawn from material collected by J. C. Moulton. The paper extends Bergroth's earlier 1913 treatment of Reduviidae from the same collection, broadening the faunal inventory across five families and establishing several species as new records for Borneo.

@@ -3,8 +3,7 @@ id: the-natives-of-sarawak
 work_id: jmbras-18-2-p49
 title: The natives of Sarawak
 canonical_name: The natives of Sarawak
-type: article
-article_type: article
+type: publication
 authors:
 - E. Banks
 year: 1940
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-138-banks-nativessarawak-1940-b5e5f11985fc
 source_path: ../sources/jmalayanras-138-banks-nativessarawak-1940-b5e5f11985fc.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The natives of Sarawak
 
 E. Banks, drawing on fifteen years of direct contact with native communities across Sarawak, published this ethnographic essay in 1940 arguing that the seemingly disparate peoples of the territory are in fact the end products of successive cultural and religious invasions—Hindu-Pallava, Islamic, and Kayan-Kenyah—impinging on a single common aboriginal stock he terms the Kalamantans. The article is a synthetic, impressionistic account that privileges linguistic, dietary, and ceremonial evidence over craniometric or blood-group data to reconstruct a deep prehistory of Borneo's interior and coastal peoples.

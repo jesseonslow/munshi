@@ -5,8 +5,7 @@ title: The collective memory of the Sook Ching massacre and the creation of the 
   war memorial of Singapore
 canonical_name: The collective memory of the Sook Ching massacre and the creation
   of the civilian war memorial of Singapore
-type: article
-article_type: article
+type: publication
 authors:
 - K. Blackburn
 year: 2000
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-279-blackburn-collectivememorysook-2000-e38747c58265
 source_path: ../sources/jmbras-279-blackburn-collectivememorysook-2000-e38747c58265/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The collective memory of the Sook Ching massacre and the creation of the civilian war memorial of Singapore
 
 Kevin Blackburn's 2000 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* traces how the Sook Ching Massacre of 1942 was transformed from a Chinese communal grievance into the foundational narrative of Singapore's national identity, culminating in the Civilian War Memorial dedicated in 1967. Drawing on war crimes trial transcripts, Chinese-language press archives, and diplomatic records, Blackburn argues that the Singapore government deliberately reshaped the memory of a single-ethnicity atrocity into an ideology of collective suffering to serve the political project of nation-building in a multi-ethnic state.

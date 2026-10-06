@@ -5,8 +5,7 @@ title: 'Odoric of Pordenone (1265–1331): his vision of China and South-East As
   his contribution to relations between Asia and Europe'
 canonical_name: 'Odoric of Pordenone (1265–1331): his vision of China and South-East
   Asia and his contribution to relations between Asia and Europe'
-type: article
-article_type: article
+type: publication
 authors:
 - L. Bressan
 year: 1997
@@ -24,7 +23,9 @@ summarized: true
 source_mismatch: false
 source_doc: jmbras-273-bressan-odoricpordenone12651331-1997-03dd922ea958
 source_path: ../sources/appendix.md
+publication_type: journal_article
 ---
+
 # Odoric of Pordenone (1265–1331): his vision of China and South-East Asia and his contribution to relations between Asia and Europe
 
 L. Bressan's 1997 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* surveys the life, travels, and literary legacy of the Franciscan friar Odoric of Pordenone (c. 1265–1331), situating his *Relatio de mirabilibus*—dictated in 1330—as the second most important European source of knowledge about China and South-East Asia after Marco Polo's *Il Milione*. Bressan's overarching thesis is that Odoric, though a humble missionary without papal mandate, provided Europe with its first reliable observations of Chinese social life, named Sumatra for the first time in a European text, and was likely the first recorded European visitor to Borneo, thereby establishing a durable bridge of knowledge between the two hemispheres.

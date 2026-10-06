@@ -3,8 +3,7 @@ id: keramat-see-karamat-kingship-and-enthronement-in-malaya
 work_id: jmbras-20-1-p129
 title: Keramat see Karamat Kingship and enthronement in Malaya
 canonical_name: _Keramat see Karamat_ Kingship and enthronement in Malaya. . f
-type: article
-article_type: article
+type: publication
 authors:
 - R.O. Winstedt
 year: 1947
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-142-winstedt-kingshipenthronementmalaya-1947-1712d8458cf5
 source_path: ../sources/jmalayanras-142-winstedt-kingshipenthronementmalaya-1947-1712d8458cf5.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Keramat see Karamat Kingship and enthronement in Malaya
 
 R.O. Winstedt, a British colonial administrator and leading Malay scholar, published this comparative study of Malay kingship in 1947 (reprinted from the *Journal of the Royal Asiatic Society*, October 1945). Writing from direct observation of Perak and Negri Sembilan enthronement ceremonies and extensive knowledge of Siamese, Burmese, and Javanese ritual, Winstedt argues that Malay royal authority is a palimpsest of three successive civilisational layers—shamanic, Hindu-Buddhist, and Islamic—each retaining structural traces of the one that preceded it.

@@ -3,8 +3,7 @@ id: three-of-eredias-illustrations
 work_id: jmbras-10-1-p14
 title: Three of Eredia’s illustrations
 canonical_name: Three of Eredia’s illustrations
-type: article
-article_type: article
+type: publication
 authors:
 - J.V. Mills
 year: 1932
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-113-mills-threeerediasillustrations-1932-a328d0abe600
 source_path: ../sources/jmalayanras-113-mills-threeerediasillustrations-1932-a328d0abe600.md
 summarized: true
+publication_type: note
 ---
+
 # Three of Eredia’s illustrations
 
 This short note by J.V. Mills (Malayan Civil Service) presents three illustrations from the 1613 manuscript *Declaracam de Malaca e India Meridional com o Cathay* by Emanuel Godinho de Eredia, born at Malacca in 1563.

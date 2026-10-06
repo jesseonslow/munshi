@@ -3,8 +3,7 @@ id: the-music-of-negara-ku-j
 work_id: jmbras-70-2-p68
 title: The music of Negara-Ku. J
 canonical_name: The music of _Negara-Ku._ J
-type: article
-article_type: article
+type: publication
 authors:
 - J. Harding
 - J.M. Gullick
@@ -22,7 +21,9 @@ published: false
 source_doc: jmbras-273-harding-musicnegaraku-1997-72fe303dfe23
 source_path: ../sources/jmbras-273-harding-musicnegaraku-1997-72fe303dfe23/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The music of Negara-Ku. J
 
 James Harding and John Gullick published this article in 1997 in the *Journal of the Malaysian Branch of the Royal Asiatic Society* (Vol. 70, No. 2), examining the long-standing tradition that the melody of Malaysia's national anthem, *Negara-Ku*, was composed by the French chansonnier Pierre Jean de Béranger. Drawing on oral testimony from the Perak royal family, Seychelles local recollections, and a systematic search of Béranger's published output, the authors confirm the tune's origin in the Seychelles during Sultan Abdullah's exile but find no evidence to support the Béranger attribution.

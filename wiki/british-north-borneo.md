@@ -3,8 +3,7 @@ id: british-north-borneo
 work_id: jsbras-14-1-p323
 title: British North Borneo
 canonical_name: British North Borneo
-type: article
-article_type: article
+type: publication
 authors:
 - E.P. Gueritz
 year: 1884
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-014-gueritz-britishnorthborneo-1884-eb69c21dd099
 source_path: ../sources/jsbras-014-gueritz-britishnorthborneo-1884-eb69c21dd099.md
 summarized: true
+publication_type: journal_article
 ---
+
 # British North Borneo
 
 E.P. Gueritz, a resident of British North Borneo for nearly three years, published this descriptive survey of the territory under the British North Borneo Company in 1884, drawing on personal observation and the official reports of company officers Pryer, Von Donop, Frank Hatton, and Witt. The article presents the colony's geography, natural resources, climate, population, and administrative prospects as a case for its strategic and commercial importance to the British Empire. It was read on Gueritz's behalf at the Montreal Meeting of the British Association for the Advancement of Science in August 1884, at the suggestion of J.S. O'Halloran, Secretary of the Royal Colonial Institute (p. 333).

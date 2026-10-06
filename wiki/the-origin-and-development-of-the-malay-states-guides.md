@@ -3,8 +3,7 @@ id: the-origin-and-development-of-the-malay-states-guides
 work_id: jmbras-35-1-p51
 title: The origin and development of the Malay States Guides
 canonical_name: The origin and development of the Malay States Guides
-type: article
-article_type: article
+type: publication
 authors:
 - Abdul Karim bin Bagoo
 year: 1962
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-197-bagoo-origindevelopmentmalay-1962-da5570cf136a
 source_path: ../sources/jmalayanras-197-bagoo-origindevelopmentmalay-1962-da5570cf136a/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The origin and development of the Malay States Guides
 
 Abdul Karim bin Bagoo, writing in 1962, traces the institutional evolution of the Malay States Guides from their origins as a small body of Indian sepoys in Larut, Perak, in 1873 through their disbandment in Aden in 1919. The article argues that the Guides emerged organically from the practical security demands of colonial Perak—first as an ad hoc police force, then as a professional military regiment—and that their eventual dissolution was driven by a convergence of political, military, and administrative factors rather than any single cause.

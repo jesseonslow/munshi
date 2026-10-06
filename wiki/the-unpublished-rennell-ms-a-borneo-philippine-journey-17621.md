@@ -5,8 +5,7 @@ title: 'The unpublished Rennell Ms: a Borneo-Philippine journey, 1762–1763. J.
   . Harrisson'
 canonical_name: 'The unpublished Rennell Ms: a Borneo-Philippine journey, 1762–1763.
   J. Rennell. . Harrisson'
-type: article
-article_type: article
+type: publication
 authors:
 - Tom Harrisson
 - J. Rennell
@@ -24,7 +23,9 @@ published: false
 source_doc: jmbras-209-harrisson-unpublishedrennellms-1966-9dda55003213
 source_path: ../sources/jmbras-209-harrisson-unpublishedrennellms-1966-9dda55003213.md
 summarized: true
+publication_type: document
 ---
+
 # The unpublished Rennell Ms: a Borneo-Philippine journey, 1762–1763. J. Rennell. . Harrisson
 
 Tom Harrisson's 1966 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* presents an edited extract, with extensive introduction and commentary, from the original holograph manuscript of James Rennell's journal of his 1762–63 voyage to the Sulu Islands and the northwest coast of Borneo. The article's central thesis is that this manuscript—written by a twenty-year-old assistant surveyor who would become Surveyor-General of India and one of Britain's foremost geographers—constitutes the first English surveyor's account of west Borneo waters, and that its marginal pencil annotations by Alexander Dalrymple reveal a fascinating dynamic of professional rivalry, correction, and mutual dependence between two pioneering figures in the hydrography of the South China Sea.

@@ -4,8 +4,7 @@ work_id: jmbras-11-2-p190
 title: Skeletal remains from the Kuala Selinsing excavations, Perak, Malay Peninsula
 canonical_name: Skeletal remains from the Kuala Selinsing excavations, Perak, Malay
   Peninsula
-type: article
-article_type: article
+type: publication
 authors:
 - Harrower G
 year: 1933
@@ -22,7 +21,9 @@ published: false
 source_doc: jmalayanras-117-harrower-skeletalremainskuala-1933-963827029c13
 source_path: ../sources/jmalayanras-117-harrower-skeletalremainskuala-1933-963827029c13.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Skeletal remains from the Kuala Selinsing excavations, Perak, Malay Peninsula
 
 Gordon Harrower, Professor of Anatomy at Singapore, published this osteological analysis of skeletal remains recovered from canoe burials at the Kuala Selinsing site in Perak in 1933. Drawing on comparative craniometry and appendicular measurements, Harrower argued that the buried individuals were of Negrito or Protomalayan origin rather than Malay or Indian, a finding that complicated the interpretation of the site's associated cultural material.

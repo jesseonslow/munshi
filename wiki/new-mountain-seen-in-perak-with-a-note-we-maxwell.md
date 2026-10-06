@@ -3,8 +3,7 @@ id: new-mountain-seen-in-perak-with-a-note-we-maxwell
 work_id: jsbras-12-1-p286
 title: New mountain seen in Perak (with a note W.E. Maxwell
 canonical_name: New mountain seen in Perak (with a note W.E. Maxwell)
-type: article
-article_type: article
+type: publication
 authors:
 - F.A. Swettenham
 year: 1883
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-012-s-newmountainseen-1883-99404af89d99
 source_path: ../sources/jsbras-012-s-newmountainseen-1883-99404af89d99.md
 summarized: true
+publication_type: note
 ---
+
 # New mountain seen in Perak (with a note W.E. Maxwell
 
 This note by F.A. Swettenham, with an appended observation by W.E. Maxwell, records the sighting of a previously unobserved high mountain in the Perak region on 15 April 1884 (p. 286).

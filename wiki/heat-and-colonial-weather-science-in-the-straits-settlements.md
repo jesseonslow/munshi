@@ -3,8 +3,7 @@ id: heat-and-colonial-weather-science-in-the-straits-settlements
 work_id: jmbras-95-2-p39
 title: Heat and Colonial Weather Science in the Straits Settlements, c. 1820–1900
 canonical_name: Heat and Colonial Weather Science in the Straits Settlements, c. 1820–1900
-type: article
-article_type: article
+type: publication
 authors:
 - Fiona Williamson
 year: 2022
@@ -27,7 +26,9 @@ keywords:
 source_doc: williamson-heat-and-colonial-weather-science-08dafcc0bb8e
 source_path: ../sources/williamson-heat-and-colonial-weather-science-08dafcc0bb8e/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Heat and Colonial Weather Science in the Straits Settlements, c. 1820–1900
 
 ## Abstract

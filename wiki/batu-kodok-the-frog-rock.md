@@ -3,8 +3,7 @@ id: batu-kodok-the-frog-rock
 work_id: jsbras-11-1-p167
 title: Batu Kodok (The Frog Rock
 canonical_name: Batu Kodok (The Frog Rock)
-type: article
-article_type: article
+type: publication
 authors:
 - D.F.A. Hervey
 year: 1883
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-011-h-btukdok-1883-d1138c3b43d3
 source_path: ../sources/jsbras-011-h-btukdok-1883-d1138c3b43d3.md
 summarized: true
+publication_type: note
 ---
+
 # Batu Kodok (The Frog Rock
 
 A brief miscellaneous note by D.F.A. Hervey describing Batu Kodok (The Frog Rock), a rock formation in the old Straits of Singapore, and recording the local legend associated with its origin (p. 167).

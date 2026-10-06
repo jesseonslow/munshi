@@ -5,8 +5,7 @@ title: Preliminary diagnoses of some new species and subspecies of mammals and b
   obtained in Korinchi, West Sumatra, Feb-June 1914
 canonical_name: Preliminary diagnoses of some new species and subspecies of mammals
   and birds obtained in Korinchi, West Sumatra, Feb-June 1914
-type: article
-article_type: article
+type: publication
 authors:
 - C.B. Kloss
 - H.C. Robinson
@@ -24,7 +23,9 @@ published: false
 source_doc: jsbras-073-robinson-preliminarydiagnosesnew-1916-32799e2cb1b5
 source_path: ../sources/jsbras-073-robinson-preliminarydiagnosesnew-1916-32799e2cb1b5.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Preliminary diagnoses of some new species and subspecies of mammals and birds obtained in Korinchi, West Sumatra, Feb-June 1914
 
 Robinson and Kloss published these preliminary diagnoses in 1916 to formally establish 23 new taxa—mammals and birds collected during their February–June 1914 expedition to Korinchi Peak and surrounding valleys in West Sumatra. The paper serves as a taxonomic placeholder ahead of a more comprehensive expedition report, providing minimal but sufficient characters to validate each new name.

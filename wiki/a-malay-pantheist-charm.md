@@ -3,8 +3,7 @@ id: a-malay-pantheist-charm
 work_id: jsbras-86-1-p261
 title: A Malay pantheist charm
 canonical_name: A Malay pantheist charm
-type: article
-article_type: article
+type: publication
 authors:
 - R.O. Winstedt
 year: 1922
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-086-winstedt-malaypantheistcharm-1922-a58c7bf3b7e3
 source_path: ../sources/jsbras-086-winstedt-malaypantheistcharm-1922-a58c7bf3b7e3.md
 summarized: true
+publication_type: translation
 ---
+
 # A Malay pantheist charm
 
 R.O. Winstedt, a colonial-era scholar of Malay language and literature, published this article in 1922 in the Journal of the Straits Branch of the Royal Asiatic Society (Vol. 86, pp. 261–267). The piece presents a translation and analysis of a Malay pantheist charm called the *Kota Tawhid* ("Fortress of the Unity of God"), attributed to a practitioner named Maklab Setam, and situates it within the broader tradition of Sufi-derived mysticism that permeated Malay popular religion. Winstedt's overarching argument is that the Malay magician's esoteric vocabulary—its pantheist identifications of the self with the Absolute, its numerological symbolism, and its invocation of the Prophet as a cosmological key—represents a direct, if often garbled, inheritance from Persian Sufi metaphysics, particularly the school of al-Jili.

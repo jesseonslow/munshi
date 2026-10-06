@@ -3,8 +3,7 @@ id: keramat-in-singapore-in-the-mid-twentieth-century
 work_id: jmbras-76-2-p93
 title: Keramat in Singapore in the mid-twentieth century
 canonical_name: _Keramat_ in Singapore in the mid-twentieth century
-type: article
-article_type: article
+type: publication
 authors:
 - P.J. Rivers
 year: 2003
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-285-rivers-keramatsingaporemidtwentieth-2003-90baa1e96591
 source_path: ../sources/jmbras-285-rivers-keramatsingaporemidtwentieth-2003-90baa1e96591/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Keramat in Singapore in the mid-twentieth century
 
 P.J. Rivers, a former Singapore Police Force officer and merchant navy master who conducted fieldwork in the 1950s, published this survey of *keramat* (sacred or miraculous) sites in Singapore in 2003, drawing on half a century of personal observation, police informants, and official directories to document a religious landscape that was already vanishing. The article's central argument is that the majority of Singapore's *keramat* were "manufactured" or pseudo-sacred sites arising from the syncretic interplay of pre-Islamic Orang Laut animism, Sufi mysticism, and Chinese popular religion, and that rapid urban development has destroyed nearly all of them.

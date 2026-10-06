@@ -3,8 +3,7 @@ id: keramat-seri-benian
 work_id: jmbras-24-3-p151
 title: Keramat Seri Benian
 canonical_name: Keramat Seri Benian
-type: article
-article_type: article
+type: publication
 authors:
 - W. Linehan
 year: 1951
@@ -27,7 +26,9 @@ published: false
 source_doc: jmalayanras-156-linehan-kramatsribnian-1951-efd7ac4052c3
 source_path: ../sources/jmalayanras-156-linehan-kramatsribnian-1951-efd7ac4052c3.md
 summarized: true
+publication_type: note
 ---
+
 # Keramat Seri Benian
 
 **Kēramat Sēri Bēnian** is a short note by W. Linehan published in the *Journal of the Malayan Branch of the Royal Asiatic Society*, Vol. 24, No. 3 (1951), pp. 151–153.

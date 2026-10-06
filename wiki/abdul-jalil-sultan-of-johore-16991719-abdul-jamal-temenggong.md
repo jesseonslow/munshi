@@ -5,8 +5,7 @@ title: Abdu’l-Jalil, Sultan of Johore (1699–1719), ‘Abdu’l-Jamal, Temeng
   1750) and Raffles’ founding of Singapore
 canonical_name: Abdu’l-Jalil, Sultan of Johore (1699–1719), ‘Abdu’l-Jamal, Temenggong
   (ca. 1750) and Raffles’ founding of Singapore
-type: article
-article_type: article
+type: publication
 authors:
 - R.O. Winstedt
 year: 1933
@@ -23,7 +22,9 @@ published: false
 source_doc: jmalayanras-117-winstedt-abduljalilsultanjohore-1933-f9d1fde3e71f
 source_path: ../sources/jmalayanras-117-winstedt-abduljalilsultanjohore-1933-f9d1fde3e71f.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Abdu’l-Jalil, Sultan of Johore (1699–1719), ‘Abdu’l-Jamal, Temenggong (ca. 1750) and Raffles’ founding of Singapore
 
 R.O. Winstedt published this article in 1933 as a summary of a short Malay manuscript, compiled from tradition and written in Pahang, which he had held in his personal collection for nearly twenty years before unearthing it after the publication of his *History of Johore*. The article addresses the early Johore-Pahang dynastic history centred on Sultan 'Abdu'l-Jalil (r. 1699–1719) and Temenggong 'Abdu'l-Jamal (active ca. 1750), and offers a new detail on Raffles' 1819 landing at Singapore. Winstedt's overarching thesis is that while the manuscript's pre-nineteenth-century genealogies are unreliable, its account of Temenggong 'Abdu'l-Jamal provides the first substantive narrative of that figure and clarifies the political dynamics between the Temenggong and Bendahara lineages at Riau and Pahang.

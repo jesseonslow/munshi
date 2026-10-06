@@ -3,8 +3,7 @@ id: the-literary-study-of-malay-indonesian-literature-some-obser
 work_id: jmbras-56-1-p33
 title: 'The “literary” study of Malay-Indonesian literature: some observations'
 canonical_name: 'The “literary” study of Malay-Indonesian literature: some observations'
-type: article
-article_type: article
+type: publication
 authors:
 - A. Sweeney
 year: 1983
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-244-sweeney-literarystudymalayindonesian-1983-a7c5b0ce5f55
 source_path: ../sources/jmbras-244-sweeney-literarystudymalayindonesian-1983-a7c5b0ce5f55.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The “literary” study of Malay-Indonesian literature: some observations
 
 Amin Sweeney's 1983 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* is a methodological critique of A. Teeuw's two influential papers on the study of Indonesian "historical" texts, arguing that Teeuw's analytical framework is compromised by unexamined presuppositions inherited from a Western, print-literate culture. Sweeney contends that the distinction between "literature" and "history," between fiction and referentiality, which Teeuw applies to Javanese and Malay manuscripts, is a construct of the observer's own cultural position rather than a feature of the texts or their societies.

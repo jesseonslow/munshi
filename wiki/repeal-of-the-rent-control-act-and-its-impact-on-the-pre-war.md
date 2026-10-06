@@ -5,8 +5,7 @@ title: Repeal of the Rent Control Act and its impact on the pre-war shop-houses 
   Georgetown, Malaysia
 canonical_name: Repeal of the Rent Control Act and its impact on the pre-war shop-houses
   in Georgetown, Malaysia
-type: article
-article_type: article
+type: publication
 authors:
 - Mohammad Abdul Mohit
 - Mohd Bashir Sulaiman
@@ -24,7 +23,9 @@ published: false
 source_doc: jmbras-290-mohit-repealrentcontrol-2006-566e5bfbd3f5
 source_path: ../sources/jmbras-290-mohit-repealrentcontrol-2006-566e5bfbd3f5/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Repeal of the Rent Control Act and its impact on the pre-war shop-houses in Georgetown, Malaysia
 
 Mohammad Abdul Mohit and Mohd Bashir Sulaiman (2006) examine how the 1997 repeal of Malaysia's Control of Rent Act triggered a wave of conservation-unfriendly renovations and demolitions among pre-war shophouses in Georgetown, Penang, arguing that the Act's accidental role as a preservation mechanism was far more significant to the built heritage than its intended economic function.

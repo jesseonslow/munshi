@@ -5,8 +5,7 @@ title: Sir Arthur Young and political control of the Chinese in Malaya and the S
   Settlements
 canonical_name: Sir Arthur Young and political control of the Chinese in Malaya and
   the Straits Settlements
-type: article
-article_type: article
+type: publication
 authors:
 - R.B. McKenna
 - C.F. Yong
@@ -25,7 +24,9 @@ summarized: true
 source_mismatch: true
 source_doc: jmbras-247-yong-sirarthuryoung-1984-1deec2e433d3
 source_path: ../sources/jmbras-247-yong-sirarthuryoung-1984-1deec2e433d3.md
+publication_type: journal_article
 ---
+
 # Sir Arthur Young and political control of the Chinese in Malaya and the Straits Settlements
 
 C.F. Yong and R.B. McKenna (1984) examine how Sir Arthur Henderson Young, Governor of the Straits Settlements and High Commissioner of the Federated Malay States from 1911 to 1919, exercised political control over a Chinese community that constituted 34% of Malaya's and 72% of Singapore's population (p. 1). Their central thesis is that Young was a shrewd but reactive administrator who combined personal consultation with Chinese community leaders, targeted legislative amendments, and wartime emergency powers to manage rising Chinese nationalism—yet his failure to recognise the political threat posed by vernacular education left him unprepared for the May Fourth disturbances of 1919.

@@ -4,8 +4,7 @@ work_id: jsbras-81-1-p23
 title: The empire of the Maharaja, King of the Mountains and Lord of the Isles
 canonical_name: The empire of the Maharaja, King of the Mountains and Lord of the
   Isles
-type: article
-article_type: article
+type: publication
 authors:
 - C.O. Blagden
 year: 1920
@@ -22,7 +21,9 @@ published: false
 source_doc: jsbras-081-blagden-empiremaharajaking-1920-e011ef7e941f
 source_path: ../sources/jsbras-081-blagden-empiremaharajaking-1920-e011ef7e941f.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The empire of the Maharaja, King of the Mountains and Lord of the Isles
 
 C. O. Blagden's 1920 article reinterprets the political geography of pre-14th-century maritime Southeast Asia by arguing that Palembang was not a single localized kingdom in Southern Sumatra but a maritime empire that controlled the Straits of Malacca through outstations on both sides for roughly six centuries. Drawing primarily on M. G. Coedes' 1918 synthesis of epigraphic and textual evidence, Blagden reconstructs the rise, extent, and collapse of this "Maharaja" polity and its implications for the early colonization of the Malay Peninsula.

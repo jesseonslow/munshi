@@ -3,8 +3,7 @@ id: chettiar-moneylenders-and-rural-credit-in-british-malaya
 work_id: jmbras-86-1-p61
 title: Chettiar moneylenders and rural credit in British Malaya
 canonical_name: Chettiar moneylenders and rural credit in British Malaya
-type: article
-article_type: article
+type: publication
 authors:
 - P.H. Kratoska
 year: 2013
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-304-kratoska-chettiarmoneylendersrural-2013-b8fc1aea88ba
 source_path: ../sources/jmbras-304-kratoska-chettiarmoneylendersrural-2013-b8fc1aea88ba/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Chettiar moneylenders and rural credit in British Malaya
 
 Paul H. Kratoska's 2013 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* examines the role of Nattukottai Chettiar moneylenders in British Malaya from the early nineteenth century through their eventual withdrawal in the 1960s. Drawing on colonial Land Office records, legislative proceedings, and post-war petitions, Kratoska argues that Chettiar lending was a structurally rational response to a credit vacuum in an expanding colonial economy, and that the community's decline resulted less from predatory practices than from the compounding effects of the Depression, the Japanese Occupation, and post-war political hostility.

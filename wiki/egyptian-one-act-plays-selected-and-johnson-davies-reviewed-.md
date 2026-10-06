@@ -5,8 +5,7 @@ title: Egyptian one-act plays. (Selected and . Johnson-Davies). {Reviewed Krishe
   Jit
 canonical_name: Egyptian one-act plays. (Selected and . Johnson-Davies). {Reviewed
   Krishen Jit)
-type: article
-article_type: translation
+type: publication
 authors:
 - K. Jit
 year: 1982
@@ -20,6 +19,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: review
 ---
 
 # Egyptian one-act plays. (Selected and . Johnson-Davies). {Reviewed Krishen Jit

@@ -3,8 +3,7 @@ id: takuapa-and-its-tamil-inscription
 work_id: jmbras-22-1-p25
 title: Takuapa and its Tamil inscription
 canonical_name: Takuapa and its Tamil inscription
-type: article
-article_type: article
+type: publication
 authors:
 - K.A. Nilakanta Sastri
 year: 1949
@@ -18,6 +17,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: journal_article
 ---
 
 # Takuapa and its Tamil inscription

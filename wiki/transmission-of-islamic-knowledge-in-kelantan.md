@@ -3,8 +3,7 @@ id: transmission-of-islamic-knowledge-in-kelantan
 work_id: jmbras-79-2-p39
 title: Transmission of Islamic knowledge in Kelantan
 canonical_name: Transmission of Islamic knowledge in Kelantan
-type: article
-article_type: article
+type: publication
 authors:
 - Muhamad Ali
 year: 2006
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-291-ali-transmissionislamicknowledge-2006-41a2a0858dcf
 source_path: ../sources/jmbras-291-ali-transmissionislamicknowledge-2006-41a2a0858dcf/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Transmission of Islamic knowledge in Kelantan
 
 Muhamad Ali's 2006 article surveys the transmission of Islamic knowledge in Kelantan across the nineteenth and twentieth centuries, arguing that local *ulama*—not traders or foreign missionaries—were the primary agents of Islamization in the state. The article traces how scholarly networks linking Kelantan to Mecca, Egypt, Patani, and South Asia produced generations of teachers who disseminated Islamic learning through *surau*, *pondok*, and *madrasah*, and how this educational infrastructure eventually became entangled with modernist reform and political activism.

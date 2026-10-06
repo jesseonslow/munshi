@@ -3,8 +3,7 @@ id: the-coming-of-islam-to-champa
 work_id: jmbras-73-1-p55
 title: The coming of Islam to Champa
 canonical_name: The coming of Islam to Champa
-type: article
-article_type: article
+type: publication
 authors:
 - R. Nakamura
 year: 2000
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-278-nakamura-comingislamchampa-2000-9f59a5cfdf8a
 source_path: ../sources/jmbras-278-nakamura-comingislamchampa-2000-9f59a5cfdf8a/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The coming of Islam to Champa
 
 Rie Nakamura (2000) examines the historical process by which Islam became established among the Cham people of central Vietnam, drawing on her ethnographic fieldwork in Vietnam and Cambodia to argue that the distinctive form of Islam practised by the Bani Cham today is a product of conversion during the sixteenth to seventeenth centuries, when the Cham were still actively engaged in Southeast Asian maritime trade but their Hindu kingdom was in terminal decline. The article addresses a long-standing historiographical debate over whether Islam reached Champa through early Arab-Persian merchants or through later Malay proselytizers, and uses the existence of two divergent Cham Islamic traditions as its central analytical problem.

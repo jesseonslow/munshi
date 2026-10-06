@@ -3,8 +3,7 @@ id: some-first-hand-accounts-of-the-japanese-occupation
 work_id: jmbras-97-1-p102
 title: Some First-Hand Accounts of the Japanese Occupation
 canonical_name: Some First-Hand Accounts of the Japanese Occupation
-type: article
-article_type: article
+type: publication
 authors:
 - P.H. Kratoska
 year: 2024
@@ -20,6 +19,7 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+publication_type: journal_article
 ---
 
 # Some First-Hand Accounts of the Japanese Occupation

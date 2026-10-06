@@ -4,8 +4,7 @@ work_id: jmbras-39-1-p168
 title: Carlos Cuarteron. In Tregonning, K.G. Two notes on Church history in Sabah
 canonical_name: Carlos Cuarteron. _In_ Tregonning, K.G. Two notes on Church history
   in Sabah
-type: article
-article_type: article
+type: publication
 authors:
 - A. Antonissen
 year: 1966
@@ -22,7 +21,9 @@ published: false
 source_doc: jmbras-209-antonissen-carloscuarteron-1966-4458662ba1fd
 source_path: ../sources/jmbras-209-antonissen-carloscuarteron-1966-4458662ba1fd.md
 summarized: true
+publication_type: note
 ---
+
 # Carlos Cuarteron. In Tregonning, K.G. Two notes on Church history in Sabah
 
 Rev. A. Antonissen, a Mill Hill Father, contributed this note (written in late 1957, published in 1966) to K.G. Tregonning's composite piece on church history in Sabah. The article traces the life of Carlos Cuarteron—a former Spanish smuggler and slave-runner who, after a near-fatal typhoon in 1849, converted to Catholicism and became the first Prefect Apostolic of North Borneo and Labuan—and follows the Catholic mission's development from that founding moment through the Japanese occupation to the mid-1950s. The overarching thesis is that Cuarteron's personal redemption established the institutional foundation upon which the entire Catholic presence in North Borneo was built.

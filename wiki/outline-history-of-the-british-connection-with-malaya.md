@@ -3,8 +3,7 @@ id: outline-history-of-the-british-connection-with-malaya
 work_id: jsbras-10-1-p269
 title: Outline history of the British connection with Malaya
 canonical_name: Outline history of the British connection with Malaya
-type: article
-article_type: article
+type: publication
 authors:
 - A.M. Skinner
 year: 1882
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-010-skinner-outlinehistorybritish-1882-4d8384e3d98a
 source_path: ../sources/jsbras-010-skinner-outlinehistorybritish-1882-4d8384e3d98a.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Outline history of the British connection with Malaya
 
 A.M. Skinner published this outline history in 1882, writing from within the Straits Settlements colonial administration to provide a connected narrative of British involvement in Malaya spanning 280 years. The article's overarching thesis is that British presence in the region evolved through three distinct phases — private trade, Company-mediated commerce, and direct political-military intervention — culminating in the unified Colony as it stood in the early 1880s.

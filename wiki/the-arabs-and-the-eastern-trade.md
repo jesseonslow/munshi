@@ -3,8 +3,7 @@ id: the-arabs-and-the-eastern-trade
 work_id: jmbras-22-1-p143
 title: The Arabs and the eastern trade
 canonical_name: The Arabs and the eastern trade
-type: article
-article_type: article
+type: publication
 authors:
 - J.A.E. Morley
 year: 1949
@@ -18,6 +17,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: journal_article
 ---
 
 # The Arabs and the eastern trade

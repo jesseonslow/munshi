@@ -3,8 +3,7 @@ id: place-names-in-the-hikayat-pasai
 work_id: jsbras-77-1-p181
 title: Place-names in the Hikayat Pasai
 canonical_name: Place-names in the Hikayat Pasai
-type: article
-article_type: article
+type: publication
 authors:
 - R.O. Winstedt
 year: 1917
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-077-winstedt-placenameshikayatpasai-1917-6d6a04198487
 source_path: ../sources/jsbras-077-winstedt-placenameshikayatpasai-1917-6d6a04198487.md
 summarized: true
+publication_type: note
 ---
+
 # Place-names in the Hikayat Pasai
 
 This brief note by R. O. Winstedt corrects misspellings of place-names in Mr. Mead's romanization of the *Hikayat Raja-Raja Pasai* published in Journal No. 66.

@@ -3,8 +3,7 @@ id: the-survey-question-in-cochin-china
 work_id: jsbras-18-1-p273
 title: The survey question in Cochin-China
 canonical_name: The survey question in Cochin-China
-type: article
-article_type: article
+type: publication
 authors:
 - M. Camouilly
 year: 1886
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-018-maxwell-surveyquestioncochinchina-1886-224d59f00970
 source_path: ../sources/jsbras-018-maxwell-surveyquestioncochinchina-1886-224d59f00970.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The survey question in Cochin-China
 
 M. Camouilly, a French colonial administrator in Cochin-China, published this paper in 1886 (translated into English by W. E. Maxwell of the Straits Settlements) to argue that a comprehensive cadastral survey of the colony would be prohibitively expensive, practically unfinishable, and destructive of the efficient Annamite communal tax-collecting system, advocating instead a voluntary Torrens-style registration of title for individual holdings.

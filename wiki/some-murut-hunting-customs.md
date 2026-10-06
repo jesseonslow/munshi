@@ -3,8 +3,7 @@ id: some-murut-hunting-customs
 work_id: jmbras-14-3-p307
 title: Some Murut hunting customs
 canonical_name: Some Murut hunting customs
-type: article
-article_type: article
+type: publication
 authors:
 - G.C. Woolley
 year: 1936
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-126-woolley-muruthuntingcustoms-1936-d748b14ce872
 source_path: ../sources/jmalayanras-126-woolley-muruthuntingcustoms-1936-d748b14ce872.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Some Murut hunting customs
 
 This article by G.C. Woolley documents aspects of Murut hunting customs, drawing on his experience as a colonial administrator in British North Borneo.

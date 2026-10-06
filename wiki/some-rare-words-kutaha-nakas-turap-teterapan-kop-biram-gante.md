@@ -5,8 +5,7 @@ title: 'Some rare words: kutaha, nakas, turap, teterapan, kop, biram, ganteh, Se
   Menanti'
 canonical_name: 'Some rare words: kutaha, nakas, turap, teterapan, kop, biram, ganteh,
   Seri Menanti'
-type: article
-article_type: article
+type: publication
 authors:
 - R.O. Winstedt
 year: 1917
@@ -23,7 +22,9 @@ published: false
 source_doc: jsbras-075-winstedt-rarewordskutaha-1917-aab37a3e6793
 source_path: ../sources/jsbras-075-winstedt-rarewordskutaha-1917-aab37a3e6793.md
 summarized: true
+publication_type: note
 ---
+
 # Some rare words: kutaha, nakas, turap, teterapan, kop, biram, ganteh, Seri Menanti
 
 This is a brief philological note by R. O. Winstedt examining the meanings of several rare Malay words—*kutaha*, *nakas*, *turap*, *tētērapan*, *kop*, *biram*, *ganteh*, and *Sēri Mēnanti*—with reference to Wilkinson's *Dictionary of the Malay Language* and related texts (p. 49).

@@ -3,8 +3,7 @@ id: the-fishing-industry-of-krian-and-kurau-perak
 work_id: jsbras-23-1-p95
 title: The fishing industry of Krian and Kurau, Perak
 canonical_name: The fishing industry of Krian and Kurau, Perak
-type: article
-article_type: article
+type: publication
 authors:
 - A.T. Dew
 year: 1891
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-023-dew-fishingindustrykrian-1891-abfff3376f95
 source_path: ../sources/jsbras-023-dew-fishingindustrykrian-1891-abfff3376f95.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The fishing industry of Krian and Kurau, Perak
 
 Arthur T. Dew, a British colonial official serving as Collector, Magistrate, and Harbour Master for Matang and Port Weld, Perak, published this detailed survey of the fishing industry in the Krian and Kurau districts in 1891 (text dated April 1888). Set against the backdrop of the early British Resident period in Perak, the article examines the economic conditions, fishing methods, and regulatory burdens facing Chinese and Malay fishing communities along the Perak coast, and proposes specific conservation measures in response to widespread complaints of declining catches.

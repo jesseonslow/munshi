@@ -3,8 +3,7 @@ id: malayan-spiritual-sidelights
 work_id: jmbras-2-1-p84
 title: Malayan spiritual sidelights
 canonical_name: Malayan spiritual sidelights
-type: article
-article_type: article
+type: publication
 authors:
 - Hashim N.M
 - G.T. MacBryan
@@ -19,6 +18,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: note
 ---
 
 # Malayan spiritual sidelights

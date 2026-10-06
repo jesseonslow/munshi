@@ -4,8 +4,7 @@ work_id: jmbras-91-2-p124
 title: 'Jemberang and Alam Melayu: crossing the Straits of Melaka, Singapore and Riau'
 canonical_name: 'Jemberang and Alam Melayu: crossing the Straits of Melaka, Singapore
   and Riau'
-type: article
-article_type: article
+type: publication
 authors:
 - V. Wee
 year: 2018
@@ -33,7 +32,9 @@ keywords:
 - nomadism
 - sedentism
 - '<span id="page-125"></span> JEMBERANG: CROSSING THE STRAITS | 125'
+publication_type: journal_article
 ---
+
 # Jemberang and Alam Melayu: crossing the Straits of Melaka, Singapore and Riau
 
 ## Abstract

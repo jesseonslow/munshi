@@ -3,8 +3,7 @@ id: notes-on-an-infant-maias
 work_id: jsbras-26-1-p204
 title: Notes on an infant maias
 canonical_name: Notes on an infant _maias._
-type: article
-article_type: article
+type: publication
 authors:
 - Haviland G.F
 - H.N. Ridley
@@ -23,7 +22,9 @@ summarized: true
 source_mismatch: false
 source_doc: jsbras-026-haviland-notesinfantmaias-1894-7fa51472a431
 source_path: ../sources/jsbras-026-haviland-notesinfantmaias-1894-7fa51472a431.md
+publication_type: note
 ---
+
 # Notes on an infant maias
 
 This document comprises two short notes published in JSBRAS Vol. 26 (1894): "Notes on an Infant Maias" by G. F. Haviland and "Stick-Insects destroying Orchids" by H. N. Ridley.

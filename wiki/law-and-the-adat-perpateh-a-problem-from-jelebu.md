@@ -3,8 +3,7 @@ id: law-and-the-adat-perpateh-a-problem-from-jelebu
 work_id: jmbras-54-1-p7
 title: 'Law and the adat perpateh: a problem from Jelebu'
 canonical_name: Law and the _adat perpateh:_ a problem from Jelebu
-type: article
-article_type: article
+type: publication
 authors:
 - J.M. Gullick
 year: 1981
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-239-gullick-lawadatperpateh-1981-2f2ebfd3cefd
 source_path: ../sources/jmbras-239-gullick-lawadatperpateh-1981-2f2ebfd3cefd.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Law and the adat perpateh: a problem from Jelebu
 
 J.M. Gullick, a former British District Officer in Negri Sembilan, published this article in 1981 to examine the 1980 dispute over the election of the 15th Undang of Jelebu and the Court of Appeal's landmark ruling that Malaysian courts lack jurisdiction over such adat matters. The article's overarching thesis is that the current constitutional position of the adat perpateh is the product of a long sequence of changes induced by subordinating the system to British colonial administration from 1874 onward, culminating in the 1959 State constitution.

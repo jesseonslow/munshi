@@ -3,8 +3,7 @@ id: the-ferns-of-the-batu-lawi-expedition
 work_id: jsbras-63-1-p71
 title: The ferns of the Batu Lawi expedition
 canonical_name: The ferns of the Batu Lawi expedition
-type: article
-article_type: article
+type: publication
 authors:
 - E.B. Copeland
 year: 1912
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-063-moulton-expeditionmountbatu-1912-94eae97ebac5
 source_path: ../sources/jsbras-063-moulton-expeditionmountbatu-1912-94eae97ebac5/frontmatter.md
 summarized: true
+publication_type: note
 ---
+
 # The ferns of the Batu Lawi expedition
 
 E.B. Copeland's "The ferns of the Batu Lawi expedition" (1912) is a brief taxonomic appendix to the larger multi-author account of the 1911 expedition to Mount Batu Lawi in the Limbang district of Sarawak, in which Copeland served as the botanical collector. The paper catalogues the fern species gathered during the expedition's transit through the upper Limbang, Madihit, and mountainous interior regions, providing a preliminary flora list for an area previously almost entirely unknown to Western science.

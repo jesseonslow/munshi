@@ -3,8 +3,7 @@ id: hikayat-raja-pasai-a-second-manuscript
 work_id: jmbras-62-1-p1
 title: 'Hikayat Raja Pasai: a second manuscript'
 canonical_name: _Hikayat Raja Pasai:_ a second manuscript
-type: article
-article_type: article
+type: publication
 authors:
 - E.U. Kratz
 year: 1989
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: true
 source_doc: jmbras-256-kratz-hikayatrajapasai-1989-1e89680dfc8f
 source_path: ../sources/references.md
+publication_type: journal_article
 ---
+
 # Hikayat Raja Pasai: a second manuscript
 
 E.U. Kratz's 1989 article reports the discovery of a second manuscript of the *Hikayat Raja Pasai* (British Library Or. 14350), acquired by the British Library in 1987, and uses its detailed colophon to reconstruct an interinsular network of Malay manuscript circulation in the late eighteenth century. The manuscript, written in a single hand in 1797 in Semarang on behalf of a Makassar patron, contains both a complete *Hikayat Raja Handik* and an incomplete *Hikayat Raja Pasai*, the latter missing roughly 20% of its text. Kratz's overarching thesis is that the colophon provides rare, explicit evidence of a systematic network through which Malay texts were copied, commissioned, and transmitted across the archipelago.

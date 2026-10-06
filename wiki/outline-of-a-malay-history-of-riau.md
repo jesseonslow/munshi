@@ -3,8 +3,7 @@ id: outline-of-a-malay-history-of-riau
 work_id: jmbras-11-2-p157
 title: Outline of a Malay history of Riau
 canonical_name: Outline of a Malay history of Riau
-type: article
-article_type: article
+type: publication
 authors:
 - R.O. Winstedt
 year: 1933
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-117-winstedt-outlinemalayhistory-1933-32ab0fe0b0d0
 source_path: ../sources/jmalayanras-117-winstedt-outlinemalayhistory-1933-32ab0fe0b0d0.md
 summarized: true
+publication_type: translation
 ---
+
 # Outline of a Malay history of Riau
 
 R.O. Winstedt's 1933 "Outline of a Malay history of Riau" presents a condensed narrative of the political history of the Riau sultanate, drawn from the Malay manuscript *Sadjarah Radja-Radja Riouw I* (van Ronkel catalogue no. CCCLVIII, Batavian Society collection). The article covers the period from the reign of Raja Kechil through the Bugis-Malay succession crises, Dutch intervention, and the consolidation of Marhum Janggut's rule, extending to approximately 1166 A.H. (c. 1753 CE). Winstedt's purpose is to make accessible the content of a key primary source on Riau's early modern political history, which had been largely unavailable to English-speaking scholars.

@@ -3,8 +3,7 @@ id: the-identity-of-ngah-jabor-and-mohamed-jabor-bin-bardot-1858
 work_id: jmbras-53-2-p5
 title: The identity of Ngah Jabor and Mohamed Jabor bin Bardot (1858–1921
 canonical_name: The identity of Ngah Jabor and Mohamed Jabor bin Bardot (1858–1921)
-type: article
-article_type: article
+type: publication
 authors:
 - Mohd Hashim bin Sam Abdul Latiff
 year: 1980
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-238-latiff-identityngahjabor-1980-dd6ba8e22791
 source_path: ../sources/jmbras-238-latiff-identityngahjabor-1980-dd6ba8e22791.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The identity of Ngah Jabor and Mohamed Jabor bin Bardot (1858–1921
 
 Mohd Hashim bin Sam Abdul Latiff, a direct descendant of his subject, published this article in 1980 to resolve a persistent ambiguity in Perak's colonial history: whether Ngah Jabor, the man identified by witnesses as the assassin of British Resident James W.W. Birch in November 1875, is the same person as Mohamed Jabor bin Bardot (1858–1921), the wealthy tin miner and rubber planter who reappeared in Kampar district in 1894. Drawing on trial transcripts, colonial correspondence, mining lease records, and family oral traditions, Latiff argues affirmatively, contending that the two names refer to a single individual who was quietly released from Singapore's civil gaol under the patronage of Raja Dris (later Sultan Idris) and who subsequently reconstructed his public identity.

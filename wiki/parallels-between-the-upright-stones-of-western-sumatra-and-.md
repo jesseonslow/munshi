@@ -5,8 +5,7 @@ title: Parallels between the upright stones of Western Sumatra and those in Mala
   and Negri Sembilan
 canonical_name: Parallels between the upright stones of Western Sumatra and those
   in Malacca and Negri Sembilan
-type: article
-article_type: article
+type: publication
 authors:
 - J.N. Miksic
 year: 1985
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-248-miksic-parallelsuprightstones-1985-678d6d6e60ab
 source_path: ../sources/jmbras-248-miksic-parallelsuprightstones-1985-678d6d6e60ab.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Parallels between the upright stones of Western Sumatra and those in Malacca and Negri Sembilan
 
 John N. Miksic published this comparative study in 1985, drawing on fieldwork conducted in 1983 in both the Batu Sangkar and Payakumbuh areas of West Sumatra and the Alor Gajah and Kuala Pilah districts of peninsular Malaysia. His central thesis is that the decorated monoliths at Keramat Sungai Udang and the paired stone alignments of Negeri Sembilan and Malacca are not grave markers but rather ceremonial objects associated with the reinforcement of social status, and that they share a common cultural origin with analogous remains in the Minangkabau highlands of West Sumatra.

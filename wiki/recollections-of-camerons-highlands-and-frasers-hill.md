@@ -3,8 +3,7 @@ id: recollections-of-camerons-highlands-and-frasers-hill
 work_id: jmbras-9-1-p2
 title: Recollections of Cameron’s Highlands and Fraser’s Hill
 canonical_name: Recollections of Cameron’s Highlands and Fraser’s Hill
-type: article
-article_type: article
+type: publication
 authors:
 - J.B. Scrivenor
 year: 1931
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-111-scrivenor-recollectionscameronshighlands-1931-a8c6c33ece8f
 source_path: ../sources/jmalayanras-111-scrivenor-recollectionscameronshighlands-1931-a8c6c33ece8f.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Recollections of Cameron’s Highlands and Fraser’s Hill
 
 J.B. Scrivenor, a Government geologist and surveyor, published this memoir in 1931 to correct the geographical confusion surrounding the naming of Cameron's Highlands and to record his personal experiences at both Cameron's Highlands and Fraser's Hill from first visits in 1904 and 1906 through the late 1920s. The article's central argument is that the area now called Cameron's Highlands was never actually seen or described by W. Cameron, and that the true first European penetration of the Ulu Bertam plateau above the Robinson Falls was achieved by H.C. Robinson and C. Boden Kloss in 1908, not by Cameron, Leonard Wray, or F. St. George Caulfeild as commonly supposed.

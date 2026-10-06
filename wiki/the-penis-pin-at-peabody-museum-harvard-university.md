@@ -3,8 +3,7 @@ id: the-penis-pin-at-peabody-museum-harvard-university
 work_id: jmbras-41-2-p203
 title: The penis pin at Peabody Museum, Harvard University
 canonical_name: The penis pin at Peabody Museum, Harvard University
-type: article
-article_type: article
+type: publication
 authors:
 - G.N. Appell
 year: 1968
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-214-appell-penispinpeabody-1968-fee1f64cd4d8
 source_path: ../sources/jmbras-214-appell-penispinpeabody-1968-fee1f64cd4d8/frontmatter.md
 summarized: true
+publication_type: note
 ---
+
 # The penis pin at Peabody Museum, Harvard University
 
 G. N. Appell's short note documents a *palang* (penis pin) and its associated perforator instrument held in the Borneo collections at the Peabody Museum, Harvard University, tracing their provenance to the 1896–1898 Furness-Hiller Pacific expedition and identifying related archival photographs and a physician-ethnologist's drawing (p. 203).

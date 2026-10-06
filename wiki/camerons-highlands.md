@@ -3,8 +3,7 @@ id: camerons-highlands
 work_id: jmbras-4-1-p122
 title: Cameron’s Highlands
 canonical_name: Cameron’s Highlands
-type: article
-article_type: article
+type: publication
 authors:
 - W. Cameron
 - W.G. Maxwell
@@ -22,7 +21,9 @@ published: false
 source_doc: jmalayanras-096-maxwell-cameronshighlands-1926-af998030bae5
 source_path: ../sources/jmalayanras-096-maxwell-cameronshighlands-1926-af998030bae5.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Cameron’s Highlands
 
 W. George Maxwell, a senior Malayan Civil Service officer, compiled and published this record in 1926, drawing on official correspondence and a personal letter by the explorer William Cameron to reconstruct the latter's 1885–1886 survey expeditions in Perak and the adjacent highlands. The article was prompted by contemporary interest in developing Cameron's Highlands as a sanatorium and sought to clarify that the plateau Cameron actually discovered in 1885 was not the area that subsequently bore his name.

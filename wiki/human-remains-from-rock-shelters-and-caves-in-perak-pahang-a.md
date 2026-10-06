@@ -5,8 +5,7 @@ title: Human remains from rock-shelters and caves in Perak, Pahang and Perlis an
   from Selinsing
 canonical_name: Human remains from rock-shelters and caves in Perak, Pahang and Perlis
   and from Selinsing
-type: article
-article_type: article
+type: publication
 authors:
 - W.L.H. Duckworth
 year: 1934
@@ -23,7 +22,9 @@ published: false
 source_doc: jmalayanras-119-duckworth-humanremainsrockshelters-1934-08ab3c0c9cb9
 source_path: ../sources/jmalayanras-119-duckworth-humanremainsrockshelters-1934-08ab3c0c9cb9.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Human remains from rock-shelters and caves in Perak, Pahang and Perlis and from Selinsing
 
 W.L.H. Duckworth, a Cambridge-trained physician and physical anthropologist, published this osteological survey in 1934, presenting his analysis of fragmentary human remains recovered from rock-shelters and caves across Perak and from a submerged site near Kuala Selinsing. His central thesis is that these cave-dwellers—comprising both pygmy-statured and taller individuals—belong to a dolichocephalic, slender-limbed racial type he identifies as "Dravidian" or "Pre-dravidian," linking them to the Veddas of Ceylon, the Nicobarese, the Palaiyans of southern India, the Wadjak of Java, and even Australian aborigines.

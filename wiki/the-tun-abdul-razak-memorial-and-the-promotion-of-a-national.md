@@ -4,8 +4,7 @@ work_id: jmbras-84-2-p1
 title: The Tun Abdul Razak Memorial and the promotion of a national memory in Malaysia
 canonical_name: The Tun Abdul Razak Memorial and the promotion of a national memory
   in Malaysia
-type: article
-article_type: article
+type: publication
 authors:
 - Abu Talib Ahmad
 year: 2011
@@ -22,7 +21,9 @@ published: false
 source_doc: jmbras-301-ahmad-tunabdulrazak-2011-b8e15f979c77
 source_path: ../sources/jmbras-301-ahmad-tunabdulrazak-2011-b8e15f979c77/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The Tun Abdul Razak Memorial and the promotion of a national memory in Malaysia
 
 Abu Talib Ahmad's 2011 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* examines how the Tun Abdul Razak Memorial Museum, opened in 1982 at the former official residence Sri Taman in Kuala Lumpur, constructs a selective national memory of Malaysia's second Prime Minister. Drawing on Benedict Anderson's distinction between popular and state-engineered nationalism, Ahmad argues that the memorial's systematic foregrounding of Tun Abdul Razak as "father of development" is functionally continuous with colonial-era museum practices of using cultural institutions to serve state interests.

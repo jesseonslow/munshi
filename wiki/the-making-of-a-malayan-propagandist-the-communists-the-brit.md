@@ -5,8 +5,7 @@ title: 'The making of a Malayan propagandist: the communists, the British and C.
   Too'
 canonical_name: 'The making of a Malayan propagandist: the communists, the British
   and C.C. Too'
-type: article
-article_type: article
+type: publication
 authors:
 - K. Ramakrishna
 year: 2000
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-278-ramakrishna-makingmalayanpropagandist-2000-5d80e1d9cc15
 source_path: ../sources/jmbras-278-ramakrishna-makingmalayanpropagandist-2000-5d80e1d9cc15/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The making of a Malayan propagandist: the communists, the British and C.C. Too
 
 Kumar Ramakrishna, writing in 2000 in the *Journal of the Malaysian Branch of the Royal Asiatic Society*, reconstructs the career of C. C. Too, the Malayan Chinese propagandist who headed the government's Psychological Warfare Section during the Malayan Emergency (1948–60), arguing that Too's unique combination of intimate knowledge of Communist psychology and British psywar principles made him the decisive factor behind the mass surrenders that shattered the MCP by the end of 1958.

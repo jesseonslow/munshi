@@ -3,8 +3,7 @@ id: notes-on-the-administration-of-the-singapore-post-office-181
 work_id: jmbras-31-1-p145
 title: Notes on the administration of the Singapore Post Office, 1819–67
 canonical_name: Notes on the administration of the Singapore Post Office, 1819–67
-type: article
-article_type: article
+type: publication
 authors:
 - C.A. Gibson-Hill
 year: 1958
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-181-gibsonhill-notesadministrationsingapore-1958-35dd45a66848
 source_path: ../sources/jmalayanras-181-gibsonhill-notesadministrationsingapore-1958-35dd45a66848.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Notes on the administration of the Singapore Post Office, 1819–67
 
 C.A. Gibson-Hill's 1958 article traces the administrative evolution of the Singapore Post Office from the settlement's founding in 1819 to the formal separation of postal and maritime functions in 1858. The central argument is that the coupling of the Post Master and Master Attendant roles—initially a practical arrangement for a small military outpost—became progressively dysfunctional as commercial traffic and mail volume expanded, and that the eventual decoupling was the product of sustained local pressure rather than imperial initiative.

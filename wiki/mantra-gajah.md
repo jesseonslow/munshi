@@ -3,8 +3,7 @@ id: mantra-gajah
 work_id: jsbras-49-1-p71
 title: Mantra gajah
 canonical_name: _Mantra gajah._
-type: article
-article_type: article
+type: publication
 authors:
 - W.G. Maxwell
 year: 1907
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-049-maxwell-mantragajah-1907-13ba916fc009
 source_path: ../sources/jsbras-049-maxwell-mantragajah-1907-13ba916fc009.md
 summarized: true
+publication_type: document
 ---
+
 # Mantra gajah
 
 W. George Maxwell published this article in 1907, presenting a complete transcription of a Malay manuscript of elephant-driving charms (*mantra gajah*) held in the family of the former Orang Kaya Sri Adika Raja of Kuala Plus. The article situates this hereditary lore within the broader context of the Siamese elephant trade through the Malay Peninsula in the seventeenth century, arguing that the non-Malay portions of the charms represent a corrupt form of Siamese rather than the older Indian origin Maxwell had previously suggested.

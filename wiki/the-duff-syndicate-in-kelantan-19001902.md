@@ -3,8 +3,7 @@ id: the-duff-syndicate-in-kelantan-19001902
 work_id: jmbras-45-1-p81
 title: The Duff syndicate in Kelantan, 1900–1902
 canonical_name: The Duff syndicate in Kelantan, 1900–1902
-type: article
-article_type: article
+type: publication
 authors:
 - Shaharil Talib (L.R. Robert)
 year: 1972
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-221-robert-duffsyndicatekelantan-1972-9123853991e6
 source_path: ../sources/jmbras-221-robert-duffsyndicatekelantan-1972-9123853991e6.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The Duff syndicate in Kelantan, 1900–1902
 
 Leslie Ratnasingam Robert's 1972 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* examines the formation, operations, and eventual Siamese ratification of the Duff Syndicate's concession in Kelantan between 1900 and 1902. Drawing extensively on Colonial Office and Foreign Office correspondence, Robert argues that the Syndicate functioned as a dual instrument—simultaneously advancing British imperial influence in the Northern Malay States and pursuing the commercial interests of a consortium of major London and Singapore houses—and that its negotiations exposed the fundamental contradictions in British policy toward Siam's suzerainty over Kelantan.

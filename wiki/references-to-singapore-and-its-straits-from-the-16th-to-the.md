@@ -4,8 +4,7 @@ work_id: jmbras-94-2-p67
 title: References to Singapore and its Straits from the 16th to the Early 19th Century
 canonical_name: References to Singapore and its Straits from the 16th to the Early
   19th Century
-type: article
-article_type: article
+type: publication
 authors:
 - P. Borschberg
 - B.J.Q. Khoo
@@ -23,7 +22,9 @@ published: false
 source_doc: khoo-borschberg-references-to-singapore-56c6d46cac6e
 source_path: ../sources/khoo-borschberg-references-to-singapore-56c6d46cac6e/appendix.md
 summarized: true
+publication_type: journal_article
 ---
+
 # References to Singapore and its Straits from the 16th to the Early 19th Century
 
 Peter Borschberg and Benjamin J. Q. Khoo's 2021 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* (Vol. 94, No. 2) surveys European printed references to Singapore and its straits from the 16th through the early 19th century, arguing that the island was far from historically invisible before Raffles' arrival in 1819. The authors demonstrate that a substantial body of European knowledge about Singapore accumulated over three centuries was subsequently suppressed or ignored because it conflicted with the British imperial narrative of Singapore as a "new" settlement.

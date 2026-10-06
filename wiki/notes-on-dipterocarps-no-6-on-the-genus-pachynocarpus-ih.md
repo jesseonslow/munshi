@@ -3,8 +3,7 @@ id: notes-on-dipterocarps-no-6-on-the-genus-pachynocarpus-ih
 work_id: jsbras-86-1-p271
 title: Notes on Dipterocarps. {No. 6} On the genus Pachynocarpus. I.H
 canonical_name: Notes on Dipterocarps. {No. 6} On the genus _Pachynocarpus._ I.H
-type: article
-article_type: article
+type: publication
 authors:
 - I.H. Burkill
 - Burkill
@@ -23,7 +22,9 @@ published: false
 source_doc: jsbras-086-burkill-notesdipterocarps6-1922-84ab50e2a2aa
 source_path: ../sources/jsbras-086-burkill-notesdipterocarps6-1922-84ab50e2a2aa.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Notes on Dipterocarps. {No. 6} On the genus Pachynocarpus. I.H
 
 Burkill and Foxworthy (1922) present a taxonomic revision of the dipterocarp genus *Pachynocarpus*, arguing that decades of accumulated species additions by Hooker, Burck, Heim, King, and Brandis have inflated the genus to the point of confusion, and that a return to a narrower circumscription—two or possibly three species—is warranted. Working from the original Calcutta herbarium sheets and their own field collections across the Malay Peninsula, they demonstrate that most names previously placed in *Pachynocarpus* belong properly to *Vatica*, and that the critical diagnostic character (degree of calyx adnation) is invisible in flowering specimens, which explains the recurring misidentifications.

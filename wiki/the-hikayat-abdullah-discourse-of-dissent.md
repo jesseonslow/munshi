@@ -3,8 +3,7 @@ id: the-hikayat-abdullah-discourse-of-dissent
 work_id: jmbras-72-2-p91
 title: The Hikayat Abdullah, discourse of dissent
 canonical_name: The _Hikayat Abdullah,_ discourse of dissent
-type: article
-article_type: article
+type: publication
 authors:
 - D. Carroll
 year: 1999
@@ -20,6 +19,7 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+publication_type: journal_article
 ---
 
 # The Hikayat Abdullah, discourse of dissent

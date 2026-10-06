@@ -3,8 +3,7 @@ id: i-am-ali-wallace
 work_id: jmbras-88-1-p3
 title: '‘I am Ali Wallace‘: The Malay Assistant of Alfred Russel Wallace'
 canonical_name: '‘I am Ali Wallace‘: The Malay Assistant of Alfred Russel Wallace'
-type: article
-article_type: article
+type: publication
 authors:
 - John van Wyhe
 - Gerrell M. Drawhorn
@@ -34,7 +33,9 @@ keywords:
 source_mismatch: false
 source_doc: jmbras-308-wyhe-ialiwallace-2015-92795a8d2138
 source_path: ../sources/references.md
+publication_type: journal_article
 ---
+
 # ‘I am Ali Wallace‘: The Malay Assistant of Alfred Russel Wallace
 
 John van Wyhe and Gerrell M. Drawhorn (2015) reconstruct the life and contributions of Ali, the Malay assistant who accompanied Alfred Russel Wallace through the Malay Archipelago from 1855 to 1862, drawing on Wallace's journals, notebooks, letters, and publications to correct several persistent misconceptions about his role. Set against the backdrop of Wallace's eight-year collecting expedition that yielded 125,660 specimens, the article argues that Ali was far more than a passive servant: he was a skilled hunter, a knowledgeable informant, and the discoverer of at least one major new species, yet his contributions have been systematically undercredited in the historiography of Wallace's voyage.

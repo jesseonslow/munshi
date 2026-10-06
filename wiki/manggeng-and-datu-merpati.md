@@ -3,8 +3,7 @@ id: manggeng-and-datu-merpati
 work_id: jmbras-28-1-p148
 title: Manggeng and Datu Merpati
 canonical_name: Manggeng and Datu Merpati
-type: article
-article_type: article
+type: publication
 authors:
 - A.H. Hill
 year: 1955
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-169-hill-manggengdatumerpati-1955-4683732afe89
 source_path: ../sources/jmalayanras-169-hill-manggengdatumerpati-1955-4683732afe89/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Manggeng and Datu Merpati
 
 A.H. Hill's 1955 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* examines two interrelated Bornean origin legends—Manggeng, the Land Dayak ancestor who became a territorial chief in Java, and Datu Merpati, the Javanese nobleman who settled in Sarawak—and argues that both are historical figures whose lives oral tradition has distorted and partially conflated. Set against the backdrop of Majapahit's decline and the spread of Islam across the Indonesian archipelago in the fifteenth and early sixteenth centuries, Hill's central thesis is that the core narratives contain "a great measure of historical truth" despite their mythological embellishments (p. 154).

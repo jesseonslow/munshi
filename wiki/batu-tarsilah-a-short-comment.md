@@ -3,8 +3,7 @@ id: batu-tarsilah-a-short-comment
 work_id: jmbras-47-2-p151
 title: 'Batu Tarsilah: a short comment'
 canonical_name: _Batu Tarsilah:_ a short comment
-type: article
-article_type: article
+type: publication
 authors:
 - A. Sweeney
 year: 1974
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-226-sweeney-batutarsilahshort-1974-c40daa717ced
 source_path: ../sources/jmbras-226-sweeney-batutarsilahshort-1974-c40daa717ced.md
 summarized: true
+publication_type: note
 ---
+
 # Batu Tarsilah: a short comment
 
 A short comment by Amin Sweeney responding to criticisms of his 1968 study *Silsilah Raja-Raja Berunai* raised in a paper on the Batu Tarsilah inscription by P. M. Sharifuddin and Abd. Latif Hj. Ibrahim (p. 151).

@@ -3,8 +3,7 @@ id: muslim-tombstones-in-raffles-museum
 work_id: jmbras-10-1-p6
 title: Muslim tombstones in Raffles Museum
 canonical_name: Muslim tombstones in Raffles Museum
-type: article
-article_type: article
+type: publication
 authors:
 - R.O. Winstedt
 year: 1932
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-113-winstedt-muslimtombstonesraffles-1932-4e464e34871e
 source_path: ../sources/jmalayanras-113-winstedt-muslimtombstonesraffles-1932-4e464e34871e.md
 summarized: true
+publication_type: note
 ---
+
 # Muslim tombstones in Raffles Museum
 
 This short note by R. O. Winstedt documents and transcribes the Arabic inscriptions on several Muslim tombstones held in the Raffles Museum, Singapore, with the assistance of M. Moquette's unpublished decipherments.

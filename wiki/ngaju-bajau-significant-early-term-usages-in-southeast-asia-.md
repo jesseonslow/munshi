@@ -4,8 +4,7 @@ work_id: jmbras-49-1-p1
 title: 'Ngaju-Bajau: significant early term usages in Southeast Asia (especially Malaysia'
 canonical_name: 'Ngaju-Bajau: significant early term usages in Southeast Asia (especially
   Malaysia)'
-type: article
-article_type: article
+type: publication
 authors:
 - Tom Harrisson
 year: 1976
@@ -22,7 +21,9 @@ published: false
 source_doc: jmbras-229-harrisson-ngajubajausignificantearly-1976-0451857ada5f
 source_path: ../sources/jmbras-229-harrisson-ngajubajausignificantearly-1976-0451857ada5f/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Ngaju-Bajau: significant early term usages in Southeast Asia (especially Malaysia
 
 Tom Harrisson, a veteran ethnographer of Borneo, published this article in 1976 to challenge the prevailing scholarly separation of the Ngaju (an upriver Kalimantan people) and the Bajau (the sea-nomads of the Sulu Sea and northern Borneo), arguing that early European sources demonstrate the two terms refer to the same or closely related populations whose roles shifted between land and sea over time. The piece draws on 17th- and 18th-century Dutch and British voyage accounts, early 20th-century ethnological fieldwork in southern Thailand, and a recently published Bajau oral narrative to reconstruct a more fluid, pre-colonial pattern of maritime and agricultural life across the archipelago.

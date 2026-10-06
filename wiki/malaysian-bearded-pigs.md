@@ -3,8 +3,7 @@ id: malaysian-bearded-pigs
 work_id: jsbras-83-1-p147
 title: Malaysian bearded pigs
 canonical_name: Malaysian bearded pigs
-type: article
-article_type: article
+type: publication
 authors:
 - C.B. Kloss
 year: 1921
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-083-kloss-malaysianbeardedpigs-1921-70af6d3996a0
 source_path: ../sources/jsbras-083-kloss-malaysianbeardedpigs-1921-70af6d3996a0.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Malaysian bearded pigs
 
 C. Boden Kloss, a zoologist affiliated with the Raffles Museum in Singapore, published this taxonomic study in 1921 examining the systematic relationships among bearded pig species (*Sus barbatus*, *Sus oi*, and *Sus gargantua*) from Borneo and Sumatra. Working from a small series of skulls and mandibles, Kloss challenges the previously accepted sharp species-level distinction between the Bornean and Sumatran bearded pigs, arguing instead for a subspecific relationship grounded in subtle cranial metrics rather than molar morphology alone.

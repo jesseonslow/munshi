@@ -3,8 +3,7 @@ id: kelantan-bull-fighting
 work_id: jmbras-6-1-p74
 title: Kelantan bull-fighting
 canonical_name: Kelantan bull-fighting
-type: article
-article_type: article
+type: publication
 authors:
 - C.C. Brown
 year: 1928
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-102-brown-kelantanbullfighting-1928-a2415a9c21b9
 source_path: ../sources/jmalayanras-102-brown-kelantanbullfighting-1928-a2415a9c21b9.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Kelantan bull-fighting
 
 C.C. Brown, a Malay States Civil Service officer, published this ethnographic account of Kelantan bull-fighting in 1928 in the *Journal of the Malayan Branch of the Royal Asiatic Society*. Writing from direct observation of the Kota Baharu and Kubang Krian rings, Brown documents the sport as a sophisticated cultural institution with its own taxonomy of fighting styles, colour nomenclature, and ritual practices, while arguing that it is fundamentally distinct from the "cruel" spectacle of Spanish bullfighting because the bull remains a free agent throughout.

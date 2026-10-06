@@ -3,8 +3,7 @@ id: sultan-abu-bakars-visit-to-the-italian-king-and-to-the-pope
 work_id: jmbras-73-1-p43
 title: Sultan Abu Bakar’s visit to the Italian king and to the Pope
 canonical_name: Sultan Abu Bakar’s visit to the Italian king and to the Pope
-type: article
-article_type: article
+type: publication
 authors:
 - L. Bressan
 - A. Candilio
@@ -22,7 +21,9 @@ published: false
 source_doc: jmbras-278-candilio-sultanabubakar-2000-0b0fe0234ca5
 source_path: ../sources/jmbras-278-candilio-sultanabubakar-2000-0b0fe0234ca5/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Sultan Abu Bakar’s visit to the Italian king and to the Pope
 
 Candilio and Bressan (2000) reconstruct Sultan Abu Bakar of Johore's 1885 visit to Italy, in which the Johore ruler secured audiences with both King Umberto I and Pope Leo XIII during a transit stop en route to London. Drawing on Italian diplomatic, Vatican, and missionary archives, the article argues that this visit was a calculated diplomatic manoeuvre designed to bolster Abu Bakar's claim to sovereign status ahead of his audience with Queen Victoria, where he ultimately obtained the coveted title of Sultan.

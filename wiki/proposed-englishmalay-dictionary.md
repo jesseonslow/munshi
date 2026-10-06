@@ -3,8 +3,7 @@ id: proposed-englishmalay-dictionary
 work_id: jsbras-13-1-p273
 title: Proposed English–Malay dictionary
 canonical_name: Proposed English–Malay dictionary
-type: article
-article_type: article
+type: publication
 authors:
 - E.J. Brill
 year: 1884
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-013-brill-proposedenglishmalaydictionary-1884-b4597327d67a
 source_path: ../sources/jsbras-013-brill-proposedenglishmalaydictionary-1884-b4597327d67a.md
 summarized: true
+publication_type: note
 ---
+
 # Proposed English–Malay dictionary
 
 This notice, published in the *Journal of the Straits Branch of the Royal Asiatic Society* (Vol. 13, 1884), announces the proposed publication of an English–Malay dictionary by H. C. Klinkert, to be issued by E. J. Brill of Leyden.

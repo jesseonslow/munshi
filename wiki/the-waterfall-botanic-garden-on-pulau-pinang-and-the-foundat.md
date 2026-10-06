@@ -5,8 +5,7 @@ title: The ‘Waterfall’ Botanic Garden on Pulau Pinang and the foundation of 
   Botanical Gardens 1884–1910
 canonical_name: The ‘Waterfall’ Botanic Garden on Pulau Pinang and the foundation
   of the Penang Botanical Gardens 1884–1910
-type: article
-article_type: article
+type: publication
 authors:
 - D.S. Jones
 year: 1997
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-273-jones-waterfallbotanicgarden-1997-1d7d133af65a
 source_path: ../sources/jmbras-273-jones-waterfallbotanicgarden-1997-1d7d133af65a.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The ‘Waterfall’ Botanic Garden on Pulau Pinang and the foundation of the Penang Botanical Gardens 1884–1910
 
 D.S. Jones's 1997 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* reconstructs the founding and formative development of the Penang Botanic Gardens from 1884 to 1910, centring on the tenure of Charles Curtis as Assistant Superintendent of Forests for the Straits Settlements. Jones argues that Curtis transformed a malarial waste ground in the Waterfall River valley into a significant botanical and recreational asset through a design philosophy rooted in landscape aesthetics rather than systematic botanical arrangement, and that the Gardens' scientific contributions have been historically overshadowed by their administrative subordination to Singapore.

@@ -5,8 +5,7 @@ title: The discovery of Bukit Jawa, Gelok, a middle-late Palaeolithic site in Pe
   Malaysia
 canonical_name: The discovery of Bukit Jawa, Gelok, a middle-late Palaeolithic site
   in Perak, Malaysia
-type: article
-article_type: article
+type: publication
 authors:
 - Zuraina Majid
 year: 1997
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-273-majid-discoverybukitjawa-1997-04c09620156e
 source_path: ../sources/jmbras-273-majid-discoverybukitjawa-1997-04c09620156e.md
 summarized: true
+publication_type: note
 ---
+
 # The discovery of Bukit Jawa, Gelok, a middle-late Palaeolithic site in Perak, Malaysia
 
 This short note by Zuraina Majid (Universiti Sains Malaysia) announces the discovery and emergency excavation of Bukit Jawa, a middle-late Palaeolithic tool workshop site in Gelok village, Perak, Malaysia, in 1996.

@@ -3,8 +3,7 @@ id: dr-brandstetters-malayo-polynesian-researches-an-appreciatio
 work_id: jsbras-42-1-p211
 title: 'Dr. Brandstetter’s Malayo-Polynesian researches: an appreciation'
 canonical_name: 'Dr. Brandstetter’s Malayo-Polynesian researches: an appreciation'
-type: article
-article_type: article
+type: publication
 authors:
 - C.O. Blagden
 year: 1905
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-042-blagden-drbrandstettersmalayopolynesian-1905-be43ad1321b5
 source_path: ../sources/jsbras-042-blagden-drbrandstettersmalayopolynesian-1905-be43ad1321b5.md
 summarized: true
+publication_type: review
 ---
+
 # Dr. Brandstetter’s Malayo-Polynesian researches: an appreciation
 
 C. O. Blagden, a British colonial administrator in the Straits Settlements, published this appreciation in 1905 to draw English-speaking readers' attention to the Malayo-Polynesian researches of Professor Brandstetter of Lucerne, whom he identifies as the most rigorous Malayan scholar in Europe outside the Netherlands. The article serves as a guided introduction to Brandstetter's German-language monographs, arguing that his strictly comparative linguistic methods—particularly his pairing of Tagalog and Malagasy—reveal the deep unity and prehistoric civilizational level of the Malayo-Polynesian language family in ways that English-language scholarship had largely overlooked.

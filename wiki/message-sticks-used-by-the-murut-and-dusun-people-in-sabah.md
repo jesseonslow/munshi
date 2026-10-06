@@ -3,8 +3,7 @@ id: message-sticks-used-by-the-murut-and-dusun-people-in-sabah
 work_id: jmbras-48-2-p119
 title: Message sticks used by the Murut and Dusun people in Sabah
 canonical_name: Message sticks used by the Murut and Dusun people in Sabah
-type: article
-article_type: article
+type: publication
 authors:
 - P.A. Burrough
 year: 1975
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-228-burrough-messagesticksused-1975-0806e25fb852
 source_path: ../sources/jmbras-228-burrough-messagesticksused-1975-0806e25fb852.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Message sticks used by the Murut and Dusun people in Sabah
 
 P.A. Burrough's 1975 article documents the message-stick communication systems (locally called *tatanda* or *tatanduk*) used by forest-dwelling Murut and Dusun groups in Sabah, based on fieldwork conducted between 1970 and 1972 across southern and central Sabah. The article argues that these signs constitute a versatile, widely distributed non-literal communication system whose remarkable uniformity across linguistically distinct groups scattered over approximately 10,000 km² of forest suggests a very long history of continuous use.

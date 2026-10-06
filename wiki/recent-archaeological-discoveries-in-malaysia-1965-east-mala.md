@@ -4,8 +4,7 @@ work_id: jmbras-39-1-p191
 title: 'Recent archaeological discoveries in Malaysia, 1965: East Malaysia and Brunei'
 canonical_name: 'Recent archaeological discoveries in Malaysia, 1965: East Malaysia
   and Brunei'
-type: article
-article_type: article
+type: publication
 authors:
 - Tom Harrisson
 year: 1966
@@ -34,7 +33,9 @@ reprints:
 source_doc: jmbras-209-harrisson-eastmalaysiaand-1966-610ffffa6c76
 source_path: ../sources/jmbras-209-harrisson-eastmalaysiaand-1966-610ffffa6c76.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Recent archaeological discoveries in Malaysia, 1965: East Malaysia and Brunei
 
 Tom Harrisson, writing in 1966, reports on a year of intensive archaeological fieldwork across Sarawak, Sabah, and Brunei, with the long-running Niah Cave project as its centrepiece. The article functions simultaneously as a progress report on the Niah excavation and as a broader argument for how helicopter-assisted reconnaissance was reshaping understanding of prehistoric settlement patterns in Borneo's remote interior.

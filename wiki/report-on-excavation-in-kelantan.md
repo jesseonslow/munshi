@@ -3,8 +3,7 @@ id: report-on-excavation-in-kelantan
 work_id: jmbras-18-2-p1
 title: Report on excavation in Kelantan
 canonical_name: Report on excavation in Kelantan
-type: article
-article_type: article
+type: publication
 authors:
 - M.W.F. Tweedie
 year: 1940
@@ -20,6 +19,7 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+publication_type: journal_article
 ---
 
 # Report on excavation in Kelantan

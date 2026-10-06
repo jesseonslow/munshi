@@ -3,8 +3,7 @@ id: chinese-divining-blocks-and-the-pat-kwa-or-eight-sided-diagr
 work_id: jmbras-2-1-p72
 title: Chinese divining blocks and the “pat kwa” or eight-sided diagram
 canonical_name: Chinese divining blocks and the _“pat kwa”_ or eight-sided diagram
-type: article
-article_type: article
+type: publication
 authors:
 - W.G. Stirling
 year: 1924
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-090-stirling-chinesediviningblocks-1924-439179d40223
 source_path: ../sources/jmalayanras-090-stirling-chinesediviningblocks-1924-439179d40223.md
 summarized: true
+publication_type: note
 ---
+
 # Chinese divining blocks and the “pat kwa” or eight-sided diagram
 
 This short note by W. G. Stirling describes the physical form and ritual use of Chinese divining blocks and explains the structure and symbolism of the "Pat Kwa" or eight-sided diagram (p. 72).

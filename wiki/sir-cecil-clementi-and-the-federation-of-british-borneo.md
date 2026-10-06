@@ -3,8 +3,7 @@ id: sir-cecil-clementi-and-the-federation-of-british-borneo
 work_id: jmbras-44-2-p1
 title: Sir Cecil Clementi and the Federation of British Borneo
 canonical_name: Sir Cecil Clementi and the Federation of British Borneo
-type: article
-article_type: article
+type: publication
 authors:
 - N. Tarling
 year: 1971
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: false
 source_doc: jmbras-220-tarling-sircecilclementi-1971-42db5172fce5
 source_path: ../sources/jmbras-220-tarling-sircecilclementi-1971-42db5172fce5.md
+publication_type: journal_article
 ---
+
 # Sir Cecil Clementi and the Federation of British Borneo
 
 Nicholas Tarling's 1971 article traces Sir Cecil Clementi's 1930–33 attempt to federate the four British Borneo territories—Labuan, Brunei, Sarawak, and North Borneo—arguing that the scheme collapsed because it demanded mutually incompatible constitutional transformations (ending the Brooke autocracy in Sarawak and buying out the chartered company in North Borneo) at a moment of severe Depression-era fiscal constraint. The piece demonstrates how Clementi's initial vision of a loose Borneo federation mutated, under pressure from the Colonial Office and the Straits Legislative Council, into a plan to annex North Borneo to the Straits Settlements, which also failed, and it assesses the longer-term consequences for Sarawak's eventual 1941 constitutional reform.

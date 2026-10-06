@@ -3,8 +3,7 @@ id: captain-speedy-of-larut
 work_id: jmbras-26-3-p1
 title: Captain Speedy of Larut
 canonical_name: Captain Speedy of Larut
-type: article
-article_type: article
+type: publication
 authors:
 - J.M. Gullick
 year: 1953
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: true
 source_doc: jmalayanras-163-gullick-captainspeedylarut-1953-a2a235ab142d
 source_path: ../sources/jmalayanras-163-gullick-captainspeedylarut-1953-a2a235ab142d.md
+publication_type: monograph
 ---
+
 # Captain Speedy of Larut
 
 J.M. Gullick's 1953 monograph-length article reconstructs the career of Tristram Charles Sawyer Speedy (1836–1910), a restless Victorian adventurer who became the first European to administer a Chinese mining district in Malaya, serving as Assistant Resident of Larut in Perak from 1874 to 1877. Set against the backdrop of the Pangkor Treaty and the birth of the British "Residential system," the paper's central thesis is twofold: it examines the pioneer difficulties of governing a turbulent Chinese tin-mining community, and it subjects the character of Speedy to scrutiny in light of the bitter accusations levelled against him by Governor Sir William Jervois.

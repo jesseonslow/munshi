@@ -3,8 +3,7 @@ id: megalithic-remains-in-north-borneo
 work_id: jmbras-20-1-p153
 title: Megalithic remains in North Borneo
 canonical_name: Megalithic remains in North Borneo
-type: article
-article_type: article
+type: publication
 authors:
 - H.G. Keith
 year: 1947
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-142-keith-megalithicremainsnorth-1947-f15be1339c8d
 source_path: ../sources/jmalayanras-142-keith-megalithicremainsnorth-1947-f15be1339c8d/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Megalithic remains in North Borneo
 
 H.G. Keith reports on a series of Tenghilan Dusun cromlechs discovered in January 1937 near Kampong Sarambutan, West Coast Residency, North Borneo, arguing that megalithic remains in the region are more common than previous literature suggests (p. 153).

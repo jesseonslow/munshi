@@ -5,8 +5,7 @@ title: 'Temasik as an international and regional trading post in the thirteenth 
   fourteenth centuries: a reconstruction based on recent archaeological data'
 canonical_name: 'Temasik as an international and regional trading post in the thirteenth
   and fourteenth centuries: a reconstruction based on recent archaeological data'
-type: article
-article_type: article
+type: publication
 authors:
 - D. Heng Thiam Soon
 year: 1999
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-276-soon-temasikinternationalregional-1999-d2639822c20c
 source_path: ../sources/jmbras-276-soon-temasikinternationalregional-1999-d2639822c20c/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Temasik as an international and regional trading post in the thirteenth and fourteenth centuries: a reconstruction based on recent archaeological data
 
 Derek Heng Thiam Soon's 1999 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* reconstructs the economic role of Temasik (present-day Singapore) as a trading port during the thirteenth and fourteenth centuries, arguing that its significance has been systematically underestimated by scholars who relied on fifteenth-century records shaped by the Ming tributary trade system rather than on contemporaneous thirteenth- and fourteenth-century sources and archaeological evidence.

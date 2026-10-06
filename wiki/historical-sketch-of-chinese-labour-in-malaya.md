@@ -3,8 +3,7 @@ id: historical-sketch-of-chinese-labour-in-malaya
 work_id: jmbras-20-1-p64
 title: Historical sketch of Chinese labour in Malaya
 canonical_name: Historical sketch of Chinese labour in Malaya
-type: article
-article_type: article
+type: publication
 authors:
 - W.L. Blythe
 year: 1947
@@ -27,7 +26,9 @@ published: false
 source_doc: jmalayanras-142-blythe-historicalsketchchinese-1947-44cc305cc4c2
 source_path: ../sources/jmalayanras-142-blythe-historicalsketchchinese-1947-44cc305cc4c2.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Historical sketch of Chinese labour in Malaya
 
 W. L. Blythe's "Historical Sketch of Chinese Labour in Malaya," written in 1941 and published in 1947 in the *Journal of the Malayan Branch of the Royal Asiatic Society*, traces the evolution of Chinese labour systems in Malaya from the earliest Chinese mining settlements of the 1820s through the legal abolition of indentured labour in 1914 to the quasi-free labour market of the 1940s. Blythe, writing from within the colonial Protectorate of Chinese administration, argues that the Chinese labourer's journey from a condition "akin to the sale of pigs" to genuine freedom was driven not solely by legislation but by a convergence of economic, technological, and social forces. The article is explicitly framed as an introductory survey for those "fresh to this country," relying heavily on contemporaneous documents—commission reports, legislative debates, inspection records, and private correspondence—to reconstruct the institutional history of recruitment, employment, and protection.

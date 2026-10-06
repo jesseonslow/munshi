@@ -3,8 +3,7 @@ id: the-baboon-pa-si-bagok-and-the-girl
 work_id: jsbras-46-1-p65
 title: The baboon Pa Si Bagok and the girl
 canonical_name: The baboon Pa Si Bagok and the girl
-type: article
-article_type: article
+type: publication
 authors:
 - G.M. Laidlaw
 year: 1906
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-046-laidlaw-baboonpasi-1906-733ad98bd1de
 source_path: ../sources/jsbras-046-laidlaw-baboonpasi-1906-733ad98bd1de.md
 summarized: true
+publication_type: translation
 ---
+
 # The baboon Pa Si Bagok and the girl
 
 G. M. Laidlaw published this Malay folk tale in 1906 in the *Journal of the Straits Branch of the Royal Asiatic Society*, presenting a bilingual (English and Malay) rendering of a narrative in which a baboon named Pak Si Bagok abducts a girl and is ultimately outwitted and killed by her father's community. The piece is a straightforward folklore recording with no analytical apparatus beyond a brief prefatory note situating the tale within a small corpus of known Pak Si Bagok stories.

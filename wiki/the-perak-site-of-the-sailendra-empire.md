@@ -3,8 +3,7 @@ id: the-perak-site-of-the-sailendra-empire
 work_id: jmbras-19-2-p242
 title: The Perak site of the Sailendra empire
 canonical_name: The Perak site of the Sailendra empire
-type: article
-article_type: article
+type: publication
 authors:
 - R.O. Winstedt
 year: 1941
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-140-winstedt-peraksitesailendra-1941-b36a5451996e
 source_path: ../sources/jmalayanras-140-winstedt-peraksitesailendra-1941-b36a5451996e.md
 summarized: true
+publication_type: note
 ---
+
 # The Perak site of the Sailendra empire
 
 This is a short note by R. O. Winstedt, K.B.E., C.M.G., D.Litt. (Oxon.), published in the *Journal of the Malayan Branch of the Royal Asiatic Society*, Vol. 19, No. 2 (1941), p. 242.

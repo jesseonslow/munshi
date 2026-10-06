@@ -3,8 +3,7 @@ id: hikayat-maharaja-ravana
 work_id: jmbras-11-2-p111
 title: Hikayat Maharaja Ravana
 canonical_name: _Hikayat Maharaja Ravana._
-type: article
-article_type: article
+type: publication
 authors:
 - H. Overbeck
 year: 1933
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-117-overbeck-hikayatmaharajaravana-1933-29d536a8fcd8
 source_path: ../sources/jmalayanras-117-overbeck-hikayatmaharajaravana-1933-29d536a8fcd8.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Hikayat Maharaja Ravana
 
 H. Overbeck published his synopsis of the *Hikayat cheritera Maharaja Ravana* in 1933, presenting a previously overlooked Malay manuscript held in the Preussische Staatsbibliothek, Berlin, as a late but textually significant variant of the *Hikayat Seri Rama* tradition. Writing in the wake of Stutterheim's and Zieseniss's major monographs on the Indonesian Ramayana, Overbeck's central contribution is the identification and detailed narrative reconstruction of a manuscript that, while anachronistic in its material culture references, preserves distinctive mythological elements—particularly concerning the monkey-king Bali—that he argues may derive from a pre-Hindu Indian or Siamese stratum of the Ramayana tradition.

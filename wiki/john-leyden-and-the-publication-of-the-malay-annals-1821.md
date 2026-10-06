@@ -3,8 +3,7 @@ id: john-leyden-and-the-publication-of-the-malay-annals-1821
 work_id: jmbras-75-1-p99
 title: John Leyden and the publication of the Malay Annals (1821
 canonical_name: John Leyden and the publication of the Malay Annals (1821)
-type: article
-article_type: article
+type: publication
 authors:
 - J.S. Bastin
 year: 2002
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-283-bastin-johnleydenpublication-2002-1e301cf05bbb
 source_path: ../sources/jmbras-283-bastin-johnleydenpublication-2002-1e301cf05bbb.md
 summarized: true
+publication_type: journal_article
 ---
+
 # John Leyden and the publication of the Malay Annals (1821
 
 J.S. Bastin's 2002 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* (Vol. 75) reconstructs the circumstances surrounding the 1821 publication of John Leyden's translation of the *Malay Annals*, arguing that the widely repeated account by Virginia and M.B. Hooker—that Raffles strategically timed the publication to support his founding of Singapore—is historically inaccurate. Drawing extensively on Leyden's surviving correspondence, Bastin demonstrates that the publication was the product of a protracted estate settlement and publisher negotiation spanning nearly a decade after Leyden's death in Java in 1811.

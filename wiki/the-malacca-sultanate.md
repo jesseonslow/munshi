@@ -3,8 +3,7 @@ id: the-malacca-sultanate
 work_id: jmbras-13-2-p22
 title: The Malacca sultanate
 canonical_name: The Malacca sultanate
-type: article
-article_type: article
+type: publication
 authors:
 - R.J. Wilkinson
 year: 1935
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-122-wilkinson-malaccasultanate-1935-fce114053789
 source_path: ../sources/jmalayanras-122-wilkinson-malaccasultanate-1935-fce114053789.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The Malacca sultanate
 
 R.J. Wilkinson, a colonial administrator based in Malacca, published this comprehensive reconstruction of the Malacca Sultanate's political history in 1935, drawing on the Malay Annals, the Bostan al-Salatin, Chinese Ming dynasty records, and Portuguese sources to trace the state from its origins as a trading mart in the early fifteenth century through the reign of Mahmud Shah on the eve of the Portuguese conquest. His overarching argument is that the Malay Annals, while invaluable, are fundamentally a family history of the bendahara lineage and must be read critically against external evidence to separate political reality from dynastic legend.

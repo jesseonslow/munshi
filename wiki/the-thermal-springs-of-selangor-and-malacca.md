@@ -3,8 +3,7 @@ id: the-thermal-springs-of-selangor-and-malacca
 work_id: jsbras-24-1-p43
 title: The thermal springs of Selangor and Malacca
 canonical_name: The thermal springs of Selangor and Malacca
-type: article
-article_type: article
+type: publication
 authors:
 - W. Bott
 year: 1891
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-024-bott-thermalspringsselangor-1891-3cd0100dccda
 source_path: ../sources/jsbras-024-bott-thermalspringsselangor-1891-3cd0100dccda.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The thermal springs of Selangor and Malacca
 
 Dr. W. Bott, a chemist and geologist attached to the colonial scientific establishment, published this detailed chemical and geological survey of the thermal springs of Selangor and Malacca in 1891, in the Journal of the Straits Branch of the Royal Asiatic Society. The article presents systematic analyses of water, dissolved gases, and surrounding rock from springs across both states, arguing that they constitute a class of "simple thermal waters" of non-volcanic origin whose therapeutic value derives primarily from temperature and trace hydrogen sulphide content.

@@ -4,8 +4,7 @@ work_id: jsbras-44-1-p223
 title: Note on the occurrence in Selangor of three vertebrates new to the Malay Peninsula
 canonical_name: Note on the occurrence in Selangor of three vertebrates new to the
   Malay Peninsula
-type: article
-article_type: article
+type: publication
 authors:
 - H.C. Robinson
 year: 1905
@@ -22,7 +21,9 @@ published: false
 source_doc: jsbras-044-robinson-noteoccurrenceselangor-1905-ef303328b3a7
 source_path: ../sources/jsbras-044-robinson-noteoccurrenceselangor-1905-ef303328b3a7.md
 summarized: true
+publication_type: note
 ---
+
 # Note on the occurrence in Selangor of three vertebrates new to the Malay Peninsula
 
 This note by H. C. Robinson, Curator of the Selangor State Museum, records the discovery of three vertebrate species previously unrecorded from the Malay Peninsula, all collected in Selangor (p. 223).

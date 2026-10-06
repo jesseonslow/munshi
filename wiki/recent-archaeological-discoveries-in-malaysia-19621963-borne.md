@@ -3,8 +3,7 @@ id: recent-archaeological-discoveries-in-malaysia-19621963-borne
 work_id: jmbras-37-2-p192
 title: 'Recent archaeological discoveries in Malaysia 1962–1963: Borneo,'
 canonical_name: 'Recent archaeological discoveries in Malaysia 1962–1963: Borneo,'
-type: article
-article_type: article
+type: publication
 authors:
 - Tom Harrisson
 year: 1964
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: true
 source_doc: jmbras-206-harrison-recentarchaeologicaldiscoveries-1964-133c44acc366
 source_path: ../sources/jmbras-206-harrison-recentarchaeologicaldiscoveries-1964-133c44acc366.md
+publication_type: journal_article
 ---
+
 # Recent archaeological discoveries in Malaysia 1962–1963: Borneo,
 
 Barbara Harrisson and B. A. V. Peacock published this annual report in 1964, summarising the principal archaeological work undertaken in Borneo and Malaya during 1962–1963. The article's overarching thesis is that the accumulated evidence from Niah Caves, the Sarawak River Delta, and newly investigated Kelantan rock shelters demonstrates that west Borneo and the Malay Peninsula possessed a far deeper, more complex, and more economically significant prehistory than the scholarly consensus of the time had acknowledged.

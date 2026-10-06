@@ -3,8 +3,7 @@ id: the-aroids-of-borneo
 work_id: jsbras-44-1-p169
 title: The aroids of Borneo
 canonical_name: The aroids of Borneo
-type: article
-article_type: article
+type: publication
 authors:
 - H.N. Ridley
 year: 1905
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-044-ridley-aroidsborneo-1905-96724758b6ed
 source_path: ../sources/jsbras-044-ridley-aroidsborneo-1905-96724758b6ed.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The aroids of Borneo
 
 H. N. Ridley, then Director of the Singapore Botanic Gardens, published this floristic treatment of the Araceae of Borneo in 1905, drawing on his own 1903 collecting trip to Sarawak alongside earlier material from Beccari, Haviland, Korthals, Motley, Grabowski, and Hallier. The paper serves as a comprehensive checklist of aroid species known from the island at that time, while simultaneously describing eighteen new species and correcting taxonomic confusions arising from the widespread practice of describing aroids from leaves alone.

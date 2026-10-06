@@ -3,8 +3,7 @@ id: the-prehistory-of-malaya
 work_id: jmbras-10-1-p1
 title: The prehistory of Malaya
 canonical_name: The prehistory of Malaya
-type: article
-article_type: article
+type: publication
 authors:
 - R.O. Winstedt
 year: 1932
@@ -20,6 +19,7 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+publication_type: journal_article
 ---
 
 # The prehistory of Malaya

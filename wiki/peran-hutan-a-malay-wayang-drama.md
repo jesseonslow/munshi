@@ -3,8 +3,7 @@ id: peran-hutan-a-malay-wayang-drama
 work_id: jmbras-44-2-p79
 title: Peran Hutan, a Malay wayang drama
 canonical_name: _Peran Hutan,_ a Malay _wayang_ drama
-type: article
-article_type: article
+type: publication
 authors:
 - A. Sweeney
 year: 1971
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-220-sweeney-peranhutanmalay-1971-b0dc7ab97b77
 source_path: ../sources/jmbras-220-sweeney-peranhutanmalay-1971-b0dc7ab97b77.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Peran Hutan, a Malay wayang drama
 
 Amin Sweeney's 1971 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* presents three field-recorded renderings of *Peran Hutan*, the shortest drama in the *Wayang Siam* (Malay shadow-play) repertoire, to demonstrate how ritual function, performer identity, and audience context shape the language, presentation, and treatment of a single piece. Drawing on performances by Kelantanese *dalangs* in Kota Bharu in 1968, Sweeney argues that the drama's fixed plot coexists with radical variation in delivery, and that this variation is governed less by individual creativity than by the ritual or commercial purpose of the occasion.

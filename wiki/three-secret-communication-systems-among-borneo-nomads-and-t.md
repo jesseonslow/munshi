@@ -4,8 +4,7 @@ work_id: jmbras-38-2-p37
 title: Three “secret” communication systems among Borneo nomads (and their dogs
 canonical_name: Three “secret” communication systems among Borneo nomads (and their
   dogs)
-type: article
-article_type: article
+type: publication
 authors:
 - Tom Harrisson
 year: 1965
@@ -19,6 +18,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: journal_article
 ---
 
 # Three “secret” communication systems among Borneo nomads (and their dogs

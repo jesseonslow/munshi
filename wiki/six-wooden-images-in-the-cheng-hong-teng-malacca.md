@@ -3,8 +3,7 @@ id: six-wooden-images-in-the-cheng-hong-teng-malacca
 work_id: jmbras-28-1-p173
 title: Six wooden images in the Cheng Hong Teng, Malacca
 canonical_name: Six wooden images in the Cheng Hong Teng, Malacca
-type: article
-article_type: article
+type: publication
 authors:
 - C.A. Gibson-Hill
 year: 1955
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-169-gibsonhill-sixwoodenimages-1955-ba89cb5444f2
 source_path: ../sources/jmalayanras-169-gibsonhill-sixwoodenimages-1955-ba89cb5444f2.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Six wooden images in the Cheng Hong Teng, Malacca
 
 C.A. Gibson-Hill published this article in 1955, examining six carved wooden corbel-blocks in the Cheng Hoon Teng, Malacca's oldest Chinese temple, and arguing that they are south Indian works of the late eighteenth century, produced by craftsmen connected to the British Madras garrison that occupied Malacca from 1795. The article situates these unique figures within the temple's architectural history and traces their later replication in Singapore.

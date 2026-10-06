@@ -4,8 +4,7 @@ work_id: jmbras-60-2-p1
 title: 'From Seri Vijaya to Melaka: Batu Tagak in historical and cultural context'
 canonical_name: 'From Seri Vijaya to Melaka: Batu Tagak in historical and cultural
   context'
-type: article
-article_type: article
+type: publication
 authors:
 - J.N. Miksic
 year: 1987
@@ -23,7 +22,9 @@ summarized: true
 source_mismatch: true
 source_doc: jmbras-253-miksic-serivijayamelaka-1987-e8b0ced3de9d
 source_path: ../sources/jmbras-253-miksic-serivijayamelaka-1987-e8b0ced3de9d.md
+publication_type: journal_article
 ---
+
 # From Seri Vijaya to Melaka: Batu Tagak in historical and cultural context
 
 John N. Miksic's 1987 Annual Lecture to the Malaysian Branch of the Royal Asiatic Society argues that the upright stone monuments (*batu tagak*) of West Sumatra and peninsular Malaysia are not prehistoric megaliths but products of the classical era (c. AD 1000–1500), erected in the context of the political transformations that followed Srivijaya's decline, Adityawarman's court migration into the Minang highlands, and the eventual founding of Melaka. The article synthesizes fieldwork in the Limapuluh Koto and Tanahdatar regencies with epigraphic and historical evidence to propose that these stones mark a period of social differentiation driven by gold extraction and the spread of Malay political culture from estuarine centres into the interior (pp. 1–2).

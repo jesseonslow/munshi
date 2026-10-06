@@ -3,8 +3,7 @@ id: haji-ka-ta-na-ka-la
 work_id: jsbras-54-1-p156
 title: Haji Ka-Ta-Na-Ka-La
 canonical_name: Haji Ka-Ta-Na-Ka-La
-type: article
-article_type: article
+type: publication
 authors:
 - C.O. Blagden
 year: 1910
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-054-blagden-hajikatanakala-1910-618671d38507
 source_path: ../sources/jsbras-054-blagden-hajikatanakala-1910-618671d38507.md
 summarized: true
+publication_type: note
 ---
+
 # Haji Ka-Ta-Na-Ka-La
 
 This short note by C.O. Blagden (1910) corrects a suggestion made by W. George Maxwell regarding the identity of the Javanese ruler "Haji Ka-ta-na-ka-la" as recorded in the *History of the Yuan Dynasty*.

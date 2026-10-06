@@ -3,8 +3,7 @@ id: the-flora-of-the-limestone-hills-of-the-malay-peninsula
 work_id: jmbras-17-1-p13
 title: The flora of the limestone hills of the Malay Peninsula
 canonical_name: The flora of the limestone hills of the Malay Peninsula
-type: article
-article_type: article
+type: publication
 authors:
 - M.R. Henderson
 year: 1939
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-134-henderson-floralimestonehills-1939-b96bd86cf159
 source_path: ../sources/jmalayanras-134-henderson-floralimestonehills-1939-b96bd86cf159.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The flora of the limestone hills of the Malay Peninsula
 
 M.R. Henderson, a botanist associated with the Singapore Botanic Gardens, published this comprehensive floristic survey in 1939, drawing on his own field collections from the late 1920s through 1938 and a systematic review of the herbarium at the Singapore Botanic Gardens. The article establishes that the limestone hills of the Malay Peninsula support a distinct lowland flora of approximately 745 species, a significant proportion of which is restricted to or characteristic of calcareous substrates, and that this flora differs from that of other geological formations primarily in degree rather than in the presence of wholly novel plant groups.

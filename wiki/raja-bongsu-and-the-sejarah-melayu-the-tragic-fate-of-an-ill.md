@@ -5,8 +5,7 @@ title: 'Raja Bongsu and the Sejarah Melayu: The Tragic Fate of an Ill-starred Pr
   of Johor (b. 1571–d. 1623). B.K. Cheah, Faris Joraimi and P. Borschberg'
 canonical_name: 'Raja Bongsu and the Sejarah Melayu: The Tragic Fate of an Ill-starred
   Prince of Johor (b. 1571–d. 1623). B.K. Cheah, Faris Joraimi and P. Borschberg'
-type: article
-article_type: article
+type: publication
 authors:
 - P. Borschberg
 - Cheah Boon Kheng
@@ -21,7 +20,9 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: journal_article
 ---
+
 # Raja Bongsu and the Sejarah Melayu: The Tragic Fate of an Ill-starred Prince of Johor (b. 1571–d. 1623). B.K. Cheah, Faris Joraimi and P. Borschberg
 
 ## Summary

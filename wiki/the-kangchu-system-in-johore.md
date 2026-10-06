@@ -3,8 +3,7 @@ id: the-kangchu-system-in-johore
 work_id: jmbras-14-3-p247
 title: The kangchu system in Johore
 canonical_name: The _kangchu_ system in Johore
-type: article
-article_type: article
+type: publication
 authors:
 - A.E. Coope
 year: 1936
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-126-coope-kangchusystemjohore-1936-97a5d506a6b9
 source_path: ../sources/jmalayanras-126-coope-kangchusystemjohore-1936-97a5d506a6b9.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The kangchu system in Johore
 
 A.E. Coope, a Member of the Civil Service in Johore, published this article in 1936 in the *Journal of the Malayan Branch of the Royal Asiatic Society*. It examines the kangchu system—a semi-feudal administrative arrangement governing Chinese pepper and gambir plantation settlements in Johore from the 1830s until its legislative abolition in 1917. Coope's overarching thesis is that the system, while effective in encouraging pioneer development of Johore's interior, became an administrative anachronism that the colonial government had to dismantle through a compensation-backed Enactment.

@@ -3,8 +3,7 @@ id: malay-journalism-in-malaya
 work_id: jmbras-19-2-p244
 title: Malay journalism in Malaya
 canonical_name: Malay journalism in Malaya
-type: article
-article_type: article
+type: publication
 authors:
 - Zainal Abidin bin Ahmad
 year: 1941
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-140-ahmad-malayjournalismmalaya-1941-1693e5a14bde
 source_path: ../sources/jmalayanras-140-ahmad-malayjournalismmalaya-1941-1693e5a14bde.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Malay journalism in Malaya
 
 Zainal Abidin bin Ahmad's 1941 survey traces the sixty-year development of Malay-language journalism in British Malaya, from the lithographed *Jawi Peranakan* of 1877 to the five daily newspapers operating at the outbreak of the Second World War. His overarching thesis is that Malay journalism has progressed from a fragile pioneering effort into a vital institution for modernising Malay society, expanding the language, and shaping public opinion.

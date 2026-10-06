@@ -3,8 +3,7 @@ id: the-maritime-code-of-the-malays
 work_id: jsbras-4-1-p1
 title: The maritime code of the Malays
 canonical_name: The maritime code of the Malays
-type: article
-article_type: article
+type: publication
 authors:
 - T.S. Raffles
 year: 1879
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: true
 source_doc: jsbras-004-raffles-maritimecodemalays-1879-1d102e52561d
 source_path: ../sources/jsbras-004-raffles-maritimecodemalays-1879-1d102e52561d.md
+publication_type: journal_article
 ---
+
 # The maritime code of the Malays
 
 Sir Stamford Raffles' "The Maritime Code of the Malays (Continued)," published posthumously in the *Journal of the Siam Branch of the Royal Asiatic Society* in 1879, presents a sweeping survey of Malay legal institutions, the political history of the Straits states, and the origins of the Malay nation as a distinct people. Raffles' overarching thesis is that the Malays constitute a comparatively recent formation—shaped by Arabian contact and Islamic adoption—whose maritime law, particularly the *Nacodah*'s power of life and death, represents a purely indigenous legal innovation with no parallel in Arab or European sea codes (p. 20).

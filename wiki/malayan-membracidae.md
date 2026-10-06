@@ -3,8 +3,7 @@ id: malayan-membracidae
 work_id: jsbras-79-1-p1
 title: Malayan Membracidae
 canonical_name: Malayan Membracidae
-type: article
-article_type: article
+type: publication
 authors:
 - W.D. Funkhouser
 year: 1918
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: false
 source_doc: jsbras-079-funkhouser-malayanmembracidae-1918-161cca264423
 source_path: ../sources/jsbras-079-funkhouser-malayanmembracidae-1918-161cca264423.md
+publication_type: journal_article
 ---
+
 # Malayan Membracidae
 
 W.D. Funkhouser, writing from the Entomological Laboratory of Cornell University, published this taxonomic monograph in 1918 describing a collection of treehoppers (family Membracidae) gathered by Professor C.F. Baker at Singapore and Penang during the summer of 1917. The paper establishes twelve new species and provides distributional records for previously described taxa, significantly extending knowledge of the Indian homopterous fauna in the Malay Peninsula.

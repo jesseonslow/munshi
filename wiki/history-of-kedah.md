@@ -3,8 +3,7 @@ id: history-of-kedah
 work_id: jsbras-81-1-p29
 title: History of Kedah
 canonical_name: History of Kedah
-type: article
-article_type: article
+type: publication
 authors:
 - R.O. Winstedt
 year: 1920
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-081-winstedt-historykedah-1920-f54a607bd565
 source_path: ../sources/jsbras-081-winstedt-historykedah-1920-f54a607bd565.md
 summarized: true
+publication_type: journal_article
 ---
+
 # History of Kedah
 
 R. O. Winstedt, a British colonial administrator and scholar based in the Straits Settlements, published this survey of Kedah's political history in 1920, tracing the state from its earliest attestation in ninth-century Arab geography through its successive subjugations by Palembang, Siam, Acheen, the Dutch, and finally Siam again, to the 1909 transfer of suzerainty to Great Britain. The article's central argument is twofold: that Kedah was a strategically significant tin-trading centre whose political independence was perpetually curtailed by external powers, and that the *Hikayat Marong Mahawangsa* (the "Kedah Annals"), while preserving genuine historical kernels, is so heavily interpolated and chronologically confused that it cannot be relied upon as a straightforward narrative source.

@@ -5,8 +5,7 @@ title: 'Introduction: Penang Chinese in Penang and the region: evolving identiti
   and networks'
 canonical_name: 'Introduction: Penang Chinese in Penang and the region: evolving identities
   and networks'
-type: article
-article_type: article
+type: publication
 authors:
 - Loh Wei Leng
 year: 2009
@@ -24,7 +23,9 @@ summarized: true
 source_mismatch: false
 source_doc: jmbras-297-leng-introductionperanakanchinese-2009-c350df7c7655
 source_path: ../sources/references.md
+publication_type: journal_article
 ---
+
 # Introduction: Penang Chinese in Penang and the region: evolving identities and networks
 
 Loh Wei Leng's 2009 introduction to the JMBRAS volume *Peranakan Chinese in Penang and the Region: Evolving Identities and Networks* frames a multi-disciplinary workshop project funded by the Toyota Foundation's Asian Neighbors Network Program. Set against the historical backdrop of Southeast Asia's northern littoral from the early modern period through the colonial era, the piece argues that the dominant concept of a singular "Chinese diasporic identity" is inadequate for describing Peranakan Chinese communities, whose open tradition of cultural adaptation produced hybrid and multiple identities instead.

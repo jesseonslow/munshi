@@ -3,8 +3,7 @@ id: lung-yaumen-and-tan-mah-hsi
 work_id: jmbras-42-1-p10
 title: Lung-yaumen and Tan-Mah-hsi
 canonical_name: Lung-yaumen and Tan-Mah-hsi
-type: article
-article_type: article
+type: publication
 authors:
 - R. Braddell
 year: 1969
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-215-braddell-lungyamentanmahsi-1969-c9926d3f94e2
 source_path: ../sources/jmbras-215-braddell-lungyamentanmahsi-1969-c9926d3f94e2/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Lung-yaumen and Tan-Mah-hsi
 
 Roland Braddell's 1969 article, published in the Singapore 150th Anniversary Commemorative Issue of the JMBRAS, responds to a 1948 challenge by Han Wai Toon and H. D. Collings to the long-standing identification of the Chinese toponym Tan-ma-hsi with Singapore Island and Lung-ya-men with a passage in Singapore waters. Braddell defends the orthodox identification of Tan-ma-hsi as Singapore on linguistic and textual grounds, and argues that Lung-ya-men ("Dragon Teeth Gate") most probably referred to the western entrance of Keppel Harbour rather than the Singapore main strait or the "Strait of Lingga."

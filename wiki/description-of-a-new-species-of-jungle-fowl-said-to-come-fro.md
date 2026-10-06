@@ -3,8 +3,7 @@ id: description-of-a-new-species-of-jungle-fowl-said-to-come-fro
 work_id: jsbras-24-1-p167
 title: Description of a new species of jungle fowl said to come from Borneo
 canonical_name: Description of a new species of jungle fowl said to come from Borneo
-type: article
-article_type: article
+type: publication
 authors:
 - H.J. Kelsall
 year: 1891
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-024-kelsall-descriptionnewspecies-1891-6cbde9e6af16
 source_path: ../sources/jsbras-024-kelsall-descriptionnewspecies-1891-6cbde9e6af16.md
 summarized: true
+publication_type: note
 ---
+
 # Description of a new species of jungle fowl said to come from Borneo
 
 This is a brief taxonomic description by H. J. Kelsall of a new species of jungle fowl reported to originate from Borneo, published in the *Journal of the Straits Branch of the Royal Asiatic Society* (1891).

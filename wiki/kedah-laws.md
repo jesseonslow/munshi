@@ -3,8 +3,7 @@ id: kedah-laws
 work_id: jmbras-6-2-p1
 title: Kedah laws
 canonical_name: Kedah laws
-type: article
-article_type: article
+type: publication
 authors:
 - R.O. Winstedt
 year: 1928
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-103-winstedt-kedahlaws-1928-2d3d4b33583d
 source_path: ../sources/jmalayanras-103-winstedt-kedahlaws-1928-2d3d4b33583d/chapter-03.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Kedah laws
 
 R.O. Winstedt's 1928 article presents a critical edition of a seventeenth-century Malay manuscript of state laws, initially misattributed to Kelantan but demonstrated to belong to Kedah. Published in the *Journal of the Malayan Branch of the Royal Asiatic Society*, the work combines philological identification with full transcription and translation of the manuscript's principal legal codes, offering a rare window into the administrative and commercial machinery of a pre-colonial Malay sultanate.

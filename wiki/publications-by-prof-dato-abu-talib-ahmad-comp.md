@@ -3,8 +3,7 @@ id: publications-by-prof-dato-abu-talib-ahmad-comp
 work_id: jmbras-98-1-p127
 title: Publications by Prof. Dato Abu Talib Ahmad (comp
 canonical_name: Publications by Prof. Dato Abu Talib Ahmad (comp)
-type: article
-article_type: article
+type: publication
 authors:
 - P.H. Kratoska
 year: 2025
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: true
 source_doc: kratoska-publications-by-prof-dato-abu-talib-ahmad-d6673132e248
 source_path: ../sources/kratoska-publications-by-prof-dato-abu-talib-ahmad-d6673132e248.md
+publication_type: index
 ---
+
 # Publications by Prof. Dato Abu Talib Ahmad (comp
 
 Paul Kratoska compiled this bibliographic tribute to Prof. Dato Abu Talib Ahmad (d. June 2025) for the *Journal of the Malaysian Branch of the Royal Asiatic Society* in 2025, documenting 18 monographs and 69 book chapters, articles, and reviews that together constitute, in Kratoska's assessment, "a major contribution to historical writing in and on Malaysia" (p. 127). The list serves as a posthumous record of a scholar whose career at Universiti Sains Malaysia from 1984 onward drew on training at Tsukuba University and a Monash University doctorate on the Japanese Occupation of Burma.

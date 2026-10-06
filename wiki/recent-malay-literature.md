@@ -3,8 +3,7 @@ id: recent-malay-literature
 work_id: jmbras-19-1-p1
 title: Recent Malay literature
 canonical_name: Recent Malay literature
-type: article
-article_type: article
+type: publication
 authors:
 - Zainal Abidin bin Ahmad
 year: 1941
@@ -28,6 +27,7 @@ keywords:
 - Onn bin Jaafar
 - Tunku Abdul Rahman Putra
 source_mismatch: true
+publication_type: journal_article
 ---
 
 # Recent Malay literature

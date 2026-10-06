@@ -3,8 +3,7 @@ id: the-capture-of-malacca-ad-1511
 work_id: jsbras-61-1-p71
 title: The capture of Malacca, A.D. 1511
 canonical_name: The capture of Malacca, A.D. 1511
-type: article
-article_type: article
+type: publication
 authors:
 - R.J. Wilkinson
 year: 1912
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-061-wilkinson-capturemalaccaad-1912-63c774154f23
 source_path: ../sources/jsbras-061-wilkinson-capturemalaccaad-1912-63c774154f23.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The capture of Malacca, A.D. 1511
 
 R.J. Wilkinson's 1912 narrative recounts the Portuguese conquest of Malacca in 1511, tracing the sequence from the first European contact under Diego Lopez de Sequeira in August 1509 through the decisive assault by the Viceroy d'Albuquerque in July 1511. The article frames the capture as the product of a collision between Malay political caution and Portuguese imperial ambition, with the internal machinations of the Malaccan court—particularly the Sultan's execution of the Bendahara—proving as consequential as any act of arms.

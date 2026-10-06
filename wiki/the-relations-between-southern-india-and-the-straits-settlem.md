@@ -3,8 +3,7 @@ id: the-relations-between-southern-india-and-the-straits-settlem
 work_id: jsbras-36-1-p67
 title: The relations between Southern India and the Straits Settlements
 canonical_name: The relations between Southern India and the Straits Settlements
-type: article
-article_type: article
+type: publication
 authors:
 - A.W. O'Sullivan
 year: 1901
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-036-osullivan-relationssouthernindia-1901-5515df59fa41
 source_path: ../sources/jsbras-036-osullivan-relationssouthernindia-1901-5515df59fa41.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The relations between Southern India and the Straits Settlements
 
 W.A. O'Sullivan's 1901 article in the *Journal of the Straits Branch of the Royal Asiatic Society* examines the historical civilizing influences on the Malay Peninsula and the Indonesian Archipelago, arguing that while Arab traders introduced Islam, the broader social and linguistic civilization of the Malays was derived from India—first from a northern Aryan Hindu source and subsequently from the Dravidian traders of Southern India. The piece is fundamentally a linguistic-archaeological argument, using the etymology of Malay vocabulary to trace the direction, timing, and nature of foreign cultural contact.

@@ -3,8 +3,7 @@ id: head-pressing-amongst-the-milanos-of-sarawak
 work_id: jsbras-60-1-p69
 title: Head pressing amongst the Milanos of Sarawak
 canonical_name: Head pressing amongst the Milanos of Sarawak
-type: article
-article_type: article
+type: publication
 authors:
 - A.E. Lawrence
 year: 1911
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-060-hewitt-headpressingamongst-1911-47447d31ddeb
 source_path: ../sources/jsbras-060-hewitt-headpressingamongst-1911-47447d31ddeb.md
 summarized: true
+publication_type: note
 ---
+
 # Head pressing amongst the Milanos of Sarawak
 
 This short note by John Hewitt and A. E. Lawrence documents the practice of cranial deformation (head pressing) among the Milano people of Sarawak, describing the apparatus, procedure, and physical effects of the custom (p. 69).

@@ -3,8 +3,7 @@ id: road-or-rail-competition-in-colonial-malaya-19091940
 work_id: jmbras-53-2-p45
 title: Road or rail? Competition in colonial Malaya, 1909–1940
 canonical_name: Road or rail? Competition in colonial Malaya, 1909–1940
-type: article
-article_type: article
+type: publication
 authors:
 - Amarjit Kaur
 year: 1980
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-238-kaur-roadrailcompetitioncolonial-1980-cef55969b4b8
 source_path: ../sources/jmbras-238-kaur-roadrailcompetitioncolonial-1980-cef55969b4b8.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Road or rail? Competition in colonial Malaya, 1909–1940
 
 Amarjit Kaur's 1980 article traces the emergence and regulation of competition between road and rail transport in colonial Malaya from 1909 to 1940, arguing that the British administration's response was shaped by the structural dependence of the railway system on export trade and the political fragmentation of the Malayan states. The study demonstrates that the regulatory framework ultimately produced was a compromise that addressed surface-level competition while leaving the deeper economic problem of export dependence unresolved.

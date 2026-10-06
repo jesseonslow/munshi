@@ -3,8 +3,7 @@ id: tomb-stones-of-mahmud-shah-i-of-pahang
 work_id: jmbras-4-2-p188
 title: Tomb-stones of Mahmud Shah I of Pahang
 canonical_name: Tomb-stones of Mahmud Shah I of Pahang
-type: article
-article_type: article
+type: publication
 authors:
 - W. Linehan
 year: 1926
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-097-linehan-tombstonesmuhammadshah-1926-d8741e956d28
 source_path: ../sources/jmalayanras-097-linehan-tombstonesmuhammadshah-1926-d8741e956d28.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Tomb-stones of Mahmud Shah I of Pahang
 
 W. Linehan, writing in 1926 in the *Journal of the Malayan Branch of the Royal Asiatic Society*, reports the discovery at Pahang Tua of Achehnese-type tomb-stones bearing the Arabic epitaph of Muhammad Shah I, the first Sultan of Pahang. The article's central contribution is the identification of the earliest known Islamic tombstone in Pahang, dated 16 Jumada al-Awwal 880 AH (17 September 1475 AD), which provides a striking contemporary corroboration of the genealogy of three Malacca Sultans recorded in the *Sejarah Melayu*.

@@ -3,8 +3,7 @@ id: sejarah-negeri-dan-raja-raja-perlis
 work_id: jmbras-42-2-p175
 title: Sejarah negeri dan raja-raja Perlis
 canonical_name: _Sejarah negeri dan raja-raja Perlis._
-type: article
-article_type: article
+type: publication
 authors:
 - Hussain Baba bin Mohamad
 year: 1969
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-216-mohamad-sejarahnegeridan-1969-5bccd4f44c30
 source_path: ../sources/jmbras-216-mohamad-sejarahnegeridan-1969-5bccd4f44c30.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Sejarah negeri dan raja-raja Perlis
 
 Hussain Baba bin Mohamad, a court official of the Perlis royal establishment, published this comprehensive account of the origins and succession of the rulers of Perlis in 1969, tracing the state's evolution from a minor Kedah district called Kayang to a sovereign Malay state whose fifth ruler, Tuanku Syed Putra, would ascend to the throne of the Yang di-Pertuan Agong of Malaysia. The article serves both as a dynastic history and a political narrative of how a small northern state navigated Siamese suzerainty, British protection, Japanese occupation, and eventual national independence.

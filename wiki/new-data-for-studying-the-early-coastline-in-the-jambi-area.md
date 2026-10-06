@@ -3,8 +3,7 @@ id: new-data-for-studying-the-early-coastline-in-the-jambi-area
 work_id: jmbras-57-1-p56
 title: New data for studying the early coastline in the Jambi area
 canonical_name: New data for studying the early coastline in the Jambi area
-type: article
-article_type: article
+type: publication
 authors:
 - E.E. McKinnon
 year: 1984
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-246-mckinnon-newdatastudying-1984-7c97de8d4939
 source_path: ../sources/jmbras-246-mckinnon-newdatastudying-1984-7c97de8d4939/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # New data for studying the early coastline in the Jambi area
 
 E. Edwards McKinnon (1984) presents new archaeological evidence from the lower Batang Hari river in Jambi, Sumatra, to challenge Obdeyn's long-standing "gulf theory," which proposed that the coastline of South Sumatra had changed dramatically over the past fifteen centuries. Drawing on discoveries made in 1982—including a bronze *dipalaksmi* image and previously unrecorded ceramic deposits at Koto Kandis and Muara Kumpeh Hilir—McKinnon argues that the coastline has remained essentially stable since late Srivijayan times, rendering Obdeyn's historical reconstruction untenable (pp. 56–57).

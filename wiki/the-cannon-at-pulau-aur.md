@@ -3,8 +3,7 @@ id: the-cannon-at-pulau-aur
 work_id: jmbras-23-1-p139
 title: The cannon at Pulau Aur
 canonical_name: The cannon at Pulau Aur
-type: article
-article_type: article
+type: publication
 authors:
 - C.A. Gibson-Hill
 - H.A.L. Luckham
@@ -22,7 +21,9 @@ published: false
 source_doc: jmalayanras-151-luckam-originbatugajah-1950-bb2b9aff5d03
 source_path: ../sources/jmalayanras-151-luckam-originbatugajah-1950-bb2b9aff5d03.md
 summarized: true
+publication_type: note
 ---
+
 # The cannon at Pulau Aur
 
 This document comprises two short notes published in JMBRAS Vol. 23, No. 1 (1950), pp. 139–142: "The origin of 'Batu Gajah'" by H.A.L. Luckham and "The Cannon on Pulau Aur" by C.A. Gibson-Hill.

@@ -5,8 +5,7 @@ title: Documents relating to John Clunies Ross, Alexander Hare, and the establis
   of the colony on the Cocos-Keeling Islands
 canonical_name: Documents relating to John Clunies Ross, Alexander Hare, and the establishment
   of the colony on the Cocos-Keeling Islands
-type: article
-article_type: article
+type: publication
 authors:
 - C.A. Gibson-Hill
 year: 1952
@@ -24,7 +23,9 @@ summarized: true
 source_mismatch: true
 source_doc: jmalayanras-160-gibsonhill-documentsrelatingjohn-1952-ef9c5710ea59
 source_path: ../sources/references.md
+publication_type: document
 ---
+
 # Documents relating to John Clunies Ross, Alexander Hare, and the establishment of the colony on the Cocos-Keeling Islands
 
 C.A. Gibson-Hill's 1952 documentary compilation, published in the *Journal of the Malayan Branch of the Royal Asiatic Society* (Vol. 25, No. 4/5), presents an exhaustive collection of primary sources on the establishment of the Cocos-Keeling Islands settlement between 1825 and 1857, prefaced by a detailed introduction that corrects persistent errors in earlier accounts of the relationship between Shetland-born seaman John Clunies Ross and the former British Resident at Banjermassin, Alexander Hare. Gibson-Hill, who had lived on the atoll in 1941 and lost his original manuscript during the Japanese Occupation, argues that Ross's later autobiographical writings—composed after his quarrel with Hare—systematically distorted the earlier, more neutral accounts, and that the political dynamics of British-Dutch competition over the islands have been consistently misrepresented by both Dutch and English secondary literature (pp. 7–9, 193).

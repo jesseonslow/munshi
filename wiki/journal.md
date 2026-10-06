@@ -3,8 +3,7 @@ id: journal
 work_id: jmbras-9-journal
 title: Journal
 canonical_name: Journal
-type: article
-article_type: article
+type: publication
 authors:
 - Malaysian Branch of the Royal Asiatic Society
 year: 1932
@@ -26,6 +25,7 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+publication_type: index
 ---
 
 # Journal

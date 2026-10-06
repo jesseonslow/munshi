@@ -3,8 +3,7 @@ id: the-philippine-claim-to-sabah
 work_id: jmbras-43-1-p161
 title: The Philippine claim to Sabah
 canonical_name: The Philippine claim to Sabah
-type: article
-article_type: article
+type: publication
 authors:
 - K.G. Tregonning
 year: 1970
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-217-tregonning-philippineclaimsabah-1970-63f79ecc2d27
 source_path: ../sources/jmbras-217-tregonning-philippineclaimsabah-1970-63f79ecc2d27.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The Philippine claim to Sabah
 
 H.G. Tregonning, a historian of Sabah and author of *A History of Modern Sabah* (1960) and *North Borneo* (1966), published this article in 1970 in response to President Marcos's signing of Senate Bill 954 in September 1968, which declared Philippine sovereignty over Sabah. The article systematically dismantles the Philippine claim by tracing the chain of cessions from Brunei and Sulu to the British North Borneo Company, and by demonstrating that every subsequent international agreement from 1885 to 1967 confirmed the boundary as nine miles off the Borneo coast.

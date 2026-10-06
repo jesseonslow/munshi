@@ -3,8 +3,7 @@ id: the-white-tiger-in-penang
 work_id: jmbras-23-1-p142
 title: The “white tiger” in Penang
 canonical_name: The “white tiger” in Penang
-type: article
-article_type: article
+type: publication
 authors:
 - K. Sim
 year: 1950
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-151-sim-whitetigerpenang-1950-d8eec21029ef
 source_path: ../sources/jmalayanras-151-sim-whitetigerpenang-1950-d8eec21029ef.md
 summarized: true
+publication_type: note
 ---
+
 # The “white tiger” in Penang
 
 Katharine Sim's 1950 ethnographic note documents the cult of the White Tiger (Bai Hu) in Chinese temples across Penang, drawing on direct observation of a ritual service and informant testimony to describe a popular but physically marginalised deity whose worship peaked during the Japanese occupation.

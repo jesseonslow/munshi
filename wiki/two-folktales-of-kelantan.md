@@ -3,8 +3,7 @@ id: two-folktales-of-kelantan
 work_id: jmbras-9-1-p141
 title: Two folktales of Kelantan
 canonical_name: Two folktales of Kelantan
-type: article
-article_type: article
+type: publication
 authors:
 - A. Rentse
 year: 1931
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-111-rentse-twofolktaleskelantan-1931-16370594a949
 source_path: ../sources/jmalayanras-111-rentse-twofolktaleskelantan-1931-16370594a949.md
 summarized: true
+publication_type: note
 ---
+
 # Two folktales of Kelantan
 
 This short note by Anker Rentse presents two Kelantan folktales concerning a primordial catastrophe, collected in connection with the major flood of 1926 (p. 141).

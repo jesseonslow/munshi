@@ -3,8 +3,7 @@ id: the-founder-of-old-singapore-sb-82-127-s-1920-reprinted
 work_id: jmbras-42-1-p42
 title: 'The founder of old Singapore. SB 82: {127} S 1920. Reprinted'
 canonical_name: 'The founder of old Singapore. SB 82: {127} S 1920. Reprinted'
-type: article
-article_type: article
+type: publication
 authors:
 - R.O. Winstedt
 year: 1969
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-215-winstedt-founderoldsingapore-1969-7eef1e90efea
 source_path: ../sources/jmbras-215-winstedt-founderoldsingapore-1969-7eef1e90efea.md
 summarized: true
+publication_type: reprint
 ---
+
 # The founder of old Singapore. SB 82: {127} S 1920. Reprinted
 
 A short note by R. O. Winstedt examining the legendary founder of old Singapore, Sang Nila Utama, and the various traditions surrounding his identity and lineage (p. 42).

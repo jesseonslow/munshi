@@ -4,8 +4,7 @@ work_id: jmbras-29-3-p22
 title: The maritime laws of Malacca. ed R. Winstedt and P.E. de Josselin de Jong
 canonical_name: The maritime laws of Malacca. ed R. Winstedt and P.E. de Josselin
   de Jong
-type: article
-article_type: article
+type: publication
 authors:
 - P.E. de Josselin de Jong
 - R.O. Winstedt
@@ -23,7 +22,9 @@ published: false
 source_doc: jmalayanras-175-winstedt-maritimelawsmalacca-1956-d47dbbc74941
 source_path: ../sources/jmalayanras-175-winstedt-maritimelawsmalacca-1956-d47dbbc74941.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The maritime laws of Malacca. ed R. Winstedt and P.E. de Josselin de Jong
 
 Winstedt and de Josselin de Jong (1956) present a critical edition of the *Undang-Undang Laut*, the maritime code attributed to the court of Sultan Mahmud Shah of Malacca (r. 1424–1444), collated from thirteen manuscripts held in London, Leiden, and Breda. The edition establishes two distinct textual recensions of the code and provides an outline English translation, offering the most comprehensive scholarly treatment of this foundational document of Malay maritime law to that date.

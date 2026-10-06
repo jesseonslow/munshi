@@ -5,8 +5,7 @@ title: '{Note on the life-history of the Cicindelid beetle, Collyris emarginatus
   Dej.'
 canonical_name: '{Note on the life-history of the Cicindelid beetle, _Collyris emarginatus,_
   Dej.}'
-type: article
-article_type: article
+type: publication
 authors:
 - R.S. Shelford
 year: 1906
@@ -20,6 +19,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: note
 ---
 
 # {Note on the life-history of the Cicindelid beetle, Collyris emarginatus, Dej.

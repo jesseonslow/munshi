@@ -3,8 +3,7 @@ id: pulau-langkawi
 work_id: jsbras-19-1-p27
 title: Pulau Langkawi
 canonical_name: Pulau Langkawi
-type: article
-article_type: article
+type: publication
 authors:
 - W.E. Maxwell
 year: 1887
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-019-maxwell-pulaulangkawi-1887-59597f2e66ff
 source_path: ../sources/jsbras-019-maxwell-pulaulangkawi-1887-59597f2e66ff.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Pulau Langkawi
 
 W.E. Maxwell published this account of a leisurely nautical circuit of Pulau Langkawi in 1887, recording the island's coastal geography, place names, and the legendary cave of Goa Cherita as observed from the deck of the *Sea Bird*. The piece functions simultaneously as a geographical survey and a brief ethnographic note on the island's population, resources, and the local reception of the Kedah royal chronicle.

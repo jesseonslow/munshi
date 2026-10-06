@@ -3,8 +3,7 @@ id: ethnographic-notes-on-the-state-funeral-of-lee-kuan-yew-intr
 work_id: jmbras-89-1-p81
 title: 'Ethnographic notes on the state funeral of Lee Kuan Yew: introduction'
 canonical_name: 'Ethnographic notes on the state funeral of Lee Kuan Yew: introduction'
-type: article
-article_type: article
+type: publication
 authors:
 - M. Kaplan
 - J. Kelly
@@ -61,7 +60,9 @@ keywords:
   founding generation. Since his final retirement as Minister Mentor in 2012
 - his public appearances became rarer and rarer
 - and this long revered and feared human being further metamor
+publication_type: note
 ---
+
 # Ethnographic notes on the state funeral of Lee Kuan Yew: introduction
 
 This is the introduction to a special section of five ethnographic papers on the state funeral of Singapore's first Prime Minister, Lee Kuan Yew, authored by Martha Kaplan (Vassar College) and John Kelly (University of Chicago) (p. 81).

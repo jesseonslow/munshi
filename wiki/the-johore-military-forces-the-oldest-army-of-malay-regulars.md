@@ -4,8 +4,7 @@ work_id: jmbras-77-2-p95
 title: 'The Johore Military Forces: the oldest army of Malay regulars in the Peninsula'
 canonical_name: 'The Johore Military Forces: the oldest army of Malay regulars in
   the Peninsula'
-type: article
-article_type: article
+type: publication
 authors:
 - Shahriman bin Tunku Sulaiman Tunku Tan Sri Dato'
 year: 2004
@@ -22,7 +21,9 @@ published: false
 source_doc: jmbras-287-sulaiman-johoremilitaryforces-2004-00abe14e9a89
 source_path: ../sources/jmbras-287-sulaiman-johoremilitaryforces-2004-00abe14e9a89.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The Johore Military Forces: the oldest army of Malay regulars in the Peninsula
 
 Tunku Shahriman bin Tunku Sulaiman Tunku Tan Sri Dato' published this article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* in 2004, tracing the full arc of the Johore Military Forces (JMF) from their founding in 1885 under Sultan Abu Bakar to their final disbandment in 1946–1947. The article argues that the JMF was not merely a small ceremonial unit but a genuine instrument of state sovereignty, military cooperation, and Malay elite formation that reflected the broader tension between Johore's hard-won independence and the expanding British imperial presence in the Straits Settlements.

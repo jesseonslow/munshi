@@ -3,8 +3,7 @@ id: jerat-tempurong
 work_id: jmbras-28-1-p172
 title: Jerat tempurong
 canonical_name: _Jerat tempurong._
-type: article
-article_type: article
+type: publication
 authors:
 - C.A. Gibson-Hill
 year: 1955
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-169-gibsonhill-jrattmpurong-1955-cd82e145e5b7
 source_path: ../sources/jmalayanras-169-gibsonhill-jrattmpurong-1955-cd82e145e5b7.md
 summarized: true
+publication_type: note
 ---
+
 # Jerat tempurong
 
 This short note by C. A. Gibson-Hill describes the *jerat tempurong*, a Malay ground trap for catching ground-feeding birds, observed in use by Chinese settlers on Pulau Tioman in September 1954 (p. 172).

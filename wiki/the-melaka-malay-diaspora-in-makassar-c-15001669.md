@@ -3,8 +3,7 @@ id: the-melaka-malay-diaspora-in-makassar-c-15001669
 work_id: jmbras-71-1-p106
 title: The Melaka Malay Diaspora in Makassar, c 1500–1669
 canonical_name: The Melaka Malay Diaspora in Makassar, c 1500–1669
-type: article
-article_type: article
+type: publication
 authors:
 - W. Cummings
 year: 1998
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-274-cummings-melaramalaydiaspora-1998-bbafb0754d39
 source_path: ../sources/jmbras-274-cummings-melaramalaydiaspora-1998-bbafb0754d39/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The Melaka Malay Diaspora in Makassar, c 1500–1669
 
 W. Cummings (1998) reconstructs the history of the Malay community in Makassar from the early sixteenth century to the fall of Gowa in 1669, arguing that the relationship between Malays and Makassarese was far more complex than the standard narrative of a mutually profitable trading alliance and shared Islamic faith suggests. Drawing on Makassarese chronicles, court records, Dutch Dagh-Registers, and unpublished Malay and Makassarese manuscripts, the article traces three distinct phases in the evolution of this diaspora community and identifies several dimensions—tension, limited commercial monopoly, and a dispersed settlement pattern—that the conventional account overlooks.

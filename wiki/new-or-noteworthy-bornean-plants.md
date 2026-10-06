@@ -3,8 +3,7 @@ id: new-or-noteworthy-bornean-plants
 work_id: jmbras-1-1-p22
 title: New or noteworthy Bornean plants
 canonical_name: New or noteworthy Bornean plants
-type: article
-article_type: article
+type: publication
 authors:
 - E.D. Merrill
 year: 1923
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-086-merrill-newnoteworthybornean-1922-d0cb5dc8d2b4
 source_path: ../sources/jsbras-086-merrill-newnoteworthybornean-1922-d0cb5dc8d2b4.md
 summarized: true
+publication_type: journal_article
 ---
+
 # New or noteworthy Bornean plants
 
 Elmer D. Merrill, Director of the Bureau of Science in Manila, published this second installment of his account of Bornean plants in 1922 (JMBRAS No. 86), describing thirty new species and recording numerous range extensions based on specimens collected primarily in British North Borneo and Sarawak between 1914 and 1920. The paper extends the floristic knowledge of Borneo by documenting species previously known only from the Philippines, Java, or the Malay Peninsula, and by establishing several genera as new to the island.

@@ -3,8 +3,7 @@ id: the-pancha-persada-to-muda-orang-kaya-besar-and-mat-som
 work_id: jmbras-24-3-p147
 title: The Pancha Persada. To’ Muda Orang Kaya Besar and Mat Som
 canonical_name: The _Pancha Persada._ To’ Muda Orang Kaya Besar and Mat Som
-type: article
-article_type: article
+type: publication
 authors:
 - Mat Som
 - To' Muda Orang Kaya Besar
@@ -22,7 +21,9 @@ published: false
 source_doc: jmalayanras-156-besar-panchapersada-1951-1908eb00e1e8
 source_path: ../sources/jmalayanras-156-besar-panchapersada-1951-1908eb00e1e8.md
 summarized: true
+publication_type: note
 ---
+
 # The Pancha Persada. To’ Muda Orang Kaya Besar and Mat Som
 
 This is a brief notice or short note titled "The Pancha Persada," authored by To' Muda Orang Kaya Besar and Che' Mat Som, published in JMBRAS Vol. 24, No. 3 (1951), pp. 147–149.

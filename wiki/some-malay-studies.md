@@ -3,8 +3,7 @@ id: some-malay-studies
 work_id: jmbras-10-1-p67
 title: Some Malay studies
 canonical_name: Some Malay studies
-type: article
-article_type: article
+type: publication
 authors:
 - R.J. Wilkinson
 year: 1932
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-113-wilkinson-malaystudies-1932-11d6789151a6
 source_path: ../sources/jmalayanras-113-wilkinson-malaystudies-1932-11d6789151a6.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Some Malay studies
 
 R.J. Wilkinson, a senior British colonial administrator (C.M.G.) with deep personal access to the Perak court, published this sweeping cultural survey in 1932, drawing on Malay chronicles, inscriptions, and direct interviews with Sultan Idris of Perak to trace the layered origins of Malay kingship, religion, and belief from Proto-Malayan animism through Indian and Islamic accretions to the living traditions of the 1930s. The overarching thesis is that Malay culture is a palimpsest: each successive civilisation (Indian, Buddhist, Islamic) has been grafted onto an indigenous Proto-Malayan substrate without erasing it, so that the "shadows of the past" remain visible in every ritual, from the coronation drum to the village shaman's rice-field altar.

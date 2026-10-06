@@ -3,8 +3,7 @@ id: the-coffin-breakers-society
 work_id: jmbras-4-1-p129
 title: The Coffin Breakers Society
 canonical_name: The Coffin Breakers Society
-type: article
-article_type: article
+type: publication
 authors:
 - W.G. Stirling
 year: 1926
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-096-stirling-coffinbreakerssociety-1926-63d5e0faf73b
 source_path: ../sources/jmalayanras-096-stirling-coffinbreakerssociety-1926-63d5e0faf73b.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The Coffin Breakers Society
 
 W.G. Stirling's 1926 article reconstructs the history of the Shiu Lok Peng On Society, a criminal organization that operated across the Straits Settlements and Hong Kong from 1885 to approximately 1892, specializing in the robbery of Chinese passengers aboard steamers. Writing from what appears to be direct administrative knowledge, Stirling documents the Society's structure, methods, and eventual suppression by the Chinese Protectorate.

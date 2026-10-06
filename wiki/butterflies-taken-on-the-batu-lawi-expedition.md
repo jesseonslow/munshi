@@ -3,8 +3,7 @@ id: butterflies-taken-on-the-batu-lawi-expedition
 work_id: jsbras-63-1-p77
 title: Butterflies taken on the Batu Lawi expedition
 canonical_name: Butterflies taken on the Batu Lawi expedition
-type: article
-article_type: article
+type: publication
 authors:
 - J.C. Moulton
 year: 1912
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-063-moulton-expeditionmountbatu-1912-94eae97ebac5
 source_path: ../sources/jsbras-063-moulton-expeditionmountbatu-1912-94eae97ebac5/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Butterflies taken on the Batu Lawi expedition
 
 J.C. Moulton's 1912 account documents the first successful European approach to Mount Batu Lawi in the Limbang district of Sarawak, an expedition undertaken in the wet season of 1911 that yielded a small but taxonomically significant collection of butterflies from one of Borneo's least-known highland regions. The piece forms part of a larger multi-author expedition report and serves as both a travel narrative and a faunal record of an area previously accessible only to scattered indigenous inhabitants.

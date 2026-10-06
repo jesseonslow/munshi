@@ -4,8 +4,7 @@ work_id: jsbras-85-1-p135
 title: Through an unknown corner of Pahang with H. Clifford in 1897. F.W. Douglas
 canonical_name: Through an unknown corner of Pahang with H. Clifford in 1897. F.W.
   Douglas
-type: article
-article_type: article
+type: publication
 authors:
 - Sir Hugh Charles Clifford
 - F.W. Douglas
@@ -23,7 +22,9 @@ published: false
 source_doc: jsbras-085-douglas-unknowncornerpahang-1922-642fe96fbdef
 source_path: ../sources/jsbras-085-douglas-unknowncornerpahang-1922-642fe96fbdef.md
 summarized: true
+publication_type: translation
 ---
+
 # Through an unknown corner of Pahang with H. Clifford in 1897. F.W. Douglas
 
 F.W. Douglas published this first-person travel narrative in 1922, recounting an April 1897 expedition through the uncharted interior of northern Pahang undertaken alongside Sir Hugh Charles Clifford, then British Resident of Pahang. The account documents a fourteen-day journey from Pekan up the Pahang River, across the Bukit Lada watershed, and down the Pertang–Tekal–Tembiling river system, a route whose survey records were lost and which remained blank on the map thereafter.

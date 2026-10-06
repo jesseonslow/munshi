@@ -3,8 +3,7 @@ id: obituary-francis-e-treloar
 work_id: jmbras-53-2-p118
 title: 'Obituary: Francis E. Treloar'
 canonical_name: 'Obituary: Francis E. Treloar'
-type: article
-article_type: obituary
+type: publication
 authors:
 - E.E. McKinnon
 year: 1980
@@ -20,8 +19,8 @@ status: stub
 published: false
 source_doc: jmbras-238-mckinnon-obituaryfrancisedward-1980-126e9f88fd75
 source_path: ../sources/jmbras-238-mckinnon-obituaryfrancisedward-1980-126e9f88fd75.md
+publication_type: obituary
 ---
-
 
 # Obituary: Francis E. Treloar
 

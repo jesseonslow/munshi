@@ -3,8 +3,7 @@ id: two-bone-tools-in-the-raffles-museum
 work_id: jmbras-32-1-p197
 title: Two bone tools in the Raffles Museum
 canonical_name: Two bone tools in the Raffles Museum
-type: article
-article_type: article
+type: publication
 authors:
 - J.G.D. Clark
 year: 1959
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-185-clark-twobonetools-1959-26210a92fd7c
 source_path: ../sources/jmalayanras-185-clark-twobonetools-1959-26210a92fd7c.md
 summarized: true
+publication_type: note
 ---
+
 # Two bone tools in the Raffles Museum
 
 This short note by J.G.D. Clark describes two bone tools held in the Raffles Museum, one from Da Phuc, Tonkin, and one from Bukit Chuping, Perlis, Malaya.

@@ -5,8 +5,7 @@ title: 'Malay and Bugis manuscripts and early printed books at the Library of Co
   An Update'
 canonical_name: 'Malay and Bugis manuscripts and early printed books at the Library
   of Congress: An Update'
-type: article
-article_type: article
+type: publication
 authors:
 - J. Kueh
 year: 2020
@@ -35,7 +34,9 @@ keywords:
 - Munshi Abdullah
 - Abdullah bin Abdul Kadir
 - Charles Wilkes
+publication_type: journal_article
 ---
+
 # Malay and Bugis manuscripts and early printed books at the Library of Congress: An Update
 
 ## Abstract

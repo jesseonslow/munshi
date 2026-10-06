@@ -3,8 +3,7 @@ id: two-dutch-portuguese-sea-fights
 work_id: jmbras-16-1-p139
 title: Two Dutch-Portuguese sea-fights
 canonical_name: Two Dutch-Portuguese sea-fights
-type: article
-article_type: article
+type: publication
 authors:
 - J.V. Mills
 year: 1938
@@ -18,6 +17,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: journal_article
 ---
 
 # Two Dutch-Portuguese sea-fights

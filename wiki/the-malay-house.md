@@ -3,8 +3,7 @@ id: the-malay-house
 work_id: jmbras-7-3-p459
 title: The Malay house
 canonical_name: The Malay house
-type: article
-article_type: article
+type: publication
 authors:
 - R.O. Winstedt
 year: 1929
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-108-winstedt-malayhouse-1929-d919df943baf
 source_path: ../sources/jmalayanras-108-winstedt-malayhouse-1929-d919df943baf.md
 summarized: true
+publication_type: note
 ---
+
 # The Malay house
 
 This is a brief illustrated note by R. O. Winstedt, published in 1929, presenting a labelled sketch of a traditional Malay house with a glossary of its structural components.

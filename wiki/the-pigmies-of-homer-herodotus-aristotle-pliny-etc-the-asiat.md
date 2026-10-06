@@ -7,8 +7,7 @@ title: 'The pigmies of Homer, Herodotus, Aristotle, Pliny etc.: the Asiatic pigm
 canonical_name: 'The pigmies of Homer, Herodotus, Aristotle, Pliny etc.: the Asiatic
   pigmies, or Negritos; the Negrillos or African pigmies. A. de Quatrefages. . Errington
   De La Croix'
-type: article
-article_type: translation
+type: publication
 authors:
 - J.E. De La Croix
 - A. de Quatrefages
@@ -26,7 +25,9 @@ published: false
 source_doc: jsbras-013-hervey-valentynsdescriptionmalacca-1884-386bb5995645
 source_path: ../sources/jsbras-013-hervey-valentynsdescriptionmalacca-1884-386bb5995645.md
 summarized: true
+publication_type: translation
 ---
+
 # The pigmies of Homer, Herodotus, Aristotle, Pliny etc.: the Asiatic pigmies, or Negritos; the Negrillos or African pigmies. A. de Quatrefages. . Errington De La Croix
 
 D. F. A. Hervey published this translation of Valentyn's *Description of Malacca* in the *Journal of the Straits Branch of the Royal Asiatic Society* (Vol. 13, 1884), presenting a comprehensive seventeenth-century Dutch account of the city's geography, administration, and Malay population, supplemented by a lengthy historical narrative tracing the kingdom's founding from the thirteenth century to the Portuguese conquest of 1511. The text, rendered into English by Mr. Muller, Government Translator, with Hervey's editorial notes, serves as both a colonial administrative record and a source for early Malay historiography drawn from the genealogical work *Kitab Hangtooha*.

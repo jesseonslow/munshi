@@ -3,8 +3,7 @@ id: the-perak-genies
 work_id: jmbras-7-3-p460
 title: The Perak genies
 canonical_name: The Perak genies
-type: article
-article_type: article
+type: publication
 authors:
 - R.O. Winstedt
 year: 1929
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-108-winstedt-perakgenies-1929-6af617d2fabb
 source_path: ../sources/jmalayanras-108-winstedt-perakgenies-1929-6af617d2fabb.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The Perak genies
 
 R.O. Winstedt's 1929 article "The Perak Genies" documents the guardian jinn (*jin kerajaan*) of the Perak sultanate, drawing on oral information provided by Raja Haji Yahya bin Raja Muhammad Ali of Chendriang, a Perak aristocrat descended from a former sultan whose family had included a state *pawang* (Sultan Muda). The piece presents a catalogue of state and common genies, their invocations, and the elaborate ceremony by which these spirits were summoned to feast upon the royal regalia.

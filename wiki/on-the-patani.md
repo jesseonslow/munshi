@@ -3,8 +3,7 @@ id: on-the-patani
 work_id: jsbras-11-1-p123
 title: On the Patani
 canonical_name: On the Patani
-type: article
-article_type: article
+type: publication
 authors:
 - W. Cameron
 year: 1883
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-011-cameron-patani-1883-d68132737023
 source_path: ../sources/jsbras-011-cameron-patani-1883-d68132737023.md
 summarized: true
+publication_type: journal_article
 ---
+
 # On the Patani
 
 William Cameron's "On the Patani" (1883) is a travel and geological account of his 1881 journey up the Patani River through the Siamese-administered provinces of Raman, Jalor, Nunchit, and Patani in the northern Malay Peninsula. The article combines vivid ethnographic and scenic description with a sustained mineralogical and geological survey, arguing that oceanic action rather than river denudation was the principal agent in shaping the region's topography and distributing its alluvial mineral deposits.

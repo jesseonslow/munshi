@@ -3,8 +3,7 @@ id: the-relation-of-weight-to-wing-area-in-the-flight-of-animals
 work_id: jmbras-8-2-p334
 title: The relation of weight to wing area in the flight of animals
 canonical_name: The relation of weight to wing area in the flight of animals
-type: article
-article_type: article
+type: publication
 authors:
 - E. Banks
 year: 1930
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-110-banks-relationweightwing-1930-28338ff77cf7
 source_path: ../sources/jmalayanras-110-banks-relationweightwing-1930-28338ff77cf7.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The relation of weight to wing area in the flight of animals
 
 E. Banks, Curator of the Sarawak Museum, published this quantitative study in 1930, drawing on specimens collected during four years of comparative isolation in Borneo to test and extend the earlier German work of Mullenhoff (1885) on the mathematical relationship between body weight and wing area in flying animals. The paper's central thesis is that the ratio of wing area to body weight follows a predictable inverse relationship across birds, bats, and insects, and that the cube root of this ratio approximates a near-constant value of about 4, a property Banks and his advisor Prof. Huxley argued is primarily geometrical rather than biologically determined.

@@ -3,8 +3,7 @@ id: boogok-boogok-the-winged-boat-of-the-sea-bajau-in-sabah-mala
 work_id: jmbras-81-1-p19
 title: 'Boo’gok-boo’gok : the winged boat of the Sea Bajau in Sabah, Malaysia'
 canonical_name: '_Boo’gok-boo’gok_ : the winged boat of the Sea Bajau in Sabah, Malaysia'
-type: article
-article_type: article
+type: publication
 authors:
 - Ismail Ali
 - J. Wong Kon Ling
@@ -22,7 +21,9 @@ published: false
 source_doc: jmbras-294-ali-boogokboogokwingedboat-2008-630bb32a95f7
 source_path: ../sources/jmbras-294-ali-boogokboogokwingedboat-2008-630bb32a95f7/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Boo’gok-boo’gok : the winged boat of the Sea Bajau in Sabah, Malaysia
 
 Ismail Ali and Jane Wong Kon Ling (2008) document the *boo'gok-boo'gok*, a small winged fishing boat of the Sea Bajau (*Pala'u*) community on Sabah's east coast, arguing that it represents a direct material descendant of the Sulu Sultanate-era *barangayan* and *kora-kora* and has been systematically overlooked in scholarship that privileges the more famous *lepa-lepa* dwelling boat.

@@ -3,8 +3,7 @@ id: on-the-fertilization-of-grammatophyllum
 work_id: jsbras-44-1-p228
 title: On the fertilization of Grammatophyllum
 canonical_name: On the fertilization of _Grammatophyllum._
-type: article
-article_type: article
+type: publication
 authors:
 - H.N. Ridley
 year: 1905
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-044-ridley-fertilizationgrammatophyllum-1905-0bfaa1d0f901
 source_path: ../sources/jsbras-044-ridley-fertilizationgrammatophyllum-1905-0bfaa1d0f901.md
 summarized: true
+publication_type: note
 ---
+
 # On the fertilization of Grammatophyllum
 
 This short note by H. N. Ridley discusses the role of insects in the fertilization of *Grammatophyllum* and related orchids, with a broader observation on insect-mediated pollination failure.

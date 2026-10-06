@@ -3,8 +3,7 @@ id: malayan-blattidae
 work_id: jsbras-69-1-p17
 title: Malayan Blattidae
 canonical_name: Malayan Blattidae
-type: article
-article_type: article
+type: publication
 authors:
 - Hanitsch R
 year: 1915
@@ -28,7 +27,9 @@ reprints:
 source_doc: jsbras-069-hanitsch-malayanblattid-1915-d4c95b0dffa2
 source_path: ../sources/jsbras-069-hanitsch-malayanblattid-1915-d4c95b0dffa2/index.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Malayan Blattidae
 
 R. Hanitsch, Director of the Raffles Museum, Singapore, published this comprehensive taxonomic monograph on the cockroaches (Blattidae) of the Malayan region in 1915. Working from collections in Oxford, London, Kuching, and Singapore, and supplemented by his own fieldwork at Bukit Kutu, Selangor (April 1915), Hanitsch consolidated scattered descriptions from over fifty prior publications into a single systematic reference, describing nine new species and analysing the biogeographical distribution of 184 species across nine sub-families.

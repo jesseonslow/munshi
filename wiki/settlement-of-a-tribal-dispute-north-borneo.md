@@ -3,8 +3,7 @@ id: settlement-of-a-tribal-dispute-north-borneo
 work_id: jmbras-27-1-p221
 title: Settlement of a tribal dispute (North Borneo
 canonical_name: Settlement of a tribal dispute (North Borneo)
-type: article
-article_type: article
+type: publication
 authors:
 - R.H.W. Beresford-Peirse
 year: 1954
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-165-beresfordpeirse-settlementtribaldispute-1954-9b9688f0d2aa
 source_path: ../sources/jmalayanras-165-beresfordpeirse-settlementtribaldispute-1954-9b9688f0d2aa.md
 summarized: true
+publication_type: note
 ---
+
 # Settlement of a tribal dispute (North Borneo
 
 This short note by R.H.W. Beresford-Peirse, then District Officer of Sandakan, documents the resolution of a decades-old head-hunting feud between the Rumanau Alab and Mangkahak peoples of the Kinabatangan River headwaters in North Borneo (p. 221).

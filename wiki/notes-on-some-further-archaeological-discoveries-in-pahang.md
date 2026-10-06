@@ -3,8 +3,7 @@ id: notes-on-some-further-archaeological-discoveries-in-pahang
 work_id: jmbras-8-2-p314
 title: Notes on some further archaeological discoveries in Pahang
 canonical_name: Notes on some further archaeological discoveries in Pahang
-type: article
-article_type: article
+type: publication
 authors:
 - W. Linehan
 year: 1930
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-110-linehan-notesarchaeologicaldiscoveries-1930-38d4e95237e9
 source_path: ../sources/jmalayanras-110-linehan-notesarchaeologicaldiscoveries-1930-38d4e95237e9.md
 summarized: true
+publication_type: note
 ---
+
 # Notes on some further archaeological discoveries in Pahang
 
 W. Linehan's 1930 article reports a series of archaeological finds from the Tembeling river basin in Pahang, extending his earlier 1928 survey of the same region. The paper documents objects ranging from Neolithic stone tools to early Ming porcelain, with particular emphasis on the Bukit Jong site, which Linehan interprets as evidence of a stone-to-iron transition culture in the interior of the Malay Peninsula.

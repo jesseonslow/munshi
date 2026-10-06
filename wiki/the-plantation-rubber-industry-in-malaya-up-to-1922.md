@@ -3,8 +3,7 @@ id: the-plantation-rubber-industry-in-malaya-up-to-1922
 work_id: jmbras-40-1-p52
 title: The plantation rubber industry in Malaya up to 1922
 canonical_name: The plantation rubber industry in Malaya up to 1922
-type: article
-article_type: article
+type: publication
 authors:
 - Drabble J.H
 year: 1967
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-211-drabble-plantationrubberindustry-1967-35281519e461
 source_path: ../sources/jmbras-211-drabble-plantationrubberindustry-1967-35281519e461.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The plantation rubber industry in Malaya up to 1922
 
 J.H. Drabble, writing in 1967, examines the formation and early development of Malaya's plantation rubber industry from its botanical origins in the 1870s through the imposition of the Stevenson Restriction Scheme in 1922. His central argument is that the industry's fortunes rapidly shifted from a locally-centred agricultural venture to one governed by Imperial economic policy, driven by the influx of overseas capital and the centralising effects of the First World War.

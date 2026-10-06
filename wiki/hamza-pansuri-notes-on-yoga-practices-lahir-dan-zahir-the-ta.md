@@ -7,8 +7,7 @@ title: 'Hamza Pansuri: notes on yoga practices, lahir dan zahir, the ‘Taxallos
 canonical_name: 'Hamza Pansuri: notes on yoga practices, lahir dan zahir, the ‘Taxallos’,
   punning, a difficult passage in the Kitab al-Muntahi, Hamza’s likely place of birth,
   and Hamza’s imagery: with appendix'
-type: article
-article_type: article
+type: publication
 authors:
 - L.F. Brakel
 year: 1979
@@ -25,7 +24,9 @@ published: false
 source_doc: jmbras-235-brakel-hamzapansurinotes-1979-42b89afbbea7
 source_path: ../sources/jmbras-235-brakel-hamzapansurinotes-1979-42b89afbbea7/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Hamza Pansuri: notes on yoga practices, lahir dan zahir, the ‘Taxallos’, punning, a difficult passage in the Kitab al-Muntahi, Hamza’s likely place of birth, and Hamza’s imagery: with appendix
 
 L.F. Brakel's 1979 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* (Vol. 52, No. 235) presents a series of philological and interpretive notes on the 16th-century Acehnese mystic Hamza Pansuri, arguing that the poet should be understood simultaneously as an imitator of Persian Sufi tradition and an innovator within Malay literary culture. The piece functions as prolegomena to a planned critical edition, addressing technical questions that Brakel deemed too specialized for a general monograph.

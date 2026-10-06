@@ -3,8 +3,7 @@ id: the-chiangchew-hokkiens-the-true-pioneers-in-the-nanyang
 work_id: jmbras-82-2-p39
 title: The Chiangchew Hokkiens, the true pioneers in the Nanyang
 canonical_name: The Chiangchew Hokkiens, the true pioneers in the Nanyang
-type: article
-article_type: article
+type: publication
 authors:
 - R. Jones
 year: 2009
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-297-jones-chiangchewhokkienstrue-2009-7b8c4c529179
 source_path: ../sources/jmbras-297-jones-chiangchewhokkienstrue-2009-7b8c4c529179/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The Chiangchew Hokkiens, the true pioneers in the Nanyang
 
 Russell Jones, a linguist and former officer of the Malayan government, published this article in JMBRAS Vol. 82 (2009), arguing that speakers of the Chiangchew (Zhangzhou) subdialect of Hokkien constituted the dominant wave of early Chinese emigration to the Nanyang from at least the fifteenth century through the late nineteenth, and that their distinct identity was subsequently absorbed into the undifferentiated category "Hokkien" and largely erased from the historiography.

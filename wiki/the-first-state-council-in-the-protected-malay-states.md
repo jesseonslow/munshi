@@ -3,8 +3,7 @@ id: the-first-state-council-in-the-protected-malay-states
 work_id: jmbras-39-1-p182
 title: The first State Council in the Protected Malay States
 canonical_name: The first State Council in the Protected Malay States
-type: article
-article_type: article
+type: publication
 authors:
 - E. Chew
 year: 1966
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-209-chew-firststatecouncil-1966-02b981df2835
 source_path: ../sources/jmbras-209-chew-firststatecouncil-1966-02b981df2835.md
 summarized: true
+publication_type: note
 ---
+
 # The first State Council in the Protected Malay States
 
 Ernest Chew's short note corrects a long-standing chronological error in Malayan historiography, demonstrating that the first State Council was established in Selangor (March 1877) rather than in Perak (June 1877) as previously assumed.

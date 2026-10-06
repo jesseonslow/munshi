@@ -3,8 +3,7 @@ id: studying-srivijaya
 work_id: jmbras-52-2-p1
 title: Studying Srivijaya
 canonical_name: Studying Srivijaya
-type: article
-article_type: article
+type: publication
 authors:
 - O.W. Wolters
 year: 1979
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: true
 source_doc: jmbras-236-wolters-studyingrvijaya-1979-e9f2bcd9e858
 source_path: ../sources/jmbras-236-wolters-studyingrvijaya-1979-e9f2bcd9e858.md
+publication_type: journal_article
 ---
+
 # Studying Srivijaya
 
 O.W. Wolters published this survey of Srivijayan studies in 1979, on the eve of the Jakarta SPAFA workshop, to assess the state of knowledge concerning the great maritime kingdom of the seventh to thirteenth centuries and to propose a new methodological direction. His overarching thesis is that Srivijaya's persistent elusiveness—its fame in foreign sources contrasted with the near-total absence of indigenous monumental evidence—should be treated not as a deficiency but as a meaningful sign, and that the riverine landscape of Sumatra, read through both its visible and absent features, constitutes the primary text for reconstructing the kingdom's political and cultural geography.

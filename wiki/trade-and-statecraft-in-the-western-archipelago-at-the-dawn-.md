@@ -5,8 +5,7 @@ title: Trade and statecraft in the western archipelago at the dawn of the Europe
   age
 canonical_name: Trade and statecraft in the western archipelago at the dawn of the
   European age
-type: article
-article_type: article
+type: publication
 authors:
 - Hall K.R
 year: 1981
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-239-hall-tradestatecraftwestern-1981-d24026264658
 source_path: ../sources/jmbras-239-hall-tradestatecraftwestern-1981-d24026264658.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Trade and statecraft in the western archipelago at the dawn of the European age
 
 Kenneth R. Hall's 1981 article examines the transformation of commercial and political structures in the western archipelago from the tenth through the sixteenth centuries, arguing that shifting patterns of international spice trade drove the transition from the loose Srivijayan port federation to more integrated territorial states such as Samudra-Pasai, Malacca, and Aceh. Hall deploys Bennet Bronson's model of decentralized riverine political systems to explain how coastal entrepots secured hinterland production for international markets, and how the friction of this integration shaped state formation at the dawn of European arrival.

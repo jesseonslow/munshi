@@ -3,8 +3,7 @@ id: plethiandra-sahebii-a-new-melastomacea-from-sarawak-describe
 work_id: jsbras-77-1-p265
 title: Plethiandra sahebii, a new Melastomacea from Sarawak, described
 canonical_name: _Plethiandra sahebii,_ a new Melastomacea from Sarawak, described
-type: article
-article_type: article
+type: publication
 authors:
 - I.H. Burkill
 year: 1917
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-077-burkill-plethiandrasahebiinew-1917-b085dd6df3c7
 source_path: ../sources/jsbras-077-burkill-plethiandrasahebiinew-1917-b085dd6df3c7.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Plethiandra sahebii, a new Melastomacea from Sarawak, described
 
 I.H. Burkill's 1917 description of *Plethiandra sahebii* presents a new species of Melastomataceae from Sarawak, described from a single living specimen in cultivation at the Singapore Botanic Gardens. The article's central contribution is a morphologically detailed account of the species—uniquely illustrated from life rather than dried material—alongside a comparative analysis of floral dimensions across the genus and a brief systematic discussion of its affinities to *Medinilla* and *Carionia*.

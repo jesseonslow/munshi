@@ -3,8 +3,7 @@ id: journal-of-a-voyage-from-india-to-siam-and-malacca-in-1779
 work_id: jsbras-27-1-p57
 title: Journal of a voyage from India to Siam and Malacca in 1779
 canonical_name: Journal of a voyage from India to Siam and Malacca in 1779
-type: article
-article_type: article
+type: publication
 authors:
 - J.G. Koenig
 year: 1894
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-027-koenig-journalvoyageindia-1894-48a559bc91bf
 source_path: ../sources/jsbras-027-koenig-journalvoyageindia-1894-48a559bc91bf.md
 summarized: true
+publication_type: translation
 ---
+
 # Journal of a voyage from India to Siam and Malacca in 1779
 
 Dr. Johann Georg Koenig's 1779 voyage journal, translated from his British Museum manuscripts and published in 1894, documents a naturalist's systematic botanical, zoological, and mineralogical survey of the Malay coast from Junk Ceylon (Penang) through Malacca to Quedar (Kedah), providing one of the earliest European scientific accounts of the region's biodiversity and indigenous practices.

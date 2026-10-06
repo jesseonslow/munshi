@@ -3,8 +3,7 @@ id: the-mentra-traditions
 work_id: jsbras-10-1-p189
 title: The Mentra traditions
 canonical_name: The Mentra traditions
-type: article
-article_type: notes_and_queries
+type: publication
 authors:
 - D.F.A. Hervey
 year: 1882
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-010-hervey-mntratraditions-1882-655678dfe9ec
 source_path: ../sources/jsbras-010-hervey-mntratraditions-1882-655678dfe9ec.md
 summarized: true
+publication_type: note
 ---
+
 # The Mentra traditions
 
 D.F.A. Hervey published this collection of Mentra oral traditions in 1882, recording narratives communicated by Batin Pa' Inai, who claimed authority as head of all the Batins of the Mentra tribes and who had resided in Johol for approximately fifteen years (p. 189). The work presents a cosmogonic and genealogical corpus that positions the Mentra as the primordial aboriginal stock from which all other indigenous peoples of the Malay Peninsula and Sumatra derive, linking the creation of the natural world to the political foundations of Minangkabau and the Jelebu–Johol region.

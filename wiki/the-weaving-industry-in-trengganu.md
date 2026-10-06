@@ -3,8 +3,7 @@ id: the-weaving-industry-in-trengganu
 work_id: jmbras-22-3-p75
 title: The weaving industry in Trengganu
 canonical_name: The weaving industry in Trengganu
-type: article
-article_type: article
+type: publication
 authors:
 - A.H. Hill
 year: 1949
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-149-hill-weavingindustrytrengganu-1949-6034be559e1a
 source_path: ../sources/jmalayanras-149-hill-weavingindustrytrengganu-1949-6034be559e1a.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The weaving industry in Trengganu
 
 A.H. Hill published this technical-ethnographic study in 1949, documenting the village weaving industry of Trengganu in the immediate post-war period when renewed demand for textiles had given the craft a new impetus. The article provides a detailed account of the technical processes from raw silk procurement to finished cloth, and catalogues the diverse types of textile produced in the state.

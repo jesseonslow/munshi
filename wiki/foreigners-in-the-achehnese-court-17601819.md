@@ -3,8 +3,7 @@ id: foreigners-in-the-achehnese-court-17601819
 work_id: jmbras-43-1-p64
 title: Foreigners in the Achehnese court, 1760–1819
 canonical_name: Foreigners in the Achehnese court, 1760–1819
-type: article
-article_type: article
+type: publication
 authors:
 - Lee Kam Hing
 year: 1970
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-217-hing-foreignersachehnesecourt-1970-1a6e668181f3
 source_path: ../sources/jmbras-217-hing-foreignersachehnesecourt-1970-1a6e668181f3/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Foreigners in the Achehnese court, 1760–1819
 
 Lee Kam Hing's 1970 article examines the role of non-Acehnese foreigners—Chuliah traders, European adventurers, and private merchants—in the Achehnese court between 1760 and 1819, arguing that their presence was both a symptom of the collapse of traditional Acehnese governance and a persistent diplomatic irritant for British authorities in Bengal and Penang who feared uncontrolled foreign influence in a strategically located state. The study demonstrates that the seemingly peripheral Articles 6 and 7 of the Sriduli Treaty of 1819, which excluded other European powers and Americans from fixed residence in Aceh, were in fact the culmination of decades of anxiety over precisely this problem.

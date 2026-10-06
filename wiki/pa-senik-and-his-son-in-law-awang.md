@@ -3,8 +3,7 @@ id: pa-senik-and-his-son-in-law-awang
 work_id: jsbras-46-1-p59
 title: Pa Senik and his son-in-law Awang
 canonical_name: Pa Senik and his son-in-law Awang
-type: article
-article_type: article
+type: publication
 authors:
 - G.M. Laidlaw
 year: 1906
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-046-laidlaw-paseniksoninlaw-1906-88d28d55fc07
 source_path: ../sources/jsbras-046-laidlaw-paseniksoninlaw-1906-88d28d55fc07.md
 summarized: true
+publication_type: note
 ---
+
 # Pa Senik and his son-in-law Awang
 
 G.M. Laidlaw published "Pa Senik and his Son-in-law Awang" in the *Journal of the Straits Branch of the Royal Asiatic Society* in 1906, presenting a Malay folk narrative collected from the storyteller Mat Nordin of Kota Stia. The tale, rendered in both English translation and original Malay, depicts a cunning son-in-law who engineers a humiliating fishing episode to extract bananas from his stingy father-in-law, illustrating a common Malay literary motif of the clever subordinate outwitting his patron.

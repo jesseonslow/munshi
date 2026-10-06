@@ -5,8 +5,7 @@ title: 'The rise and fall of the great Melakan empire: moral judgement in Tun Ba
   Sejarah Melayu'
 canonical_name: 'The rise and fall of the great Melakan empire: moral judgement in
   Tun Bambang’s _Sejarah Melayu._'
-type: article
-article_type: article
+type: publication
 authors:
 - Cheah Boon Kheng
 year: 1998
@@ -20,7 +19,9 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: journal_article
 ---
+
 # The rise and fall of the great Melakan empire: moral judgement in Tun Bambang’s Sejarah Melayu
 
 ## Summary

@@ -5,8 +5,7 @@ title: Notes on Dipterocarps. {No. 3} The seedling of Shorea robusta, Roxb., and
   conditions under which it grows into pure forests
 canonical_name: Notes on Dipterocarps. {No. 3} The seedling _of Shorea robusta,_ Roxb.,
   and the conditions under which it grows into pure forests
-type: article
-article_type: article
+type: publication
 authors:
 - I.H. Burkill
 year: 1918
@@ -23,7 +22,9 @@ published: false
 source_doc: jsbras-079-burkill-notesdipterocarpsno-1918-02453ea4639c
 source_path: ../sources/jsbras-079-burkill-notesdipterocarpsno-1918-02453ea4639c.md
 summarized: true
+publication_type: note
 ---
+
 # Notes on Dipterocarps. {No. 3} The seedling of Shorea robusta, Roxb., and the conditions under which it grows into pure forests
 
 I.H. Burkill, writing in 1918 from his position as a dipterocarp specialist at the Singapore Botanic Gardens, examines the seedling biology and forest ecology of *Shorea robusta* (Sal) in India to explain how this species produces pure forests—a phenomenon largely absent among its Malayan congeners. The article argues that the success of Sal is rooted in a distinctive seedling morphology that aligns it more closely with the genus *Dipterocarpus* than with Malayan *Shorea* species, combined with a physiological adaptation to deep, well-drained soils of the Himalayan foothills.

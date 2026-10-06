@@ -3,8 +3,7 @@ id: towards-a-legal-history-of-southeast-asia
 work_id: jmbras-51-1-p110
 title: Towards a legal history of Southeast Asia
 canonical_name: Towards a legal history of Southeast Asia
-type: article
-article_type: article
+type: publication
 authors:
 - M.B. Hooker
 year: 1978
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-233-hooker-towardslegalhistory-1978-cc204b079991
 source_path: ../sources/jmbras-233-hooker-towardslegalhistory-1978-cc204b079991.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Towards a legal history of Southeast Asia
 
 M.B. Hooker published this methodological framework in 1978, addressing the fundamental problem of how to classify and write the legal history of a region whose laws span from the eighth century to the present and encompass at least seven distinct legal traditions. His overarching thesis is that Southeast Asian legal history cannot be reduced to a simple narrative of institutional development but demands a comparative framework of "historical jurisprudence" that distinguishes between two fundamentally different conceptions of law: the "status" systems of the oriental traditions and the "contract" systems of the European imports.

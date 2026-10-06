@@ -3,8 +3,7 @@ id: consul-farren-and-the-philippines
 work_id: jmbras-38-2-p258
 title: Consul Farren and the Philippines
 canonical_name: Consul Farren and the Philippines
-type: article
-article_type: article
+type: publication
 authors:
 - N. Tarling
 year: 1965
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-208-tarling-consulfarrenphilippines-1965-28cc9f77c65b
 source_path: ../sources/jmbras-208-tarling-consulfarrenphilippines-1965-28cc9f77c65b.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Consul Farren and the Philippines
 
 Nicholas Tarling's 1965 article examines the career of J.W. Farren, Britain's first Consul in the Philippines (appointed 1844), and his role in shaping British diplomatic and commercial policy in the archipelago during a period of intense multi-power competition over the Sulu Sultanate. The article argues that Farren's dispatches, drawn from the Foreign Office archives, reveal both the strategic significance Britain attached to the region as a maritime corridor between Australia and China, and the ultimate failure of British policy to secure a durable foothold in Sulu.

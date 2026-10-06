@@ -3,8 +3,7 @@ id: the-life-of-william-shellabear
 work_id: jmbras-66-2-p37
 title: The life of William Shellabear
 canonical_name: The life of William Shellabear
-type: article
-article_type: article
+type: publication
 authors:
 - R. Hunt
 year: 1993
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-265-hunt-lifewilliamshellabear-1993-655819de6f7b
 source_path: ../sources/jmbras-265-hunt-lifewilliamshellabear-1993-655819de6f7b.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The life of William Shellabear
 
 Robert Hunt's 1993 biographical study of William Girdlestone Shellabear (1862–1948) traces the life of a British Royal Engineers officer who became a Methodist missionary, Malay scholar, Bible translator, and Islamicist across three decades in colonial Malaya. The article's central argument is that Shellabear's singular conviction—that the Malay language and culture were fully adequate to modern life and Christian existence—drove a career that profoundly shaped Malayan publishing, education, and letters. Hunt draws extensively on Shellabear's unpublished autobiography and personal correspondence to reconstruct not only a life story but also the intellectual and institutional conflicts that defined the Methodist Mission's relationship with Malay society.

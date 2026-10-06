@@ -3,8 +3,7 @@ id: chinese-exorcists
 work_id: jmbras-2-1-p41
 title: Chinese exorcists
 canonical_name: Chinese exorcists
-type: article
-article_type: article
+type: publication
 authors:
 - W.G. Stirling
 year: 1924
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: true
 source_doc: jmalayanras-090-stirling-chineseexorcists-1924-1a3463c385cc
 source_path: ../sources/jmalayanras-090-stirling-chineseexorcists-1924-1a3463c385cc.md
+publication_type: journal_article
 ---
+
 # Chinese exorcists
 
 W.G. Stirling's "Chinese Exorcists" (1924) is a first-hand ethnographic account of spirit-mediumship and exorcism rituals practised by China-born Hokkien members of the vegetarian sect in early twentieth-century Malaya, drawing on direct observation at festivals in Malacca, Taiping, Singapore, and Penang. The article documents the full cycle of a procession-based exorcism—from the God's departure from his temple to the medium's possession, the identification and punishment of evil spirits, and the God's triumphant return—while also recording the physical self-mutilation, symbolic iconography, and medical divination that underpin the practice.

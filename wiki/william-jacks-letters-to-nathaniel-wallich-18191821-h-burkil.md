@@ -3,8 +3,7 @@ id: william-jacks-letters-to-nathaniel-wallich-18191821-h-burkil
 work_id: jsbras-73-1-p147
 title: William Jack’s letters to Nathaniel Wallich, 1819–1821. .H. Burkill
 canonical_name: William Jack’s letters to Nathaniel Wallich, 1819–1821. .H. Burkill
-type: article
-article_type: article
+type: publication
 authors:
 - I.H. Burkill
 - W. Jack
@@ -22,7 +21,9 @@ published: false
 source_doc: jsbras-073-gage-williamjacksletters-1916-c228d64e4de3
 source_path: ../sources/jsbras-073-gage-williamjacksletters-1916-c228d64e4de3.md
 summarized: true
+publication_type: document
 ---
+
 # William Jack’s letters to Nathaniel Wallich, 1819–1821. .H. Burkill
 
 William Jack's letters to Nathaniel Wallich, 1819–1821, edited by A. T. Gage and I. H. Burkill and published in the *Journal of the Straits Branch of the Royal Asiatic Society* (Vol. 73, 1916), present the first complete printed edition of correspondence between the young Scottish botanist and the Superintendent of the Calcutta Botanic Gardens, covering Jack's three years of fieldwork at Penang, Singapore, and Bencoolen under Sir Stamford Raffles. The letters, copied from the Records of the Royal Botanic Gardens, Calcutta under Gage's supervision, reveal the day-to-day scientific and political life of the Raffles expedition and constitute a primary source for the natural history of western Sumatra and the Straits of Malacca in the earliest period of British settlement.

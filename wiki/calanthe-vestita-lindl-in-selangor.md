@@ -3,8 +3,7 @@ id: calanthe-vestita-lindl-in-selangor
 work_id: jsbras-30-1-p311
 title: Calanthe vestita Lindl. in Selangor
 canonical_name: _Calanthe vestita_ Lindl. in Selangor
-type: article
-article_type: article
+type: publication
 authors:
 - H.N. Ridley
 year: 1897
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-030-r-calanthevestitalindl-1897-085359bd3f0c
 source_path: ../sources/jsbras-030-r-calanthevestitalindl-1897-085359bd3f0c.md
 summarized: true
+publication_type: note
 ---
+
 # Calanthe vestita Lindl. in Selangor
 
 This short note by H. N. Ridley records the discovery of *Calanthe vestita* Lindl. on the limestone rocks at the Kuala Lumpur caves (Gua Batu), Selangor, in December 1896.

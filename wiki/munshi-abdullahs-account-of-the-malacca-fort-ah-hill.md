@@ -3,8 +3,7 @@ id: munshi-abdullahs-account-of-the-malacca-fort-ah-hill
 work_id: jmbras-23-1-p84
 title: Munshi Abdullah’s account of the Malacca Fort. A.H. Hill
 canonical_name: Munshi Abdullah’s account of the Malacca Fort. A.H. Hill
-type: article
-article_type: article
+type: publication
 authors:
 - Abdullah bin Abdul Kadir
 - A.H. Hill
@@ -22,7 +21,9 @@ published: false
 source_doc: jmalayanras-151-hill-munshiabdullahsaccount-1950-c22cebec6b59
 source_path: ../sources/jmalayanras-151-hill-munshiabdullahsaccount-1950-c22cebec6b59.md
 summarized: true
+publication_type: translation
 ---
+
 # Munshi Abdullah’s account of the Malacca Fort. A.H. Hill
 
 A.H. Hill published this article in 1950, presenting a translation and critical commentary on Munshi Abdullah bin Abdul Kadir's eyewitness description of the Malacca Fort as it stood during its demolition in 1807. Hill's central argument is that Abdullah's account—written between 1843 and 1846, more than thirty years after the events—retains sufficient accuracy to be cross-referenced with Governor Bort's 1678 handing-over report, thereby illuminating the fort's plan, bastion layout, and internal structures for a period over which official records are otherwise silent.

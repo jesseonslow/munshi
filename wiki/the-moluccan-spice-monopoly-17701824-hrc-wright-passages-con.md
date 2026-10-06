@@ -5,8 +5,7 @@ title: The Moluccan spice monopoly, 1770–1824. H.R.C. Wright. Passages concern
   Bencoolen written in collaboration with J. Bastin
 canonical_name: The Moluccan spice monopoly, 1770–1824. H.R.C. Wright. Passages concerning
   Bencoolen written in collaboration with J. Bastin
-type: article
-article_type: article
+type: publication
 authors:
 - J.S. Bastin
 year: 1961
@@ -22,6 +21,7 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+publication_type: translation
 ---
 
 # The Moluccan spice monopoly, 1770–1824. H.R.C. Wright. Passages concerning Bencoolen written in collaboration with J. Bastin

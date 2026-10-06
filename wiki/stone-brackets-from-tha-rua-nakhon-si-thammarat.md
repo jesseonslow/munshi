@@ -3,8 +3,7 @@ id: stone-brackets-from-tha-rua-nakhon-si-thammarat
 work_id: jmbras-47-2-p148
 title: Stone brackets from Tha Rua, Nakhon Si Thammarat
 canonical_name: Stone brackets from Tha Rua, Nakhon Si Thammarat
-type: article
-article_type: article
+type: publication
 authors:
 - H.G.Q. Wales
 year: 1974
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-226-wales-stonebracketstha-1974-c7eaed3fadb7
 source_path: ../sources/jmbras-226-wales-stonebracketstha-1974-c7eaed3fadb7.md
 summarized: true
+publication_type: note
 ---
+
 # Stone brackets from Tha Rua, Nakhon Si Thammarat
 
 H.G. Quaritch Wales identifies three carved stone brackets found at Tha Rua, the old port of Nakhon Si Thammarat, as lotus-form pillar brackets of late Pandyan architectural style, dating to approximately 1300 A.D. (p. 148).

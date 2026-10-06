@@ -3,8 +3,7 @@ id: dutch-occupation-of-the-dindings-etc
 work_id: jsbras-11-1-p169
 title: Dutch occupation of the Dindings, etc
 canonical_name: Dutch occupation of the Dindings, etc
-type: article
-article_type: article
+type: publication
 authors:
 - W.E. Maxwell
 year: 1883
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-011-maxwell-dutchoccupationdindings-1883-bbf957ddc74c
 source_path: ../sources/jsbras-011-maxwell-dutchoccupationdindings-1883-bbf957ddc74c.md
 summarized: true
+publication_type: note
 ---
+
 # Dutch occupation of the Dindings, etc
 
 This brief note by W.E. Maxwell reports on newly discovered documents in the Malacca records that illuminate the Dutch occupation of Pulau Dinding (Pulau Pangkor) and the re-establishment of their post on the Perak river.

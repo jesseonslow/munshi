@@ -3,8 +3,7 @@ id: maxwells-malay-manual-nq-1
 work_id: jsbras-14-maxwells-malay-manual-nq-1
 title: 'Maxwell’s Malay Manual. NQ 1:'
 canonical_name: 'Maxwell’s _Malay Manual._ NQ 1:'
-type: article
-article_type: notes_and_queries
+type: publication
 authors:
 - Anon (and unidentifiable initials)
 year: 1884
@@ -18,6 +17,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: note
 ---
 
 # Maxwell’s Malay Manual. NQ 1:

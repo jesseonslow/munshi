@@ -3,8 +3,7 @@ id: tom-harrisson-and-the-ancient-iron-industry-of-the-sarawak-r
 work_id: jmbras-50-1-p4
 title: Tom Harrisson and the ancient iron industry of the Sarawak River delta
 canonical_name: Tom Harrisson and the ancient iron industry of the Sarawak River delta
-type: article
-article_type: article
+type: publication
 authors:
 - S.J. O'Connor
 year: 1977
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-231-oconnor-tomharrissonancient-1977-4a0f1e2c1d1a
 source_path: ../sources/jmbras-231-oconnor-tomharrissonancient-1977-4a0f1e2c1d1a.md
 summarized: true
+publication_type: obituary
 ---
+
 # Tom Harrisson and the ancient iron industry of the Sarawak River delta
 
 Stanley J. O'Connor's 1977 memorial tribute to Tom Harrisson reflects on the significance of Harrisson's archaeological investigations into the ancient iron-smelting industry of the Sarawak River delta, centred on the Santubong coastal area of western Borneo. Writing after Harrisson's death, O'Connor uses the occasion to highlight unresolved interpretive questions arising from the Santubong sites—particularly the relationship between industrial and ritual activity, the enigmatic presence of broken Chinese ceramics in slag deposits, and the identification of clay cylinders as tuyeres or crucibles. The article positions Harrisson's work as foundational to Bornean archaeology, a discipline that had almost no systematic excavation before his interventions.

@@ -3,8 +3,7 @@ id: nation-and-consecration-conversions-of-death-into-sacrifice-
 work_id: jmbras-89-1-p84
 title: 'Nation and consecration: conversions of death into sacrifice in Singapore'
 canonical_name: 'Nation and consecration: conversions of death into sacrifice in Singapore'
-type: article
-article_type: article
+type: publication
 authors:
 - J. Kelly
 year: 2016
@@ -60,7 +59,9 @@ keywords:
 - past to present
 - and above all to attempt to determine the future on the basis of some structure
   of past and present. While Anderson ended with Walter Benjamin
+publication_type: journal_article
 ---
+
 # Nation and consecration: conversions of death into sacrifice in Singapore
 
 ## Abstract

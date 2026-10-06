@@ -3,8 +3,7 @@ id: the-portuguese-church-of-st-paul
 work_id: jmbras-12-2-p38
 title: The Portuguese Church of St. Paul
 canonical_name: The Portuguese Church of St. Paul
-type: article
-article_type: article
+type: publication
 authors:
 - R. Cardon
 year: 1934
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-119-cardon-portuguesechurchst-1934-0ec0fb0b6059
 source_path: ../sources/jmalayanras-119-cardon-portuguesechurchst-1934-0ec0fb0b6059.md
 summarized: true
+publication_type: note
 ---
+
 # The Portuguese Church of St. Paul
 
 This is a point-by-point rebuttal by Father R. Cardon of architectural and historical claims made by Mr. Macdonald regarding the Portuguese Church of St. Paul in Malacca.

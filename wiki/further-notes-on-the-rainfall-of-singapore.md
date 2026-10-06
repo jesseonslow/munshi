@@ -3,8 +3,7 @@ id: further-notes-on-the-rainfall-of-singapore
 work_id: jsbras-15-1-p61
 title: Further notes on the rainfall of Singapore
 canonical_name: Further notes on the rainfall of Singapore
-type: article
-article_type: article
+type: publication
 authors:
 - J.J.L. Wheatley
 year: 1885
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: false
 source_doc: jsbras-015-wheatley-notesrainfallsingapore-1885-cac756ed59bd
 source_path: ../sources/jsbras-015-wheatley-notesrainfallsingapore-1885-cac756ed59bd.md
+publication_type: note
 ---
+
 # Further notes on the rainfall of Singapore
 
 J.J.L. Wheatley published this follow-up study on Singapore's rainfall in 1885, presenting a consolidated dataset from seven observation stations covering 1869 to 1884 and examining the relationship between rainfall patterns and public health outcomes, particularly cholera and beri-beri epidemics. The article serves as both a meteorological record and an early argument for systematic scientific observation in the Straits Settlements.

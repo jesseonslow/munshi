@@ -5,8 +5,7 @@ title: 'Tan Sri Dato’ Dr Mubin Sheppard: pioneer in the conservation of histor
   buildings in Malaysia, 1959-1994'
 canonical_name: 'Tan Sri Dato’ Dr Mubin Sheppard: pioneer in the conservation of historical
   buildings in Malaysia, 1959-1994'
-type: article
-article_type: article
+type: publication
 authors:
 - Zuraini Md Ali
 year: 2010
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-299-ali-tansridato-2010-b8e608c66fae
 source_path: ../sources/jmbras-299-ali-tansridato-2010-b8e608c66fae/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Tan Sri Dato’ Dr Mubin Sheppard: pioneer in the conservation of historical buildings in Malaysia, 1959-1994
 
 Zuraini Md Ali's 2010 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* (Vol. 83, Part 2) reconstructs the career of Tan Sri Dato' Dr Mubin Sheppard (1905–1994) as the central figure in Malaysia's architectural conservation movement from 1950 to 1994. Set against the backdrop of post-war Malaya, the Emergency, independence, and the rapid urbanisation of the 1970s–80s, the article argues that conservation efforts in Malaysia significantly predate the commonly cited mid-1970s watershed and were driven primarily by one individual's sustained, multi-decade commitment.

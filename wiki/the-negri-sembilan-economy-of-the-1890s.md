@@ -3,8 +3,7 @@ id: the-negri-sembilan-economy-of-the-1890s
 work_id: jmbras-24-1-p38
 title: The Negri Sembilan economy of the 1890s
 canonical_name: The Negri Sembilan economy of the 1890s
-type: article
-article_type: article
+type: publication
 authors:
 - J.M. Gullick
 year: 1951
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-154-gullick-negrisembilaneconomy-1951-d8e17d71413e
 source_path: ../sources/jmalayanras-154-gullick-negrisembilaneconomy-1951-d8e17d71413e.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The Negri Sembilan economy of the 1890s
 
 J.M. Gullick, writing in 1951, reconstructs the Malay peasant economy of Negri Sembilan in the 1890s—the decade immediately before the rubber and tin booms transformed the State's economic base. His central argument is that the Malay community was already embedded in a cash economy through the sale of fruit, vegetables, and livestock to Chinese tin miners, and that the rubber boom of the early twentieth century expanded rather than created this monetary engagement.

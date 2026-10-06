@@ -5,8 +5,7 @@ title: Gordonia concentricicatrix, Burkill (kelat samak, samak pulut, kelat mera
   – Malay
 canonical_name: _Gordonia concentricicatrix,_ Burkill _(kelat samak, samak pulut,
   kelat merah –_ Malay)
-type: article
-article_type: article
+type: publication
 authors:
 - G.E.S. Cubitt
 year: 1918
@@ -23,7 +22,9 @@ published: false
 source_doc: jsbras-078-cubitt-gordoniaconcentricicatrixburkill-1918-cd50e450e8de
 source_path: ../sources/jsbras-078-cubitt-gordoniaconcentricicatrixburkill-1918-cd50e450e8de.md
 summarized: true
+publication_type: note
 ---
+
 # Gordonia concentricicatrix, Burkill (kelat samak, samak pulut, kelat merah – Malay
 
 This short note by G. E. S. Cubitt, accompanied by a photographic plate, provides a brief description and distributional account of *Gordonia concentricatrix* Burkill, a large evergreen tree known in Malay as kelat samak, samak pulut, and kelat merah.

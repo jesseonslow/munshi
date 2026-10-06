@@ -7,8 +7,7 @@ title: Remarks on the Rhinoceros hornbill (Buceros rhinoceros), and some other s
 canonical_name: Remarks on the Rhinoceros hornbill _(Buceros rhinoceros),_ and some
   other species mentioned in Mr. Ridley’s paper on the birds of the botanical gardens.
   {With a note H.N. Ridley}
-type: article
-article_type: article
+type: publication
 authors:
 - A.L. Butler
 - H.N. Ridley
@@ -26,7 +25,9 @@ published: false
 source_doc: jsbras-032-butler-remarksrhinoceroshornbill-1899-e12450f64544
 source_path: ../sources/jsbras-032-butler-remarksrhinoceroshornbill-1899-e12450f64544.md
 summarized: true
+publication_type: note
 ---
+
 # Remarks on the Rhinoceros hornbill (Buceros rhinoceros), and some other species mentioned in Mr. Ridley’s paper on the birds of the botanical gardens. {With a note H.N. Ridley
 
 A brief exchange between A. L. Butler and H. N. Ridley correcting and supplementing several points in Ridley's paper on the birds of the Botanical Gardens, published in JSBRAS Vol. 32 (1899).

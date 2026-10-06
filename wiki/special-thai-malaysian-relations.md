@@ -3,8 +3,7 @@ id: special-thai-malaysian-relations
 work_id: jmbras-75-1-p1
 title: Special Thai-Malaysian relations
 canonical_name: Special Thai-Malaysian relations
-type: article
-article_type: article
+type: publication
 authors:
 - Kobkua Suwannathat-Pian
 year: 2002
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: true
 source_doc: jmbras-282-suwannathatpian-specialthaimalaysianrelations-2002-9ed140448abd
 source_path: ../sources/references.md
+publication_type: journal_article
 ---
+
 # Special Thai-Malaysian relations
 
 Kobkua Suwannathat-Pian's 2002 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* argues that Thai-Malaysian relations constitute a uniquely "special" bilateral relationship in Southeast Asia, sustained across more than six centuries by geopolitical necessity, intertwined socio-cultural development, political tradition, and personal human ties that transcend the formal diplomatic and colonial ruptures of the modern era (p. 1).

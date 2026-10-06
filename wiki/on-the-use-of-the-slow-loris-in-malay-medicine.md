@@ -3,8 +3,7 @@ id: on-the-use-of-the-slow-loris-in-malay-medicine
 work_id: jsbras-34-1-p31
 title: On the use of the slow loris in Malay medicine
 canonical_name: On the use of the slow loris in Malay medicine
-type: article
-article_type: article
+type: publication
 authors:
 - H.N. Ridley
 year: 1900
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-034-ridley-useslowloris-1900-a05526caa78b
 source_path: ../sources/jsbras-034-ridley-useslowloris-1900-a05526caa78b.md
 summarized: true
+publication_type: note
 ---
+
 # On the use of the slow loris in Malay medicine
 
 This note by H. N. Ridley documents the medical and magical uses of the slow loris (*Nycticebus tardigradus*) in Malay tradition, based on a Malay manuscript copied by the author.

@@ -3,8 +3,7 @@ id: historical-notes-mainly-about-klang
 work_id: jmbras-24-3-p81
 title: Historical notes, mainly about Klang
 canonical_name: Historical notes, mainly about Klang
-type: article
-article_type: article
+type: publication
 authors:
 - W. Linehan
 year: 1951
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-156-linehan-historicalnotesmainly-1951-e1b2bccffcbf
 source_path: ../sources/jmalayanras-156-linehan-historicalnotesmainly-1951-e1b2bccffcbf.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Historical notes, mainly about Klang
 
 W. Linehan's 1951 article traces the historical identity and etymology of Klang from its bronze-age origins through the 19th century, arguing that the name derives from a Mon-Khmer word meaning "store-house" or "citadel" rather than from the Malay word for tin. Published in the *Journal of the Malayan Branch of the Royal Asiatic Society*, the piece synthesises Chinese, Javanese, Portuguese, and Malay sources to reconstruct the political and linguistic history of the Klang region.

@@ -3,8 +3,7 @@ id: the-kings-of-14th-century-singapore
 work_id: jmbras-20-2-p117
 title: The kings of 14th century Singapore
 canonical_name: The kings of 14th century Singapore
-type: article
-article_type: article
+type: publication
 authors:
 - W. Linehan
 year: 1947
@@ -27,7 +26,9 @@ published: false
 source_doc: jmalayanras-143-linehan-kings14thcentury-1947-d84173e503cc
 source_path: ../sources/jmalayanras-143-linehan-kings14thcentury-1947-d84173e503cc.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The kings of 14th century Singapore
 
 W. Linehan's 1947 article reconstructs the chronology of the five rulers of 14th-century Singapore by working backward from the Ming-dynasty date of 1413 for the death of the first Malacca king, and argues that while the Malay Annals' sequence of reigns is broadly reliable, the text deliberately suppresses the fact that the last Singapore ruler was a usurper of Javanese origin rather than a legitimate heir of the Singapore royal line.

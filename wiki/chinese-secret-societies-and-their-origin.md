@@ -3,8 +3,7 @@ id: chinese-secret-societies-and-their-origin
 work_id: jsbras-1-1-p63
 title: Chinese secret societies and their origin
 canonical_name: Chinese secret societies and their origin
-type: article
-article_type: article
+type: publication
 authors:
 - W.A. Pickering
 year: 1878
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-001-pickering-chinesesecretsocieties-1878-030d43baa0f3
 source_path: ../sources/jsbras-001-pickering-chinesesecretsocieties-1878-030d43baa0f3.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Chinese secret societies and their origin
 
 This 1878 article by W.A. Pickering, published in the inaugural volume of the *Journal of the Straits Branch of the Royal Asiatic Society*, examines the origins and nature of Chinese secret societies (pp. 63–84).

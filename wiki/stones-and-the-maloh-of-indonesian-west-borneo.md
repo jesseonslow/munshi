@@ -3,8 +3,7 @@ id: stones-and-the-maloh-of-indonesian-west-borneo
 work_id: jmbras-48-1-p104
 title: Stones and the Maloh of Indonesian West Borneo
 canonical_name: Stones and the Maloh of Indonesian West Borneo
-type: article
-article_type: article
+type: publication
 authors:
 - V.T. King
 year: 1975
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: true
 source_doc: jmbras-227-king-stonesmalohindonesian-1975-125b213eaf63
 source_path: ../sources/jmbras-227-king-stonesmalohindonesian-1975-125b213eaf63.md
+publication_type: journal_article
 ---
+
 # Stones and the Maloh of Indonesian West Borneo
 
 Victor T. King's 1975 article examines the ritual and symbolic uses of stone among the Maloh, an interior Dayak people of the upper Kapuas river in Indonesian West Borneo, shifting analytical attention away from large-scale megalithic construction toward what Tom Harrisson termed the "marginal relics" of megalithic cultures. Drawing on fourteen months of fieldwork in Sarawak and West Kalimantan, King argues that stone functions in Maloh cosmology as a dual substance: simultaneously a receptacle for active spiritual forces deployed in curing, warfare, and agriculture, and a life-negating medium through which petrifaction narratives explain landscape features and sanction moral transgression (pp. 104–105, 119).

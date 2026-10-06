@@ -3,8 +3,7 @@ id: malay-festivals-and-some-aspects-of-malay-religious-life
 work_id: jmbras-22-1-p94
 title: Malay festivals, and some aspects of Malay religious life
 canonical_name: Malay festivals, and some aspects of Malay religious life
-type: article
-article_type: article
+type: publication
 authors:
 - Zainal Abidin bin Ahmad
 year: 1949
@@ -18,6 +17,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: journal_article
 ---
 
 # Malay festivals, and some aspects of Malay religious life

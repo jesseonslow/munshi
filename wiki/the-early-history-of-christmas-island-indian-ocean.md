@@ -3,8 +3,7 @@ id: the-early-history-of-christmas-island-indian-ocean
 work_id: jmbras-22-1-p67
 title: The early history of Christmas Island (Indian Ocean
 canonical_name: The early history of Christmas Island (Indian Ocean)
-type: article
-article_type: article
+type: publication
 authors:
 - C.A. Gibson-Hill
 year: 1949
@@ -18,6 +17,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: journal_article
 ---
 
 # The early history of Christmas Island (Indian Ocean

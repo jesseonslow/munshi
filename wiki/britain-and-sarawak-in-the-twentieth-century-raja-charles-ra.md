@@ -5,8 +5,7 @@ title: 'Britain and Sarawak in the twentieth century: Raja Charles, Raja Vyner a
   the Colonial Office'
 canonical_name: 'Britain and Sarawak in the twentieth century: Raja Charles, Raja
   Vyner and the Colonial Office'
-type: article
-article_type: article
+type: publication
 authors:
 - N. Tarling
 year: 1970
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-218-tarling-britainsarawaktwentieth-1970-1acc6acf2107
 source_path: ../sources/jmbras-218-tarling-britainsarawaktwentieth-1970-1acc6acf2107.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Britain and Sarawak in the twentieth century: Raja Charles, Raja Vyner and the Colonial Office
 
 Nicholas Tarling's 1970 article examines the relationship between the British Government—principally the Colonial Office—and the Brooke raj of Sarawak from the 1870s through the 1920s, spanning the reigns of Charles Brooke (d. 1917) and his son Vyner. Tarling's central argument is that the raj was structurally "stronger than it seemed": the Brooke family's entrenchment in British public opinion and society, combined with the limited powers conferred by the 1888 protectorate treaty, made it politically impossible for the Colonial Office to increase its control over Sarawak by any means short of the Raja's own voluntary concession, which never came.

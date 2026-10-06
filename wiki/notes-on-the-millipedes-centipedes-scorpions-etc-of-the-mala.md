@@ -5,8 +5,7 @@ title: Notes on the millipedes, centipedes, scorpions etc., of the Malay Peninsu
   and Siam
 canonical_name: Notes on the millipedes, centipedes, scorpions etc., of the Malay
   Peninsula and Siam
-type: article
-article_type: article
+type: publication
 authors:
 - S.S. Flower
 year: 1901
@@ -24,7 +23,9 @@ summarized: true
 source_mismatch: false
 source_doc: jsbras-036-flower-notesmillipedescentipedes-1901-ef19c8363578
 source_path: ../sources/jsbras-036-flower-notesmillipedescentipedes-1901-ef19c8363578.md
+publication_type: note
 ---
+
 # Notes on the millipedes, centipedes, scorpions etc., of the Malay Peninsula and Siam
 
 Captain Stanley S. Flower (5th Fusiliers) published this 48-page faunal survey in 1901, drawing on four years of fieldwork (1895–1898) across the Straits Settlements, the Native States, and Siam to produce a practical taxonomic account of the region's millipedes, centipedes, scorpions, whip scorpions, spiders, and related arachnids. The work was explicitly designed for European residents who, arriving from England where such creatures were rare and harmless, needed to identify the "wonderful variety" of these animals they encountered in their daily lives (p. 1).

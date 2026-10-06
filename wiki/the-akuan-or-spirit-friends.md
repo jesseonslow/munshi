@@ -3,8 +3,7 @@ id: the-akuan-or-spirit-friends
 work_id: jsbras-86-1-p378
 title: The akuan or spirit-friends
 canonical_name: The _akuan_ or spirit-friends
-type: article
-article_type: article
+type: publication
 authors:
 - Zainal Abidin bin Ahmad
 year: 1922
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-086-ahmad-akuanspiritfriends-1922-b27be7758b4a
 source_path: ../sources/jsbras-086-ahmad-akuanspiritfriends-1922-b27be7758b4a.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The akuan or spirit-friends
 
 Zainal Abidin bin Ahmad's 1922 article in the Journal of the Straits Branch of the Royal Asiatic Society documents the belief in *akuan*—spirit-friends held by certain individuals in Negri Sembilan, particularly among descendants of the old Menangkabau tribes. Drawing on fieldwork across multiple villages in the "Nine States," Ahmad describes two distinct types of spirit-friend (an airy, conjurable entity and a permanent animal form, usually a tiger), the elaborate ritual of their invocation, and the practical services they are believed to render their owners.

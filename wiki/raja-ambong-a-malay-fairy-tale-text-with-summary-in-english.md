@@ -3,8 +3,7 @@ id: raja-ambong-a-malay-fairy-tale-text-with-summary-in-english
 work_id: jsbras-19-1-p55
 title: 'Raja Ambong: a Malay fairy tale. {Text with summary in English'
 canonical_name: 'Raja Ambong: a Malay fairy tale. {Text with summary in English}'
-type: article
-article_type: article
+type: publication
 authors:
 - W.E. Maxwell
 year: 1887
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-019-maxwell-rajaambongmalay-1887-54b98f84b372
 source_path: ../sources/jsbras-019-maxwell-rajaambongmalay-1887-54b98f84b372.md
 summarized: true
+publication_type: translation
 ---
+
 # Raja Ambong: a Malay fairy tale. {Text with summary in English
 
 W. E. Maxwell published "Raja Ambong: a Malay fairy tale" in the *Journal of the Straits Branch of the Royal Asiatic Society* in 1887, presenting a Jawi-script text with an English summary of a *cheritra* (romance) attributed to the Malay literary figure Mir Hassan. The tale, recorded in Bandar Menggafura (Manggarai, Flores) in July 1886, narrates the adventures of Raja Ambong of Tanjong Bima and his sister Princess Bonsu Chandra Rupa, tracing a magical sea-voyage that encompasses encounters with jinn, dragon kings, and multiple kingdoms across the Indian Ocean.

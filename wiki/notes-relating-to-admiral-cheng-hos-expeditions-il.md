@@ -3,8 +3,7 @@ id: notes-relating-to-admiral-cheng-hos-expeditions-il
 work_id: jmbras-49-1-p134
 title: Notes relating to Admiral Cheng Ho’s expeditions. Il
 canonical_name: Notes relating to Admiral Cheng Ho’s expeditions. Il
-type: article
-article_type: article
+type: publication
 authors:
 - Hsu Yun-ts'iao
 year: 1976
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-229-yuntsiao-notesrelatingadmiral-1976-b3926986da84
 source_path: ../sources/jmbras-229-yuntsiao-notesrelatingadmiral-1976-b3926986da84.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Notes relating to Admiral Cheng Ho’s expeditions. Il
 
 Hsu Yun-ts'iao's 1976 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* addresses seven persistent questions surrounding Admiral Cheng Ho's early fifteenth-century maritime expeditions, drawing on Ming dynasty official histories, stone inscriptions, and a previously unpublished handwritten manuscript to challenge popular assumptions about the fleet's composition, routes, and the nature of the navigator himself.

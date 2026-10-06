@@ -4,8 +4,7 @@ work_id: jmbras-94-2-p185
 title: 'William Scott in Penang: Missing Material, Maritime Matters, and More'
 canonical_name: 'William Scott in Penang: Missing Material, Maritime Matters, and
   More'
-type: article
-article_type: article
+type: publication
 authors:
 - F. Andrew Smith
 year: 2021
@@ -19,6 +18,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: journal_article
 ---
 
 # William Scott in Penang: Missing Material, Maritime Matters, and More

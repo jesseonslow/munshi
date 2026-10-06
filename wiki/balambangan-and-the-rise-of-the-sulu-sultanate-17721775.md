@@ -3,8 +3,7 @@ id: balambangan-and-the-rise-of-the-sulu-sultanate-17721775
 work_id: jmbras-50-1-p73
 title: Balambangan and the rise of the Sulu Sultanate, 1772–1775
 canonical_name: Balambangan and the rise of the Sulu Sultanate, 1772–1775
-type: article
-article_type: article
+type: publication
 authors:
 - J.F. Warren
 year: 1977
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-231-warren-balambanganrisesulu-1977-653d1cea60b8
 source_path: ../sources/jmbras-231-warren-balambanganrisesulu-1977-653d1cea60b8.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Balambangan and the rise of the Sulu Sultanate, 1772–1775
 
 J.F. Warren (1977) examines the short-lived British trading settlement at Balambangan (1772–1775) and its decisive role in the consolidation of Sulu Sultanate hegemony over the Sulu Zone. The article argues that the settlement's trade in opium and munitions, and its subsequent destruction by Taosug forces, constituted a critical turning point in the Sulu Sultanate's emergence as the region's dominant redistributive centre.

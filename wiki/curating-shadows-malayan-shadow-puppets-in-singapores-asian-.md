@@ -5,8 +5,7 @@ title: 'Curating Shadows: Malayan Shadow Puppets in Singapore''s Asian Civilisat
   Museum'
 canonical_name: 'Curating Shadows: Malayan Shadow Puppets in Singapore''s Asian Civilisations
   Museum'
-type: article
-article_type: article
+type: publication
 authors:
 - I.C. Johnson
 - D. Lim
@@ -31,7 +30,9 @@ keywords:
 - Kelantan
 - Asian Civilisations Museum
 - Raffles Library and Museum
+publication_type: journal_article
 ---
+
 # Curating Shadows: Malayan Shadow Puppets in Singapore's Asian Civilisations Museum
 
 ## Abstract

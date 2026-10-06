@@ -3,8 +3,7 @@ id: kelantan-names-for-bullocks-according-to-their-colour
 work_id: jmbras-9-1-p143
 title: Kelantan names for bullocks according to their colour
 canonical_name: Kelantan names for bullocks according to their colour
-type: article
-article_type: article
+type: publication
 authors:
 - A. Rentse
 year: 1931
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-111-rentse-kelantannamesbullocks-1931-1ec1eedb8bbd
 source_path: ../sources/jmalayanras-111-rentse-kelantannamesbullocks-1931-1ec1eedb8bbd.md
 summarized: true
+publication_type: note
 ---
+
 # Kelantan names for bullocks according to their colour
 
 A short note by Anker Rentse listing thirty-four Kelantanese Malay names for bullocks classified by their coat colour, published in JMBRAS Vol. 9 (1931), pp. 143–145.

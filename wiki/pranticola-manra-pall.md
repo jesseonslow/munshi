@@ -3,8 +3,7 @@ id: pranticola-manra-pall
 work_id: jsbras-44-1-p225
 title: Pranticola manra (Pall.
 canonical_name: _Pranticola manra_ (Pall.)
-type: article
-article_type: article
+type: publication
 authors:
 - C.B. Kloss
 year: 1905
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-044-kloss-occasionalnotes-1905-716c4ddf8809
 source_path: ../sources/jsbras-044-kloss-occasionalnotes-1905-716c4ddf8809.md
 summarized: true
+publication_type: note
 ---
+
 # Pranticola manra (Pall.
 
 This is a brief taxonomic note on *Praticola manra* (Pall.), the hairy-tailed rat, contributed by H.C. Robinson of the Selangor State Museum within C.B. Kloss's "Occasional Notes" section (p. 225).

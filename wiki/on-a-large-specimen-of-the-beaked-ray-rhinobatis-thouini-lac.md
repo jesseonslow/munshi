@@ -5,8 +5,7 @@ title: On a large specimen of the beaked ray Rhinobatis thouini (Lacep.). Record
   of the Raffles Museum, No. 24
 canonical_name: On a large specimen of the beaked ray _Rhinobatis thouini_ (Lacep.).
   Records of the Raffles Museum, No. 24
-type: article
-article_type: article
+type: publication
 authors:
 - N. Smedley
 year: 1926
@@ -23,7 +22,9 @@ published: false
 source_doc: jmalayanras-097-smedley-largespecimenbeaked-1926-d70c9f486909
 source_path: ../sources/jmalayanras-097-smedley-largespecimenbeaked-1926-d70c9f486909.md
 summarized: true
+publication_type: note
 ---
+
 # On a large specimen of the beaked ray Rhinobatis thouini (Lacep.). Records of the Raffles Museum, No. 24
 
 This short note by N. Smedley describes a large specimen of the beaked ray *Rhinobatis thouini* (Lacep.) held in the Raffles Museum, Singapore.

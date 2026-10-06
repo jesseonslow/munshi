@@ -5,8 +5,7 @@ title: Notes on a portion of the late Mr. Shelford’s list of Bornean butterfli
   Part 1, published in the Society’s journal No. 41
 canonical_name: Notes on a portion of the late Mr. Shelford’s list of Bornean butterflies,
   Part 1, published in the Society’s journal No. 41
-type: article
-article_type: article
+type: publication
 authors:
 - J.C. Moulton
 year: 1913
@@ -23,7 +22,9 @@ published: false
 source_doc: jsbras-065-moulton-notesportionlate-1913-6d75028b7f8d
 source_path: ../sources/jsbras-065-moulton-notesportionlate-1913-6d75028b7f8d.md
 summarized: true
+publication_type: note
 ---
+
 # Notes on a portion of the late Mr. Shelford’s list of Bornean butterflies, Part 1, published in the Society’s journal No. 41
 
 This note by J. C. Moulton, Curator of the Sarawak Museum, provides taxonomic revisions to a portion of R. Shelford's 1904–1905 list of Bornean butterflies, specifically addressing the subfamily Amathusiinae and a single Discophorinae entry (p. 13).

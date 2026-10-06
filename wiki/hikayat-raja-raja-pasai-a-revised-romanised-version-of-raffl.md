@@ -5,8 +5,7 @@ title: Hikayat Raja-Raja Pasai, a revised romanised version of Raffles MS 67, to
   with an English translation
 canonical_name: _Hikayat Raja-Raja Pasai,_ a revised romanised version of Raffles
   MS 67, together with an English translation
-type: article
-article_type: article
+type: publication
 authors:
 - A.H. Hill
 year: 1960
@@ -24,7 +23,9 @@ summarized: true
 source_mismatch: true
 source_doc: jmalayanras-190-hill-hikayatrajarajapasai-1960-10a63ea86d5c
 source_path: ../sources/bibliography.md
+publication_type: translation
 ---
+
 # Hikayat Raja-Raja Pasai, a revised romanised version of Raffles MS 67, together with an English translation
 
 A.H. Hill's 1960 edition of the *Hikayat Raja-Raja Pasai* provides the first revised romanised text and complete English translation of the sole surviving manuscript (Raffles MS 67, copied in 1814 from a Demak original), accompanied by a detailed introduction that re-examines the chronicle's authorship, dating, and historical value. Hill argues that the text, composed in at least three distinct phases between approximately 1330 and 1390, represents the earliest extant literature in "Malacca" Malay and preserves a hard core of historical fact within a semi-historical romance framework.

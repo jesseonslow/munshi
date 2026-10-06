@@ -3,8 +3,7 @@ id: the-well-prepared-death-of-lee-kuan-yew
 work_id: jmbras-89-1-p107
 title: The well-prepared death of Lee Kuan Yew
 canonical_name: The well-prepared death of Lee Kuan Yew
-type: article
-article_type: article
+type: publication
 authors:
 - Li Nanlan
 year: 2016
@@ -64,7 +63,9 @@ keywords:
   is interrupted’
 - ‘streets are decorated in exceptional ways’
 - ‘costumes of parade participants are specially designed and music is publicly played’.
+publication_type: journal_article
 ---
+
 # The well-prepared death of Lee Kuan Yew
 
 ## Abstract

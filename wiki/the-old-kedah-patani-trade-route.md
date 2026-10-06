@@ -3,8 +3,7 @@ id: the-old-kedah-patani-trade-route
 work_id: jsbras-86-1-p389
 title: The old Kedah-Patani trade-route
 canonical_name: The old Kedah-Patani trade-route
-type: article
-article_type: article
+type: publication
 authors:
 - Hamilton A.W
 year: 1922
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-086-hamilton-oldkedahpatanitraderoute-1922-685e324f0412
 source_path: ../sources/jsbras-086-hamilton-oldkedahpatanitraderoute-1922-685e324f0412.md
 summarized: true
+publication_type: note
 ---
+
 # The old Kedah-Patani trade-route
 
 A descriptive account by A. W. Hamilton tracing the old overland trade route from Kuala Nerang in Kedah to Patani in Siam, published in the Journal of the Straits Branch of the Royal Asiatic Society in 1922.

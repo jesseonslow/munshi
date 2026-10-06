@@ -7,8 +7,7 @@ title: ‘Raffles reviewed – Sir Stamford Raffles 175 years later’. An exhib
 canonical_name: ‘Raffles reviewed – Sir Stamford Raffles 175 years later’. An exhibition
   organized by the National Museum of Singapore commemorating Raffles’ landing at
   Singapore on the evening of the 28th January 1819
-type: article
-article_type: article
+type: publication
 authors:
 - E. Solomon
 year: 1994
@@ -25,7 +24,9 @@ published: false
 source_doc: jmbras-266-solomon-rafflesreviewedsir-1994-7c3b15d5f747
 source_path: ../sources/jmbras-266-solomon-rafflesreviewedsir-1994-7c3b15d5f747/frontmatter.md
 summarized: true
+publication_type: review
 ---
+
 # ‘Raffles reviewed – Sir Stamford Raffles 175 years later’. An exhibition organized by the National Museum of Singapore commemorating Raffles’ landing at Singapore on the evening of the 28th January 1819
 
 Eli Solomon's 1994 article documents the "Raffles Reviewed – Sir Stamford Raffles 175 Years Later" exhibition at the National Museum of Singapore, which commemorated the 175th anniversary of Raffles' landing on 28 January 1819. The piece functions as both a detailed catalogue of the exhibition's holdings—drawn from the British Museum, India Office Library, and private collections—and a brief narrative of the founding of Singapore, supplemented by accounts of two lectures delivered by the Raffles scholar Dr. John Bastin.

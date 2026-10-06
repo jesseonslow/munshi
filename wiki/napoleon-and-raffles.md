@@ -3,8 +3,7 @@ id: napoleon-and-raffles
 work_id: jmbras-26-1-p213
 title: Napoleon and Raffles
 canonical_name: Napoleon and Raffles
-type: article
-article_type: article
+type: publication
 authors:
 - C.N. Parkinson
 year: 1953
@@ -18,6 +17,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: note
 ---
 
 # Napoleon and Raffles

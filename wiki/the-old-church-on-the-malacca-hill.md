@@ -3,8 +3,7 @@ id: the-old-church-on-the-malacca-hill
 work_id: jmbras-20-1-p188
 title: The old church on the Malacca hill
 canonical_name: The old church on the Malacca hill
-type: article
-article_type: article
+type: publication
 authors:
 - R. Cardon
 year: 1947
@@ -27,7 +26,9 @@ published: false
 source_doc: jmalayanras-143-cardon-oldchurchmalacca-1947-6c49605d9ddf
 source_path: ../sources/jmalayanras-143-cardon-oldchurchmalacca-1947-6c49605d9ddf.md
 summarized: true
+publication_type: note
 ---
+
 # The old church on the Malacca hill
 
 This is an addenda and corrigenda page for Fr. R. Cardon's article "The Old Church on the Malacca Hill," originally published in JMBRAS Vol. 20, Part I (June 1947).

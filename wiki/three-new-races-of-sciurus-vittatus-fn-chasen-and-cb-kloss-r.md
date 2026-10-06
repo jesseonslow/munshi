@@ -5,8 +5,7 @@ title: Three new races of Sciurus vittatus. F.N. Chasen and C.B. Kloss. Records 
   the Raffles Museum, No. 1
 canonical_name: Three new races of _Sciurus vittatus._ F.N. Chasen and C.B. Kloss.
   Records of the Raffles Museum, No. 1
-type: article
-article_type: article
+type: publication
 authors:
 - F.N. Chasen
 - C.B. Kloss
@@ -24,7 +23,9 @@ published: false
 source_doc: jmalayanras-090-chasen-threenewraces-1924-90235cf2e2e2
 source_path: ../sources/jmalayanras-090-chasen-threenewraces-1924-90235cf2e2e2.md
 summarized: true
+publication_type: note
 ---
+
 # Three new races of Sciurus vittatus. F.N. Chasen and C.B. Kloss. Records of the Raffles Museum, No. 1
 
 This brief note by F. N. Chasen and C. B. Kloss, published as Records of the Raffles Museum No. 1, describes three new subspecies of the red-bellied squirrel (*Sciurus vittatus*) from islands in the Malay Peninsula and the Rhio Archipelago (p. 57).

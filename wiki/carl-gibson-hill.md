@@ -3,8 +3,7 @@ id: carl-gibson-hill
 work_id: jmbras-38-2-p17
 title: Carl Gibson-Hill
 canonical_name: Carl Gibson-Hill
-type: article
-article_type: article
+type: publication
 authors:
 - M. Clark
 year: 1965
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-208-clark-carlgibsonhill-1965-bcedbc93a9fa
 source_path: ../sources/jmbras-208-clark-carlgibsonhill-1965-bcedbc93a9fa.md
 summarized: true
+publication_type: obituary
 ---
+
 # Carl Gibson-Hill
 
 Kathleen Clark published this personal tribute to Carl Gibson-Hill in 1965, shortly after his death, in the *Journal of the Malayan Branch of the Royal Asiatic Society*. Writing from eleven years of sustained correspondence and frequent visits to his Singapore office, Clark's overarching thesis is that Gibson-Hill's published output—however impressive—captures only a fraction of a man whose true significance lay in his prodigious memory, his infectious enthusiasm, and his relentless pursuit of historical truth across Malaysian history, archaeology, and ornithology.

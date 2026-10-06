@@ -3,8 +3,7 @@ id: semah-menyemah
 work_id: jmbras-22-1-p181
 title: Semah (menyemah
 canonical_name: _Semah (menyemah)._
-type: article
-article_type: article
+type: publication
 authors:
 - W.W. Skeat
 year: 1949
@@ -18,6 +17,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: note
 ---
 
 # Semah (menyemah

@@ -5,8 +5,7 @@ title: Tunku Abdul Rahman Putra and his links with the universities of Cambridge
   Malaya, 1960‒1962
 canonical_name: Tunku Abdul Rahman Putra and his links with the universities of Cambridge
   and Malaya, 1960‒1962. . f
-type: article
-article_type: article
+type: publication
 authors:
 - C. (Chandran Jeshurun) Jeshurun
 year: 2009
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-296-jeshurun-tunkuabdulrahman-2009-8b678298b078
 source_path: ../sources/jmbras-296-jeshurun-tunkuabdulrahman-2009-8b678298b078/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Tunku Abdul Rahman Putra and his links with the universities of Cambridge and Malaya, 1960‒1962
 
 Chandran Jeshurun's 2009 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* examines the personal and institutional ties between Tunku Abdul Rahman Putra Al-Haj and the universities of Cambridge and Malaya during the critical period of 1960–1962, arguing that the Tunku's indefatigable support was instrumental in establishing the University of Malaya at its Pantai Valley campus as a leading institution within the Association of Commonwealth Universities.

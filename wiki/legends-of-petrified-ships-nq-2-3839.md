@@ -3,8 +3,7 @@ id: legends-of-petrified-ships-nq-2-3839
 work_id: jsbras-15-legends-of-petrified-ships-nq-
 title: 'Legends of petrified ships. NQ 2: 38–39'
 canonical_name: 'Legends of petrified ships. NQ 2: 38–39'
-type: article
-article_type: notes_and_queries
+type: publication
 authors:
 - D.F.A. Hervey
 year: 1885
@@ -18,6 +17,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: note
 ---
 
 # Legends of petrified ships. NQ 2: 38–39

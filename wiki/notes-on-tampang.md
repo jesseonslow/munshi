@@ -3,8 +3,7 @@ id: notes-on-tampang
 work_id: jmbras-9-1-p131
 title: Notes on tampang
 canonical_name: Notes on _tampang._
-type: article
-article_type: article
+type: publication
 authors:
 - W. Linehan
 year: 1931
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-111-linehan-notestampang-1931-4f144ec87129
 source_path: ../sources/jmalayanras-111-linehan-notestampang-1931-4f144ec87129.md
 summarized: true
+publication_type: note
 ---
+
 # Notes on tampang
 
 W. Linehan's "Notes on Tampang" (JMBRAS Vol. 9, 1931, pp. 131–133) is a brief numismatic note documenting the history and typology of the tin coinage used in Pahang, accompanied by two plates of specimens.

@@ -3,8 +3,7 @@ id: some-notes-on-murut-basket-work-and-patterns
 work_id: jmbras-7-2-p291
 title: Some notes on Murut basket work and patterns
 canonical_name: Some notes on Murut basket work and patterns
-type: article
-article_type: article
+type: publication
 authors:
 - G.C. Woolley
 year: 1929
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-107-woolley-notesmurutbasket-1929-dbd9220eb348
 source_path: ../sources/jmalayanras-107-woolley-notesmurutbasket-1929-dbd9220eb348.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Some notes on Murut basket work and patterns
 
 G.C. Woolley, writing in 1929, documents the basketry, mat-making, and hat-weaving traditions of the Murut peoples across the Tenom, Keningau, and Pensiangan districts of British North Borneo. The article functions as an ethnographic survey of material culture, arguing that Murut weaving represents the most developed of their indigenous "Arts and Crafts" and that its patterns carry encoded narratives and social meanings.

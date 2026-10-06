@@ -3,8 +3,7 @@ id: tunku-kudin-of-kedah
 work_id: jmbras-60-2-p73
 title: Tunku Kudin of Kedah
 canonical_name: Tunku Kudin of Kedah
-type: article
-article_type: article
+type: publication
 authors:
 - J.M. Gullick
 year: 1987
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-253-gullick-tunkukudinkedah-1987-d72219249a7c
 source_path: ../sources/jmbras-253-gullick-tunkukudinkedah-1987-d72219249a7c.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Tunku Kudin of Kedah
 
 J.M. Gullick's 1987 article, the fourth in a multi-part series on Tunku Kudin (Dhiauddin), covers the final phase of this remarkable Malay prince's career: his failed bid for power in Kedah following the death of his brother Sultan Ahmad Tajuddin II in 1879, and his subsequent 27-year exile in Penang and Selangor until his death in 1909. The article argues that Kudin's political defeat was the product of a complex interplay between Kedah's internal dynastic rivalries, Siamese suzerain intervention, and the emerging British presence in the Straits Settlements, and that his exile years reveal a man of considerable charm and adaptability who nonetheless could not reconcile his Europeanised lifestyle with the Malay political world that had rejected him.

@@ -3,8 +3,7 @@ id: the-distribution-of-stone-bark-cloth-beaters-in-prehistoric-
 work_id: jmbras-29-3-p78
 title: The distribution of stone bark-cloth beaters in prehistoric times
 canonical_name: The distribution of stone bark-cloth beaters in prehistoric times
-type: article
-article_type: article
+type: publication
 authors:
 - G. de G. Sieveking
 year: 1956
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-175-sieveking-distributionstonebark-1956-4cec4ad37b49
 source_path: ../sources/jmalayanras-175-sieveking-distributionstonebark-1956-4cec4ad37b49/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The distribution of stone bark-cloth beaters in prehistoric times
 
 G. de G. Sieveking's 1956 article in the *Journal of the Malayan Branch of the Royal Asiatic Society* examines the typology, distribution, and cultural attribution of cross-hatched stone bark cloth beaters from the Malay Peninsula, arguing that this tool type is a diagnostic marker of the Malayan Neolithic cultures and that its wider distribution into Sumatra and North Borneo reflects the reach of those prehistoric cultural spheres.

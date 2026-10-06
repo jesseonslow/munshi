@@ -3,8 +3,7 @@ id: ivor-hugh-norman-evans-obituary
 work_id: jmbras-33-1-p109
 title: Ivor Hugh Norman Evans. Obituary
 canonical_name: Ivor Hugh Norman Evans. Obituary
-type: article
-article_type: obituary
+type: publication
 authors:
 - M.W.F. Tweedie
 year: 1960
@@ -20,8 +19,8 @@ status: stub
 published: false
 source_doc: jmalayanras-189-tweedie-ivorhughnorman-1960-9c807bf54a56
 source_path: ../sources/jmalayanras-189-tweedie-ivorhughnorman-1960-9c807bf54a56.md
+publication_type: obituary
 ---
-
 
 # Ivor Hugh Norman Evans. Obituary
 

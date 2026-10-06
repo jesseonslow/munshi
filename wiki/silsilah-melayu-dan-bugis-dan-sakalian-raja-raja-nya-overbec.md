@@ -3,8 +3,7 @@ id: silsilah-melayu-dan-bugis-dan-sakalian-raja-raja-nya-overbec
 work_id: jmbras-4-3-p339
 title: Silsilah Melayu dan Bugis dan Sakalian Raja-raja-nya. . Overbeck
 canonical_name: _Silsilah Melayu dan Bugis dan Sakalian Raja-raja-nya._ . Overbeck
-type: article
-article_type: translation
+type: publication
 authors:
 - ‘Ali bin Raja Haji Ahmad Raja Haji
 - W. Linehan
@@ -22,7 +21,9 @@ published: false
 source_doc: jmalayanras-098-overbeck-silsilahmelayudan-1926-5b9ed78bc37e
 source_path: ../sources/jmalayanras-098-overbeck-silsilahmelayudan-1926-5b9ed78bc37e.md
 summarized: true
+publication_type: translation
 ---
+
 # Silsilah Melayu dan Bugis dan Sakalian Raja-raja-nya. . Overbeck
 
 Hans Overbeck's 1926 excerpt from the *Silsilah Melayu dan Bugis dan Sakalian Raja-raja-nya*, originally composed by 'Ali bin Raja Haji Ahmad Raja Haji and printed in Singapore circa 1900, presents a genealogical and narrative history of the Bugis-Malay royal houses of Riau, Johore, Kedah, Matan, Mempawah, Sambas, and Pontianak. The work traces the five Bugis princes who, as adventurers from Luwu' in South Celebes, established dynastic rule across the Malay world between the early eighteenth and mid-nineteenth centuries, and it frames their rise within a broader cosmology linking Bugis origins to the Queen of Sheba.

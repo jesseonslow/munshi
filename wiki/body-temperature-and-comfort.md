@@ -3,8 +3,7 @@ id: body-temperature-and-comfort
 work_id: jsbras-80-1-p63
 title: Body temperature and comfort
 canonical_name: Body temperature and comfort
-type: article
-article_type: article
+type: publication
 authors:
 - J.A. Campbell
 year: 1919
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-080-campbell-bodytemperaturecomfort-1919-3dea56e7b38e
 source_path: ../sources/jsbras-080-campbell-bodytemperaturecomfort-1919-3dea56e7b38e.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Body temperature and comfort
 
 J. Argyll Campbell published "Body Temperature and Comfort" in 1919 in the *Journal of the Straits Branch of the Royal Asiatic Society*, presenting a six-year personal physiological study tracking his own axillary and mouth temperatures across six climates—Scotland, Singapore, Java, Perak, and Australia—to demonstrate that a rise in body temperature to 97.6°F, even in the absence of fever, produces significant discomfort and that architectural siting and ventilation are the decisive factors in tropical comfort.

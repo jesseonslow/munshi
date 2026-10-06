@@ -3,8 +3,7 @@ id: slab-graves-and-iron-implements
 work_id: jmbras-19-1-p93
 title: Slab-graves and iron implements
 canonical_name: Slab-graves and iron implements
-type: article
-article_type: article
+type: publication
 authors:
 - R.O. Winstedt
 year: 1941
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-139-winstedt-slabgravesironimplements-1941-34c39faf0b72
 source_path: ../sources/jmalayanras-139-winstedt-slabgravesironimplements-1941-34c39faf0b72.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Slab-graves and iron implements
 
 R.O. Winstedt, writing in 1941 as a senior colonial administrator and amateur archaeologist, synthesizes a decade of scattered reports on megalithic slab-graves across Perak, Sumatra, and Java to evaluate competing hypotheses about their builders. His overarching thesis is that the origin of these graves—whether Indian, Indo-Chinese, or otherwise—remains genuinely unresolved, and that the existing evidence, while suggestive, is insufficient to commit to any single cultural attribution.

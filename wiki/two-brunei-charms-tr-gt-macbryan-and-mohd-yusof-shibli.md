@@ -3,8 +3,7 @@ id: two-brunei-charms-tr-gt-macbryan-and-mohd-yusof-shibli
 work_id: jmbras-20-2-p48
 title: Two Brunei charms. Tr G.T. MacBryan and Mohd. Yusof Shibli
 canonical_name: Two Brunei charms. Tr G.T. MacBryan and Mohd. Yusof Shibli
-type: article
-article_type: article
+type: publication
 authors:
 - G.T. MacBryan
 - Muhammad Yusof Shibli
@@ -28,7 +27,9 @@ published: false
 source_doc: jmalayanras-143-macbryan-twobruneicharms-1947-78dafeab2bcb
 source_path: ../sources/jmalayanras-143-macbryan-twobruneicharms-1947-78dafeab2bcb.md
 summarized: true
+publication_type: translation
 ---
+
 # Two Brunei charms. Tr G.T. MacBryan and Mohd. Yusof Shibli
 
 G. T. MacBryan and Mohd Yusof Shibli published their translation of two Brunei magical charms (*silah-silah*) in the *Journal of the Malayan Branch of the Royal Asiatic Society* in 1947, presenting the first systematic rendering of archaic Brunei manuscripts obtained on a pre-war visit to the sultanate. Framed by an introduction from Tom Harrison, Curator of the Sarawak Museum, the article argues that these texts represent a previously unstudied body of material capable of illuminating Borneo's neglected role in the broader cultural and religious history of South-east Asia.

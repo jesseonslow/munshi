@@ -3,8 +3,7 @@ id: daun-sengugu-nq-1-5
 work_id: jsbras-14-daun-sengugu-nq-1-5
 title: 'Daun sengugu. NQ 1: 5'
 canonical_name: '_Daun sengugu._ NQ 1: 5'
-type: article
-article_type: notes_and_queries
+type: publication
 authors:
 - C.C. Smith
 year: 1884
@@ -18,6 +17,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: note
 ---
 
 # Daun sengugu. NQ 1: 5

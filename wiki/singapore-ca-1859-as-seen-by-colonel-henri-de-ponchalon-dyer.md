@@ -5,8 +5,7 @@ title: Singapore ca. 1859, as seen by Colonel Henri de Ponchalon. . Dyer; with a
   introd. and notes
 canonical_name: Singapore ca. 1859, as seen by Colonel Henri de Ponchalon. . Dyer;
   with an introd. and notes. f
-type: article
-article_type: translation
+type: publication
 authors:
 - C. Dyer
 year: 2017
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-313-dyer-singaporeca1859-2017-719b702773ce
 source_path: ../sources/jmbras-313-dyer-singaporeca1859-2017-719b702773ce/frontmatter.md
 summarized: true
+publication_type: translation
 ---
+
 # Singapore ca. 1859, as seen by Colonel Henri de Ponchalon. . Dyer; with an introd. and notes
 
 This is a translation by Colin Dyer of a diary passage from Colonel Henri de Ponchalon's *Indo-Chine: Souvenirs de Voyage et de Campagne, 1858-60* (1896), recording his arrival in and observations of Singapore in July 1859 (p. 109).

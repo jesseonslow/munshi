@@ -3,8 +3,7 @@ id: some-malay-words
 work_id: jmbras-11-2-p137
 title: Some Malay words
 canonical_name: Some Malay words
-type: article
-article_type: article
+type: publication
 authors:
 - Hamilton A.W
 year: 1933
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-117-hamilton-malaywords-1933-0dde4da0efaa
 source_path: ../sources/jmalayanras-117-hamilton-malaywords-1933-0dde4da0efaa.md
 summarized: true
+publication_type: note
 ---
+
 # Some Malay words
 
 "Some Malay Words" is a brief lexical note by A. W. Hamilton published in the Journal of the Malaysian Branch of the Royal Asiatic Society, Vol. 11 (1933), p. 137.

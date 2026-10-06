@@ -3,8 +3,7 @@ id: the-perak-royal-musical-instruments
 work_id: jmbras-7-3-p451
 title: The Perak royal musical instruments
 canonical_name: The Perak royal musical instruments
-type: article
-article_type: article
+type: publication
 authors:
 - R.O. Winstedt
 year: 1929
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-108-winstedt-perakroyalmusical-1929-53b3353ff8d4
 source_path: ../sources/jmalayanras-108-winstedt-perakroyalmusical-1929-53b3353ff8d4.md
 summarized: true
+publication_type: note
 ---
+
 # The Perak royal musical instruments
 
 This short note by R. O. Winstedt describes the royal musical instruments of Perak, their ceremonial use, the musicians who play them, and the associated ritual practices.

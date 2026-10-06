@@ -3,8 +3,7 @@ id: the-origin-of-the-straits-steamship-company-in-1890
 work_id: jmbras-38-2-p274
 title: The origin of the Straits Steamship Company in 1890
 canonical_name: The origin of the Straits Steamship Company in 1890
-type: article
-article_type: article
+type: publication
 authors:
 - K.G. Tregonning
 year: 1965
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-208-tregonning-originstraitssteamship-1965-62de6bbd8827
 source_path: ../sources/jmbras-208-tregonning-originstraitssteamship-1965-62de6bbd8827.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The origin of the Straits Steamship Company in 1890
 
 K.G. Tregonning, writing in 1965, traces the formation of the Straits Steamship Company in Singapore in January 1890, arguing that the enterprise emerged from the convergence of Suez Canal-era steam trade, British intervention in the tin-rich Malay States, and a strategic partnership between the European shipping agent Theodore Bogaardt and three prominent Straits Chinese merchants. The article is the second part of a larger study on the Straits Steamships and positions the company's founding as a defining moment in Singapore's transition from a sail-based entrepot to a steam-powered regional hub.

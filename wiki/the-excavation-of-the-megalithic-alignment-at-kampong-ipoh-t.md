@@ -5,8 +5,7 @@ title: 'The excavation of the megalithic alignment at Kampong Ipoh, Tampin, Negr
   Sembilan: a note. Adi Haji Taha and Abdul Jalil Osman'
 canonical_name: 'The excavation of the megalithic alignment at Kampong Ipoh, Tampin,
   Negri Sembilan: a note. Adi Haji Taha and Abdul Jalil Osman'
-type: article
-article_type: article
+type: publication
 authors:
 - Abdul Jalil Osman
 - Adi Haji Taha
@@ -24,7 +23,9 @@ published: false
 source_doc: jmbras-242-taha-excavationmegalithicalignment-1982-91eb0896b6ba
 source_path: ../sources/jmbras-242-taha-excavationmegalithicalignment-1982-91eb0896b6ba/frontmatter.md
 summarized: true
+publication_type: note
 ---
+
 # The excavation of the megalithic alignment at Kampong Ipoh, Tampin, Negri Sembilan: a note. Adi Haji Taha and Abdul Jalil Osman
 
 Adi Haji Taha and Abdul Jalil Osman (1982) report the first systematic excavation of a megalithic alignment in Peninsular Malaysia, conducted at Kampong Ipoh, Tampin, Negeri Sembilan, in late 1981 and early 1982. Their central finding is that the site, long believed by local communities to be an ancestral burial ground, yielded no skeletal remains within the alignment itself, thereby providing the first negative evidence to contradict the widespread *batu hidup* tradition.

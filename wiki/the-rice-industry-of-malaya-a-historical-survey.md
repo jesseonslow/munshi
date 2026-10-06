@@ -3,8 +3,7 @@ id: the-rice-industry-of-malaya-a-historical-survey
 work_id: jmbras-42-2-p130
 title: 'The rice industry of Malaya: a historical survey'
 canonical_name: 'The rice industry of Malaya: a historical survey'
-type: article
-article_type: article
+type: publication
 authors:
 - Cheng Siok-hwa
 year: 1969
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-216-hwa-riceindustrymalaya-1969-663ddbfc7362
 source_path: ../sources/jmbras-216-hwa-riceindustrymalaya-1969-663ddbfc7362.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The rice industry of Malaya: a historical survey
 
 This article by Cheng Siok-hwa, published in the *Journal of the Malaysian Branch of the Royal Asiatic Society* (Vol. 42, No. 2, 1969, pp. 130–144), presents a historical survey of the rice industry in Malaya.

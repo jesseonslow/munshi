@@ -3,8 +3,7 @@ id: geography-of-the-malay-peninsula
 work_id: jsbras-1-1-p52
 title: Geography of the Malay Peninsula
 canonical_name: Geography of the Malay Peninsula
-type: article
-article_type: article
+type: publication
 authors:
 - A.M. Skinner
 year: 1878
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-001-skinner-geographymalaypeninsula-1878-2ff2541b57cf
 source_path: ../sources/jsbras-001-skinner-geographymalaypeninsula-1878-2ff2541b57cf.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Geography of the Malay Peninsula
 
 This document is the title page of "Geography of the Malay Peninsula" by A. M. Skinner, published in the inaugural issue of the *Journal of the Straits Branch of the Royal Asiatic Society* (July 1878, pp. 52–62).

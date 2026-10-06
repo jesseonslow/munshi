@@ -5,8 +5,7 @@ title: Raden Saleh, Dipanagara and the painting of the capture of Dipanagara at 
   (28 March 1830
 canonical_name: Raden Saleh, Dipanagara and the painting of the capture of Dipanagara
   at Magelang (28 March 1830)
-type: article
-article_type: article
+type: publication
 authors:
 - P.B.R. Carey
 year: 1982
@@ -24,7 +23,9 @@ summarized: true
 source_mismatch: false
 source_doc: jmbras-242-carey-radensalehdipanagara-1982-35cdbc201f9a
 source_path: ../sources/appendix.md
+publication_type: journal_article
 ---
+
 # Raden Saleh, Dipanagara and the painting of the capture of Dipanagara at Magelang (28 March 1830
 
 Peter B.R. Carey's 1982 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* examines Raden Saleh's 1857 oil painting of Prince Dipanagara's capture at Magelang on 28 March 1830, cross-referencing the artwork against three primary eyewitness accounts to assess its historical accuracy. Carey argues that while the painting displays remarkable attention to detail in its depiction of Dutch officers and the Magelang Residency House, it fundamentally misrepresents Dipanagara's emotional state at the moment of his arrest, portraying him as defiantly heroic rather than resignedly accepting of his fate.

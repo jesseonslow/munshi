@@ -4,8 +4,7 @@ work_id: jmbras-53-1-p68
 title: The vegetation and plant communities of Pulau Balambangan, Sabah, East Malaysia
 canonical_name: The vegetation and plant communities of Pulau Balambangan, Sabah,
   East Malaysia
-type: article
-article_type: article
+type: publication
 authors:
 - B.C. Stone
 year: 1980
@@ -22,7 +21,9 @@ published: false
 source_doc: jmbras-237-stone-vegetationplantcommunities-1980-f54bd602eb88
 source_path: ../sources/jmbras-237-stone-vegetationplantcommunities-1980-f54bd602eb88/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The vegetation and plant communities of Pulau Balambangan, Sabah, East Malaysia
 
 ## Abstract

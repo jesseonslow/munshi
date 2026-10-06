@@ -3,8 +3,7 @@ id: sir-richard-winstedts-summary-of-the-tuhfat-ul-nafis
 work_id: jmbras-40-1-p155
 title: Sir Richard Winstedt’s summary of the “Tuhfat ul-Nafis”
 canonical_name: Sir Richard Winstedt’s summary of the _“Tuhfat ul-Nafis”._
-type: article
-article_type: article
+type: publication
 authors:
 - A. Sweeney
 year: 1967
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-211-sweeney-sirrichardwinstedts-1967-44e2077b5af6
 source_path: ../sources/jmbras-211-sweeney-sirrichardwinstedts-1967-44e2077b5af6.md
 summarized: true
+publication_type: note
 ---
+
 # Sir Richard Winstedt’s summary of the “Tuhfat ul-Nafis”
 
 Amin Sweeney's short note identifies a series of factual inaccuracies in Sir Richard Winstedt's summary of the *Tuhfat ul-Nafis*, a Malay historical text concerning the Bugis and Malay polities of the Riau-Lingga archipelago.

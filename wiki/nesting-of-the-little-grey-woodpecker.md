@@ -3,8 +3,7 @@ id: nesting-of-the-little-grey-woodpecker
 work_id: jsbras-44-1-p226
 title: Nesting of the little grey woodpecker
 canonical_name: Nesting of the little grey woodpecker
-type: article
-article_type: article
+type: publication
 authors:
 - H.N. Ridley
 year: 1905
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-044-ridley-nestinglittlegrey-1905-3d42e551deae
 source_path: ../sources/jsbras-044-ridley-nestinglittlegrey-1905-3d42e551deae.md
 summarized: true
+publication_type: note
 ---
+
 # Nesting of the little grey woodpecker
 
 This short note by H. N. Ridley records observations on the nesting behaviour of the Little Grey Woodpecker in the Straits Settlements.

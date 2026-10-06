@@ -3,8 +3,7 @@ id: sir-frank-swettenhams-perak-journals-18741876
 work_id: jmbras-24-4-p1
 title: Sir Frank Swettenham’s Perak journals, 1874–1876
 canonical_name: Sir Frank Swettenham’s Perak journals, 1874–1876
-type: article
-article_type: article
+type: publication
 authors:
 - C.D. Cowan
 - F.A. Swettenham
@@ -29,7 +28,9 @@ summarized: true
 source_mismatch: true
 source_doc: jmalayanras-157-cowan-sirfrankswettenhams-1951-e156266c2360
 source_path: ../sources/appendix.md
+publication_type: document
 ---
+
 # Sir Frank Swettenham’s Perak journals, 1874–1876
 
 C.D. Cowan edited and introduced five day-to-day journals kept by Frank Swettenham during his missions in Perak between April 1874 and February 1876, published in the *Journal of the Malayan Branch of the Royal Asiatic Society* in 1951. Set against the backdrop of the Pangkor Engagement and the escalating crisis that culminated in the murder of Resident J.W.W. Birch, the journals offer an unfiltered, ground-level account of British intervention in a Malay state whose political institutions the colonial administrators fundamentally misunderstood. Cowan's overarching thesis is that the journals reveal "the extent to which Birch and Swettenham, and probably their colleagues and superiors in the Civil Service, failed to perceive the true character or strength of the (to them) anachronistic institutions which they attempted to sweep away by Proclamation and 'advice'" (p. 3).

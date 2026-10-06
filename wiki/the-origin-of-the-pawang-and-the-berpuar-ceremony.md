@@ -3,8 +3,7 @@ id: the-origin-of-the-pawang-and-the-berpuar-ceremony
 work_id: jmbras-5-2-p310
 title: The origin of the pawang and the berpuar ceremony
 canonical_name: The origin _of the pawang_ and the _berpuar_ ceremony
-type: article
-article_type: article
+type: publication
 authors:
 - Dato' Sedia Raja Abdullah
 year: 1927
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-100-abdullah-originpawangberpuar-1927-4217be651acd
 source_path: ../sources/jmalayanras-100-abdullah-originpawangberpuar-1927-4217be651acd.md
 summarized: true
+publication_type: note
 ---
+
 # The origin of the pawang and the berpuar ceremony
 
 Dato' Sedia Raja Abdullah published this ethnographic account in the *Journal of the Malayan Branch of the Royal Asiatic Society* in 1927, describing the berpuar ceremony of Negeri Sembilan—a triennial mock-fight ritual aimed at expelling evil spirits from the padi crop. The article presents a mythological etiology for the pawang (ritual specialist) and the berpuar rite, then proceeds to a detailed description of the ceremony's structure, before concluding with an explicitly modernist dismissal of the practice as an impediment to Malay economic progress.

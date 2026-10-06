@@ -3,8 +3,7 @@ id: inscriptions-in-st-pauls-church-malacca
 work_id: jsbras-34-1-p1
 title: Inscriptions in St. Paul’s Church, Malacca
 canonical_name: Inscriptions in St. Paul’s Church, Malacca
-type: article
-article_type: article
+type: publication
 authors:
 - E.M. Merewether
 year: 1900
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: false
 source_doc: jsbras-034-merewether-inscriptionsstpauls-1900-905f891e09b9
 source_path: ../sources/jsbras-034-merewether-inscriptionsstpauls-1900-905f891e09b9.md
+publication_type: document
 ---
+
 # Inscriptions in St. Paul’s Church, Malacca
 
 E.M. Merewether's 1900 article in the *Journal of the Straits Branch of the Royal Asiatic Society* (Vol. 34, pp. 1–21) documents and translates thirty-six tombstone inscriptions in St. Paul's Church, Malacca, spanning from 1568 to the early eighteenth century. Working during a temporary residence in the settlement, Merewether produced a systematic epigraphic record before further weathering could render the stones illegible, aided by a previously unknown 1713 inventory compiled by the church sexton Michiel de Bruyn.

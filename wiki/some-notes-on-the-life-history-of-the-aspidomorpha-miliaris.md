@@ -3,8 +3,7 @@ id: some-notes-on-the-life-history-of-the-aspidomorpha-miliaris
 work_id: jsbras-53-1-p129
 title: Some notes on the life history of the Aspidomorpha miliaris
 canonical_name: Some notes on the life history of the _Aspidomorpha miliaris._
-type: article
-article_type: article
+type: publication
 authors:
 - C.F. Bishop
 year: 1909
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-053-bishop-noteslifehistory-1909-90dd7de7aa41
 source_path: ../sources/jsbras-053-bishop-noteslifehistory-1909-90dd7de7aa41.md
 summarized: true
+publication_type: note
 ---
+
 # Some notes on the life history of the Aspidomorpha miliaris
 
 Captain C. F. Bishop, a Royal Garrison Artillery officer stationed in the Straits Settlements, published this detailed life history study of the leaf beetle *Aspidomorpha miliaris* in 1909. Drawing on months of captive observation and a field release experiment, the article provides one of the earliest systematic accounts of the species' complete developmental cycle, from egg to imago, in a Malayan context.

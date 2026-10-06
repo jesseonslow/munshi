@@ -5,8 +5,7 @@ title: 'Constructing Colonial Benevolence: Portraits of Persons with Leprosy in 
   Malaya'
 canonical_name: 'Constructing Colonial Benevolence: Portraits of Persons with Leprosy
   in British Malaya'
-type: article
-article_type: article
+type: publication
 authors:
 - Por Heong Hong
 year: 2023
@@ -29,7 +28,9 @@ keywords:
 - politics of memory
 - May 13 riot
 - Malaysia
+publication_type: journal_article
 ---
+
 # Constructing Colonial Benevolence: Portraits of Persons with Leprosy in British Malaya
 
 ## Abstract

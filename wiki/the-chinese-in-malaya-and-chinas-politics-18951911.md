@@ -3,8 +3,7 @@ id: the-chinese-in-malaya-and-chinas-politics-18951911
 work_id: jmbras-50-2-p7
 title: The Chinese in Malaya and China’s politics, 1895–1911
 canonical_name: The Chinese in Malaya and China’s politics, 1895–1911
-type: article
-article_type: article
+type: publication
 authors:
 - S. Leong
 year: 1977
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-232-leong-chinesemalayachinas-1977-8a58521f8cd6
 source_path: ../sources/jmbras-232-leong-chinesemalayachinas-1977-8a58521f8cd6.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The Chinese in Malaya and China’s politics, 1895–1911
 
 Stephen Leong's 1977 article traces the emergence of political consciousness among the Chinese in Malaya between the Sino-Japanese War of 1894–95 and the Xinhai Revolution of 1911, arguing that the *hua-ch'iao* shifted from decades of economic preoccupation to active participation in their motherland's politics through the catalytic presence of Chinese national leaders in the region. The study demonstrates how both the reformist and revolutionary movements competed for the allegiance of the overseas Chinese, with the revolutionaries ultimately prevailing as the Manchu dynasty's inability to deliver constitutional reform discredited the moderate path (pp. 7–19).

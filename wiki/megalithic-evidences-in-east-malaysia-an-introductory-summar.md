@@ -3,8 +3,7 @@ id: megalithic-evidences-in-east-malaysia-an-introductory-summar
 work_id: jmbras-46-1-p123
 title: Megalithic evidences in East Malaysia, an introductory summary
 canonical_name: Megalithic evidences in East Malaysia, an introductory summary
-type: article
-article_type: article
+type: publication
 authors:
 - Tom Harrisson
 year: 1973
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-223-harrisson-megalithicevidenceseast-1973-9d366a445ee4
 source_path: ../sources/jmbras-223-harrisson-megalithicevidenceseast-1973-9d366a445ee4.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Megalithic evidences in East Malaysia, an introductory summary
 
 Tom Harrisson's 1973 introductory summary synthesises two and a half decades of fieldwork and excavation across Sabah and Sarawak to demonstrate that Borneo's megalithic tradition was far more extensive, varied, and recently active than the prevailing scholarly consensus had allowed. The overarching thesis is that these stone monuments were not a single, ancient, externally diffused "cultural feature" but a locally generated response to settled irrigated rice-cultivation and the technological revolution of iron, one that had already entered organic decline long before colonial contact.

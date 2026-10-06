@@ -3,8 +3,7 @@ id: the-java-journal-of-dr-joseph-arnold-s-bastin
 work_id: jmbras-46-1-p1
 title: The Java journal of Dr Joseph Arnold. .S. Bastin
 canonical_name: The Java journal of Dr Joseph Arnold. .S. Bastin
-type: article
-article_type: article
+type: publication
 authors:
 - J. Arnold
 - J.S. Bastin
@@ -22,7 +21,9 @@ published: false
 source_doc: jmbras-223-bastin-javajournaldr-1973-1a750eb67381
 source_path: ../sources/jmbras-223-bastin-javajournaldr-1973-1a750eb67381/index.md
 summarized: true
+publication_type: document
 ---
+
 # The Java journal of Dr Joseph Arnold. .S. Bastin
 
 Dr. Joseph Arnold's Java Journal, edited and annotated by John Bastin and published in the Journal of the Malaysian Branch of the Royal Asiatic Society in 1973, presents the only surviving contemporary account by a European naturalist of daily life in British-occupied Java during the final months of that occupation. Arnold, a naval surgeon and Fellow of the Linnean Society, arrived at Batavia on 3 September 1815 and departed on 13 December, and his journal—written in the first person with characteristic brevity and observational precision—records his encounters with Raffles, his travels through the Priangan regencies, and the social, economic, and natural history of the island at a moment of political transition.

@@ -3,8 +3,7 @@ id: gold-ornaments-dug-up-at-fort-canning-singapore
 work_id: jmbras-6-4-p1
 title: Gold ornaments dug up at Fort Canning, Singapore
 canonical_name: Gold ornaments dug up at Fort Canning, Singapore
-type: article
-article_type: article
+type: publication
 authors:
 - R.O. Winstedt
 year: 1928
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: true
 source_doc: jmalayanras-105-winstedt-goldornamentsdug-1928-80c5c6e5e5d2
 source_path: ../sources/jmalayanras-105-winstedt-goldornamentsdug-1928-80c5c6e5e5d2.md
+publication_type: note
 ---
+
 # Gold ornaments dug up at Fort Canning, Singapore
 
 This short note by R. O. Winstedt documents the discovery and description of a set of gold ornaments excavated at Fort Canning, Singapore, in July 1928 during construction of the Service Reservoir.

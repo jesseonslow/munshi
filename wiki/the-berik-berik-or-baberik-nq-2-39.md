@@ -3,8 +3,7 @@ id: the-berik-berik-or-baberik-nq-2-39
 work_id: jsbras-15-the-berik-berik-or-baberik-nq-
 title: 'The berik-berik or baberik. NQ 2: 39'
 canonical_name: 'The _berik-berik_ or _baberik._ NQ 2: 39'
-type: article
-article_type: notes_and_queries
+type: publication
 authors:
 - Haughton H.T
 year: 1885
@@ -18,6 +17,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: note
 ---
 
 # The berik-berik or baberik. NQ 2: 39

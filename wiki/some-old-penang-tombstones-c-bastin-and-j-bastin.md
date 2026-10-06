@@ -3,8 +3,7 @@ id: some-old-penang-tombstones-c-bastin-and-j-bastin
 work_id: jmbras-37-1-p126
 title: Some old Penang tombstones. C. Bastin and J. Bastin
 canonical_name: Some old Penang tombstones. C. Bastin and J. Bastin
-type: article
-article_type: article
+type: publication
 authors:
 - C. Bastin
 - J.S. Bastin
@@ -22,7 +21,9 @@ published: false
 source_doc: jmbras-205-bastin-oldpenangtombstones-1964-9ac6ce433634
 source_path: ../sources/jmbras-205-bastin-oldpenangtombstones-1964-9ac6ce433634/index.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Some old Penang tombstones. C. Bastin and J. Bastin
 
 Christopher and John Bastin published this epigraphic survey in 1964, recording the inscriptions of the old tombstones in the Protestant Cemetery, Northam Road, Penang, and the memorial tablets of St. George's Church. The article serves as a reference catalogue of roughly ninety inscriptions spanning the period from 1789 to the 1890s, documenting the lives of Penang's early governors, civil servants, military officers, merchants, and missionaries. Its implicit thesis is that these physical monuments constitute a valuable biographical source for the history of the settlement.

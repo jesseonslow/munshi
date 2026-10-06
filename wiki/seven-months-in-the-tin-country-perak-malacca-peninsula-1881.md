@@ -4,8 +4,7 @@ work_id: jmbras-93-1-p143
 title: Seven months in the tin country, Perak (Malacca Peninsula), 1881. . Dyer
 canonical_name: Seven months in the tin country, Perak (Malacca Peninsula), 1881.
   . Dyer. f
-type: article
-article_type: translation
+type: publication
 authors:
 - J.E. De La Croix
 year: 2020
@@ -29,7 +28,9 @@ keywords:
 - Malaya
 - Hugh Low
 - Kong Loon Kongsi
+publication_type: translation
 ---
+
 # Seven months in the tin country, Perak (Malacca Peninsula), 1881. . Dyer
 
 J. Errington de la Croix, a French mining engineer, spent seven months in the state of Perak in 1880–81 and recorded his observations in a detailed account originally published in French in 1885; Colin Dyer's 2020 English translation for the *JMBRAS* makes this a valuable primary source on the tin-mining economy, colonial administration, and indigenous peoples of early-Protectorate Malaya.

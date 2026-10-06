@@ -3,8 +3,7 @@ id: the-federation-decision-1895
 work_id: jmbras-43-1-p104
 title: 'The Federation decision: 1895'
 canonical_name: 'The Federation decision: 1895'
-type: article
-article_type: article
+type: publication
 authors:
 - L.A. Mills
 year: 1970
@@ -20,6 +19,7 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+publication_type: journal_article
 ---
 
 # The Federation decision: 1895

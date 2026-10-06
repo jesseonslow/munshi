@@ -3,8 +3,7 @@ id: punan-ba
 work_id: jmbras-28-1-p24
 title: Punan Ba
 canonical_name: Punan Ba
-type: article
-article_type: article
+type: publication
 authors:
 - R. Needham
 year: 1955
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-169-needham-punanba-1955-32281ccc0f80
 source_path: ../sources/jmalayanras-169-needham-punanba-1955-32281ccc0f80/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Punan Ba
 
 Rodney Needham's 1955 article in the *Journal of the Malayan Branch of the Royal Asiatic Society* addresses the persistent taxonomic confusion surrounding the Punan Ba, a settled longhouse-dwelling people of the Rejang River basin in Sarawak who had been repeatedly misidentified as either nomadic Punan or Penan throughout the colonial ethnographic literature. Drawing on a brief 1952 field visit to two longhouses in the Bintulu district and a systematic review of prior sources, Needham argues that the Punan Ba are a distinct segment of the Kajang grouping, historically, linguistically, and culturally separate from both the nomadic Punan and the Penan with whom they had been conflated for over a century.

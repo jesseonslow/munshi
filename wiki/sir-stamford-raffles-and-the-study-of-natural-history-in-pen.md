@@ -5,8 +5,7 @@ title: Sir Stamford Raffles and the study of natural history in Penang, Singapor
   and Indonesia
 canonical_name: Sir Stamford Raffles and the study of natural history in Penang, Singapore
   and Indonesia
-type: article
-article_type: article
+type: publication
 authors:
 - J.S. Bastin
 year: 1990
@@ -22,6 +21,7 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+publication_type: journal_article
 ---
 
 # Sir Stamford Raffles and the study of natural history in Penang, Singapore and Indonesia

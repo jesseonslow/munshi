@@ -3,8 +3,7 @@ id: begonias-of-borneo
 work_id: jsbras-46-1-p247
 title: Begonias of Borneo
 canonical_name: Begonias of Borneo
-type: article
-article_type: article
+type: publication
 authors:
 - H.N. Ridley
 year: 1906
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-046-ridley-begoniasborneo-1906-7cded5dea3c2
 source_path: ../sources/jsbras-046-ridley-begoniasborneo-1906-7cded5dea3c2.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Begonias of Borneo
 
 H. N. Ridley, Director of the Singapore Botanic Gardens, published this taxonomic treatment of Bornean *Begonia* species in 1906, describing sixteen new species and revisiting several previously known taxa from Sarawak and the broader island. The article establishes that Borneo—particularly the limestone karst of Sarawak—harbours a notably rich and under-described begonia flora, with the *Petermannia* section dominating the tall woodland forms and a distinct assemblage of small rhizomatous and epiphytic species colonising cave mouths and rock faces.

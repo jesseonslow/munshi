@@ -3,8 +3,7 @@ id: occurrence-of-the-malayan-badger-or-teledu-in-borneo
 work_id: jsbras-83-1-p142
 title: Occurrence of the Malayan badger or teledu in Borneo
 canonical_name: Occurrence of the Malayan badger or _teledu_ in Borneo
-type: article
-article_type: article
+type: publication
 authors:
 - J.C. Moulton
 year: 1921
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-083-moulton-occurrencemalayanbadger-1921-67adbf80c680
 source_path: ../sources/jsbras-083-moulton-occurrencemalayanbadger-1921-67adbf80c680.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Occurrence of the Malayan badger or teledu in Borneo
 
 J.C. Moulton's 1921 article in the *Journal of the Straits Branch of the Royal Asiatic Society* examines two skins of the Malayan badger (*Mydaus*) collected from Mt. Murud in British North Borneo, arguing that they represent a previously undescribed mountain form substantially larger than the lowland species *M. lucifer* described by Oldfield Thomas in 1902. The piece combines taxonomic reasoning with field correspondence and indigenous testimony to reconstruct the distribution, behaviour, and probable decline of a rare and poorly known carnivore.

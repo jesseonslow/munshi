@@ -3,8 +3,7 @@ id: kedah-18211855-years-of-exile-and-return
 work_id: jmbras-56-2-p31
 title: 'Kedah 1821–1855: years of exile and return'
 canonical_name: 'Kedah 1821–1855: years of exile and return'
-type: article
-article_type: article
+type: publication
 authors:
 - J.M. Gullick
 year: 1983
@@ -18,6 +17,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: journal_article
 ---
 
 # Kedah 1821–1855: years of exile and return

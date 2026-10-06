@@ -3,8 +3,7 @@ id: the-first-three-rulers-of-malacca
 work_id: jmbras-41-1-p11
 title: The first three rulers of Malacca
 canonical_name: The first three rulers of Malacca
-type: article
-article_type: article
+type: publication
 authors:
 - Wang Gungwu
 year: 1968
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-213-gungwu-firstthreerulers-1968-71e385f2f3c7
 source_path: ../sources/jmbras-213-gungwu-firstthreerulers-1968-71e385f2f3c7.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The first three rulers of Malacca
 
 Wang Gungwu's 1968 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* (Vol. 41, No. 1) re-examines the identity and chronology of the first three rulers of Malacca (c. 1390–1444) by turning to the primary Chinese Veritable Records of the early Ming dynasty. His central thesis is that R.O. Winstedt's influential 1947–48 identification of Parameswara and Megat Iskandar Shah as a single individual who converted to Islam is untenable, because the Chinese imperial archives record three distinct kings who were each personally received by Emperor Yung-lo.

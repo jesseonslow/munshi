@@ -3,8 +3,7 @@ id: the-kurau-district-perak
 work_id: jsbras-18-1-p349
 title: The Kurau district, Perak
 canonical_name: The Kurau district, Perak
-type: article
-article_type: article
+type: publication
 authors:
 - N. Denison
 year: 1886
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-018-denison-kuraudistrictprak-1886-03581d786867
 source_path: ../sources/jsbras-018-denison-kuraudistrictprak-1886-03581d786867.md
 summarized: true
+publication_type: note
 ---
+
 # The Kurau district, Perak
 
 N. Denison's note documents the history of the *hasil klamin* tax in the Kurau district of Perak, tracing its origin, the conflicts it provoked, and its administration under successive rulers up to the British colonial period (pp. 349–352).

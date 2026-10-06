@@ -5,8 +5,7 @@ title: 'Going ashore in the Anambas Islands: accounts by Hyacinthe de Bougainvil
   and Cyrille Laplace in 1825 and 1831. . Dyer; with an introd. and notes'
 canonical_name: 'Going ashore in the Anambas Islands: accounts by Hyacinthe de Bougainville
   and Cyrille Laplace in 1825 and 1831. . Dyer; with an introd. and notes'
-type: article
-article_type: translation
+type: publication
 authors:
 - C. Dyer
 year: 2018
@@ -30,7 +29,9 @@ keywords:
 - South China Sea
 - Malay World
 - French in Asia
+publication_type: translation
 ---
+
 # Going ashore in the Anambas Islands: accounts by Hyacinthe de Bougainville and Cyrille Laplace in 1825 and 1831. . Dyer; with an introd. and notes
 
 ## Abstract

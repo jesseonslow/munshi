@@ -5,8 +5,7 @@ title: 'The advent of Islam to west and north Borneo: an attempted reconstructio
   of some possible sequences'
 canonical_name: 'The advent of Islam to west and north Borneo: an attempted reconstruction
   of some possible sequences'
-type: article
-article_type: article
+type: publication
 authors:
 - Tom Harrisson
 year: 1972
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-221-harrisson-adventislamwest-1972-81baef4ce53e
 source_path: ../sources/jmbras-221-harrisson-adventislamwest-1972-81baef4ce53e/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The advent of Islam to west and north Borneo: an attempted reconstruction of some possible sequences
 
 Tom Harrisson (1972) attempts to reconstruct the timing of Islam's arrival in West and North Borneo (Sarawak, Brunei, Sabah), arguing that the conventional dating of c. 1500 A.D. for the Brunei Sultanate is too late and that three independent indigenous sources converge on a significantly earlier process of Islamisation beginning in the 14th century.

@@ -3,8 +3,7 @@ id: dialects-of-the-malay-peninsula
 work_id: jsbras-37-1-p141
 title: Dialects of the Malay Peninsula
 canonical_name: Dialects of the Malay Peninsula
-type: article
-article_type: article
+type: publication
 authors:
 - C.O. Blagden
 year: 1902
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-037-blagden-dialectsmalaypeninsula-1902-ebd9a185c5ac
 source_path: ../sources/jsbras-037-blagden-dialectsmalaypeninsula-1902-ebd9a185c5ac.md
 summarized: true
+publication_type: note
 ---
+
 # Dialects of the Malay Peninsula
 
 C. O. Blagden's brief note in the *Journal of the Straits Branch of the Royal Asiatic Society* (Vol. 37, 1902) is an appeal to members for assistance in collecting and comparing the dialects of the aboriginal tribes of the Malay Peninsula, with a broader call for the systematic recording of local Malay dialects.

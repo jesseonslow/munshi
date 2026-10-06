@@ -3,8 +3,7 @@ id: raffles-and-the-massacre-at-palembang
 work_id: jmbras-22-1-p38
 title: Raffles and the massacre at Palembang
 canonical_name: Raffles and the massacre at Palembang
-type: article
-article_type: article
+type: publication
 authors:
 - C.E. Wurtzburg
 year: 1949
@@ -28,7 +27,9 @@ reprints:
 source_doc: jmalayanras-158-wurtzburg-rafflespalembangmassacre-1952-284e3953f253
 source_path: ../sources/jmalayanras-158-wurtzburg-rafflespalembangmassacre-1952-284e3953f253.md
 summarized: true
+publication_type: note
 ---
+
 # Raffles and the massacre at Palembang
 
 This short note by C. E. Wurtzburg is a postscript to his 1949 article "Raffles and the Palembang Massacre" (JMBRAS Vol. 22, pp. 38–52), in which he responds to Professor Coolhaas's 1951 critique of his identification of a missing letter in the Raffles–Badru'd-din correspondence.

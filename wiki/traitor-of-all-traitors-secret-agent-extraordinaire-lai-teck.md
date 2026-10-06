@@ -5,8 +5,7 @@ title: '‘Traitor of all traitors’― secret agent extraordinaire : Lai Teck,
   Communist Party of Malaya'
 canonical_name: '‘Traitor of all traitors’― secret agent _extraordinaire_ : Lai Teck,
   secretary-general, Communist Party of Malaya'
-type: article
-article_type: article
+type: publication
 authors:
 - L. Comber
 year: 2010
@@ -22,6 +21,7 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+publication_type: journal_article
 ---
 
 # ‘Traitor of all traitors’― secret agent extraordinaire : Lai Teck, secretary-general, Communist Party of Malaya

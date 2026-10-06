@@ -3,8 +3,7 @@ id: notes-on-the-remains-of-some-ancient-brick-structures-in-pek
 work_id: jmbras-6-4-p78
 title: Notes on the remains of some ancient brick structures in Pekan district
 canonical_name: Notes on the remains of some ancient brick structures in Pekan district
-type: article
-article_type: article
+type: publication
 authors:
 - W. Linehan
 year: 1928
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: true
 source_doc: jmalayanras-105-linehan-notesremainsancient-1928-223662b04782
 source_path: ../sources/jmalayanras-105-linehan-notesremainsancient-1928-223662b04782.md
+publication_type: note
 ---
+
 # Notes on the remains of some ancient brick structures in Pekan district
 
 W. Linehan, a colonial official stationed in Pekan in 1925, documented the excavation of four ancient brick structures in the Pekan district of Pahang, arguing that they date to the period between the 14th century and the mid-15th century and likely represent the material legacy of a pre-Malay (Siamese) population displaced by the Malay conquest of Pahang. Published in the *Journal of the Malayan Branch of the Royal Asiatic Society* in 1928, the article remains one of the earliest systematic archaeological reports from the Pahang river valley.

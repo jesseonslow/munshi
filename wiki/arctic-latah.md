@@ -3,8 +3,7 @@ id: arctic-latah
 work_id: jmbras-1-2-p381
 title: Arctic latah
 canonical_name: Arctic _latah._
-type: article
-article_type: article
+type: publication
 authors:
 - J. O'May
 year: 1923
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-088-omay-arcticlatah-1923-04adc24dde76
 source_path: ../sources/jmalayanras-088-omay-arcticlatah-1923-04adc24dde76/frontmatter.md
 summarized: true
+publication_type: note
 ---
+
 # Arctic latah
 
 J. O'May's brief note "Arctic Latah" (JMBRAS 1(2), 1923, pp. 381–383) draws parallels between the Malay psychogenic condition of *latah* and analogous abnormal mental phenomena observed among Arctic and North Siberian peoples.

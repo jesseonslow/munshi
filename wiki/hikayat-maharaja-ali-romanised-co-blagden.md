@@ -3,8 +3,7 @@ id: hikayat-maharaja-ali-romanised-co-blagden
 work_id: jmbras-7-3-p415
 title: Hikayat Maharaja Ali. Romanised C.O. Blagden
 canonical_name: _Hikayat Maharaja Ali._ Romanised C.O. Blagden
-type: article
-article_type: article
+type: publication
 authors:
 - C.O. Blagden
 year: 1929
@@ -18,6 +17,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: translation
 ---
 
 # Hikayat Maharaja Ali. Romanised C.O. Blagden

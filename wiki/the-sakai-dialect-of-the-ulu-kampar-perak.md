@@ -3,8 +3,7 @@ id: the-sakai-dialect-of-the-ulu-kampar-perak
 work_id: jsbras-35-1-p91
 title: The Sakai dialect of the Ulu Kampar, Perak
 canonical_name: The Sakai dialect of the Ulu Kampar, Perak
-type: article
-article_type: article
+type: publication
 authors:
 - H.L.E. Luering
 year: 1901
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-035-luering-sakaidialectulu-1901-299ea8513860
 source_path: ../sources/jsbras-035-luering-sakaidialectulu-1901-299ea8513860.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The Sakai dialect of the Ulu Kampar, Perak
 
 H.L.E. Luering, a German-trained linguist holding a doctorate from Strassburg, published this vocabulary of the Sakai dialect spoken along the upper Kampar River in Perak in 1901. The article's central contribution is a phonetically transcribed word list of approximately two hundred entries, positioned within the emerging recognition—established by Blagden in 1894—that Sakai languages belong to the Mon-Khmer branch of the Austro-Asiatic family rather than to the previously hypothesised Tibeto-Burman or Austronesian connections.

@@ -3,8 +3,7 @@ id: the-origin-of-sabah-and-a-reappraisal-of-overbeck-as-maharaj
 work_id: jmbras-77-1-p67
 title: The origin of ‘Sabah’ and a reappraisal of Overbeck as Maharajah
 canonical_name: The origin of ‘Sabah’ and a reappraisal of Overbeck as Maharajah
-type: article
-article_type: article
+type: publication
 authors:
 - P.J. Rivers
 year: 2004
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-286-rivers-originsabahreappraisal-2004-cfce514ee909
 source_path: ../sources/jmbras-286-rivers-originsabahreappraisal-2004-cfce514ee909/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The origin of ‘Sabah’ and a reappraisal of Overbeck as Maharajah
 
 P.J. Rivers, writing in 2004, undertakes a philological and archival reappraisal of the name "Sabah" and the title "Maharajah of Sabah" bestowed on Baron von Overbeck in the 1870s, arguing that both were Victorian-era constructions rather than ancient indigenous designations. The article challenges the widely repeated claim that "Sabah" was a long-established territorial name predating British involvement, demonstrating instead that it derives from a Brunei Malay directional term meaning "downstream" that was selectively elevated to a geographical label by company promoters seeking to legitimise their territorial claims.

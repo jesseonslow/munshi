@@ -3,8 +3,7 @@ id: united-states-consuls-in-singapore-18591880
 work_id: jmbras-56-1-p12
 title: United States consuls in Singapore, 1859–1880
 canonical_name: United States consuls in Singapore, 1859–1880
-type: article
-article_type: article
+type: publication
 authors:
 - P. Sodhy
 year: 1983
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-244-sodhy-unitedstatesconsuls-1983-b75973670287
 source_path: ../sources/jmbras-244-sodhy-unitedstatesconsuls-1983-b75973670287.md
 summarized: true
+publication_type: journal_article
 ---
+
 # United States consuls in Singapore, 1859–1880
 
 Pamela Sodhy's 1983 article examines the four United States consuls who served in Singapore between 1859 and 1880—John P. O'Sullivan, Isaac Stone, James Grey Jewell, and Adolphus G. Studer—drawing primarily on consular despatches held at the National Archives in Washington. The article argues that these consuls personified the dual character of the United States in this period: a commercial power seeking to protect and expand trade in a strategically vital free port, and an aspiring political power whose imperial ambitions were frustrated by the dominance of European colonial powers in Southeast Asia.

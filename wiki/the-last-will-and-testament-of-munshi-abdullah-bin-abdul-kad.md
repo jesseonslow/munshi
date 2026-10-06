@@ -3,8 +3,7 @@ id: the-last-will-and-testament-of-munshi-abdullah-bin-abdul-kad
 work_id: jmbras-78-2-p83
 title: The last will and testament of Munshi Abdullah bin Abdul Kadir (1797–1854
 canonical_name: The last will and testament of Munshi Abdullah bin Abdul Kadir (1797–1854)
-type: article
-article_type: article
+type: publication
 authors:
 - Raimy Ché-Ross
 year: 2005
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-289-chross-lasttestamentmunshi-2005-75cd76f15abf
 source_path: ../sources/jmbras-289-chross-lasttestamentmunshi-2005-75cd76f15abf/references.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The last will and testament of Munshi Abdullah bin Abdul Kadir (1797–1854
 
 Raimy Ché-Ross's 2005 article presents the rediscovered Last Will and Testament of Munshi Abdullah bin Abdul Kadir, composed in January 1854 in Singapore shortly before the celebrated author's fatal Hajj pilgrimage to Mecca. The article situates this document within the emerging discipline of Malay Diplomatics, arguing that the Will and its associated inventory offer a rare window into the legal, domestic, and material life of a prominent Malay literary figure in the colonial Straits Settlements.

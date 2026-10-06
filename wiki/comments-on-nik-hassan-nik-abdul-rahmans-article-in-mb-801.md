@@ -3,8 +3,7 @@ id: comments-on-nik-hassan-nik-abdul-rahmans-article-in-mb-801
 work_id: jmbras-80-2-p102
 title: Comments on Nik Hassan Nik Abdul Rahman’s article in MB 80(1
 canonical_name: Comments on Nik Hassan Nik Abdul Rahman’s article in MB 80(1)
-type: article
-article_type: article
+type: publication
 authors:
 - W.G.H. Solheim
 year: 2007
@@ -22,7 +21,9 @@ source_doc: jmbras-293-ii-commentscurrentissues-2007-9dd06a50d1ce
 source_path: ../sources/jmbras-293-ii-commentscurrentissues-2007-9dd06a50d1ce.md
 source_mismatch: false
 summarized: true
+publication_type: journal_article
 ---
+
 # Comments on Nik Hassan Nik Abdul Rahman’s article in MB 80(1
 
 This is a comment and rejoinder exchange in JMBRAS Vol. 80 (2), 2007, in which Wilhelm G. Solheim II critiques Nik Hassan Shuhaimi Nik Abdul Rahman's article "Current Issues on Prehistory and Protohistory in Malaysian Archaeology" (JMBRAS 80, Part I, 2007), followed by Nik Hassan's response.

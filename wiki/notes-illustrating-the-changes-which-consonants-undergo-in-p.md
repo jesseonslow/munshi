@@ -5,8 +5,7 @@ title: Notes illustrating the changes which consonants undergo in passing from o
   Malayan dialect to another
 canonical_name: Notes illustrating the changes which consonants undergo in passing
   from one Malayan dialect to another
-type: article
-article_type: article
+type: publication
 authors:
 - A.M. Ferguson
 year: 1883
@@ -23,7 +22,9 @@ published: false
 source_doc: jsbras-012-ferguson-notesillustratingchanges-1883-a2350552c6fa
 source_path: ../sources/jsbras-012-ferguson-notesillustratingchanges-1883-a2350552c6fa.md
 summarized: true
+publication_type: note
 ---
+
 # Notes illustrating the changes which consonants undergo in passing from one Malayan dialect to another
 
 A.M. Ferguson's 1883 note in the *Journal of the Straits Branch of the Royal Asiatic Society* is a lexical reference cataloguing consonant correspondences across Malayan dialects, using Malay as the baseline form.

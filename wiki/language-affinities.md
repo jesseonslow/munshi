@@ -3,8 +3,7 @@ id: language-affinities
 work_id: jmbras-16-1-p1
 title: Language affinities
 canonical_name: Language affinities
-type: article
-article_type: article
+type: publication
 authors:
 - C.N. Maxwell
 year: 1938
@@ -20,6 +19,7 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+publication_type: journal_article
 ---
 
 # Language affinities

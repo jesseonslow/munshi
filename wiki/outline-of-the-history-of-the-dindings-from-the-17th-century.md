@@ -5,8 +5,7 @@ title: Outline of the history of the Dindings from the 17th century to the prese
   time
 canonical_name: Outline of the history of the Dindings from the 17th century to the
   present time
-type: article
-article_type: article
+type: publication
 authors:
 - E.M. Merewether
 year: 1891
@@ -23,7 +22,9 @@ published: false
 source_doc: jsbras-023-merewether-outlinehistorydindings-1891-a7361e08784c
 source_path: ../sources/jsbras-023-merewether-outlinehistorydindings-1891-a7361e08784c.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Outline of the history of the Dindings from the 17th century to the present time
 
 E. M. Merewether, writing in 1891 for the Journal of the Straits Branch of the Royal Asiatic Society, provides a chronological account of the Dindings—comprising Pulau Pangkor, Pulau Sembilan, and a mainland strip in Perak—from the earliest European contact in the 1660s through the first seventeen years of formal British administration. The article traces the island's passage from Dutch occupation and abandonment to British territorial acquisition under the Pangkor Treaty of 1874, and closes with a descriptive survey of the district's geography, resources, and persistent health problems.

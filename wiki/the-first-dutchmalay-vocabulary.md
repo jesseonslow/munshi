@@ -3,8 +3,7 @@ id: the-first-dutchmalay-vocabulary
 work_id: jmbras-20-2-p20
 title: The first Dutch–Malay vocabulary
 canonical_name: The first Dutch–Malay vocabulary
-type: article
-article_type: article
+type: publication
 authors:
 - Hamilton A.W
 year: 1947
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-143-hamilton-firstdutchmalayvocabulary-1947-3dcb93bb20b5
 source_path: ../sources/jmalayanras-143-hamilton-firstdutchmalayvocabulary-1947-3dcb93bb20b5.md
 summarized: true
+publication_type: note
 ---
+
 # The first Dutch–Malay vocabulary
 
 This note by A. W. Hamilton examines the Malay vocabulary appended to the 1598 printed edition of Cornelis de Houtman's journal of the 1595 Dutch voyages, identifying it as the first Dutch attempt to transcribe colloquial Malay into Romanized form (p. 20).

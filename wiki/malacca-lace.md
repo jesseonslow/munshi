@@ -3,8 +3,7 @@ id: malacca-lace
 work_id: jsbras-45-1-p273
 title: Malacca lace
 canonical_name: Malacca lace
-type: article
-article_type: article
+type: publication
 authors:
 - R.N. Bland
 year: 1906
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-045-bland-malaccalace-1906-5fc61f468871
 source_path: ../sources/jsbras-045-bland-malaccalace-1906-5fc61f468871.md
 summarized: true
+publication_type: note
 ---
+
 # Malacca lace
 
 This note by Mrs. Bland documents the state of bobbin lace-making in Malacca in the early 1900s, tracing its decline from a fine cotton pillow lace industry to a diminished "biku" (edging) trade, and compares it with related traditions in Palembang and Sarawak.

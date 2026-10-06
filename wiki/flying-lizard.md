@@ -3,8 +3,7 @@ id: flying-lizard
 work_id: jsbras-9-1-p162
 title: Flying lizard
 canonical_name: Flying lizard
-type: article
-article_type: article
+type: publication
 authors:
 - N.B. Dennys
 year: 1882
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-009-dennys-naturalhistorynotes-1882-7dee44ea6627
 source_path: ../sources/jsbras-009-dennys-naturalhistorynotes-1882-7dee44ea6627.md
 summarized: true
+publication_type: note
 ---
+
 # Flying lizard
 
 This is a brief natural history note by N. B. Dennys, published in the *Journal of the Straits Branch of the Royal Asiatic Society* (Vol. 9, 1882), describing the flying lizard (*Draco volens*) as found in Singapore (p. 162).

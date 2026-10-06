@@ -3,8 +3,7 @@ id: the-making-of-a-monarch-raja-muda-sulaiman-of-selangor-1865-
 work_id: jmbras-81-2-p1
 title: 'The making of a monarch: Raja Muda Sulaiman of Selangor 1865-98'
 canonical_name: 'The making of a monarch: Raja Muda Sulaiman of Selangor 1865-98'
-type: article
-article_type: article
+type: publication
 authors:
 - J.M. Gullick
 year: 2008
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: false
 source_doc: jmbras-295-gullick-makingmonarchraja-2008-ebddf4a30773
 source_path: ../sources/references.md
+publication_type: journal_article
 ---
+
 # The making of a monarch: Raja Muda Sulaiman of Selangor 1865-98
 
 J.M. Gullick's 2008 article reconstructs the formative years of Raja Sulaiman (1865–1898), tracing his development from a child displaced by the Selangor Civil War into the Raja Muda who would eventually succeed Sultan Abdul Samad. Set against the backdrop of Selangor's transition from a small, tin-exporting sultanate to a British-administered state within the Federated Malay States, the article argues that Sulaiman's path to the throne was neither straightforward nor predetermined, shaped as it was by his eccentric father's failures, the political threat of rival claimants, and the demands of an emerging colonial bureaucracy.

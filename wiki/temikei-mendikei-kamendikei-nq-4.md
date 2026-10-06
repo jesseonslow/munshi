@@ -3,8 +3,7 @@ id: temikei-mendikei-kamendikei-nq-4
 work_id: jsbras-17-temikei-mendikei-kamendikei-nq
 title: 'Temikei: mendikei: kamendikei. NQ 4'
 canonical_name: '_Temikei: mendikei: kamendikei._ NQ 4'
-type: article
-article_type: notes_and_queries
+type: publication
 authors:
 - W.E. Maxwell
 year: 1886
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-017-maxwell-sriramamalay-1886-3155502a26ab
 source_path: ../sources/jsbras-017-maxwell-sriramamalay-1886-3155502a26ab.md
 summarized: true
+publication_type: note
 ---
+
 # Temikei: mendikei: kamendikei. NQ 4
 
 W.E. Maxwell, a British colonial administrator serving as Assistant Resident in Perak, published in 1886 a verbatim transcription of a Malay oral romance called *Sri Rama*, taken down from the lips of a village story-teller named Mir Hassan of Kampar. The work documents a living oral tradition rooted in the Rāmāyaṇa, demonstrating how the great Hindu epic had been absorbed, transformed, and perpetuated through Malay popular performance. Maxwell's overarching thesis is that the profound influence of the Rāmāyaṇa and Mahābhārata across the Far East is best evidenced not in literary texts but in the "somewhat childish narrative of the Malay village-singer" (p. 88).

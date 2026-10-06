@@ -3,8 +3,7 @@ id: reprinted
 work_id: jmbras-42-1-p107
 title: Reprinted
 canonical_name: Reprinted
-type: article
-article_type: article
+type: publication
 authors:
 - C.A. Gibson-Hill
 year: 1969
@@ -18,6 +17,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: reprint
 ---
 
 # Reprinted

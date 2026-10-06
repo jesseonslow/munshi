@@ -3,8 +3,7 @@ id: some-land-dayak-words
 work_id: jmbras-2-1-p78
 title: Some Land-Dayak words
 canonical_name: Some Land-Dayak words
-type: article
-article_type: article
+type: publication
 authors:
 - G.B. Stooke
 year: 1924
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-090-stooke-landdayakwords-1924-1b778a242be0
 source_path: ../sources/jmalayanras-090-stooke-landdayakwords-1924-1b778a242be0.md
 summarized: true
+publication_type: note
 ---
+
 # Some Land-Dayak words
 
 "Some Land-Dayak Words" is a lexical list by G. Beresford Stooke, published in the *Journal of the Malayan Branch of the Royal Asiatic Society*, Vol. 2, No. 1 (1924), pp. 78–83.

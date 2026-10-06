@@ -3,8 +3,7 @@ id: the-history-of-the-creation-of-the-malacca-police
 work_id: jmbras-19-2-p251
 title: The history of the creation of the Malacca police
 canonical_name: The history of the creation of the Malacca police
-type: article
-article_type: article
+type: publication
 authors:
 - A.H. Dickinson
 year: 1941
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-140-dickinson-historycreationmalacca-1941-50c672f776b1
 source_path: ../sources/jmalayanras-140-dickinson-historycreationmalacca-1941-50c672f776b1/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The history of the creation of the Malacca police
 
 A.H. Dickinson, a senior Malayan civil servant and O.B.E. holder, published this article in 1941 tracing the origins and early development of the Malacca police force from its creation under British civil government in 1827 through the 1870s. The article argues that the Malacca police was born from the fusion of a Dutch-era Burgher Watch, the traditional penghulu system, and the practical demands of a frontier settlement plagued by piracy, and that its formative years were shaped as much by personal conflict between the first Superintendent and the Resident as by any coherent institutional design.

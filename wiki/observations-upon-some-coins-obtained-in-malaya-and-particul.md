@@ -5,8 +5,7 @@ title: Observations upon some coins obtained in Malaya and particularly from Tre
   Kelantan and southern Siam
 canonical_name: Observations upon some coins obtained in Malaya and particularly from
   Trengganu, Kelantan and southern Siam
-type: article
-article_type: article
+type: publication
 authors:
 - J.A.S. Bucknill
 year: 1923
@@ -32,7 +31,9 @@ keywords:
 source_mismatch: true
 source_doc: jmalayanras-087-bucknill-observationsuponcoins-1923-4a3054322ad0
 source_path: ../sources/index.md
+publication_type: journal_article
 ---
+
 # Observations upon some coins obtained in Malaya and particularly from Trengganu, Kelantan and southern Siam
 
 Sir J. A. S. Bucknill, President of the Numismatic Society of India and a former resident of the Malay Peninsula (1914–1920), published this descriptive catalogue of indigenous coinage from Trengganu, Kelantan, and the Siamese province of Patani in the first volume of the *Journal of the Malayan Branch of the Royal Asiatic Society* (1923). The article documents pewter, gold, copper, and silver issues from these states, drawing on specimens collected during Bucknill's official postings and on correspondence with local British advisers and Siamese authorities. Its overarching contribution is the first systematic attempt to correlate the scattered pewter "piti" coinage of the eastern seaboard with specific rulers, mints, and dates, while candidly acknowledging the limits of attribution in a field where find-spot rarely equals mint of origin.

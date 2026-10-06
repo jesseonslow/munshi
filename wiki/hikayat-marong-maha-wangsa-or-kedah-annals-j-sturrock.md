@@ -3,8 +3,7 @@ id: hikayat-marong-maha-wangsa-or-kedah-annals-j-sturrock
 work_id: jsbras-72-1-p37
 title: Hikayat Marong Maha Wangsa; or Kedah Annals. .J. Sturrock
 canonical_name: _Hikayat Marong Maha Wangsa;_ or Kedah Annals. .J. Sturrock
-type: article
-article_type: article
+type: publication
 authors:
 - A.J. Sturrock
 year: 1916
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-072-sturrock-hikayatmarongmaha-1916-fd4827c3891a
 source_path: ../sources/jsbras-072-sturrock-hikayatmarongmaha-1916-fd4827c3891a.md
 summarized: true
+publication_type: translation
 ---
+
 # Hikayat Marong Maha Wangsa; or Kedah Annals. .J. Sturrock
 
 A.J. Sturrock's 1916 edition of the *Hikayat Marong Maha Wangsa* (Kedah Annals) presents the foundational chronicle of Kedah's royal house, composed during the reign of Sultan Maadzam Shah in the late seventeenth century. The text constructs a mytho-historical genealogy linking Kedah's sultans to divine and giant ancestry, culminating in the kingdom's conversion to Islam through a Baghdad shaikh. Sturrock, a Straits Settlements civil servant, published the full Malay text with minimal editorial intervention, making this the first complete printed edition of the annals.

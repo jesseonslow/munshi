@@ -3,8 +3,7 @@ id: prehistoric-double-spouted-vessels-excavated-from-niah-caves
 work_id: jmbras-44-2-p35
 title: Prehistoric double-spouted vessels excavated from Niah Caves, Borneo
 canonical_name: Prehistoric double-spouted vessels excavated from Niah Caves, Borneo
-type: article
-article_type: article
+type: publication
 authors:
 - Tom Harrisson
 year: 1971
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-220-harrisson-prehistoricdoublespoutedvessels-1971-a9d87225fd0c
 source_path: ../sources/jmbras-220-harrisson-prehistoricdoublespoutedvessels-1971-a9d87225fd0c/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Prehistoric double-spouted vessels excavated from Niah Caves, Borneo
 
 Tom Harrisson's 1971 monograph presents the first comprehensive study of prehistoric double-spouted earthenware vessels excavated from the Niah Caves in north-west Sarawak, Borneo, a class of pottery that had been largely neglected in the literature despite its conspicuous presence in the cave deposits. Drawing on fifty vessels recovered across nine caves over a decade of excavation, Harrisson establishes a typology, traces a developmental sequence spanning roughly two millennia (c. 2000 B.C. to c. 1000 A.D.), and argues for a fundamentally local, indigenous origin rather than external diffusion.

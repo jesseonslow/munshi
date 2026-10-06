@@ -3,8 +3,7 @@ id: dato-john-m-gullick-jsm-19162012-obituary
 work_id: jmbras-85-1-p123
 title: Dato’ John M. Gullick JSM (1916–2012). Obituary
 canonical_name: Dato’ John M. Gullick JSM (1916–2012). Obituary
-type: article
-article_type: obituary
+type: publication
 authors:
 - H.S. Barlow
 year: 2012
@@ -20,8 +19,8 @@ status: stub
 published: false
 source_doc: jmbras-302-datojohnm-2012-3e51d54106fe
 source_path: ../sources/jmbras-302-datojohnm-2012-3e51d54106fe.md
+publication_type: obituary
 ---
-
 
 # Dato’ John M. Gullick JSM (1916–2012). Obituary
 

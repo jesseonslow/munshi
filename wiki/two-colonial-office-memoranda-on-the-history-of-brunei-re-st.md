@@ -4,8 +4,7 @@ work_id: jmbras-41-2-p83
 title: Two Colonial Office memoranda on the history of Brunei. R.E. Stubbs. .E. Brown
 canonical_name: Two Colonial Office memoranda on the history of Brunei. R.E. Stubbs.
   .E. Brown
-type: article
-article_type: article
+type: publication
 authors:
 - D.E. Brown
 - R.E. Stubbs
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-214-stubbs-twocolonialoffice-1968-254ddd273d62
 source_path: ../sources/jmbras-214-stubbs-twocolonialoffice-1968-254ddd273d62.md
 summarized: true
+publication_type: document
 ---
+
 # Two Colonial Office memoranda on the history of Brunei. R.E. Stubbs. .E. Brown
 
 Sir Reginald Edward Stubbs, writing as chief clerk of the Colonial Office in 1905 and again in 1911 after a special mission to Malaya, produced two memoranda that together constitute the most detailed contemporary British administrative account of Brunei's reduction from a major Bornean sultanate to a small protected enclave and the establishment of a British Resident there. Edited and annotated by D. E. Brown and published in the *Journal of the Malaysian Branch of the Royal Asiatic Society* in 1968, the memoranda argue that the Limbang crisis of the 1880s and 1890s was the pivotal event that ultimately compelled London to abandon its long-standing policy of allowing Brunei to be carved up between Sarawak and the British North Borneo Company in favour of direct protection.

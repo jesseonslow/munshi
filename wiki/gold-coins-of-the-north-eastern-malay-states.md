@@ -3,8 +3,7 @@ id: gold-coins-of-the-north-eastern-malay-states
 work_id: jmbras-17-1-p88
 title: Gold coins of the north-eastern Malay states
 canonical_name: Gold coins of the north-eastern Malay states
-type: article
-article_type: article
+type: publication
 authors:
 - A. Rentse
 year: 1939
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-134-rentse-goldcoinsnortheastern-1939-a98bf307e7ab
 source_path: ../sources/jmalayanras-134-rentse-goldcoinsnortheastern-1939-a98bf307e7ab.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Gold coins of the north-eastern Malay states
 
 Anker Rentse's 1939 article in the *Journal of the Malayan Branch of the Royal Asiatic Society* re-examines the so-called "kijang" gold coin of the north-eastern Malay states, arguing that the animal depicted is not a barking deer but a sacred bull—most likely the Nandi of Shiva—and that the coinage was introduced by Muslim Indian traders and subsequently minted locally in states such as Kelantan, Patani, and Kedah using indigenous gold.

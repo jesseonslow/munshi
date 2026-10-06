@@ -3,8 +3,7 @@ id: recent-archaeological-discoveries-in-malaya-1956
 work_id: jmbras-32-1-p205
 title: Recent archaeological discoveries in Malaya (1956
 canonical_name: Recent archaeological discoveries in Malaya (1956)
-type: article
-article_type: article
+type: publication
 authors:
 - G. de G. Sieveking
 year: 1959
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-185-sieveking-recentarchaeologicaldiscoveries-1959-ee47d22c4776
 source_path: ../sources/jmalayanras-185-sieveking-recentarchaeologicaldiscoveries-1959-ee47d22c4776.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Recent archaeological discoveries in Malaya (1956
 
 G. de G. Sieveking's 1959 summary of archaeological discoveries in Malaya for the first half of 1956 documents a range of prehistoric and historic-period finds across Perak, Perlis, Trengganu, and Johore, reflecting the active fieldwork programme of the Federation of Malaya Museums department and the University of Malaya in the years immediately preceding independence. The article serves as both a record of specific excavations and a working assessment of unresolved questions in Malayan prehistory, particularly the nature of Iron Age cist grave burials and the chronological relationship between Neolithic and later ceramic traditions.

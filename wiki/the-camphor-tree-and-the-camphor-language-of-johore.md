@@ -3,8 +3,7 @@ id: the-camphor-tree-and-the-camphor-language-of-johore
 work_id: jsbras-26-1-p35
 title: The camphor tree and the camphor language of Johore
 canonical_name: The camphor tree and the camphor language of Johore
-type: article
-article_type: article
+type: publication
 authors:
 - H.J. Kelsall
 - H. Lake
@@ -24,7 +23,9 @@ summarized: true
 source_mismatch: false
 source_doc: jsbras-026-lake-camphortreecamphor-1894-2a53af577439
 source_path: ../sources/jsbras-026-lake-camphortreecamphor-1894-2a53af577439.md
+publication_type: note
 ---
+
 # The camphor tree and the camphor language of Johore
 
 H. Lake and H. J. Kelsall, with a supplementary contribution by H. N. R., published this article in 1894 in the *Journal of the Straits Branch of the Royal Asiatic Society* (Vol. 26), documenting the botanical, commercial, and ethnolinguistic dimensions of Borneo camphor (*Dryobalanops aromatica*) in the Indau district of Johore. The article's central purpose is twofold: to record the first confirmed occurrence of the camphor tree on the Malay Peninsula and to preserve a vocabulary of the specialized "camphor language" (Pantang Kapur) used by the Jakun people during their jungle expeditions.

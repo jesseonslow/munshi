@@ -3,8 +3,7 @@ id: dyak-ceremonies-in-pregnancy-and-child-birth
 work_id: jsbras-46-1-p125
 title: Dyak ceremonies in pregnancy and child-birth
 canonical_name: Dyak ceremonies in pregnancy and child-birth
-type: article
-article_type: article
+type: publication
 authors:
 - W. Howell
 year: 1906
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-046-howell-dyakceremoniespregnancy-1906-830edc046a4e
 source_path: ../sources/jsbras-046-howell-dyakceremoniespregnancy-1906-830edc046a4e.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Dyak ceremonies in pregnancy and child-birth
 
 Rev. William Howell, a missionary working among the Iban (Dyak) people of Borneo, published this ethnographic account in the *Journal of the Straits Branch of the Royal Asiatic Society* in 1906. The article documents the elaborate system of taboos, rituals, and spiritual beliefs that governed pregnancy, delivery, and early infancy in Dyak society, presenting it as a coherent symbolic framework in which nearly every domestic action carried potential consequences for the unborn or newborn child.

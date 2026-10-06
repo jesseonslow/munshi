@@ -5,8 +5,7 @@ title: Ming China’s support for Sultan Mahmud of Melaka and its hostility towa
   the Portuguese after the fall of Melaka in 1511
 canonical_name: Ming China’s support for Sultan Mahmud of Melaka and its hostility
   towards the Portuguese after the fall of Melaka in 1511
-type: article
-article_type: article
+type: publication
 authors:
 - Cheah Boon Kheng
 year: 2012
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-303-kheng-mingchinassupport-2012-3d27e40f098b
 source_path: ../sources/jmbras-303-kheng-mingchinassupport-2012-3d27e40f098b/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Ming China’s support for Sultan Mahmud of Melaka and its hostility towards the Portuguese after the fall of Melaka in 1511
 
 Cheah Boon Kheng's 2012 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* (Vol. 85, Part 2) reconstructs the decade-long diplomatic crisis that followed the Portuguese conquest of Melaka in 1511, drawing on Ming dynasty court records, Portuguese travel accounts, and the *Sejarah Melayu* to demonstrate that Ming China's response was not the passive non-intervention often assumed but a sustained policy of moral condemnation, trade prohibition, and military engagement against Portuguese ships and personnel in Canton. The article challenges the widespread misconception that Sino-Melakan tributary relations lapsed after Admiral Zheng He's final voyage in 1433, showing instead that tribute missions continued unabatedly into the 1520s and that the Ming court treated the Sultan of Melaka as a legitimate vassal entitled to protection.

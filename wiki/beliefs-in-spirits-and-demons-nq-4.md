@@ -3,8 +3,7 @@ id: beliefs-in-spirits-and-demons-nq-4
 work_id: jsbras-17-beliefs-in-spirits-and-demons-
 title: Beliefs in spirits and demons. NQ 4
 canonical_name: Beliefs in spirits and demons. NQ 4
-type: article
-article_type: notes_and_queries
+type: publication
 authors:
 - W.E. Maxwell
 year: 1886
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-017-maxwell-sriramamalay-1886-3155502a26ab
 source_path: ../sources/jsbras-017-maxwell-sriramamalay-1886-3155502a26ab.md
 summarized: true
+publication_type: note
 ---
+
 # Beliefs in spirits and demons. NQ 4
 
 W.E. Maxwell published "Sri Rama: A Malay Fairy Tale, Founded on the Rāmāyaṇa" in the *Journal of the Straits Branch of the Royal Asiatic Society* in 1886, presenting a verbatim transcription of an oral Malay romance as performed by the village storyteller Mir Hassan of Kampar, Perak. The work documents the profound and enduring influence of the Indian epics—the Rāmāyaṇa and Mahābhārata—on Malay oral literary tradition, demonstrating how these narratives were adapted, localized, and transmitted through generations of professional *penglipur lara* ("soothers of cares") in the Straits Settlements and the Malay Peninsula.

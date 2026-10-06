@@ -3,8 +3,7 @@ id: the-singapore-chronicle-182437
 work_id: jmbras-26-1-p175
 title: The Singapore Chronicle, 1824–37
 canonical_name: The _Singapore Chronicle,_ 1824–37
-type: article
-article_type: article
+type: publication
 authors:
 - C.A. Gibson-Hill
 year: 1935
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-161-gibsonhill-singaporechronicle182437-1953-cc486f6d3bf4
 source_path: ../sources/jmalayanras-161-gibsonhill-singaporechronicle182437-1953-cc486f6d3bf4.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The Singapore Chronicle, 1824–37
 
 C.A. Gibson-Hill's 1953 article provides a meticulous institutional and prosopographical history of Singapore's first newspaper, the *Singapore Chronicle*, from its founding in January 1824 to its final cessation in September 1837. Drawing on East India Company letter-books, surviving copies of the paper, and local registers, Gibson-Hill demonstrates that the *Chronicle* was conceived not as an independent press but as a controlled commercial instrument of the Resident, and that its thirteen-year life was shaped by the tensions between editorial ambition and colonial administrative oversight, culminating in its commercial destruction by the rival *Singapore Free Press*.

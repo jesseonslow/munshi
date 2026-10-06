@@ -3,8 +3,7 @@ id: charm-nq-1-1718
 work_id: jsbras-14-charm-nq-1-1718
 title: 'Charm. NQ 1: 17–18'
 canonical_name: 'Charm. NQ 1: 17–18'
-type: article
-article_type: notes_and_queries
+type: publication
 authors:
 - N.B. Dennys
 year: 1884
@@ -18,6 +17,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: note
 ---
 
 # Charm. NQ 1: 17–18

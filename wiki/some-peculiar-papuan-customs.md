@@ -3,8 +3,7 @@ id: some-peculiar-papuan-customs
 work_id: jsbras-79-1-p15
 title: Some peculiar Papuan customs
 canonical_name: Some peculiar Papuan customs
-type: article
-article_type: article
+type: publication
 authors:
 - L.S. Gibbs
 year: 1918
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-079-gibbs-peculiarpapuancustoms-1918-c8c0fc915eb3
 source_path: ../sources/jsbras-079-gibbs-peculiarpapuancustoms-1918-c8c0fc915eb3/frontmatter.md
 summarized: true
+publication_type: note
 ---
+
 # Some peculiar Papuan customs
 
 This short note by Miss L. S. Gibbs documents three ethnographic observations made during phytogeographical fieldwork in the Arfak Mountains of Dutch New Guinea in 1913, supplemented by two appendices offering cross-cultural parallels.

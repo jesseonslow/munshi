@@ -3,8 +3,7 @@ id: coconut-beetles
 work_id: jsbras-22-1-p429
 title: Coconut beetles
 canonical_name: Coconut beetles
-type: article
-article_type: article
+type: publication
 authors:
 - Hale A
 year: 1890
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-022-coconutbeetles-1890-6ceefd4fb64f
 source_path: ../sources/jsbras-022-coconutbeetles-1890-6ceefd4fb64f.md
 summarized: true
+publication_type: note
 ---
+
 # Coconut beetles
 
 A brief occasional note by Mr. Hale of Tampin recording Malay names, culinary uses, and folk beliefs associated with the coconut beetle, published in the *Journal of the Straits Branch of the Royal Asiatic Society*, Vol. 22 (1890).

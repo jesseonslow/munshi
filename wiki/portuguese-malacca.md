@@ -3,8 +3,7 @@ id: portuguese-malacca
 work_id: jmbras-12-2-p1
 title: Portuguese Malacca
 canonical_name: Portuguese Malacca
-type: article
-article_type: article
+type: place
 authors:
 - R. Cardon
 year: 1934

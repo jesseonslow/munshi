@@ -3,8 +3,7 @@ id: notes-on-the-rainfall-of-singapore
 work_id: jsbras-7-1-p31
 title: Notes on the rainfall of Singapore
 canonical_name: Notes on the rainfall of Singapore
-type: article
-article_type: article
+type: publication
 authors:
 - J.J.L. Wheatley
 year: 1881
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-007-wheatley-notesrainfallsingapore-1881-6ed65658711e
 source_path: ../sources/jsbras-007-wheatley-notesrainfallsingapore-1881-6ed65658711e.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Notes on the rainfall of Singapore
 
 J.J.L. Wheatley published "Notes on the Rainfall of Singapore" in 1881 in the Journal of the Straits Branch of the Royal Asiatic Society (Vol. 7), compiling scattered meteorological records spanning 1820 to 1880 to demonstrate that Singapore's rainfall is governed by its geographical position and monsoonal circulation rather than by the extent of its forest cover. The article's central thesis is that the popular alarm over deforestation's effect on local rainfall is unfounded, as the available data show no material diminution over the preceding four decades.

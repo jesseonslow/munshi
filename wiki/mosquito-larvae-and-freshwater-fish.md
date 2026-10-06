@@ -3,8 +3,7 @@ id: mosquito-larvae-and-freshwater-fish
 work_id: jsbras-62-1-p26
 title: Mosquito larvae and freshwater fish
 canonical_name: Mosquito larvae and freshwater fish
-type: article
-article_type: article
+type: publication
 authors:
 - Hanitsch R
 year: 1912
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-062-hanitsch-mosquitolarvfreshwater-1912-316ef7f5ae69
 source_path: ../sources/jsbras-062-hanitsch-mosquitolarvfreshwater-1912-316ef7f5ae69.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Mosquito larvae and freshwater fish
 
 Dr. R. Hanitsch, Director of the Raffles Museum and Library in Singapore, published this government-commissioned report in 1912 investigating whether indigenous freshwater fish—particularly the small *Haplochilus panchax* (Ikan mata lalat)—could serve as a biological control agent against mosquito larvae and malaria, in the same manner as the "Millions" fish (*Girardinus poeciloides*) was believed to do in Barbados. The study combined field surveys of fish populations in Singapore's ditches and pools with direct feeding experiments to assess which species consumed mosquito larvae and to what degree.

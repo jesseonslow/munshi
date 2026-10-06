@@ -3,8 +3,7 @@ id: bencoolen
 work_id: jmbras-16-1-p127
 title: Bencoolen
 canonical_name: Bencoolen
-type: article
-article_type: article
+type: place
 authors:
 - R.J. Wilkinson
 year: 1938
@@ -22,6 +21,7 @@ source_doc: jmalayanras-131-wilkinson-bencoolen-1938-dd3bf57cbedb
 source_path: ../sources/jmalayanras-131-wilkinson-bencoolen-1938-dd3bf57cbedb.md
 summarized: true
 ---
+
 # Bencoolen
 
 R.J. Wilkinson's 1938 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* surveys the 140-year history of the British East India Company's settlement at Bencoolen (1685–1825), arguing that the station was a persistent financial and political failure that nonetheless produced a vivid record of early colonial life in Sumatra.

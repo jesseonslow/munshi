@@ -3,8 +3,7 @@ id: some-notes-on-keris-measurements
 work_id: jmbras-20-1-p45
 title: Some notes on keris measurements
 canonical_name: Some notes on _keris_ measurements
-type: article
-article_type: article
+type: publication
 authors:
 - G.M. Laidlaw
 year: 1947
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-142-laidlaw-noteskrismeasurements-1947-8d2d3169f413
 source_path: ../sources/jmalayanras-142-laidlaw-noteskrismeasurements-1947-8d2d3169f413.md
 summarized: true
+publication_type: note
 ---
+
 # Some notes on keris measurements
 
 A brief note by the late G. M. Laidlaw (d. 1905), published posthumously in 1947, describing two traditional Malay systems for measuring keris blades and recording associated blacksmith folklore from Kelantan.

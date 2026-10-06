@@ -3,8 +3,7 @@ id: an-account-of-de-siqueiras-voyage-to-malacca
 work_id: jsbras-57-1-p193
 title: An account of De Siqueira’s voyage to Malacca
 canonical_name: An account of De Siqueira’s voyage to Malacca
-type: article
-article_type: article
+type: publication
 authors:
 - W.G. Maxwell
 year: 1911
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-057-maxwell-accountdesiqueiras-1911-ec7d8ad945dc
 source_path: ../sources/jsbras-057-maxwell-accountdesiqueiras-1911-ec7d8ad945dc.md
 summarized: true
+publication_type: translation
 ---
+
 # An account of De Siqueira’s voyage to Malacca
 
 This short note by W. George Maxwell presents a translation of a British Museum manuscript (Additional M.S. 20,902) containing two brief accounts of Diogo Lopez de Siqueira's 1508 voyage of discovery to Malacca.

@@ -3,8 +3,7 @@ id: malayenglish-dictionaries
 work_id: jsbras-2-1-p238
 title: Malay–English dictionaries
 canonical_name: Malay–English dictionaries
-type: article
-article_type: article
+type: publication
 authors:
 - L.C. Biggs
 year: 1878
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-002-b-malayenglishdictionaries-1878-2a65cc32589d
 source_path: ../sources/jsbras-002-b-malayenglishdictionaries-1878-2a65cc32589d.md
 summarized: true
+publication_type: note
 ---
+
 # Malay–English dictionaries
 
 A brief note by L.C. Biggs (L.C.B.) arguing for the production of a new Malay-English dictionary, published in the Journal of the Straits Branch of the Royal Asiatic Society, Vol. 2 (1878), pp. 238–239.

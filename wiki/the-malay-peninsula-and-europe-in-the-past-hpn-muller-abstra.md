@@ -5,8 +5,7 @@ title: The Malay Peninsula and Europe in the past. H.P.N. Muller Abstracted from
   Dutch
 canonical_name: The Malay Peninsula and Europe in the past. H.P.N. Muller Abstracted
   from the Dutch
-type: article
-article_type: article
+type: publication
 authors:
 - P.C. Hoynck van Papendrecht
 - H.P.N. Muller
@@ -24,7 +23,9 @@ published: false
 source_doc: jsbras-067-papendrecht-malaypeninsulaeurope-1914-d0b9cc7adff4
 source_path: ../sources/jsbras-067-papendrecht-malaypeninsulaeurope-1914-d0b9cc7adff4.md
 summarized: true
+publication_type: translation
 ---
+
 # The Malay Peninsula and Europe in the past. H.P.N. Muller Abstracted from the Dutch
 
 Dr. Hendrik P. N. Muller, a Dutch historian of Asian affairs, produced this comprehensive survey of European colonial relations with the Malay Peninsula from 1511 to the late nineteenth century, abstracted into English by P. C. Hoynck van Papendrecht and published in the *Journal of the Straits Branch of the Royal Asiatic Society* in 1914. The work traces the successive Portuguese, Dutch, and British phases of European engagement with the Straits region, arguing that Malacca's strategic value lay not in local trade profits but in its command of the maritime highway to the Archipelago and China—a position ultimately ceded to Singapore under the Treaty of London (1824).

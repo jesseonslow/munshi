@@ -5,8 +5,7 @@ title: Tunku Badlishah Sultan Abdul Hamid Halim Shah, a postscript to the Bangko
   personalised relations
 canonical_name: Tunku Badlishah Sultan Abdul Hamid Halim Shah, a postscript to the
   BangkokKedah personalised relations
-type: article
-article_type: article
+type: publication
 authors:
 - Kobkua Suwannathat-Pian
 year: 2020
@@ -31,7 +30,9 @@ keywords:
 - Siam
 - Onn bin Jaafar
 - Tunku Abdul Rahman Putra
+publication_type: journal_article
 ---
+
 # Tunku Badlishah Sultan Abdul Hamid Halim Shah, a postscript to the BangkokKedah personalised relations
 
 ## Abstract

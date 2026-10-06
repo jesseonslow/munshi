@@ -3,8 +3,7 @@ id: the-botanists-of-penang
 work_id: jsbras-25-1-p163
 title: The botanists of Penang
 canonical_name: The botanists of Penang
-type: article
-article_type: article
+type: publication
 authors:
 - H.N. Ridley
 year: 1894
@@ -18,6 +17,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: note
 ---
 
 # The botanists of Penang

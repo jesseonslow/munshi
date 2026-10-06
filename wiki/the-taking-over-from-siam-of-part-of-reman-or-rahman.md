@@ -3,8 +3,7 @@ id: the-taking-over-from-siam-of-part-of-reman-or-rahman
 work_id: jsbras-54-1-p147
 title: The taking over from Siam of part of Reman or Rahman
 canonical_name: The taking over from Siam of part of Reman or Rahman
-type: article
-article_type: article
+type: publication
 authors:
 - E.W. Birch
 year: 1910
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-054-birch-takingsiampart-1910-d42709a878a1
 source_path: ../sources/jsbras-054-birch-takingsiampart-1910-d42709a878a1.md
 summarized: true
+publication_type: document
 ---
+
 # The taking over from Siam of part of Reman or Rahman
 
 E. W. Birch, a senior British colonial administrator (C.M.G.) serving in the Federated Malay States, published this first-person account in 1910 of the physical handover of the Reman (Rahman) district from Siamese suzerainty to British protection in July 1909, an operation conducted under the Anglo-Siamese Treaty of that year. The article functions as an official dispatch and travel narrative documenting the ceremonial transfer at Klian Intan, the settlement of the boundary line, and the immediate administrative challenges confronting the new Perak territory.

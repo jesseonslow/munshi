@@ -4,8 +4,7 @@ work_id: jsbras-83-1-p153
 title: Chinese marriages, as regarded by the Supreme Court of the Straits Settlements
 canonical_name: Chinese marriages, as regarded by the Supreme Court of the Straits
   Settlements
-type: article
-article_type: article
+type: publication
 authors:
 - R. Braddell
 year: 1921
@@ -22,7 +21,9 @@ published: false
 source_doc: jsbras-083-braddell-chinesemarriagesregarded-1921-f08c151426a6
 source_path: ../sources/jsbras-083-braddell-chinesemarriagesregarded-1921-f08c151426a6.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Chinese marriages, as regarded by the Supreme Court of the Straits Settlements
 
 Roland St. John Braddell, a Penang barrister who appeared as counsel for the secondary-wife claimants in several of the cases discussed, published this article in the *Journal of the Straits Branch of the Royal Asiatic Society* in 1921. It traces roughly a century of Supreme Court jurisprudence in the Straits Settlements on the problem of applying English intestacy statutes—drafted on the assumption of monogamy and English-style legitimacy—to the estates of Chinese decedents who maintained principal wives (*t'sai*) and secondary wives (*t'sip*). Braddell's overarching thesis is that the Court has produced a hybrid legal framework, neither purely English nor purely Chinese, which recognises *t'sip* as lawful spouses entitled to equal shares of an intestate's estate, and that this judicial creation, however imperfect, achieves a degree of justice that legislation could not replicate.

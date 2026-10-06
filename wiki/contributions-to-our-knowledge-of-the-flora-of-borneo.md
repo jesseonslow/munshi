@@ -3,8 +3,7 @@ id: contributions-to-our-knowledge-of-the-flora-of-borneo
 work_id: jsbras-76-1-p75
 title: Contributions to our knowledge of the flora of Borneo
 canonical_name: Contributions to our knowledge of the flora of Borneo
-type: article
-article_type: article
+type: publication
 authors:
 - E.D. Merrill
 year: 1917
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-076-merrill-contributionsknowledgeflora-1917-2c542b788f8c
 source_path: ../sources/jsbras-076-merrill-contributionsknowledgeflora-1917-2c542b788f8c.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Contributions to our knowledge of the flora of Borneo
 
 E.D. Merrill published this taxonomic contribution in 1917, drawing on recent herbarium collections from British North Borneo, Sarawak, and Dutch Borneo to document the island's poorly known flora. The article describes thirty-seven new species, a new genus, a new section, and numerous new records, with Mount Kinabalu serving as the principal source of novelties.

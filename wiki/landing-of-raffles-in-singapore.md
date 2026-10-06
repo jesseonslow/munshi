@@ -3,8 +3,7 @@ id: landing-of-raffles-in-singapore
 work_id: jsbras-12-1-p282
 title: Landing of Raffles in Singapore
 canonical_name: Landing of Raffles in Singapore
-type: article
-article_type: article
+type: publication
 authors:
 - W.H. Read
 year: 1883
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-012-r-landingrafflessingapore-1883-03a651b49e03
 source_path: ../sources/jsbras-012-r-landingrafflessingapore-1883-03a651b49e03.md
 summarized: true
+publication_type: note
 ---
+
 # Landing of Raffles in Singapore
 
 A brief miscellaneous note by W.H. Read questioning details of an earlier eyewitness account of Raffles's landing at Singapore, published in JSBRAS Vol. 12 (1883).

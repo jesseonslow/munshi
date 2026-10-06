@@ -3,8 +3,7 @@ id: the-selangor-raja-school
 work_id: jmbras-41-1-p183
 title: The Selangor Raja School
 canonical_name: The Selangor Raja School
-type: article
-article_type: article
+type: publication
 authors:
 - R. Stevenson
 year: 1968
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-213-stevenson-selangorrajaschool-1968-04dce6b5be27
 source_path: ../sources/jmbras-213-stevenson-selangorrajaschool-1968-04dce6b5be27.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The Selangor Raja School
 
 This article by Rex Stevenson, published in the *Journal of the Malaysian Branch of the Royal Asiatic Society* (Vol. 41, No. 1, 1968), is a historical account of the Selangor Raja School (pp. 183–192).

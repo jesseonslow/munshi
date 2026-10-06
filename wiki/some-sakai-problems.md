@@ -3,8 +3,7 @@ id: some-sakai-problems
 work_id: jmbras-17-1-p131
 title: Some “Sakai” problems
 canonical_name: Some “Sakai” problems
-type: article
-article_type: article
+type: publication
 authors:
 - R.J. Wilkinson
 year: 1939
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-134-wilkinson-sakaiproblems-1939-47821142557b
 source_path: ../sources/jmalayanras-134-wilkinson-sakaiproblems-1939-47821142557b.md
 summarized: true
+publication_type: note
 ---
+
 # Some “Sakai” problems
 
 R.J. Wilkinson, a senior colonial administrator and Director of the F.M.S. Museums, published this brief note in 1939 to address the unresolved question of the "Eastern Sakai" (or "Benom Sakai") identified in the 1911 census of the Federated Malay States. He argues that the 1,707 individuals enumerated under this dialect label represent a real but extremely elusive aboriginal community rather than a statistical artefact, while simultaneously acknowledging his own responsibility for the confusion that led a subsequent researcher on a fruitless expedition to Gunong Benom.

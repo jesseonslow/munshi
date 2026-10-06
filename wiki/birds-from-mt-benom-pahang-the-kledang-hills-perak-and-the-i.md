@@ -7,8 +7,7 @@ title: Birds from Mt. Benom, Pahang, the Kledang Hills, Perak, and the islands o
 canonical_name: Birds from Mt. Benom, Pahang, the Kledang Hills, Perak, and the islands
   of Penang, Tioman and Aor. F.N. Chasen and C.B. Kloss. Records of the Raffles Museum,
   No. 34
-type: article
-article_type: article
+type: publication
 authors:
 - F.N. Chasen
 - C.B. Kloss
@@ -26,7 +25,9 @@ published: false
 source_doc: jmalayanras-104-chasen-birdsmtbenom-1928-542c6ca52aa4
 source_path: ../sources/jmalayanras-104-chasen-birdsmtbenom-1928-542c6ca52aa4.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Birds from Mt. Benom, Pahang, the Kledang Hills, Perak, and the islands of Penang, Tioman and Aor. F.N. Chasen and C.B. Kloss. Records of the Raffles Museum, No. 34
 
 F. N. Chasen and C. Boden Kloss published this ornithological list in 1928 as Record No. 34 of the Raffles Museum, reporting bird specimens collected from five localities across the Malay Peninsula: Mt. Benom (Pahang), the Kledang Hills (Perak), Penang Island, and the offshore islands of Tioman and Aor. The paper documents the first systematic avifaunal surveys of several of these sites and identifies insular differentiation in several species on the Tioman Archipelago.

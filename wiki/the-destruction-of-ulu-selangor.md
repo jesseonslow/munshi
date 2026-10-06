@@ -3,8 +3,7 @@ id: the-destruction-of-ulu-selangor
 work_id: jmbras-29-1-p183
 title: The destruction of Ulu Selangor
 canonical_name: The destruction of Ulu Selangor
-type: article
-article_type: article
+type: publication
 authors:
 - H.P. Bryson
 year: 1956
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-173-bryson-destructionuluselangor-1956-c5afd8c89bd2
 source_path: ../sources/jmalayanras-173-bryson-destructionuluselangor-1956-c5afd8c89bd2.md
 summarized: true
+publication_type: note
 ---
+
 # The destruction of Ulu Selangor
 
 This short note by H. P. Bryson, M.C., documents the destruction of the village of Ulu Selangor by flood and its subsequent rebuilding as Kuala Kubu.

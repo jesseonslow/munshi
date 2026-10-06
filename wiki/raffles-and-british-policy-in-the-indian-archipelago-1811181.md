@@ -3,8 +3,7 @@ id: raffles-and-british-policy-in-the-indian-archipelago-1811181
 work_id: jmbras-27-1-p84
 title: Raffles and British policy in the Indian Archipelago, 1811–1816
 canonical_name: Raffles and British policy in the Indian Archipelago, 1811–1816
-type: article
-article_type: article
+type: publication
 authors:
 - J.S. Bastin
 year: 1954
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-165-bastin-rafflesbritishpolicy-1954-e0c3210b6931
 source_path: ../sources/jmalayanras-165-bastin-rafflesbritishpolicy-1954-e0c3210b6931.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Raffles and British policy in the Indian Archipelago, 1811–1816
 
 John Bastin's 1954 article examines Raffles's attempt during the British occupation of Java (1811–1816) to construct a permanent British sphere of influence across the Indian Archipelago through a system of subsidiary alliances with native chieftains. Bastin argues that this forward policy was consistently rejected by both the East India Company's Directors and the Supreme Government in Bengal, whose commercial priorities lay in the China trade rather than in the Eastern Islands, and that Raffles's Archipelago schemes were ultimately a failure that found less support at home than his later founding of Singapore.

@@ -5,8 +5,7 @@ title: Constitutional practice in Brunei as highlighted in the 1955 memorandum o
   R.H. Hickling
 canonical_name: Constitutional practice in Brunei as highlighted in the 1955 memorandum
   of R.H. Hickling
-type: article
-article_type: article
+type: publication
 authors:
 - B.A. Hussainmiya
 year: 2006
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-291-hussainmiya-constitutionalpracticebrunei-2006-52883e6bf6d3
 source_path: ../sources/jmbras-291-hussainmiya-constitutionalpracticebrunei-2006-52883e6bf6d3/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Constitutional practice in Brunei as highlighted in the 1955 memorandum of R.H. Hickling
 
 B.A. Hussainmiya's 2006 article in *JMBRAS* examines the 1955 memorandum of R.H. Hickling, a British legal officer who visited Brunei in late 1954 to assess the Sultanate's constitutional status ahead of the introduction of its first written Constitution. Set against the backdrop of Sultan Omar Ali Saifuddin III's determined bid to renegotiate the 1905/6 Supplementary Agreement and the rising nationalist pressure of the Partai Ra'ayat Brunei, the article argues that Hickling's report, though less consequential than McArthur's 1904 Report, shaped the Colonial Office's cautious approach by cautioning against imposing a Western-style constitution by Order-in-Council under the Foreign Jurisdiction Act.

@@ -3,8 +3,7 @@ id: notes-on-the-bajaus-and-other-coastal-tribes-of-north-borneo
 work_id: jmbras-25-1-p48
 title: Notes on the Bajaus and other coastal tribes of North Borneo
 canonical_name: Notes on the Bajaus and other coastal tribes of North Borneo
-type: article
-article_type: article
+type: publication
 authors:
 - I.H.N. Evans
 year: 1952
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-158-evans-notesbajauscoastal-1952-0f03c690540c
 source_path: ../sources/jmalayanras-158-evans-notesbajauscoastal-1952-0f03c690540c.md
 summarized: true
+publication_type: note
 ---
+
 # Notes on the Bajaus and other coastal tribes of North Borneo
 
 I.H.N. Evans, a colonial administrator in British North Borneo, published this ethnographic note in 1952 to examine the origins and internal divisions of the Bajau people of the west coast, arguing that the settled Bajaus are descendants of Sea Gypsy (Samah) groups who migrated from the southern Philippines rather than the Johore origin they themselves claim.

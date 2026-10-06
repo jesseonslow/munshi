@@ -3,8 +3,7 @@ id: pythons-egg
 work_id: jsbras-9-1-p161
 title: Python’s egg
 canonical_name: Python’s egg
-type: article
-article_type: article
+type: publication
 authors:
 - N.B. Dennys
 year: 1882
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-009-dennys-naturalhistorynotes-1882-7dee44ea6627
 source_path: ../sources/jsbras-009-dennys-naturalhistorynotes-1882-7dee44ea6627.md
 summarized: true
+publication_type: note
 ---
+
 # Python’s egg
 
 A short natural history note by N. B. Dennys, published in JSBRAS Vol. 9 (1882), comprising four illustrated items on reptiles, a crustacean, and a flowering plant observed in Singapore.

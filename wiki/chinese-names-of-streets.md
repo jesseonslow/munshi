@@ -3,8 +3,7 @@ id: chinese-names-of-streets
 work_id: jsbras-45-1-p287
 title: Chinese names of streets
 canonical_name: Chinese names of streets
-type: article
-article_type: article
+type: publication
 authors:
 - A. Knight
 year: 1906
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-045-knight-chinesenamesstreets-1906-d780f1c5e443
 source_path: ../sources/jsbras-045-knight-chinesenamesstreets-1906-d780f1c5e443.md
 summarized: true
+publication_type: note
 ---
+
 # Chinese names of streets
 
 A brief note by M. A. Knight providing annotations and corrections to Mr. Firmstone's list of Chinese street names for Singapore and Malacca, originally published in Journal No. 42.

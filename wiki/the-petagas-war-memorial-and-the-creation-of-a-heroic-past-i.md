@@ -3,8 +3,7 @@ id: the-petagas-war-memorial-and-the-creation-of-a-heroic-past-i
 work_id: jmbras-80-2-p19
 title: The Petagas war memorial and the creation of a heroic past in Sabah
 canonical_name: The Petagas war memorial and the creation of a heroic past in Sabah
-type: article
-article_type: article
+type: publication
 authors:
 - Danny Wong Tze Ken
 year: 2007
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-293-ken-petagaswarmemorial-2007-812b5ad5a27d
 source_path: ../sources/jmbras-293-ken-petagaswarmemorial-2007-812b5ad5a27d/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The Petagas war memorial and the creation of a heroic past in Sabah
 
 Danny Wong Tze Ken (2007) examines the Petagas War Memorial in Sabah and the construction of a heroic narrative around the 1943 Jesselton Uprising against the Japanese, arguing that the memorial and its associated commemorative practices served as a vehicle for creating a multi-ethnic heroic past that met the political needs of both the colonial administration and the post-independence state.

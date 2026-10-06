@@ -7,8 +7,7 @@ title: Record of the ceremonial followed at the death and funeral of Yang Di-Per
 canonical_name: Record of the ceremonial followed at the death and funeral of Yang
   Di-Pertuan Besar, Tuanku Muhammad, G.C.M.G., K.C.V.O., ibni al-Marhum Yam Tuan Antah,
   and at the proclamation of his son Tunku Abdu’l Rahman as his successor
-type: article
-article_type: article
+type: publication
 authors:
 - I.W. Blelloch
 - H.P. Bryson
@@ -26,7 +25,9 @@ published: false
 source_doc: jmalayanras-126-bryson-recordceremonialfollowed-1936-b5ee144c0883
 source_path: ../sources/jmalayanras-126-bryson-recordceremonialfollowed-1936-b5ee144c0883/jmalayanras-126-bryson-recordceremonialfollowed-1936-b5ee144c0883.md
 summarized: true
+publication_type: document
 ---
+
 # Record of the ceremonial followed at the death and funeral of Yang Di-Pertuan Besar, Tuanku Muhammad, G.C.M.G., K.C.V.O., ibni al-Marhum Yam Tuan Antah, and at the proclamation of his son Tunku Abdu’l Rahman as his successor
 
 Bryson and Blelloch, both members of the Malayan Civil Service, compiled this detailed record of the death, funeral, and succession ceremony of Tuanku Muhammad, Yang Di-Pertuan Besar of Negri Sembilan, which took place on 1 and 3 August 1933. Published in 1936, the document serves as a contemporaneous administrative account of the ceremonial protocols governing the transition of rulership in Negri Sembilan, including the election of his son Tunku Abdulrahman as successor.

@@ -3,8 +3,7 @@ id: tusut
 work_id: jmbras-50-1-p1
 title: Tusut
 canonical_name: Tusut
-type: article
-article_type: article
+type: publication
 authors:
 - B. Sandin
 year: 1977
@@ -21,6 +20,7 @@ published: false
 source_doc: jsbras-050-proceedingsannualgeneral-1908-18abdce506d3
 source_path: ../sources/jsbras-050-proceedingsannualgeneral-1908-18abdce506d3.md
 summarized: true
+publication_type: document
 ---
 
 # Tusut

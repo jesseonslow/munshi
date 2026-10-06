@@ -5,8 +5,7 @@ title: Federated Malay States Museum, Kuala Lumpur, 21 September 1945, Office of
   Services, India Burma Theater. Facsimile reprint
 canonical_name: Federated Malay States Museum, Kuala Lumpur, 21 September 1945, Office
   of Strategic Services, India Burma Theater. Facsimile reprint
-type: article
-article_type: article
+type: publication
 authors:
 - Anon (and unidentifiable initials)
 year: 2021
@@ -22,6 +21,7 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+publication_type: document
 ---
 
 # Federated Malay States Museum, Kuala Lumpur, 21 September 1945, Office of Strategic Services, India Burma Theater. Facsimile reprint

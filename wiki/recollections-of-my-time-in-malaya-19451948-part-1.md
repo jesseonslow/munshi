@@ -3,8 +3,7 @@ id: recollections-of-my-time-in-malaya-19451948-part-1
 work_id: jmbras-86-2-p59
 title: Recollections of my time in Malaya (1945–1948) Part 1
 canonical_name: Recollections of my time in Malaya (1945–1948) Part 1
-type: article
-article_type: article
+type: publication
 authors:
 - J.M. Gullick
 year: 2013
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-305-gullick-recollectionstimemalaya-2013-1c7ba709c8cb
 source_path: ../sources/jmbras-305-gullick-recollectionstimemalaya-2013-1c7ba709c8cb.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Recollections of my time in Malaya (1945–1948) Part 1
 
 J.M. Gullick, a former Malayan Civil Service officer who served in Negri Sembilan from 1945 to 1956, published this revised memoir in 2013, offering a first-hand account of the British Military Administration (BMA) and the immediate post-surrender period in the Malay Peninsula. The overarching argument is that the BMA was a deliberately limited instrument of military control—never intended to replicate civil government—and that the precarious authority it established in the weeks following the Japanese surrender was shaped by the MPAJA's ambiguous position, inter-communal violence, and the near-total collapse of Japanese administrative and economic structures.

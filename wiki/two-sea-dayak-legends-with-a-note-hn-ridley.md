@@ -3,8 +3,7 @@ id: two-sea-dayak-legends-with-a-note-hn-ridley
 work_id: jsbras-41-1-p1
 title: Two Sea-Dayak legends. {With a note H.N. Ridley
 canonical_name: Two Sea-Dayak legends. {With a note H.N. Ridley}
-type: article
-article_type: article
+type: publication
 authors:
 - E.H. Gomes
 year: 1904
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: true
 source_doc: jsbras-041-gomes-twoseadyaklegends-1904-1eb86d74392b
 source_path: ../sources/jsbras-041-gomes-twoseadyaklegends-1904-1eb86d74392b.md
+publication_type: journal_article
 ---
+
 # Two Sea-Dayak legends. {With a note H.N. Ridley
 
 Rev. Edwin H. Gomes published these two Sea-Dyak legends in the *Journal of the Straits Branch of the Royal Asiatic Society* in 1904, presenting oral traditions collected among the Sea-Dyak people of Borneo that function as aetiological myths explaining core cultural practices. The overarching thesis is that these narratives—believed by the Dyaks to be historically true rather than merely fabulous—encode the origins of paddy cultivation, bird-omen divination, and the taboo against consuming unclaimed jungle fruit. A brief note by H. N. Ridley appends the text, raising questions about the tiger motif's possible Malay provenance.

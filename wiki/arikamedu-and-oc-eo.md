@@ -3,8 +3,7 @@ id: arikamedu-and-oc-eo
 work_id: jmbras-24-3-p154
 title: Arikamedu and Oc-eo
 canonical_name: Arikamedu and Oc-eo
-type: article
-article_type: article
+type: publication
 authors:
 - R. Braddell
 year: 1951
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-156-braddell-arikameduoco-1951-fa1e67940773
 source_path: ../sources/jmalayanras-156-braddell-arikameduoco-1951-fa1e67940773.md
 summarized: true
+publication_type: note
 ---
+
 # Arikamedu and Oc-eo
 
 This short note by Roland Braddell, published in the *Journal of the Malayan Branch of the Royal Asiatic Society* (Vol. 24, No. 3, 1951, pp. 154–157), addresses the identification of the ancient port **Oc-èo** — named in the *Periplus of the Erythraean Sea* — with the archaeological site of **Arikamedu** on the Coromandel Coast of India.

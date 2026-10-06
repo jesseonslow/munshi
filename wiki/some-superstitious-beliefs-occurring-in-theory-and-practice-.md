@@ -4,8 +4,7 @@ work_id: jsbras-65-1-p29
 title: Some superstitious beliefs occurring in theory and practice of Malay medicine
 canonical_name: Some superstitious beliefs occurring in theory and practice of Malay
   medicine
-type: article
-article_type: article
+type: publication
 authors:
 - J.D. Gimlette
 year: 1913
@@ -22,7 +21,9 @@ published: false
 source_doc: jsbras-065-gimlette-superstitiousbeliefsoccurring-1913-1e9a004013a7
 source_path: ../sources/jsbras-065-gimlette-superstitiousbeliefsoccurring-1913-1e9a004013a7.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Some superstitious beliefs occurring in theory and practice of Malay medicine
 
 John D. Gimlette, Residency Surgeon of Kelantan, published this ethnographic-medical survey in 1913, drawing on his direct clinical encounters with Malay practitioners and patients in the Kelantan interior. The article documents the intersection of superstition and therapeutic practice among the "bomor" (medicine-man) class, arguing that many ostensibly magical prescriptions and quarantine customs possess a rational epidemiological or pharmacological logic that colonial medicine had yet to fully appreciate.

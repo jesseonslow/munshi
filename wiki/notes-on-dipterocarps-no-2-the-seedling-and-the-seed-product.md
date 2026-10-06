@@ -5,8 +5,7 @@ title: Notes on Dipterocarps. {No. 2} The seedling and the seed-production in so
   species of Shorea
 canonical_name: Notes on Dipterocarps. {No. 2} The seedling and the seed-production
   in some species of _Shorea._
-type: article
-article_type: article
+type: publication
 authors:
 - I.H. Burkill
 year: 1917
@@ -23,7 +22,9 @@ published: false
 source_doc: jsbras-076-burkill-notesdipterocarpsno-1917-2337705c6c38
 source_path: ../sources/jsbras-076-burkill-notesdipterocarpsno-1917-2337705c6c38.md
 summarized: true
+publication_type: note
 ---
+
 # Notes on Dipterocarps. {No. 2} The seedling and the seed-production in some species of Shorea
 
 This note by I. H. Burkill describes the embryology, germination, and early seedling development of several *Shorea* species, with observations on flowering and seed-production cycles recorded at the Singapore Botanic Gardens (p. 161).

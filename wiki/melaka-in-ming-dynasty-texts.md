@@ -3,8 +3,7 @@ id: melaka-in-ming-dynasty-texts
 work_id: jmbras-70-1-p31
 title: Melaka in Ming dynasty texts
 canonical_name: Melaka in Ming dynasty texts
-type: article
-article_type: article
+type: publication
 authors:
 - Geoff Wade
 year: 1997
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-272-wade-melakamingdynasty-1997-bc9ae5755d84
 source_path: ../sources/jmbras-272-wade-melakamingdynasty-1997-bc9ae5755d84/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Melaka in Ming dynasty texts
 
 Geoff Wade's 1997 article surveys the full corpus of Ming dynasty Chinese texts bearing on the history of the Melaka polity from its emergence in the early fifteenth century through the Portuguese conquest and its aftermath. The overarching thesis is that the *Ming Shi-lu* (Ming Imperial Annals) and related Chinese sources constitute the most chronologically precise and detailed contemporary evidence for fifteenth-century Melaka, and that their systematic exploitation can correct, supplement, and challenge narratives derived from the *Sejarah Melayu* and Portuguese accounts.

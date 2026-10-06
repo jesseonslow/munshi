@@ -3,8 +3,7 @@ id: kelantan-and-trengganu-19091939
 work_id: jmbras-38-1-p159
 title: Kelantan and Trengganu, 1909–1939
 canonical_name: Kelantan and Trengganu, 1909–1939
-type: article
-article_type: article
+type: publication
 authors:
 - Chan Su-ming
 year: 1965
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-207-suming-kelantantrengganu19091939-1965-84d405e68375
 source_path: ../sources/jmbras-207-suming-kelantantrengganu19091939-1965-84d405e68375.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Kelantan and Trengganu, 1909–1939
 
 Chan Su-ming's 1965 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* provides a comprehensive administrative history of the Unfederated Malay States of Kelantan and Trengganu during the first three decades of British protection (1909–1939), following the transfer of Siamese suzerainty under the Anglo-Siamese Treaty of March 1909. The overarching thesis is that the British advisory system, though constrained by treaty limitations and a deliberately cautious pace, succeeded in transforming two deeply backward states into functioning modern polities while preserving their indigenous Malay character.

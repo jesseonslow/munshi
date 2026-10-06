@@ -4,8 +4,7 @@ work_id: jmbras-89-1-p115
 title: Individual and state narratives of Lee Kuan Yew as ancestor and founding father
 canonical_name: Individual and state narratives of Lee Kuan Yew as ancestor and founding
   father
-type: article
-article_type: article
+type: publication
 authors:
 - R. Hong Cheng Yee
 year: 2016
@@ -28,7 +27,9 @@ keywords:
 - Lee Kuan Yew
 - public memory
 - ritual
+publication_type: journal_article
 ---
+
 # Individual and state narratives of Lee Kuan Yew as ancestor and founding father
 
 ## Abstract

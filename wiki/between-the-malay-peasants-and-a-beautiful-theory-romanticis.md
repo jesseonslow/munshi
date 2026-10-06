@@ -5,8 +5,7 @@ title: 'Between the Malay peasants and a beautiful theory: romanticism and the i
   agenda in Hugh Clifford’s early fiction'
 canonical_name: 'Between the Malay peasants and a beautiful theory: romanticism and
   the imperialist agenda in Hugh Clifford’s early fiction'
-type: article
-article_type: article
+type: publication
 authors:
 - Mohamed Rashidi Pakri
 year: 2004
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-287-pakri-malaypeasantsbeautiful-2004-e6c838986af7
 source_path: ../sources/jmbras-287-pakri-malaypeasantsbeautiful-2004-e6c838986af7/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Between the Malay peasants and a beautiful theory: romanticism and the imperialist agenda in Hugh Clifford’s early fiction
 
 Mohamed Rashidi Pakri's 2004 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* examines the tension between romantic sympathy and imperialist ideology in the early fiction of Sir Hugh Clifford (1866–1941), the British Resident of Pahang and prolific writer of Malayan subjects. Pakri argues that Clifford's short story collections and novel simultaneously express genuine affection for Malay peasant life while advancing the colonial justification for British intervention in the Malay States.

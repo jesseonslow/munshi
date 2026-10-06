@@ -3,8 +3,7 @@ id: sea-dyak-religion
 work_id: jsbras-14-1-p287
 title: Sea Dyak religion
 canonical_name: Sea Dyak religion
-type: article
-article_type: article
+type: publication
 authors:
 - J. Perham
 year: 1884
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-014-perham-seadyakreligion-1884-814eff664ca6
 source_path: ../sources/jsbras-014-perham-seadyakreligion-1884-814eff664ca6.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Sea Dyak religion
 
 J. Perham's 1884 article "Sea Dyak Religion (Continued)" completes a two-part ethnographic study of the religious life of the Sea Dyaks of Sarawak, published in the Journal of the Straits Branch of the Royal Asiatic Society. Writing from within the colonial administrative framework of White Rajah Sarawak, Perham documents the burial rites, eschatological beliefs, and marriage customs of these Bornean highland peoples, arguing that their afterlife observances constitute a remarkably elaborate system of reciprocal obligation between the living and the dead that exceeds those of most other known societies.

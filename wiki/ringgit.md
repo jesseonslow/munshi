@@ -3,8 +3,7 @@ id: ringgit
 work_id: jmbras-47-1-p58
 title: Ringgit
 canonical_name: Ringgit
-type: article
-article_type: article
+type: publication
 authors:
 - Sim Ewe Eong
 year: 1974
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-225-eong-ringgit-1974-15d339fbe00b
 source_path: ../sources/jmbras-225-eong-ringgit-1974-15d339fbe00b.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Ringgit
 
 Sim Ewe Eong's 1974 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* traces the etymology and numismatic history of the word *ringgit*, prompted by the termination of currency interchangeability between Malaysia and Singapore and the subsequent public curiosity about why the native term had supplanted "dollar" in official usage. The article argues that *ringgit* is not a recent coinage but a word with at least two centuries of documented use in the Malay language, rooted in the physical characteristics of the silver coins that circulated in the region.

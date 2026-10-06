@@ -3,8 +3,7 @@ id: notes-on-the-internal-anatomy-of-liphistius-batuensis-abr
 work_id: jmbras-2-1-p85
 title: Notes on the internal anatomy of Liphistius batuensis, Abr
 canonical_name: Notes on the internal anatomy of _Liphistius batuensis,_ Abr
-type: article
-article_type: article
+type: publication
 authors:
 - B.H. Buxton
 year: 1924
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-090-buxton-notesinternalanatomy-1924-06f5dc5adb85
 source_path: ../sources/jmalayanras-090-buxton-notesinternalanatomy-1924-06f5dc5adb85.md
 summarized: true
+publication_type: note
 ---
+
 # Notes on the internal anatomy of Liphistius batuensis, Abr
 
 This brief note by B. H. Buxton describes the internal anatomy of *Liphistius batuensis*, a mygalomorph spider, with particular attention to its coxal glands, nervous ganglia, and other organ systems.

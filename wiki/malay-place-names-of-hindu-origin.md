@@ -3,8 +3,7 @@ id: malay-place-names-of-hindu-origin
 work_id: jmbras-16-1-p150
 title: Malay place names of Hindu origin
 canonical_name: Malay place names of Hindu origin
-type: article
-article_type: article
+type: publication
 authors:
 - F.W. Douglas
 year: 1938
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-131-douglas-malayplacenames-1938-253530eb82d6
 source_path: ../sources/jmalayanras-131-douglas-malayplacenames-1938-253530eb82d6.md
 summarized: true
+publication_type: note
 ---
+
 # Malay place names of Hindu origin
 
 F.W. Douglas's short note examines the Sanskrit and Hindu etymological roots of various Malay place names, arguing that many toponyms in the Malay Peninsula derive from the period of Hindu cultural influence, particularly the cult of Shiva.

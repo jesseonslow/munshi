@@ -3,8 +3,7 @@ id: the-early-rulers-of-perak-pahang-and-acheh
 work_id: jmbras-10-1-p32
 title: The early rulers of Perak, Pahang and Acheh
 canonical_name: The early rulers of Perak, Pahang and Acheh
-type: article
-article_type: article
+type: publication
 authors:
 - R.O. Winstedt
 year: 1932
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-113-winstedt-earlyrulersperak-1932-83c9e955ad17
 source_path: ../sources/jmalayanras-113-winstedt-earlyrulersperak-1932-83c9e955ad17.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The early rulers of Perak, Pahang and Acheh
 
 R.O. Winstedt, a colonial-era scholar and administrator (C.M.G., D.Litt.), published this article in 1932 to demonstrate through comparative genealogy that the early rulers of Perak, Pahang, and Acheh were all branches of the Malacca royal house, and that Acheh's repeated raids on the Peninsular states were dynastic in motivation rather than purely expansionist. By cross-referencing Malay annals, Dutch archival records, and Acheh gravestone inscriptions, Winstedt argues that the interlocking pedigrees of these four polities explain a series of otherwise puzzling historical events between the fall of Malacca in 1511 and the Dutch capture of that city in 1641.

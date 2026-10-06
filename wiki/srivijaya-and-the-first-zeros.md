@@ -3,8 +3,7 @@ id: srivijaya-and-the-first-zeros
 work_id: jmbras-68-1-p53
 title: Srivijaya and the first zeros
 canonical_name: Srivijaya and the first zeros
-type: article
-article_type: article
+type: publication
 authors:
 - A. Diller
 year: 1995
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-268-diller-sriwijayafirstzeros-1995-76cf763b8925
 source_path: ../sources/jmbras-268-diller-sriwijayafirstzeros-1995-76cf763b8925.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Srivijaya and the first zeros
 
 Anthony Diller's 1995 article examines Old Malay inscriptions from the 7th-century polity of Sriwijaya, arguing that they preserve the earliest known physical examples of the zero figure in its decimal place-holding function—predating the accepted Indian evidence by nearly two centuries. The article situates this claim within a broader argument about how local Malay textual practices, distinct from classical Indic norms, shaped both the production and the survival of this numerical evidence.

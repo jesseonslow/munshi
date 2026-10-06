@@ -4,8 +4,7 @@ work_id: jmbras-55-1-p62
 title: 'English-language fiction relating to Malaysia, Singapore and Brunei: a check-list'
 canonical_name: 'English-language fiction relating to Malaysia, Singapore and Brunei:
   a check-list'
-type: article
-article_type: article
+type: publication
 authors:
 - W.R. Roff
 year: 1982
@@ -23,7 +22,9 @@ summarized: true
 source_mismatch: false
 source_doc: jmbras-242-roff-englishlanguagefictionrelating-1982-f3db42df240b
 source_path: ../sources/jmbras-242-roff-englishlanguagefictionrelating-1982-f3db42df240b.md
+publication_type: index
 ---
+
 # English-language fiction relating to Malaysia, Singapore and Brunei: a check-list
 
 W.R. Roff's 1982 check-list in the *Journal of the Malaysian Branch of the Royal Asiatic Society* (Vol. 55, No. 242) is a cumulative bibliographic compilation of approximately 368 titles of English-language fiction set in or relating to Malaysia, Singapore, and Brunei, spanning from the 1890s to the late 1970s. The work serves as a reference tool for scholars of colonial and postcolonial literature, documenting the breadth of fictional engagement with the region by both expatriate and local writers.

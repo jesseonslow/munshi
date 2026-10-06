@@ -3,8 +3,7 @@ id: on-a-collection-of-coins-from-malacca
 work_id: jsbras-39-1-p183
 title: On a collection of coins from Malacca
 canonical_name: On a collection of coins from Malacca
-type: article
-article_type: article
+type: publication
 authors:
 - Hanitsch R
 year: 1903
@@ -29,7 +28,9 @@ summarized: true
 source_mismatch: false
 source_doc: jsbras-039-hanitsch-collectioncoinsmalacca-1903-e47342b1877b
 source_path: ../sources/jsbras-039-hanitsch-collectioncoinsmalacca-1903-e47342b1877b.md
+publication_type: journal_article
 ---
+
 # On a collection of coins from Malacca
 
 R. Hanitsch's 1903 article documents a remarkable hoard of coins recovered from the foreshore near the mouth of the Malacca River and deposited in the Raffles Museum. The collection spans approximately four centuries of European occupation—Portuguese, Dutch, and English—and its most significant contribution is the identification of tin coins struck by Albuquerque's mint in Malacca in 1511, specimens that appear to be unique in world numismatic collections.

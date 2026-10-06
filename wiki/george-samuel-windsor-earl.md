@@ -3,8 +3,7 @@ id: george-samuel-windsor-earl
 work_id: jmbras-32-1-p105
 title: George Samuel Windsor Earl
 canonical_name: George Samuel Windsor Earl
-type: article
-article_type: article
+type: publication
 authors:
 - C.A. Gibson-Hill
 year: 1959
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-185-gibsonhill-georgesamuelwindsor-1959-e61d8811a0ca
 source_path: ../sources/jmalayanras-185-gibsonhill-georgesamuelwindsor-1959-e61d8811a0ca.md
 summarized: true
+publication_type: journal_article
 ---
+
 # George Samuel Windsor Earl
 
 C. A. Gibson-Hill's 1959 biographical study reconstructs the career of George Samuel Windsor Earl (c. 1805–1865), a British merchant, linguist, and colonial administrator whose life spanned the Indian Archipelago and northern Australia. The article argues that Earl was a singularly capable but ultimately frustrated figure whose advocacy for a British commercial settlement at Port Essington was undermined by structural Dutch economic dominance in the archipelago, and whose later administrative career in the Straits Settlements, though competent, was cut short by chronic ill-health.

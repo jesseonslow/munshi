@@ -3,8 +3,7 @@ id: french-visitors-to-trengganu-in-the-18th-century-dunmore
 work_id: jmbras-46-1-p145
 title: French visitors to Trengganu in the 18th century, . Dunmore
 canonical_name: French visitors to Trengganu in the 18th century, . Dunmore
-type: article
-article_type: translation
+type: publication
 authors:
 - J. Dunmore
 year: 1973
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-223-dunmore-frenchvisitorstrengganu-1973-6836bd7a0acc
 source_path: ../sources/jmbras-223-dunmore-frenchvisitorstrengganu-1973-6836bd7a0acc.md
 summarized: true
+publication_type: translation
 ---
+
 # French visitors to Trengganu in the 18th century, . Dunmore
 
 John Dunmore's 1973 article introduces and translates four previously unpublished French accounts of a four-day stop at Trengganu in July 1769 by the merchantman *St. Jean Baptiste*, commanded by Jean-François de Surville. The piece situates this brief call within the broader context of post-monopoly French commercial exploration in the Pacific and Southeast Asia, and uses the accounts to illuminate both European perceptions of the port and the political economy of the Trengganu sultanate under Sultan Mansur Shah.

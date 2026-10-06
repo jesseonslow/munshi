@@ -3,8 +3,7 @@ id: geography-of-achin-bieber
 work_id: jsbras-3-1-p120
 title: Geography of Achin. . Bieber
 canonical_name: Geography of Achin. . Bieber
-type: article
-article_type: translation
+type: publication
 authors:
 - Bieber
 year: 1879
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-003-bieber-geographyachin-1879-9f970b79a877
 source_path: ../sources/jsbras-003-bieber-geographyachin-1879-9f970b79a877.md
 summarized: true
+publication_type: translation
 ---
+
 # Geography of Achin. . Bieber
 
 This is a translated geographical note on the northwestern part of Sumatra (Achin), rendered by Dr. Bieber from a paper by T. C. R. Westpalm van Hoorn tot Burgh originally published in the *Tijdschrift van het Aardrijkskundig Genootschap te Amsterdam* (p. 120).

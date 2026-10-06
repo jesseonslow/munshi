@@ -3,8 +3,7 @@ id: the-aboriginal-tribes-of-perak
 work_id: jsbras-4-1-p46
 title: The aboriginal tribes of Perak
 canonical_name: The aboriginal tribes of Perak
-type: article
-article_type: article
+type: publication
 authors:
 - W.E. Maxwell
 year: 1879
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-004-maxwell-aboriginaltribesprak-1879-d00b9561dbb5
 source_path: ../sources/jsbras-004-maxwell-aboriginaltribesprak-1879-d00b9561dbb5.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The aboriginal tribes of Perak
 
 W.E. Maxwell, a British Resident in Perak, presented this account to the Straits Branch of the Royal Asiatic Society in October 1879, drawing on a single day's observation of five Sakei and Semang men who visited the British Residency at Kwala Kangsa to recover children stolen from their tribes. The article addresses the practice of Malay slavery of aboriginal children, the material culture and beliefs of the forest tribes, and the social dynamics between the Sakei and their Malay neighbours.

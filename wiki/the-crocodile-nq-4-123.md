@@ -3,8 +3,7 @@ id: the-crocodile-nq-4-123
 work_id: jsbras-17-the-crocodile-nq-4-123
 title: 'The crocodile. NQ 4: 123'
 canonical_name: 'The crocodile. NQ 4: 123'
-type: article
-article_type: notes_and_queries
+type: publication
 authors:
 - Sir Hugh Charles Clifford
 year: 1886
@@ -18,7 +17,9 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: note
 ---
+
 # The crocodile. NQ 4: 123
 
 ## Summary

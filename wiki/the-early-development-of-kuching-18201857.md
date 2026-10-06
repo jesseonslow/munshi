@@ -3,8 +3,7 @@ id: the-early-development-of-kuching-18201857
 work_id: jmbras-49-2-p107
 title: The early development of Kuching, 1820–1857
 canonical_name: The early development of Kuching, 1820–1857
-type: article
-article_type: article
+type: publication
 authors:
 - C.A. Lockard
 year: 1976
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-230-lockard-earlydevelopmentkuching-1976-b70379142ecb
 source_path: ../sources/jmbras-230-lockard-earlydevelopmentkuching-1976-b70379142ecb.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The early development of Kuching, 1820–1857
 
 Craig A. Lockard's 1976 article traces the transformation of Kuching from a sparsely populated river settlement into a multi-ethnic trading port during the first two decades of Brooke rule (1841–1857). The central argument is that the urban patterns, ethnic residential segregation, and institutional structures established in this formative period proved remarkably durable, shaping Kuching's character well into the twentieth century.

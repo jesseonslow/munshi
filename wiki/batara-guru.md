@@ -3,8 +3,7 @@ id: batara-guru
 work_id: jsbras-30-1-p307
 title: Batara Guru
 canonical_name: Batara Guru
-type: article
-article_type: article
+type: publication
 authors:
 - R.J. Wilkinson
 year: 1897
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-030-w-bataraguru-1897-962a692d7699
 source_path: ../sources/jsbras-030-w-bataraguru-1897-962a692d7699.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Batara Guru
 
 R.J. Wilkinson published this short article in 1897 in the *Journal of the Straits Branch of the Royal Asiatic Society*, examining the identity and significance of Batara Guru (Sang-yang Guru) in pre-Mohammedan Malay religious practice and its relationship to the Hindu deity Siva. Wilkinson argues that the "Petera Guru" or "Mentala Guru" invoked in Malay pawang rituals is the same figure as Batara Guru of Javanese and Balinese Hinduism, and that the survival of these invocations among the Orang Laut and rural Malays constitutes a fragment of the old animistic-Hindu religious layer now rapidly disappearing.

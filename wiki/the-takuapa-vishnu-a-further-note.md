@@ -3,8 +3,7 @@ id: the-takuapa-vishnu-a-further-note
 work_id: jmbras-41-1-p205
 title: 'The Takuapa Vishnu: a further note'
 canonical_name: 'The Takuapa Vishnu: a further note'
-type: article
-article_type: article
+type: publication
 authors:
 - S.J. O'Connor
 year: 1968
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-213-oconnor-takuapaviunote-1968-15a81b5cafa6
 source_path: ../sources/jmbras-213-oconnor-takuapaviunote-1968-15a81b5cafa6.md
 summarized: true
+publication_type: note
 ---
+
 # The Takuapa Vishnu: a further note
 
 S.J. O'Connor's brief note responds to H.G. Quaritch Wales' critique of O'Connor's proposed dating for the Takuapa Vishnu sculpture in the Bangkok Museum, defending a late seventh- or eighth-century attribution based on typological parallels with Chen-la "mited Vishnu" images (p. 205).

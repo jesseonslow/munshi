@@ -5,8 +5,7 @@ title: Belated comments on Sir Roland Braddell’s Studies of ancient times in t
   Peninsula
 canonical_name: Belated comments on Sir Roland Braddell’s Studies of ancient times
   in the Malay Peninsula
-type: article
-article_type: article
+type: publication
 authors:
 - Paul Wheatley
 year: 1955
@@ -23,7 +22,9 @@ published: false
 source_doc: jmalayanras-169-wheatley-belatedcommentssir-1955-ae13532ceb1e
 source_path: ../sources/jmalayanras-169-wheatley-belatedcommentssir-1955-ae13532ceb1e.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Belated comments on Sir Roland Braddell’s Studies of ancient times in the Malay Peninsula
 
 Paul Wheatley's 1955 article is a critical response to Sir Roland Braddell's two-decade programme of papers on the ancient geography of the Malay Peninsula, published in the *JMBRAS* between 1935 and 1951. Writing from the vantage point of post-war Ptolemaic scholarship and emerging geomorphological research, Wheatley argues that Braddell's identifications of Ptolemaic rivers and place-names rest on outdated textual assumptions and are contradicted by physical evidence, and he proposes alternative solutions to several of the period's most persistent geographical puzzles.

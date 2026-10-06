@@ -3,8 +3,7 @@ id: french-enterprise-in-malaya
 work_id: jmbras-39-2-p50
 title: French enterprise in Malaya
 canonical_name: French enterprise in Malaya
-type: article
-article_type: article
+type: publication
 authors:
 - J.S.D. Rawlins
 year: 1966
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-210-rawlins-frenchenterprisemalaya-1966-bf40055fbd26
 source_path: ../sources/jmbras-210-rawlins-frenchenterprisemalaya-1966-bf40055fbd26/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # French enterprise in Malaya
 
 J.S.D. Rawlins, writing in 1966 for the *Journal of the Malaysian Branch of the Royal Asiatic Society*, surveys the full arc of French commercial, mining, and planting activity in the Malay Peninsula from the 1840s through the early 1960s. His central contention is that while French enterprise in Malaya was modest in scale compared to British or German competitors, it was nonetheless significant enough to merit serious historical attention, particularly in tin mining and rubber planting where French firms achieved genuine pioneering status that shaped the trajectory of those industries.

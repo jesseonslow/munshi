@@ -3,8 +3,7 @@ id: the-hikayat-abdullah-h-hill-chapter-ii-the-founding-of-singa
 work_id: jmbras-42-1-p85
 title: 'The Hikayat Abdullah. .H. Hill. Chapter II: the founding of Singapore'
 canonical_name: 'The _Hikayat Abdullah._ .H. Hill. Chapter II: the founding of Singapore'
-type: article
-article_type: translation
+type: publication
 authors:
 - Abdullah bin Abdul Kadir
 - A.H. Hill
@@ -22,7 +21,9 @@ published: false
 source_doc: jmbras-215-gibsonhill-datemunshiabdullahs-1969-27a3a430dbd0
 source_path: ../sources/jmbras-215-gibsonhill-datemunshiabdullahs-1969-27a3a430dbd0.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The Hikayat Abdullah. .H. Hill. Chapter II: the founding of Singapore
 
 C. A. Gibson-Hill published this article in *JMBRAS* Vol. 42 (1969), examining the dating of Munshi Abdullah bin Abdul Kadir's first visit to Singapore and the reliability of his account of the settlement's founding in 1819. The article argues that Abdullah's well-known narrative contains a major inaccuracy—crediting William Farquhar alone with establishing Singapore—and that his actual arrival in the settlement was considerably later than he claimed, likely between mid-1821 and mid-1822.

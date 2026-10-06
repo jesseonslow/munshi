@@ -3,8 +3,7 @@ id: satingphra-an-expanded-chronology
 work_id: jmbras-39-1-p137
 title: 'Satingphra: an expanded chronology'
 canonical_name: 'Satingphra: an expanded chronology'
-type: article
-article_type: article
+type: publication
 authors:
 - S.J. O'Connor
 year: 1966
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-209-oconnor-satingphraexpandedchronology-1966-61ba954575de
 source_path: ../sources/jmbras-209-oconnor-satingphraexpandedchronology-1966-61ba954575de.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Satingphra: an expanded chronology
 
 Stanley J. O'Connor's 1966 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* addresses a chronological dispute over Satingphra, a coastal site on the east coast of peninsular Thailand, by arguing that three stone Brahmanical sculptures recovered from the site push its period of cultural significance back to the seventh and eighth centuries—far earlier than the twelfth-century date proposed by ceramic analysis. The article is a focused stylistic and typological study that repositions Satingphra within the broader network of early Brahmanical sculpture production across the Isthmian tract, the Gulf of Siam, and Chen-la.

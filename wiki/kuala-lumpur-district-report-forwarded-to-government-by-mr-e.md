@@ -5,8 +5,7 @@ title: 'Kuala Lumpur District: Report Forwarded to Government by Mr E.J. Roe, Ac
   Assistant District Officer. Facsimile reprint. With a note S.K. Manickam'
 canonical_name: 'Kuala Lumpur District: Report Forwarded to Government by Mr E.J.
   Roe, Acting Assistant District Officer. Facsimile reprint. With a note S.K. Manickam'
-type: article
-article_type: article
+type: publication
 authors:
 - E.J. Roe
 year: 2025
@@ -23,7 +22,9 @@ published: false
 source_doc: roe-a-late-nineteenth-century-report-on-the-orang-asli-52099f2be824
 source_path: ../sources/roe-a-late-nineteenth-century-report-on-the-orang-asli-52099f2be824.md
 summarized: true
+publication_type: reprint
 ---
+
 # Kuala Lumpur District: Report Forwarded to Government by Mr E.J. Roe, Acting Assistant District Officer. Facsimile reprint. With a note S.K. Manickam
 
 This is a facsimile reprint of a report by E.J. Roe, Acting Assistant District Officer of Kuala Lumpur, originally published in the *Selangor Journal* (1897), documenting the population, distribution, and economic conditions of the Orang Asli (referred to as "Sakeis") in the Kuala Lumpur District.

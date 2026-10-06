@@ -3,8 +3,7 @@ id: minangkabau-custom-malacca
 work_id: jmbras-8-2-p307
 title: Minangkabau custom – Malacca
 canonical_name: Minangkabau custom – Malacca
-type: article
-article_type: article
+type: publication
 authors:
 - C.O. Blagden
 year: 1930
@@ -18,6 +17,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: note
 ---
 
 # Minangkabau custom – Malacca

@@ -3,8 +3,7 @@ id: the-jamalullails-of-perak
 work_id: jmbras-93-1-p119
 title: The Jamalullails of Perak
 canonical_name: The Jamalullails of Perak
-type: article
-article_type: article
+type: publication
 authors:
 - Jaafar Aznan
 year: 2020
@@ -30,7 +29,9 @@ keywords:
 source_mismatch: false
 source_doc: jmbras-318-aznan-jamalullailsperak-2020-d13b89de9381
 source_path: ../sources/references.md
+publication_type: journal_article
 ---
+
 # The Jamalullails of Perak
 
 Syed Jaafar Aznan, a retired Malaysian civil servant and PhD holder from Brunel University, published this article in 2020 in the *Journal of the Malaysian Branch of the Royal Asiatic Society* (Vol. 93, No. 318). Set against the history of the Perak sultanate from its founding in 1528 to the present, the article presents the Jamalullail family's own revised account of their origins, genealogy, and political role, correcting significant errors in the colonial-era scholarship of R. O. Winstedt.

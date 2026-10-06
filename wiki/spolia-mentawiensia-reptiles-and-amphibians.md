@@ -3,8 +3,7 @@ id: spolia-mentawiensia-reptiles-and-amphibians
 work_id: jmbras-4-2-p263
 title: Spolia mentawiensia. Reptiles and amphibians
 canonical_name: Spolia mentawiensia. Reptiles and amphibians
-type: article
-article_type: article
+type: publication
 authors:
 - M.A. Smith
 year: 1926
@@ -20,6 +19,7 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+publication_type: note
 ---
 
 # Spolia mentawiensia. Reptiles and amphibians

@@ -3,8 +3,7 @@ id: the-putri-of-mount-ophir
 work_id: jsbras-24-1-p165
 title: The Putri of Mount Ophir
 canonical_name: The Putri of Mount Ophir
-type: article
-article_type: article
+type: publication
 authors:
 - M. Lister
 year: 1891
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: true
 source_doc: jsbras-024-l-putrimountophir-1891-84281156fb9c
 source_path: ../sources/jsbras-024-l-putrimountophir-1891-84281156fb9c.md
+publication_type: note
 ---
+
 # The Putri of Mount Ophir
 
 This short note by M. Lister records the Johol Dato's account of the legend of Putri Gandaria, the spirit of Mount Ophir (Gunong Ledang), and compares it with an earlier Portuguese-era version.

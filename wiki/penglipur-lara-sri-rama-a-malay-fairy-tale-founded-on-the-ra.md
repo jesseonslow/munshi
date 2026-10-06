@@ -5,8 +5,7 @@ title: '{Penglipur Lara} Sri Rama: a Malay fairy tale founded on the Ramayana. {
   text with introd. and outline in English'
 canonical_name: _{Penglipur Lara} Sri Rama:_ a Malay fairy tale founded on the _Ramayana._
   {Jawi text with introd. and outline in English}
-type: article
-article_type: article
+type: publication
 authors:
 - W.E. Maxwell
 year: 1886
@@ -23,7 +22,9 @@ published: false
 source_doc: jsbras-017-maxwell-sriramamalay-1886-3155502a26ab
 source_path: ../sources/jsbras-017-maxwell-sriramamalay-1886-3155502a26ab.md
 summarized: true
+publication_type: translation
 ---
+
 # {Penglipur Lara} Sri Rama: a Malay fairy tale founded on the Ramayana. {Jawi text with introd. and outline in English
 
 W. E. Maxwell, an Assistant Resident in Perak, published this document in the *Journal of the Straits Branch of the Royal Asiatic Society* in 1886, presenting a verbatim Jawi transcription of a Malay oral romance called *Sri Rama* (or *Penglipur Lara*, "The Soother of Cares") collected from a village storyteller named Mir Hassan of Kampar, accompanied by an English introduction and narrative outline. The work documents the profound and enduring influence of the Indian *Rāmāyaṇa* on Malay oral literary tradition, demonstrating how the great Hindu epic had been absorbed, transformed, and naturalised into a distinctly Malay narrative idiom through generations of professional *penglipur lara* (story-tellers).

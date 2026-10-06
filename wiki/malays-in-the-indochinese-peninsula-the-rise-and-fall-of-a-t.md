@@ -5,8 +5,7 @@ title: 'Malays in the Indochinese Peninsula: The Rise and Fall of a ''Tuan'' in 
   Mainland Southeast Asia'
 canonical_name: 'Malays in the Indochinese Peninsula: The Rise and Fall of a ''Tuan''
   in Precolonial Mainland Southeast Asia'
-type: article
-article_type: article
+type: publication
 authors:
 - nicolas-weber
 year: 2021
@@ -30,7 +29,9 @@ keywords:
 source_doc: weber-malays-in-the-indochinese-peninsula-cc2fdb73e188
 source_path: ../sources/weber-malays-in-the-indochinese-peninsula-cc2fdb73e188/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Malays in the Indochinese Peninsula: The Rise and Fall of a 'Tuan' in Precolonial Mainland Southeast Asia
 
 ## Abstract

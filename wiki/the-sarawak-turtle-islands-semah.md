@@ -3,8 +3,7 @@ id: the-sarawak-turtle-islands-semah
 work_id: jmbras-23-3-p105
 title: The Sarawak Turtle Islands “Semah”
 canonical_name: The Sarawak Turtle Islands “Semah”
-type: article
-article_type: article
+type: publication
 authors:
 - Tom Harrisson
 year: 1950
@@ -18,6 +17,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: journal_article
 ---
 
 # The Sarawak Turtle Islands “Semah”

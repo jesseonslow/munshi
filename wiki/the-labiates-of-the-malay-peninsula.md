@@ -3,8 +3,7 @@ id: the-labiates-of-the-malay-peninsula
 work_id: jsbras-50-1-p105
 title: The labiates of the Malay Peninsula
 canonical_name: The labiates of the Malay Peninsula
-type: article
-article_type: article
+type: publication
 authors:
 - H.N. Ridley
 year: 1908
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-050-ridley-labiatesmalaypeninsula-1908-d5ec8a04ff84
 source_path: ../sources/jsbras-050-ridley-labiatesmalaypeninsula-1908-d5ec8a04ff84.md
 summarized: true
+publication_type: note
 ---
+
 # The labiates of the Malay Peninsula
 
 This short note by H. N. Ridley reviews the Labiates (Lamiaceae) recorded in the *Materials for a Flora of the Malay Peninsula*, assessing which of the thirty species listed by Dr. Prain are truly indigenous to the region.

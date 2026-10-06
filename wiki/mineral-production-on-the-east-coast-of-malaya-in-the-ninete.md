@@ -3,8 +3,7 @@ id: mineral-production-on-the-east-coast-of-malaya-in-the-ninete
 work_id: jmbras-50-2-p89
 title: Mineral production on the east coast of Malaya in the nineteenth century
 canonical_name: Mineral production on the east coast of Malaya in the nineteenth century
-type: article
-article_type: article
+type: publication
 authors:
 - N.N. Dodge
 year: 1977
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-232-dodge-mineralproductioneast-1977-ade18bef792f
 source_path: ../sources/jmbras-232-dodge-mineralproductioneast-1977-ade18bef792f/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Mineral production on the east coast of Malaya in the nineteenth century
 
 ## Abstract

@@ -3,8 +3,7 @@ id: the-origin-of-some-malay-place-names
 work_id: jmbras-3-1-p79
 title: The origin of some Malay place-names
 canonical_name: The origin of some Malay place-names
-type: article
-article_type: article
+type: publication
 authors:
 - Zainal Abidin bin Ahmad
 year: 1925
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-093-ahmad-originmalayplacenames-1925-4890cdc179aa
 source_path: ../sources/jmalayanras-093-ahmad-originmalayplacenames-1925-4890cdc179aa.md
 summarized: true
+publication_type: note
 ---
+
 # The origin of some Malay place-names
 
 Zainal Abidin bin Ahmad, a Malay scholar and antiquarian, published this short survey of Malay place-name etymologies in 1925, drawing on folklore, local oral traditions, and literary sources to explain the origins of toponyms across the Straits Settlements and Federated Malay States. The article argues that most place-names derive from geographical features, prominent landmarks, founding incidents, or superstitious associations, and that many of the explanatory legends attached to them are later inventions that have calcified into folklore.

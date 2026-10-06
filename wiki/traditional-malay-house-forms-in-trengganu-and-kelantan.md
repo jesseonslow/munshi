@@ -3,8 +3,7 @@ id: traditional-malay-house-forms-in-trengganu-and-kelantan
 work_id: jmbras-42-2-p1
 title: Traditional Malay house forms in Trengganu and Kelantan
 canonical_name: Traditional Malay house forms in Trengganu and Kelantan
-type: article
-article_type: article
+type: publication
 authors:
 - Mubin Sheppard
 year: 1969
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: false
 source_doc: jmbras-216-sheppard-traditionalmalayhouse-1969-73c46bc8c5cb
 source_path: ../sources/jmbras-216-sheppard-traditionalmalayhouse-1969-73c46bc8c5cb.md
+publication_type: journal_article
 ---
+
 # Traditional Malay house forms in Trengganu and Kelantan
 
 This article by Tan Sri Haji Mubin Sheppard, published in the *Journal of the Malaysian Branch of the Royal Asiatic Society* (Vol. 42, No. 2, 1969), examines traditional Malay house forms in the states of Trengganu and Kelantan (pp. 1–9).

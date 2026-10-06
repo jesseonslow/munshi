@@ -4,8 +4,7 @@ work_id: jmbras-67-2-p17
 title: 'Taman penghiburan: entertainment and the Riau elite in the late 19th century'
 canonical_name: _Taman penghiburan:_ entertainment and the Riau elite in the late
   19th century
-type: article
-article_type: article
+type: publication
 authors:
 - T.P. Barnard
 year: 1994
@@ -22,7 +21,9 @@ published: false
 source_doc: jmbras-267-barnard-tamanpenghiburanentertainment-1994-5b0c9938a73e
 source_path: ../sources/jmbras-267-barnard-tamanpenghiburanentertainment-1994-5b0c9938a73e/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Taman penghiburan: entertainment and the Riau elite in the late 19th century
 
 Timothy P. Barnard's 1994 article examines the Rusydiah Club, a literary and cultural organization based on Pulau Penyengat in the Riau-Lingga archipelago, through the lens of a single surviving pamphlet—*Taman Penghiburan* ("The Garden of Leisure")—produced for an Aidil Fitri celebration in 1896. The article argues that the club's members, descendants of Bugis mercenaries who had shifted their political legitimacy from military to religious grounds, displayed a pragmatic openness to Western cultural influences that contrasted sharply with the virulently anti-European posture of their intellectual forebear Raja Ali Haji.

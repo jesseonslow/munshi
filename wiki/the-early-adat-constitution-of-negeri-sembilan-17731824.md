@@ -3,8 +3,7 @@ id: the-early-adat-constitution-of-negeri-sembilan-17731824
 work_id: jmbras-44-1-p104
 title: The early adat constitution of Negeri Sembilan (1773–1824
 canonical_name: The early _adat_ constitution of Negeri Sembilan (1773–1824)
-type: article
-article_type: article
+type: publication
 authors:
 - M.B. Hooker
 year: 1971
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-219-hooker-earlyadatconstitution-1971-2f81e80fb0d1
 source_path: ../sources/jmbras-219-hooker-earlyadatconstitution-1971-2f81e80fb0d1/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The early adat constitution of Negeri Sembilan (1773–1824
 
 M.B. Hooker's 1971 article examines the constitutional foundations of Negri Sembilan during the reigns of its first three Yamtuan (1773–1824), arguing that the period was one of political confusion in which the adat system was ill-equipped to accommodate a federal ruler, and that the patrilineal-matrilineal complex commonly associated with the state did not begin to crystallize until the dynasty was established under Yamtuan Radin from 1824. Writing in direct response to Maria Labi's 1969 paper in the same journal, Hooker contends that Labi's reliance on secondary historical sources at the expense of the extensive adat textual tradition led her to mischaracterize the early state as a "centralized" polity and to date the patriliny-matriliny tension too early.

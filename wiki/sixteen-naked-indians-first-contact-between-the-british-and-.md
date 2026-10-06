@@ -5,8 +5,7 @@ title: '''Sixteen Naked Indians'': First Contact between the British and the Ora
   Asli'
 canonical_name: '''Sixteen Naked Indians'': First Contact between the British and
   the Orang Asli'
-type: article
-article_type: article
+type: publication
 authors:
 - Teckwyn Lim
 year: 2021
@@ -23,7 +22,9 @@ published: false
 source_doc: lim-sixteen-naked-indians-1863829b8940
 source_path: ../sources/lim-sixteen-naked-indians-1863829b8940/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # 'Sixteen Naked Indians': First Contact between the British and the Orang Asli
 
 ## Abstract

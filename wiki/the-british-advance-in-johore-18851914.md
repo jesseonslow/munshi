@@ -3,8 +3,7 @@ id: the-british-advance-in-johore-18851914
 work_id: jmbras-40-1-p93
 title: The British advance in Johore, 1885–1914
 canonical_name: The British advance in Johore, 1885–1914
-type: article
-article_type: article
+type: publication
 authors:
 - K. Sinclair
 year: 1967
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-211-sinclair-britishadvancejohore-1967-43b9161be2d4
 source_path: ../sources/jmbras-211-sinclair-britishadvancejohore-1967-43b9161be2d4.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The British advance in Johore, 1885–1914
 
 Keith Sinclair, writing in 1967, traces the progressive dismantling of Johore's independence between 1885 and 1914, culminating in the imposition of a General Adviser whose advice the Sultan was obliged to accept. His central argument is that the primary driver of British intervention was not moral objection to Sultan Ibrahim's conduct but the structural need to integrate Johore into the expanding political and economic system of British Malaya, particularly through the railway linking the Federated Malay States to Singapore (pp. 93–94, 118–119).

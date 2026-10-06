@@ -4,8 +4,7 @@ work_id: jmbras-81-1-p83
 title: Economic recovery in the Selangor River valley in the late nineteenth century
 canonical_name: Economic recovery in the Selangor River valley in the late nineteenth
   century
-type: article
-article_type: article
+type: publication
 authors:
 - J.M. Gullick
 year: 2008
@@ -22,7 +21,9 @@ published: false
 source_doc: jmbras-294-gullick-economicrecoveryselangor-2008-d56c9ea26837
 source_path: ../sources/jmbras-294-gullick-economicrecoveryselangor-2008-d56c9ea26837/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Economic recovery in the Selangor River valley in the late nineteenth century
 
 J. M. Gullick (2008) examines how the Selangor River Valley, depopulated by the Selangor Civil War (1867–73) and further depressed by a global tin price collapse, slowly recovered through improved communications in the last quarter of the nineteenth century. The article argues that the valley's prolonged stagnation was not a function of resource scarcity but of geographic isolation, and that the construction of roads and the railway in the 1890s was the decisive catalyst for demographic and economic revival.

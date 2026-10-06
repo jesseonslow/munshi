@@ -3,8 +3,7 @@ id: malay-language-and-literature
 work_id: jsbras-15-1-p93
 title: Malay language and literature
 canonical_name: Malay language and literature
-type: article
-article_type: article
+type: publication
 authors:
 - R. Rost
 year: 1885
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-015-rost-malaylanguageliterature-1885-8412e6c480e3
 source_path: ../sources/jsbras-015-rost-malaylanguageliterature-1885-8412e6c480e3.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Malay language and literature
 
 Reinhold Rost, the India Office librarian, published this survey of the Malay language and literature in the *Journal of the Straits Branch of the Royal Asiatic Society* in 1885. Drawing on the philological scholarship of the late nineteenth century, the article presents a comprehensive overview of Malay phonology, morphology, syntax, dialectal variation, and literary production, situating the language within the Malayo-Polynesian family and tracing its foreign lexical influences from Sanskrit through Arabic to European contact languages.

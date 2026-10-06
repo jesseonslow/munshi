@@ -3,8 +3,7 @@ id: recent-archaeological-discoveries-in-malaya-1951
 work_id: jmbras-25-1-p181
 title: Recent archaeological discoveries in Malaya (1951)
 canonical_name: Recent archaeological discoveries in Malaya (1951)
-type: article
-article_type: article
+type: publication
 authors:
 - P.D.R. Williams-Hunt
 year: 1952
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-158-williamshunt-recentarchaeologicaldiscoveries-1952-5f17b4103997
 source_path: ../sources/jmalayanras-158-williamshunt-recentarchaeologicaldiscoveries-1952-5f17b4103997.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Recent archaeological discoveries in Malaya (1951)
 
 P.D.R. Williams-Hunt, serving as Acting Director of Museums and Adviser on Aborigines in the Federation of Malaya, published this field report in 1952 documenting archaeological material recovered across six states during 1951. The article's central significance lies in the discovery at Bukit Tengku Lembu, Perlis, of what Williams-Hunt identifies as the finest Neolithic burial yet found in the Federation, including two Greek pottery sherds that provide the first external chronological anchor for the Malayan Neolithic.

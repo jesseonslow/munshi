@@ -5,8 +5,7 @@ title: Report on the exploration of the caves of Borneo. A.H. Everett, Introduct
   remarks J. Evans, and notes on bones collected G. Busk
 canonical_name: Report on the exploration of the caves of Borneo. A.H. Everett, Introductory
   remarks J. Evans, and notes on bones collected G. Busk
-type: article
-article_type: article
+type: publication
 authors:
 - A.H. Everett
 year: 1880
@@ -23,7 +22,9 @@ published: false
 source_doc: jsbras-006-everett-reportexplorationcaves-1880-aa6b1ac3f823
 source_path: ../sources/jsbras-006-everett-reportexplorationcaves-1880-aa6b1ac3f823.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Report on the exploration of the caves of Borneo. A.H. Everett, Introductory remarks J. Evans, and notes on bones collected G. Busk
 
 A.H. Everett's 1880 report, supplemented by introductory remarks from John Evans and osteological notes from George Busk, documents a systematic 1878–79 exploration of thirty-two limestone caves in Upper Sarawak and Niah, north-west Borneo. The central finding is that while the caves yielded ossiferous deposits and human remains, all proved geologically recent—post-dating the last marine transgression of the region—rendering them useless for resolving questions about the deep antiquity of human occupation or faunal evolution in the Indo-Malayan subregion.

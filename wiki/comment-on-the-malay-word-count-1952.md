@@ -3,8 +3,7 @@ id: comment-on-the-malay-word-count-1952
 work_id: jmbras-29-1-p37
 title: Comment on the Malay word count, 1952
 canonical_name: Comment on the Malay word count, 1952
-type: article
-article_type: article
+type: publication
 authors:
 - M.J. Manning
 year: 1956
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-173-manning-commentmalayword-1956-b855c8dad45b
 source_path: ../sources/jmalayanras-173-manning-commentmalayword-1956-b855c8dad45b.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Comment on the Malay word count, 1952
 
 M.J. Manning, a non-Malay student of the language, published this critical commentary in 1956 evaluating J. Le Prevost's *Malay Word Count, 1952* (1953), a frequency survey of written Malay compiled by 22 teachers who each examined one million words. Manning's central argument is that while the survey's total vocabulary of 3,854 distinct words is a useful cross-section, the individual frequency counts are unreliable due to the inconsistent and unstandardised material each counter selected, and he proposes a restructured ten-category methodology that would yield genuinely comparable data.

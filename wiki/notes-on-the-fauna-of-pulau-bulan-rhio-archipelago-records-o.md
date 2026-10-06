@@ -5,8 +5,7 @@ title: Notes on the fauna of Pulau Bulan, Rhio Archipelago. Records of the Raffl
   Museum, No. 2
 canonical_name: Notes on the fauna of Pulau Bulan, Rhio Archipelago. Records of the
   Raffles Museum, No. 2
-type: article
-article_type: article
+type: publication
 authors:
 - F.N. Chasen
 year: 1924
@@ -31,7 +30,9 @@ reprints:
 source_doc: jmalayanras-090-chasen-notesfaunapulau-1924-9053d0508c98
 source_path: ../sources/jmalayanras-090-chasen-notesfaunapulau-1924-9053d0508c98.md
 summarized: true
+publication_type: note
 ---
+
 # Notes on the fauna of Pulau Bulan, Rhio Archipelago. Records of the Raffles Museum, No. 2
 
 F. N. Chasen, a naturalist attached to the Raffles Museum, published this brief faunal account in 1924 following a ten-day collecting expedition to Pulau Bulan in the Rhio Archipelago in early April of that year. The paper describes three new subspecies of the striped squirrel (*Sciurus vittatus*) from the island and its neighbours, and provides a checklist of mammals and birds obtained or observed during the visit.

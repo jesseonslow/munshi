@@ -5,8 +5,7 @@ title: Notes on trade unionism amongst government employees in the Federation of
   1948–1957
 canonical_name: Notes on trade unionism amongst government employees in the Federation
   of Malaya, 1948–1957
-type: article
-article_type: article
+type: publication
 authors:
 - R.N. Jackson
 year: 1970
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-217-jackson-notestradeunionism-1970-3520e59437be
 source_path: ../sources/jmbras-217-jackson-notestradeunionism-1970-3520e59437be.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Notes on trade unionism amongst government employees in the Federation of Malaya, 1948–1957
 
 R.N. Jackson's 1970 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* examines the development of trade unionism among government employees in the Federation of Malaya from the onset of the Emergency in 1948 to independence in 1957. Jackson argues that, despite the fragmentation of the movement into over one hundred small unions, government employees' unions constituted the most financially robust and structurally stable segment of the Malayan trade-union movement throughout this period, outperforming both the private sector and the rubber-estate unions in accumulated funds per member and organisational continuity.

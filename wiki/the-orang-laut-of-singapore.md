@@ -3,8 +3,7 @@ id: the-orang-laut-of-singapore
 work_id: jsbras-33-1-p247
 title: The Orang Laut of Singapore
 canonical_name: The Orang Laut of Singapore
-type: article
-article_type: article
+type: publication
 authors:
 - H.N. Ridley
 - W.W. Skeat
@@ -22,7 +21,9 @@ published: false
 source_doc: jsbras-033-skeat-oranglautsingapore-1900-8847439810a4
 source_path: ../sources/jsbras-033-skeat-oranglautsingapore-1900-8847439810a4.md
 summarized: true
+publication_type: note
 ---
+
 # The Orang Laut of Singapore
 
 This short note by W. W. Skeat and H. N. Ridley records a field visit to Kampong Roko on the Kallang River, Singapore, in November 1899, during which they attempted to collect linguistic and ethnographic data from the last identifiable remnants of the Orang Kallang, a pre-British native group of the island (p. 247).

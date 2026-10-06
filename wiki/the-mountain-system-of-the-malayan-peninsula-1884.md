@@ -3,8 +3,7 @@ id: the-mountain-system-of-the-malayan-peninsula-1884
 work_id: jmbras-93-1-p135
 title: The mountain system of the Malayan Peninsula (1884
 canonical_name: The mountain system of the Malayan Peninsula (1884)
-type: article
-article_type: article
+type: publication
 authors:
 - J.E. Tenison Woods
 year: 2020
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: false
 source_doc: jmbras-318-tenisonwoods-themountainsystem-2020-03ed4a64f64c
 source_path: ../sources/jmbras-318-tenisonwoods-themountainsystem-2020-03ed4a64f64c.md
+publication_type: reprint
 ---
+
 # The mountain system of the Malayan Peninsula (1884
 
 This is a reprint of a letter by J. E. Tenison-Woods, originally published in *Nature* on 17 July 1884 (p. 264), describing the mountain systems of the Perak region of the Malayan Peninsula based on his field observations.

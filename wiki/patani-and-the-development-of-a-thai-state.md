@@ -3,8 +3,7 @@ id: patani-and-the-development-of-a-thai-state
 work_id: jmbras-50-2-p69
 title: Patani and the development of a Thai state
 canonical_name: Patani and the development of a Thai state
-type: article
-article_type: article
+type: publication
 authors:
 - M.L. Koch
 year: 1977
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-232-koch-patanidevelopmentthai-1977-2559acbd4b38
 source_path: ../sources/jmbras-232-koch-patanidevelopmentthai-1977-2559acbd4b38.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Patani and the development of a Thai state
 
 Margaret L. Koch's 1977 article examines how Siam's nineteenth-century administrative centralization in the Patani states of the Malay peninsula was driven by British colonial demands for effective Siamese control, and how the resulting injustices toward Malay-Muslim populations paradoxically gave Britain the grounds to undermine Siam's claims over the remaining northern Malay states. The article traces the crisis from the introduction of Siamese commissioners in 1895 through the deposition of Raja Abdul Kadir in 1902, arguing that Siam's success in establishing firm authority over Patani directly caused its loss of influence over Kelantan and Trengganu.

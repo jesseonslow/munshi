@@ -5,8 +5,7 @@ title: 'Spolia mentawiensia: Birds. F.N. Chasen and C.B. Kloss. Records of the R
   Museum, No. 25'
 canonical_name: 'Spolia mentawiensia: Birds. F.N. Chasen and C.B. Kloss. Records of
   the Raffles Museum, No. 25'
-type: article
-article_type: article
+type: publication
 authors:
 - F.N. Chasen
 - C.B. Kloss
@@ -24,7 +23,9 @@ published: false
 source_doc: jmalayanras-097-chasen-spoliamentawiensiarecords-1926-ddbc659891f8
 source_path: ../sources/jmalayanras-097-chasen-spoliamentawiensiarecords-1926-ddbc659891f8.md
 summarized: true
+publication_type: note
 ---
+
 # Spolia mentawiensia: Birds. F.N. Chasen and C.B. Kloss. Records of the Raffles Museum, No. 25
 
 This brief notice by F.N. Chasen and C.B. Kloss (1926) reports on two contributions to the "Spolia Mentawiensia" series (Records of the Raffles Museum, No. 25), covering the birds and the reptiles and amphibians collected during the Raffles Museum's expedition to the Mentawi Islands, West Sumatra.

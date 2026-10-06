@@ -5,8 +5,7 @@ title: Keeling Cocos Islands and the Destruction of the German Raider Emden in 1
   Facsimile reprint. With a note P. Kratoska
 canonical_name: Keeling Cocos Islands and the Destruction of the German Raider Emden
   in 1914. Facsimile reprint. With a note P. Kratoska
-type: article
-article_type: article
+type: publication
 authors:
 - C. Clunies Ross
 year: 2025
@@ -23,7 +22,9 @@ published: false
 source_doc: kratoska-keeling-cocos-islands-633e2651d3c0
 source_path: ../sources/kratoska-keeling-cocos-islands-633e2651d3c0.md
 summarized: true
+publication_type: reprint
 ---
+
 # Keeling Cocos Islands and the Destruction of the German Raider Emden in 1914. Facsimile reprint. With a note P. Kratoska
 
 C. Clunies-Ross's undated typescript of 10 November 1914, reprinted here as a facsimile with an editor's note by Paul Kratoska in JMBRAS (2025), provides a rare civilian eyewitness account of the Battle of the Cocos (Keeling) Islands, in which the Australian light cruiser HMAS Sydney destroyed the German raider SMS Emden. Written from the vantage point of the cable station on Direction Island, the document captures the immediate aftermath of the engagement—the medical evacuation, the surrender ceremony, the funeral at sea, and the long-term fate of the wreck—offering a ground-level perspective that complements the official naval narrative.

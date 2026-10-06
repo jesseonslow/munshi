@@ -3,8 +3,7 @@ id: kedah-in-the-reign-of-sultan-ahmad-tajuddin-ii
 work_id: jmbras-58-2-p107
 title: Kedah in the reign of Sultan Ahmad Tajuddin II
 canonical_name: Kedah in the reign of Sultan Ahmad Tajuddin II
-type: article
-article_type: article
+type: publication
 authors:
 - J.M. Gullick
 year: 1985
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-249-gullick-kedahreignsultan-1985-d6b9024245d8
 source_path: ../sources/jmbras-249-gullick-kedahreignsultan-1985-d6b9024245d8/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Kedah in the reign of Sultan Ahmad Tajuddin II
 
 J.M. Gullick's 1985 article reconstructs the history of Kedah during the reign of Sultan Ahmad Tajuddin II (1854–1879), a period of nearly thirty years marked by near-total silence in the contemporary records of the Straits Settlements government. The overarching thesis is that the Sultan transformed Kedah from a depopulated wasteland left by the Siamese occupation (1821–1842) into one of the most flourishing Malay states by the early 1870s, achieving this through personal energy, a new style of centralised governance, and major infrastructure projects — yet the regime was underpinned by structural weaknesses that would prove fatal to his successors.

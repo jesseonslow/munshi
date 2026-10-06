@@ -3,8 +3,7 @@ id: the-great-flood-1926
 work_id: jmbras-5-2-p295
 title: The great flood 1926
 canonical_name: The great flood 1926
-type: article
-article_type: article
+type: publication
 authors:
 - R.O. Winstedt
 year: 1927
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-100-winstedt-greatflood1926-1927-a0bcae5aa078
 source_path: ../sources/jmalayanras-100-winstedt-greatflood1926-1927-a0bcae5aa078.md
 summarized: true
+publication_type: document
 ---
+
 # The great flood 1926
 
 R. O. Winstedt, then a senior colonial administrator and scholar, compiled this account in 1927 from the official reports of civil servants, police, engineers, and other government officers across the Straits Settlements and Federated Malay States. The article documents the catastrophic floods of late December 1926 to early January 1927 that struck Perak, Pahang, Kelantan, and Trengganu, presenting a district-by-district administrative record of the disaster's physical destruction, human toll, and the colonial government's relief response.

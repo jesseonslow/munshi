@@ -3,8 +3,7 @@ id: orchid-pollination-notes
 work_id: jmbras-6-1-p49
 title: Orchid pollination notes
 canonical_name: Orchid pollination notes
-type: article
-article_type: article
+type: publication
 authors:
 - C.E. Carr
 year: 1928
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-102-carr-orchidpollinationnotes-1928-1973080878d6
 source_path: ../sources/jmalayanras-102-carr-orchidpollinationnotes-1928-1973080878d6.md
 summarized: true
+publication_type: note
 ---
+
 # Orchid pollination notes
 
 C.E. Carr published "Orchid Pollination Notes" in 1928 in the Journal of the Malayan Branch of the Royal Asiatic Society (Vol. VI, Pt. I, pp. 49–73), presenting a systematic field study of the pollination mechanics of thirteen Malayan orchid species. The overarching thesis is that orchid flowers in the region have evolved extraordinarily precise mechanical and temporal mechanisms to ensure cross-pollination by specific insect vectors while preventing wasteful self-fertilization, and that these mechanisms can be understood through direct observation of flower structure and insect behaviour.

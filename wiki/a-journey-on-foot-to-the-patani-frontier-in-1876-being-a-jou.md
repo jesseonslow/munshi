@@ -5,8 +5,7 @@ title: A journey on foot to the Patani frontier in 1876; being a journal kept an
   undertaken to capture Datoh Maharaja Lela of Perak
 canonical_name: A journey on foot to the Patani frontier in 1876; being a journal
   kept an expedition undertaken to capture Datoh Maharaja Lela of Perak
-type: article
-article_type: article
+type: publication
 authors:
 - W.E. Maxwell
 year: 1882
@@ -24,7 +23,9 @@ summarized: true
 source_mismatch: false
 source_doc: jsbras-009-maxwell-journeyfootpatani-1882-d318a9f1d4e5
 source_path: ../sources/jsbras-009-maxwell-journeyfootpatani-1882-d318a9f1d4e5.md
+publication_type: document
 ---
+
 # A journey on foot to the Patani frontier in 1876; being a journal kept an expedition undertaken to capture Datoh Maharaja Lela of Perak
 
 W.E. Maxwell, a political officer attached to the Larut Field Force and former Stipendiary Magistrate of Province Wellesley, published in 1882 a detailed journal of his March–April 1876 overland expedition through the uncharted interior of Ulu Perak and the Patani frontier, undertaken to capture Datoh Maharaja Lela, the chief suspect in the murder of British Resident J.W. Birch. Though the expedition failed in its primary objective—Lela escaped across the Perak river—it produced the first European account of the route from the Krian river to the Patani border and contributed directly to the eventual identification, trial, and execution of the Birch murderers (pp. 1–67).

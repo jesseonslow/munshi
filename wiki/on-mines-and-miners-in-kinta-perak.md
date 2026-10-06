@@ -3,8 +3,7 @@ id: on-mines-and-miners-in-kinta-perak
 work_id: jsbras-16-1-p303
 title: On mines and miners in Kinta, Perak
 canonical_name: On mines and miners in Kinta, Perak
-type: article
-article_type: article
+type: publication
 authors:
 - Hale A
 year: 1885
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-016-hale-minesminerskinta-1885-e2d954e75487
 source_path: ../sources/jsbras-016-hale-minesminerskinta-1885-e2d954e75487.md
 summarized: true
+publication_type: journal_article
 ---
+
 # On mines and miners in Kinta, Perak
 
 A. Hale, Inspector of Mines for Kinta, published this ethnographic and technical survey of Malay tin-mining practices in the Kinta Valley, Perak, in 1885. The article argues that the Kinta district constitutes a uniquely continuous mining landscape in which pre-Muhammadan traditions, Malay customary law, and indigenous metallurgical knowledge persist alongside and in tension with Chinese commercial mining. Its central contribution is a systematic record of the *pawang*'s regulatory role on Malay mines and a comprehensive glossary of technical Malay mining terminology that Hale judged at risk of being lost.

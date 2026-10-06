@@ -3,8 +3,7 @@ id: japanese-soldiers-who-joined-communist-guerillas-in-malaya
 work_id: jmbras-89-2-p67
 title: Japanese soldiers who joined communist guerillas in Malaya
 canonical_name: Japanese soldiers who joined communist guerillas in Malaya
-type: article
-article_type: article
+type: publication
 authors:
 - Hara F
 year: 2016
@@ -29,7 +28,9 @@ keywords:
 - Malayan Communist Party
 - Lai Teck
 - guerrilla warfare in Malaya.
+publication_type: journal_article
 ---
+
 # Japanese soldiers who joined communist guerillas in Malaya
 
 ## Abstract

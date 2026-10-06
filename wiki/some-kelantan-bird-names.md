@@ -3,8 +3,7 @@ id: some-kelantan-bird-names
 work_id: jmbras-26-1-p140
 title: Some Kelantan bird names
 canonical_name: Some Kelantan bird names
-type: article
-article_type: article
+type: publication
 authors:
 - E.J.H. Berwick
 year: 1953
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-161-berwick-kelantanbirdnames-1953-195c71ca9ca4
 source_path: ../sources/jmalayanras-161-berwick-kelantanbirdnames-1953-195c71ca9ca4.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Some Kelantan bird names
 
 E.J.H. Berwick, serving as Agricultural Officer for Kelantan and Trengganu from August 1950 to May 1951, compiled a field survey of Malay bird names in common use in Kelantan, published in 1953. The article documents significant regional divergence from West Coast and Pahang nomenclature, providing Latin identifications alongside local terms for approximately 100 species across 25 taxonomic groups.

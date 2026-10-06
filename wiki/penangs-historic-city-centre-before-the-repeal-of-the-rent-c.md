@@ -4,8 +4,7 @@ work_id: jmbras-73-2-p53
 title: Penang’s historic city centre before the repeal of the Rent (Control) Act
 canonical_name: Penang’s historic city centre before the repeal of the Rent (Control)
   Act
-type: article
-article_type: article
+type: publication
 authors:
 - Mai Lin Tjoa-Bonatz
 year: 2000
@@ -22,7 +21,9 @@ published: false
 source_doc: jmbras-279-tjoabonatz-penangshistoriccity-2000-c72d3e4587a1
 source_path: ../sources/jmbras-279-tjoabonatz-penangshistoriccity-2000-c72d3e4587a1/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Penang’s historic city centre before the repeal of the Rent (Control) Act
 
 Mai Lin Tjoa-Bonatz's 2000 article examines the socio-spatial fabric of Penang's historic city centre in the immediate aftermath of the Rent Control Act's repeal, arguing that the dense, multi-ethnic shophouse neighbourhoods of Georgetown represent a sustainable urban model threatened by market-driven redevelopment. Drawing on a 1996 household survey of 50 shophouse dwellings in Penang Street and King Street alongside colonial census data and building regulations, the study traces how immigrant settlement patterns, housing typologies, and collective memory have produced a distinctive urban identity that persists into the late twentieth century.

@@ -3,8 +3,7 @@ id: the-origin-of-the-malaysian-currency-system-18671906
 work_id: jmbras-39-1-p1
 title: The origin of the Malaysian currency system (1867–1906
 canonical_name: The origin of the Malaysian currency system (1867–1906)
-type: article
-article_type: article
+type: publication
 authors:
 - Chiang Hai-ding
 year: 1966
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: false
 source_doc: jmbras-209-ding-originsmalaysiancurrency-1966-fbb2094c7412
 source_path: ../sources/jmbras-209-ding-originsmalaysiancurrency-1966-fbb2094c7412.md
+publication_type: journal_article
 ---
+
 # The origin of the Malaysian currency system (1867–1906
 
 Chiang Hai-ding's 1966 article traces how the three defining features of the Malaysian currency system—the dollar as unit of account, absolute security through sterling-backed reserves, and automatic monetary expansion and contraction at a fixed exchange rate—were established through a sequence of reforms in the Straits Settlements between 1867 and 1906. The article argues that these features emerged not from a single decisive act but from a gradual, often contested process driven by silver scarcity, bank failures, and the global abandonment of the silver standard.

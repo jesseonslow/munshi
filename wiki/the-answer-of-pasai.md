@@ -3,8 +3,7 @@ id: the-answer-of-pasai
 work_id: jmbras-38-2-p129
 title: The answer of Pasai
 canonical_name: The answer of Pasai
-type: article
-article_type: article
+type: publication
 authors:
 - R. Roolvink
 year: 1965
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: false
 source_doc: jmbras-208-roolvink-answerpasai-1965-052bbdc483fe
 source_path: ../sources/jmbras-208-roolvink-answerpasai-1965-052bbdc483fe.md
+publication_type: journal_article
 ---
+
 # The answer of Pasai
 
 R. Roolvink's 1965 article "The Answer of Pasai" presents a newly discovered Palembang-origin version of the famous Malay Annals episode in which Sultan Mansur Shah of Malacca sends a theological question to the learned men of Pasai, and argues that this third text represents a skillful redaction that inverts the story's satirical target from the Pasai Makhdum to the entire Pasai scholarly establishment. The article situates this version within a comparative framework of three known recensions of the episode, demonstrating how editorial choices across the textual tradition shift the narrative's moral and political emphasis.

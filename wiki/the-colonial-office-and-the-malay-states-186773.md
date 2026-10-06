@@ -3,8 +3,7 @@ id: the-colonial-office-and-the-malay-states-186773
 work_id: jmbras-36-1-p1
 title: The Colonial Office and the Malay States, 1867–73
 canonical_name: The Colonial Office and the Malay States, 1867–73
-type: article
-article_type: article
+type: publication
 authors:
 - J. de V. Allen
 year: 1963
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: true
 source_doc: jmalayanras-201-allen-colonialofficemalay-1963-22959d952730
 source_path: ../sources/jmalayanras-201-allen-colonialofficemalay-1963-22959d952730.md
+publication_type: journal_article
 ---
+
 # The Colonial Office and the Malay States, 1867–73
 
 J. de Vere Allen's 1963 article, published in the *Journal of the Malayan Branch of the Royal Asiatic Society*, re-examines the origins of British political control in the Malay States by drawing on Colonial Office files (CO 273 series) to challenge C. D. Cowan's influential thesis that the September 1873 despatch to Sir Andrew Clarke marked a sudden policy reversal provoked by a foreign-power scare. Allen argues instead that the Colonial Office possessed no coherent "policy" for the Malay States between 1867 and 1874 — the entire period was one of "drifting without a policy" — and that the decisive variable was not external threat but the degree of trust London placed in its Singapore Governor.

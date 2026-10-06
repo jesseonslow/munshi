@@ -3,8 +3,7 @@ id: recent-archaeological-discoveries-in-peninsular-malaysia-199
 work_id: jmbras-66-1-p67
 title: Recent archaeological discoveries in Peninsular Malaysia (1991–1993
 canonical_name: Recent archaeological discoveries in Peninsular Malaysia (1991–1993)
-type: article
-article_type: article
+type: publication
 authors:
 - Adi Haji Taha
 year: 1993
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-264-taha-recentarchaeologicaldiscoveries-1993-26d9a75d7451
 source_path: ../sources/jmbras-264-taha-recentarchaeologicaldiscoveries-1993-26d9a75d7451/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Recent archaeological discoveries in Peninsular Malaysia (1991–1993
 
 Adi Haji Taha, a senior officer in the Antiquity Division of the Museums Department, published this comprehensive field survey in 1993 documenting archaeological discoveries and research activities across Peninsular Malaysia between 1991 and 1993. The article serves as both a progress report on the professionalization of Malaysian archaeology and a catalogue of significant new finds, ranging from the earliest confirmed *Homo sapiens* in the peninsula to votive tablets that provide material evidence for Kelantan's role in the Srivijaya sphere.

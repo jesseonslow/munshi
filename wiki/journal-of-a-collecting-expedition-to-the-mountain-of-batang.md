@@ -4,8 +4,7 @@ work_id: jsbras-21-1-p123
 title: Journal of a collecting expedition to the mountain of Batang Padang, Perak
 canonical_name: Journal of a collecting expedition to the mountain of Batang Padang,
   Perak
-type: article
-article_type: article
+type: publication
 authors:
 - L. Wray
 year: 1890
@@ -22,7 +21,9 @@ published: false
 source_doc: jsbras-021-l-wray-journalcollectingexpedition-1890-98feda15245a
 source_path: ../sources/jsbras-021-l-wray-journalcollectingexpedition-1890-98feda15245a.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Journal of a collecting expedition to the mountain of Batang Padang, Perak
 
 L. Wray, Jr., Curator of the Perak Museum, published this detailed field journal in 1890 (composed in June 1888), recording a multi-month natural history expedition to the highlands of Batang Padang, Perak, between approximately June and November 1887. The account documents the collection of botanical, ornithological, entomological, and ethnographic specimens from Gunong Batu Puteh, Gunong Brumbun, and the upper Batang Padang and Telum valleys, while simultaneously attempting to resolve questions left open by the late J. R. M. Cameron's earlier explorations of the same region.

@@ -5,8 +5,7 @@ title: Ethnographic profiles of the Dusun-speaking peoples of Sabah, Malaysia. W
   the collaboration of R. Harrison
 canonical_name: Ethnographic profiles of the Dusun-speaking peoples of Sabah, Malaysia.
   With the collaboration of R. Harrison
-type: article
-article_type: article
+type: publication
 authors:
 - G.N. Appell
 - Harrison R
@@ -24,7 +23,9 @@ published: false
 source_doc: jmbras-214-appell-ethnographicprofilesdusunspeaking-1968-1a70522ce689
 source_path: ../sources/jmbras-214-appell-ethnographicprofilesdusunspeaking-1968-1a70522ce689/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Ethnographic profiles of the Dusun-speaking peoples of Sabah, Malaysia. With the collaboration of R. Harrison
 
 G.N. Appell, with the collaboration of Robert Harrison, published this ethnographic classification of the Dusun-speaking peoples of Sabah in 1968, working within the framework of George Peter Murdock's *Ethnographic Atlas* to correct inaccuracies and complete the cultural trait profile for these groups. The article's central thesis is that the colonial label "Dusun" masks profound cultural heterogeneity, and that the most analytically productive division is between swidden-based (SDS) and irrigation-based (IDS) societies, each of which entails a distinct constellation of sociocultural traits across domains from land tenure to residence patterns.

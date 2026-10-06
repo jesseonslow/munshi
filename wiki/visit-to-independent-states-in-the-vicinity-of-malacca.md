@@ -3,8 +3,7 @@ id: visit-to-independent-states-in-the-vicinity-of-malacca
 work_id: jmbras-90-2-p127
 title: Visit to independent states in the vicinity of Malacca
 canonical_name: Visit to independent states in the vicinity of Malacca
-type: article
-article_type: article
+type: publication
 authors:
 - F.A Weld
 year: 2017
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-313-weld-visitindependentstates-2017-fe39410b4053
 source_path: ../sources/jmbras-313-weld-visitindependentstates-2017-fe39410b4053.md
 summarized: true
+publication_type: document
 ---
+
 # Visit to independent states in the vicinity of Malacca
 
 Governor Fred. A. Weld's despatch of 26 December 1885, addressed to the Colonial Secretary, reports on his December 1885 tour of the independent Malay states in the vicinity of Malacca — Negri Sembilan, Rembau, Johol, Tampin, Ulu Muar, and Jelebu — and presents a consolidated plan for extending British administrative and fiscal control over these territories through road-building, police stations, and revenue collection. Published in the *Journal of the Malaysian Branch of the Royal Asiatic Society* (Vol. 90, Part 2, 2017), the document is a primary administrative source that reveals the mechanics by which the Straits Settlements government consolidated its influence over the interior Malay states in the mid-1880s.

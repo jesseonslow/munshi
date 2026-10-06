@@ -3,8 +3,7 @@ id: notes-on-the-geology-of-sarawak
 work_id: jmbras-5-2-p288
 title: Notes on the geology of Sarawak
 canonical_name: Notes on the geology of Sarawak
-type: article
-article_type: article
+type: publication
 authors:
 - J.B. Scrivenor
 year: 1927
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-100-scrivenor-notesgeologysarawak-1927-359588385eaa
 source_path: ../sources/jmalayanras-100-scrivenor-notesgeologysarawak-1927-359588385eaa.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Notes on the geology of Sarawak
 
 J. B. Scrivenor, a geologist employed by the Federated Malay States Government, published this paper in 1927 to make generally available the findings of his 1904 fieldwork in Sarawak, which had originally appeared in a now out-of-print government report. The article provides a systematic account of the stratigraphy, lithology, and igneous geology of Upper and Lower Sarawak, with particular attention to the gold-field of Bau and the coal-district of Sadong, and it amplifies the earlier work of J. S. Geikie on gold occurrences in the same region.

@@ -3,8 +3,7 @@ id: the-menagerie-at-the-botanic-gardens
 work_id: jsbras-46-1-p133
 title: The menagerie at the Botanic Gardens
 canonical_name: The menagerie at the Botanic Gardens
-type: article
-article_type: article
+type: publication
 authors:
 - H.N. Ridley
 year: 1906
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-046-ridley-menageriebotanicgardens-1906-0200df1a5183
 source_path: ../sources/jsbras-046-ridley-menageriebotanicgardens-1906-0200df1a5183.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The menagerie at the Botanic Gardens
 
 H. N. Ridley, Director of the Singapore Botanic Gardens, published this extensive account of the Gardens' menagerie in 1906, three years after its abolition by government order in 1903. Writing from the position of the man who had overseen the collection through its most productive decades, Ridley's overarching argument is that Singapore possessed unique climatic and economic advantages for maintaining a tropical zoological collection, and that its suppression represented a significant loss to science and public education.

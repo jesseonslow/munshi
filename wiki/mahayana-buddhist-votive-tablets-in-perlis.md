@@ -3,8 +3,7 @@ id: mahayana-buddhist-votive-tablets-in-perlis
 work_id: jmbras-37-2-p47
 title: Mahayana Buddhist votive tablets in Perlis
 canonical_name: Mahayana Buddhist votive tablets in Perlis
-type: article
-article_type: article
+type: publication
 authors:
 - A. Lamb
 year: 1964
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-206-lamb-mahayanabuddhistvotive-1964-ff6befbc68b3
 source_path: ../sources/jmbras-206-lamb-mahayanabuddhistvotive-1964-ff6befbc68b3/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Mahayana Buddhist votive tablets in Perlis
 
 Alastair Lamb's 1964 article documents the discovery and typological analysis of Mahayana Buddhist votive tablets (*pra-bimh*) from two limestone caves in Perlis, northern Malaya, arguing that these objects were manufactured locally rather than transported from India or distant Srivijayan centres. The study builds on G. Coedes' 1927 classification of Thai votive tablets, to which the Perlis finds belong as Type II, a category stylistically linked to the Pala art of Bengal and previously dated to the 10th century A.D.

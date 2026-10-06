@@ -5,8 +5,7 @@ title: Notes on ‘Sketch of the Land round Singapore Harbour, 7 February 1819�
   Langdon and Kwa Chong Guan
 canonical_name: Notes on ‘Sketch of the Land round Singapore Harbour, 7 February 1819’.
   M. Langdon and Kwa Chong Guan
-type: article
-article_type: article
+type: publication
 authors:
 - Kwa Chong Guan
 - M. Langdon
@@ -25,7 +24,9 @@ summarized: true
 source_mismatch: false
 source_doc: jmbras-298-langdon-notessketchland-2010-0708326793db
 source_path: ../sources/references.md
+publication_type: journal_article
 ---
+
 # Notes on ‘Sketch of the Land round Singapore Harbour, 7 February 1819’. M. Langdon and Kwa Chong Guan
 
 Marcus Langdon and Kwa Chong Guan (2010) present a detailed analysis of a previously unknown panoramic sketch of Singapore's coastline, dated 7 February 1819, discovered in a British Admiralty file at the National Archives, Kew. The sketch, likely produced by Bombay Marine draughtsman Lt John Michael Houghton aboard one of the survey vessels accompanying Raffles's expedition, predates the previously accepted earliest drawing of Singapore (Lieutenant P. Jackson's 1823 view) and offers a contemporaneous visual record of the island's settlement and harbour on the very day Raffles finalized negotiations for British settlement (p. 1).

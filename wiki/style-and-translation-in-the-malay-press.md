@@ -3,8 +3,7 @@ id: style-and-translation-in-the-malay-press
 work_id: jmbras-26-1-p14
 title: Style and translation in the Malay press
 canonical_name: Style and translation in the Malay press
-type: article
-article_type: article
+type: publication
 authors:
 - J.M. Gullick
 year: 1953
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-161-gullick-styletranslationmalay-1953-f528228482c3
 source_path: ../sources/jmalayanras-161-gullick-styletranslationmalay-1953-f528228482c3.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Style and translation in the Malay press
 
 J.M. Gullick's "Style and Translation in the Malay Press" (JMBRAS 26.1, 1953, pp. 14–23) is a linguistic survey of how the Malay-language press in the early 1950s was reshaping the Malay language through the daily necessity of translating English political and news vocabulary. Gullick, writing as a non-specialist observer rather than a systematic philologist, identifies the press as the most pervasive agent of linguistic innovation in Malay and traces the specific mechanisms—borrowing, extended meaning, and stylistic rejection of the classical standard—through which English influence was being absorbed.

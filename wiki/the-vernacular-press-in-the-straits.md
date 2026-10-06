@@ -3,8 +3,7 @@ id: the-vernacular-press-in-the-straits
 work_id: jmbras-42-1-p192
 title: The vernacular press in the Straits
 canonical_name: The vernacular press in the Straits
-type: article
-article_type: article
+type: publication
 authors:
 - E.W. Birch
 year: 1969
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: false
 source_doc: jmbras-215-birch-vernacularpressstraits-1969-622fdcb44e36
 source_path: ../sources/jmbras-215-birch-vernacularpressstraits-1969-622fdcb44e36.md
+publication_type: note
 ---
+
 # The vernacular press in the Straits
 
 This short note by E. W. Birch, read at a meeting of the Society on 30 January 1880, provides a detailed account of the *Jawi Peranakkan*, the first Malay-language newspaper published in the Straits Settlements.

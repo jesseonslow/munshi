@@ -5,8 +5,7 @@ title: Notes on Dipterocarps. {No. 5} On the embryo, seedling and position of th
   flowers in various species
 canonical_name: Notes on Dipterocarps. {No. 5} On the embryo, seedling and position
   of the flowers in various species
-type: article
-article_type: article
+type: publication
 authors:
 - I.H. Burkill
 year: 1920
@@ -30,7 +29,9 @@ summarized: true
 source_mismatch: false
 source_doc: jsbras-081-burkill-notesdipterocarpsno-1920-1-1a818d76cde3
 source_path: ../sources/jsbras-081-burkill-notesdipterocarpsno-1920-1-1a818d76cde3.md
+publication_type: journal_article
 ---
+
 # Notes on Dipterocarps. {No. 5} On the embryo, seedling and position of the flowers in various species
 
 I.H. Burkill's 1920 monograph in the *Journal of the Straits Branch of the Royal Asiatic Society* presents detailed morphological observations on the mature embryo, seedling architecture, and flower orientation across multiple Dipterocarpaceae genera, arguing that embryological characters—long neglected by herbarium-based taxonomists—hold promise for resolving the tangled generic classification of the order.

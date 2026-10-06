@@ -3,8 +3,7 @@ id: ww-skeat-18661953-obituary
 work_id: jmbras-26-1-p224
 title: W.W. Skeat, 1866–1953. Obituary
 canonical_name: W.W. Skeat, 1866–1953. Obituary
-type: article
-article_type: obituary
+type: publication
 authors:
 - F.F. Laidlaw
 year: 1953
@@ -20,8 +19,8 @@ status: stub
 published: false
 source_doc: jmalayanras-161-laidlaw-obituaryww-1953-12126bcf3616
 source_path: ../sources/jmalayanras-161-laidlaw-obituaryww-1953-12126bcf3616.md
+publication_type: obituary
 ---
-
 
 # W.W. Skeat, 1866–1953. Obituary
 

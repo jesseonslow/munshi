@@ -3,8 +3,7 @@ id: ulun-no-bokan-murut-folklore
 work_id: jmbras-14-3-p323
 title: Ulun-no-bokan (Murut) folklore
 canonical_name: _Ulun-no-bokan_ (Murut) folklore
-type: article
-article_type: article
+type: publication
 authors:
 - H.G. Keith
 year: 1936
@@ -20,6 +19,7 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+publication_type: note
 ---
 
 # Ulun-no-bokan (Murut) folklore

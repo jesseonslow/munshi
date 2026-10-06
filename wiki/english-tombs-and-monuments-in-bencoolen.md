@@ -3,8 +3,7 @@ id: english-tombs-and-monuments-in-bencoolen
 work_id: jsbras-78-1-p51
 title: English tombs and monuments in Bencoolen
 canonical_name: English tombs and monuments in Bencoolen
-type: article
-article_type: article
+type: publication
 authors:
 - C.J. Brooks
 year: 1918
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-078-brooks-englishtombsmonuments-1918-c8e3c8d6c75f
 source_path: ../sources/jsbras-078-brooks-englishtombsmonuments-1918-c8e3c8d6c75f.md
 summarized: true
+publication_type: journal_article
 ---
+
 # English tombs and monuments in Bencoolen
 
 C.J. Brooks published this field survey of English tombs and monuments in Bencoolen (modern Bengkulu, Sumatra) in 1918, prompted by his attempt to locate the burial places of the naturalists Joseph Arnold and William Jack. The article documents the physical remains of the early English settlement (1685–1824) through its funerary architecture, while also recounting the political crisis that led to the assassination of Resident Thomas Parr in 1805.

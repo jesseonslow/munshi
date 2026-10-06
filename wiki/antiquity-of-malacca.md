@@ -3,8 +3,7 @@ id: antiquity-of-malacca
 work_id: jsbras-57-1-p189
 title: Antiquity of Malacca
 canonical_name: Antiquity of Malacca
-type: article
-article_type: article
+type: publication
 authors:
 - C.O. Blagden
 year: 1911
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-057-blagden-antiquitymalacca-1911-be3edc3837cc
 source_path: ../sources/jsbras-057-blagden-antiquitymalacca-1911-be3edc3837cc.md
 summarized: true
+publication_type: note
 ---
+
 # Antiquity of Malacca
 
 C. O. Blagden's short note reports on a newly identified reference to Malacca in a Siamese legal text, arguing for the city's existence earlier than previously established.

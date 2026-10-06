@@ -5,8 +5,7 @@ title: 'The Timing of Islamization in Southeast Asia: Local Agency, and the Chal
   of Analysing Religious Conversion'
 canonical_name: 'The Timing of Islamization in Southeast Asia: Local Agency, and the
   Challenge of Analysing Religious Conversion'
-type: article
-article_type: article
+type: publication
 authors:
 - L.A. Mills
 year: 2023
@@ -20,6 +19,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: journal_article
 ---
 
 # The Timing of Islamization in Southeast Asia: Local Agency, and the Challenge of Analysing Religious Conversion

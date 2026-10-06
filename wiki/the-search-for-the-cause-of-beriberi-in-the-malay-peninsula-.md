@@ -5,8 +5,7 @@ title: 'The search for the cause of beriberi in the Malay Peninsula: the contrib
   of Dr. W.L. Braddon'
 canonical_name: 'The search for the cause of beriberi in the Malay Peninsula: the
   contribution of Dr. W.L. Braddon'
-type: article
-article_type: article
+type: publication
 authors:
 - E M. Wylie
 year: 1988
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-255-wylie-searchcauseberiberi-1988-4864c19892a5
 source_path: ../sources/jmbras-255-wylie-searchcauseberiberi-1988-4864c19892a5.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The search for the cause of beriberi in the Malay Peninsula: the contribution of Dr. W.L. Braddon
 
 Enid Wylie's 1988 article in the *Journal of the Malayan Branch of the Royal Asiatic Society* examines the two-decade campaign by Dr. W. Leonard Braddon, a British district surgeon in the Federated Malay States, to identify the cause of beriberi among Chinese indentured labourers in the tin mines and rubber plantations of the Malay Peninsula. Wylie argues that although Braddon's "grain intoxication" theory posited an incorrect mechanism—a fungal toxin in polished rice rather than a thiamine deficiency—it correctly identified the dietary vehicle of the disease, led to life-saving interventions, and was subsequently undermined by institutional rivalry at the Institute of Medical Research.

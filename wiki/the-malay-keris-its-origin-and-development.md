@@ -3,8 +3,7 @@ id: the-malay-keris-its-origin-and-development
 work_id: jmbras-20-2-p60
 title: 'The Malay keris: its origin and development'
 canonical_name: The Malay _keris:_ its origin and development
-type: article
-article_type: article
+type: publication
 authors:
 - G.C. Woolley
 year: 1947
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-143-woolley-malaykrisorigin-1947-a534d2672844
 source_path: ../sources/jmalayanras-143-woolley-malaykrisorigin-1947-a534d2672844.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The Malay keris: its origin and development
 
 G.C. Woolley, writing in 1947, presents a comprehensive study of the Malay keris that argues for its origin as an indigenous Javanese invention rather than a borrowing from foreign sword traditions or adaptation of pre-existing weapons such as spears or fish stings. Drawing on temple sculpture, colonial-era ethnographic accounts, and museum specimens, Woolley traces the weapon's evolution from a talismanic object forged from meteoric iron in the Majapahit period through its diversification into seven regional types across the Archipelago, a process he links closely to the spread of Islam.

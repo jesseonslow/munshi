@@ -3,8 +3,7 @@ id: raja-manggeng
 work_id: jmbras-28-1-p144
 title: Raja Manggeng
 canonical_name: Raja Manggeng
-type: article
-article_type: article
+type: publication
 authors:
 - P. Howes
 year: 1955
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-169-howes-rajahmanggeng-1955-9ddd49411338
 source_path: ../sources/jmalayanras-169-howes-rajahmanggeng-1955-9ddd49411338.md
 summarized: true
+publication_type: note
 ---
+
 # Raja Manggeng
 
 Revd. Peter Howes published this brief ethnographic note in 1955, presenting the Padawan Land Dayak oral tradition of Manggeng—a hero who, according to the people of the Sarawak River (Simpang Kiri) region, single-handedly won a kingdom in Java. The article records the fullest known version of the narrative, traces the claimed genealogical descent, and describes the surviving material heirlooms (*pesaka*) that the Padawan people still possess.

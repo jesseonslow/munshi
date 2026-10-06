@@ -5,8 +5,7 @@ title: Recent archaeological discoveries in Sungai Mas, Kedah. Nik Hassan Suhaim
   bin Nik Abd. Rahman and Kamaruddin bin Zakaria
 canonical_name: Recent archaeological discoveries in Sungai Mas, Kedah. Nik Hassan
   Suhaimi bin Nik Abd. Rahman and Kamaruddin bin Zakaria
-type: article
-article_type: article
+type: publication
 authors:
 - Hassan Shuhaimi Nik, bin Nik Abdul Rahman
 - Kamarudin bin Zakaria
@@ -24,7 +23,9 @@ published: false
 source_doc: jmbras-265-rahman-recentarchaeologicaldiscoveries-1993-a287927c2f3d
 source_path: ../sources/jmbras-265-rahman-recentarchaeologicaldiscoveries-1993-a287927c2f3d.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Recent archaeological discoveries in Sungai Mas, Kedah. Nik Hassan Suhaimi bin Nik Abd. Rahman and Kamaruddin bin Zakaria
 
 Nik Hassan Shuhaimi bin Nik Abd. Rahman and Kamaruddin bin Zakaria (1993) report on the archaeological discoveries at Kampung Sungai Mas, Kuala Muda, Kedah, which since 1980 have fundamentally challenged the prevailing view—established by Alastair Lamb in the 1960s—that the Muda River Valley only came to prominence after the 14th century A.D. The article documents a range of finds including a 5th/6th-century Sanskrit Buddhist inscription, a life-size Buddha head, and extensive ceramic and bead assemblages that push the site's antiquity back to the early first millennium.

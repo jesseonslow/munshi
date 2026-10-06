@@ -3,8 +3,7 @@ id: william-george-maxwell-a-biographical-note
 work_id: jmbras-90-2-p117
 title: 'William George Maxwell: a biographical note'
 canonical_name: 'William George Maxwell: a biographical note'
-type: article
-article_type: article
+type: publication
 authors:
 - J.M. Gullick
 year: 2017
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-313-gullick-williamgeorgemaxwell-2017-b02bf03d8980
 source_path: ../sources/jmbras-313-gullick-williamgeorgemaxwell-2017-b02bf03d8980.md
 summarized: true
+publication_type: note
 ---
+
 # William George Maxwell: a biographical note
 
 J.M. Gullick's biographical note on William George Maxwell (1871–1959), published posthumously in JMBRAS in 2017, situates one of the most consequential colonial administrators in Malaya within the three-generation Maxwell dynasty that dominated Straits Settlements and Malay States governance from the 1850s through the 1920s. The article, originally prepared as a foreword to a new edition of Maxwell's *In Malay Forests* that never materialised, traces Maxwell's career from junior district officer to Chief Secretary of the Federated Malay States and examines his central role in the inter-war decentralisation controversy and his opposition to the Malayan Union scheme.

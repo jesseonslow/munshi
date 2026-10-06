@@ -3,8 +3,7 @@ id: the-growth-of-the-country-trade-to-the-straits-of-malacca-17
 work_id: jmbras-43-2-p114
 title: The growth of the country trade to the Straits of Malacca, 1760–1777
 canonical_name: The growth of the country trade to the Straits of Malacca, 1760–1777
-type: article
-article_type: article
+type: publication
 authors:
 - D. Lewis
 year: 1970
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-218-lewis-growthcountrytrade-1970-bd23d72043d6
 source_path: ../sources/jmbras-218-lewis-growthcountrytrade-1970-bd23d72043d6.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The growth of the country trade to the Straits of Malacca, 1760–1777
 
 Dianne Lewis's 1970 article examines how the Dutch East India Company (V.O.C.) failed to prevent the rapid expansion of the European Country Trade through the Straits of Malacca between 1760 and 1777, despite holding treaty rights that nominally excluded foreign shipping from the ports of the Malay states. Lewis argues that the Company's deliberate policy of non-interference—driven by declining resources and the demonstrated futility of military enforcement—paradoxically served its commercial interests by allowing the Bugis entrepots to flourish, which in turn compelled the Malay states to maintain cooperative ties with Malacca.

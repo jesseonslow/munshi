@@ -3,8 +3,7 @@ id: the-ancien-regime-in-trengganu-19091919
 work_id: jmbras-41-1-p23
 title: The ancien regime in Trengganu, 1909–1919
 canonical_name: The ancien regime in Trengganu, 1909–1919
-type: article
-article_type: article
+type: publication
 authors:
 - J. de V. Allen
 year: 1968
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-213-allen-ancienregimetrengganu-1968-e9b5aac4cce6
 source_path: ../sources/jmbras-213-allen-ancienregimetrengganu-1968-e9b5aac4cce6/allen-ancienregimetrengganu-1968.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The ancien regime in Trengganu, 1909–1919
 
 J. de V. Allen (1968) reconstructs the political and administrative life of Trengganu between the assumption of British suzerainty in 1909 and the imposition of a full Adviser in 1919, drawing primarily on the monthly diaries of the British Agents preserved in the Colonial Office files. His overarching thesis is that the "untrammeled Malay rule" of the pre-British period was far more stable, sophisticated, and less oppressive than earlier British accounts suggested, and that the state's subsequent decline was driven primarily by internal power struggles disrupted by British intervention rather than by any inherent inadequacy of indigenous governance.

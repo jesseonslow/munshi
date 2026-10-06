@@ -5,8 +5,7 @@ title: 'Imperial cosmopolitan Malaya: a study of Realist fiction in the Straits 
   Magazine'
 canonical_name: 'Imperial cosmopolitan Malaya: a study of Realist fiction in the _Straits
   Chinese Magazine._'
-type: article
-article_type: article
+type: publication
 authors:
 - Neil Khor Jin Keong
 year: 2008
@@ -22,6 +21,7 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+publication_type: journal_article
 ---
 
 # Imperial cosmopolitan Malaya: a study of Realist fiction in the Straits Chinese Magazine

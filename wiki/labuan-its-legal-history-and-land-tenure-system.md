@@ -3,8 +3,7 @@ id: labuan-its-legal-history-and-land-tenure-system
 work_id: jmbras-82-1-p17
 title: 'Labuan: its legal history and land tenure system'
 canonical_name: 'Labuan: its legal history and land tenure system'
-type: article
-article_type: article
+type: publication
 authors:
 - Bashiran Begum
 - Nor Asiah Mohamad
@@ -22,7 +21,9 @@ published: false
 source_doc: jmbras-296-begum-labuanlegalhistory-2009-2df2f03d18c8
 source_path: ../sources/jmbras-296-begum-labuanlegalhistory-2009-2df2f03d18c8/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Labuan: its legal history and land tenure system
 
 Bashiran Begum and Nor Asiah Mohamad (2009) trace the legal history of Labuan from its cession by the Sultan of Brunei in 1846 to its status as a Malaysian Federal Territory, arguing that the Labuan Registration of Titles to Land Ordinance No. 7 of 1849 constitutes the earliest land registration system in what is now Malaysia—predating both the Torrens System in Australia (1858) and the Selangor Registration of Titles Regulation (1891) by which W. E. Maxwell is conventionally credited.

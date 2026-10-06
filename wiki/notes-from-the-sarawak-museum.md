@@ -3,8 +3,7 @@ id: notes-from-the-sarawak-museum
 work_id: jsbras-35-1-p69
 title: Notes from the Sarawak Museum
 canonical_name: Notes from the Sarawak Museum
-type: article
-article_type: article
+type: publication
 authors:
 - R.S. Shelford
 year: 1901
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-033-shelford-notessarawakmuseum-1900-2db43eaee610
 source_path: ../sources/jsbras-033-shelford-notessarawakmuseum-1900-2db43eaee610.md
 summarized: true
+publication_type: note
 ---
+
 # Notes from the Sarawak Museum
 
 R.H. Shelford, curator of the Sarawak Museum, published this collection of four natural history notes in 1901, drawing on fieldwork conducted in the highlands of Sarawak (Mt. Penrissen and Mt. Matang) during the late 1890s. The article addresses a range of entomological and museum-administrative topics, from the description of a previously unrecorded dipterous larva to the formal adoption of a decimal cataloguing system for the museum's zoological collections.

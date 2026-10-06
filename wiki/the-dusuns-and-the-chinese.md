@@ -3,8 +3,7 @@ id: the-dusuns-and-the-chinese
 work_id: jmbras-4-1-p153
 title: The Dusuns and the Chinese
 canonical_name: The Dusuns and the Chinese
-type: article
-article_type: article
+type: publication
 authors:
 - I.H.N. Evans
 year: 1926
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-096-evans-dusunschinese-1926-74755eae89a5
 source_path: ../sources/jmalayanras-096-evans-dusunschinese-1926-74755eae89a5.md
 summarized: true
+publication_type: note
 ---
+
 # The Dusuns and the Chinese
 
 This is a brief critical note by I.H.N. Evans responding to Hewett's theory that the Dusuns of Borneo are of Chinese descent, published in the JMBRAS in 1926.

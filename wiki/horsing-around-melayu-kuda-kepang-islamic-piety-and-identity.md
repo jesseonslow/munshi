@@ -5,8 +5,7 @@ title: 'Horsing around Melayu: Kuda kepang, Islamic piety, and identity politics
   play in Singapore’s Malay community'
 canonical_name: 'Horsing around _Melayu: Kuda kepang,_ Islamic piety, and identity
   politics at play in Singapore’s Malay community _._'
-type: article
-article_type: article
+type: publication
 authors:
 - Hardwick P.A
 year: 2014
@@ -24,7 +23,9 @@ summarized: true
 source_mismatch: true
 source_doc: jmbras-306-hardwick-horsingaroundmelayu-2014-ea93b01a2d2b
 source_path: ../sources/references.md
+publication_type: journal_article
 ---
+
 # Horsing around Melayu: Kuda kepang, Islamic piety, and identity politics at play in Singapore’s Malay community
 
 Patricia A. Hardwick's 2014 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* examines how Singaporean Malay *kuda kepang* (hobbyhorse trance dance) practitioners actively negotiate and refashion their ethnic, social, and religious identities through performance in the context of state-defined racial categories and Islamic regulatory authority. Drawing on ethnographic fieldwork conducted between 2011 and 2013 with more than a dozen troupes, Hardwick argues that *kuda kepang* has become a unique, localized expression of Singaporean Malay identity that is simultaneously contested by religious authorities and embraced by performers as a vital site of community cohesion and self-definition (pp. 1–2).

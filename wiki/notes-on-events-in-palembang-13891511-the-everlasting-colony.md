@@ -3,8 +3,7 @@ id: notes-on-events-in-palembang-13891511-the-everlasting-colony
 work_id: jmbras-59-1-p73
 title: 'Notes on events in Palembang 1389–1511: the everlasting colony'
 canonical_name: 'Notes on events in Palembang 1389–1511: the everlasting colony'
-type: article
-article_type: article
+type: publication
 authors:
 - R.W. McRoberts
 year: 1986
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-250-mcroberts-noteseventspalembang-1986-15eb2df2d25d
 source_path: ../sources/jmbras-250-mcroberts-noteseventspalembang-1986-15eb2df2d25d.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Notes on events in Palembang 1389–1511: the everlasting colony
 
 R.W. McRoberts published "Notes on Events in Palembang 1389–1511: The Everlasting Colony" in 1986, examining the political trajectory of Palembang, Sumatra, across the late fourteenth and fifteenth centuries. His central argument is that Palembang never achieved genuine independence during this period, remaining perpetually a vassal or colony of a greater power—first Majapahit, then Melaka, then Demak—and that the people of Palembang were "reagents rather than catalysts" in their own history (p. 83).

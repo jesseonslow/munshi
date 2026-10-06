@@ -3,8 +3,7 @@ id: the-origin-of-the-trengganu-perahu-pinas
 work_id: jmbras-26-1-p206
 title: The origin of the Trengganu perahu pinas
 canonical_name: The origin of the Trengganu _perahu pinas._
-type: article
-article_type: article
+type: publication
 authors:
 - C.A. Gibson-Hill
 year: 1953
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-161-gibsonhill-origintrengganuprahu-1953-b98df71e5475
 source_path: ../sources/jmalayanras-161-gibsonhill-origintrengganuprahu-1953-b98df71e5475.md
 summarized: true
+publication_type: note
 ---
+
 # The origin of the Trengganu perahu pinas
 
 C.A. Gibson-Hill published this short note in 1953, examining the origins of the Trengganu *perahu pinas*, a two-masted cargo boat of the East Coast of Malaya whose hull was clearly built on European lines. Drawing on an anonymous 1846 account of a visit to Kuala Trengganu, local oral tradition, and later colonial reports, Gibson-Hill argues that the vessel's design was introduced not by a shipwrecked French sailor (as local tradition held) but by a European blacksmith—identified as a German named Martin Perrot—who settled in Trengganu in the 1840s and became closely associated with the construction of the Sultan's first European-style schooner.

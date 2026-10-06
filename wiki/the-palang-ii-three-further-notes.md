@@ -3,8 +3,7 @@ id: the-palang-ii-three-further-notes
 work_id: jmbras-39-1-p172
 title: 'The “palang” II: Three further notes'
 canonical_name: 'The _“palang”_ II: Three further notes'
-type: article
-article_type: article
+type: publication
 authors:
 - Tom Harrisson
 year: 1966
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-209-harrisson-palangiithree-1966-2c3a2cc321c1
 source_path: ../sources/jmbras-209-harrisson-palangiithree-1966-2c3a2cc321c1.md
 summarized: true
+publication_type: note
 ---
+
 # The “palang” II: Three further notes
 
 This is a three-part short note by Tom Harrisson (1966) documenting additional material on the *palang*, a penile bar device used in Borneo, following his earlier 1964 article in the same journal.

@@ -3,8 +3,7 @@ id: a-glimpse-at-the-manners-and-customs-of-the-hill-tribes-of-n
 work_id: jsbras-15-1-p69
 title: A glimpse at the manners and customs of the Hill tribes of North Formosa
 canonical_name: A glimpse at the manners and customs of the Hill tribes of North Formosa
-type: article
-article_type: article
+type: publication
 authors:
 - J. Dodd
 year: 1885
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-015-dodd-glimpsemannerscustoms-1885-e443ef73b4ec
 source_path: ../sources/jsbras-015-dodd-glimpsemannerscustoms-1885-e443ef73b4ec.md
 summarized: true
+publication_type: note
 ---
+
 # A glimpse at the manners and customs of the Hill tribes of North Formosa
 
 J. Dodd, a British resident in North Formosa who had discovered petroleum wells in the island's interior in 1865, published this ethnographic sketch in 1885 as the first instalment of a multi-part account of the aboriginal hill tribes inhabiting the mountains behind Banca (Banqiao) and extending towards Su-oh Bay. The article offers a physical and material description of the northern Formosan aborigines, arguing for their distinct racial character and documenting their dress, weaponry, and ornamental practices as observed from the Chinese borderlands.

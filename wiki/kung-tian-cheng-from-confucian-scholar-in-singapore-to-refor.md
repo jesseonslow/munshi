@@ -5,8 +5,7 @@ title: 'Kung Tian Cheng: From Confucian Scholar in Singapore to Reformer in the 
   Republic'
 canonical_name: 'Kung Tian Cheng: From Confucian Scholar in Singapore to Reformer
   in the Chinese Republic'
-type: article
-article_type: article
+type: publication
 authors:
 - B. Tan
 year: 2023
@@ -20,6 +19,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: journal_article
 ---
 
 # Kung Tian Cheng: From Confucian Scholar in Singapore to Reformer in the Chinese Republic

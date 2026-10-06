@@ -3,8 +3,7 @@ id: pelas-negri-nq-3
 work_id: jsbras-16-pelas-negri-nq-3
 title: Pelas negri. NQ 3
 canonical_name: _Pelas negri._ NQ 3
-type: article
-article_type: notes_and_queries
+type: publication
 authors:
 - W.E. Maxwell
 year: 1885
@@ -18,6 +17,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: note
 ---
 
 # Pelas negri. NQ 3

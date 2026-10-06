@@ -3,8 +3,7 @@ id: the-royal-navy-and-disease-in-the-straits-of-malacca-1794181
 work_id: jmbras-95-2-p22
 title: The Royal Navy and Disease in the Straits of Malacca, 1794–1815
 canonical_name: The Royal Navy and Disease in the Straits of Malacca, 1794–1815
-type: article
-article_type: article
+type: publication
 authors:
 - Tham Junean
 - Mohd Bin Samsudin
@@ -29,7 +28,9 @@ keywords:
 source_doc: tham-samsudin-royal-navy-and-disease-1c7f497e8a4a
 source_path: ../sources/tham-samsudin-royal-navy-and-disease-1c7f497e8a4a/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The Royal Navy and Disease in the Straits of Malacca, 1794–1815
 
 ## Abstract

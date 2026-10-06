@@ -5,8 +5,7 @@ title: 'Founding an ethnic Chinese business empire in colonial Asia: the strateg
   alliances of Major Oei Tiong Ham, 1895–1905'
 canonical_name: 'Founding an ethnic Chinese business empire in colonial Asia: the
   strategic alliances of Major Oei Tiong Ham, 1895–1905'
-type: article
-article_type: article
+type: publication
 authors:
 - P. Post
 year: 2019
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-317-post-foundingethnicchinese-2019-8573b20c67c5
 source_path: ../sources/jmbras-317-post-foundingethnicchinese-2019-8573b20c67c5/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Founding an ethnic Chinese business empire in colonial Asia: the strategic alliances of Major Oei Tiong Ham, 1895–1905
 
 This article by Peter Post examines the strategic alliances through which Oei Tiong Ham built his ethnic Chinese business empire in colonial Asia during the period 1895–1905.

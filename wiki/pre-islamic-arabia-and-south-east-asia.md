@@ -3,8 +3,7 @@ id: pre-islamic-arabia-and-south-east-asia
 work_id: jmbras-29-3-p182
 title: Pre-Islamic Arabia and South-East Asia
 canonical_name: Pre-Islamic Arabia and South-East Asia
-type: article
-article_type: article
+type: publication
 authors:
 - G.R. Tibbetts
 year: 1956
@@ -20,6 +19,7 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+publication_type: journal_article
 ---
 
 # Pre-Islamic Arabia and South-East Asia

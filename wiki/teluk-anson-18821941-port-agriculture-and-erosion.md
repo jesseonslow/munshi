@@ -3,8 +3,7 @@ id: teluk-anson-18821941-port-agriculture-and-erosion
 work_id: jmbras-68-2-p33
 title: 'Teluk Anson, 1882–1941: port, agriculture and erosion'
 canonical_name: 'Teluk Anson, 1882–1941: port, agriculture and erosion'
-type: article
-article_type: article
+type: publication
 authors:
 - Khoo Kay Kim
 year: 1995
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-269-kim-telukanson18821941-1995-a46c52c35134
 source_path: ../sources/jmbras-269-kim-telukanson18821941-1995-a46c52c35134.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Teluk Anson, 1882–1941: port, agriculture and erosion
 
 Khoo Kay Kim's 1995 article traces the development of Teluk Anson (now Teluk Intan) from its founding in 1882 through the eve of the Japanese Occupation, arguing that the town represents a distinctive case of a west coast port that transitioned from a trade-dependent settlement to one servicing a vast agricultural hinterland. Published in the Sheppard Memorial Issue of the JMBRAS, the study addresses what the author identifies as a significant gap in Malaysian historiography: the near absence of serious local and town histories.

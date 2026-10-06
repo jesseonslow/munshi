@@ -5,8 +5,7 @@ title: 'Penghulus in Perak and Selangor: rationalisation and decline of a tradit
   Malay office'
 canonical_name: '_Penghulus_ in Perak and Selangor: rationalisation and decline of
   a traditional Malay office'
-type: article
-article_type: article
+type: publication
 authors:
 - P.H. Kratoska
 year: 1984
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-247-kratoska-penghulusperakselangor-1984-21e94af04d61
 source_path: ../sources/jmbras-247-kratoska-penghulusperakselangor-1984-21e94af04d61/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Penghulus in Perak and Selangor: rationalisation and decline of a traditional Malay office
 
 Paul H. Kratoska published this comparative administrative history in 1984 in the *Journal of the Malaysian Branch of the Royal Asiatic Society*, tracing the Penghulu (subdistrict headman) in Perak and Selangor from the establishment of British residential rule in 1874 through the post-independence period. The article's central argument is that the colonial administration created an unresolvable tension between two incompatible models of the office—the traditional local leader whose authority derived from personal influence and community standing, and the bureaucratized government servant selected for education and administrative efficiency—and that this tension, compounded by the arrival of electoral politics after 1957, led to the progressive decline of the Penghulu as a meaningful point of articulation between state and rural community.

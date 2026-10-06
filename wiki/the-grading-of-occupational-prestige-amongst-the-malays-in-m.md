@@ -3,8 +3,7 @@ id: the-grading-of-occupational-prestige-amongst-the-malays-in-m
 work_id: jmbras-41-1-p146
 title: The grading of occupational prestige amongst the Malays in Malaysia
 canonical_name: The grading of occupational prestige amongst the Malays in Malaysia
-type: article
-article_type: article
+type: publication
 authors:
 - Hussein, Syed Alatas
 year: 1968
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-213-alatas-gradingoccupationalprestige-1968-436e6a891196
 source_path: ../sources/jmbras-213-alatas-gradingoccupationalprestige-1968-436e6a891196/references.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The grading of occupational prestige amongst the Malays in Malaysia
 
 This document is the title page and references section of Syed Hussein Alatas's 1968 article "The Grading of Occupational Prestige Amongst the Malays in Malaysia," published in *JMBRAS* Vol. 41, No. 1 (pp. 146–156).

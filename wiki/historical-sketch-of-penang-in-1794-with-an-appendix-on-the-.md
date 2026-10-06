@@ -5,8 +5,7 @@ title: Historical sketch of Penang in 1794. With an appendix on the failure of P
   as a naval base and shipbuilding centre, M. Stubbs Brown. .S. Bastin
 canonical_name: Historical sketch of Penang in 1794. With an appendix on the failure
   of Penang as a naval base and shipbuilding centre, M. Stubbs Brown. .S. Bastin
-type: article
-article_type: article
+type: publication
 authors:
 - J.S. Bastin
 - M.S. Brown
@@ -23,6 +22,7 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+publication_type: journal_article
 ---
 
 # Historical sketch of Penang in 1794. With an appendix on the failure of Penang as a naval base and shipbuilding centre, M. Stubbs Brown. .S. Bastin

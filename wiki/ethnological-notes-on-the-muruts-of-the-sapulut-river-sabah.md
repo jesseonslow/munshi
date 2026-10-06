@@ -3,8 +3,7 @@ id: ethnological-notes-on-the-muruts-of-the-sapulut-river-sabah
 work_id: jmbras-40-1-p111
 title: Ethnological notes on the Muruts of the Sapulut River, Sabah
 canonical_name: Ethnological notes on the Muruts of the Sapulut River, Sabah
-type: article
-article_type: article
+type: publication
 authors:
 - Tom Harrisson
 year: 1967
@@ -18,6 +17,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: journal_article
 ---
 
 # Ethnological notes on the Muruts of the Sapulut River, Sabah

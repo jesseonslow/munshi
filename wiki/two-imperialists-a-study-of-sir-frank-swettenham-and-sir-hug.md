@@ -3,8 +3,7 @@ id: two-imperialists-a-study-of-sir-frank-swettenham-and-sir-hug
 work_id: jmbras-37-1-p41
 title: 'Two imperialists: a study of Sir Frank Swettenham and Sir Hugh Clifford'
 canonical_name: 'Two imperialists: a study of Sir Frank Swettenham and Sir Hugh Clifford'
-type: article
-article_type: article
+type: publication
 authors:
 - J. de V. Allen
 year: 1964
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-205-allen-twoimperialistsstudy-1964-16f05c3cf5ea
 source_path: ../sources/jmbras-205-allen-twoimperialistsstudy-1964-16f05c3cf5ea.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Two imperialists: a study of Sir Frank Swettenham and Sir Hugh Clifford
 
 J. de V. Allen's 1964 study examines the intellectual and administrative worldviews of Sir Frank Swettenham and Sir Hugh Clifford, the two most prominent early Residents of the Malay States, using their own published writings (over twenty books between them) and Royal Colonial Institute proceedings as primary sources. Set against the backdrop of the Residential System from its inception in 1874 through Clifford's final governorship in 1927, the article argues that the two men's fundamental divergence lay in their competing definitions of "regeneration": Swettenham measured the justice of British rule by material progress and revenue growth, while Clifford measured it by the happiness and moral contentment of the Malays themselves. This difference in criteria explains why Swettenham's imperialist confidence hardened with age while Clifford's was progressively undermined, culminating in what Allen identifies as Clifford's intellectual bankruptcy and personal tragedy.

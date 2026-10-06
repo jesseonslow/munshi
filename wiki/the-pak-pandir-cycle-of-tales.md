@@ -3,8 +3,7 @@ id: the-pak-pandir-cycle-of-tales
 work_id: jmbras-49-1-p15
 title: The Pak Pandir cycle of tales
 canonical_name: The Pak Pandir cycle of tales
-type: article
-article_type: article
+type: publication
 authors:
 - A. Sweeney
 year: 1976
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-229-sweeney-pakpandircycle-1976-8b6e34978c67
 source_path: ../sources/jmbras-229-sweeney-pakpandircycle-1976-8b6e34978c67.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The Pak Pandir cycle of tales
 
 Amin Sweeney's 1976 monograph-length article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* presents the first systematic study of the Pak Pandir cycle of comic tales in Malay oral tradition, based on fieldwork conducted across all states of Peninsular Malaysia and Patani between 1971 and 1973. The work directly challenges the long-dominant scholarly reliance on the 1908 published *Cherita Jenaka* and R.O. Winstedt's conclusions drawn from it, demonstrating that the oral tradition is far richer, more varied, and structurally distinct from the literary adaptation.

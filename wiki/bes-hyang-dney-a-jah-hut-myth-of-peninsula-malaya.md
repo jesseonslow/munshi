@@ -3,8 +3,7 @@ id: bes-hyang-dney-a-jah-hut-myth-of-peninsula-malaya
 work_id: jmbras-59-2-p139
 title: 'Bes Hyang Dney: a Jah Hut myth of Peninsula Malaya'
 canonical_name: 'Bes Hyang Dney: a Jah Hut myth of Peninsula Malaya'
-type: article
-article_type: article
+type: publication
 authors:
 - Boon Seong Teoh
 year: 1986
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-251-teoh-beshyangdney-1986-09b8bfed1d6a
 source_path: ../sources/jmbras-251-teoh-beshyangdney-1986-09b8bfed1d6a/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Bes Hyang Dney: a Jah Hut myth of Peninsula Malaya
 
 Boon Seong Teoh's 1986 article presents the Jah Hut myth *Bes Hyang Dney* — a tale of a virulent forest spirit — in both its original Austroasiatic language and English translation, situating it within the broader cosmological and shamanic framework of the Jah Hut people of Krau Valley, Pahang. The piece serves as both a linguistic record and a cultural commentary on the tension between traditional Jah Hut heritage and the encroaching modernity of 1980s Malaysia.

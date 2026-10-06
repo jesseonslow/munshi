@@ -3,8 +3,7 @@ id: british-relations-with-pahang-18841895
 work_id: jmbras-35-1-p1
 title: British relations with Pahang, 1884–1895
 canonical_name: British relations with Pahang, 1884–1895
-type: article
-article_type: article
+type: publication
 authors:
 - J. De Silva
 year: 1962
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: true
 source_doc: jmalayanras-197-silva-britishrelationspahang-1962-900cd543a8ee
 source_path: ../sources/jmalayanras-197-silva-britishrelationspahang-1962-900cd543a8ee.md
+publication_type: journal_article
 ---
+
 # British relations with Pahang, 1884–1895
 
 J. de Silva's 1962 article in the *Journal of the Malayan Branch of the Royal Asiatic Society* traces the transformation of Pahang from a semi-independent Malay state into a British-protected territory under the Residential system between 1884 and 1895. Set against the backdrop of the British "Forward Policy" in the Malay Peninsula, the article argues that the introduction of a British Resident was driven less by humanitarian concern than by the imperative to protect British mining capital, and that the resulting 1891–92 rebellion was a direct consequence of the Resident's failure to secure the cooperation of the Sultan and his territorial Chiefs.

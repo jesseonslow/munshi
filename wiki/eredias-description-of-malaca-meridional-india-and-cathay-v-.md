@@ -4,8 +4,7 @@ work_id: jmbras-8-1-p1
 title: Eredia’s description of Malaca, Meridional India, and Cathay; .V. Mills
 canonical_name: Eredia’s description of Malaca, Meridional India, and Cathay; .V.
   Mills
-type: article
-article_type: translation
+type: publication
 authors:
 - E.G. de Eredia
 - J.V. Mills
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-296-jeshurun-tunkuabdulrahman-2009-8b678298b078
 source_path: ../sources/jmbras-296-jeshurun-tunkuabdulrahman-2009-8b678298b078/frontmatter.md
 summarized: true
+publication_type: translation
 ---
+
 # Eredia’s description of Malaca, Meridional India, and Cathay; .V. Mills
 
 Chandran Jeshurun's 2009 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* (Vol. 82, Part 1) reconstructs the personal and institutional ties between Malaysia's first Prime Minister, Tunku Abdul Rahman Putra Al-Haj, and two universities—Cambridge and the University of Malaya—during the critical period of 1960–1962. Drawing primarily on the Tunku's private papers held at the Tunku Abdul Rahman Putra Al-Haj Memorial in Kuala Lumpur, Jeshurun argues that the Tunku's indefatigable support was instrumental in elevating the newly established Pantai Valley campus to prominence within the Association of Commonwealth Universities during the 1960s and 1970s.

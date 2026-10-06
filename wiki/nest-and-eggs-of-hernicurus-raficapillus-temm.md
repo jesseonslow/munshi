@@ -3,8 +3,7 @@ id: nest-and-eggs-of-hernicurus-raficapillus-temm
 work_id: jsbras-24-1-p170
 title: Nest and eggs of Hernicurus raficapillus Temm
 canonical_name: Nest and eggs of _Hernicurus raficapillus_ Temm
-type: article
-article_type: article
+type: publication
 authors:
 - H.J. Kelsall
 - H.N. Ridley
@@ -22,7 +21,9 @@ published: false
 source_doc: jsbras-024-k-nesteggshenicurus-1891-ed4927dad9ef
 source_path: ../sources/jsbras-024-k-nesteggshenicurus-1891-ed4927dad9ef.md
 summarized: true
+publication_type: note
 ---
+
 # Nest and eggs of Hernicurus raficapillus Temm
 
 This is a brief note by H. J. Kelsall describing the discovery of eggs at the end of a ground tunnel, initially associated with *Henicurus ruficapillus* but identified by Mr. Davison as those of the bee-eater *Nyctiornis amicta* (p. 170).

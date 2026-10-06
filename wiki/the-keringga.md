@@ -3,8 +3,7 @@ id: the-keringga
 work_id: jsbras-23-1-p147
 title: The keringga
 canonical_name: The _keringga._
-type: article
-article_type: article
+type: publication
 authors:
 - H.N. Ridley
 year: 1891
@@ -20,6 +19,7 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+publication_type: note
 ---
 
 # The keringga

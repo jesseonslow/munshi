@@ -3,8 +3,7 @@ id: āl-al-aṭṭās-and-ḥaḍramī-arab-migration-to-the-malay-world
 work_id: jmbras-94-1-p51
 title: Āl al-'Aṭṭās and Ḥaḍramī Arab Migration to the Malay World
 canonical_name: Āl al-'Aṭṭās and Ḥaḍramī Arab Migration to the Malay World
-type: article
-article_type: article
+type: publication
 authors:
 - Farid, Syed Alatas
 year: 2021
@@ -21,7 +20,9 @@ published: false
 source_doc: alatas-al-al-attas-and-hadrami-arab-migration-638bc3e9a7f0
 source_path: ../sources/alatas-al-al-attas-and-hadrami-arab-migration-638bc3e9a7f0/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Āl al-'Aṭṭās and Ḥaḍramī Arab Migration to the Malay World
 
 ## Abstract

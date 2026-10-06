@@ -3,8 +3,7 @@ id: rambong-beetle
 work_id: jsbras-36-1-p138
 title: Rambong beetle
 canonical_name: Rambong beetle
-type: article
-article_type: article
+type: concept
 authors:
 - H.N. Ridley
 year: 1901
@@ -22,6 +21,7 @@ source_doc: jsbras-036-r-rambongbeetle-1901-c5f0db412178
 source_path: ../sources/jsbras-036-r-rambongbeetle-1901-c5f0db412178.md
 summarized: true
 ---
+
 # Rambong beetle
 
 This short note by H. N. Ridley (1901) describes the longicorn beetle *Batocera octomaculata* as a pest of the India-rubber tree (*Ficus elastica*) in Selangor, providing detailed morphological accounts of both the grub and the adult beetle.

@@ -3,8 +3,7 @@ id: emily-innes-18431927
 work_id: jmbras-55-2-p87
 title: Emily Innes, 1843–1927
 canonical_name: Emily Innes, 1843–1927
-type: article
-article_type: article
+type: publication
 authors:
 - J.M. Gullick
 year: 1982
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-243-gullick-emilyinnes18431927-1982-cee74ae7699a
 source_path: ../sources/jmbras-243-gullick-emilyinnes18431927-1982-cee74ae7699a.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Emily Innes, 1843–1927
 
 J.M. Gullick's 1982 article in *JMBRAS* 55(2) is a biographical reassessment of Emily Innes (1843–1927), author of *The Chersonese with the Gilding Off* (1885), using the recently discovered private diary of Bloomfield Douglas, Resident of Selangor, alongside publishing records and Colonial Office files to separate the factual content of Innes' account from the distorting effects of her personal grievances.

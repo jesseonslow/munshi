@@ -3,8 +3,7 @@ id: singapores-pauper-and-tan-tock-seng-hospitals-part-i
 work_id: jmbras-48-2-p79
 title: Singapore’s pauper and Tan Tock Seng hospitals. Part I
 canonical_name: Singapore’s pauper and Tan Tock Seng hospitals. Part I
-type: article
-article_type: article
+type: publication
 authors:
 - Y.K. Lee
 year: 1975
@@ -38,7 +37,9 @@ reprints:
 source_doc: jmbras-228-lee-singaporespaupertan-1975-4759b8acc044
 source_path: ../sources/jmbras-228-lee-singaporespaupertan-1975-4759b8acc044/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Singapore’s pauper and Tan Tock Seng hospitals. Part I
 
 Y.K. Lee's 1975 article traces the institutional history of Singapore's pauper hospitals from the founding of the Settlement in 1819 to the laying of the foundation stone of Tan Tock Seng Hospital in 1844, arguing that the hospital's origins were shaped by a persistent tension between colonial fiscal conservatism and the humanitarian crisis created by mass Chinese immigration. The study demonstrates that what is remembered as a single act of private philanthropy was in fact the culmination of decades of administrative failure, inter-imperial disputes, and community self-help.

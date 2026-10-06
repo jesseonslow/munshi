@@ -3,8 +3,7 @@ id: some-further-notes-on-coins-from-the-northeastern-malay-stat
 work_id: jmbras-20-1-p16
 title: Some further notes on coins from the northeastern Malay states
 canonical_name: Some further notes on coins from the northeastern Malay states
-type: article
-article_type: article
+type: publication
 authors:
 - A. Rentse
 year: 1947
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-142-rentse-notescoinsnortheastern-1947-16b810456eba
 source_path: ../sources/jmalayanras-142-rentse-notescoinsnortheastern-1947-16b810456eba.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Some further notes on coins from the northeastern Malay states
 
 Anker Rentse's 1947 article in the *Journal of the Malayan Branch of the Royal Asiatic Society* presents a numismatic survey of recently discovered gold and pewter coins from Kelantan, Patani, and Trengganu, arguing that the variety and distribution of these coin types confirm the northeastern Malay states as significant pre-modern trade centres with active local minting traditions.

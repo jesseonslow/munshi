@@ -3,8 +3,7 @@ id: the-attitudes-of-the-brookes-towards-education-in-sarawak
 work_id: jmbras-70-2-p53
 title: The attitudes of the Brookes towards education in Sarawak
 canonical_name: The attitudes of the Brookes towards education in Sarawak
-type: article
-article_type: article
+type: publication
 authors:
 - Ooi Keat Gin
 year: 1997
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-273-gin-attitudesbrookestowards-1997-a758ae52a158
 source_path: ../sources/jmbras-273-gin-attitudesbrookestowards-1997-a758ae52a158/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The attitudes of the Brookes towards education in Sarawak
 
 Ooi Keat Gin (1997) examines the educational policies and attitudes of the three White Rajahs of Sarawak across the full century of Brooke rule (1841–1941), arguing that the Brookes treated education as a conservative instrument of material welfare rather than a vehicle for social transformation. Drawing on the Sarawak State Archives, the *Sarawak Gazette*, and missionary correspondence, the article demonstrates how the Brookes' fear of cultural contamination and political destabilisation produced a deliberately limited, practical curriculum for indigenous peoples while leaving Chinese vernacular education largely to its own devices.

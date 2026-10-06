@@ -3,8 +3,7 @@ id: the-minerals-of-sarawak
 work_id: jsbras-2-1-p229
 title: The minerals of Sarawak
 canonical_name: The minerals of Sarawak
-type: article
-article_type: article
+type: publication
 authors:
 - A.H. Everett
 year: 1878
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-002-everett-mineralssarawak-1878-667c8f5f089b
 source_path: ../sources/jsbras-002-everett-mineralssarawak-1878-667c8f5f089b.md
 summarized: true
+publication_type: note
 ---
+
 # The minerals of Sarawak
 
 This brief note by A.H. Everett, dated 23 November 1878, provides an updated account of minerals identified in Sarawak, supplementing an earlier publication of his on the subject (p. 230).

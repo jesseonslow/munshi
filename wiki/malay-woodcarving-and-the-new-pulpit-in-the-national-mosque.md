@@ -3,8 +3,7 @@ id: malay-woodcarving-and-the-new-pulpit-in-the-national-mosque
 work_id: jmbras-67-1-p95
 title: Malay woodcarving and the new pulpit in the National Mosque
 canonical_name: Malay woodcarving and the new pulpit in the National Mosque
-type: article
-article_type: article
+type: publication
 authors:
 - Mubin Sheppard
 year: 1994
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-266-sheppard-malaywoodcarvingnew-1994-9826700d79d9
 source_path: ../sources/jmbras-266-sheppard-malaywoodcarvingnew-1994-9826700d79d9.md
 summarized: true
+publication_type: note
 ---
+
 # Malay woodcarving and the new pulpit in the National Mosque
 
 This short note by Mubin Sheppard documents the commissioning and construction of a new pulpit (mimbar) for the National Mosque (Masjid Negara) in 1993, and profiles the Kelantanese woodcarver Latif Long who executed the work (p. 95).

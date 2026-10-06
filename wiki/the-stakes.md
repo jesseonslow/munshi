@@ -3,8 +3,7 @@ id: the-stakes
 work_id: jmbras-31-1-p178
 title: The stakes
 canonical_name: The stakes
-type: article
-article_type: article
+type: publication
 authors:
 - E. Banks
 year: 1958
@@ -18,6 +17,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: note
 ---
 
 # The stakes

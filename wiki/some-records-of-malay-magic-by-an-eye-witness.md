@@ -3,8 +3,7 @@ id: some-records-of-malay-magic-by-an-eye-witness
 work_id: jsbras-31-1-p1
 title: Some records of Malay magic by an eye-witness
 canonical_name: Some records of Malay magic by an eye-witness
-type: article
-article_type: article
+type: publication
 authors:
 - W.W. Skeat
 year: 1898
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-031-skeat-recordsmalaymagic-1898-3648f10444dc
 source_path: ../sources/jsbras-031-skeat-recordsmalaymagic-1898-3648f10444dc.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Some records of Malay magic by an eye-witness
 
 W.W. Skeat, a senior British colonial administrator in the Straits Settlements, published this first-person ethnographic record in 1898, documenting Malay magical and ritual practices he personally witnessed in the Negri Sembilan region. The article's overarching thesis is that direct observation—rather than second-hand reportage—yields the "rigid and accurate knowledge" necessary to understand these ceremonies, and that their apparent irrationality dissolves once interpreted through the principles of sympathetic magic as articulated by Frazer.

@@ -5,8 +5,7 @@ title: The election and installation of Tungku Muhammad, C.M.G. bin Tungku Antah
   as the Yang Di Pertuan Besar, Negri Sembilan
 canonical_name: The election and installation of Tungku Muhammad, C.M.G. bin Tungku
   Antah, as the Yang Di Pertuan Besar, Negri Sembilan
-type: article
-article_type: article
+type: publication
 authors:
 - E.W. Birch
 year: 1906
@@ -23,7 +22,9 @@ published: false
 source_doc: jsbras-046-birch-electioninstallationtungku-1906-58fad89b5fbd
 source_path: ../sources/jsbras-046-birch-electioninstallationtungku-1906-58fad89b5fbd.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The election and installation of Tungku Muhammad, C.M.G. bin Tungku Antah, as the Yang Di Pertuan Besar, Negri Sembilan
 
 E.W. Birch, the British Resident to Negri Sembilan, published this account in 1906 in the *Journal of the Straits Branch of the Royal Asiatic Society*, documenting the 1898 formal installation of Tungku Muhammad as Yang di-Pertuan Besar and the restoration of the state's ancient constitutional framework after a generation of inter-state estrangement. The article serves as both a procedural record of the ceremony and a statement of administrative philosophy regarding the governance of Malay polities under British protection.

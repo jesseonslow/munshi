@@ -3,8 +3,7 @@ id: visit-of-lord-william-bentinck-to-penang-in-1828-nq-2
 work_id: jsbras-15-visit-of-lord-william-bentinck
 title: Visit of Lord William Bentinck to Penang in 1828. NQ 2
 canonical_name: Visit of Lord William Bentinck to Penang in 1828. NQ 2
-type: article
-article_type: notes_and_queries
+type: publication
 authors:
 - W.E. Maxwell
 year: 1885
@@ -18,6 +17,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: note
 ---
 
 # Visit of Lord William Bentinck to Penang in 1828. NQ 2

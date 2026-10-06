@@ -5,8 +5,7 @@ title: Aspects of Sufi thought in India and Indonesia in the first half of the 1
   century
 canonical_name: Aspects of Sufi thought in India and Indonesia in the first half of
   the 17th century
-type: article
-article_type: article
+type: publication
 authors:
 - A.H. Johns
 year: 1955
@@ -23,7 +22,9 @@ published: false
 source_doc: jmalayanras-169-johns-aspectssufithought-1955-3b0beb8566c8
 source_path: ../sources/jmalayanras-169-johns-aspectssufithought-1955-3b0beb8566c8.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Aspects of Sufi thought in India and Indonesia in the first half of the 17th century
 
 A.H. Johns (1955) examines the transmission and transformation of Sufi metaphysical thought between the Mughal Empire and the Malay Archipelago in the late sixteenth and early seventeenth centuries, arguing that Indonesian mystical speculation was not a passive reception of Islamic doctrine but an active, creative engagement shaped by direct contact with Indian and Middle Eastern sources.

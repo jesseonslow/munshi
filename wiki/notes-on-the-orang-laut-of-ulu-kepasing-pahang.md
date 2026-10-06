@@ -3,8 +3,7 @@ id: notes-on-the-orang-laut-of-ulu-kepasing-pahang
 work_id: jmbras-20-2-p137
 title: Notes on the Orang Laut of Ulu Kepasing, Pahang
 canonical_name: Notes on the Orang Laut of Ulu Kepasing, Pahang
-type: article
-article_type: article
+type: publication
 authors:
 - E. Windsor
 year: 1947
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-143-windsor-noteorangliar-1947-a25ed94b6f07
 source_path: ../sources/jmalayanras-143-windsor-noteorangliar-1947-a25ed94b6f07.md
 summarized: true
+publication_type: note
 ---
+
 # Notes on the Orang Laut of Ulu Kepasing, Pahang
 
 A brief ethnographic note by Edna Windsor documenting the physical characteristics, subsistence practices, and linguistic features of a small group of aborigines known as the "Orang Liar" in the Kepasing area of Ulu Rompin, eastern Pahang, based on information provided by a Sakai jelutong headman in 1947.

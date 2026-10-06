@@ -3,8 +3,7 @@ id: the-founder-of-malacca
 work_id: jmbras-15-2-p160
 title: The founder of Malacca
 canonical_name: The founder of Malacca
-type: article
-article_type: article
+type: publication
 authors:
 - callenfels
 year: 1937
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-129-callenfels-foundermalacca-1937-3bf0442114a3
 source_path: ../sources/jmalayanras-129-callenfels-foundermalacca-1937-3bf0442114a3.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The founder of Malacca
 
 P. V. van Stein Callenfels published this article in 1937 as a corrective to Sir Richard Winstedt's *History of Malaya*, arguing that Winstedt had overlooked a critical datum in the Portuguese sources that, when combined with the Javanese *Pararaton*, allows a more precise identification of the circumstances under which Parameshwara fled Java and founded Malacca around 1401.

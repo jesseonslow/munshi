@@ -3,8 +3,7 @@ id: some-new-eastern-gingers
 work_id: jsbras-34-1-p97
 title: Some new eastern gingers
 canonical_name: Some new eastern gingers
-type: article
-article_type: article
+type: publication
 authors:
 - H.N. Ridley
 year: 1900
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-034-neweasterngingers-1900-d46278ace8d7
 source_path: ../sources/jsbras-034-neweasterngingers-1900-d46278ace8d7.md
 summarized: true
+publication_type: note
 ---
+
 # Some new eastern gingers
 
 This short note by H.N. Ridley describes three new species of eastern gingers (Zingiberaceae) collected from Celebes and the Bismarck Archipelago, published in the *Journal of the Straits Branch of the Royal Asiatic Society* (1900).

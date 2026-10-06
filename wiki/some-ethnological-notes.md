@@ -3,8 +3,7 @@ id: some-ethnological-notes
 work_id: jsbras-50-1-p73
 title: Some ethnological notes
 canonical_name: Some ethnological notes
-type: article
-article_type: article
+type: publication
 authors:
 - C.B. Kloss
 year: 1908
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: false
 source_doc: jsbras-050-kloss-ethnologicalnotes-1908-1711e3df7333
 source_path: ../sources/jsbras-050-kloss-ethnologicalnotes-1908-1711e3df7333.md
+publication_type: note
 ---
+
 # Some ethnological notes
 
 C. Boden Kloss, a Fellow of the Royal Asiatic Institute residing in Johore, published this collection of ethnological observations in 1908, drawing on field enquiries among Proto-Malay and Sea-Jakun communities across the Singapore Strait, Johore, and the Riau Archipelago. The article's overarching concern is the identification, classification, and survival of aboriginal peoples in the region, with particular attention to linguistic titles, folkloric traditions, and the degree to which these groups have retained their pre-Islamic cultural distinctiveness.

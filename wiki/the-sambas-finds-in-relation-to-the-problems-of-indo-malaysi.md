@@ -4,8 +4,7 @@ work_id: jmbras-22-4-p23
 title: The Sambas finds in relation to the problems of Indo-Malaysian art development
 canonical_name: The Sambas finds in relation to the problems of Indo-Malaysian art
   development
-type: article
-article_type: article
+type: publication
 authors:
 - H.G.Q. Wales
 year: 1949
@@ -28,7 +27,9 @@ published: false
 source_doc: jmalayanras-150-wales-sambasfindsrelation-1949-614b3a97de71
 source_path: ../sources/jmalayanras-150-wales-sambasfindsrelation-1949-614b3a97de71.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The Sambas finds in relation to the problems of Indo-Malaysian art development
 
 H.G. Quaritch Wales published this article in 1949, using the recently recovered Sambas bronze hoard from West Borneo to argue that early Hindu-Buddhist art in Borneo developed under direct Indian influence rather than through Javanese mediation, and that a distinctive Indo-Bornean architectural tradition emerged in the seventh century before declining around the eleventh.

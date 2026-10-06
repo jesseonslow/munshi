@@ -3,8 +3,7 @@ id: notes-on-a-trip-to-gunong-benom-in-pahang
 work_id: jsbras-39-1-p1
 title: Notes on a trip to Gunong Benom in Pahang
 canonical_name: Notes on a trip to Gunong Benom in Pahang
-type: article
-article_type: article
+type: publication
 authors:
 - W.D. Barnes
 year: 1903
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: false
 source_doc: jsbras-039-barnes-notestripgunong-1903-e81f9afc5774
 source_path: ../sources/jsbras-039-barnes-notestripgunong-1903-e81f9afc5774.md
+publication_type: note
 ---
+
 # Notes on a trip to Gunong Benom in Pahang
 
 W.D. Barnes, a Government surveyor, published in 1903 a detailed account of his August 1900 expedition to Gunong Benom in Ulu Pahang to erect a trigonometrical beacon, accompanied by a botanical catalogue compiled by H.N. Ridley, Director of the Singapore Botanical Gardens. The narrative documents both the practical difficulties of colonial-era field surveying in the Malay Peninsula and the natural history of a granite massif at approximately 5,000 feet elevation.

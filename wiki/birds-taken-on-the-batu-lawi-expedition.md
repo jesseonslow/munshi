@@ -3,8 +3,7 @@ id: birds-taken-on-the-batu-lawi-expedition
 work_id: jsbras-63-1-p74
 title: Birds taken on the Batu Lawi expedition
 canonical_name: Birds taken on the Batu Lawi expedition
-type: article
-article_type: article
+type: publication
 authors:
 - J.C. Moulton
 year: 1912
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-063-moulton-expeditionmountbatu-1912-94eae97ebac5
 source_path: ../sources/jsbras-063-moulton-expeditionmountbatu-1912-94eae97ebac5/frontmatter.md
 summarized: true
+publication_type: note
 ---
+
 # Birds taken on the Batu Lawi expedition
 
 J.C. Moulton's "Birds taken on the Batu Lawi expedition" (1912) is a taxonomic list of avian specimens collected during the 1911 overland and river expedition to Mount Batu Lawi in the upper Limbang district of Sarawak, published as a component of a larger multi-author expedition report in the *Journal of the Straits Branch of the Royal Asiatic Society*. The list documents the ornithological yield of a 40-day journey from Limbang to Claudetown via the Madihit River and the highland interior, a region previously visited by only a handful of Europeans.

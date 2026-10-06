@@ -3,8 +3,7 @@ id: iban-rites-of-passage-and-some-related-ritual-acts-reviewed-
 work_id: jmbras-74-1-p117
 title: Iban rites of passage and some related ritual acts. {Reviewed A. Jawan
 canonical_name: Iban rites of passage and some related ritual acts. {Reviewed A. Jawan)
-type: article
-article_type: article
+type: publication
 authors:
 - A. Jawan
 year: 2001
@@ -18,6 +17,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: review
 ---
 
 # Iban rites of passage and some related ritual acts. {Reviewed A. Jawan

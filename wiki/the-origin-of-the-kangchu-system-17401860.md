@@ -3,8 +3,7 @@ id: the-origin-of-the-kangchu-system-17401860
 work_id: jmbras-49-2-p132
 title: The origin of the kangchu system, 1740–1860
 canonical_name: The origin of the kangchu system, 1740–1860
-type: article
-article_type: article
+type: publication
 authors:
 - C.A. Trocki
 year: 1976
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-230-trocki-originskangchusystem-1976-b03611190379
 source_path: ../sources/jmbras-230-trocki-originskangchusystem-1976-b03611190379/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The origin of the kangchu system, 1740–1860
 
 Carl A. Trocki's 1976 article traces the origins of the *kangchu* system—the Chinese riverine headman institution that governed pepper and gambier cultivation in Johor, Riau, and Singapore—back to approximately 1740, arguing that this system was not a nineteenth-century invention but the product of a long evolution from Bugis-ordered plantations at Riau through a period of Chinese autonomy after the 1784 Dutch destruction of the entrepot, to its formal legal recognition under the Temenggong of Johor in the 1840s. Trocki contends that the kangchu system was the foundational economic and political mechanism by which impoverished Malay aristocrats, stripped of their maritime trade base, constructed new mainland states in alliance with Chinese capital and labor.

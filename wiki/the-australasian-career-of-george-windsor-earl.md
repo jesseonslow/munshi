@@ -3,8 +3,7 @@ id: the-australasian-career-of-george-windsor-earl
 work_id: jmbras-65-2-p39
 title: The Australasian career of George Windsor Earl
 canonical_name: The Australasian career of George Windsor Earl
-type: article
-article_type: article
+type: publication
 authors:
 - R.H.W. Reece
 year: 1992
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: true
 source_doc: jmbras-263-reece-australasiancareergeorge-1992-7277e692359e
 source_path: ../sources/references.md
+publication_type: journal_article
 ---
+
 # The Australasian career of George Windsor Earl
 
 R.H.W. Reece's 1992 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* provides a comprehensive biographical survey of George Samuel Windsor Earl (1813–1865), a British trader, publicist, and colonial official whose career spanned Western Australia, the Indian Archipelago, northern Australia, and the Straits Settlements. Reece argues that Earl's life epitomises the mercantile and strategic logic by which early nineteenth-century British actors perceived northern Australia as a geographical extension of island Southeast Asia, and that his subsequent historical neglect reflects the social distance later created between White Australia and its Asian neighbours.

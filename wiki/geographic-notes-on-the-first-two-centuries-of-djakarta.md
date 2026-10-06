@@ -3,8 +3,7 @@ id: geographic-notes-on-the-first-two-centuries-of-djakarta
 work_id: jmbras-44-2-p108
 title: Geographic notes on the first two centuries of Djakarta
 canonical_name: Geographic notes on the first two centuries of Djakarta
-type: article
-article_type: article
+type: publication
 authors:
 - C. Clunies Ross
 year: 1971
@@ -20,6 +19,7 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+publication_type: journal_article
 ---
 
 # Geographic notes on the first two centuries of Djakarta

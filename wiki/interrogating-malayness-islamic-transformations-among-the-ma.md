@@ -5,8 +5,7 @@ title: 'Interrogating ‘Malayness’: Islamic transformations among the Malay C
   Kuala Kangsar (MCKK) cohort'
 canonical_name: 'Interrogating ‘Malayness’: Islamic transformations among the Malay
   College Kuala Kangsar (MCKK) cohort'
-type: article
-article_type: article
+type: publication
 authors:
 - P. Sloane-White
 year: 2014
@@ -24,7 +23,9 @@ summarized: true
 source_mismatch: false
 source_doc: jmbras-306-sloanewhite-interrogatingmalayness-2014-8af467a3658e
 source_path: ../sources/references.md
+publication_type: journal_article
 ---
+
 # Interrogating ‘Malayness’: Islamic transformations among the Malay College Kuala Kangsar (MCKK) cohort
 
 Patricia Sloane-White's 2014 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* examines a generational rupture among graduates of Malay College Kuala Kangsar (MCKK), the elite "school for sultans' sons" founded in 1905. Drawing on two decades of anthropological fieldwork (1993–1998 and 2007–2012), Sloane-White traces how a cohort of self-described "outlier" old boys—mostly in their early forties—have rejected the ethnic, UMNO-aligned, and NEP-era identity that defined their senior counterparts, replacing it with a shariah-based Islamic corporate identity that interrogates Malayness itself (pp. 21–22).

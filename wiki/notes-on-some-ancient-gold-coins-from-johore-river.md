@@ -3,8 +3,7 @@ id: notes-on-some-ancient-gold-coins-from-johore-river
 work_id: jmbras-11-2-p171
 title: Notes on some ancient gold coins, from Johore River
 canonical_name: Notes on some ancient gold coins, from Johore River
-type: article
-article_type: article
+type: publication
 authors:
 - G.B. Gardner
 year: 1933
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-117-gardner-notesancientgold-1933-32b10cf43cf2
 source_path: ../sources/jmalayanras-117-gardner-notesancientgold-1933-32b10cf43cf2.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Notes on some ancient gold coins, from Johore River
 
 G.B. Gardner, writing in 1933 from his fieldwork on the Johore River, presents a numismatic study of gold coins recovered from ancient sites in the Johore delta, arguing that these pieces constitute genuine currency of the Johore Sultanate rather than mere funerary tokens. His central contribution is the tentative attribution of individual coins to specific Sultans across the sixteenth and eighteenth centuries, supported by comparative analysis of inscription styles and corroborating European trade records.

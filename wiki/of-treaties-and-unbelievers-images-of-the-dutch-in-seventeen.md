@@ -5,8 +5,7 @@ title: 'Of treaties and unbelievers: images of the Dutch in seventeenth- and eig
   Malay historiography'
 canonical_name: 'Of treaties and unbelievers: images of the Dutch in seventeenth-
   and eighteenth-century Malay historiography'
-type: article
-article_type: article
+type: publication
 authors:
 - G.L. Koster
 year: 2005
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-288-koster-treatiesunbelieversimages-2005-2abb016e7475
 source_path: ../sources/jmbras-288-koster-treatiesunbelieversimages-2005-2abb016e7475/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Of treaties and unbelievers: images of the Dutch in seventeenth- and eighteenth-century Malay historiography
 
 G.L. Koster's 2005 article examines how seventeenth- and eighteenth-century Malay historiographical texts—specifically the *Hikayat Hang Tuah* (Johor, c. 1690), the *Syair Perang Mengkasar* (Goa-Tallo', c. 1670), and the *Misa Melayu* (Perak, c. 1760)—constructed literary images of the Dutch VOC as a form of "damage control" to defend the Malay world order of *kerajaan* and Islam against the challenge posed by Dutch treaties and monopolies. Koster argues that the central impropriety these texts sought to manage was the reduction of royal *daulat* through the VOC's treaty-based monopoly system, compounded by the religious impropriety of the Dutch as *kafir* unbelievers.

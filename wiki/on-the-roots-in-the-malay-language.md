@@ -3,8 +3,7 @@ id: on-the-roots-in-the-malay-language
 work_id: jsbras-16-1-p251
 title: On the roots in the Malay language
 canonical_name: On the roots in the Malay language
-type: article
-article_type: article
+type: publication
 authors:
 - J. Pijnappel
 year: 1885
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-016-pijnappel-rootsmalaylanguage-1885-5e2bccb725d8
 source_path: ../sources/jsbras-016-pijnappel-rootsmalaylanguage-1885-5e2bccb725d8.md
 summarized: true
+publication_type: journal_article
 ---
+
 # On the roots in the Malay language
 
 J. Pijnappel, a Dutch scholar writing for the Straits Branch of the Royal Asiatic Society in 1885, argues that the true roots of the Malay language are not the dissyllabic primitives commonly catalogued in dictionaries but rather simple monosyllabic elements—many of them tone-imitative (onomatopoeic)—which have generated the language's vast derivational system through systematic vowel and consonant modification. The article is a philological investigation into how sound-imitation, prefixation, and semantic extension produced the lexical stock of Malay, and it closes with a series of hypotheses about the origin and diversification of language stocks.

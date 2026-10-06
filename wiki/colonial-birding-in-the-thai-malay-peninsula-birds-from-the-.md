@@ -5,8 +5,7 @@ title: 'Colonial birding in the Thai-Malay Peninsula: Birds from the Selangor Mu
   now in World Museum, Liverpool'
 canonical_name: 'Colonial birding in the Thai-Malay Peninsula: Birds from the Selangor
   Museum now in World Museum, Liverpool'
-type: article
-article_type: article
+type: publication
 authors:
 - John-James Wilson
 year: 2021
@@ -36,7 +35,9 @@ keywords:
 source_doc: wilson-colonial-birding-in-the-thai-malay-peninsula-2e8bb548a806
 source_path: ../sources/wilson-colonial-birding-in-the-thai-malay-peninsula-2e8bb548a806/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Colonial birding in the Thai-Malay Peninsula: Birds from the Selangor Museum now in World Museum, Liverpool
 
 ## Abstract

@@ -5,8 +5,7 @@ title: The date, authorship, contents and some new Mss. of the Malay romance of 
   the Great
 canonical_name: The date, authorship, contents and some new Mss. of the Malay romance
   of Alexander the Great
-type: article
-article_type: article
+type: publication
 authors:
 - R.O. Winstedt
 year: 1938
@@ -22,6 +21,7 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+publication_type: journal_article
 ---
 
 # The date, authorship, contents and some new Mss. of the Malay romance of Alexander the Great

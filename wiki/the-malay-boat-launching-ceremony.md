@@ -3,8 +3,7 @@ id: the-malay-boat-launching-ceremony
 work_id: jmbras-24-1-p181
 title: The Malay boat launching ceremony
 canonical_name: The Malay boat launching ceremony
-type: article
-article_type: article
+type: publication
 authors:
 - Abu Bakar
 - P.D.R. Williams-Hunt
@@ -22,7 +21,9 @@ published: false
 source_doc: jmalayanras-154-bakar-malayboatlaunching-1951-b00e32121b6c
 source_path: ../sources/jmalayanras-154-bakar-malayboatlaunching-1951-b00e32121b6c.md
 summarized: true
+publication_type: note
 ---
+
 # The Malay boat launching ceremony
 
 This short note by Syed Abu Bakar, Fishery Inspector Singapore, documents the Malay boat launching ceremony (*Semah*) as practised among *pukat payang* fishermen on the East Coast of Malaya (p. 181).

@@ -5,8 +5,7 @@ title: 'Padang Brahrang Estate, Lankat, Sumatra: rainfall for six months from 1s
   January to 30th June, 1882'
 canonical_name: 'Padang Brahrang Estate, Lankat, Sumatra: rainfall for six months
   from 1st January to 30th June, 1882'
-type: article
-article_type: article
+type: publication
 authors:
 - A.B. Thompson
 year: 1882
@@ -23,7 +22,9 @@ published: false
 source_doc: jsbras-009-padangbrahrangestate-1882-4c1e9f5d07f0
 source_path: ../sources/jsbras-009-padangbrahrangestate-1882-4c1e9f5d07f0.md
 summarized: true
+publication_type: document
 ---
+
 # Padang Brahrang Estate, Lankat, Sumatra: rainfall for six months from 1st January to 30th June, 1882
 
 This is a rainfall record table for the Padang Brahrang Estate in Lankat, Sumatra, covering the period from 1 January to 30 June 1882, furnished by A. B. Thompson (p. 171).

@@ -5,8 +5,7 @@ title: Malay customs and beliefs as recorded in Malay literature and folklore, P
   III
 canonical_name: Malay customs and beliefs as recorded in Malay literature and folklore,
   Part III
-type: article
-article_type: article
+type: publication
 authors:
 - H. Overbeck
 year: 1925
@@ -23,7 +22,9 @@ published: false
 source_doc: jmalayanras-095-overbeck-malaycustomsbeliefs-1925-6685c97b67ce
 source_path: ../sources/jmalayanras-095-overbeck-malaycustomsbeliefs-1925-6685c97b67ce.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Malay customs and beliefs as recorded in Malay literature and folklore, Part III
 
 H. Overbeck's 1925 article, the third in his series on Malay customs and beliefs as recorded in Malay literature and folklore, examines the institutions of betrothal and marriage through close reading of classical Malay romances, chronicles, and the autobiography of Abdullah bin Abdul Kadir. Overbeck's overarching thesis is that Malay literary texts preserve detailed, reliable evidence of ceremonial practice—particularly royal marriage rites—that can be reconstructed to reveal the social, religious, and political dimensions of the institution.

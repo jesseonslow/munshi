@@ -3,8 +3,7 @@ id: kuala-lumpur-in-1884
 work_id: jmbras-32-1-p198
 title: Kuala Lumpur in 1884?
 canonical_name: Kuala Lumpur in 1884?
-type: article
-article_type: article
+type: publication
 authors:
 - J.M. Gullick
 year: 1959
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-185-gullick-kualalumpur1884-1959-07f6a92265ed
 source_path: ../sources/jmalayanras-185-gullick-kualalumpur1884-1959-07f6a92265ed.md
 summarized: true
+publication_type: note
 ---
+
 # Kuala Lumpur in 1884?
 
 J.M. Gullick published this short identification note in 1959, addressing the problem of dating and locating an undated photograph from Sir Roland Braddell's family album. His thesis is that internal topographical and architectural evidence permits a confident identification of the image as a view of Kuala Lumpur taken from the slopes of Bukit Nanas in or about 1883–84, making it a rare surviving visual record of the town before its rapid brick-and-tile expansion in the later 1880s.

@@ -3,8 +3,7 @@ id: nesting-of-draco-fimbriatus
 work_id: jsbras-44-1-p227
 title: Nesting of Draco fimbriatus
 canonical_name: Nesting of _Draco fimbriatus._
-type: article
-article_type: article
+type: publication
 authors:
 - H.N. Ridley
 year: 1905
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: false
 source_doc: jsbras-044-ridley-nestingdracofimbriatus-1905-174751799578
 source_path: ../sources/jsbras-044-ridley-nestingdracofimbriatus-1905-174751799578.md
+publication_type: note
 ---
+
 # Nesting of Draco fimbriatus
 
 This is a brief note by H. N. Ridley published in the *Journal of the Siam Branch of the Royal Asiatic Society*, Vol. 44 (1905), under the heading "Nesting of *Draco fimbriatus*."

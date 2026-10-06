@@ -3,8 +3,7 @@ id: malay-cannon
 work_id: jmbras-20-2-p35
 title: Malay cannon
 canonical_name: Malay cannon
-type: article
-article_type: article
+type: publication
 authors:
 - G.C. Woolley
 year: 1947
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-143-woolley-malaycannon-1947-f700f83cf359
 source_path: ../sources/jmalayanras-143-woolley-malaycannon-1947-f700f83cf359.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Malay cannon
 
 G.C. Woolley, writing in 1947 for the *Journal of the Malayan Branch of the Royal Asiatic Society*, surveys the origins, typology, and cultural functions of Malay cannon, arguing that these weapons represent a localized adaptation of European and Asian metallurgical traditions to the specific defensive and naval requirements of the Malay Archipelago. The article situates Malay cannon-making within a broader framework of cross-cultural transmission, tracing the probable 15th-century introduction of gunpowder technology from either China or the West and examining how distinct regional centres developed characteristic forms and ornamentation.

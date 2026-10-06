@@ -3,8 +3,7 @@ id: the-genealogy-of-malaccas-kings-from-a-copy-of-the-bustanus-
 work_id: jsbras-81-1-p39
 title: The genealogy of Malacca’s kings from a copy of the Bustanu‘s-Salatin
 canonical_name: The genealogy of Malacca’s kings from a copy of the _Bustanu‘s-Salatin._
-type: article
-article_type: article
+type: publication
 authors:
 - R.O. Winstedt
 year: 1920
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-081-winstedt-genealogymalaccaskings-1920-4b20a2e00141
 source_path: ../sources/jsbras-081-winstedt-genealogymalaccaskings-1920-4b20a2e00141.md
 summarized: true
+publication_type: translation
 ---
+
 # The genealogy of Malacca’s kings from a copy of the Bustanu‘s-Salatin
 
 R.O. Winstedt published this article in 1920 in the *Journal of the Straits Branch of the Royal Asiatic Society* (Vol. 81, pp. 39–47), presenting a Romanized Malay genealogical passage copied from a manuscript of the *Bustanu's-Salatin* that had belonged to the late Sultan of Pahang. The text, originally intended for publication by the late W. Barnes, provides a variant royal genealogy linking the kings of Singapore and Malacca through the post-conquest dynasties of Johor and Pahang to the Acheenese sultanate, offering a rare window into how early seventeenth-century Acheenese historiographers understood the peninsular Malay past.

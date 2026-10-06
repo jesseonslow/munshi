@@ -3,8 +3,7 @@ id: some-words-in-use-among-the-natives-met-on-the-journey-to-ba
 work_id: jsbras-63-1-p100
 title: Some words in use among the natives met on the journey to Batu Lawi
 canonical_name: Some words in use among the natives met on the journey to Batu Lawi
-type: article
-article_type: article
+type: publication
 authors:
 - J.C. Moulton
 year: 1912
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-063-moulton-expeditionmountbatu-1912-94eae97ebac5
 source_path: ../sources/appendix.md
 summarized: true
+publication_type: note
 ---
+
 # Some words in use among the natives met on the journey to Batu Lawi
 
 J. C. Moulton's 1912 appendix to the *Journal of the Straits Branch of the Royal Asiatic Society* (Vol. 63, pp. 100–104) presents a comparative vocabulary of approximately 150 lexical items recorded during his 1911 expedition to Mount Batu Lawi in the upper Limbang district of Sarawak. The list documents words in three closely related but distinct languages—Tabun (T), Murut (M), and Kalabit (K)—encountered along the route from the Limbang River through the Madihit valley to the mountain itself, and it closes with a short set of numerals in Tabun and Murut.

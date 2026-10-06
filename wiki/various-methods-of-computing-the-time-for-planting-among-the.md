@@ -4,8 +4,7 @@ work_id: jsbras-42-1-p1
 title: Various methods of computing the time for planting among the races of Borneo
 canonical_name: Various methods of computing the time for planting among the races
   of Borneo
-type: article
-article_type: article
+type: publication
 authors:
 - C. Hose
 year: 1905
@@ -28,7 +27,9 @@ published: false
 source_doc: jsbras-042-hose-variousmethodscomputing-1905-5e9afbef637d
 source_path: ../sources/jsbras-042-hose-variousmethodscomputing-1905-5e9afbef637d.md
 summarized: true
+publication_type: note
 ---
+
 # Various methods of computing the time for planting among the races of Borneo
 
 Charles Hose, a colonial-era ethnographer and former British Resident in Sarawak, published this concise ethnographic note in 1905, describing how the indigenous farming communities of Borneo—lacking written calendars or reliable seasonal markers—developed distinct astronomical and solar-observation methods to determine the optimal time for slash-and-burn rice cultivation. The article argues that agriculture, even in its rudimentary form, is the primary driver of systematic observational knowledge among tropical peoples, and that the specific problem of identifying the dry season in a near-equatorial climate with minimal temperature variation forced these communities to turn to the stars or the sun for temporal orientation.

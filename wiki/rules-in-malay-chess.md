@@ -3,8 +3,7 @@ id: rules-in-malay-chess
 work_id: jsbras-77-1-p261
 title: Rules in Malay chess
 canonical_name: Rules in Malay chess
-type: article
-article_type: article
+type: publication
 authors:
 - R.O. Winstedt
 year: 1917
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-077-winstedt-rulesmalaychess-1917-873c40a5e68a
 source_path: ../sources/jsbras-077-winstedt-rulesmalaychess-1917-873c40a5e68a.md
 summarized: true
+publication_type: note
 ---
+
 # Rules in Malay chess
 
 This short note by R. O. Winstedt, published in the *Journal of the Straits Branch of the Royal Asiatic Society* (Vol. 77, 1917), presents a set of rules for Malay chess as played at Sri Menanti in Negri Sembilan.

@@ -3,8 +3,7 @@ id: malay-hats-and-dish-covers
 work_id: jmbras-24-1-p133
 title: Malay hats and dish covers
 canonical_name: Malay hats and dish covers
-type: article
-article_type: article
+type: publication
 authors:
 - C.A. Gibson-Hill
 year: 1951
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-154-gibsonhill-malayhatsdishcovers-1951-4528c38d75b6
 source_path: ../sources/jmalayanras-154-gibsonhill-malayhatsdishcovers-1951-4528c38d75b6.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Malay hats and dish covers
 
 C. A. Gibson-Hill, a British colonial administrator and ethnographer based in the Federation of Malaya, published this descriptive catalogue of Malay plaited and sewn headwear and food covers in 1951, drawing on fieldwork and a private collection assembled in 1947–1948. The article documents approximately nine hat types and ten dish-cover types still in current use across the peninsula, while arguing that the introduction of European cotton thread, synthetic dyes, and commercial competition from external producers was rapidly eroding the diversity of local patterns that had existed only a generation or two earlier.

@@ -3,8 +3,7 @@ id: the-botany-of-christmas-island
 work_id: jsbras-45-1-p156
 title: The botany of Christmas Island
 canonical_name: The botany of Christmas Island
-type: article
-article_type: article
+type: publication
 authors:
 - H.N. Ridley
 year: 1906
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-045-ridley-expeditionchristmasisland-1906-032c6de8ca80
 source_path: ../sources/jsbras-045-ridley-expeditionchristmasisland-1906-032c6de8ca80.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The botany of Christmas Island
 
 H.N. Ridley, Director of the Singapore Botanic Gardens, published this field account in 1906 documenting a September–October 1904 expedition to Christmas Island undertaken with zoologist Dr. Hanitsch and a small team of collectors. The article serves as a comprehensive botanical and zoological survey of the island's ecological zones—from the coral-reef shore terraces to the basalt-capped plateau forest—while simultaneously recording the impact of phosphate mining on the island's vegetation and fauna.

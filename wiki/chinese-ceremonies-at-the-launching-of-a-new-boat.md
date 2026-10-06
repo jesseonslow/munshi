@@ -3,8 +3,7 @@ id: chinese-ceremonies-at-the-launching-of-a-new-boat
 work_id: jmbras-24-1-p183
 title: Chinese ceremonies at the launching of a new boat
 canonical_name: Chinese ceremonies at the launching of a new boat
-type: article
-article_type: article
+type: publication
 authors:
 - Teo Teng-hong
 year: 1951
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-154-hong-chineseceremonieslaunching-1951-9ca42538c675
 source_path: ../sources/jmalayanras-154-hong-chineseceremonieslaunching-1951-9ca42538c675.md
 summarized: true
+publication_type: note
 ---
+
 # Chinese ceremonies at the launching of a new boat
 
 This short note by Teo Teng-hong describes the Chinese boat-launching ceremonies practised among Hokkien and Teochew seamen in Malaya, focusing on locally built craft rather than ocean-going vessels (p. 183).

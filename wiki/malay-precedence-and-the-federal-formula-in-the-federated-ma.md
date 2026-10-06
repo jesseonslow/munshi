@@ -5,8 +5,7 @@ title: Malay precedence and the federal formula in the Federated Malay States, 1
   to 1939
 canonical_name: Malay precedence and the federal formula in the Federated Malay States,
   1909 to 1939
-type: article
-article_type: article
+type: publication
 authors:
 - P. Loh Fook Seng
 year: 1972
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-222-fookseng-malayprecedencefederal-1972-de8abd0fcac9
 source_path: ../sources/jmbras-222-fookseng-malayprecedencefederal-1972-de8abd0fcac9.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Malay precedence and the federal formula in the Federated Malay States, 1909 to 1939
 
 Philip Loh Fook-Seng's 1972 article examines the tension between British rhetorical commitments to Malay sovereignty and the practical centralization of power in the Federated Malay States between 1909 and 1939, arguing that the "Malay precedence" formula was simultaneously a genuine policy constraint and a strategic instrument for managing ethnic politics. The study demonstrates that the failure to federate all nine Malay States was not a matter of British incapacity but a deliberate preference for persuasion over force, rooted in Indirect Rule ideology and personal relationships with Malay royalty.

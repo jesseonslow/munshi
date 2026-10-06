@@ -5,8 +5,7 @@ title: 'The “Sejarah Melayu” tradition of power and political structure: an 
   of relevant sections of the “Tuhfat-al-Nafis”'
 canonical_name: 'The _“Sejarah Melayu”_ tradition of power and political structure:
   an assessment of relevant sections of the _“Tuhfat-al-Nafis”._'
-type: article
-article_type: article
+type: publication
 authors:
 - T.J. Moy
 year: 1975
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-228-moy-sejarahmelayutradition-1975-712ebc741b91
 source_path: ../sources/jmbras-228-moy-sejarahmelayutradition-1975-712ebc741b91.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The “Sejarah Melayu” tradition of power and political structure: an assessment of relevant sections of the “Tuhfat-al-Nafis”
 
 Timothy J. Moy's 1975 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* offers a comparative assessment of the *Tuhfat al-Nafis*—a mid-1860s Bugis-Malay chronicle composed by Raja Ali al-Haji in Riau—against the *Sejarah Melayu* (Raffles MS 18), focusing on how the former handles power, political hierarchy, genealogical legitimation, and ideological legitimation. Moy argues that the *Tuhfat* presents a "real" political world grounded in personal loyalty and pragmatic governance, in marked contrast to the *Sejarah Melayu*'s ideological and didactic framework, and that its most significant departure from the older tradition is its treatment of the 1699 regicide of Sultan Mahmud II, which effectively inverts the *Sejarah*'s principle that Allah alone executes punishment for regal injustice.

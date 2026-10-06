@@ -3,8 +3,7 @@ id: recent-archaeological-discoveries-in-malaya-1954
 work_id: jmbras-28-1-p196
 title: Recent archaeological discoveries in Malaya (1954
 canonical_name: Recent archaeological discoveries in Malaya (1954)
-type: article
-article_type: article
+type: publication
 authors:
 - G. de G. Sieveking
 year: 1955
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-169-sieveking-recentarchaeologicaldiscoveries-1955-c7b497900ed4
 source_path: ../sources/jmalayanras-169-sieveking-recentarchaeologicaldiscoveries-1955-c7b497900ed4.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Recent archaeological discoveries in Malaya (1954
 
 G. de G. Sieveking, Curator of Museums for the Federation of Malaya, published this fourth annual report on archaeological discoveries in 1955, documenting fieldwork and finds from 1954 across the Malay Peninsula. The article spans the full depth of Malayan prehistory and early historic periods, from Lower Paleolithic river-terrace industries to a sixteenth-century hoard of Chinese imperial porcelain and Moslem bronze wares at Johore Lama, presenting a comprehensive snapshot of the state of Malayan archaeology at mid-century.

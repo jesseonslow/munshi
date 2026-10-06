@@ -3,8 +3,7 @@ id: indonesians-in-malaya
 work_id: jmbras-29-1-p119
 title: Indonesians in Malaya
 canonical_name: Indonesians in Malaya
-type: article
-article_type: article
+type: publication
 authors:
 - A.B. Ramsay
 year: 1956
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-173-ramsay-indonesiansmalaya-1956-8efe3a878cb3
 source_path: ../sources/jmalayanras-173-ramsay-indonesiansmalaya-1956-8efe3a878cb3.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Indonesians in Malaya
 
 A.B. Ramsay, a retired Malayan Civil Service district officer, published this ethnographic survey in 1956, offering a district-by-district account of the distribution, economic roles, and social characteristics of Indonesian immigrant communities across the Malay Peninsula. Written in the immediate aftermath of independence, the article argues that the 1947 Census had failed to adequately distinguish Indonesian groups from indigenous Malays, and that vernacular education, military service, and shared anti-Chinese sentiment would soon render the distinctions moot.

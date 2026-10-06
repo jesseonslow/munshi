@@ -3,8 +3,7 @@ id: jam-nq-4
 work_id: jsbras-17-jam-nq-4
 title: Jam. NQ 4
 canonical_name: Jam. NQ 4
-type: article
-article_type: notes_and_queries
+type: publication
 authors:
 - W.E. Maxwell
 year: 1886
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-017-maxwell-sriramamalay-1886-3155502a26ab
 source_path: ../sources/jsbras-017-maxwell-sriramamalay-1886-3155502a26ab.md
 summarized: true
+publication_type: note
 ---
+
 # Jam. NQ 4
 
 W.E. Maxwell, Assistant Resident in Perak, published this 1886 article in the *Journal of the Straits Branch of the Royal Asiatic Society* (Vol. 17), presenting a verbatim transcription of an oral Malay legendary romance called *Sri Rama*, collected from a professional village storyteller named Mir Hassan of Kampar. The work documents the persistence of the *penglipur lara* tradition—professional oral narration of romances rooted in the Hindu epics—amid the encroachment of print culture in late colonial Malaya, and demonstrates the profound and enduring influence of the *Rāmāyaṇa* on Malay narrative culture.

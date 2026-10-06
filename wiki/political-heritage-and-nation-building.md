@@ -3,8 +3,7 @@ id: political-heritage-and-nation-building
 work_id: jmbras-73-2-p5
 title: Political heritage and nation building
 canonical_name: Political heritage and nation building
-type: article
-article_type: article
+type: publication
 authors:
 - Wang Gungwu
 year: 2000
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-279-gungwu-politicalheritagenation-2000-140023ff4785
 source_path: ../sources/jmbras-279-gungwu-politicalheritagenation-2000-140023ff4785/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Political heritage and nation building
 
 Wang Gungwu, a leading historian of Chinese diaspora and Southeast Asian political history, delivered this essay as the 2000 Annual Lecture to the Malaysian Branch of the Royal Asiatic Society, published in *JMBRAS* Vol. 73, No. 279 (pp. 5–30). Set against the backdrop of five decades of post-colonial state formation in Southeast Asia, the article argues that the political heritage guiding nation-building in the region was shaped by two distinct streams: Western nation-state models encountered through colonialism, and the earlier modernizing examples of Japan, China and India, with the Cold War and subsequent globalization acting as powerful external forces that redirected or complicated the process.

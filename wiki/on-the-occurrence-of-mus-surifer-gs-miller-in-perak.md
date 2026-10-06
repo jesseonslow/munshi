@@ -3,8 +3,7 @@ id: on-the-occurrence-of-mus-surifer-gs-miller-in-perak
 work_id: jsbras-36-1-p137
 title: On the occurrence of Mus surifer, G.S. Miller, in Perak
 canonical_name: On the occurrence of _Mus surifer,_ G.S. Miller, in Perak
-type: article
-article_type: article
+type: publication
 authors:
 - A.L. Butler
 year: 1901
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-036-butler-occurrencemussurifer-1901-4597eb2baa64
 source_path: ../sources/jsbras-036-butler-occurrencemussurifer-1901-4597eb2baa64.md
 summarized: true
+publication_type: note
 ---
+
 # On the occurrence of Mus surifer, G.S. Miller, in Perak
 
 This short note by A. L. Butler records the first confirmed occurrence of *Mus surifer*, G. S. Miller, in Perak, based on specimens collected in the Larut Hills and Maxwell's Hill.

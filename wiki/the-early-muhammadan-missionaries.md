@@ -3,8 +3,7 @@ id: the-early-muhammadan-missionaries
 work_id: jsbras-81-1-p5
 title: The early Muhammadan missionaries
 canonical_name: The early Muhammadan missionaries
-type: article
-article_type: article
+type: publication
 authors:
 - R.O. Winstedt
 year: 1920
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-081-winstedt-earlymuhammadanmissionaries-1920-18dc2dfe501d
 source_path: ../sources/jsbras-081-winstedt-earlymuhammadanmissionaries-1920-18dc2dfe501d.md
 summarized: true
+publication_type: note
 ---
+
 # The early Muhammadan missionaries
 
 This short note by R. O. Winstedt supplements his earlier paper in *Journal 77* on the advent of Muhammadanism in the Malay Peninsula and Archipelago, drawing on Snouck Hurgronje's lecture *Arabie en Oost-Indie* (Leyden) to refine the picture of early Islamic missionary activity in the region.

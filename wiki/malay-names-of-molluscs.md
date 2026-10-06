@@ -3,8 +3,7 @@ id: malay-names-of-molluscs
 work_id: jmbras-11-2-p135
 title: Malay names of molluscs
 canonical_name: Malay names of molluscs
-type: article
-article_type: article
+type: publication
 authors:
 - Hamilton A.W
 year: 1933
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-117-hamilton-malaynamesmolluscs-1933-1ae0160f285d
 source_path: ../sources/jmalayanras-117-hamilton-malaynamesmolluscs-1933-1ae0160f285d.md
 summarized: true
+publication_type: note
 ---
+
 # Malay names of molluscs
 
 This short note by A. W. Hamilton presents a list of twenty-three Malay names for local mollusc species, compiled during a residence in Singapore and identified by comparison with named material in the Raffles Museum (p. 135).

@@ -3,8 +3,7 @@ id: some-kelantan-place-names
 work_id: jmbras-11-2-p138
 title: Some Kelantan place names
 canonical_name: Some Kelantan place names
-type: article
-article_type: article
+type: publication
 authors:
 - R.J. Bee
 year: 1933
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-117-bee-kelantanplacenames-1933-8999b2a7eca9
 source_path: ../sources/jmalayanras-117-bee-kelantanplacenames-1933-8999b2a7eca9.md
 summarized: true
+publication_type: note
 ---
+
 # Some Kelantan place names
 
 This short note by Reginald J. Bee provides etymological interpretations of nine place names in Kelantan, illustrating the poetic and sympathetic manner in which Malay speakers record local impressions in toponymy (p. 138).

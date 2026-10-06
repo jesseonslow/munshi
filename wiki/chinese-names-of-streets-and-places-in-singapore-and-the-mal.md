@@ -3,8 +3,7 @@ id: chinese-names-of-streets-and-places-in-singapore-and-the-mal
 work_id: jsbras-42-1-p53
 title: Chinese names of streets and places in Singapore and the Malay Peninsula
 canonical_name: Chinese names of streets and places in Singapore and the Malay Peninsula
-type: article
-article_type: article
+type: publication
 authors:
 - H.W. Firmstone
 year: 1905
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-042-firmstone-chinesenamesstreets-1905-7963f4a1a54a
 source_path: ../sources/jsbras-042-firmstone-chinesenamesstreets-1905-7963f4a1a54a.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Chinese names of streets and places in Singapore and the Malay Peninsula
 
 H.W. Firmstone's "Chinese Names of Streets and Places in Singapore and the Malay Peninsula (Continued)" (1905) is a comprehensive bilingual gazetteer compiled from fieldwork across the Straits Settlements and Federated Malay States, providing Hokkien and Cantonese equivalents for streets, towns, and districts. Published in the *Journal of the Straits Branch of the Royal Asiatic Society*, the work serves as a practical reference for colonial administrators, interpreters, and European residents navigating the Chinese-language toponymic landscape of early twentieth-century Malaya.

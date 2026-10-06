@@ -3,8 +3,7 @@ id: magic-circle-nq-2
 work_id: jsbras-15-magic-circle-nq-2
 title: Magic circle. NQ 2
 canonical_name: Magic circle. NQ 2
-type: article
-article_type: notes_and_queries
+type: publication
 authors:
 - W.E. Maxwell
 year: 1885
@@ -18,6 +17,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: note
 ---
 
 # Magic circle. NQ 2

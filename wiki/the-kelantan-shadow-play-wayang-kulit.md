@@ -3,8 +3,7 @@ id: the-kelantan-shadow-play-wayang-kulit
 work_id: jmbras-14-3-p284
 title: The Kelantan shadow-play (wayang kulit
 canonical_name: The Kelantan shadow-play _(wayang kulit)._
-type: article
-article_type: article
+type: publication
 authors:
 - A. Rentse
 year: 1936
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-126-rentse-kelantanshadowplaywayang-1936-8dad09763654
 source_path: ../sources/jmalayanras-126-rentse-kelantanshadowplaywayang-1936-8dad09763654.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The Kelantan shadow-play (wayang kulit
 
 Anker Rentse, a Danish ethnographer working in northern Kelantan, published this detailed ethnographic account of the Kelantan *wayang kulit* (shadow-play) in 1936, documenting the ritual, musical, and performative dimensions of a tradition he observed to be in rapid decline under the pressure of cinema and Western modernity. The article argues that the Kelantan shadow-play represents a distinctive local synthesis—neither purely Javanese nor Siamese—rooted in the *Ramayana* cycle but heavily intermixed with ancient Indonesian animist beliefs that persist beneath the surface of Malay Islam.

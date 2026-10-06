@@ -3,8 +3,7 @@ id: garu-and-chandan
 work_id: jsbras-35-1-p73
 title: Garu and Chandan
 canonical_name: Garu and Chandan
-type: article
-article_type: article
+type: publication
 authors:
 - H.N. Ridley
 year: 1901
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-035-ridley-garuchandan-1901-de0270b14829
 source_path: ../sources/jsbras-035-ridley-garuchandan-1901-de0270b14829.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Garu and Chandan
 
 H.N. Ridley, Government Botanist for the Straits Settlements, published this article in 1901 to resolve persistent taxonomic confusion surrounding the two most important incense woods of the Malay Peninsula—Garu (*Aquilaria malaccensis*) and Chandan (a new species he described as *Aquilaria hirta*). The article combines formal botanical description with a survey of the historical, etymological, and commercial literature on these woods, arguing that the Malaccan Garu is distinct from the Indian *A. agallocha* and that the name "Chandan" is applied to at least two unrelated plants.

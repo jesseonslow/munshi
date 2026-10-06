@@ -3,8 +3,7 @@ id: notes-on-ancient-times-in-malaya-parts-4-5
 work_id: jmbras-22-1-p1
 title: Notes on ancient times in Malaya. {Parts 4 & 5
 canonical_name: Notes on ancient times in Malaya. {Parts 4 & 5}
-type: article
-article_type: article
+type: publication
 authors:
 - R. Braddell
 year: 1949
@@ -20,6 +19,7 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+publication_type: journal_article
 ---
 
 # Notes on ancient times in Malaya. {Parts 4 & 5

@@ -3,8 +3,7 @@ id: keris-measurements
 work_id: jmbras-16-2-p44
 title: Keris measurements
 canonical_name: _Keris_ measurements
-type: article
-article_type: article
+type: publication
 authors:
 - G.C. Woolley
 year: 1938
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-132-woolley-newbookkeris-1938-dbbff94bb4b6
 source_path: ../sources/jmalayanras-132-woolley-newbookkeris-1938-dbbff94bb4b6.md
 summarized: true
+publication_type: review
 ---
+
 # Keris measurements
 
 G.C. Woolley, a British colonial administrator based in Brunei, published this review in 1938 of G.B. Gardner's *Keris and other Malay Weapons* (Singapore, 1936), offering corrections grounded in his own field experience in North Borneo. Woolley's central argument is taxonomic: he contends that the keris is defined by the sudden widening of the blade into a guard, a feature that excludes the Tumbuk Lada and Badek from the keris class and places them instead among daggers or knives (p. 44).

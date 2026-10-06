@@ -3,8 +3,7 @@ id: the-early-history-of-the-residency-kuala-lumpur
 work_id: jmbras-65-2-p25
 title: The early history of the Residency Kuala Lumpur
 canonical_name: The early history of the Residency Kuala Lumpur
-type: article
-article_type: article
+type: publication
 authors:
 - H.S. Barlow
 year: 1992
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-263-barlow-earlyhistoryresidency-1992-86f3e49c39d9
 source_path: ../sources/jmbras-263-barlow-earlyhistoryresidency-1992-86f3e49c39d9/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The early history of the Residency Kuala Lumpur
 
 H.S. Barlow, writing in 1992 to coincide with the building's dedication as the Tunku Abdul Rahman Putra Memorial, traces the architectural and administrative history of the Selangor Residency in Kuala Lumpur from its origins in 1880 through its use as the official residence of Malaysia's first Prime Minister. The article reconstructs the building's design, construction, and early occupancy through a close reading of colonial secretariat files and Swettenham's own contemporaneous notes.

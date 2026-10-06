@@ -3,8 +3,7 @@ id: dammar-and-wood-oil
 work_id: jsbras-34-1-p89
 title: Dammar and wood oil
 canonical_name: Dammar and wood oil
-type: article
-article_type: article
+type: publication
 authors:
 - H.N. Ridley
 year: 1900
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-034-ridley-dammarwoodoil-1900-d8828a672128
 source_path: ../sources/jsbras-034-ridley-dammarwoodoil-1900-d8828a672128.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Dammar and wood oil
 
 H. N. Ridley, Director of the Singapore Botanic Gardens, published this concise taxonomic and economic survey of dammar resins and wood oils (gurjun) in the *Journal of the Straits Branch of the Royal Asiatic Society* in 1900. Writing at a moment when both commodities were in commercial decline, Ridley maps the botanical sources, local trade nomenclature, and extraction practices of these Dipterocarp-derived products across the Malay Peninsula, arguing that the near-disappearance of wood oil from commerce and the contraction of the dammar trade reflected the exhaustion of accessible forest resources rather than any loss of demand for the products themselves.

@@ -3,8 +3,7 @@ id: railways-in-selangor
 work_id: jmbras-38-1-p6
 title: Railways in Selangor
 canonical_name: Railways in Selangor
-type: article
-article_type: article
+type: publication
 authors:
 - J.S. Sidhu
 year: 1965
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-207-sidhu-railwaysselangor18821886-1965-4cce0da1c386
 source_path: ../sources/jmbras-207-sidhu-railwaysselangor18821886-1965-4cce0da1c386.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Railways in Selangor
 
 J.S. Sidhu's 1965 article traces the planning, financing, and construction of Selangor's first railway line between Klang and Kuala Lumpur from 1882 to 1886, arguing that the project was shaped as much by colonial administrative friction and financial improvisation as by engineering necessity. Drawing extensively on State Government Records, Sidhu reconstructs a period in which the young protectorate state had to negotiate its railway ambitions against the constraints of the Straits Settlements' fiscal capacity and the Colonial Office's procedural caution.

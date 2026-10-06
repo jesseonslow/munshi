@@ -4,8 +4,7 @@ work_id: jmbras-69-2-p23
 title: Labour laws and the development of trade unionism in peninsular Malaysia, 1945–1960
 canonical_name: Labour laws and the development of trade unionism in peninsular Malaysia,
   1945–1960
-type: article
-article_type: article
+type: publication
 authors:
 - Leong Yee Fong
 year: 1996
@@ -22,7 +21,9 @@ published: false
 source_doc: jmbras-271-fong-labourlawsdevelopment-1996-1629f44d8aa5
 source_path: ../sources/jmbras-271-fong-labourlawsdevelopment-1996-1629f44d8aa5.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Labour laws and the development of trade unionism in peninsular Malaysia, 1945–1960
 
 Leong Yee Fong's 1996 article traces the evolution of trade union legislation in peninsular Malaysia from 1945 to 1960, arguing that colonial labour laws were designed from inception not to protect workers but to subordinate the trade union movement to state control. Drawing extensively on Malayan Union Files, Colonial Office correspondence, and Industrial and Social Relations records, the article demonstrates how each legislative intervention—from the 1940 Trade Union Ordinance through the 1959 Ordinance—was calibrated to neutralize communist-influenced unions while managing the political demands of decolonisation.

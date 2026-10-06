@@ -3,8 +3,7 @@ id: the-geology-of-malaysia-southern-china-c-facsimile-reprint
 work_id: jmbras-97-2-p127
 title: The Geology of Malaysia, Southern China’, &c. Facsimile reprint
 canonical_name: The Geology of Malaysia, Southern China’, &c. Facsimile reprint
-type: article
-article_type: article
+type: publication
 authors:
 - J.E. Tenison Woods
 year: 2024
@@ -18,6 +17,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: reprint
 ---
 
 # The Geology of Malaysia, Southern China’, &c. Facsimile reprint

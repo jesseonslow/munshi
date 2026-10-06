@@ -3,8 +3,7 @@ id: raja-kechil-and-the-minangkabau-conquest-of-johor-in-1718
 work_id: jmbras-45-2-p51
 title: Raja Kechil and the Minangkabau conquest of Johor in 1718
 canonical_name: Raja Kechil and the Minangkabau conquest of Johor in 1718
-type: article
-article_type: article
+type: publication
 authors:
 - L.Y. Andaya
 year: 1972
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-222-andaya-rajakechilminangkabau-1972-373fca8951ef
 source_path: ../sources/jmbras-222-andaya-rajakechilminangkabau-1972-373fca8951ef.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Raja Kechil and the Minangkabau conquest of Johor in 1718
 
 Leonard Y. Andaya's 1972 article in the *JMBRAS* examines the 1718 Minangkabau conquest of Johor, then the most powerful kingdom in the Malay world, arguing that the enigmatic figure of Raja Kechil was most likely an ingenious Minangkabau leader with genuine connections to the Pagar Ruyong court who exploited the deep legitimacy crisis within the Bendahara dynasty to orchestrate the kingdom's collapse. By cross-referencing divergent Malay court chronicles with contemporary Dutch and Portuguese records, Andaya demonstrates that the conquest was less a military victory than a product of internal Johorese disintegration, and that the elaborate origin story preserved in the *Siak Chronicles* was a later mythologization of a more prosaic political maneuver.

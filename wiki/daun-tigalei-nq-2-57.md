@@ -3,8 +3,7 @@ id: daun-tigalei-nq-2-57
 work_id: jsbras-15-daun-tigalei-nq-2-57
 title: 'Daun tiga’lei. NQ 2: 57'
 canonical_name: '_Daun tiga’lei._ NQ 2: 57'
-type: article
-article_type: notes_and_queries
+type: publication
 authors:
 - M. Schaalje
 year: 1885
@@ -18,6 +17,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: note
 ---
 
 # Daun tiga’lei. NQ 2: 57

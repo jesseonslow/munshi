@@ -3,8 +3,7 @@ id: the-fishing-boats-operated-from-singapore-island
 work_id: jmbras-23-3-p148
 title: The fishing boats operated from Singapore Island
 canonical_name: The fishing boats operated from Singapore Island
-type: article
-article_type: article
+type: publication
 authors:
 - C.A. Gibson-Hill
 year: 1950
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-153-gibsonhill-fishingboatsoperated-1950-db183582aadd
 source_path: ../sources/jmalayanras-153-gibsonhill-fishingboatsoperated-1950-db183582aadd.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The fishing boats operated from Singapore Island
 
 C.A. Gibson-Hill, a long-serving ornithologist and ethnographer attached to the Singapore government, published this systematic typology of fishing craft in 1950, drawing on the Fisheries Department's licensing records and his own field observations to document the full range of boats operating from Singapore Island in the immediate post-war period. The article's central argument is that the island's sheltered, silt-heavy waters and extensive mangrove coastline have produced a fleet dominated by small, lightly built craft rather than the larger sailing vessels typical of open-coast Malaya, with the kelong stake-net platform serving as the single most productive fishing unit in the region.

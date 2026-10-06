@@ -3,8 +3,7 @@ id: the-folklore-of-the-malays
 work_id: jsbras-7-1-p11
 title: The folklore of the Malays
 canonical_name: The folklore of the Malays
-type: article
-article_type: article
+type: publication
 authors:
 - W.E. Maxwell
 year: 1881
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-007-maxwell-folkloremalays-1881-3e08cd602f33
 source_path: ../sources/jsbras-007-maxwell-folkloremalays-1881-3e08cd602f33.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The folklore of the Malays
 
 W. E. Maxwell published "The Folklore of the Malays" in the *Journal of the Straits Branch of the Royal Asiatic Society* in 1881, drawing on his observations among the Perak Malay peasantry during the early period of British administrative consolidation in the Straits Settlements. His central thesis is that the external uniformity of Malay Muhammadanism conceals deep strata of earlier indigenous and Brahmanic belief, and that the folklore of the peasantry—its legends, proverbs, and ritual observances—preserves these older religious layers in a form that no amount of Islamic conversion has fully erased.

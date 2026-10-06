@@ -3,8 +3,7 @@ id: rembau
 work_id: jsbras-13-1-p241
 title: Rembau
 canonical_name: Rembau
-type: article
-article_type: article
+type: publication
 authors:
 - D.F.A. Hervey
 year: 1884
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-013-hervey-rmbau-1884-ae94e47a8661
 source_path: ../sources/jsbras-013-hervey-rmbau-1884-ae94e47a8661.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Rembau
 
 D.F.A. Hervey, a colonial official who had visited Rembau on several occasions, published this account in 1884 to fill what he perceived as a gap in the literature on the state, drawing heavily on Newbold's earlier work and his own observations. The article presents Rembau's political constitution, its Menangkabau-derived traditions of succession, and its physical geography, situating the state within the broader framework of the Negeri Sembilan confederation and its evolving relationship with British Malacca.

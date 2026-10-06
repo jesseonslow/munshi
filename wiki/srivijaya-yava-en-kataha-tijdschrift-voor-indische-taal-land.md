@@ -7,8 +7,7 @@ title: Srivijaya, Yava en Kataha. Tijdschrift voor Indische Taal-, Land– en Vo
 canonical_name: _Srivijaya, Yava en Kataha. Tijdschrift voor Indische Taal-, Land–
   en Volkenkunde (Deel LXXVII Aflevering 3, 1937) uitgeven door het Koninklijk Bataviaasch
   Genootschap van Kunsten en Wetenschap-pen_. An abridged translation R.J. de Touche
-type: article
-article_type: article
+type: publication
 authors:
 - J.L. Moens
 year: 1939
@@ -24,6 +23,7 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+publication_type: translation
 ---
 
 # Srivijaya, Yava en Kataha. Tijdschrift voor Indische Taal-, Land– en Volkenkunde (Deel LXXVII Aflevering 3, 1937) uitgeven door het Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschap-pen. An abridged translation R.J. de Touche

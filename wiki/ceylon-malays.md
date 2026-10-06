@@ -3,8 +3,7 @@ id: ceylon-malays
 work_id: jmbras-4-2-p266
 title: Ceylon Malays
 canonical_name: Ceylon Malays
-type: article
-article_type: article
+type: publication
 authors:
 - H.M. Said
 year: 1926
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-097-said-ceylonmalays-1926-0d95cb0ca6c5
 source_path: ../sources/jmalayanras-097-said-ceylonmalays-1926-0d95cb0ca6c5.md
 summarized: true
+publication_type: note
 ---
+
 # Ceylon Malays
 
 This short note by Captain H. M. Said, S.M.J., examines the origins of the Malay community in Ceylon, arguing that they derive from both Javanese banished by the Dutch and earlier Malay captives brought by the Portuguese.

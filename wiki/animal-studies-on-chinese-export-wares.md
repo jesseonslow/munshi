@@ -3,8 +3,7 @@ id: animal-studies-on-chinese-export-wares
 work_id: jmbras-28-1-p179
 title: Animal studies on Chinese export wares
 canonical_name: Animal studies on Chinese export wares
-type: article
-article_type: article
+type: publication
 authors:
 - C.A. Gibson-Hill
 year: 1955
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-169-gibsonhill-animalstudieschinese-1955-b9f8cf7ef303
 source_path: ../sources/jmalayanras-169-gibsonhill-animalstudieschinese-1955-b9f8cf7ef303.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Animal studies on Chinese export wares
 
 C.A. Gibson-Hill, the Raffles Museum's long-serving naturalist, published this concise study in 1955 examining the zoological accuracy of animal motifs on Chinese export porcelain held in Malayan collections. His central finding is that despite these wares being manufactured for the Southeast Asian market, the animals depicted are almost exclusively species native to the coastal provinces of southern and eastern China, reflecting the artists' direct observation of local fauna rather than any accommodation to consumer demand.

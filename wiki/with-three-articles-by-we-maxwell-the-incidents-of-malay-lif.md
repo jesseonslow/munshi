@@ -5,8 +5,7 @@ title: With three articles by W.E. Maxwell The incidents of Malay life. {In Pape
   on Malay customs and beliefs
 canonical_name: With three articles by W.E. Maxwell The incidents of Malay life. _{In_
   Papers on Malay customs and beliefs}
-type: article
-article_type: article
+type: publication
 authors:
 - R.J. Wilkinson
 year: 1957
@@ -24,7 +23,9 @@ summarized: true
 source_mismatch: true
 source_doc: jmalayanras-180-wilkinson-papersmalaycustoms-1957-309d9f59743a
 source_path: ../sources/appendices.md
+publication_type: reprint
 ---
+
 # With three articles by W.E. Maxwell The incidents of Malay life. {In Papers on Malay customs and beliefs
 
 R.J. Wilkinson's *Papers on Malay Customs and Beliefs* (1957) is a comprehensive ethnographic study of the religious, spiritual, and social life of the Peninsular Malay, arguing that Malay civilization constitutes a layered palimpsest in which successive religious traditions—primordial Indonesian animism, Hinduism, and Islam—have been superimposed one upon another without displacement, producing a distinctive culture in which the old is never discarded but merely overlaid by the new.

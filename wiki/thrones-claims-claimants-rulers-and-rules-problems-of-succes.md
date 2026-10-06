@@ -5,8 +5,7 @@ title: 'Thrones, claims, claimants, rulers and rules: problems of succession in 
   Malay Sultanates'
 canonical_name: 'Thrones, claims, claimants, rulers and rules: problems of succession
   in the Malay Sultanates'
-type: article
-article_type: article
+type: publication
 authors:
 - Kobkua Suwannathat-Pian
 year: 1993
@@ -24,7 +23,9 @@ summarized: true
 source_mismatch: true
 source_doc: jmbras-265-suwannathatpian-thronesclaimantsrulers-1993-618e8b522285
 source_path: ../sources/jmbras-265-suwannathatpian-thronesclaimantsrulers-1993-618e8b522285.md
+publication_type: journal_article
 ---
+
 # Thrones, claims, claimants, rulers and rules: problems of succession in the Malay Sultanates
 
 Kobkua Suwannathat-Pian's 1993 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* examines the succession practices of the Malay sultanates from the Palembang-Melaka period through the colonial era, arguing that the widely assumed principles of primogeniture and maternal royal status were never the decisive factors in selecting a ruler, and that the real determinants were the dying ruler's expressed wish, the assent of the state council (*Majlis Negara*), and ultimately the relative power of competing claimants.

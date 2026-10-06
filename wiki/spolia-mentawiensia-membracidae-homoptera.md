@@ -3,8 +3,7 @@ id: spolia-mentawiensia-membracidae-homoptera
 work_id: jmbras-6-1-p13
 title: 'Spolia mentawiensia: Membracidae, Homoptera'
 canonical_name: 'Spolia mentawiensia: Membracidae, Homoptera'
-type: article
-article_type: article
+type: publication
 authors:
 - W.D. Funkhouser
 year: 1928
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-102-funkhouser-spoliamentawiensiamembracidae-1928-d49627304770
 source_path: ../sources/jmalayanras-102-funkhouser-spoliamentawiensiamembracidae-1928-d49627304770.md
 summarized: true
+publication_type: note
 ---
+
 # Spolia mentawiensia: Membracidae, Homoptera
 
 This is a brief taxonomic note by W. D. Funkhouser describing and recording Membracidae (treehoppers) collected during a 1924 expedition to the Mentawi Islands off the west coast of Sumatra.

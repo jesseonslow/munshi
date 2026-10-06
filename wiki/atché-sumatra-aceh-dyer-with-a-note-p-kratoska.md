@@ -3,8 +3,7 @@ id: atché-sumatra-aceh-dyer-with-a-note-p-kratoska
 work_id: jmbras-93-2-p205
 title: Atché (Sumatra) [Aceh]. . Dyer; with a note P. Kratoska
 canonical_name: Atché (Sumatra) [Aceh]. . Dyer; with a note P. Kratoska. f
-type: article
-article_type: translation
+type: publication
 authors:
 - X. Brau De Saint Pol Lias
 year: 2020
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-319-lias-atchsumatra-2020-1300ef490fc3
 source_path: ../sources/jmbras-319-lias-atchsumatra-2020-1300ef490fc3.md
 summarized: true
+publication_type: translation
 ---
+
 # Atché (Sumatra) [Aceh]. . Dyer; with a note P. Kratoska
 
 Xavier Brau de Saint-Pol Lias, a French explorer and sometime diplomat, presented this account of the Aceh region of Sumatra to the Société de Géographie in June 1883, during the height of the Dutch military campaign against the Sultanate of Aceh. Translated by Colin Dyer and published in JMBRAS in 2020, the paper offers a vivid first-hand ethnographic and military narrative of the west coast of Aceh, the interior Gayo highlands, and the Dutch colonial administration at Kota Radjah, framed by a closing argument in favour of French colonial expansion.

@@ -3,8 +3,7 @@ id: the-perak-sultanate-ancient-and-modern
 work_id: jmbras-59-1-p1
 title: 'The Perak Sultanate: ancient and modern'
 canonical_name: 'The Perak Sultanate: ancient and modern'
-type: article
-article_type: article
+type: publication
 authors:
 - Khoo Kay Kim
 year: 1986
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: true
 source_doc: jmbras-250-kim-peraksultanateancient-1986-9c0d34486e24
 source_path: ../sources/jmbras-250-kim-peraksultanateancient-1986-9c0d34486e24.md
+publication_type: journal_article
 ---
+
 # The Perak Sultanate: ancient and modern
 
 Khoo Kay Kim's 1986 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* traces the Perak Sultanate from its legendary founding in the early sixteenth century through to the accession of Sultan Azlan Shah in 1984, arguing that the sultanate's distinctive rotation-based succession system—rather than primogeniture—has been the defining structural feature of its political history, shaped and reshaped by external pressures from Aceh, the Bugis, Siam, and ultimately the British. The article synthesizes indigenous sources (the *Kedah Annals*, the *Perak Salasilah*, the "Legend of the White Semang") with colonial-era records to reconstruct a continuous narrative of dynastic legitimacy, internal rivalry, and foreign intervention.

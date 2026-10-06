@@ -3,8 +3,7 @@ id: the-trengganu-ruling-class-in-the-late-nineteenth-century
 work_id: jmbras-50-2-p25
 title: The Trengganu ruling class in the late nineteenth century
 canonical_name: The Trengganu ruling class in the late nineteenth century
-type: article
-article_type: article
+type: publication
 authors:
 - Shaharil Talib (L.R. Robert)
 year: 1977
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-232-robert-trengganurulingclass-1977-20e20716437b
 source_path: ../sources/jmbras-232-robert-trengganurulingclass-1977-20e20716437b.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The Trengganu ruling class in the late nineteenth century
 
 Shaharil Talib (writing as L.R. Robert) published this article in 1977 in the *Journal of the Malayan Branch of the Royal Asiatic Society*, mapping the social architecture of the Trengganu ruling class on the eve of formal British political control in the late nineteenth century. The central argument is that the ruling class comprised four distinct but interlocking elements—royalty, aristocracy, religious scholars, and court favourites—whose internal hierarchies, marriage strategies, and institutional roles were sufficiently well-defined to constitute a coherent social stratum that survived the imposition of colonial administration.

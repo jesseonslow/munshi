@@ -3,8 +3,7 @@ id: singapore-in-the-cycles-of-the-longue-durée
 work_id: jmbras-90-1-p29
 title: Singapore in the cycles of the longue durée
 canonical_name: Singapore in the cycles of the longue durée
-type: article
-article_type: article
+type: publication
 authors:
 - P. Borschberg
 year: 2017
@@ -27,7 +26,9 @@ keywords:
 - Dutch Empire
 - VOC
 - British Empire
+publication_type: journal_article
 ---
+
 # Singapore in the cycles of the longue durée
 
 ## Abstract

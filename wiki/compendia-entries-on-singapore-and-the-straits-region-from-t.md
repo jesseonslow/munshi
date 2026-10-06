@@ -5,8 +5,7 @@ title: Compendia Entries on Singapore and the Straits Region from the 16th to th
   Early 19th Century
 canonical_name: Compendia Entries on Singapore and the Straits Region from the 16th
   to the Early 19th Century
-type: article
-article_type: article
+type: publication
 authors:
 - P. Borschberg
 - B.J.Q. Khoo
@@ -40,7 +39,9 @@ keywords:
 source_mismatch: true
 source_doc: khoo-borschberg-compendia-entries-on-singapore-and-the-straits-region-e3f1ad999936
 source_path: ../sources/khoo-borschberg-compendia-entries-on-singapore-and-the-straits-region-e3f1ad999936.md
+publication_type: journal_article
 ---
+
 # Compendia Entries on Singapore and the Straits Region from the 16th to the Early 19th Century
 
 ## Abstract

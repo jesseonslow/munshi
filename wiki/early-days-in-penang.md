@@ -3,8 +3,7 @@ id: early-days-in-penang
 work_id: jmbras-1-1-p5
 title: Early days in Penang
 canonical_name: Early days in Penang
-type: article
-article_type: article
+type: publication
 authors:
 - K. Garnier
 year: 1923
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-087-garnier-earlydayspenang-1923-3a312213a2b7
 source_path: ../sources/jmalayanras-087-garnier-earlydayspenang-1923-3a312213a2b7.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Early days in Penang
 
 Revd. Keppel Garnier's 1923 article "Early Days in Penang" reconstructs the founding and formative decades of the settlement (1786–1820s) from the perspective of a local clergyman with direct access to parish registers and community memory, arguing that early Penang was a close-knit, socially vibrant European community that defied the conventional narrative of colonial life as lonely exile.

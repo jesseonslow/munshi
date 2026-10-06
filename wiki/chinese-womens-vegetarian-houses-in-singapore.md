@@ -3,8 +3,7 @@ id: chinese-womens-vegetarian-houses-in-singapore
 work_id: jmbras-27-1-p51
 title: Chinese women’s vegetarian houses in Singapore
 canonical_name: Chinese women’s vegetarian houses in Singapore
-type: article
-article_type: article
+type: publication
 authors:
 - M. Topley
 year: 1954
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-165-topley-chinesewomensvegetarian-1954-d79eb0ee2cdd
 source_path: ../sources/jmalayanras-165-topley-chinesewomensvegetarian-1954-d79eb0ee2cdd.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Chinese women’s vegetarian houses in Singapore
 
 Marjorie Topley, drawing on a year and a half of fieldwork in Singapore, documents the Chinese women's vegetarian house (素食堂) as it existed in the early 1950s and argues that these institutions functioned primarily as pragmatic old-age security arrangements for unattached women rather than as strictly religious communities. Published in 1954 in the *Journal of the Malayan Branch of the Royal Asiatic Society*, the article situates the vegetarian house within the broader failure of the Chinese joint family system to provide for women who were unmarried, widowed, or otherwise severed from male kin support in colonial Malaya.

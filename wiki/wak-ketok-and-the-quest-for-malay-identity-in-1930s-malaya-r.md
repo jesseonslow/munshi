@@ -5,8 +5,7 @@ title: Wak Ketok and the quest for Malay identity in 1930s Malaya. Razan Rosman 
   Sarena Abdullah
 canonical_name: Wak Ketok and the quest for Malay identity in 1930s Malaya. Razan
   Rosman and Sarena Abdullah
-type: article
-article_type: article
+type: publication
 authors:
 - Razan Rosman
 - Sarena Abdullah
@@ -37,7 +36,9 @@ keywords:
 - it shows a preference over brands or
 - to be precise
 - the maker of](assets/p19_img0.jpg)
+publication_type: journal_article
 ---
+
 # Wak Ketok and the quest for Malay identity in 1930s Malaya. Razan Rosman and Sarena Abdullah
 
 ## Abstract

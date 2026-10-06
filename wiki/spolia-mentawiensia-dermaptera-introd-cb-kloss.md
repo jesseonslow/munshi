@@ -3,8 +3,7 @@ id: spolia-mentawiensia-dermaptera-introd-cb-kloss
 work_id: jmbras-4-3-p384
 title: 'Spolia mentawiensia: Dermaptera. Introd. C.B. Kloss'
 canonical_name: 'Spolia mentawiensia: Dermaptera. Introd. C.B. Kloss'
-type: article
-article_type: article
+type: publication
 authors:
 - A. Borelli
 year: 1926
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-098-borelli-spoliamentawiensiadermaptera-1926-b11fa4b4f529
 source_path: ../sources/jmalayanras-098-borelli-spoliamentawiensiadermaptera-1926-b11fa4b4f529.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Spolia mentawiensia: Dermaptera. Introd. C.B. Kloss
 
 Alfredo Borelli, with an introduction by C. Boden Kloss, published this taxonomic account of the Dermaptera (earwigs) of the Mentawai Islands in 1926, reporting on material collected during a September–November 1924 expedition to Siberut and Sipora. The paper documents 22 species—two of them new to science—and uses the assemblage to argue that the Mentawai Group, though small and low-lying, constitutes a zoologically distinct entity separated from Sumatra by deep-water basins rather than the shallow Sunda shelf.

@@ -3,8 +3,7 @@ id: the-chams-of-malacca
 work_id: jmbras-24-1-p90
 title: The Chams of Malacca
 canonical_name: The Chams of Malacca
-type: article
-article_type: article
+type: publication
 authors:
 - G.E. Marrison
 year: 1951
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-154-marrison-chamsmalacca-1951-30afcad1b693
 source_path: ../sources/jmalayanras-154-marrison-chamsmalacca-1951-30afcad1b693.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The Chams of Malacca
 
 G. E. Marrison, writing in 1951, examines the Cham refugee community in the Malacca Sultanate following the Annamese conquest of Champa in 1471, arguing that the Chams contributed to the racial and cultural admixture of the Malay population of the Peninsula. The article translates and analyses the Champa episode in the *Sejarah Melayu*, cross-referencing it with Cham, Chinese, and Portuguese sources to reconstruct the political and cultural ties between the two peoples.

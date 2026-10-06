@@ -5,8 +5,7 @@ title: 'The Uses of Magic: Local Knowledge and the ''Unscientific Native'' in Co
   Malaya'
 canonical_name: 'The Uses of Magic: Local Knowledge and the ''Unscientific Native''
   in Colonial Malaya'
-type: article
-article_type: article
+type: publication
 authors:
 - Farish A. Noor
 year: 2021
@@ -28,7 +27,9 @@ keywords:
 - C. O. Blagden
 - Malay Magic*
 - imperialism
+publication_type: journal_article
 ---
+
 # The Uses of Magic: Local Knowledge and the 'Unscientific Native' in Colonial Malaya
 
 ## Abstract

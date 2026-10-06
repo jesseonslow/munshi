@@ -5,8 +5,7 @@ title: The first Sultan of Sarawak and his links to Brunei and the Sambas dynast
   1599–1826
 canonical_name: The first Sultan of Sarawak and his links to Brunei and the Sambas
   dynasty, 1599–1826
-type: article
-article_type: article
+type: publication
 authors:
 - I. Larsen
 year: 2012
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-303-larsen-firstsultansarawak-2012-5d57207295dc
 source_path: ../sources/jmbras-303-larsen-firstsultansarawak-2012-5d57207295dc/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The first Sultan of Sarawak and his links to Brunei and the Sambas dynasty, 1599–1826
 
 Ib Larsen (2012) examines the largely undocumented two-century period between the assassination of Sultan Tengah Manga in 1641 and the arrival of James Brooke in 1842, arguing that the conventional narrative of continuous Brunei suzerainty over Sarawak is too simplistic and that the neighbouring sultanate of Sambas exercised considerably stronger influence on the territory than has been generally credited.

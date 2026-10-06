@@ -3,8 +3,7 @@ id: the-points-of-the-compass-in-kelantan
 work_id: jmbras-11-2-p252
 title: The points of the compass in Kelantan
 canonical_name: The points of the compass in Kelantan
-type: article
-article_type: article
+type: publication
 authors:
 - A. Rentse
 year: 1933
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-117-rentse-pointscompasskelantan-1933-b91b54b0dde7
 source_path: ../sources/jmalayanras-117-rentse-pointscompasskelantan-1933-b91b54b0dde7.md
 summarized: true
+publication_type: note
 ---
+
 # The points of the compass in Kelantan
 
 This short note by Anker Rentse documents the local Malay and Javanese names for the cardinal and intercardinal compass points as used in Kelantan, based on a compiled diagram.

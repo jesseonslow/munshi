@@ -5,8 +5,7 @@ title: Marriage and divorce in Johore among Malay-Muslims during the Japanese oc
   1942–1945
 canonical_name: Marriage and divorce in Johore among Malay-Muslims during the Japanese
   occupation, 1942–1945
-type: article
-article_type: article
+type: publication
 authors:
 - Abu Talib Ahmad
 year: 1998
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-275-ahmad-marriagedivorcejohore-1998-f1d56c4616c7
 source_path: ../sources/jmbras-275-ahmad-marriagedivorcejohore-1998-f1d56c4616c7.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Marriage and divorce in Johore among Malay-Muslims during the Japanese occupation, 1942–1945
 
 Abu Talib Ahmad's 1998 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* examines marriage and divorce patterns among Malay-Muslims in Johore during the Japanese occupation (1942–1945), drawing on previously neglected records of the state's Ecclesiastical and Education Department and the Office of the Chief Qadhi. Ahmad argues that the sharp rise in divorce rates was a manifestation of the loosening of traditional and religious bonds—particularly among women—driven by a deepening socio-economic crisis and social transformation, and that this process of emancipation was already well underway from the economically turbulent 1930s rather than being a product of Japanese-era education as commonly supposed.

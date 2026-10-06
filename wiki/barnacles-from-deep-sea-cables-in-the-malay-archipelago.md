@@ -3,8 +3,7 @@ id: barnacles-from-deep-sea-cables-in-the-malay-archipelago
 work_id: jsbras-74-1-p281
 title: Barnacles from deep-sea cables in the Malay Archipelago
 canonical_name: Barnacles from deep-sea cables in the Malay Archipelago
-type: article
-article_type: article
+type: publication
 authors:
 - N. Annandale
 year: 1916
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-074-annandale-barnaclesdeepseatelegraph-1916-7320ad83a0dd
 source_path: ../sources/jsbras-074-annandale-barnaclesdeepseatelegraph-1916-7320ad83a0dd.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Barnacles from deep-sea cables in the Malay Archipelago
 
 N. Annandale, a zoologist with the Zoological Survey of India, published this taxonomic monograph in 1916 describing a collection of deep-sea barnacles (Cirripedia Pedunculata) recovered from telegraph cables in the seas around Java, Borneo, and Bali. The paper's central argument is that telegraph cables function as uniquely productive artificial substrates in the deep sea, enabling the survival and accumulation of sessile organisms that would otherwise find no suitable attachment surface on the soft ooze of the abyssal floor, and that this ecological advantage explains both the high proportion of undescribed species and the exceptional size of the specimens collected.

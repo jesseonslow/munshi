@@ -3,8 +3,7 @@ id: burong-olok-olok-jester-bird-is-the-brown-gannet
 work_id: jsbras-86-1-p260
 title: Burong olok-olok (jester bird) is the brown gannet
 canonical_name: _Burong olok-olok_ (jester bird) is the brown gannet
-type: article
-article_type: article
+type: publication
 authors:
 - Hamilton A.W
 year: 1922
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-086-hamilton-burongolokolokjesterbird-1922-d88e55e66d37
 source_path: ../sources/jsbras-086-hamilton-burongolokolokjesterbird-1922-d88e55e66d37.md
 summarized: true
+publication_type: note
 ---
+
 # Burong olok-olok (jester bird) is the brown gannet
 
 A. W. Hamilton's brief note identifies the Malayan bird name *burong olok-olok* (literally "jester-bird") as the Brown Gannet, *Sula sula* (Linn.).

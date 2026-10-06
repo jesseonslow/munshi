@@ -3,8 +3,7 @@ id: the-ritual-of-the-rice-field
 work_id: jmbras-7-3-p437
 title: The ritual of the rice-field
 canonical_name: The ritual of the rice-field
-type: article
-article_type: article
+type: publication
 authors:
 - R.O. Winstedt
 year: 1929
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-108-winstedt-ritualricefield-1929-477b7ff25a45
 source_path: ../sources/jmalayanras-108-winstedt-ritualricefield-1929-477b7ff25a45.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The ritual of the rice-field
 
 R. O. Winstedt published "The Ritual of the Rice-Field" in 1929, presenting a Perak manuscript that documents the full ceremonial cycle prescribed by the Malay *pawang* (medicine-man) for rice cultivation, from jungle clearing through to grain storage. The article situates this ritual within the broader syncretic framework Winstedt had already outlined in *Shaman, Saiva and Sufi*, showing how Islamic formulae, animist spirit-veneration, and agricultural pragmatism are interwoven in a single operational text.

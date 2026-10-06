@@ -3,8 +3,7 @@ id: dutch-records-from-malacca-in-the-india-office-records
 work_id: jmbras-56-2-p105
 title: Dutch records from Malacca in the India Office Records
 canonical_name: Dutch records from Malacca in the India Office Records
-type: article
-article_type: article
+type: publication
 authors:
 - I. Baxter
 year: 1984
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-245-baxter-dutchrecordsmalacca-1983-7d7c6f7c47f6
 source_path: ../sources/jmbras-245-baxter-dutchrecordsmalacca-1983-7d7c6f7c47f6.md
 summarized: true
+publication_type: document
 ---
+
 # Dutch records from Malacca in the India Office Records
 
 Ian Baxter's 1984 finding aid to the Malacca Orphan Chamber and Court of Justice records (series R/9) in the India Office Records, London, provides a comprehensive guide to 98 boxes of Dutch-language administrative, judicial, and financial documents spanning 1685 to 1835. The collection, donated by the Straits Settlements government in 1927 after years of neglect in the Malacca courthouse basement, was only fully sorted and listed in 1981, and Baxter's article serves to make it accessible to researchers for the first time.

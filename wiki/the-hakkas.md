@@ -3,8 +3,7 @@ id: the-hakkas
 work_id: jmbras-53-1-p107
 title: The Hakkas
 canonical_name: The Hakkas
-type: article
-article_type: article
+type: publication
 authors:
 - Lee Siow Mong
 year: 1980
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-237-mong-hakkas-1980-c0aaf143d40a
 source_path: ../sources/jmbras-237-mong-hakkas-1980-c0aaf143d40a/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The Hakkas
 
 Tan Sri Lee Siow Mong's 1980 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* traces the origins and migrations of the Hakka people from their earliest known presence in Shantung Province through successive waves of southward displacement to their eventual settlement in Malaysia. The overarching thesis is that the Hakkas were a nomadic, rootless minority group whose repeated persecutions and migrations shaped their distinctive cultural identity, hardiness, and eventual prominence in Malaysian Chinese society.

@@ -3,8 +3,7 @@ id: sumatra-in-1886
 work_id: jsbras-18-1-p345
 title: Sumatra in 1886
 canonical_name: Sumatra in 1886
-type: article
-article_type: article
+type: publication
 authors:
 - H.F. Kehding
 year: 1886
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-018-kehding-sumatra1886-1886-f82e0fe8280c
 source_path: ../sources/jsbras-018-kehding-sumatra1886-1886-f82e0fe8280c.md
 summarized: true
+publication_type: note
 ---
+
 # Sumatra in 1886
 
 This is a brief administrative and geographical survey of the Dutch colonial divisions of Sumatra as of 1886, written by F. Kehding and published in the Journal of the Siam Branch of the Royal Asiatic Society, Vol. 18 (1886), pp. 345–349.

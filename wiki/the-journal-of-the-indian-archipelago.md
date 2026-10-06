@@ -3,8 +3,7 @@ id: the-journal-of-the-indian-archipelago
 work_id: jsbras-18-1-p335
 title: The journal of the Indian Archipelago
 canonical_name: The journal of the Indian Archipelago
-type: article
-article_type: article
+type: publication
 authors:
 - N.B. Dennys
 year: 1886
@@ -18,6 +17,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: journal_article
 ---
 
 # The journal of the Indian Archipelago

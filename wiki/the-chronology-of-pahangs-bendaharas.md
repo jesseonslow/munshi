@@ -3,8 +3,7 @@ id: the-chronology-of-pahangs-bendaharas
 work_id: jmbras-12-2-p70
 title: The chronology of Pahang’s bendaharas
 canonical_name: The chronology of Pahang’s _bendaharas._
-type: article
-article_type: article
+type: publication
 authors:
 - W. Linehan
 year: 1934
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-119-linehan-chronologypahangsbendaharas-1934-f5d6103c7c8a
 source_path: ../sources/jmalayanras-119-linehan-chronologypahangsbendaharas-1934-f5d6103c7c8a.md
 summarized: true
+publication_type: note
 ---
+
 # The chronology of Pahang’s bendaharas
 
 This short note by W. Linehan addresses conflicting dates in the literature for the death of Bendahara 'Ali of Pahang, a key figure in the state's succession history.

@@ -4,8 +4,7 @@ work_id: jmbras-96-2-p89
 title: 'Centring the Periphery: New Forays in Malaysian Economic History. biblio'
 canonical_name: 'Centring the Periphery: New Forays in Malaysian Economic History.
   biblio'
-type: article
-article_type: article
+type: publication
 authors:
 - Loh Wei Leng
 year: 2023
@@ -19,6 +18,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: review
 ---
 
 # Centring the Periphery: New Forays in Malaysian Economic History. biblio

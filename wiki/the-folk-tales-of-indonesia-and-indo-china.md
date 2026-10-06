@@ -3,8 +3,7 @@ id: the-folk-tales-of-indonesia-and-indo-china
 work_id: jsbras-76-1-p119
 title: The folk-tales of Indonesia and Indo-China
 canonical_name: The folk-tales of Indonesia and Indo-China
-type: article
-article_type: article
+type: publication
 authors:
 - R.O. Winstedt
 year: 1917
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-076-winstedt-folktalesindonesiaindochina-1917-20892ad47de3
 source_path: ../sources/jsbras-076-winstedt-folktalesindonesiaindochina-1917-20892ad47de3.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The folk-tales of Indonesia and Indo-China
 
 R. O. Winstedt published "The Folk-tales of Indonesia and Indo-China" in 1917 in the *Journal of the Straits Branch of the Royal Asiatic Society*, a comparative folklore study arguing that the extensive distribution of identical or near-identical tales across Malayo-Polynesian and Austroasiatic language groups points to a shared cultural heritage rather than casual borrowing. Writing against the backdrop of Schmidt's proposed Austroasiatic–Malayo-Polynesian linguistic synthesis and Kern's hypothesis that Indo-China was the ancestral homeland of the Malay peoples, Winstedt treats folk-tale distribution as a proxy for deep historical contact.

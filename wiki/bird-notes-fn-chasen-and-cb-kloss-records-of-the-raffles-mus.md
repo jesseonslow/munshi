@@ -5,8 +5,7 @@ title: Bird notes. F.N. Chasen and C.B. Kloss. Records of the Raffles Museum, No
   13
 canonical_name: Bird notes. F.N. Chasen and C.B. Kloss. Records of the Raffles Museum,
   No. 13
-type: article
-article_type: article
+type: publication
 authors:
 - F.N. Chasen
 - C.B. Kloss
@@ -25,7 +24,9 @@ summarized: true
 source_mismatch: true
 source_doc: jmalayanras-093-chasen-birdnotes-1925-d85e98306a31
 source_path: ../sources/jmalayanras-093-chasen-birdnotes-1925-d85e98306a31.md
+publication_type: note
 ---
+
 # Bird notes. F.N. Chasen and C.B. Kloss. Records of the Raffles Museum, No. 13
 
 A short note by F. N. Chasen and C. B. Kloss comprising three brief taxonomic and faunal observations: the introduction of an Australian scink to Singapore, the range of a White-rumped Swift subspecies in the Malay Peninsula, and a nomenclatural clarification for a Bornean bird (p. 101).

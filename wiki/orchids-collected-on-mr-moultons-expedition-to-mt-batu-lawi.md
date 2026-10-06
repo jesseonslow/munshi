@@ -3,8 +3,7 @@ id: orchids-collected-on-mr-moultons-expedition-to-mt-batu-lawi
 work_id: jsbras-63-1-p63
 title: Orchids collected on Mr. Moulton’s expedition to Mt. Batu Lawi
 canonical_name: Orchids collected on Mr. Moulton’s expedition to Mt. Batu Lawi
-type: article
-article_type: article
+type: publication
 authors:
 - J.J. Smith
 year: 1912
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-063-moulton-expeditionmountbatu-1912-94eae97ebac5
 source_path: ../sources/jsbras-063-moulton-expeditionmountbatu-1912-94eae97ebac5/frontmatter.md
 summarized: true
+publication_type: note
 ---
+
 # Orchids collected on Mr. Moulton’s expedition to Mt. Batu Lawi
 
 J.J. Smith's 1912 article reports on orchid specimens collected during J.C. Moulton's 1911 expedition to Mount Batu Lawi, a remote peak in the Limbang district of Sarawak that had been reached by very few Europeans before that journey. Published in the *Journal of the Straits Branch of the Royal Asiatic Society*, the piece serves as a taxonomic companion to Moulton's full expedition narrative, which appears in the same volume.

@@ -3,8 +3,7 @@ id: lasianthus-barbellatus-a-new-species-from-pulau-tiuman-pahan
 work_id: jsbras-77-1-p187
 title: Lasianthus barbellatus, a new species from Pulau Tiuman, Pahang
 canonical_name: _Lasianthus barbellatus,_ a new species from Pulau Tiuman, Pahang
-type: article
-article_type: article
+type: publication
 authors:
 - H.N. Ridley
 year: 1917
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-077-ridley-lasianthusbarbellatusnew-1917-c056c228429c
 source_path: ../sources/jsbras-077-ridley-lasianthusbarbellatusnew-1917-c056c228429c.md
 summarized: true
+publication_type: note
 ---
+
 # Lasianthus barbellatus, a new species from Pulau Tiuman, Pahang
 
 This is a brief taxonomic note by H. N. Ridley describing *Lasianthus barbellatus*, a new species of Rubiaceae collected from Pulau Tiuman, Pahang (p. 187).

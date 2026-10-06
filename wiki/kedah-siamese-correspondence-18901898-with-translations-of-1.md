@@ -5,8 +5,7 @@ title: Kedah-Siamese correspondence, 1890–1898 {with translations of 10 letter
   the Perlis affairs
 canonical_name: Kedah-Siamese correspondence, 1890–1898 {with translations of 10 letters
   on the Perlis affairs}
-type: article
-article_type: article
+type: publication
 authors:
 - Kobkua Suwannathat-Pian
 year: 1982
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-243-suwannathatpian-kedahsiamesecorrespondence18901898-1982-12e20d3ccd8e
 source_path: ../sources/jmbras-243-suwannathatpian-kedahsiamesecorrespondence18901898-1982-12e20d3ccd8e.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Kedah-Siamese correspondence, 1890–1898 {with translations of 10 letters on the Perlis affairs
 
 Kobkua Suwannathat-Pian's 1982 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* examines a Thai-language manuscript of official correspondence between Kedah and Bangkok spanning 1890–1898, arguing that this decade represents the zenith of cordial Kedah-Siamese relations and revealing, through ten translated letters, the sustained diplomatic campaign by Kedah's ruling house to recover the lost state of Perlis.

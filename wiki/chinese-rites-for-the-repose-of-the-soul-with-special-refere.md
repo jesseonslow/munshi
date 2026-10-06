@@ -5,8 +5,7 @@ title: Chinese rites for the repose of the soul; with special reference to Canto
   custom
 canonical_name: Chinese rites for the repose of the soul; with special reference to
   Cantonese custom
-type: article
-article_type: article
+type: publication
 authors:
 - M. Topley
 year: 1952
@@ -23,7 +22,9 @@ published: false
 source_doc: jmalayanras-158-topley-chineseritesrepose-1952-eee9a458f11d
 source_path: ../sources/jmalayanras-158-topley-chineseritesrepose-1952-eee9a458f11d.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Chinese rites for the repose of the soul; with special reference to Cantonese custom
 
 Marjorie Topley's 1952 ethnographic study documents the Cantonese mortuary rites performed in Singapore, with particular focus on the "Paying of Respects" (*ta chai*) ceremony as carried out in the "Death Houses" of Sago Lane. Drawing on direct observation and participant accounts, Topley presents a detailed account of the six-rite sequence for the dead, the role of the *Nam-ma-lo* (Taoist chanting priests), and the elaborate material culture of paper effigies and ritual objects that underpin Cantonese beliefs about the soul's journey through the underworld.

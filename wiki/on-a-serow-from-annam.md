@@ -3,8 +3,7 @@ id: on-a-serow-from-annam
 work_id: jsbras-78-1-p59
 title: On a serow from Annam
 canonical_name: On a serow from Annam
-type: article
-article_type: article
+type: publication
 authors:
 - Hanitsch R
 year: 1918
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: false
 source_doc: jsbras-078-hanitsch-serowannam-1918-a9a50d1b8450
 source_path: ../sources/jsbras-078-hanitsch-serowannam-1918-a9a50d1b8450.md
+publication_type: journal_article
 ---
+
 # On a serow from Annam
 
 Dr. R. Hanitsch, Director of the Raffles Museum in Singapore, published this brief taxonomic note in 1918 describing a serow (*Capricornis* sp.) found alive off the Annamese coast in February 1917, arguing that the specimen's skull and external characters do not fit neatly into any of the seven geographical races of *C. sumatraensis* previously described by Pocock, nor into Sowerby's revised Chinese and Tonkinese species, leaving its specific identity unresolved.

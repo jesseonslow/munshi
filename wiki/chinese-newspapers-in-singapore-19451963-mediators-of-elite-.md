@@ -5,8 +5,7 @@ title: 'Chinese newspapers in Singapore, 1945–1963: mediators of elite and pop
   tastes in culture and politics'
 canonical_name: 'Chinese newspapers in Singapore, 1945–1963: mediators of elite and
   popular tastes in culture and politics'
-type: article
-article_type: article
+type: publication
 authors:
 - Thum Ping Tjin
 year: 2010
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-298-tjin-chinesenewspaperssingapore-2010-faeae110b912
 source_path: ../sources/jmbras-298-tjin-chinesenewspaperssingapore-2010-faeae110b912/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Chinese newspapers in Singapore, 1945–1963: mediators of elite and popular tastes in culture and politics
 
 Thum Ping Tjin (2010) examines the Chinese-language press in Singapore between 1945 and 1963, arguing that these newspapers functioned as the primary mediators of a distinct Chinese public sphere that operated autonomously from, yet interlinked with, the Anglophone colonial political domain. The article contends that the Chinese press was not merely a recorder of events but an active progenitor of Singapore's emerging civil society, shaping political consciousness, cultural identity, and the linguistic frameworks through which decolonization was understood and contested.

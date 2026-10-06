@@ -3,8 +3,7 @@ id: the-guillemard-maxwell-power-struggle-19211925
 work_id: jmbras-54-1-p48
 title: The Guillemard-Maxwell power struggle, 1921–1925
 canonical_name: The Guillemard-Maxwell power struggle, 1921–1925
-type: article
-article_type: article
+type: publication
 authors:
 - Yeo Kim Wah
 year: 1981
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-239-wah-guillemardmaxwellpowerstruggle-1981-e7bc5fbd70a4
 source_path: ../sources/jmbras-239-wah-guillemardmaxwellpowerstruggle-1981-e7bc5fbd70a4.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The Guillemard-Maxwell power struggle, 1921–1925
 
 Yeo Kim Wah's 1981 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* examines the bitter administrative power struggle between Governor-High Commissioner Sir Laurence Guillemard and Chief Secretary of the Federated Malay States Sir William George Maxwell during 1921–1925. Set against the backdrop of the post-war trade recession and the structural tensions between the Crown Colony of the Straits Settlements and the protectorate of the FMS, the article argues that the conflict was fundamentally a dispute over the constitutional role of the Chief Secretary and the degree of direct control the High Commissioner should wield over FMS policy—a struggle more strident and wide-ranging than any between their predecessors or successors.

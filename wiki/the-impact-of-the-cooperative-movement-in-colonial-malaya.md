@@ -3,8 +3,7 @@ id: the-impact-of-the-cooperative-movement-in-colonial-malaya
 work_id: jmbras-46-2-p151
 title: The impact of the cooperative movement in colonial Malaya
 canonical_name: The impact of the cooperative movement in colonial Malaya
-type: article
-article_type: article
+type: publication
 authors:
 - L.J. Fredericks
 year: 1973
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-224-fredericks-impactcooperativemovement-1973-920bca325862
 source_path: ../sources/jmbras-224-fredericks-impactcooperativemovement-1973-920bca325862/appendices.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The impact of the cooperative movement in colonial Malaya
 
 L.J. Fredericks (1973) evaluates the economic and social impact of the cooperative movement in British Malaya between 1922 and 1940, drawing on loan utilization data from the Annual Reports on the Working of Cooperative Societies. His overarching thesis is that while the tangible economic benefits accrued more to urban government servants and Indian estate labourers, the social impact—introducing concepts of thrift, collective ownership, and parliamentary democracy into the feudal Malay village—was more significant among Malay smallholders.

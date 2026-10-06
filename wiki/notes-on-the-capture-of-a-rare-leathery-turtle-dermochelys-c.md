@@ -5,8 +5,7 @@ title: Notes on the capture of a rare leathery turtle (Dermochelys coriacea) in 
   waters
 canonical_name: Notes on the capture of a rare leathery turtle _(Dermochelys coriacea)_
   in Johore waters
-type: article
-article_type: article
+type: publication
 authors:
 - C.B. Kloss
 year: 1907
@@ -23,7 +22,9 @@ published: false
 source_doc: jsbras-049-kloss-notescapturerare-1907-719007b983b8
 source_path: ../sources/jsbras-049-kloss-notescapturerare-1907-719007b983b8.md
 summarized: true
+publication_type: note
 ---
+
 # Notes on the capture of a rare leathery turtle (Dermochelys coriacea) in Johore waters
 
 This note by C. Boden Kloss documents the capture of a large male leathery turtle (*Dermochelys coriacea*) in Johore Strait in March 1905, providing measurements, a description of its appearance, and notes on its local significance.

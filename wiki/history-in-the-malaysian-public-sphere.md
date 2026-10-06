@@ -3,8 +3,7 @@ id: history-in-the-malaysian-public-sphere
 work_id: jmbras-96-1-p1
 title: History in the Malaysian Public Sphere
 canonical_name: History in the Malaysian Public Sphere
-type: article
-article_type: article
+type: publication
 authors:
 - Danny Wong Tze Ken
 year: 2023
@@ -18,7 +17,9 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: journal_article
 ---
+
 # History in the Malaysian Public Sphere
 
 ## Summary

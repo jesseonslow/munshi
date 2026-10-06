@@ -3,8 +3,7 @@ id: the-octopus-nq-1-1415
 work_id: jsbras-14-the-octopus-nq-1-1415
 title: 'The octopus. NQ 1: 14–15'
 canonical_name: 'The octopus. NQ 1: 14–15'
-type: article
-article_type: notes_and_queries
+type: publication
 authors:
 - N.B. Dennys
 year: 1884
@@ -18,6 +17,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: note
 ---
 
 # The octopus. NQ 1: 14–15

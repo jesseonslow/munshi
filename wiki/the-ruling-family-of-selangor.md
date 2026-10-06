@@ -3,8 +3,7 @@ id: the-ruling-family-of-selangor
 work_id: jsbras-22-1-p321
 title: The ruling family of Selangor
 canonical_name: The ruling family of Selangor
-type: article
-article_type: article
+type: publication
 authors:
 - W.E. Maxwell
 year: 1890
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-022-maxwell-rulingfamilyselangor-1890-4bee11706958
 source_path: ../sources/jsbras-022-maxwell-rulingfamilyselangor-1890-4bee11706958.md
 summarized: true
+publication_type: note
 ---
+
 # The ruling family of Selangor
 
 This is a brief extract by W. E. Maxwell, C.M.G., from the Selangor Administration Report for 1889, tracing the Bugis origins of Selangor's ruling dynasty and its succession up to Sultan Abdul Samad.

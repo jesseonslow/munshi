@@ -5,8 +5,7 @@ title: Social reform and reformist pressure groups among Indians of Malaya and S
   1930–1955
 canonical_name: Social reform and reformist pressure groups among Indians of Malaya
   and Singapore 1930–1955
-type: article
-article_type: article
+type: publication
 authors:
 - S. Arasaratnam
 year: 1967
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-212-arasaratnam-socialreformreformist-1967-e5584a72af92
 source_path: ../sources/jmbras-212-arasaratnam-socialreformreformist-1967-e5584a72af92.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Social reform and reformist pressure groups among Indians of Malaya and Singapore 1930–1955
 
 S. Arasaratnam, writing in the *Journal of the Malaysian Branch of the Royal Asiatic Society* in 1967, examines the development of social reform movements among the Indian community in Malaya and Singapore between 1930 and 1955. His central thesis is that, in stark contrast to India where an English-educated elite directed both political and social reform, the Malayan reformist impulse was driven by the Tamil-educated intelligentsia and small business entrepreneurs who operated in a structural void created by the absence of any connected leadership class within the plantation economy. The article traces how these groups addressed caste discrimination, temperance, religious ritual, and marriage law, and how their efforts were shaped by the community's internal divisions over the proper role of the state.

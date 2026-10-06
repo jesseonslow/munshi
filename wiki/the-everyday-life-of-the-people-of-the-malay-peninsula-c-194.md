@@ -4,8 +4,7 @@ work_id: jmbras-94-1-p189
 title: The everyday life of the people of the Malay Peninsula [c. 1943]. . Kozic
 canonical_name: The everyday life of the people of the Malay Peninsula [c. 1943].
   . Kozic. f
-type: article
-article_type: translation
+type: publication
 authors:
 - J. Kozic
 - A. Kozo
@@ -23,7 +22,9 @@ published: false
 source_doc: kozo-everyday-life-of-the-people-1b1c67a0a94d
 source_path: ../sources/kozo-everyday-life-of-the-people-1b1c67a0a94d.md
 summarized: true
+publication_type: translation
 ---
+
 # The everyday life of the people of the Malay Peninsula [c. 1943]. . Kozic
 
 Ando Kozo, a Japanese physician who served as Chief of the Medical Department of Malaya District during the Japanese Occupation, published this account of everyday life in Singapore (referred to in the original Japanese as *Shonanto*) in the popular nutrition magazine *Eiyō to Tōri* in 1943. Translated by Josko Kozo and published in JMBRAS in 2021, the article presents a colonial-medical portrait of the Malay Peninsula's multi-ethnic population, framing their diets, habits, and health conditions through a hierarchy that privileges Japanese standards of vitality and productivity. The overarching thesis is that the tropics are a manageable, even desirable, environment for Japanese settlers provided one attends to specific hygienic precautions, while simultaneously attributing the perceived inferiority of Malay and Indian populations to their food, climate, and disease burden.

@@ -3,8 +3,7 @@ id: note-fijians
 work_id: jsbras-8-1-p168
 title: Note {Fijians
 canonical_name: Note {Fijians}
-type: article
-article_type: article
+type: publication
 authors:
 - Thurston
 year: 1881
@@ -18,6 +17,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: note
 ---
 
 # Note {Fijians

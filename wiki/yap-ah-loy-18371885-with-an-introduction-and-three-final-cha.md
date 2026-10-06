@@ -5,8 +5,7 @@ title: Yap Ah Loy, 1837–1885, with an introduction and three final chapters by
   Gullick (and notes on the text)
 canonical_name: Yap Ah Loy, 1837–1885, with an introduction and three final chapters
   by J.M. Gullick (and notes on the text)
-type: article
-article_type: article
+type: publication
 authors:
 - S.M. Middlebrook
 editors:
@@ -25,7 +24,9 @@ published: false
 summarized: true
 source_doc: jmalayanras-155-middlebrook-yapahloy-1951-a226f54271a8
 source_path: ../sources/chapter-11.md
+publication_type: monograph
 ---
+
 # Yap Ah Loy, 1837–1885, with an introduction and three final chapters by J.M. Gullick (and notes on the text)
 
 S.M. Middlebrook's *Yap Ah Loy, 1837–1885* (1951) is a comprehensive biography of the Hakka Chinese mining magnate who transformed Kuala Lumpur from an obscure tin-mining village into the most important town in the Malay Peninsula. Set against the backdrop of the Selangor Civil War (1866–1873) and the subsequent British intervention of 1874, the work argues that Ah Loy's achievements as military leader, administrator, and mining entrepreneur constituted the principal contribution to the making of modern Selangor. The biography was written by a Malayan Civil Service officer who was killed by the Kempei Tai in 1944; it was completed and edited posthumously by J.M. Gullick and C.A. Gibson-Hill.

@@ -3,8 +3,7 @@ id: elaeocarpus-barnardii-a-new-species-described-from-perak
 work_id: jsbras-75-1-p41
 title: Elaeocarpus barnardii, a new species described from Perak
 canonical_name: _Elaeocarpus barnardii,_ a new species described from Perak
-type: article
-article_type: article
+type: publication
 authors:
 - I.H. Burkill
 year: 1917
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-075-burkill-elaeocarpusbarnardiinew-1917-b0ac9a611a51
 source_path: ../sources/jsbras-075-burkill-elaeocarpusbarnardiinew-1917-b0ac9a611a51.md
 summarized: true
+publication_type: note
 ---
+
 # Elaeocarpus barnardii, a new species described from Perak
 
 I.H. Burkill's brief taxonomic note describes *Elaeocarpus barnardii*, a new species of tree collected near Taiping, Perak, by H.B.F. Barnard.

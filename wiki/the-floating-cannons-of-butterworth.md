@@ -3,8 +3,7 @@ id: the-floating-cannons-of-butterworth
 work_id: jmbras-20-1-p126
 title: The floating cannons of Butterworth
 canonical_name: The floating cannons of Butterworth
-type: article
-article_type: article
+type: publication
 authors:
 - A.E. Coope
 year: 1947
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-142-coope-floatingcannonbutterworth-1947-24201fc07d33
 source_path: ../sources/jmalayanras-142-coope-floatingcannonbutterworth-1947-24201fc07d33.md
 summarized: true
+publication_type: note
 ---
+
 # The floating cannons of Butterworth
 
 A short note by A. E. Coope describing the "Floating Cannon" of Butterworth, a rusted muzzle-loading cannon enshrined in a thatched shed near Mitchell Pier and venerated by local Chinese fisherfolk (p. 125).

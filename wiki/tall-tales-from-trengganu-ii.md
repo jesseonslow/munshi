@@ -3,8 +3,7 @@ id: tall-tales-from-trengganu-ii
 work_id: jmbras-63-2-p69
 title: Tall tales from Trengganu. II
 canonical_name: Tall tales from Trengganu. II
-type: article
-article_type: article
+type: publication
 authors:
 - N. Rees
 year: 1990
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-259-rees-talltalesterengganu-1990-208ab77a5c4c
 source_path: ../sources/jmbras-259-rees-talltalesterengganu-1990-208ab77a5c4c.md
 summarized: true
+publication_type: note
 ---
+
 # Tall tales from Trengganu. II
 
 Noel Rees, a British resident in Terengganu during the mid-twentieth century, published this second instalment of his "Tall Tales" series in 1990, offering a vivid first-person account of rural Malay life, local customs, and a harrowing tiger encounter in the state's coastal hinterland. The piece functions as a personal memoir that captures the texture of colonial-era Terengganu through anecdote rather than formal analysis.

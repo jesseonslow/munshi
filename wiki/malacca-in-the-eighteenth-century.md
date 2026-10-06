@@ -3,8 +3,7 @@ id: malacca-in-the-eighteenth-century
 work_id: jsbras-12-1-p261
 title: Malacca in the eighteenth century
 canonical_name: Malacca in the eighteenth century
-type: article
-article_type: article
+type: publication
 authors:
 - D.F.A. Hervey
 year: 1883
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-012-h-malaccaeighteenthcentury-1883-227fd0db12fc
 source_path: ../sources/jsbras-012-h-malaccaeighteenthcentury-1883-227fd0db12fc.md
 summarized: true
+publication_type: document
 ---
+
 # Malacca in the eighteenth century
 
 D.F.A. Hervey published this extract in 1883, a translation from Dutch archival records held in the Government Offices at Malacca, documenting the military engagements of the Dutch garrison against Malay raiding parties in November 1756. The text presents the colonial administration's own account of its defensive operations in the Malacca hinterland, framed as a straightforward military diary rather than an analytical argument.

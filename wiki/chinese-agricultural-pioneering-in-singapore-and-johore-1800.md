@@ -3,8 +3,7 @@ id: chinese-agricultural-pioneering-in-singapore-and-johore-1800
 work_id: jmbras-38-1-p77
 title: Chinese agricultural pioneering in Singapore and Johore, 1800–1917
 canonical_name: Chinese agricultural pioneering in Singapore and Johore, 1800–1917
-type: article
-article_type: article
+type: publication
 authors:
 - J.C. Jackson
 year: 1965
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-207-jackson-chineseagriculturalpioneering-1965-fa4ec76def63
 source_path: ../sources/jmbras-207-jackson-chineseagriculturalpioneering-1965-fa4ec76def63.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Chinese agricultural pioneering in Singapore and Johore, 1800–1917
 
 James C. Jackson's 1965 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* examines the history of Chinese gambier and pepper cultivation in Singapore and Johore between 1800 and 1917, arguing that this form of agricultural pioneering was the most extensive and successful export-oriented enterprise in southern Malaya prior to the rubber era. Jackson contends that the system's success lay not in the crops themselves but in the organisational framework—the "Kangchu System"—through which impecunious Chinese immigrants established self-sufficient agricultural colonies in virgin terrain.

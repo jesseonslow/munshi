@@ -3,8 +3,7 @@ id: the-coming-of-islam-to-the-east-indies
 work_id: jmbras-24-1-p28
 title: The coming of Islam to the East Indies
 canonical_name: The coming of Islam to the East Indies
-type: article
-article_type: article
+type: publication
 authors:
 - G.E. Marrison
 year: 1951
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-154-marrison-comingislameast-1951-40f160efced0
 source_path: ../sources/jmalayanras-154-marrison-comingislameast-1951-40f160efced0.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The coming of Islam to the East Indies
 
 G. E. Marrison published this article in 1951 in the *Journal of the Malayan Branch of the Royal Asiatic Society*, addressing the thirteenth-century introduction of Islam to the Malay Archipelago. His central thesis is that Malaysian Islam originated from the Coromandel Coast of southern India rather than from Gujarat, a conclusion he reaches by dismantling the prevailing Dutch scholarly theory and reasserting the credibility of Malay literary tradition.

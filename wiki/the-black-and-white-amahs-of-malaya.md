@@ -3,8 +3,7 @@ id: the-black-and-white-amahs-of-malaya
 work_id: jmbras-65-2-p69
 title: The black and white amahs of Malaya
 canonical_name: The black and white amahs of Malaya
-type: article
-article_type: article
+type: publication
 authors:
 - Ooi Keat Gin
 year: 1992
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-263-gin-domesticservantspar-1992-abed0d8ffe6f
 source_path: ../sources/jmbras-263-gin-domesticservantspar-1992-abed0d8ffe6f.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The black and white amahs of Malaya
 
 Ooi Keat Gin's 1992 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* examines the Cantonese domestic servants known as "Black and White Amahs" who emigrated to Penang and Singapore in the 1930s, drawing on oral histories collected in Penang between 1981 and 1991. The study traces their emigration, their role in affluent Chinese households, the social institutions that sustained them, and their distinctive refusal of marriage, ultimately positioning them as "pioneer feminists" whose lives represented a rare form of female autonomy in the Chinese diaspora.

@@ -3,8 +3,7 @@ id: in-memoriam-kg-tregonning
 work_id: jmbras-88-2-p157
 title: 'In memoriam: K.G. Tregonning'
 canonical_name: 'In memoriam: K.G. Tregonning'
-type: article
-article_type: obituary
+type: publication
 authors:
 - Anon (and unidentifiable initials)
 year: 2015
@@ -20,8 +19,8 @@ status: stub
 published: false
 source_doc: jmbras-309-drkg-2015-9f83b4a26686
 source_path: ../sources/jmbras-309-drkg-2015-9f83b4a26686.md
+publication_type: obituary
 ---
-
 
 # In memoriam: K.G. Tregonning
 

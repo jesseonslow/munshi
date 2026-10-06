@@ -3,8 +3,7 @@ id: note-on-the-opening-of-relations-between-china-and-malacca-1
 work_id: jmbras-38-1-p260
 title: Note on the opening of relations between China and Malacca, 1403–05
 canonical_name: Note on the opening of relations between China and Malacca, 1403–05
-type: article
-article_type: article
+type: publication
 authors:
 - Naguib, Syed Al-Attas
 year: 1965
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-207-alattas-noteopeningrelations-1965-ad926c11a906
 source_path: ../sources/jmbras-207-alattas-noteopeningrelations-1965-ad926c11a906.md
 summarized: true
+publication_type: note
 ---
+
 # Note on the opening of relations between China and Malacca, 1403–05
 
 Syed Naguib al-Attas published this brief note in 1965 as a targeted correction to Wang Gungwu's influential 1964 essay on the opening of Sino-Malaccan relations in 1403–05. Al-Attas challenges Wang's identification of the Muslim traders who brought Malacca to the attention of the Ming Emperor Yung-lo as south Indian (Malabar) merchants, arguing instead that they were Persians from the province of Jilan (Gilān) on the Caspian Sea.

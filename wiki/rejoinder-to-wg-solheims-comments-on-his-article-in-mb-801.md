@@ -3,8 +3,7 @@ id: rejoinder-to-wg-solheims-comments-on-his-article-in-mb-801
 work_id: jmbras-80-2-p104
 title: Rejoinder to W.G. Solheim’s comments on his article in MB 80(1
 canonical_name: Rejoinder to W.G. Solheim’s comments on his article in MB 80(1)
-type: article
-article_type: article
+type: publication
 authors:
 - Hassan Shuhaimi Nik, bin Nik Abdul Rahman
 year: 2007
@@ -18,6 +17,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: note
 ---
 
 # Rejoinder to W.G. Solheim’s comments on his article in MB 80(1

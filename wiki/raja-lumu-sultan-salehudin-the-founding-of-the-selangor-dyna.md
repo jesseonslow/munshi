@@ -3,8 +3,7 @@ id: raja-lumu-sultan-salehudin-the-founding-of-the-selangor-dyna
 work_id: jmbras-58-2-p1
 title: 'Raja Lumu – Sultan Salehudin: the founding of the Selangor dynasty'
 canonical_name: 'Raja Lumu – Sultan Salehudin: the founding of the Selangor dynasty'
-type: article
-article_type: article
+type: publication
 authors:
 - Khoo Kay Kim
 year: 1985
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: true
 source_doc: jmbras-249-kim-rajalumusultansalehuddin-1985-2ed578f282eb
 source_path: ../sources/appendices.md
+publication_type: journal_article
 ---
+
 # Raja Lumu – Sultan Salehudin: the founding of the Selangor dynasty
 
 Khoo Kay Kim's 1985 article, delivered as a Silver Jubilee Lecture for Sultan Salahuddin Abdul Aziz Shah, reconstructs the political circumstances of eighteenth-century Johor and the Malay Peninsula that culminated in Raja Lumu's installation as Sultan Salehuddin of Selangor in 1766, arguing that the Melaka Sultanate's tradition of conferred legitimacy (*daulat*) remained the operative principle of Malay statehood even after the kingdom's fragmentation.

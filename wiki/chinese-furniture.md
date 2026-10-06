@@ -3,8 +3,7 @@ id: chinese-furniture
 work_id: jmbras-67-1-p69
 title: Chinese furniture
 canonical_name: Chinese furniture
-type: article
-article_type: article
+type: publication
 authors:
 - W. Cheah
 year: 1994
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-266-cheah-chinesefurniture-1994-f41d70b962a8
 source_path: ../sources/jmbras-266-cheah-chinesefurniture-1994-f41d70b962a8.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Chinese furniture
 
 Walter Cheah's 1994 article, based on a lecture delivered to the Malaysian Branch of the Royal Asiatic Society on 7 December 1993, is a practical collector's guide to Chinese furniture spanning the Ming and Qing dynasties. Grounded in the author's personal collecting experience across the Straits Settlements and Hong Kong, the piece serves as both a taxonomic reference for furniture forms and a practical guide to wood identification for collectors operating in the Malaysian and regional market.

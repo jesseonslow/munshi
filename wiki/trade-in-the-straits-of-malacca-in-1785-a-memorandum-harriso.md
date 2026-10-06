@@ -3,8 +3,7 @@ id: trade-in-the-straits-of-malacca-in-1785-a-memorandum-harriso
 work_id: jmbras-26-1-p56
 title: 'Trade in the Straits of Malacca in 1785: a memorandum. . Harrison'
 canonical_name: 'Trade in the Straits of Malacca in 1785: a memorandum. . Harrison'
-type: article
-article_type: translation
+type: publication
 authors:
 - P.G. de Bruijn
 - Harrison B
@@ -22,7 +21,9 @@ published: false
 source_doc: jmalayanras-161-harrison-tradestraitsmalacca-1953-c9c8de6c6f01
 source_path: ../sources/jmalayanras-161-harrison-tradestraitsmalacca-1953-c9c8de6c6f01.md
 summarized: true
+publication_type: document
 ---
+
 # Trade in the Straits of Malacca in 1785: a memorandum. . Harrison
 
 Brian Harrison translated and published in 1953 a memorandum dated 15 June 1785, written by P.G. de Bruijn, Governor of Malacca, to the Governor-General and Council of the Netherlands Indies at Batavia. Set in the immediate aftermath of the Dutch military expulsion of the Bugis from Riau in 1784, the document argues that Malacca must urgently replicate the lucrative trade that had previously centred on Riau before the Bugis could re-establish a rival exchange port elsewhere in the region.

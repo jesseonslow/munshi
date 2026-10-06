@@ -3,8 +3,7 @@ id: report-on-malay-studies
 work_id: jsbras-83-1-p30
 title: Report on Malay studies
 canonical_name: Report on Malay studies
-type: article
-article_type: article
+type: publication
 authors:
 - C.O. Blagden
 year: 1921
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-083-blagden-reportmalaystudies-1921-7bd3860b070e
 source_path: ../sources/jsbras-083-blagden-reportmalaystudies-1921-7bd3860b070e.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Report on Malay studies
 
 C. O. Blagden, Reader in Malay at the University of London, delivered this report in 1921 (read at the joint session of Orientalist Societies in Paris, July 1920) surveying the state of British-led Malay scholarship in the early 1920s. The overarching thesis is that British administrative expansion in the Malay Peninsula had catalysed a new, systematic phase of Malay studies, driven by the Committee for Malay Studies in the Federated Malay States and the Straits Branch of the Royal Asiatic Society, and that this work could only reach its full potential through integration with broader Indianist and Islamic scholarship.

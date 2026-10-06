@@ -3,8 +3,7 @@ id: the-bugis-makassar-diaspora
 work_id: jmbras-68-1-p119
 title: The Bugis-Makassar diaspora
 canonical_name: The Bugis-Makassar diaspora
-type: article
-article_type: article
+type: publication
 authors:
 - L.Y. Andaya
 year: 1995
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-268-andaya-bugismakassardiasporas-1995-4a9fdee2237c
 source_path: ../sources/jmbras-268-andaya-bugismakassardiasporas-1995-4a9fdee2237c/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The Bugis-Makassar diaspora
 
 Leonard Y. Andaya's 1995 article examines the contrasting fates of the Makassar and Bugis refugee diasporas from South Sulawesi during the late seventeenth and eighteenth centuries, arguing that the Bugis succeeded in establishing durable political enclaves across the Malay world while the Makassar diaspora ended in violent repatriation. Drawing on Malay court chronicles, VOC records, and English East India Company documents, Andaya demonstrates that differences in refugee noble status, host-kingdom strength, and—most critically—the nature of diaspora governance structures determined these divergent outcomes (pp. 119–121).

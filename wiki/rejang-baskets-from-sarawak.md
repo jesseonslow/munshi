@@ -3,8 +3,7 @@ id: rejang-baskets-from-sarawak
 work_id: jmbras-11-2-p185
 title: Rejang baskets from Sarawak
 canonical_name: Rejang baskets from Sarawak
-type: article
-article_type: article
+type: publication
 authors:
 - J.C. Swayne
 year: 1933
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-117-swayne-rejangbasketssarawak-1933-f3c517970c2d
 source_path: ../sources/jmalayanras-117-swayne-rejangbasketssarawak-1933-f3c517970c2d.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Rejang baskets from Sarawak
 
 J.C. Swayne's 1933 article in the *Journal of the Malayan Branch of the Royal Asiatic Society* provides a detailed ethnographic account of Rejang baskets (*bakan* or *tepoko*) produced by the Seduan and Kenauit peoples of the Rejang River in Sarawak. Writing in the context of early twentieth-century colonial museum collecting, Swayne documents the full production cycle—from raw material preparation through weaving to finishing—and, more significantly, catalogues the named geometric patterns and their indigenous meanings, arguing against the prevailing assumption that such symbolism had been lost to time.

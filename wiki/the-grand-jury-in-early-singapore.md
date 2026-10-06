@@ -3,8 +3,7 @@ id: the-grand-jury-in-early-singapore
 work_id: jmbras-46-2-p55
 title: The grand jury in early Singapore
 canonical_name: The grand jury in early Singapore
-type: article
-article_type: article
+type: publication
 authors:
 - Y.K. Lee
 year: 1973
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-224-lee-grandjuryearly-1973-158ebfe1707a
 source_path: ../sources/jmbras-224-lee-grandjuryearly-1973-158ebfe1707a/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The grand jury in early Singapore
 
 Y.K. Lee's 1973 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* traces the fifty-five-year life of the Grand Jury in Singapore (1828–1873), arguing that this legally circumscribed judicial body acquired extra-judicial powers of public criticism and administrative oversight through a confluence of English legal tradition, the absence of professional judges, and the lack of any other representative institution in the early colonial settlement.

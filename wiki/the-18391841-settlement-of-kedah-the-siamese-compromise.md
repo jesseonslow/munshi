@@ -3,8 +3,7 @@ id: the-18391841-settlement-of-kedah-the-siamese-compromise
 work_id: jmbras-59-1-p33
 title: 'The 1839–1841 settlement of Kedah: the Siamese compromise'
 canonical_name: 'The 1839–1841 settlement of Kedah: the Siamese compromise'
-type: article
-article_type: article
+type: publication
 authors:
 - Kobkua Suwannathat-Pian
 year: 1986
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-250-suwannathatpian-183941settlementskedah-1986-eb4a9e78526d
 source_path: ../sources/jmbras-250-suwannathatpian-183941settlementskedah-1986-eb4a9e78526d.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The 1839–1841 settlement of Kedah: the Siamese compromise
 
 Kobkua Suwannathat-Pian's 1986 article examines the 1839–1841 political settlement of Kedah, arguing that the reinstatement of the Siamese tributary system in that state was a deliberate, far-sighted compromise initiated by King Rama III rather than a concession extracted by British pressure. Drawing extensively on Thai official correspondence and court memoirs, the study repositions the episode as a masterclass in Siamese diplomatic pragmatism, demonstrating how Bangkok abandoned a failed policy of direct provincial rule after seventeen years of persistent Malay resistance.

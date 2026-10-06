@@ -3,8 +3,7 @@ id: a-malay-legal-miscellany
 work_id: jmbras-25-1-p1
 title: A Malay legal miscellany
 canonical_name: A Malay legal miscellany
-type: article
-article_type: article
+type: publication
 authors:
 - J.E. Kempe
 - R.O. Winstedt
@@ -23,7 +22,9 @@ summarized: true
 source_mismatch: true
 source_doc: jmalayanras-158-kempe-malaylegalmiscellany-1952-b75975178807
 source_path: ../sources/jmalayanras-158-kempe-malaylegalmiscellany-1952-b75975178807.md
+publication_type: journal_article
 ---
+
 # A Malay legal miscellany
 
 J.E. Kempe and R.O. Winstedt published this article in 1952, presenting a detailed description of the legal sections contained in Raffles Malay MS 33, a manuscript held in the Royal Asiatic Society library in London. The article establishes that this manuscript is a critical textual witness for the reconstruction of the Malacca legal digest, offering variant readings that correct both van Ronkel's 1919 edition and the Pahang digest published in 1948, while also preserving unique legal material on adultery, divorce, property division, trials by ordeal, and Selangor slave law.

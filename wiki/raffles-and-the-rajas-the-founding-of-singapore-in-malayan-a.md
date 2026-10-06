@@ -5,8 +5,7 @@ title: 'Raffles and the Rajas: the founding of Singapore in Malayan and British 
   history'
 canonical_name: 'Raffles and the Rajas: the founding of Singapore in Malayan and British
   colonial history'
-type: article
-article_type: article
+type: publication
 authors:
 - C.H. Wake
 year: 1975
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-227-wake-rafflesrajasfounding-1975-c2a8e8e71f2c
 source_path: ../sources/jmbras-227-wake-rafflesrajasfounding-1975-c2a8e8e71f2c.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Raffles and the Rajas: the founding of Singapore in Malayan and British colonial history
 
 C.H. Wake's 1975 article in the *Journal of the Malayan Branch of the Royal Asiatic Society* re-examines the founding of Singapore (1819–1824) by situating it within the internal succession politics of the Johor sultanate and demonstrating that the early British presence constituted a genuine condominium with Malay authorities rather than a mere legal technicality. Wake argues that the "Raffles legend" has obscured both the motives of the Malay rajas—who acted to resolve longstanding dynastic conflicts—and the substantive character of shared governance during the Settlement's formative years.

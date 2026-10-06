@@ -4,8 +4,7 @@ work_id: jmbras-63-2-p35
 title: Education in Sarawak during the period of colonial administration 1846–1961
 canonical_name: Education in Sarawak during the period of colonial administration
   1846–1961
-type: article
-article_type: article
+type: publication
 authors:
 - Ooi Keat Gin
 year: 1990
@@ -22,7 +21,9 @@ published: false
 source_doc: jmbras-259-gin-educationsarawakperiod-1990-95dafe839255
 source_path: ../sources/jmbras-259-gin-educationsarawakperiod-1990-95dafe839255/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Education in Sarawak during the period of colonial administration 1846–1961
 
 Ooi Keat Gin's 1990 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* examines the education policies and programmes of the British Colonial Government in Sarawak from the Cession of 1946 to the formation of Malaysia in 1963. The central argument is that the Colonial Government pursued two interlocking objectives—narrowing the vast educational disparity between the native peoples and the Chinese, and creating a unified national education system to foster common citizenship and loyalty to Sarawak—and that while significant progress was made, the goals of educational parity and full integration remained unachieved by the end of the colonial period.

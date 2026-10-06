@@ -5,8 +5,7 @@ title: 'New lamps for old: modern nautical terms for ancient marine practices an
   the navigation of the Zheng He voyages'
 canonical_name: 'New lamps for old: modern nautical terms for ancient marine practices
   and the navigation of the Zheng He voyages'
-type: article
-article_type: article
+type: publication
 authors:
 - P.J. Rivers
 year: 2012
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-302-rivers-newlampsold-2012-8bfd73438795
 source_path: ../sources/jmbras-302-rivers-newlampsold-2012-8bfd73438795/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # New lamps for old: modern nautical terms for ancient marine practices and the navigation of the Zheng He voyages
 
 P.J. Rivers, a retired naval officer and maritime historian, published this article in 2012 in the *Journal of the Malaysian Branch of the Royal Asiatic Society* to correct widespread anachronisms in the nautical vocabulary used to describe early fifteenth-century navigation, particularly in accounts of Zheng He's voyages. His central thesis is that the application of modern terms such as "fixing a position," "latitude," and "compass-bearing" to ancient practices has created a false impression of advanced navigational capability that did not exist in the 1420s.

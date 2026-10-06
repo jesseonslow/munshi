@@ -3,8 +3,7 @@ id: the-ruins-of-boro-budur-in-java
 work_id: jsbras-6-1-p203
 title: The ruins of Boro Budur in Java
 canonical_name: The ruins of Boro Budur in Java
-type: article
-article_type: article
+type: publication
 authors:
 - C. Hose
 year: 1880
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-006-hose-ruinsborobudur-1880-abf6391a850a
 source_path: ../sources/jsbras-006-hose-ruinsborobudur-1880-abf6391a850a.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The ruins of Boro Budur in Java
 
 G. F. Hose, writing in 1880 for the Journal of the Straits Branch of the Royal Asiatic Society, presented a learned account of Borobudur's discovery, documentation, and religious character, arguing definitively that the monument is a Buddhist rather than Hindu or Jain structure. The article was delivered as an introduction to a gift of 393 lithographic plates made by the Netherlands-India Government to the Society.

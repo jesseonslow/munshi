@@ -3,8 +3,7 @@ id: the-raja-of-the-bamboo-nq-4
 work_id: jsbras-17-the-raja-of-the-bamboo-nq-4
 title: The Raja of the bamboo. NQ 4
 canonical_name: The Raja of the bamboo. NQ 4
-type: article
-article_type: notes_and_queries
+type: publication
 authors:
 - W.E. Maxwell
 year: 1886
@@ -22,7 +21,9 @@ source_doc: jsbras-017-maxwell-sriramamalay-1886-3155502a26ab
 source_path: ../sources/jsbras-017-maxwell-sriramamalay-1886-3155502a26ab.md
 source_mismatch: false
 summarized: true
+publication_type: note
 ---
+
 # The Raja of the bamboo. NQ 4
 
 W.E. Maxwell, serving as Assistant Resident in Perak, published in 1886 a verbatim transcription of an oral Malay romance called *Sri Rama*, as performed by the village storyteller Mir Hassan of Kampar. The work documents the *penglipur lara* tradition of professional Malay narrative recitation and demonstrates the profound, if heavily localized, influence of the Sanskrit *Rāmāyaṇa* on Malay oral literature in the late nineteenth century.

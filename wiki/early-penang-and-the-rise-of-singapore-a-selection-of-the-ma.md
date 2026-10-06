@@ -7,8 +7,7 @@ title: 'Early Penang and the rise of Singapore: a selection of the manuscript re
 canonical_name: 'Early Penang and the rise of Singapore: a selection of the manuscript
   records of the East India Company over the period 1805–32, chosen & edited, with
   an introduction by C.D. Cowan'
-type: article
-article_type: article
+type: publication
 authors:
 - C.D. Cowan
 year: 1950
@@ -26,7 +25,9 @@ summarized: true
 source_mismatch: true
 source_doc: jmalayanras-152-cowan-earlypenang-1950-682c1a1db153
 source_path: ../sources/index.md
+publication_type: document
 ---
+
 # Early Penang and the rise of Singapore: a selection of the manuscript records of the East India Company over the period 1805–32, chosen & edited, with an introduction by C.D. Cowan
 
 C.D. Cowan's 1950 edition of East India Company manuscript records covering 1805–1832 traces the transformation of Penang from a strategically motivated naval base into a commercially marginalised entrepôt overshadowed by the rapid rise of Singapore, ultimately culminating in the reduction of the Straits Settlements from Presidency to Residency status. The volume combines a substantial historiographical introduction with 158 primary-source extracts—dispatches, council minutes, treaties, and trade returns—drawn from the Penang government archives.

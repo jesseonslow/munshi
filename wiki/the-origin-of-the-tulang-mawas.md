@@ -3,8 +3,7 @@ id: the-origin-of-the-tulang-mawas
 work_id: jmbras-47-1-p110
 title: The origin of the “tulang mawas”
 canonical_name: The origin of the “tulang mawas”
-type: article
-article_type: article
+type: publication
 authors:
 - H.G.Q. Wales
 year: 1974
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-225-wales-origintulangmawas-1974-a47d10f7413d
 source_path: ../sources/jmbras-225-wales-origintulangmawas-1974-a47d10f7413d.md
 summarized: true
+publication_type: note
 ---
+
 # The origin of the “tulang mawas”
 
 This note by H. G. Quaritch Wales, prompted by a recent find in the Raub district, argues for an Indochinese origin of the *tulang mawas*, a strangely shaped tool or weapon found in Malaya (p. 110).

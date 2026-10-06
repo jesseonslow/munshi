@@ -5,8 +5,7 @@ title: The effect of the opening of the Suez Canal on the trade and development 
   Singapore
 canonical_name: The effect of the opening of the Suez Canal on the trade and development
   of Singapore
-type: article
-article_type: article
+type: publication
 authors:
 - G. Bogaars
 year: 1955
@@ -23,7 +22,9 @@ published: false
 source_doc: jmalayanras-169-bogaars-effectopeningsuez-1955-aa881e8d0b51
 source_path: ../sources/jmalayanras-169-bogaars-effectopeningsuez-1955-aa881e8d0b51/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The effect of the opening of the Suez Canal on the trade and development of Singapore
 
 George Bogaars, writing in 1955, examines how the opening of the Suez Canal in 1869 transformed Singapore from a stagnant entrepot port into a rapidly expanding commercial hub, arguing that the Canal's principal effect was to precipitate the replacement of sail by steam in eastern waters, thereby accelerating trade growth, reshaping the port's physical infrastructure, and ultimately redirecting the settlement's commercial focus from the wider archipelago toward the Malay Peninsula.

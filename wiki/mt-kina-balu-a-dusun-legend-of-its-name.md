@@ -3,8 +3,7 @@ id: mt-kina-balu-a-dusun-legend-of-its-name
 work_id: jmbras-6-4-p63
 title: Mt. Kina Balu, a Dusun legend of its name
 canonical_name: Mt. Kina Balu, a Dusun legend of its name
-type: article
-article_type: article
+type: publication
 authors:
 - C.F. Skinner
 year: 1928
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-105-skinner-mtkinabalu-1928-46564904f218
 source_path: ../sources/jmalayanras-105-skinner-mtkinabalu-1928-46564904f218.md
 summarized: true
+publication_type: note
 ---
+
 # Mt. Kina Balu, a Dusun legend of its name
 
 C.F. Skinner presents a Dusun legend, originally told by Mentri Babu, Paramount Chief of Putatan, concerning the etymology of "Kinabalu" and the supposed origin of the Dusun race (p. 63).

@@ -4,8 +4,7 @@ work_id: jsbras-75-1-p43
 title: Notes on Dipterocarps. {No. 1} The seedling of Anisoptera cosgata, Korth
 canonical_name: Notes on Dipterocarps. {No. 1} The seedling of _Anisoptera cosgata,_
   Korth
-type: article
-article_type: article
+type: publication
 authors:
 - I.H. Burkill
 year: 1917
@@ -22,7 +21,9 @@ published: false
 source_doc: jsbras-075-burkill-notesdipterocarps1-1917-7e48bc71db65
 source_path: ../sources/jsbras-075-burkill-notesdipterocarps1-1917-7e48bc71db65.md
 summarized: true
+publication_type: note
 ---
+
 # Notes on Dipterocarps. {No. 1} The seedling of Anisoptera cosgata, Korth
 
 This note by I. H. Burkill describes the germination and early seedling development of *Anisoptera costata*, Korthals, based on observations of two wild specimens in the Botanic Gardens, Singapore, that flowered in April 1916.

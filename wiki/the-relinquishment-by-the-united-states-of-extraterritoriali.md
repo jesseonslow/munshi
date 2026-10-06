@@ -4,8 +4,7 @@ work_id: jmbras-37-1-p99
 title: The relinquishment by the United States of extraterritoriality in Siam
 canonical_name: The relinquishment by the United States of extraterritoriality in
   Siam
-type: article
-article_type: article
+type: publication
 authors:
 - V. Purcell
 year: 1964
@@ -19,6 +18,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: journal_article
 ---
 
 # The relinquishment by the United States of extraterritoriality in Siam

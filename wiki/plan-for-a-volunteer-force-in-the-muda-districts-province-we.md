@@ -5,8 +5,7 @@ title: Plan for a volunteer force in the Muda districts, Province Wellesley, sub
   to government by the late J.R. Logan in 1867
 canonical_name: Plan for a volunteer force in the Muda districts, Province Wellesley,
   submitted to government by the late J.R. Logan in 1867
-type: article
-article_type: article
+type: publication
 authors:
 - J.R. Logan
 year: 1885
@@ -24,7 +23,9 @@ summarized: true
 source_mismatch: true
 source_doc: jsbras-016-logan-planvolunteerpolice-1885-b64907bbb81a
 source_path: ../sources/jsbras-016-logan-planvolunteerpolice-1885-b64907bbb81a.md
+publication_type: document
 ---
+
 # Plan for a volunteer force in the Muda districts, Province Wellesley, submitted to government by the late J.R. Logan in 1867
 
 J.R. Logan, a long-resident lawyer and ethnographer in Province Wellesley, submitted this memorandum to the Lieutenant-Governor in August 1867, proposing a village-based volunteer police system for the Muda and Kreh districts to counter gang robbery, Chinese secret society violence, and the chronic inability of the regular police to protect scattered rural populations. Published posthumously in the *Journal of the Straits Branch of the Royal Asiatic Society* in 1885, the document also includes the approving response of Lieutenant-Governor A.E.H. Anson and a later endorsement by Colonel H. Man, former Resident Councillor of Penang.

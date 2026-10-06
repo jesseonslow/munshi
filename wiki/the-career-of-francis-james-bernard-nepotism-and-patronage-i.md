@@ -4,8 +4,7 @@ work_id: jmbras-89-2-p25
 title: 'The career of Francis James Bernard: nepotism and patronage in early Singapore'
 canonical_name: 'The career of Francis James Bernard: nepotism and patronage in early
   Singapore'
-type: article
-article_type: article
+type: publication
 authors:
 - N.H. Wright
 year: 2016
@@ -28,7 +27,9 @@ keywords:
 - William Farquhar
 - Stamford Raffles
 - Singapore Chronicle*
+publication_type: journal_article
 ---
+
 # The career of Francis James Bernard: nepotism and patronage in early Singapore
 
 ## Abstract

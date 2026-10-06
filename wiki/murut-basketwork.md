@@ -3,8 +3,7 @@ id: murut-basketwork
 work_id: jmbras-10-1-p23
 title: Murut basketwork
 canonical_name: Murut basketwork
-type: article
-article_type: article
+type: publication
 authors:
 - G.C. Woolley
 year: 1932
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-113-woolley-imurutbasketwork-1932-556adbe9931b
 source_path: ../sources/jmalayanras-113-woolley-imurutbasketwork-1932-556adbe9931b.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Murut basketwork
 
 G.C. Woolley's 1932 article "Murut Basketwork" is a descriptive ethnographic survey of Murut woven articles in everyday use across the Borneo highlands, published in the *Journal of the Malayan Branch of the Royal Asiatic Society* (Vol. 10, No. 1). Building on a preliminary 1929 article in the same journal that had illustrated typical patterns, Woolley here documents actual functional objects—sitting mats, carrying baskets, tobacco pouches, and hats—photographed in situ, with emphasis on regional variation in form, material, and pattern nomenclature across the Pensiangan, Keningau, Tenom, Upper Padas, and Bokan districts.

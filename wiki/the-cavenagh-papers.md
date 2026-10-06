@@ -3,8 +3,7 @@ id: the-cavenagh-papers
 work_id: jmbras-75-2-p51
 title: The Cavenagh papers
 canonical_name: The Cavenagh papers
-type: article
-article_type: article
+type: publication
 authors:
 - J.M. Gullick
 year: 2002
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-283-gullick-cavenaghpapers-2002-16ef42e8d56a
 source_path: ../sources/jmbras-283-gullick-cavenaghpapers-2002-16ef42e8d56a/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The Cavenagh papers
 
 J.M. Gullick's 2002 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* introduces and assesses the Cavenagh papers—eleven volumes of letterbooks and four volumes of private diary kept by Sir William Orfeur Cavenagh during his governorship of the Straits Settlements (1859–1867)—arguing that while not of outstanding historical value, they offer a vivid and sympathetic portrait of a capable administrator navigating the fraught transition from Indian dependency to crown colony.

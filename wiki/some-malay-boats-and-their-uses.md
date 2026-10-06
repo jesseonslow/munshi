@@ -3,8 +3,7 @@ id: some-malay-boats-and-their-uses
 work_id: jmbras-4-2-p192
 title: Some Malay boats and their uses
 canonical_name: Some Malay boats and their uses
-type: article
-article_type: article
+type: publication
 authors:
 - H.G. Dalton
 year: 1926
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-097-dalton-malayboatsuses-1926-3e928536f55f
 source_path: ../sources/jmalayanras-097-dalton-malayboatsuses-1926-3e928536f55f.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Some Malay boats and their uses
 
 H.G. Dalton, a colonial-era administrator, published this descriptive ethnographic study in 1926, cataloguing the types of Malay fishing and cargo boats used along the East Coast of the Malay Peninsula and detailing their construction, rigging, and the specific fishing techniques associated with each vessel. The article serves as a practical field guide to the maritime technology and subsistence economy of the region's coastal communities.

@@ -5,8 +5,7 @@ title: Description of new genera and species of Hymenoptera taken by Mr. Robert 
   at Sarawak, Borneo
 canonical_name: Description of new genera and species of Hymenoptera taken by Mr.
   Robert Shelford at Sarawak, Borneo
-type: article
-article_type: article
+type: publication
 authors:
 - P. Cameron
 year: 1903
@@ -23,7 +22,9 @@ published: false
 source_doc: jsbras-039-cameron-descriptionsnewgenera-1903-55ea6920c3b7
 source_path: ../sources/jsbras-039-cameron-descriptionsnewgenera-1903-55ea6920c3b7.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Description of new genera and species of Hymenoptera taken by Mr. Robert Shelford at Sarawak, Borneo
 
 P. Cameron published this extensive taxonomic monograph in 1903 in the *Journal of the Straits Branch of the Royal Asiatic Society*, describing new genera and species of Hymenoptera from specimens collected by Robert Shelford at Sarawak, Borneo. The paper, spanning over a hundred pages, represents a continuation of Cameron's earlier 1902 contribution (Vol. 37) and constitutes one of the most comprehensive single-author treatments of Bornean Hymenoptera produced during the colonial period.

@@ -3,8 +3,7 @@ id: folk-lore-and-the-menangkabau-code-in-the-negri-sembilan
 work_id: jsbras-31-1-p43
 title: Folk-lore and the Menangkabau code in the Negri Sembilan
 canonical_name: Folk-lore and the Menangkabau code in the Negri Sembilan
-type: article
-article_type: article
+type: publication
 authors:
 - Hale A
 year: 1898
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-031-hale-folkloremenangkabaucode-1898-ca6b7667893f
 source_path: ../sources/jsbras-031-hale-folkloremenangkabaucode-1898-ca6b7667893f.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Folk-lore and the Menangkabau code in the Negri Sembilan
 
 A. Hale, a British District Officer stationed at Tampin in the Negri Sembilan, published this article in 1898 to trace the origins of the state's customary legal code (Adat Perpatih) through its surviving folk-lore and proverbs. His central argument is that the matrilineal, matrilocal institutions of the Negri Sembilan are not arbitrary survivals but encode a historical process in which Sakai aborigines ceded land to Malay colonists of the Waris (Bidwanda) tribe, producing a legal order in which women hold ancestral property and the husband is effectively a lodger in his wife's household.

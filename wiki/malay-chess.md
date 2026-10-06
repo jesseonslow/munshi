@@ -3,8 +3,7 @@ id: malay-chess
 work_id: jsbras-49-1-p87
 title: Malay chess
 canonical_name: Malay chess
-type: article
-article_type: article
+type: publication
 authors:
 - T.B. Elcum
 year: 1907
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-049-elcum-malaychess-1907-2f0252a0d515
 source_path: ../sources/jsbras-049-elcum-malaychess-1907-2f0252a0d515.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Malay chess
 
 T. B. Elcum, a British colonial administrator in the Straits Settlements, published this ethnographic study of Malay chess in 1907 in the *Journal of the Straits Branch of the Royal Asiatic Society*. Writing from direct observation of village games in the Malay Peninsula, Elcum documents the rules, apparatus, and social context of the game, arguing that its distinctive features represent a mixture of survivals from early European chess and innovations peculiar to the Malay tradition.

@@ -3,8 +3,7 @@ id: spolia-mentawiensia-fulgoroidea-hornoptera-introd-cb-kloss
 work_id: jmbras-4-3-p392
 title: Spolia mentawiensia. Fulgoroidea. Hornoptera. Introd. C.B. Kloss
 canonical_name: Spolia mentawiensia. Fulgoroidea. Hornoptera. Introd. C.B. Kloss
-type: article
-article_type: article
+type: publication
 authors:
 - F. Muir
 year: 1926
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-098-muir-spoliamentawiensiafulgoroidea-1926-4dcc80f06e9c
 source_path: ../sources/jmalayanras-098-muir-spoliamentawiensiafulgoroidea-1926-4dcc80f06e9c.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Spolia mentawiensia. Fulgoroidea. Hornoptera. Introd. C.B. Kloss
 
 F. Muir, working from the Hawaiian Sugar Planters' Experimental Station in Honolulu, published this taxonomic account of Fulgoroidea (planthoppers) from the Mentawi Islands in 1926, based on material collected during a September–November 1924 expedition led by C. Boden Kloss and H. H. Karny. The paper describes 26 new species from the poorly known island group west of Sumatra, demonstrating a high degree of endemism consistent with the islands' deep-water isolation from the Sunda shelf.

@@ -5,8 +5,7 @@ title: 'Early land transactions in Singapore: the real estates of William Farquh
   (1774―1839) and John Crawfurd and their families'
 canonical_name: 'Early land transactions in Singapore: the real estates of William
   Farquhar (1774―1839) and John Crawfurd and their families'
-type: article
-article_type: article
+type: publication
 authors:
 - Leong Foke Meng
 year: 2004
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-286-meng-earlylandtransactions-2004-0cf4677cd138
 source_path: ../sources/jmbras-286-meng-earlylandtransactions-2004-0cf4677cd138/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Early land transactions in Singapore: the real estates of William Farquhar (1774―1839) and John Crawfurd and their families
 
 Leong Foke Meng's 2004 article traces the land holdings and transactions of Singapore's first two Residents—William Farquhar (1774–1839) and John Crawfurd (1783–1868)—and their families, from the founding of the settlement in 1819 through the early twentieth century. Drawing primarily on Singapore Land Registry title deeds, lease records, and contemporary directories, Meng reconstructs how these officials and their descendants accumulated, managed, and disposed of property in a colony where land tenure was still being formalized. The article argues that while Farquhar was a cautious civil servant who ultimately lost his investments to financial crisis, Crawfurd was a far more astute land speculator whose holdings were preserved for his descendants through a carefully structured trust that endured until compulsory acquisition in 1982.

@@ -5,8 +5,7 @@ title: Papers on the Malayan metal age. J. Loewenstein and G. de G. Sieveking. M
   on Malay subjects, No. 3
 canonical_name: Papers on the Malayan metal age. J. Loewenstein and G. de G. Sieveking.
   Monographs on Malay subjects, No. 3
-type: article
-article_type: monograph
+type: publication
 authors:
 - J. Loewenstein
 - G. de G. Sieveking
@@ -24,7 +23,9 @@ published: false
 source_doc: jsbras-077-winstedt-riceceremony-1917-dd574c88c916
 source_path: ../sources/jsbras-077-winstedt-riceceremony-1917-dd574c88c916.md
 summarized: true
+publication_type: monograph
 ---
+
 # Papers on the Malayan metal age. J. Loewenstein and G. de G. Sieveking. Monographs on Malay subjects, No. 3
 
 "A Rice-Ceremony" is a brief note by R. O. Winstedt describing a rice-planting mock combat observed at Johol, published in the Journal of the Straits Branch of the Royal Asiatic Society, No. 77 (1917).

@@ -3,8 +3,7 @@ id: the-history-of-the-translation-of-the-bible-into-bahasa-mala
 work_id: jmbras-62-1-p35
 title: The history of the translation of the Bible into Bahasa Malaysia
 canonical_name: The history of the translation of the Bible into Bahasa Malaysia
-type: article
-article_type: article
+type: publication
 authors:
 - R. Hunt
 year: 1989
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-256-hunt-historytranslationbible-1989-f64d02344d73
 source_path: ../sources/jmbras-256-hunt-historytranslationbible-1989-f64d02344d73/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The history of the translation of the Bible into Bahasa Malaysia
 
 Robert A. Hunt's 1989 article traces the nearly four-century history of Bible translation into Malay, from the first Dutch East India Company-sponsored gospels of the 1630s to the dynamic equivalence "Today's Malay Version" of the 1970s. The central argument is that linguistic, institutional, and political forces—rather than any single mission strategy—shaped each successive translation, with recurring dilemmas over idiom, dialect, spelling, and the relationship between Christian and Islamic vocabulary.

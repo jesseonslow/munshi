@@ -3,8 +3,7 @@ id: langkasuka-and-tambralinga-some-archaeological-notes
 work_id: jmbras-47-1-p13
 title: 'Langkasuka and Tambralinga: some archaeological notes'
 canonical_name: 'Langkasuka and Tambralinga: some archaeological notes'
-type: article
-article_type: article
+type: publication
 authors:
 - H.G.Q. Wales
 year: 1974
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-225-wales-langkasukatambralingaarchaeological-1974-39c5c9df73ae
 source_path: ../sources/jmbras-225-wales-langkasukatambralingaarchaeological-1974-39c5c9df73ae.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Langkasuka and Tambralinga: some archaeological notes
 
 H.G. Quaritch Wales published this article in 1974, reporting on trial excavations and artifact examinations at three key sites in southern Peninsular Siam—Yarang, Satingphra, and Nakhon Si Thammarat—conducted during a short stay in 1973. His overarching thesis is that the ancient city of Langkasuka at Yarang was a Dvaravati-parallel civilization of the late sixth to early ninth century rather than a Srivijayan foundation, and that the subsequent urban history of the region involved a sequence of replacements: Langkasuka giving way to Satingphra as a Srivijayan seaport in the eleventh to thirteenth centuries, which in turn was superseded by Nakhon Si Thammarat as the capital of independent Tambralinga from approximately 1230.

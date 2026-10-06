@@ -5,8 +5,7 @@ title: 'Clementi and the Colonial Office: Tensions over Decentralisation Policy 
   the Malay States, 1930–34'
 canonical_name: 'Clementi and the Colonial Office: Tensions over Decentralisation
   Policy in the Malay States, 1930–34'
-type: article
-article_type: article
+type: publication
 authors:
 - Brian T. Unwin
 year: 2025
@@ -30,7 +29,9 @@ keywords:
 source_doc: urwin-clementi-and-the-colonial-office-f051120d7fd0
 source_path: ../sources/urwin-clementi-and-the-colonial-office-f051120d7fd0/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Clementi and the Colonial Office: Tensions over Decentralisation Policy in the Malay States, 1930–34
 
 ## Abstract

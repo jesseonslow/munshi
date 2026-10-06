@@ -3,8 +3,7 @@ id: a-murut-fairy-tale
 work_id: jmbras-20-1-p145
 title: A Murut fairy tale
 canonical_name: A Murut fairy tale
-type: article
-article_type: article
+type: publication
 authors:
 - G.C. Woolley
 year: 1947
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-142-woolley-murutfairytale-1947-9d835c7409f1
 source_path: ../sources/jmalayanras-142-woolley-murutfairytale-1947-9d835c7409f1.md
 summarized: true
+publication_type: note
 ---
+
 # A Murut fairy tale
 
 G.C. Woolley published "A Murut Fairy Tale" in 1947 in the *Journal of the Malayan Branch of the Royal Asiatic Society*, presenting a narrative collected from Angkas bin Dabus, a Tambunan Dusun who had heard it in Keningau. The tale, known as "The Story of Baiagong and the Red-Stalked Coconut," is a classic animal-helper story set in the Keningau district of British North Borneo, and Woolley frames it as possessing sufficient local colour to warrant publication despite its structural parallels with folklore of other races (p. 145).

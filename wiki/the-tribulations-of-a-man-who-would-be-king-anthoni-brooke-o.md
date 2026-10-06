@@ -4,8 +4,7 @@ work_id: jmbras-97-1-p53
 title: 'The Tribulations of a Man Who Would Be King: Anthoni Brooke of Sarawak (1912–2011'
 canonical_name: 'The Tribulations of a Man Who Would Be King: Anthoni Brooke of Sarawak
   (1912–2011)'
-type: article
-article_type: article
+type: publication
 authors:
 - Ooi Keat Gin
 year: 2024
@@ -19,6 +18,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: journal_article
 ---
 
 # The Tribulations of a Man Who Would Be King: Anthoni Brooke of Sarawak (1912–2011

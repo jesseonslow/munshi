@@ -3,8 +3,7 @@ id: the-origin-of-the-wayang-theatre-shadow-play
 work_id: jmbras-20-1-p12
 title: The origin of the wayang theatre (shadow play
 canonical_name: The origin of the _wayang_ theatre (shadow play)
-type: article
-article_type: article
+type: publication
 authors:
 - A. Rentse
 year: 1947
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-142-rentse-originwayangtheatre-1947-88db39e9c046
 source_path: ../sources/jmalayanras-142-rentse-originwayangtheatre-1947-88db39e9c046.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The origin of the wayang theatre (shadow play
 
 Anker Rentse's 1947 article in the *Journal of the Malayan Branch of the Royal Asiatic Society* challenges Dr. H. Meinhard's 1939 thesis (published in *Man*) that the Javanese wayang shadow play was introduced to Java from India. Rentse argues that the shadow play's core figures—particularly Semar in Java and Pak Dogah in Kelantan—preserve indigenous Indonesian animistic beliefs that predate Hindu influence, and that the South Indian *Chayanataka* tradition may itself be a derivative or parallel development rather than the source.

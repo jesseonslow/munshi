@@ -3,8 +3,7 @@ id: gua-tempurong
 work_id: jmbras-68-1-p29
 title: Gua Tempurong
 canonical_name: Gua Tempurong
-type: article
-article_type: article
+type: place
 authors:
 - D. Gebauer
 - L. Price
@@ -23,6 +22,7 @@ source_doc: jmbras-268-gebauer-guatempurung-1995-9d24e769d42f
 source_path: ../sources/jmbras-268-gebauer-guatempurung-1995-9d24e769d42f/frontmatter.md
 summarized: true
 ---
+
 # Gua Tempurong
 
 Gebauer and Price (1995) present a comprehensive speleological and geomorphological study of Gua Tempurung, a 3.4 km tunnel cave in the fengcong-type karst of the Kinta Valley, Perak, based on a February 1993 survey. The article situates the cave within the broader tectonic and climatic history of West Malaysian karst, arguing that its 150-metre vertical column of chemo- and physioclastic deposits constitutes a unique sedimentary archive of eustatic sea-level fluctuations intertwined with orogenetic phases of the peninsula.

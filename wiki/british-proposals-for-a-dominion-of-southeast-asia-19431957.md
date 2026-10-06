@@ -3,8 +3,7 @@ id: british-proposals-for-a-dominion-of-southeast-asia-19431957
 work_id: jmbras-71-1-p27
 title: British proposals for a dominion of Southeast Asia, 1943–1957
 canonical_name: British proposals for a dominion of Southeast Asia, 1943–1957
-type: article
-article_type: article
+type: publication
 authors:
 - D.S. Ranjit Singh
 year: 1998
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-274-singh-britishproposalsdominion-1998-8d078a787c8f
 source_path: ../sources/jmbras-274-singh-britishproposalsdominion-1998-8d078a787c8f.md
 summarized: true
+publication_type: journal_article
 ---
+
 # British proposals for a dominion of Southeast Asia, 1943–1957
 
 D.S. Ranjit Singh (1998) examines British wartime and post-war planning to create a political union of their Southeast Asian territories—Malaya, Singapore, North Borneo, Sarawak, and Brunei—conceived as a self-governing "dominion" within the Commonwealth. Drawing extensively on Colonial Office correspondence and the dispatches of Commissioner-General Malcolm MacDonald, the article traces how the scheme was repeatedly proposed, reconfigured, and ultimately abandoned between 1943 and 1957, undone by local opposition, inter-territorial rivalries, and the accelerating political dynamics of Malayan decolonization.

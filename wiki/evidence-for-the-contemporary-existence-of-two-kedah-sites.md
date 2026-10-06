@@ -3,8 +3,7 @@ id: evidence-for-the-contemporary-existence-of-two-kedah-sites
 work_id: jmbras-48-1-p74
 title: Evidence for the contemporary existence of two Kedah sites
 canonical_name: Evidence for the contemporary existence of two Kedah sites
-type: article
-article_type: article
+type: publication
 authors:
 - G.J. Fabris
 - F.E. Treloar
@@ -22,7 +21,9 @@ published: false
 source_doc: jmbras-227-treloar-evidencecontemporaryexistence-1975-3a85c62fed32
 source_path: ../sources/jmbras-227-treloar-evidencecontemporaryexistence-1975-3a85c62fed32.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Evidence for the contemporary existence of two Kedah sites
 
 Treloar and Fabris (1975) present a metallurgical and comparative argument that two Kedah temple sites excavated by H. G. Quaritch Wales—Site 8 (Candi Bukit Batu Pahat) and Site 10—were contemporary, belonging to the 12th–13th century AD rather than the 7th–9th century dates Wales originally assigned. Using x-ray fluorescence analysis of inscribed gold discs from both sites, they demonstrate the objects derive from a common workshop stock, and they conclude that the two shrines served a single mixed Hindu-Buddhist trading community at nearby Pengkalan Bujang.

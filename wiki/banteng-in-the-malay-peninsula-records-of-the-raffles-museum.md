@@ -4,8 +4,7 @@ work_id: jmbras-3-1-p88
 title: Banteng in the Malay Peninsula. Records of the Raffles Museum, No. 8
 canonical_name: _Banteng_ in the Malay Peninsula. Records of the Raffles Museum, No.
   8
-type: article
-article_type: article
+type: publication
 authors:
 - N. Trewheler
 year: 1925
@@ -22,7 +21,9 @@ published: false
 source_doc: jmalayanras-093-trewheler-bantengmalaypeninsula-1925-749ecaa09068
 source_path: ../sources/jmalayanras-093-trewheler-bantengmalaypeninsula-1925-749ecaa09068.md
 summarized: true
+publication_type: note
 ---
+
 # Banteng in the Malay Peninsula. Records of the Raffles Museum, No. 8
 
 This short field note by N. Trewhele, published as Record No. 8 of the Raffles Museum, documents the distribution and physical characteristics of Banteng (*Bos banteng*) in the Malay Peninsula based on personal observation and native reports.

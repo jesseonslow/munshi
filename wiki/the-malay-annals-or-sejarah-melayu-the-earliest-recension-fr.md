@@ -7,8 +7,7 @@ title: The Malay annals; or, Sejarah Melayu. The earliest recension from MS. No.
 canonical_name: The Malay annals; or, _Sejarah Melayu._ The earliest recension from
   MS. No. 18 of the Raffles Collection in the Library of the Royal Asiatic Society,
   London. .O. Winstedt
-type: article
-article_type: article
+type: publication
 authors:
 - Sejarah Melayu
 - R.O. Winstedt
@@ -31,6 +30,7 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+publication_type: translation
 ---
 
 # The Malay annals; or, Sejarah Melayu. The earliest recension from MS. No. 18 of the Raffles Collection in the Library of the Royal Asiatic Society, London. .O. Winstedt

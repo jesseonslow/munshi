@@ -3,8 +3,7 @@ id: on-the-so-called-tigers-milk-susu-rimau-of-the-malays
 work_id: jsbras-22-1-p341
 title: On the so-called tiger’s milk “susu rimau” of the Malays
 canonical_name: On the so-called tiger’s milk _“susu rimau”_ of the Malays
-type: article
-article_type: article
+type: publication
 authors:
 - H.N. Ridley
 year: 1890
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-022-ridley-socalledtigersmilk-1890-80e9929f2b1e
 source_path: ../sources/jsbras-022-ridley-socalledtigersmilk-1890-80e9929f2b1e.md
 summarized: true
+publication_type: note
 ---
+
 # On the so-called tiger’s milk “susu rimau” of the Malays
 
 This short note by H. N. Ridley describes the Malay "Susu Rimau" (tiger's milk), a fungal body traditionally believed to be congealed tiger milk, and compares it with related sclerotial fungi from other parts of the world.

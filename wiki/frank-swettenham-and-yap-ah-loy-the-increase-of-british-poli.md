@@ -5,8 +5,7 @@ title: 'Frank Swettenham and Yap Ah Loy: the increase of British political influ
   in Kuala Lumpur'
 canonical_name: 'Frank Swettenham and Yap Ah Loy: the increase of British political
   influence in Kuala Lumpur'
-type: article
-article_type: article
+type: publication
 authors:
 - E. Chew
 year: 1984
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-246-chew-frankswettenhamyap-1984-ee29d691ba90
 source_path: ../sources/jmbras-246-chew-frankswettenhamyap-1984-ee29d691ba90.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Frank Swettenham and Yap Ah Loy: the increase of British political influence in Kuala Lumpur
 
 Ernest Chew's 1984 article examines the political relationship between British Resident Frank Swettenham and Capitan China Yap Ah Loy in Kuala Lumpur during the critical period of 1871–1885, when British "influence" in Selangor expanded from coastal gunboat diplomacy to effective control of the interior. Chew argues that this relationship, though it began on terms of personal cordiality, contained a political conflict that Swettenham himself never acknowledged in his published writings, and that the Residential system's displacement of indigenous and immigrant authorities undermines Swettenham's later claim to have originated the principle of "Indirect Rule."

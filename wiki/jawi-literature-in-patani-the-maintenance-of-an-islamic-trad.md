@@ -3,8 +3,7 @@ id: jawi-literature-in-patani-the-maintenance-of-an-islamic-trad
 work_id: jmbras-61-1-p1
 title: 'Jawi literature in Patani: the maintenance of an Islamic tradition'
 canonical_name: 'Jawi literature in Patani: the maintenance of an Islamic tradition'
-type: article
-article_type: article
+type: publication
 authors:
 - M.B. Hooker
 - V. Matheson
@@ -23,7 +22,9 @@ summarized: true
 source_mismatch: true
 source_doc: jmbras-254-matheson-jawiliteraturepatani-1988-e196a7674db4
 source_path: ../sources/appendix.md
+publication_type: journal_article
 ---
+
 # Jawi literature in Patani: the maintenance of an Islamic tradition
 
 Virginia Matheson and M.B. Hooker survey the continuous tradition of *Kitab Jawi*—Islamic literature written in Malay—produced by Patani scholars from the early nineteenth century to the late 1980s, arguing that this literary corpus constitutes a living intellectual *silsilah* linking Meccan scholarship to the Malay world and serving as the defining cultural marker of Malay-Muslim identity in southern Thailand (pp. 1–5).

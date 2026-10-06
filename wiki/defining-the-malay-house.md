@@ -3,8 +3,7 @@ id: defining-the-malay-house
 work_id: jmbras-65-1-p39
 title: Defining the Malay house
 canonical_name: Defining the Malay house
-type: article
-article_type: article
+type: publication
 authors:
 - R.N. Hilton
 year: 1992
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: true
 source_doc: jmbras-262-hilton-definingmalayhouse-1992-7b10960756e5
 source_path: ../sources/jmbras-262-hilton-definingmalayhouse-1992-7b10960756e5.md
+publication_type: journal_article
 ---
+
 # Defining the Malay house
 
 Roger N. Hilton's "Defining the Malay House" (1992), drawing on his residence in the Malay Peninsula from 1948 to 1963 and a synthesis of architectural scholarship spanning four decades, argues that the Malay house constitutes a sophisticated modular architecture whose defining structural characteristics can serve as an ethnographic tool for identifying "Malayness" with the same authority as language or religion. The paper establishes a typological definition grounded in the incontrovertibly Malay areas of the Peninsula and then tests it against house forms across the Indo-Pacific, from Japan to Madagascar.

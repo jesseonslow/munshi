@@ -3,8 +3,7 @@ id: gutta-juices-nq-1-5
 work_id: jsbras-14-gutta-juices-nq-1-5
 title: 'Gutta juices. NQ 1: 5'
 canonical_name: 'Gutta juices. NQ 1: 5'
-type: article
-article_type: notes_and_queries
+type: publication
 authors:
 - N.B. Dennys
 year: 1884
@@ -18,6 +17,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: note
 ---
 
 # Gutta juices. NQ 1: 5

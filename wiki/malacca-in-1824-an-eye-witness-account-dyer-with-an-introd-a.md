@@ -4,8 +4,7 @@ work_id: jmbras-90-1-p131
 title: 'Malacca in 1824: an eye-witness account. . Dyer; with an introd. and notes'
 canonical_name: 'Malacca in 1824: an eye-witness account. . Dyer; with an introd.
   and notes. f'
-type: article
-article_type: translation
+type: publication
 authors:
 - H. de Bougainville
 year: 2017
@@ -27,7 +26,9 @@ keywords:
 - Malacca
 - French in Asia
 - Dutch in Asia*
+publication_type: translation
 ---
+
 # Malacca in 1824: an eye-witness account. . Dyer; with an introd. and notes
 
 ## Abstract

@@ -3,8 +3,7 @@ id: the-affair-at-bruas-1837
 work_id: jmbras-24-3-p163
 title: The affair at Bruas (1837
 canonical_name: The affair at Bruas (1837)
-type: article
-article_type: article
+type: publication
 authors:
 - C.A. Gibson-Hill
 year: 1951
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-156-gibsonhill-affairbruas-1951-979888c94052
 source_path: ../sources/jmalayanras-156-gibsonhill-affairbruas-1951-979888c94052.md
 summarized: true
+publication_type: note
 ---
+
 # The affair at Bruas (1837
 
 This short note by C. A. Gibson-Hill, published in the *JMBRAS* (Vol. 24, No. 3, 1951), concerns a historical incident at Bruas in 1837.

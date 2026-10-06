@@ -3,8 +3,7 @@ id: malay-love-charms-recorded-and-w-hamilton
 work_id: jmbras-4-1-p136
 title: Malay love charms. Recorded and .W. Hamilton
 canonical_name: Malay love charms. Recorded and .W. Hamilton
-type: article
-article_type: translation
+type: publication
 authors:
 - Hamilton A.W
 year: 1926
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-096-hamilton-malaylovecharms-1926-054435b7d434
 source_path: ../sources/jmalayanras-096-hamilton-malaylovecharms-1926-054435b7d434.md
 summarized: true
+publication_type: note
 ---
+
 # Malay love charms. Recorded and .W. Hamilton
 
 A. W. Hamilton's "Malay Love Charms" (JMBRAS Vol. 4, 1926, pp. 136–138) is a short note presenting six recorded Malay love charms with accompanying English translations.

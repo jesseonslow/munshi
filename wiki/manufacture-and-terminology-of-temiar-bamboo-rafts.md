@@ -3,8 +3,7 @@ id: manufacture-and-terminology-of-temiar-bamboo-rafts
 work_id: jmbras-62-1-p105
 title: Manufacture and terminology of Temiar bamboo rafts
 canonical_name: Manufacture and terminology of Temiar bamboo rafts
-type: article
-article_type: article
+type: publication
 authors:
 - G.W.H. Davison
 year: 1989
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-256-davison-manufactureterminologytemiar-1989-22fc3951497f
 source_path: ../sources/jmbras-256-davison-manufactureterminologytemiar-1989-22fc3951497f/frontmatter.md
 summarized: true
+publication_type: note
 ---
+
 # Manufacture and terminology of Temiar bamboo rafts
 
 G.W.H. Davison, a zoologist at Universiti Kebangsaan Malaysia, published this ethnographic account in 1989 documenting the construction sequence and Temiar terminology for bamboo rafts on the Sungai Nenggiri in Ulu Kelantan. Based on direct observation of six rafts built on 8 June 1988 by men from Kampung Blau, the article serves as a technical record of a traditional watercraft whose practical use is already declining.

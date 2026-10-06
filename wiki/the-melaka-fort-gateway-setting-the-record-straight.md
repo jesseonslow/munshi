@@ -3,8 +3,7 @@ id: the-melaka-fort-gateway-setting-the-record-straight
 work_id: jmbras-98-1-p5
 title: 'The Melaka Fort Gateway: Setting the Record Straight'
 canonical_name: 'The Melaka Fort Gateway: Setting the Record Straight'
-type: article
-article_type: article
+type: publication
 authors:
 - S. Jardin
 year: 2025
@@ -28,7 +27,9 @@ keywords:
 - UNESCO World Heritage Site
 - Historical accuracies
 - Melaka Sultanate.
+publication_type: journal_article
 ---
+
 # The Melaka Fort Gateway: Setting the Record Straight
 
 ## Abstract

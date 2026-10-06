@@ -3,8 +3,7 @@ id: public-art-nationalism-and-national-unification-in-malayamal
 work_id: jmbras-85-1-p99
 title: Public art, nationalism and national unification in Malaya/Malaysia
 canonical_name: Public art, nationalism and national unification in Malaya/Malaysia
-type: article
-article_type: article
+type: publication
 authors:
 - W.R. Roff
 year: 2012
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: false
 source_doc: jmbras-302-roff-publicartnationalism-2012-bde1ada7e905
 source_path: ../sources/jmbras-302-roff-publicartnationalism-2012-bde1ada7e905.md
+publication_type: note
 ---
+
 # Public art, nationalism and national unification in Malaya/Malaysia
 
 This short note by William R. Roff examines the role of public art in nationalist and national unification in Malaya/Malaysia, prompted by his encounter with the work of Guyanese artist Denis Williams.

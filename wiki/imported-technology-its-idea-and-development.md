@@ -3,8 +3,7 @@ id: imported-technology-its-idea-and-development
 work_id: jmbras-71-1-p41
 title: Imported technology; its idea and development
 canonical_name: Imported technology; its idea and development
-type: article
-article_type: article
+type: publication
 authors:
 - Goh Chor Boon
 year: 1998
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-274-boon-importedtechnologyidea-1998-47c9faa5e879
 source_path: ../sources/jmbras-274-boon-importedtechnologyidea-1998-47c9faa5e879/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Imported technology; its idea and development
 
 Goh Chor Boon (1998) examines why colonial Singapore, despite its privileged position as Britain's premier entrepot in Southeast Asia, failed to develop an indigenous manufacturing or technological base during the period of British rule. Drawing on the historiography of technology transfer in the colonial world, the article argues that Singapore's trading culture, the enclavist behaviour of European technical elites, and a deliberately limited educational policy collectively inhibited the diffusion of Western industrial technology to the local population.

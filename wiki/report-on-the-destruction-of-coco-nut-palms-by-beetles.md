@@ -3,8 +3,7 @@ id: report-on-the-destruction-of-coco-nut-palms-by-beetles
 work_id: jsbras-20-1-p1
 title: Report on the destruction of coco-nut palms by beetles
 canonical_name: Report on the destruction of coco-nut palms by beetles
-type: article
-article_type: article
+type: publication
 authors:
 - H.N. Ridley
 year: 1889
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: true
 source_doc: jsbras-020-ridley-reportdestructioncoconut-1889-9943dd8bc9bd
 source_path: ../sources/jsbras-020-ridley-reportdestructioncoconut-1889-9943dd8bc9bd.md
+publication_type: journal_article
 ---
+
 # Report on the destruction of coco-nut palms by beetles
 
 Henry N. Ridley, Director of Gardens and Forests for the Straits Settlements, published this report in 1889 to address the escalating destruction of coconut plantations in Singapore by two beetle species. Writing from the Surveyor General's Office, Ridley provides a detailed entomological and agricultural account of the elephant beetle (*Oryctes rhinoceros*) and the red weevil (*Rhynchophorus ferrugineus*), arguing that while absolute extermination is impossible, systematic regulatory and practical measures can reduce damage to negligible levels (pp. 1–11).

@@ -3,8 +3,7 @@ id: british-foreign-policy-and-the-extraterritorial-question-in-
 work_id: jmbras-38-2-p290
 title: British foreign policy and the extraterritorial question in Siam 1891–1900
 canonical_name: British foreign policy and the extraterritorial question in Siam 1891–1900
-type: article
-article_type: article
+type: publication
 authors:
 - C. (Chandran Jeshurun) Jeshurun
 year: 1965
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-208-chandran-britishforeignpolicy-1965-34c8daf468bf
 source_path: ../sources/jmbras-208-chandran-britishforeignpolicy-1965-34c8daf468bf.md
 summarized: true
+publication_type: journal_article
 ---
+
 # British foreign policy and the extraterritorial question in Siam 1891–1900
 
 J. Chandran's 1965 article examines how Britain modified its extraterritorial privileges in Siam between 1891 and 1900, a period defined by acute Anglo-French rivalry over Siamese territory and the growing administrative burden of protecting a large population of Asian-origin British subjects. Chandran's central thesis is that significant concessions were made well before the 1904 Anglo-French Entente, driven not by a single diplomatic impulse but by the converging pressures of consular overstretch, Siamese leverage through the Perak-Reman boundary dispute, and the India Office's sustained resistance to extending Treaty rights to subjects of Asian origin.

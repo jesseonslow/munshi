@@ -3,8 +3,7 @@ id: curious-nesting-place-of-simotes-octolineatus
 work_id: jsbras-46-1-p263
 title: Curious nesting place of Simotes octolineatus
 canonical_name: Curious nesting place of _Simotes octolineatus._
-type: article
-article_type: article
+type: publication
 authors:
 - H.N. Ridley
 year: 1906
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-046-ridley-curiousnestingplace-1906-5f9f37dd589b
 source_path: ../sources/jsbras-046-ridley-curiousnestingplace-1906-5f9f37dd589b.md
 summarized: true
+publication_type: note
 ---
+
 # Curious nesting place of Simotes octolineatus
 
 This short note by H. N. Ridley documents the discovery of a female *Simotes octolineatus* snake nesting inside a beetle-bored tunnel in a bough of an *Spathodea nilotica* tree in the Botanic Gardens (p. 263).

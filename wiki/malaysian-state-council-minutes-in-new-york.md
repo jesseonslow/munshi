@@ -3,8 +3,7 @@ id: malaysian-state-council-minutes-in-new-york
 work_id: jmbras-42-2-p213
 title: Malaysian State Council minutes in New York
 canonical_name: Malaysian State Council minutes in New York
-type: article
-article_type: article
+type: publication
 authors:
 - W.R. Roff
 year: 1969
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-216-roff-malaysianstatecouncil-1969-f7a0a5d528b8
 source_path: ../sources/jmbras-216-roff-malaysianstatecouncil-1969-f7a0a5d528b8.md
 summarized: true
+publication_type: note
 ---
+
 # Malaysian State Council minutes in New York
 
 This is a short note by W.R. Roff documenting the discovery of Malaysian State Council minutes held in New York, published in the *Journal of the Malaysian Branch of the Royal Asiatic Society* (Vol. 42, No. 2, 1969).

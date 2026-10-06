@@ -3,8 +3,7 @@ id: temer-names
 work_id: jmbras-37-1-p121
 title: Temer names
 canonical_name: Temer names
-type: article
-article_type: article
+type: publication
 authors:
 - R. Needham
 year: 1964
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-205-needham-temernames-1964-9c113d8a608c
 source_path: ../sources/jmbras-205-needham-temernames-1964-9c113d8a608c/frontmatter.md
 summarized: true
+publication_type: note
 ---
+
 # Temer names
 
 Rodney Needham's 1964 note examines the naming conventions of the Temer (Temiar) people of Peninsular Malaysia, arguing that their combination of age-order proper names and death-related terms constitutes a system of comparative interest that warrants further field investigation. The article is situated within Needham's broader programme of studying mourning-terms and their relationship to social solidarity in small-scale societies, with the Penan of middle Borneo serving as the principal comparative reference point.

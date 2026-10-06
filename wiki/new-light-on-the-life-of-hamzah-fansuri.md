@@ -3,8 +3,7 @@ id: new-light-on-the-life-of-hamzah-fansuri
 work_id: jmbras-40-1-p42
 title: New light on the life of Hamzah Fansuri
 canonical_name: New light on the life of Hamzah Fansuri
-type: article
-article_type: article
+type: publication
 authors:
 - Naguib, Syed Al-Attas
 year: 1967
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-211-alattas-newlightlife-1967-b35b1039e51c
 source_path: ../sources/jmbras-211-alattas-newlightlife-1967-b35b1039e51c.md
 summarized: true
+publication_type: journal_article
 ---
+
 # New light on the life of Hamzah Fansuri
 
 Syed Naguib al-Attas published this philological study in 1967, challenging the long-accepted assumption that the Sufi poet Hamzah Fansuri was born in Barus (Fansur) on the west coast of North Sumatra. Drawing on close readings of Hamzah's own verses and Sufi cosmological terminology, al-Attas argues that Hamzah was in fact born in Shahr Nawi (Ayutthaya, Siam), while Barus was merely his ancestral home, and that he lived and flourished in the period preceding and during the reign of Sultan 'Ala'ud-Din Ri'ayat Shah of Aceh (1588–1604), dying before 1607.

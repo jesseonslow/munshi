@@ -3,8 +3,7 @@ id: government-in-sarawak-under-charles-brooke
 work_id: jmbras-39-2-p95
 title: Government in Sarawak under Charles Brooke
 canonical_name: Government in Sarawak under Charles Brooke
-type: article
-article_type: article
+type: publication
 authors:
 - O.C. Doering
 year: 1966
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-210-iii-governmentsarawakcharles-1966-21b0a704422a
 source_path: ../sources/jmbras-210-iii-governmentsarawakcharles-1966-21b0a704422a.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Government in Sarawak under Charles Brooke
 
 Otto C. Doering III's 1966 article examines the administrative system of Sarawak during the reign of the second White Rajah, Charles Brooke (r. 1868–1888), arguing that Brooke's governance was not a simple top-down colonial imposition but a complex, compromise-driven system that depended fundamentally on the maintenance of native authority structures and the personal qualities of individual European officers.

@@ -3,8 +3,7 @@ id: a-further-note-on-francis-lights-silver-bason
 work_id: jmbras-97-2-p111
 title: A Further Note on Francis Light’s ‘Silver Bason’
 canonical_name: A Further Note on Francis Light’s ‘Silver Bason’
-type: article
-article_type: article
+type: publication
 authors:
 - H.S. Barlow
 - A.T. Gallop
@@ -19,6 +18,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: note
 ---
 
 # A Further Note on Francis Light’s ‘Silver Bason’

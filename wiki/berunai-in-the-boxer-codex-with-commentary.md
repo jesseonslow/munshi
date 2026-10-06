@@ -3,8 +3,7 @@ id: berunai-in-the-boxer-codex-with-commentary
 work_id: jmbras-55-2-p1
 title: 'Berunai in the Boxer Codex: with commentary'
 canonical_name: 'Berunai in the Boxer Codex: with commentary'
-type: article
-article_type: article
+type: publication
 authors:
 - J.S. Carroll
 year: 1982
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: false
 source_doc: jmbras-243-carroll-berunaiboxercodex-1982-78f57b3bc631
 source_path: ../sources/jmbras-243-carroll-berunaiboxercodex-1982-78f57b3bc631.md
+publication_type: journal_article
 ---
+
 # Berunai in the Boxer Codex: with commentary
 
 John S. Carroll's 1982 article presents a complete translation and scholarly commentary on folios 71–86 of the Boxer Codex, a late sixteenth-century Spanish manuscript describing the sultanate of Brunei under Sultan Lixar (Saif-ul-Rejal) circa 1589–1590. Carroll identifies the anonymous author as likely a ranking Spanish secular official in Manila—possibly Gómez Pérez Dasmariñas or his secretary Juan de Cuellar—drawing on information from a Malay-speaking Tagalog trader who had visited Brunei as recently as 1589 (p. 1). The article stands as the most extensive surviving European-language account of Brunei's internal affairs in the late sixteenth century, covering geography, royal genealogy, law, religion, commerce, and military organisation (p. 1).

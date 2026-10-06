@@ -3,8 +3,7 @@ id: examen-de-quelques-orthopteres-interessants-du-musée-de-sara
 work_id: jsbras-67-1-p85
 title: Examen de quelques Orthopteres interessants du Musée de Sarawak
 canonical_name: _Examen de quelques Orthopteres interessants du Musée de Sarawak._
-type: article
-article_type: article
+type: publication
 authors:
 - L. Bolivar
 year: 1914
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-067-bolivar-examendequelques-1914-a23fb211062f
 source_path: ../sources/jsbras-067-bolivar-examendequelques-1914-a23fb211062f.md
 summarized: true
+publication_type: note
 ---
+
 # Examen de quelques Orthopteres interessants du Musée de Sarawak
 
 Bolívar's 1914 note describes two new genera and two new species of Orthoptera from the Sarawak Museum collection, along with a new variety and additional locality records for Borneo.

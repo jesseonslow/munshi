@@ -3,8 +3,7 @@ id: the-hikayat-abdullah-an-annotated-translation-ah-hill
 work_id: jmbras-28-3-p1
 title: The Hikayat Abdullah; an annotated translation. A.H. Hill
 canonical_name: The _Hikayat Abdullah;_ an annotated translation. A.H. Hill
-type: article
-article_type: article
+type: publication
 authors:
 - Abdullah bin Abdul Kadir
 - A.H. Hill
@@ -23,7 +22,9 @@ summarized: true
 source_mismatch: true
 source_doc: jmalayanras-171-hill-hikayatabdullah-1955-d1eb4a162df9
 source_path: ../sources/index.md
+publication_type: translation
 ---
+
 # The Hikayat Abdullah; an annotated translation. A.H. Hill
 
 A.H. Hill's 1955 annotated translation of the *Hikayat Abdullah* in the *Journal of the Malayan Branch of the Royal Asiatic Society* (Vol. 28, Pt. 3) presents the first complete English rendering of Abdullah bin Abdul Kadir's autobiography, a document spanning the formative decades of British colonial Malaya from 1797 to 1846. Published exactly one century after the original's 1849 lithographing, Hill's edition combines a detailed political and biographical introduction with a close translation that preserves the author's stylistic variety, supplemented by extensive notes correcting Abdullah's factual errors and assessing his literary claims (pp. 5–6).

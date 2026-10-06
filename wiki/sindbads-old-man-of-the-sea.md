@@ -3,8 +3,7 @@ id: sindbads-old-man-of-the-sea
 work_id: jsbras-50-1-p91
 title: Sindbad’s old man of the sea
 canonical_name: Sindbad’s old man of the sea
-type: article
-article_type: article
+type: publication
 authors:
 - W.G. Maxwell
 year: 1908
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-050-maxwell-sindbadsoldman-1908-0e82cd766f77
 source_path: ../sources/jsbras-050-maxwell-sindbadsoldman-1908-0e82cd766f77.md
 summarized: true
+publication_type: note
 ---
+
 # Sindbad’s old man of the sea
 
 W. George Maxwell, a Straits Settlements administrator, published this short philological note in 1908 in the *Journal of the Straits Branch of the Royal Asiatic Society*, arguing that the "Old Man of the Sea" in Sindbad's fifth voyage is an orang utan and that the epithet "of the Sea" is a Malay-language conflation of *orang laut* (sea people) with *orang utan* (forest people, or the ape itself).

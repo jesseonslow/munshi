@@ -5,8 +5,7 @@ title: Ethnicity, language and culture in Melaka after the transition from Portu
   to Dutch rule (seventeenth century
 canonical_name: Ethnicity, language and culture in Melaka after the transition from
   Portuguese to Dutch rule (seventeenth century)
-type: article
-article_type: article
+type: publication
 authors:
 - P. Borschberg
 year: 2010
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-299-borschberg-ethnicitylanguageculture-2010-68a7682c69c6
 source_path: ../sources/jmbras-299-borschberg-ethnicitylanguageculture-2010-68a7682c69c6/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Ethnicity, language and culture in Melaka after the transition from Portuguese to Dutch rule (seventeenth century
 
 Peter Borschberg (2010) examines the cultural, linguistic, and religious aftermath of the VOC's seizure of Melaka from Portugal in January 1641, arguing that the ad hoc, pragmatic decisions made by Dutch commanders in the immediate post-conquest period—originally conceived as short-term fixes to problems on the ground—became the structural foundations of Dutch colonial policy in Melaka well into the eighteenth century.

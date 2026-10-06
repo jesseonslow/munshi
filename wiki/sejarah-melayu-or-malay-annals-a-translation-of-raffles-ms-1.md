@@ -5,8 +5,7 @@ title: Sejarah Melayu; or Malay Annals; a translation of Raffles MS 18 {in the L
   of the R.A.S., London} C.C. Brown
 canonical_name: _Sejarah Melayu;_ or Malay Annals; a translation of Raffles MS 18
   {in the Library of the R.A.S., London} C.C. Brown
-type: article
-article_type: article
+type: publication
 authors:
 - Sejarah Melayu
 year: 1952
@@ -22,6 +21,7 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+publication_type: translation
 ---
 
 # Sejarah Melayu; or Malay Annals; a translation of Raffles MS 18 {in the Library of the R.A.S., London} C.C. Brown

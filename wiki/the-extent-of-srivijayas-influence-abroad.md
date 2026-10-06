@@ -3,8 +3,7 @@ id: the-extent-of-srivijayas-influence-abroad
 work_id: jmbras-51-1-p5
 title: The extent of Srivijaya’s influence abroad
 canonical_name: The extent of Srivijaya’s influence abroad
-type: article
-article_type: article
+type: publication
 authors:
 - H.G.Q. Wales
 year: 1978
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-233-wales-extentsrivijayasinfluence-1978-d8fddc972035
 source_path: ../sources/jmbras-233-wales-extentsrivijayasinfluence-1978-d8fddc972035.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The extent of Srivijaya’s influence abroad
 
 H.G. Quaritch Wales published this article in 1978, revisiting the question he had first raised in his 1969 monograph *Dvaravati*: to what extent did the Mahayana Buddhist culture of Srivijaya (Sumatra and the Malay Peninsula, 8th–12th centuries) penetrate the art and religion of its northern neighbour, the Dvaravati kingdom in the Menam valley and Korat plateau. His overarching thesis is that Srivijayan influence abroad was far more limited than recent scholarship—particularly that of J. Boisselier—had claimed, and that much of what had been attributed to Srivijaya was better explained by direct Indian accretion or by Pre-Angkorian Khmer art carrying central Javanese features.

@@ -3,8 +3,7 @@ id: the-sphingidae-of-singapore
 work_id: jsbras-22-1-p325
 title: The Sphingidae of Singapore
 canonical_name: The Sphingidae of Singapore
-type: article
-article_type: article
+type: publication
 authors:
 - H.J. Kelsall
 year: 1890
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-022-kelsall-sphingidsingapore-1890-a86755e3b406
 source_path: ../sources/jsbras-022-kelsall-sphingidsingapore-1890-a86755e3b406.md
 summarized: true
+publication_type: note
 ---
+
 # The Sphingidae of Singapore
 
 A brief field note by Lieutenant H. J. Kelsall, R.A., describing the hawk moths (Sphingidae) observed in the vicinity of Singapore, with notes on their habits, preferred flowers, and a list of recorded species.

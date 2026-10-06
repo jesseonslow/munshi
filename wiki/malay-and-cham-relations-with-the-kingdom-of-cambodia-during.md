@@ -5,8 +5,7 @@ title: Malay and Cham relations with the kingdom of Cambodia during and after th
   French protectorate (1863–2000
 canonical_name: Malay and Cham relations with the kingdom of Cambodia during and after
   the French protectorate (1863–2000)
-type: article
-article_type: article
+type: publication
 authors:
 - Mohamed Zain bin Musa
 year: 2001
@@ -24,7 +23,9 @@ summarized: true
 source_mismatch: true
 source_doc: jmbras-281-musa-malaychamrelations-2001-2335862ab840
 source_path: ../sources/references.md
+publication_type: journal_article
 ---
+
 # Malay and Cham relations with the kingdom of Cambodia during and after the French protectorate (1863–2000
 
 Mohamed Zain bin Musa's 2001 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* traces the political, military, and social role of the Malay-Cham Muslim community in Cambodia from the establishment of the French protectorate in 1863 through the post-Khmer Rouge era of the 1990s. Drawing on Khmer chronicles, Cham manuscripts, French colonial archives, and oral tradition, the article argues that the Malay-Cham have functioned as a loyal yet distinctively identified community whose relationship with the Khmer state has been defined by mutual service, religious difference, and periodic political crisis.

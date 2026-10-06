@@ -3,8 +3,7 @@ id: shamanism-in-perak
 work_id: jsbras-12-1-p222
 title: Shamanism in Perak
 canonical_name: Shamanism in Perak
-type: article
-article_type: article
+type: publication
 authors:
 - W.E. Maxwell
 year: 1883
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-012-maxwell-shamanismperak-1883-80e12747a432
 source_path: ../sources/jsbras-012-maxwell-shamanismperak-1883-80e12747a432.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Shamanism in Perak
 
 W.E. Maxwell, a British colonial official in Perak, published this first-hand ethnographic account in 1883, documenting a shamanic healing ceremony he witnessed in a Malay village. The article's central concern is the persistence of pre-Islamic animist belief and practice among professedly Muslim Malays in the Perak interior, where disease is routinely attributed to supernatural agency and professional *pawangs* (medicine-men) are summoned in preference to, or alongside, any form of medicine.

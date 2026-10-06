@@ -3,8 +3,7 @@ id: the-early-land-administration-and-agricultural-development-o
 work_id: jmbras-39-2-p274
 title: The early land administration and agricultural development of Penang
 canonical_name: The early land administration and agricultural development of Penang
-type: article
-article_type: article
+type: publication
 authors:
 - K.G. Tregonning
 year: 1966
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-210-tregonning-earlylandadministration-1966-ecfb2ea43357
 source_path: ../sources/jmbras-210-tregonning-earlylandadministration-1966-ecfb2ea43357.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The early land administration and agricultural development of Penang
 
 K.G. Tregonning's 1966 article reconstructs the evolution of land administration and agricultural development in Penang from its founding in 1786 through the 1840s, arguing that the island's land policy oscillated between liberal informality and bureaucratic overreach before ultimately reverting to the principles of its founder. The study draws primarily on the Straits Settlements Fort Road records and W.E. Phillips' 1884 land revenue report to trace how a succession of distant governments—Bengal, then London—imposed land regulations that were consistently out of touch with local conditions, while the agricultural economy shifted from rice subsistence to pepper dominance and finally to spice cultivation.

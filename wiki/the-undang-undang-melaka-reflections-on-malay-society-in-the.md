@@ -5,8 +5,7 @@ title: 'The Undang-Undang Melaka: reflections on Malay society in the fifteenth 
   Malacca'
 canonical_name: The _Undang-Undang Melaka:_ reflections on Malay society in the fifteenth
   century Malacca
-type: article
-article_type: article
+type: publication
 authors:
 - Khasnor Johan
 year: 1999
@@ -20,6 +19,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: journal_article
 ---
 
 # The Undang-Undang Melaka: reflections on Malay society in the fifteenth century Malacca

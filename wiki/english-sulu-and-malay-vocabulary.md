@@ -3,8 +3,7 @@ id: english-sulu-and-malay-vocabulary
 work_id: jsbras-18-1-p191
 title: English, Sulu and Malay vocabulary
 canonical_name: English, Sulu and Malay vocabulary
-type: article
-article_type: article
+type: publication
 authors:
 - Haynes T.H
 year: 1886
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-018-haynes-englishsulumalay-1886-f79bacdec07f
 source_path: ../sources/jsbras-018-haynes-englishsulumalay-1886-f79bacdec07f.md
 summarized: true
+publication_type: journal_article
 ---
+
 # English, Sulu and Malay vocabulary
 
 This is a continuation of T. H. Haynes's trilingual vocabulary list comparing English, Sulu, and Malay terms, published in JSBRAS Vol. 18 (1886), pp. 191–239.

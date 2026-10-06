@@ -3,8 +3,7 @@ id: the-trengganu-rodat
 work_id: jmbras-16-1-p109
 title: The Trengganu ‘rodat’
 canonical_name: The Trengganu _‘rodat’._
-type: article
-article_type: article
+type: publication
 authors:
 - Mubin Sheppard
 year: 1938
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-131-sheppard-trengganurodat-1938-ec11fa586ae7
 source_path: ../sources/jmalayanras-131-sheppard-trengganurodat-1938-ec11fa586ae7.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The Trengganu ‘rodat’
 
 M. C. ff Sheppard, a colonial administrator serving in Trengganu, published this ethnographic account in 1938 documenting the 'Rodat'—a traditional male performance combining Arabic religious chanting with popular song and graceful dance—then practised exclusively in Trengganu and on the verge of disappearing from the wider Malay Peninsula. Sheppard's central thesis is that the Rodat is a direct descendant of the Arabic-Achinese 'Rateb', specifically the 'Rateb Sadati' and 'Rateb Pulet' varieties, which reached Trengganu in second-hand form via Sambas (Borneo) traders.

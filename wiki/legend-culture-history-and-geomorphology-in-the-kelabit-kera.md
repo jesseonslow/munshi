@@ -5,8 +5,7 @@ title: Legend, culture history and geomorphology in the Kelabit-Kerayan Highland
   North Central Borneo
 canonical_name: Legend, culture history and geomorphology in the Kelabit-Kerayan Highland
   of North Central Borneo
-type: article
-article_type: article
+type: publication
 authors:
 - F.M. Le Bar
 year: 1970
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-217-lebar-legendculturehistory-1970-7680f7d8837a
 source_path: ../sources/jmbras-217-lebar-legendculturehistory-1970-7680f7d8837a.md
 summarized: true
+publication_type: note
 ---
+
 # Legend, culture history and geomorphology in the Kelabit-Kerayan Highland of North Central Borneo
 
 This note by Frank M. LeBar examines the correlation between Murut-Kelabit origin legends and the geomorphology of the Kelabit-Kerayan highland in north central Borneo, arguing that legendary accounts of lake drainage correspond to a geologically recent breakthrough event.

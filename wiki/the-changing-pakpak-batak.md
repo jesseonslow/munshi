@@ -3,8 +3,7 @@ id: the-changing-pakpak-batak
 work_id: jmbras-54-1-p93
 title: The changing Pakpak Batak
 canonical_name: The changing Pakpak Batak
-type: article
-article_type: article
+type: publication
 authors:
 - E.L. Kaplan
 - A.C. Viner
@@ -22,7 +21,9 @@ published: false
 source_doc: jmbras-239-viner-changingpakpakbatak-1981-0b53af179998
 source_path: ../sources/jmbras-239-viner-changingpakpakbatak-1981-0b53af179998/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The changing Pakpak Batak
 
 A.C. Viner and E.L. Kaplan published "The Changing Pakpak Batak" in the *Journal of the Malaysian Branch of the Royal Asiatic Society* in 1981, presenting an ethnographic account of the smallest and least documented of the Batak societies, based on fieldwork conducted in Simsim, Dairi Regency, North Sumatra, in 1977 and early 1978. The article's overarching thesis is that the Pakpak are undergoing a comprehensive cultural dissolution—material culture, language, calendrical systems, and social organization are all eroding simultaneously under the combined pressures of Indonesian state integration, Toba and Karo in-migration, and the younger generation's active aspiration to abandon Pakpak identity altogether.

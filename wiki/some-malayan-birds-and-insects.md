@@ -3,8 +3,7 @@ id: some-malayan-birds-and-insects
 work_id: jmbras-3-3-p31
 title: Some Malayan birds and insects
 canonical_name: Some Malayan birds and insects
-type: article
-article_type: article
+type: publication
 authors:
 - Hamilton A.W
 year: 1925
@@ -18,6 +17,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: note
 ---
 
 # Some Malayan birds and insects

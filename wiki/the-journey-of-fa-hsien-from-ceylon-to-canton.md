@@ -3,8 +3,7 @@ id: the-journey-of-fa-hsien-from-ceylon-to-canton
 work_id: jmbras-19-1-p76
 title: The journey of Fa-Hsien from Ceylon to Canton
 canonical_name: The journey of Fa-Hsien from Ceylon to Canton
-type: article
-article_type: article
+type: publication
 authors:
 - A. Grimes
 year: 1941
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-139-grimes-journeyfahsienceylon-1941-e233690329af
 source_path: ../sources/jmalayanras-139-grimes-journeyfahsienceylon-1941-e233690329af.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The journey of Fa-Hsien from Ceylon to Canton
 
 A. Grimes, a Meteorological Officer with the S.S. & F.M.S., uses newly available wind data for the equatorial region to reconstruct the maritime track of the Chinese pilgrim Fa-hsien's voyage from Ceylon to Canton (p. 76).

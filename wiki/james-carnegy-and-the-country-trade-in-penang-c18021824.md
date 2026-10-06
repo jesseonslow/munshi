@@ -3,8 +3,7 @@ id: james-carnegy-and-the-country-trade-in-penang-c18021824
 work_id: jmbras-96-1-p51
 title: James Carnegy and the ‘Country Trade’ in Penang, c.1802–1824
 canonical_name: James Carnegy and the ‘Country Trade’ in Penang, c.1802–1824
-type: article
-article_type: article
+type: publication
 authors:
 - F. Andrew Smith
 year: 2023
@@ -18,6 +17,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: journal_article
 ---
 
 # James Carnegy and the ‘Country Trade’ in Penang, c.1802–1824

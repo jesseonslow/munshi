@@ -5,8 +5,7 @@ title: British Malaya, 1824–67. L.A. Mills. .M. Turnbull; and a new introducto
   on European influence in the Malay Peninsula, 1511–1786, D.K. Bassett
 canonical_name: British Malaya, 1824–67. L.A. Mills. .M. Turnbull; and a new introductory
   chapter on European influence in the Malay Peninsula, 1511–1786, D.K. Bassett
-type: article
-article_type: bibliography
+type: publication
 authors:
 - D.K. Bassett
 - L.A. Mills
@@ -24,7 +23,9 @@ status: stub
 published: false
 source_doc: jsbras-033-shelford-tripmtpenrissen-1900-0263d0d66ba9
 source_path: ../sources/jsbras-033-shelford-tripmtpenrissen-1900-0263d0d66ba9/frontmatter.md
+publication_type: reprint
 ---
+
 # British Malaya, 1824–67. L.A. Mills. .M. Turnbull; and a new introductory chapter on European influence in the Malay Peninsula, 1511–1786, D.K. Bassett
 
 ## Summary

@@ -3,8 +3,7 @@ id: producing-malaya-the-photography-of-carl-a-gibson-hill
 work_id: jmbras-92-1-p1
 title: 'Producing Malaya : the photography of Carl A. Gibson-Hill'
 canonical_name: 'Producing _Malaya_ : the photography of Carl A. Gibson-Hill'
-type: article
-article_type: article
+type: publication
 authors:
 - B. Luyt
 year: 2019
@@ -34,7 +33,9 @@ keywords:
 source_mismatch: false
 source_doc: jmbras-316-luyt-producingmalaya-2019-77f560663adb
 source_path: ../sources/references.md
+publication_type: journal_article
 ---
+
 # Producing Malaya : the photography of Carl A. Gibson-Hill
 
 ## Abstract

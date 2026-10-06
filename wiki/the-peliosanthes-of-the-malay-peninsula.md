@@ -3,8 +3,7 @@ id: the-peliosanthes-of-the-malay-peninsula
 work_id: jsbras-31-1-p91
 title: The Peliosanthes of the Malay Peninsula
 canonical_name: The _Peliosanthes_ of the Malay Peninsula
-type: article
-article_type: article
+type: publication
 authors:
 - H.N. Ridley
 year: 1898
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-031-ridley-peliosanthesmalaypeninsula-1898-86085e35c19b
 source_path: ../sources/jsbras-031-ridley-peliosanthesmalaypeninsula-1898-86085e35c19b.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The Peliosanthes of the Malay Peninsula
 
 H. N. Ridley, then Director of the Singapore Botanic Gardens, published this monograph in 1898 to provide the first comprehensive treatment of the genus *Peliosanthes* in the Malay Peninsula, describing seven species (four of them new to science) and establishing a diagnostic key based on the position of the ovary relative to the staminal ring. The article situates the genus within the Liliaceae (subgroup Ophiopogoneae) and documents its distribution across the Peninsula, India, Siam, Cochin China, and Java.

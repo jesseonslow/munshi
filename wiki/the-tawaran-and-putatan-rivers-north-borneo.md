@@ -3,8 +3,7 @@ id: the-tawaran-and-putatan-rivers-north-borneo
 work_id: jsbras-13-1-p261
 title: The Tawaran and Putatan rivers, North Borneo
 canonical_name: The Tawaran and Putatan rivers, North Borneo
-type: article
-article_type: article
+type: publication
 authors:
 - S.E. Dalrymple
 year: 1884
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-013-dalrymple-tawaranputatanrivers-1884-86df516b4729
 source_path: ../sources/jsbras-013-dalrymple-tawaranputatanrivers-1884-86df516b4729.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The Tawaran and Putatan rivers, North Borneo
 
 S. Elphinstone Dalrymple's 1884 account in the *Journal of the Straits Branch of the Royal Asiatic Society* documents a field survey of the Tawaran and Putatan river systems in the north-western interior of North Borneo, traversed on foot and by native boat. The article's central thesis is that the Putatan valley represents the most intensively cultivated and prosperous agricultural district in the entire territory, a claim supported by direct observation of its irrigation infrastructure, land tenure, and export economy.

@@ -3,8 +3,7 @@ id: sea-dayak-carving
 work_id: jmbras-19-2-p219
 title: Sea-Dayak carving
 canonical_name: Sea-Dayak carving
-type: article
-article_type: article
+type: publication
 authors:
 - E. Banks
 year: 1941
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-140-banks-seadayakcarving-1941-1feef39922d4
 source_path: ../sources/jmalayanras-140-banks-seadayakcarving-1941-1feef39922d4.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Sea-Dayak carving
 
 E. Banks published this illustrated catalogue of Sea Dayak (Iban) wood carving patterns in 1941, drawing on a collection of fragile paper drawings prepared decades earlier by the late Rev. E. W. Howell of Simanggang and held in the Sarawak Museum. The article's central thesis is that Sea Dayak male carvings are overwhelmingly naturalistic and geometric in character, with animal representations confined to a narrow set of motifs, a pattern that Banks uses to corroborate Dr. Haddon's earlier distinction between Iban male and female decorative traditions.

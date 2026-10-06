@@ -5,8 +5,7 @@ title: 'The flora of Gunong Tapis in Pahang: with notes on the altitudinal zonat
   of the forests of the Malay Peninsula'
 canonical_name: 'The flora of Gunong Tapis in Pahang: with notes on the altitudinal
   zonation of the forests of the Malay Peninsula'
-type: article
-article_type: article
+type: publication
 authors:
 - C.F. Symington
 year: 1936
@@ -20,6 +19,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: journal_article
 ---
 
 # The flora of Gunong Tapis in Pahang: with notes on the altitudinal zonation of the forests of the Malay Peninsula

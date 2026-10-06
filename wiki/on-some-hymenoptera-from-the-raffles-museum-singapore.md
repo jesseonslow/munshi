@@ -3,8 +3,7 @@ id: on-some-hymenoptera-from-the-raffles-museum-singapore
 work_id: jsbras-41-1-p119
 title: On some Hymenoptera from the Raffles Museum, Singapore
 canonical_name: On some Hymenoptera from the Raffles Museum, Singapore
-type: article
-article_type: article
+type: publication
 authors:
 - P. Cameron
 year: 1904
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-041-cameron-hymenopterarafflesmuseum-1904-f51173765f23
 source_path: ../sources/jsbras-041-cameron-hymenopterarafflesmuseum-1904-f51173765f23.md
 summarized: true
+publication_type: note
 ---
+
 # On some Hymenoptera from the Raffles Museum, Singapore
 
 This is a short taxonomic note by P. Cameron listing undetermined Hymenoptera sent to him by Dr. Hanitsch from the Raffles Museum, Singapore, as a contribution to the knowledge of the island's hymenopterous fauna (p. 119).

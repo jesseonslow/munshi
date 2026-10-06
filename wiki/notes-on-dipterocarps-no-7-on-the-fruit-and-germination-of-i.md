@@ -4,8 +4,7 @@ work_id: jsbras-86-1-p281
 title: Notes on Dipterocarps. {No. 7} On the fruit and germination of Isoptera borneensis
 canonical_name: Notes on Dipterocarps. {No. 7} On the fruit and germination of _Isoptera
   borneensis._
-type: article
-article_type: article
+type: publication
 authors:
 - I.H. Burkill
 year: 1922
@@ -22,7 +21,9 @@ published: false
 source_doc: jsbras-086-burkill-notesdipterocarpsno-1922-40ffa2d45144
 source_path: ../sources/jsbras-086-burkill-notesdipterocarpsno-1922-40ffa2d45144.md
 summarized: true
+publication_type: note
 ---
+
 # Notes on Dipterocarps. {No. 7} On the fruit and germination of Isoptera borneensis
 
 I.H. Burkill's 1922 contribution to his "Notes on Dipterocarps" series examines the fruit morphology, water-dispersal mechanism, and germination behaviour of *Isoptera borneensis*, a dipterocarp whose corky sepals provide buoyancy for riverine seed distribution. The article uses detailed morphological observation to argue that the fruit-wall splitting observed during germination is not a vestige of ancestral dehiscence but a mechanical response to continuous embryonic growth, and that water-distribution in this genus represents a secondary adaptation linked to early fruiting at low canopy height.

@@ -3,8 +3,7 @@ id: hindustani-tamil-sanskrit-and-other-loan-words-in-malay
 work_id: jsbras-80-1-p29
 title: Hindustani, Tamil, Sanskrit and other loan words in Malay
 canonical_name: Hindustani, Tamil, Sanskrit and other loan words in Malay
-type: article
-article_type: article
+type: publication
 authors:
 - Hamilton A.W
 year: 1919
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-080-hamilton-hindustanitamilsanskrit-1919-6521043c0d9f
 source_path: ../sources/jsbras-080-hamilton-hindustanitamilsanskrit-1919-6521043c0d9f.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Hindustani, Tamil, Sanskrit and other loan words in Malay
 
 A. W. Hamilton's 1919 article in the *Journal of the Straits Branch of the Royal Asiatic Society* presents a compiled list of Malay vocabulary items whose etymologies had not yet been recorded in R. J. Wilkinson's *Malay-English Dictionary*, arguing that the cumulative weight of Hindustani, Tamil, Sanskrit, Arabic, Persian, and other loanwords raises a fundamental question about the channels through which these words entered the Malay lexicon.

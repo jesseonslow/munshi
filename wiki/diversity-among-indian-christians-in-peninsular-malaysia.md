@@ -3,8 +3,7 @@ id: diversity-among-indian-christians-in-peninsular-malaysia
 work_id: jmbras-65-1-p71
 title: Diversity among Indian Christians in Peninsular Malaysia
 canonical_name: Diversity among Indian Christians in Peninsular Malaysia
-type: article
-article_type: article
+type: publication
 authors:
 - J.R. Daniel
 year: 1992
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-262-daniel-diversityamongindian-1992-fb6a66146da3
 source_path: ../sources/jmbras-262-daniel-diversityamongindian-1992-fb6a66146da3/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Diversity among Indian Christians in Peninsular Malaysia
 
 J.R. Daniel's 1992 article examines the internal diversity of the Indian Christian community in Peninsular Malaysia, arguing that what appears to the dominant Malay and Chinese populations as a homogenous minority is in fact stratified along linguistic, denominational, and caste lines. Drawing on fieldwork conducted between 1985 and 1989, primarily in Buntong, Ipoh, Daniel maps the sociological contours of a community of roughly 100,000 people and traces how caste persistence and linguistic identity interact with Christian ecclesial structures in a plural society.

@@ -5,8 +5,7 @@ title: 'Thomas Stamford Raffles’ Masonic career in Java: a new perspective on 
   British interregnum (1811–1816'
 canonical_name: 'Thomas Stamford Raffles’ Masonic career in Java: a new perspective
   on the British interregnum (1811–1816)'
-type: article
-article_type: article
+type: publication
 authors:
 - R. Jordaan
 - P.B.R. Carey
@@ -24,7 +23,9 @@ published: false
 source_doc: jordaan-2017-jmbras-90-2-1-34-1febc85fdaf2
 source_path: ../sources/jordaan-2017-jmbras-90-2-1-34-1febc85fdaf2/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Thomas Stamford Raffles’ Masonic career in Java: a new perspective on the British interregnum (1811–1816
 
 ## Abstract

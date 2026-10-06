@@ -4,8 +4,7 @@ work_id: jmbras-42-2-p155
 title: The relationship between the adat and state constitutions of Negeri Sembilan
 canonical_name: The relationship between the _adat_ and state constitutions of Negeri
   Sembilan
-type: article
-article_type: article
+type: publication
 authors:
 - M.B. Hooker
 year: 1969
@@ -22,7 +21,9 @@ published: false
 source_doc: jmbras-216-hooker-relationshipadatstate-1969-dac99e5b7df3
 source_path: ../sources/jmbras-216-hooker-relationshipadatstate-1969-dac99e5b7df3/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The relationship between the adat and state constitutions of Negeri Sembilan
 
 M.B. Hooker's 1969 article examines the dual constitutional system of Negri Sembilan—where *adat* and legislative government operate in parallel—using the 1967–1968 installations of the Undang of Jelebu and the Yang di-Pertuan Besar as a focal point for analysing how these two systems interact, conflict, and ultimately subordinate *adat* to the state constitution.

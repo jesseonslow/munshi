@@ -3,8 +3,7 @@ id: the-sources-of-the-shellabear-text-of-the-malay-annals
 work_id: jmbras-20-2-p105
 title: The sources of the Shellabear text of the Malay Annals
 canonical_name: The sources of the Shellabear text of the Malay Annals
-type: article
-article_type: article
+type: publication
 authors:
 - W. Linehan
 year: 1947
@@ -27,7 +26,9 @@ published: false
 source_doc: jmalayanras-143-linehan-sourcesshellabeartext-1947-02351c5abd3c
 source_path: ../sources/jmalayanras-143-linehan-sourcesshellabeartext-1947-02351c5abd3c.md
 summarized: true
+publication_type: note
 ---
+
 # The sources of the Shellabear text of the Malay Annals
 
 This brief note by W. Linehan (1947) identifies the textual sources Shellabear used for his editions of the Malay Annals and draws attention to a previously overlooked reference to Leyden's translation in Col. James Low's work on the Kedah Annals.

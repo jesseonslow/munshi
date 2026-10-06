@@ -3,8 +3,7 @@ id: english-trade-in-celebes-16131667
 work_id: jmbras-31-1-p1
 title: English trade in Celebes, 1613–1667
 canonical_name: English trade in Celebes, 1613–1667
-type: article
-article_type: article
+type: publication
 authors:
 - D.K. Bassett
 year: 1958
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: true
 source_doc: jmalayanras-181-bassett-englishtradecelebes-1958-80b7be11675b
 source_path: ../sources/jmalayanras-181-bassett-englishtradecelebes-1958-80b7be11675b.md
+publication_type: journal_article
 ---
+
 # English trade in Celebes, 1613–1667
 
 D.K. Bassett's 1958 article reconstructs the fifty-four-year history of the English East India Company's factory at Macassar, Celebes, drawing primarily on the India Office records in London to supplement the well-established Dutch historiography of the period. The overarching argument is that the English at Macassar were the principal instigators of the clove-smuggling trade that undermined the Dutch monopoly in the Spice Islands, but that their commercial influence was always secondary to that of the Portuguese and was ultimately destroyed when the Dutch conquered the sultanate in 1667.

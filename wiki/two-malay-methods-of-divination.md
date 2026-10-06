@@ -3,8 +3,7 @@ id: two-malay-methods-of-divination
 work_id: jmbras-1-1-p247
 title: Two Malay methods of divination
 canonical_name: Two Malay methods of divination
-type: article
-article_type: article
+type: publication
 authors:
 - I.H.N. Evans
 year: 1923
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-087-evans-twomalaymethods-1923-671858088e45
 source_path: ../sources/jmalayanras-087-evans-twomalaymethods-1923-671858088e45.md
 summarized: true
+publication_type: note
 ---
+
 # Two Malay methods of divination
 
 I.H.N. Evans's brief note documents two Malay divination practices he observed in the early 1910s: one involving floating needles in water, the other a ring-and-hair pendulum used to identify a thief (p. 247).

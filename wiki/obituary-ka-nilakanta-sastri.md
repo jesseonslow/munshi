@@ -3,8 +3,7 @@ id: obituary-ka-nilakanta-sastri
 work_id: jmbras-55-1-p94
 title: Obituary. K.A. Nilakanta Sastri
 canonical_name: Obituary. K.A. Nilakanta Sastri
-type: article
-article_type: obituary
+type: publication
 authors:
 - K.S. Singaravelu
 year: 1982
@@ -20,8 +19,8 @@ status: stub
 published: false
 source_doc: jmbras-242-singaravelu-professorka-1982-eea5312e706a
 source_path: ../sources/jmbras-242-singaravelu-professorka-1982-eea5312e706a.md
+publication_type: obituary
 ---
-
 
 # Obituary. K.A. Nilakanta Sastri
 

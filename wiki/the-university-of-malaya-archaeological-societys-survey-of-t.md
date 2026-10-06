@@ -5,8 +5,7 @@ title: The University of Malaya Archaeological Society’s survey of the Kuala M
   area (South Kedah), in July 1956
 canonical_name: The University of Malaya Archaeological Society’s survey of the Kuala
   Muda area (South Kedah), in July 1956
-type: article
-article_type: article
+type: publication
 authors:
 - Foong See-ton
 year: 1959
@@ -23,7 +22,9 @@ published: false
 source_doc: jmalayanras-185-tonn-universitymalayaarchaeological-1959-198ccbc43cee
 source_path: ../sources/jmalayanras-185-tonn-universitymalayaarchaeological-1959-198ccbc43cee.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The University of Malaya Archaeological Society’s survey of the Kuala Muda area (South Kedah), in July 1956
 
 Foong See Tonn's 1959 report documents the University of Malaya Archaeological Society's pilot survey of the Kuala Muda district in south Kedah, conducted in July 1956. The article catalogues eight sites—ranging from shell mounds and laterite structures to earthworks and inscribed stones—many of which local tradition attributes to the legendary figure Raja Bersiong, and records additional finds in the broader Kedah region. The survey was undertaken as a preliminary reconnaissance to determine whether the area warranted full-scale excavation in 1957 in conjunction with the Federation of Malaya Museums Department.

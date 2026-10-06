@@ -5,8 +5,7 @@ title: The circumstances surrounding the untimely death of Jan S. Timmerman-Thij
   governor of Malacca 1818-1823
 canonical_name: The circumstances surrounding the untimely death of Jan S. Timmerman-Thijssen,
   governor of Malacca 1818-1823
-type: article
-article_type: article
+type: publication
 authors:
 - D. Kraal
 year: 2010
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-298-kraal-circumstancessurroundinguntimely-2010-d0cf887d9a86
 source_path: ../sources/jmbras-298-kraal-circumstancessurroundinguntimely-2010-d0cf887d9a86/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The circumstances surrounding the untimely death of Jan S. Timmerman-Thijssen, governor of Malacca 1818-1823
 
 Diane Kraal's 2010 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* investigates the unexplained death of Jan S. Timmerman-Thijssen, the Dutch Governor of Malacca who died at age 40 in January 1823 without any official inquiry being held. Drawing on Dutch archival material translated into English for the first time, Kraal identifies four individuals—Tunku Hussein of Singapore, Arong Bilawa of the Riau Bugis, the trader Hendrik Kraal, and Timmerman-Thijssen's own wife Gesina Couperus—whose financial or political grievances against the Governor raise questions that remain unresolved, while simultaneously presenting evidence of the Governor's chronic ill-health that keeps the natural-causes hypothesis viable.

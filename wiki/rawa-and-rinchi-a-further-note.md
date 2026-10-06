@@ -3,8 +3,7 @@ id: rawa-and-rinchi-a-further-note
 work_id: jmbras-55-1-p82
 title: 'Rawa and Rinchi: a further note'
 canonical_name: 'Rawa and Rinchi: a further note'
-type: article
-article_type: article
+type: publication
 authors:
 - C.W. Watson
 year: 1982
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-242-watson-rawarinchinote-1982-4114674750a0
 source_path: ../sources/jmbras-242-watson-rawarinchinote-1982-4114674750a0/frontmatter.md
 summarized: true
+publication_type: note
 ---
+
 # Rawa and Rinchi: a further note
 
 C.W. Watson, a scholar of Kerinci history, published this short note in 1982 in response to A.G. Milner's 1978 article on the Rawa of nineteenth-century Malaya. Working from his own field research among the Kerinci people of central Sumatra, Watson challenges the prevailing identification of the *orang Rinchi* as followers of the Padri leader Tuanku nan Renceh, arguing instead that "Rinchi" is a corruption of "Kerinci" and that the Rawa who migrated to the Peninsula were in fact descendants of a mixed Kerinci-indigenous community established at the source of the Rekan river.

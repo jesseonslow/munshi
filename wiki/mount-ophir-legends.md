@@ -3,8 +3,7 @@ id: mount-ophir-legends
 work_id: jsbras-62-1-p24
 title: Mount Ophir legends
 canonical_name: Mount Ophir legends
-type: article
-article_type: article
+type: publication
 authors:
 - M.E. Staley
 year: 1912
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-062-staley-mountophirlegends-1912-c55279539115
 source_path: ../sources/jsbras-062-staley-mountophirlegends-1912-c55279539115.md
 summarized: true
+publication_type: note
 ---
+
 # Mount Ophir legends
 
 This short note by Dr. Mildred E. Staley records three ethnographic observations from the Malacca and Negri Sembilan region, published in the JSBRAS in December 1912 (p. 24).

@@ -3,8 +3,7 @@ id: baud-on-raffles
 work_id: jmbras-24-1-p109
 title: Baud on Raffles
 canonical_name: Baud on Raffles
-type: article
-article_type: article
+type: publication
 authors:
 - W.Ph. Coolhaas
 year: 1951
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-154-coolhaas-baudraffles-1951-5beeb728ac53
 source_path: ../sources/jmalayanras-154-coolhaas-baudraffles-1951-5beeb728ac53.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Baud on Raffles
 
 W. Ph. Coolhaas, a Dutch colonial historian and former director of the Batavian Archives, published this article in 1951 as a direct rebuttal to C. E. Wurtzburg's 1949 paper on the 1811 Palembang massacre. Writing from the Dutch historiographical tradition, Coolhaas defends the reputation of Jean Chrétien Baud—long maligned by Furnivall as an unscrupulous careerist—and argues that Baud's 1853 article attributing moral responsibility for the massacre to Raffles was fair, well-grounded, and based on documentary evidence that predated Baud's own publication. The overarching thesis is that Raffles, through imprudent and deliberately ambiguous Malay-language correspondence with Sultan Mahmud Badr'uddin, created the conditions for the murder of the Dutch community in Palembang, even if he did not consciously intend the killing.

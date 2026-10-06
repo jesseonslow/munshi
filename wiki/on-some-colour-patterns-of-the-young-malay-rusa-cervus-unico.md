@@ -5,8 +5,7 @@ title: On some colour patterns of the young Malay rusa (Cervus unicolor equinus)
   Records of the Raffles Museum, No. 9
 canonical_name: On some colour patterns of the young Malay rusa _(Cervus unicolor
   equinus)._ Records of the Raffles Museum, No. 9
-type: article
-article_type: article
+type: publication
 authors:
 - F.N. Chasen
 year: 1925
@@ -23,7 +22,9 @@ published: false
 source_doc: jmalayanras-093-chasen-colourpatternyoungmalay-1925-c9200c6f94f6
 source_path: ../sources/jmalayanras-093-chasen-colourpatternyoungmalay-1925-c9200c6f94f6.md
 summarized: true
+publication_type: note
 ---
+
 # On some colour patterns of the young Malay rusa (Cervus unicolor equinus). Records of the Raffles Museum, No. 9
 
 This short note by F. N. Chasen, Keeper of the Raffles Museum, documents the colour-pattern of a pre-natal fawn of the Malay Rusa (*Cervus unicolor equinus*) and compares it with previously recorded variation in spotted and unspotted young of the species.

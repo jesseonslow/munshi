@@ -5,8 +5,7 @@ title: Rainfall registered at the undermentioned stations, in the Straits Settle
   and the Native States, during the half-year ending 31st December 1879
 canonical_name: Rainfall registered at the undermentioned stations, in the Straits
   Settlements and the Native States, during the half-year ending 31st December 1879
-type: article
-article_type: article
+type: publication
 authors:
 - T.I. Rowell
 year: 1879
@@ -23,7 +22,9 @@ published: false
 source_doc: jsbras-004-rowell-rainfallregisteredundermentiond-1879-be8751449fae
 source_path: ../sources/jsbras-004-rowell-rainfallregisteredundermentiond-1879-be8751449fae.md
 summarized: true
+publication_type: note
 ---
+
 # Rainfall registered at the undermentioned stations, in the Straits Settlements and the Native States, during the half-year ending 31st December 1879
 
 This is a tabular rainfall report by T. Irvine Rowell, M.D., Principal Civil Medical Officer of the Straits Settlements, recording monthly precipitation in inches for the half-year ending 31st December 1879 (p. 62).

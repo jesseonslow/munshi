@@ -3,8 +3,7 @@ id: the-post-war-decade-in-malaya
 work_id: jmbras-60-1-p7
 title: The post-war decade in Malaya
 canonical_name: The post-war decade in Malaya
-type: article
-article_type: article
+type: publication
 authors:
 - C.M. Turnbull
 year: 1987
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-252-turnbull-postwardecademalaya-1987-0e76c6ee40f3
 source_path: ../sources/jmbras-252-turnbull-postwardecademalaya-1987-0e76c6ee40f3.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The post-war decade in Malaya
 
 C.M. Turnbull, a former Malayan Civil Service officer and professional historian, delivered this Annual Lecture to the MBRAS in October 1986, drawing on newly released official archives and the private papers of Malcolm MacDonald to reassess the post-war decade in Malaya. The article argues that the transition from colonial rule to independence was shaped less by grand strategic design than by the personal diplomacy of MacDonald, whose ability to build trust with Malay and Chinese leaders proved decisive in averting the kind of communal violence that had destroyed Palestine.

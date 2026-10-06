@@ -3,8 +3,7 @@ id: nyonya-needlework-from-penang
 work_id: jmbras-82-2-p145
 title: Nyonya needlework from Penang
 canonical_name: Nyonya needlework from Penang
-type: article
-article_type: article
+type: publication
 authors:
 - H.-F. Cheah
 year: 2009
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-297-cheah-nyonyaneedleworkpenang-2009-4bb1e17073bd
 source_path: ../sources/jmbras-297-cheah-nyonyaneedleworkpenang-2009-4bb1e17073bd/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Nyonya needlework from Penang
 
 Hwei-Fen Cheah (2009) examines the needlework traditions of Peranakan Chinese women in Penang, situating them within the broader network of Baba communities across the Straits Settlements and Sumatra. The article argues that while metallic thread embroidery maintained a shared regional style that reinforced a common Baba identity, silk thread embroidery and beadwork became vehicles for expressing distinct local character, with Penang developing a recognizable stylistic signature by the early twentieth century.

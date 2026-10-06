@@ -5,8 +5,7 @@ title: The letters of Sir Stamford Raffles to Nathaniel Wallich, 1819–1824. (w
   notes), . Bastin
 canonical_name: The letters of Sir Stamford Raffles to Nathaniel Wallich, 1819–1824.
   (with notes), . Bastin
-type: article
-article_type: article
+type: publication
 authors:
 - J.S. Bastin
 year: 1981
@@ -24,7 +23,9 @@ summarized: true
 source_mismatch: false
 source_doc: jmbras-240-bastin-letterssirstamford-1981-a65d44285ea3
 source_path: ../sources/jmbras-240-bastin-letterssirstamford-1981-a65d44285ea3.md
+publication_type: document
 ---
+
 # The letters of Sir Stamford Raffles to Nathaniel Wallich, 1819–1824. (with notes), . Bastin
 
 J.S. Bastin's 1981 edition of twenty-four letters from Sir Stamford Raffles to Nathaniel Wallich (1819–1824) provides the most intimate surviving record of Raffles' final years in Singapore and west Sumatra, drawn from two archival collections now held at the Calcutta Botanic Garden and the Koninklijke Bibliotheek, The Hague. The correspondence, which begins with a brief note from Penang in March 1819 and ends with a devastated account of the fire on the ship *Fame* in March 1824, reveals Raffles' personal reactions to administrative opposition, his deepening friendship with Wallich after the death of Dr. William Jack, and the practical details of Singapore's founding institutions.

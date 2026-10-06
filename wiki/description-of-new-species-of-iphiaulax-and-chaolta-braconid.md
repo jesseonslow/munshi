@@ -5,8 +5,7 @@ title: Description of new species of Iphiaulax and Chaolta (Braconidae) from Sar
   Borneo
 canonical_name: Description of new species of _Iphiaulax_ and _Chaolta_ (Braconidae)
   from Sarawak, Borneo
-type: article
-article_type: article
+type: publication
 authors:
 - P. Cameron
 year: 1905
@@ -29,7 +28,9 @@ published: false
 source_doc: jsbras-042-cameron-descriptionsnewspecies-1905-5c201445a2d6
 source_path: ../sources/jsbras-042-cameron-descriptionsnewspecies-1905-5c201445a2d6.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Description of new species of Iphiaulax and Chaolta (Braconidae) from Sarawak, Borneo
 
 P. Cameron published this taxonomic monograph in 1905 in the *Journal of the Straits Branch of the Royal Asiatic Society*, documenting a substantial array of new parasitic Hymenoptera species collected from Sarawak, Borneo. The paper describes approximately 28 new species of *Iphiaulax* and three new species of *Chaolta* (family Braconidae), organized into morphological groups, and represents one of the more extensive single-author contributions to Bornean Hymenoptera taxonomy in the early colonial period.

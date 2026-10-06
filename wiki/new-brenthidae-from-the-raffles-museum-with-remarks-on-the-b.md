@@ -5,8 +5,7 @@ title: New Brenthidae from the Raffles Museum, with remarks on the Brenthid faun
   of the Malay Peninsula
 canonical_name: New Brenthidae from the Raffles Museum, with remarks on the Brenthid
   fauna of the Malay Peninsula
-type: article
-article_type: article
+type: publication
 authors:
 - R. Kleine
 year: 1923
@@ -23,7 +22,9 @@ published: false
 source_doc: jmalayanras-088-kleine-newbrenthidaeraffles-1923-a756407d24f6
 source_path: ../sources/jmalayanras-088-kleine-newbrenthidaeraffles-1923-a756407d24f6.md
 summarized: true
+publication_type: journal_article
 ---
+
 # New Brenthidae from the Raffles Museum, with remarks on the Brenthid fauna of the Malay Peninsula
 
 R. Kleine, a German entomologist based in Stettin, published this taxonomic paper in 1923 describing eight new taxa (seven species and one genus) of Brentid weevils from the Raffles Museum collection in Singapore, while also compiling the first comprehensive faunal list of Brentidae known from the southern Malay Peninsula. The work was prompted by Major Moulton, Director of the Raffles Museum, who sent a collection for identification, and was translated into English by Dr. Hanitsch from Kleine's original German manuscript (p. 271).

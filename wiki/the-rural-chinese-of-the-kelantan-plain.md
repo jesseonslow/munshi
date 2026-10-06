@@ -3,8 +3,7 @@ id: the-rural-chinese-of-the-kelantan-plain
 work_id: jmbras-54-3-p1
 title: The rural Chinese of the Kelantan plain
 canonical_name: The rural Chinese of the Kelantan plain
-type: article
-article_type: article
+type: publication
 authors:
 - R.L. Winzeler
 year: 1981
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: false
 source_doc: jmbras-241-winzeler-ruralchinesekelantan-1981-b3186d04f0fb
 source_path: ../sources/jmbras-241-winzeler-ruralchinesekelantan-1981-b3186d04f0fb.md
+publication_type: journal_article
 ---
+
 # The rural Chinese of the Kelantan plain
 
 Robert L. Winzeler's 1981 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* presents a detailed ethnographic study of two rural Chinese villages in Pasir Mas District, Kelantan, based on systematic household surveys conducted in 1975. The central argument is that these long-settled, locally acculturated Chinese—referred to in Malay as *cina kampung*—constitute a distinct cultural formation whose patterns of bilingualism, bilateral kinship, mixed architecture, and village-god ritual differ significantly from both the Straits Chinese babas and the more recently arrived immigrant Chinese, and whose continued viability is now threatened by the political-economic transformations of post-independence Malaysia.

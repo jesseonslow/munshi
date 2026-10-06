@@ -3,8 +3,7 @@ id: notes-on-two-uncommon-varieties-of-the-malay-kris
 work_id: jmbras-11-2-p178
 title: Notes on two uncommon varieties of the Malay kris
 canonical_name: Notes on two uncommon varieties of the Malay kris
-type: article
-article_type: article
+type: publication
 authors:
 - G.B. Gardner
 year: 1933
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-117-gardner-notestwouncommon-1933-31c858a85c8d
 source_path: ../sources/jmalayanras-117-gardner-notestwouncommon-1933-31c858a85c8d.md
 summarized: true
+publication_type: note
 ---
+
 # Notes on two uncommon varieties of the Malay kris
 
 G.B. Gardner, a British resident in Malaya for twenty years, published this short note in 1933 describing two exceptionally rare varieties of the Malay kris—the *Keris Majapahit* and the *Keris Pichit*—drawing on his personal collection, museum specimens, and extensive Malay oral testimony to argue that these weapons are ancient relics from a period when iron was scarce and its working was shrouded in ritual secrecy.

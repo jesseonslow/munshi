@@ -3,8 +3,7 @@ id: malay-superstitions-nq-2-5354
 work_id: jsbras-15-malay-superstitions-nq-2-5354
 title: 'Malay superstitions. NQ 2: 53–54'
 canonical_name: 'Malay superstitions. NQ 2: 53–54'
-type: article
-article_type: notes_and_queries
+type: publication
 authors:
 - Anon (and unidentifiable initials)
 - G. Copley
@@ -21,6 +20,7 @@ status: stub
 published: false
 source_doc: jsbras-015-miscellaneous-1885-40d0199d401
 source_path: ../sources/jsbras-015-miscellaneous-1885-40d0199d401.md
+publication_type: note
 ---
 
 # Malay superstitions. NQ 2: 53–54

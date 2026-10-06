@@ -3,8 +3,7 @@ id: two-early-muslim-tombs-at-brunei
 work_id: jmbras-11-2-p183
 title: Two early Muslim tombs at Brunei
 canonical_name: Two early Muslim tombs at Brunei
-type: article
-article_type: article
+type: publication
 authors:
 - T.F. Carey
 year: 1933
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-117-carey-twoearlymuslim-1933-41bf56039211
 source_path: ../sources/jmalayanras-117-carey-twoearlymuslim-1933-41bf56039211.md
 summarized: true
+publication_type: note
 ---
+
 # Two early Muslim tombs at Brunei
 
 This brief note by T. F. Carey (M.C.S.) reports the discovery of two early Muslim grave-stones with Arabic-Malay inscriptions near the supposed site of the palace of Nakhoda Ragam at Brunei (p. 183).

@@ -3,8 +3,7 @@ id: some-notes-on-malay-card-games
 work_id: jsbras-45-1-p85
 title: Some notes on Malay card games
 canonical_name: Some notes on Malay card games
-type: article
-article_type: article
+type: publication
 authors:
 - R.O. Winstedt
 year: 1906
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-045-winstedt-notesmalaycard-1906-227472df3db7
 source_path: ../sources/jsbras-045-winstedt-notesmalaycard-1906-227472df3db7.md
 summarized: true
+publication_type: note
 ---
+
 # Some notes on Malay card games
 
 R.O. Winstedt, a British colonial administrator in Perak, published these notes in 1906 as a supplement to W.W. Skeat's earlier treatment of Malay card games in *Malay Magic*, documenting local rule variations and unrecorded Malay terminology across four distinct games. The article is a compact ethnolinguistic record rather than a theoretical study, drawing on Winstedt's direct observation of play in Perak, Selangor, and Singapore.

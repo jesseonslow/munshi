@@ -5,8 +5,7 @@ title: 'The greening of Singapore: parks and roadside trees from colonial rule t
   the present'
 canonical_name: 'The greening of Singapore: parks and roadside trees from colonial
   rule to the present'
-type: article
-article_type: article
+type: publication
 authors:
 - Lim Tin Seng
 year: 2018
@@ -30,7 +29,9 @@ keywords:
 - roadside trees
 - Singapore Improvement Trust
 - Singapore Botanical Garden
+publication_type: journal_article
 ---
+
 # The greening of Singapore: parks and roadside trees from colonial rule to the present
 
 ## Abstract

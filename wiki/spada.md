@@ -3,8 +3,7 @@ id: spada
 work_id: jsbras-50-1-p97
 title: Spada
 canonical_name: Spada
-type: article
-article_type: article
+type: publication
 authors:
 - W.G. Maxwell
 year: 1908
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-050-mexwell-spada-1908-1cc5b1e57d4b
 source_path: ../sources/jsbras-050-mexwell-spada-1908-1cc5b1e57d4b.md
 summarized: true
+publication_type: note
 ---
+
 # Spada
 
 This short note by W. George Mexwell proposes an etymology for the word "spada," the common call for a servant in the Dutch East Indies, arguing that it derives from the Malay phrase "siapa ada" (is anyone there?), which was itself a translation of the Bengali call "koi hai" introduced by East India Company servants who had previously served in Calcutta (p. 97).

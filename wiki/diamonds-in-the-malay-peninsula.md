@@ -3,8 +3,7 @@ id: diamonds-in-the-malay-peninsula
 work_id: jsbras-24-1-p166
 title: Diamonds in the Malay Peninsula
 canonical_name: Diamonds in the Malay Peninsula
-type: article
-article_type: article
+type: publication
 authors:
 - H.N. Ridley
 year: 1891
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-024-r-diamondsmalaypeninsula-1891-7fb52c30a88d
 source_path: ../sources/jsbras-024-r-diamondsmalaypeninsula-1891-7fb52c30a88d.md
 summarized: true
+publication_type: note
 ---
+
 # Diamonds in the Malay Peninsula
 
 A brief note by H. N. Ridley in the *Journal of the Straits Branch of the Royal Asiatic Society* (Vol. 24, 1891) addressing the absence of recent diamond discoveries in the Malay Peninsula and raising a toponymic query.

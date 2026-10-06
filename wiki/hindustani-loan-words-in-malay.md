@@ -3,8 +3,7 @@ id: hindustani-loan-words-in-malay
 work_id: jsbras-76-1-p67
 title: Hindustani loan-words in Malay
 canonical_name: Hindustani loan-words in Malay
-type: article
-article_type: article
+type: publication
 authors:
 - R.O. Winstedt
 year: 1917
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-076-winstedt-hindustaniloanwordsmalay-1917-394b932a0f2d
 source_path: ../sources/jsbras-076-winstedt-hindustaniloanwordsmalay-1917-394b932a0f2d.md
 summarized: true
+publication_type: note
 ---
+
 # Hindustani loan-words in Malay
 
 This is a short note by R. O. Winstedt, published in the *Journal of the Straits Branch of the Royal Asiatic Society* (No. 76, 1917), extracting a list of Malay words of Hindustani derivation from a 1902 article by Dr. Ph. S. van Ronkel.

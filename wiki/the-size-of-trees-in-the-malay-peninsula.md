@@ -3,8 +3,7 @@ id: the-size-of-trees-in-the-malay-peninsula
 work_id: jmbras-4-3-p382
 title: The size of trees in the Malay Peninsula
 canonical_name: The size of trees in the Malay Peninsula
-type: article
-article_type: article
+type: publication
 authors:
 - F.W. Foxworthy
 year: 1926
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-098-foxworthy-sizetreesmalay-1926-952319c64892
 source_path: ../sources/jmalayanras-098-foxworthy-sizetreesmalay-1926-952319c64892.md
 summarized: true
+publication_type: note
 ---
+
 # The size of trees in the Malay Peninsula
 
 This short note by F. W. Foxworthy, published in the *Journal of the Malayan Branch of the Royal Asiatic Society* (Vol. 4, No. 3, 1926), documents the recorded dimensions of the largest trees in the Malay Peninsula, covering both height and diameter/girth measurements.

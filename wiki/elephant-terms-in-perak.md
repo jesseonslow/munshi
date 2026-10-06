@@ -3,8 +3,7 @@ id: elephant-terms-in-perak
 work_id: jmbras-5-2-p364
 title: Elephant terms in Perak
 canonical_name: Elephant terms in Perak
-type: article
-article_type: article
+type: publication
 authors:
 - H.E. Miller
 year: 1927
@@ -20,6 +19,7 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+publication_type: note
 ---
 
 # Elephant terms in Perak

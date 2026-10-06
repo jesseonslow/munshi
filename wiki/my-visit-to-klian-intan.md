@@ -3,8 +3,7 @@ id: my-visit-to-klian-intan
 work_id: jsbras-54-1-p136
 title: My visit to Klian Intan
 canonical_name: My visit to Klian Intan
-type: article
-article_type: article
+type: publication
 authors:
 - E.W. Birch
 year: 1910
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-054-birch-visitklianintan-1910-11a5442cc62e
 source_path: ../sources/jsbras-054-birch-visitklianintan-1910-11a5442cc62e.md
 summarized: true
+publication_type: journal_article
 ---
+
 # My visit to Klian Intan
 
 E. W. Birch, C.M.G., a senior British colonial administrator, published this account in 1910 of his June 1909 expedition to the Klian Intan tin-mining district in the upper Perak River basin, shortly after the Anglo-Siamese Treaty of March 1909 transferred the disputed Reman territory from Patani to Perak. The article serves simultaneously as a field report on the practical challenges of administering newly acquired territory, a survey of the tin-mining operations there, and a historical meditation on the long-standing Perak–Patani boundary dispute that the treaty finally resolved.

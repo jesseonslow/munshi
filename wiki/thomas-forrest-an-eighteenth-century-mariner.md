@@ -3,8 +3,7 @@ id: thomas-forrest-an-eighteenth-century-mariner
 work_id: jmbras-34-2-p106
 title: Thomas Forrest, an eighteenth century mariner
 canonical_name: Thomas Forrest, an eighteenth century mariner
-type: article
-article_type: article
+type: publication
 authors:
 - D.K. Bassett
 year: 1961
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-194-bassett-thomasforresteighteenth-1961-f2cff61ea8d4
 source_path: ../sources/jmalayanras-194-bassett-thomasforresteighteenth-1961-f2cff61ea8d4.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Thomas Forrest, an eighteenth century mariner
 
 D.K. Bassett's 1961 article reconstructs the career of Thomas Forrest, a versatile mariner in the East India Company's Marine who served in Southeast Asian waters for over thirty years during the mid-eighteenth century. Drawing on India Office and British Museum archives, Bassett corrects the assumption of Sir John Laughton that Forrest's own publications were the only source of significance, and demonstrates that Forrest's strategic contributions to British policy in the Strait of Malacca—particularly his advocacy for Penang and the Mergui Archipelago—have been historically overshadowed by the better-known efforts of Francis Light.

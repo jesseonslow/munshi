@@ -3,8 +3,7 @@ id: chai-mui-hokkien-hoah-koon-nq-2-5456
 work_id: jsbras-15-chai-mui-hokkien-hoah-koon-nq-
 title: '“Chai mui”, (Hokkien “hoah-koon”). NQ 2: 54–56'
 canonical_name: '_“Chai mui”,_ (Hokkien _“hoah-koon”)._ NQ 2: 54–56'
-type: article
-article_type: notes_and_queries
+type: publication
 authors:
 - W.A. Pickering
 year: 1885
@@ -18,6 +17,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: note
 ---
 
 # “Chai mui”, (Hokkien “hoah-koon”). NQ 2: 54–56

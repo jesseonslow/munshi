@@ -3,8 +3,7 @@ id: obituary-jm-echols
 work_id: jmbras-56-1-p66
 title: 'Obituary: J.M. Echols'
 canonical_name: 'Obituary: J.M. Echols'
-type: article
-article_type: obituary
+type: publication
 authors:
 - Wolff. J
 year: 1983
@@ -20,8 +19,8 @@ status: stub
 published: false
 source_doc: jmbras-244-wolff-obituaryproffessorjm-1983-ba958a269e3c
 source_path: ../sources/jmbras-244-wolff-obituaryproffessorjm-1983-ba958a269e3c.md
+publication_type: obituary
 ---
-
 
 # Obituary: J.M. Echols
 

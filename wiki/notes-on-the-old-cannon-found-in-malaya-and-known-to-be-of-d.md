@@ -4,8 +4,7 @@ work_id: jmbras-26-1-p145
 title: Notes on the old cannon found in Malaya, and known to be of Dutch origin
 canonical_name: Notes on the old cannon found in Malaya, and known to be of Dutch
   origin
-type: article
-article_type: article
+type: publication
 authors:
 - C.A. Gibson-Hill
 year: 1953
@@ -22,7 +21,9 @@ published: false
 source_doc: jmalayanras-161-gibsonhill-notesoldcannon-1953-d4d17625246c
 source_path: ../sources/jmalayanras-161-gibsonhill-notesoldcannon-1953-d4d17625246c/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Notes on the old cannon found in Malaya, and known to be of Dutch origin
 
 C. A. Gibson-Hill published this survey in 1953, tracing the surviving Dutch-origin cannon in Malaya through their casting, transfer, and local histories spanning the seventeenth to nineteenth centuries. The article argues that the Malays never produced true cannon of their own design, that all surviving *meriam* of European make were acquired by barter, gift, or seizure, and that the handful of Dutch pieces still identifiable in the peninsula constitute a small but historically rich corpus warranting individual attention.

@@ -3,8 +3,7 @@ id: raja-brookes-coal-mining-concession-in-brunei
 work_id: jmbras-59-1-p49
 title: Raja Brooke’s coal mining concession in Brunei
 canonical_name: Raja Brooke’s coal mining concession in Brunei
-type: article
-article_type: article
+type: publication
 authors:
 - A.V.M. Horton
 year: 1986
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-250-horton-rajahcharlesbrooke-1986-daf3bad72bc2
 source_path: ../sources/jmbras-250-horton-rajahcharlesbrooke-1986-daf3bad72bc2.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Raja Brooke’s coal mining concession in Brunei
 
 A.V.M. Horton (1986) examines the commercial and political dimensions of Rajah Charles Brooke's coal mining concession in Brunei (1888–1924), arguing that the enterprise was sustained not by economic viability but by strategic calculations to control the Sultanate of Brunei and prevent rival colonial powers from gaining a foothold on Borneo's northwest coast. The article draws extensively on Foreign Office and Colonial Office correspondence to reconstruct the diplomatic contest over the Muaras and the financial record of the mine.

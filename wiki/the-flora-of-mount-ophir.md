@@ -3,8 +3,7 @@ id: the-flora-of-mount-ophir
 work_id: jsbras-35-1-p1
 title: The flora of Mount Ophir
 canonical_name: The flora of Mount Ophir
-type: article
-article_type: article
+type: publication
 authors:
 - H.N. Ridley
 year: 1901
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: false
 source_doc: jsbras-035-ridley-floramountophir-1901-f836ff7bc38e
 source_path: ../sources/jsbras-035-ridley-floramountophir-1901-f836ff7bc38e.md
+publication_type: journal_article
 ---
+
 # The flora of Mount Ophir
 
 H. N. Ridley's "The Flora of Mount Ophir" (1901) is the first comprehensive botanical account of the isolated mountain range in Malacca, focusing on the characteristic upper flora between 3,000 and 4,000 feet altitude. Drawing on his own two expeditions and the collections of Griffith, Maingay, Hullett, and Derry, Ridley argues that the Ophir flora is composed of three distinct elements—Malayan lowland, alpine, and a remarkable Australian component—that together point to a complex geological and climatic history for the peninsula.

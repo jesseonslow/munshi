@@ -3,8 +3,7 @@ id: early-muslim-traders-in-south-east-asia
 work_id: jmbras-30-1-p1
 title: Early Muslim traders in South-East Asia
 canonical_name: Early Muslim traders in South-East Asia
-type: article
-article_type: article
+type: publication
 authors:
 - G.R. Tibbetts
 year: 1957
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: true
 source_doc: jmalayanras-177-tibbetts-earlymuslimtraders-1957-0cbab7d418ec
 source_path: ../sources/bibliography.md
+publication_type: journal_article
 ---
+
 # Early Muslim traders in South-East Asia
 
 G.R. Tibbetts, a British orientalist and librarian, published this comprehensive survey in 1957, tracing the commercial activities of Muslim traders from the Persian Gulf and Red Sea in South-East Asia from the rise of Islam through the Mongol period. His central argument is that Arab and Persian merchants from the Gulf region dominated the maritime trade between the Middle East and the Far East, that this trade peaked in the tenth century, and that the geographical reach of Arab commerce in the archipelago was far more limited than later scholars had assumed.

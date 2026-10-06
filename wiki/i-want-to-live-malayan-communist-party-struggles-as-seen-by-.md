@@ -4,8 +4,7 @@ work_id: jmbras-94-1-p75
 title: '''I Want to Live'': Malayan Communist Party Struggles as Seen by Female Defectors'
 canonical_name: '''I Want to Live'': Malayan Communist Party Struggles as Seen by
   Female Defectors'
-type: article
-article_type: article
+type: publication
 authors:
 - Mahani Musa
 year: 2021
@@ -29,7 +28,9 @@ keywords:
 source_doc: musa-i-want-to-live-9d3b24ec75e8
 source_path: ../sources/musa-i-want-to-live-9d3b24ec75e8/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # 'I Want to Live': Malayan Communist Party Struggles as Seen by Female Defectors
 
 ## Abstract

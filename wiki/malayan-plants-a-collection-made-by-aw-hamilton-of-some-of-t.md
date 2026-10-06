@@ -7,8 +7,7 @@ title: 'Malayan plants: a collection made by A.W. Hamilton of some of the common
 canonical_name: 'Malayan plants: a collection made by A.W. Hamilton of some of the
   commoner plants and littoral trees found on Singapore Island. Identifications and
   descriptions. R.E. Holttum'
-type: article
-article_type: article
+type: publication
 authors:
 - Hamilton A.W
 - T. Kitching
@@ -26,7 +25,9 @@ published: false
 source_doc: jmalayanras-110-hamilton-malayanplants-1930-eb02647dcce7
 source_path: ../sources/jmalayanras-110-hamilton-malayanplants-1930-eb02647dcce7.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Malayan plants: a collection made by A.W. Hamilton of some of the commoner plants and littoral trees found on Singapore Island. Identifications and descriptions. R.E. Holttum
 
 A.W. Hamilton and R.E. Holttum (1930) produced a practical identification guide to approximately 115 common plants and littoral trees of Singapore Island, organized under local Malay and Chinese vernacular names. Drawing on Hamilton's field collection and Holttum's taxonomic authority at the Singapore Botanic Gardens, the work functions as a bridge between indigenous botanical knowledge and Western scientific nomenclature, providing brief diagnostic descriptions for each entry.

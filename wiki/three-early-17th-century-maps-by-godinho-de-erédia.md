@@ -3,8 +3,7 @@ id: three-early-17th-century-maps-by-godinho-de-erédia
 work_id: jmbras-92-2-p1
 title: Three early 17th-century maps by Godinho de Erédia
 canonical_name: Three early 17th-century maps by Godinho de Erédia
-type: article
-article_type: article
+type: publication
 authors:
 - P. Borschberg
 year: 2019
@@ -33,7 +32,9 @@ keywords:
 - '![Three Early 17th-century Maps by Manuel Godinho de Erédia'
 - 'Author(s): Peter Borschberg](assets/p1_img0.jpg)'
 - '![Figure](assets/p1_img1.jpg)'
+publication_type: journal_article
 ---
+
 # Three early 17th-century maps by Godinho de Erédia
 
 ## Abstract

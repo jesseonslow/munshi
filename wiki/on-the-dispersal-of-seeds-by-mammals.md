@@ -3,8 +3,7 @@ id: on-the-dispersal-of-seeds-by-mammals
 work_id: jsbras-25-1-p11
 title: On the dispersal of seeds by mammals
 canonical_name: On the dispersal of seeds by mammals
-type: article
-article_type: article
+type: publication
 authors:
 - H.N. Ridley
 year: 1894
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-025-ridley-dispersalseedsmammals-1894-3926e66e882e
 source_path: ../sources/jsbras-025-ridley-dispersalseedsmammals-1894-3926e66e882e.md
 summarized: true
+publication_type: journal_article
 ---
+
 # On the dispersal of seeds by mammals
 
 H. N. Ridley, first Director of the Singapore Botanic Gardens, published this ecological study in 1894 in the Journal of the Straits Branch of the Royal Asiatic Society, drawing on extensive field observations across the Malay Peninsula to argue that mammals—though secondary to birds—constitute a significant and evolutionarily formative agent of seed dispersal in tropical forests. His central thesis is that the morphological characteristics of mammal-dispersed fruits (dull colouration, large size, smooth or slippery surfaces) represent adaptive responses to the specific foraging behaviours of monkeys, bears, squirrels, civets, and bats, and that these interactions have shaped the flora of the region as profoundly as insect pollination has shaped flowers.

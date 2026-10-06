@@ -3,8 +3,7 @@ id: crawfurd-and-baud-on-free-and-forced-labour-in-java
 work_id: jmbras-29-1-p195
 title: Crawfurd and Baud on free and forced labour in Java
 canonical_name: Crawfurd and Baud on free and forced labour in Java
-type: article
-article_type: article
+type: publication
 authors:
 - J.S. Bastin
 year: 1956
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-173-bastin-crawfurdbaudfree-1956-eefae46ce305
 source_path: ../sources/jmalayanras-173-bastin-crawfurdbaudfree-1956-eefae46ce305.md
 summarized: true
+publication_type: document
 ---
+
 # Crawfurd and Baud on free and forced labour in Java
 
 John Bastin published this brief article in 1956, presenting a 1857–58 correspondence between the British colonial administrator John Crawfurd and the Dutch statesman J.C. Baud in which the two debated the merits of free versus compulsory labour in colonial Java. The exchange centres on Baud's defence of the Dutch *cultuursysteem* (culture system) of 1832 against Crawfurd's liberal critique, and it illuminates the ideological fault lines between British and Dutch colonial economic philosophy in the mid-nineteenth century.

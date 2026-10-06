@@ -3,8 +3,7 @@ id: tokin
 work_id: jmbras-9-1-p137
 title: Tokin
 canonical_name: Tokin
-type: article
-article_type: article
+type: publication
 authors:
 - R.O. Winstedt
 year: 1931
@@ -27,7 +26,9 @@ published: false
 source_doc: jmalayanras-111-winstedt-tokin-1931-a94808e2b79d
 source_path: ../sources/jmalayanras-111-winstedt-tokin-1931-a94808e2b79d.md
 summarized: true
+publication_type: note
 ---
+
 # Tokin
 
 This short note by R. O. Winstedt examines the etymology and distribution of the word *tokin*, the name of a ceremonial iron rod among the insignia of the rulers of Johore.

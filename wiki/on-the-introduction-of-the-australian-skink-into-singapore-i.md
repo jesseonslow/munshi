@@ -5,8 +5,7 @@ title: On the introduction of the Australian skink into Singapore Island. Record
   of the Raffles Museum, No. 12
 canonical_name: On the introduction of the Australian skink into Singapore Island.
   Records of the Raffles Museum, No. 12
-type: article
-article_type: article
+type: publication
 authors:
 - F.N. Chasen
 year: 1925
@@ -23,7 +22,9 @@ published: false
 source_doc: jmalayanras-093-chasen-introductionaustralianscink-1925-0e0e051f4d04
 source_path: ../sources/jmalayanras-093-chasen-introductionaustralianscink-1925-0e0e051f4d04.md
 summarized: true
+publication_type: note
 ---
+
 # On the introduction of the Australian skink into Singapore Island. Records of the Raffles Museum, No. 12
 
 This short note by F. N. Chasen, published in the *Journal of the Malayan Branch of the Royal Asiatic Society* (Vol. 3, No. 1, 1925), documents the discovery of the Australian scink *Egernia depressa* in Singapore and places it within a broader discussion of artificially introduced reptile and amphibian species on the island.

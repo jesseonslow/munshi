@@ -3,8 +3,7 @@ id: earthquake-in-the-malay-peninsula
 work_id: jsbras-25-1-p160
 title: Earthquake in the Malay Peninsula
 canonical_name: Earthquake in the Malay Peninsula
-type: article
-article_type: article
+type: publication
 authors:
 - H.N. Ridley
 year: 1894
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-025-r-earthquakemalaypeninsula-1894-0e64efac6c4e
 source_path: ../sources/jsbras-025-r-earthquakemalaypeninsula-1894-0e64efac6c4e.md
 summarized: true
+publication_type: note
 ---
+
 # Earthquake in the Malay Peninsula
 
 This note by H. N. Ridley documents the earthquake of 17 May 1892 that affected the Malay Peninsula and parts of Sumatra, published in the *Journal of the Straits Branch of the Royal Asiatic Society* (Vol. 25, 1894).

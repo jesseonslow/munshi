@@ -3,8 +3,7 @@ id: the-antiquity-of-domesticated-pigs-in-sarawak
 work_id: jmbras-46-2-p169
 title: The antiquity of domesticated pigs in Sarawak
 canonical_name: The antiquity of domesticated pigs in Sarawak
-type: article
-article_type: article
+type: publication
 authors:
 - Gathorne Gathorne-Hardy, Lord (Earl of Cranbrook) Medway
 year: 1973
@@ -28,7 +27,9 @@ reprints:
 source_doc: jmbras-224-medway-amiquitydomesticatedpigs-1973-6f04be068c0c
 source_path: ../sources/jmbras-224-medway-amiquitydomesticatedpigs-1973-6f04be068c0c.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The antiquity of domesticated pigs in Sarawak
 
 Lord Medway's 1973 article establishes that domesticated pigs of *Sus scrofa* descent were present in Sarawak by the Neolithic period (c. 1165 BC) and that the ritual deposition of pig jaw-bones in funerary contexts persisted with remarkable continuity through to the Ming period and beyond. Drawing on osteological specimens from two Sarawak Museum cave excavations—Megala E and Lobang Kudih—Medway demonstrates that the pigs represented were not the indigenous Bearded Pig (*Sus barbatus*) but imported domestic stock, and that their ritual use mirrors ethnographically documented Kenyah and Kayan funeral customs.

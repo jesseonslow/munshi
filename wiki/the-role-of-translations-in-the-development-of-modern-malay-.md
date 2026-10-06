@@ -3,8 +3,7 @@ id: the-role-of-translations-in-the-development-of-modern-malay-
 work_id: jmbras-80-1-p91
 title: The role of translations in the development of modern Malay literature
 canonical_name: The role of translations in the development of modern Malay literature
-type: article
-article_type: article
+type: publication
 authors:
 - H. Warnk
 year: 2007
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-292-warnk-roletranslationsdevelopment-2007-cf6fc1397def
 source_path: ../sources/jmbras-292-warnk-roletranslationsdevelopment-2007-cf6fc1397def/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The role of translations in the development of modern Malay literature
 
 Holger Warnk's 2007 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* argues that translations from European, Chinese, Urdu, and Arabic sources were a foundational but systematically overlooked force in the emergence of modern Malay literature between 1850 and 1950, serving as the vehicle through which the novel form, realistic prose style, and modern concepts of authorship entered both the Malay Peninsula and the Netherlands East Indies.

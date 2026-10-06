@@ -3,8 +3,7 @@ id: notes-on-economic-plants-straits-settlements
 work_id: jsbras-18-1-p293
 title: Notes on economic plants, Straits Settlements
 canonical_name: Notes on economic plants, Straits Settlements
-type: article
-article_type: article
+type: publication
 authors:
 - Nathaniel Cantley
 editors:
@@ -23,7 +22,9 @@ published: false
 source_doc: jsbras-018-m-noteseconomicplants-1886-ae859da348bf
 source_path: ../sources/jsbras-018-m-noteseconomicplants-1886-ae859da348bf/frontmatter.md
 summarized: true
+publication_type: note
 ---
+
 # Notes on economic plants, Straits Settlements
 
 Nathaniel Cantley, Superintendent of the Botanical Gardens in Singapore, published these notes in 1886 as an appendix to his Annual Report on the Forest Department for the Straits Settlements, reprinted in the *Journal of the Siam Branch of the Royal Asiatic Society* for wider circulation. The work constitutes a systematic colonial agricultural survey aimed at identifying and promoting "minor industries" that could diversify the colony's economic base beyond its dominant exports of pepper, gutta-percha, and coffee (p. 295).

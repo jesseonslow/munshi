@@ -3,8 +3,7 @@ id: selangor-187682-the-bloomfield-douglas-diary
 work_id: jmbras-48-2-p1
 title: 'Selangor, 1876–82: the Bloomfield Douglas diary'
 canonical_name: 'Selangor, 1876–82: the Bloomfield Douglas diary'
-type: article
-article_type: article
+type: publication
 authors:
 - J.M. Gullick
 year: 1975
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: true
 source_doc: jmbras-228-gullick-selangor1876-1975-bb26f18757a1
 source_path: ../sources/jmbras-228-gullick-selangor1876-1975-bb26f18757a1.md
+publication_type: journal_article
 ---
+
 # Selangor, 1876–82: the Bloomfield Douglas diary
 
 J.M. Gullick's 1975 article presents selections from the newly discovered private diary of W. Bloomfield Douglas, who served as Resident of Selangor from 1876 to 1882, offering substantial additional detail on the political and economic history of the state in its formative years under British protectorate. Set against the backdrop of post-civil war reconstruction, the diary illuminates the complex distribution of power among Selangor's Malay leadership and challenges the conventional Swettenham-derived image of Sultan Abdul Samad as a passive, indifferent ruler.

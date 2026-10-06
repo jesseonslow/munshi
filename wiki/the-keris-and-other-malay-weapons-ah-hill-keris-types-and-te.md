@@ -5,8 +5,7 @@ title: The keris and other Malay weapons, A.H. Hill; keris types and terms, Geof
   Hodgson
 canonical_name: The _keris_ and other Malay weapons, A.H. Hill; _keris_ types and
   terms, Geoffrey Hodgson
-type: article
-article_type: article
+type: publication
 authors:
 - A.H. Hill
 - G. Hodgson
@@ -23,6 +22,7 @@ status: stub
 published: false
 summarized: false
 source_mismatch: true
+publication_type: journal_article
 ---
 
 # The keris and other Malay weapons, A.H. Hill; keris types and terms, Geoffrey Hodgson

@@ -3,8 +3,7 @@ id: the-kedah-succession-crisis-18791882-with-comments-by-jm-gul
 work_id: jmbras-62-2-p81
 title: The Kedah succession crisis 1879–1882 {with comments by J.M. Gullick
 canonical_name: The Kedah succession crisis 1879–1882 {with comments by J.M. Gullick}
-type: article
-article_type: article
+type: publication
 authors:
 - Kobkua Suwannathat-Pian
 year: 1989
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-257-suwannathatpian-kedahsuccessioncrisis-1989-0b477b1b9b36
 source_path: ../sources/jmbras-257-suwannathatpian-kedahsuccessioncrisis-1989-0b477b1b9b36/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The Kedah succession crisis 1879–1882 {with comments by J.M. Gullick
 
 Kobkua Suwannathat-Pian's 1989 article examines the Kedah succession crisis of 1879–1882, a period of intense intra-dynastic conflict following the death of Sultan Ahmad Tajuddin II, arguing that Siamese suzerain intervention was the decisive mechanism that prevented the state from descending into armed civil war and that the episode exemplifies the constructive dimension of the post-1842 tributary relationship between Bangkok and Kedah.

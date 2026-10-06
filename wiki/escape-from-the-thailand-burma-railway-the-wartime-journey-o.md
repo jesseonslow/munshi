@@ -5,8 +5,7 @@ title: 'Escape from the Thailand-Burma Railway: The Wartime Journey of Teh bin S
   P.H. Kratoska and Yuszah Akmal binti Yusoff'
 canonical_name: 'Escape from the Thailand-Burma Railway: The Wartime Journey of Teh
   bin Said. P.H. Kratoska and Yuszah Akmal binti Yusoff'
-type: article
-article_type: article
+type: publication
 authors:
 - P.H. Kratoska
 - Yuszah Akmal binti Yusoff
@@ -21,6 +20,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: review
 ---
 
 # Escape from the Thailand-Burma Railway: The Wartime Journey of Teh bin Said. P.H. Kratoska and Yuszah Akmal binti Yusoff

@@ -3,8 +3,7 @@ id: objects-from-the-tui-gold-mine-pahang
 work_id: jmbras-26-1-p219
 title: Objects from the Tui gold mine, Pahang
 canonical_name: Objects from the Tui gold mine, Pahang
-type: article
-article_type: article
+type: publication
 authors:
 - M.W.F. Tweedie
 year: 1953
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-161-tweedie-objectstuigold-1953-4bacd6953c88
 source_path: ../sources/jmalayanras-161-tweedie-objectstuigold-1953-4bacd6953c88.md
 summarized: true
+publication_type: note
 ---
+
 # Objects from the Tui gold mine, Pahang
 
 This short note by M.W.F. Tweedie reports expert identifications of bronze objects previously recovered from the Tui Gold Mine, Pahang, and a Chinese coin found there, providing evidence for the date and origin of mining activity at the site.

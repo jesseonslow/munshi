@@ -3,8 +3,7 @@ id: the-formation-of-the-malayan-chinese-association-mca-revisit
 work_id: jmbras-88-2-p105
 title: The formation of the Malayan Chinese Association (MCA) revisited
 canonical_name: The formation of the Malayan Chinese Association (MCA) revisited
-type: article
-article_type: article
+type: publication
 authors:
 - Tan Miau Ing
 year: 2015
@@ -32,7 +31,9 @@ keywords:
 - Yong Shook Lin
 - Ong Chong Keng
 - © Malaysian Branch of the Royal Asiatic Society
+publication_type: journal_article
 ---
+
 # The formation of the Malayan Chinese Association (MCA) revisited
 
 ## Abstract

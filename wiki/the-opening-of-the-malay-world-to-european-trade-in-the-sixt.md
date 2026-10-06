@@ -4,8 +4,7 @@ work_id: jmbras-58-2-p85
 title: The opening of the Malay world to European trade in the sixteenth century
 canonical_name: The opening of the Malay world to European trade in the sixteenth
   century
-type: article
-article_type: article
+type: publication
 authors:
 - Hall K.R
 year: 1985
@@ -22,7 +21,9 @@ published: false
 source_doc: jmbras-249-hall-openingmalayworld-1985-12b3cc339d8d
 source_path: ../sources/jmbras-249-hall-openingmalayworld-1985-12b3cc339d8d/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The opening of the Malay world to European trade in the sixteenth century
 
 Kenneth R. Hall's 1985 article argues that the Portuguese and Spanish entry into Southeast Asian waters in the early sixteenth century did not create or fundamentally transform regional commerce but was absorbed into pre-existing exchange networks that had been expanding since the fourteenth century. Hall contends that the era of European arrival coincided with a high point of indigenous Southeast Asian statecraft and commercial development, and that local populations reacted to the Europeans as they would to any other new trading partner.

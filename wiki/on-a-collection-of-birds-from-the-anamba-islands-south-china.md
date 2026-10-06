@@ -3,8 +3,7 @@ id: on-a-collection-of-birds-from-the-anamba-islands-south-china
 work_id: jmbras-6-3-p43
 title: On a collection of birds from the Anamba Islands, South China Sea
 canonical_name: On a collection of birds from the Anamba Islands, South China Sea
-type: article
-article_type: article
+type: publication
 authors:
 - F.N. Chasen
 - C.B. Kloss
@@ -22,7 +21,9 @@ published: false
 source_doc: jmalayanras-104-chasen-collectionbirdsanamba-1928-59308534c131
 source_path: ../sources/jmalayanras-104-chasen-collectionbirdsanamba-1928-59308534c131.md
 summarized: true
+publication_type: journal_article
 ---
+
 # On a collection of birds from the Anamba Islands, South China Sea
 
 F.N. Chasen and C. Boden Kloss published this systematic ornithological account in 1928, describing a bird collection made for the Raffles Museum on the Anamba Islands (South China Sea) during September and October 1925. The paper assesses the islands' avifauna in light of the earlier, more extensive work of Harry Oberholser (1917) and argues that, after twenty-five years of collecting, the resident bird population of the Anambas is now fairly well known, adding only four non-migratory land species to the known list.

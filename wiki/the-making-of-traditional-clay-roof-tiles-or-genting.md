@@ -3,8 +3,7 @@ id: the-making-of-traditional-clay-roof-tiles-or-genting
 work_id: jmbras-70-1-p101
 title: The making of traditional clay roof tiles or genting
 canonical_name: The making of traditional clay roof tiles or _genting._
-type: article
-article_type: article
+type: publication
 authors:
 - Rudin Salinger
 year: 1997
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-272-salinger-makingtraditionalclay-1997-794f81167f24
 source_path: ../sources/jmbras-272-salinger-makingtraditionalclay-1997-794f81167f24.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The making of traditional clay roof tiles or genting
 
 Rudin Salinger's 1997 article documents the traditional craft of making genting (hand-formed clay roof tiles) in the Trengganu and Kelantan east coast of Peninsular Malaysia, drawing on fieldwork in the Besut District and oral histories from four elderly tile makers. The piece establishes that the craft is essentially Thai in origin, having been introduced from Singhora (Patani) and subsequently adapted by local and Chinese communities in Kelantan before spreading to Trengganu.

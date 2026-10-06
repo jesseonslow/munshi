@@ -3,8 +3,7 @@ id: aturan-sungei-ujong
 work_id: jsbras-28-1-p53
 title: Aturan Sungei Ujong
 canonical_name: _Aturan_ Sungei Ujong
-type: article
-article_type: article
+type: publication
 authors:
 - R.N. Bland
 year: 1895
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-028-bland-aturansungeiujong-1895-7e9e090c0959
 source_path: ../sources/jsbras-028-bland-aturansungeiujong-1895-7e9e090c0959.md
 summarized: true
+publication_type: document
 ---
+
 # Aturan Sungei Ujong
 
 R.N. Bland, an officer in charge at Kuala Pilah in the Negri Sembilan, published this transcription of the *Aturan Sungei Ujong* in 1895, presenting the constitutional and genealogical foundation of the state as recorded in its own tradition. The text traces the lineage from a Johor royal progenitor through the establishment of the two hereditary branches (Waris di Darat and Waris di Ayer), the imposition of Minangkabau customary law, and the internal dynastic conflicts that ultimately precipitated British intervention in the 1890s.

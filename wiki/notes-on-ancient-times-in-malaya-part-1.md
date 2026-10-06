@@ -3,8 +3,7 @@ id: notes-on-ancient-times-in-malaya-part-1
 work_id: jmbras-20-1-p161
 title: Notes on ancient times in Malaya. Part 1
 canonical_name: Notes on ancient times in Malaya. Part 1
-type: article
-article_type: article
+type: publication
 authors:
 - R. Braddell
 year: 1947
@@ -38,7 +37,9 @@ reprints:
 source_doc: jmalayanras-142-braddell-notesancienttimes-1947-9f9fa01411eb
 source_path: ../sources/jmalayanras-142-braddell-notesancienttimes-1947-9f9fa01411eb.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Notes on ancient times in Malaya. Part 1
 
 Roland Braddell published this first instalment of his *Notes on Ancient Times in Malaya* in 1947, continuing a project begun in 1935 that had been interrupted by the Japanese occupation. Writing from the position of a veteran scholar of Malayan antiquity, Braddell addresses the pre-history and proto-history of the Malay Peninsula, arguing that the region's ancient past is far richer than the "no history" narrative suggests and that the slab-graves of Perak represent the work of South Indian gold-mining communities dating to the early first millennium A.D.

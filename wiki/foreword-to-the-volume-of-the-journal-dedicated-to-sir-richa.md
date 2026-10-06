@@ -3,8 +3,7 @@ id: foreword-to-the-volume-of-the-journal-dedicated-to-sir-richa
 work_id: jmbras-40-2-p1
 title: Foreword {to the volume of the journal dedicated to Sir Richard Winstedt
 canonical_name: Foreword {to the volume of the journal dedicated to Sir Richard Winstedt}
-type: article
-article_type: article
+type: publication
 authors:
 - Nik, Tan Sri Ahmad Kamil
 year: 1967
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: false
 source_doc: jmbras-212-kamil-foreword-1967-a4f49e499cb7
 source_path: ../sources/jmbras-212-kamil-foreword-1967-a4f49e499cb7.md
+publication_type: note
 ---
+
 # Foreword {to the volume of the journal dedicated to Sir Richard Winstedt
 
 This is a two-page foreword by Tan Sri Nik Ahmad Kamil, then President of the Malaysian Branch of the Royal Asiatic Society, introducing the valedictory tribute volume of the *JMBRAS* dedicated to Sir Richard Winstedt (1967).

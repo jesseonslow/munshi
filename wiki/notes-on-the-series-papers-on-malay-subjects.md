@@ -3,8 +3,7 @@ id: notes-on-the-series-papers-on-malay-subjects
 work_id: jmbras-25-1-p194
 title: Notes on the series “Papers on Malay Subjects”
 canonical_name: Notes on the series “Papers on Malay Subjects”
-type: article
-article_type: article
+type: publication
 authors:
 - C.A. Gibson-Hill
 year: 1952
@@ -18,6 +17,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: note
 ---
 
 # Notes on the series “Papers on Malay Subjects”

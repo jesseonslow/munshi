@@ -3,8 +3,7 @@ id: barrretto-de-resendes-account-of-malacca
 work_id: jsbras-60-1-p1
 title: Barrretto de Resende’s account of Malacca
 canonical_name: Barrretto de Resende’s account of Malacca
-type: article
-article_type: article
+type: publication
 authors:
 - W.G. Maxwell
 year: 1911
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: false
 source_doc: jsbras-060-maxwell-barrettoderesendes-1911-71476915223f
 source_path: ../sources/jsbras-060-maxwell-barrettoderesendes-1911-71476915223f.md
+publication_type: translation
 ---
+
 # Barrretto de Resende’s account of Malacca
 
 W. George Maxwell published this article in 1911 in the *Journal of the Straits Branch of the Royal Asiatic Society* (Vol. 60), presenting a translation and commentary on the Malacca section of Pedro Barretto de Resende's *Livro do Estado da India Oriental* (Sloane MS 197, British Museum), a manuscript written before 1638 that offers a detailed administrative and military portrait of Portuguese Malacca on the eve of its fall to the Dutch. Maxwell's overarching contribution is to make accessible a previously unpublished primary source that documents the garrison, commerce, fortifications, and surrounding polities of Malacca in the 1630s, supplemented by an appendix translating Godinho de Eredia's 1613 *Declaracam de Malaca e India Meridional*.

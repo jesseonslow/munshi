@@ -5,8 +5,7 @@ title: '‘I have taken steps to ensure that the utmost economy is exercised’:
   finance in Brunei, 1906–1932'
 canonical_name: '‘I have taken steps to ensure that the utmost economy is exercised’:
   government finance in Brunei, 1906–1932'
-type: article
-article_type: article
+type: publication
 authors:
 - A.V.M. Horton
 year: 1994
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-267-horton-itakensteps-1994-d072398489ef
 source_path: ../sources/jmbras-267-horton-itakensteps-1994-d072398489ef/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # ‘I have taken steps to ensure that the utmost economy is exercised’: government finance in Brunei, 1906–1932
 
 ## Abstract

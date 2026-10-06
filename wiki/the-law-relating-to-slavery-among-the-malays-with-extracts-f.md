@@ -6,8 +6,7 @@ title: 'The law relating to slavery among the Malays (with extracts from the Per
 canonical_name: 'The law relating to slavery among the Malays (with extracts from
   the Perak Code of Laws relating to slavery: the original text with transliteration
   and translation)'
-type: article
-article_type: article
+type: publication
 authors:
 - W.E. Maxwell
 year: 1890
@@ -24,7 +23,9 @@ published: false
 source_doc: jsbras-022-maxwell-lawrelatingslavery-1890-dfa2b663df41
 source_path: ../sources/jsbras-022-maxwell-lawrelatingslavery-1890-dfa2b663df41.md
 summarized: true
+publication_type: translation
 ---
+
 # The law relating to slavery among the Malays (with extracts from the Perak Code of Laws relating to slavery: the original text with transliteration and translation
 
 W.E. Maxwell, then Assistant Resident of Perak, published this article in 1890 in the Journal of the Straits Branch of the Royal Asiatic Society, drawing on his 1882 official minute to Parliament and a newly prepared translation of the Perak Code of Laws. The work documents the dual system of servitude—true slavery (*'abdi*) and debt-bondage (*kawan*)—that persisted in Perak under Malay customary law, and argues that the debt-bondage system, far from being a product of Islamic jurisprudence, was a native Malay custom that had been perverted into a tool of aristocratic oppression.

@@ -3,8 +3,7 @@ id: the-scitamineae-of-the-malay-peninsula
 work_id: jsbras-32-1-p85
 title: The Scitamineae of the Malay Peninsula
 canonical_name: The Scitamineae of the Malay Peninsula
-type: article
-article_type: article
+type: publication
 authors:
 - H.N. Ridley
 year: 1899
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-032-ridley-scitaminemalaypeninsula-1899-fdbf5354044f
 source_path: ../sources/jsbras-032-ridley-scitaminemalaypeninsula-1899-fdbf5354044f.md
 summarized: true
+publication_type: monograph
 ---
+
 # The Scitamineae of the Malay Peninsula
 
 H.N. Ridley, then Director of the Singapore Botanic Gardens, published this comprehensive monograph in 1899 to provide a systematic treatment of the Scitamineae (the ginger order) of the Malay Peninsula, a group he argued had been severely neglected by botanists due to the difficulty of preserving its fugacious flowers in herbarium specimens. The work covers all five families within the order—Zingiberaceae, Marantaceae, Cannaceae, Lowiaceae, and Musaceae—drawing on field observations in the jungle and living plants cultivated at the Botanic Gardens rather than relying on the inadequate dried specimens that had frustrated earlier workers like Miquel and Blume.

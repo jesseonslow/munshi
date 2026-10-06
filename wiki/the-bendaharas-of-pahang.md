@@ -3,8 +3,7 @@ id: the-bendaharas-of-pahang
 work_id: jmbras-4-3-p334
 title: The bendaharas of Pahang
 canonical_name: The _bendaharas_ of Pahang
-type: article
-article_type: article
+type: publication
 authors:
 - W. Linehan
 year: 1926
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-098-linehan-bendaharaspahang-1926-abd51e88b337
 source_path: ../sources/jmalayanras-098-linehan-bendaharaspahang-1926-abd51e88b337.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The bendaharas of Pahang
 
 W. Linehan, a British colonial official in Pahang, published "The Bendaharas of Pahang" in 1926 in the Journal of the Malaysian Branch of the Royal Asiatic Society, offering a genealogical and political account of the Bendahara dynasty that governed Pahang from the mid-eighteenth century until the elevation of its last member to the sultanate in 1877. The article's central concern is to trace the lineage, succession disputes, and eventual transformation of this quasi-independent ruling house from its origins in the Johore court to its absorption into the modern Pahang Sultanate under British protection.

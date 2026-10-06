@@ -3,8 +3,7 @@ id: a-list-of-brunei-malay-words
 work_id: jsbras-34-1-p39
 title: A list of Brunei-Malay words
 canonical_name: A list of Brunei-Malay words
-type: article
-article_type: article
+type: publication
 authors:
 - Haynes A.S
 year: 1900
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: false
 source_doc: jsbras-034-haynes-listbruniemalaywords-1900-1a145ab2de4e
 source_path: ../sources/jsbras-034-haynes-listbruniemalaywords-1900-1a145ab2de4e.md
+publication_type: note
 ---
+
 # A list of Brunei-Malay words
 
 H. S. Haynes published "A List of Brunei-Malay Words" in the *Journal of the Straits Branch of the Royal Asiatic Society* (Vol. 34, 1900, pp. 39–48), presenting a lexicon of approximately 200 Brunei-Malay terms with English glosses. The list, collected in the field, documents a distinct Malay variety spoken in the Brunei region and serves as one of the earliest systematic lexical records of that variety in the colonial-era literature.

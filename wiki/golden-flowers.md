@@ -3,8 +3,7 @@ id: golden-flowers
 work_id: jsbras-32-1-p214
 title: Golden flowers
 canonical_name: Golden flowers
-type: article
-article_type: article
+type: publication
 authors:
 - H.N. Ridley
 year: 1899
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: false
 source_doc: jsbras-032-ridley-goldenflowers-1899-95b8f550e04f
 source_path: ../sources/jsbras-032-ridley-goldenflowers-1899-95b8f550e04f.md
+publication_type: note
 ---
+
 # Golden flowers
 
 This brief note by H. N. Ridley discusses the Malay and Straits Chinese folk belief in "golden flowers" that occasionally appear on certain trees and confer wealth upon their finder (p. 215).

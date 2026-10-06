@@ -5,8 +5,7 @@ title: 'The shadow play of Kelantan: report on a period of field research. MB 43
   53– 80 D 1970 — Corrections'
 canonical_name: 'The shadow play of Kelantan: report on a period of field research.
   MB 43(2): 53– 80 D 1970 — Corrections'
-type: article
-article_type: article
+type: publication
 authors:
 - A. Sweeney
 year: 1972
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-218-sweeney-shadowplaykelantanreport-1970-4a5a81595d5c
 source_path: ../sources/jmbras-218-sweeney-shadowplaykelantanreport-1970-4a5a81595d5c.md
 summarized: true
+publication_type: note
 ---
+
 # The shadow play of Kelantan: report on a period of field research. MB 43(2): 53– 80 D 1970 — Corrections
 
 Amin Sweeney, a British ethnographer resident in Kelantan since 1960, published this field research report in 1970 documenting the Malay shadow-play (*wayang*) of Kelantan and the wider Malay-speaking world of the east coast and Southern Thailand. Based on systematic fieldwork conducted during 1968–69, the study examines the wayang as entertainment, ritual, and socio-economic institution, arguing that the art form's remarkable survival—and even a wave of renewed popularity in Kelantan—is driven by hard-headed commercial enterprise rather than state patronage or cultural nationalism.

@@ -3,8 +3,7 @@ id: the-early-sultans-of-pahang
 work_id: jmbras-10-1-p45
 title: The early Sultans of Pahang
 canonical_name: The early Sultans of Pahang
-type: article
-article_type: article
+type: publication
 authors:
 - R.J. Wilkinson
 year: 1932
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-113-wilkinson-earlysultanspahang-1932-43895d2b1d18
 source_path: ../sources/jmalayanras-113-wilkinson-earlysultanspahang-1932-43895d2b1d18.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The early Sultans of Pahang
 
 R.J. Wilkinson, a senior colonial administrator, published this article in 1932 to resolve a dynastic puzzle in early Pahang history that had been obscured by the loose naming conventions of the *Sejarah Melayu*. Using the single date provided by Linehan's discovery of a tombstone (1475), Wilkinson demonstrates that two brothers of Sultan Mansur Shah of Malacca—both styled "Sultan Muhammad" by the chronicler—must be distinguished: the elder, a boy-king who died in 1475, and the younger, the paterfamilias who fathered the three princes traditionally attributed to the first.

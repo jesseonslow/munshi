@@ -3,8 +3,7 @@ id: johor-nq-1
 work_id: jsbras-14-johor-nq-1
 title: Johor. NQ 1
 canonical_name: Johor. NQ 1
-type: article
-article_type: notes_and_queries
+type: publication
 authors:
 - W.E. Maxwell
 year: 1884
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-014-maxwell-historyperaknative-1884-636bb4162af8
 source_path: ../sources/jsbras-014-maxwell-historyperaknative-1884-636bb4162af8.md
 summarized: true
+publication_type: translation
 ---
+
 # Johor. NQ 1
 
 W.E. Maxwell, Assistant Resident in Perak, published this translation in 1884 of a royal genealogical manuscript (Salsila) compiled by Raja Haji Yahya of Belanja, Perak, which traces the succession of Perak sultans from the late eighteenth century through the period of British colonial intervention in the 1870s. The work serves as an authentic native-source record of dynastic legitimacy and the customary mode of succession among the Perak royal house.

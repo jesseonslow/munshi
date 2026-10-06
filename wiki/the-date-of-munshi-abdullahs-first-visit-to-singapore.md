@@ -3,8 +3,7 @@ id: the-date-of-munshi-abdullahs-first-visit-to-singapore
 work_id: jmbras-28-1-p191
 title: The date of Munshi Abdullah’s first visit to Singapore
 canonical_name: The date of Munshi Abdullah’s first visit to Singapore
-type: article
-article_type: article
+type: publication
 authors:
 - C.A. Gibson-Hill
 year: 1955
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-169-gibsonhill-datemunshiabdullahs-1955-41ac4d5d7a99
 source_path: ../sources/jmalayanras-169-gibsonhill-datemunshiabdullahs-1955-41ac4d5d7a99.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The date of Munshi Abdullah’s first visit to Singapore
 
 C.A. Gibson-Hill's 1955 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* (Vol. 28, Pt. 1) is a focused piece of source criticism that re-examines the arrival date of Munshi Abdullah (Abdullah bin Abdul Kadir, 1797–1854) in Singapore. Drawing on the *Hikayat Abdullah* alongside independent administrative and missionary records, Gibson-Hill demonstrates that Abdullah's own claim of arriving "about four months" after the founding of the settlement is irreconcilable with the documentary evidence, and that he most likely reached Singapore no earlier than the second quarter of 1821.

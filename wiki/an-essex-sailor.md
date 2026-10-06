@@ -3,8 +3,7 @@ id: an-essex-sailor
 work_id: jmbras-32-1-p33
 title: An Essex sailor
 canonical_name: An Essex sailor
-type: article
-article_type: article
+type: publication
 authors:
 - R. Braddell
 year: 1959
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-185-braddell-essexsailor-1959-4a2a1ee618c4
 source_path: ../sources/jmalayanras-185-braddell-essexsailor-1959-4a2a1ee618c4.md
 summarized: true
+publication_type: document
 ---
+
 # An Essex sailor
 
 Roland Braddell published "An Essex Sailor" in 1959 as a genealogical and biographical essay built around the unpublished *Life's Log* of his maternal grandfather, John Roberts Kirby (1819–1906), a midshipman who made seven voyages in East Indiamen between 1833 and 1844. The piece serves as both a family memoir and a primary-source window into the social world of the post-charter East India trade, the early settlement of Western Australia, and the Canton trade on the eve of the Second Opium War.

@@ -3,8 +3,7 @@ id: malacca-under-jan-van-riebeeck
 work_id: jmbras-38-2-p173
 title: Malacca under Jan van Riebeeck
 canonical_name: Malacca under Jan van Riebeeck
-type: article
-article_type: article
+type: publication
 authors:
 - W.Ph. Coolhaas
 year: 1965
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-208-coolhaas-malaccajanvan-1965-b2761bffabcd
 source_path: ../sources/jmbras-208-coolhaas-malaccajanvan-1965-b2761bffabcd.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Malacca under Jan van Riebeeck
 
 W. Ph. Coolhaas, in a 1965 article for the *Journal of the Malaysian Branch of the Royal Asiatic Society*, examines the brief and troubled tenure of Jan van Riebeeck as Commandeur of Malacca (1662–1665), arguing that this period—overshadowed by Riebeeck's more famous Cape of Good Hope administration—reveals the economic and diplomatic challenges of maintaining a strategically vital but financially unprofitable VOC outpost in the Straits of Malacca.

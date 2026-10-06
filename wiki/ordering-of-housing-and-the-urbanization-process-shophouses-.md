@@ -4,8 +4,7 @@ work_id: jmbras-71-2-p123
 title: 'Ordering of housing and the urbanization process: shophouses in colonial Penang'
 canonical_name: 'Ordering of housing and the urbanization process: shophouses in colonial
   Penang'
-type: article
-article_type: article
+type: publication
 authors:
 - Mai Lin Tjoa-Bonatz
 year: 1998
@@ -22,7 +21,9 @@ published: false
 source_doc: jmbras-275-tjoabonatz-orderinghousingurbanisation-1998-6e3ba84d9bfb
 source_path: ../sources/jmbras-275-tjoabonatz-orderinghousingurbanisation-1998-6e3ba84d9bfb.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Ordering of housing and the urbanization process: shophouses in colonial Penang
 
 Mai Lin Tjoa-Bonatz's 1998 article traces the transformation of the Penang shophouse from a Chinese courtyard-house form to a British-influenced terrace house, arguing that this shift was driven not by top-down planning but by the gradual accumulation of fire-prevention and public-health legislation under the Straits Settlements colonial government. The study is set against the rapid urbanisation of Georgetown between the 1780s and the 1930s, a period in which the Chinese-dominated building sector implemented its own construction traditions within an increasingly regulated administrative framework.

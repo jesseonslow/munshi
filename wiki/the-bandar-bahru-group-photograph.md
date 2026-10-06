@@ -3,8 +3,7 @@ id: the-bandar-bahru-group-photograph
 work_id: jmbras-62-1-p21
 title: The Bandar Bahru group photograph
 canonical_name: The Bandar Bahru group photograph
-type: article
-article_type: article
+type: publication
 authors:
 - J. Falconer
 - J.M. Gullick
@@ -22,7 +21,9 @@ published: false
 source_doc: jmbras-256-falconer-bandarbahruphotograph-1989-58e257d6906d
 source_path: ../sources/jmbras-256-falconer-bandarbahruphotograph-1989-58e257d6906d.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The Bandar Bahru group photograph
 
 Falconer and Gullick (1989) present a forensic re-examination of a well-known group photograph long misattributed to the Pangkor meeting of January 1874, demonstrating through documentary and visual evidence that it was in fact taken at Bandar Bahru in Lower Perak on 15 September 1875 during the visit of Sir William Jervois, Governor of the Straits Settlements. The article resolves a decades-long confusion by identifying all ten figures in the photograph and explaining how the erroneous Pangkor attribution became entrenched in the historical record.

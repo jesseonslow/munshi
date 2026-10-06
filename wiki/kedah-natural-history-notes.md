@@ -3,8 +3,7 @@ id: kedah-natural-history-notes
 work_id: jmbras-8-2-p330
 title: Kedah natural history notes
 canonical_name: Kedah natural history notes
-type: article
-article_type: article
+type: publication
 authors:
 - Hamilton A.W
 year: 1930
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-110-hamilton-kedahnaturalhistory-1930-7b19d46bff20
 source_path: ../sources/jmalayanras-110-hamilton-kedahnaturalhistory-1930-7b19d46bff20.md
 summarized: true
+publication_type: note
 ---
+
 # Kedah natural history notes
 
 This note by A. W. Hamilton records Malay names and brief natural history observations for a selection of birds and fish encountered in Kedah, published in the Journal of the MBRAS in 1930 (p. 330).

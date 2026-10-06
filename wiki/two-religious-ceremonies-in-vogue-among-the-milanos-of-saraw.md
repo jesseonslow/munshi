@@ -3,8 +3,7 @@ id: two-religious-ceremonies-in-vogue-among-the-milanos-of-saraw
 work_id: jsbras-57-1-p171
 title: Two religious ceremonies in vogue among the Milanos of Sarawak
 canonical_name: Two religious ceremonies in vogue among the Milanos of Sarawak
-type: article
-article_type: article
+type: publication
 authors:
 - B. Mulder
 - J.Hewitt
@@ -22,7 +21,9 @@ published: false
 source_doc: jsbras-057-mulder-tworeligiousceremonies-1911-581f7d32c9de
 source_path: ../sources/jsbras-057-mulder-tworeligiousceremonies-1911-581f7d32c9de.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Two religious ceremonies in vogue among the Milanos of Sarawak
 
 Fr. Bernard Mulder and John Hewitt published this ethnographic account in 1911, drawing on Mulder's personal attendance at "scores of Payuns" to document two Milano spiritual ceremonies—the Payun (a healing rite centred on a rattan swing) and the Plato (a post-mortem communication with a departed spirit)—and to argue that both traditions share a deep ancestral root with Sea Dayak manangism. The article appeared in the Journal of the Straits Branch of the Royal Asiatic Society, Vol. 57, and represents one of the few complete European descriptions of these rites at the time.

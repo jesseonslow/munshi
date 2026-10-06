@@ -3,8 +3,7 @@ id: style-and-the-demonic-image-in-dayak-masks
 work_id: jmbras-40-1-p78
 title: Style and the demonic image in Dayak masks
 canonical_name: Style and the demonic image in Dayak masks
-type: article
-article_type: article
+type: publication
 authors:
 - S. Gill
 year: 1967
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-211-gill-styledemonicimage-1967-0d3e861ce79f
 source_path: ../sources/jmbras-211-gill-styledemonicimage-1967-0d3e861ce79f.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Style and the demonic image in Dayak masks
 
 Sarah Gill's 1967 article "Style and the Demonic Image in Dayak Masks" (JMBRAS 40.1, pp. 78–92) presents a pilot stylistic survey of Dayak masks held in Western museum collections, arguing that the extraordinary formal assurance of central Kalimantan and Sarawak mask traditions derives from a deeply rooted, ancient Southeast Asian protective demonic imagery that predates and is distinct from Indianizing influence.

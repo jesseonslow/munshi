@@ -3,8 +3,7 @@ id: royal-tabus-in-negri-sembilan
 work_id: jmbras-7-3-p454
 title: Royal tabus in Negri Sembilan
 canonical_name: Royal tabus in Negri Sembilan
-type: article
-article_type: article
+type: publication
 authors:
 - R.O. Winstedt
 year: 1929
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-108-winstedt-royaltabusnegri-1929-0d233d9bbf33
 source_path: ../sources/jmalayanras-108-winstedt-royaltabusnegri-1929-0d233d9bbf33.md
 summarized: true
+publication_type: note
 ---
+
 # Royal tabus in Negri Sembilan
 
 This short note by R. O. Winstedt catalogues the types of house, dress, weapons, and head-dress styles that were *pantang larang* (tabu) to all except the Yamtuan of Negri Sembilan in former days (p. 454).

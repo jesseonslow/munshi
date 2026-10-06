@@ -3,8 +3,7 @@ id: the-builders
 work_id: jmbras-85-2-p79
 title: The builders
 canonical_name: The builders
-type: article
-article_type: article
+type: publication
 authors:
 - J.M. Gullick
 year: 2012
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-303-gullick-builders-2012-5ec1fcddda33
 source_path: ../sources/jmbras-303-gullick-builders-2012-5ec1fcddda33/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The builders
 
 J. M. Gullick's "The Builders" (2012) reconstructs the emergence of a building industry in the western Malay states—focused on Selangor and Kuala Lumpur—between 1875 and 1914, arguing that no such industry existed before colonial intervention and that it was created in response to the administrative, commercial, and demographic pressures of the tin boom. The article traces the transition from traditional cooperative Malay housebuilding through a transitional phase of imported expertise and new materials to a more professionalized industry capable of producing large-scale public and commercial structures.

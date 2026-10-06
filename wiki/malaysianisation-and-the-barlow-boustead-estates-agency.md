@@ -3,8 +3,7 @@ id: malaysianisation-and-the-barlow-boustead-estates-agency
 work_id: jmbras-93-1-p43
 title: Malaysianisation and the Barlow Boustead Estates Agency
 canonical_name: Malaysianisation and the Barlow Boustead Estates Agency
-type: article
-article_type: article
+type: publication
 authors:
 - R. Glew
 - C. Velu
@@ -22,7 +21,9 @@ published: false
 source_doc: jmbras-318-glew-malaysianizationbarlowboustead-2020-0d969863755f
 source_path: ../sources/jmbras-318-glew-malaysianizationbarlowboustead-2020-0d969863755f/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Malaysianisation and the Barlow Boustead Estates Agency
 
 This article by Rob Glew and Chander Velu examines the process of Malaysianisation as it affected the Barlow Boustead Estates Agency (BB EA), a joint venture between the Barlow and Boustead families, under Malaysia's New Economic Policy (NEP).

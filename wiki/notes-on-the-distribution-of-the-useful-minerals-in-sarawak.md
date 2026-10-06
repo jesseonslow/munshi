@@ -3,8 +3,7 @@ id: notes-on-the-distribution-of-the-useful-minerals-in-sarawak
 work_id: jsbras-1-1-p13
 title: Notes on the distribution of the useful minerals in Sarawak
 canonical_name: Notes on the distribution of the useful minerals in Sarawak
-type: article
-article_type: article
+type: publication
 authors:
 - A.H. Everett
 year: 1878
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: true
 source_doc: jsbras-001-everett-notesdistributionuseful-1878-260ae685bf01
 source_path: ../sources/jsbras-001-everett-notesdistributionuseful-1878-260ae685bf01.md
+publication_type: note
 ---
+
 # Notes on the distribution of the useful minerals in Sarawak
 
 A.H. Everett, Resident of Bintulu, published this systematic survey of Sarawak's mineral resources in 1878, the first volume of the Journal of the Straits Branch of the Royal Asiatic Society. Writing from direct field experience in the territory, Everett argues that while Sarawak's mineral wealth has long been overstated by European imagination, the territory possesses genuine—if modest—deposits of antimony, cinnabar, gold, and coal, with the coal fields of the northwest coast representing the most promising future asset.

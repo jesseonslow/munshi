@@ -5,8 +5,7 @@ title: 'Letters from exile: correspondence of Sultan Abdullah from Seychelles an
   Mauritius'
 canonical_name: 'Letters from exile: correspondence of Sultan Abdullah from Seychelles
   and Mauritius'
-type: article
-article_type: article
+type: publication
 authors:
 - Cheah Boon Kheng
 year: 1991
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-260-kheng-lettersexile-1991-b6b7b23b5bdd
 source_path: ../sources/jmbras-260-kheng-lettersexile-1991-b6b7b23b5bdd/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Letters from exile: correspondence of Sultan Abdullah from Seychelles and Mauritius
 
 Cheah Boon Kheng (1991) examines the correspondence of Sultan Abdullah of Perak, the most prominent Malay political detainee of early British rule in Malaya, written from exile in the Seychelles and Mauritius between 1877 and 1891. The article argues that this long-forgotten body of letters—preserved in a parliamentary volume and the Colonial Office series C.O. 273—provides the basis for a fundamental revision of the established narrative of Sultan Abdullah's complicity in the murder of British Resident J.W.W. Birch in 1875.

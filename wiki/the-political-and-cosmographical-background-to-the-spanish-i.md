@@ -5,8 +5,7 @@ title: The political and cosmographical background to the Spanish incursion into
   Pacific in the sixteenth century
 canonical_name: The political and cosmographical background to the Spanish incursion
   into the Pacific in the sixteenth century
-type: article
-article_type: article
+type: publication
 authors:
 - C. Jack-Hinton
 year: 1964
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-206-jackhinton-politicalcosmographicalbackground-1964-6da720fcb89e
 source_path: ../sources/jmbras-206-jackhinton-politicalcosmographicalbackground-1964-6da720fcb89e/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The political and cosmographical background to the Spanish incursion into the Pacific in the sixteenth century
 
 Colin Jack-Hinton's 1964 article examines how the interlocking problems of Iberian diplomatic rivalry and classical cosmographical uncertainty shaped the Spanish claim to the Pacific and the Moluccas in the sixteenth century. His central thesis is that the Spanish delineation of the antipodal demarcation line some 30° west of its true position was not an act of deliberate cartographical fraud but an honest consequence of the Ptolemaic degree value and the inability to determine longitude with any precision.

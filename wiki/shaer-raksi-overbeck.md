@@ -3,8 +3,7 @@ id: shaer-raksi-overbeck
 work_id: jmbras-1-2-p282
 title: Shaer Raksi. . Overbeck
 canonical_name: _Shaer Raksi._ . Overbeck
-type: article
-article_type: article
+type: publication
 authors:
 - Ahmad
 - H. Overbeck
@@ -22,7 +21,9 @@ published: false
 source_doc: jmalayanras-088-overbeck-shaerraksi-1923-ec44161c81c1
 source_path: ../sources/jmalayanras-088-overbeck-shaerraksi-1923-ec44161c81c1.md
 summarized: true
+publication_type: translation
 ---
+
 # Shaer Raksi. . Overbeck
 
 H. Overbeck's 1923 article in the *Journal of the Malayan Branch of the Royal Asiatic Society* presents a full transcription and English translation of the *Shaer Raksi*, a Malay verse text that codifies the Arabic abjad numerological system used to determine marital compatibility. The work, attributed to Raja Haji Ahmad of Riau and reprinted in Singapore in 1915, reveals how a sophisticated letter-value arithmetic—rooted in the Islamic scholarly tradition—was adapted into a practical folk divination tool for Malay communities.

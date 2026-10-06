@@ -3,8 +3,7 @@ id: majapahit-amulets-in-kelantan
 work_id: jmbras-14-3-p302
 title: Majapahit amulets in Kelantan
 canonical_name: Majapahit amulets in Kelantan
-type: article
-article_type: article
+type: publication
 authors:
 - A. Rentse
 year: 1936
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-126-rentse-majapahitamuletskelantan-1936-9e3a82291608
 source_path: ../sources/jmalayanras-126-rentse-majapahitamuletskelantan-1936-9e3a82291608.md
 summarized: true
+publication_type: note
 ---
+
 # Majapahit amulets in Kelantan
 
 Anker Rentse's short note describes the *Pitis Jawa* (or *Pitis Semar*), a coin-like brass or bronze amulet found among medicine-men in Kelantan, and documents its use in *main berbagih* healing performances and the iconography of six specimens (pp. 302–304).

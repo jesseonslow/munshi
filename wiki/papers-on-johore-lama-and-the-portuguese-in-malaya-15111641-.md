@@ -5,8 +5,7 @@ title: Papers on Johore Lama and the Portuguese in Malaya (1511–1641). C.A. Gi
   {and} G. de G. Sieveking
 canonical_name: Papers on Johore Lama and the Portuguese in Malaya (1511–1641). C.A.
   Gibson-Hill {and} G. de G. Sieveking
-type: article
-article_type: article
+type: publication
 authors:
 - I.A. MacGregor
 - G. de G. Sieveking
@@ -25,7 +24,9 @@ summarized: true
 source_mismatch: true
 source_doc: jmalayanras-170-macgregor-notesportuguesemalaya-1955-2c137a36ded1
 source_path: ../sources/appendix.md
+publication_type: review
 ---
+
 # Papers on Johore Lama and the Portuguese in Malaya (1511–1641). C.A. Gibson-Hill {and} G. de G. Sieveking
 
 Ian A. MacGregor's "Notes on the Portuguese in Malaya" (1955) is a social and administrative history of the Portuguese garrison community at Malacca between its conquest in 1511 and its loss to the Dutch in 1641. Drawing extensively on Portuguese archival records from the Arquivo Nacional da Torre do Tombo in Lisbon, MacGregor's central thesis is that the Portuguese in Malaya were not a trading company's agents but a small, often underpaid, royal civil and military service whose members were drawn from the *fidalgo* class and whose living conditions, family patterns, and institutional arrangements can be reconstructed in considerable detail from the surviving administrative paperwork.

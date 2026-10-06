@@ -4,8 +4,7 @@ work_id: jmbras-26-1-p81
 title: Sir Stamford Raffles’ and John Crawfurd’s ideas of colonizing the Malay Archipelago
 canonical_name: Sir Stamford Raffles’ and John Crawfurd’s ideas of colonizing the
   Malay Archipelago
-type: article
-article_type: article
+type: publication
 authors:
 - J.S. Bastin
 year: 1953
@@ -19,6 +18,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: journal_article
 ---
 
 # Sir Stamford Raffles’ and John Crawfurd’s ideas of colonizing the Malay Archipelago

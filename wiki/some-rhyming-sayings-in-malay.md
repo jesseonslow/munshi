@@ -3,8 +3,7 @@ id: some-rhyming-sayings-in-malay
 work_id: jsbras-86-1-p393
 title: Some rhyming sayings in Malay
 canonical_name: Some rhyming sayings in Malay
-type: article
-article_type: article
+type: publication
 authors:
 - Hamilton A.W
 year: 1922
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-086-hamilton-rhymingsayingsmalay-1922-513b0f11eb48
 source_path: ../sources/jsbras-086-hamilton-rhymingsayingsmalay-1922-513b0f11eb48.md
 summarized: true
+publication_type: note
 ---
+
 # Some rhyming sayings in Malay
 
 A. W. Hamilton's short note collects twelve Malay rhyming sayings (pantun-like couplets) gathered in Singapore and Penang, each accompanied by an English translation and a brief note on its usage context (pp. 393–395).

@@ -5,8 +5,7 @@ title: 'Johore 1901–1914: the railway concession; the Johore Advisory Board: S
   resignation and the first General Adviser'
 canonical_name: 'Johore 1901–1914: the railway concession; the Johore Advisory Board:
   Swettenham’s resignation and the first General Adviser'
-type: article
-article_type: article
+type: publication
 authors:
 - J. de V. Allen
 year: 1972
@@ -24,7 +23,9 @@ summarized: true
 source_mismatch: true
 source_doc: jmbras-222-allen-johore1901-1972-c98cdf5e7040
 source_path: ../sources/jmbras-222-allen-johore1901-1972-c98cdf5e7040.md
+publication_type: journal_article
 ---
+
 # Johore 1901–1914: the railway concession; the Johore Advisory Board: Swettenham’s resignation and the first General Adviser
 
 J. de V. Allen's 1972 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* examines the turbulent period of Sultan Ibrahim's early rule in Johore (1901–1914), arguing that the state's resistance to British absorption into the Federated Malay States was driven less by principled constitutionalism than by a personal and financial rivalry between Sultan Ibrahim and Sir Frank Swettenham, in which railway concessions and land speculation were the true currency of diplomacy.

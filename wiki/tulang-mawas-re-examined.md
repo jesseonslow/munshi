@@ -3,8 +3,7 @@ id: tulang-mawas-re-examined
 work_id: jmbras-26-1-p37
 title: “Tulang mawas” re-examined
 canonical_name: _“Tulang mawas”_ re-examined
-type: article
-article_type: article
+type: publication
 authors:
 - J. Loewenstein
 year: 1953
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-161-loewenstein-tulangmawasreexamined-1953-b92d25ff6268
 source_path: ../sources/jmalayanras-161-loewenstein-tulangmawasreexamined-1953-b92d25ff6268.md
 summarized: true
+publication_type: journal_article
 ---
+
 # “Tulang mawas” re-examined
 
 Prince John Loewenstein's 1953 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* re-examines the long-debated function of the *tulang mawas*, an enigmatic Iron Age iron implement recovered from sites across the Malay Peninsula. Loewenstein's central thesis is that a persistent error in the published drawings of these tools—specifically the misrepresentation of their socket as tubular rather than conical—has led previous scholars to an incorrect conclusion about how the implement was held and used, and that the correct reading points to a solid wooden haft and a carpentry function, most likely in boat-building.

@@ -3,8 +3,7 @@ id: spolia-mentawensia-dragonflies-odonata
 work_id: jmbras-4-2-p214
 title: 'Spolia mentawensia: dragonflies (Odonata'
 canonical_name: 'Spolia mentawensia: dragonflies (Odonata)'
-type: article
-article_type: article
+type: publication
 authors:
 - F.F. Laidlaw
 year: 1926
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-097-laidlaw-spoliamentawiensiadragonflies-1926-768727eec236
 source_path: ../sources/jmalayanras-097-laidlaw-spoliamentawiensiadragonflies-1926-768727eec236.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Spolia mentawensia: dragonflies (Odonata
 
 F. F. Laidlaw's 1926 paper "Spolia Mentawiensia: Dragonflies (Odonata)" reports the results of a September–November 1924 collecting expedition to the Mentawi Islands (Siberut, Sipora, and the Pagi group) off the west coast of Sumatra, describing 34 species of dragonfly and naming one new species and two new subspecies. The paper's central argument is that deep-water isolation has produced a distinct island fauna, characterised by the absence of certain widespread Oriental genera, the presence of endemic subspecies, and the inclusion of a few species of decidedly eastern or Papuan range.

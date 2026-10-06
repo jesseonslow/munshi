@@ -5,8 +5,7 @@ title: 'Two Malay letters written by Sultan Muhammad Jiwa Muazzam Shah of Kedah 
   Captain Francis Light: with appendix'
 canonical_name: 'Two Malay letters written by Sultan Muhammad Jiwa Muazzam Shah of
   Kedah to Captain Francis Light: with appendix'
-type: article
-article_type: article
+type: publication
 authors:
 - R. Jones
 year: 1981
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-241-jones-twomalayletters-1981-ce072b4599ae
 source_path: ../sources/jmbras-241-jones-twomalayletters-1981-ce072b4599ae/frontmatter.md
 summarized: true
+publication_type: document
 ---
+
 # Two Malay letters written by Sultan Muhammad Jiwa Muazzam Shah of Kedah to Captain Francis Light: with appendix
 
 Russell Jones published this article in 1981, presenting two previously uncatalogued Malay letters written by Sultan Muhammad Jiwa Muazzam Shah of Kedah to Captain Francis Light, a British merchant operating in the Thai-controlled island of Ujung Salang in the early 1770s. The letters illuminate the personal and commercial relationship between the Kedah ruler and Light during a period of political instability, and they confirm that the Malay title *Dewa Raja* applied to Light was simply a translation of the Thai honourific *P'ya Raja* conferred upon him by the Siamese court.

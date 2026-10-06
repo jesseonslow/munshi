@@ -3,8 +3,7 @@ id: death-from-snake-bites-nq-3-7273
 work_id: jsbras-16-death-from-snake-bites-nq-3-72
 title: 'Death from snake bites. NQ 3: 72–73'
 canonical_name: 'Death from snake bites. NQ 3: 72–73'
-type: article
-article_type: notes_and_queries
+type: publication
 authors:
 - L. Wray
 year: 1885
@@ -18,6 +17,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: note
 ---
 
 # Death from snake bites. NQ 3: 72–73

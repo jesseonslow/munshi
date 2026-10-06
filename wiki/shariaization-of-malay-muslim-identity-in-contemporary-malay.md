@@ -3,8 +3,7 @@ id: shariaization-of-malay-muslim-identity-in-contemporary-malay
 work_id: jmbras-91-2-p1
 title: Shariaization of Malay-Muslim identity in contemporary Malaysia
 canonical_name: Shariaization of Malay-Muslim identity in contemporary Malaysia
-type: article
-article_type: article
+type: publication
 authors:
 - Ahmad Fauzi Abdul Hamid
 - H.-M. Goh
@@ -24,7 +23,9 @@ summarized: true
 source_mismatch: false
 source_doc: jmbras-315-hamid-shariaizationmalaymuslimidentity-2018-f6c113192941
 source_path: ../sources/references.md
+publication_type: journal_article
 ---
+
 # Shariaization of Malay-Muslim identity in contemporary Malaysia
 
 ## Abstract

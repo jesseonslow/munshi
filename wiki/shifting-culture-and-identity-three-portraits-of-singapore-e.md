@@ -5,8 +5,7 @@ title: 'Shifting culture and identity: three portraits of Singapore entrepreneur
   Kong Chian (1893–1967). Il'
 canonical_name: 'Shifting culture and identity: three portraits of Singapore entrepreneur
   Lee Kong Chian (1893–1967). Il'
-type: article
-article_type: article
+type: publication
 authors:
 - Huang Jianli
 year: 2009
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-296-jianli-shiftingcultureidentity-2009-603add80551d
 source_path: ../sources/jmbras-296-jianli-shiftingcultureidentity-2009-603add80551d/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Shifting culture and identity: three portraits of Singapore entrepreneur Lee Kong Chian (1893–1967). Il
 
 Huang Jianli's 2009 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* (Vol. 82, Part 1) examines the shifting cultural and identity constructions surrounding Singapore entrepreneur Lee Kong Chian (1893–1967) across the decades of high nationalism, decolonization, and Cold War politics. The article's central thesis is that three dominant portraits of Lee—Nanyang capitalist-philanthropist, diasporic patriot, and local "virtuous pioneer"—are not fixed historical truths but contingent products of changing circuits of power, each emerging in response to specific political and economic conjunctures in Singapore, China, and the broader Chinese diaspora.

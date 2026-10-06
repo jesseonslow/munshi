@@ -5,8 +5,7 @@ title: 'The London Missionary Society: a written record of missionaries and prin
   presses in the Straits Settlements 1815–1847'
 canonical_name: 'The London Missionary Society: a written record of missionaries and
   printing presses in the Straits Settlements 1815–1847'
-type: article
-article_type: article
+type: publication
 authors:
 - L. O'Sullivan
 year: 1984
@@ -24,7 +23,9 @@ summarized: true
 source_mismatch: true
 source_doc: jmbras-247-osullivan-londonmissionarysociety-1984-d411e94aa7dd
 source_path: ../sources/jmbras-247-osullivan-londonmissionarysociety-1984-d411e94aa7dd.md
+publication_type: journal_article
 ---
+
 # The London Missionary Society: a written record of missionaries and printing presses in the Straits Settlements 1815–1847
 
 Leona O'Sullivan's 1984 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* provides a comprehensive written record of the London Missionary Society's missionary personnel and printing operations across the three Straits Settlements—Malacca, Singapore, and Penang—between 1815 and 1847. Drawing extensively on the LMS archives at SOAS London, O'Sullivan demonstrates that the Society's presses introduced mass communication and vernacular literacy to Peninsular Malaysia, making its missionaries among the most active pioneers of social change in the region irrespective of their conversion aims (p. 97).

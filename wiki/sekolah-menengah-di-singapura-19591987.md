@@ -3,8 +3,7 @@ id: sekolah-menengah-di-singapura-19591987
 work_id: jmbras-73-1-p29
 title: Sekolah menengah di Singapura 1959–1987
 canonical_name: _Sekolah menengah di Singapura 1959–1987._
-type: article
-article_type: article
+type: publication
 authors:
 - Kamsiah Abdullah
 year: 2000
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-278-abdullah-sekolahmenengahmelayu-2000-6fd9c39869f5
 source_path: ../sources/jmbras-278-abdullah-sekolahmenengahmelayu-2000-6fd9c39869f5.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Sekolah menengah di Singapura 1959–1987
 
 Kamsiah Abdullah (2000) examines the brief but consequential existence of Malay-language secondary schools in Singapore from their inception in 1959 to their final closure in 1987, arguing that their rise and fall were inextricably bound to Singapore's shifting political status—from self-government, to merger with Malaysia, to independent republic—and the consequent revaluation of Malay-language education as an instrument of economic mobility.

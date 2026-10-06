@@ -3,8 +3,7 @@ id: archery-in-south-east-asia-and-the-pacific
 work_id: jmbras-32-1-p67
 title: Archery in South-east Asia and the Pacific
 canonical_name: Archery in South-east Asia and the Pacific
-type: article
-article_type: article
+type: publication
 authors:
 - N.W. Simmonds
 year: 1959
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-185-simmonds-archerysoutheast-1959-9ea71349e80d
 source_path: ../sources/jmalayanras-185-simmonds-archerysoutheast-1959-9ea71349e80d/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Archery in South-east Asia and the Pacific
 
 N.W. Simmonds, a botanist whose primary fieldwork in 1954–55 was botanical rather than ethnographic, published this comprehensive survey of primitive archery in 1959. Drawing on field observations across the Pacific and Southeast Asia supplemented by extensive museum studies, the article argues that the technology, distribution, and performance of archery in the region are fundamentally governed by the availability of monocotyledonous materials — palms, bamboos, and grasses — and that these material constraints explain both the geographic pattern of shooting techniques and the ceiling on accuracy achievable by primitive archers.

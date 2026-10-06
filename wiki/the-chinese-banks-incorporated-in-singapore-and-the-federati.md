@@ -4,8 +4,7 @@ work_id: jmbras-26-1-p113
 title: The Chinese banks incorporated in Singapore and the Federation of Malaya
 canonical_name: The Chinese banks incorporated in Singapore and the Federation of
   Malaya
-type: article
-article_type: article
+type: publication
 authors:
 - Tan Ee-Leong
 year: 1953
@@ -22,7 +21,9 @@ published: false
 source_doc: jmalayanras-161-eeleong-chinesebanksincorporated-1953-e159d8a93cfc
 source_path: ../sources/jmalayanras-161-eeleong-chinesebanksincorporated-1953-e159d8a93cfc.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The Chinese banks incorporated in Singapore and the Federation of Malaya
 
 Tan Ee-Leong, a former senior officer of the Ho Hong Bank and Oversea-Chinese Banking Corporation, published this comprehensive survey in 1953 to preserve the institutional memory of Chinese banking in Singapore and the Federation of Malaya, a record he judged to be in danger of being lost following the destruction of bank archives during the Japanese Occupation. The article documents the founding, operations, crises, and eventual fates of twelve of the thirteen Chinese banks incorporated in Singapore and the two banks registered in the Federation, spanning the period from 1903 to 1952.

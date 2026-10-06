@@ -3,8 +3,7 @@ id: planting-in-nineteenth-century-sabah-and-sarawak
 work_id: jmbras-69-1-p37
 title: Planting in nineteenth century Sabah and Sarawak
 canonical_name: Planting in nineteenth century Sabah and Sarawak
-type: article
-article_type: article
+type: publication
 authors:
 - D.J.M. Tate
 year: 1996
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-270-tate-plantingnineteenthcentury-1996-9d66e9b9f590
 source_path: ../sources/jmbras-270-tate-plantingnineteenthcentury-1996-9d66e9b9f590/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Planting in nineteenth century Sabah and Sarawak
 
 D.J.M. Tate, in this 1996 article for the *Journal of the Malaysian Branch of the Royal Asiatic Society*, surveys the commercial plantation industry in Sabah and Sarawak across the nineteenth century, arguing that despite their political and administrative distinctiveness from the Peninsular Malay States, the Borneo territories were inextricably linked to the broader Malaysian plantation economy through shared commercial networks, labour systems, and ultimately the transformative arrival of rubber.

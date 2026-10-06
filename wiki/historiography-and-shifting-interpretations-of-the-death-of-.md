@@ -4,8 +4,7 @@ work_id: jmbras-89-2-p1
 title: Historiography and shifting interpretations of the death of Sultan Mahmud Syah
 canonical_name: Historiography and shifting interpretations of the death of Sultan
   Mahmud Syah
-type: article
-article_type: article
+type: publication
 authors:
 - T.P. Barnard
 year: 2016
@@ -32,7 +31,9 @@ keywords:
   II'
 - 'Author(s): Timothy P. Barnard](assets/p1_img0.jpg)'
 - '![Figure](assets/p1_img1.jpg)'
+publication_type: journal_article
 ---
+
 # Historiography and shifting interpretations of the death of Sultan Mahmud Syah
 
 ## Abstract

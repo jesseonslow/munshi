@@ -4,8 +4,7 @@ work_id: jmbras-67-2-p93
 title: 'Transmissions through practical example: women and Islam in 1920s Malay fiction'
 canonical_name: 'Transmissions through practical example: women and Islam in 1920s
   Malay fiction'
-type: article
-article_type: article
+type: publication
 authors:
 - V.M. Hooker
 year: 1994
@@ -22,7 +21,9 @@ published: false
 source_doc: jmbras-267-hooker-transmissionpracticalexample-1994-8a099f981a00
 source_path: ../sources/jmbras-267-hooker-transmissionpracticalexample-1994-8a099f981a00/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Transmissions through practical example: women and Islam in 1920s Malay fiction
 
 Virginia Matheson Hooker's 1994 article examines two early Malay novels—*Faridah Hanom* (1925–26) by Sayyid Shaikh al-Hadi and *Hikayat Percintaan Kasih Kemudaan* (1927) by Ahmad Kotot—to demonstrate how Egyptian reformist Islamic thought, particularly the teachings of Muhammad 'Abduh and the journal *al-Manar*, was transmitted into Malay literary culture through the narrative device of the love story. Hooker argues that both novels function as vehicles for a specifically *social* (rather than doctrinal) reformism, using the moral authority of their female protagonists to articulate a system of values—loyalty (*setia*), duty (*wajib*), and humanism (*kemanusiaan*)—that positioned Islam as the foundation for modernisation without Western secularism.

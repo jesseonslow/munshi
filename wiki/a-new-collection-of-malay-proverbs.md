@@ -3,8 +3,7 @@ id: a-new-collection-of-malay-proverbs
 work_id: jsbras-24-1-p87
 title: A new collection of Malay proverbs
 canonical_name: A new collection of Malay proverbs
-type: article
-article_type: article
+type: publication
 authors:
 - Sir Hugh Charles Clifford
 year: 1891
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-024-clifford-newcollectionmalay-1891-8b9d3cd4f13e
 source_path: ../sources/jsbras-024-clifford-newcollectionmalay-1891-8b9d3cd4f13e.md
 summarized: true
+publication_type: translation
 ---
+
 # A new collection of Malay proverbs
 
 Hugh Clifford published this collection of previously unpublished Malay proverbs in 1891, drawing on his experience as a British colonial administrator in Pahang. The article presents approximately sixty proverbs with literal English translations and philological annotations, arguing that the Malay language's natural terseness makes it exceptionally well suited to aphoristic expression.

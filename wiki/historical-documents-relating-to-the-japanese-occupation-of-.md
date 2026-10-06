@@ -5,8 +5,7 @@ title: Historical documents relating to the Japanese occupation of Malaya. Comp.
   Kratoska
 canonical_name: Historical documents relating to the Japanese occupation of Malaya.
   Comp. P.H. Kratoska
-type: article
-article_type: article
+type: publication
 authors:
 - Various
 year: 2015
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-308-firstdayssyonan-2015-af67f2d3145a
 source_path: ../sources/jmbras-308-firstdayssyonan-2015-af67f2d3145a.md
 summarized: true
+publication_type: document
 ---
+
 # Historical documents relating to the Japanese occupation of Malaya. Comp. P.H. Kratoska
 
 This section of historical documents, compiled by P.H. Kratoska and published in JMBRAS Vol. 88 (2015), presents primary source materials from the Japanese occupation of Malaya and Singapore (1942–1945) that illuminate lesser-known administrative and cultural dimensions of the period. The collection, introduced with a framing essay acknowledging the maturation of Occupation historiography, offers four distinct documents spanning press operations, records management, naval intelligence, and museum collections.

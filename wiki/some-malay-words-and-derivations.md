@@ -3,8 +3,7 @@ id: some-malay-words-and-derivations
 work_id: jmbras-12-2-p182
 title: Some Malay words and derivations
 canonical_name: Some Malay words and derivations
-type: article
-article_type: article
+type: publication
 authors:
 - C.N. Maxwell
 year: 1934
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-119-maxwell-malaywordsderivations-1934-25acedc145e8
 source_path: ../sources/jmalayanras-119-maxwell-malaywordsderivations-1934-25acedc145e8.md
 summarized: true
+publication_type: note
 ---
+
 # Some Malay words and derivations
 
 C. N. Maxwell's short note (pp. 182–183) offers critical responses to two recent articles in the *Journal of the Malayan Branch of the Royal Asiatic Society*: A. W. Hamilton's "Some Malay words" and R. J. Bee's "Some Kelantan Place Names."

@@ -3,8 +3,7 @@ id: dusun-boats-on-the-segama-river-north-borneo
 work_id: jmbras-26-1-p211
 title: Dusun boats on the Segama River, North Borneo
 canonical_name: Dusun boats on the Segama River, North Borneo
-type: article
-article_type: article
+type: publication
 authors:
 - F.H. Fitch
 year: 1953
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-161-fitch-dusunboatssegama-1953-4c304ce08fbb
 source_path: ../sources/jmalayanras-161-fitch-dusunboatssegama-1953-4c304ce08fbb.md
 summarized: true
+publication_type: note
 ---
+
 # Dusun boats on the Segama River, North Borneo
 
 F. H. Fitch's short note describes the construction and use of the *alud*, a Dusun dug-out boat on the Segama River in North Borneo, with particular attention to its integral seat and the temporary bark superstructure fitted before descending rapids.

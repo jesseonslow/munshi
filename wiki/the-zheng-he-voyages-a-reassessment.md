@@ -3,8 +3,7 @@ id: the-zheng-he-voyages-a-reassessment
 work_id: jmbras-78-1-p37
 title: 'The Zheng He voyages: a reassessment'
 canonical_name: 'The Zheng He voyages: a reassessment'
-type: article
-article_type: article
+type: publication
 authors:
 - Geoff Wade
 year: 2005
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-288-wade-zhengvoyagesreassessment-2005-15ac1022d1b2
 source_path: ../sources/jmbras-288-wade-zhengvoyagesreassessment-2005-15ac1022d1b2/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The Zheng He voyages: a reassessment
 
 Geoff Wade's 2005 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* (Vol. 78, Part 1) re-examines the early fifteenth-century Ming maritime expeditions commanded by the eunuch Zheng He, situating them within the broader southern expansion programme of the Yongle emperor (r. 1403–24). Wade's central thesis is that these voyages were not the "friendly diplomatic activities" of popular Chinese memory but rather an aggressive form of maritime proto-colonialism designed to impose a *pax Ming* across Southeast Asia and the Indian Ocean through military coercion and the control of strategic ports and trade routes.

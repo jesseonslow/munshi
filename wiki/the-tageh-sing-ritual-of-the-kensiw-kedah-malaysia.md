@@ -3,8 +3,7 @@ id: the-tageh-sing-ritual-of-the-kensiw-kedah-malaysia
 work_id: jmbras-86-2-p77
 title: The Tageh sing ritual of the Kensiw, Kedah, Malaysia
 canonical_name: The _Tageh_ sing ritual of the Kensiw, Kedah, Malaysia
-type: article
-article_type: article
+type: publication
 authors:
 - S. Nagata
 year: 2013
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-305-nagata-tagehsingritual-2013-01eeb1a9ffc5
 source_path: ../sources/jmbras-305-nagata-tagehsingritual-2013-01eeb1a9ffc5/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The Tageh sing ritual of the Kensiw, Kedah, Malaysia
 
 S. Nagata's 2013 note in the *Journal of the Malaysian Branch of the Royal Asiatic Society* documents the *tageh* sing ritual of the Kensiw (Orang Asli) of Kedah, based on fieldwork conducted in the early 1970s near Baling. The article argues that *tageh* represents a distinct genre of religious performance—neither shamanistic seance nor seasonal-fruit ceremony—that is unique to the Kensiw and may constitute a polar type within the broader spectrum of Orang Asli ritual singing.

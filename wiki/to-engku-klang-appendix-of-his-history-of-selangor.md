@@ -3,8 +3,7 @@ id: to-engku-klang-appendix-of-his-history-of-selangor
 work_id: jmbras-12-3-p112
 title: To’ Engku Klang. {Appendix of his History of Selangor
 canonical_name: To’ Engku Klang. {Appendix of _his_ History of Selangor}
-type: article
-article_type: article
+type: publication
 authors:
 - R.O. Winstedt
 year: 1934
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: true
 source_doc: jmalayanras-120-winstedt-historyselangor-1934-f6c627ce0f11
 source_path: ../sources/bibliography.md
+publication_type: document
 ---
+
 # To’ Engku Klang. {Appendix of his History of Selangor
 
 R.O. Winstedt's *A History of Selangor*, published in the *Journal of the Malayan Branch of the Royal Asiatic Society* in 1934, traces the political development of Selangor from its prehistoric archaeological remains through the Bugis conquests of the eighteenth century to the establishment of British residency in 1874. Winstedt's overarching thesis is that Selangor's modern statehood emerged not from indigenous Malay political evolution but from the intersection of Bugis military enterprise, Chinese commercial immigration, and ultimately British imperial intervention in a succession crisis that domestic warfare alone could not resolve.

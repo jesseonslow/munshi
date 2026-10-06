@@ -3,8 +3,7 @@ id: notes-of-visits-to-puket-ghirbee-and-trang
 work_id: jsbras-42-1-p7
 title: Notes of visits to Puket, Ghirbee and Trang
 canonical_name: Notes of visits to Puket, Ghirbee and Trang
-type: article
-article_type: article
+type: publication
 authors:
 - C.W.S. Kynnersley
 year: 1905
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-042-kynnersley-notesvisitspuket-1905-4a96be2b7d39
 source_path: ../sources/jsbras-042-kynnersley-notesvisitspuket-1905-4a96be2b7d39.md
 summarized: true
+publication_type: note
 ---
+
 # Notes of visits to Puket, Ghirbee and Trang
 
 C.W.S. Kynnersley published this first-person travelogue in 1905, recording his February–March 1903 visits to the Siamese ports of Puket (Phuket), Ghirbee, and Trang on the west coast of the Malay Peninsula. Writing from the vantage point of a British observer based in Penang, Kynnersley documents the rapid transformation of these states under Siamese centralisation, with particular attention to tin mining, administrative structures, and fiscal arrangements.

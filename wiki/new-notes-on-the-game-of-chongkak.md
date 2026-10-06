@@ -3,8 +3,7 @@ id: new-notes-on-the-game-of-chongkak
 work_id: jsbras-68-1-p7
 title: New notes on the game of “chongkak”
 canonical_name: New notes on the game of _“chongkak”._
-type: article
-article_type: article
+type: publication
 authors:
 - H. Overbeck
 year: 1915
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-068-overbeck-newnotesgame-1915-cc7c4474edb4
 source_path: ../sources/jsbras-068-overbeck-newnotesgame-1915-cc7c4474edb4.md
 summarized: true
+publication_type: note
 ---
+
 # New notes on the game of “chongkak”
 
 H. Overbeck's 1915 note in the *Journal of the Straits Branch of the Royal Asiatic Society* documents the rules of the Ceylonese variant of the mancala-family board game known as "chongkak" (or "dakon" in Java), drawing on first-hand experience playing the game aboard a mailsteamer and from a carved Balinese board acquired in Java.

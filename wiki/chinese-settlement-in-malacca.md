@@ -3,8 +3,7 @@ id: chinese-settlement-in-malacca
 work_id: jmbras-20-1-p115
 title: Chinese settlement in Malacca
 canonical_name: Chinese settlement in Malacca
-type: article
-article_type: article
+type: publication
 authors:
 - V. Purcell
 year: 1947
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-142-purcell-chinesesettlementmalacca-1947-c0c153b3f33c
 source_path: ../sources/jmalayanras-142-purcell-chinesesettlementmalacca-1947-c0c153b3f33c.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Chinese settlement in Malacca
 
 Victor Purcell (C.M.G., Ph.D. Cantab, M.C.S.) published this article in 1947 in the *Journal of the Malayan Branch of the Royal Asiatic Society* (Vol. 20, Part 1). It addresses the long-standing but imprecise claim that "the Chinese have lived in Malaya for many centuries" by attempting to fix, as precisely as the available evidence allows, the date at which Chinese first made Malacca their permanent home rather than merely a trading stop. The overarching thesis is that the Chinese community in Malacca was small, demographically male, and largely reconstituted under Dutch rule after falling into decay during the Portuguese period.

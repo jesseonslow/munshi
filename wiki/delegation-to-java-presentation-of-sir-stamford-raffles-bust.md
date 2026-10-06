@@ -5,8 +5,7 @@ title: 'Delegation to Java: presentation of Sir Stamford Raffles’ bust to the 
   Batavian Society of Arts and Sciences'
 canonical_name: 'Delegation to Java: presentation of Sir Stamford Raffles’ bust to
   the Royal Batavian Society of Arts and Sciences'
-type: article
-article_type: article
+type: publication
 authors:
 - Malaysian Branch of the Royal Asiatic Society
 year: 1930
@@ -23,7 +22,9 @@ published: false
 source_doc: jmalayanras-110-delegationjavapresentation-1930-c33c6a393cc3
 source_path: ../sources/jmalayanras-110-delegationjavapresentation-1930-c33c6a393cc3.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Delegation to Java: presentation of Sir Stamford Raffles’ bust to the Royal Batavian Society of Arts and Sciences
 
 This article, authored by C. Boden Kloss and F. N. Chasen and published in 1930, documents the presentation of a bronze bust of Sir Thomas Stamford Raffles to the Royal Batavian Society of Arts and Sciences in Batavia on 23 December 1929, an event that fulfilled a promise Raffles had made to that Society in 1816 but which had been frustrated by the political upheavals following the British evacuation of Java. The piece is framed as a commemorative record of the ceremony but carries within it a substantial historiographical essay by Professor B. Schrieke on Raffles' administrative legacy in Java and its long-term influence on Dutch colonial policy.

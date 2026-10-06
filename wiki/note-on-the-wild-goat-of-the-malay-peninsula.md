@@ -3,8 +3,7 @@ id: note-on-the-wild-goat-of-the-malay-peninsula
 work_id: jsbras-45-1-p279
 title: Note on the wild goat of the Malay Peninsula
 canonical_name: Note on the wild goat of the Malay Peninsula
-type: article
-article_type: article
+type: publication
 authors:
 - H. Norman
 - H.N. Ridley
@@ -23,7 +22,9 @@ summarized: true
 source_mismatch: false
 source_doc: jsbras-045-norman-notewildgoat-1906-80441af91308
 source_path: ../sources/jsbras-045-norman-notewildgoat-1906-80441af91308.md
+publication_type: note
 ---
+
 # Note on the wild goat of the Malay Peninsula
 
 A brief note by Henry Norman recording the capture of a wild goat (*Nemorrhoedus sumatrensis* var. *Swettenhami*) on the flat coastal plain of Selangor, an unusual location for the species.

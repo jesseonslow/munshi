@@ -5,8 +5,7 @@ title: 'Joining the communist underground: the conversion of English-educated ra
   to communism in Singapore'
 canonical_name: 'Joining the communist underground: the conversion of English-educated
   radicals to communism in Singapore'
-type: article
-article_type: article
+type: publication
 authors:
 - Yeo Kim Wah
 year: 1994
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-266-wah-joiningcommunistunderground-1994-e70f1d6f7c80
 source_path: ../sources/jmbras-266-wah-joiningcommunistunderground-1994-e70f1d6f7c80/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Joining the communist underground: the conversion of English-educated radicals to communism in Singapore
 
 Yeo Kim Wah's 1994 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* traces how a small cadre of English-educated Malayan intellectuals—chiefly former leaders of the Malayan Democratic Union (MDU)—were absorbed into the Malayan Communist Party (MCP) underground in Singapore between June 1948 and January 1951. The central argument is that these radicals were not covert communists operating through the MDU during 1945–48 but genuine anti-colonial nationalists whose deep commitment to an independent united Malaya, compounded by Emergency repression and the inspirational momentum of the Chinese revolution, drove them into the communist fold through the Anti-British League (ABL).

@@ -3,8 +3,7 @@ id: on-a-collection-of-birds-from-ne
 work_id: jsbras-81-1-p79
 title: On a collection of birds from N.E
 canonical_name: On a collection of birds from N.E
-type: article
-article_type: article
+type: publication
 authors:
 - C.B. Kloss
 - Sumatra. H.C. Robinson
@@ -23,7 +22,9 @@ published: false
 source_doc: jsbras-080-robinson-collectionbirdsn-1919-a2f4ba345d5f
 source_path: ../sources/jsbras-080-robinson-collectionbirdsn-1919-a2f4ba345d5f.md
 summarized: true
+publication_type: journal_article
 ---
+
 # On a collection of birds from N.E
 
 Robinson and Kloss (1919) present a detailed taxonomic account of a large bird collection assembled by the Dutch planter Heer A. C. F. A. van Heyst across the Deli, Serdang, Simeloengan, and Langkat districts of N.E. Sumatra, spanning altitudes from sea level to 1,390 m on the Karo Plateau. The paper describes 242 species, erects four new taxa, and records four species for the first time from Sumatra, while systematically comparing the N.E. Sumatran populations with those of the Malay Peninsula, Borneo, and Java.

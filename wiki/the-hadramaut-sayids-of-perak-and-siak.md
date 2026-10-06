@@ -3,8 +3,7 @@ id: the-hadramaut-sayids-of-perak-and-siak
 work_id: jsbras-79-1-p49
 title: The Hadramaut Sayids of Perak and Siak
 canonical_name: The Hadramaut Sayids of Perak and Siak
-type: article
-article_type: article
+type: publication
 authors:
 - R.O. Winstedt
 year: 1918
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-079-winstedt-hadramautsaiyidsperak-1918-7859f035a090
 source_path: ../sources/jsbras-079-winstedt-hadramautsaiyidsperak-1918-7859f035a090.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The Hadramaut Sayids of Perak and Siak
 
 This note by R. O. Winstedt traces the genealogical origins and political influence of a Hadramaut Sayid family that rose to prominence in Perak and Siak during the 17th and 18th centuries.

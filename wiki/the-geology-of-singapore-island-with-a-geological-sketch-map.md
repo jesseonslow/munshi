@@ -3,8 +3,7 @@ id: the-geology-of-singapore-island-with-a-geological-sketch-map
 work_id: jmbras-2-1-p1
 title: The geology of Singapore Island; with a geological sketch map
 canonical_name: The geology of Singapore Island; with a geological sketch map
-type: article
-article_type: article
+type: publication
 authors:
 - J.B. Scrivenor
 year: 1924
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: true
 source_doc: jmalayanras-090-scrivenor-geologysingaporeisland-1924-1f565a8e4451
 source_path: ../sources/jmalayanras-090-scrivenor-geologysingaporeisland-1924-1f565a8e4451.md
+publication_type: journal_article
 ---
+
 # The geology of Singapore Island; with a geological sketch map
 
 J.B. Scrivenor, a geologist with the Straits Settlements Geological Department, published this general geological account of Singapore Island in 1924, synthesizing fieldwork conducted over several visits with the bulk of observations made in 1922. The paper establishes the stratigraphic framework of the island—placing its sedimentary rocks in the Upper Triassic (Rhaetic) and its granite as a younger intrusive body—and situates Singapore within the broader tectonic and lithological patterns of the Malay Peninsula.

@@ -3,8 +3,7 @@ id: malay-names-of-freshwater-fishes
 work_id: jmbras-25-1-p62
 title: Malay names of freshwater fishes
 canonical_name: Malay names of freshwater fishes
-type: article
-article_type: article
+type: publication
 authors:
 - M.W.F. Tweedie
 year: 1952
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-158-tweedie-malaynamesfreshwater-1952-f01be44fefb3
 source_path: ../sources/jmalayanras-158-tweedie-malaynamesfreshwater-1952-f01be44fefb3.md
 summarized: true
+publication_type: note
 ---
+
 # Malay names of freshwater fishes
 
 M.W.F. Tweedie published this concise ethnoichthyological list in 1952, providing a curated correlation between Malay vernacular names and the scientific taxonomy of strictly freshwater fish species in the Malay Peninsula. Working from field knowledge and the specimen records of C.S. Ogilvie at Kuala Tahan, Pahang, Tweedie sought to remedy the inadequate ichthyological grounding of earlier name lists by Maxwell (1921) and Wilkinson (1932), offering what he considered a reliable set of specific identifications.

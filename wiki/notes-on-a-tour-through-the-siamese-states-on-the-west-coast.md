@@ -5,8 +5,7 @@ title: Notes on a tour through the Siamese states on the west coast of the Malay
   1900
 canonical_name: Notes on a tour through the Siamese states on the west coast of the
   Malay Peninsula, 1900
-type: article
-article_type: article
+type: publication
 authors:
 - C.W.S. Kynnersley
 year: 1901
@@ -23,7 +22,9 @@ published: false
 source_doc: jsbras-036-kynnersley-notestoursiamese-1901-befedd97d0e2
 source_path: ../sources/jsbras-036-kynnersley-notestoursiamese-1901-befedd97d0e2.md
 summarized: true
+publication_type: note
 ---
+
 # Notes on a tour through the Siamese states on the west coast of the Malay Peninsula, 1900
 
 C.W.S. Kynnersley, British Consul at Penang, published this consular travelogue in 1901 describing his December 1900 tour of the Siamese vassal states on the west coast of the Malay Peninsula—Kedah, Trang, Tongkah (Puket), Pung-a, and the Langkawi islands. The account documents the state of local administration, infrastructure, and economic development under Siamese suzerainty, and its central argument is that these states remain chronically underdeveloped because Bangkok treats them as revenue sources rather than provinces to be cultivated, extracting sixty per cent of their income while failing to invest in roads, telegraph, or other public works.

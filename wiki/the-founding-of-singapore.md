@@ -3,8 +3,7 @@ id: the-founding-of-singapore
 work_id: jsbras-2-1-p175
 title: The founding of Singapore
 canonical_name: The founding of Singapore
-type: article
-article_type: article
+type: publication
 authors:
 - T.S. Raffles
 year: 1878
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-002-raffles-foundingsingapore-1878-b033e0aa4312
 source_path: ../sources/jsbras-002-raffles-foundingsingapore-1878-b033e0aa4312.md
 summarized: true
+publication_type: document
 ---
+
 # The founding of Singapore
 
 Sir Stamford Raffles, writing from Singapore on 10 June 1819 to Colonel Addenbrooke, offers the most extensive contemporary justification for the founding of the settlement, framing its establishment as a necessary British counter to Dutch monopoly across the Archipelago. The letter, preserved in the Scholefield collection and published in the *Journal of the Straits Branch of the Royal Asiatic Society* in 1878, combines strategic argumentation with personal and scientific reflection.

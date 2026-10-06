@@ -3,8 +3,7 @@ id: some-ulun-no-bokan-murut-charms
 work_id: jmbras-14-3-p330
 title: Some ulun-no-bokan (Murut) charms
 canonical_name: Some _ulun-no-bokan_ (Murut) charms
-type: article
-article_type: article
+type: publication
 authors:
 - H.G. Keith
 year: 1936
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-126-keith-ulunnobokanmurutcharms-1936-11a3801c4973
 source_path: ../sources/jmalayanras-126-keith-ulunnobokanmurutcharms-1936-11a3801c4973.md
 summarized: true
+publication_type: note
 ---
+
 # Some ulun-no-bokan (Murut) charms
 
 This short note by H. G. Keith records four specific charms (*tinogum*) of the Ulun-no-Bokan (Murut) people, each with a distinct name and ritual application (p. 330).

@@ -3,8 +3,7 @@ id: the-reminiscences-of-colonel-nahuijs-ce-wurtzburg
 work_id: jmbras-23-3-p127
 title: The reminiscences of Colonel Nahuijs. C.E. Wurtzburg
 canonical_name: The reminiscences of Colonel Nahuijs. C.E. Wurtzburg
-type: article
-article_type: article
+type: publication
 authors:
 - Hulbert Gerard, baron Nahuijs van Burgst
 - C.E. Wurtzburg
@@ -22,7 +21,9 @@ published: false
 source_doc: jmalayanras-153-wurtzburg-reminiscencescolonelnahuys-1950-2f1276a1b736
 source_path: ../sources/jmalayanras-153-wurtzburg-reminiscencescolonelnahuys-1950-2f1276a1b736.md
 summarized: true
+publication_type: translation
 ---
+
 # The reminiscences of Colonel Nahuijs. C.E. Wurtzburg
 
 C. E. Wurtzburg published these translated extracts from the 1858 English translation of Baron Nahuijs van Burgst's autobiography in 1950, drawing on a privately printed Arnhem edition of the "Reminiscences of the Public & Private Life (1799–1849)" that had recently come into the possession of H. Eric Miller. The article presents Nahuijs's first-hand account of the Dutch colonial crisis in Java from 1805 to 1816, centred on the British capture of the Dutch fleet at Batavia, the fall of Dutch Java to Raffles in 1811, and the subsequent restoration of Dutch sovereignty in 1816.

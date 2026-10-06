@@ -3,8 +3,7 @@ id: the-origin-of-the-malay-surau
 work_id: jmbras-29-1-p179
 title: The origin of the Malay surau
 canonical_name: The origin of the Malay _surau._
-type: article
-article_type: article
+type: publication
 authors:
 - R.A. Kern
 year: 1956
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-173-kern-originmalaysurau-1956-2d425ea5d6d4
 source_path: ../sources/jmalayanras-173-kern-originmalaysurau-1956-2d425ea5d6d4.md
 summarized: true
+publication_type: note
 ---
+
 # The origin of the Malay surau
 
 This short note by R. A. Kern argues that the Malay *surau* (village chapel) is a linguistic and architectural continuation of a pre-Islamic Batak pagan temple called *suro* or *parsuroan*.

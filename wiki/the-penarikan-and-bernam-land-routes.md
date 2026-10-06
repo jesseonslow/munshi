@@ -3,8 +3,7 @@ id: the-penarikan-and-bernam-land-routes
 work_id: jmbras-17-1-p144
 title: The Penarikan and Bernam land-routes
 canonical_name: The Penarikan and Bernam land-routes
-type: article
-article_type: article
+type: publication
 authors:
 - H.D. Noone
 year: 1939
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-134-noone-penarikanbernamlandroutes-1939-c8cb60a4cd27
 source_path: ../sources/jmalayanras-134-noone-penarikanbernamlandroutes-1939-c8cb60a4cd27.md
 summarized: true
+publication_type: note
 ---
+
 # The Penarikan and Bernam land-routes
 
 This short note by H. D. Noone (1939) examines two ancient overland and water routes connecting the Pahang and Muar river systems in the Malay Peninsula, arguing for their significance as prehistoric trade corridors.

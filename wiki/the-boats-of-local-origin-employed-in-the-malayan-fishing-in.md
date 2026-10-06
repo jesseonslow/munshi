@@ -5,8 +5,7 @@ title: The boats of local origin employed in the Malayan fishing industry. {In P
   on Malayan fishing methods
 canonical_name: The boats of local origin employed in the Malayan fishing industry.
   _{In_ Papers on Malayan fishing methods}
-type: article
-article_type: article
+type: publication
 authors:
 - C.A. Gibson-Hill
 year: 1954
@@ -23,7 +22,9 @@ published: false
 source_doc: jmalayanras-166-burdon-papersmalayanfishing-1954-fb05d0340a63
 source_path: ../sources/jmalayanras-166-burdon-papersmalayanfishing-1954-fb05d0340a63/index.md
 summarized: true
+publication_type: monograph
 ---
+
 # The boats of local origin employed in the Malayan fishing industry. {In Papers on Malayan fishing methods
 
 C. A. Gibson-Hill's "The boats of local origin employed in the Malayan fishing industry" (1954) is the third and final paper in the MBRAS monograph *Papers on Malayan Fishing Methods*, following T. W. Burdon's account of Singapore fishing methods and M. L. Parry's study of Kelantan and Trengganu. Gibson-Hill, a long-standing contributor to the journal and authority on Malayan material culture, extends his earlier 1950 study of Singapore fishing boats to a peninsula-wide treatment of indigenous vessel types, their construction, and their functional relationship to specific fishing methods.

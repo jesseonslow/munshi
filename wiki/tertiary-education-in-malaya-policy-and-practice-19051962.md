@@ -3,8 +3,7 @@ id: tertiary-education-in-malaya-policy-and-practice-19051962
 work_id: jmbras-63-1-p1
 title: 'Tertiary education in Malaya: policy and practice, 1905–1962'
 canonical_name: 'Tertiary education in Malaya: policy and practice, 1905–1962'
-type: article
-article_type: article
+type: publication
 authors:
 - K.G. Tregonning
 year: 1990
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: true
 source_doc: jmbras-258-tregonning-tertiaryeducationmalaya-1990-d4de36c9f006
 source_path: ../sources/jmbras-258-tregonning-tertiaryeducationmalaya-1990-d4de36c9f006.md
+publication_type: journal_article
 ---
+
 # Tertiary education in Malaya: policy and practice, 1905–1962
 
 K.G. Tregonning, a historian who served as Raffles Professor of History at the University of Malaya from 1953, published this retrospective in 1990 tracing the development of tertiary education in Malaya from the founding of the Straits Settlements Medical School in 1905 to the separation of the University of Malaya into two independent institutions in 1962. His central argument is that British colonial laissez-faire attitudes to higher education perpetuated racial divisions and squandered opportunities for using the university as a unifying national institution, while the Japanese occupation—despite its brutality—broke the colonial inertia that had stifled educational progress.

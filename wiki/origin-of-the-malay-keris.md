@@ -3,8 +3,7 @@ id: origin-of-the-malay-keris
 work_id: jmbras-16-2-p36
 title: Origin of the Malay keris
 canonical_name: Origin of the Malay _keris._
-type: article
-article_type: article
+type: publication
 authors:
 - G.C. Woolley
 year: 1938
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-132-woolley-originmalaykeris-1938-0d4151e61b2c
 source_path: ../sources/jmalayanras-132-woolley-originmalaykeris-1938-0d4151e61b2c.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Origin of the Malay keris
 
 G.C. Woolley published this concise rebuttal in 1938, responding directly to G.C. Griffith Williams' December 1937 paper in the same journal, which had argued that the Malay keris evolved from a detachable spear point. Woolley's overarching thesis is that the keris was not a converted spear head but a purpose-built thrusting weapon whose distinctive features—particularly the *ganja* crossguard and the talismanic character of the oldest Majapahit specimens—point to an independent origin rooted in the practical and spiritual needs of Malay warriors.

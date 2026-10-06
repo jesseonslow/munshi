@@ -3,8 +3,7 @@ id: gantong-of-kelantan
 work_id: jmbras-11-2-p242
 title: Gantong of Kelantan
 canonical_name: _Gantong_ of Kelantan
-type: article
-article_type: article
+type: publication
 authors:
 - A. Rentse
 year: 1933
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-117-rentse-gantangkelantan-1933-c484620baba0
 source_path: ../sources/jmalayanras-117-rentse-gantangkelantan-1933-c484620baba0.md
 summarized: true
+publication_type: note
 ---
+
 # Gantong of Kelantan
 
 This short note by Anker Rentse (1933) describes several historical *gantang* (rice measures) from Kelantan, documenting their inscriptions, materials, and volumes relative to the modern standard.

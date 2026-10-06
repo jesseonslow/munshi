@@ -3,8 +3,7 @@ id: petara-or-sea-dyak-gods
 work_id: jsbras-8-1-p133
 title: Petara, or Sea Dyak gods
 canonical_name: _Petara,_ or Sea Dyak gods
-type: article
-article_type: article
+type: publication
 authors:
 - J. Perham
 year: 1881
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-010-perham-seadyakreligion-1882-eeacd4a331fb
 source_path: ../sources/jsbras-010-perham-seadyakreligion-1882-eeacd4a331fb.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Petara, or Sea Dyak gods
 
 J. Perham, a British civil servant in the Sarawak service, published this ethnographic study of Sea Dyak religious practice in 1882 as a continuation of his earlier paper on *Petara* (JSBRAS Vol. 8, pp. 133–152). The article examines the lived religion of the Sea Dyaks of Sarawak—spirit worship, sacrificial ritual, and the elaborate omen system—arguing that their belief constitutes a compound of nature-worship, demonolatry, and practical superstition rather than a coherent theological system. Perham's overarching thesis is that Dyak religion, while rich in its number of objects of veneration, is fundamentally external and transactional, oriented toward material ends (crops, victory, health) rather than moral or spiritual improvement.

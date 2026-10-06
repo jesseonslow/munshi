@@ -3,8 +3,7 @@ id: the-game-of-chap-ji-ki
 work_id: jsbras-31-1-p63
 title: The game of chap-ji-ki
 canonical_name: The game of _chap-ji-ki._
-type: article
-article_type: article
+type: publication
 authors:
 - Hare G.T
 year: 1898
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-031-hare-gamechapjiki-1898-5aa3ab19b56b
 source_path: ../sources/jsbras-031-hare-gamechapjiki-1898-5aa3ab19b56b.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The game of chap-ji-ki
 
 G. T. Hare's 1898 article in the *Journal of the Straits Branch of the Royal Asiatic Society* documents the Chap-Ji-Ki lottery as it operated in Singapore during the mid-1890s, a gambling epidemic that swept through the Straits-born Hokkien and Teochew Chinese trading community before being suppressed by colonial authorities in 1896. Written from the perspective of an official intimately familiar with the game's internal mechanics, the piece serves both as an ethnographic record of a disappearing practice and as an implicit justification for the Government's crackdown.

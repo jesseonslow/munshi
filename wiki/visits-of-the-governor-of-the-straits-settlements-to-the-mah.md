@@ -5,8 +5,7 @@ title: Visits of the Governor of the Straits Settlements to the Maharajah of Joh
   in 1874, 1880, and 1882. Facsimile reprint
 canonical_name: Visits of the Governor of the Straits Settlements to the Maharajah
   of Johor in 1874, 1880, and 1882. Facsimile reprint
-type: article
-article_type: article
+type: publication
 authors:
 - F.A Weld
 year: 2022
@@ -23,7 +22,9 @@ published: false
 source_doc: anon-documents-from-malaysian-history-a5add0bf2cc7
 source_path: ../sources/anon-documents-from-malaysian-history-a5add0bf2cc7.md
 summarized: true
+publication_type: reprint
 ---
+
 # Visits of the Governor of the Straits Settlements to the Maharajah of Johor in 1874, 1880, and 1882. Facsimile reprint
 
 This 2022 JMBRAS publication, edited under the "Documents from Malaysian History" series, reprints three primary-source accounts of official visits by the Governor of the Straits Settlements to the Maharajah of Johor between 1874 and 1882. The documents illuminate the diplomatic protocols, economic ambitions, and evolving political relationship between the Crown Colony of Singapore and the independent Malay state of Johor during the critical period when Britain was extending its influence over the peninsular Malay states through the Resident system.

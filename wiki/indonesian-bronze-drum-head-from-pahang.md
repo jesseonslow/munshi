@@ -3,8 +3,7 @@ id: indonesian-bronze-drum-head-from-pahang
 work_id: jmbras-7-3-p456
 title: Indonesian bronze drum-head from Pahang
 canonical_name: Indonesian bronze drum-head from Pahang
-type: article
-article_type: article
+type: publication
 authors:
 - R.O. Winstedt
 year: 1929
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-108-winstedt-indonesianbronzedrumhead-1929-e2badb2485e8
 source_path: ../sources/jmalayanras-108-winstedt-indonesianbronzedrumhead-1929-e2badb2485e8.md
 summarized: true
+publication_type: note
 ---
+
 # Indonesian bronze drum-head from Pahang
 
 R. O. Winstedt's brief note corrects the identification of a bronze object from the Tembeling, Pahang, previously published as a burial-urn lid by Mr. Linehan (Vol. VI, Part IV, November 1928), establishing it as the head of a bronze drum (p. 456).

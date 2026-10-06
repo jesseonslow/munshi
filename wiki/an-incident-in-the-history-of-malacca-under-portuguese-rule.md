@@ -3,8 +3,7 @@ id: an-incident-in-the-history-of-malacca-under-portuguese-rule
 work_id: jmbras-6-4-p58
 title: An incident in the history of Malacca under Portuguese rule
 canonical_name: An incident in the history of Malacca under Portuguese rule
-type: article
-article_type: article
+type: publication
 authors:
 - B.S. Mee
 year: 1928
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-105-mee-incidenthistorymalacca-1928-22007a63d9a4
 source_path: ../sources/jmalayanras-105-mee-incidenthistorymalacca-1928-22007a63d9a4.md
 summarized: true
+publication_type: reprint
 ---
+
 # An incident in the history of Malacca under Portuguese rule
 
 B. S. Mee's 1928 contribution to the *Journal of the Malayan Branch of the Royal Asiatic Society* is a reprint of a passage from the 1664 English translation (by Sir Peter Wyche) of Jacinto Freire de Andrade's Portuguese biography of Dom John de Castro, the Fourth Vice-Roy of India (1542–1548). The passage recounts a naval crisis at Portuguese Malacca in the 1540s, in which a night raid by the King of Achem, a subsequent fleet engagement off Queda (Kedah), and a deceptive diplomatic overture by a confederation of Malay rulers were all resolved in favour of the Portuguese garrison.
