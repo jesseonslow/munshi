@@ -19,10 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
-source_doc: jsbras-032-ridley-insectivoroussquirrel-1899-cabd4e6a994d
-source_path: ../sources/jsbras-032-ridley-insectivoroussquirrel-1899-cabd4e6a994d.md
-summarized: true
+summarized: false
+source_mismatch: true
 ---
+
 # Bekin
 
 This is a brief note by H. N. Ridley on the use of female quails for fighting in Sungei Ujong, published in the *Journal of the Straits Branch of the Royal Asiatic Society* (1899).

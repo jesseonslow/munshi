@@ -19,10 +19,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
-source_doc: jmbras-311-kratoska-wroteyellowsleuth-2016-5d5f9766c32a
-source_path: ../sources/jmbras-311-kratoska-wroteyellowsleuth-2016-5d5f9766c32a.md
-summarized: true
+summarized: false
+source_mismatch: true
 ---
+
 # The word Bugis
 
 This document comprises two Notes & Queries items published in JMBRAS Vol. 89, No. 2 (2016), the first being a query by Russell Jones on the etymology of the Malay word "Bugis" and the second by Paul Kratoska on the identity of the author of *A Yellow Sleuth* (1931).

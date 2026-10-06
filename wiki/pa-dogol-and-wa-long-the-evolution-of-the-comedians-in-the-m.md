@@ -20,17 +20,11 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
-source_doc: jsbras-039-corrigendamrc-1903-215535fca24b
-source_path: ../sources/jsbras-039-corrigendamrc-1903-215535fca24b.md
-summarized: true
+summarized: false
+source_mismatch: true
 ---
+
 # Pa’ Dogol and Wa’ Long: the evolution of the comedians in the Malay shadow play in Kelantan
-
-This is a corrigendum by C. O. Blagden listing typographical and substantive corrections to his own paper "A Malayan Element in some of the Languages of Southern Indo-China" (Journal No. 38, pp. 1–27), published in the *Journal of the Straits Branch of the Royal Asiatic Society*, No. 39 (June 1903).
-
-## Summary
-
-The document consists of a single-page list of approximately thirty corrections spanning pages 1 through 27 of the original paper. The corrections include spelling fixes (e.g., "Khmet" for "Khmer," "sembilon" for "sembilan," "leureux" for "heureux"), a substantive linguistic correction changing "Papuan" to "Melanesian" (p. 22), and various punctuation and formatting adjustments. The corrections are presented in standard errata format with page and line references.
 
 ## References
 <!-- Grounded occurrences and citations -->

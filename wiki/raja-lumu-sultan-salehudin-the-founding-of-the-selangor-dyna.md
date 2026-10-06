@@ -18,10 +18,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
-source_doc: jsbras-058-hose-hikayatsaifalyezan-1911-8049e3d21c2a
-source_path: ../sources/jsbras-058-hose-hikayatsaifalyezan-1911-8049e3d21c2a.md
-summarized: true
+summarized: false
+source_mismatch: true
 ---
+
 # Raja Lumu – Sultan Salehudin: the founding of the Selangor dynasty
 
 Khoo Kay Kim's 1985 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* examines the origins of the Selangor royal dynasty, tracing the lineage from Raja Lumu through to Sultan Salehudin (Sultan Salehuddin), the first recognized Sultan of Selangor. The study addresses the historiographical gap surrounding the early political consolidation of Selangor in the late eighteenth and early nineteenth centuries, drawing on Malay annals, genealogical records, and colonial administrative sources to reconstruct the succession and legitimation processes that established the Selangor throne.
