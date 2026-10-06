@@ -22,7 +22,4 @@ summarized: false
 source_mismatch: true
 ---
 
-# Foreword (J.M. Gullick Festschrift
-
-## References
-<!-- Grounded occurrences and citations -->
+# Foreword (J.M. Gullick Festschrift)
