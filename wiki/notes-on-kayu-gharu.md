@@ -3,8 +3,7 @@ id: notes-on-kayu-gharu
 work_id: jsbras-18-1-p359
 title: Notes on kayu gharu
 canonical_name: Notes on _kayu gharu._
-type: article
-article_type: article
+type: publication
 authors:
 - R.N. Bland
 year: 1886
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-018-b-noteskayugharu-1886-cf193102c71b
 source_path: ../sources/jsbras-018-b-noteskayugharu-1886-cf193102c71b.md
 summarized: true
+publication_type: note
 ---
+
 # Notes on kayu gharu
 
 R.N. Bland's "Notes on Kayu Gharu" (JSBRAS Vol. 18, 1886, pp. 359–361) documents the ethnobotanical and commercial aspects of agarwood (*kayu gharu*) as gathered from Malay and *Pawang* informants in Ulu Muar and Johol.

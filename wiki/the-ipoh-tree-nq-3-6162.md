@@ -3,8 +3,7 @@ id: the-ipoh-tree-nq-3-6162
 work_id: jsbras-16-the-ipoh-tree-nq-3-6162
 title: 'The Ipoh tree. NQ 3: 61–62'
 canonical_name: 'The Ipoh tree. NQ 3: 61–62'
-type: article
-article_type: notes_and_queries
+type: publication
 authors:
 - L. Wray
 year: 1885
@@ -18,6 +17,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: note
 ---
 
 # The Ipoh tree. NQ 3: 61–62

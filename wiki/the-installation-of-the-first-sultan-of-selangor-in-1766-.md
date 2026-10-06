@@ -3,8 +3,7 @@ id: the-installation-of-the-first-sultan-of-selangor-in-1766-
 work_id: jmbras-47-1-p41
 title: The installation of the first Sultan of Selangor in 1766. ,
 canonical_name: The installation of the first Sultan of Selangor in 1766. ,
-type: article
-article_type: article
+type: publication
 authors:
 - B.W. Andaya
 year: 1974
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-225-andaya-installationfirstsultan-1974-0810e5e90190
 source_path: ../sources/jmbras-225-andaya-installationfirstsultan-1974-0810e5e90190.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The installation of the first Sultan of Selangor in 1766. ,
 
 Barbara Watson Andaya (1974) examines the 1766 installation of Raja Lumu as the first Sultan of Selangor, a pivotal event in the transition of Selangor from a Bugis outpost under nominal Johor suzerainty to an independent Malay state. The article argues that this installation was a deliberate political act designed to sever Selangor's ties with Riau and to establish Bugis legitimacy within the Malay political order by acquiring the essential appurtenances of kingship.

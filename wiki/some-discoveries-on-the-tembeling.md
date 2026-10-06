@@ -3,8 +3,7 @@ id: some-discoveries-on-the-tembeling
 work_id: jmbras-6-4-p66
 title: Some discoveries on the Tembeling
 canonical_name: Some discoveries on the Tembeling
-type: article
-article_type: article
+type: publication
 authors:
 - W. Linehan
 year: 1928
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-105-linehan-discoveriestembeling-1928-37eea0c5d4cb
 source_path: ../sources/jmalayanras-105-linehan-discoveriestembeling-1928-37eea0c5d4cb.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Some discoveries on the Tembeling
 
 W. Linehan published this article in 1928 in the *Journal of the Malayan Branch of the Royal Asiatic Society*, reporting on archaeological finds exposed by the great floods of 1926–27 along the Tembeling River in Pahang. The overarching thesis is that the Tembeling valley was once home to a non-Malay (likely Siamese) settlement engaged in iron smelting, bronze casting, and cannon manufacture, flourishing roughly from the 14th to the mid-15th century before the Malaccan Malay conquest.

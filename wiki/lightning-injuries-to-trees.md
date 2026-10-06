@@ -3,8 +3,7 @@ id: lightning-injuries-to-trees
 work_id: jmbras-13-2-p157
 title: Lightning injuries to trees
 canonical_name: Lightning injuries to trees
-type: article
-article_type: article
+type: publication
 authors:
 - C.X. Furtado
 year: 1935
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-122-furtado-lightninginjuriestrees-1935-3f233afdeadd
 source_path: ../sources/jmalayanras-122-furtado-lightninginjuriestrees-1935-3f233afdeadd.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Lightning injuries to trees
 
 C.X. Furtado, a botanist at the Singapore Botanic Gardens, published this observational study in 1935 documenting three lightning strikes that occurred near the Gardens between July 1928 and January 1929. The article presents detailed morphological observations of the damage inflicted on *Ficus variegata*, *Fagraea fragrans*, and *Albizia moluccana*, and uses these cases to propose a three-class typology for the physiological effects of electrical discharges on tree tissues.

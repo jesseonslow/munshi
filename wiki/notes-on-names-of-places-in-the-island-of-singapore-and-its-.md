@@ -3,8 +3,7 @@ id: notes-on-names-of-places-in-the-island-of-singapore-and-its-
 work_id: jsbras-20-1-p75
 title: Notes on names of places in the island of Singapore and its vicinity
 canonical_name: Notes on names of places in the island of Singapore and its vicinity
-type: article
-article_type: article
+type: publication
 authors:
 - Haughton H.T
 year: 1889
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-020-haughton-notesnamesplaces-1889-1b056b6cdde1
 source_path: ../sources/jsbras-020-haughton-notesnamesplaces-1889-1b056b6cdde1.md
 summarized: true
+publication_type: note
 ---
+
 # Notes on names of places in the island of Singapore and its vicinity
 
 H. T. Haughton published this etymological survey in the *Journal of the Straits Branch of the Royal Asiatic Society* in 1889, at a moment when Singapore's original Malay and Orang Laut populations were rapidly diminishing under the pressure of Chinese and Indian immigration. His overarching thesis is one of urgent documentation: the indigenous toponymy of the island and its surrounding waters was already being corrupted beyond recognition in official charts and maps, and he sought to record the correct Malay (and a few Chinese) forms before they were lost entirely.

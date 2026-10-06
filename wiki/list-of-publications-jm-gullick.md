@@ -3,8 +3,7 @@ id: list-of-publications-jm-gullick
 work_id: jmbras-72-2-p183
 title: List of publications. {J.M. Gullick
 canonical_name: List of publications. {J.M. Gullick}
-type: article
-article_type: article
+type: publication
 authors:
 - J.M. Gullick
 year: 1999
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-277-johnmgullick-listofpublications-1999-2ca892f2efb1
 source_path: ../sources/jmbras-277-johnmgullick-listofpublications-1999-2ca892f2efb1.md
 summarized: true
+publication_type: index
 ---
+
 # List of publications. {J.M. Gullick
 
 This is a bibliographic list of publications by John M. Gullick, compiled for JMBRAS Vol. 72 (Issue 2), 1999 (pp. 183–186).

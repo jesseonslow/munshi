@@ -3,8 +3,7 @@ id: the-sundang-and-other-malaysian-art-motifs
 work_id: jmbras-19-2-p238
 title: The Sundang and other Malaysian art motifs
 canonical_name: The Sundang and other Malaysian art motifs
-type: article
-article_type: article
+type: publication
 authors:
 - R.O. Winstedt
 year: 1941
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-140-winstedt-sundangmalaysianart-1941-8c2a721b07d9
 source_path: ../sources/jmalayanras-140-winstedt-sundangmalaysianart-1941-8c2a721b07d9.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The Sundang and other Malaysian art motifs
 
 R.O. Winstedt, the long-serving colonial administrator and scholar of Malay history, published this brief comparative study in 1941, arguing that several characteristic Malaysian art motifs—including the broad sword known as the *sundang*, parrot- and cockatoo-headed hilts, tiered roof forms, and stylised animal designs on Sumba cloths—bear traces of pre-Hindu, Byzantine, and even prehistoric Central Asian origins that predate the major religious and cultural transformations of the archipelago.

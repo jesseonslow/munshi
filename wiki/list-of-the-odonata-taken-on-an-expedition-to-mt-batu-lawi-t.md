@@ -5,8 +5,7 @@ title: List of the Odonata taken on an expedition to Mt. Batu Lawi together with
   of supposed new species
 canonical_name: List of the Odonata taken on an expedition to Mt. Batu Lawi together
   with descriptions of supposed new species
-type: article
-article_type: article
+type: publication
 authors:
 - F.F. Laidlaw
 year: 1912
@@ -24,7 +23,9 @@ summarized: true
 source_mismatch: true
 source_doc: jsbras-063-moulton-expeditionmountbatu-1912-94eae97ebac5
 source_path: ../sources/appendix.md
+publication_type: journal_article
 ---
+
 # List of the Odonata taken on an expedition to Mt. Batu Lawi together with descriptions of supposed new species
 
 F. F. Laidlaw's 1912 paper, published in the Journal of the Straits Branch of the Royal Asiatic Society (Vol. 63, pp. 92–99), presents a faunal list of Odonata (dragonflies and damselflies) collected during the 1911 Moulton-led expedition to Mount Batu Lawi in the upper Limbang–Madihit region of Sarawak, together with descriptions of species regarded as new to science.

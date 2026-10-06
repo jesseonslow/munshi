@@ -3,8 +3,7 @@ id: list-of-graveyards-of-the-late-sultans-of-perak
 work_id: jsbras-48-1-p97
 title: List of graveyards of the late Sultans of Perak
 canonical_name: List of graveyards of the late Sultans of Perak
-type: article
-article_type: article
+type: publication
 authors:
 - Anon (and unidentifiable initials)
 year: 1907
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-048-shukor-listgraveyardslate-1907-9acd7ae18e8e
 source_path: ../sources/jsbras-048-shukor-listgraveyardslate-1907-9acd7ae18e8e.md
 summarized: true
+publication_type: document
 ---
+
 # List of graveyards of the late Sultans of Perak
 
 Jeragan Abdul Shukor, holding the title Stia Bijaya Di Raja, produced this field report in 1907 under direct government instruction to survey and document the burial sites of all late Sultans of Perak. Published in the *Journal of the Straits Branch of the Royal Asiatic Society* (Vol. 48, pp. 97–106), the document is a systematic inventory of twenty-seven royal graves, compiled during the early years of Sultan Idris's reign and the consolidation of British administrative control over the state.

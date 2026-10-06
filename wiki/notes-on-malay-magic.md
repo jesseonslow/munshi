@@ -3,8 +3,7 @@ id: notes-on-malay-magic
 work_id: jmbras-3-3-p6
 title: Notes on Malay magic
 canonical_name: Notes on Malay magic
-type: article
-article_type: article
+type: publication
 authors:
 - R.O. Winstedt
 year: 1925
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-095-winstedt-notesmalaymagic-1925-84f55586f7a0
 source_path: ../sources/jmalayanras-095-winstedt-notesmalaymagic-1925-84f55586f7a0.md
 summarized: true
+publication_type: note
 ---
+
 # Notes on Malay magic
 
 R. O. Winstedt, writing in 1925 from his position as a senior colonial administrator in the Federated Malay States, published this wide-ranging survey of Malay magical practice in the *Journal of the Malayan Branch of the Royal Asiatic Society*. Drawing heavily on his own monograph *Shaman, Saiva and Sufi* and on a broad corpus of earlier ethnographic reports, Winstedt argues that Malay magic is a deeply syncretic system in which indigenous aboriginal beliefs have been successively overlaid with Hindu and then Islamic elements—and that much of what earlier scholars attributed to Hindu influence is in fact of Semitic or Muslim origin.

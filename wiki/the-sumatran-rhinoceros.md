@@ -3,8 +3,7 @@ id: the-sumatran-rhinoceros
 work_id: jsbras-35-1-p105
 title: The Sumatran rhinoceros
 canonical_name: The Sumatran rhinoceros
-type: article
-article_type: article
+type: publication
 authors:
 - H.N. Ridley
 year: 1901
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: false
 source_doc: jsbras-035-ridley-floramountophir-1901-f836ff7bc38e
 source_path: ../sources/jsbras-035-ridley-floramountophir-1901-f836ff7bc38e.md
+publication_type: note
 ---
+
 # The Sumatran rhinoceros
 
 H. N. Ridley, director of the Singapore Botanic Gardens, published this account of the flora of Mount Ophir (Gunong Ledang) in 1901, providing the first comprehensive botanical survey of the highest accessible peak in the Malay Peninsula. The paper synthesises collections made over half a century by Griffith, Wallace, Maingay, Hullett, and others, and argues that the upper flora (3,000–4,000 feet) is composed of three distinct elements—Malayan, alpine, and notably Australian—whose distribution reflects the geological denudation of the peninsula's western highlands.

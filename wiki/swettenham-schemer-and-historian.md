@@ -3,8 +3,7 @@ id: swettenham-schemer-and-historian
 work_id: jmbras-69-2-p83
 title: Swettenham. Schemer and historian
 canonical_name: Swettenham. Schemer and historian
-type: article
-article_type: article
+type: publication
 authors:
 - H.S. Barlow
 year: 1996
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-271-barlow-swettenhamschemer-1996-09af9c106e2b
 source_path: ../sources/jmbras-271-barlow-swettenhamschemer-1996-09af9c106e2b/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Swettenham. Schemer and historian
 
 H.S. Barlow, writing in 1996, examines Sir Frank Swettenham's dual role as both a maker of colonial history in the Malay Peninsula and its most persistent self-mythologising historian, arguing that Swettenham's carefully constructed narrative of British intervention in Malaya—sustained through edited diaries, successive publications, and newspaper letters over six decades—constituted a deliberate and remarkably successful act of historical revisionism that dominated the field until the 1960s.

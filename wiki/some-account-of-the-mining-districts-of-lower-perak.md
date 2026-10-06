@@ -3,8 +3,7 @@ id: some-account-of-the-mining-districts-of-lower-perak
 work_id: jsbras-7-1-p1
 title: Some account of the mining districts of lower Perak
 canonical_name: Some account of the mining districts of lower Perak
-type: article
-article_type: article
+type: publication
 authors:
 - J.E. De La Croix
 year: 1881
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-007-croix-accountminingdistricts-1881-8a6badfaa93e
 source_path: ../sources/jsbras-007-croix-accountminingdistricts-1881-8a6badfaa93e.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Some account of the mining districts of lower Perak
 
 J. Errington de la Croix, a French mining engineer (*Ingenieur de Mines*) on a government-sponsored scientific mission to Malaya, published this geological and mining survey of Lower Perak's tin-fields in 1881. The article provides a district-by-district account of the alluvial tin deposits, their geological settings, and the state of mining operations as of early 1881, arguing that the region's mineral wealth was vastly underexploited and that infrastructure investment would unlock decades of profitable production.

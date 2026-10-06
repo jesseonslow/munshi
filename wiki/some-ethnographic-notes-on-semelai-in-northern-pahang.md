@@ -3,8 +3,7 @@ id: some-ethnographic-notes-on-semelai-in-northern-pahang
 work_id: jmbras-47-2-p123
 title: Some ethnographic notes on Semelai in northern Pahang
 canonical_name: Some ethnographic notes on Semelai in northern Pahang
-type: article
-article_type: article
+type: publication
 authors:
 - R. Needham
 year: 1974
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-226-needham-ethnographicnotessemelai-1974-d5c7cc5a644e
 source_path: ../sources/jmbras-226-needham-ethnographicnotessemelai-1974-d5c7cc5a644e/frontmatter.md
 summarized: true
+publication_type: note
 ---
+
 # Some ethnographic notes on Semelai in northern Pahang
 
 Rodney Needham published these ethnographic notes in 1974, drawing on a single day's field contact made in May 1955 with a small group of Semelai in the upper Sat and Wau river valleys of northern Pahang. The article's central argument is that the relationship terminology recorded from these northern Semelai is Mon-Khmer in character and therefore likely archaic, in contrast to the Malay-derived kinship terms of the better-studied southern Semelai around Tasek Bera.

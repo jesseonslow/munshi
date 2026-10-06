@@ -5,8 +5,7 @@ title: The installation of Tuanku Abdul-Rahman ibini Al-Marhum Tuanku Muhammad S
   as Yang di-Pertuan, Negri Sembilan
 canonical_name: The installation of Tuanku Abdul-Rahman ibini Al-Marhum Tuanku Muhammad
   Shah as Yang di-Pertuan, Negri Sembilan
-type: article
-article_type: article
+type: publication
 authors:
 - J.J. Sheehan
 year: 1936
@@ -23,7 +22,9 @@ published: false
 source_doc: jmalayanras-126-sheehan-installationtuankuabdulrahman-1936-55adf1a339dc
 source_path: ../sources/jmalayanras-126-sheehan-installationtuankuabdulrahman-1936-55adf1a339dc.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The installation of Tuanku Abdul-Rahman ibini Al-Marhum Tuanku Muhammad Shah as Yang di-Pertuan, Negri Sembilan
 
 J.J. Sheehan, a British colonial administrator in Negri Sembilan, published this detailed account in 1936 of the 1934 installation of Tuanku Abdul-Rahman as Yang di-Pertuan Besar, using the 1898 installation of his father Tuanku Muhammad Shah as a comparative baseline to document both continuity and change in court ceremonial. The article serves as a primary-source record of the ritual sequence, the roles of the four Undang, and the material culture of the Sri Menanti court at the height of the colonial period.

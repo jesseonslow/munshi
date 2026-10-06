@@ -5,8 +5,7 @@ title: 'The Stamp Office records, 1920s–1930s: a neglected database on Kedah�
   class'
 canonical_name: 'The Stamp Office records, 1920s–1930s: a neglected database on Kedah’s
   propertied class'
-type: article
-article_type: article
+type: publication
 authors:
 - Khoo Khay Jin
 year: 2013
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-304-jin-stampofficerecords-2013-c34a0af9babd
 source_path: ../sources/jmbras-304-jin-stampofficerecords-2013-c34a0af9babd/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The Stamp Office records, 1920s–1930s: a neglected database on Kedah’s propertied class
 
 Khoo Khay Jin's posthumously published article (2013), originally presented at Universiti Sains Malaysia in 1992, draws attention to the Kedah Stamp Office records of the 1920s–1940s as a neglected but exceptionally rich database for reconstructing the wealth, property holdings, and material culture of the state's propertied class under British colonial rule. The overarching thesis is that these bureaucratic records—generated through estate administration and stamp duty legislation—offer a granular, individual-level window into the economic lives of Kedah's ruling elite, village notables, and Chettiar moneylenders that no other source can match in specificity.

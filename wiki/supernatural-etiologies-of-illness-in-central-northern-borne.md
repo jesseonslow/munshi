@@ -3,8 +3,7 @@ id: supernatural-etiologies-of-illness-in-central-northern-borne
 work_id: jmbras-55-2-p115
 title: Supernatural etiologies of illness in Central Northern Borneo
 canonical_name: Supernatural etiologies of illness in Central Northern Borneo
-type: article
-article_type: article
+type: publication
 authors:
 - P. Metcalf
 year: 1982
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-243-metcalf-supernatureetiologiesillness-1982-62a709fdc092
 source_path: ../sources/jmbras-243-metcalf-supernatureetiologiesillness-1982-62a709fdc092/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Supernatural etiologies of illness in Central Northern Borneo
 
 Peter Metcalf (1982) examines the Berawan people of the lower Baram river system in Sarawak, central northern Borneo, arguing that their supernatural etiologies of illness function as a classification of causes of affliction rather than of diseases, which is precisely what enables their seamless coexistence with Western biomedical treatment. The article, based on fieldwork conducted between January 1972 and February 1974, is offered as a footnote to J.M. Elshout's pioneer 1923 study of Kenyah-Dyak medicine and religion in central Borneo.

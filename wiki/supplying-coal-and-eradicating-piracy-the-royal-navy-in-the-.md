@@ -5,8 +5,7 @@ title: 'Supplying Coal and Eradicating Piracy: The Royal Navy in the Straits of 
   1833–1880'
 canonical_name: 'Supplying Coal and Eradicating Piracy: The Royal Navy in the Straits
   of Malacca, 1833–1880'
-type: article
-article_type: article
+type: publication
 authors:
 - Tham Junean
 year: 2025
@@ -30,7 +29,9 @@ keywords:
 source_doc: tham-supplying-coal-and-eradicating-piracy-c0aeee14ffcb
 source_path: ../sources/tham-supplying-coal-and-eradicating-piracy-c0aeee14ffcb/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Supplying Coal and Eradicating Piracy: The Royal Navy in the Straits of Malacca, 1833–1880
 
 ## Abstract

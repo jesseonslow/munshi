@@ -5,8 +5,7 @@ title: 'The Straits Settlements and the Malay Peninsula: address by Mr. J.A. Kru
   delivered before the Indian Society'
 canonical_name: 'The Straits Settlements and the Malay Peninsula: address by Mr. J.A.
   Kruyt, delivered before the Indian Society'
-type: article
-article_type: article
+type: publication
 authors:
 - J.A. Kruyt
 year: 1895
@@ -23,7 +22,9 @@ published: false
 source_doc: jsbras-028-kruyt-addressmrj-1895-0dcfdeaedd8c
 source_path: ../sources/jsbras-028-kruyt-addressmrj-1895-0dcfdeaedd8c.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The Straits Settlements and the Malay Peninsula: address by Mr. J.A. Kruyt, delivered before the Indian Society
 
 J.A. Kruyt, a Dutch consular official stationed in Penang, delivered this address before the Indian Society in 1895, offering a comprehensive survey of the Straits Settlements and the Malay Peninsula from the vantage point of a European colonial administrator observing British expansion in real time. His overarching thesis is that the British have achieved remarkable administrative and economic success in Malaya through a combination of free-trade policy, the Residential system, and the strategic enlistment of Chinese labour, and that the Dutch should study these methods to reform their own colonial governance.

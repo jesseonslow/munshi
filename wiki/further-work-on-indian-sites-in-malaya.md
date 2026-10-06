@@ -3,8 +3,7 @@ id: further-work-on-indian-sites-in-malaya
 work_id: jmbras-20-1-p1
 title: Further work on Indian sites in Malaya
 canonical_name: Further work on Indian sites in Malaya
-type: article
-article_type: article
+type: publication
 authors:
 - D.C. Wales
 - H.G.Q. Wales
@@ -23,6 +22,7 @@ summarized: false
 source_mismatch: true
 source_doc: jmalayanras-142-wales-workindiansites-1947-796038e7
 source_path: ../sources/jmalayanras-142-wales-workindiansites-1947-796038e7.md
+publication_type: journal_article
 ---
 
 # Further work on Indian sites in Malaya

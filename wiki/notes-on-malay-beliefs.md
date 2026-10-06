@@ -3,8 +3,7 @@ id: notes-on-malay-beliefs
 work_id: jmbras-11-2-p245
 title: Notes on Malay beliefs
 canonical_name: Notes on Malay beliefs
-type: article
-article_type: article
+type: publication
 authors:
 - A. Rentse
 year: 1933
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-117-rentse-notesmalaybeliefs-1933-494e29446ae1
 source_path: ../sources/jmalayanras-117-rentse-notesmalaybeliefs-1933-494e29446ae1.md
 summarized: true
+publication_type: note
 ---
+
 # Notes on Malay beliefs
 
 Anker Rentse, a Dutch colonial administrator serving in Kelantan, published this ethnographic note in 1933, drawing on fieldwork among Malay and Semang communities in Ulu Kelantan to document three interrelated belief systems: the cosmology of *Pusat Tasek* (the ocean's centre), the tiger-kingdom of *Kandang Balok*, and a system of daily omens governing travel and royal audience. The article presents these as living oral traditions, anchored in specific local informants and cross-referenced against earlier European scholarship on Malay and Persian folklore.

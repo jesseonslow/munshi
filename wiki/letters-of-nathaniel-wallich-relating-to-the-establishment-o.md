@@ -5,8 +5,7 @@ title: Letters of Nathaniel Wallich relating to the establishment of botanical g
   in Singapore
 canonical_name: Letters of Nathaniel Wallich relating to the establishment of botanical
   gardens in Singapore
-type: article
-article_type: article
+type: publication
 authors:
 - Hanitsch R
 - N. Wallich
@@ -24,7 +23,9 @@ published: false
 source_doc: jsbras-065-hanitsch-lettersnathanielwallich-1913-e62a0979ba44
 source_path: ../sources/jsbras-065-hanitsch-lettersnathanielwallich-1913-e62a0979ba44.md
 summarized: true
+publication_type: document
 ---
+
 # Letters of Nathaniel Wallich relating to the establishment of botanical gardens in Singapore
 
 Dr. R. Hanitsch published this article in the *Journal of the Straits Branch of the Royal Asiatic Society* in 1913, presenting four previously unpublished letters by Nathaniel Wallich from 1822 that document the initial proposal and planning for botanical gardens in Singapore during the colony's fourth year of existence. The article situates Wallich's brief visit within the personal and scientific relationship between the Danish-born botanist and Sir Stamford Raffles, and traces the arc from proposal to the eventual discontinuation of the gardens in 1829.

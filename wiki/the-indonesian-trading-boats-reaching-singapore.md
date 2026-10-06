@@ -3,8 +3,7 @@ id: the-indonesian-trading-boats-reaching-singapore
 work_id: jmbras-23-1-p108
 title: The Indonesian trading boats reaching Singapore
 canonical_name: The Indonesian trading boats reaching Singapore
-type: article
-article_type: article
+type: publication
 authors:
 - C.A. Gibson-Hill
 year: 1950
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-151-gibsonhill-indonesiantradingboats-1950-9da28fef7dc8
 source_path: ../sources/jmalayanras-151-gibsonhill-indonesiantradingboats-1950-9da28fef7dc8/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The Indonesian trading boats reaching Singapore
 
 C. A. Gibson-Hill published this detailed ethnographic and nautical study in 1950, based on direct observations of Indonesian sailing vessels in Singapore roads during 1947–1949. Working in the immediate post-war period when these traditional craft were experiencing fluctuating numbers due to freight economics and political disruption, Gibson-Hill provides a taxonomic account of the non-Chinese trading boats reaching Singapore, arguing that each type represents a distinct evolutionary lineage shaped by local building traditions, monsoon trading patterns, and selective adoption of European design elements.

@@ -5,8 +5,7 @@ title: Notes on Paradise flycatchers in Malaysia. F.N. Chasen and C.B. Kloss. Re
   of the Raffles Museum, No. 32
 canonical_name: Notes on Paradise flycatchers in Malaysia. F.N. Chasen and C.B. Kloss.
   Records of the Raffles Museum, No. 32
-type: article
-article_type: article
+type: publication
 authors:
 - F.N. Chasen
 - C.B. Kloss
@@ -24,7 +23,9 @@ published: false
 source_doc: jmalayanras-104-chasen-notesparadiseflycatchers-1928-91702d18dd0f
 source_path: ../sources/jmalayanras-104-chasen-notesparadiseflycatchers-1928-91702d18dd0f.md
 summarized: true
+publication_type: note
 ---
+
 # Notes on Paradise flycatchers in Malaysia. F.N. Chasen and C.B. Kloss. Records of the Raffles Museum, No. 32
 
 This short note by F.N. Chasen and C.B. Kloss addresses the taxonomic separation of the migratory *Terpsiphone paradisi incei* from the resident *T. p. affinis* in the Malay Peninsula and Sumatra, with a broader overview of *T. paradisi* subspecies (pp. 66–68).

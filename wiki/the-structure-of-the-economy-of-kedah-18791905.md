@@ -3,8 +3,7 @@ id: the-structure-of-the-economy-of-kedah-18791905
 work_id: jmbras-43-2-p1
 title: The structure of the economy of Kedah, 1879–1905
 canonical_name: The structure of the economy of Kedah, 1879–1905
-type: article
-article_type: article
+type: publication
 authors:
 - Sharom Ahmat
 year: 1970
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: true
 source_doc: jmbras-218-ahmat-structureeconomykedah-1970-1debfeb90543
 source_path: ../sources/appendix.md
+publication_type: journal_article
 ---
+
 # The structure of the economy of Kedah, 1879–1905
 
 Sharom Ahmat's 1970 article examines the economic structure of Kedah between 1879 and 1905, a period of Siamese suzerainty preceding British protectorate status in 1909. Ahmat argues that Kedah's economic stagnation during these decades was not merely a consequence of Siamese control but was substantially caused by the absence of a proper financial administration and, critically, by British imperial policy—particularly the 1897 Anglo-Siamese Convention—which effectively blocked foreign investment in mining and plantation agriculture.

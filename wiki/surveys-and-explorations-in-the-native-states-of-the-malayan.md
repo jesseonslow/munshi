@@ -5,8 +5,7 @@ title: Surveys and Explorations in the Native States of the Malayan Peninsula, 1
   Facsimile reprint. With a note P. Kratoska
 canonical_name: Surveys and Explorations in the Native States of the Malayan Peninsula,
   1875–82. Facsimile reprint. With a note P. Kratoska
-type: article
-article_type: article
+type: publication
 authors:
 - D.D. Daly
 year: 2025
@@ -23,7 +22,9 @@ published: false
 source_doc: daly-surveys-and-explorations-1d6b34ccbe8d
 source_path: ../sources/daly-surveys-and-explorations-1d6b34ccbe8d.md
 summarized: true
+publication_type: reprint
 ---
+
 # Surveys and Explorations in the Native States of the Malayan Peninsula, 1875–82. Facsimile reprint. With a note P. Kratoska
 
 D. D. Daly, appointed surveyor for the Native States of the Straits Settlements in 1875, presented this paper to the Royal Geographical Society in London in May 1882, describing his topographical surveys of Selangor, Moar, Pahang, Sungai Ujong, and Perak conducted between 1875 and 1877. The account documents the peninsular interior at the very outset of British administrative intervention following the Pangkor Engagement of 1874, when the region was still largely uncharted and its boundaries vaguely defined. Reprinted here with an editor's note by Paul Kratoska, the paper serves as a primary source for the geographical, geological, and administrative conditions of the Malay Peninsula in the first years of the protectorate system.

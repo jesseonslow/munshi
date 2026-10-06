@@ -3,8 +3,7 @@ id: swettenhams-manuscript-of-hikayat-hang-tuah
 work_id: jmbras-64-2-p79
 title: Swettenham’s manuscript of Hikayat Hang Tuah
 canonical_name: Swettenham’s manuscript of _Hikayat Hang Tuah._
-type: article
-article_type: article
+type: publication
 authors:
 - V.M. Hooker
 year: 1991
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-261-hooker-swettenhamsmanuscripthikayat-1991-be36f3c40266
 source_path: ../sources/jmbras-261-hooker-swettenhamsmanuscripthikayat-1991-be36f3c40266.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Swettenham’s manuscript of Hikayat Hang Tuah
 
 Virginia Matheson Hooker's 1991 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* reconstructs the provenance of a previously unknown manuscript of the *Hikayat Hang Tuah* that passed through the hands of Raja Mahdi of Selangor, Sir Frank Swettenham, and the Sultan of Pahang before resurfacing in a London bookshop in 1991. The study uses the physical history of the volume as a lens into the personal and political networks connecting Malay royalty and British colonial administrators in the late nineteenth century, revealing relationships that official records obscure.

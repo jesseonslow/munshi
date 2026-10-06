@@ -3,8 +3,7 @@ id: notes-on-malay-subjects
 work_id: jmbras-20-1-p140
 title: Notes on Malay subjects
 canonical_name: Notes on Malay subjects
-type: article
-article_type: article
+type: publication
 authors:
 - R.O. Winstedt
 year: 1947
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: true
 source_doc: jmalayanras-142-winstedt-notesmalaysubjects-1947-a3478d93ec17
 source_path: ../sources/jmalayanras-142-winstedt-notesmalaysubjects-1947-a3478d93ec17.md
+publication_type: note
 ---
+
 # Notes on Malay subjects
 
 "Notes on Malay Subjects" is a brief multi-topic note by R. O. Winstedt, K.B.E., C.M.G., D.Litt., F.R.A., published in JMBRAS Vol. 20, Part I (1947), pp. 140–142.

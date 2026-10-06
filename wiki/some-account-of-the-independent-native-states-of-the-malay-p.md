@@ -7,8 +7,7 @@ title: Some account of the independent native states of the Malay Peninsula, esp
 canonical_name: Some account of the independent native states of the Malay Peninsula,
   especially of the circumstances which led to the more intimate relations recently
   adopted towards some of them by the British Government
-type: article
-article_type: article
+type: publication
 authors:
 - F.A. Swettenham
 year: 1880
@@ -25,7 +24,9 @@ published: false
 source_doc: jsbras-006-swettenham-accountindependentnative-1880-cd680cdf2014
 source_path: ../sources/jsbras-006-swettenham-accountindependentnative-1880-cd680cdf2014.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Some account of the independent native states of the Malay Peninsula, especially of the circumstances which led to the more intimate relations recently adopted towards some of them by the British Government
 
 Frank A. Swettenham, a senior British colonial officer in the Straits Settlements, published this two-part account in 1880 to document the state of anarchy in the independent Malay states between 1871 and 1875 and to justify the British policy of installing Residents in Perak, Selangor, and Sungei Ujong. The overarching thesis is that the chronic piracy, succession disputes, and internal warfare that had rendered the western Malay states ungovernable left no viable alternative to direct British administrative intervention under the guise of advisory assistance.

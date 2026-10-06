@@ -3,8 +3,7 @@ id: the-island-of-north-keeling
 work_id: jmbras-21-1-p68
 title: The island of North Keeling
 canonical_name: The island of North Keeling
-type: article
-article_type: article
+type: publication
 authors:
 - C.A. Gibson-Hill
 year: 1948
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-144-gibsonhill-islandnorthkeeling-1948-518d15a15991
 source_path: ../sources/jmalayanras-144-gibsonhill-islandnorthkeeling-1948-518d15a15991/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The island of North Keeling
 
 C. A. Gibson-Hill published this comprehensive natural history of North Keeling in 1948, based on two field visits made in 1941 while he was stationed at the trans-Indian Ocean cable relay on the neighbouring Cocos-Keeling atoll. The article constitutes the first systematic account of the island's geology, vegetation, and fauna, filling a gap left by the brief earlier observations of Guppy (1888) and Wood-Jones (1906), and it situates North Keeling within a broader comparative framework with Christmas Island.

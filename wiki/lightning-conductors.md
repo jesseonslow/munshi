@@ -3,8 +3,7 @@ id: lightning-conductors
 work_id: jsbras-44-1-p217
 title: Lightning conductors
 canonical_name: Lightning conductors
-type: article
-article_type: article
+type: publication
 authors:
 - G.E.V. Thomas
 year: 1905
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-044-thomas-lightningconductorsnotes-1905-c3e4a5a86c67
 source_path: ../sources/jsbras-044-thomas-lightningconductorsnotes-1905-c3e4a5a86c67.md
 summarized: true
+publication_type: note
 ---
+
 # Lightning conductors
 
 G.E. Venning Thomas, an electrical engineer (A.M. Inst. E.E.) active in the Straits Settlements, published these practical notes in 1905 to correct what he regarded as widespread misapplication of lightning protection principles on government and municipal buildings in the colony. His central argument is that the prevailing practice of installing massive copper rods and elaborate multi-branched terminals—rooted in an obsolete "law" linking a conductor's protective area to its height—is both wasteful and inferior to a network system of light galvanised iron wire with numerous small interconnected points.

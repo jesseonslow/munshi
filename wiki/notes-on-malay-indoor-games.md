@@ -3,8 +3,7 @@ id: notes-on-malay-indoor-games
 work_id: jsbras-80-1-p69
 title: Notes on Malay indoor games
 canonical_name: Notes on Malay indoor games
-type: article
-article_type: article
+type: publication
 authors:
 - O.T. Dussek
 year: 1919
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-080-dussek-notesmalayindoor-1919-7f6370c96ce6
 source_path: ../sources/jsbras-080-dussek-notesmalayindoor-1919-7f6370c96ce6.md
 summarized: true
+publication_type: note
 ---
+
 # Notes on Malay indoor games
 
 This short note by O. T. Dussek documents two Malay indoor board games: Main Pacheh, comparing the Acheh and Penang varieties, and Main Tapak Empat, a Menangkabau fox-and-geese type game (pp. 69–71).

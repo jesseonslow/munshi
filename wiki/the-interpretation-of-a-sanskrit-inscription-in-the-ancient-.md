@@ -4,8 +4,7 @@ work_id: jmbras-52-1-p99
 title: The interpretation of a Sanskrit inscription in the ancient Brunei script
 canonical_name: The interpretation of a Sanskrit inscription in the ancient Brunei
   script
-type: article
-article_type: article
+type: publication
 authors:
 - A. Sharma
 year: 1979
@@ -22,7 +21,9 @@ published: false
 source_doc: jmbras-235-sharma-interpretationsanskritinscription-1979-9d745565e1ab
 source_path: ../sources/jmbras-235-sharma-interpretationsanskritinscription-1979-9d745565e1ab.md
 summarized: true
+publication_type: note
 ---
+
 # The interpretation of a Sanskrit inscription in the ancient Brunei script
 
 This short note by Arvind Sharma offers a revised interpretation of a Sanskrit inscription in the ancient Brunei script, previously deciphered by Miss Kongkae Weeraprajak of the Thai National Library, arguing that its meaning is better understood through the eschatology of Mahayana Buddhism.

@@ -3,8 +3,7 @@ id: notes-on-rubber-growing-in-perak
 work_id: jmbras-87-2-p91
 title: Notes on rubber growing in Perak
 canonical_name: Notes on rubber growing in Perak
-type: article
-article_type: article
+type: publication
 authors:
 - L. Wray
 year: 2014
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-307-wray-historicalarticle-2014-769a5d8dd5ed
 source_path: ../sources/jmbras-307-wray-historicalarticle-2014-769a5d8dd5ed.md
 summarized: true
+publication_type: note
 ---
+
 # Notes on rubber growing in Perak
 
 L. Wray, a British colonial official in Perak, published this field report in 1897 (reprinted in JMBRAS Vol. 87, 2014) documenting the first fifteen years of *Hevea brasiliensis* cultivation in the state, from Sir Hugh Low's initial seed introduction in 1882 through his own experimental plantings and tapping trials. The article's central thesis is that Para rubber is remarkably adaptable to Perak's varied soils and topographies, and that with proper spacing and a refined herring-bone tapping technique, the tree can become a commercially viable crop within a decade.

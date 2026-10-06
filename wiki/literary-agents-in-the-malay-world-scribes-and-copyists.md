@@ -3,8 +3,7 @@ id: literary-agents-in-the-malay-world-scribes-and-copyists
 work_id: jmbras-93-2-p1
 title: 'Literary agents in the Malay World: Scribes and copyists'
 canonical_name: 'Literary agents in the Malay World: Scribes and copyists'
-type: article
-article_type: article
+type: publication
 authors:
 - J. Van Der Putten
 year: 2020
@@ -29,7 +28,9 @@ keywords:
 - lithographic printing
 - reproduction of texts
 - book production
+publication_type: journal_article
 ---
+
 # Literary agents in the Malay World: Scribes and copyists
 
 ## Abstract

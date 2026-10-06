@@ -6,8 +6,7 @@ title: 'Exploration of Pahang: extract from a letter from Mr. W. Cameron to H.E.
 canonical_name: 'Exploration of Pahang: extract from a letter from Mr. W. Cameron
   to H.E. the Acting Governor (the Hon’ble Cecil C. Smith, C.M.G.) dated 4th September,
   1885'
-type: article
-article_type: article
+type: publication
 authors:
 - W. Cameron
 - C.C. Smith
@@ -25,7 +24,9 @@ published: false
 source_doc: jsbras-015-cameron-explorationpahang-1885-e7c2b8248730
 source_path: ../sources/jsbras-015-cameron-explorationpahang-1885-e7c2b8248730.md
 summarized: true
+publication_type: document
 ---
+
 # Exploration of Pahang: extract from a letter from Mr. W. Cameron to H.E. the Acting Governor (the Hon’ble Cecil C. Smith, C.M.G.) dated 4th September, 1885
 
 This is an extract from a letter by William Cameron to the Acting Governor, Cecil C. Smith, dated 4 September 1885, describing a major exploration expedition into the upper reaches of Pahang and its border regions with Perak and Kelantan (p. 155).

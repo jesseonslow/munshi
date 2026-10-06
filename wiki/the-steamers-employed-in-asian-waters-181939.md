@@ -3,8 +3,7 @@ id: the-steamers-employed-in-asian-waters-181939
 work_id: jmbras-27-1-p120
 title: The steamers employed in Asian waters, 1819–39
 canonical_name: The steamers employed in Asian waters, 1819–39
-type: article
-article_type: article
+type: publication
 authors:
 - C.A. Gibson-Hill
 year: 1954
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-165-gibsonhill-steamersemployedasian-1954-fa2ffa0c22cf
 source_path: ../sources/jmalayanras-165-gibsonhill-steamersemployedasian-1954-fa2ffa0c22cf/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The steamers employed in Asian waters, 1819–39
 
 C.A. Gibson-Hill's 1954 article provides a systematic catalogue of the approximately fifty paddle-steamers that appeared in Asian waters between 1819 and 1839, a period he designates the "experimental era" of steam navigation in the region. Writing from the perspective of a Malayan historian seeking to clear the ground for a future study of regular steam traffic in the Straits Settlements, Gibson-Hill addresses what he identifies as "much confusion" in the existing literature, caused primarily by the repetition of vessel names and the failure of earlier writers to consult contemporary records (p. 120).

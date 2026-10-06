@@ -3,8 +3,7 @@ id: symbolic-elements-in-saribas-iban-rites-of-padi-storage
 work_id: jmbras-53-2-p67
 title: Symbolic elements in Saribas Iban rites of padi storage
 canonical_name: Symbolic elements in Saribas Iban rites of padi storage
-type: article
-article_type: article
+type: publication
 authors:
 - C. Sather
 year: 1980
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-238-sather-symbolicelementssaribas-1980-058aacad8569
 source_path: ../sources/jmbras-238-sather-symbolicelementssaribas-1980-058aacad8569/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Symbolic elements in Saribas Iban rites of padi storage
 
 Clifford Sather (1980) examines the symbolic and ritual dimensions of padi (rice) storage among the Saribas Iban of the Paku river, Sarawak, drawing on ethnographic fieldwork conducted at Kerangan Pinggai longhouse during the 1977–78 farming year. The article argues that the rites marking the conclusion of the harvest season coalesce two fundamental Iban convictions about rice: its spiritual essence, embodied in the aggregate souls (*semengat padi*), and its material nature, expressed through the notion of inexhaustibility (*jedian*). Together these dual aspects make rice farming, in Sather's words, "a profoundly religious undertaking" in which technical and religious operations are inseparable (p. 95).

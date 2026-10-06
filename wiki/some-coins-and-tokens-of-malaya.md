@@ -3,8 +3,7 @@ id: some-coins-and-tokens-of-malaya
 work_id: jmbras-23-3-p143
 title: Some coins and tokens of Malaya
 canonical_name: Some coins and tokens of Malaya
-type: article
-article_type: article
+type: publication
 authors:
 - E. Wodak
 year: 1950
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-154-wodak-medalsconnectedsiam-1951-a53e0be739bb
 source_path: ../sources/jmalayanras-154-wodak-medalsconnectedsiam-1951-a53e0be739bb.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Some coins and tokens of Malaya
 
 E. Wodak's 1951 article "Medals connected with Siam," published in the Journal of the Malaysian Branch of the Royal Asiatic Society (Vol. XXIV, Pt. I), surveys a small group of commemorative medals struck to mark French–Siamese diplomatic encounters spanning 1686 to 1898, drawing on specimens in his own collection to fill gaps left by the absence of surviving Siamese mint records.

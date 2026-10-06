@@ -3,8 +3,7 @@ id: notes-on-malay-history
 work_id: jsbras-73-1-p127
 title: Notes on Malay history
 canonical_name: Notes on Malay history
-type: article
-article_type: article
+type: publication
 authors:
 - C.O. Blagden
 year: 1916
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-073-blagden-notesmalayhistory-1916-3cc1e2e524f0
 source_path: ../sources/jsbras-073-blagden-notesmalayhistory-1916-3cc1e2e524f0.md
 summarized: true
+publication_type: note
 ---
+
 # Notes on Malay history
 
 C. O. Blagden's short note presents two early Chinese textual references bearing on Malay history: one concerning the legendary etymology of "Menangkabau" and another recording a Siamese naval raid on old Singapore.

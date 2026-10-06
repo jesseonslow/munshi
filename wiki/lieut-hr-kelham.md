@@ -3,8 +3,7 @@ id: lieut-hr-kelham
 work_id: jmbras-29-1-p182
 title: Lieut. H.R. Kelham
 canonical_name: Lieut. H.R. Kelham
-type: article
-article_type: article
+type: publication
 authors:
 - H.P. Bryson
 year: 1956
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-173-bryson-lieuthr-1956-91695528c45f
 source_path: ../sources/jmalayanras-173-bryson-lieuthr-1956-91695528c45f.md
 summarized: true
+publication_type: obituary
 ---
+
 # Lieut. H.R. Kelham
 
 A brief obituary by H. P. Bryson, M.C., commemorating Lieutenant (later Brigadier-General) H. R. Kelham, C.B., who died in October 1932 in his 78th year (p. 183).

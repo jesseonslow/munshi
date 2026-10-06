@@ -3,8 +3,7 @@ id: some-ants-from-singapore-and-neighbouring-places
 work_id: jmbras-2-1-p25
 title: Some ants from Singapore and neighbouring places
 canonical_name: Some ants from Singapore and neighbouring places
-type: article
-article_type: article
+type: publication
 authors:
 - H. Overbeck
 year: 1924
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-090-overbeck-listantssingapore-1924-4c336dc0532f
 source_path: ../sources/jmalayanras-090-overbeck-listantssingapore-1924-4c336dc0532f.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Some ants from Singapore and neighbouring places
 
 H. Overbeck's 1924 catalogue documents the ant fauna of Singapore and neighbouring localities, based on fieldwork conducted between November 1912 and June 1914 for the Dresden specialist H. Viehmeyer. The paper, published in the *Journal of the Malayan Branch of the Royal Asiatic Society*, presents a species list of over 190 ant taxa drawn from twelve collecting sites across Singapore, the Riau Archipelago, Negri Sembilan, and Johore, and records the description of one new genus, one new subgenus, sixteen new species, thirteen new subspecies, and fifteen new varieties (p. 26).

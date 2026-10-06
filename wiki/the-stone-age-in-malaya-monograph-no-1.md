@@ -3,8 +3,7 @@ id: the-stone-age-in-malaya-monograph-no-1
 work_id: jmbras-26-2-p1
 title: The stone age in Malaya. Monograph No. 1
 canonical_name: The stone age in Malaya. Monograph No. 1
-type: article
-article_type: monograph
+type: publication
 authors:
 - M.W.F. Tweedie
 year: 1953
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-164-gibsonhill-cambridgeuniversityexpedition-1953-c0dbf648fddc
 source_path: ../sources/jmalayanras-164-gibsonhill-cambridgeuniversityexpedition-1953-c0dbf648fddc/frontmatter.md
 summarized: true
+publication_type: monograph
 ---
+
 # The stone age in Malaya. Monograph No. 1
 
 C. A. Gibson-Hill, W. W. Skeat, and F. F. Laidlaw published this comprehensive account of the Cambridge University Expedition to the North-Eastern Malay States and Upper Perak (1899–1900) in 1953, presenting the personal narratives of expedition leader W. W. Skeat and zoologist F. F. Laidlaw, edited and introduced by Gibson-Hill shortly before Skeat's death. The work documents a multidisciplinary scientific journey through the Siamese-controlled Malay states—Patani, Kelantan, Trengganu, Kedah, and Perlis—and into the highlands of Upper Perak, yielding ethnographic, zoological, and botanical data of considerable originality for a region then almost entirely unexplored by Western science.

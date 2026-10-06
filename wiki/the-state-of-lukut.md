@@ -3,8 +3,7 @@ id: the-state-of-lukut
 work_id: jmbras-2-3-p291
 title: The State of Lukut
 canonical_name: The State of Lukut
-type: article
-article_type: article
+type: publication
 authors:
 - L.D. Gammans
 year: 1924
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-092-gammans-statelukutwith-1924-3d5d547538be
 source_path: ../sources/jmalayanras-092-gammans-statelukutwith-1924-3d5d547538be.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The State of Lukut
 
 L.D. Gammans published "The State of Lukut" in 1924 in the *Journal of the Malayan Branch of the Royal Asiatic Society*, offering a compact administrative and military history of the Lukut settlement on the west coast of the Malay Peninsula. The article traces the state's brief period of semi-independent rule under Selangor-appointed viceroys from the 1830s to its absorption into Selangor following the Sungai Ujong War of 1886–87, and closes with a topographical survey of the Lukut Fort.

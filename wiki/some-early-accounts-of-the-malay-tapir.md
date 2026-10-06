@@ -3,8 +3,7 @@ id: some-early-accounts-of-the-malay-tapir
 work_id: jsbras-52-1-p97
 title: Some early accounts of the Malay tapir
 canonical_name: Some early accounts of the Malay tapir
-type: article
-article_type: article
+type: publication
 authors:
 - W.G. Maxwell
 year: 1909
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-052-maxwell-somaearlyaccounts-1909-6c1d46501d6c
 source_path: ../sources/jsbras-052-maxwell-somaearlyaccounts-1909-6c1d46501d6c.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Some early accounts of the Malay tapir
 
 W. George Maxwell published this short article in the *Journal of the Straits Branch of the Royal Asiatic Society* in 1909, examining how the Malay tapir (*Tapirus indicus*, then *tapirus malayanus*) was recorded by early Chinese and European observers. His central thesis is that a 1416 Chinese account calling the animal "The Divine Stag" is in fact a phonetic transcription of the Malay word *tenok*, and that the author of that account was almost certainly a Hainanese (Hylam) speaker.

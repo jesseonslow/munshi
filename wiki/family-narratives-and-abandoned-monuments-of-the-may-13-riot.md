@@ -5,8 +5,7 @@ title: Family narratives and abandoned monuments of the May 13 riot in the Sunga
   Buloh leprosarium
 canonical_name: Family narratives and abandoned monuments of the May 13 riot in the
   Sungai Buloh leprosarium
-type: article
-article_type: article
+type: publication
 authors:
 - Por Heong Hong
 year: 2017
@@ -29,7 +28,9 @@ keywords:
 - politics of memory
 - May 13 riot
 - Malaysia
+publication_type: journal_article
 ---
+
 # Family narratives and abandoned monuments of the May 13 riot in the Sungai Buloh leprosarium
 
 ## Abstract

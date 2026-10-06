@@ -3,8 +3,7 @@ id: some-birds-of-tiuman-island
 work_id: jsbras-45-1-p280
 title: Some birds of Tiuman Island
 canonical_name: Some birds of Tiuman Island
-type: article
-article_type: article
+type: publication
 authors:
 - C.B. Kloss
 year: 1906
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-045-kloss-birdstiumanisland-1906-2a9a1ef61674
 source_path: ../sources/jsbras-045-kloss-birdstiumanisland-1906-2a9a1ef61674.md
 summarized: true
+publication_type: note
 ---
+
 # Some birds of Tiuman Island
 
 This short note by C. Boden Kloss records a list of bird species collected on Tioman Island during two visits in 1899 and 1900, published in the Journal of the Straits Branch of the Royal Asiatic Society (p. 280).

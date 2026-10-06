@@ -5,8 +5,7 @@ title: 'Syair Peri Tuan Raffles pergi ke Minangkabau: a Malay account of Raffles
   second expedition to the Sumatran highlands in 1818'
 canonical_name: _Syair Peri Tuan Raffles pergi ke Minangkabau:_ a Malay account of
   Raffles’ second expedition to the Sumatran highlands in 1818
-type: article
-article_type: article
+type: publication
 authors:
 - Raimy Ché-Ross
 year: 2003
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-285-chross-syairperituan-2003-e6c0a2cdcac2
 source_path: ../sources/jmbras-285-chross-syairperituan-2003-e6c0a2cdcac2/frontmatter.md
 summarized: true
+publication_type: translation
 ---
+
 # Syair Peri Tuan Raffles pergi ke Minangkabau: a Malay account of Raffles’ second expedition to the Sumatran highlands in 1818
 
 Raimy Ché-Ross (2003) recovers and transliterates the *Syair Peri Tuan Raffles Pergi ke Minangkabau*, a Malay verse composed in 1818 that narrates Sir Stamford Raffles' second expedition into the Sumatran highlands, providing a native account of an episode hitherto treated perfunctorily in Western studies of his Sumatran administration. The article is primarily a bibliographic and textual study that restores this "lost" work to general circulation, tracing its provenance from the *Malayan Miscellanies* (1820) through the abandoned 1887 publication project of Resident Councillor Hervey to its eventual deposit at the Arkib Negara Malaysia.

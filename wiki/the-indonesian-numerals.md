@@ -3,8 +3,7 @@ id: the-indonesian-numerals
 work_id: jsbras-28-1-p99
 title: The Indonesian numerals
 canonical_name: The Indonesian numerals
-type: article
-article_type: article
+type: publication
 authors:
 - R.J. Wilkinson
 year: 1895
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-028-w-indonesiannumerals-1895-7202b246b2c4
 source_path: ../sources/jsbras-028-w-indonesiannumerals-1895-7202b246b2c4.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The Indonesian numerals
 
 R.J. Wilkinson's 1895 article in the *Journal of the Straits Branch of the Royal Asiatic Society* surveys the comparative etymology of Indonesian and Oceanic numerals, drawing on the work of Dr. T.H. Pardo de Tavera and the Rev. D. MacDonald to argue that these numeral systems share a common origin rooted in quinary (base-five) counting and that their wide distribution across the Pacific provides strong evidence for Polynesian migration from the Malay Archipelago.

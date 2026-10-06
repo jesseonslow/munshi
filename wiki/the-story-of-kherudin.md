@@ -3,8 +3,7 @@ id: the-story-of-kherudin
 work_id: jsbras-46-1-p27
 title: The story of Kherudin
 canonical_name: The story of Kherudin
-type: article
-article_type: article
+type: publication
 authors:
 - G.M. Laidlaw
 year: 1906
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-046-laidlaw-storykherudin-1906-2098d9b6cc1a
 source_path: ../sources/jsbras-046-laidlaw-storykherudin-1906-2098d9b6cc1a.md
 summarized: true
+publication_type: translation
 ---
+
 # The story of Kherudin
 
 G.M. Laidlaw published "The Story of Kherudin" in the *Journal of the Straits Branch of the Royal Asiatic Society* in 1906, presenting a Malay folk tale of the magic-ring type in both English translation and original Malay orthography. The narrative was transmitted orally through a chain of custodians—Penghulu Mat Nordin from Mohamed Unus bin Mohamed Arip, a man of pure Perak descent—and was recorded as part of the early colonial-era effort to document Malay oral literature before its further transformation.

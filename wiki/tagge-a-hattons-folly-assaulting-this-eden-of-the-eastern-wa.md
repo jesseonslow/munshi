@@ -5,8 +5,7 @@ title: 'Tagge, A. Hatton’s folly: assaulting “This Eden of the eastern wave�
   James Brooke describing Borneo, 1838'
 canonical_name: 'Tagge, A. Hatton’s folly: assaulting “This Eden of the eastern wave”
   (Sir James Brooke describing Borneo, 1838)'
-type: article
-article_type: article
+type: publication
 authors:
 - C.F. Symington
 year: 1997
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-272-tagge-hattonsfollyassaulting-1997-d13b6a243cd1
 source_path: ../sources/jmbras-272-tagge-hattonsfollyassaulting-1997-d13b6a243cd1.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Tagge, A. Hatton’s folly: assaulting “This Eden of the eastern wave” (Sir James Brooke describing Borneo, 1838
 
 Anne Tagge's 1997 article reconstructs the circumstances surrounding the death of Frank Hatton, a twenty-year-old British mineral explorer killed in North Borneo on 1 March 1883, and argues that his story—along with the broader pattern of European imperial presumption in the Borneo region—supplied direct material for Joseph Conrad's Malayan novels. The piece situates Hatton's ambiguous death within the administrative and commercial framework of the British North Borneo Company and traces its thematic resonance through *Almayer's Folly*, *Lord Jim*, and *Heart of Darkness*.

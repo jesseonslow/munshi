@@ -3,8 +3,7 @@ id: syers-and-the-selangor-police-18751897
 work_id: jmbras-51-2-p1
 title: Syers and the Selangor Police, 1875–1897
 canonical_name: Syers and the Selangor Police, 1875–1897
-type: article
-article_type: article
+type: publication
 authors:
 - J.M. Gullick
 year: 1978
@@ -29,7 +28,9 @@ summarized: true
 source_mismatch: true
 source_doc: jmbras-234-gullick-syersselangorpolice-1978-f0edac1ade77
 source_path: ../sources/appendix.md
+publication_type: journal_article
 ---
+
 # Syers and the Selangor Police, 1875–1897
 
 J.M. Gullick's 1978 article reconstructs the career of Henry Charles Syers, a former private in the 10th Regiment of Foot who rose from commanding a demoralised mercenary force in Klang in 1875 to becoming the first Commissioner of Police for the Federated Malay States in 1896, before being killed by a seladang in Pahang the following July. Gullick's central thesis is that Syers' lasting contribution was his pragmatic insistence that the police in a Malay State must be predominantly Malay and integrated into local communities as a civil instrument, a position that ran counter to the prevailing military-police orthodoxy of his contemporaries and was vindicated by subsequent history.

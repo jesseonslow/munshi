@@ -3,8 +3,7 @@ id: notes-on-satingphra
 work_id: jmbras-37-1-p74
 title: Notes on Satingphra
 canonical_name: Notes on Satingphra
-type: article
-article_type: article
+type: publication
 authors:
 - A. Lamb
 year: 1964
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-205-lamb-notessatingphra-1964-12c2ad14987d
 source_path: ../sources/jmbras-205-lamb-notessatingphra-1964-12c2ad14987d.md
 summarized: true
+publication_type: note
 ---
+
 # Notes on Satingphra
 
 Alastair Lamb, writing from the Department of History at the University of Malaya, published this short note in 1964 to document and analyse a collection of bronzes, ceramics, and stone objects recovered from the site of Satingphra, a former port town on the South China Sea coast of South Thailand near modern Songkhla. The article's central thesis is that Satingphra functioned as a major entrepôt from approximately 1200 to the late 15th century A.D., and that it likely formed the eastern terminus of trans-Peninsula trade routes whose western counterpart was Pengkalan Bujang in Kedah, Malaya.

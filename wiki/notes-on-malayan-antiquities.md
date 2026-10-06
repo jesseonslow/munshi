@@ -3,8 +3,7 @@ id: notes-on-malayan-antiquities
 work_id: jmbras-14-3-p280
 title: Notes on Malayan antiquities
 canonical_name: Notes on Malayan antiquities
-type: article
-article_type: article
+type: publication
 authors:
 - I.H.N. Evans
 year: 1936
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-126-evans-notesmalayanantiquities-1936-0dfce7c90f91
 source_path: ../sources/jmalayanras-126-evans-notesmalayanantiquities-1936-0dfce7c90f91.md
 summarized: true
+publication_type: note
 ---
+
 # Notes on Malayan antiquities
 
 This is a short note by I.H.N. Evans on Malayan antiquities, published in the *Journal of the Malayan Branch of the Royal Asiatic Society*, Vol. 14, No. 3 (1936), pp. 280–281.

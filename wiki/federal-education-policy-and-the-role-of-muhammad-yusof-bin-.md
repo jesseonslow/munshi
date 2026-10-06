@@ -4,8 +4,7 @@ work_id: jmbras-95-2-p109
 title: Federal Education Policy and the Role of Muhammad Yusof bin Ahmad, 1951–1955
 canonical_name: Federal Education Policy and the Role of Muhammad Yusof bin Ahmad,
   1951–1955
-type: article
-article_type: article
+type: publication
 authors:
 - Ahmad Husni
 - Mahani Musa
@@ -29,7 +28,9 @@ keywords:
 - education system
 - national language
 - Muhammad Yusof
+publication_type: journal_article
 ---
+
 # Federal Education Policy and the Role of Muhammad Yusof bin Ahmad, 1951–1955
 
 ## Abstract

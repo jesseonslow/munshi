@@ -3,8 +3,7 @@ id: sungai-ujong
 work_id: jsbras-83-1-p123
 title: Sungai Ujong
 canonical_name: Sungai Ujong
-type: article
-article_type: article
+type: publication
 authors:
 - R.J. Wilkinson
 year: 1921
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-083-wilkinson-sungaiujong-1921-5388b8c3d6bc
 source_path: ../sources/jsbras-083-wilkinson-sungaiujong-1921-5388b8c3d6bc.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Sungai Ujong
 
 R.J. Wilkinson, a senior British colonial administrator (C.M.G.), published this study in 1921 in the *Journal of the Straits Branch of the Royal Asiatic Society* (No. 83, pp. 123–141). It is a constitutional and genealogical history of Sungai Ujong, the premier state of Negri Sembilan, tracing its political institutions from aboriginal origins through the Johor and Minangkabau periods to the British protectorate. Wilkinson's overarching thesis is that Sungai Ujong's peculiar constitutional anomalies—its dual rulership, its late adoption of matriarchal *adat*, and its hybrid of Bugis, Malay, and Minangkabau elements—stem from a prolonged period of patriarchal *adat temenggong* that was only partially overwritten by Sumatran custom, producing a political system unlike any other in the Negri Sembilan.

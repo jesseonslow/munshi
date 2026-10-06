@@ -3,8 +3,7 @@ id: sungei-ujong
 work_id: jmbras-22-2-p1
 title: Sungei Ujong
 canonical_name: Sungei Ujong
-type: article
-article_type: article
+type: publication
 authors:
 - J.M. Gullick
 year: 1949
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: true
 source_doc: jmalayanras-148-gullick-sungeiujong-1949-2804e7a4ed6c
 source_path: ../sources/appendix.md
+publication_type: journal_article
 ---
+
 # Sungei Ujong
 
 J.M. Gullick, a British administrator with a Cambridge education, published this comprehensive study of the state of Sungei Ujong in Negri Sembilan in 1949, drawing on oral tradition, colonial records, and his own observation of the 1945–46 election of a Dato' Klana to argue that the state's constitution—draped in the familiar garb of 'adat perpatih—was in fact a territorially-based system of irregular growth that never fitted the matrilineal model well (p. 21). The work traces the interaction of Sakai, Malacca, and Menangkabau elements from the fourteenth century through the British protection era, documenting the political offices, clan structures, revenue systems, and the semi-independent Bugis settlement of Linggi.

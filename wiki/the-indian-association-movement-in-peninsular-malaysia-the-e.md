@@ -4,8 +4,7 @@ work_id: jmbras-65-2-p3
 title: 'The ‘Indian Association Movement’ in peninsular Malaysia: the early years'
 canonical_name: 'The ‘Indian Association Movement’ in peninsular Malaysia: the early
   years'
-type: article
-article_type: article
+type: publication
 authors:
 - Khoo Kay Kim
 year: 1992
@@ -22,7 +21,9 @@ published: false
 source_doc: jmbras-263-kim-indianassociationmovement-1992-2b50c17f16e7
 source_path: ../sources/jmbras-263-kim-indianassociationmovement-1992-2b50c17f16e7.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The ‘Indian Association Movement’ in peninsular Malaysia: the early years
 
 Khoo Kay Kim's 1992 article traces the origins of the "Indian Association Movement" in peninsular Malaysia from the 1890s through the early 1920s, arguing that the English-educated urban Indian community—long overshadowed by plantation labour studies—was socially, religiously, and politically active well before the rise of mass nationalism. The study demonstrates that the movement was inspired by the Indian Association of Calcutta (founded 1876) and that its early failures in Penang and Taiping gave way to a more durable institution in Ipoh, the Kinta Indian Association, which became the principal centre of Indian nationalist activity in the Kinta Valley by the early 1920s.

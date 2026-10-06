@@ -5,8 +5,7 @@ title: 'Looking back on the “Sulu Zone”: state formation, slave raiding and 
   diversity in Southeast Asia'
 canonical_name: 'Looking back on the “Sulu Zone”: state formation, slave raiding and
   ethnic diversity in Southeast Asia'
-type: article
-article_type: article
+type: publication
 authors:
 - J.F. Warren
 year: 1996
@@ -23,7 +22,9 @@ published: false
 source_doc: jmbras-270-warren-lookingbackthe-1996-008047d5e046
 source_path: ../sources/jmbras-270-warren-lookingbackthe-1996-008047d5e046.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Looking back on the “Sulu Zone”: state formation, slave raiding and ethnic diversity in Southeast Asia
 
 James Francis Warren published this retrospective in 1996, looking back on his monograph *The Sulu Zone 1768–1898* to articulate the theoretical and methodological framework underpinning his reinterpretation of the Sulu Sultanate as a maritime trading state whose expansion was driven by slave raiding and cross-cultural commerce rather than by the decline or barbarism that earlier historiography had assumed. The article situates the Sulu Sultanate within a borderless "Zone" of economic influence stretching between China, Singapore, and the eastern Indonesian archipelago, and argues that the institution of slavery and the process of ethnic formation were mutually reinforcing pillars of state-building in the region.

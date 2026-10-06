@@ -3,8 +3,7 @@ id: galgal-nq-4
 work_id: jsbras-17-galgal-nq-4
 title: Galgal. NQ 4
 canonical_name: Galgal. NQ 4
-type: article
-article_type: notes_and_queries
+type: publication
 authors:
 - W.E. Maxwell
 year: 1886
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-017-maxwell-sriramamalay-1886-3155502a26ab
 source_path: ../sources/jsbras-017-maxwell-sriramamalay-1886-3155502a26ab.md
 summarized: true
+publication_type: note
 ---
+
 # Galgal. NQ 4
 
 W. E. Maxwell, a British Assistant Resident in Perak, published in 1886 the verbatim Malay text of an oral romance called *Sri Rama*, taken down from the lips of a Perak village storyteller named Mir Hassan of Kampar, accompanied by an extensive English commentary titled "Penglipur Lara: The Soother of Cares." The work documents a living oral tradition of Malay legendary storytelling rooted in the Hindu *Rāmāyaṇa*, preserving the performance context, linguistic register, and narrative structure of a genre that Maxwell argued was rapidly disappearing under the pressure of print culture and European colonial influence.

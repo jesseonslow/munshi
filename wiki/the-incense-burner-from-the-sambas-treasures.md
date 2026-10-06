@@ -3,8 +3,7 @@ id: the-incense-burner-from-the-sambas-treasures
 work_id: jmbras-22-4-p19
 title: The incense burner from the Sambas treasures
 canonical_name: The incense burner from the Sambas treasures
-type: article
-article_type: article
+type: publication
 authors:
 - Tan Yeok-Seong
 year: 1949
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-150-seong-incenseburnersambas-1949-1d76458fb20c
 source_path: ../sources/jmalayanras-150-seong-incenseburnersambas-1949-1d76458fb20c/frontmatter.md
 summarized: true
+publication_type: note
 ---
+
 # The incense burner from the Sambas treasures
 
 This short note by Tan Yeok-Seong describes the bronze incense burner recovered from the Sambas hoard in West Borneo, identifying it as the most significant object in the collection and analysing its decorative elements in terms of their cultural affiliations (p. 19).

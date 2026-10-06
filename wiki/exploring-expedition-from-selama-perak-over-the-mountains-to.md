@@ -5,8 +5,7 @@ title: Exploring expedition from Selama, Perak, over the mountains to Pong, Pata
   in November
 canonical_name: Exploring expedition from Selama, Perak, over the mountains to Pong,
   Patani, in November
-type: article
-article_type: article
+type: publication
 authors:
 - A.T. Dew
 year: 1887
@@ -23,7 +22,9 @@ published: false
 source_doc: jsbras-019-dew-exploringexpeditionselama-1887-18700eed2e4e
 source_path: ../sources/jsbras-019-dew-exploringexpeditionselama-1887-18700eed2e4e.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Exploring expedition from Selama, Perak, over the mountains to Pong, Patani, in November
 
 Arthur T. Dew, then Magistrate and Collector of Selama, Perak, published this official journal of a mountain exploring expedition conducted in November 1883 under the direction of Resident Sir Hugh Low, K.C.M.G. The expedition's purpose was to determine whether a practicable route existed from Selama to Pong in Patani, with a view to constructing a road through the disputed territory should Anglo-Siamese negotiations restore it to Perak. The account, supplemented by a brief 1874 journey narrative by W.E.M., provides a rare first-hand description of the uncharted highland corridor between the Krian and Rui river systems.

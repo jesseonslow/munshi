@@ -3,8 +3,7 @@ id: lexicographical-coincidences-in-khasi-and-malay
 work_id: jsbras-77-1-p251
 title: Lexicographical coincidences in Khasi and Malay
 canonical_name: Lexicographical coincidences in Khasi and Malay
-type: article
-article_type: article
+type: publication
 authors:
 - R.O. Winstedt
 year: 1917
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-077-winstedt-lexicographicalcoincidenceskhasi-1917-3c2996cf64bb
 source_path: ../sources/jsbras-077-winstedt-lexicographicalcoincidenceskhasi-1917-3c2996cf64bb.md
 summarized: true
+publication_type: note
 ---
+
 # Lexicographical coincidences in Khasi and Malay
 
 This short note by R. O. Winstedt (1917) presents a list of lexicographical parallels between Khasi and Malay to support the genetic connection between the Austroasiatic and Austronesian language families as proposed by Pater Schmidt.

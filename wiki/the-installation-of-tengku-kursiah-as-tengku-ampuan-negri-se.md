@@ -3,8 +3,7 @@ id: the-installation-of-tengku-kursiah-as-tengku-ampuan-negri-se
 work_id: jmbras-14-3-p243
 title: The installation of Tengku Kursiah as Tengku Ampuan, Negri Sembilan
 canonical_name: The installation of Tengku Kursiah as Tengku Ampuan, Negri Sembilan
-type: article
-article_type: article
+type: publication
 authors:
 - J.J. Sheehan
 year: 1936
@@ -18,6 +17,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: journal_article
 ---
 
 # The installation of Tengku Kursiah as Tengku Ampuan, Negri Sembilan

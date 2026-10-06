@@ -3,8 +3,7 @@ id: the-study-of-traditional-malay-literature
 work_id: jmbras-39-2-p1
 title: The study of traditional Malay literature
 canonical_name: The study of traditional Malay literature
-type: article
-article_type: article
+type: publication
 authors:
 - Ismail Hussein
 year: 1966
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: false
 source_doc: jmbras-210-hussein-studytraditionalmalay-1966-09e8e2c0814d
 source_path: ../sources/jmbras-210-hussein-studytraditionalmalay-1966-09e8e2c0814d.md
+publication_type: journal_article
 ---
+
 # The study of traditional Malay literature
 
 Ismail Hussein delivered this Annual Lecture to the Malaysian Branch of the Royal Asiatic Society in 1966, situating it within the post-war expansion of Malay Studies and the growing institutional infrastructure for the discipline. His overarching thesis is that a century of European scholarship on Malay traditional literature has been fundamentally non-literary in method—dominated by source-tracing, historical, and ethnological approaches—and that the field urgently requires a structural, literary-scientific treatment grounded in the Nusantara cultural context rather than in the comparative frameworks of Greater India or Greater Arabia (pp. 1–2, 20–21).

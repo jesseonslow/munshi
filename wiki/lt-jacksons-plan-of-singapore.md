@@ -3,8 +3,7 @@ id: lt-jacksons-plan-of-singapore
 work_id: jmbras-26-1-p200
 title: Lt. Jackson’s plan of Singapore
 canonical_name: Lt. Jackson’s plan of Singapore
-type: article
-article_type: article
+type: publication
 authors:
 - H.F. Pearson
 year: 1953
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-161-pearson-ltjacksonsplan-1953-6596cdcc0c1d
 source_path: ../sources/jmalayanras-161-pearson-ltjacksonsplan-1953-6596cdcc0c1d.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Lt. Jackson’s plan of Singapore
 
 H.F. Pearson's 1953 short note in the *Journal of the Malayan Branch of the Royal Asiatic Society* challenges the long-standing assumption that the "Plan of the Town of Singapore by Lieut. Jackson," engraved in 1828 for publication in Crawfurd's embassy journal, depicts the town as it actually stood in 1827. Pearson argues that the plan was in fact drawn in December 1822 or January 1823 and represents an idealistic layout proposed by Raffles's Town Committee rather than a survey of existing conditions.

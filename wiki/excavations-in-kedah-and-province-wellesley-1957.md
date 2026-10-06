@@ -3,8 +3,7 @@ id: excavations-in-kedah-and-province-wellesley-1957
 work_id: jmbras-31-1-p188
 title: Excavations in Kedah and Province Wellesley, 1957
 canonical_name: Excavations in Kedah and Province Wellesley, 1957
-type: article
-article_type: article
+type: publication
 authors:
 - M. Sullivan
 year: 1958
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-181-sullivan-excavationskedahprovince-1958-36098cda375b
 source_path: ../sources/jmalayanras-181-sullivan-excavationskedahprovince-1958-36098cda375b.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Excavations in Kedah and Province Wellesley, 1957
 
 Michael Sullivan's 1958 report on the University of Malaya Archaeological Society's 1957 excavation campaign documents work at four sites in southeast Kedah and northern Province Wellesley, extending the known spatial and chronological range of the ancient Indianised city-state of Kataha. The article argues that the religious landscape of this entrepôt was more complex than previously recognised, encompassing not only Hindu and Buddhist shrines but possibly Jain funerary structures, and that the settlement's southward extension along the Merbok and Muda river systems was more substantial than Quaritch Wales's 1936–37 survey had indicated.

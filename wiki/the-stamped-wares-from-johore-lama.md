@@ -3,8 +3,7 @@ id: the-stamped-wares-from-johore-lama
 work_id: jmbras-29-1-p194
 title: The stamped wares from Johore Lama
 canonical_name: The stamped wares from Johore Lama
-type: article
-article_type: article
+type: publication
 authors:
 - G. de G. Sieveking
 year: 1956
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-173-sieveking-stampedwaresjohore-1956-26e2c10458ce
 source_path: ../sources/jmalayanras-173-sieveking-stampedwaresjohore-1956-26e2c10458ce.md
 summarized: true
+publication_type: note
 ---
+
 # The stamped wares from Johore Lama
 
 This short note by G. de G. Sieveking corrects the earlier identification of stamped earthenware from Johore Lama as Han dynasty Chinese pottery, reassigning it to local Malay Peninsula production of the nineteenth or twentieth century (p. 194).

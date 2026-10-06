@@ -3,8 +3,7 @@ id: a-collection-of-malay-proverbs
 work_id: jsbras-67-1-p95
 title: A collection of Malay proverbs
 canonical_name: A collection of Malay proverbs
-type: article
-article_type: article
+type: publication
 authors:
 - J.L. Humphreys
 year: 1914
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: false
 source_doc: jsbras-067-humphreys-collectionmalayproverbs-1914-0366ce88978f
 source_path: ../sources/jsbras-067-humphreys-collectionmalayproverbs-1914-0366ce88978f.md
+publication_type: journal_article
 ---
+
 # A collection of Malay proverbs
 
 J. L. Humphreys, a Straits Settlements Civil Service officer, published this collection of 149 Malay proverbs in 1914, drawing on fieldwork conducted in Naning (1907–1908) and Batu Pahat, Johor (1911–1912). Framed by Sir Richard Temple's observation that proverbs constitute "a powerful force working for influence" in colonial administration, the article uses proverbial speech as a lens into the social structures, legal customs, and cultural distinctions of Peninsular Malay communities under British rule.

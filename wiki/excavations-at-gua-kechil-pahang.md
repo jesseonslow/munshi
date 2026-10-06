@@ -3,8 +3,7 @@ id: excavations-at-gua-kechil-pahang
 work_id: jmbras-42-2-p197
 title: Excavations at Gua Kechil, Pahang
 canonical_name: Excavations at Gua Kechil, Pahang
-type: article
-article_type: article
+type: publication
 authors:
 - Gathorne Gathorne-Hardy, Lord (Earl of Cranbrook) Medway
 year: 1969
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-216-medway-excavationsguakechil-1969-ccff6b291a3a
 source_path: ../sources/jmbras-216-medway-excavationsguakechil-1969-ccff6b291a3a/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Excavations at Gua Kechil, Pahang
 
 Lord Medway (Gathorne Gathorne-Hardy, Earl of Cranbrook) published this faunal analysis in 1969 as the third instalment of the Gua Kechil excavation series, examining vertebrate remains from the Alcove trench near Raub, Pahang, excavated in 1962. The article argues that the assemblage reveals a predominantly Sundaic mammalian fauna dominated by the bearded pig, with no evidence of domesticated animals, and that the replacement of *Sus barbatus* by the Eurasian wild pig in Malaya is a very recent phenomenon, likely within the last few centuries.

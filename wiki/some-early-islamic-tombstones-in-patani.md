@@ -3,8 +3,7 @@ id: some-early-islamic-tombstones-in-patani
 work_id: jmbras-59-1-p85
 title: Some early Islamic tombstones in Patani
 canonical_name: Some early Islamic tombstones in Patani
-type: article
-article_type: article
+type: publication
 authors:
 - W.A. Bougas
 year: 1986
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-250-bougas-earlyislamictombstones-1986-e3fe4de87e65
 source_path: ../sources/jmbras-250-bougas-earlyislamictombstones-1986-e3fe4de87e65/frontmatter.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Some early Islamic tombstones in Patani
 
 Wayne A. Bougas (1986) examines two pairs of early Islamic tombstones at Kubo Barahom, the oldest surviving Islamic cemetery in Patani, South Thailand, arguing that one grave belongs to the first Patani king to convert to Islam and that the stones belong to the 'Batu Aceh' class originating in North Sumatra. The article's central thesis is that the Hindu-Buddhist lotus and Mount Meru motifs carved on these stones were not simply decorative survivals but carried a coherent cosmological meaning—death as cosmic destruction and regeneration—that was reinterpreted within an Islamic framework during the transitional period of Patani's Islamization.

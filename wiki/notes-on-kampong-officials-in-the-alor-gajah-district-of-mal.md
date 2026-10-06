@@ -3,8 +3,7 @@ id: notes-on-kampong-officials-in-the-alor-gajah-district-of-mal
 work_id: jmbras-23-3-p97
 title: Notes on kampong officials in the Alor Gajah district of Malacca 1932–1935
 canonical_name: Notes on kampong officials in the Alor Gajah district of Malacca 1932–1935
-type: article
-article_type: article
+type: publication
 authors:
 - A.B. Ramsay
 year: 1950
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-153-ramsay-noteskampongofficials-1950-855e0fa6a055
 source_path: ../sources/jmalayanras-153-ramsay-noteskampongofficials-1950-855e0fa6a055.md
 summarized: true
+publication_type: note
 ---
+
 # Notes on kampong officials in the Alor Gajah district of Malacca 1932–1935
 
 A.B. Ramsay, writing in 1950 from his experience as District Officer of Alor Gajah (1932–1935), provides a first-hand ethnographic account of the kampong-level administrative structure in Malacca's Alor Gajah district, arguing that the local system of clan-based rotation and election represented a genuine indigenous democratic practice that the colonial administration had successfully grafted onto rather than replaced.

@@ -3,8 +3,7 @@ id: the-influence-of-portuguese-on-the-malay-language
 work_id: jmbras-35-1-p95
 title: The influence of Portuguese on the Malay language
 canonical_name: The influence of Portuguese on the Malay language
-type: article
-article_type: article
+type: publication
 authors:
 - M. Teixeira
 year: 1962
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-197-teixeira-influenceportuguesemalay-1962-14cfe86851a6
 source_path: ../sources/jmalayanras-197-teixeira-influenceportuguesemalay-1962-14cfe86851a6.md
 summarized: true
+publication_type: journal_article
 ---
+
 # The influence of Portuguese on the Malay language
 
 Manuel Teixeira's 1962 article traces the Portuguese lexical imprint on Malay from the sixteenth-century arrival of the Portuguese at Malacca through the Dutch colonial period, arguing that what began as a locally confined linguistic intrusion in the Moluccas and Batavia was disseminated into the general Malay written language by the nineteenth-century Malay-Chinese press.

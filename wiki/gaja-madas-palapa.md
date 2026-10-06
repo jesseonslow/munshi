@@ -3,8 +3,7 @@ id: gaja-madas-palapa
 work_id: jmbras-39-1-p185
 title: Gaja Mada’s palapa
 canonical_name: Gaja Mada’s _palapa._
-type: article
-article_type: article
+type: publication
 authors:
 - J. Minattur
 year: 1966
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-209-minattur-gajamadaspalapa-1966-c3149c5d877a
 source_path: ../sources/jmbras-209-minattur-gajamadaspalapa-1966-c3149c5d877a.md
 summarized: true
+publication_type: note
 ---
+
 # Gaja Mada’s palapa
 
 This short note by Joseph Minattur (JMBRAS Vol. 39, 1966) argues that the word *palapa* in Gaja Mada's famous oath most likely refers to a common South Indian food item rather than to Tantric or Bhairava Buddhist rites, as previously interpreted by scholars such as Berg and Vlekke.

@@ -3,8 +3,7 @@ id: some-copper-tokens-in-the-raffles-museum-singapore
 work_id: jmbras-15-2-p127
 title: Some copper tokens in the Raffles Museum, Singapore
 canonical_name: Some copper tokens in the Raffles Museum, Singapore
-type: article
-article_type: article
+type: publication
 authors:
 - C.H. Dakers
 year: 1937
@@ -21,7 +20,9 @@ published: false
 source_doc: jmalayanras-129-dakers-coppertokensraffles-1937-dc89a206b3d3
 source_path: ../sources/jmalayanras-129-dakers-coppertokensraffles-1937-dc89a206b3d3.md
 summarized: true
+publication_type: note
 ---
+
 # Some copper tokens in the Raffles Museum, Singapore
 
 C.H. Dakers describes two unpublished "Mules" (die combinations) among the British copper tokens of the Straits Settlements held in the Raffles Museum, Singapore, building on H. Leslie Ellis's earlier catalogue of the series.

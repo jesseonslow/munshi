@@ -3,8 +3,7 @@ id: some-aspects-of-the-federation-of-the-malay-states-18961910
 work_id: jmbras-40-2-p3
 title: Some aspects of the Federation of the Malay States, 1896–1910
 canonical_name: Some aspects of the Federation of the Malay States, 1896–1910
-type: article
-article_type: article
+type: publication
 authors:
 - E. Thio
 year: 1967
@@ -21,7 +20,9 @@ published: false
 source_doc: jmbras-212-thio-aspectsfederationmalay-1967-fa1c5a45aac9
 source_path: ../sources/jmbras-212-thio-aspectsfederationmalay-1967-fa1c5a45aac9.md
 summarized: true
+publication_type: journal_article
 ---
+
 # Some aspects of the Federation of the Malay States, 1896–1910
 
 Eunice Thio's 1967 article examines the constitutional and administrative development of the Federated Malay States between 1896 and 1910, arguing that the 1895 Agreement was never designed to create a genuine federation and that Sir John Anderson's 1909–1910 reforms—publicly framed as decentralizing—actually deepened centralization within the FMS while shifting authority from Kuala Lumpur to Singapore.

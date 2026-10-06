@@ -3,8 +3,7 @@ id: survey-reports-on-ulu-perak
 work_id: jsbras-3-1-p135
 title: Survey reports on Ulu Perak
 canonical_name: Survey reports on Ulu Perak
-type: article
-article_type: article
+type: publication
 authors:
 - H.S. Deane
 year: 1879
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-003-surveyreportuul-1879-9241004c09d5
 source_path: ../sources/jsbras-003-surveyreportuul-1879-9241004c09d5.md
 summarized: true
+publication_type: note
 ---
+
 # Survey reports on Ulu Perak
 
 This is a survey report by H. S. Deane documenting his journeys through the upper reaches of Perak State in 1879, published in the Journal of the Straits Branch of the Royal Asiatic Society.

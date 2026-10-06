@@ -3,8 +3,7 @@ id: the-introduction-of-islam-into-champa
 work_id: jmbras-58-1-p1
 title: The introduction of Islam into Champa
 canonical_name: The introduction of Islam into Champa
-type: article
-article_type: article
+type: publication
 authors:
 - P.-Y. Manguin
 year: 1985
@@ -22,7 +21,9 @@ summarized: true
 source_mismatch: true
 source_doc: jmbras-248-manguin-introductionislamcampa-1985-9a20e79c56b8
 source_path: ../sources/bibliography.md
+publication_type: journal_article
 ---
+
 # The introduction of Islam into Champa
 
 Pierre-Yves Manguin, a researcher at the École française d'Extrême-Orient, published this article in 1985 (originally in the *B.E.F.E.O.* in 1979, translated by Robert Nicholl) to trace the multi-century process by which Islam took root in Champa, the Austronesian kingdom on the central Vietnamese coast. His overarching thesis is that Champa's conversion was neither a sudden event nor the product of a single vector, but the cumulative result of Middle Eastern merchant colonies, Javanese-Islamic cultural transmission, and ultimately Malay immigration within the broader maritime network of Nusantara—a world to which Champa properly belongs rather than to the Vietnamese or "Indochinese" sphere.

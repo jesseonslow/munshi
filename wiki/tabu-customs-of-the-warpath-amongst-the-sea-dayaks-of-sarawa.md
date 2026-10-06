@@ -3,8 +3,7 @@ id: tabu-customs-of-the-warpath-amongst-the-sea-dayaks-of-sarawa
 work_id: jsbras-52-1-p117
 title: Tabu customs of the warpath amongst the Sea Dayaks of Sarawak
 canonical_name: Tabu customs of the warpath amongst the Sea Dayaks of Sarawak
-type: article
-article_type: article
+type: publication
 authors: []
 year: 1909
 journal_code: JSBRAS
@@ -20,7 +19,9 @@ published: false
 source_doc: jsbras-052-hewitt-tabucustomswarpath-1909-39747d989f47
 source_path: ../sources/jsbras-052-hewitt-tabucustomswarpath-1909-39747d989f47.md
 summarized: true
+publication_type: note
 ---
+
 # Tabu customs of the warpath amongst the Sea Dayaks of Sarawak
 
 This short note by John Hewitt documents tabu customs observed by Sea Dayak women in the Batang Lupar district of Sarawak while their husbands were on a punitive warpath, recorded in 1909 (p. 117).

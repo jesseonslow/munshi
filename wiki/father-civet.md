@@ -3,8 +3,7 @@ id: father-civet
 work_id: jsbras-50-1-p85
 title: Father Civet
 canonical_name: Father Civet
-type: article
-article_type: article
+type: publication
 authors:
 - R.O. Winstedt
 year: 1908
@@ -21,7 +20,9 @@ published: false
 source_doc: jsbras-050-winstedt-fathercivet-1908-379a122966d1
 source_path: ../sources/jsbras-050-winstedt-fathercivet-1908-379a122966d1.md
 summarized: true
+publication_type: translation
 ---
+
 # Father Civet
 
 R.O. Winstedt published "Father Civet" in the *Journal of the Straits Branch of the Royal Asiatic Society* (No. 50, 1908) as a brief beast fable of the Aesop type, presenting both an English synopsis and the full Malay text of a Perak folk tale attributed to a local *penghulu*. The tale illustrates the fatal consequences of gullibility and broken trust through the repeated betrayals of two chicks who disclose their mother's roosting-place to a predatory civet cat.
