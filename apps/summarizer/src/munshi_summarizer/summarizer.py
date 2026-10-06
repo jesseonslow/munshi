@@ -7,17 +7,52 @@ and injecting publication summaries into MBRAS wiki markdown articles.
 
 from __future__ import annotations
 
-import re
+import asyncio
 from pathlib import Path
+import random
+import re
 from typing import Any
 import yaml
 from jinja2 import Environment, FileSystemLoader, select_autoescape
-from openai import OpenAI
+from openai import AsyncOpenAI  # <-- FIXED: Import AsyncOpenAI
 from rich.console import Console
 
 from munshi_summarizer.config import SummarizerConfig
 
 console = Console()
+
+EXCLUDED_SECTION_NAMES = {
+    "index",
+    "bibliography",
+    "references",
+    "list_of_plates",
+    "list_of_figures",
+    "abbreviations",
+}
+
+
+async def call_llm_with_retry(
+    client: AsyncOpenAI,
+    payload_kwargs: dict[str, Any],
+    max_retries: int = 5,
+) -> Any:
+    """Executes completion with exponential backoff on 429/5xx errors."""
+    delay = 1.0
+    for attempt in range(1, max_retries + 1):
+        try:
+            return await client.chat.completions.create(**payload_kwargs)
+        except Exception as e:
+            err_str = str(e).lower()
+            retryable = any(
+                code in err_str
+                for code in ["429", "502", "503", "504", "timeout", "rate limit", "connection reset"]
+            )
+            if attempt < max_retries and retryable:
+                sleep_time = delay + random.uniform(0.1, 0.4)
+                await asyncio.sleep(sleep_time)
+                delay *= 2.0
+            else:
+                raise e
 
 
 class PublicationSummarizer:
@@ -25,7 +60,8 @@ class PublicationSummarizer:
 
     def __init__(self, config: SummarizerConfig):
         self.config = config
-        self.client = OpenAI(
+        # FIXED: Instantiate AsyncOpenAI client
+        self.client = AsyncOpenAI(
             api_key=self.config.openrouter_api_key or "dry-run-key",
             base_url=self.config.openrouter_base_url,
             timeout=300.0,
@@ -46,7 +82,6 @@ class PublicationSummarizer:
     # 1. Frontmatter & Source Resolution
     # -------------------------------------------------------------------------
     def split_frontmatter(self, text: str) -> tuple[dict[str, Any], str]:
-        """Separates YAML frontmatter from the Markdown body."""
         parts = text.split("---", 2)
         if len(parts) >= 3:
             fm = yaml.safe_load(parts[1]) or {}
@@ -54,29 +89,21 @@ class PublicationSummarizer:
         return {}, text
 
     def join_frontmatter(self, fm: dict[str, Any], body: str) -> str:
-        """Serializes updated YAML frontmatter back onto the Markdown body."""
         yaml_str = yaml.dump(fm, sort_keys=False, allow_unicode=True)
         return f"---\n{yaml_str}---\n{body.lstrip()}"
 
     def resolve_source_files(self, wiki_file: Path, fm: dict[str, Any]) -> list[Path]:
-        """
-        Resolves one or more source markdown files.
-        - Single-file publications (sitting directly in sources/) return [file].
-        - Multi-part publications (in their own dedicated subfolder) return [frontmatter, glossary, etc.].
-        - Guaranteed never to glob the root sources_dir.
-        """
         source_path = fm.get("source_path")
         source_doc = fm.get("source_doc")
         sources_root = self.config.sources_dir.resolve()
 
-        # ---------------------------------------------------------------------
-        # 1. Check if source_doc points to a dedicated subfolder
-        #    e.g. sources/jmbras-253-laderman-mainpeterisynopses-1987-7225e09bb3f3/
-        # ---------------------------------------------------------------------
         if source_doc:
             candidate_dir = (self.config.sources_dir / source_doc).resolve()
             if candidate_dir.is_dir() and candidate_dir != sources_root:
-                all_mds = sorted(candidate_dir.glob("*.md"))
+                all_mds = [
+                    p for p in candidate_dir.glob("*.md")
+                    if p.stem.lower() not in EXCLUDED_SECTION_NAMES
+                ]
                 if all_mds:
                     def file_sort_key(p: Path) -> int:
                         stem = p.stem.lower()
@@ -84,15 +111,10 @@ class PublicationSummarizer:
                             return 0
                         if stem == "glossary":
                             return 1
-                        if stem in {"bibliography", "index"}:
-                            return 2
-                        return 3
+                        return 2
 
                     return sorted(all_mds, key=file_sort_key)
 
-        # ---------------------------------------------------------------------
-        # 2. Check if source_path explicitly points to an existing file
-        # ---------------------------------------------------------------------
         if source_path:
             p_rel_wiki = (wiki_file.parent / source_path).resolve()
             p_rel_src = (self.config.sources_dir / source_path).resolve()
@@ -100,10 +122,11 @@ class PublicationSummarizer:
             for target in (p_rel_wiki, p_rel_src):
                 if target.is_file() and target.exists():
                     parent_dir = target.parent.resolve()
-                    # If this file lives inside a dedicated subfolder (not the root sources folder),
-                    # bundle the subfolder's markdown files (e.g. frontmatter.md + glossary.md)
                     if parent_dir != sources_root and parent_dir != wiki_file.parent.resolve():
-                        sub_mds = sorted(parent_dir.glob("*.md"))
+                        sub_mds = [
+                            p for p in parent_dir.glob("*.md")
+                            if p.stem.lower() not in EXCLUDED_SECTION_NAMES
+                        ]
                         if len(sub_mds) > 1:
                             def sub_sort_key(p: Path) -> int:
                                 stem = p.stem.lower()
@@ -113,13 +136,8 @@ class PublicationSummarizer:
                                     return 1
                                 return 2
                             return sorted(sub_mds, key=sub_sort_key)
-                    # Otherwise, it's a standalone flat file in the root sources directory
                     return [target]
 
-        # ---------------------------------------------------------------------
-        # 3. Check for standalone flat files matching source_doc in sources root
-        #    e.g. sources/{source_doc}.md
-        # ---------------------------------------------------------------------
         if source_doc:
             flat_file = (self.config.sources_dir / f"{source_doc}.md").resolve()
             if flat_file.is_file() and flat_file.exists():
@@ -128,7 +146,6 @@ class PublicationSummarizer:
         return []
 
     def load_bundled_source_text(self, files: list[Path]) -> str:
-        """Concatenates multiple related source files into a unified context payload."""
         if len(files) == 1:
             return files[0].read_text(encoding="utf-8")
 
@@ -140,11 +157,7 @@ class PublicationSummarizer:
             )
         return "\n\n".join(parts)
 
-    # -------------------------------------------------------------------------
-    # 2. Deterministic Metadata Extraction
-    # -------------------------------------------------------------------------
     def extract_frontmatter_metadata(self, source_text: str) -> dict[str, Any]:
-        """Deterministically extracts Abstract and Keywords from source markdown."""
         head_text = source_text[:4000]
         extracted: dict[str, Any] = {"abstract": None, "keywords": []}
 
@@ -181,16 +194,17 @@ class PublicationSummarizer:
         return extracted
 
     # -------------------------------------------------------------------------
-    # 3. LLM Synthesis Generation (Streaming & Adaptive Length)
+    # 2. Async LLM Synthesis
     # -------------------------------------------------------------------------
-    def generate_summary(
+    async def generate_summary_async(
         self,
         metadata: dict[str, Any],
         doc_id: str,
         source_text: str,
         has_abstract: bool,
+        semaphore: asyncio.Semaphore,
+        stream_to_console: bool = False,
     ) -> str:
-        """Streams synthesis from OpenRouter with real-time reasoning and token tracking."""
         word_count = len(source_text.split())
         page_anchors = re.findall(r'<span id="page-(\d+)"></span>', source_text)
         page_count = len(set(page_anchors)) or 1
@@ -204,11 +218,6 @@ class PublicationSummarizer:
             or metadata.get("document_type") == "index"
             or "index" in metadata.get("title", "").lower()
             or "index" in doc_id.lower()
-        )
-
-        console.print(
-            f"[dim]Metrics: ~{word_count} words | {page_count} pages detected | "
-            f"Mode: {'Index' if is_index else ('Concise' if is_short_item else 'Full Synthesis')}[/dim]"
         )
 
         if is_index:
@@ -225,11 +234,9 @@ class PublicationSummarizer:
                 "- Attribute page references using plain text citation markers: (p. X) or (pp. X–Y). Do NOT use web links.\n\n"
                 "### STYLE GUIDE:\n"
                 "- Write with British English spellings and use the Oxford Comma.\n"
-                "- Use the Oxford Comma.\n"
-                "- Non-English words and abbreviations must be defined when first mentioned"
+                "- Non-English words and abbreviations must be defined when first mentioned."
             )
         elif is_short_item:
-            # Calibrated prompt for short notes, fragments, and glossaries
             system_prompt = (
                 "<|think_low|>\n"
                 "You are an expert digital archivist for the Malaysian Branch of the Royal Asiatic Society (MBRAS).\n"
@@ -240,32 +247,38 @@ class PublicationSummarizer:
                 "  1. LEDE PARAGRAPH: 1-2 sentences stating the document's precise subject and author.\n"
                 "  2. '## Summary': 1-2 focused paragraphs covering what is contained, argued, or documented.\n"
                 "- Do NOT generate '### Key Findings' or '### Conclusion' subheadings for short items.\n"
-                "- Do NOT generate a '## Context' section unless there is an extraordinary colonial bias or provenance issue.\n"
+                "- Do NOT generate a '## Context' section unless there is an extraordinary provenance issue.\n"
                 "- Attribute citations using plain text markers: (p. X). Do NOT generate web links.\n"
                 "- NEVER output '# H1' or '## References'."
             )
         else:
-            # Full synthesis prompt for substantive publications
+            lede_instruction = (
+                "Do NOT generate an introductory lede paragraph or overview sentence above '## Summary', "
+                "as the article already contains an official author abstract. Begin your output IMMEDIATELY "
+                "with the heading '## Summary'."
+                if has_abstract
+                else (
+                    "Begin your output immediately with an introductory LEDE PARAGRAPH (2-3 sentences) "
+                    "directly stating the author, publication year, historical setting, and overarching thesis. "
+                    "Follow this directly with '## Summary'."
+                )
+            )
+
             system_prompt = (
                 "<|think_low|>\n"
                 "You are an expert digital archivist and historiographer for the Malaysian Branch "
-                "of the Royal Asiatic Society (MBRAS). Your mission is to produce an information-dense, "
-                "rigorously grounded synthesis of this publication to serve as source material for topic syntheses.\n\n"
-                "### SOURCE STRUCTURE HINTS:\n"
-                f"- Explicit '## Abstract' present: {'YES' if has_abstract else 'NO'}.\n"
-                f"- Explicit '## Conclusion' present: {'YES' if has_conclusion else 'NO'}.\n\n"
-                "### OUTPUT FORMAT RULES:\n"
-                "1. LEDE PARAGRAPH: Begin immediately with a concise 2-3 sentence overview (subject, author, historical scope).\n"
-                "2. '## Summary': An analytical synthesis containing:\n"
-                "   - Running prose analyzing core arguments, primary apparatus, and historical arcs.\n"
-                "   - '### Key Findings': 3-6 concrete, specific assertions (dates, treaties, figures).\n"
-                "   - '### Conclusion': A succinct analysis of the author's definitive historical takeaway.\n"
-                "3. '## Context': (OPTIONAL). Include ONLY if there is genuine archival apparatus, colonial bias, "
-                "or notable historiographical debates. If standard, omit this section entirely.\n\n"
+                "of the Royal Asiatic Society (MBRAS).\n"
+                "Your mission is to produce an information-dense, proportionate summary of this publication.\n\n"
+                f"### OPENING DIRECTIVE:\n{lede_instruction}\n\n"
+                "### FORMAT & PROPORTIONALITY RULES:\n"
+                "- Write in clear, natural prose. Avoid clinical academic subheadings.\n"
+                "1. '## Summary': A concise narrative of 2 to 3 focused paragraphs.\n"
+                "2. '### Key Findings': 4-6 concise bullet points containing concrete empirical evidence.\n"
+                "3. '### Conclusion': 1 concise paragraph on the author's definitive historical takeaway.\n"
+                "4. '## Context': (OPTIONAL): 1-2 brief bullets on colonial role or archival collections.\n\n"
                 "### CITATION RULES:\n"
-                "- Ground all claims, quotes, and findings with plain in-text page citations: (p. X) or (pp. X–Y).\n"
-                "- NEVER use web links (no markdown brackets linking to /sources/ paths).\n"
-                "- NEVER output '# H1' or '## References'. Begin directly with the lede paragraph."
+                "- Ground claims with plain-text parenthetical citations: (p. X) or (pp. X–Y).\n"
+                "- NEVER output '# H1' or '## References'."
             )
 
         template = self.jinja_env.get_template("summarize_publication.jinja2")
@@ -277,52 +290,40 @@ class PublicationSummarizer:
             has_conclusion=has_conclusion,
         )
 
-        # Stream OpenRouter response with reasoning tokens
-        stream_resp = self.client.chat.completions.create(
-            model=self.config.summarizer_model_id,
-            temperature=self.config.temperature,
-            max_tokens=4096,
-            extra_body={"reasoning": {"max_tokens": 1024}},
-            messages=[
+        # Retain your configured reasoning budget (256 for short, 1024 for long)
+        thinking_budget = 256 if is_short_item else 1024
+
+        payload_kwargs = {
+            "model": self.config.summarizer_model_id,
+            "temperature": self.config.temperature,
+            "max_tokens": 8192,
+            "extra_body": {"reasoning": {"max_tokens": thinking_budget}},
+            "messages": [
                 {"role": "system", "content": system_prompt},
                 {"role": "user", "content": user_content},
             ],
-            stream=True,
-        )
+        }
 
-        reasoning_chunks: list[str] = []
-        content_chunks: list[str] = []
-        in_thinking_mode = False
-
-        console.print("[bold cyan]Streaming response from model...[/bold cyan]")
-        for chunk in stream_resp:
-            if not chunk.choices:
-                continue
-            delta = chunk.choices[0].delta
-
-            # Stream thinking/reasoning tokens
-            reasoning = getattr(delta, "reasoning_content", None) or getattr(delta, "reasoning", None)
-            if reasoning:
-                if not in_thinking_mode:
-                    console.print("\n[dim magenta]Thinking...[/dim magenta]\n", end="")
-                    in_thinking_mode = True
-                print(f"\033[90m{reasoning}\033[0m", end="", flush=True)
-                reasoning_chunks.append(reasoning)
-
-            # Stream finalized markdown content
-            content = delta.content or ""
-            if content:
-                if in_thinking_mode:
-                    console.print("\n\n[bold green]Generating Publication Summary:[/bold green]\n")
-                    in_thinking_mode = False
-                content_chunks.append(content)
-                print(content, end="", flush=True)
-
-        print("\n")
-        return "".join(content_chunks).strip()
+        async with semaphore:
+            if stream_to_console:
+                payload_kwargs["stream"] = True
+                stream_resp = await call_llm_with_retry(self.client, payload_kwargs)
+                content_chunks = []
+                async for chunk in stream_resp:
+                    if not chunk.choices:
+                        continue
+                    delta = chunk.choices[0].delta
+                    if delta.content:
+                        print(delta.content, end="", flush=True)
+                        content_chunks.append(delta.content)
+                print("\n")
+                return "".join(content_chunks).strip()
+            else:
+                resp = await call_llm_with_retry(self.client, payload_kwargs)
+                return (resp.choices[0].message.content or "").strip()
 
     # -------------------------------------------------------------------------
-    # 4. Body Splicing & Frontmatter Update
+    # 3. Body Splicing & Frontmatter Update
     # -------------------------------------------------------------------------
     def inject_summary_into_article(
         self,
@@ -330,102 +331,96 @@ class PublicationSummarizer:
         generated_output: str,
         extracted_meta: dict[str, Any],
     ) -> str:
-        """Splices generated summary into the article body while preserving references."""
         fm, body = self.split_frontmatter(article_text)
         fm["summarized"] = True
 
         if extracted_meta.get("keywords") and not fm.get("keywords"):
             fm["keywords"] = extracted_meta["keywords"]
 
-        if extracted_meta.get("abstract") and not fm.get("abstract"):
-            fm["abstract"] = extracted_meta["abstract"]
-
+        fm.pop("abstract", None)
         body = re.sub(r"<!--\s*(Synthesis engine|Summarizer):.*?\s*-->\n?", "", body)
 
         h1_match = re.search(r"^(#\s+[^\n]+)", body, flags=re.MULTILINE)
         h1_line = h1_match.group(1) if h1_match else ""
 
         cleaned_body = re.sub(
-            r"##\s+(Overview|Summary|Context).*?(?=\n##\s+|\Z)",
+            r"##\s+(Abstract|Overview|Summary|Context).*?(?=\n##\s+|\Z)",
             "",
             body,
             flags=re.DOTALL,
         ).strip()
 
+        abstract_block = ""
+        source_abstract = extracted_meta.get("abstract")
+        if source_abstract:
+            abstract_block = f"## Abstract\n\n{source_abstract}\n\n"
+
+        output_body = f"{h1_line}\n\n{abstract_block}{generated_output.strip()}\n"
+
         if "## References" in cleaned_body:
             parts = cleaned_body.split("## References", 1)
             trailing = "## References" + parts[1]
-            new_body = f"{h1_line}\n\n{generated_output.strip()}\n\n{trailing.strip()}\n"
+            new_body = f"{output_body}\n{trailing.strip()}\n"
         else:
-            new_body = (
-                f"{h1_line}\n\n{generated_output.strip()}\n\n"
-                f"## References\n<!-- Grounded occurrences and citations -->\n"
-            )
+            new_body = f"{output_body}\n## References\n<!-- Grounded occurrences and citations -->\n"
 
         return self.join_frontmatter(fm, new_body)
 
     # -------------------------------------------------------------------------
-    # 5. Article Processing Gateways
+    # 4. Article Processing Gateways
     # -------------------------------------------------------------------------
-    def process_wiki_article(
-        self, wiki_path: Path, force: bool = False, execute: bool = True
+    async def process_wiki_article_async(
+        self,
+        wiki_path: Path,
+        semaphore: asyncio.Semaphore,
+        force: bool = False,
+        execute: bool = True,
+        stream_to_console: bool = False,
     ) -> bool:
-        """Processes an existing wiki article file."""
         raw_content = wiki_path.read_text(encoding="utf-8")
         fm, _ = self.split_frontmatter(raw_content)
 
-        if fm.get("type") != "article":
+        if fm.get("type") not in ("article", "publication"):
             return False
 
-        article_type = fm.get("article_type", "article").lower()
-        allowed_types = {"article", "note", "notes_and_queries"}
-        if article_type not in allowed_types:
+        article_type = (fm.get("article_type") or fm.get("publication_type") or "article").lower()
+        if article_type in {"index", "obituary", "review"}:
             return False
 
         if (fm.get("summarized") is True or fm.get("summarised") is True) and not force:
-            console.print(f"[dim]Skipping already summarized: {wiki_path.name}[/dim]")
             return False
 
         source_files = self.resolve_source_files(wiki_path, fm)
         if not source_files:
-            console.print(
-                f"[yellow]Warning: Source missing for {wiki_path.name}. Skipping gracefully.[/yellow]"
-            )
             return False
 
-        file_names = ", ".join(f.name for f in source_files)
         source_text = self.load_bundled_source_text(source_files)
         doc_id = fm.get("source_doc") or source_files[0].stem
 
         extracted_meta = self.extract_frontmatter_metadata(source_text)
         has_abstract = bool(extracted_meta.get("abstract"))
-        kw_count = len(extracted_meta.get("keywords", []))
-
-        console.print(
-            f"[cyan]Targeting [{article_type}]: {wiki_path.name} -> [{file_names}] "
-            f"(Abstract: {'Yes' if has_abstract else 'No'}, Keywords: {kw_count})[/cyan]"
-        )
 
         if not execute:
-            console.print("[yellow]Dry-run: Validated source. Skipping LLM API call.[/yellow]")
             return True
 
-        generated_blocks = self.generate_summary(
+        generated_blocks = await self.generate_summary_async(
             metadata=fm,
             doc_id=doc_id,
             source_text=source_text,
             has_abstract=has_abstract,
+            semaphore=semaphore,
+            stream_to_console=stream_to_console,
         )
+
         new_content = self.inject_summary_into_article(
             article_text=raw_content,
             generated_output=generated_blocks,
             extracted_meta=extracted_meta,
         )
         wiki_path.write_text(new_content, encoding="utf-8")
-        console.print(f"[bold green]Successfully summarized:[/bold green] {wiki_path.name}")
         return True
 
-    def create_from_source(self, source_path: Path, execute: bool = True) -> Path:
+    async def create_from_source_async(self, source_path: Path, execute: bool = True) -> Path:
         """Direct Ingestion Mode: Creates a new wiki stub from raw source markdown."""
         source_text = source_path.read_text(encoding="utf-8")
         src_fm, _ = self.split_frontmatter(source_text)
@@ -452,7 +447,7 @@ class PublicationSummarizer:
             "source_path": f"../sources/{source_path.name}",
             "summarized": False,
             "status": "stub",
-            "published": false,
+            "published": False,
         }
 
         if extracted_meta.get("abstract"):
@@ -463,17 +458,23 @@ class PublicationSummarizer:
         generated_blocks = "<!-- Summarizer: Insert publication summary here -->"
         if execute:
             console.print(f"[cyan]Generating initial summary for new doc: {slug}...[/cyan]")
-            generated_blocks = self.generate_summary(
+            generated_blocks = await self.generate_summary_async(
                 metadata=metadata,
                 doc_id=slug,
                 source_text=source_text,
                 has_abstract=has_abstract,
+                semaphore=asyncio.Semaphore(1),
+                stream_to_console=True,
             )
             metadata["summarized"] = True
 
+        abstract_block = ""
+        if metadata.get("abstract"):
+            abstract_block = f"## Abstract\n\n{metadata['abstract']}\n\n"
+
         stub_content = (
             f"# {metadata['title']}\n\n"
-            f"{generated_blocks}\n\n"
+            f"{abstract_block}{generated_blocks}\n\n"
             f"## References\n<!-- Grounded occurrences and citations -->\n"
         )
         final_md = self.join_frontmatter(metadata, stub_content)
