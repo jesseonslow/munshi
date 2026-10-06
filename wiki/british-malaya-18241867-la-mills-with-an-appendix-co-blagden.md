@@ -19,13 +19,45 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
-summarized: false
+summarized: true
 source_mismatch: true
 source_doc: jmalayanras-094-mills-britishmalaya18241867-1925-562e603de16d
 source_path: ../sources/bibliography.md
 ---
-
 # British Malaya, 1824–1867. L.A. Mills. With an appendix C.O. Blagden
+
+L.A. Mills and C.O. Blagden produced this comprehensive 338-page monograph in 1925, covering the formative period of British Malaya from the Anglo-Dutch Treaty of 1824 through the transfer of the Straits Settlements to the Colonial Office in 1867. The work's overarching thesis is that the East India Company's policy of strict non-intervention in Malay affairs, while commercially rational for a trading corporation, ultimately preserved the independence of the Malay States from Siamese conquest and laid the groundwork for the later British protectorate system (pp. 169–170, 183–184).
+
+## Summary
+
+The monograph is structured in three parts. Part I (Chapters I–IV) establishes the preconditions for British Malaya: the long Anglo-Dutch rivalry for the spice trade, the founding of Penang in 1786 as a naval and commercial base, Raffles' occupation of Singapore in 1819, and the Anglo-Dutch Treaty of 1824 which divided the Archipelago into British and Dutch spheres of influence. The Treaty ceded Malacca to Britain and Bencoolen to Holland, while both powers agreed to a mutual self-denying ordinance preventing new settlements in each other's zone (pp. 71–75). Part II (Chapters V–IX) examines the internal administration of the Straits Settlements: the civil service, the Malacca land problem, the Naning War, Anglo-Siamese relations, and the Company's Malayan policy. Part III (Chapters X–XIV) addresses trade and agriculture, the Chinese population, piracy, Rajah Brooke's work in Sarawak, and the transfer to the Colonial Office.
+
+The work demonstrates that Singapore's commercial success was the defining feature of the period. From a population of roughly 1,500 in 1819, the island grew to over 80,000 by 1860, with trade rising from $4,000,000 in 1820 to over £13,000,000 by 1864 (pp. 62, 192). This growth was driven by Raffles' policy of free trade and the island's position at the southern entrance to the Straits of Malacca. Penang and Malacca, by contrast, suffered commercial decline as Singapore captured their trade in the Archipelago and China (pp. 189–191).
+
+The Company's policy of non-intervention in the Malay States is treated as the most consequential decision of the period. The Straits Settlements were maintained at a heavy annual deficit—averaging £81,448 per year during the Presidency period—and the Directors refused to sanction any expansion of British power in the Peninsula (pp. 84, 90). This policy was driven by the fear that alliances with Malay rulers would entangle the Company in local wars or provoke Siam. Yet the work shows that local officials, particularly Governor Fullerton and Captain Low, repeatedly acted against this directive to protect Perak and Selangor from Siamese aggression, ultimately saving the greater part of the Peninsula from Siamese conquest (pp. 137–160).
+
+### Key Findings
+
+- The Anglo-Dutch Treaty of 1824 was a net territorial loss for Britain: it surrendered Bencoolen and all British possessions in Sumatra in exchange for Malacca, a "decayed port, a chronic deficit, a costly native war, and a land problem which defied solution for over forty years" (p. 76). The Treaty nonetheless proved strategically valuable by removing Dutch claims from the Malay Peninsula, facilitating British intervention after 1874 (p. 75).
+
+- Singapore's trade grew from $4,000,000 (1820) to $13,268,397 (1823) to over £13,000,000 (1864), while its administrative costs were only £12,000–£14,000 per year—far less than Bencoolen's £100,000 annual expense (pp. 62–63, 192). By 1860, Singapore's commerce (£10,371,300) exceeded that of the entire Dutch East Indian Empire (£14,300,000) (p. 194).
+
+- The Malacca land problem, originating in the 1828 redemption of Dutch "Proprietors" who were actually Malay zemindars, produced a chronic annual deficit of approximately £1,200 and remained unsolved through 1884. The fundamental error was Regulation IX of 1830, which attempted to combine Malay and English land-tenure systems, creating "incessant confusion" (pp. 99–114).
+
+- The Naning War of 1831–32 cost the Company £100,000 to obtain an annual revenue of perhaps $100, and was precipitated by Governor Fullerton's misreading of Dutch archival records and the misleading reports of Superintendent Lewis (pp. 115–127).
+
+- The Chinese formed the majority of the population in both Singapore and Penang by 1830, and their labour was the foundation of the colony's prosperity. In Singapore, the Chinese population grew from 3,000 (1819–20) to 50,043 (1860), while in Penang it rose from 7,858 (1818) to 28,018 (1860) (pp. 199–212).
+
+- The suppression of piracy was achieved primarily through the introduction of steamships (first the H.C. steamer *Diana* in 1837) and the systematic destruction of pirate strongholds. The *Diana*'s first engagement in 1837 killed 90 Lanuns and wounded 150, demonstrating that steam power had rendered the traditional galley obsolete (pp. 233–234).
+
+### Conclusion
+
+Mills and Blagden present the period 1824–1867 as one in which the East India Company, despite its timidity and parsimony, performed an essential service: it maintained a just and free-trading administration in the Straits Settlements, preserved the independence of the Malay States from Siamese conquest, and suppressed piracy—thereby creating the conditions under which British Malaya could later flourish. The transfer to the Colonial Office in 1867 was not a repudiation of Company rule but its logical culmination, inaugurating a policy of active intervention in the Malay States that would produce the protectorate system of the twentieth century (pp. 263, 275).
+
+## Context
+
+- The work draws extensively on the Straits Settlements Records, Bengal Public and Political Consultations, and Parliamentary Papers (particularly P.P. H. of C. No. 259 of 1862 and Command Paper [3672] of 1866), many of which were scattered across the Colonial, India, and War Office archives (p. 1).
+- The monograph was published in the *Journal of the Malayan Branch of the Royal Asiatic Society*, Vol. 3, Part II (1925), and represents the most comprehensive single-volume treatment of the pre-1867 period available in English at the time of publication.
 
 ## References
 <!-- Grounded occurrences and citations -->

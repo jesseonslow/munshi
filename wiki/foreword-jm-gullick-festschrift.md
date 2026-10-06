@@ -18,10 +18,18 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
-summarized: false
+summarized: true
 source_mismatch: true
 source_doc: jmbras-277-barlow-foreword-1999-f10b201180c9
 source_path: ../sources/jmbras-277-barlow-foreword-1999-f10b201180c9.md
 ---
-
 # Foreword (J.M. Gullick Festschrift)
+
+This is a one-page foreword by H.S. Barlow, editor of the Festschrift volume honouring J.M. Gullick, published in JMBRAS Vol. 72, Part 2 (1999).
+
+## Summary
+
+Barlow reflects on Gullick's half-century of contributions to the Society's Journal and Monograph series, placing his scholarly output alongside that of earlier figures such as W.E. Maxwell and Sir Richard Winstedt. He highlights Gullick's dual qualities of scholarly rigour and readability, his reliability as a contributor whose manuscripts were "always trouble-free," and his characteristic generosity in sharing knowledge with fellow historians through prompt, detailed correspondence (p. 1). The foreword closes with acknowledgements to the volume's contributors and to Datin Noor Azlina Yunus for her editorial assistance.
+
+## References
+<!-- Grounded occurrences and citations -->

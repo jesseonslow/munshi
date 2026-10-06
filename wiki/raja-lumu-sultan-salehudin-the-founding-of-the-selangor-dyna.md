@@ -18,40 +18,40 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
-summarized: false
+summarized: true
 source_mismatch: true
 source_doc: jmbras-249-kim-rajalumusultansalehuddin-1985-2ed578f282eb
 source_path: ../sources/appendices.md
 ---
-
 # Raja Lumu – Sultan Salehudin: the founding of the Selangor dynasty
 
-Khoo Kay Kim's 1985 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* examines the origins of the Selangor royal dynasty, tracing the lineage from Raja Lumu through to Sultan Salehudin (Sultan Salehuddin), the first recognized Sultan of Selangor. The study addresses the historiographical gap surrounding the early political consolidation of Selangor in the late eighteenth and early nineteenth centuries, drawing on Malay annals, genealogical records, and colonial administrative sources to reconstruct the succession and legitimation processes that established the Selangor throne.
+Khoo Kay Kim's 1985 article, delivered as a Silver Jubilee Lecture for Sultan Salahuddin Abdul Aziz Shah, reconstructs the political circumstances of eighteenth-century Johor and the Malay Peninsula that culminated in Raja Lumu's installation as Sultan Salehuddin of Selangor in 1766, arguing that the Melaka Sultanate's tradition of conferred legitimacy (*daulat*) remained the operative principle of Malay statehood even after the kingdom's fragmentation.
 
 ## Summary
 
-The article tackles a persistent problem in Selangor historiography: the paucity of reliable primary documentation for the dynasty's formative period. Khoo Kay Kim works to disentangle the genealogical claims of the Selangor royal house from the political realities of territorial control in the Klang Valley during the late 1700s. The core argument is that the transition from Raja Lumu's authority to the formal sultanate under Salehudin was not a simple hereditary succession but involved contested claims, external recognition (particularly from the Sultan of Siam and the British colonial administration), and the strategic use of genealogical narratives to consolidate legitimacy.
+The article traces the disintegration of the Johor kingdom following the assassination of Sultan Mahmud in 1699, through the successive Bugis ascendancies under Daing Marewah and Daing Chelak, to the point where Daing Chelak's son Raja Lumu controlled Selangor as a Bugis fief. Kim situates this within a broader pattern: four of Malaysia's present states (Negeri Sembilan, Trengganu, Kelantan, Selangor) were founded in the eighteenth century, each deriving its legitimacy from an existing legitimate ruler rather than from mere military conquest. The Bugis, despite their military dominance, repeatedly subscribed to Malay political tradition—installing Sultan Sulaiman of Johor in 1721 and accepting Malay titles and ceremonies—demonstrating what Kim calls the enduring power of the Melaka legacy.
 
-The author draws on the *Sejarah Melayu* tradition, the *Hikayat* literature, and British colonial records from the Selangor State Archives to cross-reference genealogical claims. A significant portion of the analysis is devoted to the political context of the Klang Valley in the 1760s–1790s, when the area was fragmented among competing Malay chiefs and subject to Siamese suzerainty. Khoo Kay Kim argues that Raja Lumu's authority was initially limited to a specific territorial base and that the elevation to sultanate status required both internal consolidation and external validation.
+The central narrative concerns the events of 1766, when Raja Lumu sailed to Perak and was received by Sultan Mahmud (formerly Raja Kimas) at Kota Lumut. Kim draws on Dutch contemporary records to establish that Sultan Mahmud formally installed Raja Lumu as Yang Dipertuan of Selangor with the title "Sultan Salehuddin," presenting him with the *nobat*. The indigenous sources (*Misa Melayu* and *Tufat al-Nafis*) each distort the episode to flatter their respective patrons, and only the Dutch documents resolve the discrepancy. Kim infers two motivations for Raja Lumu's démarche: liberation from Johor hegemony and the need for legitimization as "Sultan" rather than merely "Raja."
 
-The study also engages with the question of how the Selangor dynasty positioned itself within the broader political geography of the Malay Peninsula, particularly in relation to the Sulu and Johor claims to overlordship, and how the British intervention in the 1870s (following the Larut Treaty and the subsequent partition of Selangor) retroactively shaped the historical narrative of the dynasty's founding.
+The article closes with a brief account of Sultan Salehuddin's aggressive reign (attacking Kedah in 1771, pressing into Perak with twenty ships in 1777), the administrative offices he created, and the dynastic succession through to the reigning sultan. Two appendices reproduce full newspaper accounts of the coronations of 1903 and 1939, and a genealogical chart traces the line from La Maddusalat of Luwu to Sultan Salahuddin Abdul Aziz Shah.
 
 ### Key Findings
 
-- Raja Lumu is identified as the progenitor of the Selangor royal line, with his territorial base located in the area around the Klang River, and his authority predating the formal establishment of the sultanate by at least one to two generations (pp. 3–7).
-- Sultan Salehudin (Salehuddin) is documented as the first ruler to hold the title of *Sultan* for Selangor, with his coronation and recognition occurring in the early nineteenth century, likely around 1808, following a period of internal succession dispute (pp. 10–14).
-- The article identifies specific genealogical links connecting the Selangor dynasty to the broader Malay royal houses, including claimed descent from the Johor-Pahang line, which served as a key legitimating narrative (pp. 5–8).
-- British colonial records from the 1870s, particularly those relating to the Larut Treaty of 1874 and the subsequent partition of Selangor into districts, are used to trace how the dynasty's territorial claims were formally codified by the colonial administration (pp. 16–20).
-- The study notes that the Siamese overlordship over the Klang Valley, which persisted into the early nineteenth century, constrained the political autonomy of early Selangor rulers and influenced the timing and manner of the sultanate's formal establishment (pp. 12–15).
+- The Dutch records confirm that on 5 November 1766, six ships carrying Raja Lumu and sixty court members entered Sungai Perak, and that Sultan Mahmud installed him as "Sultan Salehuddin" at Kota Lumut, presenting the *nobat* (pp. 7–8).
+- The indigenous Malay source *Misa Melayu* concealed the Raja Muda's absence from the ceremony, while the Bugis source *Tufat al-Nafis* recast Raja Lumu's visit as a pleasure trip to Pangkor; only the Dutch documents arbitrate between them (p. 8).
+- The Bugis had settled at Kuala Selangor by the late seventeenth century and at Kuala Linggi by 1701; by March 1721 Daing Marewah controlled territory stretching from Bernam to Melaka (pp. 2–3).
+- In 1721, after capturing Riau and massacring the Minangkabau there, the Bugis installed Raja Sulaiman (son of the assassinated Sultan Abdul Jalil) as Sultan of Johor and conferred the title of *Yang Dipertuan Muda* on Daing Marewah himself—an unprecedented triple use of "Sultan" in one kingdom (pp. 3–4).
+- Sultan Salehuddin's reign lasted until at least 1778 (the appendix dates his death to c. 1782); he led the 1771 attack on Kedah in which "everything was burned" and women and children carried off, and in 1777 appeared in the Perak River with twenty Bugis ships (pp. 10–11).
+- The original Selangor crown, of Hindu design from Celebes, was used at the coronations of both Sultan Salehuddin and Sultan Ibrahim; by the reign of Sultan Muhammad (1826–1857) it had been altered to reflect Islamic influence (p. 11).
 
 ### Conclusion
 
-Khoo Kay Kim concludes that the founding of the Selangor dynasty was a gradual process of political consolidation rather than a single founding event, and that the genealogical narratives preserved in Malay literary sources, while containing elements of idealization, reflect genuine historical processes of territorial aggregation and dynastic legitimation that occurred over approximately fifty years in the late eighteenth and early nineteenth centuries.
+Kim's definitive argument is that no new Malay kingdom in the eighteenth century departed from the Melaka model: each founder received his authority from an existing legitimate ruler, and the Bugis—military conquerors though they were—voluntarily accepted the symbols and ceremonies of the tradition they had conquered. The founding of Selangor in 1766 was thus not a rupture but the latest expression of a continuous political culture stretching back to the Melaka Sultanate, one that persisted through British intervention and into the modern constitutional monarchy.
 
 ## Context
 
-- The study draws primarily on Malay-language primary sources held in the National Archives of Malaysia and the Selangor State Archives, supplemented by British colonial administrative records.
-- The article contributes to the historiography of early modern Malay political history by applying source-critical methods to genealogical traditions that had previously been accepted largely at face value in both Malay and Western scholarship.
+- The lecture was arranged by the MBRAS and delivered at the Shangri-La Hotel, Kuala Lumpur, on 17 September 1985, in honour of the Silver Jubilee of Sultan Salahuddin Abdul Aziz Shah (p. 1).
+- The appendices reproduce full *Malay Mail* reports of the 1903 and 1939 coronations at Klang, providing detailed descriptions of the *Panchapersada*, the *tepong tawar* ritual, the *nobat* instrumentation, and the procession routes (pp. 14–23).
 
 ## References
 <!-- Grounded occurrences and citations -->

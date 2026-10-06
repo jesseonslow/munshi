@@ -21,13 +21,18 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
-summarized: false
+summarized: true
 source_mismatch: true
 source_doc: jmalayanras-093-chasen-birdnotes-1925-d85e98306a31
 source_path: ../sources/jmalayanras-093-chasen-birdnotes-1925-d85e98306a31.md
 ---
-
 # Bird notes. F.N. Chasen and C.B. Kloss. Records of the Raffles Museum, No. 13
+
+A short note by F. N. Chasen and C. B. Kloss comprising three brief taxonomic and faunal observations: the introduction of an Australian scink to Singapore, the range of a White-rumped Swift subspecies in the Malay Peninsula, and a nomenclatural clarification for a Bornean bird (p. 101).
+
+## Summary
+
+The first section documents the presence of *Egernia depressa*, an Australian scink, in the Raffles Museum collection, with specimens taken in the Singapore dock area and one found in a cargo of sandalwood, suggesting introduction via timber ships from south-western Australia (p. 101). The second section reports the examination of White-rumped Swift specimens in the Federated Malay States Museums, confirming the presence of the subspecies *Micropus pacificus cooki* (Harington) from Kedah Peak at 3000–4000 ft, with intermediate forms recorded from Semangko Pass and Bukit Tangga (p. 102). The third section argues that Lesson's *Setornis criniger*, originally cited from Sumatra, is identical with Blyth's *Trichophoropsis typus* from Borneo, and that the Sumatran type locality is an error; the authors examine a series of twenty Sarawak specimens and note the species is distinct from *Tricholestes criniger* Blyth, warranting generic separation (pp. 102–103).
 
 ## References
 <!-- Grounded occurrences and citations -->
