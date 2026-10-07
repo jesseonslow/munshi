@@ -255,7 +255,7 @@ published: false
 ### Antiquities
 
 - [W. Linehan](./w-linehan.md) (1951). [Traces of a Bronze Age culture associated with Iron Age implements in the region of Klang and the Tembeling, Malaya](./traces-of-a-bronze-age-culture-associated-with-iron-age-impl.md). *JMBRAS* 24(3): 1–59
-- [J. Loewenstein](./j-loewenstein.md) and [G. de G. Sieveking](./g-de-g-sieveking.md) (1956). [Papers on the Malayan metal age. J. Loewenstein and G. de G. Sieveking. Monographs on Malay subjects, No. 3](./papers-on-the-malayan-metal-age-j-loewenstein-and-g-de-g-sie.md). *JMBRAS* 29(2): 1–138
+- [J. Loewenstein](./j-loewenstein.md) and [G. de G. Sieveking](./g-de-g-sieveking.md) (1956). [Papers on the Malayan metal age](./papers-on-the-malayan-metal-age.md). *JMBRAS* 29(2): 1–138
 - [R. Braddell](./r-braddell.md) and [P.D.R. Williams-Hunt](./pdr-williams-hunt.md) (1951). [Two notes: red gold and chiamassie](./two-notes-red-gold-and-chiamassie.md). *JMBRAS* 24(3): 157
 - [W.L.H. Duckworth](./wlh-duckworth.md) (1934). [Human remains from rock-shelters and caves in Perak, Pahang and Perlis and from Selinsing](./human-remains-from-rock-shelters-and-caves-in-perak-pahang-a.md). *JMBRAS* 12(2): 149–167
 - [W.N. Edwards](./wn-edwards.md) (1933). [Triassic wood from the Malay states](./triassic-wood-from-the-malay-states.md). *JMBRAS* 11(2): 236–241
@@ -264,7 +264,7 @@ published: false
 - Gibson-Hill, C.A. Old boat found at Pontian. MB 25(1)
 - [Ahmad Fauzi Abdul Hamid](./ahmad-fauzi-abdul-hamid.md) et al. (2019). [Shariaization of Malay-Muslim identity in contemporary Malaysia](./shariaization-of-malay-muslim-identity-in-contemporary-malay.md). *JMBRAS* 91(2): 1–18
 - Anon. [Keane, A.H. Malayan antiquities. (Review in Nature 1885)](./mbras-reprint-15.md). *Reprint* 15
-- [J. Loewenstein](./j-loewenstein.md) and [G. de G. Sieveking](./g-de-g-sieveking.md) (1956). [Papers on the Malayan metal age. J. Loewenstein and G. de G. Sieveking. Monographs on Malay subjects, No. 3](./papers-on-the-malayan-metal-age-j-loewenstein-and-g-de-g-sie.md). *JMBRAS* 29(2): 1–138
+- [J. Loewenstein](./j-loewenstein.md) and [G. de G. Sieveking](./g-de-g-sieveking.md) (1956). [Papers on the Malayan metal age](./papers-on-the-malayan-metal-age.md). *JMBRAS* 29(2): 1–138
 - [H.D. Noone](./hd-noone.md) (1941). [A find of pottery sherds on a beach near Sepang, Selangor](./a-find-of-pottery-sherds-on-a-beach-near-sepang-selangor.md). *JMBRAS* 19(2): 217–218
 - [R.J. Wilkinson](./richard-james-wilkinson.md) (1924). [Antiquities of Malaya. Part I](./antiquities-of-malaya-part-i.md). *JMBRAS* 2(3): 289–291
 - [R.J. Wilkinson](./richard-james-wilkinson.md) (1937). [Further notes upon a study of ancient times in the Malay Peninsula](./further-notes-upon-a-study-of-ancient-times-in-the-malay-pen.md). *JMBRAS* 15(2): 167–170

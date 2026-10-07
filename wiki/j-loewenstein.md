@@ -18,7 +18,7 @@ published: false
 
 ## Bibliography
 - (1953) [“Tulang mawas” re-examined](./tulang-mawas-re-examined.md). *JMBRAS* 26(1): 37–42
-- (1956) [Papers on the Malayan metal age. J. Loewenstein and G. de G. Sieveking. Monographs on Malay subjects, No. 3](./papers-on-the-malayan-metal-age-j-loewenstein-and-g-de-g-sie.md). *JMBRAS* 29(2): 1–138
+- (1956) [Papers on the Malayan metal age](./papers-on-the-malayan-metal-age.md). *JMBRAS* 29(2): 1–138
 - (1959) [Hollow clay stands and censers from Neolithic Malaya, and their western prototypes](./hollow-clay-stands-and-censers-from-neolithic-malaya-and-the.md). *JMBRAS* 32(1): 168–196
 
 ## References
