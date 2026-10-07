@@ -39,8 +39,7 @@ keywords:
 - 'our colonial history is often nearly packaged into a montage of familiar episodes:
   Raffles’ arrival'
 - the revival of the entrepot
-- immigrants from across Asia
-- and so on. The route taken by our forebears looks almost inevitable
+- immigrants from across Asia and so on. The route taken by our forebears looks almost inevitable
 - chugging along from one station to another ... Where does history end? ... The goal
   is not to fully enumerate the whys and hows
 - but to acknowledge that more of them always exist beyond our reach.

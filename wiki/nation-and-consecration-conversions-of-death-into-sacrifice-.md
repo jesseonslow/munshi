@@ -34,13 +34,11 @@ keywords:
   mistake to imagine the building up of nations from social groups like families and
   clans.(1) Nations are always imagined
 - narrated
-- represented
-- and are fashioned out of time first of all
+- represented and are fashioned out of time first of all
 - not spaces social or material
 - but events and connections marked between them
 - past
-- present
-- and future. The narrative of each nation is of course very sensitive to the narratives
+- present and future. The narrative of each nation is of course very sensitive to the narratives
   of others. A generation of scholarly reconsiderations was inspired by Benedict Anderson’s
   observations on imagined community
 - (2) his revival of Ernest Renan’s depiction of the nation as constituted out of
@@ -49,15 +47,12 @@ keywords:
   that nations are ‘imagined communities’ have often contented themselves with discerning
   the role of machineries of memory
 - proving the nation to be imagined or even manufactured. Let us take that as patent
-- for nations everywhere
-- and turn to ask more questions not about the fact of nation-making but its forms.
+- for nations everywhere and turn to ask more questions not about the fact of nation-making but its forms.
   As scholars in the Weberian tradition have always understood
-- (5) what actually distinguished nations among social groups
-- and set the significance to them of time
+- (5) what actually distinguished nations among social groups and set the significance to them of time
 - was not memory but will
 - determination to connect present to past
-- past to present
-- and above all to attempt to determine the future on the basis of some structure
+- past to present and above all to attempt to determine the future on the basis of some structure
   of past and present. While Anderson ended with Walter Benjamin
 publication_type: journal_article
 ---

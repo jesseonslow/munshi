@@ -114,8 +114,7 @@ published: false
 - [S.L. Lewis](./sl-lewis.md) (2009). [Print and colonial port cultures of the Indian Ocean littorals: Penang and Rangoon](./print-and-colonial-port-cultures-of-the-indian-ocean-littora.md). *JMBRAS* 82(2): 9–24
 - [Loh Wei Leng](./loh-wei-leng.md) (2009). [Penang as commercial centre: trade and shipping networks](./penang-as-commercial-centre-trade-and-shipping-networks.md). *JMBRAS* 82(2): 25–37
 - [Badriyah Haji Salleh](./badriyah-haji-salleh.md) and [Mahani Musa](./mahani-musa.md) (2013). [Muslims merchants and traders in Penang, 1860s–1970s. Mahani Musa and Badriyah Haji Salleh](./muslims-merchants-and-traders-in-penang-1860s1970s-mahani-mu.md). *JMBRAS* 86(2): 33–58
-- Anon. [Maxwell, W.E. Perak and Penang in 1829](./mbras-reprint-15.md). *Reprint* 15
-- and SB 15
+- Anon. [Maxwell, W.E. Perak and Penang in 1829](./mbras-reprint-15.md). *Reprint* 15 and SB 15
 - Anon. [Maxwell, W.E. Visit of Lord Bentinck in 1828](./mbras-reprint-15.md). *Reprint* 15
 - Nahuis van Burgst, Baron H.G. Extracts from letters. MB 19(2)
 - Noordin Hussin. Melaka and Penang 1780–1830 compared. MB 75(2)

@@ -78,8 +78,7 @@ published: false
 - [A.C. Baker](./ac-baker.md) (1933). [An account of a journey from the Cameron Highlands to the east coast railway and of a visit to the Temiar settlements in the valleys of the Sungai Blatop and S. Ber](./an-account-of-a-journey-from-the-cameron-highlands-to-the-ea.md). *JMBRAS* 11(2): 288–295
 - [C.F. Bozzolo](./cf-bozzolo.md) (2018). [Visit to Kelantan and southern Siam in 1888](./visit-to-kelantan-and-southern-siam-in-1888.md). *JMBRAS* 91: 93–150
 - [S.A. Carstens](./sa-carstens.md) (1980). [Pulai: memories of a gold mining settlement in Ulu Kelantan](./pulai-memories-of-a-gold-mining-settlement-in-ulu-kelantan.md). *JMBRAS* 53: 50–67
-- Clifford, H.C. 1895 expedition to Kelantan and Trengganu. MB 34(1)
-- and Reprints 4, 13
+- Clifford, H.C. 1895 expedition to Kelantan and Trengganu. MB 34(1) and Reprints 4, 13
 - [W. Davison](./w-davison.md) (1889). [Journal of a trip to Pahang etc. with H.E. the Governor, August 17th to 27th, 1889](./journal-of-a-trip-to-pahang-etc-with-he-the-governor-august-.md). *JSBRAS* 20: 83–90
 - [Haryati Hasan](./haryati-hasan.md) (2005). [Malay women and prostitution in Kota Bharu, Kelantan, 1950s–1970s](./malay-women-and-prostitution-in-kota-bharu-kelantan-1950s197.md). *JMBRAS* 78: 97–120
 - Hsieh Ching-kao. trans. M.W.F. Tweedie. Chinese account of Kelantan in 18th century. MB 26(1)

@@ -103,17 +103,14 @@ published: false
 - Kratoska, P.H. Selangor and Perak in 1942. MB 88(1)
 - H. Low and [E. Sadka](./e-sadka.md) (1954). [The journal of Sir Hugh Low, 1877. . Sadka](./the-journal-of-sir-hugh-low-1877-sadka.md). *JMBRAS* 27(4): 1–108
 - [C.A. Gibson-Hill](./carl-alexander-gibson-hill.md) and [H.A.L. Luckham](./hal-luckham.md) (1950). [The cannon at Pulau Aur](./the-cannon-at-pulau-aur.md). *JMBRAS* 23: 139–142
-- Anon. [Maxwell, W.E. Dutch in Perak](./mbras-reprint-15.md). *Reprint* 15
-- and SB 10
-- Anon. [Maxwell, W.E. Perak and Penang in 1829](./mbras-reprint-15.md). *Reprint* 15
-- and SB 15
+- Anon. [Maxwell, W.E. Dutch in Perak](./mbras-reprint-15.md). *Reprint* 15 and SB 10
+- Anon. [Maxwell, W.E. Perak and Penang in 1829](./mbras-reprint-15.md). *Reprint* 15 and SB 15
 - Anon. [Maxwell, W.E. English in Perak in mid 19th century](./mbras-reprint-15.md). *Reprint* 15
 - [W.E. Maxwell](./sir-william-edward-maxwell.md) (1878). [Notes on two Perak manuscripts](./notes-on-two-perak-manuscripts.md). *JSBRAS* 2: 183–193
 - [R.O. Winstedt](./richard-olaf-winstedt.md) and [R.J. Wilkinson](./richard-james-wilkinson.md) (1974). [A History of Perak](./a-history-of-perak.md). ** : 226
 - [W.E. Maxwell](./sir-william-edward-maxwell.md) (1882). [A journey on foot to the Patani frontier in 1876; being a journal kept an expedition undertaken to capture Datoh Maharaja Lela of Perak](./a-journey-on-foot-to-the-patani-frontier-in-1876-being-a-jou.md). *JSBRAS* 9: 1–67
 - [R.O. Winstedt](./richard-olaf-winstedt.md) and [R.J. Wilkinson](./richard-james-wilkinson.md) (1974). [A History of Perak](./a-history-of-perak.md). ** : 226
-- Anon. [Maxwell, W.E. Perak and Penang in 1829](./mbras-reprint-15.md). *Reprint* 15
-- and SB 15
+- Anon. [Maxwell, W.E. Perak and Penang in 1829](./mbras-reprint-15.md). *Reprint* 15 and SB 15
 - [W.E. Maxwell](./sir-william-edward-maxwell.md) (1883). [Dutch occupation of the Dindings, etc](./dutch-occupation-of-the-dindings-etc.md). *JSBRAS* 11: 169–170
 - [E.M. Merewether](./em-merewether.md) (1891). [Outline of the history of the Dindings from the 17th century to the present time](./outline-of-the-history-of-the-dindings-from-the-17th-century.md). *JSBRAS* 23: 35–47
 - Mohamed Hashim bin Sam Abdul Latiff. Identity of Ngah Jabor. MB 53(2)
@@ -144,8 +141,7 @@ published: false
 - Leech, H.W.C. Ascent of Bujang Malacca. SB 2
 - [H.W.C. Leech](./hwc-leech.md) (1879). [About Kinta](./about-kinta.md). *JSBRAS* 4: 21–33
 - [H.W.C. Leech](./hwc-leech.md) (1879). [About Slim and Bernam](./about-slim-and-bernam.md). *JSBRAS* 4: 34–45
-- [W.E. Maxwell](./sir-william-edward-maxwell.md) (1882). [A journey on foot to the Patani frontier in 1876; being a journal kept an expedition undertaken to capture Datoh Maharaja Lela of Perak](./a-journey-on-foot-to-the-patani-frontier-in-1876-being-a-jou.md). *JSBRAS* 9: 1–67
-- and SB 19
+- [W.E. Maxwell](./sir-william-edward-maxwell.md) (1882). [A journey on foot to the Patani frontier in 1876; being a journal kept an expedition undertaken to capture Datoh Maharaja Lela of Perak](./a-journey-on-foot-to-the-patani-frontier-in-1876-being-a-jou.md). *JSBRAS* 9: 1–67 and SB 19
 - [Andrée Jaunay](./andrée-jaunay.md) et al. (2020). [Jacques de Morgan's Explorations in the Malay Peninsula, 1884](./jacques-de-morgans-explorations-in-the-malay-peninsula-1884.md). ** : 225
 - [J.E. Nathan](./je-nathan.md) (1915). [A journey over the main range from Perak to Pahang](./a-journey-over-the-main-range-from-perak-to-pahang.md). *JSBRAS* 68: 1–5
 - [George L. Peet](./george-l-peet.md) (2017). [A Journal in the Federal Capital](./a-journal-in-the-federal-capital.md). ** : 180

@@ -41,8 +41,7 @@ published: false
 - [I.H. Burkill](./ih-burkill.md) and [W. Jack](./w-jack.md) (1916). [William Jack’s letters to Nathaniel Wallich, 1819–1821. .H. Burkill](./william-jacks-letters-to-nathaniel-wallich-18191821-h-burkil.md). *JSBRAS* 73: 147–168
 - [I.H. Burkill](./ih-burkill.md) and [J.C. Moulton](./john-coney-moulton.md) (1921). [Odoardo Beccari](./odoardo-beccari.md). *JSBRAS* 83: 166–173
 - Burkill, I.H. M.R. Henderson and botanical research. MB 56(2)
-- [Hanitsch R](./hanitsch-r.md) and [N. Wallich](./n-wallich.md) (1913). [Letters of Nathaniel Wallich relating to the establishment of botanical gardens in Singapore](./letters-of-nathaniel-wallich-relating-to-the-establishment-o.md). *JSBRAS* 65: 39–48
-- and MB 42(1)
+- [Hanitsch R](./hanitsch-r.md) and [N. Wallich](./n-wallich.md) (1913). [Letters of Nathaniel Wallich relating to the establishment of botanical gardens in Singapore](./letters-of-nathaniel-wallich-relating-to-the-establishment-o.md). *JSBRAS* 65: 39–48 and MB 42(1)
 - [I.H. Burkill](./ih-burkill.md) and [W. Jack](./w-jack.md) (1916). [William Jack’s letters to Nathaniel Wallich, 1819–1821. .H. Burkill](./william-jacks-letters-to-nathaniel-wallich-18191821-h-burkil.md). *JSBRAS* 73: 147–168
 - [D.S. Jones](./ds-jones.md) (1997). [The ‘Waterfall’ Botanic Garden on Pulau Pinang and the foundation of the Penang Botanical Gardens 1884–1910](./the-waterfall-botanic-garden-on-pulau-pinang-and-the-foundat.md). *JMBRAS* 70(2): 75–96
 - [H.N. Ridley](./henry-nicholas-ridley.md) (1894). [The botanists of Penang](./the-botanists-of-penang.md). *JSBRAS* 25: 163–167

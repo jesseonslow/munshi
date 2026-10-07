@@ -109,8 +109,7 @@ published: false
 - [I. Larsen](./i-larsen.md) (2012). [The first Sultan of Sarawak and his links to Brunei and the Sambas dynasty, 1599–1826](./the-first-sultan-of-sarawak-and-his-links-to-brunei-and-the-.md). *JMBRAS* 85(2): 1–16
 - Phillips, D. Reassessment of Borneo history. MB 89(2)
 - [N. Tarling](./nicholas-tarling.md) (1971). [Sir Cecil Clementi and the Federation of British Borneo](./sir-cecil-clementi-and-the-federation-of-british-borneo.md). *JMBRAS* 44(2): 1–34
-- [W.H. Treacher](./wh-treacher.md) (1890). [British Borneo: sketches of Brunai, Sarawak, Labuan and North Borneo](./british-borneo-sketches-of-brunai-sarawak-labuan-and-north-b.md). *JSBRAS* 21: 19–121
-- and SB 21
+- [W.H. Treacher](./wh-treacher.md) (1890). [British Borneo: sketches of Brunai, Sarawak, Labuan and North Borneo](./british-borneo-sketches-of-brunai-sarawak-labuan-and-north-b.md). *JSBRAS* 21: 19–121 and SB 21
 - [J.F. Warren](./jf-warren.md) (1977). [Balambangan and the rise of the Sulu Sultanate, 1772–1775](./balambangan-and-the-rise-of-the-sulu-sultanate-17721775.md). *JMBRAS* 50: 73–93
 
 ## References

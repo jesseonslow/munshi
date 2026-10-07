@@ -204,8 +204,7 @@ published: false
 
 #### Spelling
 
-- Maxwell, W.E. Transliteration of Malay to Rumi script. SB 9
-- and SB 10
+- Maxwell, W.E. Transliteration of Malay to Rumi script. SB 9 and SB 10
 - [W.G. Shellabear](./william-girdlestone-shellabear.md) (1901). [The evolution of Malay spelling](./the-evolution-of-malay-spelling.md). *JSBRAS* 36: 75–135
 - _Spelling committee (1878)_. Malay spelling in English. SB 1
 - Whampoa, H.A.K. Govt committee on Malay spelling. SB 1

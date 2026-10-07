@@ -92,7 +92,7 @@ published: false
 - [P. Sloane-White](./p-sloane-white.md) (2014). [Interrogating ‘Malayness’: Islamic transformations among the Malay College Kuala Kangsar (MCKK) cohort](./interrogating-malayness-islamic-transformations-among-the-ma.md). *JMBRAS* 87: 21–36
 - Taylor, E.N. Malay family law. MB 15(1) and 16(1)
 - [R. Tol](./r-tol.md) (2020). [The production of the Bugis and Malay manuscripts in the Library of Congress](./the-production-of-the-bugis-and-malay-manuscripts-in-the-lib.md). *JMBRAS* 93(2): 11–31
-- [R. Tol](./r-tol.md) (2020). [Pengembaraan La Galigo ke Washington D.C.: Memperkenalkan Husin bin Ismail [The La Galigo manuscripts in Washington D.C.: Introducing Husin bin Ismail](./pengembaraan-la-galigo-ke-washington-dc-memperkenalkan-husin.md). *JMBRAS* 93(2): 65–72
+- [R. Tol](./r-tol.md) (2020). *Pengembaraan La Galigo ke Washington D.C.*: Memperkenalkan Husin bin Ismail [The La Galigo manuscripts in Washington D.C.: Introducing Husin bin Ismail](./pengembaraan-la-galigo-ke-washington-dc-memperkenalkan-husin.md). *JMBRAS* 93(2): 65–72
 - [R.J. Wilkinson](./richard-james-wilkinson.md) (1932). [Some Malay studies](./some-malay-studies.md). *JMBRAS* 10: 67–137
 - [R.J. Wilkinson](./richard-james-wilkinson.md) (1957). [With three articles by W.E. Maxwell The incidents of Malay life. {In Papers on Malay customs and beliefs](./with-three-articles-by-we-maxwell-the-incidents-of-malay-lif.md). *JMBRAS* 30(4): 41–87
 - [R.O. Winstedt](./richard-olaf-winstedt.md) (1932). [Mother-right among Khasis and Malays](./mother-right-among-khasis-and-malays.md). *JMBRAS* 10: 9–13

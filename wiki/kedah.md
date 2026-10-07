@@ -103,8 +103,7 @@ published: false
 - Archaimbault, C. Sam Sam of Kedah and Perlis. MB 30(1)
 - _The Field_ 23 April 1878. The Semang of Kedah and Perak. SB 1
 - [Hamilton A.W](./hamilton-aw.md) (1922). [The old Kedah-Patani trade-route](./the-old-kedah-patani-trade-route.md). *JSBRAS* 86: 389–390
-- [W.E. Maxwell](./sir-william-edward-maxwell.md) (1882). [A journey on foot to the Patani frontier in 1876; being a journal kept an expedition undertaken to capture Datoh Maharaja Lela of Perak](./a-journey-on-foot-to-the-patani-frontier-in-1876-being-a-jou.md). *JSBRAS* 9: 1–67
-- and SB 19
+- [W.E. Maxwell](./sir-william-edward-maxwell.md) (1882). [A journey on foot to the Patani frontier in 1876; being a journal kept an expedition undertaken to capture Datoh Maharaja Lela of Perak](./a-journey-on-foot-to-the-patani-frontier-in-1876-being-a-jou.md). *JSBRAS* 9: 1–67 and SB 19
 - [C.A. Gibson-Hill](./carl-alexander-gibson-hill.md) et al. (1953). [The Cambridge University Expedition to parts of the Malay Peninsula, 1899–1900: personal accounts. W.W. Skeat and F.F. Laidlaw. {Introd. C.A. Gibson-Hill](./the-cambridge-university-expedition-to-parts-of-the-malay-pe.md). *JMBRAS* 26(4): 1–174
 
 ### History
@@ -127,8 +126,7 @@ published: false
 - [Sharom Ahmat](./sharom-ahmat.md) (1970). [The structure of the economy of Kedah, 1879–1905](./the-structure-of-the-economy-of-kedah-18791905.md). *JMBRAS* 43(2): 1–24
 - [C. Skinner](./cyril-skinner.md) (1981). [Prince Damrong’s introduction to the “Dispatches of Luang Udom Sombat”](./prince-damrongs-introduction-to-the-dispatches-of-luang-udom.md). *JMBRAS* 54(2): 75–97
 - [A.J. Sturrock](./aj-sturrock.md) (1916). [Hikayat Marong Maha Wangsa; or Kedah Annals. .J. Sturrock](./hikayat-marong-maha-wangsa-or-kedah-annals-j-sturrock.md). *JSBRAS* 72: 37–123
-- [R.O. Winstedt](./richard-olaf-winstedt.md) (1920). [History of Kedah](./history-of-kedah.md). *JSBRAS* 81: 29–35
-- and MB 14(3)
+- [R.O. Winstedt](./richard-olaf-winstedt.md) (1920). [History of Kedah](./history-of-kedah.md). *JSBRAS* 81: 29–35 and MB 14(3)
 - [R.O. Winstedt](./richard-olaf-winstedt.md) (1938). [The Kedah Annals](./the-kedah-annals.md). *JMBRAS* 16(2): 31–35
 - Winstedt, R.O. Did Pasai rule Kedah in the 14th century? MB 18(2)
 - [R.O. Winstedt](./richard-olaf-winstedt.md) (1947). [Notes on Malay subjects](./notes-on-malay-subjects.md). *JMBRAS* 20: 140–142

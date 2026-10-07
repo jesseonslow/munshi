@@ -129,8 +129,7 @@ published: false
 - [Sejarah Melayu](./sejarah-melayu.md) and [R.O. Winstedt](./richard-olaf-winstedt.md) (1938). [The Malay annals; or, Sejarah Melayu. The earliest recension from MS. No. 18 of the Raffles Collection in the Library of the Royal Asiatic Society, London. .O. Winstedt](./the-malay-annals-or-sejarah-melayu-the-earliest-recension-fr.md). *JMBRAS* 16(3): 1–226
 - [Wang Gungwu](./wang-gungwu.md) (1968). [The first three rulers of Malacca](./the-first-three-rulers-of-malacca.md). *JMBRAS* 41: 11–22
 - [Paul Wheatley](./paul-wheatley.md) et al. (2007). [Southeast Asia - China Interactions: Reprint of articles from the Journal of the Malaysian Branch, Royal Asiatic Society](./southeast-asia-china-interactions-reprint-of-articles-from-the-journal-of-the-malaysian-branch-royal-asiatic-society.md). ** : 620
-- [R.J. Wilkinson](./richard-james-wilkinson.md) (1935). [The Malacca sultanate](./the-malacca-sultanate.md). *JMBRAS* 13(2): 22–67
-- and MB 13(2)
+- [R.J. Wilkinson](./richard-james-wilkinson.md) (1935). [The Malacca sultanate](./the-malacca-sultanate.md). *JMBRAS* 13(2): 22–67 and MB 13(2)
 - [R.O. Winstedt](./richard-olaf-winstedt.md) (1920). [The genealogy of Malacca’s kings from a copy of the Bustanu‘s-Salatin](./the-genealogy-of-malaccas-kings-from-a-copy-of-the-bustanus-.md). *JSBRAS* 81: 39–47
 - [R.O. Winstedt](./richard-olaf-winstedt.md) (1921). [Indian and Malay beliefs](./indian-and-malay-beliefs.md). *JSBRAS* 83: 88–93
 - Winstedt, R.O. Two legends of Malacca. SB 85
@@ -168,8 +167,7 @@ published: false
 - [W.B. Albinus](./wb-albinus.md) et al. (1954). [Malacca in the eighteenth century: two Dutch governors’ reports; . Harrison](./malacca-in-the-eighteenth-century-two-dutch-governors-report.md). *JMBRAS* 27: 24–34
 - [Brian Harrison](./brian-harrison.md) (1985). [Holding the Fort: Melaka Under Two Flags 1795 - 1845](./holding-the-fort-melaka-under-two-flags-1795-1845.md). ** : 160
 - [D.F.A. Hervey](./dudley-francis-amelius-hervey.md) (1883). [Malacca in the eighteenth century](./malacca-in-the-eighteenth-century.md). *JSBRAS* 12: 261–267
-- [P.C. Hoynck van Papendrecht](./pc-hoynck-van-papendrecht.md) and [H.P.N. Muller](./hpn-muller.md) (1914). [The Malay Peninsula and Europe in the past. H.P.N. Muller Abstracted from the Dutch](./the-malay-peninsula-and-europe-in-the-past-hpn-muller-abstra.md). *JSBRAS* 67: 58–84
-- and MB 2(1)
+- [P.C. Hoynck van Papendrecht](./pc-hoynck-van-papendrecht.md) and [H.P.N. Muller](./hpn-muller.md) (1914). [The Malay Peninsula and Europe in the past. H.P.N. Muller Abstracted from the Dutch](./the-malay-peninsula-and-europe-in-the-past-hpn-muller-abstra.md). *JSBRAS* 67: 58–84 and MB 2(1)
 - [A. Hyde](./a-hyde.md) (1928). [A Naning terumba](./a-naning-terumba.md). *JMBRAS* 6(4): 49–53
 - [G. Irwin](./g-irwin.md) (1956). [Governor Couperus and the surrender of Malacca, 1795](./governor-couperus-and-the-surrender-of-malacca-1795.md). *JMBRAS* 29(3): 86–133
 - [D. Kraal](./d-kraal.md) (2010). [The circumstances surrounding the untimely death of Jan S. Timmerman-Thijssen, governor of Malacca 1818-1823](./the-circumstances-surrounding-the-untimely-death-of-jan-s-ti.md). *JMBRAS* 83: 9–28
@@ -200,8 +198,7 @@ published: false
 - [M. MacDonald](./m-macdonald.md) (1934). [Notes on the translation of Bort’s report on Malacca in Journal M.B.R.A.S. 1927](./notes-on-the-translation-of-borts-report-on-malacca-in-journ.md). *JMBRAS* 12(2): 24–26
 - [W.P. Groeneveldt](./wp-groeneveldt.md) and [W.G. Maxwell](./sir-william-george-maxwell.md) (1909). [Groeneveldt’s notes on the Malay archipelago and Malacca. W.G. Maxwell](./groeneveldts-notes-on-the-malay-archipelago-and-malacca-wg-m.md). *JSBRAS* 52: 105–110
 - [W.G. Maxwell](./sir-william-george-maxwell.md) (1911). [Barrretto de Resende’s account of Malacca](./barrretto-de-resendes-account-of-malacca.md). *JSBRAS* 60: 1–24
-- [J.V. Mills](./jv-mills.md) (1932). [Three of Eredia’s illustrations](./three-of-eredias-illustrations.md). *JMBRAS* 10: 14–15
-- and see Eredia supra
+- [J.V. Mills](./jv-mills.md) (1932). [Three of Eredia’s illustrations](./three-of-eredias-illustrations.md). *JMBRAS* 10: 14–15 and see Eredia supra
 - [V. Purcell](./victor-purcell.md) (1947). [Chinese settlement in Malacca](./chinese-settlement-in-malacca.md). *JMBRAS* 20: 115–125
 - [J.J. Sheehan](./jj-sheehan.md) (1934). [Seventeenth century visitors to the Malay Peninsula](./seventeenth-century-visitors-to-the-malay-peninsula.md). *JMBRAS* 12(2): 71–107
 - [G. Wade](./geoff-wade.md) (1997). [Melaka in Ming dynasty texts](./melaka-in-ming-dynasty-texts.md). *JMBRAS* 70: 31–69

@@ -28,16 +28,13 @@ keywords:
 - Singapore
 - <span id="page-82"></span> The year 2015 was momentous for Singapore. But what kind
   of monuments were made? The celebration of the fiftieth anniversary of Singapore’s
-  independence created a vast and public invitation to reflect on Singapore’s past
-- and more particularly the relationship of its past to its future. This event
-- and especially its civic orchestration
+  independence created a vast and public invitation to reflect on Singapore’s past and more particularly the relationship of its past to its future. This event and especially its civic orchestration
 - was titled SG50 and publicly established long before the year found its more poignant
 - more charged and moving centre of gravity with the death of Singapore’s first Prime
   Minister
 - Lee Kuan Yew. Rituals
 - it has been established
-- do not always just reflect given orders but can also make new meaning
-- and most often
+- do not always just reflect given orders but can also make new meaning and most often
 - connect the old and the new. These papers are an outcome of ethnographic teamwork.
   This project brings together ethnographers young and old who set out together to
   study and report on these recent events
@@ -58,8 +55,7 @@ keywords:
   event. Lee was the founding political figure of the nation. By near-consensus estimation
 - he represented in one person the political and administrative genius of an entire
   founding generation. Since his final retirement as Minister Mentor in 2012
-- his public appearances became rarer and rarer
-- and this long revered and feared human being further metamor
+- his public appearances became rarer and rarer and this long revered and feared human being further metamor
 publication_type: note
 jstor: https://www.jstor.org/stable/10.2307/26527738
 ---

@@ -48,8 +48,7 @@ published: false
 - Emergence of Straits Chinese businessmen in 19th century Penang. MB 79(2)
 - [S.M. Middlebrook](./sm-middlebrook.md) (1933). [Pulai: an early Chinese settlement in Kelantan](./pulai-an-early-chinese-settlement-in-kelantan.md). *JMBRAS* 11(2): 151–156
 - Anon (1977). [A Centenary Volume: 30 Articles selected from JSBRAS and JMBRAS 1878 - 1976](./a-centenary-volume-30-articles-selected-from-jsbras-and-jmbras-1878-1976.md). ** : 358
-- [V. Purcell](./victor-purcell.md) (1947). [Chinese settlement in Malacca](./chinese-settlement-in-malacca.md). *JMBRAS* 20: 115–125
-- and Reprints 4 and 25
+- [V. Purcell](./victor-purcell.md) (1947). [Chinese settlement in Malacca](./chinese-settlement-in-malacca.md). *JMBRAS* 20: 115–125 and Reprints 4 and 25
 - Anon. [Schaalje, M. Ancient Chinese colony in N Borneo](./mbras-reprint-15.md). *Reprint* 15
 - [K. Shinozaki](./k-shinozaki.md) (2006). [The foundation of the Penang Chinese Chamber of Commerce in 1903: Protecting Chinese business interests in the two states](./the-foundation-of-the-penang-chinese-chamber-of-commerce-in-.md). *JMBRAS* 79: 43–65
 - [Tan Chee Beng](./tan-chee-beng.md) (1982). [Peranakan Chinese in northeast Kelantan, with special reference to Chinese religion](./peranakan-chinese-in-northeast-kelantan-with-special-referen.md). *JMBRAS* 55: 26–52

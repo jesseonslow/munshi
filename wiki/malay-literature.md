@@ -141,8 +141,7 @@ published: false
 - [Raimy Ché-Ross](./raimy-ché-ross.md) (2006). [A variant epilogue to an epic tale: the ‘latest’ recension of Hikayat Hang Tuah](./a-variant-epilogue-to-an-epic-tale-the-latest-recension-of-h.md). *JMBRAS* 79: 67–106
 - R.O. Winstedt. *Hikayat Puspa Wiraja*. SB 83
 - R.O. Winstedt. *Hikayat Putera Jaya Pati*. SB 85
-- R.O. Winstedt. *Hikayat Raja-Raja Pasai*. SB 77
-- and MB 16(2)
+- R.O. Winstedt. *Hikayat Raja-Raja Pasai*. SB 77 and MB 16(2)
 - [A. Sweeney](./amin-sweeney.md) (1967). [The connection between the Hikayat Raja2 Pasai and the Sejarah Melayu](./the-connection-between-the-hikayat-raja2-pasai-and-the-sejar.md). *JMBRAS* 40(2): 94–105
 - [R. Jones](./r-jones.md) (1980). [The texts of the Hikayat Raja Pasai: a short note](./the-texts-of-the-hikayat-raja-pasai-a-short-note.md). *JMBRAS* 53: 167–171
 - [E.U. Kratz](./eu-kratz.md) (1989). [Hikayat Raja Pasai: a second manuscript](./hikayat-raja-pasai-a-second-manuscript.md). *JMBRAS* 62: 1–10

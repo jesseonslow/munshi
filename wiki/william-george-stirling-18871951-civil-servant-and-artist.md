@@ -30,34 +30,27 @@ keywords:
 - <span id="page-136"></span> William George Stirling was born at Sysonby House
 - in Melton Mowbray
 - Leicestershire
-- on 25 August 1887
-- and the 1891 census records him
+- on 25 August 1887 and the 1891 census records him
 - aged 3
 - living there with his three older brothers
 - his mother
-- Norah (aged 40)
-- and his father
-- Gilbert (aged 43). His father is listed as a retired major in the Royal Horse Guards
-- and his Irish-born mother was the Honourable Norah Josephine Harcourt Westenra
+- Norah (aged 40) and his father
+- Gilbert (aged 43). His father is listed as a retired major in the Royal Horse Guards and his Irish-born mother was the Honourable Norah Josephine Harcourt Westenra
 - daughter of Henry Westenra
 - the 3rd Baron Rossmore.
 - He attended Warren Hill School
 - a preparatory school at Beachy Head Road
 - Eastbourne
-- East Sussex
-- and was at Harrow School from 1901 to 1905. In his early youth he became fascinated
-  by the Far East
-- and at the age of 16
+- East Sussex and was at Harrow School from 1901 to 1905. In his early youth he became fascinated
+  by the Far East and at the age of 16
 - whilst still at school
 - joined the Japan Society in London. By 1905 he had acquired some pieces of Japanese
-  art
-- and the school magazine
+  art and the school magazine
 - The Harrovian* (30 June 1905) states that he lent some items to a Japanese Exhibition
   held at school.
 - He arrived in Malaya in January 1907
 - at the age of 19
-- after spending time in Hong Kong
-- and worked briefly on a rubber estate before joining the Malayan Civil Service (MCS)
+- after spending time in Hong Kong and worked briefly on a rubber estate before joining the Malayan Civil Service (MCS)
   in 1909. He became a career civil servant and was an artist on the side
 - although he clearly viewed this as a hobby. In 1916 he married Chan Chee Man Wan
 - the daughter of a prominent merchant in Canton

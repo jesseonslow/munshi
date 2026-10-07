@@ -36,8 +36,7 @@ published: false
 - [T.P. Barnard](./tp-barnard.md) (2016). [Historiography and shifting interpretations of the death of Sultan Mahmud Syah](./historiography-and-shifting-interpretations-of-the-death-of-.md). *JMBRAS* 89(2): 1–23
 - [R.O. Winstedt](./richard-olaf-winstedt.md) (1979). [A History of Johore](./a-history-of-johore.md). ** : 240
 - [Khoo Chun Yok](./khoo-chun-yok.md) (2023). [The Collapse of the Riau Entrepôt in 1784 and the Rise of Singapore](./the-collapse-of-the-riau-entrepôt-in-1784-and-the-rise-of-si.md). *JMBRAS* 96(2): 29–48
-- [Mulaika Hijjas](./mulaika-hijjas.md) (2011). [Victorious Wives: The Disguised Heroine in 19th-Century Malay Syair](./victorious-wives-the-disguised-heroine-in-19th-century-malay-syair.md). ** : 332
-- and MB
+- [Mulaika Hijjas](./mulaika-hijjas.md) (2011). [Victorious Wives: The Disguised Heroine in 19th-Century Malay Syair](./victorious-wives-the-disguised-heroine-in-19th-century-malay-syair.md). ** : 332 and MB
 - Noorduyn, N. Bugis genealogy of the Raja Muda family of Riau-Johor. MB 61(2)
 - [V. Wee](./v-wee.md) (2018). [Jemberang and Alam Melayu: crossing the Straits of Melaka, Singapore and Riau](./jemberang-and-alam-melayu-crossing-the-straits-of-melaka-sin.md). *JMBRAS* 91(2): 124–133
 - [R.O. Winstedt](./richard-olaf-winstedt.md) (1933). [Outline of a Malay history of Riau](./outline-of-a-malay-history-of-riau.md). *JMBRAS* 11(2): 157–160

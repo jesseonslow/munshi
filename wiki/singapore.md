@@ -161,8 +161,7 @@ published: false
 - Anon (1973). [150th Anniversary of the Founding of Singapore Commemorative Reprint](./150th-anniversary-of-the-founding-of-singapore-commemorative-reprint.md). ** : 317
 - Anon. [Raffles, R.B. Date of the foundation of Singapore](./mbras-reprint-15.md). *Reprint* 15
 - Anon (1973). [150th Anniversary of the Founding of Singapore Commemorative Reprint](./150th-anniversary-of-the-founding-of-singapore-commemorative-reprint.md). ** : 317
-- [T.S. Raffles](./ts-raffles.md) (1878). [The founding of Singapore](./the-founding-of-singapore.md). *JSBRAS* 2: 175–182
-- and Reprints 1 and 4
+- [T.S. Raffles](./ts-raffles.md) (1878). [The founding of Singapore](./the-founding-of-singapore.md). *JSBRAS* 2: 175–182 and Reprints 1 and 4
 - Tarling, N. The Singapore mutiny of 1915. MB 55(2)
 - [C.M. Turnbull](./constance-mary-turnbull.md) (1957). [Governor Blundell and Sir Benson Maxwell: a conflict of personalities](./governor-blundell-and-sir-benson-maxwell-a-conflict-of-perso.md). *JMBRAS* 30: 134–163
 - [R.O. Winstedt](./richard-olaf-winstedt.md) (1933). [Abdu’l-Jalil, Sultan of Johore (1699–1719), ‘Abdu’l-Jamal, Temenggong (ca. 1750) and Raffles’ founding of Singapore](./abdul-jalil-sultan-of-johore-16991719-abdul-jamal-temenggong.md). *JMBRAS* 11(2): 161–165

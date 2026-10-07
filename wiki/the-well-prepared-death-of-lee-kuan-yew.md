@@ -32,18 +32,15 @@ keywords:
 - approximately 454
 - 700 people attended the lying-in-state in the Parliament House and 1.2 million visited
   condolence centres located throughout the island during this week of mourning. The
-  latter number represents more than 30 per cent of Singapore’s resident population
-- and 35 per cent of Singapore citizens.(2) During this mourning period
+  latter number represents more than 30 per cent of Singapore’s resident population and 35 per cent of Singapore citizens.(2) During this mourning period
 - the state used the time and space to establish and crystallize a desired memory
   of Lee. A national narrative of mourning was constructed by providing both physical
   and emotional venues such as community tribute sites
-- the Parliament site where the body lay in state
-- and online platforms such as the Facebook page ‘Remembering LKY’. These sites for
+- the Parliament site where the body lay in state and online platforms such as the Facebook page ‘Remembering LKY’. These sites for
   mourning
 - I will argue
 - 'managed the public’s emotions via the following features: interruption'
-- repetition
-- and formality. Stanley Tambiah examined the importance of formality and repetition
+- repetition and formality. Stanley Tambiah examined the importance of formality and repetition
   in making the symbolic system of ritual
 - (3) while Lily Kong and Brenda Yeo have studied these features more specifically
   in the design of Singapore’s National Day Parade
@@ -51,8 +48,7 @@ keywords:
   the mourning period of Lee
 - I identified the presence of these features which facilitated and amplified participants’
   expression of grief
-- gratitude
-- and solidarity. An overarching atmosphere of mourning was created in that week
+- gratitude and solidarity. An overarching atmosphere of mourning was created in that week
 - allowing the whole nation to participate in the guided remembering of Lee.
 - One important feature of all these emotion-generating apparatuses during the mourning
   period was interruption
