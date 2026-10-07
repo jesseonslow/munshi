@@ -22,6 +22,8 @@ published: false
 summarized: false
 source_mismatch: true
 publication_type: journal_article
+source_doc: jmbras-259-bastin-sirstamfordraffles-1990-e275649a57c2
+source_path: ../sources/jmbras-259-bastin-sirstamfordraffles-1990-e275649a57c2/bibliography.md
 ---
 
 # Sir Stamford Raffles and the study of natural history in Penang, Singapore and Indonesia

@@ -1,24 +1,23 @@
 ---
-id: he-miller
-title: H.E. Miller
-canonical_name: H.E. Miller
+id: ji-miller
+title: J.I. Miller
+canonical_name: J.I. Miller
 aliases:
-- Miller, H.E
+- Miller, J.I
 type: person
 is_contributor: true
 status: stub
 published: false
 ---
 
-# H.E. Miller
+# J.I. Miller
 
 <!-- Synthesis engine: Insert biographical synthesis and research focus here -->
 
 ## Biography
 
 ## Bibliography
-
-- (1941) [Extracts from the letters of Col. Nahuijs.](./extracts-from-the-letters-of-col-nahuijs-e-miller.md). *JMBRAS* 19(2): 169–209
+- (1927) [Elephant terms in Perak](./elephant-terms-in-perak.md). *JMBRAS* 5(2): 364–365
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -5,7 +5,7 @@ title: 'Malays in the Indochinese Peninsula: Adventurers, Warlords and Ministers
 canonical_name: 'Malays in the Indochinese Peninsula: Adventurers, Warlords and Ministers'
 type: publication
 authors:
-- nicolas-weber
+- Nicolas Weber
 year: 2021
 journal_code: JMBRAS
 volume: 94
@@ -27,6 +27,8 @@ keywords:
 - oral history.
 source_mismatch: true
 publication_type: journal_article
+source_doc: weber-malays-in-the-indochinese-peninsula-cc2fdb73e188
+source_path: ../sources/weber-malays-in-the-indochinese-peninsula-cc2fdb73e188/bibliography.md
 ---
 
 # Malays in the Indochinese Peninsula: Adventurers, Warlords and Ministers

@@ -81,7 +81,7 @@ articles:
     Further Interference with the East-India Company’s Privileges of Exclusive Trade’.
     Facsimile reprint. With a note P. Kratoska'
   authors:
-  - Anon (and unidentifiable initials)
+  - Anon
   - P.H. Kratoska
   pages: 103–121
   is_review: false
@@ -128,7 +128,7 @@ articles:
 * [Mercantile Life in Early 19th Century Southeast Asia: The Ross Brothers](./mercantile-life-in-early-19th-century-southeast-asia-the-ros.md) — [F. Andrew Smith](./f-andrew-smith.md) (pp. 49–72)
 * [Printing in Early 20th Century Singapore: The Contrasting Fates of C](./printing-in-early-20th-century-singapore-the-contrasting-fat.md) — [B. Luyt](./brendan-luyt.md) (pp. 73–88)
 * [Centring the Periphery: New Forays in Malaysian Economic History. biblio](./centring-the-periphery-new-forays-in-malaysian-economic-hist.md) — [Loh Wei Leng](./loh-wei-leng.md) (pp. 89–102)
-* [Country Traders, the East India Company, and the Rise of Singapore: ‘On Further Interference with the East-India Company’s Privileges of Exclusive Trade’. Facsimile reprint. With a note P. Kratoska](./country-traders-the-east-india-company-and-the-rise-of-singa.md) — [Anon](./anon-and-unidentifiable-initials.md), [P.H. Kratoska](./paul-h-kratoska.md) (pp. 103–121)
+* [Country Traders, the East India Company, and the Rise of Singapore: ‘On Further Interference with the East-India Company’s Privileges of Exclusive Trade’](./country-traders-the-east-india-company-and-the-rise-of-singa.md) — [Anon](./anon-and-unidentifiable-initials.md), [P.H. Kratoska](./paul-h-kratoska.md) (pp. 103–121)
 * *Acts of Resistance: Dol Said and the Naning War. Shaun Adam* — [Ahmad Kamal Arrifin bin Mohd Rus](./ahmad-kamal-arrifin-bin-mohd-rus.md) (pp. 122–124) [Review]
 * *What It Means to be a Muslimah: The Religious Orientations of Female Muslim Activists in Malaysia. I. Alatas* — [Por Heong Hong](./por-heong-hong.md) (pp. 124–125) [Review]
 * *Fleeting Agencies: A Social History of Indian Coolie Women in British Malaya. A. Datta* — [Shanti Thambiah](./shanti-thambiah.md) (pp. 126–128) [Review]

@@ -17,7 +17,7 @@ published: false
 ## Biography
 
 ## Bibliography
-- (1941) [Extracts from the letters of Col. Nahuijs. .E. Miller](./extracts-from-the-letters-of-col-nahuijs-e-miller.md). *JMBRAS* 19(2): 169–209
+- (1941) [Extracts from the letters of Col. Nahuijs.](./extracts-from-the-letters-of-col-nahuijs-e-miller.md). *JMBRAS* 19(2): 169–209
 - (1950) [The reminiscences of Colonel Nahuijs. C.E. Wurtzburg](./the-reminiscences-of-colonel-nahuijs-ce-wurtzburg.md). *JMBRAS* 23(3): 127–135
 
 ## References

@@ -18,6 +18,8 @@ amendments: []
 status: stub
 published: false
 publication_type: note
+source_doc: jsbras-003-s-geographicalnotes-1879-e536c45f8fd8
+source_path: ../sources/jsbras-003-s-geographicalnotes-1879-e536c45f8fd8.md
 ---
 
 # “Sungai Tata” route

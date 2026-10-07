@@ -26,7 +26,7 @@ published: false
 
 ## MBRAS Sources
 
-- [Anon](./anon-and-unidentifiable-initials.md) and [P.H. Kratoska](./paul-h-kratoska.md) (2023). [Country Traders, the East India Company, and the Rise of Singapore: ‘On Further Interference with the East-India Company’s Privileges of Exclusive Trade’. Facsimile reprint. With a note P. Kratoska](./country-traders-the-east-india-company-and-the-rise-of-singa.md). *JMBRAS* 96(2): 103–121
+- [Anon](./anon-and-unidentifiable-initials.md) and [P.H. Kratoska](./paul-h-kratoska.md) (2023). [Country Traders, the East India Company, and the Rise of Singapore: ‘On Further Interference with the East-India Company’s Privileges of Exclusive Trade’](./country-traders-the-east-india-company-and-the-rise-of-singa.md). *JMBRAS* 96(2): 103–121
 - [D.K. Bassett](./dk-bassett.md) (1958). [English trade in Celebes, 1613–1667](./english-trade-in-celebes-16131667.md). *JMBRAS* 31: 1–39
 - [C.D. Cowan](./cd-cowan.md) (1950). [Early Penang and the rise of Singapore: a selection of the manuscript records of the East India Company over the period 1805–32, chosen & edited, with an introduction by C.D. Cowan](./early-penang-and-the-rise-of-singapore-a-selection-of-the-ma.md). *JMBRAS* 23(2): 1–210
 - Anon. Letter of introduction to East India Company Agent, 1614. SB 54

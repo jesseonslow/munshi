@@ -6,7 +6,7 @@ canonical_name: Notes on the Malayan Dipterocarpaceae, VI
 type: publication
 authors:
 - C.F. Symington
-year: 1961
+year: 1941
 journal_code: JMBRAS
 volume: 19
 issue: '2'
@@ -20,6 +20,8 @@ published: false
 summarized: false
 source_mismatch: true
 publication_type: journal_article
+source_doc: jmalayanras-140-symington-notesmalayandipterocarpaceae-1941-46849f78fcaa
+source_path: ../sources/jmalayanras-140-symington-notesmalayandipterocarpaceae-1941-46849f78fcaa.md
 ---
 
 # Notes on the Malayan Dipterocarpaceae, VI

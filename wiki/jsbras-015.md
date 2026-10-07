@@ -56,7 +56,7 @@ articles:
   slug: malay-superstitions-nq-2-5354
   title: 'Malay superstitions. NQ 2: 53–54'
   authors:
-  - Anon (and unidentifiable initials)
+  - Anon
   - G. Copley
   pages: null
   is_review: false
@@ -64,7 +64,7 @@ articles:
   slug: rate-of-speed-of-elephant-nq-2-5859
   title: 'Rate of speed of elephant. NQ 2: 58–59'
   authors:
-  - Anon (and unidentifiable initials)
+  - Anon
   pages: null
   is_review: false
 - id: jsbras-15-legend-of-toh-panglima-of-kint

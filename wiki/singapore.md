@@ -122,7 +122,7 @@ published: false
 
 ### Commerce
 
-- [Anon](./anon-and-unidentifiable-initials.md) and [P.H. Kratoska](./paul-h-kratoska.md) (2023). [Country Traders, the East India Company, and the Rise of Singapore: ‘On Further Interference with the East-India Company’s Privileges of Exclusive Trade’. Facsimile reprint. With a note P. Kratoska](./country-traders-the-east-india-company-and-the-rise-of-singa.md). *JMBRAS* 96(2): 103–121
+- [Anon](./anon-and-unidentifiable-initials.md) and [P.H. Kratoska](./paul-h-kratoska.md) (2023). [Country Traders, the East India Company, and the Rise of Singapore: ‘On Further Interference with the East-India Company’s Privileges of Exclusive Trade’](./country-traders-the-east-india-company-and-the-rise-of-singa.md). *JMBRAS* 96(2): 103–121
 - Anon (1973). [150th Anniversary of the Founding of Singapore Commemorative Reprint](./150th-anniversary-of-the-founding-of-singapore-commemorative-reprint.md). ** : 317
 - [C.A. Gibson-Hill](./carl-alexander-gibson-hill.md) (1950). [The Indonesian trading boats reaching Singapore](./the-indonesian-trading-boats-reaching-singapore.md). *JMBRAS* 23: 108–138
 - [J. Lim](./jhs-lim.md) (1996). [The trishaw industry as a “Bang”–based trade](./the-trishaw-industry-as-a-bangbased-trade.md). *JMBRAS* 69(2): 39–59
@@ -192,7 +192,7 @@ published: false
 - [P. Borschberg](./peter-borschberg.md) and [B.J.Q. Khoo](./benjamin-j-q-khoo.md) (2021). [References to Singapore and its Straits from the 16th to the Early 19th Century](./references-to-singapore-and-its-straits-from-the-16th-to-the.md). *JMBRAS* 94(2): 67–95
 - Kratoska, P.H. (comp) Early descriptions of Singapore, 1819–25. MB 92(1)
 - [G.F. Leechman](./gf-leechman.md) (1937). [Study of local Singapore tides](./study-of-local-singapore-tides.md). *JMBRAS* 15(2): 153–159
-- [H.E. Miller](./he-miller.md) and [Hulbert Gerard, baron Nahuijs van Burgst](./hulbert-gerard-baron-nahuijs-van-burgst.md) (1941). [Extracts from the letters of Col. Nahuijs. .E. Miller](./extracts-from-the-letters-of-col-nahuijs-e-miller.md). *JMBRAS* 19(2): 169–209
+- [H.E. Miller](./he-miller.md) and [Hulbert Gerard, baron Nahuijs van Burgst](./hulbert-gerard-baron-nahuijs-van-burgst.md) (1941). [Extracts from the letters of Col. Nahuijs.](./extracts-from-the-letters-of-col-nahuijs-e-miller.md). *JMBRAS* 19(2): 169–209
 - Reminiscences. Ed. C.E. Wurzburg. MB 23(3)
 - Anon (1973). [150th Anniversary of the Founding of Singapore Commemorative Reprint](./150th-anniversary-of-the-founding-of-singapore-commemorative-reprint.md). ** : 317
 - Anon (1973). [150th Anniversary of the Founding of Singapore Commemorative Reprint](./150th-anniversary-of-the-founding-of-singapore-commemorative-reprint.md). ** : 317

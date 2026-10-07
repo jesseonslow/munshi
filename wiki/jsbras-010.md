@@ -68,7 +68,7 @@ articles:
   slug: memorandum-on-malay-transliteration
   title: Memorandum on Malay transliteration
   authors:
-  - Anon (and unidentifiable initials)
+  - Anon
   - Haughton H.T
   pages: 285–286
   is_review: false

@@ -78,7 +78,7 @@ articles:
   slug: malays-in-the-indochinese-peninsula-adventurers-warlords-and
   title: 'Malays in the Indochinese Peninsula: Adventurers, Warlords and Ministers'
   authors:
-  - nicolas-weber
+  - Nicolas Weber
   pages: 1–23
   is_review: false
 - id: jmbras-94-1-p25
@@ -249,7 +249,7 @@ articles:
 **Date:** June 2021
 
 ## Table of Contents
-* [Malays in the Indochinese Peninsula: Adventurers, Warlords and Ministers](./malays-in-the-indochinese-peninsula-adventurers-warlords-and.md) — [nicolas-weber](./nicolas-weber.md) (pp. 1–23)
+* [Malays in the Indochinese Peninsula: Adventurers, Warlords and Ministers](./malays-in-the-indochinese-peninsula-adventurers-warlords-and.md) — [Nicolas Weber](./nicolas-weber.md) (pp. 1–23)
 * [The Kong-Moon System in Larut: Chinese Social Relationships in Nineteenth-Century Perak](./the-kong-moon-system-in-larut-chinese-social-relationships-i.md) — [Pek Wee Chuen](./pek-wee-chuen.md) (pp. 25–50)
 * [Āl al-'Aṭṭās and Ḥaḍramī Arab Migration to the Malay World](./āl-al-aṭṭās-and-ḥaḍramī-arab-migration-to-the-malay-world.md) — [Farid, Syed Alatas](./farid-syed-alatas.md) (pp. 51–73)
 * ['I Want to Live': Malayan Communist Party Struggles as Seen by Female Defectors](./i-want-to-live-malayan-communist-party-struggles-as-seen-by-.md) — [Mahani Musa](./mahani-musa.md) (pp. 75–100)
@@ -291,7 +291,7 @@ articles:
 * [L. Wray](./l-wray.md)
 * [Liew Kai Khiun](./liew-kai-khiun.md)
 * [Mahani Musa](./mahani-musa.md)
-* [nicolas-weber](./nicolas-weber.md)
+* [Nicolas Weber](./nicolas-weber.md)
 * [Pek Wee Chuen](./pek-wee-chuen.md)
 * [Rajo Sathian](./rajo-sathian.md)
 * [Sanib Said](./sanib-said.md)

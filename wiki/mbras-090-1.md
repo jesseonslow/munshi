@@ -99,7 +99,7 @@ articles:
   slug: camerons-highlands
   title: Cameron’s Highlands
   authors:
-  - Anon (and unidentifiable initials)
+  - Anon
   pages: 127–130
   is_review: false
 - id: jmbras-90-1-p131

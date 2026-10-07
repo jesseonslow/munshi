@@ -5,7 +5,7 @@ title: 'Malay superstitions. NQ 2: 53–54'
 canonical_name: 'Malay superstitions. NQ 2: 53–54'
 type: publication
 authors:
-- Anon (and unidentifiable initials)
+- Anon
 - G. Copley
 year: 1885
 journal_code: JSBRAS

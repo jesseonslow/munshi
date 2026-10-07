@@ -19,6 +19,8 @@ amendments: []
 status: stub
 published: false
 publication_type: monograph
+source_doc: jmalayanras-174-loewenstein-originmalayanmetal-1956-a2f93f0a65ca
+source_path: ../sources/jmalayanras-174-loewenstein-originmalayanmetal-1956-a2f93f0a65ca/appendix.md
 ---
 
 # Papers on the Malayan metal age

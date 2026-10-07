@@ -83,7 +83,7 @@ articles:
   slug: oxford-dictionary-of-national-biography
   title: Oxford Dictionary of National Biography
   authors:
-  - Anon (and unidentifiable initials)
+  - Anon
   pages: 117–120
   is_review: false
 - id: jmbras-83-1-p124

@@ -1,7 +1,7 @@
 ---
 id: nicolas-weber
-title: nicolas-weber
-canonical_name: nicolas-weber
+title: Nicolas Weber
+canonical_name: Nicolas Weber
 aliases:
 - Weber, N
 type: person
@@ -12,7 +12,7 @@ gender: male
 email: nicolasweb@yahoo.com
 ---
 
-# nicolas-weber
+# Nicolas Weber
 
 <!-- Synthesis engine: Insert biographical synthesis and research focus here -->
 

@@ -5,7 +5,7 @@ title: 'Rate of speed of elephant. NQ 2: 58–59'
 canonical_name: 'Rate of speed of elephant. NQ 2: 58–59'
 type: publication
 authors:
-- Anon (and unidentifiable initials)
+- Anon
 year: 1885
 journal_code: JSBRAS
 volume: 15

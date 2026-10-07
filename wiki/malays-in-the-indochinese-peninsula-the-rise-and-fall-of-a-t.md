@@ -7,7 +7,7 @@ canonical_name: 'Malays in the Indochinese Peninsula: The Rise and Fall of a ''T
   in Precolonial Mainland Southeast Asia'
 type: publication
 authors:
-- nicolas-weber
+- Nicolas Weber
 year: 2021
 journal_code: JMBRAS
 volume: 94

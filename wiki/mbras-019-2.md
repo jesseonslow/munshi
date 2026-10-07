@@ -39,7 +39,7 @@ articles:
   is_review: false
 - id: jmbras-19-2-p169
   slug: extracts-from-the-letters-of-col-nahuijs-e-miller
-  title: Extracts from the letters of Col. Nahuijs. .E. Miller
+  title: Extracts from the letters of Col. Nahuijs.
   authors:
   - H.E. Miller
   - Hulbert Gerard, baron Nahuijs van Burgst
@@ -124,7 +124,7 @@ articles:
 
 ## Table of Contents
 * [Notes on the Malayan Dipterocarpaceae, VI](./notes-on-the-malayan-dipterocarpaceae-vi.md) — [C.F. Symington](./cf-symington.md) (pp. 139–168)
-* [Extracts from the letters of Col. Nahuijs. .E. Miller](./extracts-from-the-letters-of-col-nahuijs-e-miller.md) — [H.E. Miller](./he-miller.md), [Hulbert Gerard, baron Nahuijs van Burgst](./hulbert-gerard-baron-nahuijs-van-burgst.md) (pp. 169–209)
+* [Extracts from the letters of Col. Nahuijs.](./extracts-from-the-letters-of-col-nahuijs-e-miller.md) — [H.E. Miller](./he-miller.md), [Hulbert Gerard, baron Nahuijs van Burgst](./hulbert-gerard-baron-nahuijs-van-burgst.md) (pp. 169–209)
 * [A proposed classification of Malayan polished stone implements](./a-proposed-classification-of-malayan-polished-stone-implemen.md) — [H.D. Noone](./hd-noone.md) (pp. 210–216)
 * [A find of pottery sherds on a beach near Sepang, Selangor](./a-find-of-pottery-sherds-on-a-beach-near-sepang-selangor.md) — [H.D. Noone](./hd-noone.md) (pp. 217–218)
 * [Sea-Dayak carving](./sea-dayak-carving.md) — [E. Banks](./e-banks.md) (pp. 219–226)

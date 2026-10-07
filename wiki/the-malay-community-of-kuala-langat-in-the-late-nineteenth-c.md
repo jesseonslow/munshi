@@ -20,6 +20,8 @@ published: false
 summarized: false
 source_mismatch: true
 publication_type: journal_article
+source_doc: jmbras-287-gullick-malaycommunitykuala-2004-807baf37a6ac
+source_path: ../sources/jmbras-287-gullick-malaycommunitykuala-2004-807baf37a6ac/references.md
 ---
 
 # The Malay community of Kuala Langat in the late nineteenth century

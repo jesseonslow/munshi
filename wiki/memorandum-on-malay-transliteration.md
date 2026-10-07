@@ -5,7 +5,7 @@ title: Memorandum on Malay transliteration
 canonical_name: Memorandum on Malay transliteration
 type: publication
 authors:
-- Anon (and unidentifiable initials)
+- Anon
 - Haughton H.T
 year: 1882
 journal_code: JSBRAS

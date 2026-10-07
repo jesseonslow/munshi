@@ -20,6 +20,8 @@ amendments: []
 status: stub
 published: false
 publication_type: journal_article
+source_doc: jmbras-281-ceridwen-silsilahrajarajaperak-2001-97a9f8473e02
+source_path: ../sources/jmbras-281-ceridwen-silsilahrajarajaperak-2001-97a9f8473e02.md
 ---
 
 # The Silsilah Raja-Raja Perak, a historical and literary investigation into the political significance of a Malay court genealogy

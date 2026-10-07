@@ -34,7 +34,7 @@ articles:
   slug: the-light-family-nq-4-115116
   title: 'The Light family. NQ 4: 115–116'
   authors:
-  - Anon (and unidentifiable initials)
+  - Anon
   pages: null
   is_review: false
 - id: jsbras-17-the-crocodile-nq-4-123

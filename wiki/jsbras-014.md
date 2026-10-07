@@ -38,7 +38,7 @@ articles:
   slug: maxwells-malay-manual-nq-1
   title: 'Maxwell’s Malay Manual. NQ 1:'
   authors:
-  - Anon (and unidentifiable initials)
+  - Anon
   pages: null
   is_review: false
 - id: jsbras-14-are-cockatoos-carnivorous-nq-1

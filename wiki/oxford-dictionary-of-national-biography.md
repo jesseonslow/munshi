@@ -5,7 +5,7 @@ title: Oxford Dictionary of National Biography
 canonical_name: Oxford Dictionary of National Biography
 type: publication
 authors:
-- Anon (and unidentifiable initials)
+- Anon
 year: 2010
 journal_code: JMBRAS
 volume: 83

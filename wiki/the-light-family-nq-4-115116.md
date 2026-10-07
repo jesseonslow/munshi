@@ -5,7 +5,7 @@ title: 'The Light family. NQ 4: 115–116'
 canonical_name: 'The Light family. NQ 4: 115–116'
 type: publication
 authors:
-- Anon (and unidentifiable initials)
+- Anon
 year: 1886
 journal_code: JSBRAS
 volume: 17

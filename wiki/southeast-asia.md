@@ -196,8 +196,8 @@ published: false
 - [D.S. Ranjit Singh](./ds-ranjit-singh.md) (1998). [British proposals for a dominion of Southeast Asia, 1943–1957](./british-proposals-for-a-dominion-of-southeast-asia-19431957.md). *JMBRAS* 71: 27–40
 - [Leonard Andaya](./leonard-andaya.md) et al. (1975). [Pre-Colonial State Systems in Southeast Asia](./pre-colonial-state-systems-in-southeast-asia.md). ** : 135
 - [Wang Gungwu](./wang-gungwu.md) (2000). [Political heritage and nation building](./political-heritage-and-nation-building.md). *JMBRAS* 73(2): 5–30
-- [nicolas-weber](./nicolas-weber.md) (2021). [Malays in the Indochinese Peninsula: Adventurers, Warlords and Ministers](./malays-in-the-indochinese-peninsula-adventurers-warlords-and.md). *JMBRAS* 94: 1–23
-- [nicolas-weber](./nicolas-weber.md) (2021). [Malays in the Indochinese Peninsula: The Rise and Fall of a 'Tuan' in Precolonial Mainland Southeast Asia](./malays-in-the-indochinese-peninsula-the-rise-and-fall-of-a-t.md). *JMBRAS* 94(2): 43–65
+- [Nicolas Weber](./nicolas-weber.md) (2021). [Malays in the Indochinese Peninsula: Adventurers, Warlords and Ministers](./malays-in-the-indochinese-peninsula-adventurers-warlords-and.md). *JMBRAS* 94: 1–23
+- [Nicolas Weber](./nicolas-weber.md) (2021). [Malays in the Indochinese Peninsula: The Rise and Fall of a 'Tuan' in Precolonial Mainland Southeast Asia](./malays-in-the-indochinese-peninsula-the-rise-and-fall-of-a-t.md). *JMBRAS* 94(2): 43–65
 
 ## References
 <!-- Grounded occurrences and citations -->

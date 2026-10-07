@@ -1,8 +1,8 @@
 ---
 id: extracts-from-the-letters-of-col-nahuijs-e-miller
 work_id: jmbras-19-2-p169
-title: Extracts from the letters of Col. Nahuijs. .E. Miller
-canonical_name: Extracts from the letters of Col. Nahuijs. .E. Miller
+title: Extracts from the letters of Col. Nahuijs
+canonical_name: Extracts from the letters of Col. Nahuijs
 type: publication
 authors:
 - H.E. Miller
@@ -24,7 +24,7 @@ summarized: true
 publication_type: translation
 ---
 
-# Extracts from the letters of Col. Nahuijs. .E. Miller
+# Extracts from the letters of Col. Nahuijs
 
 H.E. Miller's 1941 translation of extracts from the letters of Lieutenant Colonel Nahuijs, a Dutch colonial official who served as Resident at Surakarta and Djoejocarta, provides a remarkably detailed first-hand account of British-administered territories in the Malay Archipelago—Bencoolen, Singapore, and Prince of Wales Island—visited in 1823–1824, written to his friend the Lieutenant-General de Kock. The letters, originally composed in Dutch and published in Breda in 1826, constitute a comparative colonial ethnography that juxtaposes Dutch and British administrative practices with unusual frankness.
 

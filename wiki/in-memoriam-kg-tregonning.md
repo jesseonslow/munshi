@@ -5,7 +5,7 @@ title: 'In memoriam: K.G. Tregonning'
 canonical_name: 'In memoriam: K.G. Tregonning'
 type: publication
 authors:
-- Anon (and unidentifiable initials)
+- Anon
 year: 2015
 journal_code: JMBRAS
 volume: 88

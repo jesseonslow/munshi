@@ -95,7 +95,7 @@ articles:
   slug: in-memoriam-kg-tregonning
   title: 'In memoriam: K.G. Tregonning'
   authors:
-  - Anon (and unidentifiable initials)
+  - Anon
   pages: 157–159
   is_review: false
 - id: jmbras-88-2-p161

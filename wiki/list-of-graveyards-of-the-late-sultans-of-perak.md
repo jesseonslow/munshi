@@ -5,7 +5,7 @@ title: List of graveyards of the late Sultans of Perak
 canonical_name: List of graveyards of the late Sultans of Perak
 type: publication
 authors:
-- Anon (and unidentifiable initials)
+- Anon
 year: 1907
 journal_code: JSBRAS
 volume: 48

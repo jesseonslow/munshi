@@ -7,7 +7,7 @@ canonical_name: Federated Malay States Museum, Kuala Lumpur, 21 September 1945, 
   of Strategic Services, India Burma Theater. Facsimile reprint
 type: publication
 authors:
-- Anon (and unidentifiable initials)
+- Anon
 year: 2021
 journal_code: JMBRAS
 volume: 94

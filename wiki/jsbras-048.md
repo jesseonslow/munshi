@@ -29,7 +29,7 @@ articles:
   slug: list-of-graveyards-of-the-late-sultans-of-perak
   title: List of graveyards of the late Sultans of Perak
   authors:
-  - Anon (and unidentifiable initials)
+  - Anon
   pages: 97–106
   is_review: false
 ---
