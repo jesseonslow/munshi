@@ -18,7 +18,7 @@ published: false
 
 ## Bibliography
 
-- (1941) [Extracts from the letters of Col. Nahuijs.](./extracts-from-the-letters-of-col-nahuijs-e-miller.md). *JMBRAS* 19(2): 169–209
+- (1941) [Extracts from the letters of Col. Nahuijs](./extracts-from-the-letters-of-col-nahuijs-e-miller.md). *JMBRAS* 19(2): 169–209
 
 ## References
 <!-- Grounded occurrences and citations -->
