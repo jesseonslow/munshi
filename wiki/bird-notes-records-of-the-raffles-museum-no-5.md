@@ -21,6 +21,7 @@ source_doc: jmalayanras-090-chasen-birdnotes-1924-71fde6d72023
 source_path: ../sources/jmalayanras-090-chasen-birdnotes-1924-71fde6d72023.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41559574
 ---
 
 # Bird notes. Records of the Raffles Museum, No. 5

@@ -21,6 +21,7 @@ source_doc: jmbras-206-lamb-mahayanabuddhistvotive-1964-ff6befbc68b3
 source_path: ../sources/jmbras-206-lamb-mahayanabuddhistvotive-1964-ff6befbc68b3/frontmatter.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41492200
 ---
 
 # Mahayana Buddhist votive tablets in Perlis

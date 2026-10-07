@@ -21,6 +21,7 @@ source_doc: jmalayanras-119-macdonald-malaccabuildings-1934-dc47547796ab
 source_path: ../sources/jmalayanras-119-macdonald-malaccabuildings-1934-dc47547796ab.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41559507
 ---
 
 # Malacca buildings

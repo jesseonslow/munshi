@@ -21,6 +21,7 @@ source_doc: jmalayanras-093-ahmad-datoparoweretiger-1925-992070decea1
 source_path: ../sources/jmalayanras-093-ahmad-datoparoweretiger-1925-992070decea1.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41560428
 ---
 
 # Dato’ Paroi, were-tiger

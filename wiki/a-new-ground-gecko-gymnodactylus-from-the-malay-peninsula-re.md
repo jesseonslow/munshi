@@ -23,6 +23,7 @@ source_doc: jmalayanras-093-smith-newgroundgeckogymnodactylus-1925-cc824cd26fe3
 source_path: ../sources/jmalayanras-093-smith-newgroundgeckogymnodactylus-1925-cc824cd26fe3.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41560434
 ---
 
 # A new ground-gecko (Gymnodactylus) from the Malay Peninsula. Records of the Raffles Museum, No. 7

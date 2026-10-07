@@ -21,6 +21,7 @@ source_doc: jmbras-205-needham-temernames-1964-9c113d8a608c
 source_path: ../sources/jmbras-205-needham-temernames-1964-9c113d8a608c/frontmatter.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41491817
 ---
 
 # Temer names

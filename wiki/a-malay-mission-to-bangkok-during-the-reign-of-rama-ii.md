@@ -21,6 +21,7 @@ source_doc: jmbras-245-skinner-malaymissionbangkok-1983-00c452a14e49
 source_path: ../sources/jmbras-245-skinner-malaymissionbangkok-1983-00c452a14e49.md
 summarized: true
 publication_type: translation
+jstor: https://www.jstor.org/stable/41492959
 ---
 
 # A Malay mission to Bangkok during the reign of Rama II

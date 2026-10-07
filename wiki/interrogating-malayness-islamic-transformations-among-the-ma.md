@@ -24,6 +24,7 @@ source_mismatch: false
 source_doc: jmbras-306-sloanewhite-interrogatingmalayness-2014-8af467a3658e
 source_path: ../sources/references.md
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/10.2307/26527661
 ---
 
 # Interrogating ‘Malayness’: Islamic transformations among the Malay College Kuala Kangsar (MCKK) cohort

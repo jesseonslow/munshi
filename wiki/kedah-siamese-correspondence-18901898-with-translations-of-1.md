@@ -23,6 +23,7 @@ source_doc: jmbras-243-suwannathatpian-kedahsiamesecorrespondence18901898-1982-1
 source_path: ../sources/jmbras-243-suwannathatpian-kedahsiamesecorrespondence18901898-1982-12e20d3ccd8e.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41493609
 ---
 
 # Kedah-Siamese correspondence, 1890–1898 {with translations of 10 letters on the Perlis affairs

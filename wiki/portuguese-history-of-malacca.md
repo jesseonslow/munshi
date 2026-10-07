@@ -21,6 +21,7 @@ source_doc: jsbras-017-koek-portuguesehistorymalacca-1886-5f349ed9b162
 source_path: ../sources/jsbras-017-koek-portuguesehistorymalacca-1886-5f349ed9b162.md
 summarized: true
 publication_type: reprint
+jstor: https://www.jstor.org/stable/51000013
 ---
 
 # Portuguese history of Malacca

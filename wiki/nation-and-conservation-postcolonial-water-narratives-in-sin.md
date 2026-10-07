@@ -29,6 +29,7 @@ keywords:
 - National Day
 - environmental politics
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/10.2307/26527762
 ---
 
 # Nation and conservation: postcolonial water narratives in Singapore rituals

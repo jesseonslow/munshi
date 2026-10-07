@@ -23,6 +23,7 @@ source_doc: jmbras-306-taylor-orientalisthansfriedrich-2014-abe95608fce5
 source_path: ../sources/jmbras-306-taylor-orientalisthansfriedrich-2014-abe95608fce5/frontmatter.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/10.2307/26527662
 ---
 
 # The orientalist Hans Friedrich Overbeck 1882–1942: his entomological work, prisoner-ofwar experiences and known photographic images

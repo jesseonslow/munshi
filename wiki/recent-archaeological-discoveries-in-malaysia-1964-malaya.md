@@ -22,6 +22,7 @@ source_mismatch: false
 source_doc: jmbras-207-harrisson-recentarchaeologicaldiscoveries-1965-9bd1be43f728
 source_path: ../sources/jmbras-207-harrisson-recentarchaeologicaldiscoveries-1965-9bd1be43f728.md
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41491845
 ---
 
 # Recent archaeological discoveries in Malaysia 1964: Malaya

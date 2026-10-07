@@ -29,6 +29,7 @@ keywords:
 - war associations
 - anti-Japanese movement
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/10.2307/26527761
 ---
 
 # Malayan women during the Japanese occupation

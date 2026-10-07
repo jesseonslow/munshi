@@ -21,6 +21,7 @@ source_doc: jsbras-045-gomes-anotherseadyaklegend-1906-9c88e6a7ceb5
 source_path: ../sources/jsbras-045-gomes-anotherseadyaklegend-1906-9c88e6a7ceb5.md
 summarized: true
 publication_type: document
+jstor: https://www.jstor.org/stable/41561622
 ---
 
 # Another Sea-Dayak legend

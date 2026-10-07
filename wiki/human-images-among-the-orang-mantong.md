@@ -21,6 +21,7 @@ source_doc: jsbras-041-abbott-humanimagesamong-1904-639ef1739952
 source_path: ../sources/jsbras-041-abbott-humanimagesamong-1904-639ef1739952.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41561577
 ---
 
 # Human images among the Orang Mantong

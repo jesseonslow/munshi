@@ -21,6 +21,7 @@ source_doc: jmalayanras-181-peacock-recentarchaeologicaldiscoveries-1958-8e78d41
 source_path: ../sources/jmalayanras-181-peacock-recentarchaeologicaldiscoveries-1958-8e78d4177316.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41503131
 ---
 
 # Recent archaeological discoveries in Malaya (1957

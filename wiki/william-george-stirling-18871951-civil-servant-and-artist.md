@@ -72,6 +72,7 @@ keywords:
   relating to the Chinese in the Straits Settlements. Its responsibilities included
   regulating
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/10.2307/26928006
 ---
 
 # William George Stirling (1887–1951): civil servant and artist

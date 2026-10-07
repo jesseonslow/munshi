@@ -21,6 +21,7 @@ source_doc: jmalayanras-161-gullick-styletranslationmalay-1953-f528228482c3
 source_path: ../sources/jmalayanras-161-gullick-styletranslationmalay-1953-f528228482c3.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41502900
 ---
 
 # Style and translation in the Malay press

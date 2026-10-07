@@ -21,6 +21,7 @@ source_doc: jmalayanras-117-hamilton-malaynamesmolluscs-1933-1ae0160f285d
 source_path: ../sources/jmalayanras-117-hamilton-malaynamesmolluscs-1933-1ae0160f285d.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41559799
 ---
 
 # Malay names of molluscs

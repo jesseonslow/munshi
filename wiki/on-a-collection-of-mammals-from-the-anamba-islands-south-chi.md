@@ -22,6 +22,7 @@ source_doc: jmalayanras-104-chasen-collectionmammalsanamba-1928-9f476a45e797
 source_path: ../sources/jmalayanras-104-chasen-collectionmammalsanamba-1928-9f476a45e797/frontmatter.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41559702
 ---
 
 # On a collection of mammals from the Anamba Islands, South China Sea

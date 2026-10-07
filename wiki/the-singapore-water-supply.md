@@ -21,6 +21,7 @@ source_doc: jmbras-311-singaporewatersupply-2016-4a038ed4545f
 source_path: ../sources/jmbras-311-singaporewatersupply-2016-4a038ed4545f.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/10.2307/26527766
 ---
 
 # The Singapore water supply

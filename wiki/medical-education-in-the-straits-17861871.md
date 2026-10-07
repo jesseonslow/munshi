@@ -21,6 +21,7 @@ source_doc: jmbras-223-lee-medicaleducationstraits-1973-a1b5edc1ad9a
 source_path: ../sources/jmbras-223-lee-medicaleducationstraits-1973-a1b5edc1ad9a/frontmatter.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41492068
 ---
 
 # Medical education in the Straits, 1786–1871

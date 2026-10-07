@@ -21,6 +21,7 @@ source_doc: jsbras-031-ridley-birdsbotanicgardens-1898-d833df183a9e
 source_path: ../sources/jsbras-031-ridley-birdsbotanicgardens-1898-d833df183a9e.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41561676
 ---
 
 # Birds in the Botanic gardens, Singapore

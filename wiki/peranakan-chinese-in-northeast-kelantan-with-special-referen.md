@@ -29,6 +29,7 @@ source_doc: jmbras-242-cheebeng-peranakanchinesenortheast-1982-294c94889f37
 source_path: ../sources/jmbras-242-cheebeng-peranakanchinesenortheast-1982-294c94889f37/frontmatter.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41492910
 ---
 
 # Peranakan Chinese in northeast Kelantan, with special reference to Chinese religion

@@ -22,6 +22,7 @@ source_doc: jsbras-010-m-malaytransliteration-1882-387686c25d9b
 source_path: ../sources/jsbras-010-m-malaytransliteration-1882-387686c25d9b.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41560695
 ---
 
 # Memorandum on Malay transliteration

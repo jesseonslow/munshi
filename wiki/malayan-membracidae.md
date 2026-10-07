@@ -22,6 +22,7 @@ source_mismatch: false
 source_doc: jsbras-079-funkhouser-malayanmembracidae-1918-161cca264423
 source_path: ../sources/jsbras-079-funkhouser-malayanmembracidae-1918-161cca264423.md
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41561292
 ---
 
 # Malayan Membracidae

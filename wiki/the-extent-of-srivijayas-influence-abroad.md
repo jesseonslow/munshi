@@ -21,6 +21,7 @@ source_doc: jmbras-233-wales-extentsrivijayasinfluence-1978-d8fddc972035
 source_path: ../sources/jmbras-233-wales-extentsrivijayasinfluence-1978-d8fddc972035.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41492183
 ---
 
 # The extent of Srivijaya’s influence abroad

@@ -28,6 +28,7 @@ keywords:
 - Stamford Raffles
 - Singapore Chronicle*
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/10.2307/26527758
 ---
 
 # The career of Francis James Bernard: nepotism and patronage in early Singapore

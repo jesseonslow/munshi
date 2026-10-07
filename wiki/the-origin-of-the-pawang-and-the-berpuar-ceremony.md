@@ -21,6 +21,7 @@ source_doc: jmalayanras-100-abdullah-originpawangberpuar-1927-4217be651acd
 source_path: ../sources/jmalayanras-100-abdullah-originpawangberpuar-1927-4217be651acd.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/24249118
 ---
 
 # The origin of the pawang and the berpuar ceremony

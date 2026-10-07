@@ -21,6 +21,7 @@ source_doc: jmalayanras-087-garnier-earlydayspenang-1923-3a312213a2b7
 source_path: ../sources/jmalayanras-087-garnier-earlydayspenang-1923-3a312213a2b7.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41559533
 ---
 
 # Early days in Penang

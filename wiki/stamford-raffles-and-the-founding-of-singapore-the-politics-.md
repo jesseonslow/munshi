@@ -31,6 +31,7 @@ keywords:
 - Singapore Story
 - Revisionist history
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/10.2307/26928004
 ---
 
 # Stamford Raffles and the ‘founding’ of Singapore: the politics of commemoration and dilemmas of history

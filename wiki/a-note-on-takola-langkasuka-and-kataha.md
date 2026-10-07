@@ -21,6 +21,7 @@ source_doc: jmalayanras-151-wales-notetakolalangkasuka-1950-433286e1d3b6
 source_path: ../sources/jmalayanras-151-wales-notetakolalangkasuka-1950-433286e1d3b6.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41559494
 ---
 
 # A note on Takola, Langkasuka and Kataha

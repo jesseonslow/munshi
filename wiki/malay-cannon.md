@@ -21,6 +21,7 @@ source_doc: jmalayanras-143-woolley-malaycannon-1947-f700f83cf359
 source_path: ../sources/jmalayanras-143-woolley-malaycannon-1947-f700f83cf359.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41560025
 ---
 
 # Malay cannon

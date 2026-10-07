@@ -22,6 +22,7 @@ source_doc: jmbras-279-tjoabonatz-penangshistoriccity-2000-c72d3e4587a1
 source_path: ../sources/jmbras-279-tjoabonatz-penangshistoriccity-2000-c72d3e4587a1/frontmatter.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41493427
 ---
 
 # Penang’s historic city centre before the repeal of the Rent (Control) Act

@@ -21,6 +21,7 @@ source_doc: jmbras-275-tong-sinicizationmalaykeramats-1998-27166900463d
 source_path: ../sources/jmbras-275-tong-sinicizationmalaykeramats-1998-27166900463d/frontmatter.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41493363
 ---
 
 # The sinicization of Malay keramats in Malaysia

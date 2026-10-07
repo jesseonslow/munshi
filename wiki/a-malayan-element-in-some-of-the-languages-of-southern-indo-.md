@@ -27,6 +27,7 @@ source_doc: jsbras-039-corrigendamrc-1903-215535fca24b
 source_path: ../sources/jsbras-039-corrigendamrc-1903-215535fca24b.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41560540
 ---
 
 # A Malayan element in some of the languages of southern Indo-China

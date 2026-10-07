@@ -21,6 +21,7 @@ source_doc: jmalayanras-119-linehan-marhummudapahang-1934-853cc732d974
 source_path: ../sources/jmalayanras-119-linehan-marhummudapahang-1934-853cc732d974.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41559518
 ---
 
 # Marhum Muda Pahang

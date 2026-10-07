@@ -23,6 +23,7 @@ source_doc: jmbras-304-jin-stampofficerecords-2013-c34a0af9babd
 source_path: ../sources/jmbras-304-jin-stampofficerecords-2013-c34a0af9babd/frontmatter.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/24894162
 ---
 
 # The Stamp Office records, 1920s–1930s: a neglected database on Kedah’s propertied class

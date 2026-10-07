@@ -21,6 +21,7 @@ source_doc: jmalayanras-130-winstedt-mrbraddellsancient-1937-711a6cb52bfb
 source_path: ../sources/jmalayanras-130-winstedt-mrbraddellsancient-1937-711a6cb52bfb.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41559899
 ---
 
 # Mr. R. Braddell’s ancient times

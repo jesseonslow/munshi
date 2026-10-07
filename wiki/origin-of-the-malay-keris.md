@@ -21,6 +21,7 @@ source_doc: jmalayanras-132-woolley-originmalaykeris-1938-0d4151e61b2c
 source_path: ../sources/jmalayanras-132-woolley-originmalaykeris-1938-0d4151e61b2c.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41559922
 ---
 
 # Origin of the Malay keris

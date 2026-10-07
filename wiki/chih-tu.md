@@ -21,6 +21,7 @@ source_doc: jmalayanras-177-wheatley-chihtu-1957-88d8d3d84c82
 source_path: ../sources/jmalayanras-177-wheatley-chihtu-1957-88d8d3d84c82.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41503111
 ---
 
 # Ch’ih-t’u

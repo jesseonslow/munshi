@@ -21,6 +21,7 @@ source_doc: jsbras-030-r-calanthevestitalindl-1897-085359bd3f0c
 source_path: ../sources/jsbras-030-r-calanthevestitalindl-1897-085359bd3f0c.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41561593
 ---
 
 # Calanthe vestita Lindl. in Selangor

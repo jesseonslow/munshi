@@ -22,6 +22,7 @@ source_doc: jsbras-044-robinson-noteoccurrenceselangor-1905-ef303328b3a7
 source_path: ../sources/jsbras-044-robinson-noteoccurrenceselangor-1905-ef303328b3a7.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41561028
 ---
 
 # Note on the occurrence in Selangor of three vertebrates new to the Malay Peninsula

@@ -30,6 +30,7 @@ keywords:
 - business groups
 - Harrisons & Crosfield
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/10.2307/26527782
 ---
 
 # Managing agency capitalism and Malayan rubber: Harrisons & Crosfield, Ltd. (1900–1940

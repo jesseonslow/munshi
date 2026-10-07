@@ -21,6 +21,7 @@ source_doc: jmbras-319-lias-atchsumatra-2020-1300ef490fc3
 source_path: ../sources/jmbras-319-lias-atchsumatra-2020-1300ef490fc3.md
 summarized: true
 publication_type: translation
+jstor: https://www.jstor.org/stable/10.2307/27368672
 ---
 
 # Atché (Sumatra) [Aceh]. . Dyer; with a note P. Kratoska

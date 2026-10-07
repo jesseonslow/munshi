@@ -21,6 +21,7 @@ source_doc: jsbras-076-campbell-dietnutritionexcretion-1917-187a17387a85
 source_path: ../sources/jsbras-076-campbell-dietnutritionexcretion-1917-187a17387a85/frontmatter.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41561252
 ---
 
 # Diet, nutrition and excretion of the Asiatic races in Singapore

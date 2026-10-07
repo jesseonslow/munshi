@@ -21,6 +21,7 @@ source_doc: jsbras-076-winstedt-hindustaniloanwordsmalay-1917-394b932a0f2d
 source_path: ../sources/jsbras-076-winstedt-hindustaniloanwordsmalay-1917-394b932a0f2d.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41561253
 ---
 
 # Hindustani loan-words in Malay

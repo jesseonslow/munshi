@@ -22,6 +22,7 @@ source_doc: jmbras-247-riddell-sourcesabdalrafs-1984-f94362192466
 source_path: ../sources/jmbras-247-riddell-sourcesabdalrafs-1984-f94362192466/frontmatter.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41492986
 ---
 
 # The sources of Abd’ Al-Rauf ‘s Tarjumān Al-Mustafid

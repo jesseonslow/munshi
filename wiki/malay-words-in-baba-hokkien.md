@@ -22,6 +22,7 @@ source_doc: jmbras-276-seong-malaywordsbaba-1999-a5f89e01c09a
 source_path: ../sources/jmbras-276-seong-malaywordsbaba-1999-a5f89e01c09a/frontmatter.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41493379
 ---
 
 # Malay words in Baba Hokkien

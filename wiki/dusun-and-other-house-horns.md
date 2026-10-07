@@ -23,6 +23,7 @@ source_mismatch: true
 source_doc: jmalayanras-154-evans-dusunhousehorns-1951-7ee073ea23c7
 source_path: ../sources/jmalayanras-154-evans-dusunhousehorns-1951-7ee073ea23c7.md
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41502980
 ---
 
 # Dusun and other “house horns”

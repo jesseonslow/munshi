@@ -21,6 +21,7 @@ source_doc: jmalayanras-165-topley-chinesewomensvegetarian-1954-d79eb0ee2cdd
 source_path: ../sources/jmalayanras-165-topley-chinesewomensvegetarian-1954-d79eb0ee2cdd.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41486173
 ---
 
 # Chinese women’s vegetarian houses in Singapore

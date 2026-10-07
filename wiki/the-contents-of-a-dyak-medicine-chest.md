@@ -21,6 +21,7 @@ source_doc: jsbras-039-hose-contentsdyakmedicine-1903-e7a3246dbaa1
 source_path: ../sources/jsbras-039-hose-contentsdyakmedicine-1903-e7a3246dbaa1.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41560530
 ---
 
 # The contents of a Dyak medicine chest

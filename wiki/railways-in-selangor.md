@@ -21,6 +21,7 @@ source_doc: jmbras-207-sidhu-railwaysselangor18821886-1965-4cce0da1c386
 source_path: ../sources/jmbras-207-sidhu-railwaysselangor18821886-1965-4cce0da1c386.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41491837
 ---
 
 # Railways in Selangor

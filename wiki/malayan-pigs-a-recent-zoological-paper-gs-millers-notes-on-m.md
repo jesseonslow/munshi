@@ -23,6 +23,7 @@ source_doc: jsbras-049-kloss-malayanpigsrecent-1907-0a9cf3045442
 source_path: ../sources/jsbras-049-kloss-malayanpigsrecent-1907-0a9cf3045442.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41561171
 ---
 
 # Malayan pigs: a recent zoological paper. G.S. Miller’s notes on Malayan pigs

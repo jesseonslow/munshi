@@ -21,6 +21,7 @@ source_doc: jmbras-213-allen-ancienregimetrengganu-1968-e9b5aac4cce6
 source_path: ../sources/jmbras-213-allen-ancienregimetrengganu-1968-e9b5aac4cce6/allen-ancienregimetrengganu-1968.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41491932
 ---
 
 # The ancien regime in Trengganu, 1909–1919

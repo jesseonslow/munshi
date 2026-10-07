@@ -23,6 +23,7 @@ source_doc: jmbras-296-jianli-shiftingcultureidentity-2009-603add80551d
 source_path: ../sources/jmbras-296-jianli-shiftingcultureidentity-2009-603add80551d/frontmatter.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41493735
 ---
 
 # Shifting culture and identity: three portraits of Singapore entrepreneur Lee Kong Chian (1893–1967). Il

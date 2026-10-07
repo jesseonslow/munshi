@@ -21,6 +21,7 @@ source_doc: jmalayanras-142-rentse-originwayangtheatre-1947-88db39e9c046
 source_path: ../sources/jmalayanras-142-rentse-originwayangtheatre-1947-88db39e9c046.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41560000
 ---
 
 # The origin of the wayang theatre (shadow play

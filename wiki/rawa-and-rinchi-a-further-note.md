@@ -21,6 +21,7 @@ source_doc: jmbras-242-watson-rawarinchinote-1982-4114674750a0
 source_path: ../sources/jmbras-242-watson-rawarinchinote-1982-4114674750a0/frontmatter.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41492914
 ---
 
 # Rawa and Rinchi: a further note

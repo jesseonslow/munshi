@@ -21,6 +21,7 @@ source_doc: jmbras-226-sweeney-batutarsilahshort-1974-c40daa717ced
 source_path: ../sources/jmbras-226-sweeney-batutarsilahshort-1974-c40daa717ced.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41492094
 ---
 
 # Batu Tarsilah: a short comment

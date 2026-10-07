@@ -21,6 +21,7 @@ source_doc: jmbras-297-cheah-nyonyaneedleworkpenang-2009-4bb1e17073bd
 source_path: ../sources/jmbras-297-cheah-nyonyaneedleworkpenang-2009-4bb1e17073bd/frontmatter.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41493753
 ---
 
 # Nyonya needlework from Penang

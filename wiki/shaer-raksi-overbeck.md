@@ -22,6 +22,7 @@ source_doc: jmalayanras-088-overbeck-shaerraksi-1923-ec44161c81c1
 source_path: ../sources/jmalayanras-088-overbeck-shaerraksi-1923-ec44161c81c1.md
 summarized: true
 publication_type: translation
+jstor: https://www.jstor.org/stable/41585389
 ---
 
 # Shaer Raksi. . Overbeck

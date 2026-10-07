@@ -29,6 +29,7 @@ keywords:
 - May 13 riot
 - Malaysia
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/10.2307/26527800
 ---
 
 # Family narratives and abandoned monuments of the May 13 riot in the Sungai Buloh leprosarium

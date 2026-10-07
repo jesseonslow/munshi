@@ -21,6 +21,7 @@ source_doc: jmalayanras-100-majid-randomnotescurrent-1927-f529a5773cc7
 source_path: ../sources/jmalayanras-100-majid-randomnotescurrent-1927-f529a5773cc7.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/24249130
 ---
 
 # Random notes on current Malay beliefs

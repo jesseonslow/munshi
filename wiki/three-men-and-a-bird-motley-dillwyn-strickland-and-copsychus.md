@@ -23,6 +23,7 @@ source_doc: jmbras-304-laverty-threemenbird-2013-617aec53a038
 source_path: ../sources/jmbras-304-laverty-threemenbird-2013-617aec53a038/frontmatter.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/24894165
 ---
 
 # Three men and a bird – Motley, Dillwyn, Strickland, and Copsychus stricklandii – and an introduction to Bornean nature for Alfred Russel Wallace

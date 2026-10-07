@@ -21,6 +21,7 @@ source_doc: jmalayanras-087-chasen-largeorangutan-1923-f0f211f51c6e
 source_path: ../sources/jmalayanras-087-chasen-largeorangutan-1923-f0f211f51c6e.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41559553
 ---
 
 # A large orang-utan

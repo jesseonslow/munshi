@@ -21,6 +21,7 @@ source_doc: jmalayanras-111-rentse-kelantannamesbullocks-1931-1ec1eedb8bbd
 source_path: ../sources/jmalayanras-111-rentse-kelantannamesbullocks-1931-1ec1eedb8bbd.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41559779
 ---
 
 # Kelantan names for bullocks according to their colour

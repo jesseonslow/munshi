@@ -29,6 +29,7 @@ keywords:
 - A. R. Wallace
 - natural history
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/10.2307/26927985
 ---
 
 # Wallace’s help: the many people who aided A. R. Wallace in the Malay archipelago

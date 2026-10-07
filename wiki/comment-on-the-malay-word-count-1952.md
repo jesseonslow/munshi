@@ -21,6 +21,7 @@ source_doc: jmalayanras-173-manning-commentmalayword-1956-b855c8dad45b
 source_path: ../sources/jmalayanras-173-manning-commentmalayword-1956-b855c8dad45b.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41503197
 ---
 
 # Comment on the Malay word count, 1952

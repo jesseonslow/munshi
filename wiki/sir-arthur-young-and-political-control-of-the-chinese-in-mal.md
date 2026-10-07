@@ -25,6 +25,7 @@ source_mismatch: true
 source_doc: jmbras-247-yong-sirarthuryoung-1984-1deec2e433d3
 source_path: ../sources/jmbras-247-yong-sirarthuryoung-1984-1deec2e433d3.md
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41492982
 ---
 
 # Sir Arthur Young and political control of the Chinese in Malaya and the Straits Settlements

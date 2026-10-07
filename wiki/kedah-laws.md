@@ -21,6 +21,7 @@ source_doc: jmalayanras-103-winstedt-kedahlaws-1928-2d3d4b33583d
 source_path: ../sources/jmalayanras-103-winstedt-kedahlaws-1928-2d3d4b33583d/chapter-03.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41559697
 ---
 
 # Kedah laws

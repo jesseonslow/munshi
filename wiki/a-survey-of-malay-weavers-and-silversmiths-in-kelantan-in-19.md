@@ -21,6 +21,7 @@ source_doc: jmalayanras-158-gullick-surveymalayweavers-1952-1f71cf187352
 source_path: ../sources/jmalayanras-158-gullick-surveymalayweavers-1952-1f71cf187352/frontmatter.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41502938
 ---
 
 # A survey of Malay weavers and silversmiths in Kelantan in 1951

@@ -35,6 +35,7 @@ keywords:
 - Abdullah bin Abdul Kadir
 - Charles Wilkes
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/10.2307/27368662
 ---
 
 # Malay and Bugis manuscripts and early printed books at the Library of Congress: An Update

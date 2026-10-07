@@ -21,6 +21,7 @@ source_doc: jsbras-041-cameron-erratahymenopteracollected-1904-c57b8e586345
 source_path: ../sources/jsbras-041-cameron-erratahymenopteracollected-1904-c57b8e586345.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41561573
 ---
 
 # Malay Hymenoptera: addenda and corrections

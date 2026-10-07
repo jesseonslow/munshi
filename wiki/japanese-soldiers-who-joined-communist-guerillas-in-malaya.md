@@ -29,6 +29,7 @@ keywords:
 - Lai Teck
 - guerrilla warfare in Malaya.
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/10.2307/26527760
 ---
 
 # Japanese soldiers who joined communist guerillas in Malaya

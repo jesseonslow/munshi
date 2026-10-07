@@ -20,6 +20,7 @@ source_doc: jsbras-052-hewitt-tabucustomswarpath-1909-39747d989f47
 source_path: ../sources/jsbras-052-hewitt-tabucustomswarpath-1909-39747d989f47.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41561209
 ---
 
 # Tabu customs of the warpath amongst the Sea Dayaks of Sarawak

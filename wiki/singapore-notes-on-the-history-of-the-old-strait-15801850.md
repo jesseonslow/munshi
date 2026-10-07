@@ -21,6 +21,7 @@ source_doc: jmalayanras-165-gibsonhill-singaporenoteshistory-1954-904c66cec409
 source_path: ../sources/jmalayanras-165-gibsonhill-singaporenoteshistory-1954-904c66cec409/frontmatter.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41486179
 ---
 
 # Singapore: notes on the history of the old Strait, 1580–1850

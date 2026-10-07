@@ -21,6 +21,7 @@ source_doc: jmalayanras-164-gibsonhill-cambridgeuniversityexpedition-1953-c0dbf6
 source_path: ../sources/jmalayanras-164-gibsonhill-cambridgeuniversityexpedition-1953-c0dbf648fddc/frontmatter.md
 summarized: true
 publication_type: monograph
+jstor: https://www.jstor.org/stable/24249142
 ---
 
 # The stone age in Malaya. Monograph No. 1

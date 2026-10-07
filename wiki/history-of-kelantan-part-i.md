@@ -27,6 +27,7 @@ source_doc: jmalayanras-119-rentse-historykelantan-1934-4d2ef0c6ba3e
 source_path: ../sources/jmalayanras-119-rentse-historykelantan-1934-4d2ef0c6ba3e.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41559510
 ---
 
 # History of Kelantan, Part I

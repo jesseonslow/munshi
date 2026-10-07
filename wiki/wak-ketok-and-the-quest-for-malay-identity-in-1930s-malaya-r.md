@@ -37,6 +37,7 @@ keywords:
 - to be precise
 - the maker of](assets/p19_img0.jpg)
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/10.2307/26928001
 ---
 
 # Wak Ketok and the quest for Malay identity in 1930s Malaya. Razan Rosman and Sarena Abdullah

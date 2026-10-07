@@ -21,6 +21,7 @@ source_doc: jmalayanras-138-cardon-malaytradition-1940-27473f8855d2
 source_path: ../sources/jmalayanras-138-cardon-malaytradition-1940-27473f8855d2.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41559959
 ---
 
 # A Malay tradition

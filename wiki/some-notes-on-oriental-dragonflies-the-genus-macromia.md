@@ -21,6 +21,7 @@ source_doc: jsbras-085-laidlaw-notesorientaldragonflies-1922-02d695773e92
 source_path: ../sources/jsbras-085-laidlaw-notesorientaldragonflies-1922-02d695773e92.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41561416
 ---
 
 # Some notes on oriental dragonflies: the genus Macromia

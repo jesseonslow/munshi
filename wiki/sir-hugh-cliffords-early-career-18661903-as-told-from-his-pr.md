@@ -22,6 +22,7 @@ source_doc: jmbras-229-stockwell-sirhughcliffords-1976-cce57e6163df
 source_path: ../sources/jmbras-229-stockwell-sirhughcliffords-1976-cce57e6163df.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41492124
 ---
 
 # Sir Hugh Clifford’s early career (1866–1903) as told from his private papers

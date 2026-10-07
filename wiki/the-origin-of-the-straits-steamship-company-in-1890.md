@@ -21,6 +21,7 @@ source_doc: jmbras-208-tregonning-originstraitssteamship-1965-62de6bbd8827
 source_path: ../sources/jmbras-208-tregonning-originstraitssteamship-1965-62de6bbd8827.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41492227
 ---
 
 # The origin of the Straits Steamship Company in 1890

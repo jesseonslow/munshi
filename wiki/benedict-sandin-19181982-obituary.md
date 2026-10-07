@@ -20,6 +20,7 @@ published: false
 source_doc: jmbras-243-sather-benedictsandin-1982-fbe7e7265e9f
 source_path: ../sources/jmbras-243-sather-benedictsandin-1982-fbe7e7265e9f.md
 publication_type: obituary
+jstor: https://www.jstor.org/stable/41493619
 ---
 
 # Benedict Sandin, 1918–1982. Obituary

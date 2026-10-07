@@ -21,6 +21,7 @@ source_doc: jmalayanras-111-wilkinson-pngkalankmpsaint-1931-eca444c21916
 source_path: ../sources/jmalayanras-111-wilkinson-pngkalankmpsaint-1931-eca444c21916.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41559773
 ---
 
 # The Pengkalan Kempas “saint”

@@ -23,6 +23,7 @@ source_doc: jmbras-309-kheng-memoirrbalan-2015-88d38ac26c1d
 source_path: ../sources/jmbras-309-kheng-memoirrbalan-2015-88d38ac26c1d.md
 summarized: true
 publication_type: document
+jstor: https://www.jstor.org/stable/10.2307/26527717
 ---
 
 # An Article I Never Published: Memoir of R. Balan, vice-president of the Malayan Communist Party

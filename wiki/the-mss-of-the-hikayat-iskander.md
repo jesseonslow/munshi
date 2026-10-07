@@ -21,6 +21,7 @@ source_doc: jmalayanras-169-douglas-msshikayatiskandar-1955-058c04ac6dc9
 source_path: ../sources/jmalayanras-169-douglas-msshikayatiskandar-1955-058c04ac6dc9.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41503175
 ---
 
 # The MSS of the Hikayat Iskander

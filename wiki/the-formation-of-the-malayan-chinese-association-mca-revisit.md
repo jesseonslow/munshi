@@ -32,6 +32,7 @@ keywords:
 - Ong Chong Keng
 - © Malaysian Branch of the Royal Asiatic Society
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/10.2307/26527715
 ---
 
 # The formation of the Malayan Chinese Association (MCA) revisited

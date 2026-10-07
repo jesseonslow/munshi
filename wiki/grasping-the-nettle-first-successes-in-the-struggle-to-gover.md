@@ -24,6 +24,7 @@ source_mismatch: false
 source_doc: jmbras-211-jackson-graspingnettlefirst-1967-130e2db742f1
 source_path: ../sources/jmbras-211-jackson-graspingnettlefirst-1967-130e2db742f1.md
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41491910
 ---
 
 # Grasping the nettle: first successes in the struggle to govern the Chinese in Malaya

@@ -23,6 +23,7 @@ source_doc: jmbras-222-fookseng-malayprecedencefederal-1972-de8abd0fcac9
 source_path: ../sources/jmbras-222-fookseng-malayprecedencefederal-1972-de8abd0fcac9.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41492059
 ---
 
 # Malay precedence and the federal formula in the Federated Malay States, 1909 to 1939

@@ -21,6 +21,7 @@ source_doc: jsbras-050-kloss-visitsbatamisland-1908-5c5f69d5a745
 source_path: ../sources/jsbras-050-kloss-visitsbatamisland-1908-5c5f69d5a745.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41561690
 ---
 
 # Some visits to Batam Island

@@ -23,6 +23,7 @@ source_doc: jmalayanras-093-chasen-introductionaustralianscink-1925-0e0e051f4d04
 source_path: ../sources/jmalayanras-093-chasen-introductionaustralianscink-1925-0e0e051f4d04.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41560439
 ---
 
 # On the introduction of the Australian skink into Singapore Island. Records of the Raffles Museum, No. 12

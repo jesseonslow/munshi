@@ -23,6 +23,7 @@ source_doc: jsbras-075-winstedt-rarewordskutaha-1917-aab37a3e6793
 source_path: ../sources/jsbras-075-winstedt-rarewordskutaha-1917-aab37a3e6793.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41561247
 ---
 
 # Some rare words: kutaha, nakas, turap, teterapan, kop, biram, ganteh, Seri Menanti

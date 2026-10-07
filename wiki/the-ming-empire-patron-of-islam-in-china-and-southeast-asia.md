@@ -21,6 +21,7 @@ source_doc: jsbras-061-hanitsch-annualreportstraits-1912-1eff08288ffc
 source_path: ../sources/jsbras-061-hanitsch-annualreportstraits-1912-1eff08288ffc.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41561664
 ---
 
 # The Ming empire: patron of Islam in China and Southeast Asia

@@ -28,6 +28,7 @@ source_doc: jmbras-224-medway-amiquitydomesticatedpigs-1973-6f04be068c0c
 source_path: ../sources/jmbras-224-medway-amiquitydomesticatedpigs-1973-6f04be068c0c.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41492080
 ---
 
 # The antiquity of domesticated pigs in Sarawak

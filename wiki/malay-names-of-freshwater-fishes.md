@@ -21,6 +21,7 @@ source_doc: jmalayanras-158-tweedie-malaynamesfreshwater-1952-f01be44fefb3
 source_path: ../sources/jmalayanras-158-tweedie-malaynamesfreshwater-1952-f01be44fefb3.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41502934
 ---
 
 # Malay names of freshwater fishes

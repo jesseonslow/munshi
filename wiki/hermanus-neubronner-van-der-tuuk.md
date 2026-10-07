@@ -23,6 +23,7 @@ source_mismatch: false
 source_doc: jsbras-057-blagden-hermanusneubronnervan-1911-c011419ca519
 source_path: ../sources/jsbras-057-blagden-hermanusneubronnervan-1911-c011419ca519.md
 publication_type: note
+jstor: https://www.jstor.org/stable/41561125
 ---
 
 # Hermanus Neubronner Van Der Tuuk

@@ -23,6 +23,7 @@ source_doc: jmbras-319-rony-malaymanuscriptsearly-2020-5341cec6a0ca
 source_path: ../sources/jmbras-319-rony-malaymanuscriptsearly-2020-5341cec6a0ca.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/10.2307/27368661
 ---
 
 # Malay Manuscripts and early printed books at the Library of Congress. Facsimile reprint

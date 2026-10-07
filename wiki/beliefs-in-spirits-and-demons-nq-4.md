@@ -21,6 +21,7 @@ source_doc: jsbras-017-maxwell-sriramamalay-1886-3155502a26ab
 source_path: ../sources/jsbras-017-maxwell-sriramamalay-1886-3155502a26ab.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41607043
 ---
 
 # Beliefs in spirits and demons. NQ 4

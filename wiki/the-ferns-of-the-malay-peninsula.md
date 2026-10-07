@@ -22,6 +22,7 @@ source_mismatch: true
 source_doc: jmalayanras-096-ridley-fernsmalaypeninsula-1926-f0ee0da66f48
 source_path: ../sources/jmalayanras-096-ridley-fernsmalaypeninsula-1926-f0ee0da66f48.md
 publication_type: monograph
+jstor: https://www.jstor.org/stable/41559636
 ---
 
 # The ferns of the Malay Peninsula

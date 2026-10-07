@@ -21,6 +21,7 @@ source_doc: jmbras-279-gullick-dosdatosdialogue-2000-fbdbd964357f
 source_path: ../sources/jmbras-279-gullick-dosdatosdialogue-2000-fbdbd964357f/frontmatter.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41493426
 ---
 
 # DO’s and Dato’s: dialogue on the adat perpateh

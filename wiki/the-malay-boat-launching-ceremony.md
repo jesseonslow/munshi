@@ -22,6 +22,7 @@ source_doc: jmalayanras-154-bakar-malayboatlaunching-1951-b00e32121b6c
 source_path: ../sources/jmalayanras-154-bakar-malayboatlaunching-1951-b00e32121b6c.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41502987
 ---
 
 # The Malay boat launching ceremony

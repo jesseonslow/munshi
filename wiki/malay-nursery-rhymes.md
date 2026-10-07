@@ -21,6 +21,7 @@ published: false
 source_doc: jsbras-077-winstedt-malaynurseryrhymes-1917-47534215541c
 source_path: ../sources/jsbras-077-winstedt-malaynurseryrhymes-1917-47534215541c.md
 summarized: true
+jstor: https://www.jstor.org/stable/41561266
 ---
 # Malay nursery rhymes
 

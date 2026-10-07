@@ -21,6 +21,7 @@ source_doc: jsbras-026-wise-malingkoteborneojune-1894-9ba3f0f68671
 source_path: ../sources/jsbras-026-wise-malingkoteborneojune-1894-9ba3f0f68671.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41560854
 ---
 
 # The “Malingkote” in Borneo in June, 1891

@@ -29,6 +29,7 @@ keywords:
 - Hugh Low
 - Kong Loon Kongsi
 publication_type: translation
+jstor: https://www.jstor.org/stable/10.2307/26928067
 ---
 
 # Seven months in the tin country, Perak (Malacca Peninsula), 1881. . Dyer

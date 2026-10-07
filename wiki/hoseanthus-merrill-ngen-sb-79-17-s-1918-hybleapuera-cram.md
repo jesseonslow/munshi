@@ -22,6 +22,7 @@ source_mismatch: true
 source_doc: jsbras-079-ridley-hoseanthusmerrilln-1918-bda04c225a4c
 source_path: ../sources/jsbras-079-ridley-hoseanthusmerrilln-1918-bda04c225a4c.md
 publication_type: note
+jstor: https://www.jstor.org/stable/41561294
 ---
 
 # Hoseanthus Merrill, n.gen. SB 79: {17} S 1918 Hybleapuera Cram

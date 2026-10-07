@@ -21,6 +21,7 @@ source_doc: jsbras-016-hale-minesminerskinta-1885-e2d954e75487
 source_path: ../sources/jsbras-016-hale-minesminerskinta-1885-e2d954e75487.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41560759
 ---
 
 # On mines and miners in Kinta, Perak

@@ -22,6 +22,7 @@ source_mismatch: true
 source_doc: jmalayanras-165-gullick-waryamtuan-1954-ac46e2860431
 source_path: ../sources/jmalayanras-165-gullick-waryamtuan-1954-ac46e2860431.md
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41486170
 ---
 
 # The war with Yam Tuan Antah

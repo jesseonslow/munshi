@@ -22,6 +22,7 @@ source_doc: jmbras-278-candilio-sultanabubakar-2000-0b0fe0234ca5
 source_path: ../sources/jmbras-278-candilio-sultanabubakar-2000-0b0fe0234ca5/frontmatter.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41493411
 ---
 
 # Sultan Abu Bakar’s visit to the Italian king and to the Pope

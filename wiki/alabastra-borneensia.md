@@ -21,6 +21,7 @@ source_doc: jsbras-077-merrill-alabastraborneensia-1917-f735a454fdee
 source_path: ../sources/jsbras-077-merrill-alabastraborneensia-1917-f735a454fdee.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41561268
 ---
 
 # Alabastra borneensia

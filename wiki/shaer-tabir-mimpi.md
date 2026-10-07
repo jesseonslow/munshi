@@ -21,6 +21,7 @@ source_doc: jmalayanras-107-overbeck-shaertabirmimpi-1929-b571128406ea
 source_path: ../sources/jmalayanras-107-overbeck-shaertabirmimpi-1929-b571128406ea.md
 summarized: true
 publication_type: translation
+jstor: https://www.jstor.org/stable/41559734
 ---
 
 # Shaer Ta’bir Mimpi

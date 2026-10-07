@@ -23,6 +23,7 @@ source_doc: jmalayanras-169-johns-aspectssufithought-1955-3b0beb8566c8
 source_path: ../sources/jmalayanras-169-johns-aspectssufithought-1955-3b0beb8566c8.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41503169
 ---
 
 # Aspects of Sufi thought in India and Indonesia in the first half of the 17th century

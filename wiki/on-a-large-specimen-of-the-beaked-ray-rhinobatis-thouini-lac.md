@@ -23,6 +23,7 @@ source_doc: jmalayanras-097-smedley-largespecimenbeaked-1926-d70c9f486909
 source_path: ../sources/jmalayanras-097-smedley-largespecimenbeaked-1926-d70c9f486909.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41559666
 ---
 
 # On a large specimen of the beaked ray Rhinobatis thouini (Lacep.). Records of the Raffles Museum, No. 24

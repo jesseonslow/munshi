@@ -21,6 +21,7 @@ source_doc: jsbras-024-r-diamondsmalaypeninsula-1891-7fb52c30a88d
 source_path: ../sources/jsbras-024-r-diamondsmalaypeninsula-1891-7fb52c30a88d.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41561471
 ---
 
 # Diamonds in the Malay Peninsula

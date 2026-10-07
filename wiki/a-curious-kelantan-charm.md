@@ -21,6 +21,7 @@ source_doc: jsbras-082-gimlette-curiouskelantancharm-1920-0f405f8cf41b
 source_path: ../sources/jsbras-082-gimlette-curiouskelantancharm-1920-0f405f8cf41b.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41561338
 ---
 
 # A curious Kelantan charm

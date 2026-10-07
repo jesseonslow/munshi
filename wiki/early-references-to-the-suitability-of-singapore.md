@@ -21,6 +21,7 @@ source_doc: jmalayanras-095-wurtzburg-earlyreferencesuitability-1925-309bf03dea7
 source_path: ../sources/jmalayanras-095-wurtzburg-earlyreferencesuitability-1925-309bf03dea76.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41560450
 ---
 
 # Early references to the suitability of Singapore

@@ -21,6 +21,7 @@ source_doc: jsbras-004-maxwell-aboriginaltribesprak-1879-d00b9561dbb5
 source_path: ../sources/jsbras-004-maxwell-aboriginaltribesprak-1879-d00b9561dbb5.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41560635
 ---
 
 # The aboriginal tribes of Perak

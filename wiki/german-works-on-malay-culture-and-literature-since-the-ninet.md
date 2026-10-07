@@ -22,6 +22,7 @@ source_doc: jmbras-293-graf-germanworksmalay-2007-1ebad0d7cd07
 source_path: ../sources/jmbras-293-graf-germanworksmalay-2007-1ebad0d7cd07/frontmatter.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41493696
 ---
 
 # German works on Malay culture and literature since the nineteenth century

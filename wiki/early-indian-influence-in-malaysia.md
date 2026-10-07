@@ -22,6 +22,7 @@ source_mismatch: true
 source_doc: jmalayanras-122-wilkinson-earlyindianinfluence-1935-3bb40488e3fb
 source_path: ../sources/jmalayanras-122-wilkinson-earlyindianinfluence-1935-3bb40488e3fb.md
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41559837
 ---
 
 # Early Indian influence in Malaysia

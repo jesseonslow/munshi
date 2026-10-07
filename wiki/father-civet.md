@@ -21,6 +21,7 @@ source_doc: jsbras-050-winstedt-fathercivet-1908-379a122966d1
 source_path: ../sources/jsbras-050-winstedt-fathercivet-1908-379a122966d1.md
 summarized: true
 publication_type: translation
+jstor: https://www.jstor.org/stable/41561694
 ---
 
 # Father Civet

@@ -21,6 +21,7 @@ source_doc: jmalayanras-139-winstedt-slabgravesironimplements-1941-34c39faf0b72
 source_path: ../sources/jmalayanras-139-winstedt-slabgravesironimplements-1941-34c39faf0b72.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41559975
 ---
 
 # Slab-graves and iron implements

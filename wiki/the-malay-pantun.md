@@ -21,6 +21,7 @@ source_doc: jsbras-085-overbeck-malaypantun-1922-7bcb52ccc69d
 source_path: ../sources/jsbras-085-overbeck-malaypantun-1922-7bcb52ccc69d.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41561388
 ---
 
 # The Malay pantun

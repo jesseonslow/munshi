@@ -21,6 +21,7 @@ source_doc: jmalayanras-185-simmonds-archerysoutheast-1959-9ea71349e80d
 source_path: ../sources/jmalayanras-185-simmonds-archerysoutheast-1959-9ea71349e80d/frontmatter.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41503149
 ---
 
 # Archery in South-east Asia and the Pacific

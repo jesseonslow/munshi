@@ -22,6 +22,7 @@ source_doc: jmalayanras-113-overbeck-shardandanstia-1932-20399810d6ef
 source_path: ../sources/jmalayanras-113-overbeck-shardandanstia-1932-20399810d6ef.md
 summarized: true
 publication_type: translation
+jstor: https://www.jstor.org/stable/41587438
 ---
 
 # Shaer Dandan Setia

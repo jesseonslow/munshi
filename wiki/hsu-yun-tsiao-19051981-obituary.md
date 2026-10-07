@@ -20,6 +20,7 @@ published: false
 source_doc: jmbras-242-sheppard-hsuyuntsiao19051981-1982-665652b99810
 source_path: ../sources/jmbras-242-sheppard-hsuyuntsiao19051981-1982-665652b99810.md
 publication_type: obituary
+jstor: https://www.jstor.org/stable/41492919
 ---
 
 # Hsu-Yun-Tsiao, 1905–1981. Obituary

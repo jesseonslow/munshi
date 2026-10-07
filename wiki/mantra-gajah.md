@@ -21,6 +21,7 @@ source_doc: jsbras-049-maxwell-mantragajah-1907-13ba916fc009
 source_path: ../sources/jsbras-049-maxwell-mantragajah-1907-13ba916fc009.md
 summarized: true
 publication_type: document
+jstor: https://www.jstor.org/stable/41561172
 ---
 
 # Mantra gajah

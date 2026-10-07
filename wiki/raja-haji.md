@@ -21,6 +21,7 @@ source_doc: jsbras-022-maxwell-rajahaji-1890-779de5ccaa49
 source_path: ../sources/jsbras-022-maxwell-rajahaji-1890-779de5ccaa49.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41560786
 ---
 
 # Raja Haji

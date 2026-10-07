@@ -21,6 +21,7 @@ source_doc: jmbras-305-umar-melayuislamberaja-2013-bee9850728b0
 source_path: ../sources/jmbras-305-umar-melayuislamberaja-2013-bee9850728b0.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/10.2307/26527651
 ---
 
 # Melayu Islam Beraja

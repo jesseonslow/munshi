@@ -21,6 +21,7 @@ source_doc: jsbras-004-leech-kinta-1879-9d6bb9ee02f7
 source_path: ../sources/jsbras-004-leech-kinta-1879-9d6bb9ee02f7.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41560633
 ---
 
 # About Kinta

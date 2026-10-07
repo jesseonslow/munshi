@@ -21,6 +21,7 @@ source_doc: jmalayanras-090-stirling-chinesediviningblocks-1924-439179d40223
 source_path: ../sources/jmalayanras-090-stirling-chinesediviningblocks-1924-439179d40223.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41559576
 ---
 
 # Chinese divining blocks and the “pat kwa” or eight-sided diagram

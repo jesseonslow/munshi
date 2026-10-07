@@ -21,6 +21,7 @@ source_doc: jmbras-210-rawlins-frenchenterprisemalaya-1966-bf40055fbd26
 source_path: ../sources/jmbras-210-rawlins-frenchenterprisemalaya-1966-bf40055fbd26/frontmatter.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41491896
 ---
 
 # French enterprise in Malaya

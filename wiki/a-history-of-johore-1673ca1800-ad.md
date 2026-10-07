@@ -1,8 +1,8 @@
 ---
 id: a-history-of-johore-1673ca1800-ad
 work_id: jmbras-10-1-p164
-title: 'A history of Johore (1673–ca.1800 A.D.)'
-canonical_name: 'A history of Johore (1673–ca.1800 A.D.)'
+title: A history of Johore (1673–ca.1800 A.D.)
+canonical_name: A history of Johore (1673–ca.1800 A.D.)
 type: publication
 authors:
 - R.O. Winstedt
@@ -21,6 +21,7 @@ source_doc: jmalayanras-113-winstedt-historyjohore1673ca-1932-fb3a7515896f
 source_path: ../sources/jmalayanras-113-winstedt-historyjohore1673ca-1932-fb3a7515896f.md
 summarized: true
 publication_type: translation
+jstor: https://www.jstor.org/stable/41587442
 ---
 
 # A history of Johore (1673–ca.1800 A.D.)

@@ -21,6 +21,7 @@ source_doc: jmalayanras-122-furtado-diseaseangsanatree-1935-8df3c7af6f30
 source_path: ../sources/jmalayanras-122-furtado-diseaseangsanatree-1935-8df3c7af6f30/frontmatter.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41559845
 ---
 
 # A disease of the angsanatree

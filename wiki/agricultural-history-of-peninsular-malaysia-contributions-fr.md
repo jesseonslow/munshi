@@ -21,6 +21,7 @@ source_doc: jmbras-294-joseph-agriculturalhistorypeninsular-2008-675b06352b23
 source_path: ../sources/jmbras-294-joseph-agriculturalhistorypeninsular-2008-675b06352b23/frontmatter.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41493709
 ---
 
 # Agricultural history of Peninsular Malaysia: contributions from Indonesia

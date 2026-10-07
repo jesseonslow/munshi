@@ -23,6 +23,7 @@ source_doc: jmalayanras-117-winstedt-abduljalilsultanjohore-1933-f9d1fde3e71f
 source_path: ../sources/jmalayanras-117-winstedt-abduljalilsultanjohore-1933-f9d1fde3e71f.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41559809
 ---
 
 # Abdu’l-Jalil, Sultan of Johore (1699–1719), ‘Abdu’l-Jamal, Temenggong (ca. 1750) and Raffles’ founding of Singapore

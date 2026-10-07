@@ -21,6 +21,7 @@ source_doc: jsbras-038-ridley-malaytigerbeetles-1902-94bc5ec9e7d8
 source_path: ../sources/jsbras-038-ridley-malaytigerbeetles-1902-94bc5ec9e7d8.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41560520
 ---
 
 # Malay tiger-beetles

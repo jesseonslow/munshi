@@ -21,6 +21,7 @@ source_doc: jmalayanras-161-douglas-sabarasabana-1953-7a2cbce46730
 source_path: ../sources/jmalayanras-161-douglas-sabarasabana-1953-7a2cbce46730.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41502917
 ---
 
 # Sabara and sabana

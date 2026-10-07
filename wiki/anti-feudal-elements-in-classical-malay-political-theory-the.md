@@ -27,6 +27,7 @@ keywords:
 - Islamic feudalism
 - Taj al-Salatin*
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/10.2307/26927984
 ---
 
 # Anti-feudal elements in classical Malay political theory: the Taj al-Salatin

@@ -33,6 +33,7 @@ keywords:
 - sedentism
 - '<span id="page-125"></span> JEMBERANG: CROSSING THE STRAITS | 125'
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/10.2307/26928005
 ---
 
 # Jemberang and Alam Melayu: crossing the Straits of Melaka, Singapore and Riau

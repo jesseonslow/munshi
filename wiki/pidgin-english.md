@@ -21,6 +21,7 @@ source_doc: jsbras-002-dennys-pidginenglish-1878-a6e81dd2791e
 source_path: ../sources/jsbras-002-dennys-pidginenglish-1878-a6e81dd2791e.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41561483
 ---
 
 # “Pidgin” English

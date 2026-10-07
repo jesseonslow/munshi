@@ -21,6 +21,7 @@ source_doc: jmalayanras-165-gibsonhill-steamersemployedasian-1954-fa2ffa0c22cf
 source_path: ../sources/jmalayanras-165-gibsonhill-steamersemployedasian-1954-fa2ffa0c22cf/frontmatter.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41486178
 ---
 
 # The steamers employed in Asian waters, 1819–39

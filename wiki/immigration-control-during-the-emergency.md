@@ -28,6 +28,7 @@ keywords:
 - China
 - citizenship
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/10.2307/26527736
 ---
 
 # Immigration control during the Emergency

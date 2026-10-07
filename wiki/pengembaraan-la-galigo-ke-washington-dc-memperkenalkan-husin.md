@@ -31,6 +31,7 @@ keywords:
 - Abdullah bin Abdulkadir
 - Husin bin Ismail
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/10.2307/27368663
 ---
 
 # Pengembaraan La Galigo ke Washington D.C.: Memperkenalkan Husin bin Ismail [The La Galigo manuscripts in Washington D.C.: Introducing Husin bin Ismail

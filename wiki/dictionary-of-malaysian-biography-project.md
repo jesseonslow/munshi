@@ -21,6 +21,7 @@ source_doc: jmbras-245-dictionarymalaysianbiography-1983-00e3b776fa61
 source_path: ../sources/jmbras-245-dictionarymalaysianbiography-1983-00e3b776fa61.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41492960
 ---
 
 # Dictionary of Malaysian biography project

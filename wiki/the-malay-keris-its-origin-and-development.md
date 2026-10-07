@@ -21,6 +21,7 @@ source_doc: jmalayanras-143-woolley-malaykrisorigin-1947-a534d2672844
 source_path: ../sources/jmalayanras-143-woolley-malaykrisorigin-1947-a534d2672844.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41560030
 ---
 
 # The Malay keris: its origin and development

@@ -21,6 +21,7 @@ source_doc: jmalayanras-138-winstedt-malaytitles-1940-6e9fb172f65e
 source_path: ../sources/jmalayanras-138-winstedt-malaytitles-1940-6e9fb172f65e.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41559960
 ---
 
 # Malay titles

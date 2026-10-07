@@ -29,6 +29,7 @@ keywords:
 - reproduction of texts
 - book production
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/10.2307/27368659
 ---
 
 # Literary agents in the Malay World: Scribes and copyists

@@ -23,6 +23,7 @@ source_doc: jmbras-301-pakri-imperialpersonallegacy-2011-df111e872a3a
 source_path: ../sources/jmbras-301-pakri-imperialpersonallegacy-2011-df111e872a3a/frontmatter.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41493800
 ---
 
 # An imperial or a personal legacy? The rivalry of W.E. Maxwell and F.A. Swettenham in British Malaya

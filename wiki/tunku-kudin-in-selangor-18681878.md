@@ -21,6 +21,7 @@ source_doc: jmbras-251-gullick-tunkukudinselangor-1986-978cec9118ed
 source_path: ../sources/jmbras-251-gullick-tunkukudinselangor-1986-978cec9118ed.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41493048
 ---
 
 # Tunku Kudin in Selangor 1868–1878

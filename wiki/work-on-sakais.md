@@ -21,6 +21,7 @@ source_doc: jsbras-039-r-worksakaismessrs-1903-bcb95acc9313
 source_path: ../sources/jsbras-039-r-worksakaismessrs-1903-bcb95acc9313.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41560535
 ---
 
 # Work on Sakais

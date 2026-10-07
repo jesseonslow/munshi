@@ -21,6 +21,7 @@ source_doc: jmalayanras-126-woolley-muruthuntingcustoms-1936-d748b14ce872
 source_path: ../sources/jmalayanras-126-woolley-muruthuntingcustoms-1936-d748b14ce872.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41559871
 ---
 
 # Some Murut hunting customs

@@ -21,6 +21,7 @@ source_doc: jsbras-057-kloss-ratsplague-1911-6e45f26e5a25
 source_path: ../sources/jsbras-057-kloss-ratsplague-1911-6e45f26e5a25.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41561120
 ---
 
 # Rats and plague

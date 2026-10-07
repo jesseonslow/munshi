@@ -22,6 +22,7 @@ source_doc: jmbras-221-skinner-shaerkamponggelam-1972-54dc67315344
 source_path: ../sources/jmbras-221-skinner-shaerkamponggelam-1972-54dc67315344.md
 summarized: true
 publication_type: translation
+jstor: https://www.jstor.org/stable/41492385
 ---
 
 # Shaer Kampong Gelam Terbakar. . Skinner

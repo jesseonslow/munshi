@@ -21,6 +21,7 @@ source_doc: jsbras-001-pickering-chinesesecretsocieties-1878-030d43baa0f3
 source_path: ../sources/jsbras-001-pickering-chinesesecretsocieties-1878-030d43baa0f3.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41561448
 ---
 
 # Chinese secret societies and their origin

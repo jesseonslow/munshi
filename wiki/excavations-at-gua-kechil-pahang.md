@@ -21,6 +21,7 @@ source_doc: jmbras-216-medway-excavationsguakechil-1969-ccff6b291a3a
 source_path: ../sources/jmbras-216-medway-excavationsguakechil-1969-ccff6b291a3a/frontmatter.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41492000
 ---
 
 # Excavations at Gua Kechil, Pahang

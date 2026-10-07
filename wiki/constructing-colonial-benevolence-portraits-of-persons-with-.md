@@ -29,6 +29,7 @@ keywords:
 - May 13 riot
 - Malaysia
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/10.2307/26527800
 ---
 
 # Constructing Colonial Benevolence: Portraits of Persons with Leprosy in British Malaya

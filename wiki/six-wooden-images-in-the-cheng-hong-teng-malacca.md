@@ -21,6 +21,7 @@ source_doc: jmalayanras-169-gibsonhill-sixwoodenimages-1955-ba89cb5444f2
 source_path: ../sources/jmalayanras-169-gibsonhill-sixwoodenimages-1955-ba89cb5444f2.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41503179
 ---
 
 # Six wooden images in the Cheng Hong Teng, Malacca

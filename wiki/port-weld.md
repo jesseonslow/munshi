@@ -21,6 +21,7 @@ source_doc: wayte-portweld-1959-f623f537e964
 source_path: ../sources/wayte-portweld-1959
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41503151
 ---
 
 # Port Weld

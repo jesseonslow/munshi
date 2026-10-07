@@ -22,6 +22,7 @@ source_doc: jsbras-083-burkill-odoardobeccari-1921-a2bd2f157970
 source_path: ../sources/jsbras-083-burkill-odoardobeccari-1921-a2bd2f157970.md
 summarized: true
 publication_type: obituary
+jstor: https://www.jstor.org/stable/41561378
 ---
 
 # Odoardo Beccari

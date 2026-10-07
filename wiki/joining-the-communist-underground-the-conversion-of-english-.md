@@ -23,6 +23,7 @@ source_doc: jmbras-266-wah-joiningcommunistunderground-1994-e70f1d6f7c80
 source_path: ../sources/jmbras-266-wah-joiningcommunistunderground-1994-e70f1d6f7c80/frontmatter.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41493239
 ---
 
 # Joining the communist underground: the conversion of English-educated radicals to communism in Singapore

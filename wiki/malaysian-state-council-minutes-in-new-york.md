@@ -21,6 +21,7 @@ source_doc: jmbras-216-roff-malaysianstatecouncil-1969-f7a0a5d528b8
 source_path: ../sources/jmbras-216-roff-malaysianstatecouncil-1969-f7a0a5d528b8.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41492002
 ---
 
 # Malaysian State Council minutes in New York

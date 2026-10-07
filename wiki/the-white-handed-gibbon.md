@@ -21,6 +21,7 @@ source_doc: jsbras-050-kloss-whitehandedgibbon-1908-83bd90809bdd
 source_path: ../sources/jsbras-050-kloss-whitehandedgibbon-1908-83bd90809bdd.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41561692
 ---
 
 # The white-handed gibbon

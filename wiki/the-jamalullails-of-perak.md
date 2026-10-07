@@ -30,6 +30,7 @@ source_mismatch: false
 source_doc: jmbras-318-aznan-jamalullailsperak-2020-d13b89de9381
 source_path: ../sources/references.md
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/10.2307/26928063
 ---
 
 # The Jamalullails of Perak

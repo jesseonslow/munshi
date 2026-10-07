@@ -21,6 +21,7 @@ source_doc: jmalayanras-173-tregonning-matsallehrevolt-1956-18242fe9eaaf
 source_path: ../sources/jmalayanras-173-tregonning-matsallehrevolt-1956-18242fe9eaaf.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41503196
 ---
 
 # The Mat Salleh revolt (1894–1905

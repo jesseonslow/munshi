@@ -21,6 +21,7 @@ source_doc: jsbras-085-galloway-contributionpsychologylatah-1922-fa19cafc82a5
 source_path: ../sources/jsbras-085-galloway-contributionpsychologylatah-1922-fa19cafc82a5.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41561403
 ---
 
 # A contribution to the psychology of “latah”

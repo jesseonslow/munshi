@@ -21,6 +21,7 @@ source_doc: jmalayanras-119-overbeck-malayanimalflower-1934-f403391e3d53
 source_path: ../sources/jmalayanras-119-overbeck-malayanimalflower-1934-f403391e3d53.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41559514
 ---
 
 # Malay animal and flower shaers

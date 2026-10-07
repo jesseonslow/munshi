@@ -21,6 +21,7 @@ source_doc: jmbras-215-brown-malayannalschapter-1969-4dc6fc76bdb6
 source_path: ../sources/jmbras-215-brown-malayannalschapter-1969-4dc6fc76bdb6/chapter-01.md
 summarized: true
 publication_type: translation
+jstor: https://www.jstor.org/stable/41491960
 ---
 
 # Malay Annals, chapter III. .C. Brown

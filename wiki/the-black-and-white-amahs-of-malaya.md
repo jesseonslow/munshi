@@ -21,6 +21,7 @@ source_doc: jmbras-263-gin-domesticservantspar-1992-abed0d8ffe6f
 source_path: ../sources/jmbras-263-gin-domesticservantspar-1992-abed0d8ffe6f.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41493581
 ---
 
 # The black and white amahs of Malaya

@@ -23,6 +23,7 @@ source_doc: jmalayanras-158-topley-chineseritesrepose-1952-eee9a458f11d
 source_path: ../sources/jmalayanras-158-topley-chineseritesrepose-1952-eee9a458f11d.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41502939
 ---
 
 # Chinese rites for the repose of the soul; with special reference to Cantonese custom

@@ -23,6 +23,7 @@ source_doc: jmbras-280-warren-savagismcivilizationiranun-2001-cd1815208f77
 source_path: ../sources/jmbras-280-warren-savagismcivilizationiranun-2001-cd1815208f77/frontmatter.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41493440
 ---
 
 # Savagism and civilization: the Iranun, globalization and the literature of Joseph Conrad

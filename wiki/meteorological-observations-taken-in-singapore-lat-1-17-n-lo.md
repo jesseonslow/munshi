@@ -23,6 +23,7 @@ source_doc: jsbras-004-rowell-meteorologicalobservationstaken-1879-b4c1b5bc879c
 source_path: ../sources/jsbras-004-rowell-meteorologicalobservationstaken-1879-b4c1b5bc879c.md
 summarized: true
 publication_type: document
+jstor: https://www.jstor.org/stable/41560641
 ---
 
 # Meteorological observations taken in Singapore (Lat. 1° 17’ N. Long. 103° 51’ E.), during the year 1879

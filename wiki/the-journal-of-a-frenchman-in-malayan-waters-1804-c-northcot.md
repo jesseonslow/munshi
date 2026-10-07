@@ -23,6 +23,7 @@ source_doc: jmalayanras-158-parkinson-journalfrenchmanmalayan-1952-412071d6d522
 source_path: ../sources/jmalayanras-158-parkinson-journalfrenchmanmalayan-1952-412071d6d522.md
 summarized: true
 publication_type: translation
+jstor: https://www.jstor.org/stable/41502935
 ---
 
 # The journal of a Frenchman in Malayan waters, 1804; . C. Northcote Parkinson

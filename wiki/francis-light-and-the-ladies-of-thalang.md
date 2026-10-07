@@ -21,6 +21,7 @@ source_doc: jmbras-208-simmonds-francislightladies-1965-00f68ac00bd6
 source_path: ../sources/jmbras-208-simmonds-francislightladies-1965-00f68ac00bd6.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41492223
 ---
 
 # Francis Light and the ladies of Thalang

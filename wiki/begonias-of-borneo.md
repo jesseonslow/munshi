@@ -21,6 +21,7 @@ source_doc: jsbras-046-ridley-begoniasborneo-1906-7cded5dea3c2
 source_path: ../sources/jsbras-046-ridley-begoniasborneo-1906-7cded5dea3c2.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41561651
 ---
 
 # Begonias of Borneo

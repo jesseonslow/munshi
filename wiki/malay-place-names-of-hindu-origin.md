@@ -21,6 +21,7 @@ source_doc: jmalayanras-131-douglas-malayplacenames-1938-253530eb82d6
 source_path: ../sources/jmalayanras-131-douglas-malayplacenames-1938-253530eb82d6.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41559915
 ---
 
 # Malay place names of Hindu origin

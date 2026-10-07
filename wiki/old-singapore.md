@@ -21,6 +21,7 @@ source_doc: jmalayanras-122-wilkinson-oldsingapore-1935-89a4f0e870b6
 source_path: ../sources/jmalayanras-122-wilkinson-oldsingapore-1935-89a4f0e870b6.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41559838
 ---
 
 # Old Singapore

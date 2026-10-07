@@ -21,6 +21,7 @@ source_doc: jmalayanras-161-tweedie-objectstuigold-1953-4bacd6953c88
 source_path: ../sources/jmalayanras-161-tweedie-objectstuigold-1953-4bacd6953c88.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41502920
 ---
 
 # Objects from the Tui gold mine, Pahang

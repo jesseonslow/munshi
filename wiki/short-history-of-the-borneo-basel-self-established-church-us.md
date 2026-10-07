@@ -26,6 +26,7 @@ source_doc: jmbras-209-tregonning-introduction-1966-064b4ab42539
 source_path: ../sources/jmbras-209-tregonning-introduction-1966-064b4ab42539.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41491879
 ---
 
 # Short history of the Borneo Basel Self-established Church, usually called the Basel Mission, in North Borneo. In Tregonning, K.G. Two notes on Church history in Sabah

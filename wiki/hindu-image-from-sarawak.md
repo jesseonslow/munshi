@@ -21,6 +21,7 @@ source_doc: jsbras-085-moulton-hinduimagesarawak-1922-3ae1c6d3387f
 source_path: ../sources/jsbras-085-moulton-hinduimagesarawak-1922-3ae1c6d3387f.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41561408
 ---
 
 # Hindu image from Sarawak

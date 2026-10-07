@@ -21,6 +21,7 @@ source_doc: jmbras-250-horton-rajahcharlesbrooke-1986-daf3bad72bc2
 source_path: ../sources/jmbras-250-horton-rajahcharlesbrooke-1986-daf3bad72bc2.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41493035
 ---
 
 # Raja Brooke’s coal mining concession in Brunei

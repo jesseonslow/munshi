@@ -21,6 +21,7 @@ source_doc: jmalayanras-117-farrer-buddhisticpurificationceremony-1933-3fb52599b
 source_path: ../sources/jmalayanras-117-farrer-buddhisticpurificationceremony-1933-3fb52599b66c.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41559826
 ---
 
 # A Buddhist purification ceremony

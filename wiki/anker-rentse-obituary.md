@@ -20,6 +20,7 @@ published: false
 source_doc: jmalayanras-154-tweedie-obituaryankerrentse-1951-2f6430dbd818
 source_path: ../sources/jmalayanras-154-tweedie-obituaryankerrentse-1951-2f6430dbd818.md
 publication_type: obituary
+jstor: https://www.jstor.org/stable/41502991
 ---
 
 # Anker Rentse. Obituary

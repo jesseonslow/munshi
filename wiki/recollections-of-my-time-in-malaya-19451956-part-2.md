@@ -28,6 +28,7 @@ source_doc: jmbras-306-gullick-recollectionstimemalaya-2014-34ebb5fd99b9
 source_path: ../sources/jmbras-306-gullick-recollectionstimemalaya-2014-34ebb5fd99b9.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/10.2307/26527663
 ---
 
 # Recollections of my time in Malaya (1945–1956) Part 2

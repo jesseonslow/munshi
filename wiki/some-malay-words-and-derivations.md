@@ -21,6 +21,7 @@ source_doc: jmalayanras-119-maxwell-malaywordsderivations-1934-25acedc145e8
 source_path: ../sources/jmalayanras-119-maxwell-malaywordsderivations-1934-25acedc145e8.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41559521
 ---
 
 # Some Malay words and derivations

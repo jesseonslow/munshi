@@ -23,6 +23,7 @@ source_doc: jmbras-218-tarling-britainsarawaktwentieth-1970-1acc6acf2107
 source_path: ../sources/jmbras-218-tarling-britainsarawaktwentieth-1970-1acc6acf2107.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41492028
 ---
 
 # Britain and Sarawak in the twentieth century: Raja Charles, Raja Vyner and the Colonial Office

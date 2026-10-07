@@ -20,6 +20,7 @@ published: false
 source_doc: jmbras-244-wolff-obituaryproffessorjm-1983-ba958a269e3c
 source_path: ../sources/jmbras-244-wolff-obituaryproffessorjm-1983-ba958a269e3c.md
 publication_type: obituary
+jstor: https://www.jstor.org/stable/41492948
 ---
 
 # Obituary: J.M. Echols

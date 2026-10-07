@@ -21,6 +21,7 @@ source_doc: jmbras-307-wray-historicalarticle-2014-769a5d8dd5ed
 source_path: ../sources/jmbras-307-wray-historicalarticle-2014-769a5d8dd5ed.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/10.2307/26527675
 ---
 
 # Notes on rubber growing in Perak

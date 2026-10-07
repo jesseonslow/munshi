@@ -23,6 +23,7 @@ source_doc: jsbras-019-dew-exploringexpeditionselama-1887-18700eed2e4e
 source_path: ../sources/jsbras-019-dew-exploringexpeditionselama-1887-18700eed2e4e.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41607057
 ---
 
 # Exploring expedition from Selama, Perak, over the mountains to Pong, Patani, in November

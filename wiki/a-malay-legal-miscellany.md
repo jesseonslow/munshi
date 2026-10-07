@@ -23,6 +23,7 @@ source_mismatch: true
 source_doc: jmalayanras-158-kempe-malaylegalmiscellany-1952-b75975178807
 source_path: ../sources/jmalayanras-158-kempe-malaylegalmiscellany-1952-b75975178807.md
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41502929
 ---
 
 # A Malay legal miscellany

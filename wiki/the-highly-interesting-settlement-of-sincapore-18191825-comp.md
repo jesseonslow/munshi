@@ -22,6 +22,7 @@ source_doc: jmbras-316-documentssingaporehistory-2019-89362cce5cf3
 source_path: ../sources/jmbras-316-documentssingaporehistory-2019-89362cce5cf3.md
 summarized: true
 publication_type: document
+jstor: https://www.jstor.org/stable/10.2307/26928026
 ---
 
 # The “highly interesting” settlement of “Sincapore”, 1819–1825. Comp. P.H. Kratoska

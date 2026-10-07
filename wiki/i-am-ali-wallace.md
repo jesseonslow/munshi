@@ -34,6 +34,7 @@ source_mismatch: false
 source_doc: jmbras-308-wyhe-ialiwallace-2015-92795a8d2138
 source_path: ../sources/references.md
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/10.2307/26527691
 ---
 
 # ‘I am Ali Wallace‘: The Malay Assistant of Alfred Russel Wallace

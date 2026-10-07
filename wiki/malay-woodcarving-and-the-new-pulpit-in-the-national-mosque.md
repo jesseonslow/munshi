@@ -21,6 +21,7 @@ source_doc: jmbras-266-sheppard-malaywoodcarvingnew-1994-9826700d79d9
 source_path: ../sources/jmbras-266-sheppard-malaywoodcarvingnew-1994-9826700d79d9.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41493244
 ---
 
 # Malay woodcarving and the new pulpit in the National Mosque

@@ -21,6 +21,7 @@ source_doc: jsbras-037-waterstradt-kelantantripgunong-1902-b1e9725f3873
 source_path: ../sources/jsbras-037-waterstradt-kelantantripgunong-1902-b1e9725f3873.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41560977
 ---
 
 # A visit to Siraf: an ancient port in the Persian Gulf

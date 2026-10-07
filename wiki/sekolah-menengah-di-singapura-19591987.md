@@ -21,6 +21,7 @@ source_doc: jmbras-278-abdullah-sekolahmenengahmelayu-2000-6fd9c39869f5
 source_path: ../sources/jmbras-278-abdullah-sekolahmenengahmelayu-2000-6fd9c39869f5.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41493410
 ---
 
 # Sekolah menengah di Singapura 1959–1987

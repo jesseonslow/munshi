@@ -22,6 +22,7 @@ published: false
 source_doc: jmbras-233-sheppard-gratefulmemorytan-1978-d54d13999373
 source_path: ../sources/jmbras-233-sheppard-gratefulmemorytan-1978-d54d13999373.md
 publication_type: index
+jstor: https://www.jstor.org/stable/41492182
 ---
 
 # An index to Journals nos. 1 to 50 of the Straits Branch of the Royal Asiatic Society and to Notes and Queries I to IV

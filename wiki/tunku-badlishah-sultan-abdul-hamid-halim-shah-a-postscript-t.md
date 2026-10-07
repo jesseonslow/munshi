@@ -31,6 +31,7 @@ keywords:
 - Onn bin Jaafar
 - Tunku Abdul Rahman Putra
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/10.2307/27368666
 ---
 
 # Tunku Badlishah Sultan Abdul Hamid Halim Shah, a postscript to the BangkokKedah personalised relations

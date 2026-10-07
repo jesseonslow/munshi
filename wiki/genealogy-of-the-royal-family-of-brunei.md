@@ -21,6 +21,7 @@ source_doc: jsbras-015-treacher-genealogyroyalfamily-1885-438eda96b089
 source_path: ../sources/jsbras-015-treacher-genealogyroyalfamily-1885-438eda96b089.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41560738
 ---
 
 # Genealogy of the royal family of Brunei

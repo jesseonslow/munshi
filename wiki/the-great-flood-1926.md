@@ -21,6 +21,7 @@ source_doc: jmalayanras-100-winstedt-greatflood1926-1927-a0bcae5aa078
 source_path: ../sources/jmalayanras-100-winstedt-greatflood1926-1927-a0bcae5aa078.md
 summarized: true
 publication_type: document
+jstor: https://www.jstor.org/stable/24249117
 ---
 
 # The great flood 1926

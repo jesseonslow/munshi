@@ -20,6 +20,7 @@ published: false
 source_doc: jmalayanras-142-winstedt-obituaryrichardjames-1947-b77828e58243
 source_path: ../sources/jmalayanras-142-winstedt-obituaryrichardjames-1947-b77828e58243.md
 publication_type: obituary
+jstor: https://www.jstor.org/stable/41560011
 ---
 
 # Richard James Wilkinson: Obituary

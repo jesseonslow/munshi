@@ -23,6 +23,7 @@ source_doc: jmbras-285-drabble-technologytransfersingaporemalaya-2003-38db16011c
 source_path: ../sources/jmbras-285-drabble-technologytransfersingaporemalaya-2003-38db16011c24/frontmatter.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41493499
 ---
 
 # Technology transfer in Singapore/Malaya during the colonial period: some further comments

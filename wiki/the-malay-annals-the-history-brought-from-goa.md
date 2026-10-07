@@ -21,6 +21,7 @@ source_doc: jmalayanras-173-gibsonhill-malayannalshistory-1956-f0e62924da65
 source_path: ../sources/jmalayanras-173-gibsonhill-malayannalshistory-1956-f0e62924da65.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41503208
 ---
 
 # The Malay Annals: the history brought from Goa

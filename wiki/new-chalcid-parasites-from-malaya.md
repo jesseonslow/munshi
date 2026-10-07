@@ -21,6 +21,7 @@ source_doc: jsbras-080-girault-newchalcidparasites-1919-dfec5f393985
 source_path: ../sources/jsbras-080-girault-newchalcidparasites-1919-dfec5f393985.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41561318
 ---
 
 # New Chalcid parasites from Malaya

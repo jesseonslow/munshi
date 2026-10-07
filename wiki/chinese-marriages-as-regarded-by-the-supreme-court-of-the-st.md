@@ -22,6 +22,7 @@ source_doc: jsbras-083-braddell-chinesemarriagesregarded-1921-f08c151426a6
 source_path: ../sources/jsbras-083-braddell-chinesemarriagesregarded-1921-f08c151426a6.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41561377
 ---
 
 # Chinese marriages, as regarded by the Supreme Court of the Straits Settlements

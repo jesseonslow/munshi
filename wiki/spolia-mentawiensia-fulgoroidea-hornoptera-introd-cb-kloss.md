@@ -21,6 +21,7 @@ source_doc: jmalayanras-098-muir-spoliamentawiensiafulgoroidea-1926-4dcc80f06e9c
 source_path: ../sources/jmalayanras-098-muir-spoliamentawiensiafulgoroidea-1926-4dcc80f06e9c.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41559679
 ---
 
 # Spolia mentawiensia. Fulgoroidea. Hornoptera. Introd. C.B. Kloss

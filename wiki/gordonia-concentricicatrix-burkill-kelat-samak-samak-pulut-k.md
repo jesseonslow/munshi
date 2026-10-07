@@ -23,6 +23,7 @@ source_doc: jsbras-078-cubitt-gordoniaconcentricicatrixburkill-1918-cd50e450e8de
 source_path: ../sources/jsbras-078-cubitt-gordoniaconcentricicatrixburkill-1918-cd50e450e8de.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41561284
 ---
 
 # Gordonia concentricicatrix, Burkill (kelat samak, samak pulut, kelat merah – Malay

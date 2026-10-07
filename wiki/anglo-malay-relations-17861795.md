@@ -21,6 +21,7 @@ source_doc: jmbras-208-bassett-anglomalayrelations17861795-1965-5d9610bccac6
 source_path: ../sources/jmbras-208-bassett-anglomalayrelations17861795-1965-5d9610bccac6.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41492222
 ---
 
 # Anglo-Malay relations, 1786–1795

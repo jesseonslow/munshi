@@ -22,6 +22,7 @@ source_doc: jmbras-205-bastin-oldpenangtombstones-1964-9ac6ce433634
 source_path: ../sources/jmbras-205-bastin-oldpenangtombstones-1964-9ac6ce433634/index.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41491818
 ---
 
 # Some old Penang tombstones. C. Bastin and J. Bastin

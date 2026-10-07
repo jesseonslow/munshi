@@ -21,6 +21,7 @@ source_doc: jmbras-297-leng-penangcommercialcentre-2009-c0cd248f854a
 source_path: ../sources/jmbras-297-leng-penangcommercialcentre-2009-c0cd248f854a/frontmatter.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41493747
 ---
 
 # Penang as commercial centre: trade and shipping networks

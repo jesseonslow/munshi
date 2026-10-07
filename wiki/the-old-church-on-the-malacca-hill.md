@@ -27,6 +27,7 @@ source_doc: jmalayanras-143-cardon-oldchurchmalacca-1947-6c49605d9ddf
 source_path: ../sources/jmalayanras-143-cardon-oldchurchmalacca-1947-6c49605d9ddf.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41560038
 ---
 
 # The old church on the Malacca hill

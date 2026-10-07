@@ -21,6 +21,7 @@ source_doc: jmbras-310-keyser-floodtriangvalley-2016-47b3aaa96472
 source_path: ../sources/jmbras-310-keyser-floodtriangvalley-2016-47b3aaa96472.md
 summarized: true
 publication_type: document
+jstor: https://www.jstor.org/stable/10.2307/26527744
 ---
 
 # A flood in the Triang valley in December 1896

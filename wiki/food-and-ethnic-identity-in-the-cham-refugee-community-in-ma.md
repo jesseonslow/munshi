@@ -29,6 +29,7 @@ keywords:
 - Cambodian refugees
 - Vietnamese refugees
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/10.2307/27368668
 ---
 
 # Food and ethnic identity in the Cham refugee community in Malaysia

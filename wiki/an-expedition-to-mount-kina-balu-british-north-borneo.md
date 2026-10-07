@@ -21,6 +21,7 @@ source_doc: jsbras-034-hanitsch-expeditionmountkina-1900-106a4bbbdf00
 source_path: ../sources/jsbras-034-hanitsch-expeditionmountkina-1900-106a4bbbdf00.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41560944
 ---
 
 # An expedition to Mount Kina Balu, British North Borneo

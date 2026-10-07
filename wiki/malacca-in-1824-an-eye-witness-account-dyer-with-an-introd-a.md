@@ -27,6 +27,7 @@ keywords:
 - French in Asia
 - Dutch in Asia*
 publication_type: translation
+jstor: https://www.jstor.org/stable/10.2307/26527786
 ---
 
 # Malacca in 1824: an eye-witness account. . Dyer; with an introd. and notes

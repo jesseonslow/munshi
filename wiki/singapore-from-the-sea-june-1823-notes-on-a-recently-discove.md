@@ -23,6 +23,7 @@ source_doc: jmalayanras-161-pearson-singaporeseajune-1953-58a52a2cd4f6
 source_path: ../sources/jmalayanras-161-pearson-singaporeseajune-1953-58a52a2cd4f6/frontmatter.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41502903
 ---
 
 # Singapore from the sea, June 1823: notes on a recently discovered sketch attributed to Lt. Philip Jackson

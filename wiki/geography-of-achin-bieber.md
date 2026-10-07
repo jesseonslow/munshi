@@ -21,6 +21,7 @@ source_doc: jsbras-003-bieber-geographyachin-1879-9f970b79a877
 source_path: ../sources/jsbras-003-bieber-geographyachin-1879-9f970b79a877.md
 summarized: true
 publication_type: translation
+jstor: https://www.jstor.org/stable/41561507
 ---
 
 # Geography of Achin. . Bieber

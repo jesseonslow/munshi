@@ -27,6 +27,7 @@ source_doc: jmalayanras-156-linehan-kramatsribnian-1951-efd7ac4052c3
 source_path: ../sources/jmalayanras-156-linehan-kramatsribnian-1951-efd7ac4052c3.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41503010
 ---
 
 # Keramat Seri Benian

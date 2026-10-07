@@ -23,6 +23,7 @@ source_doc: jmalayanras-092-laidlaw-surveydragonflyfauna-1924-bf0b1883c108
 source_path: ../sources/jmalayanras-092-laidlaw-surveydragonflyfauna-1924-bf0b1883c108.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41559594
 ---
 
 # A survey of the dragonfly fauna of the Malay Peninsula, with notes on that of neighbouring countries. Part II

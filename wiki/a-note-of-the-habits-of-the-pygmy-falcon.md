@@ -21,6 +21,7 @@ source_doc: jmalayanras-088-laidlaw-notehabitspygmy-1923-c59dba79fed4
 source_path: ../sources/jmalayanras-088-laidlaw-notehabitspygmy-1923-c59dba79fed4.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41585397
 ---
 
 # A note of the habits of the pygmy falcon

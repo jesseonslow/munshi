@@ -21,6 +21,7 @@ source_doc: jmalayanras-117-rentse-notesmalaybeliefs-1933-494e29446ae1
 source_path: ../sources/jmalayanras-117-rentse-notesmalaybeliefs-1933-494e29446ae1.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41559822
 ---
 
 # Notes on Malay beliefs

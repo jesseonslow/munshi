@@ -21,6 +21,7 @@ source_doc: jmbras-313-weld-visitindependentstates-2017-fe39410b4053
 source_path: ../sources/jmbras-313-weld-visitindependentstates-2017-fe39410b4053.md
 summarized: true
 publication_type: document
+jstor: https://www.jstor.org/stable/10.2307/26527807
 ---
 
 # Visit to independent states in the vicinity of Malacca

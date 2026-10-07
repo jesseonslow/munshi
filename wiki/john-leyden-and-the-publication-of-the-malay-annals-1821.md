@@ -21,6 +21,7 @@ source_doc: jmbras-283-bastin-johnleydenpublication-2002-1e301cf05bbb
 source_path: ../sources/jmbras-283-bastin-johnleydenpublication-2002-1e301cf05bbb.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41493475
 ---
 
 # John Leyden and the publication of the Malay Annals (1821

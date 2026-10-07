@@ -21,6 +21,7 @@ source_doc: jmalayanras-156-braddell-arikameduoco-1951-fa1e67940773
 source_path: ../sources/jmalayanras-156-braddell-arikameduoco-1951-fa1e67940773.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41503012
 ---
 
 # Arikamedu and Oc-eo

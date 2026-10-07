@@ -28,6 +28,7 @@ keywords:
 - mourning
 - memory
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/10.2307/26527742
 ---
 
 # Minority voices and dominant structures: the case of Amos Yee

@@ -21,6 +21,7 @@ source_doc: jmalayanras-092-cowgill-chineseplacenames-1924-351d2b3c6129
 source_path: ../sources/jmalayanras-092-cowgill-chineseplacenames-1924-351d2b3c6129.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41559587
 ---
 
 # Chinese place-names in Johore

@@ -21,6 +21,7 @@ source_doc: jmalayanras-088-winstedt-malaymysticsheretical-1923-dae899b8f365
 source_path: ../sources/jmalayanras-088-winstedt-malaymysticsheretical-1923-dae899b8f365.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41585391
 ---
 
 # Some Malay mystics, heretical and orthodox

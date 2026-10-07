@@ -21,6 +21,7 @@ source_doc: jmalayanras-142-keith-megalithicremainsnorth-1947-f15be1339c8d
 source_path: ../sources/jmalayanras-142-keith-megalithicremainsnorth-1947-f15be1339c8d/frontmatter.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41560013
 ---
 
 # Megalithic remains in North Borneo

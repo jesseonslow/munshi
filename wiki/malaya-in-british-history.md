@@ -21,6 +21,7 @@ source_doc: jmbras-256-tarling-malayabritishhistory-1989-0be0e2891097
 source_path: ../sources/jmbras-256-tarling-malayabritishhistory-1989-0be0e2891097.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41493624
 ---
 
 # Malaya in British history

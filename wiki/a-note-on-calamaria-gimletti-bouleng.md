@@ -21,6 +21,7 @@ source_doc: jmalayanras-107-sworder-notecalamariagimletti-1929-1fd36012480e
 source_path: ../sources/jmalayanras-107-sworder-notecalamariagimletti-1929-1fd36012480e.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41559733
 ---
 
 # A note on Calamaria gimletti Bouleng

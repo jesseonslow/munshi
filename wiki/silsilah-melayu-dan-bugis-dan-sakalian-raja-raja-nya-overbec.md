@@ -22,6 +22,7 @@ source_doc: jmalayanras-098-overbeck-silsilahmelayudan-1926-5b9ed78bc37e
 source_path: ../sources/jmalayanras-098-overbeck-silsilahmelayudan-1926-5b9ed78bc37e.md
 summarized: true
 publication_type: translation
+jstor: https://www.jstor.org/stable/41559676
 ---
 
 # Silsilah Melayu dan Bugis dan Sakalian Raja-raja-nya. . Overbeck

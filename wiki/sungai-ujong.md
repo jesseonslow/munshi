@@ -21,6 +21,7 @@ source_doc: jsbras-083-wilkinson-sungaiujong-1921-5388b8c3d6bc
 source_path: ../sources/jsbras-083-wilkinson-sungaiujong-1921-5388b8c3d6bc.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41561373
 ---
 
 # Sungai Ujong

@@ -20,6 +20,7 @@ published: false
 source_doc: jmbras-305-laffan-williamrroff-2013-75de5cb94a14
 source_path: ../sources/jmbras-305-laffan-williamrroff-2013-75de5cb94a14.md
 publication_type: obituary
+jstor: https://www.jstor.org/stable/10.2307/26527649
 ---
 
 # William R. Roff (1929–2013). Obituary

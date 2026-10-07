@@ -22,6 +22,7 @@ source_mismatch: false
 source_doc: jsbras-060-maxwell-barrettoderesendes-1911-71476915223f
 source_path: ../sources/jsbras-060-maxwell-barrettoderesendes-1911-71476915223f.md
 publication_type: translation
+jstor: https://www.jstor.org/stable/41561139
 ---
 
 # Barrretto de Resende’s account of Malacca

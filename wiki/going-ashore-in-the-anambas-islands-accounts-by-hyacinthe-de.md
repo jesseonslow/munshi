@@ -30,6 +30,7 @@ keywords:
 - Malay World
 - French in Asia
 publication_type: translation
+jstor: https://www.jstor.org/stable/10.2307/26928007
 ---
 
 # Going ashore in the Anambas Islands: accounts by Hyacinthe de Bougainville and Cyrille Laplace in 1825 and 1831. . Dyer; with an introd. and notes

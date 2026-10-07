@@ -21,6 +21,7 @@ source_doc: jsbras-049-elcum-malaychess-1907-2f0252a0d515
 source_path: ../sources/jsbras-049-elcum-malaychess-1907-2f0252a0d515.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41561173
 ---
 
 # Malay chess

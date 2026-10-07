@@ -21,6 +21,7 @@ source_doc: jmbras-209-peacock-malaya-1966-3fd580218e92
 source_path: ../sources/jmbras-209-peacock-malaya-1966-3fd580218e92.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41491888
 ---
 
 # Recent archaeological discoveries in Malaysia 1965: Malaya

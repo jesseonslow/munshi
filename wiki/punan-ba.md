@@ -21,6 +21,7 @@ source_doc: jmalayanras-169-needham-punanba-1955-32281ccc0f80
 source_path: ../sources/jmalayanras-169-needham-punanba-1955-32281ccc0f80/frontmatter.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41503166
 ---
 
 # Punan Ba

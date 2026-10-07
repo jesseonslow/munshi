@@ -21,6 +21,7 @@ source_doc: jmalayanras-149-hill-weavingindustrytrengganu-1949-6034be559e1a
 source_path: ../sources/jmalayanras-149-hill-weavingindustrytrengganu-1949-6034be559e1a.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41560097
 ---
 
 # The weaving industry in Trengganu

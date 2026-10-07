@@ -22,6 +22,7 @@ source_doc: jmalayanras-096-maxwell-cameronshighlands-1926-af998030bae5
 source_path: ../sources/jmalayanras-096-maxwell-cameronshighlands-1926-af998030bae5.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41559637
 ---
 
 # Cameron’s Highlands

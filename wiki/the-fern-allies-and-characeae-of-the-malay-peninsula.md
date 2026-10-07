@@ -21,6 +21,7 @@ source_doc: jsbras-080-ridley-fernalliescharaceaemalay-1919-a12de40ef569
 source_path: ../sources/jsbras-080-ridley-fernalliescharaceaemalay-1919-a12de40ef569.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41561317
 ---
 
 # The fern-allies and Characeae of the Malay Peninsula

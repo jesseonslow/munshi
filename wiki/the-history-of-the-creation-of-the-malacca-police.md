@@ -21,6 +21,7 @@ source_doc: jmalayanras-140-dickinson-historycreationmalacca-1941-50c672f776b1
 source_path: ../sources/jmalayanras-140-dickinson-historycreationmalacca-1941-50c672f776b1/frontmatter.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41560470
 ---
 
 # The history of the creation of the Malacca police

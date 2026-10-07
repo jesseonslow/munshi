@@ -21,6 +21,7 @@ source_doc: jsbras-077-burkill-plethiandrasahebiinew-1917-b085dd6df3c7
 source_path: ../sources/jsbras-077-burkill-plethiandrasahebiinew-1917-b085dd6df3c7.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41561274
 ---
 
 # Plethiandra sahebii, a new Melastomacea from Sarawak, described

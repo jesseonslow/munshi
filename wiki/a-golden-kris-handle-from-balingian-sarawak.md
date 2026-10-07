@@ -21,6 +21,7 @@ source_doc: jmbras-209-harrisson-goldenkerishandle-1966-3dd810e78d79
 source_path: ../sources/jmbras-209-harrisson-goldenkerishandle-1966-3dd810e78d79.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41491883
 ---
 
 # A golden kris handle from Balingian, Sarawak

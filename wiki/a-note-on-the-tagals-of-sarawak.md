@@ -21,6 +21,7 @@ source_doc: jsbras-085-andreini-notetagalssarawak-1922-7d9abf3dadfb
 source_path: ../sources/jsbras-085-andreini-notetagalssarawak-1922-7d9abf3dadfb.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41561415
 ---
 
 # A note on the Tagals of Sarawak

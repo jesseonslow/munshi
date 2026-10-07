@@ -21,6 +21,7 @@ source_doc: jmalayanras-113-woolley-imurutbasketwork-1932-556adbe9931b
 source_path: ../sources/jmalayanras-113-woolley-imurutbasketwork-1932-556adbe9931b.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41587430
 ---
 
 # Murut basketwork

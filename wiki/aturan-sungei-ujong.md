@@ -21,6 +21,7 @@ source_doc: jsbras-028-bland-aturansungeiujong-1895-7e9e090c0959
 source_path: ../sources/jsbras-028-bland-aturansungeiujong-1895-7e9e090c0959.md
 summarized: true
 publication_type: document
+jstor: https://www.jstor.org/stable/41561556
 ---
 
 # Aturan Sungei Ujong

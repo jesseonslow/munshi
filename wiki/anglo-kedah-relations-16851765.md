@@ -21,6 +21,7 @@ source_doc: jsbras-062-sturrock-noteskelantandialect-1912-1ff970a82140
 source_path: ../sources/jsbras-062-sturrock-noteskelantandialect-1912-1ff970a82140.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41561157
 ---
 
 # Anglo-Kedah relations 1685–1765

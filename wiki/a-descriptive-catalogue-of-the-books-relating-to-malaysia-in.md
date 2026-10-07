@@ -31,6 +31,7 @@ keywords:
 - Onn bin Jaafar
 - Tunku Abdul Rahman Putra
 publication_type: index
+jstor: https://www.jstor.org/stable/10.2307/27368666
 ---
 
 # A descriptive catalogue of the books relating to Malaysia in the Raffles Museum & Library, Singapore

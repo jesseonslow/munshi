@@ -27,6 +27,7 @@ source_doc: jmalayanras-142-blythe-historicalsketchchinese-1947-44cc305cc4c2
 source_path: ../sources/jmalayanras-142-blythe-historicalsketchchinese-1947-44cc305cc4c2.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41560006
 ---
 
 # Historical sketch of Chinese labour in Malaya

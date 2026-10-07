@@ -23,6 +23,7 @@ source_doc: jmbras-301-warnk-romanticismcolonialpragmatics-2011-3771fee01102
 source_path: ../sources/jmbras-301-warnk-romanticismcolonialpragmatics-2011-3771fee01102/frontmatter.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41493802
 ---
 
 # From romanticism to colonial pragmatics: Malay language and literature studies in Germany 1800‒1945

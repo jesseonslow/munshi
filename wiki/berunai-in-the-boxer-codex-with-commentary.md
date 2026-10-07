@@ -22,6 +22,7 @@ source_mismatch: false
 source_doc: jmbras-243-carroll-berunaiboxercodex-1982-78f57b3bc631
 source_path: ../sources/jmbras-243-carroll-berunaiboxercodex-1982-78f57b3bc631.md
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41493606
 ---
 
 # Berunai in the Boxer Codex: with commentary

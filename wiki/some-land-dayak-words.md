@@ -21,6 +21,7 @@ source_doc: jmalayanras-090-stooke-landdayakwords-1924-1b778a242be0
 source_path: ../sources/jmalayanras-090-stooke-landdayakwords-1924-1b778a242be0.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41559579
 ---
 
 # Some Land-Dayak words

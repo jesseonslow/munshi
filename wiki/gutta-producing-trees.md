@@ -21,6 +21,7 @@ source_doc: jsbras-012-low-guttaproducingtrees-1883-861e589bf23c
 source_path: ../sources/jsbras-012-low-guttaproducingtrees-1883-861e589bf23c.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41560714
 ---
 
 # Gutta-producing trees

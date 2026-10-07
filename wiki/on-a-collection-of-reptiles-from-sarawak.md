@@ -22,6 +22,7 @@ source_mismatch: true
 source_doc: jmalayanras-087-dunn-collectionreptilessarawak-1923-c4951e472d34
 source_path: ../sources/jmalayanras-087-dunn-collectionreptilessarawak-1923-c4951e472d34.md
 publication_type: note
+jstor: https://www.jstor.org/stable/41559532
 ---
 
 # On a collection of reptiles from Sarawak

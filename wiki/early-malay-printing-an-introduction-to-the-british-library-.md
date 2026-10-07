@@ -21,6 +21,7 @@ source_doc: jmbras-258-gallop-earlymalayprinting-1990-a1a2a96ad4c8
 source_path: ../sources/jmbras-258-gallop-earlymalayprinting-1990-a1a2a96ad4c8/frontmatter.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41493148
 ---
 
 # Early Malay printing: an introduction to the British Library collection

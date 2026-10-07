@@ -21,6 +21,7 @@ source_doc: jmbras-280-gullick-richardjameswilkinson-2001-87852dfd698b
 source_path: ../sources/jmbras-280-gullick-richardjameswilkinson-2001-87852dfd698b/frontmatter.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41493439
 ---
 
 # Richard James Wilkinson: a man of parts

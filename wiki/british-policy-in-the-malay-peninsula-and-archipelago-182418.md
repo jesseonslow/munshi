@@ -22,6 +22,7 @@ source_mismatch: true
 source_doc: jmalayanras-179-tarling-britishpolicymalay-1957-6559db1034e7
 source_path: ../sources/bibliography.md
 publication_type: monograph
+jstor: https://www.jstor.org/stable/41503116
 ---
 
 # British policy in the Malay Peninsula and Archipelago, 1824–1871

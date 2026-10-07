@@ -21,6 +21,7 @@ source_doc: jmalayanras-098-gimlette-beebomor-1926-17fb2958ba05
 source_path: ../sources/jmalayanras-098-gimlette-beebomor-1926-17fb2958ba05.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41559682
 ---
 
 # A bee bomor

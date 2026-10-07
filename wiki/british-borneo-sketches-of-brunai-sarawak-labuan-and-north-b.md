@@ -21,6 +21,7 @@ source_doc: jsbras-020-treacher-britishborneosketches-1889-8b79c3eeea42
 source_path: ../sources/jsbras-020-treacher-britishborneosketches-1889-8b79c3eeea42.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41560774
 ---
 
 # British Borneo: sketches of Brunai, Sarawak, Labuan and North Borneo

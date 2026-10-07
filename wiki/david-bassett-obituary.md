@@ -20,6 +20,7 @@ published: false
 source_doc: jmbras-257-bastin-drdavidkenneth-1989-d0eb81174bc9
 source_path: ../sources/jmbras-257-bastin-drdavidkenneth-1989-d0eb81174bc9.md
 publication_type: obituary
+jstor: https://www.jstor.org/stable/41493133
 ---
 
 # David Bassett. Obituary

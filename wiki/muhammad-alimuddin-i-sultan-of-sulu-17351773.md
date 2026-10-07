@@ -22,6 +22,7 @@ source_mismatch: false
 source_doc: jmbras-207-costa-muhammadalimuddini-1965-62a7f5357fad
 source_path: ../sources/appendix.md
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41491839
 ---
 
 # Muhammad Alimuddin I, Sultan of Sulu, 1735–1773

@@ -23,6 +23,7 @@ source_doc: jmbras-298-tjin-chinesenewspaperssingapore-2010-faeae110b912
 source_path: ../sources/jmbras-298-tjin-chinesenewspaperssingapore-2010-faeae110b912/frontmatter.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41493768
 ---
 
 # Chinese newspapers in Singapore, 1945–1963: mediators of elite and popular tastes in culture and politics

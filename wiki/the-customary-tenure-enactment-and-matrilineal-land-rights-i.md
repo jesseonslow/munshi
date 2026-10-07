@@ -29,6 +29,7 @@ keywords:
 - matriarchy
 - inheritance
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/10.2307/26527735
 ---
 
 # The customary tenure enactment and matrilineal land rights in Negeri Sembilan

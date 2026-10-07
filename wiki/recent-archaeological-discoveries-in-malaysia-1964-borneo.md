@@ -21,6 +21,7 @@ source_doc: jmbras-207-harrisson-recentarchaeologicaldiscoveries-1965-9bd1be43f7
 source_path: ../sources/jmbras-207-harrisson-recentarchaeologicaldiscoveries-1965-9bd1be43f728.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41491845
 ---
 
 # Recent archaeological discoveries in Malaysia, 1964: Borneo

@@ -21,6 +21,7 @@ source_doc: jsbras-042-cameron-newspecieschalcis-1905-f2183ccda65a
 source_path: ../sources/jsbras-042-cameron-newspecieschalcis-1905-f2183ccda65a.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41560565
 ---
 
 # A new species of Chalcis from Borneo
