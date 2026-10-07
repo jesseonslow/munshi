@@ -21,6 +21,7 @@ source_doc: jmalayanras-173-bastin-crawfurdbaudfree-1956-eefae46ce305
 source_path: ../sources/jmalayanras-173-bastin-crawfurdbaudfree-1956-eefae46ce305.md
 summarized: true
 publication_type: document
+jstor: https://www.jstor.org/stable/41503211
 ---
 
 # Crawfurd and Baud on free and forced labour in Java

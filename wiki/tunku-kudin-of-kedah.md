@@ -21,6 +21,7 @@ source_doc: jmbras-253-gullick-tunkukudinkedah-1987-d72219249a7c
 source_path: ../sources/jmbras-253-gullick-tunkukudinkedah-1987-d72219249a7c.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41493084
 ---
 
 # Tunku Kudin of Kedah

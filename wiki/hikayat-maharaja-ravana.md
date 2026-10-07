@@ -21,6 +21,7 @@ source_doc: jmalayanras-117-overbeck-hikayatmaharajaravana-1933-29d536a8fcd8
 source_path: ../sources/jmalayanras-117-overbeck-hikayatmaharajaravana-1933-29d536a8fcd8.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41559797
 ---
 
 # Hikayat Maharaja Ravana

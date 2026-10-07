@@ -21,6 +21,7 @@ source_doc: jmalayanras-117-hough-noteseducationalpolicy-1933-71bc9b9ea6eb
 source_path: ../sources/jmalayanras-117-hough-noteseducationalpolicy-1933-71bc9b9ea6eb.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41559810
 ---
 
 # Notes on the educational policy of Sir Stamford Raffles

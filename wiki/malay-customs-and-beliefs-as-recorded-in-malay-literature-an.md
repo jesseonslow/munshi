@@ -23,6 +23,7 @@ source_doc: jmalayanras-095-overbeck-malaycustomsbeliefs-1925-6685c97b67ce
 source_path: ../sources/jmalayanras-095-overbeck-malaycustomsbeliefs-1925-6685c97b67ce.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41560444
 ---
 
 # Malay customs and beliefs as recorded in Malay literature and folklore, Part III

@@ -22,6 +22,7 @@ source_doc: jmbras-294-ali-boogokboogokwingedboat-2008-630bb32a95f7
 source_path: ../sources/jmbras-294-ali-boogokboogokwingedboat-2008-630bb32a95f7/frontmatter.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41493710
 ---
 
 # Boo’gok-boo’gok : the winged boat of the Sea Bajau in Sabah, Malaysia

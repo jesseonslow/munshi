@@ -24,6 +24,7 @@ source_mismatch: false
 source_doc: jmbras-207-sheppard-padogolwa-1965-5aea252825f6
 source_path: ../sources/jmbras-207-sheppard-padogolwa-1965-5aea252825f6.md
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41491836
 ---
 
 # Pa’ Dogol and Wa’ Long: the evolution of the comedians in the Malay shadow play in Kelantan

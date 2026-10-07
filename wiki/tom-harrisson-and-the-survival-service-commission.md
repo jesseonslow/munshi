@@ -21,6 +21,7 @@ source_doc: jmbras-231-fitter-tomsurvivalservice-1977-64689f8b1004
 source_path: ../sources/jmbras-231-fitter-tomsurvivalservice-1977-64689f8b1004.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41492162
 ---
 
 # Tom {Harrisson} and the Survival Service Commission

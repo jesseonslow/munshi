@@ -23,6 +23,7 @@ source_doc: jmalayanras-170-gibsonhill-johorelamaancient-1955-02f54e9aa83e
 source_path: ../sources/jmalayanras-170-gibsonhill-johorelamaancient-1955-02f54e9aa83e.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41503189
 ---
 
 # Johore Lama and other ancient sites on the Johore River. {In Papers on Johore Lama and the Portuguese in Malaya (1511–1641

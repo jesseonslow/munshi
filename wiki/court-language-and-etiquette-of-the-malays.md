@@ -21,6 +21,7 @@ source_doc: jmalayanras-117-ghazzali-courtlanguageetiquette-1933-d9e3924d328f
 source_path: ../sources/jmalayanras-117-ghazzali-courtlanguageetiquette-1933-d9e3924d328f.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41559828
 ---
 
 # Court language and etiquette of the Malays

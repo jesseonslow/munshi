@@ -21,6 +21,7 @@ source_doc: jsbras-022-ridley-habitscaringaformica-1890-fe415684f8e2
 source_path: ../sources/jsbras-022-ridley-habitscaringaformica-1890-fe415684f8e2.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41560794
 ---
 
 # On the habits of the caringa (Formica gracilipes, Gray

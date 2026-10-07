@@ -21,6 +21,7 @@ source_doc: jmbras-271-barlow-swettenhamschemer-1996-09af9c106e2b
 source_path: ../sources/jmbras-271-barlow-swettenhamschemer-1996-09af9c106e2b/frontmatter.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41493309
 ---
 
 # Swettenham. Schemer and historian

@@ -23,6 +23,7 @@ aliases:
 source_doc: jmalayanras-189-tregonning-ianalistairmacgregor-1960-fb7f5b4d9cf0
 source_path: ../sources/jmalayanras-189-tregonning-ianalistairmacgregor-1960-fb7f5b4d9cf0.md
 publication_type: obituary
+jstor: https://www.jstor.org/stable/41505489
 ---
 
 # Ian Alister Macgregor, M.A.

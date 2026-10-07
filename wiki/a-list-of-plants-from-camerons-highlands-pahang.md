@@ -21,6 +21,7 @@ source_doc: jmalayanras-100-henderson-listplantscamerons-1927-6e1f0e58f545
 source_path: ../sources/jmalayanras-100-henderson-listplantscamerons-1927-6e1f0e58f545.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/24249114
 ---
 
 # A list of plants from Cameron’s Highlands, Pahang

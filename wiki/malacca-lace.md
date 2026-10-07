@@ -21,6 +21,7 @@ source_doc: jsbras-045-bland-malaccalace-1906-5fc61f468871
 source_path: ../sources/jsbras-045-bland-malaccalace-1906-5fc61f468871.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41561627
 ---
 
 # Malacca lace

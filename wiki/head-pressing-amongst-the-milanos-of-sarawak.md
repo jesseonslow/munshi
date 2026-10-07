@@ -21,6 +21,7 @@ source_doc: jsbras-060-hewitt-headpressingamongst-1911-47447d31ddeb
 source_path: ../sources/jsbras-060-hewitt-headpressingamongst-1911-47447d31ddeb.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41561145
 ---
 
 # Head pressing amongst the Milanos of Sarawak

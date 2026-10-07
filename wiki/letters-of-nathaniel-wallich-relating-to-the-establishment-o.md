@@ -24,6 +24,7 @@ source_doc: jsbras-065-hanitsch-lettersnathanielwallich-1913-e62a0979ba44
 source_path: ../sources/jsbras-065-hanitsch-lettersnathanielwallich-1913-e62a0979ba44.md
 summarized: true
 publication_type: document
+jstor: https://www.jstor.org/stable/41560994
 ---
 
 # Letters of Nathaniel Wallich relating to the establishment of botanical gardens in Singapore

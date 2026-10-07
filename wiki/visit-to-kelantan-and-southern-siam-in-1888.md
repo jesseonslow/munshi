@@ -32,6 +32,7 @@ keywords:
 - Malaya
 - Siam
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/10.2307/26927988
 ---
 
 # Visit to Kelantan and southern Siam in 1888

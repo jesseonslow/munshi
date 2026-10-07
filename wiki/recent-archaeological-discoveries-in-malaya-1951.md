@@ -21,6 +21,7 @@ source_doc: jmalayanras-158-williamshunt-recentarchaeologicaldiscoveries-1952-5f
 source_path: ../sources/jmalayanras-158-williamshunt-recentarchaeologicaldiscoveries-1952-5f17b4103997.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41502945
 ---
 
 # Recent archaeological discoveries in Malaya (1951)

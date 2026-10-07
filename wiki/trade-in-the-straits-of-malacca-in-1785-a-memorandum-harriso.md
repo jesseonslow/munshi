@@ -22,6 +22,7 @@ source_doc: jmalayanras-161-harrison-tradestraitsmalacca-1953-c9c8de6c6f01
 source_path: ../sources/jmalayanras-161-harrison-tradestraitsmalacca-1953-c9c8de6c6f01.md
 summarized: true
 publication_type: document
+jstor: https://www.jstor.org/stable/41502904
 ---
 
 # Trade in the Straits of Malacca in 1785: a memorandum. . Harrison

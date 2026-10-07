@@ -21,6 +21,7 @@ source_doc: jsbras-077-winstedt-placenameshikayatpasai-1917-6d6a04198487
 source_path: ../sources/jsbras-077-winstedt-placenameshikayatpasai-1917-6d6a04198487.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41561265
 ---
 
 # Place-names in the Hikayat Pasai

@@ -21,6 +21,7 @@ source_doc: jsbras-050-maxwell-sindbadsoldman-1908-0e82cd766f77
 source_path: ../sources/jsbras-050-maxwell-sindbadsoldman-1908-0e82cd766f77.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41561695
 ---
 
 # Sindbad’s old man of the sea

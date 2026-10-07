@@ -23,6 +23,7 @@ source_doc: jsbras-065-moulton-notesshortcollecting-1913-ba4a8066d190
 source_path: ../sources/jsbras-065-moulton-notesshortcollecting-1913-ba4a8066d190.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41560989
 ---
 
 # Some notes on a short collection trip to Mt. Poi, Sarawak, undertaken recently by the Raffles Museum, Singapore, and the Sarawak Museum

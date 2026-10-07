@@ -21,6 +21,7 @@ source_doc: jmalayanras-122-wilkinson-malaccasultanate-1935-fce114053789
 source_path: ../sources/jmalayanras-122-wilkinson-malaccasultanate-1935-fce114053789.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41559839
 ---
 
 # The Malacca sultanate

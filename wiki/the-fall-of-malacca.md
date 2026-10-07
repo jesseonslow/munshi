@@ -21,6 +21,7 @@ source_doc: jmalayanras-122-wilkinson-fallmalacca-1935-679d11240eff
 source_path: ../sources/jmalayanras-122-wilkinson-fallmalacca-1935-679d11240eff.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41559840
 ---
 
 # The fall of Malacca

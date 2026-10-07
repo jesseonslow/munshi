@@ -21,6 +21,7 @@ source_doc: jmbras-231-ii-niahresearchprogram-1977-21b0b21dc372
 source_path: ../sources/jmbras-231-ii-niahresearchprogram-1977-21b0b21dc372.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41492157
 ---
 
 # The Niah research program

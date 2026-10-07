@@ -21,6 +21,7 @@ source_doc: jmbras-279-gungwu-politicalheritagenation-2000-140023ff4785
 source_path: ../sources/jmbras-279-gungwu-politicalheritagenation-2000-140023ff4785/frontmatter.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41493425
 ---
 
 # Political heritage and nation building

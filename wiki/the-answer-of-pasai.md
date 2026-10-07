@@ -22,6 +22,7 @@ source_mismatch: false
 source_doc: jmbras-208-roolvink-answerpasai-1965-052bbdc483fe
 source_path: ../sources/jmbras-208-roolvink-answerpasai-1965-052bbdc483fe.md
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41492218
 ---
 
 # The answer of Pasai

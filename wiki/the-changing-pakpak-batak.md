@@ -22,6 +22,7 @@ source_doc: jmbras-239-viner-changingpakpakbatak-1981-0b53af179998
 source_path: ../sources/jmbras-239-viner-changingpakpakbatak-1981-0b53af179998/frontmatter.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41492901
 ---
 
 # The changing Pakpak Batak

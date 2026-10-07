@@ -21,6 +21,7 @@ source_doc: jsbras-085-moulton-malayanbadger-1922-64c73077362d
 source_path: ../sources/jsbras-085-moulton-malayanbadger-1922-64c73077362d.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41561409
 ---
 
 # The Malayan badger

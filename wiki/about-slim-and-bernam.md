@@ -21,6 +21,7 @@ source_doc: jsbras-004-leech-slimbernam-1879-ec5651cdccef
 source_path: ../sources/jsbras-004-leech-slimbernam-1879-ec5651cdccef.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41560634
 ---
 
 # About Slim and Bernam

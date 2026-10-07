@@ -21,6 +21,7 @@ source_doc: jmalayanras-154-evans-ancientjadecarving-1951-49c8086ca298
 source_path: ../sources/jmalayanras-154-evans-ancientjadecarving-1951-49c8086ca298.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41502982
 ---
 
 # An ancient jade carving from North Borneo

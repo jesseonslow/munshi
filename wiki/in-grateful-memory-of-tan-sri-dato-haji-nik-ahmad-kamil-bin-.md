@@ -22,6 +22,7 @@ published: false
 source_doc: jmbras-233-sheppard-gratefulmemorytan-1978-d54d13999373
 source_path: ../sources/jmbras-233-sheppard-gratefulmemorytan-1978-d54d13999373.md
 publication_type: obituary
+jstor: https://www.jstor.org/stable/41492182
 ---
 
 # In grateful memory of Tan Sri Dato Haji Nik Ahmad Kamil bin Nik Mahmood, President M.B.R.A.S., 1964–1977. Obituary

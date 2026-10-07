@@ -21,6 +21,7 @@ source_doc: jmbras-275-gullick-historymalayanhistory-1998-5c4c2524f699
 source_path: ../sources/jmbras-275-gullick-historymalayanhistory-1998-5c4c2524f699.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41493365
 ---
 
 # A history of Malayan history

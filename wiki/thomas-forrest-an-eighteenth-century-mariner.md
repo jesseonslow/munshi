@@ -21,6 +21,7 @@ source_doc: jmalayanras-194-bassett-thomasforresteighteenth-1961-f2cff61ea8d4
 source_path: ../sources/jmalayanras-194-bassett-thomasforresteighteenth-1961-f2cff61ea8d4.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41505508
 ---
 
 # Thomas Forrest, an eighteenth century mariner

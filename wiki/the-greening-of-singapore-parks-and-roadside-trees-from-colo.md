@@ -30,6 +30,7 @@ keywords:
 - Singapore Improvement Trust
 - Singapore Botanical Garden
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/10.2307/26928003
 ---
 
 # The greening of Singapore: parks and roadside trees from colonial rule to the present

@@ -21,6 +21,7 @@ source_doc: jmbras-298-tarling-britaintunkuwest-2010-7ff56a8c416a
 source_path: ../sources/jmbras-298-tarling-britaintunkuwest-2010-7ff56a8c416a/frontmatter.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41493769
 ---
 
 # Britain, the Tunku and West New Guinea 1957–1963

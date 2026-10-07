@@ -21,6 +21,7 @@ source_doc: jmbras-319-lias-tinnativeland-2020-b860c9bf2c81
 source_path: ../sources/jmbras-319-lias-tinnativeland-2020-b860c9bf2c81.md
 summarized: true
 publication_type: reprint
+jstor: https://www.jstor.org/stable/10.2307/27368670
 ---
 
 # Tin and its native land. Facsimile reprint

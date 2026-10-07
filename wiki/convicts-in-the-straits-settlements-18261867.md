@@ -21,6 +21,7 @@ source_doc: jmbras-217-turnbull-convictsstraitssettlements-1970-79011f1e68c3
 source_path: ../sources/jmbras-217-turnbull-convictsstraitssettlements-1970-79011f1e68c3.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41492016
 ---
 
 # Convicts in the Straits Settlements, 1826–1867

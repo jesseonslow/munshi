@@ -21,6 +21,7 @@ source_doc: jsbras-027-koenig-journalvoyageindia-1894-48a559bc91bf
 source_path: ../sources/jsbras-027-koenig-journalvoyageindia-1894-48a559bc91bf.md
 summarized: true
 publication_type: translation
+jstor: https://www.jstor.org/stable/41560863
 ---
 
 # Journal of a voyage from India to Siam and Malacca in 1779

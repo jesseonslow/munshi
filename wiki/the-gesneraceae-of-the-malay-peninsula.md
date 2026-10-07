@@ -22,6 +22,7 @@ source_mismatch: false
 source_doc: jsbras-044-ridley-gesneraceaemalaypeninsula-1905-22935534b01f
 source_path: ../sources/jsbras-044-ridley-gesneraceaemalaypeninsula-1905-22935534b01f.md
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41561022
 ---
 
 # The Gesneraceae of the Malay Peninsula

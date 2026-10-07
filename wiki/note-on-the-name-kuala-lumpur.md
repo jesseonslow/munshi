@@ -21,6 +21,7 @@ source_doc: jsbras-072-macfadyen-notenamekuala-1916-596281281fa1
 source_path: ../sources/jsbras-072-macfadyen-notenamekuala-1916-596281281fa1.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41561225
 ---
 
 # Note on the name Kuala Lumpur

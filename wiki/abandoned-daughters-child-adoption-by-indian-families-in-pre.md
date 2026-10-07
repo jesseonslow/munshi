@@ -30,6 +30,7 @@ keywords:
 - Indian diaspora
 - son preference
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/10.2307/27368667
 ---
 
 # Abandoned daughters: Child adoption by Indian Families in pre-independence Malaya and Singapore

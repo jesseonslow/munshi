@@ -28,6 +28,7 @@ source_doc: jmalayanras-158-wurtzburg-rafflespalembangmassacre-1952-284e3953f253
 source_path: ../sources/jmalayanras-158-wurtzburg-rafflespalembangmassacre-1952-284e3953f253.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41502943
 ---
 
 # Raffles and the massacre at Palembang

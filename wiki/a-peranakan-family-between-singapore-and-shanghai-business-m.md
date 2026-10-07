@@ -24,6 +24,7 @@ source_doc: jmbras-308-sim-peranakanfamilysingapore-2015-44dbd625a215
 source_path: ../sources/jmbras-308-sim-peranakanfamilysingapore-2015-44dbd625a215/appendices.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/10.2307/26527692
 ---
 
 # A Peranakan family between Singapore and Shanghai: business-making, networks and identity, 1870s‒1910s

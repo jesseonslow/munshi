@@ -21,6 +21,7 @@ source_doc: jsbras-050-mexwell-spada-1908-1cc5b1e57d4b
 source_path: ../sources/jsbras-050-mexwell-spada-1908-1cc5b1e57d4b.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41561696
 ---
 
 # Spada

@@ -21,6 +21,7 @@ source_doc: jmalayanras-090-hamilton-chineseloanwordsmalay-1924-3e06cda450c0
 source_path: ../sources/jmalayanras-090-hamilton-chineseloanwordsmalay-1924-3e06cda450c0.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41559569
 ---
 
 # Chinese loan-words in Malay

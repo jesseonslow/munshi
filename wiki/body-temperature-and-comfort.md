@@ -21,6 +21,7 @@ source_doc: jsbras-080-campbell-bodytemperaturecomfort-1919-3dea56e7b38e
 source_path: ../sources/jsbras-080-campbell-bodytemperaturecomfort-1919-3dea56e7b38e.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41561313
 ---
 
 # Body temperature and comfort

@@ -31,6 +31,7 @@ keywords:
 - urban development
 - construction materials
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/10.2307/26527781
 ---
 
 # The brickmaking industry in Kuala Lumpur in the late nineteenth century

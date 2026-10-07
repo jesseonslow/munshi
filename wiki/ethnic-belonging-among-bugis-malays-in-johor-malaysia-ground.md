@@ -28,6 +28,7 @@ keywords:
 - Malaysia
 - ethnic identity
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/10.2307/26928041
 ---
 
 # Ethnic belonging among Bugis Malays in Johor, Malaysia: grounding the present in the past

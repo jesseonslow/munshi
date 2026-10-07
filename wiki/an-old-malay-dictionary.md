@@ -21,6 +21,7 @@ source_doc: jmalayanras-107-mee-oldmalaydictionary-1929-861b14bc35d6
 source_path: ../sources/jmalayanras-107-mee-oldmalaydictionary-1929-861b14bc35d6.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41559731
 ---
 
 # An old Malay dictionary

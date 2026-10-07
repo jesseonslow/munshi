@@ -21,6 +21,7 @@ source_doc: jmbras-243-gullick-emilyinnes18431927-1982-cee74ae7699a
 source_path: ../sources/jmbras-243-gullick-emilyinnes18431927-1982-cee74ae7699a.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41493610
 ---
 
 # Emily Innes, 1843–1927

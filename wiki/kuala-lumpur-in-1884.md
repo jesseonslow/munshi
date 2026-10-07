@@ -21,6 +21,7 @@ source_doc: jmalayanras-185-gullick-kualalumpur1884-1959-07f6a92265ed
 source_path: ../sources/jmalayanras-185-gullick-kualalumpur1884-1959-07f6a92265ed.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41503154
 ---
 
 # Kuala Lumpur in 1884?

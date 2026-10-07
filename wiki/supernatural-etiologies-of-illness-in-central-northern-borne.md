@@ -21,6 +21,7 @@ source_doc: jmbras-243-metcalf-supernatureetiologiesillness-1982-62a709fdc092
 source_path: ../sources/jmbras-243-metcalf-supernatureetiologiesillness-1982-62a709fdc092/frontmatter.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41493611
 ---
 
 # Supernatural etiologies of illness in Central Northern Borneo

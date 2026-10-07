@@ -21,6 +21,7 @@ source_doc: jmalayanras-095-winstedt-notesmalaymagic-1925-84f55586f7a0
 source_path: ../sources/jmalayanras-095-winstedt-notesmalaymagic-1925-84f55586f7a0.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41560443
 ---
 
 # Notes on Malay magic

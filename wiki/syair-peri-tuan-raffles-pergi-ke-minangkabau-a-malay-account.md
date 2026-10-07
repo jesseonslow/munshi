@@ -23,6 +23,7 @@ source_doc: jmbras-285-chross-syairperituan-2003-e6c0a2cdcac2
 source_path: ../sources/jmbras-285-chross-syairperituan-2003-e6c0a2cdcac2/frontmatter.md
 summarized: true
 publication_type: translation
+jstor: https://www.jstor.org/stable/41493498
 ---
 
 # Syair Peri Tuan Raffles pergi ke Minangkabau: a Malay account of Raffles’ second expedition to the Sumatran highlands in 1818

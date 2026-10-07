@@ -21,6 +21,7 @@ source_doc: jmalayanras-108-winstedt-malayhouse-1929-d919df943baf
 source_path: ../sources/jmalayanras-108-winstedt-malayhouse-1929-d919df943baf.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41559745
 ---
 
 # The Malay house

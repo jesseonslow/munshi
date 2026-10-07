@@ -21,6 +21,7 @@ source_doc: jsbras-015-rost-malaylanguageliterature-1885-8412e6c480e3
 source_path: ../sources/jsbras-015-rost-malaylanguageliterature-1885-8412e6c480e3.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41560740
 ---
 
 # Malay language and literature

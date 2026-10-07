@@ -23,6 +23,7 @@ source_doc: jmalayanras-181-gungwu-universitymalayaarchaeological-1958-0991bbf90
 source_path: ../sources/jmalayanras-181-gungwu-universitymalayaarchaeological-1958-0991bbf903bc.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41503133
 ---
 
 # The University of Malaya Archaeological Society’s survey of Central Kedah in May 1958

@@ -21,6 +21,7 @@ source_doc: jmalayanras-111-overbeck-hikayatsultanbustamam-1931-3eb70ed7d7a2
 source_path: ../sources/jmalayanras-111-overbeck-hikayatsultanbustamam-1931-3eb70ed7d7a2.md
 summarized: true
 publication_type: translation
+jstor: https://www.jstor.org/stable/41559769
 ---
 
 # Hikayat Sultan Bustaman

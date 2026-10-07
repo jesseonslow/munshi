@@ -21,6 +21,7 @@ source_doc: jmalayanras-105-skinner-mtkinabalu-1928-46564904f218
 source_path: ../sources/jmalayanras-105-skinner-mtkinabalu-1928-46564904f218.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41559721
 ---
 
 # Mt. Kina Balu, a Dusun legend of its name

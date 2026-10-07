@@ -21,6 +21,7 @@ source_doc: jsbras-034-ridley-dammarwoodoil-1900-d8828a672128
 source_path: ../sources/jsbras-034-ridley-dammarwoodoil-1900-d8828a672128.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41560945
 ---
 
 # Dammar and wood oil

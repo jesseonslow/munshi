@@ -1,10 +1,8 @@
 ---
 id: the-everett-collection-from-borneo-caves-in-the-natural-hist
 work_id: jmbras-86-1-p79
-title: 'The ‘Everett Collection from Borneo Caves’ in the Natural History Museum,
-  London: its origin, composition and potential for research'
-canonical_name: 'The ‘Everett Collection from Borneo Caves’ in the Natural History
-  Museum, London: its origin, composition and potential for research'
+title: 'The ‘Everett Collection from Borneo Caves’ in the Natural History Museum, London: its origin, composition and potential for research'
+canonical_name: 'The ‘Everett Collection from Borneo Caves’ in the Natural History Museum, London: its origin, composition and potential for research'
 type: publication
 authors:
 - Gathorne Gathorne-Hardy, Lord (Earl of Cranbrook) Medway
@@ -23,6 +21,8 @@ source_doc: jmbras-304-cranbrook-everettcollectionborneo-2013-069b4f51df7e
 source_path: ../sources/jmbras-304-cranbrook-everettcollectionborneo-2013-069b4f51df7e/frontmatter.md
 summarized: true
 publication_type: journal_article
+doi: https://doi.org/10.1353/ras.2013.0008
+project_muse: https://muse.jhu.edu/article/507692
 ---
 
 # The ‘Everett Collection from Borneo Caves’ in the Natural History Museum, London: its origin, composition and potential for research

@@ -21,6 +21,7 @@ source_doc: jmbras-256-davison-manufactureterminologytemiar-1989-22fc3951497f
 source_path: ../sources/jmbras-256-davison-manufactureterminologytemiar-1989-22fc3951497f/frontmatter.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41493629
 ---
 
 # Manufacture and terminology of Temiar bamboo rafts

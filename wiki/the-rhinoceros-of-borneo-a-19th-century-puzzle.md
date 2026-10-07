@@ -21,6 +21,7 @@ source_doc: jmbras-231-rookmaaker-rhinocerosborneo19th-1977-bcf77ad54d56
 source_path: ../sources/jmbras-231-rookmaaker-rhinocerosborneo19th-1977-bcf77ad54d56/frontmatter.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41492159
 ---
 
 # The rhinoceros of Borneo: a 19th century puzzle

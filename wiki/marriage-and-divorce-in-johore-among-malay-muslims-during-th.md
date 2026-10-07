@@ -23,6 +23,7 @@ source_doc: jmbras-275-ahmad-marriagedivorcejohore-1998-f1d56c4616c7
 source_path: ../sources/jmbras-275-ahmad-marriagedivorcejohore-1998-f1d56c4616c7.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41493364
 ---
 
 # Marriage and divorce in Johore among Malay-Muslims during the Japanese occupation, 1942–1945

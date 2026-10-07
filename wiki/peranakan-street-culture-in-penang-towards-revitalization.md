@@ -21,6 +21,7 @@ source_doc: jmbras-297-beng-peranakanstreetculture-2009-10949c90bd15
 source_path: ../sources/jmbras-297-beng-peranakanstreetculture-2009-10949c90bd15/frontmatter.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41493754
 ---
 
 # Peranakan street culture in Penang: towards revitalization

@@ -21,6 +21,7 @@ source_doc: jmalayanras-165-beresfordpeirse-settlementtribaldispute-1954-9b9688f
 source_path: ../sources/jmalayanras-165-beresfordpeirse-settlementtribaldispute-1954-9b9688f0d2aa.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41486182
 ---
 
 # Settlement of a tribal dispute (North Borneo

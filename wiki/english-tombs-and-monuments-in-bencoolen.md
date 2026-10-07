@@ -21,6 +21,7 @@ source_doc: jsbras-078-brooks-englishtombsmonuments-1918-c8e3c8d6c75f
 source_path: ../sources/jsbras-078-brooks-englishtombsmonuments-1918-c8e3c8d6c75f.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41561285
 ---
 
 # English tombs and monuments in Bencoolen

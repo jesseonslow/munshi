@@ -20,6 +20,7 @@ published: false
 source_doc: jmalayanras-189-holttum-henrynicholasridley-1960-3dcb133f6f0c
 source_path: ../sources/jmalayanras-189-holttum-henrynicholasridley-1960-3dcb133f6f0c.md
 publication_type: obituary
+jstor: https://www.jstor.org/stable/41505487
 ---
 
 # Henry Nicholas Ridley. Obituary

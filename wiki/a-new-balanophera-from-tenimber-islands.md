@@ -21,6 +21,7 @@ source_doc: jsbras-039-ridley-newbarlanophoratenimber-1903-6ee9e202ce62
 source_path: ../sources/jsbras-039-ridley-newbarlanophoratenimber-1903-6ee9e202ce62.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41560537
 ---
 
 # A new Balanophera from Tenimber Islands

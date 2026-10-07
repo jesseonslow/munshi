@@ -21,6 +21,7 @@ source_doc: jsbras-065-helsdingen-javanesetheatre-1913-79b8a4dc8e3d
 source_path: ../sources/jsbras-065-helsdingen-javanesetheatre-1913-79b8a4dc8e3d.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41560991
 ---
 
 # The Javanese theatre: Wayang Purwa and Wayang Gedog

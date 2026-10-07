@@ -21,6 +21,7 @@ source_doc: jsbras-037-blagden-dialectsmalaypeninsula-1902-ebd9a185c5ac
 source_path: ../sources/jsbras-037-blagden-dialectsmalaypeninsula-1902-ebd9a185c5ac.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41560979
 ---
 
 # Dialects of the Malay Peninsula

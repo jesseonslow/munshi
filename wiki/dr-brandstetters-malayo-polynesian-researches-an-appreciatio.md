@@ -21,6 +21,7 @@ source_doc: jsbras-042-blagden-drbrandstettersmalayopolynesian-1905-be43ad1321b5
 source_path: ../sources/jsbras-042-blagden-drbrandstettersmalayopolynesian-1905-be43ad1321b5.md
 summarized: true
 publication_type: review
+jstor: https://www.jstor.org/stable/41560568
 ---
 
 # Dr. Brandstetter’s Malayo-Polynesian researches: an appreciation

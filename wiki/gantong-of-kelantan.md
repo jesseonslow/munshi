@@ -21,6 +21,7 @@ source_doc: jmalayanras-117-rentse-gantangkelantan-1933-c484620baba0
 source_path: ../sources/jmalayanras-117-rentse-gantangkelantan-1933-c484620baba0.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41559821
 ---
 
 # Gantong of Kelantan

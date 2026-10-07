@@ -21,6 +21,7 @@ source_doc: jmalayanras-087-chasen-rarepetrel-1923-7b0bc5570246
 source_path: ../sources/jmalayanras-087-chasen-rarepetrel-1923-7b0bc5570246.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41559552
 ---
 
 # A rare petrel

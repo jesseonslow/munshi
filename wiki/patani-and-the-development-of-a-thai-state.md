@@ -21,6 +21,7 @@ source_doc: jmbras-232-koch-patanidevelopmentthai-1977-2559acbd4b38
 source_path: ../sources/jmbras-232-koch-patanidevelopmentthai-1977-2559acbd4b38.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41492172
 ---
 
 # Patani and the development of a Thai state

@@ -22,6 +22,7 @@ source_doc: jmbras-212-sweeney-connectionhikayatraja2-1967-34ae09ed3d19
 source_path: ../sources/jmbras-212-sweeney-connectionhikayatraja2-1967-34ae09ed3d19.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41491926
 ---
 
 # The connection between the Hikayat Raja2 Pasai and the Sejarah Melayu

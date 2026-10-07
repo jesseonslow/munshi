@@ -21,6 +21,7 @@ source_doc: jmalayanras-158-gibsonhill-possibleoriginjong-1952-d8c83e61bf39
 source_path: ../sources/jmalayanras-158-gibsonhill-possibleoriginjong-1952-d8c83e61bf39.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41502942
 ---
 
 # A possible origin of the Jong stories

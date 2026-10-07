@@ -87,7 +87,7 @@ published: false
 - (1932) [The Temenggongs of Muar](./the-temenggongs-of-muar.md). *JMBRAS* 10(1): 30–31
 - (1932) [The early rulers of Perak, Pahang and Acheh](./the-early-rulers-of-perak-pahang-and-acheh.md). *JMBRAS* 10(1): 32–44
 - (1932) [The Bendaharas and the Temenggongs](./the-bendaharas-and-the-temenggongs.md). *JMBRAS* 10(1): 53–66
-- (1932) [A history of Johore (1673–ca.1800 A.D.) {Introd. in English: text in Jawi](./a-history-of-johore-1673ca1800-ad-introd-in-english-text-in-.md). *JMBRAS* 10(1): 164–170, 1–31
+- (1932) [A history of Johore (1673–ca.1800 A.D.)](./a-history-of-johore-1673ca1800-ad.md). *JMBRAS* 10(1): 164–170, 1–31
 - (1933) [Outline of a Malay history of Riau](./outline-of-a-malay-history-of-riau.md). *JMBRAS* 11(2): 157–160
 - (1933) [Abdu’l-Jalil, Sultan of Johore (1699–1719), ‘Abdu’l-Jamal, Temenggong (ca. 1750) and Raffles’ founding of Singapore](./abdul-jalil-sultan-of-johore-16991719-abdul-jamal-temenggong.md). *JMBRAS* 11(2): 161–165
 - (1934) [A history of Perak](./a-history-of-perak.md). *JMBRAS* 12(1): 1–180

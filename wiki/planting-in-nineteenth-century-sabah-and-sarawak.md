@@ -21,6 +21,7 @@ source_doc: jmbras-270-tate-plantingnineteenthcentury-1996-9d66e9b9f590
 source_path: ../sources/jmbras-270-tate-plantingnineteenthcentury-1996-9d66e9b9f590/frontmatter.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41493292
 ---
 
 # Planting in nineteenth century Sabah and Sarawak

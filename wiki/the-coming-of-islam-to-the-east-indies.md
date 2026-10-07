@@ -21,6 +21,7 @@ source_doc: jmalayanras-154-marrison-comingislameast-1951-40f160efced0
 source_path: ../sources/jmalayanras-154-marrison-comingislameast-1951-40f160efced0.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41502969
 ---
 
 # The coming of Islam to the East Indies

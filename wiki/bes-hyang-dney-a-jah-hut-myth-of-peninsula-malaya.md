@@ -21,6 +21,7 @@ source_doc: jmbras-251-teoh-beshyangdney-1986-09b8bfed1d6a
 source_path: ../sources/jmbras-251-teoh-beshyangdney-1986-09b8bfed1d6a/frontmatter.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41493053
 ---
 
 # Bes Hyang Dney: a Jah Hut myth of Peninsula Malaya

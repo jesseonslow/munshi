@@ -21,6 +21,7 @@ source_doc: jsbras-045-winstedt-notesmalaycard-1906-227472df3db7
 source_path: ../sources/jsbras-045-winstedt-notesmalaycard-1906-227472df3db7.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41561623
 ---
 
 # Some notes on Malay card games

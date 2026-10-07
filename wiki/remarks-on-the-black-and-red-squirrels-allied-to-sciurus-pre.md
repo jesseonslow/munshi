@@ -24,6 +24,7 @@ source_doc: jmalayanras-093-chasen-remarksblackred-1925-b6035451a5dd
 source_path: ../sources/jmalayanras-093-chasen-remarksblackred-1925-b6035451a5dd.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41560438
 ---
 
 # Remarks on the black and red squirrels allied to Sciurus prevosti. F.N. Chasen and C.B. Kloss. Records of the Raffles Museum, No. 11

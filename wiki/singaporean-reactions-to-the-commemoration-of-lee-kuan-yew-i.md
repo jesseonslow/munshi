@@ -28,6 +28,7 @@ keywords:
 - liminality
 - rituals of mourning
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/10.2307/26527743
 ---
 
 # Singaporean reactions to the commemoration of Lee Kuan Yew in Tamil Nadu

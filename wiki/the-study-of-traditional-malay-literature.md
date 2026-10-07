@@ -22,6 +22,7 @@ source_mismatch: false
 source_doc: jmbras-210-hussein-studytraditionalmalay-1966-09e8e2c0814d
 source_path: ../sources/jmbras-210-hussein-studytraditionalmalay-1966-09e8e2c0814d.md
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41491893
 ---
 
 # The study of traditional Malay literature

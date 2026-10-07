@@ -21,6 +21,7 @@ source_doc: jmalayanras-140-ahmad-malayjournalismmalaya-1941-1693e5a14bde
 source_path: ../sources/jmalayanras-140-ahmad-malayjournalismmalaya-1941-1693e5a14bde.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41560469
 ---
 
 # Malay journalism in Malaya

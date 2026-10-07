@@ -144,7 +144,7 @@ articles:
   pages: 153–155
   is_review: false
 - id: jmbras-20-1-p156
-  slug: ancient-history-of-greater-india-review-of-coedès-histoire-a
+  slug: ancient-history-of-greater-india
   title: Ancient history of Greater India. {review of Coedès’ Histoire ancienne des
     états hindouisés d’extrême-orient
   authors:
@@ -194,7 +194,7 @@ articles:
 * [Richard James Wilkinson: Obituary](./richard-james-wilkinson-obituary.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 143–144)
 * [A Murut fairy tale](./a-murut-fairy-tale.md) — [G.C. Woolley](./gc-woolley.md) (pp. 145–152)
 * [Megalithic remains in North Borneo](./megalithic-remains-in-north-borneo.md) — [H.G. Keith](./hg-keith.md) (pp. 153–155)
-* [Ancient history of Greater India. {review of Coedès’ Histoire ancienne des états hindouisés d’extrême-orient](./ancient-history-of-greater-india-review-of-coedès-histoire-a.md) — [E.W. Hutchinson](./ew-hutchinson.md) (pp. 156–160)
+* [Ancient history of Greater India](./ancient-history-of-greater-india.md) — [E.W. Hutchinson](./ew-hutchinson.md) (pp. 156–160)
 * [Notes on ancient times in Malaya. Part 1](./notes-on-ancient-times-in-malaya-part-1.md) — [R. Braddell](./r-braddell.md) (pp. 161–186)
 * [The birthday of Sir Stamford Raffles](./the-birthday-of-sir-stamford-raffles.md) — [C.E. Wurtzburg](./ce-wurtzburg.md) (pp. 187)
 * [The old church on the Malacca hill](./the-old-church-on-the-malacca-hill.md) — [R. Cardon](./r-cardon.md) (pp. 188–234)

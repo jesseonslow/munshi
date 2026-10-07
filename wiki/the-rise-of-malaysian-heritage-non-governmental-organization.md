@@ -29,6 +29,7 @@ keywords:
 - Kuala Lumpur
 - © Malaysian Branch of the Royal Asiatic Society
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/10.2307/26527713
 ---
 
 # The rise of Malaysian heritage non-governmental organizations (1969‒2005

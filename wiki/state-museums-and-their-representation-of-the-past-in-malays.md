@@ -21,6 +21,7 @@ source_doc: jmbras-295-ahmad-statemuseumsrepresentations-2008-570788b5dfc2
 source_path: ../sources/jmbras-295-ahmad-statemuseumsrepresentations-2008-570788b5dfc2/frontmatter.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41493723
 ---
 
 # State museums and their representation of the past in Malaysia

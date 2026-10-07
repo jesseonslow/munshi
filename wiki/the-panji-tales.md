@@ -21,6 +21,7 @@ source_doc: jmalayanras-140-winstedt-panjitales-1941-9f131e787eef
 source_path: ../sources/jmalayanras-140-winstedt-panjitales-1941-9f131e787eef.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41560465
 ---
 
 # The Panji tales

@@ -21,6 +21,7 @@ source_doc: jmbras-210-iii-governmentsarawakcharles-1966-21b0a704422a
 source_path: ../sources/jmbras-210-iii-governmentsarawakcharles-1966-21b0a704422a.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41491897
 ---
 
 # Government in Sarawak under Charles Brooke

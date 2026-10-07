@@ -21,6 +21,7 @@ source_doc: jmbras-270-nui-shortbiographicalrecord-1996-1ded69d4abff
 source_path: ../sources/jmbras-270-nui-shortbiographicalrecord-1996-1ded69d4abff.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41493296
 ---
 
 # A short biographical record of Chan Wing, an early pioneer of Malaya

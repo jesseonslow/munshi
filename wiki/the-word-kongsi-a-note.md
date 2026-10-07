@@ -22,6 +22,7 @@ source_doc: jmbras-235-peng-wordkongsinote-1979-042520a97a6b
 source_path: ../sources/jmbras-235-peng-wordkongsinote-1979-042520a97a6b.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41492844
 ---
 
 # The word kongsi: a note

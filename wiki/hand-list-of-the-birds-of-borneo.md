@@ -21,6 +21,7 @@ source_doc: jsbras-067-moulton-handlistbirdsborneo-1914-b09941ff21fd
 source_path: ../sources/jsbras-067-moulton-handlistbirdsborneo-1914-b09941ff21fd/frontmatter.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41561007
 ---
 
 # Hand-list of the birds of Borneo

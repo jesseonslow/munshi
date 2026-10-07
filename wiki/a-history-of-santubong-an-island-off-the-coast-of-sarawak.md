@@ -21,6 +21,7 @@ source_doc: jmbras-235-cushman-eighteenthnineteenthcenturychinese-1979-5b52f586f
 source_path: ../sources/jmbras-235-cushman-eighteenthnineteenthcenturychinese-1979-5b52f586fb21/frontmatter.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41492840
 ---
 
 # A history of Santubong, an island off the coast of Sarawak

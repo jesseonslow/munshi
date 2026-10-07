@@ -21,6 +21,7 @@ source_doc: jsbras-081-winstedt-historykedah-1920-f54a607bd565
 source_path: ../sources/jsbras-081-winstedt-historykedah-1920-f54a607bd565.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41561328
 ---
 
 # History of Kedah

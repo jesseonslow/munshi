@@ -23,6 +23,7 @@ source_doc: jmalayanras-181-bastin-fiveearlywatercolour-1958-1d00c8c49113
 source_path: ../sources/jmalayanras-181-bastin-fiveearlywatercolour-1958-1d00c8c49113.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41503127
 ---
 
 # Five early watercolour sketches of Penang & Malacca. J. Bastin and C.A. Gibson-Hill

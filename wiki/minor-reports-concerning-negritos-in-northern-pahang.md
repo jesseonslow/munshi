@@ -21,6 +21,7 @@ source_doc: jmbras-230-needham-minorreportsconcerning-1976-4b4b4163e0bb
 source_path: ../sources/jmbras-230-needham-minorreportsconcerning-1976-4b4b4163e0bb/frontmatter.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41492146
 ---
 
 # Minor reports concerning Negritos in Northern Pahang

@@ -21,6 +21,7 @@ source_doc: jmalayanras-111-rentse-twofolktaleskelantan-1931-16370594a949
 source_path: ../sources/jmalayanras-111-rentse-twofolktaleskelantan-1931-16370594a949.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41559778
 ---
 
 # Two folktales of Kelantan

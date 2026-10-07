@@ -21,6 +21,7 @@ source_doc: jmalayanras-161-gibsonhill-dutchmalaywordlistpeter-1953-9b8fe7933de9
 source_path: ../sources/jmalayanras-161-gibsonhill-dutchmalaywordlistpeter-1953-9b8fe7933de9.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41502914
 ---
 
 # The Dutch-Malay word-list of Peter Floris (1604

@@ -23,6 +23,7 @@ source_doc: jsbras-085-collenette-protectivedeviceslycaenid-1922-78747a80a827
 source_path: ../sources/jsbras-085-collenette-protectivedeviceslycaenid-1922-78747a80a827.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41561417
 ---
 
 # Protective devices by Lycaenid butterflies against the attacks of lizards and birds

@@ -21,6 +21,7 @@ source_doc: jsbras-030-w-bataraguru-1897-962a692d7699
 source_path: ../sources/jsbras-030-w-bataraguru-1897-962a692d7699.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41561592
 ---
 
 # Batara Guru

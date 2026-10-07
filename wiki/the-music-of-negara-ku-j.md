@@ -22,6 +22,7 @@ source_doc: jmbras-273-harding-musicnegaraku-1997-72fe303dfe23
 source_path: ../sources/jmbras-273-harding-musicnegaraku-1997-72fe303dfe23/frontmatter.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41493338
 ---
 
 # The music of Negara-Ku. J

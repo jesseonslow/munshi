@@ -23,6 +23,7 @@ source_doc: jmbras-220-hill-materialshistoricalgeography-1971-ae6b2b33da7c
 source_path: ../sources/jmbras-220-hill-materialshistoricalgeography-1971-ae6b2b33da7c.md
 summarized: true
 publication_type: index
+jstor: https://www.jstor.org/stable/41491630
 ---
 
 # Materials for historical geography and economic history of Southeast Asia in nineteenth century Malayan newspapers

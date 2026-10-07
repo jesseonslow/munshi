@@ -21,6 +21,7 @@ source_doc: jmalayanras-093-zainuddin-peculiarcustomkuala-1925-38d512f4f875
 source_path: ../sources/jmalayanras-093-zainuddin-peculiarcustomkuala-1925-38d512f4f875.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41560433
 ---
 
 # A peculiar custom in Kuala Kangsar

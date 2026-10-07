@@ -21,6 +21,7 @@ source_doc: jmbras-278-nakamura-comingislamchampa-2000-9f59a5cfdf8a
 source_path: ../sources/jmbras-278-nakamura-comingislamchampa-2000-9f59a5cfdf8a/frontmatter.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41493412
 ---
 
 # The coming of Islam to Champa

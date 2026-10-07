@@ -22,6 +22,7 @@ source_mismatch: false
 source_doc: jmbras-215-birch-vernacularpressstraits-1969-622fdcb44e36
 source_path: ../sources/jmbras-215-birch-vernacularpressstraits-1969-622fdcb44e36.md
 publication_type: note
+jstor: https://www.jstor.org/stable/41491983
 ---
 
 # The vernacular press in the Straits

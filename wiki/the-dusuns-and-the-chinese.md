@@ -21,6 +21,7 @@ source_doc: jmalayanras-096-evans-dusunschinese-1926-74755eae89a5
 source_path: ../sources/jmalayanras-096-evans-dusunschinese-1926-74755eae89a5.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41559643
 ---
 
 # The Dusuns and the Chinese

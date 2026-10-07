@@ -21,6 +21,7 @@ source_doc: jmalayanras-161-gibsonhill-singaporechronicle182437-1953-cc486f6d3bf
 source_path: ../sources/jmalayanras-161-gibsonhill-singaporechronicle182437-1953-cc486f6d3bf4.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41502912
 ---
 
 # The Singapore Chronicle, 1824–37

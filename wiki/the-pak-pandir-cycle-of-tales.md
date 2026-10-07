@@ -21,6 +21,7 @@ source_doc: jmbras-229-sweeney-pakpandircycle-1976-8b6e34978c67
 source_path: ../sources/jmbras-229-sweeney-pakpandircycle-1976-8b6e34978c67.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41492123
 ---
 
 # The Pak Pandir cycle of tales

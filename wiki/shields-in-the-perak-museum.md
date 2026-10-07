@@ -21,6 +21,7 @@ source_doc: jmalayanras-156-linehan-shieldsperakmuseum-1951-1d9ad6a2cbe5
 source_path: ../sources/jmalayanras-156-linehan-shieldsperakmuseum-1951-1d9ad6a2cbe5.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41503004
 ---
 
 # Shields in the Perak Museum

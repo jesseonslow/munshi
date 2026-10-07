@@ -21,6 +21,7 @@ source_doc: jmbras-304-kratoska-chettiarmoneylendersrural-2013-b8fc1aea88ba
 source_path: ../sources/jmbras-304-kratoska-chettiarmoneylendersrural-2013-b8fc1aea88ba/frontmatter.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/24894163
 ---
 
 # Chettiar moneylenders and rural credit in British Malaya

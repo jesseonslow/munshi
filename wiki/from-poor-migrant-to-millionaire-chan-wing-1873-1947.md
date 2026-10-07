@@ -16,6 +16,7 @@ status: stub
 published: false
 source_doc: jmbras-270-nui-shortbiographicalrecord-1996-1ded69d4abff
 source_path: ../sources/jmbras-270-nui-shortbiographicalrecord-1996-1ded69d4abff.md
+jstor: https://www.jstor.org/stable/41493296
 ---
 
 # From Poor Migrant to Millionaire: Chan Wing 1873 - 1947

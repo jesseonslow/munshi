@@ -21,6 +21,7 @@ source_doc: jmbras-313-gullick-williamgeorgemaxwell-2017-b02bf03d8980
 source_path: ../sources/jmbras-313-gullick-williamgeorgemaxwell-2017-b02bf03d8980.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/10.2307/26527806
 ---
 
 # William George Maxwell: a biographical note

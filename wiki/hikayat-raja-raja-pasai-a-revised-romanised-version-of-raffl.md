@@ -24,6 +24,7 @@ source_mismatch: true
 source_doc: jmalayanras-190-hill-hikayatrajarajapasai-1960-10a63ea86d5c
 source_path: ../sources/bibliography.md
 publication_type: translation
+jstor: https://www.jstor.org/stable/41505497
 ---
 
 # Hikayat Raja-Raja Pasai, a revised romanised version of Raffles MS 67, together with an English translation

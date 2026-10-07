@@ -22,6 +22,7 @@ source_path: ../sources/jsbras-017-maxwell-sriramamalay-1886-3155502a26ab.md
 source_mismatch: false
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41607043
 ---
 
 # The Raja of the bamboo. NQ 4

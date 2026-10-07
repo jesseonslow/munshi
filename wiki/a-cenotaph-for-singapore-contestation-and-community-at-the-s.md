@@ -36,6 +36,7 @@ keywords:
 - race and class in colonial Asia
 - © Malaysian Branch of the Royal Asiatic Society
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/10.2307/26527712
 ---
 
 # A cenotaph for Singapore: contestation and community at the Straits Settlements war memorial

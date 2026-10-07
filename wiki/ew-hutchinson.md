@@ -17,7 +17,7 @@ published: false
 ## Biography
 
 ## Bibliography
-- (1947) [Ancient history of Greater India. {review of Coedès’ Histoire ancienne des états hindouisés d’extrême-orient](./ancient-history-of-greater-india-review-of-coedès-histoire-a.md). *JMBRAS* 20(1): 156–160
+- (1947) [Ancient history of Greater India](./ancient-history-of-greater-india.md). *JMBRAS* 20(1): 156–160
 
 ### Reviews
 - (1992) Sriwijaya: history, religion and language of an early Malay polity. G. Coedès and L-C. Damais. . Manguin and M. Sheppard. *JMBRAS* 65(2): 99–102

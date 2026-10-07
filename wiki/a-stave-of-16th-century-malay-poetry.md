@@ -21,6 +21,7 @@ source_doc: jmalayanras-156-linehan-stave16thcentury-1951-78417cbe48d2
 source_path: ../sources/jmalayanras-156-linehan-stave16thcentury-1951-78417cbe48d2.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41503011
 ---
 
 # A stave of 16th century Malay poetry

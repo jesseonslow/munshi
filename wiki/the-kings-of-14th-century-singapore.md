@@ -27,6 +27,7 @@ source_doc: jmalayanras-143-linehan-kings14thcentury-1947-d84173e503cc
 source_path: ../sources/jmalayanras-143-linehan-kings14thcentury-1947-d84173e503cc.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41560034
 ---
 
 # The kings of 14th century Singapore

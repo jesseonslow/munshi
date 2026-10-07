@@ -21,6 +21,7 @@ source_doc: jmbras-286-gallop-bruneidarussalammodern-2004-a8b0ae95c1c7
 source_path: ../sources/jmbras-286-gallop-bruneidarussalammodern-2004-a8b0ae95c1c7/frontmatter.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41493513
 ---
 
 # Brunei Darussalam and the modern novel

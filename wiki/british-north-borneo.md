@@ -21,6 +21,7 @@ source_doc: jsbras-014-gueritz-britishnorthborneo-1884-eb69c21dd099
 source_path: ../sources/jsbras-014-gueritz-britishnorthborneo-1884-eb69c21dd099.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41561547
 ---
 
 # British North Borneo

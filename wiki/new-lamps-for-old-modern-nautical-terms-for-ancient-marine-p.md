@@ -23,6 +23,7 @@ source_doc: jmbras-302-rivers-newlampsold-2012-8bfd73438795
 source_path: ../sources/jmbras-302-rivers-newlampsold-2012-8bfd73438795/frontmatter.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/24894131
 ---
 
 # New lamps for old: modern nautical terms for ancient marine practices and the navigation of the Zheng He voyages

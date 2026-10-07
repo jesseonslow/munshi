@@ -21,6 +21,7 @@ source_doc: jsbras-062-staley-mountophirlegends-1912-c55279539115
 source_path: ../sources/jsbras-062-staley-mountophirlegends-1912-c55279539115.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41561160
 ---
 
 # Mount Ophir legends

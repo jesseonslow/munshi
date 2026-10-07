@@ -21,6 +21,9 @@ source_doc: jmbras-303-gullick-builders-2012-5ec1fcddda33
 source_path: ../sources/jmbras-303-gullick-builders-2012-5ec1fcddda33/frontmatter.md
 summarized: true
 publication_type: journal_article
+doi: https://doi.org/10.1353/ras.2012.0013
+project_muse: https://muse.jhu.edu/article/490435
+jstor: https://www.jstor.org/stable/24894192
 ---
 
 # The builders

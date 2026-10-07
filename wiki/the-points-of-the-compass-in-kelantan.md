@@ -21,6 +21,7 @@ source_doc: jmalayanras-117-rentse-pointscompasskelantan-1933-b91b54b0dde7
 source_path: ../sources/jmalayanras-117-rentse-pointscompasskelantan-1933-b91b54b0dde7.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41559823
 ---
 
 # The points of the compass in Kelantan

@@ -21,6 +21,7 @@ source_doc: jsbras-019-museum-mrrb-1887-7d4bf2cb3a36
 source_path: ../sources/jsbras-019-museum-mrrb-1887-7d4bf2cb3a36.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41607058
 ---
 
 # Birds from Perak

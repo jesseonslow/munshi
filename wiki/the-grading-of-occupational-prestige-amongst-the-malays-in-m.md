@@ -21,6 +21,7 @@ source_doc: jmbras-213-alatas-gradingoccupationalprestige-1968-436e6a891196
 source_path: ../sources/jmbras-213-alatas-gradingoccupationalprestige-1968-436e6a891196/references.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41491935
 ---
 
 # The grading of occupational prestige amongst the Malays in Malaysia

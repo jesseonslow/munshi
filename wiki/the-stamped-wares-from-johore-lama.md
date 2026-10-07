@@ -21,6 +21,7 @@ source_doc: jmalayanras-173-sieveking-stampedwaresjohore-1956-26e2c10458ce
 source_path: ../sources/jmalayanras-173-sieveking-stampedwaresjohore-1956-26e2c10458ce.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41503210
 ---
 
 # The stamped wares from Johore Lama

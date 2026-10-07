@@ -21,6 +21,7 @@ source_doc: jsbras-062-hanitsch-mosquitolarvfreshwater-1912-316ef7f5ae69
 source_path: ../sources/jsbras-062-hanitsch-mosquitolarvfreshwater-1912-316ef7f5ae69.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41561161
 ---
 
 # Mosquito larvae and freshwater fish

@@ -28,6 +28,7 @@ keywords:
 - William Milne
 - Protestant missionaries
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/10.2307/26927986
 ---
 
 # The Anglo-Chinese College in Malacca, 1818–1843: its location and facilities

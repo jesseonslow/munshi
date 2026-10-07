@@ -21,6 +21,7 @@ source_doc: jmbras-237-milner-missionarysourcebiography-1980-4ed3a38178ab
 source_path: ../sources/jmbras-237-milner-missionarysourcebiography-1980-4ed3a38178ab.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41493566
 ---
 
 # A missionary source for a biography of Munshi Abdullah

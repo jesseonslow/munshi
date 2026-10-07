@@ -22,6 +22,7 @@ source_doc: jsbras-054-moulton-insectivoroushornbill-1910-0dfb5609c13c
 source_path: ../sources/jsbras-054-moulton-insectivoroushornbill-1910-0dfb5609c13c.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41561110
 ---
 
 # An insectivorous hornbill

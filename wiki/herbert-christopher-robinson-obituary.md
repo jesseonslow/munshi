@@ -20,6 +20,7 @@ published: false
 source_doc: jmalayanras-110-kloss-obituaryherbertchristopher-1930-b3dd88b6c1ed
 source_path: ../sources/jmalayanras-110-kloss-obituaryherbertchristopher-1930-b3dd88b6c1ed.md
 publication_type: obituary
+jstor: https://www.jstor.org/stable/41559759
 ---
 
 # Herbert Christopher Robinson. Obituary

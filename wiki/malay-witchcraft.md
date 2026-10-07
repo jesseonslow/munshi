@@ -21,6 +21,7 @@ source_doc: jsbras-jsbras-039-marriott-malaywitchcraft-1903-8b0c869688c7
 source_path: ../sources/jsbras-jsbras-039-marriott-malaywitchcraft-1903-8b0c869688c7.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41560539
 ---
 
 # Malay witchcraft

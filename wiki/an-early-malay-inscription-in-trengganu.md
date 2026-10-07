@@ -21,6 +21,7 @@ source_doc: jmalayanras-092-paterson-earlymalayinscription-1924-9ac6421409b7
 source_path: ../sources/jmalayanras-092-paterson-earlymalayinscription-1924-9ac6421409b7.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41559588
 ---
 
 # An early Malay inscription in Trengganu

@@ -21,6 +21,7 @@ source_doc: jmalayanras-100-cardon-migrationcatopsiliapomona-1927-a885652daf87
 source_path: ../sources/jmalayanras-100-cardon-migrationcatopsiliapomona-1927-a885652daf87.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/24249119
 ---
 
 # On a migration of Catopsilia pomona (F.

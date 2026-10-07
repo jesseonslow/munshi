@@ -21,6 +21,7 @@ published: false
 source_doc: jsbras-002-irving-suggestionsregardingnew-1878-7a7b43856a0e
 source_path: ../sources/jsbras-002-irving-suggestionsregardingnew-1878-7a7b43856a0e.md
 summarized: true
+jstor: https://www.jstor.org/stable/41561487
 ---
 # Suggestions regarding a new Malay dictionary
 

@@ -27,6 +27,7 @@ keywords:
 - Cameron Highlands
 - Tanah Rata
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/10.2307/26527783
 ---
 
 # Tanah Rata and the development of the Cameron Highlands, 1925–2030

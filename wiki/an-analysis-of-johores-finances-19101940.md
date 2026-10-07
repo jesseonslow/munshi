@@ -21,6 +21,7 @@ source_doc: jmbras-293-sugimoto-analysisstatejohores-2007-0e8af6befe3d
 source_path: ../sources/jmbras-293-sugimoto-analysisstatejohores-2007-0e8af6befe3d/frontmatter.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41493697
 ---
 
 # An analysis of Johore’s finances 1910–1940

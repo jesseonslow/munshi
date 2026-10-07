@@ -21,6 +21,7 @@ source_doc: jmbras-238-kaur-roadrailcompetitioncolonial-1980-cef55969b4b8
 source_path: ../sources/jmbras-238-kaur-roadrailcompetitioncolonial-1980-cef55969b4b8.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41493593
 ---
 
 # Road or rail? Competition in colonial Malaya, 1909–1940

@@ -21,6 +21,7 @@ source_doc: jmbras-268-horton-jameshattonhall-1995-8d23e289d9a2
 source_path: ../sources/jmbras-268-horton-jameshattonhall-1995-8d23e289d9a2.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41493269
 ---
 
 # James Hatton Hall (1866–1945

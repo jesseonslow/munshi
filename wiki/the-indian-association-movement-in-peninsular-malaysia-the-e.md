@@ -22,6 +22,7 @@ source_doc: jmbras-263-kim-indianassociationmovement-1992-2b50c17f16e7
 source_path: ../sources/jmbras-263-kim-indianassociationmovement-1992-2b50c17f16e7.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41493577
 ---
 
 # The ‘Indian Association Movement’ in peninsular Malaysia: the early years

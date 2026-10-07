@@ -22,6 +22,7 @@ source_doc: jmbras-317-langdon-journalswilliamscott-2019-a2d9750ba4c9
 source_path: ../sources/jmbras-317-langdon-journalswilliamscott-2019-a2d9750ba4c9/frontmatter.md
 summarized: true
 publication_type: document
+jstor: https://www.jstor.org/stable/10.2307/26928042
 ---
 
 # The journals of William Scott, 1794–1805. Transcribed and annotated M. Langdon

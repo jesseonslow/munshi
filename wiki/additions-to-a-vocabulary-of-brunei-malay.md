@@ -21,6 +21,7 @@ source_doc: jsbras-086-macbryan-additionsvocabularybruneimalay-1922-51ff7c95991f
 source_path: ../sources/jsbras-086-macbryan-additionsvocabularybruneimalay-1922-51ff7c95991f.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41561716
 ---
 
 # Additions to a vocabulary of Brunei-Malay

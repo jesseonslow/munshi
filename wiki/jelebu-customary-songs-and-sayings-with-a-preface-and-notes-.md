@@ -23,6 +23,7 @@ source_doc: jsbras-078-caldecott-jelebucustomarysongs-1918-53f02d571e06
 source_path: ../sources/jsbras-078-caldecott-jelebucustomarysongs-1918-53f02d571e06.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41561281
 ---
 
 # Jelebu customary songs and sayings; with a preface and notes, R.O. Winstedt

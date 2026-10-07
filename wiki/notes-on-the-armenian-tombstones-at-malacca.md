@@ -21,6 +21,7 @@ source_doc: jmalayanras-126-mills-notearmeniantombstones-1936-7faf1ffe1876
 source_path: ../sources/jmalayanras-126-mills-notearmeniantombstones-1936-7faf1ffe1876.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41559863
 ---
 
 # Notes on the Armenian tombstones at Malacca

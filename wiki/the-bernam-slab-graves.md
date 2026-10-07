@@ -21,6 +21,7 @@ source_doc: jmalayanras-134-wilkinson-bernamslabgraves-1939-47e876f53f7b
 source_path: ../sources/jmalayanras-134-wilkinson-bernamslabgraves-1939-47e876f53f7b.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41559939
 ---
 
 # The Bernam slab-graves

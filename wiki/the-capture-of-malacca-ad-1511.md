@@ -21,6 +21,7 @@ source_doc: jsbras-061-wilkinson-capturemalaccaad-1912-63c774154f23
 source_path: ../sources/jsbras-061-wilkinson-capturemalaccaad-1912-63c774154f23.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41561669
 ---
 
 # The capture of Malacca, A.D. 1511

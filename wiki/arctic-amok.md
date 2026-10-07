@@ -21,6 +21,7 @@ source_doc: jmalayanras-087-kloss-arcticamok-1923-39f3726105f0
 source_path: ../sources/jmalayanras-087-kloss-arcticamok-1923-39f3726105f0.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41559551
 ---
 
 # Arctic amok

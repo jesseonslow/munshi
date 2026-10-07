@@ -21,6 +21,7 @@ source_doc: jmbras-231-warren-balambanganrisesulu-1977-653d1cea60b8
 source_path: ../sources/jmbras-231-warren-balambanganrisesulu-1977-653d1cea60b8.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41492163
 ---
 
 # Balambangan and the rise of the Sulu Sultanate, 1772–1775

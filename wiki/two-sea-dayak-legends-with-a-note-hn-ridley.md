@@ -22,6 +22,7 @@ source_mismatch: true
 source_doc: jsbras-041-gomes-twoseadyaklegends-1904-1eb86d74392b
 source_path: ../sources/jsbras-041-gomes-twoseadyaklegends-1904-1eb86d74392b.md
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41561566
 ---
 
 # Two Sea-Dayak legends. {With a note H.N. Ridley

@@ -21,6 +21,7 @@ source_doc: jmbras-250-miksic-valleymegalithswest-1986-b7e3940c1850
 source_path: ../sources/jmbras-250-miksic-valleymegalithswest-1986-b7e3940c1850/frontmatter.md
 summarized: true
 publication_type: monograph
+jstor: https://www.jstor.org/stable/41493033
 ---
 
 # An account of a botanical expedition to Lower Siam

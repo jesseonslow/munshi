@@ -21,6 +21,7 @@ source_doc: jmalayanras-098-foxworthy-sizetreesmalay-1926-952319c64892
 source_path: ../sources/jmalayanras-098-foxworthy-sizetreesmalay-1926-952319c64892.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41559677
 ---
 
 # The size of trees in the Malay Peninsula

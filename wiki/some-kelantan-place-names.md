@@ -21,6 +21,7 @@ source_doc: jmalayanras-117-bee-kelantanplacenames-1933-8999b2a7eca9
 source_path: ../sources/jmalayanras-117-bee-kelantanplacenames-1933-8999b2a7eca9.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41559801
 ---
 
 # Some Kelantan place names

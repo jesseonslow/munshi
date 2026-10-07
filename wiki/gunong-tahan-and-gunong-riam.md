@@ -21,6 +21,7 @@ source_doc: jsbras-062-scrivenor-gunongtahangunong-1912-cb629d5a434f
 source_path: ../sources/jsbras-062-scrivenor-gunongtahangunong-1912-cb629d5a434f.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41561158
 ---
 
 # Gunong Tahan and Gunong Riam

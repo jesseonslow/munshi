@@ -21,6 +21,7 @@ source_doc: jsbras-084-maxwell-malayanfishes-1921-006af467d27a
 source_path: ../sources/jsbras-084-maxwell-malayanfishes-1921-006af467d27a/index.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41561380
 ---
 
 # Malayan fishes

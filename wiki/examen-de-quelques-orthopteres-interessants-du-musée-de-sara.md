@@ -21,6 +21,7 @@ source_doc: jsbras-067-bolivar-examendequelques-1914-a23fb211062f
 source_path: ../sources/jsbras-067-bolivar-examendequelques-1914-a23fb211062f.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41561004
 ---
 
 # Examen de quelques Orthopteres interessants du Musée de Sarawak

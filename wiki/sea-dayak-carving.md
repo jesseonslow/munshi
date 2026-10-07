@@ -21,6 +21,7 @@ source_doc: jmalayanras-140-banks-seadayakcarving-1941-1feef39922d4
 source_path: ../sources/jmalayanras-140-banks-seadayakcarving-1941-1feef39922d4.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41560463
 ---
 
 # Sea-Dayak carving

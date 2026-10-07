@@ -21,6 +21,7 @@ source_doc: jsbras-031-skeat-recordsmalaymagic-1898-3648f10444dc
 source_path: ../sources/jsbras-031-skeat-recordsmalaymagic-1898-3648f10444dc.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41561673
 ---
 
 # Some records of Malay magic by an eye-witness

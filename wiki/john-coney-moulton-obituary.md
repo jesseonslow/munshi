@@ -20,6 +20,7 @@ published: false
 source_doc: jmalayanras-097-johnconeymoulton-1926-661b47321e43
 source_path: ../sources/jmalayanras-097-johnconeymoulton-1926-661b47321e43.md
 publication_type: obituary
+jstor: https://www.jstor.org/stable/41559668
 ---
 
 # John Coney Moulton. Obituary

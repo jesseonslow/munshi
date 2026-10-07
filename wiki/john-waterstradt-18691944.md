@@ -21,6 +21,7 @@ source_doc: jmbras-216-barlow-johnwaterstradt18691944-1969-7f77ff0f591c
 source_path: ../sources/jmbras-216-barlow-johnwaterstradt18691944-1969-7f77ff0f591c.md
 summarized: true
 publication_type: obituary
+jstor: https://www.jstor.org/stable/41491995
 ---
 
 # John Waterstradt, 1869–1944

@@ -21,6 +21,7 @@ source_doc: jmalayanras-100-foxworthy-treenamesachanges-1927-3797f616819d
 source_path: ../sources/jmalayanras-100-foxworthy-treenamesachanges-1927-3797f616819d.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/24249122
 ---
 
 # Tree names – a few changes

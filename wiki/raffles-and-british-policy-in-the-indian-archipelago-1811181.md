@@ -21,6 +21,7 @@ source_doc: jmalayanras-165-bastin-rafflesbritishpolicy-1954-e0c3210b6931
 source_path: ../sources/jmalayanras-165-bastin-rafflesbritishpolicy-1954-e0c3210b6931.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41486176
 ---
 
 # Raffles and British policy in the Indian Archipelago, 1811–1816

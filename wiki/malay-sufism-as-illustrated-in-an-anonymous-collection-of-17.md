@@ -23,6 +23,7 @@ source_mismatch: true
 source_doc: jmalayanras-178-johns-malaysufismillustrated-1957-b4ef4de926ac
 source_path: ../sources/appendix.md
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41503114
 ---
 
 # Malay Sufism as illustrated in an anonymous collection of 17th century tracts

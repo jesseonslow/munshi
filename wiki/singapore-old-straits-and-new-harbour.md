@@ -21,6 +21,7 @@ source_doc: jsbras-060-barnes-singaporeoldstraits-1911-f740698efc71
 source_path: ../sources/jsbras-060-barnes-singaporeoldstraits-1911-f740698efc71.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41561140
 ---
 
 # Singapore old Straits and new harbour

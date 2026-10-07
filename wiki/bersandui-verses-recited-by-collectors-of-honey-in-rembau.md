@@ -21,6 +21,7 @@ source_doc: jmalayanras-105-dussek-bersanduiversesrecited-1928-6bc28e81e7fe
 source_path: ../sources/jmalayanras-105-dussek-bersanduiversesrecited-1928-6bc28e81e7fe.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41559719
 ---
 
 # Bersandui: verses recited by collectors of honey in Rembau

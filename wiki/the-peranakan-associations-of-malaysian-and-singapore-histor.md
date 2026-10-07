@@ -23,6 +23,7 @@ source_doc: jmbras-297-kim-peranakanassociationsmalaysia-2009-ca6522517010
 source_path: ../sources/jmbras-297-kim-peranakanassociationsmalaysia-2009-ca6522517010/frontmatter.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41493755
 ---
 
 # The Peranakan associations of Malaysian and Singapore: history and current scenario

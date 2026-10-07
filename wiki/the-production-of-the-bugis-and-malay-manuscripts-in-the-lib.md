@@ -30,6 +30,7 @@ keywords:
 - Abdullah bin Abdulkadir
 - Husin bin Ismail
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/10.2307/27368660
 ---
 
 # The production of the Bugis and Malay manuscripts in the Library of Congress

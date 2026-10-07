@@ -23,6 +23,7 @@ source_doc: jsbras-004-rowell-rainfallregisteredundermentiond-1879-be8751449fae
 source_path: ../sources/jsbras-004-rowell-rainfallregisteredundermentiond-1879-be8751449fae.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41560640
 ---
 
 # Rainfall registered at the undermentioned stations, in the Straits Settlements and the Native States, during the half-year ending 31st December 1879

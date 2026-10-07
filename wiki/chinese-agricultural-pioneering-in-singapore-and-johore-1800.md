@@ -21,6 +21,7 @@ source_doc: jmbras-207-jackson-chineseagriculturalpioneering-1965-fa4ec76def63
 source_path: ../sources/jmbras-207-jackson-chineseagriculturalpioneering-1965-fa4ec76def63.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41491840
 ---
 
 # Chinese agricultural pioneering in Singapore and Johore, 1800–1917

@@ -21,6 +21,7 @@ source_doc: jmbras-220-sweeney-peranhutanmalay-1971-b0dc7ab97b77
 source_path: ../sources/jmbras-220-sweeney-peranhutanmalay-1971-b0dc7ab97b77.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41491628
 ---
 
 # Peran Hutan, a Malay wayang drama

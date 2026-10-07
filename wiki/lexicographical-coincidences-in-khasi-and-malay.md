@@ -21,6 +21,7 @@ source_doc: jsbras-077-winstedt-lexicographicalcoincidenceskhasi-1917-3c2996cf64
 source_path: ../sources/jsbras-077-winstedt-lexicographicalcoincidenceskhasi-1917-3c2996cf64bb.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41561270
 ---
 
 # Lexicographical coincidences in Khasi and Malay

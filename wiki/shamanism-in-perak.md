@@ -21,6 +21,7 @@ source_doc: jsbras-012-maxwell-shamanismperak-1883-80e12747a432
 source_path: ../sources/jsbras-012-maxwell-shamanismperak-1883-80e12747a432.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41560715
 ---
 
 # Shamanism in Perak

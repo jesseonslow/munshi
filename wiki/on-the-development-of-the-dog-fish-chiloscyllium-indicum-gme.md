@@ -23,6 +23,7 @@ source_doc: jmalayanras-096-smedley-developmentdogfishchiloscyllium-1926-d205921
 source_path: ../sources/jmalayanras-096-smedley-developmentdogfishchiloscyllium-1926-d205921cc099.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41559649
 ---
 
 # On the development of the dog-fish Chiloscyllium indicum (Gmel.). Records of the Raffles Museum, No. 31

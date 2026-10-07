@@ -21,6 +21,7 @@ source_doc: jmalayanras-102-funkhouser-spoliamentawiensiamembracidae-1928-d49627
 source_path: ../sources/jmalayanras-102-funkhouser-spoliamentawiensiamembracidae-1928-d49627304770.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41559689
 ---
 
 # Spolia mentawiensia: Membracidae, Homoptera

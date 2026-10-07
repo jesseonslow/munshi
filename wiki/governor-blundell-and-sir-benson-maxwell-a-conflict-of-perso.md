@@ -21,6 +21,7 @@ source_doc: jmalayanras-177-turnbull-governorblundellsir-1957-aecbc75075bc
 source_path: ../sources/jmalayanras-177-turnbull-governorblundellsir-1957-aecbc75075bc.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41503112
 ---
 
 # Governor Blundell and Sir Benson Maxwell: a conflict of personalities

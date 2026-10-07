@@ -20,6 +20,7 @@ published: false
 source_doc: jmbras-309-drkg-2015-9f83b4a26686
 source_path: ../sources/jmbras-309-drkg-2015-9f83b4a26686.md
 publication_type: obituary
+jstor: https://www.jstor.org/stable/10.2307/26527720
 ---
 
 # In memoriam: K.G. Tregonning

@@ -143,8 +143,8 @@ articles:
   pages: 160–161
   is_review: true
 - id: jmbras-10-1-p164
-  slug: a-history-of-johore-1673ca1800-ad-introd-in-english-text-in-
-  title: 'A history of Johore (1673–ca.1800 A.D.) {Introd. in English: text in Jawi'
+  slug: a-history-of-johore-1673ca1800-ad
+  title: 'A history of Johore (1673–ca.1800 A.D.)'
   authors:
   - R.O. Winstedt
   pages: 164–170, 1–31
@@ -173,7 +173,7 @@ articles:
 * [Shaer Dandan Setia](./shaer-dandan-setia.md) — [H. Overbeck](./h-overbeck.md) (pp. 141–158)
 * [Neoliths from Johore](./neoliths-from-johore.md) — [Abdul Aziz](./abdul-aziz.md) (pp. 159)
 * *Oudheidkundig verslag* — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 160–161) [Review]
-* [A history of Johore (1673–ca.1800 A.D.) {Introd. in English: text in Jawi](./a-history-of-johore-1673ca1800-ad-introd-in-english-text-in-.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 164–170, 1–31)
+* [A history of Johore (1673–ca.1800 A.D.)](./a-history-of-johore-1673ca1800-ad.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 164–170, 1–31)
 
 ## Contributors
 * [Abdul Aziz](./abdul-aziz.md)

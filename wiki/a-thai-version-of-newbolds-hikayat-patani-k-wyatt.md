@@ -20,6 +20,7 @@ published: false
 source_doc: jmbras-212-wyatt-thaiversionnewbolds-1967-6590105b29e1
 source_path: ../sources/jmbras-212-wyatt-thaiversionnewbolds-1967-6590105b29e1.md
 publication_type: translation
+jstor: https://www.jstor.org/stable/41491922
 ---
 
 # A Thai version of Newbold’s “Hikayat Patani”. .K. Wyatt

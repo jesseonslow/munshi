@@ -21,6 +21,7 @@ source_doc: jsbras-076-dussek-speechceremonialhaircutting-1917-1a6acafadba6
 source_path: ../sources/jsbras-076-dussek-speechceremonialhaircutting-1917-1a6acafadba6.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41561258
 ---
 
 # Speech at the ceremonial haircutting of a young child. .T. Dussek

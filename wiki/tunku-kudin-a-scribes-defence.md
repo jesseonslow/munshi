@@ -21,6 +21,7 @@ source_doc: jmbras-258-jin-tunkukudinscribes-1990-f6ad12dccf52
 source_path: ../sources/jmbras-258-jin-tunkukudinscribes-1990-f6ad12dccf52/frontmatter.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41493146
 ---
 
 # Tunku Kudin: a scribe’s defence

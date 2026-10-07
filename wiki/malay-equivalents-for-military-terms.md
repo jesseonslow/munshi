@@ -22,6 +22,7 @@ source_mismatch: true
 source_doc: jmalayanras-090-hashim-malayequivalentsmilitary-1924-92fe355284ca
 source_path: ../sources/jmalayanras-090-hashim-malayequivalentsmilitary-1924-92fe355284ca.md
 publication_type: note
+jstor: https://www.jstor.org/stable/41559580
 ---
 
 # Malay equivalents for military terms

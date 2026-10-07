@@ -27,6 +27,7 @@ keywords:
 - Tan Pin Pin
 - Amir Muhammad
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/10.2307/26527784
 ---
 
 # Muted speech, Apa Khabar Orang Kampung , and To Singapore, with Love

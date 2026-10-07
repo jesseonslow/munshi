@@ -21,6 +21,7 @@ source_doc: jmalayanras-156-gibsonhill-affairbruas-1951-979888c94052
 source_path: ../sources/jmalayanras-156-gibsonhill-affairbruas-1951-979888c94052.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41503016
 ---
 
 # The affair at Bruas (1837

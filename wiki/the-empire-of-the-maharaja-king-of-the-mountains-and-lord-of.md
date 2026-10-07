@@ -22,6 +22,7 @@ source_doc: jsbras-081-blagden-empiremaharajaking-1920-e011ef7e941f
 source_path: ../sources/jsbras-081-blagden-empiremaharajaking-1920-e011ef7e941f.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41561327
 ---
 
 # The empire of the Maharaja, King of the Mountains and Lord of the Isles

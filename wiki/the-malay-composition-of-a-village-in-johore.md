@@ -21,6 +21,7 @@ source_doc: jmalayanras-175-burridge-malaycompositionvillage-1956-7740092e90e2
 source_path: ../sources/jmalayanras-175-burridge-malaycompositionvillage-1956-7740092e90e2.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41503097
 ---
 
 # The Malay composition of a village in Johore

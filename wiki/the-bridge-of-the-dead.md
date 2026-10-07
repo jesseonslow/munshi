@@ -21,6 +21,7 @@ source_doc: jmalayanras-156-winstedt-bridgedead-1951-43d54d2b637d
 source_path: ../sources/jmalayanras-156-winstedt-bridgedead-1951-43d54d2b637d.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41503007
 ---
 
 # The bridge of the dead

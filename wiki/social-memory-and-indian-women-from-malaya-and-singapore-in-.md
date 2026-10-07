@@ -34,6 +34,7 @@ keywords:
 - Singapore
 - © Malaysian Branch of the Royal Asiatic Society
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/10.2307/26527714
 ---
 
 # Social memory and Indian women from Malaya and Singapore in the Rani of Jhansi regiment

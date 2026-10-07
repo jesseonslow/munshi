@@ -21,6 +21,7 @@ source_doc: jmbras-207-suming-kelantantrengganu19091939-1965-84d405e68375
 source_path: ../sources/jmbras-207-suming-kelantantrengganu19091939-1965-84d405e68375.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41491843
 ---
 
 # Kelantan and Trengganu, 1909–1939

@@ -21,6 +21,7 @@ source_doc: jsbras-057-ridley-scientificexpeditiontemengoh-1911-3e3c492e74f0
 source_path: ../sources/jsbras-057-ridley-scientificexpeditiontemengoh-1911-3e3c492e74f0.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41561118
 ---
 
 # A scientific expedition to Temengoh, Upper Perak

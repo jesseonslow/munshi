@@ -21,6 +21,7 @@ source_doc: jmbras-315-dean-johore-2018-f6543275a9b6
 source_path: ../sources/jmbras-315-dean-johore-2018-f6543275a9b6.md
 summarized: true
 publication_type: document
+jstor: https://www.jstor.org/stable/10.2307/26928008
 ---
 
 # An 1874 account of Johore

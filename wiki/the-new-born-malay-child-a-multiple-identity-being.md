@@ -21,6 +21,7 @@ source_doc: jmbras-249-massard-newbornmalaychild-1985-5007d665c632
 source_path: ../sources/jmbras-249-massard-newbornmalaychild-1985-5007d665c632/frontmatter.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41493018
 ---
 
 # The new-born Malay child: a multiple identity being

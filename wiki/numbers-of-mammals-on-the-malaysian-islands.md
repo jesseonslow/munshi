@@ -21,6 +21,7 @@ source_doc: jmbras-208-harrison-numbersmammalsmalaysian-1965-cd872deb1774
 source_path: ../sources/jmbras-208-harrison-numbersmammalsmalaysian-1965-cd872deb1774/frontmatter.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41492213
 ---
 
 # Numbers of mammals on the Malaysian islands

@@ -21,6 +21,7 @@ source_doc: jsbras-049-abbott-barkcanoesamong-1907-98142aaf6e2f
 source_path: ../sources/jsbras-049-abbott-barkcanoesamong-1907-98142aaf6e2f.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41561178
 ---
 
 # Bark canoes among the Jakuns and Dyaks

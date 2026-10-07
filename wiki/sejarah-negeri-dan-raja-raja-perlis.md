@@ -21,6 +21,7 @@ source_doc: jmbras-216-mohamad-sejarahnegeridan-1969-5bccd4f44c30
 source_path: ../sources/jmbras-216-mohamad-sejarahnegeridan-1969-5bccd4f44c30.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41491999
 ---
 
 # Sejarah negeri dan raja-raja Perlis

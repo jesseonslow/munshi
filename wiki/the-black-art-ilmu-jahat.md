@@ -27,6 +27,7 @@ source_doc: jmalayanras-117-coope-blackartilmu-1933-a43e0361894b
 source_path: ../sources/jmalayanras-117-coope-blackartilmu-1933-a43e0361894b.md
 summarized: true
 publication_type: translation
+jstor: https://www.jstor.org/stable/41559827
 ---
 
 # The black art (ilmu jahat

@@ -21,6 +21,7 @@ source_doc: jsbras-064-knight-tantocksengs-1913-054e319f9b15
 source_path: ../sources/jsbras-064-knight-tantocksengs-1913-054e319f9b15.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41561615
 ---
 
 # Tan Tock Seng Hospital, Singapore

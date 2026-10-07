@@ -21,6 +21,7 @@ source_doc: jsbras-016-rowell-meteorologicalreportyear-1885-a845e7fd8dba
 source_path: ../sources/jsbras-016-rowell-meteorologicalreportyear-1885-a845e7fd8dba.md
 summarized: true
 publication_type: document
+jstor: https://www.jstor.org/stable/41560761
 ---
 
 # Meteorological report for the year 1885

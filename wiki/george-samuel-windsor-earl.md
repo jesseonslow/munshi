@@ -21,6 +21,7 @@ source_doc: jmalayanras-185-gibsonhill-georgesamuelwindsor-1959-e61d8811a0ca
 source_path: ../sources/jmalayanras-185-gibsonhill-georgesamuelwindsor-1959-e61d8811a0ca.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41503150
 ---
 
 # George Samuel Windsor Earl

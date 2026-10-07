@@ -21,6 +21,7 @@ source_doc: jmalayanras-096-hamilton-malaylovecharms-1926-054435b7d434
 source_path: ../sources/jmalayanras-096-hamilton-malaylovecharms-1926-054435b7d434.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41559640
 ---
 
 # Malay love charms. Recorded and .W. Hamilton

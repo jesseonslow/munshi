@@ -21,6 +21,7 @@ source_doc: jmalayanras-161-wright-freedomlabourraffless-1953-12ddcc0712dc
 source_path: ../sources/jmalayanras-161-wright-freedomlabourraffless-1953-12ddcc0712dc.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41502908
 ---
 
 # The freedom of labour under Raffles’ administration in Java, 1811–16

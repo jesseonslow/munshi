@@ -21,6 +21,7 @@ source_doc: jmalayanras-169-sieveking-recentarchaeologicaldiscoveries-1955-c7b49
 source_path: ../sources/jmalayanras-169-sieveking-recentarchaeologicaldiscoveries-1955-c7b497900ed4.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41503183
 ---
 
 # Recent archaeological discoveries in Malaya (1954

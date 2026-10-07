@@ -21,6 +21,7 @@ source_doc: jsbras-046-laidlaw-baboonpasi-1906-733ad98bd1de
 source_path: ../sources/jsbras-046-laidlaw-baboonpasi-1906-733ad98bd1de.md
 summarized: true
 publication_type: translation
+jstor: https://www.jstor.org/stable/41561643
 ---
 
 # The baboon Pa Si Bagok and the girl

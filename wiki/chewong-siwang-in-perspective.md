@@ -21,6 +21,7 @@ source_doc: jmbras-247-needham-chewongsiwangperspective-1984-9a1049eb0971
 source_path: ../sources/jmbras-247-needham-chewongsiwangperspective-1984-9a1049eb0971.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41492985
 ---
 
 # Chewong (Siwang) in perspective

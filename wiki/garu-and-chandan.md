@@ -21,6 +21,7 @@ source_doc: jsbras-035-ridley-garuchandan-1901-de0270b14829
 source_path: ../sources/jsbras-035-ridley-garuchandan-1901-de0270b14829.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41560958
 ---
 
 # Garu and Chandan

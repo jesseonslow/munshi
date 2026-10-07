@@ -21,6 +21,7 @@ source_doc: jmalayanras-143-ahmad-varioussignificationsmalay-1947-719ee84db649
 source_path: ../sources/jmalayanras-143-ahmad-varioussignificationsmalay-1947-719ee84db649.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41560027
 ---
 
 # The various significations of the Malay word sejok

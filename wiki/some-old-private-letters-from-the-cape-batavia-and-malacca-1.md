@@ -35,6 +35,7 @@ source_mismatch: true
 source_doc: jmalayanras-090-papendrecht-oldprivateletters-1924-7497d194d195
 source_path: ../sources/jmalayanras-090-papendrecht-oldprivateletters-1924-7497d194d195.md
 publication_type: document
+jstor: https://www.jstor.org/stable/41559566
 ---
 
 # Some old private letters from the Cape, Batavia and Malacca, 1778–1788. {Comp} P.C. Hoynck van Papendrecht

@@ -23,6 +23,7 @@ source_doc: jmbras-239-kratz-journeyeast17th-1981-4eb98af791a0
 source_path: ../sources/jmbras-239-kratz-journeyeast17th-1981-4eb98af791a0/frontmatter.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41492899
 ---
 
 # The journey to the East: 17th and 18th century German travel books as sources of study

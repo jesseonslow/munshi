@@ -21,6 +21,7 @@ source_doc: jsbras-024-bott-allegeddiscoverymercury-1891-4f25ac24a88f
 source_path: ../sources/jsbras-024-bott-allegeddiscoverymercury-1891-4f25ac24a88f.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41561466
 ---
 
 # The alleged discovery of mercury in Malacca

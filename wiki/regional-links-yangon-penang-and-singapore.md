@@ -21,6 +21,7 @@ source_doc: jmbras-297-win-regionallinksyangon-2009-0fbd69f279c6
 source_path: ../sources/jmbras-297-win-regionallinksyangon-2009-0fbd69f279c6/frontmatter.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41493749
 ---
 
 # Regional links: Yangon, Penang and Singapore

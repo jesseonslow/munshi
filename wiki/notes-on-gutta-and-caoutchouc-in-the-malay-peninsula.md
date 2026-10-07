@@ -21,6 +21,7 @@ source_doc: jsbras-001-murton-notesguttacaoutchouc-1878-dc27c2b2a0e9
 source_path: ../sources/jsbras-001-murton-notesguttacaoutchouc-1878-dc27c2b2a0e9.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41561451
 ---
 
 # Notes on gutta and caoutchouc in the Malay Peninsula

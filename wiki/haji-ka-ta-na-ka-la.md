@@ -21,6 +21,7 @@ source_doc: jsbras-054-blagden-hajikatanakala-1910-618671d38507
 source_path: ../sources/jsbras-054-blagden-hajikatanakala-1910-618671d38507.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41561108
 ---
 
 # Haji Ka-Ta-Na-Ka-La

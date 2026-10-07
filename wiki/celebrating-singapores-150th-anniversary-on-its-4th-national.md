@@ -47,6 +47,7 @@ keywords:
 - ‘Never forget the incompleteness of our history’
 - 'The Birthday Book 2017: What Should we Never Forget?*'
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/10.2307/26928040
 ---
 
 # Celebrating Singapore’s 150th anniversary on its 4th national day (9 August 1969

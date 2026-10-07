@@ -21,6 +21,7 @@ source_doc: jmbras-282-collins-bongaitanjungipoh-2002-97d9f227ffe5
 source_path: ../sources/jmbras-282-collins-bongaitanjungipoh-2002-97d9f227ffe5/frontmatter.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41493464
 ---
 
 # Bongai in Tanjung Ipoh, Negeri Sembilan

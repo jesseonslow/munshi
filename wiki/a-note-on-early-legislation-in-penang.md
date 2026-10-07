@@ -21,6 +21,7 @@ source_doc: jmalayanras-151-chye-noteearlylegislation-1950-f07256aa27a2
 source_path: ../sources/jmalayanras-151-chye-noteearlylegislation-1950-f07256aa27a2/frontmatter.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41559485
 ---
 
 # A note on early legislation in Penang

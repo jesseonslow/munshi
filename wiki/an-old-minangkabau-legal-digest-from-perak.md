@@ -22,6 +22,7 @@ publication_type: document
 source_mismatch: true
 source_doc: jmalayanras-161-winstedt-oldminangkabaulegal-1953-9e25d7f7cd3e
 source_path: ../sources/jmalayanras-161-winstedt-oldminangkabaulegal-1953-9e25d7f7cd3e.md
+jstor: https://www.jstor.org/stable/41502899
 ---
 
 # An old Minangkabau legal digest from Perak

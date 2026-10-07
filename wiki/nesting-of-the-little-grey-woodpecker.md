@@ -21,6 +21,7 @@ source_doc: jsbras-044-ridley-nestinglittlegrey-1905-3d42e551deae
 source_path: ../sources/jsbras-044-ridley-nestinglittlegrey-1905-3d42e551deae.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41561030
 ---
 
 # Nesting of the little grey woodpecker

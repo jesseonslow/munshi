@@ -27,6 +27,7 @@ source_doc: jsbras-045-kloss-malayanmusicalinstruments-1906-3d628903f628
 source_path: ../sources/jsbras-045-kloss-malayanmusicalinstruments-1906-3d628903f628.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41561634
 ---
 
 # Malayan musical instruments

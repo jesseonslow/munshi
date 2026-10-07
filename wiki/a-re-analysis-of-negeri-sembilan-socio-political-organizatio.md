@@ -21,6 +21,7 @@ source_doc: jmbras-216-labi-reanalysisnegrisembilan-1969-529d20916b82
 source_path: ../sources/jmbras-216-labi-reanalysisnegrisembilan-1969-529d20916b82.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41491997
 ---
 
 # A re-analysis of Negeri Sembilan socio-political organization

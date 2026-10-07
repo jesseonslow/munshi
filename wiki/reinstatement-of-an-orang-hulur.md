@@ -21,6 +21,7 @@ source_doc: jmalayanras-097-linehan-reinstatementoranghulur-1926-9c7a1d084dd5
 source_path: ../sources/jmalayanras-097-linehan-reinstatementoranghulur-1926-9c7a1d084dd5.md
 summarized: true
 publication_type: document
+jstor: https://www.jstor.org/stable/41559657
 ---
 
 # Reinstatement of an orang hulur

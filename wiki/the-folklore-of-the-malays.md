@@ -21,6 +21,7 @@ source_doc: jsbras-007-maxwell-folkloremalays-1881-3e08cd602f33
 source_path: ../sources/jsbras-007-maxwell-folkloremalays-1881-3e08cd602f33.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41561520
 ---
 
 # The folklore of the Malays

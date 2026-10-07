@@ -21,6 +21,7 @@ source_doc: jsbras-079-burkill-begoniahaniffiismall-1918-dc2fc7e72cd8
 source_path: ../sources/jsbras-079-burkill-begoniahaniffiismall-1918-dc2fc7e72cd8.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41561304
 ---
 
 # Begonia haniffii, a small tuberous species of the islands of Lankawi

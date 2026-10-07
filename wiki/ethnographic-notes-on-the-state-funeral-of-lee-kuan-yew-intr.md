@@ -61,6 +61,7 @@ keywords:
 - his public appearances became rarer and rarer
 - and this long revered and feared human being further metamor
 publication_type: note
+jstor: https://www.jstor.org/stable/10.2307/26527738
 ---
 
 # Ethnographic notes on the state funeral of Lee Kuan Yew: introduction

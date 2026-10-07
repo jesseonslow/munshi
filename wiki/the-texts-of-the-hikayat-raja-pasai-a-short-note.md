@@ -21,6 +21,7 @@ source_doc: jmbras-237-jones-textshikayatraja-1980-48c9a174d681
 source_path: ../sources/jmbras-237-jones-textshikayatraja-1980-48c9a174d681.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41493569
 ---
 
 # The texts of the Hikayat Raja Pasai: a short note

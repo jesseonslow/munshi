@@ -21,6 +21,7 @@ source_doc: jmalayanras-169-needham-noteethnicclassification-1955-54cf68965683
 source_path: ../sources/jmalayanras-169-needham-noteethnicclassification-1955-54cf68965683/frontmatter.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41503177
 ---
 
 # A note on ethnic classification in Borneo

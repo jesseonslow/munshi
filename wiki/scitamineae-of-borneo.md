@@ -21,6 +21,7 @@ source_doc: jsbras-046-ridley-scitamineaeborneo-1906-ea77d0eb3bc2
 source_path: ../sources/jsbras-046-ridley-scitamineaeborneo-1906-ea77d0eb3bc2.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41561650
 ---
 
 # Scitamineae of Borneo

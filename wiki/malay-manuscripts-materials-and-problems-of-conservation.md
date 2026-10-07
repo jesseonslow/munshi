@@ -21,6 +21,7 @@ source_doc: jmbras-265-ming-malaymanuscriptsmaterials-1993-fb901081deae
 source_path: ../sources/jmbras-265-ming-malaymanuscriptsmaterials-1993-fb901081deae/frontmatter.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41493226
 ---
 
 # Malay manuscripts: materials and problems of conservation

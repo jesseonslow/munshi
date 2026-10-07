@@ -21,6 +21,7 @@ source_doc: jmalayanras-119-schurhammer-churchstpaul-1934-8bcd52dd5cb1
 source_path: ../sources/jmalayanras-119-schurhammer-churchstpaul-1934-8bcd52dd5cb1.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41559509
 ---
 
 # The Church of St. Paul, Malacca

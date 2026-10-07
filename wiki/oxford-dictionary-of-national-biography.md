@@ -21,6 +21,7 @@ source_doc: jmbras-298-oxforddictionarynational-2010-6578968cbe65
 source_path: ../sources/jmbras-298-oxforddictionarynational-2010-6578968cbe65.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41493771
 ---
 
 # Oxford Dictionary of National Biography

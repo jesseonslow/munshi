@@ -21,6 +21,7 @@ source_doc: jmalayanras-126-evans-notesmalayanantiquities-1936-0dfce7c90f91
 source_path: ../sources/jmalayanras-126-evans-notesmalayanantiquities-1936-0dfce7c90f91.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41559865
 ---
 
 # Notes on Malayan antiquities

@@ -22,6 +22,7 @@ source_doc: jmalayanras-093-blagden-unpublishedvariantversion-1925-f7408579facf
 source_path: ../sources/jmalayanras-093-blagden-unpublishedvariantversion-1925-f7408579facf.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41560424
 ---
 
 # An unpublished variant version of the “Malay Annals”

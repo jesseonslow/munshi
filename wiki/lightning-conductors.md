@@ -21,6 +21,7 @@ source_doc: jsbras-044-thomas-lightningconductorsnotes-1905-c3e4a5a86c67
 source_path: ../sources/jsbras-044-thomas-lightningconductorsnotes-1905-c3e4a5a86c67.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41561027
 ---
 
 # Lightning conductors

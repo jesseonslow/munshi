@@ -21,6 +21,7 @@ source_doc: jmalayanras-138-staal-folkloresadongdayaks-1940-8adfd80a74f0
 source_path: ../sources/jmalayanras-138-staal-folkloresadongdayaks-1940-8adfd80a74f0/frontmatter.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41559956
 ---
 
 # Folklore of Sadong Dyaks

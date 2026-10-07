@@ -21,6 +21,7 @@ source_doc: jsbras-048-shukor-listgraveyardslate-1907-9acd7ae18e8e
 source_path: ../sources/jsbras-048-shukor-listgraveyardslate-1907-9acd7ae18e8e.md
 summarized: true
 publication_type: document
+jstor: https://www.jstor.org/stable/41561088
 ---
 
 # List of graveyards of the late Sultans of Perak

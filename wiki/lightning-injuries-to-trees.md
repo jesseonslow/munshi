@@ -21,6 +21,7 @@ source_doc: jmalayanras-122-furtado-lightninginjuriestrees-1935-3f233afdeadd
 source_path: ../sources/jmalayanras-122-furtado-lightninginjuriestrees-1935-3f233afdeadd.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41559844
 ---
 
 # Lightning injuries to trees

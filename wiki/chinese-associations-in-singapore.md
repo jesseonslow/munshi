@@ -21,6 +21,7 @@ source_doc: jmbras-210-gamba-chineseassociationssingapore-1966-9aa6e60b7f94
 source_path: ../sources/jmbras-210-gamba-chineseassociationssingapore-1966-9aa6e60b7f94/frontmatter.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41491899
 ---
 
 # Chinese associations in Singapore

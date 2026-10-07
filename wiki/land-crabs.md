@@ -21,6 +21,7 @@ source_doc: jmbras-208-johnson-landcrabs-1965-b8f96d56e246
 source_path: ../sources/jmbras-208-johnson-landcrabs-1965-b8f96d56e246/frontmatter.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41492214
 ---
 
 # Land crabs

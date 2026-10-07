@@ -21,6 +21,7 @@ source_doc: jmalayanras-092-wilkinson-antiquitiesmalayapart-1924-d93ab84625be
 source_path: ../sources/jmalayanras-092-wilkinson-antiquitiesmalayapart-1924-d93ab84625be.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41559592
 ---
 
 # Antiquities of Malaya. Part I

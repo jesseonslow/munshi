@@ -21,6 +21,7 @@ source_doc: jmalayanras-138-banks-krissuloksundang-1940-68f530a24e16
 source_path: ../sources/jmalayanras-138-banks-krissuloksundang-1940-68f530a24e16.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41559958
 ---
 
 # The keris Solok or Sundang

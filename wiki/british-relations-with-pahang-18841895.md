@@ -22,6 +22,7 @@ source_mismatch: true
 source_doc: jmalayanras-197-silva-britishrelationspahang-1962-900cd543a8ee
 source_path: ../sources/jmalayanras-197-silva-britishrelationspahang-1962-900cd543a8ee.md
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41505512
 ---
 
 # British relations with Pahang, 1884–1895

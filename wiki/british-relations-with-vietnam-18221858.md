@@ -21,6 +21,7 @@ source_doc: jmbras-209-tarling-britishrelationsvietnam-1966-e05f787c6431
 source_path: ../sources/jmbras-209-tarling-britishrelationsvietnam-1966-e05f787c6431.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41491874
 ---
 
 # British relations with Vietnam, 1822–1858

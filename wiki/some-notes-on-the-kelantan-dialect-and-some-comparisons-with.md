@@ -29,6 +29,7 @@ source_doc: jsbras-062-sturrock-noteskelantandialect-1912-1ff970a82140
 source_path: ../sources/jsbras-062-sturrock-noteskelantandialect-1912-1ff970a82140.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41561157
 ---
 
 # Some notes on the Kelantan dialect, and some comparisons with the dialects of Perak and central Pahang

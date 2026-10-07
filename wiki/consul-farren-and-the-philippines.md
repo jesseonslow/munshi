@@ -21,6 +21,7 @@ source_doc: jmbras-208-tarling-consulfarrenphilippines-1965-28cc9f77c65b
 source_path: ../sources/jmbras-208-tarling-consulfarrenphilippines-1965-28cc9f77c65b.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41492226
 ---
 
 # Consul Farren and the Philippines

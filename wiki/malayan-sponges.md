@@ -21,6 +21,7 @@ source_doc: jmalayanras-134-willimott-malayansponges-1939-cf158e307715
 source_path: ../sources/jmalayanras-134-willimott-malayansponges-1939-cf158e307715/frontmatter.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41559937
 ---
 
 # Malayan sponges

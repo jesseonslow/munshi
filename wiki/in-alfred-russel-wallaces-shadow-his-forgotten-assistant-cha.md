@@ -24,6 +24,7 @@ source_doc: jmbras-303-rookmaaker-alfredrusselwallaces-2012-5755224cdecd
 source_path: ../sources/jmbras-303-rookmaaker-alfredrusselwallaces-2012-5755224cdecd/frontmatter.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/24894190
 ---
 
 # In Alfred Russel Wallace’s shadow: his forgotten assistant: Charles Allen (1839–1892)

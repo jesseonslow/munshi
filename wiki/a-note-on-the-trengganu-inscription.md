@@ -21,6 +21,7 @@ source_doc: jmalayanras-092-blagden-notetrengganuinscription-1924-51d57eccdb33
 source_path: ../sources/jmalayanras-092-blagden-notetrengganuinscription-1924-51d57eccdb33.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41559589
 ---
 
 # A note on the Trengganu inscription

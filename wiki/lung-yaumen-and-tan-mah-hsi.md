@@ -21,6 +21,7 @@ source_doc: jmbras-215-braddell-lungyamentanmahsi-1969-c9926d3f94e2
 source_path: ../sources/jmbras-215-braddell-lungyamentanmahsi-1969-c9926d3f94e2/frontmatter.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41491959
 ---
 
 # Lung-yaumen and Tan-Mah-hsi

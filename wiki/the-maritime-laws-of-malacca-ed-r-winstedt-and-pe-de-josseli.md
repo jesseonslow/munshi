@@ -23,6 +23,7 @@ source_doc: jmalayanras-175-winstedt-maritimelawsmalacca-1956-d47dbbc74941
 source_path: ../sources/jmalayanras-175-winstedt-maritimelawsmalacca-1956-d47dbbc74941.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41503096
 ---
 
 # The maritime laws of Malacca. ed R. Winstedt and P.E. de Josselin de Jong

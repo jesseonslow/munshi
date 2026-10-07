@@ -30,6 +30,7 @@ keywords:
 - humanitarian development
 - religion in development
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/10.2307/26928023
 ---
 
 # Revisiting Christian missionaries in colonial Malaya and Singapore: blurring the boundaries between empire, mission and development

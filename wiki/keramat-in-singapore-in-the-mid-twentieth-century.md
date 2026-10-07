@@ -21,6 +21,7 @@ source_doc: jmbras-285-rivers-keramatsingaporemidtwentieth-2003-90baa1e96591
 source_path: ../sources/jmbras-285-rivers-keramatsingaporemidtwentieth-2003-90baa1e96591/frontmatter.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41493501
 ---
 
 # Keramat in Singapore in the mid-twentieth century

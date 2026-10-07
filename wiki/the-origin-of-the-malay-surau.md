@@ -21,6 +21,7 @@ source_doc: jmalayanras-173-kern-originmalaysurau-1956-2d425ea5d6d4
 source_path: ../sources/jmalayanras-173-kern-originmalaysurau-1956-2d425ea5d6d4.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41503204
 ---
 
 # The origin of the Malay surau

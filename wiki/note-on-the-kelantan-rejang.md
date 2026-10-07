@@ -21,6 +21,7 @@ source_doc: jmalayanras-111-rentse-notekelantanrejang-1931-802401186bd9
 source_path: ../sources/jmalayanras-111-rentse-notekelantanrejang-1931-802401186bd9.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41559777
 ---
 
 # Note on the Kelantan rejang

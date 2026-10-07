@@ -21,6 +21,7 @@ source_doc: jmbras-240-kheng-socialbanditryrural-1981-19a5de81f056
 source_path: ../sources/jmbras-240-kheng-socialbanditryrural-1981-19a5de81f056.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41511026
 ---
 
 # Social banditry and rural crime in North Kedah, 1909–1929

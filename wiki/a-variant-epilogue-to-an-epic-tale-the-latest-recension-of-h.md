@@ -23,6 +23,7 @@ source_doc: frontmatter
 source_path: ../sources/jmbras-301-porath-hikayatpatanikingdom-2011-af5e8cc51b79/frontmatter.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41493801
 ---
 
 # A variant epilogue to an epic tale: the ‘latest’ recension of Hikayat Hang Tuah

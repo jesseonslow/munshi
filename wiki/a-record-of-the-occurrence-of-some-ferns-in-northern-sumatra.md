@@ -23,6 +23,7 @@ source_doc: jsbras-001-maxwell-antiquitiesprovincewellesley-1878-7483dd99c582
 source_path: ../sources/jsbras-001-maxwell-antiquitiesprovincewellesley-1878-7483dd99c582.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41561454
 ---
 
 # A record of the occurrence of some ferns in northern Sumatra, being additions to Mr. Ridley’s list

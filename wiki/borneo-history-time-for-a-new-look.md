@@ -30,6 +30,7 @@ keywords:
 - Sarawak
 - Singapore
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/10.2307/26527759
 ---
 
 # Borneo history: time for a new look?

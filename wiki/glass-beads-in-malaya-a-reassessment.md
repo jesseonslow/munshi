@@ -21,6 +21,7 @@ source_doc: jmbras-260-jr-glassbeadsmalaya-1991-4d789d00df1f
 source_path: ../sources/jmbras-260-jr-glassbeadsmalaya-1991-4d789d00df1f/frontmatter.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41493174
 ---
 
 # Glass beads in Malaya: a reassessment

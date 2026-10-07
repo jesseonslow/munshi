@@ -21,6 +21,7 @@ source_doc: jmalayanras-185-braddell-essexsailor-1959-4a2a1ee618c4
 source_path: ../sources/jmalayanras-185-braddell-essexsailor-1959-4a2a1ee618c4.md
 summarized: true
 publication_type: document
+jstor: https://www.jstor.org/stable/41503148
 ---
 
 # An Essex sailor

@@ -21,6 +21,7 @@ source_doc: jmalayanras-105-k-royalbataviansociety-1928-3a76eaedec63
 source_path: ../sources/jmalayanras-105-k-royalbataviansociety-1928-3a76eaedec63.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41559724
 ---
 
 # The Royal Batavia Society of Arts and Letters

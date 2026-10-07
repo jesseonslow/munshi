@@ -21,6 +21,7 @@ source_doc: jmalayanras-088-omay-arcticlatah-1923-04adc24dde76
 source_path: ../sources/jmalayanras-088-omay-arcticlatah-1923-04adc24dde76/frontmatter.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41585399
 ---
 
 # Arctic latah

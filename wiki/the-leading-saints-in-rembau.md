@@ -21,6 +21,7 @@ source_doc: jmalayanras-095-abdullah-leadingsaintsrembau-1925-4df162a0d372
 source_path: ../sources/jmalayanras-095-abdullah-leadingsaintsrembau-1925-4df162a0d372.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41560449
 ---
 
 # The leading saints in Rembau

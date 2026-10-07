@@ -22,6 +22,7 @@ source_doc: jsbras-033-skeat-oranglautsingapore-1900-8847439810a4
 source_path: ../sources/jsbras-033-skeat-oranglautsingapore-1900-8847439810a4.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41560934
 ---
 
 # The Orang Laut of Singapore

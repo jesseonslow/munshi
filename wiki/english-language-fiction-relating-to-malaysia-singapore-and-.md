@@ -23,6 +23,7 @@ source_mismatch: false
 source_doc: jmbras-242-roff-englishlanguagefictionrelating-1982-f3db42df240b
 source_path: ../sources/jmbras-242-roff-englishlanguagefictionrelating-1982-f3db42df240b.md
 publication_type: index
+jstor: https://www.jstor.org/stable/41492912
 ---
 
 # English-language fiction relating to Malaysia, Singapore and Brunei: a check-list

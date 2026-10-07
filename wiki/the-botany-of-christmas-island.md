@@ -21,6 +21,7 @@ source_doc: jsbras-045-ridley-expeditionchristmasisland-1906-032c6de8ca80
 source_path: ../sources/jsbras-045-ridley-expeditionchristmasisland-1906-032c6de8ca80.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41561625
 ---
 
 # The botany of Christmas Island

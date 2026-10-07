@@ -34,6 +34,7 @@ keywords:
 - shamanism
 - © Malaysian Branch of the Royal Asiatic Society
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/10.2307/26527711
 ---
 
 # Maya (image) in indigenous Riau world-view: a forgotten concept of Malayan animist thought and practice

@@ -21,6 +21,7 @@ source_doc: jmbras-229-yuntsiao-notesrelatingadmiral-1976-b3926986da84
 source_path: ../sources/jmbras-229-yuntsiao-notesrelatingadmiral-1976-b3926986da84.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41492126
 ---
 
 # Notes relating to Admiral Cheng Ho’s expeditions. Il

@@ -20,6 +20,7 @@ published: false
 source_doc: jsbras-030-blagden-accountcultivationrice-1897-9ca0ac6b8692
 source_path: ../sources/jsbras-030-blagden-accountcultivationrice-1897-9ca0ac6b8692.md
 publication_type: translation
+jstor: https://www.jstor.org/stable/41561586
 ---
 
 # An account of the cultivation of rice in Malacca {in Rumi, .O. Blagden

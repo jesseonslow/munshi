@@ -21,6 +21,7 @@ source_doc: jsbras-011-cameron-patani-1883-d68132737023
 source_path: ../sources/jsbras-011-cameron-patani-1883-d68132737023.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41560703
 ---
 
 # On the Patani

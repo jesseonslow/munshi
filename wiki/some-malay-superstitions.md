@@ -21,6 +21,7 @@ source_doc: jmalayanras-105-majid-malaysuperstitions-1928-0aaf0e1a3463
 source_path: ../sources/jmalayanras-105-majid-malaysuperstitions-1928-0aaf0e1a3463.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41559715
 ---
 
 # Some Malay superstitions

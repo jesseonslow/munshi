@@ -21,6 +21,7 @@ source_doc: jmalayanras-098-borelli-spoliamentawiensiadermaptera-1926-b11fa4b4f5
 source_path: ../sources/jmalayanras-098-borelli-spoliamentawiensiadermaptera-1926-b11fa4b4f529.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41559678
 ---
 
 # Spolia mentawiensia: Dermaptera. Introd. C.B. Kloss

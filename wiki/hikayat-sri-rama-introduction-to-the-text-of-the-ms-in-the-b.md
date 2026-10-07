@@ -23,6 +23,7 @@ source_doc: jsbras-070-shellabear-hikayatsrirama-1917-9ae19f0fcdd9
 source_path: ../sources/jsbras-070-shellabear-hikayatsrirama-1917-9ae19f0fcdd9.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41561215
 ---
 
 # Hikayat Sri Rama: introduction to the text of the Ms. in the Bodleian Library at Oxford

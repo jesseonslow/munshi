@@ -23,6 +23,7 @@ source_doc: jmalayanras-104-smedley-reptilesamphibiaanamba-1928-8229f6895b8e
 source_path: ../sources/jmalayanras-104-smedley-reptilesamphibiaanamba-1928-8229f6895b8e.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41559708
 ---
 
 # Some reptiles and amphibia from the Anamba Islands. Records of the Raffles Museum, No. 35

@@ -21,6 +21,7 @@ source_doc: jmbras-217-iskandar-historicalsourcesused-1970-9762452b6432
 source_path: ../sources/jmbras-217-iskandar-historicalsourcesused-1970-9762452b6432.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41492013
 ---
 
 # Some historical sources used by the author of the Hikayat Hang Tuah

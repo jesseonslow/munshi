@@ -1,9 +1,8 @@
 ---
-id: a-history-of-johore-1673ca1800-ad-introd-in-english-text-in-
+id: a-history-of-johore-1673ca1800-ad
 work_id: jmbras-10-1-p164
-title: 'A history of Johore (1673–ca.1800 A.D.) {Introd. in English: text in Jawi'
-canonical_name: 'A history of Johore (1673–ca.1800 A.D.) {Introd. in English: text
-  in Jawi}'
+title: A history of Johore (1673–ca.1800 A.D.)
+canonical_name: A history of Johore (1673–ca.1800 A.D.)
 type: publication
 authors:
 - R.O. Winstedt
@@ -22,9 +21,10 @@ source_doc: jmalayanras-113-winstedt-historyjohore1673ca-1932-fb3a7515896f
 source_path: ../sources/jmalayanras-113-winstedt-historyjohore1673ca-1932-fb3a7515896f.md
 summarized: true
 publication_type: translation
+jstor: https://www.jstor.org/stable/41587442
 ---
 
-# A history of Johore (1673–ca.1800 A.D.) {Introd. in English: text in Jawi
+# A history of Johore (1673–ca.1800 A.D.)
 
 R.O. Winstedt published this edition of the *Hikayat Negeri Johor* in 1932, presenting a Jawi-script manuscript from the Batavian Society's von de Wall collection alongside an English summary that traces the political history of the Johore-Riau sultanate from the sack of Johor Lama by Jambi in 1672 through the English restoration of Riau to Sultan Mahmud in the 1780s. The overarching thesis, implicit in Winstedt's editorial framing, is that this manuscript constitutes the principal indigenous source for the turbulent Bugis-Malay-Dutch period of Johore's history, a period otherwise poorly documented in European records.
 

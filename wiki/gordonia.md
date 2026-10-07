@@ -21,6 +21,7 @@ source_doc: jsbras-076-burkill-gordonia-1917-a5f39da2a697
 source_path: ../sources/jsbras-076-burkill-gordonia-1917-a5f39da2a697.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41561259
 ---
 
 # Gordonia

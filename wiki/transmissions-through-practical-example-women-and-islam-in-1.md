@@ -22,6 +22,7 @@ source_doc: jmbras-267-hooker-transmissionpracticalexample-1994-8a099f981a00
 source_path: ../sources/jmbras-267-hooker-transmissionpracticalexample-1994-8a099f981a00/frontmatter.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41493254
 ---
 
 # Transmissions through practical example: women and Islam in 1920s Malay fiction

@@ -22,6 +22,7 @@ source_doc: jmbras-209-antonissen-carloscuarteron-1966-4458662ba1fd
 source_path: ../sources/jmbras-209-antonissen-carloscuarteron-1966-4458662ba1fd.md
 summarized: true
 publication_type: note
+jstor: https://www.jstor.org/stable/41491881
 ---
 
 # Carlos Cuarteron. In Tregonning, K.G. Two notes on Church history in Sabah

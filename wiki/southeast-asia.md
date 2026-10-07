@@ -188,7 +188,7 @@ published: false
 
 ### Culture and society
 
-- Evers, H.-D. The Nusantara concept. MB 89(1)
+- Evers, H.-D. Nusantara: History of a Concept. MB 89(1)
 - Iik Arifin Mansurnoor. Muslim discourse, institution and intellectual tradition in SEA. MB
 
 ### Politics and government

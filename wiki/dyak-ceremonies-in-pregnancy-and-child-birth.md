@@ -21,6 +21,7 @@ source_doc: jsbras-046-howell-dyakceremoniespregnancy-1906-830edc046a4e
 source_path: ../sources/jsbras-046-howell-dyakceremoniespregnancy-1906-830edc046a4e.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41561646
 ---
 
 # Dyak ceremonies in pregnancy and child-birth

@@ -28,6 +28,7 @@ source_doc: jmalayanras-150-wales-sambasfindsrelation-1949-614b3a97de71
 source_path: ../sources/jmalayanras-150-wales-sambasfindsrelation-1949-614b3a97de71.md
 summarized: true
 publication_type: journal_article
+jstor: https://www.jstor.org/stable/41560105
 ---
 
 # The Sambas finds in relation to the problems of Indo-Malaysian art development
