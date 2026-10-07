@@ -72,7 +72,7 @@ published: false
 ### Description and travel
 
 - [D.D. Daly](./dd-daly.md) (1879). [Caves at Sungei Batu in Selangor](./caves-at-sungei-batu-in-selangor.md). *JSBRAS* 3: 116–119
-- [B. Douglas](./b-douglas.md) (1879). [“Sungai Tata” route](./sungai-tata-route.md). *JSBRAS* 3: 133–135
+- [William Bloomfield Douglas](./william-bloomfield-douglas.md) (1879). [“Sungai Tata” route](./geographical-notes.md). *JSBRAS* 3: 133–135
 - [W.T. Hornaday](./wt-hornaday.md) (1879). [Account of a naturalist’s visit to the territory of Selangor](./account-of-a-naturalists-visit-to-the-territory-of-selangor.md). *JSBRAS* 3: 124–131
 - Kelsall, H.J. Trip to Bukit Hitam. SB 23
 - [H.D. Noone](./hd-noone.md) (1939). [The Penarikan and Bernam land-routes](./the-penarikan-and-bernam-land-routes.md). *JMBRAS* 17: 144–145

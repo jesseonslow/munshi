@@ -73,7 +73,7 @@ published: false
 - Anon. [Maxwell, W.E. Birth ceremonies in Perak](./mbras-reprint-15.md). *Reprint* 15
 - Anon. [Maxwell, W.E. Pelas Negri](./mbras-reprint-15.md). *Reprint* 15
 - Anon. [Maxwell, W.E. Ceremonies when shooting rapids](./mbras-reprint-15.md). *Reprint* 15
-- [Muhammad Ja'far](./muhammad-jafar.md) (1897). [An account of the cultivation of rice in Malacca {in Rumi, .O. Blagden](./an-account-of-the-cultivation-of-rice-in-malacca-in-rumi-o-b.md). *JSBRAS* 30: 285–304
+- [Muhammad Ja'far](./muhammad-jafar.md) (1897). [An account of the cultivation of rice in Malacca](./an-account-of-the-cultivation-of-rice-in-malacca.md). *JSBRAS* 30: 285–304
 - [B. Mulder](./b-mulder.md) and [J.Hewitt](./jhewitt.md) (1911). [Two religious ceremonies in vogue among the Milanos of Sarawak](./two-religious-ceremonies-in-vogue-among-the-milanos-of-saraw.md). *JSBRAS* 57: 171–181
 - [S. Nagata](./s-nagata.md) (2013). [The Tageh sing ritual of the Kensiw, Kedah, Malaysia](./the-tageh-sing-ritual-of-the-kensiw-kedah-malaysia.md). *JMBRAS* 86(2): 77–82
 - [A.W. O'Sullivan](./aw-osullivan.md) (1886). [Ceremonies at seedtime](./ceremonies-at-seedtime.md). *JSBRAS* 18: 362–365

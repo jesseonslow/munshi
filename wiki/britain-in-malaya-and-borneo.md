@@ -38,7 +38,7 @@ published: false
 - [Teckwyn Lim](./teckwyn-lim.md) (2021). ['Sixteen Naked Indians': First Contact between the British and the Orang Asli](./sixteen-naked-indians-first-contact-between-the-british-and-.md). *JMBRAS* 94(2): 27–42
 - [P. Loh Fook Seng](./p-loh-fook-seng.md) (1972). [Malay precedence and the federal formula in the Federated Malay States, 1909 to 1939](./malay-precedence-and-the-federal-formula-in-the-federated-ma.md). *JMBRAS* 45(2): 29–50
 - Anon. [Maxwell, W.E. English trade with Perak](./mbras-reprint-15.md). *Reprint* 15
-- [C.O. Blagden](./co-blagden.md) and [L.A. Mills](./la-mills.md) (1925). [British Malaya, 1824–1867. L.A. Mills. With an appendix C.O. Blagden](./british-malaya-18241867-la-mills-with-an-appendix-co-blagden.md). *JMBRAS* 3(2): 1–338
+- [C.O. Blagden](./co-blagden.md) and [L.A. Mills](./la-mills.md) (1925). [British Malaya, 1824–1867](./british-malaya-1824-67.md). *JMBRAS* 3(2): 1–338
 - Milner, A.C. Federation decision 1895. MB 43(1)
 - Mohamad Rashidi Pakri. The W.E. Maxwell and F.A. Swettenham rivalry. MB 84 (2)
 - [Shaharil Talib (L.R. Robert)](./shaharil-talib-lr-robert.md) (1972). [The Duff syndicate in Kelantan, 1900–1902](./the-duff-syndicate-in-kelantan-19001902.md). *JMBRAS* 45: 81–110

@@ -18,14 +18,5 @@ amendments: []
 status: stub
 published: false
 publication_type: note
-source_doc: jsbras-014-maxwell-historyperaknative-1884-636bb4162af8
-source_path: ../sources/jsbras-014-maxwell-historyperaknative-1884-636bb4162af8.md
 ---
-
 # Games and amusements. NQ 1
-
-## Summary
-<!-- Summarizer: Insert publication smmary here -->
-
-## References
-<!-- Grounded occurrences and citations -->

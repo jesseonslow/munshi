@@ -25,7 +25,7 @@ published: false
 ## MBRAS Sources
 
 - [I. Baxter](./i-baxter.md) (1984). [Dutch records from Malacca in the India Office Records](./dutch-records-from-malacca-in-the-india-office-records.md). *JMBRAS* 56(2): 105–134
-- [C.O. Blagden](./co-blagden.md) and [L.A. Mills](./la-mills.md) (1925). [British Malaya, 1824–1867. L.A. Mills. With an appendix C.O. Blagden](./british-malaya-18241867-la-mills-with-an-appendix-co-blagden.md). *JMBRAS* 3(2): 1–338
+- [C.O. Blagden](./co-blagden.md) and [L.A. Mills](./la-mills.md) (1925). [British Malaya, 1824–1867](./british-malaya-1824-67.md). *JMBRAS* 3(2): 1–338
 - [P. Daniel](./p-daniel.md) (1941). [A descriptive catalogue of the books relating to Malaysia in the Raffles Museum & Library, Singapore](./a-descriptive-catalogue-of-the-books-relating-to-malaysia-in.md). *JMBRAS* 19(3): 1–125
 - [M.R. Fernando](./mr-fernando.md) (2005). [The lost archives of Melaka: are they really lost?](./the-lost-archives-of-melaka-are-they-really-lost.md). *JMBRAS* 78: 1–36
 - [J.M. Gullick](./john-michael-gullick.md) (1975). [Selangor, 1876–82: the Bloomfield Douglas diary](./selangor-187682-the-bloomfield-douglas-diary.md). *JMBRAS* 48(2): 1–51

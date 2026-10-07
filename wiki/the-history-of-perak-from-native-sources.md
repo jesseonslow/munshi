@@ -51,7 +51,7 @@ Maxwell's definitive takeaway is that the *Marong Mahawangsa*, despite its heavy
 ## Context
 
 - The *Marong Mahawangsa* manuscript in Maxwell's possession is the same text Colonel Low had previously translated in the *Journal of the Indian Archipelago* (Vol. III, p. 176), making this a second English rendering of the same native source (p. 305, n. 1).
-- Maxwell's article appears in JSBRAS Vol. 14 (1884), a period when the Royal Asiatic Society's Siam branch was actively publishing translations of Malay and Siamese chronicles to support colonial administrative knowledge of the Straits Settlements and the Malay states.
+- Maxwell's article appears in JSBRAS Vol. 14 (1884), a period when SBRAS was actively publishing translations and chronicles to support colonial administrative knowledge of the Straits Settlements and the Malay states.
 
 ## References
 <!-- Grounded occurrences and citations -->

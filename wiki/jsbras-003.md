@@ -12,8 +12,8 @@ articles_count: 12
 contributors:
 - id: am-skinner
   name: A.M. Skinner
-- id: b-douglas
-  name: B. Douglas
+- id: william-bloomfield-douglas
+  name: William Bloomfield Douglas
 - id: bieber
   name: Bieber
 - id: dd-daly
@@ -103,10 +103,10 @@ articles:
   pages: 132–133
   is_review: false
 - id: jsbras-3-1-p133
-  slug: sungai-tata-route
+  slug: geographical-notes
   title: “Sungai Tata” route
   authors:
-  - B. Douglas
+  - William Bloomfield Douglas
   pages: 133–135
   is_review: false
 - id: jsbras-3-1-p135
@@ -140,14 +140,13 @@ articles:
 * [Caves at Sungei Batu in Selangor](./caves-at-sungei-batu-in-selangor.md) — [D.D. Daly](./dd-daly.md) (pp. 116–119)
 * [Geography of Achin. . Bieber](./geography-of-achin-bieber.md) — [Bieber](./bieber.md) (pp. 120–123)
 * [Account of a naturalist’s visit to the territory of Selangor](./account-of-a-naturalists-visit-to-the-territory-of-selangor.md) — [W.T. Hornaday](./wt-hornaday.md) (pp. 124–131)
-* [Geographical notes](./geographical-notes.md) — [A.M. Skinner](./allan-maclean-skinner.md) (pp. 132–133)
-* [“Sungai Tata” route](./sungai-tata-route.md) — [B. Douglas](./b-douglas.md) (pp. 133–135)
+* [Geographical notes](./geographical-notes.md) — [A.M. Skinner](./allan-maclean-skinner.md), [William Bloomfield Douglas](./william-bloomfield-douglas.md) (pp. 132–135)
 * [Survey reports on Ulu Perak](./survey-reports-on-ulu-perak.md) — [H.S. Deane](./hs-deane.md) (pp. 135–139)
 * [Rainfall registered at the undermentioned stations, in the Straits Settlements and the Native States, during the half-year ending 30th June, 1879](./rainfall-registered-at-the-undermentioned-stations-in-the-st.md) — [T.I. Rowell](./ti-rowell.md) (pp. 145)
 
 ## Contributors
 * [A.M. Skinner](./allan-maclean-skinner.md)
-* [B. Douglas](./b-douglas.md)
+* [William Bloomfield Douglas](./william-bloomfield-douglas.md)
 * [Bieber](./bieber.md)
 * [D.D. Daly](./dd-daly.md)
 * [D.F.A. Hervey](./dudley-francis-amelius-hervey.md)

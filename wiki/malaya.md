@@ -165,7 +165,7 @@ published: false
 - [J.M. Gullick](./john-michael-gullick.md) (1998). [A history of Malayan history](./a-history-of-malayan-history.md). *JMBRAS* 71(2): 91–103
 - [A.M. Skinner](./allan-maclean-skinner.md) (1882). [Outline history of the British connection with Malaya](./outline-history-of-the-british-connection-with-malaya.md). *JSBRAS* 10: 269–280
 - [R.O. Winstedt](./richard-olaf-winstedt.md) (1935). [A history of Malaya](./a-history-of-malaya.md). *JMBRAS* 13: 1–270
-- [‘Ali bin Raja Haji Ahmad Raja Haji](./ali-bin-raja-haji-ahmad-raja-haji.md) and [R.O. Winstedt](./richard-olaf-winstedt.md) (1932). [A Malay history of Riau and Johore {Tuhfat-al-Nafis}. .O. Winstedt {Jawi](./a-malay-history-of-riau-and-johore-tuhfat-al-nafis-o-winsted.md). *JMBRAS* 10(2): 1–320
+- [‘Ali bin Raja Haji Ahmad Raja Haji](./ali-bin-raja-haji-ahmad-raja-haji.md) and [R.O. Winstedt](./richard-olaf-winstedt.md) (1932). [A Malay history of Riau and Johore (Tuhfat-al-Nafis)](./a-malay-history-of-riau-and-johore-tuhfat-al-nafis.md). *JMBRAS* 10(2): 1–320
 - Anderson, J. Political and commercial considerations etc. re peninsula. MB 35(4)
 - [John Anderson](./john-anderson.md) (1989). [Political and Commercial Considerations Relative to the Malayan Peninsula](./political-and-commercial-considerations-relative-to-the-malayan-peninsula.md). ** : 305
 - Baker, A.C. Anglo-Dutch relations in early 19th century from archives. SB 64
@@ -194,7 +194,7 @@ published: false
 - [R.O. Winstedt](./richard-olaf-winstedt.md) (1932). [The Bendaharas and the Temenggongs](./the-bendaharas-and-the-temenggongs.md). *JMBRAS* 10: 53–66
 - [R.O. Winstedt](./richard-olaf-winstedt.md) (1935). [A history of Malaya](./a-history-of-malaya.md). *JMBRAS* 13: 1–270
 - [R.O. Winstedt](./richard-olaf-winstedt.md) (1947). [Keramat see Karamat Kingship and enthronement in Malaya](./keramat-see-karamat-kingship-and-enthronement-in-malaya.md). *JMBRAS* 20: 129–139
-- [‘Ali bin Raja Haji Ahmad Raja Haji](./ali-bin-raja-haji-ahmad-raja-haji.md) and [R.O. Winstedt](./richard-olaf-winstedt.md) (1932). [A Malay history of Riau and Johore {Tuhfat-al-Nafis}. .O. Winstedt {Jawi](./a-malay-history-of-riau-and-johore-tuhfat-al-nafis-o-winsted.md). *JMBRAS* 10(2): 1–320
+- [‘Ali bin Raja Haji Ahmad Raja Haji](./ali-bin-raja-haji-ahmad-raja-haji.md) and [R.O. Winstedt](./richard-olaf-winstedt.md) (1932). [A Malay history of Riau and Johore (Tuhfat-al-Nafis)](./a-malay-history-of-riau-and-johore-tuhfat-al-nafis.md). *JMBRAS* 10(2): 1–320
 - [J. de V. Allen](./j-de-v-allen.md) (1963). [The Colonial Office and the Malay States, 1867–73](./the-colonial-office-and-the-malay-states-186773.md). *JMBRAS* 36: 1–36
 - [Khoo Kay Kim](./khoo-kay-kim.md) (1966). [The origin of British administration in Malaya](./the-origin-of-british-administration-in-malaya.md). *JMBRAS* 39: 52–91
 - [L.A. Mills](./la-mills.md) (2003). [British Malaya, 1824 - 67](./british-malaya-1824-67.md). ** : 432

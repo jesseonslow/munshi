@@ -70,7 +70,7 @@ published: false
 - [Dr. R.G. Cant](./rg-cant.md) (1973). [An Historical Geography of Pahang](./an-historical-geography-of-pahang.md). ** : 185
 - [H.G. Dalton](./hg-dalton.md) (1928). [A visit to some islands off the east coast of Johore and Pahang](./a-visit-to-some-islands-off-the-east-coast-of-johore-and-pah.md). *JMBRAS* 6(3): 78–96
 - [W. Davison](./w-davison.md) (1889). [Journal of a trip to Pahang etc. with H.E. the Governor, August 17th to 27th, 1889](./journal-of-a-trip-to-pahang-etc-with-he-the-governor-august-.md). *JSBRAS* 20: 83–90
-- [B. Douglas](./b-douglas.md) (1879). [“Sungai Tata” route](./sungai-tata-route.md). *JSBRAS* 3: 133–135
+- [William Bloomfield Douglas](./william-bloomfield-douglas.md) (1879). [“Sungai Tata” route](./geographical-notes.md). *JSBRAS* 3: 133–135
 - H.C. Clifford and [F.W. Douglas](./fw-douglas.md) (1922). [Through an unknown corner of Pahang with H. Clifford in 1897. F.W. Douglas](./through-an-unknown-corner-of-pahang-with-h-clifford-in-1897-.md). *JSBRAS* 85: 135–139
 - [D.F.A. Hervey](./dudley-francis-amelius-hervey.md) (1881). [The Endau and its tributaries](./the-endau-and-its-tributaries.md). *JSBRAS* 8: 93–132
 - [J.E. Nathan](./je-nathan.md) (1915). [A journey over the main range from Perak to Pahang](./a-journey-over-the-main-range-from-perak-to-pahang.md). *JSBRAS* 68: 1–5

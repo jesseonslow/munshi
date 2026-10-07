@@ -31,7 +31,7 @@ published: false
 ## MBRAS Sources
 
 - [‘Ali bin Raja Haji Ahmad Raja Haji](./ali-bin-raja-haji-ahmad-raja-haji.md) and [W. Linehan](./w-linehan.md) (1926). [Silsilah Melayu dan Bugis dan Sakalian Raja-raja-nya. . Overbeck](./silsilah-melayu-dan-bugis-dan-sakalian-raja-raja-nya-overbec.md). *JMBRAS* 4(3): 339–381
-- [‘Ali bin Raja Haji Ahmad Raja Haji](./ali-bin-raja-haji-ahmad-raja-haji.md) and [R.O. Winstedt](./richard-olaf-winstedt.md) (1932). [A Malay history of Riau and Johore {Tuhfat-al-Nafis}. .O. Winstedt {Jawi](./a-malay-history-of-riau-and-johore-tuhfat-al-nafis-o-winsted.md). *JMBRAS* 10(2): 1–320
+- [‘Ali bin Raja Haji Ahmad Raja Haji](./ali-bin-raja-haji-ahmad-raja-haji.md) and [R.O. Winstedt](./richard-olaf-winstedt.md) (1932). [A Malay history of Riau and Johore (Tuhfat-al-Nafis)](./a-malay-history-of-riau-and-johore-tuhfat-al-nafis.md). *JMBRAS* 10(2): 1–320
 - [T.P. Barnard](./tp-barnard.md) (1994). [Taman penghiburan: entertainment and the Riau elite in the late 19th century](./taman-penghiburan-entertainment-and-the-riau-elite-in-the-la.md). *JMBRAS* 67(2): 17–46
 - [T.P. Barnard](./tp-barnard.md) (2016). [Historiography and shifting interpretations of the death of Sultan Mahmud Syah](./historiography-and-shifting-interpretations-of-the-death-of-.md). *JMBRAS* 89(2): 1–23
 - [R.O. Winstedt](./richard-olaf-winstedt.md) (1979). [A History of Johore](./a-history-of-johore.md). ** : 240

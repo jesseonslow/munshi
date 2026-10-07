@@ -27,7 +27,7 @@ published: false
 ## Bibliography
 - (1957) [Governor Blundell and Sir Benson Maxwell: a conflict of personalities](./governor-blundell-and-sir-benson-maxwell-a-conflict-of-perso.md). *JMBRAS* 30(1): 134–163
 - (1958) [Communal disturbances in the Straits Settlements in 1857](./communal-disturbances-in-the-straits-settlements-in-1857.md). *JMBRAS* 31(1): 94–144
-- (1960) [British Malaya, 1824–67. L.A. Mills. .M. Turnbull; and a new introductory chapter on European influence in the Malay Peninsula, 1511–1786, D.K. Bassett](./british-malaya-182467-la-mills-m-turnbull-and-a-new-introduc.md). *JMBRAS* 33(3): 1–424
+- (1960) [British Malaya, 1824–1867](./british-malaya-182467.md). *JMBRAS* 33(3): 1–424
 - (1970) [Convicts in the Straits Settlements, 1826–1867](./convicts-in-the-straits-settlements-18261867.md). *JMBRAS* 43(1): 87–103
 - (1987) [The post-war decade in Malaya](./the-post-war-decade-in-malaya.md). *JMBRAS* 60(1): 7–26
 

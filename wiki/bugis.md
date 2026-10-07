@@ -33,7 +33,7 @@ published: false
 ## MBRAS Sources
 
 - [‘Ali bin Raja Haji Ahmad Raja Haji](./ali-bin-raja-haji-ahmad-raja-haji.md) and [W. Linehan](./w-linehan.md) (1926). [Silsilah Melayu dan Bugis dan Sakalian Raja-raja-nya. . Overbeck](./silsilah-melayu-dan-bugis-dan-sakalian-raja-raja-nya-overbec.md). *JMBRAS* 4(3): 339–381
-- [‘Ali bin Raja Haji Ahmad Raja Haji](./ali-bin-raja-haji-ahmad-raja-haji.md) and [R.O. Winstedt](./richard-olaf-winstedt.md) (1932). [A Malay history of Riau and Johore {Tuhfat-al-Nafis}. .O. Winstedt {Jawi](./a-malay-history-of-riau-and-johore-tuhfat-al-nafis-o-winsted.md). *JMBRAS* 10(2): 1–320
+- [‘Ali bin Raja Haji Ahmad Raja Haji](./ali-bin-raja-haji-ahmad-raja-haji.md) and [R.O. Winstedt](./richard-olaf-winstedt.md) (1932). [A Malay history of Riau and Johore (Tuhfat-al-Nafis)](./a-malay-history-of-riau-and-johore-tuhfat-al-nafis.md). *JMBRAS* 10(2): 1–320
 - [L.Y. Andaya](./leonard-andaya.md) (1972). [Raja Kechil and the Minangkabau conquest of Johor in 1718](./raja-kechil-and-the-minangkabau-conquest-of-johor-in-1718.md). *JMBRAS* 45(2): 51–75
 - [L.Y. Andaya](./leonard-andaya.md) (1995). [The Bugis-Makassar diaspora](./the-bugis-makassar-diaspora.md). *JMBRAS* 68: 119–138
 - [R.O. Winstedt](./richard-olaf-winstedt.md) (1979). [A History of Johore](./a-history-of-johore.md). ** : 240

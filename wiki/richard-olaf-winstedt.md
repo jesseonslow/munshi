@@ -80,7 +80,7 @@ published: false
 - (1931) [A Jelebu customary saying](./a-jelebu-customary-saying.md). *JMBRAS* 9(1): 136
 - (1931) [Tokin](./tokin.md). *JMBRAS* 9(1): 137
 - (1932) [A history of Johore (1365–1895 A.D.](./a-history-of-johore-13651895-ad.md). *JMBRAS* 10(3): 1–167
-- (1932) [A Malay history of Riau and Johore {Tuhfat-al-Nafis}. .O. Winstedt {Jawi](./a-malay-history-of-riau-and-johore-tuhfat-al-nafis-o-winsted.md). *JMBRAS* 10(2): 1–320
+- (1932) [A Malay history of Riau and Johore (Tuhfat-al-Nafis)](./a-malay-history-of-riau-and-johore-tuhfat-al-nafis.md). *JMBRAS* 10(2): 1–320
 - (1932) [The prehistory of Malaya](./the-prehistory-of-malaya.md). *JMBRAS* 10(1): 1–5
 - (1932) [Muslim tombstones in Raffles Museum](./muslim-tombstones-in-raffles-museum.md). *JMBRAS* 10(1): 6–8
 - (1932) [Mother-right among Khasis and Malays](./mother-right-among-khasis-and-malays.md). *JMBRAS* 10(1): 9–13

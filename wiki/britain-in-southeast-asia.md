@@ -34,7 +34,7 @@ published: false
 - [C.D. Cowan](./cd-cowan.md) (1950). [Governor Bannerman and the Penang tin scheme, 1818–19](./governor-bannerman-and-the-penang-tin-scheme-181819.md). *JMBRAS* 23: 52–83
 - Anon (2015). [Glimpses of Penang's Past](./glimpses-of-penangs-past.md). ** : 325
 - [C.D. Cowan](./cd-cowan.md) (1950). [Early Penang and the rise of Singapore: a selection of the manuscript records of the East India Company over the period 1805–32, chosen & edited, with an introduction by C.D. Cowan](./early-penang-and-the-rise-of-singapore-a-selection-of-the-ma.md). *JMBRAS* 23(2): 1–210
-- [W.G.A. Fielding](./wga-fielding.md) and [C. Skinner](./cyril-skinner.md) (1971). [An eye-witness account of the invasion of Java in 1811 — the diary of Lt. W.G.A. Fielding. C. Skinner](./an-eye-witness-account-of-the-invasion-of-java-in-1811-the-d.md). *JMBRAS* 44: 1–51
+- [W.G.A. Fielding](./wga-fielding.md) and [C. Skinner](./cyril-skinner.md) (1971). [An eye-witness account of the invasion of Java in 1811 — the diary of Lt. W.G.A. Fielding](./an-eye-witness-account-of-the-invasion-of-java-in-1811-the-d.md). *JMBRAS* 44: 1–51
 - Lamb, A. British missions to Cochin-China, 1778–1882. MB 34(3/4)
 - [Lee Kam Hing](./lee-kam-hing.md) (1970). [Foreigners in the Achehnese court, 1760–1819](./foreigners-in-the-achehnese-court-17601819.md). *JMBRAS* 43: 64–86
 - Miller, W.G. Syarif Kassim’s murder of Captain Sadler at Mempawah in 1795. MB 85(1)

@@ -6,6 +6,7 @@ aliases:
 - A. M. Skinner
 - A.M. Skinner
 - Skinner, A.M.
+- A. M. S.
 broader: []
 narrower: []
 related: []

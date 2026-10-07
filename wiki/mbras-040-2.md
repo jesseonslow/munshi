@@ -45,8 +45,8 @@ articles:
   pages: 3–15
   is_review: false
 - id: jmbras-40-2-p15
-  slug: a-thai-version-of-newbolds-hikayat-patani-k-wyatt
-  title: A Thai version of Newbold’s “Hikayat Patani”. .K. Wyatt
+  slug: a-thai-version-of-newbolds-hikayat-patani
+  title: A Thai version of Newbold’s “Hikayat Patani”
   authors:
   - D.K. Wyatt
   pages: 15–37
@@ -97,7 +97,7 @@ articles:
 ## Table of Contents
 * [Foreword {to the volume of the journal dedicated to Sir Richard Winstedt](./foreword-to-the-volume-of-the-journal-dedicated-to-sir-richa.md) — [Nik, Tan Sri Ahmad Kamil](./nik-tan-sri-ahmad-kamil.md) (pp. 1–2)
 * [Some aspects of the Federation of the Malay States, 1896–1910](./some-aspects-of-the-federation-of-the-malay-states-18961910.md) — [E. Thio](./e-thio.md) (pp. 3–15)
-* [A Thai version of Newbold’s “Hikayat Patani”. .K. Wyatt](./a-thai-version-of-newbolds-hikayat-patani-k-wyatt.md) — [D.K. Wyatt](./dk-wyatt.md) (pp. 15–37)
+* [A Thai version of Newbold’s “Hikayat Patani”](./a-thai-version-of-newbolds-hikayat-patani.md) — [D.K. Wyatt](./dk-wyatt.md) (pp. 15–37)
 * [Three Malay historical writings in the first half of the seventeenth century](./three-malay-historical-writings-in-the-first-half-of-the-sev.md) — [T. Iskandar](./t-iskandar.md) (pp. 38–53)
 * [Social reform and reformist pressure groups among Indians of Malaya and Singapore 1930–1955](./social-reform-and-reformist-pressure-groups-among-indians-of.md) — [S. Arasaratnam](./s-arasaratnam.md) (pp. 54–67)
 * [Raja Bot bin Raja Jumaat](./raja-bot-bin-raja-jumaat.md) — [Mohamed Amin Hassan](./mohamed-amin-hassan.md) (pp. 68–93)

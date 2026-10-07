@@ -49,7 +49,7 @@ articles:
   slug: geographic-notes-on-the-first-two-centuries-of-djakarta
   title: Geographic notes on the first two centuries of Djakarta
   authors:
-  - C. Clunies Ross
+  - James L. Cobban
   pages: 108–150
   is_review: false
 - id: jmbras-44-2-p151
@@ -71,12 +71,12 @@ articles:
 * [Sir Cecil Clementi and the Federation of British Borneo](./sir-cecil-clementi-and-the-federation-of-british-borneo.md) — [N. Tarling](./nicholas-tarling.md) (pp. 1–34)
 * [Prehistoric double-spouted vessels excavated from Niah Caves, Borneo](./prehistoric-double-spouted-vessels-excavated-from-niah-caves.md) — [Tom Harrisson](./tom-harrisson.md) (pp. 35–78)
 * [Peran Hutan, a Malay wayang drama](./peran-hutan-a-malay-wayang-drama.md) — [A. Sweeney](./amin-sweeney.md) (pp. 79–107)
-* [Geographic notes on the first two centuries of Djakarta](./geographic-notes-on-the-first-two-centuries-of-djakarta.md) — [C. Clunies Ross](./c-clunies-ross.md) (pp. 108–150)
+* [Geographic notes on the first two centuries of Djakarta](./geographic-notes-on-the-first-two-centuries-of-djakarta.md) — [James L. Cobban](./james-l-cobban.md) (pp. 108–150)
 * [Materials for historical geography and economic history of Southeast Asia in nineteenth century Malayan newspapers](./materials-for-historical-geography-and-economic-history-of-s.md) — [R.D. Hill](./rd-hill.md) (pp. 151–198)
 
 ## Contributors
 * [A. Sweeney](./amin-sweeney.md)
-* [C. Clunies Ross](./c-clunies-ross.md)
+* [James L. Cobban](./james-l-cobban.md)
 * [N. Tarling](./nicholas-tarling.md)
 * [R.D. Hill](./rd-hill.md)
 * [Tom Harrisson](./tom-harrisson.md)

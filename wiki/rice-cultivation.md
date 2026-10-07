@@ -33,7 +33,7 @@ published: false
 - [A.H. Hill](./anthony-haydock-hill.md) (1951). [Kelantan padi planting](./kelantan-padi-planting.md). *JMBRAS* 24: 56–76
 - [J.C. Jackson](./jc-jackson.md) and [D.E. Short](./de-short.md) (1971). [The origins of an irrigation policy in Malaya: a review of developments prior to the establishment of the Drainage and Irrigation Department](./the-origins-of-an-irrigation-policy-in-malaya-a-review-of-de.md). *JMBRAS* 44: 78–103
 - [J.C. Jackson](./jc-jackson.md) (1972). [Rice cultivation in West Malaysia: relationship between culture history, customary practices and recent developments](./rice-cultivation-in-west-malaysia-relationship-between-cultu.md). *JMBRAS* 45(2): 76–96
-- [Muhammad Ja'far](./muhammad-jafar.md) (1897). [An account of the cultivation of rice in Malacca {in Rumi, .O. Blagden](./an-account-of-the-cultivation-of-rice-in-malacca-in-rumi-o-b.md). *JSBRAS* 30: 285–304
+- [Muhammad Ja'far](./muhammad-jafar.md) (1897). [An account of the cultivation of rice in Malacca](./an-account-of-the-cultivation-of-rice-in-malacca.md). *JSBRAS* 30: 285–304
 - [J.C. Jackson](./jc-jackson.md) and [D.E. Short](./de-short.md) (1971). [The origins of an irrigation policy in Malaya: a review of developments prior to the establishment of the Drainage and Irrigation Department](./the-origins-of-an-irrigation-policy-in-malaya-a-review-of-de.md). *JMBRAS* 44: 78–103
 - [L. Wray](./l-wray.md) (1887). [Report on the padi-borer](./report-on-the-padi-borer.md). *JSBRAS* 19: 73–82
 

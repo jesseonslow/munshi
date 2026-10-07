@@ -81,7 +81,7 @@ published: false
 - [A. Rahman Tang Abdullah](./a-rahman-tang-abdullah.md) (2011). [Sultan Abu Bakar’s foreign guests and travels abroad, 1860s-1895: fact and fiction in early Malay historical accounts](./sultan-abu-bakars-foreign-guests-and-travels-abroad-1860s-18.md). *JMBRAS* 84: 1–22
 - [Abdul Aziz](./abdul-aziz.md) (1934). [The opening of the Johore dewan, 1875](./the-opening-of-the-johore-dewan-1875.md). *JMBRAS* 12(2): 168
 - Abu Talib Ahmad. Marriage and divorce among Johor Malays during Japanese
-- [‘Ali bin Raja Haji Ahmad Raja Haji](./ali-bin-raja-haji-ahmad-raja-haji.md) and [R.O. Winstedt](./richard-olaf-winstedt.md) (1932). [A Malay history of Riau and Johore {Tuhfat-al-Nafis}. .O. Winstedt {Jawi](./a-malay-history-of-riau-and-johore-tuhfat-al-nafis-o-winsted.md). *JMBRAS* 10(2): 1–320
+- [‘Ali bin Raja Haji Ahmad Raja Haji](./ali-bin-raja-haji-ahmad-raja-haji.md) and [R.O. Winstedt](./richard-olaf-winstedt.md) (1932). [A Malay history of Riau and Johore (Tuhfat-al-Nafis)](./a-malay-history-of-riau-and-johore-tuhfat-al-nafis.md). *JMBRAS* 10(2): 1–320
 - [J. de V. Allen](./j-de-v-allen.md) (1972). [Johore 1901–1914: the railway concession; the Johore Advisory Board: Swettenham’s resignation and the first General Adviser](./johore-19011914-the-railway-concession-the-johore-advisory-b.md). *JMBRAS* 45(2): 1–28
 - [L.Y. Andaya](./leonard-andaya.md) (1972). [Raja Kechil and the Minangkabau conquest of Johor in 1718](./raja-kechil-and-the-minangkabau-conquest-of-johor-in-1718.md). *JMBRAS* 45(2): 51–75
 - [T.P. Barnard](./tp-barnard.md) (2016). [Historiography and shifting interpretations of the death of Sultan Mahmud Syah](./historiography-and-shifting-interpretations-of-the-death-of-.md). *JMBRAS* 89(2): 1–23

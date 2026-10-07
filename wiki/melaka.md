@@ -156,7 +156,7 @@ published: false
 - [Abdullah bin Abdul Kadir](./munshi-abdullah.md) and [A.H. Hill](./anthony-haydock-hill.md) (1955). [The Hikayat Abdullah; an annotated translation. A.H. Hill](./the-hikayat-abdullah-an-annotated-translation-ah-hill.md). *JMBRAS* 28(3): 1–354
 - Anon. [Anon. Armenian inscription 1774](./mbras-reprint-15.md). *Reprint* 15
 - [I. Baxter](./i-baxter.md) (1984). [Dutch records from Malacca in the India Office Records](./dutch-records-from-malacca-in-the-india-office-records.md). *JMBRAS* 56(2): 105–134
-- [C.O. Blagden](./co-blagden.md) and [L.A. Mills](./la-mills.md) (1925). [British Malaya, 1824–1867. L.A. Mills. With an appendix C.O. Blagden](./british-malaya-18241867-la-mills-with-an-appendix-co-blagden.md). *JMBRAS* 3(2): 1–338
+- [C.O. Blagden](./co-blagden.md) and [L.A. Mills](./la-mills.md) (1925). [British Malaya, 1824–1867](./british-malaya-1824-67.md). *JMBRAS* 3(2): 1–338
 - [P. Borschberg](./peter-borschberg.md) (2010). [Ethnicity, language and culture in Melaka after the transition from Portuguese to Dutch rule (seventeenth century](./ethnicity-language-and-culture-in-melaka-after-the-transitio.md). *JMBRAS* 83(2): 93–117
 - [C.O. Blagden](./co-blagden.md) et al. (1927). [Report of Governor Balthasar Bort on Malacca, 1678. .J. Bremner: with an introd. and notes C.O. Blagden](./report-of-governor-balthasar-bort-on-malacca-1678-j-bremner-.md). *JMBRAS* 5: 1–232
 - [P.G. de Bruijn](./pg-de-bruijn.md) and [Harrison B](./harrison-b.md) (1953). [Trade in the Straits of Malacca in 1785: a memorandum. . Harrison](./trade-in-the-straits-of-malacca-in-1785-a-memorandum-harriso.md). *JMBRAS* 26: 56–62

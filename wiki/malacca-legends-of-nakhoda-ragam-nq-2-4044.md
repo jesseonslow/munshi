@@ -18,14 +18,6 @@ amendments: []
 status: stub
 published: false
 publication_type: note
-source_doc: jsbras-015-hervey-valentynsaccountmalacca-1885-f54c38708d82
-source_path: ../sources/jsbras-015-hervey-valentynsaccountmalacca-1885-f54c38708d82.md
 ---
-
 # Malacca legends of Nakhoda Ragam. NQ 2: 40–44
 
-## Summary
-<!-- Summarizer: Insert publication smmary here -->
-
-## References
-<!-- Grounded occurrences and citations -->

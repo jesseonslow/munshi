@@ -29,9 +29,9 @@ published: false
 - [E. Banks](./e-banks.md) (1940). [The keris Solok or Sundang](./the-keris-solok-or-sundang.md). *JMBRAS* 18(2): 105–107
 - [G.B. Gardner](./gb-gardner.md) (1933). [Notes on two uncommon varieties of the Malay kris](./notes-on-two-uncommon-varieties-of-the-malay-kris.md). *JMBRAS* 11(2): 178–182
 - [Tom Harrisson](./tom-harrisson.md) (1966). [A golden kris handle from Balingian, Sarawak](./a-golden-kris-handle-from-balingian-sarawak.md). *JMBRAS* 39: 175–181
-- [A.H. Hill](./anthony-haydock-hill.md) and [G. Hodgson](./g-hodgson.md) (1956). [The keris and other Malay weapons, A.H. Hill; keris types and terms, Geoffrey Hodgson](./the-keris-and-other-malay-weapons-ah-hill-keris-types-and-te.md). *JMBRAS* 29(4): 1–98
+- [A.H. Hill](./anthony-haydock-hill.md) and [G. Hodgson](./g-hodgson.md) (1956). [The keris and other Malay weapons](./the-keris-and-other-malay-weapons.md). *JMBRAS* 29(4): 1–98
 - and Reprints 4 and 16
-- [A.H. Hill](./anthony-haydock-hill.md) and [G. Hodgson](./g-hodgson.md) (1956). [The keris and other Malay weapons, A.H. Hill; keris types and terms, Geoffrey Hodgson](./the-keris-and-other-malay-weapons-ah-hill-keris-types-and-te.md). *JMBRAS* 29(4): 1–98
+- [A.H. Hill](./anthony-haydock-hill.md) and [G. Hodgson](./g-hodgson.md) (1956). [The keris and other Malay weapons](./the-keris-and-other-malay-weapons.md). *JMBRAS* 29(4): 1–98
 - [A.H. Hill](./anthony-haydock-hill.md) et al. (1998). [Keris and other Malay Weapons](./keris-and-other-malay-weapons.md). ** : 183
 - Keith, H.G. _Keris_ measurements from N Borneo. MB 16(1)
 - [Hamilton A.W](./hamilton-aw.md) and [T. Kitching](./t-kitching.md) (1930). [Malayan plants: a collection made by A.W. Hamilton of some of the commoner plants and littoral trees found on Singapore Island. Identifications and descriptions. R.E. Holttum](./malayan-plants-a-collection-made-by-aw-hamilton-of-some-of-t.md). *JMBRAS* 8(2): 318–329

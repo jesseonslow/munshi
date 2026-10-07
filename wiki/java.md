@@ -46,7 +46,7 @@ published: false
 - Carey, P.B.R. _Babad Dipanagara_: Java War (1825–30). Monograph 9
 - [P.B.R. Carey](./pbr-carey.md) (1982). [Raden Saleh, Dipanagara and the painting of the capture of Dipanagara at Magelang (28 March 1830](./raden-saleh-dipanagara-and-the-painting-of-the-capture-of-di.md). *JMBRAS* 55: 1–25
 - [B.E. Colless](./be-colless.md) (1975). [Majapahit revisited: external evidence on the geography and ethnology of East Java in the Majapahit period](./majapahit-revisited-external-evidence-on-the-geography-and-e.md). *JMBRAS* 48(2): 124–161
-- [W.G.A. Fielding](./wga-fielding.md) and [C. Skinner](./cyril-skinner.md) (1971). [An eye-witness account of the invasion of Java in 1811 — the diary of Lt. W.G.A. Fielding. C. Skinner](./an-eye-witness-account-of-the-invasion-of-java-in-1811-the-d.md). *JMBRAS* 44: 1–51
+- [W.G.A. Fielding](./wga-fielding.md) and [C. Skinner](./cyril-skinner.md) (1971). [An eye-witness account of the invasion of Java in 1811 — the diary of Lt. W.G.A. Fielding](./an-eye-witness-account-of-the-invasion-of-java-in-1811-the-d.md). *JMBRAS* 44: 1–51
 - [Haughton H.T](./haughton-ht.md) (1887). [Treaty with Java](./treaty-with-java.md). *JSBRAS* 19: 151–152
 - Hose, G.F. Ruins of Boro Bodur. SB 6
 - [R. Jordaan](./r-jordaan.md) and [P.B.R. Carey](./pbr-carey.md) (2017). [Thomas Stamford Raffles’ Masonic career in Java: a new perspective on the British interregnum (1811–1816](./thomas-stamford-raffles-masonic-career-in-java-a-new-perspec.md). *JMBRAS* 90(2): 1–34

@@ -6,32 +6,30 @@ canonical_name: Geographical notes
 type: publication
 authors:
 - A.M. Skinner
+- William Bloomfield Douglas
 year: 1879
 journal_code: JSBRAS
 volume: 3
 issue: null
-pages: 132–133
+pages: 133–135
 has_bibliography: false
 has_footnotes: false
 PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
+publication_type: note
 source_doc: jsbras-003-s-geographicalnotes-1879-e536c45f8fd8
 source_path: ../sources/jsbras-003-s-geographicalnotes-1879-e536c45f8fd8.md
 summarized: true
-publication_type: note
 ---
 
-# Geographical notes
+# “Sungai Tata” route
 
-A brief collection of geographical observations by A.M.S. and B.D., published in JSBRAS Vol. 3 (1879), documenting routes and topographical features in the Malay Peninsula, particularly the ranges separating Selangor from Pahang and the Johor river systems.
+This 1879 geographical note by A.M. Skinner and William Bloomfield Douglas documents routes across the Selangor-Pahang range and observations in the Ulu Klang district. The text combines native accounts of trade potential with a first-hand survey of the Sungei Tata locality and its surrounding terrain.
 
 ## Summary
 
-A.M.S. reports on three routes across the Selangor–Pahang dividing range, drawing on native testimony. The Sungei Roh route is described by Datu Manku, who characterises the Pahang interior as rich in camphor, gold, tin, and gutta, estimating potential European revenue at $80,000 per month (p. 132). The Ulu Bernam route, described by Haji Mustapha (a Pahang man), notes that the watersheds of the Pahang and Bernam are separated by "a mere strip of land, a yard in breadth," and that the journey from the source to the kwala takes 21 days by boat (p. 132). A.M.S. also records Mr. Hervey's month-long exploration confirming that the two Semrong rivers in Johor intermingle at their source before diverging in opposite directions (p. 133).
+A.M. Skinner provides preliminary information on unexplored districts in Ulu Perak and details three routes from Selangor to Pahang based on native authority. Datu Manku describes the Sungei Roh route as rich in minerals and revenue, while Haji Mustapha outlines the Ulu Bernam crossing, noting the narrow water-shed and abundance of tin and gold (p. 133-134). Additionally, Mr. Hervey’s exploration of the intermingling Semrong rivers in Johor is briefly recorded (p. 134).
 
-B.D. provides a first-person account of the Sungei Tata route from Ulu Klang, reaching Bukit Lalu at 1,500 feet above Kuala Lumpur and taking survey bearings, before descending to a small kampong at 380 feet (pp. 133–134). The note concludes with a description of sulphur hot springs near the junction of the Klang and Tata, the hottest estimated at 180–190 degrees, used by natives as a remedy for rheumatism and frequented by wild cattle (pp. 134–135).
-
-## References
-<!-- Grounded occurrences and citations -->
+William Bloomfield Douglas recounts his journey to Sungei Tata, overcoming local warnings regarding the steep granite range to reach the Lampongs locality (p. 135). He documents the ascent to Bukit Lalu, the descent to the mining settlement, and the discovery of sulphur hot springs near the Klang-Tata junction, which natives utilize for rheumatism (p. 135). The note concludes by comparing the hill route favorably against the difficult lower track through the Klang valley (p. 135).

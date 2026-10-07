@@ -53,7 +53,7 @@ Gullick's definitive takeaway is that the building industry in the western Malay
 
 ## Context
 
-- Primary archival collections: Selangor Secretariat Files (SSF), Selangor Annual Reports, *Selangor Journal* (1892–97), Straits Settlements despatches to the Colonial Office (SSD), Perak Commission of Enquiry papers (CO 273/86–88), and the unpublished diaries of W. B. Douglas and the Kuala Langat Collector (Bodleian Library, Rhodes House, Oxford).
+- Primary archival collections: Selangor Secretariat Files (SSF), Selangor Annual Reports, *Selangor Journal* (1892–97), Straits Settlements despatches to the Colonial Office (SSD), Perak Commission of Enquiry papers (CO 273/86–88), and the unpublished diaries of William Bloomfield Douglas and James Innes, the Kuala Langat Collector (Bodleian Library, Rhodes House, Oxford).
 - Historiographical contribution: The article extends Gullick's long-standing project of reconstructing the material and economic history of colonial Selangor (building on his monographs on Kuala Lumpur and Selangor) by filling a gap in the literature on the physical infrastructure of the colonial state. It connects architectural history, labour history, and administrative history in a way that neither the architectural literature nor the economic history of the tin industry had previously achieved for this period and region.
 
 ## References

@@ -5,7 +5,7 @@ title: Geographic notes on the first two centuries of Djakarta
 canonical_name: Geographic notes on the first two centuries of Djakarta
 type: publication
 authors:
-- C. Clunies Ross
+- James L. Cobban 
 year: 1971
 journal_code: JMBRAS
 volume: 44
@@ -17,13 +17,10 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
-summarized: false
+summarized: true
 publication_type: journal_article
 source_doc: jmbras-220-cobban-geographicnotesfirst-1971-d577f7e1ff16
 source_path: ../sources/jmbras-220-cobban-geographicnotesfirst-1971-d577f7e1ff16.md
 ---
 
 # Geographic notes on the first two centuries of Djakarta
-
-## References
-<!-- Grounded occurrences and citations -->

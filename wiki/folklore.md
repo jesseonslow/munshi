@@ -156,7 +156,7 @@ For Orang Asli folklore, see [Orang Asli](./orang-asli).
 - Anon. Mat Janin. SB 48
 - [W.G. Maxwell](./sir-william-george-maxwell.md) (1911). [Miscellaneous notes](./miscellaneous-notes.md). *JSBRAS* 57: 195–196
 - [W.G. Maxwell](./sir-william-george-maxwell.md) (1908). [Sindbad’s old man of the sea](./sindbads-old-man-of-the-sea.md). *JSBRAS* 50: 91–95
-- [J.E. Nathan](./je-nathan.md) (1914). [A Malay ghost story. .E. Nathan](./a-malay-ghost-story-e-nathan.md). *JSBRAS* 67: 89–93
+- [J.E. Nathan](./je-nathan.md) (1914). [A Malay ghost story](./a-malay-ghost-story.md). *JSBRAS* 67: 89–93
 - Anon. Pa’ Pandir. SB 48
 - [G.M. Laidlaw](./gm-laidlaw.md) (1906). [Pa Senik and his son-in-law Awang](./pa-senik-and-his-son-in-law-awang.md). *JSBRAS* 46: 59–61
 - [A. Rentse](./a-rentse.md) (1931). [Two folktales of Kelantan](./two-folktales-of-kelantan.md). *JMBRAS* 9: 141–142

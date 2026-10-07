@@ -21,8 +21,8 @@ status: stub
 published: false
 articles:
 - id: jmbras-3-2-p1
-  slug: british-malaya-18241867-la-mills-with-an-appendix-co-blagden
-  title: British Malaya, 1824–1867. L.A. Mills. With an appendix C.O. Blagden
+  slug: british-malaya-1824-67
+  title: British Malaya, 1824–1867
   authors:
   - C.O. Blagden
   - L.A. Mills
@@ -44,7 +44,7 @@ articles:
 **Date:** November 1925
 
 ## Table of Contents
-* [British Malaya, 1824–1867. L.A. Mills. With an appendix C.O. Blagden](./british-malaya-18241867-la-mills-with-an-appendix-co-blagden.md) — [C.O. Blagden](./co-blagden.md), [L.A. Mills](./la-mills.md) (pp. 1–338)
+* [British Malaya, 1824–1867](./british-malaya-1824-67.md) — [C.O. Blagden](./co-blagden.md), [L.A. Mills](./la-mills.md) (pp. 1–338)
 * [A list of minerals found in British Malaya together with a description of their properties, composition, occurrences and uses](./a-list-of-minerals-found-in-british-malaya-together-with-a-d.md) — [E.S. Willbourn](./es-willbourn.md) (pp. 57–100)
 
 ## Contributors

@@ -50,7 +50,7 @@ Perham's definitive historical takeaway is that the *Mengap* is not a meaningles
 
 ## Context
 
-- The article was read at a meeting of the Siam Branch of the Royal Asiatic Society on 8 July 1878 and published in JSBRAS Vol. 2 (pp. 123–135); Perham was a Church Missionary Society missionary stationed in Sarawak, where his access to Sea Dyak communities in the Saribus and Balau dialect areas enabled his ethnographic work.
+- The article was read at a meeting of the Straits Branch of the Royal Asiatic Society on 8 July 1878 and published in JSBRAS Vol. 2 (pp. 123–135); Perham was a Church Missionary Society missionary stationed in Sarawak, where his access to Sea Dyak communities in the Saribus and Balau dialect areas enabled his ethnographic work.
 - The *Mengap* texts Perham records represent one of the earliest European transcriptions of Sea Dyak ceremonial poetry, preserving a fixed ritual register that, as he notes, remains "stationary" while the spoken language continues to evolve (p. 123).
 
 ## References
