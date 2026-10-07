@@ -19,7 +19,6 @@ amendments: []
 status: stub
 published: false
 summarized: true
-source_mismatch: true
 source_doc: jmalayanras-104-dover-notesfaunapitcherplants-1928-d0063a51b63e
 source_path: ../sources/bibliography.md
 publication_type: note

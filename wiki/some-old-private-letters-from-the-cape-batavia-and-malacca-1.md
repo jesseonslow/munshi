@@ -31,7 +31,6 @@ keywords:
 - Malay magic
 - shamanism
 - © Malaysian Branch of the Royal Asiatic Society
-source_mismatch: true
 source_doc: jmalayanras-090-papendrecht-oldprivateletters-1924-7497d194d195
 source_path: ../sources/jmalayanras-090-papendrecht-oldprivateletters-1924-7497d194d195.md
 publication_type: document

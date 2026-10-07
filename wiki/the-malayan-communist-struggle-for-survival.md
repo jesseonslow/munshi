@@ -18,7 +18,6 @@ amendments: []
 status: stub
 published: false
 summarized: true
-source_mismatch: true
 source_doc: jmbras-271-yong-malayancommuniststruggle-1996-f9f3b62ae058
 source_path: ../sources/jmbras-271-yong-malayancommuniststruggle-1996-f9f3b62ae058.md
 publication_type: journal_article

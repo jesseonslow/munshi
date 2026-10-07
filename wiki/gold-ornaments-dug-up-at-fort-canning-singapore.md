@@ -18,7 +18,6 @@ amendments: []
 status: stub
 published: false
 summarized: true
-source_mismatch: true
 source_doc: jmalayanras-105-winstedt-goldornamentsdug-1928-80c5c6e5e5d2
 source_path: ../sources/jmalayanras-105-winstedt-goldornamentsdug-1928-80c5c6e5e5d2.md
 publication_type: note

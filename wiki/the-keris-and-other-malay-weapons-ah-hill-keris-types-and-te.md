@@ -21,7 +21,6 @@ amendments: []
 status: stub
 published: false
 summarized: false
-source_mismatch: true
 publication_type: journal_article
 source_doc: jmalayanras-176-hill-krismalayweapons-1956-771e1a18a968
 source_path: ../sources/jmalayanras-176-hill-krismalayweapons-1956-771e1a18a968.md

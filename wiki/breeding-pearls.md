@@ -18,7 +18,6 @@ amendments: []
 status: stub
 published: false
 summarized: true
-source_mismatch: true
 source_doc: jsbras-001-dennys-breedingpearls-1878-30256d4025df
 source_path: ../sources/jsbras-001-dennys-breedingpearls-1878-30256d4025df.md
 publication_type: journal_article

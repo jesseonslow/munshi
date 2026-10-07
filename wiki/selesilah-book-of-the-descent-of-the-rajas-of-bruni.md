@@ -18,7 +18,6 @@ amendments: []
 status: stub
 published: false
 summarized: true
-source_mismatch: true
 source_doc: jsbras-005-low-slslahbookdescent-1880-1009489390e7
 source_path: ../sources/jsbras-005-low-slslahbookdescent-1880-1009489390e7.md
 publication_type: translation

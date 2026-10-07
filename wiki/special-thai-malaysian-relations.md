@@ -18,7 +18,6 @@ amendments: []
 status: stub
 published: false
 summarized: true
-source_mismatch: true
 source_doc: jmbras-282-suwannathatpian-specialthaimalaysianrelations-2002-9ed140448abd
 source_path: ../sources/references.md
 publication_type: journal_article

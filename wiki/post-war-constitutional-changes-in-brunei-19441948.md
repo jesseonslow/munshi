@@ -18,7 +18,6 @@ amendments: []
 status: stub
 published: false
 summarized: true
-source_mismatch: true
 source_doc: jmbras-258-horton-notepostwarconstitutional-1990-8fa285e565fc
 source_path: ../sources/jmbras-258-horton-notepostwarconstitutional-1990-8fa285e565fc.md
 publication_type: journal_article

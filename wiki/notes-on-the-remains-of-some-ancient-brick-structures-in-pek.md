@@ -18,7 +18,6 @@ amendments: []
 status: stub
 published: false
 summarized: true
-source_mismatch: true
 source_doc: jmalayanras-105-linehan-notesremainsancient-1928-223662b04782
 source_path: ../sources/jmalayanras-105-linehan-notesremainsancient-1928-223662b04782.md
 publication_type: note

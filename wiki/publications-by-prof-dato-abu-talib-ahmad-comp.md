@@ -18,7 +18,6 @@ amendments: []
 status: stub
 published: false
 summarized: true
-source_mismatch: true
 source_doc: kratoska-publications-by-prof-dato-abu-talib-ahmad-d6673132e248
 source_path: ../sources/kratoska-publications-by-prof-dato-abu-talib-ahmad-d6673132e248.md
 publication_type: index

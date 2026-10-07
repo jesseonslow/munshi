@@ -18,7 +18,6 @@ amendments: []
 status: stub
 published: false
 summarized: true
-source_mismatch: true
 source_doc: jmalayanras-181-bassett-englishtradecelebes-1958-80b7be11675b
 source_path: ../sources/jmalayanras-181-bassett-englishtradecelebes-1958-80b7be11675b.md
 publication_type: journal_article

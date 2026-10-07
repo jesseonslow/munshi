@@ -18,7 +18,6 @@ amendments: []
 status: stub
 published: false
 summarized: true
-source_mismatch: true
 source_doc: jmbras-230-gullick-tampinsuccession-1976-590824237d52
 source_path: ../sources/appendix.md
 publication_type: journal_article

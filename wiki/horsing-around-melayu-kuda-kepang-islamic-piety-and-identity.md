@@ -20,7 +20,6 @@ amendments: []
 status: stub
 published: false
 summarized: true
-source_mismatch: true
 source_doc: jmbras-306-hardwick-horsingaroundmelayu-2014-ea93b01a2d2b
 source_path: ../sources/references.md
 publication_type: journal_article

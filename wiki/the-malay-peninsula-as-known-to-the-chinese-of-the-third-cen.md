@@ -18,7 +18,6 @@ amendments: []
 status: stub
 published: false
 summarized: true
-source_mismatch: true
 source_doc: jmalayanras-169-wheatley-malaypeninsulaknown-1955-1f892518ec4c
 source_path: ../sources/jmalayanras-169-wheatley-malaypeninsulaknown-1955-1f892518ec4c.md
 publication_type: journal_article

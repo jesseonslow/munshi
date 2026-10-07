@@ -18,7 +18,6 @@ amendments: []
 status: stub
 published: false
 summarized: true
-source_mismatch: true
 source_doc: jsbras-003-hervey-tripgunongblumut-1879-fe8df36bda82
 source_path: ../sources/jsbras-003-hervey-tripgunongblumut-1879-fe8df36bda82.md
 publication_type: journal_article

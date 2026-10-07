@@ -20,7 +20,6 @@ amendments: []
 status: stub
 published: false
 summarized: true
-source_mismatch: true
 source_doc: jmbras-282-ramakrishna-tellingsimplepeople-2002-64703e9f264b
 source_path: ../sources/references.md
 publication_type: journal_article

@@ -18,7 +18,6 @@ amendments: []
 status: stub
 published: false
 summarized: true
-source_mismatch: true
 source_doc: jmalayanras-100-winstedt-notesmalaymagic-1927-979f0ff7cc50
 source_path: ../sources/jmalayanras-100-winstedt-notesmalaymagic-1927-979f0ff7cc50.md
 publication_type: note

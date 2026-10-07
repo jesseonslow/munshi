@@ -18,7 +18,6 @@ amendments: []
 status: stub
 published: false
 summarized: true
-source_mismatch: true
 source_doc: jsbras-020-ridley-reportdestructioncoconut-1889-9943dd8bc9bd
 source_path: ../sources/jsbras-020-ridley-reportdestructioncoconut-1889-9943dd8bc9bd.md
 publication_type: journal_article

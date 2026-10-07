@@ -25,7 +25,6 @@ reprints:
   year: 1978
   absorbed_slug: syers-and-the-selangor-police-1875-1897
 summarized: true
-source_mismatch: true
 source_doc: jmbras-234-gullick-syersselangorpolice-1978-f0edac1ade77
 source_path: ../sources/appendix.md
 publication_type: journal_article

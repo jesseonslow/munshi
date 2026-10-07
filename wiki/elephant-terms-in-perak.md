@@ -18,7 +18,6 @@ amendments: []
 status: stub
 published: false
 summarized: false
-source_mismatch: true
 publication_type: note
 source_doc: jmalayanras-100-miller-elephanttermsperak-1927-c69ff4201a32
 source_path: ../sources/jmalayanras-100-miller-elephanttermsperak-1927-c69ff4201a32.md

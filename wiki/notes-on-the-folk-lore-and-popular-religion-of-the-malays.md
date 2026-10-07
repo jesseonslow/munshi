@@ -18,7 +18,6 @@ amendments: []
 status: stub
 published: false
 summarized: true
-source_mismatch: true
 source_doc: jsbras-029-blagden-notesfolklorepopular-1896-875bbd6f3bd6
 source_path: ../sources/jsbras-029-blagden-notesfolklorepopular-1896-875bbd6f3bd6.md
 publication_type: note

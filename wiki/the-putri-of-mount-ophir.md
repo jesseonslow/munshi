@@ -18,7 +18,6 @@ amendments: []
 status: stub
 published: false
 summarized: true
-source_mismatch: true
 source_doc: jsbras-024-l-putrimountophir-1891-84281156fb9c
 source_path: ../sources/jsbras-024-l-putrimountophir-1891-84281156fb9c.md
 publication_type: note

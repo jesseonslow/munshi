@@ -21,7 +21,6 @@ amendments: []
 status: stub
 published: false
 summarized: true
-source_mismatch: true
 source_doc: jmalayanras-093-chasen-birdnotes-1925-d85e98306a31
 source_path: ../sources/jmalayanras-093-chasen-birdnotes-1925-d85e98306a31.md
 publication_type: note

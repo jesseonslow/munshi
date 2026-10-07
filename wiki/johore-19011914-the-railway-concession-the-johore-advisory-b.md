@@ -20,7 +20,6 @@ amendments: []
 status: stub
 published: false
 summarized: true
-source_mismatch: true
 source_doc: jmbras-222-allen-johore1901-1972-c98cdf5e7040
 source_path: ../sources/jmbras-222-allen-johore1901-1972-c98cdf5e7040.md
 publication_type: journal_article

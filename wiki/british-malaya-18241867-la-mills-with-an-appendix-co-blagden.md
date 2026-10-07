@@ -19,7 +19,6 @@ amendments: []
 status: stub
 published: false
 summarized: true
-source_mismatch: true
 source_doc: jmalayanras-094-mills-britishmalaya18241867-1925-562e603de16d
 source_path: ../sources/bibliography.md
 publication_type: monograph

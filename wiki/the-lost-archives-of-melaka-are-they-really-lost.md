@@ -18,7 +18,6 @@ amendments: []
 status: stub
 published: false
 summarized: true
-source_mismatch: true
 source_doc: jmbras-288-fernando-lostarchivesmelaka-2005-c22f91329374
 source_path: ../sources/references.md
 publication_type: journal_article

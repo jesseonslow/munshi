@@ -18,7 +18,6 @@ amendments: []
 status: stub
 published: false
 summarized: true
-source_mismatch: true
 source_doc: jmbras-228-gullick-selangor1876-1975-bb26f18757a1
 source_path: ../sources/jmbras-228-gullick-selangor1876-1975-bb26f18757a1.md
 publication_type: journal_article

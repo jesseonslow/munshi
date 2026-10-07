@@ -18,7 +18,6 @@ amendments: []
 status: stub
 published: false
 summarized: true
-source_mismatch: true
 source_doc: jmbras-278-kaur-changinglabourrelations-2000-8bbf7d587e75
 source_path: ../sources/references.md
 publication_type: journal_article

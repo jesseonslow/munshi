@@ -18,7 +18,6 @@ amendments: []
 status: stub
 published: false
 summarized: true
-source_mismatch: true
 source_doc: jmbras-290-gullick-fallriseklang-2006-41ac22e89996
 source_path: ../sources/references.md
 publication_type: journal_article

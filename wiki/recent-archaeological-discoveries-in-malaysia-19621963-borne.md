@@ -18,7 +18,6 @@ amendments: []
 status: stub
 published: false
 summarized: true
-source_mismatch: true
 source_doc: jmbras-206-harrison-recentarchaeologicaldiscoveries-1964-133c44acc366
 source_path: ../sources/jmbras-206-harrison-recentarchaeologicaldiscoveries-1964-133c44acc366.md
 publication_type: journal_article

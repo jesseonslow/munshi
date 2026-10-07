@@ -18,7 +18,6 @@ amendments: []
 status: stub
 published: false
 summarized: true
-source_mismatch: true
 source_doc: jmalayanras-173-gibsonhill-rafflesachehorder-1956-fd18e1d555fd
 source_path: ../sources/jmalayanras-173-gibsonhill-rafflesachehorder-1956-fd18e1d555fd.md
 publication_type: journal_article

@@ -18,7 +18,6 @@ amendments: []
 status: stub
 published: false
 summarized: true
-source_mismatch: true
 source_doc: jmbras-262-bastin-rafflesaidesdecampjava-1992-d10c601176e4
 source_path: ../sources/jmbras-262-bastin-rafflesaidesdecampjava-1992-d10c601176e4.md
 publication_type: journal_article

@@ -20,7 +20,6 @@ amendments: []
 status: stub
 published: false
 summarized: true
-source_mismatch: true
 source_doc: jmbras-264-kheng-powerbehindthrone-1993-d0fe4f1e6ae1
 source_path: ../sources/jmbras-264-kheng-powerbehindthrone-1993-d0fe4f1e6ae1.md
 publication_type: journal_article

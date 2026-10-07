@@ -18,7 +18,6 @@ amendments: []
 status: stub
 published: false
 summarized: true
-source_mismatch: true
 source_doc: jmbras-249-kim-rajalumusultansalehuddin-1985-2ed578f282eb
 source_path: ../sources/appendices.md
 publication_type: journal_article

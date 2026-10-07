@@ -20,7 +20,6 @@ amendments: []
 status: stub
 published: false
 summarized: true
-source_mismatch: true
 source_doc: jmbras-281-musa-malaychamrelations-2001-2335862ab840
 source_path: ../sources/references.md
 publication_type: journal_article

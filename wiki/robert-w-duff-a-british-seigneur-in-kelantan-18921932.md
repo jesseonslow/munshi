@@ -18,7 +18,6 @@ amendments: []
 status: stub
 published: false
 summarized: true
-source_mismatch: true
 source_doc: jmbras-272-levos-robertwduff-1997-869db772219e
 source_path: ../sources/bibliography.md
 publication_type: journal_article

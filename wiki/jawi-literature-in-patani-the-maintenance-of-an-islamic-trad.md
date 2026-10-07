@@ -19,7 +19,6 @@ amendments: []
 status: stub
 published: false
 summarized: true
-source_mismatch: true
 source_doc: jmbras-254-matheson-jawiliteraturepatani-1988-e196a7674db4
 source_path: ../sources/appendix.md
 publication_type: journal_article

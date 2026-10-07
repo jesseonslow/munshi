@@ -18,7 +18,6 @@ amendments: []
 status: stub
 published: false
 summarized: true
-source_mismatch: true
 source_doc: jsbras-079-ridley-hoseanthusmerrilln-1918-bda04c225a4c
 source_path: ../sources/jsbras-079-ridley-hoseanthusmerrilln-1918-bda04c225a4c.md
 publication_type: note

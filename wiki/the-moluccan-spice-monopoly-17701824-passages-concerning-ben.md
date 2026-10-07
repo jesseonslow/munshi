@@ -20,7 +20,6 @@ amendments: []
 status: stub
 published: false
 summarized: true
-source_mismatch: true
 source_doc: jmalayanras-184-wright-moluccanspicemonopoly-1958-4a875899c54a
 source_path: ../sources/index.md
 publication_type: monograph

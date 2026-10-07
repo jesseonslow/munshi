@@ -18,7 +18,6 @@ amendments: []
 status: stub
 published: false
 summarized: true
-source_mismatch: true
 source_doc: jmbras-236-wolters-studyingrvijaya-1979-e9f2bcd9e858
 source_path: ../sources/jmbras-236-wolters-studyingrvijaya-1979-e9f2bcd9e858.md
 publication_type: journal_article

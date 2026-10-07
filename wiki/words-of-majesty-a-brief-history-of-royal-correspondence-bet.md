@@ -20,7 +20,6 @@ amendments: []
 status: stub
 published: false
 summarized: true
-source_mismatch: true
 source_doc: jmbras-312-morel-wordsmajesty-2017-e171cdb0c00e
 source_path: ../sources/references.md
 keywords:

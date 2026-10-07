@@ -24,7 +24,6 @@ amendments:
 status: stub
 published: false
 summarized: true
-source_mismatch: true
 source_doc: jmalayanras-143-gibsonhill-notescocoskeelingislands-1947-c651c698e7c4
 source_path: ../sources/appendix.md
 publication_type: note

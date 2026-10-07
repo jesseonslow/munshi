@@ -18,7 +18,6 @@ amendments: []
 status: stub
 published: false
 summarized: false
-source_mismatch: true
 publication_type: journal_article
 source_doc: jmbras-253-alfred-boatssingapore-1987-ffff186019d7
 source_path: ../sources/jmbras-253-alfred-boatssingapore-1987-ffff186019d7/bibliography.md

@@ -20,7 +20,6 @@ amendments: []
 status: stub
 published: false
 summarized: true
-source_mismatch: true
 source_doc: jmalayanras-190-hill-hikayatrajarajapasai-1960-10a63ea86d5c
 source_path: ../sources/bibliography.md
 publication_type: translation

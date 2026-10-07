@@ -18,7 +18,6 @@ amendments: []
 status: stub
 published: false
 summarized: true
-source_mismatch: true
 source_doc: jmalayanras-177-tibbetts-earlymuslimtraders-1957-0cbab7d418ec
 source_path: ../sources/bibliography.md
 publication_type: journal_article

@@ -18,7 +18,6 @@ amendments: []
 status: stub
 published: false
 summarized: true
-source_mismatch: true
 source_doc: jmbras-256-kratz-hikayatrajapasai-1989-1e89680dfc8f
 source_path: ../sources/references.md
 publication_type: journal_article

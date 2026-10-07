@@ -20,7 +20,6 @@ amendments: []
 status: stub
 published: false
 summarized: false
-source_mismatch: true
 publication_type: note
 source_doc: jmalayanras-105-kloss-bulletinrafflesmuseum-1928-5529ad97096f
 source_path: ../sources/jmalayanras-105-kloss-bulletinrafflesmuseum-1928-5529ad97096f.md

@@ -25,7 +25,6 @@ amendments:
 status: stub
 published: false
 summarized: true
-source_mismatch: true
 source_doc: jmalayanras-157-cowan-sirfrankswettenhams-1951-e156266c2360
 source_path: ../sources/appendix.md
 publication_type: document

@@ -18,7 +18,6 @@ amendments: []
 status: stub
 published: false
 summarized: true
-source_mismatch: true
 source_doc: jsbras-001-everett-notesdistributionuseful-1878-260ae685bf01
 source_path: ../sources/jsbras-001-everett-notesdistributionuseful-1878-260ae685bf01.md
 publication_type: note

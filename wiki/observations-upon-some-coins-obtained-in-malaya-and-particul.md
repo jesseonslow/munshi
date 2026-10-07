@@ -28,7 +28,6 @@ keywords:
 - Politics of Commemoration
 - Singapore Story
 - Revisionist history
-source_mismatch: true
 source_doc: jmalayanras-087-bucknill-observationsuponcoins-1923-4a3054322ad0
 source_path: ../sources/index.md
 publication_type: journal_article

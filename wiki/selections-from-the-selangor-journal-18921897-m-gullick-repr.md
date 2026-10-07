@@ -20,7 +20,6 @@ amendments: []
 status: stub
 published: false
 summarized: true
-source_mismatch: true
 source_doc: jmbras-269-gullick-shorthistorysociety-1995-0e5faf7a13dc
 source_path: ../sources/appendix.md
 publication_type: reprint

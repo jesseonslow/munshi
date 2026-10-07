@@ -36,7 +36,6 @@ keywords:
 - Hikayat Raja Raja Pasai
 - Hikayat Hang Tuah
 - Sejarah Melayu
-source_mismatch: true
 source_doc: khoo-borschberg-compendia-entries-on-singapore-and-the-straits-region-e3f1ad999936
 source_path: ../sources/khoo-borschberg-compendia-entries-on-singapore-and-the-straits-region-e3f1ad999936.md
 publication_type: journal_article

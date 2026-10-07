@@ -18,7 +18,6 @@ amendments: []
 status: stub
 published: false
 summarized: true
-source_mismatch: true
 source_doc: jsbras-003-pickering-chinesesecretsocieties-1879-caec74b2defd
 source_path: ../sources/jsbras-003-pickering-chinesesecretsocieties-1879-caec74b2defd.md
 publication_type: journal_article

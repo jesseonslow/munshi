@@ -18,7 +18,6 @@ amendments: []
 status: stub
 published: false
 summarized: true
-source_mismatch: true
 source_doc: jmalayanras-179-tarling-britishpolicymalay-1957-6559db1034e7
 source_path: ../sources/bibliography.md
 publication_type: monograph

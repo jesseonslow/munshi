@@ -19,7 +19,6 @@ amendments: []
 status: stub
 published: false
 summarized: true
-source_mismatch: true
 source_doc: jmbras-314-borschberg-singaporeportcity-2018-bd1b50c08e79
 source_path: ../sources/references.md
 publication_type: journal_article

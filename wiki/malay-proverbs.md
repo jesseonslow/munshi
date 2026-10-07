@@ -18,7 +18,6 @@ amendments: []
 status: stub
 published: false
 summarized: true
-source_mismatch: true
 source_doc: jsbras-011-maxwell-malayproverbs-1883-d37034ed61a1
 source_path: ../sources/jsbras-011-maxwell-malayproverbs-1883-d37034ed61a1.md
 publication_type: journal_article

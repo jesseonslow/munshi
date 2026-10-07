@@ -19,7 +19,6 @@ amendments: []
 status: stub
 published: false
 summarized: true
-source_mismatch: true
 source_doc: jmbras-253-miksic-serivijayamelaka-1987-e8b0ced3de9d
 source_path: ../sources/jmbras-253-miksic-serivijayamelaka-1987-e8b0ced3de9d.md
 publication_type: journal_article

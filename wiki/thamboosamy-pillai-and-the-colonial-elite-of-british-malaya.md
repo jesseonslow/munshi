@@ -25,7 +25,6 @@ keywords:
 - Inclusive History
 - Historiography
 - Indians in Malaysia
-source_mismatch: true
 source_doc: raja-thamboosamy-pillai-and-the-colonial-elite-171db612b176
 source_path: ../sources/references.md
 publication_type: journal_article

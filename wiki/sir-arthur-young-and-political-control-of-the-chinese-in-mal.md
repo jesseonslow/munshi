@@ -21,7 +21,6 @@ amendments: []
 status: stub
 published: false
 summarized: true
-source_mismatch: true
 source_doc: jmbras-247-yong-sirarthuryoung-1984-1deec2e433d3
 source_path: ../sources/jmbras-247-yong-sirarthuryoung-1984-1deec2e433d3.md
 publication_type: journal_article

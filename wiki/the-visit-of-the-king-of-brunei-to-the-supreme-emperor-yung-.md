@@ -20,7 +20,6 @@ amendments: []
 status: stub
 published: false
 summarized: true
-source_mismatch: true
 source_doc: jmbras-246-yee-visitkingbrunei-1984-1485dcfc5723
 source_path: ../sources/jmbras-246-yee-visitkingbrunei-1984-1485dcfc5723.md
 publication_type: journal_article

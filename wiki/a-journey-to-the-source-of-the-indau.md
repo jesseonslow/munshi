@@ -18,7 +18,6 @@ amendments: []
 status: stub
 published: false
 summarized: true
-source_mismatch: true
 source_doc: jsbras-025-lake-journeysourceindau-1894-bf2e22e00c9f
 source_path: ../sources/jsbras-025-lake-journeysourceindau-1894-bf2e22e00c9f.md
 publication_type: journal_article

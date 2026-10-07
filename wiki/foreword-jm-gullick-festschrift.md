@@ -18,7 +18,6 @@ amendments: []
 status: stub
 published: false
 summarized: true
-source_mismatch: true
 source_doc: jmbras-277-barlow-foreword-1999-f10b201180c9
 source_path: ../sources/jmbras-277-barlow-foreword-1999-f10b201180c9.md
 publication_type: note

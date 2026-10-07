@@ -18,7 +18,6 @@ amendments: []
 status: stub
 published: false
 summarized: true
-source_mismatch: true
 source_doc: jmbras-227-winzeler-traditionalislamicschools-1975-bd55674320c7
 source_path: ../sources/jmbras-227-winzeler-traditionalislamicschools-1975-bd55674320c7.md
 publication_type: journal_article

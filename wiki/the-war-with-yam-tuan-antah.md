@@ -18,7 +18,6 @@ amendments: []
 status: stub
 published: false
 summarized: true
-source_mismatch: true
 source_doc: jmalayanras-165-gullick-waryamtuan-1954-ac46e2860431
 source_path: ../sources/jmalayanras-165-gullick-waryamtuan-1954-ac46e2860431.md
 publication_type: journal_article

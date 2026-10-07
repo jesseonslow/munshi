@@ -18,7 +18,6 @@ amendments: []
 status: stub
 published: false
 summarized: true
-source_mismatch: true
 source_doc: jmalayanras-163-gullick-captainspeedylarut-1953-a2a235ab142d
 source_path: ../sources/jmalayanras-163-gullick-captainspeedylarut-1953-a2a235ab142d.md
 publication_type: monograph

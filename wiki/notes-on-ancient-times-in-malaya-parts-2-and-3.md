@@ -18,7 +18,6 @@ amendments: []
 status: stub
 published: false
 summarized: true
-source_mismatch: true
 source_doc: jmalayanras-142-braddell-notesancienttimes-1947-9f9fa01411eb
 source_path: ../sources/jmalayanras-142-braddell-notesancienttimes-1947-9f9fa01411eb.md
 publication_type: journal_article

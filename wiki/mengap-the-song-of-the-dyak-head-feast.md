@@ -18,7 +18,6 @@ amendments: []
 status: stub
 published: false
 summarized: true
-source_mismatch: true
 source_doc: jsbras-002-perham-mengapsongdyak-1878-5ee50e32b6a3
 source_path: ../sources/jsbras-002-perham-mengapsongdyak-1878-5ee50e32b6a3.md
 publication_type: journal_article

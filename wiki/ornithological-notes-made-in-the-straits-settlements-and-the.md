@@ -20,7 +20,6 @@ amendments: []
 status: stub
 published: false
 summarized: true
-source_mismatch: true
 source_doc: jsbras-012-kelham-ornithologicalnotesmade-1883-d65bcb9d17e8
 source_path: ../sources/jsbras-012-kelham-ornithologicalnotesmade-1883-d65bcb9d17e8.md
 publication_type: reprint

@@ -19,7 +19,6 @@ status: stub
 published: false
 summarized: false
 publication_type: translation
-source_mismatch: true
 ---
 
 # A history of Malaya

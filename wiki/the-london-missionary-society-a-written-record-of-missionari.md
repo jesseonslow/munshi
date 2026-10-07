@@ -20,7 +20,6 @@ amendments: []
 status: stub
 published: false
 summarized: true
-source_mismatch: true
 source_doc: jmbras-247-osullivan-londonmissionarysociety-1984-d411e94aa7dd
 source_path: ../sources/jmbras-247-osullivan-londonmissionarysociety-1984-d411e94aa7dd.md
 publication_type: journal_article

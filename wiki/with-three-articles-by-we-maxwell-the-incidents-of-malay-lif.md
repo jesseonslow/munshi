@@ -20,7 +20,6 @@ amendments: []
 status: stub
 published: false
 summarized: true
-source_mismatch: true
 source_doc: jmalayanras-180-wilkinson-papersmalaycustoms-1957-309d9f59743a
 source_path: ../sources/appendices.md
 publication_type: reprint

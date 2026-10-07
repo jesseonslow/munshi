@@ -21,7 +21,6 @@ amendments: []
 status: stub
 published: false
 summarized: true
-source_mismatch: true
 source_doc: jmalayanras-170-macgregor-notesportuguesemalaya-1955-2c137a36ded1
 source_path: ../sources/appendix.md
 publication_type: review

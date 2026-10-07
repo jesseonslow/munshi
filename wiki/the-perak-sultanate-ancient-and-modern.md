@@ -18,7 +18,6 @@ amendments: []
 status: stub
 published: false
 summarized: true
-source_mismatch: true
 source_doc: jmbras-250-kim-peraksultanateancient-1986-9c0d34486e24
 source_path: ../sources/jmbras-250-kim-peraksultanateancient-1986-9c0d34486e24.md
 publication_type: journal_article

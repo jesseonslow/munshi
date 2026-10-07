@@ -19,7 +19,6 @@ amendments: []
 status: stub
 published: false
 summarized: true
-source_mismatch: true
 source_doc: jsbras-032-c-bekin-1899-c53ac8843119
 source_path: ../sources/jsbras-032-c-bekin-1899-c53ac8843119.md
 publication_type: note

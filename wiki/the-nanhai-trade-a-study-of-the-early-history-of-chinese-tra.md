@@ -20,7 +20,6 @@ amendments: []
 status: stub
 published: false
 summarized: true
-source_mismatch: true
 source_doc: jmalayanras-182-gungwu-nanhaitradestudy-1958-48ea3450604b
 source_path: ../sources/appendix.md
 publication_type: journal_article

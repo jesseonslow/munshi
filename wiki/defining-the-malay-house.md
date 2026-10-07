@@ -18,7 +18,6 @@ amendments: []
 status: stub
 published: false
 summarized: true
-source_mismatch: true
 source_doc: jmbras-262-hilton-definingmalayhouse-1992-7b10960756e5
 source_path: ../sources/jmbras-262-hilton-definingmalayhouse-1992-7b10960756e5.md
 publication_type: journal_article

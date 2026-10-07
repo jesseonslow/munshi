@@ -18,7 +18,6 @@ amendments: []
 status: stub
 published: false
 summarized: true
-source_mismatch: true
 source_doc: jmalayanras-142-winstedt-notesmalaysubjects-1947-a3478d93ec17
 source_path: ../sources/jmalayanras-142-winstedt-notesmalaysubjects-1947-a3478d93ec17.md
 publication_type: note

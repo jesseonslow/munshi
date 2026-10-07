@@ -18,7 +18,6 @@ amendments: []
 status: stub
 published: false
 summarized: true
-source_mismatch: true
 source_doc: jmalayanras-192-ken-tradesingapore181969-1960-80e4b5bf5a3f
 source_path: ../sources/appendix.md
 publication_type: monograph

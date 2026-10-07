@@ -18,7 +18,6 @@ amendments: []
 status: stub
 published: false
 summarized: true
-source_mismatch: true
 source_doc: jmbras-248-manguin-introductionislamcampa-1985-9a20e79c56b8
 source_path: ../sources/bibliography.md
 publication_type: journal_article

@@ -18,7 +18,6 @@ amendments: []
 status: stub
 published: false
 summarized: true
-source_mismatch: true
 source_doc: jmbras-227-king-stonesmalohindonesian-1975-125b213eaf63
 source_path: ../sources/jmbras-227-king-stonesmalohindonesian-1975-125b213eaf63.md
 publication_type: journal_article

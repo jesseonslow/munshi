@@ -20,7 +20,6 @@ amendments: []
 status: stub
 published: false
 summarized: true
-source_mismatch: true
 source_doc: jmbras-265-suwannathatpian-thronesclaimantsrulers-1993-618e8b522285
 source_path: ../sources/jmbras-265-suwannathatpian-thronesclaimantsrulers-1993-618e8b522285.md
 publication_type: journal_article

@@ -18,7 +18,6 @@ amendments: []
 status: stub
 published: false
 summarized: true
-source_mismatch: true
 source_doc: jmalayanras-120-winstedt-historyselangor-1934-f6c627ce0f11
 source_path: ../sources/bibliography.md
 publication_type: document

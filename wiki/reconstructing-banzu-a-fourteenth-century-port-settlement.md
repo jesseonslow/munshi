@@ -18,7 +18,6 @@ amendments: []
 status: stub
 published: false
 summarized: false
-source_mismatch: true
 publication_type: journal_article
 source_doc: jmbras-282-soon-reconstructingbanzufourteenthcentury-2002-6fe0428ff1a0
 source_path: ../sources/jmbras-282-soon-reconstructingbanzufourteenthcentury-2002-6fe0428ff1a0/references.md

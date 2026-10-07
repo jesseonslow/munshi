@@ -18,7 +18,6 @@ amendments: []
 status: stub
 published: false
 summarized: true
-source_mismatch: true
 source_doc: jmbras-263-reece-australasiancareergeorge-1992-7277e692359e
 source_path: ../sources/references.md
 publication_type: journal_article

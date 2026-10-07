@@ -18,7 +18,6 @@ amendments: []
 status: stub
 published: false
 summarized: true
-source_mismatch: true
 source_doc: jmalayanras-188-fisk-economicshandloomindustry-1959-5dece7b170ec
 source_path: ../sources/jmalayanras-188-fisk-economicshandloomindustry-1959-5dece7b170ec.md
 publication_type: journal_article

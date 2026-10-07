@@ -18,7 +18,6 @@ amendments: []
 status: stub
 published: false
 summarized: true
-source_mismatch: true
 source_doc: jmalayanras-148-gullick-sungeiujong-1949-2804e7a4ed6c
 source_path: ../sources/appendix.md
 publication_type: journal_article
