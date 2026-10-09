@@ -14,12 +14,37 @@ is_cluster: false
 is_contributor: true
 status: stub
 published: false
+type: person
+generated: true
 ---
-
 
 # Sir William Edward Maxwell
 
-<!-- Synthesis engine: Insert introductory synthesis for Sir William Edward Maxwell here -->
+## Early Life and Administrative Career
+
+Sir William Edward Maxwell (1846–1897) was a Straits Settlements administrator who, in the absence of any professional academic establishment in Malaya, became the pioneering figure in the systematic study of Malay society, language, and history during the 1870s and 1880s.[[1]](#ref-1) Born on 5 August 1846, the younger son of Sir Peter Benson Maxwell, the first Chief Justice of the Straits Settlements, he was educated at Repton School in Derbyshire and left in April 1864, more than a year before his arrival in Malaya.[[1]](#ref-1) He was only 18 when he first arrived in Malaya in 1865, beginning his career as clerk to his father, then Recorder of Penang, before obtaining a judicial appointment and, from 1869, serving as a magistrate in all three Settlements.[[1]](#ref-1) By 1874, having qualified by examination for admission to the local Bar, he was acting as a High Court judge, though he had already shown an aptitude for administrative work, acting as Lieutenant Governor of Melaka in 1870 at the age of 24.[[1]](#ref-1)
+
+From 1874 he served in administrative posts, and for five years (1877–82) with an interruption for home leave he served as Assistant Resident under Hugh Low in Perak, an experience that opened for him other windows on Malay life.[[1]](#ref-1) He was drawn into the later stages of the Perak War as a junior civil liaison officer attached to one of the military columns, and his diary of a subsequent expedition across Upper Perak was one of his first contributions to the Society's Journal.[[1]](#ref-1) After studying the Torrens system of registered title to land in Australia, he was appointed Commissioner of Lands/Titles for the Straits Settlements, a post that carried a seat in the Executive and Legislative Councils and led to a controversial period in which his reform programme was opposed strenuously by various interests.[[1]](#ref-1)
+
+## The *Nisero* Affair and the Selangor Residency
+
+On 8 November 1883 the British steamer *Nisero* ran aground off the northwest coast of Sumatra, and her crew of about 30 were rounded up by the Raja of Tenom, a vassal of the Sultan of Aceh.[[1]](#ref-1) Maxwell was chosen by the Governor of the Straits Settlements to mediate the release of the seamen, a task he handled over several months of tortuous diplomacy in Europe and Sumatra.[[1]](#ref-1) He persuaded the Raja to leave his armed force in a village and come down to the beach to negotiate, and agreed to remain behind as a hostage until the Dutch had paid over $38,000 in compensation to the Raja's envoys.[[1]](#ref-1) For his part in the affair Maxwell was awarded a CMG and £500 by the British government.[[1]](#ref-1)
+
+Maxwell's three years as Resident of Selangor (1889–92) saw his greatest administrative achievements.[[1]](#ref-1) By his Selangor Land Code of 1890 he laid the foundations of the modern National Land Code, the bedrock upon which the agricultural development of Malaya has been founded.[[1]](#ref-1) R. H. Hickling, who drafted the 1965 National Land Code, confirmed that three quarters of a century after Maxwell produced his Selangor Land Code, its basic principles had been preserved in the current land legislation.[[1]](#ref-1) Maxwell also set out to equip Kuala Lumpur with offices for its growing bureaucracy, bringing in C. E. Spooner from Ceylon as an able and forceful engineer, and established the Kuala Lumpur Sanitary Board, the first such body in the Malay States.[[1]](#ref-1) He was succeeded in the implementation of his land system by Ernest Birch, the Selangor Commissioner of Lands.[[1]](#ref-1)
+
+## Scholarship and the Study of Malay Society
+
+Maxwell's unique combination of legal training, deep immersion in Malay village life, multilingual competence, and voracious reading made him the first "first-hand observer with scholastic knowledge" in Malayan studies, a role that no university-trained scholar could fill until well after his death.[[1]](#ref-1) His first major published work, the *Manual of the Malay Language* (1882), included an introductory essay on "the Sanskrit element in Malay" that tabulated Malay words across themes such as commerce, cosmology, religion, and political office, with their Sanskrit, Sundanese, Batak, and Bugis equivalents.[[1]](#ref-1) At his death in 1897, contemporaries singled out this essay as "the most memorable of his works." [[1]](#ref-1)
+
+Maxwell was assiduous in collecting and preserving Malay language texts, both oral and written. His bequest to the Royal Asiatic Society in London comprised 105 items of Malay books and manuscripts, including the *Sejarah Melayu*, the *Hikayat Abdullah*, the *Taj al-Salatin*, and the *Hikayat Hang Tuah* in two volumes.[[1]](#ref-1) In a number of cases he borrowed an original from its Malay owner to have a copy made, then returned the original so that it remained in Malaya.[[1]](#ref-1) His collection of 301 Malay proverbs, published in the Journal between 1878 and 1879, was followed by a further 272 from French and Dutch sources; subsequent collections, including C. C. Brown's *Malay Sayings*, drew on Maxwell's work as a principal source.[[1]](#ref-1) He was particularly interested in the tales recited by itinerant Malay storytellers, the *penglipur lara*, and published the first such texts in the Journal, including the *Hikayat Sri Rama*, *Raja Donan*, and *Raja Ambong*.[[1]](#ref-1)
+
+Modern historians most often cite two monographs on socio-economic themes: his studies of debt-bondage and Malay land tenure.[[1]](#ref-1) His study of debt-bondage, although not published in the Journal until 1891, had its origin in his time as Assistant Resident of Perak, when the subject was still highly controversial; the Regent of Perak, Raja Muda Yusuf, acknowledged that "the historical survey drawn up by Mr. Maxwell was in all respects correct." [[1]](#ref-1) His paper on Malay land tenure included his theory of the Ruler's right to a tithe, a proposition which earned him more brickbats than bouquets in his official career and led to a bitter dispute with Swettenham over official land policy.[[1]](#ref-1)
+
+## Legacy and Documentation
+
+Maxwell served as Honorary Secretary and Editor of the Society's Journal from 1883 to 1887, during which time he supplemented the Journal with *Notes and Queries*, invited contributions from other parts of Southeast Asia, and translated papers submitted in French into English for publication.[[1]](#ref-1) Under his editorship, membership recovered from 111 in 1882 to 157 in 1891.[[1]](#ref-1) He also persuaded the Council to undertake the publication of *Miscellaneous Papers relating to Indo-China*, a collection of earlier scholarly papers compiled with the help of Dr. Reinhold Rost, Librarian at the India Office in London.[[1]](#ref-1)
+
+Maxwell left Selangor in 1892 to become Colonial Secretary and later acting Governor of the Straits Settlements (1893–94), and in 1895 he was transferred to a governorship in West Africa, where he died at the age of 51, frustrated in his hope of returning to a further period of service in Malaya.[[1]](#ref-1) By his Will, made in the Gold Coast just before his death, he instructed that his private letters and diaries should be burnt "without examination or perusal." [[1]](#ref-1) His legacy to Malay studies is immense and varied: the *Manual*, the proverbs, the fairy tales, the historical papers, the land code, and the manuscript collection all remain in use or in active scholarly engagement more than a century after his death.[[1]](#ref-1)
 
 ## MBRAS Sources
 
@@ -106,4 +131,5 @@ published: false
 - (1997) [Notes and Queries](./notes-and-queries.md). *Reprint* 15: 146
 
 ## References
-<!-- Grounded occurrences and citations -->
+
+1. <span id="ref-1"></span> J.M. Gullick (1991). [William Maxwell and the study of Malay society (with an introduction by Khoo Kay Kim](./william-maxwell-and-the-study-of-malay-society-with-an-intro.md) *JMBRAS* 64(2): 5–46. <a href="https://www.jstor.org/stable/41493185" class="aggregator-link" target="_blank" rel="noopener noreferrer">Read on JSTOR</a>
