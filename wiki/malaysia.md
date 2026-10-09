@@ -32,7 +32,7 @@ published: false
 
 - [Abu Talib Ahmad](./abu-talib-ahmad.md) (2008). [State museums and their representation of the past in Malaysia](./state-museums-and-their-representation-of-the-past-in-malays.md). *JMBRAS* 81(2): 45–70
 - [Abu Talib Ahmad](./abu-talib-ahmad.md) (2011). [The Tun Abdul Razak Memorial and the promotion of a national memory in Malaysia](./the-tun-abdul-razak-memorial-and-the-promotion-of-a-national.md). *JMBRAS* 84(2): 1–32
-- [Abu Talib Ahmad](./abu-talib-ahmad.md). [Sejarah Tempatan dalam Sejarah Sosioekonomi Malaysia. Ed. Abu Talib Ahmad](./sejarah-tempatan-dalam-sejarah-sosioekonomi-malaysia-ed-abu-.md). *Monograph* 49
+- [Abu Talib Ahmad](./abu-talib-ahmad.md). [Sejarah Tempatan dalam Sejarah Sosioekonomi Malaysia. Ed. Abu Talib Ahmad](./sejarah-tempatan-dalam-sejarah-sosioekonomi-malaysia.md). *Monograph* 49
 - [P. Daniel](./p-daniel.md) (1941). [A descriptive catalogue of the books relating to Malaysia in the Raffles Museum & Library, Singapore](./a-descriptive-catalogue-of-the-books-relating-to-malaysia-in.md). *JMBRAS* 19(3): 1–125
 - [R. Glew](./r-glew.md) and [C. Velu](./c-velu.md) (2020). [Malaysianisation and the Barlow Boustead Estates Agency](./malaysianisation-and-the-barlow-boustead-estates-agency.md). *JMBRAS* 93: 43–66
 - [Loh Wei Leng](./loh-wei-leng.md) (2023). [Centring the Periphery: New Forays in Malaysian Economic History. biblio](./centring-the-periphery-new-forays-in-malaysian-economic-hist.md). *JMBRAS* 96(2): 89–102

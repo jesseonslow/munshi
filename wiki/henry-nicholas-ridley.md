@@ -18,12 +18,45 @@ is_cluster: false
 is_contributor: true
 status: stub
 published: false
+type: person
+generated: true
 ---
-
 
 # Henry Nicholas Ridley
 
-<!-- Synthesis engine: Insert introductory synthesis for Henry Nicholas Ridley here -->
+Henry Nicholas Ridley (1855–1955), C.M.G., M.A., F.R.S., was a British botanist who served as Director of the Botanic Gardens in Singapore and as Honorary Secretary of the Straits Branch of the Royal Asiatic Society. His career spanned twenty-three years of service in the Straits Settlements, during which he made pioneering contributions to rubber cultivation, tropical botany, and the documentation of Malayan flora. He is regarded as the single most significant contributor to the activities of the Society's journal, and his published output covered approximately ten thousand printed pages [[1, pp. 104]](#ref-1).
+
+## Early Life and Formation
+
+Ridley was born on 10 December 1855, at West Harling in Norfolk, son of the Rev. Oliver Matthew Ridley and Louisa Pole (Stuart). His mother died during his infancy, and his childhood was not a happy one; he spoke little of it, though he recalled with some amusement an occasion when, as a child, he declared his disbelief in the story of creation and was spanked by his father [[1, p. 104]](#ref-1). He early acquired an intense interest in the natural world and decided while still at school that his life's work would be the study of natural history in the tropics.
+
+At Haileybury School, Ridley had no formal teaching in biology, but was an active member of the school natural history society, and his first published paper, on the birds and beetles of Haileybury, appeared in the society's report for 1872. He went on to Exeter College, Oxford, where he obtained second class honours in Science in 1877 and was awarded the Burdett-Coutts Geological Scholarship [[1, p. 104]](#ref-1).
+
+After Oxford, Ridley sought a post that would lead to tropical study. He first applied for a position in the Department of Zoology at the British Museum (Natural History) but was unsuccessful. He subsequently secured a botanical post at the Museum, passing an examination he declared had nothing to do with his qualifications. There he studied collections of specimens from many parts of the tropics, acquiring a remarkably wide knowledge of tropical plants, especially Monocotyledons, while continuing to publish on zoological subjects. In 1887 he made an expedition, sponsored by the Royal Society, to Fernando de Noronha off the coast of Brazil, and wrote reports on its botany, zoology and geology [[1, pp. 104–105]](#ref-1).
+
+## Service in the Straits Settlements
+
+Ridley came to Singapore in 1888, succeeding Nathaniel Cantley, who had died the previous year while on sick leave in Australia. Cantley had reorganised the Botanic Gardens, reported on the forests of the Straits Settlements, established the first Forest Reserves, founded the Waterfall Garden in Penang, and established the Economic Garden in Singapore, where the original *Hevea brasiliensis* trees were planted [[1, p. 105]](#ref-1).
+
+Ridley continued Cantley's forest administration until 1894 and devoted special attention to the rubber trees, discovering efficient tapping methods and planting more trees. He tried to persuade planters to adopt Para Rubber as a plantation crop; his efforts were initially unsuccessful, but when planting began around 1896 he was ready with a supply of seeds and technical information. Most of the early rubber estates in Malaya were planted from Ridley's seeds, and he also shipped seeds to other parts of the world, having devised a packing method that ensured a high proportion of seeds survived long journeys [[1, p. 105]](#ref-1).
+
+Beyond cultivated plants, Ridley devoted considerable energy to the study of native Malayan flora. He was pre-eminent as a field botanist, and his detailed knowledge of Monocotyledons enabled him to collect with discrimination. By 1899, he and Curtis had collected fifty-three new species in the family Zingiberaceae, adding twenty more in the following decade; in the thirty years after Ridley's retirement only thirty more were added. He also discovered a large number of new orchids and built up a substantial herbarium of dried specimens [[1, pp. 105–106]](#ref-1). He studied useful native plants, especially timber trees and rotans, and maintained an interest in the zoological collections at the Botanic Gardens, writing on insects as pollinators and pests, and on mammals and birds as seed distributors [[1, p. 106]](#ref-1).
+
+Early in 1890 Ridley became Honorary Secretary of the Straits Branch of the Royal Asiatic Society, continuing in that office, with two intermissions, until the end of 1911. Throughout this period he edited the Society's journal and contributed a long series of original papers on an astonishing variety of subjects [[1, p. 104]](#ref-1). He also maintained the *Agricultural Bulletin of the Straits & F.M.S.* as a monthly journal from 1901 to 1911, being by far its largest contributor [[1, p. 106]](#ref-1).
+
+## Major Publications and Later Life
+
+Upon retirement in 1912, Ridley undertook to write a *Flora of the Malay Peninsula*, working on it at Kew, where he resided for the rest of his life. Publication began in 1922 and the five-volume work was completed in 1925. The *Flora* incorporated the earlier work of Sir George King and his collaborators at Calcutta on Dicotyledons with Ridley's own work on Monocotyledons, adding new material throughout. However, the work has been considered unsatisfactory in many respects: Ridley lacked the patience to record details accurately and seemed incapable of a critical understanding of other botanists' work, resulting in hasty, careless and inaccurate descriptions [[1, pp. 106–107]](#ref-1).
+
+His most important single published work apart from the *Flora* was *The Dispersal of Plants throughout the World* (1930), a book of 740 pages containing a detailed study of dispersal mechanisms and much original material from his own observations in Malaya [[1, pp. 107–108]](#ref-1).
+
+Ridley's work was recognised by the Royal Society, which elected him a Fellow in 1907; by the Government of the Straits Settlements, which bestowed a C.M.G. upon his retirement; and by the Linnean Society of London, which awarded him the Linnean Gold Medal in 1950. Other honours included a gold medal from the Rubber Growers Association (1914), the Frank N. Meyer Medal of the U.S. Department of Agriculture (1928), and the Colwyn Medal of the Institution of the Rubber Industry (1955) [[1, p. 108]](#ref-1).
+
+His longevity was remarkable. At eighty he was still actively at work, and his eightieth birthday was celebrated with a special issue of the *Gardens Bulletin, S.S.* At eighty-three he married Lily Eliza Doran, who, with her sister, cared for him devotedly in his last years. He continued to attend meetings of the Linnean Society with great regularity until over ninety, and from the autumn of 1953, though unable to leave his house, he sat at his desk daily writing letters and his diary until a severe illness just before his ninety-eighth birthday caused an almost complete failure of sight. He greatly enjoyed the celebration of his hundredth birthday, receiving congratulations from the Royal Society, the Government of Singapore, and other official bodies [[1, pp. 108–109]](#ref-1).
+
+## Legacy and Documentation
+
+Ridley's great services to Malaya were his early experimental tapping of rubber trees, his persistent advocacy of plantation rubber at a time when others failed to foresee its possibilities, his maintenance of the Botanic Gardens as a centre of work in horticulture, agriculture and forestry, and his immense work as a field botanist in all parts of Malaya [[1, p. 108]](#ref-1). In the report for 1911, Dr. R. Hanitsch, Ridley's successor as Secretary, described him as having been 'the very soul of the Society' [[1, p. 108]](#ref-1). His obituary, written by R. E. Holttum, acknowledges both the serious errors in his published work and the daemonic energy with which he achieved so much that was original and constructive over so wide a field, with so little help and against such great handicaps, concluding that he was a genius, and of such much can be forgiven [[1, p. 107]](#ref-1).
 
 ## MBRAS Sources
 
@@ -126,4 +159,5 @@ published: false
 - (1907) The pagan races of the Malay Peninsula. *JSBRAS* 49: 1–5
 
 ## References
-<!-- Grounded occurrences and citations -->
+
+1. <span id="ref-1"></span> R.E. Holttum (1960). [Henry Nicholas Ridley. Obituary](./henry-nicholas-ridley-obituary.md) *JMBRAS* 33(1): 104–109. <a href="https://www.jstor.org/stable/41505487" class="aggregator-link" target="_blank" rel="noopener noreferrer">Read on JSTOR</a>

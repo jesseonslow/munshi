@@ -1,13 +1,12 @@
 ---
 id: country-traders-the-east-india-company-and-the-rise-of-singa
 work_id: jmbras-96-2-p103
-title: 'Country Traders, the East India Company, and the Rise of Singapore: ‘On Further
-  Interference with the East-India Company’s Privileges of Exclusive Trade’
-canonical_name: 'Country Traders, the East India Company, and the Rise of Singapore:
-  ‘On Further Interference with the East-India Company’s Privileges of Exclusive Trade’
+title: 'Country Traders, the East India Company, and the Rise of Singapore: ‘On Further Interference with the East-India Company’s Privileges of Exclusive Trade’'
+canonical_name: 'Country Traders, the East India Company, and the Rise of Singapore: ‘On Further Interference with the East-India Company’s Privileges of Exclusive Trade’'
 type: publication
 authors:
 - Anon
+editors:
 - P.H. Kratoska
 year: 2023
 journal_code: JMBRAS

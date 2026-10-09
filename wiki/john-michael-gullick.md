@@ -14,8 +14,9 @@ is_cluster: false
 is_contributor: true
 status: stub
 published: false
+type: person
+generated: true
 ---
-
 
 # John Michael Gullick
 
@@ -26,6 +27,30 @@ Gullick joined the Colonial Administrative Service in 1939 and after the war - i
 After his retirement from the Malayan Civil Service in 1956, Gullick's career path took an unusual turn when he became a company secretary after which, in 1963, he went into legal practice (he had qualified as barrister in the 1950s but opted for solicitor work), unorthodox career moves that left an unmistakable quality on his writings and burnished his subsequent credentials as a formidable authority on Malayan history. Works written by Gullick subsequent to this period have been unrivalled by even professional historians, and he woved a dazzling tapestry of brilliant scholarship and thorough research that became the envy of many professionals in the field. As the author of numerous articles and books on the modern history of Malaya, Gullick's contributions to its scholarship were widely acknowledged but he remained in private life a modest and self-effacing man. The last in a long and illustrious line of scholar administrators who had inestimably enriched the field of Malaysian history. 
 
 Gullick died at his home in Essex in April 2012.
+
+## John Michael Gullick
+
+John Michael Gullick (1919–2015) was a British army officer, Malayan Civil Service administrator, and historian whose career spanned the immediate post-war restoration of British rule in the Malay Peninsula and a subsequent half-century of scholarly publication. Serving in Negri Sembilan from 1945 to 1956, he occupied mid-level administrative posts that placed him at the intersection of military government, constitutional negotiation, and district-level governance. His later career as a historian of Malay political institutions, Kuala Lumpur's development, and *adat* law made him one of the most prolific and reliable contributors to the Society's journal and monograph series, with a published output of over seventy items between 1949 and 1998 [[1, pp. 183–186]](#ref-1).
+
+## Administrative Service in Negri Sembilan (1945–1956)
+
+Gullick's service in Malaya was organised around two successive regimes: the British Military Administration (BMA), which ran from September 1945 to 31 March 1946, and the Malayan Union government, which operated from 1 April 1946 to 31 January 1948 [[2, pp. 69]](#ref-2). He arrived with the BMA Negri Sembilan team, which landed at Morib on the night of 10 September 1945, two days after the planned landing date, the convoy arriving a mile south of the designated beach area [[3, pp. 67–68]](#ref-3). He served as Deputy Senior Civil Affairs Officer under James Calder, and subsequently as Secretary to the Resident Commissioner, a post that placed him in daily contact with district officers, Malay notables, and the local civil service [[2, p. 53]](#ref-2), [[3, p. 61]](#ref-3).
+
+The BMA period was characterised by institutional vacuum. The MPAJA had removed and destroyed all records, including essential land registers, from the Jelebu District Office, while a Kempeitai military fatigue party under a sergeant had burned most of the State Secretariat files in Seremban [[2, pp. 53–54]](#ref-2). The Japanese "banana" currency had depreciated to worthlessness, local food production had greatly diminished owing to Japanese requisitioning, and a smallpox epidemic broke out in autumn 1945, though it was contained by mass vaccination [[3, p. 72]](#ref-3). Gullick was candid about the BMA's institutional shortcomings, noting that the team was ignorant of Malay language, custom, and the legal frameworks governing land tenure and local government [[2, p. 53]](#ref-2). Only a quarter of the 150–200 officers who crossed the Indian Ocean in August–September 1945 to establish the BMA had attended courses at the Civil Affairs Staff Centre at Wimbledon; the remainder came direct from British military units in India [[3, p. 63]](#ref-3).
+
+The transition to the Malayan Union shifted the focus to constitutional and political questions. Gullick served under three successive Resident Commissioners—Calder, Gordon-Hall, and Pengilley—and was involved in the delicate negotiations over the 1947 written constitution for Negri Sembilan, particularly the contentious rules governing the election of a *Yam Tuan* (the hereditary title of the ruler of Negri Sembilan) [[2, pp. 69]](#ref-2). The 1947 constitutional compromise stipulated that the *Undang* (the hereditary chief of a *mukim*, or sub-district) would first seek a candidate among the "issue" of the late ruler and only if no suitable son or grandson existed would they consider other descendants of *Yam Tuan* Antah [[2, p. 79]](#ref-2). The election of the *Undang* of Jelebu within approximately one month of the previous holder's death in August 1945—an unusually rapid process compared to the normal two-year period—was necessitated by the need for a signatory to the MacMichael treaty in November 1945 [[2, p. 56]](#ref-2).
+
+Gullick's memoirs also document the inter-communal violence that erupted in the authority vacuum between the Japanese surrender and the establishment of British control. The Batu Kikir massacre of early November 1945, in which approximately forty Chinese women and children were killed by Malay villagers in a remote part of Kuala Pilah district, is treated as a formative trauma for the Malay political class [[3, p. 74–75]](#ref-3). The Malays involved were later tried and convicted but sentenced to imprisonment rather than death given the provocation [[3, p. 75]](#ref-3). Gullick also records the seizure of Inche Malek bin Yusof—later *Menteri Besar* (chief minister) of Negri Sembilan and Governor of Malacca—by the MPAJA, who tied him across his own office desk and threatened him with a knife after Brigadier Willan reactivated the district office without consulting the local Senior Civil Affairs Officer [[3, p. 74]](#ref-3).
+
+## Scholarly Career and Publications
+
+Gullick's published output, catalogued in a bibliographic list compiled for the Society's journal in 1999, spans four categories: fourteen books (1956–1995), thirty-one articles in the Society's journal and monograph series (1949–1998), sixteen articles and reviews in other journals, and miscellaneous contributions including introductions to reprints, encyclopedia entries, and memoirs [[1, pp. 183–186]](#ref-1). The books cover Malay political history, Kuala Lumpur's development, and edited anthologies of European travel writing in South-East Asia [[1, p. 183]](#ref-1). His journal articles address early Selangor and Kedah history, the Malay press, *adat* (customary law) systems, and the Society's own institutional history [[1, p. 184]](#ref-1). At the time of the 1999 list, forthcoming works included a full *History of Kuala Lumpur 1857–1939* as a monograph and entries for the *New Dictionary of National Biography* [[1, pp. 184]](#ref-1).
+
+The memoirs themselves—published in two parts in 2013 and 2014—were originally composed in 1969–70 for Professor Robert Heussler's history of the Malayan Civil Service and revised for publication [[3, p. 59]](#ref-3). Gullick kept no diary, and the texts draw on personal recollection rather than archival files; their value lies in the granular detail of day-to-day military government operations and the subjective experience of inter-communal relations as perceived at district level [[3, p. 59]](#ref-3). He acknowledges confusions in his recollection, such as conflating two different Malay district officers in Jelebu, and explicitly corrects the widely repeated claim that Dato' Klana Ma'amor, *Undang* of Sungei Ujong since 1895, was "brought protesting from his deathbed" to meet MacMichael, asserting instead that the old man was simply expressing polite unwillingness [[2, pp. 54–55]](#ref-2).
+
+## Legacy and Documentation
+
+H.S. Barlow, editor of the 1999 Festschrift volume honouring Gullick, placed his scholarly output alongside that of earlier figures such as W.E. Maxwell and Sir Richard Winstedt, highlighting his dual qualities of scholarly rigour and readability [[4, p. 1]](#ref-4). Barlow noted his reliability as a contributor whose manuscripts were "always trouble-free," and his characteristic generosity in sharing knowledge with fellow historians through prompt, detailed correspondence [[4, p. 1]](#ref-4). The Festschrift itself, published as a special issue of the Society's journal, stands as a testament to the breadth of his influence across Malay political history, urban development, and institutional memory [[4, p. 1]](#ref-4).
 
 ## MBRAS Sources
 
@@ -107,3 +132,10 @@ Gullick died at his home in Essex in April 2012.
 - (1996) The sultanate of Aceh: relations with the British 1760–1824. Lee Kam Hing. *JMBRAS* 69(1): 118–119
 - (2001) A history of Malaysia, 2nd edn. *JMBRAS* 74(2): 131–134
 - (2004) Raja Bilah and the Mandailings of Perak 1875–1911. Abdurrazzaq Lubis and Khoo Salma Nasution. *JMBRAS* 77(2): 134–135
+
+## References
+
+1. <span id="ref-1"></span> J.M. Gullick (1999). [List of publications. {J.M. Gullick](./list-of-publications-jm-gullick.md) *JMBRAS* 72(2): 183–16.
+2. <span id="ref-2"></span> J.M. Gullick (2014). [Recollections of my time in Malaya (1945–1956) Part 2](./recollections-of-my-time-in-malaya-19451956-part-2.md) *JMBRAS* 87(1): 53–81. <a href="https://www.jstor.org/stable/10.2307/26527663" class="aggregator-link" target="_blank" rel="noopener noreferrer">Read on JSTOR</a>
+3. <span id="ref-3"></span> J.M. Gullick (2013). [Recollections of my time in Malaya (1945–1948) Part 1](./recollections-of-my-time-in-malaya-19451948-part-1.md) *JMBRAS* 86(2): 59–76. <a href="https://www.jstor.org/stable/10.2307/26527647" class="aggregator-link" target="_blank" rel="noopener noreferrer">Read on JSTOR</a>
+4. <span id="ref-4"></span> H.S. Barlow (1999). [Foreword (J.M. Gullick Festschrift](./foreword-jm-gullick-festschrift.md) *JMBRAS* 72(2): 1.
