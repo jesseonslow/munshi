@@ -1,11 +1,17 @@
-{% extends "base.jinja2" %}
+{% extends "synthesis_layout.jinja2" %}
 
-{% block category_instructions %}
-# SYNTHESIS INSTRUCTIONS: PLACE / TOPONYM
-1. Synthesize the historical geography, administrative changes, and regional importance of this location[cite: 1].
-2. Structure sections logically:
-   - `## Geographical Overview & Toponymy`
-   - `## Historical Development & Administration`
-   - `## Economic & Trade Activities`
-3. If colonial spelling variations or local names appear in the excerpts, document them under toponymy.
+{% block category_task %}
+Write an authoritative historical-geographical encyclopedia article on the location: **{{ topic_name }}**.
+{% endblock %}
+
+{% block category_architecture %}
+1. THE ORIENTING LEDE (NO SUBHEADING):
+   - 1 concise paragraph defining the geographic location, ecological setting, historical jurisdiction, and regional significance.
+2. SPATIAL & HISTORICAL BODY:
+   - Organize into 2 to 4 '{{ body_heading_prefix }}' subheadings (e.g., `{{ body_heading_prefix }} Toponymy & Indigenous Landscape`, `{{ body_heading_prefix }} Settlement Patterns & Trade Networks`, `{{ body_heading_prefix }} Colonial Administration & Infrastructure`).
+   {% if subtopics %}
+   - Structure around: {{ subtopics | join(", ") }}.
+   {% endif %}
+3. FIELD RESEARCH & EXPLORATION:
+   - Conclude with `{{ body_heading_prefix }} Research and Documentation` surveying early surveys, excavations, toponymic studies, and cartographic evidence in the records.
 {% endblock %}

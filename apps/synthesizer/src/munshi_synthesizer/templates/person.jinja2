@@ -1,11 +1,17 @@
-{% extends "base.jinja2" %}
+{% extends "synthesis_layout.jinja2" %}
 
-{% block category_instructions %}
-# SYNTHESIS INSTRUCTIONS: HISTORICAL INDIVIDUAL
-1. Reconstruct a chronological biographical account of this figure based on primary mentions.
-2. Structure sections around their historical career:
-   - `## Early Career & Background` (if attested)
-   - `## Administrative / Historical Roles`
-   - `## Regional Activities & Key Engagements`
-3. If authority facets are provided (e.g., specific expeditions or offices), map them to relevant subheadings.
+{% block category_task %}
+Write an authoritative biographical encyclopedia article on the historical individual: **{{ topic_name }}**.
+{% endblock %}
+
+{% block category_architecture %}
+1. THE ORIENTING LEDE (NO SUBHEADING):
+   - 1 concise paragraph (under 120 words) identifying who this person was, their titles or offices, historical era, and core significance.
+2. CHRONOLOGICAL & THEMATIC BODY:
+   - Organize into 2 to 4 logical '{{ body_heading_prefix }}' sections based on attested records (e.g., `{{ body_heading_prefix }} Early Career and Administrative Postings`, `{{ body_heading_prefix }} Diplomatic and Regional Engagements`).
+   {% if subtopics %}
+   - Principal sections to address: {{ subtopics | join(", ") }}.
+   {% endif %}
+3. BIOGRAPHICAL TREATMENT & DOCUMENTATION:
+   - Conclude with `{{ body_heading_prefix }} Legacy and Documentation` evaluating how contributors and contemporaries recorded this figure in the Society's literature.
 {% endblock %}

@@ -1,0 +1,62 @@
+{% extends "base.jinja2" %}
+
+{% block content %}
+## TASK
+{% block category_task %}
+{# Overridden by child templates (e.g., biographical vs toponymic) #}
+{% endblock %}
+
+## NARRATIVE ARCHITECTURE & STRUCTURE
+{% block category_architecture %}
+{# Overridden by child templates (e.g., chronological body vs geographic features) #}
+{% endblock %}
+
+## FORMATTING & HEADING RULES
+- NEVER use '# ' (H1) or emit '## References' or '## MBRAS Sources'.
+- Use '{{ body_heading_prefix }} ' for all thematic body subheadings.
+- Conclude with '{{ body_heading_prefix }} Research and Documentation'.
+- Ground all assertions using numeric citations [N] or [N, pp. X–Y] immediately following the factual claim.
+- Attribute findings clearly to the respective scholars and observers.
+
+## ARTICLE SCALE & PROPORTIONALITY CONTRACT
+- TARGET LENGTH: Approximately {{ target_words }} words (adhere strictly to this scope).
+- PROPORTIONALITY RULE: 
+  {% if target_words < 600 %}
+  This is a focused, limited archival record. Deliver a tight, high-density synthesis in 2–3 paragraphs under 1–2 subheadings. Do NOT artificially pad with background narrative or speculative filler.
+  {% elif target_words > 1400 %}
+  This is a major hub or regional cluster. Provide a thorough, multi-section survey covering all key facets and subtopics documented in the records.
+  {% else %}
+  This is a standard encyclopedic subject. Deliver a balanced, rigorous synthesis across 2–3 substantive thematic sections.
+  {% endif %}
+
+## STRICT SCOPE RESTRICTION:
+- Never extrapolate broad regional, cultural, or biological generalisations that are not explicitly stated in the sources.
+- If the records discuss only a single specimen, finding, or short notice, state the limits of the record immediately in Sentence 1.
+- DO NOT invent statements about the subject's overall status, largest size, ecological role, or economic significance unless directly quoted or cited from the records.
+
+## ARCHIVAL EVIDENCE RECORDS
+{% for src in sources %}
+[{{ loop.index }}] {{ src.author_display }} ({{ src.year }}). "{{ src.title }}". {{ src.journal_citation }}
+{% if src.pages %}Pages: {{ src.pages }}{% endif %}
+{% if src.lede %}
+Context & Overview:
+{{ src.lede }}
+{% endif %}
+{% if src.summary %}
+Source Evidence:
+{{ src.summary }}
+{% endif %}
+{% if src.key_findings %}
+Key Findings:
+{% for kf in src.key_findings %}
+- {{ kf }}
+{% endfor %}
+{% endif %}
+{% if src.context_notes %}
+Archival Notes: {{ src.context_notes | join("; ") }}
+{% endif %}
+
+{% endfor %}
+
+Write the encyclopedia article now:
+{% endblock %}
