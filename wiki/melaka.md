@@ -2,7 +2,7 @@
 id: melaka
 title: Melaka
 canonical_name: Melaka
-aliases: 
+aliases:
 - Malaka
 - Malacca
 broader: []
@@ -44,8 +44,8 @@ related:
   slug: lace-making
 - title: Malay culture and society
   slug: malay-culture-and-society
-- title: "Manuel Godinho de Er\xE9dia"
-  slug: "manuel-godinho-de-er\xE9dia"
+- title: Manuel Godinho de Erédia
+  slug: manuel-godinho-de-erédia
   facet: Description and travel
   inferred: true
 - title: Marriage
@@ -85,26 +85,49 @@ is_cluster: false
 is_contributor: false
 status: stub
 published: false
+type: concept
+generated: true
 ---
 
 # Melaka
 
-<!-- Synthesis engine: Insert introductory synthesis for Melaka here -->
+Melaka, situated at the narrowest point of the strait that bears its name on the western coast of the Malay Peninsula, has served for over six centuries as one of the most strategically significant entrepôt ports in maritime Southeast Asia. Its position at the crossroads of the China–India trade route made it the natural focal point for the exchange of spices, textiles, tin, and precious metals between the eastern and western Indian Ocean worlds. From its emergence as a small fishing settlement in the early fifteenth century to its transformation under successive Portuguese, Dutch, and British administrations, Melaka has been the subject of sustained scholarly investigation, with the Society's journal publishing studies spanning Ming-dynasty Chinese sources, Portuguese and Dutch archival records, and quantitative economic analyses that together constitute one of the most densely documented case studies in the history of the Straits region.
 
-## History
-<!-- Synthesis engine: Insert history details here -->
+### The Melakan Sultanate: Origins and Economic Growth
 
-## Description and travel
-<!-- Synthesis engine: Insert description and travel details here -->
+The earliest reference to Melaka in any text in any language is the entry of 28 October 1403 in the *Ming Shi-lu* (Ming Imperial Annals), recording the dispatch of the eunuch Yin Qing with an imperial proclamation to the kings of Melaka and Cochin [[1, p. 31]](#ref-1). Geoff Wade's comprehensive survey of over one hundred references in the *Ming Shi-lu* and related texts demonstrates that the Chinese annals constitute the most chronologically precise contemporary evidence for the polity's early history, and that their day-by-day precision allows them to serve as a datum line against which Malay and Portuguese chronologies can be tested [[1, pp. 31–35]](#ref-1). Wade shows that the title "Parameswara" appears in the *Ming Shi-lu* precisely as Tome Pires records it, yet is absent from the *Sejarah Melayu*, presumably excised after Islamization, and that no evidence for the marriage of Sultan Mansur Shah to a Chinese princess (Hang Li Po) exists in any Ming text [[1, pp. 40–48]](#ref-1).
 
-## Commerce
-<!-- Synthesis engine: Insert commerce details here -->
+Robert McRoberts' economic history of the period 1400–1510 argues that Melaka's growth was driven by a combination of long-term structural change in the Indian Ocean trade—particularly the shift from a China-dominated luxury trade to a Muslim-dominated bulk commodity trade—and the coherent political programme of the Melakan administration, which used economic policy as an instrument of regional hegemony [[2, pp. 47–50]](#ref-2). The urban population grew from an estimated sixty persons in 1400 to between 40,000 and 100,000 by 1511 [[2, pp. 63–64]](#ref-2). McRoberts identifies a critical dichotomy in Melakan trade: an entrepôt trade in luxury and bulk commodities dominated by foreigners, and a local distributive trade in basic necessities dominated by Javanese and Thai merchants, a dual structure he contends was obscured by European commentators who fixated on the spice trade [[2, pp. 50–52]](#ref-2). Excise duties were standardised at six per cent on merchandise from the west and three per cent for settled Malays plus a three per cent royal duty, while goods from the east initially paid no dues [[2, pp. 57–58]](#ref-2).
 
-## Buildings
-<!-- Synthesis engine: Insert buildings details here -->
+The fall of the sultanate to the Portuguese in 1511 has been the subject of sustained historiographical debate. McRoberts (1984) rejects the dominant tradition that attributes the fall to the moral failings of Sultan Mahmud, arguing instead that Melaka was a militarily prepared, politically cohesive empire whose capital fell due to divided strategic priorities, the specific geography of the city, and a critical tactical error by its ruler [[3, pp. 26–30]](#ref-3). D'Albuquerque's force numbered between 1,000 and 1,600 men in at least sixteen vessels, against a Melakan garrison reported at up to 100,000 fighting men, 8,000 pieces of ordnance, and twenty war elephants [[3, p. 26]](#ref-3). The city fell on a Tuesday at spring tide, probably 24 or 25 August 1511, after Mahmud's decision to withdraw his forces upriver to Bertam proved a fatal tactical error [[3, pp. 37–38]](#ref-3).
 
-## Fortifications
-<!-- Synthesis engine: Insert fortifications details here -->
+### Conquest and Colonial Administration
+
+The Portuguese period, documented through the *Commentarios* of d'Albuquerque, Pires' *Suma Oriental*, and the *Livro do Estado da India Oriental* of Pedro Barretto de Resende, reveals a garrison town that survived through fortification, naval power, and the rivalries among Malay and Javanese polities rather than through any stable political settlement [[4, pp. 117–149]](#ref-4). Maxwell's 1911 translation of the Resende manuscript describes a garrison of 250 married Portuguese men with 2,000 armed black captives, three convents, and a five-storey captain's fort with walls twenty paces wide per side [[5, p. 4]](#ref-5). The *jalea* fleet of three to five vessels cruised seasonally—May to Penang, September to Junk-Ceylon, December to the Singapore Straits—carrying fifty or more sailors each [[5, p. 6]](#ref-5). Portuguese commercial abuses, particularly captains seizing native merchandise at below-market prices, were driving trade to rival ports and to the Dutch, who controlled the Banda Islands and had factories at Jambi and Andregy [[5, pp. 9–10]](#ref-5).
+
+The Dutch seizure of Melaka in January 1641 was preceded by five years of maritime blockade. Peter Borschberg demonstrates that the colony was brought down not by Dutch military superiority but by what he terms the "Black Trinity"—war, famine, and disease—reducing the population from an estimated 20,000 to between 1,500 and 3,000 survivors, a ninety per cent loss [[6, pp. 95–97]](#ref-6). The physical destruction was severe: suburbs were consumed by fire, stone buildings shattered by artillery, and uncontrolled looting irretrievably destroyed much of Melaka's Luso-Asian material culture [[6, pp. 97–99]](#ref-6).
+
+Under Dutch rule, the post remained a financial challenge. W. Ph. Coolhaas' study of Jan van Riebeeck's tenure as Commandeur (1662–1665) shows that Melaka was a loss-making operation that did not warrant the higher salary attached to the governorship [[7, pp. 173–174]](#ref-7). Financial results show a trajectory from deficit to near-balance: in 1662, expenditure of 228,806 guilders exceeded receipts of 112,192; by 1665, receipts (234,050) marginally exceeded expenditure (230,423), with tolls contributing 62,502 guilders [[7, p. 181]](#ref-7). The town's commercial life depended on the Japan trade (copper, silver, lacquer), the tin trade with Perak and Ligor, and the pepper trade via Indragiri, while Muslim merchant competition from Bengal and Coromandel posed a persistent challenge [[7, pp. 175–176]](#ref-7).
+
+### Fortifications, Demography, and Cultural Life
+
+The physical infrastructure of colonial Melaka was shaped by the tension between strategic necessity and commercial viability. Riebeeck's proposal to reduce the fortress to a pentagon, estimated at 200,000 guilders, would have allowed a garrison reduction of 150 men and a yearly saving of 30,000 guilders; the Heren XVII rejected the plan, partly because the financial position was improving through increased textile sales and tolls [[7, p. 181]](#ref-7). By the 1770s, Governor Thomas Schippers noted that the great gate's vaulted roof was cracking from gun vibration and dry-season conditions, and that local bricklayers were making matters worse [[8, p. 33]](#ref-8).
+
+The demographic and cultural composition of colonial Melaka was shaped by the Luso-Asian (*mestico*) community, comprising surviving Portuguese-speaking slaves, Eurasian merchants, and their descendants, who emerged as the cultural and economic backbone of Dutch Melaka, serving as linguistic intermediaries, commercial proxies, and diplomatic go-betweens [[6, pp. 113–117]](#ref-6). Governor-General van Diemen's 1641 edict to restrict Portuguese and elevate Dutch failed, because the Protestant clergy themselves required Portuguese for sermons and catechism to reach the target converts [[6, pp. 107–108]](#ref-6). Van Schouten's report of September 1641 proposed open toleration of Catholic worship as a pragmatic, time-limited experiment, with the majority of monasteries and churches converted to other uses [[6, pp. 110–113]](#ref-6).
+
+The Chinese community in Melaka was small, demographically male, and largely reconstituted under Dutch rule after falling into decay during the Portuguese period [[9, pp. 115–125]](#ref-9). At the 1641 conquest, Schouten counted a total population of 2,160, of whom 300–400 were Chinese; by 1678, Governor Bort's census recorded 852 Chinese outside the fortress and forty inside [[9, pp. 123–124]](#ref-9). The immigrants were exclusively male, who took Javanese and Malay women as wives or concubines, producing a Sino-Malay hybrid population that retained Chinese culture but spoke a creolised Malay [[9, p. 125]](#ref-9). Physical evidence at Bukit China—coral tombstones of uncertain date and a dozen graves from the late Ming or early Ch'ing period—corroborates the documentary picture of a modest community whose family records do not extend before the first half of the seventeenth century [[9, pp. 121–123]](#ref-9).
+
+### The Eighteenth-Century Customs Station
+
+By the mid-eighteenth century, the post's economic rationale had fundamentally shifted. Governor W. B. Albinus' 1750 memorandum centres on the recovery of the tin trade from Perak, which he had secured through an exclusive contract in 1746 at a price of 26 new ducatoons per *bahar* (a standardised unit of 375 pounds); by 1749 the post had shipped a total of 520,375 pounds of tin [[8, p. 26]](#ref-8). The gold trade, though declining due to competition from Arab Sayyid merchants and independent Malay shipping, still produced 53,640.7 guilders in gold dust from Patapahan and Indragiri in 1749 [[8, p. 29]](#ref-8).
+
+Governor Thomas Schippers' 1773 memorandum marks the definitive transition. He states plainly that the Company's own sales had been reduced to nothing and that the colony's welfare now rested "purely and simply in trade"—that is, in the collection of customs duties on passing vessels rather than in direct commerce [[8, p. 31]](#ref-8). This shift was driven by the rapid expansion of the European Country Trade through the Straits. Dianne Lewis demonstrates that private English merchant vessels calling at Malacca rose from no more than ten per year in the first half of the eighteenth century to twenty-six in 1769, fifty in 1774, and seventy-five in 1776 [11, p. 5, n. 28]. The VOC's inability to enforce its treaties was not merely a matter of insufficient naval power but reflected a calculated strategic choice: the Company's interests were best served by the *status quo*, as Malacca's customs revenues grew substantially with the increased traffic [[10, pp. 114–130]](#ref-10).
+
+### Research and Documentation
+
+The Society's literature on Melaka reveals a clear evolution in methodological priorities across more than a century. The earliest contributions, such as Koek's 1886 annotated reprint of Faria y Souza's *Asia Portugueza* and Maxwell's 1911 translation of the Resende manuscript, were fundamentally philological and source-critical in character, making previously inaccessible Portuguese texts available to Straits readers [[4, pp. 117–149]](#ref-4), [[5, pp. 1–24]](#ref-5). The mid-twentieth century saw a shift towards economic and administrative history: Coolhaas' 1965 study of Riebeeck's tenure and Harrison's 1954 translation of the Albinus and Schippers memoranda drew on Dutch archival collections to reconstruct the financial and diplomatic life of the VOC post [[7, pp. 173–182]](#ref-7), [[8, pp. 24–34]](#ref-8).
+
+From the 1970s onwards, the emphasis moved towards quantitative economic analysis and multi-source synthesis. McRoberts' 1984 re-examination of the 1511 conquest and his 1991 economic history of the sultanate applied economic methodology to a period where direct quantitative evidence is scarce, drawing on Ashtor's spice price data and van der Sprengel's Ming population statistics [[3, pp. 26–39]](#ref-3), [[2, pp. 47–78]](#ref-2). Wade's 1997 survey of Ming texts represented the first comprehensive, systematic treatment of the entire Chinese source corpus on Melaka, complete with critical appendices cataloguing phonetic reconstructions of personal names and titles [[1, pp. 31–69]](#ref-1). More recently, Borschberg's 2010 study of the post-conquest cultural landscape and Lewis's 1970 analysis of the Country Trade have extended the historiographical frame to encompass questions of ethnicity, language policy, and the structural dynamics of regional trade networks [[6, pp. 93–117]](#ref-6), [[10, pp. 114–130]](#ref-10). Together, these studies trace a trajectory from source publication through economic reconstruction to the integrated cultural and political analysis that characterises current scholarship on the port.
 
 ## MBRAS Sources
 
@@ -205,4 +228,14 @@ published: false
 - [Paul Wheatley](./paul-wheatley.md) et al. (2007). [Southeast Asia - China Interactions: Reprint of articles from the Journal of the Malaysian Branch, Royal Asiatic Society](./southeast-asia-china-interactions-reprint-of-articles-from-the-journal-of-the-malaysian-branch-royal-asiatic-society.md). ** : 620
 
 ## References
-<!-- Grounded occurrences and citations -->
+
+1. <span id="ref-1"></span> Geoff Wade (1997). [Melaka in Ming dynasty texts](./melaka-in-ming-dynasty-texts.md) *JMBRAS* 70(1): 31–69.
+2. <span id="ref-2"></span> R.W. McRoberts (1991). [A study in growth: an economic history of Melaka 1400–1510](./a-study-in-growth-an-economic-history-of-melaka-14001510.md) *JMBRAS* 64(2): 47–78.
+3. <span id="ref-3"></span> R.W. McRoberts (1984). [An examination of the fall of Malacca in 1511](./an-examination-of-the-fall-of-malacca-in-1511.md) *JMBRAS* 57(1): 26–39.
+4. <span id="ref-4"></span> E. Koek (1886). [Portuguese history of Malacca](./portuguese-history-of-malacca.md) *JSBRAS* 17: 117–149. <a href="https://www.jstor.org/stable/51000013" class="aggregator-link" target="_blank" rel="noopener noreferrer">Read on JSTOR</a>
+5. <span id="ref-5"></span> W.G. Maxwell (1911). [Barrretto de Resende’s account of Malacca](./barrretto-de-resendes-account-of-malacca.md) *JSBRAS* 60: 1–24. <a href="https://www.jstor.org/stable/41561139" class="aggregator-link" target="_blank" rel="noopener noreferrer">Read on JSTOR</a>
+6. <span id="ref-6"></span> P. Borschberg (2010). [Ethnicity, language and culture in Melaka after the transition from Portuguese to Dutch rule (seventeenth century](./ethnicity-language-and-culture-in-melaka-after-the-transitio.md) *JMBRAS* 83(2): 93–117. <a href="https://www.jstor.org/stable/41493780" class="aggregator-link" target="_blank" rel="noopener noreferrer">Read on JSTOR</a>
+7. <span id="ref-7"></span> W.Ph. Coolhaas (1965). [Malacca under Jan van Riebeeck](./malacca-under-jan-van-riebeeck.md) *JMBRAS* 38(2): 173–182.
+8. <span id="ref-8"></span> W.B. Albinus et al. (1954). [Malacca in the eighteenth century: two Dutch governors’ reports; . Harrison](./malacca-in-the-eighteenth-century-two-dutch-governors-report.md) *JMBRAS* 27(1): 24–34. <a href="https://www.jstor.org/stable/41486171" class="aggregator-link" target="_blank" rel="noopener noreferrer">Read on JSTOR</a>
+9. <span id="ref-9"></span> V. Purcell (1947). [Chinese settlement in Malacca](./chinese-settlement-in-malacca.md) *JMBRAS* 20(1): 115–125.
+10. <span id="ref-10"></span> D. Lewis (1970). [The growth of the country trade to the Straits of Malacca, 1760–1777](./the-growth-of-the-country-trade-to-the-straits-of-malacca-17.md) *JMBRAS* 43(2): 114–130.
