@@ -96,19 +96,7 @@ The mid-twentieth century saw a methodological crisis. Hussein's 1966 lecture re
 
 The late twentieth and early twenty-first centuries have witnessed a further shift. Warnk's 2007 article challenged the "ex nihilo" narrative dominant in Malaysian literary historiography, aligning with a broader postcolonial turn that recognises local agency and cross-cultural literary exchange in the formation of modern literatures [[2, pp. 91–113]](#ref-2). Graf's 2007 survey of German-language scholarship traced the evolution from pre-war folk and court literature to a post-1990s phase in which Malaysian institutions—Dewan Bahasa dan Pustaka, ATMA, IKON, and the European Chair of Malay Studies in Leiden—began to set the agenda for international Malay studies, organising conferences, funding translations, and critically re-examining Western Orientalist approaches [[10, pp. 51–65]](#ref-10). Graf framed this as a post-Orientalist deconstruction carried out from the Malaysian side, marking a qualitative break from the earlier pattern in which European scholars defined the terms of engagement [[10, pp. 51–65]](#ref-10). By 2003, German academic publications on Malay literature were concentrated in only four universities—Cologne, Bonn, Frankfurt, and Hamburg—reflecting a marked contraction of the field following the Asian financial crisis and German university budget cuts [[10, p. 58]](#ref-10). The field's future, as these records suggest, lies in the continued integration of philological rigour, literary-scientific method, and the recognition of translation and cross-cultural exchange as constitutive rather than peripheral to the Malay literary tradition.
 
-## Poetry
-<!-- Synthesis engine: Insert poetry details here -->
-
-## Prose
-<!-- Synthesis engine: Insert prose details here -->
-
-## Proverbs and sayings
-<!-- Synthesis engine: Insert proverbs and sayings details here -->
-
 ## Study and teaching
-
-## General commentaries
-<!-- Synthesis engine: Insert general commentaries details here -->
 
 ## MBRAS Sources
 

@@ -21,7 +21,7 @@ generated: true
 
 The family Dipterocarpaceae constitutes a dominant component of the tropical forests of the Malay Peninsula and Borneo, encompassing genera of considerable economic and ecological importance. By the early twentieth century, the genus *Vatica* alone had accumulated fifty-five described species with a distribution extending from Ceylon to New Guinea [[1, p. 271]](#ref-1). The family's members include some of the largest and most commercially valuable timber trees in the region, and their taxonomy has been the subject of sustained scholarly attention since the mid-nineteenth century, driven by the practical needs of colonial forest administration and the scientific imperative to resolve persistent nomenclatural confusion among morphologically similar genera.
 
-### Taxonomic Revision and Generic Boundaries
+## Taxonomic Revision and Generic Boundaries
 
 The most consequential taxonomic problem in Dipterocarpaceae during the early twentieth century concerned the boundary between *Pachynocarpus* and the polymorphic genus *Vatica*. Hooker's original 1860 definition of *Pachynocarpus* rested on a single character—calyx adnation in fruit—but subsequent authors, working largely from flowering material in which that character is not yet expressed, repeatedly conflated the two genera [[1, pp. 271–272]](#ref-1). Burkill and Foxworthy (1922) traced the genealogy of these errors through the writings of Burck, Heim, King, and Brandis, demonstrating how each successive author compounded the confusion by transferring species on the basis of incomplete evidence [[1, p. 272]](#ref-1). Their central argument was that the six or seven names then standing under *Pachynocarpus* should be reduced to two or three species—*P. umbonatus* Hook. f., *P. Stapfianus* King, and possibly *P. verrucosus* (Burck) Heim—with the remainder (*P. Wallichii*, *P. ruminatus*, *P. Ridleyanus*) returned to *Vatica* [[1, pp. 272–273]](#ref-1).
 
@@ -29,7 +29,7 @@ The authors examined the original *Herbarium Hookerianum* sheets in the Royal Bo
 
 Symington (1941) continued this tradition of taxonomic cleanup, resolving complex synonymies involving six species of *Vatica*, including the recombination of *Vatica odorata* and the distinction between *Vatica cuspidata* and *Vatica Maingayi* [[2, pp. 147–156]](#ref-2). He also clarified the status of the *Barbata* group within *Shorea* and proposed the unification of *Shorea Talura*, *S. floribunda*, and *S. cochinchinensis* pending further study [[2, pp. 159–160]](#ref-2).
 
-### Reproductive Biology and Dispersal
+## Reproductive Biology and Dispersal
 
 Burkill's 1923 note on *Balanocarpus* provides detailed observations on germination and early seedling morphology, contributing to the broader understanding of dipterocarp reproductive strategies. *Balanocarpus maximus* germinates by the radicle forcing two to four radiating cracks at the fruit apex, after which cotyledon expansion ruptures the fruit-wall along a single long crack whose position correlates with the placenta [[3, p. 219]](#ref-3). The cotyledons are nearly equal, stand parallel through life, and the young plant is purple with a single pair of first leaves [[3, p. 220]](#ref-3). By contrast, *B. heimii* has markedly dissimilar cotyledons packed one above the other, which become horizontal after germination, followed by four or five leaves in a cluster; the young plant is green [[3, p. 221]](#ref-3). A small experiment binding fruits with rubber rings confirmed that the fruit-wall is not dehiscent but is ruptured from within by cotyledon growth, consistent with earlier observations on Dipterocarps [[3, p. 221]](#ref-3).
 
@@ -37,7 +37,7 @@ Water dispersal represents another critical ecological mechanism. Burkill and Fo
 
 Not all dipterocarp fruits are adapted to water dispersal. *Vatica Ridleyana* produces large fruits that sink immediately in water, distributing instead by animal transport or rolling [[1, p. 278]](#ref-1). Tree No. 795 in the Singapore Botanic Gardens stands approximately one hundred feet tall with a trunk circumference of sixty-two inches at breast height [[1, p. 278]](#ref-1).
 
-### Economic Significance and Forest Administration
+## Economic Significance and Forest Administration
 
 The practical dimensions of dipterocarp research were inseparable from colonial forest management. *Pachynocarpus Stapfianus*, described by Burkill and Foxworthy as a tree of rising land ecologically distinct from *V. Wallichii*, was recorded at Bangi, Selangor, at a height of thirty-eight feet two inches with a girth of three feet one inch at breast height; King's Collector had recorded individuals eighty to one hundred feet high with girths up to three feet [[1, p. 279]](#ref-1). Symington's 1941 paper was explicitly structured to assist Malayan forest officers, with concluding precis under each heading summarising key identification features and vernacular names [[2, p. 133]](#ref-2). He provided such names as *merawan gunong* for the high-elevation *Hopea montana* [[2, p. 136]](#ref-2) and *merawan mempisang* for the small *Hopea polyalthioides* [[2, p. 144]](#ref-2).
 

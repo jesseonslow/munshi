@@ -22,7 +22,7 @@ generated: true
 
 Hunting and trapping in the Malay Peninsula and Borneo encompassed a range of practices that combined material technology, spiritual ritual, and ecological knowledge, serving both subsistence and economic purposes across diverse communities. The archival record preserved in the Society's journals reveals that these practices were documented by colonial administrators, ethnographers, and naturalists working in the Straits Settlements, the Malay States, and British North Borneo between the early twentieth century and the mid-1950s. The evidence spans the spiritual dimensions of Malay deer-hunting, the mechanical ingenuity of bird-trapping devices, and the broader ethnographic context of Murut hunting customs in Borneo, together illustrating a subject that resisted simple categorisation as either purely economic or purely cultural in nature.
 
-### Spiritual Dimensions of Malay Hunting
+## Spiritual Dimensions of Malay Hunting
 
 The most detailed account of the spiritual apparatus surrounding hunting in the Malay Peninsula appears in a short note by R. N. Bland, who recorded a Malay *Elmu Pawang Buru Rusa* (deer-hunting invocation) from a *pawang* (shaman or ritual specialist) in Kuala Pilah, Negri Sembilan, in 1905 [[1, p. 19]](#ref-1). Bland presented the text as a comparative supplement to George Maxwell's account of a Perak deer-hunt published in *Blackwood's Magazine* in October 1904, observing that while his own version was less ornate than Maxwell's, the two shared a "family likeness" in structure and purpose [[1, p. 19]](#ref-1).
 
@@ -30,7 +30,7 @@ The invocation addressed forest spirits by name—*Che' Lanang, Che' Redup, Che'
 
 Bland drew attention to the confidentiality surrounding such material, noting that his *pawang* had admitted him to the craft only under a promise of secrecy and a customary payment in cloth, knife, coconuts, and *wang bharu* (new money) [[1, p. 19]](#ref-1). This detail is significant: it indicates that the transmission of hunting invocations was governed by social protocols of reciprocity and exclusivity, and that the knowledge was not freely available to outsiders. The fact that Bland was able to record the text at all suggests a degree of accommodation between colonial administrative curiosity and indigenous epistemological boundaries.
 
-### Trapping Technology and Terminology
+## Trapping Technology and Terminology
 
 The mechanical and terminological dimensions of hunting and trapping are documented in a concise note by C. A. Gibson-Hill, who described the *jerat tempurong*, a Malay ground trap for catching ground-feeding birds, observed in use by Chinese settlers on Pulau Tioman in September 1954 [[2, p. 172]](#ref-2). The device consisted of a half coconut shell sunk into the ground as a bait receptacle, with short nooses of nylon fishing gut laid radially around it and anchored by a wooden peg [[2, p. 172]](#ref-2). Gibson-Hill identified the arrangement as the *jerat tempurong* and noted that it had not previously been described in the literature, including Winstedt's *Malay Industries* (1911), indicating that the device was either a recent innovation or had simply escaped earlier documentation [[2, p. 172]](#ref-2).
 
@@ -38,7 +38,7 @@ Gibson-Hill clarified an important terminological distinction within the Malay t
 
 The note also records a 1941 collection of galliformes and pittas in north Kedah by a collector working for Colonel Meinertzhagen and the British Museum of Natural History, whose records were lost in the war [[2, p. 173]](#ref-2). This brief mention situates the trapping practice within a wider context of ornithological collection in the region, where local trapping knowledge was harnessed for the purposes of scientific specimen-gathering, and where the disruption of war could erase the documentary trail linking a particular technique to its ecological and geographic context.
 
-### Murut Hunting Customs in Borneo
+## Murut Hunting Customs in Borneo
 
 The Bornean dimension of hunting and trapping is represented in the Society's literature by an article by G. C. Woolley, who documented aspects of Murut hunting customs drawing on his experience as a colonial administrator in British North Borneo [[3]](#ref-3). Woolley's contribution, published in 1936, spans seven pages and falls within the journal's regular ethnographic and anthropological contributions of the period [[3]](#ref-3). The piece is consistent with Woolley's broader body of work on Murut social life, which he produced during his service in the North Borneo Chartered Company administration [[3]](#ref-3).
 

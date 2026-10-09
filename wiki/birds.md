@@ -44,6 +44,16 @@ The ornithological literature of the Straits Settlements and the Malay Peninsula
 
 The earliest systematic attempt to define the avifauna of a major biogeographic unit in the region was A.H. Everett's 1889 checklist of the Bornean group of islands, which enumerated 570 species across Borneo, Palawan, the Sulu Islands, and intervening islets, delimited by a 100-fathom bathymetric boundary [[1, pp. 86–90]](#ref-1). Everett's work established the first coherent inventory of the region's birds, identifying eleven genera peculiar to Borneo proper and approximately 140 species apparently confined to the group, while explicitly acknowledging the provisional character of the boundaries in the absence of faunal data for many small islands [[1, pp. 86–90]](#ref-1). This foundational effort set the template for subsequent regional surveys, which progressively refined both the taxonomic framework and the geographic precision of the records.
 
+## Members & Sub-Topics
+- [Cockatoos](./cockatoos.md)
+- [Cuckoos](./cuckoos.md)
+- [Falcons](./falcons.md)
+- [Flight](./flight.md)
+- [Gulls](./gulls.md)
+- [Hawks](./hawks.md)
+- [Horn-bills](./horn-bills.md)
+- [Owls](./owls.md)
+
 ### Taxonomic Description and Subspecific Revision
 
 The dominant mode of ornithological publication in the period from the 1880s through the 1920s was the formal description of new taxa, typically based on specimens collected during expeditions to poorly known highland or island localities. R.B. Sharpe's 1887 account of a collection from the Larut Range in Perak, assembled by L. Wray at approximately 4,400 feet elevation, formally described five new species—*Artamides larutensis*, *Trochalopterum peninsulae*, *Pomatorhinus Wrayi*, *Corythocichla leucosticta*, and *Minla soror*—and extended the known ranges of several species southward from Tenasserim or the Himalayas [[2, pp. 125–141]](#ref-2). Wray's accompanying field notes provided essential ecological context: the Larut Range was covered in dense unbroken forest from base to peak, received 200 to 250 inches of rainfall annually, and exhibited a clear altitudinal boundary below 3,000 feet where hill forms became scarce and low-country species reappeared [[2, pp. 125–141]](#ref-2).
@@ -77,16 +87,6 @@ E.J.H. Berwick's 1953 survey of Malay bird names in Kelantan represented a diffe
 The Society's literature on birds reveals a clear trajectory from broad faunal inventory through taxonomic description to increasingly specialised questions of population structure, morphological function, and local nomenclature. The 1880s were dominated by the establishment of baseline checklists and the formal description of new species from highland localities: Everett's 570-species list for the Bornean group [[1]](#ref-1), Sharpe's five new species from the Larut Range [[2]](#ref-2), and Kelham's phenological and ethnographic field notes [[7]](#ref-7) collectively defined the scope and methods of the discipline in its formative period. The 1910s and 1920s saw a shift toward subspecific revision and comparative population studies, as exemplified by the Korinchi expedition [[3]](#ref-3), the van Heyst collection from north-east Sumatra [[5]](#ref-5), and the Anamba Islands study [[4]](#ref-4), all of which drew on the comparative series held in the Federated Malay States Museums and the Sarawak Museum. The 1920s also witnessed the emergence of anatomical and functional studies, with Chasen's heel-pad paper [[10]](#ref-10) extending Gyldenstolpe's European-centric survey to the region's rich Piciform and Coraciiform fauna. By the 1950s, the focus had broadened to include linguistic and ethnographic documentation, as in Berwick's Kelantan bird names [[11]](#ref-11), reflecting a maturing discipline that recognised the value of local knowledge as a component of ornithological record. Throughout this period, the type specimens deposited in the Federated Malay States Museums in Singapore and the Sarawak Museum provided the material foundation for successive generations of taxonomic work, and the journals of the Straits Branch and its successors served as the principal medium through which these findings were communicated to the international ornithological community.
 
 ## Description
-
-## Members & Sub-Topics
-- [Cockatoos](./cockatoos.md)
-- [Cuckoos](./cuckoos.md)
-- [Falcons](./falcons.md)
-- [Flight](./flight.md)
-- [Gulls](./gulls.md)
-- [Hawks](./hawks.md)
-- [Horn-bills](./horn-bills.md)
-- [Owls](./owls.md)
 
 ## MBRAS Sources
 

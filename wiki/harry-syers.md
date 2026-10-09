@@ -24,7 +24,7 @@ generated: true
 
 Henry Charles Syers (1852–1897) was a British police officer who rose from the rank of private in the 10th Regiment of Foot to become the first Commissioner of Police for the Federated Malay States in 1896, a position he held for less than a year before being killed by a *seladang* (wild gaur, *Bos gaurus*) in Pahang [[1, pp. 1–2]](#ref-1). His career in Selangor, spanning from 1875 to 1896, was defined by a single, consistent principle: that the police in a Malay State must be predominantly Malay and integrated into local communities as a civil instrument for the maintenance of law and order, rather than held as a concentrated military striking force [[1, p. 50]](#ref-1). This position ran counter to the prevailing orthodoxy of his contemporaries, who favoured a para-military model, and was vindicated by the subsequent history of the Malayan Police [[1, p. 50]](#ref-1).
 
-### Early Career and the Reorganisation of the Klang Force
+## Early Career and the Reorganisation of the Klang Force
 
 Syers arrived in Selangor in March 1875, having served with the 10th Regiment of Foot in Singapore and Malacca since December 1872 [[1, pp. 1]](#ref-1). His first task was to take command of the mercenary force at Klang, which had been raised in 1870 by a former lieutenant of the French navy, de Fontaine, to serve Tunku Kudin, the Viceroy of Selangor [[1, p. 10]](#ref-1). The force was in a state of complete disarray. Mohamed Ibrahim Munshi, who had visited Klang in 1872, described the sepoys as "thin and sickly," wearing "whatever they pleased," and presenting arms "raggedly because they were still raw and inexperienced" [[1, p. 9]](#ref-1). By the time Syers arrived, all the European officers except one had departed, and the condition of the force had not improved [[1, p. 9]](#ref-1).
 
@@ -32,7 +32,7 @@ A first-hand account, published in the *Selangor Journal* of 1892 and attributed
 
 Syers' reorganisation proceeded in two stages. First, the Selangor Government paid the men their arrears of pay, amounting in some cases to three or four years, by the issue of promissory notes payable by instalments over three months; "so little value was attached to these documents that the men disposed of them for merely nominal sums," a reaction that "tells one a great deal about the damaged credit of a bankrupt government" [[1, p. 10]](#ref-1). Second, Syers dismissed "all the worst characters," reducing the force to approximately 50 men, and then recruited Malays from Malacca to raise the total strength to about 150 [[1, p. 10]](#ref-1). The enlarged force was provided with arms and practised at drill, after which detachments were placed as garrisons in support of the British officers at Kuala Langat and Kuala Selangor, enabling the new regime to assert control of the Selangor coastline and the major river estuaries through which tin was exported [[1, p. 10]](#ref-1).
 
-### The Sutan Puasa Rising and the Deployment of Police into the Interior
+## The Sutan Puasa Rising and the Deployment of Police into the Interior
 
 The first serious test of Syers' reorganised force came in October 1875, when a rising in neighbouring Sungei Ujong spread across the border into Ulu Langat [[1, p. 12]](#ref-1). Sutan Puasa, formerly a prominent leader of the Sumatran Malay community of Kuala Lumpur who had defected to the losing side in the Selangor Civil War, joined the local insurgents, mustered a strong party of Mandiling Malays, and seized control of Ulu Langat village and the nearby mining camps of Cheras and Kajang [[1, p. 12]](#ref-1). The situation was dangerous and could easily have escalated into a major revolt.
 
@@ -42,7 +42,7 @@ The decisive success brought the brief insurrection to an end, and its aftermath
 
 The essential feature of this deployment was that the local authority was allowed to have a measure of control over the police in their areas [[1, p. 13]](#ref-1). At this stage the local authority was the Malay chief or Chinese headman; later it was the British Collector (District Officer). Syers' 1878 report to the Colonial Office explained the rationale: minor crime and disputes were "settled by the native chiefs of the outlying districts," and "the mere fact of small bodies of police being stationed in the interior of the country has a tendency to check crime not from their active interference but from it being known that in the event of crimes being committed the sufferers have some chance of obtaining redress on the spot by lodging their complaints at the police station before the criminal has time to escape" [[1, pp. 22–23]](#ref-1).
 
-### The Military versus Civil Police Debate
+## The Military versus Civil Police Debate
 
 The deployment of police in small numbers in Malay villages was strongly disapproved by Frank Swettenham in memoranda written in October 1876 with reference to the situation in Perak [[1, p. 13]](#ref-1). Swettenham argued that the police in Perak should not be dispersed and employed as a civil police; their functions were to provide a "Sikh Guard" as a force stationed at customs houses, mines and Residencies, ready to be despatched to any point where their presence was needed [[1, p. 22]](#ref-1). From this conception it followed that the police should be trained and armed as a para-military force and concentrated in a few large detachments at strategic points [[1, p. 22]](#ref-1). This was how the Perak Police were organised right down to 1896; Sadka calls them "a small standing army" and notes that three quarters of the entire Perak Police force was stationed at three major mining centres [[1, p. 22]](#ref-1).
 
@@ -52,7 +52,7 @@ Yet when Swettenham audited the Selangor accounts in 1878 and 1879, he was impre
 
 Syers himself was neither a theorist nor a controversialist. He accepted that the police had some military role and must have the resources to discharge it, but he differed from his contemporaries in his judgment of the priorities of the civil and the military function [[1, p. 23]](#ref-1). In 1878 he allocated one third of his total force to duty as a central reserve, compared with two thirds of the much larger Perak force [[1, p. 23]](#ref-1). By the 1890s his force had increased to between 600 and 700, of which 170 were held in reserve [[1, p. 24]](#ref-1).
 
-### Recruitment, Organisation and the Sikh Contingent
+## Recruitment, Organisation and the Sikh Contingent
 
 Syers' main recruiting ground from 1875 onwards was Malacca, which he had come to know during a year of army service in 1874–75 [[1, p. 15]](#ref-1). There was no question of recruiting Malay police from within Selangor; the police were "not a popular institution" in a Malay State, and to the general body of the local Malay population they were simply the successors to the disreputable followers of Malay Rajas [[1, p. 15]](#ref-1). Syers had a strong prejudice against the employment of Javanese in the police, using them only as buglers, and for many years resisted the introduction of Sikh (i.e. North Indian) police, which became the mainstay of the Perak Police in the 1880s [[1, p. 15]](#ref-1).
 
@@ -60,7 +60,7 @@ Swettenham's argument for Sikh recruitment was that the Malay and South Indian e
 
 The strength of the Selangor Police rose to about 500 by 1889 and increased further to 660 in 1894, of which about a quarter were Sikhs and the remainder Malays [[1, p. 40]](#ref-1). In addition to a considerable concentration in and around Kuala Lumpur, there were 29 police stations in out-districts "occupying positions suitable for commanding the principal highways and important mining centres" [[1, p. 40]](#ref-1). To raise the standard of drill among Malay police in outstations, Syers began to send out Sikh NCOs as travelling instructors [[1, p. 40]](#ref-1).
 
-### The Pahang Operations and the Commissionerate
+## The Pahang Operations and the Commissionerate
 
 In 1889 Syers was sent to Pahang to assist in raising a police force for that State, under the new Resident J.P. Rodger [[1, p. 34]](#ref-1). His initial task was to raise a force of 50 Sikhs and 150 Malays; the Sikhs would be used on guard duties and as a strike force, the Malays for ordinary police duties [[1, p. 34]](#ref-1). Syers made an extensive tour by boat of the interior to establish police detachments at the principal administrative centres, and his report was commended by the Governor as "an excellent report" [[1, p. 34]](#ref-1).
 
@@ -70,7 +70,7 @@ The final legacy of the Pahang disturbances was the affair at Jeram Ampai in Jun
 
 Syers' appointment as Commissioner of Police, Federated Malay States, took effect from 14 August 1896 [[1, p. 44]](#ref-1). His priority task was to work out with R.S.F. Walker the hiving off of a large part of the predominantly Sikh Perak police into the new Malay States Guides, a separate para-military force [[1, p. 44]](#ref-1). There was no trace of friction between the two men [[1, p. 44]](#ref-1). Syers' role as Commissioner was to establish a harmonious working relationship with each State government and contingent by advice and inspection rather than by drastic or autocratic directives [[1, p. 45]](#ref-1).
 
-### Death and Legacy
+## Death and Legacy
 
 In July 1897 Syers joined a planter friend, Robert Meikle, on a hunting expedition in central Pahang [[1, p. 48]](#ref-1). The two men were following the tracks of a *seladang* which they had wounded when they came unexpectedly on another, unwounded bull and fired at it [[1, p. 48]](#ref-1). The animal was wounded, turned and retreated; Syers and Meikle followed it and after half an hour came up on it, hidden in dense undergrowth [[1, p. 48]](#ref-1). The wounded *seladang* first charged Syers, who put a shot into it from his .577 heavy rifle; the animal turned and went for Meikle, who also fired and hit it; it turned again and charged Syers a second time [[1, p. 48]](#ref-1). Syers discharged his second shot but the *seladang*, by then wounded six times, could not be stopped. It reached Syers, knocked him down, gored him and tossed him high in the air; his head hit a branch of a tree 35 feet above the ground [[1, p. 48]](#ref-1). When Syers fell to the ground the enraged animal gored him again before Meikle was able to kill it with further shots; the *seladang* had 15 shots in all put into it before it died [[1, p. 48]](#ref-1). Syers was brought down to the river at Temerloh and embarked on a boat for Pekan; he died soon after midnight, early on the morning of 14 July 1897 [[1, p. 49]](#ref-1).
 

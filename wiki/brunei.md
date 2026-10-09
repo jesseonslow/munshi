@@ -85,16 +85,7 @@ C. H. Gallop's 2004 analysis identifies Muslim Burmat as the most prolific Brune
 
 The Society's engagement with Brunei spans more than a century, from the ethnographic and colonial-administrative reporting of the 1870s and 1880s to the literary-critical analysis of the early twenty-first century. Denison's journal, published a full decade after the events it describes, was offered as a contribution to the Society's growing corpus of Borneo ethnography and colonial history rather than as a contemporary dispatch [[2]](#ref-2). The 1998 reprint volume represents a deliberate institutional effort to recover and preserve material that had become all but unobtainable, addressing what its editors identified as a significant gap in the scholarly literature on Brunei's early history [[1]](#ref-1). The shift from the genealogical and trade-focused concerns of the Straits Branch era to the ideological and literary analysis of the modern period reflects broader changes in the Society's research priorities, moving from the documentation of colonial administration and indigenous customs towards the examination of national identity, cultural production, and the politics of representation in post-independence Brunei [[3]](#ref-3).
 
-## History
-<!-- Synthesis engine: Insert history details here -->
-
 ## Antiquities
-
-## Description and travel
-<!-- Synthesis engine: Insert description and travel details here -->
-
-## Kings and rulers
-<!-- Synthesis engine: Insert kings and rulers details here -->
 
 ## MBRAS Sources
 

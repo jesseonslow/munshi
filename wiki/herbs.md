@@ -27,7 +27,7 @@ generated: true
 
 The archival record on "herbs" in the Society's literature is limited to a single floristic treatment of the Araceae of Borneo by H. N. Ridley (1905), which documents the family's distribution, endemism, and horticultural significance in the region, alongside two further papers on the Gesneraceae of the Malay Peninsula and a catalogue of new or rare Malayan plants that touch upon herbaceous taxa in passing. No dedicated ethnobotanical or pharmacological study of medicinal or culinary herbs appears in the records provided; the term "herb" in these sources is used in its strict botanical sense of a non-woody plant, and the articles are taxonomic rather than economic or cultural in orientation.
 
-### Taxonomic Scope and Regional Distribution
+## Taxonomic Scope and Regional Distribution
 
 Ridley's 1905 treatment of the aroids of Borneo, published in the *Journal of the Straits Branch of the Royal Asiatic Society*, represents the most substantial single contribution to the subject in the Society's literature. The paper is a comprehensive checklist of the family Araceae as known from the island at that time, drawing on Ridley's own 1903 collecting trip to Sarawak alongside earlier material from Beccari, Haviland, Korthals, Motley, Grabowski, and Hallier [[1, p. 169]](#ref-1). Ridley describes eighteen new species across seven genera, including *Cryptocoryne grandis*, *Arisaema umbrina*, *Homalomena sarawakensis*, *H. borneensis*, *H. havilandi*, *H. fasciata*, *H. paucinervia*, *H. intermedium*, *H. crassinervia*, *H. lancea*, *Schismatoglottis multiflora*, *S. caulescens*, *Scindapsus rupestris*, *S. havilandi*, *Rhaphidophora migrescens*, *R. elliptica*, *R. fluminea*, and *Pothos longus* [[1, pp. 169–188]](#ref-1).
 
@@ -37,7 +37,7 @@ Among the herbaceous aroids, *Homalomena* is the most extensively treated genus,
 
 The genus *Pothos* includes *P. longus*, described by Ridley from a specimen collected by Haviland four miles from Kuching, which is "remarkable not only for its very long spathe and spadix, but for the curious narrow long tips of the perianth lobes which are almost linear" [[1, p. 188]](#ref-1). The spathe measures nine inches in length and the spadix six inches, dimensions that distinguish it markedly from other members of the genus [[1, p. 188]](#ref-1).
 
-### Habitat, Endemism, and Horticultural Significance
+## Habitat, Endemism, and Horticultural Significance
 
 A recurring theme in Ridley's treatment is the extraordinary endemism of Bornean aroids. Of the species he records, a substantial proportion are endemic to the island, and many of those are known from a single locality or a very restricted range. *Cryptocoryne striolata*, *C. grandis*, *C. pallidinervia*, *C. longicauda*, *C. bullosa*, *C. lingua*, and *C. auriculata* are all designated as endemic [[1, pp. 169–171]](#ref-1). Among the *Homalomena* species, *H. sarawakensis*, *H. borneensis*, *H. havilandi*, *H. fasciata*, *H. paucinervia*, *H. intermedium*, *H. crassinervia*, and *H. lancea* are all endemic [[1, pp. 172–176]](#ref-1). *Scindapsus rupestris* and *S. havilandi* are likewise endemic, the former creeping on limestone rocks at Bau and the latter from Saribas [[1, pp. 184–185]](#ref-1). *Rhaphidophora fluminea* is endemic to British North Borneo, creeping on rocks overhanging the Labuk river at Bongaya [[1, p. 186]](#ref-1).
 
@@ -47,7 +47,7 @@ The horticultural significance of Bornean aroids is evident throughout the paper
 
 The cultivated aroids *Colocasia antiquorum* and *Alocasia indica* and *A. macrorrhiza* are recorded as common cultivated plants, the first "probably not native in this part of the world" [[1, p. 178]](#ref-1). *Alocasia Lawii* is noted as "common on limestone rocks" in both Borneo and the Malay Peninsula, with Ridley observing that Beccari "could hardly have failed to find it" despite its absence from Beccari's published list [[1, p. 178]](#ref-1).
 
-### Broader Context in the Society's Floristic Literature
+## Broader Context in the Society's Floristic Literature
 
 The treatment of herbaceous plants in the Society's literature extends beyond the Araceae. Ridley's 1905 paper on the Gesneraceae of the Malay Peninsula documents 121 species across 18 genera, of which 95 (78.5 per cent) are endemic to the Peninsula [[2, p. 7]](#ref-2). The family includes numerous herbaceous and sub-shrubby taxa, and Ridley identifies limestone rocks as "exceptionally prolific," supporting several entirely lithophytic genera including *Boea*, *Monophyllaea*, *Epithema*, and *Phyllobœa* [[2, p. 7]](#ref-2). The Lankawi limestone islands, explored extensively by Curtis, yielded a disproportionate number of new endemic species across at least eight genera [[2, pp. 1]](#ref-2). The section *Speciosæ* of *Didissandra*, comprising 71 species of small shrublets with showy blue, white, or yellow flowers, is identified as a very distinct group apparently confined to the Peninsula, with no representatives even from Sumatra or Borneo [[2, p. 2]](#ref-2).
 

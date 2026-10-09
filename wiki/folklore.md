@@ -82,30 +82,14 @@ The mid-century period saw the emergence of the historicisation method, in which
 
 The most significant methodological break came with Sweeney's 1976 study, which established the fieldwork-driven, plot-structural analysis of Malay oral literature as the dominant paradigm, documenting 156 informants with district, sex, and age group recorded for each [[7, pp. 85–88]](#ref-7). His demonstration that the oral tradition is far richer and more varied than the literary adaptation, and that the *Cherita Jenaka* represents a sanitised and truncated version of a living cycle, effectively closed the Winstedt school's approach and set the template for subsequent studies of Malay comic and numskull tale cycles [[7, pp. 12–14]](#ref-7). The cumulative effect of these successive methodological shifts is a body of literature that has moved from the preservation of individual texts toward the systematic analysis of narrative structure, transmission, and historical context across the entire region.
 
-## Borneo
-<!-- Synthesis engine: Insert borneo details here -->
-
-## China, Indo-China, and Indonesia
-<!-- Synthesis engine: Insert china, indo-china, and indonesia details here -->
-
 ## Orang Asli
 
 For Orang Asli folklore, see [Orang Asli](./orang-asli).
 
-## Malay
-<!-- Synthesis engine: Insert malay details here -->
-
 ### Animals
-<!-- Synthesis engine: Insert animals details here -->
-
 ### Princes, founders, and myths of origin
-<!-- Synthesis engine: Insert princes, founders, and myths of origin details here -->
-
 ### Malay Villages
-<!-- Synthesis engine: Insert malay villages details here -->
-
 ### Malay Commentaries
-<!-- Synthesis engine: Insert malay commentaries details here -->
 
 ## MBRAS Sources
 

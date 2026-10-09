@@ -40,7 +40,13 @@ generated: true
 
 Architecture in the Malay Peninsula and Borneo, as documented in the Society's journal literature, encompasses a wide spectrum of building traditions—from the indigenous Malay timber house and the ancient Hindu-Buddhist sanctuaries of Kedah to the colonial-era public buildings of Kuala Lumpur and the Portuguese and Dutch structures of Malacca. The records reveal that architectural history in the region has been shaped by the interplay of local building knowledge, imported administrative and commercial demands, and the successive repurposing of structures across centuries. The literature spans from early colonial-era surveys of individual buildings to detailed reconstructions of entire building industries, and from the analysis of single architectural elements such as pillar bases and balustrades to the tracing of professional careers and institutional frameworks that produced the built environment [[1, pp. 79–82]](#ref-1), [[2, pp. 27–37]](#ref-2), [[3, pp. 66–86]](#ref-3).
 
-### The Indigenous Building Tradition
+## Members & Sub-Topics
+- [Buildings](./buildings.md)
+- [Houses and shophouses](./houses-and-shophouses.md)
+- [Mosques and surau](./mosques-and-surau.md)
+- [Temples](./temples.md)
+
+## The Indigenous Building Tradition
 
 The pre-colonial Malay building tradition was a craft embedded in village reciprocity rather than a profession. Houses were sized by the number of posts (*tiang*, literally "posts" or "pillars"), joined without nails using mortise-and-wedge joints, and erected through communal mobilization. Even the larger residences of the ruling class were essentially scaled-up versions of the village model, requiring the temporary conscription of labour rather than the employment of specialists [[1, pp. 80–82]](#ref-1). R. O. Winstedt's 1929 note on a Perak palace provides a ground plan that delineates the component parts of a traditional Malay palace using indigenous architectural terminology: the *serambi* (verandahs), *istana* (palace proper), *balai rong* (inner hall), *balai besar* (central hall of audience), *balai penghadapan* (outer hall of audience), *penanggah* (kitchen), *selang* (passage), *pintu tangga* (doors and steps), *petarana* (dais for princes of the blood), *singasana* (throne), and *bilek kundang* (rooms for pages), along with various pillar types including *tiang sudut*, *tiang rembat gun tong*, and *tiang tinggi* [[4, p. 457]](#ref-4).
 
@@ -48,7 +54,7 @@ M. Macdonald's 1934 survey of Malacca buildings extended this typological analys
 
 In the ancient Hindu-Buddhist context, B. A. V. Peacock's 1974 study of pillar base architecture at Kedah Site No. 8 (Chandi Bukit Batu Pahat) demonstrated that the structural evidence was incompatible with the stone tower hypothesis previously proposed by H. A. Lamb. Peacock showed that the sanctuary basement was a masonry shell enclosing rubble and earth, not solid piers capable of bearing the downward thrust of a massive stone superstructure. His alternative interpretation, supported by comparative evidence from Sumatra, Bali, and East Javanese temple reliefs, proposed a low-walled sanctuary supporting a multi-tiered wooden roof of the *meru* type—an eleven-tiered roof ritually prescribed for a temple dedicated to Siva [[3, pp. 66–86]](#ref-3). The outer pillar mortises measured 4 inches by 4 inches by 3 inches, implying pillars of 6 to 7 inches square, while the inner pillar mortises measured 7 inches by 7 inches by 3 inches, implying pillars of 9 to 10 inches square. Eight specialized bases with angled mortises indicated a system of cross-struts sloping from the base of each corner pillar to the top of its neighbours, a bracing system designed to resist lateral wind stresses on a tall multi-storied roof [[3, pp. 72]](#ref-3).
 
-### Colonial Building Industry and Public Works
+## Colonial Building Industry and Public Works
 
 The emergence of a building industry in the western Malay states between 1875 and 1914 was, according to J. M. Gullick, a direct response to the administrative, commercial, and demographic pressures of the tin boom. When colonial administrators arrived in the mid-1870s, they had no building industry to draw upon. Swettenham's first residence at Bandar Langat was a leaking stockade; Birch had to import house-builders from Province Wellesley because, in his words, "it is impossible to get Perak Malays to work" on the required scale [[1, pp. 80–82]](#ref-1). The industry matured through three broad phases. The first, in the late 1870s and early 1880s, saw the establishment of rudimentary Public Works Departments staffed by surveyors and draughtsmen transferred from the Straits Settlements, and the first use of the "transitional Malay house" model—brick pillars supporting a timber upper storey—which required Chinese masons and imported bricks [[1, pp. 85–86]](#ref-1).
 
@@ -58,7 +64,7 @@ The third phase, from the mid-1880s onward, was marked by the introduction of Ne
 
 H. S. Barlow's 1992 article on the early history of the Residency Kuala Lumpur provided a detailed reconstruction of the building's design and construction process, drawing on Swettenham's own unsigned minute of March 1889. This document revealed how Swettenham personally sketched the plan at Kuala Kangsar, how the design evolved through multiple iterations involving State Engineers Caulfeild and Bellamy, and how Swettenham made on-site alterations during construction—substituting pillars for a wall in the drawing room, adding a verandah all round, and repositioning bathroom staircases. Barlow demonstrated that the building was essentially a product of Swettenham's personal aesthetic and administrative vision rather than the work of a professional architect. The total cost was approximately $36,000, divided between the years 1888 and 1889 [[5, pp. 28–30]](#ref-5).
 
-### Architectural Attribution and Professional Practice
+## Architectural Attribution and Professional Practice
 
 The question of who designed the landmark colonial buildings of Kuala Lumpur has been a subject of sustained scholarly investigation. Gullick's 1992 article on the Bangunan Sultan Abdul Samad reconstructed the design and construction history of Kuala Lumpur's most celebrated colonial-era government building, completed in 1897. The building's design credit, long attributed to Government Architect A. C. Norman by virtue of his name on the foundation stone, properly belongs, Gullick argued, to the younger architect Regent Bidwell, who worked under State Engineer C. E. Spooner's direction [[6, pp. 27–38]](#ref-6). Spooner's own speech at the 1897 PWD dinner provided the primary evidence: he described how Norman produced a ground plan and Bidwell an elevation in a "Classic Renaissance" style, which Spooner rejected in favour of a "Mahometan style" (the neo-Saracenic idiom developed by British architects in India). Spooner stated explicitly that Bidwell "set about the details" and was "most happy in rendering my ideas on paper" [[6, pp. 30–31]](#ref-6).
 
@@ -68,7 +74,7 @@ A. Ghafar Ahmad's 1997 chronological biography of Norman extended this investiga
 
 The Bangunan Sultan Abdul Samad absorbed 4 million bricks, 2,500 barrels of cement, 18,000 pikuls of lime, 50 tons of steel and iron, and approximately 30,000 cubic feet of timber [[6, p. 30]](#ref-6). Public concern that the daily noon signal gun from Bluff Road would damage the structure led to the discontinuation of the 5 p.m. gun [[6, pp. 31]](#ref-6). The PWD factory, established to supply materials for the building, was powered by a 40-hp steam engine driving a sawmill and metal-cutting machines, and included a brickworks managed by Gordon & Co. [[1, p. 90]](#ref-1).
 
-### Research and Documentation
+## Research and Documentation
 
 The Society's literature on architecture reveals a clear evolution in both scope and methodological approach. The earliest contributions, such as D. F. A. Hervey's 1882 note on stone from Batu Pahat, addressed the provenance of building materials for the Portuguese fort at Malacca, quoting Raffles' translation of a Malay manuscript that listed multiple sources of iron-stone—Kwala Linggi, Pulau Upeh, Batu Bras, Pulau Jawa, Teluk Mas, Pesan Pringgi, Pulau Burong, and the interior of Malacca—along with the prices paid for stone, mortar eggs, lime, and labour over the thirty-six-year construction period [[8, pp. 169–170]](#ref-8). Hervey regarded with doubt a tradition attributing the cutting of stone for the fort to the Siamese at Batu Pahat, given the availability of good stone much nearer to hand [[8, p. 169]](#ref-8).
 
@@ -79,21 +85,6 @@ The 1970s marked a significant shift towards critical reconstruction and histori
 The 1990s brought a new emphasis on the social and institutional history of architecture. Gullick's 1992 article on the Bangunan Sultan Abdul Samad corrected a long-standing misattribution in the architectural history of colonial Kuala Lumpur [[6, pp. 27–38]](#ref-6). Barlow's 1992 article on the Residency provided the first detailed architectural and administrative account of its construction, drawing on Swettenham's own unsigned minute which had not previously been published or analysed in depth [[5, pp. 25–34]](#ref-5). Ahmad's 1997 biography of Norman extended the argument about Spooner's design primacy into a full biographical framework, adding RIBA documentary evidence that had not previously been published in the Malaysian context [[7, pp. 21–29]](#ref-7). Gullick's 2012 article on "The Builders" represented the most comprehensive treatment to date, connecting architectural history, labour history, and administrative history in a way that neither the architectural literature nor the economic history of the tin industry had previously achieved for this period and region [[1, pp. 79–98]](#ref-1).
 
 The archival base for this body of work is substantial and varied, encompassing the Selangor Secretariat Files, Annual Reports, the *Selangor Journal*, personal diaries of Swettenham, Douglas, Birch, and Low, the *Singapore and Straits Directory*, Colonial Office correspondence, RIBA records, and fieldwork conducted in Kedah and Malacca [[1, p. 98]](#ref-1), [[6, p. 38]](#ref-6), [[5, p. 34]](#ref-5), [[7, p. 21]](#ref-7), [[3, p. 86]](#ref-3). Together, these records document a field that has moved from the description of individual buildings and materials towards the reconstruction of entire building industries, the critical reassessment of established reconstructions, and the investigation of the professional and institutional frameworks that produced the built environment of the Malay Peninsula.
-
-## Singapore
-<!-- Synthesis engine: Insert singapore details here -->
-
-## Southeast Asia
-<!-- Synthesis engine: Insert southeast asia details here -->
-
-## Malaya
-<!-- Synthesis engine: Insert malaya details here -->
-
-## Members & Sub-Topics
-- [Buildings](./buildings.md)
-- [Houses and shophouses](./houses-and-shophouses.md)
-- [Mosques and surau](./mosques-and-surau.md)
-- [Temples](./temples.md)
 
 ## MBRAS Sources
 

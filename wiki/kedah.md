@@ -76,7 +76,7 @@ generated: true
 
 Kedah, the northernmost state of the Malay Peninsula, has been attested as a significant tin-trading centre since at least the ninth century, when Arab geographers recorded it under the names *Kilah* and *Kalah-bar* [[1, pp. 29–30]](#ref-1). Its political history is characterised by successive subjugations to external powers—Palembang, Siam, Acheen, the Dutch, and finally Siam again—before the transfer of suzerainty to Great Britain in 1909 [[1, p. 35]](#ref-1). The state's antiquities, concentrated in the Bujang Valley and surrounding areas, reveal a complex Indianised city-state with Hindu, Buddhist, and possibly Jain religious affiliations spanning several centuries [[2, pp. 188–219]](#ref-2), [[3, pp. 74–77]](#ref-3). Economically, Kedah's fortunes have oscillated between tin extraction, rice cultivation, and revenue farming, shaped by both local initiative and the constraints of foreign suzerainty [[4, pp. 107–134]](#ref-4), [[5, pp. 1–24]](#ref-5).
 
-### Antiquities and the Ancient City-State
+## Antiquities and the Ancient City-State
 
 The archaeological record of Kedah centres on a cluster of temple sites in the Bujang Valley and along the Merbok and Muda river systems, identified with the ancient city-state of Kataha or Langkasuka recorded in Chinese and Tamil sources [[2, p. 188]](#ref-2). H. G. Quaritch Wales's foundational survey of 1936–37 examined twenty-nine sites and established a tentative brick-size chronology, but subsequent work has substantially revised both the dating and the cultural attribution of these monuments [[2, p. 188]](#ref-2), [[6, pp. 214–232]](#ref-6).
 
@@ -88,7 +88,7 @@ The most speculative finding comes from Kota Aur, where two small rectangular br
 
 A metallurgical study by Treloar and Fabris (1975) challenged the foundational chronology of Wales's 1940 report by demonstrating that two Kedah temple sites—Site 8 and Site 10—were contemporary, belonging to the twelfth to thirteenth century rather than the seventh to ninth century dates Wales originally assigned [[3, pp. 74–77]](#ref-3). Using x-ray fluorescence analysis of inscribed gold discs from both sites, they showed the objects derive from a common workshop stock, with closely similar Au-Ag-Cu alloy compositions (86.60/11.05/2.36 per cent versus 90.82/7.47/1.71 per cent) [[3, p. 77]](#ref-3). The authors concluded that the two shrines served a single mixed Hindu-Buddhist trading community at nearby Pengkalan Bujang, making any simple "Buddhist period then Hindu period" sequence a gross oversimplification [[3, p. 75]](#ref-3).
 
-### Political History and the Kedah Annals
+## Political History and the Kedah Annals
 
 The *Hikayat Marong Mahawangsa*, conventionally known as the Kedah Annals, is the foundational chronicle of Kedah's royal house. A. J. Sturrock published the first complete printed edition in 1916, presenting the full Malay text with minimal editorial intervention [[7, pp. 37–123]](#ref-7). The text constructs a mytho-historical genealogy linking Kedah's sultans to divine and giant ancestry, culminating in the kingdom's conversion to Islam through a Baghdad shaikh [[7, pp. 37–123]](#ref-7). The founding hero, Raja Marong Mahawangsa, is a giant of divine parentage who establishes a settlement he names Langkasuka, subsequently renamed Kedah Zamin Dzuran [[7, pp. 46]](#ref-7). His son, Raja Marong Mahapodisat, divides the realm among four children, sending them to found Siam, Perak, Petani, and a fourth territory [[7, pp. 61–64]](#ref-7).
 
@@ -96,7 +96,7 @@ R. O. Winstedt's 1920 survey of Kedah's political history traced the state from 
 
 The Dutch East India Company secured a treaty on 11 July 1642 granting it half of Kedah's tin production at a fixed price, and the Company blockaded the Kedah river in 1663 to 1664 [[1, pp. 32–33]](#ref-1). In 1619, Sultan Iskandar Muda of Acheen led the rulers of Kedah and Perak into captivity; the Kedah prince was Sultan Sulaiman Shah [[1, p. 31]](#ref-1). The Siamese invasion of 1821 reduced Kedah's population from 180,000 to 6,000 within six years, and Siam divided the state into four administrative parts: Kedah, Setul, Perlis, and Kubang Pasu [[1, p. 35]](#ref-1). In 1909, suzerainty over Kedah and Perlis was formally transferred by Siam to Great Britain [[1, p. 35]](#ref-1).
 
-### Economic Recovery and State-Building, 1854–1905
+## Economic Recovery and State-Building, 1854–1905
 
 J. M. Gullick's 1985 article reconstructs the history of Kedah during the reign of Sultan Ahmad Tajuddin II (1854–1879), a period of near-total silence in the contemporary records of the Straits Settlements government [[4, pp. 107–134]](#ref-4). Gullick's overarching thesis is that the Sultan transformed Kedah from a depopulated wasteland left by the Siamese occupation into one of the most flourishing Malay states by the early 1870s, achieving this through personal energy, a new style of centralised governance, and major infrastructure projects [[4, pp. 107–134]](#ref-4). The population was restored from Logan's 1850 estimate of 8,000 to roughly 50,000 by the 1870s, driven by migration from Patani, Province Wellesley, and Perak, and by the availability of previously cultivated but abandoned rice land [[4, pp. 111]](#ref-4).
 
@@ -104,22 +104,13 @@ The Sultan's most significant infrastructure achievement was the construction of
 
 Sharom Ahmat's 1970 article examines the economic structure of Kedah between 1879 and 1905, a period of Siamese suzerainty preceding British protectorate status [[5, pp. 1–24]](#ref-5). Ahmat argues that Kedah's economic stagnation during these decades was not merely a consequence of Siamese control but was substantially caused by the absence of a proper financial administration and, critically, by British imperial policy—particularly the 1897 Anglo-Siamese Convention—which effectively blocked foreign investment in mining and plantation agriculture [[5, pp. 14–16]](#ref-5). The revenue farm system constituted the entire basis of state revenue; by 1897 to 1901, twenty-eight distinct types of farms were documented, with the Opium and Chandu Farm alone generating $212,400 annually in 1900 [[5, p. 13]](#ref-5). Most major farms were held by Chinese syndicates from Penang, while Malay holders—typically royal family members or officials receiving *ampun kurnia* grants—held lower-value farms and generally sub-let them to Chinese operators [[5, pp. 10–11]](#ref-5). The 1897 Anglo-Siamese Convention gave Britain the right to veto all foreign land concessions in Kedah, and in practice this policy closed practically all mining and plantation investment between 1897 and 1904 [[5, pp. 15–16]](#ref-5).
 
-### Research and Documentation
+## Research and Documentation
 
 The Society's literature on Kedah reveals a clear evolution in scholarly priorities across the twentieth century. The earliest contributions, including Winstedt's 1920 political survey and Sturrock's 1916 edition of the Kedah Annals, reflect the administrative interest of the colonial service in the historical and legal foundations of suzerainty over the northern Malay states, particularly in the period immediately following the 1909 Anglo-Siamese treaty [[1, p. 29]](#ref-1), [[7, pp. 37–123]](#ref-7). Winstedt's 1938 critical dissection of the Annals marked a shift towards source criticism, establishing the text's late origin and literary character [[8, pp. 31–35]](#ref-8).
 
 The post-war period saw a decisive turn towards archaeology. Quaritch Wales's pre-war excavations of the 1930s and 1940s established the initial framework, but the 1950s and 1960s brought a new generation of scholars—Sullivan, Lamb, Treloar, Fabris, Wang Gungwu, and Foong See-ton—who systematically challenged Wales's chronology and cultural attributions [[2, pp. 188–219]](#ref-2), [[3, pp. 74–77]](#ref-3), [[9, pp. 220–223]](#ref-9), [[6, pp. 214–232]](#ref-6). The debate over whether the Kedah temples represent direct Indian colonisation or a more complex Javanese-Indian synthesis remains one of the most significant historiographical questions in the field [[6, pp. 214–232]](#ref-6), [[3, pp. 74–77]](#ref-3). A recurring theme across these reports is the vulnerability of the archaeological record to modern development: quarrying, rubber replantation, road construction, and local subsistence practices have destroyed or compromised many sites [[10, pp. 209–213]](#ref-10), [[9, pp. 220–223]](#ref-9).
 
 The economic and political history of the nineteenth century was addressed by Gullick (1985) and Ahmat (1970), both of whom exploited Kedah's local archival sources—Sultan's correspondence, revenue farm licence books, and Straits Settlements despatches—to reconstruct a period previously obscured by the near-silence of the colonial record [[4, pp. 107–134]](#ref-4), [[5, pp. 1–24]](#ref-5). Together, these studies demonstrate that Kedah's history, as documented in the Society's journals, spans the full range of the discipline: from the ninth-century Arab geographical record through the medieval Indianised city-state, the early modern period of Siamese and Dutch interference, and the nineteenth-century process of state-building under the constraints of foreign suzerainty.
-
-## Antiquities
-<!-- Synthesis engine: Insert antiquities details here -->
-
-## Description and travel
-<!-- Synthesis engine: Insert description and travel details here -->
-
-## History
-<!-- Synthesis engine: Insert history details here -->
 
 ## MBRAS Sources
 

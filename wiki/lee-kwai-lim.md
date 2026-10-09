@@ -18,13 +18,13 @@ generated: true
 
 Lee Kwai Lim (1877–1936) was a Chinese businessman and labour broker whose company, Kam Lun Tai, became one of the largest recruitment agencies operating between Guangdong province and the Malay Peninsula in the early twentieth century. Founded in Xinyi County as a silk trading firm, Kam Lun Tai evolved into a transnational labour agency with branches in Hong Kong, Singapore and Malaya, providing lodging, remittance services and job placement for migrants travelling to work in tin mines and rubber plantations [[1, pp. 55–56]](#ref-1). At its peak between 1919 and 1925, the company recruited 200 to 300 workers per day in Guangzhou Bay, and the *Maoming City Annals* records that more than 20,000 workers from Gaozhou were brought to Malaya through Kam Lun Tai by 1926 [[1, pp. 56]](#ref-1). Lee also owned tin mines, a sawmill and limestone quarries in Malaya, and mercury ore mines in Guangxi, China [[1, p. 55]](#ref-1).
 
-### Origins and Early Business
+## Origins and Early Business
 
 Lee Kwai Lim, also known as Li Xi Zhen, was born on 6 May 1877 into a scholar family in Xinyi County, Gaozhou sub-prefecture, Guangdong province [[1, p. 56]](#ref-1). His father, Lee Joy Weng, was a renowned literary figure and government officer. Lee excelled in his studies, attended the *Guozijian* (Imperial Academy), and held the title of Grand Master for Governance, a fifth-grade official rank, though he served only as an Assistant Instructor in local Confucian schools [[1, pp. 56–57]](#ref-1). Disillusioned by the decline of Qing rule, the Sino–French War (1883–85) and the Sino–Japanese War (1894–95), he resigned his post and turned to commerce [[1, p. 57]](#ref-1).
 
 With capital from his uncle, Lee began trading in sesame oil and kerosene in Zhenlong town before identifying a demand for superior silk from Suzhou and Hangzhou. He established Kam Lun Tai, meaning 'beautiful silk shop', which was widely known by the 1890s, with branches opened in Xinyi, Huazhou, Dianbai and Guangzhou Bay [[1, pp. 57–58]](#ref-1). In 1899 he expanded to Hong Kong, purchasing two shop lots on Connaught Central Road near the harbour, and settled there with his wife, Kam Woo Chun [[1, p. 58]](#ref-1). Their eldest son, Lee Hau Shik, born in 1901, would later become the first Finance Minister of independent Malaya [[1, p. 58]](#ref-1).
 
-### Labour Recruitment and the Kam Lun Tai Network
+## Labour Recruitment and the Kam Lun Tai Network
 
 Recognising that demand for Chinese silk had declined due to competition from cheaper Japanese silk, Lee shifted his focus to Southeast Asia [[1, p. 58]](#ref-1). After a personal visit to Malaya, he opened a branch on Sultan Street, Kuala Lumpur, in the early 1900s [[1, p. 58]](#ref-1). He was introduced to tin mining by a client and, despite having no prior experience, purchased a mine in Kuala Lumpur within months of arriving, naming it 'Tai Yau Kongsi' [[1, p. 59]](#ref-1).
 
@@ -34,7 +34,7 @@ The recruitment system differed from the forced indentured labour that character
 
 Kam Lun Tai also pioneered a remittance service around 1910, allowing workers to send money through its branches in Malaya and Singapore to recipients in China, who could cash receipts at any Kam Lun Tai branch [[1, p. 61]](#ref-1). The *Gaozhou County Annals* described the firm as having 'huge capital, good reputation and a large volume of businesses' [[1, p. 61]](#ref-1). By the 1930s, the company operated branches in Kuala Lumpur, Seremban, Singapore, Ipoh, Hong Kong, Xiying, Gaozhou, Zhenlong and Dongzhen [[1, p. 62]](#ref-1).
 
-### The Great Depression and Decline
+## The Great Depression and Decline
 
 The tin price crashed from $159 per picul in 1927 to $59.37½ in 1931 following the Wall Street crash of October 1929 [[1, p. 64]](#ref-1). Chinese tin miners in Malaya fell from 107,000 in 1929 to 37,000 in 1933, with approximately 50,000 repatriated between 1930 and 1933 [[1, p. 64]](#ref-1). Enforcement of the Immigrant Restriction Ordinance of 1928 halved new Chinese arrivals from 14,273 in 1930 to 7,197 in 1931, and the Aliens Ordinance of 1933 imposed further limits [[1, p. 65]](#ref-1). Lee closed the Tai Yau Kongsi and Tai Yau Kongsi No. 3 in 1931 and 1933 respectively [[1, p. 65]](#ref-1).
 

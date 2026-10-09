@@ -24,7 +24,7 @@ generated: true
 
 The Malay terms for cardinal and intercardinal compass points exhibit considerable regional variation across the Malay Peninsula, shaped by Islamic burial customs, Javanese linguistic influence, and the practical needs of coastal and upland communities. In Kedah and Trengganu, the ordinary Malay compass vocabulary is supplemented or replaced by distinctive local terms whose origins have been debated by scholars; in Kelantan, both coastal fisher-folk and upland medicine men employ separate lexical systems, the latter drawing heavily on Javanese equivalents. These variations, documented in the early twentieth century, reveal that the standard four-point compass—*utara*, *selatan*, *timor*, *barat*—was neither universally nor uniformly applied across the region, and that directional language was embedded in religious, ritual, and ecological contexts that gave it meanings far beyond simple orientation.
 
-### Lexical Variation and the Problem of Origin
+## Lexical Variation and the Problem of Origin
 
 The most extensively discussed case concerns the terms *Kepala tidor* (head-in-sleep) and *Kaki tidor* (feet-in-sleep), used respectively for South and North in Kedah and Trengganu. J.L. Humphreys, writing in 1926, examined the etiology of these expressions and rejected the explanation previously offered by A.W. Hamilton in 1922, who had attributed them to the fixed East–West orientation of Siamese houses in Kedah. Humphreys argued that no such rigid architectural orientation existed in practice, and that the terms were equally common in Trengganu, a state where Siamese influence was absent, rendering Hamilton's hypothesis untenable [[1, p. 134]](#ref-1).
 
@@ -32,13 +32,13 @@ Humphreys proposed instead that the origin lay in the Islamic burial custom of i
 
 This explanation, while speculative in its anthropological reasoning, had the merit of accounting for the geographic distribution of the terms. Their presence in both Kedah and Trengganu, separated by the states of Perlis, Penang, and Pahang, suggested a common cultural substrate rather than a single localised architectural practice. Humphreys's note thus shifted the explanatory framework from material culture to religious and ritual behaviour, a move that would have resonated with the broader scholarly interest in the interplay between Islam and pre-Islamic Malay custom during the 1920s.
 
-### Practical Usage in Trengganu
+## Practical Usage in Trengganu
 
 Beyond the distinctive *Kepala tidor* and *Kaki tidor* terms, Humphreys documented the practical usage of the standard Malay compass vocabulary in Trengganu, revealing that even the ordinary four-point system carried regional rather than strictly cardinal meanings. In Trengganu, *timor* (East) referred not to the geographical east but to the direction of Pahang and Johor; *barat* (West) denoted the direction of Kelantan and Patani. For the true East and West, speakers employed the descriptive terms *mata-hari naik* (sun rising) and *mata-hari jatoh* (sun setting), which are transparently solar in origin and likely represent a more archaic layer of directional language [[1, p. 135]](#ref-1).
 
 This finding is significant because it demonstrates that the standard Malay compass terms, even where they were in active use, had been semantically displaced by local referents. The words *timor* and *barat* retained their formal status as compass points but had acquired specific geographic meanings tied to neighbouring polities, while the purely solar expressions filled the gap for the directions they had vacated. The result was a functional four-point system in which the lexical items and their referents had diverged from the pan-Malay standard.
 
-### The Kelantan Evidence: Coastal and Uland Systems
+## The Kelantan Evidence: Coastal and Uland Systems
 
 Anker Rentse's 1933 note on the points of the compass in Kelantan provides a complementary and in some respects more granular picture of regional variation. Rentse reported that coastal fisher-folk in Kelantan were generally familiar only with the names for North, East, and South, with uncertainty surrounding the minor compass points towards the West. This asymmetry is notable: the western direction, which in the Trengganu usage of Humphreys corresponded to Kelantan and Patani, was precisely the direction that coastal Kelantanese speakers found most difficult to name. Rentse attributed this to the practical orientation of coastal life, in which the sea lay to the west and the land to the east, making the western horizon a less salient reference point for daily navigation [[2, p. 252]](#ref-2).
 
@@ -48,7 +48,7 @@ The coexistence of a Malay incantatory vocabulary and a Javanese one within the 
 
 The fact that these terms were known primarily through the medium of incantation, rather than through everyday speech, indicates that the upland directional vocabulary had become ritualised and specialised. It was preserved in the oral repertoire of the medicine men as a technical language of the sacred, distinct from the practical vocabulary of the coastal fisher-folk. This separation between a ritual and a secular register of directional terms is a feature that Rentse's brief note does not fully explore but that it clearly documents.
 
-### Comparative Observations
+## Comparative Observations
 
 Taken together, the two sources reveal a pattern of directional language in the eastern Malay Peninsula in which the standard four-point compass was neither uniform nor stable. In Trengganu, the ordinary terms had been semantically displaced by local geographic referents, and the solar expressions had filled the resulting gap. In Kelantan, the coastal and upland communities maintained distinct vocabularies, the latter being a ritualised system of Malay and Javanese terms preserved by medicine men. The *Kepala tidor* and *Kaki tidor* terms of Kedah and Trengganu represented yet another layer, one that Humphreys linked to Islamic burial custom and taboo.
 

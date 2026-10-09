@@ -21,7 +21,7 @@ generated: true
 
 Malay etiquette, or *adab* (propriety), constitutes an unwritten but rigidly enforced code of conduct governing social interaction across the Malay Peninsula, from the courts of Kelantan and Perak to the *kampong* (village) level. The system functions as a mechanism of social stratification preserved, in the words of one senior courtier, "from time immemorial," and is valued even above formal education by illiterate Malays alike [[1, p. 273]](#ref-1). Its architecture extends from the precise linguistic registers used in addressing royalty to the physical choreography of a royal feast, from the colours assigned to state offices to the gestures of greeting and farewell. Two major scholarly treatments—one an insider's manual compiled by a Kelantan courtier for a European readership in 1933, the other a systematic ethnographic survey by a Malay scholar in 1950—provide the principal documentary record of this tradition as it stood in the mid-twentieth century [[1]](#ref-1), [[2]](#ref-2).
 
-### Scope and Historical Definition
+## Scope and Historical Definition
 
 The foundational principle of Malay etiquette is that the body itself is a text encoding relationships of respect, deference, or equality. Zainal Abidin bin Ahmad, writing in 1950, argued that these conventions—rooted in Islamic precepts, animistic survivals, and hierarchical social structure—had never been properly documented in either English or Malay, and he set out to fill that gap with a comprehensive catalogue of norms covering everything from head coverings to sexual segregation [[2]](#ref-2). The head is regarded as the noblest part of the body and must be covered; the feet are the lowest; the right hand is clean and the left unclean [[2]](#ref-2). Each physical gesture—the *bersila* (legs folded and crossed in front) squat for men, the *bertimpoh* (legs folded backwards, inclined to the right) for women, the joining of palms before the face—encodes a specific social relationship [[2, p. 52]](#ref-2).
 
@@ -29,7 +29,7 @@ Dato' Muhammad Ghazali, a senior courtier of Kelantan with thirty years of servi
 
 Ahmad's 1950 survey introduced a crucial historiographical dimension by distinguishing between genuinely Malay practices and those borrowed from external sources. He noted that the *selamat*-form greetings (*Selamat Pagi*, *Selamat Datang*, etc.) were recent coinings of less than twenty to thirty years' standing, borrowed from colloquial Indonesian Malay which itself imitated European and Egyptian-Arabic models, with *Selamat Hari Raya* identified as the oldest and the model for the rest [[2, p. 46]](#ref-2). Greeting cards and invitation cards were identified as products of Western influence within the preceding fifty years, still unknown to uneducated *kampong* Malays who preferred personal verbal communication [[2, pp. 52–53]](#ref-2). The author was equally careful to note regional variation: Johore's abolition of the court obeisance, the Minangkabau-influenced greater freedom between the sexes in Malacca and Negri Sembilan, and the Kelantanese use of *hamba* (servant) in place of *saya* (I) [[2, pp. 54]](#ref-2).
 
-### Linguistic Registers and the Pronoun System
+## Linguistic Registers and the Pronoun System
 
 The linguistic dimension of Malay etiquette is as elaborate as its physical choreography. Ahmad devoted an entire section to the pronoun system (*saya*, *aku*, *hamba*, *patek*, *beta*), showing how the choice of first- and second-person terms precisely calibrates the social distance between speaker and addressee, from the *patek* used before a Sultan down to the *aku-engkau* reserved for intimate childhood friends or family seniors addressing juniors [[2]](#ref-2). Ghazali's 1933 manual provides the detailed court register: the third-person pronoun *dia* is never applied to royalty, being replaced by the suffix *-nya*; a commoner addressing a ruling prince calls himself *patek*; the word *tidak tahu* ("I do not know") is never used before royalty, the correct formulations being *kurang preksa* (polite) or *kurang cherap* (reserved for conversation with royalty only) [[1, pp. 273–276]](#ref-1).
 
@@ -37,7 +37,7 @@ The formal modes of address are strictly tiered. The ruler is addressed *Duli Ya
 
 The *Sejarah Melayu* (Malay Annals) records an incident in 1509 in which the captain of the first Portuguese flotilla to Malacca attempted to place a gold neck chain over the head of the Bendahara (Chief Minister), an act of gross disrespect that enraged the Minister's attendants until the Bendahara himself intervened with the words "Never mind! He knows not our manners" (*Biarkan; dia ta' tahu bahasa*) [[2, pp. 72–73]](#ref-2). This early encounter illustrates how the etiquette system functioned as a boundary marker between civilised and uncivilised conduct, a function Ahmad explicitly drew upon in presenting Malay *adab* as a civilised and sophisticated system comparable to European codes of conduct [[2]](#ref-2).
 
-### Material Culture: State Colours, Palace Architecture, and the Royal Feast
+## Material Culture: State Colours, Palace Architecture, and the Royal Feast
 
 The material dimensions of Malay etiquette are codified with the same precision as the linguistic. State colours are strictly assigned: white for the royal standard, yellow for royalty, green for the Bendahara, black for the Temenggong (Keeper of the Peace), and red for the Laksamana (military commander); if any of these officers is a royal personage, his flag is bordered with yellow [[1, p. 278]](#ref-1). The umbrella is a token of prestige: a big white umbrella borne by a *Jurupayong* (umbrella-bearer) selected from the gentry is used on state occasions by the Sovereign, while the Crown Prince walks under a yellow umbrella of similar size [[1, p. 278]](#ref-1).
 
@@ -49,7 +49,7 @@ The rules of conduct at the table are exacting. It is vulgar to dip one's finger
 
 At a royal marriage, the *Ikat Tangan* (hand-binding) contribution is fixed by rank: the Crown Prince pays $100, the Chief Minister $70, other chiefs $50, and a rich merchant approximately $25. The money is collected on the night of the *Bersanding* (sitting-together) ceremony, each contributor being called by name in order of rank, the silver dollars counted aloud and thrown one by one into a gold or silver tray, making the hall echo with their ringing [[1, p. 284]](#ref-1).
 
-### Religious and Festive Contexts
+## Religious and Festive Contexts
 
 The etiquette system is suspended, or rather transformed, in specific religious and festive contexts. In the mosque, a Malay Sultan or Raja regards himself as an ordinary man; anyone of his subjects, high or low, may stand beside him while worshipping [[1, p. 282]](#ref-1). On the two *Hari Raya* (festival) days, the Khatib (sermon-giver) is the first person privileged to advance close to his Sovereign and salute him by a *Jabat Salam* (handshake), a salutation called *Mengunchup* or *Mengunjong* [[1, p. 283]](#ref-1). Only on these two occasions can anyone in the mosque, whatever his status, have the right of demanding to touch his lord's hand [[1, p. 283]](#ref-1).
 

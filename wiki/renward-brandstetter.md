@@ -18,13 +18,13 @@ generated: true
 
 Renward Brandstetter, Professor at Lucerne, was regarded by the Straits Settlements administrator C. O. Blagden as "the soundest and most accurate Malayan scholar in Europe, outside of Holland" [[1, p. 211]](#ref-1). Working in German under the general title *Malayo-Polynesische Forschungen*, Brandstetter produced a body of comparative linguistic and literary studies that illuminated the deep structural unity of the Malayo-Polynesian language family and the prehistoric civilizational level of its speakers. His work, though trained in the Dutch scholarly tradition, was characterised by Blagden as "purely original" and placed him in the company of van der Tuuk, Kern, Niemann, and Brandes [[1, p. 216]](#ref-1).
 
-### Comparative Linguistic Method
+## Comparative Linguistic Method
 
 Brandstetter's distinguishing feature was his strictly scientific approach: he refused to accept conjectural identifications or vague theories of relationship, distinguishing carefully between what he considered *proved* and what was merely *probable* [[1, p. 212]](#ref-1). His two principal comparative studies—*Die Beziehungen des Malagasy zum Malayischen* (1893, 43 pp.) and *Tagalen und Madecassen* (1902, 85 pp.)—paired Tagalog and Malagasy, two languages so widely separated geographically that their shared features could only be explained by common descent [[1, p. 212]](#ref-1). This pairing directly contradicted Crawfurd's theory that the apparent unity of the family was due to the influence of Malay or Javanese modifying originally alien tongues [[1, p. 212]](#ref-1).
 
 Brandstetter demonstrated that Malay, far from being the "normal type" of a Malayan language, was in several respects a simplified derivative. Phonologically it was often archaic, yet grammatically it had reduced its agglutinating system to "a mere remnant," whereas Tagalog and Malagasy preserved it in something like its primitive luxuriance [[1, pp. 212–213]](#ref-1). The Malay verb *surat* ("writing"), for instance, corresponds to Tagalog *sulat* and Malagasy *soratra*, the latter two retaining full active and passive conjugations with prefixes, suffixes, infixes, and reduplication [[1, pp. 212–213]](#ref-1).
 
-### Prehistoric Civilisation and Literary Studies
+## Prehistoric Civilisation and Literary Studies
 
 The comparative vocabulary Brandstetter assembled revealed that the primitive Malayo-Polynesian ancestors were at home on the tropical seas, possessing common words for the sea, shore, crocodile, prawn, ray, and dugong, and using sails and fishing hooks [[1, p. 214]](#ref-1). On land they cultivated rice, yams, and bamboo; knew iron and apparently silver; built houses with walls and roofs; and possessed pots, mortars, and garments of cloth [[1, p. 214]](#ref-1). Social vocabulary indicated familiarity with buying, borrowing, debt, and payment, as well as differences of rank and the institution of taboo [[1, p. 214]](#ref-1).
 

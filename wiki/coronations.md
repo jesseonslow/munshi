@@ -24,7 +24,7 @@ generated: true
 
 The coronation ceremonies of the Malay Peninsula constitute a distinctive body of state ritual in which the installation of a ruler is understood not merely as a political act but as the reconstitution of a cosmological order. The most extensively documented examples in the Society's literature concern the Negri Sembilan, where the Yang di-Pertuan Besar is elected and installed by four hereditary Lawgivers (*Undang*) in a ceremony that Birch (1906) described as the restoration of an ancient constitution after a generation of inter-state estrangement [[1, pp. 9–10]](#ref-1). Winstedt (1947) extended the comparative frame, arguing that Malay royal authority is a palimpsest of three successive civilisational layers—shamanic, Hindu-Buddhist, and Islamic—each retaining structural traces of the one that preceded it [[2, pp. 129–139]](#ref-2). The records also preserve accounts of the 1933 succession in Negri Sembilan [[3]](#ref-3) and a brief notice on the *Pancha Persada*, a council of five senior figures in the Malay administrative context [[4]](#ref-4).
 
-### Scope and Historical Definition
+## Scope and Historical Definition
 
 The Negri Sembilan provides the most complete documentary record of a Malay coronation in the Society's literature. Birch, writing as the sitting British Resident from 1897, published his first-person account of the 1898 installation of Tungku Muhammad as Yang di-Pertuan Besar in 1906, framing it as both a procedural record and a statement of administrative philosophy regarding the governance of Malay polities under British protection [[1, pp. 9–10]](#ref-1). The ceremony took place on Saturday, 7 May 1898, at the *Astana* (royal palace) at Sri Menanti, and lasted two and a half hours, concluding at 3 p.m.; the concourse numbered between three and four thousand persons [[1, pp. 21–22]](#ref-1).
 
@@ -34,7 +34,7 @@ The restored constitution comprised three tiers: the Yang di-Pertuan; the Four *
 
 The 1933 succession provides a complementary record. Tuanku Muhammad died on 1 August 1933 after a brief illness, having reigned for 45 years since 1898 [[3, pp. 272]](#ref-3). The notification protocol followed a precise chain: the Tunku Besar Burhanuddin summoned the four *Penghulu* of the Tanah Mengandong, who in turn dispatched *Lembaga* (hereditary tribal managers) to inform the four *Undang* of the death [[3, pp. 272–273]](#ref-3). The election itself was a conclave of the four *Undang* in Seremban on 2 August, after which the British Resident read Section 6 of the 1898 Agreement to confirm unanimity before the decision was communicated to the High Commissioner [[3, p. 276]](#ref-3). The formal proclamation of Tunku Abdulrahman as successor followed on 3 August [[3, pp. 272–279]](#ref-3).
 
-### Ritual Structure and Cosmological Significance
+## Ritual Structure and Cosmological Significance
 
 Winstedt's 1947 comparative study, "Keramat: Kingship and Enthronement in Malaya," provides the most theoretically ambitious treatment of Malay coronation ritual in the Society's literature. Drawing on direct observation of Perak and Negri Sembilan enthronement ceremonies and extensive knowledge of Siamese, Burmese, and Javanese ritual, Winstedt argues that the Malay king's divine right did not emerge fully formed with Islam but was grafted onto an older substrate of shamanic magic and Hindu-Buddhist cosmology [[2, pp. 129–139]](#ref-2).
 
@@ -48,7 +48,7 @@ The regalia themselves encode the numerical symbolism that Winstedt, following H
 
 The Perak Sri Nara-diraja, the hereditary herald of Sivaite origin who alone outside the royal family may handle the regalia, belongs to a family for whom beef is taboo—a residual Brahminical prohibition [[2, pp. 135]](#ref-2). Aditiavarman's knife, bearing Bhairava and his *sakti* inlaid in gold wire on both faces of the blade, was discovered in 1930 in the house of an old lady descendant of the former Minangkabau royal family and formed part of the Minangkabau regalia [[2, p. 133]](#ref-2).
 
-### Ceremonial Protocol and Material Culture
+## Ceremonial Protocol and Material Culture
 
 The physical arrangements of the coronation ceremony are documented in considerable detail across the records. Birch describes the *Astana* grounds at Sri Menanti: the distance from one entrance gate to the other was about 300 yards, the entrances covered with thatch, and on each side an earthen platform on which cannon were mounted. The road from one gate to the other was lined on both sides with bamboo poles bearing cross poles, and along the whole length a broad strip of yellow cloth was hung overhead [[1, p. 14]](#ref-1). The royal yellow standard flew from an orthodox flagstaff at the *balai* (royal hall) [[1, p. 14]](#ref-1).
 

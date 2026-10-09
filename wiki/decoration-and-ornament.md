@@ -100,7 +100,7 @@ Let me draft this now.
 
 Gold ornaments and decorative objects constitute one of the most tangible records of cultural contact and craft tradition across the Malay Peninsula and Borneo. From the gold rings and beads of the Limbang hoard to the *tāli* (a South Indian married-women's pendant) excavated at Kota Cina, and from the flexible armlets of the Fort Canning find to the foliated patterns of Perak silver-work, the decorative arts of the region reveal a complex interplay of Indian, Javanese, Chinese, and local influences spanning at least a millennium. These objects served not merely as personal adornment but as markers of status, religious identity, and commercial exchange, and their distribution across the archipelago provides critical evidence for the routes and chronology of cultural transmission in South-east Asia [[5, p. 48]](#ref-5), [[1, p. 117]](#ref-1), [[3, pp. 1–2]](#ref-3).
 
-### Gold Ornaments and Personal Adornment
+## Gold Ornaments and Personal Adornment
 
 The most extensively documented category of decorative object in the region is gold personal ornament. Tom Harrisson, Curator of the Sarawak Museum, traced records of approximately 115 gold objects in West Borneo, excluding the Sambas hoard, of which about 60 were examined in original form, 16 in replica, and 40 known only by written reference with no surviving specimen [[5, p. 48]](#ref-5). The objects fall into several distinct types: rings (14 recorded), beads (30), "bead rings" (24), cap badges (16), unspecified ornaments (15 or more), ear ornaments (4 or more), nose ornaments (2), coat fasteners (3), necklaces and chains (3), a coin, and a gold bar [[5, pp. 52–53]](#ref-5).
 
@@ -110,7 +110,7 @@ The Fort Canning find, excavated in July 1928 during construction of the Service
 
 In the Malay Peninsula, a gold *tāli* excavated in 1976 at Kota Cina, a site with well-documented South Indian connections, provides a further data point. The *tāli* is a flat, coin-like disc 18 mm in diameter, made from two pieces of gold foil joined by a suspension loop and a small clasp, recovered at a depth of 0.60 m [[1, p. 117]](#ref-1). Michael L. Bates of the American Numismatic Society confirmed it as an imitation of a Fatimid or Ayyubid gold dinar dating to A.D. 1098–1200, with illegible Kufic inscriptions that are merely decorative lines intended to convey the impression of script [[1, p. 117]](#ref-1). McKinnon notes that the *tāli* is a distinctly Hindu ornament of the *bottu* type common in Andhra, Kannada, and Maharashtra, and that Bates' dating preference for the middle of the 12th century helps refine the span of occupation at the site [[1, p. 117]](#ref-1).
 
-### Material Culture and Craft Traditions
+## Material Culture and Craft Traditions
 
 Beyond gold, the decorative traditions of the region encompass a range of media and techniques. In West Borneo, goldsmiths are centred in Kuching and fall into two groups: Chinese making trinkets for local use, and Malay women weaving gold-thread sarongs [[5, p. 64]](#ref-5). Some of the gold-thread sarongs still made in Kuching are of fine quality, with a considerable nomenclature and ritual connected with them, though the thread has in historic times always been imported via Malaya [[5, p. 64]](#ref-5). There is also a keen contemporary demand for gold to cover or gild teeth, found throughout the island, particularly in the far interior; dentists at smaller northern trading stations do much of their business sheathing teeth, generally at about $8.00 a tooth [[5, p. 65]](#ref-5).
 
@@ -120,7 +120,7 @@ In the broader decorative repertoire, Winstedt's 1941 study of Malaysian art mot
 
 In the realm of religious and monumental decoration, the Buddhist sculpture of the Isthmus provides a major corpus. The composite character of images from Kedah, Songkhla, and the Kinta valley—showing persistent Amaravati or Ceylonese features grafted onto Gupta or Post-Gupta models—demonstrates that a local school was operating under Indian tutelage, not merely receiving imports [[2, p. 12]](#ref-2). The Takuapa *Viṣṇu*, a six-foot mitred image of Pallava style, is dated by Dupont to the 6th century and represents the prototype for the long-robed *Viṣṇu* series found across the Isthmus, Dvaravati, and Chen-la [[2, pp. 16–19]](#ref-2).
 
-### Origins, Attribution, and Cultural Exchange
+## Origins, Attribution, and Cultural Exchange
 
 The attribution of decorative objects to specific cultural sources remains one of the most challenging problems in the field. Harrisson emphasises that the finding of an object at a particular point does not automatically date the presence of the associated culture at that location, because objects are often far more mobile than the people who made them [[5, p. 63]](#ref-5). A *T'ang* jar from China may be travelling from village to village through the far interior, or may have lain buried for centuries before being accidentally found and mobilised again [[5, p. 63]](#ref-5). This qualification is particularly relevant to small precious objects such as beads, coins, rings, and statuettes [[5, p. 63]](#ref-5).
 

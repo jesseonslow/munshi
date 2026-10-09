@@ -22,11 +22,11 @@ generated: true
 
 Cocoa (*Theobroma cacao*), an indigenous crop of South and Central America, was introduced to the Malay Peninsula by the Dutch in the eighteenth century and has since become a significant component of Malaysia's agricultural economy. By the mid-1990s, Malaysia had risen to become the world's third-largest cocoa producer, after the Ivory Coast and Brazil, a position achieved not through spontaneous market forces but through deliberate state intervention spanning colonial and post-independence periods. [[1, pp. 67–68]](#ref-1)
 
-### Colonial Origins and Experimental Cultivation
+## Colonial Origins and Experimental Cultivation
 
 The earliest recorded presence of cocoa in the region dates to 1778, when it was found fruiting in the garden of a Portuguese widow in Melaka. [[1, p. 71]](#ref-1) Subsequent experimental plantings by European planters in Melaka, Penang, Singapore, Perak and Negeri Sembilan yielded no notable commercial developments. In British North Borneo (present-day Sabah), small groves were reported on the Segaluid River as early as 1886, and a government experimental garden was established near Sandakan in 1922. [[1, p. 71]](#ref-1) In the Malay Peninsula, renewed interest emerged in the 1920s and 1930s when low rubber prices prompted some companies to trial cocoa seedlings on old rubber areas. The Department of Agriculture conducted trial plantings at Serdang, Cheras, Kuala Lipis and Temerloh, and by 1934 a small test plot of *Trinitario* cocoa was established at the Federal Experimental Station at Serdang. [[1, p. 71]](#ref-1) Throughout this first phase, cocoa remained of minor economic importance, overshadowed by rubber and oil palm, which were more profitable and possessed more established plantation infrastructure. [[1, p. 71]](#ref-1)
 
-### State Intervention and Economic Diversification
+## State Intervention and Economic Diversification
 
 After the Second World War, cocoa became integral to the colonial government's diversification strategy. In 1948, E.E. Cheeseman of the East Malling Research Station conducted a feasibility study across Malaya, Sarawak and Sabah, estimating that an annual output of approximately 100,000 tons of beans was feasible while cautioning that cocoa would not rival rubber or oil palm. [[1, p. 72]](#ref-1) His report identified the Federation of Malaya as best positioned for cocoa cultivation owing to its population, transport infrastructure and existing plantation company structure. [[1, p. 72]](#ref-1)
 

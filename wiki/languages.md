@@ -119,9 +119,6 @@ The first decade of the twentieth century saw a maturation of method. Moulton's 
 
 The interwar and post-war periods introduced new methodological concerns. Hamilton's 1919 article on foreign loan words [[7]](#ref-7) shifted attention from the ultimate source language to the immediate vector of transmission, a historiographical intervention that reframed the borrowing question. Manning's 1956 commentary [[12]](#ref-12) introduced corpus-based frequency analysis and register theory, anticipating modern computational approaches by decades. Marrison's 1975 study of early Cham [[10]](#ref-10) brought epigraphic evidence to bear on the comparative history of the Indonesian family, extending the chronological depth of the evidence well beyond the range of Malay textual sources. Throughout this trajectory, the literature maintained its characteristic dual character: part practical reference for administrators and educators, part contribution to the broader comparative-linguistic understanding of the Malayo-Polynesian family.
 
-## Malay
-<!-- Synthesis engine: Insert malay details here -->
-
 ### Notes on individual Malay words
 
 ### Natural science terms
@@ -129,20 +126,10 @@ The interwar and post-war periods introduced new methodological concerns. Hamilt
 ### Peninsular dialects
 
 ### Borneo and Sumatra
-<!-- Synthesis engine: Insert borneo and sumatra details here -->
-
 ### Brunei and other Borneo dialects
-<!-- Synthesis engine: Insert brunei details here -->
-
 ### Malay-Polynesian
-<!-- Synthesis engine: Insert malay-polynesian details here -->
-
 ### Foreign words in Malay
-<!-- Synthesis engine: Insert foreign words in malay details here -->
-
 ### Dictionaries, glossaries, vocabularies
-<!-- Synthesis engine: Insert english-malay dictionaries details here -->
-
 ## Chinese
 
 - Chan, J. Recording the Emergency in Historical Fiction. MB 96(1)
@@ -157,12 +144,6 @@ The interwar and post-war periods introduced new methodological concerns. Hamilt
 - Teoh Boon Seong. Baba Hokkien dialect in Penang. MB 72(1) and Reprint 33
 - Wang Gungwu (ed). Poems, essays and calligraphy of Wang Fo-Wen. MB 92(2)
 - Wang Tai Peng. The word kongsi. MB 52(1)
-
-## Tamil
-<!-- Synthesis engine: Insert tamil details here -->
-
-## Sanskrit
-<!-- Synthesis engine: Insert sanskrit details here -->
 
 ## MBRAS Sources
 

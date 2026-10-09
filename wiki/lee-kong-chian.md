@@ -18,7 +18,7 @@ generated: true
 
 Lee Kong Chian (1893–1967) was one of the most significant Chinese entrepreneurs in the Asian diasporic landscape from the 1920s to the 1960s, building a transnational business empire spanning plantation agriculture, banking, and manufacturing across Singapore, Malaya, Thailand, and Indonesia [[1, pp. 71–72]](#ref-1). Widely acknowledged by the 1950s as the 'Rubber King' and 'Pineapple King' of Southeast Asia, he left enduring imprints in business, education, and philanthropy, the last continuing through the Lee Foundation established in 1952 [[1, p. 71]](#ref-1). His life and legacy have been the subject of sustained scholarly and popular attention, particularly within Chinese-language print culture, where three dominant portraits have emerged in response to shifting political and economic conjunctures in Singapore, China, and the broader Chinese diaspora [[1, p. 71]](#ref-1).
 
-### Business Empire and Economic Significance
+## Business Empire and Economic Significance
 
 Born in the Furong village of Nan'an county, Fujian province, Lee migrated to British Singapore at the age of ten in 1903 and returned to China for upper secondary education before the 1911 Revolution interrupted his studies [[1, p. 72]](#ref-1). After an assortment of jobs including schoolteacher, newspaper translator, and surveyor, he joined the rubber business of Tan Kah Kee and married the latter's eldest daughter in 1920 [[1, p. 72]](#ref-1). He ventured out independently in 1928, founding the Nam Yik company on 8 August of that year [[1, p. 75]](#ref-1).
 
@@ -26,13 +26,13 @@ The Great Depression proved a critical turning point. Rubber prices plunged from
 
 Lee's management style was characterised by what contemporaries described as an egalitarian welfare system: whole-life employment, medical benefits, on-site accommodation, educational scholarships for employees' children, and exceptionally large bonuses during prosperous periods [[1, p. 80]](#ref-1). His Nam Yik Company is credited with launching a provident fund scheme in 1951, three years before a similar government initiative in Singapore [[1, p. 80]](#ref-1).
 
-### Philanthropy and Educational Patronage
+## Philanthropy and Educational Patronage
 
 Lee's philanthropic activities began before he accumulated wealth. His first major donation funded a primary school in his ancestral village in 1922, when he was still a salaried employee working for Tan Kah Kee [[1, p. 81]](#ref-1). He is recorded to have donated blood on eighteen occasions, including on his seventieth birthday in 1963 [[1, p. 81]](#ref-1). The Lee Foundation, established on 29 March 1952, was split into Singapore and Malaya sub-entities in 1960 and reorganised as the Lee Foundation Limited Company in 1965 [[1, p. 82]](#ref-1). One of its largest single gifts was S$60 million towards the new National Library headquarters, reopened in July 2005, echoing Lee's personal laying of the foundation stone for the old library on 16 August 1957 [[1, p. 89]](#ref-1).
 
 In China, Lee's centrepiece was the Guoguang Education Village in Nan'an. Beginning with four primary schools funded in 1938, he expanded the complex in the early 1950s to a campus of more than 500 *mou* (a traditional Chinese unit of land area) with a built-up area of 50,595.9 square metres, encompassing facilities from kindergarten through high school [[1, p. 86]](#ref-1). He also funded the reconstruction of Xiamen University after wartime damage, constructing almost twenty new buildings [[1, p. 87]](#ref-1). The village was renamed Guangqian Education Village in 1993 and endowed with a bronze statue of its founder [[1, p. 87]](#ref-1).
 
-### Shifting Portraits and Identity Construction
+## Shifting Portraits and Identity Construction
 
 Huang Jianli identifies three dominant portraits of Lee in the Chinese-language literature: as a leading capitalist and philanthropist in *Nanyang* (the Chinese term for Southeast Asia), as a representative patriot of the Chinese diaspora, and as a local 'virtuous pioneer' within the revised Singapore history template [[1, pp. 75–76]](#ref-1). The first portrait carries the strongest historical grounding and the least degree of constructedness [[1, p. 76]](#ref-1). The second was actively promoted from the 1980s following Deng Xiaoping's market reforms, with the 1993 centenary commemoration in Nan'an attracting over 200 academic participants and a 10,000-strong street procession [[1, p. 74]](#ref-1). The third emerged in Singapore from the early 1980s as the People's Action Party government rehabilitated Chinese community figures previously marginalised during the depoliticisation and de-sinicisation campaigns of the 1960s and 1970s [[1, pp. 88–89]](#ref-1).
 

@@ -103,7 +103,7 @@ generated: true
 
 Malaya, as a term encompassing the Malay Peninsula and the Malay-speaking regions of Borneo, has been the subject of sustained scholarly investigation across cartography, history, geography, economics, and political administration. The region's significance lies in its position as a node of maritime and overland trade linking the Indian Ocean to the South China Sea, its extraordinary mineral wealth—particularly tin and gold—and the complex interplay of Malay, Chinese, Indian, and European political forces that shaped its modern constitution. The archival record demonstrates that Malaya was understood by successive generations of scholars not as a single entity but as a mosaic of states, river valleys, and commercial networks whose internal diversity resisted easy generalisation.
 
-### Scope and Historical Definition
+## Scope and Historical Definition
 
 The term "Malaya" has been applied to the peninsula in varying degrees of precision. J.V. Mills, in his 1937 catalogue of the Raffles Library map collection, noted that the subject of Malayan cartography had, as of that date, been addressed in only two prior works: Sir Hugh Clifford's *Further India* (1904) and Rudolf Martin's *Die Inlandstämme der Malayischen Halbinsel* (1905) [[1, p. 50]](#ref-1). The collection he assembled—208 maps and charts divided into four chronological periods (before 1600, 1600–1699, 1700–1799, and 1800–1879)—terminates at 1879, the year the Royal Asiatic Society published what Mills considered the first adequate modern map of Malaya [[1, p. 50]](#ref-1). Mills was strikingly self-critical, enumerating six specific defects in his own work, including insufficient searching of Portuguese, Spanish, Dutch, Italian, and Danish archives, and imprecise dating, and framed the collection explicitly as a "first word" rather than a definitive statement [[1, pp. 49–52]](#ref-1).
 
@@ -111,7 +111,7 @@ The historiographical tradition of Malaya itself is equally layered. J.M. Gullic
 
 Anker Rentse, a Dutch archaeologist based in Singapore, challenged the Malacca-centric narrative that had dominated Malayan historiography by arguing that the northeastern states—Kelantan, Patani, Ligor, Sai, and Pahang—possessed a distinct and far older cultural history driven primarily by ancient gold mining and a network of overland trade routes connecting the east coast to Kedah and the Indian Ocean [[3, pp. 19–20]](#ref-3). Rentse traced a continuous chain of ancient mining sites from the Raub Gold Mines in Pahang northward through the Galas, Nenggiri, Pergau, and Sokor river valleys in Kelantan, across the Thai border into the Tadoh and Telubin river systems, and finally into the upper Patani and Belum valleys in Perak, arguing that these gold-bearing watersheds formed a natural corridor of settlement and trade independent of maritime routes [[3, pp. 27–28]](#ref-3).
 
-### Economic and Ecological Dynamics
+## Economic and Ecological Dynamics
 
 The economic history of Malaya is inseparable from its mineral resources. Koenig's 1779 voyage journal, published in 1894, records that tin from Sallangor (Selangor) was considered superior to that of Junk Ceylon (Penang), while tin from the kingdom of Rhombo (Ranong) was considered the best and commanded the highest price [[4, p. 33]](#ref-4). A Chinese merchant at Tarnah (Teluk Anson) described the primitive tin-collecting method: violent rain washed earth away to uncover tin, which old women collected and brought to the smelter, who rendered them one-third of what they brought, since the prevailing custom was to give the smelter one-quarter of whatever he smelts [[4, p. 25]](#ref-4). By the time of J.A. Kruyt's 1895 address before the Indian Society, tin output from the Straits had reached 636,000 *pikuls* in 1892, valued at approximately $24,000,000, representing more than two-thirds of world production [[5, p. 36]](#ref-5).
 
@@ -121,7 +121,7 @@ The commercial networks of the late eighteenth century are documented in W.G. Mi
 
 Zaharah binti Hj. Mahmud's 1970 study of traditional settlement demonstrates that the centuries between the decline of Indianised polities and the rise of the Melaka Sultanate were not a historical "limbo" but a period of active and continuous development of wet rice cultivation and the accompanying social, economic, and political institutions [[9, pp. 81–112]](#ref-9). A Chinese account by Tschau Jou Kua (1225) mentions rice as an abundant product of the lower Kelantan, lower Trengganu, and lower Pahang rivers, with tin, pepper, and gold as export commodities—evidence that these settlements were already operating within the traditional economy by the 13th century [[9, p. 98]](#ref-9). The 1835 population estimates show Kedah and Kelantan at 50,000 each, Pahang at 40,000, Perak at 35,000, Trengganu at 31,000, Negri Sembilan at 27,000, Johore at 25,000, and Selangor at only 12,000—reflecting the relative strengths of traditional settlement [[9, p. 94]](#ref-9).
 
-### Administrative and Political Frameworks
+## Administrative and Political Frameworks
 
 The transition from Malay sovereignty to British administrative control is documented across multiple sources. The Treaty of Pangkor (25 January 1874) placed Perak under British protection and established the Residential system; the first Resident, Mr. Birch, was murdered at Pasir Sala in November 1875, prompting a punitive expedition and the Sultan's banishment [[5, pp. 31–32]](#ref-5). Braddell's three-part memorandum of January–February 1874, written as Attorney-General to justify Sir Andrew Clarke's intervention in Perak, Selangor, and Sungei Ujong, provided half-century state histories drawn from official records as a government background paper [[2, p. 95]](#ref-2).
 
@@ -131,7 +131,7 @@ Philip Loh Fook-Seng's 1972 article examines the tension between British rhetori
 
 Swettenham's 1885 journal records his sea-to-sea crossing of the Malay Peninsula from the Bernam River to the Pahang River—a route of 402 miles traversing the main mountain range—undertaken to survey a proposed trunk road through Perak and to assess the commercial and administrative potential of Pahang [[11, pp. 1–37]](#ref-11). He documents in detail the tax systems (*hasil banchi*, *serah*, forced labour, debt-slavery), the near-absence of Chinese settlers (approximately 80 at Pekan and no more than 200–300 in the entire state), and the political tension between the Yam Tuan and his brother the Raja Muda [[11, pp. 7]](#ref-11), [[3]](#ref-3). The journal closes with a concrete infrastructure proposal: a 130-mile road from Johor Bahru to Pekan, estimated at under $150,000, that would link Singapore's resources directly to Pahang's interior [[11, p. 36]](#ref-11).
 
-### Research and Documentation
+## Research and Documentation
 
 The Society's literature on Malaya reveals a clear evolution in methodological priorities. The earliest contributions—Koenig's 1779 voyage journal (published 1894) and Swettenham's 1885 travel account—represent the "voyage of discovery" mode, in which a single observer's systematic survey of a region's natural and political features constitutes the primary contribution [[4, pp. 57–133]](#ref-4), [[11, pp. 1–37]](#ref-11). Kruyt's 1895 address marks the transition to comparative colonial analysis, in which the British Residential system is evaluated against Dutch administrative practice [[5, pp. 19–51]](#ref-5).
 
@@ -141,49 +141,9 @@ The post-war and late-twentieth-century literature is characterised by a turn to
 
 The cumulative effect of these contributions is a body of literature that has progressively moved from descriptive survey to analytical interpretation, from a single-centre narrative focused on Malacca to a multi-regional understanding of the peninsula's internal diversity, and from the colonial administrator's justificatory account to a critical historiography that interrogates the sources, biases, and silences of the archive itself.
 
-## Geography
-<!-- Synthesis engine: Insert geography details here -->
+## Maps
 
-## Historical geography
-<!-- Synthesis engine: Insert historical geography details here -->
-
-### Maps
-
-## Antiquities
-<!-- Synthesis engine: Insert antiquities details here -->
-
-## Description and travel
-<!-- Synthesis engine: Insert description and travel details here -->
-
-## History
-<!-- Synthesis engine: Insert history details here -->
-
-### Japanese invasion and occupation
-<!-- Synthesis engine: Insert japanese invasion and occupation details here -->
-
-## Architecture
-<!-- Synthesis engine: Insert architecture details here -->
-
-## Commerce
-<!-- Synthesis engine: Insert commerce details here -->
-
-## Economy
-<!-- Synthesis engine: Insert economy details here -->
-
-## Politics and government
-<!-- Synthesis engine: Insert politics and government details here -->
-
-## Constitution
-<!-- Synthesis engine: Insert constitution details here -->
-
-## Kings and rulers
-<!-- Synthesis engine: Insert kings and rulers details here -->
-
-## External relations
-<!-- Synthesis engine: Insert external relations details here -->
-
-## Bibliographies
-<!-- Synthesis engine: Insert bibliography details here -->
+## Japanese invasion and occupation
 
 ## MBRAS Sources
 

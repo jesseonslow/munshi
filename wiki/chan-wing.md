@@ -18,7 +18,7 @@ generated: true
 
 Chan Wing (陳永, 1873–1947) was a Kwantung-born Chinese immigrant who rose from rural poverty to become one of Kuala Lumpur's most prominent early business figures, his commercial career spanning tin mining, banking, rubber cultivation, and rice export across the major economic transformations of colonial Malaya from the 1880s through the Japanese occupation [[1, pp. 112–117]](#ref-1). His life, as reconstructed by his eighth daughter Chan King Nui in a 1996 biographical record, offers a representative account of the Chinese entrepreneurial class that shaped the Straits Settlements and the Federated Malay States during the late nineteenth and early twentieth centuries [[2]](#ref-2).
 
-### Migration and Early Commercial Career
+## Migration and Early Commercial Career
 
 Chan Wing was born in 1873 into a family of seven in Seck Tow (石塘), in the District of Sun Wui (順威) near the river port of Dragon Bay on the bank of the Pearl River, Kwantung [[1, p. 112]](#ref-1). His grandfather, described as an irresponsible wastrel who smoked his life away on his opium couch, left his grandmother to work long and hard to raise the family single-handed [[1, p. 112]](#ref-1). The poverty and hard work of his childhood left a lasting impression and, according to his daughter, generated the stimulus and fierce determination that would drive his later success [[1, p. 112]](#ref-1).
 
@@ -26,7 +26,7 @@ In 1887, at the age of fourteen, Chan Wing sailed for Singapore to seek his fort
 
 Chan Wing headed not for the comforts of the capital but for Sungei Besi outside Kuala Lumpur, where he first worked as a labourer and later found employment as a clerk for Loke Yew, described as the most successful entrepreneur of his time [[1, p. 112]](#ref-1). When he proved his worth, he was put in charge of two shops at the age of eighteen [[1, p. 112]](#ref-1). His frugality was notable: his new clogs were reserved for job interviews and special occasions and were often carried rather than worn [[1, p. 113]](#ref-1).
 
-### Tin Mining and the Hong Fatt Venture
+## Tin Mining and the Hong Fatt Venture
 
 By 1905, Chan Wing had accrued sufficient savings to undertake his first major independent venture. Along with a group of friends—Cheong Yoke Choy, Liew Weng Chee, and San Ah Wing—he acquired a piece of land which had been operated by a European company, then a Chinese *kongsi* (a traditional Chinese mining partnership) took over from the European firm, and Chan Wing and his partners were the fourth group to work on the site [[1, p. 113]](#ref-1). Tin mining, as he discovered, was hard and labour-intensive work: the overburden had to be removed, the ore-bearing soil lifted, and the ore separated from the soil [[1, p. 113]](#ref-1).
 
@@ -34,23 +34,23 @@ The initial period was one of considerable anxiety. For days and months the mine
 
 The broader context for this venture was the surge in tin prices driven by the use of tin-plating in food canning, a practice expanded during the American Civil War of 1861–1865 and by pioneers travelling west in America [[1, p. 113]](#ref-1).
 
-### Banking and the Kwong Yik Bank
+## Banking and the Kwong Yik Bank
 
 In 1913, the burgeoning economy motivated Chan Wing and his friends to set up a bank to cater to the Chinese community. Thus Kwong Yik Bank in Kuala Lumpur was born, with a capital of $1,000,000 [[1, p. 114]](#ref-1). The other founder members were San Ah Wing, Chew Kam Chuan, Leong Yan Teck, Liew Weng Chee, and Cheong Yoke Choy [[1, p. 114]](#ref-1). As the first Chinese bank in Kuala Lumpur, it was a great success [[1, p. 114]](#ref-1).
 
 During World War I, the other directors made a proposal which, though legal, was against Chan Wing's principle. He objected, and when they went ahead with it, he resigned in indignation [[1, p. 114]](#ref-1). Subsequently, he drifted apart from these friends and set up all future commercial ventures on his own, though he kept in touch with them socially [[1, p. 114]](#ref-1). His later banking involvements—Eu Tong Sen's approach to invest in the Lee Wah Bank, and Sir Sau San Chow's invitation to invest in The Bank of East Asia, Hong Kong—were undertaken as an individual rather than as part of his original partnership [[1, p. 115]](#ref-1).
 
-### Rubber Cultivation and the Chaah Estate
+## Rubber Cultivation and the Chaah Estate
 
 Rubber cultivation was being encouraged in Malaya especially after the collapse of coffee cultivation, and with the advent of the motorcar industry and mass car production by Henry Ford, there was a demand for tyres that drove rubber prices up by leaps and bounds [[1, p. 114]](#ref-1). A boom occurred in 1905–1910, but Chan Wing came later into this industry, having found tin mining a gamble whose demand and price were uncertain [[1, p. 114]](#ref-1). He recognised that rubber was even more speculative: a lot of unprofitable initial work was involved, the jungle had to be cleared and the soil prepared, and the trees took seven years to mature for tapping, by which time the rubber price might not be in one's favour [[1, p. 114]](#ref-1).
 
 He first bought 4,000 acres of land in Segamat, which he later sold to Dunlop; the estate was renamed the Regent Estate [[1, p. 115]](#ref-1). In 1935, through the assistance of Dato Wong Ah Kwee, a friend of Sultan Ibrahim of Johore, Chan Wing acquired 6,464 acres in Chaah, Bekok, in the *mukim* (administrative district) of Johore [[1, p. 115]](#ref-1). He planted the whole estate with the new TJIR One, a superior rubber clone that was the product of Dutch research and yielded 1,000 lbs per acre, compared with 250 lbs per acre for other clones in 1910 and 275 lbs ten years later [[1, p. 115]](#ref-1). No other person had the courage to plant an entire estate of 6,000 acres with bud-grafted TJIR One until then [[1, p. 115]](#ref-1). In 1951, his sons reaped enormous profits from this estate during the Korean War boom [[1, p. 115]](#ref-1).
 
-### Rice Export and Commercial Diversification
+## Rice Export and Commercial Diversification
 
 Knowing the instability in the demand for rubber and the fluctuation of its price, Chan Wing recognised the need for an alternative product that was in constant demand and whose price was more stable [[1, p. 115]](#ref-1). He found it in rice. In 1921/23, he started exporting rice from Bangkok, Siam (now Thailand), a business that proved lucrative [[1, p. 115]](#ref-1). It was said he made only a negligible profit of half a cent to one cent per sack of rice, but it was profitable enough for him to build the second-largest rice mill in Bangkok [[1, p. 115]](#ref-1). He purchased a small fleet of cargo vessels to export rice to Saigon (French Indo-China), Hong Kong, Klang, Manila (the Philippines), Singapore, and Surabaya (Indonesia), and set up offices in all these towns [[1, p. 115]](#ref-1). This business sustained his family during the lean times when the rubber estate was in its immature infancy, and he carried it on until an embargo on the export of rice was placed by Siam at the start of the Japanese aggression in 1941 [[1, p. 115]](#ref-1).
 
-### Civic Life, Patriotism, and the Japanese Occupation
+## Civic Life, Patriotism, and the Japanese Occupation
 
 Chan Wing lacked a formal education beyond an elementary village schooling and was mostly self-taught, but right up to World War II he read old Chinese books—the Four Books, *The Three Kingdoms*, and Sun Tzu—and nightly practised Chinese calligraphy [[1, p. 116]](#ref-1). He was made a Justice of the Peace in the 1930s [[1, p. 116]](#ref-1). During the Great Depression of 1929–1931, he and other leaders of the Chinese community gathered the tin miners who were hard hit by the slump at the temple on the edge of the cemetery at Airport Road and saw to their welfare, with Chan Wing visiting them to ensure they were cared for [[1, p. 116]](#ref-1).
 

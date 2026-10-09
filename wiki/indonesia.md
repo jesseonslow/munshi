@@ -94,16 +94,7 @@ The most recent records reflect a maturation of the field. Petrů's centennial a
 ## Antiquities
 For Indonesian antiquities, see [Archeology: China, Indonesia, Thailand](./archaeology#china-indonesia-thailand) and [Borobudur, Java](./borobudur).
 
-## Commerce
-<!-- Synthesis engine: Insert commerce details here -->
-
-## Culture and society
-<!-- Synthesis engine: Insert culture and society details here -->
-
 ## Language and literature
-
-## History
-<!-- Synthesis engine: Insert history details here -->
 
 ## MBRAS Sources
 

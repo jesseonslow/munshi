@@ -22,7 +22,7 @@ generated: true
 
 The Jakun are a group of indigenous peoples historically documented across the Malay Peninsula, with attested communities in Malacca, Johore, and Pahang. They have been variously classified alongside other non-Muhammadan aboriginal groups in colonial administrative records, and their languages, customs, and physical characteristics have been the subject of ethnographic and linguistic investigation from the late nineteenth century through the mid-twentieth century. The records indicate a population in process of assimilation, with dialects heavily impregnated with Malay, declining use of indigenous vocabulary, and increasing cultural blending with Malay and Chinese communities [[1, pp. 177–178]](#ref-1), [[2, pp. 29–30]](#ref-2).
 
-### Scope and Historical Definition
+## Scope and Historical Definition
 
 The earliest administrative classification of the Jakun appears in a memorandum by C.O. Blagden, dated 1892, describing the non-Muhammadan aborigines of the Jasin district, Malacca. Blagden identifies three principal tribes in the district — Mentera, Jakun, and Besisi — and notes that the Mentera claimed superiority and shared descent with the Muhammadan Biduanda clan [[1, p. 177]](#ref-1). Linguistically, Blagden observes that the Mentera and Jakun dialects are so heavily impregnated with Malay as to be "little better than Malay patois," while the Besisi language is entirely different and of Sakai stock [[1, pp. 177–178]](#ref-1). This distinction places the Jakun in a category of partial linguistic assimilation, differentiated from both the fully Malay-speaking Mentera and the linguistically distinct Besisi.
 
@@ -30,7 +30,7 @@ In Johore, A.D. Machado's 1902 note documents the Jakuns of Batu Pahat, who live
 
 In Pahang, P.D.R. Williams-Hunt's 1951 note documents Jakun speakers in the Maran area, recorded in June 1950, and contrasts their numerals with a list previously obtained by I.N.H. Evans from the Ulu Tekam group [[3, p. 175]](#ref-3). The existence of distinct sub-groups — Ulu Tekam, Maran, Batu Pahat, Jasin — suggests that "Jakun" functioned as a broad classificatory term encompassing several communities that shared certain linguistic and cultural features while maintaining local particularities.
 
-### Physical Typology and Social Customs
+## Physical Typology and Social Customs
 
 Blagden provides a physical typology distinguishing the Jasin aborigines from the normal Malay type, noting prognathism, wavy or curly hair, and a generally lower stature, with the Jakun presenting a coarser type than the Mentera [[1, p. 178]](#ref-1). This observation, while characteristic of the anthropological conventions of its era, reflects the classificatory framework within which colonial administrators understood the relationships between indigenous groups.
 
@@ -40,7 +40,7 @@ Machado's observations of the Batu Pahat Jakuns reveal a community in active pro
 
 A particularly distinctive custom recorded by Machado is a peculiar longitudinal circumcision rite, explained by a legend involving a great *Batin* — a traditional leader or chief — and a Muhammadan *Pawang* — a spiritual practitioner or shaman [[2, pp. 30–31]](#ref-2). Machado draws a comparison with the northern Sakais, who rejected circumcision as a barrier to Islam, suggesting that the Jakun rite represented a negotiated cultural position between indigenous and Islamic traditions [[2, pp. 30–31]](#ref-2).
 
-### Linguistic Documentation
+## Linguistic Documentation
 
 The linguistic records for the Jakun span three decades and three different localities, providing a picture of a language in progressive decline. Machado's 1902 vocabulary from Batu Pahat comprises approximately fifty words still in use, interspersed with Malay, covering kinship terms, body parts, animals, plants, and basic verbs [[2, pp. 31–33]](#ref-2). He observes that the rising generation shows little inclination to use even these remnants, and that many entries overlap with those previously collected by Lieut. Kelsall from the Endau Jakuns [[2, pp. 31–33]](#ref-2). The overlap between the Batu Pahat and Endau vocabularies suggests a shared linguistic substrate, while the heavy Malay interspersion indicates advanced stages of language shift.
 

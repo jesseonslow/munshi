@@ -37,7 +37,7 @@ generated: true
 
 Boats of the Malay Peninsula and Borneo constitute a diverse and historically layered maritime tradition, encompassing everything from single-man dugout canoes to large multi-masted cargo vessels. The region's sheltered straits, extensive mangrove coastlines, and monsoon-driven trade routes produced a fleet characterised by shallow draught, lightweight construction, and a persistent synthesis of indigenous, European, and Chinese design elements. From the small *kolek* (a Malay term for a shallow-keeled fishing or cargo boat) of the Singapore Strait to the *perahu pinas* of the Trengganu coast, these vessels reflect both the ecological constraints of their operating waters and the complex ethnic and commercial networks through which they were built, manned, and traded [[1, pp. 121–133]](#ref-1), [[2, pp. 106–125]](#ref-2). The study of these craft has been a sustained programme of documentation, driven by the recognition that modernisation and the displacement of sail by motor were erasing an entire material culture within a single generation [[3, p. 99]](#ref-3).
 
-### Typology and Construction
+## Typology and Construction
 
 The indigenous boat tradition of the region can be broadly divided into two structural categories: dugout canoes and plank-built carvel hulls, with many forms retaining vestigial elements of the former in the latter [[3, p. 99]](#ref-3). At the smallest end of the scale, the *kolek pulau* of the east coast measures approximately 7 feet by 2½ feet, draws about 1 foot of water, and is built with a *Kayu Teruntum* keel and *Kayu Medang* planking; it carries a single man and a small gaff-rigged sail called *Layar Bulu Ayam* [[4, p. 193]](#ref-4). The *jongkong*, a small inshore boat rarely exceeding 12–14 feet, consists of a dug-out base with a single added plank or wash-strake on each side, and is found in three distinct forms across the Rhio-Lingga archipelago [[1, pp. 121–123]](#ref-1).
 
@@ -47,7 +47,7 @@ At the upper end of the indigenous scale, the *perahu pinas* of Trengganu repres
 
 A recurring theme across all these types is the degree of cultural transfer visible in the boats themselves. Gibson-Hill observed that the *kolek johore* in the Singapore area was increasingly using the long-shafted Chinese oar in place of the short Malay paddle, while the Chinese-built *kolek chiau* and *kolek selat*, though sharing the general double-ended, shallow-keeled form, differed from their Malay counterpart in construction sequence, rib assembly, and finish [[5, pp. 148–170]](#ref-5). These variations were treated not as mere curiosities but as evidence of a living process of technical exchange between communities working the same waters [[5, pp. 148–170]](#ref-5).
 
-### The Tongkang Group and the Lighter Trade
+## The Tongkang Group and the Lighter Trade
 
 The word *tongkang* first appears in romanised form in newspaper accounts of the 1830s, and the earliest dictionary to record it is Crawfurd's (1852), which defines it simply as "the name of a large kind of boat" [[8, p. 82]](#ref-8). Gibson-Hill's 1952 study resolved the taxonomic confusion surrounding the term by arguing that it should be restricted to sailing lighters of European hull origin, or boats developed from such stock, and that the apparent diversity of "tongkangs" in Malayan waters represents a single evolutionary lineage radiating from the Tamil-manned lighters first brought to Singapore in the 1820s [[8, pp. 82–84]](#ref-8).
 
@@ -57,7 +57,7 @@ The position of the Tamil boatmen was considerably weakened in 1867, when ultima
 
 The Penang *tongkang* is unique among the Malayan forms in that it is still largely Tamil-managed, and even now the copy of the *surul* (a decorative and ritual motif on the stem head, associated with non-Muslim Indian boat traditions) retains some significance for the men who work it [[8, pp. 88–89]](#ref-8). A 70-foot Penang *tongkang* took two months to build in 1949 and cost $17,000–$18,000, of which half was the cost of timber [[8, p. 91]](#ref-8). The group extends beyond the peninsula: in Sandakan Bay, North Borneo, a beamier version of the transom-stern sailing lighter is built by a small community of Malays from Banjermasin on Nunuyan Laut Island, used for bringing mangrove wood for fires to Sandakan [[8, pp. 94–95]](#ref-8).
 
-### Economic and Ecological Dynamics
+## Economic and Ecological Dynamics
 
 The fishing economy of the Singapore Strait and the east coast was structured around a hierarchy of maritime activity organised by scale and risk. The *kolek pulau* served as a single-man craft for subsistence fishing near shore; the *kolek kelibat* introduced net fishing and a small crew; the *kolek pengayer* represented a cooperative enterprise of four boats working in concert; and the *payang* was a full-scale commercial operation with a crew of about 14 men, a complex purse net, and established protocols for locating fish [[4, pp. 193–196]](#ref-4). The *payang* employed a *Pukat Petarang* net measuring 110–120 feet long by 18 feet wide, with a mesh graduating from wide at the arms to ¾ inch at the purse end [[4, pp. 195–196]](#ref-4).
 
@@ -67,7 +67,7 @@ On the east coast, the *perahu pinas* was built at Kuala Trengganu over approxim
 
 Indonesian trading vessels reaching Singapore represented a separate but interconnected maritime economy. The *Palari* (Makassar trader), measuring 50–70 feet overall, carried a crew of 7–8 men earning $10–20 per month plus food, and the 1,200-mile passage from Makassar to Singapore took 8–9 days with the north-east monsoon [[9, pp. 112–113]](#ref-9). The *Golekkan* (Madura trader), remarkably consistent in size at 50–55 feet overall, carried 500–550 piculs of cargo, and the 535-mile run from Batavia to Singapore was estimated at 5–6 days at a maximum speed of 8–8½ knots [[9, pp. 122–123]](#ref-9). The double-masted *Lambok* ketch from Bonerate, reaching 58–80 feet overall with a sail area of about 2,000 square feet and a cargo capacity exceeding 700 piculs, required only 6–7 men—demonstrating the efficiency advantage of the European-modelled design over the traditional *Palari* and *Golekkan* [[9, p. 134]](#ref-9).
 
-### Model Boats and Racing Traditions
+## Model Boats and Racing Traditions
 
 The tradition of model boat racing, known as the *jong*, was documented by Gibson-Hill in 1950 as a lightweight sailing model raced along the coasts of Singapore, the adjacent southern islands, the Strait of Johore, and Mersing [[10, pp. 144–148]](#ref-10). The hull was cut from a single piece of Jelutong wood (*Dyera costulata*), carrying a triangular foresail and sprit-mainsail on a slender mast, with no true keel or rudder; stability and directional control were achieved through an outrigger boom (*Batang Katir*) set to windward, terminating in a heavy float whose angle could be rotated by the owner to vary the drag-moment [[10, pp. 146–147]](#ref-10). Two size classes existed: larger *jongs* with a waterline length of 55–65 inches (used south of Singapore and at Mersing) and smaller ones at 33–40 inches (predominant off Singapore Island) [[10, p. 147]](#ref-10). New models cost approximately $15–20 [[10, pp. 146–147]](#ref-10).
 
@@ -75,19 +75,13 @@ Alfred's 1986 study of three model *jong* from Pulau Brani, Singapore, provided 
 
 The presence of outrigger attachments on the *jong* lends support to the hypothesis, advanced by Hornell (1946), that model outrigger canoes in the region reflect the former use of outriggers on full-size vessels, a practice for which no full-size single-outrigger canoe is known in Malaysia and Singapore [[11, p. 138]](#ref-11).
 
-### Research and Documentation
+## Research and Documentation
 
 The Society's literature on boats reveals a clear progression from early descriptive ethnography to systematic taxonomic survey, driven by the accelerating loss of traditional craft. Dalton's 1926 article provided one of the earliest practical field guides to the maritime technology of the east coast, cataloguing vessel types in terms of dimensions, timber selection, rigging, crew size, and the specific fishing techniques associated with each [[4, pp. 192–200]](#ref-4). Warington Smyth's 1902 paper, long treated as the standard reference, was explicitly critiqued by Gibson-Hill as "comprehensive only in its title," having been written on the basis of a personal knowledge of some parts of Peninsular Siam, a passage through Singapore, and a "prolonged though not conspicuously critical examination" of the Skeat collection [[1, pp. 121–133]](#ref-1).
 
 Gibson-Hill's systematic programme of documentation, spanning 1949 to 1954, represented a deliberate correction to these earlier limitations. His 1949 article on east coast cargo boats provided the first systematic post-war catalogue of the Pinas-Bedar group [[2, pp. 106–125]](#ref-2). His 1950 papers on Indonesian trading boats, Singapore fishing boats, and the racing *jong* extended the survey to the full range of vessels operating in Singapore waters [[10, pp. 144–148]](#ref-10), [[5, pp. 148–170]](#ref-5), [[9, pp. 108–138]](#ref-9). His 1951 note on the small boats of the Rhio-Lingga Archipelago traced a clear north-south transition in boat types across the archipelago [[1, pp. 121–133]](#ref-1). His 1952 study of the *tongkang* group resolved a century of taxonomic confusion and reconstructed the ethnic succession in the lighter trade over a 130-year period [[8, pp. 84–110]](#ref-8). His 1953 note on the *perahu pinas* connected a previously unexamined mid-nineteenth-century colonial account to the local oral tradition, demonstrating how a minor figure in an official dispatch could become the eponymous founder of a boat type in the collective memory of a coastal community [[7, pp. 206–210]](#ref-7). His 1954 paper, the final volume in the monograph *Papers on Malayan Fishing Methods*, integrated boat typology with the functional analysis of fishing methods, providing a material-culture dimension to the fisheries research programme of the Singapore Fisheries Department [[6, pp. 145–174]](#ref-6).
 
 Alfred's contributions in the 1980s addressed the gap left by Gibson-Hill's passing mention of the Pulau Brani *jong* and provided the first physical description and comparative analysis of that form [[11, pp. 133–138]](#ref-11). His 1987 checklist of 22 distinct craft forms in Singapore was compiled explicitly to preserve nomenclature and physical specifications before they were lost to fibreglass hulls and motorised transport [[3, pp. 99–114]](#ref-3). The archival infrastructure supporting this body of work includes the Maritime Museum, Singapore collection, the Skeat collection of boat models at Cambridge University (assembled in 1896–1897 in Kuala Langat), the Raffles Museum Archives, and the shipping registers of Singapore and Penang [[11, pp. 136–137]](#ref-11), [[8, pp. 109–110]](#ref-8), [[1, pp. 121–133]](#ref-1).
-
-## Sailing boats
-<!-- Synthesis engine: Insert sailing boats details here -->
-
-## Fishing boats
-<!-- Synthesis engine: Insert fishing boats details here -->
 
 ## MBRAS Sources
 

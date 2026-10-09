@@ -20,7 +20,7 @@ generated: true
 
 Lizards constitute a diverse and widespread group of reptiles across the Malay Peninsula and Borneo, encompassing arboreal, terrestrial, and semi-aquatic forms that have attracted sustained scientific attention since the earliest decades of colonial natural history in the region. The literature preserved in the Society's journals documents species ranging from the small arboreal *Aphaniotis fusca* to the gliding *Draco* lizards, from introduced Australian skinks to newly described ground-geckos, reflecting both the taxonomic richness of the fauna and the evolving methodological approaches of the naturalists who studied it. The records span nearly five decades, from brief field observations in the 1880s to detailed morphological monographs in the 1920s, and collectively reveal a discipline in transition from descriptive natural history towards systematic, measurement-based taxonomy.
 
-### Taxonomic Documentation and Morphological Description
+## Taxonomic Documentation and Morphological Description
 
 The most substantial contribution to lizard taxonomy in the archival record is G. Hope Sworder's 1929 monograph on *Aphaniotis fusca* (Peters), a small arboreal species based on 17 specimens from the Malay Peninsula and the Natuna Islands [[1]](#ref-1). Sworder's study was prompted by apparent contradictions between his own observations and all previous descriptions of the species, which he resolved by attributing the discrepancies to sex-based differences and to the loss of the gular sac in preserved female specimens after prolonged immersion in spirit [[1, p. 328]](#ref-1). He documented the presence of a well-developed gular sac in males and a smaller one in females, necessitating a correction to Boulenger's 1912 generic description, which had stated "no gular pouch" [[1, p. 328]](#ref-1). Sexual dimorphism was pronounced: males possessed irides of bright blue with a cobalt-blue interior of the mouth, while females had gold-brown irides and two dark bands between the eyes, making the sexes distinguishable "infallibly even at some distance" [[1, p. 329]](#ref-1).
 
@@ -30,7 +30,7 @@ In 1925, Malcolm A. Smith described a new species of ground-gecko, *Gymnodactylu
 
 E. Bartlett's 1895 note on a new species of "Philentoma" represents an earlier, briefer contribution to the taxonomic literature, though the archival record provides only the title and page reference without detailed content [[3]](#ref-3).
 
-### Natural History and Behavioural Observations
+## Natural History and Behavioural Observations
 
 The earliest lizard records in the Society's literature take the form of short natural history notes rather than formal taxonomic treatments. N. B. Dennys's 1882 account of *Draco volens* in Singapore described the species as abundant and capable of a considerable length of flight, with eggs "about the size of peas" [[4, p. 162]](#ref-4). Dennys added a general observation that no species of lizard is in any sense poisonous and that very few possess teeth developed enough to inflict a wound, and noted that spiders are great enemies of lizards, typically catching them asleep and weaving a web around the mouth before biting the lip [[4, p. 163]](#ref-4). The note closed with an invitation for readers to keep the animal in confinement and furnish further information [[4]](#ref-4).
 
@@ -38,7 +38,7 @@ Sworder's 1929 monograph provided more detailed behavioural data for *Aphaniotis
 
 H. N. Ridley's 1905 note, titled "Nesting of *Draco fimbriatus*," presents a textual anomaly: the body of the note refers throughout to "the bird" and describes an individual roosting in a hole in a dead bough in the Gardens, with no eggs or young found despite it being the breeding season [[5, p. 227]](#ref-5). This inconsistency may indicate a misattribution of the title to the fragment, or that the note was part of a longer discussion in which the subject shifted [[5]](#ref-5).
 
-### Introduced and Range-Extension Records
+## Introduced and Range-Extension Records
 
 The archival record also documents cases of lizards occurring outside their native range, whether through human-mediated introduction or range extension. F. N. Chasen's 1925 note on the Australian skink *Egernia depressa* (Gunth.) in Singapore Island reported that a specimen was captured near the Tanjong Pagar docks, and that four other *Egernia* specimens in the Raffles Museum were presumably also taken on the island [[6, pp. 100–101]](#ref-6). The species was described as roughly the size of the common garden skink *Mabuia multifasciata* but distinguished by its stumpy tail and rows of backwardly directed spines [[6]](#ref-6). Chasen attributed the introduction to timber-carrying boats from south-western Australian ports, and noted the species' confinement to the dock area as evidence it had not yet spread beyond its point of arrival [[6, p. 101]](#ref-6). He placed this within a broader discussion of artificially introduced reptile and amphibian species on the island, including the bull-frog *Kaloula pulchra* and the tokay gecko *Gekko verticillatus*, whose confinement to urban areas he cited as evidence of artificial introduction [[6, p. 100]](#ref-6).
 

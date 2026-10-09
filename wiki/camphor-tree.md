@@ -18,13 +18,13 @@ generated: true
 
 The camphor tree (*Dryobalanops aromatica*) is a lofty dipterocarp native to the interior river systems of the Malay Peninsula and Borneo, producing both solid camphor (*kapur barus*) and camphor oil, and long associated with a specialised linguistic register and a body of indigenous belief among the Jakun and other aboriginal communities of the Johor interior [[1, p. 35]](#ref-1). Its commercial significance dates to at least the sixth century, and its presence on the Malay Peninsula was not botanically confirmed until the 1890s, despite the fact that camphor-hunting had been practised there for generations [[1, pp. 35–36]](#ref-1). The tree's ecological rarity—only a small proportion of individuals actually yield camphor—gave rise to a complex set of taboos, an artificial language, and a tradition of specialist knowledge that persisted into the late nineteenth century [[2, pp. 112–115]](#ref-2), [[1, pp. 39–40]](#ref-1).
 
-### Botanical Description and Distribution
+## Botanical Description and Distribution
 
 *Dryobalanops aromatica* Gaertn., also known as *D. camphora* Colebr., is described by Lake and Kelsall as a lofty dipterocarp reaching 100 to 150 feet in height, with a stem roughly three and a half feet in diameter at the base [[1, p. 35]](#ref-1). The species produces two distinct commercial products: solid Borneo camphor (*kapur barus*) and camphor oil, the latter referred to in the camphor language as *s'mp'loh kapur* [[1, p. 35]](#ref-1).
 
 The first confirmed botanical record of the species on the Malay Peninsula was made by Lake and Kelsall, who identified it as native to the Madek and Kahang rivers in the Indau district of Johore [[1, p. 35]](#ref-1). No prior botanical work had recorded its presence on the Peninsula, although the commercial product had long been known to traders [[1, p. 35]](#ref-1). Hervey's 1879 expedition to Gunong Blumut, which traversed the upper Lenggiu and Teba rivers in the same general region, did not specifically record the camphor tree among the flora he collected, though he noted the presence of hill coffee shrubs with good-sized berries on the river banks and a variety of ferns and other plants [[2, pp. 100]](#ref-2). The absence of a botanical record does not, however, imply the absence of the tree; as an old *Binua* (a member of the aboriginal community) observed to Hervey, "camphor is so valuable that not a single full grown tree would be left in the forest" if it were readily obtainable [[2, p. 115]](#ref-2).
 
-### Commercial History and Extraction
+## Commercial History and Extraction
 
 The commercial history of Borneo camphor extends back to at least the sixth century, when it is mentioned in the poems of the Arabian prince Imru-l-kais [[1, p. 36]](#ref-1). A more detailed early account appears in Garcia da Orta's *Historia Aromatum* (1593), which records the elaborate grading system employed by Hindu and Arab traders. Camphor was classified into four grades—"head," "breast," "legs," and "feet"—worth 80, 20, 12, and 4 pardans per pound respectively, and a pound of Borneo camphor was considered worth a hundred pounds of Chinese camphor [[1, p. 36]](#ref-1).
 
@@ -32,7 +32,7 @@ The method of extraction, as described by H. N. R. in the 1894 article, involves
 
 The Jakun believe that a spirit, called *bisan*, presides over the camphor trees, and its shrill nocturnal cry—identified by the authors as the call of a cicada—signals the proximity of camphor-bearing trees [[1, p. 40]](#ref-1). This belief underpinned the broader system of taboo and ritual observance that governed the hunt.
 
-### The Camphor Language and Associated Beliefs
+## The Camphor Language and Associated Beliefs
 
 The most distinctive cultural feature associated with camphor-hunting is the specialised linguistic register known as *bahasa kapur* or, more precisely, *pantang kapur* (camphor taboo language) [[2, p. 112]](#ref-2). While searching for camphor, the hunters abstain from certain kinds of food, eat a little earth, and use this artificial language in place of ordinary Malay [[2, p. 112]](#ref-2). The belief is that if care be not taken to use the *bahasa kapur*, great difficulty will be experienced in finding camphor trees, and that when found the camphor will not yield itself to the collector [[2, p. 114]](#ref-2).
 
@@ -42,7 +42,7 @@ Lake and Kelsall noted in 1894 that the camphor language consists largely of Mal
 
 The *Bermun* (Benuak) tribes, at least on the western side of the Peninsula, did not collect camphor and were unacquainted with the *bahasa kapur* [[2, p. 115]](#ref-2). The practice was thus confined to specific communities and river systems, and its persistence into the 1890s testifies to the continued economic importance of the trade despite the declining availability of the resource.
 
-### Ecological and Cultural Context
+## Ecological and Cultural Context
 
 The camphor tree's association with the interior highlands of Johore places it within a broader ecological and mythological landscape. Hervey's account of the Benuak creation legend, confirmed by the *Dato* (elder) at Pengkalan Teba, identifies the Blumut mountain group as the oldest land and the axis of the earth's stability, with Gunong Ledang, Gunong Kap, Gunong Tongkat Bangsi, and Gunong Tongkat Subang as the northern anchors [[2, pp. 105–106]](#ref-2). The summit of Blumut, at 3,190 feet, was regarded with superstitious reverence, and the *Batin* (chief) at Pengkalan Teba described the mountain as the dwelling place of the tiger race, which had been driven to the sister peak of Chimundong upon the approach of the white man [[2, p. 108]](#ref-2).
 

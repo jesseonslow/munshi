@@ -62,6 +62,40 @@ generated: true
 
 The study of animals in the scholarly literature of the Malay Peninsula and Borneo spans a remarkable range of disciplinary concerns, from the practical management of captive collections to the symbolic deployment of fauna in vernacular literature, from the intimate communication systems of nomadic peoples and their dogs to the contemporary politics of orangutan rehabilitation. Across these diverse engagements, animals function simultaneously as objects of scientific observation, vehicles of cultural meaning, and sites of ethical contestation, revealing how the region's human communities have understood their place within the broader web of species relations.
 
+## Members & Sub-Topics
+- [Ants](./ants.md)
+- [Apes](./apes.md)
+- [Badgers](./badgers.md)
+- [Bats](./bats.md)
+- [Bees](./bees.md)
+- [Beetles](./beetles.md)
+- [Birds](./birds.md)
+- [Buffaloes](./buffaloes.md)
+- [Butterflies](./butterflies.md)
+- [Cattle](./cattle.md)
+- [Centipedes](./centipedes.md)
+- [Crabs](./crabs.md)
+- [Crocodiles](./crocodiles.md)
+- [Deer](./deer.md)
+- [Dogs](./dogs.md)
+- [Dragonflies](./dragonflies.md)
+- [Elephants](./elephants.md)
+- [Flies](./flies.md)
+- [Frogs](./frogs.md)
+- [Gibbons](./gibbons.md)
+- [Goats](./goats.md)
+- [Lizards](./lizards.md)
+- [Lobsters](./lobsters.md)
+- [Octopus](./octopus.md)
+- [Oxen](./oxen.md)
+- [Tigers](./tigers.md)
+- [Turtles](./turtles.md)
+- [Moths](./moths.md)
+- [Butterflies](./butterflies.md)
+- [Fireflies](./fireflies.md)
+- [Sea-snakes](./sea-snakes.md)
+- [Wasps](./wasps.md)
+
 ### Animals in Malay Vernacular Literature
 
 The most extensive literary treatment of animals in the Society's journal appears in H. O. Overbeck's 1934 article on Malay animal and flower *shaer* (verse romances), which argues that these poems are not mere fables or erotic verse but veiled accounts of real human love-tragedies and court intrigues, composed in the Malay tradition of allusion to avoid naming real persons [[1]](#ref-1). Overbeck draws on manuscripts in Batavia, Leiden, and London, as well as lithographed editions from Singapore, to demonstrate that the non-human characters in these poems map onto recognizable social types—travelling merchants, court retainers, princesses, and their duennas—and that the genre fills a gap in classical Malay literature by revealing the emotional life of ordinary Malays [[1]](#ref-1).
@@ -102,39 +136,6 @@ The 2021 roundtable on orangutan rehabilitation represents the most recent phase
 
 Taken together, these four works trace a trajectory from the practical and institutional (Ridley's menagerie), through the literary and philological (Overbeck's *shaer*), to the ethnographic (Harrisson's nomads) and finally to the critical-theoretical (the Parreñas roundtable), each phase expanding the question of what animals mean and how they are known within the scholarly traditions of the region.
 
-## Members & Sub-Topics
-- [Ants](./ants.md)
-- [Apes](./apes.md)
-- [Badgers](./badgers.md)
-- [Bats](./bats.md)
-- [Bees](./bees.md)
-- [Beetles](./beetles.md)
-- [Birds](./birds.md)
-- [Buffaloes](./buffaloes.md)
-- [Butterflies](./butterflies.md)
-- [Cattle](./cattle.md)
-- [Centipedes](./centipedes.md)
-- [Crabs](./crabs.md)
-- [Crocodiles](./crocodiles.md)
-- [Deer](./deer.md)
-- [Dogs](./dogs.md)
-- [Dragonflies](./dragonflies.md)
-- [Elephants](./elephants.md)
-- [Flies](./flies.md)
-- [Frogs](./frogs.md)
-- [Gibbons](./gibbons.md)
-- [Goats](./goats.md)
-- [Lizards](./lizards.md)
-- [Lobsters](./lobsters.md)
-- [Octopus](./octopus.md)
-- [Oxen](./oxen.md)
-- [Tigers](./tigers.md)
-- [Turtles](./turtles.md)
-- [Moths](./moths.md)
-- [Butterflies](./butterflies.md)
-- [Fireflies](./fireflies.md)
-- [Sea-snakes](./sea-snakes.md)
-- [Wasps](./wasps.md)
 
 ## Human relations with animals
 

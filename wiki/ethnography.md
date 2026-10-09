@@ -120,12 +120,6 @@ The most recent contributions—Porath's 2015 recovery of *maya* and Wee's 2018 
 
 The overall trajectory of the ethnographic literature in the Society's journals thus moves from the descriptive and typological to the analytical and theoretical, from the documentation of static cultural traits to the study of cultural change, dissolution, and the negotiation of identity under the pressures of state formation, migration, and globalisation.
 
-## Borneo
-<!-- Synthesis engine: Insert borneo details here -->
-
-## Fiji, Formosa, and Indo-China
-<!-- Synthesis engine: Insert fiji, formosa, and indo-china details here -->
-
 ## Malaya
 
 For ethnographic study of Malaya, see [Malay culture and society](./malay-culture-and-society.md)
@@ -133,15 +127,6 @@ For ethnographic study of Malaya, see [Malay culture and society](./malay-cultur
 ## Orang Asli
 
 For ethnographic study of Orang Asli, see [Orang Asli](./orang-asli)
-
-## Singapore and Riau
-<!-- Synthesis engine: Insert singapore and riau details here -->
-
-## Sumatra
-<!-- Synthesis engine: Insert sumatra details here -->
-
-## Thailand
-<!-- Synthesis engine: Insert thailand details here -->
 
 ## MBRAS Sources
 

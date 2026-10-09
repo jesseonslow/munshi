@@ -16,7 +16,7 @@ generated: true
 
 # Begonias
 
-### Taxonomic Scope and Morphological Diversity
+## Taxonomic Scope and Morphological Diversity
 
 The genus *Begonia* in the Malay Peninsula and Borneo presents a flora of considerable taxonomic complexity, characterised by a wide range of growth forms, substrate specialisations, and morphological variability that has challenged systematic delimitation since the earliest botanical surveys. H. N. Ridley, Director of the Singapore Botanic Gardens, addressed this challenge directly in his 1906 treatment of Bornean species, which described sixteen new taxa and revised several previously known ones, extending the documented range of the genus in the island from a handful of described species to over twenty [[1]](#ref-1). Ridley's central concern was the floristic poverty of the existing literature relative to the actual diversity present in the field, a gap he sought to close through formal species descriptions accompanied by a diagnostic key sorting the twenty-one species into three sections: *Petermannia* (tall-stemmed, three-winged capsules), *Bractibegonia* (short-stemmed or rhizomatous, often with prominent bracts), and *Platycentrum* (epiphytic, with a single large capsule wing) [[1, pp. 247–249]](#ref-1).
 
@@ -24,7 +24,7 @@ A recurring difficulty in begonia taxonomy, as Ridley identified, is the unrelia
 
 Beyond Borneo, the genus extends into the limestone islands of the northern Malay Peninsula. I. H. Burkill described *Begonia haniffii* in 1918, a small tuberous species collected from the limestone islands of Lankawi, which he positioned as the counterpart to *B. curtisii* from Kasoom in the Siamese Malay States [[2, p. 103]](#ref-2). Burkill's morphological account noted crimson translucent stems, dark green leaves densely covered with silvery spots of air-containing cells, and white flowers with crimson-veined petals [[2, p. 104]](#ref-2). The species was distinguished from *B. curtisii* principally by its much more winged fruit and longer leaves [[2, p. 104]](#ref-2).
 
-### Ecological Associations and Substrate Specialisation
+## Ecological Associations and Substrate Specialisation
 
 A prominent ecological theme in the Bornean begonia flora is the association of smaller, more ornamental species with limestone and sandstone substrates. Ridley documented *B. speluncae*, with its tufts of round leaves and white flowers, growing abundantly in cave mouths; *B. promethea* clinging flat to the vertical sandstone faces of Bukit Tendong near Busan; and both *B. rubida* and *B. pendula* recorded from the Jambusan limestone caves [[1, pp. 252–259]](#ref-1). *B. promethea* was particularly notable for its extreme substrate specialisation, growing with only two or three large leaves pressed flat against vertical rock faces [[1, p. 259]](#ref-1). Ridley singled it out as "perhaps the most worthy of cultivation" among the foliage plants, noting that two specimens he brought to Singapore flowered readily in December and January [[1, p. 259]](#ref-1).
 
@@ -32,7 +32,7 @@ The limestone karst of Sarawak emerged as a centre of begonia diversity, with lo
 
 In the northern Malay Peninsula, *B. haniffii* exhibited a distinct phenological strategy adapted to the seasonal climate of Lankawi. Burkill recorded that leaves appeared in March and stems withered in October, with the species surviving the dry season as underground tubers [[2, p. 104]](#ref-2). This tuberous habit, combined with the silvery air-containing cells on the leaf surface, suggests adaptations to the periodic water stress characteristic of limestone island environments.
 
-### Cultivation and Horticultural Interest
+## Cultivation and Horticultural Interest
 
 The ornamental potential of Bornean begonias attracted early attention from botanists engaged in the practical work of the Singapore Botanic Gardens. Ridley's fieldwork in Sarawak during the 1890s and early 1900s was not purely taxonomic; he actively transplanted specimens to Singapore to test their viability under cultivation [[1, pp. 259]](#ref-1). *B. promethea* proved particularly successful in this regard, with two specimens flowering within months of transplantation [[1, p. 259]](#ref-1). This practice of moving plants from their native limestone and sandstone habitats to the Gardens represented an early form of ex-situ conservation, though Ridley's primary motivation was horticultural rather than conservationist in the modern sense.
 

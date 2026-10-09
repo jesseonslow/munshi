@@ -24,7 +24,7 @@ generated: true
 
 The Church of St. Paul in Malacca stands as the most extensively documented ecclesiastical structure in the Society's published literature, its history spanning from the Portuguese conquest of 1511 to the Dutch appropriation of 1641 and beyond. The building, perched on the hill that once crowned the Malay royal palace, served successively as a military chapel, a Jesuit mission church, a Protestant place of worship, and finally a ruin whose surviving shell became a site of archaeological and architectural debate. Two articles published in the same issue of the *JMBRAS* in 1934—one a rebuttal by Father R. Cardon, the other a historical reconstruction by Father Schurhammer, S.J.—together constitute the most concentrated treatment of a single church in the Society's journal, and they illuminate not only the building's own history but also the broader patterns of Christian institutional presence in the Malay Peninsula during the early modern period. [[1, pp. 38–39]](#ref-1) [[2, pp. 40–43]](#ref-2)
 
-### Origins and Architectural Development
+## Origins and Architectural Development
 
 The church's origins are inseparable from the Portuguese military establishment at Malacca. Albuquerque erected the original chapel, dedicated to *Nossa Senhora do Monte* (Our Lady of the Annunciation), in 1511 alongside the fortress, and a retable was requested from the King of Portugal as early as that year. [[2, p. 40]](#ref-2) The chapel served a dual function: as a place of worship for the garrison and as a navigational landmark for vessels entering the strait. [[2, p. 40]](#ref-2) The site was deliberately chosen on the hill of the former Malay royal palace, and Schurhammer argues that the underground caves visible in the surviving structure may be remnants of that palace, a hypothesis consistent with Gaspar Correia's description of Malaccan houses built "half buried in the ground." [[2, p. 43]](#ref-2)
 
@@ -32,7 +32,7 @@ The chapel was transferred to the Jesuits by the Bishop of Goa between 1548 and 
 
 The architectural character of the rebuilt church has been the subject of specific scholarly dispute. Cardon, in rebutting claims by Mr. Macdonald that the nave was merely a refectory, pointed to its high windows, a gable end with a great door, and a circular window replacing a rose window as features characteristic of a Catholic church of the period, comparable to contemporary Moroccan examples. [[1, p. 38]](#ref-1) He further argued that the military style of the choir and sacristy tower reflected the strategic importance of the hill rather than indicating the oldest part of the building. [[1, p. 38]](#ref-1)
 
-### Institutional Life and the Jesuit College
+## Institutional Life and the Jesuit College
 
 The church was never an isolated structure but the nucleus of a growing Jesuit college. In the 1570s, Visitor Valignano oversaw a major rebuilding programme that produced what contemporaries called "one of the best Colleges in the whole of India." [[2, p. 41]](#ref-2) The college comprised eight rooms with a verandah commanding a view of sea and land. [[2, p. 41]](#ref-2) The church itself served as a waystation for Jesuits travelling to the Moluccas, Japan, and China, anchoring it within the broader network of the Society's Asian missions. [[2, p. 41]](#ref-2)
 
@@ -40,7 +40,7 @@ The tropical climate imposed a relentless burden of maintenance. By 1598, the re
 
 The church also became a site of significant hagiographic activity. Cardon, correcting Macdonald's account of St. Francis Xavier's exhumation in 1552, quoted Bartoli and Maffei to show that the procedure was motivated by personal attachment and the desire to convey the body to Goa, rather than simply to place it in a magnificent coffin. [[1, p. 39]](#ref-1) This episode, while specific to one saint, illustrates the way the church functioned as a node in the devotional and administrative life of the Jesuit province.
 
-### Dutch Conquest and Aftermath
+## Dutch Conquest and Aftermath
 
 The Dutch conquest of Malacca in 1641 brought an abrupt end to the church's Catholic function. The building was converted for Protestant use, and the college site was incorporated into the Dutch fortress. [[2, p. 42]](#ref-2) By 1730, a Jesuit correspondent in Lisbon reported that "hardly anything left but the pillars" remained of the original complex. [[2, p. 42]](#ref-2) The building thus passed from a site of active worship to a ruin, its remaining shell preserved by accident rather than by any deliberate act of conservation.
 

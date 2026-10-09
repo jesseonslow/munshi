@@ -19,11 +19,11 @@ generated: true
 
 The archival record for John Desmond Gimlette consists of a single one-page obituary by R. O. Winstedt published in 1934; no further biographical detail, career account, or scholarly assessment survives in the Society's literature.[[1]](#ref-1)
 
-### Identity and Context
+## Identity and Context
 
 John Desmond Gimlette was a member of the Straits Settlements Civil Service who died in the early 1930s, his passing being noted by R. O. Winstedt in the *Journal of the Malayan Branch of the Royal Asiatic Society* in 1934.[[1]](#ref-1) The obituary appears in Volume 12, Part 2, page 184, a section of the journal devoted to notices of deceased members and associates of the Society and its wider scholarly community.[[1]](#ref-1) No further particulars of his date of birth, posting history, or specific administrative duties are recorded in the available archival material.[[1]](#ref-1)
 
-### The Obituary and Its Significance
+## The Obituary and Its Significance
 
 Winstedt's notice, though brief, is characteristic of the obituary tradition maintained in the Society's journal throughout the interwar period, in which senior members recorded the deaths of colleagues and correspondents with a degree of personal warmth.[[1]](#ref-1) The fact that Winstedt—a figure of considerable standing in Malayan historiography and administration—undertook to write the notice suggests that Gimlette occupied a position of some professional respect within the colonial service or its associated scholarly circles.[[1]](#ref-1) The obituary's placement alongside other notices in the same issue of the journal indicates it was part of a regular feature rather than a special commemorative publication.[[1]](#ref-1)
 

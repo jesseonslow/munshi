@@ -19,7 +19,7 @@ generated: true
 
 The Malayan armed forces comprised a constellation of locally recruited military and paramilitary units that served the British colonial administration and the Malay rulers across the Straits Settlements and the Protected and Federated Malay States from the 1870s to the mid-twentieth century. These forces—ranging from the small bodies of Indian sepoys first raised in Perak in 1873 to the Malay Regiment of 1933 and the Johore Military Forces of 1885—emerged from the practical security demands of a rapidly developing colonial periphery, where Chinese immigration, secret society violence, and Malay state warfare created an urgent need for disciplined armed power that the regular British garrison could not supply in sufficient numbers. Over the course of seven decades, these units evolved from ad hoc police detachments into professional regiments with defined military roles, imperial defence obligations, and, in the case of the Malay Regiment, a political significance that transcended their combat capability. [[1, pp. 51–94]](#ref-1) [[2, pp. 199–243]](#ref-2) [[3, pp. 95–105]](#ref-3)
 
-### Origins and Institutional Evolution
+## Origins and Institutional Evolution
 
 The institutional lineage of the Malayan armed forces begins in Larut, Perak, in 1873, when Captain T.C.S. Speedy enlisted 110 discharged sepoys at Calcutta for Mentri Ngah Ibrahim, the ruler of Larut, who had been compelled to live in semi-exile in Krian after the fighting between the Ghi Hin and Hai San factions in 1872. [[1, pp. 49–50]](#ref-1) The sepoys were to be the nucleus of the Perak Police, and Speedy was appointed Assistant Resident by Sir Andrew Clarke, who wanted a man on the spot with the confidence of the Straits Settlements Government, the Malay chiefs, and the headmen of both rival Chinese factions. [[1, p. 50]](#ref-1) By the end of 1874 the force had grown to 266 men, and the Chinese population of the Taiping area had surged from 4,000 to 25,000 in twelve months. [[1, pp. 51–53]](#ref-1)
 
@@ -31,7 +31,7 @@ The Federation Agreement of 1896 provided for the maintenance of a locally recru
 
 In parallel, Sultan Abu Bakar of Johore established the Johore Military Forces in late 1885 with 60 Malay infantrymen and 20 Afghan *astana* guards, following the Anglo-Johore Treaty that designated Johore an "Independent State." [[3, pp. 95–97]](#ref-3) The JMF was conceived as a genuine instrument of state sovereignty, complementing the treaty's joint-defence obligations with the Straits Settlements. [[3, p. 95]](#ref-3) By 1895 total strength reached 270, though it fell to 188 by 1897 due to the state's debt crisis. [[3, pp. 95–97]](#ref-3) Sultan Ibrahim's personal intervention from 1901 onward restored the Force's discipline, equipment, and morale. [[3, p. 96]](#ref-3)
 
-### Military Service and Imperial Defence
+## Military Service and Imperial Defence
 
 The Malay States Guides fulfilled their primary role as part of Singapore's garrison throughout the pre-war period. [[1, p. 71]](#ref-1) Three infantry companies and the artillery company took part in the annual mobilisation of troops in Singapore and were exercised over the area in the vicinity of Labrador Villa, which was to be their responsibility in time of war. [[1, p. 71]](#ref-1) In 1887 Sir Frederick Weld informed the Secretary of State that in an emergency 250 men of the Perak Sikhs and the artillery "could embark from Perak at an hour's notice, perfectly equipped in every respect for instant service on landing." [[1, p. 66]](#ref-1)
 
@@ -43,7 +43,7 @@ The Johore Military Forces demonstrated their practical military value during th
 
 The Malay Regiment, formed at Port Dickson on 1 March 1933 with an initial "Experimental Company" of 25 recruits selected from over a thousand applicants, was the first regular Malay military unit in the Peninsula. [[2, pp. 199–205]](#ref-2) By October 1938 it had nearly reached its full peace-time complement of 17 British officers, 6 Malay officers, 11 British warrant officers, and 759 other ranks. [[2, p. 214]](#ref-2) The 2nd Battalion was officially formed on 1 December 1941 with a total strength of 453 men. [[2, pp. 218–219]](#ref-2)
 
-### The Second World War and Disbandment
+## The Second World War and Disbandment
 
 The Malayan Campaign of 1941–42 tested all three forces. The Malay Regiment, at the time of the Battle of Singapore numbering approximately 1,400 including raw recruits, suffered a total of 159 killed—six British officers, seven Malay officers, and 146 other ranks—concentrated mainly on 12–14 February 1942. [[2, pp. 230]](#ref-2) Within a fortnight of the surrender, five Malay officer-internees were summarily executed for refusing to serve under the Japanese or accept civilian release, and a party of 98 Malay personnel was machine-gunned near the Gap. [[2, p. 244]](#ref-2)
 
@@ -53,7 +53,7 @@ The Malay States Guides had already been disbanded in Aden at the end of 1919. [
 
 Following the Malayan Union of 1946, all JMF members except a retained company of 100 were discharged with effect from 31 July 1946. [[3, pp. 104–105]](#ref-3) The Sultan was appointed an honorary Major General in the British Army in 1947. [[3, p. 105]](#ref-3)
 
-### Political Significance and Malay Military Identity
+## Political Significance and Malay Military Identity
 
 A recurring theme across all three forces is the tension between their political purpose as symbols of Malay participation in national defence and the practical military realities of their formation and employment. [[2, p. 200]](#ref-2) The Malay Regiment fulfilled a decades-long political aspiration of the Malay rulers and their subjects to share responsibility for the defence of their homeland. [[2, p. 199]](#ref-2) The delay between the first formal proposal in the Federal Council in 1913 and actual formation in 1933 was driven by lingering colonial suspicion of Malay martial capacity, the absence of any tradition of regular Malay armies since the Malacca Empire, the high cost of the Burma Rifles garrison maintained under the 1895 Treaty, and the economic pressures of the Depression. [[2, pp. 199–205]](#ref-2)
 

@@ -18,13 +18,13 @@ generated: true
 
 Cooperative societies in colonial Malaya were introduced in 1922 with the promulgation of the Cooperative Societies Enactment, a policy aligned with contemporaneous colonial initiatives in India, Burma, and other dependencies. The movement was designed to address the persistent indebtedness of agricultural smallholders and workers by introducing competitive credit sources into the unorganised money market, while simultaneously inculcating concepts of thrift, collective ownership, and participatory governance into communities previously structured around feudal and traditional hierarchies. [[1, pp. 151–152]](#ref-1)
 
-### Scope and Historical Definition
+## Scope and Historical Definition
 
 The cooperative movement in Malaya was distinctly sectoral and, as the Cooperative Department itself acknowledged, racial in its organisation, with separate categories for Malay, Indian, and Chinese cooperation, the urban sector being the sole exception to this division. [1, p. 152, n.1] In the smallholding sector, Rural Cooperative Credit Societies (RCCS) and Seasonal Cooperative Credit Societies (SCCS) addressed credit needs, while Better Living Societies (BLS) and General Purpose Societies (GPS) targeted social expenditure and community development. Among urban government servants, Thrift and Loan Societies (T & L) provided credit and savings facilities; for Indian estate labourers, Labourers Cooperative Credit Societies (LCCS) functioned primarily as savings and investment organisations. [[1, pp. 151–152]](#ref-1)
 
 The first rural cooperative credit societies were formed through the initiative of the District Officer of Krian, who convened a meeting of his *penghulus* (village headmen) in October 1921 to discuss their formation among Malay padi planters. [1, p. 164, n.15] By 1939, total membership across all society types in the Federated Malay States exceeded 83,000, with LCCS alone accounting for 55,880 members. [[1, p. 167]](#ref-1)
 
-### Economic Dynamics
+## Economic Dynamics
 
 L.J. Fredericks' analysis of loan utilisation data from the Annual Reports on the Working of Cooperative Societies (1925–31) reveals that the largest single category of loan use across all society types was the settlement of prior debts, accounting for approximately 40 per cent of total funds. [[1, pp. 153–154]](#ref-1) For RCCS members, the next most important categories were land purchase, cultivation expenses, and the purchase of cattle; for T & L members, confinement and medical expenses, marriage, and leave and passage expenses followed. [[1, p. 153]](#ref-1)
 
@@ -32,7 +32,7 @@ T & L societies demonstrated the most sustained economic impact. Total loans gre
 
 Marketing cooperatives proved far less successful. The first rubber marketing society was organised in 1930, but these and later attempts failed; by 1939, only eight joint rubber marketing groups were in operation. [[1, pp. 160–161]](#ref-1)
 
-### Social Impact and Administrative Framework
+## Social Impact and Administrative Framework
 
 Fredericks argues that the social impact of cooperation was more significant among Malay smallholders than among urban workers. The cooperative institution introduced Western economic concepts—share capital, interest, revolving funds, investment, bonuses, rebates—into a feudal-traditional economy, while its administrative procedures (elections, one-man-one-vote voting, delegation of powers to managing committees) propagated the germ of participatory and parliamentary democracy. [[1, pp. 161–162]](#ref-1)
 

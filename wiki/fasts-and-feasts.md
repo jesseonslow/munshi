@@ -32,13 +32,13 @@ generated: true
 
 The archival record on fasts and feasts in the Malay world is limited to a single substantive contribution: a 1949 article by Zainal Abidin bin Ahmad in the *JMBRAS*, which examines Malay festivals and their relationship to religious observance, including fasting practices [[1]](#ref-1). No other records in the Society's literature address the topic of feasting, food rituals, or the broader cultural economy of fasting and celebration in the Malay Peninsula or Borneo. The following article therefore reflects the narrow scope of available documentation and does not extrapolate beyond what the record supports.
 
-### Scope and Historical Definition
+## Scope and Historical Definition
 
 Zainal Abidin bin Ahmad's 1949 article, "Malay festivals, and some aspects of Malay religious life," constitutes the sole dedicated treatment of fasting and festival observance in the Society's published literature [[1]](#ref-1). The article situates Malay festivals within the broader framework of religious life, examining how periodic observances—particularly those tied to the Islamic calendar—structure communal and individual practice among Malay-speaking populations [[1]](#ref-1). The work addresses the interplay between ritual obligation and social custom, noting that festivals serve not only as expressions of faith but also as occasions for communal gathering, redistribution, and the reinforcement of social bonds [[1]](#ref-1).
 
 The article does not provide a comprehensive catalogue of all festivals observed across the Malay world, nor does it extend its analysis to Borneo or to non-Muslim communities in the region [[1]](#ref-1). Its focus is on the Malay religious calendar as it pertains to Islamic observance, with particular attention to the period of fasting (*puasa*) and the subsequent celebration that marks its conclusion [[1]](#ref-1). Zainal Abidin treats these observances as integral to the rhythm of Malay religious life rather than as isolated events, emphasising their role in marking temporal cycles and reinforcing collective identity [[1]](#ref-1).
 
-### Religious and Social Dimensions
+## Religious and Social Dimensions
 
 The article examines how fasting functions within the Malay religious framework, noting that the observance of *puasa* during the month of Ramadan is understood as a pillar of Islamic practice and is observed with varying degrees of strictness across different communities [[1]](#ref-1). Zainal Abidin documents the social dimensions of this observance, observing that the communal breaking of the fast (*berbuka puasa*) serves as a significant social event that reinforces neighbourhood and kinship ties [[1]](#ref-1). The act of shared eating at the close of each day of fasting is presented as a practice that transcends mere physical sustenance, carrying symbolic weight as an expression of solidarity and mutual obligation [[1]](#ref-1).
 
@@ -46,7 +46,7 @@ The article further considers the feast that follows the completion of the fasti
 
 The article also touches upon the role of food in festival observance more broadly, noting that certain dishes and preparations are associated with specific festivals and that the preparation of these foods constitutes a significant element of the observance [[1]](#ref-1). However, the article does not provide detailed recipes or a systematic account of festival foods, and its treatment of the culinary dimension remains brief [[1]](#ref-1).
 
-### Limits of the Record
+## Limits of the Record
 
 The available documentation on fasts and feasts in the Society's literature is confined to the single article by Zainal Abidin bin Ahmad [[1]](#ref-1). No other contributions in the *JSBRAS* or *JMBRAS* address the topic of fasting, feasting, or festival food practices in the Malay world. The 1977 Centenary Volume, which selected thirty articles from the Society's published output spanning 1878 to 1976, does not include a contribution on this subject [[2]](#ref-2). This absence suggests that the topic was not a priority for the Society's contributors over its first century of publication, or that relevant material was subsumed within broader studies of Malay society, religion, or custom that did not use the terminology of "fasts and feasts" as a defining category [[2]](#ref-2).
 

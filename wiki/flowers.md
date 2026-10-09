@@ -26,9 +26,6 @@ I am unable to write this article. The Archival Evidence Records section provide
 
 If you can provide the relevant archival records—such as journal articles, specimen reports, or notes from the Society's publications that discuss flowers in the Malay Peninsula or Borneo—I will compose the article in full accordance with the house styleguide and structural requirements.
 
-## In poetry
-<!-- Synthesis engine: Insert in poetry details here -->
-
 ## MBRAS Sources
 
 ### In poetry

@@ -34,6 +34,15 @@ generated: true
 
 Games in the Malay Peninsula and Borneo encompass a wide range of recreational and gambling activities documented from the late nineteenth century through the mid-twentieth century, spanning Chinese lotteries, Malay board games, card games, and outdoor entertainments. The literature reveals a region in which gaming served simultaneously as a social institution, an economic activity, and a source of administrative concern for colonial authorities. The games recorded range from the highly organised Chap-Ji-Ki lottery that swept through Singapore's Chinese trading community in the 1890s [[1]](#ref-1) to the village-level board games played with tamarind seeds on boat-shaped boards [[2]](#ref-2), and from the complex rule systems of Malay chess [[3]](#ref-3) to the simple shell-scattering games of small children [[4]](#ref-4).
 
+## Members & Sub-Topics
+- [Cards](./cards.md)
+- [Kites](./kites.md)
+- [Hua-hoey](./hua-hoey.md)
+- [Lottery](./lottery.md)
+- [Chap-ji-ki](./chap-ji-ki.md)
+- [Chess](./chess.md)
+- [Chongkak](./chongkak.md)
+
 ### Chinese Lotteries and Gambling
 
 The most extensively documented category of games in the archival record concerns Chinese gambling practices in the Straits Settlements, particularly the two major lottery systems that operated in Penang and Singapore during the late nineteenth century.
@@ -73,15 +82,6 @@ The interwar and post-war period introduces a different register. Samusah's bili
 ## Chinese Games
 
 ##  Malay Games
-
-## Members & Sub-Topics
-- [Cards](./cards.md)
-- [Kites](./kites.md)
-- [Hua-hoey](./hua-hoey.md)
-- [Lottery](./lottery.md)
-- [Chap-ji-ki](./chap-ji-ki.md)
-- [Chess](./chess.md)
-- [Chongkak](./chongkak.md)
 
 ## MBRAS Sources
 

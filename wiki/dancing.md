@@ -28,7 +28,7 @@ generated: true
 
 Dancing in the Malay Peninsula and Borneo encompasses a diverse range of performance traditions that span courtly, ritual, and popular registers, each embedded in specific cultural, religious, and social contexts. From the classical court nautch observed in Pahang in the 1870s to the folk dance-theatre of *Nora Chatri* in Kedah and the semi-religious *Rodat* of Trengganu, these forms reveal a region where dance functions simultaneously as entertainment, spiritual practice, and marker of social identity. The traditions documented in the Society's literature reflect varying degrees of cross-cultural influence—Javanese, Thai, Arabic, and Indian—while remaining firmly rooted in local Malay, Thai, and broader Southeast Asian performance cultures. The records attest to forms that were, at the time of their documentation, either rare, on the verge of disappearance, or sustained by small communities of practitioners, underscoring the urgency with which early observers sought to record them.
 
-### Scope and Historical Definition
+## Scope and Historical Definition
 
 The earliest European ethnographic account of a Malay dance performance in the Society's literature is F. A. Swettenham's description of a *nautch* witnessed at the residence of the Bandahara of Pahang in early 1875. Swettenham, then on a diplomatic mission, was invited at two in the morning to attend a performance already in progress at the Bandahara's *balei* (hall) [[1, pp. 163–164]](#ref-1). The performance featured four female dancers—two approximately eighteen and two approximately eleven years old—who were members of the Bandahara's own household rather than professional performers [[1, p. 164]](#ref-1). They were dressed in elaborate silk and cloth-of-gold costumes with gold head ornaments, diamond rings, and gold bangles [[1, p. 164]](#ref-1). Swettenham considered the form rare, seldom witnessed by Europeans, and hitherto undescribed in the Malay Peninsula [[1, p. 163]](#ref-1).
 
@@ -38,7 +38,7 @@ By contrast, the *Nora Chatri* tradition documented by Ghulam Sarwar Yousof in 1
 
 The *Rodat* of Trengganu, documented by M. C. ff Sheppard in 1938, occupies a distinct position as a traditional male performance combining Arabic religious chanting with popular song and graceful dance [[3, pp. 109–110]](#ref-3). At the time of Sheppard's observation, the form was practised exclusively in Trengganu and was on the verge of disappearing from the wider Malay Peninsula [[3, p. 109]](#ref-3). The name *Rodat* derives from the Arabic *Raddad* (repeater or answerer), a title given to skilled chanters in the original *Rateb* tradition [[3, p. 110]](#ref-3).
 
-### Ritual Architecture and Performance Structure
+## Ritual Architecture and Performance Structure
 
 The *Nora Chatri* performance exhibits a highly structured ritual architecture that distinguishes it from purely entertainment-oriented forms. The overall structure is characteristic of both ritual and non-ritual performances, though in the latter category trance sessions are completely omitted while other ritual elements such as the *Wai Kru* (Salutation to the Teachers) are considerably reduced [[2, p. 59]](#ref-2). Non-ritual performances are rather infrequent, as the genre retains a considerable aura of the sacred [[2, p. 59]](#ref-2).
 
@@ -54,7 +54,7 @@ The *Rodat* performance, by contrast, is structured around an alternation of sem
 
 Swettenham's *nautch* also concluded with a ritual dimension: the performance culminated in a state of *hantu menari* (possession by the Spirit of Dancing), during which the two eldest dancers became so agitated that they had to be forcibly removed from the hall by four or five women [[1, p. 167]](#ref-1). The Bandahara, who appeared around four in the morning, told Swettenham that one of the girls, when "properly" possessed, ate nothing but flowers for months—a detail Swettenham records as "a pretty and poetic conceit" [[1, p. 167]](#ref-1).
 
-### Musical Accompaniment and Costume
+## Musical Accompaniment and Costume
 
 The musical accompaniment to *Nora Chatri* is provided by a fairly simple set of instruments also used to accompany the *Wayang Kulit Gedek*, a form of shadow theatre coregional with *Nora Chatri* and with obvious Thai links. The ensemble consists of a double-reed oboe (*serunai*), a pair of single-headed stick drums (*gedug*), a pair of single-headed hour-glass shaped drums (*gedumbak*), a pair of small hand cymbals (*kesi* or *ching*), and several pairs of bamboo or wooden slabs serving as clappers [[2, p. 53]](#ref-2). The *serunai* is the melodic instrument, and the orchestra generally remains silent during *lakons*, except to punctuate an occasional dramatic moment [[2, p. 53]](#ref-2).
 
@@ -62,7 +62,7 @@ The dancer's costume in *Nora Chatri* is distinct and elaborate, comprising the 
 
 The *Rodat* orchestra, as noted, consists exclusively of *Tar* drums, a feature Sheppard traces to the *Rateb Pulet* variety of the Arabic-Achinese tradition [[3, p. 110]](#ref-3). The *nautch* orchestra, with its Javanese instruments, represents a different lineage entirely, one that Swettenham noted was rarely encountered in the Malay Peninsula at the time of his observation [[1, p. 165]](#ref-1).
 
-### Genealogical and Cultural Connections
+## Genealogical and Cultural Connections
 
 Sheppard's central contribution lies in his genealogical linking of the *Rodat* to the broader Arabic-Achinese *Rateb* tradition, a connection not previously made explicit in the literature [[3, p. 110]](#ref-3). He identifies specific borrowings: the "pantomime fairies" derive from the *Rateb Sadati*, in which a single boy dressed as a princess was called *Sadati* (an Arabic word used in a lover's lament), and the tambourine orchestra comes from the *Rateb Pulet* [[3, p. 110]](#ref-3). The *Rodat* reached Trengganu via Sambas (Borneo) traders who visited annually in the fine weather and performed the dance during their stay; local people then learned it from them [[3, p. 110]](#ref-3). Sheppard is careful to note that the *Rodat* has no real religious significance in Trengganu, the Arabic recitations are meaningless to the performers, and unlike the Sumatran *Rateb* there is no competitive rivalry between rival troupes [[3, p. 110]](#ref-3).
 

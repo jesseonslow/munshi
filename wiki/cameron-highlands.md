@@ -18,7 +18,7 @@ generated: true
 
 The Cameron Highlands is a highland plateau in the state of Pahang, on the Malay Peninsula, situated at an altitude of approximately 1,432 metres in the Bertam Valley [[1, p. 105]](#ref-1). Named after the Government surveyor William Cameron, who explored the region in the mid-1880s, the area has served as a hill station, agricultural zone, and tourist destination from the colonial period to the present [[1, p. 101]](#ref-1). Its economic base rests on agriculture and tourism, both of which continue to expand and generate environmental pressures [[1, p. 101]](#ref-1). The highlands also form the southern terminus of a route through the interior of Ulu Kelantan, linking the plateau to the East Coast Railway via the valleys of the Sungai Ber and Sungai Brok, where the Temiar people maintain traditional settlements [[2, pp. 288–293]](#ref-2).
 
-### Origins and the Question of Naming
+## Origins and the Question of Naming
 
 The attribution of the name "Cameron's Highlands" to William Cameron rests on a chain of geographical errors that persisted for decades. Cameron's first expedition, beginning in February 1885, followed instructions to traverse from Waterloo Estate up Bubu to Gunong Chabang on the Raia, then east into Pahang and south toward Ulu Bernam or Selangor [[3, p. 124]](#ref-3). During this crossing he discovered a plateau at approximately 4,500 feet elevation in Pahang territory, which he described as "a new and very interesting plateau of country maintaining for miles an average elevation of 4,500 feet on the rivers' banks" [[3, p. 124]](#ref-3). This was not the plateau that subsequently bore his name. The view from Gunong Challi, which Cameron ascended, of the Ulu Bertam is shut out by Gunong Irau and Gunong Batu Berinchang, proving he could not have described the area now called Cameron's Highlands [[4, pp. 2–3]](#ref-4).
 
@@ -28,7 +28,7 @@ The first Europeans to penetrate the Ulu Bertam above the Robinson Falls were H.
 
 Cameron himself died in Singapore on 9 November 1886, having written from the General Hospital on 24 October that he was "suffering again from fever" [[3, p. 126]](#ref-3). His letter of 9 April 1886 to C. V. Creagh, Assistant Resident of Perak, records that he had been "perched up 6,600 feet amidst the mists, rains and bitter cold for three months" in the mountains of Berang, Bil, and Giliting [[3, p. 125]](#ref-3).
 
-### Planning, Settlement, and the Garden City Model
+## Planning, Settlement, and the Garden City Model
 
 The formal planning of the Cameron Highlands as a hill station began in the late 1920s. The 1929 preliminary general zoning plan, chaired by Charles Compton Reade following his official visit to Baguio in the Philippines, divided the highlands into the Southern Highlands and the Cameron Highlands, with the latter subdivided into service, village, administrative, residential, and recreation zones [[1, p. 106]](#ref-1). The town of Tanah Rata, selected as the township site in 1931, was modelled on Baguio, whose layout had been designed by Daniel H. Burnham as a compact garden city for 25,000 to 30,000 people [[1, pp. 105–106]](#ref-1). The 1931 re-zoning plan for the Northern Highlands designated specific areas for agriculture (Area A), armed services (Area D), a park (Area E), viewpoints (Area F), general administration (Area G), recreation and golf (Area H), schools and churches (Area I), a Brinchang Valley Reserve (Area J), and waterworks and catchment areas (Area K) [[1, p. 107]](#ref-1).
 
@@ -36,7 +36,7 @@ Scrivenor, writing in 1931, documented the area's practical advantages as a hill
 
 In the post-independence period, planning documents reveal shifting priorities. The 1960 report made no mention of agriculture or agricultural tourism, whereas the Cameron Highlands Development Plan for 2003–15 called for increases in agro-tourism, eco-tourism, and cultural and heritage tourism [[1, p. 108]](#ref-1). The 2016–2030 local plan proposes an aerial tram between Kuala Terla and Habu or an alternative road from Tringkap to Habu crossing the Mentigi Forest Reserve, both of which would damage environmentally sensitive areas including the Habu water catchment and Robinson Falls [[1, p. 109]](#ref-1).
 
-### Economic and Geological Character
+## Economic and Geological Character
 
 Agriculture is the largest land use in the Cameron Highlands at 5,705 hectares, followed by forestry; approximately 80 per cent of tourists are Malaysians [[1, p. 108]](#ref-1). Baker, writing in 1933, assessed the area between the Pahang and Kelantan boundary and the Sungai Blatop as "a very valuable extension to the Cameron Highlands area" suited to the same type of agriculture, noting it was "a wide valley with small areas of flat land, but in no sense a plateau" [[2, p. 293]](#ref-2). The area between Kuala Betis and Gua Musang comprises roughly 200 square miles of reasonably flat land with excellent soil and good rail and river access, judged suitable for immediate agricultural development [[2, p. 293]](#ref-2).
 
@@ -44,7 +44,7 @@ Geologically, the granite formation of the Cameron Highlands continues down the 
 
 The forests traversed during Baker's journey contained fair stands of *meranti*, *merbau*, *terantang*, *medang*, and *seraya*, with clumps of bamboo abundant everywhere [[2, p. 293]](#ref-2). The *ngeram* tree, found along the river banks, was being carefully preserved in the state as its roots protect the river banks from erosion and its deep shade keeps back *resam* and undergrowth [[2, p. 293]](#ref-2).
 
-### The Temiar and the Interior Route
+## The Temiar and the Interior Route
 
 The route from the Cameron Highlands to the East Coast Railway traverses the previously unmapped interior of Ulu Kelantan, home to the Temiar, a subgroup of the Sakai peoples. Baker estimated the Temiar population of the area at approximately 3,000 individuals [[2, p. 293]](#ref-2). The Temiar in these valleys are described as "a tribe apart," and even to the unscientific observer very different from any of the other Sakai tribes [[2, p. 289]](#ref-2). H. D. Noone, Government Ethnographer of the F.M.S. Museums Department, had described them as "Nessiots," a primitive Indonesian stock who preceded the round-headed Oceanic Mongols [[2, p. 289]](#ref-2).
 

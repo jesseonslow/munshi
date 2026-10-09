@@ -21,7 +21,7 @@ generated: true
 
 John Palmer (c. 1760–1827) was a Calcutta merchant of Portuguese descent, styled the "Prince of Merchants" by Governor-General Lord Hastings, whose correspondence provides a distinctive vantage point on the British strategic and commercial calculus behind the acquisition of Singapore in 1819 and the broader Anglo-Dutch contest for the Straits of Malacca [[1, p. 20]](#ref-1). His letters, held in the India Office Library, illuminate the diplomatic and commercial negotiations that culminated in the Treaty of 1824, offering a perspective less commonly exploited than those from London, Bencoolen, or Batavia [[1, p. 20]](#ref-1). Beyond his commercial eminence, Palmer occupied a significant political position, being "the friend and confidant of a considerable proportion of the men holding high office in the Indian Government from about 1800 until his death," including John Adam and Charles Metcalfe, members of Hastings' Council [[1, p. 20]](#ref-1). He also maintained extensive correspondence with Dutch officials in India and, after his visit in 1821, in Java [[1, p. 20]](#ref-1).
 
-### Strategic Vision and the Straits of Malacca
+## Strategic Vision and the Straits of Malacca
 
 Palmer's political thinking was anchored in a consistent strategic principle: the security of the Straits of Malacca as the principal route to China. He held "no very optimistic opinion of the potentialities of trade in the East Indies, but a very keen appreciation of the strategic importance of the route to China" [[1, p. 21]](#ref-1). This orientation shaped his views on every major question of the period, from the disposition of Dutch continental factories in India to the establishment of British settlements in the Archipelago.
 
@@ -29,7 +29,7 @@ His overarching strategic logic was articulated in a letter to William Farquhar,
 
 This preference did not, however, lead him to oppose the acquisition of Singapore. He recognised its commercial value and its capacity to divert trade from Dutch monopolies, and he supported it as "the first firm Step in the Civilization of the Eastern Tribes" [[1, p. 35]](#ref-1). His support was qualified by the conviction that Singapore alone did not fully secure the Straits, and that a complementary position at the western end remained essential [[1, pp. 35–36]](#ref-1).
 
-### Commercial Diplomacy and the Anglo-Dutch Negotiations
+## Commercial Diplomacy and the Anglo-Dutch Negotiations
 
 Palmer's role as a commercial intermediary between British and Dutch interests gave him a unique position in the negotiations that preceded the Treaty of 1824. He served as the Dutch commercial agent in British India, a connexion that stimulated "his capacity for friendship and his epistolary powers to attempts at conciliation and compromise — but attempts involving the Dutch acceptance of the essentials of the British position" [[1, p. 21]](#ref-1).
 
@@ -39,7 +39,7 @@ After the acquisition of Singapore in January 1819, Palmer continued to promote 
 
 Palmer's personal financial stake in the outcome was considerable. He sent his natural son, Claude Queiros, to Singapore in 1820 to open a commercial office, and told Farquhar in March 1820 that he was "inclined to continue a steady Support to Mr. Q.: for altho I may suffer by its Surrender to the Dutch, I am satisfied that the Influence of your Administration will permanently support, in some place or other, our extended Dealings with the Eastern People" [[1, p. 33]](#ref-1).
 
-### The Treaty of 1824 and Its Aftermath
+## The Treaty of 1824 and Its Aftermath
 
 The negotiations that Palmer had long advocated by correspondence were finally concluded in London, producing the Treaty of 17 March 1824. The Dutch yielded over Singapore, surrendered their continental possessions and Malacca, and accepted reciprocal commercial treatment in British and Dutch settlements, with a boundary line drawn down the Straits of Malacca [[1, p. 40]](#ref-1). Tarling notes that, in theory at least, the Dutch were compensated over Singapore [[1, p. 40]](#ref-1).
 
@@ -47,7 +47,7 @@ Palmer's only recorded comment on the treaty was a brief observation that "Our P
 
 Throughout the period of uncertainty between 1819 and 1824, Palmer maintained a characteristic dual posture: he supported British retention of Singapore while simultaneously acknowledging the strength of the Dutch claim. In a letter to van der Capellen in January 1824, he wrote: "I am myself a convert to the fairness and justice of your Claims, and I consequently wish them to be crowned with that full and special measure of success — by Surrender, or commutation which I know to be the honest Principle for which your Excellency has contended" [[1, p. 38]](#ref-1). He argued that "no illicit acquisition, was ever preserved without as much trouble as dishonor" [[1, pp. 38–39]](#ref-1).
 
-### Research and Documentation
+## Research and Documentation
 
 The principal scholarly treatment of John Palmer's role in the Anglo-Dutch contest is Nicholas Tarling's 1964 article "The Prince of Merchants and the Lion City," which draws extensively on Palmer's letters in the India Office Library (Eng. lett. series, vols. 87–102) [[1]](#ref-1). Tarling's article complements his earlier monograph *Anglo-Dutch Rivalry in the Malay World, 1780–1824* (1962), and provides the Calcutta perspective on negotiations that had previously been examined mainly from London, Bencoolen, and Batavia viewpoints [[1, p. 20]](#ref-1). The article is supplemented by Dutch archival sources, particularly the work of P. H. van der Kemp and M. L. van Deventer, and by C. E. Wurtzburg's *Raffles of the Eastern Isles* (1954), which had previously used many of Palmer's letters [[1, p. 20]](#ref-1).
 

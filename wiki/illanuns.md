@@ -22,7 +22,7 @@ generated: true
 
 The Illanun (also rendered Iranun) are a Muslim maritime and agricultural people whose historical presence spans the Sulu–Mindanao region of the southern Philippines, the coast of Borneo, and the Straits of Malacca. Their significance in the historical record is twofold: as the principal mobile military force of the Sulu sultanate's redistributive economy during the late eighteenth and nineteenth centuries, and as a settled peasant community in North Borneo by the mid-twentieth century. The two facets of this history—the raiding and the farming—have been separated in the literature by a century of colonial conquest, administrative reclassification, and the deliberate construction of a "savage" stereotype that served imperial interests [[1, pp. 43–69]](#ref-1).
 
-### Origins, Migration, and Social Structure
+## Origins, Migration, and Social Structure
 
 The Illanun are the most recent arrivals among the Muslim communities of the Kota Belud district in North Borneo, having come from Mindanao some 150 years before the 1951 ethnographic record of D. Headly [[2, p. 159]](#ref-2). The history of the closely related Bajau people of the same district is obscure, though it is probable that they too came originally from the Philippines [[2, p. 159]](#ref-2). The two groups speak different languages, but proximity and a common religion make intermarriage easy and usual [[2, p. 159]](#ref-2).
 
@@ -30,7 +30,7 @@ Illanun society in Kota Belud divides itself into two main classes, known as *Da
 
 Marriage between persons of a different class is common, but in theory the children of such unions are reduced one step in the social ladder: if either the mother or father is a 15 *pikul* person and the other of any lower class, the children are each worth only 10 *pikuls* [[2, p. 160]](#ref-2). Headly notes that this rule is modified in practice by the social position held by the person of lower class, and that although the classification is the basis for negotiations about dowry, modification is made in many, and possibly the majority of, cases [[2, p. 160]](#ref-2).
 
-### Maritime Raiding and the Global Economy
+## Maritime Raiding and the Global Economy
 
 The earlier phase of Illanun history, as reconstructed by J.F. Warren, is inseparable from the integration of the Sulu sultanate into the emerging global capitalist economy. The opening of the China trade to European merchants in the 1770s and 1780s created an insatiable demand for exotic commodities—sea cucumber, birds' nests, camphor, rattans—that the Sulu sultanate could only supply through the forced labour of tens of thousands of captives [[1, pp. 43–69]](#ref-1). The Iranun, under Taosug sponsorship, were the mobile military arm of this redistributive economy [[1, pp. 43–69]](#ref-1).
 
@@ -38,7 +38,7 @@ Between 1774 and 1798, an estimated 150 to 200 raiding vessels departed annually
 
 Warren's central intervention is to reframe this activity not as a symptom of cultural savagism or civilizational decline, as Raffles and Brooke claimed, but as the operational logic of a trading state competing in a global market [[1, pp. 43–69]](#ref-1). The British East India Company itself was complicit, selling arms and opium to the Iranun as a tacit privateering system to undermine Dutch competitors in the Moluccas and Sulawesi, before turning to condemn the very people it had armed once they became ungovernable [[1, pp. 43–69]](#ref-1).
 
-### Marriage Customs and Economic Rituals
+## Marriage Customs and Economic Rituals
 
 The 1951 record of Headly documents a stratified dowry system, reciprocal payment obligations, and wedding ritual practices among the Illanun and Bajau of Kota Belud [[2, pp. 159–161]](#ref-2). Dowries were originally paid in weight of brass cannon, but this custom has been in abeyance for many years and has been substituted by cash payments; the basis, however, is still the weight of brass cannon and is so referred to locally [[2, p. 159]](#ref-2).
 
@@ -50,7 +50,7 @@ Marriages are usually arranged by the parents, but the children concerned do hav
 
 The dowry is by no means always paid in full, but the balance is payable if the husband divorces the wife through no fault of her own, which acts as a kind of insurance against too hasty action by the husband [[2, p. 161]](#ref-2).
 
-### Conquest, Erasure, and Literary Representation
+## Conquest, Erasure, and Literary Representation
 
 The last Iranun stronghold at Tungku on the east coast of Borneo fell in 1878; Spanish naval campaigns against the Iranun began after 1848 and culminated in the late 1880s with the occupation of the old ruling families of Mindanao [[1, pp. 54]](#ref-1). Warren argues that the dehumanizing "moro/Illanun" stereotype was systematically constructed in colonial official discourse and perpetuated in the fiction of Joseph Conrad, whose Indonesian novels drew on the same imperial sources—Raffles, Brooke, Royal Navy captains—that had justified the conquest and erasure of the Iranun as a people [[1, pp. 43–69]](#ref-1).
 

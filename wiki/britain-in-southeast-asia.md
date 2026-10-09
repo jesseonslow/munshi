@@ -51,7 +51,7 @@ Draft:
 
 Britain's presence in Southeast Asia, spanning the Malay Peninsula, the Indonesian Archipelago, and the broader maritime spaces between them, constitutes one of the longest continuous European colonial engagements in the region. From the first English trading ventures of the early seventeenth century through the post-war planning for a self-governing dominion in the 1950s, British involvement evolved through distinct phases—private commerce, Company-mediated trade, direct political-military intervention, and ultimately decolonisation—shaping the administrative, economic, and diplomatic architecture of the region in ways that persist to the present day [[1]](#ref-1). The territories affected ranged from the Straits Settlements of Penang, Malacca, and Singapore to the Borneo possessions of Labuan, Sarawak, and North Borneo, and extended through diplomatic and commercial channels into Siam, Vietnam, and the Philippines [[2]](#ref-2), [[3]](#ref-3), [[4]](#ref-4), [[5]](#ref-5), [[6]](#ref-6).
 
-### Commercial Foundations and the Company Era
+## Commercial Foundations and the Company Era
 
 The earliest British connection with the Malay world was exclusively commercial. Skinner, writing from within the Straits Settlements administration in 1882, identifies the period 1602–1684 as one of individual trading, during which English ventures were politically subordinate to the Portuguese, Spanish, and Dutch [[1]](#ref-1). The East India Company's formal entry into the region began with the establishment of Bencoolen (modern Bengkulu, Sumatra) in 1685, a settlement whose physical remains—73 tombs, of which 46 bear no inscription—were documented by Brooks in 1918 [[7]](#ref-7). The port's total trade at the time of the 1801 commission was approximately £100,000 per annum [[7]](#ref-7).
 
@@ -61,7 +61,7 @@ The founding of Penang in 1786 marked the transition from trading post to territ
 
 The commercial vulnerability of the Straits Settlements to Dutch competition is illustrated by Bannerman's tin scheme of 1818–19. After the Dutch recapture of Java and the return of Malacca to Dutch control, Penang's tin exports fell from a peak of $336,356 in 1816–17 to $221,458 by mid-1818 [[10]](#ref-10). Bannerman's attempt to have the Company purchase and export tin directly on its own account was a locally improvised commercial intervention driven by the fear that Dutch monopoly treaties would strangle Penang's economic lifeline [[10]](#ref-10). The venture encountered intractable obstacles: the Kuala Muda tax farm levied $15 per bhar on tin, representing over 37 per cent of the Company's purchase price, and the Raja of Kedah refused to terminate the farm for fear of Siamese retaliation [[10]](#ref-10).
 
-### Strategic Policy and the Archipelago
+## Strategic Policy and the Archipelago
 
 The Treaty of 1824, which divided the Malay world between British and Dutch spheres of influence, was a strategic settlement that satisfied neither of the two principal British commercial constituencies [[2]](#ref-2). The Straits merchants, who had hoped for political influence over the native states to protect their entrepôt trade, found the treaty's territorial dispositions inadequate; the Java merchants, who had expected liberal commercial access, discovered that the Dutch imposed duties of 25 per cent on British textiles within months of signature [[2]](#ref-2). Tarling frames the subsequent history as "the study of the reaction between local commercial considerations and broad strategic policies dictated by wider imperial interests" [[2, p. 18]](#ref-2).
 
@@ -75,7 +75,7 @@ British engagement with Vietnam followed a different trajectory. Tarling demonst
 
 In the Philippines, the diplomatic contest over the Sulu Sultanate involved overlapping claims by Spain, France, the Netherlands, and Britain [[6]](#ref-6). Farren, Britain's first Consul in the Philippines (appointed 1844), reported on the complex strategic geometry of the region as a maritime corridor between Australia and China [[6]](#ref-6). The Foreign Office's eventual abandonment of Brooke's 1849 treaty with Sulu in 1852 set the stage for the later Sulu-Sabah boundary dispute [[6]](#ref-6).
 
-### Political Intervention and the Road to Dominion
+## Political Intervention and the Road to Dominion
 
 The transition from commercial outposts to sovereign territory is traced by Skinner through three pivotal administrative dates: 1805 (Penang elevated to a separate Presidency), 1827 (Lord Bentinck's personal settlement of the united Colony), and 1867 (transfer from Indian to Colonial Office rule) [[1]](#ref-1). Colony revenues grew from $1,301,839 in 1868 to $4,756,130 in 1883, with Singapore alone rising from $364,918 to $1,697,920 over the same period [[1]](#ref-1). The Pangkor Treaty of 20 January 1874 established British Residents in Perak, Selangor, and Sungei Ujong; the murder of Resident Birch on 2 November 1875 led to a full military occupation of Perak in January 1876 [[1]](#ref-1).
 
@@ -98,7 +98,7 @@ The most recent contribution, Ranjit Singh's 1998 article, extends the well-stud
 
 Britain's presence in Southeast Asia, spanning the Malay Peninsula, the Indonesian Archipelago, and the broader maritime spaces between them, constitutes one of the longest continuous European colonial engagements in the region. From the first English trading ventures of the early seventeenth century through the post-war planning for a self-governing dominion in the 1950s, British involvement evolved through distinct phases—private commerce, Company-mediated trade, direct political-military intervention, and ultimately decolonisation—shaping the administrative, economic, and diplomatic architecture of the region in ways that persist to the present day [[1]](#ref-1). The territories affected ranged from the Straits Settlements of Penang, Malacca, and Singapore to the Borneo possessions of Labuan, Sarawak, and North Borneo, and extended through diplomatic and commercial channels into Siam, Vietnam, and the Philippines [[2]](#ref-2), [[3]](#ref-3), [[4]](#ref-4), [[5]](#ref-5), [[6]](#ref-6).
 
-### Commercial Foundations and the Company Era
+## Commercial Foundations and the Company Era
 
 The earliest British connection with the Malay world was exclusively commercial. Skinner, writing from within the Straits Settlements administration in 1882, identifies the period 1602–1684 as one of individual trading, during which English ventures were politically subordinate to the Portuguese, Spanish, and Dutch [[1]](#ref-1). The East India Company's formal entry into the region began with the establishment of Bencoolen (modern Bengkulu, Sumatra) in 1685, a settlement whose physical remains—73 tombs, of which 46 bear no inscription—were documented by Brooks in 1918 [[7]](#ref-7). The port's total trade at the time of the 1801 commission was approximately £100,000 per annum [[7]](#ref-7).
 
@@ -108,7 +108,7 @@ The founding of Penang in 1786 marked the transition from trading post to territ
 
 The commercial vulnerability of the Straits Settlements to Dutch competition is illustrated by Bannerman's tin scheme of 1818–19. After the Dutch recapture of Java and the return of Malacca to Dutch control, Penang's tin exports fell from a peak of $336,356 in 1816–17 to $221,458 by mid-1818 [[10]](#ref-10). Bannerman's attempt to have the Company purchase and export tin directly on its own account was a locally improvised commercial intervention driven by the fear that Dutch monopoly treaties would strangle Penang's economic lifeline [[10]](#ref-10). The venture encountered intractable obstacles: the Kuala Muda tax farm levied $15 per *bhar* (a unit of weight) on tin, representing over 37 per cent of the Company's purchase price, and the Raja of Kedah refused to terminate the farm for fear of Siamese retaliation [[10]](#ref-10).
 
-### Strategic Policy and the Archipelago
+## Strategic Policy and the Archipelago
 
 The Treaty of 1824, which divided the Malay world between British and Dutch spheres of influence, was a strategic settlement that satisfied neither of the two principal British commercial constituencies [[2]](#ref-2). The Straits merchants, who had hoped for political influence over the native states to protect their entrepôt trade, found the treaty's territorial dispositions inadequate; the Java merchants, who had expected liberal commercial access, discovered that the Dutch imposed duties of 25 per cent on British textiles within months of signature [[2]](#ref-2). Tarling frames the subsequent history as "the study of the reaction between local commercial considerations and broad strategic policies dictated by wider imperial interests" [[2, p. 18]](#ref-2).
 
@@ -122,7 +122,7 @@ British engagement with Vietnam followed a different trajectory. Tarling demonst
 
 In the Philippines, the diplomatic contest over the Sulu Sultanate involved overlapping claims by Spain, France, the Netherlands, and Britain [[6]](#ref-6). Farren, Britain's first Consul in the Philippines (appointed 1844), reported on the complex strategic geometry of the region as a maritime corridor between Australia and China [[6]](#ref-6). The Foreign Office's eventual abandonment of Brooke's 1849 treaty with Sulu in 1852 set the stage for the later Sulu-Sabah boundary dispute [[6]](#ref-6).
 
-### Political Intervention and the Road to Dominion
+## Political Intervention and the Road to Dominion
 
 The transition from commercial outposts to sovereign territory is traced by Skinner through three pivotal administrative dates: 1805 (Penang elevated to a separate Presidency), 1827 (Lord Bentinck's personal settlement of the united Colony), and 1867 (transfer from Indian to Colonial Office rule) [[1]](#ref-1). Colony revenues grew from $1,301,839 in 1868 to $4,756,130 in 1883, with Singapore alone rising from $364,918 to $1,697,920 over the same period [[1]](#ref-1). The Pangkor Treaty of 20 January 1874 established British Residents in Perak, Selangor, and Sungei Ujong; the murder of Resident Birch on 2 November 1875 led to a full military occupation of Perak in January 1876 [[1]](#ref-1).
 

@@ -67,13 +67,17 @@ generated: true
 
 Botanical investigation of the Malay Peninsula, Borneo, and the surrounding islands constitutes one of the most sustained and methodologically diverse strands of natural history scholarship published in the Society's journals from the late nineteenth century through the 1920s. The work spans taxonomic enumeration, biogeographical synthesis, ecological observation, and economic botany, and is characterised by a recurring concern with the delimitation of floristic boundaries—between Malaya and Siam, between the Peninsula and the islands, and between lowland and montane zones. The principal figures are H. N. Ridley, Director of the Singapore Botanic Gardens, whose field reports and floristic surveys dominate the record, and E. D. Merrill, whose herbarium-based contributions extended the taxonomic knowledge of Borneo. Together, these studies established the foundational framework for understanding the region's plant diversity, its geological and climatic determinants, and its economic potential.
 
-### Scope and Historical Definition
+## Members & Sub-Topics
+- [Flowers](./flowers.md)
+- [Fertilisation](./fertilisation.md)
+
+## Scope and Historical Definition
 
 The earliest systematic botanical account in the record is Sir William Hunter's manuscript flora of Penang, composed during his residence on Prince of Wales Island in the late 1790s and published posthumously in 1909 with an introductory note by Ridley [[1]](#ref-1). Hunter's work, structured according to the Linnaean sexual system, documents the island's vegetation at a formative moment in its colonial agricultural history, recording the establishment of the East India Company's spice gardens at Ayer Hitam and the early cultivation of pepper, nutmeg, and other commercial crops [[1]](#ref-1). Christopher Smith, appointed botanist in 1794 and sent to Amboyna in 1796, dispatched a consignment of 71,266 nutmegs and 55,264 clove plants, along with quantities of *Canarium commune* and *Arenga saccharifera*, which were established in the Company's gardens [[1]](#ref-1). Hunter's account of pepper cultivation is particularly detailed, providing propagation methods, support species (*Morinda citrifolia* and *Erythrina corallodendron*), harvesting cycles, and a financial appendix projecting the returns on a 100,000-vine plantation over twelve years [[1]](#ref-1). The island's total pepper output in the year of his survey was estimated at 16,000–20,000 picols, valued at approximately 216,000 Spanish dollars [[1]](#ref-1).
 
 By the 1890s and 1900s, the scope of botanical inquiry had shifted decisively towards mountain flora and biogeographical synthesis. Ridley's 1900 account of Gunong Jerai (Kedah Peak) provided the first published description of the mountain's ascent and flora, documenting upwards of fifty orchid species, of which eight were peculiar to the range, and describing three new species: *Xyris Ridleyi*, *Hedychium collinum*, and *Utricularia involvens* [[2]](#ref-2). The summit altitude was measured at 3,495 feet by aneroid barometer, slightly below the commonly cited figure of "a little over 4,000 feet" [[2]](#ref-2). Ridley's 1901 treatment of Mount Ophir in Malacca, drawing on his own two expeditions and the collections of Griffith, Maingay, Hullett, and Derry, established the first comprehensive account of the range's upper flora between 3,000 and 4,000 feet [[3]](#ref-3). The paper's central argument is that the Ophir flora is composed of three distinct elements—Malayan lowland, alpine, and a remarkable Australian component—represented by *Boeckia*, *Leptospermum*, *Tristania*, *Leucopogon*, *Dianella*, and four species of Cyperaceae in typically Australian genera (*Gahnia*, *Lepidosperma*, *Cladium*) [[3]](#ref-3). Ridley proposed that these Australian elements were relics of a flora that once grew on the sandy shores of a sea which washed the foot of the mountain before its denudation [[3]](#ref-3). The extraordinary find of *Linaria alpina* on the summit, a plant previously unknown from any other part of tropical Asia, underscored the mountain's biogeographical significance [[3]](#ref-3).
 
-### Biogeographical Boundaries and Floristic Transitions
+## Biogeographical Boundaries and Floristic Transitions
 
 A recurring theme across the record is the identification of sharp floristic boundaries that correspond to geological and climatic breaks. Ridley's 1911 survey of Lower Siam established that a distinct transition occurs at approximately Alor Star, where the granite chain of the Malay Peninsula terminates and sandstone and limestone formations dominate the landscape northwards [[4]](#ref-4). This geological shift is accompanied by a markedly more pronounced dry season, during which many trees lose their leaves and herbaceous plants on the limestone outcrops wither completely above ground [[4]](#ref-4). The resulting flora shows a great preponderance of xerophytic and spiny species, with a corresponding diminution of strictly hygrophytic forms, and a significant increase in Indian and Burmese elements absent from the Malayan flora to the south [[4]](#ref-4). Rainfall at Bangtaphan on the East Coast was recorded at 63 inches in 1890, compared with 200 inches at Mergui, indicating the East Coast's generally drier character [[4]](#ref-4).
 
@@ -81,7 +85,7 @@ Ridley's 1923 account of a botanical excursion to northern Sumatra extended this
 
 The insular flora received parallel attention. Ridley's 1912 report on the Pulau Adang island group argued that their plant communities align with a Malayan rather than a southern Siamese floristic affinity, despite their proximity to the Thai border [[6]](#ref-6). The seashore assemblage included several species—*Ochrosia borbonica*, *Tournefortia argentea*, *Hernandia peltata*, *Gyrocarpus Jacquinii*—that are absent or extremely rare on the Malay Peninsula itself but widespread across the Indian Ocean and Malay Archipelago to the Pacific, suggesting a distinct insular littoral component [[6]](#ref-6). Fourteen new species were described from the expedition [[6]](#ref-6).
 
-### Economic and Ecological Dimensions
+## Economic and Ecological Dimensions
 
 The economic botany of the region is documented most fully in Hunter's account of Penang, where the financial logic of plantation agriculture is laid bare: a gambier plantation near Bato Lanshun was established by a Chinese planter but abandoned because the cost of labour exceeded the market price of imported gambier, and the plants were uprooted and replaced with pepper vines [[1]](#ref-1). Sugar manufacture and indigo cultivation met the same fate [[1]](#ref-1).
 
@@ -93,7 +97,7 @@ In Borneo, Merrill's 1917 taxonomic contribution, drawing on herbarium collectio
 
 Ridley's brief 1912 note on plants collected during Moulton's expedition to Mount Batu Lawi in the upper Limbang district of Sarawak documents the first recorded European ascent of the mountain, reached at an altitude of 5,660 feet on 29 May 1911 [[10]](#ref-10). The flora of the upper Madihit and Batu Lawi region was noted to be of a distinctly different character from that of the lower river, with the mountain slopes supporting low-growing gnarled shrubs covered in thick moss over limestone, in contrast to the tall virgin jungle of the lower elevations [[10]](#ref-10).
 
-### Research and Documentation
+## Research and Documentation
 
 The Society's literature on botany reveals a clear evolution in methodology and priority across the period covered. The earliest work, Hunter's manuscript flora of the 1790s, is fundamentally an economic and descriptive document, embedded in the narrative of colonial agricultural development and structured according to the Linnaean system [[1]](#ref-1). By the 1890s and 1900s, Ridley's field reports had established a new paradigm: the combination of practical travel narrative with taxonomic enumeration and biogeographical argument, published as a service to future collectors and to the broader scientific community [[2]](#ref-2), [[3]](#ref-3). The Singapore Botanic Gardens functioned as the institutional hub for this work, with Ridley's collections preserved in its herbarium alongside those of Griffith, Maingay, Hullett, and Derry [[3]](#ref-3).
 
@@ -102,22 +106,6 @@ The 1910s mark a shift towards synthesis and delimitation. Ridley's 1911 survey 
 The Bornean contribution, represented by Merrill's 1917 paper and Ridley's 1912 note on Batu Lawi, reflects a different institutional model: the Sarawak Museum's practice of publishing the botanical results of expeditions conducted by administrative or military officers, with the museum's scientific staff providing the taxonomic analysis [[10]](#ref-10), [[9]](#ref-9). Merrill's work, conducted from herbarium specimens in Manila, demonstrates the growing importance of comparative taxonomy and nomenclatural revision alongside field collection [[9]](#ref-9).
 
 The key debates that emerge from the record concern the mechanisms of floristic distribution. Ridley's rejection of long-distance dispersal in favour of a former continuous land connection [[5]](#ref-5), his proposal of a relict Australian flora on Mount Ophir [[3]](#ref-3), and his identification of the Alor Star boundary as a geological rather than gradual transition [[4]](#ref-4) collectively represent a programme of biogeographical explanation that sought to account for the region's plant diversity in terms of geological history and climatic change rather than passive dispersal. These arguments, grounded in the detailed field observations and herbarium collections documented in the Society's journals, established the framework within which subsequent botanical and biogeographical studies of the region would operate.
-
-## Malaya
-<!-- Synthesis engine: Insert malaya details here -->
-
-## Singapore
-<!-- Synthesis engine: Insert singapore details here -->
-
-## Christmas Island
-<!-- Synthesis engine: Insert christmas island details here -->
-
-## Southeast Asia (excluding Malaya and Singapore)
-<!-- Synthesis engine: Insert southeast asia (excluding malaya and singapore) details here -->
-
-## Members & Sub-Topics
-- [Flowers](./flowers.md)
-- [Fertilisation](./fertilisation.md)
 
 ## MBRAS Sources
 

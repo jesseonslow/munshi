@@ -36,13 +36,13 @@ generated: true
 
 # Indo-China
 
-### Scope and Historical Definition
+## Scope and Historical Definition
 
 "Indo-China" in the literature of the Straits and Malayan Branches of the Royal Asiatic Society denotes the mainland territory stretching from the southern coast of China to the Mekong Delta, encompassing the modern states of Vietnam, Cambodia, Laos, and the western portions of Thailand and Myanmar. The term was not a fixed political designation but a geographical and civilisational one, applied to the region as a whole and, in specific contexts, to particular sub-regions such as Cochin-China (southern Vietnam) or the Siamese-Lao frontier interior. The Society's literature treats the region as a zone of overlapping political, linguistic, and commercial influences, where the Mon-Annam peoples, the Khmer, the Siamese, and later the French colonial administration each left distinct imprints on the landscape and its populations.
 
 The earliest substantive treatment in the Society's pages is C. Otto Blagden's 1894 comparative linguistic study, which frames the Malay Peninsula as an "outlying province" of the Indo-Chinese mainland, "closely connected as they are in geographical position but widely sundered at the present day in regard to the ethnological and philological characteristics of the greater part of their inhabitants" [[1, p. 23]](#ref-1). Blagden's formulation captures the central tension that runs through the Society's literature on the region: Indo-China is simultaneously a source of ancient civilisational influence radiating outward and a space of ongoing political contestation among European powers.
 
-### Linguistic and Ethnological Connections
+## Linguistic and Ethnological Connections
 
 The most sustained investigation of Indo-China's relationship to the Malay world in the Society's literature is Blagden's 1894 paper, which argues that the dialects of the Peninsula's aboriginal tribes preserve a substantial layer of Mon-Annam vocabulary testifying to a former period of political dominion by a Mon-Annam race over the Peninsula before the Malay migration [[1, pp. 21–24]](#ref-1). Blagden's comparative vocabulary spans approximately one hundred lexical items across eight semantic categories—body, animals, plants, inanimate objects, qualities, actions, and numerals—with correspondences drawn from Mon (Peguan), Khmer (Cambojan), and up to fourteen "uncivilized" Indo-Chinese dialects including Ka, Chong, Samre, Por, Cuoi, Phnong, Stieng, and Prou [[1, pp. 28–40]](#ref-1).
 
@@ -52,7 +52,7 @@ Blagden corroborates his linguistic evidence with Chinese dynastic records. The 
 
 A corrigendum issued by Blagden in 1903 corrected approximately thirty typographical and substantive errors in the original paper, the most significant being the replacement of "Papuan" with "Melanesian" in the classification of a language group [[2]](#ref-2).
 
-### Diplomatic and Colonial Encounters
+## Diplomatic and Colonial Encounters
 
 The Society's literature also documents the repeated failure of British diplomatic engagement with Vietnam, a process that Nicholas Tarling traced systematically in 1966 [[3]](#ref-3). Tarling's article covers the full arc of British attempts to open relations with Vietnam from the Crawfurd mission of 1821–22 to the French seizure of Tourane and Saigon in 1858, arguing that the Nguyen dynasty's consistent policy of avoiding European entanglement prevented Britain from establishing any meaningful relationship with the country [[3, pp. 19–51]](#ref-3). The Crawfurd mission itself, by alerting Minh-mang to the possibility that French influence might provoke British intervention, "put the seal on the Nguyen policy of avoiding all European entanglements whatsoever" [[3, p. 5]](#ref-3).
 
@@ -60,7 +60,7 @@ Subsequent missions met with consistent rebuff. The *Phlegethon* visit of 1845, 
 
 The French attack on Tourane in April 1847, in which Lapierre seized and destroyed Vietnamese junks, led to an edict excluding Europeans and putting a price on missionary heads; Emperor Tu-duc subsequently ended the royal trade to Singapore, and by the mid-1850s no square-rigged Cochin-Chinese vessel was seen at Singapore [[3, pp. 15–16]](#ref-3). The joint Franco-Spanish expedition of 1858 seized Tourane in August and subsequently Saigon, creating the nucleus of the future French colony of Cochin-China; the British Government, preoccupied with the Indian Mutiny and the Elgin mission to China, took no countermeasure [[3, pp. 31–33]](#ref-3). Tarling notes the paradoxical effect of this development in strengthening British interest in northern Borneo as a counterweight [[3, p. 34]](#ref-3).
 
-### Administrative and Economic Structures
+## Administrative and Economic Structures
 
 The French colonial administration of Cochin-China generated its own body of literature in the Society's pages. M. Camouilly, a French colonial administrator, published in 1886 a paper arguing that a comprehensive cadastral survey of the colony would be prohibitively expensive, practically unfinishable, and destructive of the efficient Annamite communal tax-collecting system [[4, pp. 273–291]](#ref-4). Camouilly drew on the experience of France's own cadastral survey, which took over forty years and cost 160 million francs, to argue that a similar undertaking in Cochin-China would never be completed [[4, pp. 276–277]](#ref-4). He contended that the existing Annamite commune system already collected land revenue efficiently through collective village liability, governing 1.6 million inhabitants through only 2,450 municipalities without the expense of individual tax collection, litigation, or enforcement [[4, pp. 285–286]](#ref-4).
 
@@ -70,13 +70,13 @@ A more granular picture of the Siamese-Lao frontier interior is provided by G. D
 
 Dabin devoted a substantial portion of the journal to the ruins of Puthai-saman, which he identified as a Khmer monument comparable to Angkor-vat "on a reduced scale" [[5, p. 109]](#ref-5). He provided measured observations of the moat, causeways, sculpted gates, bas-relief walls, and the pyramidal central structure, noting the absence of any mortar or iron in the stonework [[5, pp. 110–112]](#ref-5).
 
-### Religious and Cultural Transformations
+## Religious and Cultural Transformations
 
 Rie Nakamura's 2000 article examines the historical process by which Islam became established among the Cham people of central Vietnam, drawing on ethnographic fieldwork in Vietnam and Cambodia [[6, pp. 55–66]](#ref-6). Nakamura's central puzzle is why contemporary Cham communities in Vietnam and Cambodia practise two markedly different forms of Islam: the Bani (an indigenized, syncretic form with ancestor veneration, a six-rank priesthood, and weekly rather than daily prayer) in the south central coast of Vietnam, and orthodox Sunni Islam (Shafi'i school) in the Mekong Delta and Cambodia [[6, pp. 55–56]](#ref-6). She resolves this by proposing a two-wave model of Muslim contact with Champa. The first wave, beginning as early as the ninth century, comprised Persian, Arab, Indian, and Chinese Muslim merchants who established a significant foreign community in Champa by the eleventh century but did not trigger widespread native conversion [[6, pp. 58–59]](#ref-6). The second wave, during the sixteenth and seventeenth centuries at the height of Malay Muslim maritime trade, brought Malay proselytizers into direct contact with the Cham population and produced the mass conversion that generated the Bani tradition [[6, pp. 60–61]](#ref-6).
 
 Two Arabic inscriptions deciphered by Ravaisse in the 1920s confirm a Muslim community in Panduranga (modern Phan Rang/Phan Ri area) by the latter half of the tenth or early eleventh century, indicating a city-like settlement with autonomous foreign inhabitants under Cham royal protection [[6, pp. 58–59]](#ref-6). Portuguese missionary accounts from 1665–1678 record that by the 1670s "more than half" of the Cham population, including the king and his court, had converted to Islam, with the Malays explicitly identified as the agents of conversion [[6, p. 61]](#ref-6). Nakamura's 1996 field observation at the Ta San Mosque in Oudong, Cambodia, found Jahed priests whose six-rank hierarchy, ritual names, musical instruments, and use of the Cham script (*akhar thrah*) were virtually identical to those of the Bani in Vietnam, providing direct ethnographic evidence that the Bani form originated in Champa prior to the refugee migrations [[6, pp. 63–64]](#ref-6).
 
-### Natural History and the Colonial Museum
+## Natural History and the Colonial Museum
 
 The Raffles Museum in Singapore functioned as the principal natural history repository for the Straits Settlements and received specimens from across the Malay world and Indochina, making it a natural venue for comparative zoological work of this kind [[7]](#ref-7). Dr. R. Hanitsch, Director of the museum, published in 1918 a brief taxonomic note describing a serow (*Capricornis* sp.) found alive off the Annamese coast in February 1917 [[7, pp. 59–65]](#ref-7). The animal was discovered by native fishermen off the peninsula of Phu'ong Mai (approximately 13°30′ N) in Annam, having apparently fallen from the high coastal cliffs; it died three days after capture despite drinking readily but refusing all food [[7, p. 57]](#ref-7).
 

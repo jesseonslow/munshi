@@ -25,7 +25,7 @@ generated: true
 
 Jelebu is a small Malay state situated in the lower Triang Valley, on the border of what are now the states of Negeri Sembilan and Pahang in the western Malay Peninsula. Its name, according to oral tradition recorded by the colonial administrator H.A. O'Brien, was derived from a man drowned in the Triang River [[1, p. 337]](#ref-1). By the late nineteenth century the state was characterised by severe depopulation, economic stagnation, and a distinctive constitutional arrangement that combined a Menangkabau royal figurehead with a hereditary executive council [[1, pp. 337–341]](#ref-1). The region's vulnerability to catastrophic riverine flooding was documented in a first-hand administrative account of the December 1896 flood, which revealed both the physical hazards of the Triang Valley and the logistical difficulties of colonial riverine governance [[2, pp. 155–158]](#ref-2).
 
-### Constitutional Origins and Political Structure
+## Constitutional Origins and Political Structure
 
 The political genesis of Jelebu is reconstructed by O'Brien from oral information gathered from local headmen. The four states of Jelebu, Sungei Ujong, Rembau, and Johol were originally governed by *Penghulus* (hereditary executive chiefs) under the suzerainty of Johor. After the Raja of Johor executed the son of the Penghulu of Rembau in a fit of personal rage over a refused marriage proposal, the four Penghulus withdrew from Johor's court and elected a Menangkabau royal as their collective ruler, who took up residence at Sri Menanti [[1, p. 337]](#ref-1). The Yam Tuan of Sri Menanti subsequently sent a son to Jelebu, who was observed for a period before being elected Yam Tuan of Jelebu with the specific duty of protector of the inhabitants, though without direct jurisdiction over the land [[1, p. 337]](#ref-1).
 
@@ -35,13 +35,13 @@ The entire process of legislation—originating from the Lembagas or Waris, pass
 
 A notable territorial transfer is recorded in the state's history. Klawang was ceded to Sungei Ujong as payment in lieu of a monetary fine when a son of the Datu Penghulu of Jelebu violated a daughter of the Penghulu of Klambu and could not afford the settlement [[1, p. 339]](#ref-1).
 
-### Material Condition and Economic Decline
+## Material Condition and Economic Decline
 
 O'Brien's account closes with a stark assessment of Jelebu's material condition in 1884. He describes passing through "mile after mile of deserted *kampongs*" (villages) with *padi* (rice) land lying waste and fruit trees still in bearing [[1, p. 342]](#ref-1). The only sign of economic activity was a small tin mine at Jelundong, worked for seventeen years by a Chinese miner from Sungei Ujong, where the cost of rice was nearly triple that of Sungei Ujong due to the absence of roads [[1, p. 342]](#ref-1). At the Jelundong tin mine, one dollar purchased only 2¾ *gantangs* (a traditional unit of dry measure) of rice, compared with 7 *gantangs* in Sungei Ujong and 10 *gantangs* at Kuala Triang, illustrating the severe transport costs of the region [[1, p. 342]](#ref-1).
 
 A postscript dated September 1895, appended nearly a decade after the original publication, records the beginning of administrative and infrastructural change. The bridle-track from Pantei to the mines had been completed, a Collector (Mr. E. P. Gueritz) was appointed in June 1895, the Pahang boundary was fixed at Sungei Dua on the Triang, and government buildings—a Custom House, Court, and Police Station—were erected at Kuala Klawang [[1, p. 343]](#ref-1).
 
-### The December 1896 Flood
+## The December 1896 Flood
 
 The most detailed account of Jelebu's physical environment and the lived experience of its inhabitants is provided by Arthur Keyser, Collector and Magistrate of Jelebu, in a formal dispatch to the British Resident dated 30 December 1896 [[2, p. 155]](#ref-2). The flood was first reported on 14 December by a Malay constable and a companion from Jerang who swam for hours to reach Kuala Klawang, reporting water four feet high inside the Police Station building [[2, p. 155]](#ref-2). As the Police Station stood on a high site, the story seemed almost incredible to Keyser, who initially regarded it as exaggerated [[2, p. 155]](#ref-2).
 
@@ -51,7 +51,7 @@ The physical devastation was considerable. At Pasir Panggil, an island that had 
 
 Despite the severity of the flooding, no loss of life was recorded at Jerang, Juntai, or downstream in Pahang [[2, p. 157]](#ref-2). A man tending his *padi* nearly drowned, and a woman and her children sat on a cracking roof for a night and a day in pouring rain [[2, p. 157]](#ref-2). On the return land route, water had passed through trees at heights of 15 feet, corroborating the constable's original account [[2, p. 158]](#ref-2). An elderly resident recalled a flood of even greater magnitude approximately 14 years earlier, that is, around 1882 [[2, p. 158]](#ref-2).
 
-### Research and Documentation
+## Research and Documentation
 
 The Society's literature on Jelebu is limited in volume but spans a critical period of transition from indigenous constitutional governance to British colonial administration. O'Brien's 1884 article in the *JSBRAS* constitutes the principal historical and administrative survey of the state, combining a constitutional narrative drawn from oral sources with a contemporary assessment of material conditions [[1, pp. 337–343]](#ref-1). Its value lies in documenting a political system that was already in decline and in recording the economic isolation of the region with specific price data [[1, p. 342]](#ref-1). The 1895 postscript provides a rare contemporaneous record of the early colonial infrastructure project, including the appointment of a Collector and the fixing of the Pahang boundary [[1, p. 343]](#ref-1).
 
