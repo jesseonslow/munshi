@@ -42,7 +42,7 @@ generated: true
 
 Marriage in the Malay Peninsula and Borneo has been a persistent subject of inquiry in the Society's literature, examined from legal, ritual, and economic perspectives across more than a century of publication. The surviving records span from the late nineteenth century through the mid-twentieth century, covering Chinese polygamous unions adjudicated in colonial courts, Menangkabau wedding speeches preserved in oral tradition, Perak betrothal ceremonies, and the stratified dowry systems of Borneo's Illanun and Bajau communities. Together these studies reveal marriage as a site where indigenous custom, colonial law, and economic obligation intersect, and where the encounter between English statutory frameworks and non-English family structures produced distinctive hybrid legal and cultural outcomes.
 
-### Chinese Polygamous Marriage and Colonial Jurisprudence
+## Chinese Polygamous Marriage and Colonial Jurisprudence
 
 The most sustained legal treatment of marriage in the Society's literature is Roland St. John Braddell's 1921 article on Chinese marriages as regarded by the Supreme Court of the Straits Settlements [[1]](#ref-1). Braddell, a Penang barrister who had personally appeared as counsel for secondary-wife claimants in several of the cases discussed, traced roughly a century of jurisprudence on the problem of applying English intestacy statutes—drafted on the assumption of monogamy and English-style legitimacy—to the estates of Chinese decedents who maintained principal wives (*t'sai*) and secondary wives (*t'sip*) [[1, pp. 153–165]](#ref-1).
 
@@ -54,7 +54,7 @@ The pivotal moment in this evolution was the Six Widows' Case (1905–1909), ari
 
 In 1920, the Privy Council (*Ngai Lau Shia v. Low Chee Neo*; *Cheang Thye Phin v. Tan Ah Loy*, 1920 A.C. 369) held that no proof of a ceremony is essential to establish *t'sip* status, which may be presumed from cohabitation and repute [[1, p. 163]](#ref-1). Braddell draws heavily on the reported judgments themselves, on Sir George Staunton's 1810 translation of the Manchu Code (*Ta Ching Lu Li*), and on the Charters of Justice. He reproduces at length a passage from Mr. Justice Ebden's judgment in *Ngai Lau Shia v. Low Chee Neo*, which provides the most systematic English-language exposition of the *t'sai*/*t'sip* distinction under Chinese law [[1, pp. 164–165]](#ref-1). The article is thus both a legal history and a practitioner's defence of the judicial approach he had personally advocated in the courts [[1, pp. 159]](#ref-1).
 
-### Menangkabau and Malay Wedding Rituals
+## Menangkabau and Malay Wedding Rituals
 
 J.L. Humphreys, a Straits Settlements civil servant, published in 1916 a verbatim transcription and English translation of a set Malay wedding speech recited in Naning (Alor Gajah, Malacca) by Ungkai Lisut, a local headman of the Mungkar tribe [[2]](#ref-2). The speech, first heard by Humphreys in 1908 and verified by re-recitation in 1914 with "hardly the alteration of a word" between the two recitations, is a fixed oral formula of 131 lines of rhymed Malay prose that a headman would recite before the bride's clan headman at the moment the bridegroom is led onto the verandah of the bride's house [[2, p. 25]](#ref-2).
 
@@ -64,7 +64,7 @@ Humphreys situates the speech within the broader Menangkabau exogamic system, di
 
 R. O. Winstedt's 1929 note on an old Perak account of betrothal ceremonies provides a complementary view of Malay marriage practice [[3]](#ref-3). The account details the full sequence of a Perak betrothal: private enquiries by the youth's relatives, ratification before the *Penghulu Masjid* (mosque chief) or *kampong* (village) elder, the sending of two *sireh* (betel) caskets containing gold "coconut-blossom" rings as betrothal tokens, and the associated ceremony at the girl's house with its exchanges of song, feast, and formal gifts [[3, pp. 448–449]](#ref-3). Winstedt also records the legal and social consequences of broken engagements—including fines, the return or retention of rings, and the penalty for abduction (*di-panjat*)—as well as the subsequent rituals leading to the wedding: the groom's visit to watch over his fiancée, the exchange of ablution gifts and cakes during Ramadan, and the threshing-season gathering [[3, pp. 449–450]](#ref-3).
 
-### Dowry Systems and Social Classification in Borneo
+## Dowry Systems and Social Classification in Borneo
 
 D. Headly, a colonial administrator in North Borneo, published in 1951 a brief ethnographic note describing the marriage customs of the Illanun and Bajau peoples of the Kota Belud district [[4]](#ref-4). The Illanuns arrived from Mindanao approximately 150 years prior, while the Bajaus' origins are less certain but probably also Philippine. Both groups are now primarily peasant farmers whose main wealth lies in buffaloes, though some Illanuns also fish [[4, p. 159]](#ref-4).
 
@@ -72,7 +72,7 @@ The core of the article is a detailed account of the social classification syste
 
 Beyond the dowry system, Headly describes several associated customs. *Pelit*, a reciprocal payment obligation between relatives of marrying parties, varies by class and is payable whether the child is male or female [[4, p. 160]](#ref-4). *Peramaian-Peramaian*, a small collection from the groom's guests, is distributed to the bride's household helpers and rarely exceeds $10 in total [[4, p. 160]](#ref-4). *Benga* (or *Getasrirai*) is a sum of $5–$10 handed by the groom's father to the Master of Ceremonies, who then divides it among himself, the lecturer, and supporting elders [[4, p. 161]](#ref-4). The groom's side must supply oxen (*sapi*) for the wedding breakfast: 7 head for all *Pitu* grades and 10 head for all *Dato* grades, with a *sapi* valued at $4 for this purpose against a current market price of $70 per head [[4, p. 160]](#ref-4). Marriages are parent-arranged but the children may object; elopement is handled through a respected intermediary who negotiates between the fathers; and the *berian* balance functions as a deterrent against hasty divorce [[4, p. 160]](#ref-4). The article closes with a description of the *Berunsai*, a communal line-dance performed in the open-plan houses [[4, p. 160]](#ref-4).
 
-### Research and Documentation
+## Research and Documentation
 
 The Society's literature on marriage reveals a consistent pattern of colonial administrative and legal engagement with indigenous family structures, though the depth and method of inquiry varied considerably. The earliest and most substantial contribution is Braddell's 1921 legal history, which draws on reported judgments, the Charters of Justice, and Staunton's 1810 translation of the Manchu Code, but makes no use of Chinese-language primary sources—a limitation Braddell himself acknowledges [[1, p. 165]](#ref-1). His position as a practitioner who had argued the very cases he analysed lends the article an advocacy quality that tempers its otherwise rigorous legal analysis [[1, pp. 159]](#ref-1).
 

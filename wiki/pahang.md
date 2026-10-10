@@ -30,7 +30,7 @@ generated: true
 
 Pahang is a state on the east coast of the Malay Peninsula whose interior highlands, river systems, and coastal islands have attracted sustained scholarly attention since the 1880s. The state's considerable size—revealed by William Cameron's 1885 expedition to extend far beyond previously supposed boundaries, reaching the Ulu of the Kinta and the Raia in Perak and shooting a further arm northward into Kelantan [[1, p. 155]](#ref-1)—combined with its diverse landscapes of limestone, dipterocarp forest, quartz-porphyry ridgelines, and coastal islands, made it a rich field for natural history, archaeology, and administrative history. The following survey draws on the Society's published literature to trace how Pahang was progressively mapped, excavated, and understood across more than a century of research.
 
-### Scope and Historical Definition
+## Scope and Historical Definition
 
 The earliest systematic attempt to define Pahang's physical extent came from William Cameron's 1885 exploration, which resolved the question of the central watershed that had been the subject of various conjectures [[1, pp. 155–157]](#ref-1). Cameron's route took him up the Raia, across a pass he named Gunho Pass (5,300 feet) at the confluence of the Ulu Kinta, Penoh, and Telom, and down the Telom to within a day's sail of its junction with the Jelei [[1, pp. 156–157]](#ref-1). He described a central highland "vortex" around the Telom river at a mean elevation of 4,500–4,750 feet, bounded by ranges he estimated at over 8,000 feet, and identified a mountain at approximately 4° 38′ N, 10° N of E, at 6,300 feet by aneroid [[1, pp. 155–156]](#ref-1). The expedition was physically demanding, with the party suffering from colds, fevers, and rheumatism due to heavy rains, and one man left in hospital at Penang [[1, pp. 156–157]](#ref-1).
 
@@ -40,7 +40,7 @@ J.E. Nathan's 1915 traverse of the Titiwangsa main range from Ulu Slim in Perak 
 
 E.S. Willbourn's 1925 geological survey of the Ulu Rompin district in south-east Pahang documented previously unvisited ground, including the first recorded ascent of Gunong Ulu Telang from the north side and the first European penetration of the Ulu Sekin headwaters [[5, p. 198]](#ref-5). The Sungai Kukau waterfalls comprise a series of eight quartz-porphyry falls with a total height of considerably more than a thousand feet, and a further six falls upstream bring the total cascade height to approximately 1,500 feet [[5, pp. 203–204]](#ref-5).
 
-### Economic and Administrative History
+## Economic and Administrative History
 
 The administrative history of Pahang is inseparable from its economic geography. Tunku Tan Sri Dato' Shahriman's 2003 article traces the two-stage relocation of Pahang's administrative capital from Pekan to Kuala Lipis in 1889 and then to Kuantan in 1955 [[6, pp. 87–92]](#ref-6). When John P. Rodger arrived as the first British Resident in October 1888, Pekan was a modest settlement of roughly 5,000 people [[6, p. 87]](#ref-6). Two forces made a relocation unavoidable: the opening of gold and tin concessions in Ulu Pahang, which shifted the economic centre of gravity upstream, and the political rupture between Sultan Ahmad al-Mu'azzam Shah and the British, who felt the partnership could not survive proximity [[6, p. 87]](#ref-6). The Sultan withdrew to Pulau Tawar for three and a half years, delegating authority to his son Tunku Mahmud as Regent [[6, p. 87]](#ref-6).
 
@@ -50,7 +50,7 @@ The economic botany of the region was documented by Ridley in 1894, who describe
 
 S. Husin Ali's 1968 sociological study examined how rural Malay leadership in Pahang was being restructured by colonial administration and economic modernisation [[7, pp. 95–145]](#ref-7). Drawing on fieldwork in the *mukim* (administrative subdivision) of Kerdau in Pahang, Ali demonstrated that rubber was introduced to Kerdau in 1915, and by the time of the study, 87.6% of household heads remained dependent on agriculture [[7, p. 97]](#ref-7). The first *penghulu* (village head) elections were held in Kerdau in 1954, replacing hereditary succession; in Pahang the method subsequently shifted back toward bureaucratic selection by the Public Services Commission [[7, pp. 126–127]](#ref-7).
 
-### Archaeology and Antiquities
+## Archaeology and Antiquities
 
 The archaeological record of Pahang, as documented in the Society's literature, centres on the Tembeling river basin and the Pekan district, with W. Linehan's fieldwork between 1925 and 1930 providing the foundational corpus. Linehan's 1928 article on the Tembeling reported on four sites—Jeram Kwi, Kuala Nyong, Teluk Lubok Puai, and Bukit Jong—where the 1926–27 floods had torn away riverbank earth and exposed buried artefacts [[8, pp. 66–77]](#ref-8). His overarching thesis was that the Tembeling valley was once home to a non-Malay (likely Siamese) settlement engaged in iron smelting, bronze casting, and cannon manufacture, flourishing roughly from the 14th to the mid-15th century before the Malaccan Malay conquest [[8, p. 69]](#ref-8).
 
@@ -60,7 +60,7 @@ Linehan's 1928 article on ancient brick structures in the Pekan district documen
 
 His 1930 follow-up extended the catalogue with finds spanning from Neolithic stone tools to early Ming porcelain [[10, pp. 314–317]](#ref-10). The shouldered adze head from Burau on the Pahang river is, apart from a specimen of unknown provenance in the Taiping Museum, the only shouldered adze head hitherto discovered in Malaya, definitively establishing the type's existence in the Peninsula [[10, p. 315]](#ref-10). The Bukit Jong assemblage, comprising a stone bracelet, quoit disc, bark-pounder, four stone adze heads, thirteen ancient iron implements, bronze fragments, a clay mould, rock crystal, iron slag, and a porcelain jar, represented the most substantial single-site find in the Tembeling to that date [[10, p. 317]](#ref-10). Linehan argued that the co-occurrence of stone and iron tools at this single site pointed to a transitional phase in which stone implements continued in use alongside the earliest, still crude iron technology [[10, p. 317]](#ref-10).
 
-### Natural History and Ethnography
+## Natural History and Ethnography
 
 The natural history of Pahang was first systematically surveyed by Kelsall and Ridley in 1894, whose two-month expedition up the Pahang, Tembeling, and Tahan rivers yielded over 2,000 herbarium specimens despite two of three plant collectors being incapacitated by fever and injury for most of the Tahan valley phase [[2, p. 49]](#ref-2). Ridley described the distinctive sandy heath country near Pekan, the rich limestone flora of Kota Glanggi, and the dense dipterocarp forests of the Tahan valley, noting numerous novelties to science including a new *Dipterocarpus pulcherrimus*, several new *Didymocarpus* species, and the first recorded *Brugmansia* from the Malay Peninsula [[2]](#ref-2).
 
@@ -70,7 +70,7 @@ H.G. Dalton's 1928 travelogue of an eleven-day voyage in May 1918 to a chain of 
 
 Ethnographic observations on the indigenous peoples of Pahang appear throughout the literature. Douglas's 1897 account provides observations on the Kuantan Sakai, whose blowpipe construction method he compared to that of the Patagonians of South America [[3, p. 136]](#ref-3). Nathan's 1915 traverse recorded Sakai communities settled along the Lipis at Kuala Kenor, Kuala Buntu, and Ginting Selebah, describing them as "very civilised," settled for at least fifteen years, with coconut plantations and even mosquito nets [[4, p. 4]](#ref-4). Willbourn's 1925 expedition employed ten Jakun aborigines as guides, boatmen, and fish-spearing specialists, and recorded their fishing techniques, particularly the use of the *serampang* (a three-pronged spear), their settlement patterns along Sungai Sekin, and their relationship to the Malay and Chinese populations who used the lower river [[5, pp. 200–201]](#ref-5).
 
-### Research and Documentation
+## Research and Documentation
 
 The Society's literature on Pahang reveals a clear evolution in research priorities across more than a century. The earliest contributions (1885–1897) were dominated by exploration and natural history: Cameron's watershed survey, Davison's collecting log, Kelsall and Ridley's botanical expedition, and Douglas's travel narrative all served the dual purpose of mapping unknown territory and building museum collections [[2]](#ref-2), [[11]](#ref-11), [[1]](#ref-1), [[3]](#ref-3). The colonial administrative framing was explicit—expeditions were funded and sanctioned by the Government, and the Governor's tour served as the occasion for both governance and knowledge-production [[2]](#ref-2), [[11]](#ref-11).
 
