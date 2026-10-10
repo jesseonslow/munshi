@@ -23,47 +23,10 @@ summarized: true
 keywords:
 - William George Stirling
 - Malayan Civil Service
-- Rubaiyat of Omar Khayyam*
+- Rubaiyat of Omar Khayyam
 - Singapore
 - Protector of Chinese
 - opium
-- <span id="page-136"></span> William George Stirling was born at Sysonby House
-- in Melton Mowbray
-- Leicestershire
-- on 25 August 1887 and the 1891 census records him
-- aged 3
-- living there with his three older brothers
-- his mother
-- Norah (aged 40) and his father
-- Gilbert (aged 43). His father is listed as a retired major in the Royal Horse Guards and his Irish-born mother was the Honourable Norah Josephine Harcourt Westenra
-- daughter of Henry Westenra
-- the 3rd Baron Rossmore.
-- He attended Warren Hill School
-- a preparatory school at Beachy Head Road
-- Eastbourne
-- East Sussex and was at Harrow School from 1901 to 1905. In his early youth he became fascinated
-  by the Far East and at the age of 16
-- whilst still at school
-- joined the Japan Society in London. By 1905 he had acquired some pieces of Japanese
-  art and the school magazine
-- The Harrovian* (30 June 1905) states that he lent some items to a Japanese Exhibition
-  held at school.
-- He arrived in Malaya in January 1907
-- at the age of 19
-- after spending time in Hong Kong and worked briefly on a rubber estate before joining the Malayan Civil Service (MCS)
-  in 1909. He became a career civil servant and was an artist on the side
-- although he clearly viewed this as a hobby. In 1916 he married Chan Chee Man Wan
-- the daughter of a prominent merchant in Canton
-- who was twelve years his junior. They had one daughter
-- Mary
-- who was born in 1918.
-- In the MCS
-- Stirling first worked for the Monopolies and Customs Services Department
-- where his duties included dealing with the opium trade. He joined the Chinese Protectorate
-  in Melaka in 1915 and served as Assistant Protector of Chinese in Singapore from
-  1921 to 1931. The Chinese Protectorate had been set up in 1877 to manage affairs
-  relating to the Chinese in the Straits Settlements. Its responsibilities included
-  regulating
 publication_type: journal_article
 jstor: https://www.jstor.org/stable/10.2307/26928006
 ---
@@ -72,7 +35,7 @@ jstor: https://www.jstor.org/stable/10.2307/26928006
 
 ## Abstract
 
-William George Stirling joined the Malayan Civil Service in 1909 and worked in the Monopolies and Customs Services Department and the Chinese Protectorate. Stirling was a member of the Straits Branch of the Royal Asiatic Society and contributed six articles to the society’s journal. He wrote and illustrated several books on Malaya and illustrated an edition of the *Rubaiyat of Omar Khayyam* published in Singapore by the Lotus Library in 1918. After retiring from the civil service in 1932, he returned to England where he developed a reputation as a painter and sculptor. This brief account of his life is excerpted from the author’s paper entitled “William George Stirling (1887–1951): A Tale of Two Rubaiyats”, which is available through the following website: http://www.bobforrestweb.co.uk/The_Rubaiyat/N_and_Q/W_G_Stirling/W_G_Stirling.htm.
+William George Stirling joined the Malayan Civil Service in 1909 and worked in the Monopolies and Customs Services Department and the Chinese Protectorate. Stirling was a member of the Straits Branch of the Royal Asiatic Society and contributed six articles to the society’s journal. He wrote and illustrated several books on Malaya and illustrated an edition of the *Rubaiyat of Omar Khayyam* published in Singapore by the Lotus Library in 1918. After retiring from the civil service in 1932, he returned to England where he developed a reputation as a painter and sculptor. This brief account of his life is excerpted from the author’s paper entitled “William George Stirling (1887–1951): A Tale of Two Rubaiyats”.
 
 ## Summary
 

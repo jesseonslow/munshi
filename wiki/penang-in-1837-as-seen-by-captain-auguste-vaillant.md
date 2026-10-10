@@ -1,13 +1,11 @@
 ---
-id: penang-in-1837-as-seen-by-captain-auguste-vaillant-dyer-with
+id: penang-in-1837-as-seen-by-captain-auguste-vaillant
 work_id: jmbras-90-2-p98
-title: Penang in 1837, as seen by Captain Auguste Vaillant. . Dyer; with an introd.
-  and notes
-canonical_name: Penang in 1837, as seen by Captain Auguste Vaillant. . Dyer; with
-  an introd. and notes. f
+title: Penang in 1837, as seen by Captain Auguste Vaillant
+canonical_name: Penang in 1837, as seen by Captain Auguste Vaillant
 type: publication
 authors:
-- C. Dyer
+- Colin Dyer
 year: 2017
 journal_code: JMBRAS
 volume: 90
@@ -26,7 +24,7 @@ publication_type: translation
 jstor: https://www.jstor.org/stable/10.2307/26527803
 ---
 
-# Penang in 1837, as seen by Captain Auguste Vaillant. . Dyer; with an introd. and notes
+# Penang in 1837, as seen by Captain Auguste Vaillant
 
 ## Abstract
 

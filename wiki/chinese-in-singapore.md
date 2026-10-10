@@ -90,7 +90,7 @@ More recent scholarship has expanded the analytical frame. Jones's 2009 article 
 - [Loh Wei Leng](./loh-wei-leng.md) (2009). [Introduction: Penang Chinese in Penang and the region: evolving identities and networks](./introduction-penang-chinese-in-penang-and-the-region-evolvin.md). *JMBRAS* 82(2): 1–7
 - [Loh Wei Leng](./loh-wei-leng.md) (2009). [Penang as commercial centre: trade and shipping networks](./penang-as-commercial-centre-trade-and-shipping-networks.md). *JMBRAS* 82(2): 25–37
 - [J. Lim](./jhs-lim.md) (1996). [The trishaw industry as a “Bang”–based trade](./the-trishaw-industry-as-a-bangbased-trade.md). *JMBRAS* 69(2): 39–59
-- [C. de Matos](./c-de-matos.md) (2020). [Three domestic workers, two internment camps and a war: a journey from Singapore to British India](./three-domestic-workers-two-internment-camps-and-a-war-a-jour.md). *JMBRAS* 93: 23–42
+- [C. de Matos](./christine-de-matos.md) (2020). [Three domestic workers, two internment camps and a war: a journey from Singapore to British India](./three-domestic-workers-two-internment-camps-and-a-war-a-jour.md). *JMBRAS* 93: 23–42
 - [P. Post](./p-post.md) (2019). [Founding an ethnic Chinese business empire in colonial Asia: the strategic alliances of Major Oei Tiong Ham, 1895–1905](./founding-an-ethnic-chinese-business-empire-in-colonial-asia-.md). *JMBRAS* 92(2): 29–56
 - [S.J.C. Liu](./sjc-liu.md) and [T.Y.H. Sim](./tyh-sim.md) (2015). [A Peranakan family between Singapore and Shanghai: business-making, networks and identity, 1870s‒1910s](./a-peranakan-family-between-singapore-and-shanghai-business-m.md). *JMBRAS* 88: 33–57
 - [W.G. Stirling](./william-george-stirling.md) (1924). [Chinese exorcists](./chinese-exorcists.md). *JMBRAS* 2: 41–47

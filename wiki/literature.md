@@ -78,7 +78,7 @@ The records also reveal a persistent concern with attribution and erasure. Van W
 - [Anon](./anon-and-unidentifiable-initials.md) (2010). [Oxford Dictionary of National Biography](./oxford-dictionary-of-national-biography.md). *JMBRAS* 83: 117–120
 - [P. Borschberg](./peter-borschberg.md) (2008). [Jacques de Coutre as a source for the early seventeenth-century history of Singapore, the Johore river and the straits](./jacques-de-coutre-as-a-source-for-the-early-seventeenth-cent.md). *JMBRAS* 81(2): 71–98
 - [L. Comber](./l-comber.md) (2010). [‘Traitor of all traitors’― secret agent extraordinaire : Lai Teck, secretary-general, Communist Party of Malaya](./traitor-of-all-traitors-secret-agent-extraordinaire-lai-teck.md). *JMBRAS* 83(2): 1–25
-- [R. Forrest](./r-forrest.md) (2018). [William George Stirling (1887–1951): civil servant and artist](./william-george-stirling-18871951-civil-servant-and-artist.md). *JMBRAS* 91(2): 135–141
+- [R. Forrest](./robert-forrest.md) (2018). [William George Stirling (1887–1951): civil servant and artist](./william-george-stirling-18871951-civil-servant-and-artist.md). *JMBRAS* 91(2): 135–141
 - [C.A. Gibson-Hill](./carl-alexander-gibson-hill.md) (1959). [George Samuel Windsor Earl](./george-samuel-windsor-earl.md). *JMBRAS* 32: 105–153
 - [J.M. Gullick](./john-michael-gullick.md) and [S.M. Middlebrook](./sm-middlebrook.md) (1951). [Yap Ah Loy, 1837–1885, with an introduction and three final chapters by J.M. Gullick (and notes on the text). S.M. Middlebrook](./yap-ah-loy-18371885-with-an-introduction-and-three-final-cha.md). *JMBRAS* 24(2): 1–127
 - [J.M. Gullick](./john-michael-gullick.md) (1978). [Syers and the Selangor Police, 1875–1897](./syers-and-the-selangor-police-18751897.md). *JMBRAS* 51(2): 1–57

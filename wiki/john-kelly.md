@@ -1,24 +1,28 @@
 ---
-id: m-kaplan
-title: M. Kaplan
-canonical_name: M. Kaplan
+id: john-kelly
+title: John Kelly
+canonical_name: John Kelly
 aliases:
-- Kaplan, M
+- Kelly, J.
+- J. Kelly
 type: person
 is_contributor: true
 status: stub
 published: false
+gender: male
 ---
 
-# M. Kaplan
+# John Kelly
 
 <!-- Synthesis engine: Insert biographical synthesis and research focus here -->
 
 ## Biography
 
+John Kelly is Professor of Anthropology at the University of Chicago.
+
 ## Bibliography
 - (2016) [Ethnographic notes on the state funeral of Lee Kuan Yew: introduction](./ethnographic-notes-on-the-state-funeral-of-lee-kuan-yew-intr.md). *JMBRAS* 89(1): 81–83
-- (2016) [Nation and conservation: postcolonial water narratives in Singapore rituals](./nation-and-conservation-postcolonial-water-narratives-in-sin.md). *JMBRAS* 89(2): 125–138
+- (2016) [Nation and consecration: conversions of death into sacrifice in Singapore](./nation-and-consecration-conversions-of-death-into-sacrifice-.md). *JMBRAS* 89(1): 84–105
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -9,6 +9,8 @@ type: person
 is_contributor: true
 status: stub
 published: false
+email: benjamin_khoo@iseas.edu.sg
+gender: male
 ---
 
 # Benjamin J. Q. Khoo
@@ -16,6 +18,8 @@ published: false
 <!-- Synthesis engine: Insert biographical synthesis and research focus here -->
 
 ## Biography
+
+Benjamin J. Q. Khoo holds an MA in Colonial and Global History from Leiden University and is currently a Research Officer at ISEAS (Institute of Southeast Asian Studies)–Yusof Ishak Institute.
 
 ## Bibliography
 

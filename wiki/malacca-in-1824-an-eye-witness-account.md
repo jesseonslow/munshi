@@ -1,12 +1,13 @@
 ---
-id: malacca-in-1824-an-eye-witness-account-dyer-with-an-introd-a
+id: malacca-in-1824-an-eye-witness-account
 work_id: jmbras-90-1-p131
-title: 'Malacca in 1824: an eye-witness account. . Dyer; with an introd. and notes'
-canonical_name: 'Malacca in 1824: an eye-witness account. . Dyer; with an introd.
-  and notes. f'
+title: 'Malacca in 1824: an eye-witness account'
+canonical_name: 'Malacca in 1824: an eye-witness account'
 type: publication
 authors:
 - H. de Bougainville
+translators:
+- Colin Dyer
 year: 2017
 journal_code: JMBRAS
 volume: 90
@@ -30,13 +31,13 @@ publication_type: translation
 jstor: https://www.jstor.org/stable/10.2307/26527786
 ---
 
-# Malacca in 1824: an eye-witness account. . Dyer; with an introd. and notes
+# Malacca in 1824: an eye-witness account
 
 ## Abstract
 
 During his circumnavigation of the globe in 1824–1826, French Captain Hyacinthe de Bougainville visited Malacca in 1824. In his official journal of the voyage, translated here for the first time, he describes the town of Malacca and discusses the transfer of Malacca from the Dutch to the English, the decline in Malacca’s trade following the establishment of a British settlement at Singapore, and English dominance of the Malacca Strait.
 
-The translation presented here was prepared by Colin Dyer based on Baron Hyacinthe de Bougainville (1837), *Journal de la navigation autour du globe de “La Thetis” et de “L’Esperance” pendant les annees 1824, 1825, et 1826*, 2 vols, Paris: A. Bertrand. [^2] vols.
+The translation presented here was prepared by Colin Dyer based on Baron Hyacinthe de Bougainville (1837), *Journal de la navigation autour du globe de “La Thetis” et de “L’Esperance” pendant les annees 1824, 1825, et 1826*, 2 vols, Paris: A. Bertrand.
 
 ## Summary
 

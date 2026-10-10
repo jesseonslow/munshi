@@ -29,9 +29,6 @@ related:
   slug: silver
 - title: Tin
   slug: tin
-- title: Tin
-  slug: tin
-  inferred: true
 is_cluster: false
 is_contributor: false
 status: stub

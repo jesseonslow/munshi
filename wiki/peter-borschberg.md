@@ -9,6 +9,8 @@ type: person
 is_contributor: true
 status: stub
 published: false
+email: hispb@nus.edu.sg
+gender: male
 ---
 
 # Peter Borschberg
@@ -16,6 +18,8 @@ published: false
 <!-- Synthesis engine: Insert biographical synthesis and research focus here -->
 
 ## Biography
+
+Peter Borschberg is an Associate Professor in the Department of History at the National University of Singapore. He studies trade, exploration, and cartography during the period 1450–1800 and has published widely on global history, deglobalization, maritime history and the origins of international law.
 
 ## Bibliography
 

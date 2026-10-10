@@ -12,7 +12,7 @@ articles_count: 13
 contributors:
 - id: ahmad-fauzi-abdul-hamid
   name: Ahmad Fauzi Abdul Hamid
-- id: c-dyer
+- id: colin-dyer
   name: C. Dyer
 - id: chan-chee-khoon
   name: Chan Chee Khoon
@@ -32,7 +32,7 @@ contributors:
   name: Mokhtar Saidin
 - id: ooi-keat-gin
   name: Ooi Keat Gin
-- id: r-forrest
+- id: robert-forrest
   name: R. Forrest
 - id: razan-rosman
   name: Razan Rosman
@@ -166,8 +166,8 @@ articles:
 * [The greening of Singapore: parks and roadside trees from colonial rule to the present](./the-greening-of-singapore-parks-and-roadside-trees-from-colo.md) — [Lim Tin Seng](./lim-tin-seng.md) (pp. 79–102)
 * [Stamford Raffles and the ‘founding’ of Singapore: the politics of commemoration and dilemmas of history](./stamford-raffles-and-the-founding-of-singapore-the-politics-.md) — [Huang Jianli](./huang-jianli.md) (pp. 103–122)
 * [Jemberang and Alam Melayu: crossing the Straits of Melaka, Singapore and Riau](./jemberang-and-alam-melayu-crossing-the-straits-of-melaka-sin.md) — [V. Wee](./v-wee.md) (pp. 124–133)
-* [William George Stirling (1887–1951): civil servant and artist](./william-george-stirling-18871951-civil-servant-and-artist.md) — [R. Forrest](./r-forrest.md) (pp. 135–141)
-* [Going ashore in the Anambas Islands: accounts by Hyacinthe de Bougainville and Cyrille Laplace in 1825 and 1831. . Dyer; with an introd. and notes](./going-ashore-in-the-anambas-islands-accounts-by-hyacinthe-de.md) — [C. Dyer](./c-dyer.md) (pp. 143–152)
+* [William George Stirling (1887–1951): civil servant and artist](./william-george-stirling-18871951-civil-servant-and-artist.md) — [R. Forrest](./robert-forrest.md) (pp. 135–141)
+* [Going ashore in the Anambas Islands: accounts by Hyacinthe de Bougainville and Cyrille Laplace in 1825 and 1831](./going-ashore-in-the-anambas-islands-accounts-by-hyacinthe-de.md) — [C. Dyer](./colin-dyer.md) (pp. 143–152)
 * [An 1874 account of Johore](./an-1874-account-of-johore.md) — [W. Dean](./w-dean.md) (pp. 153–154)
 * *Khao Sam Kaeo: an early port-city between the Indian Ocean and the South China Sea. . Bellina* — [J.N. Miksic](./jn-miksic.md) (pp. 155–159) [Review]
 * *The Japanese occupation of Malaya and Singapore, 1941–1945: a social and economic history (2nd Edition). P.H. Kratoska* — [Ooi Keat Gin](./ooi-keat-gin.md) (pp. 164–166) [Review]
@@ -177,7 +177,7 @@ articles:
 
 ## Contributors
 * [Ahmad Fauzi Abdul Hamid](./ahmad-fauzi-abdul-hamid.md)
-* [C. Dyer](./c-dyer.md)
+* [C. Dyer](./colin-dyer.md)
 * [Chan Chee Khoon](./chan-chee-khoon.md)
 * [H.-M. Goh](./h-m-goh.md)
 * [Huang Jianli](./huang-jianli.md)
@@ -187,7 +187,7 @@ articles:
 * [m-ormond](./m-ormond.md)
 * [Mokhtar Saidin](./mokhtar-saidin.md)
 * [Ooi Keat Gin](./ooi-keat-gin.md)
-* [R. Forrest](./r-forrest.md)
+* [R. Forrest](./robert-forrest.md)
 * [Razan Rosman](./razan-rosman.md)
 * [S. E. Tan](./s-e-tan.md)
 * [Sarena Abdullah](./sarena-abdullah.md)

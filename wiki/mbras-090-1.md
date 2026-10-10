@@ -20,7 +20,7 @@ contributors:
   name: Dhiravat na Pombejra
 - id: f-t-hsu
   name: F.-T. Hsu
-- id: h-de-bougainville
+- id: hyacinthe-de-bougainville
   name: H. de Bougainville
 - id: h-ting-mu-hung
   name: H. Ting Mu Hung
@@ -103,8 +103,8 @@ articles:
   pages: 127–130
   is_review: false
 - id: jmbras-90-1-p131
-  slug: malacca-in-1824-an-eye-witness-account-dyer-with-an-introd-a
-  title: 'Malacca in 1824: an eye-witness account. . Dyer; with an introd. and notes'
+  slug: malacca-in-1824-an-eye-witness-account
+  title: 'Malacca in 1824: an eye-witness account'
   authors:
   - H. de Bougainville
   pages: 131–137
@@ -191,7 +191,7 @@ articles:
 * [Tanah Rata and the development of the Cameron Highlands, 1925–2030](./tanah-rata-and-the-development-of-the-cameron-highlands-1925.md) — [R. Weebers](./r-weebers.md) (pp. 101–111)
 * [Muted speech, Apa Khabar Orang Kampung , and To Singapore, with Love](./muted-speech-apa-khabar-orang-kampung-and-to-singapore-with-.md) — [F.-T. Hsu](./f-t-hsu.md) (pp. 113–126)
 * [Cameron’s Highlands](./camerons-highlands.md) — [Anon](./anon-and-unidentifiable-initials.md) (pp. 127–130)
-* [Malacca in 1824: an eye-witness account. . Dyer; with an introd. and notes](./malacca-in-1824-an-eye-witness-account-dyer-with-an-introd-a.md) — [H. de Bougainville](./h-de-bougainville.md) (pp. 131–137)
+* [Malacca in 1824: an eye-witness account](./malacca-in-1824-an-eye-witness-account.md) — [H. de Bougainville](./hyacinthe-de-bougainville.md) (pp. 131–137)
 * *A history of Malaysia, 3rd edn* — [Abu Talib Ahmad](./abu-talib-ahmad.md), [L.Y. Andaya](./leonard-andaya.md) (pp. 139–144) [Review]
 * *Admiral Matelieff’s Singapore and Johor (1606–1616). . Borschberg* — [Dhiravat na Pombejra](./dhiravat-na-pombejra.md) (pp. 144–146) [Review]
 * *The Malaysian Islamic Party PAS 1951–2013: Islamism in a mottled nation. Farish Noor* — [N. Lee](./n-lee.md) (pp. 147–149) [Review]
@@ -208,7 +208,7 @@ articles:
 * [Arba'iyah bt Mohd Noor](./arbaiyah-bt-mohd-noor.md)
 * [Dhiravat na Pombejra](./dhiravat-na-pombejra.md)
 * [F.-T. Hsu](./f-t-hsu.md)
-* [H. de Bougainville](./h-de-bougainville.md)
+* [H. de Bougainville](./hyacinthe-de-bougainville.md)
 * [H. Ting Mu Hung](./h-ting-mu-hung.md)
 * [H.E. Niemeijer](./he-niemeijer.md)
 * [H.S. Barlow](./henry-sackville-barlow.md)

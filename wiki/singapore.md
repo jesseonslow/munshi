@@ -147,7 +147,7 @@ The most recent contributions have been methodological in character. Borschberg 
 
 - [P. Borschberg](./peter-borschberg.md) (2017). [Singapore in the cycles of the longue durée](./singapore-in-the-cycles-of-the-longue-durée.md). *JMBRAS* 90: 29–60
 - [P. Borschberg](./peter-borschberg.md) and [B.J.Q. Khoo](./benjamin-j-q-khoo.md) (2018). [Singapore as a port city, c.1290–1819: evidence, frameworks and challenges](./singapore-as-a-port-city-c12901819-evidence-frameworks-and-c.md). *JMBRAS* 91: 1–27
-- [M. Kaplan](./m-kaplan.md) and [J. Kelly](./j-kelly.md) (2016). [Ethnographic notes on the state funeral of Lee Kuan Yew: introduction](./ethnographic-notes-on-the-state-funeral-of-lee-kuan-yew-intr.md). *JMBRAS* 89: 81–83
+- [M. Kaplan](./martha-kaplan.md) and [J. Kelly](./john-kelly.md) (2016). [Ethnographic notes on the state funeral of Lee Kuan Yew: introduction](./ethnographic-notes-on-the-state-funeral-of-lee-kuan-yew-intr.md). *JMBRAS* 89: 81–83
 - Thio, E. Introduction to 1969 commemorative issue of Singapore. MB 42(1)
 - Anon (1973). [150th Anniversary of the Founding of Singapore Commemorative Reprint](./150th-anniversary-of-the-founding-of-singapore-commemorative-reprint.md). ** : 317
 - [K. Blackburn](./k-blackburn.md) (2000). [The collective memory of the Sook Ching massacre and the creation of the civilian war memorial of Singapore](./the-collective-memory-of-the-sook-ching-massacre-and-the-cre.md). *JMBRAS* 73(2): 71–90
@@ -242,8 +242,8 @@ The most recent contributions have been methodological in character. Borschberg 
 - [R. Hong Cheng Yee](./r-hong-cheng-yee.md) (2016). [Individual and state narratives of Lee Kuan Yew as ancestor and founding father](./individual-and-state-narratives-of-lee-kuan-yew-as-ancestor-.md). *JMBRAS* 89: 115–121
 - Huang Jianli. Civil society activism and the Bukit Brown cemetery. MB 87(2)
 - [S. Hudd](./s-hudd.md) (2019). [Revisiting Christian missionaries in colonial Malaya and Singapore: blurring the boundaries between empire, mission and development](./revisiting-christian-missionaries-in-colonial-malaya-and-sin.md). *JMBRAS* 92: 21–40
-- [M. Kaplan](./m-kaplan.md) (2016). [Nation and conservation: postcolonial water narratives in Singapore rituals](./nation-and-conservation-postcolonial-water-narratives-in-sin.md). *JMBRAS* 89(2): 125–138
-- [J. Kelly](./j-kelly.md) (2016). [Nation and consecration: conversions of death into sacrifice in Singapore](./nation-and-consecration-conversions-of-death-into-sacrifice-.md). *JMBRAS* 89: 84–105
+- [M. Kaplan](./martha-kaplan.md) (2016). [Nation and conservation: postcolonial water narratives in Singapore rituals](./nation-and-conservation-postcolonial-water-narratives-in-sin.md). *JMBRAS* 89(2): 125–138
+- [J. Kelly](./john-kelly.md) (2016). [Nation and consecration: conversions of death into sacrifice in Singapore](./nation-and-consecration-conversions-of-death-into-sacrifice-.md). *JMBRAS* 89: 84–105
 - Lee Poh Ping. Chinese society in 19th century Singapore. MB 51(2)
 - Li Nanlan. National mourning rites for Lee Kuan Yew. MB 89(1)
 - [Lim Tin Seng](./lim-tin-seng.md) (2018). [The greening of Singapore: parks and roadside trees from colonial rule to the present](./the-greening-of-singapore-parks-and-roadside-trees-from-colo.md). *JMBRAS* 91(2): 79–102

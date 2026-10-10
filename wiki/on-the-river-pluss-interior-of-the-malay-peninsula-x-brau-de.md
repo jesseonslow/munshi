@@ -1,14 +1,13 @@
 ---
 id: on-the-river-pluss-interior-of-the-malay-peninsula-x-brau-de
 work_id: jmbras-94-1-p159
-title: 'On the River Pluss: Interior of the Malay Peninsula, X. Brau de Saint-Pol
-  Lias. . Dyer'
-canonical_name: 'On the River Pluss: Interior of the Malay Peninsula, X. Brau de Saint-Pol
-  Lias. . Dyer. f'
+title: 'On the River Pluss: Interior of the Malay Peninsula, X. Brau de Saint-Pol Lias'
+canonical_name: 'On the River Pluss: Interior of the Malay Peninsula, X. Brau de Saint-Pol Lias'
 type: publication
 authors:
 - X.B. De Saint-Pol Lias
-- C. Dyer
+translators:
+- Colin Dyer
 year: 2021
 journal_code: JMBRAS
 volume: 94
@@ -26,7 +25,7 @@ summarized: true
 publication_type: translation
 ---
 
-# On the River Pluss: Interior of the Malay Peninsula, X. Brau de Saint-Pol Lias. . Dyer
+# On the River Pluss: Interior of the Malay Peninsula, X. Brau de Saint-Pol Lias
 
 Xavier Brau de Saint-Pol Lias, a French naturalist and colonial investor, published this account in *La Nouvelle Revue* in 1882, describing his February 1881 journey up the River Pluss in the interior of Perak alongside Governor Frederick Weld of the Straits Settlements and Resident Hugh Low. The article is primarily an ethnographic and natural-history record of the Sakey (Orang Asli) people of Krebow, documenting their physical characteristics, material culture, social organisation, and—most notably for Lias—their apparent total absence of religious belief or superstition.
 

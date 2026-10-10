@@ -20,7 +20,7 @@ contributors:
   name: B. Barnard
 - id: b-welsh
   name: B. Welsh
-- id: c-dyer
+- id: colin-dyer
   name: C. Dyer
 - id: chia-yeow-tong
   name: Chia Yeow-Tong
@@ -256,7 +256,7 @@ articles:
 * [Thamboosamy Pillai and the Colonial Elite of British Malaya](./thamboosamy-pillai-and-the-colonial-elite-of-british-malaya.md) — [Sivachandralingam Sundara Raja](./sivachandralingam-sundara-raja.md) (pp. 101–117)
 * [PETRONAS, Oil Money, and Malaysia's National Sovereignty](./petronas-oil-money-and-malaysias-national-sovereignty.md) — [Shakila Yacob](./shakila-yacob.md) (pp. 119–144)
 * [A Penang Portfolio](./a-penang-portfolio.md) — [B. Barnard](./b-barnard.md) (pp. 145–158)
-* [On the River Pluss: Interior of the Malay Peninsula, X. Brau de Saint-Pol Lias. . Dyer](./on-the-river-pluss-interior-of-the-malay-peninsula-x-brau-de.md) — [X.B. De Saint-Pol Lias](./x-brau-de-saint-pol-lias.md), [C. Dyer](./c-dyer.md) (pp. 159–188)
+* [On the River Pluss: Interior of the Malay Peninsula, X. Brau de Saint-Pol Lias](./on-the-river-pluss-interior-of-the-malay-peninsula-x-brau-de.md) — [X.B. De Saint-Pol Lias](./x-brau-de-saint-pol-lias.md), [C. Dyer](./colin-dyer.md) (pp. 159–188)
 * [The everyday life of the people of the Malay Peninsula [c. 1943]. . Kozic](./the-everyday-life-of-the-people-of-the-malay-peninsula-c-194.md) — [J. Kozic](./j-kozic.md), [A. Kozo](./a-kozo.md) (pp. 189–195)
 * [An Account of Affairs in Larut Leading to British Intervention. Facsimile reprint](./an-account-of-affairs-in-larut-leading-to-british-interventi.md) — [L. Wray](./l-wray.md) (pp. 197–202)
 * [Power, Care and Species Difference in Orangutan Rehabilitation in Sarawak: A Roundtable. J.S. Parreñas, Alicia Izharuddin, M.B. Haines, Faizah Zakaria, and R. Cribb](./power-care-and-species-difference-in-orangutan-rehabilitatio.md) — [Alicia Izharuddin](./alicia-izharuddin.md), [Faizah Zakaria](./faizah-zakaria.md), [Haines M.B](./haines-mb.md), [J.S. Parreñas](./js-parreñas.md) (pp. 203–215)
@@ -277,7 +277,7 @@ articles:
 * [Alicia Izharuddin](./alicia-izharuddin.md)
 * [B. Barnard](./b-barnard.md)
 * [B. Welsh](./b-welsh.md)
-* [C. Dyer](./c-dyer.md)
+* [C. Dyer](./colin-dyer.md)
 * [Chia Yeow-Tong](./chia-yeow-tong.md)
 * [Faizah Zakaria](./faizah-zakaria.md)
 * [Farid, Syed Alatas](./farid-syed-alatas.md)

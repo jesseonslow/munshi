@@ -51,7 +51,7 @@ Stirling's life was recorded by R. Forrest in a 2018 article in the *Journal of 
 
 ## MBRAS Sources
 
-- [R. Forrest](./r-forrest.md) (2018). [William George Stirling (1887–1951): civil servant and artist](./william-george-stirling-18871951-civil-servant-and-artist.md). *JMBRAS* 91(2): 135–141
+- [R. Forrest](./robert-forrest.md) (2018). [William George Stirling (1887–1951): civil servant and artist](./william-george-stirling-18871951-civil-servant-and-artist.md). *JMBRAS* 91(2): 135–141
 
 ## Bibliography
 - (1924) [Chinese exorcists](./chinese-exorcists.md). *JMBRAS* 2(1): 41–47

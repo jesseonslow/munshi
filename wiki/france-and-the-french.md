@@ -64,7 +64,7 @@ A recurring tension in the literature is between the ambition of individual Fren
 
 ## MBRAS Sources
 
-- [H. de Bougainville](./h-de-bougainville.md) (2017). [Malacca in 1824: an eye-witness account. . Dyer; with an introd. and notes](./malacca-in-1824-an-eye-witness-account-dyer-with-an-introd-a.md). *JMBRAS* 90: 131–137
+- [H. de Bougainville](./hyacinthe-de-bougainville.md) (2017). [Malacca in 1824: an eye-witness account](./malacca-in-1824-an-eye-witness-account.md). *JMBRAS* 90: 131–137
 - Bougainville, H. de. Anambas Islands in 1825 tr. C. Dyer. MB 91(2)
 - [X. Brau De Saint Pol Lias](./x-brau-de-saint-pol-lias.md) (2020). [Atché (Sumatra) [Aceh]. . Dyer; with a note P. Kratoska](./atché-sumatra-aceh-dyer-with-a-note-p-kratoska.md). *JMBRAS* 93(2): 205–29
 - [X. Brau De Saint Pol Lias](./x-brau-de-saint-pol-lias.md) (2020). [Tin and its native land. Facsimile reprint](./tin-and-its-native-land-facsimile-reprint.md). *JMBRAS* 93(2): 193–99
@@ -84,5 +84,5 @@ A recurring tension in the literature is between the ambition of individual Fren
 3. <span id="ref-3"></span> C. Duclos-Legris and C.N. Parkinson (1952). [The journal of a Frenchman in Malayan waters, 1804; . C. Northcote Parkinson](./the-journal-of-a-frenchman-in-malayan-waters-1804-c-northcot.md) *JMBRAS* 25(1): 68–83. <a href="https://www.jstor.org/stable/41502935" class="aggregator-link" target="_blank" rel="noopener noreferrer">Read on JSTOR</a>
 4. <span id="ref-4"></span> X. Brau De Saint Pol Lias (2020). [Tin and its native land. Facsimile reprint](./tin-and-its-native-land-facsimile-reprint.md) *JMBRAS* 93(2): 193–99. <a href="https://www.jstor.org/stable/10.2307/27368670" class="aggregator-link" target="_blank" rel="noopener noreferrer">Read on JSTOR</a>
 5. <span id="ref-5"></span> P. Pécot et al. (2020). [The voyages of Father Pécot in the Peninsula, 1821–23](./the-voyages-of-father-pécot-in-the-peninsula-182123.md) *JMBRAS* 93(2): 167–92.
-6. <span id="ref-6"></span> H. de Bougainville (2017). [Malacca in 1824: an eye-witness account. . Dyer; with an introd. and notes](./malacca-in-1824-an-eye-witness-account-dyer-with-an-introd-a.md) *JMBRAS* 90(1): 131–137. <a href="https://www.jstor.org/stable/10.2307/26527786" class="aggregator-link" target="_blank" rel="noopener noreferrer">Read on JSTOR</a>
+6. <span id="ref-6"></span> H. de Bougainville (2017). [Malacca in 1824: an eye-witness account](./malacca-in-1824-an-eye-witness-account.md) *JMBRAS* 90(1): 131–137. <a href="https://www.jstor.org/stable/10.2307/26527786" class="aggregator-link" target="_blank" rel="noopener noreferrer">Read on JSTOR</a>
 7. <span id="ref-7"></span> X. Brau De Saint Pol Lias (2020). [Atché (Sumatra) [Aceh]. . Dyer; with a note P. Kratoska](./atché-sumatra-aceh-dyer-with-a-note-p-kratoska.md) *JMBRAS* 93(2): 205–29. <a href="https://www.jstor.org/stable/10.2307/27368672" class="aggregator-link" target="_blank" rel="noopener noreferrer">Read on JSTOR</a>

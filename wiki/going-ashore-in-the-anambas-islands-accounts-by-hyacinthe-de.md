@@ -1,10 +1,8 @@
 ---
 id: going-ashore-in-the-anambas-islands-accounts-by-hyacinthe-de
 work_id: jmbras-91-2-p143
-title: 'Going ashore in the Anambas Islands: accounts by Hyacinthe de Bougainville
-  and Cyrille Laplace in 1825 and 1831. . Dyer; with an introd. and notes'
-canonical_name: 'Going ashore in the Anambas Islands: accounts by Hyacinthe de Bougainville
-  and Cyrille Laplace in 1825 and 1831. . Dyer; with an introd. and notes'
+title: 'Going ashore in the Anambas Islands: accounts by Hyacinthe de Bougainville and Cyrille Laplace in 1825 and 1831'
+canonical_name: 'Going ashore in the Anambas Islands: accounts by Hyacinthe de Bougainville and Cyrille Laplace in 1825 and 1831'
 type: publication
 authors:
 - C. Dyer
@@ -33,7 +31,7 @@ publication_type: translation
 jstor: https://www.jstor.org/stable/10.2307/26928007
 ---
 
-# Going ashore in the Anambas Islands: accounts by Hyacinthe de Bougainville and Cyrille Laplace in 1825 and 1831. . Dyer; with an introd. and notes
+# Going ashore in the Anambas Islands: accounts by Hyacinthe de Bougainville and Cyrille Laplace in 1825 and 1831
 
 ## Abstract
 

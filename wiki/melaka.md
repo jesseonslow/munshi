@@ -215,7 +215,7 @@ From the 1970s onwards, the emphasis moved towards quantitative economic analysi
 
 - [J.S. Bastin](./john-bastin.md) and [C.A. Gibson-Hill](./carl-alexander-gibson-hill.md) (1958). [Five early watercolour sketches of Penang & Malacca. J. Bastin and C.A. Gibson-Hill](./five-early-watercolour-sketches-of-penang-malacca-j-bastin-a.md). *JMBRAS* 31: 163–171
 - [C.O. Blagden](./co-blagden.md) et al. (1927). [Report of Governor Balthasar Bort on Malacca, 1678. .J. Bremner: with an introd. and notes C.O. Blagden](./report-of-governor-balthasar-bort-on-malacca-1678-j-bremner-.md). *JMBRAS* 5: 1–232
-- [H. de Bougainville](./h-de-bougainville.md) (2017). [Malacca in 1824: an eye-witness account. . Dyer; with an introd. and notes](./malacca-in-1824-an-eye-witness-account-dyer-with-an-introd-a.md). *JMBRAS* 90: 131–137
+- [H. de Bougainville](./hyacinthe-de-bougainville.md) (2017). [Malacca in 1824: an eye-witness account](./malacca-in-1824-an-eye-witness-account.md). *JMBRAS* 90: 131–137
 - Hoynck van Papendrecht, R.B. Private letters from Malacca etc. 1778–88. MB 21(1)
 - [J.G. Koenig](./jg-koenig.md) (1894). [Journal of a voyage from India to Siam and Malacca in 1779](./journal-of-a-voyage-from-india-to-siam-and-malacca-in-1779.md). *JSBRAS* 27: 57–133
 - [M. MacDonald](./m-macdonald.md) (1934). [Notes on the translation of Bort’s report on Malacca in Journal M.B.R.A.S. 1927](./notes-on-the-translation-of-borts-report-on-malacca-in-journ.md). *JMBRAS* 12(2): 24–26

@@ -92,8 +92,8 @@ Across the full span of the records, a consistent theme emerges: funeral rites a
 - [A.E. Cherian](./ae-cherian.md) (2016). [Singaporean reactions to the commemoration of Lee Kuan Yew in Tamil Nadu](./singaporean-reactions-to-the-commemoration-of-lee-kuan-yew-i.md). *JMBRAS* 89: 137–153
 - [Tom Harrisson](./tom-harrisson.md) and [S.J. O'Connor](./sj-oconnor.md) (1971). [Gold-foil burial amulets in Bali, Philippines and Borneo. S.J. O’Connor and T. Harrisson](./gold-foil-burial-amulets-in-bali-philippines-and-borneo-sj-o.md). *JMBRAS* 44: 70–77
 - [R. Hong Cheng Yee](./r-hong-cheng-yee.md) (2016). [Individual and state narratives of Lee Kuan Yew as ancestor and founding father](./individual-and-state-narratives-of-lee-kuan-yew-as-ancestor-.md). *JMBRAS* 89: 115–121
-- [M. Kaplan](./m-kaplan.md) and [J. Kelly](./j-kelly.md) (2016). [Ethnographic notes on the state funeral of Lee Kuan Yew: introduction](./ethnographic-notes-on-the-state-funeral-of-lee-kuan-yew-intr.md). *JMBRAS* 89: 81–83
-- [J. Kelly](./j-kelly.md) (2016). [Nation and consecration: conversions of death into sacrifice in Singapore](./nation-and-consecration-conversions-of-death-into-sacrifice-.md). *JMBRAS* 89: 84–105
+- [M. Kaplan](./martha-kaplan.md) and [J. Kelly](./john-kelly.md) (2016). [Ethnographic notes on the state funeral of Lee Kuan Yew: introduction](./ethnographic-notes-on-the-state-funeral-of-lee-kuan-yew-intr.md). *JMBRAS* 89: 81–83
+- [J. Kelly](./john-kelly.md) (2016). [Nation and consecration: conversions of death into sacrifice in Singapore](./nation-and-consecration-conversions-of-death-into-sacrifice-.md). *JMBRAS* 89: 84–105
 - Li Nanlan. National mourning rites for Lee Kuan Yew. MB 89(1)
 - Scott, J.G. Annamese funeral rites (extract from France and Tongking 1885). SB 15
 - [M. Topley](./m-topley.md) (1952). [Chinese rites for the repose of the soul; with special reference to Cantonese custom](./chinese-rites-for-the-repose-of-the-soul-with-special-refere.md). *JMBRAS* 25: 149–160
