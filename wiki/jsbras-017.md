@@ -25,7 +25,7 @@ contributors:
 - id: we-maxwell
   name: W.E. Maxwell
 - id: sir-hugh-charles-clifford
-  name: Sir Hugh Charles Clifford 
+  name: Sir Hugh Charles Clifford
 parent_hub: journal-of-the-malaysian-branch-of-the-royal-asiatic-society
 status: stub
 published: false
@@ -214,9 +214,10 @@ articles:
   pages: '158'
   is_review: false
 ---
+
 # JSBRAS No. 17 (June 1886)
 
-**Series:** Journal of the Straits Branch of the Royal Asiatic Society  
+**Series:** [Journal of the Straits Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** June 1886
 
 ## Table of Contents

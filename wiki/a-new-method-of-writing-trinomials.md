@@ -25,7 +25,7 @@ publication_type: note
 
 # A new method of writing trinomials
 
-This short note by J. C. Moulton, published in JSBRAS Vol. 85 (1922), addresses typographic conventions for writing trinomial (subspecies) names in zoological literature.
+This short note by [J. C. Moulton](./john-coney-moulton.md), published in [JSBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md) Vol. 85 (1922), addresses typographic conventions for writing trinomial (subspecies) names in zoological [literature](./literature.md).
 
 ## Summary
 

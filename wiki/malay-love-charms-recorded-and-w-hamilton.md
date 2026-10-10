@@ -26,11 +26,11 @@ jstor: https://www.jstor.org/stable/41559640
 
 # Malay love charms. Recorded and .W. Hamilton
 
-A. W. Hamilton's "Malay Love Charms" (JMBRAS Vol. 4, 1926, pp. 136–138) is a short note presenting six recorded Malay love charms with accompanying English translations.
+A. W. Hamilton's "Malay Love Charms" (JMBRAS Vol. 4, 1926, pp. 136–138) is a short note presenting six recorded [Malay](./malay.md) love [charms](./charms.md) with accompanying English translations.
 
 ## Summary
 
-The note documents a collection of Malay incantations (pemanis) used for purposes of attracting romantic or sexual favour, each tied to a specific domestic action: reciting while combing hair, oiling the head, bathing under the moon, or preparing a cigarette. The charms employ characteristic Malay poetic imagery—sweet limes, hawks, swirling water, and references to Islamic figures (Muhammad, David, Solomon)—to direct love toward the speaker and hatred away from rivals (pp. 136–138). Hamilton provides both the original Malay text and a loose English rendering for each charm, with brief functional headings identifying the context of use.
+The note documents a collection of Malay [incantations](./incantations.md) (pemanis) used for purposes of attracting romantic or sexual favour, each tied to a specific domestic action: reciting while combing hair, oiling the head, bathing under the moon, or preparing a cigarette. The charms employ characteristic Malay poetic imagery—sweet limes, [hawks](./hawks.md), swirling water, and references to Islamic figures (Muhammad, David, Solomon)—to direct love toward the speaker and hatred away from rivals (pp. 136–138). Hamilton provides both the original Malay text and a loose English rendering for each charm, with brief functional headings identifying the context of use.
 
 ## References
 <!-- Grounded occurrences and citations -->

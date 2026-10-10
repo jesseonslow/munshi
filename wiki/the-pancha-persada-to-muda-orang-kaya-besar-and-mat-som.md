@@ -26,11 +26,11 @@ publication_type: note
 
 # The Pancha Persada. To’ Muda Orang Kaya Besar and Mat Som
 
-This is a brief notice or short note titled "The Pancha Persada," authored by To' Muda Orang Kaya Besar and Che' Mat Som, published in JMBRAS Vol. 24, No. 3 (1951), pp. 147–149.
+This is a brief notice or short note titled "The Pancha Persada," authored by [To' Muda Orang Kaya Besar](./to-muda-orang-kaya-besar.md) and Che' [Mat Som](./mat-som.md), published in [JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md) Vol. 24, No. 3 (1951), pp. 147–149.
 
 ## Summary
 
-The document appears to be a very short item, likely a brief notice or announcement concerning the Pancha Persada — a term denoting a council or group of five senior figures in the Malay administrative or customary context. The available text consists of a title page with an accompanying illustration (p. 147), and the substantive content of the note is not reproduced in the source material provided. The authors' titles (Orang Kaya Besar, a high-ranking Malay chief) suggest the note carries authority on the subject matter.
+The document appears to be a very short item, likely a brief notice or announcement concerning the Pancha Persada — a term denoting a council or group of five senior figures in the [Malay](./malay.md) administrative or customary context. The available text consists of a title page with an accompanying illustration (p. 147), and the substantive content of the note is not reproduced in the source material provided. The authors' titles (Orang Kaya Besar, a high-ranking Malay chief) suggest the note carries authority on the subject matter.
 
 ## References
 <!-- Grounded occurrences and citations -->

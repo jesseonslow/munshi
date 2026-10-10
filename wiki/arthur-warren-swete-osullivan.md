@@ -20,7 +20,7 @@ published: false
 
 ## MBRAS Sources
 
-- Bland, R.N. Obituary. SB 41
+- [Bland, R.N](./rn-bland.md). Obituary. SB 41
 
 ## References
 <!-- Grounded occurrences and citations -->

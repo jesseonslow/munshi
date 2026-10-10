@@ -88,7 +88,7 @@ articles:
 
 # JSBRAS No. 54 (January 1910)
 
-**Series:** Journal of the Straits Branch of the Royal Asiatic Society  
+**Series:** [Journal of the Straits Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** January 1910
 
 ## Table of Contents

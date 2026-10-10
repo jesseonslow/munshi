@@ -18,8 +18,8 @@ published: false
 
 ## MBRAS Sources
 
-- Anon. [Anon. Armenian inscriptions](./mbras-reprint-15.md). *Reprint* 15
-- [J.V. Mills](./jv-mills.md) (1936). [Notes on the Armenian tombstones at Malacca](./notes-on-the-armenian-tombstones-at-malacca.md). *JMBRAS* 14(3): 264–271
+- [Anon](./anon-and-unidentifiable-initials.md). [Anon. Armenian inscriptions](./mbras-reprint-15.md). *Reprint* 15
+- [J.V. Mills](./jv-mills.md) (1936). [Notes on the Armenian tombstones at Malacca](./notes-on-the-armenian-tombstones-at-[malacca](./melaka.md).md). *[JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* 14(3): 264–271
 
 ## References
 <!-- Grounded occurrences and citations -->

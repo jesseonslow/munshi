@@ -34,12 +34,12 @@ published: false
 - **PART II**
   6. Public Figures and Public Affairs
   7. Rubber and Tin
-  8. The Malay Community in the Twentieth Century
+  8. The [Malay](./malay.md) Community in the Twentieth Century
   9. A Changing Society
   10. From War to Independence (1939 – 1957)
 - Glossary
 - Bibliography
-- Index
+- [Index](./index.md)
 
 ## Summary
 <!-- Synthesis engine: Insert chapter summaries or overview here -->

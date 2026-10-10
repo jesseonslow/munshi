@@ -18,7 +18,7 @@ gender: female
 
 ## Biography
 
-Sally Kent is curator for the Royal Commonwealth Society (Department of World Collections) at Cambridge University Libraries and Archives.
+Sally Kent is curator for the Royal Commonwealth Society (Department of World Collections) at Cambridge University Libraries and [Archives](./archives.md).
 
 ## Bibliography
 - (2025) [Archives of the British Association of Malaysia and Singapore relating  to the Second World War](./archives-of-the-british-association-of-malaysia-and-singapor.md). *JMBRAS* 98(2): 131–137

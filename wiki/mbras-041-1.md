@@ -136,10 +136,9 @@ articles:
   is_review: false
 ---
 
-
 # JMBRAS Vol. 41, Part 1 (July 1968)
 
-**Series:** Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society  
+**Series:** Journal of the Malayan/[Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** July 1968
 
 ## Table of Contents

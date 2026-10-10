@@ -94,7 +94,7 @@ articles:
 
 # JSBRAS No. 11 (June 1883)
 
-**Series:** Journal of the Straits Branch of the Royal Asiatic Society  
+**Series:** [Journal of the Straits Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** June 1883
 
 ## Table of Contents

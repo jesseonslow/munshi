@@ -19,7 +19,7 @@ published: false
 
 ## MBRAS Sources
 
-- Anon. Flags of the Malay Peninsula. SB 75
+- [Anon](./anon-and-unidentifiable-initials.md). Flags of the [Malay](./malay.md) Peninsula. SB 75
 
 ## References
 <!-- Grounded occurrences and citations -->

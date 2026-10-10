@@ -100,10 +100,9 @@ articles:
   is_review: false
 ---
 
-
 # JMBRAS Vol. 47, Part 1 (July 1974)
 
-**Series:** Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society  
+**Series:** Journal of the Malayan/[Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** July 1974
 
 ## Table of Contents

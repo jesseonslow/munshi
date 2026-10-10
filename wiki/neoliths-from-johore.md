@@ -26,11 +26,11 @@ jstor: https://www.jstor.org/stable/41587439
 
 # Neoliths from Johore
 
-This short note by Engku Abdul-Aziz, D.K., documents the discovery of four stone implements on the beach at Tanjong Bunga, West coast of the Straits of Johore, in 1919 (p. 159).
+This short note by Engku Abdul-Aziz, D.K., documents the discovery of four stone [implements](./implements.md) on the beach at Tanjong Bunga, West coast of the Straits of [Johore](./johor.md), in 1919 (p. 159).
 
 ## Summary
 
-Abdul-Aziz describes finding the implements on white clay near the bank after heavy rain washed away sand near his wooden house on the beach. The site, known locally as "Changkrik Mak Dudok" or "Janggut Mak Dodok," appears to have been an old settlement with several graves (p. 159). The Dutch expert Dr. Ph. van Stein Callenfels identified the two smaller stones as neoliths, while the larger specimen may or may not be a manufact (p. 159). The author also notes a related polished stone implement in the Raffles Museum collection, found at Tanjong Karang on the West coast of Singapore, approximately four miles south-east of Tanjong Bunga (p. 159). The article is accompanied by Plate XLII, which reproduces the specimens.
+Abdul-Aziz describes finding the implements on white clay near the bank after heavy rain washed away sand near his wooden house on the beach. The site, known locally as "Changkrik Mak Dudok" or "Janggut Mak Dodok," appears to have been an old settlement with several [graves](./graves.md) (p. 159). The Dutch expert Dr. Ph. van Stein Callenfels identified the two smaller stones as neoliths, while the larger specimen may or may not be a manufact (p. 159). The author also notes a related polished stone implement in the [Raffles](./stamford-raffles.md) Museum collection, found at Tanjong Karang on the West coast of [Singapore](./singapore.md), approximately four miles south-east of Tanjong Bunga (p. 159). The article is accompanied by Plate XLII, which reproduces the specimens.
 
 ## References
 <!-- Grounded occurrences and citations -->

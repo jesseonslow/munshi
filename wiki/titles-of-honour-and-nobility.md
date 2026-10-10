@@ -23,9 +23,9 @@ published: false
 
 - Burney, H. Siamese titles. SB 1
 - Anon. [Hale, A. Sang possibly of Indian origin – used in Kinta](./mbras-reprint-15.md). *Reprint* 15
-- Linehan, W. Royal modes of address in Pahang. MB 4(3)
-- Anon. [Maxwell, W.E. Malay titles in Perak](./mbras-reprint-15.md). *Reprint* 15
-- [R.O. Winstedt](./richard-olaf-winstedt.md) (1940). [Malay titles](./malay-titles.md). *JMBRAS* 18(2): 146–148
+- [Linehan, W](./w-linehan.md). Royal modes of address in [Pahang](./pahang.md). MB 4(3)
+- [Anon](./anon-and-unidentifiable-initials.md). [Maxwell, W.E. Malay titles in Perak](./mbras-reprint-15.md). *Reprint* 15
+- [R.O. Winstedt](./richard-olaf-winstedt.md) (1940). [Malay titles](./malay-titles.md). *[JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* 18(2): 146–148
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,13 +25,13 @@ publication_type: document
 
 # Some Perak pedigrees
 
-"Some Perak Pedigrees" by R. O. Winstedt presents genealogical charts of five major Perak royal and noble families, copied from a manuscript by Raja Haji Yahya, the late mufti of Perak (p. 55).
+"Some Perak Pedigrees" by [R. O. Winstedt](./richard-olaf-winstedt.md) presents genealogical charts of five major Perak royal and noble families, copied from a manuscript by [Raja Haji](./raja-haji.md) Yahya, the late mufti of [Perak](./perak.md) (p. 55).
 
 ## Summary
 
-Winstedt introduces the pedigrees by noting their value for establishing approximate dates in Malay history, which typically lacks chronological data (p. 55). He discusses the dating of Tun Saban, the earliest figure in Perak's history, suggesting that comparative study of the Perak genealogies points to the end of the seventeenth century, while the more reliable genealogy of the Perak Sayids would place the founding of the Perak dynasty at the beginning of that century (p. 55).
+Winstedt introduces the pedigrees by noting their value for establishing approximate dates in [Malay](./malay.md) history, which typically lacks chronological data (p. 55). He discusses the dating of Tun Saban, the earliest figure in Perak's history, suggesting that comparative study of the Perak [genealogies](./genealogies.md) points to the end of the seventeenth century, while the more reliable genealogy of the Perak Sayids would place the founding of the Perak dynasty at the beginning of that century (p. 55).
 
-The document then presents five family trees: the Seri Adika Raja (pp. 56–57), the Seri Amar 'diraja (p. 58), the Penglima Kinta (p. 59), the Megats who held the office of Bendahara until 1770 (p. 60), and the Laksamana, whose founder Nakhoda Hitam was a trader from Pasai (p. 62). A brief note on p. 61 records the Sri Nara 'diraja family's claim to two earlier holders of the Orang Kaya Besar office.
+The document then presents five family [trees](./trees.md): the Seri Adika Raja (pp. 56–57), the Seri Amar 'diraja (p. 58), the Penglima Kinta (p. 59), the Megats who held the office of Bendahara until 1770 (p. 60), and the Laksamana, whose founder Nakhoda Hitam was a trader from [Pasai](./pasai.md) (p. 62). A brief note on p. 61 records the Sri Nara 'diraja [family](./family.md)'s claim to two earlier holders of the Orang Kaya Besar office.
 
 ## References
 <!-- Grounded occurrences and citations -->

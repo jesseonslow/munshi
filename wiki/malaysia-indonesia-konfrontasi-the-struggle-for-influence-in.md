@@ -29,7 +29,7 @@ publication_type: journal_article
 
 # Malaysia-Indonesia Konfrontasi : the struggle for influence in the Middle East. I. Karuppannan and Shakila Yacob
 
-This document is the front matter for the article "Malaysia-Indonesia Konfrontasi: The Struggle for Influence in the Middle East" by Ilango Karuppannan and Shakila Yacob, published in *JMBRAS* Vol. 93, No. 1 (2020), pp. 67–90.
+This document is the front matter for the article "[Malaysia](./malaysia.md)-[Indonesia](./indonesia.md) Konfrontasi: The Struggle for Influence in the Middle East" by Ilango Karuppannan and [Shakila Yacob](./shakila-yacob.md), published in *[JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* Vol. 93, No. 1 (2020), pp. 67–90.
 
 ## Summary
 

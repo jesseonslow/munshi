@@ -21,11 +21,11 @@ published: false
 
 **SKU:** M09 | **Year:** 1981 | **Pages:** 491
 
-The Babad Dipanagara is a Javanese historical chronicle that describes the events leading up to the outbreak of the Java War between the Yogyakarta prince Dipanagara and the Dutch colonial regime. The Surakarta court version of the Babad has been masterfully rendered into English and Indonesian Malay.
+The Babad Dipanagara is a Javanese historical chronicle that describes the events leading up to the outbreak of the [Java](./java.md) War between the Yogyakarta prince Dipanagara and the Dutch colonial regime. The Surakarta court version of the Babad has been masterfully rendered into English and Indonesian [Malay](./malay.md).
 
 ## The Author
 
-Dr Peter Carey MBE, MA, PhD, FRHistS was born in Rangoon in 1948. Despite a childhood speech defect that resulted in a devastating stammer which required constant public vigilance and speech therapy, Dr Carey displayed all the signs of a redoubtable scholar when he graduated with a First in Modern History from Oxford. Following this, Carey went on to a graduate studentship at Cornell University, New York. He later returned to Oxford where he embarked on a three-decade career that saw him emerging as a specialist in the modern history and politics of Indonesia,Burma and East Timor. Apart from the current MBRAS monograph, Carey was also responsible for undertaking an oral history project that documented the Indonesian occupation of East Timor between 1975 and 1999. Carey was formerly the Laithwaite Fellow of Modern History at Trinity College, Oxford. A regular commentator on Southeast Asian politics to the British media, Carey is currently the Country Director for the Jakarta-based Cambodia Trust, a non-governmental initiative that was conceived by him and like-minded friends in an Oxford pub.
+Dr Peter Carey MBE, MA, PhD, FRHistS was born in Rangoon in 1948. Despite a childhood speech defect that resulted in a devastating stammer which required constant public vigilance and speech therapy, Dr Carey displayed all the signs of a redoubtable scholar when he graduated with a First in Modern [History](./history.md) from Oxford. Following this, Carey went on to a graduate studentship at Cornell University, New York. He later returned to Oxford where he embarked on a three-decade career that saw him emerging as a specialist in the modern history and politics of [Indonesia](./indonesia.md),[Burma](./burma.md) and East Timor. Apart from the current [MBRAS](./malaysian-branch-of-the-royal-asiatic-society.md) monograph, Carey was also responsible for undertaking an oral history project that documented the Indonesian occupation of East Timor between 1975 and 1999. Carey was formerly the Laithwaite Fellow of Modern History at Trinity College, Oxford. A regular commentator on Southeast Asian politics to the British media, Carey is currently the Country Director for the [Jakarta](./jakarta.md)-based [Cambodia](./cambodia.md) Trust, a non-governmental initiative that was conceived by him and like-minded friends in an Oxford pub.
 
 ## Contents
 
@@ -39,18 +39,18 @@ Dr Peter Carey MBE, MA, PhD, FRHistS was born in Rangoon in 1948. Despite a chil
   1. The Authorship of the Manuscript
   1. The Viewpoint of the Author
   1. The Other Javanese Historical Accounts
-  1. The European Source
+  1. The [European](./european.md) Source
   1. Orthography and Transliteration
   1. The Dating Systems
-  1. Dipanagara and the Java War: An Historical Sketch
+  1. Dipanagara and the [Java](./java.md) War: An Historical Sketch
   1. Synopsis of the Text
 - Text and English Translation
 - Indonesian Malay Translation
 - Historical Notes and Commentary
 - English Glossary of Javanese Words
-- Indonesian Malay Glossary
+- Indonesian [Malay](./malay.md) Glossary
 - Bibliography
-- Index
+- [Index](./index.md)
 - Maps
 
 ## Summary

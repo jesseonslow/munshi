@@ -36,7 +36,7 @@ articles:
 
 # JSBRAS No. 48 (June 1907)
 
-**Series:** Journal of the Straits Branch of the Royal Asiatic Society  
+**Series:** [Journal of the Straits Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** June 1907
 
 ## Table of Contents

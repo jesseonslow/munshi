@@ -21,7 +21,7 @@ published: false
 
 ## MBRAS Sources
 
-- Linehan, W. Ptolemy’s place-names in Malay Peninsula. B 24(3) and 25(1)
+- [Linehan, W](./w-linehan.md). Ptolemy’s place-names in [Malay](./malay.md) Peninsula. B 24(3) and 25(1)
 
 ## References
 <!-- Grounded occurrences and citations -->

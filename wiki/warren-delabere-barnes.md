@@ -18,7 +18,7 @@ published: false
 
 ## MBRAS Sources
 
-- Hanitsch, R. Obituary. SB 60
+- [Hanitsch, R](./hanitsch-r.md). Obituary. SB 60
 
 ## References
 <!-- Grounded occurrences and citations -->

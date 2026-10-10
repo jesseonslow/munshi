@@ -29,7 +29,7 @@ jstor: https://www.jstor.org/stable/41559573
 
 # Some birds of Christmas Island (Indian Ocean). F.N. Chasen and C.B. Kloss. Records of the Raffles Museum, No. 4
 
-This is a short taxonomic note by F. N. Chasen and C. Boden Kloss reporting on bird specimens collected at Christmas Island (Indian Ocean), published in the *Journal of the Malayan Branch of the Royal Asiatic Society* (1924).
+This is a short taxonomic note by F. N. Chasen and C. Boden Kloss reporting on bird specimens collected at [Christmas Island](./christmas-island.md) (Indian Ocean), published in the *[Journal of the Malayan Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* (1924).
 
 ## Summary
 

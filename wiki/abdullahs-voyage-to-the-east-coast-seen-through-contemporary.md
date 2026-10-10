@@ -26,11 +26,11 @@ jstor: https://www.jstor.org/stable/41491894
 
 # Abdullah’s voyage to the east coast, seen through contemporary eyes
 
-C. Skinner's 1966 article uses the *Singapore Free Press*—a weekly English-language newspaper published in the 1830s—to cross-reference and contextualise Abdullah's *Kisah Pelayaran Abdullah*, the account of his 1838 mission to Kelantan to secure the release of detained *sampan pukat* trading vessels. Skinner demonstrates that the *Kisah* compresses the actual timeline of the voyage, flatters its author at the expense of his Chinese interpreter Ko An, and omits the broader commercial and political context that the newspaper record preserves.
+[C. Skinner](./cyril-skinner.md)'s 1966 article uses the *[Singapore](./singapore.md) Free Press*—a weekly English-language newspaper published in the 1830s—to cross-reference and contextualise Abdullah's *Kisah Pelayaran Abdullah*, the account of his 1838 mission to [Kelantan](./kelantan.md) to secure the release of detained *sampan pukat* trading vessels. Skinner demonstrates that the *Kisah* compresses the actual timeline of the voyage, flatters its author at the expense of his [Chinese](./chinese.md) interpreter Ko An, and omits the broader commercial and political context that the newspaper record preserves.
 
 ## Summary
 
-The article's central methodological move is to treat a contemporary commercial newspaper as a primary source for verifying and correcting a literary-historical text. Skinner begins by establishing the economic backdrop: the *Free Press* of January 1837 provides a detailed account of the *sampan pukat* trade between Singapore and the East Coast, noting that the trade had collapsed from its peak of fourteen or fifteen vessels (each carrying cargoes worth over $20,000) to just four boats by 1837, owing to piracy, mismanagement, and over-capitalisation. This context explains why the detention of these vessels in Kelantan during the succession war was a matter of serious commercial urgency for the Chinese merchants who financed the expedition.
+The article's central methodological move is to treat a contemporary commercial newspaper as a primary source for verifying and correcting a literary-historical text. Skinner begins by establishing the economic backdrop: the *Free Press* of January 1837 provides a detailed account of the *sampan pukat* trade between [Singapore](./singapore.md) and the East Coast, noting that the trade had collapsed from its peak of fourteen or fifteen vessels (each carrying cargoes worth over $20,000) to just four boats by 1837, owing to [piracy](./piracy.md), mismanagement, and over-capitalisation. This context explains why the detention of these vessels in [Kelantan](./kelantan.md) during the succession war was a matter of serious commercial urgency for the [Chinese](./chinese.md) merchants who financed the expedition.
 
 Skinner then reconstructs the actual chronology of the voyage against the *Kisah*'s narrative. The expedition departed Singapore at midnight on 27 March 1838 and returned on 24 April, but the time actually spent in Kelantan was remarkably brief—roughly from midday on Friday 13 April to midnight on Saturday 14 April, a period of about thirty-six hours during which all the incidents Abdullah recounts as occurring in the Kelantan capital were crammed. The *Kisah*'s narrative structure, with its many encounters and visits, creates the false impression of a much longer stay. Skinner also identifies the two vessels used—the *Maggy Lawder* and the *Water Witch*—as celebrated racing yachts in Singapore harbour, not unremarkable trading craft, which adds a layer of social context absent from Abdullah's account.
 
@@ -41,7 +41,7 @@ The most significant finding concerns the portrayal of Ko An, the Chinese interp
 - The *sampan pukat* trade had peaked at 14–15 vessels with annual capital of approximately $800,000, but had fallen to just four boats by 1837 before recovering to eight (p. 23).
 - The property detained in Kelantan was valued at between $50,000 and $60,000; the vessels were released empty, with compensation promised but never confirmed (pp. 25, 27).
 - The actual Kelantan stay lasted only from midday Friday 13 April to midnight Saturday 14 April 1838—approximately 36 hours—despite the *Kisah*'s narrative implying a much longer period (p. 27).
-- The Bendahara despatched an embassy to Siam with presents worth $10,000 to secure Siamese intervention in the succession dispute (p. 29).
+- The Bendahara despatched an embassy to [Siam](./thailand.md) with presents worth $10,000 to secure Siamese intervention in the succession dispute (p. 29).
 - Abdullah's agreed fee for the mission was $80; the financing syndicate initially withheld payment, and he only received it after appealing to the magistrates' clerk, Mr. James Loch (p. 32).
 - The *Free Press* reported that a *sampan pukat* which escaped from Kelantan left behind three swivels, smaller firearms, and gunpowder that had been seized by one of the contending parties (p. 26).
 
@@ -51,8 +51,8 @@ Skinner's definitive takeaway is that the *Kisah Pelayaran Abdullah*, while a va
 
 ## Context
 
-- Primary archival source: the *Singapore Free Press* (1837–1838 issues), supplemented by cross-references to Wong Lin Ken's study of Singapore trade and Gibson-Hill's work on the *Singapore Chronicle* and Straits steamers.
-- Historiographical contribution: one of the first systematic attempts to use contemporary English-language newspaper reporting as a critical tool for evaluating the reliability of a Malay literary-historical text, establishing a method of "contemporary eyes" verification that subsequent scholars of the *Kisah* have followed.
+- Primary archival source: the *Singapore Free Press* (1837–1838 issues), supplemented by cross-references to [Wong Lin Ken](./wong-lin-ken.md)'s study of Singapore trade and [Gibson-Hill](./carl-alexander-gibson-hill.md)'s work on the *Singapore Chronicle* and Straits [steamers](./steamers.md).
+- Historiographical contribution: one of the first systematic attempts to use contemporary English-language newspaper reporting as a critical tool for evaluating the reliability of a [Malay](./malay.md) literary-historical text, establishing a method of "contemporary eyes" verification that subsequent scholars of the *Kisah* have followed.
 
 ## References
 <!-- Grounded occurrences and citations -->

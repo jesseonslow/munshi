@@ -18,7 +18,7 @@ published: false
 
 ## MBRAS Sources
 
-- [H.N. Ridley](./henry-nicholas-ridley.md) (1891). [Frugivorous habits of the Tupaia](./frugivorous-habits-of-the-tupaia.md). *JSBRAS* 23: 148
+- [H.N. Ridley](./henry-nicholas-ridley.md) (1891). [Frugivorous habits of the Tupaia](./frugivorous-habits-of-the-tupaia.md). *[JSBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* 23: 148
 
 ## References
 <!-- Grounded occurrences and citations -->

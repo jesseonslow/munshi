@@ -26,11 +26,11 @@ jstor: https://www.jstor.org/stable/41561716
 
 # Additions to a vocabulary of Brunei-Malay
 
-This short lexical note by G. T. MacBryan supplements a Brunei-Malay vocabulary previously published by Marshall in the April 1922 issue of the Journal (p. 376).
+This short lexical note by G. T. MacBryan supplements a [Brunei](./brunei.md)-[Malay](./malay.md) vocabulary previously published by Marshall in the April 1922 issue of the [Journal](./journal.md) (p. 376).
 
 ## Summary
 
-MacBryan contributes a list of words he considers peculiar to Brunei-Malay and absent from Marshall's original compilation, along with a second list (B) of terms where he found a different meaning or pronunciation than Marshall had recorded (p. 376). The entries span a range of semantic fields including verbs (e.g., *bergalap* "to play," *berjarang* "to cook," *tuhus* "to recede"), nouns (e.g., *paya* "swamp," *tebassan* "a farm," *undang* "prawn"), and function words (e.g., *dami* "like," *kada* = *kapada* "to") (pp. 376–377). Several entries include cross-references to related forms in Sarawak Malay, Selangor Malay, Singapore Malay, and Dayak, reflecting MacBryan's comparative approach to documenting Brunei-Malay as a distinct variety.
+MacBryan contributes a list of words he considers peculiar to Brunei-Malay and absent from Marshall's original compilation, along with a second list (B) of terms where he found a different meaning or pronunciation than Marshall had recorded (p. 376). The entries span a range of semantic fields including verbs (e.g., *bergalap* "to play," *berjarang* "to cook," *tuhus* "to recede"), nouns (e.g., *paya* "swamp," *tebassan* "a farm," *undang* "prawn"), and function words (e.g., *dami* "like," *kada* = *kapada* "to") (pp. 376–377). Several entries include cross-references to related forms in [Sarawak](./sarawak.md) Malay, [Selangor](./selangor.md) Malay, [Singapore](./singapore.md) Malay, and [Dayak](./dayaks.md), reflecting MacBryan's comparative approach to documenting [Brunei](./brunei.md)-[Malay](./malay.md) as a distinct variety.
 
 ## References
 <!-- Grounded occurrences and citations -->

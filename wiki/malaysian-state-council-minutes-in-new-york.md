@@ -26,7 +26,7 @@ jstor: https://www.jstor.org/stable/41492002
 
 # Malaysian State Council minutes in New York
 
-This is a short note by W.R. Roff documenting the discovery of Malaysian State Council minutes held in New York, published in the *Journal of the Malaysian Branch of the Royal Asiatic Society* (Vol. 42, No. 2, 1969).
+This is a short note by [W.R. Roff](./william-r-roff.md) documenting the discovery of Malaysian State Council minutes held in New York, published in the *[Journal of the Malaysian Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* (Vol. 42, No. 2, 1969).
 
 ## Summary
 

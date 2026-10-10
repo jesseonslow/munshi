@@ -24,9 +24,10 @@ source_path: ../sources/jmbras-248-bastin-stockdalessketchescivil-1985-798a4028a
 publication_type: note
 summarized: true
 ---
+
 # Stockdale’s sketches, civil and military, of the island of Java: a bibliographical note
 
-John Bastin’s 1985 bibliographical note examines the publication history of John Joseph Stockdale’s 1811 work on Java, situating the text within the immediate aftermath of the British conquest of the island. The author argues that the book’s multiple editions and issues reveal the publisher’s opportunistic rush to capitalize on military news before it officially reached London. Through a detailed examination of paper stocks and page numbering, Bastin clarifies the bibliographical record to distinguish between the various print runs and their historical significance.
+[John Bastin](./john-bastin.md)’s 1985 bibliographical note examines the publication history of John Joseph Stockdale’s 1811 work on [Java](./java.md), situating the text within the immediate aftermath of the British conquest of the island. The author argues that the book’s multiple editions and issues reveal the publisher’s opportunistic rush to capitalize on [military](./military.md) news before it officially reached London. Through a detailed examination of paper stocks and page numbering, Bastin clarifies the bibliographical record to distinguish between the [various](./various.md) print runs and their historical significance.
 
 ## Summary
 
@@ -39,7 +40,7 @@ Bastin distinguishes between three distinct issues of the second edition based o
 ### Key Findings
 
 *   The maps within the book bear dates of 24 September 1811 and 5 October 1811, indicating the text was prepared before the British landing in August 1811 (p. 91).
-*   Stockdale was a controversial publisher known for the *Memoirs* of Harriette Wilson and the rare poetry of Shelley, suggesting a commercial rather than purely scholarly motivation (p. 94).
+*   Stockdale was a controversial publisher known for the *Memoirs* of Harriette Wilson and the rare [poetry](./poetry.md) of Shelley, suggesting a commercial rather than purely scholarly motivation (p. 94).
 *   The 'Supplement' added to the second edition was printed by Francis Vigurs and published separately in 1812 before being bound into the main volume (p. 92).
 *   The third issue of the second edition is distinguished by lighter paper and a corrected error on page 59, distinguishing it from the earlier print runs (p. 93).
 *   News of the British victory at Meester Cornelis did not appear in the London press until 16 and 17 December 1811, yet the book was published earlier (p. 92).
@@ -51,8 +52,8 @@ Bastin’s analysis demonstrates that Stockdale’s *Sketches* was less a histor
 
 ## Context
 
-*   This article serves as a vital resource for the Malaysian Branch of the Royal Asiatic Society’s archival collections regarding early 19th-century colonial publications.
-*   It highlights the role of London publishers in shaping the historical narrative of Southeast Asia during the Napoleonic Wars.
+*   This article serves as a vital resource for the [Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)’s archival collections regarding early 19th-century colonial publications.
+*   It highlights the role of London publishers in shaping the historical narrative of [Southeast Asia](./southeast-asia.md) during the Napoleonic Wars.
 
 ## References
 <!-- Grounded occurrences and citations -->

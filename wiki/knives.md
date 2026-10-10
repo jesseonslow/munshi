@@ -23,7 +23,7 @@ published: false
 
 ## MBRAS Sources
 
-- [G.C. Woolley](./gc-woolley.md) (1947). [Notes on two knives in the Pitt-Rivers Museum](./notes-on-two-knives-in-the-pitt-rivers-museum.md). *JMBRAS* 20(2): 39–40
+- [G.C. Woolley](./gc-woolley.md) (1947). [Notes on two knives in the Pitt-Rivers Museum](./notes-on-two-knives-in-the-pitt-rivers-museum.md). *[JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* 20(2): 39–40
 
 ## References
 <!-- Grounded occurrences and citations -->

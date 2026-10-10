@@ -19,7 +19,7 @@ type: person
 
 ## MBRAS Sources
 
-- [M.W.F. Tweedie](./michael-wilmer-forbes-tweedie.md) (1951). [Anker Rentse. Obituary](./anker-rentse-obituary.md). *JMBRAS* 24: 192–193
+- [M.W.F. Tweedie](./michael-wilmer-forbes-tweedie.md) (1951). [Anker Rentse. Obituary](./anker-rentse-obituary.md). *[JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* 24: 192–193
 
 ## References
 <!-- Grounded occurrences and citations -->

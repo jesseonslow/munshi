@@ -17,11 +17,11 @@ email: moss@ukm.edu.my
 
 ## Biography
 
-Mohd Bin Samsudin is an Associate Professor at UKM SPHEA specializing on the history of Malaysia and foreign policy studies.
+Mohd Bin Samsudin is an Associate Professor at UKM SPHEA specializing on the history of [Malaysia](./malaysia.md) and foreign policy studies.
 
 ## Bibliography
 
-- (2022) [The Royal Navy and Disease in the Straits of Malacca, 1794–1815](./the-royal-navy-and-disease-in-the-straits-of-malacca-1794181.md). *JMBRAS* 95(2): 22–38
+- (2022) [The Royal Navy and Disease in the Straits of Malacca, 1794–1815](./the-royal-navy-and-disease-in-the-straits-of-malacca-1794181.md). *[JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* 95(2): 22–38
 
 ## References
 <!-- Grounded occurrences and citations -->

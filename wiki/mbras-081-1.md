@@ -95,9 +95,10 @@ articles:
   pages: 103–105
   is_review: true
 ---
+
 # JMBRAS Vol. 81, Part 1 (June 2008)
 
-**Series:** Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society  
+**Series:** Journal of the Malayan/[Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** June 2008
 
 ## Table of Contents

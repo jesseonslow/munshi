@@ -26,7 +26,7 @@ publication_type: note
 
 # Bekin
 
-This brief note by H. N. Ridley (p. 217) responds to remarks by Mr. Butler on fighting quails, reporting field observations from Sungei Ujong.
+This brief note by [H. N. Ridley](./henry-nicholas-ridley.md) (p. 217) responds to remarks by Mr. Butler on fighting quails, reporting field observations from [Sungei Ujong](./sungei-ujong.md).
 
 ## Summary
 

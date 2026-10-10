@@ -18,7 +18,7 @@ published: false
 
 ## Bibliography
 
-- [Notes on Economic Plants, Straits Settlements](./notes-on-economic-plants-straits-settlements.md). *JSBRAS* 18: 295-334.
+- [Notes on Economic Plants, Straits Settlements](./notes-on-economic-plants-straits-settlements.md). *[JSBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* 18: 295-334.
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -18,7 +18,7 @@ published: false
 
 ## MBRAS Sources
 
-- [G.E. Marrison](./ge-marrison.md) (1955). [Persian influences in Malay life](./persian-influences-in-malay-life.md). *JMBRAS* 28: 52–69
+- [G.E. Marrison](./ge-marrison.md) (1955). [Persian influences in Malay life](./persian-influences-in-malay-life.md). *[JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* 28: 52–69
 
 ## References
 <!-- Grounded occurrences and citations -->

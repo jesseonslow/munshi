@@ -24,11 +24,11 @@ published: false
 
 ## Tentang
 
-Buku ini membicarakan perniagaan haji di Pulau Pinang sejak abad ke-19 hingga 1970-an yang berpusat di Lebuh Acheh, George Town. Kajian ini memberi tumpuan kepada penglibatan orang Melayu-Muslim dalam bidang ini selain kesan perniagaan haji kepada pelbagai sektor ekonomi termasuk perniagaan buku/kitab, percetakan dan juga kesannya kepada peniaga-peniaga bukan Melayu. Surat Menyurat Sultan Abdul Hamid menyentuh pelbagai aspek sosio-ekonomi Kedah termasuk urusan belanjawan negeri Kedah, kegiatan ekonomi termasuk dari pelabur-pelabur Cina dari Pulau Pinang dan hubungan sosio-ekonomi Kedah dengan Siam dan Inggeris. Kumpulan esei-esei ini diterbitkan bawah Tabung Peringatan Tan Sri Mubin Sheppard.
+Buku ini membicarakan perniagaan haji di Pulau Pinang sejak abad ke-19 hingga 1970-an yang berpusat di Lebuh [Acheh](./aceh.md), George Town. Kajian ini memberi tumpuan kepada penglibatan orang Melayu-Muslim dalam bidang ini selain kesan perniagaan haji kepada pelbagai sektor ekonomi termasuk perniagaan buku/kitab, percetakan dan juga kesannya kepada peniaga-peniaga bukan Melayu. Surat Menyurat Sultan Abdul Hamid menyentuh pelbagai aspek sosio-ekonomi Kedah termasuk urusan belanjawan negeri Kedah, kegiatan ekonomi termasuk dari pelabur-pelabur Cina dari Pulau Pinang dan hubungan sosio-ekonomi [Kedah](./kedah.md) dengan [Siam](./thailand.md) dan Inggeris. Kumpulan esei-esei ini diterbitkan bawah Tabung Peringatan Tan Sri [Mubin Sheppard](./mubin-sheppard.md).
 
 ### **Isi Kandungan**
 
-1. Abu Talib bin Ahmad, Perniagaan Haji di Pulau Pinang dan Dokumentasi Sultan Kedah
+1. Abu Talib bin [Ahmad](./ahmad.md), Perniagaan Haji di Pulau Pinang dan Dokumentasi Sultan Kedah
 2. Siti Amirah binti Abdullah, Sejarah Perniagaan Haji di George Town, 1860-an - 1970-an
 3. Mohd Kasturi Nor bin Abd Aziz, Surat-Menyurat Sultan Abdul Hamid Sebagai Dokumen Sejarah Sosioekonomi Negeri Kedah (1881–1943)
 4. Indeks

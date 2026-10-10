@@ -26,7 +26,7 @@ jstor: https://www.jstor.org/stable/41492830
 
 # The outbreak of the first Anglo-Burman War
 
-This article by G.P. Ramachandra, published in the *Journal of the Malaysian Branch of the Royal Asiatic Society* (Vol. 51, No. 2, 1978, pp. 69–99), examines the outbreak of the First Anglo-Burman War.
+This article by [G.P. Ramachandra](./gp-ramachandra.md), published in the *[Journal of the Malaysian Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* (Vol. 51, No. 2, 1978, pp. 69–99), examines the outbreak of the First Anglo-Burman War.
 
 ## Summary
 

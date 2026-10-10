@@ -25,11 +25,11 @@ publication_type: note
 
 # A note on Kelantan gold coins
 
-A brief note by Anker Rentse on the interpretation of inscriptions on Kelantan gold coins, published in JMBRAS Vol. XIV (1936), p. 305.
+A brief note by [Anker Rentse](./anker-rentse.md) on the interpretation of [inscriptions](./inscriptions.md) on [Kelantan](./kelantan.md) gold [coins](./coins.md), published in [JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md) Vol. XIV (1936), p. 305.
 
 ## Summary
 
-Rentse responds to Mr. Linehan's earlier paper on Kelantan coins (JRASMB, vol. XII) by addressing a local belief that an inscription on the Kelantan *Masdinar* coin reads as 577 A.H., which would place the arrival of Islam in Kelantan at a very early date. Rentse argues that the inscription is more likely decorative (*bunga*) rather than a genuine date. He reports that Dr. van Stein Callenfels read the inscription as *Su*, a contraction of the Sanskrit *suwarna* (gold), paralleling the ancient Javanese usage of *Ma* (from *machankha*) for silver coins (p. 305).
+Rentse responds to Mr. Linehan's earlier paper on Kelantan coins (JRASMB, vol. XII) by addressing a local belief that an inscription on the Kelantan *Masdinar* coin reads as 577 A.H., which would place the arrival of [Islam](./islam.md) in [Kelantan](./kelantan.md) at a very early date. Rentse argues that the inscription is more likely decorative (*bunga*) rather than a genuine date. He reports that Dr. van Stein Callenfels read the inscription as *Su*, a contraction of the Sanskrit *suwarna* (gold), paralleling the ancient Javanese usage of *Ma* (from *machankha*) for [silver](./silver.md) [coins](./coins.md) (p. 305).
 
 The note also includes Plate XVIII, which provides illustrations of two clear specimens of the *Masdinar* coin and a specimen of a fourth kind of Kelantan gold coin previously described by Linehan but not illustrated (p. 305).
 

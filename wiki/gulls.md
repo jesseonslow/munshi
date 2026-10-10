@@ -21,7 +21,7 @@ The archival evidence records provided for this article are empty. No research r
 
 As Senior Archivist, I am bound by the strict grounding rules that prohibit me from inventing dates, observations, statistics, or ecological claims not attested in the records. I therefore cannot produce a grounded encyclopedia article on gulls without source material.
 
-If you can provide the relevant archival evidence records — for example, entries from *JMBRAS* or *JSBRAS* covering gull species observed in the Straits Settlements, the Malay Peninsula, or Borneo, including notes on taxonomy, distribution, economic significance (such as guano harvesting or fishery interactions), or ornithological surveys — I will compose the article in full accordance with the narrative architecture, house style, and citation conventions outlined above.
+If you can provide the relevant archival evidence records — for example, entries from *JMBRAS* or *[JSBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* covering gull species observed in the [Straits Settlements](./straits-settlements.md), the [Malay](./malay.md) Peninsula, or [Borneo](./borneo.md), including notes on taxonomy, distribution, economic significance (such as guano harvesting or fishery interactions), or ornithological [surveys](./surveys.md) — I will compose the article in full accordance with the narrative [architecture](./architecture.md), house style, and citation conventions outlined above.
 
 ## MBRAS Sources
 

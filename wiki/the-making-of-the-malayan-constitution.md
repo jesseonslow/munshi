@@ -22,11 +22,11 @@ published: false
 
 ## About
 
-In this Monograph, Joseph M. Fernando examines events in the 1950s leading to creation of the Alliance, the political coalition that handled preparations leading to independence and dominated politics in the decades that followed. He describes the somewhat ad-hoc way in which the Reid Commission was formed and their deliberations, along with the negotiations between the different parties in the Alliance. The work of the Reid Commission led to the Malayan Constitution as adopted at Merdeka in 1957. This book is an informative and insightful portrait of a key period in the history of modern Malaysia.
+In this Monograph, [Joseph M. Fernando](./joseph-m-fernando.md) examines events in the 1950s leading to creation of the Alliance, the political coalition that handled preparations leading to independence and dominated politics in the decades that followed. He describes the somewhat ad-hoc way in which the Reid Commission was formed and their deliberations, along with the negotiations between the different parties in the Alliance. The work of the Reid Commission led to the Malayan Constitution as adopted at Merdeka in 1957. This book is an informative and insightful portrait of a key period in the history of modern [Malaysia](./malaysia.md).
 
 ## The Author
 
-Joseph Milton Fernando is an Associate Professor at the Department of History in the University of Malaya and MBRAS council member. Dr. Fernando has also co-authored a recent biography of Ceylonese planter and pre-independence Malaya politician Sir E.E.C. Thuraisingham that was published by the University of Malaya Press. Dr. Fernando is an expert on the Malaysian Constitution, having produced several articles on its early origins and latter-day comparison with its American counterpart.
+Joseph Milton Fernando is an Associate Professor at the Department of History in the University of Malaya and [MBRAS](./malaysian-branch-of-the-royal-asiatic-society.md) council member. Dr. Fernando has also co-authored a recent biography of Ceylonese planter and pre-independence Malaya politician Sir E.E.C. Thuraisingham that was published by the University of [Malaya](./malaya.md) Press. Dr. Fernando is an expert on the Malaysian Constitution, having produced several articles on its early origins and latter-day comparison with its American counterpart.
 
 ## Contents
 

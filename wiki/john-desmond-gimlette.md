@@ -17,11 +17,11 @@ generated: true
 
 # John Desmond Gimlette
 
-The archival record for John Desmond Gimlette consists of a single one-page obituary by R. O. Winstedt published in 1934; no further biographical detail, career account, or scholarly assessment survives in the Society's literature.[[1]](#ref-1)
+The archival record for John Desmond Gimlette consists of a single one-page obituary by [R. O. Winstedt](./richard-olaf-winstedt.md) published in 1934; no further biographical detail, career account, or scholarly assessment survives in the Society's [literature](./literature.md).[[1]](#ref-1)
 
 ## Identity and Context
 
-John Desmond Gimlette was a member of the Straits Settlements Civil Service who died in the early 1930s, his passing being noted by R. O. Winstedt in the *Journal of the Malayan Branch of the Royal Asiatic Society* in 1934.[[1]](#ref-1) The obituary appears in Volume 12, Part 2, page 184, a section of the journal devoted to notices of deceased members and associates of the Society and its wider scholarly community.[[1]](#ref-1) No further particulars of his date of birth, posting history, or specific administrative duties are recorded in the available archival material.[[1]](#ref-1)
+John Desmond Gimlette was a member of the [Straits Settlements](./straits-settlements.md) Civil Service who died in the early 1930s, his passing being noted by R. O. Winstedt in the *[Journal of the Malayan Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* in 1934.[[1]](#ref-1) The obituary appears in Volume 12, Part 2, page 184, a section of the journal devoted to notices of deceased members and associates of the Society and its wider scholarly community.[[1]](#ref-1) No further particulars of his date of birth, posting history, or specific administrative duties are recorded in the available archival material.[[1]](#ref-1)
 
 ## The Obituary and Its Significance
 
@@ -29,7 +29,7 @@ Winstedt's notice, though brief, is characteristic of the obituary tradition mai
 
 ## Research and Documentation
 
-The record of John Desmond Gimlette in the Society's literature is limited to this single obituary. No articles authored by him, no reviews of his work, and no further references to his name appear in the archival material available to the Society. The absence of additional documentation means that his professional contributions, if any, remain unassessed in the published record. Future research in the Straits Settlements Civil Service archives or in the personal papers of Winstedt and his contemporaries might yield further information on his career and the circumstances of his death.
+The record of John Desmond Gimlette in the Society's literature is limited to this single obituary. No articles authored by him, no reviews of his work, and no further references to his name appear in the archival material available to the Society. The absence of additional documentation means that his professional contributions, if any, remain unassessed in the published record. Future research in the Straits Settlements Civil Service [archives](./archives.md) or in the personal papers of Winstedt and his contemporaries might yield further information on his career and the circumstances of his death.
 
 ## MBRAS Sources
 

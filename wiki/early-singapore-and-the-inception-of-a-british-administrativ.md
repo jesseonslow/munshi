@@ -28,7 +28,7 @@ jstor: https://www.jstor.org/stable/41491993
 
 # Early Singapore and the inception of a British administrative tradition in the Straits Settlements (1819–32
 
-This article by J. Kathirithamby-Wells, published in the *Journal of the Malaysian Branch of the Royal Asiatic Society* (Vol. 42, No. 2, 1969, pp. 48–73), examines the formative period of British administration in Singapore and the Straits Settlements between 1819 and 1832.
+This article by [J. Kathirithamby-Wells](./j-kathirithamby-wells.md), published in the *[Journal of the Malaysian Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* (Vol. 42, No. 2, 1969, pp. 48–73), examines the formative period of British administration in [Singapore](./singapore.md) and the [Straits Settlements](./straits-settlements.md) between 1819 and 1832.
 
 ## Summary
 

@@ -25,13 +25,13 @@ publication_type: document
 
 # The Malay howdah. NQ 2
 
-W.E. Maxwell, in collaboration with Charles Thomson, published this article in the *Journal of the Straits Branch of the Royal Asiatic Society* (Vol. 15, 1885), presenting a translated and annotated account of the French land decree imposed on Cambodia in October 1884. The article situates the decree within the broader context of European colonial land administration in Asia and argues that it represents a decisive shift from the protectorate's previous hands-off approach to direct French control over Cambodian land tenure and revenue.
+[W.E. Maxwell](./sir-william-edward-maxwell.md), in collaboration with Charles Thomson, published this article in the *[Journal of the Straits Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* (Vol. 15, 1885), presenting a translated and annotated account of the French land decree imposed on [Cambodia](./cambodia.md) in October 1884. The article situates the decree within the broader context of [European](./european.md) colonial land administration in Asia and argues that it represents a decisive shift from the protectorate's previous hands-off approach to direct French control over Cambodian [land tenure](./land-tenure.md) and revenue.
 
 ## Summary
 
 The article opens by referencing an earlier paper in the same journal (No. 13) that had reviewed native land tenure systems in Cambodia prior to 1884. Maxwell notes that the Convention of 1884 between France and Cambodia marked a fundamental change: where the previous twenty years of protectorate had allowed the King and mandarins to retain land revenue for personal enrichment, the new arrangement demanded that land tax become a source of "productive expenditure" and that peasants become owners of their land (p. 81). A quoted passage from *Excursions et Reconnaissances* (VIII, 206) articulates the French rationale: the peasant must become owner of his land, the slave master of his person, and justice must be regularly administered through a hierarchy of courts (p. 81).
 
-The bulk of the article is a full English translation of the "Order Relative to the Creation of Proproprietorship in Land in Cambodia," signed at Pnom-Penh on 28 October 1884 by Charles Thomson, Governor of Cochin-China. The decree is organised into seven parts covering the creation of property in land, division of the state-domain, administration, occupiers' rights, alienation procedures, registration, and dispossession. It declares that the territory of Cambodia, previously the exclusive property of the Crown, is now the property of the State, and divides the state-domain into four categories: Crown endowment, public domain, reserved lands, and alienable lands (pp. 83–84).
+The bulk of the article is a full English translation of the "Order Relative to the Creation of Proproprietorship in Land in Cambodia," signed at Pnom-Penh on 28 October 1884 by Charles Thomson, Governor of Cochin-[China](./china.md). The decree is organised into seven parts covering the creation of property in land, division of the state-domain, administration, occupiers' rights, alienation procedures, registration, and dispossession. It declares that the territory of Cambodia, previously the exclusive property of the Crown, is now the property of the State, and divides the state-domain into four categories: Crown endowment, public domain, reserved lands, and alienable lands (pp. 83–84).
 
 Maxwell's editorial framing is brief but pointed. He observes that the decrees are "of interest to Englishmen, to whom no experiment in colonisation and in the government of subject races can be a matter of indifference," and notes with some irony that whether the political condition of the country will admit of their peaceful introduction "remains yet to be seen" (p. 82). A footnote reproduces a passage from the *Annales de l'Extrême Orient* (July 1885) confirming that Cambodia was far from pacified, with anarchy reigning and the capital Pnom-Penh having been attacked (p. 82).
 
@@ -50,7 +50,7 @@ Maxwell presents the decree as a landmark attempt to transplant European concept
 
 ## Context
 
-- The article was published in the *Journal of the Straits Branch of the Royal Asiatic Society*, a periodical that regularly featured comparative studies of land tenure and revenue systems across Southeast Asia under European rule.
+- The article was published in the *Journal of the Straits Branch of the Royal Asiatic Society*, a periodical that regularly featured comparative studies of land tenure and revenue systems across [Southeast Asia](./southeast-asia.md) under European rule.
 - The decree was issued under the authority of the Governor of Cochin-China, reflecting the administrative subordination of Cambodia to the French colony of Cochin-China following the 1884 Convention.
 
 ## References

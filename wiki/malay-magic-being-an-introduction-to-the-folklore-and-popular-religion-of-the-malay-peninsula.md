@@ -24,11 +24,11 @@ published: false
 
 ## About
 
-Walter Skeat (1866 – 1953) wrote Malay Magic as a description of the Malay worldview as he observed it in Selangor in the 1890s, and of techniques—magic—for dealing with life’s uncertainties. The MBRAS reprint includes the complete and unabridged text of Skeat's book, with an introduction by J. M. Gullick and an appendix showing extensive notes on the subject made by Skeat after the book’s publication.
+Walter Skeat (1866 – 1953) wrote Malay Magic as a description of the [Malay](./malay.md) worldview as he observed it in [Selangor](./selangor.md) in the 1890s, and of techniques—[magic](./magic.md)—for dealing with life’s uncertainties. The [MBRAS](./malaysian-branch-of-the-royal-asiatic-society.md) reprint includes the complete and unabridged text of Skeat's book, with an introduction by [J. M. Gullick](./john-michael-gullick.md) and an appendix showing extensive notes on the subject made by Skeat after the book’s publication.
 
 ## The Author
 
-Walter William Skeat joined the Selangor Civil Service in May 1891 and served as District Officer in the Klang, Ulu Langat, and Kuala Langat districts of Selangor. Following an exhausting expedition to the Siamese-controlled northeastern Malay States in 1899, he became so ill that he was forced to resign his post and leave Malaya in early 1900. In 1914, Skeat took up the Studeley Lectureship at the British Museum and held that post till his retirement in 1934. For his valuable contribution to Malayan studies, he was made an Honorary Member of the MBRAS in 1951.
+[Walter William Skeat](./walter-william-skeat.md) joined the Selangor Civil Service in May 1891 and served as District Officer in the [Klang](./klang.md), Ulu Langat, and Kuala Langat districts of Selangor. Following an exhausting expedition to the Siamese-controlled northeastern Malay States in 1899, he became so ill that he was forced to resign his post and leave [Malaya](./malaya.md) in early 1900. In 1914, Skeat took up the Studeley Lectureship at the British Museum and held that post till his retirement in 1934. For his valuable contribution to Malayan studies, he was made an Honorary Member of the MBRAS in 1951.
 
 ## Contents
 
@@ -42,7 +42,7 @@ Walter William Skeat joined the Selangor Civil Service in May 1891 and served as
 - Appendix
 - Notes on the word Kramat
 - List of Chief Authorities Quoted
-- Index
+- [Index](./index.md)
 - Appendix with W.W. Skeat's Annotations
 - List of Illustrations
 - Plates

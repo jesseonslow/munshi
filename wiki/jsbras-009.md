@@ -113,7 +113,7 @@ articles:
 
 # JSBRAS No. 9 (June 1882)
 
-**Series:** Journal of the Straits Branch of the Royal Asiatic Society  
+**Series:** [Journal of the Straits Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** June 1882
 
 ## Table of Contents

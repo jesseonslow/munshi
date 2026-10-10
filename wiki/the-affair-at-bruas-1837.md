@@ -26,11 +26,11 @@ jstor: https://www.jstor.org/stable/41503016
 
 # The affair at Bruas (1837
 
-This short note by C. A. Gibson-Hill, published in the *JMBRAS* (Vol. 24, No. 3, 1951), concerns a historical incident at Bruas in 1837.
+This short note by [C. A. Gibson-Hill](./carl-alexander-gibson-hill.md), published in the *[JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* (Vol. 24, No. 3, 1951), concerns a historical incident at Bruas in 1837.
 
 ## Summary
 
-The article addresses an event at Bruas, a settlement in Kelantan, dating to 1837. Gibson-Hill, a prominent Malayanist known for his work on Malay history and folklore, documents or comments upon this affair in a brief treatment spanning five pages. The full text of the article was not available in the source material provided for this archival record; the entry is therefore limited to bibliographic identification.
+The article addresses an event at Bruas, a settlement in [Kelantan](./kelantan.md), dating to 1837. Gibson-Hill, a prominent Malayanist known for his work on [Malay](./malay.md) history and [folklore](./folklore.md), documents or comments upon this affair in a brief treatment spanning five pages. The full text of the article was not available in the source material provided for this archival record; the entry is therefore limited to bibliographic identification.
 
 ## References
 <!-- Grounded occurrences and citations -->

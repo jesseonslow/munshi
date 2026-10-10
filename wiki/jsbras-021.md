@@ -54,7 +54,7 @@ articles:
 
 # JSBRAS No. 21 (June 1890)
 
-**Series:** Journal of the Straits Branch of the Royal Asiatic Society  
+**Series:** [Journal of the Straits Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** June 1890
 
 ## Table of Contents

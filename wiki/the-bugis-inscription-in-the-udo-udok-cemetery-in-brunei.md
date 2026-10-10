@@ -26,7 +26,7 @@ publication_type: journal_article
 
 # The Bugis inscription in the Udo-Udok cemetery in Brunei
 
-J. Noorduyn's 1993 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* presents a philological analysis of a five-line Bugis-language inscription in Bugis script, discovered in 1986 in the Udok-Udok cemetery near Bandar Seri Begawan, Brunei. The inscription, carved on a standing stone, records the triple name of a Bugis man—La Toga, grandfather of I Potto, son of Sea Captain Cakka, who lived in Balan(n)ipa—and is interpreted as a gravestone commemorating him without explicitly mentioning death or burial.
+J. Noorduyn's 1993 article in the *[Journal of the Malaysian Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* presents a philological analysis of a five-line Bugis-language inscription in Bugis script, discovered in 1986 in the Udok-Udok cemetery near Bandar Seri Begawan, [Brunei](./brunei.md). The inscription, carved on a standing stone, records the triple name of a [Bugis](./bugis.md) man—La Toga, grandfather of I Potto, son of Sea Captain Cakka, who lived in Balan(n)ipa—and is interpreted as a gravestone commemorating him without explicitly mentioning death or burial.
 
 ## Summary
 
@@ -34,20 +34,20 @@ Noorduyn's primary task is to render a reliable reading of an inscription writte
 
 The substantive content of the inscription is deceptively simple: after an opening greeting (*salama'*), it names a single individual through three relational designations—grandfather of a woman called I Potto, his own personal name La Toga, and son of a sea captain called Cakka—before closing with the statement that he lived in Balan(n)ipa, a well-known port name in South Sulawesi. Noorduyn argues that all three references point to one man, and that the tecnonymic convention (a Bugis man being named after his child or grandchild in practical usage) confirms the reading. The inscription offers no explicit funerary formula; its function as a gravestone is inferred solely from its context in a cemetery.
 
-A significant historiographical question concerns the inscription's date. The reverse of the stone bears the European-numeral date 1272 Hijrah (A.D. 1855–6), which Noorduyn provisionally accepts. However, he notes Robert Nicholl's objection that it is hard to imagine a Bugis gravestone being newly carved in Brunei in the 1850s, given the intense hostility toward the Bugis community recorded in the *Sha'er Awang Semaun* between 1810 and 1840. Nicholl suggests the stone may instead date from the mid-eighteenth century, when the Bugis held dominant political power in Brunei according to Dalrymple's account, and that the 1272 H. date may reflect a later reuse or re-dating of an older monument.
+A significant historiographical question concerns the inscription's date. The reverse of the stone bears the [European](./european.md)-numeral date 1272 Hijrah (A.D. 1855–6), which Noorduyn provisionally accepts. However, he notes [Robert Nicholl](./robert-nicholl.md)'s objection that it is hard to imagine a Bugis gravestone being newly carved in Brunei in the 1850s, given the intense hostility toward the Bugis community recorded in the *Sha'er Awang Semaun* between 1810 and 1840. Nicholl suggests the stone may instead date from the mid-eighteenth century, when the Bugis held dominant political power in Brunei according to Dalrymple's account, and that the 1272 H. date may reflect a later reuse or re-dating of an older monument.
 
 ### Key Findings
 
-- The inscription was found in 1986 by Awang Suhaili of the Brunei Museum in the Udok-Udok cemetery, an old Muslim cemetery near Bandar Seri Begawan still in active use (p. 103).
+- The inscription was found in 1986 by Awang Suhaili of [the Brunei Museum](./the-brunei-museum.md) in the Udok-Udok cemetery, an old Muslim cemetery near Bandar Seri Begawan still in active use (p. 103).
 - The stone bears a date in European numerals on its reverse side reading 1272 Hijrah, equivalent to A.D. 1855–6, which Noorduyn provisionally accepts as the date of the Bugis inscription (p. 110).
 - The Bugis script used in the inscription employs an abbreviating device in which a single basic character carries two vowel marks to represent two successive syllables with the same initial consonant; two such instances occur in the text (pp. 106–107).
 - The toponym Balan(n)ipa refers to one of two sea ports in South Sulawesi, the name deriving from *balang*/'pond' or *bala*/'stable' plus *nipa*/'nipah tree' (p. 109).
-- An enigmatic word in Malay/Arabic script (appearing to consist of the letters nga-ma-h) is inscribed at the upper left corner preceding the Bugis text; its meaning remains undetermined (p. 105, n. 3).
+- An enigmatic word in [Malay](./malay.md)/Arabic script (appearing to consist of the letters nga-ma-h) is inscribed at the upper left corner preceding the Bugis text; its meaning remains undetermined (p. 105, n. 3).
 - Robert Nicholl argues that the stone may date from the mid-eighteenth century rather than the 1850s, on the grounds that Bugis were "execrated as unmitigated villains" in Brunei between 1810 and 1840, making a newly carved Bugis gravestone in that period implausible (p. 111).
 
 ### Conclusion
 
-Noorduyn concludes that the inscription is a gravestone recording the triple name of a Bugis man of advanced age who had emigrated from Balan(n)ipa in South Sulawesi to Brunei. The article's broader significance lies in demonstrating that Bugis inscriptions on stone are a previously undocumented category of material, and in identifying graphemic conventions—flattened curves, dual-vowel-mark abbreviation, optional prenasalisation—that are not adequately described in standard references to the Bugis syllabary. The dating question remains open, with the mid-eighteenth-century hypothesis offering a more historically coherent context for a Bugis funerary monument in Brunei.
+Noorduyn concludes that the inscription is a gravestone recording the triple name of a Bugis man of advanced age who had emigrated from Balan(n)ipa in South Sulawesi to Brunei. The article's broader significance lies in demonstrating that Bugis [inscriptions](./inscriptions.md) on stone are a previously undocumented category of material, and in identifying graphemic conventions—flattened curves, dual-vowel-mark abbreviation, optional prenasalisation—that are not adequately described in standard references to the Bugis syllabary. The dating question remains open, with the mid-eighteenth-century hypothesis offering a more historically coherent context for a Bugis funerary monument in Brunei.
 
 ## Context
 

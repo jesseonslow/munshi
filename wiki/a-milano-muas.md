@@ -25,7 +25,7 @@ publication_type: translation
 
 # A Milano muas
 
-E. V. Andreini presents an English translation of a *Milano Muas* titled *Long Kendi* ("The Gold House"), published in JMBRAS Vol. 9, pt. 1 (1931), pp. 129–130.
+E. V. Andreini presents an English translation of a *[Milano](./melanus.md) Muas* titled *Long Kendi* ("The Gold House"), published in [JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md) Vol. 9, pt. 1 (1931), pp. 129–130.
 
 ## Summary
 

@@ -113,7 +113,7 @@ articles:
 
 # JMBRAS Vol. 77, Part 1 (June 2004)
 
-**Series:** Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society  
+**Series:** Journal of the Malayan/[Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** June 2004
 
 ## Table of Contents

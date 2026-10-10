@@ -25,9 +25,9 @@ publication_type: note
 
 # The early Muhammadan missionaries
 
-This short note by R. O. Winstedt supplements his earlier paper in *Journal 77* on the advent of Muhammadanism in the Malay Peninsula and Archipelago, drawing on Snouck Hurgronje's lecture *Arabie en Oost-Indie* (Leyden) to refine the picture of early Islamic missionary activity in the region.
+This short note by [R. O. Winstedt](./richard-olaf-winstedt.md) supplements his earlier paper in *Journal 77* on [the advent of Muhammadanism in the Malay Peninsula and Archipelago](./the-advent-of-muhammadanism-in-the-malay-peninsula-and-archi.md), drawing on Snouck Hurgronje's lecture *Arabie en Oost-Indie* (Leyden) to refine the picture of early Islamic missionary activity in the region.
 
-Winstedt's central point is that while a few stray Arabs visited the Malay world, the bulk of Muhammadan missionaries were Indian, natives of Gujerat and Malabar (p. 5). He offers local corroborative evidence, including a reference to the Sharif of Mecca travelling to India to remind the Great Mogul of tithes due to the Holy City, and learning from Indian friends that Acheen was a Muhammadan kingdom (p. 6). A Malay verse—"Serban Kashmiri warna hijau, Buatan Arab di-negeri Makkah"—is cited as an instance of Malay conflation of origins. Winstedt concludes that direct Arab influence made itself felt strongly only after steam-ships had made voyages easy (p. 6).
+Winstedt's central point is that while a few stray Arabs visited the Malay world, the bulk of Muhammadan missionaries were Indian, natives of Gujerat and Malabar (p. 5). He offers local corroborative evidence, including a reference to the Sharif of Mecca travelling to [India](./india.md) to remind the Great Mogul of tithes due to the Holy City, and learning from Indian friends that [Acheen](./aceh.md) was a Muhammadan kingdom (p. 6). A Malay verse—"Serban Kashmiri warna hijau, Buatan Arab di-negeri Makkah"—is cited as an instance of [Malay](./malay.md) conflation of origins. Winstedt concludes that direct Arab influence made itself felt strongly only after steam-ships had made voyages easy (p. 6).
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -18,7 +18,7 @@ published: false
 
 ## MBRAS Sources
 
-- [C.E. Wurtzburg](./ce-wurtzburg.md) (1951). [Olivia Raffles and Thomas Moore](./olivia-raffles-and-thomas-moore.md). *JMBRAS* 24: 173–175
+- [C.E. Wurtzburg](./ce-wurtzburg.md) (1951). [Olivia Raffles and Thomas Moore](./olivia-raffles-and-thomas-moore.md). *[JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* 24: 173–175
 
 ## References
 <!-- Grounded occurrences and citations -->

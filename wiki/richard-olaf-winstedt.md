@@ -16,14 +16,13 @@ status: stub
 published: false
 ---
 
-
 # Richard Olaf Winstedt
 
 <!-- Synthesis engine: Insert introductory synthesis for Richard Olaf Winstedt here -->
 
 ## MBRAS Sources
 
-- [Nik, Tan Sri Ahmad Kamil](./nik-tan-sri-ahmad-kamil.md) (1967). [Foreword {to the volume of the journal dedicated to Sir Richard Winstedt](./foreword-to-the-volume-of-the-journal-dedicated-to-sir-richa.md). *JMBRAS* 40(2): 1–2
+- [Nik, Tan Sri Ahmad Kamil](./nik-tan-sri-ahmad-kamil.md) (1967). [Foreword {to the volume of the journal dedicated to Sir Richard Winstedt](./foreword-to-the-volume-of-the-journal-dedicated-to-sir-richa.md). *[JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* 40(2): 1–2
 
 ## Bibliography
 - (1906) [Some mouse-deer tales](./some-mouse-deer-tales.md). *JSBRAS* 45: 61–69

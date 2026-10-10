@@ -16,15 +16,15 @@ generated: true
 
 # William Marsden
 
-] R.J. Wilkinson (1941), "More on Bencoolen", *JMBRAS* 19(1): 101–119:
+] [R.J. Wilkinson](./richard-james-wilkinson.md) (1941), "[More on Bencoolen](./more-on-bencoolen.md)", *[JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* 19(1): 101–119:
 
-- Born 16 November 1754, sixth son of John Marsden, a bank-director in Ireland; of a Derbyshire family (p. 101)
+- Born 16 November 1754, sixth son of John Marsden, a bank-director in Ireland; of a Derbyshire [family](./family.md) (p. 101)
 - Intended for the clergy but solicited a writership at Bencoolen after his eldest brother was stationed there (p. 101)
 - Embarked at Gravesend 27 December 1770; reached Bencoolen 29 May 1771 (p. 101)
 - Attached to the Secretariat; Sub-Secretary 1773, Acting Secretary 1774, full Secretary 1776 (p. 101)
 - Studied Malay language; laid foundation for Grammar and Dictionary (p. 102)
 - Published "History of Sumatra" first edition April 1783, second March 1784; German translation Leipzig 1785; French translation 1783; fourth English edition 1811 (p. 105)
-- Malay-English Dictionary published 1811; only Malay-English dictionary in regular use in Malaya up to end of 19th century (p. 105)
+- Malay-English Dictionary published 1811; only [Malay](./malay.md)-English dictionary in regular use in [Malaya](./malaya.md) up to end of 19th century (p. 105)
 - Elected F.R.S. 1783 at age 28; member of Asiatic Society of Calcutta 1784; F.S.A. and original member of Royal Irish Academy 1785; honorary D.C.L. Oxford 1786 (p. 105)
 - Founder and original member of Royal Asiatic Society and Royal Geographical Society (p. 105)
 - 1795: Second Secretary to the Navy; 1803: First Secretary to the Navy (p. 105–106)
@@ -34,17 +34,17 @@ generated: true
 - Died 1836 at age 81 (p. 106)
 - Duke of Sussex eulogy (p. 107)
 - Broad-leaved indigo named *Marsdenia* after him (p. 105)
-- Coins: Marsdenian Collection at British Museum; books and MSS formed part of King's College, London library (p. 106)
+- [Coins](./coins.md): Marsdenian Collection at British Museum; books and MSS formed part of King's College, London library (p. 106)
 - Translating Marco Polo 1814–1817 (p. 106)
-- Catalogue of grammars and dictionaries of non-European modern languages begun 1789 (p. 106)
-- Paper on Hindu language and literature among Malays 1796 (p. 106)
+- Catalogue of grammars and [dictionaries](./dialects-and-dictionaries.md) of non-[European](./european.md) modern [languages](./languages.md) begun 1789 (p. 106)
+- Paper on Hindu language and [literature](./literature.md) among Malays 1796 (p. 106)
 - "Numismata Orientalia Illustrata" (p. 106)
 - Raffles wrote to Marsden 7 April 1818 about "setting up our shop next the Dutch" (p. 112)
-- Raffles wrote to Marsden 12 Dec 1818 predicting letter from Singapore (p. 112)
-- Wilkinson's argument: Bencoolen's failure was structural, rooted in Directors' reductive treatment as pepper-buying operation (p. 101)
+- [Raffles](./stamford-raffles.md) wrote to Marsden 12 Dec 1818 predicting letter from [Singapore](./singapore.md) (p. 112)
+- Wilkinson's argument: Bencoolen's failure was structural, rooted in Directors' reductive treatment as [pepper](./pepper.md)-buying operation (p. 101)
 - Marsden's reasons for leaving: confusion from orders, divided settlement into parties, loss £37,589 between 1778–1783 (p. 104)
 - Marsden's interest in research made him friends: Banks, Solander, Herschel, Maskelyne (p. 105)
-- His "History of Sumatra" was based on observations during Bencoolen service (p. 101–102)
+- His "History of [Sumatra](./sumatra.md)" was based on observations during [Bencoolen](./bencoolen.md) service (p. 101–102)
 
 Now let me structure the article:
 
@@ -74,7 +74,7 @@ Checking constraints:
 Let me write the article now, keeping it around 650 words.
 </think>
 
-William Marsden (1754–1836) was a British scholar-administrator whose eight years of service at the East India Company's settlement of Bencoolen (1771–1779) produced the foundational Western works on the Malay language and the history of Sumatra, and whose subsequent career at the Admiralty and in European learned societies made him one of the most versatile figures in late-eighteenth- and early-nineteenth-century British scholarship. [[1, pp. 101]](#ref-1)
+William Marsden (1754–1836) was a British scholar-administrator whose eight years of service at the [East India Company](./east-india-company.md)'s settlement of Bencoolen (1771–1779) produced the foundational Western works on the Malay language and the history of Sumatra, and whose subsequent career at the Admiralty and in European learned societies made him one of the most versatile figures in late-eighteenth- and early-nineteenth-century British scholarship. [[1, pp. 101]](#ref-1)
 
 ## Bencoolen Service and Linguistic Foundations
 
@@ -90,7 +90,7 @@ In 1795 he accepted the post of Second Secretary to the Navy, and in 1803 succee
 
 ## Research and Documentation
 
-The principal source for Marsden's Bencoolen years is his own autobiographical memoir, which R. J. Wilkinson used in 1941 as a lens to trace the broader trajectory of the settlement from its mid-eighteenth-century prosperity through its cession to the Dutch in 1825. [[1, p. 101]](#ref-1) Wilkinson's overarching argument—that Bencoolen's failure was structural, rooted in the Directors' reductive treatment of the settlement as a mere pepper-buying operation rather than a genuine administrative enterprise—draws heavily on Marsden's own account of the confusion and division that drove him to resign. [[1, pp. 101]](#ref-1) The memoir also supplies the only detailed contemporary description of the Secretariat's judicial function and of Marsden's method of acquiring Malay. [[1, p. 102]](#ref-1) Wilkinson supplements this with Raffles' memoir, Maclaine Campbell's *Java*, and E. B. Kielstra's *Opstellen over Sumatra's West Kust*, situating Marsden's work within the comparative-colonial debate between British free-trade governance and the Dutch post-Company model of directed development. [[1, p. 119]](#ref-1)
+The principal source for Marsden's Bencoolen years is his own autobiographical memoir, which R. J. Wilkinson used in 1941 as a lens to trace the broader trajectory of the settlement from its mid-eighteenth-century prosperity through its cession to the Dutch in 1825. [[1, p. 101]](#ref-1) Wilkinson's overarching argument—that Bencoolen's failure was structural, rooted in the Directors' reductive treatment of the settlement as a mere pepper-buying operation rather than a genuine administrative enterprise—draws heavily on Marsden's own account of the confusion and division that drove him to resign. [[1, pp. 101]](#ref-1) The memoir also supplies the only detailed contemporary description of the Secretariat's judicial function and of Marsden's method of acquiring Malay. [[1, p. 102]](#ref-1) Wilkinson supplements this with Raffles' memoir, Maclaine Campbell's *[Java](./java.md)*, and E. B. Kielstra's *Opstellen over Sumatra's West Kust*, situating Marsden's work within the comparative-colonial debate between British free-trade governance and the Dutch post-Company model of directed development. [[1, p. 119]](#ref-1)
 
 ## MBRAS Sources
 

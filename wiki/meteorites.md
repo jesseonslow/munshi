@@ -19,7 +19,7 @@ published: false
 
 ## MBRAS Sources
 
-- Hoopes, A.L. Meteorite in Malacca Straits. SB 85
+- Hoopes, A.L. Meteorite in [Malacca](./melaka.md) Straits. SB 85
 
 ## References
 <!-- Grounded occurrences and citations -->

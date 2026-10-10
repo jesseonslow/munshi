@@ -24,10 +24,10 @@ published: false
 
 - Preface
 - Introduction
-  1. Negri Sembilan and The first Rubber Boom</li>
+  1. [Negri Sembilan](./negeri-sembilan.md) and The first Rubber Boom</li>
   1. The Second Rubber Boom</li>
   1. The Planters</li>
-  1. Science and The Slump</li>
+  1. [Science](./science.md) and The Slump</li>
   1. Tanah Merah</li>
   1. Times of Depression</li>
   1. Progress Resumed</li>
@@ -35,7 +35,7 @@ published: false
 - Appendix
 - Map
 - Retrospect by Sir Andrew McFadyean
-- Index
+- [Index](./index.md)
 
 ## Summary
 <!-- Synthesis engine: Insert chapter summaries or overview here -->

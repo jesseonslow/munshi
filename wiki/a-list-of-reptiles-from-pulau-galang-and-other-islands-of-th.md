@@ -30,7 +30,7 @@ jstor: https://www.jstor.org/stable/24249128
 
 # A list of reptiles from Pulau Galang and other islands of the Rhio Archipelago. F.N. Chasen and N. Smedley. Records of the Raffles Museum, No. 30
 
-This is a faunal list of reptiles from Pulau Galang and neighbouring islands of the Rhio Archipelago, compiled by F. N. Chasen and N. Smedley from material in the Raffles Museum, with additional records contributed by C. B. Kloss (p. 352).
+This is a faunal list of [reptiles](./reptiles.md) from Pulau Galang and neighbouring [islands](./islands.md) of the Rhio Archipelago, compiled by F. N. Chasen and [N. Smedley](./n-smedley.md) from material in the [Raffles](./stamford-raffles.md) Museum, with additional records contributed by C. B. Kloss (p. 352).
 
 ## Summary
 

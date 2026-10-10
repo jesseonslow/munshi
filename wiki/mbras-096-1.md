@@ -162,9 +162,10 @@ articles:
   pages: 169–170
   is_review: true
 ---
+
 # JMBRAS Vol. 96, Part 1 (June 2023)
 
-**Series:** Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society  
+**Series:** Journal of the Malayan/[Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** June 2023
 
 ## Table of Contents

@@ -18,7 +18,7 @@ published: false
 
 ## MBRAS Sources
 
-- [R.S. Shelford](./rs-shelford.md) (1901). [Notes from the Sarawak Museum](./notes-from-the-sarawak-museum.md). *JSBRAS* 35: 69–71
+- [R.S. Shelford](./rs-shelford.md) (1901). [Notes from the Sarawak Museum](./notes-from-the-sarawak-museum.md). *[JSBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* 35: 69–71
 
 ## References
 <!-- Grounded occurrences and citations -->

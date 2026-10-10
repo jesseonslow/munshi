@@ -33,7 +33,7 @@ gender: male
 - (2023) [The Trading Environment in the Melaka Straits, c. 1800–1830. Comp. P.H. Kratoska](./the-trading-environment-in-the-melaka-straits-c-18001830-com.md). *JMBRAS* 96(1): 149–154
 - (2024) [Some First-Hand Accounts of the Japanese Occupation](./some-first-hand-accounts-of-the-japanese-occupation.md). *JMBRAS* 97(1): 102–123
 - (2024) [Escape from the Thailand-Burma Railway: The Wartime Journey of Teh bin Said. P.H. Kratoska and Yuszah Akmal binti Yusoff](./escape-from-the-thailand-burma-railway-the-wartime-journey-o.md). *JMBRAS* 97(1): 153–165
-- (2025) [Publications by Prof. Dato Abu Talib Ahmad (comp](./publications-by-prof-dato-abu-talib-ahmad-comp.md). *JMBRAS* 98(1): 127–132
+- (2025) [Publications by Prof. Dato Abu Talib Ahmad (comp](./publications-by-prof-dato-abu-talib-ahmad-comp.md). *[JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* 98(1): 127–132
 
 ## References
 <!-- Grounded occurrences and citations -->

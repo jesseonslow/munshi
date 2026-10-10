@@ -132,9 +132,10 @@ articles:
   pages: '170'
   is_review: false
 ---
+
 # JSBRAS No. 24 (December 1891)
 
-**Series:** Journal of the Straits Branch of the Royal Asiatic Society  
+**Series:** [Journal of the Straits Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** December 1891
 
 ## Table of Contents

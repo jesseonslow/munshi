@@ -89,7 +89,7 @@ articles:
 
 # JMBRAS Vol. 37, Part 1 (July 1964)
 
-**Series:** Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society  
+**Series:** Journal of the Malayan/[Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** July 1964
 
 ## Table of Contents

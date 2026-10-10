@@ -27,7 +27,7 @@ articles:
 
 # JMBRAS Vol. 9, Part 3 (None 1932)
 
-**Series:** Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society  
+**Series:** Journal of the Malayan/[Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** None 1932
 
 ## Table of Contents

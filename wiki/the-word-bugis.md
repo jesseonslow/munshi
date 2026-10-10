@@ -27,7 +27,7 @@ publication_type: note
 
 # The word Bugis
 
-Russell Jones poses a query to JMBRAS members regarding the origin of the final "-s" in the Malay form "Bugis," prompted by an inquiry from the Oxford English Dictionary.
+Russell Jones poses a query to [JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md) members regarding the origin of the final "-s" in the [Malay](./malay.md) form "[Bugis](./bugis.md)," prompted by an inquiry from the Oxford English [Dictionary](./dialects-and-dictionaries.md).
 
 ## Summary
 

@@ -25,13 +25,13 @@ publication_type: note
 
 # A rail new to the Malay Peninsula
 
-This two-page note by J. C. Moulton (JSBRAS Vol. 85, 1922) addresses two separate matters: a supplementary record of a third skin of the musk deer subspecies *Mydaus javanensis montanus*, and a brief discussion of a specimen of Elwes' Crake recorded from Johore as new to the Malay Peninsula.
+This two-page note by [J. C. Moulton](./john-coney-moulton.md) ([JSBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md) Vol. 85, 1922) addresses two separate matters: a supplementary record of a third skin of the musk [deer](./deer.md) subspecies *Mydaus javanensis montanus*, and a brief discussion of a specimen of Elwes' Crake recorded from [Johore](./johor.md) as new to the [Malay](./malay.md) Peninsula.
 
 ## Summary
 
-The first section reports a third imperfect skin of *Mydaus javanensis montanus* from the Sarawak Museum, obtained from the Kalabits of the ulu Baram. The skin had been cut down by the Kalabits for use as a seat-mat, retaining only the back (19 inches by 10½ inches). Moulton compares the whitish dorsal marking with the other two skins and notes the type is deposited in the British Museum, with the second and third in the Raffles Museum and Sarawak Museum respectively (p. 213).
+The first section reports a third imperfect skin of *Mydaus javanensis montanus* from the [Sarawak](./sarawak.md) Museum, obtained from the Kalabits of the ulu Baram. The skin had been cut down by the Kalabits for use as a seat-mat, retaining only the back (19 inches by 10½ inches). Moulton compares the whitish dorsal marking with the other two skins and notes the type is deposited in the British Museum, with the second and third in the [Raffles](./stamford-raffles.md) Museum and [Sarawak](./sarawak.md) Museum respectively (p. 213).
 
-The second section, which the title refers to, discusses a specimen of Elwes' Crake from Johore, distinguishing it from the regularly occurring Ruddy Crake (*Limnobaenus fuscus*) by its grey head, neck and breast. Moulton acknowledges a slight possibility that the Johore label may have been attached in error to a specimen from a former curator's Eastern Himalayan collection, but considers this unlikely given the migratory habits of rails, and calls for further records to confirm the occurrence (p. 214).
+The second section, which the title refers to, discusses a specimen of Elwes' Crake from Johore, distinguishing it from the regularly occurring Ruddy Crake (*Limnobaenus fuscus*) by its grey head, neck and breast. Moulton acknowledges a slight possibility that the [Johore](./johor.md) label may have been attached in error to a specimen from a former curator's Eastern Himalayan collection, but considers this unlikely given the migratory habits of rails, and calls for further records to confirm the occurrence (p. 214).
 
 ## References
 <!-- Grounded occurrences and citations -->

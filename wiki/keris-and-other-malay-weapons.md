@@ -28,18 +28,18 @@ published: false
 
 ## Contents
 
-1. The Keris and other Malay Weapons – A.H. Hill
-1. The Malay Keris: Its Origin and Development – G.C. Woolley
+1. [The Keris and other Malay Weapons](./the-keris-and-other-malay-weapons.md) – [A.H. Hill](./anthony-haydock-hill.md)
+1. [The Malay Keris: Its Origin and Development](./the-malay-keris-its-origin-and-development.md) – G.C. Woolley
 1. Origin of the Keris - G.C. Woolley
-1. Keris Measurements from North Borneo – H.G. Keith
-1. Keris Measurements – G.C. Woolley
-1. Some Notes on Keris Measurements – G.M. Laidlaw
-1. A New Book on the Keris – G.C. Woolley
-1. Notes on Two uncommon Varieties of the Malay Keris – G.B. Gardner
-1. The Keris Sulok or Sundang – E. Banks
-1. An Unusual Keris Majapahit – Abu Bakar bin Pawanchee
-1. Notes on Two Knives in the Pitt Rivers Museum – G.C. Woolley
-1. Malay Cannon – G.C.Woolley
+1. Keris Measurements from North [Borneo](./borneo.md) – [H.G. Keith](./hg-keith.md)
+1. [Keris Measurements](./keris-measurements.md) – G.C. Woolley
+1. [Some Notes on Keris Measurements](./some-notes-on-keris-measurements.md) – [G.M. Laidlaw](./gm-laidlaw.md)
+1. [A New Book on the Keris](./a-new-book-on-the-keris.md) – G.C. Woolley
+1. Notes on Two uncommon Varieties of the [Malay](./malay.md) Keris – [G.B. Gardner](./gb-gardner.md)
+1. The [Keris](./keris.md) Sulok or Sundang – [E. Banks](./e-banks.md)
+1. [An Unusual Keris Majapahit](./an-unusual-keris-majapahit.md) – [Abu Bakar bin Pawanchee](./abu-bakar-bin-pawanchee.md)
+1. Notes on Two [Knives](./knives.md) in the Pitt Rivers Museum – [G.C. Woolley](./gc-woolley.md)
+1. [Malay Cannon](./malay-cannon.md) – G.C.Woolley
 
 ## Summary
 <!-- Synthesis engine: Insert chapter summaries or overview here -->

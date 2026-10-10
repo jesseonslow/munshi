@@ -25,13 +25,13 @@ publication_type: note
 
 # Notes on Malay indoor games
 
-This short note by O. T. Dussek documents two Malay indoor board games: Main Pacheh, comparing the Acheh and Penang varieties, and Main Tapak Empat, a Menangkabau fox-and-geese type game (pp. 69–71).
+This short note by O. T. Dussek documents two [Malay](./malay.md) indoor board [games](./games.md): Main Pacheh, comparing the [Acheh](./aceh.md) and [Penang](./penang.md) varieties, and Main Tapak Empat, a [Menangkabau](./menangkabau.md) fox-and-geese type game (pp. 69–71).
 
 ## Summary
 
 Dussek was prompted to write after encountering references to Main Pacheh in Snouck Hurgronje's *The Achehnese* and finding the Penang version sufficiently different in board layout and scoring to warrant record. The Acheh game uses a cross-shaped board with seven cowrie shells for scoring, while the Penang variety employs a different board pattern with four shells; both share the same core mechanics of racing pieces around the board and "pukul" (capturing) opponents by landing on their squares (pp. 69–70). Dussek notes that both versions are slow in practice and records his own modifications using additional shells to accelerate play.
 
-The second game, Main Tapak Empat, is described as a previously unrecorded Menangkabau variant of fox-and-geese. One player commands 24 "kambing" (goats) pieces placed one at a time, while the opponent controls two "harimau" (tiger) pieces that may move any distance along parallel or diagonal lines and capture goats in the English draughts manner. The goats win by completely enclosing both tigers; the tigers win if the goats are exhausted without achieving enclosure (p. 71).
+The second game, Main Tapak Empat, is described as a previously unrecorded Menangkabau variant of fox-and-geese. One player commands 24 "kambing" (goats) pieces placed one at a time, while the opponent controls two "harimau" (tiger) pieces that may move any distance along parallel or diagonal lines and capture goats in the English draughts manner. The goats win by completely enclosing both tigers; the [tigers](./tigers.md) win if the [goats](./goats.md) are exhausted without achieving enclosure (p. 71).
 
 ## References
 <!-- Grounded occurrences and citations -->

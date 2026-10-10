@@ -21,15 +21,15 @@ published: false
 
 ## About
 
-Previously published in JMBRAS Vol. XXV Parts 4-5, No. 160, June 1953 and December 1952.
+Previously published in [JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md) Vol. XXV Parts 4-5, No. 160, June 1953 and December 1952.
 
 ## Contents
 
-- Documents relating to John Clunies Ross, Alexander Hare and the early history of the settlement on the Cocos-Keeling Islands, *edited, with an introduction &amp; notes*, by C.A. Gibson-Hill, *M.A.*
+- Documents relating to John Clunies Ross, [Alexander Hare](./alexander-hare.md) and the early history of the settlement on the [Cocos-Keeling Islands](./cocos-keeling-islands.md), *edited, with an introduction &amp; notes*, by [C.A. Gibson-Hill](./carl-alexander-gibson-hill.md), *M.A.*
 - Preface
 - Introduction
 - The Cocos of Keeling Islands, by James Horsburgh
-- A Memorandum on the Island of Borneo, by John Clunies Ross
+- A Memorandum on the Island of [Borneo](./borneo.md), by John Clunies Ross
 - Extracts from a Journal kept by John Clunies Ross
 - The Banjermassin Outrage, a letter by James Simpson, advocate
 - New Settlement at the Keeling Island, a letter by James Horsburg
@@ -41,12 +41,12 @@ Previously published in JMBRAS Vol. XXV Parts 4-5, No. 160, June 1953 and Decemb
 - First letter from John Clunies Ross to Rear-Admiral Sir T. Bladen Capel, K.C.B., not dated but apparently written between August 1835 and January 1836
 - Brief Account of .... certain people whom .... Alex. Hare .... disembarked upon the Cocos Isles, by John Clunies Ross, not dated
 - On the formation of the oceanic islands in general, and of the coraline in particular, by J.C. Ross
-- Extracts from the account of the visit of H.M. Surveying Vessel *Beagle* to the islands (in April 1836), published by Charles Darwin and Cmdr. Robert Fitzroy
+- Extracts from the account of the visit of H.M. Surveying Vessel *Beagle* to the [islands](./islands.md) (in April 1836), published by Charles Darwin and Cmdr. Robert Fitzroy
 - Extracts from the second letter from John Clunies Ross to Sir T. Bladen Capel, dated Trincomalee, June 1837
 - Extracts from Rear-Admiral Sir Fred L. Maitland's report on the visit of H.M. Sloop *Pelorus* (Francis Harding Cmdr) to Cocos, December 1837
 - Memorandum prepared for Captain Smith (formerly of the British barque *Asia*); undated, but presumably written circa February 1845 (transcribed from an MS copy at Cocos, in 1941)
-- Extracts from Journal of Occurrences at the Cocos Isles by J.C. Ross, headed 12 November 1845
-- Extracts from *The Singapore Free Press* 26 Nov. 1857
+- Extracts from Journal of Occurrences at the Cocos Isles by [J.C. Ross](./john-clunies-ross.md), headed 12 November 1845
+- Extracts from *The [Singapore](./singapore.md) Free Press* 26 Nov. 1857
 - Appendix
 - **A**. Notes on the Principal MS Sources
 - **B**. H.M. Vessels visiting Cocos before 1840

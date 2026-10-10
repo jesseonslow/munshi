@@ -31,13 +31,13 @@ jstor: https://www.jstor.org/stable/41491879
 
 # Short history of the Borneo Basel Self-established Church, usually called the Basel Mission, in North Borneo. In Tregonning, K.G. Two notes on Church history in Sabah
 
-This is an editor's introduction by K. G. Tregonning, published in JMBRAS Vol. 39 (1966), which precedes two short notes on church history in Sabah collected during his 1957 fieldwork for his book *North Borneo*. The first note, by Rev. H. Bienz of the Basel Mission at Kudat (written in 1957), provides a brief account of the Basel Mission's early involvement in North Borneo.
+This is an editor's introduction by [K. G. Tregonning](./kennedy-gordon-tregonning.md), published in [JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md) Vol. 39 (1966), which precedes two short notes on church history in [Sabah](./sabah.md) collected during his 1957 fieldwork for his book *North Borneo*. The first note, by Rev. [H. Bienz](./h-bienz.md) of the Basel Mission at Kudat (written in 1957), provides a brief account of the [Basel Mission](./basel-mission-in-north-borneo.md)'s early involvement in North [Borneo](./borneo.md).
 
 ## Summary
 
-Tregonning explains that he sought indigenous material during his 1957 research and found church records to be a useful source for Sabah's social and economic history, noting that while Sarawak approached theocracy, Sabah's mission records may still illuminate a century of change (p. 166).
+Tregonning explains that he sought indigenous material during his 1957 research and found church records to be a useful source for Sabah's social and economic history, noting that while [Sarawak](./sarawak.md) approached theocracy, Sabah's mission records may still illuminate a century of change (p. 166).
 
-Bienz's note recounts how in 1882 a Borneo Company officer in Hongkong approached Rev. Lechler of the Basel Mission (active among Hakkas in Kwangtung since 1846) with a plan to bring Hakka Christians to North Borneo as gardeners. Lechler selected emigrants from Wu-hua, Lung-chuan, and Tzu-chin, and a first batch of 14 families (approximately 90 persons) was shipped to the Kudat district in Marudu Bay, where they were given land to open coconut gardens. Their first small church was built in 1886 at the Old Settlement, Mile 4, with a government contribution of $10 (p. 166).
+Bienz's note recounts how in 1882 a Borneo Company officer in Hongkong approached Rev. Lechler of the Basel Mission (active among Hakkas in Kwangtung since 1846) with a plan to bring Hakka Christians to North Borneo as gardeners. Lechler selected emigrants from Wu-hua, Lung-chuan, and Tzu-chin, and a first batch of 14 families (approximately 90 persons) was shipped to the Kudat district in Marudu Bay, where they were given land to open [coconut](./coconut.md) gardens. Their first small church was built in 1886 at the Old Settlement, Mile 4, with a government contribution of $10 (p. 166).
 
 ## References
 <!-- Grounded occurrences and citations -->

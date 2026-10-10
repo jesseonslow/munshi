@@ -19,7 +19,7 @@ published: false
 
 ## MBRAS Sources
 
-- Anon. [Dennys, N.B. The octopus](./mbras-reprint-15.md). *Reprint* 15
+- [Anon](./anon-and-unidentifiable-initials.md). [Dennys, N.B. The octopus](./mbras-reprint-15.md). *Reprint* 15
 
 ## References
 <!-- Grounded occurrences and citations -->

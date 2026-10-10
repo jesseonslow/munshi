@@ -64,7 +64,7 @@ articles:
 
 # JSBRAS No. 20 (None 1889)
 
-**Series:** Journal of the Straits Branch of the Royal Asiatic Society  
+**Series:** [Journal of the Straits Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** None 1889
 
 ## Table of Contents

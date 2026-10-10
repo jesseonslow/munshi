@@ -25,11 +25,11 @@ publication_type: journal_article
 
 # The Trengganu ‘rodat’
 
-M. C. ff Sheppard, a colonial administrator serving in Trengganu, published this ethnographic account in 1938 documenting the 'Rodat'—a traditional male performance combining Arabic religious chanting with popular song and graceful dance—then practised exclusively in Trengganu and on the verge of disappearing from the wider Malay Peninsula. Sheppard's central thesis is that the Rodat is a direct descendant of the Arabic-Achinese 'Rateb', specifically the 'Rateb Sadati' and 'Rateb Pulet' varieties, which reached Trengganu in second-hand form via Sambas (Borneo) traders.
+M. C. ff Sheppard, a colonial administrator serving in Trengganu, published this ethnographic account in 1938 documenting the 'Rodat'—a traditional male performance combining Arabic religious chanting with popular song and graceful dance—then practised exclusively in Trengganu and on the verge of disappearing from the wider [Malay](./malay.md) Peninsula. Sheppard's central thesis is that the Rodat is a direct descendant of the Arabic-Achinese 'Rateb', specifically the 'Rateb Sadati' and 'Rateb Pulet' varieties, which reached [Trengganu](./terengganu.md) in second-hand form via Sambas (Borneo) traders.
 
 ## Summary
 
-Sheppard provides a vivid, scene-by-scene description of a Rodat performance as observed at Kemaman in 1936, using it as the basis for a broader argument about the form's origins and genealogy. The performance is structured around an alternation of semi-religious Arabic chanting and popular entertainment: a line of boys, arranged meticulously by height, perform graceful hand-and-body movements in time with a chorus of Arabic verse, while four costumed "princes" and "princesses" (all boys) provide comic relief through a Music Hall-style song and pantomime antics. The orchestra consists solely of four or five men playing the 'Tar', a hand-struck drum with brass attachments, which produces a surprising variety of tone and rhythm.
+Sheppard provides a vivid, scene-by-scene description of a Rodat performance as observed at Kemaman in 1936, using it as the basis for a broader argument about the form's origins and genealogy. The performance is structured around an alternation of semi-religious Arabic chanting and popular entertainment: a line of boys, arranged meticulously by height, perform graceful hand-and-body movements in time with a chorus of Arabic verse, while four costumed "princes" and "princesses" (all boys) provide comic relief through a [Music](./music.md) Hall-style song and pantomime antics. The orchestra consists solely of four or five men playing the 'Tar', a hand-struck drum with brass attachments, which produces a surprising variety of tone and rhythm.
 
 The historical argument proceeds by elimination and comparison. Sheppard notes that local performers themselves had no knowledge of the Rodat's origin, but recalled that Sambas traders had danced it in Trengganu many years prior. He then traces the form back through the 'Rateb' tradition documented by Snouck Hurgronje, identifying specific borrowings: the 'pantomime fairies' derive from the 'Rateb Sadati' (where a single boy dressed as a princess was called 'Sadati'), and the tambourine orchestra comes from the 'Rateb Pulet'. The name 'Rodat' itself is explained as a corruption of the Arabic 'Raddad' (repeater or answerer), a title given to skilled chanters in the original Rateb tradition.
 
@@ -51,7 +51,7 @@ Sheppard concludes that the Rodat, though stripped of its original religious sig
 ## Context
 
 - Sheppard was a colonial administrator (M.C.S.) in Trengganu; the article reflects the ethnographic interests of the colonial service, documenting a local custom from the perspective of an educated outsider with access to both the performers and the scholarly literature (Snouck Hurgronje).
-- The study's historiographical contribution lies in its genealogical linking of a peripheral Malay Peninsula performance form to the broader Arabic-Achinese Rateb tradition, a connection not previously made explicit in the literature.
+- The study's historiographical contribution lies in its genealogical linking of a peripheral Malay Peninsula performance form to the broader Arabic-Achinese Rateb tradition, a connection not previously made explicit in the [literature](./literature.md).
 
 ## References
 <!-- Grounded occurrences and citations -->

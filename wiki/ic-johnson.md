@@ -19,7 +19,7 @@ email: seajic@nus.edu.sg
 
 ## Biography
 
-Irving Chan Johnson is an Associate Professor in the Department of Southeast Asian Studies at the National University of Singapore.
+Irving Chan Johnson is an Associate Professor in the Department of Southeast Asian Studies at the National University of [Singapore](./singapore.md).
 
 ## Bibliography
 - (2022) [Curating Shadows: Malayan Shadow Puppets in Singapore's Asian Civilisations Museum](./curating-shadows-malayan-shadow-puppets-in-singapores-asian-.md). *JMBRAS* 95(1): 51–58

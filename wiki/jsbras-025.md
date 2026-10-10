@@ -101,7 +101,7 @@ articles:
 
 # JSBRAS No. 25 (January 1894)
 
-**Series:** Journal of the Straits Branch of the Royal Asiatic Society  
+**Series:** [Journal of the Straits Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** January 1894
 
 ## Table of Contents

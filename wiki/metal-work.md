@@ -28,8 +28,8 @@ published: false
 
 ## MBRAS Sources
 
-- Morgan, G.T.M. de M. Brass and white-metal work in Trengganu. MB 24(3)
-- [R.O. Winstedt](./richard-olaf-winstedt.md) (1941). [Slab-graves and iron implements](./slab-graves-and-iron-implements.md). *JMBRAS* 19: 93–98
+- [Morgan, G.T.M. de M](./gtm-de-m-morgan.md). Brass and white-metal work in [Trengganu](./terengganu.md). MB 24(3)
+- [R.O. Winstedt](./richard-olaf-winstedt.md) (1941). [Slab-graves and iron implements](./slab-graves-and-iron-implements.md). *[JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* 19: 93–98
 
 ## References
 <!-- Grounded occurrences and citations -->

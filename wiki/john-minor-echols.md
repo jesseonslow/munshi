@@ -18,7 +18,7 @@ published: false
 
 ## MBRAS Sources
 
-- [Wolff. J](./wolff-j.md) (1983). [Obituary: J.M. Echols](./obituary-jm-echols.md). *JMBRAS* 56: 66–68
+- [Wolff. J](./wolff-j.md) (1983). [Obituary: J.M. Echols](./obituary-jm-echols.md). *[JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* 56: 66–68
 
 ## References
 <!-- Grounded occurrences and citations -->

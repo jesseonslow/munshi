@@ -55,7 +55,7 @@ articles:
 
 # JMBRAS Vol. 43, Part 2 (June 1972)
 
-**Series:** Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society  
+**Series:** Journal of the Malayan/[Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** June 1972
 
 ## Table of Contents

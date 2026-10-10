@@ -26,11 +26,11 @@ jstor: https://www.jstor.org/stable/41561225
 
 # Note on the name Kuala Lumpur
 
-This is a brief note by E. Macfadyen on the etymology of the name "Kuala Lumpur," published in the *Journal of the Straits Branch of the Royal Asiatic Society*, Vol. 72 (May 1916), p. 35.
+This is a brief note by [E. Macfadyen](./e-macfadyen.md) on the etymology of the name "[Kuala Lumpur](./kuala-lumpur.md)," published in the *[Journal of the Straits Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)*, Vol. 72 (May 1916), p. 35.
 
 ## Summary
 
-The note is a single-page contribution addressing the origin and meaning of the name "Kuala Lumpur." As a short note in the JSBRAS, it falls within the tradition of brief etymological observations on place names in the Straits Settlements and Malaya that the journal regularly published. The piece is attributed to E. Macfadyen and appears on p. 35 of the volume.
+The note is a single-page contribution addressing the origin and meaning of the name "Kuala Lumpur." As a short note in the JSBRAS, it falls within the tradition of brief etymological observations on place names in the [Straits Settlements](./straits-settlements.md) and [Malaya](./malaya.md) that the journal regularly published. The piece is attributed to E. Macfadyen and appears on p. 35 of the volume.
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -16,6 +16,7 @@ out_of_print: true
 status: stub
 published: false
 ---
+
 # Raja Bilah and the Mandailing in Perak: 1875 - 1911
 
 **SKU:** M35 | **Year:** 2003 | **Pages:** 278
@@ -27,22 +28,22 @@ published: false
 - Biographic Notes
 - Introduction
   1. The Padri War and Raja Bilah's Migration to the Peninsula
-  1. Raja Asal and Raja Bilah in Perak
+  1. Raja Asal and Raja Bilah in [Perak](./perak.md)
   1. Papan Mines
   1. Raja Bilah, Collector of Tin Duties
   1. Expedition to Slim &amp; Bernam
   1. 'Mines are in Full Swing'
   1. Raja Bilah, The Penghulu of Papan
-  1. Resistance to Corvee Labour in Lambor
+  1. Resistance to Corvee [Labour](./labour.md) in Lambor
   1. Tok Stia Raja and the Early Development of Batu Gajah
   1. The Papan Mosque and Islamic Administration
-  1. The Identity of the 'Malay Miners' of Kinta
+  1. The Identity of the '[Malay](./malay.md) Miners' of Kinta
   1. Forest Conversation Destroys the Relau Semut Industry
-  1. The 1887 Papan Riots
+  1. The 1887 Papan [Riots](./riots.md)
   1. Raja Bilah in Debt
   1. Imam Prang Ja Barumun, a 'Maker of Kinta'
   1. The Gopeng Contingent
-  1. Kinta Through the Eyes of Abu Bakar
+  1. Kinta Through the Eyes of [Abu Bakar](./abu-bakar.md)
   1. The Mandailing Cultivators
   1. Raja Mahmud of Sengat
   1. Raja Ya'qub as a Young Man
@@ -55,7 +56,7 @@ published: false
 - Notes
 - List of Illustrations
 - Bibliographiy
-- Index
+- [Index](./index.md)
 
 ## Summary
 <!-- Synthesis engine: Insert chapter summaries or overview here -->

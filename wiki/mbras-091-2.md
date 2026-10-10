@@ -132,7 +132,8 @@ articles:
   is_review: true
 - id: jmbras-91-2-p167
   slug: null
-  title: 'Planting empire, cultivating subjects: British Malaya, 1786–1941. Lynn Hollen Lees'
+  title: 'Planting empire, cultivating subjects: British Malaya, 1786–1941. Lynn Hollen
+    Lees'
   authors:
   - T.P. Barnard
   pages: 167–168
@@ -157,7 +158,7 @@ articles:
 
 # JMBRAS Vol. 91, Part 2 (December 2018)
 
-**Series:** Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society  
+**Series:** Journal of the Malayan/[Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** December 2018
 
 ## Table of Contents

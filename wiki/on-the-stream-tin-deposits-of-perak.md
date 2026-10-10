@@ -25,7 +25,7 @@ publication_type: journal_article
 
 # On the stream tin deposits of Perak
 
-J.E. Tenison-Woods, a clergyman and Fellow of both the Geological Society and the Linnean Society, delivered these two lectures at Taiping, Perak, in April 1884, presenting a unified geological account of how stream tin deposits formed in the Larut plains. His overarching thesis is that cassiterite (tin oxide) originated at the junction of the region's ancient granite with overlying Paleozoic clays, was subsequently liberated by erosion, and was concentrated into workable deposits by the gravitational sorting action of mountain streams over geological time.
+[J.E. Tenison-Woods](./julian-edmond-tenison-woods.md), a clergyman and Fellow of both the Geological Society and the Linnean Society, delivered these two lectures at Taiping, [Perak](./perak.md), in April 1884, presenting a unified geological account of how stream tin deposits formed in the [Larut](./larut.md) plains. His overarching thesis is that cassiterite (tin oxide) originated at the junction of the region's ancient granite with overlying Paleozoic clays, was subsequently liberated by erosion, and was concentrated into workable deposits by the gravitational sorting action of mountain streams over geological time.
 
 ## Summary
 
@@ -33,7 +33,7 @@ The first lecture builds from the simple observation of a water-worn pebble to a
 
 The second lecture addresses the deeper question of how tin came to be present in the granite in the first place. Tenison-Woods reviews the evidence for granite as a metamorphic rock—originally stratified sedimentary material converted to its crystalline form by the heat generated under the immense pressure of overlying formations, aided by chemically active water at high temperature. He invokes Daubrée's experimental work on the solvent power of superheated water and the reproduction of granitic minerals under pressure. On this basis, he proposes that tin was originally present in the stratified precursor rock in infinitesimally fine solution (analogous to gold in seawater today) and was concentrated into the characteristic cassiterite oxide form through the combined agencies of heat, pressure, and superheated steam during metamorphism, with the ore segregating preferentially at the contact zone between the granite and the overlying formation.
 
-The practical upshot for the mining community of colonial Perak is that the widespread occurrence of the relevant rock associations—granite, Paleozoic clays, limestone, and schist—throughout the Malay Peninsula, combined with the high drainage of the mountain ranges, makes the region's tin resources potentially far greater than had yet been exploited.
+The practical upshot for the mining community of colonial Perak is that the widespread occurrence of the relevant rock associations—granite, Paleozoic clays, limestone, and schist—throughout the [Malay](./malay.md) Peninsula, combined with the high drainage of the mountain ranges, makes the region's tin resources potentially far greater than had yet been exploited.
 
 ### Key Findings
 
@@ -51,7 +51,7 @@ Tenison-Woods closes on an optimistically expansive note: the widespread distrib
 ## Context
 
 - Tenison-Woods was an Anglican missionary stationed in Perak who held geological and natural-history fellowships; the lectures were delivered to a lay audience at Taiping, and his framing reflects the colonial-era expectation that scientific knowledge would serve the economic development of the tin-mining state (pp. 221–222).
-- The article draws on the experimental work of French geologist Henri Daubrée on pressure metamorphism and the solvent action of superheated water, representing the latest European geological science as applied to a colonial mining context (pp. 222, 234–236).
+- The article draws on the experimental work of French geologist Henri Daubrée on pressure metamorphism and the solvent action of superheated water, representing the latest [European](./european.md) geological [science](./science.md) as applied to a colonial mining context (pp. 222, 234–236).
 
 ## References
 <!-- Grounded occurrences and citations -->

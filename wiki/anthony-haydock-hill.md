@@ -23,7 +23,7 @@ type: person
 
 ## MBRAS Sources
 
-- Anon (J.W.G.C). Obituary. MB 35(1)
+- [Anon](./anon-and-unidentifiable-initials.md) (J.W.G.C). Obituary. MB 35(1)
 
 ## Bibliography
 - (1949) [The weaving industry in Trengganu](./the-weaving-industry-in-trengganu.md). *JMBRAS* 22(3): 75–84

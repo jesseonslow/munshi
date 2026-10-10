@@ -32,23 +32,23 @@ published: false
 
 ## About
 
-The essays in this volume discuss trends in Malaysian historical writing, exploring new sources and methodologies and debates among historians on conceptual issues and ways to reconstruct the Malaysian past. While Malaysian historical studies have long focused on the nation-state, some of the authors in this volume make a case for the importance of local history, social history, economic history, and studies of women, minorities, and marginalized groups to understanding Malaysia’s socially diverse and multi-ethnic society. The essays also discuss the challenge of post-modernism in representing historical truth and objectivity.
+The essays in this volume discuss trends in Malaysian historical writing, exploring new sources and methodologies and debates among historians on conceptual issues and ways to reconstruct the Malaysian past. While Malaysian historical studies have long focused on the nation-state, some of the authors in this volume make a case for the importance of local history, social history, economic history, and studies of women, minorities, and marginalized groups to understanding [Malaysia](./malaysia.md)’s socially diverse and multi-ethnic society. The essays also discuss the challenge of post-modernism in representing historical truth and objectivity.
 
 ## Contents
 
 - Foreword
 - Notes on Contributors
   1. Introduction by **Cheah Boon Kheng**
-  1. Scribes and Historians, State Museums and State histories by **Abu Talib Ahmad**
-  1. Re-reading Adat Laws and Legal Texts as Sources of Malay Social Stability by **Abu Talib Ahmad**
-  1. Syair as a Historical Source: The Syair Tantangan Singapura, a 19th century text by **Badriyah Haji Salleh**
-  1. New Theories and Challenges in Malaysian History by **Cheah Boon Kheng**
-  1. Writing marginalised groups into Malaysian history by **Haryati Hassan** and **Hamidin Abd. Hamid**
-  1. The Gerschenkron Advantage: New directions for forging ahead in Malaysian economic history by **Loh Wei Leng**
-  1. Highlighting Malay women in Malaysian historiography by **Mahani Musa**
-  1. Writing on Orang Asli into Malaysian History by **Nik Haslinda Nik Hussain**
-  1. Many Malayas: Placing Malaysia in a Historical Context by **Paul H. Kratoska**
-  1. Writing the History of the Chinese in Malaysia: New directions and bridging the Gaps between two linguistic spheres by **Danny Wong Tze Ken**
+  1. Scribes and Historians, State [Museums](./museums.md) and State histories by **Abu Talib Ahmad**
+  1. Re-reading Adat Laws and Legal Texts as Sources of Malay Social Stability by **[Abu Talib Ahmad](./abu-talib-ahmad.md)**
+  1. Syair as a Historical Source: The Syair Tantangan Singapura, a 19th century text by **[Badriyah Haji Salleh](./badriyah-haji-salleh.md)**
+  1. New Theories and Challenges in Malaysian History by **[Cheah Boon Kheng](./cheah-boon-kheng.md)**
+  1. Writing marginalised groups into Malaysian history by **[Haryati Hassan](./haryati-hassan.md)** and **[Hamidin Abd. Hamid](./hamidin-abd-hamid.md)**
+  1. The Gerschenkron Advantage: New directions for forging ahead in Malaysian economic history by **[Loh Wei Leng](./loh-wei-leng.md)**
+  1. Highlighting [Malay](./malay.md) women in Malaysian historiography by **[Mahani Musa](./mahani-musa.md)**
+  1. Writing on [Orang Asli](./orang-asli.md) into Malaysian History by **[Nik Haslinda Nik Hussain](./haslinda-nik-hussain.md)**
+  1. Many Malayas: Placing Malaysia in a Historical Context by **[Paul H. Kratoska](./paul-h-kratoska.md)**
+  1. Writing the History of the [Chinese in Malaysia](./chinese-in-malaysia.md): New directions and bridging the Gaps between two linguistic spheres by **[Danny Wong Tze Ken](./danny-wong-tze-ken.md)**
 
 ## Summary
 <!-- Synthesis engine: Insert chapter summaries or overview here -->

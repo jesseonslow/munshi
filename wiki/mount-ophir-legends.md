@@ -26,11 +26,11 @@ jstor: https://www.jstor.org/stable/41561160
 
 # Mount Ophir legends
 
-This short note by Dr. Mildred E. Staley records three ethnographic observations from the Malacca and Negri Sembilan region, published in the JSBRAS in December 1912 (p. 24).
+This short note by Dr. Mildred E. Staley records three ethnographic observations from the [Malacca](./melaka.md) and [Negri Sembilan](./negeri-sembilan.md) region, published in the [JSBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md) in December 1912 (p. 24).
 
 ## Summary
 
-The principal section documents the 1912 version of the Gunong Ledang (Mount Ophir) legend as collected from kampongs at the mountain's base. The mountain is inhabited by a Queen-Goddess or Sorceress (variously called "Bidahari" or "Perempuan Sakti") who dwells in a cave, attended by air-spirits (Benuas), demons, and a tiger familiar into whom she can project herself. Malays are forbidden to climb the mountain, though English are exempt and Malay guides are tolerated. A narrative recounts how a former Sultan (possibly Ala-e-din) attempted to court the Sorceress by offering marriage, but negotiations failed when she demanded, among other things, a cupful of his own blood. Staley notes that a counter-spell from a village Pawang is considered necessary before ascent, and records the confession of a local Malay who affirmed the mountain's demonic character (p. 24).
+The principal section documents the 1912 version of the Gunong Ledang (Mount Ophir) legend as collected from kampongs at the mountain's base. The mountain is inhabited by a Queen-Goddess or Sorceress (variously called "Bidahari" or "Perempuan Sakti") who dwells in a cave, attended by air-[spirits](./spirits.md) (Benuas), demons, and a tiger familiar into whom she can project herself. Malays are forbidden to climb the mountain, though English are exempt and Malay guides are tolerated. A narrative recounts how a former Sultan (possibly Ala-e-din) attempted to court the Sorceress by offering [marriage](./marriage.md), but negotiations failed when she demanded, among other things, a cupful of his own blood. Staley notes that a counter-spell from a village Pawang is considered necessary before ascent, and records the confession of a local [Malay](./malay.md) who affirmed the mountain's demonic character (p. 24).
 
 Two briefer sections follow: a note on Salet (orang-laut) descendants still practising javelin fishing from bamboo "water-machan" piers, and an account of a Hindu fakir performing propitiation rites for the smallpox goddess Sitla in a distant kampong, with the author drawing a parallel to the Rg Veda's statement on the multiplicity of names for the divine (p. 25).
 

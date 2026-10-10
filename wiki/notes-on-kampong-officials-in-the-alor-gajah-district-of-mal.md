@@ -26,7 +26,7 @@ jstor: https://www.jstor.org/stable/41502957
 
 # Notes on kampong officials in the Alor Gajah district of Malacca 1932–1935
 
-A.B. Ramsay, writing in 1950 from his experience as District Officer of Alor Gajah (1932–1935), provides a first-hand ethnographic account of the kampong-level administrative structure in Malacca's Alor Gajah district, arguing that the local system of clan-based rotation and election represented a genuine indigenous democratic practice that the colonial administration had successfully grafted onto rather than replaced.
+[A.B. Ramsay](./ab-ramsay.md), writing in 1950 from his experience as District Officer of Alor Gajah (1932–1935), provides a first-hand ethnographic account of the kampong-level administrative structure in [Malacca](./melaka.md)'s Alor Gajah district, arguing that the local system of clan-based rotation and election represented a genuine indigenous democratic practice that the colonial administration had successfully grafted onto rather than replaced.
 
 ## Summary
 
@@ -34,7 +34,7 @@ The article maps the dual adat system in Alor Gajah — *Adat Perpateh* (matriar
 
 The core of the article is the mechanism of Penghulu selection — a hybrid of clan rotation, secret ballot by eligible *warris*, and District Officer approval. Ramsay describes the Sidangs (clan representatives) who handled domestic disputes, conducted ceremonies, and sat on kampong tribunals whose sanctions were social exclusion rather than legal penalty. He contrasts this with the *Adat Temenggong* mukims where rotation was territorial rather than clan-based and carried considerably less binding force, expressing a general sentiment of equity rather than a crystallized custom.
 
-Ramsay's underlying argument is that the Malaccan system, though complicated and sometimes staffed by men of modest calibre, preserved a genuine link between administration and community because the Penghulus were seen as the people's own creation. He contrasts this favourably with the situation in the Malay States of Perak, Selangor, Pahang and Negri Sembilan, where Penghulus had lost their territorial and local significance and become at best interpreters of the administration to the kampong rather than interpreters of the kampong to the administration.
+Ramsay's underlying argument is that the Malaccan system, though complicated and sometimes staffed by men of modest calibre, preserved a genuine link between administration and community because the Penghulus were seen as the people's own creation. He contrasts this favourably with the situation in the [Malay](./malay.md) States of [Perak](./perak.md), [Selangor](./selangor.md), [Pahang](./pahang.md) and [Negri Sembilan](./negeri-sembilan.md), where Penghulus had lost their territorial and local significance and become at best interpreters of the administration to the kampong rather than interpreters of the kampong to the administration.
 
 ### Key Findings
 
@@ -47,12 +47,12 @@ Ramsay's underlying argument is that the Malaccan system, though complicated and
 
 ### Conclusion
 
-Ramsay's definitive takeaway is that the Alor Gajah system represented a successful colonial graft on indigenous political growth: each Penghulu election functioned as a forum for democratic expression, and the confidence the *Anak Buah* placed in their locally created leaders more than compensated for any deficiencies in education or administrative energy.
+Ramsay's definitive takeaway is that the Alor Gajah system represented a successful colonial graft on indigenous political growth: each Penghulu election functioned as a forum for democratic expression, and the confidence the *Anak Buah* placed in their locally created leaders more than compensated for any deficiencies in [education](./education.md) or administrative energy.
 
 ## Context
 
-- Ramsay held the rank M.C.S. (Member of the Royal Colonial Service) and served as District Officer of Alor Gajah during the period described; the article is thus a contemporary administrative ethnography written from direct experience rather than secondary research.
-- The piece was received by the MBRAS in February 1949 and published in 1950, placing it in the immediate post-war period when colonial administrators were reassessing indigenous institutions in light of emerging nationalist pressures.
+- Ramsay held the rank M.C.S. (Member of the Royal Colonial Service) and served as District Officer of Alor Gajah during the period described; the article is thus a contemporary administrative [ethnography](./ethnography.md) written from direct experience rather than secondary research.
+- The piece was received by the [MBRAS](./malaysian-branch-of-the-royal-asiatic-society.md) in February 1949 and published in 1950, placing it in the immediate post-war period when colonial administrators were reassessing indigenous institutions in light of emerging nationalist pressures.
 
 ## References
 <!-- Grounded occurrences and citations -->

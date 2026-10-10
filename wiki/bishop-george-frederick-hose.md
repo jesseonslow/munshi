@@ -23,7 +23,7 @@ published: false
 
 ## MBRAS Sources
 
-- [R.N. Bland](./rn-bland.md) and [H.N. Ridley](./henry-nicholas-ridley.md) (1911). [Right Revd. George Frederick Hose, D.D. Bishop of Singapore and Sarawak, 1881–1908](./right-revd-george-frederick-hose-dd-bishop-of-singapore-and-.md). *JSBRAS* 57: 1–4
+- [R.N. Bland](./rn-bland.md) and [H.N. Ridley](./henry-nicholas-ridley.md) (1911). [Right Revd. George Frederick Hose, D.D. Bishop of Singapore and Sarawak, 1881–1908](./right-revd-george-frederick-hose-dd-bishop-of-singapore-and-.md). *[JSBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* 57: 1–4
 
 ## References
 <!-- Grounded occurrences and citations -->

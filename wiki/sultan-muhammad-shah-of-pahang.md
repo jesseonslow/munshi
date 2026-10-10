@@ -20,7 +20,7 @@ published: false
 
 ## MBRAS Sources
 
-- [W. Linehan](./w-linehan.md) (1926). [Tomb-stones of Mahmud Shah I of Pahang](./tomb-stones-of-mahmud-shah-i-of-pahang.md). *JMBRAS* 4(2): 188–192
+- [W. Linehan](./w-linehan.md) (1926). [Tomb-stones of Mahmud Shah I of Pahang](./tomb-stones-of-mahmud-shah-i-of-pahang.md). *[JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* 4(2): 188–192
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -25,7 +25,7 @@ publication_type: journal_article
 
 # Population changes in Sabah, 1960–70
 
-Lee Yong Leng (1978) examines the demographic transformation of Sabah during the 1960–70 intercensal period, a decade in which the territory's population grew at an unprecedented rate, the Chinese share of the total population declined for the first time since 1911, and the long-standing pattern of indigenous out-migration from the interior was arrested. The article argues that the construction of major highways, government land settlement schemes, and the influx of foreign labour into east coast timber and plantation industries fundamentally restructured Sabah's demographic geography, shifting the centre of growth from the west coast to the east.
+[Lee Yong Leng](./lee-yong-leng.md) (1978) examines the demographic transformation of Sabah during the 1960–70 intercensal period, a decade in which the territory's population grew at an unprecedented rate, the [Chinese](./chinese.md) share of the total [population](./population.md) declined for the first time since 1911, and the long-standing pattern of indigenous out-migration from the interior was arrested. The article argues that the construction of major highways, government land settlement schemes, and the influx of foreign [labour](./labour.md) into east coast timber and plantation industries fundamentally restructured [Sabah](./sabah.md)'s demographic geography, shifting the centre of growth from the west coast to the east.
 
 ## Summary
 
@@ -33,7 +33,7 @@ The article analyses the 1970 Census for Sabah in comparison with the 1960 Censu
 
 A central thread of the analysis is the reversal of internal migration patterns. Before 1951, the dominant dynamic was indigenous out-migration from the interior highlands to the west coast plains, where estate work and social amenities drew Kadazans and other hill peoples. By the 1960–70 period, this flow had been checked and partially reversed: the building of the interior trunk road and the East-West Highway, combined with government irrigation and settlement schemes in districts such as Keningau and Labuk, created new agricultural opportunities that attracted both indigenous and Chinese farmers inward. Simultaneously, the east coast experienced a different dynamic entirely, driven by the arrival of Indonesian, Filipino, and other foreign workers seeking employment in the timber and estate sectors, which diluted the previously dominant Chinese proportion in those districts.
 
-The article also examines the occupational and spatial differentiation between ethnic groups—indigenous peoples concentrated in subsistence padi cultivation, shifting hill agriculture, and coastal fishing; Chinese in cash-crop smallholdings (rubber, coconut) and urban commerce—and how these patterns shaped district-level growth rates. The author draws on census tabulations, district-level population tables, and his own earlier intercensal analyses to construct a comparative narrative that situates the 1960–70 decade within a longer demographic history stretching back to the Chartered Company era.
+The article also examines the occupational and spatial differentiation between ethnic groups—indigenous peoples concentrated in subsistence padi cultivation, shifting hill [agriculture](./agriculture.md), and coastal fishing; Chinese in cash-crop smallholdings (rubber, coconut) and urban [commerce](./commerce.md)—and how these patterns shaped district-level growth rates. The author draws on census tabulations, district-level population tables, and his own earlier intercensal analyses to construct a comparative narrative that situates the 1960–70 decade within a longer demographic history stretching back to the Chartered Company era.
 
 ### Key Findings
 
@@ -50,7 +50,7 @@ Lee's definitive historical takeaway is that 1960–70 marks a structural demogr
 
 ## Context
 
-- The article draws primarily on the 1970 Malaysian Census tabulations (Chander, 1972, 1976) and the 1960 North Borneo Census report (Jones, 1962), supplemented by the author's own earlier intercensal analyses (Lee, 1962, 1965, 1968).
+- The article draws primarily on the 1970 Malaysian Census tabulations (Chander, 1972, 1976) and the 1960 North [Borneo](./borneo.md) Census report (Jones, 1962), supplemented by the author's own earlier intercensal analyses (Lee, 1962, 1965, 1968).
 - Historiographically, the piece extends Lee's longitudinal demographic series for Sabah and provides the first systematic district-level comparison of the 1960–70 period, situating the territory's demographic transition within the broader context of Malaysian federation and post-war economic development.
 
 ## References

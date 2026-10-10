@@ -106,10 +106,9 @@ articles:
   is_review: false
 ---
 
-
 # JMBRAS Vol. 17, Part 1 (October 1939)
 
-**Series:** Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society  
+**Series:** Journal of the Malayan/[Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** October 1939
 
 ## Table of Contents

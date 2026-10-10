@@ -25,7 +25,7 @@ publication_type: journal_article
 
 # Some Malay and aboriginal charms and methods of measuring weapons
 
-P.D.R. Williams-Hunt published this fieldwork record in 1952, documenting divination charms and physical measurement techniques used by Aboriginal and Malay communities across Peninsular Malaysia when assessing the suitability of weapons. Drawing on recordings made between 1949 and 1951 among the Jakun, Semai Semelai, Senoi (Sakai), and Malay informants, the article argues that these oral traditions—many of which are recognisably of Malay origin in their Aboriginal forms—were in active process of being lost and required urgent documentation.
+[P.D.R. Williams-Hunt](./pdr-williams-hunt.md) published this fieldwork record in 1952, documenting [divination](./divination.md) [charms](./charms.md) and physical measurement techniques used by Aboriginal and Malay communities across Peninsular [Malaysia](./malaysia.md) when assessing the suitability of weapons. Drawing on recordings made between 1949 and 1951 among the [Jakun](./jakun.md), Semai Semelai, Senoi (Sakai), and Malay informants, the article argues that these oral [traditions](./traditions.md)—many of which are recognisably of [Malay](./malay.md) origin in their Aboriginal forms—were in active process of being lost and required urgent documentation.
 
 ## Summary
 
@@ -41,7 +41,7 @@ The article also captures the social and ritual boundaries surrounding these pra
 - The Semai Semelai of Sg. Lui (Negri Sembilan) measured blowpipe darts by placing the butt in the wrist depression (between the scaphoid and pisiform tubercles) and extending the shaft along the second finger, adding the width of the other hand's fingers; the dart butt itself should equal two finger-widths (p. 57).
 - The Lowland Semai of Ulu Degong (Perak) determined dart length by trial-shooting: a dart initially made from elbow to a crease on the side of the hand was shot vertically through a new blowpipe, and its length trimmed until it flew straight up and landed point-first in the ground; the resulting measurement was then standardised for all future darts (p. 58).
 - The *mengkuang* strip method, used by both Lowland and Hill Semai, involved measuring the blade, folding the strip in two, cutting it into segments the width of the blade's centre, and laying them alternately cross and longitudinal (I-I-I pattern); finishing on a cross section rendered the weapon unsuitable (pp. 59–60).
-- A Javanese informant from Pachitan (Che Mohamed Yusoff bin Haji Ibrahim) provided a numerical classification system for keris based on the *mengkuang* count: 2, 8, 10, 12 for fighting men; 1, 7, 9, 11, 15, 17, 19, 23 for house protection; 26–29, 4, 6, 14, 18, 20, 22, 24, 30 for personal use; and 3, 5, 13, 16, 21, 25 as dangerous weapons that may turn against the owner (p. 61).
+- A Javanese informant from Pachitan (Che Mohamed Yusoff bin Haji Ibrahim) provided a numerical classification system for [keris](./keris.md) based on the *mengkuang* count: 2, 8, 10, 12 for fighting men; 1, 7, 9, 11, 15, 17, 19, 23 for house protection; 26–29, 4, 6, 14, 18, 20, 22, 24, 30 for personal use; and 3, 5, 13, 16, 21, 25 as dangerous weapons that may turn against the owner (p. 61).
 - The Hill Semai of Bukit Betong (Lipis, Pahang) measured blowpipes at five arms' length (elbow to fingertip), occasionally six; a second informant (Rajah Tom, Ulu Jelai Kechil) measured the inner tube only in nipple-widths, requiring the top end to fall over the sternum or between the sternum and left nipple (p. 59).
 
 ### Conclusion
@@ -50,8 +50,8 @@ Williams-Hunt's definitive takeaway is one of urgency: the charms and measuremen
 
 ## Context
 
-- The data derive from Williams-Hunt's own fieldwork conducted in 1949–1951 across Pahang, Negri Sembilan, and Perak, supplemented by Malay informants from Parit Buntar (Perak) and Pachitan (Java); no archival collections were consulted, and the article is entirely a primary field record.
-- Historiographically, the piece contributes to the small body of mid-century MBRAS publications documenting Aboriginal material culture and belief systems at a moment of rapid change, and it implicitly records the transmission pathway by which Malay-origin divination practices were adapted (and distorted) into Aboriginal contexts.
+- The data derive from Williams-Hunt's own fieldwork conducted in 1949–1951 across [Pahang](./pahang.md), [Negri Sembilan](./negeri-sembilan.md), and [Perak](./perak.md), supplemented by Malay informants from Parit Buntar (Perak) and Pachitan (Java); no archival collections were consulted, and the article is entirely a primary field record.
+- Historiographically, the piece contributes to the small body of mid-century [MBRAS](./malaysian-branch-of-the-royal-asiatic-society.md) publications documenting Aboriginal material culture and belief systems at a moment of rapid change, and it implicitly records the transmission pathway by which Malay-origin divination practices were adapted (and distorted) into Aboriginal contexts.
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -17,7 +17,7 @@ gender: male
 
 ## Biography
 
-Ahmad Husni bin Ahmad Zainal Abidin is now semi-retired after working in the corporate sector for more than 35 years. He published his first book in 2016 and is pursuing his doctorate at Universiti Sains Malaysia, looking at biography in Malayan history.
+[Ahmad](./ahmad.md) Husni bin [Ahmad](./ahmad.md) Zainal Abidin is now semi-retired after working in the corporate sector for more than 35 years. He published his first book in 2016 and is pursuing his doctorate at Universiti Sains [Malaysia](./malaysia.md), looking at biography in Malayan [history](./history.md).
 
 ## Bibliography
 - (2022) [Federal Education Policy and the Role of Muhammad Yusof bin Ahmad, 1951–1955](./federal-education-policy-and-the-role-of-muhammad-yusof-bin-.md). *JMBRAS* 95(2): 109–132

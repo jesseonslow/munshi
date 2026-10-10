@@ -21,12 +21,12 @@ published: false
 
 - (1972) [Raja Kechil and the Minangkabau conquest of Johor in 1718](./raja-kechil-and-the-minangkabau-conquest-of-johor-in-1718.md). *JMBRAS* 45(2): 51–75
 - (1975) [Pre-Colonial State Systems in Southeast Asia](./pre-colonial-state-systems-in-southeast-asia.md). *Monograph* 6: 135
-- (1995) [The Bugis-Makassar diaspora](./the-bugis-makassar-diaspora.md). *JMBRAS* 68(1): 119–138
+- (1995) [The Bugis-Makassar diaspora](./the-bugis-makassar-diaspora.md). *[JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* 68(1): 119–138
 
 ### Reviews
 
 - (2001) A history of Malaysia, 2nd edn. *JMBRAS* 74(2): 131–134
-- (2017) A history of Malaysia, 3rd edn. *JMBRAS* 90(1): 139–144
+- (2017) A history of [Malaysia](./malaysia.md), 3rd edn. *JMBRAS* 90(1): 139–144
 
 ## References
 <!-- Grounded occurrences and citations -->

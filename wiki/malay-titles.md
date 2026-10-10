@@ -26,11 +26,11 @@ jstor: https://www.jstor.org/stable/41559960
 
 # Malay titles
 
-This note by R. O. Winstedt summarizes the account of Malay hereditary titles and ranks found in the *Adat Raja-Raja Melayu*, a 1779 Malacca manuscript edited by Ph. S. van Ronkel in 1929 (p. 146).
+This note by [R. O. Winstedt](./richard-olaf-winstedt.md) summarizes the account of [Malay](./malay.md) hereditary titles and ranks found in the *Adat Raja-Raja Melayu*, a 1779 [Malacca](./melaka.md) manuscript edited by [Ph. S. van Ronkel](./ph-s-van-ronkel.md) in 1929 (p. 146).
 
 ## Summary
 
-Winstedt extracts and translates the passage from Farquhar MS. 4 (Royal Asiatic Society, London) that lays out the rules of descent for Malay noble titles: a male Raja's children are Rajas; a female Raja's son by an inferior is a Megat; a Megat's sons are Megats; and so on through Biduanda, cheteria, perwira, and hulubalang (p. 146). He then summarizes the system of Mantri titles derived from the Bendahara's title "Paduka Sri Maha Raja," which generates the hierarchical classes of Four, Eight, Sixteen, and Thirty-two, each distinguished by the leading word of the title (Paduka, Sri, Raja, or none) (p. 147). Winstedt notes that these classes, though absent from the *Malay Annals*, remained extant in Perak, and that Perak's chief titles still exhibit traces of old Malacca usage despite Chinese and Bugis influence (p. 148).
+Winstedt extracts and translates the passage from [Farquhar](./sir-robert-townsend-farquhar.md) MS. 4 (Royal Asiatic Society, London) that lays out the rules of descent for Malay noble titles: a male Raja's children are Rajas; a female Raja's son by an inferior is a Megat; a Megat's sons are Megats; and so on through Biduanda, cheteria, perwira, and hulubalang (p. 146). He then summarizes the system of Mantri titles derived from the Bendahara's title "Paduka Sri Maha Raja," which generates the hierarchical classes of Four, Eight, Sixteen, and Thirty-two, each distinguished by the leading word of the title (Paduka, Sri, Raja, or none) (p. 147). Winstedt notes that these classes, though absent from the *[Malay Annals](./malay-annals.md)*, remained extant in Perak, and that [Perak](./perak.md)'s chief titles still exhibit traces of old Malacca usage despite [Chinese](./chinese.md) and [Bugis](./bugis.md) influence (p. 148).
 
 ## References
 <!-- Grounded occurrences and citations -->

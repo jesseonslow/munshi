@@ -15,14 +15,13 @@ status: stub
 published: false
 ---
 
-
 # Michael Wilmer Forbes Tweedie
 
 <!-- Synthesis engine: Insert introductory synthesis for Michael Wilmer Forbes Tweedie here -->
 
 ## MBRAS Sources
 
-- Anon. Obituary. MB 66(2)
+- [Anon](./anon-and-unidentifiable-initials.md). Obituary. MB 66(2)
 
 ## Bibliography
 - (1940) [Report on excavation in Kelantan](./report-on-excavation-in-kelantan.md). *JMBRAS* 18(2): 1–22

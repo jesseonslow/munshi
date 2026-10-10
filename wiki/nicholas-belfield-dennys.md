@@ -16,14 +16,13 @@ status: stub
 published: false
 ---
 
-
 # Nicholas Belfield Dennys
 
 <!-- Synthesis engine: Insert introductory synthesis for Nicholas Belfield Dennys here -->
 
 ## MBRAS Sources
 
-- Ridley, H.N. Obituary. SB 35
+- [Ridley, H.N](./henry-nicholas-ridley.md). Obituary. SB 35
 
 ## Bibliography
 - (1878) [Breeding pearls](./breeding-pearls.md). *JSBRAS* 1: 31–37

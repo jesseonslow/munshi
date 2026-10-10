@@ -30,7 +30,7 @@ articles:
 
 # JMBRAS Vol. 10, Part 2 (August 1932)
 
-**Series:** Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society  
+**Series:** Journal of the Malayan/[Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** August 1932
 
 ## Table of Contents

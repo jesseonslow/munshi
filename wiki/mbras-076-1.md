@@ -99,7 +99,7 @@ articles:
 
 # JMBRAS Vol. 76, Part 1 (June 2003)
 
-**Series:** Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society  
+**Series:** Journal of the Malayan/[Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** June 2003
 
 ## Table of Contents

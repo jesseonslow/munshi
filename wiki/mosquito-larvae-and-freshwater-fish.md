@@ -26,7 +26,7 @@ jstor: https://www.jstor.org/stable/41561161
 
 # Mosquito larvae and freshwater fish
 
-Dr. R. Hanitsch, Director of the Raffles Museum and Library in Singapore, published this government-commissioned report in 1912 investigating whether indigenous freshwater fish—particularly the small *Haplochilus panchax* (Ikan mata lalat)—could serve as a biological control agent against mosquito larvae and malaria, in the same manner as the "Millions" fish (*Girardinus poeciloides*) was believed to do in Barbados. The study combined field surveys of fish populations in Singapore's ditches and pools with direct feeding experiments to assess which species consumed mosquito larvae and to what degree.
+Dr. R. Hanitsch, Director of the [Raffles](./stamford-raffles.md) Museum and Library in Singapore, published this government-commissioned report in 1912 investigating whether indigenous freshwater fish—particularly the small *Haplochilus panchax* (Ikan mata lalat)—could serve as a biological control agent against mosquito larvae and malaria, in the same manner as the "Millions" fish (*Girardinus poeciloides*) was believed to do in Barbados. The study combined field [surveys](./surveys.md) of [fish](./fish.md) populations in [Singapore](./singapore.md)'s ditches and pools with direct feeding experiments to assess which species consumed mosquito [larvae](./larvae.md) and to what degree.
 
 ## Summary
 
@@ -34,7 +34,7 @@ The report arose from a Colonial Office initiative to distribute the Barbados "M
 
 The fieldwork revealed a clear ecological pattern: in nearly every accessible water body containing fish, mosquito larvae were absent or scarce, whereas pools and containers without fish harboured dense larval populations. Feeding experiments showed marked variation among species. The Fighting Fish (*Betta pugnax*) consumed larvae greedily within seconds; the young of *Osphromenus trichopterus*, *Anabas scandens*, and *Ophiocephalus striatus* also ate them eagerly; *Haplochilus panchax* ate them but "not greedily"; and *Hemirhamphus fluviatilis* was strictly herbivorous, feeding on algae and waterweeds. In the most malarial area surveyed—the swamps of Teluk Blangah—larvae persisted only in sites inaccessible to fish: empty tins, freshly formed pools, and dense mats of waterweed where no fish could penetrate.
 
-Hanitsch concluded that while fish introduction might reduce larval populations in the outskirts of the town, it would be "utterly hopeless" as a strategy for the crowded central districts, where *Anopheles*, *Culex*, and *Stegomyia* bred in countless small containers and shaded sites beyond any fish's reach. He recommended a combined approach: filling or cleaning large pools, removing surplus vegetation, and introducing small larvivorous fish—especially *Betta pugnax*—where conditions permitted.
+Hanitsch concluded that while fish introduction might reduce larval populations in the outskirts of the town, it would be "utterly hopeless" as a strategy for the crowded central districts, where *Anopheles*, *Culex*, and *Stegomyia* bred in countless small containers and shaded sites beyond any fish's reach. He recommended a combined approach: filling or cleaning large pools, removing surplus [vegetation](./vegetation.md), and introducing small larvivorous fish—especially *Betta pugnax*—where conditions permitted.
 
 ### Key Findings
 
@@ -43,7 +43,7 @@ Hanitsch concluded that while fish introduction might reduce larval populations 
 - *Hemirhamphus fluviatilis* (Ikan jolong jolong) was confirmed as herbivorous, feeding on algae and waterweeds, and did not consume mosquito larvae (p. 27).
 - In the Teluk Blangah swamps, *Anopheles* larvae were found only in dense waterweed mats and empty tins—sites where no fish could operate—while open water containing six species of fish was free of larvae (p. 29).
 - A pair of adjacent pools off Gaylang Road provided a natural experiment: one pool "thick and black with mosquito larvæ (*Culex*)" contained no fish, while a pool "only about a yard off" was free of larvae and contained *Ikan mata lalat* (p. 29).
-- The "Millions" fish (*Girardinus poeciloides*) is only about 1½ inches in length and belongs to the family Cyprinodontidæ, the smallest fish family known (p. 26).
+- The "Millions" fish (*Girardinus poeciloides*) is only about 1½ inches in length and belongs to the family Cyprinodontidæ, the smallest fish [family](./family.md) known (p. 26).
 
 ### Conclusion
 

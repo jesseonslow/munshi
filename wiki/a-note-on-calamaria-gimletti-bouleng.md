@@ -26,11 +26,11 @@ jstor: https://www.jstor.org/stable/41559733
 
 # A note on Calamaria gimletti Bouleng
 
-A brief taxonomic note by G. Hope Sworder documenting the fourth known specimen of *Calamaria gimletti* Boulenger, collected at Fraser's Hill, F.M.S. (p. 336).
+A brief taxonomic note by G. Hope Sworder documenting the fourth known specimen of *Calamaria gimletti* Boulenger, collected at [Fraser's Hill](./frasers-hill.md), [F.M.S.](./federated-[malay](./malay.md)-states.md) (p. 336).
 
 ## Summary
 
-The specimen, collected by C.S. Nava Ratnam at 4,000 feet, extends the known range of ventral counts for the species (165, compared to 202–249 in the three previously recorded specimens) and differs in markings from earlier records: it lacks yellow spots on the tail and bears a large confluent yellow spot on each side of the body at eight costals from the head (p. 336). A table summarising the four known specimens is provided, and the specimen was deposited in the Raffles Museum, Singapore. A text-figure shows greatly enlarged head and body scale details (p. 337).
+The specimen, collected by C.S. Nava Ratnam at 4,000 feet, extends the known range of ventral counts for the species (165, compared to 202–249 in the three previously recorded specimens) and differs in markings from earlier records: it lacks yellow spots on the tail and bears a large confluent yellow spot on each side of the body at eight costals from the head (p. 336). A table summarising the four known specimens is provided, and the specimen was deposited in the [Raffles](./stamford-raffles.md) Museum, [Singapore](./singapore.md). A text-figure shows greatly enlarged head and body scale details (p. 337).
 
 ## References
 <!-- Grounded occurrences and citations -->

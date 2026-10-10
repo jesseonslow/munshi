@@ -27,7 +27,7 @@ articles:
 
 # JSBRAS No. 69 (October 1915)
 
-**Series:** Journal of the Straits Branch of the Royal Asiatic Society  
+**Series:** [Journal of the Straits Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** October 1915
 
 ## Table of Contents

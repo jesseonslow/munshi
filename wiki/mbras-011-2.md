@@ -282,7 +282,7 @@ articles:
 
 # JMBRAS Vol. 11, Part 2 (December 1933)
 
-**Series:** Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society  
+**Series:** Journal of the Malayan/[Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** December 1933
 
 ## Table of Contents

@@ -25,7 +25,7 @@ publication_type: note
 
 # Curious nesting place of Simotes octolineatus
 
-This short note by H. N. Ridley documents the discovery of a female *Simotes octolineatus* snake nesting inside a beetle-bored tunnel in a bough of an *Spathodea nilotica* tree in the Botanic Gardens (p. 263).
+This short note by [H. N. Ridley](./henry-nicholas-ridley.md) documents the discovery of a female *Simotes octolineatus* snake nesting inside a beetle-bored tunnel in a bough of an *Spathodea nilotica* tree in the Botanic Gardens (p. 263).
 
 ## Summary
 

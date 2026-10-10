@@ -77,7 +77,7 @@ articles:
 
 # JSBRAS No. 13 (June 1884)
 
-**Series:** Journal of the Straits Branch of the Royal Asiatic Society  
+**Series:** [Journal of the Straits Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** June 1884
 
 ## Table of Contents

@@ -25,13 +25,13 @@ publication_type: note
 
 # Antiquity of Malacca
 
-C. O. Blagden's short note reports on a newly identified reference to Malacca in a Siamese legal text, arguing for the city's existence earlier than previously established.
+[C. O. Blagden](./charles-otto-blagden.md)'s short note reports on a newly identified reference to [Malacca](./melaka.md) in a Siamese legal text, arguing for the city's existence earlier than previously established.
 
 ## Summary
 
-Blagden draws attention to Colonel Gerini's monograph on Ptolemy's Geography of Eastern Asia, which identifies a mention of "Malaka" in the "Palatine Law" of Siam (Kot Monthieraban), enacted in A.D. 1360 by the king who founded Ayuthia (p. 189). This reference lists Malaka among the southern states tributary to Siam, providing evidence that Malacca existed before the fall of Singapore (c. A.D. 1377), though Blagden cautions that the law-code may have been revised after its original date (p. 189).
+Blagden draws attention to Colonel Gerini's monograph on [Ptolemy](./ptolemy.md)'s Geography of Eastern Asia, which identifies a mention of "Malaka" in the "Palatine Law" of [Siam](./thailand.md) (Kot Monthieraban), enacted in A.D. 1360 by the king who founded Ayuthia (p. 189). This reference lists Malaka among the southern states tributary to [Siam](./thailand.md), providing evidence that [Malacca](./melaka.md) existed before the fall of [Singapore](./singapore.md) (c. A.D. 1377), though Blagden cautions that the law-code may have been revised after its original date (p. 189).
 
-Blagden also discusses three other names appearing in the same Siamese context — Ujong Tanah, Malayu, and Worawari — noting that Malayu likely refers to the Malay Peninsula as a whole rather than a specific state, while Worawari remains an unsolved puzzle for which Gerini's suggestion of Muar seems improbable (p. 190).
+Blagden also discusses three other names appearing in the same Siamese context — Ujong Tanah, Malayu, and Worawari — noting that Malayu likely refers to the [Malay](./malay.md) Peninsula as a whole rather than a specific state, while Worawari remains an unsolved puzzle for which Gerini's suggestion of [Muar](./muar.md) seems improbable (p. 190).
 
 ## References
 <!-- Grounded occurrences and citations -->

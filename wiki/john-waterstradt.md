@@ -18,7 +18,7 @@ published: false
 
 ## MBRAS Sources
 
-- [H.S. Barlow](./henry-sackville-barlow.md) (1969). [John Waterstradt, 1869–1944](./john-waterstradt-18691944.md). *JMBRAS* 42(2): 115–129
+- [H.S. Barlow](./henry-sackville-barlow.md) (1969). [John Waterstradt, 1869–1944](./john-waterstradt-18691944.md). *[JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* 42(2): 115–129
 
 ## References
 <!-- Grounded occurrences and citations -->

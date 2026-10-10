@@ -27,7 +27,7 @@ articles:
 
 # JMBRAS Vol. 32, Part 2 (June 1959)
 
-**Series:** Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society  
+**Series:** Journal of the Malayan/[Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** June 1959
 
 ## Table of Contents

@@ -25,11 +25,11 @@ publication_type: note
 
 # A Pulau Tiuman superstition
 
-W. C. (W. Cameron) provides a brief follow-up note on the Malay medicinal fungus known as Susu Rimau, previously described in the Journal (Vol. 22, p. 340), reporting its taxonomic identification as *Polyporus sacer* (p. 101).
+W. C. ([W. Cameron](./w-cameron.md)) provides a brief follow-up note on the [Malay](./malay.md) medicinal fungus known as Susu Rimau, previously described in the [Journal](./journal.md) (Vol. 22, p. 340), reporting its taxonomic identification as *Polyporus sacer* (p. 101).
 
 ## Summary
 
-The author notes that since his earlier account of the sclerotium (resting stage) of the fungus, he has obtained additional fine specimens of both the tuber and the fully developed fruiting body in Singapore and Penang. Mr. Massee of Kew identified the species as *Polyporus sacer*, described as a very widely distributed fungus (p. 101).
+The author notes that since his earlier account of the sclerotium (resting stage) of the fungus, he has obtained additional fine specimens of both the tuber and the fully developed fruiting body in [Singapore](./singapore.md) and [Penang](./penang.md). Mr. Massee of Kew identified the species as *Polyporus sacer*, described as a very widely distributed fungus (p. 101).
 
 ## References
 <!-- Grounded occurrences and citations -->

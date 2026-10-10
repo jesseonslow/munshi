@@ -40,7 +40,7 @@ articles:
 
 # JMBRAS Vol. 3, Part 2 (November 1925)
 
-**Series:** Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society  
+**Series:** Journal of the Malayan/[Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** November 1925
 
 ## Table of Contents

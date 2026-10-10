@@ -18,7 +18,7 @@ published: false
 
 ## MBRAS Sources
 
-- Tan Liok Ee. Tan Cheng Lock, Tan Kah Kee and Lim Lian Geok. MB 68(1)
+- Tan Liok Ee. Tan Cheng Lock, [Tan Kah Kee](./tan-kah-kee.md) and [Lim Lian Geok](./lim-lian-geok.md). MB 68(1)
 
 ## References
 <!-- Grounded occurrences and citations -->

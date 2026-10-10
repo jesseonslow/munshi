@@ -26,11 +26,11 @@ jstor: https://www.jstor.org/stable/41559660
 
 # Some Malay boats and their uses
 
-H.G. Dalton, a colonial-era administrator, published this descriptive ethnographic study in 1926, cataloguing the types of Malay fishing and cargo boats used along the East Coast of the Malay Peninsula and detailing their construction, rigging, and the specific fishing techniques associated with each vessel. The article serves as a practical field guide to the maritime technology and subsistence economy of the region's coastal communities.
+[H.G. Dalton](./hg-dalton.md), a colonial-era administrator, published this descriptive ethnographic study in 1926, cataloguing the types of Malay fishing and cargo boats used along the East Coast of the [Malay](./malay.md) Peninsula and detailing their construction, rigging, and the specific fishing techniques associated with each vessel. The article serves as a practical field guide to the maritime [technology](./technology.md) and subsistence economy of the region's coastal communities.
 
 ## Summary
 
-Dalton's article is a systematic typological survey of Malay watercraft, moving from the smallest island canoes to the largest fishing vessels and cargo boats. The central concern is not merely nautical description but the relationship between boat design, fishing method, and the social and economic life of the crews. Each vessel type is presented in terms of its dimensions, timber selection, rigging, crew size, and the specific net or line technique it employs, with attention to the species of fish targeted and the market value of the catch.
+Dalton's article is a systematic typological survey of Malay watercraft, moving from the smallest island canoes to the largest fishing vessels and cargo boats. The central concern is not merely nautical description but the relationship between boat design, fishing method, and the social and economic life of the crews. Each vessel type is presented in terms of its dimensions, timber selection, rigging, crew size, and the specific net or line technique it employs, with attention to the species of [fish](./fish.md) targeted and the market value of the catch.
 
 The article reveals a hierarchy of maritime activity structured around scale and risk. The Kolek Pulau is a single-man craft for subsistence fishing near shore; the Kolek Kelibat introduces net fishing and a small crew; the Kolek Pengayer represents a cooperative enterprise of four boats working in concert; and the Payang is a full-scale commercial operation with a crew of fourteen, a complex purse net, and established protocols for locating fish. Dalton also notes the cultural and superstitious dimensions of fishing life—the prohibition on whistling and singing, the belief that shoes bring bad luck, the ceremonial launching of a new Payang, and the custom of the captain's wife sprinkling uncooked rice over the boat and crew after a good catch.
 
@@ -43,7 +43,7 @@ The piece closes with a brief treatment of non-fishing vessels: the Beda (Prahu)
 - The Kolek Pengayer is about 20 feet long with 4½ feet beam, draws 3 feet, and operates in groups of four boats using a Pukat Tankor net approximately 25 feet square with one-inch mesh; fish are sold at about $2.50 per basket (p. 194).
 - The Payang is approximately 40 feet long, draws 3 feet, carries a crew of about 14 men, and employs a Pukat Petarang net measuring 110–120 feet long by 18 feet wide with a mesh graduating from wide at the arms to ¾ inch at the purse end (pp. 195–196).
 - The Prahu Denah, the largest cargo boat described, carries 10–12 men, draws about 5 feet, is approximately 25 feet long with 6 feet beam, and is fitted with two masts the foremost of which is raked well forward (p. 197).
-- During the North-east Monsoon, Ikan Gelama leave the East Coast and the Payangs are either laid up ashore or sail down to Singapore and up the West Coast (p. 196).
+- During the North-east Monsoon, Ikan Gelama leave the East Coast and the Payangs are either laid up ashore or sail down to [Singapore](./singapore.md) and up the West Coast (p. 196).
 
 ### Conclusion
 

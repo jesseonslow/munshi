@@ -21,7 +21,7 @@ published: false
 
 ## MBRAS Sources
 
-- [W. Bott](./w-bott.md) (1891). [The alleged discovery of mercury in Malacca](./the-alleged-discovery-of-mercury-in-malacca.md). *JSBRAS* 24: 79–82
+- [W. Bott](./w-bott.md) (1891). [The alleged discovery of mercury in Malacca](./the-alleged-discovery-of-mercury-in-malacca.md). *[JSBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* 24: 79–82
 
 ## References
 <!-- Grounded occurrences and citations -->

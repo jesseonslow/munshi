@@ -28,7 +28,7 @@ jstor: https://www.jstor.org/stable/41560640
 
 # Rainfall registered at the undermentioned stations, in the Straits Settlements and the Native States, during the half-year ending 31st December 1879
 
-This is a tabular rainfall report by T. Irvine Rowell, M.D., Principal Civil Medical Officer of the Straits Settlements, recording monthly precipitation in inches for the half-year ending 31st December 1879 (p. 62).
+This is a tabular rainfall report by T. Irvine Rowell, M.D., Principal Civil Medical Officer of the [Straits Settlements](./straits-settlements.md), recording monthly precipitation in inches for the half-year ending 31st December 1879 (p. 62).
 
 ## Summary
 

@@ -22,7 +22,7 @@ published: false
 
 ## MBRAS Sources
 
-- [C. Skinner](./cyril-skinner.md) (1981). [Prince Damrong’s introduction to the “Dispatches of Luang Udom Sombat”](./prince-damrongs-introduction-to-the-dispatches-of-luang-udom.md). *JMBRAS* 54(2): 75–97
+- [C. Skinner](./cyril-skinner.md) (1981). [Prince Damrong’s introduction to the “Dispatches of Luang Udom Sombat”](./prince-damrongs-introduction-to-the-dispatches-of-luang-udom.md). *[JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* 54(2): 75–97
 
 ## References
 <!-- Grounded occurrences and citations -->

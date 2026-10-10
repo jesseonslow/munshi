@@ -67,9 +67,10 @@ articles:
   pages: 134–163
   is_review: false
 ---
+
 # JMBRAS Vol. 30, Part 1 (May 1957)
 
-**Series:** Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society  
+**Series:** Journal of the Malayan/[Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** May 1957
 
 ## Table of Contents

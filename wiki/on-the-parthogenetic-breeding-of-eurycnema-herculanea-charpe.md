@@ -25,7 +25,7 @@ publication_type: note
 
 # On the parthogenetic breeding of Eurycnema herculanea, Charpentier
 
-This short note by R. Hanitsch, Curator of the Raffles Museum, Singapore, documents the first recorded case of parthenogenesis in the order Orthoptera, based on his rearing of the phasmid *Eurycnema herculanea* at the Raffles Museum in 1897–1898.
+This short note by R. Hanitsch, Curator of the Raffles Museum, [Singapore](./singapore.md), documents the first recorded case of parthenogenesis in the order [Orthoptera](./orthoptera.md), based on his rearing of the phasmid *Eurycnema herculanea* at the [Raffles](./stamford-raffles.md) Museum in 1897–1898.
 
 ## Summary
 

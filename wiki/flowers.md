@@ -24,7 +24,7 @@ generated: true
 
 I am unable to write this article. The Archival Evidence Records section provided is empty, and my strict grounding rules require me to rely exclusively on the records supplied. Without any attested sources, I cannot produce a grounded article on flowers without fabricating dates, observations, or scholarly attributions.
 
-If you can provide the relevant archival records—such as journal articles, specimen reports, or notes from the Society's publications that discuss flowers in the Malay Peninsula or Borneo—I will compose the article in full accordance with the house styleguide and structural requirements.
+If you can provide the relevant archival records—such as journal articles, specimen reports, or notes from the Society's publications that discuss flowers in the [Malay](./malay.md) Peninsula or [Borneo](./borneo.md)—I will compose the article in full accordance with the house styleguide and structural requirements.
 
 ## MBRAS Sources
 

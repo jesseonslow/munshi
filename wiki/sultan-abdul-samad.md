@@ -25,7 +25,7 @@ published: false
 
 ## MBRAS Sources
 
-- [J.M. Gullick](./john-michael-gullick.md) (1953). [A careless, heathen philosopher?](./a-careless-heathen-philosopher.md). *JMBRAS* 26: 86–103
+- [J.M. Gullick](./john-michael-gullick.md) (1953). [A careless, heathen philosopher?](./a-careless-heathen-philosopher.md). *[JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* 26: 86–103
 
 ## References
 <!-- Grounded occurrences and citations -->

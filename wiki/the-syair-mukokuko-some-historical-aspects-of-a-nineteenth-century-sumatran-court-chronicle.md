@@ -34,7 +34,7 @@ published: false
 - An historical introduction
 - The *Syair Mukomuko* as a historical source
 - About the manuscript
-- The *Syair Mukomuko*: the Malay text and an English translation
+- The *Syair Mukomuko*: the [Malay](./malay.md) text and an English translation
 - Notes
 - Appendices
 - I. The Sultans of Anak Sungai
@@ -46,10 +46,10 @@ published: false
 - Illustrations
 - An *adat* house in west Sumatra
 - acsimile of the first page of the manuscript
--  map of west Sumatra
+-  map of west [Sumatra](./sumatra.md)
 - iew of Benkulen during the early nineteenth century
 - Bibliography
-- Index
+- [Index](./index.md)
 
 ## Summary
 <!-- Synthesis engine: Insert chapter summaries or overview here -->

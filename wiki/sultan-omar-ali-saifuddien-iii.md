@@ -18,7 +18,7 @@ generated: true
 
 ## Sultan Omar Ali Saifuddien III
 
-Sultan Omar Ali Saifuddien III (1888–1959) was the ninth Sultan of Brunei, reigning from 1924 until his death in 1959. He is best known for his role in the modernisation of Brunei during the colonial period, his engagement with the British colonial administration, and his contributions to the development of the state's infrastructure and governance. His reign marked a transitional era in Bruneian history, bridging traditional sultanate rule with the administrative frameworks introduced under British influence. [[1]](#ref-1)
+Sultan Omar Ali Saifuddien III (1888–1959) was the ninth Sultan of Brunei, reigning from 1924 until his death in 1959. He is best known for his role in the modernisation of [Brunei](./brunei.md) during the colonial period, his engagement with the British colonial administration, and his contributions to the development of the state's infrastructure and governance. His reign marked a transitional era in Bruneian history, bridging traditional sultanate rule with the administrative frameworks introduced under British influence. [[1]](#ref-1)
 
 ## Reign and Modernisation
 
@@ -28,13 +28,13 @@ During his reign, Brunei experienced the introduction of modern educational inst
 
 ## Diplomatic and Regional Engagements
 
-Sultan Omar Ali Saifuddien III maintained diplomatic relations with neighbouring Malay states and with the British colonial authorities in the region. His engagement with the British was conducted through the Resident system, which gave the colonial administration substantial influence over internal affairs while the Sultan retained sovereignty in a ceremonial and symbolic capacity. [[1]](#ref-1)
+Sultan Omar Ali Saifuddien III maintained diplomatic relations with neighbouring [Malay](./malay.md) states and with the British colonial authorities in the region. His engagement with the British was conducted through the Resident system, which gave the colonial administration substantial influence over internal affairs while the Sultan retained sovereignty in a ceremonial and symbolic capacity. [[1]](#ref-1)
 
 The Sultan's reign also overlapped with the broader political changes in the region during the Second World War and its aftermath. The Japanese occupation of Brunei (1941–1945) disrupted the existing administrative arrangements, and the post-war period saw a reassertion of British influence and a gradual movement towards greater Bruneian self-determination. [[1]](#ref-1)
 
 ## Legacy and Documentation
 
-Sultan Omar Ali Saifuddien III is remembered as a figure who presided over a period of modernisation in Brunei while navigating the complex relationship between traditional authority and colonial administration. His obituary, published by P. M. Shariffuddin in the *JMBRAS* in 1986, provides a concise account of his life and reign, situating him within the broader context of Bruneian royal history. [[1]](#ref-1) The documentation of his reign in the Society's literature reflects the interest of the academic community in the political and administrative history of the Malay world during the colonial period.
+Sultan Omar Ali Saifuddien III is remembered as a figure who presided over a period of modernisation in Brunei while navigating the complex relationship between traditional authority and colonial administration. His obituary, published by P. M. Shariffuddin in the *[JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* in 1986, provides a concise account of his life and reign, situating him within the broader context of Bruneian royal history. [[1]](#ref-1) The documentation of his reign in the Society's [literature](./literature.md) reflects the interest of the academic community in the political and administrative history of the Malay world during the colonial period.
 
 ## MBRAS Sources
 

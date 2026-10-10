@@ -25,9 +25,9 @@ publication_type: note
 
 # A coin from Kedah
 
-G.B. Gardner's brief note describes an eight-sided silver-copper alloy coin (0.77 g, approximately 70% silver) reported to have come from Kedah, with an inscription translated by R.O. Winstedt as "Dziyau'd-din Sultan, Sanat 1076" (A.D. 1665) (p. 184).
+[G.B. Gardner](./gb-gardner.md)'s brief note describes an eight-sided [silver](./silver.md)-copper alloy coin (0.77 g, approximately 70% silver) reported to have come from [Kedah](./kedah.md), with an inscription translated by [R.O. Winstedt](./richard-olaf-winstedt.md) as "Dziyau'd-din Sultan, Sanat 1076" (A.D. 1665) (p. 184).
 
-The note situates the coin within the Kedah royal succession, noting that Dziyau'd-din Mukarram Shah would have been reigning around that date. Gardner compares the specimen with coins illustrated by Millies in *Recherches sur les Monnies des Indigènes de l'Archipel Indien et de la Péninsule Malaise*, observing that while Millies shows one eight-sided tin coin from Kedah, nothing exactly matching this specimen is known. Gardner closes by inviting further information on other known examples (p. 184).
+The note situates the coin within the Kedah royal succession, noting that Dziyau'd-din Mukarram Shah would have been reigning around that date. Gardner compares the specimen with [coins](./coins.md) illustrated by Millies in *Recherches sur les Monnies des Indigènes de l'Archipel Indien et de la Péninsule Malaise*, observing that while Millies shows one eight-sided tin coin from [Kedah](./kedah.md), nothing exactly matching this specimen is known. Gardner closes by inviting further information on other known examples (p. 184).
 
 ## References
 <!-- Grounded occurrences and citations -->

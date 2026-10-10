@@ -25,13 +25,13 @@ publication_type: note
 
 # The Kota Kapur (Western Bangka) inscription
 
-This short note by C. O. Blagden discusses the Kota Kapur inscription from Western Bangka, an early Indonesian stone document dated to approximately A.D. 686–7, which ranks among the oldest Indonesian records known at the time of writing (p. 69).
+This short note by [C. O. Blagden](./charles-otto-blagden.md) discusses the Kota Kapur inscription from Western Bangka, an early Indonesian stone document dated to approximately A.D. 686–7, which ranks among the oldest Indonesian records known at the time of writing (p. 69).
 
 ## Summary
 
-Blagden summarises the inscription's content: Sri Wijaya, ruler of a country called Parawis, sets up the stone after punishing or raiding the rebellious land of Jawa, warning his subjects against treason, disobedience, and various offences including evil-working charms and poisoning, and invoking a deadly curse on offenders while calling down blessings on loyal subjects (p. 69).
+Blagden summarises the inscription's content: Sri Wijaya, ruler of a country called Parawis, sets up the stone after punishing or raiding the rebellious land of Jawa, warning his subjects against treason, disobedience, and [various](./various.md) offences including evil-working [charms](./charms.md) and poisoning, and invoking a deadly curse on offenders while calling down blessings on loyal subjects (p. 69).
 
-The main interest of the document, Blagden argues, lies in its language, which is an archaic form allied to Malay. He provides extensive illustrative vocabulary—nouns, verbs, articles, and pronouns—showing correspondences with modern Malay and noting features such as the retention of *w* where modern Malay has *b*, stress-shifting with suffixes, a large proportion of Sanskrit loanwords indicating strong Hindu influence, and a distinctive passive in *ni-* that is completely lost in modern Malay (pp. 69–71).
+The main interest of the document, Blagden argues, lies in its language, which is an archaic form allied to Malay. He provides extensive illustrative vocabulary—nouns, verbs, articles, and pronouns—showing correspondences with modern Malay and noting features such as the retention of *w* where modern Malay has *b*, stress-shifting with suffixes, a large proportion of Sanskrit loanwords indicating strong Hindu influence, and a distinctive passive in *ni-* that is completely lost in modern [Malay](./malay.md) (pp. 69–71).
 
 ## References
 <!-- Grounded occurrences and citations -->

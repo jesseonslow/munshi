@@ -25,11 +25,11 @@ publication_type: note
 
 # Raja Langit, the celestial emperor
 
-This short note by R.O. Winstedt examines the concept of *Raja Langit* (the Celestial Emperor) in Malay political and cosmological thought (p. 243).
+This short note by [R.O. Winstedt](./richard-olaf-winstedt.md) examines the concept of *Raja Langit* (the Celestial Emperor) in [Malay](./malay.md) political and cosmological thought (p. 243).
 
 ## Summary
 
-The article addresses the figure of Raja Langit as a celestial sovereign concept within the Malay political tradition, a topic Winstedt, as a leading scholar of Malay history and literature, was well positioned to treat. The brief treatment likely situates the concept within the broader framework of Malay kingship ideology and its cosmological underpinnings.
+The article addresses the figure of Raja Langit as a celestial sovereign concept within the Malay political tradition, a topic Winstedt, as a leading scholar of Malay history and [literature](./literature.md), was well positioned to treat. The brief treatment likely situates the concept within the broader framework of Malay kingship ideology and its cosmological underpinnings.
 
 ## References
 <!-- Grounded occurrences and citations -->

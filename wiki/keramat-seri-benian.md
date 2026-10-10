@@ -32,11 +32,11 @@ jstor: https://www.jstor.org/stable/41503010
 
 # Keramat Seri Benian
 
-**Kēramat Sēri Bēnian** is a short note by W. Linehan published in the *Journal of the Malayan Branch of the Royal Asiatic Society*, Vol. 24, No. 3 (1951), pp. 151–153.
+**Kēramat Sēri Bēnian** is a short note by [W. Linehan](./w-linehan.md) published in the *[Journal of the Malayan Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)*, Vol. 24, No. 3 (1951), pp. 151–153.
 
 ## Summary
 
-The document concerns the kēramat (sacred site or relic) at Seri Bēnian, a location of religious significance in the Malay Peninsula. As a brief note of three pages, it likely documents the site's physical characteristics, associated traditions, or its significance in local Malay religious practice. The full text of the article is not available in the provided source material beyond the title page and metadata.
+The document concerns the kēramat (sacred site or relic) at Seri Bēnian, a location of religious significance in the Malay Peninsula. As a brief note of three pages, it likely documents the site's physical characteristics, associated [traditions](./traditions.md), or its significance in local [Malay](./malay.md) religious practice. The full text of the article is not available in the provided source material beyond the title page and metadata.
 
 ## References
 <!-- Grounded occurrences and citations -->

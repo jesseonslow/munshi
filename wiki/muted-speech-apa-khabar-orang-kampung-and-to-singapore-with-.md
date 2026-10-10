@@ -34,7 +34,7 @@ jstor: https://www.jstor.org/stable/10.2307/26527784
 
 ## Abstract
 
-Both Singapore and Malaysia have policies making it difficult for one-time communist partisans living in exile to return home. The two films discussed in this article explore the lives of these political exiles through archival photos, montages of private correspondences, and clips of news reportage that link past and present perspectives. By creating a collective intimacy that draws viewers into the everyday lives of political exiles, the films animate their politicized silence, circumventing efforts to mute their voices.
+Both [Singapore](./singapore.md) and [Malaysia](./malaysia.md) have policies making it difficult for one-time communist partisans living in exile to return home. The two films discussed in this article explore the lives of these political exiles through archival photos, montages of private correspondences, and clips of news reportage that link past and present perspectives. By creating a collective intimacy that draws viewers into the everyday lives of political exiles, the films animate their politicized silence, circumventing efforts to mute their voices.
 
 ## Summary
 
@@ -46,16 +46,16 @@ The article situates these films within a broader historiographical debate about
 
 ### Key Findings
 
-- *To Singapore, With Love* was classified 'Not Allowed for All Ratings' by Singapore's Media Development Authority on 10 September 2014, prompting approximately 350 Singaporeans to cross the Johor Strait to watch the film at the Freedom Film Festival on 19 September 2014 (p. 114).
+- *To Singapore, With Love* was classified 'Not Allowed for All Ratings' by Singapore's Media Development Authority on 10 September 2014, prompting approximately 350 Singaporeans to cross the [Johor](./johor.md) Strait to watch the film at the Freedom Film Festival on 19 September 2014 (p. 114).
 - Amir Muhammad's *The Last Communist* (2006) was initially released under the condition of limited cinema screening but was subsequently banned after the Malaysian newspaper *Berita Harian* urged the Home Affairs Minister to reverse the decision (p. 114).
-- The 10th Regiment of the Malay National Liberation Army fled to southern Thailand around 1955 during the Malayan Emergency; the armed struggle did not cease until the MCP signed the Peace Treaty with both the Malaysian and Thai governments in 1989 (pp. 116, 124).
-- Singapore's Operation Cold Store in 1963 marked a major crackdown in which members of opposition parties, labour unions, and student activist groups were jailed or went into exile on suspicion of communist affiliation; the Internal Security Act continued to criminalize activists throughout the 1970s and 1980s (p. 117).
-- The film *Apa Khabar Orang Kampung* takes its title from a Hari Raya theme song by the late Malay singer Sudirman Arshad (1954–92), creating an ironic resonance with the exiles' permanent displacement from their homeland (p. 121).
-- Tan Pin Pin deliberately chose the Chinese character '星' (xing, widely used by diasporic Chinese since the Qing dynasty) rather than '新' (xin, as in 新加坡/Singapore) for the film's Chinese title, broadening the discursive space of exile beyond the specific nation-state (p. 122).
+- The 10th Regiment of the Malay National Liberation Army fled to southern [Thailand](./thailand.md) around 1955 during the Malayan Emergency; the armed struggle did not cease until the MCP signed the Peace Treaty with both the Malaysian and Thai governments in 1989 (pp. 116, 124).
+- Singapore's Operation Cold Store in 1963 marked a major crackdown in which members of opposition parties, [labour](./labour.md) unions, and student activist groups were jailed or went into exile on suspicion of communist affiliation; the Internal Security Act continued to criminalize activists throughout the 1970s and 1980s (p. 117).
+- The film *Apa Khabar Orang Kampung* takes its title from a Hari Raya theme song by the late [Malay](./malay.md) singer Sudirman Arshad (1954–92), creating an ironic resonance with the exiles' permanent displacement from their homeland (p. 121).
+- Tan Pin Pin deliberately chose the Chinese character '星' (xing, widely used by diasporic Chinese since the Qing dynasty) rather than '新' (xin, as in 新加坡/Singapore) for the film's [Chinese](./chinese.md) title, broadening the discursive space of exile beyond the specific nation-state (p. 122).
 
 ### Conclusion
 
-Hsu concludes that neither film unearths authoritative evidence to overturn the accusations made against political exiles; instead, they feature the 'everyday and ceremonial body'—family gatherings, cooking, dining—as mnemonic devices that connect individual experience with collective experience in the body. The sensorial dimension of spectatorship functions as both an escape route from media control and a tactic to rescue excluded personal memory from the oblivion of dominant historical narrative, ultimately allowing 'the mute to be heard.'
+Hsu concludes that neither film unearths authoritative evidence to overturn the accusations made against political exiles; instead, they feature the 'everyday and ceremonial body'—[family](./family.md) gatherings, cooking, dining—as mnemonic devices that connect individual experience with collective experience in the body. The sensorial dimension of spectatorship functions as both an escape route from media control and a tactic to rescue excluded personal memory from the oblivion of dominant historical narrative, ultimately allowing 'the mute to be heard.'
 
 ## Context
 

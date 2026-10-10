@@ -20,7 +20,7 @@ published: false
 
 ## MBRAS Sources
 
-- Various. Obituary. MB 88(2)
+- [Various](./various.md). Obituary. MB 88(2)
 
 ## References
 <!-- Grounded occurrences and citations -->

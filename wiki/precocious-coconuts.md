@@ -26,13 +26,13 @@ jstor: https://www.jstor.org/stable/41561679
 
 # Precocious coconuts
 
-This note, contributed by A. B. Stephens with a response from H. N. Ridley, documents an exceptionally precocious coconut plant observed at the Yam Seng Estate, Perak, in 1897.
+This note, contributed by A. B. Stephens with a response from [H. N. Ridley](./henry-nicholas-ridley.md), documents an exceptionally precocious [coconut](./coconut.md) plant observed at the Yam Seng Estate, [Perak](./perak.md), in 1897.
 
 ## Summary
 
-Stephens reports that a coconut nut sown on 10 May 1897 produced fruit fronds and bore ten small coconuts in just six months and thirteen days, an almost unprecedented rate of development. The plant had sent out only a few small crinkly leaves of about 15 inches in height, apparently from two stems, one of which carried five fruit fronds (p. 103).
+Stephens reports that a coconut nut sown on 10 May 1897 produced fruit fronds and bore ten small coconuts in just six months and thirteen days, an almost unprecedented rate of development. The plant had sent out only a few small crinkly leaves of about 15 inches in height, apparently from two stems, one of which carried five [fruit](./fruit.md) fronds (p. 103).
 
-Ridley confirms the remarkableness of the case and recalls a similar specimen brought to the Singapore Botanic Gardens by a Chinese man about a year earlier, in which flower spikes protruded from between the ordinary young leaves of a still-attached nut. He considers two possible explanations: that the flower spikes were formed in the ovary before germination (analogous to monstrosities in crucifers where fruit contains flowers instead of seed), or that the plant exhibited extreme precocity, flowering years before expected (p. 104).
+Ridley confirms the remarkableness of the case and recalls a similar specimen brought to the [Singapore](./singapore.md) Botanic Gardens by a [Chinese](./chinese.md) man about a year earlier, in which flower spikes protruded from between the ordinary young leaves of a still-attached nut. He considers two possible explanations: that the flower spikes were formed in the ovary before germination (analogous to monstrosities in crucifers where fruit contains flowers instead of seed), or that the plant exhibited extreme precocity, flowering years before expected (p. 104).
 
 ## References
 <!-- Grounded occurrences and citations -->

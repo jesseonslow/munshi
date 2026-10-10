@@ -20,7 +20,7 @@ published: false
 
 ## MBRAS Sources
 
-- [N. Trewheler](./n-trewheler.md) (1925). [Banteng in the Malay Peninsula. Records of the Raffles Museum, No. 8](./banteng-in-the-malay-peninsula-records-of-the-raffles-museum.md). *JMBRAS* 3: 88–89
+- [N. Trewheler](./n-trewheler.md) (1925). [Banteng in the Malay Peninsula. Records of the Raffles Museum, No. 8](./banteng-in-the-malay-peninsula-records-of-the-raffles-museum.md). *[JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* 3: 88–89
 
 ## References
 <!-- Grounded occurrences and citations -->

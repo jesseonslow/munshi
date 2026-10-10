@@ -53,7 +53,7 @@ articles:
 
 # JSBRAS No. 52 (March 1909)
 
-**Series:** Journal of the Straits Branch of the Royal Asiatic Society  
+**Series:** [Journal of the Straits Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** March 1909
 
 ## Table of Contents

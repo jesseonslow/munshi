@@ -25,11 +25,11 @@ source_path: ../sources/khoo-borschberg-compendia-entries-on-singapore-and-the-s
 
 ## About
 
-What was Singapore before T. S. Raffles set up an East India Company trading station on the island in 1819? And what did Europeans know about Singapore and the Melaka Straits? To answer these questions, Benjamin Khoo and Peter Borschberg have examined more than 400 European travel accounts, compendia, encyclopaedias, and dictionaries written in Latin and various vernacular languages, and published between 1500 and 1819. In the 16th century, information on the region was unreliable but it became far more accurate as detailed first-hand accounts accumulated. The authors’ findings suggest an innovative approach to understanding early modern Southeast Asia.
+What was Singapore before T. S. [Raffles](./stamford-raffles.md) set up an [East India Company](./east-india-company.md) trading station on the island in 1819? And what did Europeans know about [Singapore](./singapore.md) and the [Melaka](./melaka.md) Straits? To answer these questions, Benjamin Khoo and [Peter Borschberg](./peter-borschberg.md) have examined more than 400 [European](./european.md) travel accounts, compendia, encyclopaedias, and [dictionaries](./dialects-and-dictionaries.md) written in Latin and [various](./various.md) vernacular [languages](./languages.md), and published between 1500 and 1819. In the 16th century, information on the region was unreliable but it became far more accurate as detailed first-hand accounts accumulated. The authors’ findings suggest an innovative approach to understanding early modern [Southeast Asia](./southeast-asia.md).
 
 ## Contents
 
-- Introduction by Kwa Chong Guan
+- Introduction by [Kwa Chong Guan](./kwa-chong-guan.md)
 - Part 1: Singapore and its Straits in European Publications, c. 1400–1819 13
 - Definitions and Methodology
 - Quantification and Categorisation
@@ -44,7 +44,7 @@ What was Singapore before T. S. Raffles set up an East India Company trading sta
 - Expansion and Fragmentation (1750–1819)
 - Some Conclusions
 - Bibliography
-- Index
+- [Index](./index.md)
 
 ## Summary
 <!-- Synthesis engine: Insert chapter summaries or overview here -->

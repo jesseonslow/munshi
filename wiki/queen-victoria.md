@@ -26,8 +26,8 @@ If you can provide the relevant archival evidence records—such as journal arti
 
 ### Golden Jubilee
 
-- Penang Mohammedans. Address, June 1887. SB 18
+- [Penang](./penang.md) Mohammedans. Address, June 1887. SB 18
 - Perak penghulus. Address, June 1887. SB 18
-- Perak raiat. Address, June 1887. SB 18
+- [Perak](./perak.md) raiat. Address, June 1887. SB 18
 
 ## References

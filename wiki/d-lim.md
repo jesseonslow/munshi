@@ -19,7 +19,7 @@ gender: male
 
 ## Biography
 
-Darryl Lim is a curatorial research assistant with the Asian Civilisations Museum in Singapore.
+Darryl Lim is a curatorial research assistant with the Asian Civilisations Museum in [Singapore](./singapore.md).
 
 ## Bibliography
 - (2022) [Curating Shadows: Malayan Shadow Puppets in Singapore's Asian Civilisations Museum](./curating-shadows-malayan-shadow-puppets-in-singapores-asian-.md). *JMBRAS* 95(1): 51–58

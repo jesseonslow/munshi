@@ -20,7 +20,7 @@ published: false
 
 ## MBRAS Sources
 
-- [C.B. Kloss](./cb-kloss.md) (1908). [The white-handed gibbon](./the-white-handed-gibbon.md). *JSBRAS* 50: 79–80
+- [C.B. Kloss](./cb-kloss.md) (1908). [The white-handed gibbon](./the-white-handed-gibbon.md). *[JSBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* 50: 79–80
 
 ## References
 <!-- Grounded occurrences and citations -->

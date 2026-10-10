@@ -25,7 +25,7 @@ publication_type: note
 
 # Notes on Gallus violaceus
 
-This is a brief occasional note (p. 173) signed "H. N. R." describing a spider of the genus *Ornithoscatoides* encountered on Gunong Panti, Johor, and comparing it to Forbes' *O. decipiens* from Java and Sumatra.
+This is a brief occasional note (p. 173) signed "H. N. R." describing a spider of the genus *Ornithoscatoides* encountered on Gunong Panti, [Johor](./johor.md), and comparing it to Forbes' *O. decipiens* from [Java](./java.md) and [Sumatra](./sumatra.md).
 
 ## Summary
 

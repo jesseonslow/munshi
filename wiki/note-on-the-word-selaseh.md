@@ -25,11 +25,11 @@ publication_type: note
 
 # Note on the word “selaseh”
 
-H. Overbeck's short note examines whether the frequent use of *selaseh* (basil) as a rhyme-equivalent for *kekaseh* ("beloved") in Malay pantuns reflects a deeper cultural association with the plant, drawing on Hindu tulasi-rites and Malay literary sources.
+[H. Overbeck](./h-overbeck.md)'s short note examines whether the frequent use of *selaseh* (basil) as a rhyme-equivalent for *kekaseh* ("beloved") in Malay pantuns reflects a deeper cultural association with the plant, drawing on Hindu tulasi-rites and [Malay](./malay.md) literary sources.
 
 ## Summary
 
-Overbeck quotes at length from Frazer's *Golden Bough* on the Hindu practice of marrying the holy basil (tulasi) to the Salagrama fossil or to Krishna, noting that the plant is regarded as an embodiment of a goddess and is worshipped as such. He then asks whether remnants of this belief persist in Malay culture, citing the *Hikayat Malim Dewa*, in which a magic parroquet plants white and black selaseh as life-indicators for the hero, and the Malay expression *mabok bunga selaseh* ("drunk on selaseh flowers"), which Klinkert attributes to the intoxicating smell of the plant (pp. 420–421).
+Overbeck quotes at length from Frazer's *Golden Bough* on the Hindu practice of marrying the holy basil (tulasi) to the Salagrama fossil or to Krishna, noting that the plant is regarded as an embodiment of a goddess and is worshipped as such. He then asks whether remnants of this belief persist in Malay culture, citing the *Hikayat Malim Dewa*, in which a [magic](./magic.md) parroquet [plants](./plants.md) white and black selaseh as life-indicators for the hero, and the Malay expression *mabok bunga selaseh* ("drunk on selaseh flowers"), which Klinkert attributes to the intoxicating smell of the plant (pp. 420–421).
 
 ## References
 <!-- Grounded occurrences and citations -->

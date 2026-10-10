@@ -25,24 +25,24 @@ published: false
 - Author's Preface
 - Abbreviations
 - Introduction
-1. The Malay Language and Literature
-1. Malay Folk Liteature: - (a) Mythology, Riddles, Proverbs and Clock-Stories; (b) Beast Fables and the Hikayat Pelandok Jenaka (c) Farcical Tales and the Hikayat Mahashodhak (d) Folk Romances
+1. The [Malay Language and Literature](./malay-language-and-[literature](./literature.md).md)
+1. [Malay](./malay.md) Folk Liteature: - (a) Mythology, Riddles, Proverbs and Clock-Stories; (b) Beast Fables and the Hikayat Pelandok Jenaka (c) Farcical Tales and the Hikayat Mahashodhak (d) Folk Romances
 1. The Hindu Period: - (a) Indian eprics (b) Shadow-play plots founded on the Indian epics (c) Romances of the Hindu period
-1. A Javanese Element: - Tales from the Majapahit Shadow-plays, and the Hikayat Hang Tuah
-1. From Hinuism to Islam: - Malay romances of the transition
-1. The Coming of Islam and Islamic literature
+1. A Javanese Element: - Tales from the [Majapahit](./majapahit.md) Shadow-plays, and the Hikayat [Hang Tuah](./hang-tuah.md)
+1. From Hinuism to [Islam](./islam.md): - Malay romances of the transition
+1. The Coming of [Islam](./islam.md) and Islamic [literature](./literature.md)
 1. Muslim Legends: - (a) Pre-Islamic Heroes, Iskandar Dhu'l-Karnaian, Amir Hamza, Raja Jumjumah, Saif Dhu'l-Yazan, Ibrahim ibn Adham (b) Tales of the Prophet (c) Adventures of People about Prophet, Muhammad Hanafiah, Tamim ad-Dari, Sama'un, Abu-Samah (d) the Malayo-Muslim story of raja Handak
 1. Cycles of Tales from Muslim Sources: -Hikayat Bayan Budiman, Hikayat Kalila dan Damina, The Bakhtiar cycle (Hikayat Bakhtiar and Hikayat Golam)
-1. Muslim Theology, Jurisprudence and History
+1. Muslim Theology, Jurisprudence and [History](./history.md)
 1. Malay Histories
 1. Digests of Law
 1. Munshi 'Abdu'llah
-1. Malay Poetry-Rhythmical verse; the Sha'ir; the Pantun
-- Appendix – Outlines of the following Malay works
+1. Malay [Poetry](./poetry.md)-Rhythmical verse; the Sha'ir; the Pantun
+- Appendix – Outlines of the following [Malay](./malay.md) works
 	- Hikayat Pandawa Jaya
 	- Hikayat Sang Boma (or Sang Samba)
 	- Hikayat Chekel-Waneng-Pati
-	- Hikayat Ahmad Muhammad
+	- Hikayat [Ahmad](./ahmad.md) Muhammad
 	- Hikayat Shah-i Mardan
 	- Hikayat Amir Hamza (part)
 	- Hikayat Muhammad Hanafiah
@@ -53,7 +53,7 @@ published: false
 	- Hikayat Kalila dan Damina
 	- Taj a's-salatin
 - Bibliography
-- Index
+- [Index](./index.md)
 
 ## Summary
 <!-- Synthesis engine: Insert chapter summaries or overview here -->

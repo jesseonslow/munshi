@@ -28,7 +28,7 @@ jstor: https://www.jstor.org/stable/41493768
 
 # Chinese newspapers in Singapore, 1945–1963: mediators of elite and popular tastes in culture and politics
 
-Thum Ping Tjin (2010) examines the Chinese-language press in Singapore between 1945 and 1963, arguing that these newspapers functioned as the primary mediators of a distinct Chinese public sphere that operated autonomously from, yet interlinked with, the Anglophone colonial political domain. The article contends that the Chinese press was not merely a recorder of events but an active progenitor of Singapore's emerging civil society, shaping political consciousness, cultural identity, and the linguistic frameworks through which decolonization was understood and contested.
+[Thum Ping Tjin](./thum-ping-tjin.md) (2010) examines the Chinese-language press in Singapore between 1945 and 1963, arguing that these [newspapers](./newspapers.md) functioned as the primary mediators of a distinct Chinese public sphere that operated autonomously from, yet interlinked with, the Anglophone colonial political domain. The article contends that the [Chinese](./chinese.md) press was not merely a recorder of events but an active progenitor of [Singapore](./singapore.md)'s emerging civil society, shaping political consciousness, cultural identity, and the linguistic frameworks through which decolonization was understood and contested.
 
 ## Summary
 
@@ -44,8 +44,8 @@ The article's broader argument concerns cultural and linguistic mediation. Tjin 
 - Internal *Straits Times* polling from the late 1950s found that each copy of the *Nanyang Siang Pau* or *Sin Chew Jit Poh* was read by an average of six to seven people, compared with three and a half for the *Straits Times*, yielding an estimated readership of approximately 550,000 per Chinese daily—214% of those officially classified as literate in Chinese (pp. 8–9).
 - The 1947 census recorded 48.3% literacy among Chinese men; by 1957 this had risen to 62.6% of Chinese males over 10, with approximately 50% literate in Chinese and 52% of working-age Chinese men able to speak, read, and write the language (pp. 6–7).
 - On 22 October 1958, Chief Minister Lim Yew Hock withdrew permits for eight Chinese newspapers and banned the importation of publications from 43 mainland Chinese and 10 Hong Kong publishing firms, citing the growth of Chinese literacy as increasing exposure to "radical and subversive material" (p. 7).
-- Government expenditure on education rose from $4,586,000 in 1949 to $107,888,000 in 1963 (p. 7, n. 10).
-- The *Weekly Digest of Vernacular Press*, which translated and summarized Chinese, Malay, and Tamil newspaper articles for senior government officials, operated from late 1952 until mid-1961, with approximately 80% of each issue devoted to the Chinese press (pp. 18–19).
+- Government expenditure on [education](./education.md) rose from $4,586,000 in 1949 to $107,888,000 in 1963 (p. 7, n. 10).
+- The *Weekly Digest of Vernacular Press*, which translated and summarized Chinese, [Malay](./malay.md), and Tamil newspaper articles for senior government officials, operated from late 1952 until mid-1961, with approximately 80% of each issue devoted to the Chinese press (pp. 18–19).
 
 ### Conclusion
 
@@ -53,8 +53,8 @@ Tjin's definitive historical takeaway is that an independent, vigorously active,
 
 ## Context
 
-- The study draws heavily on the Singapore National Archives oral history collections (SNA-OH), with interviews cited from accessions spanning the 1980s and 1990s, alongside the newspapers themselves as primary sources and the *Weekly Digest of Vernacular Press* as a secondary administrative record.
-- Historiographically, the article positions itself against the English-language nationalist narrative and the left/right, Chinese/English dichotomy that has dominated Singapore studies, building on Wang Gungwu's (1970) three-category model of the Malayan Chinese while complicating it through the lens of print culture and public sphere theory (Habermas).
+- The study draws heavily on the Singapore National [Archives](./archives.md) oral history collections (SNA-OH), with interviews cited from accessions spanning the 1980s and 1990s, alongside the newspapers themselves as primary sources and the *Weekly Digest of Vernacular Press* as a secondary administrative record.
+- Historiographically, the article positions itself against the English-language nationalist narrative and the left/right, Chinese/English dichotomy that has dominated Singapore studies, building on [Wang Gungwu](./wang-gungwu.md)'s (1970) three-category model of the Malayan Chinese while complicating it through the lens of print culture and public sphere theory (Habermas).
 
 ## References
 <!-- Grounded occurrences and citations -->

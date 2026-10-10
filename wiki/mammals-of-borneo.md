@@ -47,7 +47,7 @@ published: false
     4. Pongidae
   5. PHOLIDOTA
     1. Manidae
-  6. RODENTIA (KEY)
+  6. [RODENTIA](./rodentia.md) (KEY)
     1. Sciuridae
     2. Muridae
     3. Hystricidae
@@ -73,7 +73,7 @@ published: false
     3. Cervidae
     4. Bovidae
 - References and Bibliography
-- Index
+- [Index](./index.md)
 
 ## Summary
 <!-- Synthesis engine: Insert chapter summaries or overview here -->

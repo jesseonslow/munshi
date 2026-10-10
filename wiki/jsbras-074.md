@@ -45,7 +45,7 @@ articles:
 
 # JSBRAS No. 74 (December 1916)
 
-**Series:** Journal of the Straits Branch of the Royal Asiatic Society  
+**Series:** [Journal of the Straits Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** December 1916
 
 ## Table of Contents

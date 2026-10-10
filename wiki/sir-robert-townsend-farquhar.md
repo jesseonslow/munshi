@@ -21,7 +21,7 @@ published: false
 
 ## MBRAS Sources
 
-- Miller, J.I. Robert Farquhar in the Malay world. MB 51(2)
+- [Miller, J.I](./ji-miller.md). [Robert Farquhar in the Malay world](./robert-farquhar-in-the-malay-world.md). MB 51(2)
 
 ## References
 <!-- Grounded occurrences and citations -->

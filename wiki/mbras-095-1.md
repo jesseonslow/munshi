@@ -159,9 +159,10 @@ articles:
   pages: 134–135
   is_review: true
 ---
+
 # JMBRAS Vol. 95, Part 1 (June 2022)
 
-**Series:** Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society  
+**Series:** Journal of the Malayan/[Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** June 2022
 
 ## Table of Contents

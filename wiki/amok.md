@@ -25,7 +25,7 @@ type: concept
 
 ## MBRAS Sources
 
-- [C.B. Kloss](./cb-kloss.md) (1923). [Arctic amok](./arctic-amok.md). *JMBRAS* 1: 254
+- [C.B. Kloss](./cb-kloss.md) (1923). [Arctic amok](./arctic-amok.md). *[JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* 1: 254
 
 ## References
 <!-- Grounded occurrences and citations -->

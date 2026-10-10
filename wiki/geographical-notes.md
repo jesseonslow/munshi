@@ -26,10 +26,10 @@ summarized: true
 
 # “Sungai Tata” route
 
-This 1879 geographical note by A.M. Skinner and William Bloomfield Douglas documents routes across the Selangor-Pahang range and observations in the Ulu Klang district. The text combines native accounts of trade potential with a first-hand survey of the Sungei Tata locality and its surrounding terrain.
+This 1879 geographical note by [A.M. Skinner](./allan-maclean-skinner.md) and [William Bloomfield Douglas](./william-bloomfield-douglas.md) documents routes across the [Selangor](./selangor.md)-[Pahang](./pahang.md) range and observations in the Ulu [Klang](./klang.md) district. The text combines native accounts of trade potential with a first-hand survey of the Sungei Tata locality and its surrounding terrain.
 
 ## Summary
 
-A.M. Skinner provides preliminary information on unexplored districts in Ulu Perak and details three routes from Selangor to Pahang based on native authority. Datu Manku describes the Sungei Roh route as rich in minerals and revenue, while Haji Mustapha outlines the Ulu Bernam crossing, noting the narrow water-shed and abundance of tin and gold (p. 133-134). Additionally, Mr. Hervey’s exploration of the intermingling Semrong rivers in Johor is briefly recorded (p. 134).
+A.M. Skinner provides preliminary information on unexplored districts in Ulu [Perak](./perak.md) and details three routes from Selangor to Pahang based on native authority. Datu Manku describes the Sungei Roh route as rich in minerals and revenue, while Haji Mustapha outlines the Ulu Bernam crossing, noting the narrow water-shed and abundance of tin and gold (p. 133-134). Additionally, Mr. Hervey’s exploration of the intermingling Semrong rivers in [Johor](./johor.md) is briefly recorded (p. 134).
 
-William Bloomfield Douglas recounts his journey to Sungei Tata, overcoming local warnings regarding the steep granite range to reach the Lampongs locality (p. 135). He documents the ascent to Bukit Lalu, the descent to the mining settlement, and the discovery of sulphur hot springs near the Klang-Tata junction, which natives utilize for rheumatism (p. 135). The note concludes by comparing the hill route favorably against the difficult lower track through the Klang valley (p. 135).
+William Bloomfield Douglas recounts his journey to Sungei Tata, overcoming local warnings regarding the steep granite range to reach the Lampongs locality (p. 135). He documents the ascent to Bukit Lalu, the descent to the mining settlement, and the discovery of sulphur hot [springs](./springs.md) near the Klang-Tata junction, which natives utilize for rheumatism (p. 135). The note concludes by comparing the hill route favorably against the difficult lower track through the Klang valley (p. 135).

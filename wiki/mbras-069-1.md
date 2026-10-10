@@ -102,7 +102,7 @@ articles:
 
 # JMBRAS Vol. 69, Part 1 (June 1996)
 
-**Series:** Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society  
+**Series:** Journal of the Malayan/[Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** June 1996
 
 ## Table of Contents

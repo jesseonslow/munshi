@@ -26,7 +26,7 @@ jstor: https://www.jstor.org/stable/41560766
 
 # Singapore weather in 1885
 
-A. Knight's brief note documents the droughts experienced in Singapore during 1885, recording periods of seven or more consecutive days without measurable rain as observed at his station (p. 435).
+[A. Knight](./a-knight.md)'s brief note documents the droughts experienced in [Singapore](./singapore.md) during 1885, recording periods of seven or more consecutive days without measurable rain as observed at his station (p. 435).
 
 ## Summary
 

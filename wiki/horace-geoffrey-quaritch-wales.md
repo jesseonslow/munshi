@@ -16,14 +16,13 @@ status: stub
 published: false
 ---
 
-
 # Horace Geoffrey Quaritch Wales
 
 <!-- Synthesis engine: Insert introductory synthesis for Horace Geoffrey Quaritch Wales here -->
 
 ## MBRAS Sources
 
-- [M.C. Subhadradis Diskul](./mc-subhadradis-diskul.md) (1982). [Obituary. H.G. Quaritch Wales. With a note by M. Sheppard](./obituary-hg-quaritch-wales-with-a-note-by-m-sheppard.md). *JMBRAS* 55(2): 145–147
+- [M.C. Subhadradis Diskul](./mc-subhadradis-diskul.md) (1982). [Obituary. H.G. Quaritch Wales. With a note by M. Sheppard](./obituary-hg-quaritch-wales-with-a-note-by-m-sheppard.md). *[JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* 55(2): 145–147
 
 ## Bibliography
 - (1947) [Further work on Indian sites in Malaya](./further-work-on-indian-sites-in-malaya.md). *JMBRAS* 20(1): 1–11

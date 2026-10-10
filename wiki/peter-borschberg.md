@@ -19,7 +19,7 @@ gender: male
 
 ## Biography
 
-Peter Borschberg is an Associate Professor in the Department of History at the National University of Singapore. He studies trade, exploration, and cartography during the period 1450–1800 and has published widely on global history, deglobalization, maritime history and the origins of international law.
+Peter Borschberg is an Associate Professor in the Department of History at the National University of [Singapore](./singapore.md). He studies trade, exploration, and [cartography](./cartography.md) during the period 1450–1800 and has published widely on global history, deglobalization, maritime history and the origins of international law.
 
 ## Bibliography
 
@@ -32,7 +32,7 @@ Peter Borschberg is an Associate Professor in the Department of History at the N
 - (2022) [Compendia Entries on Singapore and the Straits Region from the 16th to the Early 19th Century](./compendia-entries-on-singapore-and-the-straits-region-from-t.md). *JMBRAS* 95(1): 1–33
 - (2023) [Knowing Singapore](./knowing-singapore.md). *Monograph* 52
 - (2023) [Raja Bongsu and the Sejarah Melayu: The Tragic Fate of an Ill-starred Prince of Johor (b. 1571–d. 1623). B.K. Cheah, Faris Joraimi and P. Borschberg](./raja-bongsu-and-the-sejarah-melayu-the-tragic-fate-of-an-ill.md). *JMBRAS* 96(2): 1–28
-- (2024) [Trade and Disruption in the Western Malay Archipelago in the 17th century](./trade-and-disruption-in-the-western-malay-archipelago-in-the.md). *JMBRAS* 97(2): 17–42
+- (2024) [Trade and Disruption in the Western Malay Archipelago in the 17th century](./trade-and-disruption-in-the-western-malay-archipelago-in-the.md). *[JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* 97(2): 17–42
 
 ## References
 <!-- Grounded occurrences and citations -->

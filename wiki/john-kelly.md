@@ -18,7 +18,7 @@ gender: male
 
 ## Biography
 
-John Kelly is Professor of Anthropology at the University of Chicago.
+John Kelly is Professor of [Anthropology](./anthropology.md) at the University of Chicago.
 
 ## Bibliography
 - (2016) [Ethnographic notes on the state funeral of Lee Kuan Yew: introduction](./ethnographic-notes-on-the-state-funeral-of-lee-kuan-yew-intr.md). *JMBRAS* 89(1): 81–83

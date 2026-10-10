@@ -29,11 +29,11 @@ jstor: https://www.jstor.org/stable/41491940
 
 # Chemical analysis of some metal objects from Chandi Bukit Batu Pahat, Kedah: suggested origin and date
 
-This short note by F.E. Treloar reports the chemical analysis of metal objects recovered from Chandi Bukit Batu Pahat in Kedah, with the aim of suggesting their origin and date (pp. 193–198).
+This short note by [F.E. Treloar](./francis-edward-treloar.md) reports the chemical analysis of metal objects recovered from Chandi Bukit Batu Pahat in [Kedah](./kedah.md), with the aim of suggesting their origin and date (pp. 193–198).
 
 ## Summary
 
-The article presents the results of chemical analysis applied to metal objects from the Chandi Bukit Batu Pahat site in Kedah. Treloar uses the compositional data to propose an origin and dating for the objects, contributing to the broader question of the antiquity and cultural affiliations of early metalwork in northern Peninsular Malaysia.
+The article presents the results of chemical analysis applied to metal objects from the Chandi Bukit Batu Pahat site in Kedah. Treloar uses the compositional data to propose an origin and dating for the objects, contributing to the broader question of the antiquity and cultural affiliations of early metalwork in northern Peninsular [Malaysia](./malaysia.md).
 
 ## References
 <!-- Grounded occurrences and citations -->

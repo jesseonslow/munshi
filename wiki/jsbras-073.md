@@ -61,7 +61,7 @@ articles:
 
 # JSBRAS No. 73 (July 1916)
 
-**Series:** Journal of the Straits Branch of the Royal Asiatic Society  
+**Series:** [Journal of the Straits Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** July 1916
 
 ## Table of Contents

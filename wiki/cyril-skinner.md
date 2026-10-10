@@ -14,14 +14,13 @@ status: stub
 published: false
 ---
 
-
 # Cyril Skinner
 
 <!-- Synthesis engine: Insert introductory synthesis for Cyril Skinner here -->
 
 ## MBRAS Sources
 
-- Matheson, V. Cyril Skinner. Obituary. MB 60(1)
+- [Matheson, V.](./virginia-matheson.md) Cyril Skinner. Obituary. MB 60(1)
 
 ## Bibliography
 - (1965) [The Civil War in Kelantan in 1839](./the-civil-war-in-kelantan-in-1839.md). *Monograph* 2: 176

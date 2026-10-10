@@ -29,13 +29,13 @@ published: false
 - **Part I: Origins**
   - Creation of the first humans
   - How the Chewong were taught to behave properly
-  - How the Chewong got fire and other cultural artifacts
+  - How the [Chewong](./siwang.md) got [fire](./fire.md) and other cultural artifacts
   - Earth Six
   - How Tohan remakes Earth Seven
-  - How the Malays came to Malaya
+  - How the Malays came to [Malaya](./malaya.md)
   - How the jungle people lost their ability to read and write
   - How the sun lost her children
-  - How tigers came to eat humans
+  - How [tigers](./tigers.md) came to eat humans
   - Tohan's knife
   - Tanko
 - **Part II: Hidden Identities**
@@ -48,7 +48,7 @@ published: false
   - Chan Med-kato o The wasp in the stone
   - Bongso Lanogn
   - Ta' Prasam
-  - B: Animals or Plants Wearing Human Cloak
+  - B: [Animals](./animals.md) or [Plants](./plants.md) Wearing Human Cloak
   - The porcupine woman
   - The palm heart woman
   - The frog woman
@@ -86,21 +86,21 @@ published: false
   - The *goll* tree ghost
   - Tiger *punen*
   - The man who slept with his daughter-in-law
-  - The mouse-deer
+  - The mouse-[deer](./deer.md)
   - When the moon fell down
 - **Part V: Bongso Legends**
   - The elephant who abducted a girl
-  - Bongso and the elephants
+  - Bongso and the [elephants](./elephants.md)
   - The ghost under the rambutan tree
-  - The bats which carried Bongso to the sea
+  - The [bats](./bats.md) which carried Bongso to the sea
   - Bongso who saved the child
   - The star that married Bongso
   - Bongso Halog
   - The macaque
-  - Bongso who went to Earth Six for fruit
+  - Bongso who went to Earth Six for [fruit](./fruit.md)
   - Bujaegen Komarr
   - The *moskin* who fell from Earth Six
-  - Bongso who was brought up by the snakes
+  - Bongso who was brought up by the [snakes](./snakes.md)
   - Bongso Panchaw
   - The ghost who took her daughter's *ruwai*
 - **Part VI: Miscellanous**

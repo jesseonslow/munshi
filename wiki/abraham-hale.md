@@ -19,7 +19,7 @@ type: person
 
 ## MBRAS Sources
 
-- [R.O. Winstedt](./richard-olaf-winstedt.md) (1920). [Obituary. Abraham Hale](./obituary-abraham-hale.md). *JSBRAS* 81: 13-14
+- [R.O. Winstedt](./richard-olaf-winstedt.md) (1920). [Obituary. Abraham Hale](./obituary-abraham-hale.md). *[JSBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* 81: 13-14
 
 ## References
 <!-- Grounded occurrences and citations -->

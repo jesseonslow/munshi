@@ -25,11 +25,11 @@ publication_type: note
 
 # Kulanggi or Gulanggi
 
-This short note by R.O. Winstedt addresses the correct romanization of a Raja's name in the Kedah Annals, arguing for "Kulanggi" or "Gulanggi" over Braddell's identification with Kalinga and Burma (p. 152).
+This short note by [R.O. Winstedt](./richard-olaf-winstedt.md) addresses the correct romanization of a Raja's name in [the Kedah Annals](./the-kedah-annals.md), arguing for "Kulanggi" or "Gulanggi" over Braddell's identification with Kalinga and [Burma](./burma.md) (p. 152).
 
 ## Summary
 
-Winstedt responds to Roland Braddell's 1937 proposal that the name variously spelled Galungi, Kalungi, and Kelinggi in the Kedah Annals should be corrected to Kalinga and geographically located in Burma. Winstedt rejects this, noting that the Annals' author was saturated in the romance of the *Hikayat Amir Hamzah*, from which he borrowed the name Zamin Turan for Kedah itself. The Raja Gulanggi (or Kulanggi) is identified as a character from that same romance, with the spelling varying across fifteenth-century Malay manuscript traditions (p. 152).
+Winstedt responds to [Roland Braddell](./dato-sir-roland-st-john-braddell.md)'s 1937 proposal that the name variously spelled Galungi, Kalungi, and Kelinggi in the Kedah Annals should be corrected to Kalinga and geographically located in Burma. Winstedt rejects this, noting that the Annals' author was saturated in the romance of the *Hikayat Amir Hamzah*, from which he borrowed the name Zamin Turan for [Kedah](./kedah.md) itself. The Raja Gulanggi (or Kulanggi) is identified as a character from that same romance, with the spelling varying across fifteenth-century [Malay](./malay.md) manuscript [traditions](./traditions.md) (p. 152).
 
 ## References
 <!-- Grounded occurrences and citations -->

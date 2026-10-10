@@ -26,7 +26,7 @@ jstor: https://www.jstor.org/stable/41559865
 
 # Notes on Malayan antiquities
 
-This is a short note by I.H.N. Evans on Malayan antiquities, published in the *Journal of the Malayan Branch of the Royal Asiatic Society*, Vol. 14, No. 3 (1936), pp. 280–281.
+This is a short note by [I.H.N. Evans](./ivor-hugh-norman-evans.md) on Malayan [antiquities](./antiquities.md), published in the *[Journal of the Malayan Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)*, Vol. 14, No. 3 (1936), pp. 280–281.
 
 ## Summary
 

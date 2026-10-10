@@ -19,7 +19,7 @@ published: false
 
 ## MBRAS Sources
 
-- Dennys, N.B. Singapore lobster. SB 9
+- [Dennys, N.B.](./nicholas-belfield-dennys.md) [Singapore](./singapore.md) lobster. SB 9
 
 ## References
 <!-- Grounded occurrences and citations -->

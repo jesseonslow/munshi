@@ -61,7 +61,7 @@ articles:
 
 # JSBRAS No. 30 (July 1897)
 
-**Series:** Journal of the Straits Branch of the Royal Asiatic Society  
+**Series:** [Journal of the Straits Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** July 1897
 
 ## Table of Contents

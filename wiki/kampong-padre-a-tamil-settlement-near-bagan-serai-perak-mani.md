@@ -27,21 +27,21 @@ publication_type: journal_article
 
 # Kampong Padre: a Tamil settlement near Bagan Serai, Perak. . Manikam, .K. Jain
 
-R.M.M. Fee's "Kampong Padre: a Tamil settlement near Bagan Serai, Perak" (1963) is a demographic and historical study of the St. Joseph's Mission, a Roman Catholic agricultural settlement established in the 1880s near Bagan Serai, Perak, by the French priest Michael Maria Fee. The article documents the settlement's founding, population composition, and institutional development as a nucleus of Tamil Catholic padi planters in colonial Perak.
+[R.M.M. Fee](./rmm-fee.md)'s "Kampong Padre: a Tamil settlement near Bagan Serai, Perak" (1963) is a demographic and historical study of the St. Joseph's Mission, a Roman Catholic agricultural settlement established in the 1880s near [Bagan](./bagan-johor.md) Serai, Perak, by the French priest Michael Maria Fee. The article documents the settlement's founding, [population](./population.md) composition, and institutional development as a nucleus of Tamil Catholic padi planters in colonial [Perak](./perak.md).
 
 ## Summary
 
-Fee's article provides a detailed account of the St. Joseph's Mission, which by January 1889 was operating as a regular settlement with at least 101 families and a population of 430. The mission was conceived as an agricultural settlement exclusively for Indian Catholics, representing one of the earliest attempts by the Roman Catholic Church to establish a self-sustaining rural community in Peninsular Malaysia. The settlement's location near Bagan Serai placed it within the broader Perak tin-mining and agricultural economy of the late nineteenth century.
+Fee's article provides a detailed account of the St. Joseph's Mission, which by January 1889 was operating as a regular settlement with at least 101 families and a population of 430. The mission was conceived as an agricultural settlement exclusively for Indian Catholics, representing one of the earliest attempts by the Roman Catholic Church to establish a self-sustaining rural community in Peninsular [Malaysia](./malaysia.md). The settlement's location near Bagan Serai placed it within the broader Perak tin-mining and agricultural economy of the late nineteenth century.
 
 The demographic data recorded by Fee reveals a community in active growth: approximately 148 baptisms had taken place and 43 marriages had been solemnized, indicating both conversion activity and natural population increase. A school serving 170 students was already operational, and about 450 acres of land had been cleared for frontier agricultural activity. These figures suggest a settlement that had moved beyond its initial missionary phase into a functioning rural community within roughly a decade of its founding.
 
-The article situates Kampong Padre within the wider pattern of Roman Catholic missionary work in Perak, where the Church had established a presence from Penang in the north to Johore Bahru in the south by 1900. Major Catholic centres in the region included Bagan Serai, Nibong Tebal, Parit Buntar, Telok Intan, Tapah, and Kajang, with Bagan Serai emerging as a particularly significant node for rural Indian Catholicism.
+The article situates Kampong Padre within the wider pattern of Roman Catholic missionary work in Perak, where the Church had established a presence from [Penang](./penang.md) in the north to [Johore](./johor.md) Bahru in the south by 1900. Major Catholic centres in the region included Bagan Serai, Nibong Tebal, Parit Buntar, Telok Intan, Tapah, and Kajang, with Bagan Serai emerging as a particularly significant node for rural Indian Catholicism.
 
 ### Key Findings
 
 - By January 1889, the St. Joseph's Mission comprised at least 101 families with a total population of 430, making it one of the earliest documented Indian Catholic settlements in colonial Perak (p. 74).
 - Approximately 148 baptisms and 43 marriages had been recorded by 1889, evidencing both active conversion and community formation within the settlement (p. 74).
-- A school with 170 students was operational, indicating the mission's investment in education as a mechanism for community consolidation (p. 74).
+- A school with 170 students was operational, indicating the mission's investment in [education](./education.md) as a mechanism for community consolidation (p. 74).
 - Around 450 acres of land had been cleared for agricultural purposes, confirming the settlement's character as a padi-growing frontier community (p. 74).
 - The settlement was established by the French priest Michael Maria Fee in the 1880s as an agricultural mission exclusively for Indian Catholics, distinguishing it from the urban-focused work of other denominations (p. 74).
 - The Roman Catholic Church's rural mission strategy, exemplified by Kampong Padre, contrasted with other denominations that initially concentrated on urban Indian populations (p. 74).
@@ -52,8 +52,8 @@ Fee's study establishes Kampong Padre as a foundational case in the history of I
 
 ## Context
 
-- The article was published in JMBRAS Vol. 36, Part I (1963), pp. 153–181, and is cited by later researchers as a primary source on the early history of Indian Catholic settlements in colonial Perak.
-- Kampong Padre (also referred to as Kampung Padre) remains a significant site in the study of Tamil Catholic diaspora history in Malaysia, with its founding linked to the broader pattern of French missionary activity in the Straits Settlements and Perak during the late nineteenth century.
+- The article was published in [JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md) Vol. 36, Part I (1963), pp. 153–181, and is cited by later researchers as a primary source on the early history of Indian Catholic settlements in colonial Perak.
+- Kampong Padre (also referred to as Kampung Padre) remains a significant site in the study of Tamil Catholic diaspora history in Malaysia, with its founding linked to the broader pattern of French missionary activity in the [Straits Settlements](./straits-settlements.md) and Perak during the late nineteenth century.
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -109,7 +109,7 @@ articles:
 
 # JSBRAS No. 41 (January 1904)
 
-**Series:** Journal of the Straits Branch of the Royal Asiatic Society  
+**Series:** [Journal of the Straits Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** January 1904
 
 ## Table of Contents

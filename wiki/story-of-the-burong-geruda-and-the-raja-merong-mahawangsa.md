@@ -25,24 +25,24 @@ publication_type: translation
 
 # Story of the Burong Geruda and the Raja Merong Mahawangsa
 
-R.N. Bland, writing in 1910 while serving as British Resident of Kedah, published a translation of a foundational mythological narrative drawn from the Kedah Annals (*Sejarah Kedah*) that traces the legendary origins of the Kedah royal line through the figure of Raja Merong Mahawangsa. The text presents a cosmological origin story in which divine will, supernatural conflict, and royal destiny converge to establish the legitimacy of Kedah's sultans as descendants of a hero sanctioned by the Nabi Suleiman (Prophet Solomon).
+[R.N. Bland](./rn-bland.md), writing in 1910 while serving as British Resident of Kedah, published a translation of a foundational mythological narrative drawn from [the Kedah Annals](./the-kedah-annals.md) (*Sejarah Kedah*) that traces the legendary origins of the Kedah royal line through the figure of Raja Merong Mahawangsa. The text presents a cosmological origin story in which divine will, supernatural conflict, and royal destiny converge to establish the legitimacy of [Kedah](./kedah.md)'s sultans as descendants of a hero sanctioned by the Nabi Suleiman (Prophet Solomon).
 
 ## Summary
 
-The article is a straightforward translation of a passage from the Kedah Annals, one of the oldest surviving Malay royal chronicles. Bland renders the narrative in a literary English style that preserves the oral-formulaic cadences of the original Malay, including the invocations, epithets, and set phrases characteristic of courtly historiography. The story functions as a *legitimatio originis*: it explains how a foreign prince, separated from his fleet by a supernatural adversary, came to found a kingdom on the Kedah mainland by invitation of the land's genii.
+The article is a straightforward translation of a passage from the Kedah Annals, one of the oldest surviving Malay royal chronicles. Bland renders the narrative in a literary English style that preserves the oral-formulaic cadences of the original [Malay](./malay.md), including the invocations, epithets, and set phrases characteristic of courtly historiography. The story functions as a *legitimatio originis*: it explains how a foreign prince, separated from his fleet by a supernatural adversary, came to found a kingdom on the Kedah mainland by invitation of the land's genii.
 
-The narrative structure follows a classic pattern of divine decree thwarted by a powerful agent, followed by divine restoration. The Geruda, a wise and mighty bird descended from Raja Dewa, abducts the Chinese princess to prevent a marriage arranged between the Sultan of Rum and the Emperor of China. When the Nabi Suleiman declares the marriage to be the will of Allah, the Geruda accepts the task of preventing it under a binding oath. The subsequent naval engagement between Raja Merong Mahawangsa's fleet and the Geruda is rendered in the idiom of epic combat, with the hero wielding three successive magical bows. The fleet is ultimately destroyed, but the prince survives and is reunited with the princess on Langka Puri, where the Geruda had been keeping her. The Nabi Suleiman's intervention—banishing the Geruda to the Red Sea and commanding the marriage to proceed—closes the narrative with a theological moral: no mortal or supernatural power can override divine decree.
+The narrative structure follows a classic pattern of divine decree thwarted by a powerful agent, followed by divine restoration. The Geruda, a wise and mighty bird descended from Raja Dewa, abducts the [Chinese](./chinese.md) princess to prevent a marriage arranged between the Sultan of Rum and the Emperor of [China](./china.md). When the Nabi Suleiman declares the marriage to be the will of Allah, the Geruda accepts the task of preventing it under a binding oath. The subsequent naval engagement between Raja Merong Mahawangsa's fleet and the Geruda is rendered in the idiom of epic combat, with the hero wielding three successive magical bows. The fleet is ultimately destroyed, but the prince survives and is reunited with the princess on Langka Puri, where the Geruda had been keeping her. The Nabi Suleiman's intervention—banishing the Geruda to the Red Sea and commanding the [marriage](./marriage.md) to proceed—closes the narrative with a theological moral: no mortal or supernatural power can override divine decree.
 
-The passage is significant not merely as folklore but as a political text embedded within the Kedah Annals, which served as the constitutional and genealogical foundation of the Kedah sultanate. Raja Merong Mahawangsa is the eponymous ancestor of the Kedah royal house, and the story's emphasis on his valour, wisdom, and the genii's invitation to rule establishes the sacred character of Kedah's sovereignty.
+The passage is significant not merely as [folklore](./folklore.md) but as a political text embedded within the Kedah Annals, which served as the constitutional and genealogical foundation of the Kedah sultanate. Raja Merong Mahawangsa is the eponymous ancestor of the Kedah royal house, and the story's emphasis on his valour, wisdom, and the genii's invitation to rule establishes the sacred character of Kedah's sovereignty.
 
 ### Key Findings
 
-- The source text is the *Sejarah Kedah* (Kedah Annals), a foundational chronicle of the Kedah sultanate; Bland's translation appears in JSBRAS Vol. 54 (1910), pp. 107–115.
+- The source text is the *Sejarah Kedah* (Kedah Annals), a foundational chronicle of the Kedah sultanate; Bland's translation appears in [JSBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md) Vol. 54 (1910), pp. 107–115.
 - The Geruda is identified as a descendant of Raja Dewa and is described as so powerful that "all birds and beasts feared him" (p. 107).
 - Raja Merong Mahawangsa is characterised as having "married a princess sprung from the Indra and Gergasi fairies and Genii," establishing his own supernatural lineage (p. 108).
 - The naval engagement occurs at two named locations: Kuala Chingkong (under Raja Klanggi) and the mouth of the river Marib (pp. 109–110).
 - The Geruda is ultimately banished to the "Sea called Kolzum (Red Sea) to which mankind cannot approach" by the command of the Nabi Suleiman (p. 114).
-- After the fleet's destruction at Pulau Selang and Langka Puri, Raja Merong Mahawangsa reaches the mainland via the islands of Seraya, Jambul, and Lada, where the genii invite him to become their ruler and a kingdom is founded (p. 111).
+- After the fleet's destruction at Pulau Selang and Langka Puri, Raja Merong Mahawangsa reaches the mainland via the [islands](./islands.md) of Seraya, Jambul, and Lada, where the genii invite him to become their ruler and a kingdom is founded (p. 111).
 
 ### Conclusion
 
@@ -50,7 +50,7 @@ Bland's translation preserves the narrative as a self-contained mythological acc
 
 ## Context
 
-- Bland served as British Resident of Kedah (1909–1913) and had direct administrative access to the Kedah Annals manuscript held in the royal archives; his translation reflects the colonial practice of rendering indigenous foundational texts into English for the metropolitan readership of the Royal Asiatic Society.
+- Bland served as British Resident of Kedah (1909–1913) and had direct administrative access to the Kedah Annals manuscript held in the royal [archives](./archives.md); his translation reflects the colonial practice of rendering indigenous foundational texts into English for the metropolitan readership of the Royal Asiatic Society.
 - The *Sejarah Kedah* is the principal primary source for the early history and royal genealogy of Kedah; Bland's 1910 translation was among the earliest English renderings of its mythological sections and remained a standard reference for scholars of Malay historiography for decades.
 
 ## References

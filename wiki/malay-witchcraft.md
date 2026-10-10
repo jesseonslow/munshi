@@ -26,11 +26,11 @@ jstor: https://www.jstor.org/stable/41560539
 
 # Malay witchcraft
 
-H. Marriott's brief concluding remarks on Malay witchcraft, published in the *Journal of the Straits Branch of the Royal Asiatic Society* (Vol. 39, 1903), address the role of the *Pawang* in the context of the *Polong*—a spirit believed to afflict children.
+[H. Marriott](./h-marriott.md)'s brief concluding remarks on Malay witchcraft, published in the *[Journal of the Straits Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* (Vol. 39, 1903), address the role of the *Pawang* in the context of the *Polong*—a spirit believed to afflict children.
 
 ## Summary
 
-Marriott argues that the *Pawang* exploited the community's fear, extracting payment on the threat of bewitching children. He explains the self-reinforcing logic of the belief: if a person was thought to have offended the *Pawang*, the next illness in the household would be attributed to supernatural causation, ruling out ordinary remedies in favour of incantations alone. The outcome for the patient was predictable, and Marriott notes that a young child in high fever, already familiar with the *Polong* narrative, would naturally give answers that confirmed the family's suspicions (p. 210).
+Marriott argues that the *Pawang* exploited the community's fear, extracting payment on the threat of bewitching children. He explains the self-reinforcing logic of the belief: if a person was thought to have offended the *Pawang*, the next illness in the household would be attributed to supernatural causation, ruling out ordinary remedies in favour of [incantations](./incantations.md) alone. The outcome for the patient was predictable, and Marriott notes that a young child in high fever, already familiar with the *Polong* narrative, would naturally give answers that confirmed the [family](./family.md)'s suspicions (p. 210).
 
 ## References
 <!-- Grounded occurrences and citations -->

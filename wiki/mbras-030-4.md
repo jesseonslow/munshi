@@ -35,7 +35,7 @@ articles:
 
 # JMBRAS Vol. 30, Part 4 (November 1957)
 
-**Series:** Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society  
+**Series:** Journal of the Malayan/[Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** November 1957
 
 ## Table of Contents

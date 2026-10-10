@@ -18,7 +18,7 @@ gender: female
 
 ## Biography
 
-Martha Kaplan is Professor of Anthropology at Vassar College.
+Martha Kaplan is Professor of [Anthropology](./anthropology.md) at Vassar College.
 
 ## Bibliography
 - (2016) [Ethnographic notes on the state funeral of Lee Kuan Yew: introduction](./ethnographic-notes-on-the-state-funeral-of-lee-kuan-yew-intr.md). *JMBRAS* 89(1): 81–83

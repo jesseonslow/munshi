@@ -227,7 +227,7 @@ articles:
 
 # JMBRAS Vol. 1, Part 1 (April 1923)
 
-**Series:** Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society  
+**Series:** Journal of the Malayan/[Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** April 1923
 
 ## Table of Contents

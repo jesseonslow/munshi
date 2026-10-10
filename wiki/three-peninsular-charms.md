@@ -25,7 +25,7 @@ publication_type: note
 
 # Three peninsular charms
 
-R.O. Winstedt's short note presents a Malay charm (incantation) that he identifies as likely intended for catching a crocodile (p. 384).
+[R.O. Winstedt](./richard-olaf-winstedt.md)'s short note presents a [Malay](./malay.md) charm (incantation) that he identifies as likely intended for catching a crocodile (p. 384).
 
 ## Summary
 

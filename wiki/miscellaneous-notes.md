@@ -25,11 +25,11 @@ publication_type: note
 
 # Miscellaneous notes
 
-This miscellaneous note by W. G. Maxwell (1911) comprises two brief items: a continuation of notes on the Portuguese fleet of 1511 and a short glossary of Malay and Siamese ploughing commands.
+This miscellaneous note by [W. G. Maxwell](./sir-william-george-maxwell.md) (1911) comprises two brief items: a continuation of notes on the Portuguese fleet of 1511 and a short glossary of [Malay](./malay.md) and Siamese ploughing commands.
 
 ## Summary
 
-The first section (p. 195) continues a list of Portuguese ships and commanders from the fleet that attacked Malacca, recording events such as the foundering of the Sth. Clara, the loss of Jorge de Aguiar, and the motivation for Albuquerque's attack—namely Ruy de Aranjo's release and punishment for Malay "treason" against Diogo Lopez de Siqueira. The second section (p. 196) provides a short glossary of words used to direct bullocks and buffaloes while ploughing—*bt* (go on), *chah* (turn outside), *so'* (turn inside), *rong* (turn round), *ju* (keep quiet), and *sorot* (back)—noting their Siamese cognates and etymological origins, including the suggestion that *so'* is a contraction of *masok*.
+The first section (p. 195) continues a list of Portuguese ships and commanders from the fleet that attacked [Malacca](./melaka.md), recording events such as the foundering of the Sth. Clara, the loss of Jorge de Aguiar, and the motivation for Albuquerque's attack—namely Ruy de Aranjo's release and punishment for Malay "treason" against Diogo Lopez de Siqueira. The second section (p. 196) provides a short glossary of words used to direct bullocks and buffaloes while ploughing—*bt* (go on), *chah* (turn outside), *so'* (turn inside), *rong* (turn round), *ju* (keep quiet), and *sorot* (back)—noting their Siamese cognates and etymological origins, including the suggestion that *so'* is a contraction of *masok*.
 
 ## References
 <!-- Grounded occurrences and citations -->

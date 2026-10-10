@@ -16,7 +16,7 @@ generated: true
 
 # Cockroaches
 
-Cockroaches (family Blattidae) constitute one of the oldest and most diverse families of insects in the Malayan region, which Hanitsch defined as encompassing the Malay Peninsula to the Isthmus of Kra, Sumatra, Java, Borneo, and adjacent islands [[1, p. 17]](#ref-1). In 1915, R. Hanitsch, Director of the Raffles Museum, Singapore, published a comprehensive taxonomic monograph consolidating scattered descriptions from over fifty prior publications into a single systematic reference, describing 184 species across nine sub-families and establishing nine new species [[1, p. 17]](#ref-1). The work remains the foundational faunal survey of the group for the region.
+Cockroaches (family Blattidae) constitute one of the oldest and most diverse families of insects in the Malayan region, which Hanitsch defined as encompassing the [Malay](./malay.md) Peninsula to the Isthmus of Kra, [Sumatra](./sumatra.md), [Java](./java.md), [Borneo](./borneo.md), and adjacent [islands](./islands.md) [[1, p. 17]](#ref-1). In 1915, R. Hanitsch, Director of the [Raffles](./stamford-raffles.md) Museum, [Singapore](./singapore.md), published a comprehensive taxonomic monograph consolidating scattered descriptions from over fifty prior publications into a single systematic reference, describing 184 species across nine sub-families and establishing nine new species [[1, p. 17]](#ref-1). The work remains the foundational faunal survey of the group for the region.
 
 ## Taxonomic Scope and Classification
 
@@ -24,15 +24,15 @@ Hanitsch adopted Brunner von Wattenwyl's division of the Blattidae into eleven s
 
 ## Biogeographical Distribution
 
-Of the 184 species catalogued, 131 (71 per cent) are endemic to the Malayan region, while eleven are cosmopolitan [[1, p. 167]](#ref-1). Species counts by sub-region are: Borneo 93, Malay Peninsula 67, Java 62, and Sumatra 32; Hanitsch attributed this disparity to the intensity of prior collecting rather than to true faunal differences, noting that the Bornean fauna was well known through Wallace's and Shelford's collections, while Sumatra had hardly been worked [[1, p. 168]](#ref-1). Only six species are shared between Malaya and the Philippines, a fact Hanitsch used to question Wallace's inclusion of the Philippines in the Indo-Malayan sub-region [[1, p. 167]](#ref-1).
+Of the 184 species catalogued, 131 (71 per cent) are endemic to the Malayan region, while eleven are cosmopolitan [[1, p. 167]](#ref-1). Species counts by sub-region are: Borneo 93, Malay Peninsula 67, Java 62, and Sumatra 32; Hanitsch attributed this disparity to the intensity of prior collecting rather than to true faunal differences, noting that the Bornean fauna was well known through Wallace's and Shelford's collections, while Sumatra had hardly been worked [[1, p. 168]](#ref-1). Only six species are shared between [Malaya](./malaya.md) and the Philippines, a fact Hanitsch used to question Wallace's inclusion of the [Philippines](./philippines.md) in the Indo-Malayan sub-region [[1, p. 167]](#ref-1).
 
 ## Notable Taxa and Ecological Observations
 
-Several species are noted for distinctive ecological associations. *Salganea morio* and *Panesthia javanica* inhabit rotten logs, the latter being considerably more common [[1, pp. 146]](#ref-1). *Ischnoptera cavernicola* was found in considerable numbers in a large, dark limestone cave at Bidi, Sarawak, alongside a stenopelmatid and a species of crab, none of which showed reduction in eye size, suggesting recent colonisation [[1, p. 39]](#ref-1). *Miroblatta petrophila* was captured amongst rocks at Mount Santubong, Sarawak, at 2,500 feet, and described by a native collector as running with great activity but incapable of flight [[1, p. 115]](#ref-1). *Pseudophyllodromia pulcherrima* is abundant in decayed wood [[1, p. 59]](#ref-1). The new species *Epilampra dytiscoides* was obtained by beating honeysuckle bushes at Bukit Kutu, Selangor, at 3,457 feet [1, p.
+Several species are noted for distinctive ecological associations. *Salganea morio* and *Panesthia javanica* inhabit rotten logs, the latter being considerably more common [[1, pp. 146]](#ref-1). *Ischnoptera cavernicola* was found in considerable numbers in a large, dark limestone cave at Bidi, Sarawak, alongside a stenopelmatid and a species of crab, none of which showed reduction in eye size, suggesting recent colonisation [[1, p. 39]](#ref-1). *Miroblatta petrophila* was captured amongst rocks at Mount Santubong, [Sarawak](./sarawak.md), at 2,500 feet, and described by a native collector as running with great activity but incapable of [flight](./flight.md) [[1, p. 115]](#ref-1). *Pseudophyllodromia pulcherrima* is abundant in decayed wood [[1, p. 59]](#ref-1). The new species *Epilampra dytiscoides* was obtained by beating honeysuckle bushes at Bukit Kutu, [Selangor](./selangor.md), at 3,457 feet [1, p.
 
 ## MBRAS Sources
 
-- [Hanitsch R](./hanitsch-r.md) (1915). [Malayan Blattidae](./malayan-blattidae.md). *JSBRAS* 69: 17–178 and MB 1(3)
+- [Hanitsch R](./hanitsch-r.md) (1915). [Malayan Blattidae](./malayan-blattidae.md). *[JSBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* 69: 17–178 and MB 1(3)
 
 ## References
 

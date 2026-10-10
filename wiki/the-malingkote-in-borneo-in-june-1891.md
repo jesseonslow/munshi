@@ -26,13 +26,13 @@ jstor: https://www.jstor.org/stable/41560854
 
 # The “Malingkote” in Borneo in June, 1891
 
-H. Wise's brief note documents the "Malingkote" movement, a millenarian religious phenomenon that swept through Borneo in June 1891, as reported in the *Journal of the Straits Branch of the Royal Asiatic Society* (Vol. 26, 1894).
+[H. Wise](./h-wise.md)'s brief note documents the "Malingkote" movement, a millenarian religious phenomenon that swept through [Borneo](./borneo.md) in June 1891, as reported in the *[Journal of the Straits Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* (Vol. 26, 1894).
 
 ## Summary
 
 Wise describes the Malingkote as originating in the Sipulote country, founded by a man named Tahang who, during a severe illness, dreamed that performing certain ceremonies would summon an angel whose demands must be met immediately. Those who complied would gain the power to see angels ("malikot"), become invulnerable ("cabal"), raise the dead, and grow wings to fly to the sky (p. 203).
 
-The movement spread as Tahang's followers went from village to village, threatening those who refused to join with thunderbolts and hurricanes. Adherents destroyed all livestock, drank continuously, and ceased planting padi, believing that once their wings grew they would ascend to the sky and live on a miraculous padi that grew in ten days and never failed. Wise records that one man gave away his wife in exchange for the promise that his wings would grow within seven days, and that another climbed a coconut palm to fly, breaking his leg in the fall (p. 203).
+The movement spread as Tahang's followers went from village to village, threatening those who refused to join with thunderbolts and hurricanes. Adherents destroyed all livestock, drank continuously, and ceased planting padi, believing that once their wings grew they would ascend to the sky and live on a miraculous padi that grew in ten days and never failed. Wise records that one man gave away his wife in exchange for the promise that his wings would grow within seven days, and that another climbed a [coconut](./coconut.md) palm to fly, breaking his leg in the fall (p. 203).
 
 ## References
 <!-- Grounded occurrences and citations -->

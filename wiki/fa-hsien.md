@@ -5,7 +5,7 @@ canonical_name: Fa-Hsien
 aliases: []
 broader: []
 narrower: []
-related: 
+related:
 - title: Buddhism
   slug: buddhism
 is_cluster: true
@@ -20,7 +20,7 @@ published: false
 
 ## MBRAS Sources
 
-- [A. Grimes](./a-grimes.md) (1941). [The journey of Fa-Hsien from Ceylon to Canton](./the-journey-of-fa-hsien-from-ceylon-to-canton.md). *JMBRAS* 19: 76–92
+- [A. Grimes](./a-grimes.md) (1941). [The journey of Fa-Hsien from Ceylon to Canton](./the-journey-of-fa-hsien-from-ceylon-to-canton.md). *[JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* 19: 76–92
 
 ## References
 <!-- Grounded occurrences and citations -->

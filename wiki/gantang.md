@@ -18,7 +18,7 @@ published: false
 
 ## MBRAS Sources
 
-- [A. Rentse](./a-rentse.md) (1933). [Gantong of Kelantan](./gantong-of-kelantan.md). *JMBRAS* 11(2): 242–244
+- [A. Rentse](./a-rentse.md) (1933). [Gantong of Kelantan](./gantong-of-kelantan.md). *[JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* 11(2): 242–244
 
 ## References
 <!-- Grounded occurrences and citations -->

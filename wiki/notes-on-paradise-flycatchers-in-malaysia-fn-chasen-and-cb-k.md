@@ -28,7 +28,7 @@ publication_type: note
 
 # Notes on Paradise flycatchers in Malaysia. F.N. Chasen and C.B. Kloss. Records of the Raffles Museum, No. 32
 
-This short note by F.N. Chasen and C.B. Kloss addresses the taxonomic separation of the migratory *Terpsiphone paradisi incei* from the resident *T. p. affinis* in the Malay Peninsula and Sumatra, with a broader overview of *T. paradisi* subspecies (pp. 66–68).
+This short note by [F.N. Chasen](./fn-chasen.md) and [C.B. Kloss](./cb-kloss.md) addresses the taxonomic separation of the migratory *Terpsiphone paradisi incei* from the resident *T. p. affinis* in the [Malay](./malay.md) Peninsula and [Sumatra](./sumatra.md), with a broader overview of *T. paradisi* subspecies (pp. 66–68).
 
 ## Summary
 
@@ -36,7 +36,7 @@ The authors demonstrate that adult black-and-white males of *incei* and *affinis
 
 The note then provides a taxonomic framework dividing *T. paradisi* into two sections: one in which brown-backed birds assume a glossy black foreneck (including *turkestanica*, *leucogaster*, *paradisi*, *ceylonensis*, *nicobarica*, and *incei*), and one in which they do not (including *affinis*, *borneensis*, *procera*, *insularis*, and a Java form). The authors argue these sections do not warrant specific rank, as the distinction is essentially a matter of throat colouration in the brown phase (p. 67). The lesser Sunda Island forms *floris* and *sumbaensis* are discussed briefly, the latter being placed in the *paradisi* section on account of its glossy black throat (p. 68).
 
-The first two pages of the document (pp. 65–66) constitute the tail end of a separate fish report on Gobiidae and Eleotridae from the Mentawi Islands (Siberut and Sipora), noting the variability of fin counts in *Periophthalmus koelreuteri* and the apparent absence of other common gobioid shore fishes (p. 65).
+The first two pages of the document (pp. 65–66) constitute the tail end of a separate [fish](./fish.md) report on Gobiidae and Eleotridae from the [Mentawi Islands](./mentawi-islands.md) (Siberut and Sipora), noting the variability of fin counts in *Periophthalmus koelreuteri* and the apparent absence of other common gobioid shore fishes (p. 65).
 
 ## References
 <!-- Grounded occurrences and citations -->

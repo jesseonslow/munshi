@@ -35,17 +35,17 @@ jstor: https://www.jstor.org/stable/10.2307/26527786
 
 ## Abstract
 
-During his circumnavigation of the globe in 1824–1826, French Captain Hyacinthe de Bougainville visited Malacca in 1824. In his official journal of the voyage, translated here for the first time, he describes the town of Malacca and discusses the transfer of Malacca from the Dutch to the English, the decline in Malacca’s trade following the establishment of a British settlement at Singapore, and English dominance of the Malacca Strait.
+During his circumnavigation of the globe in 1824–1826, French Captain [Hyacinthe de Bougainville](./hyacinthe-de-bougainville.md) visited Malacca in 1824. In his official journal of the voyage, translated here for the first time, he describes the town of Malacca and discusses the transfer of Malacca from the Dutch to the English, the decline in Malacca’s trade following the establishment of a British settlement at [Singapore](./singapore.md), and English dominance of the [Malacca](./melaka.md) Strait.
 
-The translation presented here was prepared by Colin Dyer based on Baron Hyacinthe de Bougainville (1837), *Journal de la navigation autour du globe de “La Thetis” et de “L’Esperance” pendant les annees 1824, 1825, et 1826*, 2 vols, Paris: A. Bertrand.
+The translation presented here was prepared by [Colin Dyer](./colin-dyer.md) based on Baron Hyacinthe de Bougainville (1837), *Journal de la [navigation](./navigation.md) autour du globe de “La Thetis” et de “L’Esperance” pendant les annees 1824, 1825, et 1826*, 2 vols, Paris: A. Bertrand.
 
 ## Summary
 
-This article presents a complete, unedited English translation of the passage in which French Captain Hyacinthe de Bougainville recorded his visit to Malacca in August 1824, drawn from his official journal of the circumnavigation aboard the frigate *La Thetis* and corvette *L'Esperance* (1824–1826). Bougainville, son of the famous explorer Louis de Bougainville, arrived on 22 August after a storm that had severely damaged his ships near Penang, and remained at anchor until 26 August (pp. 132–133). The translation, prepared by Colin Dyer, is offered as a primary-source resource without editorial commentary or argument (p. 132).
+This article presents a complete, unedited English translation of the passage in which French Captain Hyacinthe de Bougainville recorded his visit to Malacca in August 1824, drawn from his official journal of the circumnavigation aboard the frigate *La Thetis* and corvette *L'Esperance* (1824–1826). Bougainville, son of the famous explorer Louis de Bougainville, arrived on 22 August after a storm that had severely damaged his ships near [Penang](./penang.md), and remained at anchor until 26 August (pp. 132–133). The translation, prepared by Colin Dyer, is offered as a primary-source resource without editorial commentary or argument (p. 132).
 
-Bougainville's account captures Malacca at a precise historical juncture: weeks before the Anglo-Dutch Treaty of 1824 formally transferred the settlement from Dutch to British control. He observed a town whose commercial life had been effectively destroyed by the rise of Singapore, whose physical fabric bore no trace of its Portuguese past, and whose population was composed of Malays, Chinese, and a small community of Portuguese-descended Catholics known as *Seranguis* (pp. 134–136). His description of the town's "delightfully rural aspect" and the absence of any ramparts or old buildings stands in stark contrast to its former reputation as a contested imperial prize (p. 135).
+Bougainville's account captures Malacca at a precise historical juncture: weeks before the Anglo-Dutch Treaty of 1824 formally transferred the settlement from Dutch to British control. He observed a town whose commercial life had been effectively destroyed by the rise of Singapore, whose physical fabric bore no trace of its Portuguese past, and whose [population](./population.md) was composed of Malays, [Chinese](./chinese.md), and a small community of Portuguese-descended Catholics known as *Seranguis* (pp. 134–136). His description of the town's "delightfully rural aspect" and the absence of any ramparts or old buildings stands in stark contrast to its former reputation as a contested imperial prize (p. 135).
 
-The passage also provides a rare French naval perspective on the strategic logic of the Anglo-Dutch exchange, which Bougainville judged "equally advantageous for both nations": the British secured unimpeded command of the Strait for their China trade, while the Dutch obtained Belitung Island to protect their Bangka tin mines and eliminated the anxiety of a British presence on Sumatra's east coast (p. 134).
+The passage also provides a rare French naval perspective on the strategic logic of the Anglo-Dutch exchange, which Bougainville judged "equally advantageous for both nations": the British secured unimpeded command of the Strait for their [China](./china.md) trade, while the Dutch obtained Belitung Island to protect their Bangka tin mines and eliminated the anxiety of a British presence on [Sumatra](./sumatra.md)'s east coast (p. 134).
 
 ### Key Findings
 
@@ -54,7 +54,7 @@ The passage also provides a rare French naval perspective on the strategic logic
 - No physical trace of the Portuguese town remained: "Buildings, ramparts: everything has gone! Time has destroyed some, and the English…have razed the others to the ground" (p. 135).
 - The town and territory population in 1817 was approximately 35,000, of whom the town of Malacca itself held just over half; the Malays constituted the greatest part of the population (p. 136).
 - The *Seranguis* (Portuguese-descended Catholics) were the only community in the peninsula still observing Roman Catholic rites, while all new conversions were to the Anglican faith (p. 136).
-- The Anglican mission at the western end of town operated a printing works producing Bibles in multiple languages, and Chinese craftsmen were sculpting wooden type for sacred texts in their own language (p. 136).
+- The Anglican mission at the western end of town operated a [printing](./printing.md) works producing Bibles in multiple [languages](./languages.md), and Chinese craftsmen were sculpting wooden type for sacred texts in their own language (p. 136).
 
 ### Conclusion
 
@@ -62,7 +62,7 @@ Bougainville's definitive historical takeaway is that Malacca, "deprived of its 
 
 ## Context
 
-- The Anglo-Dutch Treaty of 1824, which Bougainville describes as imminent during his visit, was completed by the end of that year; the British subsequently established the Straits Settlements of Penang, Malacca, and Singapore in 1826 (p. 134, n. 2).
+- The Anglo-Dutch Treaty of 1824, which Bougainville describes as imminent during his visit, was completed by the end of that year; the British subsequently established the [Straits Settlements](./straits-settlements.md) of Penang, Malacca, and Singapore in 1826 (p. 134, n. 2).
 - Bougainville's journal was published in 1837 "by order of the King"; the present translation is drawn from volume 1, pages 124–133 of the original two-volume Paris edition (pp. 132, 137).
 
 ## References

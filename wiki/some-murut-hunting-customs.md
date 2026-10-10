@@ -26,11 +26,11 @@ jstor: https://www.jstor.org/stable/41559871
 
 # Some Murut hunting customs
 
-This article by G.C. Woolley documents aspects of Murut hunting customs, drawing on his experience as a colonial administrator in British North Borneo.
+This article by [G.C. Woolley](./gc-woolley.md) documents aspects of Murut hunting customs, drawing on his experience as a colonial administrator in [British North Borneo](./british-north-borneo.md).
 
 ## Summary
 
-Woolley's contribution to the *JMBRAS* (Vol. 14, No. 3, 1936, pp. 307–313) records ethnographic observations on the hunting practices of the Murut people of Borneo. The piece is consistent with Woolley's broader body of work on Murut social life, which he produced during his service in the North Borneo Chartered Company administration. The article spans seven pages and falls within the journal's regular ethnographic and anthropological contributions of the period.
+Woolley's contribution to the *[JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* (Vol. 14, No. 3, 1936, pp. 307–313) records ethnographic observations on the hunting practices of the Murut people of Borneo. The piece is consistent with Woolley's broader body of work on Murut social life, which he produced during his service in the North [Borneo](./borneo.md) Chartered Company administration. The article spans seven pages and falls within the journal's regular ethnographic and anthropological contributions of the period.
 
 ## References
 <!-- Grounded occurrences and citations -->

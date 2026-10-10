@@ -25,11 +25,11 @@ publication_type: note
 
 # Botany and Malay
 
-A brief note by the Revd. B. Scortecchini correcting botanical misidentifications in earlier publications of the Straits Branch, with an appended editorial remark on Malay terminology.
+A brief note by the Revd. B. Scortecchini correcting botanical misidentifications in earlier publications of the Straits Branch, with an appended editorial remark on [Malay](./malay.md) terminology.
 
 ## Summary
 
-Scortecchini writes to correct the identification of a plant called *Memplas* in Mr. Swettenham's journal across the Malay Peninsula (JSBRAS Vol. 13, p. 13), which an editorial note had tentatively assigned to *Michelia*. He argues on morphological grounds (small size, sandpaper-like foliage used for that purpose) that the plant is in fact *Delima sarmentosa*, L., a common sarmentose species of secondary lowland growth (p. 413). He then broadens the discussion to the general problem of confusion between Malay vernacular names and scientific names, using the example of fish-poison plants: he records *Randia dumetorum* from the Kinta district as a source of fish poison distinct from *Anamirta cocculus* (formerly *Menispermum cocculus*), and suggests the Kinta specimen may belong to *Derris* among the Leguminosæ (pp. 413–414).
+Scortecchini writes to correct the identification of a plant called *Memplas* in Mr. [Swettenham](./swettenham.md)'s journal across the Malay Peninsula (JSBRAS Vol. 13, p. 13), which an editorial note had tentatively assigned to *Michelia*. He argues on morphological grounds (small size, sandpaper-like foliage used for that purpose) that the plant is in fact *Delima sarmentosa*, L., a common sarmentose species of secondary lowland growth (p. 413). He then broadens the discussion to the general problem of confusion between Malay vernacular names and scientific names, using the example of fish-poison [plants](./plants.md): he records *Randia dumetorum* from the Kinta district as a source of [fish](./fish.md) poison distinct from *Anamirta cocculus* (formerly *Menispermum cocculus*), and suggests the Kinta specimen may belong to *Derris* among the Leguminosæ (pp. 413–414).
 
 The editor appends a correction to Scortecchini's own usage, explaining that *tuba* is the plant, *akar tuba* the root used for stupefying fish, and *menuba ikan* the act of killing fish with tuba; that *ikan tuba*, if it existed as a phrase, would denote a kind of fish rather than a plant (p. 415).
 

@@ -23,7 +23,7 @@ published: false
 
 ## About
 
-The Sheppard Memorial Prize commemorates the life of Tan Sri Mubin Sheppard and his contributions to scholarship on the Malay world. This volume presents essays by the joint prize winners of the inaugural volume, Ms Wong Siew Kuon of Universiti Sains Malaysia, Penang, who has written a paper in Bahasa Malaysia entitled “Masalah-masalah Setinggan Cina di Daerah Ulu Langat. Selangor pada Masa Darurat, 1948−1960” (The Problems of Chinese Squatters in the Ulu Langat District of Selangor during the Emergency, 1948−1960) and Ms Beatrice Chong of the National University of Singapore, for her essay entitled “A History of Diplomacy and Trade in Nineteenth Century Labuan.” The essays reflect the sound scholarship of History undergraduates in Malaysian and Singaporean universities.
+The Sheppard Memorial Prize commemorates the life of Tan Sri [Mubin Sheppard](./mubin-sheppard.md) and his contributions to scholarship on the [Malay](./malay.md) world. This volume presents essays by the joint prize winners of the inaugural volume, Ms [Wong Siew Kuon](./wong-siew-kuon.md) of Universiti Sains Malaysia, [Penang](./penang.md), who has written a paper in Bahasa [Malaysia](./malaysia.md) entitled “Masalah-masalah Setinggan Cina di Daerah Ulu Langat. [Selangor](./selangor.md) pada Masa Darurat, 1948−1960” (The Problems of Chinese Squatters in the Ulu Langat District of Selangor during the Emergency, 1948−1960) and Ms [Beatrice Chong](./beatrice-chong.md) of the National University of [Singapore](./singapore.md), for her essay entitled “A History of Diplomacy and Trade in Nineteenth Century [Labuan](./labuan.md).” The essays reflect the sound scholarship of History undergraduates in Malaysian and Singaporean universities.
 
 ## Contents
 

@@ -26,9 +26,9 @@ publication_type: note
 
 # Golden flowers
 
-This brief note by H. N. Ridley discusses the Malay and Straits Chinese folk belief in "golden flowers" that occasionally appear on certain trees and confer wealth upon their finder (p. 215).
+This brief note by [H. N. Ridley](./henry-nicholas-ridley.md) discusses the [Malay](./malay.md) and Straits [Chinese](./chinese.md) folk belief in "golden flowers" that occasionally appear on certain [trees](./trees.md) and confer wealth upon their finder (p. 215).
 
-Ridley recounts two instances: a Pandan Wangi that produced a golden flower which regrew when broken off, enriching its owner until his death, and a Javanese labourer who saw a red flower on a *Ficus Miquelii* in the Botanic Gardens but lost the opportunity by calling a companion rather than seizing it immediately (p. 215). Ridley offers a botanical rationalization: both the Pandanus and the fig normally have inconspicuous or hidden flowers, so the rare appearance of a visible bloom is easily mythologized as a golden one (p. 215).
+Ridley recounts two instances: a Pandan Wangi that produced a golden flower which regrew when broken off, enriching its owner until his death, and a Javanese labourer who saw a red flower on a *Ficus Miquelii* in the Botanic Gardens but lost the opportunity by calling a companion rather than seizing it immediately (p. 215). Ridley offers a botanical rationalization: both the Pandanus and the fig normally have inconspicuous or hidden [flowers](./flowers.md), so the rare appearance of a visible bloom is easily mythologized as a golden one (p. 215).
 
 ## References
 <!-- Grounded occurrences and citations -->

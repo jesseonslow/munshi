@@ -26,11 +26,11 @@ publication_type: note
 
 # A note on Sambas and Borneo. {With notes T. Harrisson
 
-"A Pulau Tiuman Superstition" is a brief note by W. C. (1900) reporting on the Malay vegetable product known as Susu Rimau, identified as the sclerotium of *Polyporus sacer*.
+"[A Pulau Tiuman Superstition](./a-pulau-tiuman-superstition.md)" is a brief note by W. C. (1900) reporting on the [Malay](./malay.md) vegetable product known as Susu Rimau, identified as the sclerotium of *Polyporus sacer*.
 
 ## Summary
 
-The author references a prior account of Susu Rimau published in Journal No. 22 (p. 340) and reports having since obtained additional specimens of both the tuber and the fully developed fungus in Singapore and Penang. Mr. Massee of Kew identified the species as *Polyporus sacer*, described as a very widely distributed fungus (p. 101).
+The author references a prior account of Susu Rimau published in [Journal](./journal.md) No. 22 (p. 340) and reports having since obtained additional specimens of both the tuber and the fully developed fungus in [Singapore](./singapore.md) and [Penang](./penang.md). Mr. Massee of Kew identified the species as *Polyporus sacer*, described as a very widely distributed fungus (p. 101).
 
 ## References
 <!-- Grounded occurrences and citations -->

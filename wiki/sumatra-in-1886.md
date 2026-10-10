@@ -25,13 +25,13 @@ publication_type: note
 
 # Sumatra in 1886
 
-This is a brief administrative and geographical survey of the Dutch colonial divisions of Sumatra as of 1886, written by F. Kehding and published in the Journal of the Straits Branch of the Royal Asiatic Society, Vol. 18 (1886), pp. 345–349.
+This is a brief administrative and geographical survey of the Dutch colonial divisions of [Sumatra](./sumatra.md) as of 1886, written by F. Kehding and published in the [Journal of the Straits Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md), Vol. 18 (1886), pp. 345–349.
 
 ## Summary
 
-The note systematically describes the nine principal administrative units of Dutch Sumatra, covering the West Coast (Padang), Benkoelen, Lampong, Palembang, the East Coast, Atjeh, Riouw and dependencies, Banka, and Billiton. For each, Kehding provides area, chief place, and the nature of Dutch control—ranging from direct rule to treaty-based oversight of native states (p. 346–349).
+The note systematically describes the nine principal administrative units of Dutch Sumatra, covering the West Coast (Padang), Benkoelen, Lampong, [Palembang](./palembang.md), the East Coast, Atjeh, Riouw and dependencies, Banka, and Billiton. For each, Kehding provides area, chief place, and the nature of Dutch control—ranging from direct rule to treaty-based oversight of native states (p. 346–349).
 
-Of particular note is the treatment of Atjeh, where Dutch troops had been concentrated on the northern coast since April 1885 in a line of fortifications, with the interior still entirely unknown and the final pacification of the country uncertain (p. 348). The East Coast residency is described as comprising numerous native states (Siak, Deli, Langkat, etc.) over which the Dutch collected duties and exercised jurisdiction over Europeans and Chinese but explicitly disclaimed annexation (p. 347–348). The note closes with a general observation that while much had been done to develop Sumatra's resources, a vast field remained for European capital and enterprise (p. 349).
+Of particular note is the treatment of Atjeh, where Dutch troops had been concentrated on the northern coast since April 1885 in a line of fortifications, with the interior still entirely unknown and the final pacification of the country uncertain (p. 348). The East Coast residency is described as comprising numerous native states (Siak, Deli, Langkat, etc.) over which the Dutch collected duties and exercised jurisdiction over Europeans and [Chinese](./chinese.md) but explicitly disclaimed annexation (p. 347–348). The note closes with a general observation that while much had been done to develop Sumatra's resources, a vast field remained for [European](./european.md) capital and enterprise (p. 349).
 
 ## References
 <!-- Grounded occurrences and citations -->

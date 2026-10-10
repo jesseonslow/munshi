@@ -128,7 +128,7 @@ articles:
 
 # JSBRAS No. 3 (July 1879)
 
-**Series:** Journal of the Straits Branch of the Royal Asiatic Society  
+**Series:** [Journal of the Straits Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** July 1879
 
 ## Table of Contents

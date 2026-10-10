@@ -26,7 +26,7 @@ published: false
 
 ## MBRAS Sources
 
-- Keith, A. Anatomical notes on Malay apes. SB 23
+- [Keith, A](./a-keith.md). Anatomical notes on [Malay](./malay.md) apes. SB 23
 
 ## References
 <!-- Grounded occurrences and citations -->

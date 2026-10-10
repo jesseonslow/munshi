@@ -27,11 +27,11 @@ publication_type: note
 
 # Miniopterus medius in the Malay Peninsula. Records of the Raffles Museum, No. 14
 
-This short note by F. N. Chasen (Records of the Raffles Museum, No. 14) reports the first mainland record of *Miniopterus medius* from the Malay Peninsula, based on four specimens from Gunong Pondok, Perak (p. 156).
+This short note by F. N. Chasen (Records of the Raffles Museum, No. 14) reports the first mainland record of *Miniopterus medius* from the [Malay](./malay.md) Peninsula, based on four specimens from Gunong Pondok, [Perak](./perak.md) (p. 156).
 
 ## Summary
 
-Chasen describes four *Miniopterus* specimens collected in caves in the limestone hill Gunong Pondok, Perak, at no elevation, and sent for identification by Messrs. Sworder and Abraham. The specimens agree well with the original description by Thomas and Wroughton (1909) and with a comparison specimen from Pulau Kaban, East coast of Johore, identified by Thomas. Although the genus had previously been recorded from islands off both the East and West coasts, this constitutes the first record from the mainland (p. 156).
+Chasen describes four *Miniopterus* specimens collected in [caves](./caves.md) in the limestone hill Gunong Pondok, Perak, at no elevation, and sent for identification by Messrs. Sworder and Abraham. The specimens agree well with the original description by Thomas and Wroughton (1909) and with a comparison specimen from Pulau Kaban, East coast of [Johore](./johor.md), identified by Thomas. Although the genus had previously been recorded from [islands](./islands.md) off both the East and West coasts, this constitutes the first record from the mainland (p. 156).
 
 The series exhibits two distinct pelage phases: a uniform dark brown phase (the male and one female) and a bicoloured phase (two females, vandyke-brown on the head, neck, throat and breast, blackish brown elsewhere, with well-defined colour zones). External and skull measurements are tabulated for all four specimens alongside the type (pp. 156–157).
 

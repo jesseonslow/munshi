@@ -26,11 +26,11 @@ jstor: https://www.jstor.org/stable/41502917
 
 # Sabara and sabana
 
-This is a brief correction note by Dato F. W. Douglas clarifying the identification and location of the Ptolemaic name *Sabana* on the Malay Peninsula, in response to an error in Dr. Linehan's earlier article (JMBRAS 24(3), 1951).
+This is a brief correction note by Dato F. W. Douglas clarifying the identification and location of the Ptolemaic name *Sabana* on the [Malay](./malay.md) Peninsula, in response to an error in Dr. Linehan's earlier article (JMBRAS 24(3), 1951).
 
 ## Summary
 
-Douglas states that Linehan misidentified the Ptolemaic name, which Douglas had placed on the east side of the southern tip of the Peninsula, at the mouth of the Johore River opposite Pulau Tekong Besar. He supports this identification by citing Ungku Aziz of Johore (quoted by F. N. Chasen in Braddell, JMBRAS 14(3), 1936: 67), who records that a small river and hill on the mainland there are still known locally as Sabana (or Sebena). Douglas also cross-references his own earlier note on Ptolemaic names in *Notes on the Historical Geography of Malaya* (1949: 5). (p. 212)
+Douglas states that Linehan misidentified the Ptolemaic name, which Douglas had placed on the east side of the southern tip of the Peninsula, at the mouth of the Johore River opposite Pulau Tekong Besar. He supports this identification by citing Ungku Aziz of [Johore](./johor.md) (quoted by F. N. Chasen in Braddell, JMBRAS 14(3), 1936: 67), who records that a small river and hill on the mainland there are still known locally as Sabana (or Sebena). Douglas also cross-references his own earlier note on Ptolemaic names in *Notes on the Historical Geography of [Malaya](./malaya.md)* (1949: 5). (p. 212)
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -64,10 +64,9 @@ articles:
   is_review: false
 ---
 
-
 # JSBRAS No. 6 (December 1880)
 
-**Series:** Journal of the Straits Branch of the Royal Asiatic Society  
+**Series:** [Journal of the Straits Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** December 1880
 
 ## Table of Contents

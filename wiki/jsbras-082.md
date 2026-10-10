@@ -27,7 +27,7 @@ articles:
 
 # JSBRAS No. 82 (September 1920)
 
-**Series:** Journal of the Straits Branch of the Royal Asiatic Society  
+**Series:** [Journal of the Straits Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** September 1920
 
 ## Table of Contents

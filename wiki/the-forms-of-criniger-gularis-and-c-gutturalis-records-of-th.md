@@ -27,11 +27,11 @@ publication_type: note
 
 # The forms of Criniger gularis and C. gutturalis. Records of the Raffles Museum, No. 6
 
-This short note by C. Boden-Kloss (1924) presents a tentative taxonomic arrangement of the white-throated bulbuls of the genus *Criniger* in Malaysia and Indo-China, dividing them into two species: *C. gularis* and *C. gutturalis* (p. 71).
+This short note by C. Boden-Kloss (1924) presents a tentative taxonomic arrangement of the white-throated [bulbuls](./bulbuls.md) of the genus *Criniger* in [Malaysia](./malaysia.md) and [Indo-China](./indo-china.md), dividing them into two species: *C. gularis* and *C. gutturalis* (p. 71).
 
 ## Summary
 
-Boden-Kloss lists eleven subspecies under *C. gularis* (Horsf.), ranging from West Java through mainland Southeast Asia to the Malay Peninsula and the Philippines, and four subspecies under *C. gutturalis* (Bp.), covering the Malay Peninsula, Siam, Indochina, and Borneo (p. 71). He notes that only in the Malay Peninsula and Indo-China are both species known to co-occur, and that he has not personally examined specimens of *pallida*, *grandis*, *griseiceps*, or *frater* (p. 71). The note is published as Records of the Raffles Museum, No. 6.
+Boden-Kloss lists eleven subspecies under *C. gularis* (Horsf.), ranging from West [Java](./java.md) through mainland [Southeast Asia](./southeast-asia.md) to the Malay Peninsula and the [Philippines](./philippines.md), and four subspecies under *C. gutturalis* (Bp.), covering the Malay Peninsula, [Siam](./thailand.md), Indochina, and [Borneo](./borneo.md) (p. 71). He notes that only in the [Malay](./malay.md) Peninsula and Indo-China are both species known to co-occur, and that he has not personally examined specimens of *pallida*, *grandis*, *griseiceps*, or *frater* (p. 71). The note is published as Records of the [Raffles](./stamford-raffles.md) Museum, No. 6.
 
 ## References
 <!-- Grounded occurrences and citations -->

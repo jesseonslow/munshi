@@ -26,7 +26,7 @@ jstor: https://www.jstor.org/stable/41503209
 
 # Pottery cones from Kodiang, Kedah
 
-G. de G. Sieveking's 1956 note in the *Journal of the Malayan Branch of the Royal Asiatic Society* examines a collection of hollow, perforated cord-impressed pottery cones recovered from an undisturbed cave at Kodiang, Kedah, and argues against the prevailing interpretation of these objects as ritual incense-burners, proposing instead that they functioned as practical working gear in Neolithic pottery production.
+[G. de G. Sieveking](./g-de-g-sieveking.md)'s 1956 note in the *[Journal of the Malayan Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* examines a collection of hollow, perforated cord-impressed pottery cones recovered from an undisturbed cave at Kodiang, [Kedah](./kedah.md), and argues against the prevailing interpretation of these objects as ritual incense-burners, proposing instead that they functioned as practical working gear in Neolithic [pottery](./pottery.md) production.
 
 ## Summary
 
@@ -41,8 +41,8 @@ Sieveking's positive interpretation is that the cones served as supports or moul
 - The reconstructed cone measures 277 mm in length and 75 mm in diameter at the lip; proportions appear consistent across the fragmentary collection (p. 191).
 - Perforations were made with a flat instrument approximately 10 mm broad, held in the same plane as the cone's length, while the clay was still wet; some slope slightly upward toward the rim, others are strictly horizontal (p. 189).
 - The cave collection comprised three quadrangular polished stone axes, fragments of at least twenty-five pottery cones, and a large number of cord-impressed sherds including shallow round-bottomed and carinated bowls (p. 189).
-- Used earthenware incense-burners in the Perak Museum (Kelantan and Negri Sembilan specimens) show an incomplete blackish internal crust of incense particles with a darkened surface layer beneath, evidence entirely absent from the Kodiang cones (pp. 192–193).
-- Comparable cones of similar form and dimensions were documented by Evans from Buang Bep, Ta Kanawn district, Surat, Siam, and a single specimen by Linehan from Jeram Kwi, Tembeling River, Pahang (p. 193).
+- Used earthenware incense-burners in the [Perak](./perak.md) Museum (Kelantan and Negri Sembilan specimens) show an incomplete blackish internal crust of incense particles with a darkened surface layer beneath, evidence entirely absent from the Kodiang cones (pp. 192–193).
+- Comparable cones of similar form and dimensions were documented by Evans from Buang Bep, Ta Kanawn district, Surat, [Siam](./thailand.md), and a single specimen by Linehan from Jeram Kwi, Tembeling River, [Pahang](./pahang.md) (p. 193).
 - The Kodiang cave site was scheduled as an ancient monument by the State Government due to its undisturbed sedimentary deposits believed to contain further traces of prehistoric occupation (p. 189).
 
 ### Conclusion
@@ -51,7 +51,7 @@ Sieveking concludes that the cones had no ritual significance and were not used 
 
 ## Context
 
-- The article draws on material held in the Perak Museum and Raffles Museum collections, and engages directly with prior publications by Williams-Hunt (1952), Evans (1931), and Linehan (1928) on comparable Neolithic material from the Peninsula.
+- The article draws on material held in the Perak Museum and [Raffles](./stamford-raffles.md) Museum collections, and engages directly with prior publications by Williams-Hunt (1952), Evans (1931), and Linehan (1928) on comparable Neolithic material from the Peninsula.
 - Sieveking's contribution is primarily methodological: he applies a comparative use-wear argument (the absence of incense residue) to overturn an earlier speculative functional attribution, a approach that would become standard in subsequent Malayan prehistoric studies.
 
 ## References

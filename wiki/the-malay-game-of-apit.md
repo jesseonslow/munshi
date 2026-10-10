@@ -25,7 +25,7 @@ publication_type: note
 
 # The Malay game of apit
 
-This short note by Raja Samusah of Malay College, Kuala Kangsar, describes the rules of the Malay board game *sodok apit*, illustrated with four diagrams.
+This short note by Raja [Samusah](./samusah.md) of Malay College, [Kuala Kangsar](./kuala-kangsar.md), describes the rules of the [Malay](./malay.md) board game *sodok apit*, illustrated with four diagrams.
 
 ## Summary
 

@@ -107,7 +107,7 @@ articles:
 
 # JMBRAS Vol. 88, Part 1 (June 2015)
 
-**Series:** Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society  
+**Series:** Journal of the Malayan/[Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** June 2015
 
 ## Table of Contents

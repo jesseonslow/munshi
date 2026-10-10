@@ -19,7 +19,7 @@ published: false
 
 ## MBRAS Sources
 
-- Anon. Obituary. MB 79(2)
+- [Anon](./anon-and-unidentifiable-initials.md). Obituary. MB 79(2)
 
 ## References
 <!-- Grounded occurrences and citations -->

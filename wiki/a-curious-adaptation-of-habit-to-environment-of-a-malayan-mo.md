@@ -26,11 +26,11 @@ jstor: https://www.jstor.org/stable/41561244
 
 # A curious adaptation of habit to environment of a Malayan mosquito
 
-This short note by C. Strickland, Travelling Medical Entomologist of the F.M.S., records an unusual oviposition behaviour observed in *Chaetomyia (Leicesteria) flava* at the Gap on the Selangor-Pahang boundary (2,800 ft).
+This short note by [C. Strickland](./c-strickland.md), Travelling Medical Entomologist of the [F.M.S.](./federated-[malay](./malay.md)-states.md), records an unusual oviposition behaviour observed in *Chaetomyia (Leicesteria) flava* at the Gap on the [Selangor](./selangor.md)-[Pahang](./pahang.md) boundary (2,800 ft).
 
 ## Summary
 
-Strickland describes observing a female *C. flava* carrying an ova-mass attached to a hind-leg, from which young larvae were already emerging. When the mosquito was placed in a bottle of water, it dipped its leg into the water and the larvae immediately hatched and swam away. He observed the phenomenon on two occasions and once caught a specimen whose leg still bore the empty ova-mass. Strickland concludes that the mosquito oviposits on its own leg as a device for depositing larvae in water collections inaccessible by ordinary means—such as bamboo joints or leaf axils of plants like *kladi* or pig-lily—or possibly to protect the eggs from danger on the water surface (p. 39).
+Strickland describes observing a female *C. flava* carrying an ova-mass attached to a hind-leg, from which young [larvae](./larvae.md) were already emerging. When the mosquito was placed in a bottle of water, it dipped its leg into the water and the larvae immediately hatched and swam away. He observed the phenomenon on two occasions and once caught a specimen whose leg still bore the empty ova-mass. Strickland concludes that the mosquito oviposits on its own leg as a device for depositing [larvae](./larvae.md) in water collections inaccessible by ordinary means—such as bamboo joints or leaf axils of [plants](./plants.md) like *kladi* or pig-lily—or possibly to protect the eggs from danger on the water surface (p. 39).
 
 ## References
 <!-- Grounded occurrences and citations -->

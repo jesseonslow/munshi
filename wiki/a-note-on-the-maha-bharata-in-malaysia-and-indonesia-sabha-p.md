@@ -28,11 +28,11 @@ jstor: https://www.jstor.org/stable/41492217
 
 # A note on the Maha-Bharata in Malaysia and Indonesia: Sabha-Parva found in Bali
 
-C. Hooykaas, writing in 1965, reports the discovery in Bali of a metrical paraphrase (*parikan*) of the Sabha-Parva of the Mahā-Bhārata and argues that this find fundamentally challenges the long-held assumption that only eight of the epic's eighteen parvas survive in Old Javanese. The article situates this discovery within the broader, still-underserved field of Mahā-Bhārata transmission across Malaysia and Indonesia, calling for further manuscript collection and philological work.
+[C. Hooykaas](./c-hooykaas.md), writing in 1965, reports the discovery in Bali of a metrical paraphrase (*parikan*) of the Sabha-Parva of the Mahā-Bhārata and argues that this find fundamentally challenges the long-held assumption that only eight of the epic's eighteen parvas survive in Old Javanese. The article situates this discovery within the broader, still-underserved field of Mahā-Bhārata transmission across [Malaysia](./malaysia.md) and [Indonesia](./indonesia.md), calling for further manuscript collection and philological work.
 
 ## Summary
 
-Hooykaas opens by surveying the state of scholarship on the Mahā-Bhārata in the Malay-Indonesian world, noting that foundational work by Van der Tuuk (1875, 1879) and later by Winstedt, Rentse, Hill, and Cuisinier has left significant gaps. The central problem he identifies is one of provenance: it remains unknown whether Malay *wayang* stories are copies or translations from Javanese models, or whether Malay puppeteers composed their own shadow plays independently. A related but more specific question concerns which *parva* of the Mahā-Bhārata underlies the various *lakon* traditions in Malay, Javanese, and Balinese performance.
+Hooykaas opens by surveying the state of scholarship on the Mahā-Bhārata in the [Malay](./malay.md)-Indonesian world, noting that foundational work by Van der Tuuk (1875, 1879) and later by Winstedt, Rentse, Hill, and Cuisinier has left significant gaps. The central problem he identifies is one of provenance: it remains unknown whether Malay *wayang* stories are copies or translations from Javanese models, or whether Malay puppeteers composed their own [shadow plays](./shadow-plays.md) independently. A related but more specific question concerns which *parva* of the Mahā-Bhārata underlies the [various](./various.md) *lakon* [traditions](./traditions.md) in [Malay](./malay.md), Javanese, and Balinese performance.
 
 The article's core contribution is the identification of a Balinese manuscript acquired by the Kirtya Liefrinck-Van der Tuuk foundation on 12 December 1948 from Karangasem. This text is a metrical *parikan* of the Sabha-Parva, composed in Modern Javanese metres (Sinom, Pankur, Durma, Dandang Gulo) and totalling 50,182 syllables across 58 typewritten pages. Hooykaas, who began comparing it with Pratap Chandra Roy's Sanskrit translation in 1957, judges that the *parikan* follows the Sanskrit faithfully but enriches it with descriptive elaborations he classifies as 'topoi'. Crucially, he demonstrates that an Old Javanese prose Sabha-Parva is not merely postulated but actually registered in Poerbatjaraka's catalogue of Javanese manuscripts in the Bataviaasch Genootschap collection, though noted as "very corrupt." The Balinese metrical text therefore likely derives from a better-preserved Old Javanese prose source that may still be traceable in Bali.
 
@@ -53,7 +53,7 @@ Hooykaas concludes that the survival of the Sabha-Parva in Bali is not an isolat
 
 ## Context
 
-- The article draws on the Kirtya (formerly Kirtya Liefrinck-Van der Tuuk) palm-leaf manuscript library in Singaradja, Bali, and the Bataviaasch Genootschap (now Museum Nasional) manuscript collection in Jakarta.
+- The article draws on the Kirtya (formerly Kirtya Liefrinck-Van der Tuuk) palm-leaf manuscript library in Singaradja, Bali, and the Bataviaasch Genootschap (now Museum Nasional) manuscript collection in [Jakarta](./jakarta.md).
 - Historiographically, the piece is a short field note that shifts the scholarly conversation from the Malay-Indonesian *wayang* tradition toward the Balinese manuscript corpus as a potential repository for Old Javanese literary sources previously assumed lost.
 
 ## References

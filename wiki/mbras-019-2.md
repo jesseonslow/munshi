@@ -119,7 +119,7 @@ articles:
 
 # JMBRAS Vol. 19, Part 2 (October 1941)
 
-**Series:** Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society  
+**Series:** Journal of the Malayan/[Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** October 1941
 
 ## Table of Contents

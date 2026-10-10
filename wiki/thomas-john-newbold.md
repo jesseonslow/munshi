@@ -20,8 +20,8 @@ published: false
 
 ## MBRAS Sources
 
-- Bombay Times and Journal of Commerce. Obituary. SB 19
-- Anon. [Maxwell, W.E. Obituary](./mbras-reprint-15.md). *Reprint* 15
+- Bombay Times and Journal of [Commerce](./commerce.md). Obituary. SB 19
+- [Anon](./anon-and-unidentifiable-initials.md). [Maxwell, W.E. Obituary](./mbras-reprint-15.md). *Reprint* 15
 
 ## References
 <!-- Grounded occurrences and citations -->

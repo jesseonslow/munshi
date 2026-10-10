@@ -15,14 +15,13 @@ status: stub
 published: false
 ---
 
-
 # John Clunies Ross
 
 <!-- Synthesis engine: Insert introductory synthesis for John Clunies Ross here -->
 
 ## MBRAS Sources
 
-- [C.B. Kloss](./cb-kloss.md) (1926). [John Coney Moulton. Obituary](./john-coney-moulton-obituary.md). *JMBRAS* 4(2): 264–265
+- [C.B. Kloss](./cb-kloss.md) (1926). [John Coney Moulton. Obituary](./john-coney-moulton-obituary.md). *[JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* 4(2): 264–265
 
 ## Bibliography
 - (1910) [An insectivorous hornbill](./an-insectivorous-hornbill.md). *JSBRAS* 54: 157–158

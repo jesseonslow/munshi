@@ -25,7 +25,7 @@ publication_type: journal_article
 
 # Mohamedan calendar
 
-Haji Mohamed Sayid, a Captain in the Sultan of Johore's Forces, published this practical calendrical reference in 1923 to provide the Malay Muslim community with a reliable perpetual calendar system for the fourteenth century of the Hijra (AH 1300–1400), reconciling the fixed arithmetic of the lunar calendar with the religious imperative of new-moon sighting for the observance of Ramadan and Eid.
+Haji [Mohamed Sayid](./mohamed-sayid.md), a Captain in the Sultan of [Johore](./johor.md)'s Forces, published this practical calendrical reference in 1923 to provide the [Malay](./malay.md) Muslim community with a reliable perpetual calendar system for the fourteenth century of the Hijra (AH 1300–1400), reconciling the fixed arithmetic of the lunar [calendar](./calendar.md) with the religious imperative of new-moon sighting for the observance of Ramadan and Eid.
 
 ## Summary
 
@@ -46,12 +46,12 @@ The article culminates in a full 14th Kurun (century) calendar table covering AH
 
 ### Conclusion
 
-Sayid's definitive contribution is the recovery and presentation of a pre-existing Arabic calendrical system (*Takwim Khamsiah*) in a form accessible to the Malay Muslim community, providing a self-contained, extensible perpetual calendar that respects both the fixed arithmetic of the Islamic lunar year and the religious primacy of moon-sighting. The article functions as a practical tool rather than a theoretical treatise, and its value lies in making a manuscript source available to a wider readership in the Straits Settlements and Johore.
+Sayid's definitive contribution is the recovery and presentation of a pre-existing Arabic calendrical system (*Takwim Khamsiah*) in a form accessible to the Malay Muslim community, providing a self-contained, extensible perpetual calendar that respects both the fixed arithmetic of the Islamic lunar year and the religious primacy of moon-sighting. The article functions as a practical tool rather than a theoretical treatise, and its value lies in making a manuscript source available to a wider readership in the [Straits Settlements](./straits-settlements.md) and Johore.
 
 ## Context
 
-- The author held the rank of Captain in the Sultan of Johore's Forces (S.M.J.) and was a recognized community figure; the article was published in the inaugural volume of the JMBRAS, reflecting the Society's early interest in documenting local religious and cultural practices.
-- The article's framing is that of a colonial-era community leader providing a service to his co-religionists, situating the Islamic calendar within the administrative and commercial context of the Straits Settlements, where published almanacs (Gifford & Symons, Fraser & Neave) were the standard reference for the European and Chinese business communities.
+- The author held the rank of Captain in the Sultan of Johore's Forces (S.M.J.) and was a recognized community figure; the article was published in the inaugural volume of the [JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md), reflecting the Society's early interest in documenting local religious and cultural practices.
+- The article's framing is that of a colonial-era community leader providing a service to his co-religionists, situating the Islamic calendar within the administrative and commercial context of the Straits Settlements, where published almanacs (Gifford & Symons, Fraser & Neave) were the standard reference for the [European](./european.md) and [Chinese](./chinese.md) business communities.
 
 ## References
 <!-- Grounded occurrences and citations -->

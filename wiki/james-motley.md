@@ -18,8 +18,8 @@ published: false
 
 ## MBRAS Sources
 
-- Bastin, J.S. James Motley and natural history of Labuan. MB 60(2)
-- [I.H. Burkill](./ih-burkill.md) (1918). [The circumstances attending the murder in 1859, of the botanist James Motley](./the-circumstances-attending-the-murder-in-1859-of-the-botani.md). *JSBRAS* 79: 37–38
+- [Bastin, J.S.](./john-bastin.md) James Motley and [natural history](./natural-history.md) of [Labuan](./labuan.md). MB 60(2)
+- [I.H. Burkill](./ih-burkill.md) (1918). [The circumstances attending the murder in 1859, of the botanist James Motley](./the-circumstances-attending-the-murder-in-1859-of-the-botani.md). *[JSBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* 79: 37–38
 
 ## References
 <!-- Grounded occurrences and citations -->

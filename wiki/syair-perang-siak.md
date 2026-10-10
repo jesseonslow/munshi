@@ -22,11 +22,11 @@ published: false
 
 ## About
 
-The Syair Perang Siak narrates major events in a power struggle within the royal house of Siak, a Malay kingdom on the central eastern coast of Sumatra, between 1717 and 1771. This Malay epic poem, which was regularly recited at the Siak court before 1930, highlights the battle that ensued when the Dutch mounted a punitive expedition to Siak in 1761 during the brief reign of Raja Ismail. It is in fact a political statement written to keep intact the memory of a ruling house during its years of exile.
+The Syair Perang Siak narrates major events in a power struggle within the royal house of Siak, a Malay kingdom on the central eastern coast of [Sumatra](./sumatra.md), between 1717 and 1771. This [Malay](./malay.md) epic poem, which was regularly recited at the Siak court before 1930, highlights the battle that ensued when the Dutch mounted a punitive expedition to Siak in 1761 during the brief reign of Raja Ismail. It is in fact a political statement written to keep intact the memory of a ruling house during its years of exile.
 
 ## The Author
 
-Donald Goudie was born in Queensland, Australia in 1935. He trained as a teacher in Newcastle, N.S.W. and since 1955 has spent his working life as a schoolmaster. He has served in that capacity for many years at St. Andrew's Cathedral School in Sydney. Mr. Goudie has been a frequent traveller in Indonesia and Malaysia, collects books on that area, and has a special interest in traditional Malay literature - a preoccupation he would like to find more time to indulge.
+Donald Goudie was born in Queensland, Australia in 1935. He trained as a teacher in Newcastle, N.S.W. and since 1955 has spent his working life as a schoolmaster. He has served in that capacity for many years at St. Andrew's Cathedral School in Sydney. Mr. Goudie has been a frequent traveller in [Indonesia](./indonesia.md) and [Malaysia](./malaysia.md), collects books on that area, and has a special interest in traditional [Malay literature](./malay-literature.md) - a preoccupation he would like to find more time to indulge.
 
 ## Contents
 
@@ -38,7 +38,7 @@ Donald Goudie was born in Queensland, Australia in 1935. He trained as a teacher
 - Postscript
 - Appendices
 - References
-- Index
+- [Index](./index.md)
 
 ## Summary
 <!-- Synthesis engine: Insert chapter summaries or overview here -->

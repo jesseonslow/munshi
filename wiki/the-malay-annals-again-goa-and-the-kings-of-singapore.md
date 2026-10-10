@@ -31,13 +31,13 @@ publication_type: null
 
 # The Malay Annals again, Goa and the kings of Singapore
 
-This is an errata page from JMBRAS Vol. 22 (1949), published in the February 1950 issue, correcting two articles from that volume.
+This is an errata page from [JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md) Vol. 22 (1949), published in the February 1950 issue, correcting two articles from that volume.
 
 ## Summary
 
-The page records corrections to R. O. Winstedt's "The Malay Annals Again" (Part 1, March 1949) and to H. G. Quaritch Wales's "The Sambas Finds in relation to the Problems of Indo-Malaysian Art Development" (Part 4, September 1949). (p. 178)
+The page records corrections to [R. O. Winstedt](./richard-olaf-winstedt.md)'s "The [Malay Annals](./malay-annals.md) Again" (Part 1, March 1949) and to H. G. Quaritch Wales's "[The Sambas Finds in relation to the Problems of Indo-Malaysian Art Development](./the-sambas-finds-in-relation-to-the-problems-of-indo-malaysi.md)" (Part 4, September 1949). (p. 178)
 
-For Winstedt, two corrections are made on p. 180: the insertion of "46" after "about" in a passage concerning the driving out of the Siamese, and the replacement of a clause describing a figure as "never acknowledged as king" with the reading "who was not a ruler but a (?Malay) governor appointed by Siam." For Quaritch Wales, a misquoted passage from Devaprasad Ghosh on p. 29 is corrected to properly render the description of a *jatamukuta*, *uttariya*, *upavita*, and waistline curves. (p. 179)
+For Winstedt, two corrections are made on p. 180: the insertion of "46" after "about" in a passage concerning the driving out of the Siamese, and the replacement of a clause describing a figure as "never acknowledged as king" with the reading "who was not a ruler but a (?Malay) governor appointed by [Siam](./thailand.md)." For Quaritch Wales, a misquoted passage from Devaprasad Ghosh on p. 29 is corrected to properly render the description of a *jatamukuta*, *uttariya*, *upavita*, and waistline curves. (p. 179)
 
 ## References
 <!-- Grounded occurrences and citations -->

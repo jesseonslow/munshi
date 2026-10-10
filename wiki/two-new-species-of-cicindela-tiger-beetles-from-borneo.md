@@ -25,11 +25,11 @@ publication_type: note
 
 # Two new species of Cicindela (Tiger beetles) from Borneo
 
-This short note by Dr. Walter Horn describes two new species of *Cicindela* (tiger beetles) from Borneo, published in the Journal of the Straits Branch of the Royal Asiatic Society, Vol. 50 (1908).
+This short note by Dr. Walter Horn describes two new species of *Cicindela* (tiger beetles) from [Borneo](./borneo.md), published in the [Journal of the Straits Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md), Vol. 50 (1908).
 
 ## Summary
 
-Horn describes *Cicindela hewittii* n. sp., a 6½ mm male from Kuching, Borneo (collected VI. 1903 by J. E. A. Lewis), distinguished from *C. phalangioidea* by its broader, larger build, the pubescence on the clypeus, frons, and lateral pronotal margin, and its coppery-brown body with blue-green tibiae and tarsi (p. 99). The species is dedicated to the director of the Museum of Sarawak, who provided the single type specimen (p. 100).
+Horn describes *Cicindela hewittii* n. sp., a 6½ mm male from [Kuching](./kuching.md), Borneo (collected VI. 1903 by J. E. A. Lewis), distinguished from *C. phalangioidea* by its broader, larger build, the pubescence on the clypeus, frons, and lateral pronotal margin, and its coppery-brown body with blue-green tibiae and tarsi (p. 99). The species is dedicated to the director of the Museum of [Sarawak](./sarawak.md), who provided the single type specimen (p. 100).
 
 The second species, *Cicindela spinicollis* n. sp., is an 8⅓ mm female from North Borneo, compared closely with *C. denticollis* and differentiated by its flatter, narrower middle pronotum, a laterally directed basal tooth, a less developed antebasal fold, and reduced yellow elytral markings (pp. 100–101). Horn also notes a doubt about the original locality (New Guinea) given for *C. denticollis*, as he has never seen specimens beyond the two types, and leaves the question in suspense (p. 102).
 

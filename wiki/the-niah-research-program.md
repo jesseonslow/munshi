@@ -26,11 +26,11 @@ jstor: https://www.jstor.org/stable/41492157
 
 # The Niah research program
 
-Wilhelm G. Solheim II's 1977 assessment of Tom Harrisson's Niah Caves research program, published in a memorial issue of the *JMBRAS*, evaluates the scope, methods, and legacy of what Solheim considers Harrisson's most important archaeological undertaking in Borneo. Writing from personal acquaintance and field experience at Niah in 1958–59, Solheim argues that while Harrisson's excavation techniques were fundamentally flawed, the extraordinary breadth of his ecological approach and his success in sustaining a two-decade program under severe financial constraints produced results of lasting significance for the prehistory of Island Southeast Asia.
+Wilhelm G. Solheim II's 1977 assessment of [Tom Harrisson](./tom-harrisson.md)'s Niah [Caves](./caves.md) research program, published in a memorial issue of the *[JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)*, evaluates the scope, methods, and legacy of what Solheim considers Harrisson's most important archaeological undertaking in [Borneo](./borneo.md). Writing from personal acquaintance and field experience at Niah in 1958–59, Solheim argues that while Harrisson's excavation techniques were fundamentally flawed, the extraordinary breadth of his ecological approach and his success in sustaining a two-decade program under severe financial constraints produced results of lasting significance for the [prehistory](./prehistory.md) of Island [Southeast Asia](./southeast-asia.md).
 
 ## Summary
 
-Solheim structures his critique around three levels of the Niah program: strategy, tactics, and scientific execution. At the strategic level, he identifies Harrisson's approach as ecological from the outset—encompassing zoology, ethnohistory, geology, soil science, and palaeoclimatology—predating the widespread adoption of such frameworks in archaeology. The program's strength lay in its integration of multiple scientific disciplines, with first-class specialists in bone, shell, and living fauna contributing extensively, even as the core archaeological methodology remained rudimentary.
+Solheim structures his critique around three levels of the Niah program: strategy, tactics, and scientific execution. At the strategic level, he identifies Harrisson's approach as ecological from the outset—encompassing [zoology](./zoology.md), ethnohistory, [geology](./geology.md), soil [science](./science.md), and palaeoclimatology—predating the widespread adoption of such frameworks in [archaeology](./archaeology.md). The program's strength lay in its integration of multiple scientific disciplines, with first-class specialists in bone, shell, and living fauna contributing extensively, even as the core archaeological methodology remained rudimentary.
 
 The tactical dimension reveals Harrisson as a formidable publicist and fund-raiser who leveraged television coverage, press connections, and personal relationships with Shell Oil and the Gulbenkian Foundation to sustain the program against the indifference of the colonial budget. Solheim is candid about Harrisson's controlling personality: he excluded other trained archaeologists from the site, withheld publications strategically to create leverage for future funding, and maintained absolute control over imagery and access to the caves. The guano mining schedule, which placed the caves under Harrisson's legal control, simultaneously protected the sites and made unauthorized access illegal.
 
@@ -38,11 +38,11 @@ On the scientific execution, Solheim is the article's most critical voice. Excav
 
 ### Key Findings
 
-- Approximately 200 caves had been located and mapped at Niah by 1959, with helicopter surveys (loaned by Shell and the military) essential for identifying high cliff-face entrances invisible from the ground (p. 34).
+- Approximately 200 caves had been located and mapped at Niah by 1959, with helicopter [surveys](./surveys.md) (loaned by Shell and the military) essential for identifying high cliff-face entrances invisible from the ground (p. 34).
 - The 1958 field season alone shifted 750 tons of deposit; under optimum conditions the team achieved 9 cubic feet per man-hour, but below level 72 (c. 30,000 B.C.) the rate dropped to 1 cubic foot per 12–13 man-hours (p. 36).
 - By the time of Barbara Harrisson's 1967 burial classification, the Great Cave had been divided into 370 individual trenches, with 166 burials recorded in the excavated area; trenches were generally 5 × 10 ft or 5 × 5 ft, excavated in 6-inch layers (p. 35).
 - The earliest human skull from Niah was initially dated at approximately 40,000 B.P. (Harrisson 1972) but was revised downward to c. 35,000 B.P. in Harrisson's 1976 UISPP congress paper (p. 39).
-- Field seasons of two to four months were conducted practically every year from 1958 to 1967, with floods occasionally cutting seasons short; only one issue of the *Sarawak Museum Journal* in this period lacked at least one Niah paper (p. 30).
+- Field seasons of two to four months were conducted practically every year from 1958 to 1967, with [floods](./floods.md) occasionally cutting seasons short; only one issue of the *[Sarawak](./sarawak.md) Museum Journal* in this period lacked at least one Niah paper (p. 30).
 - A sterile pink-and-white band was identified through a considerable portion of the Great Cave excavation, representing the one notable stratigraphic marker recorded (p. 35).
 
 ### Conclusion

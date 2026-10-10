@@ -134,7 +134,7 @@ articles:
 
 # JMBRAS Vol. 38, Part 1 (July 1965)
 
-**Series:** Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society  
+**Series:** Journal of the Malayan/[Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** July 1965
 
 ## Table of Contents

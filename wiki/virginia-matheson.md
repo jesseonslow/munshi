@@ -20,7 +20,7 @@ published: false
 ## Bibliography
 
 - (1975) [Pre-Colonial State Systems in Southeast Asia](./pre-colonial-state-systems-in-southeast-asia.md). *Monograph* 6: 135
-- (1988) [Jawi literature in Patani: the maintenance of an Islamic tradition](./jawi-literature-in-patani-the-maintenance-of-an-islamic-trad.md). *JMBRAS* 61(1): 1–86
+- (1988) [Jawi literature in Patani: the maintenance of an Islamic tradition](./jawi-literature-in-patani-the-maintenance-of-an-islamic-trad.md). *[JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* 61(1): 1–86
 
 ## References
 <!-- Grounded occurrences and citations -->

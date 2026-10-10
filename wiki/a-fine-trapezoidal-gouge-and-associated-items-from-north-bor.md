@@ -26,11 +26,11 @@ jstor: https://www.jstor.org/stable/41491882
 
 # A fine trapezoidal gouge and associated items from North Borneo
 
-This short note by Tom Harrisson, published in JMBRAS Vol. 39 (1966), records three further observations on the *palang*—a penile piercing device used among Bornean peoples—following his earlier 1964 paper on the subject.
+This short note by [Tom Harrisson](./tom-harrisson.md), published in [JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md) Vol. 39 (1966), records three further observations on the *palang*—a penile piercing device used among Bornean peoples—following his earlier 1964 paper on the subject.
 
 ## Summary
 
-The note addresses three items: (i) the British Museum's Kayan *palang* specimens, for which Harrisson obtains new information via a letter from Dr. Rodney Needham quoting a 1954 communication from Cranstone, revealing that H. Ling Roth deposited four specimens with a brief description in 1895 (pp. 172–173); (ii) an old Kayan tool called *katiputin* in the Sarawak Museum collection (catalogue no. 200), collected by Brooke-Low before 1890 in the Belaga-Baloi area, consisting of two hardwood sticks and a sharpened iron rod used to perforate the glans penis horizontally (p. 173); and (iii) a calcinated encrusted mass removed from an Iban male's penis in 1964, described by Dr. Norvin D. Schuman as a "penolith"—a urethral stone deposited on the *palang* bar, weighing 26 grams, possibly linked to vitamin A deficiency in the local diet (pp. 173–174).
+The note addresses three items: (i) the British Museum's Kayan *palang* specimens, for which Harrisson obtains new information via a letter from Dr. Rodney Needham quoting a 1954 communication from Cranstone, revealing that H. Ling Roth deposited four specimens with a brief description in 1895 (pp. 172–173); (ii) an old Kayan tool called *katiputin* in the [Sarawak](./sarawak.md) Museum collection (catalogue no. 200), collected by Brooke-Low before 1890 in the Belaga-Baloi area, consisting of two hardwood sticks and a sharpened iron rod used to perforate the glans penis horizontally (p. 173); and (iii) a calcinated encrusted mass removed from an [Iban](./dayaks.md) male's penis in 1964, described by Dr. Norvin D. Schuman as a "penolith"—a urethral stone deposited on the *palang* bar, weighing 26 grams, possibly linked to vitamin A deficiency in the local diet (pp. 173–174).
 
 ## References
 <!-- Grounded occurrences and citations -->

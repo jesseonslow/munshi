@@ -26,11 +26,11 @@ jstor: https://www.jstor.org/stable/41559551
 
 # Arctic amok
 
-C. Boden Kloss's brief note "Arctic Amok" (p. 254) draws a comparative parallel between the Eskimo nervous condition *piblokto*, as described by Robert Peary, and the Malay states of *latah* and *amok*.
+C. Boden Kloss's brief note "Arctic [Amok](./amok.md)" (p. 254) draws a comparative parallel between the Eskimo nervous condition *piblokto*, as described by Robert Peary, and the [Malay](./malay.md) states of *[latah](./latah.md)* and *[amok](./amok.md)*.
 
 ## Summary
 
-Kloss quotes at length from Peary's *The North Pole* (pp. 156–7), which describes *piblokto* as a hysterical affliction affecting adult Eskimos—typically women—who scream, tear off clothing, and run naked on the ice in extreme cold, sometimes to the point of freezing to death if not restrained (p. 254). Kloss notes that Peary also records an instance of a *piblokto* sufferer killing a companion, and argues that despite superficial resemblance to *latah* in its female manifestations, the Eskimo condition is not triggered by suggestion or shock and is therefore more akin to *amok* (p. 254). He closes with the observation that both Eskimos and Malays are Mongoloid peoples, despite the vast geographic separation between the Arctic and the Equatorial belt.
+Kloss quotes at length from Peary's *The North Pole* (pp. 156–7), which describes *piblokto* as a hysterical affliction affecting adult Eskimos—typically women—who scream, tear off [clothing](./clothing.md), and run naked on the ice in extreme cold, sometimes to the point of freezing to death if not restrained (p. 254). Kloss notes that Peary also records an instance of a *piblokto* sufferer killing a companion, and argues that despite superficial resemblance to *[latah](./latah.md)* in its female manifestations, the Eskimo condition is not triggered by suggestion or shock and is therefore more akin to *amok* (p. 254). He closes with the observation that both Eskimos and Malays are Mongoloid peoples, despite the vast geographic separation between the Arctic and the Equatorial belt.
 
 ## References
 <!-- Grounded occurrences and citations -->

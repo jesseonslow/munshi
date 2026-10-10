@@ -32,9 +32,9 @@ published: false
 ### Reviews
 
 - (2002) Singapore 1942: Britain’s greatest defeat. A. Warren. *JMBRAS* 75(2): 117–118
-- (2011) Grotius, the Portuguese and free trade in the East Indies. P. Borschberg. *JMBRAS* 84(2): 128–130
-- (2013) British policy and the Chinese in Singapore, 1939–1955: the public service career of Tan Chin Tuan. Lee Su Yin. *JMBRAS* 86(2): 99–100
-- (2016) Journals, memorials and letters of Cornelis Matelieff de Jonge: security, diplomacy and commerce in 17th century Southeast Asia. . Borschberg. *JMBRAS* 89(1): 163–165
+- (2011) Grotius, the Portuguese and free trade in the East Indies. [P. Borschberg](./peter-borschberg.md). *JMBRAS* 84(2): 128–130
+- (2013) British policy and the [Chinese](./chinese.md) in [Singapore](./singapore.md), 1939–1955: the public service career of [Tan Chin Tuan](./tan-chin-tuan.md). Lee Su Yin. *JMBRAS* 86(2): 99–100
+- (2016) Journals, memorials and letters of Cornelis Matelieff de Jonge: security, diplomacy and [commerce](./commerce.md) in 17th century [Southeast Asia](./southeast-asia.md). . Borschberg. *[JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* 89(1): 163–165
 
 ## References
 <!-- Grounded occurrences and citations -->

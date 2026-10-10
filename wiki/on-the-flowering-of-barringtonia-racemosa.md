@@ -25,11 +25,11 @@ publication_type: note
 
 # On the flowering of Barringtonia racemosa
 
-This short note by H. N. Ridley documents observations on the nocturnal moth pollination of *Barringtonia racemosa* and extends to related pollination observations on other species in the Botanic Gardens jungle.
+This short note by [H. N. Ridley](./henry-nicholas-ridley.md) documents observations on the nocturnal moth pollination of *Barringtonia racemosa* and extends to related pollination observations on other species in the Botanic Gardens jungle.
 
 ## Summary
 
-Ridley describes how a smaller brown moth plunges into the flower of *Barringtonia racemosa* among the stamens to reach the honey, and notes that a large, apparently undescribed species of *Careya* with similar flower shape borne in an erect short spike is likely fertilized in the same way, as no open flowers were available during the day but whorls of stamens were found on the ground in the mornings (p. 126). He then briefly surveys the pollination ecology of several Myrtaceae in the collection, noting that *Eugenia* species are visited by bees (*Apis dorsata*, *A. florea*, *Trigona collina*), syrphid flies, and butterflies; *Eugenia ridleyi* with its light apple-green flowers is visited by muscid flies; and *Rhodamnia trivervia* with small white scented flowers lasting a single day is visited by *Apis*, *Trigona*, and syrphids (p. 126).
+Ridley describes how a smaller brown moth plunges into the flower of *Barringtonia racemosa* among the stamens to reach the honey, and notes that a large, apparently undescribed species of *Careya* with similar flower shape borne in an erect short spike is likely fertilized in the same way, as no open flowers were available during the day but whorls of stamens were found on the ground in the mornings (p. 126). He then briefly [surveys](./surveys.md) the pollination ecology of several Myrtaceae in the collection, noting that *Eugenia* species are visited by [bees](./bees.md) (*Apis dorsata*, *A. florea*, *Trigona collina*), syrphid flies, and [butterflies](./butterflies.md); *Eugenia ridleyi* with its light apple-green flowers is visited by muscid [flies](./flies.md); and *Rhodamnia trivervia* with small white scented [flowers](./flowers.md) lasting a single day is visited by *Apis*, *Trigona*, and syrphids (p. 126).
 
 ## References
 <!-- Grounded occurrences and citations -->

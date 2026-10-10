@@ -25,11 +25,11 @@ publication_type: journal_article
 
 # A propos d’une nouvelle théorie sur le site de Srivijaya
 
-This is the minutes of the Annual General Meeting of the Straits Branch of the Royal Asiatic Society, held at the Exchange Rooms on 27 March 1885, chaired by Vice-President A. M. Skinner.
+This is the minutes of the Annual General Meeting of the [Straits Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md), held at the Exchange Rooms on 27 March 1885, chaired by Vice-President [A. M. Skinner](./allan-maclean-skinner.md).
 
 ## Summary
 
-The brief record notes the confirmation of previous minutes, the reading and unanimous adoption of the 1884 Annual Report and Treasurer's Accounts, and the election of officers for 1885, including Skinner as President and W. A. Pickering and D. Logan as Vice-Presidents for Singapore and Penang respectively (p. xi–xii). Three new members were formally elected, and a proposal by Mr. Knight to create a Vice-President for Malacca was deferred pending notice to members, with the Secretary remarking on Malacca's historical claim from the 1811 Asiatic Society of Bengal meeting (p. xii).
+The brief record notes the confirmation of previous minutes, the reading and unanimous adoption of the 1884 Annual Report and Treasurer's Accounts, and the election of officers for 1885, including Skinner as President and W. A. Pickering and D. Logan as Vice-Presidents for [Singapore](./singapore.md) and [Penang](./penang.md) respectively (p. xi–xii). Three new members were formally elected, and a proposal by Mr. Knight to create a Vice-President for [Malacca](./melaka.md) was deferred pending notice to members, with the Secretary remarking on [Malacca](./melaka.md)'s historical claim from the 1811 Asiatic Society of Bengal meeting (p. xii).
 
 ## References
 <!-- Grounded occurrences and citations -->

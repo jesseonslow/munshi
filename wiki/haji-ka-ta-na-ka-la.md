@@ -26,11 +26,11 @@ jstor: https://www.jstor.org/stable/41561108
 
 # Haji Ka-Ta-Na-Ka-La
 
-This short note by C.O. Blagden (1910) corrects a suggestion made by W. George Maxwell regarding the identity of the Javanese ruler "Haji Ka-ta-na-ka-la" as recorded in the *History of the Yuan Dynasty*.
+This short note by [C.O. Blagden](./co-blagden.md) (1910) corrects a suggestion made by W. George Maxwell regarding the identity of the Javanese ruler "Haji Ka-ta-na-ka-la" as recorded in the *History of the Yuan Dynasty*.
 
 ## Summary
 
-Blagden argues that Maxwell's identification of the name as *Haji Kadir Nakhoda* (a ship's captain who had performed the pilgrimage) is incorrect. Citing Groeneveldt's translation of the relevant passage, he demonstrates that "Haji Ka-ta-na-ka-la" was a ruling prince of Java who had been killed by the prince of Kalang, and that the term "Haji" here represents the old Javanese word *haji* meaning "king," not the Malay-Arabic term for a pilgrim (p. 156). Blagden identifies the figure as Kertanagara, the last ruling prince of Tumapel, who was dethroned by Jaya Katong of Daha and whose son-in-law Raden Wijaya went on to found Majapahit. He notes that the Chinese and Javanese accounts are corroborated by contemporary inscriptions (p. 157).
+Blagden argues that Maxwell's identification of the name as *Haji Kadir Nakhoda* (a ship's captain who had performed the pilgrimage) is incorrect. Citing Groeneveldt's translation of the relevant passage, he demonstrates that "Haji Ka-ta-na-ka-la" was a ruling prince of [Java](./java.md) who had been killed by the prince of Kalang, and that the term "Haji" here represents the old Javanese word *haji* meaning "king," not the [Malay](./malay.md)-Arabic term for a pilgrim (p. 156). Blagden identifies the figure as Kertanagara, the last ruling prince of Tumapel, who was dethroned by Jaya Katong of Daha and whose son-in-law Raden Wijaya went on to found [Majapahit](./majapahit.md). He notes that the [Chinese](./chinese.md) and Javanese accounts are corroborated by contemporary [inscriptions](./inscriptions.md) (p. 157).
 
 ## References
 <!-- Grounded occurrences and citations -->

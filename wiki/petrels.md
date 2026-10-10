@@ -18,7 +18,7 @@ published: false
 
 ## MBRAS Sources
 
-- [F.N. Chasen](./fn-chasen.md) (1923). [A rare petrel](./a-rare-petrel.md). *JMBRAS* 1: 255–256
+- [F.N. Chasen](./fn-chasen.md) (1923). [A rare petrel](./a-rare-petrel.md). *[JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* 1: 255–256
 
 ## References
 <!-- Grounded occurrences and citations -->

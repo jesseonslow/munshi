@@ -27,7 +27,7 @@ jstor: https://www.jstor.org/stable/41561488
 
 # Ethnological excursions in the Malay Peninsula: November 1874–October 1875
 
-A preliminary communication by N. von Mikluho-Maclay reporting on ethnological fieldwork conducted in the Malay Peninsula between November 1874 and October 1875, published in JSBRAS Vol. 2 (1878), pp. 205–221.
+A preliminary communication by [N. von Mikluho-Maclay](./n-von-mikluho-maclay.md) reporting on ethnological fieldwork conducted in the [Malay](./malay.md) Peninsula between November 1874 and October 1875, published in [JSBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md) Vol. 2 (1878), pp. 205–221.
 
 ## Summary
 

@@ -25,11 +25,11 @@ publication_type: journal_article
 
 # The rice industry of Malaya: a historical survey
 
-This article by Cheng Siok-hwa, published in the *Journal of the Malaysian Branch of the Royal Asiatic Society* (Vol. 42, No. 2, 1969, pp. 130–144), presents a historical survey of the rice industry in Malaya.
+This article by [Cheng Siok-hwa](./cheng-siok-hwa.md), published in the *[Journal of the Malaysian Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* (Vol. 42, No. 2, 1969, pp. 130–144), presents a historical survey of the rice industry in [Malaya](./malaya.md).
 
 ## Summary
 
-The piece is a 15-page historical survey tracing the development of rice cultivation and the rice industry in Malaya. As a historical survey, it likely covers the evolution of paddy farming from early settlement through colonial and post-independence periods, addressing themes such as land use, production methods, and the economic role of rice in the Malayan economy. The full text of the article is not available in the provided source fragment, which contains only the journal masthead.
+The piece is a 15-page historical survey tracing the development of [rice cultivation](./rice-cultivation.md) and the rice industry in Malaya. As a historical survey, it likely covers the evolution of paddy farming from early settlement through colonial and post-independence periods, addressing themes such as land use, production methods, and the economic role of rice in the Malayan economy. The full text of the article is not available in the provided source fragment, which contains only the journal masthead.
 
 ## References
 <!-- Grounded occurrences and citations -->

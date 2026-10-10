@@ -137,7 +137,7 @@ articles:
 
 # JSBRAS No. 39 (June 1903)
 
-**Series:** Journal of the Straits Branch of the Royal Asiatic Society  
+**Series:** [Journal of the Straits Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** June 1903
 
 ## Table of Contents

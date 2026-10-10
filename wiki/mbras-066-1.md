@@ -101,9 +101,10 @@ articles:
   pages: 94–97
   is_review: true
 ---
+
 # JMBRAS Vol. 66, Part 1 (June 1993)
 
-**Series:** Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society  
+**Series:** Journal of the Malayan/[Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** June 1993
 
 ## Table of Contents

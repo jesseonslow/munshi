@@ -25,9 +25,9 @@ publication_type: note
 
 # A XVIIth century Malay cannon in London
 
-C.O. Blagden's short note documents a brass cannon captured by the British in the Third Burma War, now in the garden of Chelsea Hospital, and transcribes its eleven inlaid inscriptions in Arabic and Malay (pp. 122–124).
+[C.O. Blagden](./co-blagden.md)'s short note documents a brass [cannon](./cannon.md) captured by the British in the Third [Burma](./burma.md) War, now in the garden of Chelsea Hospital, and transcribes its eleven inlaid [inscriptions](./inscriptions.md) in Arabic and [Malay](./malay.md) (pp. 122–124).
 
-The cannon bears a dated inscription identifying it as the property of "Sultan Sulaiman Shah the Victorious King," dated Monday 4 Dhu'l-qa'dah A.H. 1063 (26 September 1653), though Blagden notes this ruler remains unidentified (p. 123). The Malay inscriptions include devotional verses, a maker's colophon, and a warning to the gunner; the final inscription names the engraver as "Tun Juma'at Abu Mendus" of Singgora (p. 124). A separate Burmese engraving records the gun's capture at the conquest of Dwarawati (Siam) in 1128 Burmese era (1766 A.D.), corresponding to the Burmese invasion that captured Ayuthia in 1767 (p. 122).
+The [cannon](./cannon.md) bears a dated inscription identifying it as the property of "[Sultan Sulaiman](./sultan-alauddin-sulaiman-shah.md) Shah the Victorious King," dated Monday 4 Dhu'l-qa'dah A.H. 1063 (26 September 1653), though Blagden notes this ruler remains unidentified (p. 123). The [Malay](./malay.md) [inscriptions](./inscriptions.md) include devotional verses, a maker's colophon, and a warning to the gunner; the final inscription names the engraver as "Tun Juma'at Abu Mendus" of Singgora (p. 124). A separate Burmese engraving records the gun's capture at the conquest of Dwarawati ([Siam](./thailand.md)) in 1128 Burmese era (1766 A.D.), corresponding to the Burmese invasion that captured Ayuthia in 1767 (p. 122).
 
 ## References
 <!-- Grounded occurrences and citations -->

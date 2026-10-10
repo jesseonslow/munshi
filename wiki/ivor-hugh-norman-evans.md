@@ -16,14 +16,13 @@ status: stub
 published: false
 ---
 
-
 # Ivor Hugh Norman Evans
 
 <!-- Synthesis engine: Insert introductory synthesis for Ivor Hugh Norman Evans here -->
 
 ## MBRAS Sources
 
-- [M.W.F. Tweedie](./michael-wilmer-forbes-tweedie.md) (1960). [Ivor Hugh Norman Evans. Obituary](./ivor-hugh-norman-evans-obituary.md). *JMBRAS* 33: 109
+- [M.W.F. Tweedie](./michael-wilmer-forbes-tweedie.md) (1960). [Ivor Hugh Norman Evans. Obituary](./ivor-hugh-norman-evans-obituary.md). *[JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* 33: 109
 
 ## Bibliography
 - (1923) [Two Malay methods of divination](./two-malay-methods-of-divination.md). *JMBRAS* 1(1): 247

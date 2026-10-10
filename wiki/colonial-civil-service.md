@@ -21,7 +21,7 @@ published: false
 
 ## MBRAS Sources
 
-- [J. Kathirithamby– Wells](./j-kathirithamby-wells.md) (1969). [Early Singapore and the inception of a British administrative tradition in the Straits Settlements (1819–32](./early-singapore-and-the-inception-of-a-british-administrativ.md). *JMBRAS* 42(2): 48–73
+- [J. Kathirithamby– Wells](./j-kathirithamby-wells.md) (1969). [Early Singapore and the inception of a British administrative tradition in the Straits Settlements (1819–32](./early-singapore-and-the-inception-of-a-british-administrativ.md). *[JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* 42(2): 48–73
 
 ## References
 <!-- Grounded occurrences and citations -->

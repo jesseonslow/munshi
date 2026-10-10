@@ -21,7 +21,7 @@ published: false
 
 ## MBRAS Sources
 
-- Barlow, H.S. Obituary. MB 73(2)
+- [Barlow, H.S](./henry-sackville-barlow.md). Obituary. MB 73(2)
 
 ## References
 <!-- Grounded occurrences and citations -->

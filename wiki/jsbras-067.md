@@ -90,7 +90,7 @@ articles:
 
 # JSBRAS No. 67 (December 1914)
 
-**Series:** Journal of the Straits Branch of the Royal Asiatic Society  
+**Series:** [Journal of the Straits Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** December 1914
 
 ## Table of Contents

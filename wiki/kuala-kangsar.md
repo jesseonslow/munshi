@@ -3,7 +3,7 @@ id: kuala-kangsar
 title: Kuala Kangsar
 canonical_name: Kuala Kangsar
 aliases: []
-broader: 
+broader:
 - Perak
 narrower: []
 related: []
@@ -19,7 +19,7 @@ published: false
 
 ## MBRAS Sources
 
-- [Abdul Majid bin Haji Zainuddin Haji](./abdul-majid-bin-haji-zainuddin-haji.md) (1925). [A peculiar custom in Kuala Kangsar](./a-peculiar-custom-in-kuala-kangsar.md). *JMBRAS* 3: 85–86
+- [Abdul Majid bin Haji Zainuddin Haji](./abdul-majid-bin-haji-zainuddin-haji.md) (1925). [A peculiar custom in Kuala Kangsar](./a-peculiar-custom-in-kuala-kangsar.md). *[JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* 3: 85–86
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -16,14 +16,13 @@ status: stub
 published: false
 ---
 
-
 # Henry Robert Kelham
 
 <!-- Synthesis engine: Insert introductory synthesis for Henry Robert Kelham here -->
 
 ## MBRAS Sources
 
-- [H.P. Bryson](./hp-bryson.md) (1956). [Lieut. H.R. Kelham](./lieut-hr-kelham.md). *JMBRAS* 29: 182–183
+- [H.P. Bryson](./hp-bryson.md) (1956). [Lieut. H.R. Kelham](./lieut-hr-kelham.md). *[JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* 29: 182–183
 
 ## Bibliography
 - (1882) [Ornithological notes made in the Straits Settlements and the western states of the Malay Peninsula](./ornithological-notes-made-in-the-straits-settlements-and-the.md). *JSBRAS* 9: 109–140

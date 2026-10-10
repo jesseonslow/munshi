@@ -271,7 +271,7 @@ articles:
 
 # JSBRAS No. 16 (December 1885)
 
-**Series:** Journal of the Straits Branch of the Royal Asiatic Society  
+**Series:** [Journal of the Straits Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** December 1885
 
 ## Table of Contents

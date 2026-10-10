@@ -26,7 +26,7 @@ jstor: https://www.jstor.org/stable/41561451
 
 # Notes on gutta and caoutchouc in the Malay Peninsula
 
-This is a two-page note by H. J. Murton on the production and trade of gutta-percha and caoutchouc (natural rubber) in the Malay Peninsula, published in the inaugural issue of the *Journal of the Straits Branch of the Royal Asiatic Society* (1878).
+This is a two-page note by H. J. Murton on the production and trade of [gutta-percha](./gutta-percha.md) and caoutchouc (natural rubber) in the [Malay](./malay.md) Peninsula, published in the inaugural issue of the *[Journal of the Straits Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* (1878).
 
 ## Summary
 

@@ -25,7 +25,7 @@ publication_type: journal_article
 
 # Mengap, the song of the Dyak head feast
 
-J. Perham, a missionary and ethnographer working in Sarawak, published this article in the *Journal of the Straits Branch of the Royal Asiatic Society* in 1878, presenting a detailed account of the *Mengap*—the ceremonial song recited at the Sea Dyak head-feast (*Gawe Pala* or *Gawe Burong*). Perham's overarching thesis is that the *Mengap*, though appearing to European ears as "a mere senseless rigmarole," constitutes a coherent mythological narrative in which the recitation of the hero Kling's feast functions as a ritual invocation of Singalang Burong, the war-spirit, who is believed to descend to the actual Dyak house where the feast is held (p. 123).
+[J. Perham](./j-perham.md), a missionary and ethnographer working in [Sarawak](./sarawak.md), published this article in the *[Journal of the Straits Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* in 1878, presenting a detailed account of the *Mengap*—the ceremonial song recited at the Sea Dyak head-feast (*Gawe Pala* or *Gawe Burong*). Perham's overarching thesis is that the *Mengap*, though appearing to [European](./european.md) ears as "a mere senseless rigmarole," constitutes a coherent mythological narrative in which the recitation of the hero Kling's feast functions as a ritual invocation of Singalang Burong, the war-spirit, who is believed to descend to the actual Dyak house where the feast is held (p. 123).
 
 ## Summary
 
@@ -41,17 +41,17 @@ The performance is a full-night affair, beginning at approximately 6 p.m. and co
 - Singalang Burong, described as "the Mars of Sea Dyak mythology," is invoked indirectly through the narrative of Kling's feast; the performer's recitation is understood to cause the spirit to descend to the actual house where the feast is held (p. 124).
 - The "precious ornament" demanded by Dara Inchin Temaga is explicitly identified by Perham as a human head, and the episode is read as a "distinct assertion" that women are the prime movers of head-taking in Dyak society (p. 132).
 - The lullaby sung by Nising's wife functions as a ritual curse on the head-takers' enemies, with the child metaphorically representing the captured head carried about the house; the young Dyak listen to this section with "the greatest keenness and enjoyment" (p. 132).
-- The *bedanjang* blessing ceremony involves the performer touching each individual and invoking specific gifts—strength and war-bravery for men, paddy-luck and beauty for women—mediated through the bird-spirits (p. 134).
-- The full recitation lasts approximately sixteen hours (6 p.m. to 9–10 a.m.) and is performed while the singer walks up and down the long verandah past *pandong* erections bearing war-charms, swords, and spears (pp. 134–135).
+- The *bedanjang* blessing ceremony involves the performer touching each individual and invoking specific gifts—strength and war-bravery for men, paddy-luck and beauty for women—mediated through the bird-[spirits](./spirits.md) (p. 134).
+- The full recitation lasts approximately sixteen hours (6 p.m. to 9–10 a.m.) and is performed while the singer walks up and down the long verandah past *pandong* erections bearing war-[charms](./charms.md), swords, and spears (pp. 134–135).
 
 ### Conclusion
 
-Perham's definitive historical takeaway is that the *Mengap* is not a meaningless incantation but a structured mythological narrative that performs a dual function: it ritually summons the war-spirit Singalang Burong to the feast-house, and it encodes a moral and cosmological justification for head-taking by embedding the human head within a sacred economy of gifts, curses, and blessings. The text thus serves as both a ritual technology and a cultural argument, naturalising violence through the authority of the divine and positioning women as its active agents (pp. 124, 132).
+Perham's definitive historical takeaway is that the *Mengap* is not a meaningless incantation but a structured mythological narrative that performs a dual function: it ritually summons the war-spirit Singalang Burong to the feast-house, and it encodes a moral and cosmological justification for head-taking by embedding the human head within a sacred economy of gifts, curses, and blessings. The text thus serves as both a ritual [technology](./technology.md) and a cultural argument, naturalising violence through the authority of the divine and positioning women as its active agents (pp. 124, 132).
 
 ## Context
 
-- The article was read at a meeting of the Straits Branch of the Royal Asiatic Society on 8 July 1878 and published in JSBRAS Vol. 2 (pp. 123–135); Perham was a Church Missionary Society missionary stationed in Sarawak, where his access to Sea Dyak communities in the Saribus and Balau dialect areas enabled his ethnographic work.
-- The *Mengap* texts Perham records represent one of the earliest European transcriptions of Sea Dyak ceremonial poetry, preserving a fixed ritual register that, as he notes, remains "stationary" while the spoken language continues to evolve (p. 123).
+- The article was read at a meeting of the [Straits Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md) on 8 July 1878 and published in JSBRAS Vol. 2 (pp. 123–135); Perham was a Church Missionary Society missionary stationed in Sarawak, where his access to Sea Dyak communities in the Saribus and Balau [dialect](./dialects-and-dictionaries.md) areas enabled his ethnographic work.
+- The *Mengap* texts Perham records represent one of the earliest European transcriptions of Sea Dyak ceremonial [poetry](./poetry.md), preserving a fixed ritual register that, as he notes, remains "stationary" while the spoken language continues to evolve (p. 123).
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -27,11 +27,11 @@ publication_type: journal_article
 
 # ‘Telling people the simple truth’: the role of strategic propaganda in the Malayan Emergency
 
-This is the front matter for an article by K. Ramakrishna on the role of strategic propaganda during the Malayan Emergency, published in the *Journal of the Malaysian Branch of the Royal Asiatic Society*, Vol. 75, No. 1 (2002), pp. 49–68.
+This is the front matter for an article by [K. Ramakrishna](./k-ramakrishna.md) on the role of strategic propaganda during the Malayan Emergency, published in the *[Journal of the Malaysian Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)*, Vol. 75, No. 1 (2002), pp. 49–68.
 
 ## Summary
 
-The provided text consists solely of the article's front matter, identifying the title, author, and publication details. No body content, abstract, or substantive argument is included in this fragment. The full article, spanning 20 pages, presumably examines how propaganda was deployed as a strategic instrument during the Malayan Emergency (1948–1960), with the title suggesting a focus on communication directed at the rural Malay population.
+The provided text consists solely of the article's front matter, identifying the title, author, and publication details. No body content, abstract, or substantive argument is included in this fragment. The full article, spanning 20 pages, presumably examines how propaganda was deployed as a strategic instrument during the Malayan Emergency (1948–1960), with the title suggesting a focus on communication directed at the rural [Malay](./malay.md) [population](./population.md).
 
 ## References
 <!-- Grounded occurrences and citations -->

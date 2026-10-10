@@ -118,7 +118,7 @@ articles:
 
 # JSBRAS No. 12 (December 1883)
 
-**Series:** Journal of the Straits Branch of the Royal Asiatic Society  
+**Series:** [Journal of the Straits Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** December 1883
 
 ## Table of Contents

@@ -20,7 +20,7 @@ published: false
 
 ## MBRAS Sources
 
-- [Mubin Sheppard](./mubin-sheppard.md) (1978). [In grateful memory of Tan Sri Dato Haji Nik Ahmad Kamil bin Nik Mahmood, President M.B.R.A.S., 1964–1977. Obituary](./in-grateful-memory-of-tan-sri-dato-haji-nik-ahmad-kamil-bin-.md). *JMBRAS* 51: 1–3
+- [Mubin Sheppard](./mubin-sheppard.md) (1978). [In grateful memory of Tan Sri Dato Haji Nik Ahmad Kamil bin Nik Mahmood, President M.B.R.A.S., 1964–1977. Obituary](./in-grateful-memory-of-tan-sri-dato-haji-nik-ahmad-kamil-bin-.md). *[JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* 51: 1–3
 
 ## References
 <!-- Grounded occurrences and citations -->
