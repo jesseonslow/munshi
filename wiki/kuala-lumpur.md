@@ -2,7 +2,11 @@
 id: kuala-lumpur
 title: Kuala Lumpur
 canonical_name: Kuala Lumpur
-aliases: []
+aliases:
+- Kwala Lumpor
+- Kwala Lumpur
+- Q. Lumpoor
+- Qualla Lumpoor
 broader: []
 narrower: []
 related:
