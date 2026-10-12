@@ -72,7 +72,7 @@ articles:
   is_review: false
 - id: jsbras-36-1-p139
   slug: allen-maclean-skinner-in-memoriam
-  title: 'In Memoriam. Allan Maclean Skinner, C. M. G.'
+  title: In Memoriam. Allan Maclean Skinner, C. M. G.
   authors:
   - C.W.S. Kynnersley
   pages: 139–140
@@ -81,7 +81,7 @@ articles:
 
 # JSBRAS No. 36 (July 1901)
 
-**Series:** Journal of the Straits Branch of the Royal Asiatic Society  
+**Series:** [Journal of the Straits Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** July 1901
 
 ## Table of Contents

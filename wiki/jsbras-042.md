@@ -80,7 +80,7 @@ articles:
 
 # JSBRAS No. 42 (February 1905)
 
-**Series:** Journal of the Straits Branch of the Royal Asiatic Society  
+**Series:** [Journal of the Straits Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** February 1905
 
 ## Table of Contents

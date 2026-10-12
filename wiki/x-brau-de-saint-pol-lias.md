@@ -22,7 +22,7 @@ published: false
 
 - (2020) [Tin and its native land. Facsimile reprint](./tin-and-its-native-land-facsimile-reprint.md). *JMBRAS* 93(2): 193–99
 - (2020) [Atché (Sumatra) [Aceh]. . Dyer; with a note P. Kratoska](./atché-sumatra-aceh-dyer-with-a-note-p-kratoska.md). *JMBRAS* 93(2): 205–29
-- (2021) [On the River Pluss: Interior of the Malay Peninsula, X. Brau de Saint-Pol Lias. . Dyer](./on-the-river-pluss-interior-of-the-malay-peninsula-x-brau-de.md). *JMBRAS* 94(1): 159–188
+- (2021) [On the River Pluss: Interior of the Malay Peninsula, X. Brau de Saint-Pol Lias](./on-the-river-pluss-interior-of-the-malay-peninsula-x-brau-de.md). *[JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* 94(1): 159–188
 
 ## References
 <!-- Grounded occurrences and citations -->

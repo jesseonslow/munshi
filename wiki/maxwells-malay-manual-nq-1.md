@@ -5,7 +5,7 @@ title: 'Maxwell’s Malay Manual. NQ 1:'
 canonical_name: 'Maxwell’s _Malay Manual._ NQ 1:'
 type: publication
 authors:
-- Anon (and unidentifiable initials)
+- Anon
 year: 1884
 journal_code: JSBRAS
 volume: 14

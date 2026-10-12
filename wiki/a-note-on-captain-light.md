@@ -25,7 +25,7 @@ publication_type: note
 
 # A note on Captain Light
 
-This is a brief note by C. E. Wurtzburg on Captain Light, published in the Journal of the Malaysian Branch of the Royal Asiatic Society, Vol. 21 (1948), p. 116.
+This is a brief note by C. E. Wurtzburg on Captain Light, published in the [Journal of the Malaysian Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md), Vol. 21 (1948), p. 116.
 
 ## Summary
 

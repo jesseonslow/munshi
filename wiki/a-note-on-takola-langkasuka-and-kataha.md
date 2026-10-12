@@ -26,11 +26,11 @@ jstor: https://www.jstor.org/stable/41559494
 
 # A note on Takola, Langkasuka and Kataha
 
-A brief note by H.G.Q. Wales in which he revises his earlier views on three Malayan place-names—Takola, Langkasuka, and Kataha—in light of Sir Roland Braddell's recent contributions to the journal.
+A brief note by [H.G.Q. Wales](./horace-geoffrey-quaritch-wales.md) in which he revises his earlier views on three Malayan place-names—Takola, [Langkasuka](./langkasuka.md), and Kataha—in light of Sir [Roland Braddell](./dato-sir-roland-st-john-braddell.md)'s recent contributions to the [journal](./journal.md).
 
 ## Summary
 
-Wales acknowledges that Braddell has raised Malayan historical geography to a new critical standard and proceeds to accept three of his identifications: Trang (rather than Takuapa) as the probable site of Takola; Langkasuka as essentially an east coast state; and, consequently, Kataha (Kadaram) as situated in Kedah, traceable continuously from the fourth to the fourteenth century (p. 152). He explains that his former objection—that two cities could not have existed side by side in Kedah—dissolves once Langkasuka is relocated to the east coast, and notes that his own further study has resolved his secondary reservation about the modesty of the Kedah archaeological remains (p. 153).
+Wales acknowledges that Braddell has raised Malayan historical geography to a new critical standard and proceeds to accept three of his identifications: Trang (rather than Takuapa) as the probable site of Takola; Langkasuka as essentially an east coast state; and, consequently, Kataha (Kadaram) as situated in [Kedah](./kedah.md), traceable continuously from the fourth to the fourteenth century (p. 152). He explains that his former objection—that two cities could not have existed side by side in Kedah—dissolves once [Langkasuka](./langkasuka.md) is relocated to the east coast, and notes that his own further study has resolved his secondary reservation about the modesty of the [Kedah](./kedah.md) archaeological remains (p. 153).
 
 The note closes with a short appendix, "A Note on the 'Four Main Waves'," in which Wales replies to a criticism by Prof. Nilakanta Sastri, arguing that since the cultural movements in question developed at different times and in different places, they necessarily constituted distinct waves of influence (p. 153).
 

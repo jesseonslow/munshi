@@ -95,7 +95,7 @@ articles:
   slug: in-memoriam-kg-tregonning
   title: 'In memoriam: K.G. Tregonning'
   authors:
-  - Anon (and unidentifiable initials)
+  - Anon
   pages: 157–159
   is_review: false
 - id: jmbras-88-2-p161
@@ -159,9 +159,10 @@ articles:
   pages: 184–186
   is_review: true
 ---
+
 # JMBRAS Vol. 88, Part 2 (December 2015)
 
-**Series:** Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society  
+**Series:** Journal of the Malayan/[Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** December 2015
 
 ## Table of Contents

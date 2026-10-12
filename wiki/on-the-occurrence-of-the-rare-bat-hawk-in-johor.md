@@ -25,11 +25,11 @@ publication_type: note
 
 # On the occurrence of the rare bat-hawk in Johor
 
-This brief note by H. J. Kelsall records the occurrence of a rare bat-hawk specimen in Johor, now held in the Raffles Museum.
+This brief note by H. J. Kelsall records the occurrence of a rare bat-hawk specimen in [Johor](./johor.md), now held in the [Raffles](./stamford-raffles.md) Museum.
 
 ## Summary
 
-Kelsall notes that the bat-hawk has been recorded from Tenasserim, the Thoungyeen Valley, Malacca, Borneo, and New Guinea, and suggests its apparent scarcity is explained by crepuscular habits. He describes the bird's distinctive morphology—a remarkably narrow carinated bill, large eyes, a very wide gape, and an elongated occipital crest—and mentions that an allied African species feeds on bats (p. 172). The Johor specimen measures about 18 inches in length, is dark amber brown (almost black in parts) with a white throat and upper breast, and is the only specimen of the species in the Raffles Museum (p. 172).
+Kelsall notes that the bat-hawk has been recorded from Tenasserim, the Thoungyeen Valley, [Malacca](./melaka.md), [Borneo](./borneo.md), and [New Guinea](./new-guinea.md), and suggests its apparent scarcity is explained by crepuscular habits. He describes the bird's distinctive morphology—a remarkably narrow carinated bill, large eyes, a very wide gape, and an elongated occipital crest—and mentions that an allied African species feeds on [bats](./bats.md) (p. 172). The Johor specimen measures about 18 inches in length, is dark amber brown (almost black in parts) with a white throat and upper breast, and is the only specimen of the species in the Raffles Museum (p. 172).
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -117,7 +117,7 @@ published: false
 | **81** | SB | 81 | — | March | 1920 | [SB 81](./jsbras-081.md) |
 | **82** | SB | 82 | — | September | 1920 | [SB 82](./jsbras-082.md) |
 | **83** | SB | 83 | — | April | 1921 | [SB 83](./jsbras-083.md) |
-| **—** | SB | Special | — | September | 1921 | [SB Special](./jsbras-special-1921.md) - Merrill Bornean Plants Special Number |
+| **—** | SB | Special | — | September | 1921 | [SB Special](./jsbras-special-1921.md) - Merrill Bornean [Plants](./plants.md) Special Number |
 | **84** | SB | 84 | — | November | 1921 | [SB 84](./jsbras-084.md) |
 | **85** | SB | 85 | — | March | 1922 | [SB 85](./jsbras-085.md) |
 | **86** | SB | 86 | — | November | 1922 | [SB 86](./jsbras-086.md) - Final JSBRAS volume |
@@ -180,7 +180,7 @@ published: false
 | **143** | MB | 20 | 2 | December | 1947 | [MB 20(2)](./mbras-020-2.md) |
 | **144** | MB | 21 | 1 | April | 1948 | [MB 21(1)](./mbras-021-1.md) |
 | **145** | MB | 21 | 2 | September | 1948 | [MB 21(2)](./mbras-021-2.md) |
-| **146** | MB | 21 | 3 | October | 1948 | [MB 21(3)](./mbras-021-3.md) - Gibson-Hill 25-yr Index |
+| **146** | MB | 21 | 3 | October | 1948 | [MB 21(3)](./mbras-021-3.md) - [Gibson-Hill](./carl-alexander-gibson-hill.md) 25-yr [Index](./index.md) |
 | **147** | MB | 22 | 1 | March | 1949 | [MB 22(1)](./mbras-022-1.md) |
 | **148** | MB | 22 | 2 | May | 1949 | [MB 22(2)](./mbras-022-2.md) |
 | **149** | MB | 22 | 3 | June | 1949 | [MB 22(3)](./mbras-022-3.md) |
@@ -196,21 +196,21 @@ published: false
 | **159** | MB | 25 | 2 & 3 | October | 1952 | [MB 25(2-3)](./mbras-025-2-3.md) - Joint issue |
 | **160** | MB | 25 | 4 & 5 | December | 1952 | [MB 25(4-5)](./mbras-025-4-5.md) - Joint issue |
 | **161** | MB | 26 | 1 | July | 1953 | [MB 26(1)](./mbras-026-1.md) |
-| **162** | MB | 26 | 2 | October | 1953 | [MB 26(2)](./mbras-026-2.md) - Monograph: Stone Age |
+| **162** | MB | 26 | 2 | October | 1953 | [MB 26(2)](./mbras-026-2.md) - Monograph: [Stone Age](./stone-age.md) |
 | **163** | MB | 26 | 3 | November | 1953 | [MB 26(3)](./mbras-026-3.md) - Capt. Speedy |
 | **164** | MB | 26 | 4 | December | 1953 | [MB 26(4)](./mbras-026-4.md) - Cambridge Expedition |
 | **165** | MB | 27 | 1 | May | 1954 | [MB 27(1)](./mbras-027-1.md) |
 | **166** | MB | 27 | 2 | June | 1954 | [MB 27(2)](./mbras-027-2.md) - Fishing Methods |
-| **167** | MB | 27 | 3 | July | 1954 | [MB 27(3)](./mbras-027-3.md) - Sungei Ujong Law |
-| **168** | MB | 27 | 4 | November | 1954 | [MB 27(4)](./mbras-027-4.md) - Hugh Low Journal (c1955) |
+| **167** | MB | 27 | 3 | July | 1954 | [MB 27(3)](./mbras-027-3.md) - [Sungei Ujong](./sungei-ujong.md) Law |
+| **168** | MB | 27 | 4 | November | 1954 | [MB 27(4)](./mbras-027-4.md) - [Hugh Low](./sir-hugh-low.md) Journal (c1955) |
 | **169** | MB | 28 | 1 | March | 1955 | [MB 28(1)](./mbras-028-1.md) |
-| **170** | MB | 28 | 2 | May | 1955 | [MB 28(2)](./mbras-028-2.md) - Johore Lama |
-| **171** | MB | 28 | 3 | June | 1955 | [MB 28(3)](./mbras-028-3.md) - Hikayat Abdullah (Hill) |
-| **172** | MB | 28 | 4 | August | 1955 | [MB 28(4)](./mbras-028-4.md) - Kuala Lumpur 1880–95 |
+| **170** | MB | 28 | 2 | May | 1955 | [MB 28(2)](./mbras-028-2.md) - [Johore](./johor.md) Lama |
+| **171** | MB | 28 | 3 | June | 1955 | [MB 28(3)](./mbras-028-3.md) - [Hikayat Abdullah](./hikayat-abdullah.md) (Hill) |
+| **172** | MB | 28 | 4 | August | 1955 | [MB 28(4)](./mbras-028-4.md) - [Kuala Lumpur](./kuala-lumpur.md) 1880–95 |
 | **173** | MB | 29 | 1 | May | 1956 | [MB 29(1)](./mbras-029-1.md) - Issue (1) |
-| **174** | MB | 29 | 2 | May | 1956 | [MB 29(2)](./mbras-029-2.md) - Metal Age (Issue 2) |
+| **174** | MB | 29 | 2 | May | 1956 | [MB 29(2)](./mbras-029-2.md) - [Metal Age](./metal-age.md) (Issue 2) |
 | **175** | MB | 29 | 3 | August | 1956 | [MB 29(3)](./mbras-029-3.md) |
-| **176** | MB | 29 | 4 | — | 1956 | [MB 29(4)](./mbras-029-4.md) - Keris (pub. c1970) |
+| **176** | MB | 29 | 4 | — | 1956 | [MB 29(4)](./mbras-029-4.md) - [Keris](./keris.md) (pub. c1970) |
 | **177** | MB | 30 | 1 | May | 1957 | [MB 30(1)](./mbras-030-1.md) |
 | **178** | MB | 30 | 2 | August | 1957 | [MB 30(2)](./mbras-030-2.md) |
 | **179** | MB | 30 | 3 | October | 1957 | [MB 30(3)](./mbras-030-3.md) - British Policy 1824–71 |
@@ -224,10 +224,10 @@ published: false
 | **187** | MB | 32 | 3 | August | 1959 | [MB 32(3)](./mbras-032-3.md) - Chinese Names (c1961) |
 | **188** | MB | 32 | 4 | December | 1959 | [MB 32(4)](./mbras-032-4.md) - Handloom (c1962) |
 | **189** | MB | 33 | 1 | May | 1960 | [MB 33(1)](./mbras-033-1.md) - pub. c1964 |
-| **190** | MB | 33 | 2 | June | 1960 | [MB 33(2)](./mbras-033-2.md) - Raja Pasai (c1961) |
-| **191** | MB | 33 | 3 | — | 1960 | [MB 33(3)](./mbras-033-3.md) - British Malaya (c1961) |
+| **190** | MB | 33 | 2 | June | 1960 | [MB 33(2)](./mbras-033-2.md) - Raja [Pasai](./pasai.md) (c1961) |
+| **191** | MB | 33 | 3 | — | 1960 | [MB 33(3)](./mbras-033-3.md) - British [Malaya](./malaya.md) (c1961) |
 | **192** | MB | 33 | 4 | December | 1960 | [MB 33(4)](./mbras-033-4.md) - Trade of S'pore (c1961) |
-| **193** | MB | 34 | 1 | — | 1961 | [MB 34(1)](./mbras-034-1.md) - Clifford Report (c1970) |
+| **193** | MB | 34 | 1 | — | 1961 | [MB 34(1)](./mbras-034-1.md) - [Clifford](./sir-hugh-charles-clifford.md) Report (c1970) |
 | **194** | MB | 34 | 2 | — | 1961 | [MB 34(2)](./mbras-034-2.md) - pub. c1962 |
 | **195** | MB | 34 | 3 & 4 | — | 1961 | [MB 34(3-4)](./mbras-034-3-4.md) - Joint issue (c1961) |
 | **197** | MB | 35 | 1 | — | 1962 | [MB 35(1)](./mbras-035-1.md) - pub. c1971 |
@@ -235,8 +235,8 @@ published: false
 | **199** | MB | 35 | 3 | — | 1962 | [MB 35(3)](./mbras-035-3.md) - Bibliography (2) |
 | **200** | MB | 35 | 4 | December | 1962 | [MB 35(4)](./mbras-035-4.md) - Anderson Reprint |
 | **201** | MB | 36 | 1 | May | 1963 | [MB 36(1)](./mbras-036-1.md) - pub. c1970 |
-| **202** | MB | 36 | 2 | — | 1963 | [MB 36(2)](./mbras-036-2.md) - Police History (c1970) |
-| **203** | MB | 36 | 3 | December | 1963 | [MB 36(3)](./mbras-036-3.md) - Mammals of Borneo |
+| **202** | MB | 36 | 2 | — | 1963 | [MB 36(2)](./mbras-036-2.md) - [Police](./police.md) History (c1970) |
+| **203** | MB | 36 | 3 | December | 1963 | [MB 36(3)](./mbras-036-3.md) - [Mammals of Borneo](./mammals-of-borneo.md) |
 | **204** | MB | 36 | 4 | July | 1963 | [MB 36(4)](./mbras-036-4.md) - Final Malayan Branch issue |
 | **205** | MB | 37 | 1 | July | 1964 | [MB 37(1)](./mbras-037-1.md) - First Malaysian Branch issue |
 | **206** | MB | 37 | 2 | December | 1964 | [MB 37(2)](./mbras-037-2.md) |
@@ -248,7 +248,7 @@ published: false
 | **212** | MB | 40 | 2 | December | 1967 | [MB 40(2)](./mbras-040-2.md) - pub. c1968 |
 | **213** | MB | 41 | 1 | July | 1968 | [MB 41(1)](./mbras-041-1.md) |
 | **214** | MB | 41 | 2 | December | 1968 | [MB 41(2)](./mbras-041-2.md) |
-| **215** | MB | 42 | 1 | August | 1969 | [MB 42(1)](./mbras-042-1.md) - Singapore 150th Issue |
+| **215** | MB | 42 | 1 | August | 1969 | [MB 42(1)](./mbras-042-1.md) - [Singapore](./singapore.md) 150th Issue |
 | **216** | MB | 42 | 2 | December | 1969 | [MB 42(2)](./mbras-042-2.md) |
 | **217** | MB | 43 | 1 | July | 1970 | [MB 43(1)](./mbras-043-1.md) |
 | **218** | MB | 43 | 2 | June | 1972 | [MB 43(2)](./mbras-043-2.md) - Nominal 1970 |
@@ -310,7 +310,7 @@ published: false
 | **274** | MB | 71 | 1 | June | 1998 | [MB 71(1)](./mbras-071-1.md) |
 | **275** | MB | 71 | 2 | December | 1998 | [MB 71(2)](./mbras-071-2.md) |
 | **276** | MB | 72 | 1 | June | 1999 | [MB 72(1)](./mbras-072-1.md) |
-| **277** | MB | 72 | 2 | December | 1999 | [MB 72(2)](./mbras-072-2.md) - Gullick Festschrift |
+| **277** | MB | 72 | 2 | December | 1999 | [MB 72(2)](./mbras-072-2.md) - [Gullick](./john-michael-gullick.md) Festschrift |
 | **278** | MB | 73 | 1 | June | 2000 | [MB 73(1)](./mbras-073-1.md) |
 | **279** | MB | 73 | 2 | December | 2000 | [MB 73(2)](./mbras-073-2.md) |
 | **280** | MB | 74 | 1 | June | 2001 | [MB 74(1)](./mbras-074-1.md) |
@@ -330,7 +330,7 @@ published: false
 | **294** | MB | 81 | 1 | June | 2008 | [MB 81(1)](./mbras-081-1.md) |
 | **295** | MB | 81 | 2 | December | 2008 | [MB 81(2)](./mbras-081-2.md) |
 | **296** | MB | 82 | 1 | June | 2009 | [MB 82(1)](./mbras-082-1.md) |
-| **297** | MB | 82 | 2 | December | 2009 | [MB 82(2)](./mbras-082-2.md) - Penang Chinese Issue |
+| **297** | MB | 82 | 2 | December | 2009 | [MB 82(2)](./mbras-082-2.md) - [Penang](./penang.md) [Chinese](./chinese.md) Issue |
 | **298** | MB | 83 | 1 | June | 2010 | [MB 83(1)](./mbras-083-1.md) |
 | **299** | MB | 83 | 2 | December | 2010 | [MB 83(2)](./mbras-083-2.md) |
 | **300** | MB | 84 | 1 | June | 2011 | [MB 84(1)](./mbras-084-1.md) |

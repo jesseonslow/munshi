@@ -15,14 +15,13 @@ status: stub
 published: false
 ---
 
-
 # Francis Edward Treloar
 
 <!-- Synthesis engine: Insert introductory synthesis for Francis Edward Treloar here -->
 
 ## MBRAS Sources
 
-- McKinnon, E.E. Obituary. MB 53(2)
+- [McKinnon, E.E](./ee-mckinnon.md). Obituary. MB 53(2)
 
 ## Bibliography
 - (1968) [Chemical analysis of some metal objects from Chandi Bukit Batu Pahat, Kedah: suggested origin and date](./chemical-analysis-of-some-metal-objects-from-chandi-bukit-ba.md). *JMBRAS* 41(1): 193–198

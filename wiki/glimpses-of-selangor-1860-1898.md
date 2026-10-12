@@ -27,10 +27,10 @@ source_path: ../sources/appendix.md
 - Foreword
 - Introduction
 - “A Careless Heathen Philoshopher” 1860 –1898 JMBRAS 26 (1)
-- “Syers and the Selangor Police” 1875 – 1887 JMBRAS 51 (2)
-- “The Bloomfield Douglas Diaries” 1876 – 1882 JMBRAS 48 (2)
-- “Emily Innes” 1876 – 1882 JMBRAS 55 (2)
-- “Tunku Kudin in Selangor” 1868 – 1878 JMBRAS 59 (2)
+- “Syers and the Selangor [Police](./police.md)” 1875 – 1887 JMBRAS 51 (2)
+- “The [Bloomfield Douglas](./william-bloomfield-douglas.md) Diaries” 1876 – 1882 JMBRAS 48 (2)
+- “[Emily Innes](./emily-innes.md)” 1876 – 1882 JMBRAS 55 (2)
+- “[Tunku Kudin](./tunku-dhiauddin-ibni-sultan-zainal-rashid-i.md) in [Selangor](./selangor.md)” 1868 – 1878 [JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md) 59 (2)
 
 ## Summary
 <!-- Synthesis engine: Insert chapter summaries or overview here -->

@@ -17,7 +17,7 @@ email: john.wilson@liverpoolmuseums.org.uk
 
 ## Biography
 
-John-James Wilson holds a PhD in Zoology and MSc in Advanced Methods in Taxonomy and Biodiversity. He was Senior Lecturer in Ecology and Biodiversity and Assistant Curator of the Museum of Zoology at the University of Malaya, Kuala Lumpur, Malaysia, between 2012 and 2016. He is currently Curator of Vertebrate Zoology at National Museums Liverpool, United Kingdom.
+John-James Wilson holds a PhD in Zoology and MSc in Advanced Methods in Taxonomy and Biodiversity. He was Senior Lecturer in Ecology and Biodiversity and Assistant Curator of the Museum of Zoology at the University of [Malaya](./malaya.md), [Kuala Lumpur](./kuala-lumpur.md), [Malaysia](./malaysia.md), between 2012 and 2016. He is currently Curator of Vertebrate [Zoology](./zoology.md) at National [Museums](./museums.md) Liverpool, United Kingdom.
 
 ## Bibliography
 - (2021) [Colonial birding in the Thai-Malay Peninsula: Birds from the Selangor Museum now in World Museum, Liverpool](./colonial-birding-in-the-thai-malay-peninsula-birds-from-the-.md). *JMBRAS* 94(2): 121–139

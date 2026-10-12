@@ -25,11 +25,11 @@ publication_type: note
 
 # Trengganu royal family
 
-A brief note by H. P. Bryson providing local Malay epithets for several sultans of Trengganu, prompted by a reference in Dr. Winstedt's earlier article (p. 253).
+A brief note by H. P. Bryson providing local [Malay](./malay.md) epithets for several sultans of [Trengganu](./terengganu.md), prompted by a reference in Dr. Winstedt's earlier article (p. 253).
 
 ## Summary
 
-Bryson identifies the speech impediment of one son of Sultan Mansur, explaining that the local name "Yam-Tuan Telor" corresponds to the word *pelet* used in the *Tuhfat at-Nafis*. He then lists local names for subsequent rulers: Sultan Zainal-Abidin (asc. 1793, d. 1808) as *Marhum Masjid* or *Marhum Mata Merah*; his son Sultan Ahmad as *Marhum Parit*; 'Abdu'r-Rahman Shah as *Marhum Surau*; Sultan Daud (r. three weeks, 1831) as *Marhum Kampong Daik*; and Sultan Zainal-Abidin (1881–1918) as *Marhum Haji* (p. 253).
+Bryson identifies the speech impediment of one son of Sultan Mansur, explaining that the local name "Yam-Tuan Telor" corresponds to the word *pelet* used in the *Tuhfat at-Nafis*. He then lists local names for subsequent rulers: Sultan Zainal-Abidin (asc. 1793, d. 1808) as *Marhum Masjid* or *Marhum Mata Merah*; his son Sultan [Ahmad](./ahmad.md) as *Marhum Parit*; 'Abdu'r-Rahman Shah as *Marhum Surau*; Sultan Daud (r. three weeks, 1831) as *Marhum Kampong Daik*; and Sultan Zainal-Abidin (1881–1918) as *Marhum Haji* (p. 253).
 
 ## References
 <!-- Grounded occurrences and citations -->

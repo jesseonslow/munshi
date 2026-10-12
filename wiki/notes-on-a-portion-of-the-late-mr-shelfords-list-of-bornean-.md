@@ -27,11 +27,11 @@ publication_type: note
 
 # Notes on a portion of the late Mr. Shelford’s list of Bornean butterflies, Part 1, published in the Society’s journal No. 41
 
-This note by J. C. Moulton, Curator of the Sarawak Museum, provides taxonomic revisions to a portion of R. Shelford's 1904–1905 list of Bornean butterflies, specifically addressing the subfamily Amathusiinae and a single Discophorinae entry (p. 13).
+This note by [J. C. Moulton](./john-coney-moulton.md), Curator of the [Sarawak](./sarawak.md) Museum, provides taxonomic revisions to a portion of R. Shelford's 1904–1905 list of Bornean [butterflies](./butterflies.md), specifically addressing the subfamily Amathusiinae and a single Discophorinae entry (p. 13).
 
 ## Summary
 
-Moulton explains that subsequent works on Eastern butterflies, particularly Stichel's *Genera Insectorum* (1905–6), have necessitated updating Shelford's original list. The present paper revises the genus *Amathusia* (including the subspecies *phidippus phidippus* f. *diluta* and *schonbergi borneensis*), *Amathuxidia amythaon ottomana*, *Thaumantis noureddin chatra*, *Zeuxidia amethystus wallacei*, *Zeuxidia doubledaii*, *Zeuxidia aurelia aureliana* (noted as a great rarity from Lawas, Malinau and Paku), *Thauria aliris*, *Faunis phaon*, *Faunis kirata*, *Taenaris horsfieldii occulta*, and *Enispe euthymius milvus* (confined to Mt. Kina Balu) (pp. 13–18). For each entry, Moulton provides the original description, Shelford's catalogue number, and distributional notes for Borneo relative to the wider range.
+Moulton explains that subsequent works on Eastern butterflies, particularly Stichel's *Genera Insectorum* (1905–6), have necessitated updating Shelford's original list. The present paper revises the genus *Amathusia* (including the subspecies *phidippus phidippus* f. *diluta* and *schonbergi borneensis*), *Amathuxidia amythaon ottomana*, *Thaumantis noureddin chatra*, *Zeuxidia amethystus wallacei*, *Zeuxidia doubledaii*, *Zeuxidia aurelia aureliana* (noted as a great rarity from Lawas, Malinau and Paku), *Thauria aliris*, *Faunis phaon*, *Faunis kirata*, *Taenaris horsfieldii occulta*, and *Enispe euthymius milvus* (confined to Mt. Kina Balu) (pp. 13–18). For each entry, Moulton provides the original description, Shelford's catalogue number, and distributional notes for [Borneo](./borneo.md) relative to the wider range.
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -62,9 +62,10 @@ articles:
   pages: 157–160
   is_review: false
 ---
+
 # JSBRAS No. 5 (June 1880)
 
-**Series:** Journal of the Straits Branch of the Royal Asiatic Society  
+**Series:** [Journal of the Straits Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** June 1880
 
 ## Table of Contents

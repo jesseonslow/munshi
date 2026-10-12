@@ -100,7 +100,7 @@ articles:
 
 # JSBRAS No. 32 (June 1899)
 
-**Series:** Journal of the Straits Branch of the Royal Asiatic Society  
+**Series:** [Journal of the Straits Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** June 1899
 
 ## Table of Contents

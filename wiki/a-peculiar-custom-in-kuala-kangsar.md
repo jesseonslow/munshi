@@ -26,11 +26,11 @@ jstor: https://www.jstor.org/stable/41560433
 
 # A peculiar custom in Kuala Kangsar
 
-This short note by Haji Abdul Majid bin Haji Zainuddin, published in JMBRAS Vol. 3, No. 1 (1925), describes an anonymous gift-giving custom practised in Kuala Kangsar.
+This short note by Haji Abdul Majid bin Haji Zainuddin, published in [JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md) Vol. 3, No. 1 (1925), describes an anonymous gift-giving custom practised in [Kuala Kangsar](./kuala-kangsar.md).
 
 ## Summary
 
-The custom involves one family sending presents to another, accompanied by a letter written in *sha'ir* or *pantuns* praising the receiving family and recounting their good deeds to the village community (p. 86). It is considered a disgrace if the receiving family can identify the senders, as courtesy then obliges them to make a return gift. However, if the receiving family fails to identify the senders but succeeds in catching them before they leave, the captured party is humiliated by having their faces smeared with soot and being made to eat their own presents in the presence of the receiving family (p. 86). The cycle is reciprocal: a family that must send a return gift is subject to the same treatment if caught in the act.
+The custom involves one [family](./family.md) sending presents to another, accompanied by a letter written in *sha'ir* or *pantuns* praising the receiving family and recounting their good deeds to the village community (p. 86). It is considered a disgrace if the receiving family can identify the senders, as courtesy then obliges them to make a return gift. However, if the receiving family fails to identify the senders but succeeds in catching them before they leave, the captured party is humiliated by having their faces smeared with soot and being made to eat their own presents in the presence of the receiving family (p. 86). The cycle is reciprocal: a [family](./family.md) that must send a return gift is subject to the same treatment if caught in the act.
 
 ## References
 <!-- Grounded occurrences and citations -->

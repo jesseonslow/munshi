@@ -26,11 +26,11 @@ jstor: https://www.jstor.org/stable/41559799
 
 # Malay names of molluscs
 
-This short note by A. W. Hamilton presents a list of twenty-three Malay names for local mollusc species, compiled during a residence in Singapore and identified by comparison with named material in the Raffles Museum (p. 135).
+This short note by A. W. Hamilton presents a list of twenty-three [Malay](./malay.md) names for local mollusc species, compiled during a residence in [Singapore](./singapore.md) and identified by comparison with named material in the [Raffles](./stamford-raffles.md) Museum (p. 135).
 
 ## Summary
 
-The list pairs each Malay vernacular name with its corresponding scientific name, spanning bivalves (e.g., *Tridacna ferruginea*, *Pinna vexillum*, *Solen malaccensis*), gastropods (e.g., *Turbo ticaonicus*, *Murex martinianus*, *Trochus maculatus*), and other groups. Where Dr. R. O. Winstedt had independently recorded the same name for the same species, the letter "W" is appended to the Malay name (p. 135). A footnote clarifies that in one instance Winstedt applied the same name to a different species (p. 136).
+The list pairs each Malay vernacular name with its corresponding scientific name, spanning bivalves (e.g., *Tridacna ferruginea*, *Pinna vexillum*, *Solen malaccensis*), gastropods (e.g., *Turbo ticaonicus*, *Murex martinianus*, *Trochus maculatus*), and other groups. Where Dr. [R. O. Winstedt](./richard-olaf-winstedt.md) had independently recorded the same name for the same species, the letter "W" is appended to the Malay name (p. 135). A footnote clarifies that in one instance Winstedt applied the same name to a different species (p. 136).
 
 ## References
 <!-- Grounded occurrences and citations -->

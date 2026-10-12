@@ -20,8 +20,8 @@ published: false
 
 ## MBRAS Sources
 
-- [E. Bartlett](./e-bartlett.md) (1895). [On a new species of “Philentoma”](./on-a-new-species-of-philentoma.md). *JSBRAS* 28: 96–97
-- Anon. [Clifford, H.C. The crocodile](./mbras-reprint-15.md). *Reprint* 15
+- [E. Bartlett](./e-bartlett.md) (1895). [On a new species of “Philentoma”](./on-a-new-species-of-philentoma.md). *[JSBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* 28: 96–97
+- [Anon](./anon-and-unidentifiable-initials.md). [Clifford, H.C. The crocodile](./mbras-reprint-15.md). *Reprint* 15
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -113,14 +113,27 @@ def main(
           fm, _ = engine.split_frontmatter(raw)
           
           # 1. Strictly target your legacy type
-          if fm.get("type") == "article":
-              subtype = str(fm.get("article_type") or "article").lower()
-              
-              # 2. Exclude only non-summarizable formats
-              if subtype not in {"obituary", "index", "book_review", "review", "bibliography"}:
-                  is_done = fm.get("summarized") is True or fm.get("summarised") is True
-                  if force or not is_done:
-                      all_articles.append(f)
+          if fm.get("type") in ("article", "publication"):
+                subtype = str(
+                    fm.get("publication_type")
+                    or fm.get("article_type")
+                    or "article"
+                ).lower()
+
+                # 2. Exclude non-summarizable formats
+                if subtype not in {
+                    "obituary",
+                    "index",
+                    "book_review",
+                    "review",
+                    "bibliography",
+                }:
+                    is_done = (
+                        fm.get("summarized") is True
+                        or fm.get("summarised") is True
+                    )
+                    if force or not is_done:
+                        all_articles.append(f)
       except Exception:
           continue
 

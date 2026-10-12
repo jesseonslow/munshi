@@ -13,6 +13,7 @@ is_contributor: true
 status: stub
 published: false
 ---
+
 # Cheah Boon Kheng
 
 <!-- Synthesis engine: Insert introductory synthesis for Cheah Boon Kheng here -->
@@ -39,7 +40,7 @@ published: false
 - (2012) [Ming China’s support for Sultan Mahmud of Melaka and its hostility towards the Portuguese after the fall of Melaka in 1511](./ming-chinas-support-for-sultan-mahmud-of-melaka-and-its-host.md). *JMBRAS* 85(2): 55–77
 - (2015) [Memoir of R. Balan, vice-president of the Malayan Communist Party](./memoir-of-r-balan-vice-president-of-the-malayan-communist-pa.md). *JMBRAS* 88(2): 129–138
 - (2023) [Raja Bongsu and the Sejarah Melayu: The Tragic Fate of an Ill-starred Prince of Johor (b. 1571–d. 1623). B.K. Cheah, Faris Joraimi and P. Borschberg](./raja-bongsu-and-the-sejarah-melayu-the-tragic-fate-of-an-ill.md). *JMBRAS* 96(2): 1–28
-- (2024) [Feudalisme Melayu: Ciri-Ciri dan Pensejarahannya](./feudalisme-melayu-ciri-ciri-dan-pensejarahannya.md). *JMBRAS* 97(1): 124–152
+- (2024) [Feudalisme Melayu: Ciri-Ciri dan Pensejarahannya](./feudalisme-melayu-ciri-ciri-dan-pensejarahannya.md). *[JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* 97(1): 124–152
 
 ### Reviews
 - (1980) British policy and Malay politics during the Malayan Union experiment, 1942–1948. A.J. Stockwell. *JMBRAS* 53(1): 172–175

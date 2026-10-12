@@ -10,7 +10,7 @@ nominal_month: December
 nominal_year: 2017
 articles_count: 14
 contributors:
-- id: c-dyer
+- id: colin-dyer
   name: C. Dyer
 - id: fa-weld
   name: F.A Weld
@@ -73,7 +73,7 @@ articles:
   pages: 55–69
   is_review: false
 - id: jmbras-90-2-p98
-  slug: penang-in-1837-as-seen-by-captain-auguste-vaillant-dyer-with
+  slug: penang-in-1837-as-seen-by-captain-auguste-vaillant
   title: Penang in 1837, as seen by Captain Auguste Vaillant. . Dyer; with an introd.
     and notes
   authors:
@@ -81,7 +81,7 @@ articles:
   pages: 98–108
   is_review: false
 - id: jmbras-90-2-p109
-  slug: singapore-ca-1859-as-seen-by-colonel-henri-de-ponchalon-dyer
+  slug: singapore-ca-1859-as-seen-by-colonel-henri-de-ponchalon
   title: Singapore ca. 1859, as seen by Colonel Henri de Ponchalon. . Dyer; with an
     introd. and notes
   authors:
@@ -160,15 +160,15 @@ articles:
 
 # JMBRAS Vol. 90, Part 2 (December 2017)
 
-**Series:** Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society  
+**Series:** Journal of the Malayan/[Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** December 2017
 
 ## Table of Contents
 * [Thomas Stamford Raffles’ Masonic career in Java: a new perspective on the British interregnum (1811–1816](./thomas-stamford-raffles-masonic-career-in-java-a-new-perspec.md) — [R. Jordaan](./r-jordaan.md), [P.B.R. Carey](./pbr-carey.md) (pp. 1–34)
 * [Family narratives and abandoned monuments of the May 13 riot in the Sungai Buloh leprosarium](./family-narratives-and-abandoned-monuments-of-the-may-13-riot.md) — [Por Heong Hong](./por-heong-hong.md) (pp. 35–54)
 * [A Chinese labour broker in Malaya: Lee Kwai Lim and his Kam Lun Tai company](./a-chinese-labour-broker-in-malaya-lee-kwai-lim-and-his-kam-l.md) — [Tan Miau Ing](./tan-miau-ing.md) (pp. 55–69)
-* [Penang in 1837, as seen by Captain Auguste Vaillant. . Dyer; with an introd. and notes](./penang-in-1837-as-seen-by-captain-auguste-vaillant-dyer-with.md) — [C. Dyer](./c-dyer.md) (pp. 98–108)
-* [Singapore ca. 1859, as seen by Colonel Henri de Ponchalon. . Dyer; with an introd. and notes](./singapore-ca-1859-as-seen-by-colonel-henri-de-ponchalon-dyer.md) — [C. Dyer](./c-dyer.md) (pp. 109–112)
+* [Penang in 1837, as seen by Captain Auguste Vaillant](./penang-in-1837-as-seen-by-captain-auguste-vaillant.md) — [C. Dyer](./colin-dyer.md) (pp. 98–108)
+* [Singapore ca. 1859, as seen by Colonel Henri de Ponchalon](./singapore-ca-1859-as-seen-by-colonel-henri-de-ponchalon.md) — [C. Dyer](./colin-dyer.md) (pp. 109–112)
 * [William George Maxwell: a biographical note](./william-george-maxwell-a-biographical-note.md) — [J.M. Gullick](./john-michael-gullick.md) (pp. 117–126)
 * [Visit to independent states in the vicinity of Malacca](./visit-to-independent-states-in-the-vicinity-of-malacca.md) — [F.A Weld](./fa-weld.md) (pp. 127–130)
 * *Ancient Southeast Asia* — [G. Wade](./geoff-wade.md), [J.N. Miksic](./jn-miksic.md), [Goh Geok Yian](./goh-geok-yian.md) (pp. 131–134) [Review]
@@ -180,7 +180,7 @@ articles:
 * *Chinese deathscapes in Insulindia. A special ssue of Archipel (vol. 92, 2016). . Salmon* — [Loh Wei Leng](./loh-wei-leng.md) (pp. 153–155) [Review]
 
 ## Contributors
-* [C. Dyer](./c-dyer.md)
+* [C. Dyer](./colin-dyer.md)
 * [F.A Weld](./fa-weld.md)
 * [G. Wade](./geoff-wade.md)
 * [Goh Geok Yian](./goh-geok-yian.md)

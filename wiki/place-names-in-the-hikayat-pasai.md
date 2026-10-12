@@ -26,7 +26,7 @@ jstor: https://www.jstor.org/stable/41561265
 
 # Place-names in the Hikayat Pasai
 
-This brief note by R. O. Winstedt corrects misspellings of place-names in Mr. Mead's romanization of the *Hikayat Raja-Raja Pasai* published in Journal No. 66.
+This brief note by [R. O. Winstedt](./richard-olaf-winstedt.md) corrects misspellings of place-names in Mr. Mead's romanization of the *Hikayat Raja-Raja [Pasai](./pasai.md)* published in Journal No. 66.
 
 ## Summary
 

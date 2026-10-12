@@ -1,23 +1,23 @@
 ---
-id: b-douglas
-title: B. Douglas
-canonical_name: B. Douglas
+id: ji-miller
+title: J.I. Miller
+canonical_name: J.I. Miller
 aliases:
-- Douglas, B
+- Miller, J.I
 type: person
 is_contributor: true
 status: stub
 published: false
 ---
 
-# B. Douglas
+# J.I. Miller
 
 <!-- Synthesis engine: Insert biographical synthesis and research focus here -->
 
 ## Biography
 
 ## Bibliography
-- (1879) [“Sungai Tata” route](./sungai-tata-route.md). *JSBRAS* 3: 133–135
+- (1927) [Elephant terms in Perak](./elephant-terms-in-perak.md). *JMBRAS* 5(2): 364–365
 
 ## References
 <!-- Grounded occurrences and citations -->

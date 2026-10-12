@@ -19,7 +19,7 @@ published: false
 
 ## MBRAS Sources
 
-- [Abdul Jalil Osman](./abdul-jalil-osman.md) and [Adi Haji Taha](./adi-haji-taha.md) (1982). [The excavation of the megalithic alignment at Kampong Ipoh, Tampin, Negri Sembilan: a note. Adi Haji Taha and Abdul Jalil Osman](./the-excavation-of-the-megalithic-alignment-at-kampong-ipoh-t.md). *JMBRAS* 55: 78–81
+- [Abdul Jalil Osman](./abdul-jalil-osman.md) and [Adi Haji Taha](./adi-haji-taha.md) (1982). [The excavation of the megalithic alignment at Kampong Ipoh, Tampin, Negri Sembilan: a note. Adi Haji Taha and Abdul Jalil Osman](./the-excavation-of-the-megalithic-alignment-at-kampong-ipoh-t.md). *[JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* 55: 78–81
 
 ## References
 <!-- Grounded occurrences and citations -->

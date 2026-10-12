@@ -21,7 +21,7 @@ published: false
 
 ## MBRAS Sources
 
-- [W. Cheah](./w-cheah.md) (1994). [Chinese furniture](./chinese-furniture.md). *JMBRAS* 67: 69–93
+- [W. Cheah](./w-cheah.md) (1994). [Chinese furniture](./chinese-furniture.md). *[JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* 67: 69–93
 
 ## References
 <!-- Grounded occurrences and citations -->

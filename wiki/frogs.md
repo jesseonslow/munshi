@@ -19,7 +19,7 @@ published: false
 
 ## MBRAS Sources
 
-- [Hanitsch R](./hanitsch-r.md) (1900). [Notes on the flying frog Rhacophorus nigropalmatus](./notes-on-the-flying-frog-rhacophorus-nigropalmatus.md). *JSBRAS* 34: 96–97
+- [Hanitsch R](./hanitsch-r.md) (1900). [Notes on the flying frog Rhacophorus nigropalmatus](./notes-on-the-flying-frog-rhacophorus-nigropalmatus.md). *[JSBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* 34: 96–97
 
 ## References
 <!-- Grounded occurrences and citations -->

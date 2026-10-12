@@ -21,7 +21,7 @@ published: false
 
 ## MBRAS Sources
 
-- [H.G. Keith](./hg-keith.md) (1928). [Description of a native oil press (chandasan) from North Borneo](./description-of-a-native-oil-press-chandasan-from-north-borne.md). *JMBRAS* 6(3): 96–97
+- [H.G. Keith](./hg-keith.md) (1928). [Description of a native oil press (chandasan) from North Borneo](./description-of-a-native-oil-press-chandasan-from-north-borne.md). *[JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* 6(3): 96–97
 
 ## References
 <!-- Grounded occurrences and citations -->

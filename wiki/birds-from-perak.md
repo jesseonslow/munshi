@@ -26,7 +26,7 @@ jstor: https://www.jstor.org/stable/41607058
 
 # Birds from Perak
 
-R. B. Sharpe, of the Zoological Department at the British Museum, published this account in 1887 describing a second collection of 51 bird-skins assembled by L. Wray, Curator of the Perak Museum, during a six-week stay in the Larut Range of Perak in September and October 1886. The article, originally read before the Zoological Society of London, documents the avifauna of a highland forest zone at approximately 4,400 feet elevation and formally describes five new species to science.
+[R. B. Sharpe](./r-b-sharpe.md), of the Zoological Department at the British Museum, published this account in 1887 describing a second collection of 51 bird-skins assembled by [L. Wray](./l-wray.md), Curator of the Perak Museum, during a six-week stay in the [Larut](./larut.md) Range of [Perak](./perak.md) in September and October 1886. The article, originally read before the Zoological Society of London, documents the avifauna of a highland forest zone at approximately 4,400 feet elevation and formally describes five new species to [science](./science.md).
 
 ## Summary
 
@@ -42,7 +42,7 @@ Beyond the novelties, the article extends the known ranges of several species so
 - The collection comprised 51 bird-skins gathered over six weeks at approximately 4,400 feet elevation in the Larut Range, Perak.
 - Annual rainfall on the Larut hills recorded at 200–250 inches; shade temperature at 3,300 feet ranged 56°–76°, and at higher stations 50°–72°.
 - *Bhringa remifer* (Racket-tailed Drongo) recorded from Perak, extending its range southward from Tenasserim; *Cyanops Ramsayi* (barbet) likewise not previously known south of Tenasserim.
-- *Vivia innominata* (piculet) found in the Larut mountains, greatly extending its known southern range, though it had previously been recorded by Beccari in Sumatra.
+- *Vivia innominata* (piculet) found in the Larut [mountains](./mountains.md), greatly extending its known southern range, though it had previously been recorded by Beccari in [Sumatra](./sumatra.md).
 - *Carpophaga badia* (pigeon) observed descending from the hills to the plains near mangrove-swamps during April–June, a seasonal movement pattern also noted in *C. insignis*.
 
 ### Conclusion
@@ -52,7 +52,7 @@ Sharpe's account establishes the Larut Range as a distinct highland avifaunal zo
 ## Context
 
 - The article is a reprint from the Proceedings of the Zoological Society of London (May 3, 1887), indicating it was presented to a London audience before appearing in the Straits Branch journal.
-- Sharpe's descriptions rely entirely on Wray's specimens and field notes; no independent fieldwork by Sharpe is involved. The article draws on prior literature by Hume, Kelham, and Salvadori on the western Malayan Peninsula and Sumatran ornithology.
+- Sharpe's descriptions rely entirely on Wray's specimens and field notes; no independent fieldwork by Sharpe is involved. The article draws on prior [literature](./literature.md) by Hume, Kelham, and Salvadori on the western Malayan Peninsula and Sumatran ornithology.
 
 ## References
 <!-- Grounded occurrences and citations -->

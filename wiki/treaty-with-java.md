@@ -25,11 +25,11 @@ publication_type: note
 
 # Treaty with Java
 
-This brief note by H. T. H. reports on the location of the 1811 treaty between Javanese authorities and Mr. Adam on behalf of Raffles, by which the sovereignty of Java was ceded to the British.
+This brief note by H. T. H. reports on the location of the 1811 treaty between Javanese authorities and Mr. Adam on behalf of [Raffles](./stamford-raffles.md), by which the sovereignty of [Java](./java.md) was ceded to the British.
 
 ## Summary
 
-The author states that this treaty is held in the Museum at the Cape, having been acquired by Sir George Grey and later presented to the institution. The author notes that its existence was not generally known. The note also mentions that Mr. Trotter observed some Arabic or Malay documents in the same museum, probably from the same period, and expresses interest in learning what those documents are (p. 152).
+The author states that this treaty is held in the Museum at the Cape, having been acquired by Sir George Grey and later presented to the institution. The author notes that its existence was not generally known. The note also mentions that Mr. Trotter observed some Arabic or [Malay](./malay.md) documents in the same museum, probably from the same period, and expresses interest in learning what those documents are (p. 152).
 
 ## References
 <!-- Grounded occurrences and citations -->

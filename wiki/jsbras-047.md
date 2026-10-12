@@ -28,7 +28,7 @@ articles:
 
 # JSBRAS No. 47 (September 1906)
 
-**Series:** Journal of the Straits Branch of the Royal Asiatic Society  
+**Series:** [Journal of the Straits Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** September 1906
 
 ## Table of Contents

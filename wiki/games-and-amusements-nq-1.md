@@ -19,11 +19,4 @@ status: stub
 published: false
 publication_type: note
 ---
-
 # Games and amusements. NQ 1
-
-## Summary
-<!-- Summarizer: Insert publication smmary here -->
-
-## References
-<!-- Grounded occurrences and citations -->

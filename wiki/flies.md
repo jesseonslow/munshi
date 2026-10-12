@@ -6,7 +6,7 @@ aliases: []
 broader:
 - Animals
 narrower: []
-related: 
+related:
 - title: Dragonflies
   slug: dragonflies
 is_cluster: false
@@ -21,7 +21,7 @@ published: false
 
 ## MBRAS Sources
 
-- Girault, A.A. New Chalcid parasites in Malaya. MB 80
+- [Girault, A.A](./aa-girault.md). New Chalcid parasites in [Malaya](./malaya.md). MB 80
 
 ## References
 <!-- Grounded occurrences and citations -->

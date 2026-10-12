@@ -1,171 +1,283 @@
+"""Command Line Interface for munshi-synthesizer."""
 from __future__ import annotations
 
+import random
 from pathlib import Path
 import click
 from rich.console import Console
 from rich.table import Table
 
 from munshi_synthesizer.config import SynthesizerConfig
-from munshi_synthesizer.pipeline.aggregator import LedgerAggregator
-from munshi_synthesizer.pipeline.authority import AuthorityResolver
-from munshi_synthesizer.pipeline.generator import SynthesisGenerator
-from munshi_synthesizer.schema import SynthesisPayload
+from munshi_synthesizer.synthesizer import TopicSynthesizer
 
 console = Console()
 
 
+def _is_publication_or_stub(text: str) -> bool:
+    """Detects whether a markdown file is an article/monograph rather than a topic concept."""
+    header = text[:500].lower()
+    return any(
+        marker in header
+        for marker in (
+            "type: publication",
+            "type: article",
+            "type: monograph",
+            "type: reprint",
+            "publication_type:",
+        )
+    )
+
+
+def _find_eligible_topic_files(
+    synthesizer: TopicSynthesizer, wiki_dir: Path, force: bool = False
+) -> list[Path]:
+    """Finds ungenerated topic files with eligible on-disk MBRAS sources."""
+    eligible: list[Path] = []
+    for f in sorted(wiki_dir.glob("*.md")):
+        try:
+            raw_text = f.read_text(encoding="utf-8", errors="ignore")
+        except Exception:
+            continue
+
+        if "## MBRAS Sources" not in raw_text:
+            continue
+
+        if _is_publication_or_stub(raw_text):
+            continue
+
+        fm, body = synthesizer.split_frontmatter(raw_text)
+
+        if fm.get("generated") is True and not force:
+            continue
+
+        sources_map, _ = synthesizer.extract_sources_structure(body)
+        total_valid = {
+            slug
+            for slugs in sources_map.values()
+            for slug in slugs
+            if (wiki_dir / f"{slug}.md").is_file()
+        }
+
+        # Allow: >= 2 valid sources OR single source eligible for escalation/monograph
+        if len(total_valid) >= 2:
+            eligible.append(f)
+        elif len(total_valid) == 1:
+            single_slug = next(iter(total_valid))
+            # Fast check if substantive text or primary source exists
+            if synthesizer._resolve_raw_source_text(single_slug):
+                eligible.append(f)
+            else:
+                pub_path = wiki_dir / f"{single_slug}.md"
+                pub = synthesizer.parser.parse(pub_path)
+                if pub and pub.summary and len(pub.summary.strip()) >= 500:
+                    eligible.append(f)
+
+    return eligible
+
+
 @click.group()
 def main() -> None:
-    """Munshi Synthesizer CLI - Open Knowledge Format Wiki Compiler."""
+    """Munshi Synthesizer CLI - Open Knowledge Format Topic Compiler."""
     pass
 
 
 @main.command()
-@click.argument("target")
-@click.option("--db-path", type=click.Path(path_type=Path), default=None, help="SQLite ledger path")
-@click.option("--authority", type=click.Path(path_type=Path), default=None, help="Authority JSON path")
-@click.option("--zvec-dir", type=click.Path(path_type=Path), default=None, help="Data directory with .zvec-grep index")
-@click.option("--zvec-top-k", type=int, default=None, help="Max vector matches to retrieve")
-@click.option("--no-zvec", is_flag=True, default=False, help="Disable parallel zvec-grep retrieval")
-@click.option("--model", default=None, help="OpenRouter model slug")
+@click.argument("slug", required=False, default=None)
 @click.option(
-    "--log",
-    "enable_log",
+    "--random",
+    "-r",
+    "use_random",
     is_flag=True,
     default=False,
-    help="Dump full prompt and reasoning stream to logs/ directory",
+    help="Select and synthesize a random ungenerated topic file.",
 )
-@click.option("--out-dir", type=click.Path(path_type=Path), default=None, help="Output folder")
-@click.option("--execute", is_flag=True, default=False, help="Call OpenRouter API instead of dry run")
-def synthesize(
-    target: str,
-    db_path: Path | None,
-    authority: Path | None,
-    zvec_dir: Path | None,
-    zvec_top_k: int | None,
-    no_zvec: bool,
+@click.option(
+    "--force",
+    "-f",
+    is_flag=True,
+    default=False,
+    help="Force re-synthesis even if 'generated: true' is already set.",
+)
+@click.option(
+    "--verbose",
+    "-v",
+    is_flag=True,
+    default=False,
+    help="Stream model reasoning and drafting live to the console.",
+)
+@click.option(
+    "--wiki-dir",
+    type=click.Path(path_type=Path),
+    default=None,
+    help="Path to wiki directory containing markdown pages.",
+)
+@click.option("--model", default=None, help="OpenRouter model identifier.")
+@click.option("--execute", is_flag=True, default=False, help="Execute live API synthesis.")
+def synthesize_topic(
+    slug: str | None,
+    use_random: bool,
+    force: bool,
+    verbose: bool,
+    wiki_dir: Path | None,
     model: str | None,
-    out_dir: Path | None,
     execute: bool,
-    enable_log: bool,
 ) -> None:
-    """Synthesizes a single entity wiki page by Name or ID."""
+    """Synthesizes a topic markdown page by slug or picks a random ungenerated candidate."""
     config = SynthesizerConfig()
-    if db_path:
-        config.ledger_db_path = db_path
-    if authority:
-        config.authority_index_path = authority
-    if zvec_dir:
-        config.zvec_data_dir = zvec_dir
-    if zvec_top_k:
-        config.zvec_top_k = zvec_top_k
-    if no_zvec:
-        config.enable_zvec = False
+    if wiki_dir:
+        config.wiki_dir = wiki_dir
     if model:
         config.synthesis_model_id = model
-    if out_dir:
-        config.wiki_out_dir = out_dir
 
-    try:
-        aggregator = LedgerAggregator(
-            db_path=config.ledger_db_path,
-            zvec_data_dir=config.zvec_data_dir,
-            zvec_top_k=config.zvec_top_k,
-            enable_zvec=config.enable_zvec,
+    synthesizer = TopicSynthesizer(config)
+
+    if not config.wiki_dir.exists():
+        console.print(f"[bold red]Wiki directory '{config.wiki_dir}' does not exist.[/bold red]")
+        return
+
+    # Handle random selection
+    if use_random:
+        with console.status("[cyan]Scanning wiki for ungenerated topic candidates...[/cyan]"):
+            candidates = _find_eligible_topic_files(synthesizer, config.wiki_dir, force=force)
+
+        if not candidates:
+            console.print("[yellow]No eligible, ungenerated topic candidates found.[/yellow]")
+            return
+
+        topic_file = random.choice(candidates)
+        console.print(
+            f"[bold magenta]Randomly selected ungenerated topic ({len(candidates)} remaining):[/bold magenta] {topic_file.name}"
         )
-    except FileNotFoundError as e:
-        console.print(f"[bold red]Error:[/bold red] {e}")
+    elif slug:
+        clean_slug = slug.removesuffix(".md")
+        topic_file = config.wiki_dir / f"{clean_slug}.md"
+        if not topic_file.exists():
+            console.print(f"[bold red]Topic file '{topic_file}' not found.[/bold red]")
+            return
+        console.print(f"[bold cyan]Processing targeted topic page:[/bold cyan] {topic_file.name}")
+    else:
+        console.print("[yellow]Please supply a topic SLUG or use --random / -r to pick an ungenerated file.[/yellow]")
         return
 
-    entity = aggregator.fetch_entity(target)
-    if not entity:
-        console.print(f"[bold red]Target '{target}' not found in ledger database.[/bold red]")
-        return
-
-    with console.status(f"[cyan]Aggregating evidence for '{entity.canonical_name}' (SQLite + zvec)...[/cyan]"):
-        occurrences = aggregator.fetch_all_occurrences_parallel(entity)
-
-    resolver = AuthorityResolver(config.authority_index_path)
-    auth_data = resolver.resolve(entity.canonical_name)
-
-    payload = SynthesisPayload(
-        target=entity,
-        occurrences=occurrences,
-        authority=auth_data,
+    new_content, success, msg = synthesizer.process_topic_file(
+        topic_file, execute=execute, verbose=verbose, force=force
     )
 
-    ledger_count = sum(1 for o in occurrences if o.source_type == "ledger")
-    zvec_count = sum(1 for o in occurrences if o.source_type == "zvec_vector")
-
-    console.print(f"[bold green]Target Found:[/bold green] {entity.canonical_name} ({entity.entity_id})")
-    console.print(f"Category: {entity.category} | Tier: {entity.tier}")
-    console.print(f"Evidence Collected: [cyan]{len(occurrences)} total[/cyan] ({ledger_count} ledger, {zvec_count} zvec semantic)")
-    console.print(f"Authority Index Matched: {'Yes' if auth_data else 'No'}")
-
-    generator = SynthesisGenerator(config)
-    log_dir = Path("logs") if enable_log else None
-
-    if not execute:
-        console.print("\n[bold yellow]--- DRY RUN: PROMPT PREVIEW ---[/bold yellow]")
-        rendered_prompt = generator._render_prompt(payload)
-        console.print(f"[dim]{rendered_prompt[:1200]}...\n[truncated][/dim]")
-        
-        if log_dir:
-            log_dir.mkdir(parents=True, exist_ok=True)
-            slug = re.sub(r"[^a-z0-9]+", "-", entity.canonical_name.lower()).strip("-")
-            dry_log_file = log_dir / f"{slug}_dry_run_prompt.md"
-            dry_log_file.write_text(rendered_prompt, encoding="utf-8")
-            console.print(f"\n[bold green]Saved dry-run prompt to:[/bold green] {dry_log_file}")
-            
-        console.print("\nTo trigger live synthesis with OpenRouter, add the [bold]--execute[/bold] flag.")
+    if not success:
+        console.print(f"[bold yellow]Skipped:[/bold yellow] {msg}")
         return
 
-    if not config.openrouter_api_key:
-        console.print("[bold red]OPENROUTER_API_KEY is not set in environment or config.[/bold red]")
-        return
+    if execute:
+        topic_file.write_text(new_content, encoding="utf-8")
+        console.print(f"\n[bold green]Successfully updated:[/bold green] {topic_file.name} - {msg}")
+    else:
+        console.print("\n[bold yellow]--- DRY RUN: OUTPUT PREVIEW ---[/bold yellow]")
+        console.print(new_content[:1800] + "\n[dim]... [truncated][/dim]")
+        console.print(f"\n[cyan]{msg}[/cyan]")
+        console.print("\nAdd [bold]--execute[/bold] to run live completions and write changes.")
 
-    console.print(f"\n[bold cyan]Synthesizing with {config.synthesis_model_id}...[/bold cyan]")
-    result = generator.generate(payload, log_dir=log_dir)
-
-    config.wiki_out_dir.mkdir(parents=True, exist_ok=True)
-    out_file = config.wiki_out_dir / f"{result.slug}.md"
-    out_file.write_text(result.markdown_content, encoding="utf-8")
-    console.print(f"[bold green]Successfully generated wiki article:[/bold green] {out_file}")
 
 @main.command()
-@click.option("--db-path", type=click.Path(path_type=Path), default=None)
-def list_candidates(db_path: Path | None) -> None:
-    """Lists curated or Tier A entities ready for synthesis."""
+@click.option(
+    "--force",
+    "-f",
+    is_flag=True,
+    default=False,
+    help="Force re-synthesis even if already marked as generated.",
+)
+@click.option(
+    "--verbose",
+    "-v",
+    is_flag=True,
+    default=False,
+    help="Stream model reasoning and drafting live to console.",
+)
+@click.option(
+    "--wiki-dir",
+    type=click.Path(path_type=Path),
+    default=None,
+    help="Path to wiki directory containing markdown pages.",
+)
+@click.option("--model", default=None, help="OpenRouter model identifier.")
+@click.option("--execute", is_flag=True, default=False, help="Execute live API synthesis.")
+@click.option("--limit", type=int, default=None, help="Limit number of eligible files to process.")
+@click.option("--shuffle/--no-shuffle", "shuffle_files", default=None, help="Randomize candidate evaluation order.")
+@click.option("--seed", type=int, default=None, help="RNG seed for reproducible batch sampling.")
+def batch(
+    force: bool,
+    verbose: bool,
+    wiki_dir: Path | None,
+    model: str | None,
+    execute: bool,
+    limit: int | None,
+    shuffle_files: bool | None,
+    seed: int | None,
+) -> None:
+    """Batch-synthesizes all eligible topic pages."""
     config = SynthesizerConfig()
-    if db_path:
-        config.ledger_db_path = db_path
+    if wiki_dir:
+        config.wiki_dir = wiki_dir
+    if model:
+        config.synthesis_model_id = model
 
-    try:
-        aggregator = LedgerAggregator(config.ledger_db_path)
-    except FileNotFoundError as e:
-        console.print(f"[bold red]Error:[/bold red] {e}")
-        return
+    synthesizer = TopicSynthesizer(config)
+    wiki_files = sorted(config.wiki_dir.glob("*.md"))
 
-    candidates = aggregator.list_curated_or_tier_a()
-    table = Table(title=f"Synthesis Candidates in {config.ledger_db_path.name}")
-    table.add_column("Entity ID", style="cyan")
-    table.add_column("Canonical Name", style="white")
-    table.add_column("Category", style="magenta")
-    table.add_column("Tier", style="yellow")
-    table.add_column("Mentions", justify="right")
-    table.add_column("Curated", justify="center")
+    should_shuffle = shuffle_files if shuffle_files is not None else (limit is not None)
+    if should_shuffle:
+        if seed is not None:
+            random.seed(seed)
+        random.shuffle(wiki_files)
 
-    for c in candidates[:50]:
-        table.add_row(
-            c.entity_id,
-            c.canonical_name,
-            c.category,
-            c.tier,
-            str(c.mention_count),
-            "✓" if c.is_curated else "—",
+    table = Table(title="Munshi Batch Synthesis Candidate Evaluation")
+    table.add_column("File", style="cyan")
+    table.add_column("Status", style="white")
+    table.add_column("Detail", style="dim")
+
+    processed = 0
+    skipped = 0
+
+    for f in wiki_files:
+        try:
+            raw_text = f.read_text(encoding="utf-8", errors="ignore")
+        except Exception:
+            continue
+
+        if "## MBRAS Sources" not in raw_text:
+            continue
+
+        if _is_publication_or_stub(raw_text):
+            continue
+
+        fm, _ = synthesizer.split_frontmatter(raw_text)
+        if fm.get("generated") is True and not force:
+            continue
+
+        new_content, success, msg = synthesizer.process_topic_file(
+            f, execute=execute, verbose=verbose, force=force
         )
 
-    console.print(table)
+        if success:
+            processed += 1
+            table.add_row(
+                f.name,
+                "[green]ELIGIBLE[/green]" if not execute else "[bold green]SYNTHESIZED[/bold green]",
+                msg,
+            )
+            if execute:
+                f.write_text(new_content, encoding="utf-8")
+        else:
+            skipped += 1
+            table.add_row(f.name, "[yellow]SKIPPED[/yellow]", msg)
+
+        if limit and processed >= limit:
+            break
+
+    if not verbose:
+        console.print(table)
+    console.print(
+        f"\nCompleted. Evaluated files: [green]{processed} eligible[/green], [yellow]{skipped} skipped[/yellow]."
+    )
 
 
 if __name__ == "__main__":

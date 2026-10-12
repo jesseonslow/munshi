@@ -25,7 +25,7 @@ contributors:
 - id: we-maxwell
   name: W.E. Maxwell
 - id: sir-hugh-charles-clifford
-  name: Sir Hugh Charles Clifford 
+  name: Sir Hugh Charles Clifford
 parent_hub: journal-of-the-malaysian-branch-of-the-royal-asiatic-society
 status: stub
 published: false
@@ -34,7 +34,7 @@ articles:
   slug: the-light-family-nq-4-115116
   title: 'The Light family. NQ 4: 115–116'
   authors:
-  - Anon (and unidentifiable initials)
+  - Anon
   pages: null
   is_review: false
 - id: jsbras-17-the-crocodile-nq-4-123
@@ -214,9 +214,10 @@ articles:
   pages: '158'
   is_review: false
 ---
+
 # JSBRAS No. 17 (June 1886)
 
-**Series:** Journal of the Straits Branch of the Royal Asiatic Society  
+**Series:** [Journal of the Straits Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** June 1886
 
 ## Table of Contents

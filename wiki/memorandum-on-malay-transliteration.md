@@ -5,7 +5,7 @@ title: Memorandum on Malay transliteration
 canonical_name: Memorandum on Malay transliteration
 type: publication
 authors:
-- Anon (and unidentifiable initials)
+- Anon
 - Haughton H.T
 year: 1882
 journal_code: JSBRAS
@@ -27,7 +27,7 @@ jstor: https://www.jstor.org/stable/41560695
 
 # Memorandum on Malay transliteration
 
-This memorandum, authored by an anonymous member of the Straits Asiatic Society (initialled "W. E. M") who served on the Government Spelling Committee of 1878, responds to a paper on Malay transliteration published in the preceding issue of the Journal (pp. 285–286).
+This memorandum, authored by an anonymous member of the Straits Asiatic Society (initialled "W. E. M") who served on the Government Spelling Committee of 1878, responds to a paper on [Malay transliteration](./malay-transliteration.md) published in the preceding issue of the Journal (pp. 285–286).
 
 ## Summary
 

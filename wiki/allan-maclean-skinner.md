@@ -6,6 +6,7 @@ aliases:
 - A. M. Skinner
 - A.M. Skinner
 - Skinner, A.M.
+- A. M. S.
 broader: []
 narrower: []
 related: []
@@ -22,7 +23,7 @@ type: person
 
 ## MBRAS Sources
 
-- [C.W.S. Kynnersley](./cws-kynnersley.md) (1901). [In Memoriam. Allan Maclean Skinner, C. M. G.](./allen-maclean-skinner-in-memoriam.md). *JSBRAS* 36: 139–140
+- [C.W.S. Kynnersley](./cws-kynnersley.md) (1901). [In Memoriam. Allan Maclean Skinner, C. M. G.](./allen-maclean-skinner-in-memoriam.md). *[JSBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* 36: 139–140
 
 ## Bibliography
 - (1878) [Geography of the Malay Peninsula](./geography-of-the-malay-peninsula.md). *JSBRAS* 1: 52–62

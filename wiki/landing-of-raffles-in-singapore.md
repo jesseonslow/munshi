@@ -25,11 +25,11 @@ publication_type: note
 
 # Landing of Raffles in Singapore
 
-A brief miscellaneous note by W.H. Read questioning details of an earlier eyewitness account of Raffles's landing at Singapore, published in JSBRAS Vol. 12 (1883).
+A brief miscellaneous note by [W.H. Read](./wh-read.md) questioning details of an earlier eyewitness account of [Raffles](./stamford-raffles.md)'s landing at [Singapore](./singapore.md), published in [JSBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md) Vol. 12 (1883).
 
 ## Summary
 
-The note responds to an account by "WA HAKIM" in JSBRAS Vol. 10, p. 285, which stated that a single Orang laut, Batin Sapi, was sent to summon Tunku Long from Bulang. Read argues this is implausible given Raffles's knowledge of Malay etiquette, and instead reports—on the authority of Mr. C. F. Keun, who drew on Tunku Purba, Raja Prang, and Tunku Dagang—that two Anak Raja, Raja Ombong and Inche Wan Abdullah, were entrusted with the mission and found Tunku Long fishing in the Straits of Rhio, each receiving $500 (pp. 282–283). Read adds that the account is generally accepted by Malays and is probably confirmed by Munshi Abdullah in his *Hikayat*, and suggests Batin Sapi may have accompanied the noblemen (p. 283).
+The note responds to an account by "WA HAKIM" in JSBRAS Vol. 10, p. 285, which stated that a single [Orang laut](./orang-laut.md), Batin Sapi, was sent to summon Tunku Long from Bulang. Read argues this is implausible given Raffles's knowledge of [Malay etiquette](./malay-etiquette.md), and instead reports—on the authority of Mr. C. F. Keun, who drew on Tunku Purba, Raja Prang, and Tunku Dagang—that two Anak Raja, Raja Ombong and Inche Wan Abdullah, were entrusted with the mission and found Tunku Long fishing in the Straits of Rhio, each receiving $500 (pp. 282–283). Read adds that the account is generally accepted by Malays and is probably confirmed by [Munshi Abdullah](./munshi-abdullah.md) in his *Hikayat*, and suggests Batin Sapi may have accompanied the noblemen (p. 283).
 
 ## References
 <!-- Grounded occurrences and citations -->

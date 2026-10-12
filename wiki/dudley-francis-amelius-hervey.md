@@ -16,14 +16,13 @@ status: stub
 published: false
 ---
 
-
 # Dudley Francis Amelius Hervey
 
 <!-- Synthesis engine: Insert introductory synthesis for Dudley Francis Amelius Hervey here -->
 
 ## MBRAS Sources
 
-- Ellen, R.F. Hervey Malay collection at Wellcome Institute. MB 54(1)
+- [Ellen, R.F](./rf-ellen.md). Hervey [Malay](./malay.md) collection at Wellcome Institute. MB 54(1)
 
 ## Bibliography
 - (1879) [Atrip to Gunong Blumut](./atrip-to-gunong-blumut.md). *JSBRAS* 3: 85–115

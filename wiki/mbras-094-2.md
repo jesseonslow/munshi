@@ -18,7 +18,7 @@ contributors:
   name: B.J.Q. Khoo
 - id: bw-andaya
   name: B.W. Andaya
-- id: c-dyer
+- id: colin-dyer
   name: C. Dyer
 - id: f-andrew-smith
   name: F. Andrew Smith
@@ -82,7 +82,7 @@ articles:
   title: 'Malays in the Indochinese Peninsula: The Rise and Fall of a ''Tuan'' in
     Precolonial Mainland Southeast Asia'
   authors:
-  - nicolas-weber
+  - Nicolas Weber
   pages: 43–65
   is_review: false
 - id: jmbras-94-2-p67
@@ -117,8 +117,8 @@ articles:
   pages: 141–167
   is_review: false
 - id: jmbras-94-2-p169
-  slug: the-kingdom-of-perak-dyer
-  title: The Kingdom of Perak. . Dyer
+  slug: the-kingdom-of-perak
+  title: The Kingdom of Perak
   authors:
   - J.E. De La Croix
   - C. Dyer
@@ -136,7 +136,7 @@ articles:
   title: Federated Malay States Museum, Kuala Lumpur, 21 September 1945, Office of
     Strategic Services, India Burma Theater. Facsimile reprint
   authors:
-  - Anon (and unidentifiable initials)
+  - Anon
   pages: 197–200
   is_review: false
 - id: jmbras-94-2-p201
@@ -166,7 +166,7 @@ articles:
   title: 'Cross-Cultural Exchange and the Colonial Imaginary: Global Encounters via
     Southeast Asia. . Hazel Hahn'
   authors:
-  - nicolas-weber
+  - Nicolas Weber
   pages: 210–212
   is_review: true
 - id: jmbras-94-2-p212
@@ -249,24 +249,24 @@ articles:
 
 # JMBRAS Vol. 94, Part 2 (December 2021)
 
-**Series:** Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society  
+**Series:** Journal of the Malayan/[Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** December 2021
 
 ## Table of Contents
 * [How Many Polities Called Tanjungpura Have There Been in Borneo?](./how-many-polities-called-tanjungpura-have-there-been-in-born.md) — [F. Andrew Smith](./f-andrew-smith.md) (pp. 1–25)
 * ['Sixteen Naked Indians': First Contact between the British and the Orang Asli](./sixteen-naked-indians-first-contact-between-the-british-and-.md) — [Teckwyn Lim](./teckwyn-lim.md) (pp. 27–42)
-* [Malays in the Indochinese Peninsula: The Rise and Fall of a 'Tuan' in Precolonial Mainland Southeast Asia](./malays-in-the-indochinese-peninsula-the-rise-and-fall-of-a-t.md) — [nicolas-weber](./nicolas-weber.md) (pp. 43–65)
+* [Malays in the Indochinese Peninsula: The Rise and Fall of a 'Tuan' in Precolonial Mainland Southeast Asia](./malays-in-the-indochinese-peninsula-the-rise-and-fall-of-a-t.md) — [Nicolas Weber](./nicolas-weber.md) (pp. 43–65)
 * [References to Singapore and its Straits from the 16th to the Early 19th Century](./references-to-singapore-and-its-straits-from-the-16th-to-the.md) — [P. Borschberg](./peter-borschberg.md), [B.J.Q. Khoo](./benjamin-j-q-khoo.md) (pp. 67–95)
 * [The Uses of Magic: Local Knowledge and the 'Unscientific Native' in Colonial Malaya](./the-uses-of-magic-local-knowledge-and-the-unscientific-nativ.md) — [Farish A. Noor](./farish-a-noor.md) (pp. 97–119)
 * [Colonial birding in the Thai-Malay Peninsula: Birds from the Selangor Museum now in World Museum, Liverpool](./colonial-birding-in-the-thai-malay-peninsula-birds-from-the-.md) — [John-James Wilson](./john-james-wilson.md) (pp. 121–139)
 * [Becoming Malay: The Case of the Batak Orphans in 1930s Perak](./becoming-malay-the-case-of-the-batak-orphans-in-1930s-perak.md) — [Lynn Hollen Lees](./lynn-hollen-lees.md) (pp. 141–167)
-* [The Kingdom of Perak. . Dyer](./the-kingdom-of-perak-dyer.md) — [J.E. De La Croix](./je-de-la-croix.md), [C. Dyer](./c-dyer.md) (pp. 169–184)
+* [The Kingdom of Perak](./the-kingdom-of-perak.md) — [J.E. De La Croix](./je-de-la-croix.md), [C. Dyer](./colin-dyer.md) (pp. 169–184)
 * [William Scott in Penang: Missing Material, Maritime Matters, and More](./william-scott-in-penang-missing-material-maritime-matters-an.md) — [F. Andrew Smith](./f-andrew-smith.md) (pp. 185–197)
 * [Federated Malay States Museum, Kuala Lumpur, 21 September 1945, Office of Strategic Services, India Burma Theater. Facsimile reprint](./federated-malay-states-museum-kuala-lumpur-21-september-1945.md) — [Anon](./anon-and-unidentifiable-initials.md) (pp. 197–200)
 * *Jacques de Morgan's Explorations in the Malay Peninsula, 1884. . Jaunay* — [K. Endicott](./k-endicott.md) (pp. 201–203) [Review]
 * *Empires of Vice: The Rise of Opium Prohibition Across Asia. D.S. Kim* — [S. Soon Sien Yong](./s-soon-sien-yong.md) (pp. 203–206) [Review]
 * *Christian Circulations: Global Christianity and the Local Church in Penang and Singapore 1819–2000. J. DeBernardi* — [B.W. Andaya](./barbara-watson-andaya.md) (pp. 206–210) [Review]
-* *Cross-Cultural Exchange and the Colonial Imaginary: Global Encounters via Southeast Asia. . Hazel Hahn* — [nicolas-weber](./nicolas-weber.md) (pp. 210–212) [Review]
+* *Cross-Cultural Exchange and the Colonial Imaginary: Global Encounters via Southeast Asia. . Hazel Hahn* — [Nicolas Weber](./nicolas-weber.md) (pp. 210–212) [Review]
 * *Mosques and Imams: Everyday Islam in Eastern Indonesia. . Robinson* — [T. Gibson](./t-gibson.md) (pp. 212–217) [Review]
 * *Fluid Jurisdictions: Colonial law and Arabs in Southeast Asia. Nurfadzilah Yahaya* — [Sai Siew-Min](./sai-siew-min.md) (pp. 217–219) [Review]
 * *Sea Nomads of Southeast Asia: From the Past to the Present. . Bellina, R. Blench, and J.-C. Galipaud* — [A.O. Zakharov](./ao-zakharov.md) (pp. 220–223) [Review]
@@ -283,7 +283,7 @@ articles:
 * [Anon](./anon-and-unidentifiable-initials.md)
 * [B.J.Q. Khoo](./benjamin-j-q-khoo.md)
 * [B.W. Andaya](./barbara-watson-andaya.md)
-* [C. Dyer](./c-dyer.md)
+* [C. Dyer](./colin-dyer.md)
 * [F. Andrew Smith](./f-andrew-smith.md)
 * [Farish A. Noor](./farish-a-noor.md)
 * [John-James Wilson](./john-james-wilson.md)
@@ -294,7 +294,7 @@ articles:
 * [Liaw Siau Chi](./liaw-siau-chi.md)
 * [Teckwyn Lim](./teckwyn-lim.md)
 * [N. Chan](./n-chan.md)
-* [nicolas-weber](./nicolas-weber.md)
+* [Nicolas Weber](./nicolas-weber.md)
 * [Nurhidayahti Mohammad Miharja](./nurhidayahti-mohammad-miharja.md)
 * [P. Borschberg](./peter-borschberg.md)
 * [S. Abel](./s-abel.md)

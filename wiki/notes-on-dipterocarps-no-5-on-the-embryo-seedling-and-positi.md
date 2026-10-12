@@ -34,11 +34,11 @@ publication_type: journal_article
 
 # Notes on Dipterocarps. {No. 5} On the embryo, seedling and position of the flowers in various species
 
-I.H. Burkill's 1920 monograph in the *Journal of the Straits Branch of the Royal Asiatic Society* presents detailed morphological observations on the mature embryo, seedling architecture, and flower orientation across multiple Dipterocarpaceae genera, arguing that embryological characters—long neglected by herbarium-based taxonomists—hold promise for resolving the tangled generic classification of the order.
+[I.H. Burkill](./ih-burkill.md)'s 1920 monograph in the *[Journal of the Straits Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* presents detailed morphological observations on the mature embryo, seedling [architecture](./architecture.md), and flower orientation across multiple [Dipterocarpaceae](./dipterocarpaceae.md) genera, arguing that embryological characters—long neglected by herbarium-based taxonomists—hold promise for resolving the tangled generic classification of the order.
 
 ## Summary
 
-Burkill's central thesis is that the shape and folding of the mature embryo, combined with the appearance of the seedling, constitute underutilised taxonomic characters capable of clarifying generic boundaries in the Dipterocarpaceae. He sides with Heim (1892) against Brandis (1895), who had dismissed embryological variability as too great to be diagnostically useful. The observations were made primarily in Penang during 1918, a year of unusually prolific Dipterocarp flowering, with supplementary material from the Botanic Gardens, Singapore, and seed from Negri Sembilan and Selangor.
+[Burkill](./burkill.md)'s central thesis is that the shape and folding of the mature embryo, combined with the appearance of the seedling, constitute underutilised taxonomic characters capable of clarifying generic boundaries in the Dipterocarpaceae. He sides with Heim (1892) against Brandis (1895), who had dismissed embryological variability as too great to be diagnostically useful. The observations were made primarily in [Penang](./penang.md) during 1918, a year of unusually prolific Dipterocarp flowering, with supplementary material from the Botanic Gardens, [Singapore](./singapore.md), and seed from [Negri Sembilan](./negeri-sembilan.md) and [Selangor](./selangor.md).
 
 The paper documents a range of embryological types across the genera examined. In *Dipterocarpus*, the placental cotyledon is folded backward over the persistent placenta and enwrapped by the outer cotyledon, producing a characteristic seam; an alternative "S-folding" in which neither cotyledon encloses the other occurs in *D. fagineus*, *D. cornutus*, and a new Selangor species. In *Dryobalanops aromatica*, the two cotyledons are markedly unequal and the placenta forms an extraordinary apron-like invagination of unknown function. *Vatica nitens* shows a rolled rather than folded placental cotyledon with horned apices, a feature shared with *Retinodendron pallidum*. In *Anisoptera Curtisii*, the outer cotyledon does not embrace the placental one at all, and the seedling produces a false whorl of four leaves representing a pair plus two subsequent leaves drawn into whorl.
 
@@ -55,12 +55,12 @@ Burkill also records the frequency of twin seeds, adding nine species to the thr
 
 ### Conclusion
 
-Burkill concludes that embryological and seedling characters, properly collected in the field rather than inferred from dried herbarium specimens, offer a practical and promising avenue for disentangling the generic classification of the Dipterocarpaceae. He assigns to botanists working in tropical regions the duty of supplying the detailed morphological data that herbarium-based taxonomists such as Brandis lacked, and he calls specifically for a comparable study of the Dipterocarps of Indo-China, where Pierre's earlier illustrations, though beautiful, depicted embryos in a slightly immature state.
+Burkill concludes that embryological and seedling characters, properly collected in the field rather than inferred from dried herbarium specimens, offer a practical and promising avenue for disentangling the generic classification of the Dipterocarpaceae. He assigns to [botanists](./botanists-and-botanical-gardens.md) working in tropical regions the duty of supplying the detailed morphological data that herbarium-based taxonomists such as Brandis lacked, and he calls specifically for a comparable study of the Dipterocarps of [Indo-China](./indo-china.md), where Pierre's earlier illustrations, though beautiful, depicted embryos in a slightly immature state.
 
 ## Context
 
 - The paper forms part of Burkill's ongoing "Notes on Dipterocarps" series in the JSBRAS, with earlier contributions (No. 1–3) appearing in 1917; it draws on fieldwork conducted in Penang and Singapore during 1918, a year of exceptional Dipterocarp flowering.
-- The observations were facilitated by Mr. Mohamed Haniff of the Waterfall Gardens, Penang, and by Forest Officers who supplied fresh seed from various parts of the Peninsula for cultivation in the Botanic Gardens, Singapore.
+- The observations were facilitated by Mr. Mohamed Haniff of the Waterfall Gardens, Penang, and by Forest Officers who supplied fresh seed from [various](./various.md) parts of the Peninsula for cultivation in the Botanic Gardens, Singapore.
 
 ## References
 <!-- Grounded occurrences and citations -->

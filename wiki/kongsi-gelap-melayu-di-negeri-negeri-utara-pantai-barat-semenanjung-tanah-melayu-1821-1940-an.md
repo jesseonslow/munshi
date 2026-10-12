@@ -29,11 +29,11 @@ published: false
 - Foreword
 - Kependekan
   1. Pengenalan
-  1. Perang Kedah-Siam dan Pembentukan Masyarakat Pelarian di Pulau Penang dan Province Wellesley
+  1. Perang Kedah-[Siam](./thailand.md) dan Pembentukan Masyarakat Pelarian di Pulau Penang dan [Province Wellesley](./province-wellesley.md)
   1. Perubahan Sosial di Pulau Pinang dan Kemunculan Kongsi Gelap Bendera Putih dan Bendera Merah, 1830-an Hingga 1860-an
-  1. Rusuhan Pulau Penang 1867
+  1. Rusuhan Pulau [Penang](./penang.md) 1867
   1. Bendera Putih dan Bendera Merah Sehingga 1940-an
-  1. Kongsi Gelap Melayu di Perak, Kedah dan Perlis
+  1. [Kongsi Gelap](./secret-societies.md) Melayu di [Perak](./perak.md), [Kedah](./kedah.md) dan [Perlis](./perlis.md)
   1. Kesimpulan
 - Bibliografi
 - Lampiran A-C

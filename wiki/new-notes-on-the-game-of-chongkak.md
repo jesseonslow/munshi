@@ -25,15 +25,15 @@ publication_type: note
 
 # New notes on the game of “chongkak”
 
-H. Overbeck's 1915 note in the *Journal of the Straits Branch of the Royal Asiatic Society* documents the rules of the Ceylonese variant of the mancala-family board game known as "chongkak" (or "dakon" in Java), drawing on first-hand experience playing the game aboard a mailsteamer and from a carved Balinese board acquired in Java.
+[H. Overbeck](./h-overbeck.md)'s 1915 note in the *[Journal of the Straits Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* documents the rules of the Ceylonese variant of the mancala-[family](./family.md) board game known as "chongkak" (or "dakon" in Java), drawing on first-hand experience playing the game aboard a mailsteamer and from a carved Balinese board acquired in [Java](./java.md).
 
 ## Summary
 
-Overbeck's account begins with the acquisition of a dragon-shaped board in Java, where he observed Madurese coolies playing the game. He notes that the Javanese servants he consulted were reluctant to explain the rules, as "dakon" was considered a women's game. The substantive content of the article, however, derives from a period aboard the mailsteamer to Colombo, where Singhalese passengers taught him the Ceylonese version, which he judged to be more complex than the Malay variant previously described by Mr. Hellier in the same journal (No. 49, December 1907).
+Overbeck's account begins with the acquisition of a dragon-shaped board in Java, where he observed Madurese coolies playing the game. He notes that the Javanese servants he consulted were reluctant to explain the rules, as "dakon" was considered a women's game. The substantive content of the article, however, derives from a period aboard the mailsteamer to Colombo, where Singhalese passengers taught him the Ceylonese version, which he judged to be more complex than the [Malay](./malay.md) variant previously described by Mr. Hellier in the same journal (No. 49, December 1907).
 
-The article then provides a full set of twelve rules governing play, covering the initial simultaneous opening move, the sowing and capturing mechanics, the conditions under which a player's turn ends, the procedure for refilling holes between games using seeds held in one's "rumah" (store), and the termination condition for a "set." Overbeck appends a short section of strategic hints, including a systematic opening sequence for the player who begins with all nine holes filled.
+The article then provides a full set of twelve rules governing play, covering the initial simultaneous opening move, the sowing and capturing mechanics, the conditions under which a player's turn ends, the procedure for refilling holes between [games](./games.md) using seeds held in one's "rumah" (store), and the termination condition for a "set." Overbeck appends a short section of strategic hints, including a systematic opening sequence for the player who begins with all nine holes filled.
 
-The piece is notable primarily as an early ethnographic record of the game's cross-cultural distribution across the Indian Ocean world, linking Javanese, Malay, and Ceylonese traditions and noting the claim that the two-row hole pattern appears in the rock carvings of India's oldest temples.
+The piece is notable primarily as an early ethnographic record of the game's cross-cultural distribution across the Indian Ocean world, linking Javanese, Malay, and Ceylonese [traditions](./traditions.md) and noting the claim that the two-row hole pattern appears in the rock carvings of [India](./india.md)'s oldest [temples](./temples.md).
 
 ### Key Findings
 
@@ -42,11 +42,11 @@ The piece is notable primarily as an early ethnographic record of the game's cro
 - A "set" consists of multiple games; the set ends when one player has fewer than nine seeds and cannot fill even one hole (p. 9, § 12).
 - Between games, players refill their kampong holes from their rumah stores; a player with fewer seeds fills only as many holes as his seed count permits, leaving the remainder empty and unused for that game (p. 9, § 11).
 - Overbeck provides a fixed opening system for the player with all nine holes filled: begin with hole 1, then the hole opposite the opponent's last landing hole, then the second hole to the right of the previously emptied hole (p. 10).
-- The Javanese form of the game was considered a women's game, and local servants were reluctant to explain the rules to a European (p. 7).
+- The Javanese form of the game was considered a women's game, and local servants were reluctant to explain the rules to a [European](./european.md) (p. 7).
 
 ### Conclusion
 
-Overbeck's note serves as a compact comparative record of a mancala-family game as it was played across the Straits Settlements, Java, and Ceylon in the early twentieth century, preserving a Ceylonese rule set that he considered more sophisticated than the Malay version already published in the journal. Its value lies in documenting the game's wide geographic reach and the continuity of its core mechanics across culturally distinct communities.
+Overbeck's note serves as a compact comparative record of a mancala-family game as it was played across the [Straits Settlements](./straits-settlements.md), Java, and Ceylon in the early twentieth century, preserving a Ceylonese rule set that he considered more sophisticated than the Malay version already published in the journal. Its value lies in documenting the game's wide geographic reach and the continuity of its core mechanics across culturally distinct communities.
 
 ## Context
 

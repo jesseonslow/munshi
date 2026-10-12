@@ -30,7 +30,7 @@ A. W. Hamilton's brief note identifies the Malayan bird name *burong olok-olok* 
 
 ## Summary
 
-Hamilton notes that Wilkinson's Dictionary listed *burong olok-olok* as an unidentified bird. He reports that Mr. H. C. Robinson kindly identified it for him as the Brown Gannet. The bird is described as a dark-plumaged sea bird with webbed feet, known locally as *olok-olok* in Kedah, where solitary specimens are typically encountered at sea off the Kedah coast in company with flocks of gulls (p. 260).
+Hamilton notes that Wilkinson's [Dictionary](./dialects-and-dictionaries.md) listed *burong olok-olok* as an unidentified bird. He reports that Mr. [H. C. Robinson](./herbert-christopher-robinson.md) kindly identified it for him as the Brown Gannet. The bird is described as a dark-plumaged sea bird with webbed feet, known locally as *olok-olok* in Kedah, where solitary specimens are typically encountered at sea off the [Kedah](./kedah.md) coast in company with flocks of [gulls](./gulls.md) (p. 260).
 
 ## References
 <!-- Grounded occurrences and citations -->

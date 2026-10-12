@@ -25,7 +25,7 @@ publication_type: note
 
 # Raja Manggeng
 
-Revd. Peter Howes published this brief ethnographic note in 1955, presenting the Padawan Land Dayak oral tradition of Manggeng—a hero who, according to the people of the Sarawak River (Simpang Kiri) region, single-handedly won a kingdom in Java. The article records the fullest known version of the narrative, traces the claimed genealogical descent, and describes the surviving material heirlooms (*pesaka*) that the Padawan people still possess.
+Revd. Peter Howes published this brief ethnographic note in 1955, presenting the Padawan Land [Dayak](./dayaks.md) oral tradition of Manggeng—a hero who, according to the people of the [Sarawak](./sarawak.md) River (Simpang Kiri) region, single-handedly won a kingdom in [Java](./java.md). The article records the fullest known version of the narrative, traces the claimed genealogical descent, and describes the surviving material heirlooms (*pesaka*) that the Padawan people still possess.
 
 ## Summary
 
@@ -37,8 +37,8 @@ The article's principal value lies in its documentation of the genealogical and 
 
 - The Padawan genealogy traces thirty-five generations from Manggeng to an ancestor named Truud; the most recent named descendant at the time of writing was a boy of sixteen called Made (p. 147).
 - The full genealogical sequence recorded is: Si-Jawih, Si-Mutai, Si-Tamun, Sair, Sadi, Sidi, Sutum, Siraen, Sikud, Dire, Singaus, Awak, Ginyot, Jangok, Nyang, Made (p. 147).
-- Surviving *pesaka* include two ear clasps "almost certainly of gold," a few metal beads (remains of a gold necklace and locket), and one earthenware jar (p. 147).
-- The jar is unglazed, hand-formed (not wheel-turned), with a light buff body darkening to reddish-brown, a hearth-blackened base, and a very friable material; it is described as having stood on a hearth rather than in the fire (p. 147).
+- Surviving *pesaka* include two ear clasps "almost certainly of gold," a few metal [beads](./beads.md) (remains of a gold necklace and locket), and one earthenware jar (p. 147).
+- The jar is unglazed, hand-formed (not wheel-turned), with a light buff body darkening to reddish-brown, a hearth-blackened base, and a very friable material; it is described as having stood on a hearth rather than in the [fire](./fire.md) (p. 147).
 - The Padawan site is identified as being at the foot of Mt. Penrissen, recorded on government maps as "Senah Negri" (p. 144).
 - Howes cross-references a companion paper on page 157 of the same issue, suggesting the jar was the subject of further technical analysis (p. 147, n. 1).
 
@@ -48,7 +48,7 @@ Howes presents the Manggeng tradition as a culturally coherent and internally co
 
 ## Context
 
-- Howes was an Anglican missionary working in the Sarawak highlands; the article was received by the MBRAS in November 1954 and reflects the ethnographic practice of missionary-scholars in mid-century Borneo, combining narrative transcription with material description.
+- Howes was an Anglican missionary working in the Sarawak highlands; the article was received by the [MBRAS](./malaysian-branch-of-the-royal-asiatic-society.md) in November 1954 and reflects the ethnographic practice of missionary-scholars in mid-century [Borneo](./borneo.md), combining narrative transcription with material description.
 - The jar described here is the subject of a companion technical paper in the same issue (p. 157), indicating that Howes sought independent physical analysis to complement his ethnographic account.
 
 ## References

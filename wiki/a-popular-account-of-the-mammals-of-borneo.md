@@ -25,7 +25,7 @@ publication_type: note
 
 # A popular account of the mammals of Borneo
 
-This is a brief errata notice published in the *Journal of the Straits Branch of the Royal Asiatic Society* (December 1882) correcting three textual errors in an article titled "A Few Ideas on the Probable Origin of the Hill Tribes of Formosa" (Journal No. 9).
+This is a brief errata notice published in the *[Journal of the Straits Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* (December 1882) correcting three textual errors in an article titled "[A Few Ideas on the Probable Origin of the Hill Tribes of Formosa](./a-few-ideas-on-the-probable-origin-of-the-hill-tribes-of-for.md)" ([Journal](./journal.md) No. 9).
 
 ## Summary
 

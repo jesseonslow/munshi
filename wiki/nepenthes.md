@@ -18,8 +18,8 @@ published: false
 
 ## MBRAS Sources
 
-- [C. Dover](./c-dover.md) (1928). [Notes on the fauna of pitcher-plants from Singapore Island. C. Dover {and others](./notes-on-the-fauna-of-pitcher-plants-from-singapore-island-c.md). *JMBRAS* 6(3): 1–27
-- Anon. A large beetle caught in a pitcher of Nepenthes. SB 25
+- [C. Dover](./c-dover.md) (1928). [Notes on the fauna of pitcher-plants from Singapore Island. C. Dover {and others](./notes-on-the-fauna-of-pitcher-plants-from-singapore-island-c.md). *[JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* 6(3): 1–27
+- [Anon](./anon-and-unidentifiable-initials.md). A large beetle caught in a pitcher of Nepenthes. SB 25
 
 ## References
 <!-- Grounded occurrences and citations -->

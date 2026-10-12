@@ -184,9 +184,10 @@ articles:
   pages: 230–231
   is_review: false
 ---
+
 # JSBRAS No. 85 (March 1922)
 
-**Series:** Journal of the Straits Branch of the Royal Asiatic Society  
+**Series:** [Journal of the Straits Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** March 1922
 
 ## Table of Contents

@@ -26,13 +26,13 @@ jstor: https://www.jstor.org/stable/41492960
 
 # Dictionary of Malaysian biography project
 
-This is a project announcement by Khoo Kay Kim (as contact) on behalf of the coordinators of the Dictionary of Malaysian Biography Project, published in the *JMBRAS* in 1983.
+This is a project announcement by [Khoo Kay Kim](./khoo-kay-kim.md) (as contact) on behalf of the coordinators of the Dictionary of Malaysian Biography Project, published in the *[JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* in 1983.
 
 ## Summary
 
-The notice announces a project proposed in October 1982 at the History Department, University of Malaya, to produce a comprehensive reference work entitled *Dictionary of Malaysian Biography*. The project was placed under the University's Institute of Advanced Studies, with three coordinators: Professor Abu Bakar Hamid (Malay Studies), Krishen Jit, and Lee Kam Hing (History Department). A four-year timeline beginning in early 1984 was planned (p. 141).
+The notice announces a project proposed in October 1982 at the History Department, University of [Malaya](./malaya.md), to produce a comprehensive reference work entitled *[Dictionary](./dialects-and-dictionaries.md) of Malaysian Biography*. The project was placed under the University's Institute of Advanced Studies, with three coordinators: Professor [Abu Bakar](./abu-bakar.md) Hamid (Malay Studies), Krishen Jit, and [Lee Kam Hing](./lee-kam-hing.md) (History Department). A four-year timeline beginning in early 1984 was planned (p. 141).
 
-The Dictionary is intended to contain concise biographies of significant figures in Malaysian history, with sub-projects covering specialized categories such as Malay rulers, nationalists, administrators, prominent individuals from Malay, Chinese, and Indian communities, women, parliamentarians, and literary and artistic figures. The project also aims to centralize biographical data at the University of Malaya and to generate new scholarship through seminars and occasional publications (p. 141).
+The Dictionary is intended to contain concise biographies of significant figures in Malaysian history, with sub-projects covering specialized categories such as Malay rulers, nationalists, administrators, prominent individuals from [Malay](./malay.md), [Chinese](./chinese.md), and Indian communities, women, parliamentarians, and literary and artistic figures. The project also aims to centralize biographical data at the University of Malaya and to generate new scholarship through seminars and occasional publications (p. 141).
 
 ## References
 <!-- Grounded occurrences and citations -->

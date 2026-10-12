@@ -157,9 +157,10 @@ articles:
   pages: 111–114
   is_review: true
 ---
+
 # JMBRAS Vol. 86, Part 2 (December 2013)
 
-**Series:** Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society  
+**Series:** Journal of the Malayan/[Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** December 2013
 
 ## Table of Contents

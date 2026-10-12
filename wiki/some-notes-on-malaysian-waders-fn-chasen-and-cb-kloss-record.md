@@ -28,7 +28,7 @@ publication_type: note
 
 # Some notes on Malaysian waders. F.N. Chasen and C.B. Kloss. Records of the Raffles Museum, No. 33
 
-This brief note by F. N. Chasen and C. Boden Kloss (1928) records observations on Malaysian waders, concluding a discussion on *Tringa pugnax* subspecies in the lesser Sunda Islands and describing an aberrant female painted snipe from Singapore.
+This brief note by F. N. Chasen and C. Boden Kloss (1928) records observations on Malaysian waders, concluding a discussion on *Tringa pugnax* subspecies in the lesser Sunda [Islands](./islands.md) and describing an aberrant female painted snipe from [Singapore](./singapore.md).
 
 ## Summary
 

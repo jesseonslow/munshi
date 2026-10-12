@@ -9,6 +9,7 @@ is_contributor: true
 status: stub
 published: false
 ---
+
 # W. Cheah
 
 <!-- Synthesis engine: Insert biographical synthesis and research focus here -->
@@ -17,7 +18,7 @@ published: false
 
 ## Bibliography
 
-- (1994) [Chinese furniture](./chinese-furniture.md). *JMBRAS* 67(1): 69–93
+- (1994) [Chinese furniture](./chinese-furniture.md). *[JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* 67(1): 69–93
 
 ## References
 <!-- Grounded occurrences and citations -->

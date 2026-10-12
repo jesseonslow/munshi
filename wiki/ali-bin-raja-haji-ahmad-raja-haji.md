@@ -18,7 +18,7 @@ published: false
 
 ## Bibliography
 - (1926) [Silsilah Melayu dan Bugis dan Sakalian Raja-raja-nya. . Overbeck](./silsilah-melayu-dan-bugis-dan-sakalian-raja-raja-nya-overbec.md). *JMBRAS* 4(3): 339–381
-- (1932) [A Malay history of Riau and Johore {Tuhfat-al-Nafis}. .O. Winstedt {Jawi](./a-malay-history-of-riau-and-johore-tuhfat-al-nafis-o-winsted.md). *JMBRAS* 10(2): 1–320
+- (1932) [A Malay history of Riau and Johore (Tuhfat-al-Nafis)](./a-malay-history-of-riau-and-johore-tuhfat-al-nafis.md). *JMBRAS* 10(2): 1–320
 
 ## References
 <!-- Grounded occurrences and citations -->

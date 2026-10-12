@@ -112,7 +112,7 @@ articles:
 
 # JSBRAS No. 50 (September 1908)
 
-**Series:** Journal of the Straits Branch of the Royal Asiatic Society  
+**Series:** [Journal of the Straits Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** September 1908
 
 ## Table of Contents

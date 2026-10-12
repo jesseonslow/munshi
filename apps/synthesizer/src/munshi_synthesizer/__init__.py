@@ -1,17 +1,14 @@
+"""Munshi Synthesizer package."""
 from munshi_synthesizer.config import SynthesizerConfig
-from munshi_synthesizer.schema import (
-    AuthorityRecord,
-    EntityTarget,
-    GeneratedArticle,
-    OccurrenceRecord,
-    SynthesisPayload,
-)
+from munshi_synthesizer.indexer import process_numbered_citations
+from munshi_synthesizer.parser import PublicationParser
+from munshi_synthesizer.schema import PublicationSource
+from munshi_synthesizer.synthesizer import TopicSynthesizer
 
 __all__ = [
     "SynthesizerConfig",
-    "EntityTarget",
-    "OccurrenceRecord",
-    "AuthorityRecord",
-    "SynthesisPayload",
-    "GeneratedArticle",
+    "PublicationSource",
+    "PublicationParser",
+    "TopicSynthesizer",
+    "process_numbered_citations",
 ]

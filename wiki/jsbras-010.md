@@ -68,7 +68,7 @@ articles:
   slug: memorandum-on-malay-transliteration
   title: Memorandum on Malay transliteration
   authors:
-  - Anon (and unidentifiable initials)
+  - Anon
   - Haughton H.T
   pages: 285–286
   is_review: false
@@ -83,7 +83,7 @@ articles:
 
 # JSBRAS No. 10 (December 1882)
 
-**Series:** Journal of the Straits Branch of the Royal Asiatic Society  
+**Series:** [Journal of the Straits Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** December 1882
 
 ## Table of Contents

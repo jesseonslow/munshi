@@ -82,7 +82,7 @@ articles:
 
 # JMBRAS Vol. 46, Part 1 (September 1973)
 
-**Series:** Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society  
+**Series:** Journal of the Malayan/[Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** September 1973
 
 ## Table of Contents

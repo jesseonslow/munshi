@@ -25,7 +25,7 @@ publication_type: journal_article
 
 # The cultural significance of the Pengkalan Kempas megaliths
 
-C. (Chandran Jeshurun) Jeshurun's 1973 article in the *Journal of the Malaysian Branch of the Royal Asiatic Society* re-examines the megalithic stone alignments at Pengkalan Kempas, Negeri Sembilan, arguing that they should be understood as part of a broader Peninsular megalithic tradition rather than being interpreted primarily through their association with the adjacent Muslim grave. The author identifies typological and positional parallels between the Pengkalan Kempas monuments and the better-known stone alignments of the Kuala Pilah and Alor Gajah districts, and uses new photographic evidence to propose Hindu-influenced decorative motifs on the carved stones.
+[C. (Chandran Jeshurun) Jeshurun](./c-chandran-jeshurun-jeshurun.md)'s 1973 article in the *[Journal of the Malaysian Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* re-examines the megalithic stone alignments at Pengkalan Kempas, [Negeri Sembilan](./negeri-sembilan.md), arguing that they should be understood as part of a broader Peninsular megalithic tradition rather than being interpreted primarily through their association with the adjacent Muslim grave. The author identifies typological and positional parallels between the Pengkalan Kempas monuments and the better-known stone alignments of the Kuala Pilah and Alor Gajah districts, and uses new photographic evidence to propose Hindu-influenced decorative motifs on the carved stones.
 
 ## Summary
 
@@ -33,11 +33,11 @@ Jeshurun's intervention addresses a persistent gap in the study of Peninsular me
 
 The author then turns to the decorative programme on the two outer, carved megaliths. Building on Evans' 1919 descriptions and a new series of photographs taken in 1973 (including close-ups made with powerful lighting during a Filem Negara Malaysia filming visit), Jeshurun identifies what he considers to be a frontal elephant face with descending trunk and stylised tusks on the larger decorated stone, and a distinct elephant-trunk form along the upper edge of the smaller one. Combined with Evans' earlier identification of a serpent and a kala-makara-like figure, these motifs provide, in Jeshurun's view, stronger grounds for speculating about Hindu influence than the purely negative arguments for animism or Hinduism that had previously prevailed (pp. 98–99).
 
-A fundamental unresolved problem remains: if the word "Allah" was carved by the same hands as the decorative motifs, then the makers of the monuments must have already been Islamised while retaining elements of earlier religious iconography. Jeshurun notes that the main megalithic areas of the Peninsula have been settled for centuries by people of Minangkabau descent from Sumatra, and suggests that comparative study of Minangkabau cultural traditions, conducted alongside proper excavations, would be the most productive path forward (p. 99).
+A fundamental unresolved problem remains: if the word "Allah" was carved by the same hands as the decorative motifs, then the makers of the monuments must have already been Islamised while retaining elements of earlier religious iconography. Jeshurun notes that the main megalithic areas of the Peninsula have been settled for centuries by people of Minangkabau descent from [Sumatra](./sumatra.md), and suggests that comparative study of Minangkabau cultural [traditions](./traditions.md), conducted alongside proper excavations, would be the most productive path forward (p. 99).
 
 ### Key Findings
 
-- Evans' 1919 excavation at Pengkalan Kempas yielded early Ming celadon (translucent apple-green, crackled glaze, incised foliate decoration), blue-and-white ware, four small button-shaped blue glass objects, a small unidentifiable silver coin, rough non-Chinese pottery, and the remains of three sharpened and fire-hardened posts embedded three feet below ground level (p. 90).
+- Evans' 1919 excavation at Pengkalan Kempas yielded early Ming celadon (translucent apple-green, crackled glaze, incised foliate decoration), blue-and-white ware, four small button-shaped blue glass objects, a small unidentifiable [silver](./silver.md) coin, rough non-[Chinese](./chinese.md) [pottery](./pottery.md), and the remains of three sharpened and [fire](./fire.md)-hardened posts embedded three feet below ground level (p. 90).
 - Before Evans re-erected the three principal megaliths in 1919, at least fifteen additional granite stones existed at the site, several of them ornamented; their original positions cannot now be verified (p. 89).
 - The smaller granite stone positioned across the laterite platform opposite the undecorated central megalith forms a pair whose height, inclination, and inter-stone distance match the average dimensions recorded by Sheppard for the Kuala Pilah district alignments (p. 95).
 - The orientation of the Pengkalan Kempas pair is northwest-southeast, differing from the north-south orientation characteristic of the Kuala Pilah and Alor Gajah alignments (p. 95).
@@ -50,8 +50,8 @@ Jeshurun's definitive takeaway is that the Pengkalan Kempas megaliths cannot be 
 
 ## Context
 
-- The article draws on Evans' 1919 excavation report in the *Journal of the F.M.S. Museums* (Vol. IX, 1920–22), Sheppard's 1962 survey, and Winstedt's early twentieth-century publications on the advent of Islam in the Malay Peninsula.
-- The study contributes to the historiography of early Islam in Malaysia by challenging the assumption that the Pengkalan Kempas site is primarily an Islamic monument, and by situating the megaliths within a comparative Southeast Asian megalithic framework informed by recent work in Sarawak and Sabah (Harrisson & O'Connor 1970; Harrisson & Harrisson 1971).
+- The article draws on Evans' 1919 excavation report in the *Journal of the [F.M.S.](./federated-malay-states.md) [Museums](./museums.md)* (Vol. IX, 1920–22), Sheppard's 1962 survey, and Winstedt's early twentieth-century publications on the advent of Islam in the [Malay](./malay.md) Peninsula.
+- The study contributes to the historiography of early [Islam](./islam.md) in [Malaysia](./malaysia.md) by challenging the assumption that the Pengkalan Kempas site is primarily an Islamic monument, and by situating the megaliths within a comparative Southeast Asian megalithic framework informed by recent work in [Sarawak](./sarawak.md) and [Sabah](./sabah.md) (Harrisson & O'Connor 1970; Harrisson & Harrisson 1971).
 
 ## References
 <!-- Grounded occurrences and citations -->

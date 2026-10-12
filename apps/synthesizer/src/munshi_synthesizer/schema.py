@@ -1,66 +1,67 @@
+"""Data schemas for publication sources and synthesis outputs."""
 from __future__ import annotations
 
-from typing import Literal
 from pydantic import BaseModel, Field
 
 
-EntityCategory = Literal["person", "place", "event", "concept", "publication", "group"]
-EntityTier = Literal["A", "B", "C"]
-
-
-class OccurrenceRecord(BaseModel):
-    """A verified mention of an entity in the primary corpus."""
-    doc_id: str
-    page_num: int | None = None
-    context_snippet: str
-    block_id: str | None = None
-    source_type: Literal["ledger", "zvec_vector", "hybrid"] = "ledger"
-    similarity_score: float | None = None
-
-
-class EntityTarget(BaseModel):
-    """An entity selected for synthesis evaluation."""
-    entity_id: str
-    canonical_name: str
-    category: EntityCategory
-    tier: EntityTier = "C"
-    mention_count: int = 0
-    is_curated: bool = False
-    aliases: list[str] = Field(default_factory=list)
-
-
-class AuthorityCitation(BaseModel):
-    """Bibliographic citation extracted from Index Malaysiana."""
-    author: str
-    title: str
-    journal_code: str
-    volume: str
-    raw_entry: str
-
-
-class AuthorityRecord(BaseModel):
-    """Authority data parsed from Index Malaysiana for an entity or concept."""
-    id: str
-    canonical_name: str
-    category: str = "concept"
-    is_collector_hub: bool = False
-    aliases: list[str] = Field(default_factory=list)
-    facets: list[str] = Field(default_factory=list)
-    cross_references: list[str] = Field(default_factory=list)
-    citations: list[AuthorityCitation] = Field(default_factory=list)
-
-
-class SynthesisPayload(BaseModel):
-    """Contextual bundle fed to the synthesis generator."""
-    target: EntityTarget
-    occurrences: list[OccurrenceRecord]
-    authority: AuthorityRecord | None = None
-    custom_instructions: str | None = None
-
-
-class GeneratedArticle(BaseModel):
-    """Output artifact produced by the synthesis pass."""
-    entity_id: str
+class PublicationSource(BaseModel):
+    """Structured evidence parsed from a publication markdown file."""
     slug: str
-    markdown_content: str
-    sources_referenced: list[str] = Field(default_factory=list)
+    title: str
+    authors: list[str] = Field(default_factory=list)
+    year: int | str = "n.d."
+    journal_code: str | None = None
+    volume: str | None = None
+    issue: str | None = None
+    pages: str | None = None
+    jstor: str | None = None
+    project_muse: str | None = None
+    lede: str = ""
+    summary: str = ""
+    key_findings: list[str] = Field(default_factory=list)
+    context_notes: list[str] = Field(default_factory=list)
+    relevance_score: float = 0.0
+
+    @property
+    def author_display(self) -> str:
+        if not self.authors:
+            return "Anon"
+        if len(self.authors) == 1:
+            return self.authors[0]
+        if len(self.authors) == 2:
+            return f"{self.authors[0]} and {self.authors[1]}"
+        return f"{self.authors[0]} et al."
+
+    @property
+    def citation_author(self) -> str:
+        """Returns the primary surname for compact parenthetical labels."""
+        if not self.authors:
+            return "Anon"
+        first = self.authors[0].strip()
+        if "," in first:
+            return first.split(",")[0].strip()
+        parts = first.split()
+        return parts[-1] if parts else "Anon"
+
+    @property
+    def journal_citation(self) -> str:
+        vol = f" {self.volume}" if self.volume else ""
+        iss = f"({self.issue})" if self.issue else ""
+        pg = f": {self.pages}" if self.pages else ""
+        jcode = f" *{self.journal_code}*" if self.journal_code else ""
+        return f"{jcode}{vol}{iss}{pg}".strip()
+
+    @property
+    def aggregator_badge(self) -> str:
+        """Generates standard HTML pill anchors for external aggregators."""
+        if self.jstor:
+            return (
+                f'<a href="{self.jstor}" class="aggregator-link" '
+                f'target="_blank" rel="noopener noreferrer">Read on JSTOR</a>'
+            )
+        if self.project_muse:
+            return (
+                f'<a href="{self.project_muse}" class="aggregator-link" '
+                f'target="_blank" rel="noopener noreferrer">Read on Project MUSE</a>'
+            )
+        return ""

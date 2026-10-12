@@ -19,7 +19,6 @@ amendments: []
 status: stub
 published: false
 summarized: false
-source_mismatch: true
 publication_type: document
 ---
 

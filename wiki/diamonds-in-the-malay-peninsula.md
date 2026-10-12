@@ -26,11 +26,11 @@ jstor: https://www.jstor.org/stable/41561471
 
 # Diamonds in the Malay Peninsula
 
-A brief note by H. N. Ridley in the *Journal of the Straits Branch of the Royal Asiatic Society* (Vol. 24, 1891) addressing the absence of recent diamond discoveries in the Malay Peninsula and raising a toponymic query.
+A brief note by [H. N. Ridley](./henry-nicholas-ridley.md) in the *[Journal of the Straits Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* (Vol. 24, 1891) addressing the absence of recent diamond discoveries in the [Malay](./malay.md) Peninsula and raising a toponymic query.
 
 ## Summary
 
-The note opens with a quotation from Leon Jausen's translation of Godinho de Eredia's *Account of Malacca*, describing the Putri of Gunong Ledang as an enchantress who transforms women into animals, and as the immortal wife of Permicuri dwelling in a mountain cavern (p. 166). A brief annotation (attributed "M. L.") contrasts the Dato' of Johol's aboriginal version of the Putri — an ugly old woman with a cat — with Godinho de Eredia's "civilized Malay" rendering of a young, beautiful woman dressed in silk, likening the latter to similar Arabic story motifs (p. 166).
+The note opens with a quotation from Leon Jausen's translation of Godinho de Eredia's *Account of [Malacca](./melaka.md)*, describing the Putri of Gunong Ledang as an enchantress who transforms women into [animals](./animals.md), and as the immortal wife of Permicuri dwelling in a mountain cavern (p. 166). A brief annotation (attributed "M. L.") contrasts the Dato' of Johol's aboriginal version of the Putri — an ugly old woman with a cat — with [Godinho de Eredia](./godinho-de-eredia.md)'s "civilized Malay" rendering of a young, beautiful woman dressed in silk, likening the latter to similar Arabic story motifs (p. 166).
 
 Ridley then states that there is no recent record of diamond discovery in the Peninsula and poses a question about the "Strait of Tanjam," asking whether it is a perversion of *Tanjong* and, if so, which Cape it denotes (p. 167).
 

@@ -25,7 +25,7 @@ publication_type: note
 
 # Some copper tokens in the Raffles Museum, Singapore
 
-C.H. Dakers describes two unpublished "Mules" (die combinations) among the British copper tokens of the Straits Settlements held in the Raffles Museum, Singapore, building on H. Leslie Ellis's earlier catalogue of the series.
+[C.H. Dakers](./ch-dakers.md) describes two unpublished "Mules" (die combinations) among the British copper tokens of the [Straits Settlements](./straits-settlements.md) held in the [Raffles](./stamford-raffles.md) Museum, [Singapore](./singapore.md), building on H. Leslie Ellis's earlier catalogue of the series.
 
 The note systematically arranges the obverses (lettered A–K) and reverses (numbered 1–7) of the one-keping and two-keping tokens, noting sub-varieties, misstrikes, and die interchanges. Dakers identifies a Mule combining obverse F (Cock right, earliest type) with reverse No. 1 (proper to the Sumatra and Sultana coins), and an extraordinary piece combining obverse J (Cock left, C.R. Read's type) with obverse K (the genuine East India Company obverse of the 1803 Quarter Faluce of Madras), which he judges to be a purposely concocted freak (p. 129). A tabular summary of all observed die interchanges closes the note (p. 129).
 

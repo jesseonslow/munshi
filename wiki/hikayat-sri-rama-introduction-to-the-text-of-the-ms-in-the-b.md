@@ -28,7 +28,7 @@ jstor: https://www.jstor.org/stable/41561215
 
 # Hikayat Sri Rama: introduction to the text of the Ms. in the Bodleian Library at Oxford
 
-W.G. Shellabear's 1917 introduction to the Bodleian Library manuscript of the *Hikayat Sri Rama* establishes that this text—acquired by Archbishop Laud in 1633 and probably the oldest Malay book in existence—is not a translation of the Sanskrit *Ramayana* but a distinct literary work that shares its characters while diverging substantially in narrative structure, theology, and detail. Published in the *Journal of the Straits Branch of the Royal Asiatic Society* (Vol. 70), the article serves as the critical apparatus for the full text printed in the following number (No. 71).
+[W.G. Shellabear](./william-girdlestone-shellabear.md)'s 1917 introduction to the Bodleian Library manuscript of the *Hikayat Sri Rama* establishes that this text—acquired by Archbishop Laud in 1633 and probably the oldest [Malay](./malay.md) book in existence—is not a translation of the Sanskrit *Ramayana* but a distinct literary work that shares its characters while diverging substantially in narrative structure, theology, and detail. Published in the *[Journal of the Straits Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* (Vol. 70), the article serves as the critical apparatus for the full text printed in the following number (No. 71).
 
 ## Summary
 
@@ -49,7 +49,7 @@ Shellabear's method is comparative and philological. He draws on Marsden's 1812 
 
 ### Conclusion
 
-Shellabear's definitive takeaway is that the *Hikayat Sri Rama* must be understood as an independent Malay literary creation that absorbed the skeleton of the Indian epic and reworked it into a narrative shaped by local theological sensibilities, narrative preferences, and cultural logic. The manuscript's great age and archaic orthography make it not merely a comparative curiosity but a foundational document for the study of early Malay literature and language.
+Shellabear's definitive takeaway is that the *Hikayat Sri Rama* must be understood as an independent Malay literary creation that absorbed the skeleton of the Indian epic and reworked it into a narrative shaped by local theological sensibilities, narrative preferences, and cultural logic. The manuscript's great age and archaic orthography make it not merely a comparative curiosity but a foundational document for the study of early [Malay literature](./malay-literature.md) and language.
 
 ## Context
 

@@ -21,7 +21,7 @@ published: false
 
 ## MBRAS Sources
 
-- [N.B. Dennys](./nicholas-belfield-dennys.md) (1886). [The journal of the Indian Archipelago](./the-journal-of-the-indian-archipelago.md). *JSBRAS* 18: 335–344
+- [N.B. Dennys](./nicholas-belfield-dennys.md) (1886). [The journal of the Indian Archipelago](./the-journal-of-the-indian-archipelago.md). *[JSBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* 18: 335–344
 
 ## References
 <!-- Grounded occurrences and citations -->

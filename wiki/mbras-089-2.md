@@ -18,7 +18,7 @@ contributors:
   name: Hara F
 - id: kobkua-suwannathat-pian
   name: Kobkua Suwannathat-Pian
-- id: m-kaplan
+- id: martha-kaplan
   name: M. Kaplan
 - id: mahani-musa
   name: Mahani Musa
@@ -166,7 +166,7 @@ articles:
 
 # JMBRAS Vol. 89, Part 2 (December 2016)
 
-**Series:** Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society  
+**Series:** Journal of the Malayan/[Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** December 2016
 
 ## Table of Contents
@@ -174,7 +174,7 @@ articles:
 * [The career of Francis James Bernard: nepotism and patronage in early Singapore](./the-career-of-francis-james-bernard-nepotism-and-patronage-i.md) — [N.H. Wright](./nh-wright.md) (pp. 25–44)
 * [Japanese soldiers who joined communist guerillas in Malaya](./japanese-soldiers-who-joined-communist-guerillas-in-malaya.md) — [Hara F](./hara-f.md) (pp. 67–99)
 * [Malayan women during the Japanese occupation](./malayan-women-during-the-japanese-occupation.md) — [Mahani Musa](./mahani-musa.md) (pp. 101–124)
-* [Nation and conservation: postcolonial water narratives in Singapore rituals](./nation-and-conservation-postcolonial-water-narratives-in-sin.md) — [M. Kaplan](./m-kaplan.md) (pp. 125–138)
+* [Nation and conservation: postcolonial water narratives in Singapore rituals](./nation-and-conservation-postcolonial-water-narratives-in-sin.md) — [M. Kaplan](./martha-kaplan.md) (pp. 125–138)
 * [The word Bugis](./the-word-bugis.md) — [R. Jones](./r-jones.md), [P.H. Kratoska](./paul-h-kratoska.md) (pp. 139)
 * [The establishment of Singapore](./the-establishment-of-singapore.md) — [W. Farquhar](./w-farquhar.md) (pp. 141–143)
 * [The Singapore water supply](./the-singapore-water-supply.md) — [P.H. Kratoska](./paul-h-kratoska.md) (pp. 144–147)
@@ -192,7 +192,7 @@ articles:
 * [B.W. Andaya](./barbara-watson-andaya.md)
 * [Hara F](./hara-f.md)
 * [Kobkua Suwannathat-Pian](./kobkua-suwannathat-pian.md)
-* [M. Kaplan](./m-kaplan.md)
+* [M. Kaplan](./martha-kaplan.md)
 * [Mahani Musa](./mahani-musa.md)
 * [N. Lee](./n-lee.md)
 * [N.H. Wright](./nh-wright.md)

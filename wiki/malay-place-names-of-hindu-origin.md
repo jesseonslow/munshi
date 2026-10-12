@@ -26,13 +26,13 @@ jstor: https://www.jstor.org/stable/41559915
 
 # Malay place names of Hindu origin
 
-F.W. Douglas's short note examines the Sanskrit and Hindu etymological roots of various Malay place names, arguing that many toponyms in the Malay Peninsula derive from the period of Hindu cultural influence, particularly the cult of Shiva.
+[F.W. Douglas](./fw-douglas.md)'s short note examines the Sanskrit and Hindu etymological roots of [various](./various.md) Malay place names, arguing that many toponyms in the [Malay](./malay.md) Peninsula derive from the period of Hindu cultural influence, particularly the cult of Shiva.
 
 ## Summary
 
-Douglas begins with the name Sungei Ujong, tracing it to the Javanese "Sang Ywang Ujong" (Holy Head), which he connects to the modern Malay name Tanjong Tuhan and to the introduction of Shiva worship from Java. He then proceeds through a series of place names, proposing Sanskrit derivations: Jugra from "Ywang Guru" (Chief Deity); Lingi from "Lingi" (those who bear the mark of Shiva); Malaka from "Mulk" (district) or from the Sanskrit word for the yellow myrobalans tree (also a name of Parvati); Johore from "Jor" (connecting link); Cherakah from "Chahar" (bamboo) and "Koh" (hill); and Selangor from "Sara" (mansion) and "Ywang Guru" (deity).
+Douglas begins with the name [Sungei Ujong](./sungei-ujong.md), tracing it to the Javanese "Sang Ywang Ujong" (Holy Head), which he connects to the modern Malay name Tanjong Tuhan and to the introduction of Shiva worship from [Java](./java.md). He then proceeds through a series of place names, proposing Sanskrit derivations: Jugra from "Ywang Guru" (Chief Deity); Lingi from "Lingi" (those who bear the mark of Shiva); [Malaka](./melaka.md) from "Mulk" (district) or from the Sanskrit word for the yellow myrobalans tree (also a name of Parvati); [Johore](./johor.md) from "Jor" (connecting link); Cherakah from "Chahar" (bamboo) and "Koh" (hill); and [Selangor](./selangor.md) from "Sara" (mansion) and "Ywang Guru" (deity).
 
-The note extends to Ptolemy's ancient names for the peninsula, suggesting Hindu origins for Sabana (easterly winds), Khrysoanas (river of gold), Tharra (swamp), Konkonagara (saffron city), Kolandia (laden ships), and Maleikolon (cardamom district). Douglas closes by noting that recent archaeological finds of Indian-style beads in the Bernam valley support the hypothesis that Indian traders in Ptolemy's era were responsible for many of these names (pp. 150–152).
+The note extends to Ptolemy's ancient names for the peninsula, suggesting Hindu origins for Sabana (easterly winds), Khrysoanas (river of gold), Tharra (swamp), Konkonagara (saffron city), Kolandia (laden ships), and Maleikolon (cardamom district). Douglas closes by noting that recent [archaeological finds](./archaeological-finds.md) of Indian-style [beads](./beads.md) in the Bernam valley support the hypothesis that Indian traders in [Ptolemy](./ptolemy.md)'s era were responsible for many of these names (pp. 150–152).
 
 ## References
 <!-- Grounded occurrences and citations -->

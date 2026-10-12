@@ -25,8 +25,8 @@ published: false
 
 ## MBRAS Sources
 
-- Taylor, E.N. Malay family law. MB 15(1) and 16(1)
-- [E.N. Taylor](./en-taylor.md) (1948). [Mohammedan divorce by khula](./mohammedan-divorce-by-khula.md). *JMBRAS* 21(2): 3–39
+- [Taylor, E.N](./en-taylor.md). [Malay](./malay.md) [family](./family.md) law. MB 15(1) and 16(1)
+- [E.N. Taylor](./en-taylor.md) (1948). [Mohammedan divorce by khula](./mohammedan-divorce-by-khula.md). *[JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* 21(2): 3–39
 
 ## References
 <!-- Grounded occurrences and citations -->

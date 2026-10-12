@@ -21,8 +21,8 @@ published: false
 
 ## MBRAS Sources
 
-- [H.N. Ridley](./henry-nicholas-ridley.md) (1898). [Hoseanthus Merrill, n.gen. SB 79: {17} S 1918 Hybleapuera Cram](./hoseanthus-merrill-ngen-sb-79-17-s-1918-hybleapuera-cram.md). *JSBRAS* 31: 104–105
-- Ridley, H.N. _Calogramma festiva_ Walk. SB 35
+- [H.N. Ridley](./henry-nicholas-ridley.md) (1898). [Hoseanthus Merrill, n.gen. SB 79: {17} S 1918 Hybleapuera Cram](./hoseanthus-merrill-ngen-sb-79-17-s-1918-hybleapuera-cram.md). *[JSBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* 31: 104–105
+- [Ridley, H.N](./henry-nicholas-ridley.md). _Calogramma festiva_ Walk. SB 35
 
 ## References
 <!-- Grounded occurrences and citations -->

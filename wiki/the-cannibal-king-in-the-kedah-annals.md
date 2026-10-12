@@ -25,7 +25,7 @@ publication_type: note
 
 # The cannibal king in the “Kedah Annals”
 
-C. O. Blagden's short note compares the cannibal king narrative in the "Hikayat Marong Mahawangsa" (Kedah Annals) with the similar tale in Fausboll's Maha-Sutasoma-Jataka (No. 537), arguing that the Kedah version was borrowed from a Siamese source.
+[C. O. Blagden](./charles-otto-blagden.md)'s short note compares the cannibal king narrative in the "Hikayat Marong Mahawangsa" (Kedah Annals) with the similar tale in Fausboll's Maha-Sutasoma-Jataka (No. 537), arguing that the [Kedah](./kedah.md) version was borrowed from a Siamese source.
 
 ## Summary
 

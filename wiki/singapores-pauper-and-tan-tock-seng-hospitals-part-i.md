@@ -42,7 +42,7 @@ publication_type: journal_article
 
 # Singapore’s pauper and Tan Tock Seng hospitals. Part I
 
-Y.K. Lee's 1975 article traces the institutional history of Singapore's pauper hospitals from the founding of the Settlement in 1819 to the laying of the foundation stone of Tan Tock Seng Hospital in 1844, arguing that the hospital's origins were shaped by a persistent tension between colonial fiscal conservatism and the humanitarian crisis created by mass Chinese immigration. The study demonstrates that what is remembered as a single act of private philanthropy was in fact the culmination of decades of administrative failure, inter-imperial disputes, and community self-help.
+[Y.K. Lee](./yk-lee.md)'s 1975 article traces the institutional history of [Singapore](./singapore.md)'s pauper [hospitals](./hospitals.md) from the founding of the Settlement in 1819 to the laying of the foundation stone of Tan Tock Seng Hospital in 1844, arguing that the hospital's origins were shaped by a persistent tension between colonial fiscal conservatism and the humanitarian crisis created by mass [Chinese](./chinese.md) immigration. The study demonstrates that what is remembered as a single act of private philanthropy was in fact the culmination of decades of administrative failure, inter-imperial disputes, and community self-help.
 
 ## Summary
 
@@ -50,11 +50,11 @@ The article reconstructs the full institutional arc from the first makeshift pau
 
 The narrative is driven by the interplay between three actors: the local Singapore administration (Resident Councillors, Surgeons, the Grand Jury), the Supreme Government in Bengal (and ultimately London), and the Chinese community itself. Lee shows how each group's priorities clashed—Bengal's fiscal orthodoxy demanded the abolition of what it considered an objectionable tax on a necessary article of food; the local administration was caught between humanitarian pressure from the press and Grand Jury, and the rigid instructions from above; and the Chinese community, while producing individual philanthropists of note, failed to mount a sustained collective response until the crisis became undeniable.
 
-Primary sources—Straits Settlements Records, the Singapore Free Press, the Singapore Chronicle, and the Straits Times—allow Lee to reconstruct the administrative correspondence, press debates, and Grand Jury presentments that drove each policy decision. The article is particularly effective in using newspaper editorials and letters to the editor to reveal the public opinion that constrained and sometimes overrode official action, and in quoting the Grand Jury presentments to show how the judicial system was co-opted as a vehicle for social criticism in a settlement without a legislature.
+Primary sources—[Straits Settlements](./straits-settlements.md) Records, the Singapore Free Press, the Singapore Chronicle, and the Straits Times—allow Lee to reconstruct the administrative correspondence, press debates, and Grand Jury presentments that drove each policy decision. The article is particularly effective in using newspaper editorials and letters to the editor to reveal the public opinion that constrained and sometimes overrode official action, and in quoting the Grand Jury presentments to show how the judicial system was co-opted as a vehicle for social criticism in a settlement without a legislature.
 
 ### Key Findings
 
-- The first Pauper Hospital cost $72.19 to run for the three months November 1821 to January 1822, comprising $48.00 in salaries, $14.00 in diet money, and $10.19 in articles (p. 76).
+- The first Pauper Hospital cost $72.19 to run for the three months November 1821 to January 1822, comprising $48.00 in salaries, $14.00 in diet [money](./money.md), and $10.19 in articles (p. 76).
 - The Pork Farm was auctioned at $820 per month in April 1830; by February 1838 it had accumulated a balance of $17,596.66, which the Grand Jury recommended be applied to the new hospital (pp. 80, 88).
 - The Coleman-designed Pauper Hospital was approved at a cost of $11,402.00 and completed in June 1834, featuring two-storey bed space with floor-to-ceiling windows for ventilation and a 15-foot compound wall (pp. 83–84).
 - The hospital was seized as a convict jail in January 1835 following the murder of the Head Peon and eleven escapes; 139 paupers were relocated to a temporary attap shed at a cost of $600 (p. 84).
@@ -68,7 +68,7 @@ Lee's definitive historical takeaway is that Tan Tock Seng Hospital was the prod
 ## Context
 
 - Primary archival collections: Straits Settlements Records (S.S.R.), Singapore Free Press, Singapore Chronicle, and Straits Times, all held as microfilm at the National Library, Singapore (p. 111).
-- Historiographical contribution: This is Part I of a two-part study forming part of Lee's broader project on the medical history of early Singapore, building on his earlier publications on medical education (JMBRAS 46, 1973) and lunatic asylums (Medical History 17, 1973) in the Straits Settlements.
+- Historiographical contribution: This is Part I of a two-part study forming part of Lee's broader project on the medical history of early Singapore, building on his earlier publications on medical [education](./education.md) (JMBRAS 46, 1973) and lunatic asylums (Medical History 17, 1973) in the Straits Settlements.
 
 ## References
 <!-- Grounded occurrences and citations -->

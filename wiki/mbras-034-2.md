@@ -34,7 +34,7 @@ articles:
 
 # JMBRAS Vol. 34, Part 2 (None 1961)
 
-**Series:** Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society  
+**Series:** Journal of the Malayan/[Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** None 1961
 
 ## Table of Contents

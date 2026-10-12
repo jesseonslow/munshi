@@ -70,7 +70,7 @@ articles:
 
 # JMBRAS Vol. 74, Part 2 (December 2001)
 
-**Series:** Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society  
+**Series:** Journal of the Malayan/[Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** December 2001
 
 ## Table of Contents

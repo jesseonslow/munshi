@@ -26,7 +26,7 @@ jstor: https://www.jstor.org/stable/41560761
 
 # Meteorological report for the year 1885
 
-T. Irvine Rowell, Principal Civil Medical Officer of the Straits Settlements, compiled this official meteorological report for 1885, originally published in the Government Gazette and reprinted in the *Journal of the Straits Branch of the Royal Asiatic Society*. The document presents systematic observations of atmospheric pressure, temperature, radiation, humidity, wind, and rainfall across four recording stations—Singapore, Penang, Province Wellesley, and Malacca—and situates the year's data within a growing multi-decadal record beginning in 1870.
+T. Irvine Rowell, Principal Civil Medical Officer of the [Straits Settlements](./straits-settlements.md), compiled this official meteorological report for 1885, originally published in the Government Gazette and [reprinted](./reprinted.md) in the *[Journal of the Straits Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)*. The document presents systematic observations of atmospheric pressure, temperature, radiation, humidity, wind, and rainfall across four recording stations—[Singapore](./singapore.md), [Penang](./penang.md), [Province Wellesley](./province-wellesley.md), and [Malacca](./melaka.md)—and situates the year's data within a growing multi-decadal record beginning in 1870.
 
 ## Summary
 

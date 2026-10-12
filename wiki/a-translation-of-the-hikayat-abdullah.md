@@ -25,11 +25,11 @@ publication_type: translation
 
 # A translation of the Hikayat Abdullah
 
-This is a translation of the *Hikayat Abdullah* by J. J. Sheehan, published in the *Journal of the Malayan Branch of the Royal Asiatic Society*, Vol. 14, No. 3 (1936), pp. 226–229.
+This is a translation of the *[Hikayat Abdullah](./hikayat-abdullah.md)* by J. J. Sheehan, published in the *[Journal of the Malayan Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)*, Vol. 14, No. 3 (1936), pp. 226–229.
 
 ## Summary
 
-The document presents Sheehan's English translation of the *Hikayat Abdullah*, the well-known Malay autobiographical narrative of Abdullah Munsyi (c. 1797–1854), a prominent Malay writer and court scribe in early nineteenth-century Singapore and Malacca. The translation spans four pages within the journal issue, consistent with a brief excerpt or partial rendering rather than a complete translation of the full work.
+The document presents Sheehan's English translation of the *[Hikayat Abdullah](./hikayat-abdullah.md)*, the well-known [Malay](./malay.md) autobiographical narrative of Abdullah Munsyi (c. 1797–1854), a prominent [Malay](./malay.md) writer and court scribe in early nineteenth-century [Singapore](./singapore.md) and [Malacca](./melaka.md). The translation spans four pages within the [journal](./journal.md) issue, consistent with a brief excerpt or partial rendering rather than a complete translation of the full work.
 
 ## References
 <!-- Grounded occurrences and citations -->

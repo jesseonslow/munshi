@@ -26,11 +26,11 @@ jstor: https://www.jstor.org/stable/41560535
 
 # Work on Sakais
 
-H. N. Ridley's brief notice (p. 204) announces the forthcoming publication of a comprehensive work on the Sakai (wild tribes) of the Malay Peninsula by W. W. Skeat and C. O. Blagden.
+[H. N. Ridley](./henry-nicholas-ridley.md)'s brief notice (p. 204) announces the forthcoming publication of a comprehensive work on the [Sakai](./sakai.md) (wild tribes) of the [Malay](./malay.md) Peninsula by [W. W. Skeat](./walter-william-skeat.md) and [C. O. Blagden](./charles-otto-blagden.md).
 
 ## Summary
 
-The note, based on a letter from Blagden, describes the book as an attempt to consolidate all material of permanent value from previous publications—both books and periodicals—along with Skeat's own fieldwork from the Cambridge Exploring Expedition in the Northern States and Selangor, Blagden's notes, and information gathered by D. F. A. Hervey, Hugh Clifford, Vaughan Stevens, and others (p. 204). Ridley emphasizes the urgency of the work, noting that the language and customs of these tribes are gradually disappearing, and that the authors' names guarantee its excellence (p. 204).
+The note, based on a letter from Blagden, describes the book as an attempt to consolidate all material of permanent value from previous publications—both books and periodicals—along with Skeat's own fieldwork from the Cambridge Exploring Expedition in the Northern States and [Selangor](./selangor.md), Blagden's notes, and information gathered by [D. F. A. Hervey](./dudley-francis-amelius-hervey.md), [Hugh Clifford](./sir-hugh-charles-clifford.md), [Vaughan Stevens](./vaughan-stevens.md), and others (p. 204). Ridley emphasizes the urgency of the work, noting that the language and customs of these tribes are gradually disappearing, and that the authors' names guarantee its excellence (p. 204).
 
 ## References
 <!-- Grounded occurrences and citations -->

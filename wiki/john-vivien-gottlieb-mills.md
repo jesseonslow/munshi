@@ -20,7 +20,7 @@ published: false
 
 ## MBRAS Sources
 
-- [Mubin Sheppard](./mubin-sheppard.md) (1987). [John Mills. Obituary](./john-mills-obituary.md). *JMBRAS* 60: 97–98
+- [Mubin Sheppard](./mubin-sheppard.md) (1987). [John Mills. Obituary](./john-mills-obituary.md). *[JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* 60: 97–98
 
 ## References
 <!-- Grounded occurrences and citations -->

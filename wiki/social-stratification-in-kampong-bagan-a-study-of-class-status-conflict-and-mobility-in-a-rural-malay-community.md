@@ -30,7 +30,7 @@ published: false
 - 3. Status Structure in Kampong Bagan
 - 4. Manifestations of Class and Status in Kampong Bagan
 - 5. Conflicts in Kampong Bagan
-- 6. Social Mobility in Kampong Bagan
+- 6. Social Mobility in Kampong [Bagan](./bagan-johor.md)
 - 7. Summary and Conclusion
 - Maps I and II
 - Appendix A: Questionnaires

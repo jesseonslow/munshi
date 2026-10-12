@@ -21,14 +21,13 @@ status: stub
 published: false
 ---
 
-
 # Sir Hugh Low
 
 <!-- Synthesis engine: Insert introductory synthesis for Sir Hugh Low here -->
 
 ## MBRAS Sources
 
-- H. Low and [E. Sadka](./e-sadka.md) (1954). [The journal of Sir Hugh Low, 1877. . Sadka](./the-journal-of-sir-hugh-low-1877-sadka.md). *JMBRAS* 27(4): 1–108
+- H. Low and [E. Sadka](./e-sadka.md) (1954). [The journal of Sir Hugh Low, 1877. . Sadka](./the-journal-of-sir-hugh-low-1877-sadka.md). *[JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* 27(4): 1–108
 
 ## Bibliography
 - (1880) [Selesilah: book of the descent of the Rajas of Bruni](./selesilah-book-of-the-descent-of-the-rajas-of-bruni.md). *JSBRAS* 5: 1–35

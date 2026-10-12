@@ -1,11 +1,17 @@
-{% extends "base.jinja2" %}
+{% extends "synthesis_layout.jinja2" %}
 
-{% block category_instructions %}
-# SYNTHESIS INSTRUCTIONS: HISTORICAL CONCEPT / COMMODITY / INSTITUTION
-1. Analyze this thematic subject (e.g., *Tin Mining*, *Piracy*, *Slavery and Debt Bondage*) across colonial Malaya and Borneo.
-2. Structure sections:
-   - `## Scope & Historical Definition`
-   - `## Economic / Social Dynamics in the Region`
-   - `## Colonial Regulation & Legal Frameworks`
-3. Weave cross-document occurrences into a cohesive analysis rather than summarizing passage-by-passage.
+{% block category_task %}
+Write an authoritative, grounded encyclopedia article on the thematic subject, institution, or commodity: **{{ topic_name }}**.
+{% endblock %}
+
+{% block category_architecture %}
+1. THE ORIENTING LEDE (NO SUBHEADING):
+   - 1 concise paragraph defining the subject, its regional prevalence across the Malay Peninsula and Borneo, and its economic, cultural, or ecological significance.
+2. THEMATIC BODY:
+   - Organize into 2 to 4 substantive '{{ body_heading_prefix }}' subheadings (e.g., `{{ body_heading_prefix }} Scope and Historical Definition`, `{{ body_heading_prefix }} Economic Dynamics`).
+   {% if subtopics %}
+   - Weave in the principal facets: {{ subtopics | join(", ") }}.
+   {% endif %}
+3. RESEARCH & HISTORICAL SCOPE:
+   - Conclude with `{{ body_heading_prefix }} Research and Documentation` assessing how the Society's literature investigated this topic over time, shifting priorities, and key debates.
 {% endblock %}

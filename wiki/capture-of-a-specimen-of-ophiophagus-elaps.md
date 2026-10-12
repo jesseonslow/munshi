@@ -25,11 +25,11 @@ publication_type: note
 
 # Capture of a specimen of Ophiophagus elaps
 
-This short note by N. B. Dennys, published in the *Journal of the Straits Branch of the Royal Asiatic Society* (Vol. 2, 1878, pp. 233–235), records the capture of a specimen of *Ophiophagus elaps* (the snake-eating king cobra) in Singapore.
+This short note by [N. B. Dennys](./nicholas-belfield-dennys.md), published in the *[Journal of the Straits Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* (Vol. 2, 1878, pp. 233–235), records the capture of a specimen of *Ophiophagus elaps* (the snake-eating king cobra) in [Singapore](./singapore.md).
 
 ## Summary
 
-Dennys documents the occurrence of *Ophiophagus elaps* in Singapore, a species of particular zoological interest given its rarity in the region. The note is brief in scope, reporting the capture of a single specimen and its significance for the local fauna. The title's reference to the "snake-eating hamadryad" reflects the contemporary common name for the king cobra, underscoring the species' notoriety as a predator of other snakes.
+Dennys documents the occurrence of *Ophiophagus elaps* in Singapore, a species of particular zoological interest given its rarity in the region. The note is brief in scope, reporting the capture of a single specimen and its significance for the local fauna. The title's reference to the "snake-eating hamadryad" reflects the contemporary common name for the king cobra, underscoring the species' notoriety as a predator of other [snakes](./snakes.md).
 
 ## References
 <!-- Grounded occurrences and citations -->

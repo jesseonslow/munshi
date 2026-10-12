@@ -18,7 +18,7 @@ published: false
 
 ## MBRAS Sources
 
-- [C. Sather](./c-sather.md) (1982). [Benedict Sandin, 1918–1982. Obituary](./benedict-sandin-19181982-obituary.md). *JMBRAS* 55(2): 147–150
+- [C. Sather](./c-sather.md) (1982). [Benedict Sandin, 1918–1982. Obituary](./benedict-sandin-19181982-obituary.md). *[JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* 55(2): 147–150
 
 ## References
 <!-- Grounded occurrences and citations -->

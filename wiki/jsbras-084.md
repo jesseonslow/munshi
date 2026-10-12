@@ -27,7 +27,7 @@ articles:
 
 # JSBRAS No. 84 (November 1921)
 
-**Series:** Journal of the Straits Branch of the Royal Asiatic Society  
+**Series:** [Journal of the Straits Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** November 1921
 
 ## Table of Contents

@@ -18,7 +18,7 @@ published: false
 
 ## MBRAS Sources
 
-- [C.B. Kloss](./cb-kloss.md) (1924). [The forms of Criniger gularis and C. gutturalis. Records of the Raffles Museum, No. 6](./the-forms-of-criniger-gularis-and-c-gutturalis-records-of-th.md). *JMBRAS* 2: 71
+- [C.B. Kloss](./cb-kloss.md) (1924). [The forms of Criniger gularis and C. gutturalis. Records of the Raffles Museum, No. 6](./the-forms-of-criniger-gularis-and-c-gutturalis-records-of-th.md). *[JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* 2: 71
 
 ## References
 <!-- Grounded occurrences and citations -->

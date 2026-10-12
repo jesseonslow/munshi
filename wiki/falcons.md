@@ -19,7 +19,7 @@ published: false
 
 ## MBRAS Sources
 
-- [F.F. Laidlaw](./ff-laidlaw.md) (1923). [A note of the habits of the pygmy falcon](./a-note-of-the-habits-of-the-pygmy-falcon.md). *JMBRAS* 1(2): 377
+- [F.F. Laidlaw](./ff-laidlaw.md) (1923). [A note of the habits of the pygmy falcon](./a-note-of-the-habits-of-the-pygmy-falcon.md). *[JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* 1(2): 377
 
 ## References
 <!-- Grounded occurrences and citations -->

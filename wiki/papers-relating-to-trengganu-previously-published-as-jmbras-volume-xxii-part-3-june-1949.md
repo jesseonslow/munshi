@@ -26,10 +26,10 @@ published: false
 
 ## Contents
 
-- A short history of Trengganu, by M.C. ff. Sheppard, *M.B.E., E.D.*
-- The weaving industry in Trengganu, by A.H. Hill, *M.A., B.Sc.*
-- Wayang Kulit stories from Trengganu, by A.H. Hill, *M.A., B.Sc.*
-- Cargo boats of the east coast of Malaya, by C.A. Gibson-Hill, *M.A.*
+- [A short history of Trengganu](./a-short-history-of-trengganu.md), by M.C. ff. Sheppard, *M.B.E., E.D.*
+- [The weaving industry in Trengganu](./the-weaving-industry-in-trengganu.md), by A.H. Hill, *M.A., B.Sc.*
+- Wayang Kulit stories from [Trengganu](./terengganu.md), by [A.H. Hill](./anthony-haydock-hill.md), *M.A., B.Sc.*
+- [Cargo boats of the east coast of Malaya](./cargo-boats-of-the-east-coast-of-malaya.md), by [C.A. Gibson-Hill](./carl-alexander-gibson-hill.md), *M.A.*
 
 ## Summary
 <!-- Synthesis engine: Insert chapter summaries or overview here -->

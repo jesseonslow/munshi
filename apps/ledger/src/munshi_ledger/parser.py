@@ -10,43 +10,6 @@ BOILERPLATE_PATTERNS = [
     r"in usum academicum",
 ]
 
-IGNORE_WORDS = {
-    # Pronouns & functional grammar
-    "you", "she", "they", "them", "him", "her", "his", "their", "our",
-    "one", "maka", "aku", "kamu", "ia", "dia", "common",
-
-    # Demographics & generic familial roles
-    "man", "woman", "child", "children", "male", "female", "boy", "girl",
-    "father", "mother", "wife", "husband", "son", "daughter",
-    "old man", "stranger", "patient", "slave", "slaves", "native", "local",
-
-    # Unattached titles, offices & honorifics
-    "sultan", "sultans", "king", "kings", "the king", "queen", "prince", "princess",
-    "governor", "viceroy", "emperor", "chief", "chiefs", "ruler", "rulers",
-    "admiral", "general", "captain", "magistrate", "author", "teacher",
-    "students", "scholars", "researchers", "master", "owner", "agent",
-    "manager", "priest", "members", "commissioner", "commissioners",
-    "superintendent", "director", "directors", "president", "pres",
-    "vice-president", "vice-pres", "chairman", "secretary", "treasurer",
-    "hon. secretary", "hon. sec", "honorary secretary", "hon. treasurer", "honorary treasurer",
-    "his majesty", "her majesty", "your majesty", "his highness", "his excellency",
-    "baginda", "nakhoda", "pawang", "bomoh", "dalang", "guru", "headman",
-
-    # Post-nominals & academic honorifics
-    "c.m.g", "k.c.m.g", "g.c.m.g", "o.b.e", "m.b.e", "k.b.e", "m.c",
-    "b.a", "m.a", "f.m",
-
-    # General geography & landscape markers
-    "river", "sea", "island", "hill", "hills", "mountain", "mountains",
-    "mainland", "coast", "west coast", "east coast", "north", "south", "east", "west",
-    "straits", "village", "town", "country", "land", "jungle", "lowland forest",
-    "forest", "interior", "open country", "low country", "bay", "equator", "tropics",
-    "waterfall", "world", "earth", "state", "colony", "settlement",
-
-    # OCR / platform noise fragments
-    "فون", "لالو", "سورة", "كأستان مك", "ridl", "singapore 1",
-}
-
 def slugify(text: str) -> str:
     text = text.lower().strip()
     text = re.sub(r"[^\w\s-]", "", text)

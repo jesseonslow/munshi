@@ -1,13 +1,11 @@
 """Configuration settings for munshi-synthesizer."""
-
 from __future__ import annotations
 
 from pathlib import Path
-from pydantic import AliasChoices, Field
+from pydantic import AliasChoices, Field, field_validator
 from pydantic_settings import BaseSettings, SettingsConfigDict
 
-# Dynamically resolve workspace root:
-# apps/synthesizer/src/munshi_synthesizer/config.py -> 4 levels up to munshi/
+# Dynamically resolve workspace root: apps/synthesizer/src/munshi_synthesizer/config.py -> 4 levels up
 ROOT = Path(__file__).resolve().parents[4]
 
 
@@ -20,24 +18,16 @@ class SynthesizerConfig(BaseSettings):
         extra="ignore",
     )
 
-    # Database & Index Paths
-    ledger_db_path: Path = Field(
-        default_factory=lambda: ROOT / "ledger/entity_ledger.db",
-        validation_alias=AliasChoices("LEDGER_DB", "MUNSHI_LEDGER_DB", "LEDGER_DB_PATH"),
-        description="Path to the SQLite entity occurrence ledger",
-    )
-    authority_index_path: Path = Field(
-        default_factory=lambda: ROOT / "ledger/authority_index.json",
-        validation_alias=AliasChoices("AUTHORITY_INDEX", "MUNSHI_AUTHORITY_INDEX"),
-        description="Path to the parsed Index Malaysiana authority JSON",
-    )
-    wiki_out_dir: Path = Field(
+    wiki_dir: Path = Field(
         default_factory=lambda: ROOT / "wiki",
-        validation_alias=AliasChoices("WIKI_DIR", "MUNSHI_WIKI_DIR", "WIKI_OUT_DIR"),
-        description="Flat output directory for generated markdown articles",
+        validation_alias=AliasChoices("WIKI_DIR", "MUNSHI_WIKI_DIR"),
+        description="Path to the wiki directory containing publication stubs and topic pages",
     )
-
-    # API & Provider Configuration
+    rerank_model_dir: Path = Field(
+        default_factory=lambda: ROOT / "models/bge-reranker-base-onnx",
+        validation_alias=AliasChoices("RERANK_MODEL_DIR", "MUNSHI_RERANK_MODEL_DIR"),
+        description="Path to local ONNX model and tokenizer directory",
+    )
     openrouter_api_key: str = Field(
         default="",
         validation_alias=AliasChoices("OPENROUTER_API_KEY", "DOCPROC_OPENROUTER_API_KEY"),
@@ -46,41 +36,23 @@ class SynthesizerConfig(BaseSettings):
     openrouter_base_url: str = Field(
         default="https://openrouter.ai/api/v1",
         validation_alias=AliasChoices("OPENROUTER_BASE_URL", "DOCPROC_OPENROUTER_BASE_URL"),
-        description="Base URL for OpenRouter completions",
+        description="Base URL for OpenRouter API requests",
     )
-
-    # Model Presets
     synthesis_model_id: str = Field(
-        default="qwen/qwen3.8-27b",
+        default="google/gemini-2.5-pro",
         validation_alias=AliasChoices("SYNTHESIS_MODEL", "MUNSHI_SYNTHESIS_MODEL"),
-        description="Model slug on OpenRouter for OKF narrative compilation",
+        description="LLM endpoint used for historiographical literature review generation",
     )
     synthesis_temperature: float = Field(
-        default=0.2,
-        description="Sampling temperature for narrative synthesis",
+        default=0.25,
+        description="Sampling temperature for synthesis",
     )
-    rerank_model: str = Field(
-        default="BAAI/bge-reranker-base",
-        validation_alias=AliasChoices("RERANK_MODEL", "SYNTHESIZER_RERANK_MODEL"),
-        description="HuggingFace model for passage reranking",
+    rerank_top_k: int = Field(
+        default=5,
+        description="Threshold of sources above which reranking and stratification trigger",
     )
 
-    # Vector Retrieval (zvec)
-    zvec_data_dir: Path = Field(
-        default_factory=lambda: ROOT / "data",
-        validation_alias=AliasChoices("DATA_DIR", "MUNSHI_DATA_DIR"),
-        description="Directory containing stitched markdown files and .zvec-grep index",
-    )
-    zvec_top_k: int = Field(
-        default=10,
-        description="Number of semantic vector passages to retrieve via zvec-grep in parallel",
-    )
-    enable_zvec: bool = Field(
-        default=True,
-        description="Toggle parallel zvec-grep retrieval alongside SQLite ledger",
-    )
-    
-    @field_validator("ledger_db_path", "authority_index_path", "wiki_out_dir", "zvec_data_dir", mode="before")
+    @field_validator("wiki_dir", "rerank_model_dir", mode="before")
     @classmethod
     def _anchor_to_root(cls, v: str | Path | None) -> Path | None:
         if v is None:

@@ -26,7 +26,7 @@ publication_type: note
 
 # Notes on Dipterocarps. {No. 1} The seedling of Anisoptera cosgata, Korth
 
-This note by I. H. Burkill describes the germination and early seedling development of *Anisoptera costata*, Korthals, based on observations of two wild specimens in the Botanic Gardens, Singapore, that flowered in April 1916.
+This note by I. H. [Burkill](./burkill.md) describes the germination and early seedling development of *Anisoptera costata*, Korthals, based on observations of two wild specimens in the Botanic Gardens, [Singapore](./singapore.md), that flowered in April 1916.
 
 ## Summary
 

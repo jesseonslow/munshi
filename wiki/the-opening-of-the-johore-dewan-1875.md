@@ -25,7 +25,7 @@ publication_type: note
 
 # The opening of the Johore dewan, 1875
 
-This brief note by Engku 'Abdu'l-Aziz, D.K., documents the ceremonial opening of the newly completed Dewan at Johore Bahru on 20 September 1875, attended by Governor Jervois, Lady Jervois, and their children (p. 168).
+This brief note by Engku 'Abdu'l-Aziz, D.K., documents the ceremonial opening of the newly completed Dewan at [Johore](./johor.md) Bahru on 20 September 1875, attended by Governor Jervois, Lady Jervois, and their children (p. 168).
 
 ## Summary
 

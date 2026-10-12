@@ -64,7 +64,7 @@ articles:
 
 # JSBRAS No. 28 (August 1895)
 
-**Series:** Journal of the Straits Branch of the Royal Asiatic Society  
+**Series:** [Journal of the Straits Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** August 1895
 
 ## Table of Contents

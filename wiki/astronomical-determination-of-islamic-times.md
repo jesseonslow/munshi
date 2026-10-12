@@ -25,7 +25,7 @@ publication_type: journal_article
 
 # Astronomical determination of Islamic times
 
-Mohamed Ilyas published "Astronomical Determination of Islamic Times" in the *Journal of the Malaysian Branch of the Royal Asiatic Society* in 1978, presenting a rigorous mathematical framework for computing the five daily Islamic prayer times and the breaking of the fast using standard astronomical parameters. The article's central thesis is that all Islamic time markers can be reduced to specific solar zenith angles, making them amenable to precise calculation from published ephemeris data and, ultimately, to computer automation.
+[Mohamed Ilyas](./mohamed-ilyas.md) published "Astronomical Determination of Islamic Times" in the *[Journal of the Malaysian Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* in 1978, presenting a rigorous mathematical framework for computing the five daily Islamic prayer times and the breaking of the fast using standard astronomical parameters. The article's central thesis is that all Islamic time markers can be reduced to specific solar zenith angles, making them amenable to precise calculation from published ephemeris data and, ultimately, to computer automation.
 
 ## Summary
 
@@ -33,7 +33,7 @@ Ilyas begins by establishing the correspondence between each Islamic time event 
 
 The second half of the article shifts from theoretical derivation to practical implementation. Ilyas shows how the universal parameters from the *Astronomical Ephemeris* (Right Ascension, Declination, Greenwich Hour Angle) can be converted to local solar zenith angles via standard spherical trigonometry, and how equation (10) can be solved for local time given a target zenith angle. He then proposes two routes to a usable time table: a full computer programme that accepts latitude, longitude, and zone time as free parameters, or a simpler method using existing printed tables (*Tables of Sunrise, Sunset and Twilight* and Maniar's Tables) with a small set of arithmetic corrections for longitude, hemisphere, and secular drift (pp. 49–53).
 
-A recurring theme is the deliberate separation of the astronomical calculation from the jurisprudential question of where exactly twilight begins and ends. Ilyas adopts Z = 105° for the Islamic twilight boundary (citing Maulana Mufti Rashid Ahmad Ludhianavi's 15° view) but explicitly flags this as a parameter that Islamic scholars may revise without altering the computational machinery (pp. 47–48).
+A recurring theme is the deliberate separation of the astronomical calculation from the jurisprudential question of where exactly twilight begins and ends. Ilyas adopts Z = 105° for the Islamic twilight boundary (citing Maulana Mufti Rashid [Ahmad](./ahmad.md) Ludhianavi's 15° view) but explicitly [flags](./flags.md) this as a parameter that Islamic scholars may revise without altering the computational machinery (pp. 47–48).
 
 ### Key Findings
 
@@ -51,7 +51,7 @@ Ilyas concludes that the astronomical basis for Islamic times is now sufficientl
 ## Context
 
 - Primary data sources: the *Astronomical Ephemeris* (annual), *Tables of Sunrise, Sunset and Twilight* (1966-based), and Maniar's Tables for Asr shadow ratios.
-- The article's contribution lies at the intersection of applied astronomy and Islamic practical jurisprudence (fiqh al-mawaqit), offering one of the earliest published attempts in the MBRAS series to formalise prayer-time computation for the Southern Hemisphere and for computer implementation.
+- The article's contribution lies at the intersection of applied astronomy and Islamic practical jurisprudence (fiqh al-mawaqit), offering one of the earliest published attempts in the [MBRAS](./malaysian-branch-of-the-royal-asiatic-society.md) series to formalise prayer-time computation for the Southern Hemisphere and for computer implementation.
 
 ## References
 <!-- Grounded occurrences and citations -->

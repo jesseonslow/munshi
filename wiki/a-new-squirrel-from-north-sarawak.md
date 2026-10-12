@@ -26,7 +26,7 @@ jstor: https://www.jstor.org/stable/41561376
 
 # A new squirrel from North Sarawak
 
-This is a brief taxonomic note by C. Boden Kloss describing a new species of squirrel, *Sciurus adamsi*, from North Sarawak, based on two specimens collected by Major J. C. Moulton (p. 151).
+This is a brief taxonomic note by C. Boden Kloss describing a new species of squirrel, *Sciurus adamsi*, from North [Sarawak](./sarawak.md), based on two specimens collected by Major [J. C. Moulton](./john-coney-moulton.md) (p. 151).
 
 ## Summary
 

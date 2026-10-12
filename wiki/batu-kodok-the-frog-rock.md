@@ -25,11 +25,11 @@ publication_type: note
 
 # Batu Kodok (The Frog Rock
 
-A brief miscellaneous note by D.F.A. Hervey describing Batu Kodok (The Frog Rock), a rock formation in the old Straits of Singapore, and recording the local legend associated with its origin (p. 167).
+A brief miscellaneous note by [D.F.A. Hervey](./dudley-francis-amelius-hervey.md) describing Batu Kodok (The Frog Rock), a rock formation in the old Straits of [Singapore](./singapore.md), and recording the local legend associated with its origin (p. 167).
 
 ## Summary
 
-The note identifies Batu Kodok as a rock situated between Changi and the eastern end of Pulau Ubin which, at low tide, resembles a squatting frog. The local account explains that in an age when mosquitos were as large as fowls, frogs were proportionally enormous, and the living original of the rock attempted to swim across the straits but was turned to stone by the arrival of daylight before reaching land (p. 167).
+The note identifies Batu Kodok as a rock situated between Changi and the eastern end of Pulau Ubin which, at low tide, resembles a squatting frog. The local account explains that in an age when mosquitos were as large as fowls, [frogs](./frogs.md) were proportionally enormous, and the living original of the rock attempted to swim across the straits but was turned to stone by the arrival of daylight before reaching land (p. 167).
 
 The note then elaborates on the legend of the Raja Nyamok (King of Mosquitos), who periodically devoured maidens until he found one who, by burning rubbish and using the smoke to repel him, discovered the means of keeping mosquitos at bay—after which they "declined in the scale of creation" (p. 167).
 

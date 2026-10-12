@@ -18,7 +18,7 @@ published: false
 
 ## Bibliography
 
-- (1928) [Mt. Kina Balu, a Dusun legend of its name](./mt-kina-balu-a-dusun-legend-of-its-name.md). *JMBRAS* 6(4): 63–65
+- (1928) [Mt. Kina Balu, a Dusun legend of its name](./mt-kina-balu-a-dusun-legend-of-its-name.md). *[JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* 6(4): 63–65
 
 ## References
 <!-- Grounded occurrences and citations -->

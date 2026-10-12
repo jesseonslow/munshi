@@ -18,8 +18,8 @@ published: false
 
 ## MBRAS Sources
 
-- Wu Xio An. Chinese-Malay links in Penang region 1880–1909. MB 70(2)
-- Anon (2015). [Glimpses of Penang's Past](./glimpses-of-penangs-past.md). ** : 325
+- Wu Xio An. [Chinese](./chinese.md)-[Malay](./malay.md) links in [Penang](./penang.md) region 1880–1909. MB 70(2)
+- [Anon](./anon-and-unidentifiable-initials.md) (2015). [Glimpses of Penang's Past](./glimpses-of-penangs-past.md). ** : 325
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -15,14 +15,13 @@ status: stub
 published: false
 ---
 
-
 # K. A. Nilakanta Sastri
 
 <!-- Synthesis engine: Insert introductory synthesis for K. A. Nilakanta Sastri here -->
 
 ## MBRAS Sources
 
-- [K.S. Singaravelu](./ks-singaravelu.md) (1982). [Obituary. K.A. Nilakanta Sastri](./obituary-ka-nilakanta-sastri.md). *JMBRAS* 55: 94
+- [K.S. Singaravelu](./ks-singaravelu.md) (1982). [Obituary. K.A. Nilakanta Sastri](./obituary-ka-nilakanta-sastri.md). *[JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* 55: 94
 
 ## Bibliography
 - (1936) [A note on an inscribed seal from Perak](./a-note-on-an-inscribed-seal-from-perak.md). *JMBRAS* 14(3): 282–283

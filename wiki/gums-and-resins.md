@@ -18,7 +18,7 @@ published: false
 
 ## MBRAS Sources
 
-- [H.N. Ridley](./henry-nicholas-ridley.md) (1900). [Dammar and wood oil](./dammar-and-wood-oil.md). *JSBRAS* 34: 89–94
+- [H.N. Ridley](./henry-nicholas-ridley.md) (1900). [Dammar and wood oil](./dammar-and-wood-oil.md). *[JSBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* 34: 89–94
 
 ## References
 <!-- Grounded occurrences and citations -->

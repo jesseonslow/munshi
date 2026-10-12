@@ -19,7 +19,6 @@ amendments: []
 status: stub
 published: false
 summarized: true
-source_mismatch: true
 source_doc: jmalayanras-154-evans-dusunhousehorns-1951-7ee073ea23c7
 source_path: ../sources/jmalayanras-154-evans-dusunhousehorns-1951-7ee073ea23c7.md
 publication_type: journal_article
@@ -28,15 +27,15 @@ jstor: https://www.jstor.org/stable/41502980
 
 # Dusun and other “house horns”
 
-Ivor H. N. Evans, writing from his long residence in the Tempasuk (Kota Belud) District of North Borneo, published this comparative ethnographic note in 1951, arguing that the "house-horns" found on Dusun gable ends—and their counterparts among the Hovas of Madagascar, the Naga peoples, and other Southeast Asian groups—originally served a protective, apotropaic function against evil spirits rather than being merely ornamental.
+Ivor H. N. Evans, writing from his long residence in the Tempasuk (Kota Belud) District of North [Borneo](./borneo.md), published this comparative ethnographic note in 1951, arguing that the "house-horns" found on Dusun gable ends—and their counterparts among the Hovas of Madagascar, the Naga peoples, and other Southeast Asian groups—originally served a protective, apotropaic function against evil [spirits](./spirits.md) rather than being merely ornamental.
 
 ## Summary
 
 Evans documents the "house-horns" of Dusun houses in North Borneo, which in most cases are simply untrimmed upward projections of the rafters at either gable end. He notes that when queried, Dusun informants uniformly describe them as purely ornamental, yet the local term *sinasangau* (from *sangau*, "horn") may derive from *kinasangau*, meaning "there were in past time horns," suggesting an earlier use of actual animal horns in the same position (p. 165). Wealthier Dusun households commission carved wooden pairs, as illustrated in the accompanying plate from Mangkahak village, where the decorative pattern is called *kinagai-kagai* (from *kagai*, "branch") (p. 165).
 
-Evans then extends the comparison across a wide geographic range. Among the Hovas of Madagascar—whose Malayo-Polynesian linguistic and racial affinities are well established—the equivalent feature is called *tandro trano*, directly cognate with the Malay *tandok rumah* used in the same Borneo district (p. 166). Ellis and Sibree describe crossed rafters projecting above the ridge, sometimes surmounted by carved birds representing clan crests, a practice Evans notes parallels the Dusun custom (p. 166). Professor J. H. Hutton of Cambridge supplied information on the Angami Nagas (*kika*, "house-horns," sometimes antler-shaped and drilled with holes) and the Sema Naga (*tenbaku-ki*, "snail-horns," generally straight and surmounted by birds) (p. 166). Evans also references single upright spikes on Menangkabau gable ends, Batak "house-horns or skulls," and a Flores model in the Colonial Institute at Amsterdam with horns resembling sixteenth-century arquebus rests (pp. 166–167).
+Evans then extends the comparison across a wide geographic range. Among the Hovas of Madagascar—whose Malayo-Polynesian linguistic and racial affinities are well established—the equivalent feature is called *tandro trano*, directly cognate with the [Malay](./malay.md) *tandok rumah* used in the same Borneo district (p. 166). Ellis and Sibree describe crossed rafters projecting above the ridge, sometimes surmounted by carved birds representing clan crests, a practice Evans notes parallels the Dusun custom (p. 166). Professor J. H. Hutton of Cambridge supplied information on the Angami Nagas (*kika*, "house-horns," sometimes antler-shaped and drilled with holes) and the Sema Naga (*tenbaku-ki*, "snail-horns," generally straight and surmounted by birds) (p. 166). Evans also references single upright spikes on [Menangkabau](./menangkabau.md) gable ends, Batak "house-horns or skulls," and a Flores model in the Colonial Institute at Amsterdam with horns resembling sixteenth-century arquebus rests (pp. 166–167).
 
-On function, Evans acknowledges Hutton's suggestion of phallic or fertility significance among the Angami but advances his own hypothesis: that house-horns operated as talismans against evil spirits, analogous to the Italian gesture of the index and little fingers against the "evil eye" (p. 167). He grounds this in Dusun religious practice, where the roof-beam (*tiningusan*) is understood as an assembly point for spirits called *Koolungung*, and draws a parallel to the spikes atop Zulu beehive huts, which he was told in 1905 served to prevent evil spirits from alighting (p. 167).
+On function, Evans acknowledges Hutton's suggestion of phallic or fertility significance among the Angami but advances his own hypothesis: that house-horns operated as talismans against evil spirits, analogous to the Italian gesture of the [index](./index.md) and little fingers against the "evil eye" (p. 167). He grounds this in Dusun religious practice, where the roof-beam (*tiningusan*) is understood as an assembly point for spirits called *Koolungung*, and draws a parallel to the spikes atop Zulu beehive huts, which he was told in 1905 served to prevent evil spirits from alighting (p. 167).
 
 ### Key Findings
 
@@ -49,12 +48,12 @@ On function, Evans acknowledges Hutton's suggestion of phallic or fertility sign
 
 ### Conclusion
 
-Evans concludes that while the original protective significance of house-horns has been lost from living memory among the Dusuns—who now regard them as ornamental—the comparative evidence from Madagascar, the Naga hills, and Sumatra supports the hypothesis that these gable projections functioned as apotropaic talismans, warding off evil spirits in the same way that animal horns serve as weapons of defence against enemies.
+Evans concludes that while the original protective significance of house-horns has been lost from living memory among the [Dusuns](./dusuns.md)—who now regard them as ornamental—the comparative evidence from Madagascar, the Naga hills, and [Sumatra](./sumatra.md) supports the hypothesis that these gable projections functioned as apotropaic talismans, warding off evil spirits in the same way that animal horns serve as weapons of defence against enemies.
 
 ## Context
 
-- Evans conducted his fieldwork from a remote posting in North Borneo, relying on correspondence with scholars in Cambridge, Singapore, and Kuala Lumpur to assemble the comparative material, a circumstance he explicitly notes as a constraint on his research (p. 165).
-- The article was received in May 1950 and published in the February 1951 issue of the JMBRAS, reflecting the Society's ongoing interest in the ethnography of Borneo's indigenous peoples during the colonial period.
+- Evans conducted his fieldwork from a remote posting in North Borneo, relying on correspondence with scholars in Cambridge, [Singapore](./singapore.md), and [Kuala Lumpur](./kuala-lumpur.md) to assemble the comparative material, a circumstance he explicitly notes as a constraint on his research (p. 165).
+- The article was received in May 1950 and published in the February 1951 issue of the [JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md), reflecting the Society's ongoing interest in the [ethnography](./ethnography.md) of Borneo's indigenous peoples during the colonial period.
 
 ## References
 <!-- Grounded occurrences and citations -->

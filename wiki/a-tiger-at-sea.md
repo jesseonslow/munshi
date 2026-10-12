@@ -25,11 +25,11 @@ publication_type: note
 
 # A tiger at sea
 
-This brief note by J.C. Moulton, published in JSBRAS Vol. 85 (1922, p. 214), concerns a specimen of the Ruddy Crake (*Limnobaenus fuscus*) from Johore, despite the page title "A Tiger at Sea" which likely refers to a separate item on the same page.
+This brief note by [J.C. Moulton](./john-coney-moulton.md), published in [JSBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md) Vol. 85 (1922, p. 214), concerns a specimen of the Ruddy Crake (*Limnobaenus fuscus*) from [Johore](./johor.md), despite the page title "A Tiger at Sea" which likely refers to a separate item on the same page.
 
 ## Summary
 
-Moulton discusses the identification of a Ruddy Crake specimen from Johore, noting its close resemblance to Elwes' Crake but distinguishing it by the uniformly rufous plumage of the former versus the grey head, neck, and breast of the latter (p. 214). He raises the possibility that the original label may have been attached in error to a specimen from a former Curator's collection of Eastern Himalayan birds and insects, but considers this unlikely given the migratory habits of rails, suggesting the bird may have migrated from India for the winter (p. 214). He concludes that further confirmation would require the capture of another specimen in the Malay Peninsula (p. 214).
+Moulton discusses the identification of a Ruddy Crake specimen from [Johore](./johor.md), noting its close resemblance to Elwes' Crake but distinguishing it by the uniformly rufous plumage of the former versus the grey head, neck, and breast of the latter (p. 214). He raises the possibility that the original label may have been attached in error to a specimen from a former Curator's collection of Eastern Himalayan birds and insects, but considers this unlikely given the migratory habits of rails, suggesting the bird may have migrated from [India](./india.md) for the winter (p. 214). He concludes that further confirmation would require the capture of another specimen in the [Malay](./malay.md) Peninsula (p. 214).
 
 ## References
 <!-- Grounded occurrences and citations -->

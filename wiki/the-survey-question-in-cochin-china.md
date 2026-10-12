@@ -25,7 +25,7 @@ publication_type: journal_article
 
 # The survey question in Cochin-China
 
-M. Camouilly, a French colonial administrator in Cochin-China, published this paper in 1886 (translated into English by W. E. Maxwell of the Straits Settlements) to argue that a comprehensive cadastral survey of the colony would be prohibitively expensive, practically unfinishable, and destructive of the efficient Annamite communal tax-collecting system, advocating instead a voluntary Torrens-style registration of title for individual holdings.
+[M. Camouilly](./m-camouilly.md), a French colonial administrator in Cochin-[China](./china.md), published this paper in 1886 (translated into English by W. E. Maxwell of the Straits Settlements) to argue that a comprehensive cadastral survey of the colony would be prohibitively expensive, practically unfinishable, and destructive of the efficient Annamite communal tax-collecting system, advocating instead a voluntary Torrens-style registration of title for individual holdings.
 
 ## Summary
 
@@ -33,7 +33,7 @@ Camouilly's paper responds to proposals before the Colonial Council of Cochin-Ch
 
 Having rejected the cadastral survey, Camouilly proposes an alternative: the voluntary application of the Torrens system of title registration, as practised in Australia, to individual holdings whose owners request it. He argues that Annamite landholders, who currently borrow at ruinous rates from native moneylenders, would benefit from government-certified titles that could serve as collateral for loans from respectable banking institutions, potentially reducing interest rates by four-fifths. The survey work required would be limited to demarcating and registering only those parcels brought forward by applicants, avoiding the massive expenditure and administrative disruption of a colony-wide cadastre.
 
-Maxwell's introduction frames the piece for a Straits Settlements audience, noting his own disagreement with Camouilly's anti-cadastral position while acknowledging the interest of the Torrens proposal. He points out an internal tension in Camouilly's argument: if the communal system is too fragile to withstand a cadastral survey, it is equally vulnerable to the piecemeal individual registration that the Torrens system entails.
+Maxwell's introduction frames the piece for a [Straits Settlements](./straits-settlements.md) audience, noting his own disagreement with Camouilly's anti-cadastral position while acknowledging the interest of the Torrens proposal. He points out an internal tension in Camouilly's argument: if the communal system is too fragile to withstand a cadastral survey, it is equally vulnerable to the piecemeal individual registration that the Torrens system entails.
 
 ### Key Findings
 
@@ -46,12 +46,12 @@ Maxwell's introduction frames the piece for a Straits Settlements audience, noti
 
 ### Conclusion
 
-Camouilly's definitive position is that the Annamite commune system is an "admirable institution" that the French administration should preserve rather than dismantle through the importation of European cadastral methods; the colony's immediate administrative needs are better served by a targeted, voluntary Torrens registration that addresses the genuine problem of native landholders' access to credit without the catastrophic cost and disruption of a full cadastre.
+Camouilly's definitive position is that the Annamite commune system is an "admirable institution" that the French administration should preserve rather than dismantle through the importation of [European](./european.md) cadastral methods; the colony's immediate administrative needs are better served by a targeted, voluntary Torrens registration that addresses the genuine problem of native landholders' access to credit without the catastrophic cost and disruption of a full cadastre.
 
 ## Context
 
 - Camouilly was a French colonial official in Cochin-China writing for the *Société des Études Indo-Chinoises de Saigon*; his argument reflects the administrative priorities of the early French colonial period, in which preserving indigenous institutions was often preferred to costly European-style reform.
-- Maxwell, a British official in the Straits Settlements, translated and introduced the paper for the JSBRAS readership, explicitly noting his own advocacy of cadastral survey and his scepticism toward the difficulties Camouilly identifies—difficulties he considered already overcome in British India.
+- Maxwell, a British official in the Straits Settlements, translated and introduced the paper for the [JSBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md) readership, explicitly noting his own advocacy of cadastral survey and his scepticism toward the difficulties Camouilly identifies—difficulties he considered already overcome in British [India](./india.md).
 
 ## References
 <!-- Grounded occurrences and citations -->

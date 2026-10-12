@@ -17,7 +17,7 @@ email: mahani@usm.my
 
 ## Biography
 
-Mahani Musa is a professor of history at Universiti Sains Malaysia. The Malaysian Branch of the Royal Asiatic Society published her monograph *Malay Secret Societies in the Northern Malay States* (2006), and she has published widely on Malay women in Malaysian history.
+Mahani Musa is a professor of history at Universiti Sains [Malaysia](./malaysia.md). The [Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md) published her monograph *Malay [Secret Societies](./secret-societies.md) in the Northern Malay States* (2006), and she has published widely on [Malay](./malay.md) women in Malaysian history.
 
 ## Bibliography
 - (1999) [Malays and the red and white flag societies in Penang, 1830–1920s](./malays-and-the-red-and-white-flag-societies-in-penang-183019.md). *JMBRAS* 72(2): 151–182
@@ -33,9 +33,9 @@ Mahani Musa is a professor of history at Universiti Sains Malaysia. The Malaysia
 ### Reviews
 
 - (2002) Sorotan terpilih dalam sejarah Malaysia (esei sumbangansih kepada Dr Cheah Boon Kheng). *JMBRAS* 75(2): 121–123
-- (2012) Modern Muslim identities: negotiating religion and ethnicity in Malaysia. G. Hoffstaedter. *JMBRAS* 85(1): 111–114
-- (2013) Living Islamically in the periphery: Muslim discourse, institution, and intellectual tradition in Southeast Asia. Iik Arifin Mansurnoor. *JMBRAS* 86(2): 111–114
-- (2015) The peasant robbers of Kedah 1900‒1929: historical and folk perceptions. Cheah Boon Kheng. *JMBRAS* 88(1): 124–125
+- (2012) Modern Muslim identities: negotiating [religion](./religion.md) and ethnicity in Malaysia. G. Hoffstaedter. *JMBRAS* 85(1): 111–114
+- (2013) Living Islamically in the periphery: Muslim discourse, institution, and intellectual tradition in [Southeast Asia](./southeast-asia.md). Iik Arifin Mansurnoor. *JMBRAS* 86(2): 111–114
+- (2015) The peasant robbers of [Kedah](./kedah.md) 1900‒1929: historical and folk perceptions. [Cheah Boon Kheng](./cheah-boon-kheng.md). *[JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* 88(1): 124–125
 
 ## References
 <!-- Grounded occurrences and citations -->

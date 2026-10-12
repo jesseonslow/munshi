@@ -67,10 +67,9 @@ articles:
   is_review: false
 ---
 
-
 # JSBRAS No. 75 (April 1917)
 
-**Series:** Journal of the Straits Branch of the Royal Asiatic Society  
+**Series:** [Journal of the Straits Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** April 1917
 
 ## Table of Contents

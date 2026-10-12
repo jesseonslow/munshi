@@ -23,7 +23,7 @@ published: false
 
 ## Contents
 
-- Nona Baker - J.M. GULLICK
+- Nona Baker - [J.M. GULLICK](./john-michael-gullick.md)
 - Chapter One
 - Chapter Two
 - Chapter Three

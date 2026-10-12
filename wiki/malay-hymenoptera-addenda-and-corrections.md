@@ -26,7 +26,7 @@ jstor: https://www.jstor.org/stable/41561573
 
 # Malay Hymenoptera: addenda and corrections
 
-This is an errata list by P. Cameron correcting printer's errors in his 1902 paper "On the Hymenoptera collected by Mr. Robert Shelford at Sarawak, and on the Hymenoptera of the Sarawak Museum" (JSBRAS No. 37).
+This is an errata list by [P. Cameron](./p-cameron.md) correcting printer's errors in his 1902 paper "[On the Hymenoptera collected by Mr. Robert Shelford at Sarawak, and on the Hymenoptera of the Sarawak Museum](./on-the-hymenoptera-collected-by-mr-robert-shelford-at-sarawa.md)" (JSBRAS No. 37).
 
 ## Summary
 

@@ -17,7 +17,7 @@ published: false
 ## Biography
 
 ## Bibliography
-- (1967) [A Thai version of Newbold’s “Hikayat Patani”. .K. Wyatt](./a-thai-version-of-newbolds-hikayat-patani-k-wyatt.md). *JMBRAS* 40(2): 15–37
+- (1967) [A Thai version of Newbold’s “Hikayat Patani”](./a-thai-version-of-newbolds-hikayat-patani.md). *JMBRAS* 40(2): 15–37
 
 ## References
 <!-- Grounded occurrences and citations -->

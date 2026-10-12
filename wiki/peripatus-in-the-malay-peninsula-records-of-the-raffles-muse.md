@@ -28,11 +28,11 @@ jstor: https://www.jstor.org/stable/41559651
 
 # Peripatus in the Malay Peninsula. Records of the Raffles Museum, No. 21
 
-This brief museum record by C. Boden Kloss documents two specimens of *Peripatus* (velvet worms) held in the Raffles Museum, determined by Professor W. J. Dakin as representing the two species then known from the Malay Peninsula (p. 167).
+This brief museum record by C. Boden Kloss documents two specimens of *[Peripatus](./peripatus.md)* (velvet worms) held in the [Raffles](./stamford-raffles.md) Museum, determined by Professor W. J. Dakin as representing the two species then known from the [Malay](./malay.md) Peninsula (p. 167).
 
 ## Summary
 
-The note describes *Eoperipatus horsti* Evans, an exceptionally large specimen (62.5 mm in alcohol) collected 16 miles west of Johore Bahru at sea level on an open road in midday sunshine—an unusual microhabitat for a genus typically associated with shady forest and rotten wood. The second specimen, *Eoperipatus weldoni* Evans, was obtained by Dr. R. Hanitsch on Kedah Peak at 3,500 ft. in dead wood. Kloss notes that Dakin's placement of Butler's type specimen of *E. butleri* Evans (Larut Hills, Perak, 4,000 ft.) under *E. weldoni* is not reflected in Austin Clark's 1915 distributional list, suggesting neither author recognised the species. The two Raffles Museum specimens thus represent the lowland (*E. horsti*) and montane (*E. weldoni*) elements of the Malayan fauna, with *E. sumatranus* known from Sumatra and undetermined material recently obtained from Sarawak (p. 167).
+The note describes *Eoperipatus horsti* Evans, an exceptionally large specimen (62.5 mm in alcohol) collected 16 miles west of [Johore](./johor.md) Bahru at sea level on an open road in midday sunshine—an unusual microhabitat for a genus typically associated with shady forest and rotten wood. The second specimen, *Eoperipatus weldoni* Evans, was obtained by Dr. R. Hanitsch on [Kedah](./kedah.md) Peak at 3,500 ft. in dead wood. Kloss notes that Dakin's placement of Butler's type specimen of *E. butleri* Evans (Larut Hills, Perak, 4,000 ft.) under *E. weldoni* is not reflected in Austin Clark's 1915 distributional list, suggesting neither author recognised the species. The two Raffles Museum specimens thus represent the lowland (*E. horsti*) and montane (*E. weldoni*) elements of the Malayan fauna, with *E. sumatranus* known from [Sumatra](./sumatra.md) and undetermined material recently obtained from [Sarawak](./sarawak.md) (p. 167).
 
 ## References
 <!-- Grounded occurrences and citations -->

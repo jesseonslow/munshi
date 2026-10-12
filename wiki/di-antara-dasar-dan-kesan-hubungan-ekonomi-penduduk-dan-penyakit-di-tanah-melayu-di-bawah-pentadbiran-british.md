@@ -30,13 +30,13 @@ published: false
 - Prakata
 - *Badriyah Haji Salleh*
   1. I. Di Antara Dasar dan Kesan: Hubungan Ekonomi, Penduduk dan Penyakit di Tanah Melayu Di Bawah Pentadbiran British
-- *Badriyah Haji Salleh*
+- *[Badriyah Haji Salleh](./badriyah-haji-salleh.md)*
   1. II. Penyakit Berjangkit di Negeri-Negeri Selat 1900-1940
-- *Emily Binti Kaudon*
-  1. III. Sejarah Perkhidmatan Perubatan dan Kesihatan di Perak Dari Tahun 1880 Hingga 1939
-- *Chew Lam Teik*
+- *[Emily Binti Kaudon](./emily-binti-kaudon.md)*
+  1. III. Sejarah Perkhidmatan Perubatan dan Kesihatan di [Perak](./perak.md) Dari Tahun 1880 Hingga 1939
+- *[Chew Lam Teik](./chew-lam-teik.md)*
   1. IV. Perlombongan Bijih Timah di Sungai Lembing 1888-1966
-*- Hanita Hanim Binti Darus*
+*- [Hanita Hanim Binti Darus](./hanita-hanim-binti-darus.md)*
 - Indeks
 
 ## Summary

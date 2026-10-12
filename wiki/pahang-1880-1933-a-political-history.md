@@ -31,7 +31,7 @@ published: false
   1. The Traditional Socio-Political Systems
   1. External Factors Affecting Internal Politics (1880-1888)
   1. Pahang Under the Residential System
-  1. The Pahang Rising of 1891-1895
+  1. The [Pahang](./pahang.md) Rising of 1891-1895
   1. Struggle and Failure (1896-1914)
 - Epilogue
 - Appendices

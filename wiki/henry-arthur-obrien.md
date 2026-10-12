@@ -15,14 +15,13 @@ status: stub
 published: false
 ---
 
-
 # Henry Arthur O'Brien
 
 <!-- Synthesis engine: Insert introductory synthesis for Henry Arthur O'Brien here -->
 
 ## MBRAS Sources
 
-- Haughton, H.T. Obituary. SB 30
+- [Haughton, H.T](./haughton-ht.md). Obituary. SB 30
 
 ## Bibliography
 - (1883) [Latah](./latah.md). *JSBRAS* 11: 143–153

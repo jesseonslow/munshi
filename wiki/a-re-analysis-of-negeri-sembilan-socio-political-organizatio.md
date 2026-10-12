@@ -26,11 +26,11 @@ jstor: https://www.jstor.org/stable/41491997
 
 # A re-analysis of Negeri Sembilan socio-political organization
 
-This article by Maria L. C. Labi, published in the *Journal of the Malaysian Branch of the Royal Asiatic Society* (Vol. 42, No. 2, 1969), presents a re-analysis of the socio-political organization of Negri Sembilan.
+This article by Maria L. C. Labi, published in the *[Journal of the Malaysian Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* (Vol. 42, No. 2, 1969), presents a re-analysis of the socio-political organization of [Negri Sembilan](./negeri-sembilan.md).
 
 ## Summary
 
-The available source text consists solely of the article's bibliographic header and does not include the body of the article. The title indicates that Labi undertook a re-examination of the socio-political structures of Negri Sembilan, a state in western Malaysia with a distinctive Minangkabau matrilineal heritage. The article spans ten pages (pp. 145–154) in the December 1969 issue.
+The available source text consists solely of the article's bibliographic header and does not include the body of the article. The title indicates that Labi undertook a re-examination of the socio-political structures of [Negri Sembilan](./negeri-sembilan.md), a state in western [Malaysia](./malaysia.md) with a distinctive Minangkabau matrilineal heritage. The article spans ten pages (pp. 145–154) in the December 1969 issue.
 
 ## References
 <!-- Grounded occurrences and citations -->

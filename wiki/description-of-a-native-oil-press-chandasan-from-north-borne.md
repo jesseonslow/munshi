@@ -25,7 +25,7 @@ publication_type: note
 
 # Description of a native oil press (chandasan) from North Borneo
 
-This short note by H. G. Keith describes the construction and operation of a native oil press (chandasan) used in North Borneo for extracting oil from Katiau (Ilipe) and Kawang (Tengkawang) nuts, accompanied by a photographic plate (Plate XXV).
+This short note by H. G. Keith describes the construction and operation of a native oil press (chandasan) used in North [Borneo](./borneo.md) for extracting oil from Katiau (Ilipe) and Kawang (Tengkawang) nuts, accompanied by a photographic plate (Plate XXV).
 
 ## Summary
 

@@ -95,7 +95,7 @@ articles:
 
 # JSBRAS No. 81 (March 1920)
 
-**Series:** Journal of the Straits Branch of the Royal Asiatic Society  
+**Series:** [Journal of the Straits Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** March 1920
 
 ## Table of Contents

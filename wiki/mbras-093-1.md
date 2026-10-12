@@ -16,7 +16,7 @@ contributors:
   name: A.T. Gallop
 - id: ahmad-fauzi-abdul-hamid
   name: Ahmad Fauzi Abdul Hamid
-- id: c-de-matos
+- id: christine-de-matos
   name: C. de Matos
 - id: c-velu
   name: C. Velu
@@ -115,7 +115,7 @@ articles:
   is_review: false
 - id: jmbras-93-1-p143
   slug: seven-months-in-the-tin-country-perak-malacca-peninsula-1881
-  title: Seven months in the tin country, Perak (Malacca Peninsula), 1881. . Dyer
+  title: Seven months in the tin country, Perak (Malacca Peninsula), 1881
   authors:
   - J.E. De La Croix
   pages: 143–168
@@ -193,19 +193,19 @@ articles:
 
 # JMBRAS Vol. 93, Part 1 (June 2020)
 
-**Series:** Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society  
+**Series:** Journal of the Malayan/[Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** June 2020
 
 ## Table of Contents
 * [Sovereign signs: titles of kingship on Malay seals](./sovereign-signs-titles-of-kingship-on-malay-seals.md) — [A.T. Gallop](./at-gallop.md) (pp. 1–22)
-* [Three domestic workers, two internment camps and a war: a journey from Singapore to British India](./three-domestic-workers-two-internment-camps-and-a-war-a-jour.md) — [C. de Matos](./c-de-matos.md) (pp. 23–42)
+* [Three domestic workers, two internment camps and a war: a journey from Singapore to British India](./three-domestic-workers-two-internment-camps-and-a-war-a-jour.md) — [C. de Matos](./christine-de-matos.md) (pp. 23–42)
 * [Malaysianisation and the Barlow Boustead Estates Agency](./malaysianisation-and-the-barlow-boustead-estates-agency.md) — [R. Glew](./r-glew.md), [C. Velu](./c-velu.md) (pp. 43–66)
 * [Malaysia-Indonesia Konfrontasi : the struggle for influence in the Middle East. I. Karuppannan and Shakila Yacob](./malaysia-indonesia-konfrontasi-the-struggle-for-influence-in.md) — [I. Karuppannan](./i-karuppannan.md), [Shakila Yacob](./shakila-yacob.md) (pp. 67–90)
 * [A centennial appreciation of Harry J. Benda: a Czech pioneer of Southeast Asian studies](./a-centennial-appreciation-of-harry-j-benda-a-czech-pioneer-o.md) — [T. Petrů](./t-petrů.md) (pp. 91–116)
 * [The Jamalullails of Perak](./the-jamalullails-of-perak.md) — [Jaafar Aznan](./jaafar-aznan.md) (pp. 119–132)
 * [The mountain system of the Malayan Peninsula (1884](./the-mountain-system-of-the-malayan-peninsula-1884.md) — [J.E. Tenison Woods](./je-tenison-woods.md) (pp. 135–136)
 * [Physical geography of the Malayan Peninsula (1884](./physical-geography-of-the-malayan-peninsula-1884.md) — [J.E. Tenison Woods](./je-tenison-woods.md) (pp. 137–142)
-* [Seven months in the tin country, Perak (Malacca Peninsula), 1881. . Dyer](./seven-months-in-the-tin-country-perak-malacca-peninsula-1881.md) — [J.E. De La Croix](./je-de-la-croix.md) (pp. 143–168)
+* [Seven months in the tin country, Perak (Malacca Peninsula), 1881](./seven-months-in-the-tin-country-perak-malacca-peninsula-1881.md) — [J.E. De La Croix](./je-de-la-croix.md) (pp. 143–168)
 * *The building of the North Borneo railway and the founding of Jesselton* — [H.S. Barlow](./henry-sackville-barlow.md) (pp. 172–173) [Review]
 * *Schooling diaspora: women, education, and the overseas Chinese in British Malaya and Singapore. K.M. Teoh* — [Ngu Ik Tien](./ngu-ik-tien.md) (pp. 174–175) [Review]
 * *Charting the economy: early 20th century Malaya and contemporary Malaysian contrasts. Sultan Nazrin Shah* — [Ong Wooi Leng](./ong-wooi-leng.md) (pp. 176–181) [Review]
@@ -220,7 +220,7 @@ articles:
 * [A. Khoo](./a-khoo.md)
 * [A.T. Gallop](./at-gallop.md)
 * [Ahmad Fauzi Abdul Hamid](./ahmad-fauzi-abdul-hamid.md)
-* [C. de Matos](./c-de-matos.md)
+* [C. de Matos](./christine-de-matos.md)
 * [C. Velu](./c-velu.md)
 * [Chor Swang Ngin](./chor-swang-ngin.md)
 * [H.S. Barlow](./henry-sackville-barlow.md)

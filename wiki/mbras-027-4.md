@@ -27,9 +27,10 @@ articles:
   pages: 1–108
   is_review: false
 ---
+
 # JMBRAS Vol. 27, Part 4 (November 1954)
 
-**Series:** Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society  
+**Series:** Journal of the Malayan/[Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** November 1954
 
 ## Table of Contents

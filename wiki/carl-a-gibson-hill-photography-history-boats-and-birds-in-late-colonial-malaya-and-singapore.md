@@ -32,13 +32,13 @@ source_path: ../sources/references.md
 
 ## About
 
-Carl Alexander Gibson-Hill was one of colonial Malaya's last scholar administrators. As director of Singapore's Raffles Museum in the 1950s and editor of the Journal of the Malayan Branch of the Royal Asiatic Society, he made significant contributions in diverse fields, including ornithology, photography, history, and maritime studies. His publications display both artistry and intellectual rigour, but perfectionism combined with depression and illness made it difficult for him to carry projects forward. His legacy is a long list of articles, many in publications he edited, and collections of photographs in museum archives. It is a distinguished body of work but fell short of his aspirations.
+[Carl Alexander Gibson-Hill](./carl-alexander-gibson-hill.md) was one of colonial [Malaya](./malaya.md)'s last scholar administrators. As director of [Singapore](./singapore.md)'s [Raffles](./stamford-raffles.md) Museum in the 1950s and editor of the [Journal of the Malayan Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md), he made significant contributions in diverse fields, including ornithology, photography, history, and maritime studies. His publications display both artistry and intellectual rigour, but perfectionism combined with depression and illness made it difficult for him to carry projects forward. His legacy is a long list of articles, many in publications he edited, and collections of photographs in museum [archives](./archives.md). It is a distinguished body of work but fell short of his aspirations.
 
 Gibson-Hill was a man out of sync with his times. His professional life took place against a backdrop of the dissolution of the British Empire and dwindling opportunities for members of the colonial establishment as Singapore and Malaya moved toward independence. Facing early retirement and the collapse of the social order that gave his life meaning, he committed suicide in August 1963, one month before Singapore's definitive break with its colonial past.
 
 ## The Author
 
-Brendan Luyt is an Associate Professor with the Wee Kim Wee School of Communication and Information at Nanyang Technological University in Singapore.
+[Brendan Luyt](./brendan-luyt.md) is an Associate Professor with the Wee Kim Wee School of Communication and Information at Nanyang Technological University in Singapore.
 
 ## Contents
 
@@ -46,13 +46,13 @@ Brendan Luyt is an Associate Professor with the Wee Kim Wee School of Communicat
 1. The Life of Carl A. Gibson-Hill
 2. Writing History, and the Heritage of Malaya
 3. Ornithology
-4. The Malayan Branch of the Royal Asiatic Society
-5. Sea Bird Photography and Popular Natural History
+4. The [Malayan Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)
+5. Sea Bird Photography and Popular [Natural History](./natural-history.md)
 6. Photography in Malaya
 7. The Boats of Malaya
 8. Conclusion
 - Appendix
-- Index
+- [Index](./index.md)
 
 ## Summary
 <!-- Synthesis engine: Insert chapter summaries or overview here -->

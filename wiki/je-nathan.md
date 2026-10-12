@@ -17,7 +17,7 @@ published: false
 ## Biography
 
 ## Bibliography
-- (1914) [A Malay ghost story. .E. Nathan](./a-malay-ghost-story-e-nathan.md). *JSBRAS* 67: 89–93
+- (1914) [A Malay ghost story](./a-malay-ghost-story.md). *JSBRAS* 67: 89–93
 - (1915) [A journey over the main range from Perak to Pahang](./a-journey-over-the-main-range-from-perak-to-pahang.md). *JSBRAS* 68: 1–5
 
 ### Reviews

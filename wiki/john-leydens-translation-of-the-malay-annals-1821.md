@@ -22,9 +22,9 @@ published: false
 
 ## About
 
-John Leyden, who died in 1810, was an extremely able Scotsman who, after a period of service in India, moved to the Straits Settlements in the first decade of the nineteenth century. He was responsible for the first translation into English of <i>The Malay Annals</i>. The current reprint is accompanied by a scholarly introduction by Virginia Matheson and Barry Hooker, throwing much light on both the life and times of John Leyden, and the motives which caused Raffles to publish the translation a decade after Leyden's death.
+John Leyden, who died in 1810, was an extremely able Scotsman who, after a period of service in [India](./india.md), moved to the [Straits Settlements](./straits-settlements.md) in the first decade of the nineteenth century. He was responsible for the first translation into English of <i>The [Malay Annals](./malay-annals.md)</i>. The current reprint is accompanied by a scholarly introduction by [Virginia Matheson](./virginia-matheson.md) and Barry Hooker, throwing much light on both the life and times of [John Leyden](./john-leyden.md), and the motives which caused [Raffles](./stamford-raffles.md) to publish the translation a decade after Leyden's death.
 
-This reissue of Leyden's rendition of Sejarah Melayu will be essential reading for any student of Malay literature, and about anybody who is curious about the interaction between Malay and European culture of that period.
+This reissue of Leyden's rendition of [Sejarah Melayu](./sejarah-melayu.md) will be essential reading for any student of [Malay literature](./malay-literature.md), and about anybody who is curious about the interaction between [Malay](./malay.md) and [European](./european.md) culture of that period.
 
 
 ## Contents

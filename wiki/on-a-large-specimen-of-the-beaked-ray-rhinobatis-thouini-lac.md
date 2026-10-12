@@ -28,7 +28,7 @@ jstor: https://www.jstor.org/stable/41559666
 
 # On a large specimen of the beaked ray Rhinobatis thouini (Lacep.). Records of the Raffles Museum, No. 24
 
-This short note by N. Smedley describes a large specimen of the beaked ray *Rhinobatis thouini* (Lacep.) held in the Raffles Museum, Singapore.
+This short note by [N. Smedley](./n-smedley.md) describes a large specimen of the beaked ray *Rhinobatis thouini* (Lacep.) held in the [Raffles](./stamford-raffles.md) Museum, [Singapore](./singapore.md).
 
 ## Summary
 

@@ -17,7 +17,7 @@ gender: female
 
 ## Biography
 
-Shakila Yacob is the Executive Director at the International Institute of Public Policy and Management (INPUMA) and a Professor in the Department of History at the University of Malaya.
+Shakila Yacob is the Executive Director at the International Institute of Public Policy and Management (INPUMA) and a Professor in the Department of History at the University of [Malaya](./malaya.md).
 
 ## Bibliography
 - (2020) [Malaysia-Indonesia Konfrontasi : the struggle for influence in the Middle East. I. Karuppannan and Shakila Yacob](./malaysia-indonesia-konfrontasi-the-struggle-for-influence-in.md). *JMBRAS* 93(1): 67–90

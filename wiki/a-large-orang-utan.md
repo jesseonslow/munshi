@@ -26,7 +26,7 @@ jstor: https://www.jstor.org/stable/41559553
 
 # A large orang-utan
 
-This short note by F. N. Chasen documents the measurements and physical description of an adult male orang-utan (*Mias*) taken alive at Katoengou in Dutch West Borneo in 1922 and which died in Singapore in January 1923 (p. 257).
+This short note by F. N. Chasen documents the measurements and physical description of an adult male [orang-utan](./orangutan.md) (*Mias*) taken alive at Katoengou in Dutch West [Borneo](./borneo.md) in 1922 and which died in [Singapore](./singapore.md) in January 1923 (p. 257).
 
 ## Summary
 

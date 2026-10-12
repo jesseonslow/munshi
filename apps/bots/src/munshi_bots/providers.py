@@ -2,6 +2,8 @@
 from __future__ import annotations
 
 import re
+import subprocess
+import json
 from pathlib import Path
 from typing import Any
 from rapidfuzz import fuzz
@@ -63,21 +65,38 @@ class SourceCandidateProvider:
         if not self.sources_dir.exists():
             return
 
+        # In SourceCandidateProvider._index_sources in providers.py:
+
         for md_path in self.sources_dir.rglob("*.md"):
             try:
+                # If this file is inside a multi-file publication directory:
+                is_nested = md_path.parent != self.sources_dir
+                
+                # In nested folders, favor frontmatter.md or main chapter files
+                # Skip secondary backmatter during primary alignment indexing
+                if is_nested and md_path.stem.lower() in {
+                    "appendix",
+                    "glossary",
+                    "bibliography",
+                    "index",
+                    "references",
+                }:
+                    continue
+
                 fm, body = read_wiki_page(md_path)
-                # Check frontmatter doc_id first, fallback to filename
-                doc_id = str(fm.get("doc_id") or md_path.stem)
+                doc_id = str(fm.get("doc_id") or (md_path.parent.name if is_nested else md_path.stem))
                 
                 m_match = FILENAME_MASTER_RE.search(doc_id) or FILENAME_MASTER_RE.search(md_path.name)
                 master_no = int(m_match.group("master")) if m_match else None
+
+                rel_from_sources = md_path.relative_to(self.sources_dir)
 
                 self.sources_index[doc_id] = {
                     "doc_id": doc_id,
                     "title": str(fm.get("title", "")),
                     "author": str(fm.get("author", "")),
                     "master_no": master_no,
-                    "rel_path": f"../sources/{md_path.name}",
+                    "rel_path": f"../sources/{rel_from_sources.as_posix()}",
                     "path": md_path,
                 }
             except Exception:
@@ -145,11 +164,89 @@ class SourceCandidateProvider:
         return None, "\n\n".join(formatted)
 
 
-def get_candidate_provider(name: str, wiki_dir: Path, root: Path) -> SourceCandidateProvider | None:
+def get_candidate_provider(name: str, wiki_dir: Path, root: Path):
     if name == "source_matcher":
-        # Resolve sources directory defensively
-        sources_candidate = root / "sources"
-        if not sources_candidate.exists():
-            sources_candidate = root / "content" / "sources"
+        sources_candidate = root / "sources" if (root / "sources").exists() else root / "content" / "sources"
         return SourceCandidateProvider(wiki_dir=wiki_dir, sources_dir=sources_candidate)
+    elif name == "surface_mention_linker":
+        return SurfaceMentionCandidateProvider(wiki_dir=wiki_dir)
     return None
+
+class SurfaceMentionCandidateProvider:
+    """Pre-filters candidate wiki pages by matching titles/aliases against body text."""
+
+    def __init__(self, wiki_dir: Path):
+        self.wiki_dir = wiki_dir.resolve()
+        # surface_form (lower) -> list of target entity dicts
+        self.surface_lookup: dict[str, list[dict[str, str]]] = {}
+        self._build_surface_index()
+
+    def _build_surface_index(self) -> None:
+        """Loads all wiki entities into an in-memory dictionary once at startup."""
+        for md_path in self.wiki_dir.glob("*.md"):
+            try:
+                fm, _ = read_wiki_page(md_path)
+                slug = md_path.stem
+                title = str(fm.get("title") or slug.replace("-", " ")).strip()
+                aliases = fm.get("aliases") or []
+                if isinstance(aliases, str):
+                    aliases = [aliases]
+
+                entity_info = {
+                    "slug": slug,
+                    "title": title,
+                    "type": str(fm.get("type", "concept")),
+                }
+
+                # Index canonical title (min length >= 4 to avoid tiny noise words)
+                if len(title) >= 4:
+                    self.surface_lookup.setdefault(title.lower(), []).append(entity_info)
+
+                # Index aliases
+                for a in aliases:
+                    clean_a = str(a).strip()
+                    if len(clean_a) >= 4:
+                        self.surface_lookup.setdefault(clean_a.lower(), []).append(entity_info)
+            except Exception:
+                continue
+
+    def get_candidates(self, wiki_fm: dict[str, Any], wiki_stem: str) -> tuple[None, str]:
+        """Scans the page body text and surfaces candidates whose names appear in the prose."""
+        target_file = self.wiki_dir / f"{wiki_stem}.md"
+        if not target_file.exists():
+            return None, "(No candidate entities found)"
+
+        _, body = read_wiki_page(target_file)
+        body_lower = body.lower()
+
+        matched_candidates: list[dict[str, str]] = []
+        seen_slugs: set[str] = {wiki_stem}  # Ignore self-links
+
+        # Sort surface terms by length descending (match "tin mining" before "tin")
+        for term, entities in sorted(self.surface_lookup.items(), key=lambda x: len(x[0]), reverse=True):
+            if term in body_lower:
+                for ent in entities:
+                    if ent["slug"] not in seen_slugs:
+                        seen_slugs.add(ent["slug"])
+                        matched_candidates.append({
+                            "surface_mention": term,
+                            "slug": ent["slug"],
+                            "title": ent["title"],
+                            "type": ent["type"],
+                        })
+                        if len(matched_candidates) >= 15:
+                            break
+            if len(matched_candidates) >= 15:
+                break
+
+        if not matched_candidates:
+            return None, "(No candidate entity mentions detected in body text)"
+
+        formatted = []
+        for i, c in enumerate(matched_candidates, 1):
+            formatted.append(
+                f"[{i}] Mention in text: \"{c['surface_mention']}\"\n"
+                f"    Target Slug: {c['slug']}\n"
+                f"    Canonical Title: {c['title']} ({c['type']})"
+            )
+        return None, "\n\n".join(formatted)

@@ -19,7 +19,7 @@ published: false
 
 ## MBRAS Sources
 
-- The short-eared owl in Singapore. SB 35
+- The short-eared owl in [Singapore](./singapore.md). SB 35
 
 ## References
 <!-- Grounded occurrences and citations -->

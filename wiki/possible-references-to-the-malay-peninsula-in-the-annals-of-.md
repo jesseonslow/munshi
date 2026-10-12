@@ -26,15 +26,15 @@ publication_type: journal_article
 
 # Possible references to the Malay Peninsula in the Annals of the Former Han
 
-Paul Wheatley's 1957 article examines a passage in Chapter 28 of the *Ch'ien han shu* (completed c. A.D. 80) that records two maritime itineraries from southern China to the Indian Ocean, arguing that the trans-peninsular portage described in the earlier route constitutes one of the earliest substantiated references to the Malay Peninsula in any language.
+[Paul Wheatley](./paul-wheatley.md)'s 1957 article examines a passage in Chapter 28 of the *Ch'ien han shu* (completed c. A.D. 80) that records two maritime itineraries from southern [China](./china.md) to the Indian Ocean, arguing that the trans-peninsular portage described in the earlier route constitutes one of the earliest substantiated references to the [Malay](./malay.md) Peninsula in any language.
 
 ## Summary
 
 Wheatley's central concern is not philological identification of place-names but the geographical logic of the two itineraries preserved in the *Ch'ien han shu*. He notes that previous scholars—Pelliot, Herrmann, Laufer, Ferrand, Fujita Toyohachi, and Duyvendak—had largely focused on speculative etymological matching, to the neglect of what the distances and times actually imply about the route taken. Wheatley demonstrates that the first itinerary (associated with the reign of Wu-ti, c. 141–87 B.C.) is a coastal route from Upper Annam that necessarily involves a trans-peninsular crossing: the time taken from *Jih-nan* to *Shen-li* (nearly ten months) is consistent with a slow coastal voyage to the isthmus, while the subsequent overland leg of "rather more than ten days' journey on foot" implies a crossing of the Malay Peninsula from east to west coast (pp. 117–118).
 
-This geographical argument has decisive consequences for the identifications proposed by earlier scholars. Ferrand's equation of *Fu-kan-tu-lu* with Pagan in Burma is incompatible with a ten-day march from the eastern coast of the peninsula, and Herrmann's placement of *Huang-chih* on the Abyssinian coast is ruled out entirely by the time-table. Wheatley suggests that *Huang-chih* was more likely in Sumatra, which would also accord with Laufer's observation that the rhinoceros in question was the two-horned species (*Rhinoceros sumatrensis*) confined to that region (pp. 119–120).
+This geographical argument has decisive consequences for the identifications proposed by earlier scholars. Ferrand's equation of *Fu-kan-tu-lu* with Pagan in [Burma](./burma.md) is incompatible with a ten-day march from the eastern coast of the peninsula, and Herrmann's placement of *Huang-chih* on the Abyssinian coast is ruled out entirely by the time-table. Wheatley suggests that *Huang-chih* was more likely in [Sumatra](./sumatra.md), which would also accord with Laufer's observation that the [rhinoceros](./rhinoceros.md) in question was the two-horned species (*Rhinoceros sumatrensis*) confined to that region (pp. 119–120).
 
-For the second itinerary (the return route of Wang Mang's envoys, c. A.D. 1–5), Wheatley identifies *P'i-tsung* as a location on or near the Malay Peninsula, drawing on later Chinese sources that preserve the name in forms clearly derived from Malay *Pulau Pisang* (Banana Island). He further argues that the recorded voyage times must have included periods of waiting for monsoon reversals, which explains why individual legs exceed the six-month maximum for continuous sailing in one direction (pp. 120–121).
+For the second itinerary (the return route of Wang Mang's envoys, c. A.D. 1–5), Wheatley identifies *P'i-tsung* as a location on or near the Malay Peninsula, drawing on later [Chinese](./chinese.md) sources that preserve the name in forms clearly derived from Malay *Pulau Pisang* (Banana Island). He further argues that the recorded voyage times must have included periods of waiting for monsoon reversals, which explains why individual legs exceed the six-month maximum for continuous sailing in one direction (pp. 120–121).
 
 ### Key Findings
 
@@ -43,7 +43,7 @@ For the second itinerary (the return route of Wang Mang's envoys, c. A.D. 1–5)
 - A ten-day overland march implies a distance of roughly 150–200 miles, placing the crossing some distance north or south of the Kra Isthmus; Wheatley identifies the Three Pagodas Pass (c. 800 ft elevation) and the Three Cedars Pass as the most probable routes (p. 119).
 - Archaeological evidence from P'ong Tuk (excavated by Coedes) yields a Græco-Roman lamp of Pompeian type and a Buddha in the Amaravati style, dating to the second–sixth centuries A.D.—two to three centuries later than the Han envoys' voyage but earlier than evidence for any other trans-peninsular route (p. 119).
 - The *Periplus Maris Erythraei* confirms that monsoonal open-ocean sailing across the Indian Ocean was practised by Western sailors in the first century A.D., supporting the possibility that "barbarian" ships carried the Chinese envoys directly across the Bay of Bengal (p. 118).
-- The *Ch'ien han shu* makes clear that Chinese shipping had not yet reached the Indian Ocean; the Chinese relied on barbarian trading-ships for the western leg of the journey (p. 121).
+- The *Ch'ien han shu* makes clear that Chinese [shipping](./shipping.md) had not yet reached the Indian Ocean; the Chinese relied on barbarian trading-ships for the western leg of the journey (p. 121).
 
 ### Conclusion
 

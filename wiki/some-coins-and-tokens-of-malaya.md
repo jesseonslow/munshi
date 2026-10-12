@@ -25,13 +25,13 @@ publication_type: journal_article
 
 # Some coins and tokens of Malaya
 
-E. Wodak's 1951 article "Medals connected with Siam," published in the Journal of the Malaysian Branch of the Royal Asiatic Society (Vol. XXIV, Pt. I), surveys a small group of commemorative medals struck to mark French–Siamese diplomatic encounters spanning 1686 to 1898, drawing on specimens in his own collection to fill gaps left by the absence of surviving Siamese mint records.
+[E. Wodak](./e-wodak.md)'s 1951 article "[Medals connected with Siam](./medals-connected-with-siam.md)," published in the [Journal of the Malaysian Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md) (Vol. XXIV, Pt. I), [surveys](./surveys.md) a small group of commemorative medals struck to mark French–Siamese diplomatic encounters spanning 1686 to 1898, drawing on specimens in his own collection to fill gaps left by the absence of surviving Siamese mint records.
 
 ## Summary
 
 The article opens with the oldest piece, a copper medal of 73 mm diameter and 172 gr weight struck to commemorate the audience granted to the Siamese embassy of Nai Pahn at the court of Louis XIV in 1686, during the reign of King Narai (1657–1688) and under the instigation of the Greek-born Prime Minister Constantine Phaulkon (pp. 175–176). Wodak reproduces J. Haas's 1880 wood-engraving and transcription, noting that two examples reside in the Musée du Louvre and that the original from which the impression was taken is preserved in Bangkok. A smaller companion medal of 41 mm radius (28.7 gr) is described with slightly different lettering and a simplified reverse (p. 177).
 
-The narrative then jumps 180 years to 1861, when King Mongkut sent another legation to Napoleon III, producing a silver medal of 72 mm (204.4 gr) depicting the reception at Fontainebleau on 27 June 1861; an identical bronze example in the Bangkok Museum was presented by Prince Wan Waithayakon, Thailand's Ambassador to the U.S.A. (pp. 177–178). Finally, two medals from King Chulalongkorn's European tour are catalogued: a 41 mm silver piece (39.8 gr) commemorating his visit to the Paris mint on 16 September 1897, and a set of medals for his return to Siam in 1898 (year 116 Bangkok Era) in silver and bronze at 50 mm and 33 mm, plus smaller 37.5 mm bronzes probably struck in Bangkok (pp. 178–179).
+The narrative then jumps 180 years to 1861, when King Mongkut sent another legation to Napoleon III, producing a silver medal of 72 mm (204.4 gr) depicting the reception at Fontainebleau on 27 June 1861; an identical bronze example in the Bangkok Museum was presented by Prince Wan Waithayakon, Thailand's Ambassador to the U.S.A. (pp. 177–178). Finally, two medals from King Chulalongkorn's [European](./european.md) tour are catalogued: a 41 mm silver piece (39.8 gr) commemorating his visit to the Paris mint on 16 September 1897, and a set of medals for his return to [Siam](./thailand.md) in 1898 (year 116 Bangkok Era) in [silver](./silver.md) and bronze at 50 mm and 33 mm, plus smaller 37.5 mm [bronzes](./bronzes.md) probably struck in Bangkok (pp. 178–179).
 
 ### Key Findings
 

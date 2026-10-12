@@ -265,7 +265,7 @@ articles:
 
 # JMBRAS Vol. 93, Part 2 (December 2020)
 
-**Series:** Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society  
+**Series:** Journal of the Malayan/[Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** December 2020
 
 ## Table of Contents

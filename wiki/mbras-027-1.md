@@ -117,7 +117,7 @@ articles:
   is_review: false
 - id: jmbras-27-1-p224
   slug: raffles-alexander-hare-johanna-van-hare
-  title: 'Raffles, Alexander Hare & Johanna van Hare'
+  title: Raffles, Alexander Hare & Johanna van Hare
   authors:
   - C.A. Gibson-Hill
   pages: 224–233
@@ -133,7 +133,7 @@ articles:
 
 # JMBRAS Vol. 27, Part 1 (May 1954)
 
-**Series:** Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society  
+**Series:** Journal of the Malayan/[Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** May 1954
 
 ## Table of Contents

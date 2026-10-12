@@ -17,7 +17,7 @@ published: false
 ## Biography
 
 ## Bibliography
-- (1897) [An account of the cultivation of rice in Malacca {in Rumi, .O. Blagden](./an-account-of-the-cultivation-of-rice-in-malacca-in-rumi-o-b.md). *JSBRAS* 30: 285–304
+- (1897) [An account of the cultivation of rice in Malacca](./an-account-of-the-cultivation-of-rice-in-malacca.md). *JSBRAS* 30: 285–304
 
 ## References
 <!-- Grounded occurrences and citations -->

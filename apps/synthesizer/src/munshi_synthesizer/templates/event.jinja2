@@ -1,11 +1,18 @@
-{% extends "base.jinja2" %}
+{% extends "synthesis_layout.jinja2" %}
 
-{% block category_instructions %}
-# SYNTHESIS INSTRUCTIONS: HISTORICAL CONCEPT / COMMODITY / INSTITUTION
-1. Analyze this thematic subject (e.g., *Tin Mining*, *Piracy*, *Slavery and Debt Bondage*) across colonial Malaya and Borneo.
-2. Structure sections:
-   - `## Scope & Historical Definition`
-   - `## Economic / Social Dynamics in the Region`
-   - `## Colonial Regulation & Legal Frameworks`
-3. Weave cross-document occurrences into a cohesive analysis rather than summarizing passage-by-passage.
+{% block category_task %}
+Write an authoritative, chronologically grounded encyclopedia article on the historical event, conflict, treaty, or conference: **{{ topic_name }}**.
+{% endblock %}
+
+{% block category_architecture %}
+1. THE ORIENTING LEDE (NO SUBHEADING):
+   - 1 concise paragraph defining the event: timeframe, principal factions or signatories, geographic theatre, and core outcome.
+2. CHRONOLOGICAL ARCS:
+   - Organize into 2 to 4 substantive '{{ body_heading_prefix }}' subheadings (e.g., `{{ body_heading_prefix }} Origins and Factional Alignments`, `{{ body_heading_prefix }} Course of Engagements and Operations`, `{{ body_heading_prefix }} Treaties, Settlements, and Political Aftermath`).
+   {% if subtopics %}
+   - Principal facets to incorporate: {{ subtopics | join(", ") }}.
+   {% endif %}
+   - Explicitly ground dates, troop movements, key figures, and diplomatic dispatches in the archival records.
+3. HISTORICAL DOCUMENTATION & SOURCES:
+   - Conclude with `{{ body_heading_prefix }} Research and Documentation` (or `{{ body_heading_prefix }} Historiography and Sources`) assessing how early campaign dispatches, administrative records, or indigenous chronicles documented the event.
 {% endblock %}

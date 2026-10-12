@@ -27,11 +27,11 @@ publication_type: note
 
 # Notes on an infant maias
 
-This document comprises two short notes published in JSBRAS Vol. 26 (1894): "Notes on an Infant Maias" by G. F. Haviland and "Stick-Insects destroying Orchids" by H. N. Ridley.
+This document comprises two short notes published in [JSBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md) Vol. 26 (1894): "Notes on an Infant Maias" by G. F. Haviland and "Stick-Insects destroying [Orchids](./orchids.md)" by [H. N. Ridley](./henry-nicholas-ridley.md).
 
 ## Summary
 
-Haviland's note records observations on an infant orang-utan (Maias) kept in Sarawak from July 1890 to October 1891, when it accidentally strangled itself on a chain. The notes track the animal's dentition, weight gain, and behavioural habits—particularly its instinctive self-clinging when lifted—and compare the rate of teething to that of human children, concluding that the two need not be proportional (pp. 204–206). The infant's skeleton was deposited in the Sarawak Museum.
+Haviland's note records observations on an infant [orang-utan](./orangutan.md) (Maias) kept in Sarawak from July 1890 to October 1891, when it accidentally strangled itself on a chain. The notes track the animal's dentition, weight gain, and behavioural habits—particularly its instinctive self-clinging when lifted—and compare the rate of teething to that of human children, concluding that the two need not be proportional (pp. 204–206). The infant's skeleton was deposited in the [Sarawak](./sarawak.md) Museum.
 
 Ridley's accompanying note describes two species of Phasmidae (stick insects) identified as pests of cultivated orchids in Sarawak: a species of *Pyloemenes* near *P. coronatus* Westw. and *Datames Oileus* Westwood, the latter previously known only from a unique specimen in the British Museum. Both are noted as voracious leaf-eaters of epiphytic orchids (p. 204).
 

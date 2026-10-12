@@ -15,14 +15,13 @@ status: stub
 published: false
 ---
 
-
 # Herbert Christopher Robinson
 
 <!-- Synthesis engine: Insert introductory synthesis for Herbert Christopher Robinson here -->
 
 ## MBRAS Sources
 
-- [C.B. Kloss](./cb-kloss.md) (1930). [Herbert Christopher Robinson. Obituary](./herbert-christopher-robinson-obituary.md). *JMBRAS* 8(2): 361–362
+- [C.B. Kloss](./cb-kloss.md) (1930). [Herbert Christopher Robinson. Obituary](./herbert-christopher-robinson-obituary.md). *[JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* 8(2): 361–362
 
 ## Bibliography
 - (1905) [Note on the occurrence in Selangor of three vertebrates new to the Malay Peninsula](./note-on-the-occurrence-in-selangor-of-three-vertebrates-new-.md). *JSBRAS* 44: 223–225

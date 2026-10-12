@@ -94,7 +94,7 @@ articles:
 
 # JMBRAS Vol. 64, Part 2 (December 1991)
 
-**Series:** Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society  
+**Series:** Journal of the Malayan/[Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** December 1991
 
 ## Table of Contents

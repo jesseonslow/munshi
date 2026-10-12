@@ -27,7 +27,7 @@ jstor: https://www.jstor.org/stable/41561292
 
 # Malayan Membracidae
 
-W.D. Funkhouser, writing from the Entomological Laboratory of Cornell University, published this taxonomic monograph in 1918 describing a collection of treehoppers (family Membracidae) gathered by Professor C.F. Baker at Singapore and Penang during the summer of 1917. The paper establishes twelve new species and provides distributional records for previously described taxa, significantly extending knowledge of the Indian homopterous fauna in the Malay Peninsula.
+[W.D. Funkhouser](./wd-funkhouser.md), writing from the Entomological Laboratory of Cornell University, published this taxonomic monograph in 1918 describing a collection of treehoppers (family Membracidae) gathered by Professor [C.F. Baker](./cf-baker.md) at [Singapore](./singapore.md) and [Penang](./penang.md) during the summer of 1917. The paper establishes twelve new species and provides distributional records for previously described taxa, significantly extending knowledge of the Indian homopterous fauna in the [Malay](./malay.md) Peninsula.
 
 ## Summary
 
@@ -44,16 +44,16 @@ The paper also contributes to nomenclatural clarification, notably resolving the
 - The genus *Gargara* yields five new species from this single collection, the largest contribution to any one genus in the paper (pp. 10–14).
 - *Gargara projecta* is distinguished by an unusual head orientation—projected forward rather than deflexed or vertical as in most Membracidae—described from six specimens across both localities (p. 10).
 - *Tricentrus gibbosulus* Walker is recorded from six specimens (three males from Singapore, two males and one female from Penang), with a note on the homonymy involving Walker's 1868 species (p. 6).
-- *Gargara nitidipennis* Funkhouser, previously known only from the Philippine Islands, is confirmed for the Malay Peninsula with no specific characters separating the two populations (p. 10).
+- *Gargara nitidipennis* Funkhouser, previously known only from the Philippine [Islands](./islands.md), is confirmed for the Malay Peninsula with no specific characters separating the two populations (p. 10).
 
 ### Conclusion
 
-Funkhouser's paper demonstrates that the Malay Peninsula harbors a rich and previously underdocumented fauna of Membracidae, with the majority of species in the Baker collection representing new science. The work anchors the biogeographic connection between the Indian, Philippine, and Malay treehopper faunas, and the erection of *Centruchus* as a distinct genus reflects Funkhouser's ongoing effort to refine generic boundaries within the family using subtle morphological characters such as trochanteral armature.
+Funkhouser's paper demonstrates that the Malay Peninsula harbors a rich and previously underdocumented fauna of Membracidae, with the majority of species in the Baker collection representing new [science](./science.md). The work anchors the biogeographic connection between the Indian, Philippine, and Malay treehopper faunas, and the erection of *Centruchus* as a distinct genus reflects Funkhouser's ongoing effort to refine generic boundaries within the [family](./family.md) using subtle morphological characters such as trochanteral armature.
 
 ## Context
 
-- The collection was made by Professor C.F. Baker, Dean of the College of Agriculture at Los Banos, Philippine Islands, who facilitated Funkhouser's access to the material (p. 1).
-- The paper was contributed from the Entomological Laboratory of Cornell University, reflecting the trans-Pacific entomological networks linking American universities with colonial-era field collections in Southeast Asia.
+- The collection was made by Professor C.F. Baker, Dean of the College of [Agriculture](./agriculture.md) at Los Banos, Philippine Islands, who facilitated Funkhouser's access to the material (p. 1).
+- The paper was contributed from the Entomological Laboratory of Cornell University, reflecting the trans-Pacific entomological networks linking American universities with colonial-era field collections in [Southeast Asia](./southeast-asia.md).
 
 ## References
 <!-- Grounded occurrences and citations -->

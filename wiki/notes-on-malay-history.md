@@ -25,7 +25,7 @@ publication_type: note
 
 # Notes on Malay history
 
-C. O. Blagden's short note presents two early Chinese textual references bearing on Malay history: one concerning the legendary etymology of "Menangkabau" and another recording a Siamese naval raid on old Singapore.
+[C. O. Blagden](./charles-otto-blagden.md)'s short note presents two early [Chinese](./chinese.md) textual references bearing on [Malay](./malay.md) history: one concerning the legendary etymology of "[Menangkabau](./menangkabau.md)" and another recording a Siamese naval raid on [old Singapore](./old-singapore.md).
 
 ## Summary
 

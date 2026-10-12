@@ -87,7 +87,7 @@ articles:
 
 # JSBRAS No. 60 (December 1911)
 
-**Series:** Journal of the Straits Branch of the Royal Asiatic Society  
+**Series:** [Journal of the Straits Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** December 1911
 
 ## Table of Contents

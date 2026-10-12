@@ -80,7 +80,7 @@ articles:
 
 # JSBRAS No. 35 (January 1901)
 
-**Series:** Journal of the Straits Branch of the Royal Asiatic Society  
+**Series:** [Journal of the Straits Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** January 1901
 
 ## Table of Contents

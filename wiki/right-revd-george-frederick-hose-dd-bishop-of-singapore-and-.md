@@ -28,13 +28,13 @@ jstor: https://www.jstor.org/stable/41561117
 
 # Right Revd. George Frederick Hose, D.D. Bishop of Singapore and Sarawak, 1881–1908
 
-This is a joint obituary note by R. N. Bland and H. N. Ridley commemorating the life and service of George Frederick Hose, D.D., Bishop of Singapore and Sarawak (1881–1908), published in the *Journal of the Straits Branch of the Royal Asiatic Society* (p. 1).
+This is a joint obituary note by R. N. Bland and [H. N. Ridley](./henry-nicholas-ridley.md) commemorating the life and service of George Frederick Hose, D.D., Bishop of [Singapore](./singapore.md) and [Sarawak](./sarawak.md) (1881–1908), published in the *[Journal of the Straits Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* (p. 1).
 
 ## Summary
 
-Bland's portion (pp. 3–4) traces Hose's career from his 1838 birth and ordination in 1863 through his chaplaincies in Malacca and Singapore, his consecration as Bishop in 1881, and his retirement in 1908 after nearly fifty years of ministry. It highlights his role as founder and first president of the Straits Branch of the Royal Asiatic Society in November 1877, his Malay language scholarship, and the practical necessity that led to the division of his diocese (p. 4).
+Bland's portion (pp. 3–4) traces Hose's career from his 1838 birth and ordination in 1863 through his chaplaincies in [Malacca](./melaka.md) and Singapore, his consecration as Bishop in 1881, and his retirement in 1908 after nearly fifty years of ministry. It highlights his role as founder and first president of the [Straits Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md) in November 1877, his [Malay](./malay.md) language scholarship, and the practical necessity that led to the division of his diocese (p. 4).
 
-Ridley's contribution (pp. 4–5) focuses on Hose's botanical work, particularly his extensive fern collections from Borneo and the Malay Peninsula, several species of which bear his name (e.g., *Trichomanes Hosei*, *Davallia Hosei*). It also notes his introduction of the Para rubber tree to Sarawak, his rediscovery of *Crinum Northianum*, and the destruction of his private herbarium by termites (p. 5).
+Ridley's contribution (pp. 4–5) focuses on Hose's botanical work, particularly his extensive fern collections from [Borneo](./borneo.md) and the Malay Peninsula, several species of which bear his name (e.g., *Trichomanes Hosei*, *Davallia Hosei*). It also notes his introduction of the Para rubber tree to Sarawak, his rediscovery of *Crinum Northianum*, and the destruction of his private herbarium by termites (p. 5).
 
 ## References
 <!-- Grounded occurrences and citations -->

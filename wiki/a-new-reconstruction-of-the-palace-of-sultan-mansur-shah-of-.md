@@ -25,11 +25,11 @@ publication_type: journal_article
 
 # A new reconstruction of the palace of Sultan Mansur Shah of Malacca
 
-This document is a short note by H. N. Ridley (1910) titled "A Termite's Nest with Eight Queens," published in the Journal of the Malayan Branch of the Royal Asiatic Society. The provided text fragment contains only the concluding lines of a preceding article by O. Blagden on Majapahit and the title page of Ridley's note with associated figures.
+This document is a short note by [H. N. Ridley](./henry-nicholas-ridley.md) (1910) titled "A Termite's Nest with Eight Queens," published in the [Journal of the Malayan Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md). The provided text fragment contains only the concluding lines of a preceding article by O. Blagden on [Majapahit](./majapahit.md) and the title page of Ridley's note with associated figures.
 
 ## Summary
 
-The Blagden fragment (p. 157) closes an argument that Wijaya became the virtual successor in the newly founded capital of Majapahit, noting that Chinese and Javanese accounts tally on personal names and are further confirmed by contemporary inscriptions. Ridley's short note, which follows, is a brief entomological observation on a termite colony containing eight queens, illustrated with two figures. The full text of the note is not present in the provided fragment.
+The Blagden fragment (p. 157) closes an argument that Wijaya became the virtual successor in the newly founded capital of [Majapahit](./majapahit.md), noting that [Chinese](./chinese.md) and Javanese accounts tally on [personal names](./personal-names.md) and are further confirmed by contemporary [inscriptions](./inscriptions.md). Ridley's short note, which follows, is a brief entomological observation on a termite colony containing eight queens, illustrated with two figures. The full text of the note is not present in the provided fragment.
 
 ## References
 <!-- Grounded occurrences and citations -->

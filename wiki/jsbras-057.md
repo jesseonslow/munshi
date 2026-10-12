@@ -113,7 +113,7 @@ articles:
 
 # JSBRAS No. 57 (January 1911)
 
-**Series:** Journal of the Straits Branch of the Royal Asiatic Society  
+**Series:** [Journal of the Straits Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** January 1911
 
 ## Table of Contents

@@ -21,7 +21,7 @@ published: false
 
 ## About
 
-The late C.C. Brown's translation of Raffles M.S. 18 of the Sejarah Melayu was first published in the *Journal of the Malaysian Branch of the Royal Asiatic Society* Vol. 25 Parts 2 and 3 in 1952. Up to now, it has never been republished, and is now extremely difficult to obtain. Although scholarly criticism has been levelled at certain aspects of the translation, the view remains that on balance this is still the best translation available in English. It is for this reason that the Society has decided to republish it alongside two other volumes in this handsome boxset.
+The late [C.C. Brown](./cc-brown.md)'s translation of [Raffles](./stamford-raffles.md) M.S. 18 of the [Sejarah Melayu](./sejarah-melayu.md) was first published in the *[Journal of the Malaysian Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* Vol. 25 Parts 2 and 3 in 1952. Up to now, it has never been republished, and is now extremely difficult to obtain. Although scholarly criticism has been levelled at certain aspects of the translation, the view remains that on balance this is still the best translation available in English. It is for this reason that the Society has decided to republish it alongside two other volumes in this handsome boxset.
 
 ## Contents
 
@@ -33,7 +33,7 @@ The late C.C. Brown's translation of Raffles M.S. 18 of the Sejarah Melayu was f
 - Appendix A
 - Appendix B (not published, see footnote, p.263)
 - Maps
-- Index
+- [Index](./index.md)
 
 ## Summary
 <!-- Synthesis engine: Insert chapter summaries or overview here -->

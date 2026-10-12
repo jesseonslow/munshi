@@ -26,15 +26,15 @@ jstor: https://www.jstor.org/stable/41561093
 
 # Some notes on the life history of the Aspidomorpha miliaris
 
-Captain C. F. Bishop, a Royal Garrison Artillery officer stationed in the Straits Settlements, published this detailed life history study of the leaf beetle *Aspidomorpha miliaris* in 1909. Drawing on months of captive observation and a field release experiment, the article provides one of the earliest systematic accounts of the species' complete developmental cycle, from egg to imago, in a Malayan context.
+Captain C. F. Bishop, a Royal Garrison Artillery officer stationed in the [Straits Settlements](./straits-settlements.md), published this detailed life history study of the leaf beetle *Aspidomorpha miliaris* in 1909. Drawing on months of captive observation and a field release experiment, the article provides one of the earliest systematic accounts of the species' complete developmental cycle, from egg to imago, in a Malayan context.
 
 ## Summary
 
-Bishop's article is a natural history monograph in the tradition of colonial-era amateur entomology, combining morphological description with behavioural observation. The beetle, a member of the Chrysomelidae (leaf beetles), is described in detail: its chitinous head shield, elytral markings, wing venation, and the 32 spined processes of the larval form. The author notes that the species is monophagous, feeding exclusively on *Ipomea carnea* and *I. superbiens*, and that the larval forked dorsal process—commonly described in Cassidines as a "sunshade" for excrement—is in this species used primarily for shedding the old larval skin rather than for shelter.
+Bishop's article is a [natural history](./natural-history.md) monograph in the tradition of colonial-era amateur entomology, combining morphological description with behavioural observation. The beetle, a member of the Chrysomelidae (leaf beetles), is described in detail: its chitinous head shield, elytral markings, wing venation, and the 32 spined processes of the larval form. The author notes that the species is monophagous, feeding exclusively on *Ipomea carnea* and *I. superbiens*, and that the larval forked dorsal process—commonly described in Cassidines as a "sunshade" for excrement—is in this species used primarily for shedding the old larval skin rather than for shelter.
 
 The core of the article is the developmental timeline and reproductive biology. Bishop documents the full sequence: egg bunches (30–50 eggs, hatching in 10–13 days), a larval phase of 18–21 days with five or six moults, a pupal stage of 4–5 days, and the emergence of the imago, whose elytra harden over a week or ten days. Breeding behaviour is described with unusual precision for the period: copulation occurs in the heat of the day, lasts several hours, and is followed by a 24-hour interval before the female lays a new egg bunch. The female's spermatheca allows her to produce multiple fertile clutches after separation from the male, a fact Bishop demonstrates with specific dated examples.
 
-The most significant empirical contribution is the mortality analysis. Bishop releases 60–70 beetles onto four small *Ipomea* bushes and tracks them for seven months. He documents that under poor conditions, 80–90% of newly hatched larvae die within 24 hours from heat or moisture, and that even under careful captive rearing, larval mortality remains at 30–40%. In the free state, predation by *Euchromia orientalis* larvae, parasitism by a Proctotrypidae Hymenoptera, and storm-driven wash-off of larvae from leaf undersides compound the losses, reducing the released population to 40–50 individuals after seven months.
+The most significant empirical contribution is the mortality analysis. Bishop releases 60–70 [beetles](./beetles.md) onto four small *Ipomea* bushes and tracks them for seven months. He documents that under poor conditions, 80–90% of newly hatched larvae die within 24 hours from heat or moisture, and that even under careful captive rearing, larval mortality remains at 30–40%. In the free state, predation by *Euchromia orientalis* larvae, parasitism by a Proctotrypidae [Hymenoptera](./hymenoptera.md), and storm-driven wash-off of [larvae](./larvae.md) from leaf undersides compound the losses, reducing the released [population](./population.md) to 40–50 individuals after seven months.
 
 ### Key Findings
 
@@ -51,8 +51,8 @@ Bishop's definitive takeaway is that the *Aspidomorpha miliaris* is a species of
 
 ## Context
 
-- Bishop was a Captain in the Royal Garrison Artillery, and the article reflects the colonial amateur naturalist tradition in which military officers contributed entomological observations to the Straits Branch of the Royal Asiatic Society.
-- The study relies entirely on direct observation of captive specimens and a small-scale field release; no archival or literature sources beyond the *Cambridge Natural History* classification are cited.
+- Bishop was a Captain in the Royal Garrison Artillery, and the article reflects the colonial amateur naturalist tradition in which [military](./military.md) officers contributed entomological observations to the [Straits Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md).
+- The study relies entirely on direct observation of captive specimens and a small-scale field release; no archival or [literature](./literature.md) sources beyond the *Cambridge Natural History* classification are cited.
 
 ## References
 <!-- Grounded occurrences and citations -->

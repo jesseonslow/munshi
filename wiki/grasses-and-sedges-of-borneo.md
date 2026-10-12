@@ -26,15 +26,15 @@ jstor: https://www.jstor.org/stable/41561649
 
 # Grasses and sedges of Borneo
 
-H. N. Ridley, Director of the Singapore Botanic Gardens, published this preliminary taxonomic checklist of Bornean grasses and sedges in 1906, drawing on the herbarium collections of Bishop Hose, Miss Hose, Dr. Haviland, and his own field work in Sarawak and Sandakan. The article serves as an early floristic inventory of two large families—Gramineae and Cyperaceae—across the island, acknowledging that the greater part of Borneo remained botanically unexplored at the time.
+[H. N. Ridley](./henry-nicholas-ridley.md), Director of the [Singapore](./singapore.md) Botanic Gardens, published this preliminary taxonomic checklist of Bornean [grasses](./grasses.md) and sedges in 1906, drawing on the herbarium collections of [Bishop Hose](./bishop-george-frederick-hose.md), Miss Hose, Dr. Haviland, and his own field work in [Sarawak](./sarawak.md) and Sandakan. The article serves as an early floristic inventory of two large families—Gramineae and Cyperaceae—across the island, acknowledging that the greater part of [Borneo](./borneo.md) remained botanically unexplored at the time.
 
 ## Summary
 
-Ridley's list is compiled from multiple collector sources spanning Sarawak, British North Borneo (Sandakan, Kudat, Gaya Island), Labuan, Brunei, and the highlands of Kinabalu. He explicitly frames the work as provisional, noting that the glumaceous plants of several large collections—including those of Beccari in Sarawak, Creagh in Sandakan, and Motley and Barber in various parts of the island—had not yet been fully worked out. The best-known region is Sarawak, where Bishop Hose, Miss Hose, Dr. Haviland, and Ridley himself had all collected, though Haviland's expertise lay primarily in trees and shrubs rather than herbaceous plants.
+Ridley's list is compiled from multiple collector sources spanning Sarawak, [British North Borneo](./british-north-borneo.md) (Sandakan, Kudat, Gaya Island), [Labuan](./labuan.md), [Brunei](./brunei.md), and the highlands of Kinabalu. He explicitly frames the work as provisional, noting that the glumaceous plants of several large collections—including those of Beccari in Sarawak, Creagh in Sandakan, and Motley and Barber in [various](./various.md) parts of the island—had not yet been fully worked out. The best-known region is Sarawak, where Bishop Hose, Miss Hose, Dr. Haviland, and Ridley himself had all collected, though Haviland's expertise lay primarily in [trees](./trees.md) and [shrubs](./shrubs.md) rather than herbaceous [plants](./plants.md).
 
-The article is organised taxonomically by family and genus, with each species entry providing locality data, collector attributions, and occasional morphological or ecological notes. Ridley identifies several species as cultivated (rice, maize, pearl millet, job's tears, and two *Andropogon* species), distinguishing them from wild populations. A notable feature is the inclusion of four new species described in the course of this work—*Hypolytrum costato-nux* and *Thoracostachyum Ridleyi* (both named by C. B. Clarke), and *Mapania radians* and *M. debilis* (Clarke n. sp.)—each accompanied by a Latin diagnosis and a brief English description. The Kinabalu highland flora is represented by a small but distinctive assemblage collected by Haviland at 13,000 feet, including *Agrostis canina* var. *Borneensis*, *Deycuxia epileuca*, and *Deschampsia flexuosa* var. *ligulata*.
+The article is organised taxonomically by [family](./family.md) and genus, with each species entry providing locality data, collector attributions, and occasional morphological or ecological notes. Ridley identifies several species as cultivated (rice, maize, pearl millet, job's tears, and two *Andropogon* species), distinguishing them from wild populations. A notable feature is the inclusion of four new species described in the course of this work—*Hypolytrum costato-nux* and *Thoracostachyum Ridleyi* (both named by C. B. Clarke), and *Mapania radians* and *M. debilis* (Clarke n. sp.)—each accompanied by a Latin diagnosis and a brief English description. The Kinabalu highland flora is represented by a small but distinctive assemblage collected by Haviland at 13,000 feet, including *Agrostis canina* var. *Borneensis*, *Deycuxia epileuca*, and *Deschampsia flexuosa* var. *ligulata*.
 
-Ridley also flags several biogeographically interesting records: *Mapania zeylanica*, which Clarke identifies as otherwise confined to Ceylon yet collected at Matang and Banjermassin; and *Carex Dietrichiae*, which Clarke reports as frequent in Malaya and north-east Australia but which Ridley had never encountered from the Malay Peninsula himself.
+Ridley also [flags](./flags.md) several biogeographically interesting records: *Mapania zeylanica*, which Clarke identifies as otherwise confined to Ceylon yet collected at Matang and Banjermassin; and *Carex Dietrichiae*, which Clarke reports as frequent in [Malaya](./malaya.md) and north-east Australia but which Ridley had never encountered from the [Malay](./malay.md) Peninsula himself.
 
 ### Key Findings
 
@@ -43,7 +43,7 @@ Ridley also flags several biogeographically interesting records: *Mapania zeylan
 - Kinabalu highland specimens were collected by Haviland at 13,000 feet altitude, yielding *Agrostis canina* var. *Borneensis*, *Deycuxia epileuca*, and *Deschampsia flexuosa* var. *ligulata* (p. 220).
 - *Mapania zeylanica* is recorded from Matang and Banjermassin, with Clarke noting it is otherwise a plant confined to Ceylon (p. 227).
 - Cultivated species explicitly identified include *Oryza sativa*, *Zea mays*, *Pennisetum italicum*, *Coix Lachryma Jobi*, *Andropogon squarrosus*, and *A. schoenanthus* (pp. 218–219).
-- *Dinochloa Tjankorreh* is described as "a very elegant climbing bamboo" collected abundantly at the foot of Matang and near Kuching (p. 221).
+- *Dinochloa Tjankorreh* is described as "a very elegant climbing bamboo" collected abundantly at the foot of Matang and near [Kuching](./kuching.md) (p. 221).
 
 ### Conclusion
 
@@ -51,7 +51,7 @@ Ridley presents this list as a necessary but incomplete foundation for the grass
 
 ## Context
 
-- Ridley held the position of Director of the Singapore Botanic Gardens and was the pre-eminent colonial-era botanist working across the Straits Settlements and Borneo; this checklist reflects the administrative and scientific infrastructure of the colonial botanical establishment.
+- Ridley held the position of Director of the Singapore Botanic Gardens and was the pre-eminent colonial-era botanist working across the [Straits Settlements](./straits-settlements.md) and Borneo; this checklist reflects the administrative and scientific infrastructure of the colonial botanical establishment.
 - The article draws on the herbarium collections held at the Singapore Botanic Gardens, which served as the central repository for botanical specimens from the region during this period.
 
 ## References

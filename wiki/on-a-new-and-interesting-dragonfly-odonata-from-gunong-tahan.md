@@ -25,7 +25,7 @@ publication_type: note
 
 # On a new and interesting dragonfly (Odonata) from Gunong Tahan
 
-This short note by F. F. Laidlaw describes a new species of dragonfly, *Macromidia genialis*, from Gunong Tahan in Pahang, and provides brief remarks on the genus *Macromidia* (Corduliinae, Macromiina) (p. 230).
+This short note by F. F. Laidlaw describes a new species of dragonfly, *Macromidia genialis*, from Gunong Tahan in [Pahang](./pahang.md), and provides brief remarks on the genus *Macromidia* (Corduliinae, Macromiina) (p. 230).
 
 ## Summary
 

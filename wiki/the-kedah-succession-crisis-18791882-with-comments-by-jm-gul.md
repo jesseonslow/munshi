@@ -25,7 +25,7 @@ publication_type: journal_article
 
 # The Kedah succession crisis 1879–1882 {with comments by J.M. Gullick
 
-Kobkua Suwannathat-Pian's 1989 article examines the Kedah succession crisis of 1879–1882, a period of intense intra-dynastic conflict following the death of Sultan Ahmad Tajuddin II, arguing that Siamese suzerain intervention was the decisive mechanism that prevented the state from descending into armed civil war and that the episode exemplifies the constructive dimension of the post-1842 tributary relationship between Bangkok and Kedah.
+[Kobkua Suwannathat-Pian](./kobkua-suwannathat-pian.md)'s 1989 article examines the Kedah succession crisis of 1879–1882, a period of intense intra-dynastic conflict following the death of Sultan [Ahmad](./ahmad.md) Tajuddin II, arguing that Siamese suzerain intervention was the decisive mechanism that prevented the state from descending into armed civil war and that the episode exemplifies the constructive dimension of the post-1842 tributary relationship between Bangkok and [Kedah](./kedah.md).
 
 ## Summary
 
@@ -41,7 +41,7 @@ The aftermath, spanning from 1882 to the late 1880s, involved a protracted dispu
 - Chulalongkorn's official despatch announcing Tengku Abdul Hamid's appointment as Phraya Zaiburi was dated Thursday of the 13th waxing moon, the fourth moon, 1882, and explicitly abolished the co-regency, vesting full authority in the new sultan (p. 93).
 - Between 1886 and 1888, Tengku Dhiauddin and Tengku Yusof sent 23 letters and appeals to Bangkok regarding their allowances; Sultan Abdul Hamid responded with 14 despatches. Bangkok's final ruling fixed their annual allowances at $9,600 (Dhiauddin) and $4,800 (Yusof) for the period they declined to serve the state (p. 95).
 - During the recession period, the Sultan had agreed to pay reduced monthly allowances of $800 (Dhiauddin) and $400 (Yusof), which were subsequently cut entirely in 1883 before being partially restored under Bangkok's instruction (pp. 94–95).
-- Somdet Chao Phraya's partition proposal—dividing Kubang Pasu from Kedah and assigning it to Tengku Yaakob while giving the remainder to Tengku Dhiauddin—was rejected by Chulalongkorn on the grounds that it would create border disputes, invite European interference, and alienate Tengku Yaakob, who had explicitly stated he desired no part of Kedah but would uphold his nephew's right to rule (pp. 84, 101–104).
+- Somdet Chao Phraya's partition proposal—dividing Kubang Pasu from Kedah and assigning it to Tengku Yaakob while giving the remainder to Tengku Dhiauddin—was rejected by Chulalongkorn on the grounds that it would create border disputes, invite [European](./european.md) interference, and alienate Tengku Yaakob, who had explicitly stated he desired no part of Kedah but would uphold his nephew's right to rule (pp. 84, 101–104).
 - Tengku Dhiauddin's final petition demanded the partition of Kuala Muda as a separate tributary state under his own governance, an additional income beyond his existing padi tax, and a permanent residence and income for Tengku Yusof; all were refused within one week (pp. 91–93).
 
 ### Conclusion
@@ -51,7 +51,7 @@ Suwannathat-Pian concludes that the succession crisis of 1879–1882 stands as t
 ## Context
 
 - The article draws primarily on Thai archival sources held in Bangkok (R.5 series files of the Kalahom and the Foreign Affairs ministry) and on the published correspondence of Somdet Chao Phraya Borom Maha Sisuriyawong (Natwud Suthisongkhram, 1973), making the Siamese administrative perspective accessible to readers who cannot consult the Thai-language originals.
-- J.M. Gullick's appended commentary ("A Kedah Viewpoint") provides an important historiographical counterweight, arguing that Chulalongkorn's choices were constrained by local Malay political realities and the memory of the 1821–1842 period of Siamese direct rule, and that the King effectively followed the late sultan's own will regarding the order of succession among his sons.
+- [J.M. Gullick](./john-michael-gullick.md)'s appended commentary ("A Kedah Viewpoint") provides an important historiographical counterweight, arguing that Chulalongkorn's choices were constrained by local [Malay](./malay.md) political realities and the memory of the 1821–1842 period of Siamese direct rule, and that the King effectively followed the late sultan's own will regarding the order of succession among his sons.
 
 ## References
 <!-- Grounded occurrences and citations -->

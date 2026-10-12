@@ -25,7 +25,7 @@ publication_type: note
 
 # Indra and Saktimuna
 
-This short note by R. O. Winstedt, published in JMBRAS Vol. 23 (1950), addresses two topics: the etymological and mythological connections between the Malay legend of Saktimuna and the Rigvedic Indra, and a brief acknowledgment of Sir Roland Braddell's superior identifications of Takola and Langkasuka.
+This short note by [R. O. Winstedt](./richard-olaf-winstedt.md), published in [JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md) Vol. 23 (1950), addresses two topics: the etymological and mythological connections between the [Malay](./malay.md) legend of Saktimuna and the Rigvedic Indra, and a brief acknowledgment of Sir [Roland Braddell](./dato-sir-roland-st-john-braddell.md)'s superior identifications of Takola and [Langkasuka](./langkasuka.md).
 
 ## Summary
 

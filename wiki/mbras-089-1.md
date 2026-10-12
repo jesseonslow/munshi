@@ -28,7 +28,7 @@ contributors:
   name: H.S. Barlow
 - id: harding-a
   name: Harding A
-- id: j-kelly
+- id: john-kelly
   name: J. Kelly
 - id: jj-baptist
   name: J.J. Baptist
@@ -38,7 +38,7 @@ contributors:
   name: Li Nanlan
 - id: low-choo-chin
   name: Low Choo Chin
-- id: m-kaplan
+- id: martha-kaplan
   name: M. Kaplan
 - id: maznah-mohamed
   name: Maznah Mohamed
@@ -191,15 +191,15 @@ articles:
 
 # JMBRAS Vol. 89, Part 1 (June 2016)
 
-**Series:** Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society  
+**Series:** Journal of the Malayan/[Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** June 2016
 
 ## Table of Contents
 * [The customary tenure enactment and matrilineal land rights in Negeri Sembilan](./the-customary-tenure-enactment-and-matrilineal-land-rights-i.md) — [Maznah Mohamed](./maznah-mohamed.md) (pp. 15–33)
 * [Immigration control during the Emergency](./immigration-control-during-the-emergency.md) — [Low Choo Chin](./low-choo-chin.md) (pp. 35–59)
 * [Mount Kinabalu earthquake](./mount-kinabalu-earthquake.md) — [J.J. Baptist](./jj-baptist.md), [Cai Yunci](./cai-yunci.md) (pp. 61–78)
-* [Ethnographic notes on the state funeral of Lee Kuan Yew: introduction](./ethnographic-notes-on-the-state-funeral-of-lee-kuan-yew-intr.md) — [M. Kaplan](./m-kaplan.md), [J. Kelly](./j-kelly.md) (pp. 81–83)
-* [Nation and consecration: conversions of death into sacrifice in Singapore](./nation-and-consecration-conversions-of-death-into-sacrifice-.md) — [J. Kelly](./j-kelly.md) (pp. 84–105)
+* [Ethnographic notes on the state funeral of Lee Kuan Yew: introduction](./ethnographic-notes-on-the-state-funeral-of-lee-kuan-yew-intr.md) — [M. Kaplan](./martha-kaplan.md), [J. Kelly](./john-kelly.md) (pp. 81–83)
+* [Nation and consecration: conversions of death into sacrifice in Singapore](./nation-and-consecration-conversions-of-death-into-sacrifice-.md) — [J. Kelly](./john-kelly.md) (pp. 84–105)
 * [The well-prepared death of Lee Kuan Yew](./the-well-prepared-death-of-lee-kuan-yew.md) — [Li Nanlan](./li-nanlan.md) (pp. 107–113)
 * [Individual and state narratives of Lee Kuan Yew as ancestor and founding father](./individual-and-state-narratives-of-lee-kuan-yew-as-ancestor-.md) — [R. Hong Cheng Yee](./r-hong-cheng-yee.md) (pp. 115–121)
 * [Minority voices and dominant structures: the case of Amos Yee](./minority-voices-and-dominant-structures-the-case-of-amos-yee.md) — [R. Y. Chen](./r-y-chen.md) (pp. 123–135)
@@ -224,12 +224,12 @@ articles:
 * [H.E. Niemeijer](./he-niemeijer.md)
 * [H.S. Barlow](./henry-sackville-barlow.md)
 * [Harding A](./harding-a.md)
-* [J. Kelly](./j-kelly.md)
+* [J. Kelly](./john-kelly.md)
 * [J.J. Baptist](./jj-baptist.md)
 * [Lee Sang Kook](./lee-sang-kook.md)
 * [Li Nanlan](./li-nanlan.md)
 * [Low Choo Chin](./low-choo-chin.md)
-* [M. Kaplan](./m-kaplan.md)
+* [M. Kaplan](./martha-kaplan.md)
 * [Maznah Mohamed](./maznah-mohamed.md)
 * [N. Tarling](./nicholas-tarling.md)
 * [R. Hong Cheng Yee](./r-hong-cheng-yee.md)

@@ -18,7 +18,7 @@ published: false
 
 ## MBRAS Sources
 
-- [J.V. Mills](./jv-mills.md) (1932). [Three of Eredia’s illustrations](./three-of-eredias-illustrations.md). *JMBRAS* 10: 14–15
+- [J.V. Mills](./jv-mills.md) (1932). [Three of Eredia’s illustrations](./three-of-eredias-illustrations.md). *[JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* 10: 14–15
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -128,9 +128,10 @@ articles:
   pages: '159'
   is_review: true
 ---
+
 # JMBRAS Vol. 68, Part 2 (December 1995)
 
-**Series:** Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society  
+**Series:** Journal of the Malayan/[Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** December 1995
 
 ## Table of Contents

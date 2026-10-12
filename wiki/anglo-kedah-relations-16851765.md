@@ -26,11 +26,11 @@ jstor: https://www.jstor.org/stable/41561157
 
 # Anglo-Kedah relations 1685–1765
 
-A. J. Sturrock, a colonial administrator in Kelantan, published these linguistic notes in 1912 in the *Journal of the Straits Branch of the Royal Asiatic Society* (No. 62), offering a comparative survey of the Kelantan Malay dialect against those of Perak and Central Pahang. The article is a field-based phonological and lexical study that documents the distinctive features of Kelantan Malay, arguing that it is the least "pure" of the northern Malay dialects due to heavy Siamese and some Chinese influence.
+A. J. Sturrock, a colonial administrator in [Kelantan](./kelantan.md), published these linguistic notes in 1912 in the *[Journal of the Straits Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* (No. 62), offering a comparative survey of the Kelantan [Malay](./malay.md) [dialect](./dialects-and-dictionaries.md) against those of [Perak](./perak.md) and Central [Pahang](./pahang.md). The article is a field-based phonological and lexical study that documents the distinctive features of [Kelantan](./kelantan.md) Malay, arguing that it is the least "pure" of the northern [Malay](./malay.md) dialects due to heavy Siamese and some [Chinese](./chinese.md) influence.
 
 ## Summary
 
-Sturrock organises his observations around three axes of dialectal variation: vocabulary, pronunciation, and distinct usages of word and phrase. On vocabulary, he finds that Perak and Pahang are relatively close to each other, while Kelantan diverges sharply. The personal pronoun system is a key diagnostic: Kelantan uses *hamba* as the dominant colloquial first-person singular (where Perak uses *teman* and Pahang uses *kawan*), and employs *kita* as a polite second-person form unknown in the other two states. Sturrock provides an extensive, admittedly unsystematic list of Kelantan-specific lexical items—covering legal terminology, everyday objects, and body parts—many of which he identifies as Siamese borrowings (e.g., *jenaiah*, *utun*, *kweng*, *guam*, *wat*, *sam*, *semayan*).
+Sturrock organises his observations around three axes of dialectal variation: vocabulary, pronunciation, and distinct usages of word and phrase. On vocabulary, he finds that [Perak](./perak.md) and [Pahang](./pahang.md) are relatively close to each other, while Kelantan diverges sharply. The personal pronoun system is a key diagnostic: Kelantan uses *hamba* as the dominant colloquial first-person singular (where Perak uses *teman* and Pahang uses *kawan*), and employs *kita* as a polite second-person form unknown in the other two states. Sturrock provides an extensive, admittedly unsystematic list of Kelantan-specific lexical items—covering legal terminology, everyday objects, and body parts—many of which he identifies as Siamese borrowings (e.g., *jenaiah*, *utun*, *kweng*, *guam*, *wat*, *sam*, *semayan*).
 
 The pronunciation section is the article's most detailed component. Sturrock ranks Central Pahang as the most "normal" in its phonology, with only minor slurring of final consonants. Kelantan, by contrast, exhibits a suite of eccentric features: suppression of *n* before another consonant (*Kelatan* for *Kelantan*), suppression of *m* (*tēpoh* for *tēmpoh*), nasalisation of final *-an* to *-en* and *-ang* to *-eng*, and a characteristic diphthongisation of final *-a* to *-aw*. He also documents the softening of final *-ng* to *-m* (e.g., *blakam* for *blakang*) and the substitution of *-h* for *-s* in final position. A particularly illustrative example is the impossibility of distinguishing *Intan* from *Hitam* in Kelantan pronunciation, a problem Sturrock attributes to the combined effects of *n*-suppression and nasal final pronunciation.
 
@@ -39,7 +39,7 @@ The article closes with a discussion of clipped terminal affixes unique to Kelan
 ### Key Findings
 
 - Kelantan Malay contains a substantial layer of Siamese loanwords, particularly in legal and administrative vocabulary: *jenaiah* (criminal), *utun* (appeal), *kweng* (hulu), *guam* (case), *wat* (temple), *sam* (court-house), *semayan* (clerk) (pp. 2–3).
-- The Chinese negative *bo* is in common use in Kelantan, distinguishing it from Perak and Pahang (p. 3).
+- The [Chinese](./chinese.md) negative *bo* is in common use in Kelantan, distinguishing it from Perak and Pahang (p. 3).
 - Kelantan suppresses *n* before a following consonant (*jantan* → *jatan*, *bangku* → *baku*) and *m* in similar environments (*tēmpoh* → *tēpoh*, *tampar* → *tapar*), with compensatory over-insertion of these nasals in writing (p. 5).
 - Final *-a* in Kelantan is pronounced as *-aw* (e.g., *manaw* for *mana*, *apaw* for *apa*), and final *-ng* is regularly softened to *-m* (e.g., *blakam* for *blakang*, *tuam* for *tuan*) (pp. 5–6).
 - The terminal particle *-gak* is the most frequently used of Kelantan's clipped affixes, functioning as an intensive or attention-getter with little or no fixed semantic content (p. 6).
@@ -47,12 +47,12 @@ The article closes with a discussion of clipped terminal affixes unique to Kelan
 
 ### Conclusion
 
-Sturrock's definitive takeaway is that the Kelantan dialect is qualitatively distinct from its neighbours in the northern Malay peninsula, being the most heavily influenced by Siamese and the most phonologically divergent from the written standard. His underlying purpose is not to establish a new theory but to create a baseline record that will encourage other European residents in the region to contribute their own observations, thereby building toward a more complete and reliable description of northern Malay dialects.
+Sturrock's definitive takeaway is that the Kelantan [dialect](./dialects-and-dictionaries.md) is qualitatively distinct from its neighbours in the northern Malay peninsula, being the most heavily influenced by Siamese and the most phonologically divergent from the written standard. His underlying purpose is not to establish a new theory but to create a baseline record that will encourage other [European](./european.md) residents in the region to contribute their own observations, thereby building toward a more complete and reliable description of northern Malay dialects.
 
 ## Context
 
 - Sturrock was a British colonial officer stationed in Kelantan; his observations are drawn from direct immersion in the local speech community, including court proceedings, sports events, and everyday conversation.
-- The article draws on no archival collections; it is a purely field-linguistic report. Its historiographical contribution lies in being one of the earliest systematic comparative descriptions of Kelantan Malay by a European observer, predating most modern linguistic work on the state.
+- The article draws on no archival collections; it is a purely field-linguistic report. Its historiographical contribution lies in being one of the earliest systematic comparative descriptions of Kelantan Malay by a [European](./european.md) observer, predating most modern linguistic work on the state.
 
 ## References
 <!-- Grounded occurrences and citations -->

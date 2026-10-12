@@ -25,11 +25,11 @@ publication_type: note
 
 # An old Perak account of betrothal ceremonies
 
-This short note by R. O. Winstedt presents an old Perak account of the stages and customs surrounding betrothal ceremonies, from initial enquiries through to the wedding itself (p. 448).
+This short note by [R. O. Winstedt](./richard-olaf-winstedt.md) presents an old [Perak](./perak.md) account of the stages and customs surrounding betrothal ceremonies, from initial enquiries through to the wedding itself (p. 448).
 
 ## Summary
 
-The account details the full sequence of a Perak betrothal: private enquiries by the youth's relatives, ratification before the *Penghulu Masjid* or kampong elder, the sending of two *sireh* caskets containing gold "coconut-blossom" rings as betrothal tokens, and the associated ceremony at the girl's house with its exchanges of song, feast, and formal gifts (pp. 448–449). Winstedt also records the legal and social consequences of broken engagements—including fines, the return or retention of rings, and the penalty for abduction (*di-panjat*)—as well as the subsequent rituals leading to the wedding: the groom's visit to watch over his fiancée, the exchange of ablution gifts and cakes during Ramadan, and the threshing-season gathering (pp. 449–450).
+The account details the full sequence of a [Perak](./perak.md) betrothal: private enquiries by the youth's relatives, ratification before the *Penghulu Masjid* or kampong elder, the sending of two *sireh* caskets containing gold "[coconut](./coconut.md)-blossom" rings as betrothal tokens, and the associated ceremony at the girl's house with its exchanges of song, feast, and formal gifts (pp. 448–449). Winstedt also records the legal and social consequences of broken engagements—including fines, the return or retention of rings, and the penalty for abduction (*di-panjat*)—as well as the subsequent rituals leading to the wedding: the groom's visit to watch over his fiancée, the exchange of ablution gifts and cakes during Ramadan, and the threshing-season gathering (pp. 449–450).
 
 ## References
 <!-- Grounded occurrences and citations -->

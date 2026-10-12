@@ -25,7 +25,7 @@ publication_type: note
 
 # The birthday of Sir Stamford Raffles
 
-This short note by C. E. Wurtzburg, published in JMBRAS Vol. 20 (1947), argues that Sir Stamford Raffles's true birthday was 6 July, not the commonly cited 5 July, and offers a plausible explanation for the discrepancy.
+This short note by C. E. Wurtzburg, published in [JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md) Vol. 20 (1947), argues that [Sir Stamford Raffles](./stamford-raffles.md)'s true birthday was 6 July, not the commonly cited 5 July, and offers a plausible explanation for the discrepancy.
 
 ## Summary
 

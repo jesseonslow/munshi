@@ -23,13 +23,14 @@ source_path: ../sources/jsbras-002-irving-suggestionsregardingnew-1878-7a7b43856
 summarized: true
 jstor: https://www.jstor.org/stable/41561487
 ---
+
 # Suggestions regarding a new Malay dictionary
 
-**C.J. Irving's "Suggestions regarding a New Malay Dictionary" (1878) is a short note proposing methodological and structural recommendations for the compilation of a new Malay dictionary, published in the *Journal of the Straits Branch of the Royal Asiatic Society*, Vol. 2, pp. 199–204.**
+**[C.J. Irving](./cj-irving.md)'s "Suggestions regarding a New Malay Dictionary" (1878) is a short note proposing methodological and structural recommendations for the compilation of a new [Malay](./malay.md) [dictionary](./dialects-and-dictionaries.md), published in the *[Journal of the Straits Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)*, Vol. 2, pp. 199–204.**
 
 ## Summary
 
-Irving's note addresses the need for a revised Malay dictionary and offers practical suggestions for its construction. The piece is a concise contribution to the lexicographic discourse of the Straits Settlements in the late 1870s, reflecting the period's active engagement with Malay language documentation and standardisation.
+Irving's note addresses the need for a revised Malay dictionary and offers practical suggestions for its construction. The piece is a concise contribution to the lexicographic discourse of the [Straits Settlements](./straits-settlements.md) in the late 1870s, reflecting the period's active engagement with Malay language documentation and standardisation.
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -22,12 +22,12 @@ published: false
 
 ## About
 
-Shahril Talib’s history of Kelantan explores the political and administrative development of Kelantan between 1890 and 1940. His meticulous documentation of the changes affecting Kelantan, and his account of the transition from a Siamese vassal state to a British protectorate helps readers understand how Kelantan’s past contributes to its current situation as a state that does not fall in line with voting trends in other parts of the country.
+Shahril Talib’s history of Kelantan explores the political and administrative development of Kelantan between 1890 and 1940. His meticulous documentation of the changes affecting Kelantan, and his account of the transition from a Siamese vassal state to a British protectorate helps readers understand how [Kelantan](./kelantan.md)’s past contributes to its current situation as a state that does not fall in line with voting trends in other parts of the country.
 
 
 ## The Author
 
-Dato' Dr Shaharil Talib is one of Malaysia's leading historians. After completing his PhD in History at Monash University, he embarked on a long professional career at the University of Malaya which culminated in his appointment as Professor and Head of Department for Southeast Asian Studies. He was subsequently appointed as Executive Director of the university's Asia-Europe Institute during which he oversaw the development of innovative postgraduate courses in social sciences of international calibre. In 2005, Dato' Shaharil was appointed to head the Special Research Unit, then a newly-established outfit at the Attorney-General's Chambers. He has published in a broad range of subject areas, most notably in studies of Kelantan, the royal families of Southeast Asia and contemporary Southeast Asian historiography. His magnum opus *After Its Own Image: The Trengganu Experience 1881-1941* remains a masterly and unrivalled study of a Muslim feudal kingdom in the east coast of the Malay Peninsula caught up in the throes of modernity in the late 19th and early years of the 20th centuries. This formidable scholar was a Visiting Fulbright Researcher at Cornell University in 1983 and was also a Fellow at Kyoto University's world-renowned Centre for Southeast Asian Studies in 1990.
+Dato' Dr [Shaharil Talib](./shaharil-talib.md) is one of [Malaysia](./malaysia.md)'s leading historians. After completing his PhD in History at Monash University, he embarked on a long professional career at the University of [Malaya](./malaya.md) which culminated in his appointment as Professor and Head of Department for Southeast Asian Studies. He was subsequently appointed as Executive Director of the university's Asia-Europe Institute during which he oversaw the development of innovative postgraduate courses in social sciences of international calibre. In 2005, Dato' Shaharil was appointed to head the Special Research Unit, then a newly-established outfit at the Attorney-General's Chambers. He has published in a broad range of subject areas, most notably in studies of Kelantan, the royal families of [Southeast Asia](./southeast-asia.md) and contemporary Southeast Asian historiography. His magnum opus *After Its Own Image: The [Trengganu](./terengganu.md) Experience 1881-1941* remains a masterly and unrivalled study of a Muslim feudal kingdom in the east coast of the [Malay](./malay.md) Peninsula caught up in the throes of modernity in the late 19th and early years of the 20th centuries. This formidable scholar was a Visiting Fulbright Researcher at Cornell University in 1983 and was also a Fellow at Kyoto University's world-renowned Centre for Southeast Asian Studies in 1990.
 
 
 ## Contents
@@ -44,7 +44,7 @@ Dato' Dr Shaharil Talib is one of Malaysia's leading historians. After completin
 - Appendices A-L
 - Tables
 - Bibliography
-- Index
+- [Index](./index.md)
 
 ## Summary
 <!-- Synthesis engine: Insert chapter summaries or overview here -->

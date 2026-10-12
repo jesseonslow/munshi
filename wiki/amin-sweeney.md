@@ -24,7 +24,7 @@ type: person
 
 ## MBRAS Sources
 
-- [J. Van Der Putten](./j-van-der-putten.md) (2011). [Amin Sweeney. Obituary](./amin-sweeney-obituary.md). *JMBRAS* 84: 103–105
+- [J. Van Der Putten](./j-van-der-putten.md) (2011). [Amin Sweeney. Obituary](./amin-sweeney-obituary.md). *[JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* 84: 103–105
 
 ## Bibliography
 - (1967) [The connection between the Hikayat Raja2 Pasai and the Sejarah Melayu](./the-connection-between-the-hikayat-raja2-pasai-and-the-sejar.md). *JMBRAS* 40(2): 94–105

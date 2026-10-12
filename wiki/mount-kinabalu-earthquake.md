@@ -37,7 +37,7 @@ jstor: https://www.jstor.org/stable/10.2307/26527737
 
 ## Abstract
 
-On 5 June 2015, an earthquake of 6.0 magnitude rattled Malaysia’s Sabah state. The epicentre was near Mount Kinabalu, and shockwaves spread across a wide area. Serious rockfalls on the mountain, one of Southeast Asia’s highest peaks and a popular climbing spot, killed 18 climbers. A few days earlier, a group of Western male and female tourists had appeared on social media posing nude on the mountain. Local residents consider Mount Kinabalu sacred, and many of them believed the earthquake was caused by the actions of these tourists, who had angered the mountain’s guardian spirits. In this article we examine the Monolibabou and Tumabur rituals conducted by the Lotud people, a Dusunic ethnic group living in Tuaran District, to appease the guardians of Mount Kinabalu.
+On 5 June 2015, an earthquake of 6.0 magnitude rattled [Malaysia](./malaysia.md)’s [Sabah](./sabah.md) state. The epicentre was near Mount Kinabalu, and shockwaves spread across a wide area. Serious rockfalls on the mountain, one of [Southeast Asia](./southeast-asia.md)’s highest peaks and a popular climbing spot, killed 18 climbers. A few days earlier, a group of Western male and female tourists had appeared on social media posing nude on the mountain. Local residents consider Mount Kinabalu sacred, and many of them believed the earthquake was caused by the actions of these tourists, who had angered the mountain’s guardian [spirits](./spirits.md). In this article we examine the Monolibabou and Tumabur rituals conducted by the Lotud people, a Dusunic ethnic group living in Tuaran District, to appease the guardians of Mount Kinabalu.
 
 ## Summary
 
@@ -51,19 +51,19 @@ A secondary but important thread concerns the precarious state of Lotud ritual k
 
 - The 5 June 2015 earthquake (magnitude 6.0) killed 18 climbers and guides on Mount Kinabalu, the worst disaster on the peak in recorded history; 60 aftershocks were recorded in the weeks following (pp. 61–62, 74).
 - The Monolibabou consultation ritual was conducted on the evening of 13 June 2015 at Kampung Bantayan; twelve spirits possessed the two *libabou* during the session, and contact with the seven named guardians of Mount Kinabalu (Gunsangod, Singkarad, Rangkai, Liso, Rongko, Tanggung, and their leader Raja Gugur) was established shortly before midnight (pp. 66–71).
-- The Tumabur cleansing ritual was performed on 16 June 2015, lasting five hours, with nine *tantagas* and one *libabou* participating; it required no animal sacrifice, unlike the larger ceremonies prescribed for the Dusunic groups of Ranau District, who were told to sacrifice seven fowls and pigs (pp. 71–74).
-- Mudflows triggered in the mountain's foothills during the Tumabur ritual forced the evacuation of more than 1,000 people from Kampung Mesilau and Kampung Kiau; the ritual specialists interpreted these floods as the physical manifestation of impurities being flushed from the mountain to the sea (p. 74).
+- The Tumabur cleansing ritual was performed on 16 June 2015, lasting five hours, with nine *tantagas* and one *libabou* participating; it required no animal sacrifice, unlike the larger ceremonies prescribed for the Dusunic groups of Ranau District, who were told to sacrifice seven fowls and [pigs](./pigs.md) (pp. 71–74).
+- Mudflows triggered in the mountain's foothills during the Tumabur ritual forced the evacuation of more than 1,000 people from Kampung Mesilau and Kampung Kiau; the ritual specialists interpreted these [floods](./floods.md) as the physical manifestation of impurities being flushed from the mountain to the sea (p. 74).
 - The 2010 Malaysian census recorded only 5,962 individuals in Sabah (0.2 per cent of the state's population) identifying with traditional animistic religions, with 65.4 per cent Muslim and 26.6 per cent Christian (p. 76).
 - Additional cleansing ceremonies were conducted by a Dusunic group in Ranau on 27 June 2015 and by the Kadazandusun Cultural Association on 7 July 2015, followed by a dozen more by other Dusunic groups across Sabah (p. 75).
 
 ### Conclusion
 
-The authors conclude that the earthquake served a dual function: it reasserted the moral and spiritual obligation of Sabah's indigenous communities to treat Mount Kinabalu with respect, and it created an urgent documentation opportunity for Lotud ritual traditions that face near-certain extinction due to religious conversion, urbanisation, and the death of the last generation of trained *tantagas* and *libabou*. The article is explicitly offered as a descriptive record intended to preserve knowledge of a unique ritual tradition for the Lotud people and for wider scholarly use.
+The authors conclude that the earthquake served a dual function: it reasserted the moral and spiritual obligation of Sabah's indigenous communities to treat Mount Kinabalu with respect, and it created an urgent documentation opportunity for Lotud ritual [traditions](./traditions.md) that face near-certain extinction due to religious conversion, urbanisation, and the death of the last generation of trained *tantagas* and *libabou*. The article is explicitly offered as a descriptive record intended to preserve knowledge of a unique ritual tradition for the Lotud people and for wider scholarly use.
 
 ## Context
 
 - The study is based on participant observation and semi-structured interviews conducted by the authors in Kampung Bantayan in June and August 2015, supplemented by analysis of contemporary Malaysian and Singaporean press coverage; co-author Judith John Baptist brings thirty-five years of ethnographic work with the Lotud, including prior documentation of *rinait* texts (p. 64, footnote 8).
-- The article contributes to the ethnographic literature on Dusunic ritual practice by documenting a previously unrecorded application of the Tumabur ritual to a non-agricultural, non-epidemic calamity, and by capturing the inter-ethnic negotiation of ritual responsibility between the Lotud of Tuaran and the Kadazandusun of Ranau.
+- The article contributes to the ethnographic [literature](./literature.md) on Dusunic ritual practice by documenting a previously unrecorded application of the Tumabur ritual to a non-agricultural, non-epidemic calamity, and by capturing the inter-ethnic negotiation of ritual responsibility between the Lotud of Tuaran and the Kadazandusun of Ranau.
 
 ## References
 <!-- Grounded occurrences and citations -->

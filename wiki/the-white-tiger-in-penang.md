@@ -25,11 +25,11 @@ publication_type: note
 
 # The “white tiger” in Penang
 
-Katharine Sim's 1950 ethnographic note documents the cult of the White Tiger (Bai Hu) in Chinese temples across Penang, drawing on direct observation of a ritual service and informant testimony to describe a popular but physically marginalised deity whose worship peaked during the Japanese occupation.
+Katharine Sim's 1950 ethnographic note documents the cult of the [White Tiger](./white-tiger.md) (Bai Hu) in [Chinese](./chinese.md) [temples](./temples.md) across [Penang](./penang.md), drawing on direct observation of a ritual service and informant testimony to describe a popular but physically marginalised deity whose worship peaked during the Japanese occupation.
 
 ## Summary
 
-Sim's article is a compact piece of field observation rather than a systematic study. She begins by situating the White Tiger within the cosmological framework of the four divine creatures of the cardinal directions, then immediately notes the paradox of his status: despite being present in almost every Chinese temple on the island, his effigy is invariably tucked into a dark corner, a cave-like hollow, or behind the sacrificial tables of more prominent deities. The article's central interest is the gap between the Tiger's widespread popularity and his physical obscurity within temple architecture.
+Sim's article is a compact piece of field observation rather than a systematic study. She begins by situating the White Tiger within the cosmological framework of the four divine creatures of the cardinal directions, then immediately notes the paradox of his status: despite being present in almost every Chinese temple on the island, his effigy is invariably tucked into a dark corner, a cave-like hollow, or behind the sacrificial tables of more prominent deities. The article's central interest is the gap between the Tiger's widespread popularity and his physical obscurity within temple [architecture](./architecture.md).
 
 The bulk of the piece is devoted to a first-person account of a ritual Sim witnessed at the Kwan Yin temple in Pitt Street on the sixteenth day of the moon, half an hour after sunset. She describes the priest's actions in detail—the smearing of the Tiger's mouth with fat pork, the waving of a yellow "Auspicious Document that Exorcises all Evils" over candle flames, the grinding of miniature boots (representing an enemy rival's personal property) with a devotee's sandal, and the spitting on a white shirt belonging to a sick person or an unfaithful husband. The scarlet paper figures are for the man to be assisted; the white ones, for the man to be cursed. Sim's informant for the ritual details was Mr C. S. Wong.
 
@@ -46,12 +46,12 @@ The article closes with a brief description of the White Tiger at the Immortal C
 
 ### Conclusion
 
-Sim's definitive takeaway is that the White Tiger occupies a unique position in Penang's Chinese religious landscape: a deity of considerable practical appeal—invoked against sickness, danger, imprisonment, and infidelity—whose physical placement in temple architecture belies his popularity, and whose ritual practice, as she witnessed it, blends exorcism, sympathetic magic, and what she characterises as an "air of witch-craft."
+Sim's definitive takeaway is that the White Tiger occupies a unique position in Penang's Chinese religious landscape: a deity of considerable practical appeal—invoked against sickness, danger, imprisonment, and infidelity—whose physical placement in temple architecture belies his popularity, and whose ritual practice, as she witnessed it, blends [exorcism](./exorcism.md), sympathetic [magic](./magic.md), and what she characterises as an "air of witch-craft."
 
 ## Context
 
 - Sim was a British colonial-era observer writing in the immediate post-war period; her tone is that of a curious outsider recording a "performance" she had "never seen before," and she notes the men in the party were "rather obviously disbelieving the whole business" (p. 143).
-- The article draws on a single direct observation supplemented by one named informant (Mr C. S. Wong) and represents the kind of short ethnographic note typical of JMBRAS in this period, contributing to the early documentation of Chinese folk religion in the Straits Settlements.
+- The article draws on a single direct observation supplemented by one named informant (Mr C. S. Wong) and represents the kind of short ethnographic note typical of [JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md) in this period, contributing to the early documentation of Chinese folk [religion](./religion.md) in the [Straits Settlements](./straits-settlements.md).
 
 ## References
 <!-- Grounded occurrences and citations -->

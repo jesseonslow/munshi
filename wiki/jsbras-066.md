@@ -27,7 +27,7 @@ articles:
 
 # JSBRAS No. 66 (January 1914)
 
-**Series:** Journal of the Straits Branch of the Royal Asiatic Society  
+**Series:** [Journal of the Straits Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** January 1914
 
 ## Table of Contents

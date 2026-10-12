@@ -32,11 +32,11 @@ jstor: https://www.jstor.org/stable/41560540
 
 # A Malayan element in some of the languages of southern Indo-China
 
-This is a corrigendum issued by C. O. Blagden in 1903, listing typographical and substantive corrections to his 1902 paper "A Malayan Element in some of the Languages of Southern Indo-China" (JSBRAS Vol. 38, pp. 1–17).
+This is a corrigendum issued by [C. O. Blagden](./charles-otto-blagden.md) in 1903, listing typographical and substantive corrections to his 1902 paper "A Malayan Element in some of the [Languages](./languages.md) of Southern [Indo-China](./indo-[china](./china.md).md)" ([JSBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md) Vol. 38, pp. 1–17).
 
 ## Summary
 
-The document comprises a single page of errata covering approximately thirty corrections across the original paper. The corrections include spelling fixes (e.g., "Khmet" for "Khmer," "sembilon" for "sembilan," "leureux" for "heureux"), a substantive linguistic correction ("Papuan" for "Melanesian" on p. 22), and various punctuation and formatting adjustments. The most significant correction is the replacement of "Papuan" with "Melanesian," which affects the paper's classification of a language group (p. 22).
+The document comprises a single page of errata covering approximately thirty corrections across the original paper. The corrections include spelling fixes (e.g., "Khmet" for "Khmer," "sembilon" for "sembilan," "leureux" for "heureux"), a substantive linguistic correction ("Papuan" for "Melanesian" on p. 22), and [various](./various.md) punctuation and formatting adjustments. The most significant correction is the replacement of "Papuan" with "Melanesian," which affects the paper's classification of a language group (p. 22).
 
 ## References
 <!-- Grounded occurrences and citations -->

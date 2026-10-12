@@ -25,11 +25,11 @@ publication_type: note
 
 # A new Dendrobium, D. gracilipes, from the Rhio Archipelago
 
-This is a brief taxonomic note by I. H. Burkill describing a new orchid species, *Dendrobium gracilipes*, collected in the Rhio Archipelago and cultivated in Singapore.
+This is a brief taxonomic note by I. H. [Burkill](./burkill.md) describing a new orchid species, *Dendrobium gracilipes*, collected in the Rhio Archipelago and cultivated in [Singapore](./singapore.md).
 
 ## Summary
 
-Burkill describes *D. gracilipes* as a slender, graceful orchid closely allied to *D. longipes* and *D. macropodium*, but distinguished by its more delicate habit, narrower petals, and straighter lateral lobes of the labellum (p. 46). The labellum's lateral lobes fold upward to form a rectangular tunnel for pollinating insects, while the mid lobe features a bright yellow centre contrasting with purple and reddish-brown markings; the remainder of the flower is ivory white. Burkill notes that the flower superficially suggests a *Coelogyne* (p. 46).
+Burkill describes *D. gracilipes* as a slender, graceful orchid closely allied to *D. longipes* and *D. macropodium*, but distinguished by its more delicate habit, narrower petals, and straighter lateral lobes of the labellum (p. 46). The labellum's lateral lobes fold upward to form a rectangular tunnel for pollinating insects, while the mid lobe features a bright yellow centre contrasting with purple and reddish-brown markings; the remainder of the flower is ivory white. [Burkill](./burkill.md) notes that the flower superficially suggests a *Coelogyne* (p. 46).
 
 ## References
 <!-- Grounded occurrences and citations -->

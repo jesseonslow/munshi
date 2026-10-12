@@ -105,9 +105,10 @@ articles:
   pages: 136–138
   is_review: true
 ---
+
 # JMBRAS Vol. 64, Part 1 (June 1991)
 
-**Series:** Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society  
+**Series:** Journal of the Malayan/[Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** June 1991
 
 ## Table of Contents

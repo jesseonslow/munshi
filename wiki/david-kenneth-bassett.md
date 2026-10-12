@@ -18,7 +18,7 @@ published: false
 
 ## MBRAS Sources
 
-- Bastin, J. Obituary. MB 62(2)
+- [Bastin, J.](./john-bastin.md) Obituary. MB 62(2)
 
 ## References
 <!-- Grounded occurrences and citations -->

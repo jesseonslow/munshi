@@ -75,7 +75,7 @@ articles:
 
 # JMBRAS Vol. 45, Part 2 (April 1973)
 
-**Series:** Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society  
+**Series:** Journal of the Malayan/[Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** April 1973
 
 ## Table of Contents

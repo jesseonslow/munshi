@@ -1,12 +1,18 @@
-{% extends "base.jinja2" %}
+{% extends "synthesis_layout.jinja2" %}
 
-{% block category_instructions %}
-# SYNTHESIS INSTRUCTIONS: GROUP / ETHNOGRAPHIC COMMUNITY
-1. Synthesize the social, geographic, and economic footprint of this community across the Malay Archipelago based on the excerpts[cite: 1].
-2. Synthesize using the following section structure:
-   - `## Geographic Distribution & Settlement Patterns`
-   - `## Economic Roles, Livelihoods & Material Culture`
-   - `## Political Dynamics, Leadership & Legal Customs`
-3. Do NOT treat the community as a single individual or flat biographical entity.
-4. When 19th-century colonial writers use archaic, pejorative, or imprecise ethnic terminology, contextualize the historical usage alongside attested practices without endorsing colonial tropes.
+{% block category_task %}
+Write an authoritative encyclopedia article on the community: **{{ topic_name }}**.
+{% endblock %}
+
+{% block category_architecture %}
+1. THE ORIENTING LEDE (NO SUBHEADING):
+   - 1 concise paragraph defining the community, geographic distribution, language family, and economic or cultural footprint.
+2. SOCIAL & CULTURAL BODY:
+   - Organize into 2 to 4 '{{ body_heading_prefix }}' subheadings (e.g., `{{ body_heading_prefix }} Geographic Distribution & Settlement Patterns`, `{{ body_heading_prefix }} Material Culture & Economic Livelihoods`, `{{ body_heading_prefix }} Customary Law & Leadership`).
+   {% if subtopics %}
+   - Key facets to address: {{ subtopics | join(", ") }}.
+   {% endif %}
+   - Contextualize historical terminology without endorsing colonial tropes.
+3. ETHNOGRAPHIC & LINGUISTIC RECORD:
+   - Conclude with `{{ body_heading_prefix }} Research and Documentation` surveying recorded folklore, wordlists, and early anthropological accounts in the literature.
 {% endblock %}

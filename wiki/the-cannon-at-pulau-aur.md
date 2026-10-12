@@ -27,13 +27,13 @@ jstor: https://www.jstor.org/stable/41559487
 
 # The cannon at Pulau Aur
 
-This document comprises two short notes published in JMBRAS Vol. 23, No. 1 (1950), pp. 139–142: "The origin of 'Batu Gajah'" by H.A.L. Luckham and "The Cannon on Pulau Aur" by C.A. Gibson-Hill.
+This document comprises two short notes published in [JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md) Vol. 23, No. 1 (1950), pp. 139–142: "The origin of 'Batu Gajah'" by [H.A.L. Luckham](./hal-luckham.md) and "The [Cannon](./cannon.md) on Pulau Aur" by [C.A. Gibson-Hill](./carl-alexander-gibson-hill.md).
 
 ## Summary
 
-Luckham's note records two local folk etymologies for the name Batu Gajah, collected from 'Che Mohd Najimi, Acting Penghulu at Sungei Trap, while Luckham served as District Officer Kinta (p. 139). The first attributes the name to Sumatran Buddhist tin-traders who carved two stone elephants (an adult and a calf) as a river landmark and worship centre; the second tells of a supernatural being called "Sang Kelembai" that petrified a wild elephant and its calf as they crossed the Kinta River, the stones of which were still visible at Kampong Pisang at the time of writing (p. 139).
+Luckham's note records two local folk etymologies for the name Batu Gajah, collected from 'Che Mohd Najimi, Acting Penghulu at Sungei Trap, while Luckham served as District Officer Kinta (p. 139). The first attributes the name to Sumatran Buddhist tin-traders who carved two stone [elephants](./elephants.md) (an adult and a calf) as a river landmark and worship centre; the second tells of a supernatural being called "Sang Kelembai" that petrified a wild elephant and its calf as they crossed the Kinta River, the stones of which were still visible at Kampong Pisang at the time of writing (p. 139).
 
-Gibson-Hill's note on the cannon at Pulau Aur begins by situating the island approximately 15 miles east of Mersing in the Johore Archipelago, formerly part of Pahang, and notes its visit by Government Surveyor J.T. Thomson in July 1849 during a survey of the east coast (p. 139). The text is truncated at this point.
+Gibson-Hill's note on the cannon at Pulau Aur begins by situating the island approximately 15 miles east of Mersing in the [Johore](./johor.md) Archipelago, formerly part of [Pahang](./pahang.md), and notes its visit by Government Surveyor [J.T. Thomson](./jt-thomson.md) in July 1849 during a survey of the east coast (p. 139). The text is truncated at this point.
 
 ## References
 <!-- Grounded occurrences and citations -->

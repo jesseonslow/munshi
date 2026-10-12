@@ -29,14 +29,14 @@ articles:
   slug: list-of-graveyards-of-the-late-sultans-of-perak
   title: List of graveyards of the late Sultans of Perak
   authors:
-  - Anon (and unidentifiable initials)
+  - Anon
   pages: 97–106
   is_review: false
 ---
 
 # JSBRAS No. 48 (June 1907)
 
-**Series:** Journal of the Straits Branch of the Royal Asiatic Society  
+**Series:** [Journal of the Straits Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** June 1907
 
 ## Table of Contents

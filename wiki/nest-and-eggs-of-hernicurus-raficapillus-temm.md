@@ -30,7 +30,7 @@ This is a brief note by H. J. Kelsall describing the discovery of eggs at the en
 
 ## Summary
 
-The note records that no proper nest was found; the eggs were simply laid at the end of a tunnel no more than 6–8 inches below ground and nearly horizontal. Two eggs were measured at 1.25 × 1.15 inches and 1.22 × 1.10 inches respectively. The eggs were deposited in the Singapore Museum (p. 170).
+The note records that no proper nest was found; the eggs were simply laid at the end of a tunnel no more than 6–8 inches below ground and nearly horizontal. Two eggs were measured at 1.25 × 1.15 inches and 1.22 × 1.10 inches respectively. The eggs were deposited in the [Singapore](./singapore.md) Museum (p. 170).
 
 ## References
 <!-- Grounded occurrences and citations -->

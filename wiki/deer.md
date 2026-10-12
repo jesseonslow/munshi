@@ -20,7 +20,7 @@ published: false
 
 ## MBRAS Sources
 
-- [F.N. Chasen](./fn-chasen.md) (1925). [On some colour patterns of the young Malay rusa (Cervus unicolor equinus). Records of the Raffles Museum, No. 9](./on-some-colour-patterns-of-the-young-malay-rusa-cervus-unico.md). *JMBRAS* 3: 89–91
+- [F.N. Chasen](./fn-chasen.md) (1925). [On some colour patterns of the young Malay rusa (Cervus unicolor equinus). Records of the Raffles Museum, No. 9](./on-some-colour-patterns-of-the-young-malay-rusa-cervus-unico.md). *[JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* 3: 89–91
 
 ## References
 <!-- Grounded occurrences and citations -->

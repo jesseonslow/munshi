@@ -26,7 +26,7 @@ jstor: https://www.jstor.org/stable/41561318
 
 # New Chalcid parasites from Malaya
 
-This is a short taxonomic note by A.A. Girault describing new Chalcid parasites from Malaya, based on specimens collected by C.F. Baker, with types deposited in the Raffles Museum, Singapore (p. 165).
+This is a short taxonomic note by [A.A. Girault](./aa-girault.md) describing new Chalcid parasites from Malaya, based on specimens collected by [C.F. Baker](./cf-baker.md), with types deposited in the [Raffles](./stamford-raffles.md) Museum, [Singapore](./singapore.md) (p. 165).
 
 ## Summary
 

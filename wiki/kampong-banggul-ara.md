@@ -20,7 +20,7 @@ published: false
 
 ## MBRAS Sources
 
-- [R.O. Noone](./ro-noone.md) (1948). [Notes on the kampong, compounds, and houses of the Patani Malay village of Banggul Ara, in the Mukim of Batu Kurau, Northern Perak](./notes-on-the-kampong-compounds-and-houses-of-the-patani-mala.md). *JMBRAS* 21: 124–147
+- [R.O. Noone](./ro-noone.md) (1948). [Notes on the kampong, compounds, and houses of the Patani Malay village of Banggul Ara, in the Mukim of Batu Kurau, Northern Perak](./notes-on-the-kampong-compounds-and-houses-of-the-patani-mala.md). *[JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* 21: 124–147
 
 ## References
 <!-- Grounded occurrences and citations -->

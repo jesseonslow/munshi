@@ -19,7 +19,7 @@ published: false
 
 ## MBRAS Sources
 
-- Casparis, J.G. de. Tombstone at Pangkalan Kempas. MB 53(1)
+- [Casparis, J.G. de](./jg-de-casparis.md). Tombstone at Pangkalan Kempas. MB 53(1)
 
 ## References
 <!-- Grounded occurrences and citations -->

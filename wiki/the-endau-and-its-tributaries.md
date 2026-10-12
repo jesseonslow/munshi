@@ -18,7 +18,6 @@ amendments: []
 status: stub
 published: false
 summarized: true
-source_mismatch: true
 source_doc: jsbras-008-hervey-ndautributaries-1881-db65358dedf4
 source_path: ../sources/jsbras-008-hervey-ndautributaries-1881-db65358dedf4.md
 publication_type: journal_article

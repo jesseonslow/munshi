@@ -26,9 +26,9 @@ published: false
 - Introduction
 - Biographical note on authors
 - G. Coedès, The Kingdom of Sriwijaya
-- G. Coedès, The Malay inscription of Sriwijaya
+- G. Coedès, The [Malay](./malay.md) inscription of Sriwijaya
 - G. Coedès, A new theory about the site of Sriwijaya
-- G. Coedès, The Ligor stone: the current state of its interpretation
+- [G. Coedès](./g-coedès.md), The Ligor stone: the current state of its interpretation
 - L.-Ch. Damais, Language B of the Sriwijaya inscription
 - Notes
 - Bibliographic References

@@ -31,7 +31,7 @@ articles:
 
 # JMBRAS Vol. 27, Part 3 (July 1954)
 
-**Series:** Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society  
+**Series:** Journal of the Malayan/[Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** July 1954
 
 ## Table of Contents

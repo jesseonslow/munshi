@@ -25,7 +25,7 @@ publication_type: note
 
 # A Malay lullaby
 
-This is a brief occasional note by M. L. presenting a Malay lullaby ("Lagu Buai") collected from Naning and the Negri Sembilan, published in JSBRAS Vol. 25 (1894).
+This is a brief occasional note by M. L. presenting a [Malay](./malay.md) lullaby ("Lagu Buai") collected from Naning and the [Negri Sembilan](./negeri-sembilan.md), published in [JSBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md) Vol. 25 (1894).
 
 ## Summary
 

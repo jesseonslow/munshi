@@ -25,7 +25,7 @@ published: false
 
 ## MBRAS Sources
 
-- Stirling, W.G. Contraband. SB 83
+- [Stirling, W.G](./william-george-stirling.md). Contraband. SB 83
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -19,7 +19,7 @@ published: false
 
 ## Bibliography
 
-- (1981) [The “Che Wong” revisited. maps](./the-che-wong-revisited-maps.md). *JMBRAS* 54(3): 57–69
+- (1981) [The “Che Wong” revisited. maps](./the-che-wong-revisited-maps.md). *[JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* 54(3): 57–69
 - (1982) [Chewong Myths and Legends](./chewong-myths-and-legends.md). *Monograph* 11: 136
 
 ## References

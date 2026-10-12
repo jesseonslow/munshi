@@ -25,11 +25,11 @@ publication_type: journal_article
 
 # The development and direction of female education in peninsular Malaysia
 
-This is the front matter of *Journal of the Malaysian Branch of the Royal Asiatic Society*, Volume 51, Part 2 (No. 234), published in December 1978, edited by Tan Sri Mubin Sheppard.
+This is the front matter of *[Journal of the Malaysian Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)*, Volume 51, Part 2 (No. 234), published in December 1978, edited by Tan Sri [Mubin Sheppard](./mubin-sheppard.md).
 
 ## Summary
 
-The document comprises the council listing for 1978, the title page, and the table of contents for the issue. The council was chaired by Tun Mohamed Suffian bin Hashim, with Tan Sri Datuk Mubin Sheppard serving as Hon. Secretary and Encik John Davies as Hon. Treasurer (p. 3). The issue contains five contributions: an article on the first Anglo-Burmese War by Dr. G. P. Ramachandra (pp. 1–57), botanical additions by Benjamin C. Stone (pp. 58–68), the Manderson article on female education in peninsular Malaysia (pp. 100–122), two book reviews, and biographical notes (p. 6).
+The document comprises the council listing for 1978, the title page, and the table of contents for the issue. The council was chaired by [Tun Mohamed Suffian bin Hashim](./mohamed-suffian-bin-hashim.md), with Tan Sri Datuk Mubin Sheppard serving as Hon. Secretary and Encik John Davies as Hon. Treasurer (p. 3). The issue contains five contributions: an article on the first [Anglo-Burmese War](./anglo-burmese-war.md) by Dr. G. P. Ramachandra (pp. 1–57), botanical additions by Benjamin C. Stone (pp. 58–68), the Manderson article on female [education](./education.md) in peninsular [Malaysia](./malaysia.md) (pp. 100–122), two book reviews, and biographical notes (p. 6).
 
 ## References
 <!-- Grounded occurrences and citations -->

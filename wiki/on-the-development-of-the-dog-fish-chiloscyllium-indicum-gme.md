@@ -28,7 +28,7 @@ jstor: https://www.jstor.org/stable/41559649
 
 # On the development of the dog-fish Chiloscyllium indicum (Gmel.). Records of the Raffles Museum, No. 31
 
-This short note by N. Smedley documents the developmental stages of the dog-fish *Chiloscyllium indicum* (Gmel.) based on egg-cases recovered from a cable.
+This short note by [N. Smedley](./n-smedley.md) documents the developmental stages of the dog-[fish](./fish.md) *Chiloscyllium indicum* (Gmel.) based on egg-cases recovered from a cable.
 
 ## Summary
 

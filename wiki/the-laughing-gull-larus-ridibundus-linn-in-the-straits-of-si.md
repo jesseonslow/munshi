@@ -19,12 +19,7 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
-summarized: false
-source_mismatch: true
 publication_type: note
 ---
-
 # The laughing gull (Larus ridibundus, Linn.) in the Straits of Singapore. Records of the Raffles Museum, No. 15
 
-## References
-<!-- Grounded occurrences and citations -->

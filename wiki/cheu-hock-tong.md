@@ -18,7 +18,7 @@ published: false
 ## Bibliography
 
 - (1998) [The sinicization of Malay keramats in Malaysia](./the-sinicization-of-malay-keramats-in-malaysia.md). *JMBRAS* 71(2): 49–64
-- (1999) [The romance of Tok Janggut: a Kelantan folk hero](./the-romance-of-tok-janggut-a-kelantan-folk-hero.md). *JMBRAS* 72(2): 49–64
+- (1999) [The romance of Tok Janggut: a Kelantan folk hero](./the-romance-of-tok-janggut-a-kelantan-folk-hero.md). *[JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* 72(2): 49–64
 
 ## References
 <!-- Grounded occurrences and citations -->

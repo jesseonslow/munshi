@@ -26,11 +26,11 @@ jstor: https://www.jstor.org/stable/41560695
 
 # Malay transliteration
 
-This is a brief memorandum by W. E. Maxwell, a member of the Government Spelling Committee (1878), defending the 1873 Committee's Malay transliteration system against a critic's alternative proposal published in the preceding issue of the Journal (p. 282).
+This is a brief memorandum by [W. E. Maxwell](./sir-william-edward-maxwell.md), a member of the Government Spelling Committee (1878), defending the 1873 Committee's Malay transliteration system against a critic's alternative proposal published in the preceding issue of the Journal (p. 282).
 
 ## Summary
 
-Maxwell identifies two points of substantive disagreement between the Committee's system and the critic's: first, whether the goal is to represent sounds or to faithfully transliterate the Malay character while remaining pronounceable by English readers; and second, how to handle the open semi-vowel sound (fathah), for which the Committee recommended the letter *e* (as in "lateral") while the critic proposed *a* or unmarked *e* (p. 282–283). Maxwell argues the Committee's system more closely follows the principles of Sir W. Jones's 1784 transliteration scheme, particularly in using "a specific symbol for every sound" and diacritical marks, and warns against contributors adopting the critic's "ingenious but too fantastic suggestions" (p. 284).
+Maxwell identifies two points of substantive disagreement between the Committee's system and the critic's: first, whether the goal is to represent sounds or to faithfully transliterate the [Malay](./malay.md) character while remaining pronounceable by English readers; and second, how to handle the open semi-vowel sound (fathah), for which the Committee recommended the letter *e* (as in "lateral") while the critic proposed *a* or unmarked *e* (p. 282–283). Maxwell argues the Committee's system more closely follows the principles of Sir W. Jones's 1784 transliteration scheme, particularly in using "a specific symbol for every sound" and diacritical marks, and warns against contributors adopting the critic's "ingenious but too fantastic suggestions" (p. 284).
 
 The critic responds in footnotes, rejecting the premise that uniformity alone justifies a spelling system and arguing that the Government system has not in practice achieved the uniformity it claims, as evidenced by inconsistent usage in official publications (p. 284).
 

@@ -28,7 +28,7 @@ published: false
 - Abstract
 - Foreword
 - Introduction
-  1. Chapter 1: An Early History of the Chinese in Penang (1786 – 1881)
+  1. Chapter 1: An Early History of the [Chinese](./chinese.md) in [Penang](./penang.md) (1786 – 1881)
   1. Chapter 2: Events Leading-up to the Founding of the Po Leung Kuk (PLK) and its Early Years as a Half Way House (1877 – 1925)
   1. Chapter 3: The Babington Avenue Home Before WWII (1926 – 1945)
   1. Chapter 4: The Immediate Postwar Period and the PLK in Local Hands (1945 – 1969)
@@ -37,7 +37,7 @@ published: false
 - Bibliography
 - Appendices
 - Tables
-- Index
+- [Index](./index.md)
 
 ## Summary
 <!-- Synthesis engine: Insert chapter summaries or overview here -->

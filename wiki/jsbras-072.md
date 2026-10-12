@@ -45,7 +45,7 @@ articles:
 
 # JSBRAS No. 72 (May 1916)
 
-**Series:** Journal of the Straits Branch of the Royal Asiatic Society  
+**Series:** [Journal of the Straits Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** May 1916
 
 ## Table of Contents

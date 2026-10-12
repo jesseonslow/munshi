@@ -18,7 +18,6 @@ amendments: []
 status: stub
 published: false
 summarized: true
-source_mismatch: true
 source_doc: jmalayanras-087-dunn-collectionreptilessarawak-1923-c4951e472d34
 source_path: ../sources/jmalayanras-087-dunn-collectionreptilessarawak-1923-c4951e472d34.md
 publication_type: note
@@ -27,15 +26,15 @@ jstor: https://www.jstor.org/stable/41559532
 
 # On a collection of reptiles from Sarawak
 
-Emmett R. Dunn published this brief taxonomic note in 1923, reporting on a reptile collection assembled by J. C. Moulton and Harrison W. Smith in the upper Baram River region of north-western Sarawak during September to November 1920. The paper documents 57 lizard specimens (13 species) and 53 snake specimens (24 species), and formally describes three new snake species from the collection. It stands as one of the earliest faunal surveys of the Baram basin, a region then still largely unexplored by Western naturalists.
+Emmett R. Dunn published this brief taxonomic note in 1923, reporting on a reptile collection assembled by [J. C. Moulton](./john-coney-moulton.md) and [Harrison](./brian-harrison.md) W. Smith in the upper Baram River region of north-western [Sarawak](./sarawak.md) during September to November 1920. The paper documents 57 lizard specimens (13 species) and 53 snake specimens (24 species), and formally describes three new snake species from the collection. It stands as one of the earliest faunal [surveys](./surveys.md) of the Baram basin, a region then still largely unexplored by Western naturalists.
 
 ## Summary
 
-The collection was made in the upper waters of the Baram River, a remote area of north-western Sarawak that at the time had received little systematic zoological attention. Dunn's notes are organized into two sections: Lacertilia and Ophidia. The lizard assemblage, comprising 57 specimens across 13 species, represents roughly one-seventh of the total lizard species then recorded for Borneo (p. 2). Among the lizards, Dunn highlights the occurrence of *Gehyra beebei*, a gecko previously known from a single specimen collected at Kapit in 1910, now represented by four individuals from Long Akar and Long Sap (p. 2). Two agamid species—*Draco cristatellus* and *D. formosus*—are noted as rarities for the region (p. 2).
+The collection was made in the upper waters of the Baram River, a remote area of north-western Sarawak that at the time had received little systematic zoological attention. Dunn's notes are organized into two sections: Lacertilia and Ophidia. The lizard assemblage, comprising 57 specimens across 13 species, represents roughly one-seventh of the total lizard species then recorded for [Borneo](./borneo.md) (p. 2). Among the [lizards](./lizards.md), Dunn highlights the occurrence of *Gehyra beebei*, a gecko previously known from a single specimen collected at Kapit in 1910, now represented by four individuals from Long Akar and Long Sap (p. 2). Two agamid species—*Draco cristatellus* and *D. formosus*—are noted as rarities for the region (p. 2).
 
-The snake section proved more significant. Of 53 specimens representing 24 species, all belong to the Colubridae; 23 fall into the harmless subfamilies Colubrinae (18 species) and Dipsadomorphinae (5 species), and only one specimen is venomous, *Doliophis bivirgatus* (p. 3). Moulton's field note records that a fine Hamadryad measuring 9 feet was taken at Lio Matu but not sent for identification, and that only two poisonous snakes were captured out of a total of 54, which he interprets as evidence of the general harmlessness of Bornean snakes (p. 3). Two rare colubrine species are highlighted: *Natrix flavifrons*, previously known only from Mount Kinabalu and Mt. Penrissen, and *Calamaria lowi*, apparently confined to this part of Sarawak (p. 3).
+The snake section proved more significant. Of 53 specimens representing 24 species, all belong to the Colubridae; 23 fall into the harmless subfamilies Colubrinae (18 species) and Dipsadomorphinae (5 species), and only one specimen is venomous, *Doliophis bivirgatus* (p. 3). Moulton's field note records that a fine Hamadryad measuring 9 feet was taken at Lio Matu but not sent for identification, and that only two poisonous snakes were captured out of a total of 54, which he interprets as evidence of the general harmlessness of Bornean [snakes](./snakes.md) (p. 3). Two rare colubrine species are highlighted: *Natrix flavifrons*, previously known only from Mount Kinabalu and Mt. Penrissen, and *Calamaria lowi*, apparently confined to this part of Sarawak (p. 3).
 
-The three new species—*Natrix frenata* sp. n., *Calamaria moultoni* sp. n., and *Calamaria smithi* sp. n.—are each represented by a single specimen, which were transferred to the British Museum at the request of the Director of the Raffles Museum, Singapore (p. 3). Dunn provides full morphometric and scalation data for each, discussing their affinities to known congeners (pp. 3–5).
+The three new species—*Natrix frenata* sp. n., *Calamaria moultoni* sp. n., and *Calamaria smithi* sp. n.—are each represented by a single specimen, which were transferred to the British Museum at the request of the Director of the [Raffles](./stamford-raffles.md) Museum, [Singapore](./singapore.md) (p. 3). Dunn provides full morphometric and scalation data for each, discussing their affinities to known congeners (pp. 3–5).
 
 ### Key Findings
 
@@ -53,7 +52,7 @@ Dunn's paper establishes the upper Baram River as a zone of notable herpetofauna
 ## Context
 
 - The Moulton–Smith collection was made during a period when the Baram River region was under the administrative jurisdiction of the White Rajah's Sarawak, and the collecting sites (Long Akar, Long Mujan, Long Sap, Lio Matu) correspond to river-mouth settlements along the Baram and its tributaries (p. 2, n. 1).
-- The paper appears in the inaugural volume of the *Journal of the Malayan Branch of the Royal Asiatic Society* (Vol. 1, No. 1, April 1923), reflecting the Society's early commitment to publishing primary natural-history research from the Malay Peninsula and Borneo.
+- The paper appears in the inaugural volume of the *[Journal of the Malayan Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* (Vol. 1, No. 1, April 1923), reflecting the Society's early commitment to publishing primary natural-history research from the [Malay](./malay.md) Peninsula and Borneo.
 
 ## References
 <!-- Grounded occurrences and citations -->

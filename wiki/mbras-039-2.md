@@ -90,7 +90,7 @@ articles:
 
 # JMBRAS Vol. 39, Part 2 (December 1966)
 
-**Series:** Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society  
+**Series:** Journal of the Malayan/[Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** December 1966
 
 ## Table of Contents

@@ -25,7 +25,7 @@ publication_type: note
 
 # Notes on the nest and eggs of Nyctiornis amicta
 
-This is a brief note by H. J. Kelsall describing the nest and eggs of *Nyctiornis amicta*, a bee-eater, published in JSBRAS Vol. 24 (1891).
+This is a brief note by H. J. Kelsall describing the nest and eggs of *Nyctiornis amicta*, a bee-eater, published in [JSBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md) Vol. 24 (1891).
 
 ## Summary
 

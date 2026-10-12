@@ -160,9 +160,10 @@ articles:
   pages: 200–201
   is_review: true
 ---
+
 # JMBRAS Vol. 72, Part 2 (December 1999)
 
-**Series:** Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society  
+**Series:** Journal of the Malayan/[Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** December 1999
 
 ## Table of Contents

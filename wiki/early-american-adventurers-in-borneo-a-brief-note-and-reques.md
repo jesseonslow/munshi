@@ -26,7 +26,7 @@ publication_type: note
 
 # Early American adventurers in Borneo: a brief note and request for information
 
-This brief note by G.N. Appell (Harvard University) reports a reference in the journal of James Austin Wilder to early American traders on the Baram River in Sarawak, and requests further information from readers.
+This brief note by [G.N. Appell](./gn-appell.md) (Harvard University) reports a reference in the journal of James Austin Wilder to early American traders on the Baram River in [Sarawak](./sarawak.md), and requests further information from readers.
 
 ## Summary
 

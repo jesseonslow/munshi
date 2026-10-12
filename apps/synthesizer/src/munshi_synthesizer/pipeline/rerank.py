@@ -1,47 +1,39 @@
 from __future__ import annotations
 
-import re
 from sentence_transformers import CrossEncoder
-from munshi_synthesizer.schema import OccurrenceRecord
+from munshi_synthesizer.schema import PublicationSource
 
 
-class PassageReranker:
+class PublicationReranker:
+    """Uses a cross-encoder to rank and stratify publication sources based on subtopic relevance."""
+
     def __init__(self, model_name: str = "BAAI/bge-reranker-base"):
         self.model = CrossEncoder(model_name)
 
-    def filter_and_rerank(
+    def prioritize_sources(
         self,
         query: str,
-        records: list[OccurrenceRecord],
-        top_k: int = 25,
-        min_score: float = 0.1,
-    ) -> list[OccurrenceRecord]:
-        clean_candidates: list[OccurrenceRecord] = []
+        sources: list[PublicationSource],
+        top_k: int = 5,
+    ) -> tuple[list[PublicationSource], list[PublicationSource]]:
+        """
+        Reranks publication sources. 
+        Returns:
+            (primary_anchors, supplementary_sources)
+        """
+        if len(sources) <= top_k:
+            return sources, []
 
-        for r in records:
-            text = r.context_snippet.strip()
-            # 1. Eliminate short noise & CLI diagnostic lines
-            if len(text.split()) < 35:
-                continue
-            if text.startswith(("File:", "Group:", "Context:", "Routes:", "#1 heading")):
-                continue
-            # 2. Eliminate footnote & bibliography fragments
-            if text.startswith(("[^", "^", "## References", "## Bibliography")):
-                continue
-            if re.search(r"^\d+\.\s+.*?JMBRAS", text):
-                continue
-
-            clean_candidates.append(r)
-
-        if not clean_candidates:
-            return records[:top_k]
-
-        # Score pairs with cross-encoder
-        pairs = [[query, r.context_snippet] for r in clean_candidates]
+        # Construct scoring pairs from Title + Lede + Summary
+        pairs = [
+            [query, f"{s.title}. {s.lede} {s.summary} {' '.join(s.key_findings[:3])}"]
+            for s in sources
+        ]
         scores = self.model.predict(pairs)
 
-        for rec, score in zip(clean_candidates, scores):
-            rec.similarity_score = float(score)
+        for src, score in zip(sources, scores):
+            src.relevance_score = float(score)
 
-        clean_candidates.sort(key=lambda x: x.similarity_score or 0.0, reverse=True)
-        return [r for r in clean_candidates if (r.similarity_score or 0.0) >= min_score][:top_k]
+        # Sort descending
+        ranked = sorted(sources, key=lambda x: x.relevance_score, reverse=True)
+        return ranked[:top_k], ranked[top_k:]

@@ -25,11 +25,11 @@ publication_type: journal_article
 
 # English, Sulu and Malay vocabulary
 
-This is a continuation of T. H. Haynes's trilingual vocabulary list comparing English, Sulu, and Malay terms, published in JSBRAS Vol. 18 (1886), pp. 191–239.
+This is a continuation of T. H. Haynes's trilingual vocabulary list comparing English, [Sulu](./sulu.md), and [Malay](./malay.md) terms, published in [JSBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md) Vol. 18 (1886), pp. 191–239.
 
 ## Summary
 
-The document presents an alphabetical glossary (letters N through Y) of English words with their Sulu and Malay equivalents, along with comparative notes on cognates across Javanese, Sundanese, Buginese, Dayak, Tagalog, Bisayan, and other regional languages. Entries include etymological remarks, cross-references to earlier volumes, and editorial notes (marked "Ed.") offering derivations from Sanskrit, Arabic, Persian, and Tamil sources. The list covers a wide range of semantic fields including body parts, verbs of motion, abstract nouns, and nautical terminology.
+The document presents an alphabetical glossary (letters N through Y) of English words with their Sulu and Malay equivalents, along with comparative notes on cognates across Javanese, Sundanese, Buginese, [Dayak](./dayaks.md), Tagalog, Bisayan, and other regional [languages](./languages.md). Entries include etymological remarks, cross-references to earlier volumes, and editorial notes (marked "Ed.") offering derivations from Sanskrit, Arabic, Persian, and Tamil sources. The list covers a wide range of semantic fields including body parts, verbs of motion, abstract nouns, and nautical terminology.
 
 ## References
 <!-- Grounded occurrences and citations -->

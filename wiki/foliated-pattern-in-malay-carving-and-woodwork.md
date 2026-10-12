@@ -26,11 +26,11 @@ jstor: https://www.jstor.org/stable/41561255
 
 # Foliated pattern in Malay carving and woodwork
 
-This is a brief note by R. O. Winstedt on foliated patterns as they appear in Malay carving and silverwork, published in the *Journal of the Straits Branch of the Royal Asiatic Society*, Vol. 76 (1917), p. 73.
+This is a brief note by [R. O. Winstedt](./richard-olaf-winstedt.md) on foliated patterns as they appear in [Malay](./malay.md) carving and silverwork, published in the *[Journal of the Straits Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)*, Vol. 76 (1917), p. 73.
 
 ## Summary
 
-The note is a single-page contribution accompanied by a figure (p. 73). The available text consists of the title and heading only; the substantive discussion of foliated motifs in the two media is not reproduced in the source provided. The piece falls within Winstedt's broader body of work on Malay decorative arts and material culture during his tenure at the Straits Settlements.
+The note is a single-page contribution accompanied by a figure (p. 73). The available text consists of the title and heading only; the substantive discussion of foliated motifs in the two media is not reproduced in the source provided. The piece falls within Winstedt's broader body of work on Malay decorative arts and material culture during his tenure at the [Straits Settlements](./straits-settlements.md).
 
 ## References
 <!-- Grounded occurrences and citations -->

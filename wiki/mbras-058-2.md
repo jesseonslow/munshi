@@ -129,7 +129,7 @@ articles:
 
 # JMBRAS Vol. 58, Part 2 (December 1985)
 
-**Series:** Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society  
+**Series:** Journal of the Malayan/[Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** December 1985
 
 ## Table of Contents

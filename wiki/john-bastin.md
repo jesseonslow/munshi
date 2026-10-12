@@ -39,7 +39,7 @@ published: false
 - (1990) [Sir Stamford Raffles and the study of natural history in Penang, Singapore and Indonesia](./sir-stamford-raffles-and-the-study-of-natural-history-in-pen.md). *JMBRAS* 63(2): 1–25
 - (1992) [Raffles’ aides-de-camp in Java](./raffles-aides-de-camp-in-java.md). *JMBRAS* 65(1): 1–14
 - (2002) [John Leyden and the publication of the Malay Annals (1821](./john-leyden-and-the-publication-of-the-malay-annals-1821.md). *JMBRAS* 75: 99–115
-- (2008) [Abdullah and Siami](./abdullah-and-siami.md). *JMBRAS* 81(1): 1–6
+- (2008) [Abdullah and Siami](./abdullah-and-siami.md). *[JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* 81(1): 1–6
 
 ### Reviews
 - (1958) The other India: a biography of Sir Stamford Raffles. H.F. Pearson. *JMBRAS* 31(1): 228–232

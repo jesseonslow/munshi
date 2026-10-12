@@ -25,7 +25,7 @@ publication_type: note
 
 # Some rhyming sayings in Malay
 
-A. W. Hamilton's short note collects twelve Malay rhyming sayings (pantun-like couplets) gathered in Singapore and Penang, each accompanied by an English translation and a brief note on its usage context (pp. 393–395).
+A. W. Hamilton's short note collects twelve [Malay](./malay.md) rhyming sayings (pantun-like couplets) gathered in [Singapore](./singapore.md) and [Penang](./penang.md), each accompanied by an English translation and a brief note on its usage context (pp. 393–395).
 
 ## Summary
 

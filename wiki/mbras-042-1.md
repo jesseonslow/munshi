@@ -92,7 +92,7 @@ articles:
 
 # JMBRAS Vol. 42, Part 1 (August 1969)
 
-**Series:** Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society  
+**Series:** Journal of the Malayan/[Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** August 1969
 
 ## Table of Contents

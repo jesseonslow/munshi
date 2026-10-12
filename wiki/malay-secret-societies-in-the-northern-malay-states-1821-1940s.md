@@ -22,19 +22,19 @@ published: false
 
 ## About
 
-Malay secret societies operated in the northern Malay states of the west coast of the Malay Peninsula between 1821 and the 1940s, serving as the main avenue for solving various problems arising from economic development and competition among the Malays. While these societies often began as religious and welfare organisations, many later became involved in criminal activity. As with Chinese secret societies, members were bound by an oath of secrecy, which made detection by the police difficult.
+Malay [secret societies](./secret-societies.md) operated in the northern Malay states of the west coast of the [Malay](./malay.md) Peninsula between 1821 and the 1940s, serving as the main avenue for solving [various](./various.md) problems arising from economic development and competition among the Malays. While these societies often began as religious and welfare organisations, many later became involved in criminal activity. As with [Chinese secret societies](./chinese-secret-societies.md), members were bound by an oath of secrecy, which made detection by the [police](./police.md) difficult.
 
 ## Contents
 
 1. Introduction
-2. The Kedah-Siam War and the Creation of a Migrant Community in Penang and Province Wellesley
+2. The Kedah-[Siam](./thailand.md) War and the Creation of a Migrant Community in Penang and [Province Wellesley](./province-wellesley.md)
 3. Societies, 1830s to 1860s
-4. The 1867 Penang Riots
+4. The 1867 [Penang](./penang.md) [Riots](./riots.md)
 5. The White Flag and the Red Flag up to the 1940s
-6. Secret Societies in Perak, Kedah and Perlis
+6. Secret Societies in [Perak](./perak.md), [Kedah](./kedah.md) and [Perlis](./perlis.md)
 7. Conclusion
 - Glossary
-- Index
+- [Index](./index.md)
 
 ## Summary
 <!-- Synthesis engine: Insert chapter summaries or overview here -->

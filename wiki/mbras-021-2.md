@@ -34,7 +34,7 @@ articles:
 
 # JMBRAS Vol. 21, Part 2 (September 1948)
 
-**Series:** Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society  
+**Series:** Journal of the Malayan/[Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** September 1948
 
 ## Table of Contents

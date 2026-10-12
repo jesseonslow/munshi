@@ -19,7 +19,7 @@ status: stub
 published: false
 articles:
 - id: jmbras-29-2-p1
-  slug: papers-on-the-malayan-metal-age-j-loewenstein-and-g-de-g-sie
+  slug: papers-on-the-malayan-metal-age
   title: Papers on the Malayan metal age. J. Loewenstein and G. de G. Sieveking. Monographs
     on Malay subjects, No. 3
   authors:
@@ -31,11 +31,11 @@ articles:
 
 # JMBRAS Vol. 29, Part 2 (May 1956)
 
-**Series:** Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society  
+**Series:** Journal of the Malayan/[Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** May 1956
 
 ## Table of Contents
-* [Papers on the Malayan metal age. J. Loewenstein and G. de G. Sieveking. Monographs on Malay subjects, No. 3](./papers-on-the-malayan-metal-age-j-loewenstein-and-g-de-g-sie.md) — [J. Loewenstein](./j-loewenstein.md), [G. de G. Sieveking](./g-de-g-sieveking.md) (pp. 1–138)
+* [Papers on the Malayan metal age](./papers-on-the-malayan-metal-age.md) — [J. Loewenstein](./j-loewenstein.md), [G. de G. Sieveking](./g-de-g-sieveking.md) (pp. 1–138)
 
 ## Contributors
 * [G. de G. Sieveking](./g-de-g-sieveking.md)

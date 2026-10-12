@@ -21,7 +21,7 @@ published: false
 
 ## MBRAS Sources
 
-- [R.N. Bland](./rn-bland.md) (1906). [Malacca lace](./malacca-lace.md). *JSBRAS* 45: 273–277
+- [R.N. Bland](./rn-bland.md) (1906). [Malacca lace](./malacca-lace.md). *[JSBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* 45: 273–277
 
 ## References
 <!-- Grounded occurrences and citations -->

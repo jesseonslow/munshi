@@ -14,7 +14,7 @@ email: andrew.smith@adelaide.edu.au
 
 # F. Andrew Smith
 
-F. Andrew Smith is an Emeritus Professor at the University of Adelaide, Australia. Originally a plant biologist, his research interests for more than 20 years have increasingly focused on the pre-colonial history of Borneo, particularly what is now West Kalimantan, and on early maritime trade in the region.
+F. Andrew Smith is an Emeritus Professor at the University of Adelaide, Australia. Originally a plant biologist, his research interests for more than 20 years have increasingly focused on the pre-colonial history of [Borneo](./borneo.md), particularly what is now West Kalimantan, and on early maritime trade in the region.
 
 ## Biography
 

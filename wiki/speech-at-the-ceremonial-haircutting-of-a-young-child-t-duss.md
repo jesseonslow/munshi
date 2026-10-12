@@ -26,7 +26,7 @@ jstor: https://www.jstor.org/stable/41561258
 
 # Speech at the ceremonial haircutting of a young child. .T. Dussek
 
-This is a short note by O. T. Dussek, published in JSBRAS Vol. 76 (1917), presenting a Malay speech for the ceremonial haircutting of a young child, accompanied by an English translation (pp. 127–131).
+This is a short note by O. T. Dussek, published in [JSBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md) Vol. 76 (1917), presenting a [Malay](./malay.md) speech for the ceremonial haircutting of a young child, accompanied by an English translation (pp. 127–131).
 
 ## Summary
 

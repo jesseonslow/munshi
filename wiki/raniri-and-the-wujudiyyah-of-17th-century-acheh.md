@@ -25,14 +25,14 @@ published: false
 - Preface
   1. Introduction: The Historical Background
   1. Nuru'l-Din al-Raniri
-  1. Raniri's refutation of Hamzah Fansuri
+  1. [Raniri](./nuruddin-ibn-ali-al-raniri.md)'s refutation of Hamzah Fansuri
   1. The teachings of Hamzah Fansuri
   1. Hamzah Fansuri's concept of the *iradah* as demonstrated in the conceptual structure of the Malay word *hendak*
     - A. Conceptual structue of the word *hendak*
     - B. Derivatives and their conceptual structures
     - C. Conceptual distinction between *hendak* and *mahu*
-    - D. Hamzah Fansuri's concept of the *iradah*
-  1. Romanized Malay edition of the text of the *Hujjatu'l-Siddiq li daf'i'l-Zindiq*
+    - D. [Hamzah Fansuri](./hamzah-fansuri.md)'s concept of the *iradah*
+  1. Romanized [Malay](./malay.md) edition of the text of the *Hujjatu'l-Siddiq li daf'i'l-Zindiq*
   1. English translation of the text
 - Appendices
 - Facsimile of the text of the *Hujjatu'l-Siddiq li daf'i'l-Zindiq*

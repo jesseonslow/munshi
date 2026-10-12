@@ -26,7 +26,7 @@ jstor: https://www.jstor.org/stable/41559801
 
 # Some Kelantan place names
 
-This short note by Reginald J. Bee provides etymological interpretations of nine place names in Kelantan, illustrating the poetic and sympathetic manner in which Malay speakers record local impressions in toponymy (p. 138).
+This short note by Reginald J. Bee provides etymological interpretations of nine place names in [Kelantan](./kelantan.md), illustrating the poetic and sympathetic manner in which [Malay](./malay.md) speakers record local impressions in toponymy (p. 138).
 
 ## Summary
 

@@ -37,7 +37,7 @@ articles:
 
 # JSBRAS No. 51 (None 1909)
 
-**Series:** Journal of the Straits Branch of the Royal Asiatic Society  
+**Series:** [Journal of the Straits Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** None 1909
 
 ## Table of Contents

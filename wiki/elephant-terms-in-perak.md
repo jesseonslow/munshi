@@ -5,7 +5,7 @@ title: Elephant terms in Perak
 canonical_name: Elephant terms in Perak
 type: publication
 authors:
-- H.E. Miller
+- J.I. Miller
 year: 1927
 journal_code: JMBRAS
 volume: 5
@@ -17,12 +17,20 @@ PublishedByMBRAS: true
 amendments: []
 status: stub
 published: false
-summarized: false
-source_mismatch: true
+summarized: true
 publication_type: note
+source_doc: jmalayanras-100-miller-elephanttermsperak-1927-c69ff4201a32
+source_path: ../sources/jmalayanras-100-miller-elephanttermsperak-1927-c69ff4201a32.md
 ---
 
 # Elephant terms in Perak
+
+J. I. Miller’s brief note documents specific elephant command terms utilized by Gembalas in the District of [Kuala Kangsar](./kuala-kangsar.md) and upper [Perak](./perak.md). The text lists these instructions alongside their [Malay](./malay.md) equivalents and meanings, suggesting a possible [Patani](./patani.md) origin for the vocabulary (p. 364).
+
+## Summary
+Miller compiles a table of commands used by Gembalas to direct elephant behavior, including instructions for movement, positioning, and restraint. The list details specific vocalizations written in Arabic script, such as *di* for "come here" and *trum* for "lie down," providing the Malay translation and functional description for each command (p. 364).
+
+Additional instructions regarding swimming, braking, and physical positioning are included on the following page (p. 365).
 
 ## References
 <!-- Grounded occurrences and citations -->

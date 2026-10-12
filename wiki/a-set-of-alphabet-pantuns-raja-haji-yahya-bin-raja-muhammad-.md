@@ -27,11 +27,11 @@ jstor: https://www.jstor.org/stable/41585390
 
 # A set of alphabet pantuns. Raja Haji Yahya bin Raja Muhammad ‘Ali
 
-This short note by R. O. Winstedt presents a set of alphabet pantuns composed by the Perak court poet Raja Haji Yahya bin Raja Muhammad 'Ali, written approximately twenty years prior to publication during the reign of Sultan Idris (p. 308).
+This short note by [R. O. Winstedt](./richard-olaf-winstedt.md) presents a set of [alphabet](./alphabet.md) pantuns composed by the [Perak](./perak.md) court poet [Raja Haji](./raja-haji.md) Yahya bin Raja Muhammad 'Ali, written approximately twenty years prior to publication during the reign of Sultan Idris (p. 308).
 
 ## Summary
 
-Winstedt introduces the text by noting that while alphabet pantuns are not uncommon in Malay literary tradition, none had previously been printed in the Journal (p. 308). The set follows the extended Arabic alphabet (from alif through the final letter), with each pantun opening on the corresponding letter. The content constitutes a sustained romantic narrative in classical Malay verse, employing conventional imagery of courtly love, longing, and separation, interspersed with references to Javanese and Persian literary allusions (e.g., Jayeng Beranta, Zulaikha and Yusuf, Nila-Suba) (pp. 308–311). The sequence concludes with a closing couplet in which the speaker addresses his beloved and invokes a blessing (p. 311).
+Winstedt introduces the text by noting that while alphabet pantuns are not uncommon in [Malay](./malay.md) literary tradition, none had previously been printed in the [Journal](./journal.md) (p. 308). The set follows the extended Arabic [alphabet](./alphabet.md) (from alif through the final letter), with each pantun opening on the corresponding letter. The content constitutes a sustained romantic narrative in classical [Malay](./malay.md) verse, employing conventional imagery of courtly love, longing, and separation, interspersed with references to Javanese and Persian literary allusions (e.g., Jayeng Beranta, Zulaikha and Yusuf, Nila-Suba) (pp. 308–311). The sequence concludes with a closing couplet in which the speaker addresses his beloved and invokes a blessing (p. 311).
 
 ## References
 <!-- Grounded occurrences and citations -->

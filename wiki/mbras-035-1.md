@@ -45,7 +45,7 @@ articles:
 
 # JMBRAS Vol. 35, Part 1 (None 1962)
 
-**Series:** Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society  
+**Series:** Journal of the Malayan/[Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** None 1962
 
 ## Table of Contents

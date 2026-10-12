@@ -38,7 +38,7 @@ articles:
   slug: maxwells-malay-manual-nq-1
   title: 'Maxwell’s Malay Manual. NQ 1:'
   authors:
-  - Anon (and unidentifiable initials)
+  - Anon
   pages: null
   is_review: false
 - id: jsbras-14-are-cockatoos-carnivorous-nq-1
@@ -227,7 +227,7 @@ articles:
 
 # JSBRAS No. 14 (December 1884)
 
-**Series:** Journal of the Straits Branch of the Royal Asiatic Society  
+**Series:** [Journal of the Straits Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** December 1884
 
 ## Table of Contents

@@ -171,10 +171,9 @@ articles:
   is_review: false
 ---
 
-
 # JMBRAS Vol. 3, Part 1 (April 1925)
 
-**Series:** Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society  
+**Series:** Journal of the Malayan/[Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** April 1925
 
 ## Table of Contents

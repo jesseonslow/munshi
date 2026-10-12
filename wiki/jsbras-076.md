@@ -92,7 +92,7 @@ articles:
 
 # JSBRAS No. 76 (August 1917)
 
-**Series:** Journal of the Straits Branch of the Royal Asiatic Society  
+**Series:** [Journal of the Straits Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** August 1917
 
 ## Table of Contents

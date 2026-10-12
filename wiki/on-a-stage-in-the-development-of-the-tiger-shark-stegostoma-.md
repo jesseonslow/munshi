@@ -27,7 +27,7 @@ publication_type: note
 
 # On a stage in the development of the tiger-shark Stegostoma tigrinum (Gmel.). Records of the Raffles Museum, No. 20
 
-This is a brief note by N. Smedley describing an unusual developmental stage in the tiger-shark *Stegostoma tigrinum*, originally published in the Records of the Raffles Museum (No. 20) and reproduced in JMBRAS Vol. 4 (1926).
+This is a brief note by [N. Smedley](./n-smedley.md) describing an unusual developmental stage in the tiger-shark *Stegostoma tigrinum*, originally published in the Records of the [Raffles](./stamford-raffles.md) Museum (No. 20) and reproduced in [JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md) Vol. 4 (1926).
 
 ## Summary
 

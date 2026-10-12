@@ -26,7 +26,7 @@ jstor: https://www.jstor.org/stable/41561313
 
 # Body temperature and comfort
 
-J. Argyll Campbell published "Body Temperature and Comfort" in 1919 in the *Journal of the Straits Branch of the Royal Asiatic Society*, presenting a six-year personal physiological study tracking his own axillary and mouth temperatures across six climates—Scotland, Singapore, Java, Perak, and Australia—to demonstrate that a rise in body temperature to 97.6°F, even in the absence of fever, produces significant discomfort and that architectural siting and ventilation are the decisive factors in tropical comfort.
+J. Argyll Campbell published "Body Temperature and Comfort" in 1919 in the *[Journal of the Straits Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)*, presenting a six-year personal physiological study tracking his own axillary and mouth temperatures across six climates—Scotland, [Singapore](./singapore.md), [Java](./java.md), [Perak](./perak.md), and Australia—to demonstrate that a rise in body temperature to 97.6°F, even in the absence of fever, produces significant discomfort and that architectural siting and ventilation are the decisive factors in tropical comfort.
 
 ## Summary
 
@@ -51,7 +51,7 @@ Campbell's definitive takeaway is that in a warm, moist climate, the single most
 ## Context
 
 - Campbell writes from the position of a resident medical practitioner in Singapore, referring to "our town" and "our high death rate" as matters of local administrative concern (p. 65).
-- The study draws on standard British physiological references (Pembrey/Schafer's *Text Book of Physiology*) and O'Connell's 1913 paper in the *Journal of Tropical Medicine and Hygiene*, situating it within the colonial public-health discourse on tropical disease etiology and factory hygiene.
+- The study draws on standard British physiological references (Pembrey/Schafer's *Text Book of Physiology*) and O'Connell's 1913 paper in the *Journal of Tropical [Medicine](./medicine.md) and Hygiene*, situating it within the colonial public-health discourse on tropical disease etiology and factory hygiene.
 
 ## References
 <!-- Grounded occurrences and citations -->

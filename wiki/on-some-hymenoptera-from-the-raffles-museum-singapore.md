@@ -25,7 +25,7 @@ publication_type: note
 
 # On some Hymenoptera from the Raffles Museum, Singapore
 
-This is a short taxonomic note by P. Cameron listing undetermined Hymenoptera sent to him by Dr. Hanitsch from the Raffles Museum, Singapore, as a contribution to the knowledge of the island's hymenopterous fauna (p. 119).
+This is a short taxonomic note by [P. Cameron](./p-cameron.md) listing undetermined [Hymenoptera](./hymenoptera.md) sent to him by Dr. Hanitsch from the [Raffles](./stamford-raffles.md) Museum, [Singapore](./singapore.md), as a contribution to the knowledge of the island's hymenopterous fauna (p. 119).
 
 ## Summary
 

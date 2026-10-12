@@ -28,13 +28,13 @@ publication_type: note
 
 # MBRAS visit to Bandar Seri Begawan
 
-This is a brief report by Neil Khor Jin Keong documenting the 2013 MBRAS Council visit to Bandar Seri Begawan, Brunei, led by President Tun Hanif Omar and organized by PM Dato' Shariffudin.
+This is a brief report by [Neil Khor Jin Keong](./neil-khor-jin-keong.md) documenting the 2013 [MBRAS](./malaysian-branch-of-the-royal-asiatic-society.md) Council visit to Bandar Seri Begawan, [Brunei](./brunei.md), led by President Tun Hanif Omar and organized by PM Dato' Shariffudin.
 
 ## Summary
 
-The 11-member delegation toured key institutions in Brunei, including the Islamic Museum (noted for its collection of the Holy Qur'an), the Royal Gallery dedicated to the Sultan and his coronation, and the floating village of Kampung Ayer, described as the proto-typical dwelling of old Brunei (p. 89–90). The visit also included a public lecture by HE Pehin Dato Dr Haji Abdul Aziz Umar, Brunei's last colonial Chief Minister and first Education Minister, on the MIB (Malay Islamic Monarchy) national philosophy, which is published separately in the same issue of the journal (p. 91).
+The 11-member delegation toured key institutions in Brunei, including the Islamic Museum (noted for its collection of the Holy Qur'an), the Royal Gallery dedicated to the Sultan and his coronation, and the floating village of Kampung Ayer, described as the proto-typical dwelling of old Brunei (p. 89–90). The visit also included a public lecture by HE Pehin Dato Dr Haji [Abdul Aziz Umar](./abdul-aziz-umar.md), Brunei's last colonial Chief Minister and first [Education](./education.md) Minister, on the MIB (Malay Islamic Monarchy) national philosophy, which is published separately in the same issue of the journal (p. 91).
 
-Khor frames the visit as demonstrating the cultural and religious ties binding the Malaysian region, noting that Brunei's monarchical system is perhaps the oldest surviving Malay sultanate still governing its own kingdom (p. 92).
+Khor frames the visit as demonstrating the cultural and religious ties binding the Malaysian region, noting that Brunei's monarchical system is perhaps the oldest surviving [Malay](./malay.md) sultanate still governing its own kingdom (p. 92).
 
 ## References
 <!-- Grounded occurrences and citations -->

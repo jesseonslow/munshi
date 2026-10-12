@@ -1,20 +1,24 @@
 ---
-id: j-kelly
-title: J. Kelly
-canonical_name: J. Kelly
+id: john-kelly
+title: John Kelly
+canonical_name: John Kelly
 aliases:
-- Kelly, J
+- Kelly, J.
+- J. Kelly
 type: person
 is_contributor: true
 status: stub
 published: false
+gender: male
 ---
 
-# J. Kelly
+# John Kelly
 
 <!-- Synthesis engine: Insert biographical synthesis and research focus here -->
 
 ## Biography
+
+John Kelly is Professor of [Anthropology](./anthropology.md) at the University of Chicago.
 
 ## Bibliography
 - (2016) [Ethnographic notes on the state funeral of Lee Kuan Yew: introduction](./ethnographic-notes-on-the-state-funeral-of-lee-kuan-yew-intr.md). *JMBRAS* 89(1): 81–83

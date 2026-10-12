@@ -26,11 +26,11 @@ jstor: https://www.jstor.org/stable/41491995
 
 # John Waterstradt, 1869–1944
 
-This is an obituary for John Waterstradt (1869–1944), written by H.S. Barlow and published in the *Journal of the Malaysian Branch of the Royal Asiatic Society*, Vol. 42, No. 2 (1969), pp. 115–129.
+This is an obituary for [John Waterstradt](./john-waterstradt.md) (1869–1944), written by [H.S. Barlow](./henry-sackville-barlow.md) and published in the *[Journal of the Malaysian Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)*, Vol. 42, No. 2 (1969), pp. 115–129.
 
 ## Summary
 
-The document is a biographical obituary commemorating the life and work of John Waterstradt, a figure associated with Malaya whose contributions warranted recognition by the Malaysian Branch of the Royal Asiatic Society. The article spans fifteen pages, suggesting a substantial treatment of his career and legacy. The provided source text consists solely of the JSTOR cover page and publication metadata; the full body of the obituary is not included in the supplied excerpt.
+The document is a biographical obituary commemorating the life and work of John Waterstradt, a figure associated with [Malaya](./malaya.md) whose contributions warranted recognition by the [Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md). The article spans fifteen pages, suggesting a substantial treatment of his career and legacy. The provided source text consists solely of the JSTOR cover page and publication metadata; the full body of the obituary is not included in the supplied excerpt.
 
 ## References
 <!-- Grounded occurrences and citations -->

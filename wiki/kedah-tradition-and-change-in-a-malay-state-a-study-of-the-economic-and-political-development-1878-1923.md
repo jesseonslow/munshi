@@ -29,12 +29,12 @@ published: false
   1. The Financial Problems of Kedah
   1. The Kedah Political System, 1879 – 1905
   1. The Years of Transition, 1905 – 1911
-  1. Kedah-British Conflict — Malay Reaction to Political Change, 1905 – 1923
+  1. Kedah-British Conflict — [Malay](./malay.md) Reaction to Political Change, 1905 – 1923
   1. Conclusion
 - Appendix
 - Bibliography
 - Sketch Map of Kedah 1911
-- The Old Fort, Kuala Kedah
+- The Old Fort, Kuala [Kedah](./kedah.md)
 
 ## Summary
 <!-- Synthesis engine: Insert chapter summaries or overview here -->

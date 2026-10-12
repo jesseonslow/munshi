@@ -36,7 +36,7 @@ articles:
 
 # JSBRAS No. 29 (July 1896)
 
-**Series:** Journal of the Straits Branch of the Royal Asiatic Society  
+**Series:** [Journal of the Straits Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** July 1896
 
 ## Table of Contents

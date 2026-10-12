@@ -22,7 +22,7 @@ gender: male
 
 ## Biography
 
-Danny Wong Tze-Ken is Professor of History at the Department of History, Faculty of Arts and Social Sciences, Universiti Malaya.
+Danny Wong Tze-Ken is Professor of History at the Department of History, Faculty of Arts and Social Sciences, Universiti [Malaya](./malaya.md).
 
 ## Bibliography
 - (2007) [New Perspectives and Research on Malaysian History](./new-perspectives-and-research-on-malaysian-history.md). *Monograph* 41: 270

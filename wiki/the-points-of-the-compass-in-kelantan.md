@@ -26,11 +26,11 @@ jstor: https://www.jstor.org/stable/41559823
 
 # The points of the compass in Kelantan
 
-This short note by Anker Rentse documents the local Malay and Javanese names for the cardinal and intercardinal compass points as used in Kelantan, based on a compiled diagram.
+This short note by [Anker Rentse](./anker-rentse.md) documents the local [Malay](./malay.md) and Javanese names for the cardinal and intercardinal compass points as used in [Kelantan](./kelantan.md), based on a compiled diagram.
 
 ## Summary
 
-Rentse reports that coastal fisher-folk in Kelantan are generally familiar only with the names for North, East, and South, with uncertainty surrounding the minor compass points towards the West (p. 252). He further notes that Ulu Kelantan Malays know primarily the directional terms used by medicine men in incantations: North = *Hilir bangsawan* (or *besawan*), East = *Sinar naik*, South = *Hulu bani*, West = *Sinar rundok*. Medicine men also employ Javanese equivalents: North = *Lor* (or *long*), *daksina*; East = *Wetan*; South = *Kidol*, *paksina*; West = *Kolong* (p. 252).
+Rentse reports that coastal fisher-folk in Kelantan are generally familiar only with the names for North, East, and South, with uncertainty surrounding the minor compass points towards the West (p. 252). He further notes that [Ulu Kelantan](./ulu-kelantan.md) Malays know primarily the directional terms used by medicine men in [incantations](./incantations.md): North = *Hilir bangsawan* (or *besawan*), East = *Sinar naik*, South = *Hulu bani*, West = *Sinar rundok*. [Medicine](./medicine.md) men also employ Javanese equivalents: North = *Lor* (or *long*), *daksina*; East = *Wetan*; South = *Kidol*, *paksina*; West = *Kolong* (p. 252).
 
 ## References
 <!-- Grounded occurrences and citations -->

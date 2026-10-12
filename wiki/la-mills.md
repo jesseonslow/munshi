@@ -17,8 +17,8 @@ published: false
 ## Biography
 
 ## Bibliography
-- (1925) [British Malaya, 1824–1867. L.A. Mills. With an appendix C.O. Blagden](./british-malaya-18241867-la-mills-with-an-appendix-co-blagden.md). *JMBRAS* 3(2): 1–338
-- (1960) [British Malaya, 1824–67. L.A. Mills. .M. Turnbull; and a new introductory chapter on European influence in the Malay Peninsula, 1511–1786, D.K. Bassett](./british-malaya-182467-la-mills-m-turnbull-and-a-new-introduc.md). *JMBRAS* 33(3): 1–424
+- (1925) [British Malaya, 1824–1867](./british-malaya-1824-67.md). *JMBRAS* 3(2): 1–338
+- (1960) [British Malaya, 1824–1867](./british-malaya-182467.md). *JMBRAS* 33(3): 1–424
 - (1970) [The Federation decision: 1895](./the-federation-decision-1895.md). *JMBRAS* 43(1): 104–115
 - (1978) [A note on ‘the Rawa’](./a-note-on-the-rawa.md). *JMBRAS* 51(2): 143–148
 - (1979) [Eighteenth and nineteenth century Chinese accounts of the Malay Peninsula](./eighteenth-and-nineteenth-century-chinese-accounts-of-the-ma.md). *JMBRAS* 52(1): 1–56

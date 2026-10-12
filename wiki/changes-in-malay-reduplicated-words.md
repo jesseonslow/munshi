@@ -25,7 +25,7 @@ publication_type: note
 
 # Changes in Malay reduplicated words
 
-This short note by R. O. Winstedt, published in the *Journal of the Straits Branch of the Royal Asiatic Society* (Vol. 77, 1917), catalogues the systematic phonological changes that occur in the second element of Malay reduplicated words, each class retaining the usual semantic function of reduplication (p. 259).
+This short note by [R. O. Winstedt](./richard-olaf-winstedt.md), published in the *[Journal of the Straits Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* (Vol. 77, 1917), catalogues the systematic phonological changes that occur in the second element of [Malay](./malay.md) reduplicated words, each class retaining the usual semantic function of reduplication (p. 259).
 
 ## Summary
 

@@ -26,11 +26,11 @@ jstor: https://www.jstor.org/stable/41561408
 
 # Hindu image from Sarawak
 
-This brief note by J. C. Moulton documents the 1921 discovery of a stone image of Ganesa at Limbang, Sarawak, and presents expert opinions on its dating and iconographic features.
+This brief note by [J. C. Moulton](./john-coney-moulton.md) documents the 1921 discovery of a stone image of Ganesa at Limbang, [Sarawak](./sarawak.md), and presents expert opinions on its dating and iconographic features.
 
 ## Summary
 
-The image, unearthed by workmen removing the top of a hill near the Limbang Residency, is a 24-inch stone figure of Ganesa seated on a lotus cushion, in remarkably good preservation. It was sent to the Sarawak Museum, Kuching, by Resident F. F. Boult. Moulton records two scholarly assessments: Prof. N. J. Krom of Leiden University suggested a 6th or 7th century date based on its direct Hindu origin, while Sir John Marshall, Director-General of Archaeology in India, proposed a later date (c. 13th century) on the grounds that the image's posture—soles of the feet joined—matches Javanese examples from the age of Brambanan and Singasari, indicating Javanese influence (p. 211). Marshall further noted the elaborate head-dress as a possible *jata* (matted locks), suggesting an ascetic aspect of Ganesa unknown in Indian iconography. The note closes with a light observation that the discovery drew large crowds to the museum, where attendants had the task of disposing of offerings made to the image (p. 211).
+The image, unearthed by workmen removing the top of a hill near the Limbang Residency, is a 24-inch stone figure of Ganesa seated on a lotus cushion, in remarkably good preservation. It was sent to the Sarawak Museum, [Kuching](./kuching.md), by Resident F. F. Boult. Moulton records two scholarly assessments: Prof. N. J. Krom of Leiden University suggested a 6th or 7th century date based on its direct Hindu origin, while Sir John Marshall, Director-General of [Archaeology](./archaeology.md) in [India](./india.md), proposed a later date (c. 13th century) on the grounds that the image's posture—soles of the feet joined—matches Javanese examples from the age of Brambanan and Singasari, indicating Javanese influence (p. 211). Marshall further noted the elaborate head-dress as a possible *jata* (matted locks), suggesting an ascetic aspect of Ganesa unknown in Indian iconography. The note closes with a light observation that the discovery drew large crowds to the museum, where attendants had the task of disposing of offerings made to the image (p. 211).
 
 ## References
 <!-- Grounded occurrences and citations -->

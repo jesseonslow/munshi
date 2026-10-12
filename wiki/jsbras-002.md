@@ -138,7 +138,7 @@ articles:
 
 # JSBRAS No. 2 (December 1878)
 
-**Series:** Journal of the Straits Branch of the Royal Asiatic Society  
+**Series:** [Journal of the Straits Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** December 1878
 
 ## Table of Contents

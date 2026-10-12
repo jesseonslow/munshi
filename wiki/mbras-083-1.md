@@ -83,7 +83,7 @@ articles:
   slug: oxford-dictionary-of-national-biography
   title: Oxford Dictionary of National Biography
   authors:
-  - Anon (and unidentifiable initials)
+  - Anon
   pages: 117–120
   is_review: false
 - id: jmbras-83-1-p124
@@ -98,7 +98,7 @@ articles:
 
 # JMBRAS Vol. 83, Part 1 (June 2010)
 
-**Series:** Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society  
+**Series:** Journal of the Malayan/[Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** June 2010
 
 ## Table of Contents

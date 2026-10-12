@@ -74,7 +74,7 @@ articles:
 
 # JSBRAS No. 38 (July 1902)
 
-**Series:** Journal of the Straits Branch of the Royal Asiatic Society  
+**Series:** [Journal of the Straits Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** July 1902
 
 ## Table of Contents

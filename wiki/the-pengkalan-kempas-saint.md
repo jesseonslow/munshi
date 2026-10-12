@@ -26,9 +26,9 @@ jstor: https://www.jstor.org/stable/41559773
 
 # The Pengkalan Kempas “saint”
 
-R.J. Wilkinson's short note defends the reputation of Shaikh Ahmad, the subject of the Pengkalan Kempas epitaph, against the characterization of him as a "saintly rascal" left by the inscription's decipherer, Dr. P. V. van Stein Callenfels (p. 134).
+[R.J. Wilkinson](./richard-james-wilkinson.md)'s short note defends the reputation of [Shaikh Ahmad](./shaikh-ahmad-of-sungei-ujong.md), the subject of the Pengkalan Kempas epitaph, against the characterization of him as a "saintly rascal" left by the inscription's decipherer, Dr. P. V. van Stein Callenfels (p. 134).
 
-Wilkinson argues that the epitaph, which records Shaikh Ahmad's arrival from Sungai Ujong in A.D. 1467 "for some treacherous purpose" and the subsequent death of all his followers, presents only the official version of events. Cross-referencing the Malay Annals' account of Sultan Mansur Shah's reign, Wilkinson conjectures that the Proto-Malays of Sungai Ujong had genuine grievances against local administration, that Shaikh Ahmad was their spokesman, and that they were wrongly treated as rebels. The inscription's reference to "the family of Tun Barah Galang" is identified with the *bendahara* of Klang (Tun Perak), whose authority over the fief was subsequently revoked by the Sultan as a consequence of the incident (pp. 134–135).
+Wilkinson argues that the epitaph, which records Shaikh Ahmad's arrival from Sungai Ujong in A.D. 1467 "for some treacherous purpose" and the subsequent death of all his followers, presents only the official version of events. Cross-referencing the [Malay Annals](./malay-annals.md)' account of Sultan Mansur Shah's reign, Wilkinson conjectures that the Proto-Malays of [Sungai Ujong](./sungai-ujong.md) had genuine grievances against local administration, that Shaikh Ahmad was their spokesman, and that they were wrongly treated as rebels. The inscription's reference to "the [family](./family.md) of Tun Barah Galang" is identified with the *bendahara* of [Klang](./klang.md) (Tun Perak), whose authority over the fief was subsequently revoked by the Sultan as a consequence of the incident (pp. 134–135).
 
 ## References
 <!-- Grounded occurrences and citations -->

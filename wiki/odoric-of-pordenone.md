@@ -19,7 +19,7 @@ published: false
 
 ## MBRAS Sources
 
-- Bressau, L. Odoric (1265–1331) in China and SEA. MB 70(2)
+- Bressau, L. Odoric (1265–1331) in [China](./china.md) and SEA. MB 70(2)
 
 ## References
 <!-- Grounded occurrences and citations -->

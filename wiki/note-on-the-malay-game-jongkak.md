@@ -25,13 +25,13 @@ publication_type: note
 
 # Note on the Malay game ‘jongkak’
 
-M. Hellier's note describes the rules, board, and terminology of the Malay game "jongkak," based on a playing board he obtained from Haji Othman, Visiting Teacher of Province Wellesley, and sent to the Raffles Museum for exhibition (p. 93).
+[M. Hellier](./m-hellier.md)'s note describes the rules, board, and terminology of the [Malay](./malay.md) game "jongkak," based on a playing board he obtained from Haji Othman, Visiting Teacher of [Province Wellesley](./province-wellesley.md), and sent to the [Raffles](./stamford-raffles.md) Museum for exhibition (p. 93).
 
 ## Summary
 
 Hellier records that jongkak is a two-player game, originally a women's game at Malay courts, played on a boat-shaped board with seven holes per side and a larger compartment at each end. The name is derived from "jong" (junk). Players use tamarind seeds or marbles, sowing seeds from right to left around the board; the last seed landing in the large end-hole is said to have "entered the house" (naik rumah) (p. 93).
 
-The note details the rules for continued play, the "dead" (mati) condition when the last seed falls in an empty hole, the "sacrifice" (mati bela) rule, the "once defeated" (kalah sa-papan) state, "ruined wells" (telaga burok), and the final loss condition "utterly destroyed" (mati kena abu). Hellier also notes that Skeat, who spells the game "chongkak," gives a brief description in his *Malay Magic* (p. 94).
+The note details the rules for continued play, the "dead" (mati) condition when the last seed falls in an empty hole, the "sacrifice" (mati bela) rule, the "once defeated" (kalah sa-papan) state, "ruined wells" (telaga burok), and the final loss condition "utterly destroyed" (mati kena abu). Hellier also notes that Skeat, who spells the game "chongkak," gives a brief description in his *Malay [Magic](./magic.md)* (p. 94).
 
 ## References
 <!-- Grounded occurrences and citations -->

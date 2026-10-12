@@ -144,7 +144,7 @@ articles:
   is_review: true
 - id: jmbras-10-1-p164
   slug: a-history-of-johore-1673ca1800-ad
-  title: 'A history of Johore (1673–ca.1800 A.D.)'
+  title: A history of Johore (1673–ca.1800 A.D.)
   authors:
   - R.O. Winstedt
   pages: 164–170, 1–31
@@ -153,7 +153,7 @@ articles:
 
 # JMBRAS Vol. 10, Part 1 (January 1932)
 
-**Series:** Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society  
+**Series:** Journal of the Malayan/[Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** January 1932
 
 ## Table of Contents

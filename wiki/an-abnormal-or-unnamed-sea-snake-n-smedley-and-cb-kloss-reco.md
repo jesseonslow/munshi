@@ -29,11 +29,11 @@ jstor: https://www.jstor.org/stable/41559648
 
 # An abnormal, or unnamed, sea-snake. N. Smedley and C.B. Kloss. Records of the Raffles Museum, No. 18
 
-This brief note by N. Smedley and C. B. Kloss discusses abnormal sea-snake specimens that do not conform to the expected morphology of known *Laticauda* species.
+This brief note by [N. Smedley](./n-smedley.md) and C. B. Kloss discusses abnormal sea-snake specimens that do not conform to the expected morphology of known *Laticauda* species.
 
 ## Summary
 
-The authors address specimens that appear intermediate between *L. colubrina* and *L. laticaudata*, rejecting the suggestion that they represent hybrids between the two species on the grounds that *colubrina* is common in local waters while *laticaudata* is rare and has not been recorded from the Malay Peninsula (p. 164). They favour Stejneger's interpretation of the specimens as aberrations of *L. colubrina*, while acknowledging the less likely possibility of an unnamed species. One specimen is juvenile; the others measure 4 ft 8½ in and 4 ft 2½ in, approaching the maximum length Wall records for *colubrina* (5 ft) but exceeding that of *laticaudata* (3 ft 7 in) (p. 164). The authors also critique Barbour's treatment of the two taxa as subspecies of *laticaudata*, arguing that co-occurring forms cannot be geographical subspecies (p. 164).
+The authors address specimens that appear intermediate between *L. colubrina* and *L. laticaudata*, rejecting the suggestion that they represent hybrids between the two species on the grounds that *colubrina* is common in local waters while *laticaudata* is rare and has not been recorded from the [Malay](./malay.md) Peninsula (p. 164). They favour Stejneger's interpretation of the specimens as aberrations of *L. colubrina*, while acknowledging the less likely possibility of an unnamed species. One specimen is juvenile; the others measure 4 ft 8½ in and 4 ft 2½ in, approaching the maximum length Wall records for *colubrina* (5 ft) but exceeding that of *laticaudata* (3 ft 7 in) (p. 164). The authors also critique Barbour's treatment of the two taxa as subspecies of *laticaudata*, arguing that co-occurring forms cannot be geographical subspecies (p. 164).
 
 ## References
 <!-- Grounded occurrences and citations -->

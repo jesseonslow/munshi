@@ -31,7 +31,7 @@ jstor: https://www.jstor.org/stable/41559864
 
 # Record of the ceremonial followed at the death and funeral of Yang Di-Pertuan Besar, Tuanku Muhammad, G.C.M.G., K.C.V.O., ibni al-Marhum Yam Tuan Antah, and at the proclamation of his son Tunku Abdu’l Rahman as his successor
 
-Bryson and Blelloch, both members of the Malayan Civil Service, compiled this detailed record of the death, funeral, and succession ceremony of Tuanku Muhammad, Yang Di-Pertuan Besar of Negri Sembilan, which took place on 1 and 3 August 1933. Published in 1936, the document serves as a contemporaneous administrative account of the ceremonial protocols governing the transition of rulership in Negri Sembilan, including the election of his son Tunku Abdulrahman as successor.
+Bryson and Blelloch, both members of the Malayan Civil Service, compiled this detailed record of the death, funeral, and succession ceremony of Tuanku Muhammad, Yang Di-Pertuan Besar of Negri Sembilan, which took place on 1 and 3 August 1933. Published in 1936, the document serves as a contemporaneous administrative account of the ceremonial protocols governing the transition of rulership in [Negri Sembilan](./negeri-sembilan.md), including the election of his son Tunku Abdulrahman as successor.
 
 ## Summary
 
@@ -39,13 +39,13 @@ The article documents the sequence of events from Tuanku Muhammad's death at the
 
 The funeral and proclamation sections describe the physical arrangements, the order of the cortege, the seating plan in the balai penghadapan, and the specific acts of obeisance performed by the Undang and Dato's. The authors note several points of procedural uncertainty, including the anomalous high position of the Dato' Shah Bandar in the order of precedence and the decision to omit the anak putera from the ceremonial obeisance, likely due to inability to resolve their relative ranking (pp. 275–276). The election process itself is recorded as a conclave of the four Undang in Seremban on 2 August, after which the British Resident read Section 6 of the 1898 Agreement to confirm unanimity before the decision was communicated to the High Commissioner (p. 276).
 
-The appendices preserve the original Malay texts of the Dato' Klana's proclamation speech and the new ruler's accession address, the latter explicitly affirming the continuity of the friendship and protection of Great Britain over Negri Sembilan (pp. 278–279).
+The appendices preserve the original [Malay](./malay.md) texts of the Dato' Klana's proclamation speech and the new ruler's accession address, the latter explicitly affirming the continuity of the friendship and protection of Great Britain over Negri Sembilan (pp. 278–279).
 
 ### Key Findings
 
 - Tuanku Muhammad died on 1 August 1933 after a brief illness; he had reigned for 45 years since 1898 (pp. 272, 278).
 - A 22-gun salute marked the death; a 68-gun salute was fired at the funeral, corresponding to the late ruler's age in years (pp. 272, 274).
-- The coffin was pentagonal, constructed without iron (morticed and fastened with brass and copper screws), and contained approximately nine inches of earth from the grave along with rice and herbs (p. 273).
+- The coffin was pentagonal, constructed without iron (morticed and fastened with brass and copper screws), and contained approximately nine inches of earth from the grave along with rice and [herbs](./herbs.md) (p. 273).
 - The mas manah offering from the four Undang totalled $384, comprising four bahara of $24 each from each Undang (pp. 275, 278).
 - The British Resident read Section 6 of the 1898 Agreement to the Undang at their conclave in Seremban on 2 August 1933, confirming their unanimous election of Tunku Abdulrahman (p. 276).
 - The traditional ceremonial carriage (Maharaja di-raja) was deemed inadequate for the weight of the coffin, which was instead transported on a specially adapted lorry (p. 273).

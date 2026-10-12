@@ -27,11 +27,11 @@ publication_type: note
 
 # Duarte Barbosa’s references to trade at Malacca in Cutch, Costus and Aleppo Galls
 
-I.H. Burkill's short note corrects Dames's English translation of Duarte Barbosa's gazetteer, identifying three drugs referenced in the Portuguese text as Malay terms for Indian cutch, puchok (root of *Saussurea lappa*), and Aleppo galls traded through Malacca (p. 120).
+[I.H. Burkill](./ih-burkill.md)'s short note corrects Dames's English translation of [Duarte Barbosa](./duarte-barbosa.md)'s gazetteer, identifying three drugs referenced in the Portuguese text as [Malay](./malay.md) terms for Indian cutch, puchok (root of *Saussurea lappa*), and Aleppo galls traded through [Malacca](./melaka.md) (p. 120).
 
 ## Summary
 
-Burkill argues that the Portuguese text contains two errors: a missing comma in "cachopucho" (which should be two words, *kachu* and *puchok*) and a misreading of "ni" as "m" in what should be *mangicani* (p. 120). The drugs were shipped from Gujarat to Malacca and forwarded to China and Java. Since Duarte had never been to Malacca but had been to Gujarat, Burkill concludes he obtained his information from a Malay source—most likely a captive brought to the Portuguese factories on the Malabar coast after the 1508 or 1511 expeditions against Malacca, or the enslaved Malay interpreter aboard Magellan's ship (pp. 120–121). Dames, working from the faulty Portuguese text, was misled into thinking Duarte could not identify the drugs (p. 121).
+Burkill argues that the Portuguese text contains two errors: a missing comma in "cachopucho" (which should be two words, *kachu* and *puchok*) and a misreading of "ni" as "m" in what should be *mangicani* (p. 120). The drugs were shipped from Gujarat to Malacca and forwarded to [China](./china.md) and [Java](./java.md). Since Duarte had never been to Malacca but had been to Gujarat, [Burkill](./burkill.md) concludes he obtained his information from a Malay source—most likely a captive brought to the Portuguese factories on the Malabar coast after the 1508 or 1511 expeditions against Malacca, or the enslaved Malay interpreter aboard Magellan's ship (pp. 120–121). Dames, working from the faulty Portuguese text, was misled into thinking Duarte could not identify the drugs (p. 121).
 
 ## References
 <!-- Grounded occurrences and citations -->

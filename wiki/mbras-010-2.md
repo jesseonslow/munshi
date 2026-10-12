@@ -19,8 +19,8 @@ status: stub
 published: false
 articles:
 - id: jmbras-10-2-p1
-  slug: a-malay-history-of-riau-and-johore-tuhfat-al-nafis-o-winsted
-  title: A Malay history of Riau and Johore {Tuhfat-al-Nafis}. .O. Winstedt {Jawi
+  slug: a-malay-history-of-riau-and-johore-tuhfat-al-nafis
+  title: A Malay history of Riau and Johore (Tuhfat-al-Nafis)
   authors:
   - ‘Ali bin Raja Haji Ahmad Raja Haji
   - R.O. Winstedt
@@ -30,11 +30,11 @@ articles:
 
 # JMBRAS Vol. 10, Part 2 (August 1932)
 
-**Series:** Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society  
+**Series:** Journal of the Malayan/[Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** August 1932
 
 ## Table of Contents
-* [A Malay history of Riau and Johore {Tuhfat-al-Nafis}. .O. Winstedt {Jawi](./a-malay-history-of-riau-and-johore-tuhfat-al-nafis-o-winsted.md) — [‘Ali bin Raja Haji Ahmad Raja Haji](./ali-bin-raja-haji-ahmad-raja-haji.md), [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 1–320)
+* [A Malay history of Riau and Johore (Tuhfat-al-Nafis)](./a-malay-history-of-riau-and-johore-tuhfat-al-nafis.md) — [‘Ali bin Raja Haji Ahmad Raja Haji](./ali-bin-raja-haji-ahmad-raja-haji.md), [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 1–320)
 
 ## Contributors
 * [R.O. Winstedt](./richard-olaf-winstedt.md)

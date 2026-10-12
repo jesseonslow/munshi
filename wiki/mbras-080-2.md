@@ -130,9 +130,10 @@ articles:
   pages: '104'
   is_review: false
 ---
+
 # JMBRAS Vol. 80, Part 2 (December 2007)
 
-**Series:** Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society  
+**Series:** Journal of the Malayan/[Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** December 2007
 
 ## Table of Contents

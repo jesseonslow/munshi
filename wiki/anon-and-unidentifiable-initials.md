@@ -1,7 +1,7 @@
 ---
 id: anon-and-unidentifiable-initials
-title: Anon (and unidentifiable initials)
-canonical_name: Anon (and unidentifiable initials)
+title: Anon
+canonical_name: Anon
 aliases: []
 type: person
 is_contributor: true
@@ -26,7 +26,7 @@ published: false
 - (2015) [In memoriam: K.G. Tregonning](./in-memoriam-kg-tregonning.md). *JMBRAS* 88(2): 157–159
 - (2017) [Cameron’s Highlands](./camerons-highlands.md). *JMBRAS* 90(1): 127–130
 - (2021) [Federated Malay States Museum, Kuala Lumpur, 21 September 1945, Office of Strategic Services, India Burma Theater. Facsimile reprint](./federated-malay-states-museum-kuala-lumpur-21-september-1945.md). *JMBRAS* 94(2): 197–200
-- (2023) [Country Traders, the East India Company, and the Rise of Singapore: ‘On Further Interference with the East-India Company’s Privileges of Exclusive Trade’. Facsimile reprint. With a note P. Kratoska](./country-traders-the-east-india-company-and-the-rise-of-singa.md). *JMBRAS* 96(2): 103–121
+- (2023) [Country Traders, the East India Company, and the Rise of Singapore: ‘On Further Interference with the East-India Company’s Privileges of Exclusive Trade’](./country-traders-the-east-india-company-and-the-rise-of-singa.md). *JMBRAS* 96(2): 103–121
 
 ## References
 <!-- Grounded occurrences and citations -->

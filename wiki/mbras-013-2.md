@@ -94,7 +94,7 @@ articles:
 
 # JMBRAS Vol. 13, Part 2 (October 1935)
 
-**Series:** Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society  
+**Series:** Journal of the Malayan/[Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** October 1935
 
 ## Table of Contents

@@ -12,15 +12,14 @@ status: stub
 published: false
 ---
 
-
 # John Leyden
 
 <!-- Synthesis engine: Insert introductory synthesis for John Leyden here -->
 
 ## MBRAS Sources
 
-- Bastin, J.S. John Leyden and the Sejarah Melayu. MB 75(2)
-- Hooker, M.B and V.M. (Ed.) John Leyden’s Malay Annals. Reprint 20
+- [Bastin, J.S.](./john-bastin.md) John Leyden and the [Sejarah Melayu](./sejarah-melayu.md). MB 75(2)
+- [Hooker, M.B](./mb-hooker.md) and V.M. (Ed.) John Leyden’s [Malay Annals](./malay-annals.md). Reprint 20
 
 ## Bibliography
 - (2009) [John Leyden's Translation of the Malay Annals, 1821](./john-leydens-translation-of-the-malay-annals-1821.md). *Reprint* 20: 465

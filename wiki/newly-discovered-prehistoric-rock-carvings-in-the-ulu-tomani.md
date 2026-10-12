@@ -25,9 +25,9 @@ publication_type: note
 
 # Newly discovered prehistoric rock carvings in the Ulu Tomani, Sabah
 
-This short note by Tom Harrisson documents the discovery and preliminary description of prehistoric rock carvings on a large boulder in the Ulu Tomani, Sabah, first uncovered in April 1971 and investigated in October 1972.
+This short note by [Tom Harrisson](./tom-harrisson.md) documents the discovery and preliminary description of prehistoric rock carvings on a large boulder in the Ulu Tomani, [Sabah](./sabah.md), first uncovered in April 1971 and investigated in October 1972.
 
-The carvings, executed with iron tools on the upper surface of a prominent sandstone rock overlooking the Lumuyun River, consist of several masked faces with large goggle eyes, spiralling nose lines, ear-flanges, and horn-like projections, along with a double-mask motif featuring fanged teeth and a possible hornbill head (pp. 141–142). Harrisson notes the absence of any local Tagal tradition connecting to the carvings and the lack of associated archaeological remains for dating, but argues that the style—particularly the spiralling curves and flanges—recalls art from highland Sarawak and the Apo Kayan in Kalimantan, suggesting a former continuous spread of Kelabit and Lun Daye peoples further north than their current range (p. 143).
+The carvings, executed with iron tools on the upper surface of a prominent sandstone rock overlooking the Lumuyun River, consist of several masked faces with large goggle eyes, spiralling nose lines, ear-flanges, and horn-like projections, along with a double-mask motif featuring fanged teeth and a possible hornbill head (pp. 141–142). Harrisson notes the absence of any local Tagal tradition connecting to the carvings and the lack of associated archaeological remains for dating, but argues that the style—particularly the spiralling curves and flanges—recalls art from highland [Sarawak](./sarawak.md) and the Apo Kayan in Kalimantan, suggesting a former continuous spread of Kelabit and Lun Daye peoples further north than their current range (p. 143).
 
 ## References
 <!-- Grounded occurrences and citations -->

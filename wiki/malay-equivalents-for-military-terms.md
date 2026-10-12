@@ -18,7 +18,6 @@ amendments: []
 status: stub
 published: false
 summarized: true
-source_mismatch: true
 source_doc: jmalayanras-090-hashim-malayequivalentsmilitary-1924-92fe355284ca
 source_path: ../sources/jmalayanras-090-hashim-malayequivalentsmilitary-1924-92fe355284ca.md
 publication_type: note
@@ -27,7 +26,7 @@ jstor: https://www.jstor.org/stable/41559580
 
 # Malay equivalents for military terms
 
-A brief lexical reference by Capt. N. M. Hashim providing Malay equivalents for British military ranks and organizational designations, published in the *Journal of the Malayan Branch of the Royal Asiatic Society* in 1924.
+A brief lexical reference by Capt. N. M. Hashim providing [Malay](./malay.md) equivalents for British [military](./military.md) ranks and organizational designations, published in the *[Journal of the Malayan Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* in 1924.
 
 ## Summary
 

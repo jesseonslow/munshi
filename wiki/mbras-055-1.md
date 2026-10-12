@@ -125,7 +125,7 @@ articles:
 
 # JMBRAS Vol. 55, Part 1 (July 1982)
 
-**Series:** Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society  
+**Series:** Journal of the Malayan/[Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** July 1982
 
 ## Table of Contents

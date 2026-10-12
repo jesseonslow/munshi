@@ -25,9 +25,9 @@ publication_type: note
 
 # An unusual keris Majapahit
 
-This short note by Abu Bakar bin Pawanchee describes a keris Majapahit distinguished by its handle facing the edge on the *dagu* side rather than the flat of the blade, as is conventional for this type (p. 45).
+This short note by [Abu Bakar bin Pawanchee](./abu-bakar-bin-pawanchee.md) describes a [keris](./keris.md) [Majapahit](./majapahit.md) distinguished by its handle facing the edge on the *dagu* side rather than the flat of the blade, as is conventional for this type (p. 45).
 
-The weapon is made of meteoric iron with uncontrolled *pamur* markings, is double-edged, and lacks a *ganja*. Its handle is sculpted in the form of a seated deity. The author argues for its authenticity on the basis of its small size (0.35 cm at thickest), fine workmanship, and artistic quality, distinguishing it from known Trengganu imitations which tend to be larger and thicker. He suggests it was likely made by competent *pandais* around the 15th century for a high personage, given the scarcity and cost of iron at that time (p. 45). The keris was in the collection of Major Robert Hoey of the U.S. Army Liaison Office, Singapore, who acquired it from a Peninsula Malay in Batavia (p. 46).
+The weapon is made of meteoric iron with uncontrolled *pamur* markings, is double-edged, and lacks a *ganja*. Its handle is sculpted in the form of a seated deity. The author argues for its authenticity on the basis of its small size (0.35 cm at thickest), fine workmanship, and artistic quality, distinguishing it from known [Trengganu](./terengganu.md) imitations which tend to be larger and thicker. He suggests it was likely made by competent *pandais* around the 15th century for a high personage, given the scarcity and cost of iron at that time (p. 45). The [keris](./keris.md) was in the collection of Major Robert Hoey of the U.S. Army Liaison Office, [Singapore](./singapore.md), who acquired it from a Peninsula [Malay](./malay.md) in [Batavia](./jakarta.md) (p. 46).
 
 ## References
 <!-- Grounded occurrences and citations -->

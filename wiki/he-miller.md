@@ -17,8 +17,8 @@ published: false
 ## Biography
 
 ## Bibliography
-- (1927) [Elephant terms in Perak](./elephant-terms-in-perak.md). *JMBRAS* 5(2): 364–365
-- (1941) [Extracts from the letters of Col. Nahuijs. .E. Miller](./extracts-from-the-letters-of-col-nahuijs-e-miller.md). *JMBRAS* 19(2): 169–209
+
+- (1941) [Extracts from the letters of Col. Nahuijs](./extracts-from-the-letters-of-col-nahuijs-e-miller.md). *[JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* 19(2): 169–209
 
 ## References
 <!-- Grounded occurrences and citations -->

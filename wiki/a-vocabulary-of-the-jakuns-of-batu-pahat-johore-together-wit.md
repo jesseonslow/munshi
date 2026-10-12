@@ -28,13 +28,13 @@ jstor: https://www.jstor.org/stable/41560516
 
 # A vocabulary of the Jakuns of Batu Pahat, Johore, together with some remarks on their customs and peculiarities
 
-A.D. Machado's 1902 note documents the residual vocabulary of the Jakuns of Batu Pahat, Johore, accompanied by brief observations on their customs, social relations with Malays and Chinese, and a distinctive form of circumcision (pp. 29–33).
+[A.D. Machado](./ad-machado.md)'s 1902 note documents the residual vocabulary of the Jakuns of Batu Pahat, [Johore](./johor.md), accompanied by brief observations on their customs, social relations with Malays and [Chinese](./chinese.md), and a distinctive form of circumcision (pp. 29–33).
 
 ## Summary
 
-Machado describes the Batu Pahat Jakuns as a partially assimilated group living at the headwaters of the Sembrong, Bekok, and Simpang Kiri rivers, employed by Chinese pepper and gambier cultivators and trading jungle produce with Malays. He notes their increasing cultural blending—using chopsticks, accepting Chinese marriage alliances, and feigning horror at traditional delicacies while reportedly consuming them privately—and records their self-designation as *Orang Ulu* rather than "Jakun," a term they consider an opprobrium (pp. 29–30).
+Machado describes the Batu Pahat Jakuns as a partially assimilated group living at the headwaters of the Sembrong, Bekok, and Simpang Kiri rivers, employed by Chinese [pepper](./pepper.md) and [gambier](./gambier.md) cultivators and trading jungle produce with Malays. He notes their increasing cultural blending—using chopsticks, accepting [Chinese](./chinese.md) [marriage](./marriage.md) alliances, and feigning horror at traditional delicacies while reportedly consuming them privately—and records their self-designation as *Orang Ulu* rather than "[Jakun](./jakun.md)," a term they consider an opprobrium (pp. 29–30).
 
-The ethnographic remarks include an account of a peculiar longitudinal circumcision rite, explained by a legend involving a great Batin and a Mohammedan *Pawang*, and a comparison with the northern Sakais who reject circumcision as a barrier to Islam (pp. 30–31). The bulk of the note is a list of approximately fifty Jakun words still in use, interspersed with Malay, covering kinship terms, body parts, animals, plants, and basic verbs; Machado observes that the rising generation shows little inclination to use even these remnants, and that many entries overlap with those previously collected by Lieut. Kelsall from the Endau Jakuns (pp. 31–33).
+The ethnographic remarks include an account of a peculiar longitudinal circumcision rite, explained by a legend involving a great Batin and a Mohammedan *Pawang*, and a comparison with the northern Sakais who reject circumcision as a barrier to [Islam](./islam.md) (pp. 30–31). The bulk of the note is a list of approximately fifty [Jakun](./jakun.md) words still in use, interspersed with [Malay](./malay.md), covering kinship terms, body parts, [animals](./animals.md), [plants](./plants.md), and basic verbs; Machado observes that the rising generation shows little inclination to use even these remnants, and that many entries overlap with those previously collected by Lieut. Kelsall from the Endau Jakuns (pp. 31–33).
 
 ## References
 <!-- Grounded occurrences and citations -->

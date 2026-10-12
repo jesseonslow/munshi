@@ -18,7 +18,7 @@ published: false
 
 ## MBRAS Sources
 
-- Ridley, H.N. Rhododendron in Singapore. SB 23
+- [Ridley, H.N](./henry-nicholas-ridley.md). Rhododendron in [Singapore](./singapore.md). SB 23
 
 ## References
 <!-- Grounded occurrences and citations -->

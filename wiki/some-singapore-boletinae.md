@@ -27,11 +27,11 @@ jstor: https://www.jstor.org/stable/41561287
 
 # Some Singapore Boletinae
 
-N. Patouillard and C. F. Baker published this taxonomic monograph in 1918, describing sixteen newly identified species of Boletinae (porcini and allied mushrooms) collected in a single hour's work in the Singapore Botanical Gardens in August 1917. The paper argues that the extraordinary species richness observed under optimum post-rainfall conditions warranted formal description from living material, and that all sixteen species could not be reconciled with previously recorded Far Eastern names.
+[N. Patouillard](./n-patouillard.md) and C. F. Baker published this taxonomic monograph in 1918, describing sixteen newly identified species of Boletinae (porcini and allied mushrooms) collected in a single hour's work in the [Singapore](./singapore.md) [Botanical Gardens](./botanists-and-botanical-gardens.md) in August 1917. The paper argues that the extraordinary species richness observed under optimum post-rainfall conditions warranted formal description from living material, and that all sixteen species could not be reconciled with previously recorded Far Eastern names.
 
 ## Summary
 
-The paper reports on a remarkably productive single-day collection on 21 August 1917, when an hour's work in a narrow strip on the east side of the Gardens' Jungle in the Singapore Botanical Gardens yielded specimens of sixteen species across four generic groups. The authors stress that such a showing would not have been possible on any subsequent day, indicating that the preceding period of frequent showers created optimum conditions for Boleti fruiting. All diagnoses were prepared from living plants, with measurements taken from multiple specimens and vertical section outlines drawn before the material was rapidly dried.
+The paper reports on a remarkably productive single-day collection on 21 August 1917, when an hour's work in a narrow strip on the east side of the Gardens' Jungle in the Singapore Botanical Gardens yielded specimens of sixteen species across four generic groups. The authors stress that such a showing would not have been possible on any subsequent day, indicating that the preceding period of frequent showers created optimum conditions for Boleti fruiting. All diagnoses were prepared from living [plants](./plants.md), with measurements taken from multiple specimens and vertical section outlines drawn before the material was rapidly dried.
 
 The authors devote considerable attention to the methodological problem of mycological taxonomy in the tropics, arguing that most conspicuous characters of living plants are evanescent and that dried herbarium specimens alone provide only the remotest conception of the living plant. They note that even the uniform process of drying produced striking differential effects: in *Boletus spinifer* and *Boletus umbrinellus* the flesh remained firm, while in *Boletus retisporus* and *Strobilomyces porphyrius* it collapsed rapidly, and *Boletus tristis* dried out spontaneously on an open table without heat. They conclude that no species could be crowded under previously recorded names from Berkeley, Petch, or Massee's descriptions of Ridley's collections, and that comparison of existing herbarium material would amount to "purest guess-work" (p. 67).
 
@@ -39,7 +39,7 @@ The sixteen species are organized into a dichotomous key separating them into tw
 
 ### Key Findings
 
-- Sixteen species described as new to science (*sp. nov.*), distributed across four generic groups: *Boletopsis* (3 species), *Boletus* (10 species), *Phylloporus* (1 species), and *Strobilomyces* (1 species) (pp. 67–72).
+- Sixteen species described as new to [science](./science.md) (*sp. nov.*), distributed across four generic groups: *Boletopsis* (3 species), *Boletus* (10 species), *Phylloporus* (1 species), and *Strobilomyces* (1 species) (pp. 67–72).
 - *Boletus retisporus* (No. 5000) possesses strongly reticulate-alveolate spores (12 × 9 microm., alveolae 4-, 5-, or 6-sided), a feature the authors call "quite unique in *Boletus*" and comparable only to *Tuber* (p. 72).
 - *Boletus spinifer* (No. 4994) is distinguished by numerous, rigid, reddish cystidia (60 × 10 microm.) resembling those of *Hymenochaete*, a genus otherwise unrelated to Boletinae (p. 69).
 - *Strobilomyces porphyrius* (No. 5002) has deeply squarrose, purple scaly pileus exposing yellow tissue beneath, with elongate elliptical, longitudinally striate spores (15–20 × 6–8 microm.) and flesh that darkens on exposure (p. 72).
@@ -48,12 +48,12 @@ The sixteen species are organized into a dichotomous key separating them into tw
 
 ### Conclusion
 
-Patouillard and Baker's definitive takeaway is that the Singapore Boletinae fauna is far more species-rich and taxonomically distinct than previously recognized, and that reliable identification demands detailed morphological data taken from living specimens—characters that are lost or distorted in dried material. Their work establishes a baseline of sixteen formally described species and provides a practical dichotomous key for future workers to extend comparisons across the Malay Peninsula.
+Patouillard and Baker's definitive takeaway is that the Singapore Boletinae fauna is far more species-rich and taxonomically distinct than previously recognized, and that reliable identification demands detailed morphological data taken from living specimens—characters that are lost or distorted in dried material. Their work establishes a baseline of sixteen formally described species and provides a practical dichotomous key for future workers to extend comparisons across the [Malay](./malay.md) Peninsula.
 
 ## Context
 
 - The authors were operating within the British colonial scientific infrastructure of Singapore; the collection site (Gardens' Jungle, Singapore Botanical Gardens) was a key site for tropical botanical and mycological research under the colonial administration.
-- The paper engages directly with the earlier Far Eastern mycological literature of Berkeley, Petch, and Massee (working from Ridley's collections), positioning itself as a corrective to the taxonomic uncertainty that persisted when species were described from dried specimens without living-plant data.
+- The paper engages directly with the earlier Far Eastern mycological [literature](./literature.md) of Berkeley, Petch, and Massee (working from Ridley's collections), positioning itself as a corrective to the taxonomic uncertainty that persisted when species were described from dried specimens without living-plant data.
 
 ## References
 <!-- Grounded occurrences and citations -->

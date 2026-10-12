@@ -18,7 +18,7 @@ published: false
 
 ## MBRAS Sources
 
-- Butcher, J.G. The anti-gambling petition in Perak, 1905. MB 56(1)
+- [Butcher, J.G](./jg-butcher.md). The anti-gambling petition in [Perak](./perak.md), 1905. MB 56(1)
 
 ## References
 <!-- Grounded occurrences and citations -->

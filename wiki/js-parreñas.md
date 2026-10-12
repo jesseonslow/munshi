@@ -14,7 +14,7 @@ email: parrenas@cornell.edu
 
 # J.S. Parreñas
 
-Juno Salazar Parrenas is an Assistant Professor in the Department of Science and Technology Studies at Cornell University. Her research focuses on human-animal relations, environmental issues, and efforts to institutionalize justice. She holds a PhD in Anthropology from Harvard University. *Decolonizing Extinction* is her first monograph. It has received multiple accolades including the 2019 Michelle Z. Rosaldo Prize, awarded by the Association for Feminist Anthropology.
+Juno Salazar Parrenas is an Assistant Professor in the Department of [Science](./science.md) and [Technology](./technology.md) Studies at Cornell University. Her research focuses on human-animal relations, environmental issues, and efforts to institutionalize justice. She holds a PhD in Anthropology from Harvard University. *Decolonizing Extinction* is her first monograph. It has received multiple accolades including the 2019 Michelle Z. Rosaldo Prize, awarded by the Association for Feminist [Anthropology](./anthropology.md).
 
 ## Biography
 

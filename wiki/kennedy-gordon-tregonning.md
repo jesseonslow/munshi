@@ -17,14 +17,13 @@ status: stub
 published: false
 ---
 
-
 # Kennedy Gordon Tregonning
 
 <!-- Synthesis engine: Insert introductory synthesis for Kennedy Gordon Tregonning here -->
 
 ## MBRAS Sources
 
-- [Anon](./anon-and-unidentifiable-initials.md) (2015). [In memoriam: K.G. Tregonning](./in-memoriam-kg-tregonning.md). *JMBRAS* 88(2): 157–159
+- [Anon](./anon-and-unidentifiable-initials.md) (2015). [In memoriam: K.G. Tregonning](./in-memoriam-kg-tregonning.md). *[JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* 88(2): 157–159
 
 ## Bibliography
 - (1954) [William Pryer, the founder of Sandakan](./william-pryer-the-founder-of-sandakan.md). *JMBRAS* 27(1): 35–50

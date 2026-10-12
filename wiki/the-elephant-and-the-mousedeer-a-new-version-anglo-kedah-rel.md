@@ -27,11 +27,11 @@ jstor: https://www.jstor.org/stable/41491933
 
 # The elephant and the mousedeer – a new version: Anglo-Kedah relations, 1905–1915
 
-This article by J. de Vere Allen examines Anglo-Kedah relations during the decade 1905–1915, using the metaphor of the elephant (Britain) and the mousedeer (Kedah) to frame the power dynamics between the British and the small Malay state.
+This article by J. de Vere Allen examines Anglo-[Kedah](./kedah.md) relations during the decade 1905–1915, using the metaphor of the elephant (Britain) and the mousedeer (Kedah) to frame the power dynamics between the British and the small [Malay](./malay.md) state.
 
 ## Summary
 
-The piece offers what Allen terms "a new version" of the Anglo-Kedah relationship, revisiting the conventional understanding of how British influence operated over the state of Kedah in the early twentieth century. The elephant-and-mousedeer framing signals a focus on the asymmetry of power and the degree of agency available to the smaller party within the protectorate relationship. Spanning forty pages, the article constitutes a full-length study rather than a brief note, and was published in the first issue of Volume 41 of the *Journal of the Malaysian Branch of the Royal Asiatic Society* (1968).
+The piece offers what Allen terms "a new version" of the Anglo-Kedah relationship, revisiting the conventional understanding of how British influence operated over the state of Kedah in the early twentieth century. The elephant-and-mousedeer framing signals a focus on the asymmetry of power and the degree of agency available to the smaller party within the protectorate relationship. Spanning forty pages, the article constitutes a full-length study rather than a brief note, and was published in the first issue of Volume 41 of the *[Journal of the Malaysian Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* (1968).
 
 ## References
 <!-- Grounded occurrences and citations -->

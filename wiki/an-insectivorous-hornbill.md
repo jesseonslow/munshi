@@ -27,11 +27,11 @@ jstor: https://www.jstor.org/stable/41561110
 
 # An insectivorous hornbill
 
-This is a brief note by J. C. Moulton reporting an observation of an insectivorous hornbill on the higher slopes of Penrissen in Sarawak (p. 158).
+This is a brief note by [J. C. Moulton](./john-coney-moulton.md) reporting an observation of an insectivorous hornbill on the higher slopes of Penrissen in [Sarawak](./sarawak.md) (p. 158).
 
 ## Summary
 
-The note records that a hornbill species is fairly common on the higher slopes of Penrissen but apparently found nowhere else in Sarawak. Moulton frames the observation against the general assumption that hornbills are fruit-eaters only, and cites W. T. Blanford's *Fauna of British India* (Birds, Vol. III) as the only prior reference to insect consumption by a hornbill, specifically *Dichoceros bicornis* (p. 158). The text as preserved is a fragment; the species identification and the full context of the observation are not included in the surviving portion.
+The note records that a hornbill species is fairly common on the higher slopes of Penrissen but apparently found nowhere else in [Sarawak](./sarawak.md). Moulton frames the observation against the general assumption that [hornbills](./hornbills.md) are [fruit](./fruit.md)-eaters only, and cites W. T. Blanford's *Fauna of British [India](./india.md)* (Birds, Vol. III) as the only prior reference to insect consumption by a hornbill, specifically *Dichoceros bicornis* (p. 158). The text as preserved is a fragment; the species identification and the full context of the observation are not included in the surviving portion.
 
 ## References
 <!-- Grounded occurrences and citations -->

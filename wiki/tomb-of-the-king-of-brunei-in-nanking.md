@@ -18,7 +18,6 @@ amendments: []
 status: stub
 published: false
 summarized: true
-source_mismatch: true
 source_doc: jmbras-245-suffian-tombtheking-1983-4f5c58946ef6
 source_path: ../sources/jmbras-245-suffian-tombtheking-1983-4f5c58946ef6.md
 publication_type: journal_article
@@ -26,7 +25,7 @@ publication_type: journal_article
 
 # Tomb of “The King of Brunei” in Nanking
 
-Tun Mohamed Suffian's 1983 account documents his first-hand visit to the tomb of the Bruneian king who died in Nanking in 1408 during the Yongle reign, providing a rare eyewitness description of the site and its stone figures. The article reconstructs the diplomatic and ceremonial context of the king's visit to Ming China from Chinese sources, while also recording the practical circumstances of the 1983 pilgrimage itself.
+Tun [Mohamed Suffian](./mohamed-suffian.md)'s 1983 account documents his first-hand visit to the tomb of the Bruneian king who died in Nanking in 1408 during the Yongle reign, providing a rare eyewitness description of the site and its stone figures. The article reconstructs the diplomatic and ceremonial context of the king's visit to Ming [China](./china.md) from [Chinese](./chinese.md) sources, while also recording the practical circumstances of the 1983 pilgrimage itself.
 
 ## Summary
 
@@ -34,7 +33,7 @@ Suffian, then a senior Malaysian figure, visited the tomb on 12 September 1983 d
 
 The article's central narrative draws on a Chinese booklet titled *Historical Relics in Nanking* (1981), compiled by Xing Cheng of the Yuhua District Cultural Relics Preservation Committee, to reconstruct the events of 1408. The king, identified in Chinese records as "Manaregarna" (possibly Maharaja Karna), arrived by sea in Fukian Province in August 1408 with a retinue exceeding 150 persons, including spouses, siblings, children, and ministers. He was received with extraordinary ceremony by Emperor Yongle, who hosted banquets in the Imperial Palace and housed the party at the Huitong Guest House. The king fell ill over a month after arrival and died at the age of 28 (pp. 2–3).
 
-Suffian also records the physical details of the tomb complex: a gently ascending avenue flanked by pairs of stone figures—horses, grooms, rams (signifying fidelity), lions (signifying valour), and generals (signifying high rank)—leading to a small grassy mound marking the burial site (pp. 1–2). He contrasts the Chinese government's careful preservation of historic monuments with what he implies is a different approach elsewhere, and notes the reluctance of local officials to share the Chinese text with him, citing sensitivity around references to Brunei sending tributes to the Emperor (p. 5).
+Suffian also records the physical details of the tomb complex: a gently ascending avenue flanked by pairs of stone figures—horses, grooms, rams (signifying fidelity), lions (signifying valour), and generals (signifying high rank)—leading to a small grassy mound marking the burial site (pp. 1–2). He contrasts the Chinese government's careful preservation of historic monuments with what he implies is a different approach elsewhere, and notes the reluctance of local officials to share the Chinese text with him, citing sensitivity around references to [Brunei](./brunei.md) sending tributes to the Emperor (p. 5).
 
 ### Key Findings
 
@@ -51,7 +50,7 @@ Suffian's article serves as both a personal travelogue and a modest piece of dip
 
 ## Context
 
-- The article was prompted by notes and photographs prepared by Robert Nicholl, Honorary Curator of History at the Brunei Museum, Bandar Seri Begawan, indicating an ongoing effort by Bruneian institutions to document their historical connections to China (p. 1).
+- The article was prompted by notes and photographs prepared by [Robert Nicholl](./robert-nicholl.md), Honorary Curator of History at [the Brunei Museum](./the-brunei-museum.md), Bandar Seri Begawan, indicating an ongoing effort by Bruneian institutions to document their historical connections to China (p. 1).
 - The primary Chinese source cited—Xing Cheng's *Historical Relics in Nanking* (1981)—was published for internal circulation within Cultural Relics Preservation units only, underscoring the limited accessibility of local archival material on this subject (p. 4).
 
 ## References

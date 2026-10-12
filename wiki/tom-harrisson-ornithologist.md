@@ -25,13 +25,13 @@ publication_type: obituary
 
 # Tom Harrisson, ornithologist
 
-This is a brief obituary notice by Lord Medway (Gathorne Gathorne-Hardy) commemorating Tom Harrisson's lifelong contribution to ornithology, published in JMBRAS Vol. 49 (1976).
+This is a brief obituary notice by [Lord Medway](./lord-medway.md) (Gathorne Gathorne-Hardy) commemorating [Tom Harrisson](./tom-harrisson.md)'s lifelong contribution to ornithology, published in [JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md) Vol. 49 (1976).
 
 ## Summary
 
-Medway traces Harrisson's ornithological career from his schoolboy participation in the 1928 *British Birds* heronry census and his local study of Middlesex birds, through his work on Oxford University expeditions to Lapland, Sarawak, and the New Hebrides in the early 1930s, to his tenure as Curator of the Sarawak Museum where he collected extensively in the Kelabit uplands (p. 143). The notice gives particular attention to the Loke Wan Tho/Tom Harrisson collection, funded by Dato Loke Wan Tho from 1951 to 1954, which yielded approximately 7,300 skins—3,418 of which went to the Peabody Museum, Yale—and served as a decisive stimulus for B.E. Smythies's *Birds of Borneo* (p. 144).
+Medway traces Harrisson's ornithological career from his schoolboy participation in the 1928 *British Birds* heronry census and his local study of Middlesex birds, through his work on Oxford University expeditions to Lapland, Sarawak, and the New Hebrides in the early 1930s, to his tenure as Curator of the [Sarawak](./sarawak.md) Museum where he collected extensively in the Kelabit uplands (p. 143). The notice gives particular attention to the Loke Wan Tho/Tom Harrisson collection, funded by Dato Loke Wan Tho from 1951 to 1954, which yielded approximately 7,300 skins—3,418 of which went to the Peabody Museum, Yale—and served as a decisive stimulus for B.E. Smythies's *Birds of [Borneo](./borneo.md)* (p. 144).
 
-Medway also notes Harrisson's continued interest in swiftlets, his contributions to A.L. Thomson's *New dictionary of birds*, and his later ornithological publications on sea-birds, forest understorey birds, and the Tree Sparrow's invasion of Brunei, concluding with the observation that Harrisson's ethnological and ornithological interests were inseparable in practice (p. 144).
+Medway also notes Harrisson's continued interest in swiftlets, his contributions to A.L. Thomson's *New [dictionary](./dialects-and-dictionaries.md) of birds*, and his later ornithological publications on sea-birds, forest understorey birds, and the Tree Sparrow's invasion of [Brunei](./brunei.md), concluding with the observation that Harrisson's ethnological and ornithological interests were inseparable in practice (p. 144).
 
 ## References
 <!-- Grounded occurrences and citations -->

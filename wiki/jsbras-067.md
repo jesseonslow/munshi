@@ -52,8 +52,8 @@ articles:
   pages: 85–88
   is_review: false
 - id: jsbras-67-1-p89
-  slug: a-malay-ghost-story-e-nathan
-  title: A Malay ghost story. .E. Nathan
+  slug: a-malay-ghost-story
+  title: A Malay ghost story
   authors:
   - J.E. Nathan
   pages: 89–93
@@ -90,14 +90,14 @@ articles:
 
 # JSBRAS No. 67 (December 1914)
 
-**Series:** Journal of the Straits Branch of the Royal Asiatic Society  
+**Series:** [Journal of the Straits Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** December 1914
 
 ## Table of Contents
 * [A list of the butterflies of Borneo](./a-list-of-the-butterflies-of-borneo.md) — [J.C. Moulton](./john-coney-moulton.md) (pp. 1–56)
 * [The Malay Peninsula and Europe in the past. H.P.N. Muller Abstracted from the Dutch](./the-malay-peninsula-and-europe-in-the-past-hpn-muller-abstra.md) — [P.C. Hoynck van Papendrecht](./pc-hoynck-van-papendrecht.md), [H.P.N. Muller](./hpn-muller.md) (pp. 58–84)
 * [Examen de quelques Orthopteres interessants du Musée de Sarawak](./examen-de-quelques-orthopteres-interessants-du-musée-de-sara.md) — [L. Bolivar](./l-bolivar.md) (pp. 85–88)
-* [A Malay ghost story. .E. Nathan](./a-malay-ghost-story-e-nathan.md) — [J.E. Nathan](./je-nathan.md) (pp. 89–93)
+* [A Malay ghost story](./a-malay-ghost-story.md) — [J.E. Nathan](./je-nathan.md) (pp. 89–93)
 * [A collection of Malay proverbs](./a-collection-of-malay-proverbs.md) — [J.L. Humphreys](./jl-humphreys.md) (pp. 95–123)
 * [Hand-list of the birds of Borneo](./hand-list-of-the-birds-of-borneo.md) — [J.C. Moulton](./john-coney-moulton.md) (pp. 125–191)
 * [Shaer Burong Punggok: a Malay romance](./shaer-burong-punggok-a-malay-romance.md) — [H. Overbeck](./h-overbeck.md) (pp. 193–218)

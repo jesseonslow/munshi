@@ -28,7 +28,7 @@ jstor: https://www.jstor.org/stable/41560641
 
 # Meteorological observations taken in Singapore (Lat. 1° 17’ N. Long. 103° 51’ E.), during the year 1879
 
-This is a tabular record of monthly meteorological observations for Singapore in 1879, compiled by T. Irvine Rowell, M.D., Principal Civil Medical Officer, S.S. (p. 63).
+This is a tabular record of monthly meteorological observations for [Singapore](./singapore.md) in 1879, compiled by T. Irvine Rowell, M.D., Principal Civil Medical Officer, S.S. (p. 63).
 
 ## Summary
 

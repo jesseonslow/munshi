@@ -26,11 +26,11 @@ jstor: https://www.jstor.org/stable/41503210
 
 # The stamped wares from Johore Lama
 
-This short note by G. de G. Sieveking corrects the earlier identification of stamped earthenware from Johore Lama as Han dynasty Chinese pottery, reassigning it to local Malay Peninsula production of the nineteenth or twentieth century (p. 194).
+This short note by [G. de G. Sieveking](./g-de-g-sieveking.md) corrects the earlier identification of stamped earthenware from [Johore](./johor.md) Lama as Han dynasty [Chinese](./chinese.md) [pottery](./pottery.md), reassigning it to local [Malay](./malay.md) Peninsula production of the nineteenth or twentieth century (p. 194).
 
 ## Summary
 
-Sieveking argues that the paste, firing, and design quality of the Johore Lama stamped wares differ markedly from typical Han pottery and instead closely resemble yellowish-white paddle-marked vessels from Singgora in the Patani states, examples of which are held in the Perak and Raffles Museums (p. 194). The dating was confirmed when a large rim and body fragment was recovered in 1953 from between the inner and outer skins of a Chinese *twakoo* (Boat B) excavated at the site, a vessel probably engaged in trade with Singapore and the Riau Archipelago some fifty to a hundred years before the excavation (p. 194). Material from the boat was sent to the Cavendish Laboratory, Cambridge, for Carbon-14 dating (p. 194).
+Sieveking argues that the paste, firing, and design quality of the Johore Lama stamped wares differ markedly from typical Han pottery and instead closely resemble yellowish-white paddle-marked vessels from Singgora in the [Patani](./patani.md) states, examples of which are held in the [Perak](./perak.md) and [Raffles](./stamford-raffles.md) [Museums](./museums.md) (p. 194). The dating was confirmed when a large rim and body fragment was recovered in 1953 from between the inner and outer skins of a Chinese *twakoo* (Boat B) excavated at the site, a vessel probably engaged in trade with [Singapore](./singapore.md) and the [Riau Archipelago](./riau-archipelago.md) some fifty to a hundred years before the excavation (p. 194). Material from the boat was sent to the Cavendish Laboratory, Cambridge, for Carbon-14 dating (p. 194).
 
 ## References
 <!-- Grounded occurrences and citations -->

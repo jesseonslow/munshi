@@ -26,11 +26,11 @@ publication_type: note
 
 # The circumstances attending the murder in 1859, of the botanist James Motley
 
-This brief note by I. H. Burkill (1918) describes the circumstances of the 1859 murder of the botanist James Motley during a Dyak uprising in the Banjermassin region of Borneo.
+This brief note by I. H. [Burkill](./burkill.md) (1918) describes the circumstances of the 1859 murder of the botanist [James Motley](./james-motley.md) during a Dyak uprising in the Banjermassin region of [Borneo](./borneo.md).
 
 ## Summary
 
-The fragment recounts how plotters exploited religious fanaticism, producing a man who claimed divine origin, to instigate the Dyaks to rise on 28 April 1859 (p. 38). After an initial attack on the mines at Pengaron, the insurgents attacked Motley's mines three days later, killing Motley at Bangkal and his wife and three children at Kalangan, where they also murdered the rest of the company's staff, their wives and children, all except a few infants (p. 38). A Dutch political officer and several missionaries were also killed in the same region around the same date. The fighting extended to Banjermassin itself and was not quelled for two years (p. 38).
+The fragment recounts how plotters exploited religious fanaticism, producing a man who claimed divine origin, to instigate the [Dyaks](./dayaks.md) to rise on 28 April 1859 (p. 38). After an initial attack on the mines at Pengaron, the insurgents attacked Motley's mines three days later, killing Motley at Bangkal and his wife and three children at Kalangan, where they also murdered the rest of the company's staff, their wives and children, all except a few infants (p. 38). A Dutch political officer and several missionaries were also killed in the same region around the same date. The fighting extended to Banjermassin itself and was not quelled for two years (p. 38).
 
 ## References
 <!-- Grounded occurrences and citations -->
