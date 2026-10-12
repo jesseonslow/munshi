@@ -20,3 +20,4 @@ venv/
 ENV/
 
 triage/*
+models/*
