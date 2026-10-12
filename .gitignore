@@ -1,6 +1,8 @@
 */.venv
 .env
 sources/
+wiki/.zvec-grep/
+wiki/local/
 db/entity_ledger.db
 __pycache__/*
 */*/__pycache__/*
