@@ -1,64 +1,82 @@
-# Mat Munshi
+# Munshi
 
-A digital archival ingestion, entity ledger, and knowledge synthesis pipeline designed to convert digitized historical publications from the Malaysian Branch of the Royal Asiatic Society (JSBRAS, JMBRAS, monographs, and reprints) into an interlinked, verifiable encyclopedia.
+A digital archival ingestion, entity ledger, and knowledge synthesis pipeline designed to convert ~150 years of digitized historical publications from the Malaysian Branch of the Royal Asiatic Society (JSBRAS, JMBRAS, monographs, and reprints) into a permanent, interlinked, verifiable encyclopedia.
 
-The system replaces conversational RAG with deterministic archival processing: layout-aware document extraction, permanent page-level HTML anchors (`<span id="page-N"></span>`), a canonical entity occurrence ledger, and an Open Knowledge Format (OKF v0.2) synthesis engine.
+Rather than relying on conversational runtime RAG or unpredictable vector similarity, Munshi implements a file-first compile-time architecture: layout-aware document extraction, deterministic page-level HTML anchors (`<span id="page-N"></span>`), a top-down authority taxonomy (Index Malaysiana), an autonomous policy-driven bot engine, and an Open Knowledge Format (OKF v0.2) synthesis pipeline.
 
 ---
 
 ## Architecture Overview
 
-Raw Archive PDFs
-      │
-      ▼
-[apps/docproc] (MuPDF Layout + Qwen VL OCR + LLM Metadata)
-      │
-      ▼
-Outputs: text_blocks.jsonl, documents.jsonl, footnotes.jsonl, figures.jsonl
-      │
-      ▼
-[apps/stitcher] (Deterministic Markdown Compilation)
-      │
-      ├──▶ data/{doc_id}/{doc_id}.md (Source Markdown with  anchors)
-      │
-      ├─────────────────────────────────────────┐
-      ▼                                         ▼
-[zvec-grep (zg)] (Hybrid / Lexical Search)    [apps/ledger] (NER Sweep & Entity Resolution)
-      │                                         │
-      ▼                                         ▼
-.zvec-grep/ Index Store                     ledger/entity_ledger.db (SQLite)
-      │                                         │
-      └───────────────────┬─────────────────────┘
-                          ▼
-                          [apps/synthesizer] (Dual Retrieval: Ledger + Semantic Context)
-                          │
-                          ▼
-                          content/wiki/concepts/*.md (Open Knowledge Format)
-                          │
-                          ▼
-                          Static Discovery & Public Web (Astro)
-
-                          ---
+```
+                        Raw Archival PDFs / Scans
+                                  │
+                                  ▼
+         ┌──────────────────────────────────────────────────┐
+         │ 1. apps/docproc (PyMuPDF Layout & VLM Extraction)│
+         └────────────────────────┬─────────────────────────┘
+                                  │ JSONL Records (text_blocks, docs, figures)
+                                  ▼
+         ┌──────────────────────────────────────────────────┐
+         │ 2. apps/stitcher (Source Reassembly)             │
+         └────────────────────────┬─────────────────────────┘
+                                  │ Stitched Sources with <span id="page-N"></span>
+                                  ▼
+                            sources/*.md
+                                  │
+            ┌─────────────────────┴───────────────────────┐
+            │                                             │
+            ▼                                             ▼
+┌───────────────────────┐                     ┌───────────────────────┐
+│ apps/summarizer       │                     │ db/ (Authority Spine) │
+│ Single-publication    │                     │ seed_dictionary.db    │
+│ lede & contextualizer │                     │ authority_index.json  │
+└───────────┬───────────┘                     └───────────┬───────────┘
+            │                                             │
+            ▼                                             ▼
+┌─────────────────────────────────────────────────────────────────────┐
+│ 3. wiki/*.md (Canonical Knowledge Base - Flat Namespace)            │
+│    Publications, Persons, Concepts, Places, Events, Issues          │
+└───────────────────────────┬─────────────────────────────────────────┘
+                            │
+       ┌────────────────────┼────────────────────┐
+       ▼                    ▼                    ▼
+┌──────────────┐   ┌─────────────────┐   ┌─────────────────┐
+│ apps/bots    │   │ apps/synthesizer│   │ apps/api & admin│
+│ Autonomous   │   │ OKF Topic &     │   │ FastAPI control │
+│ Policy Bots  │   │ Entity Synthesis│   │ plane & Streamlit│
+│ (Gibson, etc)│   │ (Jinja2 Models) │   │ ops cockpit     │
+└──────────────┘   └─────────────────┘   └─────────────────┘
+```
 
 ## Monorepo Layout
 
-The workspace is organized into modular Python packages and shared storage:
+The repository is managed via a root `uv` workspace coordinating specialized applications under `apps/`:
 
-```text
+```
 munshi/
+├── pyproject.toml              # Root uv workspace definition
+├── uv.lock                     # Monorepo lockfile
+├── .env.example                # Shared environment configuration template
+│
 ├── apps/
-│   ├── docproc/          # PDF layout analysis, VLM OCR, and metadata enrichment
-│   ├── stitcher/         # Compiles JSONL records into continuous Markdown with page anchors
-│   ├── ledger/           # GLiNER entity extraction, alias resolution, and SQLite ledger
-│   └── synthesizer/      # Dual-retrieval OKF article compiler and prompt templates
-├── db/                   # Seed authority dictionaries and canonical indices
-├── ledger/               # SQLite databases and persistent vector caches
-│   ├── entity_ledger.db  # Canonical entities, occurrences, and alias mappings
-│   └── authority_index.json # Parsed Index Malaysiana authority records
-├── sources/                 # Extracted JSONL artifacts and stitched source Markdown
-├── content/              # Synthesized output Wiki Markdown pages (OKF v0.2)
-├── .env.example          # Environment variable template
-└── pyproject.toml        # Root workspace configuration
+│   ├── admin/                  # Streamlit operational cockpit & pipeline inspector
+│   ├── api/                    # FastAPI control plane, janitor mutations, & audit router
+│   ├── bots/                   # Autonomous policy-driven agent runner (runner/engine/providers)
+│   ├── docproc/                # PDF layout analysis, OCR, and VLM extraction pipeline
+│   ├── ledger/                 # Authority indexer, SQLite ledger builder, & resolution
+│   ├── stitcher/               # Deterministic JSONL-to-Markdown source compiler
+│   ├── summarizer/             # Single-document historiographical summarization engine
+│   └── synthesizer/            # Multi-document OKF encyclopedia synthesis pipeline
+│
+├── db/                         # Authority definitions, dictionaries, and index stores
+│   ├── seed_dictionary.db      # Master Index Malaysiana taxonomic database
+│   ├── authority_index.json    # Compiled authority records
+│   └── entity_ledger.db        # Entity occurrences and verified citation ledger
+│
+├── sources/                    # Stitched primary source Markdown files with <span id="page-N">
+├── wiki/                       # Canonical flat encyclopedia Markdown files (OKF v0.2)
+└── utils/                      # Low-level maintenance scripts (heading repair, wikification)
 ```
 
 ---
@@ -67,8 +85,8 @@ munshi/
 
 ### 1. Document Processor (`apps/docproc`)
 Handles primary ingestion of raw historical PDFs:
-* **Layout Analysis & OCR**: Fast bounding box, text block, and footnote boundary detection via PyMuPDF, with difficult page OCR and figure transcription handled via vision models (e.g. Qwen2.5-VL / Qwen3-VL via OpenRouter).
-* **Metadata & Classification**: Extracts bibliographic metadata (title, author, volume, year) and classifies publication types.
+* **Layout Analysis**: Native bounding box detection, text block segmentation, and footnote boundary isolation via PyMuPDF.
+* **VLM Transcription**: Difficult pages, degraded typography, and plates are routed to vision models (e.g., Qwen-VL / Flash models via OpenRouter).
 * **Outputs**: Emits structured JSONL bundles (`documents.jsonl`, `text_blocks.jsonl`, `footnotes.jsonl`, `figures.jsonl`, `plates.jsonl`).
 
 ### 2. Archival Stitcher (`apps/stitcher`)
@@ -77,21 +95,23 @@ Compiles structured JSONL bundles into continuous Markdown files:
 * Normalizes inline markdown footnotes (`[^N]`) and links them to page coordinates.
 * Resolves image and plate placements directly into the reading flow.
 
-### 3. Retrieval & Indexing (`zvec-grep`)
-* Provides in-process vector and lexical indexing (`zg`) over stitched Markdown sources.
-* Supports exact citation lookup (`--fts`) and hybrid semantic context retrieval (`--human`) with preserved line and page anchor positions.
+### 3. Publication Summarizer (`apps/summarizer`)
+Ingests primary sources from `sources/` and populates publication stubs in wiki/:
+* Produces two-tier analytical overviews: introductory lede paragraphs, deep summaries (findings and conclusions), and historiographical context blocks.
+* Emits grounded page citations linking back to source anchors: `([p. X](/sources/{doc_id}#page-X))`.
+* Automatically parses frontmatter abstracts and keywords directly from source files without token waste.
 
-### 4. Entity Ledger (`apps/ledger`)
-Maintains an authoritative SQLite database of historical actors, places, and events:
-* **Extraction Sweep**: Sliding-window NER passes over compiled Markdown to surface canonical entities and text context snippets.
-* **Authority Resolution**: Normalizes variants and aliases against `Index Malaysiana` authority headwords.
-* **Noise Mitigation**: Manages stopword patterns and suppression lists to keep synthesis candidate queues clean.
+### 4. Wiki Synthesizer (`apps/synthesizer`)
+Compiles multi-source, comprehensive entries across topics, actors, and events:
+* **Evidence Gathering**: Aggregates verified citations, occurrence snippets, and pre-computed summaries across the corpus.
+* **Jinja2 Archetype Templates**: Renders domain-specific prompt layouts (`person`, `place`, `event`, `concept`, `group`).
+* **MBRAS Style Compliance**: Enforces British English orthography, Oxford comma usage, and translation of non-English terms on first mention while avoiding colonial pejoratives.
 
-### 5. Wiki Synthesizer (`apps/synthesizer`)
-Compiles comprehensive, fully grounded historical encyclopedia entries:
-* **Dual Retrieval**: Simultaneously queries exact occurrence coordinates from SQLite and semantic context windows via `zvec-grep`.
-* **Template Generation**: Routes evidence bundles through archetype-specific Jinja2 prompts (`person`, `place`, `event`, `concept`, `group`, `publication`).
-* **Strict Evidence Grounding**: Enforces inline citations to exact document page coordinates: `([Source: doc_id, p. N](/sources/doc_id#page-N))`.
+### 5. Autonomous Maintenance Bots (`apps/bots`)
+Declarative, policy-driven agents that crawl wiki/*.md and apply structured modifications:
+* **Runner & Engine**: A unified async runner (`munshi_bots.runner`) evaluates target pages against declarative Markdown policies (`policies/*.md`).
+* **Candidate Providers**: Pluggable providers (`SourceCandidateProvider`, `SurfaceMentionCandidateProvider`) supply contextual candidates without running heavy shell commands.
+* **Safe Mutations**: LLMs output structured JSON patches; pure Python mutators apply atomic YAML frontmatter and prose hyperlink edits.
 
 ---
 
@@ -100,49 +120,48 @@ Compiles comprehensive, fully grounded historical encyclopedia entries:
 ### Prerequisites
 * Python 3.11+
 * [uv](https://github.com/astral-sh/uv) (recommended package and workspace manager)
-* SQLite 3
-* [zvec-grep (`zg`)](https://github.com/alibaba/zvec) CLI installed on PATH
+* OpenRouter API key
 
 ### Configuration
 Copy the example environment file to the repository root and configure your API keys:
 
 ```bash
-cp .env.example .env```
+cp .env.example .env
+```
 
-Key environment variables:
+### Installation
+Sync all workspace packages and dependencies in editable mode:
 
-OPENROUTER_API_KEY="sk-or-v1-..."
-DOCPROC_LLM_PROVIDER="openrouter"
-DOCPROC_OCR_MODEL="qwen/qwen-2.5-vl-72b-instruct"
-DOCPROC_REASONING_MODEL="qwen/qwen-2.5-7b-instruct"
-MUNSHI_SYNTHESIS_MODEL="google/gemini-2.5-flash"
-DATA_DIR="data"
-LEDGER_DB="ledger/entity_ledger.db"
-AUTHORITY_INDEX="ledger/authority_index.json"
+```bash
+uv sync
 ```
 
 ---
 
-## Standard Workflow
+## Common Workflow
 
-### 1. Process Raw Archival Documents
+### Processing Sources & Summaries
 Run ingestion over single documents or directory batches:
 
 ```bash
-# Process a single scanned PDF
-uv run --package munshi-docproc munshi-docproc process path/to/document.pdf --out-dir data
+# Process a PDF scan
+uv run --package munshi-docproc munshi-docproc process /path/to/scan.pdf --out-dir data
 
-# Stitch JSONL artifacts into anchored Markdown
+# Stitch JSONL artifacts into anchored source Markdown
 uv run --package munshi-stitcher python apps/stitcher/stitcher.py
+
+# Summarize a target publication into wiki/
+uv run --package munshi-summarizer munshi-summarize --target supplying-coal-and-piracy --execute
 ```
 
-### 2. Index Compiled Sources
-Index the generated Markdown corpus for hybrid and lexical search:
+### Topic Synthesis
 
 ```bash
-cd data
-zg index --embedding local/potion-retrieval-32m
-cd ..
+# Synthesize an individual topic entry
+uv run --package munshi-synthesizer munshi-synthesizer synthesize "Tin Mining" --execute
+
+# Batch-synthesize pending topic candidates
+uv run --package munshi-synthesizer munshi-synthesizer batch --execute
 ```
 
 ### 3. Extract Entities & Build the Ledger
@@ -156,20 +175,12 @@ uv run --package munshi-ledger munshi-ledger build-authority
 uv run --package munshi-ledger munshi-ledger sweep
 ```
 
-### 4. Synthesize Wiki Articles
-Compile cited Open Knowledge Format articles for target entities:
+### Running Wiki Maintenance Bots
 
 ```bash
-# Dry run: Inspect evidence aggregation and rendered prompt
-uv run --package munshi-synthesizer munshi-synthesize synthesize "Frank Swettenham"
+# Execute a declarative bot policy (e.g., Gibson bot for source-stub verification)
+uv run --package munshi-bots python -m munshi_bots.runner gibson
 
-# Live execution: Synthesize article and commit to Wiki directory
-uv run --package munshi-synthesizer munshi-synthesize synthesize "Frank Swettenham" --execute
+# Dry-run a policy with candidate debugging
+uv run --package munshi-bots python -m munshi_bots.runner ridley --dry-run
 ```
-
----
-
-## Output Standards
-
-* **Source Markdown**: Preserved at `data/{doc_id}/{doc_id}.md` with YAML frontmatter, `<span id="page-N"></span>` markers before each page boundary, and resolved footnote definitions.
-* **Synthesized Concept Pages**: Saved to `content/wiki/concepts/{slug}.md` adhering to OKF v0.2, containing entity metadata, thematic sections, inline citation anchors, and archival bibliographies.
