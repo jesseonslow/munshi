@@ -12,15 +12,12 @@ is_cluster: false
 is_contributor: false
 status: stub
 published: false
+type: concept
+generated: true
 ---
 
 # Arthur Warren Swete O'Sullivan
 
-<!-- Synthesis engine: Insert introductory synthesis for Arthur Warren Swete O'Sullivan here -->
-
 ## MBRAS Sources
 
-- [Bland, R.N](./rn-bland.md). Obituary. SB 41
-
-## References
-<!-- Grounded occurrences and citations -->
+- [Bland, R.N](./rn-bland.md). [Obituary](./obituary-aws-o-sullivan.md). *SBRAS* 41: x

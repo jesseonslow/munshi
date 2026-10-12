@@ -18,7 +18,7 @@ published: false
 
 ## MBRAS Sources
 
-- [Corner, E.J.H.](./edred-john-henry-corner.md) Malayan species of Ficus: covellia and neomorphe. MB 11(1)
+- [Corner, E.J.H.](./edred-john-henry-corner.md)[ Malayan species of Ficus: covellia and neomorphe](./a-revision-of-the-malayan-species-of-ficus-covellia-and-neomorphe.md). MB 11(1)
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -24,7 +24,7 @@ published: false
 
 ## MBRAS Sources
 
-<!-- Seed entries or targeted retrieval for White tiger -->
+- [K. Sim](./k-sim.md) (1950). [The “white tiger” in Penang](./the-white-tiger-in-penang.md). *JMBRAS* 23: 142–144
 
 ## References
 <!-- Grounded occurrences and citations -->

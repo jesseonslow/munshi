@@ -1,9 +1,10 @@
 ---
 id: c-hose
-title: C. Hose
-canonical_name: C. Hose
+title: Charles Hose
+canonical_name: Charles Hose
 aliases:
-- Hose, C
+- Hose, C.
+- C. Hose
 type: person
 is_contributor: true
 status: stub

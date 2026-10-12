@@ -11,15 +11,15 @@ is_cluster: false
 is_contributor: false
 status: stub
 published: false
+type: concept
+generated: true
 ---
 
 # Charles Otto Blagden
 
-<!-- Synthesis engine: Insert introductory synthesis for Charles Otto Blagden here -->
 
 ## MBRAS Sources
 
-- [Linehan, W](./w-linehan.md). Obituary. MB 23(1)
+- [Linehan, W](./w-linehan.md). [Obituary](./co-blagden-obituary.md). *JMBRAS* 23(1)
 
 ## References
-<!-- Grounded occurrences and citations -->

@@ -19,11 +19,9 @@ type: person
 
 # Anthony Haydock Hill
 
-<!-- Synthesis engine: Insert introductory synthesis for Anthony Haydock Hill here -->
-
 ## MBRAS Sources
 
-- [Anon](./anon-and-unidentifiable-initials.md) (J.W.G.C). Obituary. MB 35(1)
+- [Anon (J.W.G.C)](./anon-and-unidentifiable-initials.md). [Obituary](./obituary-anthony-haydock-hill.md) . MB 35(1)
 
 ## Bibliography
 - (1949) [The weaving industry in Trengganu](./the-weaving-industry-in-trengganu.md). *JMBRAS* 22(3): 75–84
@@ -40,4 +38,3 @@ type: person
 - (1998) [Keris and other Malay Weapons](./keris-and-other-malay-weapons.md). *Reprint* 16: 183
 
 ## References
-<!-- Grounded occurrences and citations -->

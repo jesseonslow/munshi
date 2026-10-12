@@ -24,6 +24,8 @@ contributors:
   name: R.S. Shelford
 - id: wl-abbott
   name: W.L. Abbott
+- id: rn-bland
+  name: R.N. Bland
 parent_hub: journal-of-the-malaysian-branch-of-the-royal-asiatic-society
 status: stub
 published: false
@@ -98,6 +100,13 @@ articles:
   - W.L. Abbott
   pages: 128–129
   is_review: false
+- id: jsbras-41-1-px
+  slug: obituary-aws-o-sullivan
+  title: Obituary. Arthur W. S. O'Sullivan
+  authors:
+  - R.N. Bland
+  pages: x
+  is_review: false
 - id: jsbras-41-1-p129
   slug: the-orang-laut-of-singapore
   title: The Orang Laut of Singapore
@@ -113,6 +122,7 @@ articles:
 **Date:** January 1904
 
 ## Table of Contents
+* [Obituary: A.W.S. O'Sullivan](./obituary-aws-o-sullivan.md) — [R.N. Bland](./rn-bland) (p. x)
 * [Two Sea-Dayak legends. {With a note H.N. Ridley](./two-sea-dayak-legends-with-a-note-hn-ridley.md) — [E.H. Gomes](./eh-gomes.md) (pp. 1–29)
 * [New Malayan plants](./new-malayan-plants.md) — [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 31–51)
 * [Notes on a cruise in the Southern China Sea](./notes-on-a-cruise-in-the-southern-china-sea.md) — [C.B. Kloss](./cb-kloss.md) (pp. 53–80)
@@ -126,6 +136,7 @@ articles:
 * [The Orang Laut of Singapore](./the-orang-laut-of-singapore.md) — [H.N. Ridley](./henry-nicholas-ridley.md) (pp. 129–130)
 
 ## Contributors
+* [R.N. Bland](./rn-bland)
 * [C.B. Kloss](./cb-kloss.md)
 * [E.H. Gomes](./eh-gomes.md)
 * [G.B. Cerruti](./gb-cerruti.md)
@@ -133,6 +144,3 @@ articles:
 * [P. Cameron](./p-cameron.md)
 * [R.S. Shelford](./rs-shelford.md)
 * [W.L. Abbott](./wl-abbott.md)
-
-## References
-<!-- Grounded occurrences and citations -->

@@ -27,6 +27,10 @@ published: false
 - (1910) [Story of the Burong Geruda and the Raja Merong Mahawangsa](./story-of-the-burong-geruda-and-the-raja-merong-mahawangsa.md). *JSBRAS* 54: 107–115
 - (1911) [Right Revd. George Frederick Hose, D.D. Bishop of Singapore and Sarawak, 1881–1908](./right-revd-george-frederick-hose-dd-bishop-of-singapore-and-.md). *JSBRAS* 57: 1–4
 
+### Obituaries
+
+- (1904) [Arthur Warren Swete O'Sullivan](./obituary-aws-o-sullivan.md)
+
 ### Reviews
 - (1900) Negritos. A.B. Meyer. *JSBRAS* 34: 35–38
 

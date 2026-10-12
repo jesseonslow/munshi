@@ -136,8 +136,8 @@ The style used is perhaps gently archaic, recalling to mind mid-Victorian prose 
     21. Rock-Pictures in [New Guinea](./new-guinea.md)
     22. Astronomy
 - N &amp; Q 4
-  - **[Botany](./botany.md)**
-    1. The [Brinjal](./brinjal.md)
+  - **Botany**
+    1. The Brinjal
     2. Ketiar
   - **Language**
     3. Malays
@@ -148,7 +148,7 @@ The style used is perhaps gently archaic, recalling to mind mid-Victorian prose 
     8. Galgal
     9. Jam
     10. Manuk
-    11. The [Sakai](./sakai.md) Language
+    11. The Sakai Language
   - **History**
     12. English Trade with Perak
     13. [The Founding of Singapore](./the-founding-of-singapore.md)

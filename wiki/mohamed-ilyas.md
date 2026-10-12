@@ -2,7 +2,8 @@
 id: mohamed-ilyas
 title: Mohamed Ilyas
 canonical_name: Mohamed Ilyas
-aliases: []
+aliases: 
+- Mohammed Ilyas
 type: person
 is_contributor: true
 status: stub
