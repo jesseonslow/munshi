@@ -2,6 +2,7 @@
 """
 utils/wikify.py
 High-throughput deterministic inline wikification using an in-memory Keyword Trie.
+Leaves MBRAS Sources, References, and Bibliography blocks unlinked.
 """
 from __future__ import annotations
 
@@ -16,15 +17,6 @@ import yaml
 from flashtext import KeywordProcessor
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
-
-# Generic terms that exist as articles/topics but should NOT be auto-linked
-GENERIC_CONCEPT_BLACKLIST = {
-    "roads", "trade", "rice", "tin", "opium", "rubber", "currency", 
-    "notes", "letters", "reports", "indexes", "treaties", "customs",
-    "maps", "boats", "birds", "insects", "mines", "forests", "laws",
-    "article", "journal", "review", "summary", "context", "history"
-}
-
 
 def read_frontmatter(path: Path) -> tuple[dict[str, Any], str]:
     content = path.read_text(encoding="utf-8")
@@ -63,13 +55,10 @@ def build_keyword_processor(wiki_dir: Path) -> KeywordProcessor:
             fm, _ = read_frontmatter(md_path)
             slug = md_path.stem
             
-            # Map Title
             title = str(fm.get("title") or slug.replace("-", " ")).strip()
             if len(title) >= 4 and title.lower() not in GENERIC_CONCEPT_BLACKLIST:
-                # kp.add_keyword(surface_string, clean_payload)
                 kp.add_keyword(title, (title, slug))
 
-            # Map Aliases
             aliases = fm.get("aliases") or []
             if isinstance(aliases, str):
                 aliases = [aliases]
@@ -93,8 +82,8 @@ def wikify_body(body: str, kp: KeywordProcessor, current_slug: str) -> tuple[str
     for block in blocks:
         stripped = block.strip()
         
-        # Stop processing if we hit the references section
-        if stripped.startswith("## References"):
+        # Stop processing upon reaching bibliography, sources, or reference sections
+        if stripped.startswith(("## MBRAS Sources", "## References", "## Bibliography")):
             new_blocks.append(block)
             new_blocks.extend(blocks[len(new_blocks):])
             break
@@ -104,13 +93,11 @@ def wikify_body(body: str, kp: KeywordProcessor, current_slug: str) -> tuple[str
             new_blocks.append(block)
             continue
 
-        # Extract matches in this block in a single pass (O(text length))
         matches = kp.extract_keywords(block, span_info=True)
         if not matches:
             new_blocks.append(block)
             continue
 
-        # Sort matches by span start in reverse order so replacements don't shift offsets
         matches_sorted = sorted(matches, key=lambda m: m[1], reverse=True)
 
         for payload, start, end in matches_sorted:
@@ -119,26 +106,22 @@ def wikify_body(body: str, kp: KeywordProcessor, current_slug: str) -> tuple[str
             if target_slug in already_linked:
                 continue
 
-            # Verify the match is NOT already inside Markdown link brackets [...] or (...)
             preceding_text = block[:start]
             following_text = block[end:]
             
-            # Check if this span is enclosed by an existing link
             last_open_bracket = preceding_text.rfind("[")
             last_close_bracket = preceding_text.rfind("]")
             if last_open_bracket > last_close_bracket:
-                continue  # Inside [anchor text]
+                continue
 
             last_open_paren = preceding_text.rfind("(")
             last_close_paren = preceding_text.rfind(")")
             if last_open_paren > last_close_paren:
-                continue  # Inside (url path)
+                continue
 
-            # Do not link if followed immediately by a link target (e.g. anchor already formed)
             if following_text.startswith("](") or following_text.startswith("]"):
                 continue
 
-            # Splice replacement
             actual_text = block[start:end]
             replacement = f"[{actual_text}](./{target_slug}.md)"
             block = block[:start] + replacement + block[end:]
@@ -157,7 +140,7 @@ def main() -> None:
         "--wiki-dir",
         type=Path,
         default=REPO_ROOT / "wiki",
-        help="Path to the flat wiki directory (defaults to ./wiki at repo root)",
+        help="Path to the flat wiki directory",
     )
     parser.add_argument(
         "--execute",
@@ -167,7 +150,6 @@ def main() -> None:
     args = parser.parse_args()
 
     wiki_dir: Path = args.wiki_dir.resolve()
-    print(f"Target wiki directory: {wiki_dir}")
     if not wiki_dir.exists():
         print(f"Error: Wiki directory '{wiki_dir}' does not exist.")
         return
