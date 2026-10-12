@@ -1,11 +1,28 @@
 #!/usr/bin/env python3
-"""Repairs heading levels, moves cluster lists, and removes residual boilerplate in generated files."""
+"""Repairs heading levels, removes body H1s, prunes orphaned headings,
+
+and relocates cluster blocks in generated topic files.
+"""
 
 from __future__ import annotations
 
 import pathlib
 import re
 import yaml
+
+
+def prune_empty_headings(text: str) -> str:
+    """Recursively removes headings (H2-H4) that have no body prose before
+
+    the next heading or EOF.
+    """
+    pattern = re.compile(r"(?m)^#{2,4}\s+[^\n]+\s*(?=\n+#{2,4}\s+|\Z)")
+    while True:
+        cleaned = pattern.sub("", text).strip()
+        if cleaned == text.strip():
+            break
+        text = cleaned
+    return text
 
 
 def repair_file(file_path: pathlib.Path) -> bool:
@@ -36,15 +53,20 @@ def repair_file(file_path: pathlib.Path) -> bool:
     pre_mbras = mbras_split[0].strip()
     mbras_tail = "## MBRAS Sources\n\n" + mbras_split[1].strip()
 
-    # 1. Clean residual boilerplate scaffolds and empty HTML comments
+    # 1. Clean synthesis comments and scaffolds
     pre_mbras_clean = re.sub(
-        r"(?m)^##\s+[^\n]+\n+\s*<!--\s*Synthesis engine:[^>]*-->\n*",
+        r"(?m)^##\s+[^\n]+\n+\s*<!--\s*(?:Synthesis engine|Summarizer):[^>]*-->\n*",
         "",
         pre_mbras,
     )
-    pre_mbras_clean = re.sub(r"<!--\s*Synthesis engine:[^>]*-->\n*", "", pre_mbras_clean).strip()
+    pre_mbras_clean = re.sub(
+        r"<!--\s*(?:Synthesis engine|Summarizer):[^>]*-->\n*", "", pre_mbras_clean
+    ).strip()
 
-    # 2. Extract ## Members & Sub-Topics if present
+    # 2. Strip any H1 titles from body prose
+    pre_mbras_clean = re.sub(r"(?m)^#\s+[^\n]+\n*", "", pre_mbras_clean).strip()
+
+    # 3. Extract ## Members & Sub-Topics if present
     members_block = ""
     members_match = re.search(
         r"(?m)(^##\s+Members & Sub-Topics\b.*?)(?=\n##\s+|\n###\s+|\Z)",
@@ -55,28 +77,28 @@ def repair_file(file_path: pathlib.Path) -> bool:
         members_block = members_match.group(1).strip()
         pre_mbras_clean = pre_mbras_clean.replace(members_match.group(0), "").strip()
 
-    # 3. Heading Normalisation:
-    # If there are no structural H2 sections remaining in the body (excluding Title and References),
-    # body sections should be H2 ('##'), not H3 ('###')
-    has_structural_h2 = bool(
-        re.search(
-            r"(?m)^##\s+(?!Research and Documentation\b|Historiography and Sources\b|Legacy and Documentation\b)",
-            re.sub(r"^#\s+[^\n]+\n*", "", pre_mbras_clean, count=1),
-        )
-    )
+    # 4. Prune orphaned headings (headers with no text beneath them)
+    pre_mbras_clean = prune_empty_headings(pre_mbras_clean)
 
-    if not has_structural_h2:
-        # Promote internal ### headings to ##
+    # 5. Heading Normalisation:
+    # Detect if any substantive H2 exists (excluding conclusion/meta headers)
+    conclusion_headers = r"(Research and Documentation|Historiography and Sources|Legacy and Documentation)"
+    substantive_h2_pattern = rf"(?m)^##\s+(?!{conclusion_headers}\b)[^\n]+"
+
+    has_substantive_h2 = bool(re.search(substantive_h2_pattern, pre_mbras_clean))
+
+    if not has_substantive_h2:
+        # Flat stub: promote ### body headings to ##
         pre_mbras_clean = re.sub(r"(?m)^###\s+", "## ", pre_mbras_clean)
 
-    # 4. Extract H1 Title and Lede
-    title_match = re.match(r"^(#\s+[^\n]+\n*)(.*?)(?=\n##\s+|\n###\s+|\Z)", pre_mbras_clean, re.DOTALL)
-    if title_match:
-        header_part = title_match.group(1).strip()
-        lede_part = title_match.group(2).strip()
-        body_rest = pre_mbras_clean[title_match.end() :].strip()
+    # 6. Separate Lede from Body and splice ## Members & Sub-Topics
+    # Find the first H2 or H3 heading
+    first_heading_match = re.search(r"(?m)^#{2,3}\s+", pre_mbras_clean)
+    if first_heading_match:
+        lede_part = pre_mbras_clean[: first_heading_match.start()].strip()
+        body_rest = pre_mbras_clean[first_heading_match.start() :].strip()
 
-        sections = [header_part]
+        sections = []
         if lede_part:
             sections.append(lede_part)
         if members_block:
@@ -84,14 +106,14 @@ def repair_file(file_path: pathlib.Path) -> bool:
         if body_rest:
             sections.append(body_rest)
     else:
+        # Document with no subheadings
         sections = [pre_mbras_clean]
         if members_block:
-            sections.insert(1, members_block)
+            sections.append(members_block)
 
     sections.append(mbras_tail)
     new_body = "\n\n".join(s for s in sections if s).strip() + "\n"
 
-    # Reassemble frontmatter and body
     rebuilt = f"---\n{parts[1].strip()}\n---\n\n{new_body}"
     if rebuilt != content:
         file_path.write_text(rebuilt, encoding="utf-8")
@@ -111,7 +133,9 @@ def main() -> None:
             updated_count += 1
             print(f"[REPAIRED] {path.name}")
 
-    print(f"\nScan complete. Repaired {updated_count} files out of {checked_count} checked.")
+    print(
+        f"\nScan complete. Repaired {updated_count} files out of {checked_count} checked."
+    )
 
 
 if __name__ == "__main__":
