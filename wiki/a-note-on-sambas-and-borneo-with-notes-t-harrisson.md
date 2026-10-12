@@ -30,7 +30,7 @@ publication_type: note
 
 ## Summary
 
-The author references a prior account of Susu Rimau published in [Journal](./journal.md) No. 22 (p. 340) and reports having since obtained additional specimens of both the tuber and the fully developed fungus in [Singapore](./singapore.md) and [Penang](./penang.md). Mr. Massee of Kew identified the species as *Polyporus sacer*, described as a very widely distributed fungus (p. 101).
+The author references a prior account of Susu Rimau published in Journal No. 22 (p. 340) and reports having since obtained additional specimens of both the tuber and the fully developed fungus in [Singapore](./singapore.md) and [Penang](./penang.md). Mr. Massee of Kew identified the species as *Polyporus sacer*, described as a very widely distributed fungus (p. 101).
 
 ## References
 <!-- Grounded occurrences and citations -->

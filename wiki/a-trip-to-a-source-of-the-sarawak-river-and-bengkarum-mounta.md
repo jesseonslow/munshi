@@ -25,7 +25,7 @@ publication_type: journal_article
 
 # A trip to a source of the Sarawak River and Bengkarum Mountains
 
-[C.J. Brooks](./cj-brooks.md), a naturalist operating in the [Sarawak](./sarawak.md) borderlands, published this account in 1911 of a September 1908 expedition that traced the right-hand branch of the [Sarawak](./sarawak.md) River to its source, crossed the watershed into the upper Sambas basin, and achieved what he believed to be the first [European](./european.md) ascent of Bengkarum Mountain. The article is simultaneously a travelogue of Dyak highland communities and a botanical collecting report, with the latter yielding several new taxa described in the Philippine [Journal](./journal.md) of [Science](./science.md).
+[C.J. Brooks](./cj-brooks.md), a naturalist operating in the [Sarawak](./sarawak.md) borderlands, published this account in 1911 of a September 1908 expedition that traced the right-hand branch of the [Sarawak](./sarawak.md) River to its source, crossed the watershed into the upper Sambas basin, and achieved what he believed to be the first [European](./european.md) ascent of Bengkarum Mountain. The article is simultaneously a travelogue of Dyak highland communities and a botanical collecting report, with the latter yielding several new taxa described in the Philippine Journal of [Science](./science.md).
 
 ## Summary
 

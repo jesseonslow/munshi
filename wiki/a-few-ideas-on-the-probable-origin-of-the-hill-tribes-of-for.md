@@ -51,7 +51,7 @@ Dodd's definitive takeaway is that the northern Formosan aborigines represent a 
 ## Context
 
 - Dodd was a British merchant and de facto consular figure resident in Banca, northern [Formosa](./formosa.md), from the 1860s onward; his observations derive from decades of direct contact with both aboriginal and Chinese communities in the border zone.
-- The article was published in the *[Journal](./journal.md) of the [Straits Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)*, a colonial-era periodical serving British administrative and mercantile interests in the [Straits Settlements](./straits-settlements.md) and surrounding regions; the text reflects the racial taxonomic frameworks and civilisational hierarchies standard to Victorian [ethnography](./ethnography.md).
+- The article was published in the *Journal of the [Straits Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)*, a colonial-era periodical serving British administrative and mercantile interests in the [Straits Settlements](./straits-settlements.md) and surrounding regions; the text reflects the racial taxonomic frameworks and civilisational hierarchies standard to Victorian [ethnography](./ethnography.md).
 
 ## References
 <!-- Grounded occurrences and citations -->

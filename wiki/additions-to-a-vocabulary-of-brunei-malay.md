@@ -26,7 +26,7 @@ jstor: https://www.jstor.org/stable/41561716
 
 # Additions to a vocabulary of Brunei-Malay
 
-This short lexical note by G. T. MacBryan supplements a [Brunei](./brunei.md)-[Malay](./malay.md) vocabulary previously published by Marshall in the April 1922 issue of the [Journal](./journal.md) (p. 376).
+This short lexical note by G. T. MacBryan supplements a [Brunei](./brunei.md)-[Malay](./malay.md) vocabulary previously published by Marshall in the April 1922 issue of the Journal (p. 376).
 
 ## Summary
 

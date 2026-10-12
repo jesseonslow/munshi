@@ -50,7 +50,7 @@ Woolley presents the tale as a vehicle for preserving a specific Murut-Dusun ora
 
 ## Context
 
-- This is a colonial-era ethnographic recording: Woolley, a British administrative officer in [British North Borneo](./british-north-borneo.md), collected the tale from a local informant and published it in the [MBRAS](./malaysian-branch-of-the-royal-asiatic-society.md) [journal](./journal.md) as part of the Society's ongoing programme of documenting indigenous oral [traditions](./traditions.md).
+- This is a colonial-era ethnographic recording: Woolley, a British administrative officer in [British North Borneo](./british-north-borneo.md), collected the tale from a local informant and published it in the [MBRAS](./malaysian-branch-of-the-royal-asiatic-society.md) journal as part of the Society's ongoing programme of documenting indigenous oral [traditions](./traditions.md).
 - The piece is a straightforward transcription with minimal analytical commentary; its historiographical value lies in preserving a variant of the tale from the Tambunan Dusun tradition before the mid-twentieth century.
 
 ## References

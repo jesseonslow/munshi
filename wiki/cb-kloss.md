@@ -41,7 +41,7 @@ published: false
 - (1924) [The forms of Criniger gularis and C. gutturalis. Records of the Raffles Museum, No. 6](./the-forms-of-criniger-gularis-and-c-gutturalis-records-of-th.md). *JMBRAS* 2(1): 71
 - (1925) [Remarks on the black and red squirrels allied to Sciurus prevosti. F.N. Chasen and C.B. Kloss. Records of the Raffles Museum, No. 11](./remarks-on-the-black-and-red-squirrels-allied-to-sciurus-pre.md). *JMBRAS* 3(1): 97–99
 - (1925) [Bird notes. F.N. Chasen and C.B. Kloss. Records of the Raffles Museum, No. 13](./bird-notes-fn-chasen-and-cb-kloss-records-of-the-raffles-mus.md). *JMBRAS* 3(1): 101–103
-- (1926) [The laughing gull (Larus ridibundus, Linn.) in the Straits of Singapore. Records of the Raffles Museum, No. 15](./the-laughing-gull-larus-ridibundus-linn-in-the-straits-of-si.md). *JMBRAS* 4(1): 157
+- (1926) [The laughing gull of the Raffles Museum, No. 15](./the-laughing-gull.md). *JMBRAS* 4(1): 157
 - (1926) [The pied cuckoo-shrike. Records of the Raffles Museum, No. 16](./the-pied-cuckoo-shrike-records-of-the-raffles-museum-no-16.md). *JMBRAS* 4(1): 158–161
 - (1926) [Two neglected bird names: Eucichla guajana (P.L.S. Mull.) and Chloropsis cochinchinensis (GM.) Records of the Raffles Museum, No. 17](./two-neglected-bird-names-eucichla-guajana-pls-mull-and-chlor.md). *JMBRAS* 4(1): 161–163
 - (1926) [An abnormal, or unnamed, sea-snake. N. Smedley and C.B. Kloss. Records of the Raffles Museum, No. 18](./an-abnormal-or-unnamed-sea-snake-n-smedley-and-cb-kloss-reco.md). *JMBRAS* 4(1): 163–164

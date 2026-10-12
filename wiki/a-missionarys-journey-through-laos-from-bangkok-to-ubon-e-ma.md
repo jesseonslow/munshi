@@ -26,7 +26,7 @@ publication_type: document
 
 # A missionary’s journey through Laos from Bangkok to Ubon (.E. Maxwell
 
-[G. Dabin](./g-dabin.md), a French Catholic missionary of the Missions Étrangères de Paris, published this day-by-day [journal](./journal.md) in 1885 ([JSBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md) Vol. 15) to document his 48-day overland journey from Bangkok to Ubon in February–March 1884, undertaken to replace an invalided confrère at the Catholic station on the Seimoun. The text offers a first-hand account of the forested Siamese-Lao frontier interior—its infrastructure, sparse populations, administrative structures, and the material hardships of travel—framed within the broader project of French missionary penetration into what the introduction characterizes as "savage tribes" (p. 103).
+[G. Dabin](./g-dabin.md), a French Catholic missionary of the Missions Étrangères de Paris, published this day-by-day journal in 1885 ([JSBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md) Vol. 15) to document his 48-day overland journey from Bangkok to Ubon in February–March 1884, undertaken to replace an invalided confrère at the Catholic station on the Seimoun. The text offers a first-hand account of the forested Siamese-Lao frontier interior—its infrastructure, sparse populations, administrative structures, and the material hardships of travel—framed within the broader project of French missionary penetration into what the introduction characterizes as "savage tribes" (p. 103).
 
 ## Summary
 

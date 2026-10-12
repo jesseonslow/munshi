@@ -30,11 +30,14 @@ articles:
 **Series:** Journal of the Malayan/[Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** December 1932
 
+This issue of JMBRAS was published as a monograph.
+
 ## Table of Contents
 * [A history of Johore (1365–1895 A.D.](./a-history-of-johore-13651895-ad.md) — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 1–167)
 
 ## Contributors
 * [R.O. Winstedt](./richard-olaf-winstedt.md)
 
-## References
-<!-- Grounded occurrences and citations -->
+## Corrigenda
+
+A [short corrigenda](./corrigenda-vol-x-pt-III-1932.md) was published by [R.O. Winstedt](./richard-olaf-winstedt.md) in [*JMBRAS* volume 11, issue 2](./mbras-011-2.md).

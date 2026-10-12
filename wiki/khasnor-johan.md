@@ -2,7 +2,8 @@
 id: khasnor-johan
 title: Khasnor Johan
 canonical_name: Khasnor Johan
-aliases: []
+aliases:
+- Dr. Khasnor Johan
 type: person
 is_contributor: true
 status: stub
@@ -20,6 +21,3 @@ published: false
 
 ### Reviews
 - (1999) Glimpses of Selangor 1860–1898. J.M. Gullick. *JMBRAS* 72(1): 140–141
-
-## References
-<!-- Grounded occurrences and citations -->

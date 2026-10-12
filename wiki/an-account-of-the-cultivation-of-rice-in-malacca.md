@@ -52,7 +52,7 @@ The definitive historical takeaway is that late 19th-century Malacca [rice culti
 ## Context
 
 *   **Colonial Role:** The publication reflects the British colonial administration's interest in documenting local economic practices to facilitate governance and agricultural development in the [Straits Settlements](./straits-settlements.md).
-*   **Archival Collections:** This document is part of the *[Journal](./journal.md) of the [Straits Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)* (JSBRAS), a primary archive for the [history](./history.md) of [Malay](./malay.md) society and [natural history](./natural-history.md) in the region.
+*   **Archival Collections:** This document is part of the *Journal of the [Straits Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)* (JSBRAS), a primary archive for the [history](./history.md) of [Malay](./malay.md) society and [natural history](./natural-history.md) in the region.
 
 ## References
 <!-- Grounded occurrences and citations -->

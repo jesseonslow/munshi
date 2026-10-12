@@ -18,6 +18,7 @@ published: false
 
 ## Bibliography
 - (1928) [Orchid pollination notes](./orchid-pollination-notes.md). *JMBRAS* 6(1): 49–73
+- (1933) [Some Malayan Orchids IV](./some-malayan-orchids-iv.md). *JMBRAS* 11(1): 66-109
 
 ## References
 <!-- Grounded occurrences and citations -->

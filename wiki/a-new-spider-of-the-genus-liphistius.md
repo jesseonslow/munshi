@@ -50,7 +50,7 @@ Harrisson's definitive takeaway is that the modern ethnic categories applied to 
 
 ## Context
 
-- The article draws on primary sources including Beeckman's 1718 *A Voyage to and from the Island of Borneo* (copy in [Sarawak](./sarawak.md) Museum Reference Library), Annandale and Robinson's 1903 *Fasciculi Malayensis* account (National Library, [Singapore](./singapore.md)), St. John's 1862 *Life in the Forests of the Far East*, and Sather's 1975 *[Brunei](./brunei.md) Museum [Journal](./journal.md)* publication of a Bajau Laut narrative.
+- The article draws on primary sources including Beeckman's 1718 *A Voyage to and from the Island of Borneo* (copy in [Sarawak](./sarawak.md) Museum Reference Library), Annandale and Robinson's 1903 *Fasciculi Malayensis* account (National Library, [Singapore](./singapore.md)), St. John's 1862 *Life in the Forests of the Far East*, and Sather's 1975 *[Brunei](./brunei.md) Museum Journal* publication of a Bajau Laut narrative.
 - Harrisson's contribution is historiographical: he challenges the prevailing anthropological tendency (exemplified by Sopher's 1965 monograph) to treat sea nomads as a discrete, specialised maritime category, and instead proposes a diachronic model in which land-sea fluidity is the norm and specialisation is the recent exception.
 
 ## References

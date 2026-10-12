@@ -30,7 +30,7 @@ This short note by [W. Linehan](./w-linehan.md) presents a stave (stanza) of 16t
 
 ## Summary
 
-The article is a brief textual fragment in which Linehan reproduces and presumably contextualises a single stave of [Malay](./malay.md) verse dating to the 16th century. As a two-page contribution, it falls within the [journal](./journal.md)'s convention for short notes on individual textual items of historical or literary interest. The specific content of the stave and any accompanying commentary are not available in the provided source text.
+The article is a brief textual fragment in which Linehan reproduces and presumably contextualises a single stave of [Malay](./malay.md) verse dating to the 16th century. As a two-page contribution, it falls within the journal's convention for short notes on individual textual items of historical or literary interest. The specific content of the stave and any accompanying commentary are not available in the provided source text.
 
 ## References
 <!-- Grounded occurrences and citations -->

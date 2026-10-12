@@ -15,14 +15,8 @@ type: concept
 generated: true
 ---
 
-The archival evidence records provided for this article are empty. No research records, journal articles, or documentary sources concerning gulls have been supplied for this request.
 
-As Senior Archivist, I am bound by the strict grounding rules that prohibit me from inventing dates, observations, statistics, or ecological claims not attested in the records. I therefore cannot produce a grounded encyclopedia article on gulls without source material.
-
-If you can provide the relevant archival evidence records — for example, entries from *JMBRAS* or *[JSBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* covering gull species observed in the [Straits Settlements](./straits-settlements.md), the [Malay](./malay.md) Peninsula, or [Borneo](./borneo.md), including notes on taxonomy, distribution, economic significance (such as guano harvesting or fishery interactions), or ornithological [surveys](./surveys.md) — I will compose the article in full accordance with the narrative [architecture](./architecture.md), house style, and citation conventions outlined above.
 
 ## MBRAS Sources
 
-- [C.B. Kloss](./cb-kloss.md) (1926). [The laughing gull (Larus ridibundus, Linn.) in the Straits of Singapore. Records of the Raffles Museum, No. 15](./the-laughing-gull-larus-ridibundus-linn-in-the-straits-of-si.md). *JMBRAS* 4: 157
-
-## References
+- [C.B. Kloss](./cb-kloss.md) (1926). [The laughing gull of the Raffles Museum, No. 15](./the-laughing-gull.md). *JMBRAS* 4: 157

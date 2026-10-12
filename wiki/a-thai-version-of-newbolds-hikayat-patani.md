@@ -47,7 +47,7 @@ Wyatt compares this Thai version with [T.J. Newbold](./thomas-john-newbold.md)�
 
 ### Conclusion
 
-Wyatt’s definitive historical takeaway is that this Thai version, while less productive than [European](./european.md) records like Floris’ *[Journal](./journal.md)*, provides a necessary genealogical and chronological framework for Patani’s history from the mid-sixteenth to the late seventeenth century (p. 18). He suggests that the text should be valued as an early pebble from an unexplored sea of vernacular chronicles, rather than the final solution to historical gaps, acknowledging its limitations regarding the middle Peninsula and early Portuguese contacts (p. 18).
+Wyatt’s definitive historical takeaway is that this Thai version, while less productive than [European](./european.md) records like Floris’ *Journal*, provides a necessary genealogical and chronological framework for Patani’s history from the mid-sixteenth to the late seventeenth century (p. 18). He suggests that the text should be valued as an early pebble from an unexplored sea of vernacular chronicles, rather than the final solution to historical gaps, acknowledging its limitations regarding the middle Peninsula and early Portuguese contacts (p. 18).
 
 ## Context
 

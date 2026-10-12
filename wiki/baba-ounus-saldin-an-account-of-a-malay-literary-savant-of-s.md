@@ -26,7 +26,7 @@ jstor: https://www.jstor.org/stable/41493188
 
 # Baba Ounus Saldin: an account of a Malay literary savant of Sri Lanka
 
-[B.A. Hussainmiya](./ba-hussainmiya.md) (1991) presents a biographical study of Baba Ounus Saldin (1832–1906), a [Malay](./malay.md) literary entrepreneur and community leader in colonial [Sri Lanka](./sri-lanka.md), arguing that Saldin's pioneering work in Malay journalism and lithographic [printing](./printing.md) establishes the island as a significant, previously overlooked centre of traditional [Malay](./malay.md) literary activity. The article draws primarily on Saldin's own *Kitab Segala Perhingatan* (KSP), a 58-page [family](./family.md) [journal](./journal.md) written in Jawi script, supplemented by regimental records, contemporary [newspapers](./newspapers.md), and the *Register of Printed Books in Ceylon*.
+[B.A. Hussainmiya](./ba-hussainmiya.md) (1991) presents a biographical study of Baba Ounus Saldin (1832–1906), a [Malay](./malay.md) literary entrepreneur and community leader in colonial [Sri Lanka](./sri-lanka.md), arguing that Saldin's pioneering work in Malay journalism and lithographic [printing](./printing.md) establishes the island as a significant, previously overlooked centre of traditional [Malay](./malay.md) literary activity. The article draws primarily on Saldin's own *Kitab Segala Perhingatan* (KSP), a 58-page [family](./family.md) journal written in Jawi script, supplemented by regimental records, contemporary [newspapers](./newspapers.md), and the *Register of Printed Books in Ceylon*.
 
 ## Summary
 

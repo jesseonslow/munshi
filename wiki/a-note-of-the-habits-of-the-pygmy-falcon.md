@@ -26,7 +26,7 @@ jstor: https://www.jstor.org/stable/41585397
 
 # A note of the habits of the pygmy falcon
 
-This is a brief note by F. F. Laidlaw, published in *[JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* Vol. 1, No. 2 (1923), p. 377. Despite the catalogued title "A note on the habits of the Pygmy Falcon," the surviving text fragment actually describes a *bomor* (shaman) conducting a healing seance, and is headed in the [journal](./journal.md) as part of Laidlaw's "[Miscellaneous Notes](./miscellaneous-notes.md)."
+This is a brief note by F. F. Laidlaw, published in *[JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* Vol. 1, No. 2 (1923), p. 377. Despite the catalogued title "A note on the habits of the Pygmy Falcon," the surviving text fragment actually describes a *bomor* (shaman) conducting a healing seance, and is headed in the journal as part of Laidlaw's "[Miscellaneous Notes](./miscellaneous-notes.md)."
 
 ## Summary
 

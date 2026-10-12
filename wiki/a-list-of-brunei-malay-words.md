@@ -51,7 +51,7 @@ Haynes's list is a modest but valuable early record of Brunei-Malay vocabulary, 
 
 ## Context
 
-- The publication appeared in the *[Journal](./journal.md) of the [Straits Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)*, the principal scholarly outlet for colonial-era linguistic and ethnographic work in the [Straits Settlements](./straits-settlements.md) and surrounding territories.
+- The publication appeared in the *Journal of the [Straits Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)*, the principal scholarly outlet for colonial-era linguistic and ethnographic work in the [Straits Settlements](./straits-settlements.md) and surrounding territories.
 - The list was "collected" by Haynes, a term that in this period typically denotes fieldwork with native informants, though no details of the collection process, informant identity, or dialectal location within Brunei are provided in the text.
 
 ## References

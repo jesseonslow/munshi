@@ -50,7 +50,7 @@ Gossens' grammar and vocabulary stands as a foundational reference for Kadazan l
 
 ## Context
 
-- Gossens was a Dutch national serving in British North Borneo, likely in an administrative or missionary capacity; his choice to publish in the [MBRAS](./malaysian-branch-of-the-royal-asiatic-society.md) [journal](./journal.md) and his inclusion of Christian and colonial administrative terminology in the vocabulary reflect the institutional context of colonial language documentation.
+- Gossens was a Dutch national serving in British North Borneo, likely in an administrative or missionary capacity; his choice to publish in the [MBRAS](./malaysian-branch-of-the-royal-asiatic-society.md) journal and his inclusion of Christian and colonial administrative terminology in the vocabulary reflect the institutional context of colonial language documentation.
 - The work draws on direct field observation in the Papar district and surrounding areas of the Kadazan heartland, with occasional comparative notes on hill-[dialect](./dialects-and-dictionaries.md) pronunciation, making it one of the earliest texts to acknowledge internal dialectal variation within Kadazan.
 
 ## References

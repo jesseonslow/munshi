@@ -25,7 +25,7 @@ publication_type: note
 
 # A Pulau Tiuman superstition
 
-W. C. ([W. Cameron](./w-cameron.md)) provides a brief follow-up note on the [Malay](./malay.md) medicinal fungus known as Susu Rimau, previously described in the [Journal](./journal.md) (Vol. 22, p. 340), reporting its taxonomic identification as *Polyporus sacer* (p. 101).
+W. C. ([W. Cameron](./w-cameron.md)) provides a brief follow-up note on the [Malay](./malay.md) medicinal fungus known as Susu Rimau, previously described in the Journal (Vol. 22, p. 340), reporting its taxonomic identification as *Polyporus sacer* (p. 101).
 
 ## Summary
 

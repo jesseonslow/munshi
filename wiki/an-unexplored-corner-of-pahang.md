@@ -25,7 +25,7 @@ publication_type: obituary
 
 # An unexplored corner of Pahang
 
-[C. W. S. K.](./cws-kynnersley.md) composed this 1899 memorial for Sir William E. Maxwell, K.C.M.G., the [Straits Settlements](./straits-settlements.md)' most prolific contributor to the BRAS [Journal](./journal.md) and a central figure in the colony's administrative and scholarly life. The piece, published in [JSBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md) Vol. 32, traces Maxwell's career from the Supreme Court through the [Perak](./perak.md) War, the Land Question, and his final posting as Governor of the Gold Coast, where he died in the prime of life. Its overarching thesis is that Maxwell was the indispensable engine behind the Society's early decades of work, and that his loss represents a gap the membership must now fill through increased collective effort.
+[C. W. S. K.](./cws-kynnersley.md) composed this 1899 memorial for Sir William E. Maxwell, K.C.M.G., the [Straits Settlements](./straits-settlements.md)' most prolific contributor to the BRAS Journal and a central figure in the colony's administrative and scholarly life. The piece, published in [JSBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md) Vol. 32, traces Maxwell's career from the Supreme Court through the [Perak](./perak.md) War, the Land Question, and his final posting as Governor of the Gold Coast, where he died in the prime of life. Its overarching thesis is that Maxwell was the indispensable engine behind the Society's early decades of work, and that his loss represents a gap the membership must now fill through increased collective effort.
 
 ## Summary
 

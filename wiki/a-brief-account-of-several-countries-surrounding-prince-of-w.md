@@ -30,7 +30,7 @@ publication_type: document
 
 # A brief account of several countries surrounding Prince of Wales’s Island with their production. Recd. from Captain Leight {sic} Enclosed in Lord Cornwallis’s letter to Mr. Dundas, dated 7th January, 1789.
 
-This is a brief geographical and commercial account of the countries surrounding Prince of Wales's Island ([Penang](./penang.md)), received from Captain [Francis Light](./francis-light.md) and enclosed in Lord Cornwallis's letter to Mr. Dundas, dated 7 January 1789. It was communicated to the [Journal](./journal.md) by C. E. Wurtzburg (p. 123).
+This is a brief geographical and commercial account of the countries surrounding Prince of Wales's Island ([Penang](./penang.md)), received from Captain [Francis Light](./francis-light.md) and enclosed in Lord Cornwallis's letter to Mr. Dundas, dated 7 January 1789. It was communicated to the Journal by C. E. Wurtzburg (p. 123).
 
 ## Summary
 

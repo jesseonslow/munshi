@@ -26,7 +26,7 @@ jstor: https://www.jstor.org/stable/41559494
 
 # A note on Takola, Langkasuka and Kataha
 
-A brief note by [H.G.Q. Wales](./horace-geoffrey-quaritch-wales.md) in which he revises his earlier views on three Malayan place-names—Takola, [Langkasuka](./langkasuka.md), and Kataha—in light of Sir [Roland Braddell](./dato-sir-roland-st-john-braddell.md)'s recent contributions to the [journal](./journal.md).
+A brief note by [H.G.Q. Wales](./horace-geoffrey-quaritch-wales.md) in which he revises his earlier views on three Malayan place-names—Takola, [Langkasuka](./langkasuka.md), and Kataha—in light of Sir [Roland Braddell](./dato-sir-roland-st-john-braddell.md)'s recent contributions to the journal.
 
 ## Summary
 

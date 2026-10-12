@@ -50,7 +50,7 @@ Gullick's definitive takeaway is that Ulu Langat's transformation was not driven
 
 ## Context
 
-- The article draws extensively on primary sources including [Swettenham](./swettenham.md)'s 1875 reports and journals, the Douglas diary (1876–82), Selangor Government Gazette district reports, Selangor [Journal](./journal.md) articles, census returns, and the 1878 boundary treaty documents, providing a granular district-level narrative that complements broader state histories of Selangor.
+- The article draws extensively on primary sources including [Swettenham](./swettenham.md)'s 1875 reports and journals, the Douglas diary (1876–82), Selangor Government Gazette district reports, Selangor Journal articles, census returns, and the 1878 boundary treaty documents, providing a granular district-level narrative that complements broader state histories of Selangor.
 - Gullick's approach is characteristically sceptical of official intelligence and local magnate self-presentation, a methodological stance consistent with his wider body of work on colonial Selangor (e.g., *Rulers and Residents*, 1992).
 
 ## References

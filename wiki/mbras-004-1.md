@@ -102,7 +102,7 @@ articles:
   pages: 156–157
   is_review: false
 - id: jmbras-4-1-p157
-  slug: the-laughing-gull-larus-ridibundus-linn-in-the-straits-of-si
+  slug: the-laughing-gull
   title: The laughing gull (Larus ridibundus, Linn.) in the Straits of Singapore.
     Records of the Raffles Museum, No. 15
   authors:
@@ -166,7 +166,7 @@ articles:
 * [A Pangan vocabulary](./a-pangan-vocabulary.md) — [H.E. Savage](./he-savage.md) (pp. 147–153)
 * [The Dusuns and the Chinese](./the-dusuns-and-the-chinese.md) — [I.H.N. Evans](./ivor-hugh-norman-evans.md) (pp. 153–155)
 * [Miniopterus medius in the Malay Peninsula. Records of the Raffles Museum, No. 14](./miniopterus-medius-in-the-malay-peninsula-records-of-the-raf.md) — [F.N. Chasen](./fn-chasen.md) (pp. 156–157)
-* [The laughing gull (Larus ridibundus, Linn.) in the Straits of Singapore. Records of the Raffles Museum, No. 15](./the-laughing-gull-larus-ridibundus-linn-in-the-straits-of-si.md) — [C.B. Kloss](./cb-kloss.md) (pp. 157)
+* [The laughing gull of the Raffles Museum, No. 15](./the-laughing-gull.md) — [C.B. Kloss](./cb-kloss.md) (pp. 157)
 * [The pied cuckoo-shrike. Records of the Raffles Museum, No. 16](./the-pied-cuckoo-shrike-records-of-the-raffles-museum-no-16.md) — [C.B. Kloss](./cb-kloss.md) (pp. 158–161)
 * [Two neglected bird names: Eucichla guajana (P.L.S. Mull.) and Chloropsis cochinchinensis (GM.) Records of the Raffles Museum, No. 17](./two-neglected-bird-names-eucichla-guajana-pls-mull-and-chlor.md) — [C.B. Kloss](./cb-kloss.md) (pp. 161–163)
 * [An abnormal, or unnamed, sea-snake. N. Smedley and C.B. Kloss. Records of the Raffles Museum, No. 18](./an-abnormal-or-unnamed-sea-snake-n-smedley-and-cb-kloss-reco.md) — [C.B. Kloss](./cb-kloss.md), [N. Smedley](./n-smedley.md) (pp. 163–164)

@@ -52,7 +52,7 @@ Skeat's definitive takeaway is that Malay magical ceremonies are not irrational 
 ## Context
 
 - Skeat was a senior British colonial official (later Secretary to the Governor of the Straits Settlements and a judge) writing from a position of administrative authority over the communities he described; his framing as "eye-witness" and his use of Frazer's evolutionary framework position the Malay pawang as a subject of scientific observation rather than a peer interlocutor.
-- The article draws on no archival collections per se but on direct field observation in the [Malacca](./melaka.md) and [Negri Sembilan](./negeri-sembilan.md) region, supplemented by references to earlier publications in the Society's [Journal](./journal.md) (notably Blagden's account of planting-out ceremonies in No. 29). Its historiographical contribution lies in providing one of the earliest detailed, verbatim records of Malay spirit-possession healing and the *Bhasa Hantu* vocabulary, which remained a reference point for subsequent scholars of Malay [religion](./religion.md).
+- The article draws on no archival collections per se but on direct field observation in the [Malacca](./melaka.md) and [Negri Sembilan](./negeri-sembilan.md) region, supplemented by references to earlier publications in the Society's Journal (notably Blagden's account of planting-out ceremonies in No. 29). Its historiographical contribution lies in providing one of the earliest detailed, verbatim records of Malay spirit-possession healing and the *Bhasa Hantu* vocabulary, which remained a reference point for subsequent scholars of Malay [religion](./religion.md).
 
 ## References
 <!-- Grounded occurrences and citations -->

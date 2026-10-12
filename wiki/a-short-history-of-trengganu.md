@@ -29,7 +29,7 @@ publication_type: journal_article
 
 ## Summary
 
-The author follows up on a previous account ([Journal](./journal.md) No. 22, p. 340) of *Susu Rimau*, a vegetable product used by the Malays, which is the sclerotium or resting stage of a *Polyporus* species. Having obtained additional specimens of the tuber and the fully developed fungus in [Singapore](./singapore.md) and [Penang](./penang.md), the author notes that Mr. Massee of Kew identified it as *Polyporus sacer*, a widely distributed fungus (p. 101).
+The author follows up on a previous account (Journal No. 22, p. 340) of *Susu Rimau*, a vegetable product used by the Malays, which is the sclerotium or resting stage of a *Polyporus* species. Having obtained additional specimens of the tuber and the fully developed fungus in [Singapore](./singapore.md) and [Penang](./penang.md), the author notes that Mr. Massee of Kew identified it as *Polyporus sacer*, a widely distributed fungus (p. 101).
 
 ## References
 <!-- Grounded occurrences and citations -->

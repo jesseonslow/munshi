@@ -30,7 +30,7 @@ This is the title page for "[Antiquities](./antiquities.md) of [Province Wellesl
 
 ## Summary
 
-The document as digitized consists solely of the title page, bearing the article title, author name, and [journal](./journal.md) metadata. No body text is present in the provided source. The article is understood to concern the archaeological or historical [antiquities](./antiquities.md) found in [Province Wellesley](./province-wellesley.md) (modern-day [Perak](./perak.md), [Malaysia](./malaysia.md)), a region of significant early [Malay](./malay.md) and [Chinese](./chinese.md) settlement. The full text of the article is not available in this record.
+The document as digitized consists solely of the title page, bearing the article title, author name, and journal metadata. No body text is present in the provided source. The article is understood to concern the archaeological or historical [antiquities](./antiquities.md) found in [Province Wellesley](./province-wellesley.md) (modern-day [Perak](./perak.md), [Malaysia](./malaysia.md)), a region of significant early [Malay](./malay.md) and [Chinese](./chinese.md) settlement. The full text of the article is not available in this record.
 
 ## References
 <!-- Grounded occurrences and citations -->

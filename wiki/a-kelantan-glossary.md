@@ -51,7 +51,7 @@ Pepys's definitive contribution is the demonstration that Kelantan Malay constit
 ## Context
 
 - Pepys was a [European](./european.md) Civil Service officer in the Kelantan administration; the glossary was explicitly compiled to assist Europeans (and by extension other Malays) in making themselves understood in a state whose dialect was opaque to outsiders (p. 303).
-- The work draws on the Straits Branch R.A.S. [journal](./journal.md) and acknowledges [R. O. Winstedt](./richard-olaf-winstedt.md)'s editorial input, situating it within the small community of colonial-era linguists and administrators who documented Malay dialects for practical governance purposes.
+- The work draws on the Straits Branch R.A.S. journal and acknowledges [R. O. Winstedt](./richard-olaf-winstedt.md)'s editorial input, situating it within the small community of colonial-era linguists and administrators who documented Malay dialects for practical governance purposes.
 
 ## References
 <!-- Grounded occurrences and citations -->

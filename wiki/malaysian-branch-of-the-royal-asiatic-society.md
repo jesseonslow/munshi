@@ -110,7 +110,7 @@ See [Journal of the Malaysian Branch of the Royal Asiatic Society](./journal-of-
 - (1917) [Index](./index.md). *JSBRAS* 77: 271–276
 - (1922) [Index for 1922](./index-for-1922.md). *JSBRAS* 86: 396–400
 - (1930) [Delegation to Java: presentation of Sir Stamford Raffles’ bust to the Royal Batavian Society of Arts and Sciences](./delegation-to-java-presentation-of-sir-stamford-raffles-bust.md). *JMBRAS* 8(2): 289–306
-- (1932) [Journal](./journal.md). *JMBRAS* 9(3)
+- (1932) Journal. *JMBRAS* 9(3)
 
 ## References
 

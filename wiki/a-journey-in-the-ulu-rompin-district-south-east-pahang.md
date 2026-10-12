@@ -50,7 +50,7 @@ Willbourn's definitive takeaway is that the Ulu Rompin interior, while accessibl
 
 ## Context
 
-- Willbourn was conducting a geological survey, and the article is framed as a field report for the Royal Asiatic Society's [journal](./journal.md) rather than a purely literary travelogue; his observations of rock types (quartzite, quartz-porphyry) and his reference to the Reconnaissance Map compiled by the Survey Office, [Kuala Lumpur](./kuala-lumpur.md), confirm this professional purpose (pp. 197, 207).
+- Willbourn was conducting a geological survey, and the article is framed as a field report for the Royal Asiatic Society's journal rather than a purely literary travelogue; his observations of rock types (quartzite, quartz-porphyry) and his reference to the Reconnaissance Map compiled by the Survey Office, [Kuala Lumpur](./kuala-lumpur.md), confirm this professional purpose (pp. 197, 207).
 - The text reflects the colonial-era convention of describing indigenous peoples in terms of their utility to the expedition (as guides, boatmen, and labourers) and of framing unexplored territory as a resource to be "examined" and mapped for administrative benefit.
 
 ## References

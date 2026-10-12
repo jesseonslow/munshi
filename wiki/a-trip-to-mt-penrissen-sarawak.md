@@ -25,7 +25,7 @@ publication_type: journal_article
 
 # A trip to Mt. Penrissen, Sarawak
 
-R. S. Shelford published this account in 1900 in the *[Journal](./journal.md) of the S. B. R. A. S.* (Vol. 33), describing a zoological collecting expedition to Mount Penrissen (4,800 ft) in the upper [Sarawak](./sarawak.md) River region, undertaken jointly with E. A. W. Cox of the [Sarawak](./sarawak.md) Government service. The article's overarching thesis is that while the mountain yielded an exceptionally rich invertebrate fauna, its vertebrate assemblage was strikingly depauperate—a condition Shelford attributes to intensive indigenous gun-hunting rather than to any inherent biogeographical poverty of the region.
+R. S. Shelford published this account in 1900 in the *Journal of the S. B. R. A. S.* (Vol. 33), describing a zoological collecting expedition to Mount Penrissen (4,800 ft) in the upper [Sarawak](./sarawak.md) River region, undertaken jointly with E. A. W. Cox of the [Sarawak](./sarawak.md) Government service. The article's overarching thesis is that while the mountain yielded an exceptionally rich invertebrate fauna, its vertebrate assemblage was strikingly depauperate—a condition Shelford attributes to intensive indigenous gun-hunting rather than to any inherent biogeographical poverty of the region.
 
 ## Summary
 

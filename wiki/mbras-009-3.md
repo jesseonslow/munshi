@@ -31,7 +31,7 @@ articles:
 **Date:** None 1932
 
 ## Table of Contents
-* [Journal](./journal.md) — [Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)
+* Journal — [Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)
 
 ## Contributors
 * [Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)

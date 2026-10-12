@@ -37,7 +37,7 @@ The second half shifts to the Society's operational infrastructure and contempor
 
 - The Siam Society was founded in 1904 under Royal Patronage; every subsequent Thai monarch has served as Royal Patron, and HRH Princess Galyani Vadhana is the current Honorary President (p. 35).
 - The library, built in 1962 with contributions from Danish firms and opened by the Thai and Danish royal couples, holds over 25,000 volumes (40% Thai, 60% foreign [languages](./languages.md)) and over 530 periodical titles (94 Thai, 427 foreign) (p. 36).
-- The *[Journal](./journal.md) of the Siam Society* has been published continuously since 1905 in English; the *[Natural History](./natural-history.md) Bulletin* is produced by the [Natural History](./natural-history.md) Section with Dr. Warren Brockelman as Honorary Editor (p. 36).
+- The *Journal of the Siam Society* has been published continuously since 1905 in English; the *[Natural History](./natural-history.md) Bulletin* is produced by the [Natural History](./natural-history.md) Section with Dr. Warren Brockelman as Honorary Editor (p. 36).
 - The Kamthieng House, a teak-built northern-style house over 150 years old originally from the banks of the Ping River in Chiang Mai, houses Thailand's first ethnological museum, founded in 1933 (p. 37).
 - The Society receives no government funding; in 1991 Prime Minister Anand Panyarachun gave a fundraising talk on the role of non-governmental organizations in national development (p. 38).
 - A 1992 symposium on *[Environment](./environment.md) and Culture with Emphasis on Urban Issues* was organized in collaboration with Japanese environmental and cultural organizations, reflecting the Society's engagement with international comparative experience (p. 37).

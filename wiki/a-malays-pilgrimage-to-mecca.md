@@ -52,7 +52,7 @@ Abdul Majid's definitive takeaway is that the pilgrimage's power lies not in its
 ## Context
 
 - The author was a practising Malay Muslim who performed the Haj in 1923 and wrote as a fellow pilgrim rather than an outside observer; his account carries the authority of direct experience but also the limitations of a single journey and a single route (the "Jalan Sultani").
-- The article was published in the [JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md), a colonial-era scholarly [journal](./journal.md), and its inclusion reflects the Society's interest in documenting Malay religious life; the text preserves details of Hejaz administration, Bedouin politics, and pilgrimage logistics that are otherwise scarce in English-language sources from this period.
+- The article was published in the [JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md), a colonial-era scholarly journal, and its inclusion reflects the Society's interest in documenting Malay religious life; the text preserves details of Hejaz administration, Bedouin politics, and pilgrimage logistics that are otherwise scarce in English-language sources from this period.
 
 ## References
 <!-- Grounded occurrences and citations -->

@@ -50,7 +50,7 @@ Humphreys presents the Naning wedding-speech as a living fossil of Menangkabau d
 
 ## Context
 
-- Humphreys was a member of the [Straits Settlements](./straits-settlements.md) Civil Service; his access to the speech came through his administrative presence in the Alor Gajah district, and his collaboration with [W.H. Mackray](./wh-mackray.md) ([F.M.S.](./federated-malay-states.md) Civil Service) reflects the standard colonial practice of civil servants producing ethnographic material for the [Journal](./journal.md) (p. 25).
+- Humphreys was a member of the [Straits Settlements](./straits-settlements.md) Civil Service; his access to the speech came through his administrative presence in the Alor Gajah district, and his collaboration with [W.H. Mackray](./wh-mackray.md) ([F.M.S.](./federated-malay-states.md) Civil Service) reflects the standard colonial practice of civil servants producing ethnographic material for the Journal (p. 25).
 - The article is a product of the early colonial ethnographic impulse to record "vanishing" indigenous customs, and its framing—emphasising the speaker's inability to reproduce the text without the author's prompting—positions the colonial observer as the necessary agent of preservation.
 
 ## References

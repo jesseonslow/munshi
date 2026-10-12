@@ -21,23 +21,6 @@ type: person
 generated: true
 ---
 
-## Edred John Henry Corner
-
-The archival records provided to this office contain no biographical material on Edred John Henry Corner. The sole source available for this commission is [H.S. Barlow](./henry-sackville-barlow.md)'s 1996 article on Sir [Frank Swettenham](./sir-frank-swettenham.md), which does not mention Corner by name, nor does it reference any individual of that name in its narrative, footnotes, or bibliography.
-
-## Limitations of the Record
-
-It is the duty of this office to state plainly that no article can be composed from the evidence at hand. The Barlow piece, while rich in detail concerning [Swettenham](./swettenham.md)'s career, his writings, and his relationships with contemporaries such as [W.E. Maxwell](./sir-william-edward-maxwell.md), [C.C. Smith](./cc-smith.md), and Gertrude Bell, makes no reference to an Edred John Henry Corner. No diary entry, letter, official despatch, or secondary citation within the source identifies such a person, nor does the reference list include any work by or about him.
-
-## Research and Documentation
-
-Should further records on this individual exist within the Society's holdings—whether in earlier volumes of the *[JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)*, in the Straits Branch series, or in the Society's manuscript collections—they have not been supplied for this commission. A targeted search of the journal [index](./index.md) and the Society's card catalogue would be the necessary next step before any biographical treatment could be attempted.
-
-## MBRAS Sources
-
-- [H.S. Barlow](./henry-sackville-barlow.md) (1996). [Swettenham. Schemer and historian](./swettenham-schemer-and-historian.md). *JMBRAS* 69(2): 83–100
-
 ## Bibliography
-*No indexed articles recorded.*
 
-## References
+- (1933) [A revision of the Malayan species of *Ficus*, *Covellia* and *Neomorpha*](./a-revision-of-the-malayan-species-of-ficus-covellia-and-neomorphe.md). *JMBRAS* 11(1): 1-109

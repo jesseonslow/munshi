@@ -50,7 +50,7 @@ Swettenham's account stands as a valuable early ethnographic record of a court n
 
 ## Context
 
-- The article was read at a [JSBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md) meeting on 5 August 1878 and published in Volume 2 of the [Journal](./journal.md), reflecting the Society's early interest in documenting Malay cultural practices during the colonial period.
+- The article was read at a [JSBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md) meeting on 5 August 1878 and published in Volume 2 of the Journal, reflecting the Society's early interest in documenting Malay cultural practices during the colonial period.
 - Swettenham, who would later become Chief Secretary of the [Straits Settlements](./straits-settlements.md) and High Commissioner for the [Federated Malay States](./federated-malay-states.md), was already engaged in diplomatic work in Pahang at the time of the observation, placing this account within the broader context of British administrative penetration into the Malay interior.
 
 ## References
