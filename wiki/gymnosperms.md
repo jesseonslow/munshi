@@ -14,8 +14,6 @@ type: concept
 generated: true
 ---
 
-# Gymnosperms
-
 [The gymnosperms of the Malay Peninsula](./the-gymnosperms-of-the-malay-peninsula.md), as documented by [H. N. Ridley](./henry-nicholas-ridley.md) in 1911, comprise three groups—Coniferae, Gnetaceae, and Cycadeae—none of which forms a conspicuous feature in the regional flora, though several species hold notable ecological, economic, or ethnobotanical interest [[1, p. 53]](#ref-1). Ridley, then Director of the [Singapore](./singapore.md) Botanic Gardens, catalogued eight conifer species across three genera, more than ten species of *Gnetum* (three of which he described as new), and two species of *Cycas*, drawing on his own herbarium and the collections of Curtis, Hullett, and Kelsall [[1, pp. 53–68]](#ref-1).
 
 ## Biogeographical Origins and Distribution

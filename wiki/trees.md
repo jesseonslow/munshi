@@ -27,8 +27,6 @@ type: concept
 generated: true
 ---
 
-# Trees
-
 Trees of the [Malay](./malay.md) Peninsula and [Borneo](./borneo.md) have long occupied a central position in the region's [natural history](./natural-history.md), economy, and cultural life. From the towering *Koompassia excelsa* (Tualang) that pierces the forest canopy at 265 feet [[1, pp. 382–383]](#ref-1) to the small aromatic *Aquilaria hirta* whose heartwood commands prices in the incense trade [[2, pp. 78–79]](#ref-2), the trees of the region span an extraordinary range of form, function, and commercial value. They supply timber for construction and shipbuilding, resins for export, and fragrant woods for ritual and perfumery; they anchor forest ecosystems whose structure and zonation have been mapped only in recent decades [[3, pp. 138–142]](#ref-3); and they have been the subject of sustained scientific investigation from the earliest decades of colonial botanical survey through the conservation movements of the late twentieth century.
 
 ## Taxonomy and Nomenclature

@@ -22,8 +22,6 @@ type: concept
 generated: true
 ---
 
-# Pasai
-
 ## Scope and Historical Definition
 
 Samudra-Pasai was the pre-eminent commercial port on the northern coast of [Sumatra](./sumatra.md) from the fourteenth through the early sixteenth centuries, functioning as a critical entrepôt in the international maritime trade network that linked [China](./china.md), [Java](./java.md), the Indian Ocean, and eventually western Europe. The name "Samudra" first appears in Yuan dynasty records when a Chinese mission returning from the Coromandel coast of [India](./india.md) in 1282 stopped at Sa-mu-tu-la, whose ruler sent two Muslim ministers to accompany the Yuan envoys on their return voyage [[1, p. 28]](#ref-1). The name "Pasai" enters the [Chinese](./chinese.md) record in 1309, when a mission from Pah-sih is noted among three Southeast Asian embassies to the Mongol court [[1, p. 29]](#ref-1). According to the *Hikayat Raja Pasai*, the town of Pasai was founded as a seat of power for a son of the first ruler of Samudra, and the two centres eventually merged into a single political entity known to later sources as Samudra-Pasai [[1, p. 29]](#ref-1). The state's rulers converted to [Islam](./islam.md) sometime between Marco Polo's visit in 1292, which found the [population](./population.md) unconverted, and a gravestone dated 1296 attributed to a local chief [[1, p. 28]](#ref-1). Samudra-Pasai's commercial dominance was ultimately superseded by the rise of [Malacca](./melaka.md) in the early fifteenth century and its annexation by [Aceh](./aceh.md) in 1524 [[1, pp. 30]](#ref-1).

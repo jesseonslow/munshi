@@ -24,8 +24,6 @@ type: concept
 generated: true
 ---
 
-# Bees
-
 Bees have been the subject of sustained scholarly attention in the Society's [literature](./literature.md), spanning entomological observation, ethnographic documentation, and the recording of ritual practice across the [Malay](./malay.md) Peninsula. The records reveal a community of naturalists and administrators who regarded these insects not merely as biological specimens but as agents embedded in ecological, economic, and cosmological systems. From [Burkill](./burkill.md)'s precise mechanical analysis of floral injury in the 1910s, through Dussek's transcription of honey-collecting verse in the 1920s, to Gimlette's account of a [Kelantan](./kelantan.md) *bomor* (ritual specialist) engaged to remove a swarm from a colonial officer's study, the [literature](./literature.md) traces a consistent preoccupation with the intersection of bee behaviour and human practice.
 
 ## Botanical Injury and Pollination Dynamics

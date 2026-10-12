@@ -16,8 +16,6 @@ type: concept
 generated: true
 ---
 
-# John Roberts Kirby
-
 John Roberts Kirby (1819–1906) was an English midshipman who made seven voyages in East Indiamen between 1833 and 1844, reaching the rank of second officer before retiring to shore life. His handwritten *Life's Log*, compiled in 1881 from old diaries and ship's logs, constitutes a rare first-person account of the post-charter East [India](./india.md) trade, the early settlement of Western Australia, and the Canton trade on the eve of the Second Opium War [[1, pp. 33–34]](#ref-1). The Log, adorned with vivid sketches of sailing craft, was published posthumously by his grandson, Dato Sir [Roland Braddell](./dato-sir-roland-st-john-braddell.md), in 1959 [[1, p. 33]](#ref-1).
 
 ## Maritime Career and the Post-Charter Fleet

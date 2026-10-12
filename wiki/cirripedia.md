@@ -14,8 +14,6 @@ type: concept
 generated: true
 ---
 
-# Cirripedia
-
 Cirripedia, the barnacles, constitute a group of sessile crustaceans whose deep-sea representatives in the [Malay](./malay.md) Archipelago have been documented almost exclusively through specimens recovered from telegraph cables. The collection examined by [N. Annandale](./n-annandale.md) in 1916, drawn from the Indian Museum in Calcutta and the [Raffles](./stamford-raffles.md) Museum in [Singapore](./singapore.md), comprises nine species of Cirripedia Pedunculata obtained from depths of between 30 and 500 fathoms in the seas around [Java](./java.md), [Borneo](./borneo.md), Bali, and Timor [[1, pp. 281–282]](#ref-1). The ecological and taxonomic significance of this material lies not in its representation of the region's full deep-sea fauna, but in the unique conditions under which it was collected: telegraph cables function as artificial substrates in an abyssal [environment](./environment.md) otherwise dominated by soft ooze, enabling the survival and accumulation of sessile organisms that would otherwise find no suitable attachment surface [[1, p. 279]](#ref-1).
 
 ## Scope and Taxonomic Context

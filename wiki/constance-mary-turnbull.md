@@ -17,8 +17,6 @@ type: person
 generated: true
 ---
 
-# Constance Mary Turnbull
-
 Constance Mary Turnbull (1927–2008) was a distinguished Malayan historian and professor emeritus at the University of Hong Kong, widely regarded as one of the first generation of professional historians to shape the discipline in the region. Her magnum opus, *The Straits Settlements, 1826–67: Indian Presidency to Crown Colony* (1972), remains the standard work on the early history of the [Straits Settlements](./straits-settlements.md), and her broader corpus encompassed [Singapore](./singapore.md), [Malaysia](./malaysia.md), and the British imperial presence in South-East Asia. [[1, pp. 99–101]](#ref-1)
 
 ## Early Life and Education

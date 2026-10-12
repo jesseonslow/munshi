@@ -14,8 +14,6 @@ type: concept
 generated: true
 ---
 
-# Shrubs
-
 ## Scope and Historical Definition
 
 The term "shrub" in the botanical [literature](./literature.md) of the [Straits Settlements](./straits-settlements.md) and the [Malay](./malay.md) Peninsula, as it appears in the early twentieth-century taxonomic record, refers to a woody plant of limited stature—typically not exceeding a few metres in height—that branches from or near the ground and lacks a single dominant trunk. The two records examined here illustrate how the descriptor was applied in practice: [Burkill](./burkill.md) characterises *Plethiandra sahebii* as a "shrub about a metre high" [[1, p. 266]](#ref-1), while Ridley describes *Lasianthus barbellatus* as a "3-foot shrub" [[2, p. 187]](#ref-2). Both are small, multi-stemmed, woody [plants](./plants.md), and both were described as new species from the region between 1907 and 1917. The records do not offer a formal taxonomic definition of the growth form, nor do they attempt to distinguish shrubs from small [trees](./trees.md) or large [herbs](./herbs.md); rather, the term functions as a practical descriptor of habit, applied by the describing botanist to convey the plant's overall [architecture](./architecture.md) to a reader who may never see the specimen.

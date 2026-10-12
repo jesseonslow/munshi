@@ -20,8 +20,6 @@ type: concept
 generated: true
 ---
 
-# Universities and colleges
-
 Tertiary and post-secondary institutions in the [Malay](./malay.md) Peninsula and [Borneo](./borneo.md) trace their origins to early nineteenth-century missionary schools and evolved, through a protracted period of colonial neglect and intermittent reform, into the national universities of the post-independence era. The arc of this development spans from the Anglo-[Chinese](./chinese.md) College in [Malacca](./melaka.md) (1818–1843), the first Protestant school in Asia, through the contested founding of the University of [Malaya](./malaya.md) in 1949, to its separation in 1962 into two independent institutions. The history of these institutions is inseparable from the political economies of colonial administration, the aspirations of local communities for accessible higher learning, and the shifting geopolitical anxieties that shaped educational policy across the region [[1]](#ref-1), [[2]](#ref-2), [[3]](#ref-3).
 
 ## Early Missionary Colleges

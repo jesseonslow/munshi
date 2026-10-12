@@ -18,8 +18,6 @@ type: concept
 generated: true
 ---
 
-# Joanna Hare
-
 The archival record on Joanna Hare is limited to a single Dutch-language letter dated 16 August 1820, preserved in the [Malacca](./melaka.md) Church Records, and the scholarly interpretation of that letter by [C.A. Gibson-Hill](./carl-alexander-gibson-hill.md) in 1954. No other primary documents concerning her life, origins, or later years have been identified in the Society's [literature](./literature.md).
 
 ## Identity and the 1820 Letter

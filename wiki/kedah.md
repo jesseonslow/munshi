@@ -72,8 +72,6 @@ type: concept
 generated: true
 ---
 
-# Kedah
-
 Kedah, the northernmost state of the [Malay](./malay.md) Peninsula, has been attested as a significant tin-trading centre since at least the ninth century, when Arab geographers recorded it under the names *Kilah* and *Kalah-bar* [[1, pp. 29–30]](#ref-1). Its political history is characterised by successive subjugations to external powers—[Palembang](./palembang.md), Siam, [Acheen](./aceh.md), the Dutch, and finally [Siam](./thailand.md) again—before the transfer of suzerainty to Great Britain in 1909 [[1, p. 35]](#ref-1). The state's [antiquities](./antiquities.md), concentrated in the Bujang Valley and surrounding areas, reveal a complex Indianised city-state with Hindu, Buddhist, and possibly Jain religious affiliations spanning several centuries [[2, pp. 188–219]](#ref-2), [[3, pp. 74–77]](#ref-3). Economically, Kedah's fortunes have oscillated between tin extraction, [rice cultivation](./rice-cultivation.md), and revenue farming, shaped by both local initiative and the constraints of foreign suzerainty [[4, pp. 107–134]](#ref-4), [[5, pp. 1–24]](#ref-5).
 
 ## Antiquities and the Ancient City-State

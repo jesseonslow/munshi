@@ -19,8 +19,6 @@ type: concept
 generated: true
 ---
 
-# Population
-
 ## Scope and Historical Definition
 
 Population studies in the [Malay](./malay.md) Peninsula and [Borneo](./borneo.md) have been shaped by the particular challenges of enumerating ethnically diverse, geographically dispersed, and often mobile communities across a region where colonial and post-colonial states imposed administrative categories that frequently obscured rather than revealed the true structure of human settlement. The [literature](./literature.md) spanning nearly a century of inquiry reveals a recurring tension between the statistical apparatus of the census and the lived reality of populations whose boundaries, movements, and demographic behaviours resist neat classification. From the earliest attempts to date [Chinese settlement in Malacca](./chinese-settlement-in-malacca.md) to the analysis of [Malaysia](./malaysia.md)'s 2000 census, the central preoccupation has been to understand not merely how many people inhabit a given territory, but who they are, where they came from, how they reproduce, and how their numbers shift in response to economic, political, and ecological forces.

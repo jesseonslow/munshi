@@ -19,8 +19,6 @@ type: group
 generated: true
 ---
 
-# Chinese in Singapore
-
 The Chinese community in Singapore constitutes the largest ethnic group in the city-state, numbering 730,133 at the 1947 census and 1,090,596 by 1957 [[1, p. 9]](#ref-1), [[2, p. 128]](#ref-2). The community is linguistically diverse, organised primarily around [dialect](./dialects-and-dictionaries.md)-groups—Hokkien, Cantonese, Teochew, Hainanese, and Hakka—each carrying distinct patterns of [family](./family.md) organisation, migration, and associative life [[1, p. 9]](#ref-1). From the early nineteenth century onward, [Chinese](./chinese.md) migrants established themselves as the commercial and [labour](./labour.md) backbone of [Singapore](./singapore.md)'s urban economy, pioneering [agriculture](./agriculture.md) in the hinterland, building extensive associative institutions, and developing a rich religious and cultural infrastructure that persists to the present [[3, pp. 205–207]](#ref-3), [[4, pp. 78–79]](#ref-4). By the mid-twentieth century, the community had undergone a profound demographic transformation: from a largely foreign-born, transient [population](./population.md) in the early 1900s to one in which sixty per cent of its members were locally born by 1947 [[1, p. 83]](#ref-1).
 
 ## Geographic Distribution & Settlement Patterns

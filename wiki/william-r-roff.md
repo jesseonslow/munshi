@@ -19,8 +19,6 @@ type: person
 generated: true
 ---
 
-# William R. Roff
-
 ## Early Life and Academic Formation
 
 William R. Roff (1929–2013) was a British-born historian of [Southeast Asia](./southeast-asia.md) whose scholarly career spanned more than four decades and whose work on the political and social history of the Malay world remains a foundational reference for the field. He is best known for his monograph *The End of the Old Colonial Order in the [Malay](./malay.md) States, 1941–1945* (1967), which established a new interpretive framework for understanding the Japanese occupation of Malaya and its aftermath, and for his subsequent studies of the Malayan Emergency and the broader trajectory of decolonisation in the region. Roff held academic positions at the University of [Malaya](./malaya.md) and later at the University of British Columbia, and he served as a Fellow of the [Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md), contributing to its journal over many years [[1, pp. 83–88]](#ref-1).

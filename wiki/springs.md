@@ -17,8 +17,6 @@ type: concept
 generated: true
 ---
 
-# Springs
-
 The thermal springs of the Malay Peninsula, documented primarily in [Selangor](./selangor.md), Malacca, and Pahang, constitute a class of simple thermal waters of non-volcanic origin, characterised by high temperatures, low dissolved mineral content, and the presence of trace hydrogen sulphide. First systematically investigated by colonial-era chemists and geologists, these springs were found to range in temperature from approximately 95° to 185° Fahrenheit, to emerge from granitic formations, and to possess therapeutic properties attributed chiefly to their heat and sulphurous content rather than to any significant mineral load [[1, pp. 43–45]](#ref-1). Their distribution across the peninsula, from the padi swamps of [Malacca](./melaka.md) to the jungle spurs of [Pahang](./pahang.md), and their use by [Malay](./malay.md) and [Chinese](./chinese.md) communities for bathing, particularly in the treatment of skin diseases, established them as objects of both scientific inquiry and local cultural practice [[1, pp. 58–59]](#ref-1), [[2, p. 263]](#ref-2).
 
 ## Geological Setting and Physical Characteristics

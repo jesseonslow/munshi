@@ -30,8 +30,6 @@ type: concept
 generated: true
 ---
 
-# Games
-
 Games in the Malay Peninsula and [Borneo](./borneo.md) encompass a wide range of recreational and [gambling](./gambling.md) activities documented from the late nineteenth century through the mid-twentieth century, spanning Chinese lotteries, [Malay](./malay.md) board games, card games, and outdoor entertainments. The [literature](./literature.md) reveals a region in which gaming served simultaneously as a social institution, an economic activity, and a source of administrative concern for colonial authorities. The games recorded range from the highly organised Chap-Ji-Ki lottery that swept through [Singapore](./singapore.md)'s [Chinese](./chinese.md) trading community in the 1890s [[1]](#ref-1) to the village-level board games played with tamarind seeds on boat-shaped boards [[2]](#ref-2), and from the complex rule systems of [Malay chess](./malay-chess.md) [[3]](#ref-3) to the simple shell-scattering games of small children [[4]](#ref-4).
 
 ## Members & Sub-Topics
@@ -43,7 +41,7 @@ Games in the Malay Peninsula and [Borneo](./borneo.md) encompass a wide range of
 - [Chess](./chess.md)
 - [Chongkak](./chongkak.md)
 
-### Chinese Lotteries and Gambling
+## Chinese Lotteries and Gambling
 
 The most extensively documented category of games in the archival record concerns Chinese gambling practices in the [Straits Settlements](./straits-settlements.md), particularly the two major lottery systems that operated in [Penang](./penang.md) and Singapore during the late nineteenth century.
 
@@ -51,7 +49,7 @@ The Hua-Hoey (Thirty-Six Animals) lottery was described in detail by [C.W.S. Kyn
 
 The Chap-Ji-Ki lottery, documented by G.T. Hare in 1898, represented a newer and more tightly organised form of gambling that swept through Singapore's Straits-born Hokkien and Teochew Chinese trading community between 1893 and 1896 [[1]](#ref-1). The game is won by guessing one of twelve cards—six "red" and six "black," derived from Chinese chess figures—selected from a pack of ordinary Chinese playing [cards](./cards.md); winners received ten times their stake [[1, p. 4]](#ref-1). Hare's account is notable for its detailed operational knowledge, documenting the symbolic notations used on stake packets, the internal communication protocols between managers and collectors, and the elaborate evasion strategies employed against [police](./police.md) detection [[1]](#ref-1). The principal distinguishing feature of the Singapore variant was that it was a "close" lottery, confined practically to Hokkien and Teochew Straits-born Chinese women of the trading classes [[1]](#ref-1). Daily total stakes at the three principal lotteries ranged from $300 to $500 or more, while sub-agencies handled roughly $100 per day [[1, pp. 9–10]](#ref-1). Collectors (*phoe-kha*) received a commission of at least 10 per cent on all [money](./money.md) won by their clients [[1, p. 9]](#ref-1). The game was broken up by Government action in 1896 [[1, p. 2]](#ref-1).
 
-### Malay Board Games and Card Games
+## Malay Board Games and Card Games
 
 The Malay board game tradition is represented in the records by several distinct types, ranging from the mancala [family](./family.md) to chess variants to fox-and-geese games.
 
@@ -63,7 +61,7 @@ Other Malay board games include *sodok apit*, described by Raja [Samusah](./samu
 
 Malay card games were treated by R.O. Winstedt in 1906 as a supplement to [W.W. Skeat](./walter-william-skeat.md)'s earlier account in *Malay [Magic](./magic.md)* [[11]](#ref-11). Winstedt documents four distinct games: *main chabut*, a vingt-et-un variant played to either twenty-one or thirty-one pips; *daun tiga lei* (or *pakau*), a three-card game whose hand rankings vary significantly by region; *main trop*, a trick-taking game; and *main daun cheki*, a card game with two species, *cho'it* and *chochot* [[11]](#ref-11). The regional variation in *daun tiga lei* is particularly striking: in [Perak](./perak.md) the best hand is three aces, in [Selangor](./selangor.md) three threes, and in Singapore three court cards (*tiga kuda*), while in Singapore three aces are the worst possible hand, scoring only three pips [[11, pp. 86–87]](#ref-11). Winstedt also records a set of covert hand signals used by colluding partners in *main trop*, which he wryly notes are "masonic signs accounted by Malay gamblers proper and clever, but which we should call cheating" [[11, p. 88]](#ref-11).
 
-### Outdoor Games and Entertainments
+## Outdoor Games and Entertainments
 
 The records also encompass outdoor games and physical entertainments that form part of the broader recreational culture. A.H. Hill's 1952 survey of Kelantan documents bull-fighting, kite-flying, and the shadow play (*wayang kulit*) alongside the board game *Main Rimau* [[10]](#ref-10). The Kota Bharu bull-fighting arena (*bong*) measures sixty yards square, enclosed by stout bamboo posts with the top horizontal rail approximately eight feet from the ground [[10, p. 20]](#ref-10). The Sultan of Kelantan had made bull-fighting and all animal contests illegal before the war primarily to curb gambling; the ban was lifted in August 1950 at the suggestion of the Kelantan University Appeal Fund Committee [[10, p. 20]](#ref-10). Hill catalogues the taxonomy of bull colouration (*kumbang*, *jebat*, *gedabu*, *sela*, *kubing*, *kijang*, *langsat*, and mixed types), horn morphology (*dogol*, *debek*, *chakar*, *molek*, *sodo'*, *kupit*, *kerutut*, *kerutok*), and fighting techniques (*tandok*, *ambil rusok*, *pulas*, *bembing*, *gonggong*, *tanggang*) [[10]](#ref-10).
 
@@ -71,17 +69,13 @@ The largest Kelantan [kites](./kites.md) stand ten feet high with an eight-foot 
 
 [C. Bazell](./c-bazell.md)'s 1928 note, communicated from Malay College, [Kuala Kangsar](./kuala-kangsar.md), presents rules for three games written by students: an outdoor jumping game introduced by the refrain "Pat! Pat! Suku Lipat; Siapa dapat, orang itu melompat"; *Belaga Buah Keras*, a gambling game particularly associated with the [Pahang](./pahang.md) Malays in which two competitors each produce a hard nut (*buah keras*) that is placed in a wooden press and stamped until one breaks; and *Tebar Jala* ("Throwing the casting net"), a shell-scattering game for small children [[4]](#ref-4).
 
-### Research and Documentation
+## Research and Documentation
 
 The Society's literature on games spans nearly seven decades, from Kynnersley's 1885 description of Hua-Hoey to Hill's 1952 survey of Kelantan entertainments, and reveals a shifting set of priorities that mirrors broader changes in colonial administrative and scholarly concern. The earliest contributions—Kynnersley on Hua-Hoey [[5]](#ref-5) and Hare on Chap-Ji-Ki [[1]](#ref-1)—are explicitly motivated by the need to build a legislative case for suppression, and their authors were colonial administrators or officials with direct operational knowledge of the games' internal mechanics. These pieces read as professional records rather than purely scholarly exercises, and their framing of Chinese gambling through Restoration-era English analogies reflects the administrative discourse of the period that treated indigenous gambling as a problem to be managed rather than a cultural practice to be understood on its own terms [[1]](#ref-1).
 
 The turn of the century saw a shift toward comparative [ethnography](./ethnography.md). Elcum's study of Malay chess [[3]](#ref-3), Hellier's note on jongkak [[2]](#ref-2), Winstedt's card games [[11]](#ref-11), and Overbeck's chongkak [[7]](#ref-7) all follow the standard practice of the colonial administrative class in cataloguing local customs for a metropolitan learned society, with the village game rendered as a curiosity to be described and classified. These pieces are grounded in direct personal observation and fieldwork, and they begin to establish comparative frameworks—Elcum's rule-by-rule comparison with European chess, Overbeck's linking of Javanese, Malay, and Ceylonese [traditions](./traditions.md), Winstedt's documentation of regional variation in hand rankings.
 
 The interwar and post-war period introduces a different register. Samusah's bilingual note on *sodok apit* [[8]](#ref-8) and Bazell's student-written rules [[4]](#ref-4) reflect the institutionalisation of Malay cultural knowledge within the colonial [education](./education.md) system, with Malay College, Kuala Kangsar, serving as a site of both preservation and transmission. Hill's 1952 survey [[10]](#ref-10) represents the most mature ethnographic treatment in the series, combining personal fieldwork with comparison against earlier colonial-era publications and situating Kelantanese practices within broader South and Southeast Asian traditions. The immediate post-war context—several traditional entertainments in flux due to the recent lifting of the Sultan's ban and the growing influence of cinema—gives the piece a sense of cultural urgency absent from the earlier, more detached administrative accounts.
-
-## Chinese Games
-
-##  Malay Games
 
 ## MBRAS Sources
 

@@ -28,8 +28,6 @@ type: concept
 generated: true
 ---
 
-# Bugis
-
 The Bugis are a South Sulawesi people whose diaspora across the Malay Peninsula, the [Riau Archipelago](./riau-archipelago.md), and western [Borneo](./borneo.md) between the late seventeenth and eighteenth centuries produced one of the most consequential political migrations in early modern Southeast Asian history. Originating primarily in the kingdom of Luwu' in south [Celebes](./celebes.md), Bugis noble families established dynastic rule in Johor, Riau, Pontianak, Mempawah, Sambas, and Matan, while a substantial Bugis [population](./population.md) also settled in [Brunei](./brunei.md) and southwest [Sumatra](./sumatra.md) [[1, pp. 119–121]](#ref-1). By the late eighteenth century, an estimated 40,000 Bugis of "pure and mixed blood, high and low status, male and female" lived along the Riau River alone [[1, p. 135]](#ref-1). In the modern period, approximately 500,000 Bugis Malays reside throughout [Malaysia](./malaysia.md), with around 200,000 in the state of [Johor](./johor.md) [[2, p. 80]](#ref-2). The Bugis diaspora was not merely a demographic phenomenon but a political one: the Bugis created a unique form of governance that blended their own institutions with [Malay](./malay.md) frameworks, anchored in sacred oaths of loyalty and institutionalised through the offices of *Raja Muda* (vice-regent) and *Raja Tua* (elder king) based at Riau [[1, pp. 128–131]](#ref-1).
 
 ## Origins, Naming, and the Question of Identity

@@ -14,8 +14,6 @@ type: concept
 generated: true
 ---
 
-# Cooperative societies
-
 Cooperative societies in colonial [Malaya](./malaya.md) were introduced in 1922 with the promulgation of the Cooperative Societies Enactment, a policy aligned with contemporaneous colonial initiatives in [India](./india.md), [Burma](./burma.md), and other dependencies. The movement was designed to address the persistent indebtedness of agricultural smallholders and workers by introducing competitive credit sources into the unorganised [money](./money.md) market, while simultaneously inculcating concepts of thrift, collective ownership, and participatory governance into communities previously structured around feudal and traditional hierarchies. [[1, pp. 151–152]](#ref-1)
 
 ## Scope and Historical Definition

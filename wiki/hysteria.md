@@ -17,8 +17,6 @@ type: concept
 generated: true
 ---
 
-# Hysteria
-
 ## Hysteria
 
 The term *hysteria*, in its broadest clinical and anthropological usage, has long served as a catch-all category for psychogenic conditions characterised by sudden outbursts of uncontrolled behaviour, vocalisation, and motor disturbance. In the [Malay](./malay.md) Peninsula and [Borneo](./borneo.md), two such conditions—*[latah](./latah.md)* and *[amok](./amok.md)*—have attracted sustained scholarly attention, particularly for their distinctive cultural expressions and their apparent parallels with abnormal mental phenomena observed among geographically distant peoples. The comparative study of these conditions, as documented in the early [literature](./literature.md) of the [Malayan Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md), reveals a field of inquiry that straddled clinical [medicine](./medicine.md), [ethnography](./ethnography.md), and the emerging discipline of cross-cultural psychology, with scholars debating whether such phenomena were culturally specific or represented universal expressions of a common underlying psychological mechanism.

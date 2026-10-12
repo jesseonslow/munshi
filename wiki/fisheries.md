@@ -17,8 +17,6 @@ type: concept
 generated: true
 ---
 
-# Fisheries
-
 ## Fisheries
 
 The fishing industry of the [Malay](./malay.md) Peninsula and Singapore constitutes one of the region's oldest and most economically significant sectors, encompassing a wide diversity of gear types, ethnic communities, and marketing arrangements that have evolved considerably from the late nineteenth century through the 1970s. From the fixed-stake traps of the Perak coast to the offshore palisade enclosures of [Singapore](./singapore.md), from the purse seine fleets of the [Kedah](./kedah.md) and [Perak](./perak.md) river mouths to the trawler fleets that dominated the industry by the mid-1970s, the fishery has been shaped by monsoonal cycles, technological change, and shifting patterns of capital ownership. The records preserved in the Society's journals document this history across more than eight decades, from colonial administrative [surveys](./surveys.md) of the 1880s to quantitative analyses of the post-independence economy.

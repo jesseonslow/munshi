@@ -40,8 +40,6 @@ type: concept
 generated: true
 ---
 
-# Agriculture
-
 Agriculture in the [Malay](./malay.md) Peninsula and [Borneo](./borneo.md) has been shaped by a succession of export crops—spices, [pepper](./pepper.md), [gambier](./gambier.md), sugar, [coffee](./coffee.md), tobacco, rubber, and oil palm—each of which transformed the economic geography of the territories in which it was cultivated. From the earliest colonial settlements of the late eighteenth century through the post-war expansion of oil palm in the twenty-first century, the region's agricultural [history](./history.md) is characterised by cycles of speculative boom and market collapse, by the persistent tension between administrative policy and local conditions, and by the structural dependence of raw-material producers on distant markets. The planting material for virtually every major export crop originated in what is now [Indonesia](./indonesia.md), establishing a parallelism between the [Dutch East Indies](./netherlands-east-indies.md) and the [Malay](./malay.md) Peninsula that has persisted to the present day [[1]](#ref-1).
 
 ## Scope and Historical Definition

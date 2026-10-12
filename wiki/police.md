@@ -23,8 +23,6 @@ type: concept
 generated: true
 ---
 
-# Police
-
 The police in the Malay Peninsula and [Borneo](./borneo.md) emerged as a colonial institution shaped by the practical demands of frontier governance, tin-mining security, and the management of multi-ethnic populations in the [Straits Settlements](./straits-settlements.md) and the [Malay](./malay.md) States. From its earliest formalisation in [Malacca](./melaka.md) in 1827 through the creation of the [Federated Malay States](./federated-malay-states.md) Police in the 1890s, the police served simultaneously as a civil administrative instrument, a [military](./military.md) garrison, and a community-integrated force whose composition and deployment reflected the particular social geography of each territory. The records preserved in the Society's journals document a force that was never merely a law-enforcement body but a central mechanism through which colonial authority was projected into the interior, revenue was collected, and the boundaries of sovereignty were policed against [piracy](./piracy.md), banditry, and inter-communal violence.
 
 ## Origins and Institutional Formation

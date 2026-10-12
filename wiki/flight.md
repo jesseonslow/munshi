@@ -15,8 +15,6 @@ type: concept
 generated: true
 ---
 
-# Flight
-
 The subject of animal flight in the [Malay](./malay.md) Peninsula and Borneo has been investigated primarily through quantitative biometric studies, with the most substantial contribution to the regional [literature](./literature.md) being a 1930 paper by [E. Banks](./e-banks.md), Curator of the [Sarawak](./sarawak.md) Museum, which tested the mathematical relationship between body weight and wing area across birds, [bats](./bats.md), and insects using specimens collected during four years of comparative isolation in [Borneo](./borneo.md) [[1, p. 334]](#ref-1).
 
 ## Scope and Historical Definition

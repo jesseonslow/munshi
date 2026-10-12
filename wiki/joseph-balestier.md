@@ -16,8 +16,6 @@ type: concept
 generated: true
 ---
 
-# Joseph Balestier
-
 Joseph Balestier (c. 1785–after 1852) served as the first American consul in Singapore from 1833 to 1852, a tenure of nineteen years during which he shaped the early American commercial and diplomatic presence in the [Straits Settlements](./straits-settlements.md). Arriving from a respectable New England [family](./family.md) at approximately 49 years of age, Balestier combined his consular duties with mercantile and agricultural pursuits, acting as agent for the majority of American vessels calling at the port and operating a sugar plantation on the island's outskirts [[1, pp. 108–109]](#ref-1). His career was defined by the legal ambiguities of the 1815 US–British Convention of [Commerce](./commerce.md), which had excluded [Singapore](./singapore.md) from the list of ports open to American trade, and by the personal and financial constraints of a consular post that paid approximately $100 in annual fees while demanding an expenditure of $3,000 to $5,000 per year to maintain the dignity of the office [[1, p. 10]](#ref-1).
 
 ## Consular Appointment and Legal Constraints

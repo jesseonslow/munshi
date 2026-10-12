@@ -14,8 +14,6 @@ type: person
 generated: true
 ---
 
-# Alexander the Great
-
 Alexander the Great, the Macedonian king whose conquests extended from Greece to the Indian subcontinent, has left a remarkable afterlife in the literary and folkloric [traditions](./traditions.md) of the [Malay](./malay.md) world. In the Malay and Indonesian [archives](./archives.md), his figure survives not as a historical portrait but as a legendary hero whose name, deeds, and lineage were absorbed into local chronicles, romances, and cosmological narratives. The two principal scholarly treatments of this phenomenon in the Society's [literature](./literature.md) are the works of [R. O. Winstedt](./richard-olaf-winstedt.md), whose 1938 study of the [Malay](./malay.md) romance of Alexander and his 1940 note on the Mount Meru and Chula legends together constitute the foundational documentation of the subject in this field [[1]](#ref-1), [[2]](#ref-2).
 
 ## The Malay Romance of Alexander

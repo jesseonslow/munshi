@@ -33,8 +33,6 @@ type: concept
 generated: true
 ---
 
-# Boats
-
 Boats of the [Malay](./malay.md) Peninsula and [Borneo](./borneo.md) constitute a diverse and historically layered maritime tradition, encompassing everything from single-man dugout canoes to large multi-masted cargo vessels. The region's sheltered straits, extensive mangrove coastlines, and monsoon-driven trade routes produced a fleet characterised by shallow draught, lightweight construction, and a persistent synthesis of indigenous, [European](./european.md), and [Chinese](./chinese.md) design elements. From the small *kolek* (a Malay term for a shallow-keeled fishing or cargo boat) of the [Singapore](./singapore.md) Strait to the *perahu pinas* of the [Trengganu](./terengganu.md) coast, these vessels reflect both the ecological constraints of their operating waters and the complex ethnic and commercial networks through which they were built, manned, and traded [[1, pp. 121–133]](#ref-1), [[2, pp. 106–125]](#ref-2). The study of these craft has been a sustained programme of documentation, driven by the recognition that modernisation and the displacement of sail by motor were erasing an entire material culture within a single generation [[3, p. 99]](#ref-3).
 
 ## Typology and Construction

@@ -14,8 +14,6 @@ type: concept
 generated: true
 ---
 
-# Katydids
-
 The Malayan katydid fauna, comprising the families Gryllacridae and Tettigoniidae, was comprehensively revised in 1923 by H. H. Karny, a German entomologist based at the Zoological Museum in Buitenzorg, [Dutch East Indies](./netherlands-east-indies.md), who drew on specimens held at the [Raffles](./stamford-raffles.md) Museum, [Singapore](./singapore.md) [[1, pp. 116–193]](#ref-1). His work established a definitive catalogue for the Malayan sub-region, expanding the known fauna from 320 to 357 species and describing 35 new species and one new genus [[1, p. 116]](#ref-1). The revision covered both the [Malay](./malay.md) Peninsula and [Borneo](./borneo.md), with 21 species new to the former and four new to the latter [[1, p. 116]](#ref-1).
 
 ## Taxonomic Scope and Nomenclatural Revisions

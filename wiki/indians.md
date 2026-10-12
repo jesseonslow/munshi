@@ -14,8 +14,6 @@ type: concept
 generated: true
 ---
 
-# Indians
-
 The Indian community in the Malay Peninsula and [Borneo](./borneo.md) constitutes one of the region's most historically layered and internally diverse populations, whose presence spans from the earliest recorded contacts between South Asian traders and the Malay world in the first century A.D. through the colonial plantation economy of the nineteenth and twentieth centuries to the present day [[1, pp. 1–2]](#ref-1). The community is not a monolith: it encompasses Tamil, Malayalee, Ceylonese, Punjabi, and Bengali sub-groups, each with distinct occupational histories, religious affiliations, and social structures [[2, p. 54]](#ref-2), [[3, p. 107]](#ref-3). Its economic footprint has ranged from the Chettiar moneylending networks that financed tin mining and rubber estates [[4, p. 61]](#ref-4) to the rubber plantation [labour](./labour.md) that formed the demographic backbone of the Indian [population](./population.md) in [Malaya](./malaya.md) [[5, p. 87]](#ref-5). Culturally, Indian influence on the [Malay](./malay.md) world extends from the Sanskrit [inscriptions](./inscriptions.md) of the [Sri Vijaya](./sri-vijaya.md) period to the living [traditions](./traditions.md) of temple worship, traditional [medicine](./medicine.md), and social reform that persist into the modern era [[1, pp. 6–8]](#ref-1), [[3, pp. 77–109]](#ref-3), [[2, pp. 54–67]](#ref-2).
 
 ## Historical Depth and Cultural Transmission

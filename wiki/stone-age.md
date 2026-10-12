@@ -22,8 +22,6 @@ type: concept
 generated: true
 ---
 
-# Stone age
-
 The Stone Age in the [Malay](./malay.md) Peninsula and [Borneo](./borneo.md) is attested through a substantial corpus of polished stone [implements](./implements.md), perforated discs, bark-cloth beaters, and associated [ceramics](./ceramics.md) recovered from shell mounds, [caves](./caves.md), alluvial deposits, and surface finds across both regions. The material record spans from the Neolithic—characterised by cord-impressed [pottery](./pottery.md), polished quadrangular adzes, and cremation burials—into the early [Metal Age](./metal-age.md), with radiocarbon dates placing the earliest confirmed Neolithic activity in the region at approximately 1,130 B.C. [[1, pp. 150–151]](#ref-1). The assemblages document a complex of technical [traditions](./traditions.md) whose origins, interactions, and diffusion routes remain subjects of active scholarly debate, with implications extending from local [prehistory](./prehistory.md) to the broader question of Austronesian and pre-Austronesian [population](./population.md) movements across South-East Asia [[2, p. 214]](#ref-2), [[3, p. 84]](#ref-3).
 
 ## Scope and Chronological Framework

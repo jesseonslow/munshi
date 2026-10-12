@@ -20,8 +20,6 @@ type: concept
 generated: true
 ---
 
-# Siwang
-
 ## Scope and Historical Definition
 
 The Siwang, more commonly known in the modern literature as the Chewong, are a small foraging and shifting-cultivation people of the mountainous rain forest of western [Pahang](./pahang.md), on the [Malay](./malay.md) Peninsula. By the mid-1950s their [population](./population.md) numbered approximately 140 individuals, distributed across the Teris and Dong areas, and they were in the process of being forcibly relocated from their ancestral territory during the Malayan Emergency [[1, pp. 52]](#ref-1). The group's name has been a point of scholarly contention: the earlier [literature](./literature.md), following C. S. Ogilvie's three articles of 1940, 1948, and 1949, used the form "Che Wong," while the informants themselves preferred "Siwang" [[1, p. 50]](#ref-1). The Chewong are one of several [Orang Asli](./orang-asli.md) groups of the region, and their immediate neighbours include the Bateg [Negritos](./negritos.md), the Jah Chong, and the Bi Nyeb [[1]](#ref-1).

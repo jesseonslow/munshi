@@ -17,8 +17,6 @@ type: concept
 generated: true
 ---
 
-# Moluccas
-
 The Moluccas, a cluster of islands in the eastern Indonesian archipelago, were for over two centuries the principal source of the world's supply of cloves and nutmegs, commodities whose extraordinary value to [European](./european.md) [commerce](./commerce.md) made them the object of sustained colonial rivalry between the Dutch and the British. The [islands](./islands.md)' strategic and economic significance is attested by the two British naval occupations of 1796–1803 and 1810–1817, during which the Dutch spice monopoly was disrupted, and by the systematic transplantation of spice [trees](./trees.md) to rival colonies that ultimately rendered the monopoly unworkable [[1, pp. 1–127]](#ref-1). The British expedition under Admiral Rainier, documented in a contemporaneous voyage journal by Captain Walter Caulfield Lennon, provides a rare non-combatant account of the early phase of the first occupation, while the economic and administrative history of the monopoly system itself has been reconstructed from [Dutch East India Company](./dutch-east-india-company.md) [archives](./archives.md) [[2, pp. 51–74]](#ref-2), [[1, pp. 1–127]](#ref-1).
 
 ## The Dutch Spice Monopoly

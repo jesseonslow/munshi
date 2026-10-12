@@ -14,8 +14,6 @@ type: concept
 generated: true
 ---
 
-# Refugees
-
 ## Scope and Historical Definition
 
 The term "refugee" in the Malaysian context encompasses a diverse range of displaced populations whose arrivals have shaped the country's demographic, cultural, and political landscape. The records available to the Society's [literature](./literature.md) reveal at least two distinct refugee phenomena: the Indochinese refugee crisis of the 1970s and early 1980s, which brought approximately 250,000 displaced persons from Cambodia, Vietnam, and [Laos](./laos.md) to the region, and earlier episodes of wartime displacement during the Japanese occupation of [Malaya](./malaya.md). The Cham refugee community, drawn primarily from [Cambodia](./cambodia.md) and Vietnam, represents one of the most studied sub-groups within the broader Indochinese exodus, with approximately 50,000 Cham arriving in [Malaysia](./malaysia.md) between 1975 and 1982 [[1, p. 155]](#ref-1). The wartime experience of individuals fleeing Japanese occupation, as documented in personal accounts, provides an earlier and qualitatively different dimension to the refugee question in the region [[2, p. 184]](#ref-2).

@@ -14,8 +14,6 @@ type: concept
 generated: true
 ---
 
-# Gutta-percha
-
 Gutta-percha, a hard, inelastic latex obtained from the bark of certain forest trees, was one of the most commercially significant natural products of the [Malay](./malay.md) Peninsula and [Borneo](./borneo.md) in the late nineteenth century, prized particularly for its use in telegraph cable manufacture. The material was collected by indigenous communities across the region and traded through colonial entrepôts such as [Labuan](./labuan.md) and [Singapore](./singapore.md), where it was exported in substantial quantities to [European](./european.md) markets. The botanical identity of the trees producing the [various](./various.md) commercial grades remained a subject of considerable confusion throughout the 1870s and 1880s, prompting sustained investigation by colonial [botanists](./botanists-and-botanical-gardens.md) and administrators who recognised that the reckless destruction of source [trees](./trees.md) threatened the long-term viability of the trade. [[1, pp. 52–53]](#ref-1)
 
 ## Botanical Identity and Taxonomic Confusion

@@ -14,8 +14,6 @@ type: concept
 generated: true
 ---
 
-# Isabella Bird
-
 Isabella Bird (1831–1904) was a British travel writer whose five-week visit to the Malay States in early 1879 produced one of the most vivid English-language accounts of the region's colonial administration and natural [environment](./environment.md). Her published work, *The Golden Chersonese* (1883), drew on letters written to her sister Henrietta during the journey, and remains a primary source for the political and social conditions of the [Straits Settlements](./straits-settlements.md) and the [Malay](./malay.md) States on the eve of the Resident system's consolidation [[1, pp. 113–114]](#ref-1).
 
 ## The 1879 Visit

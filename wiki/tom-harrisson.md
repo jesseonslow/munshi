@@ -16,8 +16,6 @@ type: person
 generated: true
 ---
 
-# Tom Harrisson
-
 ## Early Life and Formative Years
 
 Tom Harrisson (1912–1976) was a British anthropologist, archaeologist, ornithologist, and conservationist whose career in [Borneo](./borneo.md) transformed the region's natural and cultural heritage. He served as Government Ethnologist and Curator of the Sarawak Museum from 1945 to 1966, a tenure during which he expanded the institution into one of the finest [museums](./museums.md) and libraries in [Southeast Asia](./southeast-asia.md) [[1, p. 147]](#ref-1). His work spanned prehistoric [archaeology](./archaeology.md), ornithology, [ethnography](./ethnography.md), and conservation, and he was recognised with the title Dato in [Sarawak](./sarawak.md) [[1, p. 147]](#ref-1).

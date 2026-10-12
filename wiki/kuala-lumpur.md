@@ -20,8 +20,6 @@ type: concept
 generated: true
 ---
 
-# Kuala Lumpur
-
 Kuala Lumpur, the capital of [Malaysia](./malaysia.md), is a city whose name is commonly translated as 'muddy confluence,' referring to the junction of the Klang and Gombak Rivers on the west coast of the [Malay](./malay.md) Peninsula [[1]](#ref-1). However, recent toponymic research has demonstrated that the city's name derives not from this confluence but from a now-lost tributary stream called *Sungai Lumpur* (Mud River), which once ran through the heart of the modern city before being renamed, channelised, and largely covered over [[1]](#ref-1). The settlement that became Kuala Lumpur originated in the late 1850s as a river transhipment point serving the tin mines of the upper [Klang](./klang.md) valley, and within four decades it had grown from a thatched-roofed mining village into a multi-ethnic colonial capital with functioning municipal institutions, a railway network, and a [population](./population.md) estimated at 25,000 by 1895 [[2]](#ref-2), [[3]](#ref-3). The city's development was shaped by the interplay of tin-mining [economics](./economics.md), colonial administrative decisions, and the personal agency of key figures—above all the Hakka mining magnate [Yap Ah Loy](./yap-ah-loy.md), whose leadership during the [Selangor](./selangor.md) Civil War (1867–74) and the subsequent reconstruction period made him the principal architect of the town's early growth [[4]](#ref-4), [[3]](#ref-3).
 
 ## Origins and Toponymy

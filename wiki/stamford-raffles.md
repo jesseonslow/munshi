@@ -37,8 +37,6 @@ type: person
 generated: true
 ---
 
-# Stamford Raffles
-
 ## The Orienting Lede
 
 Sir Thomas Stamford Raffles (1781–1826) was a British colonial administrator, naturalist, and scholar who served as Lieutenant-Governor of [Java](./java.md) (1811–1816) and founding Governor of [Singapore](./singapore.md) (1819). His career spanned the Indian Archipelago at a moment of decisive geopolitical transition, and his legacy is defined by [the establishment of Singapore](./the-establishment-of-singapore.md) as a free port, his systematic study of [Malay](./malay.md) legal and linguistic institutions, and his foundational contributions to [zoology](./zoology.md) and [botany](./botany.md). Raffles remains one of the most contested figures in Southeast Asian historiography: celebrated by the British colonial establishment and successive Singaporean governments as a visionary founder, yet subjected to sustained revisionist critique from the 1950s onward that interrogates the limits of his administrative competence, the parochialism of his racial assumptions, and the degree to which his achievements were attributable to subordinates rather than to himself.

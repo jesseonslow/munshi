@@ -33,8 +33,6 @@ type: concept
 generated: true
 ---
 
-# Mammals
-
 The mammals of the [Malay](./malay.md) Peninsula and [Borneo](./borneo.md) constitute a fauna of considerable taxonomic richness and ecological complexity, documented in the Society's journals from the late nineteenth century through the late twentieth century. The region supports diverse assemblages ranging from small insectivores and rodents to large ungulates and carnivores, with pronounced endemism in montane and insular settings [[1]](#ref-1), [[2]](#ref-2), [[3]](#ref-3). Mammals in this region have served not only as objects of scientific inquiry but also as agents of ecological processes such as seed dispersal [[4]](#ref-4), as subsistence resources for forest-dwelling communities [[5]](#ref-5), and as cultural artefacts in funerary and ceremonial practice extending back at least three millennia [[6]](#ref-6). The [literature](./literature.md) spans rapid taxonomic description, field ecology, biogeographic analysis, and osteological [archaeology](./archaeology.md), reflecting shifting disciplinary priorities across more than a century of investigation.
 
 ## Members & Sub-Topics

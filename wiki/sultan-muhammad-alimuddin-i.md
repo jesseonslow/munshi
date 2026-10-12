@@ -15,8 +15,6 @@ type: person
 generated: true
 ---
 
-# Sultan Muhammad Alimuddin I
-
 Sultan Muhammad Alimuddin I (r. 1735–1773) was the ruler of the Sultanate of [Sulu](./sulu.md) whose reign was shaped by the competing imperial ambitions of Spain and Britain, his personal fascination with [Christianity](./christianity.md), and the centralizing reforms he attempted to impose on a turbulent aristocracy. De la Costa characterises him as "a highly intelligent and sensitive individual, capable of conceiving large views on the government of his realm, but somewhat lacking in the resolution of will and the practical grasp of affairs necessary to carry them into effect" [[1, p. 71]](#ref-1).
 
 ## Accession and Early Reforms

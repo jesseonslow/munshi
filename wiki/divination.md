@@ -15,8 +15,6 @@ type: concept
 generated: true
 ---
 
-# Divination
-
 ## Divination
 
 Divination, the practice of seeking knowledge of the future or of hidden matters through supernatural or ritual means, has been documented across the Malay Peninsula and among Chinese communities in the [Straits Settlements](./straits-settlements.md) and [Malaya](./malaya.md). The ethnographic record preserved in the Society's journal reveals a diverse landscape of divinatory techniques, ranging from the simple observation of [natural phenomena](./natural-phenomena.md) to complex symbolic systems rooted in cosmological philosophy. These practices served functions that extended well beyond mere fortune-telling, encompassing the resolution of disputes, the validation of social bonds such as [marriage](./marriage.md), and the protection of domestic and commercial spaces. The evidence, though drawn from relatively brief field observations and descriptive notes, illuminates the coexistence of indigenous [Malay](./malay.md), [Chinese](./chinese.md), and Islamic elements within a single cultural milieu, and raises questions about the boundaries between religious observance, popular superstition, and practical social mechanism.

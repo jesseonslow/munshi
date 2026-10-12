@@ -15,8 +15,6 @@ type: concept
 generated: true
 ---
 
-# Crabs
-
 ## Terrestrial Decapods of the Indo-West-Pacific
 
 [Land crabs](./land-crabs.md), together with their close relatives the land-hermit-crabs and robber-crabs, represent a small but ecologically conspicuous subset of the decapod crustaceans that have adapted to life away from the sea. In the Indo-West-Pacific region, these animals range from tiny forest-floor species barely visible to the naked eye to the massive robber-crab, *Birgus latro*, which may attain a span of three feet across the first pair of walking-legs and a weight of five to six pounds [[1, pp. 47–48]](#ref-1). On small oceanic [islands](./islands.md) such as [Christmas Island](./christmas-island.md) and Pulau Jarak, one or a few species may occur in immense numbers and constitute the most conspicuous non-flying [animals](./animals.md) present [[1, p. 43]](#ref-1). Their significance extends beyond mere abundance: they serve as scavengers, as a source of protein for island communities, and as agents of soil disturbance, while their physiological and behavioural adaptations to terrestrial life have made them a subject of sustained scientific interest [[1, pp. 61–62]](#ref-1).

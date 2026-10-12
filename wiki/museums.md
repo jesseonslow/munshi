@@ -17,8 +17,6 @@ type: concept
 generated: true
 ---
 
-# Museums
-
 Museums in the Malaysian region have served as instruments of scientific collection, national commemoration, and cultural representation since the late nineteenth century, spanning the [Malay](./malay.md) Peninsula and [Borneo](./borneo.md). Their functions have ranged from the taxonomic description of newly collected specimens to the construction of official narratives of statehood, and from the preservation of ethnographic artefacts to the curation of archaeological heritage. The records examined here reveal a complex institutional history in which museums operated simultaneously as research centres, colonial administrative appendages, and—after independence—as vehicles for nation-building, each role carrying distinct implications for what was collected, how it was displayed, and whose story was told.
 
 ## Colonial-Era Collecting and Scientific Output

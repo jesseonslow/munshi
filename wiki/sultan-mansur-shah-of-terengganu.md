@@ -14,8 +14,6 @@ type: person
 generated: true
 ---
 
-# Sultan Mansur Shah of Terengganu
-
 Sultan Mansur Syah of Terengganu (r. 1741–1793) was the ruler of the Malay state of [Terengganu](./terengganu.md) whose fifty-year tenure made him the dominant figure in eighteenth-century [Malay](./malay.md) politics. As a close relative of the Johor court — son-in-law of [Sultan Sulaiman](./sultan-alauddin-sulaiman-shah.md) and cousin to the Johor royal house — he served as the acknowledged leader of the anti-[Bugis](./bugis.md) faction in the Riau-Johor polity and was a central actor in the prolonged struggle over the succession to the [Johor](./johor.md) throne. Contemporary [European](./european.md) observers described his government in admiring terms, noting that "his government is very well controlled for Malays" and that "he is feared and loved by his people." [[1, pp. 78]](#ref-1)
 
 ## Role in the Johor Succession and Riau Politics

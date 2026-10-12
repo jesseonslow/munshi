@@ -19,8 +19,6 @@ type: concept
 generated: true
 ---
 
-# Ceramics
-
 [The ceramic trade across the South China Sea](./the-ceramic-trade-across-the-south-china-sea.md) constitutes one of the most extensively documented material exchanges in the maritime history of [Southeast Asia](./southeast-asia.md), spanning from the thirteenth to the seventeenth centuries and linking the kilns of China with the ports, burial grounds and domestic collections of the Malay Peninsula, [Borneo](./borneo.md) and the [Philippines](./philippines.md). Chinese export ceramics—principally blue-and-white porcelains, celadons, stonewares and greenwares—were produced in vast quantities for a clientele that ranged from Muslim sultans and regional chiefs to settled farmers and forest nomads, and their distribution provides a durable chronological record of commercial activity in a region where organic and mineral commodities have long since perished [[1, pp. 99–100]](#ref-1), [[2, p. 81]](#ref-2). The trade was shaped by shifting dynastic policies in [China](./china.md), the rise and fall of Muslim sultanates, and ultimately the collision of [European](./european.md) colonial expansion with established [Malay](./malay.md) and [Chinese](./chinese.md) commercial networks, a collision that destroyed the traditional system by the mid-seventeenth century [[1, pp. 99–100]](#ref-1).
 
 ## Scope and Historical Definition

@@ -17,8 +17,6 @@ type: concept
 generated: true
 ---
 
-# Robert William Duff
-
 Robert William Duff (1860s–1932) was a British colonial administrator turned entrepreneur whose commercial enterprise, the Duff Development Company, dominated the economic landscape of Kelantan from 1900 to 1932. Arriving in British [Malaya](./malaya.md) in 1892, Duff served in the [Federated Malay States](./federated-malay-states.md) (F.M.S.) Service before invaliding out in 1900 to establish a vast land concession in the Siamese tributary state of Kelantan. His career has been variously characterised as that of an agent of British imperialism, a shrewd free-trader, or an economic baron who exploited the ambiguities of imperial policy for personal gain [[1, pp. 1–2]](#ref-1). The Duff Company's operations—spanning mining, rubber cultivation, timber extraction, and the opium and liquor trades—shaped [Kelantan](./kelantan.md)'s economic development for three decades, while its entanglement with British and Siamese diplomatic manoeuvring made it a focal point in the transfer of the Siamese [Malay](./malay.md) States to British protection in 1909 [[1, pp. 9–10]](#ref-1).
 
 ## Career and Formation of the Duff Development Company

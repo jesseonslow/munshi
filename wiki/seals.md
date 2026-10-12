@@ -25,8 +25,6 @@ type: concept
 generated: true
 ---
 
-# Seals (Numismatics)
-
 ## The Malay Seal: A Sigillographic Tradition
 
 The Malay seal—defined as a seal from Southeast Asia bearing an inscription in Arabic script—constitutes one of the most significant categories of primary source material for the history of the Malay archipelago. The largest corpus to date, a catalogue of 2,168 such seals, spans from the second half of the sixteenth century to the early twentieth century and draws on holdings from over seventy public and sixty private collections worldwide, including institutions in Malaysia, Indonesia, Brunei, Singapore, and the United Kingdom [[1, p. 2]](#ref-1). The seals originate from present-day [Malaysia](./malaysia.md), [Brunei](./brunei.md), [Singapore](./singapore.md), [Indonesia](./indonesia.md), and the southern parts of [Thailand](./thailand.md), [Cambodia](./cambodia.md) and the [Philippines](./philippines.md), reflecting the extent of the [Malay](./malay.md) *lingua franca* and Islamic cultural sphere in maritime [Southeast Asia](./southeast-asia.md) [[1, p. 2]](#ref-1). Their principal function was to identify the seal owner and to locate him or her within their social, political and spiritual universe, an identity evoked through an iteration of title and/or personal name, sometimes accompanied by a pedigree, a place name, a date, a religious expression, and an amuletic formula imbued with protective powers [[1, pp. 1–2]](#ref-1).

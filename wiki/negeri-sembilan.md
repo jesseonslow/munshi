@@ -59,8 +59,6 @@ type: concept
 generated: true
 ---
 
-# Negeri Sembilan
-
 ## Scope and Historical Definition
 
 Negeri Sembilan, or the Nine States, is a confederacy of Malay polities in the western interior of the Malay Peninsula, situated between the Straits of Malacca and the Titiwangsa range, whose distinctive constitution—a hybrid of patriarchal [Malacca](./melaka.md)-derived territorial chieftainship and matrilineal Minangkabau tribal law—represents one of the most remarkable survivals of Sumatran political culture in the [Malay](./malay.md) world [[1, pp. 35–41]](#ref-1). The confederacy was unknown to the Portuguese in 1613, to the author of the *[Malay Annals](./malay-annals.md)* in 1612, and to the Dutch in their *Dagh-Register* printed down to 1682; the original confederacy must have been created after the coming of Raja Melewar, founder of the present royal house, in 1773 [[1, p. 41]](#ref-1). The constituent states that formed the federation extant to the present day were [Sungai Ujong](./sungai-ujong.md), Rembau, [Jelebu](./jelebu.md), Johol, Ulu [Muar](./muar.md), [Inas](./inas.md), Gunong Pasir, Terachi and Jempul [[1, p. 41]](#ref-1). The name "Nine States" was adopted by the Yam-tuan Besar to ensure that his territory might not appear inferior to [Rembau](./rembau.md), which had long been described as possessing nine districts [[1, pp. 57]](#ref-1).

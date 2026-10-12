@@ -14,8 +14,6 @@ type: concept
 generated: true
 ---
 
-# Labuan
-
 Labuan is an island situated six miles off the north-west coast of [Borneo](./borneo.md), just outside Brunei Bay, approximately 40 miles from Bandar Seri Begawan. [[1, p. 18]](#ref-1) Its name derives from the [Malay](./malay.md) word *laboh-an*, meaning 'anchorage', and it covers an area of 35 square miles, comprising seven [islands](./islands.md) with a total area of 9,179 hectares. [[1, pp. 17–18]](#ref-1) Ceded by the Sultan of [Brunei](./brunei.md) to the British Crown in 1846, Labuan has passed through successive phases of colonial administration before becoming a Malaysian Federal Territory in 1984. [[1, pp. 23]](#ref-1) The island's most significant contribution to the legal history of the region lies in the Labuan Registration of Titles to Land Ordinance No. 7 of 1849, which constitutes the earliest land registration system in what is now [Malaysia](./malaysia.md). [[1, p. 17]](#ref-1)
 
 ## Cession and Colonial Administration

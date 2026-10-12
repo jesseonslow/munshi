@@ -18,8 +18,6 @@ type: concept
 generated: true
 ---
 
-# Melanus
-
 The Milano (also rendered "Milanos") are a people of [Sarawak](./sarawak.md), [Borneo](./borneo.md), whose religious life has been documented primarily through the ethnographic work of Fr. Bernard Mulder and John Hewitt, published in 1911. [[1]](#ref-1) Their spiritual [traditions](./traditions.md), centred on the figure of the *bayoh* (a male or female practitioner who professes special power in the world of spirits), include two principal ceremonies: the *Payun*, a healing rite built around a rattan swing, and the *Plato*, a post-mortem communication with a departed spirit. [[1]](#ref-1) The Milanos have no indigenous medical practice of their own, and the *Payun* functions as a last resort for severe illness, its performance contingent upon the household's ability to bear the considerable expense. [[1]](#ref-1)
 
 ## The Payun: Healing and the Rattan Swing

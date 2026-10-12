@@ -27,8 +27,6 @@ type: concept
 generated: true
 ---
 
-# Incantations
-
 ## Incantations
 
 Incantations constitute a significant category of ritual speech in the [Malay](./malay.md) Peninsula, functioning as the verbal core of healing, [divination](./divination.md), and ceremonial performance. The archival record from the Society's journal preserves two distinct accounts from the early twentieth century, each documenting the use of fixed or semi-fixed formulaic utterances within specific ritual contexts: one in the context of a traditional stage performance in the interior of [Borneo](./borneo.md), and the other in a healing ceremony in [Kelantan](./kelantan.md). Together, these records reveal that incantatory practice was not a uniform phenomenon but varied considerably in structure, purpose, and religious framing across regions and communities, while sharing certain common features such as the invocation of [spirits](./spirits.md), the use of ritual objects, and the performance of the utterance by a designated specialist.

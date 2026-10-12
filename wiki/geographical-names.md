@@ -32,8 +32,6 @@ type: concept
 generated: true
 ---
 
-# Geographical names
-
 The study of geographical names in the Malay Peninsula and [Borneo](./borneo.md) constitutes one of the most persistent and methodologically diverse strands of historical scholarship in the region, spanning from the late nineteenth century to the mid-twentieth century. The toponymic record of the Strait of [Malacca](./melaka.md) and the surrounding archipelago is characterised by a remarkable density of multilingual layers—Chinese, Portuguese, Malay, Javanese, Sanskrit, and English—each preserving different moments of contact, trade, and political change. Scholars working within the Society's journal have addressed this material from at least four distinct angles: the philological identification of ancient [Chinese](./chinese.md) and Ptolemaic names with modern locations; the etymological analysis of Malay and indigenous names; the documentation of names threatened by colonial renaming and linguistic erosion; and the reconstruction of ancient political geography through the positional clues embedded in foreign itineraries. Together these studies reveal that the landscape of the [Malay](./malay.md) world has been continuously re-named, re-identified, and re-interpreted across more than a millennium of recorded history.
 
 ## The Philological Identification of Ancient Toponyms

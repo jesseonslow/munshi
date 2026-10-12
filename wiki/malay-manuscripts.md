@@ -19,8 +19,6 @@ type: concept
 generated: true
 ---
 
-# Malay manuscripts
-
 Malay manuscripts constitute a body of written texts produced across the Malay Peninsula, [Sumatra](./sumatra.md), [Borneo](./borneo.md), and the wider Indonesian Archipelago from at least the early sixteenth century to the present, encompassing religious treatises, royal chronicles, legal codes, romances, diplomatic correspondence, and devotional [poetry](./poetry.md). The tradition is characterised by its multilingualism—Arabic, Persian, [Malay](./malay.md), and occasionally Tamil, Sanskrit, and Javanese coexisting within single volumes—and by its material diversity, from handmade Eastern papers and [European](./european.md) factory stock to copper plates and palm leaf. These objects serve simultaneously as vehicles of Islamic learning, instruments of statecraft, records of commercial diplomacy, and repositories of literary and mythological heritage, making them indispensable to the study of the region's political, religious, and cultural history [[1, pp. 29–35]](#ref-1), [[2, pp. 81–102]](#ref-2), [[3, pp. 107–151]](#ref-3).
 
 ## Scope and Historical Definition

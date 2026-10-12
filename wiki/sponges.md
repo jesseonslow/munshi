@@ -15,8 +15,6 @@ type: concept
 generated: true
 ---
 
-# Sponges
-
 ## Scope and Historical Definition
 
 Sponges have long been known to Malayan fishermen, yet until the late 1930s the subject attracted little systematic attention. As [Burkill](./burkill.md) summarised in his *[Dictionary](./dialects-and-dictionaries.md) of the Economic Products of the [Malay](./malay.md) Peninsula*, they were "plentiful about the coasts of [Malaya](./malaya.md) but the quality is not what is wanted," with the nearest established industries lying in the Philippine [Islands](./islands.md) and Australia [[1, p. 121]](#ref-1). The only prior investigation of local sponges was that of Dr. R. Hanitsch, a former Curator of [Raffles](./stamford-raffles.md) Museum, [Singapore](./singapore.md), who studied some 90 specimens of siliceous and other sponges collected between 1895 and 1905 by Fernandes de Fontaine, mostly from Blakang Mati, and made microscopic measurements of structures including oxea, spheraster, oxyaster, calthrops, styli, tylostyli, and strongyla. Hanitsch never published his work, though he prepared a descriptive catalogue of his collection [[1, p. 121]](#ref-1).

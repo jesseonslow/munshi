@@ -19,8 +19,6 @@ type: person
 generated: true
 ---
 
-# Sultan Abu Bakar
-
 Sultan Abu Bakar (r. 1862–1895) was the ruler of Johor who transformed the state from a modest Malay polity into a modernised, internationally recognised sovereign entity. Installed as *Temenggong Seri Maharaja* in 1862, he progressively elevated his status to *Maharaja* in 1868 and finally to *Sultan* in 1885, the last title conferred with the sanction of [Queen Victoria](./queen-victoria.md). He was the first [Malay](./malay.md) ruler to visit Europe, undertaking six such journeys between 1866 and 1895, and his diplomatic engagements with [European](./european.md) monarchs, the Japanese Emperor, and the Ottoman Sultan established a pattern of international recognition that defined his reign. His legacy is that of a ruler who used personal prestige, lavish hospitality, and strategic foreign travel to secure [Johor](./johor.md)'s independence from British protectorate status while simultaneously modernising the state's infrastructure and economy [[1, pp. 1–2]](#ref-1).
 
 ## Rise to Sovereignty and the Construction of Royal Status

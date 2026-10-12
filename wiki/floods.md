@@ -19,8 +19,6 @@ type: concept
 generated: true
 ---
 
-# Floods
-
 Floods constitute one of the most recurrent and destructive natural hazards in the [Malay](./malay.md) Peninsula, with documented episodes of catastrophic inundation affecting riverine communities from the early colonial period through the interwar years. The two principal archival records preserved in the Society's journal [literature](./literature.md)—one a first-hand administrative dispatch from the [Jelebu](./jelebu.md) district in 1896, the other a consolidated government report covering the [Straits Settlements](./straits-settlements.md) and [Federated Malay States](./federated-malay-states.md) in 1926–1927—together reveal a pattern of extreme riverine flooding that reshaped landscapes, displaced populations, and tested the logistical capacities of colonial administration. The affected areas span the western and eastern coasts, from the Triang Valley in [Negri Sembilan](./negeri-sembilan.md) to the great plains of [Kelantan](./kelantan.md) and [Trengganu](./terengganu.md), and the economic consequences ranged from the loss of individual rice paddies to the siltation of thousands of acres of cultivated land and the destruction of rubber estates [[1, p. 155]](#ref-1), [[2, pp. 296–309]](#ref-2).
 
 ## Scope and Historical Definition

@@ -18,8 +18,6 @@ type: concept
 generated: true
 ---
 
-# Nuruddin ibn Ali al-Raniri
-
 Nuruddin ar-Raniri (d. 1658) was an Indian-born Islamic scholar and historian who resided in the Sultanate of [Aceh](./aceh.md) for seven years (1637–1644) and produced a substantial body of religious and historical [literature](./literature.md), the most ambitious of which, the *Bustanus-Salatin*, attempted to supersede all earlier Malay historical narratives by situating the Acehnese sultanate at the centre of a universal history [[1, pp. 43–44]](#ref-1). His work placed him at the heart of one of the most significant theological controversies in the early modern Malay world—the dispute between orthodox Ash'ari scholars and the Wujudiyyah mystics associated with [Hamzah Fansuri](./hamzah-fansuri.md) and Shams al-Din—and his writings remain central to the study of seventeenth-century [Malay](./malay.md) historiography, Sufi doctrine, and the political culture of the Acehnese court [[2, pp. 83–104]](#ref-2).
 
 ## Life and Literary Output

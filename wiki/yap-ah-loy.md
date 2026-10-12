@@ -15,8 +15,6 @@ type: concept
 generated: true
 ---
 
-# Yap Ah Loy
-
 ## Origins and Rise to Power
 
 Yap Ah Loy (1837–1885) was a Hakka [Chinese](./chinese.md) mining magnate and community leader who transformed Kuala Lumpur from an obscure tin-mining settlement into the most important town in the Malay Peninsula. Born on 14 March 1837 in the Fui Chiu district of Kwangtung Province, he arrived in [Malaya](./malaya.md) in 1854 with eighty dollars and a few pieces of luggage, working first as a cook and pig dealer at [Lukut](./lukut.md) before rising to become *Capitan [China](./china.md)* of [Sungei Ujong](./sungei-ujong.md) by 1860 [[1, pp. 12–16]](#ref-1). In 1862 he moved to the newly established settlement at [Kuala Lumpur](./kuala-lumpur.md), where he served as manager of the mines of *Capitan* Liu Ngim Kong; upon Liu's death in August 1868, Ah Loy succeeded to the Capitancy with the support of the Sultan and local [Malay](./malay.md) chiefs, and was formally installed by Raja Mahdi in June 1869 [[1, pp. 27–40]](#ref-1). His tenure was immediately challenged by Chong Chong, a rival *Fei Chew* and leader of the Kah Yeng Chew clan at Kanching, whose murder of Ah Loy's close ally "Sweet Potato" Ah Sze in February 1869 triggered a decade of warfare [[1, pp. 32–36]](#ref-1).

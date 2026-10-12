@@ -15,8 +15,6 @@ type: concept
 generated: true
 ---
 
-# Centipedes
-
 Centipedes (Class *Chilopoda*) are carnivorous, active [invertebrates](./invertebrates.md) with jointed legs, capable of inflicting a poisonous bite, and reaching nearly one foot (305 mm) in length in the region. Captain Stanley S. Flower, 5th Fusiliers, produced the first systematic account of the group for the [Malay](./malay.md) Peninsula and Siam in 1901, drawing on four years of fieldwork (1895–1898) across the [Straits Settlements](./straits-settlements.md), the Native States, and [Siam](./thailand.md) [[1, pp. 1–2]](#ref-1). His survey was explicitly designed for [European](./european.md) residents arriving from England, where such creatures were rare and harmless, and who needed to identify the "wonderful variety" they encountered in daily life [[1, p. 1]](#ref-1).
 
 ## Taxonomic Framework and Distribution

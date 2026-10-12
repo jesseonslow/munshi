@@ -17,8 +17,6 @@ type: person
 generated: true
 ---
 
-# William George Stirling
-
 ## Early Life and Education
 
 William George Stirling was born at Sysonby House, Melton Mowbray, Leicestershire, on 25 August 1887, the son of Gilbert Stirling, a retired major in the Royal Horse Guards, and Norah, the Honourable Norah Josephine Harcourt Westenra, daughter of Henry Westenra, 3rd Baron Rossmore. [[1, p. 136]](#ref-1) He attended Warren Hill School in Eastbourne before entering Harrow School in 1901, where he remained until 1905. [[1, p. 136]](#ref-1) During his school years, Stirling developed a fascination with the Far East; at the age of 16 he joined the [Japan](./japan.md) Society in London, and by 1905 had acquired pieces of Japanese art, some of which he lent to a school exhibition. [[1, p. 136]](#ref-1)

@@ -21,8 +21,6 @@ type: person
 generated: true
 ---
 
-# William Bloomfield Douglas
-
 ## Early Life and Naval Career
 
 William Bloomfield Douglas was born at Aberystwyth, Wales, on 25 September 1822, the son of Richard William Clode Douglas, who had served briefly as an ensign with the 73rd Highland Regiment of Foot [[1, p. 49]](#ref-1). He appears to have been the grandson of the Reverend James Douglas (1753–1821), a pioneer of British field [archaeology](./archaeology.md) and a chaplain to the Prince Regent, whose circle included Benjamin Bloomfield, first Baron Bloomfield [[1, p. 49]](#ref-1). His mother, Mary née Johnson, was the sister of a Somerset clergyman who had married Emma Brooke, sister of [James Brooke](./james-brooke.md), founder of the [Sarawak](./sarawak.md) dynasty [[1, p. 49]](#ref-1).

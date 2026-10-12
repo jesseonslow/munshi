@@ -21,8 +21,6 @@ type: concept
 generated: true
 ---
 
-# Riots
-
 ## Scope and Historical Definition
 
 The term "riots" in the Straits Settlements context of the mid-nineteenth century encompasses a range of communal disturbances that, while sometimes modest in their immediate violence, carried disproportionate political consequences. Constance M. Turnbull's 1958 study of the 1857 disturbances in Singapore and [Penang](./penang.md) demonstrates that these events were not isolated outbursts of disorder but were embedded within longer-standing tensions over the administration of Asian communities, the powers of the executive, and the relationship between the [Straits Settlements](./straits-settlements.md) and the Government of [India](./india.md) [[1, pp. 94–95]](#ref-1). Turnbull argues that the communal disturbances of 1857 proved a more vital catalyst for the eventual transfer of the Settlements from Indian to British Colonial Office control in 1867 than the longer-standing grievances over trade policy and judicial reform [[1, p. 94]](#ref-1). The disturbances followed earlier outbreaks in 1846 and 1854, establishing a pattern of recurring communal tension that the [Singapore](./singapore.md) Grand Jury explicitly referenced in its January 1857 Presentment [[1, p. 99]](#ref-1).

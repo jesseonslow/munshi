@@ -34,8 +34,6 @@ type: concept
 generated: true
 ---
 
-# Thailand
-
 ## Scope and Historical Definition
 
 The records of the Society's journals document Siam—now Thailand—as a political, cultural, and economic entity whose influence extended across the Malay Peninsula, the Gulf of Thailand, and into the interior highlands bordering [Laos](./laos.md) and [Cambodia](./cambodia.md). The evidence spans nearly a century of observation, from the naturalist's voyage of 1779 to the diplomatic correspondence of the 1890s, and reveals a state that was simultaneously a tributary overlord of the northern Malay polities, a centre of ancient Indianised civilisation, a frontier zone of missionary and colonial penetration, and a sovereign power negotiating its place in the nineteenth-century international order. The Society's [literature](./literature.md) treats Siam not as a single fixed entity but as a layered palimpsest: the Khmer ruins of Puthai-saman, the Dvaravati-parallel settlements of the sixth to ninth centuries, the Srivijayan seaports of the eleventh to thirteenth, the tributary [Malay](./malay.md) states of the west coast, and the modernising Chakri court at Bangkok all coexist within the same geographical space, each documented by different observers at different moments.

@@ -25,8 +25,6 @@ type: concept
 generated: true
 ---
 
-# Musical instruments and music
-
 ## Scope and Historical Definition
 
 The study of musical instruments and music in the Malay Peninsula and [Borneo](./borneo.md), as documented in the Society's [literature](./literature.md), spans a wide chronological and geographical range, from early twentieth-century notices of individual artefacts to detailed ethnomusicological fieldwork in the late twentieth century. The records reveal a tradition of considerable depth: royal ensembles with claimed pre-Islamic origins, village-level practices sustained by hereditary musicians, and cross-cultural transmissions linking the [Malay](./malay.md) world to [Sumatra](./sumatra.md), the Indian Ocean, and beyond. The instruments and practices documented range from the *nobat* royal ensemble of [Perak](./perak.md) to the *bongai* village [music](./music.md) of [Negri Sembilan](./negeri-sembilan.md), from gong-chime ensembles in [Sabah](./sabah.md) to a single bamboo tuning-fork on a remote island in the West Sumatran chain, and from a melody heard in a French-influenced Indian Ocean community to its eventual adoption as the national anthem of an independent [Malaya](./malaya.md).

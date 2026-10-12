@@ -53,8 +53,6 @@ type: concept
 generated: true
 ---
 
-# Rites and ceremonies
-
 ## Rites and Ceremonies
 
 Rites and ceremonies constitute a pervasive dimension of social life across the [Malay](./malay.md) Peninsula and [Borneo](./borneo.md), governing everything from the agricultural cycle to the perinatal period, from maritime ventures to the maintenance of political legitimacy. The documentary record reveals that these practices are not isolated [superstitions](./superstitions.md) but structured systems of prohibition, offering, and invocation that organise [labour](./labour.md), mark temporal transitions, and mediate between the human community and a populated spiritual world. From the *pawang*-led rice ceremonies of the [Straits Settlements](./straits-settlements.md) to the *pantang* (ritual retreat) systems of the Baram District, from the *berpuar* mock-fight of [Negeri Sembilan](./negeri-sembilan.md) to the *nanchang padi* harvest rite of the Saribas [Iban](./dayaks.md), the evidence demonstrates a shared underlying logic: that material outcomes—crop yield, child health, safe passage, political stability—are understood to depend upon the correct performance of symbolic acts at critical junctures. The regional prevalence of these practices, documented from the 1890s through the 1980s, spans multiple ethnic groups, religious [traditions](./traditions.md), and ecological zones, and their persistence into the twentieth century testifies to a symbolic order that resists reduction to any single explanatory framework.

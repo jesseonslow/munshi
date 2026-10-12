@@ -14,8 +14,6 @@ type: concept
 generated: true
 ---
 
-# Geopolitics
-
 The geopolitics of the British territories in [Southeast Asia](./southeast-asia.md) between 1943 and 1963 was shaped by the interplay of imperial decolonisation, inter-territorial rivalry, and the emerging threat posed by a militarising [Indonesia](./indonesia.md). The question of how to reconfigure the scattered colonial units—[Malaya](./malaya.md), [Singapore](./singapore.md), North [Borneo](./borneo.md), [Sarawak](./sarawak.md), and [Brunei](./brunei.md)—into a coherent political structure dominated British strategic planning for over a decade, yet the scheme was repeatedly undermined by local opposition, demographic anxieties, and the accelerating pace of Malayan decolonisation [[1, pp. 27–28]](#ref-1). The geopolitical calculus was further complicated by the West [New Guinea](./new-guinea.md) dispute, which transformed the security [environment](./environment.md) and ultimately catalysed the creation of [Malaysia](./malaysia.md) in 1963 [[2, pp. 77–78]](#ref-2).
 
 ## Origins and Architectural Logic

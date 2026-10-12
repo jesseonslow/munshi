@@ -17,8 +17,6 @@ type: concept
 generated: true
 ---
 
-# Dipterocarpaceae
-
 The family Dipterocarpaceae constitutes a dominant component of the tropical forests of the [Malay](./malay.md) Peninsula and [Borneo](./borneo.md), encompassing genera of considerable economic and ecological importance. By the early twentieth century, the genus *Vatica* alone had accumulated fifty-five described species with a distribution extending from Ceylon to [New Guinea](./new-guinea.md) [[1, p. 271]](#ref-1). The [family](./family.md)'s members include some of the largest and most commercially valuable timber [trees](./trees.md) in the region, and their taxonomy has been the subject of sustained scholarly attention since the mid-nineteenth century, driven by the practical needs of colonial forest administration and the scientific imperative to resolve persistent nomenclatural confusion among morphologically similar genera.
 
 ## Taxonomic Revision and Generic Boundaries

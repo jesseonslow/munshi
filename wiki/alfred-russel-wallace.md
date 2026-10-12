@@ -16,8 +16,6 @@ type: person
 generated: true
 ---
 
-# Alfred Russel Wallace
-
 Alfred Russel Wallace (1823–1913) was a Victorian naturalist and commercial collector whose eight-year expedition through the [Malay](./malay.md) Archipelago (1854–1862) yielded 125,660 [natural history](./natural-[history](./history.md).md) specimens, a body of work that has long been attributed to him as a solitary figure of scientific genius [[1]](#ref-1). Recent scholarship, however, has substantially revised this portrait, revealing Wallace as a quintessential Victorian collector-naturalist operating within the economic and social conditions of mid-nineteenth-century colonial [Southeast Asia](./southeast-asia.md), whose celebrated collection was assembled with the indispensable [labour](./labour.md) of a vast network of local people, hired assistants, and [European](./european.md) collaborators [[1]](#ref-1). His work in the region—spanning [Sarawak](./sarawak.md), the [Moluccas](./moluccas.md), [New Guinea](./new-guinea.md), and [Borneo](./borneo.md)—placed him at the centre of a complex web of collecting, identification, and publication that linked Welsh industrialists, Cambridge naturalists, and [Malay](./malay.md) island communities in a shared enterprise of [natural history](./natural-history.md) [[2]](#ref-2), [[3]](#ref-3), [[1]](#ref-1).
 
 ## Early Career and the Welsh Connection

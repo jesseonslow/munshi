@@ -19,8 +19,6 @@ type: concept
 generated: true
 ---
 
-# Megalithic monuments
-
 Megalithic monuments—upright stones, alignments, cromlechs, slab-[graves](./graves.md), stone urns, and rock carvings—constitute one of the most widespread and enduring material [traditions](./traditions.md) of the [Malay](./malay.md) Peninsula and [Borneo](./borneo.md). By the early 1970s, approximately 650 individual megaliths had been documented in [Sabah](./sabah.md) and [Sarawak](./sarawak.md) alone [[1, p. 132]](#ref-1), while the Mahat valley in West [Sumatra](./sumatra.md) contains an estimated 1,000 standing stones [[2, p. 30]](#ref-2), and the districts of Alor Gajah and Kuala Pilah in peninsular [Malaysia](./malaysia.md) preserve numerous paired stone alignments [[3, p. 78]](#ref-3). These monuments span a vast chronological range, from the earliest demonstrated Bornean examples provisionally dated before 1000 A.D. [[1, p. 128]](#ref-1) to the *batu tagak* (upright stones) of the classical era, most likely erected between A.D. 1000 and 1500 [[4, pp. 2]](#ref-4). Their significance lies not merely as archaeological curiosities but as expressions of settled agricultural societies, social differentiation, and ritual belief systems that persisted, in material or verbal form, well into the historical period.
 
 ## Scope and Typological Diversity

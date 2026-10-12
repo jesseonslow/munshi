@@ -26,8 +26,6 @@ type: concept
 generated: true
 ---
 
-# Celebes
-
 Celebes, the large island in the eastern archipelago whose south-western arm was home to the sultanate of Macassar, occupied a distinctive position in the commercial geography of the seventeenth-century East Indies. Unlike the Spice Islands proper, Celebes itself produced no cloves, mace or nutmeg, yet its principal port served as the entrepôt through which the bulk of the region's spice trade passed when the Dutch monopoly was under pressure [[1, pp. 1–2]](#ref-1). The island's strategic importance lay in its position between the [Moluccas](./moluccas.md) to the north, the Lesser Sunda [Islands](./islands.md) to the south, and [Borneo](./borneo.md) to the west, making it a natural convergence point for the maritime networks of [Malay](./malay.md), Javanese, Portuguese, [Chinese](./chinese.md) and [European](./european.md) traders [[1, pp. 6–7]](#ref-1). The English [East India Company](./east-india-company.md) maintained a factory at Macassar from 1613 until the Dutch conquest of the sultanate in 1667, and the commercial history of that period reveals a port whose prosperity was inseparable from the broader contest for control of the spice trade [[1, p. 1]](#ref-1).
 
 ## The English Factory at Macassar, 1613–1643

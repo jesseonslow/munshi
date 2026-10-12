@@ -63,8 +63,6 @@ type: concept
 generated: true
 ---
 
-# Borneo
-
 Borneo, the world's third-largest island, has long occupied a central position in the maritime history of [Southeast Asia](./southeast-asia.md), serving as a nexus for trade, cultural exchange, and colonial competition from at least the early second millennium. The island's total area is estimated at between 263,000 and 300,000 square miles, with the Dutch holding nominal suzerainty over approximately two-thirds of its territory, though probably not a tenth was under their direct administrative control at the close of the nineteenth century [[1, pp. 14]](#ref-1). Its interior tableland, from which spring the Baram, Tutau, Limbang, Trusan, and Padas rivers on the west coast and the Bahau on the east, supported agricultural communities practising irrigation paddy cultivation, while its coastlines and river systems facilitated extensive external trade in gold, sago, birds' nests, gutta, and other commodities [[2, p. 49]](#ref-2), [[3, p. 270]](#ref-3). The island's political geography was shaped by successive waves of Indianised culture, the spread of [Islam](./islam.md), and the competing claims of [European](./european.md) powers, producing a patchwork of sultanates, chartered companies, and colonial territories whose boundaries were only finally settled in the late nineteenth century [[1, pp. 14–20]](#ref-1), [[4, pp. 10–20]](#ref-4).
 
 ## Antiquities and Material Culture

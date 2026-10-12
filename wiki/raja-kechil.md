@@ -14,8 +14,6 @@ type: person
 generated: true
 ---
 
-# Raja Kechil
-
 Raja Kechil (d. 1746) was a Minangkabau leader who orchestrated the conquest of the Kingdom of Johor in 1718, then the most powerful polity in the [Malay](./malay.md) world. Claiming to be the son of the murdered [Sultan Mahmud Shah](./sultan-mahmud-shah.md) of [Johor](./johor.md), he exploited a deep legitimacy crisis within the Bendahara dynasty to bring about the kingdom's collapse and establish the new Kingdom of Siak. His origins remain a matter of scholarly debate, but the weight of evidence suggests he was an ingenious Minangkabau figure with genuine connections to the Pagar Ruyong court who used the claim of royal descent as a political instrument [[1, pp. 51]](#ref-1).
 
 ## Origins and the Pagar Ruyong Connection

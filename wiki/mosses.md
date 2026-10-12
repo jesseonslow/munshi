@@ -14,8 +14,6 @@ type: concept
 generated: true
 ---
 
-# Mosses
-
 The archival record on mosses in the Society's [literature](./literature.md) is limited to a single short notice: H. N. Dixon's 1928 paper "[Spolia mentwiensia: Musci](./spolia-mentwiensia-musci.md)" in the *[JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)*, which constitutes the sole documented treatment of the subject in the records provided. [[1]](#ref-1)
 
 ## Scope and Historical Definition

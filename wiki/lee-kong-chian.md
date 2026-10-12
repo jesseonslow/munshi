@@ -14,8 +14,6 @@ type: concept
 generated: true
 ---
 
-# Lee Kong Chian
-
 Lee Kong Chian (1893–1967) was one of the most significant Chinese entrepreneurs in the Asian diasporic landscape from the 1920s to the 1960s, building a transnational business empire spanning plantation [agriculture](./agriculture.md), banking, and manufacturing across Singapore, [Malaya](./malaya.md), [Thailand](./thailand.md), and [Indonesia](./indonesia.md) [[1, pp. 71–72]](#ref-1). Widely acknowledged by the 1950s as the 'Rubber King' and 'Pineapple King' of [Southeast Asia](./southeast-asia.md), he left enduring imprints in business, [education](./education.md), and philanthropy, the last continuing through the Lee Foundation established in 1952 [[1, p. 71]](#ref-1). His life and legacy have been the subject of sustained scholarly and popular attention, particularly within Chinese-language print culture, where three dominant portraits have emerged in response to shifting political and economic conjunctures in [Singapore](./singapore.md), [China](./china.md), and the broader [Chinese](./chinese.md) diaspora [[1, p. 71]](#ref-1).
 
 ## Business Empire and Economic Significance

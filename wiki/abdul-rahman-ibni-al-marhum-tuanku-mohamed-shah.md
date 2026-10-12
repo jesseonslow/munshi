@@ -17,8 +17,6 @@ type: person
 generated: true
 ---
 
-# Abdul Rahman ibni al-Marhum Tuanku Mohamed Shah
-
 [Abdul Rahman](./tunku-abdul-rahman.md) ibni al-Marhum Tuanku Muhammad Shah, styled Tunku Muda Serting prior to his accession, was the eldest son of Tuanku Muhammad, *Yang Di-Pertuan Besar* (the hereditary ruler) of [Negri Sembilan](./negeri-sembilan.md), and succeeded to the throne on 3 August 1933 following the unanimous election of the four *Undang* (principal chiefs) of the *Tanah Mengandong* (the four senior districts of the state). His accession, conducted in strict accordance with the constitutional arrangements established under the Agreement of 1898, marked the continuation of a dynasty that had governed [Negri Sembilan](./negeri-sembilan.md) for nearly half a century under his father. The principal archival record of his proclamation is the contemporaneous account compiled by H. P. Bryson and I. W. Blelloch, both serving members of the Malayan Civil Service, published in 1936 [[2, pp. 272–279]](#ref-2).
 
 ## The Death of His Father and the Conclave of the Undang

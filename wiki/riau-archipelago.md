@@ -26,8 +26,6 @@ type: concept
 generated: true
 ---
 
-# Riau Archipelago
-
 The Riau Archipelago, comprising approximately 3,214 islands in the waterways separating [Indonesia](./indonesia.md), [Malaysia](./malaysia.md), and Singapore, has served as a political, economic, and cultural nexus for successive [Malay](./malay.md) kingdoms since at least the late seventeenth century [[1, p. 127]](#ref-1). Its thousands of small [islands](./islands.md), sparse populations, and inherent centrifugal tendencies meant that political centralization could never become strongly institutionalized; the state "merely floated on top of the local currents and eddies of an open sea" [[1, p. 127]](#ref-1). The archipelago's strategic position at the confluence of the Straits of [Melaka](./melaka.md), [Singapore](./singapore.md), and Riau made it a focal point for maritime trade, dynastic rivalry, and colonial intervention, and its indigenous populations—land- or sea-oriented, sedentary or nomadic—form part of an *Alam Melayu* (Malay world) that transcends the modern national boundaries drawn through its waters [[1, p. 124]](#ref-1).
 
 ## Political History and the Bugis-Malay Compact

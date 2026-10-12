@@ -17,8 +17,6 @@ type: concept
 generated: true
 ---
 
-# Rungus
-
 The Rungus are a Dusun-speaking cognatic ethnic group of the Kudat District in [Sabah](./sabah.md), northern [Borneo](./borneo.md), whose social organisation has been the subject of systematic anthropological analysis. They are one of fifteen or more named speech communities of the Dusun language family in the district, some of which are mutually intelligible with Rungus while others are not, with cultural divergence generally proportional to distance and ecological difference between communities [[1, p. 193]](#ref-1). Their economy is based on swidden [agriculture](./agriculture.md), and their social system is structured around three principal groupings: the domestic [family](./family.md), the long-house, and the village [[1, p. 194]](#ref-1).
 
 ## Social Organisation and Kinship

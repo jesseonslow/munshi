@@ -14,8 +14,6 @@ type: concept
 generated: true
 ---
 
-# New Guinea
-
 New Guinea, the large island north of Australia divided between the Dutch (later Indonesian) and British (later Australian) empires, appears in the Society's [literature](./literature.md) as a site of both ethnographic observation and geopolitical contestation. The island's significance to the Malay world was twofold: as a source of indigenous cultural practices that invited cross-cultural comparison with the peoples of the [Malay](./malay.md) Peninsula and [Borneo](./borneo.md), and as a flashpoint in the Cold War that directly shaped the security calculations and constitutional evolution of [Malaya](./malaya.md) in the early 1960s. The Society's records span these two registers, from a brief ethnographic note published in 1918 to a substantial diplomatic history published in 2010, reflecting the shifting priorities of scholarship and the changing political salience of the island over nearly a century.
 
 ## Ethnographic Observations and Cross-Cultural Parallels

@@ -14,8 +14,6 @@ type: concept
 generated: true
 ---
 
-# Mosquitoes
-
 ## Mosquitoes in the Malay Region: Biological Control, Folklore, and Entomological Observation
 
 Mosquitoes have long occupied a central place in the public health, ecological, and cultural landscape of the [Malay](./malay.md) Peninsula and [Borneo](./borneo.md), their presence shaping both administrative policy and local oral tradition. The colonial-era [literature](./literature.md) of the [Straits Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md) documents mosquitoes as vectors of malaria, as objects of biological control experiments, as subjects of indigenous [folklore](./folklore.md), and as specimens of unusual entomological behaviour. The records span from the 1880s to the 1910s, reflecting a progression from anecdotal and mythological accounts to systematic field investigation under the auspices of government public health policy.

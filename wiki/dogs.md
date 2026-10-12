@@ -19,8 +19,6 @@ type: concept
 generated: true
 ---
 
-# Dogs
-
 Dogs have occupied a distinctive and enduring position in the domestic, ritual, and ecological landscapes of the [Malay](./malay.md) Peninsula and Borneo, a presence attested from the Neolithic period through to the mid-twentieth century. The archaeological record reveals a small, barkless, dun-coloured domestic type that persisted in isolated communities for millennia before being progressively diluted by crossbreeding with imported breeds [[1]](#ref-1). In the historic period, dogs served as supplementary food animals in ceremonial contexts, as subjects of genetic study, and as integral components of the material culture of nomadic and semi-nomadic peoples of [Borneo](./borneo.md) [[2]](#ref-2), [[1]](#ref-1). The breadth of evidence—spanning skeletal remains from [Sarawak](./sarawak.md) [caves](./caves.md), nineteenth-century travel accounts, mounted museum specimens, and twentieth-century fieldwork—establishes the dog as one of the most archaeologically visible domestic [animals](./animals.md) in the region [[1]](#ref-1).
 
 ## Archaeological Evidence and Ritual Consumption

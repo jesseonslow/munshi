@@ -63,8 +63,6 @@ type: concept
 generated: true
 ---
 
-# Perak
-
 Perak is a state on the north-western coast of the [Malay](./malay.md) Peninsula whose interior, mountain ranges, and river systems attracted sustained [European](./european.md) scientific and administrative attention from the 1870s onward. Its tin-bearing alluvial deposits, extensive limestone formations, and navigable river network made it a focal point of colonial economic development, while its unexplored highlands and frontier territories provided a field for geographical survey, botanical collection, and ethnographical observation. The state's political history—marked by the [Larut](./larut.md) wars, the [Pangkor Treaty](./pangkor-treaty.md) of 1874, and the Anglo-Siamese boundary settlements of 1909—shaped the conditions under which much of this documentation was produced, and the Society's [literature](./literature.md) reflects the transition from a fragmented, semi-autonomous polity to a consolidated colonial administration.
 
 ## Physical Geography and Mineral Wealth

@@ -16,8 +16,6 @@ type: concept
 generated: true
 ---
 
-# Badgers
-
 ## The Bornean and Malayan Badger (*Mydaus*)
 
 The badgers of the [Malay](./malay.md) Peninsula and [Borneo](./borneo.md), classified under the genus *Mydaus*, are small, rare carnivores whose documented presence in the region is confined to a handful of museum specimens and scattered field observations. By 1921, only two Bornean specimens had reached [European](./european.md) [museums](./museums.md), both held in the British Museum, while the Zoological Museum at Buitenzorg, [Java](./java.md), confirmed it held none [[1, p. 144]](#ref-1). The animal's significance to [natural history](./natural-[history](./history.md).md) in the region lies less in its abundance than in the taxonomic puzzles it presented and the indigenous knowledge that supplemented the sparse [European](./european.md) record. In [Java](./java.md), by contrast, the badger was reported to be very common, observed across a wide altitudinal range [[2, p. 212]](#ref-2).

@@ -18,8 +18,6 @@ type: concept
 generated: true
 ---
 
-# Perlis
-
 Perlis is the smallest of the Malay states on the Malay Peninsula, situated in the extreme north of the country, and is distinguished by its unique origin as a district of Kedah that achieved separate sovereignty in 1843. The state's name derives from the [Malay](./malay.md) word *perlis*, meaning "obtained" or "acquired," reflecting its history as a territory granted to a new ruling house rather than inherited through the established [Kedah](./kedah.md) royal line. Its political significance was magnified in the twentieth century when its fifth ruler, Tuanku Syed Putra, was elected the third Yang di-Pertuan Agong of the Federation of [Malaya](./malaya.md) in 1961, bringing the small northern state to the centre of national and international attention [[1, pp. 173]](#ref-1).
 
 ## Origins and Separation from Kedah

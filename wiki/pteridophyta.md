@@ -14,8 +14,6 @@ type: concept
 generated: true
 ---
 
-# Pteridophyta
-
 ## Scope and Historical Definition
 
 The pteridophyte flora of the Mentawai Islands, comprising the [islands](./islands.md) of Siberut and Sipora off the west coast of [Sumatra](./sumatra.md), was documented in a 1928 taxonomic treatment by [R.E. Holttum](./re-holttum.md), based on material collected during a 1924 expedition led by [C.B. Kloss](./cb-kloss.md). The collection yielded 77 species in total, of which 59 were recorded from Siberut and 29 from Sipora [[1, p. 14]](#ref-1). Holttum noted that the majority of these species are of wide distribution in the Malaysian area, and that the collection probably does not represent a very complete record of the pteridophyte flora, certain universal species such as *Gleichenia linearis* being absent [[1, p. 14]](#ref-1). The nomenclature employed was that of Christensen's *[Index](./index.md) Filicum*, and Holttum acknowledged his inability to identify some of the *Selaginella* specimens [[1, p. 14]](#ref-1).

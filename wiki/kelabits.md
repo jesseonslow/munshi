@@ -17,8 +17,6 @@ type: concept
 generated: true
 ---
 
-# Kelabits
-
 The Kelabits are an agricultural people inhabiting the large central tableland of [Borneo](./borneo.md), from which spring the Baram, Tutau, Limbang, Trusan and Padas Rivers on the west coast and the Bahau River on the east coast [[1, p. 49]](#ref-1). They are scientifically of the Indonesian race and are closely related to the people known as [Muruts](./muruts.md) in the Trusan and Padas Districts [[1, p. 49]](#ref-1). At the time of the earliest [European](./european.md) administrative contact in the early twentieth century, the Kelabits had only recently acknowledged allegiance to the [Sarawak](./sarawak.md) Government and were regarded by colonial observers as among the most isolated communities in the interior [[1, p. 49]](#ref-1). Their settlement on a comparatively flat highland plateau, their practice of irrigation farming, and the presence of prehistoric megalithic remains on the Southern Kelabit Plateau together mark them as a people of considerable antiquity and distinctive cultural character within the broader Bornean landscape [[1, p. 49]](#ref-1), [[2, p. 105]](#ref-2).
 
 ## Settlement, Agriculture and Physical Characteristics

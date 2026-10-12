@@ -30,7 +30,7 @@ published: false
 
 ## List of publications
 
-# MBRAS / SBRAS Journal Issue Registry (1878–2025)
+# Catalogue
 
 | Master No. | Series | Volume | Part / Issue | Nominal Month | Nominal Year | Actual Year / Notes |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |

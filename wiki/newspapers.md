@@ -23,8 +23,6 @@ type: concept
 generated: true
 ---
 
-# Newspapers
-
 The newspaper in the [Straits Settlements](./straits-settlements.md) and the Malay Peninsula was, from its earliest appearance in the 1820s, a site of contested authority, linguistic innovation, and political mobilisation. Across the English, Malay, and Chinese-language presses, the medium served simultaneously as a commercial enterprise, a colonial administrative instrument, a vehicle for religious reform, and an engine of nationalist consciousness. The English-language press, centred on [Singapore](./singapore.md), functioned as the region's principal conduit for international news and commercial information; the Malay vernacular press, from its modest origins in 1876, evolved into the defining medium of [Malay](./malay.md) political identity; and the [Chinese](./chinese.md)-language press, which proliferated dramatically after 1945, constituted the most extensive and institutionally complex newspaper culture in the region, mediating between elite intellectual currents and popular political engagement [[1]](#ref-1), [[2]](#ref-2), [[3]](#ref-3).
 
 ## The English-Language Press and Colonial Administration

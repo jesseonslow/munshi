@@ -18,8 +18,6 @@ type: concept
 generated: true
 ---
 
-# Hunting and trapping
-
 Hunting and trapping in the Malay Peninsula and Borneo encompassed a range of practices that combined material [technology](./technology.md), spiritual ritual, and ecological knowledge, serving both subsistence and economic purposes across diverse communities. The archival record preserved in the Society's journals reveals that these practices were documented by colonial administrators, ethnographers, and naturalists working in the [Straits Settlements](./straits-settlements.md), the Malay States, and [British North Borneo](./british-north-borneo.md) between the early twentieth century and the mid-1950s. The evidence spans the spiritual dimensions of [Malay](./malay.md) [deer](./deer.md)-hunting, the mechanical ingenuity of bird-trapping devices, and the broader ethnographic context of Murut hunting customs in [Borneo](./borneo.md), together illustrating a subject that resisted simple categorisation as either purely economic or purely cultural in nature.
 
 ## Spiritual Dimensions of Malay Hunting

@@ -22,8 +22,6 @@ type: concept
 generated: true
 ---
 
-# Britain in Malaya and Borneo
-
 ## Scope and Historical Definition
 
 British involvement in [Malaya](./malaya.md) and Borneo spans roughly three centuries, from the first English trading ventures of the early seventeenth century to the mid-twentieth century, and is characterised by a persistent tension between commercial ambition and political restraint. The British presence was never a single, coherent imperial project but rather a series of overlapping and often contradictory impulses: the [East India Company](./east-india-company.md)'s desire to secure the [China](./china.md) trade route, the Free Traders' interest in open ports, the strategic imperatives of protecting [India](./india.md), and the commercial interests of the Straits Settlements merchants who depended on the independence of the native states for their entrepôt trade [[1, pp. 16–18]](#ref-1). The territorial footprint remained remarkably small throughout: apart from [Burma](./burma.md), Britain held only the three [Straits Settlements](./straits-settlements.md) of [Singapore](./singapore.md), [Malacca](./melaka.md), and [Penang](./penang.md), the island of [Labuan](./labuan.md), and protectorates over the peninsular [Malay](./malay.md) states, [Sarawak](./sarawak.md), [Brunei](./brunei.md), and North [Borneo](./borneo.md) [[2, p. 15]](#ref-2). This limited territorial commitment, set against the breadth of British influence, has been described as a central paradox of the Anglo-Malayan relationship [[2, pp. 15–16]](#ref-2).

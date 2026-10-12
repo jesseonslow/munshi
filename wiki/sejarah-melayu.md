@@ -20,8 +20,6 @@ type: person
 generated: true
 ---
 
-# Sejarah Melayu
-
 The *Sejarah Melayu*, commonly known in English as the [Malay Annals](./malay-annals.md), is the oldest surviving work of Malay historiography, composed in the second decade of the seventeenth century at the court of Johore. It narrates the political history of the Malay world from the legendary founding of Singapura through the sultanate of [Melaka](./melaka.md) to the post-conquest succession at [Johore](./johor.md), and it has served as the foundational text for the study of Malay political ideology, royal genealogy, and literary tradition. The work exists in multiple recensions, the earliest of which was edited from [Raffles](./stamford-raffles.md) MS 18 by [R. O. Winstedt](./richard-olaf-winstedt.md) in 1938, and its transmission history—spanning Portuguese custody in Goa, Acehnese diplomatic channels, and colonial-era manuscript collection—has made it one of the most intensively studied texts in the field of [Malay](./malay.md) studies [[1, pp. 38–42]](#ref-1), [[2, pp. 10–13]](#ref-2).
 
 ## Composition, Authorship, and Political Context

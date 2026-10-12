@@ -16,8 +16,6 @@ type: concept
 generated: true
 ---
 
-# Patani
-
 Patani, historically known as Greater Patani, was a Malay sultanate located in the northern Malay Peninsula whose territory is now divided between the southern Thai provinces of Pattani, Yala, Narathiwat, and Songkhla, and the Malaysian state of [Kelantan](./kelantan.md). The kingdom, which endured from its mythical founding through the late seventeenth century and whose political legacy persisted into the twentieth, occupied a strategic position between the Thai basin to the north and the Malay archipelago to the south, serving as a node of trade, Islamic scholarship, and cultural production that shaped the political and intellectual life of the region [[1, pp. 15–16]](#ref-1), [[2, pp. 69–70]](#ref-2). Its history is marked by a complex tributary relationship with [Siam](./thailand.md), repeated conflicts over sovereignty, and a distinctive literary and religious tradition that continues to define the identity of its [Malay](./malay.md)-Muslim [population](./population.md) [[2, pp. 69–72]](#ref-2), [[3, pp. 1–5]](#ref-3).
 
 ## Origins, Founding, and Early Political History

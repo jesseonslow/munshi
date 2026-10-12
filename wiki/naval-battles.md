@@ -20,8 +20,6 @@ type: concept
 generated: true
 ---
 
-# Naval battles
-
 ## The Orienting Lede
 
 Naval battles in the waters of the Malay Peninsula and the surrounding straits constitute a distinctive chapter in the maritime history of [Southeast Asia](./southeast-asia.md), shaped by the convergence of indigenous seafaring [traditions](./traditions.md), the ambitions of [European](./european.md) colonial powers, and the strategic importance of the [shipping](./shipping.md) lanes that linked the Indian Ocean to the South [China](./china.md) Sea. The [Singapore](./singapore.md) Strait, the [Johore](./johor.md) River, and the approaches to [Malacca](./melaka.md) served as recurring theatres of engagement from the sixteenth century through the early nineteenth, when Portuguese, Dutch, and British naval forces confronted local fleets — most notably those of [Aceh](./aceh.md) and its allies — in contests that determined control of trade routes and the security of colonial outposts. These engagements were not merely [military](./military.md) events; they reflected the economic stakes of the [pepper](./pepper.md) and spice trade, the diplomatic entanglements between [Malay](./malay.md) polities, and the evolving [technology](./technology.md) of naval warfare in tropical waters. The archival record, while fragmentary, reveals a pattern of repeated confrontations in which numerical inferiority was offset by tactical innovation, and in which the loss of documentary evidence — whether through the destruction of manuscripts or the failure of official despatches to reach their destination — has left significant gaps in the historical narrative.

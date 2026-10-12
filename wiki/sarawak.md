@@ -56,8 +56,6 @@ type: concept
 generated: true
 ---
 
-# Sarawak
-
 ## Scope and Historical Definition
 
 Sarawak is a territory on the northwestern coast of [Borneo](./borneo.md), encompassing the catchments of the Sarawak, Samarahan, and Lundu rivers, and extending along the coast to the island's northwesternmost tip, Tanjung Datu [[1, pp. 1–2]](#ref-1). Its political history spans from the appointment of Sultan Tengah Manga as the first Sultan of Sarawak in 1599 by his elder brother, Sultan Abdul Jalilul Akbar of Brunei, through the two-century period of local and contested rule following his assassination in 1641, to the establishment of the White Rajah dynasty under [James Brooke](./james-brooke.md) in 1841, and finally to the cession of the territory to Britain in 1946 [[1, pp. 2]](#ref-1), [[2]](#ref-2), [[2, p. 119]](#ref-2). The territory's position at the junction of the spheres of influence of [Brunei](./brunei.md) and the neighbouring sultanate of Sambas in what is now Indonesian Kalimantan gave it a distinctive and often contested political character, with control varying over the centuries and between different parts of the territory [[1, pp. 14–15]](#ref-1).

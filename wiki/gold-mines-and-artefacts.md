@@ -31,8 +31,6 @@ type: concept
 generated: true
 ---
 
-# Gold mines and artefacts
-
 Gold mines and artefacts constitute a significant body of archaeological, economic, and cultural evidence across the [Malay](./malay.md) Peninsula and Borneo, spanning from the early centuries of the Christian era to the mid-twentieth century. The region's gold deposits, concentrated in the alluvial and lode systems of the Bukit Barisan hinterland of [Sumatra](./sumatra.md), the south-west corner of [Borneo](./borneo.md), and the auriferous uplifts of the Malayan peninsula, attracted successive waves of indigenous, Chinese, and foreign mining activity over many centuries [[1, pp. 108–110]](#ref-1), [[2, pp. 33–47]](#ref-2). The material record—comprising worked gold objects, burial [amulets](./amulets.md), inscribed rings, and mining settlements—reveals a complex pattern of cultural contact in which Indian, Javanese, [Chinese](./chinese.md), and indigenous influences intersected, often in ways that resist simple attribution [[2, pp. 62–71]](#ref-2), [[3, pp. 70–77]](#ref-3).
 
 ## Scope and Historical Definition

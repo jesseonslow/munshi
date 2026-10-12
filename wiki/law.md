@@ -56,8 +56,6 @@ type: concept
 generated: true
 ---
 
-# Law
-
 The legal traditions of the [Malay](./malay.md) Peninsula and [Borneo](./borneo.md) constitute a complex, multi-layered body of normative rules that has been shaped by indigenous custom, Islamic jurisprudence, Indian-derived legal concepts, and, from the late eighteenth century, the English common law. These [traditions](./traditions.md) are not monolithic: they range from the maritime codes of the [Malacca](./melaka.md) court to the matrilineal [customary law](./customary-law.md) of [Negri Sembilan](./negeri-sembilan.md), from the port regulations of a seventeenth-century [Kedah](./kedah.md) sultanate to the colonial improvisations of early [Penang](./penang.md), and from the oral *perbilangan* (numbered verses) of Minangkabau to the written digests that attempted to codify them. The region's legal history is distinguished by a persistent syncretism in which foreign elements—Indian, Islamic, [European](./european.md)—serve primarily as legitimating overlays upon a substrate of indigenous rules of conduct, a characteristic that [M.B. Hooker](./mb-hooker.md) identified as the defining feature of the Malayan legal tradition from its earliest surviving monument to the present day [[1, p. 127]](#ref-1).
 
 ## The Malayan Legal Digests and Their Textual Tradition

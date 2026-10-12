@@ -14,8 +14,6 @@ type: concept
 generated: true
 ---
 
-# Slavery and debt bondage
-
 Slavery and debt bondage constituted two legally distinct but socially intertwined systems of unfree [labour](./labour.md) that persisted across the Malay Peninsula into the late nineteenth and early twentieth centuries. In the courts of [Perak](./perak.md), [Pahang](./pahang.md), and [Johor](./johor.md), the institution operated under [Malay](./malay.md) [customary law](./customary-law.md) (*hukum adat*) in a state of perpetual tension with Islamic jurisprudence (*hukum syara*), producing a dual structure in which true slaves (*'abdi*) and debt-bondsmen (*kawan*) occupied different legal positions yet shared the practical experience of compelled service [[1, pp. 247–249]](#ref-1). The system was not a uniform phenomenon: it varied by state, by the degree of aristocratic control, and by the economic pressures of the tin-mining districts, where compounding interest mechanisms could reduce a modest obligation to lifelong servitude within a single year [[1, pp. 251–252]](#ref-1). British protectorate administration after 1874 initiated a gradual erosion of both categories, though formal legal instruments and social practices continued to reflect the older order well into the twentieth century [[2, p. 185]](#ref-2).
 
 ## Legal Categories and Customary Foundations

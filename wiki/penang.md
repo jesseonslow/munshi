@@ -84,8 +84,6 @@ type: concept
 generated: true
 ---
 
-# Penang
-
 Penang, originally known as Prince of Wales Island, is a colonial port city on the northern coast of the Malay Peninsula that functioned as the premier commercial centre of the northern littoral of [Southeast Asia](./southeast-asia.md) from its establishment in 1786 through the pre-independent era. Acquired by the British [East India Company](./east-india-company.md) under Captain [Francis Light](./francis-light.md), the settlement grew from a swampy coastal strip into a cosmopolitan entrepôt whose hinterland stretched from the Tenasserim coast to northern [Sumatra](./sumatra.md), sustained by dense intra-regional trade and [shipping](./shipping.md) networks rather than merely serving as a feeder port to [Singapore](./singapore.md) [[1, pp. 25–27]](#ref-1). The island's significance lies in its role as a node connecting the Bay of Bengal, the Straits of [Melaka](./melaka.md), and the South [China](./china.md) Sea, a position inherited from the pre-colonial port polities of [Kedah](./kedah.md) and articulated through the commercial networks of [Chinese](./chinese.md), [Malay](./malay.md), Indian, and Arab communities who settled there in successive waves [[1, pp. 26–27]](#ref-1).
 
 ## Founding and Administrative Formation

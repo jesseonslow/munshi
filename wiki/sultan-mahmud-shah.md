@@ -17,8 +17,6 @@ type: person
 generated: true
 ---
 
-# Sultan Mahmud Shah
-
 Sultan Mahmud Syah II was the ruler of Johor who was murdered in 1699, an act of regicide that severed a line of sovereignty stretching back through the Melaka sultanate and, in traditional genealogical claims, to Srivijaya. His death, committed by a court noble with the approval of much of the [Johor](./johor.md) ruling elite, ended a childless line and precipitated a reconfiguration of political authority across the southern [Melaka](./melaka.md) Strait that shaped the region's history for centuries. The event has been recounted in a variety of texts, from traditional *hikayat* to comic books and films, each iteration adding new elements and explanations that reflect the concerns of the society in which it was written [[1, pp. 1–2]](#ref-1).
 
 ## Life and Reign

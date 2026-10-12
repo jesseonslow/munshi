@@ -14,8 +14,6 @@ type: concept
 generated: true
 ---
 
-# Francis James Bernard
-
 ## Francis James Bernard
 
 Francis James Bernard (1796–1843) was a founding pioneer in the British settlement at Singapore, serving as its first Master Attendant, inaugural head of the [police](./police.md) department, and founder of the *[Singapore](./singapore.md) Chronicle* newspaper. His career, shaped by the nepotism and patronage prevalent in the settlement's early years, has been overshadowed by adverse characterisations from [Sir Stamford Raffles](./stamford-raffles.md) and later historians, though a re-examination of [East India Company](./east-india-company.md) records offers a more favourable assessment of his administrative contributions [[1, pp. 25–26]](#ref-1).

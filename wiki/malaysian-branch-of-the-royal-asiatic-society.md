@@ -23,11 +23,9 @@ type: person
 generated: true
 ---
 
-# Malaysian Branch of the Royal Asiatic Society
-
 The Malaysian Branch of the Royal Asiatic Society is a learned society devoted to the collection, recording, and diffusion of knowledge concerning [Malaysia](./malaysia.md), Singapore, and [Brunei](./brunei.md). Founded on 4 November 1877 by a group of British colonial administrators at the [Raffles](./stamford-raffles.md) Library, [Singapore](./singapore.md), it received formal affiliation from the Royal Asiatic Society of Great Britain and Ireland in May 1878. Over its second century of operation, the Society has published 154 issues of its journal, 25 monographs, 13 reprints, and three indexes, while maintaining a membership that grew from 150 founder members to over 1,000 by 1995 [[1, pp. 85–86]](#ref-1).
 
-### Founding and Early Development (1877–1922)
+## Founding and Early Development (1877–1922)
 
 The Society originated in the utilitarian exigencies of British imperial administration. Following the Pangkor Engagement of 1874, which placed a British adviser in [Perak](./perak.md) and marked the beginning of direct territorial control in the Malay Peninsula, colonial officials found themselves governing territories about which they possessed almost no reliable information. [F.A. Swettenham](./sir-frank-swettenham.md), a British civil servant of the period, recalled that "there were no reliable books on the subject, the whole country was an absolute blank on every map" [[1, p. 88]](#ref-1). On 4 November 1877, a group of administrators met at the Raffles Library, Singapore, to form a society for "collecting and recording scientific information in the [Malay](./malay.md) Peninsula and Archipelago" [[1, p. 87]](#ref-1). Among the founder members were Archdeacon [G.F. Hose](./bishop-george-frederick-hose.md), [C.J. Irving](./cj-irving.md), [W.E. Maxwell](./sir-william-edward-maxwell.md), [A.M. Skinner](./allan-maclean-skinner.md), [W.A. Pickering](./wa-pickering.md), [N.B. Dennys](./nicholas-belfield-dennys.md), and [D.F.A. Hervey](./dudley-francis-amelius-hervey.md) [[1, p. 87]](#ref-1). The provisional name "The Straits Asiatic Society" was adopted while affiliation was sought with the Royal Asiatic Society in London, which was granted on 6 May 1878, at which point the body became "The Straits Branch of the Royal Asiatic Society" [[1, p. 87]](#ref-1).
 
@@ -37,7 +35,7 @@ The Society's early activities extended beyond publication. At its First General
 
 The Journal, first published in July 1878, became the Society's chief preoccupation. Under the Straits Branch, 86 numbers were published between 1878 and 1922 [[1, p. 90]](#ref-1). The map-making project was abandoned in 1916 when the Survey Department produced its own map, and the library, which had grown to an unmanageable size, was discontinued in 1923 due to little use [[1, pp. 92–93]](#ref-1).
 
-### The Malayan Branch Era and Wartime Interruption (1923–1963)
+## The Malayan Branch Era and Wartime Interruption (1923–1963)
 
 In 1923, in accordance with the change of the Society's name to the "Malayan Branch of the Royal Asiatic Society", the *[Journal of the Malayan Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* (*JMBRAS*) came into existence, with Volume 1 Part 1 published in April 1923 [[1, p. 90]](#ref-1). The serial numbers of future publications were continued, but each volume was given a volume number comprising several parts [[1, p. 90]](#ref-1).
 
@@ -49,7 +47,7 @@ A notable event of this era was the presentation of a bronze bust of Sir Stamfor
 
 In 1963, the complete set of 82 Straits Branch Journals was [reprinted](./reprinted.md) by Kraus Reprints in [Germany](./germany.md), a run that has since been exhausted [[2, p. 98]](#ref-2).
 
-### The Malaysian Branch and Modern Scholarship (1964–Present)
+## The Malaysian Branch and Modern Scholarship (1964–Present)
 
 The first Journal published under the Malaysian Branch was Volume 37 Part 1, in July 1964 [[1, p. 91]](#ref-1). By the end of 1983, the Society had published 245 journals in total, and it continued at a rate of two parts per year [[1, p. 91]](#ref-1). The post-1950 period witnessed the amateur scholarship of colonial officials gradually giving way to professional scholarship, a transformation largely attributable to the establishment of the University of [Malaya](./malaya.md) in Singapore in 1949 and later a separate university in [Kuala Lumpur](./kuala-lumpur.md) in 1959 [[1, p. 105]](#ref-1). Professional historians such as [C.N. Parkinson](./cn-parkinson.md) (first Raffles Professor of History, 1949–1958), I.A. Macgregor, and [C.D. Cowan](./cd-cowan.md) brought archival research methods and analytical rigour to Malayan historiography [[1, p. 105]](#ref-1).
 
@@ -61,7 +59,7 @@ The Society's move from Singapore to Petaling Jaya, prompted by the Director of 
 
 In the digital age, the journal's distribution has been transformed. The JSTOR digital collection of *JSBRAS* and *JMBRAS* back issues, available from 1878, recorded over 91,000 downloads in 2021 from 175 countries, demonstrating that digitisation has solved the accessibility problem that preoccupied earlier editors [[2, p. 100]](#ref-2). The journal's move to peer review, necessitated by Scopus indexing requirements, represents a significant departure from the practices of its earlier decades [[2, p. 102]](#ref-2). The Society has also revived its monograph and reprint series in both print and ebook formats [[2, p. 102]](#ref-2).
 
-### Research and Documentation
+## Research and Documentation
 
 The principal institutional history of the Society is [Choy Chee Meh](./choy-chee-meh.md)'s (née Lum) 1995 study, published in *JMBRAS* 68(2), which traces the Society from its founding through its second century of operation [[1]](#ref-1). This work, based largely on the Society's own printed publications including Annual Reports, Journals, Reprints, Monographs, and Rules, is the first dedicated institutional history of the MBRAS and fills a notable gap in the historiography of Southeast Asian learned societies [[1, p. 81]](#ref-1). It draws almost exclusively on the Society's own publications as primary sources, supplemented by a limited range of secondary literature on Malayan historiography; no external archival collections were consulted [[1]](#ref-1).
 
@@ -71,33 +69,17 @@ The Society's publications have been indexed at [various](./various.md) points: 
 
 The Society's Rules, preserved in the appendices to Choy Chee Meh's history, document its constitutional evolution from the Straits Branch through the Malayan Branch to the Malaysian Branch, including provisions for membership, officers, council, general meetings, publications, and dissolution [[1, pp. 129–137]](#ref-1). The Rules confirm that the Society's activities cover Malaysia, the State of Brunei, and other neighbouring territories, and that its objects are "the increase and diffusion of knowledge" concerning those territories, including the publication of a journal devoted to this end [[1, p. 135]](#ref-1). Members when temporarily resident in the United Kingdom are entitled to use the library and attend the monthly meetings of the Royal Asiatic Society of Great Britain and Ireland, and when visiting [India](./india.md), to attend the monthly meetings of the Asiatic Society of Bengal [[1, pp. 131–132]](#ref-1).
 
-## History
-
-### Straits Branch of the Royal Asiatic Society
-
-### Malayan Branch of the Royal Asiatic Society
-
-### Malaysian Branch of the Royal Asiatic Society
-
-### Borneo Branch of the Royal Asiatic Society
-
-## Patrons
-
 ## Publications
 
 ### Journal of the Malaysian Branch of the Royal Asiatic Society
 
-See (Journal of the Malaysian Branch of the Royal Asiatic Society)[./journal-of-the-malaysian-branch-of-the-royal-asiatic-society].
+See [Journal of the Malaysian Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society#catalogue).
 
 ### Monographs
 
 ### Reprints
 
-### Other publications
-
-## Prominent Members
-
-## MBRAS Council
+### Other Publications
 
 ## MBRAS Sources
 

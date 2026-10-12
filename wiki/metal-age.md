@@ -17,8 +17,6 @@ type: concept
 generated: true
 ---
 
-# Metal age
-
 The Metal Age, as attested in the archaeological record of the Niah [Caves](./caves.md) in Sarawak, refers to a funerary phase dating approximately 1300–1600 A.D., characterised by imported [Chinese](./chinese.md) stoneware, metal ornaments, glass [beads](./beads.md), and secondary burials accompanied by ritual pig bone deposits. The evidence derives from a single site—Magala, a limestone cave system on the southern fringe of the Subis formation—excavated by the [Sarawak](./sarawak.md) Museum in 1964 and reported by Barbara and [Tom Harrisson](./tom-harrisson.md) in 1968 [[1]](#ref-1). The Metal Age phase at Magala is separated from an earlier Neolithic burial phase (c. 1,130 B.C.) by a gap of over two millennia, with no apparent continuity between the two [[1, pp. 150–151]](#ref-1).
 
 ## Chronological Framework and Material Assemblage

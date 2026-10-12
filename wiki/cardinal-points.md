@@ -20,8 +20,6 @@ type: concept
 generated: true
 ---
 
-# Cardinal points
-
 The Malay terms for cardinal and intercardinal compass points exhibit considerable regional variation across the Malay Peninsula, shaped by Islamic burial customs, Javanese linguistic influence, and the practical needs of coastal and upland communities. In [Kedah](./kedah.md) and [Trengganu](./terengganu.md), the ordinary [Malay](./malay.md) compass vocabulary is supplemented or replaced by distinctive local terms whose origins have been debated by scholars; in [Kelantan](./kelantan.md), both coastal fisher-folk and upland [medicine](./medicine.md) men employ separate lexical systems, the latter drawing heavily on Javanese equivalents. These variations, documented in the early twentieth century, reveal that the standard four-point compass—*utara*, *selatan*, *timor*, *barat*—was neither universally nor uniformly applied across the region, and that directional language was embedded in religious, ritual, and ecological contexts that gave it meanings far beyond simple orientation.
 
 ## Lexical Variation and the Problem of Origin

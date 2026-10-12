@@ -21,8 +21,6 @@ type: person
 generated: true
 ---
 
-# Edred John Henry Corner
-
 ## Edred John Henry Corner
 
 The archival records provided to this office contain no biographical material on Edred John Henry Corner. The sole source available for this commission is [H.S. Barlow](./henry-sackville-barlow.md)'s 1996 article on Sir [Frank Swettenham](./sir-frank-swettenham.md), which does not mention Corner by name, nor does it reference any individual of that name in its narrative, footnotes, or bibliography.

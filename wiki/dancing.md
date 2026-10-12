@@ -24,8 +24,6 @@ type: concept
 generated: true
 ---
 
-# Dancing
-
 Dancing in the Malay Peninsula and [Borneo](./borneo.md) encompasses a diverse range of performance traditions that span courtly, ritual, and popular registers, each embedded in specific cultural, religious, and social contexts. From the classical court nautch observed in [Pahang](./pahang.md) in the 1870s to the folk dance-[theatre](./theatre.md) of *Nora Chatri* in [Kedah](./kedah.md) and the semi-religious *Rodat* of [Trengganu](./terengganu.md), these forms reveal a region where dance functions simultaneously as entertainment, spiritual practice, and marker of social identity. The [traditions](./traditions.md) documented in the Society's [literature](./literature.md) reflect varying degrees of cross-cultural influence—Javanese, Thai, Arabic, and Indian—while remaining firmly rooted in local [Malay](./malay.md), Thai, and broader Southeast Asian performance cultures. The records attest to forms that were, at the time of their documentation, either rare, on the verge of disappearance, or sustained by small communities of practitioners, underscoring the urgency with which early observers sought to record them.
 
 ## Scope and Historical Definition

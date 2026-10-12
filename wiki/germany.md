@@ -17,8 +17,6 @@ type: concept
 generated: true
 ---
 
-# Germany
-
 Germany's relationship with the Malay world spans [military](./military.md) confrontation, colonial [labour](./labour.md), academic philology, and literary exchange. From the seventeenth-century German employees of the [Dutch East India Company](./dutch-east-india-company.md) who documented their service in the archipelago, through the First World War destruction of the German raider *SMS Emden* off the Cocos (Keeling) [Islands](./islands.md), to the sustained programme of German-language scholarship on [Malay language and literature](./malay-language-and-literature.md) that continues into the twenty-first century, German engagement with the region has been continuous, multifaceted, and often shaped by the geopolitical currents of the era in which it occurred. The records preserved in the Society's journal reveal a pattern in which German actors—soldiers, planters, philologists, and translators—have alternately imposed [European](./european.md) frameworks upon [Malay](./malay.md) culture and, in later periods, been progressively displaced by Malaysian institutions asserting their own scholarly authority.
 
 ## Military Encounters in the Malay World

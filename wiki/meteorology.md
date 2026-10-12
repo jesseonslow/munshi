@@ -25,8 +25,6 @@ type: concept
 generated: true
 ---
 
-# Meteorology
-
 ## Meteorology in the Straits Settlements
 
 Meteorological observation in the [Straits Settlements](./straits-settlements.md) and the [Malay](./malay.md) Peninsula developed from the late eighteenth century as a practical necessity of colonial administration, evolving from scattered thermometrical readings taken aboard [East India Company](./east-india-company.md) ships into a structured network of recording stations by the 1880s. The scientific study of heat, rainfall, and atmospheric pressure in this region was shaped by local environmental anxieties—particularly the relationship between deforestation and rainfall, the monsoonal circulation governing the tropics, and the periodicity of drought and disease—rather than by the abstract global energy-budget models that dominated European meteorological theory. [[1]](#ref-1) The resulting body of knowledge, produced by colonial medical officers, civil engineers, [botanists](./botanists-and-botanical-gardens.md), and private observers, constitutes a distinctive hybrid of imported [European](./european.md) frameworks and locally observed environmental change, and it remains the primary documentary record of the region's atmospheric history for the period before the establishment of a dedicated meteorological service. [[1]](#ref-1)

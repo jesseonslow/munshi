@@ -20,8 +20,6 @@ type: concept
 generated: true
 ---
 
-# Poisons and poisonous plants
-
 ## Poisons and Poisonous Plants
 
 The use of plant-derived poisons in the [Malay](./malay.md) Peninsula and [Borneo](./borneo.md) constitutes a subject of considerable medical, economic, and pharmacological interest, documented in the Society's literature from the late nineteenth century through the early twentieth. Two principal threads emerge from the archival record: the occupational hazards posed by toxic plant sap in the timber trade, and the systematic investigation of *tuba* (*Derris elliptica*) as a [fish](./fish.md)-poison whose physiological mechanism remained unexplained until controlled laboratory experiments were undertaken in the [Straits Settlements](./straits-settlements.md). Together, these studies illustrate the transition from ethnographic description to experimental toxicology in the region's scientific [literature](./literature.md).

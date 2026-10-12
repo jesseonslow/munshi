@@ -15,8 +15,6 @@ type: concept
 generated: true
 ---
 
-# Klang
-
 Klang is a river and settlement on the west coast of the Malay Peninsula whose historical significance spans from the Bronze Age to the modern era. Its excellent harbour and strategic position for receiving trade carried by the north-east and south-west monsoons made it a place of importance from very early days, and its tin-producing rivers sustained economic activity for centuries [[1, pp. 81–83]](#ref-1). The name itself has been the subject of considerable scholarly debate, with Linehan (1951) arguing convincingly that it derives not from the [Malay](./malay.md) word for tin but from a Mon-Khmer term meaning "store-house" or "citadel" [[1, p. 85]](#ref-1). Klang's political history is inseparable from that of [Selangor](./selangor.md), of which it formed a constituent part, and its archaeological record, though sparse, provides some of the earliest material evidence of organised society in the region [[2, p. 1]](#ref-2).
 
 ## Archaeological and Prehistoric Evidence

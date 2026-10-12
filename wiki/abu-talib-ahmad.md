@@ -15,8 +15,6 @@ type: person
 generated: true
 ---
 
-# Abu Talib Ahmad
-
 Prof. Dato Abu Talib [Ahmad](./ahmad.md) (d. June 2025) was a Malaysian historian whose career at Universiti Sains [Malaysia](./malaysia.md) from 1984 onward produced 18 monographs and 69 book chapters, articles, and reviews, constituting what [Paul Kratoska](./paul-h-kratoska.md) assessed as "a major contribution to historical writing in and on [Malaysia](./malaysia.md)" [[1, p. 127]](#ref-1). Trained at Tsukuba University in [Japan](./japan.md) and holding a doctorate from Monash University on the Japanese Occupation of [Burma](./burma.md), he served as a Member of Council for the [Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md), which handled ten of his publications [[1, p. 127]](#ref-1).
 
 ## Academic Formation and Early Career

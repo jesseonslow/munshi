@@ -33,8 +33,6 @@ type: concept
 generated: true
 ---
 
-# Literature
-
 ## Scope and Historical Definition
 
 The study of literature in the Malay world, as documented in the Society's journal, encompasses a broad field that extends well beyond the conventional boundaries of English-language fiction to include [Malay](./malay.md)-language novels, biographical writing, colonial administrative prose, and the literary representation of indigenous peoples in Western print culture. The records reveal a discipline that has evolved from the early bibliographic compilation of English-language works set in the region, through the critical examination of colonial literary production and its ideological functions, to the historiographical analysis of how biographical narratives are constructed and deployed for political purposes. The region's literary landscape is characterised by a persistent tension between the work of expatriate and metropolitan authors and the emerging body of indigenous writing in both English and local [languages](./languages.md), a tension that has shaped scholarly attention from the 1890s to the present.

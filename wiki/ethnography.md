@@ -74,8 +74,6 @@ type: concept
 generated: true
 ---
 
-# Ethnography
-
 ### Scope and Historical Definition
 
 Ethnography, as practised across the [Malay](./malay.md) Peninsula, Borneo, and the broader maritime world of the Straits of [Melaka](./melaka.md), has been a discipline of sustained and evolving inquiry into the material culture, social organisation, spiritual systems, and linguistic practices of indigenous and semi-indigenous populations. The body of work preserved in the Society's journals reveals a field that has shifted from the typological and racial framing characteristic of late nineteenth- and early twentieth-century colonial scholarship to the participant-observation and theoretical synthesis of the late twentieth and early twenty-first centuries. The regions documented span the highlands of North [Formosa](./formosa.md), the interior and coast of [Borneo](./borneo.md), the archipelagoes of Riau and [Singapore](./singapore.md), the highlands of central and northern [Sumatra](./sumatra.md), and the Isthmus of Kra, with each area contributing distinct methodological challenges and analytical frameworks to the discipline.

@@ -18,8 +18,6 @@ type: concept
 generated: true
 ---
 
-# Prisons
-
 ## The Penal System of the Straits Settlements
 
 The Straits Settlements of [Penang](./penang.md), [Singapore](./singapore.md), and [Malacca](./melaka.md) functioned as a penal colony for British India from the late 1780s until the final removal of Indian convicts in 1873, a period of nearly ninety years during which the settlements received thousands of transported prisoners serving sentences for murder, dacoity, and thuggee [[1]](#ref-1). The convict system was not a peripheral administrative matter but a central feature of colonial governance, shaping the economic calculus of public works, the social composition of the [European](./european.md) and Indian communities, and ultimately the constitutional relationship between the [Straits Settlements](./straits-settlements.md) and the Government of [India](./india.md) [[1]](#ref-1). The scale of the operation was considerable: by 1858 the settlements held nearly 4,000 convicts distributed across the three stations, and the system generated both substantial financial surpluses and acute political anxieties that persisted until the transfer of the Straits to the Colonial Office in 1867 [[1]](#ref-1).

@@ -14,8 +14,6 @@ type: concept
 generated: true
 ---
 
-# Jan Samuel Timmerman-Thijssen
-
 Jan Samuel Timmerman-Thijssen (1782–1823) served as the Dutch Governor of Malacca from July 1818 until his death on 15 January 1823, at the age of forty. His tenure coincided with the Dutch final struggle against British efforts to establish [Singapore](./singapore.md) and control trade through the [Malacca](./melaka.md) Strait, a period in which the once-great entrepôt had fallen into decline following the razing of its fort, A Famosa, during the British interregnum of 1795–1817 [[1, pp. 9–10]](#ref-1). No official inquiry was ever conducted into the circumstances of his death, and the *East [India](./india.md) Register and Directory* did not gazette it until 1825 [[1, pp. 10]](#ref-1).
 
 ## Early Career and Financial Conduct

@@ -29,8 +29,6 @@ type: concept
 generated: true
 ---
 
-# Arms and armour
-
 Arms and armour in the [Malay](./malay.md) Peninsula and [Borneo](./borneo.md) constitute a material culture shaped by the intersection of indigenous [technology](./technology.md), regional trade, and ecological constraint. The available archival record, while limited in breadth, reveals a tradition in which defensive [implements](./implements.md) such as shields were collected and catalogued by colonial-era [museums](./museums.md), offensive technologies such as [archery](./archery.md) were governed by the botanical materials at hand, and certain weapon forms traced their origins to Indochinese rather than Indian cultural streams. Together, these records illuminate a region where the availability of specific plant species — palms, bamboos, [grasses](./grasses.md), and mangrove roots — determined not only what weapons could be made but how they were used, and where the movement of artefacts across political boundaries left traces in the archaeological and ethnographic record that scholars have sought to interpret for over a century.
 
 ## Shields and Defensive Implements

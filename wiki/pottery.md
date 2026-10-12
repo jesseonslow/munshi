@@ -19,8 +19,6 @@ type: concept
 generated: true
 ---
 
-# Pottery
-
 ## Pottery
 
 Pottery constitutes one of the most persistent and archaeologically significant material cultures of the [Malay](./malay.md) Peninsula and [Borneo](./borneo.md), spanning from Neolithic cave deposits dating to approximately 4000 B.C. through to modern local production. The ceramic record in this region encompasses a remarkable diversity of forms and functions: hollow stands and perforated cones from northern Malayan caves, double-spouted earthenware vessels from the Niah [Caves](./caves.md) in [Sarawak](./sarawak.md), [Chinese](./chinese.md) export stonewares recovered from Sumatran trade sites, and locally made spouted water-vessels still in use in the early twentieth century. Together, these assemblages illuminate questions of indigenous technological development, long-distance maritime trade, ritual practice, and the complex interplay between local innovation and external influence that characterises the [prehistory](./prehistory.md) and early history of the region.

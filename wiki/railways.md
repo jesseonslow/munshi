@@ -15,8 +15,6 @@ type: concept
 generated: true
 ---
 
-# Railways
-
 Railways in the [Malay](./malay.md) Peninsula were constructed primarily to serve the tin-mining and plantation economies of the western states, functioning as instruments of colonial extraction that linked inland producing centres to the export ports of [Penang](./penang.md) and [Singapore](./singapore.md). From the first short latitudinal lines of the 1880s to the completion of the east coast line in 1931, the railway system was shaped by the structural dependence of the Malayan economy on export trade and the political fragmentation of the Malayan states, which together constrained both the scope and the coherence of transport planning. [[1, pp. 45–46]](#ref-1) The system's development was not merely a technical or engineering undertaking but a reflection of the broader capital growth process centred in London, whose specific form was determined by the location of tin deposits, river systems, and the proximity of the western states to the Straits ports. [[1, p. 44]](#ref-1)
 
 ## Phases of Construction and Spatial Pattern

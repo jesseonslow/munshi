@@ -46,8 +46,6 @@ type: concept
 generated: true
 ---
 
-# Land tenure
-
 ## Land Tenure
 
 Land tenure in the Malay Peninsula and [Borneo](./borneo.md) encompasses the legal, customary, and administrative frameworks governing the occupation, use, and transfer of land, and has been a central concern of colonial and post-colonial governance across the region. From the indigenous [Malay](./malay.md) system of usufructuary rights created by clearance and cultivation, through the imposition of British statutory land codes, to the semi-feudal arrangements of [Chinese](./chinese.md) plantation settlements and the contested claims of indigenous minorities, land tenure has shaped the economic, social, and political history of the region. The transformation from customary tenure to registered title, and the consequences of that transformation for peasant proprietors, indigenous communities, and colonial revenue, constitute one of the most extensively documented themes in the Society's [literature](./literature.md), spanning nearly a century of scholarship from the 1880s to the present.

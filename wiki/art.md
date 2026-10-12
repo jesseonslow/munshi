@@ -35,8 +35,6 @@ type: concept
 generated: true
 ---
 
-# Art
-
 ## Scope and Historical Definition
 
 The term "art" as applied to the material cultures of the [Malay](./malay.md) Peninsula and [Borneo](./borneo.md) encompasses a wide range of creative production, from the woven and plaited objects of everyday life to monumental stone sculpture, painted canvases, and prehistoric ceramic forms. The Society's [literature](./literature.md) documents these [traditions](./traditions.md) across several distinct media—pictorial, sculptural, and artefactual—each carrying its own technical vocabulary, regional distribution, and symbolic significance. The records span from the late nineteenth century to the early 1980s, reflecting a progression from brief descriptive notes to sustained analytical studies, and from the documentation of living crafts to the scientific examination of archaeological remains.

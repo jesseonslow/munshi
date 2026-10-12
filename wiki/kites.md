@@ -19,8 +19,6 @@ type: concept
 generated: true
 ---
 
-# Kites
-
 ## Kelantan Kite-Flying (*Main Wau*)
 
 Kite-flying in [Kelantan](./kelantan.md) represents one of the most elaborate [traditions](./traditions.md) of the [Malay](./malay.md) Peninsula, distinguished by the scale and craftsmanship of its apparatus. While the practice is not confined to the state, Hill (1952) observed that nowhere else in the Federation were kites of such complexity to be found [[1, p. 26]](#ref-1). The tradition occupies a prominent place in the post-harvest season of universal merrymaking, when feasts, marriages, and inter-village competitions fill the [calendar](./calendar.md) between the grain harvest and the next planting [[1, p. 20]](#ref-1).

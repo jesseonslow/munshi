@@ -26,8 +26,6 @@ type: person
 generated: true
 ---
 
-# Frank Swettenham
-
 ## Early Career and the Perak Crisis
 
 Frank Swettenham (1850–1946) was a British colonial administrator who served for thirty-three years entirely in the Malay Peninsula, rising from Assistant Resident at the age of twenty-three in 1874 to Governor of the [Straits Settlements](./straits-settlements.md) and High Commissioner for the Malay States from 1901 to 1904, and who thereafter became the most persistent and influential self-narrator of the British intervention in [Malaya](./malaya.md), a role he sustained through successive publications and newspaper correspondence until his death at the age of ninety-six [[1, p. 54]](#ref-1) [[2, p. 95]](#ref-2). His career is inseparable from the Residential System, the framework of British governance in the [Malay](./malay.md) States inaugurated in 1874, and from the intellectual project of justifying that system in terms of material progress and fiscal prudence [[1, pp. 41–43]](#ref-1).

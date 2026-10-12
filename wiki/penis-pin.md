@@ -14,8 +14,6 @@ type: concept
 generated: true
 ---
 
-# Penis pin
-
 ## The *Palang*: A Penile Bar Device of Borneo and the Philippines
 
 The *palang*—a cross-piece driven horizontally through the glans of the penis—constitutes one of the most distinctive and geographically concentrated forms of male genital modification documented in [Southeast Asia](./southeast-asia.md). Its known distribution spans West [Borneo](./borneo.md), the southern [Philippines](./philippines.md), and, in related bead-insertion forms, parts of the [Malay](./malay.md) Peninsula, [Java](./java.md), [Celebes](./celebes.md), and [Siam](./thailand.md) [[1, p. 162]](#ref-1), [[2, p. 90]](#ref-2). The device is not a single uniform artefact but a [family](./family.md) of objects varying in material, form, and cultural context, with over thirty varieties recorded in the sixteenth century alone, each bearing a distinct sacred name [[1, p. 171]](#ref-1). Despite its considerable antiquity and regional persistence, the *palang* was either deliberately suppressed or simply overlooked by colonial administrators and ethnographers, leaving a [literature](./literature.md) that is "light" and often "misleading, presented as semi-erotic" [[1, p. 164]](#ref-1).

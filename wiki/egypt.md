@@ -14,8 +14,6 @@ type: concept
 generated: true
 ---
 
-# Egypt
-
 The sole record in the Society's [archives](./archives.md) bearing on Egypt as a subject is a 1950 article by H. G. Quaritch Wales, which treats Egyptian cultural elements not as a civilisation in their own right but as a source of specific traits—most notably the Horus emblem and associated sun-worship—allegedly transmitted to [Java](./java.md) through Sabaean intermediaries [[1, pp. 36–37]](#ref-1). The article is an early instalment of the broader diffusionist programme that Wales later developed in his monograph *The Making of Greater [India](./india.md)* [[1, p. 36]](#ref-1).
 
 ## The Horus Emblem and Solar Cult in Java

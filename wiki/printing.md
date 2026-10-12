@@ -16,8 +16,6 @@ type: concept
 generated: true
 ---
 
-# Printing
-
 Printing in the Malay world spans nearly four centuries, from the first printed Malay book in Amsterdam in 1603 to the industrial-scale letterpress operations of the early twentieth century in Singapore and the [Straits Settlements](./straits-settlements.md). The history of Malay printing is inseparable from the movements of [European](./european.md) colonialism, Christian missionary enterprise, and indigenous commercial enterprise, and its geographical reach extended from the Netherlands and England to [Batavia](./jakarta.md), [Melaka](./melaka.md), [Penang](./penang.md), [Singapore](./singapore.md), [Bencoolen](./bencoolen.md), the [Moluccas](./moluccas.md), Timor, [Sri Lanka](./sri-lanka.md), Bombay, and the Middle East [[1, pp. 85–110]](#ref-1). The [technology](./technology.md) of the printing press introduced a transformative shift in the production and distribution of [Malay](./malay.md)-language texts, moving the region from a manuscript culture sustained by royal patronage and religious institutions toward a print economy shaped by colonial policy, market forces, and the emergence of an indigenous publishing industry [[2, pp. 101–132]](#ref-2), [[3, pp. 1–9]](#ref-3).
 
 ## Origins and the Missionary Press

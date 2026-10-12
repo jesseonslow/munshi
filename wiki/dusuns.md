@@ -23,8 +23,6 @@ type: concept
 generated: true
 ---
 
-# Dusuns
-
 The Dusun-speaking peoples of [Sabah](./sabah.md), [Malaysia](./malaysia.md), constitute a linguistically related but culturally diverse cluster of communities inhabiting the West Coast and Interior Residencies of the state. As of the 1960 census, the demographic category "Dusun" encompassed approximately 138,000 individuals, of whom roughly 95 per cent spoke closely related communilects in geographically contiguous areas [[1, p. 133]](#ref-1). The term itself is a colonial and [Malay](./malay.md) administrative label that masks profound internal heterogeneity; the peoples concerned recognise their own distinct ethnic identities, and the most analytically productive division is between swidden-based and irrigation-based societies, each of which entails a distinct constellation of sociocultural traits from [land tenure](./land-tenure.md) to residence patterns [[1, pp. 132–133]](#ref-1). The Dusun-speaking world spans a considerable range of ecological and economic adaptations, from the irrigated rice terraces of the Ranau and Tambunan valleys to the shifting-cultivation forests of the Kudat and Keningau districts, and from the riverine communities of the Segama and Klias to the highland settlements of the Lotud and Tuaran areas [[1, pp. 133]](#ref-1), [[2, pp. 61–62]](#ref-2).
 
 ## Scope, Definition, and Linguistic Affiliation

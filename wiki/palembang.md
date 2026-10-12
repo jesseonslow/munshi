@@ -17,8 +17,6 @@ type: concept
 generated: true
 ---
 
-# Palembang
-
 ## The Maritime Empire of Palembang
 
 Palembang, situated in Southern [Sumatra](./sumatra.md), was for approximately six centuries the centre of a maritime empire that controlled the Straits of [Malacca](./melaka.md) through a network of outstations on both sides of the waterway, extracting toll from the international trade that passed through them [[1, p. 23]](#ref-1). From the seventh century to its conquest by the Javanese of [Majapahit](./majapahit.md) around 1377, Palembang appears in [Chinese](./chinese.md), Arabic, Tamil, and Javanese sources as a flourishing polity of Hindu and particularly Buddhist civilisation, whose political reach extended from the Nicobar [Islands](./islands.md) in the north to Ceylon in the west and from the Malay Peninsula in the south to Central [Java](./java.md) in the east [[1, pp. 23–25]](#ref-1). The empire's dynastic style was "Maharaja," and its kingdom bore the name Srivijaya, a term that earlier scholarship had misread as a personal name rather than a dynastic or state designation [[1, p. 24]](#ref-1). The significance of Palembang to the history of the [Malay](./malay.md) Peninsula and the wider archipelago lies not merely in its local importance but in its role as the dominant political force shaping the early colonisation of the Peninsula, the transmission of Indian civilisation to Western [Indonesia](./indonesia.md), and the structure of maritime trade between [China](./china.md) and the West [[1, pp. 23]](#ref-1).

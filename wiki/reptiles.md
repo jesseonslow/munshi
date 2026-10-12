@@ -24,16 +24,15 @@ type: concept
 generated: true
 ---
 
-# Reptiles
+## Members & Sub-Topics
+- [Crocodiles](./crocodiles.md)
+- [Lizards](./lizards.md)
+- [Snakes](./snakes.md)
 
 ## Scope and Historical Definition
 
 The reptilian fauna of the [Malay](./malay.md) Peninsula and Borneo was first systematically documented in the mid-nineteenth century, with Dr. Cantor's 1847 paper establishing the earliest important checklist of the region's species [[1, p. 185]](#ref-1). By the turn of the twentieth century, the fauna was considered "well-known" in broad terms, though significant gaps remained, particularly in the Native States of the peninsula and the interior of Borneo [[1, p. 185]](#ref-1), [[2, p. 44]](#ref-2). [H. N. Ridley](./henry-nicholas-ridley.md), Director of the Singapore Botanic Gardens, published in 1899 what remained one of the most comprehensive behavioural accounts of Malayan reptiles, organised taxonomically across tortoises, [crocodiles](./crocodiles.md), [lizards](./lizards.md), and [snakes](./snakes.md), and drawing on his personal observations across [Singapore](./singapore.md) and the wider peninsula [[1, pp. 185–210]](#ref-1). R. S. Shelford, Curator of the [Sarawak](./sarawak.md) Museum, consolidated nearly two decades of collecting activity into a definitive checklist of [Borneo](./borneo.md)'s reptilian fauna in 1901, recording 87 genera and 212 species as of December 1900 [[2, pp. 43–44]](#ref-2). Together, these works established the taxonomic and biogeographical framework within which subsequent research on the region's reptiles was conducted.
 
-## Members & Sub-Topics
-- [Crocodiles](./crocodiles.md)
-- [Lizards](./lizards.md)
-- [Snakes](./snakes.md)
 
 ## Taxonomic Composition and Endemism
 

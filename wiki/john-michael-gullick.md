@@ -18,8 +18,6 @@ type: person
 generated: true
 ---
 
-# John Michael Gullick
-
 John Michael Gullick was born in February 1916 into an affluent Bristol [family](./family.md) whose circumstances were altered later by the slump in 1932. Having won a free place at Taunton, a boarding school in Somerset, Gullick's scholarly inclinations became distinctly apparent when he was awarded an open scholarship to Christ's College, Cambridge from which he emerged in 1938 with a Double First in Classics. 
 
 Gullick joined the Colonial Administrative Service in 1939 and after the war - in which he served with some distinction - found himself transferred to the Malayan Civil Service in which he would serve for the next decade or so of his long and eventful life. Gullick joined the [MBRAS](./malaysian-branch-of-the-royal-asiatic-society.md) in 1947 and sat on its Council in the 1950s before finally becoming one of its International Advisory Board members and the Society's representative in the United Kingdom. 

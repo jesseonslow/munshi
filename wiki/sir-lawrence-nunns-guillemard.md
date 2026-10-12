@@ -14,8 +14,6 @@ type: person
 generated: true
 ---
 
-# Sir Lawrence Nunns Guillemard
-
 ## Early Career and Appointment to Malaya
 
 Sir Lawrence Nunns Guillemard (1862–1952) was a British civil servant who served as Governor of the [Straits Settlements](./straits-settlements.md) and High Commissioner for the [Federated Malay States](./federated-malay-states.md) (FMS) from 1920 to 1927. Educated at Cambridge, he spent nearly thirty-four years in Home Service, principally in the Treasury, holding posts including Private Secretary to the Chancellor of the Exchequer, Deputy Chairman of the Board of Inland Revenue, and Chairman of Customs and Excise before his colonial appointment [[1, p. 48]](#ref-1). His Malayan posting was secured through the intervention of Lord Alfred Milner, then Secretary of State for the Colonies, who regarded him as one of his "most go-ahead Governors" [[1, p. 48]](#ref-1). Guillemard arrived in [Malaya](./malaya.md) in February 1920 as a complete novice in colonial administration, yet he exuded in public a sense of congeniality, humour, and accessibility that contrasted sharply with the hard-driving manner of his principal adversary, Chief Secretary [Sir William George Maxwell](./sir-william-george-maxwell.md) [[1, p. 48]](#ref-1).

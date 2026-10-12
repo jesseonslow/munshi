@@ -20,8 +20,6 @@ type: concept
 generated: true
 ---
 
-# Peranakan
-
 The Peranakan, from the Malay word meaning "born in the country," denote the local-born offspring of Chinese settlers who intermarried with Malay and Indonesian women in the ports and hinterlands of maritime [Southeast Asia](./southeast-asia.md). Across the Malay Peninsula, [Sumatra](./sumatra.md), and the northern littoral of the region, Peranakan communities developed distinctive linguistic, cultural, and economic profiles that set them apart from both their Chinese-origin ancestors and their [Malay](./malay.md) neighbours. Their significance lies in the hybrid identities they forged—simultaneously [Chinese](./chinese.md) and local, cosmopolitan and rooted—which made them pivotal intermediaries in the trade, print, and cultural networks of the colonial Indian Ocean world [[1, pp. 5–7]](#ref-1).
 
 ## Scope and Historical Definition

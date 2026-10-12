@@ -21,8 +21,6 @@ type: concept
 generated: true
 ---
 
-# Jelubu
-
 [Jelebu](./jelebu.md) is a small Malay state situated in the lower Triang Valley, on the border of what are now the states of [Negeri Sembilan](./negeri-sembilan.md) and [Pahang](./pahang.md) in the western [Malay](./malay.md) Peninsula. Its name, according to oral tradition recorded by the colonial administrator [H.A. O'Brien](./henry-arthur-obrien.md), was derived from a man drowned in the Triang River [[1, p. 337]](#ref-1). By the late nineteenth century the state was characterised by severe depopulation, economic stagnation, and a distinctive constitutional arrangement that combined a [Menangkabau](./menangkabau.md) royal figurehead with a hereditary executive council [[1, pp. 337–341]](#ref-1). The region's vulnerability to catastrophic riverine flooding was documented in a first-hand administrative account of the December 1896 flood, which revealed both the physical hazards of the Triang Valley and the logistical difficulties of colonial riverine governance [[2, pp. 155–158]](#ref-2).
 
 ## Constitutional Origins and Political Structure

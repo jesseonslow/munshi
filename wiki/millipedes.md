@@ -14,8 +14,6 @@ type: concept
 generated: true
 ---
 
-# Millipedes
-
 ## Taxonomic Position and Morphology
 
 Millipedes (Class *Diplopoda*) are invertebrate [animals](./animals.md) found in all temperate and tropical regions, herbivorous, slow-moving, and incapable of biting a human being; some species reach nearly 10 inches (254 mm) in length [[1, p. 3]](#ref-1). The head is distinct, bearing a pair of short antennae composed of seven or eight segments and two pairs of jaws on its lower surface; the body, more or less elongated, consists of from 9 to over 100 segments, each cased in a horny ring, with two pairs of legs to most segments [[1, p. 3]](#ref-1). Captain Stanley S. Flower, 5th Fusiliers, produced the first systematic account of the region's millipedes in 1901, drawing on four years of fieldwork (1895–1898) across the [Straits Settlements](./straits-settlements.md), the Native States, and [Siam](./thailand.md) [[1, p. 1]](#ref-1). His work was explicitly designed for [European](./european.md) residents arriving from England, where such creatures were rare and harmless, who needed to identify the "wonderful variety" they encountered in daily life [[1, p. 1]](#ref-1).

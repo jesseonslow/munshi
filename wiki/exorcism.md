@@ -15,8 +15,6 @@ type: concept
 generated: true
 ---
 
-# Exorcism
-
 Exorcism in the [Malay](./malay.md) Peninsula, as documented in the early twentieth century, refers to a ritual practice of spirit-mediumship and the expulsion of malevolent entities, carried out primarily by [China](./china.md)-born Hokkien members of the vegetarian sect. The practice was observed in Malacca, Taiping, Singapore, and Penang, where it served both a spiritual function—identifying and punishing evil [spirits](./spirits.md) believed to cause drought, sickness, or general distress—and a medical one, as the mediums' utterances during possession frequently took the form of prescriptions for the sick [[1, pp. 41–42]](#ref-1). By 1924 the practice had already declined in [Singapore](./singapore.md) and [Penang](./penang.md), though it continued weekly in [Malacca](./melaka.md) [[1, p. 41]](#ref-1).
 
 ## Ritual Structure and the Procession

@@ -21,17 +21,16 @@ type: concept
 generated: true
 ---
 
-# Crimes and criminals
-
-## Scope and Historical Definition
-
-Gang robbery, or *dacoity* as it was termed in colonial [Burma](./burma.md) and [India](./india.md), was a form of rural crime endemic to the central rice-growing plains and northern frontier areas of Kedah between 1909 and 1929. The gang robbers came from [various](./various.md) ethnic groups, but the majority rose from the ranks of Malay peasants and the *Sam-Sam*, a frontier community of mixed Siamese and Malay origin who spoke both [Malay](./malay.md) and Siamese fluently [[1, pp. 98–99]](#ref-1). The English social historian E.J. Hobsbawm categorised the "social bandit" as a special type of peasant protest, distinguishing such figures from professional robbers by the perception of their local communities, who regarded them as heroes, champions and avengers rather than mere criminals [[1, p. 99]](#ref-1). [Cheah Boon Kheng](./cheah-boon-kheng.md)'s 1981 study applies this framework to the [Kedah](./kedah.md) outlaws Salleh Tui and Nayan, arguing that folk perceptions of these figures diverged sharply from those of state authorities, who denounced them as "dangerous criminals" [[1, p. 99]](#ref-1).
-
 ## Members & Sub-Topics
 - [Gambling](./gambling.md)
 - [Police](./police.md)
 - [Prisons](./prisons.md)
 - [Smuggling](./smuggling.md)
+
+## Scope and Historical Definition
+
+Gang robbery, or *dacoity* as it was termed in colonial [Burma](./burma.md) and [India](./india.md), was a form of rural crime endemic to the central rice-growing plains and northern frontier areas of Kedah between 1909 and 1929. The gang robbers came from [various](./various.md) ethnic groups, but the majority rose from the ranks of Malay peasants and the *Sam-Sam*, a frontier community of mixed Siamese and Malay origin who spoke both [Malay](./malay.md) and Siamese fluently [[1, pp. 98–99]](#ref-1). The English social historian E.J. Hobsbawm categorised the "social bandit" as a special type of peasant protest, distinguishing such figures from professional robbers by the perception of their local communities, who regarded them as heroes, champions and avengers rather than mere criminals [[1, p. 99]](#ref-1). [Cheah Boon Kheng](./cheah-boon-kheng.md)'s 1981 study applies this framework to the [Kedah](./kedah.md) outlaws Salleh Tui and Nayan, arguing that folk perceptions of these figures diverged sharply from those of state authorities, who denounced them as "dangerous criminals" [[1, p. 99]](#ref-1).
+
 
 ## Socio-Economic and Administrative Context
 

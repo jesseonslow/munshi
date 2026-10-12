@@ -21,8 +21,6 @@ type: concept
 generated: true
 ---
 
-# Genealogies
-
 Genealogies constitute one of the most persistent and structurally significant genres in the historiographical tradition of the Malay world, serving simultaneously as instruments of political legitimation, markers of ethnic identity, and the principal means by which pre-modern Malay polities anchored their rulers in a continuous temporal framework. Across the Malay Peninsula and [Borneo](./borneo.md), genealogical texts appear in royal chronicles, court records, and independent [family](./family.md) documents, ranging from the mythological progenitor lists of the *[Tuhfat al-Nafis](./tuhfat-al-nafis.md)* to the practical pedigree charts of Perak's noble houses and the royal descent records of Brunei. Their significance is not merely antiquarian: as [R. O. Winstedt](./richard-olaf-winstedt.md) observed in 1918, [Malay](./malay.md) history "typically lacks chronological data," and genealogies provided the principal means of establishing approximate dates for events and persons [[1, p. 55]](#ref-1). The genre's regional prevalence is attested from the Acheenese sultanate's appropriation of Malaccan royal descent to the [Bugis](./bugis.md) legitimizing constructs of [Johor](./johor.md), and from the Hadrami scholarly lineages of [Perak](./perak.md) to the *selesilah* (Book of Genealogical Descent) of the [Brunei](./brunei.md) rajas [[2]](#ref-2), [[3]](#ref-3), [[4]](#ref-4).
 
 ## Scope and Historical Definition

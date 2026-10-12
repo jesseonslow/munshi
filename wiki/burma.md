@@ -20,8 +20,6 @@ type: concept
 generated: true
 ---
 
-# Burma
-
 Burma, the sovereign state to the north and east of the Malay Peninsula, appears in the Society's literature primarily as a point of reference in debates over ancient geography, a source of contested identifications in early Malay historiography, and the [theatre](./theatre.md) of a major [military](./military.md) conflict with British colonial interests. The island's significance to the study of the [Malay](./malay.md) Archipelago is considerable: it was the subject of one of the most sustained and ambitious arguments in the English-language [literature](./literature.md) of the early twentieth century, in which the ancient toponyms *Yava-dvipa*, *Iabadiou*, *Ye-po-ti*, and their [Chinese](./chinese.md) variants were re-located from [Java](./java.md) or [Sumatra](./sumatra.md) to [Borneo](./borneo.md), with Burma's position in the broader maritime geography of the region serving as a critical frame of reference for the navigational and commercial routes that connected the Indian Ocean to the South [China](./china.md) Sea [[1, pp. 21–74]](#ref-1).
 
 ## Ancient Geography and the Borneo Hypothesis

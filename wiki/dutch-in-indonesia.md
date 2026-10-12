@@ -14,8 +14,6 @@ type: group
 generated: true
 ---
 
-# Dutch in Indonesia
-
 The Dutch presence in the Indonesian Archipelago, spanning from the early seventeenth century through the formal restoration of their colonial possessions in 1814, constituted one of the most enduring and economically significant European colonial enterprises in [Southeast Asia](./southeast-asia.md). Their territorial holdings encompassed [Java](./java.md), the [Moluccas](./moluccas.md), the island of Banca, and a network of treaty-based dependencies across [Sumatra](./sumatra.md), [Borneo](./borneo.md), and the Lesser Sunda [Islands](./islands.md), while their commercial apparatus—the Vereenigde Oostindische Compagnie (VOC, or Dutch East India Company)—had for two centuries monopolised the spice trade that drew [European](./european.md) powers into the region [[1, pp. 84–85]](#ref-1). By the early nineteenth century, the Dutch colonial state had consolidated enough administrative and military infrastructure to sustain a garrison of 2,869 personnel at [Malacca](./melaka.md) alone by 1663, and to project power across the Archipelago through a system of treaties with native rulers at Macassar, Mataram, Bantam, and elsewhere [[2, pp. 60–61]](#ref-2), [[3, p. 48]](#ref-3). The community's footprint was thus simultaneously commercial, [military](./military.md), and diplomatic, and its interactions with indigenous polities ranged from coercive monopoly enforcement to the more complex negotiations of the post-Napoleonic settlement [[1, pp. 84–119]](#ref-1), [[2, pp. 58–84]](#ref-2).
 
 ## Geographic Distribution & Settlement Patterns

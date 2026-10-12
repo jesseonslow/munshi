@@ -54,8 +54,6 @@ type: concept
 generated: true
 ---
 
-# Malay culture and society
-
 Malay culture and society, as documented in the scholarly [literature](./literature.md) of the [Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md), constitutes a layered civilisational formation spanning the Malay Peninsula and the [Riau Archipelago](./riau-archipelago.md), characterised by the successive superimposition of indigenous animistic, Hindu-Buddhist, and Islamic [traditions](./traditions.md) without the displacement of earlier strata. The resulting culture operates as what [R.J. Wilkinson](./richard-james-wilkinson.md) described as "a sort of museum of ancient customs — an ill-kept and ill-designed museum in which no exhibit is dated, labelled or explained" [[1, p. 74]](#ref-1). From the wet-rice *kampong* (village) of the northern river valleys to the hierarchical courts of the sultanates, from the elaborate *adab* (propriety) governing interpersonal conduct to the political logic of *pandai* (equivocal management) that sustained village governance, [Malay](./malay.md) society presents a system of remarkable internal coherence whose components—linguistic, ceremonial, economic, and political—have been the subject of sustained scholarly investigation from the 1930s to the present.
 
 ## The Layered Origins of Malay Civilisation

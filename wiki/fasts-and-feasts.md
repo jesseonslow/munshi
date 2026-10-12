@@ -28,8 +28,6 @@ type: concept
 generated: true
 ---
 
-# Fasts and feasts
-
 The archival record on fasts and feasts in the Malay world is limited to a single substantive contribution: a 1949 article by [Zainal Abidin bin Ahmad](./zainal-abidin-bin-ahmad.md) in the *[JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)*, which examines Malay [festivals](./festivals.md) and their relationship to religious observance, including fasting practices [[1]](#ref-1). No other records in the Society's [literature](./literature.md) address the topic of feasting, food rituals, or the broader cultural economy of fasting and celebration in the [Malay](./malay.md) Peninsula or [Borneo](./borneo.md). The following article therefore reflects the narrow scope of available documentation and does not extrapolate beyond what the record supports.
 
 ## Scope and Historical Definition

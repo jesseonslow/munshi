@@ -20,8 +20,6 @@ type: concept
 generated: true
 ---
 
-# France and the French
-
 The French presence in the Malay world, though modest in scale compared to British, Dutch, or even German competitors, spanned a remarkable range of activities—from naval warfare and commercial exploration to mining, plantation enterprise, and Catholic missionary work—across the eighteenth, nineteenth, and twentieth centuries. The records preserved in the Society's journals reveal a pattern of intermittent but persistent French engagement with the [Malay](./malay.md) Peninsula and its surrounding waters, characterised by ambitious individual initiatives that rarely achieved the structural depth of their Anglo-Dutch counterparts. From the merchantman *St. Jean Baptiste* at [Trengganu](./terengganu.md) in 1769 to the rubber plantations of Socfin in the 1960s, French actors moved through the region as traders, soldiers, scientists, missionaries, and industrialists, leaving behind a body of primary-source material that has only recently been made accessible to English-language scholarship [[1]](#ref-1), [[2]](#ref-2).
 
 ## Scope and Historical Definition

@@ -18,8 +18,6 @@ type: concept
 generated: true
 ---
 
-# Implements
-
 The implements documented in the Society's [literature](./literature.md) span a wide chronological and functional range, from Neolithic stone tools to [Iron Age](./iron-age.md) iron artefacts and ethnographic wooden and iron agricultural instruments, all recovered from or described in the [Malay](./malay.md) Peninsula and [Borneo](./borneo.md). These objects—harvesting [knives](./knives.md), bark-cloth beaters, iron tools of uncertain function, bone implements, and oil presses—collectively illuminate the material culture of prehistoric and historic communities across the region, and their study has been central to debates over cultural attribution, technological diffusion, and the economic life of Malayan societies [[1]](#ref-1), [[2]](#ref-2), [[3]](#ref-3), [[4]](#ref-4), [[5]](#ref-5), [[6]](#ref-6).
 
 ## Members & Sub-Topics

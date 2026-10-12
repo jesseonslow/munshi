@@ -17,8 +17,6 @@ type: person
 generated: true
 ---
 
-# Oliver William Wolters
-
 ## Early Life and Education
 
 Oliver William Wolters was born on 8 June 1915, in Reading, on the Thames, the son of a philosopher and classical scholar who taught at the University of Reading and served as its Deputy Vice Chancellor. [[1, p. 1]](#ref-1) He won an open scholarship in Modern History to Lincoln College, Oxford, in 1934, and took a first-class honours degree in June 1937. [[1, p. 1]](#ref-1) After a further year at Oxford studying engineering, surveying, forestry, first aid, [ethnography](./ethnography.md), [agriculture](./agriculture.md), and [Malay](./malay.md) language and history — with [Sir Richard Winstedt](./richard-olaf-winstedt.md) among his teachers — he accepted admission to the Malayan Civil Service. [[1, p. 2]](#ref-1)

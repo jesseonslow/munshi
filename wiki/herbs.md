@@ -23,8 +23,6 @@ type: concept
 generated: true
 ---
 
-# Herbs
-
 The archival record on "herbs" in the Society's [literature](./literature.md) is limited to a single floristic treatment of the Araceae of [Borneo](./borneo.md) by [H. N. Ridley](./henry-nicholas-ridley.md) (1905), which documents the [family](./family.md)'s distribution, endemism, and horticultural significance in the region, alongside two further papers on [the Gesneraceae of the Malay Peninsula](./the-gesneraceae-of-the-malay-peninsula.md) and a catalogue of [new or rare Malayan plants](./new-or-rare-malayan-plants.md) that touch upon herbaceous taxa in passing. No dedicated ethnobotanical or pharmacological study of medicinal or culinary herbs appears in the records provided; the term "herb" in these sources is used in its strict botanical sense of a non-woody plant, and the articles are taxonomic rather than economic or cultural in orientation.
 
 ## Taxonomic Scope and Regional Distribution

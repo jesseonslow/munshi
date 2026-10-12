@@ -20,8 +20,6 @@ type: concept
 generated: true
 ---
 
-# Silversmithing and silverware
-
 ## Silversmithing and Silverware
 
 Malay silversmithing is a traditional metalworking craft that, by the mid-twentieth century, survived in a concentrated and economically significant form in Kelantan, with scattered activity in [Trengganu](./terengganu.md) and other east-coast states. The craft produced a range of domestic and ceremonial objects—spoons, cigarette boxes, [coffee](./coffee.md) sets, bracelets, and belt buckles—using techniques of casting, filigree, and engraving that had been refined over generations under royal patronage. By 1951, the industry in [Kelantan](./kelantan.md) employed 74 Malay silversmiths, of whom 54 worked in Kota Bharu, and represented one of the few surviving centres of Malay metalwork on the peninsula, where the old silversmiths had largely died out elsewhere, leaving only scattered specimens and what [A. H. Hill](./anthony-haydock-hill.md) described as "meretricious imitations" of former skill [[1, p. 134]](#ref-1), [[2, p. 97]](#ref-2). The craft's economic significance lay not only in its output for the domestic Malay market but also in its adaptation to non-[Malay](./malay.md) and [European](./european.md) demand, a shift that had begun in the early 1930s and accelerated after the Japanese Occupation [[1, pp. 146–147]](#ref-1), [[2, p. 97]](#ref-2).

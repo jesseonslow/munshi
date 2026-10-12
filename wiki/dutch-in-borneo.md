@@ -14,8 +14,6 @@ type: group
 generated: true
 ---
 
-# Dutch in Borneo
-
 The archival record on the Dutch presence in Borneo is limited to a single source: [Nicholas Tarling](./nicholas-tarling.md)'s 1965 article on Consul Farren, which references Dutch activities in the region only as they intersected with British, Spanish, and [Sulu](./sulu.md) diplomatic affairs during the 1840s and 1850s. No dedicated ethnographic, linguistic, or settlement study of a Dutch community in [Borneo](./borneo.md) appears in the available records.
 
 ## Diplomatic and Military Presence

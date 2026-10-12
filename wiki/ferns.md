@@ -23,8 +23,6 @@ type: concept
 generated: true
 ---
 
-# Ferns
-
 Ferns constitute a species-rich and ecologically conspicuous component of the wet tropical forests of the [Malay](./malay.md) Peninsula and [Borneo](./borneo.md), where they form dense thickets on forest edges, climb in abundance through the understorey, and colonise sea-coast cliffs, damp ravines, and the uppermost boughs of emergent [trees](./trees.md) [[1, pp. 2–4]](#ref-1). Their economic and cultural significance extends from the use of *Cibotium Barometz* hairs as a styptic exported to Europe, to the twisting of *Lygodium* vines into decorative ropes, to the consumption of several species as potherbs [[1, pp. 5–6]](#ref-1). The botanical [literature](./literature.md) of the [Straits Settlements](./straits-settlements.md) and [Sarawak](./sarawak.md), spanning from the 1890s through the 1920s, documents a progressive mapping of this flora from the well-known lowland settlements into the remote interior highlands, revealing a region of considerable endemism and elevational diversity.
 
 ## Floristic Scope and Taxonomic Framework

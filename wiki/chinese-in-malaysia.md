@@ -36,8 +36,6 @@ type: group
 generated: true
 ---
 
-# Chinese in Malaysia
-
 The Chinese community in [Malaysia](./malaysia.md) constitutes one of the largest and most historically layered ethnic populations in the region, with a presence traceable through documentary and physical evidence to at least the early seventeenth century and, in some cases, to earlier periods. Numbering approximately 2.38 million in 1941 alone [[1, p. 124]](#ref-1), the community is distributed across the entire [Malay](./malay.md) Peninsula, with the largest concentrations in the Straits Settlements of [Singapore](./singapore.md) and [Penang](./penang.md), the tin-mining states of [Perak](./perak.md) and [Selangor](./selangor.md), and the agricultural frontier of [Johore](./johor.md) [[2, p. 7]](#ref-2). Linguistically, the community is divided along provincial lines of origin, with Hokkien (Fukien) speakers predominating in coastal and southern areas, Cantonese speakers in the interior and urban centres, and Hakka speakers in the tin-mining districts [[3, p. 3]](#ref-3). Economically, the [Chinese](./chinese.md) have been associated with tin mining, rubber cultivation, [gambier](./gambier.md) and [pepper](./pepper.md) [agriculture](./agriculture.md), [commerce](./commerce.md), and domestic service, while culturally they have produced a range of distinct local formations—from the bilingual, bilaterally organised rural *cina kampung* of [Kelantan](./kelantan.md) to the politically engaged urban communities of the [Straits Settlements](./straits-settlements.md) [[3, p. 1]](#ref-3), [[4, p. 1]](#ref-4).
 
 ## Origins and Early Settlement

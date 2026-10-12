@@ -26,8 +26,6 @@ type: concept
 generated: true
 ---
 
-# Pahang
-
 Pahang is a state on the east coast of the [Malay](./malay.md) Peninsula whose interior highlands, river systems, and coastal islands have attracted sustained scholarly attention since the 1880s. The state's considerable size—revealed by William Cameron's 1885 expedition to extend far beyond previously supposed boundaries, reaching the Ulu of the Kinta and the Raia in [Perak](./perak.md) and shooting a further arm northward into [Kelantan](./kelantan.md) [[1, p. 155]](#ref-1)—combined with its diverse landscapes of limestone, dipterocarp forest, quartz-porphyry ridgelines, and coastal [islands](./islands.md), made it a rich field for [natural history](./natural-history.md), [archaeology](./archaeology.md), and administrative history. The following survey draws on the Society's published [literature](./literature.md) to trace how Pahang was progressively mapped, excavated, and understood across more than a century of research.
 
 ## Scope and Historical Definition

@@ -34,8 +34,6 @@ type: concept
 generated: true
 ---
 
-# Indo-China
-
 ## Scope and Historical Definition
 
 "Indo-China" in the literature of the Straits and Malayan Branches of the Royal Asiatic Society denotes the mainland territory stretching from the southern coast of China to the Mekong Delta, encompassing the modern states of Vietnam, [Cambodia](./cambodia.md), [Laos](./laos.md), and the western portions of [Thailand](./thailand.md) and Myanmar. The term was not a fixed political designation but a geographical and civilisational one, applied to the region as a whole and, in specific contexts, to particular sub-regions such as Cochin-[China](./china.md) (southern Vietnam) or the Siamese-Lao frontier interior. The Society's [literature](./literature.md) treats the region as a zone of overlapping political, linguistic, and commercial influences, where the Mon-Annam peoples, the Khmer, the Siamese, and later the French colonial administration each left distinct imprints on the landscape and its populations.

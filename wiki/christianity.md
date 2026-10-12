@@ -25,8 +25,6 @@ type: concept
 generated: true
 ---
 
-# Christianity
-
 Christianity in the Malay Peninsula and Borneo encompasses a diverse constellation of Protestant and Catholic missions that, from the early nineteenth century onward, established institutional presences across the [Straits Settlements](./straits-settlements.md), the interior of [Sabah](./sabah.md), and the rural districts of [Perak](./perak.md). The region's Christian communities are stratified along denominational, linguistic, and ethnic lines, with Roman Catholics constituting the largest single body among Indian Christians in the Peninsula [[1, p. 74]](#ref-1) and with Protestant and Catholic missions alike having shaped the educational, medical, and agricultural infrastructure of indigenous communities in [Borneo](./borneo.md) [[2, p. 53]](#ref-2). The historical record reveals that missionary activity in the region was never reducible to evangelism alone: it introduced [printing](./printing.md), vernacular literacy, modern [medicine](./medicine.md), and agricultural innovation, and it generated a body of translated [literature](./literature.md)—above all successive [Malay](./malay.md) Bibles—that shaped the linguistic and cultural landscape of the archipelago [[3, pp. 35–52]](#ref-3).
 
 ## Scope and Historical Definition

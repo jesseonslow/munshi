@@ -16,8 +16,6 @@ type: person
 generated: true
 ---
 
-# Sultan Ala'u'd-din Ri'ayat Shah
-
 Sultan Ala'u'd-din Ri'ayat Shah (r. c. 1597–c. 1616–22) was the sixth sultan of [Johore](./johor.md), eldest son of sultan Ali Jalla 'Abdu'l-Jalil Ri'ayat Shah. His reign is best known for the Achenese capture of his capital at Batu Sawar in 1613, after which he lived as a fugitive for several years before his death, the date and place of which remain uncertain. The long-standing tradition that he died at [Acheh](./aceh.md) in June 1613 has been shown to be a conflation with his predecessor of the same name.[[1]](#ref-1)
 
 ## Accession and Character

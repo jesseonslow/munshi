@@ -15,8 +15,6 @@ type: concept
 generated: true
 ---
 
-# Edward Blundell
-
 Edmund Blundell (1811–1870s) served as Governor of the [Straits Settlements](./straits-settlements.md) from 1855 to 1859, a post he attained after thirty-four years of continuous service to the [East India Company](./east-india-company.md) in the region. His appointment was widely regarded as a just reward for his long career, and the community at large shared in the satisfaction of his promotion, for very few Englishmen still living in the Straits at that time could be as closely identified as he was with the development of the Settlements and the rise of their prosperity [[1, p. 134]](#ref-1). However, his Governorship ended in what Turnbull describes as a fate "partly of his own making and largely the outcome of his very virtues," as his loyalty to the Supreme Government of [India](./india.md) and his respect for tradition prevented him from adjusting his outlook to the rapidly changing conditions in the Straits [[1, p. 134]](#ref-1).
 
 ## Career and Administrative Context

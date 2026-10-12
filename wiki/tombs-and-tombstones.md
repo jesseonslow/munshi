@@ -50,8 +50,6 @@ type: concept
 generated: true
 ---
 
-# Tombs and tombstones
-
 ## Scope and Historical Definition
 
 The funerary monuments of the [Malay](./malay.md) Peninsula and [Borneo](./borneo.md) constitute a diverse material record spanning at least five centuries, encompassing Islamic tombstones, Christian cemetery [inscriptions](./inscriptions.md), megalithic slab-graves, and genealogical tablets. These objects range from the prehistoric slab-[graves](./graves.md) of the Bernam valley, which Wilkinson argued predate the Christian era [[1]](#ref-1), to the Protestant Cemetery in Northam Road, [Penang](./penang.md), one of the oldest Christian burial grounds in [Malaya](./malaya.md) [[2]](#ref-2). The subject is significant both as a primary source for the social, political, and religious history of the region and as a field of active scholarly debate concerning cultural attribution, iconographic meaning, and calendrical accuracy.

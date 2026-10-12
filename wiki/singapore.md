@@ -92,8 +92,6 @@ type: concept
 generated: true
 ---
 
-# Singapore
-
 ## Scope and Historical Definition
 
 Singapore has been a node in maritime trade networks for at least 1,700 years, with the earliest identifiable reference in [Chinese](./chinese.md) sources dating to approximately A.D. 231 [[1, pp. 6–8]](#ref-1). The island's strategic position at the southern entrance to the Strait of [Malacca](./melaka.md) has made it a recurring focal point for commercial, political, and [military](./military.md) actors across successive centuries. The name "Temasek" (recorded in Chinese sources as "Tan-Ma-Hsi" in Wang Ta-Yuan's 1330 *Tao Yi Tchih Lueh*) is the earliest attested designation for the settlement on the island, while the 3rd-century text of K'ang T'ai refers to a place called "P'u Luo Chung" at the extremity of the peninsula, which Hsü Yün-Ts'iao equates with the [Malay](./malay.md) *Pulau Ujong* ("Island at the End") [[1, pp. 1–2]](#ref-1). The Dragon's Teeth Gate (*Lung-Ya-Men*), identified with [Keppel Harbour](./keppel-harbour.md), appears in Chau Ju-Kua's 1225 *Chu Fan Tchih* and in Chang Hsih's 1617 *Tung Hsi Yang Khao*, attesting to the strait's continuous recognition as a navigational waypoint from the Sung Dynasty onward [[1, pp. 2–4]](#ref-1).

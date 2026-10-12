@@ -20,8 +20,6 @@ type: concept
 generated: true
 ---
 
-# Francis Light
-
 Francis Light (c. 1745–1794) was a British merchant and East India Company officer who established the settlement of [Penang](./penang.md) in 1786, founding what would become one of the most commercially significant ports in the Straits of [Malacca](./melaka.md). His career spanned the northern Malay Peninsula and the western coast of the Thai-[Malay](./malay.md) world, encompassing trade in tin, opium, rice, and piece goods between [Kedah](./kedah.md), Thalang (modern Phuket), Junk Ceylon (modern Penang), and the broader maritime networks of the Bay of Bengal and South [China](./china.md) Sea. Light's enterprise was motivated by personal commercial interest as much as by imperial strategy, and his legacy is contested: to some he was a man of probity and singular purpose who built a colony of enduring value; to others, a private trader who exploited the [East India Company](./east-india-company.md)'s institutional weight to protect his own mercantile operations [[1, p. 1]](#ref-1), [[2, p. 135]](#ref-2).
 
 ## Early Career and the Pursuit of a Settlement

@@ -16,8 +16,6 @@ type: concept
 generated: true
 ---
 
-# John Clunies Ross
-
 John Clunies Ross (1786–1878) was a Shetland-born seaman and colonial settler who established a permanent [European](./european.md) presence on the Cocos-Keeling Islands in the Indian Ocean, a coral atoll situated between the Maldives and the Cocos (Keeling) [Islands](./islands.md) in the eastern Indian Ocean. His settlement, formally named "New Selma" in November 1827, represented one of the few private colonial ventures of the early nineteenth century to achieve sustained habitation on a remote atoll, and its history is inextricably bound to the commercial and political rivalry between Ross and the former British Resident at Banjermassin, [Alexander Hare](./alexander-hare.md), whose Asian followers formed the labouring [population](./population.md) of the settlement [[1, pp. 7–9]](#ref-1). The [Cocos-Keeling Islands](./cocos-keeling-islands.md) ultimately passed under British sovereignty in March 1857, having been the subject of competing claims by the Netherlands and Britain throughout the 1820s and 1830s [[1, pp. 104–105]](#ref-1).
 
 ## Origins and the Banjermassin Connection

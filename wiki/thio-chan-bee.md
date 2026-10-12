@@ -14,8 +14,6 @@ type: concept
 generated: true
 ---
 
-# Thio Chan Bee
-
 ## Early Life and Education
 
 Thio Chan Bee (1904–1978) was a Straits Chinese educator and politician whose life spanned the transition from colonial rule to independence in Singapore and [Malaya](./malaya.md). Born on 5 April 1904 in Medan, [Sumatra](./sumatra.md), he was the second of six children of Thio Gim Ho, a grocery merchant dealing in [Java](./java.md)-imported goods, and Neo Si Kap [[1, p. 71]](#ref-1). His father's [gambling](./gambling.md) and alcoholism led to his [flight](./flight.md) to Singapore in 1914, leaving the [family](./family.md) destitute; Thio and his elder brother were placed under the care of their uncle before being sent to [Singapore](./singapore.md) in 1915 to attend the Anglo-[Chinese](./chinese.md) School (ACS) [[1, pp. 71–72]](#ref-1). The hardships of these years — meagre meals, bullying by his stepmother's children, and the knowledge of his mother's poverty — instilled in him a determination he expressed through the motto *Labor Omnia Vincit* [[1, p. 72]](#ref-1). He topped the [Straits Settlements](./straits-settlements.md) Government Standard VII Examination in 1918 and both the Junior and Senior Cambridge Examinations in 1919–20, though he could not afford a new suit for the prize-giving ceremony [[1, p. 72]](#ref-1). He joined ACS as a student teacher in 1921 and graduated from the Senior Normal Class in 1922 [[1, p. 72]](#ref-1).

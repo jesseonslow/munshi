@@ -37,8 +37,6 @@ type: concept
 generated: true
 ---
 
-# Geology
-
 The geological investigation of the [Malay](./malay.md) Peninsula and [Borneo](./borneo.md) constitutes one of the most sustained and institutionally embedded programmes of scientific inquiry in the region's colonial history. From the earliest speculative prospecting theories of the 1870s through the systematic territorial [surveys](./surveys.md) of the 1920s and into the mid-twentieth century, geologists working under the [Federated Malay States](./federated-malay-states.md) Government, the [Straits Settlements](./straits-settlements.md) Geological Department, and their Dutch counterparts in the East Indies progressively transformed a landscape known primarily through its alluvial tin and gold workings into a coherent structural and stratigraphic framework. The economic stakes were considerable: the tin deposits of the Kinta Valley, the iron ore of Bukit Medan in [Johore](./johor.md), the antimony of [Sarawak](./sarawak.md), and the [coal](./coal.md) fields of the northwest Bornean coast all depended upon geological understanding for their rational exploitation, while the broader question of the Peninsula's deep-time history—its relationship to Gondwana, its glacial past, and its recent tectonic uplift—remained an active field of debate well into the 1960s [[1]](#ref-1), [[2]](#ref-2), [[3]](#ref-3), [[4]](#ref-4).
 
 ## Structural Framework and Stratigraphic Sequence

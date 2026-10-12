@@ -23,8 +23,6 @@ type: concept
 generated: true
 ---
 
-# Rice cultivation
-
 Rice cultivation constitutes one of the most extensively documented agricultural practices in the scholarly [literature](./literature.md) of the Malay Peninsula and [Borneo](./borneo.md), spanning ethnographic, entomological, engineering, and economic inquiries from the late nineteenth century through the early 1970s. The practice encompasses a wide spectrum of techniques, from the rudimentary brushwood dams and bamboo waterwheels (*kinchir*) of pre-modern [Malay](./malay.md) water control [[1, pp. 78–79]](#ref-1) to the large-scale irrigation schemes of the colonial and post-independence periods [[1, pp. 92–93]](#ref-1). Across the region, rice farming is characterised by significant regional variation in technique, ritual observance, and institutional support, with the northwest and northeast peninsular plains, the inland valleys of the western states, and the Bornean highlands each developing distinct cultural configurations that persisted for centuries [[2, pp. 76–80]](#ref-2). The economic stakes of these variations became acute in the mid-twentieth century, when [Malaya](./malaya.md)'s rice imports exceeded half a million tons annually at a cost of $50 million, prompting a sustained governmental effort toward self-sufficiency [[1, p. 102]](#ref-1).
 
 ## Customary Practices and Ritual Frameworks

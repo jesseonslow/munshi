@@ -26,8 +26,6 @@ type: concept
 generated: true
 ---
 
-# Inheritance
-
 Inheritance among the Malay communities of the Malay Peninsula and [Borneo](./borneo.md) is governed by a complex interplay of [customary law](./customary-law.md), religious law, and colonial legislation, with the most extensively documented case being the tribal districts of [Negri Sembilan](./negeri-sembilan.md), where the personal law of the Malays is *adat* (customary law) varied by selective adoption of Mohammedan law [[1, pp. 41–43]](#ref-1). The rules of distribution differ markedly between ancestral and acquired property, between the three customary districts of Kuala Pilah, [Jelebu](./jelebu.md) and Tampin, and between the tribal and non-tribal areas of the State, creating a legal landscape in which the same deceased person's estate may be subject to competing claims under different systems of law [[1, pp. 41–42]](#ref-1). The economic significance of these rules is considerable: they determine the devolution of rice land, rubber holdings and other agricultural property that constitute the principal means of subsistence for the [Malay](./malay.md) peasantry, and the manner in which that property is divided has direct consequences for the viability of smallholdings and the preservation of tribal [land tenure](./land-tenure.md) [[1, pp. 11–13]](#ref-1).
 
 ## Scope and Historical Definition

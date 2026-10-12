@@ -15,8 +15,6 @@ type: concept
 generated: true
 ---
 
-# Gulls
-
 The archival evidence records provided for this article are empty. No research records, journal articles, or documentary sources concerning gulls have been supplied for this request.
 
 As Senior Archivist, I am bound by the strict grounding rules that prohibit me from inventing dates, observations, statistics, or ecological claims not attested in the records. I therefore cannot produce a grounded encyclopedia article on gulls without source material.

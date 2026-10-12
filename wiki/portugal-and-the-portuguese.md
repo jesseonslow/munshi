@@ -23,8 +23,6 @@ type: concept
 generated: true
 ---
 
-# Portugal and the Portuguese
-
 ## Scope and Historical Definition
 
 Portugal's presence in the Malay world, spanning from the first [European](./european.md) contact at Malacca in 1508 through the fall of the Portuguese stronghold to the Dutch in 1641 and beyond, constitutes one of the most extensively documented episodes in the maritime history of the region. The Portuguese established themselves at Malacca following the conquest of 1511, and from that base projected naval power across the [Singapore](./singapore.md) and Johore waters, into the straits of the Malay Peninsula, and as far as the [Moluccas](./moluccas.md) and the [Philippines](./philippines.md). Their influence extended well beyond the formal period of colonial rule: even after the loss of [Malacca](./melaka.md) in 1641, Portugal retained a diplomatic prestige among [Malay](./malay.md) courts that far exceeded its material military capacity, as evidenced by the deference shown to a single undermanned Portuguese vessel during the [Johore](./johor.md) succession crisis of 1717–1718 [[1, pp. 111–156]](#ref-1). The Portuguese presence is thus best understood not as a single continuous colonial administration but as a layered phenomenon encompassing [military](./military.md) conquest, commercial extraction, diplomatic negotiation, and cosmographical contestation over the legal boundaries of the Pacific and the Indian Ocean.

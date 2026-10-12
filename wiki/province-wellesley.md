@@ -14,8 +14,6 @@ type: concept
 generated: true
 ---
 
-# Province Wellesley
-
 ## Province Wellesley
 
 Province Wellesley was a British colonial settlement established in 1800 on the north-western coast of the Malay Peninsula, encompassing the coastal plain and riverine interior of what is now the state of [Kedah](./kedah.md). Named after Sir Henry Wellesley, brother of the Duke of Wellington, the settlement extended from the Merbok estuary in the south to the [Patani](./patani.md) frontier in the north, and inland to the foothills of the [Perak](./perak.md) highlands. It was administered as part of the [Straits Settlements](./straits-settlements.md) under the Lieutenant-Governor of Prince of Wales' Island (Penang), and its [population](./population.md) was a composite of [Malay](./malay.md) cultivators, [Chinese](./chinese.md) miners and traders, Jawi-pakan intermediaries, and Siamese-descended communities in the north-eastern [villages](./villages.md) [[1, pp. 198–200]](#ref-1). The settlement's economic base rested on [rice cultivation](./rice-cultivation.md) in the alluvial plains of the Muda and Krian rivers, tin mining in the interior, and its position as a node in the ancient maritime trade network that connected the Indian Ocean to the South [China](./china.md) Sea [[1, pp. 175–178]](#ref-1), [[2, pp. 188–189]](#ref-2).

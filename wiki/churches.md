@@ -20,8 +20,6 @@ type: concept
 generated: true
 ---
 
-# Churches
-
 The Church of St. Paul in [Malacca](./melaka.md) stands as the most extensively documented ecclesiastical structure in the Society's published [literature](./literature.md), its history spanning from the Portuguese conquest of 1511 to the Dutch appropriation of 1641 and beyond. The building, perched on the hill that once crowned the Malay royal palace, served successively as a [military](./military.md) chapel, a Jesuit mission church, a Protestant place of worship, and finally a ruin whose surviving shell became a site of archaeological and architectural debate. Two articles published in the same issue of the *[JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* in 1934—one a rebuttal by Father [R. Cardon](./r-cardon.md), the other a historical reconstruction by Father [Schurhammer](./schurhammer.md), S.J.—together constitute the most concentrated treatment of a single church in the Society's journal, and they illuminate not only the building's own history but also the broader patterns of Christian institutional presence in the [Malay](./malay.md) Peninsula during the early modern period. [[1, pp. 38–39]](#ref-1) [[2, pp. 40–43]](#ref-2)
 
 ## Origins and Architectural Development

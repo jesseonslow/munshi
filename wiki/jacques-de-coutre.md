@@ -14,8 +14,6 @@ type: concept
 generated: true
 ---
 
-# Emily Innes
-
 ## Life and Career
 
 Jacques de Coutre (1577–c.1640) was a Flemish merchant-traveller who operated out of [Portuguese Malacca](./portuguese-malacca.md) and Goa during the late sixteenth and early seventeenth centuries. Baptised Jakobus vande Koutere on 5 March 1577 in Bruges, he was the son of a broom maker and, together with his brother Joseph, sought his fortune in Portuguese Asia, arriving in Goa in 1592 [[1, pp. 71–72]](#ref-1). The brothers settled in Goa, married sisters from a local [family](./family.md), and became benefactors of the *Misericordia* and a hospital for the poor. They also contributed in 1605 to the equipping of a fleet dispatched to relieve [Malacca](./melaka.md) from a Dutch sea-borne siege [[1, p. 72]](#ref-1).

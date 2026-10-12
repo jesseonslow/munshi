@@ -18,8 +18,6 @@ type: person
 generated: true
 ---
 
-# Sultan Alauddin Sulaiman Shah
-
 ## The Formative Years
 
 Sultan Alauddin Sulaiman Shah (1865–1898) was the ninth Sultan of Selangor, ascending to the throne in 1898 upon the death of his grandfather, [Sultan Abdul Samad](./sultan-abdul-samad.md). Born at *kampong* (village) Tengah, Kuala Selangor, on 11 September 1865, he was the eldest son of Raja Muda Musa and his first wife, Che Rahimah [[1, pp. 2–3]](#ref-1). His childhood was shaped by the [Selangor](./selangor.md) Civil War (1867–73), which displaced his [family](./family.md) to [Singapore](./singapore.md) before their return to Kuala Langat, where he received his early [education](./education.md) at one of the first Malay vernacular boys' schools in the state [[1, pp. 2–3]](#ref-1). The district officer's wife, [Emily Innes](./emily-innes.md), recalled him as "a charming little boy... a bright, gentle-mannered boy of about eleven, who could both read and write [Malay](./malay.md) fluently, a most unusual accomplishment with Malays of rank" [[1, p. 3]](#ref-1). His father, Musa, was a figure of considerable eccentricity—described by [Swettenham](./swettenham.md) as "essentially weak" and by Douglas as "boorish"—who broke with aristocratic convention by sending his son to school and apprenticing him in sugar cultivation at Batu Kawan estate in [Province Wellesley](./province-wellesley.md) [[1, pp. 3–4]](#ref-1).

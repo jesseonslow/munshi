@@ -17,8 +17,6 @@ type: concept
 generated: true
 ---
 
-# Environment
-
 The environment in the Malay Peninsula and [Borneo](./borneo.md) has been shaped by the interplay between colonial conservation policy, indigenous land use, and the scientific study of tropical ecosystems. From the late nineteenth century onward, the British colonial administration introduced regulations to protect wild fauna and forest resources, while local communities—both Malay villagers and forest-dwelling peoples—asserted their long-standing rights to hunt, [fish](./fish.md), gather, and cultivate within these landscapes. The period between the 1890s and the 1940s saw the creation of game reserves, national parks, and forest reserves across the region, generating sustained negotiation between conservationists, colonial administrators, [Malay](./malay.md) sultans, and the populations whose livelihoods depended on forest access. More recently, environmental themes have been mobilised in national rituals and scientific discourse, from the study of tropical heat and urbanisation to the political symbolism of water in postcolonial [Singapore](./singapore.md).
 
 ## Scope and Historical Definition

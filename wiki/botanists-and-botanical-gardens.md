@@ -31,8 +31,6 @@ type: concept
 generated: true
 ---
 
-# Botanists and botanical gardens
-
 The study of [botany](./botany.md) and the establishment of botanical gardens in the [Malay](./malay.md) Peninsula and the [Straits Settlements](./straits-settlements.md) emerged in the early nineteenth century as an integral component of British colonial administration, driven by the convergence of scientific curiosity, commercial [agriculture](./agriculture.md), and imperial prestige. From the 1810s through the early twentieth century, a succession of [European](./european.md) naturalists—Danish, Scottish, Italian, and English—undertook fieldwork across [Penang](./penang.md), [Singapore](./singapore.md), and the Indonesian archipelago, while colonial governments progressively allocated land, funding, and institutional frameworks for the cultivation and study of tropical flora. The records preserved in the Society's journals document a tradition in which botanical [science](./science.md) was inseparable from the administrative and economic imperatives of the colonial state, and in which the personal relationships between administrators, gardeners, and collectors shaped the trajectory of discovery as much as formal institutional policy [[1, pp. 1–2]](#ref-1), [[2, pp. 1–5]](#ref-2).
 
 ## The Raffles Expedition and the Founding Generation

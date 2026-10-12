@@ -14,8 +14,6 @@ type: concept
 generated: true
 ---
 
-# Lee Kwai Lim
-
 Lee Kwai Lim (1877–1936) was a [Chinese](./chinese.md) businessman and labour broker whose company, Kam Lun Tai, became one of the largest recruitment agencies operating between Guangdong province and the [Malay](./malay.md) Peninsula in the early twentieth century. Founded in Xinyi County as a silk trading firm, Kam Lun Tai evolved into a transnational [labour](./labour.md) agency with branches in Hong Kong, [Singapore](./singapore.md) and Malaya, providing lodging, remittance services and job placement for migrants travelling to work in tin mines and rubber plantations [[1, pp. 55–56]](#ref-1). At its peak between 1919 and 1925, the company recruited 200 to 300 workers per day in Guangzhou Bay, and the *Maoming City Annals* records that more than 20,000 workers from Gaozhou were brought to Malaya through Kam Lun Tai by 1926 [[1, pp. 56]](#ref-1). Lee also owned tin mines, a sawmill and limestone quarries in [Malaya](./malaya.md), and mercury ore mines in Guangxi, [China](./china.md) [[1, p. 55]](#ref-1).
 
 ## Origins and Early Business

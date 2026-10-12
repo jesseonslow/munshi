@@ -83,8 +83,6 @@ type: concept
 generated: true
 ---
 
-# Customary law
-
 Customary law in the Malay world refers to the body of indigenous legal norms governing [land tenure](./land-tenure.md), maritime [commerce](./commerce.md), criminal justice, and social hierarchy that operated across the Malay Peninsula and [Borneo](./borneo.md) prior to, and in parallel with, the introduction of English and Islamic legal systems. Its significance lies in the fact that it constituted the operative legal framework for the majority of the [population](./population.md) in the [Straits Settlements](./straits-settlements.md) and the [Malay](./malay.md) States throughout the colonial period, and that its interaction with imported legal orders generated some of the most consequential administrative and judicial problems of the nineteenth and early twentieth centuries. The [literature](./literature.md) preserved in the Society's journals documents this body of law from its earliest codifications in the sixteenth and seventeenth centuries through its contested application in the courts of the 1950s, revealing a legal tradition that was neither monolithic nor static but characterised by regional variation, syncretic borrowing, and continuous negotiation between customary practice and formal doctrine.
 
 ## Scope and Historical Definition

@@ -33,8 +33,6 @@ type: concept
 generated: true
 ---
 
-# Prehistoric Man
-
 The study of prehistoric man in the [Malay](./malay.md) Peninsula and [Borneo](./borneo.md) rests on a small but significant body of osteological and archaeological evidence, comprising fragmentary human remains from cave and rock-shelter sites in [Perak](./perak.md), [Pahang](./pahang.md), and [Perlis](./perlis.md), submerged deposits near Kuala Selinsing, and megalithic slab-[graves](./graves.md) spanning the peninsula, [Sumatra](./sumatra.md), and [Java](./java.md). The material is characteristically incomplete—crushed crania, dispersed limb bones, and commingled assemblages—yet it has generated sustained scholarly debate over the racial affinities of the earliest known inhabitants of the region, the cultural attribution of their artefacts, and the chronological depth of human occupation. The principal questions have concerned whether the skeletal evidence points to Negrito, Protomalayan, or a broader Australoid stock, and whether the associated cultural material—iron [implements](./implements.md), [beads](./beads.md), [pottery](./pottery.md), and in one case a Pallava-inscribed seal—reflects indigenous development or external influence from South Asia or Mainland [Southeast Asia](./southeast-asia.md).
 
 ## Osteological Evidence from Caves and Rock-Shelters

@@ -16,8 +16,6 @@ type: concept
 generated: true
 ---
 
-# Goats
-
 Goats in the broader sense of the [family](./family.md) Bovidae have long been part of the [natural history](./natural-history.md) of the Malay Peninsula and [Borneo](./borneo.md), but the records preserved in the Society's journals reveal that the most significant encounters with wild caprines in the region concerned not the domestic goat but the serow, a goat-antelope of the genus *Capricornis* that inhabits the steep, forested highlands of South-East Asia. The serow, known locally as *kambing gerun* or *kambing utan* (wild goat), has been documented from Sumatra, the [Malay](./malay.md) Peninsula, the Himalayas, [China](./china.md), Tonkin, and Annam, and its taxonomic position has been a matter of sustained scholarly debate from the late eighteenth century through the early twentieth [[1, pp. 57–64]](#ref-1). The domestic goat, by contrast, appears in the archival record only as a point of comparison, Marsden noting in 1783 that the domestic species in [Sumatra](./sumatra.md) was "in general small, and of light brown colour" [[1, p. 57]](#ref-1). The following article [surveys](./surveys.md) what the Society's [literature](./literature.md) attests regarding both the wild and domestic forms, with emphasis on the serow, which constitutes the substantive body of evidence.
 
 ## Taxonomic History and Nomenclature

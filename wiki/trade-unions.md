@@ -14,8 +14,6 @@ type: concept
 generated: true
 ---
 
-# Trade unions
-
 ## Scope and Historical Definition
 
 The trade-union movement in the Federation of [Malaya](./malaya.md) between 1948 and 1957 was shaped decisively by the onset of the Emergency and the collapse of Communist-dominated unions in the private sector, which left the movement divided into two clearly distinguishable parts: the remaining private-sector unions and the unions of government employees [[1, pp. 129–130]](#ref-1). The *Trade Unions Ordinance 1946* prohibited government officers and servants from joining trade unions but empowered the High Commissioner to grant exemptions, which he exercised to permit most classes of government employees to form unions restricted in membership to fellow government employees [[1, p. 129]](#ref-1). The term *government employee* was broad, encompassing staff of the Federal government, the eleven State and Settlement governments (including their town boards), the three municipalities of [Kuala Lumpur](./kuala-lumpur.md), [Penang](./penang.md) and [Malacca](./melaka.md), and employees of public utilities such as [railways](./railways.md), broadcasting, posts and telecommunications, port authorities, water supplies and the major part of the educational system [[1, pp. 129–130]](#ref-1). Uniformed members of the [police](./police.md) and armed forces were excluded, as were civilian employees of the United Kingdom government [[1, p. 130]](#ref-1).

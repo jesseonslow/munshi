@@ -28,8 +28,6 @@ type: concept
 generated: true
 ---
 
-# Charms
-
 Charms constitute a widespread and deeply embedded category of ritual practice across the [Malay](./malay.md) Peninsula and [Borneo](./borneo.md), encompassing incantations, talismans, and [divination](./divination.md) procedures employed for purposes ranging from agricultural fertility and personal protection to romantic attraction and the assessment of weapons. The documented record reveals a tradition of considerable antiquity and regional diversity, in which Islamic theological vocabulary, pre-Islamic animistic practice, and indigenous cosmological systems are frequently interwoven within single operational frameworks. From the Sufi-derived pantheist charms of the Kelantanese coast to the thumb-measuring divinations of the [Jakun](./jakun.md) and Semai of the interior, and from the compulsion spells of [Brunei](./brunei.md)'s archaic manuscripts to the love [incantations](./incantations.md) recorded in the 1920s, the evidence points to a living tradition that colonial-era scholars regarded as both intellectually significant and, in several cases, in urgent need of documentation before its loss.
 
 ## Scope and Historical Definition

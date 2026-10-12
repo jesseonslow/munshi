@@ -15,8 +15,6 @@ type: person
 generated: true
 ---
 
-# Sultan Muhammad Shah of Melaka
-
 Sultan Muhammad Shah of Melaka, also known as Sri Maharaja, was the third ruler of [the Malacca Sultanate](./the-malacca-sultanate.md), reigning from 1424 to approximately 1444. He succeeded his father, Megat Iskandar Shah, and is attested in the Chinese Veritable Records as *Hsi-li-ma-ha-la-che*, a name [Wang Gungwu](./wang-gungwu.md) identifies with the [Malay](./malay.md) title Sri Maharaja. His reign marked the final period of direct [Chinese](./chinese.md) imperial engagement with Malacca, and his extended visit to the Ming court in 1433–35 stands as the last royal audience of a [Malacca](./melaka.md) king at Peking. [[1, pp. 21–22]](#ref-1)
 
 ## Succession and Confirmation at the Ming Court

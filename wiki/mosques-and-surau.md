@@ -24,8 +24,6 @@ type: concept
 generated: true
 ---
 
-# Mosques and surau
-
 ## Scope and Historical Definition
 
 Mosques and *surau* (village chapels) constitute the principal built forms of Islamic worship across the [Malay](./malay.md) Peninsula and the wider Archipelago, their architectural typologies reflecting centuries of cultural transmission between [Java](./java.md), [Sumatra](./sumatra.md), the Thai borderlands, and the [Chinese](./chinese.md) diaspora. The earliest hard evidence of a Muslim presence on the Peninsula is a tombstone dated 291 AH (903 AD) found at [Kedah](./kedah.md) [[1, p. 73]](#ref-1), yet mosque building itself is argued to date back to the seventh century, when multinational communities of Arab, Persian, and East African traders established themselves along the coasts of [Southeast Asia](./southeast-asia.md) in accordance with the Prophet's instruction that wherever forty or more adult male believers lived together they should build a mosque [[1, pp. 72–73]](#ref-1). The distinction between the *masjid* (obligatory congregational or Friday mosque) and the *surau* (a smaller neighbourhood structure not used for Friday prayers) is fundamental to understanding the built landscape: the former proclaimed the primacy of [Islam](./islam.md) in a newly converted polity, typically sited adjacent to the ruler's palace, while the latter served the daily devotional needs of individual *kampongs* (villages) [[1, pp. 75]](#ref-1).

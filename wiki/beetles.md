@@ -19,8 +19,6 @@ type: concept
 generated: true
 ---
 
-# Beetles
-
 Beetles constitute a diverse and economically significant group of insects across the [Malay](./malay.md) Peninsula and [Borneo](./borneo.md), encompassing both destructive agricultural pests and objects of taxonomic and cultural interest. The entomological [literature](./literature.md) of the [Straits Settlements](./straits-settlements.md) and [Malaya](./malaya.md) records beetles as agents of serious damage to coconut and rubber plantations, as subjects of systematic taxonomic description, and as items of local culinary and folk practice. The species documented in the Society's journals range from the large longicorn *Batocera octomulata* of [Selangor](./selangor.md) to the broad-nosed weevils of the Brentidae, and from the tiger beetles of jungle clearings to the palm-destroying *Oryctes [rhinoceros](./rhinoceros.md)* and *Rhynchophorus ferrugineus* of [Singapore](./singapore.md)'s [coconut](./coconut.md) estates [[1]](#ref-1), [[2]](#ref-2), [[3]](#ref-3), [[4]](#ref-4), [[5]](#ref-5).
 
 ## Agricultural Pests of the Coconut and Rubber Industries

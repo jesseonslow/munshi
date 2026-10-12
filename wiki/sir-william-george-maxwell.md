@@ -18,8 +18,6 @@ type: person
 generated: true
 ---
 
-# Sir William George Maxwell
-
 Sir William George Maxwell (1871–1959) was a senior British colonial administrator in [Malaya](./malaya.md) whose career spanned 35 years, from junior district officer to Chief Secretary of the [Federated Malay States](./federated-malay-states.md). A member of the Maxwell dynasty that dominated [Straits Settlements](./straits-settlements.md) and [Malay](./malay.md) States governance across three generations, he is best remembered for his central role in the inter-war decentralisation controversy and his opposition to the Malayan Union scheme of 1946. [[1, pp. 117–118]](#ref-1)
 
 ## The Maxwell Dynasty and Early Career

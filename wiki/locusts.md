@@ -14,8 +14,6 @@ type: concept
 generated: true
 ---
 
-# Locusts
-
 The archival record on locusts in the Society's [literature](./literature.md) is confined to a single lexical entry: the word *tichu*, recorded by [J. C. Moulton](./john-coney-moulton.md) as the Tabun and Murut term for "grasshopper" during his 1911 expedition to Mount Batu Lawi in [Sarawak](./sarawak.md) [[1, p. 101]](#ref-1). No further entomological, ecological, or economic discussion of locusts appears in the available records, and the following article is limited to what that single attestation permits.
 
 ## Scope and Historical Definition

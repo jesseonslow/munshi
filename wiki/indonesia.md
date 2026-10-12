@@ -53,8 +53,6 @@ type: concept
 generated: true
 ---
 
-# Indonesia
-
 The term "Indonesia" as a scholarly and administrative designation for the archipelago has a long and contested history, but the region it names—encompassing [Sumatra](./sumatra.md), [Java](./java.md), [Borneo](./borneo.md), Sulawesi, the [Moluccas](./moluccas.md), and the thousands of smaller [islands](./islands.md) between them—has been a continuous focus of philological, commercial, and cultural investigation since the earliest [European](./european.md) contacts. The records assembled here span from the 1890s to the present day and reveal a discipline that has moved from comparative linguistics and diffusionist speculation through nautical [ethnography](./ethnography.md) and trade history to the study of popular culture, literary method, and the politics of memory. Indonesia's significance to the scholarly record lies in its position as a crossroads of maritime trade, a laboratory of religious and cultural transformation, and a space where the boundaries between the [Malay](./malay.md) world and the wider Indian Ocean have been repeatedly negotiated and redrawn.
 
 ### Language, Numeral Systems, and the Question of Origins
@@ -93,8 +91,6 @@ The most recent records reflect a maturation of the field. Petrů's centennial a
 
 ## Antiquities
 For Indonesian antiquities, see [Archeology: China, Indonesia, Thailand](./archaeology#china-indonesia-thailand) and [Borobudur, Java](./borobudur).
-
-## Language and literature
 
 ## MBRAS Sources
 

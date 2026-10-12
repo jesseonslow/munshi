@@ -15,8 +15,6 @@ type: person
 generated: true
 ---
 
-# Sultan Muhammad Jiwa Muazzam Shah
-
 Sultan Muhammad Jiwa Zainal Adilin Muazzam Shah was the ruler of Kedah during a period of acute political instability in the mid-to-late eighteenth century, with his reign conventionally dated 1723–1778. [[1, p. 26]](#ref-1) His significance lies in the direct epistolary evidence he left behind: two Malay letters, one of which bears his personal seal, that illuminate his commercial and diplomatic relationship with the British merchant Captain [Francis Light](./francis-light.md) during the critical years preceding the founding of [Penang](./penang.md). [[1, pp. 24–28]](#ref-1) These documents, preserved in Cambridge and London, provide the only surviving first-person account from the [Kedah](./kedah.md) throne of the events that led to British settlement on the [Malay](./malay.md) Peninsula.
 
 ## Reign and Political Context

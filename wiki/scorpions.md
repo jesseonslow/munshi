@@ -14,8 +14,6 @@ type: concept
 generated: true
 ---
 
-# Scorpions
-
 Scorpions of the [Malay](./malay.md) Peninsula and Siam were first systematically documented in a 1901 faunal survey by Captain Stanley S. Flower, 5th Fusiliers, who drew on four years of fieldwork (1895–1898) across the [Straits Settlements](./straits-settlements.md), the Native States, and [Siam](./thailand.md) to produce a practical taxonomic account for [European](./european.md) residents encountering these [animals](./animals.md) in daily life [[1, p. 1]](#ref-1). Flower's work, published in the *[Journal of the Straits Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)*, identified eight species of true scorpion (Order *Scorpiones*) from the region, recording their distribution, morphology, colour, size, and behaviour across at least fifteen localities [[1, pp. 29–36]](#ref-1).
 
 ## Taxonomy and Distribution

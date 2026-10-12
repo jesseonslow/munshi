@@ -18,8 +18,6 @@ type: concept
 generated: true
 ---
 
-# Idols and images
-
 ## Idols and Images
 
 The study of carved and sculpted figures in the [Malay](./malay.md) Peninsula and Borneo has long occupied a distinctive position in the Society's [literature](./literature.md), reflecting the region's complex interplay of indigenous animist practice, Indian religious influence, and colonial-era artistic exchange. The corpus of known images—ranging from rough wooden effigies discovered in coastal [caves](./caves.md) to polished stone figures of Hindu deities unearthed in Sarawak—reveals a material culture in which the representation of the human and divine body served apotropaic, ritual, and architectural functions across multiple ethnic and religious communities. The records examined here span the early twentieth century to the 1970s and cover four distinct contexts: the Orang Mantong of the Rhio Archipelago, the [Chinese](./chinese.md) temple tradition of [Malacca](./melaka.md), the stone-working [traditions](./traditions.md) of south-west [Borneo](./borneo.md), and the Hindu sculptural legacy of the Kapuas basin and its extensions into [Sarawak](./sarawak.md).

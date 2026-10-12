@@ -20,8 +20,6 @@ type: concept
 generated: true
 ---
 
-# Manuel Godinho de Erédia
-
 Manuel Godinho de Erédia (1563–1623) was a Eurasian writer, cartographer, engineer and adventurer whose works remain among the most important primary sources for the economic and political [geography of the Malay Peninsula](./geography-of-the-malay-peninsula.md) and the [Singapore](./singapore.md) Straits region in the late sixteenth and early seventeenth centuries. [[1, pp. 1–2]](#ref-1)
 
 ## Life and Career

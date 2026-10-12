@@ -29,8 +29,6 @@ type: concept
 generated: true
 ---
 
-# Street names
-
 ## Scope and Historical Definition
 
 The study of street names in colonial [Malaya](./malaya.md) constitutes a distinctive branch of toponymic documentation, driven primarily by the administrative and commercial needs of the [Straits Settlements](./straits-settlements.md) and [Federated Malay States](./federated-malay-states.md) governments. The earliest systematic treatment in the Society's [literature](./literature.md) is H. T. Haughton's "[Native names of streets in Singapore](./native-names-of-streets-in-singapore.md)" (1891), which paired each English street name in the island's urban core with its Chinese (specifically Hokkien) and Tamil equivalents, providing romanized renderings and English glosses [[1]](#ref-1). The work functioned as a practical key for English-speaking officials navigating a city whose physical landscape was understood and navigated through multiple linguistic and cultural lenses simultaneously [[1]](#ref-1). Haughton's article was compiled through direct consultation with community members—J. O. Anthonisz supplied the Tamil names, while Li A Sik and Tan Tiang Siong prepared the [Chinese](./chinese.md) entries—rather than through archival research [[1]](#ref-1).

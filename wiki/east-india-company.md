@@ -22,8 +22,6 @@ type: concept
 generated: true
 ---
 
-# East India Company
-
 The English East India Company's engagement with the Malay world and the broader Eastern Archipelago spanned more than two centuries, from the opening of its first factory at Macassar in [Celebes](./celebes.md) in 1613 to the reduction of the [Straits Settlements](./straits-settlements.md) to Residency status in 1831. Its operations encompassed the spice trade, the distribution of Indian and English piece-goods, the procurement of commodities such as [pepper](./pepper.md), sandalwood, benzoin and tortoise shell, and the maintenance of diplomatic relations with Asian rulers through the medium of royal correspondence. The Company's commercial footprint extended from the Spice [Islands](./islands.md) to the [Malay](./malay.md) Peninsula, from the Coromandel Coast to the [Philippines](./philippines.md), and its institutional evolution—from a joint-stock trading body to a quasi-sovereign power administering territories in [India](./india.md) and the Straits—shaped the political and economic geography of the region in ways that persisted long after its dissolution in 1874 [[1, pp. 1–2]](#ref-1) [[2, pp. 3–5]](#ref-2) [[3, pp. 2–3]](#ref-3).
 
 ## Scope and Historical Definition

@@ -21,8 +21,6 @@ type: concept
 generated: true
 ---
 
-# Khasi
-
 The Khasi, a people of the Assam region in northeastern [India](./india.md), have attracted sustained scholarly attention in the Straits and Malayan branches of the Royal Asiatic Society's literature, primarily through the work of [R. O. Winstedt](./richard-olaf-winstedt.md), who investigated their linguistic and social institutions in relation to those of the Malay peoples. The Khasi are classified within the Austroasiatic language [family](./family.md), a grouping established by Father Schmidt in the 1890s, and their material culture and social organisation exhibit features that Winstedt argued pointed to a remote common ancestry with the Austronesian-speaking peoples of the [Malay](./malay.md) Peninsula [[1, p. 9]](#ref-1). The comparative interest in the Khasi within this body of [literature](./literature.md) is not driven by any direct colonial or administrative connection between the two peoples, but by the striking convergences in kinship, [inheritance](./inheritance.md), and material culture that Winstedt documented across a separation of over a thousand miles [[1, p. 9]](#ref-1).
 
 ## Linguistic Parallels and the Austroasiatic–Austronesian Question

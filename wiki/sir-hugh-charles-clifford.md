@@ -25,8 +25,6 @@ type: person
 generated: true
 ---
 
-# Sir Hugh Charles Clifford
-
 Sir Hugh Charles Clifford (1866–1941) was a British colonial administrator who served in the Malay States from 1883 to 1903, held governorships in Trinidad, Ceylon, the Gold Coast, and Nigeria, and returned to [Malaya](./malaya.md) as Governor of the [Straits Settlements](./straits-settlements.md) and High Commissioner for the Malay States from 1927 to 1929. [[1, p. 89]](#ref-1) [[2, p. 54]](#ref-2) He was created C.M.G. in 1900, KCMG in 1909, GCMG in 1921, and GBE in 1925. [1, p. 89, n. 2] Beyond his administrative career, Clifford was a prolific writer of fiction and non-fiction on Malayan subjects, and his literary output has been the subject of sustained scholarly attention as a source for understanding the period when traditional [Malay](./malay.md) society encountered British colonialism and accelerating [Chinese](./chinese.md) immigration. [[3, p. 53]](#ref-3) [[4, p. 107]](#ref-4)
 
 ## Early Career and the Pahang Mission

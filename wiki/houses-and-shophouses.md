@@ -24,8 +24,6 @@ type: concept
 generated: true
 ---
 
-# Houses and shophouses
-
 Houses and shophouses constitute the principal built [environment](./environment.md) of the Malay Peninsula and [Borneo](./borneo.md), encompassing the traditional [Malay](./malay.md) house, the colonial official residence, and the urban shophouse that emerged from the tin and rubber booms of the late nineteenth century. Together they form a continuum of domestic and commercial [architecture](./architecture.md) that reflects the region's ecological conditions, its indigenous building [traditions](./traditions.md), and the transformative pressures of colonial administration, immigration, and industrialisation. The [literature](./literature.md) on these structures spans more than a century of scholarship, from early descriptive sketches to sophisticated typological analyses and economic histories of the building industry that produced them.
 
 ## The Traditional Malay House

@@ -18,8 +18,6 @@ type: person
 generated: true
 ---
 
-# William Girdlestone Shellabear
-
 William Girdlestone Shellabear (1862–1948) was a British Royal Engineers officer who became a Methodist missionary, Malay scholar, Bible translator, and Islamicist, serving in colonial [Malaya](./malaya.md) from 1887 to 1916 before relocating to the United States, where he taught Arabic and Islamic studies until his death [[1, pp. 37–38]](#ref-1). His singular conviction—that the [Malay](./malay.md) language and culture were fully adequate to modern life and Christian existence—drove a career that profoundly shaped Malayan publishing, [education](./education.md), and letters [[1, p. 37]](#ref-1).
 
 ## Early Career and Conversion to Missionary Work

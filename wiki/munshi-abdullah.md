@@ -24,8 +24,6 @@ type: person
 generated: true
 ---
 
-# Munshi Abdullah
-
 ## Life and Origins
 
 Abdullah bin Abdul Kadir (1795–1854), universally known as Abdullah "Munshi", was an early nineteenth-century writer, teacher, and interpreter whose works are regarded as foundational to modern Malay prose [literature](./literature.md). Born in the Tamil quarter of [Malacca](./melaka.md), he served as a letter-writer, tutor, and court interpreter across the [Straits Settlements](./straits-settlements.md), and produced the *[Hikayat Abdullah](./hikayat-abdullah.md)* (1843), the *Kisah Pelayaran Abdullah* (1838), and a number of topical *syair* (ballads) that together constitute one of the earliest sustained bodies of Malay-language autobiographical and journalistic writing. His significance lies not only in the literary achievement of his prose but in the complex position he occupied between the [European](./european.md) colonial administration, the [Malay](./malay.md) aristocratic world, and the *[Peranakan](./peranakan.md) Keling* (Arab-Tamil Muslim) community from which he was born.

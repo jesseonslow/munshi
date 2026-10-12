@@ -33,8 +33,6 @@ type: concept
 generated: true
 ---
 
-# Funeral rites and ceremonies
-
 Funeral rites and ceremonies across the Malay Peninsula and [Borneo](./borneo.md) encompass a diverse range of practices, from the elaborate state funerals of [Malay](./malay.md) rulers to the intimate mortuary rituals of [Chinese](./chinese.md) communities, and from prehistoric gold-foil burial amulets to contemporary national mourning periods. These ceremonies serve not merely as expressions of grief but as powerful mechanisms for the construction of social, political, and spiritual narratives—consecrating the dead, legitimising the living, and binding communities to shared understandings of obligation, hierarchy, and continuity. The evidence preserved in the Society's journals spans more than a century of observation, from the detailed administrative record of a 1933 royal funeral in [Negri Sembilan](./negeri-sembilan.md) to the ethnographic documentation of Cantonese mortuary practice in 1950s [Singapore](./singapore.md) and the archaeological analysis of burial [amulets](./amulets.md) dating to the first century B.C. [[1]](#ref-1), [[2]](#ref-2), [[3]](#ref-3), [[4]](#ref-4)
 
 ## Royal and State Funerary Protocol

@@ -20,8 +20,6 @@ type: concept
 generated: true
 ---
 
-# Coronations
-
 The coronation ceremonies of the Malay Peninsula constitute a distinctive body of state ritual in which the installation of a ruler is understood not merely as a political act but as the reconstitution of a cosmological order. The most extensively documented examples in the Society's [literature](./literature.md) concern the Negri Sembilan, where the Yang di-Pertuan Besar is elected and installed by four hereditary Lawgivers (*Undang*) in a ceremony that Birch (1906) described as the restoration of an ancient constitution after a generation of inter-state estrangement [[1, pp. 9–10]](#ref-1). Winstedt (1947) extended the comparative frame, arguing that Malay royal authority is a palimpsest of three successive civilisational layers—shamanic, Hindu-Buddhist, and Islamic—each retaining structural traces of the one that preceded it [[2, pp. 129–139]](#ref-2). The records also preserve accounts of the 1933 succession in [Negri Sembilan](./negeri-sembilan.md) [[3]](#ref-3) and a brief notice on the *Pancha Persada*, a council of five senior figures in the [Malay](./malay.md) administrative context [[4]](#ref-4).
 
 ## Scope and Historical Definition

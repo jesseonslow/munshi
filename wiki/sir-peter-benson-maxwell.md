@@ -18,8 +18,6 @@ type: person
 generated: true
 ---
 
-# Sir Peter Benson Maxwell
-
 ## Early Career and Judicial Appointment
 
 Sir Peter Benson Maxwell was a distinguished Irish lawyer who arrived in the [Straits Settlements](./straits-settlements.md) in 1856 as the first Recorder of Penang under a new Charter of Justice that for the first time provided for two Recorders to serve in the Settlements [[1, pp. 137–138]](#ref-1). Before his appointment he had served on a Commission sent to investigate conditions in the Crimea, and had made a name in England as the author of *Whom shall we hang?*, a work in which he attributed the muddle and inefficiency of the Crimean War to the apathy and indifference of the British public rather than to the Government alone [[1, p. 137]](#ref-1). His appointment to Penang was mockingly received in England, where a jingle circulated suggesting it was a reward for bolstering the Palmerston government [[1, p. 137]](#ref-1). Maxwell, however, did not regard his new post as a comfortable sinecure; he conceived his mission in [Penang](./penang.md) almost as a crusade to bestow the blessings of British justice upon what he considered an unenlightened Asian community [[1, p. 138]](#ref-1).

@@ -36,8 +36,6 @@ type: concept
 generated: true
 ---
 
-# Folklore
-
 Folklore in the Malay Peninsula and [Borneo](./borneo.md) constitutes a vast and diverse body of oral tradition encompassing origin myths, animal-trickster narratives, ritual prayers, fairy tales, and comic cycles, preserved across Malay, [Dayak](./dayaks.md), Murut, Dusun, and other indigenous communities. The [literature](./literature.md) documented in the Society's journals reveals a tradition of considerable antiquity, with genealogical counts suggesting settlement periods of at least 650 years in [Sarawak](./sarawak.md) alone [[1, p. 58]](#ref-1), and with narrative motifs distributed across the [Malay](./malay.md) Archipelago, [Indo-China](./indo-china.md), and as far afield as the Indian subcontinent and West Africa [[2, pp. 119–126]](#ref-2). The study of this material has shifted over the decades from colonial-era transcription and philological curiosity toward systematic fieldwork, comparative structural analysis, and the historicisation of mythological narratives against written and material evidence.
 
 ### Scope and Historical Definition
@@ -85,11 +83,6 @@ The most significant methodological break came with Sweeney's 1976 study, which 
 ## Orang Asli
 
 For [Orang Asli](./orang-asli.md) folklore, see [Orang Asli](./orang-asli).
-
-### Animals
-### Princes, founders, and myths of origin
-### Malay Villages
-### Malay Commentaries
 
 ## MBRAS Sources
 

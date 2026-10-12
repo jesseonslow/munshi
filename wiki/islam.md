@@ -60,11 +60,9 @@ type: concept
 generated: true
 ---
 
-# Islam
-
 Islam in the Malay Peninsula and [Borneo](./borneo.md) constitutes one of the most extensively documented processes of religious transformation in Southeast Asian history, spanning from the earliest Arab trading contacts of the ninth and tenth centuries to the contemporary institutionalisation of *sharia*-based governance in the modern Malaysian state. The faith arrived not as a single missionary wave but through a slow, multi-generational process driven by maritime [commerce](./commerce.md), intermarriage, royal conversion, and the political leverage of Muslim courts, with the succession of great trading ports—[Kedah](./kedah.md), [Pasai](./pasai.md), [Malacca](./melaka.md), [Aceh](./aceh.md)—serving as relay stations for its advance [[1, pp. 17–21]](#ref-1). Its regional prevalence is now near-total among the Malay [population](./population.md), yet the historical record reveals a complex palimpsest of successive faiths—animist, Hindu, Buddhist, and Islamic—each stratum preserved beneath the next [[2, pp. 3–5]](#ref-2). The economic, cultural, and political significance of Islam in the region is such that it has become, in the words of one mid-twentieth-century observer, less a creed than a "quasi-political force" and "militant brotherhood" to which the [Malay](./malay.md) is proud to belong [[2, pp. 3–5]](#ref-2).
 
-### Coming to Southeast Asia
+## Coming to Southeast Asia
 
 The earliest evidence for Muslim presence in the region is commercial rather than devotional. [G.R. Tibbetts](./gr-tibbetts.md), drawing on Arab geographical texts including the *Akhbar al-Sin wa'l-Hind* (c. 851) and Ibn Khurdadhbih's *Kitab al-masalik wa'l mamalik* (c. 846–886), demonstrated that Arab and Persian merchants from the Gulf region dominated the maritime trade between the Middle East and the Far East from the rise of Islam through the Mongol period, with the trade peaking in the tenth century [[3, pp. 1–45]](#ref-3). A conservative estimate places the maximum extent of Arab trading activity in the archipelago at the longitude of 110°E, with no evidence of regular commerce with the [Moluccas](./moluccas.md), the Gulf of [Siam](./thailand.md), or the interior of Borneo [[3, p. 36]](#ref-3). Two Abbasid [coins](./coins.md) discovered at Kedah, one clearly dated A.H. 234 (A.D. 848), provide material confirmation of Arab commercial presence at Kalah during the period described in the textual sources [[3, p. 33]](#ref-3).
 
@@ -78,7 +76,7 @@ In Borneo, [Tom Harrisson](./tom-harrisson.md) (1972) challenged the conventiona
 
 [The introduction of Islam into Champa](./the-introduction-of-islam-into-champa.md), the Austronesian kingdom on the central Vietnamese coast, followed a distinct trajectory. Pierre-Yves Manguin (1985) demonstrated that Champa's conversion was neither a sudden event nor the product of a single vector, but the cumulative result of Middle Eastern merchant colonies, Javanese-Islamic cultural transmission, and ultimately Malay immigration [[6, pp. 1–28]](#ref-6). Two Arabic [inscriptions](./inscriptions.md) from the Champa coast, one dated 21 November 1039 marking the tomb of Abu Kamil in pure Fatimid Kufic, constitute the earliest tangible proof of a Middle Eastern Muslim community there, though their precise findspot remains uncertain [[6, p. 1]](#ref-6). The decisive evidence for actual conversion comes from the late sixteenth and seventeenth centuries: by 1595, Iberian documents report "many Mahometans" and "many mosques" coexisting with Hindu [temples](./temples.md), while the king remained a "gentile"; by 1676, M. Mahot reports that "the King and one part of the Kingdom are Mahometans," and a 1680 letter from the Champa sovereign to [Batavia](./jakarta.md) bears the title *Paduka Seri Sultan* [[6, pp. 8–10]](#ref-6).
 
-### Islamic Law, Theology, and the Transmission of Knowledge
+## Islamic Law, Theology, and the Transmission of Knowledge
 
 The transmission of Islamic knowledge in the Malay world was driven by teacher–pupil networks rather than by commercial or royal channels. [Muhamad Ali](./muhamad-ali.md) (2006) demonstrated that in Kelantan, local *ulama* (Islamic scholars) were the primary agents of Islamisation, tracing how scholarly networks linking the state to Mecca, [Egypt](./egypt.md), [Patani](./patani.md), and South Asia produced generations of teachers who disseminated Islamic learning through *surau* (village prayer halls), *pondok* (semi-independent residential schools), and *madrasah* (formal Islamic schools) [[7, pp. 39–58]](#ref-7). The *pondok* system, traced to Haji Abd. Samad (Tok Pulai Chondong) in 1820, was hierarchical, orally oriented, and rooted in memorisation of classical Arabic texts [[7, p. 6]](#ref-7). By 1973, [Kelantan](./kelantan.md) had 54 *pondok* with approximately 3,152 pupils, demonstrating the survival of the tradition alongside *madrasah* institutions [[7, p. 14]](#ref-7).
 
@@ -86,7 +84,7 @@ The early twentieth century brought two major transformations. The establishment
 
 In the modern Malaysian state, the institutionalisation of Islamic law has taken a distinct form. [Ahmad Fauzi Abdul Hamid](./ahmad-fauzi-abdul-hamid.md) (2019) traces the progressive "shariaization" of Malay-Muslim identity—the institutionalisation of *sharia*-based values, norms, and categories into the discourse and practice of Malay religio-cultural life [[8, pp. 1–18]](#ref-8). The Federal Constitution of 1957 deliberately confined *sharia* courts to state-level jurisdiction with strict limits on their punitive powers (the "3-6-5 safeguards" capping sentences at three years, six canings, and RM5,000 in fines), but successive political pressures from the 1980s Islamic resurgence onward steadily eroded these boundaries [[8, pp. 52–54]](#ref-8). The pivotal moment came with PAS's 1990 takeover of Kelantan, which provoked UMNO into a competitive Islamisation drive that expanded *sharia* criminal offences enactments and centralised Islamic administration under the federal government through JAKIM [[8, pp. 55–56]](#ref-8). A December 2005 Merdeka Centre survey found that 72.7% of Muslims identified "Muslim" as their primary identity, far exceeding "Malaysian" (14.4%) and "Malay" (12.5%), while 57.3% supported *hudud* [[8, p. 63]](#ref-8).
 
-### Mysticism and the Sufi Tradition
+## Mysticism and the Sufi Tradition
 
 The Sufi mystical tradition in the Malay world represents one of the most intellectually rich and politically consequential dimensions of Islamic history in the region. [A.H. Johns](./ah-johns.md) (1955) demonstrated that Indonesian mystical speculation was not a passive reception of Islamic doctrine but an active, creative engagement shaped by direct contact with Indian and Middle Eastern sources [[9, pp. 70–77]](#ref-9). The central philosophical divergence he identifies is between the *Wujudiyya* (pantheists), who held that each emanation in the Neo-Platonic chain was an aspect of God Himself, and the orthodox position, exemplified by al-[Raniri](./nuruddin-ibn-ali-al-raniri.md), which maintained that emanations were merely reflections of the divine essence cast into non-being, illustrated by the analogy of a single candle reflected in multiple mirrors [[9, pp. 73–74]](#ref-9).
 
@@ -98,7 +96,7 @@ The interaction between Islam and pre-existing belief systems produced a distinc
 
 Among the Orang Asli, the impact of Islam has been comparatively limited. Carey (1970) noted that only about 200 [Orang Asli](./orang-asli.md) had been genuinely converted to Islam in the preceding century, a small figure when compared to Christian and Bahá'í converts [[12, p. 156]](#ref-12). The practical demands of Islam—circumcision, dietary restrictions, five daily prayers in Arabic, and fasting—present genuine obstacles for a people whose lifestyle does not accommodate rigid schedules [[12, p. 156]](#ref-12).
 
-### Research and Documentation
+## Research and Documentation
 
 The Society's [literature](./literature.md) on Islam reveals a clear evolution in scholarly priorities across nearly a century. The earliest contributions, led by Winstedt's landmark 1917 survey, were fundamentally political and commercial in orientation, treating the adoption of Islam as a consequence of the economic and diplomatic position of Muslim trading communities [[1, pp. 17–175]](#ref-1). Winstedt's work, produced within the administrative-intellectual culture of the colonial service, drew on the Society's own Malay manuscript collection and on Dutch archaeological and linguistic publications, situating it within the collaborative Anglo-Dutch scholarly network of the period [[1]](#ref-1).
 
@@ -107,12 +105,6 @@ The 1950s marked a decisive shift toward theological and philosophical analysis.
 The 1970s and 1980s saw the expansion of geographic scope and methodological pluralism. Harrisson's 1972 article on Borneo challenged the D.G.E. Hall consensus of c. 1500 A.D. by triangulating three independent indigenous source types and arguing for the methodological legitimacy of genealogical [folklore](./folklore.md) in Bornean historiography where formal documentation is absent [[5]](#ref-5). Manguin's 1985 study of Champa, originally published in the *Bulletin de l'École française d'Extrême-Orient*, extended the analysis to the Vietnamese coast and emphasised Champa's proper belonging to the maritime network of Nusantara rather than to the Vietnamese or "Indochinese" sphere [[6]](#ref-6). Wilkinson's 1957 monograph, though ethnographic in method, provided the most comprehensive account of the layered religious beliefs of the Peninsular Malay, building on the foundational literature of [W.W. Skeat](./walter-william-skeat.md) and Snouck Hurgronje [[2]](#ref-2).
 
 The most recent contribution, Ahmad Fauzi Abdul Hamid's 2019 article, marks a transition from historical reconstruction to contemporary political analysis, examining the institutionalisation of *sharia*-based governance and its consequences for national identity and inter-religious relations [[8]](#ref-8). The cumulative arc of the Society's literature thus moves from the commercial and political history of conversion, through the theological and philosophical analysis of Sufi doctrine, to the ethnographic documentation of syncretic practice, and finally to the critical examination of Islam's role in the modern Malaysian state.
-
-## Coming to Southeast Asia
-
-## Islamic law and theology
-
-## Mysticism
 
 ## MBRAS Sources
 

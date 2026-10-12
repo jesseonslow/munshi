@@ -32,8 +32,6 @@ type: concept
 generated: true
 ---
 
-# Amulets
-
 Gold-foil burial amulets constitute a distinctive mortuary convention attested across maritime [Southeast Asia](./southeast-asia.md), in which small, thin, leaf-shaped pieces of gold foil were placed over the facial orifices of the dead. The practice, documented from Bali, the [Philippines](./philippines.md), and [Borneo](./borneo.md), with comparative parallels in [China](./china.md) and South [India](./india.md), represents a persistent ritual tradition spanning at least 1,700 years [[1, p. 70]](#ref-1). Beyond these funerary objects, the broader category of amulets in the [Malay](./malay.md) world encompasses coin-like metal discs employed in healing and protective rituals, as recorded in [Kelantan](./kelantan.md) in the 1930s [[2, pp. 302–304]](#ref-2). Together, these records illuminate two distinct but thematically related dimensions of amuletic practice in the region: the use of precious metal in death ritual and the deployment of inscribed or figured metal objects in the living world of [medicine](./medicine.md) and [magic](./magic.md).
 
 ## Scope and Historical Definition

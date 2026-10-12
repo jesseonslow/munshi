@@ -25,8 +25,6 @@ type: concept
 generated: true
 ---
 
-# Bronzes
-
 Bronzes constitute a significant category of artefact in the archaeological and ethnographic record of the [Malay](./malay.md) Peninsula and [Borneo](./borneo.md), spanning from ancient ritual objects in the Bujang Valley of [Kedah](./kedah.md) to living cult items among highland peoples of interior [Sarawak](./sarawak.md) and Kalimantan. The evidence, though fragmentary, points to a complex metallurgical tradition that cannot be reduced to a single external source; rather, it reflects a combination of indigenous craft, long-distance exchange, and local specialisation that persisted across centuries and into the modern period [[1, p. 259]](#ref-1). The objects range from small personal toggles and ritual [implements](./implements.md) to architectural and ceremonial components, and their study has engaged scholars in debates over provenance, function, and the relative weight of mainland versus insular influences in shaping the region's material culture [[2, pp. 193–198]](#ref-2), [[3, pp. 48–50]](#ref-3).
 
 ## Scope and Typological Range

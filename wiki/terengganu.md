@@ -34,8 +34,6 @@ type: concept
 generated: true
 ---
 
-# Terengganu
-
 Terengganu, a sultanate on the east coast of the Malay Peninsula, has been the subject of sustained scholarly attention in the Society's [literature](./literature.md) from the late nineteenth century to the present, spanning [natural history](./natural-history.md), political history, social structure, and administrative development. The state, with a coastline of 160 miles of golden sand [[1, p. 71]](#ref-1), has historically occupied a distinctive position among the Malay sultanates, claiming a superior dignity that was acknowledged by neighbouring rulers [[2, pp. 26–27]](#ref-2). Its population in 1938 stood at 179,789, of whom 164,564 were Malay [[3, p. 201]](#ref-3), and its capital, Kuala Terengganu, possessed the largest urban [Malay](./malay.md) [population](./population.md) in the Peninsula at approximately 25,000 in 1909 [[4, p. 24]](#ref-4). The state's economic base has been characterised by fishing, [agriculture](./agriculture.md), and, from the late nineteenth century, tin mining, while its political history is marked by a long period of Siamese suzerainty, a brief but consequential episode of independent rule, and the subsequent imposition of British protection in 1909.
 
 ## Scope and Historical Definition

@@ -14,8 +14,6 @@ type: concept
 generated: true
 ---
 
-# Pearl industry
-
 The pearl industry in the Malay Archipelago, as documented in the Society's [literature](./literature.md), is known almost exclusively through a single but remarkably detailed investigation into the alleged reproductive properties of certain pearls, conducted by the physician and naturalist [N. B. Dennys](./nicholas-belfield-dennys.md) in [Singapore](./singapore.md) in 1878. The records do not attest to a broader commercial pearl trade, industrial infrastructure, or systematic economic analysis of pearl harvesting in the region; rather, they preserve a focused natural-historical inquiry into a phenomenon that occupied the attention of [European](./european.md) residents across the [Straits Settlements](./straits-settlements.md) and the [Malay](./malay.md) Peninsula, and which drew upon testimony from [Borneo](./borneo.md), [Java](./java.md), and the wider Archipelago [[1, pp. 31–37]](#ref-1).
 
 ## Scope and Historical Definition

@@ -17,8 +17,6 @@ type: place
 generated: true
 ---
 
-# Cocos-Keeling Islands
-
 The Cocos (Keeling) Islands form a small atoll archipelago lying approximately 1,000 kilometres southwest of [Java](./java.md) in the Indian Ocean, comprising a main atoll of low-lying coral islands and a separate island, North Keeling, situated some 16 miles to the north [[1, p. 91]](#ref-1). The atoll was first sighted by Europeans in 1609 under Captain William Keeling, permanently settled in 1827 by John Clunies-Ross and [Alexander Hare](./alexander-hare.md), and passed through successive jurisdictions—British Crown, Ceylon, and finally the [Straits Settlements](./straits-settlements.md) in 1903—while remaining in the effective private ownership of the Clunies-Ross [family](./family.md) for more than a century [[2, pp. 139–148]](#ref-2). The [islands](./islands.md)' strategic significance as a trans-Indian Ocean cable relay station brought them into the global [theatre](./theatre.md) of the First World War in November 1914, when the German raider *SMS Emden* was destroyed off the atoll by the Australian light cruiser *HMAS Sydney* [[1, p. 91]](#ref-1).
 
 ## Toponymy, Discovery, and Physical Setting

@@ -14,8 +14,6 @@ type: concept
 generated: true
 ---
 
-# Pygmies
-
 The archival record for this subject is limited to a single bibliographic entry: a 1884 article by J. E. De La Croix and [A. de Quatrefages](./a-de-quatrefages.md), titled "The pigmies of Homer, Herodotus, Aristotle, Pliny etc.: the Asiatic pigmies, or [Negritos](./negritos.md); the Negrillos or African pigmies," published in the *[Journal of the Straits Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)*, Volume 13, pages 1–48 [[1]](#ref-1). No further substantive content from this article is preserved in the available records, and no other documents in the provided evidence address the subject. The following therefore represents the full extent of what can be responsibly stated.
 
 ## Scope and Historical Definition

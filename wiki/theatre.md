@@ -25,8 +25,6 @@ type: concept
 generated: true
 ---
 
-# Theatre
-
 Theatre in the [Malay](./malay.md) Peninsula and [Borneo](./borneo.md) encompasses a range of performing [traditions](./traditions.md), from Chinese puppetry to live opera, each embedded in religious and social life. The most extensively documented form in the Society's [literature](./literature.md) is the [Chinese](./chinese.md) glove puppet theatre, known locally as the *Po te hi*, which was brought to [Malaya](./malaya.md) from Fukien Province in the late nineteenth and early twentieth centuries and continues to be performed in the Hokkien [dialect](./dialects-and-dictionaries.md) during religious occasions [[1, pp. 40–41]](#ref-1).
 
 ## Origins, Staging, and Material Culture

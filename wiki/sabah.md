@@ -56,8 +56,6 @@ type: concept
 generated: true
 ---
 
-# Sabah
-
 Sabah, the northernmost state of [Malaysia](./malaysia.md) on the island of [Borneo](./borneo.md), occupies approximately 20,000 square miles of coastline and interior between the fourth and seventh parallels of north latitude [[1, p. 323]](#ref-1). Its demographic, economic, and political history is shaped by the interplay of indigenous highland and coastal communities, [Chinese](./chinese.md) commercial immigration, and the timber and plantation industries that have defined its modern economy [[2, p. 63]](#ref-2), [[3, pp. 137–138]](#ref-3). The territory's name itself is a product of Victorian-era chartered-company promotion rather than an ancient indigenous designation, and its borders were assembled piecemeal from cessions by the Sultans of [Brunei](./brunei.md) and [Sulu](./sulu.md) between 1877 and 1902 [[4, pp. 76–83]](#ref-4), [[5, pp. 176–192]](#ref-5). From the founding of Sandakan in 1878 to the state's entry into the Malaysian federation in 1963, Sabah's development has been characterised by rapid demographic transformation, the consolidation of colonial authority over a fragmented interior, and the emergence of a timber-exporting economy that by 1970 accounted for half the state's gross national product [[3, pp. 137–138]](#ref-3), [[2, p. 63]](#ref-2).
 
 ## The Name and the Cessions

@@ -18,8 +18,6 @@ type: concept
 generated: true
 ---
 
-# Maloh
-
 The Maloh are an interior Dayak people inhabiting the upper reaches of the Kapuas river in Indonesian West Kalimantan, numbering approximately 11,000 and scattered across the region of Putus Sibau, the administrative centre of Kapuas Hulu [[1, pp. 101–102]](#ref-1). They comprise three principal sub-divisions: the Embaloh, located along the Leboyan, Embaloh, Palin, Nyabau and Peniung (Mandai) rivers; the Kalis, on the river of that name; and the Taman, situated on the main Kapuas and in the Mendalem and Sibau rivers [[1, p. 101]](#ref-1). Though culturally distinguishable from neighbouring Dayak groups such as the Iban, Kantu', Kayan, Suruk/Mentebah, Punan and Bukat, the three sub-divisions also recognise differences among themselves [[1, p. 101]](#ref-1). The Maloh have been widely known in [Sarawak](./sarawak.md) and West Kalimantan as [silver](./silver.md)- and gold-smiths, historically travelling across the border to Iban long-houses to produce adornments for [Iban](./dayaks.md) women, a craft that has declined considerably in recent decades owing to reduced demand and competition from [Chinese](./chinese.md) jewellers [[1, p. 101]](#ref-1).
 
 ## Social Organisation and Livelihood

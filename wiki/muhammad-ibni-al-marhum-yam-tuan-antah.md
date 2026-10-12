@@ -16,8 +16,6 @@ type: concept
 generated: true
 ---
 
-# Muhammad ibni al-Marhum Yam Tuan Antah
-
 ## The Person and the Office
 
 Muhammad ibni al-Marhum Yam Tuan Antah (1853–1933) was the Yang di-Pertuan Besar of [Negri Sembilan](./negeri-sembilan.md), the hereditary paramount ruler of the confederation of Malay states on the west coast of the Malay Peninsula situated between [Malacca](./melaka.md) and [Selangor](./selangor.md). Installed in 1898 after a generation of inter-state estrangement, he reigned for forty-five years until his death on 1 August 1933, making his tenure the longest in the modern history of the office [[1, pp. 9–10]](#ref-1), [[2, p. 272]](#ref-2). His full ceremonial title, as recorded in the 1933 succession documents, was Tuanku Muhammad, G.C.M.G., K.C.V.O., ibni al-Marhum Yam Tuan Antah [[2, p. 272]](#ref-2). The office he held was not merely a personal dignity but the apex of a constitutional structure that combined [Malay](./malay.md) [customary law](./customary-law.md), Islamic principles, and, from 1895 onward, the framework of British protection.

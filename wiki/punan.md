@@ -14,8 +14,6 @@ type: concept
 generated: true
 ---
 
-# Punan (Bornean tribe)
-
 ## Scope and Historical Definition
 
 The Punan are a group of indigenous peoples of [Borneo](./borneo.md), documented primarily in the Sarawak region of the island, whose name has been applied to at least two fundamentally distinct populations: a forest-dwelling nomadic group and a settled longhouse-dwelling people of the Rejang River basin. The conflation of these two groups under a single ethnonym persisted throughout the colonial ethnographic [literature](./literature.md) and was not resolved until the late 1940s, when administrative officers and ethnographers working in [Sarawak](./sarawak.md) began to distinguish them explicitly [[1, pp. 24–36]](#ref-1). The term "Punan" itself, in the case of the settled group, derives from Sungei Punan, a tributary of the Ba River, and carries no implication of kinship with the nomadic bearers of the same name [[1, pp. 31–32]](#ref-1).

@@ -20,8 +20,6 @@ type: group
 generated: true
 ---
 
-# Orang Belait
-
 ## Geographic Distribution & Composition
 
 The Orang Belait are a small indigenous community inhabiting the lower reaches of the Belait River in [Brunei](./brunei.md), near the boundary with Sarawak. The group numbers at most approximately 800 individuals and is understood to comprise two elements that have become fused: the Orang Belait proper, who claim descent from the original inhabitants, and the more numerous Orang Meting, whose origin lies in an expulsion from the Lemeting River, a tributary of the Tinjar and ultimately of the Baram River system in [Sarawak](./sarawak.md), some 50 to 100 years before the 1938 account was written [[1, p. 102]](#ref-1). The two groups have intermingled to such an extent that they identify themselves indiscriminately as Orang Belait, and the language spoken is that of the Orang Meting, which is described as somewhat akin to that of the Orang Miri adjacent [[1, p. 102]](#ref-1). The Orang Meting retain the practice of preserving human heads, which are ceremonially laved periodically, a custom not shared by the Orang Belait proper [[1, p. 102]](#ref-1).

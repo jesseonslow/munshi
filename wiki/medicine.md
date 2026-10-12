@@ -44,8 +44,6 @@ type: concept
 generated: true
 ---
 
-# Medicine
-
 Medicine in the Malay Peninsula and [Borneo](./borneo.md) has historically existed as a plural and layered system, in which indigenous healing [traditions](./traditions.md), South Asian medical lineages, and Western biomedical practice have coexisted, competed, and occasionally interpenetrated across more than a century of colonial administration. The region's medical landscape was shaped by the economic demands of the plantation economy, the public-health imperatives of tropical disease, and the persistent vitality of local therapeutic cultures that operated outside—and often in parallel to—formal colonial institutions. From the *pawang* (hereditary village medicine-man) of the [Malay](./malay.md) countryside to the estate [hospitals](./hospitals.md) of the rubber boom, and from the *babalian* (female healer) of the Murut highlands to the colonial medical schools of the [Straits Settlements](./straits-settlements.md), the history of medicine in this region is inseparable from questions of [labour](./labour.md), sovereignty, and cultural authority [[1, pp. 91–92]](#ref-1), [[2, p. 68]](#ref-2).
 
 ## Traditional and Indigenous Medical Systems

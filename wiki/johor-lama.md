@@ -17,8 +17,6 @@ type: concept
 generated: true
 ---
 
-# Johor Lama
-
 Johor Lama is a site on the Johore River in southern [Malaya](./malaya.md) that served as the fortified capital of the [Johore](./johor.md) Sultanate from approximately 1540 until its destruction by the Portuguese in 1587, and which has since been the subject of sustained archaeological and historical investigation into the nature of early maritime trade in the region. The site comprises two distinct archaeological contexts — a sixteenth-century fortified city and a continuously occupied village — and has yielded a diverse assemblage of glass and stone [beads](./beads.md), [Chinese](./chinese.md) [ceramics](./ceramics.md), and other material remains that bear on the chronology and character of trade networks linking the [Malay](./malay.md) Peninsula to the Indian Ocean and [China](./china.md) Seas [[1, pp. 198–199]](#ref-1). Its significance lies not only in its role as a political centre of the post-[Malacca](./melaka.md) sultanate but also in the questions its material culture raises about the timing and complexity of long-distance exchange in [Southeast Asia](./southeast-asia.md) [[2, p. 88]](#ref-2).
 
 ## Historical Context and the Question of the Capital

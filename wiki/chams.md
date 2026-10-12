@@ -14,8 +14,6 @@ type: concept
 generated: true
 ---
 
-# Chams
-
 The Chams were the people of Champa, a Hinduized kingdom that endured from approximately the second century A.D. until its conquest by Annam in 1471, stretching at its maximum extent some five hundred miles along the Indochinese coast from Porte d'Annam (18°N) to Phan Thiet (11°N) [[1, p. 45]](#ref-1). Their civilization arose from the blending of indigenous culture with the Saiva Hinduism of colonists from South [India](./india.md), and its extensive remains in southern Indochina stand as a monument to a past greatness now reduced to a declining remnant [[2, p. 90]](#ref-2). The Chams are of closely allied race to the Malays, sharing a similar language and culture, and history brought the two peoples together through trade, royal alliance, war, and the common propagation of [Islam](./islam.md) [[2, p. 90]](#ref-2). Following the fall of the Cham capital Vijaya in 1471, refugee communities established themselves in Indonesian states, most notably in [Malacca](./melaka.md), where they contributed to the racial and cultural admixture of the [Malay](./malay.md) [population](./population.md) of the Peninsula [[2, p. 90]](#ref-2).
 
 ## Scope and Historical Definition

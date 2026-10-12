@@ -15,8 +15,6 @@ type: concept
 generated: true
 ---
 
-# Roads
-
 Roads in colonial [Malaya](./malaya.md) formed an integral component of the transport infrastructure that underpinned the extractive economy of the peninsula. From their earliest construction as feeder tracks linking tin mines to river systems in the western states, through their expansion into a network of metalled highways serving rubber plantations and administrative centres, roads evolved in close relationship with the railway system that had been built to carry the colony's principal exports to the ports. By the 1930s, the rapid growth of motor vehicle traffic had made road transport a direct competitor to the [railways](./railways.md), prompting a series of regulatory interventions by the British administration that sought to coordinate the two modes without resolving the deeper structural problem of the economy's dependence on export trade [[1, pp. 45–46]](#ref-1).
 
 ## Origins and Early Development

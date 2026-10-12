@@ -34,8 +34,6 @@ type: concept
 generated: true
 ---
 
-# Buddha and Buddhism
-
 Buddhism in the [Malay](./malay.md) Peninsula and [Borneo](./borneo.md), as documented in the Society's [literature](./literature.md), spans a vast chronological and geographical range—from seventh-century Sanskrit [inscriptions](./inscriptions.md) in the Bujang Valley of Kedah to the institutional life of [Chinese](./chinese.md), Thai, Burmese, and Singhalese [temples](./temples.md) in [Penang](./penang.md) during the twentieth century. The evidence attests to a tradition that was simultaneously embedded in pan-Asian monastic networks and characterised by distinctive local innovations, from the unique practice of engraving *Sāgaramatiparipṛcchā* verses on shale bars set within stupas in Ancient [Kedah](./kedah.md) [[1, pp. 5]](#ref-1) to the demographic and financial negotiations between ethnic Buddhist communities under colonial rule [[2, pp. 57–88]](#ref-2). The material record—votive tablets, stucco sculptures, inscribed shale bars, marble temple slabs, and ritual paraphernalia—collectively demonstrates that Buddhist practice in the region was neither a passive reception of Indian models nor a uniform import, but a dynamic and locally adaptive tradition sustained over many centuries.
 
 ## Epigraphic and Archaeological Evidence from Ancient Kedah

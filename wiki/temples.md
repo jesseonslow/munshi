@@ -33,8 +33,6 @@ type: concept
 generated: true
 ---
 
-# Temples
-
 ## Temples
 
 Temples in the [Malay](./malay.md) Peninsula and [Borneo](./borneo.md) constitute a diverse architectural and religious landscape that spans Buddhist, Hindu, and Chinese folk [traditions](./traditions.md), and that has been shaped by centuries of migration, colonial administration, and cross-cultural exchange. The records preserved in the Society's journal reveal a subject of considerable scholarly interest, ranging from the excavation of a ninth-century brick *chedi* (Buddhist stupa) in southern [Thailand](./thailand.md) to the ceremonial dedication of a [Chinese](./chinese.md) temple in [Malacca](./melaka.md) and the institutional history of Buddhist communities in [Penang](./penang.md). These monuments and their associated practices served not merely as houses of worship but as sites of economic activity, ethnic negotiation, and political expression, their histories reflecting the broader currents of trade, conquest, and community formation across the region.

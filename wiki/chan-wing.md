@@ -14,8 +14,6 @@ type: concept
 generated: true
 ---
 
-# Chan Wing
-
 Chan Wing (陳永, 1873–1947) was a Kwantung-born Chinese immigrant who rose from rural poverty to become one of [Kuala Lumpur](./kuala-lumpur.md)'s most prominent early business figures, his commercial career spanning tin mining, banking, rubber cultivation, and rice export across the major economic transformations of colonial [Malaya](./malaya.md) from the 1880s through the Japanese occupation [[1, pp. 112–117]](#ref-1). His life, as reconstructed by his eighth daughter [Chan King Nui](./chan-king-nui.md) in a 1996 biographical record, offers a representative account of the [Chinese](./chinese.md) entrepreneurial class that shaped the [Straits Settlements](./straits-settlements.md) and the [Federated Malay States](./federated-malay-states.md) during the late nineteenth and early twentieth centuries [[2]](#ref-2).
 
 ## Migration and Early Commercial Career

@@ -15,8 +15,6 @@ type: concept
 generated: true
 ---
 
-# Muhammad Salleh
-
 ## The Man and His World
 
 Muhammad Salleh, commonly known as Mat Salleh, was a leader of mixed Bajau and [Sulu](./sulu.md) parentage who led a prolonged armed resistance against the North Borneo Chartered Company from 1894 to 1900, and whose followers continued to fight in scattered bands until 1905. He was a tall, thin, pock-marked man of commanding personality who lived with his father controlling a small village up the Sugut River on the east coast of [Borneo](./borneo.md), and whose influence extended downstream among the [Bajau](./bajau.md) communities of the region [[1, pp. 2–3]](#ref-1). The revolt he led was not, as Tregonning argues, a simple product of indigenous resistance to colonial rule, but a direct consequence of the company's financial mismanagement under Managing Director William C. Cowie, whose grandiose infrastructure projects and new taxation created the grievances that Salleh exploited [[1, p. 20]](#ref-1).

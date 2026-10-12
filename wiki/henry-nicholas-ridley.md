@@ -22,8 +22,6 @@ type: person
 generated: true
 ---
 
-# Henry Nicholas Ridley
-
 Henry Nicholas Ridley (1855–1955), C.M.G., M.A., F.R.S., was a British botanist who served as Director of the Botanic Gardens in [Singapore](./singapore.md) and as Honorary Secretary of the [Straits Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md). His career spanned twenty-three years of service in the [Straits Settlements](./straits-settlements.md), during which he made pioneering contributions to rubber cultivation, tropical [botany](./botany.md), and the documentation of Malayan flora. He is regarded as the single most significant contributor to the activities of the Society's journal, and his published output covered approximately ten thousand printed pages [[1, pp. 104]](#ref-1).
 
 ## Early Life and Formation

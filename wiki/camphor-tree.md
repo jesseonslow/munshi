@@ -14,8 +14,6 @@ type: concept
 generated: true
 ---
 
-# Camphor tree
-
 The camphor tree (*Dryobalanops aromatica*) is a lofty dipterocarp native to the interior river systems of the Malay Peninsula and [Borneo](./borneo.md), producing both solid camphor (*kapur barus*) and camphor oil, and long associated with a specialised linguistic register and a body of indigenous belief among the [Jakun](./jakun.md) and other aboriginal communities of the [Johor](./johor.md) interior [[1, p. 35]](#ref-1). Its commercial significance dates to at least the sixth century, and its presence on the [Malay](./malay.md) Peninsula was not botanically confirmed until the 1890s, despite the fact that camphor-hunting had been practised there for generations [[1, pp. 35–36]](#ref-1). The tree's ecological rarity—only a small proportion of individuals actually yield camphor—gave rise to a complex set of taboos, an artificial language, and a tradition of specialist knowledge that persisted into the late nineteenth century [[2, pp. 112–115]](#ref-2), [[1, pp. 39–40]](#ref-1).
 
 ## Botanical Description and Distribution

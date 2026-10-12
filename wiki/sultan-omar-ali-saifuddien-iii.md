@@ -14,8 +14,6 @@ type: person
 generated: true
 ---
 
-# Sultan Omar Ali Saifuddien III
-
 ## Sultan Omar Ali Saifuddien III
 
 Sultan Omar Ali Saifuddien III (1888–1959) was the ninth Sultan of Brunei, reigning from 1924 until his death in 1959. He is best known for his role in the modernisation of [Brunei](./brunei.md) during the colonial period, his engagement with the British colonial administration, and his contributions to the development of the state's infrastructure and governance. His reign marked a transitional era in Bruneian history, bridging traditional sultanate rule with the administrative frameworks introduced under British influence. [[1]](#ref-1)

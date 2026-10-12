@@ -15,8 +15,6 @@ type: concept
 generated: true
 ---
 
-# Hats
-
 Malay and Chinese plaited and sewn hats constitute a significant body of traditional craftwork across the [Malay](./malay.md) Peninsula and parts of [Borneo](./borneo.md), serving practical functions for fishermen, rice-field workers, and labourers while also embodying distinct regional identities and aesthetic [traditions](./traditions.md). The principal materials—[various](./various.md) species of *Pandanus*, bamboo, rotan, and several palm species—are drawn from the immediate [environment](./environment.md), and the techniques of plaiting and sewing have been transmitted through local communities for generations. By the late 1940s, however, the introduction of [European](./european.md) cotton thread, synthetic dyes, and commercial competition from external producers was already eroding the diversity of local patterns that had existed only a generation or two earlier [[1, pp. 133–134]](#ref-1). The hats documented here range from the highly intricate fisherman's hat of [Kedah](./kedah.md), whose brim is secured by a criss-cross webbing worked over eighteen successive circuits, to the simple bamboo covers of the [Malacca](./melaka.md) coast, and from the stout Cantonese labourer's hat imported in large quantities to the more delicate Teochew pattern that had become the most widely worn of the [Chinese](./chinese.md) forms [[1, pp. 154–155]](#ref-1), [[2, pp. 39]](#ref-2).
 
 ## Materials and Construction Techniques

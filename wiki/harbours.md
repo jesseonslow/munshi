@@ -14,8 +14,6 @@ type: concept
 generated: true
 ---
 
-# Harbours
-
 The harbours of the [Malay](./malay.md) Peninsula and [Borneo](./borneo.md) constitute a complex and often misunderstood body of maritime geography, shaped by centuries of navigational practice, colonial administration, and the shifting demands of trade. The most extensively documented case in the Society's [literature](./literature.md) concerns the waterway now known as [Keppel Harbour](./keppel-harbour.md) at Singapore, whose identity as the original "Old Strait" of [Singapore](./singapore.md) was long obscured by competing [traditions](./traditions.md) and administrative error [[1, pp. 25–26]](#ref-1). Beyond this central case, the record extends to the artificial port of [Port Weld](./port-weld.md) in [Perak](./perak.md), whose rise and fall over roughly seventy years illustrates how harbours created to serve specific extractive economies could be rendered obsolete by the very infrastructure that sustained them [[2, pp. 154–155]](#ref-2). Together, these studies reveal a pattern in which harbours were not static features but dynamic nodes whose significance rose and fell with navigational knowledge, political disruption, and the evolution of transport networks.
 
 ## The Old Strait of Singapore: Identification and Early Use

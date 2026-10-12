@@ -16,8 +16,6 @@ type: person
 generated: true
 ---
 
-# Sultan Badlishah
-
 Sultan Badlishah (1894–1958), the twelfth son of Sultan Abdul Hamid Halim Shah of Kedah, was the first Malay ruler to be educated abroad, the first to attend Oxford University, and the only member of the [Kedah](./kedah.md) royal [family](./family.md) to be naturalised as a Siamese citizen. [[1, pp. 119–120]](#ref-1) His reign (1943–58) coincided with [Malaya](./malaya.md)'s transition from colonial rule to independence, during which he emerged as a leading defender of the [Malay](./malay.md) rulers' traditional authority against both British colonial pressure and the emerging political party UMNO. [[1, p. 119]](#ref-1)
 
 ## Early Life and Siamese Upbringing

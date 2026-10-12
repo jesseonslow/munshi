@@ -14,8 +14,6 @@ type: person
 generated: true
 ---
 
-# Sultan Abdul Jalil Shah III
-
 Sultan Abdul Jalil Shah III (r. 1699–1720) was the second Sultan of Johor, succeeding his predecessor Sultan [Mahmud II](./sultan-mahmud-shah.md) in September 1699 and reigning until his death at Kuala Pahang in late 1719 or early 1720. His accession was not by blood relationship but by the constitutional custom whereby the *Bendahara* (chief minister) assumed the throne when the ruling line died out without a direct heir [[1, pp. 29–30]](#ref-1). Although Wilkinson characterises the period as "a dark page of Malay History," it is of genealogical significance because it marks the origin of five [Malay](./malay.md) dynasties: Lingga, [Singapore](./singapore.md), [Trengganu](./terengganu.md), [Pahang](./pahang.md), and [Johore](./johor.md) [[1, p. 28]](#ref-1).
 
 ## Accession and Early Reign

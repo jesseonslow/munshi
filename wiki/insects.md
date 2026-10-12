@@ -29,8 +29,6 @@ type: concept
 generated: true
 ---
 
-# Insects
-
 Insects have been a persistent subject of natural-historical investigation in the [Malay](./malay.md) Peninsula and [Borneo](./borneo.md) since the late nineteenth century, attracting attention from museum curators, colonial naturalists, and field observers alike. The Society's [literature](./literature.md) documents a range of entomological findings—from the first recorded case of parthenogenesis in the order [Orthoptera](./orthoptera.md) to mass butterfly migrations in the [Perak](./perak.md) highlands, from phasmid pests of cultivated [orchids](./orchids.md) in Sarawak to the microfauna of pitcher-plant pitchers in Singapore. These records collectively reveal a tradition of observation that moved between the spectacular and the minute, between the economic and the purely taxonomic, and that was shaped by the institutional contexts of the [Raffles](./stamford-raffles.md) Museum, the [Sarawak](./sarawak.md) Museum, and the National Museum in [Singapore](./singapore.md).
 
 ## Members & Sub-Topics

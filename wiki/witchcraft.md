@@ -18,8 +18,6 @@ type: concept
 generated: true
 ---
 
-# Witchcraft
-
 ## Scope and Historical Definition
 
 The practice of witchcraft in the [Malay](./malay.md) Peninsula and [Borneo](./borneo.md), as documented in the published record, encompasses a range of supernatural techniques employed for purposes both criminal and protective, characterised by a distinctive fusion of Islamic formulae, spirit invocation, and practical folk [magic](./magic.md). The available evidence, while limited in breadth, reveals a tradition that was sufficiently widespread to attract the attention of colonial administrators, missionaries, and ethnographers from the 1890s through the 1930s, and that operated across a spectrum from the domestic management of childhood illness to the armed protection of a professional burglar. The term *ilmu jahat* (literally "black art" or "evil knowledge") was used by [A.E. Coope](./ae-coope.md) in 1933 to designate the specific corpus of criminal sorcery he transcribed from a [Kelantan](./kelantan.md) manuscript, but the broader phenomenon extended well beyond the criminal context into the realm of popular belief, community coercion, and millenarian religious movements [[1, p. 264]](#ref-1).

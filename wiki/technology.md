@@ -15,8 +15,6 @@ type: concept
 generated: true
 ---
 
-# Technology
-
 ## Technology in Colonial Singapore and Malaya
 
 The question of why [Singapore](./singapore.md) and [Malaya](./malaya.md), despite their privileged position as Britain's premier entrepôt in [Southeast Asia](./southeast-asia.md) and their possession of some of the world's leading primary industries, failed to develop a significant indigenous manufacturing base during the colonial period has been a persistent subject of scholarly inquiry. The colonial economy was characterised by the successful importation and adaptation of foreign technology in tin mining and rubber cultivation, yet this technological dynamism did not translate into a broader industrialising impulse among local entrepreneurs. The debate over the causes of this asymmetry—whether institutional, cultural, or structural—has occupied historians of the region for decades, with competing explanations centring on the behaviour of British colonial institutions, the preferences of [Chinese](./chinese.md) commercial elites, and the economic imperatives of the Old International Division of [Labour](./labour.md).

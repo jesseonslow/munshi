@@ -34,8 +34,6 @@ type: concept
 generated: true
 ---
 
-# Superstitions
-
 The [Malay](./malay.md) Peninsula and the western coast of [Borneo](./borneo.md) have long been documented as regions where a dense body of popular beliefs—encompassing dream interpretation, animal omens, spirit propitiation, and practical folk [magic](./magic.md)—persisted alongside, and often in tension with, orthodox Islamic practice. These beliefs, variously termed *superstitions*, *folk-lore*, or *popular [religion](./religion.md)* by colonial-era observers, were not a single coherent system but a layered composite of pre-Islamic animist [traditions](./traditions.md), Islamic theological reasoning, and local [customary law](./customary-law.md) that varied significantly from district to district. Their significance lies not merely in their cultural colour but in their practical governance of daily life: they regulated agricultural [labour](./labour.md), fishing, [marriage](./marriage.md), travel, and the management of illness, and they provided a framework of explanation for events that orthodox doctrine left unaddressed. The scholarly record of these beliefs, spanning nearly five decades of publication in the Society's journal, reveals a field of enquiry that shifted from broad ethnographic generalisation toward more precise, locally grounded documentation.
 
 ## Scope and Historical Definition

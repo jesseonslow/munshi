@@ -14,8 +14,6 @@ type: concept
 generated: true
 ---
 
-# Queen Victoria
-
 I'm unable to produce a grounded article on Queen Victoria because no archival evidence records have been provided in the prompt. The section designated for source material is empty.
 
 Per the strict grounding and anti-hallucination rules, I must rely exclusively on the records supplied. Without them, any article I would write would necessarily contain unverified claims about dates, events, or characterisations that cannot be cited to a specific source.

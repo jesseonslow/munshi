@@ -20,8 +20,6 @@ type: concept
 generated: true
 ---
 
-# Malaysia
-
 Malaysia, spanning the southern Malay Peninsula and the northern coast of [Borneo](./borneo.md), has been a subject of sustained scholarly investigation across political, economic, and cultural domains. The Society's [literature](./literature.md) reveals a country whose modern identity has been shaped by contested narratives of sovereignty, state-engineered commemoration, and the economic restructuring that followed independence. From the tributary relations that bound northern [Malay](./malay.md) states to [Siam](./thailand.md) through the nineteenth century, to the post-independence construction of national memory through [museums](./museums.md) and memorials, the archival record documents a nation continuously negotiating the meaning of its own past.
 
 ## National Memory and Commemorative Spaces

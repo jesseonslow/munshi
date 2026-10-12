@@ -14,8 +14,6 @@ type: concept
 generated: true
 ---
 
-# Cockroaches
-
 Cockroaches (family Blattidae) constitute one of the oldest and most diverse families of insects in the Malayan region, which Hanitsch defined as encompassing the [Malay](./malay.md) Peninsula to the Isthmus of Kra, [Sumatra](./sumatra.md), [Java](./java.md), [Borneo](./borneo.md), and adjacent [islands](./islands.md) [[1, p. 17]](#ref-1). In 1915, R. Hanitsch, Director of the [Raffles](./stamford-raffles.md) Museum, [Singapore](./singapore.md), published a comprehensive taxonomic monograph consolidating scattered descriptions from over fifty prior publications into a single systematic reference, describing 184 species across nine sub-families and establishing nine new species [[1, p. 17]](#ref-1). The work remains the foundational faunal survey of the group for the region.
 
 ## Taxonomic Scope and Classification

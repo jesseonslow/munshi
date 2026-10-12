@@ -26,8 +26,6 @@ type: concept
 generated: true
 ---
 
-# Saints
-
 The concept of the *keramat*—a class of revered figures believed to possess supernatural powers and sanctity—constitutes one of the most persistent and widespread phenomena in the religious life of the [Malay](./malay.md) Peninsula. Documented primarily in the [Rembau](./rembau.md) district of the [Negeri Sembilan](./negeri-sembilan.md) region and in the Pengkalan Kempas area of the [Straits Settlements](./straits-settlements.md), the *keramat* tradition represents a syncretic belief system in which pre-Islamic animist survivals coexist with, and are often subordinated to, Islamic vocabulary and practice. The economic and social significance of these figures is considerable: they are invoked in agricultural rites, consulted in matters of illness, and their relics serve as objects of veneration that structure the ritual [calendar](./calendar.md) of entire communities. [[1, pp. 101–104]](#ref-1)
 
 ## Taxonomy and Genealogical Structure

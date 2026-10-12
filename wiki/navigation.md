@@ -14,8 +14,6 @@ type: concept
 generated: true
 ---
 
-# Navigation
-
 Navigation in the waters of the Malay Peninsula and the Straits of [Malacca](./melaka.md) was, by the fifteenth century, a mature and complex maritime practice sustained by multiple cultural [traditions](./traditions.md) operating in close proximity. Arab, Chinese, and [Malay](./malay.md) sailors maintained a continuous presence in these waters, their activities underpinning the commercial and political life of the region's principal ports. The period around 1500 represented a transitional phase in which established Arab trading dominance was being challenged by the arrival of [Chinese](./chinese.md) commercial [shipping](./shipping.md) on a significant scale, and shortly thereafter by the Portuguese, whose naval superiority disrupted the existing equilibrium [[1, pp. 1–82]](#ref-1). The practical techniques by which these mariners found their way across the Indian Ocean and through the straits have been the subject of considerable scholarly debate, particularly regarding the degree of sophistication that can legitimately be attributed to pre-modern navigators [[2, pp. 85–98]](#ref-2).
 
 ## Scope and Historical Definition

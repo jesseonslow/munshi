@@ -27,8 +27,6 @@ type: concept
 generated: true
 ---
 
-# Tin
-
 ## Tin
 
 Tin, in its ore form known as cassiterite (stannic oxide), is one of the most economically significant metals extracted from the Malay Peninsula, a region that by the late nineteenth century had become the world's leading producer of the metal. The peninsula's tin resources are concentrated in alluvial deposits formed by the gravitational sorting action of mountain streams over geological time, with the richest workings occurring in the granite-rich districts of [Perak](./perak.md), [Selangor](./selangor.md), and [Pahang](./pahang.md), as well as in the Siamese tributary states of [Kelantan](./kelantan.md) and the former [Patani](./patani.md) territory [[1, p. 230]](#ref-1). The metal's economic importance is underscored by production figures that, by the 1880s, placed the peninsula's output at over 24,000 tons annually—more than half the world's total [2, p. 199, n. 1]. Beyond its commercial value, tin has carried deep cultural and ritual significance in the [Malay](./malay.md) world, where specially shaped ingots served as sacred ceremonial objects rather than mere commodities [[2, p. 103]](#ref-2).

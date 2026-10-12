@@ -17,8 +17,6 @@ type: concept
 generated: true
 ---
 
-# Tagals
-
 The Tagals are an indigenous people of [Sarawak](./sarawak.md), North Borneo, whose customs, cosmogonic narratives, and material culture were documented in the early twentieth century by the ethnographer E. V. Andreini. Their distinctive social practices — including a spring-board dance, elaborate door ornamentation, and funerary rites involving [beads](./beads.md) and snake-guardians — mark them as a culturally distinct group within the broader Bornean landscape. Andreini's account, published in 1922, remains the principal ethnographic record of Tagal life, while later linguistic work by Rodney Needham in 1953 clarified the Tagals' position within Bornean ethnic classification, distinguishing them from the peoples of the middle-[Borneo](./borneo.md) group with whom they had long been conflated under the imprecise label "Murut" [[1]](#ref-1), [[2]](#ref-2).
 
 ## Scope and Historical Definition

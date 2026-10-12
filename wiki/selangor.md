@@ -56,8 +56,6 @@ type: concept
 generated: true
 ---
 
-# Selangor
-
 ## Scope and Historical Definition
 
 Selangor is a state on the west coast of the Malay Peninsula whose modern identity was forged in the nineteenth century through the convergence of tin mining, Chinese immigration, Malay royal politics, and British colonial administration. The territory's transformation from a [Bugis](./bugis.md) fief under nominal [Johor](./johor.md) suzerainty into a sovereign Malay sultanate, and thence into a British-administered state within the [Federated Malay States](./federated-malay-states.md), constitutes one of the most thoroughly documented political and economic narratives in the colonial [literature](./literature.md) of the [Malay](./malay.md) world. The state's economy was dominated by tin extraction from the mid-nineteenth century onward, with the Selangor River Valley, the Klang Valley, and the interior districts of [Ulu Selangor](./ulu-selangor.md) and Ulu Langat forming the principal mining and agricultural zones [[1, pp. 1–16]](#ref-1), [[2, pp. 83–98]](#ref-2). By the late nineteenth century, Selangor had become the most economically dynamic state on the peninsula, a status driven by the concentration of [Chinese](./chinese.md) mining capital, the construction of the [Klang](./klang.md)–Kuala Lumpur railway, and the emergence of [Kuala Lumpur](./kuala-lumpur.md) as a commercial centre [[1, pp. 89–99]](#ref-1), [[2, pp. 91–92]](#ref-2).

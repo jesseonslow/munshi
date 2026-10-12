@@ -89,8 +89,6 @@ type: concept
 generated: true
 ---
 
-# Melaka
-
 Melaka, situated at the narrowest point of the strait that bears its name on the western coast of the [Malay](./malay.md) Peninsula, has served for over six centuries as one of the most strategically significant entrepôt ports in maritime [Southeast Asia](./southeast-asia.md). Its position at the crossroads of the [China](./china.md)–[India](./india.md) trade route made it the natural focal point for the exchange of spices, textiles, tin, and precious metals between the eastern and western Indian Ocean worlds. From its emergence as a small fishing settlement in the early fifteenth century to its transformation under successive Portuguese, Dutch, and British administrations, Melaka has been the subject of sustained scholarly investigation, with the Society's journal publishing studies spanning Ming-dynasty [Chinese](./chinese.md) sources, Portuguese and Dutch archival records, and quantitative economic analyses that together constitute one of the most densely documented case studies in the history of the Straits region.
 
 ## The Melakan Sultanate: Origins and Economic Growth

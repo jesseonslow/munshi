@@ -24,8 +24,6 @@ type: place
 generated: true
 ---
 
-# Islands
-
 The islands of the [Malay](./malay.md) Archipelago—scattered across the Straits of [Malacca](./melaka.md), the Southern [China](./china.md) Sea, and the coasts of Johore, Pahang, [Perak](./perak.md), and [Sarawak](./sarawak.md)—constitute a geographically diverse and historically layered region whose individual groups have been documented in the Society's journals from the late nineteenth century through the mid-twentieth. The records span limestone karst archipelagos such as Langkawi, granitic island chains in the Riau-Lingga dependency, the Anambas, the Tambelans, and the smaller offshore groups of the [Johore](./johor.md) and [Pahang](./pahang.md) coasts, each presenting distinct ecological, faunistic, and administrative profiles. These islands served as nodes in maritime trade networks, as sites of colonial jurisdictional contestation between the Dutch and the British, and as laboratories for early biogeographical inquiry into the faunal boundaries of the region [[1]](#ref-1), [[2]](#ref-2), [[3]](#ref-3), [[4]](#ref-4), [[5]](#ref-5).
 
 ## Topography, Geology, and Faunistic Character

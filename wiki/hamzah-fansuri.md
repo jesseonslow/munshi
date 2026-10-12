@@ -15,8 +15,6 @@ type: concept
 generated: true
 ---
 
-# Hamzah Fansuri
-
 Hamzah Fansuri was a Sufi poet and mystic of the sixteenth century whose works constitute a foundational corpus of classical [Malay](./malay.md) Islamic [literature](./literature.md). His identity is inseparable from two places: Barus (Fansur), on the west coast of North [Sumatra](./sumatra.md), which he claims as his ancestral origin, and Shahr Nawi (Ayutthaya, Siam), which philological evidence increasingly points to as his actual birthplace [[1, pp. 42–43]](#ref-1). His [poetry](./poetry.md), preserved in several Leiden and [Jakarta](./jakarta.md) manuscripts, engages with Sufi cosmology, polemics against heterodox ritual, and the intricate literary conventions inherited from Persian and Arabic mystical [traditions](./traditions.md) [[2, pp. 73–98]](#ref-2). The question of his life and work has attracted sustained scholarly attention, with significant debates over his biography, the authenticity of his verses, and the interpretation of his most difficult passages [[1, pp. 42–51]](#ref-1), [[2, pp. 73–98]](#ref-2).
 
 ## Place of Birth and Ancestral Origin

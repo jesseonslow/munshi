@@ -14,8 +14,6 @@ type: concept
 generated: true
 ---
 
-# Heritage and conservation
-
 Heritage and conservation in Malaysia encompasses the preservation of historic buildings, cultural landscapes, and intangible traditions across the [Malay](./malay.md) Peninsula, a field shaped by decades of tension between rapid urban development and the desire to retain the built and natural [environment](./environment.md) that gives the country's cities their distinctive character. The movement gained momentum from the 1970s, when large-scale urban renewal projects in [Kuala Lumpur](./kuala-lumpur.md), [Penang](./penang.md), and [Melaka](./melaka.md) threatened pre-war shophouses, colonial-era structures, and sacred sites, prompting the emergence of non-governmental organizations (NGOs) that articulated an alternative model of development they termed 'sustainable development' [[1, pp. 51–52]](#ref-1). The economic and cultural significance of heritage conservation in [Malaysia](./malaysia.md) is inseparable from the tourism industry, the construction of national identity, and the protection of indigenous architectural [traditions](./traditions.md) that reflect the tropical climate and multicultural composition of the [population](./population.md) [[1, pp. 54]](#ref-1).
 
 ## Origins and the Idea of Sustainable Development

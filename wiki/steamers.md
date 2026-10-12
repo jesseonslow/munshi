@@ -18,8 +18,6 @@ type: concept
 generated: true
 ---
 
-# Steamers
-
 ## Scope and Historical Definition
 
 Steamers in the waters of the [Malay](./malay.md) Peninsula and [Borneo](./borneo.md) represent a critical chapter in the region's maritime history, marking the transition from sail-based trade to mechanised transport and reshaping the economic geography of South-east Asia. The earliest steam vessel to appear in Asian waters was the Nawab of Oude's steam yacht, a 19.2-ton craft built at Lucknow in 1819 with a single 8 h.p. Butterley engine, which was soon abandoned and left to ruin [[1, p. 127]](#ref-1). The first steamer to reach [Singapore](./singapore.md) waters was the paddle-steamer *Vander Capellen* (c. 230 tons), built at Sourabaya in 1825, which appeared in the port on 17–19 April 1827 and was chartered by the Dutch government at $10,000 per month during the [Java](./java.md) War [[1, pp. 131–133]](#ref-1). By the close of the 1830s, approximately fifty paddle-steamers had been employed across [India](./india.md) and south-east Asia, of which about thirty remained in active service by mid-1840 [[1, p. 161]](#ref-1). The period from 1819 to 1839 has been designated the "experimental era" of steam [navigation](./navigation.md) in the region, a phase characterised by the introduction of individual vessels rather than the establishment of regular lines [[1, p. 120]](#ref-1).

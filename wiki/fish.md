@@ -17,8 +17,6 @@ type: concept
 generated: true
 ---
 
-# Fish
-
 Fish constitute one of the most significant biological resources of the Malay Peninsula and the surrounding waters, spanning an estimated 2,000 species of which not less than 500 are of economic importance and approximately 250 are valuable marine food fishes [[1, p. 184]](#ref-1). The region's thousand miles of coastline between the Indian Ocean and the [China](./china.md) Sea, combined with extensive freshwater systems, support a fishery of considerable potential that, as of the early twentieth century, remained largely undeveloped due to the absence of cold storage, scientific research, and systematic management [[1, pp. 179]](#ref-1). Fish occupy a central place in the [Malay](./malay.md) diet, in local ecological relationships, and in the administrative concerns of colonial public health and economic development, as documented across more than four decades of the Society's [literature](./literature.md).
 
 ## Scope and Taxonomic Survey

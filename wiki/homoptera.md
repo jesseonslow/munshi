@@ -14,8 +14,6 @@ type: concept
 generated: true
 ---
 
-# Homoptera
-
 Homoptera, an order of insects encompassing treehoppers, planthoppers, and their allies, has attracted systematic attention in the [Malay](./malay.md) region primarily through the documentation of island endemism and the description of new species from poorly surveyed archipelagos. The most substantial body of work in the Society's [literature](./literature.md) concerns the [Mentawi Islands](./mentawi-islands.md), a group lying 90 to 130 kilometres off the west coast of [Sumatra](./sumatra.md), where coordinated expeditions in 1924 yielded material that demonstrated a high degree of faunal distinctiveness attributable to the [islands](./islands.md)' deep-water isolation from the Sunda shelf [[1, p. 393]](#ref-1). The order is represented in the records by two major taxonomic contributions: a brief note on Membracidae (treehoppers) by W. D. Funkhouser [[2]](#ref-2) and a more extensive account of Fulgoroidea (planthoppers) by [F. Muir](./f-muir.md) [[1]](#ref-1), both drawn from the same September to November 1924 expedition conducted under the auspices of the [Raffles](./stamford-raffles.md) Museum, [Singapore](./singapore.md), and the Zoological Museum at Buitenzorg [[1, p. 392]](#ref-1).
 
 ## Biogeographical Context and the Mentawi Expedition

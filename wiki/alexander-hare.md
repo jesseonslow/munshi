@@ -18,8 +18,6 @@ type: person
 generated: true
 ---
 
-# Alexander Hare
-
 Alexander Hare (c. 1780s–1832/33) was a London-born merchant who established himself at [Malacca](./melaka.md) by 1807, served as British Resident at Banjermassin in south-east [Borneo](./borneo.md) from 1812 to 1816, and subsequently founded a settlement on the [Cocos-Keeling Islands](./cocos-keeling-[islands](./islands.md).md) in the Indian Ocean between 1826 and 1831. His career intersected with [Sir Stamford Raffles](./stamford-raffles.md)'s early administration in the Straits, and his later life was marked by financial disgrace, expulsion from Dutch territory, and a bitter rivalry with the Shetland-born seaman [John Clunies Ross](./john-clunies-ross.md) over the governance of the Cocos-Keeling atoll. Hare's significance lies in the light his career casts on the commercial and administrative practices of the British [East India Company](./east-[india](./india.md)-company.md) in the early nineteenth century, and on the complex dynamics of British-Dutch competition in the region [[1, pp. 7–9]](#ref-1).
 
 ## Early Career and the Malacca Connection

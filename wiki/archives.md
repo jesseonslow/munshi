@@ -20,8 +20,6 @@ type: concept
 generated: true
 ---
 
-# Archives
-
 The archival heritage of the [Malay](./malay.md) Peninsula and [Borneo](./borneo.md) is a dispersed and often neglected corpus of primary sources, scattered across national archives in London, The Hague, Bangkok, and [Singapore](./singapore.md), as well as in university libraries and private collections. The records that survive—official correspondence, judicial proceedings, [shipping](./shipping.md) registers, personal diaries, and administrative papers—span from the mid-seventeenth century to the post-war period and collectively document the political, economic, and social life of the region under successive regimes of Dutch, British, and indigenous authority. Their significance lies not merely in their documentary value but in the fact that, as several scholars have demonstrated, they challenge long-standing assumptions about the nature of colonial rule, the vitality of indigenous economies, and the distribution of power among local rulers [[1, pp. 2–3]](#ref-1). The study of these archives has been a persistent concern of the scholarly community associated with the Straits and Malayan Branches of the Royal Asiatic Society, whose journals have published finding aids, edited extracts, and critical [surveys](./surveys.md) that have progressively opened up previously inaccessible material to researchers [[2]](#ref-2), [[3]](#ref-3), [[4]](#ref-4), [[1]](#ref-1).
 
 ## Scope and Chronological Coverage

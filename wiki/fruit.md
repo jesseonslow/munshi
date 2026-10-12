@@ -25,8 +25,6 @@ type: concept
 generated: true
 ---
 
-# Fruit
-
 Fruit in the [Straits Settlements](./straits-settlements.md) and the [Malay](./malay.md) Peninsula, as documented in the early [literature](./literature.md) of the [Straits Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md), encompasses a diverse range of botanical specimens spanning ornamental, endemic, and economically significant species. The records reveal that fruit attracted scholarly attention from multiple angles: as objects of horticultural curiosity, as subjects of evolutionary and ecological study, and as commodities vulnerable to pest infestation. The three principal documents in the Society's archive address the [flowering banana](./flowering-banana.md) (*Musa coccinea*), the wind-dispersed fruit of the [Borneo](./borneo.md)-endemic genus *Burbidgea*, and the destructive pomeloe moth of [Perak](./perak.md), collectively illustrating the breadth of fruit-related inquiry from the 1880s through the early twentieth century.
 
 ## Members & Sub-Topics

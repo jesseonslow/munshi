@@ -37,8 +37,6 @@ type: concept
 generated: true
 ---
 
-# Menangkabau
-
 The Minangkabau are a matrilineal people originating in the highlands of West [Sumatra](./sumatra.md) whose settlers established a distinctive socio-political and cultural system in the Malay Peninsula, most notably in the confederacy known as Negri Sembilan (the Nine States). Their presence in the Peninsula is documented from at least the fifteenth century, and their matrilineal constitution—characterised by tribal exogamy, female [inheritance](./inheritance.md) of ancestral property, and a graded hierarchy of elective offices—constitutes one of the most elaborate customary legal systems in the [Malay](./malay.md) world [[1, pp. 42–44]](#ref-1). Beyond [Negri Sembilan](./negeri-sembilan.md), Minangkabau legal and cultural influence extended into [Perak](./perak.md), where a patriarchal sultanate adapted elements of their criminal and civil law [[2]](#ref-2), and into the broader political dynamics of the Straits of [Malacca](./melaka.md), where Minangkabau forces played a decisive role in the 1718 conquest of [Johor](./johor.md) [[3]](#ref-3). The cultural continuum from the Sumatran highlands to the Peninsular settlements has persisted through centuries of migration, producing enduring [traditions](./traditions.md) in [music](./music.md), ritual, and customary governance [[4]](#ref-4).
 
 ## Historical Origins and Migration

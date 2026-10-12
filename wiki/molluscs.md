@@ -15,8 +15,6 @@ type: concept
 generated: true
 ---
 
-# Molluscs
-
 Molluscs constitute a diverse and ecologically significant component of the Malayan fauna, encompassing both marine and terrestrial assemblages that have attracted sustained taxonomic attention from the early twentieth century onward. The Society's journal [literature](./literature.md) documents this group through two complementary strands: a vernacular nomenclature study that records the Malay-language names applied to marine species encountered in [Singapore](./singapore.md), and a systematic checklist of the land and fresh-water molluscs of the [Malay](./malay.md) Peninsula that addresses the Pulmonata in particular. Together these contributions reveal a fauna that is, in the terrestrial realm, comparatively impoverished relative to neighbouring [islands](./islands.md), yet one that [harbours](./harbours.md) cave-adapted specialists, apparently endemic genera, and the consequences of human-mediated introductions [[1]](#ref-1), [[2]](#ref-2).
 
 ## Vernacular Nomenclature and Marine Molluscs

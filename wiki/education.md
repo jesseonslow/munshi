@@ -25,8 +25,6 @@ type: concept
 generated: true
 ---
 
-# Education
-
 Education in the Malay Peninsula and [Borneo](./borneo.md) developed along deeply uneven lines, shaped by colonial administrative priorities, the economic imperatives of the tin and rubber industries, and the competing claims of multiple linguistic and ethnic communities. From the earliest attempts to train local medical apprentices in [Penang](./penang.md) in the 1820s to the politically fraught debates over language policy on the eve of Malayan independence in the 1950s, the history of education in the region is characterised by a persistent tension between the colonial state's desire for a unified, efficient system and the structural realities of a plural society in which [Chinese](./chinese.md), [Malay](./malay.md), and Indian communities maintained distinct vernacular schooling [traditions](./traditions.md). The records examined here span the [Straits Settlements](./straits-settlements.md), the [Federated Malay States](./federated-malay-states.md), [Sarawak](./sarawak.md), and [Singapore](./singapore.md), and reveal that educational policy was never a purely pedagogical matter but was inextricable from questions of citizenship, economic mobility, racial representation, and national identity.
 
 ## Colonial Foundations and the Subordinate Medical Establishment

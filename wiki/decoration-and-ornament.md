@@ -14,8 +14,6 @@ type: concept
 generated: true
 ---
 
-# Decoration and ornament
-
 ) - [Gold and Indian influences in West Borneo](./gold-and-indian-influences-in-west-borneo.md) - extensive coverage of gold ornaments, rings, [beads](./beads.md), ear ornaments, nose ornaments, coat fasteners, cap badges, chains, and their distribution, origins, and cultural context.
 
 [[1]](#ref-1) McKinnon (1980) - A gold *tāli* from Kota Cina - a South Indian married-women's pendant, imitation of a Fatimid/Ayyubid gold dinar.

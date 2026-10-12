@@ -63,8 +63,6 @@ type: concept
 generated: true
 ---
 
-# Botany
-
 Botanical investigation of the [Malay](./malay.md) Peninsula, Borneo, and the surrounding islands constitutes one of the most sustained and methodologically diverse strands of [natural history](./natural-history.md) scholarship published in the Society's journals from the late nineteenth century through the 1920s. The work spans taxonomic enumeration, biogeographical synthesis, ecological observation, and economic botany, and is characterised by a recurring concern with the delimitation of floristic boundaries—between [Malaya](./malaya.md) and [Siam](./thailand.md), between the Peninsula and the [islands](./islands.md), and between lowland and montane zones. The principal figures are [H. N. Ridley](./henry-nicholas-ridley.md), Director of the [Singapore](./singapore.md) Botanic Gardens, whose field reports and floristic [surveys](./surveys.md) dominate the record, and E. D. Merrill, whose herbarium-based contributions extended the taxonomic knowledge of [Borneo](./borneo.md). Together, these studies established the foundational framework for understanding the region's plant diversity, its geological and climatic determinants, and its economic potential.
 
 ## Members & Sub-Topics

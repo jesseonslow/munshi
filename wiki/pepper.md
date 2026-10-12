@@ -14,8 +14,6 @@ type: concept
 generated: true
 ---
 
-# Pepper
-
 ## Scope and Historical Definition
 
 Black pepper (*Piper nigrum*) was one of the principal export crops of southern [Malaya](./malaya.md) throughout the nineteenth century, cultivated in close association with gambier on plantations in [Singapore](./singapore.md) and [Johore](./johor.md). The two crops were not interplanted but allocated to separate parts of the same holding, and their management was interlocked: the almost continuous collecting of gambier foliage could be integrated with the highly seasonal cycle of pepper production, ensuring year-round employment for the [labour](./labour.md) force required to tend the vines [[1, pp. 79–80]](#ref-1). As a general rule, pepper occupied one acre for every ten acres of [gambier](./gambier.md) [[1, p. 80]](#ref-1). The vines took approximately three years to reach maturity, after which they produced two crops annually, in December–January and in July–August [1, p. 80, n. 11]. Pepper vines passed their peak of production in their fifteenth or twentieth years [[1, p. 81]](#ref-1).

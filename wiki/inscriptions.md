@@ -51,8 +51,6 @@ type: concept
 generated: true
 ---
 
-# Inscriptions
-
 Inscriptions constitute one of the most significant categories of primary evidence for the early history of the Malay Peninsula and [Borneo](./borneo.md), spanning from the fourth century A.D. to the early eighteenth century and encompassing Sanskrit, [Malay](./malay.md), Arabic, [Bugis](./bugis.md), Dutch, Portuguese, and English texts carved in stone, clay, and metal. The corpus, though small in absolute numbers, extends across [Kedah](./kedah.md), [Province Wellesley](./province-wellesley.md) (modern Perak), [Trengganu](./terengganu.md), [Singapore](./singapore.md), [Malacca](./melaka.md), [Brunei](./brunei.md), and the island of Bangka, and it documents the arrival of Buddhism, Hinduism, and [Islam](./islam.md); the operation of maritime trade networks linking the region to South [India](./india.md), [Java](./java.md), and [China](./china.md); the evolution of indigenous legal [traditions](./traditions.md); and the administrative and social life of [European](./european.md) colonial settlements [[1]](#ref-1), [[2]](#ref-2), [[3]](#ref-3), [[4]](#ref-4). The physical fragility of many of these monuments—several are fragmentary, weathered, or lost—has made their scholarly documentation a matter of urgency from the earliest decades of the Society's journal [[3]](#ref-3), [[5]](#ref-5).
 
 ## Scope and Historical Definition

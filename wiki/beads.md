@@ -17,8 +17,6 @@ type: concept
 generated: true
 ---
 
-# Beads
-
 ): Define beads as a subject, their regional prevalence across the [Malay](./malay.md) Peninsula and [Borneo](./borneo.md), and their economic, cultural, or archaeological significance.
 
 2. **Thematic Body** (2-4 subheadings using `###`):

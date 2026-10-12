@@ -20,8 +20,6 @@ type: concept
 generated: true
 ---
 
-# Hospitals
-
 The hospital as an institution in the [Straits Settlements](./straits-settlements.md) and the [Malay](./malay.md) Peninsula emerged not as a single, coherent policy but as a patchwork of private philanthropy, colonial fiscal compromise, and community self-help, with Singapore's Tan Tock Seng Hospital standing as the most thoroughly documented example of this complex genesis. The records available in the Society's journals concentrate almost exclusively on [Singapore](./singapore.md), with the hospital's history serving as a lens through which broader questions of colonial governance, Chinese community organisation, and the limits of state welfare provision in the early nineteenth century can be examined. The evidence spans from the first makeshift pauper shed of 1821 to the completion of new Government-built premises on Moulmein Road in 1909, revealing an institution whose origins were shaped by a persistent tension between colonial fiscal conservatism and the humanitarian crisis created by mass [Chinese](./chinese.md) immigration [[1, p. 79]](#ref-1).
 
 ## Institutional Origins and the Pauper Hospital

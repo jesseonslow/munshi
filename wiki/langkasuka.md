@@ -17,8 +17,6 @@ type: concept
 generated: true
 ---
 
-# Langkasuka
-
 Langkasuka was an ancient kingdom centred at the base of Kedah Peak in the northern [Malay](./malay.md) Peninsula, known to [Chinese](./chinese.md), Indian, and Javanese sources from at least the first century A.D. through the fourteenth, and whose name has been the subject of sustained scholarly debate regarding its etymological origin and cultural affiliation. The kingdom's capital, situated in the locality of the Sungei Bujang, developed from an early Indian settlement into a polity of considerable regional significance, with ramifications extending beyond the borders of the modern State of [Kedah](./kedah.md) [[1, pp. 119–120]](#ref-1). Its identity, chronology, and relationship to the broader cultural spheres of Dvaravati and Srivijaya have been investigated through textual, epigraphical, and archaeological evidence, yielding a picture of a polity that evolved through distinct phases of Indianisation before its eventual destruction in the late fourteenth century [[1, p. 121]](#ref-1), [[2, pp. 13–40]](#ref-2).
 
 ## Scope and Historical Definition

@@ -16,8 +16,6 @@ type: concept
 generated: true
 ---
 
-# Lizards
-
 Lizards constitute a diverse and widespread group of [reptiles](./reptiles.md) across the [Malay](./malay.md) Peninsula and [Borneo](./borneo.md), encompassing arboreal, terrestrial, and semi-aquatic forms that have attracted sustained scientific attention since the earliest decades of colonial natural history in the region. The [literature](./literature.md) preserved in the Society's journals documents species ranging from the small arboreal *Aphaniotis fusca* to the gliding *Draco* lizards, from introduced Australian skinks to newly described ground-geckos, reflecting both the taxonomic richness of the fauna and the evolving methodological approaches of the naturalists who studied it. The records span nearly five decades, from brief field observations in the 1880s to detailed morphological monographs in the 1920s, and collectively reveal a discipline in transition from descriptive [natural history](./natural-history.md) towards systematic, measurement-based taxonomy.
 
 ## Taxonomic Documentation and Morphological Description

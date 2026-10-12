@@ -20,8 +20,6 @@ type: concept
 generated: true
 ---
 
-# Muruts
-
 The Murut are a collective designation for a number of ethnically and linguistically distinct highland and interior peoples of [Sabah](./sabah.md), Malaysian [Borneo](./borneo.md), whose populations have been documented through colonial censuses, linguistic [surveys](./surveys.md), and ethnographic fieldwork spanning more than a century. The term, an exonym applied by [Brunei](./brunei.md) [Malay](./malay.md) and other coastal peoples to the inhabitants of the hills and interior, has long been criticised for its imprecision, encompassing groups that differ substantially in language, subsistence pattern, and cultural practice [[1, p. 343]](#ref-1). The Murut Problem—the apparent demographic collapse recorded between the 1921 and 1951 censures—has been the subject of sustained scholarly debate, while the people's material culture, kinship systems, healing ceremonies, and non-literal communication practices have attracted separate strands of ethnographic attention [[2, pp. 109–111]](#ref-2).
 
 ## Scope and Historical Definition

@@ -14,8 +14,6 @@ type: concept
 generated: true
 ---
 
-# Begonias
-
 ## Taxonomic Scope and Morphological Diversity
 
 The genus *Begonia* in the [Malay](./malay.md) Peninsula and [Borneo](./borneo.md) presents a flora of considerable taxonomic complexity, characterised by a wide range of growth forms, substrate specialisations, and morphological variability that has challenged systematic delimitation since the earliest botanical [surveys](./surveys.md). [H. N. Ridley](./henry-nicholas-ridley.md), Director of the [Singapore](./singapore.md) Botanic Gardens, addressed this challenge directly in his 1906 treatment of Bornean species, which described sixteen new taxa and revised several previously known ones, extending the documented range of the genus in the island from a handful of described species to over twenty [[1]](#ref-1). Ridley's central concern was the floristic poverty of the existing [literature](./literature.md) relative to the actual diversity present in the field, a gap he sought to close through formal species descriptions accompanied by a diagnostic key sorting the twenty-one species into three sections: *Petermannia* (tall-stemmed, three-winged capsules), *Bractibegonia* (short-stemmed or rhizomatous, often with prominent bracts), and *Platycentrum* (epiphytic, with a single large capsule wing) [[1, pp. 247–249]](#ref-1).

@@ -14,8 +14,6 @@ type: concept
 generated: true
 ---
 
-# Malays abroad
-
 Malays Abroad
 
 The presence of Malay-speaking communities beyond the conventional boundaries of the Malay Peninsula and the Indonesian archipelago constitutes a significant but historically under-documented dimension of the Malay World. From the early seventeenth century, the Dutch colonial administration introduced Malay and other Indonesian groups to Sri Lanka as political exiles, company servants, and soldiers, establishing a community whose literary and cultural output has only recently been recognised as part of the broader Malay literary tradition [[1, pp. 103–104]](#ref-1). In the Indochinese Peninsula, a man of Malay origin known as Tuen Phaow operated as a [military](./military.md) and political figure between 1786 and 1820, attested in Vietnamese, Cam, and Khmer sources, exemplifying the mobility and political opportunism characteristic of precolonial mainland Southeast Asian politics [[2, p. 1]](#ref-2), [[3, p. 44]](#ref-3). These cases, together with the wider pattern of Malay settlement in [Sri Lanka](./sri-lanka.md), demonstrate that the [Malay](./malay.md) World extended well beyond its physical periphery, sustained by linguistic, religious, and cultural ties that persisted across considerable distances.

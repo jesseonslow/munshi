@@ -14,8 +14,6 @@ type: concept
 generated: true
 ---
 
-# Rhinoceros
-
 ## The Javan Rhinoceros in the Malay World
 
 The Javan or lesser one-horned rhinoceros (*Rhinoceros sondaicus*) was, until the early twentieth century, a resident of the dense forests of the Malay Peninsula, [Borneo](./borneo.md), [Sumatra](./sumatra.md), [Java](./java.md), and the Indochinese mainland, where it occupied a position of considerable economic and cultural significance. Known to the Malays as the *badak raya*, *badak gajah*, or *badak sumbu*—terms distinguishing it from the two-horned *badak kerbau* or *badak himpit*—the species was the object of a continuous trade in horns between [Malay](./malay.md) communities and [Chinese](./chinese.md) merchants, and its capture and killing were matters of local legend and superstition as much as of [commerce](./commerce.md) [[1, pp. 133]](#ref-1). By 1937, when C. W. Loch published his comprehensive survey in the *[Journal of the Malayan Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)*, fewer than seventy individuals were believed to survive across the entire range, and the species stood on the verge of extinction [[1, p. 144]](#ref-1).

@@ -14,8 +14,6 @@ type: concept
 generated: true
 ---
 
-# Thomas Forrest
-
 Thomas Forrest (c. 1729–c. 1804) was a versatile mariner in the Marine of the [East India Company](./east-india-company.md) who served in Southeast Asian waters for over thirty years during the mid-eighteenth century. His career encompassed command of Company vessels, private trading, diplomatic missions, and strategic [surveys](./surveys.md) of the Strait of [Malacca](./melaka.md), the Mergui Archipelago, and the waters east of [Java](./java.md) and [Borneo](./borneo.md). Although his own publications brought him some contemporary fame, his strategic contributions to British policy—particularly his advocacy for [Penang](./penang.md) and the Mergui Archipelago as bases for the Company—have been historically overshadowed by the better-known efforts of [Francis Light](./francis-light.md).[[1, pp. 106]](#ref-1)
 
 ## Early Career and the Bencoolen Establishment

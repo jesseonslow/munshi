@@ -14,8 +14,6 @@ type: concept
 generated: true
 ---
 
-# Kuching
-
 Kuching, the capital of [Sarawak](./sarawak.md) on the northwest coast of [Borneo](./borneo.md), was founded in the early nineteenth century as a small administrative centre for antimony mining under [Brunei](./brunei.md) suzerainty and transformed within two decades into a multi-ethnic trading port under the Brooke Rajahs. The urban patterns, ethnic residential segregation, and institutional structures established during the formative period of 1841 to 1857 proved remarkably durable, shaping the city's character well into the twentieth century [[1, pp. 107–126]](#ref-1).
 
 ## Origins and Founding

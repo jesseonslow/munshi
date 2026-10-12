@@ -14,8 +14,6 @@ type: concept
 generated: true
 ---
 
-# Royal Batavia Society of Arts and Letters
-
 ## The Royal Batavian Society of Arts and Letters
 
 The Royal Batavian Society of Arts and Sciences (*Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen*), founded in 1778, stands as the senior European learned society in Asia, predating the Asiatic Society of Bengal by six years [[1, p. 82]](#ref-1). Established in [Batavia](./jakarta.md), the administrative capital of the [Dutch East Indies](./netherlands-east-indies.md), the Society occupied a distinctive position at the intersection of [European](./european.md) intellectual culture and the colonial administration of the Indonesian archipelago. Its history is inextricably linked to the British occupation of [Java](./java.md) (1811–1816), during which Sir Thomas Stamford Raffles served as its President and revitalised the institution from a state of near-extinction [[2, pp. 289–290]](#ref-2). The Society's long-standing relationship with British [Malaya](./malaya.md), mediated through [Raffles](./stamford-raffles.md) and subsequent scholarly exchanges, made it a recurring subject of attention in the [literature](./literature.md) of the [Malayan Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md), particularly during the 1920s and 1930s.

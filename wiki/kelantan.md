@@ -54,8 +54,6 @@ type: concept
 generated: true
 ---
 
-# Kelantan
-
 Kelantan is the most northern Malay state on the east coast of the [Malay](./malay.md) Peninsula, situated between latitudes 4°35′ and 6°15′ north and longitudes 101°22′ and 102°33′ east, bounded to the west by a range of jungle-clad [mountains](./mountains.md) up to 6,500 feet high, to the south by the [Pahang](./pahang.md) boundary at Gunong Tahan (7,186 feet), the loftiest summit in [Malaya](./malaya.md), to the east by a mountain range dividing it from Trengganu, and to the north-west by the Golok River, which forms the boundary with Patani [[1, p. 44]](#ref-1). The state's isolation landwards from the rest of the Peninsula meant that events in neighbouring regions left Kelantan more or less unconcerned for much of its history, and it passed through the centuries alongside its neighbours to the north-west—[Patani](./patani.md), Rahman, Sai, and Legeh—and with [Trengganu](./terengganu.md) to the east, at times under the Siamese yoke [[1, p. 44]](#ref-1). The state's economic significance has been shaped by its gold-bearing river systems, its position on ancient maritime trade routes connecting the east coast to the Gulf of [Siam](./thailand.md) and beyond, and, in the modern period, by the agricultural and mining concessions that defined its colonial administrative history [[2, pp. 27–28]](#ref-2), [[3, pp. 166–167]](#ref-3).
 
 ## Ancient Origins and the Question of Antiquity

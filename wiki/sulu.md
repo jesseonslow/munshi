@@ -24,8 +24,6 @@ type: concept
 generated: true
 ---
 
-# Sulu
-
 The Sulu Sultanate was a maritime trading state centred on the archipelago of Sulu in the Sulu Sea, whose sphere of economic and political influence extended across the eastern [Philippines](./philippines.md), the northern coast of Borneo, and the western approaches to the Indonesian archipelago. From the late eighteenth century onward, the sultanate functioned as a redistributive centre for marine and forest products—particularly tripang (sea cucumber) and mother-of-pearl shell—destined for [Chinese](./chinese.md) markets, while its expansion was driven by the institution of slave raiding and cross-cultural [commerce](./commerce.md) rather than by the decline or barbarism that earlier [European](./european.md) historiography had assumed [[1, pp. 21–22]](#ref-1). The sultanate's political territory was ambiguous and contested: Spain claimed protectorate status over the archipelago, Britain held a cession of Sulu's claims in northern [Borneo](./borneo.md) dating from 1764, and the Sultan of [Brunei](./brunei.md) asserted overlapping rights to the same coastal territories [[2, pp. 259–260]](#ref-2). The Sulu Zone, as Warren has termed it, was a borderless region of economic influence stretching between [China](./china.md), [Singapore](./singapore.md), and the eastern Indonesian archipelago, in which the Taosug, Balangingi Samal, Samal [Bajau](./bajau.md) Laut, Iranun, and Magindanao participated as agents of a dynamic regional political economy [[1, p. 22]](#ref-1).
 
 ## Political Institutions and the Question of Sovereignty

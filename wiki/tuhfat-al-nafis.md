@@ -24,8 +24,6 @@ type: concept
 generated: true
 ---
 
-# Tuhfat al-Nafis
-
 The *Tuhfat al-Nafis* is a Malay chronicle composed in the mid-1860s by Raja ‘Ali al-Haji of Riau, providing a continuous political history of the Malay Archipelago from the late seventeenth to the mid-nineteenth century. The text traces the transition from the [Johore](./johor.md) Sultanate to the Riau-Lingga Sultanate, documenting the complex interplay between Malay aristocracy, [Bugis](./bugis.md) [military](./military.md) power, and [European](./european.md) colonial intervention across the Riau-Lingga archipelago, the Straits of [Malacca](./melaka.md), and the western coast of [Sumatra](./sumatra.md) [[1, pp. 285–286]](#ref-1). Its significance lies not merely in its chronological scope but in the distinctive political philosophy it articulates, its precise genealogical registration, and its role as a principal source for eighteenth-century [Malay](./malay.md) political history in the absence of indigenous chronicles from several key polities [[2, p. 80]](#ref-2), [[3, p. 64]](#ref-3).
 
 ## Scope, Authorship, and Manuscript Tradition

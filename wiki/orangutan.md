@@ -15,8 +15,6 @@ type: concept
 generated: true
 ---
 
-# Orangutan
-
 The orangutan, historically recorded in the scientific literature under the genus name *Mias*, is a great ape native to the forests of [Borneo](./borneo.md) and the [Malay](./malay.md) Peninsula. In the archival record of the Society's journals, the animal appears primarily through the lens of [natural history](./natural-history.md) observation—specimen measurement, behavioural notes on captive individuals, and, in more recent decades, critical [ethnography](./ethnography.md) of rehabilitation programmes in [Sarawak](./sarawak.md). The [literature](./literature.md) spans from the late nineteenth century to the present, reflecting a shift from taxonomic and morphological documentation toward questions of power, ecology, and interspecies ethics.
 
 ## Morphology and Physical Description

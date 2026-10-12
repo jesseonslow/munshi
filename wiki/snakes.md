@@ -21,8 +21,6 @@ type: concept
 generated: true
 ---
 
-# Snakes
-
 Snakes have attracted sustained attention in the [natural history](./natural-history.md) [literature](./literature.md) of the [Malay](./malay.md) Peninsula and [Borneo](./borneo.md), from the earliest volumes of the [Straits Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md) through the mid-twentieth century. The records span a range of species and phenomena: the capture of exceptionally large pythons, the documentation of cave-adapted colour morphs, the observation of unusual nesting behaviour, and the taxonomic description of rare specimens. Together they reveal a scholarly tradition in which individual field observations, however brief, were considered worthy of publication when they extended known ranges, corrected common misidentifications, or revealed adaptive features of zoological interest.
 
 ## Notable Specimens and Records of Size

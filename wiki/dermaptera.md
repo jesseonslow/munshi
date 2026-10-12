@@ -14,8 +14,6 @@ type: concept
 generated: true
 ---
 
-# Dermaptera
-
 The available record on Dermaptera (earwigs) in the Society's [literature](./literature.md) is limited to a single taxonomic account of the Mentawai [Islands](./islands.md), off the west coast of Sumatra, and the following synthesis is confined to that evidence. Borelli's 1926 paper documents 22 species collected during a September–November 1924 expedition to Siberut and Sipora, two of them new to [science](./science.md), and uses the assemblage to argue that the Mentawai Group constitutes a zoologically distinct entity separated from [Sumatra](./sumatra.md) by deep-water basins rather than the shallow Sunda shelf [[1, pp. 384–391]](#ref-1).
 
 ## Biogeographical Context

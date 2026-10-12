@@ -18,8 +18,6 @@ type: concept
 generated: true
 ---
 
-# Illanuns
-
 The Illanun (also rendered Iranun) are a Muslim maritime and agricultural people whose historical presence spans the Sulu–Mindanao region of the southern [Philippines](./philippines.md), the coast of Borneo, and the Straits of [Malacca](./melaka.md). Their significance in the historical record is twofold: as the principal mobile [military](./military.md) force of the [Sulu](./sulu.md) sultanate's redistributive economy during the late eighteenth and nineteenth centuries, and as a settled peasant community in North [Borneo](./borneo.md) by the mid-twentieth century. The two facets of this history—the raiding and the farming—have been separated in the [literature](./literature.md) by a century of colonial conquest, administrative reclassification, and the deliberate construction of a "savage" stereotype that served imperial interests [[1, pp. 43–69]](#ref-1).
 
 ## Origins, Migration, and Social Structure

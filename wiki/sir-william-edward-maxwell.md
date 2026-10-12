@@ -18,8 +18,6 @@ type: person
 generated: true
 ---
 
-# Sir William Edward Maxwell
-
 ## Early Life and Administrative Career
 
 Sir William Edward Maxwell (1846–1897) was a Straits Settlements administrator who, in the absence of any professional academic establishment in Malaya, became the pioneering figure in the systematic study of [Malay](./malay.md) society, language, and history during the 1870s and 1880s.[[1]](#ref-1) Born on 5 August 1846, the younger son of [Sir Peter Benson Maxwell](./sir-peter-benson-maxwell.md), the first Chief Justice of the [Straits Settlements](./straits-settlements.md), he was educated at Repton School in Derbyshire and left in April 1864, more than a year before his arrival in Malaya.[[1]](#ref-1) He was only 18 when he first arrived in [Malaya](./malaya.md) in 1865, beginning his career as clerk to his father, then Recorder of [Penang](./penang.md), before obtaining a judicial appointment and, from 1869, serving as a magistrate in all three Settlements.[[1]](#ref-1) By 1874, having qualified by examination for admission to the local Bar, he was acting as a High Court judge, though he had already shown an aptitude for administrative work, acting as Lieutenant Governor of [Melaka](./melaka.md) in 1870 at the age of 24.[[1]](#ref-1)

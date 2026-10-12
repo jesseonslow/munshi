@@ -99,8 +99,6 @@ type: concept
 generated: true
 ---
 
-# Malaya
-
 Malaya, as a term encompassing the Malay Peninsula and the Malay-speaking regions of [Borneo](./borneo.md), has been the subject of sustained scholarly investigation across [cartography](./cartography.md), history, geography, [economics](./economics.md), and political administration. The region's significance lies in its position as a node of maritime and overland trade linking the Indian Ocean to the South [China](./china.md) Sea, its extraordinary mineral wealth—particularly tin and gold—and the complex interplay of [Malay](./malay.md), [Chinese](./chinese.md), Indian, and [European](./european.md) political forces that shaped its modern constitution. The archival record demonstrates that Malaya was understood by successive generations of scholars not as a single entity but as a mosaic of states, river valleys, and commercial networks whose internal diversity resisted easy generalisation.
 
 ## Scope and Historical Definition
@@ -140,10 +138,6 @@ The inter-war period saw the emergence of more specialised and methodologically 
 The post-war and late-twentieth-century literature is characterised by a turn towards historiographical self-reflection and political analysis. Gullick's 1998 survey traces the evolution of Malayan historical writing and engages directly with Milner's critique of "colonial records history," acknowledging its inherent bias while defending the necessity of using official sources [[2, pp. 95–96]](#ref-2). Loh Fook-Seng's 1972 article foregrounds the internal British administrative conflict as the engine of constitutional change, rather than treating Malay Ruler resistance as the primary explanatory variable [[10, pp. 29–50]](#ref-10). Miller's 2011 study shifts analytical focus from East India Company institutional actors to the private merchant mariner as an agent of British knowledge production and political influence [[7, pp. 23–45]](#ref-7). Mahmud's 1970 study of traditional settlement challenges the then-prevailing narrative that treated the pre-Melaka centuries as a cultural void, demonstrating instead a period of active and continuous development [[9, pp. 81–112]](#ref-9).
 
 The cumulative effect of these contributions is a body of literature that has progressively moved from descriptive survey to analytical interpretation, from a single-centre narrative focused on Malacca to a multi-regional understanding of the peninsula's internal diversity, and from the colonial administrator's justificatory account to a critical historiography that interrogates the sources, biases, and silences of the archive itself.
-
-## Maps
-
-## Japanese invasion and occupation
 
 ## MBRAS Sources
 

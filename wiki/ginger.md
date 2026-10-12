@@ -14,8 +14,6 @@ type: concept
 generated: true
 ---
 
-# Ginger
-
 The ginger order (Scitamineae) constitutes one of the most botanically significant plant groups of the [Malay](./malay.md) Peninsula and [Borneo](./borneo.md), encompassing five families—Zingiberaceae, Marantaceae, Cannaceae, Lowiaceae, and Musaceae—whose members range from the familiar cultivated spice [plants](./plants.md) to a vast array of wild forest species [[1, p. 85]](#ref-1). The group is characterised by aromatic rhizomes, fugious [flowers](./flowers.md) of considerable structural complexity, and a close association with both human subsistence and the ecology of dense tropical woodland [[1, pp. 85–87]](#ref-1). Ridley, writing as Director of the [Singapore](./singapore.md) Botanic Gardens, observed that the traveller in the forests of the Peninsula could hardly fail to notice the beauty of many of the wild gingers, yet would be surprised to find how much this interesting group had been neglected by [botanists](./botanists-and-botanical-gardens.md) [[1, p. 85]](#ref-1). The economic and cultural significance of the order extends from the cultivation of ginger, turmeric, and galangal as spices, to the use of wild species in native [medicine](./medicine.md), to the exploitation of leaf fibres and stems for basket-making and paper production [[1, p. 87]](#ref-1).
 
 ## Taxonomic Scope and Systematic Treatment

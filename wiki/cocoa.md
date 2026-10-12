@@ -18,8 +18,6 @@ type: concept
 generated: true
 ---
 
-# Cocoa
-
 Cocoa (*Theobroma cacao*), an indigenous crop of South and Central America, was introduced to the [Malay](./malay.md) Peninsula by the Dutch in the eighteenth century and has since become a significant component of Malaysia's agricultural economy. By the mid-1990s, [Malaysia](./malaysia.md) had risen to become the world's third-largest cocoa producer, after the Ivory Coast and Brazil, a position achieved not through spontaneous market forces but through deliberate state intervention spanning colonial and post-independence periods. [[1, pp. 67–68]](#ref-1)
 
 ## Colonial Origins and Experimental Cultivation

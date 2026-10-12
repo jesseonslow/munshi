@@ -34,8 +34,6 @@ type: concept
 generated: true
 ---
 
-# Philippines
-
 The Philippines, as documented in the Society's journal [literature](./literature.md), appears not as a unified political entity but as a constellation of maritime spaces, diplomatic flashpoints, and commercial corridors that intersected with British, Spanish, Dutch, and [Malay](./malay.md)-world interests across the nineteenth and twentieth centuries. The archipelago's strategic position as a gateway between the Pacific and the [China](./china.md) Seas, combined with the ambiguous sovereignty of the Sulu Sultanate over portions of Mindanao and the northern [Borneo](./borneo.md) coast, made it a persistent subject of hydrographic, diplomatic, and legal inquiry for scholars and officials whose work found publication in the Society's pages [[1, pp. 92–136]](#ref-1), [[2, pp. 258–273]](#ref-2). The records span from the earliest English surveying of the [Sulu](./sulu.md) waters in the 1760s through the territorial disputes of the 1960s, revealing a continuous thread of engagement with the archipelago's peripheries rather than its interior [[3, p. 184]](#ref-3), [[1, pp. 92–136]](#ref-1), [[2, pp. 258–273]](#ref-2), [[4, pp. 161–170]](#ref-4).
 
 ## Maritime Survey and the Sulu Waters

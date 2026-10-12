@@ -21,8 +21,6 @@ type: concept
 generated: true
 ---
 
-# Weavers
-
 ## The Handloom Weavers of the Malay Peninsula
 
 The handloom weaving industry of the [Malay](./malay.md) Peninsula, concentrated on the east coast in [Trengganu](./terengganu.md) and [Kelantan](./kelantan.md) with a smaller presence in [Pahang](./pahang.md), constitutes the largest surviving cottage industry in the Federation of [Malaya](./malaya.md). At its peak in the late 1950s, the industry employed 4,209 weavers—every one of them a woman—operating 3,886 looms to produce an estimated 223,760 yards of cloth valued at approximately $1,564,000 in 1957 [[1, pp. 14]](#ref-1). The principal product is the *kain sarong*, a piece of cloth approximately forty-two inches in width and two yards in circumference, worn wrapped around the waist, with the most prestigious variant being the *kain songket*, woven from [Chinese](./chinese.md) spun silk yarn with patterns and borders worked in gold or [silver](./silver.md) thread [[1, pp. 5–6]](#ref-1). The industry's origins are not indigenous in the sense of being an agricultural by-product; rather, they derive from the Peninsula's strategic position along maritime trade routes linking [China](./china.md), [India](./india.md), and the West, where imported raw materials met local weaving skills, royal patronage, and concentrated populations to generate a commercial textile industry [[2, p. 91]](#ref-2).

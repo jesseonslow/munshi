@@ -17,8 +17,6 @@ type: concept
 generated: true
 ---
 
-# Laos
-
 ## Scope and Historical Definition
 
 The term *Laos* in the late nineteenth-century Siamese context referred not to a unified political entity but to a loosely defined frontier interior stretching from the upper Chao Phraya basin north-eastward to the Mekong tributaries, inhabited by Laotian-speaking populations under Siamese suzerainty. The most detailed surviving account of this region in the Society's [literature](./literature.md) is the day-by-day journal of [G. Dabin](./g-dabin.md), a French Catholic missionary of the Missions Étrangères de Paris, who traversed the Siamese-Lao frontier interior over 48 days in February–March 1884, travelling from Bangkok to Ubon on the Seimoun, a tributary of the Mekong [[1, pp. 103–104]](#ref-1). Dabin's narrative, translated into English by [W. E. Maxwell](./sir-william-edward-maxwell.md) and submitted through the Revd. N. J. Couvreur at [Singapore](./singapore.md), was published in response to the Society's 1883 Annual Report appeal for observations from French missionaries in the East [[1, p. 117]](#ref-1). The text presents the region as a vast, sparsely populated forest landscape punctuated by scattered [villages](./villages.md), rudimentary administrative outposts, and the occasional major ruin [[1, pp. 104–105]](#ref-1).

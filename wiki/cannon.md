@@ -18,8 +18,6 @@ type: concept
 generated: true
 ---
 
-# Cannon
-
 ## Cannon
 
 Cannon constitute a small but historically dense corpus of material culture in the Malay Peninsula and Borneo, spanning the sixteenth to nineteenth centuries and encompassing both European-cast bronze and iron pieces and locally produced swivel-guns and bombards. Their significance extends well beyond the [military](./military.md): in [Borneo](./borneo.md) they functioned as a stable form of currency and as items of dowry, while in the [Straits Settlements](./straits-settlements.md) and the Malay states they served as objects of sacro-magical veneration, diplomatic gift, and political prestige [[1, pp. 145–146]](#ref-1), [[2, p. 37]](#ref-2). The surviving pieces—numbering in the handful for Dutch-origin cannon in [Malaya](./malaya.md) alone—offer a rare window into the complex interplay of [European](./european.md) metallurgy, [Malay](./malay.md) political economy, and indigenous religious practice that characterised the maritime world of the Indian Ocean and Western Pacific [[3, pp. 156–157]](#ref-3).

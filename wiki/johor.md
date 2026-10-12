@@ -39,8 +39,6 @@ type: concept
 generated: true
 ---
 
-# Johor
-
 Johor is a Malay state on the southern tip of the [Malay](./malay.md) Peninsula whose historical significance extends well beyond its present territorial boundaries. From the early modern period through the nineteenth century, the Johor polity functioned as a major commercial and political node in the Straits of [Malacca](./melaka.md), its influence reaching across the water to [Singapore](./singapore.md), Riau, and the eastern coast of the peninsula [[1]](#ref-1), [[2]](#ref-2). The state's economic foundations rested on the cultivation and export of [gambier](./gambier.md) and [pepper](./pepper.md), the extraction of tin from its interior rivers, and its position as a convergence point for maritime, riverine, and overland trade routes [[3]](#ref-3), [[4]](#ref-4), [[2]](#ref-2). Johor's political history is marked by a succession of rulers who navigated the competing pressures of Portuguese, Dutch, British, and [Chinese](./chinese.md) commercial and [military](./military.md) power, and whose diplomatic manoeuvres—ranging from the 1718 succession crisis to [Sultan Abu Bakar](./sultan-abu-bakar.md)'s 1885 [European](./european.md) tour—shaped the state's trajectory from an independent sultanate to a British protectorate [[5]](#ref-5), [[6]](#ref-6), [[7]](#ref-7).
 
 ## Early History and Toponymic Origins

@@ -14,8 +14,6 @@ type: person
 generated: true
 ---
 
-# Sultan Abdul Ghafur Muhiuddin Shah
-
 ## Sultan Abdul Ghafur Muhiuddin Shah
 
 Sultan Abdul Ghafur Muhiuddin Shah (r. 1592–1614) was the ruler of the Malay state of Pahang during the late sixteenth and early seventeenth centuries. His principal historical significance lies in his patronage of a comprehensive Malay legal digest, compiled under his authority and subsequently transmitted through multiple manuscript [traditions](./traditions.md). The legal code associated with his name, known as the [Pahang](./pahang.md) *kanun* (legal code), has attracted sustained scholarly attention as a foundational text of [Malay](./malay.md) jurisprudence, with at least two distinct textual witnesses documented in the academic [literature](./literature.md) of the mid-twentieth century.

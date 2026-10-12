@@ -17,8 +17,6 @@ type: concept
 generated: true
 ---
 
-# Secret Societies
-
 ## Scope and Historical Definition
 
 The term "secret society" has long served as a colonial shorthand for a complex and heterogeneous range of Chinese and Malay political, economic, and social organisations that operated across the [Straits Settlements](./straits-settlements.md), the [Malay](./malay.md) States, and [Borneo](./borneo.md) from the eighteenth century into the twentieth. The label itself is contested. [Wang Tai-peng](./wang-tai-peng.md) (1979) argued that the word *kongsi*—which colonial administrators reduced to a synonym for "secret society"—denoted in fact a form of open, representative self-government rooted in Chinese partnership and sworn-brotherhood [traditions](./traditions.md) [[1, pp. 102–104]](#ref-1). Purcell observed that "all Chinese social organisation was necessarily 'secret' whilst it was not recognised or was banned by the Government," a point that undermines the very category the colonial state imposed [[1, p. 103]](#ref-1). Modern scholarship has widely recognised the so-called "secret" societies as vehicles of [Chinese](./chinese.md) autonomy within colonial rule in [Southeast Asia](./southeast-asia.md) [[1, p. 103]](#ref-1).

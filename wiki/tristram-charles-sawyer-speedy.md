@@ -17,8 +17,6 @@ type: concept
 generated: true
 ---
 
-# Tristram Charles Sawyer Speedy
-
 ## A Restless Victorian in the Malay States
 
 Tristram Charles Sawyer Speedy (1836–1910) was a British [military](./military.md) officer turned colonial administrator whose brief but consequential career in [Malaya](./malaya.md) (1871–77) made him the first [European](./european.md) to administer a Chinese mining district in the [Malay](./malay.md) Peninsula. His tenure as Assistant Resident of Larut in [Perak](./perak.md), from January 1874 to late 1877, coincided with the birth of the British "Residential system" under the [Pangkor Treaty](./pangkor-treaty.md) and placed him at the centre of the most economically significant tin-mining area in the region at that time [[1, pp. 1–2]](#ref-1). [Larut](./larut.md), at its peak before the civil wars of 1872–73, had employed 40,000 Chinese miners and produced $1 million worth of tin annually [[1, p. 14]](#ref-1). Speedy's administration saw the [Chinese](./chinese.md) [population](./population.md) recover from 4,000 in January 1874 to 27,000 by December of that year, and tin production stabilise at approximately 3,000 piculs per month by 1876 [[1, pp. 36]](#ref-1).

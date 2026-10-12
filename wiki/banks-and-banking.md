@@ -18,8 +18,6 @@ type: concept
 generated: true
 ---
 
-# Banks and banking
-
 [Chinese](./chinese.md) banking in [Singapore](./singapore.md) and the Federation of [Malaya](./malaya.md) developed from the early twentieth century as a response to the financial needs of the Chinese commercial community, which had long operated without access to the [European](./european.md) and American banks that dominated the foreign exchange market. The earliest institution, the Kwong Yik Banking Company, was incorporated in Singapore in 1903, predating the Bank of Communications (1907) and the Bank of [China](./china.md) (1905) in [China](./china.md) itself [[1, p. 112]](#ref-1). By 1952, thirteen [Chinese](./chinese.md) banks had been registered in [Singapore](./singapore.md) and two in the Federation, though several had failed or amalgamated in the intervening decades [[1, p. 112]](#ref-1). The [history](./history.md) of these institutions is inseparable from the broader economic conditions of the region: the unification of the Straits currency in 1898, the post-war rubber boom, the global slump of the 1930s, and the disruptions of the Japanese Occupation all shaped their fortunes [[1, pp. 112–121]](#ref-1).
 
 ## Origins and Early Institutions

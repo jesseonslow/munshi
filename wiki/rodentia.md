@@ -19,8 +19,6 @@ type: concept
 generated: true
 ---
 
-# Rodentia
-
 Rodentia, the order of rodents, has been a subject of sustained zoological investigation across the [Malay](./malay.md) Peninsula and [Borneo](./borneo.md) since the late nineteenth century, encompassing work that ranges from single-specimen taxonomic notes to broad epidemiological [surveys](./surveys.md) of plague vectors. The order's significance in the region is twofold: ecologically, it includes species of considerable altitudinal and geographic diversity, from lowland house rats to highland forms found above a thousand metres; and practically, several species have been identified as vectors of bubonic plague, making their accurate identification a matter of public health concern. The [literature](./literature.md) preserved in the Society's journals reflects both dimensions, with early contributions focused on range extensions and nomenclatural clarification, and later work increasingly oriented toward the applied question of which species matter for sanitary control [[1]](#ref-1), [[2]](#ref-2).
 
 ## Taxonomic Scope and Nomenclatural Revision

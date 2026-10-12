@@ -14,8 +14,6 @@ type: person
 generated: true
 ---
 
-# Emily Innes
-
 Emily Innes (1843–1927) was a Victorian author whose two-volume work *The Chersonese with the Gilding Off* (1885) provides a first-hand account of life in the Malay States during the period of early British administrative intervention. Written from the perspective of a district officer's wife stationed at Kuala Langat and Durian Sabatang between 1876 and 1882, the book presents observations on [Malay](./malay.md) court life, village society, and the daily hardships of [European](./european.md) residence in the tropics. It was conceived as a deliberate counterpoint to [Isabella Bird](./isabella-bird.md)'s *The Golden Chersonese* (1883), which Innes acknowledged as "perfectly and literally true" while asserting that the two authors had seen the country "under totally different circumstances" [[1, pp. 87–88]](#ref-1).
 
 ## Life and Background

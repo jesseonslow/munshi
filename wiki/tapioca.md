@@ -17,8 +17,6 @@ type: concept
 generated: true
 ---
 
-# Tapioca
-
 Tapioca was one of the most important export-oriented crops cultivated by Chinese agricultural pioneers in southern Malaya during the nineteenth century, alongside [gambier](./gambier.md) and [pepper](./pepper.md). Jackson identifies it as part of the small group of crops suited to the needs of a pioneer community desirous of a quick return on a small capital investment, noting that its cultivation under [Chinese](./chinese.md) management achieved a greater degree of success and embraced a larger area in [Malaya](./malaya.md) than any other form of export-oriented [agriculture](./agriculture.md) prior to the advent of rubber [[1, pp. 77–78]](#ref-1).
 
 ## Scope and Historical Definition

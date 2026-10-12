@@ -17,8 +17,6 @@ type: concept
 generated: true
 ---
 
-# Baskets
-
 Baskets constitute one of the most widespread and functionally diverse categories of woven artefact in the material cultures of the [Malay](./malay.md) Peninsula and [Borneo](./borneo.md), serving roles that range from domestic storage and transport to ceremonial display and social signalling. The archival record of the Society's journals documents basketry [traditions](./traditions.md) across a broad geographic span—from the [Straits Settlements](./straits-settlements.md) to the interior highlands of [Sarawak](./sarawak.md) and [British North Borneo](./british-north-borneo.md)—revealing a craft tradition of considerable technical sophistication and symbolic depth. The evidence indicates that basket-making was not a uniform regional practice but a mosaic of locally distinct techniques, materials, and pattern vocabularies, each embedded in specific social and economic contexts.
 
 ## Scope and Technical Definition

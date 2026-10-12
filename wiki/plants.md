@@ -34,8 +34,6 @@ type: concept
 generated: true
 ---
 
-# Plants
-
 The botanical literature of the Straits and Malayan Branches of the Royal Asiatic Society constitutes one of the most sustained and detailed records of plant life in the [Malay](./malay.md) Peninsula and [Borneo](./borneo.md) produced during the colonial period. Spanning from the late 1890s through the 1980s, the Society's journals document the flora of the region across multiple scales—from the morphology of a single genus to the [vegetation](./vegetation.md) of an entire island—and encompass taxonomic description, ecological observation, economic [botany](./botany.md), ethnobotany, and the history of plant introduction. The work is anchored by the field observations of [H. N. Ridley](./henry-nicholas-ridley.md), first Director of the [Singapore](./singapore.md) Botanic Gardens (1888–1913), whose papers form the empirical core of the early [literature](./literature.md), and extends through the contributions of R. E. Holttum, A. W. Hamilton, B. C. Stone, and others into the post-war period [[1]](#ref-1), [[2]](#ref-2), [[3]](#ref-3), [[4]](#ref-4).
 
 ## Scope and Taxonomic Coverage

@@ -18,8 +18,6 @@ type: concept
 generated: true
 ---
 
-# Cambodia
-
 Cambodia, as documented in the Society's [literature](./literature.md), is examined primarily through the lens of its [Malay](./malay.md)-Cham Muslim community — a [population](./population.md) whose presence in the kingdom stretches back to the Angkor period and whose political, [military](./military.md), and social role has been central to the country's modern history. The community, numbering approximately 200,000 by the early twenty-first century, has served as farmers, fishermen, [cattle](./cattle.md) breeders, businessmen, and government administrators from the village level to the highest ranks of provincial governance [[1, pp. 1–2]](#ref-1). Their relationship with the Khmer state has been characterised by mutual service, religious distinction, and periodic political crisis, a dynamic that has shaped Cambodia's internal politics from the French protectorate through the post-Khmer Rouge era [[1, pp. 1–2]](#ref-1).
 
 ## Origins and Settlement

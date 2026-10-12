@@ -18,8 +18,6 @@ type: person
 generated: true
 ---
 
-# Sultan Ibrahim ibni Sultan Abu Bakar
-
 ## Key Facts from the Records:
 - Sultan Ibrahim ibn Al-Marhum Sultan Abu Bakar, born c. 1873 (twenty-two when he came to the throne in 1895), ruled Johore from 1895 to 1959 [[1, p. 6]](#ref-1).
 - Titles: D.K., D.M.J., K.C.M.G. [[1, p. 1]](#ref-1).

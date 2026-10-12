@@ -17,8 +17,6 @@ type: place
 generated: true
 ---
 
-# Christmas Island
-
 ): 67–93. The summary and source evidence fields are empty (just placeholder text), so I have very limited information from this record beyond the title and citation.
 
 [[1]](#ref-1) [Gibson-Hill](./carl-alexander-gibson-hill.md) (1954) - "[A landing on Christmas Island in 1864](./a-landing-on-christmas-island-in-1864.md)" - [JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md) 27(1): 217–220. This is richly detailed with specific information about:

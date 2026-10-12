@@ -14,8 +14,6 @@ type: concept
 generated: true
 ---
 
-# Vegetarianism
-
 ## Vegetarianism
 
 Vegetarianism in the context of the [Malay](./malay.md) Peninsula and [Borneo](./borneo.md) is most extensively documented through the institution of the Chinese women's vegetarian house (*su shi tang*, lit. "vegetarian hall"), a religious and social organisation that provided board, lodging, and old-age security for unattached women who worshipped Buddha. These houses existed in all towns in Malaya where large numbers of such women were concentrated, and their prevalence was shaped by the failure of the [Chinese](./chinese.md) joint [family](./family.md) system to provide for women who were unmarried, widowed, or otherwise severed from male kin support in colonial [Malaya](./malaya.md) [[1, pp. 51–52]](#ref-1).

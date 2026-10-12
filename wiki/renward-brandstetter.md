@@ -14,8 +14,6 @@ type: concept
 generated: true
 ---
 
-# Renward Brandstetter
-
 Renward Brandstetter, Professor at Lucerne, was regarded by the [Straits Settlements](./straits-settlements.md) administrator [C. O. Blagden](./charles-otto-blagden.md) as "the soundest and most accurate Malayan scholar in Europe, outside of Holland" [[1, p. 211]](#ref-1). Working in German under the general title *Malayo-Polynesische Forschungen*, Brandstetter produced a body of comparative linguistic and literary studies that illuminated the deep structural unity of the Malayo-Polynesian language [family](./family.md) and the prehistoric civilizational level of its speakers. His work, though trained in the Dutch scholarly tradition, was characterised by Blagden as "purely original" and placed him in the company of van der Tuuk, Kern, Niemann, and Brandes [[1, p. 216]](#ref-1).
 
 ## Comparative Linguistic Method

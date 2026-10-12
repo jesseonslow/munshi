@@ -24,8 +24,6 @@ type: place
 generated: true
 ---
 
-# Caves
-
 ## Caves of the Malay World: A Survey of Documented Sites
 
 The caves of the Malay Peninsula and [Borneo](./borneo.md) constitute a diverse assemblage of limestone and volcanic formations that have served, across millennia, as sites of habitation, burial, trade, and ecological significance. From the swallow caves of the Sumatran coast to the Neolithic burial grottos of [Sarawak](./sarawak.md) and the karst tunnel systems of the [Perak](./perak.md) Valley, these subterranean environments have attracted sustained scholarly attention since the late nineteenth century. The records preserved in the Society's journals document at least six distinct cave systems across the region, each revealing different facets of the geological, biological, and cultural history of the [Malay](./malay.md) world.

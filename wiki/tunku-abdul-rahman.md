@@ -18,8 +18,6 @@ type: person
 generated: true
 ---
 
-# Tunku Abdul Rahman
-
 Tunku Abdul Rahman Putra Al-Haj (1903–1990) was the first Prime Minister of the Federation of Malaya, serving from independence in 1957 until his retirement in September 1970. A graduate of the University of Cambridge, he is best remembered for his role in the formation of the Federation of [Malaysia](./malaysia.md) in 1963 and for his sustained patronage of higher [education](./education.md), particularly as the first Chancellor of the University of [Malaya](./malaya.md) at its Pantai Valley campus in Kuala Lumpur. His personal papers, preserved at the Tunku Abdul Rahman Putra Al-Haj Memorial in [Kuala Lumpur](./kuala-lumpur.md), have provided scholars with unprecedented access to the diplomatic and institutional decisions of the early independent period [[1, pp. 1–2]](#ref-1).
 
 ## The Cambridge Honorary Doctorate and the Origins of the Malaysia Proposal

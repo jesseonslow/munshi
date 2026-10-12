@@ -16,8 +16,6 @@ type: concept
 generated: true
 ---
 
-# Dragonflies
-
 Dragonflies of the [Malay](./malay.md) Peninsula and [Borneo](./borneo.md) have been the subject of sustained taxonomic investigation since the early twentieth century, with the genus *Macromia*—a group of large, strong-flying insects—serving as a focal point for systematic revision across the Indo-Malayan region. At least eighteen species of *Macromia* were recognised from the Orient by 1922, a number Laidlaw anticipated would increase considerably [[1, p. 219]](#ref-1). The broader odonate fauna of the Malaysian area, encompassing both dragonflies (Anisoptera) and damselflies (Zygoptera), was documented through museum-based [surveys](./surveys.md) and field expeditions that revealed a rich and poorly known assemblage, with collections from interior highlands and isolated island groups yielding a notable proportion of new and rare species [[2, p. 56]](#ref-2), [[3, p. 219]](#ref-3).
 
 ## Taxonomic Framework and Genus *Macromia*

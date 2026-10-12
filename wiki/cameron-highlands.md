@@ -14,8 +14,6 @@ type: concept
 generated: true
 ---
 
-# Cameron Highlands
-
 The Cameron Highlands is a highland plateau in the state of [Pahang](./pahang.md), on the [Malay](./malay.md) Peninsula, situated at an altitude of approximately 1,432 metres in the Bertam Valley [[1, p. 105]](#ref-1). Named after the Government surveyor William Cameron, who explored the region in the mid-1880s, the area has served as a hill station, agricultural zone, and tourist destination from the colonial period to the present [[1, p. 101]](#ref-1). Its economic base rests on [agriculture](./agriculture.md) and tourism, both of which continue to expand and generate environmental pressures [[1, p. 101]](#ref-1). The highlands also form the southern terminus of a route through the interior of [Ulu Kelantan](./ulu-kelantan.md), linking the plateau to the East Coast Railway via the valleys of the Sungai Ber and Sungai Brok, where the [Temiar](./temiar.md) people maintain traditional settlements [[2, pp. 288–293]](#ref-2).
 
 ## Origins and the Question of Naming

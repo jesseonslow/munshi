@@ -16,8 +16,6 @@ type: concept
 generated: true
 ---
 
-# Jakarta
-
 The archival record for this subject is limited to a single source: a 1924 translation of private letters by Reynier Bernardus Hoynck van Papendrecht, who served with the [Dutch East India Company](./dutch-east-india-company.md) at Batavia (the historical name for Jakarta) between 1778 and 1780. The letters offer a first-hand account of the city's physical character, its lethal climate for Europeans, the social hierarchies of Company service, and the financial distress of the VOC in its final decades. [[1]](#ref-1)
 
 ## Physical Character and Climate

@@ -37,8 +37,6 @@ type: concept
 generated: true
 ---
 
-# Mines and mineral resources
-
 The mineral resources of the Malay Peninsula and Borneo have been exploited for centuries, with tin, gold, antimony, iron, cinnabar, and coal forming the backbone of regional economies from the pre-colonial era through the modern petroleum age. The geological basis for this wealth lies in the Mesozoic granite intrusions that form the central spine of the Peninsula, whose weathering has produced extensive alluvial deposits of cassiterite and gold on either side of the range [[1, pp. 5–6]](#ref-1). In [Borneo](./borneo.md), the mineralisation is associated with igneous intrusions piercing ancient limestone and sedimentary sequences, yielding antimony, cinnabar, and [coal](./coal.md) [[2, p. 14]](#ref-2). The economic significance of these deposits has been profound: tin mining sustained the revenue of the [Straits Settlements](./straits-settlements.md) and the [Malay](./malay.md) States for over a century, iron ore from [Johore](./johor.md) supplied a substantial share of [Japan](./japan.md)'s steel industry in the 1920s, and the discovery of offshore petroleum in the 1970s gave rise to a national corporation that became a symbol of Malaysian sovereignty [[3, p. 303]](#ref-3), [[1, pp. 20–22]](#ref-1), [[4, p. 2]](#ref-4).
 
 ## Geological Foundations and the Distribution of Mineral Wealth

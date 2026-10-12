@@ -14,8 +14,6 @@ type: concept
 generated: true
 ---
 
-# Gambier
-
 Gambier, a dye and pharmaceutical product derived from the leaves of *Garcinia xanthochymus*, was the most significant export-oriented crop cultivated by [Chinese](./chinese.md) agricultural pioneers in southern Malaya throughout the nineteenth century. Together with black [pepper](./pepper.md), it formed the backbone of a commercial farming system that affected a larger area and achieved a greater degree of success than any other form of export [agriculture](./agriculture.md) in the region prior to the advent of rubber. The cultivation was concentrated in [Singapore](./singapore.md) and [Johore](./johor.md), where it was practised on a shifting basis across vast tracts of virgin jungle, and its organisational framework—the *[Kangchu System](./kangchu-system.md)*—constituted the most extensive and successful export-oriented enterprise in southern [Malaya](./malaya.md) before the rubber era [[1, pp. 77–78]](#ref-1).
 
 ## Scope and Historical Definition

@@ -66,8 +66,6 @@ type: concept
 generated: true
 ---
 
-# Sumatra
-
 ## Scope and Historical Definition
 
 Sumatra, the largest island in the Indonesian archipelago, has been a focal point of colonial administration, maritime [commerce](./commerce.md), and archaeological investigation since the earliest European contacts. The island's strategic position along the Strait of [Malacca](./melaka.md) rendered it a critical node in the Indian Ocean trading network from at least the seventh century, and its interior highlands—particularly the Bukit Barisan range—supplied gold, [pepper](./pepper.md), and camphor to coastal entrepôts that connected the island to Chinese, Indian, and later [European](./european.md) markets [[1, p. 21]](#ref-1). By the mid-nineteenth century, the Dutch colonial administration had consolidated control over the island's principal regions, which Kehding (1886) enumerated as nine administrative units: the West Coast (Padang), Benkoelen, Lampong, [Palembang](./palembang.md), the East Coast, Atjeh, Riouw and dependencies, Banka, and Billiton [[2, pp. 346–349]](#ref-2). The nature of Dutch authority varied considerably across these divisions, ranging from direct rule in the western provinces to treaty-based oversight of native states on the East Coast, where the Dutch collected duties and exercised jurisdiction over Europeans and [Chinese](./chinese.md) but explicitly disclaimed annexation [[2, pp. 347–348]](#ref-2).

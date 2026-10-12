@@ -20,8 +20,6 @@ type: person
 generated: true
 ---
 
-# Carl Alexander Gibson-Hill
-
 Carl Alexander Gibson-Hill (1911–1963) was a British naturalist, photographer, and historian who served as director of the [Raffles](./stamford-raffles.md) Museum in [Singapore](./singapore.md) and editor of the *[Journal of the Malayan Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* from 1948 to 1961. [[1, p. 3]](#ref-1) His career spanned the final decades of British colonial rule in Malaya, during which he produced a substantial body of work in ornithology, [ethnography](./ethnography.md), and local history, and whose photographic legacy—most fully realised in the 1952 book *[Malaya](./malaya.md)*—has attracted renewed scholarly attention as a document of colonial visual culture. [[1, pp. 1–2]](#ref-1)
 
 ## Early Career and Scientific Work

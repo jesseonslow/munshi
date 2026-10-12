@@ -14,8 +14,6 @@ type: person
 generated: true
 ---
 
-# Sultan Mansur Shah of Malacca
-
 Sultan Mansur Shah (r. 1458–1477) was the fourth ruler of [the Malacca Sultanate](./the-malacca-sultanate.md), a maritime polity that dominated the Strait of Malacca during the fifteenth century. He is historically significant as the subject of the only known extant stone monument from the tombs of the Malaccan Sultans, a head-stone bearing an Arabic inscription that has been the focus of scholarly debate regarding its reading, dating, and attribution. The stone, discovered in [Malacca](./melaka.md) in the early twentieth century, provides the sole material evidence linking the physical remains of the sultanate's royal lineage to a specific individual, and its interpretation has required the intervention of multiple epigraphers across two decades of research.
 
 ## Discovery and Initial Documentation

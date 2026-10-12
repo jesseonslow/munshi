@@ -14,8 +14,6 @@ type: concept
 generated: true
 ---
 
-# William Pryer
-
 William Pryer (1839–1899) was the first Resident of the East Coast of North [Borneo](./borneo.md) and the founder of Sandakan, the port town that would become the principal settlement of the region. Landed at Sandakan Bay on 11 February 1878 with a staff of two, he established British authority in the area through personal energy, sympathetic engagement with indigenous communities, and the judicious use of force when necessary, laying the foundations of the [British North Borneo](./british-north-borneo.md) Company's presence on the east coast during its most precarious early years [[1, pp. 35]](#ref-1).
 
 ## Early Establishment and Consolidation of Authority

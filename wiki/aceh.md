@@ -17,8 +17,6 @@ type: place
 generated: true
 ---
 
-# Aceh
-
 ## Toponymy & Indigenous Landscape
 
 The name "Acheh" is the correct form for that portion of [Sumatra](./sumatra.md) extending from Tamiang Point on the east to Trumun on the west coast, though it was commonly but erroneously known to Europeans as "Acheen" [[1, p. 37]](#ref-1). [G.P. Tolson](./gp-tolson.md), writing in 1880, records that Valentyn had exposed this misnomer as long ago as 1688, deriving the name from the Hindustani word *Achai*, meaning "fine" or "lovely," allegedly exclaimed by the first visitors from [India](./india.md) on sighting the coast in general and *Kampong Pandei* in particular, a place on the Acheh river remarkable for a grove of enormous [trees](./trees.md) of great beauty [[1, p. 37]](#ref-1). Tolson notes that the name recurs in the *Undang Undang* (laws and customs) of [Menangkabau](./menangkabau.md), promulgated by Perpati Sebatang and transcribed by Van Ophuyzen, where mention is made of the [marriage](./marriage.md) of a [Menangkabau](./menangkabau.md) princess with a royal prince of Acheh [[1, pp. 37–38]](#ref-1). An alternative legend holds that a Hindu princess, having disappeared, was found by her brother in [Sumatra](./sumatra.md), who told the natives she was his *Achi* (sister); she was afterwards elected Queen, and the name was given to the country [[1, p. 38]](#ref-1). Tolson also records a local etymology deriving the name from a species of leech, striped dark and light brown, small but vicious, which abounds in the jungle along the west coast [[1, p. 38]](#ref-1).

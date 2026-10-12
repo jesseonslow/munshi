@@ -16,8 +16,6 @@ type: concept
 generated: true
 ---
 
-# Tigers
-
 Tigers have long occupied a position of considerable significance in the natural history of the Malay Peninsula and the broader region, yet their distribution across the archipelago is far from uniform. While the animal is well attested in the forests of Java and the Peninsula, its presence in [Borneo](./borneo.md) remains a matter of contested tradition and fragmentary physical evidence, a question that attracted the attention of naturalists and colonial administrators from the earliest decades of systematic observation in the region [[1]](#ref-1). The tiger's economic impact on plantation [agriculture](./agriculture.md), particularly in [Java](./java.md), was severe enough to prompt the development of dedicated control methods, while in the [Malay](./malay.md) Peninsula the animal featured in both scientific documentation and popular [natural history](./natural-history.md) writing into the twentieth century [[2]](#ref-2), [[3]](#ref-3).
 
 ## Distribution and the Borneo Question

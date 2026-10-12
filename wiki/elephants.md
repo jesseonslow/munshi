@@ -16,8 +16,6 @@ type: concept
 generated: true
 ---
 
-# Elephants
-
 Elephants held a position of considerable economic, social, and ceremonial importance in the Malay Peninsula during the late nineteenth and early twentieth centuries, particularly in the northern states of [Perak](./perak.md), [Trengganu](./terengganu.md), and the Siamese-administered territories of the former [Patani](./patani.md) confederation. As beasts of burden, personal transport for the aristocracy, and objects of prestige, domesticated elephants were integral to the material culture of the Malay elite and to the tin-mining economy of the Kinta Valley. The records also document the capture and taming of wild elephants as a hazardous and wasteful industry, the export of live [animals](./animals.md) to [India](./india.md), and the gradual displacement of the elephant by bullock carts, ponies, and motor vehicles as transport [technology](./technology.md) advanced. The following account draws on the substantial body of evidence preserved in the Society's journal, which treats the elephant not merely as a biological subject but as a lens onto questions of colonial administration, inter-state diplomacy, and the social hierarchies of the [Malay](./malay.md) world.
 
 ## Economic Value and the Tin-Mining Economy

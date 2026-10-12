@@ -14,8 +14,6 @@ type: concept
 generated: true
 ---
 
-# India
-
 ## India and the Malay World: Trade, Language, and Civilisation
 
 India's relationship with the Malay Peninsula and the wider Indonesian Archipelago spans millennia, encompassing the transmission of [religion](./religion.md), the diffusion of language, the establishment of commercial networks, and the movement of peoples across the Indian Ocean. The archival record of the Society's journals reveals a sustained scholarly engagement with this relationship, ranging from linguistic-archaeological arguments about the origins of [Malay](./malay.md) civilisation to the wartime internment of Indian and [Chinese](./chinese.md) subjects in British India during the Second World War. The evidence points to a layered and successive pattern of contact: an early Aryan Hindu phase that introduced foundational religious and administrative vocabulary, a subsequent Dravidian commercial phase that supplied the instruments of trade and [navigation](./navigation.md), and a later colonial period in which Indian subjects—both Tamil and Bengali—formed permanent communities along the Straits coast [[1, pp. 67–74]](#ref-1).

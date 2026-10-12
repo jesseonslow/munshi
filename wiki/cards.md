@@ -16,8 +16,6 @@ type: concept
 generated: true
 ---
 
-# Cards
-
 ## Cards
 
 Playing cards constitute a significant element of Malay recreational and [gambling](./gambling.md) culture across the [Straits Settlements](./straits-settlements.md) and the [Federated Malay States](./federated-malay-states.md), as documented in the ethnographic literature of the early twentieth century. The games played with cards in the region draw on both European card conventions—standard decks, pip values, and suit structures—and indigenous Malay terminology, ritualised procedures, and regional rule variations that distinguish local practice from the [European](./european.md) models from which they derive. The principal games recorded in the archival [literature](./literature.md) include *main chabut*, a vingt-et-un variant; *daun tiga lei* (also known as *pakau*), a three-card hand-ranking game; *main trop*, a trick-taking game with a complex strategic vocabulary; and *main daun cheki*, a game with its own complete nomenclature for individual cards. These [games](./games.md) were played in [Perak](./perak.md), [Selangor](./selangor.md), and [Singapore](./singapore.md), and their study provides a window into the social, linguistic, and economic dimensions of [Malay](./malay.md) leisure in the colonial period [[1]](#ref-1).

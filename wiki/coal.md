@@ -14,8 +14,6 @@ type: concept
 generated: true
 ---
 
-# Coal
-
 Coal in the [Malay](./malay.md) Peninsula and Borneo was, throughout the nineteenth century, a commodity of considerable strategic and commercial significance, though its exploitation was marked by repeated commercial failure and entanglement in imperial politics. The principal deposits lay in [Labuan](./labuan.md) and Brunei, on the northwest coast of Borneo, where seams of bituminous coal were worked by a succession of private companies between 1848 and 1924 [[1, pp. 49–51]](#ref-1), [[2, pp. 12–14]](#ref-2). The coal served two principal markets: the Royal Navy, which required reliable coaling stations to sustain steam-powered patrols across the Straits of [Malacca](./melaka.md) and the South [China](./china.md) Sea, and local [steamers](./steamers.md) engaged in coastwise trade [[1, p. 52]](#ref-1), [[2, pp. 7–8]](#ref-2). Despite the apparent abundance of the resource, no Bornean coal venture achieved sustained commercial profitability, and the industry's history is inseparable from the diplomatic contest between [Sarawak](./sarawak.md), the North [Borneo](./borneo.md) Chartered Company, and the British Government for control of the Sultanate of [Brunei](./brunei.md) [[1, pp. 53–55]](#ref-1).
 
 ## Early Mining Enterprises in Labuan and Brunei

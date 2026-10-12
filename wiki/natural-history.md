@@ -27,8 +27,6 @@ type: concept
 generated: true
 ---
 
-# Natural history
-
 ## Scope and Historical Definition
 
 Natural history in the Malay Peninsula and [Borneo](./borneo.md), as documented in the Society's [literature](./literature.md), refers to the systematic collection, description, and classification of the region's fauna and flora during the mid-nineteenth and early twentieth centuries. The practice was inseparable from colonial administration, commercial enterprise, and the labour networks of local communities, and it produced one of the most extensive biological records of any tropical region in the Victorian era. The single most celebrated example is the collection of 125,660 specimens assembled by [Alfred Russel Wallace](./alfred-russel-wallace.md) over eight years of fieldwork across the Malay Archipelago, today's [Indonesia](./indonesia.md), [Malaysia](./malaysia.md), [Singapore](./singapore.md), and East Timor [[1, p. 41]](#ref-1). Yet this figure, while frequently cited, obscures the collaborative and commercial character of the enterprise: Wallace's collection was assembled with the indispensable labour of a vast network of local people, including boatmen, porters, guides, cooks, hunters, and informal specimen providers, with at least 1,200 individuals estimated to have aided him in some capacity, alongside more than 100 Europeans [[1, p. 67]](#ref-1). The broader practice of natural history in the region thus encompassed not only the work of named [European](./european.md) collectors but also the often-unrecorded contributions of [Malay](./malay.md), [Chinese](./chinese.md), [Dayak](./dayaks.md), and other local communities whose ecological knowledge and physical [labour](./labour.md) made the collecting possible.

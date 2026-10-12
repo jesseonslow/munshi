@@ -21,8 +21,6 @@ type: concept
 generated: true
 ---
 
-# Keris
-
 The *keris* is a double-edged thrusting dagger of the Malay world, characterised by a distinctive crossguard (*ganja*), a wavy or straight blade of variable length, and a complex system of damascened patterns (*pamur*) that encode social rank and spiritual potency. Originating in [Java](./java.md) during the [Majapahit](./majapahit.md) period of the fourteenth century, the weapon spread throughout the Malay Peninsula, [Sumatra](./sumatra.md), [Borneo](./borneo.md), and the eastern [islands](./islands.md), where it became embedded in [marriage](./marriage.md) customs, royal [regalia](./regalia.md), execution practice, and a dense web of [divination](./divination.md) and superstition that persists to the present day [[1, pp. 19]](#ref-1). Its cultural significance far exceeds that of any other [Malay](./malay.md) weapon: neither sword nor spear commands comparable reverence, and the *keris* alone is credited with the power to render its possessor invulnerable, to kill at a distance by pointing (*tuju*), and to fly through the air in defence of its owner [[1, pp. 43–44]](#ref-1), [[2, pp. 135–136]](#ref-2).
 
 ## Origins and Morphology

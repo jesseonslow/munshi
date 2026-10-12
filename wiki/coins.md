@@ -52,8 +52,6 @@ type: concept
 generated: true
 ---
 
-# Coins
-
 Coins of the [Malay](./malay.md) Peninsula and [Borneo](./borneo.md) constitute a diverse numismatic corpus spanning indigenous pewter and gold issues, European colonial minting, and commemorative medals, with documented evidence stretching from the early sixteenth century to the early twentieth century. The coinage of the region is characterised by a persistent reliance on base metals—particularly tin and pewter—reflecting the abundance of local tin deposits and the limited availability of precious metals in the pre-colonial economy, while gold coinage, though rarer, reveals connections to Indian and Persian monetary [traditions](./traditions.md) [[1]](#ref-1), [[2]](#ref-2). [European](./european.md) intervention introduced new metallurgical practices and denominational systems, most notably the Portuguese mint at [Malacca](./melaka.md) in 1511, which struck pewter coins exploiting the local tin supply [[3]](#ref-3). The numismatic record of the region is further complicated by the coexistence of multiple concurrent currency systems, the deliberate debasement of coinage by local authorities, and the gradual displacement of indigenous coinage by [Straits Settlements](./straits-settlements.md) and British colonial issues [[4]](#ref-4), [[5]](#ref-5).
 
 ## Indigenous Pewter and Gold Coinage

@@ -20,8 +20,6 @@ type: concept
 generated: true
 ---
 
-# USA
-
 ## Research and Documentation
 
 The archival record for "Usa" in the Society's journals is limited to a single brief notice. [G.N. Appell](./gn-appell.md), writing from Harvard University, published a short note in 1969 reporting a reference in the journal of James Austin Wilder to early American traders on the Baram River in [Sarawak](./sarawak.md) [[1]](#ref-1). The note is explicitly framed as a request for further information from readers, and Appell states that he has been unable to locate additional details on the individuals concerned [[1, p. 221]](#ref-1). No other article in the available records addresses the subject, and the entry therefore reflects the limits of a single short notice rather than a sustained body of scholarship.

@@ -14,8 +14,6 @@ type: concept
 generated: true
 ---
 
-# Malay beliefs
-
 ## Malay Beliefs
 
 The religious and cosmological life of the Malay people of the Peninsula and [Borneo](./borneo.md) has long been understood by scholars as a layered palimpsest of successive faiths—animist, Hindu, Buddhist, and Muhammadan—each stratum preserved beneath the next, so that the average Malay simultaneously professes Islam while practising rites of far older origin under a thin veneer of orthodoxy [[1, pp. 3–5]](#ref-1). This layered character distinguishes Malay belief from the Western model, in which theology is treated as one branch of knowledge among several; for the Malay, [religion](./religion.md) is the key to all [science](./science.md), morality, and civilisation, and [Islam](./islam.md) functions less as a creed than as a "quasi-political force" and "militant brotherhood" to which the [Malay](./malay.md) is proud to belong [[1, pp. 3–5]](#ref-1). The study of these beliefs has occupied scholars of the Royal Asiatic Society and its branches from the late nineteenth century to the present, producing a body of [literature](./literature.md) that ranges from brief field notes to sweeping ethnographic monographs, and that has itself become an object of critical scrutiny for the epistemic frameworks it embedded.

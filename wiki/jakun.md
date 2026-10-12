@@ -18,8 +18,6 @@ type: concept
 generated: true
 ---
 
-# Jakun
-
 The Jakun are a group of indigenous peoples historically documented across the Malay Peninsula, with attested communities in [Malacca](./melaka.md), [Johore](./johor.md), and [Pahang](./pahang.md). They have been variously classified alongside other non-Muhammadan aboriginal groups in colonial administrative records, and their [languages](./languages.md), customs, and physical characteristics have been the subject of ethnographic and linguistic investigation from the late nineteenth century through the mid-twentieth century. The records indicate a [population](./population.md) in process of assimilation, with dialects heavily impregnated with Malay, declining use of indigenous vocabulary, and increasing cultural blending with [Malay](./malay.md) and [Chinese](./chinese.md) communities [[1, pp. 177–178]](#ref-1), [[2, pp. 29–30]](#ref-2).
 
 ## Scope and Historical Definition

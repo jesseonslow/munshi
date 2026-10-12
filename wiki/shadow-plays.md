@@ -28,8 +28,6 @@ type: concept
 generated: true
 ---
 
-# Shadow plays
-
 ## The Shadow Play in the Malay World
 
 The shadow play, known in Malay as *wayang kulit* (literally "leather puppet"), is a theatrical tradition in which the shadows of intricately cut leather figures are projected onto a white cloth screen illuminated from behind by a lamp. It is performed across the [Malay](./malay.md) Peninsula and [Borneo](./borneo.md), with distinct regional variants in [Kelantan](./kelantan.md), [Trengganu](./terengganu.md), [Perak](./perak.md), and [Patani](./patani.md), and is closely related to the Javanese *wayang purwa* and the Khmer *nang sebek* and *nang trolung* [traditions](./traditions.md) [[1]](#ref-1), [[2]](#ref-2), [[3]](#ref-3). The tradition is of considerable antiquity: Javanese records attest to shadow-play performance by the first half of the eleventh century, and the Kelantanese form is traceable to the late eighteenth century [[4]](#ref-4), [[5]](#ref-5). Its significance extends beyond entertainment into the realms of ritual, cosmology, and agricultural practice, and it has been the subject of sustained scholarly investigation from the early twentieth century to the present, encompassing questions of origin, transmission, ritual function, and material culture [[1]](#ref-1), [[2]](#ref-2), [[3]](#ref-3), [[4]](#ref-4), [[6]](#ref-6), [[5]](#ref-5), [[7]](#ref-7).

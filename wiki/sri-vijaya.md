@@ -19,8 +19,6 @@ type: concept
 generated: true
 ---
 
-# Sri Vijaya
-
 Sri Vijaya was a maritime polity centred on the Musi river basin in southern [Sumatra](./sumatra.md), active from the seventh to the thirteenth centuries, whose commercial and cultural reach extended across the Malay Peninsula, the Strait of [Malacca](./melaka.md), and into the broader Indian Ocean trading network. The polity is attested in [Chinese](./chinese.md), Arab, and indigenous sources, and its [inscriptions](./inscriptions.md)—carved in Old [Malay](./malay.md) on stone—constitute the earliest surviving physical evidence of the decimal zero in its place-holding function, predating comparable Indian material by nearly two centuries [[1, pp. 53–54]](#ref-1). Sri Vijaya's political geography, however, remains one of the most contested in Southeast Asian history: its fame in foreign records stands in stark contrast to the near-total absence of indigenous monumental remains, a discrepancy that has driven successive waves of revisionist scholarship from the 1930s to the present [[2, pp. 1–3]](#ref-2).
 
 ## Scope and Historical Definition

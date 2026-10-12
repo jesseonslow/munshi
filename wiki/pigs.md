@@ -14,8 +14,6 @@ type: concept
 generated: true
 ---
 
-# Pigs
-
 ## Taxonomic Diversity and Systematic Revision
 
 The genus *Sus* in the Malay sub-region was the subject of intensive taxonomic revision throughout the early twentieth century, driven by the accumulation of museum specimens from Borneo, Sumatra, the [Riau Archipelago](./riau-archipelago.md), and the [Malay](./malay.md) Peninsula. G. S. Miller's monograph of 1905–1906 established the foundational framework, describing *Sus gargantua* from south-eastern [Borneo](./borneo.md) as the largest known living pig (skull length 570 mm in a young adult), separating the Peninsular wild pig from the Indian *Sus cristatus* under the name *Sus jubatus*, and erecting numerous island species from the West [Sumatra](./sumatra.md) chain, the Natunas, and Great Nicobar [[1]](#ref-1). C. Boden Kloss, curator at the [Raffles](./stamford-raffles.md) Museum in [Singapore](./singapore.md), reviewed this work in 1907, noting its full descriptions, identification keys, measurements, and numerous plates of skulls and mandibular teeth, while expressing reservation about Miller's decision to separate *Sus jubatulus* on the basis of a single specimen from a small island close to the mainland [[1]](#ref-1).

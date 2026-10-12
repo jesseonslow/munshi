@@ -21,8 +21,6 @@ type: concept
 generated: true
 ---
 
-# Zoology
-
 ## Zoology
 
 Zoological research in the [Malay](./malay.md) Peninsula and [Borneo](./borneo.md), as documented in the Society's journals, spans from early-twentieth-century faunal [surveys](./surveys.md) of small [islands](./islands.md) to mid-century conservation advocacy for large [mammals](./mammals.md) in the interior. The body of work reflects a discipline shaped by colonial administrative structures, museum-based collecting, and the practical pressures of habitat loss. Early contributions were characterised by taxonomic description and species checklists compiled from short expeditions, while later writings shifted toward ecological observation and legislative intervention. Together, these records illustrate how zoological inquiry in the region moved from the cataloguing of insular subspecies to the urgent defence of salt licks and the large fauna that depended upon them.

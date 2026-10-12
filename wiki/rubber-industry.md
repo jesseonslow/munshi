@@ -26,8 +26,6 @@ type: concept
 generated: true
 ---
 
-# Rubber industry
-
 The rubber industry transformed the [Malay](./malay.md) Peninsula and Borneo from modest agricultural economies into the world's dominant source of plantation rubber within a single generation. From its botanical origins in the 1870s, when *Hevea brasiliensis* was first introduced to the region, rubber grew to account for nearly 70 per cent of the [Federated Malay States](./federated-malay-states.md)' total exports by 1916 [[1, p. 77]](#ref-1). The industry's expansion was shaped by the interplay of British mercantile capital, colonial administrative policy, and the [labour](./labour.md) systems that sustained plantation production, while its geographic reach extended from the Peninsular states to the [Borneo](./borneo.md) territories of [Sabah](./sabah.md) and [Sarawak](./sarawak.md), where it resolved chronic financial difficulties in fundamentally different ways [[2, p. 62]](#ref-2). The commodity's extreme price volatility, from a peak of 12/9d per pound in 1910 to a minimum of 6¾d in 1922 [[1, p. 61]](#ref-1), made it a subject of sustained scholarly and policy debate, and the mechanisms of its production, financing, and regulation remain central to understanding the economic history of the region.
 
 ## Origins and Early Cultivation

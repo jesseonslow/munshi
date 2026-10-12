@@ -75,8 +75,6 @@ type: concept
 generated: true
 ---
 
-# Languages
-
 The study of languages in the [Malay](./malay.md) Peninsula and [Borneo](./borneo.md), as documented in the scholarly [literature](./literature.md) of the Straits and Malayan Branches of the Royal Asiatic Society, spans a wide field of inquiry: from the comparative reconstruction of Malayo-Polynesian proto-forms to the documentation of local dialects, the tracing of foreign lexical borrowings, and the analysis of contact varieties born of centuries of maritime and commercial interaction. The records reveal a discipline that evolved from the practical lexicography of colonial administrators into a more rigorous comparative philology, yet one that remained throughout deeply anchored in the material realities of the region—its rivers, its markets, its gardens, and its [inscriptions](./inscriptions.md).
 
 ### Scope and Historical Definition
@@ -119,17 +117,14 @@ The first decade of the twentieth century saw a maturation of method. Moulton's 
 
 The interwar and post-war periods introduced new methodological concerns. Hamilton's 1919 article on foreign loan words [[7]](#ref-7) shifted attention from the ultimate source language to the immediate vector of transmission, a historiographical intervention that reframed the borrowing question. Manning's 1956 commentary [[12]](#ref-12) introduced corpus-based frequency analysis and register theory, anticipating modern computational approaches by decades. Marrison's 1975 study of early Cham [[10]](#ref-10) brought epigraphic evidence to bear on the comparative history of the Indonesian family, extending the chronological depth of the evidence well beyond the range of Malay textual sources. Throughout this trajectory, the literature maintained its characteristic dual character: part practical reference for administrators and educators, part contribution to the broader comparative-linguistic understanding of the Malayo-Polynesian family.
 
-### Notes on individual Malay words
 
-### Natural science terms
 
-### Peninsular dialects
 
-### Borneo and Sumatra
-### Brunei and other Borneo dialects
-### Malay-Polynesian
-### Foreign words in Malay
-### Dictionaries, glossaries, vocabularies
+
+
+
+
+
 ## Chinese
 
 - [Chan, J](./j-chan.md). Recording the Emergency in Historical Fiction. MB 96(1)

@@ -15,8 +15,6 @@ type: concept
 generated: true
 ---
 
-# John Desmond Gimlette
-
 The archival record for John Desmond Gimlette consists of a single one-page obituary by [R. O. Winstedt](./richard-olaf-winstedt.md) published in 1934; no further biographical detail, career account, or scholarly assessment survives in the Society's [literature](./literature.md).[[1]](#ref-1)
 
 ## Identity and Context

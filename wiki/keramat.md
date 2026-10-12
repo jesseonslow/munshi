@@ -27,8 +27,6 @@ type: concept
 generated: true
 ---
 
-# Keramat
-
 The *keramat* is a sacred site or person venerated in the [Malay](./malay.md) archipelago, encompassing [graves](./graves.md), natural objects, and living individuals believed to possess supernatural power. Derived from the Arabic *karamah*, the term designates a *wali*—a close friend of God or pious person—whose sanctity persists after death and whose intercession is sought by ordinary believers [[1, pp. 31–32]](#ref-1). The practice is attested across [Singapore](./singapore.md), [Malaysia](./malaysia.md), [Brunei](./brunei.md), [Indonesia](./indonesia.md), the southern [Philippines](./philippines.md), and southern [Thailand](./thailand.md), where it functions as a focal point for lay religious life, folk [medicine](./medicine.md), and the negotiation of power between communities [[1, pp. 29]](#ref-1). Its significance extends beyond the purely spiritual: *keramat* sites have shaped land-use patterns, influenced economic activity in the timber and construction industries, and served as markers of ethnic identity and inter-communal accommodation in multi-religious societies [[1, pp. 35–37]](#ref-1).
 
 ## Scope and Historical Definition

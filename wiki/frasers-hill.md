@@ -14,8 +14,6 @@ type: place
 generated: true
 ---
 
-# Fraser's Hill
-
 Fraser's Hill, situated on the boundary of [Selangor](./selangor.md) and [Pahang](./pahang.md), is a hill-station perched on steep ridges that developed from a tin-mining settlement into a popular resort frequented by residents throughout [Malaya](./malaya.md). Unlike the valley-land of Cameron's Highlands to the north, Fraser's Hill offers panoramic views from most of its houses, with the surrounding landscape encompassing the [Ulu Selangor](./ulu-selangor.md), the Sungei Tras, and the Ulu Yet drainage systems [[1, pp. 8–10]](#ref-1). The locality is characterised by abundant building stone, a poor water-supply, and cultivated gardens that contrast with the wilder flora of the adjacent highlands [[1, pp. 10–11]](#ref-1).
 
 ## Toponymy & Indigenous Landscape

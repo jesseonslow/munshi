@@ -18,7 +18,10 @@ type: concept
 generated: true
 ---
 
-# Hymenoptera
+## Members & Sub-Topics
+- [Bees](./bees.md)
+- [Wasps](./wasps.md)
+- [Ants](./ants.md)
 
 ## Scope and Historical Definition
 
@@ -26,10 +29,6 @@ The order Hymenoptera, encompassing parasitic and social [wasps](./wasps.md), [b
 
 The genus *Iphiaulax* (family Braconidae) emerges from these records as the single most speciose genus of Hymenoptera in [Malaya](./malaya.md), a designation made explicitly by [P. Cameron](./p-cameron.md) in 1907 on the basis of the number of known species [[1, p. 1]](#ref-1). Cameron described ten species of *Iphiaulax* from Kuching alone in that paper [[1, p. 1]](#ref-1), and in a companion 1905 monograph he added approximately twenty-eight further new species from Sarawak localities including Kuching, Matang, Mount Siban, Santubong, and Pampat [[2, pp. 23–51]](#ref-2). Together, these two works account for nearly forty new *Iphiaulax* species from a single Bornean province within a two-year period, underscoring the extraordinary density of parasitic wasp diversity in the region and the degree to which it remained undocumented at the turn of the twentieth century.
 
-## Members & Sub-Topics
-- [Bees](./bees.md)
-- [Wasps](./wasps.md)
-- [Ants](./ants.md)
 
 ## Taxonomic Architecture and Morphological Grouping
 

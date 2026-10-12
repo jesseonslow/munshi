@@ -34,8 +34,6 @@ type: concept
 generated: true
 ---
 
-# Java
-
 ## The British Interregnum and the Invasion of 1811
 
 Java, the largest island of the Indonesian archipelago, occupies a central position in the history of [European](./european.md) colonial engagement with [Southeast Asia](./southeast-asia.md). The island's strategic location, agricultural productivity, and complex indigenous political structures made it a focal point of imperial competition between the Dutch and the British during the Napoleonic Wars. The British conquest of Java in 1811, the subsequent five-year occupation under Lieutenant-Governor [Thomas Stamford Raffles](./stamford-raffles.md), and the restoration of Dutch sovereignty in 1816 constitute a period of profound administrative, economic, and cultural transformation that attracted sustained scholarly attention from the Straits and Malayan Branches of the Royal Asiatic Society. The island's history extends far beyond this colonial interlude: the [Majapahit](./majapahit.md) kingdom of the fourteenth century, the Java War of the 1820s–30s, and the Dutch culture system of the 1830s all feature prominently in the Society's [literature](./literature.md), while the [natural history](./natural-history.md), [ethnography](./ethnography.md), and legal administration of Java provided recurring subjects for investigation from the 1880s through the 1970s and beyond.

@@ -17,8 +17,6 @@ type: concept
 generated: true
 ---
 
-# John Palmer
-
 John Palmer (c. 1760–1827) was a Calcutta merchant of Portuguese descent, styled the "Prince of Merchants" by Governor-General Lord Hastings, whose correspondence provides a distinctive vantage point on the British strategic and commercial calculus behind the acquisition of [Singapore](./singapore.md) in 1819 and the broader Anglo-Dutch contest for the Straits of [Malacca](./melaka.md) [[1, p. 20]](#ref-1). His letters, held in the India Office Library, illuminate the diplomatic and commercial negotiations that culminated in the Treaty of 1824, offering a perspective less commonly exploited than those from London, [Bencoolen](./bencoolen.md), or [Batavia](./jakarta.md) [[1, p. 20]](#ref-1). Beyond his commercial eminence, Palmer occupied a significant political position, being "the friend and confidant of a considerable proportion of the men holding high office in the Indian Government from about 1800 until his death," including John Adam and Charles Metcalfe, members of Hastings' Council [[1, p. 20]](#ref-1). He also maintained extensive correspondence with Dutch officials in [India](./india.md) and, after his visit in 1821, in [Java](./java.md) [[1, p. 20]](#ref-1).
 
 ## Strategic Vision and the Straits of Malacca

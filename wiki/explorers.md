@@ -14,8 +14,6 @@ type: concept
 generated: true
 ---
 
-# Explorers
-
 The exploration of the [Malay](./malay.md) Peninsula and its surrounding regions by European travellers, missionaries, and surveyors between the 1870s and the early twentieth century constituted a sustained effort to chart, classify, and comprehend a landscape that, by the mid-nineteenth century, remained largely unrecorded in Western geographical [literature](./literature.md). From the forested Siamese-Lao frontier to the mountainous interior of [Perak](./perak.md), from the river systems of [Pahang](./pahang.md) to the highlands of [Aceh](./aceh.md), a succession of individuals—government surveyors, Catholic missionaries, university scientists, and independent adventurers—produced the first systematic accounts of terrain, [population](./population.md), [geology](./geology.md), and indigenous culture across the region. Their work was driven by overlapping imperatives: the administrative needs of the British protectorate system established after the Pangkor Engagement of 1874, the scientific ambitions of metropolitan institutions, the commercial interests of mining and plantation capital, and the missionary and colonial projects of rival [European](./european.md) powers. The cumulative effect was the progressive transformation of what one contemporary observer described as a "closed volume" into a mapped, administered, and increasingly exploited territory [[1, p. 15]](#ref-1).
 
 ## Scope and Historical Definition

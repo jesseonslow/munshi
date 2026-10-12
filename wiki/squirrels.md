@@ -19,8 +19,6 @@ type: concept
 generated: true
 ---
 
-# Squirrels
-
 Squirrels of the genus *Sciurus* and its close relatives constitute a diverse and widespread group across the [Malay](./malay.md) Peninsula and [Borneo](./borneo.md), encompassing multiple species and subspecies that have attracted sustained taxonomic attention from naturalists working in the region. The red-bellied squirrel (*Sciurus vittatus*), the [coconut](./coconut.md) squirrel (*Sciurus notatus*), the black-and-red squirrel (*Sciurus prevosti*), and the rare *Glyphotes simus* all occur within the area, each presenting distinct challenges of classification, distribution, and morphological variation that have occupied researchers from the early twentieth century onward [[1]](#ref-1), [[2]](#ref-2), [[3]](#ref-3), [[4]](#ref-4), [[5]](#ref-5).
 
 ## Taxonomic Framework and Species Groups

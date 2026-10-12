@@ -17,8 +17,6 @@ type: concept
 generated: true
 ---
 
-# Malay etiquette
-
 Malay etiquette, or *adab* (propriety), constitutes an unwritten but rigidly enforced code of conduct governing social interaction across the Malay Peninsula, from the courts of Kelantan and [Perak](./perak.md) to the *kampong* (village) level. The system functions as a mechanism of social stratification preserved, in the words of one senior courtier, "from time immemorial," and is valued even above formal [education](./education.md) by illiterate Malays alike [[1, p. 273]](#ref-1). Its [architecture](./architecture.md) extends from the precise linguistic registers used in addressing royalty to the physical choreography of a royal feast, from the colours assigned to state offices to the gestures of greeting and farewell. Two major scholarly treatments—one an insider's manual compiled by a [Kelantan](./kelantan.md) courtier for a [European](./european.md) readership in 1933, the other a systematic ethnographic survey by a [Malay](./malay.md) scholar in 1950—provide the principal documentary record of this tradition as it stood in the mid-twentieth century [[1]](#ref-1), [[2]](#ref-2).
 
 ## Scope and Historical Definition

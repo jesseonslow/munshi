@@ -16,8 +16,6 @@ type: concept
 generated: true
 ---
 
-# John Crawfurd
-
 John Crawfurd was a British physician, linguist, and colonial administrator who served as Resident of Singapore from 1823 to 1825, succeeding William [Farquhar](./sir-robert-townsend-farquhar.md). His tenure was marked by significant administrative reform, the establishment of a provisional magistracy, and the cession of [Singapore](./singapore.md) to Britain in 1824. Crawfurd's relationship with the settlement's early officials, particularly [Francis James Bernard](./francis-james-bernard.md), was characterised by professional friction and personal acrimony, yet he also played a constructive role in supporting Bernard's claims for compensation before the Supreme Government.[[1, pp. 35–40]](#ref-1)
 
 ## Administrative Role and Governance

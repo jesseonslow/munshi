@@ -26,8 +26,6 @@ type: concept
 generated: true
 ---
 
-# Towns and town planning
-
 ## Towns and Town Planning
 
 The physical form of Malaysian towns is the product of layered interventions—colonial administration, immigrant [labour](./labour.md), market forces, and post-independence state policy—that together produced a built [environment](./environment.md) of remarkable diversity. From the tin-boom reconstruction of [Kuala Lumpur](./kuala-lumpur.md) in the 1880s to the garden-city planning of the [Cameron Highlands](./cameron-highlands.md), from the organic shophouse terraces of Georgetown to the post-war new town of Petaling Jaya, the region's urban landscapes reflect distinct planning logics operating in different periods and under different political regimes. These towns are not merely containers of economic activity but active agents in shaping settlement patterns, ethnic geographies, and environmental relationships across the [Malay](./malay.md) Peninsula and [Borneo](./borneo.md).

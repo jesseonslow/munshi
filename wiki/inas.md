@@ -23,8 +23,6 @@ type: concept
 generated: true
 ---
 
-# Inas
-
 Inas is a small district in Negri Sembilan, situated along the banks of the Sungai Jelai, a tributary of the Sungai [Muar](./muar.md), bordering Johol to the south, [Rembau](./rembau.md) to the west, and the *tanah mengandung* districts radiating from Seri Menanti to the north [[1, p. 65]](#ref-1). Its [population](./population.md) comprised approximately 350 nuclear [family](./family.md) dwellings on roughly 1,170 acres of household and rice land [[1, p. 69]](#ref-1). Inas holds a distinctive position in the political history of Negri Sembilan: it is identified in local tradition as the ancient state of Jelai, one of the original nine *luak* (districts) of the [Negri Sembilan](./negeri-sembilan.md) confederacy, yet its present-day political marginalization has left it without a clearly defined position in the polity [[1, pp. 65–66]](#ref-1).
 
 ## Political Status and the Jelai Question

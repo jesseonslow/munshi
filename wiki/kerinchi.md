@@ -14,8 +14,6 @@ type: concept
 generated: true
 ---
 
-# Kerinchi
-
 Kerinchi (also spelled Kerinci) is a highland region in central Sumatra whose name, languages, and people have attracted sustained scholarly attention for their bearing on the linguistic [prehistory](./prehistory.md) of the Malay world and the demographic movements of the nineteenth century. The Kerinchi dialects, spoken across a cluster of localities in the highlands of West [Sumatra](./sumatra.md), exhibit a set of phonological developments that [E.O. Van Reijn](./eo-van-reijn.md) demonstrated to be parallel to those found in Mon-Khmer languages of Further [India](./india.md) and in the [languages](./languages.md) of the aboriginal peoples of the Malay Peninsula, pointing to a substratum of considerable antiquity [[1, p. 136]](#ref-1). The Kerinchi people themselves are documented as gold-miners, traders, and bearers of an indigenous phonetic script, characteristics that brought them into contact with the [Malay](./malay.md) Peninsula from at least the eighteenth century onward [[2, pp. 83–84]](#ref-2). The region's most populous area is itself called Rawang, a fact that has generated a persistent historiographical confusion between the Kerinchi and the people known in Peninsular sources as *orang Rawa* [[2, p. 83]](#ref-2).
 
 ## Linguistic Profile and the Mon-Khmer Substratum

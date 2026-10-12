@@ -14,8 +14,6 @@ type: concept
 generated: true
 ---
 
-# Jan van Riebeeck
-
 ## Jan Van Riebeeck as Commandeur of Malacca
 
 Jan van Riebeeck (1619–1677) is best known for establishing the Dutch settlement at the Cape of Good Hope in 1652, yet his brief and troubled tenure as Commandeur of Malacca (1662–1665) reveals the economic and diplomatic challenges of maintaining a strategically vital but financially unprofitable VOC outpost in the Straits of [Malacca](./melaka.md).[[1]](#ref-1) Appointed on 18 September 1662 to a rank lower than that of his predecessors, Riebeeck governed a town that had long been a shadow of its former self, its harbour blockaded for years and its importance for [navigation](./navigation.md) seriously diminished.[[1, pp. 173–174]](#ref-1)

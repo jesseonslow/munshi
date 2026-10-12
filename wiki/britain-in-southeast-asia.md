@@ -20,8 +20,6 @@ type: concept
 generated: true
 ---
 
-# Britain in Southeast Asia
-
 ** (no subheading): Define the subject, its regional prevalence, and significance.
 
 2. **Thematic Body** (2-4 subheadings using '###'):

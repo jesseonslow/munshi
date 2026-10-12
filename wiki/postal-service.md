@@ -18,8 +18,6 @@ type: concept
 generated: true
 ---
 
-# Postal service
-
 The postal service in [Singapore](./singapore.md), from its inception in 1819 to the formal separation of postal and maritime functions in 1858, represents a case study in how colonial administrative structures struggled to accommodate commercial expansion. The coupling of the Post Master and Master Attendant roles—initially a practical arrangement for a small [military](./military.md) outpost—became progressively dysfunctional as mail volume and port traffic grew, and the eventual decoupling was the product of sustained local pressure rather than imperial initiative [[1]](#ref-1).
 
 ## Origins and Early Administration

@@ -24,8 +24,6 @@ type: concept
 generated: true
 ---
 
-# Money
-
 Money in the Malay Peninsula and [Borneo](./borneo.md) has a history shaped by the interplay of global silver flows, colonial administrative reform, and indigenous linguistic [traditions](./traditions.md). The region's monetary system was defined by the Spanish and Mexican [silver](./silver.md) dollars that circulated from the seventeenth century onward, the gradual establishment of a sterling-backed exchange standard in the [Straits Settlements](./straits-settlements.md), and the eventual adoption of the [Malay](./malay.md) word *[ringgit](./ringgit.md)*—meaning "jagged" or "serrated"—as the official name of the currency. These developments, documented across more than a century of scholarship, reveal a monetary culture in which [European](./european.md) coinage, [Chinese](./chinese.md) commercial practice, and local nomenclature converged to produce a system that persisted, in modified form, well into the late twentieth century.
 
 ## The Dollar as Unit of Account

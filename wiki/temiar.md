@@ -18,8 +18,6 @@ type: concept
 generated: true
 ---
 
-# Temiar
-
 ## The Temiar
 
 The Temiar are a group of Orang Asli (indigenous peoples) of the Malay Peninsula, historically concentrated in the interior highland valleys of [Ulu Kelantan](./ulu-kelantan.md) and adjacent areas of [Pahang](./pahang.md) and [Perak](./perak.md). Their settlements, known as *ladangs* (shifting-cultivation sites), are distributed along river systems in the granite and limestone uplands, where they have maintained a semi-sedentary lifestyle combining riverine foraging, horticulture, and the construction of bamboo rafts for transport and fishing. The Temiar are distinguished from other [Orang Asli](./orang-asli.md) groups by their physical characteristics, their social organisation around large long houses, and their documented contact with [Malay](./malay.md) and colonial administrative structures from the early twentieth century onwards.

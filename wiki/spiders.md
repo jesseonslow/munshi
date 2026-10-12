@@ -14,8 +14,6 @@ type: concept
 generated: true
 ---
 
-# Spiders
-
 ## Spiders
 
 The study of spiders in the [Malay](./malay.md) Peninsula and [Borneo](./borneo.md), as documented in the Society's journal [literature](./literature.md), reveals a body of work that, while modest in volume, addresses questions of considerable taxonomic and anatomical significance. Two principal threads emerge from the archival record: the internal morphology of mygalomorph spiders, particularly the genus *Liphistius*, and the ethological study of the bird-dropping spider *Ornithoscatoides* in the [Johor](./johor.md) region. Together, these contributions illuminate both the structural relationships among spider families and the remarkable adaptive strategies employed by certain species in the region's tropical habitats.

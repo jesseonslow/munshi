@@ -25,8 +25,6 @@ type: group
 generated: true
 ---
 
-# Dutch in Malaya
-
 The Dutch presence in [Malaya](./malaya.md), conducted primarily through the United [East India Company](./east-india-company.md) (*Vereenigde Oostindische Compagnie*, VOC), spanned from the conquest of Malacca from the Portuguese in 1641 to the final British transfer under the Anglo-Dutch Treaty of 1824, with a brief interregnum of British occupation from 1795 to 1818 [[1, p. 105]](#ref-1). The Dutch established a fortified *comptoir* (trading post) at Malacca that served as the administrative and commercial hub for their operations across the Straits of [Malacca](./melaka.md), extending to the [Perak](./perak.md) River, the Dindings (Pulau Pangkor), and Indragiri on the Sumatran coast [[2, pp. 175–180]](#ref-2), [[3, pp. 36–39]](#ref-3). At its peak, the settlement comprised a small [European](./european.md) community of burghers, soldiers, and Company servants alongside a larger population of [Malay](./malay.md), [Chinese](./chinese.md), Javanese, [Bugis](./bugis.md), and Portuguese Christian residents, as well as a significant slave [population](./population.md) [[2, p. 180]](#ref-2), [[1, pp. 121–124]](#ref-1). The Dutch economic footprint was defined by the tin trade, textile [commerce](./commerce.md), and the collection of harbour tolls, though the settlement remained chronically unprofitable for much of its existence [[2, pp. 181–182]](#ref-2).
 
 ## Administrative History and Political Relations

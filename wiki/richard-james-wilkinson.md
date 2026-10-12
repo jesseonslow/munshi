@@ -17,8 +17,6 @@ type: person
 generated: true
 ---
 
-# Richard James Wilkinson
-
 ## A Man of Parts: Administrator, Lexicographer, and Scholar
 
 Richard James Wilkinson (1867–1941) was a British colonial administrator and lexicographer whose career spanned the [Straits Settlements](./straits-settlements.md), the [Federated Malay States](./federated-malay-states.md), and Sierra Leone, culminating in the governorship of the latter colony. Best known as the author of the definitive *Malay-English [Dictionary](./dialects-and-dictionaries.md)*, Wilkinson combined administrative capability with scholarly depth in a way that his contemporaries recognised but that has often been obscured by the enduring reputation of his lexicographical work. As [J. M. Gullick](./john-michael-gullick.md) observed, Wilkinson was genuinely "a man of parts" — a rare figure whose career illuminates the institutional development of Malay [education](./education.md), the evolution of the Malayan civil service, and the intellectual history of [Malay](./malay.md) studies in the British colonial period [[1, p. 19]](#ref-1).

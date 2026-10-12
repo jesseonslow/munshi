@@ -15,8 +15,6 @@ type: concept
 generated: true
 ---
 
-# Malayan Armed Forces
-
 The Malayan armed forces comprised a constellation of locally recruited military and paramilitary units that served the British colonial administration and the Malay rulers across the [Straits Settlements](./straits-settlements.md) and the Protected and [Federated Malay States](./federated-malay-states.md) from the 1870s to the mid-twentieth century. These forces—ranging from the small bodies of Indian sepoys first raised in [Perak](./perak.md) in 1873 to the Malay Regiment of 1933 and the [Johore](./johor.md) Military Forces of 1885—emerged from the practical security demands of a rapidly developing colonial periphery, where [Chinese](./chinese.md) immigration, secret society violence, and Malay state warfare created an urgent need for disciplined armed power that the regular British garrison could not supply in sufficient numbers. Over the course of seven decades, these units evolved from ad hoc [police](./police.md) detachments into professional regiments with defined [military](./military.md) roles, imperial defence obligations, and, in the case of the [Malay](./malay.md) Regiment, a political significance that transcended their combat capability. [[1, pp. 51–94]](#ref-1) [[2, pp. 199–243]](#ref-2) [[3, pp. 95–105]](#ref-3)
 
 ## Origins and Institutional Evolution

@@ -22,8 +22,6 @@ type: person
 generated: true
 ---
 
-# Walter William Skeat
-
 Walter William Skeat (1860–1953) was a British civil servant, linguist, and ethnographer who served in the [Selangor](./selangor.md) and Perak Civil Services before leading the [Cambridge University Expedition](./cambridge-university-expedition.md) to the North-Eastern Malay States and Upper [Perak](./perak.md) in 1899–1900. His work bridged colonial administration and academic scholarship, producing one of the most comprehensive multi-disciplinary field accounts of the [Malay](./malay.md) Peninsula's north-eastern region during a period when Western scientific knowledge of the area was still rudimentary. The expedition he conceived and directed yielded over twenty published zoological papers, extensive ethnographic observations, and linguistic documentation that remain foundational to the study of the region's cultural and [natural history](./natural-history.md) [[1, pp. 1–174]](#ref-1).
 
 ## Early Career and Administrative Postings

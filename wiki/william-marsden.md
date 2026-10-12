@@ -14,8 +14,6 @@ type: concept
 generated: true
 ---
 
-# William Marsden
-
 ] [R.J. Wilkinson](./richard-james-wilkinson.md) (1941), "[More on Bencoolen](./more-on-bencoolen.md)", *[JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* 19(1): 101–119:
 
 - Born 16 November 1754, sixth son of John Marsden, a bank-director in Ireland; of a Derbyshire [family](./family.md) (p. 101)

@@ -14,8 +14,6 @@ type: concept
 generated: true
 ---
 
-# Coconut palms
-
 The [coconut](./coconut.md) palm (*Cocos nucifera*) occupies a position of considerable economic and cultural importance across the Malay Peninsula and the wider [Malay](./malay.md) Archipelago, as attested by the entomological, agricultural, and botanical [literature](./literature.md) of the late nineteenth century. The palm's significance is most vividly documented through the pest species that attack it and the extraordinary biological variations it occasionally exhibits, both of which drew sustained attention from colonial [botanists](./botanists-and-botanical-gardens.md) and agricultural officers in the [Straits Settlements](./straits-settlements.md) and the [Federated Malay States](./federated-malay-states.md). The records preserved in the Society's journal reveal a subject that was studied less for its taxonomy than for its vulnerability to insect damage, its role in local food and folk practice, and the rare anomalies in its development that challenged prevailing botanical understanding.
 
 ## Pest Species and Their Biology

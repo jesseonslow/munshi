@@ -35,8 +35,6 @@ type: concept
 generated: true
 ---
 
-# Mountains
-
 ## Mountains of the Malay Peninsula and Borneo
 
 Mountains in the [Malay](./malay.md) Peninsula and [Borneo](./borneo.md) have served as sites of scientific discovery, colonial administration, indigenous cosmology, and economic exploitation since the mid-nineteenth century. The region's peaks range from the granite coast ranges of the western peninsula to the towering volcanic mass of Mount Kinabalu in [Sabah](./sabah.md), and from the quartzite summits of the Main Range to the sandstone plateaus of [Sarawak](./sarawak.md). Across the archival record, mountains emerge not merely as physical features but as contested spaces where colonial [science](./science.md), indigenous knowledge, and economic ambition intersected. The [literature](./literature.md) documents a progression from initial attempts to measure and name these peaks, through intensive [natural history](./natural-history.md) collecting, to the recognition that mountains were also repositories of spiritual significance and practical resources.

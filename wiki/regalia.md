@@ -24,8 +24,6 @@ type: concept
 generated: true
 ---
 
-# Regalia
-
 ## Regalia
 
 Regalia in the Malay world refers to the ceremonial insignia, weapons, and symbolic objects that denote sovereign authority, rank, and ritual status among the rulers and chiefs of the Malay Peninsula and [Borneo](./borneo.md). These objects—ranging from iron rods and swords to staffs and other [implements](./implements.md)—functioned not merely as decorative attributes of power but as material embodiments of political legitimacy, hereditary right, and the capacity to declare or settle conflict. The study of such regalia has drawn on linguistic, archaeological, and ethnographic evidence to trace the distribution of specific terms and objects across the [Malay](./malay.md) Archipelago and, in some cases, far beyond it, revealing connections that reach into Polynesia, Melanesia, Micronesia, and even the Americas [[1]](#ref-1).

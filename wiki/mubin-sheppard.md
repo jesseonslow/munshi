@@ -18,8 +18,6 @@ type: person
 generated: true
 ---
 
-# Mubin Sheppard
-
 Tan Sri Dato' Dr Haji Mubin Sheppard (1905–1994) was a British-born Malaysian civil servant, historian, and cultural conservator whose career spanned the final decades of colonial [Malaya](./malaya.md) and the first four decades of independent Malaysia. He served as British Adviser to [Negeri Sembilan](./negeri-sembilan.md), founded the Malayan Historical Society, directed the National Museum, and established Badan Warisan [Malaysia](./malaysia.md), the country's first heritage conservation body. His published works on [Malay](./malay.md) history, [architecture](./architecture.md), and performing arts, together with his hands-on rescue of historic buildings, made him the single most influential figure in the institutionalisation of Malaysian cultural heritage. [[1, pp. 47–91]](#ref-1)
 
 ## Early Career and Administrative Postings

@@ -14,8 +14,6 @@ type: concept
 generated: true
 ---
 
-# Charles Brook
-
 Charles Brooke (1829–1917) was the second White Rajah of Sarawak, reigning from 1868 until his death in 1917, and the figure who transformed the ad hoc pragmatism of his uncle [James Brooke](./james-brooke.md)'s founding rule into a fully developed system of administration that consolidated Sarawak's distant territories into a coherent state [[1, p. 95]](#ref-1). His reign, spanning nearly five decades, was characterised by a distinctive blend of paternalistic personal rule, dependence on native authority structures, and a small cadre of European officers who governed a vast riverine territory in north-west [Borneo](./borneo.md) [[1, pp. 95–96]](#ref-1). Brooke's administrative philosophy, articulated in his own writings and evidenced in the machinery of government he built, rested on the conviction that successful colonial rule depended not on institutions but on the character of individual [European](./european.md) officers and the maintenance of traditional native leadership [[1, pp. 96–97]](#ref-1). In his later years, from his English estate at Chesterton Lodge in Gloucestershire, he continued to direct [Sarawak](./sarawak.md)'s affairs through correspondence with his Treasurer, while pursuing an ambitious but ultimately unsuccessful campaign to absorb the remaining territories of the Sultanate of [Brunei](./brunei.md) [[2, pp. 4]](#ref-2).
 
 ## Administrative Philosophy and the Native Principle

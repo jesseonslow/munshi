@@ -15,8 +15,6 @@ type: person
 generated: true
 ---
 
-# Ahmad Shah ibn Iskander
-
 [Ahmad](./ahmad.md) Shah ibn Iskandar, known by the title *Yang di-Pertuan Raja Sakti* (Supreme Holy Ruler), was a Minangkabau claimant to the rulership of that region who emerged in the 1680s as the central figure of the late 17th-century anti-*kafir* (infidel) movement in the Indonesian Archipelago. Claiming descent from Iskandar Dzu'l Karnain ([Alexander the Great](./alexander-the-great.md)) and presenting himself as a saint destined to lead a holy war against the Dutch, he assembled a substantial following across [Sumatra](./sumatra.md) and [Java](./java.md) before his activities shifted from religious insurgency to local political adventuring in the 1690s. Dutch colonial sources, preoccupied with [commerce](./commerce.md) and political control, recorded him merely as a "troublesome pirate" in the [Java](./java.md) Sea, reducing a complex movement to a single disruptive individual [[1, p. 48]](#ref-1).
 
 ## Origins and the Anti-Kafir Context

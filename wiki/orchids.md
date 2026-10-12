@@ -23,8 +23,6 @@ type: concept
 generated: true
 ---
 
-# Orchids
-
 Orchids constitute one of the most extensively studied plant groups in the Malay Peninsula and [Borneo](./borneo.md), with the orchid flora of the [Malay](./malay.md) Peninsula alone standing at 530 species in 87 genera by the early twentieth century, a figure that [H. N. Ridley](./henry-nicholas-ridley.md) anticipated would grow substantially as northern districts and eastern hill ranges were explored [[1, p. 71]](#ref-1). The group encompasses a remarkable range of ecological strategies, from the large-flowered epiphytes of lowland forest to the minute saprophytic [herbs](./herbs.md) of damp jungle floors, and from the simultaneous mass-flowering of *Dendrobium crumenatum* to the fugacious, star-like blooms of *Thismia* that appear and vanish within a week [[2]](#ref-2), [[3]](#ref-3). Research on Malayan orchids has proceeded along two principal axes: taxonomic description, which expanded the known inventory through field collection and cultivation, and pollination biology, which investigated the mechanical and behavioural mechanisms by which these [flowers](./flowers.md) achieve [fertilisation](./fertilisation.md) in the tropical forest [[2]](#ref-2), [[4]](#ref-4), [[1]](#ref-1).
 
 ## Taxonomic Scope and Floristic Distribution

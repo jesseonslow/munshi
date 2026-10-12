@@ -38,8 +38,6 @@ type: concept
 generated: true
 ---
 
-# Marriage
-
 Marriage in the [Malay](./malay.md) Peninsula and Borneo has been a persistent subject of inquiry in the Society's [literature](./literature.md), examined from legal, ritual, and economic perspectives across more than a century of publication. The surviving records span from the late nineteenth century through the mid-twentieth century, covering [Chinese](./chinese.md) polygamous unions adjudicated in colonial courts, [Menangkabau](./menangkabau.md) wedding speeches preserved in oral tradition, [Perak](./perak.md) betrothal ceremonies, and the stratified dowry systems of [Borneo](./borneo.md)'s Illanun and [Bajau](./bajau.md) communities. Together these studies reveal marriage as a site where indigenous custom, colonial law, and economic obligation intersect, and where the encounter between English statutory frameworks and non-English [family](./family.md) structures produced distinctive hybrid legal and cultural outcomes.
 
 ## Chinese Polygamous Marriage and Colonial Jurisprudence

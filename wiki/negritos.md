@@ -15,8 +15,6 @@ type: concept
 generated: true
 ---
 
-# Negritos
-
 ## The Negritos of the Malay Peninsula
 
 The Negritos are the oldest known inhabitants of the Malay Peninsula, a small group of forest-dwelling peoples who, according to most authorities, arrived in present-day Western Malaysia approximately 25,000 years ago, a date derived from archaeological inference rather than any written record [[1, p. 144]](#ref-1). They constitute the smallest of the three major categories of *Orang Asli* (the Malay term for "aborigines," preferred in official usage over the English word "aborigines" for its lack of pejorative connotation), numbering approximately 2,000 individuals in Western [Malaysia](./malaysia.md) according to the 1969 census, against a total *[Orang Asli](./orang-asli.md)* [population](./population.md) of about 53,000 [[1, p. 144]](#ref-1). The Negritos are distinguished from the *Senoi* and *Proto-[Malay](./malay.md)* groups by their physical appearance, which has led to their historical classification alongside the pigmy peoples of other regions, and by their traditional mode of existence as true nomads who do not normally construct buildings more permanent than wind-shelters [[1, pp. 144–145]](#ref-1). Their distribution is confined to the northern part of the peninsula, with tribes found in [Perak](./perak.md), [Kelantan](./kelantan.md), [Kedah](./kedah.md), and [Pahang](./pahang.md), and some groups crossing the border into [Thailand](./thailand.md) [[1, p. 144]](#ref-1).

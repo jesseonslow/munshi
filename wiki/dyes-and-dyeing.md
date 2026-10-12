@@ -21,8 +21,6 @@ type: concept
 generated: true
 ---
 
-# Dyes and dyeing
-
 In the early twentieth century, the dyeing of silk and cotton thread by Malay communities across the [Straits Settlements](./straits-settlements.md) and the [Malay](./malay.md) States represented a sophisticated indigenous textile [technology](./technology.md), drawing on a wide repertoire of vegetable and mineral sources to produce a full spectrum of colours. The practice was documented most comprehensively by [W. W. Skeat](./walter-william-skeat.md) in 1902, who recorded the processes in use in [Kelantan](./kelantan.md), [Patani](./patani.md), and [Selangor](./selangor.md) at a moment when imported aniline dyes from [Singapore](./singapore.md) were rapidly displacing native vegetable dyes [[1, p. 123]](#ref-1). The significance of this record lies not only in its technical detail but in its timing: it captures a tradition in active decline, preserving knowledge that commercial modernisation was erasing [[1]](#ref-1). A later, briefer contribution by [R. Braddell](./r-braddell.md) in 1951 touched on a related metallurgical colouring process, the *sepoh* treatment of gold, which, while distinct from textile dyeing, illustrates the broader cultural preoccupation with achieving specific hues through chemical means [[2, p. 157]](#ref-2).
 
 ## Vegetable and Mineral Dye Sources

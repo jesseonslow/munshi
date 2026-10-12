@@ -14,8 +14,6 @@ type: concept
 generated: true
 ---
 
-# Taboo
-
 ## Scope and Historical Definition
 
 The concept of taboo, understood as a system of prohibitions linking specific actions, objects, or statuses to supernatural or social consequences, has been documented across the Malay Peninsula and Borneo in a variety of cultural and political contexts. In the ethnographic [literature](./literature.md) of the early twentieth century, the term appears in both its indigenous [Malay](./malay.md) form *pantang larang* and in the broader English usage, encompassing everything from royal exclusivity in the sultanates of the peninsula to agricultural and domestic restrictions among upland communities in North [Borneo](./borneo.md). The records preserved in the Society's journal reveal that taboo was not a monolithic institution but a flexible mechanism whose scope, severity, and social function varied considerably according to the community, the season, and the individual's position within the social hierarchy.

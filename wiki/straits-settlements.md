@@ -32,8 +32,6 @@ type: concept
 generated: true
 ---
 
-# Straits Settlements
-
 The Straits Settlements was a British colonial territory comprising the port settlements of [Penang](./penang.md), [Malacca](./melaka.md), and [Singapore](./singapore.md), which from 1826 until 1867 formed a subordinate dependency of the Government of [India](./india.md) before being transferred to the Colonial Office as a crown colony. The territory served as the principal hub of British trade in the eastern seas, its cosmopolitan and rapidly expanding populations drawing together [Malay](./malay.md), [Chinese](./chinese.md), Indian, and [European](./european.md) communities in a polyglot urban [environment](./environment.md) that demanded increasingly sophisticated governance. The settlements' history is characterised by a persistent tension between the minimal, commercially oriented administration inherited from the [East India Company](./east-india-company.md) era and the demands of a growing, multi-ethnic society requiring a definite and impartial code of law [[1]](#ref-1).
 
 ## Administrative Evolution and Governance

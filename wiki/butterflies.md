@@ -24,8 +24,6 @@ type: concept
 generated: true
 ---
 
-# Butterflies
-
 Butterflies of [Borneo](./borneo.md) and the [Malay](./malay.md) Peninsula have attracted sustained scientific attention since the late nineteenth century, with the region's extraordinary diversity and the accessibility of its highland and lowland habitats making it a focal point for lepidopterological research. The faunal record, as documented in the Society's journals, spans from Shelford's early faunal checklists of [Sarawak](./sarawak.md) through Moulton's comprehensive Bornean catalogues to the mid-twentieth-century taxonomic notes on Peninsular forms, revealing a fauna characterised by high endemism, complex mimicry systems, and notable biogeographic connections to the [Philippines](./philippines.md) and the Sunda Shelf [[1, pp. 81–111]](#ref-1), [[2, pp. 73–177]](#ref-2). The [literature](./literature.md) also captures dynamic ecological phenomena—mass migrations, seasonal abundance fluctuations, and predator-prey interactions—that illustrate the ecological role of butterflies in tropical forest and lowland environments [[3, pp. 203–204]](#ref-3), [[4, pp. 314–315]](#ref-4), [[5, pp. 230–231]](#ref-5).
 
 ## Taxonomic Scope and Faunal Composition

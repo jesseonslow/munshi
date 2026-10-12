@@ -17,8 +17,6 @@ type: concept
 generated: true
 ---
 
-# Penan
-
 The Penan are an indigenous group of the [Borneo](./borneo.md) highlands, documented in the scholarly record primarily through ethnographic and linguistic studies of their communities in [Sarawak](./sarawak.md). Their significance lies in the depth of cultural documentation they have attracted, particularly in the mid-twentieth century, when fieldwork revealed a complex social system built around kinship terminology, death-name practices, and a nomadic or semi-nomadic subsistence economy in the upper river valleys of the island's interior.
 
 ## Scope and Historical Definition

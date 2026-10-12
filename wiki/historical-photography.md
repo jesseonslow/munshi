@@ -14,8 +14,6 @@ type: concept
 generated: true
 ---
 
-# Historical photography
-
 Historical photography in the Malay Peninsula and [Borneo](./borneo.md) constitutes a small but significant body of visual evidence for reconstructing the physical, political, and social landscapes of the region during the late nineteenth and early twentieth centuries. Because very few photographs were taken in the [Malay](./malay.md) States before the mid-1890s, when professional photographers established themselves in [Kuala Lumpur](./kuala-lumpur.md) and elsewhere, each surviving image carries disproportionate evidentiary weight [[1, p. 21]](#ref-1). The practice of photography in the region was a complex exercise in practical chemistry, requiring both expertise and equipment, and most of the early work was in the hands of professional photographers based in [Singapore](./singapore.md), among whom the firm of G. R. Lambert & Co. were preeminent [[1, p. 21]](#ref-1). The surviving photographic record spans from the 1870s, when colonial administrators such as J. W. W. Birch took photographs during official tours, through the late 1940s and early 1950s, when [Carl A. Gibson-Hill](./carl-alexander-gibson-hill.md) produced a major photographic survey of the region at the close of direct colonial rule [[2, pp. 1–2]](#ref-2). These images serve simultaneously as historical documents, objects of state propaganda, and artefacts whose own material history—misattribution, loss, and reinterpretation—reflects the political and institutional forces that shaped their production and reception.
 
 ## The Material Conditions of Early Photographic Practice

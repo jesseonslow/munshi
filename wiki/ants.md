@@ -21,8 +21,6 @@ type: concept
 generated: true
 ---
 
-# Ants
-
 Ants constitute a remarkably diverse and ecologically significant component of the insect fauna of the [Malay](./malay.md) Peninsula and the surrounding [islands](./islands.md). The earliest substantial documentation of the region's ant fauna appears in the work of [H. Overbeck](./h-overbeck.md), whose fieldwork between November 1912 and June 1914 across [Singapore](./singapore.md), the [Riau Archipelago](./riau-archipelago.md), [Negri Sembilan](./negeri-sembilan.md), and [Johore](./johor.md) yielded more than 190 distinct ant taxa from twelve collecting sites, including the description of one new genus, one new subgenus, sixteen new species, thirteen new subspecies, and fifteen new varieties [[1, p. 26]](#ref-1). Earlier, [H. N. Ridley](./henry-nicholas-ridley.md) had drawn attention to the behavioural ecology of the caringa ant (*Formica gracilipes*, Gray), documenting its nest-building, combat, and feeding habits in the [Straits Settlements](./straits-settlements.md) [[2]](#ref-2). Together, these and other contributions establish that ants in the region occupy a wide range of ecological niches—from arboreal leaf-nesters to subterranean colonists, from commensal household pests to participants in complex tripartite symbioses with [plants](./plants.md) and scale insects—and that their study in the region has a [history](./history.md) spanning from the 1890s through the 1920s and beyond.
 
 ## Taxonomic Scope and Faunal Composition

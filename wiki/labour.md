@@ -18,8 +18,6 @@ type: concept
 generated: true
 ---
 
-# Labour
-
 Labour in the Malay world has been shaped by a succession of coercive and quasi-voluntary systems—indenture, convict [transportation](./transportation.md), feudal service, and contract employment—that structured the extraction of tin, rubber, [coffee](./coffee.md), and other commodities from the colonial period through the twentieth century. Across the [Malay](./malay.md) Peninsula, [Java](./java.md), and the [Straits Settlements](./straits-settlements.md), the relationship between labour and capital was never simply a matter of free exchange; it was mediated by ethnic hierarchies, legal frameworks, and the political imperatives of colonial and post-colonial states. The archival record reveals a persistent tension between the liberal rhetoric of free labour and the practical demands of plantation [agriculture](./agriculture.md), mining, and public works, a tension that only gradually—and incompletely—yielded to the conditions of a modern wage economy [[1, pp. 1–2]](#ref-1), [[2, p. 195]](#ref-2), [[3, p. 64]](#ref-3).
 
 ## Scope and Historical Definition

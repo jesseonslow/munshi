@@ -14,8 +14,6 @@ type: concept
 generated: true
 ---
 
-# Joseph Ducroix
-
 Joseph Ducroux (1904–1980) was a young French Comintern agent who arrived in [Singapore](./singapore.md) in April 1931 under the false identity of Serge Lefranc and was arrested within a month, becoming the first [European](./european.md) to be tried and sentenced for Communist activities in the [Straits Settlements](./straits-settlements.md). His brief and ultimately failed mission has attracted considerable scholarly attention, not so much for his individual significance as for the light it throws on the degree of intelligence collaboration between British, French, and other colonial authorities in the region during the early 1930s. [[1, pp. 1–2]](#ref-1)
 
 ## Background and Early Career

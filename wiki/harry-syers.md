@@ -20,8 +20,6 @@ type: concept
 generated: true
 ---
 
-# Harry Syers
-
 Henry Charles Syers (1852–1897) was a British police officer who rose from the rank of private in the 10th Regiment of Foot to become the first Commissioner of Police for the [Federated Malay States](./federated-malay-states.md) in 1896, a position he held for less than a year before being killed by a *seladang* (wild gaur, *Bos gaurus*) in [Pahang](./pahang.md) [[1, pp. 1–2]](#ref-1). His career in [Selangor](./selangor.md), spanning from 1875 to 1896, was defined by a single, consistent principle: that the police in a Malay State must be predominantly [Malay](./malay.md) and integrated into local communities as a civil instrument for the maintenance of law and order, rather than held as a concentrated military striking force [[1, p. 50]](#ref-1). This position ran counter to the prevailing orthodoxy of his contemporaries, who favoured a para-[military](./military.md) model, and was vindicated by the subsequent history of the Malayan [Police](./police.md) [[1, p. 50]](#ref-1).
 
 ## Early Career and the Reorganisation of the Klang Force

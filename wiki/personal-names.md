@@ -14,8 +14,6 @@ type: concept
 generated: true
 ---
 
-# Personal names
-
 Personal names in the Malay world encompass a range of systems—conventional birth-order names, Chinese surname and given-name structures, aboriginal naming practices, and the historical use of titles in diplomatic and literary records—that together reflect the region's complex linguistic, cosmological, and social organisation. From the antonymic pairing of Malay *timang-timangan* (conventional sibling names) to the structured surname-and-given-name conventions of the Chinese communities of [Malaya](./malaya.md), and from the death-related status terms of the Temer of [Perak](./perak.md) to the Javanese royal titles recorded in [Chinese](./chinese.md) dynastic histories, the evidence assembled in the Society's journals reveals a field of considerable depth and internal diversity. These naming systems are not merely classificatory devices; they encode cosmological principles, kinship obligations, and historical memory, and their documentation has been a recurring concern of scholars working across the [Straits Settlements](./straits-settlements.md), the [Malay](./malay.md) Peninsula, and [Borneo](./borneo.md) from the early twentieth century onward.
 
 ## The Malay Conventional Sib-Name System

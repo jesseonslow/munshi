@@ -17,8 +17,6 @@ type: group
 generated: true
 ---
 
-# Bajau
-
 ## Geographic Distribution & Settlement Patterns
 
 The Bajau are a Muslim people who constitute a well-established element of the [population](./population.md) of [British North Borneo](./british-north-[borneo](./borneo.md).md), with their principal settlements concentrated along the west coast in the Tempasuk (Kota Belud) and Tuaran Districts, extending southward to Papar and, more sparsely, northward to Marudu Bay [[1, p. 48]](#ref-1). The term *Bajau* itself is not a self-designation but the name applied to them by the [Brunei](./brunei.md) Malays; the people call themselves *Samah*, a term also used by their neighbours, the Dusun [[1, p. 48]](#ref-1). The Suluk apply the cognate form *Samal* to all the sea-roving groups and, it is reported, to the settled Bajau of North [Borneo](./borneo.md) as well [[1, p. 55]](#ref-1).

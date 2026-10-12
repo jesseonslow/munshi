@@ -23,8 +23,6 @@ type: concept
 generated: true
 ---
 
-# Fertilisation
-
 Fertilisation in the flora of the Malay Peninsula and Borneo, as documented in the early twentieth-century [literature](./literature.md) of the Straits Branch and [Malayan Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md), encompasses a wide range of reproductive strategies among tropical plants, from the elaborate insect-mediated cross-pollination of large-flowered orchids to the mechanical self-fertilisation devices of inconspicuous Myrtaceae. The records reveal a region where floral morphology frequently overstates the degree of insect dependence: many [orchids](./orchids.md) that appear architecturally designed for cross-fertilisation in fact set few or no seed pods without human intervention, while others have evolved precise mechanical and temporal mechanisms to ensure that pollen is transferred only between distinct [plants](./plants.md). The study of these processes, conducted primarily through direct field observation in [Sarawak](./sarawak.md), the [Malay](./malay.md) Peninsula, and [Borneo](./borneo.md) between 1903 and 1928, established a foundation for understanding the pollination ecology of tropical flora that anticipated later formalisations in evolutionary biology.
 
 ## Scope and Historical Definition
