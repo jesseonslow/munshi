@@ -3,6 +3,7 @@ from __future__ import annotations
 
 import os
 import tempfile
+import re
 from pathlib import Path
 from typing import Any
 import yaml
@@ -46,22 +47,30 @@ def write_wiki_page_atomic(file_path: Path, frontmatter: dict[str, Any], body: s
     os.replace(temp_name, file_path)
 
 
-def apply_frontmatter_patch(
+def apply_patch(
     file_path: Path,
     patch: dict[str, Any] | None = None,
     keys_to_remove: list[str] | None = None,
     reset_body: bool = False,
+    wiki_dir: Path | None = None,
 ) -> dict[str, Any]:
-    """Applies structured patch updates, key deletions, and optional body reset."""
+    """Applies atomic frontmatter updates and optional body transformations."""
     fm, body = read_wiki_page(file_path)
 
     if keys_to_remove:
         for k in keys_to_remove:
             fm.pop(k, None)
 
-    # Defensively verify patch is a dict before updating
     if patch and isinstance(patch, dict):
-        fm.update(patch)
+        patch_copy = dict(patch)
+
+        # If the patch includes inline link transformations
+        if "links" in patch_copy and wiki_dir:
+            links = patch_copy.pop("links")
+            body = inject_markdown_links(body, links, wiki_dir)
+
+        # Apply remaining keys directly to YAML frontmatter
+        fm.update(patch_copy)
 
     if reset_body:
         title = fm.get("title", file_path.stem)
@@ -69,3 +78,57 @@ def apply_frontmatter_patch(
 
     write_wiki_page_atomic(file_path, fm, body)
     return fm
+
+
+def inject_markdown_links(body: str, links: list[dict[str, str]], wiki_dir: Path) -> str:
+    """
+    Deterministically splices proposed links into Markdown body prose.
+    - Verifies target slug exists on disk.
+    - Replaces only the FIRST occurrence in non-heading, non-linked paragraphs.
+    - Does not corrupt existing Markdown links [...](...) or headings (#).
+    """
+    if not links:
+        return body
+
+    blocks = body.split("\n\n")
+    new_blocks = []
+    linked_slugs: set[str] = set()
+
+    for block in blocks:
+        stripped = block.strip()
+        if stripped.startswith(("#", "<!--", "<span", ">")):
+            new_blocks.append(block)
+            continue
+
+        for link in links:
+            anchor = link.get("anchor_text", "").strip()
+            target_slug = link.get("target_slug", "").strip()
+
+            if not anchor or not target_slug:
+                continue
+
+            if target_slug in linked_slugs:
+                continue
+
+            target_file = wiki_dir / f"{target_slug}.md"
+            if not target_file.exists():
+                continue
+
+            if f"[{anchor}]" in block or target_slug in block:
+                continue
+
+            pattern = re.compile(
+                rf"(?<!\[)(?<![\w/])({re.escape(anchor)})(?![\w/])(?![^\[]*\])",
+                re.IGNORECASE,
+            )
+            match = pattern.search(block)
+            if match:
+                start, end = match.span()
+                matched_text = match.group(1)
+                replacement = f"[{matched_text}](./{target_slug}.md)"
+                block = block[:start] + replacement + block[end:]
+                linked_slugs.add(target_slug)
+
+        new_blocks.append(block)
+
+    return "\n\n".join(new_blocks)

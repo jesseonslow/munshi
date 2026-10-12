@@ -12,7 +12,8 @@ import click
 from openai import AsyncOpenAI
 
 from munshi_bots.config import ROOT, BotConfig
-from munshi_bots.file_utils import apply_frontmatter_patch, read_wiki_page
+from munshi_bots.engine import execute_policy_on_file
+from munshi_bots.file_utils import read_wiki_page
 from munshi_bots.providers import get_candidate_provider
 
 cfg = BotConfig()
@@ -20,13 +21,11 @@ cfg = BotConfig()
 
 def match_filter(fm: dict[str, Any], stem: str, filter_rules: dict[str, Any]) -> bool:
     """Generic predicate evaluating frontmatter and slug against policy criteria."""
-    # 1. Generic exclusion patterns on slug (e.g. exclude_slug_patterns: ["-nq-"])
     slug_patterns = filter_rules.get("exclude_slug_patterns", [])
     for pat in slug_patterns:
         if re.search(pat, stem):
             return False
 
-    # 2. Null/empty field constraints (e.g. source_doc: null)
     for key, expected in filter_rules.items():
         if key.startswith("exclude_"):
             continue
@@ -36,16 +35,14 @@ def match_filter(fm: dict[str, Any], stem: str, filter_rules: dict[str, Any]) ->
         if expected is None and actual is not None:
             return False
 
-    # 3. Generic exclusion values for specific frontmatter fields
     for rule_key, excluded_vals in filter_rules.items():
         if rule_key.startswith("exclude_") and rule_key != "exclude_slug_patterns":
-            field_name = rule_key.removeprefix("exclude_")  # e.g. "publication_types" -> check field
-            singular_name = field_name.rstrip("s")  # e.g. "publication_type"
+            field_name = rule_key.removeprefix("exclude_")
+            singular_name = field_name.rstrip("s")
             val = str(fm.get(singular_name) or fm.get(field_name) or "").lower()
             if val in [str(x).lower() for x in excluded_vals]:
                 return False
 
-    # 4. Target type inclusions
     target_types = filter_rules.get("type")
     if target_types is not None:
         if isinstance(target_types, str):
@@ -94,117 +91,6 @@ async def call_llm_with_retry(
                 raise e
 
 
-async def process_file(
-    file_path: Path,
-    client: AsyncOpenAI,
-    model: str,
-    policy_instructions: str,
-    threshold: float,
-    execute: bool,
-    provider: Any | None,
-    semaphore: asyncio.Semaphore,
-) -> dict[str, Any]:
-    fm, body = read_wiki_page(file_path)
-
-    # Resolve candidates via injected provider if configured by policy
-    candidates_text = ""
-    if provider:
-        det_match, candidates_text = provider.get_candidates(fm, file_path.stem)
-        if det_match:
-            patch = {
-                "source_doc": det_match["doc_id"],
-                "source_path": det_match["rel_path"],
-                "source_mismatch": False,
-            }
-            if execute:
-                apply_frontmatter_patch(file_path, patch=patch)
-            return {
-                "file": file_path.name,
-                "status": "FAST_PATH",
-                "patch": patch,
-                "confidence": 1.0,
-                "applied": execute,
-                "reasoning": f"Deterministic match via Master Issue #{det_match['master_no']}",
-                "candidates_debug": "(Fast Path Hit)",
-            }
-
-    # Interpolate variables into policy instructions
-    interpolated_system_prompt = policy_instructions.replace("{{candidates}}", candidates_text)
-
-    user_payload = (
-        f"Target File: {file_path.name}\n\n"
-        f"Frontmatter:\n{json.dumps(fm, indent=2)}\n\n"
-        f"Body Excerpt:\n{body[:1500]}"
-    )
-
-    async with semaphore:
-        payload_kwargs = {
-            "model": model,
-            "temperature": 0.1,
-            "response_format": {"type": "json_object"},
-            "extra_body": {"reasoning": {"max_tokens": 128}},
-            "messages": [
-                {"role": "system", "content": interpolated_system_prompt},
-                {"role": "user", "content": user_payload},
-            ],
-            "timeout": 25.0,
-        }
-
-        try:
-            resp = await call_llm_with_retry(client, payload_kwargs)
-            raw_content = resp.choices[0].message.content or "{}"
-            result = json.loads(raw_content)
-
-            # Defensive unwrap if LLM wrapped in a list: [{...}] -> {...}
-            if isinstance(result, list):
-                result = result[0] if (result and isinstance(result[0], dict)) else {}
-
-        except Exception as e:
-            return {
-                "file": file_path.name,
-                "status": "ERROR",
-                "error": str(e),
-                "patch": {},
-                "confidence": 0.0,
-                "applied": False,
-                "reasoning": f"Execution or JSON decode failure: {e}",
-                "candidates_debug": candidates_text,
-            }
-
-    should_patch = result.get("should_patch", False)
-    confidence = float(result.get("confidence", 0.0))
-    patch = result.get("patch") or {}
-    if not isinstance(patch, dict):
-        patch = {}
-
-    keys_to_remove = result.get("keys_to_remove", [])
-    reset_body = result.get("reset_body", False)
-
-    applied = False
-    if should_patch and confidence >= threshold and patch:
-        if execute:
-            apply_frontmatter_patch(
-                file_path,
-                patch=patch,
-                keys_to_remove=keys_to_remove,
-                reset_body=reset_body,
-            )
-            applied = True
-        status = "PATCHED" if execute else "PROPOSED"
-    else:
-        status = "FLAGGED"
-
-    return {
-        "file": file_path.name,
-        "status": status,
-        "patch": patch,
-        "confidence": confidence,
-        "applied": applied,
-        "reasoning": result.get("reasoning", ""),
-        "candidates_debug": candidates_text,
-    }
-
-
 async def run_async_pipeline(
     policy: str,
     limit: int | None,
@@ -247,12 +133,24 @@ async def run_async_pipeline(
     click.echo(f"Targeting: {len(files)} files | Concurrency: {concurrency} | Mode: {'EXECUTE' if execute else 'DRY RUN'}\n")
 
     semaphore = asyncio.Semaphore(concurrency)
-    tasks = [
-        process_file(f, client, model, policy_instructions, threshold, execute, provider, semaphore)
-        for f in files
-    ]
 
+    async def sem_worker(f: Path) -> dict[str, Any]:
+        async with semaphore:
+            return await execute_policy_on_file(
+                file_path=f,
+                client=client,
+                model=model,
+                policy_instructions=policy_instructions,
+                threshold=threshold,
+                execute=execute,
+                provider=provider,
+                wiki_dir=wiki_dir,
+                call_llm_func=call_llm_with_retry,
+            )
+
+    tasks = [sem_worker(f) for f in files]
     processed = 0
+
     with open(audit_file, "a", encoding="utf-8") as log:
         for fut in asyncio.as_completed(tasks):
             res = await fut
@@ -267,10 +165,18 @@ async def run_async_pipeline(
             click.echo(f"[{processed}/{len(files)}] [{status}] {f_name} (conf: {conf:.2f})")
             if patch:
                 click.echo(f"   ├─ Patch: {patch}")
-            click.echo(f"   ├─ Reasoning: {reason[:120]}")
-            # Print the candidates that were provided to the model:
+            if reason:
+                click.echo(f"   ├─ Reasoning: {reason[:120]}")
             first_cand_line = cands.strip().splitlines()[0] if cands.strip() else "(None)"
             click.echo(f"   └─ Top Candidate Provided: {first_cand_line}")
+
+            log.write(
+                json.dumps({
+                    "timestamp": datetime.now(timezone.utc).isoformat(),
+                    "policy": policy_name,
+                    **res,
+                }) + "\n"
+            )
 
 
 @click.command()
