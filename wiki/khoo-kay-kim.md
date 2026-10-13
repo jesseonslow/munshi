@@ -30,6 +30,7 @@ published: false
 - (1986) [The Perak Sultanate: ancient and modern](./the-perak-sultanate-ancient-and-modern.md). *JMBRAS* 59(1): 1–26
 - (1988) [Patani during the turn of the 20th century: a Malayan perception](./patani-during-the-turn-of-the-20th-century-a-malayan-percept.md). *JMBRAS* 61(1): 86–116
 - (1991) [Taiping (Larut): the early history of a mining settlement](./taiping-larut-the-early-history-of-a-mining-settlement.md). *JMBRAS* 64(1): 1–32
+- (1991) [William Maxwell and the study of Malay society](./william-maxwell-and-the-study-of-malay-society.md). *JMBRAS* 64(2): 5–46
 - (1992) [The ‘Indian Association Movement’ in peninsular Malaysia: the early years](./the-indian-association-movement-in-peninsular-malaysia-the-e.md). *JMBRAS* 65(2): 3–24
 - (1995) [Teluk Anson, 1882–1941: port, agriculture and erosion](./teluk-anson-18821941-port-agriculture-and-erosion.md). *JMBRAS* 68(2): 33–52
 - (1999) [Developments relevant to Malayan agriculture in the post-rubber crisis era (1920–1921](./developments-relevant-to-malayan-agriculture-in-the-post-rub.md). *JMBRAS* 72(2): 17–47

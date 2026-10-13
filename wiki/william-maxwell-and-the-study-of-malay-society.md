@@ -1,14 +1,13 @@
 ---
-id: william-maxwell-and-the-study-of-malay-society-with-an-intro
+id: william-maxwell-and-the-study-of-malay-society
 work_id: jmbras-64-2-p5
-title: William Maxwell and the study of Malay society (with an introduction by Khoo
-  Kay Kim
-canonical_name: William Maxwell and the study of Malay society (with an introduction
-  by Khoo Kay Kim
+title: William Maxwell and the study of Malay society
+canonical_name: William Maxwell and the study of Malay society
 type: article
 article_type: article
 authors:
 - J.M. Gullick
+- Khoo Kay Kim
 year: 1991
 journal_code: JMBRAS
 volume: 64
@@ -26,7 +25,7 @@ summarized: true
 jstor: https://www.jstor.org/stable/41493185
 ---
 
-# William Maxwell and the study of Malay society (with an introduction by Khoo Kay Kim
+# William Maxwell and the study of Malay society
 
 J.M. Gullick's 1991 article in the *[Journal of the Malaysian Branch of the Royal Asiatic Society](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* (Vol. 64, No. 261) is a comprehensive biographical and scholarly assessment of Sir William Maxwell (1846–1897), the [Straits Settlements](./straits-settlements.md) administrator who, in the absence of any professional academic establishment in [Malaya](./malaya.md), became the pioneering figure in the systematic study of Malay society, language, and history during the 1870s and 1880s. [Gullick](./john-michael-gullick.md)'s central argument is that Maxwell's unique combination of legal training, deep immersion in [Malay](./malay.md) village life, multilingual competence, and voracious reading made him the first "first-hand observer with scholastic knowledge" in Malayan studies — a role that no university-trained scholar could fill until well after his death.
 
@@ -55,6 +54,3 @@ Gullick's definitive takeaway is that Maxwell's legacy to Malay studies is immen
 
 - The article draws on Maxwell's official papers in the Colonial Office records (CO 273 series), Parliamentary Papers (including C.3429 of 1882 on slavery and the 1884–85 volumes on the "Nisero"), the Royal Asiatic Society's Maxwell bequest (105 items), SOAS manuscripts (MS 46941–46946), and the RCS/BAM papers at the Royal Commonwealth Society Library.
 - Historiographically, the article positions Maxwell as the first figure in Malayan studies to combine systematic field observation with comparative linguistic and historical scholarship, predating the professionalization of the discipline at universities. It also corrects several biographical errors in earlier accounts (e.g., Isabella Bird's claim that Maxwell was educated at Oxford) and provides the first comprehensive inventory of his published and unpublished writings on Malayan subjects (Appendix B).
-
-## References
-<!-- Grounded occurrences and citations -->

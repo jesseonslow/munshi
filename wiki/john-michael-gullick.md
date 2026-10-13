@@ -87,7 +87,7 @@ The memoirs themselves—published in two parts in 2013 and 2014—were original
 - (1989) [Yap Ah Loy 1837 – 1885](./yap-ah-loy-1837-1885.md). *Reprint* 9: 127
 - (1989) [The Bandar Bahru group photograph](./the-bandar-bahru-group-photograph.md). *JMBRAS* 62(1): 21–34
 - (1990) [The growth of Kuala Lumpur and of the Malay community of Selangor before 1880](./the-growth-of-kuala-lumpur-and-of-the-malay-community-of-sel.md). *JMBRAS* 63(1): 15–38
-- (1991) [William Maxwell and the study of Malay society (with an introduction by Khoo Kay Kim](./william-maxwell-and-the-study-of-malay-society-with-an-intro.md). *JMBRAS* 64(2): 5–46
+- (1991) [William Maxwell and the study of Malay society](./william-maxwell-and-the-study-of-malay-society.md). *JMBRAS* 64(2): 5–46
 - (1992) [The Bangunan Sultan Abdul Samad](./the-bangunan-sultan-abdul-samad.md). *JMBRAS* 65(1): 27–38
 - (1993) [Glimpses of Selangor 1860 – 1898](./glimpses-of-selangor-1860-1898.md). *Monograph* 25: 247
 - (1995) [Mubin Sheppard. Obituary](./mubin-sheppard-obituary.md). *JMBRAS* 68(2): 1–6

@@ -46,7 +46,7 @@ Maxwell left Selangor in 1892 to become Colonial Secretary and later acting Gove
 
 ## MBRAS Sources
 
-- [J.M. Gullick](./john-michael-gullick.md) (1991). [William Maxwell and the study of Malay society (with an introduction by Khoo Kay Kim](./william-maxwell-and-the-study-of-malay-society-with-an-intro.md). *[JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* 64(2): 5–46
+- [J.M. Gullick](./john-michael-gullick.md) (1991). [William Maxwell and the study of Malay society](./william-maxwell-and-the-study-of-malay-society.md). *[JMBRAS](./journal-of-the-malaysian-branch-of-the-royal-asiatic-society.md)* 64(2): 5–46
 - Mohamad Rashidi Pakri. The Maxwell-Swettenham rivalry. MB 84(2)
 - [Kynnersley, C.W.S](./cws-kynnersley.md). Obituary. SB 32
 
@@ -130,4 +130,4 @@ Maxwell left Selangor in 1892 to become Colonial Secretary and later acting Gove
 
 ## References
 
-1. <span id="ref-1"></span> J.M. Gullick (1991). [William Maxwell and the study of Malay society (with an introduction by Khoo Kay Kim](./william-maxwell-and-the-study-of-malay-society-with-an-intro.md) *JMBRAS* 64(2): 5–46. <a href="https://www.jstor.org/stable/41493185" class="aggregator-link" target="_blank" rel="noopener noreferrer">Read on JSTOR</a>
+1. <span id="ref-1"></span> J.M. Gullick (1991). [William Maxwell and the study of Malay society](./william-maxwell-and-the-study-of-malay-society.md) *JMBRAS* 64(2): 5–46. <a href="https://www.jstor.org/stable/41493185" class="aggregator-link" target="_blank" rel="noopener noreferrer">Read on JSTOR</a>

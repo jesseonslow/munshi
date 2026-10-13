@@ -32,6 +32,8 @@ contributors:
   name: V.M. Hooker
 - id: y-akashi
   name: Y. Akashi
+- id: khoo-kay-kim
+  name: Khoo Kay Kim
 parent_hub: journal-of-the-malaysian-branch-of-the-royal-asiatic-society
 status: stub
 published: false
@@ -44,11 +46,11 @@ articles:
   pages: 1–6
   is_review: false
 - id: jmbras-64-2-p5
-  slug: william-maxwell-and-the-study-of-malay-society-with-an-intro
-  title: William Maxwell and the study of Malay society (with an introduction by Khoo
-    Kay Kim
+  slug: william-maxwell-and-the-study-of-malay-society
+  title: William Maxwell and the study of Malay society
   authors:
   - J.M. Gullick
+  - Khoo Kay Kim
   pages: 5–46
   is_review: false
 - id: jmbras-64-2-p47
@@ -99,7 +101,7 @@ articles:
 
 ## Table of Contents
 * [Welcome to our new patron {HH Idris Shah Raja Muda of Selangor](./welcome-to-our-new-patron-hh-idris-shah-raja-muda-of-selango.md) — [Mubin Sheppard](./mubin-sheppard.md) (pp. 1–6)
-* [William Maxwell and the study of Malay society (with an introduction by Khoo Kay Kim](./william-maxwell-and-the-study-of-malay-society-with-an-intro.md) — [J.M. Gullick](./john-michael-gullick.md) (pp. 5–46)
+* [William Maxwell and the study of Malay society](./william-maxwell-and-the-study-of-malay-society.md) — [J.M. Gullick](./john-michael-gullick.md), [Khoo Kay Kim](./khoo-kay-kim.md) (pp. 5–46)
 * [A study in growth: an economic history of Melaka 1400–1510](./a-study-in-growth-an-economic-history-of-melaka-14001510.md) — [R.W. McRoberts](./rw-mcroberts.md) (pp. 47–78)
 * [Swettenham’s manuscript of Hikayat Hang Tuah](./swettenhams-manuscript-of-hikayat-hang-tuah.md) — [V.M. Hooker](./vm-hooker.md) (pp. 79–101)
 * [Baba Ounus Saldin: an account of a Malay literary savant of Sri Lanka](./baba-ounus-saldin-an-account-of-a-malay-literary-savant-of-s.md) — [B.A. Hussainmiya](./ba-hussainmiya.md) (pp. 103–134)
@@ -113,6 +115,7 @@ articles:
 * [J. Kathirithamby– Wells](./j-kathirithamby-wells.md)
 * [J. Villiers](./j-villiers.md)
 * [J.M. Gullick](./john-michael-gullick.md)
+* [Khoo Kay Kim](./khoo-kay-kim.md)
 * [Mubin Sheppard](./mubin-sheppard.md)
 * [R.B. McKenna](./rb-mckenna.md)
 * [R.W. McRoberts](./rw-mcroberts.md)
