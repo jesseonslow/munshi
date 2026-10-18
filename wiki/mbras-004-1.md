@@ -153,7 +153,7 @@ articles:
 
 # JMBRAS Vol. 4, Part 1 (July 1926)
 
-**Series:** Journal of the Malayan/[Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
+**Series:** [Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** July 1926
 
 ## Table of Contents

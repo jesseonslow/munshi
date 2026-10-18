@@ -147,7 +147,7 @@ articles:
 
 # JMBRAS Vol. 82, Part 2 (December 2009)
 
-**Series:** Journal of the Malayan/[Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
+**Series:** [Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** December 2009
 
 ## Table of Contents

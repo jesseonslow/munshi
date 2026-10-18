@@ -127,7 +127,7 @@ articles:
 
 # JMBRAS Vol. 43, Part 1 (July 1970)
 
-**Series:** Journal of the Malayan/[Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
+**Series:** [Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** July 1970
 
 ## Table of Contents

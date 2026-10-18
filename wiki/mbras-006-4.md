@@ -130,7 +130,7 @@ articles:
 
 # JMBRAS Vol. 6, Part 4 (November 1928)
 
-**Series:** Journal of the Malayan/[Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
+**Series:** [Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** November 1928
 
 ## Table of Contents

@@ -27,7 +27,7 @@ articles:
 
 # JMBRAS Vol. 13, Part 1 (March 1935)
 
-**Series:** Journal of the Malayan/[Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
+**Series:** [Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** March 1935
 
 ## Table of Contents

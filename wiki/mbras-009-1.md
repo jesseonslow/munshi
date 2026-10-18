@@ -153,7 +153,7 @@ articles:
 
 # JMBRAS Vol. 9, Part 1 (May 1931)
 
-**Series:** Journal of the Malayan/[Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
+**Series:** [Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** May 1931
 
 ## Table of Contents

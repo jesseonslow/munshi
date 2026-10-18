@@ -72,7 +72,7 @@ articles:
 
 # JMBRAS Vol. 15, Part 2 (September 1937)
 
-**Series:** Journal of the Malayan/[Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
+**Series:** [Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** September 1937
 
 ## Table of Contents

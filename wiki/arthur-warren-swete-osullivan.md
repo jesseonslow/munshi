@@ -16,8 +16,6 @@ type: concept
 generated: true
 ---
 
-# Arthur Warren Swete O'Sullivan
-
 ## MBRAS Sources
 
 - [Bland, R.N](./rn-bland.md). [Obituary](./obituary-aws-o-sullivan.md). *SBRAS* 41: x

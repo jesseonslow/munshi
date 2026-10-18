@@ -29,7 +29,7 @@ articles:
 
 # JMBRAS Vol. 17, Part 2 (January 1940)
 
-**Series:** Journal of the Malayan/[Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
+**Series:** [Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** January 1940
 
 ## Table of Contents

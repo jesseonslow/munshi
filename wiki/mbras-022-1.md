@@ -183,7 +183,7 @@ articles:
 
 # JMBRAS Vol. 22, Part 1 (March 1949)
 
-**Series:** Journal of the Malayan/[Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
+**Series:** [Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** March 1949
 
 ## Table of Contents

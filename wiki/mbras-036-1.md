@@ -46,7 +46,7 @@ articles:
 
 # JMBRAS Vol. 36, Part 1 (May 1963)
 
-**Series:** Journal of the Malayan/[Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
+**Series:** [Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** May 1963
 
 ## Table of Contents

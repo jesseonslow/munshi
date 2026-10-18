@@ -118,7 +118,7 @@ articles:
 
 # JMBRAS Vol. 23, Part 3 (August 1950)
 
-**Series:** Journal of the Malayan/[Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
+**Series:** [Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** August 1950
 
 ## Table of Contents

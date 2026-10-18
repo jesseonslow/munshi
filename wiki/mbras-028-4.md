@@ -27,7 +27,7 @@ articles:
 
 # JMBRAS Vol. 28, Part 4 (August 1955)
 
-**Series:** Journal of the Malayan/[Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
+**Series:** [Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** August 1955
 
 ## Table of Contents

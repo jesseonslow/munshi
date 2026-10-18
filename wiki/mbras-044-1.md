@@ -75,7 +75,7 @@ articles:
 
 # JMBRAS Vol. 44, Part 1 (February 1972)
 
-**Series:** Journal of the Malayan/[Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
+**Series:** [Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** February 1972
 
 ## Table of Contents

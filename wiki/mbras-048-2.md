@@ -100,7 +100,7 @@ articles:
 
 # JMBRAS Vol. 48, Part 2 (October 1975)
 
-**Series:** Journal of the Malayan/[Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
+**Series:** [Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** October 1975
 
 ## Table of Contents

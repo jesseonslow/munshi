@@ -112,7 +112,7 @@ articles:
 
 # JMBRAS Vol. 63, Part 1 (June 1990)
 
-**Series:** Journal of the Malayan/[Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
+**Series:** [Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** June 1990
 
 ## Table of Contents

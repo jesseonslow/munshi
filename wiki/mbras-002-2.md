@@ -27,7 +27,7 @@ articles:
 
 # JMBRAS Vol. 2, Part 2 (November 1924)
 
-**Series:** Journal of the Malayan/[Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
+**Series:** [Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** November 1924
 
 ## Table of Contents

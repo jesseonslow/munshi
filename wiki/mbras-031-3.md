@@ -27,7 +27,7 @@ articles:
 
 # JMBRAS Vol. 31, Part 3 (June 1958)
 
-**Series:** Journal of the Malayan/[Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
+**Series:** [Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** June 1958
 
 ## Table of Contents

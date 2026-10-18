@@ -165,7 +165,7 @@ articles:
 
 # JMBRAS Vol. 12, Part 2 (August 1934)
 
-**Series:** Journal of the Malayan/[Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
+**Series:** [Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** August 1934
 
 ## Table of Contents

@@ -107,7 +107,7 @@ articles:
 
 # JMBRAS Vol. 40, Part 1 (July 1967)
 
-**Series:** Journal of the Malayan/[Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
+**Series:** [Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** July 1967
 
 ## Table of Contents

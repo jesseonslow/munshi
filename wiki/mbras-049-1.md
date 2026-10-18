@@ -117,7 +117,7 @@ articles:
 
 # JMBRAS Vol. 49, Part 1 (August 1976)
 
-**Series:** Journal of the Malayan/[Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
+**Series:** [Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** August 1976
 
 ## Table of Contents

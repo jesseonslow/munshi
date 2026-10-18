@@ -34,7 +34,7 @@ articles:
 
 # JMBRAS Vol. 26, Part 4 (December 1953)
 
-**Series:** Journal of the Malayan/[Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
+**Series:** [Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** December 1953
 
 ## Table of Contents

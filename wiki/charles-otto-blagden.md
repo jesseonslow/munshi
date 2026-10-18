@@ -15,11 +15,6 @@ type: concept
 generated: true
 ---
 
-# Charles Otto Blagden
-
-
 ## MBRAS Sources
 
 - [Linehan, W](./w-linehan.md). [Obituary](./co-blagden-obituary.md). *JMBRAS* 23(1)
-
-## References

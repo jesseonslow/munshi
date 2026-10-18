@@ -127,7 +127,7 @@ articles:
 
 # JMBRAS Vol. 70, Part 1 (June 1997)
 
-**Series:** Journal of the Malayan/[Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
+**Series:** [Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** June 1997
 
 ## Table of Contents

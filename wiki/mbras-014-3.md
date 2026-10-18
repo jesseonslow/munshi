@@ -230,7 +230,7 @@ articles:
 
 # JMBRAS Vol. 14, Part 3 (December 1936)
 
-**Series:** Journal of the Malayan/[Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
+**Series:** [Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** December 1936
 
 ## Table of Contents

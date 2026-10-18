@@ -129,7 +129,7 @@ articles:
 
 # JMBRAS Vol. 45, Part 1 (January 1973)
 
-**Series:** Journal of the Malayan/[Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
+**Series:** [Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** January 1973
 
 ## Table of Contents

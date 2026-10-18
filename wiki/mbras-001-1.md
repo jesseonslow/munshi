@@ -227,7 +227,7 @@ articles:
 
 # JMBRAS Vol. 1, Part 1 (April 1923)
 
-**Series:** Journal of the Malayan/[Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
+**Series:** [Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** April 1923
 
 ## Table of Contents
@@ -253,6 +253,9 @@ articles:
 * [A rare petrel](./a-rare-petrel.md) — [F.N. Chasen](./fn-chasen.md) (pp. 255–256)
 * [A large orang-utan](./a-large-orang-utan.md) — [F.N. Chasen](./fn-chasen.md) (pp. 257–259)
 * [Early stages of a Danaine butterfly](./early-stages-of-a-danaine-butterfly.md) — [C.J. Brooks](./cj-brooks.md) (pp. 260–261)
+
+### Reviews 
+
 * *Malay poisons and charm cures. J.D. Gimlette. 2nd edn* — [R.O. Winstedt](./richard-olaf-winstedt.md) (pp. 264–265) [Review]
 * *British North Borneo: an account of its history, resources and native tribes. O. Rutter* — [C.F.C. McCausland](./cfc-mccausland.md) (pp. 265–266) [Review]
 

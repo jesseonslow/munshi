@@ -127,7 +127,7 @@ articles:
 
 # JMBRAS Vol. 62, Part 1 (June 1989)
 
-**Series:** Journal of the Malayan/[Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
+**Series:** [Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** June 1989
 
 ## Table of Contents

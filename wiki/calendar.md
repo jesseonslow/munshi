@@ -18,8 +18,6 @@ type: concept
 generated: true
 ---
 
-# Calendar
-
 The concept of a calendar in the Malay world encompasses a broad spectrum of temporal systems, ranging from the star-based and solar-observation methods developed by indigenous farming communities of Borneo to the rigorous astronomical computation of Islamic prayer times. Both traditions address the fundamental problem of orienting human activity within the annual cycle, yet they do so through radically different epistemological frameworks: one rooted in direct empirical observation of celestial bodies, the other in the mathematical formalisation of solar geometry. Together, the records preserved in the Society's journals reveal how the near-equatorial setting of the region imposed distinctive constraints on timekeeping, forcing communities to devise solutions that differ markedly from those familiar in temperate latitudes.
 
 ## Indigenous Astronomical Timekeeping in Borneo

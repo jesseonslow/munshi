@@ -30,7 +30,7 @@ articles:
 
 # JMBRAS Vol. 8, Part 1 (April 1930)
 
-**Series:** Journal of the Malayan/[Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
+**Series:** [Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** April 1930
 
 ## Table of Contents

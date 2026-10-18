@@ -61,7 +61,7 @@ articles:
 
 # JMBRAS Vol. 7, Part 2 (September 1929)
 
-**Series:** Journal of the Malayan/[Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
+**Series:** [Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** September 1929
 
 ## Table of Contents

@@ -132,7 +132,7 @@ articles:
 
 # JMBRAS Vol. 18, Part 2 (August 1940)
 
-**Series:** Journal of the Malayan/[Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
+**Series:** [Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** August 1940
 
 ## Table of Contents

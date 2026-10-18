@@ -31,7 +31,7 @@ articles:
 
 # JMBRAS Vol. 29, Part 4 (None 1956)
 
-**Series:** Journal of the Malayan/[Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
+**Series:** [Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** None 1956
 
 ## Table of Contents

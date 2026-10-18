@@ -32,7 +32,7 @@ articles:
 
 # JMBRAS Vol. 16, Part 3 (December 1938)
 
-**Series:** Journal of the Malayan/[Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
+**Series:** [Journal of the Malayan/Malaysian Branch of the Royal Asiatic Society](./malaysian-branch-of-the-royal-asiatic-society.md)  
 **Date:** December 1938
 
 ## Table of Contents
